@@ -41,10 +41,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-{{< img src="before-the-dawn-9406091.jpg" title="Before The Dawn by The KT Fellowship" >}}
+Before the Dawn is the second live album by English singer-songwriter Kate Bush, credited to The KT Fellowship. The album was released on 25 November 2016 by Bush's label Fish People, and is distributed in the United States by Concord Records. It was recorded in 2014 during Bush's sell-out 22-date residency, Before the Dawn, at the Hammersmith Apollo in London, which saw her return to the stage following a 35-year absence.
+The album has been certified Gold in the UK by the British Phonographic Industry.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Act I
 2. Lily
 3. Hounds Of Love
@@ -78,14 +81,6 @@ styles: ["Art Rock", "Pop Rock"]
 31. Aerial
 32. Among Angels
 33. Cloudbusting
-
-<!-- section break -->
-
-Before the Dawn is the second live album by English singer-songwriter Kate Bush, credited to The KT Fellowship. The album was released on 25 November 2016 by Bush's label Fish People, and is distributed in the United States by Concord Records. It was recorded in 2014 during Bush's sell-out 22-date residency, Before the Dawn, at the Hammersmith Apollo in London, which saw her return to the stage following a 35-year absence.
-The album has been certified Gold in the UK by the British Phonographic Industry.
-    
-    
-
 
 
 

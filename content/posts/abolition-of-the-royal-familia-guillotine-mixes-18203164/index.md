@@ -26,10 +26,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
 
-{{< img src="abolition-of-the-royal-familia-guillotine-mixes-18203164.jpg" title="Abolition Of The Royal Familia (Guillotine Mixes) by The Orb" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Daze (David Harrow Remix) (BLM Remix23)
 2. Queen Of Hearts (Moody Boys Remix) (Duck Or Drown)
 3. Ital Orb (Gaudi Remix) (Iron Chair)
@@ -41,10 +40,6 @@ styles: ["Ambient", "House"]
 9. Pervitin (Violeta Vicci Remix) (The Saw Torture)
 10. AAA (Violeta Vicci Remix) (Hung, Drawn And Quartered)
 11. Shape Shifting Pt. 1 (Youth Bring In The Clown Remix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838" >}}<br>

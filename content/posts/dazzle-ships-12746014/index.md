@@ -24,10 +24,14 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Experimental"]
 ---
 
-{{< img src="dazzle-ships-12746014.jpg" title="Dazzle Ships by Orchestral Manoeuvres In The Dark" >}}
+Dazzle Ships is the fourth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 4 March 1983 by Virgin Records (under the guise of the fictitious Telegraph label). Its title and cover art allude to a painting by Vorticist artist Edward Wadsworth based on dazzle camouflage, titled Dazzle-ships in Drydock at Liverpool.
+The follow-up album to OMD's commercially successful Architecture & Morality (1981), Dazzle Ships marked a departure in sound for the group, who contended with writer's block and record company pressure to duplicate their previous release. The album is noted for its experimental content, particularly musique concrète sound collages, and the use of shortwave radio recordings to explore Cold War and Eastern Bloc themes. It also concerns itself with the rise of technology in society. The record spawned two singles: "Genetic Engineering" and "Telegraph".
+Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop; it nevertheless attracted a cult following and served as an inspiration for multiple recording artists. Music journalists eventually came to recognise the album as an underrated and misunderstood work, and a record ahead of its time. Since its initial re-release in 2008, Dazzle Ships has received critical acclaim.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Radio Prague (1:18)
 2. Genetic Engineering (3:42)
 3. ABC Auto-Industry (2:06)
@@ -40,15 +44,6 @@ styles: ["Synth-pop", "Experimental"]
 10. Radio Waves (3:44)
 11. Time Zones (1:49)
 12. Of All The Things We've Made (3:23)
-
-<!-- section break -->
-
-Dazzle Ships is the fourth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 4 March 1983 by Virgin Records (under the guise of the fictitious Telegraph label). Its title and cover art allude to a painting by Vorticist artist Edward Wadsworth based on dazzle camouflage, titled Dazzle-ships in Drydock at Liverpool.
-The follow-up album to OMD's commercially successful Architecture & Morality (1981), Dazzle Ships marked a departure in sound for the group, who contended with writer's block and record company pressure to duplicate their previous release. The album is noted for its experimental content, particularly musique concrète sound collages, and the use of shortwave radio recordings to explore Cold War and Eastern Bloc themes. It also concerns itself with the rise of technology in society. The record spawned two singles: "Genetic Engineering" and "Telegraph".
-Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop; it nevertheless attracted a cult following and served as an inspiration for multiple recording artists. Music journalists eventually came to recognise the album as an underrated and misunderstood work, and a record ahead of its time. Since its initial re-release in 2008, Dazzle Ships has received critical acclaim.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dazzle-ships/714977734" >}}<br>

@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="banana-skin-shoes-15351838.jpg" title="Banana Skin Shoes by Badly Drawn Boy" >}}
+On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Banana Skin Shoes
 2. Is This A Dream?
 3. I Just Wanna Wish You Happiness
@@ -42,13 +44,6 @@ styles: ["Indie Rock"]
 12. Never Change
 13. Appletree Boulevard
 14. I'll Do My Best
-
-<!-- section break -->
-
-On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/banana-skin-shoes/1500598594" >}}<br>

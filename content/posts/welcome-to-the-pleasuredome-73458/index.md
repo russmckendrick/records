@@ -26,10 +26,17 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop", "Ballad"]
 ---
 
-{{< img src="welcome-to-the-pleasuredome-73458.jpg" title="Welcome To The Pleasuredome by Frankie Goes To Hollywood" >}}
+Welcome to the Pleasuredome is the debut studio album by English synth-pop band Frankie Goes to Hollywood, first released on 29 October 1984 by ZTT Records. Originally issued as a vinyl double album, it was assured of a UK chart entry at number one due to reported advance sales of over one million. It actually sold around a quarter of a million copies in its first week. The album was also a top-10 seller internationally in countries such as Switzerland, Sweden, Australia and New Zealand.
+While commercially successful, the album also drew criticism for containing new versions of all of the songs from the group's (already much-remixed) singles from the same year ("Relax" and "Two Tribes", plus B-side "War"), as well as a surfeit of cover versions in lieu of much new original material. It was later revealed that Trevor Horn's production dominated the record so thoroughly that the band's own instrumental performances were often replaced by session musicians or Horn himself. Frankie's second album, Liverpool, actively featured the full band.
+However, the album's evergreen ballad "The Power of Love" subsequently provided the group with their third consecutive UK number one single.
+To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Square Music released a limited edition (2,000 copies only) box set entitled Inside the Pleasuredome, available exclusively from the website pledgemusic.com. The box set contains rarities on 10" vinyl, as well as a book, a DVD, a cassette (featuring 13 mixes of "Relax" and its B-side "One September Monday") as well as a new 2014 remastered version of Welcome to the Pleasuredome on 180g vinyl.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. F - Pray Frankie Pray
 2. Well... (0:57)
 3. The World Is My Oyster (1:05)
@@ -51,18 +58,6 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 19. The Only Star In Heaven (4:18)
 20. The Power Of Love (5:24)
 21. Bang... (1:14)
-
-<!-- section break -->
-
-Welcome to the Pleasuredome is the debut studio album by English synth-pop band Frankie Goes to Hollywood, first released on 29 October 1984 by ZTT Records. Originally issued as a vinyl double album, it was assured of a UK chart entry at number one due to reported advance sales of over one million. It actually sold around a quarter of a million copies in its first week. The album was also a top-10 seller internationally in countries such as Switzerland, Sweden, Australia and New Zealand.
-While commercially successful, the album also drew criticism for containing new versions of all of the songs from the group's (already much-remixed) singles from the same year ("Relax" and "Two Tribes", plus B-side "War"), as well as a surfeit of cover versions in lieu of much new original material. It was later revealed that Trevor Horn's production dominated the record so thoroughly that the band's own instrumental performances were often replaced by session musicians or Horn himself. Frankie's second album, Liverpool, actively featured the full band.
-However, the album's evergreen ballad "The Power of Love" subsequently provided the group with their third consecutive UK number one single.
-To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Square Music released a limited edition (2,000 copies only) box set entitled Inside the Pleasuredome, available exclusively from the website pledgemusic.com. The box set contains rarities on 10" vinyl, as well as a book, a DVD, a cassette (featuring 13 mixes of "Relax" and its B-side "One September Monday") as well as a new 2014 remastered version of Welcome to the Pleasuredome on 180g vinyl.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1365569059" >}}<br>

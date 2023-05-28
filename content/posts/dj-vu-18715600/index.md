@@ -34,10 +34,12 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="dj-vu-18715600.jpg" title="Déjà Vu by Crosby, Stills, Nash & Young" >}}
+A milestone record of the folk-rock movement, CSN’s second album together (and their first with Y) was a virtual how-to for flower children entering adulthood in the ‘70s. It offers sweetly harmonised instruction on how to embrace domesticity (“Our House”), raise kids (“Teach Your Children”) and steer clear of trouble without selling out (“Almost Cut My Hair”). But <i>Déjà Vu</i>’s great power is its enigmatic familiarity, which carries Aquarian Age ideals into a new era (“Woodstock”, “Carry On”).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Carry On (4:25)
 2. Teach Your Children (2:53)
 3. Almost Cut My Hair (4:25)
@@ -100,13 +102,6 @@ styles: ["Folk Rock", "Country Rock"]
 60. Our House (Early Version) (2:55)
 61. 4 + 20 (Alternate Take 2) (2:08)
 62. Know You Got To Run (6:42)
-
-<!-- section break -->
-
-A milestone record of the folk-rock movement, CSN’s second album together (and their first with Y) was a virtual how-to for flower children entering adulthood in the ‘70s. It offers sweetly harmonised instruction on how to embrace domesticity (“Our House”), raise kids (“Teach Your Children”) and steer clear of trouble without selling out (“Almost Cut My Hair”). But <i>Déjà Vu</i>’s great power is its enigmatic familiarity, which carries Aquarian Age ideals into a new era (“Woodstock”, “Carry On”).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/d%C3%A9j%C3%A0-vu/321974224" >}}<br>

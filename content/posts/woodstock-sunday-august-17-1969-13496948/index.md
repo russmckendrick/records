@@ -22,10 +22,9 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-{{< img src="woodstock-sunday-august-17-1969-13496948.jpg" title="Woodstock Sunday August 17, 1969 by Sly & The Family Stone" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. M'Lady (7:46)
 2. Sing A Simple Song (5:14)
 3. You Can Make It If You Try (5:37)
@@ -35,10 +34,6 @@ styles: []
 7.  I Want To Take You Higher (6:43)
 8. Love City (6:04)
 9. Stand! (3:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844" >}}<br>

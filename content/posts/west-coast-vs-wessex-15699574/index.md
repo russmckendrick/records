@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="west-coast-vs-wessex-15699574.jpg" title="West Coast Vs. Wessex by NOFX" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Substitute
 2. Worse Things Happen At Sea
 3. Thatcher Fucked The Kids
@@ -34,10 +33,6 @@ styles: ["Punk"]
 8. Eat The Meek
 9. Perfect Government
 10. Falling In Love
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/west-coast-vs-wessex/1511829717" >}}<br>

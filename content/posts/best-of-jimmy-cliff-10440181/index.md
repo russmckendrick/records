@@ -17,10 +17,9 @@ genres: ["Reggae"]
 styles: []
 ---
 
-{{< img src="best-of-jimmy-cliff-10440181.jpg" title="Best Of Jimmy Cliff by Jimmy Cliff" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You Can Get It If You Really Want
 2. Wild World
 3. Viet Nam
@@ -33,10 +32,6 @@ styles: []
 10. Hard Road To Travel
 11. Hello Sunshine
 12. The Harder They Come
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-jimmy-cliff-1975/1488634629" >}}<br>

@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Punk", "Indie Rock"]
 ---
 
-{{< img src="lick-864844.jpg" title="Lick by The Lemonheads" >}}
+Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mallo Cup
 2. Glad I Don't Know
 3. 7 Powers
@@ -34,13 +36,6 @@ styles: ["Punk", "Indie Rock"]
 9. I Am A Rabbit
 10. Sad Girl
 11. Ever
-
-<!-- section break -->
-
-Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lick/595928526" >}}<br>

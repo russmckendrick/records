@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="it-s-a-shame-about-ray-22405678.jpg" title="It's A Shame About Ray by The Lemonheads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Original Album
 2. Rockin Stroll (1:41)
 3. Confetti (2:48)
@@ -59,10 +58,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 29. Rudderless
 30. Ceiling Fan In My Spoon
 31. Confetti
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-expanded-edition/1667654799" >}}<br>

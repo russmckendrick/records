@@ -25,10 +25,13 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Synth-pop"]
 ---
 
-{{< img src="the-very-best-of-8863457.jpg" title="The Very Best Of by Daryl Hall & John Oates" >}}
+This handy, packed-to-the-brim career overview of Daryl Hall & John Oates contains not only the group’s six chart-toppers, but also plenty of other classic soul-pop singles and deep cuts from their ‘70s/’80s heyday. “Rich Girl” couches its biting critique in deftly deployed string arrangements, while the understated R&B croon of “Sara Smile” remains irresistible and sublime. Even lesser-known tracks like the sensuous, stinging “Your Imagination” illustrate how prolific and inspired this duo truly was.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sara Smile (3:07)
 2. Rich Girl (2:23)
 3. It's A Laugh (Single Version) (3:38)
@@ -47,14 +50,6 @@ styles: ["Pop Rock", "Soul", "Synth-pop"]
 16. Out Of Touch (Single Version) (3:55)
 17. Method Of Modern Love (5:27)
 18. Some Things Are Better Left Unsaid (5:23)
-
-<!-- section break -->
-
-This handy, packed-to-the-brim career overview of Daryl Hall & John Oates contains not only the group’s six chart-toppers, but also plenty of other classic soul-pop singles and deep cuts from their ‘70s/’80s heyday. “Rich Girl” couches its biting critique in deftly deployed string arrangements, while the understated R&B croon of “Sara Smile” remains irresistible and sublime. Even lesser-known tracks like the sensuous, stinging “Your Imagination” illustrate how prolific and inspired this duo truly was.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-daryl-hall-john-oates-remastered/199998241" >}}<br>

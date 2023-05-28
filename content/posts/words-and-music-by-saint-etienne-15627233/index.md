@@ -21,10 +21,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Dance-pop"]
 ---
 
-{{< img src="words-and-music-by-saint-etienne-15627233.jpg" title="Words And Music By Saint Etienne  by Saint Etienne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Over The Border
 2. I've Got Your Music
 3. Heading For The Fair
@@ -38,10 +37,6 @@ styles: ["Indie Pop", "Dance-pop"]
 11. When I Was Seventeen
 12. I Threw It All Away
 13. Haunted Jukebox
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307" >}}<br>

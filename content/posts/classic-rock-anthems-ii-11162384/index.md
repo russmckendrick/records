@@ -17,10 +17,9 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
 
-{{< img src="classic-rock-anthems-ii-11162384.jpg" title="Classic Rock Anthems II by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Africa
 2. Burning Heart
 3. Danger Zone
@@ -41,10 +40,6 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 18. Black Magic Woman
 19. She's Not Here
 20. American Woman
-
-<!-- section break -->
-
-
 
 
 

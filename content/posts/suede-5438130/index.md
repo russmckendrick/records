@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="suede-5438130.jpg" title="Suede by Suede" >}}
+Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to The Smiths and early David Bowie.The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. So Young
 2. Animal Nitrate
 3. She's Not Dead
@@ -40,13 +42,6 @@ styles: ["Indie Rock", "Britpop"]
 9. Metal Mickey
 10. Animal Lover
 11. The Next Life
-
-<!-- section break -->
-
-Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to The Smiths and early David Bowie.The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>

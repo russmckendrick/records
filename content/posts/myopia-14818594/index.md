@@ -24,10 +24,12 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
-{{< img src="myopia-14818594.jpg" title="Myopia by Agnes Obel" >}}
+Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was released on 21 February 2020 by production studio Strange Harvest Limited. Three tracks were released as singles prior to the main release: "Island of Doom", "Broken Sleep" and "Parliament of Owls".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Camera's Rolling
 2. Broken Sleep
 3. Island Of Doom
@@ -38,13 +40,6 @@ styles: ["Vocal", "Ballad"]
 8. Parliament Of Owls
 9. Promise Keeper
 10. Won't You Call Me
-
-<!-- section break -->
-
-Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was released on 21 February 2020 by production studio Strange Harvest Limited. Three tracks were released as singles prior to the main release: "Island of Doom", "Broken Sleep" and "Parliament of Owls".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/myopia/1483221211" >}}<br>

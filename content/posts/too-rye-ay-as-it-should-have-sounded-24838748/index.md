@@ -23,10 +23,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="too-rye-ay-as-it-should-have-sounded-24838748.jpg" title="Too-Rye-Ay (As It Should Have Sounded) by Kevin Rowland" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Celtic Soul Brothers
 2. Let's Make This Precious
 3. All In All (This One Last Wild Waltz)
@@ -37,10 +36,6 @@ styles: ["Pop Rock"]
 8. Liars A To E
 9. Until I Believe In My Soul
 10. Come On Eileen
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/too-rye-ay-as-it-should-have-sounded-2022/1631813034" >}}<br>

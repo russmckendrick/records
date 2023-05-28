@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="pyromania-23137115.jpg" title="Pyromania by Def Leppard" >}}
+<i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rock! Rock! (Till You Drop) (3:53)
 2. Photograph (4:12)
 3. Stagefright  (3:46)
@@ -35,13 +37,6 @@ styles: []
 8. Comin’ Under Fire (4:20)
 9. Action! Not Words (3:52)
 10. Billy’s Got A Gun (5:27)
-
-<!-- section break -->
-
-<i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pyromania/1440902935" >}}<br>

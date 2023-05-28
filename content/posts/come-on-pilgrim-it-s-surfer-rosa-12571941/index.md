@@ -34,10 +34,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="come-on-pilgrim-it-s-surfer-rosa-12571941.jpg" title="Come On Pilgrim... It's Surfer Rosa by Pixies" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Come On Pilgrim
 2. Caribou
 3. Vamos
@@ -77,10 +76,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 37. Boom Chicka Boom
 38. Vamos
 39. In Heaven
-
-<!-- section break -->
-
-
 
 
 

@@ -27,10 +27,12 @@ genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="rare-birds-11632547.jpg" title="Rare Birds by Jonathan Wilson" >}}
+Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Trafalgar Square (6:23)
 2. Me (4:49)
 3. Over The Midnight (8:15)
@@ -44,13 +46,6 @@ styles: ["Pop Rock"]
 11. Hard To Get Over (6:32)
 12. Hi-Ho The Righteous (6:06)
 13. Mulholland Queen (5:21)
-
-<!-- section break -->
-
-Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rare-birds/1320439940" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-album-collection-vol-2-1987-1996-12016516.jpg" title="The Album Collection Vol. 2, 1987-1996 by Bruce Springsteen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tunnel Of Love
 2. Ain't Got You
 3. Tougher Than The Rest
@@ -101,10 +100,6 @@ styles: []
 75. Murder Incorporated (Live From Tramps)
 76. Secret Garden (With Strings)
 77. Without You
-
-<!-- section break -->
-
-
 
 
 

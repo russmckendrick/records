@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="a-flash-of-darkness-5871313.jpg" title="A Flash Of Darkness by Mark Morriss" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Flash Of Darkness (3:15)
 2. Consuela (4:05)
 3. Guilty Again (3:34)
@@ -33,10 +32,6 @@ styles: ["Alternative Rock"]
 9. Space Cadet (3:41)
 10. Nightcall (5:00)
 11. Sleep Song (5:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-flash-of-darkness/1152562936" >}}<br>

@@ -21,18 +21,13 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="apples-oranges-humanoid-boogie-12193296.jpg" title="Apples & Oranges / Humanoid Boogie by Andy Partridge" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Apples & Oranges (Stereo)
 2. Apples & Oranges (Mono)
 3. Humanoid Boogie (Stereo)
 4. Humanoid Boogie (Mono)
-
-<!-- section break -->
-
-
 
 
 

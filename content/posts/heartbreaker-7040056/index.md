@@ -27,10 +27,13 @@ genres: ["Rock", "Blues"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="heartbreaker-7040056.jpg" title="Heartbreaker by Ryan Adams" >}}
+Heartbreaker is the debut solo studio album by American singer/songwriter Ryan Adams, released September 5, 2000 on Bloodshot Records. The album was recorded over fourteen days at Woodland Studios in Nashville, Tennessee. It was nominated for the 2001 Shortlist Music Prize. The album is said to be inspired by Adams' break-up with music industry publicist Amy Lombardi.According to Adams, the album's title originates from a poster of Mariah Carey: "My manager called and said, 'You have 15 seconds to name this record,' "My eyes focused on this poster of Mariah wearing a T-shirt that said HEARTBREAKER. I just shouted, 'Heartbreaker!'"A Deluxe Edition, featuring bonus recording session takes and pre-album demos, was released on May 6, 2016 on PAX-AM records.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. (Argument With David Rawlings Concerning Morrissey)
 2. To Be Young (Is To Be Sad, Is To Be High)
 3. My Winding Wheel
@@ -46,14 +49,6 @@ styles: ["Acoustic"]
 13. Don't Ask For The Water
 14. In My Time Of Need
 15. Sweet Lil Gal (23rd/1st)
-
-<!-- section break -->
-
-Heartbreaker is the debut solo studio album by American singer/songwriter Ryan Adams, released September 5, 2000 on Bloodshot Records. The album was recorded over fourteen days at Woodland Studios in Nashville, Tennessee. It was nominated for the 2001 Shortlist Music Prize. The album is said to be inspired by Adams' break-up with music industry publicist Amy Lombardi.According to Adams, the album's title originates from a poster of Mariah Carey: "My manager called and said, 'You have 15 seconds to name this record,' "My eyes focused on this poster of Mariah wearing a T-shirt that said HEARTBREAKER. I just shouted, 'Heartbreaker!'"A Deluxe Edition, featuring bonus recording session takes and pre-album demos, was released on May 6, 2016 on PAX-AM records.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heartbreaker/593627968" >}}<br>

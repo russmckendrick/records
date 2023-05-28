@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="hallucinations-of-a-higher-truth-20871457.jpg" title="Hallucinations Of A Higher Truth by Bill Fisher" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Morning (4:10)
 2. I'll See You Around (4:39)
 3. Better Than You (2:38)
@@ -37,10 +36,6 @@ styles: ["Psychedelic Rock"]
 8. Off To Work (2:37)
 9. Time & Death (1:43)
 10. Evil In Your Eye (5:56)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546" >}}<br>

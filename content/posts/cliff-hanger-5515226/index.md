@@ -19,10 +19,12 @@ genres: ["Reggae"]
 styles: []
 ---
 
-{{< img src="cliff-hanger-5515226.jpg" title="Cliff Hanger by Jimmy Cliff" >}}
+Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hitting With Music (4:15)
 2. American Sweet (3:41)
 3. Arrival (4:09)
@@ -33,13 +35,6 @@ styles: []
 8. Dead And Awake (3:37)
 9. Now And Forever (4:56)
 10. Nuclear War (4:12)
-
-<!-- section break -->
-
-Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}<br>

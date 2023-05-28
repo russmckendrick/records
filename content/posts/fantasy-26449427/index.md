@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
 
-{{< img src="fantasy-26449427.jpg" title="Fantasy by M83" >}}
+In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, Anthony Gonzalez (aka M83) said he didn’t want to talk about modern life so much as he wanted to avoid it. The irony is that since the release of 2011’s <i>Hurry Up, We’re Dreaming</i>, few artists have had as big of an impact on indie electronic music’s passage into the mainstream. Where 2016’s <i>Junk</i> explored the playful side of his ’80s obsessions and 2019’s <i>Knife + Heart</i> soundtracked the erotic, threatening side, the anthems of <i>Fantasy</i> tap into the heroism that has made his narrow vision so broadly appealing, from the tight New Wave vibe of “Amnesia” to the unsettling grandeur of “Dismemberment Bureau”. His nostalgia is escape, yes—but it’s also rebellion.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Water Deep
 2. Oceans Niagara
 3. Amnesia
@@ -38,14 +41,6 @@ styles: ["Synth-pop", "Ambient", "Indie Rock"]
 11. Kool Nuit
 12. Sunny Boy Part 2
 13. Dismemberment Bureau
-
-<!-- section break -->
-
-In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, Anthony Gonzalez (aka M83) said he didn’t want to talk about modern life so much as he wanted to avoid it. The irony is that since the release of 2011’s <i>Hurry Up, We’re Dreaming</i>, few artists have had as big of an impact on indie electronic music’s passage into the mainstream. Where 2016’s <i>Junk</i> explored the playful side of his ’80s obsessions and 2019’s <i>Knife + Heart</i> soundtracked the erotic, threatening side, the anthems of <i>Fantasy</i> tap into the heroism that has made his narrow vision so broadly appealing, from the tight New Wave vibe of “Amnesia” to the unsettling grandeur of “Dismemberment Bureau”. His nostalgia is escape, yes—but it’s also rebellion.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fantasy/1658838374" >}}<br>

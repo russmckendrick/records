@@ -30,10 +30,16 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-{{< img src="ghosteen-14345514.jpg" title="Ghosteen by Nick Cave & The Bad Seeds" >}}
+The cover art for Nick Cave & The Bad Seeds’ 17th album couldn’t feel more removed from the man once known as a snarling, terrifying prince of poetic darkness. This heavenly forest with its vibrant flowers, rays of sun and woodland creatures feels comically opposed to anything Cave has ever represented—but perhaps that’s the point. This pastel fairy tale sets the scene for <i>Ghosteen</i>, his most minimalist, supernatural work to date, in which he slips between realms of fantasy and reality as a means to accept life and death, his past and future.<br />
+In his very first post on The Red Hand Files—the website Cave uses to receive and respond to fan letters—he spoke of rebuilding his relationship with songwriting, which had been damaged while enduring the grief that followed his son Arthur’s death in 2015. He wrote, “I found with some practise the imagination could propel itself beyond the personal into a state of wonder. In doing so the colour came back to things with a renewed intensity and the world seemed clear and bright and new.” It is within that state of wonder that <i>Ghosteen</i> exists.<br />
+“The songs on the first album are the children. The songs on the second album are their parents,” Cave has explained. Those eight “children” are misty, ambient stories of flaming mares, enchanted forests, flying ships and the eponymous, beloved Ghosteen, described as a “migrating spirit”. The second album features two longer pieces, connected by the spoken-word “Fireflies”. He tells fantasy stories that allude to love and loss and letting go, and occasionally brings us back to reality with detailed memories of car rides to the beach and hotel rooms on rainy days.<br />
+These themes aren’t especially new, but the feeling of this album is. There are no wild murder ballads or raucous, bluesy love songs. Though often melancholy, it doesn’t possess the absolute devastation and loneliness of 2016’s <i>Skeleton Tree</i>. Rather, these vignettes and symbolic myths are tranquil and gentle, much like the instrumentation behind them. With little more than synths and piano behind Cave’s vocals, <i>Ghosteen</i> might feel uneventful at times, but the calmness seems to help his imagination run free. On “Bright Horses”, he sings of “Horses broken free from the fields/They are horses of love, their manes full of fire.” But then he pulls back the curtain and admits, “We’re all so sick and tired of seeing things as they are/Horses are just horses and their manes aren’t full of fire/The fields are just fields, and there ain’t no lord… This world is plain to see, it don’t mean we can’t believe in something.”<br />
+Through these dreamlike, surreal stories, Cave is finding his path to peace. And he’s learned that he isn’t alone on his journey. On “Galleon Ship”, he begins, “If I could sail a galleon ship, a long, lonely ride across the sky,” before realising: “We are not alone, it seems, so many riders in the sky/The winds of longing in their sails, searching for the other side.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Part 1
 2. Spinning Song (4:43)
 3. Bright Horses (4:52)
@@ -47,17 +53,6 @@ styles: ["Ambient"]
 11. Ghosteen (12:10)
 12. Fireflies (3:23)
 13. Hollywood (14:12)
-
-<!-- section break -->
-
-The cover art for Nick Cave & The Bad Seeds’ 17th album couldn’t feel more removed from the man once known as a snarling, terrifying prince of poetic darkness. This heavenly forest with its vibrant flowers, rays of sun and woodland creatures feels comically opposed to anything Cave has ever represented—but perhaps that’s the point. This pastel fairy tale sets the scene for <i>Ghosteen</i>, his most minimalist, supernatural work to date, in which he slips between realms of fantasy and reality as a means to accept life and death, his past and future.<br />
-In his very first post on The Red Hand Files—the website Cave uses to receive and respond to fan letters—he spoke of rebuilding his relationship with songwriting, which had been damaged while enduring the grief that followed his son Arthur’s death in 2015. He wrote, “I found with some practise the imagination could propel itself beyond the personal into a state of wonder. In doing so the colour came back to things with a renewed intensity and the world seemed clear and bright and new.” It is within that state of wonder that <i>Ghosteen</i> exists.<br />
-“The songs on the first album are the children. The songs on the second album are their parents,” Cave has explained. Those eight “children” are misty, ambient stories of flaming mares, enchanted forests, flying ships and the eponymous, beloved Ghosteen, described as a “migrating spirit”. The second album features two longer pieces, connected by the spoken-word “Fireflies”. He tells fantasy stories that allude to love and loss and letting go, and occasionally brings us back to reality with detailed memories of car rides to the beach and hotel rooms on rainy days.<br />
-These themes aren’t especially new, but the feeling of this album is. There are no wild murder ballads or raucous, bluesy love songs. Though often melancholy, it doesn’t possess the absolute devastation and loneliness of 2016’s <i>Skeleton Tree</i>. Rather, these vignettes and symbolic myths are tranquil and gentle, much like the instrumentation behind them. With little more than synths and piano behind Cave’s vocals, <i>Ghosteen</i> might feel uneventful at times, but the calmness seems to help his imagination run free. On “Bright Horses”, he sings of “Horses broken free from the fields/They are horses of love, their manes full of fire.” But then he pulls back the curtain and admits, “We’re all so sick and tired of seeing things as they are/Horses are just horses and their manes aren’t full of fire/The fields are just fields, and there ain’t no lord… This world is plain to see, it don’t mean we can’t believe in something.”<br />
-Through these dreamlike, surreal stories, Cave is finding his path to peace. And he’s learned that he isn’t alone on his journey. On “Galleon Ship”, he begins, “If I could sail a galleon ship, a long, lonely ride across the sky,” before realising: “We are not alone, it seems, so many riders in the sky/The winds of longing in their sails, searching for the other side.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghosteen/1479214340" >}}<br>

@@ -17,18 +17,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Indie Pop", "Synth-pop"]
 ---
 
-{{< img src="the-architect-11045283.jpg" title="The Architect by Jane Weaver" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Architect
 2. The Architect - Andy Votel's Brutaliszt 250KG Readymix
 3. Code
 4. Element
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-architect-ep/1667322669" >}}<br>

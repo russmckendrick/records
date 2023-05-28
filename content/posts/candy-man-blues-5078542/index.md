@@ -22,10 +22,9 @@ genres: ["Blues"]
 styles: ["Country Blues"]
 ---
 
-{{< img src="candy-man-blues-5078542.jpg" title="Candy Man Blues by Mississippi John Hurt" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Frankie
 2. Louis Collins
 3. Nobody's Dirty Business
@@ -39,10 +38,6 @@ styles: ["Country Blues"]
 11. Blue Harvest Blues
 12. Spike Driver Blues
 13. Got The Blues (Can't Be Satisfied)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/candy-man-blues/1109245334" >}}<br>

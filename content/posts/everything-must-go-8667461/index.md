@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="everything-must-go-8667461.jpg" title="Everything Must Go by Manic Street Preachers" >}}
+Everything Must Go is the fourth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 20 May 1996, through Epic Records, and was the first record released by the band following the disappearance of lyricist and rhythm guitarist Richey Edwards.
+Released at the height of Britpop in the mid-1990s, the album was a commercial and critical success, it reached its peak in the UK on separate occasions, debuting and peaking at number 2 in the UK Albums Chart and earned the band accolades in the 1997 Brit Awards. It represented a shift in the group's sound due to Edwards' departure. The album charted in mainland Europe, Asia and Australia, eventually selling over two million copies. Everything Must Go is frequently featured and voted highly in lists for one of the best albums of all time by many music publications such as NME and Q.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Elvis Impersonator: Blackpool Pier (3:28)
 2. A Design For Life (4:17)
 3. Kevin Carter (3:25)
@@ -40,15 +44,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Interiors (Song For Willem De Kooning) (4:18)
 11. Further Away (3:39)
 12. No Surface All Feeling (4:31)
-
-<!-- section break -->
-
-Everything Must Go is the fourth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 20 May 1996, through Epic Records, and was the first record released by the band following the disappearance of lyricist and rhythm guitarist Richey Edwards.
-Released at the height of Britpop in the mid-1990s, the album was a commercial and critical success, it reached its peak in the UK on separate occasions, debuting and peaking at number 2 in the UK Albums Chart and earned the band accolades in the 1997 Brit Awards. It represented a shift in the group's sound due to Edwards' departure. The album charted in mainland Europe, Asia and Australia, eventually selling over two million copies. Everything Must Go is frequently featured and voted highly in lists for one of the best albums of all time by many music publications such as NME and Q.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-must-go-10th-anniversary-edition/311112270" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 ---
 
-{{< img src="amok-4312273.jpg" title="Amok by Atoms For Peace" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Before Your Very Eyes...
 2. Default
 3. Ingenue
@@ -44,10 +43,6 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 16. Judge Jury And Executioner (3:28)
 17. Reverse Running (5:06)
 18. Amok (5:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amok/1545337159" >}}<br>

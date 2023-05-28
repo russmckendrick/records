@@ -27,10 +27,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="a-wizard-a-true-star-2244770.jpg" title="A Wizard, A True Star by Todd Rundgren" >}}
+A Wizard, a True Star is the fourth album by American musician Todd Rundgren, released March 2, 1973, on Bearsville Records. It marked a departure from his previous, Something/Anything? (1972), with its lesser reliance on straightforward pop songs, a development he attributed to his experimentation with psychedelic drugs and his realization of "what music and sound were like in my internal environment, and how different that was from the music I had been making."The album was produced, engineered, and, with the exception of some tracks, entirely performed by Rundgren. He envisioned the record as a hallucinogenic-inspired "flight plan" with all the tracks seguing seamlessly into each other, starting with a "chaotic" mood and ending with a medley of his favorite soul songs. At the time of release, he stated that Wizard intended to advance utopian ideals; later, he said that the album had no definite meaning. No singles were issued from the album, as he wanted the tracks to be heard in the context of the LP. With 19 tracks, its nearly 56-minute runtime made it one of the longest single-disc LPs to date.
+Upon release, A Wizard, a True Star received widespread critical acclaim, but sold poorly, reaching number 86 on U.S. charts. According to Rundgren, "the result was a complete loss of about half of my audience at that point." To support the album, Rundgren formed a new group, Utopia, his first official band since the Nazz. Their technologically ambitious stage show was cancelled after about two weeks on the road. A Wizard, a True Star has since been recognized for its influence on later generations of bedroom musicians.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. International Feel (2:53)
 2. Never Never Land (1:25)
 3. Tic Tic Tic It Wears Off (1:15)
@@ -54,14 +57,6 @@ styles: ["Pop Rock", "Prog Rock"]
 21. I Don't Want To Tie You Down (1:56)
 22. Is It My Name? (3:50)
 23. Just One Victory (4:50)
-
-<!-- section break -->
-
-A Wizard, a True Star is the fourth album by American musician Todd Rundgren, released March 2, 1973, on Bearsville Records. It marked a departure from his previous, Something/Anything? (1972), with its lesser reliance on straightforward pop songs, a development he attributed to his experimentation with psychedelic drugs and his realization of "what music and sound were like in my internal environment, and how different that was from the music I had been making."The album was produced, engineered, and, with the exception of some tracks, entirely performed by Rundgren. He envisioned the record as a hallucinogenic-inspired "flight plan" with all the tracks seguing seamlessly into each other, starting with a "chaotic" mood and ending with a medley of his favorite soul songs. At the time of release, he stated that Wizard intended to advance utopian ideals; later, he said that the album had no definite meaning. No singles were issued from the album, as he wanted the tracks to be heard in the context of the LP. With 19 tracks, its nearly 56-minute runtime made it one of the longest single-disc LPs to date.
-Upon release, A Wizard, a True Star received widespread critical acclaim, but sold poorly, reaching number 86 on U.S. charts. According to Rundgren, "the result was a complete loss of about half of my audience at that point." To support the album, Rundgren formed a new group, Utopia, his first official band since the Nazz. Their technologically ambitious stage show was cancelled after about two weeks on the road. A Wizard, a True Star has since been recognized for its influence on later generations of bedroom musicians.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-wizard-a-true-star/1084056467" >}}<br>

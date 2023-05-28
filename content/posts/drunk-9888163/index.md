@@ -41,10 +41,13 @@ genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: []
 ---
 
-{{< img src="drunk-9888163.jpg" title="Drunk by Thundercat" >}}
+“I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rabbot Ho (0:38)
 2. Captain Stupido (1:41)
 3. Uh Uh (2:16)
@@ -68,14 +71,6 @@ styles: []
 21. Drunk (1:42)
 22. The Turn Down (2:29)
 23. DUI (2:18)
-
-<!-- section break -->
-
-“I feel weird,” repeats Stephen Bruner on “Captain Stupido”. That’s encouraging because the leftfield moments have always lent his jazz/funk/soft-rock fusions singular charm—even here when he meows through “A Fan’s Mail (Tron Song Suite II)”. By those standards, the melancholy “Walk On By”, with its pensive verse from Kendrick Lamar, and “Show You the Way”—co-starring soft-rock icons Michael McDonald and Kenny Loggins—feel irresistibly straightforward, but their velvet melodies are as beguiling as Bruner’s falsetto harmonies.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}<br>

@@ -23,10 +23,15 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Ballad"]
 ---
 
-{{< img src="tunnel-of-love-386066.jpg" title="Tunnel Of Love by Bruce Springsteen" >}}
+Tunnel of Love is the eighth studio album by American singer-songwriter Bruce Springsteen, released on October 9, 1987. Although members of the E Street Band occasionally performed on the album, Springsteen recorded most of the parts himself, often with drum machines and synthesizers. While the album's liner notes list the E Street Band members under that name, Shore Fire Media, Springsteen's public relations firm, does not count it as an E Street Band album and 2002's The Rising was advertised as his first studio album with the E Street Band since Born in the USA. The album won Best Rock Vocal Performance, Solo at the 1988 Grammy Awards.
+In 1989, the album was ranked #25 on Rolling Stone magazine's list of the "100 Best Albums of the Eighties" while in 2012, Rolling Stone ranked it at #467 on their list of the 500 greatest albums of all time. "Brilliant Disguise", "Tunnel of Love", "One Step Up", "Tougher Than the Rest", and "Spare Parts" were all released as singles.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Ain't Got You (2:06)
 2. Tougher Than The Rest (4:35)
 3. All That Heaven Will Allow (2:38)
@@ -39,16 +44,6 @@ styles: ["Soft Rock", "Pop Rock", "Ballad"]
 10. One Step Up (4:21)
 11. When You're Alone (3:20)
 12. Valentine's Day (5:10)
-
-<!-- section break -->
-
-Tunnel of Love is the eighth studio album by American singer-songwriter Bruce Springsteen, released on October 9, 1987. Although members of the E Street Band occasionally performed on the album, Springsteen recorded most of the parts himself, often with drum machines and synthesizers. While the album's liner notes list the E Street Band members under that name, Shore Fire Media, Springsteen's public relations firm, does not count it as an E Street Band album and 2002's The Rising was advertised as his first studio album with the E Street Band since Born in the USA. The album won Best Rock Vocal Performance, Solo at the 1988 Grammy Awards.
-In 1989, the album was ranked #25 on Rolling Stone magazine's list of the "100 Best Albums of the Eighties" while in 2012, Rolling Stone ranked it at #467 on their list of the 500 greatest albums of all time. "Brilliant Disguise", "Tunnel of Love", "One Step Up", "Tougher Than the Rest", and "Spare Parts" were all released as singles.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tunnel-of-love/192745941" >}}<br>

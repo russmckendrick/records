@@ -36,10 +36,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Glam"]
 ---
 
-{{< img src="crcial-cre-the-studio-albums-1981-1989-26124641.jpg" title="Crücial Crüe (The Studio Albums 1981-1989) by Mötley Crüe" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Too Fast For Love (1981)
 2. Live Wire 
 3. Come On And Dance 
@@ -96,10 +95,6 @@ styles: ["Hard Rock", "Glam"]
 54. She Goes Down
 55. Don't Go Away Mad Just Go Away
 56. Time For Change
-
-<!-- section break -->
-
-
 
 
 

@@ -22,10 +22,14 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="peter-gabriel-9473688.jpg" title="Peter Gabriel by Peter Gabriel" >}}
+Peter Gabriel is the fourth studio album by the English rock musician Peter Gabriel. In the United States and Canada, the album was released by Geffen Records with the title Security. Some music streaming services refer to it as Peter Gabriel 4: Security. A German-language version, entitled Deutsches Album (German Album), was also released. The album saw Gabriel expanding on the post-punk and world music influences from his 1980 self-titled record, and earned him his first US top 40 single with "Shock the Monkey".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Moribund The Burgermeister
 2. Solsbury Hill
 3. Modern Love
@@ -35,15 +39,6 @@ styles: ["Art Rock", "Prog Rock"]
 7. Waiting For The Big One
 8. Down The Dolce Vita
 9. Here Comes The Flood
-
-<!-- section break -->
-
-Peter Gabriel is the fourth studio album by the English rock musician Peter Gabriel. In the United States and Canada, the album was released by Geffen Records with the title Security. Some music streaming services refer to it as Peter Gabriel 4: Security. A German-language version, entitled Deutsches Album (German Album), was also released. The album saw Gabriel expanding on the post-punk and world music influences from his 1980 self-titled record, and earned him his first US top 40 single with "Shock the Monkey".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>

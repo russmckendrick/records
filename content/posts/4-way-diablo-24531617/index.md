@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="4-way-diablo-24531617.jpg" title="4-Way Diablo by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 4-Way Diablo
 2. Wall Of Fire
 3. You're Alive
@@ -40,10 +39,6 @@ styles: ["Stoner Rock"]
 11. A Thousand Stars
 12. Slap In The Face
 13. Little Bag Of Gloom
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/4-way-diablo/1635598921" >}}<br>

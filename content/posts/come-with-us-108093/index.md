@@ -23,10 +23,13 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "House", "Big Beat"]
 ---
 
-{{< img src="come-with-us-108093.jpg" title="Come With Us by The Chemical Brothers" >}}
+Come with Us is the fourth studio album by English electronic music duo the Chemical Brothers, released in January 2002 by record labels Virgin and Freestyle Dust in the UK and Astralwerks and Ultra in the US. It features Richard Ashcroft (ex-the Verve) and Beth Orton as guest vocalists.
+The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Come With Us
 2. It Began In Afrika
 3. Galaxy Bounce
@@ -37,14 +40,6 @@ styles: ["Breakbeat", "House", "Big Beat"]
 8. Denmark
 9. Pioneer Skies
 10. The Test
-
-<!-- section break -->
-
-Come with Us is the fourth studio album by English electronic music duo the Chemical Brothers, released in January 2002 by record labels Virgin and Freestyle Dust in the UK and Astralwerks and Ultra in the US. It features Richard Ashcroft (ex-the Verve) and Beth Orton as guest vocalists.
-The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}<br>

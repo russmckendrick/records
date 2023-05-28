@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Britpop"]
 ---
 
-{{< img src="his-n-hers-8669493.jpg" title="His 'N' Hers by Pulp" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Joyriders
 2. Lipgloss
 3. Acrylic Afternoons
@@ -36,10 +35,6 @@ styles: ["Britpop"]
 8. Pink Glove
 9. Someone Like The Moon
 10. David's Last Summer
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/his-n-hers-deluxe-edition/1444184951" >}}<br>

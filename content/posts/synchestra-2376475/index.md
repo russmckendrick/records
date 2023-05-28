@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
 
-{{< img src="synchestra-2376475.jpg" title="Synchestra by The Devin Townsend Band" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Let It Roll
 2. Hypergeek
 3. Triumph
@@ -41,10 +40,6 @@ styles: ["Prog Rock", "Heavy Metal"]
 11. A Simple Lullaby
 12. Sunset
 13. Notes From Africa
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/synchestra/1045644245" >}}<br>

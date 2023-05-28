@@ -22,10 +22,9 @@ genres: ["Rock", "Reggae"]
 styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 ---
 
-{{< img src="god-of-love-14532513.jpg" title="God Of Love by Bad Brains" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cool Mountaineer
 2. Justice Keepers
 3. Long Time
@@ -38,10 +37,6 @@ styles: ["Alternative Rock", "Hardcore", "Reggae", "Punk"]
 10. Thank Jah
 11. Big Fun
 12. How I Love Thee
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-of-love/298875762" >}}<br>

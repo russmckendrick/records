@@ -39,10 +39,13 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-{{< img src="breaking-atoms-9816263.jpg" title="Breaking Atoms by Main Source" >}}
+Breaking Atoms is the debut album of American/Canadian hip hop group Main Source, released July 23, 1991, on Wild Pitch Records. Production was handled by the group, primarily by member Large Professor, and took place during 1990 to 1991 at Homeboy Studio, Power Play Studios, and Libra Digital in New York City. Recorded during the golden age of hip hop, Breaking Atoms is distinguished stylistically by its incorporation of jazz and soul music samples. The album has been highly regarded by music writers due mostly to its production, whose heavy and original use of sampling influenced hip hop producers for a considerable portion of the 1990s.
+The album has been widely regarded by writers and music critics as a significantly influential album and has been noted for debuting rapper Nas, who appears on the track "Live at the Barbeque". His contribution to the song was sampled on "The Genesis", the intro track to his debut album Illmatic (1994). Breaking Atoms has been recognized as one of the most important records in hip hop history, and was out of print in the United States after the demise of Wild Pitch Records in 1997. It was reissued on April 22, 2008 through Fontana Distribution.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Snake Eyes (3:30)
 2. Just Hangin' Out (4:10)
 3. Looking At The Front Door (4:10)
@@ -56,14 +59,6 @@ styles: ["Conscious"]
 11. Watch Roger Do His Thing (4:22)
 12. Peace Is Not The Word To Play (Remix)
 13. How My Man Went Down In The Game
-
-<!-- section break -->
-
-Breaking Atoms is the debut album of American/Canadian hip hop group Main Source, released July 23, 1991, on Wild Pitch Records. Production was handled by the group, primarily by member Large Professor, and took place during 1990 to 1991 at Homeboy Studio, Power Play Studios, and Libra Digital in New York City. Recorded during the golden age of hip hop, Breaking Atoms is distinguished stylistically by its incorporation of jazz and soul music samples. The album has been highly regarded by music writers due mostly to its production, whose heavy and original use of sampling influenced hip hop producers for a considerable portion of the 1990s.
-The album has been widely regarded by writers and music critics as a significantly influential album and has been noted for debuting rapper Nas, who appears on the track "Live at the Barbeque". His contribution to the song was sampled on "The Genesis", the intro track to his debut album Illmatic (1994). Breaking Atoms has been recognized as one of the most important records in hip hop history, and was out of print in the United States after the demise of Wild Pitch Records in 1997. It was reissued on April 22, 2008 through Fontana Distribution.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/breaking-atoms-2017-remastered/1565380753" >}}<br>

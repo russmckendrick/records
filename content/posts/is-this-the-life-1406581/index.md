@@ -19,16 +19,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="is-this-the-life-1406581.jpg" title="Is This The Life by Cardiacs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Is This The Life
 2. I'm Eating In Bed
-
-<!-- section break -->
-
-
 
 
 

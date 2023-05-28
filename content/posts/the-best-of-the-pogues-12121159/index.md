@@ -20,10 +20,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Folk Rock"]
 ---
 
-{{< img src="the-best-of-the-pogues-12121159.jpg" title="The Best Of The Pogues by The Pogues" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fairytale Of New York
 2. Sally MacLennane
 3. Dirty Old Town
@@ -38,10 +37,6 @@ styles: ["Folk", "Folk Rock"]
 12. Thousands Are Sailing
 13. The Broad Majestic Shannon
 14. The Body Of An American
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980" >}}<br>

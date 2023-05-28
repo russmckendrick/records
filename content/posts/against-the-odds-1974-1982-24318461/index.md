@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Punk", "New Wave"]
 ---
 
-{{< img src="against-the-odds-1974-1982-24318461.jpg" title="Against The Odds 1974-1982 by Blondie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blondie
 2. X Offender
 3. Little Girl Lies
@@ -161,10 +160,6 @@ styles: ["Power Pop", "Punk", "New Wave"]
 133. War Child (Chris Stein Mix)
 134. Call Me (Chris Stein Mix)
 135. Heart Of Glass (Chris Stein Mix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/against-the-odds-1974-1982/1625686357" >}}<br>

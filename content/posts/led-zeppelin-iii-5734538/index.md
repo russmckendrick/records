@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Hard Rock"]
 ---
 
-{{< img src="led-zeppelin-iii-5734538.jpg" title="Led Zeppelin III by Led Zeppelin" >}}
+Blasting out of the gate with the hard-charging gallop of "Immigrant Song," Led Zeppelin remind us why their name is synonymous with classic hard rock. But the group's lower-voltage third album colors their brand of musical nitroglycerine with down-and-dirty blues riffs on the swaggering "Since I've Been Loving You" and unexpected Celtic folk embellishments on the acoustic masterpiece "Bron-Y-Aur Stomp." By taking it down a notch, <i>Led Zeppelin III</i> sets the bar for rock greatness higher than ever before.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Immigrant Song (2:26)
 2. Friends (3:53)
 3. Celebration Day (3:30)
@@ -38,13 +40,6 @@ styles: ["Classic Rock", "Hard Rock"]
 8. That's The Way (5:37)
 9. Bron-Y-Aur Stomp (4:17)
 10. Hats Off To (Roy) Harper (3:42)
-
-<!-- section break -->
-
-Blasting out of the gate with the hard-charging gallop of "Immigrant Song," Led Zeppelin remind us why their name is synonymous with classic hard rock. But the group's lower-voltage third album colors their brand of musical nitroglycerine with down-and-dirty blues riffs on the swaggering "Since I've Been Loving You" and unexpected Celtic folk embellishments on the acoustic masterpiece "Bron-Y-Aur Stomp." By taking it down a notch, <i>Led Zeppelin III</i> sets the bar for rock greatness higher than ever before.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-iii-remastered/580708279" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 ---
 
-{{< img src="foxbase-beta-12876626.jpg" title="Foxbase Beta by Saint Etienne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. This Is Radio Etienne (0:53)
 2. Only Love Can Break Your Heart (4:29)
 3. Wilson (2:10)
@@ -33,10 +32,6 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 11. London Belongs To Me (4:08)
 12. Like The Swallow (6:18)
 13. Dilworth's Theme (2:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/foxbase-beta/1240860951" >}}<br>

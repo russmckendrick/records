@@ -33,23 +33,6 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-{{< img src="in-cauda-venenum-14182364.jpg" title="In Cauda Venenum by Opeth" >}}
-
-<!-- section break -->
-
-1. Garden Of Earthly Delights
-2. Dignity
-3. Heart In Hand
-4. Next Of Kin
-5. Lovelorn Crime
-6. Charlatan
-7. Universal Truth
-8. The Garroter
-9. Continuum
-10. All Things Will Pass
-
-<!-- section break -->
-
 For their 13th album, Swedish metal titans Opeth did something they’d never done before: They recorded two versions—one in English, one in Swedish. But if you’re hoping for a deep, meaningful reason behind it, you’ll be sorely disappointed. “There is no why,” vocalist, guitarist and bandleader Mikael Åkerfeldt tells Apple Music. “For the most part, I don't know why I do things. The lyrics are very spontaneous and impulsive. I don't sit around pondering. The decision was made in the car, taking my daughters to school. It doesn't sound cool. I wish I could say I was at the top of a mountain, that I’d just climbed Mount Everest. But I was in my old Volvo.” Meaning or not, there are plenty of layers to <i>In Cauda Venenum</i>, a Latin phrase meaning “the poison is in the tail”. “I want music that you can play over and over again and always discover new things,” he says. Below, Åkerfeldt talks through each track on Opeth's most dramatic, diverse album to date.<br />
 <b>Garden of Earthly Delights</b>
 “We used to open our concerts with a piece by a German band, Popol Vuh, who wrote scores for a lot of Werner Herzog films. It’s from <i>Nosferatu</i>, one of my favourite films of all time. We used it for many years, and when the guy who wrote it, Florian Fricke, passed away, the publishing was taken over by his son, who wanted a lot of money from us. I wrote ‘Garden of Earthly Delights’ trying to almost rip them off—to get something that sounded like Popol Vuh, but it's ours. It’s supposed to pull the listener into the record, as if you’re about to hear something special.”<br />
@@ -75,6 +58,18 @@ For their 13th album, Swedish metal titans Opeth did something they’d never do
         
     
 
+
+## Tracklisting
+1. Garden Of Earthly Delights
+2. Dignity
+3. Heart In Hand
+4. Next Of Kin
+5. Lovelorn Crime
+6. Charlatan
+7. Universal Truth
+8. The Garroter
+9. Continuum
+10. All Things Will Pass
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-cauda-venenum/1470602656" >}}<br>

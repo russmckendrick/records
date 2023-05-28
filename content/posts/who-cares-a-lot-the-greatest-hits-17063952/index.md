@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
-{{< img src="who-cares-a-lot-the-greatest-hits-17063952.jpg" title="Who Cares A Lot? The Greatest Hits by Faith No More" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Care A Lot (Original Version)
 2. Introduce Yourself
 3. From Out Of Nowhere
@@ -46,10 +45,6 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 13. Last Cup Of Sorrow
 14. Ashes To Ashes
 15. Stripsearch
-
-<!-- section break -->
-
-
 
 
 

@@ -23,10 +23,9 @@ genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "S
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-big-lebowski-original-motion-picture-soundtrack-13075622.jpg" title="The Big Lebowski  (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Man In Me (3:08)
 2. Her Eyes Are A Blue Million Miles (2:54)
 3. My Mood Swings (2:10)
@@ -41,10 +40,6 @@ styles: ["Soundtrack"]
 12. Hotel California (5:47)
 13. Wie Glauben (3:21)
 14. Dead Flowers (4:47)
-
-<!-- section break -->
-
-
 
 
 

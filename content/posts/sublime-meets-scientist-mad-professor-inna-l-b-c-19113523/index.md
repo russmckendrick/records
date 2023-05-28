@@ -18,10 +18,9 @@ genres: ["Rock", "Reggae"]
 styles: ["Dub"]
 ---
 
-{{< img src="sublime-meets-scientist-mad-professor-inna-l-b-c-19113523.jpg" title="Sublime Meets Scientist & Mad Professor Inna L.B.C. by Sublime" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Round One: Scientist Dubs
 2. Caress Me Down - Español Dub (Scientist Mix)
 3. Garden Grove Dub (Scientist Mix)
@@ -30,10 +29,6 @@ styles: ["Dub"]
 6. Hong Kong Phooey Subliminal Dub (Mad Professor Mix)
 7. April 29,1992 (Miami) Dub (Mad Professor Mix)
 8. Pawn Shop Dub (Mad Professor Mix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sublime-meets-scientist-mad-professor-inna-l-b-c/1585841109" >}}<br>

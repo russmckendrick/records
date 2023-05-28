@@ -16,10 +16,12 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-{{< img src="the-temperance-movement-4953828.jpg" title="The Temperance Movement by The Temperance Movement" >}}
+The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-born vocalist Phil Campbell (formally of the rock band White Buffalo) and guitarists Luke Potashnick and Paul Sayer. The rhythm section consists of bassist Nick Fyffe and the Australian-born drummer Damon Wilson. The band released their Pride EP in 2012, and their eponymous debut studio album was released on 16 September 2013. Collectively the band have a rich history of experience, having previously played with Rooster, Ben's Brother, Jamiroquai, Ray Davies, The Waterboys and Feeder.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Only Friend (4:29)
 2. Ain't No Telling (3:52)
 3. Pride (5:39)
@@ -35,13 +37,6 @@ styles: []
 13. Bonus Material
 14. Turn (3:50)
 15. Mother's Eyes (5:24)
-
-<!-- section break -->
-
-The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-born vocalist Phil Campbell (formally of the rock band White Buffalo) and guitarists Luke Potashnick and Paul Sayer. The rhythm section consists of bassist Nick Fyffe and the Australian-born drummer Damon Wilson. The band released their Pride EP in 2012, and their eponymous debut studio album was released on 16 September 2013. Collectively the band have a rich history of experience, having previously played with Rooster, Ben's Brother, Jamiroquai, Ray Davies, The Waterboys and Feeder.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-temperance-movement-deluxe-edition/909486206" >}}<br>

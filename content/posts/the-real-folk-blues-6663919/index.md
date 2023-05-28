@@ -17,10 +17,12 @@ genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
 
-{{< img src="the-real-folk-blues-6663919.jpg" title="The Real Folk Blues by Howlin' Wolf" >}}
+The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Killing Floor (2:50)
 2. Louise (2:45)
 3. Poor Boy (2:35)
@@ -33,13 +35,6 @@ styles: ["Chicago Blues"]
 10. Built For Comfort (2:39)
 11. Ooh Baby, Hold Me (2:41)
 12. Tell Me What I've Done (2:50)
-
-<!-- section break -->
-
-The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-real-folk-blues/1444213729" >}}<br>

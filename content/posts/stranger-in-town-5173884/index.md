@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 ---
 
-{{< img src="stranger-in-town-5173884.jpg" title="Stranger In Town by Bob Seger And The Silver Bullet Band" >}}
+Stranger in Town is the tenth studio album by American rock singer Bob Seger and his second with the Silver Bullet Band, released by Capitol Records in May 1978 (see 1978 in music). As with its predecessor, the Silver Bullet Band backed Seger on about half of the songs and the Muscle Shoals Rhythm Section backed Seger on the other half.
+The album became an instant success in the United States, being certified platinum by the Recording Industry Association of America less than a month after the album's release, and, like its predecessor Night Moves, it would later go 6× Platinum. It was also his first album to chart in the UK, where limited editions were released on silver vinyl and in picture disc format as well as standard black vinyl.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hollywood Nights (5:00)
 2. Still The Same (3:21)
 3. Old Time Rock & Roll (3:13)
@@ -34,15 +38,6 @@ styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 7. We've Got Tonite (4:39)
 8. Brave Strangers (6:21)
 9. The Famous Final Scene (5:08)
-
-<!-- section break -->
-
-Stranger in Town is the tenth studio album by American rock singer Bob Seger and his second with the Silver Bullet Band, released by Capitol Records in May 1978 (see 1978 in music). As with its predecessor, the Silver Bullet Band backed Seger on about half of the songs and the Muscle Shoals Rhythm Section backed Seger on the other half.
-The album became an instant success in the United States, being certified platinum by the Recording Industry Association of America less than a month after the album's release, and, like its predecessor Night Moves, it would later go 6× Platinum. It was also his first album to chart in the UK, where limited editions were released on silver vinyl and in picture disc format as well as standard black vinyl.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-in-town/1440888092" >}}<br>

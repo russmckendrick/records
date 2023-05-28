@@ -26,10 +26,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="folklore-8567409.jpg" title="Folklore by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Folklore (7:30)
 2. Along The Ridgeway (6:06)
 3. Salisbury Giant (3:37)
@@ -41,10 +40,6 @@ styles: ["Prog Rock"]
 9. Winkie (8:26)
 10. Brooklands (12:39)
 11. Telling The Bees (6:02)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}<br>

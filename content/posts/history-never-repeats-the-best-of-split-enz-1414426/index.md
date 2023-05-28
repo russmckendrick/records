@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="history-never-repeats-the-best-of-split-enz-1414426.jpg" title="History Never Repeats (The Best Of Split Enz) by Split Enz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Got You (3:29)
 2. Hard Act To Follow (3:18)
 3. Six Months In A Leaky Boat (4:26)
@@ -34,10 +33,6 @@ styles: ["New Wave"]
 9. I Hope I Never (4:32)
 10. Dirty Creature (4:02)
 11. Poor Boy (3:26)
-
-<!-- section break -->
-
-
 
 
 

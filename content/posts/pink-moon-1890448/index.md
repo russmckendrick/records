@@ -22,10 +22,14 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Folk", "Folk Rock"]
 ---
 
-{{< img src="pink-moon-1890448.jpg" title="Pink Moon by Nick Drake" >}}
+Pink Moon is the third and final studio album by the English musician Nick Drake, released in the UK by Island Records on 25 February 1972. It was the only one of Drake's studio albums to be released in North America during his lifetime. Pink Moon differs from Drake's previous albums in that it was recorded without a backing band, featuring just Drake on vocals, acoustic guitar and a brief piano riff overdubbed onto the title track.
+Released two years before Drake's death in November 1974, at the age of twenty-six, the lyrical content of Pink Moon has often been attributed to Drake's ongoing battle with depression. The songs are shorter than on his previous albums, with a total album running time of just over twenty-eight minutes.
+Pink Moon, like Drake's previous studio albums, did not sell well during his lifetime, and its stripped-back, intimate sound received a mixed response from critics. However, the album has since garnered significant critical acclaim.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pink Moon
 2. Place To Be
 3. Road
@@ -37,15 +41,6 @@ styles: ["Acoustic", "Folk", "Folk Rock"]
 9. Free Ride
 10. Harvest Breed
 11. From The Morning
-
-<!-- section break -->
-
-Pink Moon is the third and final studio album by the English musician Nick Drake, released in the UK by Island Records on 25 February 1972. It was the only one of Drake's studio albums to be released in North America during his lifetime. Pink Moon differs from Drake's previous albums in that it was recorded without a backing band, featuring just Drake on vocals, acoustic guitar and a brief piano riff overdubbed onto the title track.
-Released two years before Drake's death in November 1974, at the age of twenty-six, the lyrical content of Pink Moon has often been attributed to Drake's ongoing battle with depression. The songs are shorter than on his previous albums, with a total album running time of just over twenty-eight minutes.
-Pink Moon, like Drake's previous studio albums, did not sell well during his lifetime, and its stripped-back, intimate sound received a mixed response from critics. However, the album has since garnered significant critical acclaim.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-moon/1567147188" >}}<br>

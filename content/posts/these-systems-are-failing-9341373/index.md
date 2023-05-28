@@ -22,10 +22,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Post-Punk", "Punk"]
 ---
 
-{{< img src="these-systems-are-failing-9341373.jpg" title="These Systems Are Failing by Moby & The Void Pacific Choir" >}}
+These Systems Are Failing is the thirteenth studio album by American electronica musician Moby and the debut studio album by Moby & The Void Pacific Choir, a musical project formed by Moby with musicians Mindy Jones, Julie Mintz, Joel Nesvadba, Jamie Drake, Jonathan Nesvadba, and Lauren Tyler Scott. It was released on October 14, 2016 by record labels Little Idiot and Mute.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hey! Hey! (4:23)
 2. Break.Doubt (4:12)
 3. I Wait For You (3:59)
@@ -35,13 +37,6 @@ styles: ["New Wave", "Post-Punk", "Punk"]
 7. A Simple Love (4:39)
 8. The Light Is Clear In My Eyes (3:27)
 9. And It Hurts (1:53)
-
-<!-- section break -->
-
-These Systems Are Failing is the thirteenth studio album by American electronica musician Moby and the debut studio album by Moby & The Void Pacific Choir, a musical project formed by Moby with musicians Mindy Jones, Julie Mintz, Joel Nesvadba, Jamie Drake, Jonathan Nesvadba, and Lauren Tyler Scott. It was released on October 14, 2016 by record labels Little Idiot and Mute.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/these-systems-are-failing/1160876308" >}}<br>

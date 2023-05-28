@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="crowded-house-9322408.jpg" title="Crowded House by Crowded House" >}}
+This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
+This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mean To Me
 2. World Where You Live
 3. Now We're Getting Somewhere
@@ -38,14 +41,6 @@ styles: ["Pop Rock"]
 8. Can't Carry On
 9. Tombstone
 10. That's What I Call Love
-
-<!-- section break -->
-
-This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
-This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>

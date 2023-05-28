@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="thirteenth-step-6434663.jpg" title="Thirteenth Step by A Perfect Circle" >}}
+Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003 and as platinum on March 24, 2006 by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Package (7:40)
 2. Weak And Powerless (3:15)
 3. The Noose (4:53)
@@ -40,13 +42,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 10. Pet (4:34)
 11. Lullaby (2:01)
 12. Gravity (5:08)
-
-<!-- section break -->
-
-Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003 and as platinum on March 24, 2006 by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thirteenth-step/723637755" >}}<br>

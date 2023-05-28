@@ -25,10 +25,12 @@ genres: ["Hip Hop"]
 styles: ["Turntablism", "Jazzy Hip-Hop"]
 ---
 
-{{< img src="bizarre-ride-ii-25831636.jpg" title="Bizarre Ride II by The Pharcyde" >}}
+Bizarre Ride II the Pharcyde is the debut album by American hip hop collective The Pharcyde, released on November 24, 1992, through the Delicious Vinyl and EastWest labels. The album was produced by former group member J-Swift, and features only one guest appearance, provided by little-known Los Angeles rapper Bucwheed (known then as "Buckwheat" from The Wascals). In the years after its release, Bizarre Ride has been hailed by music critics and alternative hip hop fans, as a classic hip hop album along with Souls of Mischief's 93 'til Infinity, and has appeared in numerous publications' "best albums" lists.Released during the dominant Gangsta rap era of West Coast hip hop, Bizarre Ride was described as "refreshing" due to its playful, light-hearted humor and lush, jazzy production. Along with albums such as To Whom It May Concern... by Freestyle Fellowship, and I Wish My Brother George Was Here by Del tha Funkee Homosapien, Bizarre Ride helped establish a new alternative scene on the West Coast, followed by artists such as Hieroglyphics, The Coup and Jurassic 5. Despite its wide critical acclaim, the album produced only moderate sales, peaking at No. 75 on the Billboard 200 album chart in 1993. However, on the strength of the second single, "Passin' Me By", the album was certified gold in sales by the Recording Industry Association of America (RIAA) on March 28, 1996.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 4 Better Or 4 Worse (Interlude) (0:36)
 2. Oh Shit (4:29)
 3. It's Jigaboo Time (Skit) (1:26)
@@ -45,13 +47,6 @@ styles: ["Turntablism", "Jazzy Hip-Hop"]
 14. Quinton's On The Way (Skit) (2:09)
 15. Pack The Pipe (5:03)
 16. Return Of The B-Boy (3:33)
-
-<!-- section break -->
-
-Bizarre Ride II the Pharcyde is the debut album by American hip hop collective The Pharcyde, released on November 24, 1992, through the Delicious Vinyl and EastWest labels. The album was produced by former group member J-Swift, and features only one guest appearance, provided by little-known Los Angeles rapper Bucwheed (known then as "Buckwheat" from The Wascals). In the years after its release, Bizarre Ride has been hailed by music critics and alternative hip hop fans, as a classic hip hop album along with Souls of Mischief's 93 'til Infinity, and has appeared in numerous publications' "best albums" lists.Released during the dominant Gangsta rap era of West Coast hip hop, Bizarre Ride was described as "refreshing" due to its playful, light-hearted humor and lush, jazzy production. Along with albums such as To Whom It May Concern... by Freestyle Fellowship, and I Wish My Brother George Was Here by Del tha Funkee Homosapien, Bizarre Ride helped establish a new alternative scene on the West Coast, followed by artists such as Hieroglyphics, The Coup and Jurassic 5. Despite its wide critical acclaim, the album produced only moderate sales, peaking at No. 75 on the Billboard 200 album chart in 1993. However, on the strength of the second single, "Passin' Me By", the album was certified gold in sales by the Recording Industry Association of America (RIAA) on March 28, 1996.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414" >}}<br>

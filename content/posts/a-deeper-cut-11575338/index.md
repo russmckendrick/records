@@ -22,10 +22,12 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="a-deeper-cut-11575338.jpg" title="A Deeper Cut by The Temperance Movement" >}}
+A Deeper Cut is the third studio album by British rock band the Temperance Movement.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Caught In The Middle
 2. Built-In Forgetter
 3. Love And Devotion
@@ -38,13 +40,6 @@ styles: ["Blues Rock"]
 10. Children
 11. There's Still Time
 12. The Wonders We've Seen
-
-<!-- section break -->
-
-A Deeper Cut is the third studio album by British rock band the Temperance Movement.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-deeper-cut/1301389456" >}}<br>

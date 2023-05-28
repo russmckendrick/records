@@ -20,10 +20,14 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="republic-7515852.jpg" title="Republic by New Order" >}}
+Republic (stylised as Republic©) is the sixth studio album by English rock band New Order. It was first released on 3 May 1993 in the United Kingdom by CentreDate Co Ltd in association with London Records and on 11 May 1993 in the United States by Qwest and Warner Bros. Records. It was the band's first album following the demise of their former label Factory Records, and would be their last studio album for eight years until 2001's Get Ready.
+Republic became New Order's second consecutive album to top the UK Albums Chart, and was nominated for the 1993 Mercury Music Prize. In the United States, it reached number 11 on the Billboard 200, the band's highest-peaking album on the chart to date. Its lead single "Regret" became New Order's last top-five entry on the UK Singles Chart. The band went on hiatus following a gig at the Reading Festival in promotion of the album in August 1993. Lead singer Bernard Sumner was known to dislike travelling to North America, and media reports suggested that the pressure of the long leg there contributed to the band's temporary demise, although they reunited in 1998.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Regret
 2. World
 3. Ruined In A Day
@@ -35,15 +39,6 @@ styles: ["Electro", "Synth-pop", "Indie Rock"]
 9. Times Change
 10. Special
 11. Avalanche
-
-<!-- section break -->
-
-Republic (stylised as Republic©) is the sixth studio album by English rock band New Order. It was first released on 3 May 1993 in the United Kingdom by CentreDate Co Ltd in association with London Records and on 11 May 1993 in the United States by Qwest and Warner Bros. Records. It was the band's first album following the demise of their former label Factory Records, and would be their last studio album for eight years until 2001's Get Ready.
-Republic became New Order's second consecutive album to top the UK Albums Chart, and was nominated for the 1993 Mercury Music Prize. In the United States, it reached number 11 on the Billboard 200, the band's highest-peaking album on the chart to date. Its lead single "Regret" became New Order's last top-five entry on the UK Singles Chart. The band went on hiatus following a gig at the Reading Festival in promotion of the album in August 1993. Lead singer Bernard Sumner was known to dislike travelling to North America, and media reports suggested that the pressure of the long leg there contributed to the band's temporary demise, although they reunited in 1998.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/republic/1040965893" >}}<br>

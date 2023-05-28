@@ -25,23 +25,6 @@ genres: ["Rock", "Reggae", "Funk / Soul"]
 styles: ["Ska", "New Wave"]
 ---
 
-{{< img src="encore-13150462.jpg" title="Encore by The Specials" >}}
-
-<!-- section break -->
-
-1. Black Skin Blue Eyed Boys
-2. B.L.M.
-3. Vote For Me
-4. The Lunatics
-5. Breaking Point
-6. Blam Blam Fever
-7. 10 Commandments
-8. Embarrassed By You
-9. The Life And Times (Of A Man Called Depression)
-10. We Sell Hope
-
-<!-- section break -->
-
 Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Horace Panter had not recorded together as The Specials since laying down 1981’s era-defining “Ghost Town”. If that bred any trepidation about making an album again, it proved unfounded when they convened in 2018. “It was lovely because we were all facing the same way,” bassist Panter tells Apple Music. “We surrounded ourselves with great musicians, making the best music we possibly could. It was really joyous—how I always thought albums ought be made, really.” That serenity has not blunted the band’s edge—<i>Encore</i> is as vital a document of a turbulent world as “Ghost Town” was almost four decades before, contemplating misogyny, racism, crime and mental health with precision, invention and a musical palette that stretches from ska to polka. Here, Panter takes us through the joyous experience, track by track.<br />
 <b>“Black Skin Blue Eyed Boys”</b>
 “We decided on some covers first. Terry and Lynval came up with The Equals’ version of ‘Black Skin Blue Eyed Boys’. They were both of the opinion that The Equals were the first multiracial British pop group. It’s an anti-war song. Our version is a little slower because we'd been listening to a lot of Talking Heads, LCD Soundsystem and that sort of stuff. We wanted this New York-y funk thing going down.”<br />
@@ -67,6 +50,18 @@ Although they’ve been reunited since 2008, Terry Hall, Lynval Golding and Hora
         
     
 
+
+## Tracklisting
+1. Black Skin Blue Eyed Boys
+2. B.L.M.
+3. Vote For Me
+4. The Lunatics
+5. Breaking Point
+6. Blam Blam Fever
+7. 10 Commandments
+8. Embarrassed By You
+9. The Life And Times (Of A Man Called Depression)
+10. We Sell Hope
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/encore-deluxe-edition/1472250007" >}}<br>

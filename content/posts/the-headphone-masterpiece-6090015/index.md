@@ -16,10 +16,13 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 ---
 
-{{< img src="the-headphone-masterpiece-6090015.jpg" title="The Headphone Masterpiece by Cody ChesnuTT" >}}
+The Headphone Masterpiece is the debut album by American singer-songwriter and multi-instrumentalist Cody Chesnutt, released in 2002. It was recorded in his home bedroom with a 4-track recorder and Chesnutt playing guitar, bass, keyboard, and the organ. A 36-song double album, The Headphone Masterpiece features neo soul and lo-fi music, and distorted, overdubbed production. It was written and arranged by Chesnutt, whose mix of ironic and sincere lyrics reflect on personal experiences such as falling in love with his wife and reconciling his love for rock and roll with the drawbacks to the rock lifestyle.
+After unsuccessfully shopping the album to record companies, Chesnutt distributed it himself on his website before releasing it again through his own label Ready, Set, Go! on September 24, 2002. The album charted for one week on the Billboard 200, reaching 25,000 copies sold by March 30, 2003, according to Nielsen SoundScan. Critically, it was well received, with reviewers generally finding the music adventurous, even if indulgent.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Magic In A Mortal Minute (0:38)
 2. With Me In Mind (3:51)
 3. Upstarts In A Blow Out (3:04)
@@ -56,14 +59,6 @@ styles: ["Dub", "Downtempo", "Experimental", "Contemporary R&B"]
 34. If We Don't Disagree (3:23)
 35. Look Good In Leather (3:55)
 36. 6 Seconds (4:28)
-
-<!-- section break -->
-
-The Headphone Masterpiece is the debut album by American singer-songwriter and multi-instrumentalist Cody Chesnutt, released in 2002. It was recorded in his home bedroom with a 4-track recorder and Chesnutt playing guitar, bass, keyboard, and the organ. A 36-song double album, The Headphone Masterpiece features neo soul and lo-fi music, and distorted, overdubbed production. It was written and arranged by Chesnutt, whose mix of ironic and sincere lyrics reflect on personal experiences such as falling in love with his wife and reconciling his love for rock and roll with the drawbacks to the rock lifestyle.
-After unsuccessfully shopping the album to record companies, Chesnutt distributed it himself on his website before releasing it again through his own label Ready, Set, Go! on September 24, 2002. The album charted for one week on the Billboard 200, reaching 25,000 copies sold by March 30, 2003, according to Nielsen SoundScan. Critically, it was well received, with reviewers generally finding the music adventurous, even if indulgent.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1529286229" >}}<br>

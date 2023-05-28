@@ -27,10 +27,9 @@ genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
 styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
 
-{{< img src="doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664.jpg" title="Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Doctor Who And The Pescatons
 2. Doctor Who And The Pescatons (Side One) (22:22)
 3. Doctor Who And The Pescatons (Side Two) (23:34)
@@ -65,10 +64,6 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 32. Dematerializer Gun (Switch On And Fire) - The Invasion of Time
 33. Dalek Gun (3 Blasts) - Genesis Of The Daleks
 34. Dragon Ray-Gun - The Talons Of Weng Chi'Ang
-
-<!-- section break -->
-
-
 
 
 

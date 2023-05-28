@@ -23,10 +23,9 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
 
-{{< img src="electro-a-personal-selection-of-electro-classics-9836222.jpg" title="Electro (A Personal Selection Of Electro Classics) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Al Naafiyish (The Soul)
 2. Release Yourself
 3. Mysterious Waves
@@ -35,10 +34,6 @@ styles: ["Electro"]
 6. This Party's Jam Packed
 7. Feel The Force
 8. The Smurf
-
-<!-- section break -->
-
-
 
 
 

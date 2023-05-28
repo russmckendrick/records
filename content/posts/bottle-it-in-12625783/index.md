@@ -30,10 +30,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="bottle-it-in-12625783.jpg" title="Bottle It In by Kurt Vile" >}}
+Bottle It In is the eighth studio album by American musician Kurt Vile, released on October 12, 2018 through Matador Records. It features contributions from Kim Gordon, Cass McCombs, Stella Mozgawa of Warpaint, and Mary Lattimore.
+The album was preceded by the singles "Loading Zones" and "Bassackwards".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Loading Zones (3:22)
 2. Hysteria (5:23)
 3. Yeah Bones (4:45)
@@ -47,14 +50,6 @@ styles: ["Indie Rock"]
 11. Cold Was The Wind (4:51)
 12. Skinny Mini (10:27)
 13. (Bottle Back) (1:38)
-
-<!-- section break -->
-
-Bottle It In is the eighth studio album by American musician Kurt Vile, released on October 12, 2018 through Matador Records. It features contributions from Kim Gordon, Cass McCombs, Stella Mozgawa of Warpaint, and Mary Lattimore.
-The album was preceded by the singles "Loading Zones" and "Bassackwards".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bottle-it-in/1586491648" >}}<br>

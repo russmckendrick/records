@@ -23,22 +23,17 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-{{< img src="magnetic-fields-263430.jpg" title="Magnetic Fields by Jean-Michel Jarre" >}}
+Though Jean-Michel Jarre's first album of the ’80s is composed of a single electronic suite, it’s both more urgent and features greater rhythmic momentum than any of the epic synthesiser journeys he’d taken before. Seemingly informed by the early ’80s synth-pop explosion—for which Jarre’s earlier albums helped lay the groundwork—<i>Les Chants Magnétiques</i> is the sound of a concept coming full circle. Upbeat, percolating rhythms and perky snatches of melody tickle the ear along the way, as the extended piece evolves.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Magnetic Fields Part 1
 2. Magnetic Fields Part 2
 3. Magnetic Fields Part 3
 4. Magnetic Fields Part 4
 5. Magnetic Fields Part 5 (The Last Rumba)
-
-<!-- section break -->
-
-Though Jean-Michel Jarre's first album of the ’80s is composed of a single electronic suite, it’s both more urgent and features greater rhythmic momentum than any of the epic synthesiser journeys he’d taken before. Seemingly informed by the early ’80s synth-pop explosion—for which Jarre’s earlier albums helped lay the groundwork—<i>Les Chants Magnétiques</i> is the sound of a concept coming full circle. Upbeat, percolating rhythms and perky snatches of melody tickle the ear along the way, as the extended piece evolves.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/les-chants-magn%C3%A9tiques-magnetic-fields/1027735663" >}}<br>

@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
 
-{{< img src="pink-flag-12172756.jpg" title="Pink Flag by Wire" >}}
+Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Reuters
 2. Field Day For The Sundays
 3. Three Girl Rhumba
@@ -46,13 +48,6 @@ styles: ["Punk", "New Wave"]
 19. Champs
 20. Feeling Called Love
 21. 1 2 X U
-
-<!-- section break -->
-
-Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-flag/1328682500" >}}<br>

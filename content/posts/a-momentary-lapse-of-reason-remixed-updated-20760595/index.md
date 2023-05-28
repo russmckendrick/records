@@ -46,10 +46,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="a-momentary-lapse-of-reason-remixed-updated-20760595.jpg" title="A Momentary Lapse Of Reason (Remixed & Updated) by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Signs Of Life (4:24)
 2. Learning To Fly (4:52)
 3. The Dogs Of War (6:10)
@@ -61,10 +60,6 @@ styles: ["Art Rock", "Prog Rock"]
 9. Terminal Frost (6:17)
 10. A New Machine (Part 2) (0:38)
 11. Sorrow (8:47)
-
-<!-- section break -->
-
-
 
 
 

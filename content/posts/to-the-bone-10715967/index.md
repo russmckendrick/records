@@ -30,10 +30,13 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock", "Art Rock"]
 ---
 
-{{< img src="to-the-bone-10715967.jpg" title="To The Bone by Steven Wilson" >}}
+On his fifth solo record, the prolific Steven Wilson builds a monumentally lush collection inspired by his ‘70s and ‘80s art-pop heroes, like Kate Bush and Peter Gabriel. Wilson’s cinematic ambition pays off in spades: The title track’s mystical grooves ease you into the album’s layered sound, and Israeli singer Ninet Tayeb provides a showstopping performance amid cosmic pop atmospheres on “Pariah.” Steady yourself for the guitar solo of “Refuge”—it’s an epic shred over the song’s spacey crescendo.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. To The Bone (6:41)
 2. Nowhere Now (4:03)
 3. Pariah (4:44)
@@ -45,14 +48,6 @@ styles: ["Prog Rock", "Pop Rock", "Art Rock"]
 9. Song Of I (5:21)
 10. Detonation (9:19)
 11. Song Of Unborn (5:55)
-
-<!-- section break -->
-
-On his fifth solo record, the prolific Steven Wilson builds a monumentally lush collection inspired by his ‘70s and ‘80s art-pop heroes, like Kate Bush and Peter Gabriel. Wilson’s cinematic ambition pays off in spades: The title track’s mystical grooves ease you into the album’s layered sound, and Israeli singer Ninet Tayeb provides a showstopping performance amid cosmic pop atmospheres on “Pariah.” Steady yourself for the guitar solo of “Refuge”—it’s an epic shred over the song’s spacey crescendo.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-the-bone/1440885200" >}}<br>

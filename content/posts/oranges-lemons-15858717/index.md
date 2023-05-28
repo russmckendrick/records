@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="oranges-lemons-15858717.jpg" title="Oranges & Lemons by XTC" >}}
+As its cover art and album title suggest, <i>Oranges & Lemons</i> represents the psychedelic vision of XTC, as much as such a concept could exist in 1989. The group had already issued several retro-psychedelic records as their alter-egos ‘The Dukes of Stratosphear’, emphasizing their ties to ‘60s pop, so it was hardly a stylistic shock when XTC extended these leanings to their proper group. In retrospect, it’s less a shift than a re-juggling of the band’s priorities. In the past, much of XTC’s appeal had been their jarring rhythms and slashing guitars. Over the years, the band experimented with increasingly complex arrangements that shaded their songs in dramatic light. Though the group expressed displeasure with Todd Rundgren’s production of 1986’s <i>Skylarking</i>, it was that careful effort that set the stage for this intricately sculpted collection. While “The Mayor of Simpleton” distills XTC’s essence to its most mind-humming basics, the baroque, carnival-esque excitement of “King for a Day,” “The Loving,” “Merely a Man” and “Chalkhills and Children” make for smart, adventurous listening.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Garden Of Earthly Delights
 2. The Mayor Of Simpleton
 3. King For A Day
@@ -48,13 +50,6 @@ styles: ["New Wave", "Pop Rock"]
 13. Pink Thing
 14. Miniature Sun
 15. Chalkhills And Children
-
-<!-- section break -->
-
-As its cover art and album title suggest, <i>Oranges & Lemons</i> represents the psychedelic vision of XTC, as much as such a concept could exist in 1989. The group had already issued several retro-psychedelic records as their alter-egos ‘The Dukes of Stratosphear’, emphasizing their ties to ‘60s pop, so it was hardly a stylistic shock when XTC extended these leanings to their proper group. In retrospect, it’s less a shift than a re-juggling of the band’s priorities. In the past, much of XTC’s appeal had been their jarring rhythms and slashing guitars. Over the years, the band experimented with increasingly complex arrangements that shaded their songs in dramatic light. Though the group expressed displeasure with Todd Rundgren’s production of 1986’s <i>Skylarking</i>, it was that careful effort that set the stage for this intricately sculpted collection. While “The Mayor of Simpleton” distills XTC’s essence to its most mind-humming basics, the baroque, carnival-esque excitement of “King for a Day,” “The Loving,” “Merely a Man” and “Chalkhills and Children” make for smart, adventurous listening.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oranges-lemons/724628737" >}}<br>

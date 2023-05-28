@@ -32,25 +32,6 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Contemporary R&B", "Pop Rock", "Funk", "Soul"]
 ---
 
-{{< img src="stand-for-myself-19686967.jpg" title="Stand For Myself by Yola" >}}
-
-<!-- section break -->
-
-1. Barely Alive (3:36)
-2. Dancing Away In Tears (3:48)
-3. Diamond Studded Shoes (3:25)
-4. Be My Friend (3:29)
-5. Great Divide (3:36)
-6. Starlight (4:03)
-7. If I Had To Do It All Again (3:47)
-8. Now You're Here (4:09)
-9. Whatever You Want (3:52)
-10. Break The Bough (3:21)
-11. Like A Photograph (5:03)
-12. Stand For Myself (4:14)
-
-<!-- section break -->
-
 After Yola signed with Dan Auerbach’s Easy Eye recordings and released <i>Walk Through Fire</i>, her genre-melding full-length debut that earned her four Grammy nominations (including a 2020 nod for Best New Artist), she found herself facing a stubborn foe: writer’s block. Her increasingly demanding career yielded accolades and an ever-growing fanbase that included artists like The Highwomen and director Baz Luhrmann, but she found herself struggling to write at the height of it. “I had ideas right the way through, from 2013, when I was learning to play guitar, through to when I first started doing shows in late 2015,” she tells Apple Music. “But I hadn't had a single idea from 2019 into the pandemic—just nothing. That level of being busy just completely poached my ability to write. I started deconstructing my process of how my brain likes to function when I'm creating.”<br />
 If she started humming a tune while straightening up the house, she wouldn't immediately try to interrogate it. She sought out stillness and space, a contrast to what she calls the “excessively conscious” state she often found herself in. “When that part of my brain was off, ideas would appear almost instantly,” she says. “I clearly had inspiration, but there were situations that stopped the ideas coming to the fore, stopped me being able to access them.” Eventually, Yola wrote her way out of writer’s block and into <i>Stand for Myself</i>, an album that meets the high standard she set with <i>Walk Through Fire</i> while drawing in new sounds (namely disco, which drives the groove of “Dancing Away in Tears”) and doubling down on vintage vibes (notably the ’70s soul of “Starlight”) and declarations of self-empowerment. New collaborators came along for the soulful journey, too: Joy Oladokun, Ruby Amanfu and Natalie Hemby co-wrote songs for the album (as did Auerbach, who produced the album, along with <i>Walk Through Fire</i>), and Brandi Carlile lends her voice to “Be My Friend”, an all-too-timely celebration of allyship. Below, Yola talks through a few of the songs on the album and how they helped get her back on track.<br />
 <b>“Barely Alive”</b>
@@ -65,6 +46,20 @@ If she started humming a tune while straightening up the house, she wouldn't imm
         
     
 
+
+## Tracklisting
+1. Barely Alive (3:36)
+2. Dancing Away In Tears (3:48)
+3. Diamond Studded Shoes (3:25)
+4. Be My Friend (3:29)
+5. Great Divide (3:36)
+6. Starlight (4:03)
+7. If I Had To Do It All Again (3:47)
+8. Now You're Here (4:09)
+9. Whatever You Want (3:52)
+10. Break The Bough (3:21)
+11. Like A Photograph (5:03)
+12. Stand For Myself (4:14)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stand-for-myself/1561240873" >}}<br>

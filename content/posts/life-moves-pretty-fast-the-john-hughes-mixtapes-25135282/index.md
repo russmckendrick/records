@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
 
-{{< img src="life-moves-pretty-fast-the-john-hughes-mixtapes-25135282.jpg" title="Life Moves Pretty Fast: The John Hughes Mixtapes by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kajagoogoo (Instrumental)
 2. Don't You (Forget About Me)
 3. If You Leave
@@ -94,10 +93,6 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 71. Beaver Patrol
 72. Turning Japanese
 73. Red River Rock
-
-<!-- section break -->
-
-
 
 
 

@@ -20,10 +20,9 @@ genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
 
-{{< img src="house-of-pain-fine-malt-lyrics-24012683.jpg" title="House Of Pain (Fine Malt Lyrics) by House Of Pain" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Salutations (1:11)
 2. Jump Around (3:37)
 3. Put Your Head Out (3:02)
@@ -46,10 +45,6 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 20. Shamrocks And Shenanigans (Butch Vig Remix) (3:57)
 21. Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) (4:05)
 22. Jump Around (Instumental) (3:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}<br>

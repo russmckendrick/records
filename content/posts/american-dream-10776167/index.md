@@ -32,10 +32,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield"]
 ---
 
-{{< img src="american-dream-10776167.jpg" title="American Dream by LCD Soundsystem" >}}
+American Dream (stylized in all-lowercase on digital releases) is the fourth studio album by American rock band LCD Soundsystem, released on September 1, 2017, by DFA and Columbia. It was announced on January 5, 2016, the day after it was revealed that the band was reuniting after a disbandment lasting nearly five years. It is the band's first album in seven years, following This Is Happening (2010).  This album reached number 1 on the Top Rock Albums chart and was LCD Soundsystem's first record to top the US Billboard 200.
+Prior to release, LCD Soundsystem performed at large music festivals as well as smaller shows to promote their reunion. "Call the Police" and "American Dream" were released together as the album's lead single on May 5, 2017, and "Tonite" was released as the second single on August 16, 2017. "Oh Baby" was later released as a single on September 20, 2018. The album received widespread acclaim from music critics, appeared on many year-end lists, and was named "Album of the Year" by Mojo and Uncut. The album performed well commercially and became the band's first number-one album in the United States, Canada, and Portugal. At the 60th Annual Grammy Awards, the album was nominated for Best Alternative Music Album and "Tonite" won the Grammy Award for Best Dance Recording.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Oh Baby
 2. Other Voices
 3. I Used To
@@ -46,15 +50,6 @@ styles: ["Leftfield"]
 8. American Dream 
 9. Emotional Haircut
 10. Black Screen
-
-<!-- section break -->
-
-American Dream (stylized in all-lowercase on digital releases) is the fourth studio album by American rock band LCD Soundsystem, released on September 1, 2017, by DFA and Columbia. It was announced on January 5, 2016, the day after it was revealed that the band was reuniting after a disbandment lasting nearly five years. It is the band's first album in seven years, following This Is Happening (2010).  This album reached number 1 on the Top Rock Albums chart and was LCD Soundsystem's first record to top the US Billboard 200.
-Prior to release, LCD Soundsystem performed at large music festivals as well as smaller shows to promote their reunion. "Call the Police" and "American Dream" were released together as the album's lead single on May 5, 2017, and "Tonite" was released as the second single on August 16, 2017. "Oh Baby" was later released as a single on September 20, 2018. The album received widespread acclaim from music critics, appeared on many year-end lists, and was named "Album of the Year" by Mojo and Uncut. The album performed well commercially and became the band's first number-one album in the United States, Canada, and Portugal. At the 60th Annual Grammy Awards, the album was nominated for Best Alternative Music Album and "Tonite" won the Grammy Award for Best Dance Recording.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-dream/1258822744" >}}<br>

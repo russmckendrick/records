@@ -23,10 +23,12 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
 
-{{< img src="people-s-instinctive-travels-and-the-paths-of-rhythm-7926540.jpg" title="People's Instinctive Travels And The Paths Of Rhythm by A Tribe Called Quest" >}}
+A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Push It Along (7:42)
 2. Luck Of Lucien (4:32)
 3. After Hours (4:39)
@@ -45,13 +47,6 @@ styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 16. Footprints (Remix) (5:08)
 17. Bonita Applebum (Pharrell Williams Remix) (3:53)
 18. Can I Kick It? (J. Cole Remix) (2:49)
-
-<!-- section break -->
-
-A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573" >}}<br>

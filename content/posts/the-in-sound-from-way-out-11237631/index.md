@@ -20,10 +20,12 @@ genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
 
-{{< img src="the-in-sound-from-way-out-11237631.jpg" title="The In Sound From Way Out! by Beastie Boys" >}}
+The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Devant
 2. Ricky's Theme
 3. Groove Holmes
@@ -38,13 +40,6 @@ styles: ["Instrumental"]
 12. Transitions
 13. Sabrosa
 14. Drinkin' Wine
-
-<!-- section break -->
-
-The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
-    
-    
-
 
 
 ## Spotify

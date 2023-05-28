@@ -36,10 +36,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="monolithic-baby-24530108.jpg" title="Monolithic Baby! by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Slut Machine
 2. Supercruel
 3. On The Verge
@@ -52,10 +51,6 @@ styles: ["Stoner Rock"]
 10. Too Bad
 11. Ultimate Everything
 12. CNN War Theme
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monolithic-baby/1635598919" >}}<br>

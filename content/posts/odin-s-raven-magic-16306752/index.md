@@ -20,21 +20,6 @@ genres: ["Classical"]
 styles: ["Contemporary"]
 ---
 
-{{< img src="odin-s-raven-magic-16306752.jpg" title="Odin's Raven Magic by Sigur Rós" >}}
-
-<!-- section break -->
-
-1. Prologus
-2. Alföður Orkar
-3. Dvergmál
-4. Stendur Æva
-5. Áss Hinn Hvíti 
-6. Hvert Stefnir
-7. Spár Eða Spakmál
-8. Dagrenning
-
-<!-- section break -->
-
 Sigur Rós had grand plans for the release of <i>Odin’s Raven Magic</i>. Their orchestral collaboration with fellow Icelandic musicians Hilmar Örn Hilmarsson, Steindór Andersen and María Huld Markan Sigfúsdóttir premiered in 2002 at London’s Barbican Centre and was recorded live during a performance at La Grande Halle de la Villette in Paris two years later. Mixed as far back as 2006, the album was put on hold as the post-rock group discussed how best to release it. With extravagant artwork, perhaps? Or with a set of videos that would emphasise the importance of the medieval Icelandic poem they had put music to? Its legend growing over the course of 16 years, the recording has finally seen the light of day—but without any added bells or whistles. “It’s been lying around for such a long time and people have been asking if it’s going to come out, waiting for it. We decided, let’s just do a simple release, get it out,” Kjartan Sveinsson tells Apple Music.<br />
 The former Sigur Rós keyboardist was instrumental in pulling the ambitious project together and looks back on its creation as a stressful but rewarding time. “It was fun and a bit crazy,” he says. “We were still writing music the day before rehearsals.” Written the same year that their third studio album, <i>( )</i>, brought Sigur Rós to the world’s attention, <i>Odin’s Raven Magic</i> is the sound of the band experimenting with elegant and beautiful orchestral and choral arrangements. It is too good an album to be gathering dust. “It’s a bit silly sitting on something like this, because it’s not totally bad,” says Sveinsson with huge understatement. Here, he takes us on the journey into <i>Odin’s Raven Magic</i>, track by track.<br />
 <b>Prologus</b>
@@ -56,6 +41,16 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
     
     
 
+
+## Tracklisting
+1. Prologus
+2. Alföður Orkar
+3. Dvergmál
+4. Stendur Æva
+5. Áss Hinn Hvíti 
+6. Hvert Stefnir
+7. Spár Eða Spakmál
+8. Dagrenning
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/odins-raven-magic-with-steind%C3%B3r-andersen-hilmar-%C3%B6rn/1536156586" >}}<br>

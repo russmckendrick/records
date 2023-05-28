@@ -35,10 +35,12 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
 
-{{< img src="distance-over-time-13251567.jpg" title="Distance Over Time by Dream Theater" >}}
+Distance Over Time is the fourteenth studio album by American progressive metal band Dream Theater, released on February 22, 2019, and the band's first release on Inside Out Music. Distance over Time was announced alongside a tour of North America during which Dream Theater would support the new album and celebrate the 20th anniversary of its fifth studio album, Metropolis Pt. 2: Scenes from a Memory (1999). On December 7, 2018, the lead single "Untethered Angel" and its music video were released. The second single, "Fall into the Light", was released on January 11, 2019. The third single, "Paralyzed", and its accompanying video were released on February 8, 2019. It is the band's most successful album chart-wise to date, taking top 10 positions in 19 countries (including going to number one in Germany and Switzerland).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Untethered Angel (6:12)
 2. Paralyzed (4:14)
 3. Fall Into The Light (7:01)
@@ -59,13 +61,6 @@ styles: ["Heavy Metal", "Progressive Metal"]
 18. Out Of Reach (4:05)
 19. Pale Blue Dot (8:26)
 20. Viper King (4:01)
-
-<!-- section break -->
-
-Distance Over Time is the fourteenth studio album by American progressive metal band Dream Theater, released on February 22, 2019, and the band's first release on Inside Out Music. Distance over Time was announced alongside a tour of North America during which Dream Theater would support the new album and celebrate the 20th anniversary of its fifth studio album, Metropolis Pt. 2: Scenes from a Memory (1999). On December 7, 2018, the lead single "Untethered Angel" and its music video were released. The second single, "Fall into the Light", was released on January 11, 2019. The third single, "Paralyzed", and its accompanying video were released on February 8, 2019. It is the band's most successful album chart-wise to date, taking top 10 positions in 19 countries (including going to number one in Germany and Switzerland).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/distance-over-time-bonus-track-version/1445099485" >}}<br>

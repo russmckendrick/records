@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="pop-art-1811343.jpg" title="Pop Art by Transvision Vamp" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Trash City (5:08)
 2. I Want Your Love (3:29)
 3. Sister Moon (4:21)
@@ -35,10 +34,6 @@ styles: ["Pop Rock"]
 8. Hanging Out With Halo Jones (4:35)
 9. Andy Warhol's Dead (3:48)
 10. Sex Kick (5:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pop-art/1444051351" >}}<br>

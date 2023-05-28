@@ -27,10 +27,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="teenage-wildlife-25-years-of-ash-14801136.jpg" title="Teenage Wildlife: 25 Years Of Ash by Ash" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Life Less Ordinary
 2. Arcadia
 3. Darkest Hour Of The Night
@@ -53,10 +52,6 @@ styles: ["Alternative Rock", "Britpop"]
 20. Jesus Says
 21. Orpheus
 22. Jack Names The Planets
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1488363014" >}}<br>

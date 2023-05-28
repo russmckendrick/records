@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="nowhere-25002331.jpg" title="Nowhere by Ride" >}}
+Nowhere is the debut album by British shoegaze band Ride, released 15 October 1990. Rolling Stone called the album "a masterpiece", and online magazine Pitchfork called it "one of shoegazing's enduring moments".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Seagull
 2. Kaleidoscope
 3. In A Different Place
@@ -36,13 +38,6 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 6. Decay
 7. Paralysed
 8. Vapour Trail
-
-<!-- section break -->
-
-Nowhere is the debut album by British shoegaze band Ride, released 15 October 1990. Rolling Stone called the album "a masterpiece", and online magazine Pitchfork called it "one of shoegazing's enduring moments".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nowhere-remastered/884059844" >}}<br>

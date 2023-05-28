@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="20-golden-hits-3441920.jpg" title="20 Golden Hits by Willie Nelson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Any Old Arms Won't Do (2:47)
 2. Slow Down Old World (1:51)
 3. Healing Hands Of Time (2:13)
@@ -43,10 +42,6 @@ styles: ["Country"]
 18. You'll Always Have Someone (2:56)
 19. I Just Don't Understand (2:48)
 20. Pages (1:57)
-
-<!-- section break -->
-
-
 
 
 

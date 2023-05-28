@@ -21,10 +21,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-lost-boys-original-motion-picture-soundtrack-12168177.jpg" title="The Lost Boys (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Times
 2. Lost In The Shadows (The Lost Boys)
 3. Don't Let The Sun Go Down On Me
@@ -35,10 +34,6 @@ styles: ["Soundtrack"]
 8. I Still Believe
 9. Beauty Has Her Way
 10. To The Shock Of Miss Louise
-
-<!-- section break -->
-
-
 
 
 ## Spotify

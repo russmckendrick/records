@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 ---
 
-{{< img src="x-2984283.jpg" title="X by Queens Of The Stone Age" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Feel Good Hit Of The Summer (2:43)
 2. The Lost Art Of Keeping A Secret (3:36)
 3. Leg Of Lamb (2:49)
@@ -38,10 +37,6 @@ styles: ["Alternative Rock", "Hard Rock", "Stoner Rock"]
 10. Lightning Song (2:08)
 11. I Think I Lost My Headache (8:40)
 12. Ode To Clarissa (2:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082" >}}<br>

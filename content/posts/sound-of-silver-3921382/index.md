@@ -24,10 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
 
-{{< img src="sound-of-silver-3921382.jpg" title="Sound Of Silver by LCD Soundsystem" >}}
+Sound of Silver is the second studio album by American rock band LCD Soundsystem. The album was released jointly through DFA and Capitol Records in the United States and EMI elsewhere, first on March 12, 2007, in the United Kingdom. Sound of Silver was produced by the DFA and recorded during 2006 at Long View Farm in North Brookfield, Massachusetts and DFA Studios in New York, New York.  Upon release, Sound of Silver received acclaim from music critics, and it was later nominated for the Grammy Award for Best Electronic/Dance Album at the 50th Annual Grammy Awards.  The group's later released EP, entitled A Bunch of Stuff, was composed entirely of songs from this album.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Innocuous! (7:11)
 2. Time To Get Away (4:11)
 3. North American Scum (5:25)
@@ -37,14 +40,6 @@ styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 7. Watch The Tapes (3:55)
 8. Sound Of Silver (7:07)
 9. New York, I Love You But You're Bringing Me Down (5:35)
-
-<!-- section break -->
-
-Sound of Silver is the second studio album by American rock band LCD Soundsystem. The album was released jointly through DFA and Capitol Records in the United States and EMI elsewhere, first on March 12, 2007, in the United Kingdom. Sound of Silver was produced by the DFA and recorded during 2006 at Long View Farm in North Brookfield, Massachusetts and DFA Studios in New York, New York.  Upon release, Sound of Silver received acclaim from music critics, and it was later nominated for the Grammy Award for Best Electronic/Dance Album at the 50th Annual Grammy Awards.  The group's later released EP, entitled A Bunch of Stuff, was composed entirely of songs from this album.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sound-of-silver/742432549" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
 
-{{< img src="greatest-hits-the-immediate-years-1967-1969-6585325.jpg" title="Greatest Hits The Immediate Years 1967 - 1969 by Small Faces" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Here Comes The Nice (2:57)
 2. Talk To You (2:07)
 3. Get Yourself Together (2:19)
@@ -45,10 +44,6 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 15. Donkey Rides, A Penny A Glass (2:50)
 16. Afterglow Of Your Love (Single Version) (3:24)
 17. Wham Bam Thank You Mam (3:18)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

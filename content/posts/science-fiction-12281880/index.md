@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="science-fiction-12281880.jpg" title="Science Fiction by Church Of The Cosmic Skull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Science Fiction
 2. Go By The River
 3. Revolution Comes With An Act Of Love
@@ -34,10 +33,6 @@ styles: []
 8. Paper Aeroplane
 9. Silver Moon
 10. The Devil Again
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/science-fiction/1362743489" >}}<br>

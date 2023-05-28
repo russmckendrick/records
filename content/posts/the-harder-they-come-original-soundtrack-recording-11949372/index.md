@@ -23,10 +23,9 @@ genres: ["Reggae", "Stage & Screen"]
 styles: ["Soundtrack", "Reggae"]
 ---
 
-{{< img src="the-harder-they-come-original-soundtrack-recording-11949372.jpg" title="The Harder They Come (Original Soundtrack Recording) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You Can Get It If You Really Want
 2. Draw Your Brakes
 3. Rivers Of Babylon
@@ -39,10 +38,6 @@ styles: ["Soundtrack", "Reggae"]
 10. Sitting In Limbo
 11. You Can Get It If You Really Want
 12. The Harder They Come
-
-<!-- section break -->
-
-
 
 
 

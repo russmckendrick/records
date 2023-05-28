@@ -17,10 +17,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="stranger-things-a-netflix-original-series-original-music-volume-two-9425650.jpg" title="Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hopper Sneaks In
 2. I Know What I Saw
 3. Rolling Out The Pool
@@ -60,10 +59,6 @@ styles: ["Soundtrack", "Score"]
 37. In Pursuit
 38. Breaking And Entering
 39. Stranger Things (Extended)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-2-a-netflix-original-series-soundtrack/1145580199" >}}<br>

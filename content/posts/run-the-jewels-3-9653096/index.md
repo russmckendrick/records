@@ -33,10 +33,9 @@ genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Conscious"]
 ---
 
-{{< img src="run-the-jewels-3-9653096.jpg" title="Run The Jewels 3 by Run The Jewels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Down
 2. Talk To Me
 3. Legend Has It
@@ -52,10 +51,6 @@ styles: ["Hardcore Hip-Hop", "Conscious"]
 13. Thursday In The Danger Room
 14. A Report To The Shareholders
 15. Kill Your Masters
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-3/1598920855" >}}<br>

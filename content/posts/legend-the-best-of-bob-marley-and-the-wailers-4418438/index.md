@@ -21,10 +21,12 @@ genres: ["Reggae"]
 styles: ["Reggae", "Roots Reggae"]
 ---
 
-{{< img src="legend-the-best-of-bob-marley-and-the-wailers-4418438.jpg" title="Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers" >}}
+An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Is This Love (3:52)
 2. No Woman No Cry (4:02)
 3. Could You Be Loved (3:35)
@@ -39,13 +41,6 @@ styles: ["Reggae", "Roots Reggae"]
 12. Satisfy My Soul (3:49)
 13. Exodus (4:16)
 14. Jamming (3:17)
-
-<!-- section break -->
-
-An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection of Robert Nesta Marley’s most enduring tracks easily lives up to its grand title. And this is a best of in every sense. From blissed-out reimaginings of rock (“Stir It Up”, “Buffalo Soldier”) to politicised skankfests (“Exodus”, “Get Up, Stand Up”), <i>Legend</i> has the cohesive flow of a studio album and distills an artist—and a genre—into one irresistible groove.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}<br>

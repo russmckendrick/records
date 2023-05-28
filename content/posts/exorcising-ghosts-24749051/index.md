@@ -28,10 +28,14 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
 
-{{< img src="exorcising-ghosts-24749051.jpg" title="Exorcising Ghosts by Japan" >}}
+Exorcising Ghosts is a compilation album by the British band Japan, released in November 1984 by record label Virgin.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Methods Of Dance
 2. Swing
 3. Gentlemen Take Polaroids
@@ -48,15 +52,6 @@ styles: ["Synth-pop", "New Wave"]
 14. Life Without Buildings
 15. Talking Drum
 16. The Art Of Parties
-
-<!-- section break -->
-
-Exorcising Ghosts is a compilation album by the British band Japan, released in November 1984 by record label Virgin.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exorcising-ghosts/724314377" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="silverlake-11269948.jpg" title="Silverlake by Pugwash" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Perfect Summer
 2. What Are You Like
 3. Why Do I
@@ -31,10 +30,6 @@ styles: []
 9. Such A Shame
 10. Easier Done Than Said
 11. Autarch
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silverlake/1282544689" >}}<br>

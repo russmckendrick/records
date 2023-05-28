@@ -30,10 +30,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="pure-phase-19066723.jpg" title="Pure Phase by Spiritualized" >}}
+Pure Phase is the second studio album by Spiritualized, released on 28 March 1995. The album was recorded in the Moles Studio in Bath, and features contributions from The Balanescu Quartet.  Initial CD copies were sold in a glow-in-the-dark, encapsulated CD case.
+The lineup fluctuated during recording, with the band eventually reduced to a core trio of Jason Pierce, Kate Radley and Sean Cook. Previous members Mark Refoy and Jonny Mattock performed the main guitar and drums sections respectively, but by the time of album release, both men had been sacked from the band.  At the time of release, Pierce had renamed the band as "Spiritualized Electric Mainline", the name that appears on the album cover, before reverting to the Spiritualized name shortly afterwards.
+The track "Pure Phase" was the basis for a limited edition release called "Pure Phase Tones For DJs", which consisted of 16 versions of "Pure Phase", four on each side of the single, playable at both 33 and 45rpm. The tracks were in the keys of C/F; D/G; E/A; F/B-flat; G/C; A/D; B/E; and C/F, at varying frequencies. Pierce intended that they were to be used as a set, in order to make chords. The 'Pure Phase Tone' still features heavily in Spiritualized's live set to this day, playing in between songs and before they go onstage, acting as their entrance music.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Medication (8:15)
 2. The Slide Song (3:52)
 3. Electric Phase (1:33)
@@ -48,15 +52,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 12. Pure Phase (6:30)
 13. Spread Your Wings (6:17)
 14. Feel Like Goin' Home (5:38)
-
-<!-- section break -->
-
-Pure Phase is the second studio album by Spiritualized, released on 28 March 1995. The album was recorded in the Moles Studio in Bath, and features contributions from The Balanescu Quartet.  Initial CD copies were sold in a glow-in-the-dark, encapsulated CD case.
-The lineup fluctuated during recording, with the band eventually reduced to a core trio of Jason Pierce, Kate Radley and Sean Cook. Previous members Mark Refoy and Jonny Mattock performed the main guitar and drums sections respectively, but by the time of album release, both men had been sacked from the band.  At the time of release, Pierce had renamed the band as "Spiritualized Electric Mainline", the name that appears on the album cover, before reverting to the Spiritualized name shortly afterwards.
-The track "Pure Phase" was the basis for a limited edition release called "Pure Phase Tones For DJs", which consisted of 16 versions of "Pure Phase", four on each side of the single, playable at both 33 and 45rpm. The tracks were in the keys of C/F; D/G; E/A; F/B-flat; G/C; A/D; B/E; and C/F, at varying frequencies. Pierce intended that they were to be used as a set, in order to make chords. The 'Pure Phase Tone' still features heavily in Spiritualized's live set to this day, playing in between songs and before they go onstage, acting as their entrance music.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-phase/1502468694" >}}<br>

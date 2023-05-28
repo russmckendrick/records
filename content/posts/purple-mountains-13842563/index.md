@@ -22,10 +22,16 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk"]
 ---
 
-{{< img src="purple-mountains-13842563.jpg" title="Purple Mountains by Purple Mountains" >}}
+When David Berman disbanded Silver Jews in 2009, the world stood to lose one of the best writers in indie rock, a guy who catalogued the magic and misery of everyday life with wit, heart and the ragged glory of the occupationally down-and-out. After a 10-year break professedly spent reading books and arguing with people on Reddit, Berman enlisted members of the Brooklyn band Woods to back him on <i>Purple Mountains</i>.<br />
+Berman’s pain had never been laid quite so bare, nor had it ever sounded quite so urgent. “I spent a decade playing chicken with oblivion,” he sings on the swaggering “That’s Just the Way I Feel”. “Day to day, I’m neck and neck with giving in.” And “Margaritas at the Mall” turns an ordinary happy hour into a jeremiad about the cold comforts of capitalism in a godless world. That the music—country-tinged indie rock—was as polished and competent as it was only highlighted Berman’s intensity: less a rock singer than a street preacher, someone who needed to avail himself of his visions stat.<br />
+But even at his most desperate, he remained achingly funny, turning statements of existential loneliness into the kind of bumper sticker Zen that made him seem like an ordinary guy no matter how highfalutin he could get. “Well, if no one’s fond of fuckin’ me, maybe no one’s fuckin’ fond of me,” he sings on the album-closing “Maybe I’m the Only One for Me”, sounding not all that far off from the George Strait one-twos he reportedly loved.<br />
+Above all, though, his writing is beautiful, attuned to detail in ways that make ordinary scenarios shimmer with quiet magic. Just listen to “Snow Is Falling in Manhattan”, which turns a quiet night in a big city into an allegory of finding solace in the weather of what comes to us.<br />
+Shortly after the release of <i>Purple Mountains</i>, Berman died, at the age of 52, a tragic end to what felt like a triumphant return. “The dead know what they're doing when they leave this world behind,” he sings on “Nights That Won’t Happen”. “When the here and the hereafter momentarily align.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. That's Just The Way That I Feel
 2. All My Happiness Is Gone
 3. Darkness And Cold
@@ -36,17 +42,6 @@ styles: ["Alternative Rock", "Folk"]
 8. Nights That Won't Happen
 9. Storyline Fever
 10. Maybe I'm The Only One For Me
-
-<!-- section break -->
-
-When David Berman disbanded Silver Jews in 2009, the world stood to lose one of the best writers in indie rock, a guy who catalogued the magic and misery of everyday life with wit, heart and the ragged glory of the occupationally down-and-out. After a 10-year break professedly spent reading books and arguing with people on Reddit, Berman enlisted members of the Brooklyn band Woods to back him on <i>Purple Mountains</i>.<br />
-Berman’s pain had never been laid quite so bare, nor had it ever sounded quite so urgent. “I spent a decade playing chicken with oblivion,” he sings on the swaggering “That’s Just the Way I Feel”. “Day to day, I’m neck and neck with giving in.” And “Margaritas at the Mall” turns an ordinary happy hour into a jeremiad about the cold comforts of capitalism in a godless world. That the music—country-tinged indie rock—was as polished and competent as it was only highlighted Berman’s intensity: less a rock singer than a street preacher, someone who needed to avail himself of his visions stat.<br />
-But even at his most desperate, he remained achingly funny, turning statements of existential loneliness into the kind of bumper sticker Zen that made him seem like an ordinary guy no matter how highfalutin he could get. “Well, if no one’s fond of fuckin’ me, maybe no one’s fuckin’ fond of me,” he sings on the album-closing “Maybe I’m the Only One for Me”, sounding not all that far off from the George Strait one-twos he reportedly loved.<br />
-Above all, though, his writing is beautiful, attuned to detail in ways that make ordinary scenarios shimmer with quiet magic. Just listen to “Snow Is Falling in Manhattan”, which turns a quiet night in a big city into an allegory of finding solace in the weather of what comes to us.<br />
-Shortly after the release of <i>Purple Mountains</i>, Berman died, at the age of 52, a tragic end to what felt like a triumphant return. “The dead know what they're doing when they leave this world behind,” he sings on “Nights That Won’t Happen”. “When the here and the hereafter momentarily align.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple-mountains/1456510195" >}}<br>

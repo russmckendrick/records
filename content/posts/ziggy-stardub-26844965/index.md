@@ -18,10 +18,9 @@ genres: ["Reggae"]
 styles: ["Reggae", "Reggae-Pop", "Dub"]
 ---
 
-{{< img src="ziggy-stardub-26844965.jpg" title="Ziggy Stardub by Easy Star All-Stars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Five Years (3:49)
 2. Soul Love (3:55)
 3. Moonage Daydream (4:30)
@@ -33,10 +32,6 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 9. Ziggy Stardust (3:35)
 10. Suffragette City (3:29)
 11. Rock 'N' Roll Suicide (3:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}<br>

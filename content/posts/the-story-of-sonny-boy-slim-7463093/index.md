@@ -28,10 +28,17 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="the-story-of-sonny-boy-slim-7463093.jpg" title="The Story Of Sonny Boy Slim by Gary Clark Jr." >}}
+The Story of Sonny Boy Slim is the second studio album by American blues rock musician Gary Clark Jr., released on September 11, 2015, through Warner Bros. Records. The album features 13 originals tracks and showcases many of Clark's signature moves. Clark blends his usual styles of blues, rock and soul music, with occasional touches of hip hop and R&B, to create his signature sound.
+The album's title was created by blending his two childhood nicknames. Sonny Boy was the nickname his mother gave him, Slim was given to him on the Austin Texas blues scene and referred to his tall and thin physical build.
+It reached number one on the Billboard Top Blues Albums chart in October that year.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Healing (4:49)
 2. Grinder (3:22)
 3. Star (4:44)
@@ -45,18 +52,6 @@ styles: ["Rhythm & Blues"]
 11. Stay (3:45)
 12. Shake (3:18)
 13. Down To Ride (7:52)
-
-<!-- section break -->
-
-The Story of Sonny Boy Slim is the second studio album by American blues rock musician Gary Clark Jr., released on September 11, 2015, through Warner Bros. Records. The album features 13 originals tracks and showcases many of Clark's signature moves. Clark blends his usual styles of blues, rock and soul music, with occasional touches of hip hop and R&B, to create his signature sound.
-The album's title was created by blending his two childhood nicknames. Sonny Boy was the nickname his mother gave him, Slim was given to him on the Austin Texas blues scene and referred to his tall and thin physical build.
-It reached number one on the Billboard Top Blues Albums chart in October that year.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}<br>

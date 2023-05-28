@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="slave-ambient-3052756.jpg" title="Slave Ambient by The War On Drugs" >}}
+Slave Ambient is the second studio album by American indie rock band The War on Drugs, released on August 16, 2011, on Secretly Canadian. Recorded over three years, Slave Ambient is the final release to feature contributions from founding guitarist Kurt Vile and drummer Mike Zanghi, and the first to feature drummer Steven Urgo.The album was preceded by the EP, Future Weather, in 2010.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Best Night
 2. Brothers
 3. I Was There
@@ -41,15 +45,6 @@ styles: ["Indie Rock"]
 10. Baby Missiles
 11. Original Slave
 12. Black Water Falls
-
-<!-- section break -->
-
-Slave Ambient is the second studio album by American indie rock band The War on Drugs, released on August 16, 2011, on Secretly Canadian. Recorded over three years, Slave Ambient is the final release to feature contributions from founding guitarist Kurt Vile and drummer Mike Zanghi, and the first to feature drummer Steven Urgo.The album was preceded by the EP, Future Weather, in 2010.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slave-ambient/452135966" >}}<br>

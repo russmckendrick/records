@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
 
-{{< img src="the-sound-of-mcalmont-butler-8331235.jpg" title="The Sound Of... McAlmont & Butler by McAlmont & Butler" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Yes
 2. What's The Excuse This Time?
 3. The Right Thing
@@ -31,10 +30,6 @@ styles: ["Indie Pop", "Indie Rock"]
 9. Tonight
 10. You'll Lose A Good Thing
 11. You Do
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sound-of-mcalmont-and-butler/723687997" >}}<br>

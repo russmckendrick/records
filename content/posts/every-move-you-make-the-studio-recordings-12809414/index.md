@@ -50,10 +50,9 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: []
 ---
 
-{{< img src="every-move-you-make-the-studio-recordings-12809414.jpg" title="Every Move You Make (The Studio Recordings) by The Police" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Outlandos d'Amour (1978)
 2. Next To You (2:51)
 3. So Lonely (4:48)
@@ -125,10 +124,6 @@ styles: []
 69. Truth Hits Everybody (Remix) (1983)
 70. Someone To Talk To (1983)
 71. Once Upon A Daydream (1983)
-
-<!-- section break -->
-
-
 
 
 

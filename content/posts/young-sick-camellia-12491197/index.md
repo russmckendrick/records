@@ -24,10 +24,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="young-sick-camellia-12491197.jpg" title="Young Sick Camellia by St. Paul & The Broken Bones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cumulus Pt.1
 2. Convex
 3. GotItBad
@@ -41,10 +40,6 @@ styles: ["Soul"]
 11. Concave
 12. CaveFlora Pt.1
 13. Bruised Fruit
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-sick-camellia/1415203559" >}}<br>

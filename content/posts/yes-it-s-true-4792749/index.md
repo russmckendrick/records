@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="yes-it-s-true-4792749.jpg" title="Yes, It's True by The Polyphonic Spree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Section 33 (You Don't Know Me)
 2. Section 34 (Popular By Design)
 3. Section 35 (Hold Yourself Up)
@@ -31,10 +30,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 9. Section 41 (Raise Your Head)
 10. Section 42 (What Would You Do?)
 11. Section 43 (Battlefield)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yes-its-true/1595585729" >}}<br>

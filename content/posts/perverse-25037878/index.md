@@ -20,10 +20,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="perverse-25037878.jpg" title="Perverse by Jesus Jones" >}}
+Perverse is the third studio album by British rock band Jesus Jones, released in 1993 on Food Records. After their international success following the release of Doubt (1991), Jesus Jones, especially band leader Mike Edwards, conceived Perverse as a darker, more contemporary album. Fusing rave and techno music into more traditional rock and pop song structures, the album is heavier than its predecessors with a much greater inclusion of industrial music and features lyrics that concern the future. Edwards wrote the lyrics of the album during the band's 1991 tour, using a Roland W-30 sampler to conceive songs in their earliest stages.
+According to Trouser Press, Perverse "enjoys the historical distinction of being the first album recorded entirely (except for Edwards' vocals) on computer." The band recorded the entire album onto floppy disks in Edwards' house, which were then used on his computer to turn the music into "zeroes and ones". Edwards described it as "the second rock album of the nineties," after The Young Gods' T.V. Sky, due to both albums embracing full-on computer technology. Although the band were ridiculed at the time for the recording process, it later became an influential technique.
+Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the start of the band's declining fortunes, although it still yielded three top 40 singles, "The Devil You Know", which also reached number 1 on the Modern Rock Tracks Chart, "The Right Decision" and "Zeroes and Ones" still making the album quite successful. The album received both mixed and positive reviews at the time, with some critics finding the album's production clattered, but later reviews have been more favourable, and some have posed the album as the band's best work. An extensive deluxe edition of the album was released in November 2014.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Zeroes And Ones (3:24)
 2. The Devil You Know (4:31)
 3. Get A Good Thing (3:23)
@@ -36,15 +40,6 @@ styles: ["Synth-pop", "Indie Rock"]
 10. Tongue Tied (3:16)
 11. Spiral (4:30)
 12. Idiot Stare (5:10)
-
-<!-- section break -->
-
-Perverse is the third studio album by British rock band Jesus Jones, released in 1993 on Food Records. After their international success following the release of Doubt (1991), Jesus Jones, especially band leader Mike Edwards, conceived Perverse as a darker, more contemporary album. Fusing rave and techno music into more traditional rock and pop song structures, the album is heavier than its predecessors with a much greater inclusion of industrial music and features lyrics that concern the future. Edwards wrote the lyrics of the album during the band's 1991 tour, using a Roland W-30 sampler to conceive songs in their earliest stages.
-According to Trouser Press, Perverse "enjoys the historical distinction of being the first album recorded entirely (except for Edwards' vocals) on computer." The band recorded the entire album onto floppy disks in Edwards' house, which were then used on his computer to turn the music into "zeroes and ones". Edwards described it as "the second rock album of the nineties," after The Young Gods' T.V. Sky, due to both albums embracing full-on computer technology. Although the band were ridiculed at the time for the recording process, it later became an influential technique.
-Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the start of the band's declining fortunes, although it still yielded three top 40 singles, "The Devil You Know", which also reached number 1 on the Modern Rock Tracks Chart, "The Right Decision" and "Zeroes and Ones" still making the album quite successful. The album received both mixed and positive reviews at the time, with some critics finding the album's production clattered, but later reviews have been more favourable, and some have posed the album as the band's best work. An extensive deluxe edition of the album was released in November 2014.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/perverse/692116461" >}}<br>

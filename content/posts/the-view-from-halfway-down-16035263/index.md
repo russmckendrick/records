@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-{{< img src="the-view-from-halfway-down-16035263.jpg" title="The View From Halfway Down by Andy Bell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Comes In Waves (4:48)
 2. Indica (6:55)
 3. Ghost Tones (2:28)
@@ -30,10 +29,6 @@ styles: ["Shoegaze", "Indie Rock"]
 6. Cherry Cola (4:29)
 7. I Was Alone (6:45)
 8. Heat Haze On Weyland Road (7:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1524681497" >}}<br>

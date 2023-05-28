@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="cuckoo-10770803.jpg" title="Cuckoo by Curve" >}}
+Cuckoo is the second studio album by English alternative rock band Curve. It was released on 13 September 1993 and was issued by Anxious Records and Charisma Records. A musically more varied but significantly darker release than Curve's 1992 debut album Doppelgänger, Cuckoo was less commercially successful than the band's previous releases.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Missing Link
 2. Crystal
 3. Men Are From Mars Women Are From Venus
@@ -35,13 +37,6 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 8. Left Of Mother
 9. Sweetest Pie
 10. Cuckoo
-
-<!-- section break -->
-
-Cuckoo is the second studio album by English alternative rock band Curve. It was released on 13 September 1993 and was issued by Anxious Records and Charisma Records. A musically more varied but significantly darker release than Curve's 1992 debut album Doppelgänger, Cuckoo was less commercially successful than the band's previous releases.
-    
-    
-
 
 
 

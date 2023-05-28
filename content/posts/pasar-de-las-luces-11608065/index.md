@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Shoegaze"]
 ---
 
-{{< img src="pasar-de-las-luces-11608065.jpg" title="Pasar De Las Luces by Mint Field" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. El Parque Parecía No Tener Fin
 2. Ojos En El Carro
 3. Ciudad Satélite
@@ -39,10 +38,6 @@ styles: ["Shoegaze"]
 11. Club De Chicas
 12. Para Gali
 13. Párpados Morados
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pasar-de-las-luces/1608120869" >}}<br>

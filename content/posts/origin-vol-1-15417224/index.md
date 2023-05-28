@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="origin-vol-1-15417224.jpg" title="Origin Vol. 1 by The Soundtrack Of Our Lives" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Believe I've Found
 2. Transcendental Suicide
 3. Bigtime
@@ -38,10 +37,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 16. Sister Surround
 17. Love Song #3105
 18. A Room Without A View
-
-<!-- section break -->
-
-
 
 
 

@@ -25,10 +25,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Britpop", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="the-last-broadcast-13697174.jpg" title="The Last Broadcast by Doves" >}}
+The Last Broadcast is the second studio album by British indie rock band Doves. The album was released by Heavenly Recordings on 29 April 2002, and went straight to number 1 on the UK Albums Chart. The album's first single "There Goes the Fear" entered the UK Singles Chart at number 3, the band's highest-charting single to date, despite being released and deleted on the same day. Two further singles, "Pounding" and "Caught by the River", were also successful, charting in the Top 30. The Last Broadcast garnered critical acclaim upon its release, and was a shortlist nominee for the Mercury Prize in 2002.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Intro
 2. Words
 3. There Goes The Fear
@@ -41,15 +45,6 @@ styles: ["Britpop", "Downtempo", "Indie Rock"]
 10. Last Broadcast
 11. The Sulphur Man
 12. Caught By The River
-
-<!-- section break -->
-
-The Last Broadcast is the second studio album by British indie rock band Doves. The album was released by Heavenly Recordings on 29 April 2002, and went straight to number 1 on the UK Albums Chart. The album's first single "There Goes the Fear" entered the UK Singles Chart at number 3, the band's highest-charting single to date, despite being released and deleted on the same day. Two further singles, "Pounding" and "Caught by the River", were also successful, charting in the Top 30. The Last Broadcast garnered critical acclaim upon its release, and was a shortlist nominee for the Mercury Prize in 2002.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-broadcast/724582643" >}}<br>

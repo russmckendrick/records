@@ -27,10 +27,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="harvest-moon-11172799.jpg" title="Harvest Moon by Neil Young" >}}
+<i>Harvest Moon</i> nods without subtlety to Neil’s star-making 1972 album, <i>Harvest</i>, in both its name and laidback, countrified sound. However, this is the sound of an old(er) man taking a look at his life and fighting to keep his heart of gold from fading to rust. With the softly swaying romantic title track, Neil delivers a wedding slow-dance for the ages, but on “From Hank to Hendrix” and “You and Me,” he addresses the struggles that beset every long-term union.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Unknown Legend (4:32)
 2. From Hank To Hendrix (5:17)
 3. You And Me (3:45)
@@ -41,14 +44,6 @@ styles: ["Folk Rock", "Country Rock"]
 8. Old King (2:57)
 9. Dreamin' Man (4:36)
 10. Natural Beauty (10:24)
-
-<!-- section break -->
-
-<i>Harvest Moon</i> nods without subtlety to Neil’s star-making 1972 album, <i>Harvest</i>, in both its name and laidback, countrified sound. However, this is the sound of an old(er) man taking a look at his life and fighting to keep his heart of gold from fading to rust. With the softly swaying romantic title track, Neil delivers a wedding slow-dance for the ages, but on “From Hank to Hendrix” and “You and Me,” he addresses the struggles that beset every long-term union.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/harvest-moon/72796976" >}}<br>

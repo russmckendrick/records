@@ -28,10 +28,14 @@ genres: ["Rock"]
 styles: ["Krautrock", "Experimental", "Avantgarde"]
 ---
 
-{{< img src="tago-mago-14372959.jpg" title="Tago Mago by Can" >}}
+Tago Mago is the second studio album by the German krautrock band Can, originally released as a double LP in August 1971 on the United Artists label. It was the band's first album to feature Damo Suzuki after the 1970 departure of previous vocalist Malcolm Mooney. Recorded in a rented castle near Cologne, the album features long-form experimental tracks blending rock improvisation, funk rhythms and musique concrète techniques.Tago Mago has been described as Can's best and most extreme record in sound and structure. The album has received widespread critical acclaim and is cited as an influence by various artists. Drowned in Sound called it "arguably the most influential rock album ever recorded."
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Paperhouse (7:29)
 2. Mushroom (4:08)
 3. Oh Yeah (7:22)
@@ -39,15 +43,6 @@ styles: ["Krautrock", "Experimental", "Avantgarde"]
 5. Aumgn (17:22)
 6. Peking O. (11:35)
 7. Bring Me Coffee Or Tea (6:47)
-
-<!-- section break -->
-
-Tago Mago is the second studio album by the German krautrock band Can, originally released as a double LP in August 1971 on the United Artists label. It was the band's first album to feature Damo Suzuki after the 1970 departure of previous vocalist Malcolm Mooney. Recorded in a rented castle near Cologne, the album features long-form experimental tracks blending rock improvisation, funk rhythms and musique concrète techniques.Tago Mago has been described as Can's best and most extreme record in sound and structure. The album has received widespread critical acclaim and is cited as an influence by various artists. Drowned in Sound called it "arguably the most influential rock album ever recorded."
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tago-mago-40th-anniversary-edition/709211421" >}}<br>

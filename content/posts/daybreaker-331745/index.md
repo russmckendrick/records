@@ -22,23 +22,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
-{{< img src="daybreaker-331745.jpg" title="Daybreaker by Beth Orton" >}}
-
-<!-- section break -->
-
-1. Paris Train (5:46)
-2. Concrete Sky (4:34)
-3. Mount Washington (6:27)
-4. Anywhere (4:35)
-5. Daybreaker (3:55)
-6. Carmella (3:36)
-7. God Song (5:15)
-8. This One's Gonna Bruise (4:44)
-9. Ted's Waltz (5:41)
-10. Thinking About Tomorrow (6:40)
-
-<!-- section break -->
-
 Daybreaker is the third album by singer-songwriter Beth Orton released in 2002 on Heavenly Records and the Astralwerks Records label. The album reached #40 in US and #8 in UK. Mojo Magazine called the album "her best to date...". Q Magazine was not excited about the album: "Tortoise-pace strumming and a crippling shortage of choruses produce only torpor".  The album earned Orton a nomination at the BRIT Awards for Best British Female Singer as well as Best Album at the Q Awards.
 In an interview to Insound.com on 28 July 2002 she said about making the record:
 
@@ -50,6 +33,18 @@ As of 2003 it has sold 169,000 copies in the United States.
         
     
 
+
+## Tracklisting
+1. Paris Train (5:46)
+2. Concrete Sky (4:34)
+3. Mount Washington (6:27)
+4. Anywhere (4:35)
+5. Daybreaker (3:55)
+6. Carmella (3:36)
+7. God Song (5:15)
+8. This One's Gonna Bruise (4:44)
+9. Ted's Waltz (5:41)
+10. Thinking About Tomorrow (6:40)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}<br>

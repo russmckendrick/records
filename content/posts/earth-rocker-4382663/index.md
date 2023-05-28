@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="earth-rocker-4382663.jpg" title="Earth Rocker by Clutch" >}}
+Earth Rocker is the tenth studio album by American rock band Clutch. It was released on March 15, 2013 by Weathermaker Music. Earth Rocker is the first studio album to be released by Clutch since Strange Cousins from the West in 2009. The album was produced by Machine, who also produced the band's 2004 album Blast Tyrant.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Earth Rocker
 2. Crucial Velocity
 3. Mr. Freedom
@@ -37,13 +39,6 @@ styles: ["Hard Rock"]
 9. Cyborg Bette
 10. Oh, Isabella
 11. The Wolf Man Kindly Requests...
-
-<!-- section break -->
-
-Earth Rocker is the tenth studio album by American rock band Clutch. It was released on March 15, 2013 by Weathermaker Music. Earth Rocker is the first studio album to be released by Clutch since Strange Cousins from the West in 2009. The album was produced by Machine, who also produced the band's 2004 album Blast Tyrant.
-    
-    
-
 
 
 

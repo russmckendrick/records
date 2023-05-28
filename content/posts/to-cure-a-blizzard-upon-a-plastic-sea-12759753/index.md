@@ -39,10 +39,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="to-cure-a-blizzard-upon-a-plastic-sea-12759753.jpg" title="To Cure A Blizzard Upon A Plastic Sea by Vennart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Cure A Blizzard Upon A Plastic Sea - MF010V
 2. Binary 
 3. Donkey Kong
@@ -79,10 +78,6 @@ styles: []
 34. I'm Janick Gers
 35. CGI Metals - MF010DVD
 36. CGI Metals
-
-<!-- section break -->
-
-
 
 
 

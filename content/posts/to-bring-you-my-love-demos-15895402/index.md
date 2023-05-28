@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="to-bring-you-my-love-demos-15895402.jpg" title="To Bring You My Love - Demos by PJ Harvey" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Bring You My Love
 2. Meet Ze Monsta
 3. Working For The Man
@@ -38,10 +37,6 @@ styles: ["Alternative Rock"]
 8. I Think I'm A Mother
 9. Send His Love To Me
 10. The Dancer
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love-demos/1521894413" >}}<br>

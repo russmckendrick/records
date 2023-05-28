@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="between-10th-and-11th-isolation-21-2-91-15553282.jpg" title="Between 10th And 11th / Isolation 21.2.91 by The Charlatans" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Between 10th And 11th
 2. I Don't Want To See The Sights
 3. Ignition
@@ -46,10 +45,6 @@ styles: ["Indie Rock"]
 18. Indian Rope
 19. Opportunity
 20. Sproston Green
-
-<!-- section break -->
-
-
 
 
 

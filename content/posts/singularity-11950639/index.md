@@ -25,10 +25,13 @@ genres: ["Electronic"]
 styles: ["Tech House", "Electro", "Experimental"]
 ---
 
-{{< img src="singularity-11950639.jpg" title="Singularity by Jon Hopkins" >}}
+Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <i>Singularity</i> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Singularity
 2. Emerald Rush
 3. Neon Pattern Drum
@@ -38,14 +41,6 @@ styles: ["Tech House", "Electro", "Experimental"]
 7. Echo Dissolve
 8. Luminous Beings
 9. Recovery
-
-<!-- section break -->
-
-Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <i>Singularity</i> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singularity/1349736537" >}}<br>

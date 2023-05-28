@@ -17,10 +17,14 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 ---
 
-{{< img src="in-league-with-dragons-13531986.jpg" title="In League With Dragons by The Mountain Goats" >}}
+In League With Dragons is the seventeenth studio album by the Mountain Goats, released on April 26, 2019, on Merge Records. Inspired by tabletop role-playing games such as Dungeons & Dragons, the album has been described as a "partial rock opera" with influences from noir literature.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Done Bleeding
 2. Younger
 3. Passaic 1975
@@ -35,15 +39,6 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 12. Sicilian Crest
 13. Sentries In The Ambush
 14. Divided Sky Lane
-
-<!-- section break -->
-
-In League With Dragons is the seventeenth studio album by the Mountain Goats, released on April 26, 2019, on Merge Records. Inspired by tabletop role-playing games such as Dungeons & Dragons, the album has been described as a "partial rock opera" with influences from noir literature.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-league-with-dragons/1449160212" >}}<br>

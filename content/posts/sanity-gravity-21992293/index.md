@@ -21,10 +21,9 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Jazz-Rock"]
 ---
 
-{{< img src="sanity-gravity-21992293.jpg" title="Sanity & Gravity by Gavin Harrison" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aim
 2. On A Wave Of Positivity
 3. Dog Day
@@ -34,10 +33,6 @@ styles: ["Jazz-Rock"]
 7. Dearest Blood
 8. Big News For A Small Day
 9. Iron Horse (Bonus Track)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241" >}}<br>

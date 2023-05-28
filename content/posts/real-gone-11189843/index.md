@@ -27,10 +27,15 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
 
-{{< img src="real-gone-11189843.jpg" title="Real Gone by Tom Waits" >}}
+Real Gone is the sixteenth studio album by Tom Waits, released October 3, 2004 in Europe, and October 5 in United States on the ANTI- label. The album was supported by the Real Gone Tour, playing sold out locations in North America and Europe in October and November 2004.
+The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.
+It was chosen by the editors of Harp Magazine as the best album of 2004.
+A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Tom Waits and Kathleen Brennan.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Top Of The Hill
 2. Hoist That Rag
 3. Sins Of The Father
@@ -47,16 +52,6 @@ styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 14. Make It Rain
 15. Day After Tomorrow
 16. Untitled
-
-<!-- section break -->
-
-Real Gone is the sixteenth studio album by Tom Waits, released October 3, 2004 in Europe, and October 5 in United States on the ANTI- label. The album was supported by the Real Gone Tour, playing sold out locations in North America and Europe in October and November 2004.
-The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.
-It was chosen by the editors of Harp Magazine as the best album of 2004.
-A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Tom Waits and Kathleen Brennan.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/real-gone-remastered/1485070843" >}}<br>

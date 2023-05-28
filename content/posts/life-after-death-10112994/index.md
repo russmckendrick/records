@@ -26,10 +26,14 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-{{< img src="life-after-death-10112994.jpg" title="Life After Death by Notorious B.I.G." >}}
+Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released sixteen days after his murder. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C., R. Kelly, The Lox, and Puff Daddy. Life After Death exhibits The Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, Ready to Die, and picks up where the last song, "Suicidal Thoughts", ends.
+Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 spot on the Billboard 200. It received widespread critical acclaim upon release and was nominated for Best Rap Album, Best Rap Solo Performance for its first single "Hypnotize", and Best Rap Performance by a Duo or Group for its second single "Mo Money Mo Problems" at the 40th Annual Grammy Awards. The album is widely considered to be one of the greatest hip hop albums of all time. In 2020, it was ranked at No. 179 on Rolling Stone magazine's list of the 500 Greatest Albums of All Time.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Life After Death Intro
 2. Somebody's Gotta Die
 3. Hypnotize
@@ -54,15 +58,6 @@ styles: ["Gangsta"]
 22. My Downfall
 23. Long Kiss Goodnight
 24. You're Nobody (Til Somebody Kills You)
-
-<!-- section break -->
-
-Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released sixteen days after his murder. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C., R. Kelly, The Lox, and Puff Daddy. Life After Death exhibits The Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, Ready to Die, and picks up where the last song, "Suicidal Thoughts", ends.
-Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 spot on the Billboard 200. It received widespread critical acclaim upon release and was nominated for Best Rap Album, Best Rap Solo Performance for its first single "Hypnotize", and Best Rap Performance by a Duo or Group for its second single "Mo Money Mo Problems" at the 40th Annual Grammy Awards. The album is widely considered to be one of the greatest hip hop albums of all time. In 2020, it was ranked at No. 179 on Rolling Stone magazine's list of the 500 Greatest Albums of All Time.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life-after-death-2014-remaster/906888433" >}}<br>

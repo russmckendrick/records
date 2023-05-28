@@ -23,10 +23,9 @@ genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="northern-soul-all-nighter-8445210.jpg" title="Northern Soul All Nighter by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Snake (3:30)
 2. Sugar Dumpling (2:18)
 3. Disillusioned (2:01)
@@ -63,10 +62,6 @@ styles: ["Soul", "Rhythm & Blues"]
 34. Chills & Fever (2:29)
 35. If You Don't Come (You Better Call) (2:01)
 36. Show And Tell (3:27)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

@@ -19,10 +19,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="the-drifters-golden-hits-1250865.jpg" title="The Drifters' Golden Hits by The Drifters" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. There Goes My Baby (2:11)
 2. (If You Cry) True Love, True Love (2:17)
 3. Dance With Me (2:21)
@@ -35,10 +34,6 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Under The Boardwalk (2:40)
 11. I've Got Sand In My Shoes (2:48)
 12. Saturday Night At The Movies (2:26)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254" >}}<br>

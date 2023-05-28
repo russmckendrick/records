@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="let-me-come-over-25th-anniversary-edition-10315982.jpg" title="Let Me Come Over (25th Anniversary Edition) by Buffalo Tom" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Let Me Come Over
 2. Staples
 3. Taillights Fade
@@ -50,10 +49,6 @@ styles: ["Alternative Rock"]
 22. Sally Brown
 23. Enemy
 24. Birdbrain
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046" >}}<br>

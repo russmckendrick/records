@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="trompe-le-monde-20199340.jpg" title="Trompe Le Monde by Pixies" >}}
+Trompe le Monde is the fourth studio album by the American alternative rock band Pixies, released on September 23, 1991 on 4AD in the United Kingdom and on September 24, 1991, on  Elektra Records in the United States. Recorded in Burbank, California, Paris and London, the album was produced by Gil Norton, and was Pixies' final studio album before their subsequent break-up two years later. Trompe le Monde is the last album to feature founding bass guitarist Kim Deal.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Trompe Le Monde
 2. Planet Of Sound
 3. Alec Eiffel
@@ -41,13 +43,6 @@ styles: ["Alternative Rock"]
 13. Lovely Day
 14. Motorway To Roswell
 15. The Navajo Know
-
-<!-- section break -->
-
-Trompe le Monde is the fourth studio album by the American alternative rock band Pixies, released on September 23, 1991 on 4AD in the United Kingdom and on September 24, 1991, on  Elektra Records in the United States. Recorded in Burbank, California, Paris and London, the album was produced by Gil Norton, and was Pixies' final studio album before their subsequent break-up two years later. Trompe le Monde is the last album to feature founding bass guitarist Kim Deal.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trompe-le-monde/1457604293" >}}<br>

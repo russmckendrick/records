@@ -24,10 +24,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-visitor-11381706.jpg" title="The Visitor by Neil Young" >}}
+Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA,” he sings on “Already Great,” likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal." But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good,” leading the band in a chant: “He lies/You lie/Lock him up!”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Already Great (5:48)
 2. Fly By Night Deal (2:37)
 3. Almost Always (4:51)
@@ -38,14 +41,6 @@ styles: []
 8. Children Of Destiny (3:25)
 9. When Bad Got Good (1:58)
 10. Forever (10:31)
-
-<!-- section break -->
-
-Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA,” he sings on “Already Great,” likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal." But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good,” leading the band in a chant: “He lies/You lie/Lock him up!”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-visitor/1299337620" >}}<br>

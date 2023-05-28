@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Electro", "Indie Rock"]
 ---
 
-{{< img src="hurry-up-we-re-dreaming-22814186.jpg" title="Hurry Up, We're Dreaming. by M83" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro
 2. Midnight City
 3. Reunion
@@ -54,10 +53,6 @@ styles: ["Shoegaze", "Electro", "Indie Rock"]
 20. Echoes Of Mine
 21. Klaus I Love You
 22. Outro
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hurry-up-were-dreaming/1674216738" >}}<br>

@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
 
-{{< img src="dead-cross-10642664.jpg" title="Dead Cross by Dead Cross" >}}
+Dead Cross is an American crossover thrash supergroup formed in Southern California. The band consists of guitarist Michael Crain (Retox), bassist Justin Pearson (the Locust, Head Wound City and Retox), drummer Dave Lombardo (Slayer, Mr. Bungle and Fantômas) and vocalist Mike Patton (Faith No More, Mr. Bungle and Fantômas).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Seizure And Desist
 2. Idiopathic
 3. Obedience School
@@ -39,13 +41,6 @@ styles: ["Hardcore", "Heavy Metal"]
 8. The Future Has Been Cancelled
 9. Gag Reflex
 10. Church Of The Motherfuckers
-
-<!-- section break -->
-
-Dead Cross is an American crossover thrash supergroup formed in Southern California. The band consists of guitarist Michael Crain (Retox), bassist Justin Pearson (the Locust, Head Wound City and Retox), drummer Dave Lombardo (Slayer, Mr. Bungle and Fantômas) and vocalist Mike Patton (Faith No More, Mr. Bungle and Fantômas).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-cross/1228978283" >}}<br>

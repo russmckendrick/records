@@ -19,10 +19,9 @@ genres: ["Pop"]
 styles: ["Vocal"]
 ---
 
-{{< img src="the-best-of-the-ink-spots-20-classic-tracks-1771691.jpg" title="The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. If I Didn't Care
 2. Bless You For Being An Angel
 3. When The Swallows Come Back To Capistrano
@@ -43,10 +42,6 @@ styles: ["Vocal"]
 18. I'll Never Smile Again
 19. It's A Sin To Tell A Lie
 20. Someone's Rocking My Dreamboat
-
-<!-- section break -->
-
-
 
 
 

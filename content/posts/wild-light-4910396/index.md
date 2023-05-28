@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Math Rock", "Shoegaze"]
 ---
 
-{{< img src="wild-light-4910396.jpg" title="Wild Light by 65daysofstatic" >}}
+Wild Light is the fifth studio album by 65daysofstatic, released on 16 September 2013 in the UK and Europe and on 29 October 2013 in the United States. It is the band's first album released on the Superball Music label.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heat Death Infinity Splitter 
 2. Prisms
 3. The Undertow 
@@ -41,13 +43,6 @@ styles: ["Post Rock", "Math Rock", "Shoegaze"]
 14. Taipei
 15. Unmake The Wild Light
 16. Safe Passage
-
-<!-- section break -->
-
-Wild Light is the fifth studio album by 65daysofstatic, released on 16 September 2013 in the UK and Europe and on 29 October 2013 in the United States. It is the band's first album released on the Superball Music label.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wild-light/1045712161" >}}<br>

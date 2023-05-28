@@ -26,10 +26,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ---
 
-{{< img src="the-best-of-roxy-music-24389216.jpg" title="The Best Of Roxy Music by Roxy Music" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Avalon (4:16)
 2. More Than This (4:17)
 3. Jealous Guy (4:56)
@@ -48,10 +47,6 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 16. Pyjamarama (2:51)
 17. Virginia Plain (2:56)
 18. Re-Make / Re-Model (4:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-roxy-music/724413368" >}}<br>

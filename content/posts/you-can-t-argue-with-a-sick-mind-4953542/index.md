@@ -16,20 +16,15 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="you-can-t-argue-with-a-sick-mind-4953542.jpg" title="You Can't Argue With A Sick Mind by Joe Walsh" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Walk Away (3:15)
 2. Meadows (7:05)
 3. Rocky Mountain Way (7:45)
 4. Time Out (4:20)
 5. Help Me Through The Night (3:42)
 6. Turn To Stone (8:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082" >}}<br>

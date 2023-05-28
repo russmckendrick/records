@@ -22,10 +22,14 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
-{{< img src="the-seeds-of-love-16026538.jpg" title="The Seeds Of Love by Tears For Fears" >}}
+The Seeds of Love is the third studio album by British pop rock band Tears for Fears, released on 25 September 1989 by Fontana Records. It retained the band's epic sound while incorporating influences ranging from jazz and soul to Beatlesque pop. Its lengthy production and scrapped recording sessions cost over £1 million. The album spanned the title hit single "Sowing the Seeds of Love," as well as "Woman in Chains," and "Advice for the Young at Heart", both of which reached the top 40 in several countries.
+The Seeds of Love was an international success, entering the UK Albums Chart at number one, and top ten in other countries including the U.S. It has been certified Gold or Platinum in several territories including the United Kingdom, the United States, France, Germany, Canada, and the Netherlands. Despite its success, personal tensions during recording led to band members Curt Smith and Roland Orzabal splitting up at the conclusion of their 1990 world tour, with Orzabal remaining as the band's sole official member until the two reunited in the early 2000s.
+In October 2020, the remastered reissue of The Seeds of Love was released in several formats including a super deluxe edition, with B-sides, remixes, and a 5.1 surround sound mix.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Woman In Chains (6:31)
 2. Badman's Song (8:32)
 3. Sowing The Seeds Of Love (6:19)
@@ -34,15 +38,6 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 6. Swords And Knives (6:12)
 7. Year Of The Knife (7:08)
 8. Famous Last Words (4:26)
-
-<!-- section break -->
-
-The Seeds of Love is the third studio album by British pop rock band Tears for Fears, released on 25 September 1989 by Fontana Records. It retained the band's epic sound while incorporating influences ranging from jazz and soul to Beatlesque pop. Its lengthy production and scrapped recording sessions cost over £1 million. The album spanned the title hit single "Sowing the Seeds of Love," as well as "Woman in Chains," and "Advice for the Young at Heart", both of which reached the top 40 in several countries.
-The Seeds of Love was an international success, entering the UK Albums Chart at number one, and top ten in other countries including the U.S. It has been certified Gold or Platinum in several territories including the United Kingdom, the United States, France, Germany, Canada, and the Netherlands. Despite its success, personal tensions during recording led to band members Curt Smith and Roland Orzabal splitting up at the conclusion of their 1990 world tour, with Orzabal remaining as the band's sole official member until the two reunited in the early 2000s.
-In October 2020, the remastered reissue of The Seeds of Love was released in several formats including a super deluxe edition, with B-sides, remixes, and a 5.1 surround sound mix.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-seeds-of-love/1447096341" >}}<br>

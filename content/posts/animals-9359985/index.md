@@ -28,18 +28,6 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="animals-9359985.jpg" title="Animals by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. Pigs On The Wing (Part One)
-2. Dogs
-3. Pigs (Three Different Ones)
-4. Sheep
-5. Pigs On The Wing (Part Two)
-
-<!-- section break -->
-
 Animals is the tenth studio album by the English rock band Pink Floyd, released on 21 January 1977 through Harvest Records and Columbia Records. It was self-produced at Pink Floyd's Britannia Row Studios in London throughout 1976. The album continued the longform compositions that made up their previous works, including Wish You Were Here (1975).
 Animals is both a progressive rock album and a concept album, focusing on the social-political conditions of mid-1970s Britain, and was a change from the style of Pink Floyd's work. Tension within the band during production culminated in keyboardist Richard Wright being fired two years later. The album's cover, conceived by the band's bassist and lead songwriter Roger Waters and designed by long-time collaborator Storm Thorgerson, shows an inflatable pig floating between two chimneys of Battersea Power Station.
 Pink Floyd released no singles from Animals but promoted it through the In the Flesh tour. Waters' agitation with audiences during this tour inspired their next album, The Wall (1979). Animals reached number 2 in the UK and number 3 in the US. It initially received mixed reviews, but gained more favourable reviews in later years, and is considered one of the band's best works.
@@ -47,6 +35,13 @@ Pink Floyd released no singles from Animals but promoted it through the In the F
         
     
 
+
+## Tracklisting
+1. Pigs On The Wing (Part One)
+2. Dogs
+3. Pigs (Three Different Ones)
+4. Sheep
+5. Pigs On The Wing (Part Two)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animals/699610635" >}}<br>

@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="glow-25308085.jpg" title="Glow by Reef" >}}
+Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Place Your Hands
 2. I Would Have Left You
 3. Summer's In Bloom
@@ -34,13 +36,6 @@ styles: ["Alternative Rock"]
 10. Robot Riff
 11. Yer Old
 12. Lullaby
-
-<!-- section break -->
-
-Glow is the second studio album by English rock band Reef. Produced by the band and George Drakoulias, the album was released on 27 January 1997 through Sony Soho Square and supported by the singles "Place Your Hands", "Come Back Brighter", "Consideration" and "Yer Old". Glow reached number one on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glow/424193244" >}}<br>

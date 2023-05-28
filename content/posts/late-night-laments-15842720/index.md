@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Ambient"]
 ---
 
-{{< img src="late-night-laments-15842720.jpg" title="Late Night Laments by Tim Bowness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Late Night Laments
 2. Northern Rain (4:47)
 3. I'm Better Now (3:50)
@@ -42,10 +41,6 @@ styles: ["Ambient"]
 18. The Last Getaway (4:55)
 19. Hidden Life (5:05)
 20. One Last Call (4:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}<br>

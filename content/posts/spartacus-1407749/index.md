@@ -23,10 +23,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Acid House", "Indie Rock", "House"]
 ---
 
-{{< img src="spartacus-1407749.jpg" title="Spartacus by The Farm" >}}
+Spartacus is the debut studio album by British rock band the Farm, released on 4 March 1991 through Produce Records. Following a variety of member changes and single releases, the band solidified their line-up in 1987; after a record deal fell through, they opted to start their own label, Produce Records. They recorded the bulk of their debut album in London in 1990 with former Madness frontman Graham "Suggs" McPherson as producer, while one track from 1987 was produced by the Housemartins members Paul Heaton and Stan Cullimore. Spartacus  is a baggy and dance-rock album that takes influence from the work of Buzzcocks, the Clash and the Jam.
+Spartacus received generally positive reviews from music critics, though some of them were split on the album's songwriting quality, while others praised it in the context of the baggy scene. The album topped the charts in the United Kingdom. "Groovy Train" was released as its lead single in August 1990, followed by the second single "All Together Now" in November 1990. "Don't Let Me Down" appeared in April 1991, and was promoted with a supporting slot for Happy Mondays in June 1991 at the Elland Road football stadium in Leeds. They then toured the United States with Big Audio Dynamite and Downtown Science. NME and Vox included the album on their lists of the year's best 50 releases.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Spartacus
 2. Hearts & Minds (4:24)
 3. How Long (3:35)
@@ -45,14 +48,6 @@ styles: ["Acid House", "Indie Rock", "House"]
 16. Hearts & Minds (Terry Farley Mix)
 17. Very Emotional (Terry Farley Mix)
 18. Groovy Train (Terry Farley Mix)
-
-<!-- section break -->
-
-Spartacus is the debut studio album by British rock band the Farm, released on 4 March 1991 through Produce Records. Following a variety of member changes and single releases, the band solidified their line-up in 1987; after a record deal fell through, they opted to start their own label, Produce Records. They recorded the bulk of their debut album in London in 1990 with former Madness frontman Graham "Suggs" McPherson as producer, while one track from 1987 was produced by the Housemartins members Paul Heaton and Stan Cullimore. Spartacus  is a baggy and dance-rock album that takes influence from the work of Buzzcocks, the Clash and the Jam.
-Spartacus received generally positive reviews from music critics, though some of them were split on the album's songwriting quality, while others praised it in the context of the baggy scene. The album topped the charts in the United Kingdom. "Groovy Train" was released as its lead single in August 1990, followed by the second single "All Together Now" in November 1990. "Don't Let Me Down" appeared in April 1991, and was promoted with a supporting slot for Happy Mondays in June 1991 at the Elland Road football stadium in Leeds. They then toured the United States with Big Audio Dynamite and Downtown Science. NME and Vox included the album on their lists of the year's best 50 releases.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spartacus/1187293695" >}}<br>

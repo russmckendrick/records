@@ -22,10 +22,9 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="anarchist-gospel-25939921.jpg" title="Anarchist Gospel by Sunny War" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love's Death Bed
 2. No Reason
 3. Shelter And Storm
@@ -40,10 +39,6 @@ styles: []
 12. Higher
 13. Test Dummy
 14. Sweet Nothing
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anarchist-gospel/1645020451" >}}<br>

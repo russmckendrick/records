@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---
 
-{{< img src="surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739.jpg" title="Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything by Mental As Anything" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Nips Are Getting Bigger
 2. Egypt
 3. (Just Like) Romeo And Juliet
@@ -46,10 +45,6 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 24. Mr. Natural
 25. Nigel
 26. Surf & Mull & Sex & Fun
-
-<!-- section break -->
-
-
 
 
 

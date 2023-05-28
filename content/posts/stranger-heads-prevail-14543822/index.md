@@ -19,10 +19,12 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="stranger-heads-prevail-14543822.jpg" title="Stranger Heads Prevail by Thank You Scientist" >}}
+Stranger Heads Prevail is the second album by progressive rock band Thank You Scientist. It was released on July 29, 2016. It is the first album to feature Cody McCorry on bass and theremin and the final album to feature Odin Alvarez, Andrew Digrius, and Ellis Jasenovic on drums, trumpet, and saxophone, respectively, prior to their departure in 2017.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue: A Faint Applause
 2. The Somnambulist
 3. Caverns
@@ -34,13 +36,6 @@ styles: ["Prog Rock"]
 9. Psychopomp
 10. The Amateur Arsonist’s Handbook
 11. Epilogue: …And the Clever Depart
-
-<!-- section break -->
-
-Stranger Heads Prevail is the second album by progressive rock band Thank You Scientist. It was released on July 29, 2016. It is the first album to feature Cody McCorry on bass and theremin and the final album to feature Odin Alvarez, Andrew Digrius, and Ellis Jasenovic on drums, trumpet, and saxophone, respectively, prior to their departure in 2017.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-heads-prevail/1617477129" >}}<br>

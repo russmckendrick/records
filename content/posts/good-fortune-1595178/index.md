@@ -16,10 +16,9 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Experimental"]
 ---
 
-{{< img src="good-fortune-1595178.jpg" title="Good Fortune by Airborn Audio" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Monday Through Sunday (4:24)
 2. Brights Lights (2:39)
 3. Miami / The Jungle (2:08)
@@ -35,10 +34,6 @@ styles: ["Abstract", "Experimental"]
 13. Close Your Eyes (2:05)
 14. NYC (3:37)
 15. Trust Me (0:28)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-fortune/416266336" >}}<br>

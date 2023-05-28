@@ -20,10 +20,16 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Blues Rock"]
 ---
 
-{{< img src="highway-61-revisited-7764708.jpg" title="Highway 61 Revisited by Bob Dylan" >}}
+Highway 61 Revisited is the sixth studio album by American singer-songwriter Bob Dylan, released on August 30, 1965, by Columbia Records. Having until then recorded mostly acoustic music, Dylan used rock musicians as his backing band on every track of the album, except for the closing track, the 11-minute ballad "Desolation Row". Critics have focused on the innovative way Dylan combined driving, blues-based music with the subtlety of poetry to create songs that captured the political and cultural chaos of contemporary America. Author Michael Gray has argued that, in an important sense, the 1960s "started" with this album.Leading with the hit song "Like a Rolling Stone", the album features songs that Dylan has continued to perform live over his long career, including "Ballad of a Thin Man" and the title track. He named the album after the major American highway which connected his birthplace of Duluth, Minnesota, to southern cities famed for their musical heritage, including St. Louis, Memphis, New Orleans, and the Delta blues area of Mississippi.
+Highway 61 Revisited peaked at No. 3 on the US Billboard 200 and No. 4 on the UK Albums Chart. Positively received on release, the album has since been described as one of Dylan's best works and among the greatest albums of all time, ranking No. 18 on Rolling Stone's "500 Greatest Albums of All Time". It was voted No. 26 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000) and was featured in Robert Dimery's 1001 Albums You Must Hear Before You Die (2010). "Like a Rolling Stone" was a top-10 hit in several countries, and was listed at No. 4 on Rolling Stone's 500 Greatest Songs of All Time list in 2021. Two other songs, "Desolation Row" and "Highway 61 Revisited", were listed at No. 187 and No. 373 respectively on the 2010 list.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Like A Rolling Stone (5:59)
 2. Tombstone Blues (5:53)
 3. It Takes A Lot To Laugh, It Takes A Train To Cry (3:25)
@@ -33,17 +39,6 @@ styles: ["Folk Rock", "Blues Rock"]
 7. Highway 61 Revisited (3:15)
 8. Just Like Tom Thumb's Blues (5:08)
 9. Desolation Row (11:18)
-
-<!-- section break -->
-
-Highway 61 Revisited is the sixth studio album by American singer-songwriter Bob Dylan, released on August 30, 1965, by Columbia Records. Having until then recorded mostly acoustic music, Dylan used rock musicians as his backing band on every track of the album, except for the closing track, the 11-minute ballad "Desolation Row". Critics have focused on the innovative way Dylan combined driving, blues-based music with the subtlety of poetry to create songs that captured the political and cultural chaos of contemporary America. Author Michael Gray has argued that, in an important sense, the 1960s "started" with this album.Leading with the hit song "Like a Rolling Stone", the album features songs that Dylan has continued to perform live over his long career, including "Ballad of a Thin Man" and the title track. He named the album after the major American highway which connected his birthplace of Duluth, Minnesota, to southern cities famed for their musical heritage, including St. Louis, Memphis, New Orleans, and the Delta blues area of Mississippi.
-Highway 61 Revisited peaked at No. 3 on the US Billboard 200 and No. 4 on the UK Albums Chart. Positively received on release, the album has since been described as one of Dylan's best works and among the greatest albums of all time, ranking No. 18 on Rolling Stone's "500 Greatest Albums of All Time". It was voted No. 26 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000) and was featured in Robert Dimery's 1001 Albums You Must Hear Before You Die (2010). "Like a Rolling Stone" was a top-10 hit in several countries, and was listed at No. 4 on Rolling Stone's 500 Greatest Songs of All Time list in 2021. Two other songs, "Desolation Row" and "Highway 61 Revisited", were listed at No. 187 and No. 373 respectively on the 2010 list.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/highway-61-revisited/201281514" >}}<br>

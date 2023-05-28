@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-{{< img src="peter-green-s-fleetwood-mac-3107317.jpg" title="Peter Green's Fleetwood Mac by Fleetwood Mac" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Heart Beat Like A Hammer (2:57)
 2. Merry Go Round (4:07)
 3. Long Grey Mare (2:14)
@@ -35,10 +34,6 @@ styles: ["Blues Rock", "Pop Rock"]
 10. Cold Black Night (3:16)
 11. The World Keep On Turning (2:28)
 12. Got To Move (3:19)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-peter-greens-fleetwood-mac/459432385" >}}<br>

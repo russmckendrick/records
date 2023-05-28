@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-{{< img src="no-more-tears-20262616.jpg" title="No More Tears by Ozzy Osbourne" >}}
+"No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album of the same name. With a running time of 7:23, it is the longest solo song that Osbourne has ever recorded on a studio album. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mr. Tinkertrain (5:56)
 2. I Don't Want To Change The World (4:05)
 3. Mama, I'm Coming Home (4:11)
@@ -41,13 +43,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 9. Zombie Stomp (6:13)
 10. A.V.H. (4:12)
 11. Road To Nowhere (5:09)
-
-<!-- section break -->
-
-"No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album of the same name. With a running time of 7:23, it is the longest solo song that Osbourne has ever recorded on a studio album. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-more-tears-30th-anniversary-expanded-edition/1585398360" >}}<br>

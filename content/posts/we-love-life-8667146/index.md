@@ -21,10 +21,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="we-love-life-8667146.jpg" title="We Love Life by Pulp" >}}
+We Love Life is the seventh and final studio album by English rock band Pulp, released on 22 October 2001 by Island Records. It reached number six on the UK Albums Chart, with a total chart stay of only three weeks. Written and recorded after the tumultuous sessions for This Is Hardcore, We Love Life saw the band move toward a more relaxed and natural sound, shepherded by producer Scott Walker. Walker had replaced original producer Chris Thomas, whom the band had worked with on previous albums.
+We Love Life saw positive critical reception and charted at number 6 on the UK album charts.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Weeds
 2. Weeds II (The Origin Of The Species)
 3. The Night That Minnie Timperley Died
@@ -36,16 +41,6 @@ styles: ["Indie Rock"]
 9. Bad Cover Version
 10. Roadkill
 11. Sunrise
-
-<!-- section break -->
-
-We Love Life is the seventh and final studio album by English rock band Pulp, released on 22 October 2001 by Island Records. It reached number six on the UK Albums Chart, with a total chart stay of only three weeks. Written and recorded after the tumultuous sessions for This Is Hardcore, We Love Life saw the band move toward a more relaxed and natural sound, shepherded by producer Scott Walker. Walker had replaced original producer Chris Thomas, whom the band had worked with on previous albums.
-We Love Life saw positive critical reception and charted at number 6 on the UK album charts.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-love-life/1443378546" >}}<br>

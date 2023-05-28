@@ -21,16 +21,11 @@ genres: ["Electronic"]
 styles: ["Minimal", "Ambient"]
 ---
 
-{{< img src="a-rainbow-in-curved-air-130654.jpg" title="A Rainbow In Curved Air by Terry Riley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Rainbow In Curved Air (18:40)
 2. Poppy Nogood And The Phantom Band (21:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air-poppy-nogood-and/259224014" >}}<br>

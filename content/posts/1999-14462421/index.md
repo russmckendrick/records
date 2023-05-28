@@ -32,10 +32,16 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-{{< img src="1999-14462421.jpg" title="1999 by Prince" >}}
+1999 is the fifth studio album by American recording artist Prince, released on October 27, 1982, by Warner Bros. Records. It became his first album to be recorded with his band the Revolution. 1999's critical and commercial success propelled Prince to a place in the public psyche and marked the beginning of two years of heightened fame via his following releases.1999 was Prince's first top 10 album on the  Billboard 200, peaking at number nine, and was fifth in the  Billboard Year-End Albums of 1983. "1999", a protest against nuclear proliferation, was a Billboard Hot 100 top 20 hit, peaking at number 12. It has since become one of Prince's most recognizable compositions. "Delirious" reached number eight on the Billboard Hot 100, while "Little Red Corvette" peaked at number six, becoming Prince's highest charting US single at the time. "International Lover" was also nominated for Best Male R&B Vocal Performance at the 26th Grammy Awards, which was Prince's first Grammy Award nomination.
+1999 received widespread acclaim from critics, and was seen as Prince's breakthrough album. On March 24, 1999, 1999 was certified quadruple platinum by the Recording Industry Association of America (RIAA). Following Prince's death in 2016, the album re-entered the Billboard 200 and peaked at number seven, besting its original performance on the chart thirty-three years earlier. A re-release and remaster of the album, including 35 previously unreleased recordings, was released in November 2019.1999 has been ranked as one of the greatest albums of all time by several publications and organizations. The music videos for both "1999" and "Little Red Corvette" received heavy rotation on MTV, making Prince one of the first black artists to be prominently featured on the television channel. According to the Rolling Stone Album Guide (2004), "1999 may be Prince's most influential album: Its synth-and-drum machine-heavy arrangements codified the Minneapolis sound that loomed over mid-'80s R&B and pop, not to mention the next two decades' worth of electro, house, and techno."  It is also included on Rolling Stone's 500 Greatest Albums of All Time.  In 2008, the album was inducted into the Grammy Hall of Fame.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. 1999 (6:14)
 2. Little Red Corvette (5:04)
 3. Delirious (4:00)
@@ -47,17 +53,6 @@ styles: ["Minneapolis Sound", "Funk"]
 9. Lady Cab Driver (8:17)
 10. All The Critics Love U In New York (5:58)
 11. International Lover (6:38)
-
-<!-- section break -->
-
-1999 is the fifth studio album by American recording artist Prince, released on October 27, 1982, by Warner Bros. Records. It became his first album to be recorded with his band the Revolution. 1999's critical and commercial success propelled Prince to a place in the public psyche and marked the beginning of two years of heightened fame via his following releases.1999 was Prince's first top 10 album on the  Billboard 200, peaking at number nine, and was fifth in the  Billboard Year-End Albums of 1983. "1999", a protest against nuclear proliferation, was a Billboard Hot 100 top 20 hit, peaking at number 12. It has since become one of Prince's most recognizable compositions. "Delirious" reached number eight on the Billboard Hot 100, while "Little Red Corvette" peaked at number six, becoming Prince's highest charting US single at the time. "International Lover" was also nominated for Best Male R&B Vocal Performance at the 26th Grammy Awards, which was Prince's first Grammy Award nomination.
-1999 received widespread acclaim from critics, and was seen as Prince's breakthrough album. On March 24, 1999, 1999 was certified quadruple platinum by the Recording Industry Association of America (RIAA). Following Prince's death in 2016, the album re-entered the Billboard 200 and peaked at number seven, besting its original performance on the chart thirty-three years earlier. A re-release and remaster of the album, including 35 previously unreleased recordings, was released in November 2019.1999 has been ranked as one of the greatest albums of all time by several publications and organizations. The music videos for both "1999" and "Little Red Corvette" received heavy rotation on MTV, making Prince one of the first black artists to be prominently featured on the television channel. According to the Rolling Stone Album Guide (2004), "1999 may be Prince's most influential album: Its synth-and-drum machine-heavy arrangements codified the Minneapolis sound that loomed over mid-'80s R&B and pop, not to mention the next two decades' worth of electro, house, and techno."  It is also included on Rolling Stone's 500 Greatest Albums of All Time.  In 2008, the album was inducted into the Grammy Hall of Fame.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1999/214145240" >}}<br>

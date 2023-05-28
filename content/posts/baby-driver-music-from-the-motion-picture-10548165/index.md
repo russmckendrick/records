@@ -29,10 +29,9 @@ genres: ["Rock", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="baby-driver-music-from-the-motion-picture-10548165.jpg" title="Baby Driver (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bellbottoms (5:18)
 2. Harlem Shuffle (2:48)
 3. Egyptian Reggae (2:37)
@@ -62,10 +61,6 @@ styles: ["Soundtrack"]
 27. Easy (4:27)
 28. Baby Driver (3:16)
 29. "Was He Slow?" (1:46)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

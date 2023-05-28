@@ -30,10 +30,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Electro"]
 ---
 
-{{< img src="yell40-years-18512575.jpg" title="Yell40 Years by Yello" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bimbo  (3:35)
 2. Bostich (N’est-ce Pas?)  (4:33)
 3. Vicious Games  (4:18)
@@ -55,10 +54,6 @@ styles: ["Electro"]
 19. Liquid Lies (3:37)
 20. Meet My Angel (3:43)
 21. Way Down (3:19)
-
-<!-- section break -->
-
-
 
 
 

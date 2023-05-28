@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
 
-{{< img src="dance-on-the-blacktop-12436581.jpg" title="Dance On The Blacktop by Nothing" >}}
+Dance on the Blacktop is the third studio album by American shoegaze band Nothing. It is the last album to feature bassist Nick Bassett (also the guitarist of Whirr) and founding member, vocalist and guitarist Brandon Setta before both departed the band between 2018 and 2019, respectively. The album was released on August 24, 2018 by Relapse Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Zero Day (3:57)
 2. Blue Line Baby (4:30)
 3. You Wind Me Up (3:59)
@@ -30,13 +32,6 @@ styles: ["Shoegaze", "Alternative Rock"]
 7. I Hate The Flowers (4:21)
 8. The Carpenter's Son (7:45)
 9. (Hope) Is Just Another Word With A Hole In It (5:48)
-
-<!-- section break -->
-
-Dance on the Blacktop is the third studio album by American shoegaze band Nothing. It is the last album to feature bassist Nick Bassett (also the guitarist of Whirr) and founding member, vocalist and guitarist Brandon Setta before both departed the band between 2018 and 2019, respectively. The album was released on August 24, 2018 by Relapse Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dance-on-the-blacktop/1375809650" >}}<br>

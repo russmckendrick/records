@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock"]
 ---
 
-{{< img src="bambu-the-caribou-sessions-10171845.jpg" title="Bambu (The Caribou Sessions) by Dennis Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Under The Moonlight
 2. It's Not Too Late
 3. School Girl
@@ -49,10 +48,6 @@ styles: ["Pop Rock", "Soft Rock"]
 14. Album Tag Song
 15. All Alone
 16. Piano Variations On Thoughts Of You
-
-<!-- section break -->
-
-
 
 
 

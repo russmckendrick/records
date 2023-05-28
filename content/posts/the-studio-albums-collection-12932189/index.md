@@ -56,10 +56,9 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
 
-{{< img src="the-studio-albums-collection-12932189.jpg" title="The Studio Albums Collection by Creedence Clearwater Revival" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Creedence Clearwater Revival
 2. I Put A Spell On You (4:25)
 3. The Working Man (3:02)
@@ -132,10 +131,6 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 70. Hello Mary Lou (2:11)
 71. Door To Door (2:03)
 72. Sweet Hitch-Hiker (2:59)
-
-<!-- section break -->
-
-
 
 
 

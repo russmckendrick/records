@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="a-fine-day-to-exit-6907241.jpg" title="A Fine Day To Exit  by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Fine Day (3:36)
 2. Release (5:40)
 3. Leave No Trace (4:46)
@@ -43,10 +42,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 19. A Fine Day To Exit (6:49)
 20. Temporary Peace (12:15)
 21. In The Dog's House (3:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-fine-day-to-exit-remastered/970425242" >}}<br>

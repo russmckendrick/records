@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="is-this-it-3146367.jpg" title="Is This It by The Strokes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Is This It (2:35)
 2. The Modern Age (3:32)
 3. Soma (2:37)
@@ -31,10 +30,6 @@ styles: ["Indie Rock"]
 9. New York City Cops (3:36)
 10. Trying Your Luck (3:27)
 11. Take It Or Leave It (3:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-it/269080434" >}}<br>

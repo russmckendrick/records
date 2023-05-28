@@ -29,10 +29,15 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="sublime-8687804.jpg" title="Sublime by Sublime" >}}
+Sublime is the third and final studio album by American ska punk band Sublime. Produced by Paul Leary and David Kahne, the album was released on July 30, 1996, in the United States by MCA Records. Sublime formed in 1988 in Long Beach, California by vocalist/guitarist Bradley Nowell, bassist Eric Wilson, and drummer Bud Gaugh. The trio toured heavily from their inception while developing their sound. Their first studio release—40 Oz. to Freedom (1992)—featured the single "Date Rape", which attracted heavy airplay in Southern California. MCA signed the band and distributed their second independent album, Robbin' the Hood, in 1994.
+By the time it came to record their major label debut, Nowell had been struggling with a heroin addiction. Sublime was recorded over a period of three months in Austin, Texas, in sessions characterized by heavy drug use and raucous partying. The album's musical style contains elements of punk rock, reggae, and ska, as well as dancehall, hip hop, and dub music, with tempos ranging wildly. Nowell's lyrical subject matter relates to relationships, prostitution, riots, and addiction. Nowell had been ejected from the recording near its completion. Nowell died due to a heroin overdose in May 1996, just two months prior to the band's major album release, which led to the band's dissolution.
+Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wrong Way", the record proved to be enormously successful, despite the band being defunct and thus not able to promote the album through touring. It sold over five million copies in the United States by the end of the decade, and it continues to be a popular catalog album. The album was released during the third wave ska peak, and etched Sublime into a permanent place among the stars of the 1990s. Critical reviews were positive, praising Nowell's songwriting ability and the album's musical variety. Sublime has since been listed as one of the most well-regarded albums of the 1990s by Spin and Rolling Stone.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Garden Grove (4:21)
 2. What I Got (2:51)
 3. Wrong Way (2:16)
@@ -50,16 +55,6 @@ styles: ["Punk", "Ska"]
 15. Caress Me Down (3:32)
 16. What I Got (Reprise) (3:02)
 17. Doin' Time (4:14)
-
-<!-- section break -->
-
-Sublime is the third and final studio album by American ska punk band Sublime. Produced by Paul Leary and David Kahne, the album was released on July 30, 1996, in the United States by MCA Records. Sublime formed in 1988 in Long Beach, California by vocalist/guitarist Bradley Nowell, bassist Eric Wilson, and drummer Bud Gaugh. The trio toured heavily from their inception while developing their sound. Their first studio release—40 Oz. to Freedom (1992)—featured the single "Date Rape", which attracted heavy airplay in Southern California. MCA signed the band and distributed their second independent album, Robbin' the Hood, in 1994.
-By the time it came to record their major label debut, Nowell had been struggling with a heroin addiction. Sublime was recorded over a period of three months in Austin, Texas, in sessions characterized by heavy drug use and raucous partying. The album's musical style contains elements of punk rock, reggae, and ska, as well as dancehall, hip hop, and dub music, with tempos ranging wildly. Nowell's lyrical subject matter relates to relationships, prostitution, riots, and addiction. Nowell had been ejected from the recording near its completion. Nowell died due to a heroin overdose in May 1996, just two months prior to the band's major album release, which led to the band's dissolution.
-Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wrong Way", the record proved to be enormously successful, despite the band being defunct and thus not able to promote the album through touring. It sold over five million copies in the United States by the end of the decade, and it continues to be a popular catalog album. The album was released during the third wave ska peak, and etched Sublime into a permanent place among the stars of the 1990s. Critical reviews were positive, praising Nowell's songwriting ability and the album's musical variety. Sublime has since been listed as one of the most well-regarded albums of the 1990s by Spin and Rolling Stone.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sublime/1440838803" >}}<br>

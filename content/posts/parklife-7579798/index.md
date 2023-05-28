@@ -23,10 +23,16 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="parklife-7579798.jpg" title="Parklife by Blur" >}}
+Parklife is the third studio album by the English rock band Blur, released on 25 April 1994 on Food Records. After moderate sales for their previous album Modern Life Is Rubbish (1993), Parklife returned Blur to prominence in the UK, helped by its four hit singles: "Girls & Boys", "End of a Century", "Parklife" and "To the End".
+Certified four times platinum in the United Kingdom, in the year following its release the album came to define the emerging Britpop scene, along with the album Definitely Maybe by future rivals Oasis. Britpop in turn would form the backbone of the broader Cool Britannia movement. Parklife therefore has attained a cultural significance above and beyond its considerable sales and critical acclaim, cementing its status as a landmark in British rock music.In 2010, Parklife was one of ten classic album covers from British artists commemorated on a UK postage stamp issued by the Royal Mail. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". In 2020, Rolling Stone included in their list of the 500 Greatest Albums of All Time.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Girls & Boys
 2. Tracy Jacks
 3. End Of A Century
@@ -43,17 +49,6 @@ styles: ["Indie Rock", "Britpop"]
 14. Jubilee
 15. This Is A Low
 16. Lot 105
-
-<!-- section break -->
-
-Parklife is the third studio album by the English rock band Blur, released on 25 April 1994 on Food Records. After moderate sales for their previous album Modern Life Is Rubbish (1993), Parklife returned Blur to prominence in the UK, helped by its four hit singles: "Girls & Boys", "End of a Century", "Parklife" and "To the End".
-Certified four times platinum in the United Kingdom, in the year following its release the album came to define the emerging Britpop scene, along with the album Definitely Maybe by future rivals Oasis. Britpop in turn would form the backbone of the broader Cool Britannia movement. Parklife therefore has attained a cultural significance above and beyond its considerable sales and critical acclaim, cementing its status as a landmark in British rock music.In 2010, Parklife was one of ten classic album covers from British artists commemorated on a UK postage stamp issued by the Royal Mail. In 2015, Spin included the album in their list of "The 300 Best Albums of 1985–2014". In 2020, Rolling Stone included in their list of the 500 Greatest Albums of All Time.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}<br>

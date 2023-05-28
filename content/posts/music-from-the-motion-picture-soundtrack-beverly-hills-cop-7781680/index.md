@@ -19,10 +19,9 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 ---
 
-{{< img src="music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680.jpg" title="Music From The Motion Picture Soundtrack - Beverly Hills Cop by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. New Attitude (4:36)
 2. Don't Get Stopped In Beverly Hills (4:20)
 3. Do You Really (Want My Love?) (3:44)
@@ -33,10 +32,6 @@ styles: ["RnB/Swing", "Soundtrack", "Soft Rock", "Synth-pop"]
 8. Stir It Up (3:35)
 9. Rock 'N Roll Me Again (3:14)
 10. Axel F (3:00)
-
-<!-- section break -->
-
-
 
 
 

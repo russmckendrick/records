@@ -18,10 +18,9 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-{{< img src="new-funky-nation-712190.jpg" title="New Funky Nation by Boo-Yaa T.R.I.B.E." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. West Side 1
 2. Six Bad Brothers (5:04)
 3. Rated R (5:09)
@@ -35,10 +34,6 @@ styles: ["Gangsta"]
 11. Psyko Funk (4:12)
 12. Riot Pump (5:12)
 13. Pickin' Up Metal (4:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-funky-nation/1443498528" >}}<br>

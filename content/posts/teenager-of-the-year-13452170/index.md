@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="teenager-of-the-year-13452170.jpg" title="Teenager Of The Year by Frank Black" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Whatever Happened To Pong? (1:34)
 2. Thalassocracy (1:33)
 3. (I Want To Live On An) Abstract Plain (2:17)
@@ -53,10 +52,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 20. Pure Denizen Of The Citizens Band (2:20)
 21. Bad, Wicked World (1:57)
 22. Pie In The Sky (2:13)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/teenager-of-the-year/126286447" >}}<br>

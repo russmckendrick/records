@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="give-out-but-don-t-give-up-9327490.jpg" title="Give Out But Don't Give Up by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jailbird (3:46)
 2. Rocks (3:37)
 3. (I'm Gonna) Cry Myself Blind (4:30)
@@ -43,10 +42,6 @@ styles: ["Pop Rock"]
 10. Give Out But Don't Give Up (6:16)
 11. I'll Be There For You (6:34)
 12. Everybody Needs Somebody (5:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}<br>

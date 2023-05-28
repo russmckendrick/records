@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-{{< img src="all-souls-24895265.jpg" title="All Souls by Siouxsie & The Banshees" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fireworks
 2. Halloween
 3. Supernatural Thing
@@ -40,10 +39,6 @@ styles: ["Post-Punk", "New Wave"]
 8. Rawhead And Bloodybones
 9. We Hunger
 10. Peek-A-Boo
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-souls/1650831654" >}}<br>

@@ -21,10 +21,14 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Leftfield", "Experimental", "Conscious"]
 ---
 
-{{< img src="deltron-3030-2700033.jpg" title="Deltron 3030 by Deltron 3030" >}}
+Deltron 3030 is the debut album by the hip hop supergroup of the same name: rapper Del the Funky Homosapien, producer Dan the Automator, and DJ Kid Koala. It was released on May 23, 2000, by 75 Ark. The album was reissued on July 1, 2008 with 3 bonus remixes. The album's cover features a photograph of the Perisphere, a structure constructed for the 1939 New York World's Fair.
+It is a rap opera concept album set in a dystopian year 3030. The album's story casts Del in the role of Deltron Zero, a disillusioned mech soldier and interplanetary computer prodigy rebelling against a 31st-century New World Order. In a world where evil oligarchs suppress both human rights and hip-hop, Del fights rap battles against a series of foes, becoming Galactic Rhyme Federation Champion. Del the Funky Homosapien's lyrics veer from serious social commentary to humor to epic sci-fi battles, while producer Dan the Automator creates an eerie and dense atmosphere.
+The song "3030" was used as the theme song on the short-lived CBS series Robbery Homicide Division.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. State Of The Nation
 2. 3030
 3. The Fantabulous Rap Extravaganza
@@ -46,15 +50,6 @@ styles: ["Leftfield", "Experimental", "Conscious"]
 19. Love Story
 20. Memory Loss
 21. The Assman 640 Speaks
-
-<!-- section break -->
-
-Deltron 3030 is the debut album by the hip hop supergroup of the same name: rapper Del the Funky Homosapien, producer Dan the Automator, and DJ Kid Koala. It was released on May 23, 2000, by 75 Ark. The album was reissued on July 1, 2008 with 3 bonus remixes. The album's cover features a photograph of the Perisphere, a structure constructed for the 1939 New York World's Fair.
-It is a rap opera concept album set in a dystopian year 3030. The album's story casts Del in the role of Deltron Zero, a disillusioned mech soldier and interplanetary computer prodigy rebelling against a 31st-century New World Order. In a world where evil oligarchs suppress both human rights and hip-hop, Del fights rap battles against a series of foes, becoming Galactic Rhyme Federation Champion. Del the Funky Homosapien's lyrics veer from serious social commentary to humor to epic sci-fi battles, while producer Dan the Automator creates an eerie and dense atmosphere.
-The song "3030" was used as the theme song on the short-lived CBS series Robbery Homicide Division.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deltron-3030/288544306" >}}<br>

@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="copper-blue-5251610.jpg" title="Copper Blue by Sugar" >}}
+Copper Blue is the debut studio album by American alternative rock band Sugar. It was voted 1992 Album of the Year by the NME. All of the songs were written by guitarist/vocalist Bob Mould, who also co-produced with Lou Giordano. Musically, the band continues the thick punk guitar of Mould's previous band, Hüsker Dü, while slowing the tempo and emphasizing melody even more.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Act We Act (5:27)
 2. A Good Idea (3:47)
 3. Changes (5:01)
@@ -35,13 +37,6 @@ styles: ["Alternative Rock"]
 8. Fortune Teller (4:27)
 9. Slick (4:59)
 10. Man On The Moon (4:32)
-
-<!-- section break -->
-
-Copper Blue is the debut studio album by American alternative rock band Sugar. It was voted 1992 Album of the Year by the NME. All of the songs were written by guitarist/vocalist Bob Mould, who also co-produced with Lou Giordano. Musically, the band continues the thick punk guitar of Mould's previous band, Hüsker Dü, while slowing the tempo and emphasizing melody even more.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/copper-blue-deluxe-edition/529998071" >}}<br>

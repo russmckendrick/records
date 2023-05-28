@@ -32,10 +32,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="anthology-24953839.jpg" title="Anthology by Garbage" >}}
+Anthology is a greatest hits album by Scottish/American rock band Garbage, released on October 28, 2022 through Stunvolume and BMG. It is the band's third overall and second international greatest hits album. The album includes remastered versions of 35 tracks, among hit singles and fan favourites, as well as rare track "Witness to Your Love", a song recorded in 2008 for inclusion in the Give Listen Help charity compilation. 
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Only Happy When It Rains
 2. Queer
 3. Stupid Girl
@@ -56,15 +60,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 18. No Horses
 19. The Men Who Rule The World
 20. No Gods No Masters
-
-<!-- section break -->
-
-Anthology is a greatest hits album by Scottish/American rock band Garbage, released on October 28, 2022 through Stunvolume and BMG. It is the band's third overall and second international greatest hits album. The album includes remastered versions of 35 tracks, among hit singles and fan favourites, as well as rare track "Witness to Your Love", a song recorded in 2008 for inclusion in the Give Listen Help charity compilation. 
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthology/1655672474" >}}<br>

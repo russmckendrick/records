@@ -17,16 +17,11 @@ genres: ["Non-Music"]
 styles: ["Comedy"]
 ---
 
-{{< img src="knowing-me-knowing-you-8395860.jpg" title="Knowing Me Knowing You by Alan Partridge" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992
 2. Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993
-
-<!-- section break -->
-
-
 
 
 

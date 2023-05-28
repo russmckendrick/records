@@ -33,10 +33,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
-{{< img src="lazer-guided-melodies-18366628.jpg" title="Lazer Guided Melodies by Spiritualized" >}}
+Lazer Guided Melodies is the debut studio album by English space rock band Spiritualized. The album was recorded by the inaugural line up of the band, consisting of Jason Pierce (vocals, guitars), Mark Refoy (guitars), Will Carruthers (bass), Jonny Mattock (drums) and Kate Radley (keyboards) from 1990 to 1991, and mixed by Pierce in London in January 1992. The album was first released on Dedicated Records in March 1992, on cassette, Compact Disc and Vinyl (2 x LP, with initial copies containing an additional free 7").
+Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued together into four colour-coded (red, green, blue, black), cross-faded suites. As such, the album was included in Pitchfork's 2010 list of "ten unusual CD-era gimmicks".By 1995, the album had sold 10,000 copies in the United States.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. You Know It's True
 2. If I Were With Her Now
 3. I Want You
@@ -49,14 +52,6 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 10. Angel Sigh
 11. Sway
 12. 200 Bars
-
-<!-- section break -->
-
-Lazer Guided Melodies is the debut studio album by English space rock band Spiritualized. The album was recorded by the inaugural line up of the band, consisting of Jason Pierce (vocals, guitars), Mark Refoy (guitars), Will Carruthers (bass), Jonny Mattock (drums) and Kate Radley (keyboards) from 1990 to 1991, and mixed by Pierce in London in January 1992. The album was first released on Dedicated Records in March 1992, on cassette, Compact Disc and Vinyl (2 x LP, with initial copies containing an additional free 7").
-Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued together into four colour-coded (red, green, blue, black), cross-faded suites. As such, the album was included in Pitchfork's 2010 list of "ten unusual CD-era gimmicks".By 1995, the album had sold 10,000 copies in the United States.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lazer-guided-melodies/1502472550" >}}<br>

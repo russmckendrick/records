@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="tasmania-13285382.jpg" title="Tasmania by Pond" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Daisy
 2. Sixteen Days
 3. Tasmania
@@ -41,10 +40,6 @@ styles: ["Psychedelic Rock"]
 8. Selene
 9. Shame
 10. Doctor's In
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}<br>

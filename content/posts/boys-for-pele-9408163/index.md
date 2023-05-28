@@ -26,10 +26,12 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Avantgarde"]
 ---
 
-{{< img src="boys-for-pele-9408163.jpg" title="Boys For Pele by Tori Amos" >}}
+Boys for Pele is the third studio album by American singer and songwriter Tori Amos. Preceded by the first single, "Caught a Lite Sneeze", by three weeks, the album was released on January 22, 1996, in the United Kingdom, on January 23 in the United States, and on January 29 in Australia. Despite the album being Amos's least radio friendly material to date, Boys for Pele debuted at number two on both the US Billboard 200 and the UK Albums Chart, making it her biggest simultaneous transatlantic debut, her first Billboard top 10 debut, and the highest-charting US debut of her career to date.Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs that incorporate harpsichord, clavichord, harmonium, gospel choirs, brass bands and full orchestras. Amos wrote all of the tracks, and for the first time, she served as sole producer for her own album. For Amos, the album was a step into a different direction, in terms of singing, songwriting, and recording, and is experimental in comparison to her previous work.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Beauty Queen / Horses (6:07)
 2. Blood Roses (3:56)
 3. Father Lucifer (3:43)
@@ -48,13 +50,6 @@ styles: ["Alternative Rock", "Avantgarde"]
 16. In The Springtime Of His Voodoo (5:34)
 17. Putting The Damage On (5:10)
 18. Twinkle (3:11)
-
-<!-- section break -->
-
-Boys for Pele is the third studio album by American singer and songwriter Tori Amos. Preceded by the first single, "Caught a Lite Sneeze", by three weeks, the album was released on January 22, 1996, in the United Kingdom, on January 23 in the United States, and on January 29 in Australia. Despite the album being Amos's least radio friendly material to date, Boys for Pele debuted at number two on both the US Billboard 200 and the UK Albums Chart, making it her biggest simultaneous transatlantic debut, her first Billboard top 10 debut, and the highest-charting US debut of her career to date.Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs that incorporate harpsichord, clavichord, harmonium, gospel choirs, brass bands and full orchestras. Amos wrote all of the tracks, and for the first time, she served as sole producer for her own album. For Amos, the album was a step into a different direction, in terms of singing, songwriting, and recording, and is experimental in comparison to her previous work.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196" >}}<br>

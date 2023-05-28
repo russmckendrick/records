@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="terror-twilight-3014122.jpg" title="Terror Twilight by Pavement" >}}
+Terror Twilight is the fifth and final studio album by American indie rock band Pavement, released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
+Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some creative choices, and songwriter Stephen Malkmus later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Spit On A Stranger (3:04)
 2. Folk Jam (3:34)
 3. You Are A Light (3:54)
@@ -36,14 +39,6 @@ styles: ["Indie Rock"]
 9. Speak, See, Remember (4:20)
 10. The Hexx (5:39)
 11. ...And Carrot Rope (3:52)
-
-<!-- section break -->
-
-Terror Twilight is the fifth and final studio album by American indie rock band Pavement, released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
-Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some creative choices, and songwriter Stephen Malkmus later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/terror-twilight/1589125798" >}}<br>

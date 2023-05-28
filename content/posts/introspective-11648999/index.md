@@ -22,23 +22,18 @@ genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop"]
 ---
 
-{{< img src="introspective-11648999.jpg" title="Introspective by Pet Shop Boys" >}}
+Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Left To My Own Devices (8:16)
 2. I Want A Dog (6:15)
 3. Domino Dancing (7:40)
 4. I'm Not Scared (7:23)
 5. Always On My Mind / In My House (9:05)
 6. It's Alright (9:24)
-
-<!-- section break -->
-
-Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/introspective-further-listening-1988-1989-deluxe-edition/1318859145" >}}<br>

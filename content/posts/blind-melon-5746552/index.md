@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="blind-melon-5746552.jpg" title="Blind Melon by Blind Melon" >}}
+Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Soak The Sin (4:02)
 2. Tones Of Home (4:27)
 3. I Wonder (5:33)
@@ -39,15 +43,6 @@ styles: ["Alternative Rock"]
 11. Seed To A Tree (3:30)
 12. Drive (4:41)
 13. Time (6:01)
-
-<!-- section break -->
-
-Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blind-melon/725821342" >}}<br>

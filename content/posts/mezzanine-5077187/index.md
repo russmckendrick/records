@@ -29,10 +29,14 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-{{< img src="mezzanine-5077187.jpg" title="Mezzanine by Massive Attack" >}}
+Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music.Mezzanine topped the charts in the United Kingdom, Australia, Ireland, and New Zealand, becoming the group's most commercially successful album to date. It ranked highly on many year-end lists. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps", which also variously charted in the United Kingdom.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Angel (6:18)
 2. Risingson  (4:58)
 3. Teardrop  (5:29)
@@ -44,15 +48,6 @@ styles: ["Trip Hop", "Downtempo"]
 9. Mezzanine (5:54)
 10. Group Four (8:13)
 11. (Exchange) (4:08)
-
-<!-- section break -->
-
-Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music.Mezzanine topped the charts in the United Kingdom, Australia, Ireland, and New Zealand, becoming the group's most commercially successful album to date. It ranked highly on many year-end lists. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps", which also variously charted in the United Kingdom.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mezzanine-deluxe/1428684976" >}}<br>

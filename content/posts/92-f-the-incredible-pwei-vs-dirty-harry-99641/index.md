@@ -21,17 +21,12 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
 
-{{< img src="92-f-the-incredible-pwei-vs-dirty-harry-99641.jpg" title="92° F / The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 92° (Boilerhouse 'The Birth, The Death' Mix)
 2. The Incredible PWEI Vs Dirty Harry
 3. 92° (Boilerhouse 'The Birth' Mix)
-
-<!-- section break -->
-
-
 
 
 

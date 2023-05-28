@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
 
-{{< img src="sittin-heavy-8125798.jpg" title="Sittin' Heavy by Monster Truck" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Why Are You Not Rocking? (2:23)
 2. Don't Tell Me How To Live (4:24)
 3. She's A Witch (3:44)
@@ -42,10 +41,6 @@ styles: ["Blues Rock", "Hard Rock"]
 10. Midnight (Bonus) (3:32)
 11. New Soul (4:13)
 12. Enjoy The Time (5:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sittin-heavy/1600457332" >}}<br>

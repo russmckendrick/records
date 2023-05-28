@@ -29,10 +29,16 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
-{{< img src="the-downward-spiral-1475731.jpg" title="The Downward Spiral by Nine Inch Nails" >}}
+When Trent Reznor submitted <i>The Downward Spiral</i> to Interscope Records cofounder Jimmy Iovine, he offered an apology. “Sorry,” Reznor remembered saying in a 2016 interview with Beats 1 host Zane Lowe. “I had to do it.” 
+Even in a shifted mid-’90s paradigm where bands like Nirvana could become famous, <i>Spiral</i> felt extreme—a blast of negativity so thorough that it’s hard to imagine it making headway with any size of audience, let alone the four million or so who ended up buying it. (Reznor himself remains somewhat incredulous—a note on the band’s own website describes the album as a “celebration of self-destruction in the form of a concept record that somehow managed to become a multi-platinum worldwide hit.”)<br />
+Inspired by Iggy Pop, Lou Reed, and David Bowie’s Berlin trilogy (<i>Low</i> in particular), <i>Spiral</i> pushed the industrial pop of <i>Pretty Hate Machine</i> and the <i>Broken</i> EP in unexpected directions, experimenting with torch songs (“Piggy”), disco and soul (“Closer”), and ballads of such unnerving fragility that listening to them feels voyeuristic (“Hurt”). Even tracks that found continuity with the band’s earlier music—“Big Man with a Gun,” the stuttering hardcore of “March of the Pigs”—were drastically more aggressive than anything they’d done before, flashes of mania that made the album’s quieter moments feel all the more exhausted.<br />
+What emerged was a pattern of emotional whiplash: You feel like you can topple the world, shred your tormentors, vent your toxic depths. Then, suddenly, you feel nothing. That you could whistle along with half of it was perverse but strangely fitting, especially given Reznor’s S&M affectations: Here was pain that felt pretty good. The album’s sound was just as polarized. Mixing digital and analog, sample collages with live performances, densely processed signals with naturalistic ones, <i>Spiral</i> was a drastic renovation to the texture and feel of conventional rock. Even now, it feels damaged, noisy, wrong—the product of both a gleaming future and an already ruined past. If the album has an essentializing moment, it’s the climax of “Closer”: mechanistic synth-funk that gives way to a warped, solitary piano, part music box, part trash. After <i>Spiral</i>, artists didn’t have to decide whether to be a rock band or an electronic producer—Reznor had bridged the two.<br />
+“I was feeling my way around,” Reznor told Zane Lowe of the period leading up to <i>Spiral</i>. “What do I have to say? I didn’t live this exotic life. I grew up in a town in Pennsylvania. Kind of boring. What I did know is how I felt about myself, and my struggles to figure out who and what and why from my own perspective.” And therein lies the album’s healing irony: In facing the abyss, Reznor found his congregation.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mr Self Destruct (4:32)
 2. Piggy (4:22)
 3. Heresy (3:54)
@@ -47,17 +53,6 @@ styles: ["Industrial"]
 12. Reptile (5:54)
 13. The Downward Spiral (3:57)
 14. Hurt (6:14)
-
-<!-- section break -->
-
-When Trent Reznor submitted <i>The Downward Spiral</i> to Interscope Records cofounder Jimmy Iovine, he offered an apology. “Sorry,” Reznor remembered saying in a 2016 interview with Beats 1 host Zane Lowe. “I had to do it.” 
-Even in a shifted mid-’90s paradigm where bands like Nirvana could become famous, <i>Spiral</i> felt extreme—a blast of negativity so thorough that it’s hard to imagine it making headway with any size of audience, let alone the four million or so who ended up buying it. (Reznor himself remains somewhat incredulous—a note on the band’s own website describes the album as a “celebration of self-destruction in the form of a concept record that somehow managed to become a multi-platinum worldwide hit.”)<br />
-Inspired by Iggy Pop, Lou Reed, and David Bowie’s Berlin trilogy (<i>Low</i> in particular), <i>Spiral</i> pushed the industrial pop of <i>Pretty Hate Machine</i> and the <i>Broken</i> EP in unexpected directions, experimenting with torch songs (“Piggy”), disco and soul (“Closer”), and ballads of such unnerving fragility that listening to them feels voyeuristic (“Hurt”). Even tracks that found continuity with the band’s earlier music—“Big Man with a Gun,” the stuttering hardcore of “March of the Pigs”—were drastically more aggressive than anything they’d done before, flashes of mania that made the album’s quieter moments feel all the more exhausted.<br />
-What emerged was a pattern of emotional whiplash: You feel like you can topple the world, shred your tormentors, vent your toxic depths. Then, suddenly, you feel nothing. That you could whistle along with half of it was perverse but strangely fitting, especially given Reznor’s S&M affectations: Here was pain that felt pretty good. The album’s sound was just as polarized. Mixing digital and analog, sample collages with live performances, densely processed signals with naturalistic ones, <i>Spiral</i> was a drastic renovation to the texture and feel of conventional rock. Even now, it feels damaged, noisy, wrong—the product of both a gleaming future and an already ruined past. If the album has an essentializing moment, it’s the climax of “Closer”: mechanistic synth-funk that gives way to a warped, solitary piano, part music box, part trash. After <i>Spiral</i>, artists didn’t have to decide whether to be a rock band or an electronic producer—Reznor had bridged the two.<br />
-“I was feeling my way around,” Reznor told Zane Lowe of the period leading up to <i>Spiral</i>. “What do I have to say? I didn’t live this exotic life. I grew up in a town in Pennsylvania. Kind of boring. What I did know is how I felt about myself, and my struggles to figure out who and what and why from my own perspective.” And therein lies the album’s healing irony: In facing the abyss, Reznor found his congregation.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-downward-spiral/1440837096" >}}<br>

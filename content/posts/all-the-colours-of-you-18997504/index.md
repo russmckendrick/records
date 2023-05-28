@@ -28,10 +28,13 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="all-the-colours-of-you-18997504.jpg" title="All The Colours Of You by James" >}}
+All the Colours of You is the 16th studio album of English rock band James that was released on 4 June 2021 through Virgin Music Label & Artist Services. James began writing the album before the release of their 15th studio album Living in Extraordinary Times (2018); they accumulated 100 Jam sessions. Due to the COVID-19 pandemic and the resulting lockdowns, the band members were stuck in different countries. Vocalist Tim Booth began working with producer Jacknife Lee at his studio in Topanga Canyon, California, where Booth acted as a liaison between the band and Lee. The album has been described as a stadium rock and electronic; its songs were influenced by the pandemic, the lockdowns, and the murder of George Floyd.
+Music critics gave All the Colours of You generally positive reviews; some of them complimented Lee's production and noted the album's anthemic nature. It peaked at number three in the United Kingdom, and charted in Germany, Ireland, Portugal, Scotland, and Switzerland. "All the Colours of You" was released as the album's lead single on 1 March 2021, and the tracks "Beautiful Beaches", "Recover", "Isabella" were released as follow-up singles over the next two months. James played several festivals in the UK in August and September 2021, and ended the year with a UK arena tour with Happy Mondays. A tour of Portugal in April 2022 was followed by more UK festival performances throughout June 2022.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. ZERO (5:42)
 2. All The Colours Of You (5:26)
 3. Recover (3:44)
@@ -43,14 +46,6 @@ styles: ["Indie Pop"]
 9. Miss America (3:01)
 10. Isabella (4:23)
 11. XYST (4:23)
-
-<!-- section break -->
-
-All the Colours of You is the 16th studio album of English rock band James that was released on 4 June 2021 through Virgin Music Label & Artist Services. James began writing the album before the release of their 15th studio album Living in Extraordinary Times (2018); they accumulated 100 Jam sessions. Due to the COVID-19 pandemic and the resulting lockdowns, the band members were stuck in different countries. Vocalist Tim Booth began working with producer Jacknife Lee at his studio in Topanga Canyon, California, where Booth acted as a liaison between the band and Lee. The album has been described as a stadium rock and electronic; its songs were influenced by the pandemic, the lockdowns, and the murder of George Floyd.
-Music critics gave All the Colours of You generally positive reviews; some of them complimented Lee's production and noted the album's anthemic nature. It peaked at number three in the United Kingdom, and charted in Germany, Ireland, Portugal, Scotland, and Switzerland. "All the Colours of You" was released as the album's lead single on 1 March 2021, and the tracks "Beautiful Beaches", "Recover", "Isabella" were released as follow-up singles over the next two months. James played several festivals in the UK in August and September 2021, and ended the year with a UK arena tour with Happy Mondays. A tour of Portugal in April 2022 was followed by more UK festival performances throughout June 2022.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-the-colours-of-you/1553115786" >}}<br>

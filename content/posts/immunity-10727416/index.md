@@ -24,10 +24,12 @@ genres: ["Electronic"]
 styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 ---
 
-{{< img src="immunity-10727416.jpg" title="Immunity by Jon Hopkins" >}}
+Immunity is the fourth studio album by English electronic musician and producer Jon Hopkins. It was released on 3 June 2013 by Domino Records to critical acclaim and was nominated for the 2013 Mercury Prize for best album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. We Disappear 
 2. Open Eye Signal 
 3. Breathe This Air 
@@ -36,13 +38,6 @@ styles: ["Electro", "Tech House", "Experimental", "Downtempo"]
 6. Form By Firelight
 7. Sun Harmonics
 8. Immunity
-
-<!-- section break -->
-
-Immunity is the fourth studio album by English electronic musician and producer Jon Hopkins. It was released on 3 June 2013 by Domino Records to critical acclaim and was nominated for the 2013 Mercury Prize for best album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/immunity/766062577" >}}<br>

@@ -23,23 +23,6 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="the-universal-want-15898397.jpg" title="The Universal Want by Doves" >}}
-
-<!-- section break -->
-
-1. Carousels (4:50)
-2. I Will Not Hide (4:15)
-3. Broken Eyes (4:15)
-4. For Tomorrow (5:28)
-5. Cathedrals Of The Mind (5:20)
-6. Prisoners (4:27)
-7. Cycle Of Hurt (4:15)
-8. Mother Silverlake (5:13)
-9. Universal Want (5:21)
-10. Forest House (3:41)
-
-<!-- section break -->
-
 They began by just playing the hits. In 2017, nearly eight years after Doves had last picked up their instruments together, drummer Andy Williams and his twin brother, guitarist Jez, gave bassist/singer Jimi Goodwin a call. Come over to Andy’s studio, they said, and let’s see if we can remember how to play “Black and White Town” and “There Goes the Fear”—just for fun. “It came back really quickly,” Andy tells Apple Music. “We were all laughing and having fun. As a drummer, hearing that bass—<i>his</i> bass—instantly felt very familiar, in a good sense. Pretty soon, there was a real enthusiasm and hunger from us to work together.” When they went on hiatus after 2009’s excellent <i>Kingdom of Rust</i> album, Doves were fatigued. They’d been together for a quarter of a century, serving up four albums as one of Britain’s best and more adventurous indie-rock trios—plus one before that as house specialists Sub Sub. They were never meant to disappear for a decade, but when you’ve got families and side projects (the Williams brothers as Black Rivers, Goodwin with his 2014 solo album <i>Odludek</i>), life gets in the way. “I don’t want to sound boastful, but I think there’s a chemistry between us three that you don’t run into every day,” Andy says. “That time away from each other has helped us appreciate that.”<br />
 Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album precisely because it doesn’t sound like any other Doves album. The exquisitely measured mix of euphoria and sorrow is familiar, but by experimenting with Afrobeat, dub and keyboards foraged from behind the Iron Curtain, the trio continue to expand their horizons on every song. “We didn’t attempt to resurrect another ‘The Cedar Room’ or ‘There Goes the Fear’, because it’s a recipe for disaster when you chase your own tail,” says Andy. “It’s really important for us three to be excited and feel like we’re moving forward.” Let him guide you through that evolution, track by track.<br />
 <b>Carousels</b>
@@ -66,6 +49,18 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
         
     
 
+
+## Tracklisting
+1. Carousels (4:50)
+2. I Will Not Hide (4:15)
+3. Broken Eyes (4:15)
+4. For Tomorrow (5:28)
+5. Cathedrals Of The Mind (5:20)
+6. Prisoners (4:27)
+7. Cycle Of Hurt (4:15)
+8. Mother Silverlake (5:13)
+9. Universal Want (5:21)
+10. Forest House (3:41)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-universal-want/1519035396" >}}<br>

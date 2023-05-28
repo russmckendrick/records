@@ -24,10 +24,15 @@ genres: ["Electronic"]
 styles: ["Minimal", "Experimental", "Synthwave"]
 ---
 
-{{< img src="rr7349-9108160.jpg" title="RR7349 by Survive" >}}
+RR7349 (its cassette release titled HD037) is the third studio album by Texas synthwave group Survive. Completed in January 2015, it wasn't until September 2016 that the album was released by the labels Relapse and Survive's own Holodeck. As with other releases by the band, RR7349 follows a slow-tempo style using elements of dark wave, electro, and intelligent dance music. Reviews of the album from critics were very favorable, some of them highlighting that it has a complex narrative unusual for instrumental electronic music albums. The LP peaked at number 108 on the American Billboard 200 album chart.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. A.H.B (4:25)
 2. Other (3:43)
 3. Dirt (5:06)
@@ -37,16 +42,6 @@ styles: ["Minimal", "Experimental", "Synthwave"]
 7. Low Fog (4:40)
 8. Copter (6:36)
 9. Cutthroat (4:02)
-
-<!-- section break -->
-
-RR7349 (its cassette release titled HD037) is the third studio album by Texas synthwave group Survive. Completed in January 2015, it wasn't until September 2016 that the album was released by the labels Relapse and Survive's own Holodeck. As with other releases by the band, RR7349 follows a slow-tempo style using elements of dark wave, electro, and intelligent dance music. Reviews of the album from critics were very favorable, some of them highlighting that it has a complex narrative unusual for instrumental electronic music albums. The LP peaked at number 108 on the American Billboard 200 album chart.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rr7349/1132755962" >}}<br>

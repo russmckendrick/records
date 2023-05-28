@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="to-bring-you-my-love-15895363.jpg" title="To Bring You My Love by PJ Harvey" >}}
+After releasing two savage instant-classic LPs as a trio with drummer Rob Ellis and bassist Steve Vaughan as PJ Harvey, Polly Jean Harvey blew up her band but got to keep the name. When it was released in February 1995, <i>To Bring You My Love</i> felt like a tectonic shift—in scope, in sonics, in stakes—as the bare-bones minimalism of 1992’s <i>Dry</i> and 1993’s <i>Rid of Me</i> gave way to something bolder and more dramatic. Harvey took on U2’s producer (Flood), their management and at least some of their ambition, trading grungy (as opposed to grunge-y) aesthetics for gowns and theatricality. But viewed from a distance, the album feels more of a piece with its predecessors than nearly anything that would come in her career subsequently. It’s a perfect fulcrum in a rich discography: Her presence is still feral, but tempered by the more nuanced textures and moods that she would come to explore further and eventually define herself by. The album’s key personnel—chiefly, her one-time bandmate John Parish and the Bad Seeds’ Mick Harvey—would become her most frequent and important collaborators over the ensuing decades, and <i>To Bring You My Love</i> reads like a road map of where they would later go.<br />
+The opening title track sets the swampy, unsettling mood—a dark religious revival that channels the blues without mimicking it, forging a connection between American traditionalism and gothic English horror (see: the whispered, cursed incantation closing out “Down by the Water”—“Little fish, big fish, swimming in the water/Come back here, man, give me my daughter”). “Long Snake Moan” and “Meet Ze Monsta” channel the ferociousness Harvey built her reputation on, while “Working for the Man” and, particularly, closing track “The Dancer” point Harvey forward, exploring the power in relative restraint, of withholding in all the spots where she used to deploy exorcism.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. To Bring You My Love
 2. Meet Ze Monsta
 3. Working For The Man
@@ -37,15 +41,6 @@ styles: ["Alternative Rock"]
 8. I Think I'm A Mother
 9. Send His Love To Me
 10. The Dancer
-
-<!-- section break -->
-
-After releasing two savage instant-classic LPs as a trio with drummer Rob Ellis and bassist Steve Vaughan as PJ Harvey, Polly Jean Harvey blew up her band but got to keep the name. When it was released in February 1995, <i>To Bring You My Love</i> felt like a tectonic shift—in scope, in sonics, in stakes—as the bare-bones minimalism of 1992’s <i>Dry</i> and 1993’s <i>Rid of Me</i> gave way to something bolder and more dramatic. Harvey took on U2’s producer (Flood), their management and at least some of their ambition, trading grungy (as opposed to grunge-y) aesthetics for gowns and theatricality. But viewed from a distance, the album feels more of a piece with its predecessors than nearly anything that would come in her career subsequently. It’s a perfect fulcrum in a rich discography: Her presence is still feral, but tempered by the more nuanced textures and moods that she would come to explore further and eventually define herself by. The album’s key personnel—chiefly, her one-time bandmate John Parish and the Bad Seeds’ Mick Harvey—would become her most frequent and important collaborators over the ensuing decades, and <i>To Bring You My Love</i> reads like a road map of where they would later go.<br />
-The opening title track sets the swampy, unsettling mood—a dark religious revival that channels the blues without mimicking it, forging a connection between American traditionalism and gothic English horror (see: the whispered, cursed incantation closing out “Down by the Water”—“Little fish, big fish, swimming in the water/Come back here, man, give me my daughter”). “Long Snake Moan” and “Meet Ze Monsta” channel the ferociousness Harvey built her reputation on, while “Working for the Man” and, particularly, closing track “The Dancer” point Harvey forward, exploring the power in relative restraint, of withholding in all the spots where she used to deploy exorcism.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love/1440922042" >}}<br>

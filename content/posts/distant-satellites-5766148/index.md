@@ -38,10 +38,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="distant-satellites-5766148.jpg" title="Distant Satellites by Anathema" >}}
+Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Lost Song Part 1 (5:53)
 2. The Lost Song Part 2 (5:47)
 3. Dusk (Dark Is Descending) (6:01)
@@ -52,15 +56,6 @@ styles: ["Prog Rock"]
 8. Firelight (2:44)
 9. Distant Satellites (8:18)
 10. Take Shelter (6:18)
-
-<!-- section break -->
-
-Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699" >}}<br>

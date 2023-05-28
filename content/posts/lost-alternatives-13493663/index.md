@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="lost-alternatives-13493663.jpg" title="Lost Alternatives by Steve Lamacq" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chelsea Girl
 2. Indian Rope
 3. Shall We Take A Trip?
@@ -48,10 +47,6 @@ styles: ["Alternative Rock"]
 25. Freeze The Atlantic
 26. This Is My Hollywood
 27. Strachan
-
-<!-- section break -->
-
-
 
 
 

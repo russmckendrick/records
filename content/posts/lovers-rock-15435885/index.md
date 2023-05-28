@@ -26,23 +26,6 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="lovers-rock-15435885.jpg" title="Lovers Rock by The Dears" >}}
-
-<!-- section break -->
-
-1. Heart Of An Animal
-2. I Know What You're Thinking And It's Awful
-3. Instant Nightmare!
-4. Is This What You Really Want?
-5. The Worst In Us
-6. Stille Lost
-7. No Place On Earth
-8. Play Dead
-9. Too Many Wrongs
-10. We'll Go Into Hiding
-
-<!-- section break -->
-
 Obviously, like anyone else releasing music in the spring of 2020, The Dears wrote and recorded their eighth album well before the COVID-19 crisis thrust the world into hibernation and a perpetual state of unease. Still, the Montreal indie-rockestra’s frontman Murray Lightburn can’t help but marvel at the uncanny timing of <i>Lovers Rock</i>, a record that adopts the name of the ’70s reggae subgenre and applies it to an imaginary utopian planet where Earth’s frantic romantics can escape as our world hurtles towards its doomsday course. “Right now, a lot of people in the world are feeling what a lot of our fans have been feeling for years, but it's from different circumstances,” Lightburn tells Apple Music. “We're all in the same boat now, but a lot of people have been feeling this way all the time. We know it, and that’s who we’re singing for.” In both thematic content and compositional complexity, Lightburn sees clear parallels between <i>Lovers Rock</i> and The Dears’ 2003 masterwork <i>No Cities Left</i>, another record that presciently tapped into the tenor of its tumultuous time (i.e., the dawn of the Iraq war and the outbreak of SARS). But as he reveals in this track-by-track survey, <i>Lovers Rock</i> savvily synthesises elements—soaring symphonic rock anthems, lush soul balladry, leftfield experimentation—from across The Dears’ discography. Arriving two decades after the band’s debut album, <i>Lovers Rock</i> effectively functions as a 20th-anniversary retrospective comprising all new songs.<br />
 <b>Heart of an Animal</b>
 “I wrote this probably between [2008’s] <i>Missiles</i> and [2011’s] <i>Degeneration Street</i>, and it floated up into the demo pile for each [subsequent] record, but never really got over the first hurdle of that process. So when we sat down to make this record, I was like, ‘Well, the decks are pretty clear—we don't even know what this record is, so why don't we just start with this song and see how it spins out?’ In a weird way, the record is built around this song. I mean, it's not like I had a crystal ball, but it does fit thematically with what I was thinking about when I was writing the rest of the record—the discourse that we see in the world. This new way of communicating online is a little bit on the brutal side. In general, people seem to be more quick to express opinions just because they can, no matter how hurtful they are. We haven't really seen this before—it's like a message board gone wild. It used to be such an insular community on message boards, maybe a couple hundred people were involved with it. But now you have a global message board, and people are getting hurt left, right and centre.”<br />
@@ -68,6 +51,18 @@ Obviously, like anyone else releasing music in the spring of 2020, The Dears wro
         
     
 
+
+## Tracklisting
+1. Heart Of An Animal
+2. I Know What You're Thinking And It's Awful
+3. Instant Nightmare!
+4. Is This What You Really Want?
+5. The Worst In Us
+6. Stille Lost
+7. No Place On Earth
+8. Play Dead
+9. Too Many Wrongs
+10. We'll Go Into Hiding
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovers-rock/1499171415" >}}<br>

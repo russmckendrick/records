@@ -18,10 +18,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="in-parallel-11027074.jpg" title="In///Parallel by Dhani Harrison" >}}
+Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Never Know (5:23)
 2. #WarOnFalse (3:57)
 3. Ulfur Resurrection (7:24)
@@ -32,13 +34,6 @@ styles: ["Alternative Rock"]
 8. The Light Under The Door (6:44)
 9. All About Waiting (5:03)
 10. Admiral Of Upside Down (5:28)
-
-<!-- section break -->
-
-Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-parallel/1258197590" >}}<br>

@@ -22,20 +22,15 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
-{{< img src="no-sadness-or-farewell-3961956.jpg" title="No Sadness Or Farewell by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. How We Rock (12:24)
 2. Hold On (So Goodbye To All Of That) (6:53)
 3. One Armed Boxer (3:18)
 4. Jonestown Martin (6:29)
 5. Long Live Independence (5:22)
 6. Maniac Beast (3:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064" >}}<br>

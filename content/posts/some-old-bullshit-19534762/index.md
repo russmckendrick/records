@@ -25,10 +25,14 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 ---
 
-{{< img src="some-old-bullshit-19534762.jpg" title="Some Old Bullshit by Beastie Boys" >}}
+Some Old Bullshit, also known as Some Old B******t, is a compilation album by the rap rock trio Beastie Boys released in February 8, 1994. It compiles several of their early EPs, recorded in the early 1980s. These recordings present a sound radically different from that of the hip-hop sound generally associated with the band. Instead, these songs represent the band's part in the early New York hardcore scene. The album also features taped segments originally heard on Noise The Show, a popular hardcore radio show on WNYU in New York that played early recordings from Beastie Boys.  These segments feature the hyperbolic introductions of Noise The Show's host, Tim Sommer, an early supporter of the band.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Egg Raid On Mojo
 2. Beastie Boys
 3. Transit Cop
@@ -43,15 +47,6 @@ styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 12. Bonus Batter
 13. Beastie Revolution
 14. Cooky Puss (Censored Version)
-
-<!-- section break -->
-
-Some Old Bullshit, also known as Some Old B******t, is a compilation album by the rap rock trio Beastie Boys released in February 8, 1994. It compiles several of their early EPs, recorded in the early 1980s. These recordings present a sound radically different from that of the hip-hop sound generally associated with the band. Instead, these songs represent the band's part in the early New York hardcore scene. The album also features taped segments originally heard on Noise The Show, a popular hardcore radio show on WNYU in New York that played early recordings from Beastie Boys.  These segments feature the hyperbolic introductions of Noise The Show's host, Tim Sommer, an early supporter of the band.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-old-b-t/724689773" >}}<br>

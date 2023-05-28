@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ---
 
-{{< img src="hd015-9231465.jpg" title="HD015 by Survive" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Deserted Skies
 2. Floating Cube
 3. To Light Alone I Bow
@@ -34,10 +33,6 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 7. Scalar Wave
 8. Shunting Yard
 9. Dirge
-
-<!-- section break -->
-
-
 
 
 

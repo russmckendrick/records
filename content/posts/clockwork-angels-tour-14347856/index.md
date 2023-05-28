@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="clockwork-angels-tour-14347856.jpg" title="Clockwork Angels Tour by Rush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Subdivisions
 2. The Big Money
 3. Force Ten
@@ -54,10 +53,6 @@ styles: ["Hard Rock"]
 29. Middletown Dreams
 30. The Pass
 31. Manhattan Project
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clockwork-angels-tour-live/721246255" >}}<br>

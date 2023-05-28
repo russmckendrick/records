@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock"]
 ---
 
-{{< img src="mr-beast-15504582.jpg" title="Mr Beast by Mogwai" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Auto Rock
 2. Glasgow Mega-Snake
 3. Acid Food
@@ -34,10 +33,6 @@ styles: ["Art Rock", "Post Rock"]
 8. Folk Death 95
 9. I Chose Horses
 10. We're No Here
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}<br>

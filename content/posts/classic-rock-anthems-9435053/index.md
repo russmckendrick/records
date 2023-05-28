@@ -27,10 +27,9 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
 
-{{< img src="classic-rock-anthems-9435053.jpg" title="Classic Rock Anthems by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. More Than A Feeling
 2. Eye Of The Tiger
 3. Rosanna
@@ -51,10 +50,6 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 18. Barracuda
 19. Because The Night
 20. (Don't Fear) The Reaper
-
-<!-- section break -->
-
-
 
 
 ## Spotify

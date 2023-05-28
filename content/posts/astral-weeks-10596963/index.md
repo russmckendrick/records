@@ -22,10 +22,16 @@ genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 ---
 
-{{< img src="astral-weeks-10596963.jpg" title="Astral Weeks by Van Morrison" >}}
+Astral Weeks is the second studio album by Northern Irish singer-songwriter Van Morrison. It was recorded at Century Sound Studios in New York during September and October 1968, and released in November of the same year by Warner Bros. Records.
+The album's music blends folk, blues, jazz, and classical styles, signalling a radical departure from the sound of Morrison's previous pop hits, such as "Brown Eyed Girl" (1967). The lyrics and cover art portray the symbolism equating earthly love and heaven that would often feature in the singer's subsequent records. His lyrics have been described as impressionistic, hypnotic, and modernist, while the record has been categorized as a song cycle or concept album.
+Astral Weeks did not originally receive promotion from Morrison's record label and was not an immediate success with consumers or critics. Its standing eventually improved greatly, with praise given to Morrison's singing, arrangements and songwriting, and the album has been viewed as one of rock music's greatest and most important records (a reputation the singer himself has dismissed). It was placed on numerous widely circulated lists of the best albums of all time and has had an enduring effect on both listeners and musicians[source?].
+Forty years after the album's release, Morrison performed all eight of its songs live for the first time at two Hollywood Bowl concerts in November 2008; this performance was later released as Astral Weeks Live at the Hollywood Bowl.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Part One: In The Beginning
 2. Astral Weeks (7:00)
 3. Beside You (5:10)
@@ -36,17 +42,6 @@ styles: ["Blues Rock", "Acoustic", "Soul", "Folk Rock"]
 8. Madame George (9:25)
 9. Ballerina (7:00)
 10. Slim Slow Slider (3:20)
-
-<!-- section break -->
-
-Astral Weeks is the second studio album by Northern Irish singer-songwriter Van Morrison. It was recorded at Century Sound Studios in New York during September and October 1968, and released in November of the same year by Warner Bros. Records.
-The album's music blends folk, blues, jazz, and classical styles, signalling a radical departure from the sound of Morrison's previous pop hits, such as "Brown Eyed Girl" (1967). The lyrics and cover art portray the symbolism equating earthly love and heaven that would often feature in the singer's subsequent records. His lyrics have been described as impressionistic, hypnotic, and modernist, while the record has been categorized as a song cycle or concept album.
-Astral Weeks did not originally receive promotion from Morrison's record label and was not an immediate success with consumers or critics. Its standing eventually improved greatly, with praise given to Morrison's singing, arrangements and songwriting, and the album has been viewed as one of rock music's greatest and most important records (a reputation the singer himself has dismissed). It was placed on numerous widely circulated lists of the best albums of all time and has had an enduring effect on both listeners and musicians[source?].
-Forty years after the album's release, Morrison performed all eight of its songs live for the first time at two Hollywood Bowl concerts in November 2008; this performance was later released as Astral Weeks Live at the Hollywood Bowl.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astral-weeks/1031002336" >}}<br>

@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
 
-{{< img src="the-singles-10434382.jpg" title="The Singles by Can" >}}
+The Singles is a compilation album of singles and B-sides by the German experimental rock band Can, released in 2017.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Soul Desert
 2. She Brings The Rain
 3. Spoon
@@ -54,13 +56,6 @@ styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 21. Return
 22. Can Can
 23. Hoolah Hoolah (Edit)
-
-<!-- section break -->
-
-The Singles is a compilation album of singles and B-sides by the German experimental rock band Can, released in 2017.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cant-stop-the-feeling-original-song-from-dreamworks/1110121889" >}}<br>

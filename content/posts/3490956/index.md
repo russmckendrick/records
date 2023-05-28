@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Industrial"]
 ---
 
-{{< img src="3490956.jpg" title="ΚΕΦΑΛΗΞΘ by Ministry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. N.W.O. (5:29)
 2. Just One Fix (5:11)
 3. TV II (3:04)
@@ -35,10 +34,6 @@ styles: ["Industrial"]
 7. Psalm 69 (5:29)
 8. Corrosion (4:55)
 9. Grace (3:06)
-
-<!-- section break -->
-
-
 
 
 

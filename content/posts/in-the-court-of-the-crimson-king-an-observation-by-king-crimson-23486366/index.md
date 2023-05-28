@@ -23,19 +23,14 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="in-the-court-of-the-crimson-king-an-observation-by-king-crimson-23486366.jpg" title="In The Court Of The Crimson King (An Observation By King Crimson) by King Crimson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 	21st Century Schizoid Man (Including "Mirrors")
 2. 	I Talk To The Wind
 3. Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow")
 4. Moonchild (Including "The Dream" And "The Illusion")
 5. The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets")
-
-<!-- section break -->
-
-
 
 
 

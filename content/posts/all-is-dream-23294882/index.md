@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="all-is-dream-23294882.jpg" title="All Is Dream by Mercury Rev" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Dark Is Rising
 2. Tides Of The Moon
 3. Chains
@@ -54,10 +53,6 @@ styles: ["Alternative Rock"]
 24. Mr. Moonlight Will Come
 25. Cool Waves
 26. Hercules (Demo)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-is-dream/1601008224" >}}<br>

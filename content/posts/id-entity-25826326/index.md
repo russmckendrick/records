@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="id-entity-25826326.jpg" title="ID.Entity by Riverside" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Friend Or Foe? (7:29)
 2. Landmine Blast (4:50)
 3. Big Tech Brother (7:24)
@@ -38,10 +37,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 7. Self-Aware (8:43)
 8. Age Of Anger (11:56)
 9. Together Again (6:29)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/id-entity-deluxe-edition/1647627440" >}}<br>

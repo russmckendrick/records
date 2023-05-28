@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="nuisance-15932078.jpg" title="Nuisance by Menswear" >}}
+Nuisance is the debut studio album by British rock band Menswear, released on 24 October 1995 by Laurel. The album was preceded by "I'll Manage Somehow", "Daydreamer" and "Stardust"; the former charted in the top 40 while the latter two charted in the top 20. The album peaked at number 11 on the UK album chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 125 West 3rd Street (3:05)
 2. I'll Manage Somehow (2:35)
 3. Sleeping In (4:42)
@@ -41,13 +43,6 @@ styles: ["Indie Rock", "Britpop"]
 12. Stardust (Reprise) (1:12)
 13. Bones and Red Meat
 14. We Love You
-
-<!-- section break -->
-
-Nuisance is the debut studio album by British rock band Menswear, released on 24 October 1995 by Laurel. The album was preceded by "I'll Manage Somehow", "Daydreamer" and "Stardust"; the former charted in the top 40 while the latter two charted in the top 20. The album peaked at number 11 on the UK album chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nuisance/1320067263" >}}<br>

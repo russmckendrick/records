@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="siamese-dream-3255473.jpg" title="Siamese Dream by The Smashing Pumpkins" >}}
+Siamese Dream is the second studio album by American alternative rock band the Smashing Pumpkins, released on July 27, 1993, on Virgin Records. Despite recording sessions fraught with difficulties and tensions, Siamese Dream debuted at number ten on the Billboard 200, and was eventually certified 4× Platinum, with the album selling over six million copies worldwide, cementing the Smashing Pumpkins as a significant group in alternative music.
+Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", "Disarm", and "Rocket". The album received widespread acclaim from critics and audiences alike, with the its musical influences and lyrical material standing out compared to other releases during the alternative rock and grunge movements of its time. The album has since been considered "one of the finest alternative rock albums", and is widely regarded as one of the greatest albums of the 1990s and of all time. Rolling Stone magazine has ranked it between numbers 341 and 362 on various iterations of their 500 Greatest Albums of All Time list.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cherub Rock
 2. Quiet
 3. Today
@@ -41,15 +45,6 @@ styles: ["Alternative Rock"]
 11. Silverfuck
 12. Sweet Sweet
 13. Luna
-
-<!-- section break -->
-
-Siamese Dream is the second studio album by American alternative rock band the Smashing Pumpkins, released on July 27, 1993, on Virgin Records. Despite recording sessions fraught with difficulties and tensions, Siamese Dream debuted at number ten on the Billboard 200, and was eventually certified 4× Platinum, with the album selling over six million copies worldwide, cementing the Smashing Pumpkins as a significant group in alternative music.
-Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", "Disarm", and "Rocket". The album received widespread acclaim from critics and audiences alike, with the its musical influences and lyrical material standing out compared to other releases during the alternative rock and grunge movements of its time. The album has since been considered "one of the finest alternative rock albums", and is widely regarded as one of the greatest albums of the 1990s and of all time. Rolling Stone magazine has ranked it between numbers 341 and 362 on various iterations of their 500 Greatest Albums of All Time list.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/siamese-dream/721207206" >}}<br>

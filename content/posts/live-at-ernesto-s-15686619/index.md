@@ -25,10 +25,9 @@ genres: ["Rock", "Reggae"]
 styles: ["Ska"]
 ---
 
-{{< img src="live-at-ernesto-s-15686619.jpg" title="Live At Ernesto's! by The Slackers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro
 2. Sooner Or Later
 3. Married Girl
@@ -45,10 +44,6 @@ styles: ["Ska"]
 14. Pedophilia
 15. Runaway
 16. The Fried Chicken Song/Mary Mary
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-ernestos/1485048839" >}}<br>

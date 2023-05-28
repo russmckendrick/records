@@ -23,10 +23,12 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
 
-{{< img src="heaven-on-earth-12572591.jpg" title="Heaven On Earth by Belinda Carlisle" >}}
+Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heaven Is A Place On Earth (4:06)
 2. Circle In The Sand (4:26)
 3. I Feel Free (4:49)
@@ -37,13 +39,6 @@ styles: ["Pop Rock", "Ballad"]
 8. Fool For Love (3:56)
 9. Nobody Owns Me (3:12)
 10. Love Never Dies... (5:15)
-
-<!-- section break -->
-
-Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}<br>

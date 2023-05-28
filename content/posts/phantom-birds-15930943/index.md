@@ -20,10 +20,9 @@ genres: ["Jazz", "Funk / Soul", "Blues"]
 styles: ["Psychedelic", "Easy Listening"]
 ---
 
-{{< img src="phantom-birds-15930943.jpg" title="Phantom Birds by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Something In My Eye
 2. You Danced All Night
 3. Phantom Birds
@@ -37,10 +36,6 @@ styles: ["Psychedelic", "Easy Listening"]
 11. That Yellow Bird
 12. Waving Goodbye
 13. Covered In Clowns
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="much-against-everyone-s-advice-4163855.jpg" title="Much Against Everyone's Advice by Soulwax" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Conversation Intercom
 2. Saturday
 3. When Logics Die
@@ -33,10 +32,6 @@ styles: ["Alternative Rock"]
 9. More Than This
 10. Scream
 11. Funny
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}<br>

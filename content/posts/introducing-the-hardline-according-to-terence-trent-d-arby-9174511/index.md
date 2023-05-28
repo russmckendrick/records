@@ -20,10 +20,12 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 ---
 
-{{< img src="introducing-the-hardline-according-to-terence-trent-d-arby-9174511.jpg" title="Introducing The Hardline According To Terence Trent D'Arby by Terence Trent D'Arby" >}}
+Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking back to the classic soul of Sam Cooke and Otis Redding while paving the way for neo-soul. D’Arby emotes through the register-traversing plea “If You Let Me Stay,” the seductively whistling “Wishing Well,” and the gospel-hued “As Yet Untitled” in a rich, deeply rooted rasp. He also dabbles in Caribbean and Middle Eastern rhythms and horn-driven funk, and just plain owns Smokey Robinson’s “Who’s Loving You.” It still feels absolutely contemporary.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. If You All Get To Heaven
 2. If You Let Me Stay
 3. Wishing Well
@@ -35,13 +37,6 @@ styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
 9. Sign Your Name
 10. As Yet Untitled
 11. Who’s Loving You
-
-<!-- section break -->
-
-Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking back to the classic soul of Sam Cooke and Otis Redding while paving the way for neo-soul. D’Arby emotes through the register-traversing plea “If You Let Me Stay,” the seductively whistling “Wishing Well,” and the gospel-hued “As Yet Untitled” in a rich, deeply rooted rasp. He also dabbles in Caribbean and Middle Eastern rhythms and horn-driven funk, and just plain owns Smokey Robinson’s “Who’s Loving You.” It still feels absolutely contemporary.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/introducing-the-hardline-according-to-terence-trent-darby/250551726" >}}<br>

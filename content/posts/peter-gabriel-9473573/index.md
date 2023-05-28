@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="peter-gabriel-9473573.jpg" title="Peter Gabriel  by Peter Gabriel" >}}
+Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. 
+In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rhythm Of The Heat
 2. San Jacinto
 3. I Have The Touch
@@ -35,14 +38,6 @@ styles: ["Art Rock", "Pop Rock", "Prog Rock"]
 6. Lay Your Hands On Me
 7. Wallflower
 8. Kiss Of Life
-
-<!-- section break -->
-
-Peter Gabriel is the third solo studio album by the English rock musician Peter Gabriel, released on 30 May 1980 by Charisma Records. The album, produced by Steve Lillywhite, has been acclaimed as Gabriel's artistic breakthrough as a solo artist. AllMusic wrote that it established him as "one of rock's most ambitious, innovative musicians".Building on the experimental sound of his previous self-titled studio album, it saw Gabriel embracing post-punk and new wave with an art rock sensibility. Gabriel also explored more overtly political material with the anti-war song "Games Without Frontiers" (which became a No. 4 hit and remains his joint highest-charting single in the UK) and the anti-apartheid protest song "Biko", which remembered the murdered activist Steve Biko. 
-In the US, the album was titled Peter Gabriel III. The album is also often referred to as Melt, owing to its cover photograph by Hipgnosis. Some music streaming services currently refer to it as Peter Gabriel 3: Melt.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>

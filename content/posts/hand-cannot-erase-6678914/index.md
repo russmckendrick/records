@@ -42,10 +42,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="hand-cannot-erase-6678914.jpg" title="Hand. Cannot. Erase. by Steven Wilson" >}}
+Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven Wilson. The album was released on 27 February 2015 through Kscope.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. First Regret (2:01)
 2. 3 Years Older (10:18)
 3. Hand Cannot Erase (4:13)
@@ -57,13 +59,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 9. Ancestral (13:30)
 10. Happy Returns  (6:00)
 11. Ascendant Here On... (1:54)
-
-<!-- section break -->
-
-Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven Wilson. The album was released on 27 February 2015 through Kscope.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hand-cannot-erase-deluxe-edition/947842870" >}}<br>

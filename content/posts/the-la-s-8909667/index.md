@@ -25,25 +25,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-la-s-8909667.jpg" title="The La's by The La's" >}}
-
-<!-- section break -->
-
-1. Son Of A Gun
-2. I Can't Sleep
-3. Timeless Melody
-4. Liberty Ship
-5. There She Goes
-6. Doledrum
-7. Feelin'
-8. Way Out
-9. I.O.U.
-10. Freedom Song
-11. Failure
-12. Looking Glass
-
-<!-- section break -->
-
 In early 2021, Tom and Ed Russell were working on a mix for the iconic London club fabric. They knew they wanted a particular tune included, but simply couldn’t find the track anywhere or remember its name. Faced with a deadline and an endless dig through disc logs, the pair changed their approach: They would themselves write the song they could hear. The track became June 2021 single “So U Kno”—an insidious, addictive banger that’s a cornerstone of the Russells’ debut album as Overmono.
 
 It’s an anecdote that reveals a great deal about the brothers’ practical mindset and prodigious abilities. Veterans of the UK dance scene (Tom, the elder Russell, released techno as Truss, while Ed put out drum ’n’ bass as Tessela), the Welsh-raised producers combine for something special here. <i>Good Lies</i> is an extraordinary electronic record: a genre-defying set glistening with purpose, poise and dance-floor delirium. 
@@ -109,6 +90,20 @@ ER: “I remember when Tom sent me the chords for the end and I felt like it rem
     
     
 
+
+## Tracklisting
+1. Son Of A Gun
+2. I Can't Sleep
+3. Timeless Melody
+4. Liberty Ship
+5. There She Goes
+6. Doledrum
+7. Feelin'
+8. Way Out
+9. I.O.U.
+10. Freedom Song
+11. Failure
+12. Looking Glass
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-lies/1659656223" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="pure-cult-the-singles-1984-1995-2646498.jpg" title="Pure Cult The Singles 1984 - 1995 by The Cult" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She Sells Sanctuary (4:12)
 2. Fire Woman (5:07)
 3. Lil' Devil (2:44)
@@ -45,10 +44,6 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 17. Sun King (4:56)
 18. Wild Hearted Son (4:24)
 19. Sweet Soul Sister (3:29)
-
-<!-- section break -->
-
-
 
 
 

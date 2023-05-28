@@ -23,10 +23,17 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="black-sea-14153842.jpg" title="Black Sea by XTC" >}}
+Black Sea is the fourth studio album by the English rock band XTC, released 12 September 1980 on Virgin Records. It is the follow-up to the previous year's Drums and Wires, building upon its focus on guitars and expansive-sounding drums, but with more economical arrangements written with the band's subsequent concert performances in mind, avoiding overdubs unless they could be performed live.
+Like Drums and Wires, Black Sea was recorded at Virgin's Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham. It was originally titled Work Under Pressure in reference to XTC's grueling touring and recording regimen. After their manager complained, frontman Andy Partridge devised Black Sea as a reference to his emotional state while composing the album. From 1980 to 1981, the band supported the album on tour as the opening act for the Police. His fatigue worsened and XTC ceased touring indefinitely by 1982.
+Black Sea was critically acclaimed and remains XTC's second-highest charting British album, placing at number 16 on the UK Albums Chart, as well as their most successful US album, peaking at number 41 on the Billboard 200. It spawned three UK top 40 singles: "Generals and Majors" (number 32), "Towers of London" (number 31), and "Sgt. Rock (Is Going to Help Me)" (number 16). Another single, "Respectable Street", was banned from BBC radio due to its references to abortion and a "Sony Entertainment Centre".
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Respectable Street
 2. Generals And Majors
 3. Living Through Another Cuba
@@ -38,18 +45,6 @@ styles: ["New Wave"]
 9. Burning With Optimism's Flames
 10. Sgt. Rock (Is Going To Help Me)
 11. Travels In Nihilon
-
-<!-- section break -->
-
-Black Sea is the fourth studio album by the English rock band XTC, released 12 September 1980 on Virgin Records. It is the follow-up to the previous year's Drums and Wires, building upon its focus on guitars and expansive-sounding drums, but with more economical arrangements written with the band's subsequent concert performances in mind, avoiding overdubs unless they could be performed live.
-Like Drums and Wires, Black Sea was recorded at Virgin's Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham. It was originally titled Work Under Pressure in reference to XTC's grueling touring and recording regimen. After their manager complained, frontman Andy Partridge devised Black Sea as a reference to his emotional state while composing the album. From 1980 to 1981, the band supported the album on tour as the opening act for the Police. His fatigue worsened and XTC ceased touring indefinitely by 1982.
-Black Sea was critically acclaimed and remains XTC's second-highest charting British album, placing at number 16 on the UK Albums Chart, as well as their most successful US album, peaking at number 41 on the Billboard 200. It spawned three UK top 40 singles: "Generals and Majors" (number 32), "Towers of London" (number 31), and "Sgt. Rock (Is Going to Help Me)" (number 16). Another single, "Respectable Street", was banned from BBC radio due to its references to abortion and a "Sony Entertainment Centre".
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591" >}}<br>

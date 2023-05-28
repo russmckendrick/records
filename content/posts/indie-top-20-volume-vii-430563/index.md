@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="indie-top-20-volume-vii-430563.jpg" title="Indie Top 20 Volume VII by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Monkey Gone To Heaven (2:59)
 2. Made Of Stone (4:14)
 3. Ana Ng (3:18)
@@ -47,10 +46,6 @@ styles: ["Indie Rock"]
 18. Preachin' & Ramblin' (3:52)
 19. White Knuckle Ride (2:46)
 20. Deanna (3:43)
-
-<!-- section break -->
-
-
 
 
 

@@ -17,10 +17,14 @@ genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
 
-{{< img src="the-album-13704037.jpg" title="The Album by Mantronix" >}}
+The Album is the debut album by the group Mantronix.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. This Side
 2. Bassline (5:24)
 3. Needle To The Groove (3:41)
@@ -30,15 +34,6 @@ styles: ["Electro"]
 7. Ladies (6:54)
 8. Get Stupid "Fresh" Part I (3:48)
 9. Fresh Is The Word (3:48)
-
-<!-- section break -->
-
-The Album is the debut album by the group Mantronix.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-album/341928107" >}}<br>

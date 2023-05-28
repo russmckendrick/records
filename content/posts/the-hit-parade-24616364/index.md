@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-hit-parade-24616364.jpg" title="The Hit Parade by The Wedding Present" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blue Eyes
 2. Go-Go Dancer
 3. Three
@@ -83,10 +82,6 @@ styles: ["Indie Rock"]
 46. Go Wild In The Country 
 47. U.F.O.
 48. Step Into Christmas 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hit-parade/285881864" >}}<br>

@@ -74,10 +74,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Heavy Metal"]
 ---
 
-{{< img src="epicloud-3900642.jpg" title="Epicloud by Devin Townsend Project" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Effervescent!
 2. True North
 3. Lucky Animals (The New Beige)
@@ -105,10 +104,6 @@ styles: ["Prog Rock", "Heavy Metal"]
 25. Lessons (1:06)
 26. Hold On (3:57)
 27. Angel (6:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/epicloud/1045671472" >}}<br>

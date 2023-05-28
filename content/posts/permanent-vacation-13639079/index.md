@@ -25,10 +25,14 @@ genres: ["Rock", "Blues"]
 styles: ["Hard Rock", "Glam"]
 ---
 
-{{< img src="permanent-vacation-13639079.jpg" title="Permanent Vacation by Aerosmith" >}}
+Permanent Vacation is the ninth studio album by American rock band Aerosmith, released by Geffen Records on August 25, 1987. The album marks the band's shift to a pop-metal sound that they would maintain up to 2001's Just Push Play.Three hit singles were released from the album, "Dude (Looks Like a Lady)", "Angel", and "Rag Doll". It was their first to employ songwriters outside the band, instead of featuring songs solely composed by them. This came at the suggestion of executive John Kalodner. He also pushed the band to work with producer Bruce Fairbairn, who remained with them for another two albums. It was also the first Aerosmith album to be promoted by heavy music video airplay on MTV. Though Done with Mirrors was intended to mark Aerosmith's comeback, Permanent Vacation is often considered their true comeback, as it was the band's first truly popular album since their reunion. "Rag Doll", "Dude (Looks Like a Lady)", and "Angel" became major hits (all three charted in the Top 20) and helped Permanent Vacation become the band's greatest success in a decade.
+Permanent Vacation has sold over five million copies in the U.S.In the UK, it was the first Aerosmith album to attain both Silver (60,000 units sold) and Gold (100,000 units sold) certification by the British Phonographic Industry, achieving these in July 1989 and March 1990 respectively.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heart's Done Time (4:42)
 2. Magic Touch (4:40)
 3. Rag Doll (4:21)
@@ -41,15 +45,6 @@ styles: ["Hard Rock", "Glam"]
 10. Permanent Vacation (4:52)
 11. I'm Down (2:20)
 12. The Movie (4:00)
-
-<!-- section break -->
-
-Permanent Vacation is the ninth studio album by American rock band Aerosmith, released by Geffen Records on August 25, 1987. The album marks the band's shift to a pop-metal sound that they would maintain up to 2001's Just Push Play.Three hit singles were released from the album, "Dude (Looks Like a Lady)", "Angel", and "Rag Doll". It was their first to employ songwriters outside the band, instead of featuring songs solely composed by them. This came at the suggestion of executive John Kalodner. He also pushed the band to work with producer Bruce Fairbairn, who remained with them for another two albums. It was also the first Aerosmith album to be promoted by heavy music video airplay on MTV. Though Done with Mirrors was intended to mark Aerosmith's comeback, Permanent Vacation is often considered their true comeback, as it was the band's first truly popular album since their reunion. "Rag Doll", "Dude (Looks Like a Lady)", and "Angel" became major hits (all three charted in the Top 20) and helped Permanent Vacation become the band's greatest success in a decade.
-Permanent Vacation has sold over five million copies in the U.S.In the UK, it was the first Aerosmith album to attain both Silver (60,000 units sold) and Gold (100,000 units sold) certification by the British Phonographic Industry, achieving these in July 1989 and March 1990 respectively.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/permanent-vacation/1440823323" >}}<br>

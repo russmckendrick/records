@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="last-place-9923055.jpg" title="Last Place by Grandaddy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Way We Won't
 2. Brush With The Wild
 3. Evermore
@@ -38,10 +37,6 @@ styles: []
 9. Jed The 4th
 10. A Lost Machine
 11. Songbird Son
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-place/1435528003" >}}<br>

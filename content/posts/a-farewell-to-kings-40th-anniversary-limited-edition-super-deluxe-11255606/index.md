@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606.jpg" title="A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe) by Rush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Farewell To Kings
 2. A Farewell To Kings (5:56)
 3. Xanadu (11:12)
@@ -91,10 +90,6 @@ styles: ["Prog Rock"]
 67. A Farewell To Kings (5:53)
 68. Xanadu (11:08)
 69. Closer To The Heart (2:56)
-
-<!-- section break -->
-
-
 
 
 

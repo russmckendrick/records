@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ---
 
-{{< img src="greatest-hits-volume-i-volume-ii-4810997.jpg" title="Greatest Hits Volume I & Volume II by Billy Joel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Piano Man (5:36)
 2. Say Goodbye To Hollywood (3:53)
 3. New York State Of Mind (5:58)
@@ -47,10 +46,6 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 19. The Longest Time (3:35)
 20. You're Only Human (Second Wind) (4:47)
 21. The Night Is Still Young (5:27)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971" >}}<br>

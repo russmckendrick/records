@@ -22,10 +22,12 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="actually-11648940.jpg" title="Actually by Pet Shop Boys" >}}
+Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. According to Neil Tennant and music historian Wayne Studer, Actually loosely critiques Thatcherism, the political zeitgeist of the 1980s, and was recorded in anticipation of Margaret Thatcher's re-election.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. One More Chance (5:28)
 2. What Have I Done To Deserve This? (4:21)
 3. Shopping (3:37)
@@ -36,13 +38,6 @@ styles: ["Synth-pop"]
 8. I Want To Wake Up (5:08)
 9. Heart (3:57)
 10. King's Cross (5:09)
-
-<!-- section break -->
-
-Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. According to Neil Tennant and music historian Wayne Studer, Actually loosely critiques Thatcherism, the political zeitgeist of the 1980s, and was recorded in anticipation of Margaret Thatcher's re-election.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/actually-2018-remaster/1645128416" >}}<br>

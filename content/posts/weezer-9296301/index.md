@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Power Pop", "Alternative Rock"]
 ---
 
-{{< img src="weezer-9296301.jpg" title="Weezer by Weezer" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Name Is Jonas (3:24)
 2. No One Else (3:04)
 3. The World Has Turned And Left Me Here (4:19)
@@ -37,10 +36,6 @@ styles: ["Power Pop", "Alternative Rock"]
 8. In The Garage (3:55)
 9. Holiday (3:24)
 10. Only In Dreams (7:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}<br>

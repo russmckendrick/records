@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="ziltoid-dark-matters-7514406.jpg" title="Ziltoid (Dark Matters) by Devin Townsend Project" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Z2
 2. From Sleep Awake
 3. Ziltodian Empire
@@ -43,10 +42,6 @@ styles: []
 20. Ziltoid Goes Home
 21. Through The Wormhole
 22. Dimension Z
-
-<!-- section break -->
-
-
 
 
 

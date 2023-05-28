@@ -20,10 +20,16 @@ genres: ["Electronic"]
 styles: ["Industrial", "Synth-pop"]
 ---
 
-{{< img src="pretty-hate-machine-3004371.jpg" title="Pretty Hate Machine by Nine Inch Nails" >}}
+Pretty Hate Machine is the debut studio album by American industrial rock band Nine Inch Nails, released by TVT Records on October 20, 1989. Production of the record was handled by NIN frontman 
+Trent Reznor and English producer Flood, among other contributors.
+The album features a heavily synth-driven electronic sound blended with industrial and rock elements. Much like the band's later work, the album's lyrics contain themes of angst, betrayal, and lovesickness. The record was promoted with the singles "Down in It", "Head Like a Hole", and "Sin", as well as the accompanying tour. A remastered edition was released in 2010.
+Although the record was successful, reaching No. 75 in the US and receiving highly favorable reviews from critics, Reznor (the band's only official member until 2016) feuded with TVT over promotion of the album, which led him to eventually sign with Interscope Records. Pretty Hate Machine was later certified triple-platinum by RIAA, becoming one of the first independently released albums to do so, and was included on several lists of the best releases of the 1980s. In 2020, Rolling Stone ranked Pretty Hate Machine at number 453 on its "500 Greatest Albums of All Time" list.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Head Like A Hole (4:59)
 2. Terrible Lie (4:38)
 3. Down In It (3:46)
@@ -34,17 +40,6 @@ styles: ["Industrial", "Synth-pop"]
 8. That's What I Get (4:30)
 9. The Only Time (4:47)
 10. Ringfinger (5:45)
-
-<!-- section break -->
-
-Pretty Hate Machine is the debut studio album by American industrial rock band Nine Inch Nails, released by TVT Records on October 20, 1989. Production of the record was handled by NIN frontman 
-Trent Reznor and English producer Flood, among other contributors.
-The album features a heavily synth-driven electronic sound blended with industrial and rock elements. Much like the band's later work, the album's lyrics contain themes of angst, betrayal, and lovesickness. The record was promoted with the singles "Down in It", "Head Like a Hole", and "Sin", as well as the accompanying tour. A remastered edition was released in 2010.
-Although the record was successful, reaching No. 75 in the US and receiving highly favorable reviews from critics, Reznor (the band's only official member until 2016) feuded with TVT over promotion of the album, which led him to eventually sign with Interscope Records. Pretty Hate Machine was later certified triple-platinum by RIAA, becoming one of the first independently released albums to do so, and was included on several lists of the best releases of the 1980s. In 2020, Rolling Stone ranked Pretty Hate Machine at number 453 on its "500 Greatest Albums of All Time" list.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pretty-hate-machine-remastered/1440940694" >}}<br>

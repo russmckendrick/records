@@ -34,10 +34,9 @@ genres: ["Rock"]
 styles: ["Grunge"]
 ---
 
-{{< img src="jar-of-flies-sap-3566414.jpg" title="Jar Of Flies / Sap by Alice In Chains" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jar Of Flies
 2. Rotten Apple
 3. Nutshell
@@ -52,10 +51,6 @@ styles: ["Grunge"]
 12. Right Turn
 13. Am I Inside
 14. Love Song
-
-<!-- section break -->
-
-
 
 
 

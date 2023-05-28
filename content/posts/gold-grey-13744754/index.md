@@ -45,10 +45,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ---
 
-{{< img src="gold-grey-13744754.jpg" title="Gold & Grey by Baroness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Front Toward Enemy
 2. I’m Already Gone
 3. Seasons
@@ -66,10 +65,6 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 15. Borderlines
 16. Assault On East Falls
 17. Pale Sun
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-grey/1455859673" >}}<br>

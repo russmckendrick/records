@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="english-electric-part-two-14252544.jpg" title="English Electric Part Two by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Make Some Noise
 2. Worked Out
 3. Keeper Of Abbeys
@@ -38,10 +37,6 @@ styles: ["Prog Rock"]
 9. East Coast Racer
 10. The Permanent Way
 11. Curator Of Butterflies
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-two/611682743" >}}<br>

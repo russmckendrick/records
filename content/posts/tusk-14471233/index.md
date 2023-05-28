@@ -31,10 +31,15 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="tusk-14471233.jpg" title="Tusk by Fleetwood Mac" >}}
+Tusk is the twelfth studio album by British-American rock band Fleetwood Mac, released as a double album on 12 October 1979 by Warner Bros. Records. It is considered more experimental than their previous albums, partly as a consequence of Lindsey Buckingham's sparser songwriting arrangements and the influence of post-punk. The production costs were initially estimated to be about $1 million but many years later were revealed to be about $1.4 million (equivalent to $5.23 million in 2021), making it the most expensive rock album recorded to that date.The band embarked on a nine-month tour to promote Tusk. They travelled extensively across the world, including the U.S., Australia, New Zealand, Japan, France, Belgium, Germany, the Netherlands, and the UK. In Germany, they shared the bill with Bob Marley. On this world tour, the band recorded music for the Fleetwood Mac Live album, released in 1980.Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk was regarded as a commercial failure by the label, selling four million copies. In 2013, NME ranked Tusk at number 445 in their list of "500 Greatest Albums of All Time". The album was also included in the book 1001 Albums You Must Hear Before You Die. In 2000, it was voted number 853 in Colin Larkin's All Time Top 1000 Albums.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Over & Over (4:35)
 2. The Ledge (2:02)
 3. Think About Me (2:44)
@@ -55,16 +60,6 @@ styles: ["Classic Rock"]
 18. Walk A Thin Line (3:44)
 19. Tusk (3:36)
 20. Never Forget (3:40)
-
-<!-- section break -->
-
-Tusk is the twelfth studio album by British-American rock band Fleetwood Mac, released as a double album on 12 October 1979 by Warner Bros. Records. It is considered more experimental than their previous albums, partly as a consequence of Lindsey Buckingham's sparser songwriting arrangements and the influence of post-punk. The production costs were initially estimated to be about $1 million but many years later were revealed to be about $1.4 million (equivalent to $5.23 million in 2021), making it the most expensive rock album recorded to that date.The band embarked on a nine-month tour to promote Tusk. They travelled extensively across the world, including the U.S., Australia, New Zealand, Japan, France, Belgium, Germany, the Netherlands, and the UK. In Germany, they shared the bill with Bob Marley. On this world tour, the band recorded music for the Fleetwood Mac Live album, released in 1980.Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk was regarded as a commercial failure by the label, selling four million copies. In 2013, NME ranked Tusk at number 445 in their list of "500 Greatest Albums of All Time". The album was also included in the book 1001 Albums You Must Hear Before You Die. In 2000, it was voted number 853 in Colin Larkin's All Time Top 1000 Albums.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tusk-remastered/1055803853" >}}<br>

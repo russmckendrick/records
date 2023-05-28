@@ -21,10 +21,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Ambient"]
 ---
 
-{{< img src="the-race-for-space-6678659.jpg" title="The Race For Space by Public Service Broadcasting" >}}
+The Race for Space is the second studio album by British alternative group Public Service Broadcasting, released on 23 February 2015. Working with sound samples from the British Film Institute, the album relives the story of the American and Soviet space race from 1957–1972. The opening track features the speech by John F. Kennedy on 12 September 1962 at Rice University.
+To launch the album, the band played two concerts on 26 and 27 February 2015 at the National Space Centre in Leicester and went on to complete a 14-date tour of the UK and Ireland to support the album. The band have expressed concern in the past about playing the whole album cover to cover live, due to the subject matter of track 4 ("Fire in the Cockpit") but did so for the first time at Manchester Science Festival in October 2016.The album reached number 11 in the UK chart and number 1 in the UK Indie Albums Chart the week following its release.  The vinyl edition was the 5th highest selling record of 2015 in the UK.On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing in 1969, Public Service Broadcasting performed a specially commissioned new orchestral arrangement of the album at the Royal Albert Hall in London, as part of the summer's Proms programme. The performance was broadcast live on BBC Radio 3 and the day after on BBC Four. The group had also performed album track "Go!" live on BBC Two's Newsnight programme on the eve of the fiftieth anniversary.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Race For Space
 2. Sputnik
 3. Gagarin
@@ -34,14 +37,6 @@ styles: ["Ambient"]
 7. Valentina
 8. Go!
 9. Tomorrow
-
-<!-- section break -->
-
-The Race for Space is the second studio album by British alternative group Public Service Broadcasting, released on 23 February 2015. Working with sound samples from the British Film Institute, the album relives the story of the American and Soviet space race from 1957–1972. The opening track features the speech by John F. Kennedy on 12 September 1962 at Rice University.
-To launch the album, the band played two concerts on 26 and 27 February 2015 at the National Space Centre in Leicester and went on to complete a 14-date tour of the UK and Ireland to support the album. The band have expressed concern in the past about playing the whole album cover to cover live, due to the subject matter of track 4 ("Fire in the Cockpit") but did so for the first time at Manchester Science Festival in October 2016.The album reached number 11 in the UK chart and number 1 in the UK Indie Albums Chart the week following its release.  The vinyl edition was the 5th highest selling record of 2015 in the UK.On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing in 1969, Public Service Broadcasting performed a specially commissioned new orchestral arrangement of the album at the Royal Albert Hall in London, as part of the summer's Proms programme. The performance was broadcast live on BBC Radio 3 and the day after on BBC Four. The group had also performed album track "Go!" live on BBC Two's Newsnight programme on the eve of the fiftieth anniversary.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-race-for-space/947928979" >}}<br>

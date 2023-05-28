@@ -114,10 +114,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 ---
 
-{{< img src="brilliant-adventure-1992-2001-21131182.jpg" title="Brilliant Adventure [1992-2001] by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Tie White Noise
 2. The Wedding (5:07)
 3. You've Been Around (4:43)
@@ -257,10 +256,6 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 137. Something In The Air (American Psycho Remix)
 138. Seven (Marius De Vries Mix)
 139. Pictures Of Lily
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brilliant-adventure-1992-2001/1589252338" >}}<br>

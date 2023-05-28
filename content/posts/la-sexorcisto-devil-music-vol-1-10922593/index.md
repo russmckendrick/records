@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Groove Metal"]
 ---
 
-{{< img src="la-sexorcisto-devil-music-vol-1-10922593.jpg" title="La Sexorcisto: Devil Music Vol. 1 by White Zombie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Welcome To Planet Motherfucker / Psychoholic Slag (6:21)
 2. Knuckle Duster (Radio 1-A) (0:24)
 3. Thunder Kiss '65 (3:53)
@@ -41,10 +40,6 @@ styles: ["Heavy Metal", "Groove Metal"]
 12. Grindhouse (A Go-Go) (4:04)
 13. Starface (5:02)
 14. Warp Asylum (6:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-volume-1/1440905956" >}}<br>

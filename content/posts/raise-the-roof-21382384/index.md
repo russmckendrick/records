@@ -25,10 +25,14 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock"]
 ---
 
-{{< img src="raise-the-roof-21382384.jpg" title="Raise The Roof by Robert Plant" >}}
+Robert Plant and Alison Krauss’ 2007 collaborative album <i>Raising Sand</i> remains, nearly a decade and a half after its release, a landmark record in roots music. The LP earned Plant, of Led Zeppelin fame, and reigning bluegrass queen Krauss five Grammys at the 2009 ceremony, including the coveted Album of the Year trophy, among many other accolades. The album also offered a new vision for how artists could work within an already nebulous genre, with the two recording favourite songs new and old for a collection that still sounds timeless.<br />
+Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick right back up where they left off. Still present are the pair’s intimacy, their contrasting but complementary vocal styles and, notably, the gentle hand of producer T Bone Burnett, who also helmed <i>Raising Sand</i>. While much remains the same, <i>Raise the Roof</i> is a decidedly larger affair than its predecessor, even in its quieter moments, thanks likely to each artist’s growth via work with other projects (Band of Joy and Sensational Space Shifters for Plant; long-time band Union Station for Krauss) in the intervening decade-plus. Covered artists include Calexico (“Quattro [World Drifts In]”), Allen Toussaint (“Trouble With My Lover”) and Merle Haggard (“Going Where the Lonely Go”), with the album’s tracklist revealing a catholic breadth of influences. The duo are backed by some of Nashville’s finest players, including guitarists Buddy Miller and Bill Frisell.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Quattro (World Drifts In) (4:35)
 2. The Price Of Love (4:50)
 3. Go Your Way (5:07)
@@ -41,15 +45,6 @@ styles: ["Blues Rock", "Folk Rock"]
 10. High And Lonesome (4:33)
 11. Going Where The Lonely Go (4:10)
 12. Somebody Was Watching Over Me (5:03)
-
-<!-- section break -->
-
-Robert Plant and Alison Krauss’ 2007 collaborative album <i>Raising Sand</i> remains, nearly a decade and a half after its release, a landmark record in roots music. The LP earned Plant, of Led Zeppelin fame, and reigning bluegrass queen Krauss five Grammys at the 2009 ceremony, including the coveted Album of the Year trophy, among many other accolades. The album also offered a new vision for how artists could work within an already nebulous genre, with the two recording favourite songs new and old for a collection that still sounds timeless.<br />
-Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick right back up where they left off. Still present are the pair’s intimacy, their contrasting but complementary vocal styles and, notably, the gentle hand of producer T Bone Burnett, who also helmed <i>Raising Sand</i>. While much remains the same, <i>Raise the Roof</i> is a decidedly larger affair than its predecessor, even in its quieter moments, thanks likely to each artist’s growth via work with other projects (Band of Joy and Sensational Space Shifters for Plant; long-time band Union Station for Krauss) in the intervening decade-plus. Covered artists include Calexico (“Quattro [World Drifts In]”), Allen Toussaint (“Trouble With My Lover”) and Merle Haggard (“Going Where the Lonely Go”), with the album’s tracklist revealing a catholic breadth of influences. The duo are backed by some of Nashville’s finest players, including guitarists Buddy Miller and Bill Frisell.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raise-the-roof-deluxe-edition/1580054664" >}}<br>

@@ -23,24 +23,6 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="daddy-s-home-18670924.jpg" title="Daddy's Home by St. Vincent" >}}
-
-<!-- section break -->
-
-1. Pay Your Way In Pain (3:03)
-2. Down And Out Downtown (3:42)
-3. Daddy's Home (3:19)
-4. Live In The Dream (6:29)
-5. The Melting Of The Sun (4:17)
-6. The Laughing Man (3:25)
-7. Down (3:26)
-8. Somebody Like Me (3:53)
-9. My Baby Wants A Baby (3:20)
-10. ...At The Holiday Party (4:17)
-11. Candy Darling (1:55)
-
-<!-- section break -->
-
 In the wake of 2017’s <i>MASSEDUCTION</i>, St. Vincent mastermind Annie Clark was in search of change. “That record was very much about structure and stricture—everything I wore was very tight, very controlled, very angular,” she tells Apple Music. “But there's only so far you can go with that before you're like, ‘Oh, what's over here?’” What Clark found was a looseness that came from exploring sounds she’d grown up with, “this kind of early-’70s, groove-ish, soul-ish, jazz-ish style in my head since I was a little kid,” she says. “I was raised on Steely Dan records and Stevie Wonder records like [1973’s] <i>Innervisions</i> and [1972’s] <i>Talking Book</i> and [1974’s] <i>Fulfillingness’ First Finale</i>. That was the wheelhouse that I wanted to play in. I wanted to make new stories with older sounds.”<br />
 Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> draws heavily from the 1970s, but its title was inspired, in part, by recent events in Clark’s personal life: her father’s 2019 release from prison, where he’d served nearly a decade for his role in a stock manipulation scheme. It’s as much about our capacity to evolve as it is embracing the humanity in our flaws. “I wanted to make sure that even if anybody didn't know my personal autobiography that it would be open to interpretation as to whether Daddy is a father or Daddy is a boyfriend or Daddy is a pimp—I wanted that to be ambiguous,” she says. “Part of the title is literal: ‘Yeah, here he is, he's home!’ And then another part of it is ‘It’s 10 years later. I’ve done a lot in those 10 years. I have responsibility. I have shit I'm seriously doing. It’s playing with it: Am I daddy's girl? I don't know. Maybe. But I'm also Daddy, too, now.” Here, Clark guides us through a few of the album’s key tracks.<br />
 <b>“Pay Your Way in Pain”</b>
@@ -58,6 +40,19 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
     
     
 
+
+## Tracklisting
+1. Pay Your Way In Pain (3:03)
+2. Down And Out Downtown (3:42)
+3. Daddy's Home (3:19)
+4. Live In The Dream (6:29)
+5. The Melting Of The Sun (4:17)
+6. The Laughing Man (3:25)
+7. Down (3:26)
+8. Somebody Like Me (3:53)
+9. My Baby Wants A Baby (3:20)
+10. ...At The Holiday Party (4:17)
+11. Candy Darling (1:55)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daddys-home/1552955481" >}}<br>

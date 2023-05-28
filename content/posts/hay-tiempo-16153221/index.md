@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Country Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="hay-tiempo-16153221.jpg" title="¡Hay Tiempo! by Menswear" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Every Sounds A Melody (3:02)
 2. Wait For The Sun (3:22)
 3. Silver Tongue (3:51)
@@ -36,10 +35,6 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 8. Inside The Dream (3:12)
 9. Holding Tight (2:24)
 10. Tomorrow (3:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hay-tiempo/1525715715" >}}<br>

@@ -16,10 +16,12 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="true-colours-2997222.jpg" title="True Colours by Split Enz" >}}
+True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Got You (3:24)
 2. Shark Attack (2:52)
 3. What's The Matter With You (3:02)
@@ -31,13 +33,6 @@ styles: ["New Wave", "Pop Rock"]
 9. Poor Boy (3:19)
 10. How Can I Resist Her (3:26)
 11. The Choral Sea (4:29)
-
-<!-- section break -->
-
-True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}<br>

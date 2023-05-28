@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="indie-cindy-5610537.jpg" title="Indie Cindy by Pixies" >}}
+Indie Cindy is the fifth studio album by the American alternative rock band the Pixies. Released in April 2014, it was the band's first album since 1991's Trompe le Monde, and the first Pixies album not to feature bass guitar player Kim Deal. Instead, bass guitar duties on the album are handled by Simon "Ding" Archer, a former member of the British post-punk band The Fall.The album combines all the songs from the band's 2013–14 extended play releases—EP1, EP2, and EP3—which were recorded and produced in 2012 by Gil Norton, who produced the band's previous albums Doolittle, Bossanova, and Trompe le Monde.Limited numbers of vinyl copies of the album were released on Record Store Day 2014 (double album but pressed at 45 rpm), 10 days prior to the album's full release. These copies came with a single-sided 7" single of "Women of War". The album was released in North America on April 29, 2014 as a digital download, digipak CD and 2LP vinyl as well as a deluxe edition on CD or vinyl which included a live CD and a 40-page hardback book.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. What Goes Boom
 2. Greens And Blues
 3. Indie Cindy
@@ -59,15 +63,6 @@ styles: ["Indie Rock"]
 22. Andro Queen (3:23)
 23. Snakes (3:45)
 24. Jaime Bravo (4:24)
-
-<!-- section break -->
-
-Indie Cindy is the fifth studio album by the American alternative rock band the Pixies. Released in April 2014, it was the band's first album since 1991's Trompe le Monde, and the first Pixies album not to feature bass guitar player Kim Deal. Instead, bass guitar duties on the album are handled by Simon "Ding" Archer, a former member of the British post-punk band The Fall.The album combines all the songs from the band's 2013–14 extended play releases—EP1, EP2, and EP3—which were recorded and produced in 2012 by Gil Norton, who produced the band's previous albums Doolittle, Bossanova, and Trompe le Monde.Limited numbers of vinyl copies of the album were released on Record Store Day 2014 (double album but pressed at 45 rpm), 10 days prior to the album's full release. These copies came with a single-sided 7" single of "Women of War". The album was released in North America on April 29, 2014 as a digital download, digipak CD and 2LP vinyl as well as a deluxe edition on CD or vinyl which included a live CD and a 40-page hardback book.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/indie-cindy/1589760347" >}}<br>

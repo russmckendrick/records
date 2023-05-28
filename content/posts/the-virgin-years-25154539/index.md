@@ -26,10 +26,9 @@ genres: ["Electronic"]
 styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-virgin-years-25154539.jpg" title="The Virgin Years by The Human League" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dare
 2. The Things That Dreams Are Made Of (4:14)
 3. Open Your Heart (3:53)
@@ -81,10 +80,6 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 49. The Stars Are Going Out (4:04)
 50. Let's Get Together Again (4:58)
 51. Get It Right This Time (4:12)
-
-<!-- section break -->
-
-
 
 
 

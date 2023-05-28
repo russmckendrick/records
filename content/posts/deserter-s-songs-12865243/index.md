@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="deserter-s-songs-12865243.jpg" title="Deserter's Songs by Mercury Rev" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Holes (5:55)
 2. Tonite It Shows (3:40)
 3. Endlessly (4:25)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 9. The Funny Bird (5:51)
 10. Pick Up If You're There (3:05)
 11. Delta Sun Bottleneck Stomp (6:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deserters-songs-remastered/1523531674" >}}<br>

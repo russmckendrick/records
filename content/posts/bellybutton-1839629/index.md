@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Power Pop"]
 ---
 
-{{< img src="bellybutton-1839629.jpg" title="Bellybutton by Jellyfish" >}}
+Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Man I Used To Be
 2. That Is Why
 3. The King Is Half-Undressed
@@ -35,13 +37,6 @@ styles: ["Alternative Rock", "Power Pop"]
 8. Bedspring Kiss
 9. Baby's Coming Back
 10. Calling Sarah
-
-<!-- section break -->
-
-Bellybutton is the debut album by American rock band Jellyfish, released on July 27, 1990 on Charisma Records. It was recorded after Andy Sturmer and Roger Manning's departure from Beatnik Beatch and Jason Falkner's departure from the Three O'Clock. The album was recorded in Schnee Studios in North Hollywood and produced by Albhy Galuten and Jack Joseph Puig.Bellybutton was released to critical acclaim from contemporary music critics and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}<br>

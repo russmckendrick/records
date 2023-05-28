@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="seven-11285126.jpg" title="Seven by James" >}}
+Seven is the fourth studio album by English rock band James. It was released on 17 February 1992, through Fontana Records. After writing new material in their practice space, the band began recording at The Manor Studios. The sessions lasted for several months, with the band producing the proceedings themselves. After a lack of progress, Fontana halted the sessions, and sent them to work at Olympic Studios with Martin "Youth" Glover. Half of the songs were produced by Youth, while the remainder was produced between James and Steve Chase. Described as a stadium rock album, Seven drew comparison to the likes of Simple Minds and U2.
+Preceded by a three-month tour of the United Kingdom, "Sound" was released as the lead single in November 1991, which was then followed the second single "Born of Frustration" in January 1992. To promote the album, the band embarked on a tour of the United States, which coincided with the release of the third single "Ring the Bells" in March 1992. James played their sole UK headlining show at the Alton Towers leisure park in July 1992 to a crowd of 30,000. Two days after the show, "Seven" was released as the fourth and final single. Following this, the band toured Europe and supported Neil Young on his west coast US tour, which was succeeded by a support slot for the Soup Dragons.
+Seven received mixed reviews from music critics, some of whom noted the album's bigger sound. It peaked at number two in the UK and number 45 in Sweden. "Sound", "Born of Frustration", "Ring the Bells", and "Seven" all charted in the UK, the first three reaching the top 40. Outside the UK, "Sound" reached the top 40 in Australia, Ireland, and Portugal, while "Born of Frustration" appeared on the US Billboard Alternative Airplay chart, and in the Netherlands. Seven was later certified gold in the UK.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Born Of Frustration (4:22)
 2. Ring The Bells (4:44)
 3. Sound (6:40)
@@ -46,15 +50,6 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 9. Heavens (3:56)
 10. Protect Me (3:06)
 11. Seven (3:24)
-
-<!-- section break -->
-
-Seven is the fourth studio album by English rock band James. It was released on 17 February 1992, through Fontana Records. After writing new material in their practice space, the band began recording at The Manor Studios. The sessions lasted for several months, with the band producing the proceedings themselves. After a lack of progress, Fontana halted the sessions, and sent them to work at Olympic Studios with Martin "Youth" Glover. Half of the songs were produced by Youth, while the remainder was produced between James and Steve Chase. Described as a stadium rock album, Seven drew comparison to the likes of Simple Minds and U2.
-Preceded by a three-month tour of the United Kingdom, "Sound" was released as the lead single in November 1991, which was then followed the second single "Born of Frustration" in January 1992. To promote the album, the band embarked on a tour of the United States, which coincided with the release of the third single "Ring the Bells" in March 1992. James played their sole UK headlining show at the Alton Towers leisure park in July 1992 to a crowd of 30,000. Two days after the show, "Seven" was released as the fourth and final single. Following this, the band toured Europe and supported Neil Young on his west coast US tour, which was succeeded by a support slot for the Soup Dragons.
-Seven received mixed reviews from music critics, some of whom noted the album's bigger sound. It peaked at number two in the UK and number 45 in Sweden. "Sound", "Born of Frustration", "Ring the Bells", and "Seven" all charted in the UK, the first three reaching the top 40. Outside the UK, "Sound" reached the top 40 in Australia, Ireland, and Portugal, while "Born of Frustration" appeared on the US Billboard Alternative Airplay chart, and in the Netherlands. Seven was later certified gold in the UK.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seven-digitally-remastered/1444121874" >}}<br>

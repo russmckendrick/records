@@ -39,10 +39,9 @@ genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
 
-{{< img src="assembly-17989276.jpg" title="Assembly by Joe Strummer" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Coma Girl
 2. Johnny Appleseed
 3. I Fought The Law (Live)
@@ -59,10 +58,6 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 14. Yalla Yalla
 15. Redemption Song
 16. Junco Partner (Acoustic)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/assembly/1550840015" >}}<br>

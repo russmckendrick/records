@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="all-this-will-be-yours-14311736.jpg" title="All This Will Be Yours by Bruce Soord" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Secrets I Know (2:24)
 2.  Our Gravest Threat Apart (4:14)
 3. The Solitary Path Of A Convicted Man (3:44)
@@ -33,10 +32,6 @@ styles: ["Prog Rock"]
 7. You Hear The Voices (6:54)
 8. Cut The Flowers (4:35)
 9. One Day I Will Leave You (5:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-this-will-be-yours/1474856040" >}}<br>

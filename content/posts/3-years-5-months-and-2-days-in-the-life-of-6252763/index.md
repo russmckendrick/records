@@ -17,10 +17,13 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-{{< img src="3-years-5-months-and-2-days-in-the-life-of-6252763.jpg" title="3 Years, 5 Months And 2 Days In The Life Of... by Arrested Development" >}}
+3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
+The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Man's Final Frontier (2:38)
 2. Mama's Always On Stage (3:25)
 3. People Everyday (3:26)
@@ -36,14 +39,6 @@ styles: ["Conscious"]
 13. Dawn Of The Dreads (5:17)
 14. Tennessee (4:32)
 15. Washed Away (6:22)
-
-<!-- section break -->
-
-3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
-The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}<br>

@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="butterfly-mind-24120593.jpg" title="Butterfly Mind by Tim Bowness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Say Your Goodbyes Part 1 (2:22)
 2. Always The Stranger (2:50)
 3. It's Easier To Love (5:13)
@@ -52,10 +51,6 @@ styles: ["Alternative Rock"]
 20. About The Light That Hits The Forest Floor (3:48)
 21. Dark Nevada Dream (8:20)
 22. Say Your Goodbyes Part 2 (1:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/butterfly-mind/1613781394" >}}<br>

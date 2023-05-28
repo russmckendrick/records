@@ -17,10 +17,9 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="map-of-the-past-18649051.jpg" title="Map Of The Past by It Bites" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Man In The Photograph
 2. Wallflower
 3. Map Of The Past
@@ -45,10 +44,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 22. Exit Song
 23. Lighthouse (3:27)
 24. Come On (5:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}<br>

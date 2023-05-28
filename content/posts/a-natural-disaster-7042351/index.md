@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="a-natural-disaster-7042351.jpg" title="A Natural Disaster by Anathema" >}}
+A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Harmonium (5:30)
 2. Balance (3:58)
 3. Closer (6:21)
@@ -43,15 +47,6 @@ styles: ["Alternative Rock"]
 18. Flying (5:57)
 19. Electricity (3:52)
 20. Violence (10:55)
-
-<!-- section break -->
-
-A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341" >}}<br>

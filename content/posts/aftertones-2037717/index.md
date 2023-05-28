@@ -21,10 +21,9 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["Ballad"]
 ---
 
-{{< img src="aftertones-2037717.jpg" title="Aftertones by Janis Ian" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aftertones (3:14)
 2. I Would Like To Dance (3:38)
 3. Love Is Blind (2:14)
@@ -35,10 +34,6 @@ styles: ["Ballad"]
 8. This Must Be Wrong (2:40)
 9. Don't Cry, Old Man (3:51)
 10. Hymn (4:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aftertones/1546946678" >}}<br>

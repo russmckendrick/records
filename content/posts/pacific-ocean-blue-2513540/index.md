@@ -24,10 +24,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="pacific-ocean-blue-2513540.jpg" title="Pacific Ocean Blue by Dennis Wilson" >}}
+Pacific Ocean Blue is the only studio album by American musician Dennis Wilson, co-founder of the Beach Boys. When released in August 1977, it was warmly received critically, and noted for outselling the Beach Boys' contemporary efforts. Two singles were issued from the album, "River Song" and "You and I", which did not chart.
+The album remains a focal point of Wilson's legacy, being referred to as a "classic". It was voted number 838 in Colin Larkin's All Time Top 1000 Albums. Wilson intended to record a follow-up, entitled Bambu, but the album was left unfinished at the time of his death in December 1983.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. River Song (3:44)
 2. What's Wrong (2:22)
 3. Moonshine (2:26)
@@ -40,14 +43,6 @@ styles: ["Pop Rock"]
 10. Farewell My Friend (2:24)
 11. Rainbows (2:51)
 12. End Of The Show (2:56)
-
-<!-- section break -->
-
-Pacific Ocean Blue is the only studio album by American musician Dennis Wilson, co-founder of the Beach Boys. When released in August 1977, it was warmly received critically, and noted for outselling the Beach Boys' contemporary efforts. Two singles were issued from the album, "River Song" and "You and I", which did not chart.
-The album remains a focal point of Wilson's legacy, being referred to as a "classic". It was voted number 838 in Colin Larkin's All Time Top 1000 Albums. Wilson intended to record a follow-up, entitled Bambu, but the album was left unfinished at the time of his death in December 1983.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pacific-ocean-blue-bambu-deluxe-legacy-edition/457508820" >}}<br>

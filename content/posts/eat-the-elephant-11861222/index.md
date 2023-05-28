@@ -29,10 +29,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="eat-the-elephant-11861222.jpg" title="Eat The Elephant by A Perfect Circle" >}}
+Eat the Elephant is the fourth studio album by American rock band A Perfect Circle. It is their first album release in fourteen years since 2004's Emotive. While early work on new material traces back to as early as 2008, years of slow progress would ensue due to conflict between the band's chief music writers, frontman Maynard James Keenan and guitarist Billy Howerdel, largely stemming from their commitments to other projects and inability to come to an agreement on the direction to take the band. Renewed focus, alongside assistance from music producer Dave Sardy, helped propel the band into much more productive sessions across 2017, with the album being completed in early 2018. Thematically, the album covers a variety of Keenan's views on modern societal, religious, and political issues, focusing on his perceived lack of accountability in humanity. Musically, the album was viewed as an extension and maturation of their rock sound, adding more piano and electronic elements into songs for a more mellow sound than prior albums.
+The album was released on April 20, 2018, after four singles were released in advance: "The Doomed" in October 2017, "Disillusioned" in January 2018, "TalkTalk" in February 2018, and "So Long, and Thanks for All the Fish" in April 2018. The album was generally well received by critics, who praised it for being a successful comeback album, and the maturation in the band's sound, though some lamented the lack of more hard rock songs from band's prior work. The album debuted at number 3 on the US Billboard 200 chart, their fourth album to debut in the top 4 of the chart, and debuted in the top 10 of eight other countries' album charts.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Eat The Elephant
 2. Disillusioned
 3. The Contrarian
@@ -46,15 +50,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 11. Hourglass
 12. Feathers
 13. Get The Lead Out
-
-<!-- section break -->
-
-Eat the Elephant is the fourth studio album by American rock band A Perfect Circle. It is their first album release in fourteen years since 2004's Emotive. While early work on new material traces back to as early as 2008, years of slow progress would ensue due to conflict between the band's chief music writers, frontman Maynard James Keenan and guitarist Billy Howerdel, largely stemming from their commitments to other projects and inability to come to an agreement on the direction to take the band. Renewed focus, alongside assistance from music producer Dave Sardy, helped propel the band into much more productive sessions across 2017, with the album being completed in early 2018. Thematically, the album covers a variety of Keenan's views on modern societal, religious, and political issues, focusing on his perceived lack of accountability in humanity. Musically, the album was viewed as an extension and maturation of their rock sound, adding more piano and electronic elements into songs for a more mellow sound than prior albums.
-The album was released on April 20, 2018, after four singles were released in advance: "The Doomed" in October 2017, "Disillusioned" in January 2018, "TalkTalk" in February 2018, and "So Long, and Thanks for All the Fish" in April 2018. The album was generally well received by critics, who praised it for being a successful comeback album, and the maturation in the band's sound, though some lamented the lack of more hard rock songs from band's prior work. The album debuted at number 3 on the US Billboard 200 chart, their fourth album to debut in the top 4 of the chart, and debuted in the top 10 of eight other countries' album charts.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eat-the-elephant/1340651075" >}}<br>

@@ -26,10 +26,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Post-Punk"]
 ---
 
-{{< img src="electric-lady-sessions-13185878.jpg" title="Electric Lady Sessions by LCD Soundsystem" >}}
+Electric Lady Sessions is a live in-studio album by American rock band LCD Soundsystem. It was released on February 8, 2019, through DFA and Columbia Records. It was recorded over a three-day span at Electric Lady Studios in Manhattan, New York, during their American Dream Tour. The session featured a twelve-song setlist that included covers of songs by Heaven 17, Chic, and the Human League.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Seconds (5:09)
 2. American Dream (6:04)
 3. You Wanted A Hit (7:53)
@@ -42,13 +44,6 @@ styles: ["Electro", "Post-Punk"]
 10. Emotional Haircut (5:16)
 11. Oh Baby (6:06)
 12. (We Don't Need This) Fascist Groove Thang (4:01)
-
-<!-- section break -->
-
-Electric Lady Sessions is a live in-studio album by American rock band LCD Soundsystem. It was released on February 8, 2019, through DFA and Columbia Records. It was recorded over a three-day span at Electric Lady Studios in Manhattan, New York, during their American Dream Tour. The session featured a twelve-song setlist that included covers of songs by Heaven 17, Chic, and the Human League.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-lady-sessions/1447409378" >}}<br>

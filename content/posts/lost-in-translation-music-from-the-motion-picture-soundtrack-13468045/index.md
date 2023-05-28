@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ---
 
-{{< img src="lost-in-translation-music-from-the-motion-picture-soundtrack-13468045.jpg" title="Lost In Translation (Music From The Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro / Tokyo (0:34)
 2. City Girl (3:48)
 3. Shibuya (3:26)
@@ -41,10 +40,6 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 13. Alone In Kyoto (4:47)
 14. Are You Awake? (1:35)
 15. Just Like Honey (2:37)
-
-<!-- section break -->
-
-
 
 
 

@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
 
-{{< img src="fantastic-planet-6546782.jpg" title="Fantastic Planet by Noveller" >}}
+Fantastic Planet (French: La Planète sauvage; Czech: Divoká planeta, lit. "The Wild Planet") is a 1973 experimental independent adult animated science fiction art film, directed by René Laloux and written by Laloux and Roland Topor, the latter of whom also completed the film's production design. The film was animated at Jiří Trnka Studio in Prague. The film was an international co-production between companies from France and Czechoslovakia. The allegorical story, about humans living on a strange planet dominated by giant humanoid aliens who consider them animals, is based on the 1957 novel Oms en série by French writer Stefan Wul.
+A working title while in development was Sur la planète Ygam (On the Planet Ygam), which is where most of the story takes place; the actual title (The Fantastic/Savage Planet) is the name of Ygam's moon. Production began in 1963. Fantastic Planet was awarded the Grand Prix special jury prize at the 1973 Cannes Film Festival, and in 2016, it was ranked the 36th greatest animated movie ever by Rolling Stone.This is the first animated movie to be rated PG by the MPAA in the United States.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Into The Dunes (4:50)
 2. No Unholy Mountain (2:45)
 3. Rubicon (4:17)
@@ -31,14 +34,6 @@ styles: ["Avantgarde"]
 7. In February (4:21)
 8. Growing (3:11)
 9. The Ascent (5:08)
-
-<!-- section break -->
-
-Fantastic Planet (French: La Planète sauvage; Czech: Divoká planeta, lit. "The Wild Planet") is a 1973 experimental independent adult animated science fiction art film, directed by René Laloux and written by Laloux and Roland Topor, the latter of whom also completed the film's production design. The film was animated at Jiří Trnka Studio in Prague. The film was an international co-production between companies from France and Czechoslovakia. The allegorical story, about humans living on a strange planet dominated by giant humanoid aliens who consider them animals, is based on the 1957 novel Oms en série by French writer Stefan Wul.
-A working title while in development was Sur la planète Ygam (On the Planet Ygam), which is where most of the story takes place; the actual title (The Fantastic/Savage Planet) is the name of Ygam's moon. Production began in 1963. Fantastic Planet was awarded the Grand Prix special jury prize at the 1973 Cannes Film Festival, and in 2016, it was ranked the 36th greatest animated movie ever by Rolling Stone.This is the first animated movie to be rated PG by the MPAA in the United States.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fantastic-planet/1667792300" >}}<br>

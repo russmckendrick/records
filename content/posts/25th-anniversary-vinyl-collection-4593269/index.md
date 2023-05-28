@@ -20,10 +20,9 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="25th-anniversary-vinyl-collection-4593269.jpg" title="25th Anniversary Vinyl Collection  by Public Enemy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Yo! Bum Rush The Show (1987)
 2. You're Gonna Get Yours
 3. Sophisticated Bitch
@@ -122,10 +121,6 @@ styles: []
 96. Super Agent
 97. Go Cat Go
 98. Sudden Death
-
-<!-- section break -->
-
-
 
 
 

@@ -31,10 +31,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-{{< img src="only-the-strong-survive-covers-vol-1-25126471.jpg" title="Only The Strong Survive (Covers Vol. 1) by Bruce Springsteen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Only The Strong Survive
 2. Soul Days
 3. Night Shift
@@ -50,10 +49,6 @@ styles: []
 13. 7 Rooms Of Gloom
 14. What Becomes Of The Brokenhearted
 15. Someday We'll Be Together
-
-<!-- section break -->
-
-
 
 
 

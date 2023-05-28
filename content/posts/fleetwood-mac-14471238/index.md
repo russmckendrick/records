@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="fleetwood-mac-14471238.jpg" title="Fleetwood Mac by Fleetwood Mac" >}}
+"Landslide" is a song written by Stevie Nicks and performed by British-American rock band Fleetwood Mac. The song was first featured on the band's self-titled album Fleetwood Mac (1975). The original recording also appears on the compilation albums 25 Years – The Chain (1992) and The Very Best of Fleetwood Mac (2002), while a live version was released as a single 23 years later from the live reunion album The Dance (1997). "Landslide" reached No. 51 on the US Billboard Hot 100 chart and No. 10 on the Adult Contemporary chart. "Landslide" was certified Gold in October 2009 for sales of over 500,000 copies in the United States. According to Nielsen Soundscan, "Landslide" sold 2,093,186 copies in the United States as of 2017.In 2021, the song was listed at No. 163 on Rolling Stone's "500 Greatest Songs of All Time".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Monday Morning (2:48)
 2. Warm Ways (3:50)
 3. Blue Letter (2:31)
@@ -39,14 +42,6 @@ styles: ["Pop Rock"]
 9. World Turning (4:25)
 10. Sugar Daddy (4:09)
 11. I'm So Afraid (4:15)
-
-<!-- section break -->
-
-"Landslide" is a song written by Stevie Nicks and performed by British-American rock band Fleetwood Mac. The song was first featured on the band's self-titled album Fleetwood Mac (1975). The original recording also appears on the compilation albums 25 Years – The Chain (1992) and The Very Best of Fleetwood Mac (2002), while a live version was released as a single 23 years later from the live reunion album The Dance (1997). "Landslide" reached No. 51 on the US Billboard Hot 100 chart and No. 10 on the Adult Contemporary chart. "Landslide" was certified Gold in October 2009 for sales of over 500,000 copies in the United States. According to Nielsen Soundscan, "Landslide" sold 2,093,186 copies in the United States as of 2017.In 2021, the song was listed at No. 163 on Rolling Stone's "500 Greatest Songs of All Time".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}<br>

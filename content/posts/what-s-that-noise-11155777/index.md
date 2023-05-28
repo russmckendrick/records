@@ -23,10 +23,9 @@ genres: ["Electronic"]
 styles: ["House", "Breaks", "Downtempo"]
 ---
 
-{{< img src="what-s-that-noise-11155777.jpg" title="What's That Noise? by Coldcut" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. People Hold On (3:58)
 2. Fat (Party And Bullshit) (4:17)
 3. (I'm) In Deep (5:08)
@@ -38,10 +37,6 @@ styles: ["House", "Breaks", "Downtempo"]
 9. Smoke 1 (4:40)
 10. Doctorin' The House (Say R Mix) (4:35)
 11. What's That Noise? (2:28)
-
-<!-- section break -->
-
-
 
 
 

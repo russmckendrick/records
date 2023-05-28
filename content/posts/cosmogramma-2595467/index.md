@@ -24,10 +24,12 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"]
 ---
 
-{{< img src="cosmogramma-2595467.jpg" title="Cosmogramma by Flying Lotus" >}}
+Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Clock Catcher (1:12)
 2. Pickled! (2:13)
 3. Nose Art (1:58)
@@ -45,13 +47,6 @@ styles: ["Abstract", "Future Jazz", "IDM", "Downtempo", "Experimental", "Glitch"
 15. Drips//Auntie's Harp (2:10)
 16. Table Tennis (3:01)
 17. Galaxy In Janaki (2:27)
-
-<!-- section break -->
-
-Flying Lotus blasts off into another galaxy on <i>Cosmogramma</i>, a celestial mixture of jazz, hip-hop, 8-bit videogame sounds, and more. The producer’s arrangements are at once soothing and kinetic; they shuffle and ping like a web of organic moving parts on electro-jazz cuts like “Pickled!” and the dubby, cinematic “Zodiac S**t.” The electronic beeps and blips of “...And the World Laughs with You” wriggle alongside Thom Yorke’s unearthly croon, while throwback freak-out “Arkestry” nods to the original cosmic deity, Sun Ra.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cosmogramma/367788829" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 ---
 
-{{< img src="extreme-ii-pornograffitti-10594981.jpg" title="Extreme II : Pornograffitti by Extreme" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Decadence Dance
 2. Li'l Jack Horny
 3. When I'm President
@@ -41,10 +40,6 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 11. Suzi (Wants Her All Day What?)
 12. He-Man Woman Hater
 13. Song For Love
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596" >}}<br>

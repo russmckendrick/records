@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="the-raw-the-cooked-251670.jpg" title="The Raw & The Cooked by Fine Young Cannibals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She Drives Me Crazy
 2. Good Thing
 3. I'm Not The Man I Used To Be
@@ -35,10 +34,6 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 8. Don't Let It Get You Down
 9. As Hard As It Is
 10. Ever Fallen In Love
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-raw-the-cooked/1313940401" >}}<br>

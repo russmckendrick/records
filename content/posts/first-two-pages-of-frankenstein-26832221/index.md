@@ -22,24 +22,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="first-two-pages-of-frankenstein-26832221.jpg" title="First Two Pages Of Frankenstein by The National" >}}
-
-<!-- section break -->
-
-1. Once Upon A Poolside (3:36)
-2. Eucalyptus (4:24)
-3. New Order T-Shirt (4:56)
-4. This Isn't Helping (4:04)
-5. Tropic Morning News (5:09)
-6. Alien (4:07)
-7. The Alcott (4:27)
-8. Grease In Your Hair (3:57)
-9. Ice Machines (4:16)
-10. Your Mind Is Not Your Friend (4:24)
-11. Send For Me (4:14)
-
-<!-- section break -->
-
 A year or so into the pandemic—and two decades into a career spent fronting The National—Matt Berninger couldn’t bear to write another song. “I didn't want to unpack myself,” he tells Apple Music. “I was burned out on introspection and self-analysis and making all these songs about complicated personal things. It was a mess I didn't want to clean up in my mind. So I just avoided it.”
 
 For months, he assured his bandmates that he’d been making progress. But when the time came to join them in the studio, “everybody realised, ‘Oh, maybe we might have a problem here,’” he says. “Having to literally face the music, not really having anything to do or lyrics to share—I’d go into the booth and could barely open my mouth. I couldn't free-associate, I couldn't even come up with melodies.” Despite the real fear that he might not be able to write ever again, Berninger kept at it. After completing stand-alone single “Weird Goodbyes”, he spent time back on tour, where he was “forced to sink or swim onstage”, he says. “And slowly, I started swimming again.” 
@@ -67,6 +49,19 @@ The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock out
         
     
 
+
+## Tracklisting
+1. Once Upon A Poolside (3:36)
+2. Eucalyptus (4:24)
+3. New Order T-Shirt (4:56)
+4. This Isn't Helping (4:04)
+5. Tropic Morning News (5:09)
+6. Alien (4:07)
+7. The Alcott (4:27)
+8. Grease In Your Hair (3:57)
+9. Ice Machines (4:16)
+10. Your Mind Is Not Your Friend (4:24)
+11. Send For Me (4:14)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/first-two-pages-of-frankenstein/1660282625" >}}<br>

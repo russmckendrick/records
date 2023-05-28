@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="home-of-the-newly-departed-10048473.jpg" title="Home Of The Newly Departed by Knifeworld" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pilot Her
 2. Dear Lord, No Deal
 3. Clairvoyant Fortnight
@@ -28,10 +27,6 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 5. Happy Half-Life, Dear Friend
 6. The Prime Of Our Decline
 7. HMS Washout
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/home-of-the-newly-departed/1510605584" >}}<br>

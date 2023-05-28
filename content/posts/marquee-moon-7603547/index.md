@@ -22,21 +22,6 @@ genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-{{< img src="marquee-moon-7603547.jpg" title="Marquee Moon by Television" >}}
-
-<!-- section break -->
-
-1. See No Evil (3:56)
-2. Venus (3:48)
-3. Friction (4:43)
-4. Marquee Moon (9:58)
-5. Elevation (5:08)
-6. Guiding Light (5:36)
-7. Prove It (5:04)
-8. Torn Curtain (7:00)
-
-<!-- section break -->
-
 There was always something off about calling <i>Marquee Moon</i> punk. The music is too sophisticated and the writing too opaque. Where quintessentially punk bands like the Ramones and The Clash worked through the alchemy of reduction, <i>Marquee Moon</i> expands in almost every direction, opening up where it could flame out (“Marquee Moon”) and forsaking punk’s brevity for a sense of romance and digression that might sound decadent if the band wasn’t so purposeful, which they are (“Friction”). To paraphrase the writer Robert Christgau, the Ramones could make it to the chorus in the time it took Television to finish the intro.
 
 The biggest difference, however, was philosophical. For all its revolutionary energy, a lot of early punk was dedicated to the historical project of figuring out where rock music had gone wrong—a quality that applied as much to arty bands like Talking Heads and Devo as the Sex Pistols, who might’ve hated Pink Floyd but had no problem with Chuck Berry or The Who. Television was different. They weren’t afraid to play ballads (“Guiding Light”) or make grand, theatrical statements (“Torn Curtain”). And they certainly weren’t afraid of the flashy solos and complex riffs whose technicality would’ve signalled an expertise anathema to anyone who considered punk the sound of the people (listen to Tom Verlaine and Richard Lloyd’s overlapping lines on “See No Evil”). Not anyone could play <i>Marquee Moon</i>; only Television could—that’s part of the point.
@@ -48,6 +33,16 @@ By the mere fact of being the bookish outsiders they were, Television opened the
         
     
 
+
+## Tracklisting
+1. See No Evil (3:56)
+2. Venus (3:48)
+3. Friction (4:43)
+4. Marquee Moon (9:58)
+5. Elevation (5:08)
+6. Guiding Light (5:36)
+7. Prove It (5:04)
+8. Torn Curtain (7:00)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/marquee-moon/1049069472" >}}<br>

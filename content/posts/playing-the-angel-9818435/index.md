@@ -28,10 +28,13 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="playing-the-angel-9818435.jpg" title="Playing The Angel by Depeche Mode" >}}
+If 2001’s <i>Exciter</i> had Depeche Mode experimenting with glitches, loops, and abstractions like a goth Radiohead, <i>Playing the Angel</i> restores some of the drama and majesty of their late ’80s/early ’90s stadium years. Bruised by broken love, “Precious” suggests the towering peaks of 1990’s <i>Violator</i> while featuring one of Dave Gahan’s most emotive vocals. Thirties gospel-blues standard “John the Revelator” is covered with salacious zeal, and “Nothing’s Impossible” throbs with rare, chest-beating optimism.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Pain That I'm Used To
 2. John The Revelator
 3. Suffer Well
@@ -44,14 +47,6 @@ styles: ["Synth-pop"]
 10. Damaged People
 11. Lilian
 12. The Darkest Star
-
-<!-- section break -->
-
-If 2001’s <i>Exciter</i> had Depeche Mode experimenting with glitches, loops, and abstractions like a goth Radiohead, <i>Playing the Angel</i> restores some of the drama and majesty of their late ’80s/early ’90s stadium years. Bruised by broken love, “Precious” suggests the towering peaks of 1990’s <i>Violator</i> while featuring one of Dave Gahan’s most emotive vocals. Thirties gospel-blues standard “John the Revelator” is covered with salacious zeal, and “Nothing’s Impossible” throbs with rare, chest-beating optimism.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/playing-the-angel-deluxe/1174247798" >}}<br>

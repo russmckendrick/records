@@ -26,10 +26,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
 
-{{< img src="scratched-unreleased-rare-tracks-remixes-22978766.jpg" title="Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bring It On Down (Liquidized Mix) (10:39)
 2. Cut & Dried (3:44)
 3. None Of The Answers (Bpm 122) (5:02)
@@ -48,10 +47,6 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 16. Right Here Right Now (Instrumental)
 17. Right Here Right Now (CJM Mix)
 18. Zeroes And Ones (The Prodigy Versus Jesus Jones Mix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scratched-unreleased-rare-tracks-remixes/1344026834" >}}<br>

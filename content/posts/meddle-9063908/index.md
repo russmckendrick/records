@@ -25,19 +25,6 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="meddle-9063908.jpg" title="Meddle by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. One Of These Days
-2. A Pillow Of Winds
-3. Fearless
-4. San Tropez
-5. Seamus
-6. Echoes
-
-<!-- section break -->
-
 Meddle is the sixth studio album by English rock band Pink Floyd,  released by Harvest Records. The album was produced between the band's touring commitments, from January to August 1971 at a series of locations around London, including EMI Studios (now Abbey Road Studios) and Morgan Studios.
 With no material to work with and no clear idea of the album's direction, the band devised a series of novel experiments which eventually inspired the album's signature track "Echoes".  Although the band's later albums would be unified by a central theme with lyrics written entirely by Roger Waters, Meddle was a group effort with lyrics primarily by Waters, and is considered a transitional album between the Syd Barrett-influenced group of the late 1960s and the Waters-led era.  One single, "One of These Days" b/w "Fearless", was released from the album.  
 The cover has been explained by its creator Storm Thorgerson to be an ear underwater; as with several previous albums designed by Hipgnosis, though, Thorgerson was unhappy with the final result. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales there upon initial release.
@@ -45,6 +32,14 @@ The cover has been explained by its creator Storm Thorgerson to be an ear underw
         
     
 
+
+## Tracklisting
+1. One Of These Days
+2. A Pillow Of Winds
+3. Fearless
+4. San Tropez
+5. Seamus
+6. Echoes
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meddle/699632611" >}}<br>

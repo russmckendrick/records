@@ -20,17 +20,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="easy-to-smile-1468779.jpg" title="Easy To Smile by Senseless Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Easy To Smile (4:44)
 2. Hazel (4:01)
 3. Mollylove (2:45)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/easy-to-smile/259486680" >}}<br>

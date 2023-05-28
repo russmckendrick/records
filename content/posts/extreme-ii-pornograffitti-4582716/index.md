@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Funk Metal", "Hard Rock", "Arena Rock"]
 ---
 
-{{< img src="extreme-ii-pornograffitti-4582716.jpg" title="Extreme II: Pornograffitti by Extreme" >}}
+Extreme II: Pornograffitti (also known as simply Pornograffiti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.
+Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffiti, "More Than Words" and "Hole Hearted", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, "Decadence Dance" and "Get the Funk Out", became popular on MTV's Headbangers Ball.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Decadence Dance (6:49)
 2. Li'l Jack Horny (4:52)
 3. When I'm President (4:22)
@@ -34,14 +37,6 @@ styles: ["Funk Metal", "Hard Rock", "Arena Rock"]
 10. Suzi (Wants Her All Day What?) (3:39)
 11. He-Man Woman Hater (6:19)
 12. Song For Love (5:55)
-
-<!-- section break -->
-
-Extreme II: Pornograffitti (also known as simply Pornograffiti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.
-Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffiti, "More Than Words" and "Hole Hearted", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, "Decadence Dance" and "Get the Funk Out", became popular on MTV's Headbangers Ball.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596" >}}<br>

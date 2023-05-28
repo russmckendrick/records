@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Ethereal"]
 ---
 
-{{< img src="white-chalk-19246675.jpg" title="White Chalk by PJ Harvey" >}}
+<i>White Chalk</i> is a quick, quiet piano-based song cycle. Unlike the majority of PJ Harvey’s catalog, there are no pounding rhythms. The drums, provided by the Dirty Three’s Jim White, are most often muted, and Harvey herself abandons any instinct to shriek for the pleasures of seductive coo-ing. Guitars have been packed and none of the garage rock clang from her previous album, <i>Uh Huh Her</i>, has been invited to participate. Harvey begins with “The Devil,” singing high in her range, words forming in vague combinations, the piano repeating its patterns obsessively. “Dear Darkness” is swallowed up by a large church reverb and a choir of voices that lend a solemn spirituality to the majestic melody. Many of the songs segue into one another and the flow is much like what the titles suggest: “The Piano,” “Silence,” “Broken Harp,” “When Under Ether.” The album’s closer, “The Mountain,” is the sound of marking time, the piano notes closing down the show as Harvey escapes through a hole in the sky. A low-key but affecting work.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Devil
 2. Dear Darkness
 3. Grow Grow Grow
@@ -39,14 +42,6 @@ styles: ["Indie Rock", "Ethereal"]
 9. The Piano
 10. Before Departure
 11. The Mountain
-
-<!-- section break -->
-
-<i>White Chalk</i> is a quick, quiet piano-based song cycle. Unlike the majority of PJ Harvey’s catalog, there are no pounding rhythms. The drums, provided by the Dirty Three’s Jim White, are most often muted, and Harvey herself abandons any instinct to shriek for the pleasures of seductive coo-ing. Guitars have been packed and none of the garage rock clang from her previous album, <i>Uh Huh Her</i>, has been invited to participate. Harvey begins with “The Devil,” singing high in her range, words forming in vague combinations, the piano repeating its patterns obsessively. “Dear Darkness” is swallowed up by a large church reverb and a choir of voices that lend a solemn spirituality to the majestic melody. Many of the songs segue into one another and the flow is much like what the titles suggest: “The Piano,” “Silence,” “Broken Harp,” “When Under Ether.” The album’s closer, “The Mountain,” is the sound of marking time, the piano notes closing down the show as Harvey escapes through a hole in the sky. A low-key but affecting work.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-chalk/1443639741" >}}<br>

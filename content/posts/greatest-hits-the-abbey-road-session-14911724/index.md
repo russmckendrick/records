@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="greatest-hits-the-abbey-road-session-14911724.jpg" title="Greatest Hits (The Abbey Road Session) by Therapy?" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Teethgrinder
 2. Screamager
 3. Opal Mantra
@@ -40,10 +39,6 @@ styles: ["Alternative Rock"]
 10. Diane
 11. Church Of Noise
 12. Lonely, Cryin' Only
-
-<!-- section break -->
-
-
 
 
 

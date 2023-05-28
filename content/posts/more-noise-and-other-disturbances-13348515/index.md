@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-{{< img src="more-noise-and-other-disturbances-13348515.jpg" title="More Noise And Other Disturbances by The Mighty Mighty BossToneS" >}}
+More Noise and Other Disturbances is the second studio album by the American band the Mighty Mighty Bosstones. It was released in 1992 by Taang! Records. It was a hit on college radio. "Where'd You Go" was released as a single.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Awfully Quiet (3:08)
 2. Where'd You Go (3:26)
 3. Dr. D (2:02)
@@ -37,13 +39,6 @@ styles: ["Ska", "Punk"]
 9. He's Back (3:12)
 10. Bad In Plaid (2:04)
 11. They Came To Boston (3:31)
-
-<!-- section break -->
-
-More Noise and Other Disturbances is the second studio album by the American band the Mighty Mighty Bosstones. It was released in 1992 by Taang! Records. It was a hit on college radio. "Where'd You Go" was released as a single.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085" >}}<br>

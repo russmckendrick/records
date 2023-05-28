@@ -36,10 +36,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Prog Rock"]
 ---
 
-{{< img src="stormwatch-14968787.jpg" title="Stormwatch by Jethro Tull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. North Sea Oil (3:11)
 2. Orion (4:00)
 3. Home (2:46)
@@ -50,10 +49,6 @@ styles: ["Folk Rock", "Prog Rock"]
 8. Dun Ringill (2:42)
 9. Flying Dutchman (7:43)
 10. Elegy (3:34)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stormwatch-2004-bonus-tracks-edition/726158739" >}}<br>

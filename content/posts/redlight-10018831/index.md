@@ -23,10 +23,12 @@ genres: ["Reggae"]
 styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 ---
 
-{{< img src="redlight-10018831.jpg" title="Redlight by The Slackers" >}}
+Redlight is an album by the Slackers, released in 1997.The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cooking For Tommy (3:58)
 2. Watch This (3:58)
 3. Married Girl (3:11)
@@ -39,13 +41,6 @@ styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 10. She Wants To Be Alone (4:28)
 11. Rude And Reckless (4:37)
 12. Come Back Baby (4:15)
-
-<!-- section break -->
-
-Redlight is an album by the Slackers, released in 1997.The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/redlight/1485047063" >}}<br>

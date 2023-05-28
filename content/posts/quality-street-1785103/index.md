@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="quality-street-1785103.jpg" title="Quality Street by World Of Twist" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lose My Way
 2. Sons Of The Stage
 3. This Too Shall Pass Away
@@ -35,10 +34,6 @@ styles: ["Leftfield", "Psychedelic Rock", "Synth-pop", "Indie Rock"]
 8. Sweets
 9. The Spring
 10. The Storm
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quality-street/714633804" >}}<br>

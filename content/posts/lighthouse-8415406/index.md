@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
-{{< img src="lighthouse-8415406.jpg" title="Lighthouse by Iamthemorning" >}}
+Lighthouse is the third studio album by Russian chamber progressive band iamthemorning. It was released on 1 April 2016 through Kscope. It features several guest musicians, including Gavin Harrison and Colin Edwin from Porcupine Tree, as well as Mariusz Duda from Riverside.The album was primarily recorded at Murder Mile Studios in London and Mosfilm Studios in Moscow, mixed at Murder Mile Studio, mastered by Marcel van Limbeek and Neil Pickles at Reveal Sound Studios in London and produced by iamthemorning. The album was premiered by AllMusic on 30 March 2016.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Came Before The Water (Part I) (1:42)
 2. Too Many Years (5:09)
 3. Clear Clearer (4:36)
@@ -38,13 +40,6 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 10. Chalk And Coal (4:56)
 11. I Came Before The Water (Part II) (2:56)
 12. Post Scriptum (2:44)
-
-<!-- section break -->
-
-Lighthouse is the third studio album by Russian chamber progressive band iamthemorning. It was released on 1 April 2016 through Kscope. It features several guest musicians, including Gavin Harrison and Colin Edwin from Porcupine Tree, as well as Mariusz Duda from Riverside.The album was primarily recorded at Murder Mile Studios in London and Mosfilm Studios in Moscow, mixed at Murder Mile Studio, mastered by Marcel van Limbeek and Neil Pickles at Reveal Sound Studios in London and produced by iamthemorning. The album was premiered by AllMusic on 30 March 2016.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lighthouse/1086183990" >}}<br>

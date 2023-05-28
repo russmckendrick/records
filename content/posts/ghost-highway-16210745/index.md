@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="ghost-highway-16210745.jpg" title="Ghost Highway by Mazzy Star" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Flowers in December (5:10)
 2. Ride It On (3:18)
 3. Into Dust (6:12)
@@ -38,10 +37,6 @@ styles: ["Indie Rock"]
 12. Blue Flower (4:12)
 13. Halah (3:45)
 14. So Tonight, That I Might See (7:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}<br>

@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Mod", "Psychedelic Rock"]
 ---
 
-{{< img src="from-the-beginning-7206931.jpg" title="From The Beginning by Small Faces" >}}
+From the Beginning is the first compilation album by the English rock band Small Faces. It was released by Decca Records of group material after the band had left the record label; it consisted of the band's Decca hit singles combined with various unreleased recordings.   The album rose to Number 17 in the UK Album Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Runaway
 2. My Mind's Eye
 3. Yesterday, Today And Tomorrow
@@ -39,13 +41,6 @@ styles: ["Mod", "Psychedelic Rock"]
 12. Sha La La La Lee
 13. You Really Got A Hold On Me
 14. What'cha Gonna Do About It
-
-<!-- section break -->
-
-From the Beginning is the first compilation album by the English rock band Small Faces. It was released by Decca Records of group material after the band had left the record label; it consisted of the band's Decca hit singles combined with various unreleased recordings.   The album rose to Number 17 in the UK Album Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/from-the-beginning-deluxe-edition/1443798933" >}}<br>

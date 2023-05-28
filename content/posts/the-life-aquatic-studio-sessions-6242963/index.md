@@ -24,10 +24,13 @@ genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Acoustic", "MPB", "Soundtrack"]
 ---
 
-{{< img src="the-life-aquatic-studio-sessions-6242963.jpg" title="The Life Aquatic Studio Sessions by Seu Jorge" >}}
+The master samba-revivalist Seu Jorge is talented enough to tackle any genre of music and refashion it in his own image. He first gained international attention through his role in the critically acclaimed <i>City of God</i>,  then 2005’s <i>Cru (Raw)</i> saw him remake Lieber and Stoller’s standard “Don’t” into sunny Brazilian Pop. It's not surprising that American auteur Wes Anderson recognized Jorge’s interpretive talents and commissioned him to record a set of Portuguese language David Bowie covers for the soundtrack to his <i>Life Aquatic</i>. What <i>is</i> surprising is the fierce originality that Jorge injects into his performances. His effortlessly supple delivery, reminiscent at times of Caetano Veloso’s dulcet croon, and his painterly rhythm guitar work allow <i>The Life Aquatic Studio Sessions</i> to transcend its admittedly kitschy concept; Jorge’s unrestrained covers of “Lady Stardust” and “Life on Mars” in particular gain strength when removed from their cinematic context. With <i>The Life Aquatic Studio Sessions</i> Seu Jorge has created a work possessed of a casual intimacy that makes it an essential addition to his catalogue. 
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rebel Rebel (2:46)
 2. Life On Mars? (3:29)
 3. Starman (3:16)
@@ -42,14 +45,6 @@ styles: ["Acoustic", "MPB", "Soundtrack"]
 12. When I Live My Dream (2:55)
 13. Quicksand (4:35)
 14. Team Zissou
-
-<!-- section break -->
-
-The master samba-revivalist Seu Jorge is talented enough to tackle any genre of music and refashion it in his own image. He first gained international attention through his role in the critically acclaimed <i>City of God</i>,  then 2005’s <i>Cru (Raw)</i> saw him remake Lieber and Stoller’s standard “Don’t” into sunny Brazilian Pop. It's not surprising that American auteur Wes Anderson recognized Jorge’s interpretive talents and commissioned him to record a set of Portuguese language David Bowie covers for the soundtrack to his <i>Life Aquatic</i>. What <i>is</i> surprising is the fierce originality that Jorge injects into his performances. His effortlessly supple delivery, reminiscent at times of Caetano Veloso’s dulcet croon, and his painterly rhythm guitar work allow <i>The Life Aquatic Studio Sessions</i> to transcend its admittedly kitschy concept; Jorge’s unrestrained covers of “Lady Stardust” and “Life on Mars” in particular gain strength when removed from their cinematic context. With <i>The Life Aquatic Studio Sessions</i> Seu Jorge has created a work possessed of a casual intimacy that makes it an essential addition to his catalogue. 
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-life-aquatic-studio-sessions-featuring-seu-jorge/1440916686" >}}<br>

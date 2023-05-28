@@ -27,10 +27,13 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="time-and-tide-2805312.jpg" title="Time And Tide by Split Enz" >}}
+Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. It topped the album charts in New Zealand and Australia.
+At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Australian Album, despite being a New Zealand album.The album was re-released in 2006 along with all of Split Enz's studio album catalogue. Some albums were rearranged, reordered or adjusted; Time and Tide, however, was left unchanged.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Time And Tide
 2. Dirty Creature (4:00)
 3. Giant Heartbeat (3:52)
@@ -59,14 +62,6 @@ styles: ["New Wave", "Pop Rock"]
 26. She Got Body (2:55)
 27. Mind Over Matter (2:52)
 28. Livin' It Up (1:15)
-
-<!-- section break -->
-
-Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. It topped the album charts in New Zealand and Australia.
-At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Australian Album, despite being a New Zealand album.The album was re-released in 2006 along with all of Split Enz's studio album catalogue. Some albums were rearranged, reordered or adjusted; Time and Tide, however, was left unchanged.
-    
-    
-
 
 
 ## Spotify

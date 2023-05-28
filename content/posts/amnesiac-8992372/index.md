@@ -23,10 +23,18 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-{{< img src="amnesiac-8992372.jpg" title="Amnesiac by Radiohead" >}}
+Amnesiac is the fifth studio album by the English rock band Radiohead, released on 30 May 2001 by EMI subsidiaries Parlophone and Capitol Records. It was recorded with the producer Nigel Godrich in the same sessions as Radiohead's previous album Kid A (2000); Radiohead split the work in two as they felt it was too dense for a double album. As with Kid A, Amnesiac incorporates influences from electronic music, 20th-century classical music, jazz and krautrock. The final track, "Life in a Glasshouse", is a collaboration with the jazz trumpeter Humphrey Lyttelton and his band.
+After having released no singles for Kid A, Radiohead promoted Amnesiac with the singles "Pyramid Song" and "Knives Out", accompanied by music videos. Videos were also made for "Pulk/Pull Revolving Doors" and "Like Spinning Plates", and "I Might Be Wrong", which was released as a promotional single. In June 2001, Radiohead began the Amnesiac tour, incorporating their first North American tour in three years.
+Amnesiac debuted at number one on the UK Albums Chart and number two on the US Billboard 200. By October 2008, it had sold over 900,000 copies worldwide. It is certified platinum in the UK, the US and Canada, and gold in Japan. Though some critics felt it was too experimental or less cohesive than Kid A, or saw it as a collection of outtakes, it received positive reviews; it was named one of the year's best albums by numerous publications.
+Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning for Best Recording Package for the special edition. "Pyramid Song" was named one of the best tracks of the decade by Rolling Stone, NME and Pitchfork, and Rolling Stone ranked Amnesiac number 320 in their 2012 "500 Greatest Albums of All Time" list. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Packt Like Sardines In A Crushd Tin Box
 2. Pyramid Song
 3. Pull/Pulk Revolving Doors
@@ -38,19 +46,6 @@ styles: ["Alternative Rock", "Experimental"]
 9. Hunting Bears
 10. Like Spinning Plates
 11. Life In A Glasshouse
-
-<!-- section break -->
-
-Amnesiac is the fifth studio album by the English rock band Radiohead, released on 30 May 2001 by EMI subsidiaries Parlophone and Capitol Records. It was recorded with the producer Nigel Godrich in the same sessions as Radiohead's previous album Kid A (2000); Radiohead split the work in two as they felt it was too dense for a double album. As with Kid A, Amnesiac incorporates influences from electronic music, 20th-century classical music, jazz and krautrock. The final track, "Life in a Glasshouse", is a collaboration with the jazz trumpeter Humphrey Lyttelton and his band.
-After having released no singles for Kid A, Radiohead promoted Amnesiac with the singles "Pyramid Song" and "Knives Out", accompanied by music videos. Videos were also made for "Pulk/Pull Revolving Doors" and "Like Spinning Plates", and "I Might Be Wrong", which was released as a promotional single. In June 2001, Radiohead began the Amnesiac tour, incorporating their first North American tour in three years.
-Amnesiac debuted at number one on the UK Albums Chart and number two on the US Billboard 200. By October 2008, it had sold over 900,000 copies worldwide. It is certified platinum in the UK, the US and Canada, and gold in Japan. Though some critics felt it was too experimental or less cohesive than Kid A, or saw it as a collection of outtakes, it received positive reviews; it was named one of the year's best albums by numerous publications.
-Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning for Best Recording Package for the special edition. "Pyramid Song" was named one of the best tracks of the decade by Rolling Stone, NME and Pitchfork, and Rolling Stone ranked Amnesiac number 320 in their 2012 "500 Greatest Albums of All Time" list. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amnesiac/1097864180" >}}<br>

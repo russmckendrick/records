@@ -52,10 +52,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="yoshimi-battles-the-pink-robots-20th-anniversary-deluxe-edition-26754977.jpg" title="Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition) by The Flaming Lips" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Yoshimi Battles The Pink Robots
 2. Fight Test (4:14)
 3. One More Robot (4:59)
@@ -117,10 +116,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 59. Sunship Balloons (Live On BBC Radio 1) (3:16)
 60. Up Above The Daily Hum (4:10)
 61. Xanthe Terra (3:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots-20th-anniversary/1650861915" >}}<br>

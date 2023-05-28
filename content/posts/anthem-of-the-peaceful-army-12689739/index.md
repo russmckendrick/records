@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 ---
 
-{{< img src="anthem-of-the-peaceful-army-12689739.jpg" title="Anthem Of The Peaceful Army by Greta Van Fleet" >}}
+If you missed Led Zeppelin the first time around and wondered what all the fuss was about, well, you’re in luck: A band of (mostly) brothers from Frankenmuth, Michigan, is here to carry the torch for blues-based howling, loud guitars, and tight pants as mass entertainment. “Rock ’n’ roll is a lost ideology,” bassist Sam Kiszka tells Apple Music in the group's <i>Up Next</i> interview. “It turned into a niche thing. You’ve got to hit the roots again.” That’s exactly what the band does on their debut album, which feels of another time.<br />
+Swirling together the techniques and textures of rock and blues greats—The Allman Brothers Band, Cream, B.B. King, Neil Young, Jimi Hendrix, and most recognizably Zep, among others—<i>Anthem of the Peaceful Army</i> delivers monstrous riffs (“When the Curtain Falls”), jangly strummers (“The New Day”), and earnest acoustic ballads (“Anthem”). The end result is a nostalgia rush for those who know the references and a thrilling point of entry for those who may not. It helps that frontman Josh Kiszka, born with an engine of a tenor, has perfectly mastered Robert Plant’s shrill yelps and yowls ("Watching Over”) and rock ’n’ roll attitude—which covers everything from wardrobe and stage presence to the album as a stand-alone experience in the streaming era. “We’d like people to listen to this all the way through,” Kiszka says. “And f**king loud.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Age Of Man
 2. The Cold Wind
 3. When The Curtain Falls
@@ -38,15 +42,6 @@ styles: ["Arena Rock", "Blues Rock", "Classic Rock"]
 8. Mountain Of The Sun
 9. Brave New World
 10. Anthem
-
-<!-- section break -->
-
-If you missed Led Zeppelin the first time around and wondered what all the fuss was about, well, you’re in luck: A band of (mostly) brothers from Frankenmuth, Michigan, is here to carry the torch for blues-based howling, loud guitars, and tight pants as mass entertainment. “Rock ’n’ roll is a lost ideology,” bassist Sam Kiszka tells Apple Music in the group's <i>Up Next</i> interview. “It turned into a niche thing. You’ve got to hit the roots again.” That’s exactly what the band does on their debut album, which feels of another time.<br />
-Swirling together the techniques and textures of rock and blues greats—The Allman Brothers Band, Cream, B.B. King, Neil Young, Jimi Hendrix, and most recognizably Zep, among others—<i>Anthem of the Peaceful Army</i> delivers monstrous riffs (“When the Curtain Falls”), jangly strummers (“The New Day”), and earnest acoustic ballads (“Anthem”). The end result is a nostalgia rush for those who know the references and a thrilling point of entry for those who may not. It helps that frontman Josh Kiszka, born with an engine of a tenor, has perfectly mastered Robert Plant’s shrill yelps and yowls ("Watching Over”) and rock ’n’ roll attitude—which covers everything from wardrobe and stage presence to the album as a stand-alone experience in the streaming era. “We’d like people to listen to this all the way through,” Kiszka says. “And f**king loud.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthem-of-the-peaceful-army/1435351050" >}}<br>

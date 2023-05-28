@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock"]
 ---
 
-{{< img src="bright-magic-20338117.jpg" title="Bright Magic by Public Service Broadcasting" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Der Sumpf (Sinfonie Der Großstadt) 
 2. Im Licht
 3. Der Rhythmus Der Maschinen
@@ -35,10 +34,6 @@ styles: ["Indie Rock", "Post Rock"]
 9. Lichtspiel II: Schwarz Weiss Grau
 10. Lichtspiel III: Symphonie Diagonale
 11. Ich Und Die Stadt
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}<br>

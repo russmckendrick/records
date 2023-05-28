@@ -42,10 +42,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 ---
 
-{{< img src="radio-gnome-invisible-trilogy-7910537.jpg" title="Radio Gnome Invisible Trilogy by Gong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Flying Teapot (Radio Gnome Invisible - Pt. 1)
 2. Radio Gnome Invisible (5:33)
 3. Flying Teapot (11:47)
@@ -81,10 +80,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 33. Perfect Mystery (2:33)
 34. The Isle Of Everywhere (10:21)
 35. You Never Blow Your Trip Forever (11:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-gnome-invisible-trilogy/1057678912" >}}<br>

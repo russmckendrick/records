@@ -23,10 +23,12 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="hold-on-8082430.jpg" title="Hold On! by The James Hunter Six" >}}
+With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still be utterly vital and vibrant. The Brit sings—and writes—like Sam Cooke’s natural-born heir, but he brings his own tricks to the table too, whether delivering a sharp retort to spiritual dogma atop the funky feel of “Free Your Mind (While You Still Got Time),” slipping in a subtle ska undercurrent on the easy-rolling “This Is Where We Came In,” or unleashing his bluesy guitar skills on the instrumental “Satchelfoot.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. If That Don't Tell You
 2. This Is Where We Came In
 3. (Baby) Hold On
@@ -37,13 +39,6 @@ styles: ["Rhythm & Blues"]
 8. Stranded
 9. Satchel Foot
 10. In The Dark
-
-<!-- section break -->
-
-With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still be utterly vital and vibrant. The Brit sings—and writes—like Sam Cooke’s natural-born heir, but he brings his own tricks to the table too, whether delivering a sharp retort to spiritual dogma atop the funky feel of “Free Your Mind (While You Still Got Time),” slipping in a subtle ska undercurrent on the easy-rolling “This Is Where We Came In,” or unleashing his bluesy guitar skills on the instrumental “Satchelfoot.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-on/1485062879" >}}<br>

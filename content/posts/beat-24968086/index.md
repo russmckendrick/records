@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="beat-24968086.jpg" title="Beat by King Crimson" >}}
+Beat is the ninth studio album by the British rock band King Crimson, released in 1982 by record label E.G. This is the second King Crimson album to feature the band's line-up of co-founder Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford. It is the first release in King Crimson’s discography to feature the same lineup as the previous studio album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Neal And Jack And Me
 2. Heartbeat
 3. Sartori In Tangier
@@ -38,13 +40,6 @@ styles: ["Prog Rock"]
 6. Two Hands
 7. The Howler
 8. Requiem
-
-<!-- section break -->
-
-Beat is the ninth studio album by the British rock band King Crimson, released in 1982 by record label E.G. This is the second King Crimson album to feature the band's line-up of co-founder Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford. It is the first release in King Crimson’s discography to feature the same lineup as the previous studio album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beat-expanded-edition/1090454400" >}}<br>

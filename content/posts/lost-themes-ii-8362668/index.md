@@ -21,10 +21,14 @@ genres: ["Electronic"]
 styles: ["Dark Ambient", "Synthwave", "Electro"]
 ---
 
-{{< img src="lost-themes-ii-8362668.jpg" title="Lost Themes II by John Carpenter" >}}
+Lost Themes II is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Distant Dream
 2. White Pulse
 3. Persia Rising
@@ -36,15 +40,6 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 9. Bela Lugosi
 10. Last Sunrise
 11. Utopian Facade
-
-<!-- section break -->
-
-Lost Themes II is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-themes-ii/1079110381" >}}<br>

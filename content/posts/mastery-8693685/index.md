@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Ambient", "Experimental"]
 ---
 
-{{< img src="mastery-8693685.jpg" title="Mastery by British Theatre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blue Horror
 2. The Cull 
 3. Dinosaur
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 9. Thunderlips
 10. Favour The Brave
 11. Mastery
-
-<!-- section break -->
-
-
 
 
 

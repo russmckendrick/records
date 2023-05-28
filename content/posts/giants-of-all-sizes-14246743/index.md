@@ -18,22 +18,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="giants-of-all-sizes-14246743.jpg" title="Giants Of All Sizes by Elbow" >}}
-
-<!-- section break -->
-
-1. Dexter & Sinister
-2. Seven Veils
-3. Empires
-4. The Delayed 3:15
-5. White Noise White Heat
-6. Doldrums
-7. My Trouble
-8. On Deronda Road
-9. Weightless
-
-<!-- section break -->
-
 If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent expression of romance, solidarity and hope, one track was a sharp feather stem poking through the comfort blanket. “K2” betrayed vivid anger and unease over Brexit. Two years later, with that particular political process lurching uncertainly on, the band have leaned further into the turbulence of the age. <i>Giants of All Sizes</i> contemplates war, the Grenfell tragedy, division and poverty, fusing these themes with more personal concerns, including the passing of frontman Guy Garvey’s father and two of the group’s close friends. “Bewilderment feels like the zeitgeist,” Garvey tells Apple Music. “This album does have its uplifting moments, but it comes from a darker place. It’s got a big heart but asks some bewildered questions.” Recorded in Hamburg in a converted World War II bunker flanked by a border force headquarters and a Ugandan ministry, this album is Elbow at their most searching and bruised. “I think there’s more of an urgency to the record, as I think there is with this general sort of rudderlessness that everybody’s feeling,” says Garvey. “There’s this mixture of resignation and subdued panic, and the record’s shot through with it.” Discover more with Garvey’s track-by-track guide.<br />
 <b>Dexter & Sinister</b>
 “Dexter and sinister, in heraldry, it’s the right and left side of the shield. Two very good friends of ours died close together, and they were very good friends with each other. Jan Oldenburg ran the Night and Day cafe in Manchester, which is where we got our first record deal, where we used to hang out. Scott Alexander owned [Manchester venues] Big Hands and The Temple. When I was thinking of them both being gone, I was imagining Manchester’s coat of arms with the unicorn and antelope missing. And also the references to left and right, the way the country is split at the moment—although I’m not sure it’s as simple as that. However you look at it, 50 percent of the country are unhappy and want to gamble the farm on any kind of change. I think that's more urgently something to look at than different people’s politics.”<br />
@@ -57,6 +41,17 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
         
     
 
+
+## Tracklisting
+1. Dexter & Sinister
+2. Seven Veils
+3. Empires
+4. The Delayed 3:15
+5. White Noise White Heat
+6. Doldrums
+7. My Trouble
+8. On Deronda Road
+9. Weightless
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/giants-of-all-sizes/1474373426" >}}<br>

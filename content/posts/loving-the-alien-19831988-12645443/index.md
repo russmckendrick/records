@@ -101,10 +101,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="loving-the-alien-19831988-12645443.jpg" title="Loving The Alien [ 1983–1988 ] by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Let's Dance
 2. Modern Love (4:48)
 3. China Girl (5:33)
@@ -238,10 +237,6 @@ styles: ["Pop Rock"]
 131. Bang Bang (Live – Promotional Mix)
 132. Tonight (Live)
 133. Let’s Dance (Live)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/loving-the-alien-1983-1988-remastered/1416872602" >}}<br>

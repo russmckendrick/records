@@ -46,10 +46,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
 
-{{< img src="from-us-to-you-30th-anniversary-boxset-18978085.jpg" title="From Us To You, 30th Anniversary Boxset by EMF" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Schubert Dip, 1991
 2. Children
 3. Long Summer Days
@@ -112,10 +111,6 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 60. EMF
 61. When You're Mine
 62. Big Drop
-
-<!-- section break -->
-
-
 
 
 

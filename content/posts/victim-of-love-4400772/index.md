@@ -22,10 +22,13 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="victim-of-love-4400772.jpg" title="Victim Of Love by Charles Bradley" >}}
+Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, his 2013 sophomore album plays like it was unearthed from a 1973 time capsule. Working again with Menahan Street Band leader Thomas Brenneck, who discovered Bradley busking around New York City, <i>Victim of Love</i> is a natural evolution. “Strictly Reserved for You” opens with a Memphis-flavored horn section and vintage fuzz-guitar leads buzzing under Bradley’s soulful croon. This time around, his melodies are noticeably more uplifting. Both “You Put the Flame on It” and the amorous ballad “Let Love Stand a Chance” resonate with the sunny soul of classic Stax vinyl. Those craving Bradley’s signature melancholy musings should turn to the lovelorn title track and the funky “Love Bug Blues.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Strictly Reserved For You (3:43)
 2. You Put The Flame On It (3:49)
 3. Let Love Stand A Chance (3:59)
@@ -37,14 +40,6 @@ styles: ["Soul", "Rhythm & Blues"]
 9. Crying In The Chapel (3:55)
 10. Hurricane (3:32)
 11. Through The Storm (4:42)
-
-<!-- section break -->
-
-Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, his 2013 sophomore album plays like it was unearthed from a 1973 time capsule. Working again with Menahan Street Band leader Thomas Brenneck, who discovered Bradley busking around New York City, <i>Victim of Love</i> is a natural evolution. “Strictly Reserved for You” opens with a Memphis-flavored horn section and vintage fuzz-guitar leads buzzing under Bradley’s soulful croon. This time around, his melodies are noticeably more uplifting. Both “You Put the Flame on It” and the amorous ballad “Let Love Stand a Chance” resonate with the sunny soul of classic Stax vinyl. Those craving Bradley’s signature melancholy musings should turn to the lovelorn title track and the funky “Love Bug Blues.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/victim-of-love-feat-menahan-street-band/1485008286" >}}<br>

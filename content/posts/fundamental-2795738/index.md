@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="fundamental-2795738.jpg" title="Fundamental by Mental As Anything" >}}
+Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at #3 on the Australian Kent Music Report albums charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. You're So Strong (3:25)
 2. Big Wheel (4:41)
 3. Live It Up (4:12)
@@ -37,13 +39,6 @@ styles: ["New Wave", "Pop Rock"]
 9. I Just Wanna Be Happy (3:28)
 10. Splashing (3:12)
 11. Bus Ride (2:55)
-
-<!-- section break -->
-
-Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at #3 on the Australian Kent Music Report albums charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fundamental-as-anything/1064935549" >}}<br>

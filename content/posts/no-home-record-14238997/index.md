@@ -24,10 +24,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental"]
 ---
 
-{{< img src="no-home-record-14238997.jpg" title="No Home Record by Kim Gordon" >}}
+You’d think that an artist making her first solo album after nearly 40 years of collaborative work would fall for at least a few pitfalls of sentimentality—the glance in the rearview, the meditation on middle age, the warmth of accomplishment, whatever. Then again, Kim Gordon was never much for soft landings. Noisy, vibrant and alive with the kind of fragmented poetry that made her presence in Sonic Youth so special, <i>No Home Record</i> feels, above all, like a debut—a new voice clocking in for the first time, testing waters, stretching her capacity.<br />
+The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, channelling the misplaced passions of understimulated yuppies worldwide), as is the vacant sex appeal (“Touch your nipple/You’re so fine!” she wails on “Hungry Baby”, channelling the…misplaced passions of understimulated yuppies worldwide). Most surprising is how informed the album is by electronic music (“Don’t Play It”) and hip-hop (“Paprika Pony”, “Sketch Artist”)—a shift that breaks with the free-rock-saviourdom that Sonic Youth always represented while maintaining the continuity of experimentation that made Gordon a pioneer in the first place.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sketch Artist
 2. Air BnB
 3. Paprika Pony
@@ -37,15 +41,6 @@ styles: ["Indie Rock", "Experimental"]
 7. Hungry Baby
 8. Earthquake
 9. Get Yr Life Back
-
-<!-- section break -->
-
-You’d think that an artist making her first solo album after nearly 40 years of collaborative work would fall for at least a few pitfalls of sentimentality—the glance in the rearview, the meditation on middle age, the warmth of accomplishment, whatever. Then again, Kim Gordon was never much for soft landings. Noisy, vibrant and alive with the kind of fragmented poetry that made her presence in Sonic Youth so special, <i>No Home Record</i> feels, above all, like a debut—a new voice clocking in for the first time, testing waters, stretching her capacity.<br />
-The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, channelling the misplaced passions of understimulated yuppies worldwide), as is the vacant sex appeal (“Touch your nipple/You’re so fine!” she wails on “Hungry Baby”, channelling the…misplaced passions of understimulated yuppies worldwide). Most surprising is how informed the album is by electronic music (“Don’t Play It”) and hip-hop (“Paprika Pony”, “Sketch Artist”)—a shift that breaks with the free-rock-saviourdom that Sonic Youth always represented while maintaining the continuity of experimentation that made Gordon a pioneer in the first place.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-home-record/1586497284" >}}<br>

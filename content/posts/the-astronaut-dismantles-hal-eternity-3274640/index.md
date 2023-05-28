@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
 
-{{< img src="the-astronaut-dismantles-hal-eternity-3274640.jpg" title="The Astronaut Dismantles HAL/Eternity by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Astronaut Dismantles HAL
 2. Continuum (8:51)
 3. Into The Space Age (4:59)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 13. My Corrosion (5:48)
 14. Departure Lounge (6:35)
 15. Number One Son (6:04)
-
-<!-- section break -->
-
-
 
 
 

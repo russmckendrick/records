@@ -31,21 +31,16 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
 
-{{< img src="lift-your-skinny-fists-like-antennas-to-heaven-74260.jpg" title="Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor!" >}}
-
-<!-- section break -->
-
-1. Storm (21:59)
-2. Static (21:07)
-3. Sleep (21:12)
-4. Antennas To Heaven...
-
-<!-- section break -->
-
 Lift Your Skinny Fists Like Antennas to Heaven (often shortened to Lift Yr. Skinny Fists Like Antennas to Heaven, Lift Your Skinny Fists, or LYSF), or Levez Vos Skinny Fists Comme Antennas to Heaven on the rear of physical releases, is the second studio album by Canadian post-rock band Godspeed You! Black Emperor, released as a double album on October 9, 2000, on vinyl by Constellation and November 8, 2000, on CD by Kranky. It has been listed on multiple decade-end lists as one of the greatest albums of the 2000s.
     
     
 
+
+## Tracklisting
+1. Storm (21:59)
+2. Static (21:07)
+3. Sleep (21:12)
+4. Antennas To Heaven...
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lift-your-skinny-fists-like-antennas-to-heaven/40886657" >}}<br>

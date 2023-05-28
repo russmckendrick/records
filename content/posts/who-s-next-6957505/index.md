@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Mod"]
 ---
 
-{{< img src="who-s-next-6957505.jpg" title="Who's Next by The Who" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Baba O' Riley (4:58)
 2. Bargain (5:33)
 3. Love Ain't For Keeping (2:10)
@@ -34,10 +33,6 @@ styles: ["Hard Rock", "Mod"]
 7. Going Mobile (3:42)
 8. Behind Blue Eyes (3:41)
 9. Won't Get Fooled Again (8:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-next-deluxe-edition/1440850317" >}}<br>

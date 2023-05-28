@@ -24,10 +24,17 @@ genres: ["Hip Hop"]
 styles: ["Jazzy Hip-Hop"]
 ---
 
-{{< img src="de-la-soul-is-dead-26633132.jpg" title="De La Soul Is Dead by De La Soul" >}}
+On their second album, 1991’s <i>De La Soul Is Dead</i>, the trio returned as jaded, wizened cranks: They were fed up with the Day-Glo hippie imagery surrounding their debut and the grind that came with its success but, mercifully, kept their senses of humour intact. “We weren’t killing the brand, but killing the potential fad that could turn around and kill us if we didn’t kill it first,” Trugoy the Dove told Apple Music in 2018. “What we struggled with in hip-hop at that time, everybody was concerned about being called a sellout and being careful about how you’re being presented and the manipulation of what labels are doing to help sell this thing.”
 
-<!-- section break -->
+With co-producer Prince Paul still in tow, they retained an idiosyncratic sample arsenal, this time flipping the clacking percussion of ’50s jazzer Brother Bones, the dreamy soft rock of Chicago, the smoky bass of Tom Waits records and the breezy listening of Serge Gainsbourg and Herb Alpert. The schizophrenic feel of their debut gave birth to a restless fever dream complete with everything from vivid portraits of life after fame (“Ring Ring Ring [Ha Ha Hey]”) to inscrutable interstitials (“Johnny’s Dead Aka Vincent Mason”), from giddy pop ecstasy (“A Roller Skating Jam Named ‘Saturdays’”) to a Genesis song flipped into a satirical metal blast (“Who Do U Worship?”).
 
+<i>De La Soul Is Dead</i> had room for “Millie Pulled a Pistol on Santa”, a child-abuse tale that’s one of the most searing reality raps of all time, as well as “Bitties in the BK Lounge”, a kazoo-filled rap battle set at the burger joint. This tangle of screams, skits, beat suites, sardonic hip-house and offbeat raps came with a litany of complaints—the requests of their record label, people who would try to fight them on tour, Arsenio Hall, <i>Soul Train</i>’s anti-rap bias, the industry’s move to R&B (“You mean rhythm & blues? No, rap and bullshit!”) and whoever stole Maseo’s Pathfinder. The psychedelic softies of <i>3 Feet High and Rising</i> evolve into emotive truth-tellers. The album is not just an image-killer, but proof that there were no boundaries to their style, the first of the tireless crew’s many creative reboots.
+        
+        
+    
+
+
+## Tracklisting
 1. Intro (2:14)
 2. Oodles Of O's (3:32)
 3. Talkin' Bout Hey Love (2:27)
@@ -55,18 +62,6 @@ styles: ["Jazzy Hip-Hop"]
 25. Fanatic Of The B Word (4:09)
 26. Keepin' The Faith (4:44)
 27. Skit 5 (0:32)
-
-<!-- section break -->
-
-On their second album, 1991’s <i>De La Soul Is Dead</i>, the trio returned as jaded, wizened cranks: They were fed up with the Day-Glo hippie imagery surrounding their debut and the grind that came with its success but, mercifully, kept their senses of humour intact. “We weren’t killing the brand, but killing the potential fad that could turn around and kill us if we didn’t kill it first,” Trugoy the Dove told Apple Music in 2018. “What we struggled with in hip-hop at that time, everybody was concerned about being called a sellout and being careful about how you’re being presented and the manipulation of what labels are doing to help sell this thing.”
-
-With co-producer Prince Paul still in tow, they retained an idiosyncratic sample arsenal, this time flipping the clacking percussion of ’50s jazzer Brother Bones, the dreamy soft rock of Chicago, the smoky bass of Tom Waits records and the breezy listening of Serge Gainsbourg and Herb Alpert. The schizophrenic feel of their debut gave birth to a restless fever dream complete with everything from vivid portraits of life after fame (“Ring Ring Ring [Ha Ha Hey]”) to inscrutable interstitials (“Johnny’s Dead Aka Vincent Mason”), from giddy pop ecstasy (“A Roller Skating Jam Named ‘Saturdays’”) to a Genesis song flipped into a satirical metal blast (“Who Do U Worship?”).
-
-<i>De La Soul Is Dead</i> had room for “Millie Pulled a Pistol on Santa”, a child-abuse tale that’s one of the most searing reality raps of all time, as well as “Bitties in the BK Lounge”, a kazoo-filled rap battle set at the burger joint. This tangle of screams, skits, beat suites, sardonic hip-house and offbeat raps came with a litany of complaints—the requests of their record label, people who would try to fight them on tour, Arsenio Hall, <i>Soul Train</i>’s anti-rap bias, the industry’s move to R&B (“You mean rhythm & blues? No, rap and bullshit!”) and whoever stole Maseo’s Pathfinder. The psychedelic softies of <i>3 Feet High and Rising</i> evolve into emotive truth-tellers. The album is not just an image-killer, but proof that there were no boundaries to their style, the first of the tireless crew’s many creative reboots.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/de-la-soul-is-dead/1664602251" >}}<br>

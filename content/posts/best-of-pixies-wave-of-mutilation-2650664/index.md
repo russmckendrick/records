@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="best-of-pixies-wave-of-mutilation-2650664.jpg" title="Best Of Pixies (Wave Of Mutilation) by Pixies" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bone Machine
 2. Nimrod's Son
 3. The Holiday Song
@@ -53,10 +52,6 @@ styles: ["Alternative Rock"]
 21. Alec Eiffel
 22. Planet Of Sound
 23. Winterlong
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-best-of-pixies/1025318588" >}}<br>

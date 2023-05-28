@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="sleep-s-holy-mountain-8153400.jpg" title="Sleep's Holy Mountain by Sleep" >}}
+Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dragonaut
 2. The Druid
 3. Evil Gypsy / Solomon's Theme
@@ -31,13 +33,6 @@ styles: ["Stoner Rock"]
 7. Inside The Sun
 8. From Beyond
 9. Nain's Baptism
-
-<!-- section break -->
-
-Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sleeps-holy-mountain/43359181" >}}<br>

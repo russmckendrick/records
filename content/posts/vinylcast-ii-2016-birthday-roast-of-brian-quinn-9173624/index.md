@@ -23,10 +23,9 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-{{< img src="vinylcast-ii-2016-birthday-roast-of-brian-quinn-9173624.jpg" title="Vinylcast II 2016 Birthday Roast of Brian Quinn by Tell 'Em Steve-Dave" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Opening Ceremonies
 2. Jsarge's symphony in Q
 3. A who's who
@@ -46,10 +45,6 @@ styles: []
 17. Justin Roiland
 18. Q
 19. Faccia Bella
-
-<!-- section break -->
-
-
 
 
 

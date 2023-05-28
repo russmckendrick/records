@@ -34,10 +34,9 @@ genres: ["Funk / Soul", "Folk, World, & Country"]
 styles: ["African"]
 ---
 
-{{< img src="hasabe-my-worries-11544269.jpg" title="Hasabe - My Worries by Ayalew Mesfin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hasabe (My Worries) (3:56)
 2. Gedawo (The Hero) (4:00)
 3. Rehab (My Hunger) (4:34)
@@ -49,10 +48,6 @@ styles: ["African"]
 9. Zebeder (Mesmerizing) (6:08)
 10. Yetembelal Loga (Tall And Graceful) (4:03)
 11. Gud Aderegechign (Blindsided By Love) (3:48)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hasabe-my-worries/1680801339" >}}<br>

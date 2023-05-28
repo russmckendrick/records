@@ -20,10 +20,18 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="graceland-3673709.jpg" title="Graceland by Paul Simon" >}}
+Graceland is the seventh solo studio album by the American singer-songwriter Paul Simon. It was produced by Simon, engineered by Roy Halee and released on August 25, 1986, by Warner Bros. Records.
+In the early 1980s, Simon's relationship with his former musical partner Art Garfunkel had deteriorated, his marriage to the actress Carrie Fisher had collapsed, and his previous record, Hearts and Bones (1983), had been a commercial failure. In 1984, after a period of depression, Simon became fascinated by a bootleg cassette of mbaqanga, South African street music. He and Halee visited Johannesburg, where they spent two weeks recording with South African musicians. Further recordings were held in the United States, with guest musicians including Linda Ronstadt, the Everly Brothers, Louisiana band Good Rockin' Dopsie and the Twisters, and Los Angeles band Los Lobos.
+Graceland features an eclectic mixture of genres, including pop, rock, a cappella, zydeco, isicathamiya and mbaqanga. Simon wrote songs inspired by the recordings made in Johannesburg, collaborating with African and American artists. He received criticism for breaking the cultural boycott of South Africa because of its policy of apartheid. Following its completion, Simon toured alongside South African musicians, performing their music and songs from Graceland.
+Graceland became Simon's most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time. In 2006, it was added to the United States' National Recording Registry as "culturally, historically, or aesthetically important".
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Boy In The Bubble (3:59)
 2. Graceland (4:51)
 3. I Know What I Know (3:13)
@@ -35,19 +43,6 @@ styles: ["Pop Rock"]
 9. Crazy Love, Vol. II (4:19)
 10. That Was Your Mother (2:52)
 11. All Around The World Or The Myth Of Fingerprints (3:16)
-
-<!-- section break -->
-
-Graceland is the seventh solo studio album by the American singer-songwriter Paul Simon. It was produced by Simon, engineered by Roy Halee and released on August 25, 1986, by Warner Bros. Records.
-In the early 1980s, Simon's relationship with his former musical partner Art Garfunkel had deteriorated, his marriage to the actress Carrie Fisher had collapsed, and his previous record, Hearts and Bones (1983), had been a commercial failure. In 1984, after a period of depression, Simon became fascinated by a bootleg cassette of mbaqanga, South African street music. He and Halee visited Johannesburg, where they spent two weeks recording with South African musicians. Further recordings were held in the United States, with guest musicians including Linda Ronstadt, the Everly Brothers, Louisiana band Good Rockin' Dopsie and the Twisters, and Los Angeles band Los Lobos.
-Graceland features an eclectic mixture of genres, including pop, rock, a cappella, zydeco, isicathamiya and mbaqanga. Simon wrote songs inspired by the recordings made in Johannesburg, collaborating with African and American artists. He received criticism for breaking the cultural boycott of South Africa because of its policy of apartheid. Following its completion, Simon toured alongside South African musicians, performing their music and songs from Graceland.
-Graceland became Simon's most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time. In 2006, it was added to the United States' National Recording Registry as "culturally, historically, or aesthetically important".
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/graceland/529574560" >}}<br>

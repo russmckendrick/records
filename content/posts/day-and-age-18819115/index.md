@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="day-and-age-18819115.jpg" title="Day And Age by Frost*" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Day And Age  (11:49)
 2. Terrestrial  (5:13)
 3. Waiting For The Lie (4:31)
@@ -45,10 +44,6 @@ styles: ["Pop Rock", "Prog Rock"]
 14. Skywards (4:13)
 15. Kill The Orchestra (9:27)
 16. Repeat To Fade (6:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306" >}}<br>

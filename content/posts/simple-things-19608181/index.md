@@ -32,10 +32,13 @@ genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-{{< img src="simple-things-19608181.jpg" title="Simple Things by Zero 7" >}}
+Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Have Seen (5:06)
 2. Polaris (4:48)
 3. Destiny (5:37)
@@ -47,14 +50,6 @@ styles: ["Downtempo"]
 9. Out Of Town (4:47)
 10. This World (5:36)
 11. Likufanele (6:24)
-
-<!-- section break -->
-
-Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}<br>

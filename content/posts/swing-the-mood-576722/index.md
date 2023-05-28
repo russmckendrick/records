@@ -21,17 +21,12 @@ genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
 
-{{< img src="swing-the-mood-576722.jpg" title="Swing The Mood by Jive Bunny And The Mastermixers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Swing The Mood (6:00)
 2. Swing The Mood (Radio Mix) (4:05)
 3. Glenn Miller Medley (The J.B. Edit) (3:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/swing-the-mood-the-definitive-collection/326033547" >}}<br>

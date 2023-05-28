@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="do-or-die-24170219.jpg" title="Do Or Die by Dropkick Murphys" >}}
+Do or Die is the first studio album released by Boston's Irish-American punk band, Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. This is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cadence To Arms
 2. Do Or Die
 3. Get Up
@@ -38,13 +40,6 @@ styles: ["Punk"]
 14. Noble
 15. Boys On The Docks (Murphy's Pub Version) 
 16. Skinhead On The MBTA
-
-<!-- section break -->
-
-Do or Die is the first studio album released by Boston's Irish-American punk band, Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. This is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/do-or-die/1485047507" >}}<br>

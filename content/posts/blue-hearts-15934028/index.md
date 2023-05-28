@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Punk", "Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="blue-hearts-15934028.jpg" title="Blue Hearts by Bob Mould" >}}
+Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heart On My Sleeve (1:58)
 2. Next Generation (2:20)
 3. American Crisis (2:28)
@@ -43,13 +45,6 @@ styles: ["Punk", "Alternative Rock", "Indie Rock"]
 12. Leather Dreams (2:53)
 13. Password to My Soul (2:54)
 14. The Ocean (3:56)
-
-<!-- section break -->
-
-Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}<br>

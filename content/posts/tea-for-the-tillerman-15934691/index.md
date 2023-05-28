@@ -27,10 +27,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Folk Rock"]
 ---
 
-{{< img src="tea-for-the-tillerman-15934691.jpg" title="Tea For The Tillerman² by Yusuf Islam" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Where Do The Children Play?
 2. Hard Headed Woman 
 3. Wild World
@@ -42,10 +41,6 @@ styles: ["Pop Rock", "Folk Rock"]
 9. On The Road To Find Out
 10. Father And Son
 11. Tea For The Tillerman
-
-<!-- section break -->
-
-
 
 
 ## Spotify

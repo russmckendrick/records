@@ -29,10 +29,9 @@ genres: ["Electronic"]
 styles: ["Drum n Bass", "Jungle"]
 ---
 
-{{< img src="timeless-25th-anniversary-edition-18291646.jpg" title="Timeless (25th Anniversary Edition) by Goldie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Inner City Life
 2. Pressure
 3. Jah
@@ -49,10 +48,6 @@ styles: ["Drum n Bass", "Jungle"]
 14. You & Me
 15. Sensual (Original Mix)
 16. Kemistry (V.I.P. Mix)
-
-<!-- section break -->
-
-
 
 
 

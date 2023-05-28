@@ -19,10 +19,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="faithful-1692998.jpg" title="Faithful by Todd Rundgren" >}}
+Faithful is Todd Rundgren's seventh album, released in 1976.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Happenings Ten Years Time Ago (3:12)
 2. Good Vibrations (3:44)
 3. Rain (3:16)
@@ -35,13 +37,6 @@ styles: ["Pop Rock"]
 10. Cliché (4:00)
 11. The Verb To Love (7:25)
 12. Boogies (Hamburger Hell) (5:00)
-
-<!-- section break -->
-
-Faithful is Todd Rundgren's seventh album, released in 1976.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/faithful/1084189642" >}}<br>

@@ -22,25 +22,20 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="a-collection-of-great-dance-songs-11065998.jpg" title="A Collection Of Great Dance Songs by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. One Of These Days (5:49)
-2. Money (6:45)
-3. Sheep (10:21)
-4. Shine On You Crazy Diamond (10:40)
-5. Wish You Were Here (5:26)
-6. Another Brick In The Wall (Part 2) (3:54)
-
-<!-- section break -->
-
 A Collection of Great Dance Songs is a compilation album by English rock band Pink Floyd. It was released on 23 November 1981 in the United Kingdom by Harvest Records and in the United States by Columbia Records.
 
 
     
     
 
+
+## Tracklisting
+1. One Of These Days (5:49)
+2. Money (6:45)
+3. Sheep (10:21)
+4. Shine On You Crazy Diamond (10:40)
+5. Wish You Were Here (5:26)
+6. Another Brick In The Wall (Part 2) (3:54)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165" >}}<br>

@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="everything-was-beautiful-22954349.jpg" title="Everything Was Beautiful by Spiritualized" >}}
+Everything Was Beautiful is the ninth studio album by Spiritualized, released under Fat Possum Records on April 22, 2022. The album contains influences from psychedelic music, gospel music, and classic rock.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Always Together With You
 2. Best Thing You Never Had (The D Song)
 3. Let It Bleed (For Iggy)
@@ -33,13 +35,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 5. The Mainline Song
 6. The A Song (Laid In Your Arms)
 7. I'm Coming Home Again
-
-<!-- section break -->
-
-Everything Was Beautiful is the ninth studio album by Spiritualized, released under Fat Possum Records on April 22, 2022. The album contains influences from psychedelic music, gospel music, and classic rock.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful/1591255695" >}}<br>

@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="laid-6813016.jpg" title="Laid by James" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Out To Get You (4:27)
 2. Sometimes (Lester Piggott) (5:08)
 3. Dream Thrum (4:47)
@@ -45,10 +44,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Laid (2:36)
 12. Lullaby (3:48)
 13. Skindiving (5:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laid-deluxe-edition/1445872484" >}}<br>

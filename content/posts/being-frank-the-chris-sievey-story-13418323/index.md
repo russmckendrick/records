@@ -20,10 +20,9 @@ genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Punk", "Comedy"]
 ---
 
-{{< img src="being-frank-the-chris-sievey-story-13418323.jpg" title="Being Frank: The Chris Sievey Story by Frank Sidebottom" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cello Man (3:02)
 2. Gogglebubbleland (2:22)
 3. Reflections And Dialogue With Mr. Sievey (3:28)
@@ -45,10 +44,6 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 19. Love Will Tear Us Apart (1:18)
 20. Lazy Rising More Slowly, Where R.U., Oh 'Chele (5:12)
 21. Life With The Lyons (2:10)
-
-<!-- section break -->
-
-
 
 
 

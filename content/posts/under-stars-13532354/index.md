@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="under-stars-13532354.jpg" title="Under Stars by Lonely Robot" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Terminal Earth (1:55)
 2. Ancient Ascendant (5:47)
 3. Icarus (5:20)
@@ -53,10 +52,6 @@ styles: ["Prog Rock"]
 20. How Bright Is The Sun? (6:03)
 21. Inside This Machine (3:28)
 22. An Ending (2:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/under-stars-bonus-tracks-edition/1454003781" >}}<br>

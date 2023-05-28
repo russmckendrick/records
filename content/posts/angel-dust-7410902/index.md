@@ -28,10 +28,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="angel-dust-7410902.jpg" title="Angel Dust by Faith No More" >}}
+Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Land Of Sunshine
 2. Caffeine
 3. Midlife Crisis
@@ -56,15 +60,6 @@ styles: ["Alternative Rock"]
 22. Be Aggressive (Live 1992)
 23. Kindergarten (Live 1992)
 24. We Care A Lot (Live 1992)
-
-<!-- section break -->
-
-Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/angel-dust/184672979" >}}<br>

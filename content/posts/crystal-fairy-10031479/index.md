@@ -30,10 +30,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="crystal-fairy-10031479.jpg" title="Crystal Fairy by Crystal Fairy" >}}
+Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed in 2016. The band consisted of Melvins' Buzz Osborne (guitar) and Dale Crover (drums), alongside Le Butcherettes' Teri Gender Bender (vocals) and Omar Rodríguez-López (bass) of At the Drive-In / The Mars Volta / Antemasque fame.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chiseler
 2. Drugs On The Bus
 3. Necklace Of Divorce
@@ -45,14 +48,6 @@ styles: []
 9. Posesión
 10. Sweet Self
 11. Vampire X-Mass
-
-<!-- section break -->
-
-Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed in 2016. The band consisted of Melvins' Buzz Osborne (guitar) and Dale Crover (drums), alongside Le Butcherettes' Teri Gender Bender (vocals) and Omar Rodríguez-López (bass) of At the Drive-In / The Mars Volta / Antemasque fame.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/crystal-fairy/1183014173" >}}<br>

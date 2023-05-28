@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Lo-Fi"]
 ---
 
-{{< img src="the-complete-dreamworks-albums-7660802.jpg" title="The Complete Dreamworks Albums by Eels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Beautiful Freak
 2. Novocaine For The Soul
 3. Susan's House
@@ -110,10 +109,6 @@ styles: ["Indie Rock", "Lo-Fi"]
 87. Electro-Shock Blues
 88. The Medication Is Wearing Off
 89. Climbing To The Moon
-
-<!-- section break -->
-
-
 
 
 

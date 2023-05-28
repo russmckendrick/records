@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="and-nothing-hurt-12483339.jpg" title="And Nothing Hurt by Spiritualized" >}}
+The title of Spiritualized’s eighth album is the back half of a line from Kurt Vonnegut’s <i>Slaughterhouse-Five</i>: “Everything was beautiful, and nothing hurt.” In a tweet, Pierce explained that starting with <i>And</i> “presupposes that something, or everything, has happened before.” After almost four decades making music—often in response to personal crises including heartbreak, addiction, disease, and near-death experiences—everything <i>has</i> happened to Pierce before. <i>And Nothing Hurt</i> was born from a different kind of upheaval.<br />
+In the flush ’90s, labels could let a band like Spiritualized splurge on ample studio time, 120 live musicians for a single track, and entire choirs. No longer afforded those luxuries, Pierce learned to use Pro Tools, painstakingly sampling sounds from classical recordings, and managed, with just a handful of backing musicians, to create an album every bit as gargantuan and emotional as ever. Pierce deftly moves between intimacy and maximalism, combining shoegaze, free jazz, somber ballads, lavish orchestration, and synths in ways that shouldn’t work, but do. “Let’s Dance” begins wistful and dainty, gradually building into a wild, brassy carnival. Likewise, the joyful “On the Sunshine” morphs from warm flutes into a cacophony of squealing horns and ecstatic jazz. <i>And Nothing Hurts</i> is a profoundly self-aware album acknowledging age, loss, and mortality. On “The Prize,” Pierce sings, “Gonna be shooting like a star across the sky/Gonna burn brightly for a while/Then you’re gone.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Perfect Miracle
 2. I'm Your Man
 3. Here It Comes (The Road) Let's Go
@@ -37,15 +41,6 @@ styles: ["Psychedelic Rock"]
 7. The Morning After
 8. The Prize
 9. Sail on Through
-
-<!-- section break -->
-
-The title of Spiritualized’s eighth album is the back half of a line from Kurt Vonnegut’s <i>Slaughterhouse-Five</i>: “Everything was beautiful, and nothing hurt.” In a tweet, Pierce explained that starting with <i>And</i> “presupposes that something, or everything, has happened before.” After almost four decades making music—often in response to personal crises including heartbreak, addiction, disease, and near-death experiences—everything <i>has</i> happened to Pierce before. <i>And Nothing Hurt</i> was born from a different kind of upheaval.<br />
-In the flush ’90s, labels could let a band like Spiritualized splurge on ample studio time, 120 live musicians for a single track, and entire choirs. No longer afforded those luxuries, Pierce learned to use Pro Tools, painstakingly sampling sounds from classical recordings, and managed, with just a handful of backing musicians, to create an album every bit as gargantuan and emotional as ever. Pierce deftly moves between intimacy and maximalism, combining shoegaze, free jazz, somber ballads, lavish orchestration, and synths in ways that shouldn’t work, but do. “Let’s Dance” begins wistful and dainty, gradually building into a wild, brassy carnival. Likewise, the joyful “On the Sunshine” morphs from warm flutes into a cacophony of squealing horns and ecstatic jazz. <i>And Nothing Hurts</i> is a profoundly self-aware album acknowledging age, loss, and mortality. On “The Prize,” Pierce sings, “Gonna be shooting like a star across the sky/Gonna burn brightly for a while/Then you’re gone.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-nothing-hurt/1391135207" >}}<br>

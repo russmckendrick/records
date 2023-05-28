@@ -22,23 +22,18 @@ genres: ["Jazz"]
 styles: []
 ---
 
-{{< img src="soultrane-3570715.jpg" title="Soultrane by John Coltrane" >}}
+Soultrane is the fourth studio album by jazz musician John Coltrane, released in 1958 on Prestige Records, catalogue 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Bait (12:03)
 2. I Want To Talk About You (10:51)
 3. You Say You Care (6:14)
 4. Theme For Ernie (4:54)
 5. Russian Lullaby (5:33)
 6. Soft Lights And Sweet Music (4:44)
-
-<!-- section break -->
-
-Soultrane is the fourth studio album by jazz musician John Coltrane, released in 1958 on Prestige Records, catalogue 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soultrane-remastered/1440948339" >}}<br>

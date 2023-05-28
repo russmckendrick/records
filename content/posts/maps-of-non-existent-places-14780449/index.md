@@ -16,10 +16,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="maps-of-non-existent-places-14780449.jpg" title="Maps Of Non-Existent Places by Thank You Scientist" >}}
+Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Prelude (1:14)
 2. A Salesman's Guide To Non-Existence (5:06)
 3. Feed The Horses (6:28)
@@ -30,15 +34,6 @@ styles: ["Prog Rock"]
 8. Concrete Swan Dive (5:51)
 9. In The Company Of Worms (5:47)
 10. My Famed Disappearing Act (5:44)
-
-<!-- section break -->
-
-Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maps-of-non-existent-places/1617741451" >}}<br>

@@ -28,10 +28,13 @@ genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 ---
 
-{{< img src="hypocrisy-is-the-greatest-luxury-529747.jpg" title="Hypocrisy Is The Greatest Luxury by The Disposable Heroes Of Hiphoprisy" >}}
+Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew The Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.
+"Television, the Drug of the Nation" was released as a single. It was recorded previously by Michael Franti's first band, the Beatnigs.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Satanic Reverses (4:45)
 2. Famous And Dandy (Like Amos 'N' Andy) (6:35)
 3. Television, The Drug Of The Nation (6:36)
@@ -46,14 +49,6 @@ styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 12. California Über Alles (4:13)
 13. Water Pistol Man (5:54)
 14. Rock The Vote (Exercise Your Right)
-
-<!-- section break -->
-
-Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew The Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.
-"Television, the Drug of the Nation" was released as a single. It was recorded previously by Michael Franti's first band, the Beatnigs.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hypocrisy-is-the-greatest-luxury/1442921405" >}}<br>

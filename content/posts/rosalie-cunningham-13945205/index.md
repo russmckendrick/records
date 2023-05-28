@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="rosalie-cunningham-13945205.jpg" title="Rosalie Cunningham by Rosalie Cunningham" >}}
+Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ride On My Bike
 2. Fuck Love
 3. House Of The Glass Red
@@ -31,13 +33,6 @@ styles: ["Psychedelic Rock"]
 6. Riddles And Games
 7. Butterflies 
 8. A Yarn From The Wheel
-
-<!-- section break -->
-
-Rosalie Cunningham (born 25 April 1990) is an English singer-songwriter. After the split of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}<br>

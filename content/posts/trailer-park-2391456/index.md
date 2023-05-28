@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 ---
 
-{{< img src="trailer-park-2391456.jpg" title="Trailer Park by Beth Orton" >}}
+Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. She Cries Your Name
 2. Tangent
 3. Don't Need A Reason
@@ -35,13 +37,6 @@ styles: ["Folk Rock", "Downtempo", "Pop Rock"]
 8. Someone's Daughter
 9. I Wish I Never Saw The Sunshine
 10. Galaxy Of Emptiness
-
-<!-- section break -->
-
-Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}<br>

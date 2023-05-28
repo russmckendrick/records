@@ -20,10 +20,12 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 ---
 
-{{< img src="maggot-brain-602546.jpg" title="Maggot Brain by Funkadelic" >}}
+Maggot Brain is the third studio album by the American funk rock band Funkadelic, released by Westbound Records in July 1971. It was produced by band leader George Clinton and recorded at United Sound Systems in Detroit during late 1970 and early 1971. It was the final album recorded by the original Funkadelic lineup; after its release, original members Tawl Ross (guitar), Billy Nelson (bass), and Tiki Fulwood (drums) left the band for various reasons.The album charted in the R&B Top 20. Today, it is perhaps best known for its 10-minute title track, an improvisation performed by guitarist Eddie Hazel.  Pitchfork named it the 17th best album of the 1970s. In 2020, Rolling Stone ranked Maggot Brain the 136th greatest album of all time in its updated list.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Maggot Brain (10:18)
 2. Can You Get To That (2:49)
 3. Hit It And Quit It (3:48)
@@ -31,13 +33,6 @@ styles: ["Soul-Jazz", "P.Funk", "Psychedelic Rock", "Jazz-Rock", "Psychedelic"]
 5. Super Stupid (3:56)
 6. Back In Our Minds (2:37)
 7. Wars Of Armageddon (9:42)
-
-<!-- section break -->
-
-Maggot Brain is the third studio album by the American funk rock band Funkadelic, released by Westbound Records in July 1971. It was produced by band leader George Clinton and recorded at United Sound Systems in Detroit during late 1970 and early 1971. It was the final album recorded by the original Funkadelic lineup; after its release, original members Tawl Ross (guitar), Billy Nelson (bass), and Tiki Fulwood (drums) left the band for various reasons.The album charted in the R&B Top 20. Today, it is perhaps best known for its 10-minute title track, an improvisation performed by guitarist Eddie Hazel.  Pitchfork named it the 17th best album of the 1970s. In 2020, Rolling Stone ranked Maggot Brain the 136th greatest album of all time in its updated list.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maggot-brain/1595227414" >}}<br>

@@ -22,17 +22,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="slowdive-ep-15825430.jpg" title="Slowdive EP by Slowdive" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Slowdive
 2. Avalyn I
 3. Avalyn Il
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}<br>

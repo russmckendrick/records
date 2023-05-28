@@ -29,10 +29,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-{{< img src="the-desaturating-seven-10919713.jpg" title="The Desaturating Seven by Primus" >}}
+Reuniting the classic Primus lineup to record original music for the first time since 1995, <i>The Desaturating Seven</i> is a concept album based on a children’s book called <i>The Rainbow Goblins</i>. Channeling their prog-rock roots, the band filters a fairy tale of color-eating goblins through adventurous time signatures, skronky-tonk guitar work, and ringleader Les Claypool’s nasal vocal intonations and bulbous basslines. This is Primus as fun-loving, boisterous, and ambitious as ever.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Valley
 2. The Seven
 3. The Trek
@@ -40,14 +43,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 5. The Dream
 6. The Storm
 7. The Ends?
-
-<!-- section break -->
-
-Reuniting the classic Primus lineup to record original music for the first time since 1995, <i>The Desaturating Seven</i> is a concept album based on a children’s book called <i>The Rainbow Goblins</i>. Channeling their prog-rock roots, the band filters a fairy tale of color-eating goblins through adventurous time signatures, skronky-tonk guitar work, and ringleader Les Claypool’s nasal vocal intonations and bulbous basslines. This is Primus as fun-loving, boisterous, and ambitious as ever.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-desaturating-seven/1262680542" >}}<br>

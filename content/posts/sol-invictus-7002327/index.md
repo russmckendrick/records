@@ -31,10 +31,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="sol-invictus-7002327.jpg" title="Sol Invictus by Faith No More" >}}
+Sol Invictus (Latin for Unconquered Sun) is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.
+The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sol Invictus
 2. Superhero
 3. Sunny Side Up
@@ -45,14 +48,6 @@ styles: ["Alternative Rock"]
 8. Motherfucker
 9. Matador
 10. From The Dead
-
-<!-- section break -->
-
-Sol Invictus (Latin for Unconquered Sun) is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.
-The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sol-invictus/971801283" >}}<br>

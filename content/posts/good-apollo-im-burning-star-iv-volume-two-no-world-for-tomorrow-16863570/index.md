@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ---
 
-{{< img src="good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570.jpg" title="Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Reaping
 2. No World For Tomorrow
 3. The Hound (Of Blood And Rank)
@@ -44,10 +43,6 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 11. III The End Complete
 12. IV The Road And The Damned
 13. V On The Brink
-
-<!-- section break -->
-
-
 
 
 

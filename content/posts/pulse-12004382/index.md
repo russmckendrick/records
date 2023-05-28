@@ -43,10 +43,12 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="pulse-12004382.jpg" title="Pulse by Pink Floyd" >}}
+Pulse (stylised P·U·L·S·E) is the third live album by the English rock band Pink Floyd. It was released on 29 May 1995 by EMI in the United Kingdom and on 6 June 1995 by Columbia in the United States. The album was recorded during the European leg of Pink Floyd's Division Bell Tour in 1994.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Shine On You Crazy Diamond (13:30)
 2. Astronomy Domine (5:25)
 3. What Do You Want From Me (4:10)
@@ -74,13 +76,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 25. Wish You Were Here (5:40)
 26. Comfortably Numb (9:10)
 27. Run Like Hell (7:58)
-
-<!-- section break -->
-
-Pulse (stylised P·U·L·S·E) is the third live album by the English rock band Pink Floyd. It was released on 29 May 1995 by EMI in the United Kingdom and on 6 June 1995 by Columbia in the United States. The album was recorded during the European leg of Pink Floyd's Division Bell Tour in 1994.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pulse-live-2018-remaster/1592552392" >}}<br>

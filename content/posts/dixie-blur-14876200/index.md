@@ -17,10 +17,12 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="dixie-blur-14876200.jpg" title="Dixie Blur by Jonathan Wilson" >}}
+Dixie Blur is the fourth studio album by American musician and producer Jonathan Wilson. It was released on March 6, 2020, by Bella Union.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Just For Love
 2. '69 Corvette
 3. New Home
@@ -35,13 +37,6 @@ styles: []
 12. El Camino Real
 13. Golden Apples
 14. Korean Tea
-
-<!-- section break -->
-
-Dixie Blur is the fourth studio album by American musician and producer Jonathan Wilson. It was released on March 6, 2020, by Bella Union.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dixie-blur/1489222560" >}}<br>

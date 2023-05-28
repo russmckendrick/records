@@ -27,10 +27,16 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Funk"]
 ---
 
-{{< img src="so-8744459.jpg" title="So  by Peter Gabriel" >}}
+So is the fifth studio album by English singer-songwriter Peter Gabriel, released on 19 May 1986 by Charisma Records and Virgin Records. After working on the soundtrack to the film Birdy (1984), producer Daniel Lanois was invited to remain at Gabriel's Somerset home during 1985 to work on his next solo project. Initial sessions for So consisted of Gabriel, Lanois and guitarist David Rhodes, although these grew to include a number of percussionists.
+Although Gabriel continued to use the pioneering Fairlight CMI digital sampling synthesizer, songs from these sessions were less experimental than his previous material. Nevertheless, Gabriel drew on various musical influences, fusing pop, soul, and art rock with elements of traditional world music, particularly African and Brazilian styles. It is Gabriel's first non-eponymous album, So representing an "anti-title" that resulted from label pressure to "properly" market his music. Gabriel toured So on the This Way Up tour (1986–1987), with some songs performed at human rights and charity concerts during this period.
+Often considered his best and most accessible album, So was an immediate commercial success and transformed Gabriel from a cult artist into a mainstream star, becoming his best-selling solo release. It has been certified fivefold platinum by the Recording Industry Association of America and triple platinum by the British Phonographic Industry. The album's lead single, "Sledgehammer", was promoted with an innovative animated music video and achieved particular success, reaching number one on the Billboard Hot 100 and subsequently winning a record of nine MTV Video Music Awards.  It was followed by four further singles, "Don't Give Up" (a duet with Kate Bush), "Big Time", "In Your Eyes", and "Red Rain".
+The album received positive reviews from most critics, who praised its songwriting, melodies and fusion of genres, although some retrospective reviews have criticised its overt commercialism and 1980s production sounds.  So was nominated for the Grammy Award for Album of the Year in 1987 but lost to Paul Simon's Graceland. It has appeared in lists of the best albums of the 1980s, and Rolling Stone included the album in their 2003 and 2020 editions of the 500 Greatest Albums of All Time. In 2000 it was voted number 82 in Colin Larkin's All Time Top 1000 Albums. So was remastered in 2002, partially re-recorded for Gabriel's 2011 orchestral project New Blood and issued as a box set in 2012.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Red Rain
 2. Sledgehammer
 3. Don't Give Up
@@ -40,17 +46,6 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Funk"]
 7. We Do What We're Told (Milgram's 37)
 8. This Is The Picture (Excellent Birds)
 9. In Your Eyes
-
-<!-- section break -->
-
-So is the fifth studio album by English singer-songwriter Peter Gabriel, released on 19 May 1986 by Charisma Records and Virgin Records. After working on the soundtrack to the film Birdy (1984), producer Daniel Lanois was invited to remain at Gabriel's Somerset home during 1985 to work on his next solo project. Initial sessions for So consisted of Gabriel, Lanois and guitarist David Rhodes, although these grew to include a number of percussionists.
-Although Gabriel continued to use the pioneering Fairlight CMI digital sampling synthesizer, songs from these sessions were less experimental than his previous material. Nevertheless, Gabriel drew on various musical influences, fusing pop, soul, and art rock with elements of traditional world music, particularly African and Brazilian styles. It is Gabriel's first non-eponymous album, So representing an "anti-title" that resulted from label pressure to "properly" market his music. Gabriel toured So on the This Way Up tour (1986–1987), with some songs performed at human rights and charity concerts during this period.
-Often considered his best and most accessible album, So was an immediate commercial success and transformed Gabriel from a cult artist into a mainstream star, becoming his best-selling solo release. It has been certified fivefold platinum by the Recording Industry Association of America and triple platinum by the British Phonographic Industry. The album's lead single, "Sledgehammer", was promoted with an innovative animated music video and achieved particular success, reaching number one on the Billboard Hot 100 and subsequently winning a record of nine MTV Video Music Awards.  It was followed by four further singles, "Don't Give Up" (a duet with Kate Bush), "Big Time", "In Your Eyes", and "Red Rain".
-The album received positive reviews from most critics, who praised its songwriting, melodies and fusion of genres, although some retrospective reviews have criticised its overt commercialism and 1980s production sounds.  So was nominated for the Grammy Award for Album of the Year in 1987 but lost to Paul Simon's Graceland. It has appeared in lists of the best albums of the 1980s, and Rolling Stone included the album in their 2003 and 2020 editions of the 500 Greatest Albums of All Time. In 2000 it was voted number 82 in Colin Larkin's All Time Top 1000 Albums. So was remastered in 2002, partially re-recorded for Gabriel's 2011 orchestral project New Blood and issued as a box set in 2012.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so/986800858" >}}<br>

@@ -20,16 +20,11 @@ genres: ["Electronic"]
 styles: ["Experimental", "Ambient", "Downtempo"]
 ---
 
-{{< img src="music-for-insomniacs-5685420.jpg" title="Music For Insomniacs by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Music For Insomniacs - Part 1 (23:35)
 2. Music For Insomniacs - Part 2 (22:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-insomniacs/1152563129" >}}<br>

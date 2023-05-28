@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="a-sance-of-dark-delusions-6982951.jpg" title="A Séance Of Dark Delusions by Nordic Giants" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Elysian Skies
 2. Evolve Or Perish
 3. Rapture
@@ -43,10 +42,6 @@ styles: ["Post Rock"]
 7. Futures Dark
 8. Black Folds
 9. A Thousand Lost Dreams
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300" >}}<br>

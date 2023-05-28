@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-{{< img src="threesome-vol-3-23730260.jpg" title="Threesome Vol. 3 by The Lickerish Quartet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fortunately  (4:30)
 2. New Days (5:24)
 3. You All Alone (4:14)
@@ -30,10 +29,6 @@ styles: ["Power Pop"]
 6. New Days (Instrumental Mix) (5:24)
 7. You All Alone (Instrumental Mix) (4:14)
 8. In The Meantime (Instrumental Mix) (4:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}<br>

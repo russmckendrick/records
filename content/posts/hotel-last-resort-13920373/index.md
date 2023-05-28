@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="hotel-last-resort-13920373.jpg" title="Hotel Last Resort by Violent Femmes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Another Chorus
 2. I Get What I Want
 3. I'm Nothing 
@@ -38,10 +37,6 @@ styles: ["Indie Rock"]
 11. Paris To Sleep
 12. Sleepin' At The Meetin'
 13. God Bless America
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hotel-last-resort/1460178156" >}}<br>

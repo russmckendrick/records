@@ -21,10 +21,9 @@ genres: ["Jazz", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ---
 
-{{< img src="blue-velvet-original-motion-picture-soundtrack-10658310.jpg" title="Blue Velvet (Original Motion Picture Soundtrack) by Angelo Badalamenti" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title (1:27)
 2. Night Streets / Sandy And Jeffrey (3:42)
 3. Frank (3:34)
@@ -41,10 +40,6 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 14. In Dreams (2:48)
 15. Love Letters (2:36)
 16. Mysteries Of Love (4:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-velvet-original-motion-picture-soundtrack/1649800938" >}}<br>

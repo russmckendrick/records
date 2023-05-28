@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="earth-to-dora-she-belongs-with-the-gentle-souls-16136698.jpg" title="Earth To Dora (She Belongs With The Gentle Souls) by Eels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Anything For Boo	
 2. Are We Alright Again	
 3. Who You Say You Are	
@@ -37,10 +36,6 @@ styles: []
 10. OK
 11. Baby Let's Make It Real	
 12. Waking Up	
-
-<!-- section break -->
-
-
 
 
 

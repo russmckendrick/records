@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="breakfast-in-america-5030690.jpg" title="Breakfast In America by Supertramp" >}}
+Breakfast in America is the sixth studio album by the English rock band Supertramp, released by A&M Records on 29 March 1979. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned four US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), "Take the Long Way Home" (No. 10) and "Breakfast in America" (No. 62). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an RIAA certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gone Hollywood (5:20)
 2. The Logical Song (4:11)
 3. Goodbye Stranger (5:50)
@@ -34,13 +36,6 @@ styles: ["Pop Rock"]
 8. Just Another Nervous Wreck (4:25)
 9. Casual Conversations (2:58)
 10. Child Of Vision (7:31)
-
-<!-- section break -->
-
-Breakfast in America is the sixth studio album by the English rock band Supertramp, released by A&M Records on 29 March 1979. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned four US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), "Take the Long Way Home" (No. 10) and "Breakfast in America" (No. 62). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an RIAA certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-remastered/1440512054" >}}<br>

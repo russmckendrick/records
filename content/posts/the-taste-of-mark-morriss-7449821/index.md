@@ -17,10 +17,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="the-taste-of-mark-morriss-7449821.jpg" title="The Taste Of Mark Morriss by Mark Morriss" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. This Pullover
 2. Rock And Roll Woman
 3. Souvenir
@@ -33,10 +32,6 @@ styles: ["Indie Pop"]
 10. Don't Let Go
 11. Love Comes Quickly
 12. Good Advices
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149" >}}<br>

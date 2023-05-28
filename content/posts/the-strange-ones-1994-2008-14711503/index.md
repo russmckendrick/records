@@ -19,10 +19,9 @@ genres: ["Rock", "Non-Music"]
 styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternative Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-strange-ones-1994-2008-14711503.jpg" title="The Strange Ones 1994-2008  by Supergrass" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rarities, Remixes & B-Sides
 2. Caught By The Fuzz (Backbeat Version)
 3. Strange Ones (Backbeat Version)
@@ -334,10 +333,6 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 309. 2020 Remixes Single
 310. Caught By The Fuzz (Danny Goffey 2020 Remix)
 311. Richard III (Cousn 2020 Remix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1493585754" >}}<br>

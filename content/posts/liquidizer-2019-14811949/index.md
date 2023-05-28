@@ -22,18 +22,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="liquidizer-2019-14811949.jpg" title="Liquidizer 2019 by Jesus Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Move Mountains (3:18)
 2. All The Answers (3:59)
 3. Someone To Blame (4:00)
 4. Bring It On Down (7:37)
-
-<!-- section break -->
-
-
 
 
 

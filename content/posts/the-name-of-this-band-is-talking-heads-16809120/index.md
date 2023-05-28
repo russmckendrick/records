@@ -26,10 +26,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Art Rock", "Funk"]
 ---
 
-{{< img src="the-name-of-this-band-is-talking-heads-16809120.jpg" title="The Name Of This Band Is Talking Heads by Talking Heads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. New Feeling (3:10)
 2. A Clean Break (4:57)
 3. Don't Worry About The Government (3:08)
@@ -47,10 +46,6 @@ styles: ["New Wave", "Art Rock", "Funk"]
 15. The Great Curve (6:58)
 16. Crosseyed And Painless (7:05)
 17. Take Me To The River (6:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-name-of-this-band-is-talking-heads-live-expanded-version/20917648" >}}<br>

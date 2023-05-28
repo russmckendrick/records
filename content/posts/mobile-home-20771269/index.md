@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="mobile-home-20771269.jpg" title="Mobile Home by Longpigs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Frank Sonata (3:53)
 2. Blue Skies (3:57)
 3. Gangsters  (4:57)
@@ -36,10 +35,6 @@ styles: ["Indie Rock", "Britpop"]
 11. Dog Is Dead  (4:01)
 12. Loud And Clear  (3:09)
 13. In The Snow  (4:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mobile-home/1443716812" >}}<br>

@@ -87,10 +87,9 @@ genres: ["Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Pop Rock", "Glam", "Soul"]
 ---
 
-{{< img src="who-can-i-be-now-19741976-9088273.jpg" title="Who Can I Be Now? [ 1974–1976 ] by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Diamond Dogs (2016 Remaster)
 2. Future Legend (1:00)
 3. Diamond Dogs (5:50)
@@ -204,10 +203,6 @@ styles: ["Pop Rock", "Glam", "Soul"]
 111. Stay (Original Single Edit) (3:22)
 112. Word On A Wing (Original Single Edit) (3:14)
 113. John, I'm Only Dancing (Again) (1975) (Single Version) (3:26)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/who-can-i-be-now-1974-1976/1135943211" >}}<br>

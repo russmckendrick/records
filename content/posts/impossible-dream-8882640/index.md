@@ -21,10 +21,12 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="impossible-dream-8882640.jpg" title="Impossible Dream by Haley Bonar" >}}
+Dustbowl ballads and hazily anthemic hymns to heartache have always been part of Haley Bonar’s DNA. But there’s the feeling of stars aligning on the Minnesotan’s sixth record. From the cowboy-booted stomp of “Hometown” and riff-borne punchlines of “Called You Queen” (“Excuse me sir, do you have a light? I know that I can be dark”), to the strange, punky storm that is “Kismet Kill”, this is a compact, complex revelation.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hometown (3:05)
 2. Your Mom Is Right (3:30)
 3. Kismet Kill (3:29)
@@ -35,13 +37,6 @@ styles: []
 8. Skynz (2:55)
 9. Better Than Me (3:14)
 10. Blue Diamonds Fall (2:32)
-
-<!-- section break -->
-
-Dustbowl ballads and hazily anthemic hymns to heartache have always been part of Haley Bonar’s DNA. But there’s the feeling of stars aligning on the Minnesotan’s sixth record. From the cowboy-booted stomp of “Hometown” and riff-borne punchlines of “Called You Queen” (“Excuse me sir, do you have a light? I know that I can be dark”), to the strange, punky storm that is “Kismet Kill”, this is a compact, complex revelation.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/impossible-dream/1106390964" >}}<br>

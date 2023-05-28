@@ -21,10 +21,12 @@ genres: ["Rock", "Blues"]
 styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric Blues"]
 ---
 
-{{< img src="a-ass-pocket-of-whiskey-1680037.jpg" title="A Ass Pocket Of Whiskey by R.L. Burnside" >}}
+A Ass Pocket of Whiskey is the seventh studio album by the American Mississippi Hill Country Bluesman R.L. Burnside and the American punk blues band Jon Spencer Blues Explosion, released on Matador Records on 18 June 1996. Unusually, The Penguin Guide to Blues Recordings gave the album two contrasting ratings, indicating divided critical opinion.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Goin' Down South
 2. Boogie Chillen
 3. Poor Boy
@@ -35,13 +37,6 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 8. Walkin' Blues
 9. Tojo Told Hitler
 10. Have You Ever Been Lonely?
-
-<!-- section break -->
-
-A Ass Pocket of Whiskey is the seventh studio album by the American Mississippi Hill Country Bluesman R.L. Burnside and the American punk blues band Jon Spencer Blues Explosion, released on Matador Records on 18 June 1996. Unusually, The Penguin Guide to Blues Recordings gave the album two contrasting ratings, indicating divided critical opinion.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-ass-pocket-of-whiskey/1093176251" >}}<br>

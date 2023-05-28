@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="late-night-final-6196121.jpg" title="Late Night Final by Richard Hawley" >}}
+Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.
+Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
+The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Something Is...! (3:42)
 2. Baby You're My Light (2:56)
 3. Love Of My Life (3:20)
@@ -36,15 +40,6 @@ styles: ["Alternative Rock"]
 9. Cry A Tear For The Man In The Moon (3:26)
 10. Long Black Train (4:13)
 11. The Light At The End Of The Tunnel (Was A Train Coming The Other Way) (4:54)
-
-<!-- section break -->
-
-Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.
-Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
-The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-final/290851062" >}}<br>

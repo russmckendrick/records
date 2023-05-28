@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="cyr-16280158.jpg" title="Cyr by The Smashing Pumpkins" >}}
+Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Colour Of Love (4:24)
 2. Confessions Of A Dopamine Addict (3:14)
 3. Cyr (4:03)
@@ -46,13 +48,6 @@ styles: ["Alternative Rock"]
 18. Schaudenfreud (3:02)
 19. Tyger, Tyger (2:50)
 20. Minerva (3:33)
-
-<!-- section break -->
-
-Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cyr/1663124222" >}}<br>

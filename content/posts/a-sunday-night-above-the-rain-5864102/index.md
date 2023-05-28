@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
-{{< img src="a-sunday-night-above-the-rain-5864102.jpg" title="A Sunday Night Above The Rain by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Gaza
 2. Waiting To Happen
 3. Lucky Man
@@ -43,10 +42,6 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 11. The King Of Sunset Town
 12. The Sky Above The Rain
 13. Garden Party
-
-<!-- section break -->
-
-
 
 
 ## Spotify

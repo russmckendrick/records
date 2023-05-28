@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="nurse-415845.jpg" title="Nurse by Therapy?" >}}
+Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nausea (3:56)
 2. Teethgrinder (3:26)
 3. Disgracelands (3:42)
@@ -35,13 +37,6 @@ styles: ["Indie Rock"]
 8. Zipless (2:53)
 9. Deep Sleep (5:14)
 10. Hypermania (2:48)
-
-<!-- section break -->
-
-Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nurse/1444110474" >}}<br>

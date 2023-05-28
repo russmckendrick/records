@@ -19,16 +19,6 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-{{< img src="love-will-tear-us-apart-15622231.jpg" title="Love Will Tear Us Apart by Joy Division" >}}
-
-<!-- section break -->
-
-1. Love Will Tear Us Apart
-2. These Days
-3. Love Will Tear Us Apart
-
-<!-- section break -->
-
 "Love Will Tear Us Apart" is a song by English rock band Joy Division, released in June 1980 as a non-album single. Its lyrics were inspired by lead singer Ian Curtis's marital problems and struggles with epilepsy. The single was released the month after his suicide.
 The song was certified platinum in the UK, selling over 600,000 copies, and has an ongoing legacy as a defining song of the era. In 2002, NME named "Love Will Tear Us Apart" as the greatest single of all time, while Rolling Stone named it one of the 500 best songs ever in 2004, 2011, and 2021.
 
@@ -36,6 +26,11 @@ The song was certified platinum in the UK, selling over 600,000 copies, and has 
     
     
 
+
+## Tracklisting
+1. Love Will Tear Us Apart
+2. These Days
+3. Love Will Tear Us Apart
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858" >}}<br>

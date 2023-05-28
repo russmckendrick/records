@@ -22,10 +22,12 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
 
-{{< img src="diva-11637996.jpg" title="Diva by Annie Lennox" >}}
+Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum. Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Why (4:53)
 2. Walking On Broken Glass (4:12)
 3. Precious (5:08)
@@ -36,13 +38,6 @@ styles: ["Synth-pop", "Ballad", "Pop Rock"]
 8. Primitive (4:16)
 9. Stay By Me (6:26)
 10. The Gift (4:52)
-
-<!-- section break -->
-
-Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum. Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diva/258646635" >}}<br>

@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-big-express-25208314.jpg" title="The Big Express by XTC" >}}
+The Big Express is the seventh studio album by English rock band XTC, released on 15 October 1984 by Virgin Records. It is an autobiographical concept album inspired by the band's hometown of Swindon and its railway system, the Swindon Works. In comparison to its predecessor Mummer (1983), which had a modest, pastoral approach to production, the album features a bright, uptempo sound marked by studio experimentation and denser arrangements, setting a template that they further developed on subsequent albums.XTC produced the album with Crescent Studios owner David Lord on a budget exceeding £75,000 (equivalent to £260,000 in 2021). Like Mummer, the Glitter Band's Pete Phipps was hired as a session drummer for the band. They continued extending their use of exotic colors, incorporating instruments such as LinnDrum, euphonium, and E-mu Emulator for the first time in their work. Much of the album showcased the band's psychedelic influences through its reliance on Mellotron, a tape-based sampling keyboard popular in the 1960s and 1970s, and effects such as reverse echo and phasing. The title refers to express trains and artistic expression.
+Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart and its music video cost £33,000 to produce.  The Big Express received little critical notice and sold fewer copies than Mummer. It reached number 38 on the UK Albums Chart and number 178 on the US Billboard 200. Some critics suggested that its music suffered from overproduction and a lack of dynamics. In later years, the record has been described as "hugely influential". Japanese rock band Seagull Screaming Kiss Her Kiss Her derived their name from the album track of similar title.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wake Up
 2. All You Pretty Girls
 3. Shake You Donkey Up
@@ -33,14 +36,6 @@ styles: ["Pop Rock"]
 9. You're The Wish You Are I Had
 10. I Remember The Sun
 11. Train Running Low On Soul Coal
-
-<!-- section break -->
-
-The Big Express is the seventh studio album by English rock band XTC, released on 15 October 1984 by Virgin Records. It is an autobiographical concept album inspired by the band's hometown of Swindon and its railway system, the Swindon Works. In comparison to its predecessor Mummer (1983), which had a modest, pastoral approach to production, the album features a bright, uptempo sound marked by studio experimentation and denser arrangements, setting a template that they further developed on subsequent albums.XTC produced the album with Crescent Studios owner David Lord on a budget exceeding £75,000 (equivalent to £260,000 in 2021). Like Mummer, the Glitter Band's Pete Phipps was hired as a session drummer for the band. They continued extending their use of exotic colors, incorporating instruments such as LinnDrum, euphonium, and E-mu Emulator for the first time in their work. Much of the album showcased the band's psychedelic influences through its reliance on Mellotron, a tape-based sampling keyboard popular in the 1960s and 1970s, and effects such as reverse echo and phasing. The title refers to express trains and artistic expression.
-Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart and its music video cost £33,000 to produce.  The Big Express received little critical notice and sold fewer copies than Mummer. It reached number 38 on the UK Albums Chart and number 178 on the US Billboard 200. Some critics suggested that its music suffered from overproduction and a lack of dynamics. In later years, the record has been described as "hugely influential". Japanese rock band Seagull Screaming Kiss Her Kiss Her derived their name from the album track of similar title.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-express-bonus-track-version/724362839" >}}<br>

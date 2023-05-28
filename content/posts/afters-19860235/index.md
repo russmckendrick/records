@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="afters-19860235.jpg" title="Afters by The Helicopter Of The Holy Ghost" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Slow Down
 2. Difficult Song
 3. Tony Got A Car
@@ -36,10 +35,6 @@ styles: ["Indie Rock"]
 7. End Of Loneliness
 8. You Too
 9. I Didn't
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afters/1566401361" >}}<br>

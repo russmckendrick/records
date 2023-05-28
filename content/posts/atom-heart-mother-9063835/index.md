@@ -25,18 +25,6 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="atom-heart-mother-9063835.jpg" title="Atom Heart Mother by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. Atom Heart Mother
-2. If
-3. Summer '68
-4. Fat Old Sun
-5. Alan's Psychedelic Breakfast
-
-<!-- section break -->
-
 Atom Heart Mother is the fifth studio album by the English band Pink Floyd. It was released by Harvest on 2 October 1970 in the UK, and by Capitol on 10 October 1970 in the US. It was recorded at EMI Studios (now Abbey Road Studios) in London, and was the band's first album to reach number 1 in the UK, while it reached number 55 in the US, eventually going gold there.The cover was designed by Hipgnosis, and was the first one not to feature the band's name on the cover, or contain any photographs of the band anywhere. This was a trend that would continue on subsequent covers throughout the 1970s and beyond.
 Although it was commercially successful on release, the band – particularly Roger Waters and David Gilmour – have expressed negative opinions of the album. "A really awful and embarrassing record," said Waters.A remastered CD was released in 1994 in the UK and the US, and again in 2011. Ron Geesin, who had influenced and collaborated with Waters, contributed to the title track and received a then-rare outside songwriting credit.
 
@@ -45,6 +33,13 @@ Although it was commercially successful on release, the band – particularly Ro
         
     
 
+
+## Tracklisting
+1. Atom Heart Mother
+2. If
+3. Summer '68
+4. Fat Old Sun
+5. Alan's Psychedelic Breakfast
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/atom-heart-mother/699606212" >}}<br>

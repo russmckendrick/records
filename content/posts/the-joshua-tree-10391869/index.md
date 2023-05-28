@@ -67,10 +67,18 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="the-joshua-tree-10391869.jpg" title="The Joshua Tree by U2" >}}
+The Joshua Tree is the fifth studio album by Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 9 March 1987 on Island Records. In contrast to the ambient experimentation of their 1984 release, The Unforgettable Fire, the band aimed for a harder-hitting sound within the limitation of conventional song structures on The Joshua Tree. The album is influenced by American and Irish roots music, and through sociopolitically conscious lyrics embellished with spiritual imagery, it contrasts the group's antipathy for the "real America" with their fascination with the "mythical America".
+Inspired by American experiences, literature, and politics, U2 chose America as a theme for the album. Recording began in January 1986 in Ireland, and to foster a relaxed, creative atmosphere, the group primarily recorded in two houses. Several events during the sessions helped shape the conscious tone of the album, including the band's participation in the Conspiracy of Hope benefit concerts for Amnesty International, the death of roadie Greg Carroll, and lead vocalist Bono's travels to Central America. Recording was completed in November 1986; additional production continued into January 1987. Throughout the sessions, U2 sought a "cinematic" quality for the record, one that would evoke a sense of location, in particular, the open spaces of the United States. They represented this in the sleeve photography depicting them in American desert landscapes.
+The Joshua Tree received critical acclaim, topped the charts in over 20 countries, and became the fastest-selling album in British history. According to Rolling Stone, the album increased the band's stature "from heroes to superstars". It produced the hit singles "With or Without You", "I Still Haven't Found What I'm Looking For", and "Where the Streets Have No Name", the first two of which became the group's only number-one singles in the US. The album won Grammy Awards for Album of the Year and Best Rock Performance by a Duo or Group with Vocal in 1988. The group supported the record with the Joshua Tree Tour throughout 1987, during which they began to perform in stadiums for the first time in their career.
+Frequently listed among the greatest albums of all time, The Joshua Tree is one of the world's best-selling albums, with over 25 million copies sold. U2 commemorated the record's 20th anniversary with a remastered re-release, and its 30th anniversary with concert tours and a reissue. In 2014, The Joshua Tree was selected for preservation in the US National Recording Registry, having been deemed "culturally, historically, or aesthetically significant" by the Library of Congress.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Joshua Tree Remastered
 2. Where The Streets Have No Name (5:37)
 3. I Still Haven't Found What I'm Looking For (4:37)
@@ -123,19 +131,6 @@ styles: ["Classic Rock"]
 50. Silver And Gold (4:37)
 51. Sweetest Thing (3:04)
 52. Race Against Time (4:03)
-
-<!-- section break -->
-
-The Joshua Tree is the fifth studio album by Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 9 March 1987 on Island Records. In contrast to the ambient experimentation of their 1984 release, The Unforgettable Fire, the band aimed for a harder-hitting sound within the limitation of conventional song structures on The Joshua Tree. The album is influenced by American and Irish roots music, and through sociopolitically conscious lyrics embellished with spiritual imagery, it contrasts the group's antipathy for the "real America" with their fascination with the "mythical America".
-Inspired by American experiences, literature, and politics, U2 chose America as a theme for the album. Recording began in January 1986 in Ireland, and to foster a relaxed, creative atmosphere, the group primarily recorded in two houses. Several events during the sessions helped shape the conscious tone of the album, including the band's participation in the Conspiracy of Hope benefit concerts for Amnesty International, the death of roadie Greg Carroll, and lead vocalist Bono's travels to Central America. Recording was completed in November 1986; additional production continued into January 1987. Throughout the sessions, U2 sought a "cinematic" quality for the record, one that would evoke a sense of location, in particular, the open spaces of the United States. They represented this in the sleeve photography depicting them in American desert landscapes.
-The Joshua Tree received critical acclaim, topped the charts in over 20 countries, and became the fastest-selling album in British history. According to Rolling Stone, the album increased the band's stature "from heroes to superstars". It produced the hit singles "With or Without You", "I Still Haven't Found What I'm Looking For", and "Where the Streets Have No Name", the first two of which became the group's only number-one singles in the US. The album won Grammy Awards for Album of the Year and Best Rock Performance by a Duo or Group with Vocal in 1988. The group supported the record with the Joshua Tree Tour throughout 1987, during which they began to perform in stadiums for the first time in their career.
-Frequently listed among the greatest albums of all time, The Joshua Tree is one of the world's best-selling albums, with over 25 million copies sold. U2 commemorated the record's 20th anniversary with a remastered re-release, and its 30th anniversary with concert tours and a reissue. In 2014, The Joshua Tree was selected for preservation in the US National Recording Registry, having been deemed "culturally, historically, or aesthetically significant" by the Library of Congress.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-joshua-tree/1443155637" >}}<br>

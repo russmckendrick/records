@@ -19,16 +19,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="karmadrome-eat-me-drink-me-love-me-kill-me-938078.jpg" title="Karmadrome / Eat Me! Drink Me! Love Me! Kill Me! by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Karmadrome (3:52)
 2. Eat Me Drink Me Love Me Kill Me (3:13)
-
-<!-- section break -->
-
-
 
 
 

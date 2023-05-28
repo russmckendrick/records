@@ -19,10 +19,9 @@ genres: ["Non-Music", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
 
-{{< img src="ronnie-barker-s-unbroken-british-record-4087625.jpg" title="Ronnie Barker's Unbroken British Record by Ronnie Barker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Irish Medley:
 2. Plain Speaking
 3. The Redskins Annual Dinner
@@ -33,10 +32,6 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 8. Not Round Here
 9. Pismonunciation
 10. The Welsh Medley:
-
-<!-- section break -->
-
-
 
 
 

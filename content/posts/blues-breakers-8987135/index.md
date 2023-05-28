@@ -20,10 +20,13 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 ---
 
-{{< img src="blues-breakers-8987135.jpg" title="Blues Breakers by John Mayall" >}}
+Eric Clapton was a rising star when he recorded this potent and scruffy album with British blues singer/songwriter John Mayall in 1966. Mayall’s tunes, including the brass-fortified “Key to Love,” the slow-burning “Double Crossing Time,” and barroom rave-up “Little Girl,” lift on Clapton’s fluid, gritty licks. The band channels some Beatles on Ray Charles’ R&B standard “What’d I Say,” before tackling with noisy accuracy Mose Allison and Bukka White’s gnarly prison anthem “Parchman Farm.” Meanwhile, Clapton makes his lead-vocal debut on a languorous rendition of Robert Johnson’s “Ramblin’ on My Mind.” 
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. All Your Love (3:35)
 2. Hideaway (3:14)
 3. Little Girl (2:33)
@@ -36,14 +39,6 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 10. Ramblin' On My Mind (3:07)
 11. Steppin' Out (2:28)
 12. It Ain't Right (2:41)
-
-<!-- section break -->
-
-Eric Clapton was a rising star when he recorded this potent and scruffy album with British blues singer/songwriter John Mayall in 1966. Mayall’s tunes, including the brass-fortified “Key to Love,” the slow-burning “Double Crossing Time,” and barroom rave-up “Little Girl,” lift on Clapton’s fluid, gritty licks. The band channels some Beatles on Ray Charles’ R&B standard “What’d I Say,” before tackling with noisy accuracy Mose Allison and Bukka White’s gnarly prison anthem “Parchman Farm.” Meanwhile, Clapton makes his lead-vocal debut on a languorous rendition of Robert Johnson’s “Ramblin’ on My Mind.” 
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blues-breakers-with-eric-clapton/1434913344" >}}<br>

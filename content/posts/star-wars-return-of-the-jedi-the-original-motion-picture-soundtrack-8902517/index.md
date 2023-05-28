@@ -21,10 +21,9 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517.jpg" title="Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack by John Williams" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title (The Story Continues) (5:09)
 2. Into The Trap (2:36)
 3. Luke And Leia (4:44)
@@ -36,10 +35,6 @@ styles: ["Soundtrack"]
 9. The Emperor (2:41)
 10. The Return Of The Jedi (5:02)
 11. Ewok Celebration And Finale (8:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-wars-return-of-the-jedi-original-motion/1375817940" >}}<br>

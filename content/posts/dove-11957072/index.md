@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="dove-11957072.jpg" title="Dove by Belly" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stars Align
 2. Shiny One
 3. Girl
@@ -34,10 +33,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Army Of Clay
 9. Artifact
 10. Heartstrings
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dove/1343422246" >}}<br>

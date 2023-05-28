@@ -17,10 +17,9 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Trip Hop", "Beatdown"]
 ---
 
-{{< img src="everything-is-recorded-11561081.jpg" title="Everything Is Recorded by Everything Is Recorded" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro
 2. Close But Not Quite
 3. She Said
@@ -45,10 +44,6 @@ styles: ["Trip Hop", "Beatdown"]
 22. Purify (Interlude) (1:35)
 23. Be My Friend (4:20)
 24. Everything Is Recorded (5:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609" >}}<br>

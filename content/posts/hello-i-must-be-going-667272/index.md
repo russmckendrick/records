@@ -23,10 +23,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="hello-i-must-be-going-667272.jpg" title="Hello, I Must Be Going! by Phil Collins" >}}
+Hello, I Must Be Going! is the second solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After his band Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).
+Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Don't Care Anymore (5:00)
 2. I Cannot Believe It's True (5:14)
 3. Like China (5:05)
@@ -37,14 +40,6 @@ styles: ["Pop Rock"]
 8. Don't Let Him Steal Your Heart Away (4:33)
 9. The West Side (4:59)
 10. Why Can't It Wait 'til Morning (3:01)
-
-<!-- section break -->
-
-Hello, I Must Be Going! is the second solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After his band Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).
-Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hello-i-must-be-going-deluxe-edition/1081948293" >}}<br>

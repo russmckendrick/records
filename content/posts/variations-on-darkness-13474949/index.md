@@ -19,16 +19,11 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="variations-on-darkness-13474949.jpg" title="Variations On Darkness by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Hungry Ghosts / We Live In An Old Chaos Of The Sun (20:44)
 2. The Silence Of Animals / The Truth Is, It Wanted To Cave In (22:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/variations-on-darkness/1458756921" >}}<br>

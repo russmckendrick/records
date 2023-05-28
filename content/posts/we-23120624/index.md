@@ -28,20 +28,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="we-23120624.jpg" title="We by Arcade Fire" >}}
-
-<!-- section break -->
-
-1. Age Of Anxiety I
-2. Age Of Anxiety II (Rabbit Hole)
-3. End Of The Empire I-IV
-4. The Lightning I, II
-5. Unconditional I (Lookout Kid)
-6. Unconditional II (Race And Religion)
-7. We
-
-<!-- section break -->
-
 It has nearly become a cliché unto itself for so many albums released in 2021 and 2022: an accomplished work of art that perfectly articulates themes of isolation and desperation and fatalism, only for the artists to reveal that the songs that express these ideas most acutely were written <i>before</i> the pandemic. “It was already sort of all in the world,” Arcade Fire’s Win Butler tells Apple Music’s Zane Lowe. “In order to write music, you have to have this antenna up that kind of picks up little signals from the future and signals from the past. And so I think a lot of times we're just getting these like aftershocks of things that are about to happen.”
 
 <i>WE</i> is 10 tracks, but really more like five songs, taking into account various parts and chapters that give the album its epic scope, capturing the joy-in-the-face-of-peril spirit of their beloved 2004 debut <i>Funeral</i>, only with the peril a bit heightened. The songs that Butler and his wife Régine Chassagne started in their backyard New Orleans studio prior to March 2020 form a narrative that opens in a state of despair and winds up in an unlikely place of hope and optimism, with all the exuberance that marks the band’s most memorable songs. Like all Arcade Fire albums, <i>WE</i> is a family affair, featuring not just Butler, Chassagne and Butler’s younger brother Will—who has since left the group, amicably—but Butler’s mom, a harpist, as well as guest vocals from Peter Gabriel. Read on as Butler expounds on a few key moments from <i>WE</i>.
@@ -64,6 +50,15 @@ It has nearly become a cliché unto itself for so many albums released in 2021 a
         
     
 
+
+## Tracklisting
+1. Age Of Anxiety I
+2. Age Of Anxiety II (Rabbit Hole)
+3. End Of The Empire I-IV
+4. The Lightning I, II
+5. Unconditional I (Lookout Kid)
+6. Unconditional II (Race And Religion)
+7. We
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we/1613566080" >}}<br>

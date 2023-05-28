@@ -35,10 +35,17 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
-{{< img src="ok-computer-oknotok-1997-2017-10229846.jpg" title="OK Computer OKNOTOK 1997 2017 by Radiohead" >}}
+OK Computer OKNOTOK 1997 2017 is a reissue of the 1997 album OK Computer by the English rock band Radiohead. It was released in June 2017, the album's 20th anniversary, following the 2016 acquisition of Radiohead's back catalogue by XL Recordings from EMI.
+OKNOTOK comprises remastered versions of OK Computer and its B-sides, plus three previously unreleased songs: "I Promise", "Man of War" and "Lift". The special edition includes an art book, notes, and a cassette tape of demos and session recordings. Unlike previous Radiohead reissues, which were released by EMI without Radiohead's involvement and contained no new material, the band curated the OKNOTOK material themselves.
+Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music videos were released for the three new songs, and "I Promise" and "Man of War" were released as singles. OKNOTOK debuted at number two in the UK Albums Chart and was the bestselling album in UK independent record stores for a year. In the US, it reached number 23 on the Billboard 200. It received critical acclaim.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. ip
 2. Airbag
 3. Paranoid Android
@@ -68,18 +75,6 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 27. Pearly*
 28. Palo Alto
 29. How I Made My Millions
-
-<!-- section break -->
-
-OK Computer OKNOTOK 1997 2017 is a reissue of the 1997 album OK Computer by the English rock band Radiohead. It was released in June 2017, the album's 20th anniversary, following the 2016 acquisition of Radiohead's back catalogue by XL Recordings from EMI.
-OKNOTOK comprises remastered versions of OK Computer and its B-sides, plus three previously unreleased songs: "I Promise", "Man of War" and "Lift". The special edition includes an art book, notes, and a cassette tape of demos and session recordings. Unlike previous Radiohead reissues, which were released by EMI without Radiohead's involvement and contained no new material, the band curated the OKNOTOK material themselves.
-Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music videos were released for the three new songs, and "I Promise" and "Man of War" were released as singles. OKNOTOK debuted at number two in the UK Albums Chart and was the bestselling album in UK independent record stores for a year. In the US, it reached number 23 on the Billboard 200. It received critical acclaim.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ok-computer-oknotok-1997-2017/1239489060" >}}<br>

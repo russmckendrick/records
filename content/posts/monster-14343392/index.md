@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="monster-14343392.jpg" title="Monster by R.E.M." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Monster
 2. What's The Frequency, Kenneth?
 3. Crush With Eyeliner
@@ -58,10 +57,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 24. Let Me In (Remix)
 25. Circus Envy (Remix)
 26. You (Remix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monster-2019-remaster/1484709966" >}}<br>

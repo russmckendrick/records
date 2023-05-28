@@ -19,10 +19,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ---
 
-{{< img src="sweet-freedom-the-best-of-michael-mcdonald-573351.jpg" title="Sweet Freedom (The Best Of Michael McDonald) by Michael McDonald" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sweet Freedom (4:04)
 2. (I'll Be Your) Angel (3:48)
 3. Yah Mo B There (4:29)
@@ -35,10 +34,6 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 10. That's Why (4:22)
 11. What A Fool Believes (3:40)
 12. I Can Let Go Now (2:53)
-
-<!-- section break -->
-
-
 
 
 

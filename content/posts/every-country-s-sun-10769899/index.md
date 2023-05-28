@@ -52,10 +52,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="every-country-s-sun-10769899.jpg" title="Every Country's Sun by Mogwai" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Coolverine (6:15)
 2. Party In The Dark (4:02)
 3. Brain Sweeties (4:43)
@@ -84,10 +83,6 @@ styles: ["Post Rock"]
 26. Battered At A Scramble (4:03)
 27. Old Poisons (4:30)
 28. Every Country's Sun (5:37)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/every-countrys-sun/1232654304" >}}<br>

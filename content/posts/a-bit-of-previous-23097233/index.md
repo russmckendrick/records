@@ -28,29 +28,6 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="a-bit-of-previous-23097233.jpg" title="A Bit Of Previous by Belle & Sebastian" >}}
-
-<!-- section break -->
-
-1. A Bit Of Previous LP
-2. Young And Stupid
-3. If They're Shooting At You
-4. Talk To Me Talk To Me
-5. Reclaim The Night
-6. Do It For Your Country
-7. Prophets On Hold
-8. Unnecessary Drama
-9. Come On Home
-10. A World Without You
-11. Deathbed Of My Dreams
-12. Sea Of Sorrow
-13. Working Boy In New York City
-14. A Bit Of Previous 7"
-15. A Bit Of Previous
-16. Sometimes
-
-<!-- section break -->
-
 In the winter of 2019, Belle and Sebastian had an album’s worth of material ready to record and were preparing to decamp from Scotland to California to make their ninth studio album. You know what happens next. “Once the lockdown started, everything else got forgotten, and then we very much went inside,” lead singer and songwriter Stuart Murdoch tells Apple Music. They kept busy, of course, collaborating with fans online for the pandemic-specific “Protecting the Hive” project and assembling the live compilation <i>What to Look for in Summer</i>. “But I don't think any of us were really interested in making an album remotely from each other,” says singer/violinist Sarah Martin. 
 
 Once they were able to convene in person nearly a year later, the band decided to transform their Glasgow rehearsal space into a studio and make their first LP in their hometown since 2000. Murdoch still had his reservations, but they turned out to be moot. “A vocal booth could be in San Francisco, it could be in Cape Town, it doesn't matter,” he says. “It becomes like a womb for you to imagine new songs.” And that’s very much what happened—they scrapped most of the songs from the original batch and let <i>A Bit of Previous</i> take shape organically.
@@ -99,6 +76,24 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
         
     
 
+
+## Tracklisting
+1. A Bit Of Previous LP
+2. Young And Stupid
+3. If They're Shooting At You
+4. Talk To Me Talk To Me
+5. Reclaim The Night
+6. Do It For Your Country
+7. Prophets On Hold
+8. Unnecessary Drama
+9. Come On Home
+10. A World Without You
+11. Deathbed Of My Dreams
+12. Sea Of Sorrow
+13. Working Boy In New York City
+14. A Bit Of Previous 7"
+15. A Bit Of Previous
+16. Sometimes
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-bit-of-previous/1601369496" >}}<br>

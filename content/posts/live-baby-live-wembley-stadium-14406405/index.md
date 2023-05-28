@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="live-baby-live-wembley-stadium-14406405.jpg" title="Live Baby Live Wembley Stadium by INXS" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Guns In The Sky
 2. New Sensation
 3. I Send A Message
@@ -52,10 +51,6 @@ styles: ["Alternative Rock"]
 20. Never Tears Us Apart
 21. Who Pays The Price
 22. Devil Inside
-
-<!-- section break -->
-
-
 
 
 

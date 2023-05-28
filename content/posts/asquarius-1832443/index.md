@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="asquarius-1832443.jpg" title="Asquarius by Cud" >}}
+Asquarius (1992) is the third studio album released by the Leeds-based indie rock band Cud which reached number 30 in the UK album chart. Q magazine included it in their 1998 issue as part of their essential dozen Britpop records to have in your collection. The album was reissued in 2007 in expanded form. The album was recorded at Woodlands in Castleford, except for "Possessions", which was recorded at Woodhouse in Leeds in January 1992. Mixing took place at Jacobs in Farnham, and Metropolis in London in February 1992. The recordings were mainly produced by Jon Langford, except for "Possessions", which was produced by Dave Creffield; the latter served as engineer throughout the sessions, with assistance from Neil Amor.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rich And Strange (3:39)
 2. Easy (2:45)
 3. Sometimes Rightly, Sometimes Wrongly (3:10)
@@ -39,13 +41,6 @@ styles: ["Indie Rock"]
 10. Soul Food (2:55)
 11. Once Again (5:07)
 12. No Smoking (3:29)
-
-<!-- section break -->
-
-Asquarius (1992) is the third studio album released by the Leeds-based indie rock band Cud which reached number 30 in the UK album chart. Q magazine included it in their 1998 issue as part of their essential dozen Britpop records to have in your collection. The album was reissued in 2007 in expanded form. The album was recorded at Woodlands in Castleford, except for "Possessions", which was recorded at Woodhouse in Leeds in January 1992. Mixing took place at Jacobs in Farnham, and Metropolis in London in February 1992. The recordings were mainly produced by Jon Langford, except for "Possessions", which was produced by Dave Creffield; the latter served as engineer throughout the sessions, with assistance from Neil Amor.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829" >}}<br>

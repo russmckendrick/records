@@ -22,21 +22,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Art Rock"]
 ---
 
-{{< img src="invisible-touch-6603588.jpg" title="Invisible Touch by Genesis" >}}
-
-<!-- section break -->
-
-1. Invisible Touch
-2. Tonight, Tonight, Tonight
-3. Land Of Confusion
-4. In Too Deep
-5. Anything She Does
-6. Domino
-7. Throwing It All Away
-8. The Brazilian
-
-<!-- section break -->
-
 Invisible Touch is the thirteenth studio album by the English rock band Genesis, released on 6 June 1986 by Atlantic Records in the United States and on 9 June 1986 by Charisma/Virgin Records in the United Kingdom. After taking a break in 1984 for each member to continue their solo career, the band reconvened in October 1985 to write and record Invisible Touch with engineer and producer Hugh Padgham. As with their previous album, it was written entirely through group improvisations and no material developed prior to recording was used.
 Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart and No. 3 on the US Billboard 200. It remains the band's highest selling album after it was certified multi-platinum for over 1.2 million copies sold in the UK and 6 million sold in the US. Genesis became the first band and foreign act to have five singles from one album reach the top five on the US Billboard Hot 100, with "Invisible Touch" being their first and only song to reach No. 1 on the charts. The album received mixed reviews upon its release and retrospectively, with its more pop-oriented approach and perceived similarities to Collins' solo work receiving both praise and criticism. In 2007, the album was re-released with new stereo and 5.1 surround sound mixes.
 
@@ -45,6 +30,16 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
         
     
 
+
+## Tracklisting
+1. Invisible Touch
+2. Tonight, Tonight, Tonight
+3. Land Of Confusion
+4. In Too Deep
+5. Anything She Does
+6. Domino
+7. Throwing It All Away
+8. The Brazilian
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/714425692" >}}<br>

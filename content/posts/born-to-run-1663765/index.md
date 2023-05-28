@@ -23,21 +23,6 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Classic Rock", "Folk Rock", "Pop Rock"]
 ---
 
-{{< img src="born-to-run-1663765.jpg" title="Born To Run by Bruce Springsteen" >}}
-
-<!-- section break -->
-
-1. Thunder Road (4:50)
-2. Tenth Avenue Freeze-Out (3:11)
-3. Night (3:01)
-4. Backstreets (6:29)
-5. Born To Run (4:30)
-6. She's The One (4:30)
-7. Meeting Across The River (3:16)
-8. Jungleland (9:33)
-
-<!-- section break -->
-
 Born to Run is the third studio album by American singer-songwriter Bruce Springsteen, released on August 25, 1975, by Columbia Records. As his effort to break into the mainstream, the album was a commercial success, peaking at number three on the Billboard 200 and eventually selling seven million copies in the United States. Two singles were released from the album: "Born to Run" and "Tenth Avenue Freeze-Out"; the first helped Springsteen to reach mainstream popularity. The tracks "Thunder Road", "She's the One", and "Jungleland" became staples of album-oriented rock radio and Springsteen concert high points.
 Born to Run garnered widespread acclaim upon release, and is considered by many critics to be one of the greatest rock albums of all time. On November 14, 2005, a 30th Anniversary remaster of the album was released as a box set including two DVDs: a production diary film and a concert movie. The album was remastered again in 2014 by veteran mastering engineer Bob Ludwig, who has worked on much of Springsteen's audio output since 1982, for release as part of The Album Collection Vol. 1 1973–1984, a boxed set composed of remastered editions of his first seven albums. It was later released in remastered form as a single disc as well.
 
@@ -46,6 +31,16 @@ Born to Run garnered widespread acclaim upon release, and is considered by many 
         
     
 
+
+## Tracklisting
+1. Thunder Road (4:50)
+2. Tenth Avenue Freeze-Out (3:11)
+3. Night (3:01)
+4. Backstreets (6:29)
+5. Born To Run (4:30)
+6. She's The One (4:30)
+7. Meeting Across The River (3:16)
+8. Jungleland (9:33)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-to-run/310730204" >}}<br>

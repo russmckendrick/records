@@ -26,10 +26,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "Electro"]
 ---
 
-{{< img src="oxygene-3-9435559.jpg" title="Oxygene 3 by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Oxygene (Part 14) (5:28)
 2. Oxygene (Part 15) (6:40)
 3. Oxygene (Part 16) (6:56)
@@ -37,10 +36,6 @@ styles: ["Ambient", "Electro"]
 5. Oxygene (Part 18) (2:48)
 6. Oxygene (Part 19) (5:45)
 7. Oxygene (Part 20) (7:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oxygene-3/1163143402" >}}<br>

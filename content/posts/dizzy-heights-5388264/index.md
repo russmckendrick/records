@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock"]
 ---
 
-{{< img src="dizzy-heights-5388264.jpg" title="Dizzy Heights by Neil Finn" >}}
+Dizzy Heights, released in February 2014, is the third solo album by New Zealand singer-songwriter, Neil Finn.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Impressions
 2. Dizzy Heights
 3. Flying In The Face Of Love
@@ -36,13 +38,6 @@ styles: ["Pop Rock", "Alternative Rock"]
 9. Strangest Friends
 10. In My Blood
 11. Lights Of New York
-
-<!-- section break -->
-
-Dizzy Heights, released in February 2014, is the third solo album by New Zealand singer-songwriter, Neil Finn.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973" >}}<br>

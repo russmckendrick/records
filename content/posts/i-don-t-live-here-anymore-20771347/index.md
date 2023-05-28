@@ -30,23 +30,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="i-don-t-live-here-anymore-20771347.jpg" title="I Don't Live Here Anymore by The War On Drugs" >}}
-
-<!-- section break -->
-
-1. Living Proof (4:54)
-2. Harmonia's Dream (6:26)
-3. Change (6:04)
-4. I Don't Wanna Wait (5:13)
-5. Victim (6:00)
-6. I Don't Live Here Anymore (5:28)
-7. Old Skin (4:52)
-8. Wasted (4:10)
-9. Rings Around My Father's Eyes (4:18)
-10. Occasional Rain (4:54)
-
-<!-- section break -->
-
 As The War on Drugs have grown in size and stature from bedroom recording project to sprawling, festival-headlining rock outfit, Adam Granduciel’s role has remained constant: It’s his band, his vision. But when the pandemic forced recording sessions for their fifth LP <i>I Don’t Live Here Anymore</i> to go remote in 2020, Granduciel began encouraging his bandmates to take ownership of their roles within each song—to leave their mark. “Once we got into a groove of sending each other sessions, it was this really cool thing where everyone had a way of working on their own time that really helped,” he tells Apple Music. “I think being friends with the guys now and collaborative for so many years, each time we work together, it's like everyone's more confident in their role and I’m more confident in my desire for them to step up and bring something real. I was all about giving up control.”<br />
 That shift, Granduciel adds, opened up “new sonic territory” that he couldn’t have seen by himself. And the sense of peace and perspective that came with it was mirrored—if not made possible—by changes in his personal life, namely the birth of his first child. A decade ago, Granduciel would have likely obsessed and fretted over every detail, making himself unwell in the process, “but I wasn't really scared to turn in this record,” he says. “I was excited for it to be out in the world, because it's not so much that you don't care about your work, but it’s just not the most important thing all the time. I was happy with whatever I could contribute, as long as I felt that I had given it my all.” Here, Granduciel guides us through the entire record, track by track.<br />
 <b>“Living Proof”</b>
@@ -72,6 +55,18 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
     
     
 
+
+## Tracklisting
+1. Living Proof (4:54)
+2. Harmonia's Dream (6:26)
+3. Change (6:04)
+4. I Don't Wanna Wait (5:13)
+5. Victim (6:00)
+6. I Don't Live Here Anymore (5:28)
+7. Old Skin (4:52)
+8. Wasted (4:10)
+9. Rings Around My Father's Eyes (4:18)
+10. Occasional Rain (4:54)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-dont-live-here-anymore/1576851901" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="please-come-home-6681823.jpg" title="Please Come Home by Lonely Robot" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Airlock
 2. God Vs Man
 3. The Boy In The Radio
@@ -53,10 +52,6 @@ styles: ["Prog Rock"]
 20. Are We Copies? (6:17)
 21. Human Being (5:36)
 22. The Red Balloon (2:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/please-come-home/1049160955" >}}<br>

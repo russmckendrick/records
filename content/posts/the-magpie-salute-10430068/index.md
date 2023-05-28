@@ -25,10 +25,12 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
 
-{{< img src="the-magpie-salute-10430068.jpg" title="The Magpie Salute by The Magpie Salute" >}}
+The Magpie Salute is an American rock band formed in 2016 by the Black Crowes guitarist Rich Robinson. The band also includes former Black Crowes members Marc Ford and Sven Pipien and Moke singer/songwriter John Hogg, as well as Rich Robinson band members Matt Slocum and Joe Magistro.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Omission
 2. Comin' Home
 3. What Is Home
@@ -39,13 +41,6 @@ styles: ["Blues Rock", "Classic Rock"]
 8. Fearless
 9. Glad And Sorry
 10. Time Will Tell
-
-<!-- section break -->
-
-The Magpie Salute is an American rock band formed in 2016 by the Black Crowes guitarist Rich Robinson. The band also includes former Black Crowes members Marc Ford and Sven Pipien and Moke singer/songwriter John Hogg, as well as Rich Robinson band members Matt Slocum and Joe Magistro.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-magpie-salute-live/1440905281" >}}<br>

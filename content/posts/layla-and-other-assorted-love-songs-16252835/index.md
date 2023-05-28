@@ -34,10 +34,16 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-{{< img src="layla-and-other-assorted-love-songs-16252835.jpg" title="Layla And Other Assorted Love Songs by Derek & The Dominos" >}}
+Layla and Other Assorted Love Songs is the only studio album by the English–American rock band Derek and the Dominos, released in November 1970 as a double album. It is best known for its title track, "Layla", which is often regarded as Eric Clapton's greatest musical achievement.
+The other band members were Bobby Whitlock (vocals, keyboard), Jim Gordon (drums, percussion), and Carl Radle (bass). Duane Allman played lead and slide guitar on 11 of the 14 songs.
+Initially regarded as a critical and commercial disappointment, it failed to chart in Britain and peaked at number 16 on the Billboard Top LPs chart in the United States. It returned to the US albums chart again in 1972, 1974 and 1977, and has since been certified Gold by the RIAA. The album finally debuted on the UK Albums Chart in 2011, peaking at number 68.
+In 2000, the album was inducted into the Grammy Hall of Fame. In 2003, television network VH1 named Layla and Other Assorted Love Songs the 89th-greatest album of all time. In the same year, Rolling Stone ranked it number 117 on its list of "The 500 Greatest Albums of All Time". It was ranked at number 226 on the 2020 reboot of the list. It was voted number 287 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the Super Deluxe Edition of Layla won a Grammy Award for Best Surround Sound Album.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Original Album - Half-Speed Mastered Edition - 50th Anniversary
 2. I Looked Away (3:06)
 3. Bell Bottom Blues (5:05)
@@ -69,17 +75,6 @@ styles: []
 29. High (From April / May 1971 Sessions For The Dominos' Second Album) (3:15)
 30. Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) (3:45)
 31. Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) (6:05)
-
-<!-- section break -->
-
-Layla and Other Assorted Love Songs is the only studio album by the English–American rock band Derek and the Dominos, released in November 1970 as a double album. It is best known for its title track, "Layla", which is often regarded as Eric Clapton's greatest musical achievement.
-The other band members were Bobby Whitlock (vocals, keyboard), Jim Gordon (drums, percussion), and Carl Radle (bass). Duane Allman played lead and slide guitar on 11 of the 14 songs.
-Initially regarded as a critical and commercial disappointment, it failed to chart in Britain and peaked at number 16 on the Billboard Top LPs chart in the United States. It returned to the US albums chart again in 1972, 1974 and 1977, and has since been certified Gold by the RIAA. The album finally debuted on the UK Albums Chart in 2011, peaking at number 68.
-In 2000, the album was inducted into the Grammy Hall of Fame. In 2003, television network VH1 named Layla and Other Assorted Love Songs the 89th-greatest album of all time. In the same year, Rolling Stone ranked it number 117 on its list of "The 500 Greatest Albums of All Time". It was ranked at number 226 on the 2020 reboot of the list. It was voted number 287 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the Super Deluxe Edition of Layla won a Grammy Award for Best Surround Sound Album.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/layla-and-other-assorted-love-songs-40th-anniversary/1440663263" >}}<br>

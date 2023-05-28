@@ -27,10 +27,16 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
 
-{{< img src="requiem-for-a-dream-8384112.jpg" title="Requiem For A Dream by Clint Mansell" >}}
+Requiem for a Dream is a 2000 American psychological drama film directed by Darren Aronofsky and starring Ellen Burstyn, Jared Leto, Jennifer Connelly, Christopher McDonald, and Marlon Wayans. It is based on the 1978 novel of the same name by Hubert Selby Jr., with whom Aronofsky wrote the screenplay. The film depicts four characters affected by drug addiction and how it alters their physical and emotional states. Their addictions cause them to become imprisoned in a world of delusion and desperation. As the film progresses, each character deteriorates, and their reality is overtaken by delusion, resulting in catastrophe.
+Selby's novel was optioned by Aronofsky and producer Eric Watson. Selby had always intended to adapt the novel into a film, as he had written a script years prior to Aronofsky approaching him. Aronofsky was enthusiastic about the story and developed the script with Selby, despite initial struggles to obtain funding for the film's production. He and the cast speak of the film being about addictions in general, and not just drugs, and how one’s attempts to fulfill their dreams can fuel an addiction with a theme of loneliness and avoidance of reality in different ways. Principal photography took place in Brooklyn, New York, from April to June 1999. During the post-production process, the music was composed by Clint Mansell while Jay Rabinowitz worked for editing.
+The film premiered at the 2000 Cannes Film Festival, selected as an out-of-competition entry, followed by the United States theatrical release on October 6, 2000, by Artisan Entertainment. It received a positive response from critics despite not doing well at the box office. The film's visual style, direction, screenplay, editing, musical score, cast, emotional depth, and themes were all praised, with Burstyn receiving an Academy Award nomination for Best Actress.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Summer
 2. Summer Overture (2:36)
 3. Party (0:28)
@@ -70,17 +76,6 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 37. In The End It's All Nice
 38. Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night (13:16)
 39. 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE (6:55)
-
-<!-- section break -->
-
-Requiem for a Dream is a 2000 American psychological drama film directed by Darren Aronofsky and starring Ellen Burstyn, Jared Leto, Jennifer Connelly, Christopher McDonald, and Marlon Wayans. It is based on the 1978 novel of the same name by Hubert Selby Jr., with whom Aronofsky wrote the screenplay. The film depicts four characters affected by drug addiction and how it alters their physical and emotional states. Their addictions cause them to become imprisoned in a world of delusion and desperation. As the film progresses, each character deteriorates, and their reality is overtaken by delusion, resulting in catastrophe.
-Selby's novel was optioned by Aronofsky and producer Eric Watson. Selby had always intended to adapt the novel into a film, as he had written a script years prior to Aronofsky approaching him. Aronofsky was enthusiastic about the story and developed the script with Selby, despite initial struggles to obtain funding for the film's production. He and the cast speak of the film being about addictions in general, and not just drugs, and how one’s attempts to fulfill their dreams can fuel an addiction with a theme of loneliness and avoidance of reality in different ways. Principal photography took place in Brooklyn, New York, from April to June 1999. During the post-production process, the music was composed by Clint Mansell while Jay Rabinowitz worked for editing.
-The film premiered at the 2000 Cannes Film Festival, selected as an out-of-competition entry, followed by the United States theatrical release on October 6, 2000, by Artisan Entertainment. It received a positive response from critics despite not doing well at the box office. The film's visual style, direction, screenplay, editing, musical score, cast, emotional depth, and themes were all praised, with Burstyn receiving an Academy Award nomination for Best Actress.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/requiem-for-a-dream-feat-kronos-quartet-original/315410011" >}}<br>

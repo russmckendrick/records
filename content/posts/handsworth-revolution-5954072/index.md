@@ -18,21 +18,6 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-{{< img src="handsworth-revolution-5954072.jpg" title="Handsworth Revolution by Steel Pulse" >}}
-
-<!-- section break -->
-
-1. Handsworth Revolution
-2. Bad Man
-3. Soldiers
-4. Sound Check
-5. Prodigal Son
-6. Ku Klux Klan
-7. Prediction
-8. Macka Splaff
-
-<!-- section break -->
-
 Handsworth Revolution is the debut album by British reggae band Steel Pulse. It is named after the Handsworth district of Birmingham, England, the band's home district to which the album was dedicated.
 The first Steel Pulse single for Island Records, "Ku Klux Klan" (a call for resistance against forces of racism) was released in February 1978. Five months later, their debut album was released to critical acclaim. Handsworth Revolution was produced by Karl Pitterson, who had worked with Bob Marley, Bunny Wailer and Peter Tosh. The album reached #9 on the British charts ten days after its release. The band would soon support Bob Marley & The Wailers on a 12-date European tour in June and July 1978, including concerts in Paris, Ibiza, Gothenburg, Stockholm, Oslo, Rotterdam, Amsterdam and Brussels. The tour kicked off with an outdoor festival at the New Bingley Hall in Stafford. David Hinds recalls:
 
@@ -43,6 +28,16 @@ A live performance of the track "Macka Splaff" appeared on a 1978 Virgin Records
         
     
 
+
+## Tracklisting
+1. Handsworth Revolution
+2. Bad Man
+3. Soldiers
+4. Sound Check
+5. Prodigal Son
+6. Ku Klux Klan
+7. Prediction
+8. Macka Splaff
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/handsworth-revolution-deluxe-edition/1480067980" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Bayou Funk"]
 ---
 
-{{< img src="wait-til-i-get-over-26858723.jpg" title="Wait Til I Get Over by Durand Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Gerri Marie (2:45)
 2. The Place You'd Most Want To Live (Interlude) (1:09)
 3. Lord Have Mercy (4:01)
@@ -40,10 +39,6 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 10. Someday We'll All Be Free (4:04)
 11. Letter to My 17 Year Old Self (5:48)
 12. Secrets
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wait-til-i-get-over/1668161620" >}}<br>

@@ -32,10 +32,13 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Country", "Folk", "Abstract"]
 ---
 
-{{< img src="casualties-of-cool-20193448.jpg" title="Casualties Of Cool by Casualties Of Cool" >}}
+Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
+A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Daddy (5:11)
 2. Mountaintop (5:33)
 3. Flight (5:32)
@@ -66,14 +69,6 @@ styles: ["Ambient", "Country", "Folk", "Abstract"]
 28. The Field
 29. The Bridge
 30. Pure
-
-<!-- section break -->
-
-Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
-A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool-deluxe-version/865501059" >}}<br>

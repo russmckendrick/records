@@ -33,10 +33,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-singles-798318.jpg" title="The Singles by Inspiral Carpets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Joe
 2. Find Out Why
 3. Move
@@ -58,10 +57,6 @@ styles: ["Indie Rock"]
 19. Uniform
 20. Weakness (Live) (4:39)
 21. Caravan (Live) (3:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-singles/1144246489" >}}<br>

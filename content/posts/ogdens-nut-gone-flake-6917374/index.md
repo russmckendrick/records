@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="ogdens-nut-gone-flake-6917374.jpg" title="Ogdens' Nut Gone Flake by Small Faces" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ogden's Nut Gone Flake
 2. Ogden's Nut Gone Flake
 3. Afterglow
@@ -34,10 +33,6 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 12. The Journey
 13. Mad John
 14. Happydaystoytown
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ogdens-nut-gone-flake/1193811494" >}}<br>

@@ -36,10 +36,9 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Blues Rock"]
 ---
 
-{{< img src="celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg" title="Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rolling Man
 2. Homework
 3. Doctor Brown
@@ -63,10 +62,6 @@ styles: ["Classic Rock", "Blues Rock"]
 21. The Green Manalishi (With The Two Prong Crown)
 22. Albatross
 23. Shake Your Money Maker
-
-<!-- section break -->
-
-
 
 
 ## Spotify

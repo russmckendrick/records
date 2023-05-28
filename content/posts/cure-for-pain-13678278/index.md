@@ -27,10 +27,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="cure-for-pain-13678278.jpg" title="Cure For Pain by Morphine" >}}
+Cure for Pain is the second studio album by alternative rock band Morphine, released through Rykodisc in September 1993. Jerome Deupree, the band's original drummer, quit due to health problems during the recording of the album and was replaced by Billy Conway.
+The tracks "Sheila" and "In Spite of Me" were prominently featured on the soundtrack of the 1994 independent film Spanking the Monkey. The video for "Thursday" also appeared on an episode of Beavis and Butt-head.
+The track "Buena" also appears in the first season of The Sopranos, in the Daria episode "The Teachings of Don Jake," and the barroom scene in the 1997 film Ulee's Gold.
+In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underrated '90s Alternative Rock Albums" list.As of 1995, it has sold 107,000 copies in United States and over 300,000 copies worldwide. As of 2017, combined sales of Cure for Pain and 1995's Yes are 661,000 sold copies in United States.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dawna (0:44)
 2. Buena (3:19)
 3. I’m Free Now (3:24)
@@ -44,17 +50,6 @@ styles: ["Alternative Rock"]
 11. Let’s Take A Trip Together (2:59)
 12. Sheila (2:49)
 13. Miles Davis’ Funeral (1:41)
-
-<!-- section break -->
-
-Cure for Pain is the second studio album by alternative rock band Morphine, released through Rykodisc in September 1993. Jerome Deupree, the band's original drummer, quit due to health problems during the recording of the album and was replaced by Billy Conway.
-The tracks "Sheila" and "In Spite of Me" were prominently featured on the soundtrack of the 1994 independent film Spanking the Monkey. The video for "Thursday" also appeared on an episode of Beavis and Butt-head.
-The track "Buena" also appears in the first season of The Sopranos, in the Daria episode "The Teachings of Don Jake," and the barroom scene in the 1997 film Ulee's Gold.
-In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underrated '90s Alternative Rock Albums" list.As of 1995, it has sold 107,000 copies in United States and over 300,000 copies worldwide. As of 2017, combined sales of Cure for Pain and 1995's Yes are 661,000 sold copies in United States.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cure-for-pain/162448483" >}}<br>

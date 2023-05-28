@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
 
-{{< img src="motown-funk-volume-2-11895847.jpg" title="Motown Funk Volume 2 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Drink The Wine (Album Version)
 2. Gonna Find A True Love (Single Version)
 3. Keep On Truckin' (Album Version)
@@ -44,10 +43,6 @@ styles: ["Funk", "Soul"]
 17. Mister Magic (Album Version)
 18. UFO's (Album Version)
 19. Let It Whip (Single Version)
-
-<!-- section break -->
-
-
 
 
 

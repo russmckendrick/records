@@ -54,10 +54,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="the-queen-is-dead-11023833.jpg" title="The Queen Is Dead by The Smiths" >}}
+The Queen Is Dead is the third studio album by the English rock band the Smiths. It was released on 16 June 1986 in the UK by Rough Trade Records, and on 23 June 1986 in the US by Sire Records.
+The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr, working predominantly with the engineer Stephen Street, who had engineered the Smiths' previous album, Meat Is Murder (1985). Marr wrote several songs while the Smiths toured Britain in early 1985, working out arrangements with the bassist, Andy Rourke, and the drummer, Mike Joyce during soundchecks. The title of the album is from Hubert Selby Jr.'s 1964 novel Last Exit to Brooklyn. The cover art features the French actor Alain Delon in the 1964 film L'Insoumis.The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching number two. It reached number 70 on the US Billboard Top Pop Albums chart and was certified Gold by the RIAA in late 1990. In 2020, Rolling Stone ranked The Queen Is Dead 113th on its updated list of the "500 Greatest Albums of All Time". In its 2013 list, NME named The Queen Is Dead the greatest album.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 2017 Remastered Album
 2. The Queen Is Dead  (6:24)
 3. Frankly, Mr. Shankly (2:18)
@@ -97,15 +101,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 37. That Joke Isn't Funny Anymore (4:51)
 38. The Queen Is Dead (5:08)
 39. I Know It's Over (7:39)
-
-<!-- section break -->
-
-The Queen Is Dead is the third studio album by the English rock band the Smiths. It was released on 16 June 1986 in the UK by Rough Trade Records, and on 23 June 1986 in the US by Sire Records.
-The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr, working predominantly with the engineer Stephen Street, who had engineered the Smiths' previous album, Meat Is Murder (1985). Marr wrote several songs while the Smiths toured Britain in early 1985, working out arrangements with the bassist, Andy Rourke, and the drummer, Mike Joyce during soundchecks. The title of the album is from Hubert Selby Jr.'s 1964 novel Last Exit to Brooklyn. The cover art features the French actor Alain Delon in the 1964 film L'Insoumis.The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching number two. It reached number 70 on the US Billboard Top Pop Albums chart and was certified Gold by the RIAA in late 1990. In 2020, Rolling Stone ranked The Queen Is Dead 113th on its updated list of the "500 Greatest Albums of All Time". In its 2013 list, NME named The Queen Is Dead the greatest album.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-queen-is-dead/800092985" >}}<br>

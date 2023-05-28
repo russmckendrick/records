@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="gigantoid-6129307.jpg" title="Gigantoid by Fu Manchu" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dimension Shifter
 2. Invaders On My Back
 3. Anxiety Reducer
@@ -35,10 +34,6 @@ styles: ["Stoner Rock"]
 7. Evolution Machine
 8. Triplanetary
 9. The Last Question
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gigantoid/868547942" >}}<br>

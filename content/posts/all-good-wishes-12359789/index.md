@@ -16,10 +16,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="all-good-wishes-12359789.jpg" title="All Good Wishes by Gulp" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Search For Your Love
 2. Claudia
 3. Spend Time Right Here With You
@@ -31,10 +30,6 @@ styles: ["Indie Pop"]
 9. Ride
 10. Watching Ships
 11. Silver Tides
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-good-wishes/1385894969" >}}<br>

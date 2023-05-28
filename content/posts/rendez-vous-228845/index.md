@@ -20,24 +20,19 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Experimental", "Ambient"]
 ---
 
-{{< img src="rendez-vous-228845.jpg" title="Rendez-Vous by Jean-Michel Jarre" >}}
+Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <i>Rendez-Vous</i> goes clear into the cosmos. Designed for play onboard space shuttle missions, the six-part suite has a weightless, soaring quality appropriate for that otherworldly setting. The final section is dedicated to Jarre's friend Ron McNair, an astronaut who died in the 1986 Challenger explosion. With a haunting saxophone solo atop a synthesised heartbeat, the piece becomes an emotional memorial and a somber conclusion to the interplanetary trip.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. First Rendez-vous (2:54)
 2. Second Rendez-vous (10:55)
 3. Third Rendez-vous (3:30)
 4. Fourth Rendez-vous (3:57)
 5. Fifth Rendez-vous (7:41)
 6. Last Rendez-vous: "Ron's Piece" (6:04)
-
-<!-- section break -->
-
-Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <i>Rendez-Vous</i> goes clear into the cosmos. Designed for play onboard space shuttle missions, the six-part suite has a weightless, soaring quality appropriate for that otherworldly setting. The final section is dedicated to Jarre's friend Ron McNair, an astronaut who died in the 1986 Challenger explosion. With a haunting saxophone solo atop a synthesised heartbeat, the piece becomes an emotional memorial and a somber conclusion to the interplanetary trip.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rendez-vous/1027735025" >}}<br>

@@ -36,10 +36,13 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
 
-{{< img src="the-epic-7383499.jpg" title="The Epic by Kamasi Washington" >}}
+The most ambitious jazz album to arrive in ages, Los Angeles saxophonist/composer Kamasi Washington's debut clocks in at 174 minutes—with never a dull moment. While his flawless 10-piece band already packs a wallop, thanks to their doubled basses and drums, Washington embellishes them with a string section and angelic choir. Like his luminous playing on Kendrick Lamar’s <i>To Pimp a Butterfly</i>, Washington solos with power and grace here. Versions of "Cherokee" and Terence Blanchard's "Malcolm's Theme" nod to jazz tradition, but it's originals like "Change of the Guard" that signal his truly epic aspirations.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Volume 1 - The Plan
 2. Change Of The Guard (12:16)
 3. Isabelle  (12:13)
@@ -60,14 +63,6 @@ styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 18. Malcolm's Theme (08:41)
 19. Clair De Lune (11:08)
 20. The Message (11:09)
-
-<!-- section break -->
-
-The most ambitious jazz album to arrive in ages, Los Angeles saxophonist/composer Kamasi Washington's debut clocks in at 174 minutes—with never a dull moment. While his flawless 10-piece band already packs a wallop, thanks to their doubled basses and drums, Washington embellishes them with a string section and angelic choir. Like his luminous playing on Kendrick Lamar’s <i>To Pimp a Butterfly</i>, Washington solos with power and grace here. Versions of "Cherokee" and Terence Blanchard's "Malcolm's Theme" nod to jazz tradition, but it's originals like "Change of the Guard" that signal his truly epic aspirations.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-epic/975610456" >}}<br>

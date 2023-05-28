@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ---
 
-{{< img src="waves-of-distortion-the-best-of-shoegaze-1990-2022-26951984.jpg" title="Waves Of Distortion (The Best Of Shoegaze 1990​-​2022) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Slomo
 2. Pearl - Edit
 3. Vapour Trail
@@ -46,10 +45,6 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 20. Go And Come Back
 21. Mercy Seat
 22. Ceremony
-
-<!-- section break -->
-
-
 
 
 

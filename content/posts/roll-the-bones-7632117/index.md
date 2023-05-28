@@ -28,10 +28,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="roll-the-bones-7632117.jpg" title="Roll The Bones by Rush" >}}
+Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on Roll the Bones after a brief creative hiatus following the tour promoting their previous release, Presto.
+Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dreamline
 2. Bravado
 3. Roll The Bones
@@ -42,14 +45,6 @@ styles: ["Hard Rock", "Prog Rock"]
 8. Ghost Of A Chance
 9. Neurotica
 10. You Bet Your Life
-
-<!-- section break -->
-
-Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on Roll the Bones after a brief creative hiatus following the tour promoting their previous release, Presto.
-Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-remastered/642200510" >}}<br>

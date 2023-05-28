@@ -27,10 +27,14 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="riding-with-the-king-15531509.jpg" title="Riding With The King by B.B. King" >}}
+Riding with the King is a collaborative album by B.B. King and Eric Clapton that was released in 2000. It was their first collaborative album and won the 2001 Grammy Award for Best Traditional Blues Album. The album reached number one on Billboard's Top Blues Albums and was certified 2× Platinum in the United States. Riding with the King was also released on a DVD-Audio in higher resolution and with a 5.1 surround sound mix in 2000.
+The album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Riding With The King (4:23)
 2. Ten Long Years (4:41)
 3. Key To The Highway (3:40)
@@ -45,15 +49,6 @@ styles: ["Blues Rock"]
 12. Come Rain Or Come Shine (4:10)
 13. Rollin' And Tumblin' (4:30)
 14. Let Me Love You Baby (5:07)
-
-<!-- section break -->
-
-Riding with the King is a collaborative album by B.B. King and Eric Clapton that was released in 2000. It was their first collaborative album and won the 2001 Grammy Award for Best Traditional Blues Album. The album reached number one on Billboard's Top Blues Albums and was certified 2× Platinum in the United States. Riding with the King was also released on a DVD-Audio in higher resolution and with a 5.1 surround sound mix in 2000.
-The album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/81873725" >}}<br>

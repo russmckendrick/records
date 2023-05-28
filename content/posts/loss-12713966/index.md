@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Post-Metal"]
 ---
 
-{{< img src="loss-12713966.jpg" title="Loss by Pijn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Denial
 2. Detach
 3. Distress
@@ -32,10 +31,6 @@ styles: ["Post Rock", "Post-Metal"]
 6. Unspoken
 7. Squalor
 8. Squander
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/loss/1538573096" >}}<br>

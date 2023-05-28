@@ -20,10 +20,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="passages-25038535.jpg" title="Passages by Jesus Jones" >}}
+Passages is the sixth album by the British alternative rock band Jesus Jones, released independently in 2018 through PledgeMusic.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Where Are All The Dreams?
 2. Suck It Up
 3. Chemistry
@@ -34,13 +36,6 @@ styles: ["Alternative Rock"]
 8. Grateful
 9. One Day At A Time
 10. Stripped
-
-<!-- section break -->
-
-Passages is the sixth album by the British alternative rock band Jesus Jones, released independently in 2018 through PledgeMusic.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/passages/1647622175" >}}<br>

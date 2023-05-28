@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="greatest-hits-4164015.jpg" title="Greatest Hits by Cat Stevens" >}}
+Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached #2 in the UK Albums Chart and peaked at #6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Wild World (3:19)
 2. Oh Very Young (2:35)
 3. Can't Keep It In (2:58)
@@ -35,15 +39,6 @@ styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 10. Sitting (3:11)
 11. Morning Has Broken (3:17)
 12. Another Saturday Night (2:28)
-
-<!-- section break -->
-
-Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached #2 in the UK Albums Chart and peaked at #6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cat-stevens/1440922727" >}}<br>

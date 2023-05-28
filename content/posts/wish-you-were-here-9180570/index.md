@@ -29,23 +29,18 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="wish-you-were-here-9180570.jpg" title="Wish You Were Here by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. Shine On You Crazy Diamond (1 - 5)
-2. Welcome To The Machine
-3. Have A Cigar
-4. Wish You Were Here
-5. Shine On You Crazy Diamond (6 - 9)
-
-<!-- section break -->
-
 As sprawling as their earlier epic <i>The Dark Side of the Moon</i> yet more focused, this 1975 jewel featured lengthy, left-of-centre excursions (“Shine on You Crazy Diamond”) that were both majestic and reverent—along with a couple barbs thrown at the music industry ("Have a Cigar", "Welcome to the Machine"). It's also partly Pink Floyd’s anguished and glorious tribute to the gifted Syd Barrett—whose career with the band ended seven years earlier—and a moving set from top to bottom.
         
         
     
 
+
+## Tracklisting
+1. Shine On You Crazy Diamond (1 - 5)
+2. Welcome To The Machine
+3. Have A Cigar
+4. Wish You Were Here
+5. Shine On You Crazy Diamond (6 - 9)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wish-you-were-here/704223460" >}}<br>

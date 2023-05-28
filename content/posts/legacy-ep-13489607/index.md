@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="legacy-ep-13489607.jpg" title="Legacy EP by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Legacy (Extended Version) (6:29)
 2. Can't Afford To Die (2:49)
 3. Spasm Of Identity (3:03)
@@ -28,10 +27,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 6. Wide Open Space (The Perfecto Remix) (7:16)
 7. GSOH (1:22)
 8. Face In The Crowd (3:43)
-
-<!-- section break -->
-
-
 
 
 

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="songs-about-drowning-9222029.jpg" title="Songs About Drowning by Thought Forms" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Forget My Name
 2. Woolf Music
 3. The Bridge
@@ -37,10 +36,6 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 7. By The Stars
 8. Drawn
 9. The Lake
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-about-drowning/1160347728" >}}<br>

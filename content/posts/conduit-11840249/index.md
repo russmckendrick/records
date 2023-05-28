@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="conduit-11840249.jpg" title="Conduit by Awooga" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Temporal (5:32)
 2. Tabula Rasa (4:04)
 3. Waterhole (3:33)
@@ -31,10 +30,6 @@ styles: ["Prog Rock"]
 5. Bandit (4:39)
 6. Witness (11:10)
 7. Otherside (6:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/conduit/1349990562" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-{{< img src="liberators-the-best-of-1983-1988-23727314.jpg" title="Liberators! The Best Of 1983-1988 by Spear Of Destiny" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Wheel (3:10)
 2. Rainmaker (2:56)
 3. Liberator (3:38)
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "New Wave"]
 10. Never Take Me Alive (4:15)
 11. So In Love With You (4:20)
 12. Radio Radio (3:10)
-
-<!-- section break -->
-
-
 
 
 

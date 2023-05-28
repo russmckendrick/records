@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-{{< img src="where-have-all-the-flowers-gone-2943563.jpg" title="Where Have All The Flowers Gone? by Pete Seeger" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Colorado Trail; Spanish Is The Loving Tongue; From Here On Up; Texas Girls; Swarthmore Girls; We Pity Our Bosses Five; The Scabs Crawl In
 2. Open The Door Softly; Road To Althay; Why Do Scotsmen?; Hold Up Your Petticoat; Oh, There's Two On My Back
 3. Seek And You Shall Find; Farewell Little Fishes; Where Have All The Flowers Gone?; Never Shall We Allow Another Atom Bomb To Fall; Step By Step; Joe Hill's Last Will; Seek And You Shall Find
@@ -33,10 +32,6 @@ styles: ["Folk"]
 8. To Everyone In All The World
 9. We Are Moving On To Victory
 10. Don't You Weep After Me
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395" >}}<br>

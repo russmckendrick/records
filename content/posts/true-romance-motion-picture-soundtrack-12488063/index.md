@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro House"]
 ---
 
-{{< img src="true-romance-motion-picture-soundtrack-12488063.jpg" title="True Romance (Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Side Clarence
 2. You're So Cool (3:40)
 3. Graceland (3:25)
@@ -42,10 +41,6 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 12. Outshined (5:12)
 13. Amid The Chaos Of Day (4:54)
 14. Two Hearts (3:33)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

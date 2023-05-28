@@ -16,10 +16,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="loaded-15400556.jpg" title="Loaded by Various" >}}
+Herbie: Fully Loaded is a 2005 American sports comedy film directed by Angela Robinson from a screenplay by Thomas Lennon, Robert Ben Garant, Alfred Gough, and Miles Millar. The film is the sixth installment in the Herbie film series, following the television film The Love Bug (1997), and the first theatrical film since Herbie Goes Bananas (1980). It serves as a direct sequel to the previous films. The film stars Lindsay Lohan, Justin Long, Breckin Meyer, Matt Dillon, and Michael Keaton. It features cameos by many NASCAR drivers, including Jeff Gordon, Jimmie Johnson, Tony Stewart, and Dale Jarrett.
+Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10, 2005 and was released in the United States on June 22 2005 by Buena Vista Pictures Distribution. The film received mixed reviews from critics, but positive reception from fans and audiences of the Herbie franchise. The film was a box-office success, grossing over $144 million against a budget of $50 million.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Don't Look Back In Anger (4:47)
 2. The Bartender And The Thief (2:55)
 3. Wake Up Boo! (3:08)
@@ -50,16 +55,6 @@ styles: ["Indie Rock"]
 28. Good Enough (3:57)
 29. Lucky You (4:20)
 30. Why Does It Always Rain On Me? (4:23)
-
-<!-- section break -->
-
-Herbie: Fully Loaded is a 2005 American sports comedy film directed by Angela Robinson from a screenplay by Thomas Lennon, Robert Ben Garant, Alfred Gough, and Miles Millar. The film is the sixth installment in the Herbie film series, following the television film The Love Bug (1997), and the first theatrical film since Herbie Goes Bananas (1980). It serves as a direct sequel to the previous films. The film stars Lindsay Lohan, Justin Long, Breckin Meyer, Matt Dillon, and Michael Keaton. It features cameos by many NASCAR drivers, including Jeff Gordon, Jimmie Johnson, Tony Stewart, and Dale Jarrett.
-Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10, 2005 and was released in the United States on June 22 2005 by Buena Vista Pictures Distribution. The film received mixed reviews from critics, but positive reception from fans and audiences of the Herbie franchise. The film was a box-office success, grossing over $144 million against a budget of $50 million.
-
-
-    
-    
-
 
 
 ## Spotify

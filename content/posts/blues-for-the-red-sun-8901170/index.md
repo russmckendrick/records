@@ -20,10 +20,13 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
 
-{{< img src="blues-for-the-red-sun-8901170.jpg" title="Blues For The Red Sun by Kyuss" >}}
+With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging his basslines deep enough to rattle the earth’s core and John Garcia howling from some sun-scorched spot in the middle of the California desert, Kyuss’ second album married early grunge to late-’60s acid rock—planting the seed from which stoner rock sprouted. Gut-churning slabs of ultra-distorted, tripped-out sludge like “Thumb” and “Molten Universe” plow ahead like bulldozers reshaping the moon—picking up steam, sending meteors into orbit and leaving craters in their wake.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Thumb (4:43)
 2. Green Machine (3:38)
 3. Molten Universe (2:48)
@@ -38,14 +41,6 @@ styles: ["Stoner Rock", "Hard Rock"]
 12. Allen's Wrench (2:42)
 13. Mondo Generator (6:15)
 14. Yeah (0:03)
-
-<!-- section break -->
-
-With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging his basslines deep enough to rattle the earth’s core and John Garcia howling from some sun-scorched spot in the middle of the California desert, Kyuss’ second album married early grunge to late-’60s acid rock—planting the seed from which stoner rock sprouted. Gut-churning slabs of ultra-distorted, tripped-out sludge like “Thumb” and “Molten Universe” plow ahead like bulldozers reshaping the moon—picking up steam, sending meteors into orbit and leaving craters in their wake.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blues-for-the-red-sun/213508542" >}}<br>

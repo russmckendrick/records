@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="echo-street-4379512.jpg" title="Echo Street by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Matmos
 2. The Wheel
 3. Extra Vehicular
@@ -39,10 +38,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 6. Between Today And Yesterday
 7. Echo Street
 8. Mary Rose
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/echo-street-bonus-edition/1179873452" >}}<br>

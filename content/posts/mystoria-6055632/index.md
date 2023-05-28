@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="mystoria-6055632.jpg" title="Mystoria by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Magic Carpet
 2. Black Rainbow
 3. Named After Rocky
@@ -40,10 +39,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 18. The Meaning Of If
 19. Crystal Mountain
 20. Crystal Anthem
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}<br>

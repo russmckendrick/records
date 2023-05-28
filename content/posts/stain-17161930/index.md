@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-{{< img src="stain-17161930.jpg" title="Stain by Living Colour" >}}
+Stain is the third studio album by American rock band Living Colour. It was released on March 2, 1993, by Epic Records. It is the first album to feature bassist Doug Wimbish. Stain features a generally heavier sound with more pessimistic themes, the songs representing a range of genres. It peaked at #26 on the Billboard 200. Citing "musical differences" the band split up in January 1995.The cover art shows a woman wearing a brank.
+From the mid-1990s through the early 2010s, the album was out of print due to rights issues after a lawsuit from Jon Stainbrook of the band The Stain forced Sony to cease production of the album. In November 2013, the album was reissued by Music On CD and is also available as an MP3 download. In June 2018, the album was reissued on limited edition green vinyl.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Go Away
 2. Ignorance Is Bliss
 3. Leave It Alone
@@ -39,15 +43,6 @@ styles: ["Funk Metal"]
 11. This Little Pig
 12. Hemp
 13. Wall
-
-<!-- section break -->
-
-Stain is the third studio album by American rock band Living Colour. It was released on March 2, 1993, by Epic Records. It is the first album to feature bassist Doug Wimbish. Stain features a generally heavier sound with more pessimistic themes, the songs representing a range of genres. It peaked at #26 on the Billboard 200. Citing "musical differences" the band split up in January 1995.The cover art shows a woman wearing a brank.
-From the mid-1990s through the early 2010s, the album was out of print due to rights issues after a lawsuit from Jon Stainbrook of the band The Stain forced Sony to cease production of the album. In November 2013, the album was reissued by Music On CD and is also available as an MP3 download. In June 2018, the album was reissued on limited edition green vinyl.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stain/158628416" >}}<br>

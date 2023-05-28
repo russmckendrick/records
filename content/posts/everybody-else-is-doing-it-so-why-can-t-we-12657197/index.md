@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="everybody-else-is-doing-it-so-why-can-t-we-12657197.jpg" title="Everybody Else Is Doing It, So Why Can't We? by The Cranberries" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Still Do (3:16)
 2. Dreams (4:32)
 3. Sunday (3:30)
@@ -40,10 +39,6 @@ styles: ["Alternative Rock"]
 10. I Will Always (2:42)
 11. How (2:51)
 12. Put Me Down (3:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we-the/1440743107" >}}<br>

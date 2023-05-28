@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="how-to-make-friends-and-influence-people-996005.jpg" title="How To Make Friends And Influence People by Terrorvision" >}}
+How to Make Friends and Influence People is the second album by the rock band Terrorvision, released in 1994 on Total Vegas Recordings. "Oblivion", "Middleman", "Pretend Best Friend", "Alice What's the Matter", and "Some People Say" were all released as singles. The title refers to the Dale Carnegie book How to Win Friends and Influence People. The album was recorded in 17 days.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Alice What's The Matter? (2:43)
 2. Oblivion (3:03)
 3. Stop The Bus (3:43)
@@ -37,13 +39,6 @@ styles: ["Pop Rock", "Indie Rock"]
 11. What The Doctor Ordered (2:17)
 12. Some People Say (3:03)
 13. What Makes You Tick (4:12)
-
-<!-- section break -->
-
-How to Make Friends and Influence People is the second album by the rock band Terrorvision, released in 1994 on Total Vegas Recordings. "Oblivion", "Middleman", "Pretend Best Friend", "Alice What's the Matter", and "Some People Say" were all released as singles. The title refers to the Dale Carnegie book How to Win Friends and Influence People. The album was recorded in 17 days.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-make-friends-and-influence-people/691355372" >}}<br>

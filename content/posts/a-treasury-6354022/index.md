@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="a-treasury-6354022.jpg" title="A Treasury by Nick Drake" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction
 2. Hazey Jane II
 3. River Man
@@ -42,10 +41,6 @@ styles: ["Folk Rock"]
 13. Black Eyed Dog
 14. Way To Blue
 15. From The Morning
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-treasury/1440822546" >}}<br>

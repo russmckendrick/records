@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 ---
 
-{{< img src="quo-7578559.jpg" title="Quo by Status Quo" >}}
+This is the discography of the British rock band Status Quo. They have released around 100 singles and have spent over 400 weeks in the UK Singles Chart. They have spent over 500 weeks in the UK Albums Chart and are one of the most successful bands of all time in the UK. Their most recent album, Backbone, was released in 2019.
+For a full list of the band's songs, see List of songs by Status Quo.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Backwater (4:21)
 2. Just Take Me (3:39)
 3. Break The Rules (3:40)
@@ -31,14 +34,6 @@ styles: ["Rock & Roll", "Classic Rock", "Blues Rock", "Hard Rock"]
 6. Fine Fine Fine (2:30)
 7. Lonely Man (5:00)
 8. Slow Train (7:55)
-
-<!-- section break -->
-
-This is the discography of the British rock band Status Quo. They have released around 100 singles and have spent over 400 weeks in the UK Singles Chart. They have spent over 500 weeks in the UK Albums Chart and are one of the most successful bands of all time in the UK. Their most recent album, Backbone, was released in 2019.
-For a full list of the band's songs, see List of songs by Status Quo.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quo/1442993053" >}}<br>

@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="permanent-record-the-very-best-of-violent-femmes-12833932.jpg" title="Permanent Record: The Very Best Of Violent Femmes by Violent Femmes" >}}
+Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the self-titled debut album) and working its way through the highlights on their ensuing albums, <i>Permanent Record</i> is a concise look at Wisconsin’s finest alternative rock band. “Blister In the Sun,” “Gone Daddy Gone,” Kiss Off” and “Add It Up” are the highlights from the debut. (It could be argued that the <i>entire</i> first album could be included here.) “Black Girls” includes avant-jazz legend John Zorn’s horn section. T. Rex’s “Children of the Revolution” and “I Held Her In My Arms” show the band’s expanding pop appeal, which at first listen to singer Gordon Gano’s adenoidal vocals once seemed like an impossibility. The tracks from their latter-day albums, “Nightmares” from <i>3</i>, “American Music” from <i>Why Do Birds Sing?</i>, “Color Me Once,” a rarity from the 1994 <i>Machine</i> EP, taken from the era of the <i>New Times</i> album, which featured the tortured “Breakin’ Up” and “I Danced,” and the title track from <i>Freak Magnet</i>, all prove the band still had its mojo, if in more limited doses.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gimme The Car
 2. Blister In The Sun
 3. Gone Daddy Gone / I Just Want To Make Love To You
@@ -40,13 +42,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 15. Country Death Song (Live, 1998)
 16. Freak Magnet
 17. Good Feeling (Live At Rhino)
-
-<!-- section break -->
-
-Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the self-titled debut album) and working its way through the highlights on their ensuing albums, <i>Permanent Record</i> is a concise look at Wisconsin’s finest alternative rock band. “Blister In the Sun,” “Gone Daddy Gone,” Kiss Off” and “Add It Up” are the highlights from the debut. (It could be argued that the <i>entire</i> first album could be included here.) “Black Girls” includes avant-jazz legend John Zorn’s horn section. T. Rex’s “Children of the Revolution” and “I Held Her In My Arms” show the band’s expanding pop appeal, which at first listen to singer Gordon Gano’s adenoidal vocals once seemed like an impossibility. The tracks from their latter-day albums, “Nightmares” from <i>3</i>, “American Music” from <i>Why Do Birds Sing?</i>, “Color Me Once,” a rarity from the 1994 <i>Machine</i> EP, taken from the era of the <i>New Times</i> album, which featured the tortured “Breakin’ Up” and “I Danced,” and the title track from <i>Freak Magnet</i>, all prove the band still had its mojo, if in more limited doses.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/permanent-record-the-very-best-of-the-violent-femmes/1567635436" >}}<br>

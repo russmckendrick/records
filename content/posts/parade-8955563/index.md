@@ -20,10 +20,17 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
 
-{{< img src="parade-8955563.jpg" title="Parade by Prince And The Revolution" >}}
+Parade is the eighth studio album by American recording artist Prince, and the third and final album where the Revolution is billed. It also was the soundtrack album to the 1986 film Under the Cherry Moon, directed by and starring Prince. It was released on March 31, 1986 by Paisley Park Records and Warner Bros. Records.
+Parade eschews the guitar and rock elements of Prince's 1984 album Purple Rain in favor of the psychedelic pop style he explored on Around the World in a Day (1985), austerely produced funk, and soundtrack compositions. After the critical disappointment of his 1985 album Around the World in a Day, Parade was released to acclaim from music critics. "Kiss" reached number one on the Billboard Hot 100. Parade was certified Platinum by the Recording Industry Association of America (RIAA) in June 1986.
+Parade was named one of the best albums of 1986 by The Village Voice and NME magazine, who named it their Album of the Year.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Intro
 2. Christopher Tracy's Parade (2:11)
 3. New Position (2:21)
@@ -38,18 +45,6 @@ styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 12. Kiss (3:38)
 13. Anotherloverholenyohead (3:58)
 14. Sometimes It Snows In April (6:50)
-
-<!-- section break -->
-
-Parade is the eighth studio album by American recording artist Prince, and the third and final album where the Revolution is billed. It also was the soundtrack album to the 1986 film Under the Cherry Moon, directed by and starring Prince. It was released on March 31, 1986 by Paisley Park Records and Warner Bros. Records.
-Parade eschews the guitar and rock elements of Prince's 1984 album Purple Rain in favor of the psychedelic pop style he explored on Around the World in a Day (1985), austerely produced funk, and soundtrack compositions. After the critical disappointment of his 1985 album Around the World in a Day, Parade was released to acclaim from music critics. "Kiss" reached number one on the Billboard Hot 100. Parade was certified Platinum by the Recording Industry Association of America (RIAA) in June 1986.
-Parade was named one of the best albums of 1986 by The Village Voice and NME magazine, who named it their Album of the Year.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}<br>

@@ -24,18 +24,13 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="nil-recurring-9021300.jpg" title="Nil Recurring by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Nil Recurring (6:15)
 2. Normal (7:08)
 3. Cheating the Polygraph (7:10)
 4. What Happens Now? (8:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nil-recurring-ep/1532102677" >}}<br>

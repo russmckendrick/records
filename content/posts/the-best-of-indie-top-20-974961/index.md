@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="the-best-of-indie-top-20-974961.jpg" title="The Best Of Indie Top 20 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 24 Hour Party People
 2. Stepping Stone
 3. Indian Rope
@@ -49,10 +48,6 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 20. Regina
 21. Joy
 22. Dreamtime
-
-<!-- section break -->
-
-
 
 
 

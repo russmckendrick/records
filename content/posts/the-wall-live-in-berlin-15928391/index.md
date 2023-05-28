@@ -33,10 +33,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-wall-live-in-berlin-15928391.jpg" title="The Wall (Live In Berlin) by Roger Waters" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Part One
 2. In The Flesh?
 3. The Thin Ice
@@ -65,10 +64,6 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 26. The Trial
 27. Encore
 28. The Tide Is Turning
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}<br>

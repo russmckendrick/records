@@ -25,10 +25,12 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-{{< img src="the-lookout-11865679.jpg" title="The Lookout by Laura Veirs" >}}
+On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Margaret Sands
 2. Everybody Needs You
 3. Seven Falls
@@ -41,13 +43,6 @@ styles: ["Folk"]
 10. Lightning Rod
 11. When It Grows Darkest
 12. Zozobra
-
-<!-- section break -->
-
-On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-lookout/1336461182" >}}<br>

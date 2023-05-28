@@ -28,10 +28,9 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="good-humor-los-angeles-99-26032912.jpg" title="Good Humor / Los Angeles '99 by Saint Etienne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Humor
 2. Woodcabin
 3. Sylvie
@@ -55,10 +54,6 @@ styles: ["Indie Pop"]
 21. The Bad Photographer (4:26)
 22. Sylvie (4:36)
 23. He's On The Phone	 (4:50)
-
-<!-- section break -->
-
-
 
 
 

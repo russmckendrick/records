@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="octopus-15056299.jpg" title="Octopus by Gentle Giant" >}}
+Octopus is the fourth album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album with founding member Phil Shulman and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Advent Of Panurge
 2. Raconteur, Troubadour
 3. A Cry For Everyone
@@ -33,13 +35,6 @@ styles: ["Prog Rock"]
 6. Dog's Life
 7. Think Of Me With Kindness
 8. River
-
-<!-- section break -->
-
-Octopus is the fourth album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album with founding member Phil Shulman and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/octopus-steven-wilson-mix/1204273198" >}}<br>

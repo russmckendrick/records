@@ -16,10 +16,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 ---
 
-{{< img src="boy-from-michigan-19273432.jpg" title="Boy From Michigan by John Grant" >}}
+Boy From Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Boy From Michigan
 2. County Fair
 3. The Rusty Bull
@@ -32,13 +34,6 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 10. Your Portfolio
 11. The Only Baby
 12. Billy
-
-<!-- section break -->
-
-Boy From Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boy-from-michigan/1556064481" >}}<br>

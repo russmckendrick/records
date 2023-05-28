@@ -35,10 +35,9 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-{{< img src="greatest-hitz-1969-1978-24773633.jpg" title="Greatest Hitz 1969-1978 by The Sweet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Ballroom Blitz
 2. Blockbuster
 3. Teenage Rampage
@@ -63,10 +62,6 @@ styles: ["Glam"]
 22. Stairway To The Stars
 23. Lady Starlight
 24. Own Up, Take A Look At Yourself
-
-<!-- section break -->
-
-
 
 
 

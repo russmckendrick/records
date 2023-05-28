@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ---
 
-{{< img src="eras-iv-14051869.jpg" title="Eras IV by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ziltoid The Omniscient
 2. ZTO (01:17)
 3. By Your Command (08:09)
@@ -91,10 +90,6 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 63. Colonial Boy (02:58)
 64. Grace  (06:52)
 65. Little Pig (07:30)
-
-<!-- section break -->
-
-
 
 
 

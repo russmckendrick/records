@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="resistance-is-futile-11850128.jpg" title="Resistance Is Futile by Manic Street Preachers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. People Give In
 2. International Blue
 3. Distant Colours
@@ -53,10 +52,6 @@ styles: ["Alternative Rock"]
 22. Broken Algorithms
 23. A Song For The Sadness
 24. The Left Behind
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/resistance-is-futile-deluxe/1326848106" >}}<br>

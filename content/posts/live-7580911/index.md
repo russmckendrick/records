@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="live-7580911.jpg" title="Live by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Junior's Wailing (5:16)
 2. Backwater 
 3. Just Take Me (7:39)
@@ -35,10 +34,6 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 13. Rain (4:48)
 14. Don't Waste My Time (4:08)
 15. Roadhouse Blues (14:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-night-of-the-electrics-live/1226014241" >}}<br>

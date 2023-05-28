@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-wild-the-innocent-the-e-street-shuffle-5153034.jpg" title="The Wild, The Innocent &  The E Street Shuffle by Bruce Springsteen" >}}
+His first album, the excellent <i>Greetings from Asbury Park, N.J.</i>, presented a singer/songwriter with sharp lyrical skills and an emotional spectrum that could bring tears to the eyes of attentive listeners. His second album, <i>The Wild, the Innocent, and the E Street Shuffle</i>, added his stellar E Street Band. This is where Springsteen becomes an electric performer, with songs that invent new structures and court deep narratives. “The E Street Shuffle” and “Kitty’s Back” are among the funkiest songs he’s recorded, while “4th of July, Asbury Park (Sandy)” and “Wild Billy’s Circus Story” are the warmest and most heartbreaking on the album. “Incident on 57th Street” is pure cinemascope, an elaborate tale that sweats like a classic early-‘70s film. “Rosalita (Come out Tonight)” is archetypal Springsteen, complete with Clarence Clemons chasing the Boss with his ebullient sax while the lyrics tell of Bruce’s dreams of rock stardom. “New York City Serenade” is a beast, starting with David Sancious’ elegant piano intro and working its way to a dramatic conclusion. Essential.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The E Street Shuffle (4:26)
 2. 4th Of July, Asbury Park (Sandy) (5:35)
 3. Kitty's Back (7:07)
@@ -31,13 +33,6 @@ styles: ["Pop Rock"]
 5. Incident On 57th Street (7:45)
 6. Rosalita (Come Out Tonight) (7:02)
 7. New York City Serenade (9:56)
-
-<!-- section break -->
-
-His first album, the excellent <i>Greetings from Asbury Park, N.J.</i>, presented a singer/songwriter with sharp lyrical skills and an emotional spectrum that could bring tears to the eyes of attentive listeners. His second album, <i>The Wild, the Innocent, and the E Street Shuffle</i>, added his stellar E Street Band. This is where Springsteen becomes an electric performer, with songs that invent new structures and court deep narratives. “The E Street Shuffle” and “Kitty’s Back” are among the funkiest songs he’s recorded, while “4th of July, Asbury Park (Sandy)” and “Wild Billy’s Circus Story” are the warmest and most heartbreaking on the album. “Incident on 57th Street” is pure cinemascope, an elaborate tale that sweats like a classic early-‘70s film. “Rosalita (Come out Tonight)” is archetypal Springsteen, complete with Clarence Clemons chasing the Boss with his ebullient sax while the lyrics tell of Bruce’s dreams of rock stardom. “New York City Serenade” is a beast, starting with David Sancious’ elegant piano intro and working its way to a dramatic conclusion. Essential.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-wild-the-innocent-the-e-street-shuffle/186149850" >}}<br>

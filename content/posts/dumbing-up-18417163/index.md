@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="dumbing-up-18417163.jpg" title="Dumbing Up by World Party" >}}
+Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Side One
 2. Here Comes The Future (4:44)
 3. What Does It Mean Now? (4:59)
@@ -53,13 +55,6 @@ styles: ["Alternative Rock"]
 20. Little Bit Of Perfection  (5:26)
 21. 'Til I Got You (3:42)
 22. Always On My Mind (8:34)
-
-<!-- section break -->
-
-Dumbing Up is the fifth and final studio album by World Party, released in 2000 on Karl Wallinger's own record label.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dumbing-up/711981890" >}}<br>

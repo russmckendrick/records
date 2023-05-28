@@ -42,10 +42,9 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", "Hard Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="almost-famous-music-from-the-motion-picture-19945918.jpg" title="Almost Famous (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Chipmunk Song (Christmas Don't Be Late)
 2. The Oogum Boogum Song
 3. America
@@ -111,10 +110,6 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 63. Bron-Yr-Aur
 64. "What Do You Love About Music?"
 65. Tangerine
-
-<!-- section break -->
-
-
 
 
 ## Spotify

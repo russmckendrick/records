@@ -20,10 +20,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="two-23144411.jpg" title="Two by Dubstar" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Token (4:27)
 2. I Can See You Outside (4:20)
 3. Tectonic Plates (3:34)
@@ -34,10 +33,6 @@ styles: ["Synth-pop"]
 8. Social Proof (3:26)
 9. Kissing To Be Unkind (4:38)
 10. Perfect Circle (4:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/luh-feat-pop-a-bean-remix-single/1620990649" >}}<br>

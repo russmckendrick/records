@@ -22,20 +22,15 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="rphans-25320166.jpg" title="( )rphans by Sel Balamir" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Theme (From Crocodile Dundee)
 2. Astral Womb
 3. Pink Bows
 4. Mannequin
 5. Don't Wear The Crown
 6. Orphans
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rphans-digital/1607158807" >}}<br>

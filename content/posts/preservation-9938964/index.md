@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="preservation-9938964.jpg" title="Preservation by Nadia Reid" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Preservation
 2. The Arrow And The Aim
 3. Richard
@@ -33,10 +32,6 @@ styles: []
 8. Te Aro
 9. The Way It Goes
 10. Ain't Got You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/preservation/1179774934" >}}<br>

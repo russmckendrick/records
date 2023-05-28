@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
 
-{{< img src="levelling-the-land-25th-anniversary-edition-9365189.jpg" title="Levelling The Land 25th Anniversary Edition by The Levellers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. One Way
 2. The Game
 3. Fifteen Years
@@ -98,10 +97,6 @@ styles: ["Alternative Rock", "Folk Rock"]
 63. Battle Of The Beanfield (Live At Brixton Academy)
 64. Police On My Back
 65. Where The Hell Are We Going To Live
-
-<!-- section break -->
-
-
 
 
 

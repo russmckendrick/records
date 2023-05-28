@@ -32,10 +32,13 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 ---
 
-{{< img src="pure-comedy-10089067.jpg" title="Pure Comedy by Father John Misty" >}}
+Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: Politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving L.A.,” “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pure Comedy
 2. Total Entertainment Forever
 3. Things It Would Be Helpful To Know Before The Revolution
@@ -51,14 +54,6 @@ styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 13. In Twenty Years Or So
 14. Real Love Baby
 15. Rejected Generic Pop Song March '15 #3
-
-<!-- section break -->
-
-Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: Politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving L.A.,” “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1195129976" >}}<br>

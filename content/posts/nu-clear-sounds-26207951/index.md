@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="nu-clear-sounds-26207951.jpg" title="Nu-Clear Sounds by Ash" >}}
+Nu-Clear Sounds is the second studio album by Northern Irish rock band Ash. It was released on 5 October 1998, through Infectious Records and Home Grown. Following the release of the band's debut studio album, 1977 (1996), guitarist Charlotte Hatherley became a member. They wrote new material at a farmhouse, before going to Wales to record their next album at Rockfield Studios. With additional sessions held at the Astoria in London, Ash produced the proceedings alongside Chris Kimsey and Owen Morris. A garage rock record, the New York Dolls, the Rolling Stones and the Velvet Underground inspired the album.
+Preceded by Nu-Clear Sounds' lead single "Jesus Says" in September 1998, the band toured the United Kingdom and other parts of Europe until the end of the year. "Wildsurf" was released as the second single partway through the European segment in November. In early 1999, Ash played shows in New Zealand, Australia and Japan. Following this, they performed a handful of shows in the United States and the UK, before appearing at the Glastonbury Festival. The album was released in the US in September 1999; it featured an alternate track listing and three remixes by Butch Vig of songs. A supporting US tour was planned throughout October, however, it was cut short.
+Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musicianship, while others found it inconsistent. The album peaked at number seven in the UK, alongside reaching the top 50 in Australia, Norway and Scotland. It was certified gold in the UK by the British Phonographic Industry (BPI). "Jesus Says", "Wildsurf" and "Numbskull" reached the Irish top 10, while the first two charted in the UK top 20.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Projects
 2. Low Ebb
 3. Jesus Says
@@ -37,15 +41,6 @@ styles: ["Pop Rock", "Indie Rock"]
 9. Aphrodite
 10. Fortune Teller
 11. I'm Gonna Fall
-
-<!-- section break -->
-
-Nu-Clear Sounds is the second studio album by Northern Irish rock band Ash. It was released on 5 October 1998, through Infectious Records and Home Grown. Following the release of the band's debut studio album, 1977 (1996), guitarist Charlotte Hatherley became a member. They wrote new material at a farmhouse, before going to Wales to record their next album at Rockfield Studios. With additional sessions held at the Astoria in London, Ash produced the proceedings alongside Chris Kimsey and Owen Morris. A garage rock record, the New York Dolls, the Rolling Stones and the Velvet Underground inspired the album.
-Preceded by Nu-Clear Sounds' lead single "Jesus Says" in September 1998, the band toured the United Kingdom and other parts of Europe until the end of the year. "Wildsurf" was released as the second single partway through the European segment in November. In early 1999, Ash played shows in New Zealand, Australia and Japan. Following this, they performed a handful of shows in the United States and the UK, before appearing at the Glastonbury Festival. The album was released in the US in September 1999; it featured an alternate track listing and three remixes by Butch Vig of songs. A supporting US tour was planned throughout October, however, it was cut short.
-Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musicianship, while others found it inconsistent. The album peaked at number seven in the UK, alongside reaching the top 50 in Australia, Norway and Scotland. It was certified gold in the UK by the British Phonographic Industry (BPI). "Jesus Says", "Wildsurf" and "Numbskull" reached the Irish top 10, while the first two charted in the UK top 20.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nu-clear-sounds/150385693" >}}<br>

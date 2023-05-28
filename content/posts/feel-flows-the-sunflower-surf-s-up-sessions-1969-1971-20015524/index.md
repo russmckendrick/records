@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
-{{< img src="feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524.jpg" title="Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sunflower - Original Album
 2. Slip On Through (2:19)
 3. This Whole World (1:58)
@@ -70,10 +69,6 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 36. Bonus Tracks (Previously Unreleased)
 37. A Day In The Life Of A Tree (Track- & Backing Vocals) (2:54)
 38. 'Til I Die (A Capella) (2:11)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570363167" >}}<br>

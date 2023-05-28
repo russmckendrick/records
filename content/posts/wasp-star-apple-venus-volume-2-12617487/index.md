@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="wasp-star-apple-venus-volume-2-12617487.jpg" title="Wasp Star (Apple Venus Volume 2) by XTC" >}}
+Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English rock band XTC, released 23 May 2000 on Cooking Vinyl/Idea Records. Defined by bandmember Andy Partridge as the "eclectric" counterpart to 1999's Apple Venus Volume 1, it consists of rock-based material largely written between 1994 and 1996. Wasp Star reached number 40 on the UK Albums Chart. In 2002, the group released an instrumental version of the album entitled Waspstrumental. XTC dissolved in 2006, leaving Wasp Star their last studio album to date.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Playground
 2. Stupidly Happy
 3. In Another Life
@@ -39,13 +41,6 @@ styles: []
 10. You And The Clouds Will Still Be Beautiful
 11. Church Of Women
 12. The Wheel And The Maypole
-
-<!-- section break -->
-
-Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English rock band XTC, released 23 May 2000 on Cooking Vinyl/Idea Records. Defined by bandmember Andy Partridge as the "eclectric" counterpart to 1999's Apple Venus Volume 1, it consists of rock-based material largely written between 1994 and 1996. Wasp Star reached number 40 on the UK Albums Chart. In 2002, the group released an instrumental version of the album entitled Waspstrumental. XTC dissolved in 2006, leaving Wasp Star their last studio album to date.
-    
-    
-
 
 
 

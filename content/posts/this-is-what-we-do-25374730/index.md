@@ -27,10 +27,12 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Electro"]
 ---
 
-{{< img src="this-is-what-we-do-25374730.jpg" title="This Is What We Do by Leftfield" >}}
+This Is What We Do is the fourth studio album by English electronic group Leftfield. It was released on 2 December 2022 by Virgin Records. It is the band's first album in seven years, following the 2015 album Alternative Light Source. The album features appearances by Fontaines D.C. frontman Grian Chatten and poet Lemn Sissay.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. This Is What We Do
 2. Full Way Round
 3. Making A Difference
@@ -42,13 +44,6 @@ styles: ["Leftfield", "Electro"]
 9. Accumulator
 10. Come On
 11. Power Of Listening
-
-<!-- section break -->
-
-This Is What We Do is the fourth studio album by English electronic group Leftfield. It was released on 2 December 2022 by Virgin Records. It is the band's first album in seven years, following the 2015 album Alternative Light Source. The album features appearances by Fontaines D.C. frontman Grian Chatten and poet Lemn Sissay.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-what-we-do/1635360070" >}}<br>

@@ -22,10 +22,12 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-{{< img src="music-to-draw-to-satellite-9741236.jpg" title="Music To Draw To: Satellite by Kid Koala" >}}
+The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Observable Universe
 2. Adrift
 3. Transmission 1
@@ -44,13 +46,6 @@ styles: ["Ambient"]
 16. The Darkest Day
 17. Epilogue
 18. Nightfall: Pale Blue
-
-<!-- section break -->
-
-The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755" >}}<br>

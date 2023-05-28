@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="belinda-18914803.jpg" title="Belinda by Belinda Carlisle" >}}
+Belinda is the debut studio album by American singer Belinda Carlisle. It was released on May 19, 1986 by I.R.S. Records. Carlisle began work on the album in 1985 following the breakup of the Go-Go's, for whom she was the lead singer. The album was supported by four singles, with lead single "Mad About You" peaking at number 3 on the US Billboard Hot 100 and No. 1 in Canada.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mad About You
 2. I Need A Disguise
 3. Since You've Gone
@@ -52,13 +54,6 @@ styles: ["Pop Rock"]
 20. Mad About You
 21. Since You're Gone
 22. Head Over Heels
-
-<!-- section break -->
-
-Belinda is the debut studio album by American singer Belinda Carlisle. It was released on May 19, 1986 by I.R.S. Records. Carlisle began work on the album in 1985 following the breakup of the Go-Go's, for whom she was the lead singer. The album was supported by four singles, with lead single "Mad About You" peaking at number 3 on the US Billboard Hot 100 and No. 1 in Canada.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-belinda-carlisle/996508709" >}}<br>

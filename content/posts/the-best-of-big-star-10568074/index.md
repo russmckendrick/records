@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-{{< img src="the-best-of-big-star-10568074.jpg" title="The Best Of Big Star by Big Star" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Street (Single Mix) (2:59)
 2. Don't Lie To Me (Single Version) (2:49)
 3. September Gurls (Single Version) (2:47)
@@ -37,10 +36,6 @@ styles: ["Power Pop", "Pop Rock"]
 14. Nightime (2:53)
 15. Back Of A Car (2:46)
 16. Thank You Friends (3:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-big-star/1442996836" >}}<br>

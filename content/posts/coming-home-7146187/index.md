@@ -23,10 +23,13 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Rhythm & Blues"]
 ---
 
-{{< img src="coming-home-7146187.jpg" title="Coming Home by Leon Bridges" >}}
+Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder where he parked his time machine. Channeling the buttoned-up charm of Sam Cooke and the mellower side of Otis Redding (as well as contemporary throwbacks like Raphael Saadiq), <i>Coming Home</i> captures a moment in the early '60s where gospel met blues and blossomed into doo-wop and soul. It was the period-perfect title track that helped Bridges gain an audience beyond his Texas hometown, but the swaying dedication to his mother, “Lisa Sawyer,” is every bit as lovely. 
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Coming Home
 2. Better Man
 3. Brown Skin Girl
@@ -37,14 +40,6 @@ styles: ["Soul", "Funk", "Rhythm & Blues"]
 8. Pull Away
 9. Twistin' & Groovin'
 10. River
-
-<!-- section break -->
-
-Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder where he parked his time machine. Channeling the buttoned-up charm of Sam Cooke and the mellower side of Otis Redding (as well as contemporary throwbacks like Raphael Saadiq), <i>Coming Home</i> captures a moment in the early '60s where gospel met blues and blossomed into doo-wop and soul. It was the period-perfect title track that helped Bridges gain an audience beyond his Texas hometown, but the swaying dedication to his mother, “Lisa Sawyer,” is every bit as lovely. 
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-home-deluxe/1079234232" >}}<br>

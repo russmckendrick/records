@@ -16,10 +16,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="the-atlantic-years-in-mono-9092544.jpg" title="The Atlantic Years - In Mono by Ray Charles" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Great Ray Charles
 2. The Ray (3:56)
 3. My Melancholy Baby (4:19)
@@ -105,10 +104,6 @@ styles: ["Rhythm & Blues"]
 83. Mr. Charles' Blues (2:44)
 84. Some Day Baby (2:58)
 85. I Wonder Who (2:46)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}<br>

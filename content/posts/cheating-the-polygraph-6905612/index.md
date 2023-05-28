@@ -25,10 +25,9 @@ genres: ["Jazz"]
 styles: []
 ---
 
-{{< img src="cheating-the-polygraph-6905612.jpg" title="Cheating The Polygraph by Gavin Harrison" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. What Happens Now? (7:32)
 2. Sound Of Muzak / So Called Friend (5:56)
 3. The Start Of Something Beautiful (4:48)
@@ -37,10 +36,6 @@ styles: []
 6. Hatesong / Halo (8:17)
 7. Cheating The Polygraph / Mother & Child Divided (5:29)
 8. Futile (6:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cheating-the-polygraph/969274641" >}}<br>

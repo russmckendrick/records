@@ -22,18 +22,13 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="project-unfollow-11850953.jpg" title="Project Unfollow by Little Simz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Poison Ivy
 2. Backseat
 3. The Book
 4. Know Yourself
-
-<!-- section break -->
-
-
 
 
 

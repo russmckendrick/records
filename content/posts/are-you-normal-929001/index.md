@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="are-you-normal-929001.jpg" title="Are You Normal? by Ned's Atomic Dustbin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Suave And Suffocated
 2. Walking Through Syrup
 3. Legoland
@@ -39,10 +38,6 @@ styles: ["Indie Rock"]
 11. Fracture
 12. Spring
 13. Intact
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}<br>

@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="selling-england-by-the-pound-12345619.jpg" title="Selling England By The Pound by Genesis" >}}
+Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released in September 1973 on Charisma Records. It reached No. 3 in the United Kingdom and No. 70 in the United States. A single from the album, "I Know What I Like (In Your Wardrobe)", was released in February 1974 and became the band's first top 30 hit in the UK.
+The album was recorded in August 1973 following the tour supporting the previous album, Foxtrot (1972). The group set aside a short period of time to write new material, which covered a number of themes, including the loss of English folk culture and an increased American influence, which was reflected in the title. Following the album's release, the group set out on tour, where they drew an enthusiastic reception from fans.
+Critics and the band members themselves have given mixed opinions of the album, though guitarist Steve Hackett has said it is his favourite Genesis record. Its reputation has improved over time, appearing on various critical and fan-voted rankings of the best progressive rock albums. The album has continued to sell and has reached Gold certification by the British Phonographic Industry and the Recording Industry Association of America. It was remastered for CD in 1994 and 2007. Several of the album tracks became fan favourites and featured as a regular part of the band's live setlist into the 1980s.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dancing With The Moonlit Knight (8:04)
 2. I Know What I Like (In Your Wardrobe) (4:10)
 3. Firth Of Fifth (9:40)
@@ -35,15 +39,6 @@ styles: ["Prog Rock"]
 6. After The Ordeal (4:15)
 7. The Cinema Show (10:41)
 8. Aisle Of Plenty (1:58)
-
-<!-- section break -->
-
-Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released in September 1973 on Charisma Records. It reached No. 3 in the United Kingdom and No. 70 in the United States. A single from the album, "I Know What I Like (In Your Wardrobe)", was released in February 1974 and became the band's first top 30 hit in the UK.
-The album was recorded in August 1973 following the tour supporting the previous album, Foxtrot (1972). The group set aside a short period of time to write new material, which covered a number of themes, including the loss of English folk culture and an increased American influence, which was reflected in the title. Following the album's release, the group set out on tour, where they drew an enthusiastic reception from fans.
-Critics and the band members themselves have given mixed opinions of the album, though guitarist Steve Hackett has said it is his favourite Genesis record. Its reputation has improved over time, appearing on various critical and fan-voted rankings of the best progressive rock albums. The album has continued to sell and has reached Gold certification by the British Phonographic Industry and the Recording Industry Association of America. It was remastered for CD in 1994 and 2007. Several of the album tracks became fan favourites and featured as a regular part of the band's live setlist into the 1980s.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/selling-england-by-the-pound/714416654" >}}<br>

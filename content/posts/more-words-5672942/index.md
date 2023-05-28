@@ -20,10 +20,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="more-words-5672942.jpg" title="More Words by Glen Campbell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. It's Over
 2. Catch The Wind
 3. Long Black Limousine
@@ -38,10 +37,6 @@ styles: []
 12. Dreams Of The Everyday Housewife
 13. You Better Sit Down Kids
 14. Love Me As Though There Were No Tomorrow
-
-<!-- section break -->
-
-
 
 
 

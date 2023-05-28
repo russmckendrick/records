@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="love-poison-live-at-the-brixton-academy-16th-may-1993-19107601.jpg" title="Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro / The Next Life (5:35)
 2. Moving (2:57)
 3. Animal Nitrate (3:16)
@@ -43,10 +42,6 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 11. To The Birds (5:19)
 12. Sleeping Pills (3:38)
 13. So Young (6:48)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-poison-live-at-the-brixton-academy-16th-may-1993/1569041269" >}}<br>

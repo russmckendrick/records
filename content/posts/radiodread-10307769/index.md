@@ -22,10 +22,9 @@ genres: ["Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
-{{< img src="radiodread-10307769.jpg" title="Radiodread by Easy Star All-Stars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Airbag (5:00)
 2. Paranoid Android (6:27)
 3. Subterranean Homesick Alien (4:40)
@@ -42,10 +41,6 @@ styles: ["Reggae", "Dub"]
 14. Exit Music (For A Dub) (4:38)
 15. Dub Is What You Get (Mad Professor/Joe Ariwa Mix) (4:34)
 16. Lucky Dub A (Mad Professor/Joe Ariwa Mix) (4:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radiodread/165821778" >}}<br>

@@ -22,25 +22,20 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="in-a-gadda-da-vida-9641670.jpg" title="In-A-Gadda-Da-Vida by Iron Butterfly" >}}
-
-<!-- section break -->
-
-1. Most Anything You Want (3:41)
-2. Flowers And Beads (3:05)
-3. My Mirage (4:51)
-4. Termination (2:50)
-5. Are You Happy (4:28)
-6. In-A-Gadda-Da-Vida (17:05)
-
-<!-- section break -->
-
 "In-A-Gadda-Da-Vida" (derived from "In the Garden of Eden") is a song recorded by Iron Butterfly, written by bandmember Doug Ingle and released on their 1968 album of the same name. 
 At slightly over 17 minutes, it occupies the entire second side of the album. The lyrics, a love song from the biblical Adam to his mate Eve, are simple and are heard only at the beginning and the end. The middle of the song features a two-and-a-half-minute Ron Bushy drum solo.
 "In-A-Gadda-Da-Vida" was Iron Butterfly's only song to reach the top 40, reaching number 30, while the album itself reached number four on the album chart and sold over 30 million copies. An 8-minute-20-second edit of the song was included in the soundtrack to the 1986 film Manhunter. In 2009, it was named the 24th-greatest hard rock song of all time by VH1. It is also often regarded as an influence on heavy metal music and one of the firsts of the genre.
     
     
 
+
+## Tracklisting
+1. Most Anything You Want (3:41)
+2. Flowers And Beads (3:05)
+3. My Mirage (4:51)
+4. Termination (2:50)
+5. Are You Happy (4:28)
+6. In-A-Gadda-Da-Vida (17:05)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-a-gadda-da-vida/780234002" >}}<br>

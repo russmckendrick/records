@@ -20,10 +20,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="half-the-city-5421968.jpg" title="Half The City by St. Paul & The Broken Bones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Torn Up (3:37)
 2. Don't Mean A Thing (3:06)
 3. Call Me (2:51)
@@ -36,10 +35,6 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Let It Be So (3:19)
 11. Dixie Rothko (3:32)
 12. It's Midnight (2:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}<br>

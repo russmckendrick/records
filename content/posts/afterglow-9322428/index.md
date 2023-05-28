@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="afterglow-9322428.jpg" title="Afterglow by Crowded House" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Am In Love
 2. Sacred Cow
 3. You Can Touch
@@ -42,10 +41,6 @@ styles: ["Pop Rock"]
 11. Recurring Dream
 12. Left Hand
 13. Time Immemorial
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afterglow-deluxe-edition/1442858192" >}}<br>

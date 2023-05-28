@@ -24,18 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ---
 
-{{< img src="blindfold-ep-26071315.jpg" title="Blindfold EP by Curve" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ten Little Girls
 2. I Speak Your Every Word
 3. Blindfold
 4. No Escape From Heaven
-
-<!-- section break -->
-
-
 
 
 

@@ -31,10 +31,13 @@ genres: ["Electronic"]
 styles: ["Ambient", "House"]
 ---
 
-{{< img src="abolition-of-the-royal-familia-14977767.jpg" title="Abolition Of The Royal Familia by The Orb" >}}
+Between the album title and the cover art, you might expect that The Orb’s <i>Abolition of the Royal Familia</i> advocates for insurrection. But the reality of the record, a companion to 2018’s <i>No Sounds Are Out of Bounds</i>, is more complicated. For all their implicit critique of the British monarchy, Alex Paterson and his fellow pranksters (including long-time comrades Youth, Steve Hillage and Roger Eno) mainly occupy themselves as they always have, moulding ambient, dub and house into voluminous shapes the colour and texture of cotton candy. It all kicks off with a surprisingly groove-heavy opening, as the gauzy disco of “Daze (Missing & Messed Up Mix)” gives way to the heavier “House of Narcotics (Opium Wars Mix)” and then the peak-time house of “Hawk Kings (Oseberg Buddhas Buttonhole)”. But the bulk of the album is as beatifically supine as The Orb have ever sounded. “Afros, Afghans and Angels (Helgö Treasure Chest)” is a pastel snapshot of easy-listening orchestra; “Shape Shifters (In Two Parts) [Coffee & Ghost Train Mix]” morphs from jazzy new age into moonwalking reggae. Even the closing “Slave Till U Die No Matter What U Buy”, an ambient remake of Jello Biafra’s “Message From Our Sponsor”, is dreamy rather than dread-filled. The Orb have always known how to channel even the zaniest impulses into compellingly psychedelic music; on <i>Abolition of the Royal Familia</i>, their gallows humour sounds deceptively sweet.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Daze (Missing & Messed Up Mix) (2:53)
 2. House Of Narcotics (Opium Wars Mix) (6:10)
 3. Hawk Kings (Oseberg Buddhas Buttonhole) (4:56)
@@ -47,14 +50,6 @@ styles: ["Ambient", "House"]
 10. The Queen Of Hearts (Princess Of Clubs Mix) (5:10)
 11. The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left The Tower)) (12:37)
 12. Slave Till U Die, No Matter What U Buy (L'anse Aux Meadows Mix) (7:26)
-
-<!-- section break -->
-
-Between the album title and the cover art, you might expect that The Orb’s <i>Abolition of the Royal Familia</i> advocates for insurrection. But the reality of the record, a companion to 2018’s <i>No Sounds Are Out of Bounds</i>, is more complicated. For all their implicit critique of the British monarchy, Alex Paterson and his fellow pranksters (including long-time comrades Youth, Steve Hillage and Roger Eno) mainly occupy themselves as they always have, moulding ambient, dub and house into voluminous shapes the colour and texture of cotton candy. It all kicks off with a surprisingly groove-heavy opening, as the gauzy disco of “Daze (Missing & Messed Up Mix)” gives way to the heavier “House of Narcotics (Opium Wars Mix)” and then the peak-time house of “Hawk Kings (Oseberg Buddhas Buttonhole)”. But the bulk of the album is as beatifically supine as The Orb have ever sounded. “Afros, Afghans and Angels (Helgö Treasure Chest)” is a pastel snapshot of easy-listening orchestra; “Shape Shifters (In Two Parts) [Coffee & Ghost Train Mix]” morphs from jazzy new age into moonwalking reggae. Even the closing “Slave Till U Die No Matter What U Buy”, an ambient remake of Jello Biafra’s “Message From Our Sponsor”, is dreamy rather than dread-filled. The Orb have always known how to channel even the zaniest impulses into compellingly psychedelic music; on <i>Abolition of the Royal Familia</i>, their gallows humour sounds deceptively sweet.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia/1489955235" >}}<br>

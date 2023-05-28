@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="radiation-2013-4755043.jpg" title="Radiation 2013 by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Costa Del Slough
 2. Under The Sun
 3. The Answering Machine
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 7. Born To Run
 8. Cathedral Wall
 9. A Few Words For The Dead
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radiation-2013/1328434526" >}}<br>

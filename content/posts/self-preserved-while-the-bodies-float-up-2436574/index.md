@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="self-preserved-while-the-bodies-float-up-2436574.jpg" title="Self Preserved While The Bodies Float Up by Oceansize" >}}
+Self Preserved While the Bodies Float Up is the fourth and final full-length studio album by the progressive/alternative rock band Oceansize. It was released in September 2010 on Superball Music. It has received near unanimous acclaim from critics.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Part Cardiac (4:10)
 2. Superimposer (4:14)
 3. Build Us A Rocket Then… (3:58)
@@ -47,13 +49,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 19. It's My Tail And I'll Chase It If I Want To (3:35)
 20. Pine (4:55)
 21. SuperImposter (5:15)
-
-<!-- section break -->
-
-Self Preserved While the Bodies Float Up is the fourth and final full-length studio album by the progressive/alternative rock band Oceansize. It was released in September 2010 on Superball Music. It has received near unanimous acclaim from critics.
-    
-    
-
 
 
 

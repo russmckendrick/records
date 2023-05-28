@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="the-big-area-265140.jpg" title="The Big Area by Then Jerico" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Big Area (4:46)
 2. What Does It Take? (3:46)
 3. You Ought To Know (4:10)
@@ -34,10 +33,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 7. Where You Lie (4:52)
 8. Sugar Box (3:42)
 9. Helpless (4:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-area/1320027819" >}}<br>

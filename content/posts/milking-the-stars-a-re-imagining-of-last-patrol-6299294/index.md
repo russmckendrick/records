@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="milking-the-stars-a-re-imagining-of-last-patrol-6299294.jpg" title="Milking The Stars: A Re-Imagining Of Last Patrol by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Let The Circus Burn
 2. Mindless Ones '68
 3. No Paradise For Me
@@ -40,10 +39,6 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 10. The Duke (Full On Drums 'n Wah)
 11. Last Patrol (Live)
 12. Three Kingfishers (Live)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514" >}}<br>

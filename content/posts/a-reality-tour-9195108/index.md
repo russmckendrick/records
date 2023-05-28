@@ -28,10 +28,9 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Glam"]
 ---
 
-{{< img src="a-reality-tour-9195108.jpg" title="A Reality Tour by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rebel, Rebel (3:30)
 2. New Killer Star (4:59)
 3. Reality (5:08)
@@ -65,10 +64,6 @@ styles: ["Art Rock", "Alternative Rock", "Glam"]
 31. Fall Dogs Bomb The Moon (4:11)
 32. Breaking Glass (2:27)
 33. China Girl (4:19)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-reality-tour-live/1676509044" >}}<br>

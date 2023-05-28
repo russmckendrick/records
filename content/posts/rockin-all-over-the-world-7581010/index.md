@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Rock & Roll"]
 ---
 
-{{< img src="rockin-all-over-the-world-7581010.jpg" title="Rockin' All Over The World by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hard Time (5:04)
 2. Can't Give You More (4:00)
 3. Let's Ride (3:00)
@@ -37,10 +36,6 @@ styles: ["Classic Rock", "Rock & Roll"]
 10. For You (3:03)
 11. Dirty Water (3:42)
 12. Hold You Back (4:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rockin-all-over-the-world-the-collection/1442672981" >}}<br>

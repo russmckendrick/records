@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="people-move-on-19127773.jpg" title="People Move On by Bernard Butler" >}}
+People Move On is the debut studio album of English singer-songwriter Bernard Butler that was released on 6 April 1998 through Creation Records. After a dispute with David McAlmont over the McAlmont & Butler project, Butler collaborated with various artists before starting his solo career. Following a brief period with Sony LRD in early 1996, by the end of that year, Butler had signed to Creation and switched managers from Geoff Travis to Gail Colson. Butler produced the sessions for People Move On at RAK and Air Studios, both in London, between February and July 1997. The album, which is described as a pop, rock, and folk release, has been compared to the work of Jeff Buckley, Neil Young, and Wilco.
+Music critics gave People Move On generally favourable reviews, though some of them criticized Butler's ability as a vocalist. The album charted at number 11 in the UK Albums Chart; all three of its singles charted on the UK Singles Chart, where "Stay" – the album's best-selling single – peaked at number 12. The British Phonographic Industry (BPI) certified the album silver in the United Kingdom. Before the release of the first two singles of People Move On, "Stay" on 5 January 1998 and "Not Alone" on 16 March 1998, Butler held a four-show residency in London. "A Change of Heart" was released as the album's third and final single on 15 June 1998, which was surrounded by festival performances. Butler closed the year with his first tour of the UK. People Move On was reissued in 2022; the re-release includes a version with newly recorded vocals, which some critics praised.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Woman I Know (7:51)
 2. You Just Know (4:39)
 3. People Move On (4:39)
@@ -42,14 +45,6 @@ styles: ["Indie Rock"]
 10. Stay (5:16)
 11. In Vain (4:55)
 12. I'm Tired (4:54)
-
-<!-- section break -->
-
-People Move On is the debut studio album of English singer-songwriter Bernard Butler that was released on 6 April 1998 through Creation Records. After a dispute with David McAlmont over the McAlmont & Butler project, Butler collaborated with various artists before starting his solo career. Following a brief period with Sony LRD in early 1996, by the end of that year, Butler had signed to Creation and switched managers from Geoff Travis to Gail Colson. Butler produced the sessions for People Move On at RAK and Air Studios, both in London, between February and July 1997. The album, which is described as a pop, rock, and folk release, has been compared to the work of Jeff Buckley, Neil Young, and Wilco.
-Music critics gave People Move On generally favourable reviews, though some of them criticized Butler's ability as a vocalist. The album charted at number 11 in the UK Albums Chart; all three of its singles charted on the UK Singles Chart, where "Stay" – the album's best-selling single – peaked at number 12. The British Phonographic Industry (BPI) certified the album silver in the United Kingdom. Before the release of the first two singles of People Move On, "Stay" on 5 January 1998 and "Not Alone" on 16 March 1998, Butler held a four-show residency in London. "A Change of Heart" was released as the album's third and final single on 15 June 1998, which was surrounded by festival performances. Butler closed the year with his first tour of the UK. People Move On was reissued in 2022; the re-release includes a version with newly recorded vocals, which some critics praised.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}<br>

@@ -17,10 +17,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="forever-changes-7597206.jpg" title="Forever Changes by Love" >}}
+Forever Changes is the third studio album by the American rock band Love, released by Elektra Records in November 1967. The album saw the group embrace a subtler folk-oriented sound and orchestration, while primary songwriter Arthur Lee explored darker themes alluding to mortality and his creeping disillusionment with the 1960s counterculture. It was the final album recorded by the original band lineup; after its completion, Bryan MacLean left the group acrimoniously and the other members were dismissed by leader Lee.
+Forever Changes had only moderate success in the album charts when it was first released in 1967; it peaked at No. 154 in the US, with a stronger showing in Great Britain, where it reached No. 24 on the UK album chart. In subsequent years, it became recognized as an influential document of 1960s psychedelia and was named among the greatest albums of all time by a variety of publications.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Alone Again Or (3:15)
 2. A House Is Not A Motel (3:25)
 3. Andmoreagain (3:15)
@@ -32,14 +35,6 @@ styles: ["Folk Rock", "Psychedelic Rock"]
 9. The Good Humor Man He Sees Everything Like This (3:00)
 10. Bummer In The Summer (2:20)
 11. You Set The Scene (6:49)
-
-<!-- section break -->
-
-Forever Changes is the third studio album by the American rock band Love, released by Elektra Records in November 1967. The album saw the group embrace a subtler folk-oriented sound and orchestration, while primary songwriter Arthur Lee explored darker themes alluding to mortality and his creeping disillusionment with the 1960s counterculture. It was the final album recorded by the original band lineup; after its completion, Bryan MacLean left the group acrimoniously and the other members were dismissed by leader Lee.
-Forever Changes had only moderate success in the album charts when it was first released in 1967; it peaked at No. 154 in the US, with a stronger showing in Great Britain, where it reached No. 24 on the UK album chart. In subsequent years, it became recognized as an influential document of 1960s psychedelia and was named among the greatest albums of all time by a variety of publications.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forever-changes-remastered/1125521386" >}}<br>

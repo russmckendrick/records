@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="soul-of-an-octopus-9935372.jpg" title="Soul Of An Octopus by O.R.k." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Too Numb
 2. Collapsing Hopes
 3. Searching For The Code
@@ -33,10 +32,6 @@ styles: ["Prog Rock"]
 7. Just Another Bad Day
 8. Capture Or Reveal
 9. Till The Sunrise Comes
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-of-an-octopus/1202252926" >}}<br>

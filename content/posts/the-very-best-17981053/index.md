@@ -25,10 +25,15 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="the-very-best-17981053.jpg" title="The Very Best by INXS" >}}
+The Very Best is a greatest hits album released by Australian band INXS in 2011. It initially peaked at number 39.
+Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Need You Tonight 
 2. Mystify
 3. Suicide Blonde
@@ -49,16 +54,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 18. Just Keep Walking
 19. Bitter Tears
 20. Baby Don't Cry
-
-<!-- section break -->
-
-The Very Best is a greatest hits album released by Australian band INXS in 2011. It initially peaked at number 39.
-Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best/1440521939" >}}<br>

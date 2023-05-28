@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Glam", "Hard Rock"]
 ---
 
-{{< img src="cherry-pie-26175560.jpg" title="Cherry Pie by Warrant" >}}
+Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cherry Pie (3:20)
 2. Uncle Tom's Cabin (4:01)
 3. I Saw Red (3:46)
@@ -36,13 +38,6 @@ styles: ["Glam", "Hard Rock"]
 10. Mr. Rainmaker (3:29)
 11. Train, Train (2:49)
 12. Ode To Tipper Gore (0:54)
-
-<!-- section break -->
-
-Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cherry-pie-bonus-track-version/198468184" >}}<br>

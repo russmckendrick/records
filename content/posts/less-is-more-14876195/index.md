@@ -28,10 +28,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 ---
 
-{{< img src="less-is-more-14876195.jpg" title="Less Is More by Marillion" >}}
+Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, "It's Not Your Fault". Despite some positive reviews, the album did not chart in the UK.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Go!
 2. Interior Lulu
 3. Out Of This World
@@ -44,13 +46,6 @@ styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 10. The Memory Of Water
 11. This Is The 21st Century
 12. Cannibal Surf Babe
-
-<!-- section break -->
-
-Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, "It's Not Your Fault". Despite some positive reviews, the album did not chart in the UK.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/less-is-more/331174061" >}}<br>

@@ -22,10 +22,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="prolonging-the-magic-26375354.jpg" title="Prolonging The Magic by Cake" >}}
+Prolonging the Magic is the third studio album by American alternative rock band Cake. It was released on October 6, 1998, on Capricorn Records. The sole successful single was "Never There". The album was recorded after the departure of guitarist Greg Brown and features a rotating lineup of musicians to replace him. One of them, Xan McCurdy, became his full-time replacement.
+On its opening week, Prolonging the Magic sold about 44,000 copies, debuting at No. 33 on the Billboard 200 chart. On 28 September 1999 the album was certified platinum by the RIAA for shipments of one million copies.The album was given a parental advisory sticker not because of profanity but for Satanic-themed lyrics. Some copies do not feature a sticker, with the only difference being that the song "Satan Is My Motor" has been retitled "Motor".
+The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Satan Is My Motor (3:12)
 2. Mexico (3:26)
 3. Never There (2:44)
@@ -39,17 +45,6 @@ styles: ["Alternative Rock"]
 11. Let Me Go (3:29)
 12. Cool Blue Reason (3:27)
 13. Where Would I Be? (3:52)
-
-<!-- section break -->
-
-Prolonging the Magic is the third studio album by American alternative rock band Cake. It was released on October 6, 1998, on Capricorn Records. The sole successful single was "Never There". The album was recorded after the departure of guitarist Greg Brown and features a rotating lineup of musicians to replace him. One of them, Xan McCurdy, became his full-time replacement.
-On its opening week, Prolonging the Magic sold about 44,000 copies, debuting at No. 33 on the Billboard 200 chart. On 28 September 1999 the album was certified platinum by the RIAA for shipments of one million copies.The album was given a parental advisory sticker not because of profanity but for Satanic-themed lyrics. Some copies do not feature a sticker, with the only difference being that the song "Satan Is My Motor" has been retitled "Motor".
-The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prolonging-the-magic-deluxe-version/270055627" >}}<br>

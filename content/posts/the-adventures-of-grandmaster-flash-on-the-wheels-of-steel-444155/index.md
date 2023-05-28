@@ -17,16 +17,11 @@ genres: ["Hip Hop"]
 styles: ["Cut-up/DJ"]
 ---
 
-{{< img src="the-adventures-of-grandmaster-flash-on-the-wheels-of-steel-444155.jpg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel by Grandmaster Flash & The Furious Five" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Adventures Of Grandmaster Flash On The Wheels Of Steel (7:06)
 2. The Birthday Party (Instrumental) (7:49)
-
-<!-- section break -->
-
-
 
 
 

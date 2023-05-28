@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="your-wilderness-8925684.jpg" title="Your Wilderness by The Pineapple Thief" >}}
+Your Wilderness is the eleventh studio album by British rock band The Pineapple Thief. The album features guest musicians including Gavin Harrison (Porcupine Tree, King Crimson), John Helliwell (Supertramp), and Geoffrey Richardson (Caravan).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In Exile
 2. No Man's Land
 3. Tear You Up
@@ -29,13 +31,6 @@ styles: ["Prog Rock"]
 6. Fend For Yourself
 7. The Final Thing On My Mind
 8. Where We Stood
-
-<!-- section break -->
-
-Your Wilderness is the eleventh studio album by British rock band The Pineapple Thief. The album features guest musicians including Gavin Harrison (Porcupine Tree, King Crimson), John Helliwell (Supertramp), and Geoffrey Richardson (Caravan).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/your-wilderness/1115706791" >}}<br>

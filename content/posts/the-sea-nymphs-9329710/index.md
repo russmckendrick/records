@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="the-sea-nymphs-9329710.jpg" title="The Sea Nymphs by The Sea Nymphs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Spirit Spout (2:20)
 2. Shaping The River (2:07)
 3. Nil In The Nest (1:53)
@@ -41,10 +40,6 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 17. Lilly White's Party (5:13)
 18. Appealing To Venus (2:34)
 19. Abade (3:44)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sea-nymphs/1178220150" >}}<br>

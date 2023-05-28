@@ -20,10 +20,12 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="kill-the-wolf-19905307.jpg" title="Kill The Wolf by Matt Berry" >}}
+Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gather Up
 2. Devil Inside Me
 3. Fallen Angel
@@ -36,13 +38,6 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 10. Bonfire
 11. Village Dance
 12. Farewell Summer Sun
-
-<!-- section break -->
-
-Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}<br>

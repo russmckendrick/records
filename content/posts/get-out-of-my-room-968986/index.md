@@ -19,10 +19,13 @@ genres: ["Rock", "Non-Music"]
 styles: ["Acoustic", "Comedy"]
 ---
 
-{{< img src="get-out-of-my-room-968986.jpg" title="Get Out Of My Room by Cheech & Chong" >}}
+Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born In East L.A." and "I'm Not Home Right Now" were the only singles released for the album.
+Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career and while they have since reconvened, Get Out of My Room remains their last album to date.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Born In East L.A. (4:51)
 2. Dorm Radio I (2:40)
 3. I'm Not Home Right Now (6:22)
@@ -37,14 +40,6 @@ styles: ["Acoustic", "Comedy"]
 12. Juan Coyote (1:19)
 13. Radio News (3:34)
 14. Get Out Of My Room (4:04)
-
-<!-- section break -->
-
-Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born In East L.A." and "I'm Not Home Right Now" were the only singles released for the album.
-Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career and while they have since reconvened, Get Out of My Room remains their last album to date.
-    
-    
-
 
 
 ## Spotify

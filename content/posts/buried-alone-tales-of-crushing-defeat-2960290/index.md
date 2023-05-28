@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="buried-alone-tales-of-crushing-defeat-2960290.jpg" title="Buried Alone: Tales Of Crushing Defeat by Knifeworld" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Side One
 2. Singled Out For Battery
 3. The Wretched Fathoms
@@ -33,10 +32,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 11. The Money Shot
 12. Torch
 13. Me To The Future Of You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/buried-alone-tales-of-crushing-defeat/1510598560" >}}<br>

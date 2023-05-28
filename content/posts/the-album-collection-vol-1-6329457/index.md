@@ -67,10 +67,13 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="the-album-collection-vol-1-6329457.jpg" title="The Album Collection Vol. 1 by Bruce Springsteen" >}}
+The Album Collection Vol. 1 1973–1984 is a box set collection by Bruce Springsteen released on November 17, 2014. The 8 disc box set contains remastered versions of Springsteen's first seven studio albums and for the first time ever on CD, remasters of Greetings from Asbury Park, N.J., The Wild, the Innocent & the E Street Shuffle, The River, Nebraska and Born in the U.S.A. The box set features each album with recreations of their original packaging and also contain a 60-page book. All seven albums have also made their remastered debut on vinyl, and are available digitally at the iTunes Store.
+The albums were remastered by engineers Bob Ludwig and Toby Scott using brand new transfers from the original analogue masters using the Plangent Process playback system.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Greetings From Asbury Park, N.J.
 2. Blinded By The Light (5:02)
 3. Growin' Up (3:05)
@@ -154,14 +157,6 @@ styles: ["Classic Rock"]
 81. Glory Days (4:15)
 82. Dancing In The Dark (4:01)
 83. My Hometown (4:33)
-
-<!-- section break -->
-
-The Album Collection Vol. 1 1973–1984 is a box set collection by Bruce Springsteen released on November 17, 2014. The 8 disc box set contains remastered versions of Springsteen's first seven studio albums and for the first time ever on CD, remasters of Greetings from Asbury Park, N.J., The Wild, the Innocent & the E Street Shuffle, The River, Nebraska and Born in the U.S.A. The box set features each album with recreations of their original packaging and also contain a 60-page book. All seven albums have also made their remastered debut on vinyl, and are available digitally at the iTunes Store.
-The albums were remastered by engineers Bob Ludwig and Toby Scott using brand new transfers from the original analogue masters using the Plangent Process playback system.
-    
-    
-
 
 
 

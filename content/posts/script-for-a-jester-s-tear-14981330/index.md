@@ -35,10 +35,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="script-for-a-jester-s-tear-14981330.jpg" title="Script For A Jester's Tear by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Record 1 - Script For A Jesters's Tear (2020 Remix)
 2. Script For A Jester's Tear (8:42)
 3. He Knows You Know (5:23)
@@ -63,10 +62,6 @@ styles: ["Art Rock", "Prog Rock"]
 22. Forgotten Sons (10:38)
 23. Market Square Heroes (5:27)
 24. Margaret (6:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/script-for-a-jesters-tear/693400357" >}}<br>

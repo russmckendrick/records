@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Big Beat", "Breakbeat", "Breaks"]
 ---
 
-{{< img src="better-living-through-chemistry-20th-anniversary-edition-9081379.jpg" title="Better Living Through Chemistry (20th Anniversary Edition)  by Fatboy Slim" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Song For Lindy (4:49)
 2. 10th & Crenshaw (4:18)
 3. Give The Po' Man A Break (5:51)
@@ -36,10 +35,6 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 9. Santa Cruz (7:27)
 10. Punk To Funk (4:58)
 11. Crenshaw Siren Beats (2:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1143639792" >}}<br>

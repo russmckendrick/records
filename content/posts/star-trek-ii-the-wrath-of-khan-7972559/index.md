@@ -18,10 +18,9 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="star-trek-ii-the-wrath-of-khan-7972559.jpg" title="Star Trek II: The Wrath Of Khan by James Horner" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title (3:03)
 2. Surprise on Ceti Alpha V (0:45)
 3. Khan's Pets (4:19)
@@ -45,10 +44,6 @@ styles: ["Soundtrack", "Score"]
 21. Amazing Grace (1:26)
 22. Epilogue / End Title (8:41)
 23. Epilogue (Original Version) / End Title (7:29)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589" >}}<br>

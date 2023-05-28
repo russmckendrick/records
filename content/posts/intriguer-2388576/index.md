@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="intriguer-2388576.jpg" title="Intriguer by Crowded House" >}}
+Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Saturday Sun (3:26)
 2. Archer's Arrows (4:05)
 3. Amsterdam (3:35)
@@ -31,13 +33,6 @@ styles: ["Pop Rock"]
 8. Inside Out (3:19)
 9. Even If (4:03)
 10. Elephants (4:31)
-
-<!-- section break -->
-
-Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}<br>

@@ -36,10 +36,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
 
-{{< img src="the-octopus-14385592.jpg" title="The Octopus by Amplifier" >}}
+The Octopus is the third studio album of the Manchester space rock band Amplifier. The format of the album is double CD. It was released to fans online in December 2010 and was commercially released in January 2011. In reviewing the album, the BBC stated that it was "an album that commands respects and time to be afforded to it, but the rewards are plentiful. If two discs seem slightly overwhelming at first, then the other perspective is that there is so much quality to digest here that your value for money is not even in question." The album can be listened to online at a mini-site set up by the band. The Octopus vinyl edition was released in October 2019 with "The Eternal" as an exclusive bonus track.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Part One
 2. The Runner (3:38)
 3. Minion's Song (5:51)
@@ -59,15 +63,6 @@ styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 17. Oscar Night // Embryo (7:44)
 18. The Eternal (6:23)
 19. Forever And More (9:23)
-
-<!-- section break -->
-
-The Octopus is the third studio album of the Manchester space rock band Amplifier. The format of the album is double CD. It was released to fans online in December 2010 and was commercially released in January 2011. In reviewing the album, the BBC stated that it was "an album that commands respects and time to be afforded to it, but the rewards are plentiful. If two discs seem slightly overwhelming at first, then the other perspective is that there is so much quality to digest here that your value for money is not even in question." The album can be listened to online at a mini-site set up by the band. The Octopus vinyl edition was released in October 2019 with "The Eternal" as an exclusive bonus track.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-octopus/1198303873" >}}<br>

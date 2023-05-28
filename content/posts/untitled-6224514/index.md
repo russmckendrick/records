@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock"]
 ---
 
-{{< img src="untitled-6224514.jpg" title="Untitled by Led Zeppelin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Dog (4:55)
 2. Rock And Roll (3:40)
 3. The Battle Of Evermore (5:51)
@@ -38,10 +37,6 @@ styles: ["Hard Rock", "Blues Rock"]
 6. Four Sticks (4:45)
 7. Going To California (3:32)
 8. When The Levee Breaks (7:08)
-
-<!-- section break -->
-
-
 
 
 

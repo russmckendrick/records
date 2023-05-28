@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="one-12652179.jpg" title="One by Dubstar" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Comes Late (4:48)
 2. Love Gathers (4:28)
 3. Torched (5:09)
@@ -33,10 +32,6 @@ styles: ["Indie Rock"]
 8. Locked Inside (5:52)
 9. Why Don't You Kiss Me (3:12)
 10. Mantra (6:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one/1553879308" >}}<br>

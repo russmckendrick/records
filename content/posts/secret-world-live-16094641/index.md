@@ -28,10 +28,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock", "Ambient", "New Age"]
 ---
 
-{{< img src="secret-world-live-16094641.jpg" title="Secret World Live by Peter Gabriel" >}}
+Secret World Live is the second live album and tenth album overall by the English rock musician Peter Gabriel, released on 30 August 1994 in the UK. The album documents the concert experience of the Secret World Tour. A concert film of the same name was released simultaneously. Its track listing omits "Red Rain" and adds "San Jacinto" after "Blood of Eden".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Come Talk To Me
 2. Steam
 3. Across The River
@@ -48,13 +50,6 @@ styles: ["Art Rock", "Prog Rock", "Ambient", "New Age"]
 14. Secret World
 15. Don't Give Up
 16. In Your Eyes
-
-<!-- section break -->
-
-Secret World Live is the second live album and tenth album overall by the English rock musician Peter Gabriel, released on 30 August 1994 in the UK. The album documents the concert experience of the Secret World Tour. A concert film of the same name was released simultaneously. Its track listing omits "Red Rain" and adds "San Jacinto" after "Blood of Eden".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/secret-world-live/1445901797" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
 ---
 
-{{< img src="factory-communications-1978-92-14465749.jpg" title="Factory Communications 1978-92 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1 1978 - 79
 2. Digital (2:51)
 3. Baader Meinhof (3:22)
@@ -101,10 +100,6 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 77. Moves Like You (Remix) (6:30)
 78. Tasty Fish (3:48)
 79. Sunshine And Love (Lionrock Remix) (7:17)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

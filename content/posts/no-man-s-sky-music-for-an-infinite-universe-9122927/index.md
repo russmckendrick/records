@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ---
 
-{{< img src="no-man-s-sky-music-for-an-infinite-universe-9122927.jpg" title="No Man's Sky: Music For An Infinite Universe by 65daysofstatic" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Monolith (6:18)
 2. Supermoon (4:22)
 3. Asimov (5:52)
@@ -41,10 +40,6 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 14. temporalDissent / ascension_test1 / koaecax (10:07)
 15. Borealis / Contrastellar (8:52)
 16. Outlier / EOTWS_Variation1 (11:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe/1469726921" >}}<br>

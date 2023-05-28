@@ -22,10 +22,9 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo"]
 ---
 
-{{< img src="the-secret-of-letting-go-13558086.jpg" title="The Secret Of Letting Go by Lamb" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Phosphorous
 2. Moonshine
 3. Armageddon Waits
@@ -37,10 +36,6 @@ styles: ["Leftfield", "Downtempo"]
 9. Illumina
 10. The Silence In Between
 11. One Hand Clapping
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374" >}}<br>

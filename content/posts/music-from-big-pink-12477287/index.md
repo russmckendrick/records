@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 ---
 
-{{< img src="music-from-big-pink-12477287.jpg" title="Music From Big Pink by The Band" >}}
+Music from Big Pink is the debut studio album by the Band. Released in 1968, it employs a distinctive blend of country, rock, folk, classical, R&B, blues, and soul. The music was composed partly in "Big Pink", a house shared by bassist/singer Rick Danko, pianist/singer Richard Manuel and organist Garth Hudson in West Saugerties, New York. The album itself was recorded in studios in New York and Los Angeles in 1968, and followed the band's backing of Bob Dylan on his 1966 tour (as the Hawks) and time spent together in upstate New York recording material that was officially released in 1975 as The Basement Tapes, also with Dylan. The cover artwork is a painting by Dylan.
+In 2000 the album was rereleased with additional outtakes from the recording sessions, and in 2018 a "50th Anniversary Super Deluxe" edition was released with a new stereo mix by Bob Clearmountain.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tears Of Rage (5:24)
 2. To Kingdom Come (3:22)
 3. In A Station (3:35)
@@ -39,15 +43,6 @@ styles: ["Folk Rock", "Acoustic", "Blues Rock"]
 9. Lonesome Suzie (4:09)
 10. This Wheel's On Fire (3:26)
 11. I Shall Be Released (3:19)
-
-<!-- section break -->
-
-Music from Big Pink is the debut studio album by the Band. Released in 1968, it employs a distinctive blend of country, rock, folk, classical, R&B, blues, and soul. The music was composed partly in "Big Pink", a house shared by bassist/singer Rick Danko, pianist/singer Richard Manuel and organist Garth Hudson in West Saugerties, New York. The album itself was recorded in studios in New York and Los Angeles in 1968, and followed the band's backing of Bob Dylan on his 1966 tour (as the Hawks) and time spent together in upstate New York recording material that was officially released in 1975 as The Basement Tapes, also with Dylan. The cover artwork is a painting by Dylan.
-In 2000 the album was rereleased with additional outtakes from the recording sessions, and in 2018 a "50th Anniversary Super Deluxe" edition was released with a new stereo mix by Bob Clearmountain.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-from-big-pink-remastered/1440814725" >}}<br>

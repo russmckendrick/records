@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="flat-white-moon-18420103.jpg" title="Flat White Moon by Field Music" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Orion From The Street
 2. Do Me A Favour
 3. Not When You're In Love
@@ -32,10 +31,6 @@ styles: ["Indie Rock"]
 10. Invisible Days
 11. The Curtained Room
 12. You Get Better
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flat-white-moon/1551209901" >}}<br>

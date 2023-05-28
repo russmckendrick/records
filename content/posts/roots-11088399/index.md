@@ -25,10 +25,16 @@ genres: ["Rock"]
 styles: ["Thrash", "Nu Metal"]
 ---
 
-{{< img src="roots-11088399.jpg" title="Roots by Sepultura" >}}
+Roots is the sixth studio album by Brazilian heavy metal band Sepultura. It was released in Europe on February 20, 1996 (1996-02-20) and in the U.S. three weeks later on March 12 by Roadrunner Records. It is the band's last studio album to feature founding member and vocalist/rhythm guitarist Max Cavalera.
+Following the shift to slower tempos and Latin-tinged rhythms on the album Chaos A.D., Roots delves even further into Brazilian musical textures and features significant contributions from iconic Brazilian musician Carlinhos Brown, who guided and arranged the sections throughout the album that feature ensemble percussion playing. Both in sound and overall aesthetic, Roots is also a conscious nod to Brazil's marginalized indigenous population and cultures. The song "Itsári" features a Xavante chant that re-appears on the song "Born Stubborn" and serves as a loose thematic thread for the whole album, which on the whole showcases the band's increased affinity for experimentation and collaboration.
+"Lookaway" features guest appearances by Korn vocalist Jonathan Davis, then-Korn drummer David Silveria, House of Pain/Limp Bizkit turntablist DJ Lethal, and Faith No More/Mr. Bungle vocalist Mike Patton. Riff-wise, Roots also draws influence from the then-surging nu metal movement, specifically Korn (whose first two albums were also produced by Roots producer Ross Robinson) and Deftones. After leaving the band, Max Cavalera would continue to pursue the nu metal and "world" stylings of Roots with his solo project Soulfly.
+Since its release, Roots has sold over two million copies worldwide.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Roots Bloody Roots
 2. Attitude
 3. Cut-Throat
@@ -57,17 +63,6 @@ styles: ["Thrash", "Nu Metal"]
 26. Untitled (Demo)
 27. R.D.P. (Demo)
 28. Dusted (Demo)
-
-<!-- section break -->
-
-Roots is the sixth studio album by Brazilian heavy metal band Sepultura. It was released in Europe on February 20, 1996 (1996-02-20) and in the U.S. three weeks later on March 12 by Roadrunner Records. It is the band's last studio album to feature founding member and vocalist/rhythm guitarist Max Cavalera.
-Following the shift to slower tempos and Latin-tinged rhythms on the album Chaos A.D., Roots delves even further into Brazilian musical textures and features significant contributions from iconic Brazilian musician Carlinhos Brown, who guided and arranged the sections throughout the album that feature ensemble percussion playing. Both in sound and overall aesthetic, Roots is also a conscious nod to Brazil's marginalized indigenous population and cultures. The song "Itsári" features a Xavante chant that re-appears on the song "Born Stubborn" and serves as a loose thematic thread for the whole album, which on the whole showcases the band's increased affinity for experimentation and collaboration.
-"Lookaway" features guest appearances by Korn vocalist Jonathan Davis, then-Korn drummer David Silveria, House of Pain/Limp Bizkit turntablist DJ Lethal, and Faith No More/Mr. Bungle vocalist Mike Patton. Riff-wise, Roots also draws influence from the then-surging nu metal movement, specifically Korn (whose first two albums were also produced by Roots producer Ross Robinson) and Deftones. After leaving the band, Max Cavalera would continue to pursue the nu metal and "world" stylings of Roots with his solo project Soulfly.
-Since its release, Roots has sold over two million copies worldwide.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots/214473832" >}}<br>

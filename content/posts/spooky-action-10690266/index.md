@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-{{< img src="spooky-action-10690266.jpg" title="Spooky Action by Paul Draper" >}}
+Spooky Action is the debut solo album by English singer songwriter and ex-Mansun frontman Paul Draper, released on 11 August 2017. It entered the UK Albums Chart at No. 19 and peaked at No. 3 on the UK Independent Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Poke The Bear (6:49)
 2. Grey House (4:43)
 3. Things People Want (3:58)
@@ -32,13 +34,6 @@ styles: ["Indie Rock", "Prog Rock"]
 9. Can't Get Fairer Than That (3:13)
 10. Feel Like I Wanna Stay (2:45)
 11. The Inner Wheel (5:24)
-
-<!-- section break -->
-
-Spooky Action is the debut solo album by English singer songwriter and ex-Mansun frontman Paul Draper, released on 11 August 2017. It entered the UK Albums Chart at No. 19 and peaked at No. 3 on the UK Independent Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spooky-action/1244714904" >}}<br>

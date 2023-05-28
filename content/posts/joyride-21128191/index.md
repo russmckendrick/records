@@ -24,10 +24,14 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="joyride-21128191.jpg" title="Joyride by Roxette" >}}
+Joyride is the third studio album by Swedish pop duo Roxette, released on 28 March 1991 by EMI as the follow-up to their international breakthrough Look Sharp! (1988), as well as the non-album single "It Must Have Been Love", from the soundtrack to Pretty Woman (1990). The album was recorded over an 11-month period in Sweden. The duo experienced considerable pressure from their record label to deliver a successful follow-up album, and resisted pressure to relocate to Los Angeles and work with experienced American producers.
+The album was a critical and commercial success upon release, with a retrospective review for AllMusic calling it "the work of two pop artists at the top of their game." Joyride topped the charts in seven European countries, and was certified multi-platinum in several territories. It remains one of the best-selling albums of all time in Argentina, Austria and Germany. "Joyride", "Fading Like a Flower (Every Time You Leave)", "The Big L.", "Spending My Time" and "Church of Your Heart" were released as singles.
+The band toured extensively to support the record, performing to over 1.7 million people across four continents during the "Join the Joyride! Tour". As of 2001, the album has sold over 11 million copies worldwide. An expanded 30th-anniversary edition of the album was released on 26 November 2021.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Joyride
 2. Hotblooded
 3. Fading Like A Flower (Every Time You Leave)
@@ -40,15 +44,6 @@ styles: ["Pop Rock"]
 10. Physical Fascination
 11. Things Will Never Be The Same
 12. Perfect Day
-
-<!-- section break -->
-
-Joyride is the third studio album by Swedish pop duo Roxette, released on 28 March 1991 by EMI as the follow-up to their international breakthrough Look Sharp! (1988), as well as the non-album single "It Must Have Been Love", from the soundtrack to Pretty Woman (1990). The album was recorded over an 11-month period in Sweden. The duo experienced considerable pressure from their record label to deliver a successful follow-up album, and resisted pressure to relocate to Los Angeles and work with experienced American producers.
-The album was a critical and commercial success upon release, with a retrospective review for AllMusic calling it "the work of two pop artists at the top of their game." Joyride topped the charts in seven European countries, and was certified multi-platinum in several territories. It remains one of the best-selling albums of all time in Argentina, Austria and Germany. "Joyride", "Fading Like a Flower (Every Time You Leave)", "The Big L.", "Spending My Time" and "Church of Your Heart" were released as singles.
-The band toured extensively to support the record, performing to over 1.7 million people across four continents during the "Join the Joyride! Tour". As of 2001, the album has sold over 11 million copies worldwide. An expanded 30th-anniversary edition of the album was released on 26 November 2021.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joyride-30th-anniversary-edition/1590538793" >}}<br>

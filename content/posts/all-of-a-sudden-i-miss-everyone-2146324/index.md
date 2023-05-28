@@ -29,23 +29,18 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
 
-{{< img src="all-of-a-sudden-i-miss-everyone-2146324.jpg" title="All Of A Sudden I Miss Everyone by Explosions In The Sky" >}}
+All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky.  It was released February 20, 2007.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Birth And Death Of The Day
 2. Welcome, Ghosts
 3. It's Natural To Be Afraid
 4. What Do You Go Home To?
 5. Catastrophe And The Cure
 6. So Long, Lonesome
-
-<!-- section break -->
-
-All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky.  It was released February 20, 2007.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-of-a-sudden-i-miss-everyone/923356909" >}}<br>

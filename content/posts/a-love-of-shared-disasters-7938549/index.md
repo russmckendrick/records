@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="a-love-of-shared-disasters-7938549.jpg" title="A Love Of Shared Disasters by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lament Of The Nithered Mercenary
 2. Really, How 'd It Get This Way?
 3. The Whistler
@@ -40,10 +39,6 @@ styles: ["Post Rock"]
 10. My Enemies I Fear Not, But Protect Me From My Friends
 11. I'm Almost Home
 12. Sharks & Storms / Blizzard Of Horned Cats
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-love-of-shared-disasters/1183915604" >}}<br>

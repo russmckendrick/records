@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="boing-1343423.jpg" title="Boing!! by Airhead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Scrap Happy
 2. I Might Fall
 3. Right Now
@@ -34,10 +33,6 @@ styles: ["Indie Rock"]
 9. Wish You Were Here
 10. Isn't It Rich
 11. Everybody Needs
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boing/570560067" >}}<br>

@@ -40,10 +40,9 @@ genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 ---
 
-{{< img src="the-sparks-brothers-original-motion-picture-soundtrack-22546391.jpg" title="The Sparks Brothers (Original Motion Picture Soundtrack) by Sparks" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sparks Documentary Film Fanfare
 2. This Town Ain’t Big Enough For Both Of Us
 3. Fa La Fa Lee
@@ -86,10 +85,6 @@ styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 40. What The Hell Is It This Time? (Live In London 2018)
 41. ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018)
 42. Amateur Hour
-
-<!-- section break -->
-
-
 
 
 

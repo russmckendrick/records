@@ -22,10 +22,13 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="the-cars-1165287.jpg" title="The Cars by The Cars" >}}
+The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ roll into the future without ever losing sight of the past. Their debut single, 1978’s “Just What I Needed,” is a shot across punk’s bow, wedding power pop’s punch to hard-rock choruses, while “My Best Friend’s Girl,” from the same year, is full of ‘50s twang. By 1981’s “Shake It Up,” peppy New Wave keyboards have stormed the sock hop, and 1984’s “Drive” is a synth-pop power ballad par excellence.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Times Roll (3:44)
 2. My Best Friend's Girl (3:44)
 3. Just What I Needed (3:44)
@@ -35,14 +38,6 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 7. Bye Bye Love (4:14)
 8. Moving In Stereo (5:15)
 9. All Mixed Up (4:14)
-
-<!-- section break -->
-
-The Cars’ classic ‘70s and ‘80s run captures a band carrying rock ‘n’ roll into the future without ever losing sight of the past. Their debut single, 1978’s “Just What I Needed,” is a shot across punk’s bow, wedding power pop’s punch to hard-rock choruses, while “My Best Friend’s Girl,” from the same year, is full of ‘50s twang. By 1981’s “Shake It Up,” peppy New Wave keyboards have stormed the sock hop, and 1984’s “Drive” is a synth-pop power ballad par excellence.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/complete-greatest-hits/1088530786" >}}<br>

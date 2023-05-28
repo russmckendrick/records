@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="animals-2018-remix-24735206.jpg" title="Animals (2018 Remix) by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pigs On The Wing 1 (1:25)
 2. Dogs (17:06)
 3. Pigs (Three Different Ones) (11:26)
@@ -78,10 +77,6 @@ styles: ["Prog Rock"]
 44. Pigs (Three Different Ones) (11:26)
 45. Sheep (10:18)
 46. Pigs On The Wing 2 (1:34)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animals-2018-remix/1632196339" >}}<br>

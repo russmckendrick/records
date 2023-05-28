@@ -30,10 +30,12 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="computer-world-2058343.jpg" title="Computer World by Kraftwerk" >}}
+Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 10 May 1981.The album deals with the themes of the rise of computers within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. The compositions are credited to Ralf Hütter, Florian Schneider, and Karl Bartos. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Computer World (5:06)
 2. Pocket Calculator (4:57)
 3. Numbers (3:20)
@@ -41,13 +43,6 @@ styles: ["Electro", "Synth-pop"]
 5. Computer Love (7:19)
 6. Homecomputer (6:21)
 7. It's More Fun To Compute (4:16)
-
-<!-- section break -->
-
-Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 10 May 1981.The album deals with the themes of the rise of computers within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. The compositions are credited to Ralf Hütter, Florian Schneider, and Karl Bartos. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Blues"]
 styles: ["Country Blues", "Hill Country Blues"]
 ---
 
-{{< img src="benton-county-relic-12492420.jpg" title="Benton County Relic by Cedric Burnside" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Made It
 2. Get Your Groove On
 3. Please Tell Me Baby
@@ -40,10 +39,6 @@ styles: ["Country Blues", "Hill Country Blues"]
 10. Call On Me
 11. I'm Hurtin
 12. Ain't Gonna Take No Mess
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/benton-county-relic/1534658310" >}}<br>

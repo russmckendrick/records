@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="cousteaux-11442059.jpg" title="CousteauX by Cousteau" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Memory Is A Weapon (3:55)
 2. This Might Be Love (3:51)
 3. BURMA (3:42)
@@ -30,10 +29,6 @@ styles: ["Pop Rock"]
 8. Shelter (3:48)
 9. Seasons Of You (3:01)
 10. F**king In Joy And Sorrow (5:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waiting-for-cousteau/1027736044" >}}<br>

@@ -17,10 +17,12 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
 
-{{< img src="there-is-no-love-in-fluorescent-light-10994086.jpg" title="There Is No Love In Fluorescent Light by Stars" >}}
+There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Privilege
 2. Fluorescent Light
 3. Losing To You
@@ -33,13 +35,6 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 10. The Maze
 11. California, I Love That Name
 12. Wanderers
-
-<!-- section break -->
-
-There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221" >}}<br>

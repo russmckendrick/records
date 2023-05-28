@@ -17,10 +17,9 @@ genres: ["Electronic"]
 styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ---
 
-{{< img src="films-past-and-future-13623720.jpg" title="Films: Past And Future by Rob Dougan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Not Driving Anymore (Instrumental) (4:08)
 2. Speed Me Towards Death (Instrumental) (4:28)
 3. Ben Kedim (Instrumental) (5:28)
@@ -42,10 +41,6 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 19. Furious Angels (Instrumental) (5:30)
 20. Nothing At All (Instrumental) (5:30)
 21. Instrumental (4:30)
-
-<!-- section break -->
-
-
 
 
 

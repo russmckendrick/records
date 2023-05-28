@@ -22,10 +22,16 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="let-england-shake-2709851.jpg" title="Let England Shake by PJ Harvey" >}}
+Let England Shake is the eighth studio album by English singer-songwriter and musician PJ Harvey, released on 14 February 2011 by Island Records. Production began around the time of White Chalk's release in 2007, though it is a departure from the piano-driven introspection of that album. Let England Shake was written over a 2+1⁄2-year period, and recorded in five weeks at a church in Dorset during April and May 2010.
+Upon release, the album received numerous accolades. It was placed 2011 "Album of the Year" by 16 publications and in September 2011 won the coveted Mercury Prize. It was PJ Harvey's fourth nomination overall (including 2001's winner Stories from the City, Stories from the Sea), making her the most successful artist in the prize's history. The album also won the Uncut Music Award in November 2011, as well as Album of the Year in the 2012 Ivor Novello Awards.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Let England Shake
 2. The Last Living Rose
 3. The Glorious Land
@@ -38,17 +44,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Hanging In The Wire
 11. Written On The Forehead
 12. The Colour Of The Earth
-
-<!-- section break -->
-
-Let England Shake is the eighth studio album by English singer-songwriter and musician PJ Harvey, released on 14 February 2011 by Island Records. Production began around the time of White Chalk's release in 2007, though it is a departure from the piano-driven introspection of that album. Let England Shake was written over a 2+1⁄2-year period, and recorded in five weeks at a church in Dorset during April and May 2010.
-Upon release, the album received numerous accolades. It was placed 2011 "Album of the Year" by 16 publications and in September 2011 won the coveted Mercury Prize. It was PJ Harvey's fourth nomination overall (including 2001's winner Stories from the City, Stories from the Sea), making her the most successful artist in the prize's history. The album also won the Uncut Music Award in November 2011, as well as Album of the Year in the 2012 Ivor Novello Awards.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-england-shake/1440758226" >}}<br>

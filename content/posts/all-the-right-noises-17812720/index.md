@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="all-the-right-noises-17812720.jpg" title="All The Right Noises by Thunder" >}}
+All the Right Noises is the thirteenth studio album by English hard rock band Thunder, released on 12 March 2021 through BMG Rights Management. The band promoted the album with an online live special broadcast on 13 March 2021, and are scheduled to support the album with a tour of the UK from May 2021.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Last One Out Turn Off The Lights (4:14)
 2. Destruction (4:59)
 3. The Smoking Gun (4:45)
@@ -46,15 +50,6 @@ styles: ["Classic Rock"]
 9. St. George's Day (4:02)
 10. Force Of Nature (4:04)
 11. She's A Millionairess (3:14)
-
-<!-- section break -->
-
-All the Right Noises is the thirteenth studio album by English hard rock band Thunder, released on 12 March 2021 through BMG Rights Management. The band promoted the album with an online live special broadcast on 13 March 2021, and are scheduled to support the album with a tour of the UK from May 2021.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-the-right-noises/1543696882" >}}<br>

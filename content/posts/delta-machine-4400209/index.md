@@ -37,10 +37,13 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="delta-machine-4400209.jpg" title="Delta Machine by Depeche Mode" >}}
+Delta Machine is the thirteenth studio album by English electronic music band Depeche Mode, released on 22 March 2013 by Columbia Records and Mute Records. It is the band's first album released under Columbia. Recorded in 2012 in Santa Barbara, California and New York City, the album was produced by Ben Hillier and mixed by Flood who had worked with them previously on their most acclaimed albums Violator and Songs of Faith and Devotion. A deluxe edition was also released, containing a bonus disc with four bonus tracks, as well as a 28-page hardcover book including photos by Anton Corbijn."Heaven" was released as the album's lead single on 31 January 2013. The second single from the album, "Soothe My Soul", was released on 10 May 2013, followed by "Should Be Higher" on 11 October 2013. Following the album's release, Depeche Mode embarked on the Delta Machine Tour, which commenced in Nice, France, on 4 May 2013, and concluded in Moscow on 7 March 2014.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Welcome To My World (4:56)
 2. Angel (3:58)
 3. Heaven (4:05)
@@ -58,14 +61,6 @@ styles: ["Synth-pop"]
 15. Happens All The Time (4:20)
 16. Always (5:07)
 17. All That's Mine (3:24)
-
-<!-- section break -->
-
-Delta Machine is the thirteenth studio album by English electronic music band Depeche Mode, released on 22 March 2013 by Columbia Records and Mute Records. It is the band's first album released under Columbia. Recorded in 2012 in Santa Barbara, California and New York City, the album was produced by Ben Hillier and mixed by Flood who had worked with them previously on their most acclaimed albums Violator and Songs of Faith and Devotion. A deluxe edition was also released, containing a bonus disc with four bonus tracks, as well as a 28-page hardcover book including photos by Anton Corbijn."Heaven" was released as the album's lead single on 31 January 2013. The second single from the album, "Soothe My Soul", was released on 10 May 2013, followed by "Should Be Higher" on 11 October 2013. Following the album's release, Depeche Mode embarked on the Delta Machine Tour, which commenced in Nice, France, on 4 May 2013, and concluded in Moscow on 7 March 2014.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/delta-machine-deluxe/600433961" >}}<br>

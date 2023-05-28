@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
-{{< img src="underwater-13413825.jpg" title="Underwater by Elephant Gym" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shower
 2. Underwater
 3. Satellite
@@ -42,10 +41,6 @@ styles: ["Math Rock"]
 11. Speechless
 12. Moonset
 13. Midway [Rgry Remix]
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805" >}}<br>

@@ -20,10 +20,13 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="greatest-hits-1624163.jpg" title="Greatest Hits by Al Green" >}}
+Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green. In 2003, the album was ranked number 52 on Rolling Stone magazine's list of the 500 greatest albums of all time, maintaining the rating in a 2012 revised list. The album's ranking dropped to number 456 in the 2020 revised list. The compilation has consistently ranked as one of the best executed 'greatest hits' albums in history. The album peaked at No. 3 on the Billboard Top Soul LPs  chart and No. 17 on the Top LPs chart.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tired Of Being Alone (2:50)
 2. Call Me (Come Back Home) (3:03)
 3. I'm Still In Love With You (3:12)
@@ -34,14 +37,6 @@ styles: ["Soul"]
 8. You Ought To Be With Me (3:15)
 9. Look What You Done For Me (3:04)
 10. Let's Get Married (4:20)
-
-<!-- section break -->
-
-Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green. In 2003, the album was ranked number 52 on Rolling Stone magazine's list of the 500 greatest albums of all time, maintaining the rating in a 2012 revised list. The album's ranking dropped to number 456 in the 2020 revised list. The compilation has consistently ranked as one of the best executed 'greatest hits' albums in history. The album peaked at No. 3 on the Billboard Top Soul LPs  chart and No. 17 on the Top LPs chart.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}<br>

@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
-{{< img src="amorica-7862351.jpg" title="Amorica by The Black Crowes" >}}
+Amorica (stylized as amorica.) is the third studio album by American rock band The Black Crowes. Spawned from the band's unreleased, incompleted, scrapped Tall album, Amorica was released November 1, 1994, on American Recordings and reissued in the UK in 1998 with two bonus tracks. Amorica reached gold status in the United States, shipping 500,000 copies.
+The record cover notably featured a close-up photo of the pelvic region of a woman wearing a United States flag thong with pubic hair showing at the top of the thong. The cover photo was taken from the cover of the July 1976 issue of Hustler magazine. The album with this cover was subsequently banned from chain stores like Walmart and Kmart, resulting in the cover being censored with a solid black background, displaying only the thong.Other songs recorded during the Amorica sessions were "Feathers", "Tied Up and Swallowed" and "Chevrolet" (a Taj Mahal cover). These tracks were later released as B-sides, bonus tracks or on compilation albums.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gone (5:08)
 2. A Conspiracy (4:44)
 3. High Head Blues (4:00)
@@ -40,14 +43,6 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 9. Wiser Time (5:31)
 10. Downtown Money Waster (3:39)
 11. Descending (5:40)
-
-<!-- section break -->
-
-Amorica (stylized as amorica.) is the third studio album by American rock band The Black Crowes. Spawned from the band's unreleased, incompleted, scrapped Tall album, Amorica was released November 1, 1994, on American Recordings and reissued in the UK in 1998 with two bonus tracks. Amorica reached gold status in the United States, shipping 500,000 copies.
-The record cover notably featured a close-up photo of the pelvic region of a woman wearing a United States flag thong with pubic hair showing at the top of the thong. The cover photo was taken from the cover of the July 1976 issue of Hustler magazine. The album with this cover was subsequently banned from chain stores like Walmart and Kmart, resulting in the cover being censored with a solid black background, displaying only the thong.Other songs recorded during the Amorica sessions were "Feathers", "Tied Up and Swallowed" and "Chevrolet" (a Taj Mahal cover). These tracks were later released as B-sides, bonus tracks or on compilation albums.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>

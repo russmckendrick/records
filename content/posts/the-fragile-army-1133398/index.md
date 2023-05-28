@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 ---
 
-{{< img src="the-fragile-army-1133398.jpg" title="The Fragile Army by The Polyphonic Spree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Section 21 (Together We're Heavy)
 2. Section 22 (Running Away)
 3. Section 23 (Get Up And Go)
@@ -32,10 +31,6 @@ styles: ["Art Rock", "Indie Rock", "Symphonic Rock"]
 10. Section 30 (Watch Us Explode (Justify))
 11. Section 31 (Ocerblow Your Nest)
 12. Section 32 (The Championship)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fragile-army/279307568" >}}<br>

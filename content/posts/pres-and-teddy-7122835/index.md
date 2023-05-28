@@ -19,20 +19,15 @@ genres: ["Jazz"]
 styles: []
 ---
 
-{{< img src="pres-and-teddy-7122835.jpg" title="Pres And Teddy by The Lester Young-Teddy Wilson Quartet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. All Of Me
 2. Prisoner Of Love
 3. Louise
 4. Love Me Or Leave Me
 5. Taking A Chance On Love
 6. Our Love Is Here To Stay
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pres-teddy/1425259073" >}}<br>

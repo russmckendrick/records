@@ -23,10 +23,16 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-{{< img src="the-rhythm-of-the-saints-12238356.jpg" title="The Rhythm Of The Saints by Paul Simon" >}}
+The Rhythm of the Saints is the eighth solo studio album by American singer-songwriter Paul Simon, released on October 16, 1990, on Warner Bros. In much the same way that Simon's 1986 album Graceland drew upon South African music, this album was inspired by Brazilian musical traditions. Like its predecessor, the album was commercially successful and received mostly favorable reviews from critics.
+In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awards – Album of the Year and Producer of the Year.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Obvious Child
 2. Can't Run But
 3. The Coast
@@ -37,17 +43,6 @@ styles: ["Folk Rock", "Pop Rock"]
 8. The Cool, Cool River
 9. Spirit Voices
 10. The Rhythm Of The Saints
-
-<!-- section break -->
-
-The Rhythm of the Saints is the eighth solo studio album by American singer-songwriter Paul Simon, released on October 16, 1990, on Warner Bros. In much the same way that Simon's 1986 album Graceland drew upon South African music, this album was inspired by Brazilian musical traditions. Like its predecessor, the album was commercially successful and received mostly favorable reviews from critics.
-In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awards – Album of the Year and Producer of the Year.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rhythm-of-the-saints-bonus-tracks-edition/380597264" >}}<br>

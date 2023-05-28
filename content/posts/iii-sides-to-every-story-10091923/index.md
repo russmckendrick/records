@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Funk Metal", "Hard Rock", "Glam"]
 ---
 
-{{< img src="iii-sides-to-every-story-10091923.jpg" title="III Sides To Every Story by Extreme" >}}
+III Sides to Every Story is the third studio album by the American rock band Extreme, released on September 14, 1992, through A&M Records. It was the follow-up to the very successful Pornograffitti album. It was the last album that fully featured the band's original line-up: Gary Cherone, Nuno Bettencourt, Pat Badger and Paul Geary; Geary later left, and was replaced by Mike Mangini.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Yours
 2. Warheads (5:18)
 3. Rest In Peace (6:02)
@@ -46,15 +50,6 @@ styles: ["Funk Metal", "Hard Rock", "Glam"]
 16. Everything Under The Sun I: Rise 'N Shine (6:23)
 17. Everything Under The Sun II: Am I Ever Gonna Change (6:57)
 18. Everything Under The Sun III: Who Cares? (8:19)
-
-<!-- section break -->
-
-III Sides to Every Story is the third studio album by the American rock band Extreme, released on September 14, 1992, through A&M Records. It was the follow-up to the very successful Pornograffitti album. It was the last album that fully featured the band's original line-up: Gary Cherone, Nuno Bettencourt, Pat Badger and Paul Geary; Geary later left, and was replaced by Mike Mangini.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/iii-sides-to-every-story/1440724126" >}}<br>

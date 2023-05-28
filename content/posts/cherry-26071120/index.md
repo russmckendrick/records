@@ -24,18 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="cherry-26071120.jpg" title="Cherry by Curve" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Clipped
 2. Die Like A Dog
 3. Galaxy
 4. Cherry
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/curva-cereza-single/1514226691" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="birdbrain-16016550.jpg" title="Birdbrain by Buffalo Tom" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Birdbrain (3:13)
 2. Skeleton Key (4:35)
 3. Caress (2:41)
@@ -38,10 +37,6 @@ styles: ["Alternative Rock"]
 8. Baby (3:32)
 9. Directive (4:01)
 10. Bleeding Heart (3:11)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/birdbrain/1027455005" >}}<br>

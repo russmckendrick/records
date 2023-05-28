@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-{{< img src="metal-killers-1916752.jpg" title="Metal Killers by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sabbath Bloody Sabbath
 2. Destroyer
 3. Rocka Rolla
@@ -33,10 +32,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 10. Stoking Up The Fires Of Hell
 11. Under The Blade
 12. Lepers Queue
-
-<!-- section break -->
-
-
 
 
 ## Spotify

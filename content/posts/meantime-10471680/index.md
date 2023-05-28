@@ -20,10 +20,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hardcore"]
 ---
 
-{{< img src="meantime-10471680.jpg" title="Meantime by Helmet" >}}
+Meantime is the second studio album and major label debut by American alternative metal band Helmet. It was released on June 23, 1992, through Interscope Records.
+Despite initially only achieving moderate commercial success, peaking at number 68 on the Billboard 200 chart upon release in 1992, the album influenced multiple bands in its wake, and has been well received by music critics and is considered an influential album of the metal genre. Meantime has continued to sell consistently well in the years since its release, and in 1994 was certified gold by the Recording Industry Association of America. The album has sold over 2 million copies worldwide.Helmet released one single from Meantime, "Unsung", which was a charting success on the US Modern Rock Tracks chart, and remains their best-known song. Music videos were also made for "Unsung", "Give It" and "In the Meantime".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. In The Meantime (3:11)
 2. Ironhead (3:23)
 3. Give It (4:17)
@@ -34,16 +39,6 @@ styles: ["Alternative Rock", "Hardcore"]
 8. You Borrowed (3:49)
 9. FBLA II (3:22)
 10. Role Model (3:31)
-
-<!-- section break -->
-
-Meantime is the second studio album and major label debut by American alternative metal band Helmet. It was released on June 23, 1992, through Interscope Records.
-Despite initially only achieving moderate commercial success, peaking at number 68 on the Billboard 200 chart upon release in 1992, the album influenced multiple bands in its wake, and has been well received by music critics and is considered an influential album of the metal genre. Meantime has continued to sell consistently well in the years since its release, and in 1994 was certified gold by the Recording Industry Association of America. The album has sold over 2 million copies worldwide.Helmet released one single from Meantime, "Unsung", which was a charting success on the US Modern Rock Tracks chart, and remains their best-known song. Music videos were also made for "Unsung", "Give It" and "In the Meantime".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meantime/1440915669" >}}<br>

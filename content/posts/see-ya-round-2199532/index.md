@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="see-ya-round-2199532.jpg" title="See Ya 'Round by Split Enz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Breakin' My Back (3:53)
 2. I Walk Away (3:48)
 3. Doctor Love (4:15)
@@ -36,10 +35,6 @@ styles: ["Pop Rock"]
 9. This Is Massive (3:24)
 10. Kia Kaha (3:36)
 11. Ninnie Knees Up (3:09)
-
-<!-- section break -->
-
-
 
 
 

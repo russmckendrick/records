@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ---
 
-{{< img src="ellengst-16022505.jpg" title="Ellengæst by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. House Of Fools
 2. Lost
 3. In The Night
@@ -29,10 +28,6 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 6. (-)
 7. The Invisible Past
 8. She's In Parties
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}<br>

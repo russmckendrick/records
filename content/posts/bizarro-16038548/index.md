@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="bizarro-16038548.jpg" title="Bizarro by The Wedding Present" >}}
+Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Brassneck
 2. Crushed
 3. No
@@ -35,13 +37,6 @@ styles: ["Indie Rock"]
 8. Bewitched
 9. Take Me!
 10. Be Honest
-
-<!-- section break -->
-
-Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bizarro/211455153" >}}<br>

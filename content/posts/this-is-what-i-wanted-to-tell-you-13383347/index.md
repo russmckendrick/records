@@ -17,10 +17,12 @@ genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 ---
 
-{{< img src="this-is-what-i-wanted-to-tell-you-13383347.jpg" title="This (Is What I Wanted To Tell You) by Lambchop" >}}
+This (Is What I Wanted to Tell You) is the thirteenth studio album by American band Lambchop, released on March 22, 2019. The album appeared 50th on the Mojo magazine's albums of the year list.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The New Isn't So You Anymore (5:19)
 2. Crosswords, Or What This Says About You (6:47)
 3. Everything For You (3:55)
@@ -29,13 +31,6 @@ styles: ["Abstract", "Post Rock", "Indie Pop", "Folk"]
 6. The December-ish You (6:20)
 7. This Is What I Wanted To Tell You (6:45)
 8. Flower (2:38)
-
-<!-- section break -->
-
-This (Is What I Wanted to Tell You) is the thirteenth studio album by American band Lambchop, released on March 22, 2019. The album appeared 50th on the Mojo magazine's albums of the year list.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-what-i-wanted-to-tell-you/1442193707" >}}<br>

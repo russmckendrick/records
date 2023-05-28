@@ -21,10 +21,9 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ---
 
-{{< img src="a-bit-of-what-you-fancy-30th-anniversary-edition-23407643.jpg" title="A Bit Of What You Fancy 30th Anniversary Edition by The Quireboys" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 7 O'Clock (3:46)
 2. Man On The Loose (4:29)
 3. Whippin' Boy (5:00)
@@ -37,10 +36,6 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 10. Roses & Rings (4:16)
 11. There She Goes Again (3:27)
 12. Take Me Home (4:44)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-bit-of-what-you-fancy-30th-anniversary-edition/1574981034" >}}<br>

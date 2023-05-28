@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-{{< img src="scarecrow-9803967.jpg" title="Scarecrow by John Cougar Mellencamp" >}}
+Scarecrow is the eighth studio album by John Mellencamp. Released in August 1985, it peaked at number two on the US chart. The remastered version was released May 24, 2005 on Mercury/Island/UMe and includes one bonus track. On November 4, 2022, a "deluxe" two-CD remastered and remixed version of the album was released.This album contained three top-ten hits, a record for a Mellencamp album: "R.O.C.K. in the U.S.A.", which peaked at number two in the US; "Lonely Ol' Night", which peaked at number six; and "Small Town", which also peaked at number six. "Lonely Ol' Night" also peaked at number one on the Mainstream Rock Tracks chart, his second chart-topping single on this chart.
+In 1989, Rolling Stone magazine ranked Scarecrow number 95 on its list of the 100 greatest albums of the 1980s, saying: "Scarecrow consolidated the band's rugged, roots-rock thrash and the ongoing maturation of Mellencamp's lyrics."
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rain On The Scarecrow (3:45)
 2. Grandma's Theme (0:55)
 3. Small Town (3:42)
@@ -38,15 +42,6 @@ styles: ["Southern Rock"]
 9. Rumbleseat (3:00)
 10. You've Got To Stand For Something' (4:33)
 11. R.O.C.K. In The U.S.A. (A Salute To 60's Rock) (2:55)
-
-<!-- section break -->
-
-Scarecrow is the eighth studio album by John Mellencamp. Released in August 1985, it peaked at number two on the US chart. The remastered version was released May 24, 2005 on Mercury/Island/UMe and includes one bonus track. On November 4, 2022, a "deluxe" two-CD remastered and remixed version of the album was released.This album contained three top-ten hits, a record for a Mellencamp album: "R.O.C.K. in the U.S.A.", which peaked at number two in the US; "Lonely Ol' Night", which peaked at number six; and "Small Town", which also peaked at number six. "Lonely Ol' Night" also peaked at number one on the Mainstream Rock Tracks chart, his second chart-topping single on this chart.
-In 1989, Rolling Stone magazine ranked Scarecrow number 95 on its list of the 100 greatest albums of the 1980s, saying: "Scarecrow consolidated the band's rugged, roots-rock thrash and the ongoing maturation of Mellencamp's lyrics."
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scarecrow-bonus-track-2005-remaster/1440760003" >}}<br>

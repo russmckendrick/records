@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="on-an-island-707721.jpg" title="On An Island by David Gilmour" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Castellorizon
 2. On An Island
 3. The Blue
@@ -39,10 +38,6 @@ styles: ["Prog Rock", "Art Rock"]
 8. Smile
 9. Pocketful Of Stones
 10. Where We Start
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-an-island/703028242" >}}<br>

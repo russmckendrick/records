@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
 
-{{< img src="evaporate-11947803.jpg" title="Evaporate by Midas Fall" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bruise Pusher (3:57)
 2. Evaporate (5:38)
 3. Soveraine (5:46)
@@ -30,10 +29,6 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 8. In Sunny Landscapes (5:28)
 9. Lapsing (4:09)
 10. Howling At The Clouds (4:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/evaporate/1343876649" >}}<br>

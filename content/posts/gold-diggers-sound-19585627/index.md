@@ -17,24 +17,6 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
 
-{{< img src="gold-diggers-sound-19585627.jpg" title="Gold-Diggers Sound by Leon Bridges" >}}
-
-<!-- section break -->
-
-1. Born Again
-2. Motorbike
-3. Steam
-4. Why Don't You Touch Me
-5. Magnolias
-6. Gold-Diggers (Junior's Fanfare)
-7. Details
-8. Sho Nuff
-9. Sweeter
-10. Don't Worry
-11. Blue Mesas
-
-<!-- section break -->
-
 When Leon Bridges set out to make his third album, he wanted it to be different this time around. “We felt like the only way to unlock a unique sound was to create this immersive experience and find a place that was aesthetically inspiring,” he tells Apple Music. He landed on Gold-Diggers in East Hollywood, a three-in-one bar, hotel and recording studio that allowed the Texas-bred singer to tap into his sound the way he hears it in his head, free from the expectations of others. “It definitely felt the most liberating to me,” he says of the process. “I was just able to be myself and let go of any inhibitions and create without any boundaries.” <br />
 The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—became <i>Gold-Diggers Sound</i> and some of Bridges’ most refined work. He rose to fame through his ’50s and ’60s soul stylings, but the R&B contained within this album situates its nostalgia in a more modern context, bridging ’80s and ’90s R&B with lush, jazz-inspired live instrumentation. His writing coupled with his voice has long been the centrepiece, but hearing both in this context is to experience them anew. “When you look at <i>Gold-Diggers Sound</i>, a lot of these songs were derived from improvisational jams,” Bridges says. “Back to the basics of musicians in a room and creating music from the ground up.” Here he walks through each song on the album.<br />
 <b>“Born Again”</b>
@@ -63,6 +45,19 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
         
     
 
+
+## Tracklisting
+1. Born Again
+2. Motorbike
+3. Steam
+4. Why Don't You Touch Me
+5. Magnolias
+6. Gold-Diggers (Junior's Fanfare)
+7. Details
+8. Sho Nuff
+9. Sweeter
+10. Don't Worry
+11. Blue Mesas
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-diggers-sound-apple-music-edition/1577502911" >}}<br>

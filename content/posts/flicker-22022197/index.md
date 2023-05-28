@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="flicker-22022197.jpg" title="Flicker by Andy Bell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Sky Without You
 2. It Gets Easier
 3. World Of Echo
@@ -39,10 +38,6 @@ styles: []
 16. When The Lights Go Down
 17. This Is Our Year
 18. Holiday In The Sun
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flicker/1600686699" >}}<br>

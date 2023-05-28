@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-{{< img src="infestissumam-4529587.jpg" title="Infestissumam by Ghost" >}}
+Infestissumam (Latin superlative adjective meaning very or most hostile, used by the band as "the most hostile" or "the biggest threat" in reference to the Antichrist) is the second studio album by the Swedish rock band Ghost. It was recorded in Nashville, Tennessee, produced by Nick Raskulinecz and released on April 10, 2013. It was released in North America by Loma Vista Recordings on April 16 in partnership with Republic Records, a division of Universal Music Group, marking the band's major label debut. The album was generally well-received, with several music publications placing it on their list of the best heavy metal albums of the year, and won the 2014 Grammis Award for Best Hard Rock/Metal Album. In late 2013, the band released a special edition of the album, called Infestissumam Redux.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Infestissumam (1:42)
 2. Per Aspera Ad Inferi (4:09)
 3. Secular Haze (5:09)
@@ -36,13 +38,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 8. Idolatrine (4:23)
 9. Depth Of Satan's Eyes (5:25)
 10. Monstrance Clock (5:53)
-
-<!-- section break -->
-
-Infestissumam (Latin superlative adjective meaning very or most hostile, used by the band as "the most hostile" or "the biggest threat" in reference to the Antichrist) is the second studio album by the Swedish rock band Ghost. It was recorded in Nashville, Tennessee, produced by Nick Raskulinecz and released on April 10, 2013. It was released in North America by Loma Vista Recordings on April 16 in partnership with Republic Records, a division of Universal Music Group, marking the band's major label debut. The album was generally well-received, with several music publications placing it on their list of the best heavy metal albums of the year, and won the 2014 Grammis Award for Best Hard Rock/Metal Album. In late 2013, the band released a special edition of the album, called Infestissumam Redux.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/infestissumam-deluxe-version/1446019421" >}}<br>

@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
 
-{{< img src="spirit-of-eden-3552909.jpg" title="Spirit Of Eden by Talk Talk" >}}
+Spirit of Eden is the fourth studio album by English band Talk Talk, released in 1988 on Parlophone Records. The songs were written by vocalist Mark Hollis and producer Tim Friese-Greene and the album was compiled from a lengthy recording process at London's Wessex Studios between 1987 and 1988. Often working in darkness, the band recorded many hours of improvised performances that drew on elements of jazz, ambient, blues, classical music, and dub. These long-form recordings were then heavily edited and re-arranged into an album in mostly digital format.
+Spirit of Eden was a radical departure from Talk Talk's earlier and more accessible albums. Compared to the success of 1986's The Colour of Spring, it was a commercial disappointment. Despite its mixed reception, the album's stature grew more favourable in subsequent years, with contemporary critics describing Spirit of Eden as an underrated masterpiece, and early progenitor of the post-rock genre. In 2013, NME ranked Spirit of Eden at number 95 in its list of the "500 Greatest Albums of All Time", and in 2020, the same publication included Spirit of Eden on its list of "The best new wave albums ever".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Spirit Of Eden
 2. The Rainbow
 3. Eden
@@ -45,15 +49,6 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 14. Wealth
 15. -
 16. John Cope
-
-<!-- section break -->
-
-Spirit of Eden is the fourth studio album by English band Talk Talk, released in 1988 on Parlophone Records. The songs were written by vocalist Mark Hollis and producer Tim Friese-Greene and the album was compiled from a lengthy recording process at London's Wessex Studios between 1987 and 1988. Often working in darkness, the band recorded many hours of improvised performances that drew on elements of jazz, ambient, blues, classical music, and dub. These long-form recordings were then heavily edited and re-arranged into an album in mostly digital format.
-Spirit of Eden was a radical departure from Talk Talk's earlier and more accessible albums. Compared to the success of 1986's The Colour of Spring, it was a commercial disappointment. Despite its mixed reception, the album's stature grew more favourable in subsequent years, with contemporary critics describing Spirit of Eden as an underrated masterpiece, and early progenitor of the post-rock genre. In 2013, NME ranked Spirit of Eden at number 95 in its list of the "500 Greatest Albums of All Time", and in 2020, the same publication included Spirit of Eden on its list of "The best new wave albums ever".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spirit-of-eden/701395363" >}}<br>

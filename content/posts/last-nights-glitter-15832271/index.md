@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="last-nights-glitter-15832271.jpg" title="Last Nights Glitter by Charlie Barnes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sing to God (Intro) (1:22)
 2. All I Have (4:25)
 3. The Weather (4:32)
@@ -30,10 +29,6 @@ styles: ["Pop Rock"]
 8. Will & Testament (4:10)
 9. Former Glories/Bruising (Reprise) (4:26)
 10. Last Night's Glitter (6:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}<br>

@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="masseduction-10987228.jpg" title="Masseduction by St. Vincent" >}}
+Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hang On Me (2:48)
 2. Pills (4:40)
 3. Masseduction (3:17)
@@ -42,14 +45,6 @@ styles: ["Indie Rock"]
 11. Dancing With A Ghost (0:46)
 12. Slow Disco (2:44)
 13. Smoking Section (3:37)
-
-<!-- section break -->
-
-Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}<br>

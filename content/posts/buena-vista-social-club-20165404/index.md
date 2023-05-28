@@ -26,10 +26,13 @@ genres: ["Latin"]
 styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 ---
 
-{{< img src="buena-vista-social-club-20165404.jpg" title="Buena Vista Social Club by Buena Vista Social Club" >}}
+Buena Vista Social Club is a 1999 documentary film directed by Wim Wenders about the music of Cuba. It is named for a danzón that became the title piece of the album Buena Vista Social Club. The film is an international co-production of Germany, the United States, the United Kingdom, France, and Cuba.
+In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chan Chan (4:18)
 2. De Camino A La Vereda (5:03)
 3. El Cuarto De Tula (7:25)
@@ -82,14 +85,6 @@ styles: ["Afro-Cuban", "Son", "Danzon", "Bolero", "Trova", "Guajira", "Ballad"]
 50. Descarga Rubén
 51. Candela (Alternate Take)
 52. Orgullecida (Alternate Trio Take)
-
-<!-- section break -->
-
-Buena Vista Social Club is a 1999 documentary film directed by Wim Wenders about the music of Cuba. It is named for a danzón that became the title piece of the album Buena Vista Social Club. The film is an international co-production of Germany, the United States, the United Kingdom, France, and Cuba.
-In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/buena-vista-social-club/1467829048" >}}<br>

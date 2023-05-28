@@ -18,18 +18,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="one-ep-11285610.jpg" title="One EP by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Egg Shaped Fred (3:54)
 2. Ski Jump Nose (3:42)
 3. Lemonade Secret Drinker (3:48)
 4. Thief (3:03)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-a-memory-feat-elohim-mansions-on-the-moon-remixes-ep/1442813569" >}}<br>

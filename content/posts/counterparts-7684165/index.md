@@ -28,10 +28,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="counterparts-7684165.jpg" title="Counterparts by Rush" >}}
+Counterparts is the fifteenth studio album by Canadian rock band Rush, released October 19, 1993, on Anthem Records. After the band finished touring its previous album Roll the Bones (1991) in mid-1992, the members took a break before starting work on a follow-up.
+Counterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, "Stick It Out", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental "Leave That Thing Alone" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Animate (6:05)
 2. Stick It Out (4:30)
 3. Cut To The Chase (4:49)
@@ -43,14 +46,6 @@ styles: ["Hard Rock", "Prog Rock"]
 9. Leave That Thing Alone (4:06)
 10. Cold Fire (4:27)
 11. Everyday Glory (5:10)
-
-<!-- section break -->
-
-Counterparts is the fifteenth studio album by Canadian rock band Rush, released October 19, 1993, on Anthem Records. After the band finished touring its previous album Roll the Bones (1991) in mid-1992, the members took a break before starting work on a follow-up.
-Counterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, "Stick It Out", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental "Leave That Thing Alone" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/counterparts-remastered/642211626" >}}<br>

@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-idiot-10451933.jpg" title="The Idiot by Iggy Pop" >}}
+The Idiot is the debut studio album by American musician Iggy Pop, released on March 18, 1977 through RCA Records. It was produced by David Bowie and primarily recorded at the Château d'Hérouville in Hérouville, France. The album followed the break-up of Pop's band the Stooges in 1974 and a period of drug addiction for both Pop and Bowie, after which the two moved to Europe in an effort to kick their addictions.
+Described by Pop as "a cross between James Brown and Kraftwerk", The Idiot marks a departure from the proto-punk of the Stooges to a more subdued, mechanical sound with electronic overtones. Recording for it began at the château in June 1976 and continued into July. Further sessions took place at Musicland Studios in Munich in August. Bowie composed most of the music and contributed a major portion of the instrumentation. Pop wrote most of the lyrics in response to the music Bowie was creating. The album's title was taken from Fyodor Dostoevsky's novel of the same name, while Erich Heckel's painting Roquairol inspired its artwork.
+After the album was completed, Bowie began recording his next album Low, which features a sound similar to The Idiot. Low was released in January 1977 and was a commercial success, compelling RCA Records to release The Idiot two months later. Upon its release, the album received divided, albeit largely positive reviews from music critics, many of whom noted a change in musical tone from Pop's earlier work with the Stooges.  It charted in the US, the UK, and Australia. It was accompanied by the release of two singles, "Sister Midnight" and "China Girl", in February and May 1977, respectively; Bowie later issued his own version of "China Girl" as a single in 1983.
+Pop supported The Idiot with a tour in March and April 1977, with Bowie as his keyboardist. Afterwards, the two collaborated again on Pop's second studio album, Lust for Life (1977). Retrospectively, The Idiot has continued to be received positively, with many noting Pop's artistic evolution. However, because Bowie largely created it, fans do not generally consider the album as being representative of Pop's output. It has influenced post-punk, industrial, and gothic acts, including Joy Division.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sister Midnight (4:23)
 2. Nightclubbing (4:18)
 3. Funtime (2:53)
@@ -34,16 +39,6 @@ styles: []
 6. Dum Dum Boys (7:12)
 7. Tiny Girls (3:03)
 8. Mass Production (8:28)
-
-<!-- section break -->
-
-The Idiot is the debut studio album by American musician Iggy Pop, released on March 18, 1977 through RCA Records. It was produced by David Bowie and primarily recorded at the Château d'Hérouville in Hérouville, France. The album followed the break-up of Pop's band the Stooges in 1974 and a period of drug addiction for both Pop and Bowie, after which the two moved to Europe in an effort to kick their addictions.
-Described by Pop as "a cross between James Brown and Kraftwerk", The Idiot marks a departure from the proto-punk of the Stooges to a more subdued, mechanical sound with electronic overtones. Recording for it began at the château in June 1976 and continued into July. Further sessions took place at Musicland Studios in Munich in August. Bowie composed most of the music and contributed a major portion of the instrumentation. Pop wrote most of the lyrics in response to the music Bowie was creating. The album's title was taken from Fyodor Dostoevsky's novel of the same name, while Erich Heckel's painting Roquairol inspired its artwork.
-After the album was completed, Bowie began recording his next album Low, which features a sound similar to The Idiot. Low was released in January 1977 and was a commercial success, compelling RCA Records to release The Idiot two months later. Upon its release, the album received divided, albeit largely positive reviews from music critics, many of whom noted a change in musical tone from Pop's earlier work with the Stooges.  It charted in the US, the UK, and Australia. It was accompanied by the release of two singles, "Sister Midnight" and "China Girl", in February and May 1977, respectively; Bowie later issued his own version of "China Girl" as a single in 1983.
-Pop supported The Idiot with a tour in March and April 1977, with Bowie as his keyboardist. Afterwards, the two collaborated again on Pop's second studio album, Lust for Life (1977). Retrospectively, The Idiot has continued to be received positively, with many noting Pop's artistic evolution. However, because Bowie largely created it, fans do not generally consider the album as being representative of Pop's output. It has influenced post-punk, industrial, and gothic acts, including Joy Division.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-idiot/1440888621" >}}<br>

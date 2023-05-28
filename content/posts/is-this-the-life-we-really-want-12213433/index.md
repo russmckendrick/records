@@ -31,10 +31,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="is-this-the-life-we-really-want-12213433.jpg" title="Is This The Life We Really Want? by Roger Waters" >}}
+From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. When We Were Young
 2. Deja Vu
 3. The Last Refugee
@@ -47,13 +49,6 @@ styles: ["Prog Rock"]
 10. Wait For Her
 11. Oceans Apart
 12. Part Of Me Died
-
-<!-- section break -->
-
-From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}<br>

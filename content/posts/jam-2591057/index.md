@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Hard Rock"]
 ---
 
-{{< img src="jam-2591057.jpg" title="Jam by Little Angels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jam
 2. The Way That I Live
 3. Too Much Too Young
@@ -50,10 +49,6 @@ styles: ["Soft Rock", "Hard Rock"]
 19. Boneyard 1993
 20. Don't Prey For Me (Extended Version)
 21. Won't Get Fooled Again
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jam/1442295456" >}}<br>

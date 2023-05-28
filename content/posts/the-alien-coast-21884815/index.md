@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-{{< img src="the-alien-coast-21884815.jpg" title="The Alien Coast by St. Paul & The Broken Bones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 3000AD Mass
 2. Bermejo And The Devil
 3. Minotaur
@@ -36,10 +35,6 @@ styles: []
 9. Tin Man Love
 10. Popcorn Ceiling
 11. Love Letter From A Red Roof Inn
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/alien-coast/1587179158" >}}<br>

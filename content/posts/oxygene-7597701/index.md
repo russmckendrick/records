@@ -22,23 +22,18 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
 
-{{< img src="oxygene-7597701.jpg" title="Oxygene by Jean-Michel Jarre" >}}
+Space: the final frontier. And also, in Jean Michel Jarre's case, the beginning of a wildly successful career as one of electronic music's best-selling artists. Close your eyes, and the French musician's 1977 debut album doubles as an intergalactic trip, with soaring synthesiser melodies and bubbling arpeggios serving as a kind of imaginary flight simulator. Lush and melodramatic, <i>Oxygène</i> set the standard for electronic prog, paving the way for Tiësto's world-conquering trance and Hudson Mohawke's giddy maximalism.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Oxygene Part 1 (7:39)
 2. Oxygene Part 2 (7:46)
 3. Oxygene Part 3 (3:16)
 4. Oxygene Part 4 (4:06)
 5. Oxygene Part 5 (10:15)
 6. Oxygene Part 6 (6:36)
-
-<!-- section break -->
-
-Space: the final frontier. And also, in Jean Michel Jarre's case, the beginning of a wildly successful career as one of electronic music's best-selling artists. Close your eyes, and the French musician's 1977 debut album doubles as an intergalactic trip, with soaring synthesiser melodies and bubbling arpeggios serving as a kind of imaginary flight simulator. Lush and melodramatic, <i>Oxygène</i> set the standard for electronic prog, paving the way for Tiësto's world-conquering trance and Hudson Mohawke's giddy maximalism.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oxyg%C3%A8ne/1027735862" >}}<br>

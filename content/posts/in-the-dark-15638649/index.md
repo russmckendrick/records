@@ -16,10 +16,12 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-{{< img src="in-the-dark-15638649.jpg" title="In The Dark by Toots & The Maytals" >}}
+In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Got To Be There
 2. In The Dark
 3. Having A Party
@@ -32,13 +34,6 @@ styles: ["Roots Reggae"]
 10. Revolution
 11. 54-36
 12. Sailing On
-
-<!-- section break -->
-
-In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}<br>

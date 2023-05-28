@@ -19,10 +19,9 @@ genres: ["Rock", "Reggae"]
 styles: ["Reggae", "Punk", "Ska"]
 ---
 
-{{< img src="jah-won-t-pay-the-bills-8380052.jpg" title="Jah Won't Pay The Bills by Sublime" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. D.J.s
 2. Badfish
 3. Lets Go Get Stoned
@@ -33,10 +32,6 @@ styles: ["Reggae", "Punk", "Ska"]
 8. Slowride
 9. Date Rape
 10. Live at E's
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407" >}}<br>

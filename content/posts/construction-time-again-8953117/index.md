@@ -21,10 +21,15 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="construction-time-again-8953117.jpg" title="Construction Time Again by Depeche Mode" >}}
+Construction Time Again is the third studio album by English electronic music band Depeche Mode, released on 22 August 1983 by Mute Records. It was the band's first album to feature Alan Wilder as a member, who wrote the songs "Two Minute Warning" and "The Landscape Is Changing". The album's title comes from the second line of the first verse of the track "Pipeline". It was recorded at John Foxx's Garden Studios in London, and was supported by the Construction Time Again Tour.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Love, In Itself
 2. More Than A Party
 3. Pipeline
@@ -34,16 +39,6 @@ styles: ["Synth-pop"]
 7. The Landscape Is Changing
 8. Told You So
 9. And Then...
-
-<!-- section break -->
-
-Construction Time Again is the third studio album by English electronic music band Depeche Mode, released on 22 August 1983 by Mute Records. It was the band's first album to feature Alan Wilder as a member, who wrote the songs "Two Minute Warning" and "The Landscape Is Changing". The album's title comes from the second line of the first verse of the track "Pipeline". It was recorded at John Foxx's Garden Studios in London, and was supported by the Construction Time Again Tour.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/construction-time-again-deluxe/1174247799" >}}<br>

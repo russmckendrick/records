@@ -20,10 +20,13 @@ genres: ["Blues"]
 styles: []
 ---
 
-{{< img src="dust-my-broom-3329700.jpg" title="Dust My Broom by Elmore James" >}}
+"Dust My Broom" is a blues song originally recorded as "I Believe I'll Dust My Broom" by American blues artist Robert Johnson in 1936.  It is a solo performance in the Delta blues-style with Johnson's vocal accompanied by his acoustic guitar.  As with many of his songs, it is based on earlier blues songs, the earliest of which has been identified as "I Believe I'll Make a Change", recorded by the Sparks brothers as "Pinetop and Lindberg" in 1932.  Johnson's guitar work features an early use of a boogie rhythm pattern, which is seen as a major innovation, as well as a repeating triplets figure.
+In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the classic as we know it", according to blues historian Gerard Herzhaft.  James' slide guitar adaptation of Johnson's triplet figure has been identified as one of the most famous blues guitar riffs and has inspired many rock performers.  The song has become a blues standard, with numerous renditions by a variety of musicians.  It also has been selected for the Blues Foundation Blues Hall of Fame, the Grammy Hall of Fame, and the Library of Congress' National Recording Registry.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Coming Home (2:34)
 2. Dust My Broom (2:26)
 3. Everyday I Have The Blues (2:35)
@@ -36,14 +39,6 @@ styles: []
 10. Rolling And Tumbling (2:30)
 11. Standing At The Crossroads (2:15)
 12. The Sky Is Crying (3:10)
-
-<!-- section break -->
-
-"Dust My Broom" is a blues song originally recorded as "I Believe I'll Dust My Broom" by American blues artist Robert Johnson in 1936.  It is a solo performance in the Delta blues-style with Johnson's vocal accompanied by his acoustic guitar.  As with many of his songs, it is based on earlier blues songs, the earliest of which has been identified as "I Believe I'll Make a Change", recorded by the Sparks brothers as "Pinetop and Lindberg" in 1932.  Johnson's guitar work features an early use of a boogie rhythm pattern, which is seen as a major innovation, as well as a repeating triplets figure.
-In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the classic as we know it", according to blues historian Gerard Herzhaft.  James' slide guitar adaptation of Johnson's triplet figure has been identified as one of the most famous blues guitar riffs and has inspired many rock performers.  The song has become a blues standard, with numerous renditions by a variety of musicians.  It also has been selected for the Blues Foundation Blues Hall of Fame, the Grammy Hall of Fame, and the Library of Congress' National Recording Registry.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dust-my-broom/1648819175" >}}<br>

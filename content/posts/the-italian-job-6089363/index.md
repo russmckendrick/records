@@ -16,10 +16,12 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-italian-job-6089363.jpg" title="The Italian Job by Quincy Jones" >}}
+The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. On Days Like These (3:39)
 2. Something's Cookin' (2:30)
 3. Hello Mrs. Beckerman! (1:00)
@@ -31,13 +33,6 @@ styles: ["Soundtrack"]
 9. Smell That Gold (1:30)
 10. Greensleeves And All That Jazz (2:05)
 11. Getta Bloomin' Move On! - The Italian Job (Vocal) (4:00)
-
-<!-- section break -->
-
-The Italian Job is the soundtrack to the 1969 film which was composed and arranged by Quincy Jones and released on the Paramount label.The lyrics to "On Days Like These" and "Getta Bloomin' Move On! (The Self Preservation Society)" were written by Don Black. "Getta Bloomin' Move On! (The Self Preservation Society)" was the closing theme of the film and was performed by members of the cast; the lyrics feature Cockney rhyming slang. Many incidental themes are based on English patriotic songs, such as "Rule, Britannia!", "The British Grenadiers" and "God Save the Queen".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-italian-job-original-soundtrack/1443280326" >}}<br>

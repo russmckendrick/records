@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="effloresce-11077284.jpg" title="Effloresce by Oceansize" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Am The Morning
 2. Catalyst
 3. One Day All This Could Be Yours
@@ -43,10 +42,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Women Who Love Men Who Love Drugs
 11. Saturday Morning Breakfast Show
 12. Long Forgotten
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}<br>

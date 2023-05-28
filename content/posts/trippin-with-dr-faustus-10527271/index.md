@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Space Rock", "Prog Rock"]
 ---
 
-{{< img src="trippin-with-dr-faustus-10527271.jpg" title="Trippin' With Dr. Faustus by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rainbow Machine
 2. Freakzone
 3. Kosmos (Grooves Of Triumph)
@@ -43,10 +42,6 @@ styles: ["Space Rock", "Prog Rock"]
 8. Supernova
 9. Silvio
 10. Old Blue Eyes
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150" >}}<br>

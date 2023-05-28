@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="dog-man-star-5448646.jpg" title="Dog Man Star by Suede" >}}
+Dog Man Star is the second album by English alternative rock band Suede, released in October 1994 on Nude Records. The album was recorded in London at Master Rock studios in early 1994, and was produced by Ed Buller. It was the last Suede album to feature guitarist Bernard Butler; growing tensions between him and singer Brett Anderson ended with Butler leaving the band before recording was complete. As a result, some tracks on the album had to be finished with the assistance of session musicians.
+In contrast to their debut album Suede, which exhibited the influences of David Bowie and the Smiths, Dog Man Star exhibits a more varied aesthetic and draws from a wider range of influences. Although it did not sell on the same scale as its predecessor, it reached number three on the UK Albums Chart and was certified as gold by the BPI in November 1994. Described by Rolling Stone as "one of the most pretentious albums ever released by a major label," the record was released in a different UK musical climate to their hitherto discography. Out-of-step with the mainstream music scene, it featured the band diverting away from the "Britpop pack" of bands.While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend towards "lad pop" saw its chart and sales success obscured. It was generally overlooked at the time, and it polarised American critics, some labelling it as pretentious. The album has over time garnered wider acclaim from critics. In the decade between Suede's 2003 separation and the release of Bloodsports, Dog Man Star steadily gained a strong following as a classic rock record. In October 2013, NME magazine placed the album at number 31 in its list of the 500 greatest albums of all time.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Introducing The Band (2:38)
 2. We Are The Pigs (4:19)
 3. Heroine (3:22)
@@ -41,15 +45,6 @@ styles: ["Alternative Rock", "Britpop"]
 10. Black Or Blue (3:48)
 11. The Asphalt World (9:25)
 12. Still Life (5:23)
-
-<!-- section break -->
-
-Dog Man Star is the second album by English alternative rock band Suede, released in October 1994 on Nude Records. The album was recorded in London at Master Rock studios in early 1994, and was produced by Ed Buller. It was the last Suede album to feature guitarist Bernard Butler; growing tensions between him and singer Brett Anderson ended with Butler leaving the band before recording was complete. As a result, some tracks on the album had to be finished with the assistance of session musicians.
-In contrast to their debut album Suede, which exhibited the influences of David Bowie and the Smiths, Dog Man Star exhibits a more varied aesthetic and draws from a wider range of influences. Although it did not sell on the same scale as its predecessor, it reached number three on the UK Albums Chart and was certified as gold by the BPI in November 1994. Described by Rolling Stone as "one of the most pretentious albums ever released by a major label," the record was released in a different UK musical climate to their hitherto discography. Out-of-step with the mainstream music scene, it featured the band diverting away from the "Britpop pack" of bands.While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend towards "lad pop" saw its chart and sales success obscured. It was generally overlooked at the time, and it polarised American critics, some labelling it as pretentious. The album has over time garnered wider acclaim from critics. In the decade between Suede's 2003 separation and the release of Bloodsports, Dog Man Star steadily gained a strong following as a classic rock record. In October 2013, NME magazine placed the album at number 31 in its list of the 500 greatest albums of all time.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dog-man-star-remastered-deluxe-edition/437206374" >}}<br>

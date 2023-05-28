@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="8-years-later-11895351.jpg" title="8 Years Later  by The Pineapple Thief" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Strung Out 
 2. Dawn Again
 3. Ritual
@@ -33,10 +32,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 5. Hallucinations And Delusions
 6. The Confined Escape
 7. Our Shelter
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/8-years-later/1585711251" >}}<br>

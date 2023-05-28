@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="koyo-10895225.jpg" title="Koyo by Koyo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Strange Bird In The Sky (5:36)
 2. Jettisoned (4:55)
 3. The Beauty In Loneliness (5:26)
@@ -30,10 +29,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 8. Now I Understand (4:11)
 9. Tetrachromat (Parts 1 & 2) (8:08)
 10. Release (6:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}<br>

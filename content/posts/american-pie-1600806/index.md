@@ -20,10 +20,14 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
 
-{{< img src="american-pie-1600806.jpg" title="American Pie by Don McLean" >}}
+American Pie is the second studio album by American singer-songwriter Don McLean, released by United Artists Records on 24 October 1971. The folk rock album reached number one on the Billboard 200, containing the chart-topping singles "American Pie" and "Vincent". Recorded in May and June 1971 at The Record Plant in New York City, the LP is dedicated to Buddy Holly, and was reissued in 1980 minus the track "Sister Fatima". The album was released to much acclaim, later being included in the book 1001 Albums You Must Hear Before You Die.At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.P.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. American Pie (8:27)
 2. Till Tomorrow (2:11)
 3. Vincent (3:55)
@@ -34,15 +38,6 @@ styles: ["Folk Rock", "Acoustic"]
 8. Sister Fatima (2:31)
 9. The Grave (3:08)
 10. Babylon (1:40)
-
-<!-- section break -->
-
-American Pie is the second studio album by American singer-songwriter Don McLean, released by United Artists Records on 24 October 1971. The folk rock album reached number one on the Billboard 200, containing the chart-topping singles "American Pie" and "Vincent". Recorded in May and June 1971 at The Record Plant in New York City, the LP is dedicated to Buddy Holly, and was reissued in 1980 minus the track "Sister Fatima". The album was released to much acclaim, later being included in the book 1001 Albums You Must Hear Before You Die.At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.P.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-pie-expanded-edition/724850042" >}}<br>

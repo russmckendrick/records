@@ -17,10 +17,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Comedy"]
 ---
 
-{{< img src="the-yamaha-years-7453474.jpg" title="The Yamaha Years by John Shuttleworth" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Wife Died In 1970
 2. Modern Man
 3. Have You Seen My Wife?
@@ -48,10 +47,6 @@ styles: ["Synth-pop", "Comedy"]
 25. Excerpt From A Radio Non-Broadcast
 26. The History Of Rock N Roll
 27. John Goes To London
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-yamaha-years/166090967" >}}<br>

@@ -22,10 +22,13 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="american-tunes-8634623.jpg" title="American Tunes by Allen Toussaint" >}}
+American Tunes  is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died.The album title is taken from the 1973 Paul Simon song "American Tune," which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair (Henry Roeland Byrd), Duke Ellington, Bill Evans, and Fats Waller.Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the late musician. "Allen Toussaint brought New Orleans to the world," Simon has said, "and he left before he could bless us with the complete genius of his music."
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Delores' Boyfriend
 2. Viper's Drag
 3. Confessin' (That I Love You)
@@ -44,14 +47,6 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Her Mind Is Gone
 17. Moon River
 18. Bald Head
-
-<!-- section break -->
-
-American Tunes  is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died.The album title is taken from the 1973 Paul Simon song "American Tune," which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair (Henry Roeland Byrd), Duke Ellington, Bill Evans, and Fats Waller.Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the late musician. "Allen Toussaint brought New Orleans to the world," Simon has said, "and he left before he could bless us with the complete genius of his music."
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-tunes/1100493803" >}}<br>

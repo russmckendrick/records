@@ -22,10 +22,12 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="black-velvet-12768110.jpg" title="Black Velvet by Charles Bradley" >}}
+Black Velvet is the fourth and final studio album by American funk/soul artist Charles Bradley, released on 9 November 2018. The album release was preceded by two singles, "Can't Fight the Feeling" and "I Feel a Change". The name of the album comes from Bradley's stage name during his time as a James Brown impersonator. The album consists of songs originally recorded for Bradley's three previous studio albums, and was compiled by producer Thomas Brenneck after Bradley's death from cancer in September 2017. Included are covers of "Stay Away" by Nirvana and "Heart of Gold" by Neil Young.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Can't Fight The Feeling
 2. Luv Jones
 3. I Feel A Change
@@ -36,13 +38,6 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 8. (I Hope You Find) The Good Life
 9. Fly Little Girl
 10. Victim Of Love (Electric Version)
-
-<!-- section break -->
-
-Black Velvet is the fourth and final studio album by American funk/soul artist Charles Bradley, released on 9 November 2018. The album release was preceded by two singles, "Can't Fight the Feeling" and "I Feel a Change". The name of the album comes from Bradley's stage name during his time as a James Brown impersonator. The album consists of songs originally recorded for Bradley's three previous studio albums, and was compiled by producer Thomas Brenneck after Bradley's death from cancer in September 2017. Included are covers of "Stay Away" by Nirvana and "Heart of Gold" by Neil Young.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-velvet-feat-menahan-street-band/1485029036" >}}<br>

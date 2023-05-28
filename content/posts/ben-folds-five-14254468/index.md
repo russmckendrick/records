@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="ben-folds-five-14254468.jpg" title="Ben Folds Five by Ben Folds Five" >}}
+Ben Folds Five was an American alternative rock trio formed in 1993 in Chapel Hill, North Carolina. The group comprises Ben Folds (lead vocals, piano), Robert Sledge (bass guitar, backing vocals) and Darren Jessee (drums, backing vocals). The group achieved success in the alternative, indie and pop music scenes. Their single "Brick" from the second album, Whatever and Ever Amen (1997), gained airplay on many mainstream radio stations. 
+During their first seven years, the band released three studio records, a compilation of B-sides and outtakes, and eight singles. They also contributed to a number of soundtracks and compilations. Ben Folds Five disbanded in October 2000, but reunited in 2011, and released their fourth album, The Sound of the Life of the Mind, in 2012, before disbanding again in 2013.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Jackson Cannery (3:24)
 2. Philosophy (4:36)
 3. Julianne (2:31)
@@ -34,14 +37,6 @@ styles: ["Indie Rock"]
 10. Video (4:07)
 11. The Last Polka (4:34)
 12. Boxing (4:43)
-
-<!-- section break -->
-
-Ben Folds Five was an American alternative rock trio formed in 1993 in Chapel Hill, North Carolina. The group comprises Ben Folds (lead vocals, piano), Robert Sledge (bass guitar, backing vocals) and Darren Jessee (drums, backing vocals). The group achieved success in the alternative, indie and pop music scenes. Their single "Brick" from the second album, Whatever and Ever Amen (1997), gained airplay on many mainstream radio stations. 
-During their first seven years, the band released three studio records, a compilation of B-sides and outtakes, and eight singles. They also contributed to a number of soundtracks and compilations. Ben Folds Five disbanded in October 2000, but reunited in 2011, and released their fourth album, The Sound of the Life of the Mind, in 2012, before disbanding again in 2013.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ben-folds-five/771779576" >}}<br>

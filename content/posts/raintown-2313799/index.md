@@ -20,10 +20,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="raintown-2313799.jpg" title="Raintown by Deacon Blue" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Born In A Storm (1:35)
 2. Raintown (3:48)
 3. Ragman (3:10)
@@ -35,10 +34,6 @@ styles: ["Synth-pop"]
 9. The Very Thing (3:32)
 10. Love's Great Fears (3:40)
 11. Town To Be Blamed (5:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raintown/570301445" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="pure-air-10280655.jpg" title="Pure Air by Anneke van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Blower's Daughter (4:33)
 2. Beautiful One (5:55)
 3. Wild Flowers (4:19)
@@ -36,10 +35,6 @@ styles: ["Pop Rock"]
 11. Somewhere (4:09)
 12. Witnesses (1:51)
 13. The Power Of Love (4:44)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-air/1068872943" >}}<br>

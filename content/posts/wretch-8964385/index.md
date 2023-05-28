@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
 
-{{< img src="wretch-8964385.jpg" title="Wretch by Kyuss" >}}
+Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Beginning Of What's About To Happen (1:30)
 2. Hwy 74 (3:10)
 3. Love Has Passed Me By (3:10)
@@ -34,13 +36,6 @@ styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 10. I'm Not (4:30)
 11. Big Bikes (5:04)
 12. Stage III (4:05)
-
-<!-- section break -->
-
-Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wretch/207946744" >}}<br>

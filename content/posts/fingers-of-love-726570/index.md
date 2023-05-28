@@ -20,18 +20,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="fingers-of-love-726570.jpg" title="Fingers Of Love by Crowded House" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fingers Of Love (Live) (5:08)
 2. Love U Till The Day I Die (Live) (4:31)
 3. Whispers And Moans (Live) (4:42)
 4. It's Only Natural (Live) (4:27)
-
-<!-- section break -->
-
-
 
 
 

@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="dissolution-12172923.jpg" title="Dissolution by The Pineapple Thief" >}}
+Dissolution  (stylised as di§olution) is the twelfth studio album by British rock band The Pineapple Thief, released on 31 August 2018 through Kscope. It's the second album to include Gavin Harrison on drums, but this is Harrison's first album as an official member of the band.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Not Naming Any Names (2:05)
 2. Try As I Might (4:26)
 3. Threatening War (6:37)
@@ -32,15 +36,6 @@ styles: ["Prog Rock", "Art Rock"]
 7. Pillar of Salt (1:25)
 8. White Mist (11:05)
 9. Shed A Light (5:20)
-
-<!-- section break -->
-
-Dissolution  (stylised as di§olution) is the twelfth studio album by British rock band The Pineapple Thief, released on 31 August 2018 through Kscope. It's the second album to include Gavin Harrison on drums, but this is Harrison's first album as an official member of the band.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dissolution/1394673558" >}}<br>

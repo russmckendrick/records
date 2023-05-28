@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="flibbiddydibbiddydob-1178217.jpg" title="Flibbiddydibbiddydob by Snuff" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rods & Mockers
 2. Do Nothing
 3. Shake 'N' Black
@@ -34,10 +33,6 @@ styles: ["Punk"]
 9. City Baby Attacked By Rats
 10. Bran Flakes
 11. In Sickness & In Health
-
-<!-- section break -->
-
-
 
 
 

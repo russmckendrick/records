@@ -39,10 +39,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Rock", "Experimental"]
 ---
 
-{{< img src="grey-tickles-black-pressure-7574111.jpg" title="Grey Tickles, Black Pressure by John Grant" >}}
+As epitomised by a title track referencing his haemorrhoids, the former Czars frontman has lost none of his candor or humor on this third solo album. His melodic skill remains intact too and, after the electro-pop of 2013’s <i>Pale Green Ghosts</i>, Grant investigates robotic funk (“Snug Slacks”), taut techno (“Disappointing”) and sumptuous FM rock (“Down Here”) while skewering ex-lovers and contemplating personal crises. Even on his most upbeat record yet, it’s an ability to amuse, shock and discomfit–sometimes in just one verse–that makes Grant such a compelling songwriter.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (1:37)
 2. Grey Tickles, Black Pressure (5:30)
 3. Snug Slacks (4:12)
@@ -77,14 +80,6 @@ styles: ["Indie Rock", "Experimental"]
 32. Drug (3:53)
 33. Geraldine (6:23)
 34. No More Tangles (6:18)
-
-<!-- section break -->
-
-As epitomised by a title track referencing his haemorrhoids, the former Czars frontman has lost none of his candor or humor on this third solo album. His melodic skill remains intact too and, after the electro-pop of 2013’s <i>Pale Green Ghosts</i>, Grant investigates robotic funk (“Snug Slacks”), taut techno (“Disappointing”) and sumptuous FM rock (“Down Here”) while skewering ex-lovers and contemplating personal crises. Even on his most upbeat record yet, it’s an ability to amuse, shock and discomfit–sometimes in just one verse–that makes Grant such a compelling songwriter.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grey-tickles-black-pressure/1009276812" >}}<br>

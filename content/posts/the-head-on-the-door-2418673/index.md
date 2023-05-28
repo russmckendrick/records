@@ -24,10 +24,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-head-on-the-door-2418673.jpg" title="The Head On The Door by The Cure" >}}
+The Head on the Door is the sixth studio album by English rock band the Cure. It was released on 30 August 1985 by Fiction Records. Preceded by the single "In Between Days" which had reached No. 15 on the UK Singles Chart, The Head on the Door was described by Melody Maker as "a collection of pop songs". With its variety of styles, it allowed the group to reach a wider audience in both Europe and North America. In the United Kingdom it became their most successful album to date, entering the albums chart at No. 7 on 7 September.The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, who had previously worked on three major Cure albums of the early 1980s, was called back before the recording. In 1985, the band became a quintet with instrumentalist Porl Thompson as their fifth official member. The Head on the Door is the first Cure album where all the songs were composed solely by singer and guitarist Robert Smith.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In Between Days
 2. Kyoto Song
 3. The Blood
@@ -38,13 +40,6 @@ styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 8. A Night Like This
 9. Screw
 10. Sinking
-
-<!-- section break -->
-
-The Head on the Door is the sixth studio album by English rock band the Cure. It was released on 30 August 1985 by Fiction Records. Preceded by the single "In Between Days" which had reached No. 15 on the UK Singles Chart, The Head on the Door was described by Melody Maker as "a collection of pop songs". With its variety of styles, it allowed the group to reach a wider audience in both Europe and North America. In the United Kingdom it became their most successful album to date, entering the albums chart at No. 7 on 7 September.The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, who had previously worked on three major Cure albums of the early 1980s, was called back before the recording. In 1985, the band became a quintet with instrumentalist Porl Thompson as their fifth official member. The Head on the Door is the first Cure album where all the songs were composed solely by singer and guitarist Robert Smith.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-head-on-the-door-remastered/1440791711" >}}<br>

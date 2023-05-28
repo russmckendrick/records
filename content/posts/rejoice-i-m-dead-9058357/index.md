@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="rejoice-i-m-dead-9058357.jpg" title="Rejoice! I'm Dead! by Gong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Thing That Should Be (3:34)
 2. Rejoice! (10:17)
 3. Kapital (3:21)
@@ -42,10 +41,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 7. The Unspeakable Stands Revealed (11:49)
 8. Through Restless Seas I Come (6:58)
 9. Insert Yr Own Prophecy (9:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rejoice-im-dead/1135524816" >}}<br>

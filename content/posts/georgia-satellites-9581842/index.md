@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-{{< img src="georgia-satellites-9581842.jpg" title="Georgia Satellites by The Georgia Satellites" >}}
+The Georgia Satellites are an American Southern rock band from Atlanta, Georgia. They achieved mainstream success with their 1986 self-titled debut album, featuring their best-known single "Keep Your Hands to Yourself", which peaked at No. 2 on the Billboard Hot 100. Two more albums followed – Open All Night (1988) and the band's last to feature original material In the Land of Salvation and Sin (1989) – before they went on hiatus in 1990.
+The Georgia Satellites resurfaced in 1993 and have since continued to perform live. Their latest studio album to date is 1996's Shaken Not Stirred, which includes re-recordings of the band's older material, in addition to eight new songs. They have experienced numerous lineup changes in their career, with lead guitarist and vocalist Rick Richards being the only constant member. Their current lineup includes Richards, drummer Todd Johnston, lead vocalist and rhythm guitarist Fred McNeal and bassist Bruce Smith.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Keep Your Hands To Yourself (3:26)
 2. Railroad Steel (4:12)
 3. Battleship Chains (2:58)
@@ -33,14 +36,6 @@ styles: ["Southern Rock"]
 8. Over And Over (3:37)
 9. Nights Of Mystery (4:44)
 10. Every Picture Tells A Story (5:22)
-
-<!-- section break -->
-
-The Georgia Satellites are an American Southern rock band from Atlanta, Georgia. They achieved mainstream success with their 1986 self-titled debut album, featuring their best-known single "Keep Your Hands to Yourself", which peaked at No. 2 on the Billboard Hot 100. Two more albums followed – Open All Night (1988) and the band's last to feature original material In the Land of Salvation and Sin (1989) – before they went on hiatus in 1990.
-The Georgia Satellites resurfaced in 1993 and have since continued to perform live. Their latest studio album to date is 1996's Shaken Not Stirred, which includes re-recordings of the band's older material, in addition to eight new songs. They have experienced numerous lineup changes in their career, with lead guitarist and vocalist Rick Richards being the only constant member. Their current lineup includes Richards, drummer Todd Johnston, lead vocalist and rhythm guitarist Fred McNeal and bassist Bruce Smith.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/georgia-satellites/298088771" >}}<br>

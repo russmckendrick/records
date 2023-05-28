@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="the-modern-age-13384601.jpg" title="The Modern Age by Sleeper" >}}
+The Modern Age is the fourth studio album by English Britpop band Sleeper. The album was released in the UK on 22 March 2019, and peaked at number 18 on the UK Album Chart. Three singles were released from this album, "Look At You Now", "The Sun Also Rises" and "More Than I Do", all of which failed to chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Paradise Waiting
 2. Look At You Now
 3. The Sun Also Rises
@@ -38,13 +40,6 @@ styles: ["Indie Rock", "Britpop"]
 8. Blue Like You
 9. More Than I Do
 10. Big Black Sun
-
-<!-- section break -->
-
-The Modern Age is the fourth studio album by English Britpop band Sleeper. The album was released in the UK on 22 March 2019, and peaked at number 18 on the UK Album Chart. Three singles were released from this album, "Look At You Now", "The Sun Also Rises" and "More Than I Do", all of which failed to chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-modern-age/1445590486" >}}<br>

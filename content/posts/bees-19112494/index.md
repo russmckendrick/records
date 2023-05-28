@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="bees-19112494.jpg" title="Bees by Belly" >}}
+Dividing their woozy mid-‘80s output from their later work’s clean-lined contours, 1988’s <i>Blue Bell Knoll</i> is a singular gem in Cocteau Twins’ sparkling catalog. The title track is among their most beautiful songs: Elizabeth Fraser’s lithe voice soars above crisp harpsichord, and the heartstring-tugging climax is all too short. The swirling churn of “Athol-brose” and “Suckling the Mender” tug toward shoegaze, and the album builds to a stunning finale with “Ella Megalast Burls Forever,” in which every element seems to shine brighter than everything else.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dancing Gold
 2. Star (Full Band)
 3. Dream On Me
@@ -42,13 +44,6 @@ styles: ["Indie Rock"]
 17. John Dark
 18. Judas Mon Coeur (French Version)
 19. Thief
-
-<!-- section break -->
-
-Dividing their woozy mid-‘80s output from their later work’s clean-lined contours, 1988’s <i>Blue Bell Knoll</i> is a singular gem in Cocteau Twins’ sparkling catalog. The title track is among their most beautiful songs: Elizabeth Fraser’s lithe voice soars above crisp harpsichord, and the heartstring-tugging climax is all too short. The swirling churn of “Athol-brose” and “Suckling the Mender” tug toward shoegaze, and the album builds to a stunning finale with “Ella Megalast Burls Forever,” in which every element seems to shine brighter than everything else.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-bell-knoll-remastered-remastered/258199307" >}}<br>

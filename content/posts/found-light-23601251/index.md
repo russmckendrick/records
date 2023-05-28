@@ -21,10 +21,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="found-light-23601251.jpg" title="Found Light by Laura Veirs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Autumn Song
 2. Ring Song
 3. Seaside Haiku
@@ -39,10 +38,6 @@ styles: ["Indie Rock"]
 12. T & O
 13. Komorebi
 14. Winter Windows
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/found-light/1608911975" >}}<br>

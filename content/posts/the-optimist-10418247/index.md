@@ -33,10 +33,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="the-optimist-10418247.jpg" title="The Optimist by Anathema" >}}
+The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 32.63N 117.14W
 2. Leaving It Behind
 3. Endless Ways
@@ -48,13 +50,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 9. Close Your Eyes
 10. Wildfires
 11. Back To The Start
-
-<!-- section break -->
-
-The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-optimist/1218795282" >}}<br>

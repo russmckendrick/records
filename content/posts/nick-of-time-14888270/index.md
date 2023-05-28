@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="nick-of-time-14888270.jpg" title="Nick Of Time by The James Hunter Six" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Can Change Your Mind
 2. Who's Fooling Who
 3. Till I Hear It From You
@@ -38,10 +37,6 @@ styles: ["Soul"]
 11. How 'Bout Now
 12. Paradise For One
 13. He's Your Could've Been
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nick-of-time/1487734088" >}}<br>

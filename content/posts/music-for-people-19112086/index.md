@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="music-for-people-19112086.jpg" title="Music For People by VAST" >}}
+Music for People is the second album by the band VAST, released in September 12, 2000 by Elektra Records.  It would be VAST's last album on Elektra Records.  After the success of VAST's debut album, Music for People could only produce one successful single, "Free", which gained major MTV exposure.  However, after the mixed success of the album, VAST and Elektra Records parted ways over disappointing sales and differing views on the future of the band.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Last One Alive
 2. Free
 3. I Don’t Have Anything
@@ -39,13 +41,6 @@ styles: ["Alternative Rock"]
 10. We Will Meet Again
 11. My TV And You
 12. Lady Of Dreams
-
-<!-- section break -->
-
-Music for People is the second album by the band VAST, released in September 12, 2000 by Elektra Records.  It would be VAST's last album on Elektra Records.  After the success of VAST's debut album, Music for People could only produce one successful single, "Free", which gained major MTV exposure.  However, after the mixed success of the album, VAST and Elektra Records parted ways over disappointing sales and differing views on the future of the band.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-people/149597" >}}<br>

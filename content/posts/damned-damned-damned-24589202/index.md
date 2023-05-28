@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="damned-damned-damned-24589202.jpg" title="Damned Damned Damned by The Damned" >}}
+<i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Neat Neat Neat
 2. Fan Club
 3. I Fall
@@ -40,13 +42,6 @@ styles: ["Punk"]
 10. 1 Of The 2
 11. So Messed Up
 12. I Feel Alright
-
-<!-- section break -->
-
-<i>The Beautiful & Damned</i> finds the Oakland rapper striving for balance in a rapidly changing world. G-Eazy examines cause and effect, angels and devils, late nights and blurry mornings with his low-key flow. Rearview glances are many, addressing addiction (“Sober”) and the ills of the world (“Love Is Gone”). Halsey assists on “Him & I,” which conjures up deep “’03 Bonnie & Clyde” vibes. Despite the dark outlook, he makes sure to celebrate the wins, jumping aboard a gold tank with Cardi B and A$AP Rocky on “No Limit,” a tribute to good times and the empire that Master P built. Most of all, G-Eazy puts his life under a microscope for all to see. You get a solid sense of his focus and growth as a pinpoint storyteller.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beautiful-damned/1308645364" >}}<br>

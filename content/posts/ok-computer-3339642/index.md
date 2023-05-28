@@ -31,10 +31,18 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="ok-computer-3339642.jpg" title="OK Computer by Radiohead" >}}
+OK Computer is the third studio album by the English rock band Radiohead, released in the UK on 16 June 1997 by EMI. With their producer, Nigel Godrich, Radiohead recorded most of OK Computer  in their rehearsal space in Oxfordshire and the historic mansion of St Catherine's Court in Bath in 1996 and early 1997. They distanced themselves from the guitar-centred, lyrically introspective style of their previous album, The Bends. OK Computer's abstract lyrics, densely layered sound and eclectic influences laid the groundwork for Radiohead's later, more experimental work.
+The album's lyrics depict a world fraught with rampant consumerism, social alienation, emotional isolation and political malaise; in this capacity, OK Computer has been said to have prescient insight into the mood of 21st-century life. The band used unconventional production techniques, including natural reverberation through recording on a staircase, and no audio separation. Strings were recorded at Abbey Road Studios in London. Most of the album was recorded live.
+Despite lowered sales estimates by EMI, who deemed the record uncommercial and difficult to market, OK Computer reached number one on the UK Albums Chart and debuted at number 21 on the Billboard 200, Radiohead's highest album entry on the US charts at the time, and was soon certified five times platinum in the UK and double platinum in the US. "Paranoid Android", "Karma Police", "Lucky" and "No Surprises" were released as singles. The album expanded Radiohead's international popularity and has sold at least 7.8 million units worldwide.
+OK Computer received acclaim and has been cited as one of the greatest albums of all time. It was nominated for the Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the United States Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant". A remastered version with additional tracks, OKNOTOK 1997 2017, was released in 2017, marking the album's twentieth anniversary. In 2019, in response to an internet leak, Radiohead released MiniDiscs [Hacked], comprising hours of additional material.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. eeny
 2. Airbag (4:44)
 3. Paranoid Android (6:23)
@@ -51,19 +59,6 @@ styles: ["Alternative Rock"]
 14. mo
 15. Lucky (4:19)
 16. The Tourist (5:24)
-
-<!-- section break -->
-
-OK Computer is the third studio album by the English rock band Radiohead, released in the UK on 16 June 1997 by EMI. With their producer, Nigel Godrich, Radiohead recorded most of OK Computer  in their rehearsal space in Oxfordshire and the historic mansion of St Catherine's Court in Bath in 1996 and early 1997. They distanced themselves from the guitar-centred, lyrically introspective style of their previous album, The Bends. OK Computer's abstract lyrics, densely layered sound and eclectic influences laid the groundwork for Radiohead's later, more experimental work.
-The album's lyrics depict a world fraught with rampant consumerism, social alienation, emotional isolation and political malaise; in this capacity, OK Computer has been said to have prescient insight into the mood of 21st-century life. The band used unconventional production techniques, including natural reverberation through recording on a staircase, and no audio separation. Strings were recorded at Abbey Road Studios in London. Most of the album was recorded live.
-Despite lowered sales estimates by EMI, who deemed the record uncommercial and difficult to market, OK Computer reached number one on the UK Albums Chart and debuted at number 21 on the Billboard 200, Radiohead's highest album entry on the US charts at the time, and was soon certified five times platinum in the UK and double platinum in the US. "Paranoid Android", "Karma Police", "Lucky" and "No Surprises" were released as singles. The album expanded Radiohead's international popularity and has sold at least 7.8 million units worldwide.
-OK Computer received acclaim and has been cited as one of the greatest albums of all time. It was nominated for the Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the United States Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant". A remastered version with additional tracks, OKNOTOK 1997 2017, was released in 2017, marking the album's twentieth anniversary. In 2019, in response to an internet leak, Radiohead released MiniDiscs [Hacked], comprising hours of additional material.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ok-computer/1097861387" >}}<br>

@@ -33,10 +33,16 @@ genres: ["Rock", "Non-Music"]
 styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
 
-{{< img src="glitter-and-doom-live-11273241.jpg" title="Glitter And Doom Live by Tom Waits" >}}
+Glitter and Doom Live is a live album by Tom Waits, by the ANTI- label on November 23, 2009. The songs were recorded during the Glitter and Doom Tour of the US and Europe in the summer of 2008.
+An announcement from the official site said:
 
-<!-- section break -->
+Disc One is designed to sound like one evening's performance, even though the 17 tracks are selected from 10 cities, from Paris to Birmingham; Tulsa to Milan; and Atlanta to Dublin. Sonically the album is superb and has been beautifully recorded and meticulously mastered. Disc Two is a bonus compendium called TOM TALES, which is a selection of the comic bromides, strange musings, and unusual facts that Tom traditionally shares with his audience during the piano set. Waits' topics range from the ritual of insects to the last dying breath of Henry Ford.
+Prior to release, ANTI- made the first eight tracks available for free download.
+    
+    
 
+
+## Tracklisting
 1. Lucinda / Ain' Goin' Down To The Wel No Mo' (5:37)
 2. Singapore (5:00)
 3. Get Behind The Mule (6:26)
@@ -54,17 +60,6 @@ styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 15. Make It Rain (3:58)
 16. Story (2:02)
 17. Lucky Day (3:47)
-
-<!-- section break -->
-
-Glitter and Doom Live is a live album by Tom Waits, by the ANTI- label on November 23, 2009. The songs were recorded during the Glitter and Doom Tour of the US and Europe in the summer of 2008.
-An announcement from the official site said:
-
-Disc One is designed to sound like one evening's performance, even though the 17 tracks are selected from 10 cities, from Paris to Birmingham; Tulsa to Milan; and Atlanta to Dublin. Sonically the album is superb and has been beautifully recorded and meticulously mastered. Disc Two is a bonus compendium called TOM TALES, which is a selection of the comic bromides, strange musings, and unusual facts that Tom traditionally shares with his audience during the piano set. Waits' topics range from the ritual of insects to the last dying breath of Henry Ford.
-Prior to release, ANTI- made the first eight tracks available for free download.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268" >}}<br>

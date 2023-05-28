@@ -25,10 +25,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="equinoxe-infinity-12805890.jpg" title="Equinoxe Infinity by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Watchers (Movement 1)  (2:58)
 2. Flying Totems (Movement 2)  (3:54)
 3. Robots Don't Cry (Movement 3)  (5:44)
@@ -39,10 +38,6 @@ styles: ["Synth-pop"]
 8. The Opening (Movement 8) (4:16)
 9. Don’t Look Back (Movement 9)  (3:36)
 10. Equinoxe Infinity (Movement 10)  (7:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/equinoxe-infinity/1435149472" >}}<br>

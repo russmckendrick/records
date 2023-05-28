@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="the-best-of-prefab-sprout-a-life-of-surprises-14187657.jpg" title="The Best Of Prefab Sprout: A Life Of Surprises by Prefab Sprout" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The King Of Rock 'N' Roll (4:25)
 2. When Love Breaks Down (4:09)
 3. The Sound Of Crying (4:44)
@@ -42,10 +41,6 @@ styles: ["Pop Rock", "Synth-pop"]
 14. Wild Horses (3:41)
 15. Hey Manhattan! (4:46)
 16. All The World Loves Lovers (3:51)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752" >}}<br>

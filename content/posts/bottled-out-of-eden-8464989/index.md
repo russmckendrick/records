@@ -29,10 +29,9 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
 
-{{< img src="bottled-out-of-eden-8464989.jpg" title="Bottled Out Of Eden by Knifeworld" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. High / Aflame
 2. The Germ Inside
 3. I Am Lost
@@ -55,10 +54,6 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 20. A Dream About A Dream (5:43)
 21. Secret Words (3:12)
 22. Feel The Sorcery (3:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bottled-out-of-eden/1087654773" >}}<br>

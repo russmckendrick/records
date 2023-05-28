@@ -27,10 +27,16 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Symphonic Metal"]
 ---
 
-{{< img src="metropolis-pt-2-scenes-from-a-memory-6151119.jpg" title="Metropolis Pt. 2: Scenes From A Memory by Dream Theater" >}}
+Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first concept album by American progressive metal band Dream Theater, released on October 26, 1999, through Elektra Records. It was recorded at BearTracks Studios in Suffern, New York, where the band had previously recorded their second studio album, Images and Words (1992), and the EP A Change of Seasons (1995).
+The album is the sequel to "Metropolis—Part I: 'The Miracle and the Sleeper'", a song featured on the band's 1992 album Images and Words. It was the first album to feature Jordan Rudess on keyboards.
+For the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. ACT I
 2. Scene One (2:06)
 3. Scene Two (8:49)
@@ -42,17 +48,6 @@ styles: ["Progressive Metal", "Symphonic Metal"]
 9. Scene Seven (10:00)
 10. Scene Eight (6:38)
 11. Scene Nine (12:00)
-
-<!-- section break -->
-
-Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first concept album by American progressive metal band Dream Theater, released on October 26, 1999, through Elektra Records. It was recorded at BearTracks Studios in Suffern, New York, where the band had previously recorded their second studio album, Images and Words (1992), and the EP A Change of Seasons (1995).
-The album is the sequel to "Metropolis—Part I: 'The Miracle and the Sleeper'", a song featured on the band's 1992 album Images and Words. It was the first album to feature Jordan Rudess on keyboards.
-For the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Electronic"]
 styles: ["Krautrock"]
 ---
 
-{{< img src="neu-86-2376449.jpg" title="Neu! '86 by Neu!" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (Haydn Slo-Mo) (0:33)
 2. Dänzing (5:05)
 3. Crazy (3:16)
@@ -37,10 +36,6 @@ styles: ["Krautrock"]
 11. Good Life (3:42)
 12. November (1:43)
 13. KD (1:54)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/autoamerican-bonus-tracks-edition-2001-remaster/724402839" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Non-Music"]
 styles: ["Krautrock"]
 ---
 
-{{< img src="inform-educate-entertain-4557013.jpg" title="Inform - Educate - Entertain by Public Service Broadcasting" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Inform-Educate-Entertain
 2. Spitfire
 3. Theme From PSB
@@ -38,10 +37,6 @@ styles: ["Krautrock"]
 9. Lit Up
 10. Everest
 11. Late Night Final
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/inform-educate-entertain/609540071" >}}<br>

@@ -20,10 +20,13 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-fidelity-wars-14430353.jpg" title="The Fidelity Wars by Hefner" >}}
+The Fidelity Wars is the second full-length album by British indie rock band Hefner. Recorded in London over a period of twelve days at Roundhouse Studios, it was released in 1999 on Too Pure. It was the first Hefner album to feature Jack Hayter.
+It was reissued by lead singer Darren Hayman in 2008.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Hymn For The Cigarettes
 2. May God Protect Your Home
 3. The Hymn For The Alcohol
@@ -35,14 +38,6 @@ styles: ["Indie Rock"]
 9. Fat Kelly's Teeth
 10. Don't Flake Out On Me
 11. I Love Only You
-
-<!-- section break -->
-
-The Fidelity Wars is the second full-length album by British indie rock band Hefner. Recorded in London over a period of twelve days at Roundhouse Studios, it was released in 1999 on Too Pure. It was the first Hefner album to feature Jack Hayter.
-It was reissued by lead singer Darren Hayman in 2008.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fidelity-wars/1057821453" >}}<br>

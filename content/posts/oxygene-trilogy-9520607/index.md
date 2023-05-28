@@ -27,10 +27,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="oxygene-trilogy-9520607.jpg" title="Oxygene Trilogy by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Oxygene Trilogy
 2. Oxygene (Part 1) (7:39)
 3. Oxygene (Part 2) (7:47)
@@ -73,10 +72,6 @@ styles: ["Synth-pop"]
 40. Oxygene (Part 18)
 41. Oxygene (Part 19)
 42. Oxygene (Part 20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oxygene-trilogy/1163145484" >}}<br>

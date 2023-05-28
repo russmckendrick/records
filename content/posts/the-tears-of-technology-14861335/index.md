@@ -23,10 +23,9 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-tears-of-technology-14861335.jpg" title="The Tears Of Technology by Bob Stanley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jean Walks In Fresh Fields (1:48)
 2. Grey Skies (4:17)
 3. Real To Real (2:49)
@@ -48,10 +47,6 @@ styles: ["New Wave", "Synth-pop"]
 19. Tiny Children (3:49)
 20. Behind The Shades (5:55)
 21. Feather Bed (3:02)
-
-<!-- section break -->
-
-
 
 
 

@@ -16,20 +16,15 @@ genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock"]
 ---
 
-{{< img src="the-art-of-losing-acoustic-ep-25733641.jpg" title="The Art of Losing - Acoustic EP by The Anchoress" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Show Your Face ( Piano Version ) (3:12)
 2. Let It Hurt ( String Quartet Version ) (3:37)
 3. All Farewells Should Be Sudden ( Acoustic Version ) (4:56)
 4. The Art Of Losing ( Acoustic Lounge Version ) (3:23)
 5. The Exchange ( Solo Piano Version ) (3:32)
 6. Let It Hurt ( French Version ) ( Bonus Track ) (3:35)
-
-<!-- section break -->
-
-
 
 
 

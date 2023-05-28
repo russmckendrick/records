@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="woodface-9322374.jpg" title="Woodface by Crowded House" >}}
+Woodface is the third studio album by New Zealand-Australian band Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol in July 1991. It features five singles "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chocolate Cake (4:02)
 2. It's Only Natural (3:32)
 3. Fall At Your Feet (3:18)
@@ -39,14 +42,6 @@ styles: ["Pop Rock"]
 12. Italian Plastic (3:39)
 13. She Goes On (3:15)
 14. How Will You Go (4:45)
-
-<!-- section break -->
-
-Woodface is the third studio album by New Zealand-Australian band Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol in July 1991. It features five singles "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/woodface/724471916" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ---
 
-{{< img src="acoustically-inclined-live-in-leeds-17911327.jpg" title="Acoustically Inclined, Live In Leeds by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro
 2. Let It Roll
 3. Funeral
@@ -46,10 +45,6 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 20. Coast
 21. Solar Winds
 22. Thing Beyond Things
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}<br>

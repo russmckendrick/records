@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-{{< img src="philharmonics-2469079.jpg" title="Philharmonics by Agnes Obel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Falling, Catching (1:35)
 2. Riverside (3:50)
 3. Brother Sparrow (4:00)
@@ -35,10 +34,6 @@ styles: ["Folk"]
 10. Wallflower (2:28)
 11. Over The Hill (2:50)
 12. On Powdered Ground (4:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/philharmonics-deluxe-edition/431226423" >}}<br>

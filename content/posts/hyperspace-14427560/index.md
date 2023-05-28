@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="hyperspace-14427560.jpg" title="Hyperspace by Beck" >}}
+Hyperspace is the fourteenth studio album by American musician Beck. It was released through Fonograf Records & a licensing deal with Capitol Records on November 22, 2019.  It followed Beck's divorce from his wife Marissa Ribisi in February 2019. The album is a collaborative project with high-profile producer Pharrell Williams, who is credited for production and features on several songs. Recording for the album started in late 2018.Music journalists describe the album as synth-pop and vaporwave aesthetic-inspired, though Beck draws from several genres. The album art reflects this style, featuring Beck in front of a A60 Toyota Celica, with the album's title in blocky Japanese script. Thematically, Hyperspace explores heartbreak, sincerity, solitude and Beck's relation to them. Guest vocalists for the album include Chris Martin, Sky Ferreira, Pharrell Williams, Terrell Hines, Alex Lilly and Roger Joseph Manning Jr.Four singles were released prior to the release of the Hyperspace. Following its release Beck did a series of interviews, mainly focussed on the album itself, Pharrell's contribution to the record, and Beck's creative process. In August 2020 Beck released an accompanying visual album titled Hyperspace: A.I. Exploration in collaboration with  NASA JPL, featuring artificial intelligence generated space imagery and two new songs.Hyperspace received generally positive reviews from critics, though some commented that the album is occasionally superficial and lacked the complexity of Beck's previous projects. Hyperspace received two nominations at the 2020 Grammy Awards for Best Alternative Music Album and Best Engineered Album, Non-Classical. Beck won the latter.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hyperlife (1:37)
 2. Uneventful Days (3:17)
 3. Saw Lightning (4:02)
@@ -36,14 +39,6 @@ styles: []
 9. Dark Places (3:46)
 10. Star (2:51)
 11. Everlasting Nothing (5:00)
-
-<!-- section break -->
-
-Hyperspace is the fourteenth studio album by American musician Beck. It was released through Fonograf Records & a licensing deal with Capitol Records on November 22, 2019.  It followed Beck's divorce from his wife Marissa Ribisi in February 2019. The album is a collaborative project with high-profile producer Pharrell Williams, who is credited for production and features on several songs. Recording for the album started in late 2018.Music journalists describe the album as synth-pop and vaporwave aesthetic-inspired, though Beck draws from several genres. The album art reflects this style, featuring Beck in front of a A60 Toyota Celica, with the album's title in blocky Japanese script. Thematically, Hyperspace explores heartbreak, sincerity, solitude and Beck's relation to them. Guest vocalists for the album include Chris Martin, Sky Ferreira, Pharrell Williams, Terrell Hines, Alex Lilly and Roger Joseph Manning Jr.Four singles were released prior to the release of the Hyperspace. Following its release Beck did a series of interviews, mainly focussed on the album itself, Pharrell's contribution to the record, and Beck's creative process. In August 2020 Beck released an accompanying visual album titled Hyperspace: A.I. Exploration in collaboration with  NASA JPL, featuring artificial intelligence generated space imagery and two new songs.Hyperspace received generally positive reviews from critics, though some commented that the album is occasionally superficial and lacked the complexity of Beck's previous projects. Hyperspace received two nominations at the 2020 Grammy Awards for Best Alternative Music Album and Best Engineered Album, Non-Classical. Beck won the latter.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hyperspace/1482861953" >}}<br>

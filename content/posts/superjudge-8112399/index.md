@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="superjudge-8112399.jpg" title="Superjudge by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cyclops Revolution
 2. Twin Earth
 3. Superjudge
@@ -50,10 +49,6 @@ styles: ["Space Rock", "Psychedelic Rock"]
 16. Twin Earth (Live)
 17. Nod Scene (Live)
 18. Evil (Live)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/superjudge-deluxe/1443231247" >}}<br>

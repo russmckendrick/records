@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="very-best-of-2852539.jpg" title="Very Best Of by Morrissey" >}}
+Very Best of Morrissey is a compilation album by Morrissey, containing material he released during the 1980s and 1990s on EMI. It was released on 25 April 2011.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Last Of The Famous International Playboys
 2. You're Gonna Need Someone On Your Side
 3. The More You Ignore Me, The Closer I Get
@@ -49,13 +51,6 @@ styles: ["Alternative Rock"]
 16. Everyday Is Like Sunday
 17. Interlude
 18. Moonriver
-
-<!-- section break -->
-
-Very Best of Morrissey is a compilation album by Morrissey, containing material he released during the 1980s and 1990s on EMI. It was released on 25 April 2011.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-morrissey-remastered/693149479" >}}<br>

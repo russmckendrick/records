@@ -19,18 +19,6 @@ genres: ["Rock"]
 styles: ["Black Metal"]
 ---
 
-{{< img src="phantomime-27103839.jpg" title="Phantomime  by Ghost" >}}
-
-<!-- section break -->
-
-1. See No Evil
-2. Jesus He Knows Me
-3. Hanging Around
-4. Phantom Of The Opera
-5. We Don't Need Another Hero
-
-<!-- section break -->
-
 When Ghost mastermind Tobias Forge originally conceived this covers collection, it was meant to be a full-length rather than an EP. In fact, he recorded five more songs in addition to the Genesis, Iron Maiden, Television, Stranglers and Tina Turner covers that appear here. “I had just come off making the <i>IMPERA</i> album, and I just didn’t have the energy to go through another full-length album process,” he tells Apple Music. “That deflated me a little, but as soon as I split the list in half, I saw there was a rock connection in these five songs. It just felt like a more cohesive and attractive solution. As with so many things in life, you just have to rethink your idea and all of a sudden it feels so much more doable.”
 
 What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’s aforementioned 2022 album. “It’s the same way that Iron Maiden’s <i>Live After Death</i> is obviously very connected to <i>Powerslave</i>,” Forge explains. “When <i>Phantomime</i> comes out, we’ll still be on the <i>IMPERA</i> tour. And even the artwork between the two releases is connected. But we used different artists because it was interesting to see someone else’s take on almost the same thing.” Below, he discusses each track. 
@@ -52,6 +40,13 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
     
     
 
+
+## Tracklisting
+1. See No Evil
+2. Jesus He Knows Me
+3. Hanging Around
+4. Phantom Of The Opera
+5. We Don't Need Another Hero
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantomime-ep/1678578058" >}}<br>

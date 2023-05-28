@@ -25,10 +25,9 @@ genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ---
 
-{{< img src="the-jazz-singer-original-songs-from-the-motion-picture-1605561.jpg" title="The Jazz Singer (Original Songs From The Motion Picture) by Neil Diamond" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. America
 2. Adon Olom
 3. You Baby
@@ -43,10 +42,6 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 12. Jerusalem
 13. Kol Nidre
 14. America (Reprise)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}<br>

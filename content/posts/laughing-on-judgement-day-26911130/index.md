@@ -17,10 +17,14 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="laughing-on-judgement-day-26911130.jpg" title="Laughing On Judgement Day by Thunder" >}}
+Laughing on Judgement Day is the second studio album by English hard rock band Thunder. Recorded between February and June 1992 at Outside Studios in Checkendon, it was produced the band's lead guitarist Luke Morley and Andy Taylor (who had produced the band's debut Backstreet Symphony), then mixed by David Bascombe at AIR Studios in London. The album was released on 24 August 1992 by EMI Records in Europe and Japan, and by Geffen Records in the United States.
+The material on Laughing on Judgement Day was written primarily by Morley, although three tracks were co-written by drummer Gary "Harry" James (two of which were also credited to vocalist Danny Bowes and guitarist Ben Matthews), while Taylor also co-wrote two songs. The album received positive reviews from a number of critics and peaked at number 2 on the UK Albums Chart, receiving a gold certification from the British Phonographic Industry for sales in excess of 100,000 units.
+Laughing on Judgement Day was promoted on the Laughing All Over the World Tour beginning in October 1992, which included shows supporting Extreme and headline dates in the UK, Japan, Canada and Europe. Four singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Low Life in High Places" peaked at number 22, "Everybody Wants Her" peaked at number 36, "A Better Man" peaked at number 18 and "Like a Satellite" peaked at number 28.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Does It Feel Like Love ?
 2. Everybody Wants Her
 3. Low Life In High Places
@@ -38,15 +42,6 @@ styles: ["Hard Rock"]
 15. A Better Man (Live At Shepherd's Bush Empire London, 2005)
 16. The Moment Of Truth (Live At Nottingham Rock City, 2012)
 17. Like A Satellite (Live At Shepherd's Bush Empire London, 2007)
-
-<!-- section break -->
-
-Laughing on Judgement Day is the second studio album by English hard rock band Thunder. Recorded between February and June 1992 at Outside Studios in Checkendon, it was produced the band's lead guitarist Luke Morley and Andy Taylor (who had produced the band's debut Backstreet Symphony), then mixed by David Bascombe at AIR Studios in London. The album was released on 24 August 1992 by EMI Records in Europe and Japan, and by Geffen Records in the United States.
-The material on Laughing on Judgement Day was written primarily by Morley, although three tracks were co-written by drummer Gary "Harry" James (two of which were also credited to vocalist Danny Bowes and guitarist Ben Matthews), while Taylor also co-wrote two songs. The album received positive reviews from a number of critics and peaked at number 2 on the UK Albums Chart, receiving a gold certification from the British Phonographic Industry for sales in excess of 100,000 units.
-Laughing on Judgement Day was promoted on the Laughing All Over the World Tour beginning in October 1992, which included shows supporting Extreme and headline dates in the UK, Japan, Canada and Europe. Four singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Low Life in High Places" peaked at number 22, "Everybody Wants Her" peaked at number 36, "A Better Man" peaked at number 18 and "Like a Satellite" peaked at number 28.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughing-on-judgement-day/690849956" >}}<br>

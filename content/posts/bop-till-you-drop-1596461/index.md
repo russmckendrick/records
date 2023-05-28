@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Rock & Roll"]
 ---
 
-{{< img src="bop-till-you-drop-1596461.jpg" title="Bop Till You Drop by Ry Cooder" >}}
+Bop Till You Drop is Ry Cooder's eighth album, released in 1979.  The album was the first digitally recorded major-label album in popular music. Bop Till You Drop was recorded on a digital 32-track machine built by 3M.The album consists almost entirely of covers of earlier rhythm and blues and rock and roll classics, including Elvis Presley's "Little Sister" and the 1965 Fontella Bass-Bobby McClure hit "Don't Mess Up a Good Thing", on which Cooder duetted with soul star Chaka Khan. Khan also performed on the only original track on the album, "Down in Hollywood".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Little Sister (3:49)
 2. Go Home, Girl (5:10)
 3. The Very Thing That Makes Your Rich (5:32)
@@ -32,15 +36,6 @@ styles: ["Blues Rock", "Rock & Roll"]
 7. Trouble You Can't Fool Me (4:55)
 8. Don't You Mess Up A Good Thing (4:08)
 9. I Can't Win (4:16)
-
-<!-- section break -->
-
-Bop Till You Drop is Ry Cooder's eighth album, released in 1979.  The album was the first digitally recorded major-label album in popular music. Bop Till You Drop was recorded on a digital 32-track machine built by 3M.The album consists almost entirely of covers of earlier rhythm and blues and rock and roll classics, including Elvis Presley's "Little Sister" and the 1965 Fontella Bass-Bobby McClure hit "Don't Mess Up a Good Thing", on which Cooder duetted with soul star Chaka Khan. Khan also performed on the only original track on the album, "Down in Hollywood".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bop-till-you-drop/336767770" >}}<br>

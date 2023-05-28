@@ -22,10 +22,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="sundew-661808.jpg" title="Sundew by Paris Angels" >}}
+Sundew is the debut album by Mancunian band Paris Angels, released by Virgin Records in 1991. Following the group's arrival onto the British music scene during the popularity of Madchester, the album features the group's unique take on Madchester and baggy, combining Northern indie music with electronic instrumentation, techno and dance-pop. The album's cross-influenced sound is a result of each of the seven members of the band bringing their own influences. Much of the record, which was produced by Paul Johnson, was recorded near Wrexham, North Wales.
+Despite lacking a hit single, the album reached number 37 on the UK Albums Chart, although general public indifference was a result of the Madchester scene losing popularity, and the band were dropped from Virgin after the label was sold to EMI in 1992, causing the band to split up and abandon their second album. Nonetheless, Sundew received acclaim from music critics, and today is regarded as a classic of its genre.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Eternity (3:21)
 2. Fade (3:58)
 3. Smile (3:32)
@@ -36,14 +39,6 @@ styles: ["Synth-pop", "Indie Rock"]
 8. Breathless (5:34)
 9. Chaos (Stupid Stupid) (4:02)
 10. Purest Values (4:08)
-
-<!-- section break -->
-
-Sundew is the debut album by Mancunian band Paris Angels, released by Virgin Records in 1991. Following the group's arrival onto the British music scene during the popularity of Madchester, the album features the group's unique take on Madchester and baggy, combining Northern indie music with electronic instrumentation, techno and dance-pop. The album's cross-influenced sound is a result of each of the seven members of the band bringing their own influences. Much of the record, which was produced by Paul Johnson, was recorded near Wrexham, North Wales.
-Despite lacking a hit single, the album reached number 37 on the UK Albums Chart, although general public indifference was a result of the Madchester scene losing popularity, and the band were dropped from Virgin after the label was sold to EMI in 1992, causing the band to split up and abandon their second album. Nonetheless, Sundew received acclaim from music critics, and today is regarded as a classic of its genre.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sundew/714532688" >}}<br>

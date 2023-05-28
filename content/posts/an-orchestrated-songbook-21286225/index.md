@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ---
 
-{{< img src="an-orchestrated-songbook-21286225.jpg" title="An Orchestrated Songbook by Paul Weller" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Andromeda
 2. English Rose
 3. My Ever Changing Moods
@@ -53,10 +52,6 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 16. Rockets
 17. You Do Something To Me
 18. White Horses
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255" >}}<br>

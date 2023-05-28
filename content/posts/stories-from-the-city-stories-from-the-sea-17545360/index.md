@@ -26,10 +26,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="stories-from-the-city-stories-from-the-sea-17545360.jpg" title="Stories From The City, Stories From The Sea by PJ Harvey" >}}
+Stories from the City, Stories from the Sea is the fifth studio album by English alternative rock musician PJ Harvey, released on 24 October 2000 by Island Records. Recorded during March to April 2000, it contains themes of love that are tied into Harvey's affection for New York City.The album became the second major commercial success of her recording career, following her successful breakthrough To Bring You My Love (1995). Upon its release, the album received acclaim from most music critics and earned Harvey several accolades, including the 2001 Mercury Prize. It spent 17 weeks on the UK Albums Chart, and was certified Platinum in the UK and Australia. It is generally regarded as one of her best works.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Big Exit
 2. Good Fortune
 3. A Place Called Home
@@ -42,16 +47,6 @@ styles: ["Alternative Rock"]
 10. This Is Love
 11. Horses In My Dreams
 12. We Float
-
-<!-- section break -->
-
-Stories from the City, Stories from the Sea is the fifth studio album by English alternative rock musician PJ Harvey, released on 24 October 2000 by Island Records. Recorded during March to April 2000, it contains themes of love that are tied into Harvey's affection for New York City.The album became the second major commercial success of her recording career, following her successful breakthrough To Bring You My Love (1995). Upon its release, the album received acclaim from most music critics and earned Harvey several accolades, including the 2001 Mercury Prize. It spent 17 weeks on the UK Albums Chart, and was certified Platinum in the UK and Australia. It is generally regarded as one of her best works.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stories-from-the-city-stories-from-the-sea/1442556188" >}}<br>

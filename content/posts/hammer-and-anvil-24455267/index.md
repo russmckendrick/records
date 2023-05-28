@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ---
 
-{{< img src="hammer-and-anvil-24455267.jpg" title="Hammer And Anvil by Pure Reason Revolution" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fight Fire
 2. Black Mourning
 3. Patriarch
@@ -38,10 +37,6 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 8. Blitzkrieg
 9. Open Insurrection
 10. Armistice
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hammer-and-anvil/1056376043" >}}<br>

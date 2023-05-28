@@ -57,10 +57,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="pure-mccartney-8629111.jpg" title="Pure McCartney by Paul McCartney" >}}
+This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Maybe I'm Amazed (3:51)
 2. Heart Of The Country (2:24)
 3. Jet (4:09)
@@ -102,13 +104,6 @@ styles: ["Pop Rock"]
 39. With A Little Luck (DJ Edit) (3:13)
 40. Hope For The Future (4:09)
 41. Junk (1:57)
-
-<!-- section break -->
-
-This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-mccartney-deluxe-edition/1440951787" >}}<br>

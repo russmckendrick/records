@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="earth-vs-the-wildhearts-14123607.jpg" title="Earth Vs The Wildhearts by The Wildhearts" >}}
+Earth vs the Wildhearts is the debut studio album by British rock band The Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.
+The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Greetings From Shitsville
 2. TV Tan
 3. Everlone
@@ -33,14 +36,6 @@ styles: ["Hard Rock"]
 8. Suckerpunch
 9. News Of The World
 10. Love U Til I Don't
-
-<!-- section break -->
-
-Earth vs the Wildhearts is the debut studio album by British rock band The Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.
-The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620" >}}<br>

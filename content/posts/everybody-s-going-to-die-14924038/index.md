@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="everybody-s-going-to-die-14924038.jpg" title="Everybody's Going To Die  by Church Of The Cosmic Skull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fantasy (1:58)
 2. Don't You Believe In Magic? (4:06)
 3. Everybody's Going To Die (4:07)
@@ -39,10 +38,6 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 8. The Great Black Hole (2:59)
 9. Sorcery & Sabotage (3:03)
 10. Living In A Bubble (3:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everybodys-going-to-die/1487673648" >}}<br>

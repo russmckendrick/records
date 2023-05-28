@@ -31,10 +31,9 @@ genres: ["Latin", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soul", "Soundtrack"]
 ---
 
-{{< img src="summer-of-soul-or-when-the-revolution-could-not-be-televised-original-motion-picture-soundtrack-23613770.jpg" title="Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Uptown (6:07)
 2. Why I Sing The Blues (2:20)
 3. Don't Cha Hear Me Callin' To Ya (3:32)
@@ -52,10 +51,6 @@ styles: ["Soul", "Soundtrack"]
 15. Africa (3:15)
 16. Backlash Blues (3:08)
 17. Are You Ready? (7:01)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

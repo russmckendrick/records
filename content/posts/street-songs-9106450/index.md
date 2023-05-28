@@ -23,10 +23,13 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Disco"]
 ---
 
-{{< img src="street-songs-9106450.jpg" title="Street Songs by Rick James" >}}
+Street Songs is the fifth studio album by American musician Rick James, released in April 1981 on Gordy Records. "Give It to Me Baby", the lead single from the album, became James' second number one single on the R&B chart, spending five weeks at the top spot.  The fifth song on the album, "Super Freak", was also one of James' biggest hits. A Deluxe Edition was released in 2001 containing an additional 17 mixes and live versions of the album tracks. Although the song "Fire and Desire" (a duet he performed with singer Teena Marie) was not originally released as a single, the song itself received much airplay on R&B radio stations and has since become a classic hit (James and Marie would reunite to perform the song at the 2004 BET Awards 5 weeks before James' death).
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Give It To Me Baby (4:07)
 2. Ghetto Life (4:20)
 3. Make Love To Me (4:48)
@@ -35,14 +38,6 @@ styles: ["Funk", "Disco"]
 6. Fire And Desire (7:19)
 7. Call Me Up (3:54)
 8. Below The Funk (Pass The J) (2:36)
-
-<!-- section break -->
-
-Street Songs is the fifth studio album by American musician Rick James, released in April 1981 on Gordy Records. "Give It to Me Baby", the lead single from the album, became James' second number one single on the R&B chart, spending five weeks at the top spot.  The fifth song on the album, "Super Freak", was also one of James' biggest hits. A Deluxe Edition was released in 2001 containing an additional 17 mixes and live versions of the album tracks. Although the song "Fire and Desire" (a duet he performed with singer Teena Marie) was not originally released as a single, the song itself received much airplay on R&B radio stations and has since become a classic hit (James and Marie would reunite to perform the song at the 2004 BET Awards 5 weeks before James' death).
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/street-songs/1440805214" >}}<br>

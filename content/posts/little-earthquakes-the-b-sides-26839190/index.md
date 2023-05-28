@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="little-earthquakes-the-b-sides-26839190.jpg" title="Little Earthquakes - The B-Sides by Tori Amos" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Upside Down (4:22)
 2. Thoughts (2:36)
 3. Song For Eric (1:50)
@@ -35,10 +34,6 @@ styles: ["Alternative Rock"]
 9. Mary (4:27)
 10. Sugar (5:00)
 11. Ode To The Banana King (Part One) (4:06)
-
-<!-- section break -->
-
-
 
 
 

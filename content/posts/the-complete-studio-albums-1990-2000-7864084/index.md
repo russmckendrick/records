@@ -52,10 +52,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 ---
 
-{{< img src="the-complete-studio-albums-1990-2000-7864084.jpg" title="The Complete Studio Albums 1990-2000 by Pantera" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cowboys From Hell
 2. Cowboys From Hell (4:07)
 3. Primal Concrete Sledge (2:13)
@@ -119,10 +118,6 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 61. Bonus 7" Single
 62. Piss (4:21)
 63. Avoid The Light (6:27)
-
-<!-- section break -->
-
-
 
 
 

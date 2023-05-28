@@ -21,10 +21,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="high-on-tulsa-heat-6906611.jpg" title="High On Tulsa Heat by John Moreland" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hang Me In The Tulsa County Stars
 2. Heart's Too Heavy
 3. Cleveland County Blues
@@ -35,10 +34,6 @@ styles: []
 8. American Flags In Black & White
 9. You Don't Care For Me Enough To Cry
 10. High On Tulsa Heat
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/high-on-tulsa-heat/968599286" >}}<br>

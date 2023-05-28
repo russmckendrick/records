@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
 
-{{< img src="kill-bill-vol-1-original-soundtrack-7798494.jpg" title="Kill Bill Vol. 1 - Original Soundtrack by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bang Bang (My Baby Shot Me Down)
 2. That Certain Female
 3. The Grand Duel (Parte Prima)
@@ -40,10 +39,6 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 13. The Flower Of Carnage
 14. The Lonely Shepherd
 15. You're My Wicked Life
-
-<!-- section break -->
-
-
 
 
 

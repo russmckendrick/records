@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-division-bell-20th-anniversary-de-luxe-box-6229448.jpg" title="The Division Bell 20th. Anniversary De Luxe Box by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cluster One
 2. What Do You Want From Me
 3. Poles Apart
@@ -44,10 +43,6 @@ styles: []
 18. One Of These Days (Live)
 19. CD  Tsui (The Division Bell)
 20. Blu-ray Disc (All PCM Stereo and Unreleased 5.1 Mix Audio And Video) 
-
-<!-- section break -->
-
-
 
 
 

@@ -47,10 +47,12 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358.jpg" title="Star Wars: The Force Awakens (Original Motion Picture Soundtrack) by John Williams" >}}
+The Force is as strong as ever in John Williams’ writing for orchestra. His mix of classical influences hasn’t changed—why mess with film-scoring perfection?—but he’s found new ways to make the melange sing. The marching aggression of brass instruments during “Attack on the Jakku Village” has an appropriately Mahlerian grandeur, while a Debussy-like flute cavorts intriguingly through “The Scavenger.” And when it comes to choreographing battles in space, as with “Scherzo for X-Wings,” Williams’ talent remains unmatched.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title And The Attack On The Jakku Village (6:25)
 2. The Scavenger (3:39)
 3. I Can Fly Anything (3:10)
@@ -74,13 +76,6 @@ styles: ["Soundtrack", "Score"]
 21. Scherzo For X-Wings (2:32)
 22. Farewell And The Trip (4:55)
 23. The Jedi Steps And Finale (8:51)
-
-<!-- section break -->
-
-The Force is as strong as ever in John Williams’ writing for orchestra. His mix of classical influences hasn’t changed—why mess with film-scoring perfection?—but he’s found new ways to make the melange sing. The marching aggression of brass instruments during “Attack on the Jakku Village” has an appropriately Mahlerian grandeur, while a Debussy-like flute cavorts intriguingly through “The Scavenger.” And when it comes to choreographing battles in space, as with “Scherzo for X-Wings,” Williams’ talent remains unmatched.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-wars-the-force-awakens-original-motion-picture/1440634745" >}}<br>

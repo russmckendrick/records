@@ -16,10 +16,9 @@ genres: ["Jazz", "Blues"]
 styles: []
 ---
 
-{{< img src="deep-south-blues-4025684.jpg" title="Deep South Blues by The Mississippi Moons" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lullaby Of The Leaves
 2. Bourbon Street Parade
 3. My Honey's Lovin' Arms
@@ -30,10 +29,6 @@ styles: []
 8. Stumblin'
 9. Down Home Rag
 10. Farewell Blues
-
-<!-- section break -->
-
-
 
 
 

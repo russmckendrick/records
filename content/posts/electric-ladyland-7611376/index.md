@@ -31,10 +31,14 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Psychedelic Rock"]
 ---
 
-{{< img src="electric-ladyland-7611376.jpg" title="Electric Ladyland by The Jimi Hendrix Experience" >}}
+Electric Ladyland is the third and final studio album by the Jimi Hendrix Experience and the final studio album released before Hendrix's death in 1970.  A double album, it was the only record from the Experience produced by Hendrix. The band's most commercially successful release and its only number one album, it was released by Reprise Records in the United States on October 16, 1968, and by Track Records in the UK nine days later. By mid-November, it had reached number one on the U.S. charts, spending two weeks there. In the UK it peaked at number six, where it spent 12 weeks on the chart.
+Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", which became the Experience's best-selling single, reaching number six in the UK and 20 in the United States. Although the album confounded critics in 1968, it has since been viewed as Hendrix's best work and one of the greatest rock records of all time. Electric Ladyland has been featured on many greatest-album lists, including Q's 2003 list of the 100 greatest albums and Rolling Stone's 2020 list of the 500 greatest albums of all time, on which it was ranked 53rd.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. ...And The Gods Made Love
 2. Have You Ever Been (To Electric Ladyland)
 3. Cross Town Traffic
@@ -51,15 +55,6 @@ styles: ["Electric Blues", "Psychedelic Rock"]
 14. House Burning Down
 15. All Along The Watchtower
 16. Voodoo Child (Slight Return)
-
-<!-- section break -->
-
-Electric Ladyland is the third and final studio album by the Jimi Hendrix Experience and the final studio album released before Hendrix's death in 1970.  A double album, it was the only record from the Experience produced by Hendrix. The band's most commercially successful release and its only number one album, it was released by Reprise Records in the United States on October 16, 1968, and by Track Records in the UK nine days later. By mid-November, it had reached number one on the U.S. charts, spending two weeks there. In the UK it peaked at number six, where it spent 12 weeks on the chart.
-Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", which became the Experience's best-selling single, reaching number six in the UK and 20 in the United States. Although the album confounded critics in 1968, it has since been viewed as Hendrix's best work and one of the greatest rock records of all time. Electric Ladyland has been featured on many greatest-album lists, including Q's 2003 list of the 100 greatest albums and Rolling Stone's 2020 list of the 500 greatest albums of all time, on which it was ranked 53rd.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-ladyland/357652252" >}}<br>

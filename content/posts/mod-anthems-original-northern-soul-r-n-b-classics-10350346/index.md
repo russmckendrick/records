@@ -23,10 +23,9 @@ genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Mod", "Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="mod-anthems-original-northern-soul-r-n-b-classics-10350346.jpg" title="Mod Anthems: Original Northern Soul & R'N'B Classics by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Green Onions
 2. In The Midnight Hour
 3. Last Night
@@ -54,10 +53,6 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 25. Some Kind Of Wonderful
 26. Somebody (Somewhere) Needs Me
 27. Kiss My Love Goodbye
-
-<!-- section break -->
-
-
 
 
 

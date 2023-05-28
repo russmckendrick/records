@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="big-bad-luv-10237520.jpg" title="Big Bad Luv by John Moreland" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sallisaw Blue
 2. Old Wounds
 3. Every Kind Of Wrong
@@ -39,10 +38,6 @@ styles: ["Folk Rock"]
 9. Slow Down Easy
 10. It Don't Suit Me (Like Before)
 11. Latchkey Kid
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-bad-luv/1202947181" >}}<br>

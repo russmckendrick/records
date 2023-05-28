@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Punk", "Hardcore"]
 ---
 
-{{< img src="smash-10243726.jpg" title="Smash by The Offspring" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Time To Relax
 2. Nitro [Youth Energy]
 3. Bad Habit
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Punk", "Hardcore"]
 12. So Alone
 13. Not The One
 14. Smash
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smash-remastered/1485043082" >}}<br>

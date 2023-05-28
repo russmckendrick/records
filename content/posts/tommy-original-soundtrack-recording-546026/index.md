@@ -27,10 +27,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="tommy-original-soundtrack-recording-546026.jpg" title="Tommy (Original Soundtrack Recording) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue - 1945 (3:00)
 2. Captain Walker / It's A Boy (2:37)
 3. Bernie's Holiday Camp (3:43)
@@ -62,10 +61,6 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 29. Tommy's Holiday Camp (1:30)
 30. We're Not Gonna Take It (5:47)
 31. Listening To You / See Me, Feel Me (3:13)
-
-<!-- section break -->
-
-
 
 
 

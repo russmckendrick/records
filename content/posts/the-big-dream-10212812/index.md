@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-big-dream-10212812.jpg" title="The Big Dream by Lonely Robot" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue - Deep Sleep (2:12)
 2. Awakenings (5:10)
 3. Sigma (5:06)
@@ -47,10 +46,6 @@ styles: ["Prog Rock"]
 20. The Big Dream (8:02)
 21. Hello World, Goodbye (3:52)
 22. Epilogue - Sea Beams (2:48)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-dream/1213517622" >}}<br>

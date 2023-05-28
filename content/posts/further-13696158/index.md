@@ -26,10 +26,14 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="further-13696158.jpg" title="Further by Richard Hawley" >}}
+Further is the ninth studio album by English singer-songwriter Richard Hawley. It was released on 31 May 2019 by BMG Rights Management. The album is the first by Hawley not to be named after a location or landmark in his local city of Sheffield.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Off My Mind
 2. Alone
 3. My Little Treasures
@@ -41,15 +45,6 @@ styles: []
 9. Time Is
 10. Midnight Train
 11. Doors
-
-<!-- section break -->
-
-Further is the ninth studio album by English singer-songwriter Richard Hawley. It was released on 31 May 2019 by BMG Rights Management. The album is the first by Hawley not to be named after a location or landmark in his local city of Sheffield.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/further/1454553726" >}}<br>

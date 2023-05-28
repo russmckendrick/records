@@ -21,10 +21,14 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
 
-{{< img src="grievous-angel-5886670.jpg" title="Grievous Angel by Gram Parsons" >}}
+Grievous Angel is the second and final solo studio album by Gram Parsons, compiled from summer 1973 sessions and released four months after his death from a morphine and alcohol overdose in September 1973. Prominently featuring a young Emmylou Harris, Grievous Angel received great critical acclaim upon release but failed to find commercial success, a fate shared with Parsons’ previous efforts solo and with The Flying Burrito Brothers. Grievous Angel peaked at number 195 on the Billboard charts. Despite its modest sales, it is viewed as a successful example of the hybrid between country and rock and roll Parsons called "Cosmic American Music".
+It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the album was ranked number 425 on Rolling Stone magazine's list of the 500 greatest albums of all time.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Return Of The Grievous Angel (4:19)
 2. Hearts On Fire (3:50)
 3. I Can't Dance (2:20)
@@ -34,15 +38,6 @@ styles: ["Country Rock", "Country"]
 7. Love Hurts (3:40)
 8. Las Vegas (3:29)
 9. In My Hour Of Darkness (3:42)
-
-<!-- section break -->
-
-Grievous Angel is the second and final solo studio album by Gram Parsons, compiled from summer 1973 sessions and released four months after his death from a morphine and alcohol overdose in September 1973. Prominently featuring a young Emmylou Harris, Grievous Angel received great critical acclaim upon release but failed to find commercial success, a fate shared with Parsons’ previous efforts solo and with The Flying Burrito Brothers. Grievous Angel peaked at number 195 on the Billboard charts. Despite its modest sales, it is viewed as a successful example of the hybrid between country and rock and roll Parsons called "Cosmic American Music".
-It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the album was ranked number 425 on Rolling Stone magazine's list of the 500 greatest albums of all time.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}<br>

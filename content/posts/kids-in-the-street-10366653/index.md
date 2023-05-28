@@ -22,10 +22,12 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="kids-in-the-street-10366653.jpg" title="Kids In The Street by Justin Townes Earle" >}}
+A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on classics: roots, country, Americana. He's already messed around with tradition, but on <i>Kids in the Street</i>, his sly stylistic mash-ups are revelatory. He zips between swaggering garage-damaged R&B (“Champagne Corolla”) and sweetly bluesy rock (“Short Hair Woman”). With savvy instrumentation and aching vocals, he freshens up bluegrass-anchored ballads (“Faded Valentine”) and country weepers (“What’s She Crying For”). Earle balances devilish playfulness with the arch outlook of a man who’s lived.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Champagne Corolla
 2. Maybe A Moment
 3. What's She Crying For
@@ -38,13 +40,6 @@ styles: []
 10. If I Was The Devil
 11. Trouble Is
 12. There Go A Fool
-
-<!-- section break -->
-
-A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on classics: roots, country, Americana. He's already messed around with tradition, but on <i>Kids in the Street</i>, his sly stylistic mash-ups are revelatory. He zips between swaggering garage-damaged R&B (“Champagne Corolla”) and sweetly bluesy rock (“Short Hair Woman”). With savvy instrumentation and aching vocals, he freshens up bluegrass-anchored ballads (“Faded Valentine”) and country weepers (“What’s She Crying For”). Earle balances devilish playfulness with the arch outlook of a man who’s lived.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kids-in-the-street/1436938097" >}}<br>

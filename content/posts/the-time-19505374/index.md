@@ -26,10 +26,12 @@ genres: ["Funk / Soul"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-{{< img src="the-time-19505374.jpg" title="The Time by The Time" >}}
+The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Get It Up (9:08)
 2. Girl (5:36)
 3. After Hi School (4:22)
@@ -42,13 +44,6 @@ styles: ["Minneapolis Sound", "Funk"]
 10. Cool (Part II) (3:06)
 11. After Hi School (Single Edit) (2:48)
 12. The Stick (Single Edit) (3:06)
-
-<!-- section break -->
-
-The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/time-flies-1994-2009/1517527208" >}}<br>

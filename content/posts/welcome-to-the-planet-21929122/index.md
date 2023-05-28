@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="welcome-to-the-planet-21929122.jpg" title="Welcome To The Planet  by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Made From Sunshine  (4:05)
 2. The Connection Plan  (3:56)
 3. Lanterna  (6:29)
@@ -34,10 +33,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Bats In The Belfry  (4:54)
 8. Oak And Stone  (7:13)
 9. Welcome To The Planet  (6:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-planet/1591312364" >}}<br>

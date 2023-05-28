@@ -17,10 +17,13 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-{{< img src="dummy-6326631.jpg" title="Dummy by Portishead" >}}
+Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to his band since this outstanding debut. You can see his point: a record as compellingly discomfiting as <i>Dummy</i> seems at odds with a movement that spawned multiple chill-out albums. Its noir, precisely layered sound—tranquilized hip-hop beats, haunted strings, and tortured guitar lines—is given soul by Beth Gibbons’s voice. Bruised, elegant, and confessional, she suggests a faded actress spilling her heart into a dressing room mirror on the exquisitely sad “Sour Times” and “Glory Box”.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mysterons (4:56)
 2. Sour Times (4:05)
 3. Strangers (3:49)
@@ -31,14 +34,6 @@ styles: ["Trip Hop", "Downtempo"]
 8. Pedestal (3:30)
 9. Biscuit (4:34)
 10. Glory Box (4:49)
-
-<!-- section break -->
-
-Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to his band since this outstanding debut. You can see his point: a record as compellingly discomfiting as <i>Dummy</i> seems at odds with a movement that spawned multiple chill-out albums. Its noir, precisely layered sound—tranquilized hip-hop beats, haunted strings, and tortured guitar lines—is given soul by Beth Gibbons’s voice. Bruised, elegant, and confessional, she suggests a faded actress spilling her heart into a dressing room mirror on the exquisitely sad “Sour Times” and “Glory Box”.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dummy/1440653096" >}}<br>

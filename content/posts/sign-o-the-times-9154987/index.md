@@ -30,29 +30,6 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk", "Pop Rock"]
 ---
 
-{{< img src="sign-o-the-times-9154987.jpg" title="Sign O The Times by Prince" >}}
-
-<!-- section break -->
-
-1. Sign "O" The Times (5:02)
-2. Play In The Sunshine (5:05)
-3. Housequake (4:38)
-4. The Ballad Of Dorothy Parker (4:04)
-5. It (5:10)
-6. Starfish And Coffee (2:51)
-7. Slow Love (4:18)
-8. Hot Thing (5:39)
-9. Forever In My Life (3:38)
-10. U Got The Look (3:58)
-11. If I Was Your Girlfriend (4:54)
-12. Strange Relationship (4:04)
-13. I Could Never Take The Place Of Your Man (6:31)
-14. The Cross (4:46)
-15. It's Gonna Be A Beautiful Night (8:59)
-16. Adore (6:29)
-
-<!-- section break -->
-
 <i>Read a guide to the 92-track reimagining of Prince’s masterpiece by the man who put it together.</i><br />
 Prince’s 1987 double-LP funk-rock opus <i>Sign O’ the Times</i> was arguably the peak of one of the greatest seven-year runs in pop history; that the released version contained merely a fraction of the songs he’d made for it is almost impossible to comprehend. “I can't think of anybody else who, between the released stuff and the unreleased stuff, had that calibre of quality,” Michael Howe, chief archivist for the Prince estate, tells Apple Music. “The stuff that he put aside or gave to other artists or abandoned entirely is in many cases orders of magnitude better than most artists' best work.” This 92-track collection is a corrective and an exhaustive survey of Prince at the height of his powers, compiling tracks that would have been on <i>Dream Factory</i> (the intended follow-up to 1986’s <i>Parade</i> with The Revolution) and <i>Crystal Ball</i> (the post-breakup triple album that Warner Bros. kicked back to him to whittle down), as well as <i>Camille</i>, a project with sped-up vocals represented on the finished album’s “Housequake”. “This particular period of Prince's life was a blizzard of creativity,” Howe says. “He was essentially non-stop in the studio, on the road, producing records, writing, working with his protégé bands. It was superhuman levels of activity.”<br />
 It has been Howe's unique task, since Prince's death in 2016, to reconcile the bounty of the artist's legendary vaults with his equally legendary standards and secrecy. But the chance to close the book on what is widely considered Prince's most fertile and mythologised year is a boon for casual fans and obsessive collectors alike and feels more public service than post-mortem curiosity. It's hard to know where to begin with a set this sprawling and storied, so let Howe point you in the direction of a few of the standouts from the aptly named Super Deluxe edition of <i>Sign O’ the Times</i>.<br />
@@ -71,6 +48,24 @@ It has been Howe's unique task, since Prince's death in 2016, to reconcile the b
     
     
 
+
+## Tracklisting
+1. Sign "O" The Times (5:02)
+2. Play In The Sunshine (5:05)
+3. Housequake (4:38)
+4. The Ballad Of Dorothy Parker (4:04)
+5. It (5:10)
+6. Starfish And Coffee (2:51)
+7. Slow Love (4:18)
+8. Hot Thing (5:39)
+9. Forever In My Life (3:38)
+10. U Got The Look (3:58)
+11. If I Was Your Girlfriend (4:54)
+12. Strange Relationship (4:04)
+13. I Could Never Take The Place Of Your Man (6:31)
+14. The Cross (4:46)
+15. It's Gonna Be A Beautiful Night (8:59)
+16. Adore (6:29)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sign-o-the-times-super-deluxe-edition-2020-remaster/1520460179" >}}<br>

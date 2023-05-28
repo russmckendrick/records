@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="banefyre-24411629.jpg" title="Banefyre by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Act I
 2. Incantation For The Different
 3. Wyches And Basterdz
@@ -36,10 +35,6 @@ styles: ["Prog Rock"]
 12. The Pilgrim
 13. I'm Ok, Just Not Alright
 14. The Scene Is A False Prophet
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/banefyre/1616007627" >}}<br>

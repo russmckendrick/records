@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="at-26677889.jpg" title="AT by Andy White" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I
 2. The Sea Holds The Memory
 3. My Regeneration
@@ -37,10 +36,6 @@ styles: []
 10. It's Family
 11. The Happiness Index
 12. Rock 'N' Roll Star
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at/1675919389" >}}<br>

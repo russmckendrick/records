@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Ska", "Punk", "Hardcore"]
 ---
 
-{{< img src="devils-night-out-9713856.jpg" title="Devils Night Out by The Mighty Mighty Bosstones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Devil's Night Out
 2. Howwhywuz, Howwhyyam
 3. Drunks And Children
@@ -35,10 +34,6 @@ styles: ["Ska", "Punk", "Hardcore"]
 8. The Cave ('Cognito Fiesta Version)
 9. Do Something Crazy
 10. A Little Bit Ugly
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}<br>

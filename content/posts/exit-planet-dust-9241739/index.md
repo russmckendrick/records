@@ -27,10 +27,16 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 ---
 
-{{< img src="exit-planet-dust-9241739.jpg" title="Exit Planet Dust by The Chemical Brothers" >}}
+Exit Planet Dust is the debut studio album by English electronic music duo The Chemical Brothers. It was first released on 26 June 1995 in the United Kingdom by Junior Boy's Own, Freestyle Dust, and Virgin Records, and on 15 August 1995 in the United States by Astralwerks. The album was recorded between August and November 1994, with "Song to the Siren" performed live. Its title is a reference to their departure from their earlier name The Dust Brothers.
+The album received critical acclaim and was in the UK charts for many weeks, charting in each year from its release in 1995 until 2000; its highest peak was number 9 in 1995.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Leave Home
 2. In Dust We Trust
 3. Song To The Siren
@@ -42,17 +48,6 @@ styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 9. Chico's Groove
 10. One Too Many Mornings
 11. Alive Alone
-
-<!-- section break -->
-
-Exit Planet Dust is the debut studio album by English electronic music duo The Chemical Brothers. It was first released on 26 June 1995 in the United Kingdom by Junior Boy's Own, Freestyle Dust, and Virgin Records, and on 15 August 1995 in the United States by Astralwerks. The album was recorded between August and November 1994, with "Song to the Siren" performed live. Its title is a reference to their departure from their earlier name The Dust Brothers.
-The album received critical acclaim and was in the UK charts for many weeks, charting in each year from its release in 1995 until 2000; its highest peak was number 9 in 1995.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}<br>

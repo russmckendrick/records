@@ -21,17 +21,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="trust-822769.jpg" title="Trust by Ned's Atomic Dustbin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Trust
 2. Faceless
 3. Titch
-
-<!-- section break -->
-
-
 
 
 

@@ -20,18 +20,6 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock"]
 ---
 
-{{< img src="black-sabbath-2270277.jpg" title="Black Sabbath by Black Sabbath" >}}
-
-<!-- section break -->
-
-1. Black Sabbath (6:20)
-2. The Wizard (4:22)
-3. Wasp / Behind The Wall Of Sleep / Bassically / N.I.B. (9:44)
-4. Wicked World (4:30)
-5. A Bit Of Finger / Sleeping Village / Warning (14:32)
-
-<!-- section break -->
-
 When he was 17 years old, a young guitarist, born Frank Anthony Iommi, sliced the tips off two of his fingers while working at a sheet metal factory in Birmingham. The story goes that he was so determined to keep playing guitar, he fashioned prosthetic tips out of melted plastic bottles and detuned his guitar by a minor third because the looser strings were easier to play. Three years later, that ominous detuned tone would form the backbone of Black Sabbath’s sound. And it happened almost entirely by accident.<br /> 
 It’s not that Black Sabbath invented heavy metal. By the end of the 1960s, genre co-pioneers Deep Purple and Led Zeppelin had already begun unleashing distortion, riffs and solos on a generation still enamoured with folk and early psychedelia. But it took a different kind of heaviness—the kind inspired by horror films, the occult and a bleak working-class upbringing in Aston, Birmingham—to give heavy metal its true form. Enter four twenty-something blokes and the debut album they recorded in 12 hours.<br />
 Much like the horror genre (the band name itself was stolen from a 1963 Italian anthology by “Master of the Macabre” Mario Bava), these songs were generally designed to incite fear, terror, suspense, excitement. First, the scene is set: a dark and stormy night. Heavy rain, thunder and creepy church bells lay the foundation of “Black Sabbath” (the first song on Black Sabbath’s first album, <i>Black Sabbath</i>). It’s almost 40 seconds before the guitar riff strikes. Soon, Ozzy Osbourne starts singing about a mysterious “figure in black” pointing and staring at him—the lyrics were inspired by a vision bassist Geezer Butler had experienced in his room, then painted completely black, decorated with occultist books and satanic images. A few lines later comes Osbourne’s very first ungodly howl: “Oh, no, no, please, God help me.” It’s a song so intense and demonic, it not only terrified and intrigued millions, it instantly created the doom metal subgenre and led to countless Sabbath-worshipper attempts to emulate its impact ever since.<br />
@@ -41,6 +29,13 @@ Despite the hasty recording session, an incredible level of creativity went into
         
     
 
+
+## Tracklisting
+1. Black Sabbath (6:20)
+2. The Wizard (4:22)
+3. Wasp / Behind The Wall Of Sleep / Bassically / N.I.B. (9:44)
+4. Wicked World (4:30)
+5. A Bit Of Finger / Sleeping Village / Warning (14:32)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-sabbath-2009-remastered-version/1204520063" >}}<br>

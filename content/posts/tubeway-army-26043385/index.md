@@ -20,10 +20,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Punk", "Synth-pop"]
 ---
 
-{{< img src="tubeway-army-26043385.jpg" title="Tubeway Army by Tubeway Army" >}}
+Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK album charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Listen To The Sirens
 2. My Shadow In Vain
 3. The Life Machine
@@ -36,13 +38,6 @@ styles: ["Punk", "Synth-pop"]
 10. The Dream Police
 11. Jo The Waiter
 12. Zero Bars (Mr. Smith)
-
-<!-- section break -->
-
-Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK album charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tubeway-army/1028834525" >}}<br>

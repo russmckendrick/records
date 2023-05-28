@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
 
-{{< img src="soft-metal-it-ain-t-heavy-1205378.jpg" title="Soft Metal - It Ain't Heavy . . .  by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Alone (3:35)
 2. Kayleigh (3:32)
 3. Here I Go Again (3:52)
@@ -41,10 +40,6 @@ styles: ["Soft Rock"]
 16. We Care A Lot (4:02)
 17. Burning Heart (3:46)
 18. St. Elmo's Fire (Man In Motion) (3:36)
-
-<!-- section break -->
-
-
 
 
 

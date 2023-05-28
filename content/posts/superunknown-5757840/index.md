@@ -34,10 +34,14 @@ genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-{{< img src="superunknown-5757840.jpg" title="Superunknown by Soundgarden" >}}
+Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn. Soundgarden began work on the album after touring in support of its previous album, Badmotorfinger (1991). Superunknown captured the heaviness of the band's earlier releases while displaying a more diverse range of influences.
+Superunknown was a critical and commercial success and became the band's breakthrough album. It debuted at number one on the Billboard 200, selling 310,000 copies in its opening week. The album also topped the Australian, Canadian, and New Zealand charts. Five singles were released from the album: "The Day I Tried to Live", "My Wave", "Fell on Black Days", "Spoonman", and "Black Hole Sun", the latter two of which won Grammy Awards and helped Soundgarden reach mainstream popularity. In 1995, the album was nominated for the Grammy Award for Best Rock Album. It has been certified six times platinum by the RIAA in the United States. Superunknown has been listed by several publications as one of the best albums of the 1990s and a quintessential grunge album. In April 2019, it was ranked No. 9 on Rolling Stone's "50 Greatest Grunge Albums" list.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Let Me Drown
 2. My Wave
 3. Fell On Black Days
@@ -54,15 +58,6 @@ styles: ["Grunge", "Alternative Rock"]
 14. Half
 15. Like Suicide
 16. She Likes Surprises
-
-<!-- section break -->
-
-Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn. Soundgarden began work on the album after touring in support of its previous album, Badmotorfinger (1991). Superunknown captured the heaviness of the band's earlier releases while displaying a more diverse range of influences.
-Superunknown was a critical and commercial success and became the band's breakthrough album. It debuted at number one on the Billboard 200, selling 310,000 copies in its opening week. The album also topped the Australian, Canadian, and New Zealand charts. Five singles were released from the album: "The Day I Tried to Live", "My Wave", "Fell on Black Days", "Spoonman", and "Black Hole Sun", the latter two of which won Grammy Awards and helped Soundgarden reach mainstream popularity. In 1995, the album was nominated for the Grammy Award for Best Rock Album. It has been certified six times platinum by the RIAA in the United States. Superunknown has been listed by several publications as one of the best albums of the 1990s and a quintessential grunge album. In April 2019, it was ranked No. 9 on Rolling Stone's "50 Greatest Grunge Albums" list.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/superunknown-20th-anniversary/1440811129" >}}<br>

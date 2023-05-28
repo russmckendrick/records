@@ -20,10 +20,13 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="already-25038097.jpg" title="Already by Jesus Jones" >}}
+Already is the fourth album by the British rock band Jesus Jones, first released in 1997.
+The album followed a working hiatus by the band following the disappointing commercial sales of 1993's Perverse compared to their international breakthrough album Doubt (1991). Although the band had come up with ideas that they submitted to Food Records for consideration, the label rejected them before finally accepting the reworked tracks featured on the release version of Already. It was their last album for EMI, and two singles were released from the album, "The Next Big Thing" and "Chemical #1". Already only reached No. 161 in the UK Albums Chart, although lead single "The Next Big Thing" had some radio play reaching No. 49 in the UK Singles Chart. EMI re-issued on the album on 1 March 2003. The album marks a strong shift into pop territory, with similarities to their second album, Doubt.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Next Big Thing (4:01)
 2. Run On Empty (3:13)
 3. Look Out Tomorrow (3:34)
@@ -36,14 +39,6 @@ styles: ["Synth-pop"]
 10. For A Moment (3:31)
 11. Addiction, Obsession & Me (4:19)
 12. February (6:43)
-
-<!-- section break -->
-
-Already is the fourth album by the British rock band Jesus Jones, first released in 1997.
-The album followed a working hiatus by the band following the disappointing commercial sales of 1993's Perverse compared to their international breakthrough album Doubt (1991). Although the band had come up with ideas that they submitted to Food Records for consideration, the label rejected them before finally accepting the reworked tracks featured on the release version of Already. It was their last album for EMI, and two singles were released from the album, "The Next Big Thing" and "Chemical #1". Already only reached No. 161 in the UK Albums Chart, although lead single "The Next Big Thing" had some radio play reaching No. 49 in the UK Singles Chart. EMI re-issued on the album on 1 March 2003. The album marks a strong shift into pop territory, with similarities to their second album, Doubt.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/already/695541602" >}}<br>

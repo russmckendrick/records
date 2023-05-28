@@ -20,10 +20,9 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="still-hungry-10119644.jpg" title="Still Hungry by DJ Format" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Still Hungry
 2. We're Back
 3. Dirt
@@ -34,10 +33,6 @@ styles: []
 8. Forged From Hardship
 9. White Rapper
 10. We Say
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/still-hungry/1252039374" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="symbiosis-22298998.jpg" title="Symbiosis by Nordic Giants" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Philosophy Of Mind (7:41)
 2. Anamorphia (5:56)
 3. Hjem (4:23)
@@ -34,10 +33,6 @@ styles: ["Post Rock"]
 6. Spheres (6:01)
 7. Spires Of Ascendency (4:27)
 8. Infinity (7:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/symbiosis/1604277526" >}}<br>

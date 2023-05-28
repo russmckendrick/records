@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ---
 
-{{< img src="cure-for-sanity-90393.jpg" title="Cure For Sanity by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Incredible P.W.E.I Vs. The Moral Majority (1:33)
 2. Dance Of The Mad Bastards (5:30)
 3. 88 Seconds...& Still Counting (3:53)
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 15. 92°F (The 3rd Degree) (5:37)
 16. Lived In Splendour:  Died In Chaos (5:05)
 17. The Beat That Refused To Die (1:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cure-for-sanity/292672031" >}}<br>

@@ -17,10 +17,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="rocky-iv-original-motion-picture-soundtrack-8300839.jpg" title="Rocky IV (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Burning Heart
 2. Heart's On Fire
 3. Double Or Nothing
@@ -31,10 +30,6 @@ styles: ["Soundtrack"]
 8. One Way Street
 9. The Sweetest Victory
 10. Training Montage
-
-<!-- section break -->
-
-
 
 
 

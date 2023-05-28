@@ -22,17 +22,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="cyclops-7422903.jpg" title="Cyclops by King Crimson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 21st Century Schizoid Man
 2. Light Of Day
 3. Hellhounds Of Krim
-
-<!-- section break -->
-
-
 
 
 

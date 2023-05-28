@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="home-16250518.jpg" title="Home by Koj" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stars (5:05)
 2. Home (3:54)
 3. Pamela (3:43)
@@ -29,10 +28,6 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 7. Unscarred (5:53)
 8. Scarlett (4:42)
 9. Outro (1:57)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/home/1501400140" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Hip Hop", "Stage & Screen"]
 styles: ["Hip Hop", "Trap", "Soundtrack"]
 ---
 
-{{< img src="silicon-valley-music-from-the-hbo-original-series-10885801.jpg" title="Silicon Valley (Music From The HBO Original Series) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stretch Your Face
 2. Systematic
 3. Kool Aid
@@ -41,10 +40,6 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 13. Problem Child
 14. Blown
 15. Walking On Sunshine
-
-<!-- section break -->
-
-
 
 
 ## Spotify

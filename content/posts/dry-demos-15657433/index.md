@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="dry-demos-15657433.jpg" title="Dry - Demos by PJ Harvey" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Oh My Lover
 2. O Stella 
 3. Dress
@@ -38,10 +37,6 @@ styles: ["Alternative Rock"]
 9. Plants And Rags
 10. Fountain
 11. Water
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dry-demos/1515280509" >}}<br>

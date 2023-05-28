@@ -27,10 +27,16 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="boy-16273305.jpg" title="Boy by U2" >}}
+Boy is the debut studio album by Irish rock band U2. It was produced by Steve Lillywhite and was released on 20 October 1980 by Island Records. Boy contains songs from the band's 40-song repertoire at the time, including two tracks that were re-recorded from their original versions on the group's debut release, the EP Three.
+Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, which became U2's chosen recording location during the 1980s. It was their first time working with Lillywhite, who employed non-standard production techniques, such as recording drummer Larry Mullen Jr. playing in a stairwell, and recording smashed bottles and cutlery skimmed against a spinning bicycle wheel. The band found Lillywhite to be very encouraging and creative, and he subsequently became a frequent producer of their recorded work. Thematically, the album's lyrics reflect on adolescence, innocence, and the passage into adulthood, themes represented on its cover artwork through the photo of a young boy's face.Boy received generally positive reviews and included one of U2's first singles to receive airplay on US radio, "I Will Follow". The release was followed by the band's first tour of continental Europe and the US, the Boy Tour. The album peaked on the UK chart at number 52 in August 1981 and in the US at number 63. In 2003, Boy was ranked 417th on Rolling Stone's list of "The 500 Greatest Albums of All Time". In 2008, a remastered edition of the record was released.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. I Will Follow
 2. Twilight
 3. An Cat Dubh
@@ -43,17 +49,6 @@ styles: ["New Wave", "Pop Rock"]
 10. The Electric Co.
 11. Shadows And Tall Trees
 12. Untitled
-
-<!-- section break -->
-
-Boy is the debut studio album by Irish rock band U2. It was produced by Steve Lillywhite and was released on 20 October 1980 by Island Records. Boy contains songs from the band's 40-song repertoire at the time, including two tracks that were re-recorded from their original versions on the group's debut release, the EP Three.
-Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, which became U2's chosen recording location during the 1980s. It was their first time working with Lillywhite, who employed non-standard production techniques, such as recording drummer Larry Mullen Jr. playing in a stairwell, and recording smashed bottles and cutlery skimmed against a spinning bicycle wheel. The band found Lillywhite to be very encouraging and creative, and he subsequently became a frequent producer of their recorded work. Thematically, the album's lyrics reflect on adolescence, innocence, and the passage into adulthood, themes represented on its cover artwork through the photo of a young boy's face.Boy received generally positive reviews and included one of U2's first singles to receive airplay on US radio, "I Will Follow". The release was followed by the band's first tour of continental Europe and the US, the Boy Tour. The album peaked on the UK chart at number 52 in August 1981 and in the US at number 63. In 2003, Boy was ranked 417th on Rolling Stone's list of "The 500 Greatest Albums of All Time". In 2008, a remastered edition of the record was released.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boy-deluxe-edition/1440793935" >}}<br>

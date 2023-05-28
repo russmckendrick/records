@@ -24,24 +24,6 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="merrie-land-12801704.jpg" title="Merrie Land by The Good, The Bad & The Queen" >}}
-
-<!-- section break -->
-
-1. Introduction (0:13)
-2. Merrie Land (4:46)
-3. Gun To The Head (4:18)
-4. Nineteen Seventeen (3:40)
-5. The Great Fire (3:54)
-6. Lady Boston (4:18)
-7. Drifters & Trawlers (2:32)
-8. The Truce Of Twilight (4:21)
-9. Ribbons (2:51)
-10. The Last Man To Leave (2:37)
-11. The Poison Tree (3:39)
-
-<!-- section break -->
-
 In the wake of the EU Referendum, Damon Albarn decided to travel around Britain to get a sense of a nation plunged into dramatic change. After reconvening with his The Good, the Bad & the Queen bandmates—Paul Simonon, Tony Allen and Simon Tong—those meditative journeys fed into their second album, <i>Merrie Land</i>. It’s an impressionistic portrait of a conflicted, confused land, with funfair organs, choirs and tugging melodies folded into eerie but beautiful blends of folk, dub and pop. Albarn talks Apple Music through his pilgrimage and the “strange emotions” that inform the album.<br />
 <b>It’s hard not to feel real sadness listening to this record. Is that the point?</b>
 I think so, maybe, but I think it’s, if you could call something this, a beautiful sadness. I don’t know what that kind of means. <br />
@@ -56,6 +38,19 @@ I just love making music, so it’s not that difficult. I had a strange four day
     
     
 
+
+## Tracklisting
+1. Introduction (0:13)
+2. Merrie Land (4:46)
+3. Gun To The Head (4:18)
+4. Nineteen Seventeen (3:40)
+5. The Great Fire (3:54)
+6. Lady Boston (4:18)
+7. Drifters & Trawlers (2:32)
+8. The Truce Of Twilight (4:21)
+9. Ribbons (2:51)
+10. The Last Man To Leave (2:37)
+11. The Poison Tree (3:39)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/merrie-land/1439081942" >}}<br>

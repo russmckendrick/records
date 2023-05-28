@@ -24,20 +24,6 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
 
-{{< img src="aja-2884821.jpg" title="Aja by Steely Dan" >}}
-
-<!-- section break -->
-
-1. Black Cow (5:07)
-2. Aja (7:56)
-3. Deacon Blues (7:26)
-4. Peg (3:58)
-5. Home At Last (5:31)
-6. I Got The News (5:03)
-7. Josie (4:30)
-
-<!-- section break -->
-
 Aja (, pronounced like Asia) is the sixth studio album by the American jazz rock band Steely Dan. It was released on September 23, 1977, by ABC Records. Recording alongside nearly 40 musicians, band leaders Donald Fagen and Walter Becker pushed Steely Dan further into experimenting with different combinations of session players while pursuing longer, more sophisticated compositions and arrangements for the album.
 The album peaked at number three on the US charts and number five in the UK, ultimately becoming Steely Dan's most commercially successful LP. It spawned a number of hit singles, including "Peg", "Deacon Blues", and "Josie". 
 In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Classical and received Grammy nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It has since appeared frequently on professional rankings of the greatest albums, with critics and audiophiles applauding the album's high production standards. In 2010, the Library of Congress selected the album for preservation in the National Recording Registry for being "culturally, historically, or artistically significant."
@@ -45,6 +31,15 @@ In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Cla
         
     
 
+
+## Tracklisting
+1. Black Cow (5:07)
+2. Aja (7:56)
+3. Deacon Blues (7:26)
+4. Peg (3:58)
+5. Home At Last (5:31)
+6. I Got The News (5:03)
+7. Josie (4:30)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aja-remastered/1440938356" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
 
-{{< img src="replicas-7622130.jpg" title="Replicas by Tubeway Army" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Me! I Disconnect From You (3:22)
 2. Are 'Friends' Electric? (5:24)
 3. The Machman (3:07)
@@ -36,10 +35,6 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 8. It Must Have Been Years (4:01)
 9. When The Machines Rock (3:14)
 10. I Nearly Married A Human (6:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>

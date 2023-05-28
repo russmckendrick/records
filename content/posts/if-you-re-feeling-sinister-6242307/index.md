@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="if-you-re-feeling-sinister-6242307.jpg" title="If You're Feeling Sinister by Belle & Sebastian" >}}
+With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk, and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
 
-<!-- section break -->
+    
+    
 
+
+## Tracklisting
 1. The Stars Of Track And Field (4:48)
 2. Seeing Other People (3:48)
 3. Me And The Major (3:51)
@@ -38,14 +41,6 @@ styles: ["Indie Rock"]
 8. Mayfly (3:42)
 9. The Boy Done Wrong Again (4:17)
 10. Judy And The Dream Of Horses (3:40)
-
-<!-- section break -->
-
-With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk, and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/if-youre-feeling-sinister/516530926" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="enz-of-an-era-4879495.jpg" title="Enz Of An Era by Split Enz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. History Never Repeats (2:57)
 2. My Mistake (2:56)
 3. I Got You (3:24)
@@ -34,10 +33,6 @@ styles: ["New Wave", "Pop Rock"]
 12. Bold As Brass (3:22)
 13. I Hope I Never (4:26)
 14. Give It A Whirl (2:49)
-
-<!-- section break -->
-
-
 
 
 

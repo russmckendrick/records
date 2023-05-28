@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ---
 
-{{< img src="changesnowbowie-15822092.jpg" title="Changesnowbowie by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Man Who Sold The World (4:01)
 2. Aladdin Sane (3:33)
 3. White Light/White Heat (3:41)
@@ -34,10 +33,6 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 7. Repetition (3:00)
 8. Andy Warhol (2:33)
 9. Quicksand (4:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/changesnowbowie/1505418271" >}}<br>

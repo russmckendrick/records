@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="sentimental-fool-24981913.jpg" title="Sentimental Fool by Lee Fields" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Forever (3:15)
 2. I Should Have Let You Be (3:00)
 3. Sentimental Fool (3:05)
@@ -37,10 +36,6 @@ styles: ["Soul"]
 10. Ordinary Lives (3:16)
 11. Your Face Before My Eyes (1:58)
 12. Extraordinary Man (3:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sentimental-fool/1651925180" >}}<br>

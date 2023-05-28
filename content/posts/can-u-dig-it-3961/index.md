@@ -19,18 +19,13 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"]
 ---
 
-{{< img src="can-u-dig-it-3961.jpg" title="Can U Dig It? by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Can U Dig It? (Twelve) (4:25)
 2. Poison To The Mind (2:45)
 3. Radio P.W.E.I. (Acapella) (1:10)
 4. The Fuses Have Been Lit (Instrumental) (2:07)
-
-<!-- section break -->
-
-
 
 
 

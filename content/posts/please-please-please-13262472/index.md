@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="please-please-please-13262472.jpg" title="Please Please Please by James Brown & The Famous Flames" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Please, Please, Please
 2. Chonnie-On-Chon
 3. Hold My Baby's Hand
@@ -43,10 +42,6 @@ styles: ["Rhythm & Blues", "Soul"]
 16. Love Or A Game
 17. Bonus Track
 18. This Old Heart
-
-<!-- section break -->
-
-
 
 
 

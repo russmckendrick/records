@@ -73,10 +73,9 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Pop Rock"]
 ---
 
-{{< img src="the-complete-studio-albums-volume-1-1976-1991-9521857.jpg" title="The Complete Studio Albums Volume 1 (1976-1991) by Tom Petty And The Heartbreakers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tom Petty And The Heartbreakers
 2. Rockin' Around (With You)  (2:26)
 3. Breakdown (2:42)
@@ -179,10 +178,6 @@ styles: ["Southern Rock", "Pop Rock"]
 100. You And I Will Meet Again (3:45)
 101. Makin' Some Noise (3:25)
 102. Built To Last (3:59)
-
-<!-- section break -->
-
-
 
 
 

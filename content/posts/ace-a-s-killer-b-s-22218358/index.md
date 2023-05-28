@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
 
-{{< img src="ace-a-s-killer-b-s-22218358.jpg" title="Ace A's + Killer B's by Dodgy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Every Single Day
 2. Staying Out For The Summer (Summer '95)
 3. Water Under The Bridge
@@ -40,10 +39,6 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 15. Grassman
 16. Ain't No Longer Asking
 17. The Elephant
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}<br>

@@ -24,10 +24,12 @@ genres: ["Jazz"]
 styles: ["Soul-Jazz"]
 ---
 
-{{< img src="my-baby-just-cares-for-me-3895928.jpg" title="My Baby Just Cares For Me by Nina Simone" >}}
+"My Baby Just Cares for Me" is a jazz standard written by Walter Donaldson with lyrics by Gus Kahn.  Written for the film version of the musical comedy Whoopee! (1930), the song became a signature tune for Eddie Cantor who sang it in the movie. A stylized version of the song by American singer and songwriter Nina Simone, recorded in 1957, was a top 10 hit in the United Kingdom after it was used in a 1987 perfume commercial and resulted in a renaissance for Simone.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. My Baby Just Cares For Me (3:42)
 2. Mood Indigo (4:09)
 3. Don't Smoke In Bed (3:16)
@@ -48,13 +50,6 @@ styles: ["Soul-Jazz"]
 18. Black Is The Colour Of My True Love's Hair (3:35)
 19. Children Go Where I Send You (2:55)
 20. Summertime (5:36)
-
-<!-- section break -->
-
-"My Baby Just Cares for Me" is a jazz standard written by Walter Donaldson with lyrics by Gus Kahn.  Written for the film version of the musical comedy Whoopee! (1930), the song became a signature tune for Eddie Cantor who sang it in the movie. A stylized version of the song by American singer and songwriter Nina Simone, recorded in 1957, was a top 10 hit in the United Kingdom after it was used in a 1987 perfume commercial and resulted in a renaissance for Simone.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-voice-of-nina-simone-my-baby-just-cares-for-me/590241536" >}}<br>

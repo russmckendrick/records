@@ -24,10 +24,14 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="singles-9017905.jpg" title="Singles by New Order" >}}
+Singles is a greatest hits album by English rock band New Order. It was released on 3 October 2005 by London Records. The two-disc compilation includes the band's singles released between 1981 and 2005. Unlike the CD version of earlier singles compilation Substance 1987, the B-sides are not included. While Substance 1987 aimed to showcase New Order's 12-inch singles, Singles instead features mostly seven-inch versions, some of which are rare and differ from the album versions.
+The album includes three early singles that have never appeared on CD in their original form: "Ceremony", "Everything's Gone Green" and "Temptation". Additionally, an edit of the "Rough mix" of the song "Confusion" was created exclusively for this compilation. One song, "Turn", was released on this album in a new edited form, despite never being a single.
+An updated edition of Singles was released on 9 September 2016, which adds "I'll Stay with You" from the 2013 album Lost Sirens and replaces the versions of "1963", "Run 2", "Bizarre Love Triangle", "True Faith", "Spooky", "Confusion", and "The Perfect Kiss". The reissue was remastered by Frank Arkwright, and fixes the compression issues prevalent on the 2005 version.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ceremony 
 2. Procession 
 3. Everything's Gone Green (7" Version)
@@ -60,15 +64,6 @@ styles: ["New Wave", "Synth-pop", "Indie Rock"]
 30. Waiting For The Sirens' Call (Rich Costey Radio Version)
 31. Turn (Stephen Street Edit)
 32. I'll Stay With You ('Lost Sirens' LP Version)
-
-<!-- section break -->
-
-Singles is a greatest hits album by English rock band New Order. It was released on 3 October 2005 by London Records. The two-disc compilation includes the band's singles released between 1981 and 2005. Unlike the CD version of earlier singles compilation Substance 1987, the B-sides are not included. While Substance 1987 aimed to showcase New Order's 12-inch singles, Singles instead features mostly seven-inch versions, some of which are rare and differ from the album versions.
-The album includes three early singles that have never appeared on CD in their original form: "Ceremony", "Everything's Gone Green" and "Temptation". Additionally, an edit of the "Rough mix" of the song "Confusion" was created exclusively for this compilation. One song, "Turn", was released on this album in a new edited form, despite never being a single.
-An updated edition of Singles was released on 9 September 2016, which adds "I'll Stay with You" from the 2013 album Lost Sirens and replaces the versions of "1963", "Run 2", "Bizarre Love Triangle", "True Faith", "Spooky", "Confusion", and "The Perfect Kiss". The reissue was remastered by Frank Arkwright, and fixes the compression issues prevalent on the 2005 version.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles/1129721479" >}}<br>

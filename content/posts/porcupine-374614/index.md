@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-{{< img src="porcupine-374614.jpg" title="Porcupine by Echo & The Bunnymen" >}}
+Porcupine is the third studio album by the English post-punk band Echo & the Bunnymen. First released on 4 February 1983, it became the band's highest-charting release when it reached number two on the UK Albums Chart despite initially receiving poor reviews. It also reached number 137 on the American Billboard 200, number 85 on the Canadian RPM 100 Albums and number 24 on the Swedish chart. In 1984, the album was certified gold by the British Phonographic Industry. The album includes the singles "The Back of Love" and "The Cutter."
+Porcupine was recorded at Trident Studios in London, Rockfield Studios in South Wales and Amazon Studios in Liverpool. It was produced by Ian Broudie (credited as "Kingbird"), who had co-produced the band's first album, 1980's Crocodiles, and their second single, "Rescue." After being rejected by the band's label, the album was rerecorded with Shankar providing strings. It was originally released as an LP in 1983 before being reissued on CD in 1988. The album was reissued as a remastered and expanded CD in 2003, along with the other four of the band's first five studio albums. A VHS video called Porcupine – An Atlas Adventure was also released, containing six promotional videos of tracks from the album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Cutter (3:50)
 2. Back Of Love (3:12)
 3. My White Devil (4:30)
@@ -37,14 +40,6 @@ styles: ["New Wave", "Indie Rock"]
 8. Higher Hell (5:00)
 9. Gods Will Be Gods (4:10)
 10. In Bluer Skies (5:55)
-
-<!-- section break -->
-
-Porcupine is the third studio album by the English post-punk band Echo & the Bunnymen. First released on 4 February 1983, it became the band's highest-charting release when it reached number two on the UK Albums Chart despite initially receiving poor reviews. It also reached number 137 on the American Billboard 200, number 85 on the Canadian RPM 100 Albums and number 24 on the Swedish chart. In 1984, the album was certified gold by the British Phonographic Industry. The album includes the singles "The Back of Love" and "The Cutter."
-Porcupine was recorded at Trident Studios in London, Rockfield Studios in South Wales and Amazon Studios in Liverpool. It was produced by Ian Broudie (credited as "Kingbird"), who had co-produced the band's first album, 1980's Crocodiles, and their second single, "Rescue." After being rejected by the band's label, the album was rerecorded with Shankar providing strings. It was originally released as an LP in 1983 before being reissued on CD in 1988. The album was reissued as a remastered and expanded CD in 2003, along with the other four of the band's first five studio albums. A VHS video called Porcupine – An Atlas Adventure was also released, containing six promotional videos of tracks from the album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/porcupine-expanded-version/31740123" >}}<br>

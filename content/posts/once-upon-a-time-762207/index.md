@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="once-upon-a-time-762207.jpg" title="Once Upon A Time by Simple Minds" >}}
+Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Once Upon A Time
 2. All The Things She Said
 3. Ghost Dancing
@@ -33,13 +35,6 @@ styles: ["Pop Rock", "Synth-pop"]
 6. I Wish You Were Here
 7. Sanctify Yourself
 8. Come A Long Way
-
-<!-- section break -->
-
-Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/once-upon-a-time/1440841956" >}}<br>

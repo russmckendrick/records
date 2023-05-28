@@ -16,10 +16,9 @@ genres: ["Hip Hop"]
 styles: ["Pop Rap", "RnB/Swing"]
 ---
 
-{{< img src="new-jack-city-music-from-the-motion-picture-13457870.jpg" title="New Jack City (Music From The Motion Picture) by VARIOUS" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. New Jack Hustler (Nino’s Theme)
 2. I’m Dreamin’
 3. New Jack City
@@ -31,10 +30,6 @@ styles: ["Pop Rap", "RnB/Swing"]
 9. Lyrics 2 The Rhythm
 10. Get It Together (Black Is a Force)
 11. In The Dust
-
-<!-- section break -->
-
-
 
 
 ## Spotify

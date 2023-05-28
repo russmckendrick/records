@@ -16,10 +16,9 @@ genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
 
-{{< img src="sixth-sense-11750748.jpg" title="Sixth Sense by Splashgirl" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Carrier (6:17)
 2. Broken (7:20)
 3. Sixth Sense (6:59)
@@ -34,10 +33,6 @@ styles: ["Contemporary Jazz"]
 12. Half Self
 13. Taal Caldera
 14. Sedna
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1359604900" >}}<br>

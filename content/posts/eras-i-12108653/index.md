@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", "Power Pop", "Heavy Metal", "Acoustic", "Ethereal", "Symphonic Rock", "Industrial"]
 ---
 
-{{< img src="eras-i-12108653.jpg" title="Eras I by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. KI
 2. A Monday
 3. Coast
@@ -68,10 +67,6 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 46. Seams
 47. Infinite Ocean
 48. As You Were
-
-<!-- section break -->
-
-
 
 
 

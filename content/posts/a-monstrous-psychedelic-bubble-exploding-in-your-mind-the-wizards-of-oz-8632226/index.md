@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract"]
 ---
 
-{{< img src="a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226.jpg" title="A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. It Is Not Meant To Be
 2. Gods of Norse
 3. House Of The Sun
@@ -37,10 +36,6 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 14. Walking (4:16)
 15. Flight Of Yaraan
 16. Eyes Of The Witness
-
-<!-- section break -->
-
-
 
 
 

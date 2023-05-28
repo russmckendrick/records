@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-{{< img src="high-water-ii-14282352.jpg" title="High Water II by The Magpie Salute" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sooner Or Later (03:32)
 2. Gimme Something (04:05)
 3. Leave It All Behind (03:00)
@@ -41,10 +40,6 @@ styles: ["Southern Rock"]
 10. Life Is A Landslide (04:12)
 11. Doesn't Really Matter (04:28)
 12. Where Is The Place (04:11)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}<br>

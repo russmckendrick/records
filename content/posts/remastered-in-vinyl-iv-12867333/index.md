@@ -35,10 +35,9 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="remastered-in-vinyl-iv-12867333.jpg" title="Remastered In Vinyl IV by Kate Bush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 12" Mixes
 2. Running Up That Hill (A Deal With God)
 3. The Big Sky (Meteorological Mix)
@@ -77,10 +76,6 @@ styles: ["Art Rock", "Alternative Rock", "Pop Rock"]
 36. The Handsome Cabin Boy
 37. Lord Of The Reedy River
 38. Candle In The Wind
-
-<!-- section break -->
-
-
 
 
 

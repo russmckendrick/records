@@ -30,10 +30,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="are-you-serious-8328483.jpg" title="Are You Serious by Andrew Bird" >}}
+Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Capsized (3:40)
 2. Roma Fade (4:03)
 3. Truth Lies Low (5:29)
@@ -47,13 +49,6 @@ styles: ["Indie Rock"]
 11. Bellevue (2:03)
 12. Shoulder Mountain (4:02)
 13. Pulaski (3:32)
-
-<!-- section break -->
-
-Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-serious-deluxe-edition/1440954407" >}}<br>

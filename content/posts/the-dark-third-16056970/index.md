@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-dark-third-16056970.jpg" title="The Dark Third by Pure Reason Revolution" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aeropause
 2. Goshen's Remains
 3. Apprentice Of The Universe
@@ -59,10 +58,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 31. The Exact Colour (04:05)
 32. The Twyncyn / Trembling Willows (07:16)
 33. Golden Clothes (07:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>

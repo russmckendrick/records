@@ -17,10 +17,15 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Country"]
 ---
 
-{{< img src="furnace-room-lullaby-8197021.jpg" title="Furnace Room Lullaby by Neko Case & Her Boyfriends" >}}
+Furnace Room Lullaby is the second studio album by Neko Case and Her Boyfriends, released in February 2000, on Mint Records.
+Said Case of the title track at a performance at Austin City Limits in 2003, "I wanted to write a murder ballad, simply because I was such a huge fan of the Louvin Brothers.  Not that this song is anywhere as good as a Louvin Brothers song, but I tried."
+Guest musicians on the album include Scott Betts, Brian Connelly, Bob Egan, Dallas Good and Travis Good, Kelly Hogan, Evan Johns, Kevin Kane, Don Kerr, Linda McRae, Darryl Neudorf, Carl Newman, Ford Pier, John Ramberg, Henri Sangalang, Ron Sexsmith and Joel Trueblood.
+The title track was included on the soundtrack to Sam Raimi's film The Gift.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Set Out Running
 2. Guided By Wire
 3. Porchlight
@@ -33,16 +38,6 @@ styles: ["Alternative Rock", "Country"]
 10. South Tacoma Way
 11. Bought And Sold
 12. Furnace Room Lullaby
-
-<!-- section break -->
-
-Furnace Room Lullaby is the second studio album by Neko Case and Her Boyfriends, released in February 2000, on Mint Records.
-Said Case of the title track at a performance at Austin City Limits in 2003, "I wanted to write a murder ballad, simply because I was such a huge fan of the Louvin Brothers.  Not that this song is anywhere as good as a Louvin Brothers song, but I tried."
-Guest musicians on the album include Scott Betts, Brian Connelly, Bob Egan, Dallas Good and Travis Good, Kelly Hogan, Evan Johns, Kevin Kane, Don Kerr, Linda McRae, Darryl Neudorf, Carl Newman, Ford Pier, John Ramberg, Henri Sangalang, Ron Sexsmith and Joel Trueblood.
-The title track was included on the soundtrack to Sam Raimi's film The Gift.
-    
-    
-
 
 
 

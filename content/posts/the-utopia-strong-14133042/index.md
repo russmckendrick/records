@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-utopia-strong-14133042.jpg" title="The Utopia Strong by The Utopia Strong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Emerald Tablet
 2. Konta Chorus
 3. Swimmer
@@ -30,10 +29,6 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 7. Brainsurgeons 3
 8. Do You Believe In Two Gods?
 9. Moonchild
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-utopia-strong/1466902269" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Pop", "Classical"]
 styles: ["Indie Pop", "Neo-Classical"]
 ---
 
-{{< img src="waves-13867076.jpg" title="Waves by AVA" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Waves
 2. In Motion
 3. To Be Alone
@@ -30,10 +29,6 @@ styles: ["Indie Pop", "Neo-Classical"]
 8. Deep Blue
 9. Mulholland
 10. Underwater
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}<br>

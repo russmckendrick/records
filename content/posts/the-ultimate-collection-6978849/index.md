@@ -23,10 +23,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-{{< img src="the-ultimate-collection-6978849.jpg" title="The Ultimate Collection by Paul Simon" >}}
+The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. It is the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. You Can Call Me Al
 2. Graceland
 3. Mrs. Robinson
@@ -46,13 +48,6 @@ styles: ["Folk Rock", "Pop Rock"]
 17. The Sound Of Silence
 18. Still Crazy After All These Years
 19. Bridge Over Troubled Water
-
-<!-- section break -->
-
-The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. It is the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="apple-venus-volume-one-12595763.jpg" title="Apple Venus Volume One by XTC" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. River Of Orchids (5:53)
 2. I’d Like That (3:50)
 3. Easter Theatre (4:37)
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. I Can’t Own Her (5:26)
 10. Harvest Festival (4:15)
 11. The Last Balloon (6:40)
-
-<!-- section break -->
-
-
 
 
 

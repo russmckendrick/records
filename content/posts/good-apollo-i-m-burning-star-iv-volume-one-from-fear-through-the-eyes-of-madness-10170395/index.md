@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="good-apollo-i-m-burning-star-iv-volume-one-from-fear-through-the-eyes-of-madness-10170395.jpg" title="Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness by Coheed And Cambria" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Keeping The Blade
 2. Always & Never
 3. Welcome Home
@@ -50,10 +49,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 14. II: From Fear Through The Eyes Of Madness
 15. III: Apollo II: The Telling Truth
 16. IV: The Final Cut
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866" >}}<br>

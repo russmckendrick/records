@@ -16,10 +16,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-great-eastern-7209256.jpg" title="The Great Eastern by The Delgados" >}}
+The Great Eastern is the third studio album by Scottish indie rock band The Delgados. It was released on 17 April 2000 in the United Kingdom on their own Chemikal Underground record label, and later on 9 May 2000 in the United States.
+The Great Eastern was their first album not to be named after a cycling theme – the title refers to a textile mill in Glasgow, latterly a hostel for the homeless.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Past That Suits You Best (6:21)
 2. Accused Of Stealing (5:42)
 3. American Trilogy (4:47)
@@ -30,14 +33,6 @@ styles: ["Indie Rock"]
 8. Witness (4:04)
 9. Knowing When To Run (3:26)
 10. Make Your Move (3:12)
-
-<!-- section break -->
-
-The Great Eastern is the third studio album by Scottish indie rock band The Delgados. It was released on 17 April 2000 in the United Kingdom on their own Chemikal Underground record label, and later on 9 May 2000 in the United States.
-The Great Eastern was their first album not to be named after a cycling theme – the title refers to a textile mill in Glasgow, latterly a hostel for the homeless.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-great-eastern/121333037" >}}<br>

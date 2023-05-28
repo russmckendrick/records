@@ -31,10 +31,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 ---
 
-{{< img src="love-is-magic-12640054.jpg" title="Love Is Magic by John Grant" >}}
+Love Is Magic is the fourth studio album by American musician John Grant. It was released via Bella Union on October 12, 2018.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Metamorphosis
 2. Love Is Magic
 3. Tempest
@@ -45,15 +49,6 @@ styles: ["Synth-pop", "Leftfield", "Indie Rock", "Pop Rock", "Experimental"]
 8. Is He Strange
 9. The Common Snipe
 10. Touch And Go
-
-<!-- section break -->
-
-Love Is Magic is the fourth studio album by American musician John Grant. It was released via Bella Union on October 12, 2018.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-is-magic/1407828339" >}}<br>

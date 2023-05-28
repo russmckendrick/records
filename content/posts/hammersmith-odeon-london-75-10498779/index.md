@@ -37,10 +37,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ---
 
-{{< img src="hammersmith-odeon-london-75-10498779.jpg" title="Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Thunder Road
 2. Tenth Avenue Freeze-Out
 3. Spirit In The Night
@@ -57,10 +56,6 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 14. Detroit Medley
 15. For You
 16. Quarter To Three
-
-<!-- section break -->
-
-
 
 
 ## Spotify

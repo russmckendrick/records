@@ -32,10 +32,9 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="city-music-10422791.jpg" title="City Music by Kevin Morby" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Come To Me Now (4:50)
 2. Crybaby (3:58)
 3. 1234 (1:45)
@@ -47,10 +46,6 @@ styles: ["Folk Rock"]
 9. Night Time (6:07)
 10. Pearly Gates (3:50)
 11. Downtown's Lights (4:23)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/city-music/1208719994" >}}<br>

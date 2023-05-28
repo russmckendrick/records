@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
-{{< img src="international-treasure-24010643.jpg" title="International Treasure by The Utopia Strong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Trident Of Fire (3:07)
 2. Persephone Sleeps (3:32)
 3. Shepherdess (7:18)
@@ -35,10 +34,6 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 7. Revelations (6:00)
 8. International Treasure (7:32)
 9. Castalia (5:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/international-treasure/1614462986" >}}<br>

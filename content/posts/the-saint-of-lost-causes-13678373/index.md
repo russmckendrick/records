@@ -25,10 +25,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk", "Country"]
 ---
 
-{{< img src="the-saint-of-lost-causes-13678373.jpg" title="The Saint Of Lost Causes by Justin Townes Earle" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Saint Of Lost Causes
 2. Ain't Got No Money
 3. Mornings In Memphis
@@ -41,10 +40,6 @@ styles: ["Folk", "Country"]
 10. Say Baby
 11. Ahi Esta Mi Nina
 12. Talking To Myself
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483" >}}<br>

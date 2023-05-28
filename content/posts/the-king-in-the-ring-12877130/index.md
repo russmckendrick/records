@@ -25,10 +25,9 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["Rock & Roll", "Ballad"]
 ---
 
-{{< img src="the-king-in-the-ring-12877130.jpg" title="The King In The Ring by Elvis Presley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. That’s All Right (4:08)
 2. Heartbreak Hotel (2:55)
 3. Love Me (3:12)
@@ -60,10 +59,6 @@ styles: ["Rock & Roll", "Ballad"]
 29. Tiger Man  (3:11)
 30. When My Blue Moon Turns To Gold Again  (1:17)
 31. Memories  (3:13)
-
-<!-- section break -->
-
-
 
 
 

@@ -29,10 +29,9 @@ genres: ["Electronic"]
 styles: ["Berlin-School"]
 ---
 
-{{< img src="raum-22300372.jpg" title="Raum by Tangerine Dream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In 256 Zeichen (19:10)
 2. You're Always On Time (8:08)
 3. Along The Canal (5:29)
@@ -40,10 +39,6 @@ styles: ["Berlin-School"]
 5. Portico (6:44)
 6. What You Should Know About Endings (6:55)
 7. Raum (14:54)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raum/1599337918" >}}<br>

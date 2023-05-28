@@ -20,10 +20,9 @@ genres: ["Blues"]
 styles: []
 ---
 
-{{< img src="the-very-best-of-john-lee-hooker-8578752.jpg" title="The Very Best Of John Lee Hooker by John Lee Hooker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Boom Boom (2:31)
 2. Crawlin' King Snake (2:39)
 3. Shake It Baby (4:13)
@@ -40,10 +39,6 @@ styles: []
 14. Every Night (2:52)
 15. I'm Prison Bound (3:56)
 16. Sugar Mama (3:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-john-lee-hooker-blues/679162110" >}}<br>

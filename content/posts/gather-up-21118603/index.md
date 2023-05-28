@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
 
-{{< img src="gather-up-21118603.jpg" title="Gather Up by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Take My Hand
 2. Something In My Eye
 3. Medicine
@@ -48,10 +47,6 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 19. Obsessed & So Obscure
 20. Woman
 21. Solstice
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}<br>

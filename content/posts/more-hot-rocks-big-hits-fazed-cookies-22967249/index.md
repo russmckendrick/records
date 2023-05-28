@@ -35,10 +35,12 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 ---
 
-{{< img src="more-hot-rocks-big-hits-fazed-cookies-22967249.jpg" title="More Hot Rocks (Big Hits & Fazed Cookies) by The Rolling Stones" >}}
+Released several months after <i>Hot Rocks</i>, this is that conservative collection's eccentric complement — and more. Even the most familiar songs ("The Last Time," "Lady Jane," "She's a Rainbow") have odd twists, and a few head to wonderful whimsy ("Dandelion") or into the ozone ("2000 Light Years From Home"). But even better, this album brought the first American releases of eight rarities, including offbeat psychedelic nuggets "We Love You" and "Child of the Moon," Allen Toussaint's "Fortune Teller" (without the crowd noises added to make it seem like a concert recording on "Got Live If You Want It"), Chuck Berry's "Bye Bye Johnny," and Muddy Waters' "I Can't Be Satisfied."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tell Me (2:47)
 2. Not Fade Away (1:48)
 3. The Last Time (3:38)
@@ -64,13 +66,6 @@ styles: ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Rhythm & Blues"]
 23. Bye Bye Johnnie (2:08)
 24. I Can't Be Satisfied (3:24)
 25. Long Long While (3:14)
-
-<!-- section break -->
-
-Released several months after <i>Hot Rocks</i>, this is that conservative collection's eccentric complement — and more. Even the most familiar songs ("The Last Time," "Lady Jane," "She's a Rainbow") have odd twists, and a few head to wonderful whimsy ("Dandelion") or into the ozone ("2000 Light Years From Home"). But even better, this album brought the first American releases of eight rarities, including offbeat psychedelic nuggets "We Love You" and "Child of the Moon," Allen Toussaint's "Fortune Teller" (without the crowd noises added to make it seem like a concert recording on "Got Live If You Want It"), Chuck Berry's "Bye Bye Johnny," and Muddy Waters' "I Can't Be Satisfied."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-hot-rocks-big-hits-fazed-cookies/1440772737" >}}<br>

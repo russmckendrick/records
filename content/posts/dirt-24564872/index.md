@@ -25,10 +25,17 @@ genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 ---
 
-{{< img src="dirt-24564872.jpg" title="Dirt by Alice In Chains" >}}
+Dirt is the second studio album by the American rock band Alice in Chains, released on September 29, 1992, through Columbia Records. Peaking at No. 6 on the Billboard 200 chart, the album received critical acclaim. It has since been certified 5x Platinum by the RIAA, making Dirt the band's highest selling album to date.  It was the band's last album recorded with all four original members, as bassist Mike Starr was fired in January 1993 during the tour to support the album. The album spawned five singles: "Would?", "Them Bones", "Angry Chair", "Rooster", and "Down in a Hole", all with accompanying music videos. Dirt was nominated for a Grammy Award for Best Hard Rock Performance. The music video for "Would?" was nominated for an MTV Video Music Award for Best Video from a Film, as the song was featured on the soundtrack to Cameron Crowe's 1992 film Singles.
+The album features dark subject matter, focusing primarily on depression, pain, anger, anti-social behavior, relationships, drug addiction (primarily heroin), war, death, and other emotionally charged topics. The track "Iron Gland" features Tom Araya from Slayer on vocals. Most of the music from the album was written by guitarist Jerry Cantrell, but for the first time vocalist Layne Staley wrote two songs by himself ("Hate to Feel" and "Angry Chair"), both also featuring Staley on guitar. 
+Retrospectively, the album has continued to receive acclaim, with Rolling Stone placing the album at No. 26 on its list of the “100 Greatest Metal Albums of All Time”. Dirt was included in the 2005 book 1001 Albums You Must Hear Before You Die. It was voted "Kerrang! Critic's Choice Album of the Year". Guitar World named Dirt as the best guitar album of 1992. Loudwire named it as one of the best metal albums of the 1990s, and Rolling Stone ranked it at No. 6 on its list of "50 Greatest Grunge Albums" in 2019.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Them Bones (2:30)
 2. Dam That River (3:09)
 3. Rain When I Die (6:02)
@@ -42,18 +49,6 @@ styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 11. Hate To Feel (5:17)
 12. Angry Chair (4:48)
 13. Would? (3:27)
-
-<!-- section break -->
-
-Dirt is the second studio album by the American rock band Alice in Chains, released on September 29, 1992, through Columbia Records. Peaking at No. 6 on the Billboard 200 chart, the album received critical acclaim. It has since been certified 5x Platinum by the RIAA, making Dirt the band's highest selling album to date.  It was the band's last album recorded with all four original members, as bassist Mike Starr was fired in January 1993 during the tour to support the album. The album spawned five singles: "Would?", "Them Bones", "Angry Chair", "Rooster", and "Down in a Hole", all with accompanying music videos. Dirt was nominated for a Grammy Award for Best Hard Rock Performance. The music video for "Would?" was nominated for an MTV Video Music Award for Best Video from a Film, as the song was featured on the soundtrack to Cameron Crowe's 1992 film Singles.
-The album features dark subject matter, focusing primarily on depression, pain, anger, anti-social behavior, relationships, drug addiction (primarily heroin), war, death, and other emotionally charged topics. The track "Iron Gland" features Tom Araya from Slayer on vocals. Most of the music from the album was written by guitarist Jerry Cantrell, but for the first time vocalist Layne Staley wrote two songs by himself ("Hate to Feel" and "Angry Chair"), both also featuring Staley on guitar. 
-Retrospectively, the album has continued to receive acclaim, with Rolling Stone placing the album at No. 26 on its list of the “100 Greatest Metal Albums of All Time”. Dirt was included in the 2005 book 1001 Albums You Must Hear Before You Die. It was voted "Kerrang! Critic's Choice Album of the Year". Guitar World named Dirt as the best guitar album of 1992. Loudwire named it as one of the best metal albums of the 1990s, and Rolling Stone ranked it at No. 6 on its list of "50 Greatest Grunge Albums" in 2019.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dirt-remastered/157316517" >}}<br>

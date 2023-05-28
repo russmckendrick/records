@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="affinity-17746783.jpg" title="Affinity by Haken" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Affinity.exe (01:24)
 2. Initiate (04:16)
 3. 1985 (09:09)
@@ -41,10 +40,6 @@ styles: ["Progressive Metal"]
 16. Red Giant (06:06)
 17. The Endless Knot (05:50)
 18. Bound By Gravity (09:29)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}<br>

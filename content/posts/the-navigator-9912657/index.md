@@ -34,10 +34,9 @@ genres: ["Rock", "Funk / Soul", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-navigator-9912657.jpg" title="The Navigator by Hurray For The Riff Raff" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Act One
 2. Entrance
 3. Living In The City
@@ -52,10 +51,6 @@ styles: ["Indie Rock"]
 12. Settle
 13. Pa'Lante
 14. Finale
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-navigator/1181880598" >}}<br>

@@ -35,10 +35,9 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
 
-{{< img src="under-the-western-freeway-20th-anniversary-edition-11028998.jpg" title="Under The Western Freeway 20th Anniversary Edition by Grandaddy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Under The Western Freeway
 2. Nonphenomenal Lineage  (3:11)
 3. A.M. 180 (3:20)
@@ -60,10 +59,6 @@ styles: ["Lo-Fi", "Indie Rock"]
 19. Street Bunny (Fluffy Distortion Demo) (2:52)
 20. Bjork ELO Xanadu & The Birth Of Chartsengrafs (8:16)
 21. Laughing Stock (Revelation Demo) (6:03)
-
-<!-- section break -->
-
-
 
 
 

@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="closure-continuation-23687546.jpg" title="Closure / Continuation by Porcupine Tree" >}}
+Add this album to your library now.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Harridan (8:09)
 2. Of The New Day (4:43)
 3. Rats Return (5:40)
@@ -29,13 +31,6 @@ styles: ["Prog Rock"]
 5. Herd Culling (7:02)
 6. Walk The Plank (4:26)
 7. Chimera's Wreck (9:40)
-
-<!-- section break -->
-
-Add this album to your library now.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closure-continuation/1592522261" >}}<br>

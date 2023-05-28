@@ -22,10 +22,9 @@ genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
 
-{{< img src="tank-girl-original-soundtrack-from-the-united-artists-film-11824886.jpg" title="Tank Girl - Original Soundtrack From The United Artists Film by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ripper Sole (1:42)
 2. Army Of Me (3:56)
 3. Girl U Want (3:51)
@@ -38,10 +37,6 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 10. Thief (3:12)
 11. Aurora (4:03)
 12. Big Gun (3:54)
-
-<!-- section break -->
-
-
 
 
 

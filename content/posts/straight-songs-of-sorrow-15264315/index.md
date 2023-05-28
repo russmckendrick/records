@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="straight-songs-of-sorrow-15264315.jpg" title="Straight Songs Of Sorrow by Mark Lanegan" >}}
+Straight Songs of Sorrow is the twelfth and final studio album by American singer Mark Lanegan. It was released through Heavenly Recordings on May 8, 2020. The album was inspired by writing his memoir Sing Backwards and Weep, which was published April 28, 2020. It's his first solo album credited to simply Mark Lanegan, as opposed to Mark Lanegan Band, since 2013's Imitations, and the first one credited to Mark Lanegan that doesn't feature former collaborator Mike Johnson.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Wouldn't Want To Say
 2. Apples From A Tree
 3. This Game Of Love
@@ -50,15 +54,6 @@ styles: ["Alternative Rock"]
 13. Burying Ground
 14. At Zero Below
 15. Eden Lost And Found
-
-<!-- section break -->
-
-Straight Songs of Sorrow is the twelfth and final studio album by American singer Mark Lanegan. It was released through Heavenly Recordings on May 8, 2020. The album was inspired by writing his memoir Sing Backwards and Weep, which was published April 28, 2020. It's his first solo album credited to simply Mark Lanegan, as opposed to Mark Lanegan Band, since 2013's Imitations, and the first one credited to Mark Lanegan that doesn't feature former collaborator Mike Johnson.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011" >}}<br>

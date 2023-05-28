@@ -21,10 +21,13 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 ---
 
-{{< img src="so-tonight-that-i-might-see-10806771.jpg" title="So Tonight That I Might See by Mazzy Star" >}}
+Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot like Mazzy Star’s second album. Tambourines roll at tumbleweed tempos, a lap steel gently weeps, and Hope Sandoval sings with the fluid grace of a waking dream. The title track is a psychedelic swirl of feedback and gentle murmurs, and “Mary of Silence” goes even deeper into Doors-inspired drone rock. On “Fade into You,” Sandoval’s weary voice falls across acoustic strumming like velvet curtains brushing an empty dance floor.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fade Into You (4:55)
 2. Bells Ring (4:32)
 3. Mary Of Silence (6:02)
@@ -35,14 +38,6 @@ styles: ["Dream Pop", "Indie Rock", "Indie Pop", "Folk", "Alternative Rock"]
 8. Wasted (5:31)
 9. Into Dust (5:36)
 10. So Tonight That I Might See (7:19)
-
-<!-- section break -->
-
-Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot like Mazzy Star’s second album. Tambourines roll at tumbleweed tempos, a lap steel gently weeps, and Hope Sandoval sings with the fluid grace of a waking dream. The title track is a psychedelic swirl of feedback and gentle murmurs, and “Mary of Silence” goes even deeper into Doors-inspired drone rock. On “Fade into You,” Sandoval’s weary voice falls across acoustic strumming like velvet curtains brushing an empty dance floor.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808" >}}<br>

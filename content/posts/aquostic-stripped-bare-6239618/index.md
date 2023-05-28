@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="aquostic-stripped-bare-6239618.jpg" title="Aquostic Stripped Bare by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pictures Of Matchstick Men (3:37)
 2. Down The Dustpipe (2:41)
 3. Na Na Na (2:41)
@@ -49,10 +48,6 @@ styles: ["Acoustic"]
 20. Marguerita Time (3:20)
 21. Burning Bridges (3:46)
 22. Rock 'Till You Drop (2:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}<br>

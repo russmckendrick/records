@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-{{< img src="mankind-the-crafty-ape-3366120.jpg" title="(Mankind) The Crafty Ape by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chapter I (A Thread)
 2. Nothing (We Are)
 3. The Heart Of Every Country
@@ -50,10 +49,6 @@ styles: ["Post Rock", "Prog Rock"]
 16. Operation Mincemeat
 17. We'll Never Get Out Of This World Alive
 18. Faced With Complete Failure, Utter Defiance Is The Only Response
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mankind-the-crafty-ape/1600467205" >}}<br>

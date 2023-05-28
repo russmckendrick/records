@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="be-a-girl-13354225.jpg" title="Be A Girl by The Wannadies" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You And Me Song
 2. Might Be Stars
 3. Love In June
@@ -37,10 +36,6 @@ styles: ["Indie Rock"]
 9. Do It All The Time
 10. Dreamy Wednesdays
 11. Kid
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/be-a-girl/253726073" >}}<br>

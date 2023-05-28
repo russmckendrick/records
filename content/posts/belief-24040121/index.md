@@ -16,10 +16,14 @@ genres: ["Electronic"]
 styles: ["House"]
 ---
 
-{{< img src="belief-24040121.jpg" title="Belief by Belief" >}}
+The Process of Belief is the twelfth studio album by the American punk rock band Bad Religion. It was produced by its leaders Greg Graffin and Brett Gurewitz, and was released on January 22, 2002, through Epitaph Records. After touring in support of its previous studio album, The New America (2000), Gurewitz re-joined Bad Religion in 2001 after a seven-year hiatus. The band re-signed with Epitaph, and then began work on its first album for the label in over eight years. The album also marked the first album to feature Brooks Wackerman, who replaced former drummer Bobby Schayer.
+The Process of Belief was another huge success (debuting at #49 on the Billboard 200 chart) and it was well received by both critics and fans. The album has sold more than 220,000 units worldwide. The Process of Belief features one of Bad Religion's well-known songs "Sorrow", the band's first to chart in the US in six years, since "A Walk" (from 1996's The Gray Race). "Broken", "The Defense" and "Supersonic" also received radio airplay, but all failed to make any national chart (although "Broken" reached #125 on the UK Singles Chart).
+The album marked the return to the faster and more energetic songwriting style of Bad Religion's earlier albums, and many have compared it favorably to their past releases. Multiple songs of the album have become live staples of the band's shows, most notably "Sorrow".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Want to Be (4:05)
 2. Anx (3:07)
 3. Bayo (4:14)
@@ -31,15 +35,6 @@ styles: ["House"]
 9. Jung (4:45)
 10. Art of Love (2:45)
 11. Charch (2:07)
-
-<!-- section break -->
-
-The Process of Belief is the twelfth studio album by the American punk rock band Bad Religion. It was produced by its leaders Greg Graffin and Brett Gurewitz, and was released on January 22, 2002, through Epitaph Records. After touring in support of its previous studio album, The New America (2000), Gurewitz re-joined Bad Religion in 2001 after a seven-year hiatus. The band re-signed with Epitaph, and then began work on its first album for the label in over eight years. The album also marked the first album to feature Brooks Wackerman, who replaced former drummer Bobby Schayer.
-The Process of Belief was another huge success (debuting at #49 on the Billboard 200 chart) and it was well received by both critics and fans. The album has sold more than 220,000 units worldwide. The Process of Belief features one of Bad Religion's well-known songs "Sorrow", the band's first to chart in the US in six years, since "A Walk" (from 1996's The Gray Race). "Broken", "The Defense" and "Supersonic" also received radio airplay, but all failed to make any national chart (although "Broken" reached #125 on the UK Singles Chart).
-The album marked the return to the faster and more energetic songwriting style of Bad Religion's earlier albums, and many have compared it favorably to their past releases. Multiple songs of the album have become live staples of the band's shows, most notably "Sorrow".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/belief/1629118508" >}}<br>

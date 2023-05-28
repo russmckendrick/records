@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="out-of-silence-11093773.jpg" title="Out Of Silence by Neil Finn" >}}
+Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on August 25 culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous, and whimsical moments that often get deleted in the era of Pro Tools.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Is Emotional
 2. More Than One Of You
 3. Chameleon Days
@@ -40,14 +43,6 @@ styles: []
 8. The Law Is Always On Your Side
 9. Terrorise Me
 10. I Know Different
-
-<!-- section break -->
-
-Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on August 25 culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous, and whimsical moments that often get deleted in the era of Pro Tools.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-silence/1440901277" >}}<br>

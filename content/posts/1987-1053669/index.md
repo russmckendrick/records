@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
 
-{{< img src="1987-1053669.jpg" title="1987 by Whitesnake" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Still Of The Night
 2. Bad Boys
 3. Give Me All Your Love
@@ -35,10 +34,6 @@ styles: ["Hard Rock", "Arena Rock"]
 8. Straight From The Heart
 9. Dont Turn Away
 10. Children Of The Night
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-{{< img src="pajama-club-3165774.jpg" title="Pajama Club by Pajama Club" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tell Me What You Want (3:36)
 2. Can't Put It Down Until It Ends (3:52)
 3. These Are Conditions (2:38)
@@ -37,10 +36,6 @@ styles: ["New Wave", "Indie Rock"]
 9. TNT For 2 (4:34)
 10. The Game We Love To Play (3:42)
 11. Diamonds In Her Eyes (5:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pajama-club/693719180" >}}<br>

@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-{{< img src="album-of-the-year-9027018.jpg" title="Album Of The Year by Faith No More" >}}
+Album of the Year is the sixth studio album by American rock band Faith No More, released on June 3, 1997, by Slash and Reprise Records. It is the first album to feature the band's current guitarist Jon Hudson, and was their last studio album before their eleven-year hiatus from 1998 to 2009. The album has been described by AllMusic as being "more straightforward musically than past releases." It spawned three singles: "Ashes to Ashes", "Last Cup of Sorrow", and "Stripsearch".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Record One: Album Of The Year
 2. Collision (3:24)
 3. Stripsearch (4:31)
@@ -55,13 +57,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 20. The Big Kahuna (3:06)
 21. This Guy’s In Love With You (Live) (4:20)
 22. Collision (Live) (3:37)
-
-<!-- section break -->
-
-Album of the Year is the sixth studio album by American rock band Faith No More, released on June 3, 1997, by Slash and Reprise Records. It is the first album to feature the band's current guitarist Jon Hudson, and was their last studio album before their eleven-year hiatus from 1998 to 2009. The album has been described by AllMusic as being "more straightforward musically than past releases." It spawned three singles: "Ashes to Ashes", "Last Cup of Sorrow", and "Stripsearch".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/album-of-the-year/365629446" >}}<br>

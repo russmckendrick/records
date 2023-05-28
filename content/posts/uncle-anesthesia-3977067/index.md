@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="uncle-anesthesia-3977067.jpg" title="Uncle Anesthesia by Screaming Trees" >}}
+Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Beyond This Horizon (4:13)
 2. Bed Of Roses (3:02)
 3. Uncle Anesthesia (3:53)
@@ -37,13 +39,6 @@ styles: ["Alternative Rock"]
 11. Disappearing (3:12)
 12. Ocean Of Confusion (3:05)
 13. Closer (5:48)
-
-<!-- section break -->
-
-Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/uncle-anesthesia/268500515" >}}<br>

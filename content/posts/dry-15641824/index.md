@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="dry-15641824.jpg" title="Dry by PJ Harvey" >}}
+Dry is the debut studio album by the band PJ Harvey, fronted by English singer-songwriter and musician PJ Harvey, released on Too Pure Records on 30 March 1992. The album was recorded at The Icehouse, a local studio in Yeovil, United Kingdom. The first 5000 LPs and first 1000 CDs included demo versions of the album's tracks and Dry was subsequently released in the United States on Indigo Records in the US. Both versions were released in 1992. Dry was reissued on vinyl and CD in July 2020: an 11-track companion album collecting all of the demos titled Dry - Demos was also released on vinyl as a stand-alone record.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Oh My Lover (3:57)
 2. O Stella (2:36)
 3. Dress (3:18)
@@ -37,16 +42,6 @@ styles: ["Indie Rock"]
 9. Plants And Rags (4:08)
 10. Fountain (3:52)
 11. Water (4:32)
-
-<!-- section break -->
-
-Dry is the debut studio album by the band PJ Harvey, fronted by English singer-songwriter and musician PJ Harvey, released on Too Pure Records on 30 March 1992. The album was recorded at The Icehouse, a local studio in Yeovil, United Kingdom. The first 5000 LPs and first 1000 CDs included demo versions of the album's tracks and Dry was subsequently released in the United States on Indigo Records in the US. Both versions were released in 1992. Dry was reissued on vinyl and CD in July 2020: an 11-track companion album collecting all of the demos titled Dry - Demos was also released on vinyl as a stand-alone record.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dry/1450131752" >}}<br>

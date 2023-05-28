@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="schmilco-9013976.jpg" title="Schmilco by Wilco" >}}
+A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Normal American Kids
 2. If I Ever Was A Child
 3. Cry All Day
@@ -38,13 +40,6 @@ styles: ["Alternative Rock"]
 10. Shrug And Destroy
 11. We Aren't The World (Safety Girl)
 12. Just Say Goodbye
-
-<!-- section break -->
-
-A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}<br>

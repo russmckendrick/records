@@ -20,10 +20,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Rock & Roll"]
 ---
 
-{{< img src="johnny-cash-at-san-quentin-7478564.jpg" title="Johnny Cash At San Quentin by Johnny Cash" >}}
+Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wanted Man
 2. Wreck Of The Old 97
 3. I Walk The Line
@@ -34,13 +36,6 @@ styles: ["Country", "Rock & Roll"]
 8. A Boy Named Sue
 9. (There'll Be) Peace In The Valley
 10. Folsom Prison Blues
-
-<!-- section break -->
-
-Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at-san-quentin-live/824812884" >}}<br>

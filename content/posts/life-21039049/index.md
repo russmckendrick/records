@@ -23,10 +23,14 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="life-21039049.jpg" title="Life by Inspiral Carpets" >}}
+Life is the first studio album by the British indie rock band Inspiral Carpets. It was released on 23 April 1990 by Cow Records, through Mute Records, during the period dubbed Madchester by the British media. The group released three singles from this album: "Move", "This Is How It Feels" and "She Comes in the Fall", with the latter two in different versions from those found on the album.
+It was reissued in 2013 with the PlaneCrash and TrainSurfing EPs and an unreleased John Peel session as bonus tracks, plus the 21790 live video on a bonus DVD. The 2013 reissue is based on the original UK CD release.
+A slightly modified version of Life was released in North America. It dropped the track "Besides Me" and added "Commercial Rain" (a re-recorded version of a B-side to the "Joe" single) and three tracks from their then-forthcoming Island Head EP.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Real Thing
 2. Song For A Family
 3. This Is How It Feels
@@ -39,15 +43,6 @@ styles: ["Indie Pop"]
 10. Sun Don't Shine
 11. Inside My Head
 12. Sackville
-
-<!-- section break -->
-
-Life is the first studio album by the British indie rock band Inspiral Carpets. It was released on 23 April 1990 by Cow Records, through Mute Records, during the period dubbed Madchester by the British media. The group released three singles from this album: "Move", "This Is How It Feels" and "She Comes in the Fall", with the latter two in different versions from those found on the album.
-It was reissued in 2013 with the PlaneCrash and TrainSurfing EPs and an unreleased John Peel session as bonus tracks, plus the 21790 live video on a bonus DVD. The 2013 reissue is based on the original UK CD release.
-A slightly modified version of Life was released in North America. It dropped the track "Besides Me" and added "Commercial Rain" (a re-recorded version of a B-side to the "Joe" single) and three tracks from their then-forthcoming Island Head EP.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life-extended-edition/1193777299" >}}<br>

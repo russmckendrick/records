@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-{{< img src="in-it-for-the-money-19975111.jpg" title="In It For The Money by Supergrass" >}}
+In It for the Money is the second studio album by English alternative rock band Supergrass, released in 1997. NME called it "more fun than watching a wombat in a washing machine" and named it the 10th best album of the year. In 1998, Q readers voted it the 68th greatest album of all time, while in 2000 the same magazine placed it at number 57 in its list of the 100 Greatest British Albums Ever.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In It For The Money
 2. Richard III
 3. Tonight
@@ -41,13 +43,6 @@ styles: ["Britpop", "Indie Rock"]
 12. Sometimes I Make You Sad
 13. The Animal
 14. BRA Sun Hits The Sky mix
-
-<!-- section break -->
-
-In It for the Money is the second studio album by English alternative rock band Supergrass, released in 1997. NME called it "more fun than watching a wombat in a washing machine" and named it the 10th best album of the year. In 1998, Q readers voted it the 68th greatest album of all time, while in 2000 the same magazine placed it at number 57 in its list of the 100 Greatest British Albums Ever.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money/695598956" >}}<br>

@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
 
-{{< img src="but-seriously-folks-1673433.jpg" title="But Seriously, Folks... by Joe Walsh" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Over And Over (4:52)
 2. Second Hand Store (3:36)
 3. Indian Summer (3:03)
@@ -37,10 +36,6 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 6. Inner Tube (1:25)
 7. Theme From Boat Weirdos (4:44)
 8. Life's Been Good (8:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}<br>

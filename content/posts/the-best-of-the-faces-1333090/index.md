@@ -23,10 +23,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="the-best-of-the-faces-1333090.jpg" title="The Best Of The Faces by Faces" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Flying (4:10)
 2. Around The Plynth (5:45)
 3. Nobody Knows (4:04)
@@ -47,10 +46,6 @@ styles: []
 18. Pool Hall Richard (4:26)
 19. You Can Make Me Dance, Sing Or Anything (4:29)
 20. It's All Over Now (6:23)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-faces-good-boys-when-theyre-asleep/56208331" >}}<br>

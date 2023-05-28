@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="before-the-grey-lantern-26854388.jpg" title="Before The Grey Lantern by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Take It Easy Chicken
 2. Flourella
 3. The Greatest Pain
@@ -39,10 +38,6 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 12. Drastic Sturgeon
 13. Moronica
 14. The Most To Gain
-
-<!-- section break -->
-
-
 
 
 

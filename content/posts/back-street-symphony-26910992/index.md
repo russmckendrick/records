@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="back-street-symphony-26910992.jpg" title="Back Street Symphony by Thunder" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She's So Fine
 2. Dirty Love
 3. Don't Wait For Me
@@ -36,10 +35,6 @@ styles: ["Hard Rock", "Classic Rock"]
 12. She's So Fine (Live At Marquee London, 2002)
 13. Until My Dying Day (Live At Marquee London, 2002)
 14. Gimme Some Lovin' (Live At Nottingham Rock City, 2008)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/backstreet-symphony/693198536" >}}<br>

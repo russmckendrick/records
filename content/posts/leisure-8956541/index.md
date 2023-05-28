@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="leisure-8956541.jpg" title="Leisure by Blur" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She's So High
 2. Bang
 3. Slow Down
@@ -38,10 +37,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. High Cool
 11. Birthday
 12. Wear Me Down
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leisure-special-edition/699689006" >}}<br>

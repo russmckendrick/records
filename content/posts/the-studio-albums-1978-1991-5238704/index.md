@@ -45,10 +45,9 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="the-studio-albums-1978-1991-5238704.jpg" title="The Studio Albums 1978 - 1991 by Dire Straits" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dire Straits
 2. Down To The Waterline
 3. Water Of Love
@@ -106,10 +105,6 @@ styles: ["Classic Rock"]
 55. My Parties
 56. Planet Of New Orleans
 57. How Long
-
-<!-- section break -->
-
-
 
 
 

@@ -18,10 +18,12 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["New Jack Swing"]
 ---
 
-{{< img src="don-t-be-cruel-768752.jpg" title="Don't Be Cruel by Bobby Brown" >}}
+With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a teen idol into a seductive crooner with a rapper’s brash self-confidence. Overseen by producers Babyface and L.A. Reid, “Don’t Be Cruel” and the unapologetic “My Prerogative” pair Brown’s sneering-but-sexy attitude with hip-hop’s rugged breakbeats. Even the slow jams—“Roni,” “Rock Wit’cha”—conceal sharpness beneath Brown’s smooth delivery. Rap, pop, and soul converge on “Every Little Step,” a dazzling hit that proves R&B doesn’t have to be corny to be catchy.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cruel Prelude (0:39)
 2. Don't Be Cruel (6:52)
 3. My Prerogative (4:57)
@@ -33,13 +35,6 @@ styles: ["New Jack Swing"]
 9. All Day All Night (4:40)
 10. I Really Love You Girl (5:11)
 11. Cruel Reprise (0:18)
-
-<!-- section break -->
-
-With 1988’s <i>Don’t Be Cruel</i>, Bobby Brown transformed himself from a teen idol into a seductive crooner with a rapper’s brash self-confidence. Overseen by producers Babyface and L.A. Reid, “Don’t Be Cruel” and the unapologetic “My Prerogative” pair Brown’s sneering-but-sexy attitude with hip-hop’s rugged breakbeats. Even the slow jams—“Roni,” “Rock Wit’cha”—conceal sharpness beneath Brown’s smooth delivery. Rap, pop, and soul converge on “Every Little Step,” a dazzling hit that proves R&B doesn’t have to be corny to be catchy.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-be-cruel/1440773569" >}}<br>

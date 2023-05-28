@@ -23,19 +23,6 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="usa-7465720.jpg" title="USA by King Crimson" >}}
-
-<!-- section break -->
-
-1. Larks' Tongues In Aspic Part II (6:45)
-2. Lament (4:05)
-3. Exiles (7:04)
-4. Asbury Park (6:50)
-5. Easy Money (6:32)
-6. 21st Century Schizoid Man (7:32)
-
-<!-- section break -->
-
 USA is a live album by the English band King Crimson, released in 1975. It was recorded at the Casino, Asbury Park, New Jersey, on 28 June 1974, except “21st Century Schizoid Man”, which was recorded at the Palace Theatre, Providence, Rhode Island, United States, on 30 June 1974. Violin and electric piano overdubs by Eddie Jobson were recorded at Olympic Studios, London in 1975.
 The live recording was performed by George Chkiantz and David Hewitt using the Record Plant Remote Truck. 
 “Asbury Park” and “Easy Money” were edited to about half their original lengths for the LP release. The unedited versions were released digitally on dgmlive.com in 2005, along with the rest of the show in original running order.
@@ -52,6 +39,14 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
         
     
 
+
+## Tracklisting
+1. Larks' Tongues In Aspic Part II (6:45)
+2. Lament (4:05)
+3. Exiles (7:04)
+4. Asbury Park (6:50)
+5. Easy Money (6:32)
+6. 21st Century Schizoid Man (7:32)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>

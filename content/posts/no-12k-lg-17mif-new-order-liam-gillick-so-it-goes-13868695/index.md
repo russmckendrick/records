@@ -31,10 +31,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ---
 
-{{< img src="no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-13868695.jpg" title="∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.. by New Order" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Times Change
 2. Who's Joe
 3. Dream Attack
@@ -55,10 +54,6 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 18. Elegia
 19. Heart And Soul
 20. Behind Closed Doors
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-live-at-mif/1462511115" >}}<br>

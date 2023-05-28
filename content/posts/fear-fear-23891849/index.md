@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Acid House", "New Wave", "Post-Punk"]
 ---
 
-{{< img src="fear-fear-23891849.jpg" title="Fear Fear by Working Men's Club" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 19 (5:48)
 2. Fear Fear (4:26)
 3. Widow (3:55)
@@ -35,10 +34,6 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 8. Heart Attack (4:51)
 9. Money Is Mine (4:06)
 10. The Last One (7:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-fear/1607961392" >}}<br>

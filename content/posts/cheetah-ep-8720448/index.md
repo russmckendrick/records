@@ -26,10 +26,12 @@ genres: ["Electronic"]
 styles: ["Techno", "IDM"]
 ---
 
-{{< img src="cheetah-ep-8720448.jpg" title="Cheetah EP by Aphex Twin" >}}
+After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Program
 2. CheetahT2 (Ld Spectrum)
 3. CheetahT7b
@@ -38,13 +40,6 @@ styles: ["Techno", "IDM"]
 6. Function
 7. Cirklon3 (Колхозная Mix)
 8. Cirklon1
-
-<!-- section break -->
-
-After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cheetah-ep/1121631291" >}}<br>

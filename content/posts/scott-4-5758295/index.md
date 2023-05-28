@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
 
-{{< img src="scott-4-5758295.jpg" title="Scott 4 by Scott Walker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Seventh Seal
 2. On Your Own Again
 3. The World's Strongest Man
@@ -36,10 +35,6 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 8. Duchess
 9. Get Behind Me
 10. Rhymes Of Goodbye
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scott-4/1443533039" >}}<br>

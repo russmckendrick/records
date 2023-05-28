@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 ---
 
-{{< img src="hours-7102156.jpg" title="Hours... by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Thursday's Child (5:22)
 2. Something In The Air (5:46)
 3. Survive (4:11)
@@ -36,10 +35,6 @@ styles: ["Art Rock", "Synth-pop", "Alternative Rock"]
 8. New Angels Of Promise (4:37)
 9. Brilliant Adventure (1:52)
 10. The Dreamers (5:13)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}<br>

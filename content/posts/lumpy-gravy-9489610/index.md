@@ -20,15 +20,6 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Musique Concrète", "Psychedelic Rock", "Avantgarde", "Classical"]
 ---
 
-{{< img src="lumpy-gravy-9489610.jpg" title="Lumpy Gravy by Frank Zappa" >}}
-
-<!-- section break -->
-
-1. Lumpy Gravy-Part I (15:45)
-2. Lumpy Gravy-Part II (15:56)
-
-<!-- section break -->
-
 Lumpy Gravy is the debut solo album by Frank Zappa, written by Zappa and performed by a group of session players he dubbed the Abnuceals Emuukha Electric Symphony Orchestra. Zappa conducted the orchestra but did not perform on the album. It is his third album overall: his previous releases had been under the name of his group, the Mothers of Invention.
 It was commissioned and briefly released, on August 7, 1967, by Capitol Records in the 4-track Stereo-Pak format only and then withdrawn due to a lawsuit from MGM Records. MGM claimed that the album violated Zappa's contract with their subsidiary, Verve Records. In 1968 it was reedited and released by MGM's Verve Records on May 13, 1968. The final version of the album consisted of two musique concrète pieces that combined elements from the original orchestral performance with elements of surf music and the spoken word. It was praised for its music and editing.
 Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gravy as the second part of a conceptual continuity that later included his final album, Civilization Phaze III.
@@ -37,6 +28,10 @@ Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gra
     
     
 
+
+## Tracklisting
+1. Lumpy Gravy-Part I (15:45)
+2. Lumpy Gravy-Part II (15:56)
 
 
 ## Spotify

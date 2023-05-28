@@ -34,10 +34,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
 
-{{< img src="green-mind-14193595.jpg" title="Green Mind by Dinosaur Jr." >}}
+Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., released in 1991. It was the band's first release after bassist Lou Barlow's departure, as well as the first released by a major label. The record is close to being a J Mascis solo album: he played most of the instruments, with founding drummer Murph only featuring on three tracks (1, 7 and 9).The cover photograph, Priscilla, Jones Beach, 1969, is by Joseph Szabo and taken from his book of photographs Almost Grown.
+"Turnip Farm" is also featured in the film Reality Bites.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Wagon
 2. Puke + Cry
 3. Blowing It
@@ -59,14 +62,6 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 19. Keep The Glove (Live)
 20. The Lung (Live)
 21. The Post (Live)
-
-<!-- section break -->
-
-Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., released in 1991. It was the band's first release after bassist Lou Barlow's departure, as well as the first released by a major label. The record is close to being a J Mascis solo album: he played most of the instruments, with founding drummer Murph only featuring on three tracks (1, 7 and 9).The cover photograph, Priscilla, Jones Beach, 1969, is by Joseph Szabo and taken from his book of photographs Almost Grown.
-"Turnip Farm" is also featured in the film Reality Bites.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/green-mind-expanded-edition/1478820383" >}}<br>

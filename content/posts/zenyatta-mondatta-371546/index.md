@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="zenyatta-mondatta-371546.jpg" title="Zenyatta Mondatta by The Police" >}}
+Zenyatta Mondatta (stylised as Zenyattà Mondatta on the album cover artwork) is the third studio album by English rock band the Police, released on 3 October 1980 by A&M Records. It was co-produced by the band and Nigel Gray.
+Zenyatta Mondatta reached number one on the UK Albums Chart and number five on the US Billboard 200. It produced the hit singles "Don't Stand So Close to Me" and "De Do Do Do, De Da Da Da". The album won the band two Grammy Awards: Best Rock Performance by a Duo or Group with Vocal for "Don't Stand So Close to Me" and Best Rock Instrumental Performance for "Behind My Camel".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Stand So Close To Me (4:03)
 2. Driven To Tears (3:21)
 3. When The World Is Running Down, You Make The Best Of What's Still Around (3:33)
@@ -36,14 +39,6 @@ styles: ["New Wave"]
 9. Man In A Suitcase (2:15)
 10. Shadows In The Rain (5:09)
 11. The Other Way Of Stopping (3:21)
-
-<!-- section break -->
-
-Zenyatta Mondatta (stylised as Zenyattà Mondatta on the album cover artwork) is the third studio album by English rock band the Police, released on 3 October 1980 by A&M Records. It was co-produced by the band and Nigel Gray.
-Zenyatta Mondatta reached number one on the UK Albums Chart and number five on the US Billboard 200. It produced the hit singles "Don't Stand So Close to Me" and "De Do Do Do, De Da Da Da". The album won the band two Grammy Awards: Best Rock Performance by a Duo or Group with Vocal for "Don't Stand So Close to Me" and Best Rock Instrumental Performance for "Behind My Camel".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146" >}}<br>

@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="how-to-replace-it-26119412.jpg" title="How To Replace It by dEUS" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. How To Replace It
 2. Must Have Been New
 3. Man Of The House
@@ -45,10 +44,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Why Think It Over (Cadillac)
 11. Love Breaks Down
 12. Le Blues Polaire
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-replace-it/1650427627" >}}<br>

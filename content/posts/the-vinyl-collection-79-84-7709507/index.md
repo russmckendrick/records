@@ -17,10 +17,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="the-vinyl-collection-79-84-7709507.jpg" title="The Vinyl Collection 79-84  by Simple Minds" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Life In A Day
 2. Someone
 3. Life In A Day
@@ -94,10 +93,6 @@ styles: []
 71. "C" Moon Cry Like A Baby
 72. The Kick Inside Of Me
 73. Shake Off The Ghosts
-
-<!-- section break -->
-
-
 
 
 

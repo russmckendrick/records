@@ -52,10 +52,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-rolling-stones-in-mono-9147559.jpg" title="The Rolling Stones In Mono by The Rolling Stones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Rolling Stones
 2. Route 66
 3. I Just Want To Make Love To You
@@ -257,10 +256,6 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 199. Street Fighting Man (Single Version)
 200. Honky Tonk Women
 201. You Can't Always Get What You Want (Single Version)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="on-the-level-7578679.jpg" title="On The Level by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Little Lady (3:05)
 2. Most Of The Time (3:21)
 3. I Saw The Light (3:55)
@@ -30,10 +29,6 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 8. What To Do (3:15)
 9. Where I Am (3:10)
 10. Bye Bye Johnny (4:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-level/1443160113" >}}<br>

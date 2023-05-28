@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Britpop"]
 ---
 
-{{< img src="coming-up-5410320.jpg" title="Coming Up by Suede" >}}
+Coming Up is the third album by English alternative rock band Suede, released on 2 September 1996 through Nude Records. It was the band's first album since the departure of guitarist Bernard Butler, who was replaced by Richard Oakes. Also added to the band was keyboardist (and Simon Gilbert's cousin) Neil Codling. The album was nominated for the 1997 Mercury Prize. A commercial and critical success, Coming Up was the second by the band to reach no. 1 on the UK Albums Chart, producing five top ten singles and receiving a favourable reception at home and in the US. Coming Up was the album that introduced Suede to a worldwide audience, in places such as Europe, Canada and Asia.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Trash (4:06)
 2. Filmstar (3:25)
 3. Lazy (3:19)
@@ -36,14 +39,6 @@ styles: ["Alternative Rock", "Glam", "Britpop"]
 8. Picnic By The Motorway (4:45)
 9. The Chemistry Between Us (7:04)
 10. Saturday Night (4:32)
-
-<!-- section break -->
-
-Coming Up is the third album by English alternative rock band Suede, released on 2 September 1996 through Nude Records. It was the band's first album since the departure of guitarist Bernard Butler, who was replaced by Richard Oakes. Also added to the band was keyboardist (and Simon Gilbert's cousin) Neil Codling. The album was nominated for the 1997 Mercury Prize. A commercial and critical success, Coming Up was the second by the band to reach no. 1 on the UK Albums Chart, producing five top ten singles and receiving a favourable reception at home and in the US. Coming Up was the album that introduced Suede to a worldwide audience, in places such as Europe, Canada and Asia.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-up-remastered-deluxe-edition/437633399" >}}<br>

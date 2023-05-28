@@ -22,10 +22,9 @@ genres: ["Hip Hop"]
 styles: ["Cut-up/DJ", "Turntablism"]
 ---
 
-{{< img src="conquest-14537072.jpg" title="Conquest by Mix Master Mike" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Conquest
 2. Emag Revo (1:35)
 3. Drumz of Deth (1:30)
@@ -67,10 +66,6 @@ styles: ["Cut-up/DJ", "Turntablism"]
 39. V-D (Conquest Mix) (2:07)
 40. Outro (Conquest Mix) (4:04)
 41. MMM Sound Mag (Conquest Mix) (4:23)
-
-<!-- section break -->
-
-
 
 
 

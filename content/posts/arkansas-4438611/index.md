@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="arkansas-4438611.jpg" title="Arkansas by Glen Campbell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Arkansas
 2. I Will Never Pass This Way Again
 3. Both Sides Now
@@ -33,10 +32,6 @@ styles: ["Country"]
 8. It's Over
 9. You've Still Got A Place In My Heart
 10. You'll Never Walk Alone
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/arkansas/714727780" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat", "Industrial"]
 ---
 
-{{< img src="this-is-the-day-this-is-the-hour-this-is-this-664486.jpg" title="This Is The Day...This Is The Hour...This Is This! by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. PWEI Is A Four Letter Word (1:12)
 2. Preaching To The Perverted (4:16)
 3. Wise Up! Sucker (3:17)
@@ -40,10 +39,6 @@ styles: ["Breakbeat", "Industrial"]
 12. Satellite Ecstatica (4:37)
 13. Not Now James, We're Busy (3:08)
 14. Wake Up! Time To Die... (7:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-the-day-this-is-the-hour-this-is-this/478281843" >}}<br>

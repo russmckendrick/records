@@ -30,10 +30,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alternative Rock", "Dub"]
 ---
 
-{{< img src="the-singles-collection-1979-2012-16415823.jpg" title="The Singles Collection 1979-2012 by Killing Joke" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Nervous System
 2. Wardance
 3. Requiem
@@ -67,10 +66,6 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 31. Ghosts Of Ladbroke Grove (Dub Edit)
 32. In Cythera (Edit)
 33. Corporate Elect
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles-collection-1979-2012/1442469562" >}}<br>

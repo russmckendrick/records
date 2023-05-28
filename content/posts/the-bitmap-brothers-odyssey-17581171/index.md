@@ -21,10 +21,9 @@ genres: ["Stage & Screen"]
 styles: ["Video Game Music"]
 ---
 
-{{< img src="the-bitmap-brothers-odyssey-17581171.jpg" title="The Bitmap Brothers: Odyssey by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Xenon, Theme
 2. Speedball, Theme
 3. Xenon 2: Megablast, Megablast (Hip Hop On Precinct 13)
@@ -39,10 +38,6 @@ styles: ["Video Game Music"]
 12. The Chaos Engine 2, Theme
 13. The Chaos Engine 2, Future World
 14. Z (Demo), Volcanic
-
-<!-- section break -->
-
-
 
 
 

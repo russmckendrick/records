@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="rearviewmirror-greatest-hits-1991-2003-volume-2-22421110.jpg" title="Rearviewmirror (Greatest Hits 1991-2003: Volume 2) by Pearl Jam" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black (2004 Mix)
 2. Breath
 3. Daughter
@@ -52,10 +51,6 @@ styles: ["Alternative Rock", "Grunge"]
 15. I Am Mine
 16. Man Of The Hour
 17. Yellow Ledbetter
-
-<!-- section break -->
-
-
 
 
 

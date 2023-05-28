@@ -19,10 +19,9 @@ genres: ["Reggae"]
 styles: ["Reggae", "Ska"]
 ---
 
-{{< img src="peculiar-13689689.jpg" title="Peculiar by The Slackers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. First Act
 2. 86 The Mayo
 3. Peculiar
@@ -40,10 +39,6 @@ styles: ["Reggae", "Ska"]
 15. Encore 7"
 16. Rider
 17. Propaganda Dub
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peculiar/1485051101" >}}<br>

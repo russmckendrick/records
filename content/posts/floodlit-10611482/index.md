@@ -17,18 +17,13 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="floodlit-10611482.jpg" title="Floodlit by Pijn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dumbstruck & Floodlit (8:23)
 2. Hazel (2:29)
 3. Cassandra (1:37)
 4. Lacquer (7:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/floodlit-ep/1540744493" >}}<br>

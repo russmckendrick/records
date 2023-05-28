@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-{{< img src="extreme-16250003.jpg" title="Extreme by Extreme" >}}
+Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Little Girls (3:45)
 2. Wind Me Up (3:35)
 3. Kid Ego (4:02)
@@ -32,14 +35,6 @@ styles: ["Funk Metal"]
 8. Smoke Signals (4:13)
 9. Flesh N' Blood (3:30)
 10. Rock A Bye Bye (5:55)
-
-<!-- section break -->
-
-Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}<br>

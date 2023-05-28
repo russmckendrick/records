@@ -23,10 +23,12 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ska"]
 ---
 
-{{< img src="wonderful-23052995.jpg" title="Wonderful by Madness" >}}
+Wonderful is the seventh studio album by the British band Madness, released on 1 November 1999. It was the band's first studio album in fourteen years since Mad Not Mad in 1985, and also the first to feature their classic seven-piece line-up since 1984's Keep Moving. The album saw Madness reunite with their original production team, Clive Langer and Alan Winstanley, who had produced all of the band's previous work.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lovestruck
 2. Johnny The Horse
 3. The Communicator
@@ -38,13 +40,6 @@ styles: ["Pop Rock", "Ska"]
 9. Saturday Night, Sunday Morning
 10. If I Didn't Care
 11. No Money
-
-<!-- section break -->
-
-Wonderful is the seventh studio album by the British band Madness, released on 1 November 1999. It was the band's first studio album in fourteen years since Mad Not Mad in 1985, and also the first to feature their classic seven-piece line-up since 1984's Keep Moving. The album saw Madness reunite with their original production team, Clive Langer and Alan Winstanley, who had produced all of the band's previous work.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wonderful/1208794317" >}}<br>

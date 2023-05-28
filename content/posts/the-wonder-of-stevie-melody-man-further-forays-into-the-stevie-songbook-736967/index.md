@@ -16,10 +16,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
 
-{{< img src="the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967.jpg" title="The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook) by DJ Spinna" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Perfect Angel
 2. It's A Shame
 3. Let's Get Serious
@@ -30,10 +29,6 @@ styles: ["Soul", "Funk", "Disco"]
 8. Loving You Is Sweeter Than Ever
 9. Tears Of A Clown
 10. Too High
-
-<!-- section break -->
-
-
 
 
 

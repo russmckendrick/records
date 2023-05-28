@@ -27,10 +27,12 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic", "Soft Rock"]
 ---
 
-{{< img src="altitude-23202755.jpg" title="Altitude  by ALT" >}}
+Altitude was the only studio album to date released by ALT, the grouping of Tim Finn, Andy White & Liam O'Moanlai. Also released was a live recording simply called Bootleg.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Side One 
 2. We're All Men
 3. Penelope Tree
@@ -53,13 +55,6 @@ styles: ["Acoustic", "Soft Rock"]
 20. Girlfriend Guru ( alt version)
 21. Mandala (alt version)
 22. The Glad Eyed Maid 
-
-<!-- section break -->
-
-Altitude was the only studio album to date released by ALT, the grouping of Tim Finn, Andy White & Liam O'Moanlai. Also released was a live recording simply called Bootleg.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/altitude/1613772562" >}}<br>

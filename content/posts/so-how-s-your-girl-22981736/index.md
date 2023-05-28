@@ -26,10 +26,9 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ---
 
-{{< img src="so-how-s-your-girl-22981736.jpg" title="So... How's Your Girl? by Handsome Boy Modeling School" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rock N' Roll (Could Never Hip Hop Like This) (4:21)
 2. Magnetizing (6:10)
 3. Metaphysical (3:25)
@@ -46,10 +45,6 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 14. The Runway Song (4:48)
 15. Megaton B-Boy 2000 (4:57)
 16. Father Speaks (1:27)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so-hows-your-girl/1607689963" >}}<br>

@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="frank-black-13452156.jpg" title="Frank Black by Frank Black" >}}
+Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.
+The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Los Angeles
 2. I Heard Ramona Sing
 3. Hang On To Your Ego
@@ -43,14 +46,6 @@ styles: ["Indie Rock"]
 13. Adda Lee
 14. Every Time I Go Around Here
 15. Don't Ya Rile 'Em
-
-<!-- section break -->
-
-Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.
-The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bonnie-clyde-original-broadway-cast-recording/1664559020" >}}<br>

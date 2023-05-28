@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="english-electric-part-one-14252474.jpg" title="English Electric Part One by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The First Rebreather (8:31)
 2. Uncle Jack (3:50)
 3. Winchester From St. Giles' Hill (7:20)
@@ -38,10 +37,6 @@ styles: ["Prog Rock"]
 8. Hedgerow (8:55)
 9. Seen Better Days (The Brass Band's Final Piece) (4:48)
 10. East Coast Racer (Live At King's Place, London August 2015) (17:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-one/558027300" >}}<br>

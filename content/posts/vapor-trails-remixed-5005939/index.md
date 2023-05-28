@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-{{< img src="vapor-trails-remixed-5005939.jpg" title="Vapor Trails Remixed by Rush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. One Little Victory (5:09)
 2. Ceiling Unlimited (5:28)
 3. Ghost Rider (5:42)
@@ -42,10 +41,6 @@ styles: ["Prog Rock", "Hard Rock"]
 11. Nocturne (4:49)
 12. Freeze - Part IV Of "Fear" (6:22)
 13. Out Of The Cradle (5:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vapor-trails-remixed/708140941" >}}<br>

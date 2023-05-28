@@ -24,10 +24,12 @@ genres: ["Jazz", "Pop"]
 styles: ["Swing", "Vocal", "Easy Listening"]
 ---
 
-{{< img src="nothing-but-the-best-18726205.jpg" title="Nothing But The Best by Frank Sinatra" >}}
+The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects not only the most beloved tracks from Frank Sinatra's Reprise years, but also some of the best tunes in the entire American Songbook. Here, the singer's strutting enunciation injects extra pep into "The Way You Look Tonight," his inimitably cool voice expressing every ounce of the lyrics' joy. "The Girl from Ipanema," meanwhile, leaves the U.S. entirely, with the Chairman sliding gracefully down the bossa nova classic.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Come Fly With Me (3:14)
 2. The Best Is Yet To Come (2:56)
 3. The Way You Look Tonight (3:22)
@@ -51,13 +53,6 @@ styles: ["Swing", "Vocal", "Easy Listening"]
 21. Theme From New York, New York (3:25)
 22. Bonus Track
 23. Body And Soul (Previously Unissued) (4:20)
-
-<!-- section break -->
-
-The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects not only the most beloved tracks from Frank Sinatra's Reprise years, but also some of the best tunes in the entire American Songbook. Here, the singer's strutting enunciation injects extra pep into "The Way You Look Tonight," his inimitably cool voice expressing every ounce of the lyrics' joy. "The Girl from Ipanema," meanwhile, leaves the U.S. entirely, with the Chairman sliding gracefully down the bossa nova classic.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119" >}}<br>

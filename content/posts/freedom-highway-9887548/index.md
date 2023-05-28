@@ -22,10 +22,12 @@ genres: ["Jazz", "Blues", "Folk, World, & Country"]
 styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
 
-{{< img src="freedom-highway-9887548.jpg" title="Freedom Highway by Rhiannon Giddens" >}}
+Freedom Highway is the second solo studio album of Folk/Americana musician and Carolina Chocolate Drops front woman Rhiannon Giddens. It was released via Nonesuch Records on February 24, 2017. Freedom Highway was nominated for Album of the Year at the 2017 Americana Music Honors & Awards. The title track "Freedom Highway" is a 1965 civil rights protest song written by Roebuck Staples and title track of The Staple Singers' album of the same name.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. At The Purchaser's Option (4:16)
 2. The Angels Laid Him Away (2:31)
 3. Julie (4:28)
@@ -38,13 +40,6 @@ styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 10. Baby Boy (4:29)
 11. Following The North Star (1:56)
 12. Freedom Highway (4:47)
-
-<!-- section break -->
-
-Freedom Highway is the second solo studio album of Folk/Americana musician and Carolina Chocolate Drops front woman Rhiannon Giddens. It was released via Nonesuch Records on February 24, 2017. Freedom Highway was nominated for Album of the Year at the 2017 Americana Music Honors & Awards. The title track "Freedom Highway" is a 1965 civil rights protest song written by Roebuck Staples and title track of The Staple Singers' album of the same name.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/freedom-highway/1179556528" >}}<br>

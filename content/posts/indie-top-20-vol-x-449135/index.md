@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="indie-top-20-vol-x-449135.jpg" title="Indie Top 20 Vol X by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Groovy Train (Terry Farley Mix)
 2. Make It Mine
 3. All On You (Perfume)
@@ -48,10 +47,6 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 18. Everything Flows
 19. Precious Little
 20. Rent
-
-<!-- section break -->
-
-
 
 
 

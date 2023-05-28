@@ -24,10 +24,12 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="ghosts-of-west-virginia-15330013.jpg" title="Ghosts Of West Virginia by Steve Earle & The Dukes" >}}
+Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020 under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heaven Ain't Goin' Nowhere (1:39)
 2. Union, God And Country (2:23)
 3. Devil Put The Coal In The Ground (2:54)
@@ -38,13 +40,6 @@ styles: ["Country"]
 8. Black Lung (3:20)
 9. Fastest Man Alive (2:51)
 10. The Mine (2:48)
-
-<!-- section break -->
-
-Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020 under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368" >}}<br>

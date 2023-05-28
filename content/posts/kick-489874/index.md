@@ -31,25 +31,6 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="kick-489874.jpg" title="Kick by INXS" >}}
-
-<!-- section break -->
-
-1. Guns In The Sky (2:20)
-2. New Sensation (3:39)
-3. Devil Inside (5:11)
-4. Need You Tonight (3:04)
-5. Mediate (2:32)
-6. The Loved One (3:35)
-7. Wild Life (3:07)
-8. Never Tear Us Apart (3:02)
-9. Mystify (3:15)
-10. Kick (3:13)
-11. Calling All Nations (3:00)
-12. Tiny Daggers (3:29)
-
-<!-- section break -->
-
 <i>Guitarist Tim Farriss goes track by track on the album that changed INXS—and modern pop—forever.</i><br />
 It is easy, with the benefit of hindsight and history, to chart an artist’s commercial and creative evolution, to divide a long career into distinct periods and surmise how one led to another. But for the artists themselves, the experience is a blur, especially given the view from inside a wild, world-beating run like the one Aussie pop powerhouse INXS were on circa their fifth album, <i>Listen Like Thieves</i>, in 1985. “Each record was kind of an era for us that blended from one to the other,” guitarist Tim Farriss tells Apple Music. “We were just touring our nuts off. The world certainly knew who we were, and the fans and the general public wanted us to succeed. We could feel that sort of thing, and we knew what our strengths were.” Refining those strengths—namely, a preternatural talent for big-tent, danceable pop-rock anchored by slick, studio-polished grooves—meant maintaining continuity for <i>Kick</i>, which would become the biggest album of the band’s career, selling some 20 million copies worldwide and yielding four Top 10 singles in the US alone. Chris Thomas would again produce, and the songwriting would be carried by Tim’s brother Andrew and frontman Michael Hutchence, who was comfortably growing into the job of swaggering international sex symbol.<br />
 And to best wed those studio-polished grooves to the vibe of a tight live band that had played together for nearly a decade, they rehearsed the new songs at the iconic Sydney Opera House. “It felt like we were tourists,” Farriss remembers. “There was this aura of excitement and breaking out, but of course that meant we were stuck in this giant vacuum of energy and spiralling motion. I don't know how we fit it all in, when I look back. I don't know how we're still alive even.” Thirty-three years after his band’s most defining and enduring work, Farriss tells the stories behind each song below.<br />
@@ -79,6 +60,20 @@ And to best wed those studio-polished grooves to the vibe of a tight live band t
         
     
 
+
+## Tracklisting
+1. Guns In The Sky (2:20)
+2. New Sensation (3:39)
+3. Devil Inside (5:11)
+4. Need You Tonight (3:04)
+5. Mediate (2:32)
+6. The Loved One (3:35)
+7. Wild Life (3:07)
+8. Never Tear Us Apart (3:02)
+9. Mystify (3:15)
+10. Kick (3:13)
+11. Calling All Nations (3:00)
+12. Tiny Daggers (3:29)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kick-remastered/1440855131" >}}<br>

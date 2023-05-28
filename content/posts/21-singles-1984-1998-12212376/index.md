@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="21-singles-1984-1998-12212376.jpg" title="21 Singles 1984-1998 by The Jesus And Mary Chain" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Upside Down
 2. Never Understand
 3. You Trip Me Up
@@ -48,10 +47,6 @@ styles: ["Indie Rock"]
 19. I Hate Rock N Roll
 20. Cracking Up
 21. I Love Rock N Roll
-
-<!-- section break -->
-
-
 
 
 

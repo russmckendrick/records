@@ -25,10 +25,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="tomorrow-s-modern-boxes-11242541.jpg" title="Tomorrow's Modern Boxes by Thom Yorke" >}}
+The second solo album from Thom Yorke shares with its predecessor an exclusive reliance on keyboards and electronics to accompany the Radiohead frontman's haunting vocals. But <i>Tomorrow's Modern Boxes</i> is sparser and less groove-driven than <i>The Eraser</i>. While a couple of tunes are fueled by modified house beats, pieces like the beatless, ethereal instrumental "Pink Section" and the delicately floating "Interference" allow Yorke to achieve the kind of sonic simplicity that becomes difficult when you've got a whole band's ideas to contend with.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Brain In A Bottle
 2. Guess Again!
 3. Interference
@@ -37,13 +39,6 @@ styles: ["Alternative Rock"]
 6. There Is No Ice (For My Drink)
 7. Pink Section
 8. Nose Grows Some
-
-<!-- section break -->
-
-The second solo album from Thom Yorke shares with its predecessor an exclusive reliance on keyboards and electronics to accompany the Radiohead frontman's haunting vocals. But <i>Tomorrow's Modern Boxes</i> is sparser and less groove-driven than <i>The Eraser</i>. While a couple of tunes are fueled by modified house beats, pieces like the beatless, ethereal instrumental "Pink Section" and the delicately floating "Interference" allow Yorke to achieve the kind of sonic simplicity that becomes difficult when you've got a whole band's ideas to contend with.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tomorrows-modern-boxes/1262568019" >}}<br>

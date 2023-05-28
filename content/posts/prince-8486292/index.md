@@ -22,10 +22,14 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Disco", "Pop Rock"]
 ---
 
-{{< img src="prince-8486292.jpg" title="Prince by Prince" >}}
+Prince is the second studio album by American musician Prince. It was released on October 19, 1979 by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Wanna Be Your Lover (5:47)
 2. Why You Wanna Treat Me So Bad? (3:49)
 3. Sexy Dancer (4:18)
@@ -35,15 +39,6 @@ styles: ["Disco", "Pop Rock"]
 7. Still Waiting (4:24)
 8. I Feel For You (3:24)
 9. It's Gonna Be Lonely (5:30)
-
-<!-- section break -->
-
-Prince is the second studio album by American musician Prince. It was released on October 19, 1979 by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-prince/175020481" >}}<br>

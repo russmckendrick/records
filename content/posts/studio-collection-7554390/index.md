@@ -175,10 +175,9 @@ genres: ["Rock", "Pop"]
 styles: ["Arena Rock"]
 ---
 
-{{< img src="studio-collection-7554390.jpg" title="Studio Collection by Queen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Queen
 2. Keep Yourself Alive
 3. Doing All Right
@@ -365,10 +364,6 @@ styles: ["Arena Rock"]
 184. A Winter's Tale
 185. It's A Beautiful Day (Reprise)
 186. "13"
-
-<!-- section break -->
-
-
 
 
 

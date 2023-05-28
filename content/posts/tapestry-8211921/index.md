@@ -20,10 +20,16 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="tapestry-8211921.jpg" title="Tapestry by Carole King" >}}
+Tapestry is the second studio album by American singer-songwriter Carole King, released in 1971 on Ode Records and produced by Lou Adler. The lead singles from the album—"It's Too Late" and "I Feel the Earth Move"—spent five weeks at number one on both the Billboard Hot 100 and Easy Listening charts.
+Tapestry has been certified 14× Platinum by the Recording Industry Association of America in the US, and has sold an estimated 25 million copies worldwide, making it one of the best-selling albums of all time. In 2000, it attained number 74 in Colin Larkin's All Time Top 1000 Albums, and in 2020, it was ranked number 25 on Rolling Stone's list of the 500 greatest albums of all time. Tapestry won four Grammy Awards, including Album of the Year, Song of the Year and Record of the Year.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. I Feel the Earth Move
 2. So Far Away
 3. It's Too Late
@@ -38,17 +44,6 @@ styles: []
 12. Tapestry
 13. (You Make Me Feel Like) A Natural Woman
 14. Smackwater Jack (Previously Unreleased Live Version)
-
-<!-- section break -->
-
-Tapestry is the second studio album by American singer-songwriter Carole King, released in 1971 on Ode Records and produced by Lou Adler. The lead singles from the album—"It's Too Late" and "I Feel the Earth Move"—spent five weeks at number one on both the Billboard Hot 100 and Easy Listening charts.
-Tapestry has been certified 14× Platinum by the Recording Industry Association of America in the US, and has sold an estimated 25 million copies worldwide, making it one of the best-selling albums of all time. In 2000, it attained number 74 in Colin Larkin's All Time Top 1000 Albums, and in 2020, it was ranked number 25 on Rolling Stone's list of the 500 greatest albums of all time. Tapestry won four Grammy Awards, including Album of the Year, Song of the Year and Record of the Year.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tapestry/747087657" >}}<br>

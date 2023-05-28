@@ -21,10 +21,9 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="adventures-of-a-reluctant-superhero-13986143.jpg" title="Adventures Of A Reluctant Superhero by Chali 2NA" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Endtro
 2. Guard The Fort 
 3. Bruce 2na 
@@ -39,10 +38,6 @@ styles: []
 12. Stay Tuned
 13. Heartbroken
 14. Skillz
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068" >}}<br>

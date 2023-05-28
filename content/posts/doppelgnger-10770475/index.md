@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="doppelgnger-10770475.jpg" title="Doppelgänger by Curve" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Already Yours
 2. Horror Head
 3. Wish You Dead
@@ -30,10 +29,6 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 8. Think And Act
 9. Fait Accompli
 10. Sandpit
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}<br>

@@ -25,20 +25,15 @@ genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
 
-{{< img src="i-vigilante-7227518.jpg" title="I, Vigilante by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Troublemaker (8:32)
 2. We Forgotten Who We Are (10:46)
 3. Fantastic Justice (7:53)
 4. Bastogne Blues (11:59)
 5. Of A Lifetime (6:44)
 6. Burning Bridges (2:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-vigilante/1014625945" >}}<br>

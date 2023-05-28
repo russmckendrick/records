@@ -16,10 +16,9 @@ genres: ["Stage & Screen"]
 styles: ["Score", "Soundtrack"]
 ---
 
-{{< img src="the-long-good-friday-original-motion-picture-score-8597626.jpg" title="The Long Good Friday (Original Motion Picture Score) by Francis Monkman" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title
 2. Overture
 3. The Scene
@@ -32,10 +31,6 @@ styles: ["Score", "Soundtrack"]
 10. Fury
 11. Taken
 12. The Long Friday
-
-<!-- section break -->
-
-
 
 
 

@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 ---
 
-{{< img src="year-of-the-cat-774100.jpg" title="Year Of The Cat by Al Stewart" >}}
+Year of the Cat is the seventh studio album by Al Stewart, released in 1976. It was produced and engineered by Alan Parsons. Its sales helped by the hit single "Year of the Cat", co-written by Peter Wood and described by AllMusic as "one of those 'mysterious woman' songs", the album was a top five hit in the United States. The other single from the album was "On the Border". Stewart wrote "Lord Grenville" about the Elizabethan sailor and explorer Sir Richard Grenville (1542–1591).Stewart had all of the music and orchestration written and completely recorded before he even had a title for any of the songs. In a Canadian radio interview he stated that he has done this for six of his albums, and he often writes four different sets of lyrics for each song. The title track derives from a song Stewart wrote in 1966 called "Foot of the Stage" with prescient lyrics about Tony Hancock, one of Britain's favourite comedians who died by suicide two years later. When Stewart discovered that Hancock was not well known in the United States, he went back to his original title "Year of the Cat".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lord Grenville (5:00)
 2. On The Border (3:22)
 3. Midas Shadow (3:08)
@@ -35,14 +38,6 @@ styles: ["Pop Rock", "Soft Rock", "Art Rock"]
 7. Broadway Hotel (3:55)
 8. One Stage Before (4:39)
 9. Year Of The Cat (6:40)
-
-<!-- section break -->
-
-Year of the Cat is the seventh studio album by Al Stewart, released in 1976. It was produced and engineered by Alan Parsons. Its sales helped by the hit single "Year of the Cat", co-written by Peter Wood and described by AllMusic as "one of those 'mysterious woman' songs", the album was a top five hit in the United States. The other single from the album was "On the Border". Stewart wrote "Lord Grenville" about the Elizabethan sailor and explorer Sir Richard Grenville (1542–1591).Stewart had all of the music and orchestration written and completely recorded before he even had a title for any of the songs. In a Canadian radio interview he stated that he has done this for six of his albums, and he often writes four different sets of lyrics for each song. The title track derives from a song Stewart wrote in 1966 called "Foot of the Stage" with prescient lyrics about Tony Hancock, one of Britain's favourite comedians who died by suicide two years later. When Stewart discovered that Hancock was not well known in the United States, he went back to his original title "Year of the Cat".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/year-of-the-cat-remastered/695528177" >}}<br>

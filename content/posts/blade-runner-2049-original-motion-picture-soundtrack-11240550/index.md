@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ---
 
-{{< img src="blade-runner-2049-original-motion-picture-soundtrack-11240550.jpg" title="Blade Runner 2049 (Original Motion Picture Soundtrack) by Hans Zimmer" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 2049
 2. Sapper's Tree
 3. Flight to LAPD
@@ -51,10 +50,6 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 18. Tears In The Rain
 19. Blade Runner
 20. Almost Human
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Experimental", "Prog Rock"]
 ---
 
-{{< img src="opium-6666205.jpg" title="Opium by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction
 2. Reach For The Ground
 3. Love Is A Fool
@@ -33,10 +32,6 @@ styles: ["Experimental", "Prog Rock"]
 9. Jet Setter
 10. Love Is A Fool (Again)
 11. One More Hit
-
-<!-- section break -->
-
-
 
 
 

@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="the-mountain-17706778.jpg" title="The Mountain by Haken" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Path
 2. Atlas Stone
 3. Cockroach King
@@ -54,10 +53,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 20. Somebody (9:01)
 21. The Path Unbeaten (2:12)
 22. Nobody (4:53)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-mountain/1045392645" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="wish-25263778.jpg" title="Wish by The Cure" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Open
 2. High
 3. Apart
@@ -43,10 +42,6 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 10. Cut
 11. To Wish Impossible Things
 12. End
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wish-30th-anniversary-edition/1634667788" >}}<br>

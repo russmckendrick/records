@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="jailbreak-14698179.jpg" title="Jailbreak by Thin Lizzy" >}}
+"Jailbreak" is a song by Thin Lizzy that originally appeared as the title track on their 1976 album Jailbreak. Along with "The Boys Are Back in Town", it is one of their most popular songs, played frequently on classic rock radio.
+The song is typical of the band's music, with the dual lead guitar harmony and Brian Robertson's use of the wah-wah pedal.  Phil Lynott's lyrics about a prison break are the typical personification of the "tough guys", also seen in "The Boys Are Back in Town" and the regular concert closer and fan favourite "The Rocker". An alternate version of the song appeared on the bonus disc of the 2011 remastered deluxe edition of the Jailbreak album, featuring a short spoken introduction and additional guitar parts throughout.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Jailbreak
 2. Angel From The Coast
 3. Running Back
@@ -37,15 +41,6 @@ styles: ["Hard Rock", "Classic Rock"]
 7. Fight Or Fall
 8. Cowboy Song
 9. Emerald
-
-<!-- section break -->
-
-"Jailbreak" is a song by Thin Lizzy that originally appeared as the title track on their 1976 album Jailbreak. Along with "The Boys Are Back in Town", it is one of their most popular songs, played frequently on classic rock radio.
-The song is typical of the band's music, with the dual lead guitar harmony and Brian Robertson's use of the wah-wah pedal.  Phil Lynott's lyrics about a prison break are the typical personification of the "tough guys", also seen in "The Boys Are Back in Town" and the regular concert closer and fan favourite "The Rocker". An alternate version of the song appeared on the bonus disc of the 2011 remastered deluxe edition of the Jailbreak album, featuring a short spoken introduction and additional guitar parts throughout.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jailbreak/1440918303" >}}<br>

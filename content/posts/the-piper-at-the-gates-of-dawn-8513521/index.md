@@ -25,10 +25,18 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-piper-at-the-gates-of-dawn-8513521.jpg" title="The Piper At The Gates Of Dawn by Pink Floyd" >}}
+The Piper at the Gates of Dawn is the debut studio album by English rock band Pink Floyd, released on 5 August 1967 by EMI Columbia. It is the only Pink Floyd album made under the leadership of founding member Syd Barrett (lead vocals, guitar); he wrote all but three tracks, with additional composition by members Roger Waters (bass, vocals), Nick Mason (drums), and Richard Wright (keyboards, vocals). The album followed the band's influential performances at London's UFO Club and their early chart success with the 1967 non-album singles "Arnold Layne" and "See Emily Play".
+The album was recorded at EMI Studios in London's Abbey Road from February to May 1967 and produced by Norman Smith. It blended Pink Floyd's reputation for long-form improvisational pieces with Barrett's short pop songs and whimsical take on psychedelia. The album made prominent use of recording effects such as reverb and echo, employing tools like EMT plate reverberation, automatic double tracking (ADT), and Abbey Road's echo chamber. Part-way through the recording sessions, Barrett's growing use of the psychedelic drug LSD saw his mental state become increasingly debilitated, leading to his eventual departure from the group the following year. The album title was derived from chapter seven of Kenneth Grahame's 1908 children's novel The Wind in the Willows, a favourite of Barrett's.
+The album reached number 6 on the UK Charts. In the United States, it was released as Pink Floyd in October on Tower Records with an altered track listing that omitted three songs and included "See Emily Play". In the UK, no singles were released from the album, but in the US, "Flaming" was offered as a single. Two of its songs, "Astronomy Dominé" and "Interstellar Overdrive", became long-term mainstays of the band's live setlist, while other songs were performed live only a handful of times.  In 1973, The Piper at the Gates of Dawn was packaged with the band's second album A Saucerful of Secrets (1968) and released as A Nice Pair, to introduce the band's early work to new fans gained with the success of The Dark Side of the Moon (1973).
+The album has been hailed as a pivotal psychedelic music recording. Special limited editions of The Piper at the Gates of Dawn were issued to mark its thirtieth, fortieth, and fiftieth anniversaries, with the former two releases containing bonus tracks. In 2012, The Piper at the Gates of Dawn was placed at number 347 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time", and number 253 in the 2020 edition.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Astronomy Dominé
 2. Lucifer Sam
 3. Matilda Mother
@@ -40,19 +48,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 9. Chapter 24
 10. The Scarecrow
 11. Bike
-
-<!-- section break -->
-
-The Piper at the Gates of Dawn is the debut studio album by English rock band Pink Floyd, released on 5 August 1967 by EMI Columbia. It is the only Pink Floyd album made under the leadership of founding member Syd Barrett (lead vocals, guitar); he wrote all but three tracks, with additional composition by members Roger Waters (bass, vocals), Nick Mason (drums), and Richard Wright (keyboards, vocals). The album followed the band's influential performances at London's UFO Club and their early chart success with the 1967 non-album singles "Arnold Layne" and "See Emily Play".
-The album was recorded at EMI Studios in London's Abbey Road from February to May 1967 and produced by Norman Smith. It blended Pink Floyd's reputation for long-form improvisational pieces with Barrett's short pop songs and whimsical take on psychedelia. The album made prominent use of recording effects such as reverb and echo, employing tools like EMT plate reverberation, automatic double tracking (ADT), and Abbey Road's echo chamber. Part-way through the recording sessions, Barrett's growing use of the psychedelic drug LSD saw his mental state become increasingly debilitated, leading to his eventual departure from the group the following year. The album title was derived from chapter seven of Kenneth Grahame's 1908 children's novel The Wind in the Willows, a favourite of Barrett's.
-The album reached number 6 on the UK Charts. In the United States, it was released as Pink Floyd in October on Tower Records with an altered track listing that omitted three songs and included "See Emily Play". In the UK, no singles were released from the album, but in the US, "Flaming" was offered as a single. Two of its songs, "Astronomy Dominé" and "Interstellar Overdrive", became long-term mainstays of the band's live setlist, while other songs were performed live only a handful of times.  In 1973, The Piper at the Gates of Dawn was packaged with the band's second album A Saucerful of Secrets (1968) and released as A Nice Pair, to introduce the band's early work to new fans gained with the success of The Dark Side of the Moon (1973).
-The album has been hailed as a pivotal psychedelic music recording. Special limited editions of The Piper at the Gates of Dawn were issued to mark its thirtieth, fortieth, and fiftieth anniversaries, with the former two releases containing bonus tracks. In 2012, The Piper at the Gates of Dawn was placed at number 347 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time", and number 253 in the 2020 edition.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}<br>

@@ -24,18 +24,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-universe-also-collapses-13361745.jpg" title="The Universe Also Collapses  by Gong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Forever Reoccurring (20:37)
 2. If Never I'm And Ever You (2:07)
 3. My Sawtooth Wake (13:14)
 4. The Elemental (6:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-universe-also-collapses/1453425781" >}}<br>

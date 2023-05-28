@@ -29,10 +29,16 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="live-at-the-greek-5029933.jpg" title="Live At The Greek by Jimmy Page" >}}
+Live at the Greek: Excess All Areas is a double live album by Jimmy Page and the Black Crowes, released by musicmaker.com on 29 February 2000 and reissued by TVT Records on 4 July 2000.
+In October 1999, Page teamed up with the Crowes for a two-night performance of material from the Led Zeppelin catalogue and old blues and rock standards. "I didn't really have that much fun doing it," grumbled singer Chris Robinson. "It was alright, and Jimmy's a phenomenal guitarist, but to me it was just a job. I'm not a big fan of Robert Plant's lyrics or his singing, so that part of it was a little boring for me."Contractual problems with their record company prevented the Crowes issuing any of their own songs played at the Greek shows. Also featuring Page with the band, these included "Wiser Time", "No Speak No Slave", "Remedy", and "Hard to Handle".The double CD released in 2000 featured a different running order, an extra song, an enhanced QuickTime video and photographs taken during the concert. The Japanese version of the album adds "Misty Mountain Hop" and "In the Light", recorded in 2000.
+Bassist Sven Pipien, who was fired between the two different releases of the album, was airbrushed out of the group shot that features in the centrefold of the TVT Records version and all subsequent vinyl reissues. The original image appears on the musicmaker.com CD and can also be seen on a Jimmy Page blog.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Celebration Day
 2. Custard Pie
 3. Sick Again
@@ -53,17 +59,6 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 18. You Shook Me
 19. Out On The Tiles
 20. Whole Lotta Love
-
-<!-- section break -->
-
-Live at the Greek: Excess All Areas is a double live album by Jimmy Page and the Black Crowes, released by musicmaker.com on 29 February 2000 and reissued by TVT Records on 4 July 2000.
-In October 1999, Page teamed up with the Crowes for a two-night performance of material from the Led Zeppelin catalogue and old blues and rock standards. "I didn't really have that much fun doing it," grumbled singer Chris Robinson. "It was alright, and Jimmy's a phenomenal guitarist, but to me it was just a job. I'm not a big fan of Robert Plant's lyrics or his singing, so that part of it was a little boring for me."Contractual problems with their record company prevented the Crowes issuing any of their own songs played at the Greek shows. Also featuring Page with the band, these included "Wiser Time", "No Speak No Slave", "Remedy", and "Hard to Handle".The double CD released in 2000 featured a different running order, an extra song, an enhanced QuickTime video and photographs taken during the concert. The Japanese version of the album adds "Misty Mountain Hop" and "In the Light", recorded in 2000.
-Bassist Sven Pipien, who was fired between the two different releases of the album, was airbrushed out of the group shot that features in the centrefold of the TVT Records version and all subsequent vinyl reissues. The original image appears on the musicmaker.com CD and can also be seen on a Jimmy Page blog.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-greek/1252355548" >}}<br>

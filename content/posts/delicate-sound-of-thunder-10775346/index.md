@@ -28,10 +28,15 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="delicate-sound-of-thunder-10775346.jpg" title="Delicate Sound Of Thunder by Pink Floyd" >}}
+Delicate Sound of Thunder is a live album by English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988 and mixed at Abbey Road Studios in September 1988. It was released on 22 November 1988, through EMI Records in the UK and Columbia Records in the US.
+The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Shine On You Crazy Diamond Parts 1-5 (11:45)
 2. Learning To Fly (5:07)
 3. Yet Another Movie
@@ -46,16 +51,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 12. Wish You Were Here (4:50)
 13. Comfortably Numb (8:42)
 14. Run Like Hell (6:42)
-
-<!-- section break -->
-
-Delicate Sound of Thunder is a live album by English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988 and mixed at Abbey Road Studios in September 1988. It was released on 22 November 1988, through EMI Records in the UK and Columbia Records in the US.
-The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967" >}}<br>

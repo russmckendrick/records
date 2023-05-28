@@ -19,18 +19,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="happy-822771.jpg" title="Happy by Ned's Atomic Dustbin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Happy (3:24)
 2. Twenty Three Hour Toothache (3:07)
 3. Aim At The Civic (2:16)
 4. 45 Second Blunder (0:50)
-
-<!-- section break -->
-
-
 
 
 

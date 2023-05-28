@@ -22,10 +22,9 @@ genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ---
 
-{{< img src="coneheads-music-from-the-motion-picture-soundtrack-13457179.jpg" title="Coneheads (Music From The Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Magic Carpet Ride
 2. Tainted Love
 3. No More Tears (Enough Is Enough)
@@ -37,10 +36,6 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 9. Little Renee
 10. Chale Jao
 11. Conehead Love
-
-<!-- section break -->
-
-
 
 
 ## Spotify

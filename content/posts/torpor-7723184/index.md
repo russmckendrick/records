@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="torpor-7723184.jpg" title="Torpor by Baron" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dragonfly (4:48)
 2. Mark Maker (6:54)
 3. Wild Cry (4:50)
@@ -28,10 +27,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 6. Sleepless (7:05)
 7. Deeper Align (6:52)
 8. Albedo Dei (5:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/torpor/1494198864" >}}<br>

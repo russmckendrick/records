@@ -24,10 +24,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock"]
 ---
 
-{{< img src="the-basketball-diaries-original-motion-picture-soundtrack-13467780.jpg" title="The Basketball Diaries (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Catholic Boy (3:05)
 2. Devil's Toe (0:57)
 3. Down By The Water (3:14)
@@ -43,10 +42,6 @@ styles: ["Soundtrack", "Alternative Rock"]
 13. Dream Massacre (1:23)
 14. I've Been Down (4:38)
 15. Blind Dogs (4:40)
-
-<!-- section break -->
-
-
 
 
 

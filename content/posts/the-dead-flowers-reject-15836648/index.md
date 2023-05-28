@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-dead-flowers-reject-15836648.jpg" title="The Dead Flowers Reject by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. What It's Like To Be Hated
 2. GSOH
 3. Been Here Before
@@ -36,10 +35,6 @@ styles: []
 10. Check Under The Bed
 11. I Deserve What I Get
 12. Railings
-
-<!-- section break -->
-
-
 
 
 

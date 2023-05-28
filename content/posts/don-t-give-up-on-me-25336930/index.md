@@ -16,10 +16,9 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul"]
 ---
 
-{{< img src="don-t-give-up-on-me-25336930.jpg" title="Don't Give Up On Me by Solomon Burke" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Give Up On Me
 2. Fast Train
 3. Diamond In Your Mind
@@ -32,10 +31,6 @@ styles: ["Soul"]
 10. None Of Us Are Free
 11. Sit This One Out
 12. I Need A Holiday
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}<br>

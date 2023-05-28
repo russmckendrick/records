@@ -31,10 +31,9 @@ genres: ["Electronic"]
 styles: ["Experimental"]
 ---
 
-{{< img src="radio-aktivitt-6872562.jpg" title="Radio-Aktivität by Kraftwerk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Geigerzähler (1:07)
 2. Radioaktivität (6:42)
 3. Radioland (5:52)
@@ -47,10 +46,6 @@ styles: ["Experimental"]
 10. Uran (1:27)
 11. Transistor (2:14)
 12. Ohm Sweet Ohm (5:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-activity-remastered/700049905" >}}<br>

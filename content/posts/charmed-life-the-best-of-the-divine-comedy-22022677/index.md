@@ -29,10 +29,9 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="charmed-life-the-best-of-the-divine-comedy-22022677.jpg" title="Charmed Life (The Best Of The Divine Comedy) by The Divine Comedy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Charmed Life
 2. National Express
 3. Norman And Norma
@@ -57,10 +56,6 @@ styles: ["Indie Pop"]
 22. Sunrise
 23. To The Rescue
 24. Tonight We Fly
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}<br>

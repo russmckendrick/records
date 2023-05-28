@@ -16,10 +16,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="hot-shots-ii-12843720.jpg" title="Hot Shots II by The Beta Band" >}}
+Hot Shots II is the second studio album by the Scottish musical group The Beta Band, released on 16 July 2001. Colin "C-Swing" Emmanuel and the band co-produced the album. The band's previous work had used dense experimentation but Hot Shots II had a minimal style influenced by R&B, hip hop and electronica.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Squares
 2. Al Sharp
 3. Human Being
@@ -30,13 +32,6 @@ styles: ["Alternative Rock", "Leftfield", "Downtempo", "Indie Rock"]
 8. Alleged
 9. Life
 10. Eclipse
-
-<!-- section break -->
-
-Hot Shots II is the second studio album by the Scottish musical group The Beta Band, released on 16 July 2001. Colin "C-Swing" Emmanuel and the band co-produced the album. The band's previous work had used dense experimentation but Hot Shots II had a minimal style influenced by R&B, hip hop and electronica.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hot-shots-ii/1339241338" >}}<br>

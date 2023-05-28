@@ -19,10 +19,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="birmingham-jail-and-other-country-favourites-2210550.jpg" title="Birmingham Jail And Other Country Favourites by Slim Whitman" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Birmingham Jail
 2. Wabash Waltz
 3. (Please) Paint A Rose On The Garden Wall
@@ -33,10 +32,6 @@ styles: ["Country"]
 8. Tears Can Never Drown The Flame ( That's In My Heart)
 9. I'm Crying For You
 10. I'll Never Pass This Way Again
-
-<!-- section break -->
-
-
 
 
 

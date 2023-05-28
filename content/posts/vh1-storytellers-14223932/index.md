@@ -26,10 +26,12 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock"]
 ---
 
-{{< img src="vh1-storytellers-14223932.jpg" title="VH1 Storytellers by David Bowie" >}}
+VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Life On Mars?
 2. Rebel Rebel (Truncated)
 3. Thursday's Child
@@ -43,13 +45,6 @@ styles: ["Art Rock"]
 11. I Can't Read
 12. Always Crashing In The Same Car
 13. If I'm Dreaming My Life
-
-<!-- section break -->
-
-VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vh1-storytellers-david-bowie-live/731935064" >}}<br>

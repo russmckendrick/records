@@ -17,10 +17,9 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
-{{< img src="the-trojan-story-19182778.jpg" title="The Trojan Story by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Invitation To Jamaica
 2. Fat Man
 3. Tell Me Darling
@@ -71,10 +70,6 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 48. Satisfaction
 49. Black And White
 50. Rasta Never Fails
-
-<!-- section break -->
-
-
 
 
 ## Spotify

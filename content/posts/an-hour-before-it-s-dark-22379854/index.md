@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="an-hour-before-it-s-dark-22379854.jpg" title="An Hour Before It's Dark by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Be Hard On Yourself (9:22)
 2. Reprogram The Gene (6:27)
 3. Only A Kiss (Instrumental) (0:38)
@@ -35,10 +34,6 @@ styles: ["Prog Rock"]
 6. Sierra Leone (10:46)
 7. Care (15:06)
 8. Murder Machines (12" Remix) (6:27)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034" >}}<br>

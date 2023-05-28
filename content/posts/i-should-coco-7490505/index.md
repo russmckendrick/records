@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="i-should-coco-7490505.jpg" title="I Should Coco by Supergrass" >}}
+I Should Coco is the debut studio album by English alternative rock band Supergrass, released on 15 May 1995 by Parlophone. The title of the album is cockney rhyming slang for "I should think so".Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and they released their debut single, "Caught by the Fuzz", in October 1994 on the small independent local label Backbeat Records. Success of the single brought a major label record deal. I Should Coco was recorded in Cornwall and produced by Sam Williams, who had been impressed by the band while scouting in Oxford. At the height of the Britpop era, the album became the band's most successful release when it reached number one on the UK Albums Chart, and subsequently gained platinum status, selling over a million copies worldwide and 500,000 in the UK. The most successful single released from I Should Coco is "Alright", which peaked at number two on the UK Singles Chart, and gained platinum status.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I'd Like To Know (4:02)
 2. Caught By The Fuzz (2:16)
 3. Mansize Rooster (2:34)
@@ -42,13 +44,6 @@ styles: ["Alternative Rock", "Britpop"]
 13. Time To Go (1:56)
 14. Stone Free (3:10)
 15. Odd (5:05)
-
-<!-- section break -->
-
-I Should Coco is the debut studio album by English alternative rock band Supergrass, released on 15 May 1995 by Parlophone. The title of the album is cockney rhyming slang for "I should think so".Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and they released their debut single, "Caught by the Fuzz", in October 1994 on the small independent local label Backbeat Records. Success of the single brought a major label record deal. I Should Coco was recorded in Cornwall and produced by Sam Williams, who had been impressed by the band while scouting in Oxford. At the height of the Britpop era, the album became the band's most successful release when it reached number one on the UK Albums Chart, and subsequently gained platinum status, selling over a million copies worldwide and 500,000 in the UK. The most successful single released from I Should Coco is "Alright", which peaked at number two on the UK Singles Chart, and gained platinum status.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-should-coco/697226967" >}}<br>

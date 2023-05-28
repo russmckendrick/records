@@ -19,18 +19,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="todd-rundgren-s-utopia-1971194.jpg" title="Todd Rundgren's Utopia by Utopia" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Utopia (14:18)
 2. Freak Parade (10:14)
 3. Freedom Fighters (4:01)
 4. The Ikon (30:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409" >}}<br>

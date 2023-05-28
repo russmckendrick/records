@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
 
-{{< img src="just-for-a-day-15633294.jpg" title="Just For A Day by Slowdive" >}}
+Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Spanish Air (6:06)
 2. Celia's Dream (4:12)
 3. Catch The Breeze (4:22)
@@ -35,13 +37,6 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 7. Brighter (3:51)
 8. The Sadman (4:47)
 9. Primal (5:29)
-
-<!-- section break -->
-
-Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/399186360" >}}<br>

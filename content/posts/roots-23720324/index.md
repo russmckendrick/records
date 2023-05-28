@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
-{{< img src="roots-23720324.jpg" title="Roots by Children of the Sün" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Reflection
 2. Leaves
 3. Blood Boils Hot
@@ -39,10 +38,6 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 11. Thunder
 12. Reaching For Sun
 13. Epilogue
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots/1590864217" >}}<br>

@@ -27,10 +27,14 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="in-our-bedroom-after-the-war-2095142.jpg" title="In Our Bedroom After The War by Stars" >}}
+In Our Bedroom After the War is the fourth studio album by Stars, released digitally on July 10, 2007 and physically on September 25 on the Arts & Crafts record label. It was released to digital retailers in an attempt to battle the album's leak. The title was announced by Amy Millan in an interview with the Toronto Star, and the release date was previously announced by Torquil Campbell on KCRW's Morning Becomes Eclectic.
+The album was recorded in Vancouver and mixed in Toronto by Joe Chiccarelli. Author Daniel Handler has written a story for the liner notes of the album and plays the accordion in Barricade.  In an interview with MTV Live, Stars frontman Torquil Campbell indicated that one of the goals of the band was to create an album that comes across as a unified whole through careful sequencing and thoughtful storytelling instead of simply sounding like a collection of tracks. The first single from the album is "Take Me to the Riot", and the second single is "The Night Starts Here."
+The album was initially released with a bonus DVD documentary of the Set Yourself on Fire tour, titled "Are We Here Now?"The album was a nominee for the 2008 Polaris Music Prize.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Beginning After The End
 2. The Night Starts Here
 3. Take Me To The Riot
@@ -44,15 +48,6 @@ styles: ["Indie Rock"]
 11. Life 2: The Unhappy Ending
 12. Today Will Be Better, I Swear!
 13. In Our Bedroom After The War
-
-<!-- section break -->
-
-In Our Bedroom After the War is the fourth studio album by Stars, released digitally on July 10, 2007 and physically on September 25 on the Arts & Crafts record label. It was released to digital retailers in an attempt to battle the album's leak. The title was announced by Amy Millan in an interview with the Toronto Star, and the release date was previously announced by Torquil Campbell on KCRW's Morning Becomes Eclectic.
-The album was recorded in Vancouver and mixed in Toronto by Joe Chiccarelli. Author Daniel Handler has written a story for the liner notes of the album and plays the accordion in Barricade.  In an interview with MTV Live, Stars frontman Torquil Campbell indicated that one of the goals of the band was to create an album that comes across as a unified whole through careful sequencing and thoughtful storytelling instead of simply sounding like a collection of tracks. The first single from the album is "Take Me to the Riot", and the second single is "The Night Starts Here."
-The album was initially released with a bonus DVD documentary of the Set Yourself on Fire tour, titled "Are We Here Now?"The album was a nominee for the 2008 Polaris Music Prize.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-our-bedroom-after-the-war/1269678307" >}}<br>

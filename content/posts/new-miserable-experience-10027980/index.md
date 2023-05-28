@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="new-miserable-experience-10027980.jpg" title="New Miserable Experience by Gin Blossoms" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lost Horizon (3:20)
 2. Hey Jealousy (3:56)
 3. Mrs. Rita (4:25)
@@ -38,10 +37,6 @@ styles: ["Alternative Rock"]
 10. 29 (4:18)
 11. Pieces Of The Night (4:33)
 12. Cheatin' (3:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1442677676" >}}<br>

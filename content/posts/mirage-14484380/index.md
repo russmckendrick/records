@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="mirage-14484380.jpg" title="Mirage by Fleetwood Mac" >}}
+After taking more than a year off for some much-needed rest following the world tour in support of 1979’s <i>Tusk</i>, Fleetwood Mac recorded 1982’s <i>Mirage</i> in the decadence of Château d'Hérouville near Paris. Whereas <i>Tusk</i> was a deliberate departure from the preceding masterpiece <i>Rumors</i>, the slickly produced <i>Mirage</i> was an attempt to bring Fleetwood Mac's fans more hits on par with the likes of “Go Your Own Way,” “Don’t Stop,” “Dreams,” and “You Make Loving Fun.” <i>Mirage</i> definitely delivered some stellar singles, starting with the seductive sway of “Hold Me.” Penned by Christine McVie (along with the opening “Love in Store”), it hinted at how her songwriting prowess would blossom and save 1987’s <i>Tango in the Night</i> amid the band’s dissolve. After digging through her song stash, Stevie Nicks offered the catchy “Gypsy.” (She'd written it in 1979 for her debut solo album, <i>Bella Donna</i>, but left it off when the song’s muse died of leukemia.) Lindsey Buckingham borrowed melodies from Nicks’ “Wild Heart” for “Can’t Go Back."
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Love In Store (3:14)
 2. Can't Go Back (2:42)
 3. That's Alright (3:09)
@@ -41,14 +44,6 @@ styles: ["Pop Rock"]
 10. Oh Diane (2:33)
 11. Eyes Of The World (3:44)
 12. Wish You Were Here (4:45)
-
-<!-- section break -->
-
-After taking more than a year off for some much-needed rest following the world tour in support of 1979’s <i>Tusk</i>, Fleetwood Mac recorded 1982’s <i>Mirage</i> in the decadence of Château d'Hérouville near Paris. Whereas <i>Tusk</i> was a deliberate departure from the preceding masterpiece <i>Rumors</i>, the slickly produced <i>Mirage</i> was an attempt to bring Fleetwood Mac's fans more hits on par with the likes of “Go Your Own Way,” “Don’t Stop,” “Dreams,” and “You Make Loving Fun.” <i>Mirage</i> definitely delivered some stellar singles, starting with the seductive sway of “Hold Me.” Penned by Christine McVie (along with the opening “Love in Store”), it hinted at how her songwriting prowess would blossom and save 1987’s <i>Tango in the Night</i> amid the band’s dissolve. After digging through her song stash, Stevie Nicks offered the catchy “Gypsy.” (She'd written it in 1979 for her debut solo album, <i>Bella Donna</i>, but left it off when the song’s muse died of leukemia.) Lindsey Buckingham borrowed melodies from Nicks’ “Wild Heart” for “Can’t Go Back."
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mirage-remastered/1112125557" >}}<br>

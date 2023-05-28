@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-ultra-vivid-lament-20182972.jpg" title="The Ultra Vivid Lament by Manic Street Preachers" >}}
+The Ultra Vivid Lament is the fourteenth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 10 September 2021 through Columbia Records.
+Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", the album features contributions from Julia Cumming and Mark Lanegan. It was received well by critics, and debuted at number 1 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Still Snowing In Sapporo
 2. Orwellian
 3. The Secret He Had Missed
@@ -38,14 +41,6 @@ styles: ["Alternative Rock"]
 9. Blank Diary Entry
 10. Happy Bored Alone
 11. Afterending
-
-<!-- section break -->
-
-The Ultra Vivid Lament is the fourteenth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 10 September 2021 through Columbia Records.
-Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", the album features contributions from Julia Cumming and Mark Lanegan. It was received well by critics, and debuted at number 1 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-ultra-vivid-lament-deluxe-edition/1566880553" >}}<br>

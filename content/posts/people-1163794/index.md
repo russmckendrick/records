@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="people-1163794.jpg" title="People by Hothouse Flowers" >}}
+People is the debut studio album by Irish rock group Hothouse Flowers, released in May 1988.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Sorry
 2. Don't Go
 3. Forgiven
@@ -36,13 +38,6 @@ styles: ["Blues Rock"]
 9. Love Don't Work This Way
 10. Ballad Of Katie
 11. Feet On The Ground
-
-<!-- section break -->
-
-People is the debut studio album by Irish rock group Hothouse Flowers, released in May 1988.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/people/1317287289" >}}<br>

@@ -25,10 +25,14 @@ genres: ["Electronic", "Blues", "Pop"]
 styles: ["Downtempo", "Synth-pop", "Vocal"]
 ---
 
-{{< img src="listen-without-prejudice-vol-1-9939004.jpg" title="Listen Without Prejudice Vol. 1 by George Michael" >}}
+Listen Without Prejudice Vol. 1 is the second solo studio album by the English singer-songwriter George Michael, released on 3 September 1990 by Columbia Records (Epic Records in the UK). The album was Michael's final album of all-new material on Columbia until 2004's Patience. Listen Without Prejudice was a stark departure from Michael's previous album, 1987's Faith, with largely acoustic instrumentation and a sombre intensity in many of the lyrics and melodies. While the album topped the UK Albums Chart, disappointing sales in the United States led to Michael's legal battles against Sony Music, in which he accused the corporation of not fully supporting him as an artist.Listen Without Prejudice was reissued across a number of formats on 20 October 2017 and again topped the UK Albums Chart, 27 years after it first reached number one on the chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Praying For Time (4:41)
 2. Freedom 90 (6:30)
 3. They Won't Go When I Go (5:06)
@@ -39,15 +43,6 @@ styles: ["Downtempo", "Synth-pop", "Vocal"]
 8. Heal The Pain (4:39)
 9. Soul Free (5:30)
 10. Waiting (Reprise) (2:27)
-
-<!-- section break -->
-
-Listen Without Prejudice Vol. 1 is the second solo studio album by the English singer-songwriter George Michael, released on 3 September 1990 by Columbia Records (Epic Records in the UK). The album was Michael's final album of all-new material on Columbia until 2004's Patience. Listen Without Prejudice was a stark departure from Michael's previous album, 1987's Faith, with largely acoustic instrumentation and a sombre intensity in many of the lyrics and melodies. While the album topped the UK Albums Chart, disappointing sales in the United States led to Michael's legal battles against Sony Music, in which he accused the corporation of not fully supporting him as an artist.Listen Without Prejudice was reissued across a number of formats on 20 October 2017 and again topped the UK Albums Chart, 27 years after it first reached number one on the chart.
-
-
-    
-    
-
 
 
 

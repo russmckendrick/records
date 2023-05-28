@@ -27,23 +27,18 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="hemispheres-7036854.jpg" title="Hemispheres by Rush" >}}
-
-<!-- section break -->
-
-1. Cygnus X-1 Book II: Hemispheres (18:07)
-2. Circumstances (3:42)
-3. The Trees (4:46)
-4. La Villa Strangiato (9:36)
-
-<!-- section break -->
-
 Hemispheres is the sixth studio album by Canadian rock band Rush, released in October 1978 by Anthem Records. After touring to support the band's previous release, A Farewell to Kings, during which the group gained popularity in the UK, Rush started work on their next album. As with the band's previous studio album, Hemispheres was recorded at Rockfield Studios in Monmouthshire and Trident Studios in London with longtime engineer and arranger, Terry Brown. Rush continued its progressive rock sound with the side-long "Cygnus X-1 Book II: Hemispheres" and the nine-minute instrumental "La Villa Strangiato", which was the band's first instrumental piece.
 Hemispheres received acclaim from music critics. It reached number 14 in Canada and the UK, and number 41 in the United States. The album's two shorter tracks, "Circumstances" and "The Trees" were released as singles in early 1979. In 1993, the album was certified platinum by the Recording Industry Association of America (RIAA) for selling one million copies. Rush supported Hemispheres with a concert tour from October 1978 to June 1979. The album was re-released in various expanded formats on November 16, 2018 as part of the band's ongoing 40th Anniversary editions, including the previously unreleased live set by the band at the Pinkpop Festival from June 1979.
         
         
     
 
+
+## Tracklisting
+1. Cygnus X-1 Book II: Hemispheres (18:07)
+2. Circumstances (3:42)
+3. The Trees (4:46)
+4. La Villa Strangiato (9:36)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hemispheres-remastered/1440764218" >}}<br>

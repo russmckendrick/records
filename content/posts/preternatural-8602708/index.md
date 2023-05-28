@@ -24,10 +24,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
 
-{{< img src="preternatural-8602708.jpg" title="Preternatural by Moulettes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Behemooth (4:07)
 2. Underwaterpainter (3:22)
 3. Coral (4:13)
@@ -39,10 +38,6 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 9. Parasite (3:39)
 10. Bird Of Paradise (Part II) (3:38)
 11. Silk (4:46)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086" >}}<br>

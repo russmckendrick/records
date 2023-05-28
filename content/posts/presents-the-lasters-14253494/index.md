@@ -17,10 +17,9 @@ genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-{{< img src="presents-the-lasters-14253494.jpg" title="Presents The Lasters by Fred Deakin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue (At The Century's End)
 2. Alone
 3. Satellite Song
@@ -40,10 +39,6 @@ styles: ["Downtempo"]
 17. Just Our Best
 18. Time To Go
 19. Into The Darkness
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770" >}}<br>

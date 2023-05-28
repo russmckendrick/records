@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="the-end-4-february-2017-birmingham-11149469.jpg" title="The End (4 February 2017 - Birmingham) by Black Sabbath" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Sabbath
 2. Fairies Wear Boots
 3. Under The Sun / Every Day Comes And Goes
@@ -52,10 +51,6 @@ styles: ["Heavy Metal"]
 15. Dirty Women
 16. Children Of The Grave
 17. Paranoid
-
-<!-- section break -->
-
-
 
 
 

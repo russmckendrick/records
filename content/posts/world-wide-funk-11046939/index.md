@@ -40,10 +40,9 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["P.Funk"]
 ---
 
-{{< img src="world-wide-funk-11046939.jpg" title="World Wide Funk by Bootsy Collins" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. World Wide Funk
 2. Bass-Rigged-System
 3. Pusherman
@@ -59,10 +58,6 @@ styles: ["P.Funk"]
 13. Worth My While
 14. Come Back Bootsy
 15. Illusions
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}<br>

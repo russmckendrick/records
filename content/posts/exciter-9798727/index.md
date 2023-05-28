@@ -27,10 +27,15 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Downtempo", "Synth-pop"]
 ---
 
-{{< img src="exciter-9798727.jpg" title="Exciter by Depeche Mode" >}}
+Exciter is the tenth studio album by English electronic music band Depeche Mode. It was first released on 14 May 2001 in the United Kingdom by Mute Records and a day later in the United States by Reprise Records. The album was produced by Mark Bell, and was supported by the Exciter Tour, one of the band's most successful tours.
+Exciter debuted at number nine on the UK Albums Chart and number eight on the Billboard 200, selling 115,000 copies in its first week in the United States. It was the only Depeche Mode album to debut higher in the United States than in the United Kingdom. As of April 2006, Exciter had sold over 426,000 copies in the US, and has been certified gold by the Recording Industry Association of America (RIAA); it has also been certified gold in Canada for shipments of 50,000 units.The plant that appears on the cover is the Agave attenuata, a species of agave sometimes known as the "lion's tail", "swan's neck", or "foxtail" for its development of a curved stem, unusual among agaves.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Dream On
 2. Shine
 3. The Sweetest Condition
@@ -44,16 +49,6 @@ styles: ["Leftfield", "Downtempo", "Synth-pop"]
 11. Easy Tiger
 12. I Am You
 13. Goodnight Lovers
-
-<!-- section break -->
-
-Exciter is the tenth studio album by English electronic music band Depeche Mode. It was first released on 14 May 2001 in the United Kingdom by Mute Records and a day later in the United States by Reprise Records. The album was produced by Mark Bell, and was supported by the Exciter Tour, one of the band's most successful tours.
-Exciter debuted at number nine on the UK Albums Chart and number eight on the Billboard 200, selling 115,000 copies in its first week in the United States. It was the only Depeche Mode album to debut higher in the United States than in the United Kingdom. As of April 2006, Exciter had sold over 426,000 copies in the US, and has been certified gold by the Recording Industry Association of America (RIAA); it has also been certified gold in Canada for shipments of 50,000 units.The plant that appears on the cover is the Agave attenuata, a species of agave sometimes known as the "lion's tail", "swan's neck", or "foxtail" for its development of a curved stem, unusual among agaves.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exciter-deluxe/1174248501" >}}<br>

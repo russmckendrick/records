@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="maximum-rock-n-roll-the-singles-volume-2-13767591.jpg" title="Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Accelerator
 2. Miss Lucifer
 3. Autobahn 66
@@ -37,10 +36,6 @@ styles: ["Indie Rock"]
 12. Goodbye Johnny
 13. Where The Light Gets In
 14. 100% Or Nothing
-
-<!-- section break -->
-
-
 
 
 

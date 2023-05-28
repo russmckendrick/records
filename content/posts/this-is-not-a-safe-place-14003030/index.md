@@ -23,10 +23,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 ---
 
-{{< img src="this-is-not-a-safe-place-14003030.jpg" title="This Is Not A Safe Place by Ride" >}}
+This Is Not a Safe Place is the sixth studio album by English rock band Ride. The album was released on 16 August 2019, the date being announced on 23 April 2019 along with the release of the album's first single, "Future Love". The album is the band's second produced by English DJ Erol Alkan.
+The album cover includes three slashes (///), which is based upon historic graffiti by hobos to indicate an unsafe place.Andy Bell stated that the album was influenced by the likes of Sonic Youth and the Fall  and by "post-punk in general, Siouxsie and the Banshees, Public Image Ltd".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. R.I.D.E.
 2. Future Love
 3. Repetition
@@ -39,16 +44,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 10. End Game
 11. Shadows Behind The Sun
 12. In This Room
-
-<!-- section break -->
-
-This Is Not a Safe Place is the sixth studio album by English rock band Ride. The album was released on 16 August 2019, the date being announced on 23 April 2019 along with the release of the album's first single, "Future Love". The album is the band's second produced by English DJ Erol Alkan.
-The album cover includes three slashes (///), which is based upon historic graffiti by hobos to indicate an unsafe place.Andy Bell stated that the album was influenced by the likes of Sonic Youth and the Fall  and by "post-punk in general, Siouxsie and the Banshees, Public Image Ltd".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456" >}}<br>

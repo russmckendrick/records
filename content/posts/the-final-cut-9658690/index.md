@@ -22,10 +22,18 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-final-cut-9658690.jpg" title="The Final Cut by Pink Floyd" >}}
+The Final Cut is the 12th studio album by the English rock band Pink Floyd, released on 21 March 1983 through Harvest and Columbia Records. It comprises unused material from the band's previous studio album, The Wall (1979), alongside new material recorded throughout 1982.
+The Final Cut is the last Pink Floyd album to feature founding member Roger Waters, who departed from the band in 1985. It is also the only Pink Floyd album not to feature founding member and keyboardist Richard Wright, who had left the band under pressure from Waters after the Wall sessions. The recording was plagued by conflict; the guitarist, David Gilmour, felt many of the tracks were not worthy of inclusion, but Waters accused him of failing to contribute material himself. The contributions from the drummer, Nick Mason, were limited mostly to sound effects.
+Waters planned the album as a soundtrack for the 1982 film adaptation of The Wall. With the onset of the Falklands War, he rewrote it as a concept album exploring what he considered the betrayal of his father, who died serving in the Second World War. Waters provided lead vocals for all but one track, and he is credited for all songwriting. The album was accompanied by a short film released in the same year.
+The Final Cut received mixed reviews, though retrospective reception has been more favourable. Though it reached number one in the UK and number six in the US, it was the lowest-selling Pink Floyd studio album worldwide since their sixth album, Meddle (1971).
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Post War Dream
 2. Your Possible Pasts
 3. One Of The Few
@@ -39,19 +47,6 @@ styles: ["Prog Rock"]
 11. The Final Cut
 12. Not Now John
 13. Two Suns In The Sunset
-
-<!-- section break -->
-
-The Final Cut is the 12th studio album by the English rock band Pink Floyd, released on 21 March 1983 through Harvest and Columbia Records. It comprises unused material from the band's previous studio album, The Wall (1979), alongside new material recorded throughout 1982.
-The Final Cut is the last Pink Floyd album to feature founding member Roger Waters, who departed from the band in 1985. It is also the only Pink Floyd album not to feature founding member and keyboardist Richard Wright, who had left the band under pressure from Waters after the Wall sessions. The recording was plagued by conflict; the guitarist, David Gilmour, felt many of the tracks were not worthy of inclusion, but Waters accused him of failing to contribute material himself. The contributions from the drummer, Nick Mason, were limited mostly to sound effects.
-Waters planned the album as a soundtrack for the 1982 film adaptation of The Wall. With the onset of the Falklands War, he rewrote it as a concept album exploring what he considered the betrayal of his father, who died serving in the Second World War. Waters provided lead vocals for all but one track, and he is credited for all songwriting. The album was accompanied by a short film released in the same year.
-The Final Cut received mixed reviews, though retrospective reception has been more favourable. Though it reached number one in the UK and number six in the US, it was the lowest-selling Pink Floyd studio album worldwide since their sixth album, Meddle (1971).
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}<br>

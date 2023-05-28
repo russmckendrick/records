@@ -22,34 +22,6 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="either-or-expanded-edition-9965763.jpg" title="Either / Or: Expanded Edition by Elliott Smith" >}}
-
-<!-- section break -->
-
-1. Speed Trials
-2. Alameda
-3. Ballad of Big Nothing
-4. Between the Bars
-5. Pictures of Me
-6. No Name No. 5
-7. Rose Parade
-8. Punch and Judy
-9. Angeles
-10. Cupid's Trick
-11. 2:45 AM
-12. Say Yes
-13. My New Freedom (Live)
-14. Pictures of Me (Live)
-15. Angeles (Live)
-16. Some Song (Live)
-17. Rose Parade (Live)
-18. New Monkey (Keys)
-19. I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered)
-20. I Figured You Out
-21. Bottle Up and Explode! (Alternate Version)
-
-<!-- section break -->
-
 On her 21st birthday, Arlo Parks decided to get a new tattoo—the words “Either/Or” inked on her ankle in her close friend’s handwriting. “It’s funny,” the UK singer-songwriter tells Apple Music, “because I know a lot of people—a lot of artists—with Elliott Smith tattoos. But I see him almost as this presence that follows me. When I'm in the studio, almost every time I’ll think of him: What would he do, or how would he approach the story I have in my head? So, I thought, ‘Why not carry him with me in some way?’”
  
 Parks’ tattoo is the title of Smith’s definitive 1997 LP, a record that, 25 years later, has become both blueprint and spiritual text for a generation of artists who discovered the singer-songwriter’s work well after his death in 2003. Though Smith had clearly come of age studying the melodies of Lennon and McCartney, his river of influence has split and spilled outward in surprising directions, resonating worlds away from its source. His songs have been covered by Billie Eilish, Julien Baker and Mac Miller, sampled by Lil B and interpolated by Frank Ocean. He’s left an impression on a cross-section of contemporary pop that transcends genre—from the poetics of Parks and Lucy Dacus to the hushed atmospherics of Eilish, from the open-hearted hip-hop of slowthai to the ambient melancholy of Phoebe Bridgers, whose Grammy-nominated 2020 breakthrough, <i>Punisher</i>, takes its name from a song in which she imagines herself stalking Smith through Silver Lake, the Los Angeles neighbourhood he used to haunt. “Listening to <i>Either/Or</i>,” Dacus says, “I’m like, ‘Oh. Yeah. Everyone I know that makes music is ripping this guy off.’”
@@ -86,6 +58,29 @@ When asked how it’s possible that <i>Either/Or</i> could continue to resonate 
     
     
 
+
+## Tracklisting
+1. Speed Trials
+2. Alameda
+3. Ballad of Big Nothing
+4. Between the Bars
+5. Pictures of Me
+6. No Name No. 5
+7. Rose Parade
+8. Punch and Judy
+9. Angeles
+10. Cupid's Trick
+11. 2:45 AM
+12. Say Yes
+13. My New Freedom (Live)
+14. Pictures of Me (Live)
+15. Angeles (Live)
+16. Some Song (Live)
+17. Rose Parade (Live)
+18. New Monkey (Keys)
+19. I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered)
+20. I Figured You Out
+21. Bottle Up and Explode! (Alternate Version)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/either-or-20th-anniversary-expanded-edition-2017-remaster/1442701781" >}}<br>

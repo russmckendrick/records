@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="world-s-strongest-man-11949416.jpg" title="World's Strongest Man by Gaz Coombes" >}}
+For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. World's Strongest Man (3:28)
 2. Deep Pockets (3:50)
 3. Walk The Walk (3:56)
@@ -33,13 +35,6 @@ styles: ["Alternative Rock"]
 9. The Oaks (4:39)
 10. Vanishing Act (2:50)
 11. Weird Dreams (4:53)
-
-<!-- section break -->
-
-For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/worlds-strongest-man/1440875853" >}}<br>

@@ -21,10 +21,14 @@ genres: ["Rock", "Pop"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="sunshine-on-leith-11066426.jpg" title="Sunshine On Leith by The Proclaimers" >}}
+Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I'm Gonna Be (500 Miles) (3:34)
 2. Cap In Hand (3:20)
 3. Then I Met You (3:45)
@@ -37,15 +41,6 @@ styles: ["Folk Rock"]
 10. It's Saturday Night (3:22)
 11. Teardrops (2:30)
 12. Oh Jean (5:54)
-
-<!-- section break -->
-
-Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sunshine-on-leith-2011-remaster/693799054" >}}<br>

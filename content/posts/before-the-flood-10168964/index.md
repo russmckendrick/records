@@ -30,10 +30,12 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Ambient", "Dark Ambient"]
 ---
 
-{{< img src="before-the-flood-10168964.jpg" title="Before The Flood by Trent Reznor" >}}
+An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> finds duo Trent Reznor and Atticus Ross (<i>The Social Network</i>) joining forces with fellow Oscar winner Gustavo Santaolalla (<i>Brokeback Mountain, Babel</i>) and Scottish post-rock outfit Mogwai (<i>Zidane: A 21st Century Portrait</i>) for a collection of soundscapes that—alternately unsettling and breathtakingly beautiful—evoke the scale and horror of global climate change. 
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Before The Flood (7:53)
 2. A Minute To Breathe (6:07)
 3. Between Two Poles (8:06)
@@ -52,13 +54,6 @@ styles: ["Ambient", "Dark Ambient"]
 16. One Perfect Moment (10:08)
 17. A Minute Later (1:46)
 18. After The Flood (5:09)
-
-<!-- section break -->
-
-An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> finds duo Trent Reznor and Atticus Ross (<i>The Social Network</i>) joining forces with fellow Oscar winner Gustavo Santaolalla (<i>Brokeback Mountain, Babel</i>) and Scottish post-rock outfit Mogwai (<i>Zidane: A 21st Century Portrait</i>) for a collection of soundscapes that—alternately unsettling and breathtakingly beautiful—evoke the scale and horror of global climate change. 
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/before-the-flood-music-from-the-motion-picture/1162988948" >}}<br>

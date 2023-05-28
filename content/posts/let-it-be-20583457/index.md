@@ -41,10 +41,18 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="let-it-be-20583457.jpg" title="Let It Be by The Beatles" >}}
+Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's public break-up, in tandem with the documentary of the same name. Concerned about recent friction within the band, Paul McCartney had conceived the project as an attempt to reinvigorate the group by returning to simpler rock 'n' roll configurations. The album topped charts in several countries, including both the UK and the US, but was a critical failure at the time, and Let It Be came to be regarded as one of the most controversial rock albums in history.The album's rehearsals began at Twickenham Film Studios in January 1969 as part of a planned television documentary showing the Beatles' return to live performance. The filmed rehearsals were marked by ill feeling, leading to George Harrison's temporary departure from the group. As a condition of his return, the members reconvened at their own Apple Studio, and recruited guest keyboardist Billy Preston. The project yielded a famous single public concert held on the studio's rooftop on 30 January, from which three of the album's tracks were drawn.
+In April 1969, the Beatles issued the lead single "Get Back" (backed with "Don't Let Me Down"), after which engineer Glyn Johns prepared and submitted mixes of the album – titled Get Back and subsequently rejected by the band. The project then lay in limbo as they moved onto the recording of Abbey Road, released that September. In January 1970, only four months after John Lennon's departure from the group, the remaining Beatles completed "Let It Be" and recorded "I Me Mine". The former was issued as the second single from the album in March 1970, and was produced by George Martin.
+When the documentary film was resurrected for a cinema release, as Let It Be, Lennon and Harrison asked American producer Phil Spector to assemble the accompanying album. Among Spector's choices was to include a 1968 take of "Across the Universe" and apply orchestral and choral overdubs to three tracks. His work offended McCartney, particularly in the case of the third and final single of the album "The Long and Winding Road". 
+In 2003, McCartney spearheaded Let It Be... Naked, an alternative mixed version of Let It Be that removes Spector's embellishments and alters the tracklist. In 2021, another remixed and expanded edition of Let It Be was released with session highlights and the original 1969 Get Back mix, coinciding with The Beatles: Get Back, an eight-hour documentary series covering the January 1969 sessions and rooftop concert.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Let It Be
 2. Two Of Us
 3. Dig A Pony
@@ -107,19 +115,6 @@ styles: ["Pop Rock"]
 60. I Me Mine (Unreleased Glyn Johns 1970 Mix)
 61. Don't Let Me Down (New Mix Of Original Single Version)
 62. Let It Be (New Mix Of Original Single Version)
-
-<!-- section break -->
-
-Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's public break-up, in tandem with the documentary of the same name. Concerned about recent friction within the band, Paul McCartney had conceived the project as an attempt to reinvigorate the group by returning to simpler rock 'n' roll configurations. The album topped charts in several countries, including both the UK and the US, but was a critical failure at the time, and Let It Be came to be regarded as one of the most controversial rock albums in history.The album's rehearsals began at Twickenham Film Studios in January 1969 as part of a planned television documentary showing the Beatles' return to live performance. The filmed rehearsals were marked by ill feeling, leading to George Harrison's temporary departure from the group. As a condition of his return, the members reconvened at their own Apple Studio, and recruited guest keyboardist Billy Preston. The project yielded a famous single public concert held on the studio's rooftop on 30 January, from which three of the album's tracks were drawn.
-In April 1969, the Beatles issued the lead single "Get Back" (backed with "Don't Let Me Down"), after which engineer Glyn Johns prepared and submitted mixes of the album – titled Get Back and subsequently rejected by the band. The project then lay in limbo as they moved onto the recording of Abbey Road, released that September. In January 1970, only four months after John Lennon's departure from the group, the remaining Beatles completed "Let It Be" and recorded "I Me Mine". The former was issued as the second single from the album in March 1970, and was produced by George Martin.
-When the documentary film was resurrected for a cinema release, as Let It Be, Lennon and Harrison asked American producer Phil Spector to assemble the accompanying album. Among Spector's choices was to include a 1968 take of "Across the Universe" and apply orchestral and choral overdubs to three tracks. His work offended McCartney, particularly in the case of the third and final single of the album "The Long and Winding Road". 
-In 2003, McCartney spearheaded Let It Be... Naked, an alternative mixed version of Let It Be that removes Spector's embellishments and alters the tracklist. In 2021, another remixed and expanded edition of Let It Be was released with session highlights and the original 1969 Get Back mix, coinciding with The Beatles: Get Back, an eight-hour documentary series covering the January 1969 sessions and rooftop concert.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-it-be-2021-mix/1582219768" >}}<br>

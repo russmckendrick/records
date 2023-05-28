@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="bill-26508692.jpg" title="Bill by Tripping Daisy" >}}
+Bill is the debut studio album American rock band Tripping Daisy.  It was released in 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.
+The album had sold around 15,000 copies before it was picked up by Island.  "My Umbrella" spent two weeks on the Billboard Modern Rock Tracks chart, peaking at No. 24. The album is being released on vinyl in 2023 as part of the DFW Legacy Series.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. My Umbrella (4:32)
 2. One Through Four (2:57)
 3. Lost And Found (3:23)
@@ -36,14 +39,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Brown-Eyed Pickle Boy (4:50)
 9. Miles And Miles Of Pain (5:41)
 10. Triangle (5:52)
-
-<!-- section break -->
-
-Bill is the debut studio album American rock band Tripping Daisy.  It was released in 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.
-The album had sold around 15,000 copies before it was picked up by Island.  "My Umbrella" spent two weeks on the Billboard Modern Rock Tracks chart, peaking at No. 24. The album is being released on vinyl in 2023 as part of the DFW Legacy Series.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bill/1443484197" >}}<br>

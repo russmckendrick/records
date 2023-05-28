@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="untouchable-4765496.jpg" title="Untouchable by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Untouchable Part 1 (7:07)
 2. Untouchable Part 2 (5:55)
 3. Thin Air (5:58)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock"]
 10. Closer (6:28)
 11. A Natural Disaster (6:38)
 12. Flying (8:23)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/untouchable-pt-2-single/1238312364" >}}<br>

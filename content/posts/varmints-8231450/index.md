@@ -22,10 +22,13 @@ genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
 
-{{< img src="varmints-8231450.jpg" title="Varmints by Anna Meredith" >}}
+Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she’s also written a piece for an MRI scanner. Echoing that breadth of approaches, her debut album blends classical leanings (clarinet, tuba, cello) with bubbling electronics and Dirty Projectors-esque avant-pop. The Scottish-born, London-based composer stokes pinging, bass-buffeted melodies on opener “Nautilus”, while “Taken” moves to distorted guitar and a quasi-rock chorus. Whether turning to epic synth odysseys (“The Vapours”) or sugary electro-pop (“Something Helpful”), <i>Varmints</i> accumulates more giddy ideas with every passing minute.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nautilus (5:30)
 2. Taken (4:50)
 3. Scrimshaw (4:43)
@@ -37,14 +40,6 @@ styles: ["Modern Classical"]
 9. Last Rose (3:31)
 10. Shill (2:47)
 11. Blackfriars (2:58)
-
-<!-- section break -->
-
-Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she’s also written a piece for an MRI scanner. Echoing that breadth of approaches, her debut album blends classical leanings (clarinet, tuba, cello) with bubbling electronics and Dirty Projectors-esque avant-pop. The Scottish-born, London-based composer stokes pinging, bass-buffeted melodies on opener “Nautilus”, while “Taken” moves to distorted guitar and a quasi-rock chorus. Whether turning to epic synth odysseys (“The Vapours”) or sugary electro-pop (“Something Helpful”), <i>Varmints</i> accumulates more giddy ideas with every passing minute.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/varmints/1053717277" >}}<br>

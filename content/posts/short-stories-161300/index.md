@@ -21,10 +21,14 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Ambient"]
 ---
 
-{{< img src="short-stories-161300.jpg" title="Short Stories by Jon & Vangelis" >}}
+Short Stories is the debut album by Jon and Vangelis, the collaboration between Jon Anderson of the progressive rock band Yes and electronic music pioneer Vangelis. This was not the first time that the two had worked together: Vangelis had auditioned to be Rick Wakeman's replacement in Yes in 1974, but the role was given to Patrick Moraz. In 1975, Jon Anderson sang on "So Long Ago So Clear" from Heaven and Hell.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Curious Electric
 2. Each And Everyday
 3. Bird Song
@@ -35,15 +39,6 @@ styles: ["Synth-pop", "Ambient"]
 8. One More Time
 9. Thunder
 10. A Play Within A Play
-
-<!-- section break -->
-
-Short Stories is the debut album by Jon and Vangelis, the collaboration between Jon Anderson of the progressive rock band Yes and electronic music pioneer Vangelis. This was not the first time that the two had worked together: Vangelis had auditioned to be Rick Wakeman's replacement in Yes in 1974, but the role was given to Patrick Moraz. In 1975, Jon Anderson sang on "So Long Ago So Clear" from Heaven and Hell.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/short-stories-2016-remaster/1443103998" >}}<br>

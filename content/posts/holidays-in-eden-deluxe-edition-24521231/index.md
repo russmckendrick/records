@@ -32,10 +32,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="holidays-in-eden-deluxe-edition-24521231.jpg" title="Holidays In Eden (Deluxe Edition) by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Holidays In Eden (2022 Re-Mix)
 2. Splintering Heart
 3. Cover My Eyes (Pain & Heaven)
@@ -74,10 +73,6 @@ styles: ["Prog Rock"]
 36. Berlin
 37. Kayleigh
 38. Incommunicado
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919" >}}<br>

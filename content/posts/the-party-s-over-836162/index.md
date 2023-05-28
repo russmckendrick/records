@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-party-s-over-836162.jpg" title="The Party's Over by Talk Talk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Talk Talk (3:20)
 2. It's So Serious (3:19)
 3. Today (3:28)
@@ -34,10 +33,6 @@ styles: ["New Wave", "Synth-pop"]
 7. Mirror Man (3:18)
 8. Another Word (3:12)
 9. Candy (4:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-partys-over/697202581" >}}<br>

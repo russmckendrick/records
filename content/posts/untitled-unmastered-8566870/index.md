@@ -20,10 +20,12 @@ genres: ["Hip Hop", "Jazz", "Funk / Soul"]
 styles: ["Funk", "Conscious"]
 ---
 
-{{< img src="untitled-unmastered-8566870.jpg" title="Untitled Unmastered. by Kendrick Lamar" >}}
+Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Untitled 01 | 08.19.2014.
 2. Untitled 02 | 06.23.2014.
 3. Untitled 03 | 05.28.2013.
@@ -32,13 +34,6 @@ styles: ["Funk", "Conscious"]
 6. Untitled 06 | 06.30.2014.
 7. Untitled 07 | 2014 - 2016
 8. Untitled 08 | 09.06.2014.
-
-<!-- section break -->
-
-Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/untitled-unmastered/1440844834" >}}<br>

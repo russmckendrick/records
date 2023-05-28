@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Avantgarde", "Psychedelic Rock"]
 ---
 
-{{< img src="mass-hypnosis-and-the-dark-triad-16863852.jpg" title="Mass Hypnosis And The Dark Triad by Bill Fisher" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. All Through The Night (3:21)
 2. Mirror Of Tomorrow (2:46)
 3. Celador (4:44)
@@ -33,10 +32,6 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 6. Days Of Old (3:04)
 7. Message From The Sky (2:37)
 8. Mass Hypnosis (4:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475" >}}<br>

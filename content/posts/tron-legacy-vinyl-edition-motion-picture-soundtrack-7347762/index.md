@@ -26,10 +26,9 @@ genres: ["Electronic", "Classical", "Stage & Screen"]
 styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ---
 
-{{< img src="tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762.jpg" title="TRON: Legacy (Vinyl Edition Motion Picture Soundtrack) by Daft Punk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Overture (2:28)
 2. The Grid (1:36)
 3. The Son Of Flynn (1:35)
@@ -60,10 +59,6 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 28. Castor (2:18)
 29. Reflections (2:36)
 30. Sunrise Prelude (2:55)
-
-<!-- section break -->
-
-
 
 
 

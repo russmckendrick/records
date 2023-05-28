@@ -23,23 +23,6 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic", "Classic Rock", "Country Rock"]
 ---
 
-{{< img src="harvest-3174466.jpg" title="Harvest by Neil Young" >}}
-
-<!-- section break -->
-
-1. Out On The Weekend (4:32)
-2. Harvest (3:09)
-3. A Man Needs A Maid (4:02)
-4. Heart Of Gold (3:07)
-5. Are You Ready For The Country? (3:24)
-6. Old Man (3:22)
-7. There's A World (2:59)
-8. Alabama (4:02)
-9. The Needle And The Damage Done (2:03)
-10. Words (Between The Lines Of Age) (6:47)
-
-<!-- section break -->
-
 Graham Nash tells a story about visiting Neil Young at his ranch in Northern California in 1971. Young asked Nash if he wanted to hear something; Nash said sure. Young led Nash down to a lake, where the two men got into a rowboat and started rowing. Nash said Young had been a mystery to him his entire life, so having to row out to the middle of a lake to have a conversation made sense. It turns out Young had outfitted his house and adjoining barn with enormous speakers, and the two men sat on the water and listened to <i>Harvest</i>. 
 
 The album gave Young his biggest commercial success, and in “Heart of Gold”, a song that defined the faded beauty of ’70s folk-rock and Young’s only No. 1 single. But its sparseness and sense of withdrawal also served as a pivot away from the civic-mindedness of the late 1960s and as the foundation for indie artists like Elliott Smith and albums like Nirvana’s <i>Unplugged</i>, whose strength seemed born more of fragility and isolation than anything else. Linda Ronstadt, who sang backup on both “Heart of Gold” and “Old Man”, described Young as a sketch artist whose roughness in the studio belied his ability to find the essence of a song and grab it by the throat. 
@@ -51,6 +34,18 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
         
     
 
+
+## Tracklisting
+1. Out On The Weekend (4:32)
+2. Harvest (3:09)
+3. A Man Needs A Maid (4:02)
+4. Heart Of Gold (3:07)
+5. Are You Ready For The Country? (3:24)
+6. Old Man (3:22)
+7. There's A World (2:59)
+8. Alabama (4:02)
+9. The Needle And The Damage Done (2:03)
+10. Words (Between The Lines Of Age) (6:47)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/harvest-50th-anniversary-edition/1648841033" >}}<br>

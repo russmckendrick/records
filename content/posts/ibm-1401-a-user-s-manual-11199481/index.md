@@ -29,10 +29,9 @@ genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
 
-{{< img src="ibm-1401-a-user-s-manual-11199481.jpg" title="IBM 1401, A User's Manual by Jóhann Jóhannsson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Part 1 / IBM 1401 Processing Unit (8:32)
 2. Part 2 / IBM 1403 Printer (9:33)
 3. Part 3 / IBM 1402 Card Read-Punch (10:23)
@@ -41,10 +40,6 @@ styles: ["Modern Classical"]
 6. Live
 7. Part 1 / IBM 1401 Processing Unit
 8. Part 5 / The Sun's Gone Dim And The Sky's Turned Black
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849" >}}<br>

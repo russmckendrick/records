@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="santana-s-greatest-hits-11498676.jpg" title="Santana's Greatest Hits by Santana" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Evil Ways (3:00)
 2. Jingo (2:44)
 3. Hope You're Feeling Better (4:10)
@@ -32,10 +31,6 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 8. Everything's Coming Our Way (3:16)
 9. Se A Cabo (2:51)
 10. Everybody's Everything (3:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}<br>

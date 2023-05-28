@@ -26,10 +26,13 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
-{{< img src="ooh-las-vegas-1395542.jpg" title="Ooh Las Vegas by Deacon Blue" >}}
+Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It contains B-sides, unreleased tracks, and songs written for William McIlvanney's television play Dreaming.
+The Japanese release also included the four tracks from the Four Bacharach & David Songs EP.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Disneyworld (2:49)
 2. Ronnie Spector (3:29)
 3. My America (3:10)
@@ -53,14 +56,6 @@ styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 21. Christine (2:26)
 22. Take Me To This Place (2:26)
 23. Don't Let The Teardrops Start (3:01)
-
-<!-- section break -->
-
-Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It contains B-sides, unreleased tracks, and songs written for William McIlvanney's television play Dreaming.
-The Japanese release also included the four tracks from the Four Bacharach & David Songs EP.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724" >}}<br>

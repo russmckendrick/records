@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="all-nerve-11629630.jpg" title="All Nerve by The Breeders" >}}
+All Nerve is the fifth full-length studio album by American alternative rock band the Breeders, released on March 2, 2018, 10 years after their previous album Mountain Battles (2008). A Stereogum article in June 2016 reported that the band was recording new material at their Ohio studio and in October 2017 they released the first single from the album titled "Wait in the Car". 4AD announced on January 9, 2018, that the new album would be made available on March 2, 2018, and released the album's second single, All Nerve on the same day. The album also marks the band's first in 25 years with their Last Splash lineup. Courtney Barnett guests on one song on the album; "Howl at the Summit".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nervous Mary (2:29)
 2. Wait In The Car (2:03)
 3. All Nerve (2:11)
@@ -41,14 +44,6 @@ styles: []
 9. Dawn: Making An Effort (3:50)
 10. Skinhead #2 (2:46)
 11. Blues At The Acropolis (2:56)
-
-<!-- section break -->
-
-All Nerve is the fifth full-length studio album by American alternative rock band the Breeders, released on March 2, 2018, 10 years after their previous album Mountain Battles (2008). A Stereogum article in June 2016 reported that the band was recording new material at their Ohio studio and in October 2017 they released the first single from the album titled "Wait in the Car". 4AD announced on January 9, 2018, that the new album would be made available on March 2, 2018, and released the album's second single, All Nerve on the same day. The album also marks the band's first in 25 years with their Last Splash lineup. Courtney Barnett guests on one song on the album; "Howl at the Summit".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-nerve/1319598646" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="birth-of-the-marvellous-13393404.jpg" title="Birth Of The Marvellous by Sermon" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Descend
 2. Festival
 3. The Drift
@@ -31,10 +30,6 @@ styles: ["Progressive Metal"]
 5. Chasm
 6. The Preacher
 7. The Rise Of Desiderata
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615" >}}<br>

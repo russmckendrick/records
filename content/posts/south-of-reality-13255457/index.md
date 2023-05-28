@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
 
-{{< img src="south-of-reality-13255457.jpg" title="South Of Reality by The Claypool Lennon Delirium" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Little Fishes (6:06)
 2. Blood And Rockets (6:30)
 3. South Of Reality (3:28)
@@ -36,10 +35,6 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 7. Toady Man's Hour (3:13)
 8. Cricket Chronicles Revisited (6:23)
 9. Like Fleas (3:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/south-of-reality/1440080018" >}}<br>

@@ -25,21 +25,16 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Experimental"]
 ---
 
-{{< img src="ommadawn-6644110.jpg" title="Ommadawn by Mike Oldfield" >}}
-
-<!-- section break -->
-
-1. Ommadawn Part 1 (19:14)
-2. Ommadawn Part 2 (17:17)
-
-<!-- section break -->
-
 Ommadawn is the third studio album by English musician, multi-instrumentalist and songwriter Mike Oldfield, released on 3 November 1975 on Virgin Records.Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 on the US Billboard 200. The song that concludes "Ommadawn (Part Two)", entitled "On Horseback", was released as a single in November 1975 with Oldfield's non-album track "In Dulci Jubilo". The album reached gold certification by the British Phonographic Industry within two months, signifying 100,000 copies sold. In 2010, Mercury Records issued a remastered edition containing new stereo and 5.1 surround sound mixes by Oldfield and extra material. Oldfield had wanted to make Amarok (1990) a sequel album to Ommadawn, but the idea was not realised until he released Return to Ommadawn (2017).
 
 
     
     
 
+
+## Tracklisting
+1. Ommadawn Part 1 (19:14)
+2. Ommadawn Part 2 (17:17)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ommadawn-deluxe-edition/1440735205" >}}<br>

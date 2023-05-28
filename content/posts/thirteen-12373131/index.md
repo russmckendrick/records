@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="thirteen-12373131.jpg" title="Thirteen by Teenage Fanclub" >}}
+Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, released in 1993 on Creation Records in the UK and Geffen in the US. It was commonly believed at the time that it was named after the song "Thirteen" by Big Star, a band that has heavily influenced Teenage Fanclub. The self-produced album was poorly received by critics on its release. It peaked at number 14 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hang On (5:05)
 2. The Cabbage (2:56)
 3. Radio (2:56)
@@ -43,13 +45,6 @@ styles: ["Indie Rock"]
 13. Gene Clark (6:37)
 14. Country Song (3:58)
 15. Eyes Wide Open (1:59)
-
-<!-- section break -->
-
-Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, released in 1993 on Creation Records in the UK and Geffen in the US. It was commonly believed at the time that it was named after the song "Thirteen" by Big Star, a band that has heavily influenced Teenage Fanclub. The self-produced album was poorly received by critics on its release. It peaked at number 14 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thirteen/1417070105" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ---
 
-{{< img src="stacked-up-xx-6329282.jpg" title="Stacked Up XX by Senser" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. States Of Mind (5:10)
 2. The Key (5:22)
 3. Switch (4:33)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 11. Eject (5:19)
 12. No Comply (2:37)
 13. Worth (3:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}<br>

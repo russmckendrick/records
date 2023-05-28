@@ -28,10 +28,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="in-time-the-best-of-r-e-m-1988-2003-13640264.jpg" title="In Time: The Best Of R.E.M. 1988-2003 by R.E.M." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Man On The Moon
 2. The Great Beyond
 3. Bad Day
@@ -50,10 +49,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 16. Everybody Hurts
 17. At My Most Beautiful
 18. Nightswimming
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>

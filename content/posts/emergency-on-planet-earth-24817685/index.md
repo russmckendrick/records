@@ -30,10 +30,13 @@ genres: ["Jazz", "Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Acid Jazz"]
 ---
 
-{{< img src="emergency-on-planet-earth-24817685.jpg" title="Emergency On Planet Earth by Jamiroquai" >}}
+Emergency on Planet Earth is the debut studio album by English funk and acid jazz band Jamiroquai, released on 14 June 1993 under Sony Soho Square. Prior its release, the band debuted in 1992 with "When You Gonna Learn" under Acid Jazz Records, and front-man Jay Kay was given a major-label deal with Sony Music. The album was produced as Kay formed the band and is characterised by its acid jazz foundations, layers of instrumentation and socially charged lyrics.
+Critical reviews of the album were generally positive and noted its 1970s stylings. It reached number one in the UK Albums Chart and sold over 1,200,000 copies worldwide. Its single "Too Young to Die" peaked at number 10 in the UK Singles Chart. A remastered version of the album was released in 2013 to coincide with the 20th anniversary of the album's release.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. When You Gonna Learn (3:47)
 2. Too Young To Die (6:04)
 3. Hooked Up (4:36)
@@ -44,14 +47,6 @@ styles: ["Acid Jazz"]
 8. Blow Your Mind (8:32)
 9. Revolution 1993 (10:16)
 10. Didgin' Out (2:36)
-
-<!-- section break -->
-
-Emergency on Planet Earth is the debut studio album by English funk and acid jazz band Jamiroquai, released on 14 June 1993 under Sony Soho Square. Prior its release, the band debuted in 1992 with "When You Gonna Learn" under Acid Jazz Records, and front-man Jay Kay was given a major-label deal with Sony Music. The album was produced as Kay formed the band and is characterised by its acid jazz foundations, layers of instrumentation and socially charged lyrics.
-Critical reviews of the album were generally positive and noted its 1970s stylings. It reached number one in the UK Albums Chart and sold over 1,200,000 copies worldwide. Its single "Too Young to Die" peaked at number 10 in the UK Singles Chart. A remastered version of the album was released in 2013 to coincide with the 20th anniversary of the album's release.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407" >}}<br>

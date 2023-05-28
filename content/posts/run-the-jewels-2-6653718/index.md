@@ -28,10 +28,14 @@ genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop"]
 ---
 
-{{< img src="run-the-jewels-2-6653718.jpg" title="Run The Jewels 2 by Run The Jewels" >}}
+Run the Jewels 2 is the second studio album by American hip hop duo Run the Jewels, which consists of Killer Mike and El-P. The album was released early for free on October 24, 2014, and the following day on iTunes. It was made available on CD and LP by Mass Appeal Records and RBC Records on October 28, 2014.
+Run the Jewels 2 received widespread acclaim from critics for its darker and more layered production, Killer Mike and El-P's lyricism and chemistry and its guest contributions. Several publications also ranked it as the best album of 2014, including Pitchfork, Complex and Stereogum. The album debuted at number 50 on the US Billboard 200, selling 12,000 copies in the first week.
+A parody remix album, Meow the Jewels, was released for free featuring beats created entirely from cat sounds. In addition to Meow the Jewels, a standard remix album was scheduled to be released by Fool's Gold Records in 2015 as well.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Jeopardy
 2. Oh My Darling Don't Cry
 3. Blockbuster Night Part 1
@@ -43,15 +47,6 @@ styles: ["Hardcore Hip-Hop"]
 9. Love Again (Akinyele Back)
 10. Crown
 11. Angel Duster
-
-<!-- section break -->
-
-Run the Jewels 2 is the second studio album by American hip hop duo Run the Jewels, which consists of Killer Mike and El-P. The album was released early for free on October 24, 2014, and the following day on iTunes. It was made available on CD and LP by Mass Appeal Records and RBC Records on October 28, 2014.
-Run the Jewels 2 received widespread acclaim from critics for its darker and more layered production, Killer Mike and El-P's lyricism and chemistry and its guest contributions. Several publications also ranked it as the best album of 2014, including Pitchfork, Complex and Stereogum. The album debuted at number 50 on the US Billboard 200, selling 12,000 copies in the first week.
-A parody remix album, Meow the Jewels, was released for free featuring beats created entirely from cat sounds. In addition to Meow the Jewels, a standard remix album was scheduled to be released by Fool's Gold Records in 2015 as well.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-2/1569903245" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="above-cirrus-23119040.jpg" title="Above Cirrus by Pure Reason Revolution" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Our Prism
 2. New Kind Of Evil
 3. Phantoms
@@ -45,10 +44,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 12. Scream Sideways (10:09)
 13. Dead Butterfly (7:09)
 14. Lucid (6:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/above-cirrus/1609674107" >}}<br>

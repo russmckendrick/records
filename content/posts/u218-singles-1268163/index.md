@@ -45,10 +45,15 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="u218-singles-1268163.jpg" title="U218 Singles by U2" >}}
+U218 Singles is a greatest hits album by Irish rock band U2, released in November 2006. In most markets, the album contains 18 songs: 16 of their most successful and popular singles, and two new songs. The 17th track is a cover version of the Skids' "The Saints Are Coming", recorded with Green Day to benefit Hurricane Katrina charities. The 18th and closing track was a new song entitled "Window in the Skies". In some markets such as the United Kingdom, an extra song, "I Will Follow", was included as the opening track. A DVD compilation of music videos from throughout the group's career entitled U218 Videos was released concurrent to U218 Singles.
+The album debuted on the Billboard 200 albums chart on 9 December 2006 at number 12 with sales of 134,000 copies. It spent 45 weeks on the chart. Despite not being released until November 2006, it was the seventh-highest-selling album in the world that year.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Beautiful Day (4:05)
 2. I Still Haven't Found What I'm Looking For (4:38)
 3. Pride (In The Name Of Love) (3:48)
@@ -67,16 +72,6 @@ styles: ["Pop Rock"]
 16. Sometimes You Can't Make It On Your Own (5:05)
 17. The Saints Are Coming (3:21)
 18. Window In The Skies (4:08)
-
-<!-- section break -->
-
-U218 Singles is a greatest hits album by Irish rock band U2, released in November 2006. In most markets, the album contains 18 songs: 16 of their most successful and popular singles, and two new songs. The 17th track is a cover version of the Skids' "The Saints Are Coming", recorded with Green Day to benefit Hurricane Katrina charities. The 18th and closing track was a new song entitled "Window in the Skies". In some markets such as the United Kingdom, an extra song, "I Will Follow", was included as the opening track. A DVD compilation of music videos from throughout the group's career entitled U218 Videos was released concurrent to U218 Singles.
-The album debuted on the Billboard 200 albums chart on 9 December 2006 at number 12 with sales of 134,000 copies. It spent 45 weeks on the chart. Despite not being released until November 2006, it was the seventh-highest-selling album in the world that year.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/u218-singles-deluxe-edition/1440729856" >}}<br>

@@ -29,10 +29,12 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="mr-robot-volume-3-original-television-series-soundtrack-11225407.jpg" title="Mr. Robot: Volume 3 (Original Television Series Soundtrack) by Mac Quayle" >}}
+Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving. Echoing the show’s trippy twists and turns, this music relies on dark synths and sparse, transparent rhythms (“2.0_2-FuxSocy.sln”) for a sense of glitchy dread. Often, however, it’s the music’s more ambient moments that distill the cleanest moments of tension, such as the airy piano/synth exercise “2.0_6-madame3xecutioner.oga” and “2.0_3-j0urnaling.ivs,” which combines chimneys of breezy overtones with ominous drones and unsettling percussive interjections.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 2.0_1-s4ve-the-w0rld.act (2:28)
 2. 2.0_2-FuxSocy.sln (2:32)
 3. 2.0_3-j0urnaling.ivs (1:58)
@@ -57,13 +59,6 @@ styles: ["Soundtrack", "Score"]
 22. 2.3_5-pun1shm3nt.ape (1:55)
 23. 2.4_1-heartworm.3gp (2:41)
 24. 2.4_2-m4ster-s1ave.msv (1:28)
-
-<!-- section break -->
-
-Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving. Echoing the show’s trippy twists and turns, this music relies on dark synths and sparse, transparent rhythms (“2.0_2-FuxSocy.sln”) for a sense of glitchy dread. Often, however, it’s the music’s more ambient moments that distill the cleanest moments of tension, such as the airy piano/synth exercise “2.0_6-madame3xecutioner.oga” and “2.0_3-j0urnaling.ivs,” which combines chimneys of breezy overtones with ominous drones and unsettling percussive interjections.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-3-original-television-series-soundtrack/1240417353" >}}<br>

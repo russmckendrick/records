@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="clone-of-the-universe-11533218.jpg" title="Clone Of The Universe by Fu Manchu" >}}
+It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Intelligent Worship
 2. (I've Been) Hexed
 3. Don't Panic
@@ -32,13 +34,6 @@ styles: ["Stoner Rock"]
 5. Nowhere Left To Hide
 6. Clone Of The Universe
 7. Il Mostro Atomico
-
-<!-- section break -->
-
-It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clone-of-the-universe/1325141667" >}}<br>

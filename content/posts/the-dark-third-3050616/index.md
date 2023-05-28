@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-dark-third-3050616.jpg" title="The Dark Third by Pure Reason Revolution" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aeropause
 2. Goshen's Remains
 3. Apprentice Of The Universe
@@ -44,10 +43,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 12. Borgens Vor
 13. The Exact Colour
 14. The Twyncyn / Trembling Willows
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>

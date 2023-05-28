@@ -19,10 +19,9 @@ genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
 
-{{< img src="cha-cha-cha-2950887.jpg" title="Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Torrid Cha Cha
 2. Chat Cha Cha
 3. Simple Cha Cha
@@ -33,10 +32,6 @@ styles: ["Cha-Cha"]
 8. Pass Cha Cha
 9. Vacation Cha Cha
 10. Piccadilly Cha Cha
-
-<!-- section break -->
-
-
 
 
 ## Spotify

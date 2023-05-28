@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="90125-12253387.jpg" title="90125 by Yes" >}}
+90125 is the eleventh studio album by the English progressive rock band Yes, released on 11 November 1983 by Atco Records. After Yes disbanded in 1981, following the Drama (1980) tour, bassist Chris Squire and drummer Alan White formed Cinema, and began recording an album with guitarist and singer-songwriter Trevor Rabin and original Yes keyboardist Tony Kaye, who had been fired in 1971. They adopted a more commercial and pop-oriented musical direction as the result of their new material, much of which derived from Rabin's demos, with former Yes singer Trevor Horn as their producer. During the mixing stage, former Yes singer Jon Anderson, who had left in 1980, accepted the invitation to return and record the lead vocals, and subsequently Cinema became the new lineup of Yes.
+Named for its Atco catalogue number, 90125 was released to a generally positive reception and introduced the band to a new generation of fans. It reached No. 5 on the US Billboard 200 and No. 16 on the UK Albums Chart, and remains their best selling album with over 3 million copies sold in the US. Of the album's four singles, "Owner of a Lonely Heart" was the most successful and is their only song to top the US Billboard Hot 100 chart. "Cinema" earned the group a Grammy Award for Best Rock Instrumental Performance. Yes toured for the album in 1984 and 1985 which included two headline shows at the inaugural Rock in Rio festival. It was remastered in 2004 with previously unreleased bonus tracks.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Owner Of A Lonely Heart (4:27)
 2. Hold On (5:15)
 3. It Can Happen (5:39)
@@ -35,14 +38,6 @@ styles: ["Pop Rock"]
 7. Our Song (4:16)
 8. City Of Love (4:48)
 9. Hearts (7:34)
-
-<!-- section break -->
-
-90125 is the eleventh studio album by the English progressive rock band Yes, released on 11 November 1983 by Atco Records. After Yes disbanded in 1981, following the Drama (1980) tour, bassist Chris Squire and drummer Alan White formed Cinema, and began recording an album with guitarist and singer-songwriter Trevor Rabin and original Yes keyboardist Tony Kaye, who had been fired in 1971. They adopted a more commercial and pop-oriented musical direction as the result of their new material, much of which derived from Rabin's demos, with former Yes singer Trevor Horn as their producer. During the mixing stage, former Yes singer Jon Anderson, who had left in 1980, accepted the invitation to return and record the lead vocals, and subsequently Cinema became the new lineup of Yes.
-Named for its Atco catalogue number, 90125 was released to a generally positive reception and introduced the band to a new generation of fans. It reached No. 5 on the US Billboard 200 and No. 16 on the UK Albums Chart, and remains their best selling album with over 3 million copies sold in the US. Of the album's four singles, "Owner of a Lonely Heart" was the most successful and is their only song to top the US Billboard Hot 100 chart. "Cinema" earned the group a Grammy Award for Best Rock Instrumental Performance. Yes toured for the album in 1984 and 1985 which included two headline shows at the inaugural Rock in Rio festival. It was remastered in 2004 with previously unreleased bonus tracks.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/90125/1049010572" >}}<br>

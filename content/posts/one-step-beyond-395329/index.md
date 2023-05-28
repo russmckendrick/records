@@ -21,10 +21,15 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-{{< img src="one-step-beyond-395329.jpg" title="One Step Beyond... by Madness" >}}
+One Step Beyond . . . is the debut studio album by the British ska-pop group Madness, released by Stiff Records. Recorded and mixed in about three weeks, the album peaked at number two and remained on the U.K. Albums Chart for more than a year. The album has received much critical praise. It was ranked 90th in a 2005 survey held by British television's Channel 4 to determine the 100 greatest albums of all time.
+This was the first album produced by the Clive Langer and Alan Winstanley team, who would go on to produce more Madness albums and to work with artists such as Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. One Step Beyond... (2:17)
 2. My Girl (2:44)
 3. Night Boat To Cairo (3:31)
@@ -40,16 +45,6 @@ styles: ["Ska"]
 13. Mummy's Boy (2:24)
 14. Madness (2:37)
 15. Chipmunks Are Go! (0:52)
-
-<!-- section break -->
-
-One Step Beyond . . . is the debut studio album by the British ska-pop group Madness, released by Stiff Records. Recorded and mixed in about three weeks, the album peaked at number two and remained on the U.K. Albums Chart for more than a year. The album has received much critical praise. It was ranked 90th in a 2005 survey held by British television's Channel 4 to determine the 100 greatest albums of all time.
-This was the first album produced by the Clive Langer and Alan Winstanley team, who would go on to produce more Madness albums and to work with artists such as Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-step-beyond-deluxe-version/1208852389" >}}<br>

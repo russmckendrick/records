@@ -26,10 +26,14 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="the-number-of-the-beast-6191421.jpg" title="The Number Of The Beast by Iron Maiden" >}}
+The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the United Kingdom by EMI Records and in the United States by Harvest and Capitol Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.
+The Number of the Beast was met with critical and commercial success, and became the band's first album to top the UK Albums Chart and reach the top 40 of the US Billboard 200. The album produced the singles "Run to the Hills" and "The Number of the Beast", the former of which became the band's first top-ten UK single. The album was also controversial, particularly in the United States, due to the religious references in its artwork and the title track's lyrics. Since the release of The Number of the Beast, "The Beast" has become an alternate name for Iron Maiden and was later used in the titles of some of their compilations and live releases, including Best of the Beast and Visions of the Beast.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Invaders (3:20)
 2. Children Of The Damned (4:34)
 3. The Prisoner (5:34)
@@ -38,15 +42,6 @@ styles: ["Heavy Metal"]
 6. Run To The Hills (3:50)
 7. Gangland (3:46)
 8. Hallowed Be Thy Name (7:08)
-
-<!-- section break -->
-
-The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the United Kingdom by EMI Records and in the United States by Harvest and Capitol Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.
-The Number of the Beast was met with critical and commercial success, and became the band's first album to top the UK Albums Chart and reach the top 40 of the US Billboard 200. The album produced the singles "Run to the Hills" and "The Number of the Beast", the former of which became the band's first top-ten UK single. The album was also controversial, particularly in the United States, due to the religious references in its artwork and the title track's lyrics. Since the release of The Number of the Beast, "The Beast" has become an alternate name for Iron Maiden and was later used in the titles of some of their compilations and live releases, including Best of the Beast and Visions of the Beast.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}<br>

@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="guerrilla-14283127.jpg" title="Guerrilla by Super Furry Animals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Check It Out (1:26)
 2. Do Or Die (1:59)
 3. The Turning Tide (2:49)
@@ -49,10 +48,6 @@ styles: ["Indie Rock"]
 13. The Sound Of Life Today (0:21)
 14. Chewing Chewing Gum (4:49)
 15. Keep The Cosmic Trigger Happy (2:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/guerrilla/270284548" >}}<br>

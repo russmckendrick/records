@@ -22,10 +22,12 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="aretha-s-greatest-hits-9007937.jpg" title="Aretha's Greatest Hits by Aretha Franklin" >}}
+This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Spanish Harlem (3:30)
 2. Chain Of Fools (2:45)
 3. Don't Play That Song (2:48)
@@ -40,13 +42,6 @@ styles: ["Soul"]
 12. I Never Loved A Man (The Way I Love You) (2:47)
 13. You're All I Need To Get By (3:34)
 14. Call Me (3:18)
-
-<!-- section break -->
-
-This collection spotlights the Queen of Soul’s epochal late-’60s and early-’70s work. She effortlessly transports the joyous spirit of Southern gospel to the worldly desires of “I Never Loved a Man (The Way I Love You)” and “Do Right Woman, Do Right Man,” and she establishes a landmark of assertiveness with “Respect.” Over the funky strut of “Rock Steady,” her fevered howls showcase how she could wield her muscular pipes with gale-force intensity.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/30-greatest-hits/933578756" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-{{< img src="open-up-and-say-ahh-11926311.jpg" title="Open Up and Say...Ahh! by Poison" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love On The Rocks
 2. Nothin' But A Good Time
 3. Back To The Rocking Horse
@@ -36,10 +35,6 @@ styles: ["Glam"]
 8. Every Rose Has Its Thorn
 9. Your Mama Don't Dance
 10. Bad To Be Good
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh-20th-anniversary-edition/716552394" >}}<br>

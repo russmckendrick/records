@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-{{< img src="slowdive-10229694.jpg" title="Slowdive by Slowdive" >}}
+Some bands take a few years to regroup for their next move; dream-pop pioneers Slowdive took 22, a return all the more bittersweet given how many bands their sound has influenced since. Combining the atmospherics of ambient music with rock ’n’ roll’s low center of gravity, <i>Slowdive</i> sounds as vital as anything the band recorded in the early ‘90s, whether it’s the foggy, countryish inflections of “No Longer Making Time” or the propulsive “Star Roving.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Slomo
 2. Star Roving
 3. Don't Know Why
@@ -36,14 +39,6 @@ styles: ["Shoegaze", "Indie Rock"]
 6. No Longer Making Time
 7. Go Get It
 8. Falling Ashes
-
-<!-- section break -->
-
-Some bands take a few years to regroup for their next move; dream-pop pioneers Slowdive took 22, a return all the more bittersweet given how many bands their sound has influenced since. Combining the atmospherics of ambient music with rock ’n’ roll’s low center of gravity, <i>Slowdive</i> sounds as vital as anything the band recorded in the early ‘90s, whether it’s the foggy, countryish inflections of “No Longer Making Time” or the propulsive “Star Roving.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slowdive/1210172617" >}}<br>

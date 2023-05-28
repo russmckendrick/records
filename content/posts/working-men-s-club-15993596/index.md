@@ -25,23 +25,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Post-Punk", "Acid House", "New Wave"]
 ---
 
-{{< img src="working-men-s-club-15993596.jpg" title="Working Men's Club by Working Men's Club" >}}
-
-<!-- section break -->
-
-1. Valleys (6:30)
-2. A. A. A. A.  (3:06)
-3. John Cooper Clarke (5:27)
-4. White Rooms & People (2:31)
-5. Outside (2:51)
-6. Be My Guest (3:56)
-7. Tomorrow (4:05)
-8. Cook A Coffee (2:51)
-9. Teeth (3:41)
-10. Angel (12:30)
-
-<!-- section break -->
-
 There aren’t many bands who undergo drastic sonic transformations <i>before</i> they’ve released their debut album. But Working Men’s Club’s music reflects the restless, push-it-forward energy of their leader Sydney Minsky-Sargeant. Originally a trio dealing in jerky New Wave, the band’s direction was diverted when Minsky-Sargeant took charge of the creative reins during the making of this self-titled debut. “I wanted to make a dance record, but I didn’t want to pigeonhole it as just being a dance record,” Minsky-Sargeant tells Apple Music. The frontman’s knack for snarling melodies remains, now beefed up with a sound that harks back to the dance floors of late-’80s Manchester, a heady mix of pulsing beats, acid house pianos and bold synths. “I started off writing music on my own, then it became more collaborative, then back to being solo again,” says Minsky-Sargeant. “I’m grateful that I was given a chance to do it on my own, because that was always the route it was going.” Here, Minsky-Sargeant takes us through the record, track by track.<br />
 <b>Valleys</b>
 “The way that it starts very barren, selectively adding overt components and instrumentation, I thought it was a good build-up to the start of the record and a good opening track. It's about where I'm from and how isolating it can feel to be in a small town in the North of England sometimes. It's quite a secluded, claustrophobic place sometimes. But I think everyone can relate to that in some way, wherever you live.”<br />
@@ -66,6 +49,18 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
     
     
 
+
+## Tracklisting
+1. Valleys (6:30)
+2. A. A. A. A.  (3:06)
+3. John Cooper Clarke (5:27)
+4. White Rooms & People (2:31)
+5. Outside (2:51)
+6. Be My Guest (3:56)
+7. Tomorrow (4:05)
+8. Cook A Coffee (2:51)
+9. Teeth (3:41)
+10. Angel (12:30)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/working-mens-club/1500785416" >}}<br>

@@ -19,24 +19,19 @@ genres: ["Jazz"]
 styles: ["Jazz-Funk"]
 ---
 
-{{< img src="phase-11622307.jpg" title="Phase by Mildlife" >}}
+Phase is the debut studio album by Australian psychedelic jazz fusion group, Mildlife. The album was released 2 November 2017.
+At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria Awards of 2018, the album was nominated for Best Soul, Funk, R'n'B and Gospel Album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Magnificent Moon (8:52)
 2. Zwango Zop (4:49)
 3. Im Blau (7:08)
 4. Phase (6:19)
 5. Two Horizons (6:04)
 6. The Gloves Don't Bite (6:47)
-
-<!-- section break -->
-
-Phase is the debut studio album by Australian psychedelic jazz fusion group, Mildlife. The album was released 2 November 2017.
-At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria Awards of 2018, the album was nominated for Best Soul, Funk, R'n'B and Gospel Album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phase/1676185074" >}}<br>

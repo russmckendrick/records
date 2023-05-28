@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock"]
 ---
 
-{{< img src="frampton-comes-alive-7084077.jpg" title="Frampton Comes Alive! by Peter Frampton" >}}
+Frampton Comes Alive! is the first double live album by English rock musician Peter Frampton, released in 1976 by A&M Records. It is one of the best-selling live albums. "Show Me the Way", "Baby, I Love Your Way", and "Do You Feel Like We Do" were all released as singles; all three reached the Top 15 on the US Billboard Hot 100, and frequently receive significant amount of airplay on classic rock radio stations. Following four solo albums with little commercial success, Frampton Comes Alive! was a breakthrough for Frampton.
+Released on January 6, 1976, Frampton Comes Alive! debuted on the charts at 191. It reached number one on the Billboard 200 the week ending April 10, 1976, eventually spending a total of 10 non-consecutive weeks in the top spot through October. It was the best-selling album of 1976, selling over 8 million copies in the US and becoming one of the best-selling live albums to date, with estimated sales of 20 million worldwide.Frampton Comes Alive! was voted "Album of the Year" in a 1976 Rolling Stone readers' poll. It stayed on the chart for 97 weeks and was still No. 14 on Billboard's 1977 year-end album chart. It was ranked No. 41 on Rolling Stone's "50 Greatest Live Albums of All Time" list. Readers of Rolling Stone ranked it No. 3 in a 2012 poll of all-time favourite live albums.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. (Baby) Something's Happening (5:54)
 2. Doobie Wah (5:28)
 3. Show Me The Way (4:42)
@@ -43,15 +47,6 @@ styles: ["Rock & Roll", "Pop Rock"]
 12. Jumping Jack Flash (7:45)
 13. Lines On My Face (7:06)
 14. Do You Feel Like We Do (14:15)
-
-<!-- section break -->
-
-Frampton Comes Alive! is the first double live album by English rock musician Peter Frampton, released in 1976 by A&M Records. It is one of the best-selling live albums. "Show Me the Way", "Baby, I Love Your Way", and "Do You Feel Like We Do" were all released as singles; all three reached the Top 15 on the US Billboard Hot 100, and frequently receive significant amount of airplay on classic rock radio stations. Following four solo albums with little commercial success, Frampton Comes Alive! was a breakthrough for Frampton.
-Released on January 6, 1976, Frampton Comes Alive! debuted on the charts at 191. It reached number one on the Billboard 200 the week ending April 10, 1976, eventually spending a total of 10 non-consecutive weeks in the top spot through October. It was the best-selling album of 1976, selling over 8 million copies in the US and becoming one of the best-selling live albums to date, with estimated sales of 20 million worldwide.Frampton Comes Alive! was voted "Album of the Year" in a 1976 Rolling Stone readers' poll. It stayed on the chart for 97 weeks and was still No. 14 on Billboard's 1977 year-end album chart. It was ranked No. 41 on Rolling Stone's "50 Greatest Live Albums of All Time" list. Readers of Rolling Stone ranked it No. 3 in a 2012 poll of all-time favourite live albums.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/frampton-comes-alive-live/1440754678" >}}<br>

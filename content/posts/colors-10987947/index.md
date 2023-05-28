@@ -25,10 +25,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Dance-pop", "New Wave"]
 ---
 
-{{< img src="colors-10987947.jpg" title="Colors by Beck" >}}
+Colors is the thirteenth studio album by American musician Beck, released on October 13, 2017, by Fonograf Records &  Capitol Records. The album was recorded between 2013 and 2017, with Beck producing alongside Greg Kurstin. The album's earliest single, "Dreams", was released in June 2015, while three more singles ("Wow", "Dear Life" in Italy and "Up All Night" in the US) were released between June 2016 and September 2017. The title track was also released as a single in April 2018. The album won the Best Alternative Music Album and Best Engineered Album, Non-Classical at the 61st Annual Grammy Awards.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Colors (4:21)
 2. Seventh Heaven (5:00)
 3. I'm So Free (4:08)
@@ -39,15 +43,6 @@ styles: ["Dance-pop", "New Wave"]
 8. Up All Night (3:10)
 9. Square One (2:55)
 10. Fix Me (3:13)
-
-<!-- section break -->
-
-Colors is the thirteenth studio album by American musician Beck, released on October 13, 2017, by Fonograf Records &  Capitol Records. The album was recorded between 2013 and 2017, with Beck producing alongside Greg Kurstin. The album's earliest single, "Dreams", was released in June 2015, while three more singles ("Wow", "Dear Life" in Italy and "Up All Night" in the US) were released between June 2016 and September 2017. The title track was also released as a single in April 2018. The album won the Best Alternative Music Album and Best Engineered Album, Non-Classical at the 61st Annual Grammy Awards.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/colors/1440881121" >}}<br>

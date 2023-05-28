@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="virus-15637222.jpg" title="Virus by Haken" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prosthetic
 2. Invasion
 3. Carousel
@@ -46,10 +45,6 @@ styles: ["Progressive Metal"]
 12. Canary Yellow
 13. Messiah Complex
 14. Only Stars
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/virus-deluxe-edition/1503491133" >}}<br>

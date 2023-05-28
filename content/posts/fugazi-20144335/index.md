@@ -37,10 +37,13 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="fugazi-20144335.jpg" title="Fugazi by Marillion" >}}
+Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
+According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Record 1 - Fugazi (2021 Remix)
 2. Assassing (7:01)
 3. Punch And Judy (3:22)
@@ -66,14 +69,6 @@ styles: ["Prog Rock"]
 23. Fortgotten Sons (11:03)
 24. Garden Party (6:35)
 25. Market Square Heroes (10:46)
-
-<!-- section break -->
-
-Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
-According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}<br>

@@ -1,0 +1,75 @@
+<script>
+  var indexUrl = "{{ "index.json" | absURL }}";
+  </script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+  var index = null;
+  var store = null;
+  fetch(indexUrl)
+  function doSearch(query) {
+  var searchResultsContainer = document.getElementById("search-results");
+
+  // If the search query is empty, clear the search results and return
+  if (!index || !store || !query) {
+    searchResultsContainer.innerHTML = '';
+    return;
+  }
+
+  var results = index.search(query).map(function (result) {
+    return store[result.ref];
+  });
+
+  searchResultsContainer.innerHTML = '';
+  var spotlightsSection = searchResultsContainer;
+
+  results.forEach(function (result, index) {
+    var resultElement = document.createElement("div");
+    resultElement.className = "";
+    resultElement.innerHTML = `
+    <div
+    class="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
+    <a href="${result.uri}">
+        <img class="rounded-t-lg"
+            src="${result.coverImage}">
+    </a>
+    <div class="p-4">
+        <h1
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            ${result.album} by ${result.artist}
+        </h1>
+    </div>
+    </div>`;
+    spotlightsSection.appendChild(resultElement);
+  });
+}
+
+  fetch("{{ "index.json" | absURL }}")
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (data) {
+      store = {};
+      data.documents.forEach(function (doc) {
+        store[doc.uri] = doc;
+      });
+
+      index = lunr(function () {
+        this.ref("uri");
+        this.field("title");
+        this.field("artist");
+        this.field("album");
+        this.field("date");
+        this.field("coverImage");
+        this.field("artistImage");
+        this.field("artistUri");
+
+        data.documents.forEach(function (doc) {
+          this.add(doc);
+        }, this);
+      });
+
+      document.getElementById("search").addEventListener("input", function (event) {
+        doSearch(event.target.value);
+      });
+    });
+</script>

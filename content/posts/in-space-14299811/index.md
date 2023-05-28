@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-{{< img src="in-space-14299811.jpg" title="In Space by Big Star" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dony
 2. Lady Sweet
 3. Best Chance
@@ -38,10 +37,6 @@ styles: ["Power Pop"]
 10. Hung Up With Summer
 11. Do You Wanna Make It
 12. Makeover
-
-<!-- section break -->
-
-
 
 
 

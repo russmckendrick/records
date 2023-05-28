@@ -23,10 +23,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="greatest-hits-6123681.jpg" title="Greatest Hits by Fleetwood Mac" >}}
+The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rhiannon (4:12)
 2. Don't Stop (3:12)
 3. Go Your Own Way (3:36)
@@ -40,14 +43,6 @@ styles: ["Pop Rock", "Classic Rock"]
 11. Sara (6:26)
 12. Tusk (3:36)
 13. No Questions Asked (4:41)
-
-<!-- section break -->
-
-The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
 ---
 
-{{< img src="the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149.jpg" title="The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ode To Billie Joe
 2. Chickasaw County Child
 3. Hurry, Tuesday Child (Demo)
@@ -58,10 +57,6 @@ styles: ["Country Rock", "Country"]
 30. Smoke
 31. Joanne
 32. The Girl From Cincinnati
-
-<!-- section break -->
-
-
 
 
 

@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ---
 
-{{< img src="apricity-9254219.jpg" title="Apricity by Syd Arthur" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Coal Mine
 2. Plane Crash In Kansas
 3. No Peace
@@ -32,10 +31,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 8. Portal
 9. Evolution
 10. Apricity
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/apricity/1442241018" >}}<br>

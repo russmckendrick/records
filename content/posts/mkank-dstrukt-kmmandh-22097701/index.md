@@ -22,10 +22,9 @@ genres: ["Jazz", "Rock"]
 styles: ["Avant-garde Jazz", "Prog Rock"]
 ---
 
-{{< img src="mkank-dstrukt-kmmandh-22097701.jpg" title="Mëkanïk Dëstruktïẁ Kömmandöh by Magma" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hortz Fur Dëhn Stëkëhn Ẁest (9:36)
 2. Ïma Sürï Dondaï (4:30)
 3. Kobaïa Is Dë Hündïn (3:33)
@@ -33,10 +32,6 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 5. Nëbëhr Gudahtt (6:03)
 6. Mëkanïk Kömmandöh (4:09)
 7. Kreühn Köhrmahn Ïss Dë Hündïn (3:13)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mekanik-destruktiw-kommandoh-2017-remastered-version/1534549783" >}}<br>

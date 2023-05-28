@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="monochrome-10932389.jpg" title="Monochrome by Danny Cavanagh" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Exorcist (6:43)
 2. This Music (4:50)
 3. Soho (7:39)
@@ -34,10 +33,6 @@ styles: ["Prog Rock"]
 5. Dawn (2:42)
 6. Oceans Of Time (8:14)
 7. Some Dreams Come True (8:34)
-
-<!-- section break -->
-
-
 
 
 

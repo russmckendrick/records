@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
 
-{{< img src="mad-dogs-englishmen-3339945.jpg" title="Mad Dogs & Englishmen by Joe Cocker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction (0:45)
 2. Honky Tonk Woman (3:35)
 3. Introduction (0:10)
@@ -45,10 +44,6 @@ styles: ["Blues Rock", "Classic Rock"]
 17. Space Captain (4:55)
 18. The Letter (4:20)
 19. Delta Lady (5:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}<br>

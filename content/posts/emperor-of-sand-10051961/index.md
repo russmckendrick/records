@@ -29,10 +29,13 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Sludge Metal"]
 ---
 
-{{< img src="emperor-of-sand-10051961.jpg" title="Emperor Of Sand by Mastodon" >}}
+With their customary cross-breeding of rock genres, the Georgians reflect on mortality and serious illness via the story of a condemned man wandering the desert. So far, so prog. Indeed, “Jaguar God” spends eight minutes running the gamut from folk-rock and psychedelic abandon to iron-plated riffs and acrobatic fretwork. This deeply emotional record isn’t a wholesale return to the intricate epics of 2009’s <i>Crack the Skye</i>, though: the punchy hard rock of “Show Yourself” and the melodic sludge of “Steambreather” deliver instant, fun-sized thrills.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sultan's Curse (4:09)
 2. Show Yourself (3:02)
 3. Precious Stones (3:46)
@@ -44,14 +47,6 @@ styles: ["Progressive Metal", "Sludge Metal"]
 9. Andromeda (4:03)
 10. Scorpion Breath  (3:18)
 11. Jaguar God (7:56)
-
-<!-- section break -->
-
-With their customary cross-breeding of rock genres, the Georgians reflect on mortality and serious illness via the story of a condemned man wandering the desert. So far, so prog. Indeed, “Jaguar God” spends eight minutes running the gamut from folk-rock and psychedelic abandon to iron-plated riffs and acrobatic fretwork. This deeply emotional record isn’t a wholesale return to the intricate epics of 2009’s <i>Crack the Skye</i>, though: the punchy hard rock of “Show Yourself” and the melodic sludge of “Steambreather” deliver instant, fun-sized thrills.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}<br>

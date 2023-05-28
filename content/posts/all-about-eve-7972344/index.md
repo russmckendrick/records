@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 ---
 
-{{< img src="all-about-eve-7972344.jpg" title="All About Eve by All About Eve" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Flowers In Our Hair (4:18)
 2. Gypsy Dance (3:57)
 3. In The Clouds (3:28)
@@ -44,10 +43,6 @@ styles: ["Folk Rock", "Alternative Rock", "Goth Rock"]
 9. Never Promise (Anyone Forever) (3:49)
 10. What Kind Of Fool (3:57)
 11. In The Meadow (5:33)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-about-eve/1442969916" >}}<br>

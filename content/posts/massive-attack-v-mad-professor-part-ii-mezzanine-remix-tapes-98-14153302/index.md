@@ -23,10 +23,9 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Dub", "Trip Hop"]
 ---
 
-{{< img src="massive-attack-v-mad-professor-part-ii-mezzanine-remix-tapes-98-14153302.jpg" title="Massive Attack V. Mad Professor Part II (Mezzanine Remix Tapes '98) by Massive Attack" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Metal Banshee (Mad Professor Mix One) (5:49)
 2. Angel (Angel Dust) (6:04)
 3. Teardrop (Mazaruni Dub One) (6:05)
@@ -35,10 +34,6 @@ styles: ["Dub", "Trip Hop"]
 6. Exchange (Mountain Steppers Dub) (5:44)
 7. Wire (Leaping Dub) (5:21)
 8. Group Four (Security Forces Dub) (8:14)
-
-<!-- section break -->
-
-
 
 
 

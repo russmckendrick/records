@@ -23,10 +23,12 @@ genres: ["Blues", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 ---
 
-{{< img src="the-blues-brothers-original-soundtrack-recording-16032516.jpg" title="The Blues Brothers (Original Soundtrack Recording) by The Blues Brothers" >}}
+The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy. 
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. She Caught The Katy (4:10)
 2. Peter Gunn Theme (3:46)
 3. Gimme Some Lovin' (3:06)
@@ -38,13 +40,6 @@ styles: ["Soundtrack", "Score", "Rhythm & Blues"]
 9. Minnie The Moocher (3:23)
 10. Sweet Home Chicago (7:48)
 11. Jailhouse Rock (3:19)
-
-<!-- section break -->
-
-The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturday Night Live</i> grew into a multimedia phenomenon, but even with the comedy stripped away, the soundtrack to their 1980 cult-classic film still stands tall. When they’re not ceding the spotlight to R&B giants like Ray Charles (“Shake a Tail Feather”) and Aretha Franklin (“Think”), they stir blues, soul and rock ’n’ roll together with such unbridled energy, infectious enthusiasm and star-quality charisma that it’s impossible not to get caught up in the frenzy. 
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}<br>

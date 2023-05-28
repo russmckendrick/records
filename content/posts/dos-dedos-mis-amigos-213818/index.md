@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Indie Rock", "Experimental"]
 ---
 
-{{< img src="dos-dedos-mis-amigos-213818.jpg" title="Dos Dedos Mis Amigos by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ich Bin Ein Auslander (4:01)
 2. Kick To Kill (3:26)
 3. Familus Horribilus (4:05)
@@ -38,10 +37,6 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 9. Everything's Cool (4:23)
 10. R.S.V.P. (3:34)
 11. Babylon (5:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dos-dedos-mis-amigos/1449628743" >}}<br>

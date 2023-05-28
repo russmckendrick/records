@@ -18,10 +18,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="a-very-british-synthesizer-group-9408456.jpg" title="A Very British Synthesizer Group by The Human League" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Being Boiled (Fast Version) (3:50)
 2. The Dignity Of Labour (Part 3) (3:51)
 3. Empire State Human (3:13)
@@ -52,10 +51,6 @@ styles: ["Synth-pop"]
 28. Night People (Radio Edit) (3:02)
 29. Never Let Me Go (4:56)
 30. Sky (Radio Edit) (3:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-super/1443093911" >}}<br>

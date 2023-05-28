@@ -19,10 +19,9 @@ genres: ["Electronic", "Reggae"]
 styles: ["Downtempo", "Dub", "Trip Hop"]
 ---
 
-{{< img src="no-protection-9442827.jpg" title="No Protection by Massive Attack" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Radiation Ruling The Nation (Protection) (8:35)
 2. Bumper Ball Dub (Karmacoma) (5:59)
 3. Trinity Dub (Three) (4:22)
@@ -31,10 +30,6 @@ styles: ["Downtempo", "Dub", "Trip Hop"]
 6. Moving Dub (Better Things) (5:57)
 7. I Spy (Spying Glass) (5:07)
 8. Backward Sucking (Heat Miser) (6:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-protection/723371523" >}}<br>

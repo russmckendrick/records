@@ -27,10 +27,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 ---
 
-{{< img src="queen-of-denmark-2262071.jpg" title="Queen Of Denmark by John Grant" >}}
+Queen of Denmark is the debut solo album by American musician and former The Czars frontman John Grant, released via Bella Union on April 19, 2010. It is a collaboration between Grant and members of the American folk rock band Midlake, who had persuaded him to end his four-year hiatus from music following the break-up of The Czars.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. TC And Honeybear
 2. Marz
 3. Where Dreams Go To Die
@@ -43,13 +45,6 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 10. Caramel
 11. Leopard & Lamb
 12. Queen Of Denmark
-
-<!-- section break -->
-
-Queen of Denmark is the debut solo album by American musician and former The Czars frontman John Grant, released via Bella Union on April 19, 2010. It is a collaboration between Grant and members of the American folk rock band Midlake, who had persuaded him to end his four-year hiatus from music following the break-up of The Czars.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queen-of-denmark/671954335" >}}<br>

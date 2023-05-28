@@ -45,10 +45,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="the-wall-immersion-box-set-3430390.jpg" title="The Wall - Immersion Box Set by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Original Album, Remastered In 2011 (39:14)
 2. In The Flesh? (3:20)
 3. The Thin Ice (2:26)
@@ -187,10 +186,6 @@ styles: ["Art Rock", "Prog Rock"]
 136. Another Brick In The Wall, Part 2 (Promotional Video - Restored In 2011) (3:20)
 137. Behind The Wall - Documentary (50:27)
 138. Gerald Scarfe Interview (17:21)
-
-<!-- section break -->
-
-
 
 
 

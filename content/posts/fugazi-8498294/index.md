@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Punk", "Emo", "Post-Hardcore"]
 ---
 
-{{< img src="fugazi-8498294.jpg" title="Fugazi by Fugazi" >}}
+Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
+According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Waiting Room
 2. Bulldog Front
 3. Bad Mouth
@@ -34,14 +37,6 @@ styles: ["Punk", "Emo", "Post-Hardcore"]
 5. Give Me The Cure
 6. Suggestion
 7. Glue Man
-
-<!-- section break -->
-
-Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
-According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}<br>

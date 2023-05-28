@@ -28,10 +28,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="funeral-2093841.jpg" title="Funeral by Arcade Fire" >}}
+Funeral is the debut studio album by Canadian indie rock band Arcade Fire, released on September 14, 2004 by Merge Records. Preliminary recordings for Funeral were made during the course of a week in August 2003 at the Hotel2Tango in Montreal, Quebec, and the recording was completed later that year all in an analogue recording format.
+The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time.  According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Neighborhood #1 (Tunnels) (4:48)
 2. Neighborhood #2 (Laïka) (3:32)
 3. Une Année Sans Lumiere (5:12)
@@ -42,17 +48,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 8. Haiti (4:07)
 9. Rebellion (Lies) (5:10)
 10. In The Backseat (6:20)
-
-<!-- section break -->
-
-Funeral is the debut studio album by Canadian indie rock band Arcade Fire, released on September 14, 2004 by Merge Records. Preliminary recordings for Funeral were made during the course of a week in August 2003 at the Hotel2Tango in Montreal, Quebec, and the recording was completed later that year all in an analogue recording format.
-The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time.  According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/funeral/1249417623" >}}<br>

@@ -22,20 +22,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="horrific-honorifics-11645142.jpg" title="Horrific Honorifics by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. False Spring
 2. The Golden Boy Swallowed By The Sea
 3. Will-O-The-Wisp
 4. Victory
 5. In Bad Dreams
 6. The Faith Healer
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-feat-crippled-black-phoenix/1331662196" >}}<br>

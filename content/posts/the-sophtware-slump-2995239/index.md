@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-sophtware-slump-2995239.jpg" title="The Sophtware Slump by Grandaddy" >}}
+The Sophtware Slump is the second studio album by American indie rock band Grandaddy. It was released in May 2000 by record label V2. It is seen by some as a concept album about problems concerning modern technology in society. The album was released to critical acclaim.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. He's Simple, He's Dumb, He's The Pilot
 2. Hewlett's Daughter
 3. Jed The Humanoid
@@ -39,13 +41,6 @@ styles: []
 9. E. Knievel Interlude (The Perils Of Keeping It Real)
 10. Miner At The Dial-A-View
 11. So You'll Aim Towards The Sky
-
-<!-- section break -->
-
-The Sophtware Slump is the second studio album by American indie rock band Grandaddy. It was released in May 2000 by record label V2. It is seen by some as a concept album about problems concerning modern technology in society. The album was released to critical acclaim.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump/1440937568" >}}<br>

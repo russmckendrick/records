@@ -22,10 +22,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="soul-men-10527579.jpg" title="Soul Men by Sam & Dave" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Soul Man (2:36)
 2. May I Baby (2:38)
 3. Broke Down Piece Of Man (2:46)
@@ -37,10 +36,6 @@ styles: ["Soul"]
 9. The Good Runs The Bad Way (2:15)
 10. Rich Kind Of Poverty (2:13)
 11. I've Seen What Loneliness Can Do (2:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-men/265640765" >}}<br>

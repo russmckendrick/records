@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="oops-wrong-planet-1393361.jpg" title="Oops! Wrong Planet by Utopia" >}}
+Oops! Wrong Planet is the third studio album by American rock band  Utopia. It delivers a markedly trimmed down, pop-oriented direction for the band following the progressively influenced previous album, Ra.
+Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Trapped (3:06)
 2. Windows (4:17)
 3. Love In Action (3:26)
@@ -37,14 +40,6 @@ styles: ["Art Rock", "Prog Rock"]
 10. My Angel (3:40)
 11. Rape Of The Young (3:11)
 12. Love Is The Answer (4:10)
-
-<!-- section break -->
-
-Oops! Wrong Planet is the third studio album by American rock band  Utopia. It delivers a markedly trimmed down, pop-oriented direction for the band following the progressively influenced previous album, Ra.
-Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oops-wrong-planet/129641944" >}}<br>

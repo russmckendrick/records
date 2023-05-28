@@ -27,23 +27,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield"]
 ---
 
-{{< img src="scorpio-rising-92522.jpg" title="Scorpio Rising by Death In Vegas" >}}
-
-<!-- section break -->
-
-1. Leather
-2. Girls
-3. Hands Around My Throat
-4. 23 Lies
-5. Scorpio Rising
-6. Killing Smile
-7. Natja
-8. So You Say You Lost Your Baby
-9. Diving Horses
-10. Help Yourself
-
-<!-- section break -->
-
 Scorpio Rising is the third album by British electronica band Death in Vegas. It was released on 16 September 2002 in the United Kingdom via Concrete Records, and on 17 June 2003 in the United States via Sanctuary Records. The album takes its name from an experimental film by Kenneth Anger. Scorpio Rising features guest vocalists Liam Gallagher, Hope Sandoval, Nicola Kuperus, and Paul Weller, as well as string arrangements by L. Subramaniam. The album was recorded at Death in Vegas' own studio The Contino Rooms in early 2002, with the strings recorded at Trinity Wave Station in Chennai, India.The song "Hands Around My Throat" contains samples from the songs "Rock Around the Clock" by Telex (written by Max C. Freedman and Jimmy DeKnight) and "Whitewater" by Tortoise (written by Dan Bitney, Bundy Kien Brown, John Herndon, Doug McCombs, and John McEntire). "23 Lies" includes a sample from "Goin' Back" by The Byrds, written and composed by Carole King and Gerry Goffin. "Scorpio Rising" takes its main riff from "Pictures of Matchstick Men" by Status Quo, and is co-credited to songwriter Francis Rossi.
 Several songs on the album have appeared in television advertisements and on film soundtracks:
 
@@ -54,6 +37,18 @@ Several songs on the album have appeared in television advertisements and on fil
     
     
 
+
+## Tracklisting
+1. Leather
+2. Girls
+3. Hands Around My Throat
+4. 23 Lies
+5. Scorpio Rising
+6. Killing Smile
+7. Natja
+8. So You Say You Lost Your Baby
+9. Diving Horses
+10. Help Yourself
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/274003120" >}}<br>

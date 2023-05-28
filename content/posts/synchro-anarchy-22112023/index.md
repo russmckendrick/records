@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Thrash", "Progressive Metal"]
 ---
 
-{{< img src="synchro-anarchy-22112023.jpg" title="Synchro Anarchy by Voïvod" >}}
+Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, by Canadian heavy metal band Voivod, released on February 11, 2022. Like its predecessor The Wake, this album was produced by Voivod and Francis Perron who also recorded and mixed it. The mastering was done by Maor Appelbaum and the artwork was designed by drummer Michel "Away" Langevin, who has created the cover artwork for each of the band's albums since their 1984 debut War and Pain. Synchro Anarchy also marks the first album by Voivod since 2009's Infini to have been recorded with the same lineup as the prior album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Paranormalium (5:35)
 2. Synchro Anarchy (4:25)
 3. Planet Eaters (5:33)
@@ -35,13 +37,6 @@ styles: ["Thrash", "Progressive Metal"]
 7. The World Today (4:10)
 8. Quest For Nothing (5:38)
 9. Memory Failure (5:33)
-
-<!-- section break -->
-
-Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, by Canadian heavy metal band Voivod, released on February 11, 2022. Like its predecessor The Wake, this album was produced by Voivod and Francis Perron who also recorded and mixed it. The mastering was done by Maor Appelbaum and the artwork was designed by drummer Michel "Away" Langevin, who has created the cover artwork for each of the band's albums since their 1984 debut War and Pain. Synchro Anarchy also marks the first album by Voivod since 2009's Infini to have been recorded with the same lineup as the prior album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/synchro-anarchy-deluxe-edition/1596373988" >}}<br>

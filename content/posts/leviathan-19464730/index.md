@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Drone", "Deep Techno"]
 ---
 
-{{< img src="leviathan-19464730.jpg" title="Leviathan by The Grid" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Empire
 2. Milkwood
 3. Pulse Detected
@@ -37,10 +36,6 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 7. Fire Tower
 8. Zhora
 9. Sympatico
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}<br>

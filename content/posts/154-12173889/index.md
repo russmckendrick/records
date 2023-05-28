@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk", "Experimental"]
 ---
 
-{{< img src="154-12173889.jpg" title="154 by Wire" >}}
+154 is the third album by the English post-punk band Wire, released in 1979 
+on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Should Have Known Better (3:50)
 2. Two People In A Room (2:08)
 3. The 15th (3:02)
@@ -38,14 +41,6 @@ styles: ["New Wave", "Punk", "Experimental"]
 11. Map Ref. 41ºN 93ºW (3:35)
 12. Indirect Enquiries (3:33)
 13. 40 Versions (3:26)
-
-<!-- section break -->
-
-154 is the third album by the English post-punk band Wire, released in 1979 
-on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/154-2006-remastered-version/1339606590" >}}<br>

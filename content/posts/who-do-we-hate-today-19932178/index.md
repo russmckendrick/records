@@ -23,10 +23,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="who-do-we-hate-today-19932178.jpg" title="Who Do We Hate Today by Jim Bob" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jim's Bed of Unease (Intro)
 2. The Earth Bleeds Out
 3. Shona Is Dating A Drunk, Woman Hating Neanderthal Man
@@ -40,10 +39,6 @@ styles: ["Alternative Rock"]
 11. Evan Knows The Sirens
 12. The Loneliest Elephant In The World
 13. Who Do We Hate Today?
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/who-do-we-hate-today/1566592596" >}}<br>

@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="hatful-of-hollow-4418602.jpg" title="Hatful Of Hollow by The Smiths" >}}
+Hatful of Hollow is a compilation album by English rock band the Smiths, released on 12 November 1984 by Rough Trade Records. The album features BBC Radio 1 studio recordings and two contemporary singles with their B-sides. It was eventually released in the United States on 9 November 1993 by Sire Records, who had initially declined to release the album in the US. Sire instead released Louder Than Bombs in the US in 1987—which contains several of the same tracks as Hatful of Hollow—as well as many from the UK compilation The World Won't Listen.
+Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart for 46 weeks. In 2000, Q magazine placed the album at No. 44 on its list of the "100 Greatest British Albums Ever".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. William, It Was Really Nothing (2:09)
 2. What Difference Does It Make? (3:42)
 3. These Things Take Time (2:33)
@@ -39,15 +43,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 14. Back To The Old House (3:02)
 15. Reel Around The Fountain (5:51)
 16. Please Please Please Let Me Get What I Want (1:50)
-
-<!-- section break -->
-
-Hatful of Hollow is a compilation album by English rock band the Smiths, released on 12 November 1984 by Rough Trade Records. The album features BBC Radio 1 studio recordings and two contemporary singles with their B-sides. It was eventually released in the United States on 9 November 1993 by Sire Records, who had initially declined to release the album in the US. Sire instead released Louder Than Bombs in the US in 1987—which contains several of the same tracks as Hatful of Hollow—as well as many from the UK compilation The World Won't Listen.
-Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart for 46 weeks. In 2000, Q magazine placed the album at No. 44 on its list of the "100 Greatest British Albums Ever".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hatful-of-hollow/799969670" >}}<br>

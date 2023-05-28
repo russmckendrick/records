@@ -19,10 +19,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
-{{< img src="mr-love-pants-7235873.jpg" title="Mr Love Pants by Ian Dury And The Blockheads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jack Shit George (4:23)
 2. The Passing Show (4:24)
 3. You're My Baby (3:30)
@@ -33,10 +32,6 @@ styles: ["Pop Rock", "Funk"]
 8. Bed O' Roses No. 9 (5:19)
 9. Heavy Living (5:08)
 10. Mash It Up Harry (5:53)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1489403955" >}}<br>

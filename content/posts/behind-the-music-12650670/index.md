@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="behind-the-music-12650670.jpg" title="Behind The Music by The Soundtrack Of Our Lives" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Infra Riot (4:45)
 2. Sister Surround (3:35)
 3. In Someone Else's Mind (2:45)
@@ -48,10 +47,6 @@ styles: ["Indie Rock"]
 18. Slow Drift Away (2:52)
 19. Hang Ten (4:37)
 20. We'll Get By (2:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/behind-the-music-bonus-tracks/160441258" >}}<br>

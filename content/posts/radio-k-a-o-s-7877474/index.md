@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Classic Rock"]
 ---
 
-{{< img src="radio-k-a-o-s-7877474.jpg" title="Radio K.A.O.S. by Roger Waters" >}}
+Radio K.A.O.S. is the second solo studio album by English rock musician Roger Waters. Released on 15 June 1987 in the United Kingdom and June 16 in the United States, it was Waters' first solo studio album after his formal departure from the band Pink Floyd in 1985. Like his previous and future studio albums and many works of his during his time with Pink Floyd, the album is a concept album based on a number of key topical subjects of the late 1980s, including monetarism and its effect on citizens, popular culture of the time, and the events and consequences of the Cold War. It also makes criticisms of Margaret Thatcher's government, much like Pink Floyd's The Final Cut (1983), another album conceived by Waters.
+The album follows Billy, a mentally and physically disabled man from Wales, forced to live with his uncle David in Los Angeles after his brother Benny is sent to prison following an act intended to support striking coal miners which results in the death of a taxi driver, and his dismissal from his mining job due to "market forces". The album explores Billy's view of the world through an on-air conversation between him and Jim, a disc jockey (DJ) at a fictitious local radio station named Radio KAOS.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Radio Waves (4:58)
 2. Who Needs Information (5:45)
 3. Me Or Him (5:28)
@@ -30,14 +33,6 @@ styles: ["Alternative Rock", "Classic Rock"]
 6. Home (6:37)
 7. Four Minutes (4:40)
 8. The Tide Is Turning (After Live Aid) (5:44)
-
-<!-- section break -->
-
-Radio K.A.O.S. is the second solo studio album by English rock musician Roger Waters. Released on 15 June 1987 in the United Kingdom and June 16 in the United States, it was Waters' first solo studio album after his formal departure from the band Pink Floyd in 1985. Like his previous and future studio albums and many works of his during his time with Pink Floyd, the album is a concept album based on a number of key topical subjects of the late 1980s, including monetarism and its effect on citizens, popular culture of the time, and the events and consequences of the Cold War. It also makes criticisms of Margaret Thatcher's government, much like Pink Floyd's The Final Cut (1983), another album conceived by Waters.
-The album follows Billy, a mentally and physically disabled man from Wales, forced to live with his uncle David in Los Angeles after his brother Benny is sent to prison following an act intended to support striking coal miners which results in the death of a taxi driver, and his dismissal from his mining job due to "market forces". The album explores Billy's view of the world through an on-air conversation between him and Jim, a disc jockey (DJ) at a fictitious local radio station named Radio KAOS.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-k-a-o-s/180102794" >}}<br>

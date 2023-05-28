@@ -18,10 +18,9 @@ genres: ["Blues"]
 styles: []
 ---
 
-{{< img src="k-tel-present-the-sounds-of-sammy-davis-jr-3725281.jpg" title="K-Tel Present The Sounds Of Sammy Davis Jr. by Sammy Davis Jr." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Candy Man
 2. Spinning Wheel
 3. What Kind Of Fool Am I?
@@ -42,10 +41,6 @@ styles: []
 18. Willoughby Grove
 19. Have A Talk With Myself
 20. I've Gotta Be Me
-
-<!-- section break -->
-
-
 
 
 

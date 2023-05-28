@@ -51,25 +51,6 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock", "Hard Rock", "Doom Metal"]
 ---
 
-{{< img src="impera-22460698.jpg" title="Impera by Ghost" >}}
-
-<!-- section break -->
-
-1. Imperium (1:40)
-2. Kaisarion (5:02)
-3. Spillways (3:16)
-4. Call Me Little Sunshine  (4:44)
-5. Hunter's Moon  (3:16)
-6. Watcher In The Sky (5:48)
-7. Dominion (1:22)
-8. Twenties (3:46)
-9. Darkness At The Heart Of My Love (4:58)
-10. Griftwood (5:16)
-11. Bite Of Passage  (0:31)
-12. Respite On The Spitalfields (6:42)
-
-<!-- section break -->
-
 Ghost mastermind Tobias Forge was in a Seattle bookstore in 2014 when he came across what would become the theme for the Swedish occult rockers’ fifth album, <i>IMPERA</i>. “I saw this book called <i>The Rule of Empires</i>,” he tells Apple Music. “I’ve always been quite interested in history and politics, but you don’t need to be an expert to know that every empire eventually ends. Right then and there, I knew that at some point I was going to make a record about the rise and fall of empires.”
 
 At the time, Forge was already planning to make a record about the bubonic plague, which became Ghost’s startlingly prescient 2018 album <i>Prequelle</i>. “I felt like those two subjects represented two completely different threats of annihilation,” he says. “One feels a little bit more divine, and the other a little more structured and fabricated. So I compartmentalised the two themes and made two different albums.” Below, Forge details some key tracks from <i>IMPERA</i>. 
@@ -98,6 +79,20 @@ At the time, Forge was already planning to make a record about the bubonic plagu
         
     
 
+
+## Tracklisting
+1. Imperium (1:40)
+2. Kaisarion (5:02)
+3. Spillways (3:16)
+4. Call Me Little Sunshine  (4:44)
+5. Hunter's Moon  (3:16)
+6. Watcher In The Sky (5:48)
+7. Dominion (1:22)
+8. Twenties (3:46)
+9. Darkness At The Heart Of My Love (4:58)
+10. Griftwood (5:16)
+11. Bite Of Passage  (0:31)
+12. Respite On The Spitalfields (6:42)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/impera/1603122391" >}}<br>

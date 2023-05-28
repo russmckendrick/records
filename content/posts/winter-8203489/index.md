@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="winter-8203489.jpg" title="Winter by Oceans Of Slumber" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Winter (7:57)
 2. Devout (5:07)
 3. Nights In White Satin (5:45)
@@ -40,10 +39,6 @@ styles: ["Progressive Metal"]
 11. How Tall The Trees (1:33)
 12. ... This Road (7:43)
 13. Grace (3:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/winter/1068112932" >}}<br>

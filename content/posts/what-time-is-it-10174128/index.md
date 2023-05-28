@@ -25,23 +25,18 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Electro", "Soul", "Funk", "Synth-pop"]
 ---
 
-{{< img src="what-time-is-it-10174128.jpg" title="What Time Is It? by The Time" >}}
+Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies The Time’s singular vision of Minneapolis funk. Prince produced and his fingerprints are all over the music, but “Wild and Loose” and “The Walk” are obviously the handiwork of an experienced band. Led by Morris Day, the quintet’s space-age interpretation of Motown showmanship coalesces on “Onedayi’mgonnabesomebody”. While “Gigolos Get Lonely Too” is a swooning, sassy slow jam, “777-9311” is the showstopper. Its impulsive polyrhythms are so tightly interlocked that listening to it is like peeking inside a Swiss watch.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wild And Loose (7:32)
 2. 777-9311 (7:57)
 3. Onedayi'mgonnabesomebody (2:27)
 4. The Walk (9:30)
 5. Gigolos Get Lonely Too (4:40)
 6. I Don't Wanna Leave You (6:30)
-
-<!-- section break -->
-
-Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies The Time’s singular vision of Minneapolis funk. Prince produced and his fingerprints are all over the music, but “Wild and Loose” and “The Walk” are obviously the handiwork of an experienced band. Led by Morris Day, the quintet’s space-age interpretation of Motown showmanship coalesces on “Onedayi’mgonnabesomebody”. While “Gigolos Get Lonely Too” is a swooning, sassy slow jam, “777-9311” is the showstopper. Its impulsive polyrhythms are so tightly interlocked that listening to it is like peeking inside a Swiss watch.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/what-time-is-it/273890984" >}}<br>

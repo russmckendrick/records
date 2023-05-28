@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 ---
 
-{{< img src="the-first-of-too-many-25211626.jpg" title="The First Of Too Many  by Senseless Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Disc One: 30th Anniversary mix
 2. Everybody's Gone
 3. best friend 
@@ -52,10 +51,6 @@ styles: ["Indie Rock", "Pop Punk", "Britpop", "Alternative Rock"]
 30. wrong number
 31. different tongues
 32. fishing at tescos
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}<br>

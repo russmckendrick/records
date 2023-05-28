@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="flood-24727973.jpg" title="Flood by Headswim" >}}
+Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gone To Pot
 2. Soup
 3. Try Disappointed
@@ -42,13 +44,6 @@ styles: ["Alternative Rock"]
 20. Rotting Tooth
 21. Proud
 22. Precipity Flood
-
-<!-- section break -->
-
-Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}<br>

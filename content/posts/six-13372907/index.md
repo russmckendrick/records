@@ -20,10 +20,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="six-13372907.jpg" title="Six by Mansun" >}}
+Six is the second album by English alternative rock band Mansun, released in September 1998 via Parlophone. It was released in the UK and Europe on 7 September 1998, and in the US on 20 April 1999, with an alternative running order, different artwork, and the re-recorded single version of the title track. In an interview prior to the release of Six, Paul Draper stated that the "interlude" "Witness to a Murder (Part Two)" was included to separate the album into two parts as a tribute to old-style vinyl albums.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Six (8:07)
 2. Negative (4:21)
 3. Shotgun (6:37)
@@ -37,15 +41,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 11. Special / Blown It (Delete As Appropriate) (5:32)
 12. Legacy (6:26)
 13. Being A Girl (7:59)
-
-<!-- section break -->
-
-Six is the second album by English alternative rock band Mansun, released in September 1998 via Parlophone. It was released in the UK and Europe on 7 September 1998, and in the US on 20 April 1999, with an alternative running order, different artwork, and the re-recorded single version of the title track. In an interview prior to the release of Six, Paul Draper stated that the "interlude" "Witness to a Murder (Part Two)" was included to separate the album into two parts as a tribute to old-style vinyl albums.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/six-remastered/1584319613" >}}<br>

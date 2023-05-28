@@ -37,10 +37,9 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-{{< img src="lord-willin-11978254.jpg" title="Lord Willin' by Clipse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (2:16)
 2. Young Boy (4:25)
 3. Virginia (3:57)
@@ -57,10 +56,6 @@ styles: ["Gangsta"]
 14. Bonus Tracks
 15. Grindin' (Remix) (4:17)
 16. Grindin' (Selector Remix) (3:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lord-willin/309071685" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="return-to-y-hup-the-world-of-ivor-cutler-14702777.jpg" title="Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Here's A Health For Simon
 2. Latitude And Longitude
 3. Size Nine And A Half
@@ -52,10 +51,6 @@ styles: []
 24. Good Morning! How Are You? Shut Up!
 25. Out Of Decency
 26. Beautiful Cosmos
-
-<!-- section break -->
-
-
 
 
 

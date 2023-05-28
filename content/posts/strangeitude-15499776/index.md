@@ -21,20 +21,15 @@ genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="strangeitude-15499776.jpg" title="Strangeitude by Ozric Tentacles" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. White Rhino Tea
 2. Sploosh!
 3. Saucers
 4. Strangeitude
 5. Bizarre Bazaar
 6. Space Between Your Ears
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/strangeitude/151954221" >}}<br>

@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-{{< img src="never-loved-elvis-566167.jpg" title="Never Loved Elvis by The Wonder Stuff" >}}
+Never Loved Elvis is the third album by The Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.
+The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall out with best friend and former flatmate Clint Mansell of Pop Will Eat Itself.
+The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mission Drive (4:08)
 2. Play (2:47)
 3. False Start (0:47)
@@ -41,15 +45,6 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 11. Here Comes Everyone (3:53)
 12. Caught In My Shadow (3:48)
 13. 38 Line Poem (5:26)
-
-<!-- section break -->
-
-Never Loved Elvis is the third album by The Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.
-The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall out with best friend and former flatmate Clint Mansell of Pop Will Eat Itself.
-The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}<br>

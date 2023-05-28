@@ -20,10 +20,9 @@ genres: ["Electronic", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Synth-pop", "Disco"]
 ---
 
-{{< img src="music-from-the-motion-picture-soundtrack-fletch-171543.jpg" title="Music From The Motion Picture Soundtrack Fletch by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bit By Bit (Theme From "Fletch") (3:38)
 2. Fletch, Get Outta Town (4:11)
 3. Running For Love (2:54)
@@ -34,10 +33,6 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 8. Diggin' In (2:44)
 9. Exotic Skates (3:00)
 10. Running For Love (Instrumental) (2:44)
-
-<!-- section break -->
-
-
 
 
 

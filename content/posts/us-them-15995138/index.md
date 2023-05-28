@@ -47,10 +47,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock"]
 ---
 
-{{< img src="us-them-15995138.jpg" title="Us + Them by Roger Waters" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro
 2. Speak To Me
 3. Breathe
@@ -74,10 +73,6 @@ styles: ["Classic Rock", "Prog Rock"]
 21. Eclipse
 22. The Last Refugee (Reprise)
 23. Déjà Vu (Reprise)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/us-them/1517099398" >}}<br>

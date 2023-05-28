@@ -28,10 +28,12 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Leftfield", "Techno", "Downtempo"]
 ---
 
-{{< img src="rhythm-and-stealth-26862581.jpg" title="Rhythm And Stealth by Leftfield" >}}
+Rhythm and Stealth is the second studio album by Leftfield, released on 20 September 1999. It reached number 1 on the UK Albums Chart. It was nominated for the 2000 Mercury Music Prize.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dusted (4:41)
 2. Phat Planet (5:23)
 3. Chant Of A Poor Man (5:56)
@@ -42,13 +44,6 @@ styles: ["Breakbeat", "Leftfield", "Techno", "Downtempo"]
 8. Swords (5:07)
 9. 6/8 War (4:13)
 10. Rino's Prayer (6:54)
-
-<!-- section break -->
-
-Rhythm and Stealth is the second studio album by Leftfield, released on 20 September 1999. It reached number 1 on the UK Albums Chart. It was nominated for the 2000 Mercury Music Prize.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rhythm-and-stealth/206898205" >}}<br>

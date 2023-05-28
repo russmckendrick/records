@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-{{< img src="now-thats-what-i-call-punk-new-wave-21874351.jpg" title="Now That’s What I Call Punk & New Wave by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. London Calling
 2. Teenage Kicks
 3. No More Heroes
@@ -59,10 +58,6 @@ styles: ["New Wave", "Punk"]
 32. Echo Beach
 33. A Forest
 34. Love Will Tear Us Apart
-
-<!-- section break -->
-
-
 
 
 

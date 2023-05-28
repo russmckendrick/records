@@ -15,10 +15,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Disco"]
 ---
 
-{{< img src="4-000-weeks-holiday-8396748.jpg" title="4.000 Weeks' Holiday by Ian Dury And The Music Students" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. (You're My) Inspiration (5:22)
 2. Friends (3:15)
 3. Tell Your Daddy (2:56)
@@ -29,10 +28,6 @@ styles: ["Leftfield", "Disco"]
 8. Take Me To The Cleaners (2:40)
 9. The Man With No Face (5:03)
 10. Really Glad You Came (4:49)
-
-<!-- section break -->
-
-
 
 
 

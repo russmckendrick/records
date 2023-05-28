@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-{{< img src="paranoid-sunburnt-3270870.jpg" title="Paranoid & Sunburnt by Skunk Anansie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Selling Jesus
 2. Intellectualise My Blackness
 3. I Can Dream
@@ -32,10 +31,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. And Here I Stand
 10. 100 Ways To Be A Good Girl
 11. Rise Up
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1537828183" >}}<br>

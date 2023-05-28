@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="closed-for-business-19116019.jpg" title="Closed For Business by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Closed For Business
 2. K.I.DOUBLE.S.I.N.G.
 3. Everyone Must Win
@@ -32,10 +31,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 5. Dark Mavis (Acoustic)
 6. Stripper Vicar (Live)
 7. Egg Shaped Fred (Acoustic)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1582887992" >}}<br>

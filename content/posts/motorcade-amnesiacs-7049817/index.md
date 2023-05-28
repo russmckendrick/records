@@ -29,10 +29,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock"]
 ---
 
-{{< img src="motorcade-amnesiacs-7049817.jpg" title="Motorcade Amnesiacs by Sweet Billy Pilgrim" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Candle Book And Bell (3:54)
 2. Ffwd To The Freeze Frame (4:50)
 3. Make It So (4:17)
@@ -44,10 +43,6 @@ styles: ["Art Rock"]
 9. We Just Did What Happened And Nobody Came (5:22)
 10. Longstreth (5:59)
 11. Coloma Blues (5:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/motorcade-amnesiacs-deluxe-edition/990339960" >}}<br>

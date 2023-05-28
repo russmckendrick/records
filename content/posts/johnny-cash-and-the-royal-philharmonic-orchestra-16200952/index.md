@@ -17,10 +17,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="johnny-cash-and-the-royal-philharmonic-orchestra-16200952.jpg" title="Johnny Cash And The Royal Philharmonic Orchestra by Johnny Cash" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Man In Black
 2. Galway Bay
 3. Girl From The North Country
@@ -33,10 +32,6 @@ styles: []
 10. The Gambler
 11. Ring Of Fire
 12. Highwayman
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}<br>

@@ -49,10 +49,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
 
-{{< img src="stand-up-9834706.jpg" title="Stand Up by Jethro Tull" >}}
+Stand Up is the second studio album by British rock band Jethro Tull, released in 1969. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2012.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.Stand Up represents the first album project on which Anderson was in full control of the music and lyrics. The result was an eclectic album with various styles and instrumentation appearing in its songs.
+The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A New Day Yesterday (4:11)
 2. Jeffrey Goes To Leicester Square (2:13)
 3. Bourée (3:48)
@@ -63,14 +66,6 @@ styles: ["Prog Rock", "Folk Rock"]
 8. We Used To Know (4:04)
 9. Reasons For Waiting (4:07)
 10. For A Thousand Mothers (4:19)
-
-<!-- section break -->
-
-Stand Up is the second studio album by British rock band Jethro Tull, released in 1969. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2012.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.Stand Up represents the first album project on which Anderson was in full control of the music and lyrics. The result was an eclectic album with various styles and instrumentation appearing in its songs.
-The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185" >}}<br>

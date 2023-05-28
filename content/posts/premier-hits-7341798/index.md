@@ -16,10 +16,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="premier-hits-7341798.jpg" title="Premier Hits by Gary Numan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cars 
 2. I Die: You Die (3:43)
 3. Are 'Friends' Electric? (5:23)
@@ -41,10 +40,6 @@ styles: ["Synth-pop"]
 19. White Boys And Heroes (3:37)
 20. Sister Surprise (5:01)
 21. Stormtrooper In Drag
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/premier-hits/1025318240" >}}<br>

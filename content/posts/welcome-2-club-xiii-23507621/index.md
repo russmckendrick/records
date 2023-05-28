@@ -20,10 +20,14 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Country Rock"]
 ---
 
-{{< img src="welcome-2-club-xiii-23507621.jpg" title="Welcome 2 Club XIII by Drive-By Truckers" >}}
+Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-By Truckers released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a welcomed return to form in contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills (from R.E.M.), and Margo Price.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Driver (7:00)
 2. Maria's Awful Disclosure (3:50)
 3. Shake and Pine (3:45)
@@ -33,15 +37,6 @@ styles: ["Southern Rock", "Country Rock"]
 7. Every Single Storied Flameout (3:55)
 8. Billy Ringo In The Dark (3:45)
 9. Wilder Days (6:37)
-
-<!-- section break -->
-
-Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-By Truckers released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a welcomed return to form in contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills (from R.E.M.), and Margo Price.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-2-club-xiii/1617848474" >}}<br>

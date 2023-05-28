@@ -26,10 +26,12 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-{{< img src="music-for-psychedelic-therapy-22482188.jpg" title="Music For Psychedelic Therapy by Jon Hopkins" >}}
+Music for Psychedelic Therapy is the sixth studio album by English electronic music producer Jon Hopkins, released on 12 November 2021 by Domino Recording Company.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Welcome
 2. Love Flows Over Us In Prismatic Waves
 3. Deep In The Glowing Heart
@@ -38,13 +40,6 @@ styles: ["Ambient"]
 6. Arriving
 7. Sit Around The Fire
 8. Singing Bowl (Ascension)
-
-<!-- section break -->
-
-Music for Psychedelic Therapy is the sixth studio album by English electronic music producer Jon Hopkins, released on 12 November 2021 by Domino Recording Company.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605" >}}<br>

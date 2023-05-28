@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+<div
+    class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8 bg-center bg-cover bg-no-repeat bg-[url('{{ .Page.Params.cover.image }}')] bg-blend-multiply">
+    <div
+        class="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl"
+        aria-hidden="true">
+        <div
+            class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+    <div
+        class="absolute -top-52 left-1/2 -z-10 -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0 sm:transform-gpu"
+        aria-hidden="true">
+        <div
+            class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+    <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">{{
+            .Page.Params.album_name }}</h2>
+        <h3 class="text-2xl font-bold tracking-tight text-white sm:text-6xl">by
+            {{ .Page.Params.artist }}</h3>
+        <p class="mt-6 text-gray-300 text-sm sm:text-2sm">{{ partial
+            "metadata.html" . }}</p>
+    </div>
+</div>
+
+<div class="container mx-auto p-5">
+    <article class="prose mx-auto dark:prose-invert">
+        <img src="{{ .Page.Params.cover.image }}"
+            alt="{{ .Page.Params.album_name }}" class="w-full rounded-lg shadow-lg">
+        <div class="flex flex-wrap">
+            {{- $artist := .Language.Params.Taxonomies.tag | default "artist"}}
+            {{- range ($.GetTerms $artist) }}
+            <div class="flex items-center p-1">
+                <a href="{{ .Permalink }}" class="no-underline">
+                    <div class="flex">
+                        <span
+                            class="bg-gray-800 dark:bg-gray-600 text-white text-xs px-1 py-0.5 rounded-l-md">Artist</span>
+                        <span
+                            class="bg-blue-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{
+                            .LinkTitle }}</span>
+                    </div>
+                </a>
+            </div>
+            {{- end }}
+            {{- range .Params.genres }}
+            <div class="flex items-center p-1">
+                <a href="/tags/{{ . | urlize }}" class="no-underline">
+                    <div class="flex">
+                        <span
+                            class="bg-gray-800 dark:bg-gray-600 text-white text-xs px-1 py-0.5 rounded-l-md">Genre</span>
+                        <span
+                            class="bg-blue-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{
+                            . }}</span>
+                    </div>
+                </a>
+            </div>
+            {{- end }}
+            {{- range .Params.styles }}
+            <a href="/tags/{{ . | urlize }}">
+                <div class="flex items-center p-1">
+                    <a href="/tags/{{ . | urlize }}" class="no-underline">
+                        <div class="flex">
+                            <span
+                                class="bg-gray-800 dark:bg-gray-600 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>
+                            <span
+                                class="bg-green-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{
+                                . }}</span>
+                        </div>
+                    </a>
+                </div>
+            </a>
+            {{- end }}
+        </div>
+        {{ .Content }}
+    </article>
+
+</div>
+
+{{ end }}

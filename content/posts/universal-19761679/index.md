@@ -23,10 +23,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="universal-19761679.jpg" title="Universal by Orchestral Manoeuvres In The Dark" >}}
+Universal is the tenth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 2 September 1996 by Virgin Records. Frontman Andy McCluskey opted for a more organic, acoustic sound on the record, which peaked at number 24 on the UK Albums Chart. It was generally well received by music critics, although the British media's overall resistance to OMD – who had been rendered unfashionable by the prevalence of grunge and indie rock – prompted McCluskey to dissolve the group. Universal was their last album until 2010's History of Modern.
+The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the UK) and "Universal".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Universal
 2. Walking On The Milky Way
 3. The Moon & The Sun
@@ -39,14 +42,6 @@ styles: ["Synth-pop"]
 10. If You're Still In Love With Me
 11. New Head
 12. Victory Waltz
-
-<!-- section break -->
-
-Universal is the tenth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 2 September 1996 by Virgin Records. Frontman Andy McCluskey opted for a more organic, acoustic sound on the record, which peaked at number 24 on the UK Albums Chart. It was generally well received by music critics, although the British media's overall resistance to OMD – who had been rendered unfashionable by the prevalence of grunge and indie rock – prompted McCluskey to dissolve the group. Universal was their last album until 2010's History of Modern.
-The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the UK) and "Universal".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/universal/724394826" >}}<br>

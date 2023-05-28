@@ -38,10 +38,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="the-texas-jerusalem-crossroads-9955614.jpg" title="The Texas-Jerusalem Crossroads by Lift To Experience" >}}
+The Texas-Jerusalem Crossroads is the debut studio album from Denton, Texas-based indie rock trio Lift to Experience. The double album was released on June 26, 2001, and is thus far the only full-length recording from the band. A concept album about the Second Coming of Jesus Christ that "casts Texas as the Promised Land," it was produced by guitarist/vocalist Josh T. Pearson, and mixing was handled by Simon Raymonde and Robin Guthrie, both of Cocteau Twins fame. The album was released on Guthrie and Raymonde's record label Bella Union. Receiving very little attention upon release, the album gradually found an audience via the internet and has developed a minor cult following.
+The Texas-Jerusalem Crossroads was described by AllMusic reviewer Tim DiGravina as "blend[ing] My Bloody Valentine's sonic feedback with Kitchens of Distinction's swirling atmosphere and the grace of Jeff Buckley", with DiGravina adding, "What could have been a tiresome exploration of awkward religious theories is instead a spellbinding journey into the heart of human emotion and guitar dynamics." Although Lift to Experience never officially announced a disbandment, the band splintered shortly after the album's release, with Pearson re-emerging as a solo artist in the 2010s.
+The album was remastered and reissued for its 15-year anniversary by Mute Records on February 3, 2017. The album was reissued across three separate formats, all featuring revised artwork: a 2-CD set; a double vinyl LP set pressed on blue and red colored vinyl; and a deluxe 4-LP box set including the band's first demo EP and live recordings. The reissue coincides with the band's reunion and performance at Meltdown Festival 2016 curated by Elbow frontman Guy Garvey.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Texas-Jerusalem Crossroads: Texas
 2. Just As Was Told
 3. Down Came The Angels
@@ -66,15 +70,6 @@ styles: ["Psychedelic Rock"]
 22. With The World Behind (3:01)
 23. Arise And Shine (7:45)
 24. Liftin' On Up (7:15)
-
-<!-- section break -->
-
-The Texas-Jerusalem Crossroads is the debut studio album from Denton, Texas-based indie rock trio Lift to Experience. The double album was released on June 26, 2001, and is thus far the only full-length recording from the band. A concept album about the Second Coming of Jesus Christ that "casts Texas as the Promised Land," it was produced by guitarist/vocalist Josh T. Pearson, and mixing was handled by Simon Raymonde and Robin Guthrie, both of Cocteau Twins fame. The album was released on Guthrie and Raymonde's record label Bella Union. Receiving very little attention upon release, the album gradually found an audience via the internet and has developed a minor cult following.
-The Texas-Jerusalem Crossroads was described by AllMusic reviewer Tim DiGravina as "blend[ing] My Bloody Valentine's sonic feedback with Kitchens of Distinction's swirling atmosphere and the grace of Jeff Buckley", with DiGravina adding, "What could have been a tiresome exploration of awkward religious theories is instead a spellbinding journey into the heart of human emotion and guitar dynamics." Although Lift to Experience never officially announced a disbandment, the band splintered shortly after the album's release, with Pearson re-emerging as a solo artist in the 2010s.
-The album was remastered and reissued for its 15-year anniversary by Mute Records on February 3, 2017. The album was reissued across three separate formats, all featuring revised artwork: a 2-CD set; a double vinyl LP set pressed on blue and red colored vinyl; and a deluxe 4-LP box set including the band's first demo EP and live recordings. The reissue coincides with the band's reunion and performance at Meltdown Festival 2016 curated by Elbow frontman Guy Garvey.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-texas-jerusalem-crossroads/1172400599" >}}<br>

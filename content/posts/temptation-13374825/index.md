@@ -20,16 +20,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "New Wave", "Post-Punk"]
 ---
 
-{{< img src="temptation-13374825.jpg" title="Temptation by New Order" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Temptation
 2. Hurt
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temptation-2019-remaster-single/1457719992" >}}<br>

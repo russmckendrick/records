@@ -19,10 +19,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-power-station-5372278.jpg" title="The Power Station by The Power Station" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Some Like It Hot
 2. Murderess
 3. Lonely Tonight
@@ -31,10 +30,6 @@ styles: ["Pop Rock"]
 6. Go To Zero
 7. Harvest For The World
 8. Still In Your Heart
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}<br>

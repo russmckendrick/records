@@ -25,10 +25,15 @@ genres: ["Hip Hop", "Rock"]
 styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 ---
 
-{{< img src="ill-communication-1856276.jpg" title="Ill Communication by Beastie Boys" >}}
+Ill Communication is the fourth studio album by American hip-hop group Beastie Boys, released by Grand Royal Records on May 31, 1994. Co-produced by Beastie Boys and Mario Caldato, Jr., it is among the band's most varied releases, drawing from hip hop, punk rock, jazz, and funk, and continues their trend away from sampling and towards live instruments, which began with their previous release, Check Your Head (1992). The album features musical contributions from Money Mark, Eric Bobo and Amery "AWOL" Smith, and vocal contributions from Q-Tip and Biz Markie. Beastie Boys were influenced by Miles Davis's jazz rock albums On the Corner (1972) and Agharta (1975) while recording Ill Communication.The album became the band's second number-one album on the U.S. Billboard 200 chart and their second triple platinum album. It was supported by the single "Sabotage", which was accompanied by a music video directed by Spike Jonze that parodied 1970s cop shows.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Sure Shot (3:20)
 2. Tough Guy (0:58)
 3. B-Boys Makin' With The Freak Freak (3:54)
@@ -49,16 +54,6 @@ styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 18. Shambala (3:41)
 19. Bodhisattva Vow (3:09)
 20. Transitions (3:32)
-
-<!-- section break -->
-
-Ill Communication is the fourth studio album by American hip-hop group Beastie Boys, released by Grand Royal Records on May 31, 1994. Co-produced by Beastie Boys and Mario Caldato, Jr., it is among the band's most varied releases, drawing from hip hop, punk rock, jazz, and funk, and continues their trend away from sampling and towards live instruments, which began with their previous release, Check Your Head (1992). The album features musical contributions from Money Mark, Eric Bobo and Amery "AWOL" Smith, and vocal contributions from Q-Tip and Biz Markie. Beastie Boys were influenced by Miles Davis's jazz rock albums On the Corner (1972) and Agharta (1975) while recording Ill Communication.The album became the band's second number-one album on the U.S. Billboard 200 chart and their second triple platinum album. It was supported by the single "Sabotage", which was accompanied by a music video directed by Spike Jonze that parodied 1970s cop shows.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ill-communication/724771323" >}}<br>

@@ -40,25 +40,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Alternative Rock"]
 ---
 
-{{< img src="memento-mori-26515907.jpg" title="Memento Mori by Depeche Mode" >}}
-
-<!-- section break -->
-
-1. My Cosmos Is Mine (5:14)
-2. Wagging Tongue (3:24)
-3. Ghosts Again (3:56)
-4. Don't Say You Love Me (3:47)
-5. My Favourite Stranger (3:54)
-6. Soul With Me (4:12)
-7. Caroline's Monkey (4:16)
-8. Before We Drown (4:02)
-9. People Are Good (4:21)
-10. Always You (4:18)
-11. Never Let Me Go (3:59)
-12. Speak To Me (4:33)
-
-<!-- section break -->
-
 With over 50 hit singles and more than 100 million records sold, English synth-pop masters Depeche Mode could still play sold-out stadiums if they had stopped releasing music in the mid-’90s. “We could easily, if we wanted to, just go out and play the hits,” vocalist Dave Gahan tells Apple Music. “But that’s not what we’re about.” Depeche Mode’s 15th studio album is their first without co-founder and keyboardist Andy Fletcher, who passed away in 2022. This sad and hugely significant event in the band’s history is reflected in the album’s title. “<i>Memento Mori</i>—‘remember that you must die’,” Gahan says, translating the Latin phrase. “The music really will outlive all of us.”
 
 Main songwriter Martin Gore started working on the record early in the pandemic—well before Fletcher’s death—but recalls the moment when he played his demos for Gahan. “It’s always a tough moment when you have to present your songs for the first time to Dave,” he tells Apple Music. “I would’ve been presenting them to Andy as well, obviously. He passed away just days before I was about to send him the songs. And that’s one of the very sad parts about it, because he used to love getting the songs.”
@@ -83,6 +64,20 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
         
     
 
+
+## Tracklisting
+1. My Cosmos Is Mine (5:14)
+2. Wagging Tongue (3:24)
+3. Ghosts Again (3:56)
+4. Don't Say You Love Me (3:47)
+5. My Favourite Stranger (3:54)
+6. Soul With Me (4:12)
+7. Caroline's Monkey (4:16)
+8. Before We Drown (4:02)
+9. People Are Good (4:21)
+10. Always You (4:18)
+11. Never Let Me Go (3:59)
+12. Speak To Me (4:33)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}<br>

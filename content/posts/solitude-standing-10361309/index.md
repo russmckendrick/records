@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="solitude-standing-10361309.jpg" title="Solitude Standing by Suzanne Vega" >}}
+Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tom's Diner (2:08)
 2. Luka (3:51)
 3. Ironbound / Fancy Poultry (6:17)
@@ -36,13 +38,6 @@ styles: ["Pop Rock"]
 9. Gypsy (4:01)
 10. Wooden Horse (Caspar Hauser's Song) (5:09)
 11. Tom's Diner (Reprise) (2:39)
-
-<!-- section break -->
-
-Solitude Standing is the second studio album by American singer-songwriter Suzanne Vega, released on April 1, 1987, by A&M Records. It is the most commercially successful and critically acclaimed album of Vega's, being certified Platinum in the US and reaching number 11 on the Billboard 200.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/solitude-standing/1444012381" >}}<br>

@@ -32,10 +32,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 ---
 
-{{< img src="person-pitch-9649225.jpg" title="Person Pitch by Panda Bear" >}}
+Person Pitch is the third solo album by American recording artist Noah Lennox under his alias Panda Bear, released on March 20, 2007, by Paw Tracks. Departing stylistically from his prior work as both a member of Animal Collective and a solo artist, the album was recorded using the Boss SP-303 sampler, with instrumentation largely composed of manipulated samples and loops, accompanied by Lennox's layered vocals. He described it as a collection of "super dubby and old sounding" songs inspired by his then-recent marriage, fatherhood, and move to Portugal.The album was met with universal critical acclaim, and later ranked among various "top 10 albums of the 2000s" lists. It is noted for influencing a wide range of subsequent indie music, including the chillwave genre and numerous soundalike acts. Five of the album's seven tracks were issued as A-sided singles before the album's release: "I'm Not" and "Comfy in Nautica" (2005), "Bros" (2006), "Carrots" and "Take Pills" (2007).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Comfy In Nautica (4:04)
 2. Take Pills (5:23)
 3. Bros (12:30)
@@ -43,13 +45,6 @@ styles: ["Lo-Fi", "Abstract", "Experimental", "Indie Rock"]
 5. I'm Not (3:49)
 6. Search For Delicious (4:53)
 7. Ponytail (2:05)
-
-<!-- section break -->
-
-Person Pitch is the third solo album by American recording artist Noah Lennox under his alias Panda Bear, released on March 20, 2007, by Paw Tracks. Departing stylistically from his prior work as both a member of Animal Collective and a solo artist, the album was recorded using the Boss SP-303 sampler, with instrumentation largely composed of manipulated samples and loops, accompanied by Lennox's layered vocals. He described it as a collection of "super dubby and old sounding" songs inspired by his then-recent marriage, fatherhood, and move to Portugal.The album was met with universal critical acclaim, and later ranked among various "top 10 albums of the 2000s" lists. It is noted for influencing a wide range of subsequent indie music, including the chillwave genre and numerous soundalike acts. Five of the album's seven tracks were issued as A-sided singles before the album's release: "I'm Not" and "Comfy in Nautica" (2005), "Bros" (2006), "Carrots" and "Take Pills" (2007).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/person-pitch/1484070816" >}}<br>

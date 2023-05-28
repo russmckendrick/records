@@ -22,21 +22,6 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="the-principle-of-moments-10848879.jpg" title="The Principle Of Moments by Robert Plant" >}}
-
-<!-- section break -->
-
-1. Other Arms (4:20)
-2. In The Mood (5:19)
-3. Messin' With The Mekon (4:40)
-4. Wreckless Love (5:18)
-5. Thru' With The Two Step (5:33)
-6. Horizontal Departure (4:19)
-7. Stranger Here...Than Over There (4:18)
-8. Big Log (5:03)
-
-<!-- section break -->
-
 The Principle of Moments is the second solo studio album by the English singer Robert Plant, formerly of Led Zeppelin. It was Plant's second Top 10 album in the US and UK. It also gave him his first solo Top 40 hit with "Big Log". The most popular track on album-oriented rock radio in the US was "Other Arms", which reached number-one on the Billboard Top Tracks chart. Genesis' drummer Phil Collins played drums for five of the album's eight songs (as he did on Pictures at Eleven). On the other two tracks former Jethro Tull drummer Barriemore Barlow performed. On the closing track "Big Log", Gerald Woodroffe programmed a Roland TR-808 drum machine.
 Like Plant's debut solo studio album, Pictures at Eleven (1982), the songs departed from the hard rock sound of Led Zeppelin. Following the strength of these albums, Plant launched a successful tour in 1983. Phil Collins was the drummer for Plant's band for the North American portion of the tour. Collins was content to perform in the background, despite his own enormous success as a solo artist and with Genesis at the time. Little Feat's Richie Hayward played drums for the remaining dates.
 Rhino Entertainment released a remastered edition of the album, with bonus tracks, on 3 April 2007.
@@ -46,6 +31,16 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
         
     
 
+
+## Tracklisting
+1. Other Arms (4:20)
+2. In The Mood (5:19)
+3. Messin' With The Mekon (4:40)
+4. Wreckless Love (5:18)
+5. Thru' With The Two Step (5:33)
+6. Horizontal Departure (4:19)
+7. Stranger Here...Than Over There (4:18)
+8. Big Log (5:03)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}<br>

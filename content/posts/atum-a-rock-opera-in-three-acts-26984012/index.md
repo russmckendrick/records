@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="atum-a-rock-opera-in-three-acts-26984012.jpg" title="ATUM (A Rock Opera In Three Acts) by The Smashing Pumpkins" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Act I
 2. Atum
 3. Butterfly Suite
@@ -69,10 +68,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 36. Of Wings
 37. Audio Story
 38. Act 1 Of Atum
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/atum/1644219042" >}}<br>

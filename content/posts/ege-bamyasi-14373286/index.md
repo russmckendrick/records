@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Krautrock"]
 ---
 
-{{< img src="ege-bamyasi-14373286.jpg" title="Ege Bamyasi by Can" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pinch
 2. Sing Swan Song
 3. One More Night
@@ -35,10 +34,6 @@ styles: ["Krautrock"]
 5. Soup
 6. I'm So Green
 7. Spoon
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ege-bamyasi-remastered/711468600" >}}<br>

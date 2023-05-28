@@ -29,21 +29,6 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="houses-of-the-holy-6224441.jpg" title="Houses Of The Holy by Led Zeppelin" >}}
-
-<!-- section break -->
-
-1. The Song Remains The Same (5:29)
-2. The Rain Song (7:39)
-3. Over The Hills And Far Away (4:50)
-4. The Crunge (3:17)
-5. Dancing Days (3:43)
-6. D'yer Mak'er (4:22)
-7. No Quarter (7:02)
-8. The Ocean (4:31)
-
-<!-- section break -->
-
 Houses of the Holy is the fifth studio album by the English rock band Led Zeppelin, released on 28 March 1973 by Atlantic Records. The album benefited from two band members installing studios at home, which allowed them to develop more sophisticated songs and arrangements and expand their musical style. Several songs subsequently became fixtures in the group's live set, including "The Song Remains the Same", "The Rain Song" and "No Quarter". Other material recorded at the sessions, including the title track, was shelved and released on the later albums Physical Graffiti and Coda. All instruments and vocals were provided by the band members Robert Plant (vocals), Jimmy Page (guitar), John Paul Jones (bass, keyboards), and John Bonham (drums). The album was produced by Page and mixed by Eddie Kramer. The cover was the first for the band to be designed by Hipgnosis and was based on a photograph taken at Giant's Causeway in Northern Ireland.
 Although critical response was mixed, Houses of the Holy became a commercial success, later receiving a Diamond (over 10 million albums sold) certification by the Recording Industry Association of America (RIAA) in 1999. In 2020, the album was ranked at number 278 on Rolling Stone's 500 Greatest Albums of All Time.
 
@@ -52,6 +37,16 @@ Although critical response was mixed, Houses of the Holy became a commercial suc
         
     
 
+
+## Tracklisting
+1. The Song Remains The Same (5:29)
+2. The Rain Song (7:39)
+3. Over The Hills And Far Away (4:50)
+4. The Crunge (3:17)
+5. Dancing Days (3:43)
+6. D'yer Mak'er (4:22)
+7. No Quarter (7:02)
+8. The Ocean (4:31)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/houses-of-the-holy-remastered/580707916" >}}<br>

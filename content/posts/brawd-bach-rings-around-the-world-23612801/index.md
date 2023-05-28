@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="brawd-bach-rings-around-the-world-23612801.jpg" title="(Brawd Bach) Rings Around The World by Super Furry Animals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tradewinds
 2. The Roman Road
 3. Edam Anchorman
@@ -35,10 +34,6 @@ styles: []
 6. Patience
 7. Happiness Is A Worn Pun
 8. -
-
-<!-- section break -->
-
-
 
 
 

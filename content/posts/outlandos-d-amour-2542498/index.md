@@ -23,10 +23,9 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 ---
 
-{{< img src="outlandos-d-amour-2542498.jpg" title="Outlandos D'Amour by The Police" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Next To You (2:51)
 2. So Lonely (4:48)
 3. Roxanne (3:13)
@@ -37,10 +36,6 @@ styles: ["Pop Rock", "Reggae-Pop", "New Wave", "Ska"]
 8. Born In The 50's (3:42)
 9. Be My Girl - Sally (3:24)
 10. Masoko Tanga (5:41)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181" >}}<br>

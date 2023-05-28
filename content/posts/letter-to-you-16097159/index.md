@@ -38,25 +38,6 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Classic Rock"]
 ---
 
-{{< img src="letter-to-you-16097159.jpg" title="Letter To You by Bruce Springsteen" >}}
-
-<!-- section break -->
-
-1. One Minute You're Here (2:54)
-2. Letter To You (4:52)
-3. Burnin' Train (4:00)
-4. Janey Needs A Shooter (6:46)
-5. Last Man Standing (4:02)
-6. The Power Of Prayer (3:34)
-7. House Of A Thousand Guitars (4:28)
-8. Rainmaker (4:50)
-9. If I Was The Priest (6:46)
-10. Ghosts (5:52)
-11. Song For Orphans (6:09)
-12. I'll See You In My Dreams (3:26)
-
-<!-- section break -->
-
 Since Bruce Springsteen last released an album with the E Street Band—<i>High Hopes</i>, 2014’s collection of re-recorded outtakes and covers—he’s spent a lot of time thinking about his past. He followed his 2016 memoir <i>Born to Run</i> the next year with a one-man Broadway show in which he reimagined his songs as part of an intimate narrative about his own life and career. And while his 20th LP was recorded completely live with the band in a four-day sprint—for the first time since 1984’s <i>Born in the USA</i>—the songs themselves bear the deliberation and weight of an artist who knows he’s running out of time to do things like this. “The impetus for a lot of the material was the loss of my good friend George Theiss,” Springsteen tells Apple Music. “When he passed away, it left me as the only remaining living member of the first band that I had, which was a very strange thought, and it gave rise to most of the material. There's ageing and loss of people as time goes by, and that's a part of what the record is. And then at the same time, you're sort of celebrating the fact that the band goes on and we carry their spirits with us.”<br />
 That combination of wistfulness and joy—propelled by the full force of an E Street Band that’s been playing together in some form for nearly 50 years, minus two departed founding members, Clarence Clemons and Danny Federici—drives “Last Man Standing” and “Ghosts” most explicitly, but imbues the entire project. Though this may have been recorded live and fast, nothing sounds ragged or rambunctious; the efficiency owes to the shorthand of a unit that knows each other’s moves before they make them. While most of the songs were written recently, “Song for Orphans”, “If I Was the Priest” and “Janey Needs a Shooter” date back to the early ’70s, only adding to the feeling of loose ends being tied. And it’s not lost on Springsteen after this long period of reflection that this album fits into a larger story that he’s been telling for most of his life. “If you wanted to find a body of work that expressed what it was like to be an American, say from 1970 to now, in the post-industrial period of the United States—I'd be a place you could go and get some information on that,” he says. “And so in that sense, I always try to speak to my times in the way that I best could.” Here he digs deeper into just a few of the highlights from <i>Letter to You</i>.<br />
 <b>One Minute You’re Here</b>
@@ -75,6 +56,20 @@ That combination of wistfulness and joy—propelled by the full force of an E St
         
     
 
+
+## Tracklisting
+1. One Minute You're Here (2:54)
+2. Letter To You (4:52)
+3. Burnin' Train (4:00)
+4. Janey Needs A Shooter (6:46)
+5. Last Man Standing (4:02)
+6. The Power Of Prayer (3:34)
+7. House Of A Thousand Guitars (4:28)
+8. Rainmaker (4:50)
+9. If I Was The Priest (6:46)
+10. Ghosts (5:52)
+11. Song For Orphans (6:09)
+12. I'll See You In My Dreams (3:26)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/letter-to-you/1529959055" >}}<br>

@@ -26,10 +26,14 @@ genres: ["Electronic"]
 styles: ["Soundtrack", "Ambient"]
 ---
 
-{{< img src="lost-themes-11020458.jpg" title="Lost Themes by John Carpenter" >}}
+Lost Themes is the debut studio album by American film director and composer John Carpenter. It was released on February 3, 2015, through Sacred Bones Records. Carpenter created Lost Themes in collaboration with his son Cody Carpenter and his godson Daniel Davies. While Lost Themes is his first stand-alone album, Carpenter has composed numerous critically acclaimed soundtracks for films since the 1970s, including for the films Assault on Precinct 13, Halloween, and Escape from New York.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Vortex
 2. Obsidian 
 3. Fallen
@@ -39,15 +43,6 @@ styles: ["Soundtrack", "Ambient"]
 7. Wraith
 8. Purgatory
 9. Night
-
-<!-- section break -->
-
-Lost Themes is the debut studio album by American film director and composer John Carpenter. It was released on February 3, 2015, through Sacred Bones Records. Carpenter created Lost Themes in collaboration with his son Cody Carpenter and his godson Daniel Davies. While Lost Themes is his first stand-alone album, Carpenter has composed numerous critically acclaimed soundtracks for films since the 1970s, including for the films Assault on Precinct 13, Halloween, and Escape from New York.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-themes/950418048" >}}<br>

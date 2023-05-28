@@ -20,10 +20,12 @@ genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="pungent-effulgent-15341487.jpg" title="Pungent Effulgent by Ozric Tentacles" >}}
+Pungent Effulgent is the debut studio album by British psychedelic rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dissolution (The Clouds Disperse) (6:11)
 2. O-I (4:09)
 3. Phalarn Dawn (7:28)
@@ -31,13 +33,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 5. Ayurvedic (10:58)
 6. Kick Muck (3:56)
 7. Agog In The Ether (3:57)
-
-<!-- section break -->
-
-Pungent Effulgent is the debut studio album by British psychedelic rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pungent-effulgent/1189443799" >}}<br>

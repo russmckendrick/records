@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="greatest-hits-7746254.jpg" title="Greatest Hits by The Kinks" >}}
+The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilation album by the English rock band the Kinks. Released in the United States in August 1966 by Reprise Records, the album mostly consists of singles issued by the group between 1964 and 1966. The band's first greatest hits album, it remained on the Billboard Top LPs chart for over a year, peaking at number 9, making it the Kinks' highest charting album in the US. The album was in print for decades and was the Kinks' only gold record in America until 1980.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. You Really Got Me (2:13)
 2. Tired Of Waiting For You (2:31)
 3. Set Me Free (2:10)
@@ -40,13 +42,6 @@ styles: ["Classic Rock"]
 14. Waterloo Sunset (3:12)
 15. Death Of A Clown (3:11)
 16. Wonder Boy (2:49)
-
-<!-- section break -->
-
-The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilation album by the English rock band the Kinks. Released in the United States in August 1966 by Reprise Records, the album mostly consists of singles issued by the group between 1964 and 1966. The band's first greatest hits album, it remained on the Billboard Top LPs chart for over a year, peaking at number 9, making it the Kinks' highest charting album in the US. The album was in print for decades and was the Kinks' only gold record in America until 1980.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-ultimate-collection/1143692008" >}}<br>

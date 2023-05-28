@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-{{< img src="bronze-9310134.jpg" title="Bronze by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dead Imperial Bastard (4:59)
 2. Deviant Burials (6:45)
 3. No Fun (4:53)
@@ -36,10 +35,6 @@ styles: ["Post Rock", "Prog Rock"]
 8. Scared And Alone (8:58)
 9. Winning A Losing Battle (9:14)
 10. We Are The Darkeners (7:53)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}<br>

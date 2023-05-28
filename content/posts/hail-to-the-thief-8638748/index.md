@@ -29,10 +29,17 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-{{< img src="hail-to-the-thief-8638748.jpg" title="Hail To The Thief by Radiohead" >}}
+Hail to the Thief is the sixth studio album by the English rock band Radiohead. It was released on 9 June 2003 through Parlophone internationally and a day later through Capitol Records in the United States. It was the last album released under Radiohead's record contract with EMI, the parent company of Parlophone and Capitol.
+After transitioning to a more electronic style on their albums Kid A (2000) and Amnesiac (2001), which were recorded through protracted studio experimentation, Radiohead sought to work more spontaneously, combining electronic and rock music. They recorded most of Hail to the Thief in two weeks in Los Angeles with their longtime producer Nigel Godrich, focusing on live takes rather than overdubs. The songwriter, Thom Yorke, wrote lyrics influenced by the unfolding war on terror and the surrounding political discourse, incorporating influences from fairy tales and children's literature. The cover artwork, created by the artist Stanley Donwood, is a roadmap of Hollywood with words taken from roadside advertising in Los Angeles and from Yorke's lyrics.
+Following a high-profile internet leak of unfinished material ten weeks before release, Hail to the Thief debuted at number one on the UK Albums Chart and number three on the US Billboard 200 chart. It was certified platinum in the UK and Canada and gold in several countries. It was promoted with singles and music videos for "There There", "Go to Sleep" and "2 + 2 = 5". Hail to the Thief received positive reviews; it was the fifth consecutive Radiohead album nominated for a Grammy Award for Best Alternative Music Album, and won for the Grammy Award for Best Engineered Non-Classical Album.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. 2 + 2 = 5 (The Lukewarm.)
 2. Sit Down. Stand Up. (Snakes & Ladders.)
 3. Sail To The Moon. (Brush The Cobwebs Out Of The Sky.)
@@ -47,18 +54,6 @@ styles: ["Alternative Rock", "Experimental"]
 12. Myxomatosis. (Judge, Jury & Executioner.)
 13. Scatterbrain. (As Dead As Leaves.)
 14. A Wolf At The Door. (It Girl. Rag Doll.)
-
-<!-- section break -->
-
-Hail to the Thief is the sixth studio album by the English rock band Radiohead. It was released on 9 June 2003 through Parlophone internationally and a day later through Capitol Records in the United States. It was the last album released under Radiohead's record contract with EMI, the parent company of Parlophone and Capitol.
-After transitioning to a more electronic style on their albums Kid A (2000) and Amnesiac (2001), which were recorded through protracted studio experimentation, Radiohead sought to work more spontaneously, combining electronic and rock music. They recorded most of Hail to the Thief in two weeks in Los Angeles with their longtime producer Nigel Godrich, focusing on live takes rather than overdubs. The songwriter, Thom Yorke, wrote lyrics influenced by the unfolding war on terror and the surrounding political discourse, incorporating influences from fairy tales and children's literature. The cover artwork, created by the artist Stanley Donwood, is a roadmap of Hollywood with words taken from roadside advertising in Los Angeles and from Yorke's lyrics.
-Following a high-profile internet leak of unfinished material ten weeks before release, Hail to the Thief debuted at number one on the UK Albums Chart and number three on the US Billboard 200 chart. It was certified platinum in the UK and Canada and gold in several countries. It was promoted with singles and music videos for "There There", "Go to Sleep" and "2 + 2 = 5". Hail to the Thief received positive reviews; it was the fifth consecutive Radiohead album nominated for a Grammy Award for Best Alternative Music Album, and won for the Grammy Award for Best Engineered Non-Classical Album.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hail-to-the-thief/1097863576" >}}<br>

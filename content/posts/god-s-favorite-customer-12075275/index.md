@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
 
-{{< img src="god-s-favorite-customer-12075275.jpg" title="God's Favorite Customer by Father John Misty" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hangout At The Gallows
 2. Mr. Tillman
 3. Just Dumb Enough To Try
@@ -33,10 +32,6 @@ styles: ["Alternative Rock", "Folk Rock"]
 8. God's Favorite Customer
 9. The Songwriter
 10. We're Only People (And There's Not Much Anyone Can Do About That)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gods-favorite-customer/1359220140" >}}<br>

@@ -22,10 +22,13 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="penthouse-and-pavement-9929529.jpg" title="Penthouse And Pavement by Heaven 17" >}}
+Penthouse and Pavement is the debut studio album by English new wave and synth-pop band Heaven 17, released in September 1981 by Virgin Records.
+"(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. The album sold reasonably well, but was not a great commercial success on release. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pavement Side
 2. (We Don't Need This) Fascist Groove Thang (4:17)
 3. Penthouse And Pavement (6:20)
@@ -37,14 +40,6 @@ styles: ["Synth-pop"]
 9. The Height Of The Fighting (3:00)
 10. Song With No Name (3:33)
 11. We're Going To Live For A Very Long Time
-
-<!-- section break -->
-
-Penthouse and Pavement is the debut studio album by English new wave and synth-pop band Heaven 17, released in September 1981 by Virgin Records.
-"(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. The album sold reasonably well, but was not a great commercial success on release. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/714604615" >}}<br>

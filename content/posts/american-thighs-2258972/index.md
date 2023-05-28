@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="american-thighs-2258972.jpg" title="American Thighs by Veruca Salt" >}}
+American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the hit single "Seether" and received positive critical reviews.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Back (3:13)
 2. All Hail Me (3:05)
 3. Seether (3:16)
@@ -39,13 +41,6 @@ styles: ["Alternative Rock"]
 10. Victrola (2:18)
 11. Twinstar (3:16)
 12. 25 (7:56)
-
-<!-- section break -->
-
-American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the hit single "Seether" and received positive critical reviews.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-thighs/265134156" >}}<br>

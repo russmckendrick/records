@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="fish-heads-and-tails-1029622.jpg" title="Fish Heads And Tails by Goodbye Mr. Mackenzie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Amsterdam
 2. Somewhere In China
 3. Carton Hill
@@ -33,10 +32,6 @@ styles: ["Alternative Rock"]
 8. Pleasure Search
 9. Mystery Train
 10. Knockin' On Joe (Live)
-
-<!-- section break -->
-
-
 
 
 

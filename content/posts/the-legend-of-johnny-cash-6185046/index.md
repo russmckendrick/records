@@ -26,10 +26,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Country Rock"]
 ---
 
-{{< img src="the-legend-of-johnny-cash-6185046.jpg" title="The Legend Of Johnny Cash by Johnny Cash" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ring Of Fire
 2. I Walk The Line
 3. Jackson
@@ -51,10 +50,6 @@ styles: ["Acoustic", "Country Rock"]
 19. Give My Love To Rose
 20. One
 21. Hurt
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-legend-of-johnny-cash/675914676" >}}<br>

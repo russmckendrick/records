@@ -22,10 +22,9 @@ genres: ["Rock", "Blues"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="solid-air-classics-revisited-5695629.jpg" title="Solid Air (Classics Revisited) by John Martyn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Head & Heart
 2. Over The Hill
 3. Solid Air
@@ -36,10 +35,6 @@ styles: ["Folk Rock"]
 8. I Don't Wanna Know
 9. Ways To Cry
 10. Man In The Station
-
-<!-- section break -->
-
-
 
 
 

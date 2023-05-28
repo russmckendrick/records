@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="grave-dancers-union-7068256.jpg" title="Grave Dancers Union by Soul Asylum" >}}
+Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Somebody To Shove (3:14)
 2. Black Gold (3:56)
 3. Runaway Train (4:25)
@@ -39,13 +41,6 @@ styles: ["Alternative Rock"]
 10. Growing Into You (3:12)
 11. 99% (3:57)
 12. The Sun Maid (3:51)
-
-<!-- section break -->
-
-Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476" >}}<br>

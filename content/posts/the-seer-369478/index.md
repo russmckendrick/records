@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-seer-369478.jpg" title="The Seer by Big Country" >}}
+The Seer is the third studio album by the Scottish band Big Country, released in 1986. The album featured very traditional Scottish musical settings, reminiscent of the band's debut album The Crossing (1983). Kate Bush worked on the title song in a duet with lead singer and lyricist Stuart Adamson. The album's first single, "Look Away", was an Irish number one, and was also the group's biggest hit single in the UK, reaching #7.The album reached number 2 in the UK Albums Chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Look Away
 2. The Seer
 3. The Teacher
@@ -35,15 +39,6 @@ styles: ["Pop Rock"]
 8. Remembrance Day
 9. The Red Fox
 10. The Sailor
-
-<!-- section break -->
-
-The Seer is the third studio album by the Scottish band Big Country, released in 1986. The album featured very traditional Scottish musical settings, reminiscent of the band's debut album The Crossing (1983). Kate Bush worked on the title song in a duet with lead singer and lyricist Stuart Adamson. The album's first single, "Look Away", was an Irish number one, and was also the group's biggest hit single in the UK, reaching #7.The album reached number 2 in the UK Albums Chart.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-seer-re-presents/1442921978" >}}<br>

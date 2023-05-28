@@ -21,17 +21,12 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="how-big-the-space-11863593.jpg" title="How Big The Space by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. How Big The Space (3:38)
 2. How Big The Space (Instrumental Variation) (3:38)
 3. People Who Eat Darkness (Ninet Version) (6:00)
-
-<!-- section break -->
-
-
 
 
 

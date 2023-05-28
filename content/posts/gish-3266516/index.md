@@ -33,10 +33,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
 
-{{< img src="gish-3266516.jpg" title="Gish by The Smashing Pumpkins" >}}
+Gish is the debut studio album by American alternative rock band the Smashing Pumpkins, released in May 1991 through Caroline Records. Frontman Billy Corgan has variously described Gish as a "very spiritual album" and "an album about spiritual ascension".Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (one million copies shipped in the US) by the RIAA. On April 1, 2019 Rolling Stone magazine ranked Gish the 32nd greatest grunge album of all time.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Am One
 2. Siva
 3. Rhinoceros
@@ -48,13 +50,6 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 9. Window Paine
 10. Daydream
 11. I'm Going Crazy
-
-<!-- section break -->
-
-Gish is the debut studio album by American alternative rock band the Smashing Pumpkins, released in May 1991 through Caroline Records. Frontman Billy Corgan has variously described Gish as a "very spiritual album" and "an album about spiritual ascension".Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (one million copies shipped in the US) by the RIAA. On April 1, 2019 Rolling Stone magazine ranked Gish the 32nd greatest grunge album of all time.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gish-deluxe-edition/1471016488" >}}<br>

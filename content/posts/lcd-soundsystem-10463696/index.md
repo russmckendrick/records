@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro"]
 ---
 
-{{< img src="lcd-soundsystem-10463696.jpg" title="LCD Soundsystem by LCD Soundsystem" >}}
+LCD Soundsystem is the debut studio album by American rock band LCD Soundsystem. It was released on January 24, 2005, jointly through DFA and Capitol Records in the United States and EMI elsewhere. The album encompasses genres that range from dance-punk to electronica to indie rock to dance music. The album was critically acclaimed upon release and was nominated for the 2006 Grammy Award for Best Electronic/Dance Album. Many singles were released to promote the album, including the band's breakout "Daft Punk Is Playing at My House", which reached number one on the UK Dance Chart in March, 2005.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Daft Punk Is Playing At My House
 2. Too Much Love
 3. Tribulations
@@ -34,14 +37,6 @@ styles: ["Alternative Rock", "Electro"]
 7. Thrills
 8. Disco Infiltrator
 9. Great Release
-
-<!-- section break -->
-
-LCD Soundsystem is the debut studio album by American rock band LCD Soundsystem. It was released on January 24, 2005, jointly through DFA and Capitol Records in the United States and EMI elsewhere. The album encompasses genres that range from dance-punk to electronica to indie rock to dance music. The album was critically acclaimed upon release and was nominated for the 2006 Grammy Award for Best Electronic/Dance Album. Many singles were released to promote the album, including the band's breakout "Daft Punk Is Playing at My House", which reached number one on the UK Dance Chart in March, 2005.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lcd-soundsystem/696523434" >}}<br>

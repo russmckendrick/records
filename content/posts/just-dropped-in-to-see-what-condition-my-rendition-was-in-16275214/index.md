@@ -22,10 +22,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214.jpg" title="Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Signed, Sealed, Delivered I'm Yours
 2. Little By Little
 3. Just Dropped In (To See What Condition My Condition Was In)
@@ -38,10 +37,6 @@ styles: ["Soul"]
 10. In The Bush
 11. It Hurts To Be Alone
 12. Trespasser
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/just-dropped-in-to-see-what-condition-my-rendition-was-in/1531719654" >}}<br>

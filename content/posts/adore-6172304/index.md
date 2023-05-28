@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="adore-6172304.jpg" title="Adore by The Smashing Pumpkins" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Sheila (4:40)
 2. Ava Adore (4:20)
 3. Perfect (3:23)
@@ -38,10 +37,6 @@ styles: ["Alternative Rock"]
 14. For Martha (8:17)
 15. Blank Page (4:51)
 16. 17 (0:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/adore-remastered/1440818528" >}}<br>

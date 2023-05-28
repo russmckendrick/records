@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Symphonic Rock"]
 ---
 
-{{< img src="afflatus-21302986.jpg" title="Afflatus by The Polyphonic Spree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Change
 2. You Put My Love Out The Door
 3. She's A Rainbow
@@ -30,10 +29,6 @@ styles: ["Art Rock", "Symphonic Rock"]
 8. Let 'Em In
 9. Never My Love
 10. The Spirit Of Radio
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afflatus/1563231701" >}}<br>

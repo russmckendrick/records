@@ -23,25 +23,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="stereo-mind-game-26675387.jpg" title="Stereo Mind Game by Daughter" >}}
-
-<!-- section break -->
-
-1. Intro
-2. Be On Your Way
-3. Party
-4. Dandelion
-5. Neptune
-6. Swim Back
-7. Junkmail
-8. Future Lover
-9. (Missed Calls)
-10. Isolation
-11. To Rage
-12. Wish I Could Cross The Sea
-
-<!-- section break -->
-
 When Daughter decided to take a break in 2017, they didn’t expect it would be six years until they’d next put out an album. They’d needed time away from touring and from each other, to halt the natural autopilot any band can fall into, and a moment to concentrate on life beyond Daughter (vocalist Elena Tonra released her solo debut as Ex:Re in 2018). Then, right when they were ready to work on ideas they’d started on just before their hiatus, the pandemic hit. But they discovered some advantages to working miles apart. “Everything was more considerate,” guitarist and producer Igor Haefeli tells Apple Music. “Like when you’d write a letter, you can look over it and correct your mistakes and give it more thought, as opposed to the immediacy of being in a room together.” With live music off indefinitely, they also found more room to experiment. “With previous albums, there was always a limitation of ‘How are we going to play this live?’” says drummer Remi Aguilella. “[This time] it was like, ‘It would be great to have all those different parts, so let’s add them and see what happens.’” 
 
 <i>Stereo Mind Game</i>, then, sees Daughter widen and finesse their whisper-close yet atmospheric indie-folk sound. Expect lush string and horn arrangements, warm backing vocals and reverb-laden acoustic guitars that rub alongside chopped-up voice notes, driving drum machines and even electronic birdsong. “We’re all interested in having electronic and acoustic elements together,” says Tonra. “How big can the live sounds feel, and how textural the electronics can feel. We've tried to push both of those to a good new level for us.” For a band whose MO has always been emotional intensity, there was another new frontier: acceptance, as Tonra details falling for someone who lives too far away to make it work, connection and distance from loved ones, and conflicts between her own internal voices. “I guess every record we've made is [about] growth, change,” says Haefeli. “But with this one, it was about having a bit more optimism and emotional maturity.” Read on as Daughter talk through their third album, one track at a time. 
@@ -90,6 +71,20 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
     
     
 
+
+## Tracklisting
+1. Intro
+2. Be On Your Way
+3. Party
+4. Dandelion
+5. Neptune
+6. Swim Back
+7. Junkmail
+8. Future Lover
+9. (Missed Calls)
+10. Isolation
+11. To Rage
+12. Wish I Could Cross The Sea
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stereo-mind-game/1654233350" >}}<br>

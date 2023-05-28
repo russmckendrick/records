@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-{{< img src="1-record-14696642.jpg" title="#1 Record by Big Star" >}}
+It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”  
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Feel (3:34)
 2. The Ballad Of El Goodo (4:21)
 3. In The Street (2:55)
@@ -38,13 +40,6 @@ styles: ["Power Pop"]
 10. Try Again (3:31)
 11. Watch The Sunrise (3:45)
 12. ST 100/6 (1:01)
-
-<!-- section break -->
-
-It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”  
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}<br>

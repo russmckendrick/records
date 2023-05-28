@@ -24,27 +24,6 @@ genres: ["Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-{{< img src="stay-human-vol-ii-13122410.jpg" title="Stay Human Vol. II by Michael Franti And Spearhead" >}}
-
-<!-- section break -->
-
-1. Little Things
-2. Just To Say I Love You
-3. Flower In The Gun
-4. Only Thing Missing Was You 2
-5. Stay Human 2
-6. Summertime Won't Last Long
-7. This World Is So F*cked Up (But I Ain't Ever Giving Up On It)
-8. You're Number One
-9. Enjoy Every Second
-10. Nobody Cries Alone
-11. Extraordinary
-12. When The Sun Begins To Shine
-13. Show Me Your Peace Sign
-14. Take Me Alive
-
-<!-- section break -->
-
 For the past 25 years, singer-songwriter Michael Franti has been wrapping his arms around the world with his band Spearhead, stockpiling an arsenal of uplifting hits like “The Sound of Sunshine” and “Say Hey (I Love You).” In 2019, Franti will release two <i>Stay Human</i> projects: an album and documentary. The latter follows the artist meeting people doing extraordinary things (a midwife in Bali, a Georgia couple living with ALS, a tribe in Indonesia practicing sustainable forestry), as well as experiencing personal epiphanies like coming to terms with his father's alcoholism, examining the roots of his depression, even learning of his mother's stroke and son's kidney ailment. The album <i>Stay Human, Vol. 2</i> is an extension of the film, inspired by and created during these moments, all the while searching for what it means to be human in inhumane times. Much like Franti, the music is a shot of positivity, rippling with regenerative acoustic pop, reggae, hip-hop, even country. Apple Music chatted with him about the themes behind some of the songs, as well as his own challenge to stay optimistic.<br />
 <b>On “This World Is so F*cked Up (But I Ain’t Ever Giving Up on It)”:</b>
 “There are so many days when I wake up and go, ‘Man, this world is so fucked up, it makes me want to check out.’ And then when I get out, there’s a billion different people doing a billion different things to make a billion places better today, and I honestly see that. How many times does that go on every day, where there’s somebody there to nurture a baby or a friend, or a teenager who’s going through a rough time, or to sit with somebody and just listen to their story who’s nearing the end of their life, cook food, and build a home or just all these things every day that go unnoticed? Those are the things that really matter to someone in their lives, and so that’s who that song is about.”<br />
@@ -59,6 +38,22 @@ For the past 25 years, singer-songwriter Michael Franti has been wrapping his ar
     
     
 
+
+## Tracklisting
+1. Little Things
+2. Just To Say I Love You
+3. Flower In The Gun
+4. Only Thing Missing Was You 2
+5. Stay Human 2
+6. Summertime Won't Last Long
+7. This World Is So F*cked Up (But I Ain't Ever Giving Up On It)
+8. You're Number One
+9. Enjoy Every Second
+10. Nobody Cries Alone
+11. Extraordinary
+12. When The Sun Begins To Shine
+13. Show Me Your Peace Sign
+14. Take Me Alive
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stay-human-vol-2/1437855831" >}}<br>

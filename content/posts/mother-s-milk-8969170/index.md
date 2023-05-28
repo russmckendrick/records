@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-{{< img src="mother-s-milk-8969170.jpg" title="Mother's Milk by Red Hot Chili Peppers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Time Boys (4:51)
 2. Higher Ground (3:15)
 3. Subway To Venus (4:17)
@@ -37,10 +36,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 11. Punk Rock Classic (1:37)
 12. Sexy Mexican Maid (3:40)
 13. Johnny Kick A Hole In The Sky (5:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mothers-milk-remastered/1440872972" >}}<br>

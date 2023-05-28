@@ -20,20 +20,15 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave"]
 ---
 
-{{< img src="history-never-repeats-6659991.jpg" title="History Never Repeats by Split Enz" >}}
-
-<!-- section break -->
-
-1. History Never Repeats (3:00)
-2. Shark Attack (3:00)
-3. What's The Matter With You (4:34)
-
-<!-- section break -->
-
 History Never Repeats – The Best of Split Enz is a compilation of hits by New Zealand rock band Split Enz. Initially released in the US in 1987, then in New Zealand and Australia in 1989, the album has been through many variations and reissues over the years.
     
     
 
+
+## Tracklisting
+1. History Never Repeats (3:00)
+2. Shark Attack (3:00)
+3. What's The Matter With You (4:34)
 
 
 

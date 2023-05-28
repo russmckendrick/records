@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop"]
 ---
 
-{{< img src="go-go-sapiens-23205512.jpg" title="Go Go Sapiens by EMF" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Started It
 2. Sister Sandinista
 3. Stay Classy San Diego
@@ -36,10 +35,6 @@ styles: ["Dance-pop"]
 9. Dr. Strangelove
 10. Greatest Day
 11. Sparks And Flashes
-
-<!-- section break -->
-
-
 
 
 

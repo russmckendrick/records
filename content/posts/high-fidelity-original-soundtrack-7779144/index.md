@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Rock"]
 ---
 
-{{< img src="high-fidelity-original-soundtrack-7779144.jpg" title="High Fidelity (Original Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You're Gonna Miss Me (2:28)
 2. Everybody's Gonna Be Happy (2:18)
 3. I'm Wrong About Everything (3:36)
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 13. Inside Game (3:42)
 14. Who Loves The Sun (2:46)
 15. I Believe (When I Fall In Love It Will Be Forever) (4:51)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

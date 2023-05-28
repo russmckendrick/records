@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="pocket-full-of-kryptonite-6958185.jpg" title="Pocket Full of Kryptonite  by Spin Doctors" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jimmy Olsen's Blues (4:35)
 2. What Time Is It? (4:49)
 3. Little Miss Cant Be Wrong  (3:53)
@@ -31,10 +30,6 @@ styles: ["Indie Rock"]
 9. How Could You Want Him (When You Know You Could Have Me?) (4:58)
 10. Shinbone Alley
 11. Hard To Exist
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657" >}}<br>

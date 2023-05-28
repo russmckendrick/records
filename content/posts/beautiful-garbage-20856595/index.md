@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Experimental"]
 ---
 
-{{< img src="beautiful-garbage-20856595.jpg" title="Beautiful Garbage by Garbage" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shut Your Mouth
 2. Androgyny
 3. Can't Cry These Tears
@@ -45,10 +44,6 @@ styles: ["Pop Rock", "Synth-pop", "Experimental"]
 11. Nobody Loves You
 12. Untouchable
 13. So Like A Rose
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-garbage/1544163294" >}}<br>

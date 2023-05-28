@@ -32,10 +32,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="marbles-10716478.jpg" title="Marbles by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Invisible Man
 2. Marbles I
 3. Genie
@@ -51,10 +50,6 @@ styles: ["Prog Rock"]
 13. Drilling Holes
 14. Marbles IV
 15. Neverland
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/marbles/1328777975" >}}<br>

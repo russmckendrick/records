@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="missiles-12677910.jpg" title="Missiles by The Dears" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Part I
 2. Disclaimer (6:44)
 3. Dream Job (4:32)
@@ -34,10 +33,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Meltdown In A Major (5:09)
 12. Part III
 13. Saviour (11:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/missiles/952849135" >}}<br>

@@ -27,10 +27,12 @@ genres: ["Rock", "Reggae"]
 styles: ["Nu Metal", "Ragga"]
 ---
 
-{{< img src="roots-rock-riot-18443227.jpg" title="Roots Rock Riot by Skindred" >}}
+Roots Rock Riot is the second album from Welsh rock band Skindred. It was released on 23 October 2007 in the United States.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Roots Rock Riot (3:02)
 2. Trouble (3:49)
 3. Ratrace (3:22)
@@ -46,13 +48,6 @@ styles: ["Nu Metal", "Ragga"]
 13. 7 Inch Bonus Tracks:
 14. It's A Crime (3:17)
 15. Struggle (3:37)
-
-<!-- section break -->
-
-Roots Rock Riot is the second album from Welsh rock band Skindred. It was released on 23 October 2007 in the United States.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots-rock-riot/1451028729" >}}<br>

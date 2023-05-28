@@ -20,10 +20,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Folk Rock"]
 ---
 
-{{< img src="the-blue-elephant-18722572.jpg" title="The Blue Elephant by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aboard
 2. Summer Sun
 3. Safe Passage
@@ -39,10 +38,6 @@ styles: ["Psychedelic Rock", "Folk Rock"]
 13. Story Told
 14. Forget Me
 15. Now Disappear (Again)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}<br>

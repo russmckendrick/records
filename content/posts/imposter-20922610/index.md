@@ -35,10 +35,12 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-{{< img src="imposter-20922610.jpg" title="Imposter by Dave Gahan" >}}
+Imposter is the third collaborative studio album by English singer-songwriter Dave Gahan and electronica producer Soulsavers. It was released on 12 November 2021 by Columbia Records. The album also produced one single.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Dark End Of The Street
 2. Strange Religion
 3. Lilac Wine
@@ -51,13 +53,6 @@ styles: []
 10. The Desperate Kingdom Of Love
 11. Not Dark Yet
 12. Always On My Mind
-
-<!-- section break -->
-
-Imposter is the third collaborative studio album by English singer-songwriter Dave Gahan and electronica producer Soulsavers. It was released on 12 November 2021 by Columbia Records. The album also produced one single.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/imposter/1587991588" >}}<br>

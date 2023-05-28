@@ -17,10 +17,13 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="windy-city-9914922.jpg" title="Windy City by Alison Krauss" >}}
+Windy City is the fourth solo studio album by bluegrass-country artist Alison Krauss. Released on February 17, 2017, the album is Krauss' first solo release since Forget About It in 1999, and includes ten covers of classic songs that she selected with producer Buddy Cannon.The deluxe edition adds four live versions of tracks. The Target Exclusive version adds two more tracks to the deluxe edition. The Cracker Barrel Exclusive version adds one more track to the regular edition. The Barnes & Noble Exclusive vinyl LP version has an alternate cover image.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Losing You
 2. It's Goodbye And So Long To You
 3. Windy City
@@ -31,14 +34,6 @@ styles: []
 8. All Alone Am I
 9. Poison Love
 10. You Don't Know Me
-
-<!-- section break -->
-
-Windy City is the fourth solo studio album by bluegrass-country artist Alison Krauss. Released on February 17, 2017, the album is Krauss' first solo release since Forget About It in 1999, and includes ten covers of classic songs that she selected with producer Buddy Cannon.The deluxe edition adds four live versions of tracks. The Target Exclusive version adds two more tracks to the deluxe edition. The Cracker Barrel Exclusive version adds one more track to the regular edition. The Barnes & Noble Exclusive vinyl LP version has an alternate cover image.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/windy-city-deluxe/1440864842" >}}<br>

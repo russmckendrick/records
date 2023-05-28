@@ -21,10 +21,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="upstairs-at-eric-s-97230.jpg" title="Upstairs At Eric's by Yazoo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Go (3:08)
 2. Too Pieces (3:14)
 3. Bad Connection (3:20)
@@ -36,10 +35,6 @@ styles: ["Synth-pop"]
 9. Tuesday (3:22)
 10. Winter Kills (4:06)
 11. Bring Your Love Down (Didn't I) (4:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1193733398" >}}<br>

@@ -61,10 +61,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="distortion-1989-1995-16142917.jpg" title="Distortion: 1989 - 1995 by Bob Mould" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Workbook
 2. Sunspots
 3. Wishing Well
@@ -145,10 +144,6 @@ styles: []
 78. Hickory Wind
 79. Can't Fight It
 80. Turning Of The Tide
-
-<!-- section break -->
-
-
 
 
 

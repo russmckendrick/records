@@ -23,10 +23,12 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="showtunes-18763735.jpg" title="Showtunes by Lambchop" >}}
+Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Chef's Kiss (3:45)
 2. Drop C (3:22)
 3. Papa Was A Rolling Stone Journalist (1:58)
@@ -35,13 +37,6 @@ styles: []
 6. Blue Leo (3:04)
 7. Impossible Meatballs (3:10)
 8. The Last Benedict (4:03)
-
-<!-- section break -->
-
-Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/showtunes/1555645416" >}}<br>

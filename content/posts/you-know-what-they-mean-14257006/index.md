@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ---
 
-{{< img src="you-know-what-they-mean-14257006.jpg" title="You Know What They Mean by Bent Knee" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lansing
 2. Bone Rage
 3. Give Us The Gold
@@ -48,10 +47,6 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 24. Garbage Shark (5:38)
 25. Golden Hour (5:51)
 26. It Happens (5:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/you-know-what-they-mean/1475485888" >}}<br>

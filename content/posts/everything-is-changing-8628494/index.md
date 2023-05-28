@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="everything-is-changing-8628494.jpg" title="Everything Is Changing by Anneke van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Feel Alive
 2. You Want To Be Free
 3. Everything Is Changing
@@ -37,10 +36,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 10. Slow Me Down
 11. Too Late
 12. 1000 Miles Away From You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-changing/479864565" >}}<br>

@@ -25,10 +25,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", "Shoegaze", "EBM", "Industrial"]
 ---
 
-{{< img src="indie-top-20-volume-xi-589039.jpg" title="Indie Top 20 Volume XI by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Anytime Anyplace Anywhere (4:10)
 2. Pray (3:56)
 3. Spirit (3:25)
@@ -49,10 +48,6 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 18. Decadence (4:19)
 19. Birdbrain (3:12)
 20. Dig For Fire (2:47)
-
-<!-- section break -->
-
-
 
 
 

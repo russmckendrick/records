@@ -21,10 +21,16 @@ genres: ["Rock"]
 styles: ["AOR", "Hard Rock"]
 ---
 
-{{< img src="bad-animals-1402220.jpg" title="Bad Animals by Heart" >}}
+Bad Animals is the ninth studio album by American rock band Heart, released on June 6, 1987, by Capitol Records. The album continues the mainstream hard rock style from the band's 1985 self-titled release, all while enjoying similar success. It peaked at number two on the US Billboard 200 in August 1987, and was certified triple platinum by the Recording Industry Association of America (RIAA) on June 4, 1992. Internationally, Bad Animals charted within the top five in Canada, Finland, Norway, Sweden, and Switzerland.
+The album spawned the US number-one single "Alone", while "Who Will You Run To" reached number seven, "There's the Girl" reached number 12, and "I Want You So Bad" reached number 49. Bad Animals received a nomination for Best Rock Performance by a Duo or Group with Vocal at the 30th Annual Grammy Awards in 1988.The album features a few cover songs: "Alone" was originally recorded by the duo i-Ten on their 1983 album Taking a Cold Look, while "Wait for an Answer" was originally recorded by Dalbello on her 1984 album Whomanfoursays.
+The album's name refers to a situation the band encountered at a hotel in Charlotte, North Carolina. Ann Wilson's dog was at the hotel with her, and hotel security informed the band that a North Carolina law made it a crime to bring an animal into a hotel room. The band's tour manager solved the problem by going outside with the dog for three hours.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Who Will You Run To (4:06)
 2. Alone (3:38)
 3. There's The Girl (3:51)
@@ -35,17 +41,6 @@ styles: ["AOR", "Hard Rock"]
 8. Strangers Of The Heart (3:39)
 9. Easy Target (3:56)
 10. RSVP (3:37)
-
-<!-- section break -->
-
-Bad Animals is the ninth studio album by American rock band Heart, released on June 6, 1987, by Capitol Records. The album continues the mainstream hard rock style from the band's 1985 self-titled release, all while enjoying similar success. It peaked at number two on the US Billboard 200 in August 1987, and was certified triple platinum by the Recording Industry Association of America (RIAA) on June 4, 1992. Internationally, Bad Animals charted within the top five in Canada, Finland, Norway, Sweden, and Switzerland.
-The album spawned the US number-one single "Alone", while "Who Will You Run To" reached number seven, "There's the Girl" reached number 12, and "I Want You So Bad" reached number 49. Bad Animals received a nomination for Best Rock Performance by a Duo or Group with Vocal at the 30th Annual Grammy Awards in 1988.The album features a few cover songs: "Alone" was originally recorded by the duo i-Ten on their 1983 album Taking a Cold Look, while "Wait for an Answer" was originally recorded by Dalbello on her 1984 album Whomanfoursays.
-The album's name refers to a situation the band encountered at a hotel in Charlotte, North Carolina. Ann Wilson's dog was at the hotel with her, and hotel security informed the band that a North Carolina law made it a crime to bring an animal into a hotel room. The band's tour manager solved the problem by going outside with the dog for three hours.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-animals/724077331" >}}<br>

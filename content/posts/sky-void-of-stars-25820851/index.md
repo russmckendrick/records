@@ -21,23 +21,6 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="sky-void-of-stars-25820851.jpg" title="Sky Void Of Stars by Katatonia" >}}
-
-<!-- section break -->
-
-1. Austerity
-2. Colossal Shade
-3. Opaline
-4. Birds
-5. Drab Moon
-6. Author
-7. Impermanence
-8. Sclera
-9. Atrium
-10. No Beacon To Illuminate Our Fall
-
-<!-- section break -->
-
 “I was thinking about way back in time when people were navigating by the stars. If they were sailing a ship and the stars weren’t visible, that would mean you can’t go anywhere, really.” That’s how Katatonia vocalist, guitarist and songwriter Jonas Renkse explains the title of the Swedish goth-metal titans’ 12th album. It’s this sense of being adrift that permeates <i>Sky Void of Stars</i>, helping to create a melancholy and introspective experience rich in metallic and electronic atmosphere. “I think it’s a very common feeling among humans,” Renkse tells Apple Music. “At some point in your life, you could feel you have no direction, or you don’t know where you’re going next.”
 
 It’s probably no surprise that the pandemic got Renkse thinking along these lines. “We released our previous album just in the beginning of the pandemic, and it sort of froze in time,” he explains. “We couldn’t go anywhere—no tours, no gigs to promote the album. And it made us feel, of course, kind of crippled.” Below, he details each track on <i>Sky Void of Stars</i>.
@@ -78,6 +61,18 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
         
     
 
+
+## Tracklisting
+1. Austerity
+2. Colossal Shade
+3. Opaline
+4. Birds
+5. Drab Moon
+6. Author
+7. Impermanence
+8. Sclera
+9. Atrium
+10. No Beacon To Illuminate Our Fall
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sky-void-of-stars/1647368479" >}}<br>

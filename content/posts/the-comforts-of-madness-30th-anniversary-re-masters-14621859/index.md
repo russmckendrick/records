@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="the-comforts-of-madness-30th-anniversary-re-masters-14621859.jpg" title="The Comforts Of Madness 30th Anniversary Re:Masters by Pale Saints" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Comforts Of Madness 30th Anniversary Re:Masters
 2. Way The World Is
 3. You Tear The World In Two
@@ -63,10 +62,6 @@ styles: ["Indie Rock", "Shoegaze"]
 28. You Tear The World In Two
 29. Way The World Is
 30. Time Thief
-
-<!-- section break -->
-
-
 
 
 

@@ -16,10 +16,12 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="songs-in-the-key-of-animals-8050808.jpg" title="Songs In The Key Of Animals by Benji Hughes" >}}
+Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Peacockin' Party (2:40)
 2. Girls Love Shoes (2:52)
 3. Shark Attack!!!!!!!!!! (2:25)
@@ -32,13 +34,6 @@ styles: ["Indie Pop"]
 10. Longshot (3:51)
 11. Song For Nancy (5:50)
 12. ? Take You Home (3:37)
-
-<!-- section break -->
-
-Songs in the Key of Animals is the second studio album by American musician Benji Hughes. It was released in 2016 under Merge Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473" >}}<br>

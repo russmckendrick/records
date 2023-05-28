@@ -24,10 +24,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Psychedelic", "Disco"]
 ---
 
-{{< img src="the-best-of-sly-and-the-family-stone-20361376.jpg" title="The Best Of Sly And The Family Stone by Sly & The Family Stone" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dance To The Music (3:00)
 2. I Want To Take You Higher (5:22)
 3. Family Affair (3:09)
@@ -48,10 +47,6 @@ styles: ["Funk", "Psychedelic", "Disco"]
 18. Que Sera Sera (Whatever Will Be Will Be) (5:15)
 19. Runnin' Away (2:58)
 20. Family Affair (Remix) (3:53)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-sly-the-family-stone/508650571" >}}<br>

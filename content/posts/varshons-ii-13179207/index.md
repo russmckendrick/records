@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="varshons-ii-13179207.jpg" title="Varshons II by The Lemonheads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Can't Forget
 2. Settled Down Like Rain
 3. Old Man Blank
@@ -37,10 +36,6 @@ styles: ["Indie Rock"]
 11. Unfamiliar
 12. Straight To You
 13. Take It Easy
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/varshons-2/1667417175" >}}<br>

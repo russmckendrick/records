@@ -20,10 +20,15 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="odessey-and-oracle-1317966.jpg" title="Odessey And Oracle by The Zombies" >}}
+Odessey and Oracle is the second studio album by English rock band the Zombies. It was originally released in the UK in April 1968 by CBS Records.
+The album was recorded primarily between June and August 1967. The sessions took place at EMI (now Abbey Road Studios) and Olympic Studios in London. The Zombies, having been dropped from Decca Records, financed these sessions independently. After signing with CBS, two singles and later the album itself were released to critical and commercial indifference, and the band quietly dissolved. A third single from the album, "Time of the Season", became a surprise hit in the United States in early 1969 after CBS staff producer Al Kooper recommended it be released on Date Records.
+The album gradually achieved critical praise and a cult following, and has since become one of the most acclaimed albums of the 1960s. It was ranked 100th on Rolling Stone magazine's list of the 500 Greatest Albums of All Time. When Rolling Stone revised their list in 2020, the album ranked 243rd.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Care Of Cell 44
 2. A Rose For Emily
 3. Maybe After He's Gone
@@ -36,16 +41,6 @@ styles: ["Psychedelic Rock"]
 10. Butcher's Tale (Western Front 1914)
 11. Friends Of Mine
 12. Time Of The Season
-
-<!-- section break -->
-
-Odessey and Oracle is the second studio album by English rock band the Zombies. It was originally released in the UK in April 1968 by CBS Records.
-The album was recorded primarily between June and August 1967. The sessions took place at EMI (now Abbey Road Studios) and Olympic Studios in London. The Zombies, having been dropped from Decca Records, financed these sessions independently. After signing with CBS, two singles and later the album itself were released to critical and commercial indifference, and the band quietly dissolved. A third single from the album, "Time of the Season", became a surprise hit in the United States in early 1969 after CBS staff producer Al Kooper recommended it be released on Date Records.
-The album gradually achieved critical praise and a cult following, and has since become one of the most acclaimed albums of the 1960s. It was ranked 100th on Rolling Stone magazine's list of the 500 Greatest Albums of All Time. When Rolling Stone revised their list in 2020, the album ranked 243rd.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/odessey-and-oracle/252723845" >}}<br>

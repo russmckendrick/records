@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="on-13020112.jpg" title="On by Echobelly" >}}
+On was the second album from English rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Car Fiction
 2. King Of The Kerb
 3. Great Things
@@ -39,13 +41,6 @@ styles: ["Indie Rock", "Britpop"]
 10. In The Year
 11. Dark Therapy
 12. Worms And Angels
-
-<!-- section break -->
-
-On was the second album from English rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-echobelly/282215710" >}}<br>

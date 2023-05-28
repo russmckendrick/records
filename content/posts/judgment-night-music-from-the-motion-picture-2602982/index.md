@@ -21,10 +21,9 @@ genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", "Thrash"]
 ---
 
-{{< img src="judgment-night-music-from-the-motion-picture-2602982.jpg" title="Judgment Night (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Love You Mary Jane (3:49)
 2. Judgment Night (4:35)
 3. Just Another Victim (4:21)
@@ -36,10 +35,6 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 9. Another Body Murdered (4:22)
 10. Come And Die (4:22)
 11. Real Thing (3:31)
-
-<!-- section break -->
-
-
 
 
 

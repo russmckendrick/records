@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ---
 
-{{< img src="acoustic-hits-10505690.jpg" title="Acoustic Hits by The Cure" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Boys Don't Cry
 2. A Forest
 3. Let's Go To Bed
@@ -50,10 +49,6 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 16. Wrong Number
 17. Cut Here
 18. Just Say Yes
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}<br>

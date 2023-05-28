@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="tigermilk-6247282.jpg" title="Tigermilk by Belle & Sebastian" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The State I Am In (4:57)
 2. Expectations (3:34)
 3. She's Losing It (2:22)
@@ -36,10 +35,6 @@ styles: ["Indie Rock"]
 8. My Wandering Days Are Over (5:25)
 9. I Don't Love Anyone (3:56)
 10. Mary Jo (3:29)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}<br>

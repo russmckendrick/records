@@ -17,10 +17,9 @@ genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Soundtrack", "Country", "Rock & Roll"]
 ---
 
-{{< img src="country-music-a-film-by-ken-burns-the-soundtrack-14124491.jpg" title="Country Music A Film By Ken Burns The Soundtrack by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Can The Circle Be Unbroken
 2. Blue Yodel No. 8 (Mule Skinner Blues)
 3. Fox Chase
@@ -50,10 +49,6 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 27. Where've You Been
 28. Go Rest High On That Mountain
 29. I Still Miss Someone
-
-<!-- section break -->
-
-
 
 
 ## Spotify

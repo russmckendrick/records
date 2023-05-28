@@ -21,20 +21,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="tumbling-through-the-floativerse-23922800.jpg" title="Tumbling Through The Floativerse by Ed Wynne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Oilyvoice
 2. Seen The Sun
 3. Magnetophoria
 4. Floating Plates
 5. Infinity Curtains
 6. Starseeds
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tumbling-through-the-floativerse/1620580648" >}}<br>

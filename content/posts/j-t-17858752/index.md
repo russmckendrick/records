@@ -27,10 +27,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="j-t-17858752.jpg" title="J.T.  by Steve Earle & The Dukes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Don't Care (1:54)
 2. Ain't Glad I'm Leaving  (2:52)
 3. Maria  (2:46)
@@ -42,10 +41,6 @@ styles: []
 9. The Saint Of Lost Causes  (5:01)
 10. Harlem River Blues  (3:10)
 11. Last Words  (4:21)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

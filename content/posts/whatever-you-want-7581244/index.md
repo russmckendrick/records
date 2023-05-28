@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
 
-{{< img src="whatever-you-want-7581244.jpg" title="Whatever You Want by Status Quo" >}}
+"Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Whatever You Want (4:03)
 2. Shady Lady (3:00)
 3. Who Asked You (3:57)
@@ -30,13 +32,6 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 8. Runaway (4:38)
 9. High Flyer (3:50)
 10. Breaking Away (6:40)
-
-<!-- section break -->
-
-"Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}<br>

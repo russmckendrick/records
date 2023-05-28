@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="the-best-of-1800080.jpg" title="The Best Of by Judas Priest" >}}
+The Best of Judas Priest is a compilation album featuring select songs from English heavy metal band Judas Priest's first two albums, Rocka Rolla (1974) and Sad Wings of Destiny (1976).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dying To Meet You (6:15)
 2. Never Satisfied (4:50)
 3. Rocka Rolla (3:05)
@@ -31,13 +33,6 @@ styles: ["Heavy Metal"]
 6. Island Of Domination (4:26)
 7. The Ripper (2:50)
 8. Deceiver (2:43)
-
-<!-- section break -->
-
-The Best of Judas Priest is a compilation album featuring select songs from English heavy metal band Judas Priest's first two albums, Rocka Rolla (1974) and Sad Wings of Destiny (1976).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/setlist-the-very-best-of-judas-priest-live/646158338" >}}<br>

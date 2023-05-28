@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Folk", "House"]
 ---
 
-{{< img src="earth-15122504.jpg" title="Earth by Ed O'Brien" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shangri-La
 2. Brasil
 3. Deep Days
@@ -33,10 +32,6 @@ styles: ["Indie Rock", "Folk", "House"]
 7. Sail On
 8. Olympik
 9. Cloak Of The Night
-
-<!-- section break -->
-
-
 
 
 

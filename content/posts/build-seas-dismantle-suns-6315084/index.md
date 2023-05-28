@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="build-seas-dismantle-suns-6315084.jpg" title="Build Seas, Dismantle Suns by Nordic Giants" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Violent Lights
 2. Drumfire
 3. Neotenie
@@ -33,10 +32,6 @@ styles: ["Post Rock"]
 6. Mechanical Minds
 7. Strangest Tides
 8. Dark Clouds Mean War
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/build-seas-dismantle-suns-eps/930867694" >}}<br>

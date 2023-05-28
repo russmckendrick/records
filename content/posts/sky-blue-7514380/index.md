@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="sky-blue-7514380.jpg" title="Sky Blue by Devin Townsend Project" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rejoice
 2. Fallout
 3. Midnight Sun
@@ -44,10 +43,6 @@ styles: []
 22. Forever
 23. Before We Die
 24. The Ones Who Love
-
-<!-- section break -->
-
-
 
 
 

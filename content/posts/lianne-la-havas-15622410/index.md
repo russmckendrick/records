@@ -29,24 +29,6 @@ genres: ["Funk / Soul", "Pop"]
 styles: []
 ---
 
-{{< img src="lianne-la-havas-15622410.jpg" title="Lianne La Havas by Lianne La Havas" >}}
-
-<!-- section break -->
-
-1. Bittersweet
-2. Read My Mind
-3. Green Papaya
-4. Can't Fight
-5. Paper Thin
-6. Out Of Your Mind (Interlude)
-7. Weird Fishes
-8. Please Don't Make Me Cry
-9. Seven Times
-10. Courage
-11. Sour Flower
-
-<!-- section break -->
-
 “I don’t know where it went, really,” Lianne La Havas tells Apple Music of the time between the release of her stunning second album <i>Blood</i>, in 2015, and her self-titled third record, delivered in 2020. “Lots was happening—and nothing.” In 2016 she toured with Coldplay (“Something I couldn’t not do”) and Leon Bridges (“extremely fun”), after which La Havas thought she’d settle down to write album number three. Two years later, she was still drawing a blank. “I was trying really hard, but I realised I couldn’t force it,” she says. “I just had to live my life a bit.” The inspiration came, at last, in 2019, in the form of a series of “big life changes—stuff in my personal life, family, relationships.” <i>Lianne La Havas</i> was finished before the year’s end. “Once I made those changes, it was the catalyst for the clarity of what I needed to write and how I needed to do it. Once I knew what to do, the process was quick.”<br />
 The result is a record that harnesses the power of the bold, bass-imbued sounds of <i>Blood</i>—and then takes it up a level. The beats are heavier and the influences wider-ranging, from R&B (“my musical upbringing”) to Brazilian music (La Havas has been an avid fan for the last decade) and Radiohead, whose song “Weird Fishes” the singer gives her powerful take on midway through the album. “I feel like this is the first time my influences are more defined,” says La Havas. “But the album still sounds like me. It’s maybe the most me I’ve ever sounded, which is what I want.” <i>Lianne La Havas</i> is, too, a moving exploration of those seismic shifts that prompted the record’s inception and, in particular, the life cycle of a relationship. There’s the heady infatuation of those early days (“Read My Mind”), the devastating moment cracks begin to show (“Paper Thin”) and, finally, the slow, precarious process of putting yourself back together after a painful end (see “Sour Flower”, the album’s gorgeous, sprawling, jazz-imbibed outro). “This is my first album that is actually a full story where you can hear a beginning, middle and an end,” says La Havas. She adds, as reassurance, “I’m all right now. Get to the last song on this album and you will know that I am totally fine!” More than that, this is the most self-assured the Streatham singer has ever sounded. “I’d lost a bit of confidence and got insecure about everything,” she says. “As I completed each piece of the story on this album, it made me a bit stronger. With each song, I realised that I could do it—that I could finish something I was proud of.” Let La Havas guide you through her triumphant album, track by track.<br />
 <b>Bittersweet</b>
@@ -75,6 +57,19 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
         
     
 
+
+## Tracklisting
+1. Bittersweet
+2. Read My Mind
+3. Green Papaya
+4. Can't Fight
+5. Paper Thin
+6. Out Of Your Mind (Interlude)
+7. Weird Fishes
+8. Please Don't Make Me Cry
+9. Seven Times
+10. Courage
+11. Sour Flower
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lianne-la-havas/1545263511" >}}<br>

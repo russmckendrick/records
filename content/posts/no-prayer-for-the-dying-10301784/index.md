@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="no-prayer-for-the-dying-10301784.jpg" title="No Prayer For The Dying by Iron Maiden" >}}
+No Prayer for the Dying is the eighth studio album by English heavy metal band Iron Maiden. It is their first album to feature Janick Gers on guitar, who replaced Adrian Smith. Smith left the band during the pre-production phase, unhappy with the musical direction it was taking, and only having contributed to one song, "Hooks in You". Gers previously worked with singer Bruce Dickinson on his first solo album, Tattooed Millionaire, and had also worked with Ian Gillan, former Marillion singer Fish, and new wave of British heavy metal band, White Spirit.Although it received generally mixed to negative reviews, the album peaked at No. 2 in the UK Albums Chart and contains the band's only UK Singles Chart No. 1, "Bring Your Daughter... to the Slaughter".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tailgunner
 2. Holy Smoke
 3. No Prayer For The Dying
@@ -39,13 +41,6 @@ styles: ["Heavy Metal"]
 8. Hooks In You
 9. Bring Your Daughter...To The Slaughter
 10. Mother Russia
-
-<!-- section break -->
-
-No Prayer for the Dying is the eighth studio album by English heavy metal band Iron Maiden. It is their first album to feature Janick Gers on guitar, who replaced Adrian Smith. Smith left the band during the pre-production phase, unhappy with the musical direction it was taking, and only having contributed to one song, "Hooks in You". Gers previously worked with singer Bruce Dickinson on his first solo album, Tattooed Millionaire, and had also worked with Ian Gillan, former Marillion singer Fish, and new wave of British heavy metal band, White Spirit.Although it received generally mixed to negative reviews, the album peaked at No. 2 in the UK Albums Chart and contains the band's only UK Singles Chart No. 1, "Bring Your Daughter... to the Slaughter".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-prayer-for-the-dying/979954026" >}}<br>

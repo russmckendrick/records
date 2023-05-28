@@ -16,10 +16,13 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-{{< img src="american-fool-8668868.jpg" title="American Fool by John Cougar Mellencamp" >}}
+American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.
+A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hurts So Good (3:35)
 2. Jack & Diane (4:16)
 3. Hand To Hold On To (3:24)
@@ -29,14 +32,6 @@ styles: ["Southern Rock"]
 7. China Girl (3:32)
 8. Close Enough (3:37)
 9. Weakest Moments (4:07)
-
-<!-- section break -->
-
-American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.
-A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
-    
-    
-
 
 
 ## Spotify

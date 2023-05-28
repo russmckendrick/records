@@ -26,10 +26,15 @@ genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
 
-{{< img src="donuts-14749929.jpg" title="Donuts by J Dilla" >}}
+There should have been more records like <i>Donuts</i>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo, and De La Soul, among many others. He had an encyclopedic knowledge of obscure jazz, funk, and soul, and, as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
+An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing, and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
+But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posthumous releases: He suffered from lupus—he recorded some of <i>Donuts</i> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <i>Welcome 2 Detroit</i> ably showed off his chops, the all-instrumental <i>Donuts</i> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren, and <i>Looney Tunes</i> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant, and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Donuts (Outro) (0:12)
 2. Workinonit (2:57)
 3. Waves (1:38)
@@ -61,16 +66,6 @@ styles: ["Instrumental"]
 29. Bye. (1:27)
 30. Last Donut Of The Night (1:39)
 31. Welcome To The Show (1:11)
-
-<!-- section break -->
-
-There should have been more records like <i>Donuts</i>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo, and De La Soul, among many others. He had an encyclopedic knowledge of obscure jazz, funk, and soul, and, as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
-An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing, and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
-But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posthumous releases: He suffered from lupus—he recorded some of <i>Donuts</i> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <i>Welcome 2 Detroit</i> ably showed off his chops, the all-instrumental <i>Donuts</i> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren, and <i>Looney Tunes</i> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant, and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/donuts/108233171" >}}<br>

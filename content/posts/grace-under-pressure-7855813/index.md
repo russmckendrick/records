@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-{{< img src="grace-under-pressure-7855813.jpg" title="Grace Under Pressure by Rush" >}}
+Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984 on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided to not work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.
+Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200.  It was certified platinum in the U.S. for selling one million copies.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Distant Early Warning
 2. Afterimage
 3. Red Sector A
@@ -33,14 +36,6 @@ styles: ["Prog Rock", "Hard Rock"]
 6. Kid Gloves
 7. Red Lenses
 8. Between The Wheels
-
-<!-- section break -->
-
-Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984 on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided to not work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.
-Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200.  It was certified platinum in the U.S. for selling one million copies.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grace-under-pressure-remastered/1440801137" >}}<br>

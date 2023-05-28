@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Ambient", "Art Rock"]
 ---
 
-{{< img src="tubular-bells-ii-6795868.jpg" title="Tubular Bells II by Mike Oldfield" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sentinel (8:06)
 2. Dark Star (2:16)
 3. Clear Light (5:47)
@@ -37,10 +36,6 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 12. Altered State (5:12)
 13. Maya Gold (4:00)
 14. Moonshine (1:41)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tubular-bells-ii/358349175" >}}<br>

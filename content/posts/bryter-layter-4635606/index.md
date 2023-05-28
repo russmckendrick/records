@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="bryter-layter-4635606.jpg" title="Bryter Layter by Nick Drake" >}}
+The poster boy for melancholic singer/songwriters, Nick Drake recorded three very different studio albums in his 26 years. Where his debut <i>Five Leaves Left</i> is somber and string-laden, and his swan song <i>Pink Moon</i> acoustic and stark, <i>Bryter Layter</i> is a virtual party, featuring strings, horns, and a galvanizing rhythm section on loan from Fairport Convention. The band dynamic tints Drake's compositions with a cosmopolitan flavor. You can practically smell the sophisticated nightclub of "At the Chime of the City Clock." When Drake does slow things to a contemplative crawl, it's for three momentous songs. Brilliantly augmented by John Cale's swelling viola and harpsichord, "Hazey Jane I," "Fly," and "Northern Sky" are wistful, romantic tunes that capture Drake's overwhelming sense of displacement in a harsh yet beautiful world.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction (1:33)
 2. Hazey Jane II (3:41)
 3. At The Chime Of A City Clock (4:42)
@@ -37,14 +40,6 @@ styles: ["Folk Rock"]
 8. Poor Boy (6:30)
 9. Northern Sky (3:42)
 10. Sunday (3:39)
-
-<!-- section break -->
-
-The poster boy for melancholic singer/songwriters, Nick Drake recorded three very different studio albums in his 26 years. Where his debut <i>Five Leaves Left</i> is somber and string-laden, and his swan song <i>Pink Moon</i> acoustic and stark, <i>Bryter Layter</i> is a virtual party, featuring strings, horns, and a galvanizing rhythm section on loan from Fairport Convention. The band dynamic tints Drake's compositions with a cosmopolitan flavor. You can practically smell the sophisticated nightclub of "At the Chime of the City Clock." When Drake does slow things to a contemplative crawl, it's for three momentous songs. Brilliantly augmented by John Cale's swelling viola and harpsichord, "Hazey Jane I," "Fly," and "Northern Sky" are wistful, romantic tunes that capture Drake's overwhelming sense of displacement in a harsh yet beautiful world.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bryter-layter-remastered/1440723775" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ---
 
-{{< img src="the-history-of-rock-volume-thirty-one-1996636.jpg" title="The History Of Rock (Volume Thirty One) by The Stranglers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Get A Grip On Yourself
 2. Peaches
 3. No More Heroes
@@ -52,10 +51,6 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 24. On My Radio
 25. Do Nothing
 26. Let's Do Rock Steady
-
-<!-- section break -->
-
-
 
 
 

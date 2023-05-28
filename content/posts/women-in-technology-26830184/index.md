@@ -21,10 +21,12 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="women-in-technology-26830184.jpg" title="Women In Technology by White Town" >}}
+Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Undressed (4:19)
 2. Thursday At The Blue Note (2:48)
 3. A Week Next June (4:18)
@@ -37,13 +39,6 @@ styles: ["Synth-pop"]
 10. Theme For An Early Evening American Sitcom (2:17)
 11. The Death Of My Desire (4:54)
 12. Once I Flew (4:24)
-
-<!-- section break -->
-
-Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/women-in-technology/696586755" >}}<br>

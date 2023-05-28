@@ -27,10 +27,13 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="dance-11403737.jpg" title="Dance by Gary Numan" >}}
+Dance is the third solo studio album by English new wave musician Gary Numan, released on 4 September 1981 by Beggars Banquet Records. It was the first studio album Numan released after his "Farewell Concerts" staged at Wembley Arena (although Numan would return to performing live shows in 1982).
+Dance features the UK Top 10 single "She's Got Claws". The album itself reached No. 3 on the UK charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Slowcar To China (9:05)
 2. Night Talk (4:26)
 3. A Subway Called 'You' (4:36)
@@ -47,14 +50,6 @@ styles: ["Electro", "Synth-pop"]
 14. Dance (2:46)
 15. Exhibition (4:26)
 16. I Sing Rain (2:29)
-
-<!-- section break -->
-
-Dance is the third solo studio album by English new wave musician Gary Numan, released on 4 September 1981 by Beggars Banquet Records. It was the first studio album Numan released after his "Farewell Concerts" staged at Wembley Arena (although Numan would return to performing live shows in 1982).
-Dance features the UK Top 10 single "She's Got Claws". The album itself reached No. 3 on the UK charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dance/1325734803" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="sleepwalking-2957250.jpg" title="Sleepwalking by Kingmaker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Playground Brutality (2:46)
 2. Armchair Anarchist (3:12)
 3. Queen Jane (3:54)
@@ -32,10 +31,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 10. Sleepwalking In The Five O'Clock Shadow (3:49)
 11. Stay Free (3:12)
 12. Pyromaniacs Anonymous (3:13)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sleepwalking/1629179702" >}}<br>

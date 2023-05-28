@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="inflammable-material-14224076.jpg" title="Inflammable Material by Stiff Little Fingers" >}}
+Inflammable Material is the debut album by the Northern Irish punk band Stiff Little Fingers, released in 1979. Most of the album's tracks are about the "Troubles" and the grim reality of life in Northern Ireland with the songs containing themes of teenage boredom, sectarian violence, RUC (police) oppression, etc., urging people to "grab it and change it, it's yours" in what became their signature song "Alternative Ulster". The song "Rough Trade" is about the band's view of the music business as being dishonest, but they have since claimed it is not about their record label which happens to have the same name.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Suspect Device
 2. State Of Emergency
 3. Here We Are Nowhere
@@ -39,13 +41,6 @@ styles: ["Punk"]
 11. Johnny Was
 12. Alternative Ulster
 13. Closed Groove
-
-<!-- section break -->
-
-Inflammable Material is the debut album by the Northern Irish punk band Stiff Little Fingers, released in 1979. Most of the album's tracks are about the "Troubles" and the grim reality of life in Northern Ireland with the songs containing themes of teenage boredom, sectarian violence, RUC (police) oppression, etc., urging people to "grab it and change it, it's yours" in what became their signature song "Alternative Ulster". The song "Rough Trade" is about the band's view of the music business as being dishonest, but they have since claimed it is not about their record label which happens to have the same name.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/inflammable-material/697417504" >}}<br>

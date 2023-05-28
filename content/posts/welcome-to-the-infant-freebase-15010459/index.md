@@ -26,10 +26,15 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="welcome-to-the-infant-freebase-15010459.jpg" title="Welcome To The Infant Freebase by The Soundtrack Of Our Lives" >}}
+Welcome to the Infant Freebase is the debut album by the Swedish rock band The Soundtrack of Our Lives.
+The album was originally conceived as a double album, but their record company disagreed.
+It includes the singles "Instant Repeater '99", "Blow My Cool", "Mantra Slider", and "Firmament Vacation (A Soundtrack of Our Lives)", and the song "Instant Repeater '99" was used for the closing credits of the movie Spun.
+The vinyl release of this record also includes the tracks from the Homo Habilis Blues EP.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mantra Slider
 2. Firmament Vacation (A Soundtrack Of Our Lives)
 3. Underground Indian
@@ -50,16 +55,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 18. Retro Man
 19. Theme From Hållö
 20. Legend In His Own Mind
-
-<!-- section break -->
-
-Welcome to the Infant Freebase is the debut album by the Swedish rock band The Soundtrack of Our Lives.
-The album was originally conceived as a double album, but their record company disagreed.
-It includes the singles "Instant Repeater '99", "Blow My Cool", "Mantra Slider", and "Firmament Vacation (A Soundtrack of Our Lives)", and the song "Instant Repeater '99" was used for the closing credits of the movie Spun.
-The vinyl release of this record also includes the tracks from the Homo Habilis Blues EP.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945" >}}<br>

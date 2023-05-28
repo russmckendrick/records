@@ -17,10 +17,12 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="black-sunday-4491885.jpg" title="Black Sunday by Cypress Hill" >}}
+Black Sunday is the second studio album by American hip hop group Cypress Hill. It was released on July 20, 1993, by Ruffhouse and Columbia Records. The album proved to be a massive success just like the first album Cypress Hill. The album debuted at #1 on the US Billboard 200, selling 261,000 copies in its first week of sales and became the highest Soundscan recording for a hip hop group at the time. Also, with their first album (Cypress Hill) still in the charts, they became the first hip hop group ever to have 2 albums in the Top 10 of the U.S. Billboard 200 at the same time. The album went Triple platinum in the U.S. with 3.4 million units sold.As Cypress Hill advocates for medical and recreational use of cannabis the booklet of the album contains 19 facts about the history of hemp and the positive attributes of cannabis.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Wanna Get High (2:54)
 2. I Ain't Goin' Out Like That (4:27)
 3. Insane In The Brain (3:29)
@@ -35,13 +37,6 @@ styles: []
 12. A To The K (3:27)
 13. Hand On The Glock (3:32)
 14. Break 'Em Off Some (2:44)
-
-<!-- section break -->
-
-Black Sunday is the second studio album by American hip hop group Cypress Hill. It was released on July 20, 1993, by Ruffhouse and Columbia Records. The album proved to be a massive success just like the first album Cypress Hill. The album debuted at #1 on the US Billboard 200, selling 261,000 copies in its first week of sales and became the highest Soundscan recording for a hip hop group at the time. Also, with their first album (Cypress Hill) still in the charts, they became the first hip hop group ever to have 2 albums in the Top 10 of the U.S. Billboard 200 at the same time. The album went Triple platinum in the U.S. with 3.4 million units sold.As Cypress Hill advocates for medical and recreational use of cannabis the booklet of the album contains 19 facts about the history of hemp and the positive attributes of cannabis.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-sunday/266797392" >}}<br>

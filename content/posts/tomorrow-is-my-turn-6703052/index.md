@@ -22,10 +22,12 @@ genres: ["Blues", "Folk, World, & Country"]
 styles: ["Folk", "Delta Blues"]
 ---
 
-{{< img src="tomorrow-is-my-turn-6703052.jpg" title="Tomorrow Is My Turn by Rhiannon Giddens" >}}
+Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Records released the album on February 10, 2015. She worked with T Bone Burnett in the production of this album. The album was nominated for Best Folk Album at the 58th Annual Grammy Awards. The title song is Nina Simone's English version of Charles Aznavour's 1962 hit "L'Amour, c'est comme un jour".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Last Kind Words (4:14)
 2. Don't Let It Trouble Your Mind (3:40)
 3. Waterboy (3:45)
@@ -48,13 +50,6 @@ styles: ["Folk", "Delta Blues"]
 20. Shake Sugaree (4:24)
 21. O Love Is Teasin' (4:33)
 22. Angel City (3:53)
-
-<!-- section break -->
-
-Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Records released the album on February 10, 2015. She worked with T Bone Burnett in the production of this album. The album was nominated for Best Folk Album at the 58th Annual Grammy Awards. The title song is Nina Simone's English version of Charles Aznavour's 1962 hit "L'Amour, c'est comme un jour".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tomorrow-is-my-turn/940289735" >}}<br>

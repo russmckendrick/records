@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="beneath-the-dark-wide-sky-8813791.jpg" title="Beneath The Dark Wide Sky by Dream The Electric Sleep" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Drift (5:11)
 2. Let The Light Flood In (5:30)
 3. Flight (4:46)
@@ -52,10 +51,6 @@ styles: ["Prog Rock"]
 21. Headlights (4:25)
 22. Black Wind (6:15)
 23. All Good Things (5:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beneath-the-dark-wide-sky/1648321577" >}}<br>

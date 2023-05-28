@@ -22,10 +22,14 @@ genres: ["Electronic", "Blues", "Folk, World, & Country"]
 styles: ["Techno", "Acid House"]
 ---
 
-{{< img src="exile-on-coldharbour-lane-8176313.jpg" title="Exile On Coldharbour Lane by Alabama 3" >}}
+Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Converted (6:15)
 2. Speed Of The Sound Of Loneliness (4:49)
 3. Woke Up This Morning (5:38)
@@ -38,15 +42,6 @@ styles: ["Techno", "Acid House"]
 10. The Night We Nearly Got Busted (4:38)
 11. Sister Rosetta (4:52)
 12. Peace In The Valley (5:47)
-
-<!-- section break -->
-
-Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}<br>

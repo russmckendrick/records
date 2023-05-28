@@ -18,10 +18,15 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stag
 styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 ---
 
-{{< img src="flight-of-the-conchords-11770971.jpg" title="Flight Of The Conchords by Flight Of The Conchords" >}}
+Flight of the Conchords is an American sitcom that was first shown on HBO on June 17, 2007. The show follows the adventures of Flight of the Conchords, a two-man band from New Zealand, as its members seek fame and success in New York City. The show stars the real-life duo of Jemaine Clement and Bret McKenzie, who play fictionalised versions of themselves. A second season was announced on August 17, 2007 and shown from January 18, 2009. On December 11, 2009, HBO canceled the series after two seasons, and the duo announced that the series was not going to be returning for a third season.Throughout its run, Flight of the Conchords received positive critical reviews, with its second season scoring 80/100 on Metacritic. The show received 10 Emmy Award nominations, including "Outstanding Comedy Series" and "Outstanding Lead Actor in a Comedy Series" for Jemaine Clement, both in 2009.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Foux Du Fafa (2:46)
 2. Inner City Pressure (3:27)
 3. Hiphopopotamus Vs. Rhymenoceros (2:09)
@@ -37,16 +42,6 @@ styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 13. Business Time (4:05)
 14. Bowie (3:15)
 15. Au Revoir (0:21)
-
-<!-- section break -->
-
-Flight of the Conchords is an American sitcom that was first shown on HBO on June 17, 2007. The show follows the adventures of Flight of the Conchords, a two-man band from New Zealand, as its members seek fame and success in New York City. The show stars the real-life duo of Jemaine Clement and Bret McKenzie, who play fictionalised versions of themselves. A second season was announced on August 17, 2007 and shown from January 18, 2009. On December 11, 2009, HBO canceled the series after two seasons, and the duo announced that the series was not going to be returning for a third season.Throughout its run, Flight of the Conchords received positive critical reviews, with its second season scoring 80/100 on Metacritic. The show received 10 Emmy Award nominations, including "Outstanding Comedy Series" and "Outstanding Lead Actor in a Comedy Series" for Jemaine Clement, both in 2009.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flight-of-the-conchords/278064216" >}}<br>

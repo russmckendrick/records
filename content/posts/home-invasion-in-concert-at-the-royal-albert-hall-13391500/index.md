@@ -56,10 +56,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
 
-{{< img src="home-invasion-in-concert-at-the-royal-albert-hall-13391500.jpg" title="Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. "Truth" (Intro) (2:52)
 2. Nowhere Now (4:08)
 3. Pariah (5:11)
@@ -87,10 +86,6 @@ styles: ["Prog Rock", "Pop Rock"]
 25. How Is Your Life Today? (3:17)
 26. Blackfield (4:33)
 27. Postcard (6:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/home-invasion-in-concert-at-the-royal-albert-hall-live/1435313423" >}}<br>

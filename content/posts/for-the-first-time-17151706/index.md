@@ -39,19 +39,6 @@ genres: ["Rock"]
 styles: ["Experimental", "Post-Punk", "Post Rock"]
 ---
 
-{{< img src="for-the-first-time-17151706.jpg" title="For The First Time by Black Country, New Road" >}}
-
-<!-- section break -->
-
-1. Instrumental
-2. Athens, France
-3. Science Fair
-4. Sunglasses
-5. Track X
-6. Opus
-
-<!-- section break -->
-
 “I don't think it's an incredible, incredible album, but I do think it's an honest portrayal of what we were like and what we sounded like when those songs were written,” Black Country, New Road frontman Isaac Wood tells Apple Music of his Cambridge post-punk outfit’s debut LP. “I think that's basically all it can be, and that's the best it can be.” Intended to capture the spark of their early years—and electrifying early performances—<i>For the First Time</i> is an urgent collision of styles and signifiers, a youthful tangling of Slint-ian post-rock and klezmer meltdowns, of lowbrow and high, Kanye and the Fonz, Scott Walker and “the absolute pinnacle of British engineering”. Featuring updates to singles “Sunglasses” and “Athens, France”, it’s also a document of their banding together after the public demise of a previous incarnation of the outfit, when all they wanted to do was be in a room with one another again, playing music. “I felt like I was able to be good with these people,” Wood says of his six bandmates. “These were the people who had taught me and enabled me to be a good musician. Had I played the record back to us then, I would be completely over the moon about it.” Here, Wood walks us through the album start to finish.<br />
 <b>Instrumental</b>
 “It was the first piece we wrote. So to fit with making an accurate presentation of our sound or our journey as musicians, we thought it made sense to put one of the first things we wrote first.”<br />
@@ -69,6 +56,14 @@ styles: ["Experimental", "Post-Punk", "Post Rock"]
         
     
 
+
+## Tracklisting
+1. Instrumental
+2. Athens, France
+3. Science Fair
+4. Sunglasses
+5. Track X
+6. Opus
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/for-the-first-time/1533822061" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Noise"]
 ---
 
-{{< img src="psychocandy-8084685.jpg" title="Psychocandy by The Jesus And Mary Chain" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Just Like Honey (3:00)
 2. The Living End (2:14)
 3. Taste The Floor (2:54)
@@ -39,10 +38,6 @@ styles: ["Noise"]
 12. You Trip Me Up (2:22)
 13. Something's Wrong (4:00)
 14. It's So Hard (2:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/darklands/164392139" >}}<br>

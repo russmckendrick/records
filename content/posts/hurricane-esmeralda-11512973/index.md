@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
-{{< img src="hurricane-esmeralda-11512973.jpg" title="Hurricane Esmeralda by Moonparticle" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hurricane Esmeralda (3:20)
 2. Helium I (2:16)
 3. Helium II (1:24)
@@ -31,10 +30,6 @@ styles: ["Prog Rock", "Jazz-Rock"]
 7. The Strength Of A Thousand Year Rose (4:23)
 8. Reverend Mum (4:06)
 9. Leon's Experiment (7:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}<br>

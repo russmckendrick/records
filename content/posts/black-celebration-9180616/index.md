@@ -21,10 +21,15 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Darkwave"]
 ---
 
-{{< img src="black-celebration-9180616.jpg" title="Black Celebration by Depeche Mode" >}}
+Black Celebration is the fifth studio album by English electronic music band Depeche Mode, released on 17 March 1986 by Mute Records. The album further cemented the darkening sound created by Alan Wilder, which the band later used for their subsequent albums Music for the Masses, Violator, and Songs of Faith and Devotion.
+Black Celebration reached number four on the UK Albums Chart, and has been cited as one of the most influential albums of the 1980s. To promote the album, the band embarked on the Black Celebration Tour. Three years after its release, Spin ranked it at number 15 on its "25 Greatest Albums of All Time" list.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Black Celebration (4:55)
 2. Fly On The Windscreen - Final (5:18)
 3. A Question Of Lust (4:20)
@@ -36,16 +41,6 @@ styles: ["Synth-pop", "Darkwave"]
 9. World Full Of Nothing (2:50)
 10. Dressed In Black (2:32)
 11. New Dress (3:42)
-
-<!-- section break -->
-
-Black Celebration is the fifth studio album by English electronic music band Depeche Mode, released on 17 March 1986 by Mute Records. The album further cemented the darkening sound created by Alan Wilder, which the band later used for their subsequent albums Music for the Masses, Violator, and Songs of Faith and Devotion.
-Black Celebration reached number four on the UK Albums Chart, and has been cited as one of the most influential albums of the 1980s. To promote the album, the band embarked on the Black Celebration Tour. Three years after its release, Spin ranked it at number 15 on its "25 Greatest Albums of All Time" list.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-celebration-deluxe/1577638904" >}}<br>

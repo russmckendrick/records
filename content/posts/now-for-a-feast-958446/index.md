@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
 
-{{< img src="now-for-a-feast-958446.jpg" title="Now For A Feast! by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Black Country Chainstore Massacreee
 2. Monogamy
 3. Oh Grebo I Think I Love You
@@ -37,10 +36,6 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 12. Candydiosis
 13. The Devil Inside
 14. Orgone Accumulator
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast-25th-anniversary-expanded-edition/461120910" >}}<br>

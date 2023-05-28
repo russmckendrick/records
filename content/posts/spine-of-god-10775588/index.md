@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
 
-{{< img src="spine-of-god-10775588.jpg" title="Spine Of God by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pill Shovel
 2. Medicine
 3. Nod Scene
@@ -36,10 +35,6 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 8. Sin's A Good Man's Brother
 9. Ozium
 10. Ozium (Demo)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spine-of-god/1246231213" >}}<br>

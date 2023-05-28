@@ -28,10 +28,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="seeking-new-gods-18798823.jpg" title="Seeking New Gods by Gruff Rhys" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mausoleum Of My Former Self (4:53)
 2. Can’t Carry On (3:46)
 3. Loan Your Loneliness (5:13)
@@ -41,10 +40,6 @@ styles: ["Indie Pop"]
 7. The Keep (4:23)
 8. Everlasting Joy (5:11)
 9. Distant Snowy Peaks (5:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seeking-new-gods/1554723124" >}}<br>

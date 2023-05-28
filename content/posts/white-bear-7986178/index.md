@@ -25,10 +25,13 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="white-bear-7986178.jpg" title="White Bear by The Temperance Movement" >}}
+White Bear is the second studio album by British rock band the Temperance Movement.
+The album was produced in 2015 and released on 15 January 2016.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Three Bulleits (3:14)
 2. Get Yourself Free (3:37)
 3. A Pleasant Peace I Feel (4:35)
@@ -39,14 +42,6 @@ styles: ["Blues Rock"]
 8. Magnify (3:59)
 9. The Sun And Moon Roll Around Too Soon (2:48)
 10. I Hope I’m Not Losing My Mind (3:57)
-
-<!-- section break -->
-
-White Bear is the second studio album by British rock band the Temperance Movement.
-The album was produced in 2015 and released on 15 January 2016.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}<br>

@@ -29,10 +29,9 @@ genres: ["Blues"]
 styles: []
 ---
 
-{{< img src="selections-from-ladies-gentlemen-mr-b-b-king-7771447.jpg" title="Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. How Blue Can You Get?
 2. I Wonder Why
 3. Think It Over
@@ -50,10 +49,6 @@ styles: []
 15. Key To The Highway (Live) 
 16. Get These Blues Off Me 
 17. See That My Grave Is Kept Clean
-
-<!-- section break -->
-
-
 
 
 

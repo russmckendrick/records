@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
 
-{{< img src="land-animal-10442927.jpg" title="Land Animal by Bent Knee" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Terror Bird
 2. Hole
 3. Holy Ghost
@@ -53,10 +52,6 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 21. Bonus Tracks
 22. Way Too Long (Sylvia Massy Treatment) (5:20)
 23. Land Animal (Ben Levin Remix) (4:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/land-animal/1225586747" >}}<br>

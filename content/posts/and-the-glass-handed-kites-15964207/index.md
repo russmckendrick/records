@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="and-the-glass-handed-kites-15964207.jpg" title="And The Glass Handed Kites by Mew" >}}
+And the Glass Handed Kites is the fourth studio album by Danish band Mew, released in the United Kingdom on 19 September 2005, and in the United States on 25 July 2006.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Circuitry Of The Wolf
 2. Chinaberry Tree
 3. Why Are You Looking Grave?
@@ -50,13 +52,6 @@ styles: []
 22. Wherefore Are You Not There?
 23. Apocalypso (Waltz Version)
 24. Why Are You Looking Grave? (Mogwai Remix)
-
-<!-- section break -->
-
-And the Glass Handed Kites is the fourth studio album by Danish band Mew, released in the United Kingdom on 19 September 2005, and in the United States on 25 July 2006.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mew-and-the-glass-handed-kites/424196154" >}}<br>

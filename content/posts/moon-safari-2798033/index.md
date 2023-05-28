@@ -23,10 +23,13 @@ genres: ["Electronic"]
 styles: ["Future Jazz", "Downtempo"]
 ---
 
-{{< img src="moon-safari-2798033.jpg" title="Moon Safari by AIR" >}}
+Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporized vocals, warm synths, and stainless steel hi-fi sensibility. Without being as kitschy or (wink, wink) ironic as its spacey “Sexy Boy” single might lead you to believe, the album is an immaculate collection of suave Moog moves and future-disco downtempo. A defining achievement in the chill-out subgenre, it rightfully dominated compilation racks at the turn of the century on the strength of songs like “Kelly Watch the Stars” and “You Make It Easy.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. La Femme D'Argent (7:08)
 2. Sexy Boy (4:57)
 3. All I Need (4:28)
@@ -37,14 +40,6 @@ styles: ["Future Jazz", "Downtempo"]
 8. Ce Matin La (3:38)
 9. New Star In The Sky (5:38)
 10. Le Voyage De Penelope (3:10)
-
-<!-- section break -->
-
-Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporized vocals, warm synths, and stainless steel hi-fi sensibility. Without being as kitschy or (wink, wink) ironic as its spacey “Sexy Boy” single might lead you to believe, the album is an immaculate collection of suave Moog moves and future-disco downtempo. A defining achievement in the chill-out subgenre, it rightfully dominated compilation racks at the turn of the century on the strength of songs like “Kelly Watch the Stars” and “You Make It Easy.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/moon-safari/697240234" >}}<br>

@@ -44,10 +44,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-aeroplane-flies-high-4760393.jpg" title="The Aeroplane Flies High by The Smashing Pumpkins" >}}
+The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Bullet With Butterfly Wings
 2. Bullet With Butterfly Wings (4:16)
 3. ...Said Sadly (3:09)
@@ -86,15 +90,6 @@ styles: ["Alternative Rock"]
 36. Transformer (3:25)
 37. The Bells (2:17)
 38. My Blue Heaven (3:20)
-
-<!-- section break -->
-
-The Aeroplane Flies High is a five-disc box set released by American alternative rock band The Smashing Pumpkins in 1996. It contains expanded versions of the five singles from their album Mellon Collie and the Infinite Sadness and also included a 44-page booklet with pictures and writings by the band's lead singer Billy Corgan, as well as lyrics. A limited edition release, the box reached number 42 on the Billboard charts. Originally intended to be limited to 200,000 copies, Virgin Records produced more after the original run sold out due to overwhelming and unexpected demand.  The album was remastered in 2013 under the supervision of frontman Billy Corgan and reissued on vinyl and as a CD/DVD box set.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-aeroplane-flies-high-deluxe-edition/1433794676" >}}<br>

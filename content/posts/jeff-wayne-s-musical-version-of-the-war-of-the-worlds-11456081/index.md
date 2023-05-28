@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ---
 
-{{< img src="jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081.jpg" title="Jeff Wayne's Musical Version Of The War Of The Worlds by Jeff Wayne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Coming Of The Martians
 2. The Eve Of The War
 3. Horsell Common And The Heat Ray
@@ -47,10 +46,6 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 14. Dead London (Part 2)
 15. Epilogue (Part 1)
 16. Epilogue (Part 2) (NASA)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/317564400" >}}<br>

@@ -20,10 +20,15 @@ genres: ["Electronic", "Jazz", "Rock", "Pop"]
 styles: ["House", "Synth-pop", "Experimental"]
 ---
 
-{{< img src="debut-8051406.jpg" title="Debut by Björk" >}}
+Debut is the international debut studio album by Icelandic recording artist Björk, released in July 1993 by One Little Indian and Elektra Entertainment. It was produced by Björk and Nellee Hooper. It was Björk's first recording following the dissolution of her previous band, the Sugarcubes. The album departed from the rock style of her previous work and drew from an eclectic variety of styles, including electronic pop, house music, jazz and trip hop.
+Debut received critical acclaim from British music critics, though United States reviews were mixed. It exceeded sales expectations, charting at number two in Iceland, three in the United Kingdom, and 61 in the US. It was certified gold in Canada and platinum in the US, where it remains Björk's best-selling album.Five singles were released from Debut: "Human Behaviour", "Venus as a Boy", "Play Dead", "Big Time Sensuality" and "Violently Happy". All charted in the UK, with only "Human Behaviour", "Violently Happy" and "Big Time Sensuality" charting on dance and modern rock charts in the US.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Human Behaviour (4:12)
 2. Crying (4:49)
 3. Venus As A Boy (4:41)
@@ -35,16 +40,6 @@ styles: ["House", "Synth-pop", "Experimental"]
 9. Come To Me (4:55)
 10. Violently Happy (4:58)
 11. The Anchor Song (3:32)
-
-<!-- section break -->
-
-Debut is the international debut studio album by Icelandic recording artist Björk, released in July 1993 by One Little Indian and Elektra Entertainment. It was produced by Björk and Nellee Hooper. It was Björk's first recording following the dissolution of her previous band, the Sugarcubes. The album departed from the rock style of her previous work and drew from an eclectic variety of styles, including electronic pop, house music, jazz and trip hop.
-Debut received critical acclaim from British music critics, though United States reviews were mixed. It exceeded sales expectations, charting at number two in Iceland, three in the United Kingdom, and 61 in the US. It was certified gold in Canada and platinum in the US, where it remains Björk's best-selling album.Five singles were released from Debut: "Human Behaviour", "Venus as a Boy", "Play Dead", "Big Time Sensuality" and "Violently Happy". All charted in the UK, with only "Human Behaviour", "Violently Happy" and "Big Time Sensuality" charting on dance and modern rock charts in the US.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/debut/1396001351" >}}<br>

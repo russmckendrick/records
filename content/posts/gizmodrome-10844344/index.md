@@ -20,10 +20,13 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="gizmodrome-10844344.jpg" title="Gizmodrome by Gizmodrome" >}}
+Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in September 2017. It features Stewart Copeland (the Police, Curved Air), Vittorio Cosma (PFM, Elio e le Storie Tese), Mark King (Level 42), and Adrian Belew (Frank Zappa, David Bowie, King Crimson).
+One song, "Amaka Pipa", was previewed on earMUSIC's official channel on 12 June 2017, three months before the release of the album. A videoclip of another song, "Man in the Mountain", featuring the band recording in the studio, was also uploaded to the same channel three days before the release of the album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Zombies In The Mall (4:00)
 2. Stay Ready (4:02)
 3. Man In The Mountain (3:43)
@@ -36,14 +39,6 @@ styles: ["Alternative Rock"]
 10. Spin This (6:10)
 11. I Know Too Much (3:47)
 12. Stark Naked (4:04)
-
-<!-- section break -->
-
-Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in September 2017. It features Stewart Copeland (the Police, Curved Air), Vittorio Cosma (PFM, Elio e le Storie Tese), Mark King (Level 42), and Adrian Belew (Frank Zappa, David Bowie, King Crimson).
-One song, "Amaka Pipa", was previewed on earMUSIC's official channel on 12 June 2017, three months before the release of the album. A videoclip of another song, "Man in the Mountain", featuring the band recording in the studio, was also uploaded to the same channel three days before the release of the album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gizmodrome/1266717523" >}}<br>

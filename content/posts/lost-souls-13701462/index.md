@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Space Rock", "Indie Rock"]
 ---
 
-{{< img src="lost-souls-13701462.jpg" title="Lost Souls  by Doves" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Firesuite
 2. Here It Comes 
 3. Break Me Gently
@@ -40,10 +39,6 @@ styles: ["Space Rock", "Indie Rock"]
 10. The Cedar Room
 11. Reprise
 12. A House 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-souls/724350250" >}}<br>

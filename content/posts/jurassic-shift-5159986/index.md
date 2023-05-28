@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
 
-{{< img src="jurassic-shift-5159986.jpg" title="Jurassic Shift by Ozric Tentacles" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sun Hair (5:43)
 2. Stretchy (6:51)
 3. Feng Shui (10:24)
@@ -38,10 +37,6 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 8. Half Light In Thillai (5:35)
 9. Sun Hair (System 7 Stargate Mix) (8:32)
 10. Pteranodon (Hallucinogen Mix) (8:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jurassic-shift/214136665" >}}<br>

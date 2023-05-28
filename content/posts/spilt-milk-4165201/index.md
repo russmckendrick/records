@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Power Pop", "Glam"]
 ---
 
-{{< img src="spilt-milk-4165201.jpg" title="Spilt Milk by Jellyfish" >}}
+Spilt Milk is the second and last studio album by American rock band Jellyfish, released on February 9, 1993, by Charisma Records. It features a harsher and more ornate sound than their previous, Bellybutton (1990). As with Bellybutton, Spilt Milk was written and co-produced by founding members Andy Sturmer and Roger Manning. Albhy Galuten and Jack Joseph Puig also returned as producers.
+Named for the hard work and turmoil surrounding its making, Spilt Milk was recorded after the departure of bassist Chris Manning (who was replaced by Tim Smith) and lead guitarist Jason Falkner. Guitar duties were instead handled by session musicians Jon Brion and Lyle Workman. Production lasted several months due to the record's complicated orchestrations, and ultimately ran over-budget.
+The album was supported with a yearlong tour that introduced guitarist Eric Dover into the band's line-up. Spilt Milk performed below commercial expectations, peaking at number 164 on the Billboard 200 and number 21 on the UK Albums Chart. Singles "The Ghost at Number One" and "New Mistake" charted at numbers 43 and 55 in the UK, respectively. An expanded deluxe edition of the album was released by Omnivore Recordings in 2015.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hush (2:10)
 2. Joining A Fan Club (4:03)
 3. Sebrina, Paste And Plato (2:23)
@@ -38,15 +42,6 @@ styles: ["Power Pop", "Glam"]
 10. He's My Best Friend (3:44)
 11. Too Much, Too Little, Too Late (3:15)
 12. Brighter Day (6:12)
-
-<!-- section break -->
-
-Spilt Milk is the second and last studio album by American rock band Jellyfish, released on February 9, 1993, by Charisma Records. It features a harsher and more ornate sound than their previous, Bellybutton (1990). As with Bellybutton, Spilt Milk was written and co-produced by founding members Andy Sturmer and Roger Manning. Albhy Galuten and Jack Joseph Puig also returned as producers.
-Named for the hard work and turmoil surrounding its making, Spilt Milk was recorded after the departure of bassist Chris Manning (who was replaced by Tim Smith) and lead guitarist Jason Falkner. Guitar duties were instead handled by session musicians Jon Brion and Lyle Workman. Production lasted several months due to the record's complicated orchestrations, and ultimately ran over-budget.
-The album was supported with a yearlong tour that introduced guitarist Eric Dover into the band's line-up. Spilt Milk performed below commercial expectations, peaking at number 164 on the Billboard 200 and number 21 on the UK Albums Chart. Singles "The Ghost at Number One" and "New Mistake" charted at numbers 43 and 55 in the UK, respectively. An expanded deluxe edition of the album was released by Omnivore Recordings in 2015.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spilt-milk/723680259" >}}<br>

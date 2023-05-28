@@ -26,10 +26,12 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="stranger-things-a-netflix-original-series-original-music-volume-one-9353409.jpg" title="Stranger Things (A Netflix Original Series) Original Music • Volume One by Kyle Dixon" >}}
+No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped set the tone for one of TV’s buzziest ever first seasons. Obviously, Dixon and Stein—who moonlight as Austin Korg-maestros S U R V I V E and supplied music for the soundtrack to revivalist splatterfest <i>The Guest</i>—lovingly ransack ‘80s ambience. But there are thrilling changes in pace, as evidenced by the drum stabs on the fittingly haunting “Lights Out”.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Stranger Things
 2. Kids
 3. Nancy And Barb
@@ -66,13 +68,6 @@ styles: ["Soundtrack", "Score"]
 34. You Can Talk To Me
 35. What Else Is There To Do?
 36. Hawkins Lab
-
-<!-- section break -->
-
-No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped set the tone for one of TV’s buzziest ever first seasons. Obviously, Dixon and Stein—who moonlight as Austin Korg-maestros S U R V I V E and supplied music for the soundtrack to revivalist splatterfest <i>The Guest</i>—lovingly ransack ‘80s ambience. But there are thrilling changes in pace, as evidenced by the drum stabs on the fittingly haunting “Lights Out”.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-1-a-netflix-original-series-soundtrack/1142771412" >}}<br>

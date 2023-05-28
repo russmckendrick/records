@@ -17,10 +17,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Ambient"]
 ---
 
-{{< img src="valtari-19148089.jpg" title="Valtari by Sigur Rós" >}}
+No other band creates symphonic textures quite like Sigur Rós. The Icelandic group uses the entire dynamic range to slowly unfurl its best melodic moments. With bandleader Jónsi also pursuing a more song-oriented solo career, Sigur Rós can better focus on creating atmospherics and epic land- and spacescapes that alter a room's mood. The band's ambience is first-rate and a mystery worth leaving; there's no need to pull apart the reasons for why this music works. It simply does. There are traces of conventional songcraft in tunes such as "Eg Anda", "Ekki Mukk", and "Dauoalogn", but the general forces behind the music are notes that linger in space and melt with chords that float between the strings and piano. No cover band could reproduce this music; it's a singular achievement that deserves wonder and praise. Others with laptops and effect boards may create their own version of this approach, but it's a great thrill to hear it from the source.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ég Anda
 2. Ekki Múkk
 3. Varúð
@@ -29,13 +31,6 @@ styles: ["Post Rock", "Experimental", "Ambient"]
 6. Varðeldur
 7. Valtari
 8. Fjögur Píanó
-
-<!-- section break -->
-
-No other band creates symphonic textures quite like Sigur Rós. The Icelandic group uses the entire dynamic range to slowly unfurl its best melodic moments. With bandleader Jónsi also pursuing a more song-oriented solo career, Sigur Rós can better focus on creating atmospherics and epic land- and spacescapes that alter a room's mood. The band's ambience is first-rate and a mystery worth leaving; there's no need to pull apart the reasons for why this music works. It simply does. There are traces of conventional songcraft in tunes such as "Eg Anda", "Ekki Mukk", and "Dauoalogn", but the general forces behind the music are notes that linger in space and melt with chords that float between the strings and piano. No cover band could reproduce this music; it's a singular achievement that deserves wonder and praise. Others with laptops and effect boards may create their own version of this approach, but it's a great thrill to hear it from the source.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/valtari/717401815" >}}<br>

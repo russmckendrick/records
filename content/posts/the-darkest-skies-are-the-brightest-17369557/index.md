@@ -16,10 +16,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-darkest-skies-are-the-brightest-17369557.jpg" title="The Darkest Skies Are The Brightest by Anneke van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Agape
 2. Hurricane
 3. My Promise
@@ -42,10 +41,6 @@ styles: []
 20. Losing You
 21. Survive
 22. Love You Like I Love You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
 
-{{< img src="peaches-the-very-best-of-the-stranglers-16274027.jpg" title="Peaches: The Very Best Of The Stranglers by The Stranglers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Peaches
 2. Golden Brown
 3. Walk On By
@@ -47,10 +46,6 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 18. Don't Bring Harry
 19. La Folie
 20. 96 Tears
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}<br>

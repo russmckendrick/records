@@ -27,10 +27,13 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-{{< img src="paranoid-7161194.jpg" title="Paranoid by Black Sabbath" >}}
+Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. War Pigs
 2. Paranoid
 3. Planet Caravan
@@ -47,14 +50,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 14. Hand Of Doom
 15. Rat Salad
 16. Fairies Wear Boots
-
-<!-- section break -->
-
-Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}<br>

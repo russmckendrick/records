@@ -20,10 +20,9 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="milkbone-21433090.jpg" title="Milkbone by Milkbone" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Canterbury
 2. Leaving Hawksbill
 3. Toys Hill
@@ -35,10 +34,6 @@ styles: ["Prog Rock"]
 9. Red Shift
 10. Cecilia
 11. Velvet Black
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deception-bay/1324894051" >}}<br>

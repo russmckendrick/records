@@ -31,10 +31,9 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blues"]
 ---
 
-{{< img src="riot-city-blues-sessions-19112122.jpg" title="Riot City Blues Sessions by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Country Girl
 2. Nitty Gritty
 3. Suicide Sally & Johnny Guitar
@@ -52,10 +51,6 @@ styles: ["Indie Rock", "Blues Rock", "Garage Rock", "Country Rock", "Country Blu
 15. It’s Not Enough
 16. Hell’s Comin’ Down
 17. Sometimes I Feel So Lonely
-
-<!-- section break -->
-
-
 
 
 

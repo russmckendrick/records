@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="life-s-too-good-22346299.jpg" title="Life's Too Good by The Sugarcubes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Traitor (3:08)
 2. Motorcrash (2:22)
 3. Birthday (3:57)
@@ -36,10 +35,6 @@ styles: ["Indie Rock"]
 9. Sick For Toys (3:12)
 10. F***ing In Rhythm & Sorrow (3:11)
 11. Take Some Petrol Darling (1:27)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}<br>

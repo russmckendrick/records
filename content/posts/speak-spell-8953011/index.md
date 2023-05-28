@@ -24,10 +24,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="speak-spell-8953011.jpg" title="Speak & Spell by Depeche Mode" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. New Life (3:45)
 2. I Sometimes Wish I Was Dead (2:18)
 3. Puppets (3:54)
@@ -40,10 +39,6 @@ styles: ["Synth-pop"]
 10. Any Second Now (Voices) (2:37)
 11. Just Can't Get Enough (3:42)
 12. Dreaming Of Me (4:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/speak-and-spell-deluxe/665412305" >}}<br>

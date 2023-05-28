@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="going-blank-again-25002466.jpg" title="Going Blank Again by Ride" >}}
+Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records. It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart. In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Leave Them All Behind
 2. Twisterella
 3. Not Fazed
@@ -43,13 +45,6 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 8. Making Judy Smile
 9. Time Machine
 10. OX4
-
-<!-- section break -->
-
-Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records. It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart. In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/going-blank-again/1621531296" >}}<br>

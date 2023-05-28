@@ -17,10 +17,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Britpop", "Indie Rock"]
 ---
 
-{{< img src="yesterday-today-1992-1997-26197274.jpg" title="Yesterday Today 1992-1997 by Ocean Colour Scene" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ocean Colour Scene
 2. Talk On (04:04)
 3. How About You (03:14)
@@ -61,10 +60,6 @@ styles: ["Indie Pop", "Britpop", "Indie Rock"]
 38. Spark And Cindy (03:58)
 39. Half A Dream Away (04:21)
 40. It's A Beautiful Thing (06:30)
-
-<!-- section break -->
-
-
 
 
 

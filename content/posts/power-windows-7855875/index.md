@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="power-windows-7855875.jpg" title="Power Windows by Rush" >}}
+Throughout the ‘80s, like many veteran rockers, Rush had to come to terms with an ever-changing landscape that meant dealing with the video age and the emergence of new recording technologies. Since Rush was among the more progressive bands of the ‘70s, it was only natural that the band would find a comfortable fit for the new synthesizers and electronic effects sweeping onto modern rock albums. While there are no twenty-minute epics, Neil Peart did pen thematically ambitious songs that deal with everything from nuclear war ("Manhattan Project") and monetary greed ("The Big Money") to suburban alienation ("Middletown Dreams"). The musical interplay between band members is accentuated with the layers of synthesizers that percolate and align with drummer Peart's physically punishing attack. "Grand Designs," "Marathon" and "Mystic Rhythms" don't just channel the band's illustrious instrumental abilities but press them into the service of some of the group's most underrated songs, and singer Geddy Lee is no longer left to wail like a banshee into the abyss but is supported with a wide array of vocal effects and harmonies.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Big Money
 2. Grand Designs
 3. Manhattan Project
@@ -34,14 +37,6 @@ styles: ["Pop Rock", "Prog Rock"]
 6. Middletown Dreams
 7. Emotion Detector
 8. Mystic Rhythms
-
-<!-- section break -->
-
-Throughout the ‘80s, like many veteran rockers, Rush had to come to terms with an ever-changing landscape that meant dealing with the video age and the emergence of new recording technologies. Since Rush was among the more progressive bands of the ‘70s, it was only natural that the band would find a comfortable fit for the new synthesizers and electronic effects sweeping onto modern rock albums. While there are no twenty-minute epics, Neil Peart did pen thematically ambitious songs that deal with everything from nuclear war ("Manhattan Project") and monetary greed ("The Big Money") to suburban alienation ("Middletown Dreams"). The musical interplay between band members is accentuated with the layers of synthesizers that percolate and align with drummer Peart's physically punishing attack. "Grand Designs," "Marathon" and "Mystic Rhythms" don't just channel the band's illustrious instrumental abilities but press them into the service of some of the group's most underrated songs, and singer Geddy Lee is no longer left to wail like a banshee into the abyss but is supported with a wide array of vocal effects and harmonies.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/power-windows-remastered/1440759088" >}}<br>

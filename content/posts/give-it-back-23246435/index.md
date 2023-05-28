@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="give-it-back-23246435.jpg" title="Give It Back by The Pineapple Thief" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wretched Soul (5:27)
 2. Dead In The Water (4:44)
 3. Shoot First (3:43)
@@ -37,10 +36,6 @@ styles: ["Prog Rock"]
 8. Someone Pull Me Out (4:00)
 9. Last Man Standing (3:13)
 10. Little Man (3:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-it-back-rewired/1610584399" >}}<br>

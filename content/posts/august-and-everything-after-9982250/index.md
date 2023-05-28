@@ -25,10 +25,18 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="august-and-everything-after-9982250.jpg" title="August And Everything After by Counting Crows" >}}
+August and Everything After is the debut studio album by American rock band Counting Crows, released September 14, 1993, on Geffen Records.  The album was produced by T Bone Burnett and featured the founding members of the band: Steve Bowman (drums), David Bryson (guitar), Adam Duritz (vocals), Charlie Gillingham (keyboards), and Matt Malley (bass).  Among the several session musicians used for the album was multi-instrumentalist David Immerglück, who later joined the band as a full-time member in 1999, as well as Burnett, who also provided additional guitar work.
+Four singles were released from the album, the highest charting of which was "Mr. Jones", which peaked at number 5 on the Billboard US Radio Songs Chart and number 2 on several genre-specific Billboard charts. The album itself was well received by critics and has gone multi-platinum in several countries, including the U.S. where it has sold over seven million copies, and peaked at number 4 on the Billboard 200 album chart.
+The album cover depicts handwritten lyrics to a song called "August and Everything After", but the band decided against featuring the song on the album; it was not until over a decade later that it was played as part of one of their live concerts. The song "August and Everything After" was released on January 24, 2019, as an Amazon Original.On September 18, 2007, a two-disc deluxe edition of the album was issued. The first disc contains the original album, remastered by Adam Ayan at Gateway Mastering, with six demos added as bonus tracks. The second disc is taken from the band's penultimate performance during the August tour, recorded at the Élysée Montmartre in Paris, France, on December 9, 1994.
+The album August & Everything After: Live at Town Hall was released on August 29, 2011, featuring live recordings of the songs from this album. More than 6 million copies of the album have been sold by February 2002 in the US.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Round Here (5:31)
 2. Omaha (3:39)
 3. Mr. Jones (4:32)
@@ -40,19 +48,6 @@ styles: ["Alternative Rock"]
 9. Ghost Train (4:02)
 10. Raining In Baltimore (4:41)
 11. A Murder Of One (5:43)
-
-<!-- section break -->
-
-August and Everything After is the debut studio album by American rock band Counting Crows, released September 14, 1993, on Geffen Records.  The album was produced by T Bone Burnett and featured the founding members of the band: Steve Bowman (drums), David Bryson (guitar), Adam Duritz (vocals), Charlie Gillingham (keyboards), and Matt Malley (bass).  Among the several session musicians used for the album was multi-instrumentalist David Immerglück, who later joined the band as a full-time member in 1999, as well as Burnett, who also provided additional guitar work.
-Four singles were released from the album, the highest charting of which was "Mr. Jones", which peaked at number 5 on the Billboard US Radio Songs Chart and number 2 on several genre-specific Billboard charts. The album itself was well received by critics and has gone multi-platinum in several countries, including the U.S. where it has sold over seven million copies, and peaked at number 4 on the Billboard 200 album chart.
-The album cover depicts handwritten lyrics to a song called "August and Everything After", but the band decided against featuring the song on the album; it was not until over a decade later that it was played as part of one of their live concerts. The song "August and Everything After" was released on January 24, 2019, as an Amazon Original.On September 18, 2007, a two-disc deluxe edition of the album was issued. The first disc contains the original album, remastered by Adam Ayan at Gateway Mastering, with six demos added as bonus tracks. The second disc is taken from the band's penultimate performance during the August tour, recorded at the Élysée Montmartre in Paris, France, on December 9, 1994.
-The album August & Everything After: Live at Town Hall was released on August 29, 2011, featuring live recordings of the songs from this album. More than 6 million copies of the album have been sold by February 2002 in the US.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/august-and-everything-after/1442449109" >}}<br>

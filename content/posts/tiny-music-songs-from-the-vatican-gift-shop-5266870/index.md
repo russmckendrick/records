@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-{{< img src="tiny-music-songs-from-the-vatican-gift-shop-5266870.jpg" title="Tiny Music...Songs From The Vatican Gift Shop by Stone Temple Pilots" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Press Play (4:22)
 2. Pop's Love Suicide (3:40)
 3. Tumble In The Rough (3:18)
@@ -37,10 +36,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 10. Ride The Cliché (3:15)
 11. Daisy (2:13)
 12. Seven Caged Tigers (4:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tiny-music-songs-from-the-vatican-gift-shop-super/1558522377" >}}<br>

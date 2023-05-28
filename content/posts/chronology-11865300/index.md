@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 ---
 
-{{< img src="chronology-11865300.jpg" title="Chronology by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chronology Part 1 (11:01)
 2. Chronology Part 2 (6:05)
 3. Chronology Part 3 (3:59)
@@ -33,10 +32,6 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 6. Chronology Part 6 (3:45)
 7. Chronology Part 7 (2:17)
 8. Chronology Part 8 (5:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chronology/1027734461" >}}<br>

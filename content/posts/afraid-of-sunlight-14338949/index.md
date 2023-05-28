@@ -41,10 +41,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
-{{< img src="afraid-of-sunlight-14338949.jpg" title="Afraid Of Sunlight by Marillion" >}}
+Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).
+Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 2019 Michael Hunter Re-Mix
 2. Gazpacho
 3. Cannibal Surf Babe
@@ -80,14 +83,6 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 33. The Great Escape
 34. Uninvited Guest
 35. Garden Party
-
-<!-- section break -->
-
-Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).
-Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afraid-of-sunlight/692119730" >}}<br>

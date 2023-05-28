@@ -1,7 +1,7 @@
 baseURL = 'https://www.mckendrick.rocks/'
 languageCode = 'en-gb'
 title = 'McKendrickRocks'
-theme = "rocks"
+theme = "rocksv2"
 paginate = 18
 enableRobotsTXT = true
 
@@ -25,24 +25,31 @@ name = "Styles"
 url = "/styles/"
 weight = 21
 [[menu.main]]
+name = "Source Code"
+url = "https://github.com/russmckendrick/records"
+weight = 22
+[[menu.main]]
 name = "Genres"
 url = "/genres/"
 weight = 22
 [[menu.end]]
 url = "/search/"
 identifier = "fa-solid fa-magnifying-glass"
-pre = "has-background-dark has-text-white"
+pre = "gray"
 weight = 100
-[[menu.end]]
-url = "https://github.com/russmckendrick/records/"
-identifier = "fa-brands fa-github-alt"
-pre = "has-background-link-dark has-text-white"
-weight = 101
 [[menu.end]]
 url = "/random/"
 identifier = "fa-solid fa-shuffle"
-pre = "has-background-primary-dark has-text-white"
+pre = "green"
 weight = 102
+[[menu.footer]]
+name = "Source Code"
+url = "https://github.com/russmckendrick/records/"
+weight = 200
+[[menu.footer]]
+name = "Random Album"
+url = "/random/"
+weight = 201
 
 [taxonomies]
 artists = "artist"

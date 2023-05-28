@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="bruce-soord-8077082.jpg" title="Bruce Soord by Bruce Soord" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Smoke
 2. Buried Here
 3. The Odds
@@ -36,10 +35,6 @@ styles: ["Prog Rock"]
 8. Field Day Part 2
 9. Familiar Patterns
 10. Leaves Leave Me
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bruce-soord/1049319243" >}}<br>

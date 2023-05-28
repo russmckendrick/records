@@ -22,10 +22,14 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Abstract"]
 ---
 
-{{< img src="since-i-left-you-6077288.jpg" title="Since I Left You by The Avalanches" >}}
+Since I Left You is the debut studio album by Australian electronic music group the Avalanches, released on 27 November 2000 by Modular Recordings. It was produced by group members Robbie Chater and Darren Seltmann (under the pseudonym Bobbydazzler), and samples extensively from various genres. The album was recorded and produced at two separate, near-identical studios by Chater and Seltmann, exchanging audio mixes of records they sampled.
+After the album's positive reception in Australia, the duo considered an international release – its date was held back until 2001 in the United Kingdom and North America and appeared in slightly altered forms. The delay and changes occurred so that the group could obtain permission to use the samples or use replacements. Four singles were released from the album: "Electricity", "Frontier Psychiatrist", "Since I Left You", and "Radio". The group promoted the album by organising headlining tours in Australia, Europe and the United States.
+Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA Albums Chart, number 12 in Norway, number eight on the UK Albums Chart and, in the United States, at number ten on the Top Electronic Albums chart and in the top 40 on the Top Heatseekers chart. At the ARIA Music Awards of 2001, it won in four categories: Breakthrough Artist – Album, Best Dance Release, Producer of the Year for Bobbydazzler, and Breakthrough Artist – Single for "Frontier Psychiatrist". Since I Left You became one of the best-reviewed albums of the 2000s, and was listed at number ten in the book 100 Best Australian Albums.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Since I Left You (4:18)
 2. Stay Another Season (2:15)
 3. Radio (4:52)
@@ -44,15 +48,6 @@ styles: ["Leftfield", "Abstract"]
 16. Little Journey (1:53)
 17. Live At Dominoes (5:38)
 18. Extra Kings (3:46)
-
-<!-- section break -->
-
-Since I Left You is the debut studio album by Australian electronic music group the Avalanches, released on 27 November 2000 by Modular Recordings. It was produced by group members Robbie Chater and Darren Seltmann (under the pseudonym Bobbydazzler), and samples extensively from various genres. The album was recorded and produced at two separate, near-identical studios by Chater and Seltmann, exchanging audio mixes of records they sampled.
-After the album's positive reception in Australia, the duo considered an international release – its date was held back until 2001 in the United Kingdom and North America and appeared in slightly altered forms. The delay and changes occurred so that the group could obtain permission to use the samples or use replacements. Four singles were released from the album: "Electricity", "Frontier Psychiatrist", "Since I Left You", and "Radio". The group promoted the album by organising headlining tours in Australia, Europe and the United States.
-Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA Albums Chart, number 12 in Norway, number eight on the UK Albums Chart and, in the United States, at number ten on the Top Electronic Albums chart and in the top 40 on the Top Heatseekers chart. At the ARIA Music Awards of 2001, it won in four categories: Breakthrough Artist – Album, Best Dance Release, Producer of the Year for Bobbydazzler, and Breakthrough Artist – Single for "Frontier Psychiatrist". Since I Left You became one of the best-reviewed albums of the 2000s, and was listed at number ten in the book 100 Best Australian Albums.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/since-i-left-you/1450114829" >}}<br>

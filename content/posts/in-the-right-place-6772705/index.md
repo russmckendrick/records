@@ -19,10 +19,14 @@ genres: ["Funk / Soul"]
 styles: ["Bayou Funk", "Soul", "Funk"]
 ---
 
-{{< img src="in-the-right-place-6772705.jpg" title="In The Right Place by Dr. John" >}}
+In the Right Place is the sixth album by the New Orleans R&B artist Dr. John. The album was released on Atco Records in 1973, and became the biggest selling album of Dr. John's career.
+The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Right Place Wrong Time (2:50)
 2. Same Old Same Old (2:39)
 3. Just The Same (2:49)
@@ -34,15 +38,6 @@ styles: ["Bayou Funk", "Soul", "Funk"]
 9. Shoo Fly Marches On (3:15)
 10. I Been Hoodood (3:12)
 11. Cold Cold Cold (2:37)
-
-<!-- section break -->
-
-In the Right Place is the sixth album by the New Orleans R&B artist Dr. John. The album was released on Atco Records in 1973, and became the biggest selling album of Dr. John's career.
-The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-right-place/145077581" >}}<br>

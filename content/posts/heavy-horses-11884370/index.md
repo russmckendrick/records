@@ -39,10 +39,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Prog Rock"]
 ---
 
-{{< img src="heavy-horses-11884370.jpg" title="Heavy Horses by Jethro Tull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. ...And The Mouse Police Never Sleeps (3:12)
 2. Acres Wild (3:24)
 3. No Lullaby (7:54)
@@ -52,10 +51,6 @@ styles: ["Folk Rock", "Prog Rock"]
 7. One Brown Mouse (3:23)
 8. Heavy Horses (9:03)
 9. Weathercock (4:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heavy-horses-2003-bonus-tracks-edition/699733389" >}}<br>

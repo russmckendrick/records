@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-best-of-r-e-m-605691.jpg" title="The Best Of R.E.M. by R.E.M." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Us
 2. Carnival Of Sorts (Boxcars) (3:51)
 3. Radio Free Europe (4:03)
@@ -40,10 +39,6 @@ styles: ["Pop Rock"]
 14. The One I Love (3:17)
 15. Finest Worksong (3:48)
 16. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>

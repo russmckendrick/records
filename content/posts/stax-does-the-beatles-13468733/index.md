@@ -24,10 +24,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-{{< img src="stax-does-the-beatles-13468733.jpg" title="Stax Does The Beatles by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Day Tripper (Alternate Take)
 2. Help!
 3. Got to Get You Into My Life
@@ -43,10 +42,6 @@ styles: []
 13. Lady Madonna
 14. My Sweet Lord
 15. Hey Jude
-
-<!-- section break -->
-
-
 
 
 ## Spotify

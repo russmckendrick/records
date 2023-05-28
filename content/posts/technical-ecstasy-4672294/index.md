@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-{{< img src="technical-ecstasy-4672294.jpg" title="Technical Ecstasy by Black Sabbath" >}}
+Technical Ecstasy is the seventh studio album by English heavy metal band Black Sabbath, produced by guitarist Tony Iommi and released on 25 September 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Back Street Kids (3:46)
 2. You Won't Change Me (6:34)
 3. She's Gone (4:51)
@@ -32,13 +34,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 6. Rock 'N' Roll Doctor (3:25)
 7. It's Alright (3:58)
 8. Dirty Women (7:15)
-
-<!-- section break -->
-
-Technical Ecstasy is the seventh studio album by English heavy metal band Black Sabbath, produced by guitarist Tony Iommi and released on 25 September 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy-2009-remastered-version/1193799249" >}}<br>

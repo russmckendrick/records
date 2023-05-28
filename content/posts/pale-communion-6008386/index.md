@@ -33,10 +33,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="pale-communion-6008386.jpg" title="Pale Communion by Opeth" >}}
+Pale Communion is the eleventh studio album by Swedish progressive metal band Opeth. The album was released on 26 August 2014 through Roadrunner Records. The album was produced by Mikael Åkerfeldt and mixed by Steven Wilson. Pale Communion is the first album with keyboardist Joakim Svalberg after the departure of Per Wiberg in 2011. The album sold 19,090 copies in its first week of release in the United States, debuting at number 19 on the Billboard 200.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Eternal Rains Will Come
 2. Cusp Of Eternity
 3. Moon Above, Sun Below
@@ -45,15 +49,6 @@ styles: ["Prog Rock"]
 6. River
 7. Voice Of Treason
 8. Faith In Others
-
-<!-- section break -->
-
-Pale Communion is the eleventh studio album by Swedish progressive metal band Opeth. The album was released on 26 August 2014 through Roadrunner Records. The album was produced by Mikael Åkerfeldt and mixed by Steven Wilson. Pale Communion is the first album with keyboardist Joakim Svalberg after the departure of Per Wiberg in 2011. The album sold 19,090 copies in its first week of release in the United States, debuting at number 19 on the Billboard 200.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pale-communion/881685468" >}}<br>

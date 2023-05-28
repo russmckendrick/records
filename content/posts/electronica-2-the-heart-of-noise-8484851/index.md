@@ -30,10 +30,9 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="electronica-2-the-heart-of-noise-8484851.jpg" title="Electronica 2 - The Heart Of Noise by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Heart Of Noise
 2. Brick England (4:01)
 3. These Creatures (3:40)
@@ -51,10 +50,6 @@ styles: ["Electro", "Synth-pop"]
 15. Walking The Mile (4:52)
 16. Falling Down (3:23)
 17. The Heart Of Noise (The Origin) (2:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725" >}}<br>

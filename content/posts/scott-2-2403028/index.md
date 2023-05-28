@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Vocal", "Pop Rock"]
 ---
 
-{{< img src="scott-2-2403028.jpg" title="Scott 2 by Scott Walker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jackie
 2. Best Of Both Worlds
 3. Black Sheep Boy
@@ -36,10 +35,6 @@ styles: ["Vocal", "Pop Rock"]
 10. Windows Of The World
 11. The Bridge
 12. Come Next Spring
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scott-2/1442979621" >}}<br>

@@ -38,10 +38,12 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Abstract", "Leftfield", "Experimental"]
 ---
 
-{{< img src="the-lemon-of-pink-9332526.jpg" title="The Lemon Of Pink by The Books" >}}
+The Lemon of Pink is the second studio album by American musical duo The Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Lemon Of Pink (4:40)
 2. The Lemon Of Pink II (1:35)
 3. Tokyo (3:43)
@@ -55,13 +57,6 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 11. A True Story Of A Story Of True Love (4:25)
 12. That Right Ain't Shit (2:48)
 13. P.S. (0:56)
-
-<!-- section break -->
-
-The Lemon of Pink is the second studio album by American musical duo The Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942" >}}<br>

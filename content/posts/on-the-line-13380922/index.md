@@ -27,24 +27,6 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="on-the-line-13380922.jpg" title="On The Line by Jenny Lewis" >}}
-
-<!-- section break -->
-
-1. Heads Gonna Roll (5:13)
-2. Wasted Youth (4:13)
-3. Red Bull & Hennessy (4:48)
-4. Hollywood Lawn (4:34)
-5. Do Si Do (3:54)
-6. Dogwood (4:28)
-7. Party Clown (4:09)
-8. Little White Dove (4:49)
-9. Taffy (4:27)
-10. On The Line (3:48)
-11. Rabbit Hole (2:46)
-
-<!-- section break -->
-
 A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo artist beloved by the famed and famous, Jenny Lewis would appear to have led a gilded life. But her truth—and there have been intimations both in song lyrics and occasionally in interviews—is of a far darker inheritance. “I come from working-class showbiz people who ended up in jail, on drugs, both or worse,” Lewis tells Apple Music. “I grew up in a pretty crazy, unhealthy environment, but I somehow managed to survive.” The death of her mother in 2017 (with whom she had reconnected after a 20-year estrangement) and the end of her 12-year relationship with fellow singer-songwriter Johnathan Rice set the stage for Lewis’ fourth solo album, where she finally reconciles her public and private self. A bountiful pop record about sex, drugs, death and regret, with references to everyone from Elliott Smith to Meryl Streep, <i>On the Line</i> is the Lewis aesthetic writ large: an autobiographical picaresque burnished by her dark sense of humour. Here, Lewis takes us through the album track by track.<br />
 <b>“Heads Gonna Roll”</b>
 “I’m a big boxing fan, and I basically wanted to write a boxing ballad. There’s a line about ‘the nuns of Harlem'—that’s for real. I met a priest backstage at a Dead & Company show in a cloud of pot smoke. He was a fan of my music, and we struck up a conversation and a correspondence. I’d just moved to New York at the time and was looking to do some service work. And so this priest hooked me up with the nuns in Harlem. I would go up there and get really stoned and hang out with theses nuns, who were the purest, most lovely people, and help them put together meal packages. The nuns of Harlem really helped me out.”<br />
@@ -72,6 +54,19 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
         
     
 
+
+## Tracklisting
+1. Heads Gonna Roll (5:13)
+2. Wasted Youth (4:13)
+3. Red Bull & Hennessy (4:48)
+4. Hollywood Lawn (4:34)
+5. Do Si Do (3:54)
+6. Dogwood (4:28)
+7. Party Clown (4:09)
+8. Little White Dove (4:49)
+9. Taffy (4:27)
+10. On The Line (3:48)
+11. Rabbit Hole (2:46)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-line/1449905465" >}}<br>

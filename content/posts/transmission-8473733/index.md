@@ -30,10 +30,12 @@ genres: ["Electronic"]
 styles: ["Darkwave", "EBM", "Techno"]
 ---
 
-{{< img src="transmission-8473733.jpg" title="Transmission by Death In Vegas" >}}
+A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embraces chilly Euro synths and Ballardian drones. For their sixth album, Richard Fearless joined forces with vocalist Sasha Grey, who oozes cool all over the record's soft Italo disco (“Flak”), intense synth arpeggios (“Metal Box”) and malevolent techno. It shifts nimbly between monochromatic intensities: “Strom” orbits on woozy, circular whispers, but segues into “You Disco I Freak”, eight minutes of ricocheting mania.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Metal Box
 2. Consequences of Love
 3. Transmission
@@ -44,13 +46,6 @@ styles: ["Darkwave", "EBM", "Techno"]
 8. You Disco I Freak
 9. Strom
 10. Transwave
-
-<!-- section break -->
-
-A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embraces chilly Euro synths and Ballardian drones. For their sixth album, Richard Fearless joined forces with vocalist Sasha Grey, who oozes cool all over the record's soft Italo disco (“Flak”), intense synth arpeggios (“Metal Box”) and malevolent techno. It shifts nimbly between monochromatic intensities: “Strom” orbits on woozy, circular whispers, but segues into “You Disco I Freak”, eight minutes of ricocheting mania.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmission/1110655687" >}}<br>

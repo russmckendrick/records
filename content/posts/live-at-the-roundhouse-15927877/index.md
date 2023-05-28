@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="live-at-the-roundhouse-15927877.jpg" title="Live At The Roundhouse by Nick Mason's Saucerful Of Secrets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Interstellar Overdrive
 2. Astronomy Domine
 3. Lucifer Sam
@@ -56,10 +55,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 20. One Of These Days
 21. A Saucerful Of Secrets
 22. Point Me At The Sky
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-roundhouse/1495412702" >}}<br>

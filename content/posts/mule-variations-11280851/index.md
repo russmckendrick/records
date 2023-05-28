@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Art Rock"]
 ---
 
-{{< img src="mule-variations-11280851.jpg" title="Mule Variations by Tom Waits" >}}
+Mule Variations is the thirteenth studio album by American musician Tom Waits, released on April 16, 1999, on the ANTI- label. It was Waits' first studio album in six years, following The Black Rider (1993). The album was backed by an extensive tour in Europe and North America during the summer and autumn of 1999, which was Waits' first proper tour since 1987. Other promotional stops included a solo performance on VH1 Storytellers.
+Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nominated for Best Male Rock Performance for the track "Hold On". It has sold more than 500,000 copies worldwide. In 2012, the album was ranked number 416 on Rolling Stone's list of The 500 Greatest Albums of All Time.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Big In Japan (4:05)
 2. Lowside Of The Road (2:59)
 3. Hold On (5:33)
@@ -41,14 +44,6 @@ styles: ["Abstract", "Art Rock"]
 14. Filipino Box Spring Hog (3:09)
 15. Take It With Me (4:24)
 16. Come On Up To The House (4:36)
-
-<!-- section break -->
-
-Mule Variations is the thirteenth studio album by American musician Tom Waits, released on April 16, 1999, on the ANTI- label. It was Waits' first studio album in six years, following The Black Rider (1993). The album was backed by an extensive tour in Europe and North America during the summer and autumn of 1999, which was Waits' first proper tour since 1987. Other promotional stops included a solo performance on VH1 Storytellers.
-Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nominated for Best Male Rock Performance for the track "Hold On". It has sold more than 500,000 copies worldwide. In 2012, the album was ranked number 416 on Rolling Stone's list of The 500 Greatest Albums of All Time.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mule-variations-remastered/1485070836" >}}<br>

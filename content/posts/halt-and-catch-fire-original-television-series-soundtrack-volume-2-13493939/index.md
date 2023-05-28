@@ -26,10 +26,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ---
 
-{{< img src="halt-and-catch-fire-original-television-series-soundtrack-volume-2-13493939.jpg" title="Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mosaic
 2. Cameron's Motorcycle Diaries
 3. Venture Capital
@@ -44,10 +43,6 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 12. Dreamers And Misfits
 13. It Worked For Awhile / Cam And Joe
 14. I Have An Idea
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-vol-2-original-television-series/1446955010" >}}<br>

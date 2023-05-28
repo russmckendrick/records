@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="rock-action-3969520.jpg" title="Rock Action by Mogwai" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sine Wave
 2. Take Me Somewhere Nice
 3. O I Sleep
@@ -36,10 +35,6 @@ styles: ["Post Rock"]
 6. Robot Chant
 7. 2 Rights Make 1 Wrong
 8. Secret Pint
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rock-action/273164911" >}}<br>

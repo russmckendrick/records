@@ -26,10 +26,9 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 ---
 
-{{< img src="when-these-memories-fade-24641348.jpg" title="When These Memories Fade by Jellyfish" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The King Is Half-Undressed
 2. The King Is Half-Undressed
 3. Calling Sarah
@@ -53,10 +52,6 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 21. Covers
 22. No Matter What (Live)
 23. Think About Your Troubles
-
-<!-- section break -->
-
-
 
 
 

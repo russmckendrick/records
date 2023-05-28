@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Doom Metal", "Heavy Metal"]
 ---
 
-{{< img src="opvs-eponymovs-2649116.jpg" title="Opvs Eponymovs by Ghost" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Deus Culpa (1:34)
 2. Con Clavi Con Dio (3:34)
 3. Ritual (4:29)
@@ -33,10 +32,6 @@ styles: ["Doom Metal", "Heavy Metal"]
 7. Death Knell (4:37)
 8. Prime Mover (3:53)
 9. Genesis (4:03)
-
-<!-- section break -->
-
-
 
 
 

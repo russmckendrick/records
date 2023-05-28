@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="revenge-of-the-goldfish-22846400.jpg" title="Revenge Of The Goldfish ™ by Inspiral Carpets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Generations
 2. Saviour
 3. Bitches Brew
@@ -38,10 +37,6 @@ styles: ["Indie Rock"]
 10. Mystery
 11. Rain Song
 12. Irresistible Force
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/revenge-of-the-goldfish/1145592944" >}}<br>

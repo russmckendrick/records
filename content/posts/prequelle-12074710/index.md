@@ -25,10 +25,15 @@ genres: ["Rock"]
 styles: ["Gothic Metal"]
 ---
 
-{{< img src="prequelle-12074710.jpg" title="Prequelle by Ghost" >}}
+Prequelle is the fourth studio album by the Swedish rock band Ghost. It was released on 1 June 2018 and produced by Tom Dalgety. The album's first single, "Rats", was released ahead of the album on 13 April, and as of 28 July, had peaked at number one for seven weeks on the Billboard Mainstream Rock Songs chart. The second single, "Dance Macabre", later topped the same chart for two weeks as well. The album marked the band's strongest selling debut to date, landing at number 3 on the Billboard 200, selling 66,000 copies in its first week, with 61,000 of those being "traditional" album sales. The album's themes include medieval times and the Black Death, along with more modern subject matters.
+"Prequelle" was nominated for the Best Rock Album Grammy Award at the 61st annual awards ceremony and the Swedish Grammis Award in the category of Hard rock/metal.
+The album was released with five different versions of the cover art, each with the rider and horse in the foreground placed in a different position.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ashes (1:21)
 2. Rats (4:21)
 3. Faith (4:29)
@@ -39,16 +44,6 @@ styles: ["Gothic Metal"]
 8. Witch Image (3:30)
 9. Helvetesfönster (5:55)
 10. Life Eternal (3:27)
-
-<!-- section break -->
-
-Prequelle is the fourth studio album by the Swedish rock band Ghost. It was released on 1 June 2018 and produced by Tom Dalgety. The album's first single, "Rats", was released ahead of the album on 13 April, and as of 28 July, had peaked at number one for seven weeks on the Billboard Mainstream Rock Songs chart. The second single, "Dance Macabre", later topped the same chart for two weeks as well. The album marked the band's strongest selling debut to date, landing at number 3 on the Billboard 200, selling 66,000 copies in its first week, with 61,000 of those being "traditional" album sales. The album's themes include medieval times and the Black Death, along with more modern subject matters.
-"Prequelle" was nominated for the Best Rock Album Grammy Award at the 61st annual awards ceremony and the Swedish Grammis Award in the category of Hard rock/metal.
-The album was released with five different versions of the cover art, each with the rider and horse in the foreground placed in a different position.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prequelle/1368157625" >}}<br>

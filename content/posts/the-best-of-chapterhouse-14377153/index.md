@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="the-best-of-chapterhouse-14377153.jpg" title="The Best Of Chapterhouse by Chapterhouse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Are The Beautiful
 2. Falling Down
 3. Pearl
@@ -36,10 +35,6 @@ styles: ["Indie Rock", "Shoegaze"]
 13. Ecstasy II
 14. Something More
 15. On The Way To Fly
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}<br>

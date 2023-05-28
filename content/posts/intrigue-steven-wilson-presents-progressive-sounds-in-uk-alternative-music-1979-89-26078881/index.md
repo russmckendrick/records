@@ -18,10 +18,9 @@ genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, Wo
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
 
-{{< img src="intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26078881.jpg" title="Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Should Have Known Better
 2. A Better Home In The Phantom Zone
 3. Back To Nature
@@ -80,10 +79,6 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 56. Omega Amigo
 57. Night Sky, Sweet Earth
 58. The 3rd Time We Opened The Capsule
-
-<!-- section break -->
-
-
 
 
 

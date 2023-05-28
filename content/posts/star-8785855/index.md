@@ -33,10 +33,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="star-8785855.jpg" title="Star by Belly" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Someone To Die For
 2. Angel
 3. Dusted
@@ -67,10 +66,6 @@ styles: ["Indie Rock"]
 28. Star (1:27)
 29. Sad Dress (3:44)
 30. Stay (4:57)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}<br>

@@ -29,23 +29,18 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="islands-6093915.jpg" title="Islands by King Crimson" >}}
+The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Formentera Lady (9:55)
 2. Sailor's Tale (7:20)
 3. The Letters (4:25)
 4. Ladies Of The Road (5:29)
 5. Prelude: Song Of The Gulls (4:14)
 6. Islands (9:14)
-
-<!-- section break -->
-
-The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/islands-expanded-edition/978453417" >}}<br>

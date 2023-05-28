@@ -24,10 +24,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
-{{< img src="songs-of-faith-and-devotion-5349924.jpg" title="Songs Of Faith And Devotion by Depeche Mode" >}}
+Songs of Faith and Devotion is the eighth studio album by English electronic music band Depeche Mode. It was first released on 22 March 1993 in the United Kingdom by Mute Records and a day later in the United States by Sire Records and Reprise Records. The album incorporated a more aggressive, darker rock-oriented tone than its predecessor Violator (1990), largely influenced by the emerging alternative rock and grunge scenes in the United States.Upon its release, Songs of Faith and Devotion reached number one in several countries, and became the first Depeche Mode album to debut atop the charts in both the UK and the US. To support the album, Depeche Mode embarked on the fourteen-month-long Devotional Tour, the largest tour they had undertaken to date.
+Recording the album and the subsequent tour exacerbated growing tensions and difficulties within the band, prompting Alan Wilder to quit in 1995, making this album the final one with him as a band member, and also the final album of the band to be recorded as a quartet. The ordeal had exhausted their creative output following the enormous success they had enjoyed with Violator, leading to rumours and media speculation that the band would split. Depeche Mode subsequently recovered from the experience, and released Ultra in 1997.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Feel You (4:35)
 2. Walking In My Shoes (5:35)
 3. Condemnation (3:19)
@@ -38,16 +43,6 @@ styles: ["Alternative Rock", "Synth-pop"]
 8. Rush (4:36)
 9. One Caress (3:30)
 10. Higher Love (5:56)
-
-<!-- section break -->
-
-Songs of Faith and Devotion is the eighth studio album by English electronic music band Depeche Mode. It was first released on 22 March 1993 in the United Kingdom by Mute Records and a day later in the United States by Sire Records and Reprise Records. The album incorporated a more aggressive, darker rock-oriented tone than its predecessor Violator (1990), largely influenced by the emerging alternative rock and grunge scenes in the United States.Upon its release, Songs of Faith and Devotion reached number one in several countries, and became the first Depeche Mode album to debut atop the charts in both the UK and the US. To support the album, Depeche Mode embarked on the fourteen-month-long Devotional Tour, the largest tour they had undertaken to date.
-Recording the album and the subsequent tour exacerbated growing tensions and difficulties within the band, prompting Alan Wilder to quit in 1995, making this album the final one with him as a band member, and also the final album of the band to be recorded as a quartet. The ordeal had exhausted their creative output following the enormous success they had enjoyed with Violator, leading to rumours and media speculation that the band would split. Depeche Mode subsequently recovered from the experience, and released Ultra in 1997.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-faith-and-devotion-deluxe/665414502" >}}<br>

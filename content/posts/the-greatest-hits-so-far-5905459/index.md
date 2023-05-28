@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-greatest-hits-so-far-5905459.jpg" title="The Greatest Hits, So Far by Public Image Limited" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Public Image
 2. Death Disco
 3. Memories
@@ -34,10 +33,6 @@ styles: ["New Wave", "Synth-pop"]
 12. Disappointed
 13. Warrior
 14. Don't Ask Me
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153" >}}<br>

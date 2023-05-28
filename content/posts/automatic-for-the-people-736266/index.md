@@ -27,27 +27,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="automatic-for-the-people-736266.jpg" title="Automatic For The People by R.E.M." >}}
-
-<!-- section break -->
-
-1. Drive
-2. Drive (4:30)
-3. Try Not To Breathe (3:49)
-4. The Sidewinder Sleeps Tonite (4:06)
-5. Everybody Hurts (5:17)
-6. New Orleans Instrumental No. 1 (2:12)
-7. Sweetness Follows (4:19)
-8. Ride
-9. Monty Got A Raw Deal (3:16)
-10. Ignoreland (4:24)
-11. Star Me Kitten (3:15)
-12. Man On The Moon (5:12)
-13. Nightswimming (4:16)
-14. Find The River (3:49)
-
-<!-- section break -->
-
 Although Spatial Audio is a relatively new technology, one of its gifts is the way it can present older, beloved albums as brand new and surface buried elements within songs that even the artists themselves didn’t remember being in there. When R.E.M.’s 1992 classic <i>Automatic for the People</i> was remixed in Dolby Atmos by original producer Scott Litt and engineer Cliff Norrell, bassist Mike Mills was taken aback by the way the album’s relatively sparse, acoustic nature lent itself so well to the immersive treatment.<br />
 “With <i>Automatic for the People</i>, there's a lot of room, so you could separate the elements and hear them really clearly,” Mills tells Apple Music. “I thought it was exactly the perfect record from us to have that done to it; with the strings, there's so much air being moved by natural instruments. When the actual wood itself and the vibrations of the acoustic strings are moving the air, there's a different feel to it, and Atmos really lends itself to that.” Below, Mills highlights a few tracks from the reimagined album that might surprise even the fans who've memorised every groove over the past 29 years.<br />
 <b>“Drive”</b>
@@ -64,6 +43,22 @@ Although Spatial Audio is a relatively new technology, one of its gifts is the w
         
     
 
+
+## Tracklisting
+1. Drive
+2. Drive (4:30)
+3. Try Not To Breathe (3:49)
+4. The Sidewinder Sleeps Tonite (4:06)
+5. Everybody Hurts (5:17)
+6. New Orleans Instrumental No. 1 (2:12)
+7. Sweetness Follows (4:19)
+8. Ride
+9. Monty Got A Raw Deal (3:16)
+10. Ignoreland (4:24)
+11. Star Me Kitten (3:15)
+12. Man On The Moon (5:12)
+13. Nightswimming (4:16)
+14. Find The River (3:49)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/automatic-for-the-people-2017-remaster/1571670285" >}}<br>

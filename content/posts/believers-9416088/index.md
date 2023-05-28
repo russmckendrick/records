@@ -20,10 +20,12 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="believers-9416088.jpg" title="Believers by Deacon Blue" >}}
+Believers is the eighth studio album released by Scottish band Deacon Blue, released on 30 September 2016 via both EarMusic and Sheer Sound recording labels. The album was a commercial success in the United Kingdom, debuting at number thirteen and remained in the UK Albums Chart for a further week, making Believers Deacon Blue's seventh Top 40 UK album. In their native Scotland, Believers debuted at number four on the Scottish Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Believers (3:35)
 2. This Is A Love Song (4:00)
 3. I Will And I Won't (3:42)
@@ -36,13 +38,6 @@ styles: ["Pop Rock"]
 10. Delivery Man (4:22)
 11. Come Awake (3:28)
 12. B Boy (1:40)
-
-<!-- section break -->
-
-Believers is the eighth studio album released by Scottish band Deacon Blue, released on 30 September 2016 via both EarMusic and Sheer Sound recording labels. The album was a commercial success in the United Kingdom, debuting at number thirteen and remained in the UK Albums Chart for a further week, making Believers Deacon Blue's seventh Top 40 UK album. In their native Scotland, Believers debuted at number four on the Scottish Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/believers/1136775251" >}}<br>

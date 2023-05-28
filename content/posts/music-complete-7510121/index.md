@@ -23,10 +23,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
 
-{{< img src="music-complete-7510121.jpg" title="Music Complete by New Order" >}}
+Dance, it seems, can be a healer. New Order return to the propulsive modern electronica they pretty much invented on a spectacular tenth album that nimbly outmanoeuvres both the spectres of a tragic past and an acrimonious recent history. It’s their first record without founding member Peter Hook, but a handful of shrewd cameos (notably Iggy Pop’s rumbling monologue on the sparse, spooky “Stray Dog”) add to the feel of cathartic, communal celebration. Expect to fall hard for “Singularity”, which rolls back the years to reverberate with the urgent majesty of a packed Hacienda.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Restless (5:26)
 2. Singularity (5:37)
 3. Plastic (6:58)
@@ -38,13 +40,6 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 9. Unlearn This Hatred (4:18)
 10. The Game (5:06)
 11. Superheated (5:03)
-
-<!-- section break -->
-
-Dance, it seems, can be a healer. New Order return to the propulsive modern electronica they pretty much invented on a spectacular tenth album that nimbly outmanoeuvres both the spectres of a tragic past and an acrimonious recent history. It’s their first record without founding member Peter Hook, but a handful of shrewd cameos (notably Iggy Pop’s rumbling monologue on the sparse, spooky “Stray Dog”) add to the feel of cathartic, communal celebration. Expect to fall hard for “Singularity”, which rolls back the years to reverberate with the urgent majesty of a packed Hacienda.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-complete/1003724995" >}}<br>

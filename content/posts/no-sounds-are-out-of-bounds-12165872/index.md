@@ -26,10 +26,12 @@ genres: ["Electronic", "Pop"]
 styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 ---
 
-{{< img src="no-sounds-are-out-of-bounds-12165872.jpg" title="No Sounds Are Out Of Bounds by The Orb" >}}
+No Sounds Are Out of Bounds is the fifteenth studio album by English ambient house duo the Orb. The album was released on 22 June 2018 via Cooking Vinyl. It includes contributions from Youth, Roger Eno, Hollie Cook, Guy Pratt, Jah Wobble, Gaudi, Roney FM and Michael Rendall.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The End Of The End
 2. Wish I Had A Pretty Dog
 3. Rush Hill Road
@@ -42,13 +44,6 @@ styles: ["Ambient", "Downtempo", "Vocal", "Experimental", "House"]
 10. Easy On The Onions
 11. Ununited States
 12. Soul Planet
-
-<!-- section break -->
-
-No Sounds Are Out of Bounds is the fifteenth studio album by English ambient house duo the Orb. The album was released on 22 June 2018 via Cooking Vinyl. It includes contributions from Youth, Roger Eno, Hollie Cook, Guy Pratt, Jah Wobble, Gaudi, Roney FM and Michael Rendall.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-sounds-are-out-of-bounds-deluxe/1391652456" >}}<br>

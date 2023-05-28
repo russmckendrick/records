@@ -28,10 +28,12 @@ genres: ["Jazz"]
 styles: ["Fusion"]
 ---
 
-{{< img src="immigrance-13391155.jpg" title="Immigrance by Snarky Puppy" >}}
+The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chonks (8:32)
 2. Bigly Strictness (7:37)
 3. Coven (6:38)
@@ -40,13 +42,6 @@ styles: ["Fusion"]
 6. While We're Young (2:42)
 7. Bad Kids To The Back (5:45)
 8. Even Us (7:43)
-
-<!-- section break -->
-
-The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/immigrance/1448116436" >}}<br>

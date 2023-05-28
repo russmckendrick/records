@@ -22,10 +22,12 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="janis-joplin-s-greatest-hits-11176700.jpg" title="Janis Joplin's Greatest Hits by Janis Joplin" >}}
+Few white women knew the blues as well as Joplin, and this collection showcases her most iconic moments. Her soul shines through the rib-rattling wail of “Piece of My Heart,” while “Me and Bobby McGee” marries her aching voice to classic country storytelling. A live take of “Down On Me” illustrates her command of the stage while fronting the blues rock powerhouse Big Brother & The Holding Company.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Piece Of My Heart (4:19)
 2. Summertime (4:01)
 3. Try (Just A Little Bit Harder) (4:02)
@@ -36,13 +38,6 @@ styles: ["Blues Rock"]
 8. Bye, Bye Baby (2:36)
 9. Move Over (3:40)
 10. Ball And Chain (8:01)
-
-<!-- section break -->
-
-Few white women knew the blues as well as Joplin, and this collection showcases her most iconic moments. Her soul shines through the rib-rattling wail of “Piece of My Heart,” while “Me and Bobby McGee” marries her aching voice to classic country storytelling. A live take of “Down On Me” illustrates her command of the stage while fronting the blues rock powerhouse Big Brother & The Holding Company.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000" >}}<br>

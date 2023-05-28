@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-very-best-of-the-stone-roses-8632444.jpg" title="The Very Best Of The Stone Roses by The Stone Roses" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Wanna Be Adored (4:52)
 2. She Bangs The Drums (3:42)
 3. Ten Storey Love Song (4:29)
@@ -43,10 +42,6 @@ styles: ["Indie Rock"]
 13. One Love (3:35)
 14. This Is The One (4:58)
 15. I Am The Resurrection (8:12)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

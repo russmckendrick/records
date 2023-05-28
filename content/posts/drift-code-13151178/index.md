@@ -18,10 +18,14 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Psychedelic Rock"]
 ---
 
-{{< img src="drift-code-13151178.jpg" title="Drift Code by Rustin Man" >}}
+Drift Code is the second studio album by English musician and former Talk Talk bassist Paul Webb, under his moniker Rustin Man. It was released on 1 February 2019 through Domino Recording Company.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Vanishing Heart
 2. Judgement Train
 3. Brings Me Joy
@@ -31,15 +35,6 @@ styles: ["Folk", "Psychedelic Rock"]
 7. Light The Light
 8. Martian Garden
 9. All Summer
-
-<!-- section break -->
-
-Drift Code is the second studio album by English musician and former Talk Talk bassist Paul Webb, under his moniker Rustin Man. It was released on 1 February 2019 through Domino Recording Company.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drift-code/1441129695" >}}<br>

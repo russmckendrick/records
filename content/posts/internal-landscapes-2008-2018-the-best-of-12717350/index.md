@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="internal-landscapes-2008-2018-the-best-of-12717350.jpg" title="Internal Landscapes 2008-2018 (The Best Of) by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Anathema (6:41)
 2. Untouchable (Part 1) (6:14)
 3. Untouchable (Part 2) (5:33)
@@ -34,10 +33,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 11. Springfield (5:49)
 12. Distant Satellites (8:18)
 13. Internal Landscapes (8:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630" >}}<br>

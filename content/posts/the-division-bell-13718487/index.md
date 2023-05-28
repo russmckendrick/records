@@ -37,10 +37,18 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock"]
 ---
 
-{{< img src="the-division-bell-13718487.jpg" title="The Division Bell by Pink Floyd" >}}
+The Division Bell is the fourteenth studio album by the English progressive rock band Pink Floyd, released on 28 March 1994 by EMI Records in the United Kingdom and on 4 April by Columbia Records in the United States.
+The second Pink Floyd album recorded without founding member Roger Waters, The Division Bell was written mostly by guitarist and singer David Gilmour and keyboardist Richard Wright. It features Wright's first lead vocal on a Pink Floyd album since The Dark Side of the Moon (1973). Gilmour's fiancée, the novelist Polly Samson, co-wrote many of the lyrics, which deal with themes of communication. It was the last Pink Floyd studio album to be composed of entirely new material, and the last recorded with Wright, who died in 2008.
+Recording took place in locations including the band's Britannia Row Studios and Gilmour's houseboat, Astoria. The production team included longtime Pink Floyd collaborators such as producer Bob Ezrin, engineer Andy Jackson, saxophonist Dick Parry and bassist Guy Pratt.
+The Division Bell received mixed reviews, but reached number one in more than 10 countries, including the UK and the US. In the US, it was certified double platinum in 1994 and triple platinum in 1999. Pink Floyd promoted it with a tour of the US and Europe; the tour sold more than 5 million tickets and made around $100 million in gross income. A live album and video, Pulse, was released in 1995. Some of the unused material from the Division Bell sessions became part of Pink Floyd's next album, The Endless River (2014).
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Cluster One (5:58)
 2. What Do You Want From Me (4:21)
 3. Poles Apart (7:04)
@@ -52,19 +60,6 @@ styles: ["Arena Rock", "Prog Rock"]
 9. Keep Talking (6:11)
 10. Lost For Words (5:14)
 11. High Hopes (8:31)
-
-<!-- section break -->
-
-The Division Bell is the fourteenth studio album by the English progressive rock band Pink Floyd, released on 28 March 1994 by EMI Records in the United Kingdom and on 4 April by Columbia Records in the United States.
-The second Pink Floyd album recorded without founding member Roger Waters, The Division Bell was written mostly by guitarist and singer David Gilmour and keyboardist Richard Wright. It features Wright's first lead vocal on a Pink Floyd album since The Dark Side of the Moon (1973). Gilmour's fiancée, the novelist Polly Samson, co-wrote many of the lyrics, which deal with themes of communication. It was the last Pink Floyd studio album to be composed of entirely new material, and the last recorded with Wright, who died in 2008.
-Recording took place in locations including the band's Britannia Row Studios and Gilmour's houseboat, Astoria. The production team included longtime Pink Floyd collaborators such as producer Bob Ezrin, engineer Andy Jackson, saxophonist Dick Parry and bassist Guy Pratt.
-The Division Bell received mixed reviews, but reached number one in more than 10 countries, including the UK and the US. In the US, it was certified double platinum in 1994 and triple platinum in 1999. Pink Floyd promoted it with a tour of the US and Europe; the tour sold more than 5 million tickets and made around $100 million in gross income. A live album and video, Pulse, was released in 1995. Some of the unused material from the Division Bell sessions became part of Pink Floyd's next album, The Endless River (2014).
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}<br>

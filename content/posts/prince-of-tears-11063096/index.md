@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ---
 
-{{< img src="prince-of-tears-11063096.jpg" title="Prince Of Tears by Baxter Dury" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Miami
 2. Porcelain
 3. Mungo
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 8. August
 9. Wanna
 10. Prince Of Tears
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prince-of-tears/1268762151" >}}<br>

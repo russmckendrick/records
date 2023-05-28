@@ -28,10 +28,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="stop-11811666.jpg" title="Stop! by Sam Brown" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Walking Back To Me (3:40)
 2. Your Love Is All (4:09)
 3. Stop (4:53)
@@ -44,10 +43,6 @@ styles: []
 10. I'll Be In Love (5:16)
 11. Merry Go Round (3:07)
 12. Sometimes You Just Don't Know (3:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stop/1443915889" >}}<br>

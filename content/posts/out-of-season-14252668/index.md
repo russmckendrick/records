@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Downtempo", "Folk Rock"]
 ---
 
-{{< img src="out-of-season-14252668.jpg" title="Out Of Season by Beth Gibbons" >}}
+Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and bassist Paul Webb (under the pseudonym Rustin Man, formerly of Talk Talk). It was released on 28 October 2002 in the United Kingdom and on 7 October 2003 in the United States. Out of Season is largely a folk album with jazz leanings, with Gibbons and Webb drawing more directly on the influences of Nina Simone, Billie Holiday, and Nick Drake, at which Portishead's work in trip hop only hinted. Out of Season also features contributions from Gibbons' fellow Portishead bandmate Adrian Utley and Webb's former bandmate Lee Harris. The first track of the album, "Mysteries", appears on the original soundtrack of the French movie Les Poupées Russes (The Russian Dolls), and in Wim Wenders' Palermo Shooting from 2008. The album achieved a silver certification from the BPI.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Mysteries
 2. Tom The Model
 3. Show
@@ -36,15 +40,6 @@ styles: ["Downtempo", "Folk Rock"]
 8. Drake
 9. Funny Time Of Year
 10. Rustin Man
-
-<!-- section break -->
-
-Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and bassist Paul Webb (under the pseudonym Rustin Man, formerly of Talk Talk). It was released on 28 October 2002 in the United Kingdom and on 7 October 2003 in the United States. Out of Season is largely a folk album with jazz leanings, with Gibbons and Webb drawing more directly on the influences of Nina Simone, Billie Holiday, and Nick Drake, at which Portishead's work in trip hop only hinted. Out of Season also features contributions from Gibbons' fellow Portishead bandmate Adrian Utley and Webb's former bandmate Lee Harris. The first track of the album, "Mysteries", appears on the original soundtrack of the French movie Les Poupées Russes (The Russian Dolls), and in Wim Wenders' Palermo Shooting from 2008. The album achieved a silver certification from the BPI.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-season/1443794694" >}}<br>

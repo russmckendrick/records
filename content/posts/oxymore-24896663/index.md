@@ -61,10 +61,12 @@ genres: ["Electronic"]
 styles: ["Techno"]
 ---
 
-{{< img src="oxymore-24896663.jpg" title="Oxymore by Jean-Michel Jarre" >}}
+Oxymore is the twenty-second studio album by French musician and composer Jean-Michel Jarre. It was released on 21 October 2022 through Sony and Columbia.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Agora (1:34)
 2. Oxymore (4:46)
 3. Neon Lips (4:27)
@@ -76,13 +78,6 @@ styles: ["Techno"]
 9. Crystal Garden (4:09)
 10. Brutalism (4:41)
 11. Epica (5:25)
-
-<!-- section break -->
-
-Oxymore is the twenty-second studio album by French musician and composer Jean-Michel Jarre. It was released on 21 October 2022 through Sony and Columbia.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oxymore/1631819443" >}}<br>

@@ -33,10 +33,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="todd-380303.jpg" title="Todd by Todd Rundgren" >}}
+This article is a discography of American rock musician Todd Rundgren.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. How About A Little Fanfare? (0:57)
 2. I Think You Know (3:48)
 3. The Spark Of Life (6:43)
@@ -54,13 +56,6 @@ styles: ["Pop Rock", "Synth-pop"]
 15. In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) (5:48)
 16. Don't You Ever Learn? (6:01)
 17. Sons Of 1984 (4:37)
-
-<!-- section break -->
-
-This article is a discography of American rock musician Todd Rundgren.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-todd-rundgren/107636259" >}}<br>

@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="wide-open-space-11894962.jpg" title="Wide Open Space by Mansun" >}}
+"Wide Open Space" is a song by Chester rock band Mansun, released as a single on 25 November 1996. The song was the lead track of Four EP. The single's success led to alternative versions appearing on four of the next five Mansun singles. These versions were one live, one acoustic, and two remixes, the first and most popular by Perfecto, and a NRG version by The Trouser Enthusiasts. A completely different version credited to longtime engineer Mike Hunter was included as a hidden bonus track on their compilation Kleptomania. The song also appears on The Sound of Gran Turismo, a soundtrack album based on Gran Turismo.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wide Open Space
 2. Rebel Without A Quilt
 3. Vision Impaired 
@@ -36,13 +38,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 5. The Gods Of Not Very Much
 6. Moronica (Acoustic Version)
 7. Lemonade Secret Drinker (Acoustic Version)
-
-<!-- section break -->
-
-"Wide Open Space" is a song by Chester rock band Mansun, released as a single on 25 November 1996. The song was the lead track of Four EP. The single's success led to alternative versions appearing on four of the next five Mansun singles. These versions were one live, one acoustic, and two remixes, the first and most popular by Perfecto, and a NRG version by The Trouser Enthusiasts. A completely different version credited to longtime engineer Mike Hunter was included as a hidden bonus track on their compilation Kleptomania. The song also appears on The Sound of Gran Turismo, a soundtrack album based on Gran Turismo.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wide-open-space-remastered-single/1584231195" >}}<br>

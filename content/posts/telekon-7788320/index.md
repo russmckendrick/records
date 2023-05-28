@@ -16,10 +16,12 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="telekon-7788320.jpg" title="Telekon by Gary Numan" >}}
+Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. This Wreckage
 2. The Aircrash Bureau
 3. Telekon
@@ -38,13 +40,6 @@ styles: ["New Wave", "Synth-pop"]
 16. Photograph
 17. Remind Me To Smile (USA Mix)
 18. I Die: You Die (Alternate Mix)
-
-<!-- section break -->
-
-Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/telekon/251679821" >}}<br>

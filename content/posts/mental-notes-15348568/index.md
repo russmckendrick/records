@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="mental-notes-15348568.jpg" title="Mental Notes by Split Enz" >}}
+Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Late Last Night
 2. Walking Down A Road
 3. Titus
@@ -37,13 +39,6 @@ styles: ["Prog Rock", "Art Rock"]
 8. Matinee Idyll
 9. The Woman Who Loves You
 10. Mental Notes
-
-<!-- section break -->
-
-Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}<br>

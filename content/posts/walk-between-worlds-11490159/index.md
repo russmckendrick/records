@@ -20,10 +20,12 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="walk-between-worlds-11490159.jpg" title="Walk Between Worlds by Simple Minds" >}}
+Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Magic
 2. Summer
 3. Utopia
@@ -35,13 +37,6 @@ styles: ["Pop Rock"]
 9.  Silent Kiss
 10. Angel Underneath My Skin
 11. Dirty Old Town (Live)
-
-<!-- section break -->
-
-Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple Minds, released in February 2018 by BMG.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1311990803" >}}<br>

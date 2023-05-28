@@ -20,10 +20,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 ---
 
-{{< img src="paris-1919-8726836.jpg" title="Paris 1919 by John Cale" >}}
+Paris 1919 is the third solo studio album by Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
+The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Child's Christmas In Wales (3:19)
 2. Hanky Panky Nohow (2:43)
 3. The Endless Plain Of Fortune (4:10)
@@ -33,14 +36,6 @@ styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 7. Graham Greene (2:59)
 8. Half Past France (4:17)
 9. Antartica Starts Here (2:53)
-
-<!-- section break -->
-
-Paris 1919 is the third solo studio album by Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
-The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}<br>

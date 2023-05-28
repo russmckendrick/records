@@ -17,10 +17,12 @@ genres: ["Funk / Soul"]
 styles: ["Neo Soul", "Funk"]
 ---
 
-{{< img src="building-a-beginning-9310602.jpg" title="Building A Beginning by Jamie Lidell" >}}
+A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Building A Beginning
 2. Julian
 3. I Live To Make You Smile
@@ -35,13 +37,6 @@ styles: ["Neo Soul", "Funk"]
 12. I Stay Inside
 13. Precious Years
 14. Don't Let Me Let You Go
-
-<!-- section break -->
-
-A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/building-a-beginning/1133940590" >}}<br>

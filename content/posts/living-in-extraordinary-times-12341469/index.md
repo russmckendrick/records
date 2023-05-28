@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="living-in-extraordinary-times-12341469.jpg" title="Living In Extraordinary Times  by James" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hank
 2. Coming Home (Pt.2)
 3. Leviathan
@@ -44,10 +43,6 @@ styles: ["Alternative Rock"]
 10. Better Than That
 11. Mask
 12. What's It All About
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1382647329" >}}<br>

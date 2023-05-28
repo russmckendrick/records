@@ -44,10 +44,16 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 ---
 
-{{< img src="the-endless-river-6268164.jpg" title="The Endless River by Pink Floyd" >}}
+The Endless River is the fifteenth studio album by the English rock band Pink Floyd, released in November 2014 by Parlophone Records in Europe and Columbia Records in the rest of the world. It was the third Pink Floyd album recorded under the leadership of guitarist David Gilmour after the departure of bassist Roger Waters in 1985, and the first following the death of keyboardist Richard Wright in 2008, who appears posthumously. Gilmour said it will be the final Pink Floyd album.
+The Endless River comprises mainly instrumental and ambient music composed on material recorded during sessions for the previous Pink Floyd album, The Division Bell (1994). Additional material was recorded in 2013 and 2014 on Gilmour's Astoria boat studio and in Medina Studios in Hove, England. It was produced by Gilmour, Youth, Andy Jackson and Phil Manzanera. Only one track, "Louder than Words", has lead vocals. After the death of longtime Pink Floyd artist Storm Thorgerson in 2013, the cover was created by artist Ahmed Emad Eldin, design company Stylorouge and Aubrey Powell, co-founder of Thorgerson's design company Hipgnosis.
+The Endless River was promoted with the "Louder than Words" single and artwork installations in cities around the world. It became the most pre-ordered album of all time on Amazon UK and debuted at number one in several countries. The vinyl edition was the fastest-selling UK vinyl release since 1997. The album received mixed reviews: some critics praised the nostalgic mood, while others found it unambitious or meandering.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Things Left Unsaid (4:23)
 2. It's What We Do (6:18)
 3. Ebb And Flow (1:45)
@@ -66,17 +72,6 @@ styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 16. Eyes To Pearls (1:51)
 17. Surfacing (2:46)
 18. Louder Than Words (6:20)
-
-<!-- section break -->
-
-The Endless River is the fifteenth studio album by the English rock band Pink Floyd, released in November 2014 by Parlophone Records in Europe and Columbia Records in the rest of the world. It was the third Pink Floyd album recorded under the leadership of guitarist David Gilmour after the departure of bassist Roger Waters in 1985, and the first following the death of keyboardist Richard Wright in 2008, who appears posthumously. Gilmour said it will be the final Pink Floyd album.
-The Endless River comprises mainly instrumental and ambient music composed on material recorded during sessions for the previous Pink Floyd album, The Division Bell (1994). Additional material was recorded in 2013 and 2014 on Gilmour's Astoria boat studio and in Medina Studios in Hove, England. It was produced by Gilmour, Youth, Andy Jackson and Phil Manzanera. Only one track, "Louder than Words", has lead vocals. After the death of longtime Pink Floyd artist Storm Thorgerson in 2013, the cover was created by artist Ahmed Emad Eldin, design company Stylorouge and Aubrey Powell, co-founder of Thorgerson's design company Hipgnosis.
-The Endless River was promoted with the "Louder than Words" single and artwork installations in cities around the world. It became the most pre-ordered album of all time on Amazon UK and debuted at number one in several countries. The vinyl edition was the fastest-selling UK vinyl release since 1997. The album received mixed reviews: some critics praised the nostalgic mood, while others found it unambitious or meandering.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-endless-river/919664303" >}}<br>

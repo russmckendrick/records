@@ -23,10 +23,12 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="out-of-the-blue-11176316.jpg" title="Out Of The Blue by Electric Light Orchestra" >}}
+Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 28 October 1977. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Turn To Stone
 2. It's Over
 3. Sweet Talkin'  Woman
@@ -41,13 +43,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 12. The Whale
 13. Birmingham Blues
 14. Wild West Hero
-
-<!-- section break -->
-
-Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 28 October 1977. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-the-blue/1054525002" >}}<br>

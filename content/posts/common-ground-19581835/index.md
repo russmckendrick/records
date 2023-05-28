@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="common-ground-19581835.jpg" title="Common Ground by Big Big Train" >}}
+Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Strangest Times (5:08)
 2. All The Love We Can Give (8:07)
 3. Black With Ink (7:22)
@@ -38,15 +42,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. Common Ground (4:57)
 8. Atlantic Cable (15:05)
 9. Endnotes (6:55)
-
-<!-- section break -->
-
-Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/common-ground/1564398164" >}}<br>

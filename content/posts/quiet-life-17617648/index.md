@@ -18,10 +18,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave"]
 ---
 
-{{< img src="quiet-life-17617648.jpg" title="Quiet Life by Japan" >}}
+Quiet Life is the third studio album by English new wave band Japan, first released on 17 November 1979 in Canada by record label Hansa (it would be released in the UK some weeks later).
+The album was a transition from the glam rock-influenced style of previous albums to a synth-pop style. Though sales were initially slow, Quiet Life was the band's first album to chart and was later certified Gold by the British Phonographic Industry for sales in excess of 100,000 copies.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Quiet Life (4:52)
 2. Fall In Love With Me (4:37)
 3. Despair (6:01)
@@ -30,14 +33,6 @@ styles: ["New Wave"]
 6. All Tomorrow's Parties (5:44)
 7. Alien (5:07)
 8. The Other Side Of Life (7:30)
-
-<!-- section break -->
-
-Quiet Life is the third studio album by English new wave band Japan, first released on 17 November 1979 in Canada by record label Hansa (it would be released in the UK some weeks later).
-The album was a transition from the glam rock-influenced style of previous albums to a synth-pop style. Though sales were initially slow, Quiet Life was the band's first album to chart and was later certified Gold by the British Phonographic Industry for sales in excess of 100,000 copies.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quiet-life-deluxe-edition/1552770369" >}}<br>

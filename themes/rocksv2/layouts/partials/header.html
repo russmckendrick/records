@@ -1,0 +1,45 @@
+<nav class="bg-white border-gray-200 dark:bg-gray-900">
+  <div
+    class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
+    <a href="/" class="flex items-center">
+      <div class="text-3xl font-bold text-indigo-600 tracking-tight uppercase">
+        <span
+          class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
+          Mckendrick
+        </span>
+        Rocks
+      </div>
+    </a>
+    <div class="flex items-center">
+      {{ range .Site.Menus.end }}
+      <a href="{{ .URL }}">
+        <button type="button" class="ml-2 rounded-full bg-{{ .Pre }}-600 px-3 py-1 text-small font-semibold text-white shadow-sm hover:bg-{{ .Pre }}-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-{{ .Pre }}-600">{{
+          $icon := printf "<i class=\"%s\"></i>" .Identifier }}{{ $icon |
+          safeHTML }}
+          {{ if .Name }}{{ $text := print .Name | safeHTML }}{{ $text }}{{ end
+          }}
+        </button>
+      </a>
+      {{ end }}
+      <button id="theme-toggle" type="button" class="ml-2 rounded-full bg-gray-800 dark:bg-gray-500 px-3 py-1 text-small font-semibold text-white shadow-sm hover:bg-gray-500 dark:hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-800 dark:focus-visible:outline-gray-500">
+        <i class="fa-solid fa-moon hidden w-5 h-5" id="theme-toggle-dark-icon"></i>
+        <i class="fa-solid fa-sun hidden w-5 h-5" id="theme-toggle-light-icon"></i>
+      </button>
+    </div>
+  </div>
+</nav>
+<nav class="bg-gray-50 dark:bg-gray-700">
+  <div class="max-w-screen-xl px-4 py-3 mx-auto">
+    <div class="flex items-center">
+      <ul class="flex flex-row font-medium mt-0 mr-6 space-x-8 text-sm">
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}"
+            class="text-gray-900 dark:text-white hover:underline">{{ $text :=
+            print .Name | safeHTML }} {{ $text }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>

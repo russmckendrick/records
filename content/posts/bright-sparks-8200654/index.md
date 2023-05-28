@@ -20,10 +20,9 @@ genres: ["Electronic"]
 styles: ["Experimental"]
 ---
 
-{{< img src="bright-sparks-8200654.jpg" title="Bright Sparks by I Monster" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Fantastic Tale Of Dr. Moog And The Birth Of The Shimmering Beast (5:19)
 2. The Uncertain Contents Of The Buchla Box (6:01)
 3. Alan R. Pearlman And The ARPiological Exploration Of The Cosmos (6:17)
@@ -32,10 +31,6 @@ styles: ["Experimental"]
 6. London, 1969 - The Wizards Of Putney Deny Accusations Of Unholy Enchantment At The Electronic Music Studios (EMS) (5:13)
 7. Electronic Dream Plant (EDP) - The Dirt In The Ointment (3:50)
 8. The Further Adventures Of K. Freeman And His Incredible Machine Of A Thousand Strings (5:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bright-sparks/1087348675" >}}<br>

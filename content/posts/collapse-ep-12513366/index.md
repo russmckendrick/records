@@ -23,22 +23,17 @@ genres: ["Electronic"]
 styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 ---
 
-{{< img src="collapse-ep-12513366.jpg" title="Collapse EP by Aphex Twin" >}}
-
-<!-- section break -->
-
-1. T69 Collapse (5:21)
-2. 1st 44 (6:01)
-3. MT1 t29r2 (6:00)
-4. Abundance10edit [2 R8's, FZ20m & A 909] (6:18)
-
-<!-- section break -->
-
 For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has been surprisingly prolific since his 2014 comeback. He’s toyed with robots (<i>Computer Controlled Acoustic Instruments pt2 EP</i>) and shown off rare synths (<i>Cheetah EP</i>), but on <i>Collapse EP</i>, he revels in the sheer thrill of gonzo beatmaking. The multi-part epic “T69 collapse” begins simply, with rubbery electro rhythms and wistful synths, but halfway through, the drums go haywire and threaten to pull the track apart at any moment. “Pthex” follows a similarly fraught path, starting with gentle echoes of James’ early-’90s ambient works before tangling up in knots. And the streamlined “1st 44” strips back to virtually nothing but shuddering kicks and claps; it’s one of his heaviest drum tracks ever.
         
         
     
 
+
+## Tracklisting
+1. T69 Collapse (5:21)
+2. 1st 44 (6:01)
+3. MT1 t29r2 (6:00)
+4. Abundance10edit [2 R8's, FZ20m & A 909] (6:18)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/collapse-ep/1418633340" >}}<br>

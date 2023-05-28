@@ -18,10 +18,9 @@ genres: ["Electronic", "Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
-{{< img src="dubber-side-of-the-moon-6664281.jpg" title="Dubber Side Of The Moon by Easy Star All-Stars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Speak To Me / Breathe (In The Air) (3:52)
 2. On The Run (4:04)
 3. Time (5:46)
@@ -31,10 +30,6 @@ styles: ["Reggae", "Dub"]
 7. Any Colour You Like (4:04)
 8. Brain Damage (4:28)
 9. Eclipse (2:29)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042" >}}<br>

@@ -30,10 +30,14 @@ genres: ["Electronic"]
 styles: ["Electro"]
 ---
 
-{{< img src="the-mix-10035766.jpg" title="The Mix by Kraftwerk" >}}
+The Mix is the tenth studio album by the German electronic music band Kraftwerk. It was released on 11 June 1991 by Kling Klang and EMI in Europe and by Elektra Records in North America. It has entirely re-arranged and re-recorded versions of a selection of songs which had originally appeared on Kraftwerk's albums Autobahn (1974) to Electric Café (1986). Some of the songs, such as "The Robots" and "Radioactivity", have new additional melodies and/or lyrics.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Robots (8:59)
 2. Computer Love (6:39)
 3. Pocket Calculator (4:32)
@@ -45,15 +49,6 @@ styles: ["Electro"]
 9. Metal On Metal (4:59)
 10. Home Computer (8:03)
 11. Music Non Stop (6:38)
-
-<!-- section break -->
-
-The Mix is the tenth studio album by the German electronic music band Kraftwerk. It was released on 11 June 1991 by Kling Klang and EMI in Europe and by Elektra Records in North America. It has entirely re-arranged and re-recorded versions of a selection of songs which had originally appeared on Kraftwerk's albums Autobahn (1974) to Electric Café (1986). Some of the songs, such as "The Robots" and "Radioactivity", have new additional melodies and/or lyrics.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-mix-2009-remaster/726287427" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Symphonic Rock"]
 ---
 
-{{< img src="the-best-of-emerson-lake-palmer-7394100.jpg" title="The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hoedown
 2. Lucky Man
 3. Karn Evil 9 (1st Impression, Part 2)
@@ -34,10 +33,6 @@ styles: ["Classic Rock", "Symphonic Rock"]
 7. Still....You Turn Me On
 8. Tiger In A Spotlight
 9. Trilogy
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1208718941" >}}<br>

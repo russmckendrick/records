@@ -21,10 +21,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="the-punishment-of-luxury-10776229.jpg" title="The Punishment Of Luxury by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Punishment Of Luxury
 2. Isotype
 3. Robot Man
@@ -37,10 +36,6 @@ styles: ["Synth-pop"]
 10. La Mitrailleuse
 11. Ghost Star
 12. The View From Here
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-punishment-of-luxury/1235723435" >}}<br>

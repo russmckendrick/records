@@ -19,10 +19,9 @@ genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="the-brits-1991-the-magic-of-british-music-1307225.jpg" title="The Brits 1991 (The Magic Of British Music)  by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sacrifice
 2. Nothing Compares 2 U
 3. Praying For Time
@@ -52,10 +51,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 27. Love Shack
 28. Live Together
 29. Life's What You Make It
-
-<!-- section break -->
-
-
 
 
 

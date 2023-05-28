@@ -34,10 +34,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="souvenir-14216215.jpg" title="Souvenir by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Electricity
 2. Red Frame/White Light
 3. Messages
@@ -78,10 +77,6 @@ styles: ["Synth-pop"]
 38. The Punishment Of Luxury
 39. What Have We Done
 40. Don't Go
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/souvenir/1475850622" >}}<br>

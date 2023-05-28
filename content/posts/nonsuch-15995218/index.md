@@ -28,10 +28,14 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="nonsuch-15995218.jpg" title="Nonsuch by XTC" >}}
+Nonsuch (styled as NONSVCH.) is the 12th studio album by the English band XTC, released 27 April 1992 on Virgin Records. The follow-up to Oranges & Lemons (1989), Nonsuch is a relatively less immediate and more restrained sounding album, carrying the band's psychedelic influences into new musical styles, and displaying a particular interest in orchestral arrangements. The LP received critical acclaim, charted at number 28 in the UK Albums Chart, and number 97 on the US Billboard 200, as well as topping Rolling Stone's College album chart.
+Produced by Gus Dudgeon, 13 of the album's 17 tracks were written by guitarist/leader Andy Partridge, with the rest by bassist Colin Moulding, while Dave Mattacks of Fairport Convention was recruited on drums. Unlike previous XTC albums, Partridge composed many of his songs using a keyboard. Due to the album's lyric content, which covers topics ranging from love and humanity to the Gulf War and P. T. Barnum, Nonsuch has been described as the band's darkest and most political album. The cover depicts an illustration of the former Nonsuch Palace, chosen after the band had settled on the title "nonesuch", which Partridge felt summed up the album's variety of music. It was their third double album when issued on vinyl.
+Lead single "The Disappointed" reached number 33 in the UK and was nominated for an Ivor Novello award, while "The Ballad of Peter Pumpkinhead" was the band's second single to top the US Modern Rock Tracks, later becoming a UK top 40 hit when covered by the Canadian band Crash Test Dummies. XTC soon left Virgin Records in the UK following a dispute over the cancelled third single, "Wrapped in Grey". Nonsuch was also nominated for the 1993 Grammy Award for Best Alternative Music Album. In 2013, a remixed and expanded version of the album was released. Mixed by Steven Wilson, the edition included new stereo, surround sound and instrumental mixes of the original album along with various demos and outtakes.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Ballad Of Peter Pumpkinhead (5:00)
 2. My Bird Performs (3:51)
 3. Dear Madam Barnum (2:53)
@@ -49,15 +53,6 @@ styles: ["Pop Rock"]
 15. The Ugly Underneath (3:54)
 16. Bungalow (2:49)
 17. Books Are Burning (4:51)
-
-<!-- section break -->
-
-Nonsuch (styled as NONSVCH.) is the 12th studio album by the English band XTC, released 27 April 1992 on Virgin Records. The follow-up to Oranges & Lemons (1989), Nonsuch is a relatively less immediate and more restrained sounding album, carrying the band's psychedelic influences into new musical styles, and displaying a particular interest in orchestral arrangements. The LP received critical acclaim, charted at number 28 in the UK Albums Chart, and number 97 on the US Billboard 200, as well as topping Rolling Stone's College album chart.
-Produced by Gus Dudgeon, 13 of the album's 17 tracks were written by guitarist/leader Andy Partridge, with the rest by bassist Colin Moulding, while Dave Mattacks of Fairport Convention was recruited on drums. Unlike previous XTC albums, Partridge composed many of his songs using a keyboard. Due to the album's lyric content, which covers topics ranging from love and humanity to the Gulf War and P. T. Barnum, Nonsuch has been described as the band's darkest and most political album. The cover depicts an illustration of the former Nonsuch Palace, chosen after the band had settled on the title "nonesuch", which Partridge felt summed up the album's variety of music. It was their third double album when issued on vinyl.
-Lead single "The Disappointed" reached number 33 in the UK and was nominated for an Ivor Novello award, while "The Ballad of Peter Pumpkinhead" was the band's second single to top the US Modern Rock Tracks, later becoming a UK top 40 hit when covered by the Canadian band Crash Test Dummies. XTC soon left Virgin Records in the UK following a dispute over the cancelled third single, "Wrapped in Grey". Nonsuch was also nominated for the 1993 Grammy Award for Best Alternative Music Album. In 2013, a remixed and expanded version of the album was released. Mixed by Steven Wilson, the edition included new stereo, surround sound and instrumental mixes of the original album along with various demos and outtakes.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nonsuch/724439635" >}}<br>

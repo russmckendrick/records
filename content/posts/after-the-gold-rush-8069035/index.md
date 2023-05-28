@@ -23,10 +23,16 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="after-the-gold-rush-8069035.jpg" title="After The Gold Rush by Neil Young" >}}
+After the Gold Rush is the third studio album by the Canadian-American musician Neil Young, released in September 1970 on Reprise Records, catalogue number RS 6383. It is one of four high-profile solo albums released by the members of folk rock group Crosby, Stills, Nash & Young in the wake of their chart-topping 1970 album Déjà Vu. Young's album consists mainly of country folk music along with several rock tracks, including "Southern Man". The material was inspired by the unproduced Dean Stockwell-Herb Bermann screenplay After the Gold Rush.
+After the Gold Rush peaked at number eight on the Billboard Top Pop Albums chart; the two singles taken from the album, "Only Love Can Break Your Heart" and "When You Dance I Can Really Love", made it to number 33 and number 93 respectively on the Billboard Hot 100. Despite a mixed initial reaction, the album has since appeared on a number of greatest albums of all time lists.
+In 2014, the album was inducted into the Grammy Hall of Fame.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Tell Me Why (2:57)
 2. After The Gold Rush (3:46)
 3. Only Love Can Break Your Heart (3:09)
@@ -38,17 +44,6 @@ styles: ["Folk Rock", "Country Rock"]
 9. When You Dance, I Can Really Love (3:45)
 10. I Believe In You (3:27)
 11. Cripple Creek Ferry (1:34)
-
-<!-- section break -->
-
-After the Gold Rush is the third studio album by the Canadian-American musician Neil Young, released in September 1970 on Reprise Records, catalogue number RS 6383. It is one of four high-profile solo albums released by the members of folk rock group Crosby, Stills, Nash & Young in the wake of their chart-topping 1970 album Déjà Vu. Young's album consists mainly of country folk music along with several rock tracks, including "Southern Man". The material was inspired by the unproduced Dean Stockwell-Herb Bermann screenplay After the Gold Rush.
-After the Gold Rush peaked at number eight on the Billboard Top Pop Albums chart; the two singles taken from the album, "Only Love Can Break Your Heart" and "When You Dance I Can Really Love", made it to number 33 and number 93 respectively on the Billboard Hot 100. Despite a mixed initial reaction, the album has since appeared on a number of greatest albums of all time lists.
-In 2014, the album was inducted into the Grammy Hall of Fame.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush-50th-anniversary-bonus-tracks-edition/1541168056" >}}<br>

@@ -30,10 +30,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 ---
 
-{{< img src="a-steady-drip-drip-drip-15558625.jpg" title="A Steady Drip, Drip, Drip by Sparks" >}}
+A Steady Drip, Drip, Drip is the 24th studio album by American rock group Sparks. Recorded in gaps between Sparks' film projects, the album uses a full rock-group format to draw on the band's full range of musical styles and was universally acclaimed by critics, who praised both its lyrical and melodic content.The album's digital release on May 15, 2020 through BMG Rights Management entered the UK iTunes chart at number 8 – also charting in the US, Germany, France and Canada – and the UK Official Album Downloads Chart Top 100 at no. 13.The release of the physical formats was delayed because of the COVID-19 pandemic and only followed on July 3, 2020. Accompanied by the YouTube premiere of a Cyriak Harris music video for the song "The Existential Threat", the physical release saw A Steady Drip, Drip, Drip enter the UK charts at number 7, making this the group's second consecutive UK Top 10 studio album and their fourth overall. The album also made the Billboard 200 list of the top albums in the US, the first time Sparks has had a hit album in America since In Outer Space in 1983.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. All That
 2. I'm Toast
 3. Lawnmower
@@ -48,13 +50,6 @@ styles: ["New Wave", "Synth-pop", "Pop Rock", "Art Rock"]
 12. The Existential Threat
 13. Nothing Travels Faster Than The Speed Of Light
 14. Please Don't Fuck Up My World
-
-<!-- section break -->
-
-A Steady Drip, Drip, Drip is the 24th studio album by American rock group Sparks. Recorded in gaps between Sparks' film projects, the album uses a full rock-group format to draw on the band's full range of musical styles and was universally acclaimed by critics, who praised both its lyrical and melodic content.The album's digital release on May 15, 2020 through BMG Rights Management entered the UK iTunes chart at number 8 – also charting in the US, Germany, France and Canada – and the UK Official Album Downloads Chart Top 100 at no. 13.The release of the physical formats was delayed because of the COVID-19 pandemic and only followed on July 3, 2020. Accompanied by the YouTube premiere of a Cyriak Harris music video for the song "The Existential Threat", the physical release saw A Steady Drip, Drip, Drip enter the UK charts at number 7, making this the group's second consecutive UK Top 10 studio album and their fourth overall. The album also made the Billboard 200 list of the top albums in the US, the first time Sparks has had a hit album in America since In Outer Space in 1983.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-steady-drip-drip-drip/1498601489" >}}<br>

@@ -21,17 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Breakbeat", "Indie Rock"]
 ---
 
-{{< img src="x-y-zee-432985.jpg" title="X Y & Zee by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. X Y & Zee (The Intergalactic Mix)
 2. X Y & Zee (The Electric Sunshine Mix)
 3. X Y & Zee (Sensory Amplification Mix)
-
-<!-- section break -->
-
-
 
 
 

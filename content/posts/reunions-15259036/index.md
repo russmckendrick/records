@@ -30,23 +30,6 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="reunions-15259036.jpg" title="Reunions by Jason Isbell And The 400 Unit" >}}
-
-<!-- section break -->
-
-1. What've I Done To Help
-2. Dreamsicle
-3. Only Children
-4. Overseas
-5. Running With Our Eyes Closed
-6. River
-7. Be Afraid
-8. St. Peter's Autograph
-9. It Gets Easier
-10. Letting You Go
-
-<!-- section break -->
-
 As Jason Isbell inched deeper and deeper into writing what would become <i>Reunions</i>, he noticed a theme begin to emerge in its songs. “I looked around and thought, ‘There’s so many ghosts here,’” he tells Apple Music. “To me, ghosts always mean a reunion with somebody you’ve known before, or yourself coming back to tell you something that you might have missed.” It’s possible that the Alabama native had missed more than most: Starting with a promising but fairly turbulent stint as a member of Drive-By Truckers in the 2000s, the first act and decade of the Jason Isbell origin story had been largely defined by his kryptonite-like relationship with alcohol. His fourth LP since becoming sober in 2012, <i>Reunions</i> is another set of finely rendered rock and roots music that finds Isbell—now A Great American Songwriter—making peace with the person he used to be. It’s an album whose scenes of love and anger and grief and parenthood are every bit as rich as its sonics. “Up until the last couple of years, I didn’t necessarily feel safe because I thought there was a risk that I might fall back into those old ways,” he says of revisiting his past. “These songs and the way the record sounds reflects something that was my intention 15 or 12 years ago, but I just didn’t have the ability and the focus and the means to get there as a songwriter or a recording artist.” Here, he takes us inside each song on the album.<br /> 
 <b>What’ve I Done to Help</b>
 “It seems like this song set the right mood for the record. It's a little bit indicting of myself, but I think it's also a positive message: Most of what I'm talking about on this album is trying to be as aware as possible and not just get lost in your own selfish bubble, because sometimes the hardest thing to do is to be honest with yourself. Incidentally, I started singing this song as I was driving around close to my house. [The chorus] was just something that I found myself repeating over and over to myself. Of course, all that happened before the virus came through, but I was writing, I think, about pre-existing social conditions that really the virus just exacerbated or at least turned a light on. We had a lot of division between the people that have and the people that don't, and I think it's made pretty obvious now.”<br />
@@ -72,6 +55,18 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
         
     
 
+
+## Tracklisting
+1. What've I Done To Help
+2. Dreamsicle
+3. Only Children
+4. Overseas
+5. Running With Our Eyes Closed
+6. River
+7. Be Afraid
+8. St. Peter's Autograph
+9. It Gets Easier
+10. Letting You Go
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/reunions/1496052578" >}}<br>

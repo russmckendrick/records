@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="infernal-love-18393268.jpg" title="Infernal Love by Therapy?" >}}
+Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Their third album on a major label, it was released on 12 June 1995 on A&M Records. The album was recorded at Real World Studios in Box, Wiltshire from January to March 1995.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Epilepsy
 2. Stories
 3. A Moment Of Clarity
@@ -37,13 +39,6 @@ styles: ["Alternative Rock"]
 9. Loose
 10. Diane
 11. 30 Seconds
-
-<!-- section break -->
-
-Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Their third album on a major label, it was released on 12 June 1995 on A&M Records. The album was recorded at Real World Studios in Box, Wiltshire from January to March 1995.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/infernal-love-deluxe-edition/1443322426" >}}<br>

@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="stephen-malkmus-11761123.jpg" title="Stephen Malkmus by Stephen Malkmus" >}}
+Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He currently performs with Stephen Malkmus and the Jicks and as a solo artist.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Book
 2. Phantasies
 3. Jo Jo's Jacket
@@ -37,13 +39,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Vague Space
 11. Jenny & The Ess-Dog
 12. Deado
-
-<!-- section break -->
-
-Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He currently performs with Stephen Malkmus and the Jicks and as a solo artist.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stephen-malkmus/306715054" >}}<br>

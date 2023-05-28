@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="the-later-years-1987-2019-14462719.jpg" title="The Later Years 1987-2019 by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shine On You Crazy Diamond, Parts 1-5 (Live At Knebworth 1990)
 2. Marooned Jam (The Division Bell Sessions)
 3. One Slip (2019 Remix)
@@ -39,10 +38,6 @@ styles: ["Prog Rock", "Art Rock"]
 10. On The Turning Away (2019 Remix)
 11. Wish You Were Here (Live At Knebworth 1990)
 12. Run Like Hell (Delicate Sound Of Thunder 2019 Remix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-later-years-1987-2019/1477509316" >}}<br>

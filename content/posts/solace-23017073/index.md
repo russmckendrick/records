@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
 
-{{< img src="solace-23017073.jpg" title="Solace by Held By Trees" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Next To Silence
 2. In The Trees
 3. Rain After Sun
@@ -36,10 +35,6 @@ styles: ["Post Rock", "Experimental"]
 6. The Tree Of Life
 7. Mysterium
 8. The New Earth
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/solace/1615429505" >}}<br>

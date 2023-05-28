@@ -19,10 +19,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
 
-{{< img src="one-in-a-thousand-26209652.jpg" title="One In A Thousand by Obey Robots" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Not The Quiet Type
 2. One Of These Days
 3. Elephant
@@ -33,10 +32,6 @@ styles: ["Alternative Rock", "Indie Pop"]
 8. Super Connected
 9. Let It Snow
 10. One In A Thousand
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}<br>

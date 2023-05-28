@@ -17,18 +17,13 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="a-tree-as-old-as-me-15233938.jpg" title="A Tree As Old As Me by Nordic Giants" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shine
 2. B.O.A.T.S
 3. The Seed
 4. Through A Lens Darkly
-
-<!-- section break -->
-
-
 
 
 ## Spotify

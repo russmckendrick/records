@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="fold-your-hands-child-you-walk-like-a-peasant-6172190.jpg" title="Fold Your Hands Child, You Walk Like A Peasant by Belle & Sebastian" >}}
+Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Fought In A War
 2. The Model
 3. Beyond The Sunrise
@@ -31,13 +33,6 @@ styles: ["Indie Rock"]
 9. Women's Realm
 10. Family Tree
 11. There's Too Much Love
-
-<!-- section break -->
-
-Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scottish group Belle & Sebastian released in 2000.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fold-your-hands-child-you-walk-like-a-peasant/1669033817" >}}<br>

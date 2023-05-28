@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-{{< img src="i-just-can-t-stop-it-3723205.jpg" title="I Just Can't Stop It by The Beat" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mirror In The Bathroom (3:07)
 2. Hands Off...She's Mine (2:59)
 3. Two Swords (2:18)
@@ -39,10 +38,6 @@ styles: ["Ska"]
 12. Can't Get Used To Losing You (3:05)
 13. Best Friend (3:02)
 14. Jackpot (4:19)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-just-cant-stop-it/1215346597" >}}<br>

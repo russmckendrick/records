@@ -24,10 +24,12 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Texas Blues"]
 ---
 
-{{< img src="the-essential-stevie-ray-vaughan-and-double-trouble-9479922.jpg" title="The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan & Double Trouble" >}}
+This double album is the ultimate anthology of blues rock guitar genius Stevie Ray Vaughan's brilliant but tragically brief career. With a discography spanning just eight years, the Texas axeman almost single-handedly brought the blues back into the mainstream with searing shuffles like "Pride and Joy" and tender instrumentals like the aqueous "Lenny," which simultaneously channeled Jimi Hendrix and Albert King. And he could make the funk flow when he wanted, as shown by tracks like "Couldn't Stand the Weather."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Struck Baby
 2. Pride And Joy
 3. Texas Flood
@@ -45,13 +47,6 @@ styles: ["Blues Rock", "Texas Blues"]
 15. Tightrope
 16. Long Way From Home (The Vaughan Brothers)
 17. Life By The Drop
-
-<!-- section break -->
-
-This double album is the ultimate anthology of blues rock guitar genius Stevie Ray Vaughan's brilliant but tragically brief career. With a discography spanning just eight years, the Texas axeman almost single-handedly brought the blues back into the mainstream with searing shuffles like "Pride and Joy" and tender instrumentals like the aqueous "Lenny," which simultaneously channeled Jimi Hendrix and Albert King. And he could make the funk flow when he wanted, as shown by tracks like "Couldn't Stand the Weather."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-stevie-ray-vaughan-and-double-trouble/193063151" >}}<br>

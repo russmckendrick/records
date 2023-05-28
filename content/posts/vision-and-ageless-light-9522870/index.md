@@ -20,20 +20,15 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
-{{< img src="vision-and-ageless-light-9522870.jpg" title="Vision And Ageless Light by EYE" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Book Of The Dead (3:29)
 2. Kill The Slavemaster (6:06)
 3. Searching (5:26)
 4. Dweller Of The Twilight Void (3:59)
 5. As Sure As The Sun (4:43)
 6. As Sure As The Sun (Continued) (22:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vision-and-ageless-light/1202059458" >}}<br>

@@ -68,10 +68,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-delerium-years-1991-1993-9719328.jpg" title="The Delerium Years 1991-1993 by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. On The Sunday Of Life
 2. Music For The Head (2:40)
 3. Jupiter Island (6:08)
@@ -131,10 +130,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 57. Out (8:58)
 58. Yellow Hedgerow Dreamscape (10:45)
 59. Music For The Head (1:22)
-
-<!-- section break -->
-
-
 
 
 

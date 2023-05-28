@@ -40,10 +40,9 @@ genres: ["Electronic"]
 styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
 
-{{< img src="thirty-something-24033002.jpg" title="Thirty-Something by Orbital" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Smiley (7:08)
 2. Satan (30-Something Years Later Mix) (7:10)
 3. Where Is It Going (Feat. Stephen Hawking) (3:02)
@@ -61,10 +60,6 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 15. Belfast (ANNA Techno Remix) (7:22)
 16. The Box (Joris Voorn Remix) (6:42)
 17. Are We Here? (Shanti Celeste Remix) (5:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/30-something/1619288979" >}}<br>

@@ -17,10 +17,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="hold-your-fire-7897222.jpg" title="Hold Your Fire by Rush" >}}
+Anyone acquainted with the epic grandeur of this progressive rock trio's work in the ‘70s might be surprised to hear Rush so comfortable in the pop-rock world of the ‘80s. Yet, it makes great sense that a band constantly looking to re-invent itself would find comfort in the emergent technologies of the era. Geddy Lee's voice frequently comes down from the helium-screech end of his range to embrace a warmer, human tone and it's his extra keyboard washes that layer the intricacies of the songs. Drummer Neil Peart can still be heard functioning as both the steady metronomic beat box and a percussive wunderkind consistently surprising with his inventive fills. But the real emphasis here is on songwriting. "Time Stand Still" with ‘Til Tuesday's Aimee Mann doubling up the vocals, "Open Secrets," and "Turn the Page" are among the group's most rewarding. "Force Ten" is a techno-charged hard rocker that recalls the band's fiery early edge. "Lock and Key" and "Mission" use ethereal textures underneath rock brawn.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Force Ten (4:28)
 2. Time Stand Still (5:07)
 3. Open Secrets (5:37)
@@ -31,14 +34,6 @@ styles: ["Pop Rock", "Prog Rock"]
 8. Turn The Page (4:53)
 9. Tai Shan (4:14)
 10. High Water (5:32)
-
-<!-- section break -->
-
-Anyone acquainted with the epic grandeur of this progressive rock trio's work in the ‘70s might be surprised to hear Rush so comfortable in the pop-rock world of the ‘80s. Yet, it makes great sense that a band constantly looking to re-invent itself would find comfort in the emergent technologies of the era. Geddy Lee's voice frequently comes down from the helium-screech end of his range to embrace a warmer, human tone and it's his extra keyboard washes that layer the intricacies of the songs. Drummer Neil Peart can still be heard functioning as both the steady metronomic beat box and a percussive wunderkind consistently surprising with his inventive fills. But the real emphasis here is on songwriting. "Time Stand Still" with ‘Til Tuesday's Aimee Mann doubling up the vocals, "Open Secrets," and "Turn the Page" are among the group's most rewarding. "Force Ten" is a techno-charged hard rocker that recalls the band's fiery early edge. "Lock and Key" and "Mission" use ethereal textures underneath rock brawn.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-your-fire-remastered/1442456383" >}}<br>

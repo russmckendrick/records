@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
 
-{{< img src="hellfire-23908982.jpg" title="Hellfire by Black Midi" >}}
+The most jarring part about listening to the London band black midi isn’t how much musical ground they cover—post-punk, progressive rock, breakneck jazz, cabaret—but the fact that they cover it all at once. A quasi-concept album that seems to have something to do with war (“Welcome to Hell”, “27 Questions”), or at least the violence men do more generally (“Sugar/Tzu”, “Dangerous Liaisons”), <i>Hellfire</i> isn’t an easy listen. But it’s funny (main character: Tristan Bongo), beautiful, at least in a garish, misanthropic way (the Neil Diamond bombast of “The Defence”), and so obviously playful in its intelligence that you just want to let it run over you. The first listen feels like being yelled at in a language you don’t understand. By the third, you’ll be yelling with them.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hellfire
 2. Hellfire
 3. Sugar/Tzu
@@ -43,14 +46,6 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 11. 27 Questions
 12. Flexi-disc
 13. Chondromalacia Patella (Live at Electrical Audio)
-
-<!-- section break -->
-
-The most jarring part about listening to the London band black midi isn’t how much musical ground they cover—post-punk, progressive rock, breakneck jazz, cabaret—but the fact that they cover it all at once. A quasi-concept album that seems to have something to do with war (“Welcome to Hell”, “27 Questions”), or at least the violence men do more generally (“Sugar/Tzu”, “Dangerous Liaisons”), <i>Hellfire</i> isn’t an easy listen. But it’s funny (main character: Tristan Bongo), beautiful, at least in a garish, misanthropic way (the Neil Diamond bombast of “The Defence”), and so obviously playful in its intelligence that you just want to let it run over you. The first listen feels like being yelled at in a language you don’t understand. By the third, you’ll be yelling with them.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}<br>

@@ -35,10 +35,12 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="fever-dreams-pts-1-4-22287256.jpg" title="Fever Dreams Pts 1-4 by Johnny Marr" >}}
+What comes next for Johnny Marr? The celebrated English musician is one of the best-known guitar players in modern history, from The Smiths to contemporary work with Hans Zimmer and even Modest Mouse. On his fourth solo album and first in four years, Marr threads the needle through his exhaustive exploration of genre. “Spirit Power and Soul” is soulful electro in the vein of The Cure—night and day from the spacey spoken-word interlude “Rubicon”, or the album’s frequent psychedelic detouring (Primal Scream’s Simone Marie plays bass on three of its tracks). His idiosyncratic, Smiths-ian riffs—those signature lead-rhythm guitar tones—abound (“Night and Day”, “God’s Gift”, the rollicking “Tenement Time”, which divides the first half of the double LP from the second.) Moody, expansive, filtered through a deep understanding of guitar-pop melody, the project asks its listeners to have an open and patient mind.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Part 1
 2. Spirit Power & Soul
 3. Receiver
@@ -59,13 +61,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. Ghoster
 19. The Whirl
 20. Human
-
-<!-- section break -->
-
-What comes next for Johnny Marr? The celebrated English musician is one of the best-known guitar players in modern history, from The Smiths to contemporary work with Hans Zimmer and even Modest Mouse. On his fourth solo album and first in four years, Marr threads the needle through his exhaustive exploration of genre. “Spirit Power and Soul” is soulful electro in the vein of The Cure—night and day from the spacey spoken-word interlude “Rubicon”, or the album’s frequent psychedelic detouring (Primal Scream’s Simone Marie plays bass on three of its tracks). His idiosyncratic, Smiths-ian riffs—those signature lead-rhythm guitar tones—abound (“Night and Day”, “God’s Gift”, the rollicking “Tenement Time”, which divides the first half of the double LP from the second.) Moody, expansive, filtered through a deep understanding of guitar-pop melody, the project asks its listeners to have an open and patient mind.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fever-dreams-pts-1-4/1588393496" >}}<br>

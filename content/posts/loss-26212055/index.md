@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-{{< img src="loss-26212055.jpg" title="Loss by Mull Historical Society" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Public Service Announcer
 2. Watching Xanadu
 3. Instead
@@ -33,10 +32,6 @@ styles: ["Acoustic", "Indie Rock"]
 10. Mull Historical Society
 11. Paper Houses
 12. Loss
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/loss/107694351" >}}<br>

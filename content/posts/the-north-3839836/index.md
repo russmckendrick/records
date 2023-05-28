@@ -24,25 +24,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-north-3839836.jpg" title="The North by Stars" >}}
-
-<!-- section break -->
-
-1. The Theory Of Relativity (4:26)
-2. Backlines (2:11)
-3. The North (4:52)
-4. Hold On When You Get Love And Let Go When You Give It (4:39)
-5. Through The Mines (4:10)
-6. Do You Want To Die Together? (3:12)
-7. Lights Changing Colour (3:06)
-8. The Loose Ends Will Make Knots (2:32)
-9. A Song Is A Weapon (3:12)
-10. Progress (3:50)
-11. The 400 (3:28)
-12. Walls (4:16)
-
-<!-- section break -->
-
 “If I ever win a Grammy, I’m gonna thank him,” Queens-born vocalist, producer and multi-disciplinary artist Yaya Bey tells Apple Music about one of the many songs on <i>Remember Your North Star</i> inspired by an unnamed ex-lover. He was a music industry player and that relationship, which lasted some three years, revealed many things to Bey—not just about the industry itself, but about who she is and what she values. “It was like, ‘Well, where am I going? Where am I headed and what should I remember?’ And I guess in trying to move towards love—love for self, love romantically, platonically—I’m remembering that that’s where I’m going. That’s my North Star.” 
 
 While that relationship opened her eyes to some of the industry’s—and men at large’s—more sordid practices, Bey managed to keep her joy intact, delivering a robust collection of music that spans Billie Holiday-inspired jazz crooning, lovers rock reggae and the bubbling form of South African house, amapiano. Within these spoonfuls of sugar, Bey supplies medicine aplenty, lambasting the intrinsically toxic systems that would, at one time, have her questioning her own self-worth. “To be a woman in this male-dominated industry means you get judged and valued by things that really don’t matter,” she says. “But I can’t have apprehension about what I do with my music because it’s the only place I have a voice. Being a Black woman, an up-and-coming artist, and especially in my thirties, the only place I have a voice is in my music. I can’t be silent there. I’ll just disappear.” Below, Bey takes us through some of the key tracks on <i>Remember Your North Star</i>, a project that casts her more visible than ever.
@@ -86,6 +67,20 @@ While that relationship opened her eyes to some of the industry’s—and men at
         
     
 
+
+## Tracklisting
+1. The Theory Of Relativity (4:26)
+2. Backlines (2:11)
+3. The North (4:52)
+4. Hold On When You Get Love And Let Go When You Give It (4:39)
+5. Through The Mines (4:10)
+6. Do You Want To Die Together? (3:12)
+7. Lights Changing Colour (3:06)
+8. The Loose Ends Will Make Knots (2:32)
+9. A Song Is A Weapon (3:12)
+10. Progress (3:50)
+11. The 400 (3:28)
+12. Walls (4:16)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/remember-your-north-star/1610345642" >}}<br>

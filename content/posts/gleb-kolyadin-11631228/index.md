@@ -22,10 +22,12 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="gleb-kolyadin-11631228.jpg" title="Gleb Kolyadin by Gleb Kolyadin" >}}
+Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексеевич Колядин, 11 July 1989, Leningrad, Russia) is a Russian pianist, composer, and arranger who mixes progressive rock and jazz fusion with neoclassical styles. He has released music both as a solo artist and as a member of the prog duo iamthemorning.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Insight
 2. Astral Architecture
 3. Kaleidoscope
@@ -38,13 +40,6 @@ styles: ["Prog Rock"]
 10. Penrose Stairs
 11. Storyteller 
 12. The Best Of Days
-
-<!-- section break -->
-
-Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексеевич Колядин, 11 July 1989, Leningrad, Russia) is a Russian pianist, composer, and arranger who mixes progressive rock and jazz fusion with neoclassical styles. He has released music both as a solo artist and as a member of the prog duo iamthemorning.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gleb-kolyadin/1316964513" >}}<br>

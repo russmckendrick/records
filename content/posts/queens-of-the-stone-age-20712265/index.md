@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---
 
-{{< img src="queens-of-the-stone-age-20712265.jpg" title="Queens Of The Stone Age by Queens Of The Stone Age" >}}
+Villains is the seventh studio album by American rock band Queens of the Stone Age, released on August 25, 2017 through Matador. The album was announced on June 14, with a teaser trailer taking the form of a comedy skit featuring the band performing a polygraph test with Liam Lynch. The first single, "The Way You Used to Do", was released the following day along with the announcement of a world tour. Villains is the first Queens of the Stone Age album to not feature any special guest musicians, the second to not feature Mark Lanegan, and the first to feature Jon Theodore as full time member of the band.The album received widely positive reviews and performed well commercially, topping Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards ceremony, it was nominated for Best Rock Album, losing to The War on Drugs' A Deeper Understanding.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Regular John
 2. Avon
 3. If Only
@@ -37,15 +41,6 @@ styles: ["Stoner Rock", "Hard Rock"]
 9. You Can't Quit Me Baby
 10. Give The Mule What He Wants
 11. I Was A Teenage Hand Model
-
-<!-- section break -->
-
-Villains is the seventh studio album by American rock band Queens of the Stone Age, released on August 25, 2017 through Matador. The album was announced on June 14, with a teaser trailer taking the form of a comedy skit featuring the band performing a polygraph test with Liam Lynch. The first single, "The Way You Used to Do", was released the following day along with the announcement of a world tour. Villains is the first Queens of the Stone Age album to not feature any special guest musicians, the second to not feature Mark Lanegan, and the first to feature Jon Theodore as full time member of the band.The album received widely positive reviews and performed well commercially, topping Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards ceremony, it was nominated for Best Rock Album, losing to The War on Drugs' A Deeper Understanding.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082" >}}<br>

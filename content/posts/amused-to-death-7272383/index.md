@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="amused-to-death-7272383.jpg" title="Amused To Death by Roger Waters" >}}
+Amused to Death is the third studio album by English musician Roger Waters, released 7 September 1992 on Columbia. Produced by Waters and Patrick Leonard, it was mixed in QSound to enhance its spatial feel. The album features Jeff Beck on lead guitar on several tracks. The album's title was inspired by Neil Postman's 1985 book Amusing Ourselves to Death.
+In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Ballad Of Bill Hubbard (4:19)
 2. What God Wants, Part I (6:00)
 3. Perfect Sense, Part I (4:16)
@@ -42,14 +45,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 12. Three Wishes (6:50)
 13. It's A Miracle (8:30)
 14. Amused To Death (9:06)
-
-<!-- section break -->
-
-Amused to Death is the third studio album by English musician Roger Waters, released 7 September 1992 on Columbia. Produced by Waters and Patrick Leonard, it was mixed in QSound to enhance its spatial feel. The album features Jeff Beck on lead guitar on several tracks. The album's title was inspired by Neil Postman's 1985 book Amusing Ourselves to Death.
-In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amused-to-death/975952384" >}}<br>

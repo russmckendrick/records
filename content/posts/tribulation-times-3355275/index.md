@@ -18,10 +18,9 @@ genres: ["Reggae"]
 styles: []
 ---
 
-{{< img src="tribulation-times-3355275.jpg" title="Tribulation Times by Dennis Brown" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Smile Like An Angel
 2. Poor Side Of Town
 3. Money In My Pocket (Original Jamaican Version)
@@ -36,10 +35,6 @@ styles: []
 12. My Kind
 13. Golden Streets
 14. We Will Be Free
-
-<!-- section break -->
-
-
 
 
 

@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="latest-writs-the-best-of-greatest-hits-10461741.jpg" title="Latest Writs The Best Of... Greatest Hits by The Pretty Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Come See Me (2:42)
 2. Don't Bring Me Down (2:12)
 3. Defecting Grey (4:31)
@@ -34,10 +33,6 @@ styles: ["Classic Rock"]
 11. Summertime (4:31)
 12. Tripping (3:26)
 13. Cries From The Midnight Circus (6:29)
-
-<!-- section break -->
-
-
 
 
 

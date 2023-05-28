@@ -23,10 +23,9 @@ genres: ["Funk / Soul", "Pop"]
 styles: []
 ---
 
-{{< img src="running-in-the-family-310232.jpg" title="Running In The Family by Level 42" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lessons In Love
 2. Children Say
 3. Running In The Family
@@ -35,10 +34,6 @@ styles: []
 6. Two Solitudes
 7. Fashion Fever
 8. The Sleepwalkers
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/running-in-the-family/1443532962" >}}<br>

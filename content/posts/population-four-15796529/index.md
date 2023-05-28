@@ -25,10 +25,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="population-four-15796529.jpg" title="Population Four by Cranes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tangled Up (3:38)
 2. Fourteen (3:15)
 3. Breeze (3:41)
@@ -40,10 +39,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. Brazil (2:30)
 10. Let Go (3:31)
 11. To Be (4:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/population-four/1676102669" >}}<br>

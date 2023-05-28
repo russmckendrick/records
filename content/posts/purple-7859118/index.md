@@ -39,10 +39,13 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 ---
 
-{{< img src="purple-7859118.jpg" title="Purple by Baroness" >}}
+Purple is the fourth studio album by American heavy metal band Baroness. It was released December 18, 2015 through the band's newly founded label Abraxan Hymns. It is the first album to be released by the band following their involvement in the 2012 bus accident that left nine people injured; it is also the first album to feature new band members Nick Jost and Sebastian Thomson, playing bass/keyboards and drums respectively and the last album to feature Pete Adams before his departure from the band in 2017.
+The first single from the album, "Chlorine & Wine", was released on August 28, 2015. The second single from the album, "Shock Me", was released on November 15, 2015 and reached number 28 on the Mainstream Rock Tracks chart in the US. The album was included at number 23 on Rock Sound's top 50 releases of 2015 list and at number 7 on Rolling Stone's Best Metal Albums of 2015 list.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Morningstar (4:16)
 2. Shock Me (4:17)
 3. Try To Disappear (4:52)
@@ -53,14 +56,6 @@ styles: ["Stoner Rock", "Progressive Metal", "Heavy Metal"]
 8. Desperation Burns (4:14)
 9. If I Have To Wake Up (Would You Stop The Rain?) (5:41)
 10. Crossroads Of Infinity (0:16)
-
-<!-- section break -->
-
-Purple is the fourth studio album by American heavy metal band Baroness. It was released December 18, 2015 through the band's newly founded label Abraxan Hymns. It is the first album to be released by the band following their involvement in the 2012 bus accident that left nine people injured; it is also the first album to feature new band members Nick Jost and Sebastian Thomson, playing bass/keyboards and drums respectively and the last album to feature Pete Adams before his departure from the band in 2017.
-The first single from the album, "Chlorine & Wine", was released on August 28, 2015. The second single from the album, "Shock Me", was released on November 15, 2015 and reached number 28 on the Mainstream Rock Tracks chart in the US. The album was included at number 23 on Rock Sound's top 50 releases of 2015 list and at number 7 on Rolling Stone's Best Metal Albums of 2015 list.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple/1032909985" >}}<br>

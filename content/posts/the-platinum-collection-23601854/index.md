@@ -64,10 +64,15 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 ---
 
-{{< img src="the-platinum-collection-23601854.jpg" title="The Platinum Collection by Queen" >}}
+The Platinum Collection: Greatest Hits I, II & III is a box set by British rock band Queen which comprises their three greatest hits albums, Greatest Hits, Greatest Hits II and Greatest Hits III. The album was originally released on 13 November 2000 on the Parlophone label. A booklet with song facts and images is also included with the three CD set. The US release was delayed by Hollywood Records until September 2002 and featured the 2001 Japanese release remastered versions of Greatest Hits Volumes 1 and 2 on the US and Canadian versions of The Platinum Collection. The album peaked at number 2 in the UK.
+On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Bohemian Rhapsody (5:54)
 2. Another One Bites The Dust (3:36)
 3. Killer Queen (2:59)
@@ -119,16 +124,6 @@ styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 49. No-One But You (Only The Good Die Young) (4:13)
 50. These Are The Days Of Our Lives (4:15)
 51. Thank God It's Christmas (4:19)
-
-<!-- section break -->
-
-The Platinum Collection: Greatest Hits I, II & III is a box set by British rock band Queen which comprises their three greatest hits albums, Greatest Hits, Greatest Hits II and Greatest Hits III. The album was originally released on 13 November 2000 on the Parlophone label. A booklet with song facts and images is also included with the three CD set. The US release was delayed by Hollywood Records until September 2002 and featured the 2001 Japanese release remastered versions of Greatest Hits Volumes 1 and 2 on the US and Canadian versions of The Platinum Collection. The album peaked at number 2 in the UK.
-On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-platinum-collection/1440821736" >}}<br>

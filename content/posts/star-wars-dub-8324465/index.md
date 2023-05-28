@@ -21,10 +21,9 @@ genres: ["Reggae"]
 styles: ["Dub"]
 ---
 
-{{< img src="star-wars-dub-8324465.jpg" title="Star Wars Dub by Phil Pratt" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. African Communication
 2. Which Clapp
 3. Star Wars
@@ -34,10 +33,6 @@ styles: ["Dub"]
 7. Con-Man
 8. Concertman
 9. Roffa Yet
-
-<!-- section break -->
-
-
 
 
 ## Spotify

@@ -21,10 +21,12 @@ genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-{{< img src="give-thankx-1840224.jpg" title="Give Thankx by Jimmy Cliff" >}}
+Give Thankx is the twelfth album by Jimmy Cliff.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Bongo Man (5:02)
 2. Stand Up And Fight Back (3:15)
 3. She Is A Woman (4:07)
@@ -35,13 +37,6 @@ styles: ["Roots Reggae"]
 8. Lonely Streets (4:21)
 9. Love I Need (3:35)
 10. Universal Love (Beyond The Boundaries) (4:11)
-
-<!-- section break -->
-
-Give Thankx is the twelfth album by Jimmy Cliff.
-    
-    
-
 
 
 

@@ -29,10 +29,13 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
-{{< img src="star-wars-8574533.jpg" title="Star Wars by John Williams" >}}
+Star Wars (Original Motion Picture Soundtrack) is the soundtrack album to the 1977 film Star Wars, composed and conducted by John Williams and performed by the London Symphony Orchestra. Williams' score for Star Wars was recorded over eight sessions at Anvil Studios in Denham, England on March 5, 8–12, 15 and 16, 1977. The score was orchestrated by Williams, Herbert W. Spencer, Alexander Courage, Angela Morley, Arthur Morton and Albert Woodbury. Spencer orchestrated the scores for The Empire Strikes Back and Return of the Jedi. The score was recorded by engineer Eric Tomlinson and edited by Kenneth Wannberg, and the scoring sessions were produced by Star Wars director George Lucas and supervised by Lionel Newman, head of 20th Century Fox's music department.
+The soundtrack album was released by 20th Century Records as a double-LP record in the United States in June 1977. The album's main title peaked at No. 10 on the Billboard Hot 100, with a disco version of the film's theme by Meco becoming a number one single hit in the United States in October 1977. The soundtrack album itself became the best-selling symphonic album of all time; it was certified Gold and Platinum by the Recording Industry Association of America, and won numerous accolades including an Academy Award, a Golden Globe Award, a BAFTA Award, and Grammy Awards in the categories of Best Original Score Written for a Motion Picture or a Television Special and Best Instrumental Composition (for the "Main Title"). It was also nominated for the Grammy Award for Album of the Year. In 2004, it was preserved by the Library of Congress into the National Recording Registry, calling it "culturally, historically, or aesthetically significant". In 2005, the American Film Institute named the original Star Wars soundtrack as the most memorable score of all time for an American film.The Star Wars soundtrack saw subsequent reissues since its initial release. In 2016, the album was re-released by Sony Classical Records on vinyl, CD, and digital formats alongside Williams' other Star Wars soundtracks. The vinyl release is pressed on 180g vinyl, and features the original 20th Century Records logo. Unlike all of Sony Classical's previous releases, however, the vinyl version is a remastered version of the original 1977 release, not the Special Edition. Walt Disney Records remastered and reissued the soundtrack on vinyl LP on December 1, 2017, and on CD and digital formats on May 4, 2018.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Main Title (5:20)
 2. Imperial Attack (6:10)
 3. Princess Leia's Theme (4:18)
@@ -49,14 +52,6 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 14. The Princess Appears (4:04)
 15. The Last Battle (12:05)
 16. The Throne Room And End Title (5:28)
-
-<!-- section break -->
-
-Star Wars (Original Motion Picture Soundtrack) is the soundtrack album to the 1977 film Star Wars, composed and conducted by John Williams and performed by the London Symphony Orchestra. Williams' score for Star Wars was recorded over eight sessions at Anvil Studios in Denham, England on March 5, 8–12, 15 and 16, 1977. The score was orchestrated by Williams, Herbert W. Spencer, Alexander Courage, Angela Morley, Arthur Morton and Albert Woodbury. Spencer orchestrated the scores for The Empire Strikes Back and Return of the Jedi. The score was recorded by engineer Eric Tomlinson and edited by Kenneth Wannberg, and the scoring sessions were produced by Star Wars director George Lucas and supervised by Lionel Newman, head of 20th Century Fox's music department.
-The soundtrack album was released by 20th Century Records as a double-LP record in the United States in June 1977. The album's main title peaked at No. 10 on the Billboard Hot 100, with a disco version of the film's theme by Meco becoming a number one single hit in the United States in October 1977. The soundtrack album itself became the best-selling symphonic album of all time; it was certified Gold and Platinum by the Recording Industry Association of America, and won numerous accolades including an Academy Award, a Golden Globe Award, a BAFTA Award, and Grammy Awards in the categories of Best Original Score Written for a Motion Picture or a Television Special and Best Instrumental Composition (for the "Main Title"). It was also nominated for the Grammy Award for Album of the Year. In 2004, it was preserved by the Library of Congress into the National Recording Registry, calling it "culturally, historically, or aesthetically significant". In 2005, the American Film Institute named the original Star Wars soundtrack as the most memorable score of all time for an American film.The Star Wars soundtrack saw subsequent reissues since its initial release. In 2016, the album was re-released by Sony Classical Records on vinyl, CD, and digital formats alongside Williams' other Star Wars soundtracks. The vinyl release is pressed on 180g vinyl, and features the original 20th Century Records logo. Unlike all of Sony Classical's previous releases, however, the vinyl version is a remastered version of the original 1977 release, not the Special Edition. Walt Disney Records remastered and reissued the soundtrack on vinyl LP on December 1, 2017, and on CD and digital formats on May 4, 2018.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-wars-a-new-hope-original-motion-picture-score/1375814280" >}}<br>

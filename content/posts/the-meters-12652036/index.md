@@ -22,10 +22,15 @@ genres: ["Funk / Soul"]
 styles: ["Bayou Funk"]
 ---
 
-{{< img src="the-meters-12652036.jpg" title="The Meters by The Meters" >}}
+The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo Modeliste (drums), George Porter Jr. (bass), Leo Nocentelli (guitar) and Art Neville (keyboards). The band performed and recorded their own music from the late 1960s until 1977 and played an influential role as backing musicians for other artists, including Lee Dorsey, Robert Palmer, Dr. John, and Allen Toussaint. Their original songs "Cissy Strut" and "Look-Ka Py Py" are considered funk classics.While they rarely enjoyed significant mainstream success, they are considered originators of funk along with artists like James Brown, and their work is influential on many other bands, both their contemporaries and modern musicians. Their sound is defined by a combination of tight melodic grooves and syncopated New Orleans "second line" rhythms under highly charged guitar and keyboard riffing. The band has been nominated four times for induction into the Rock and Roll Hall of Fame, most recently in 2017. In 2018 the band was presented with the Grammy Lifetime Achievement Award.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Cissy Strut (3:00)
 2. Here Comes The Meter Man (2:49)
 3. Cardova (4:30)
@@ -38,16 +43,6 @@ styles: ["Bayou Funk"]
 10. Ann (2:40)
 11. Stormy (3:32)
 12. Simple Song (2:56)
-
-<!-- section break -->
-
-The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo Modeliste (drums), George Porter Jr. (bass), Leo Nocentelli (guitar) and Art Neville (keyboards). The band performed and recorded their own music from the late 1960s until 1977 and played an influential role as backing musicians for other artists, including Lee Dorsey, Robert Palmer, Dr. John, and Allen Toussaint. Their original songs "Cissy Strut" and "Look-Ka Py Py" are considered funk classics.While they rarely enjoyed significant mainstream success, they are considered originators of funk along with artists like James Brown, and their work is influential on many other bands, both their contemporaries and modern musicians. Their sound is defined by a combination of tight melodic grooves and syncopated New Orleans "second line" rhythms under highly charged guitar and keyboard riffing. The band has been nominated four times for induction into the Rock and Roll Hall of Fame, most recently in 2017. In 2018 the band was presented with the Grammy Lifetime Achievement Award.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>

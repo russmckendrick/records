@@ -23,10 +23,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-band-7797025.jpg" title="The Band by The Band" >}}
+He’s been labelled a hip–hop artist, but as the song says, Post Malone is a rockstar too. His second album regales fans with tales of the hedonism and excess that 2016’s astoundingly popular <i>Stoney</i> afforded him. The <i>beerbongs & bentleys</i> universe is one of partying, girls, money and Saint Laurent clothes, but he makes no secret of the downsides to success. Money is everything—except true happiness, and this tenderness adds a dark depth to his addictive songs. This album, like his previous releases, proves that Post holds the recipe for the perfect chart-topper: a wild lifestyle, exceptionally catchy melodies, and the ability to fit Mötley Crüe drummer Tommy Lee and heartfelt acoustic ballads alongside fiery features from Nicki Minaj, YG and 21 Savage. 
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Across The Great Divide (2:52)
 2. Rag Mama Rag (3:02)
 3. The Night They Drove Old Dixie Down (3:30)
@@ -39,14 +42,6 @@ styles: []
 10. Jawbone (4:17)
 11. The Unfaithful Servant (4:15)
 12. King Harvest (Has Surely Come) (3:35)
-
-<!-- section break -->
-
-He’s been labelled a hip–hop artist, but as the song says, Post Malone is a rockstar too. His second album regales fans with tales of the hedonism and excess that 2016’s astoundingly popular <i>Stoney</i> afforded him. The <i>beerbongs & bentleys</i> universe is one of partying, girls, money and Saint Laurent clothes, but he makes no secret of the downsides to success. Money is everything—except true happiness, and this tenderness adds a dark depth to his addictive songs. This album, like his previous releases, proves that Post holds the recipe for the perfect chart-topper: a wild lifestyle, exceptionally catchy melodies, and the ability to fit Mötley Crüe drummer Tommy Lee and heartfelt acoustic ballads alongside fiery features from Nicki Minaj, YG and 21 Savage. 
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beerbongs-bentleys/1373516902" >}}<br>

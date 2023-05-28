@@ -20,20 +20,15 @@ genres: ["Rock"]
 styles: ["Garage Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="25-o-clock-14326864.jpg" title="25 O'Clock by XTC" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 25 O'Clock
 2. Bike Ride To The Moon
 3. My Love Explodes
 4. What In The World??...
 5. Your Gold Dress
 6. The Mole From The Ministry
-
-<!-- section break -->
-
-
 
 
 

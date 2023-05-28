@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 ---
 
-{{< img src="wiseblood-15680001.jpg" title="Wiseblood by Corrosion Of Conformity" >}}
+Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. King Of The Rotten
 2. Long Whip / Big America
 3. Wiseblood
@@ -43,13 +45,6 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 11. Wishbone (Some Tomorrow)
 12. Fuel
 13. Bottom Feeder (El Que Come Abajo) (Instrumental)
-
-<!-- section break -->
-
-Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wiseblood/170614446" >}}<br>

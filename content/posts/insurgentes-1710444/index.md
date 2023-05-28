@@ -27,10 +27,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 ---
 
-{{< img src="insurgentes-1710444.jpg" title="Insurgentes by Steven Wilson" >}}
+Insurgentes is the debut full-length solo album released by British musician and record producer Steven Wilson, known for being the founder and frontman of progressive rock band Porcupine Tree. The album was recorded all over the world in studios from Mexico City to Japan and Israel, between January and August 2008, and released in November 2008 as a special deluxe multi disc mail order version, with retail release to follow in February 2009. According to Wilson himself, the album contained "the most experimental song-based music [he had] made."
+The album is named after the Avenida de los Insurgentes, the longest avenue in Mexico City near which part of it was recorded.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Harmony Korine (5:08)
 2. Abandoner (4:48)
 3. Salvaging (8:17)
@@ -45,14 +48,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Experimental", "Shoegaze"]
 12. Puncture Wound (4:18)
 13. Collecting Space (5:10)
 14. Insurgentes (Mexico) (4:45)
-
-<!-- section break -->
-
-Insurgentes is the debut full-length solo album released by British musician and record producer Steven Wilson, known for being the founder and frontman of progressive rock band Porcupine Tree. The album was recorded all over the world in studios from Mexico City to Japan and Israel, between January and August 2008, and released in November 2008 as a special deluxe multi disc mail order version, with retail release to follow in February 2009. According to Wilson himself, the album contained "the most experimental song-based music [he had] made."
-The album is named after the Avenida de los Insurgentes, the longest avenue in Mexico City near which part of it was recorded.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/insurgentes-remastered/1119733844" >}}<br>

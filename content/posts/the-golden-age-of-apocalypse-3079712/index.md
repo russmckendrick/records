@@ -28,10 +28,12 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 ---
 
-{{< img src="the-golden-age-of-apocalypse-3079712.jpg" title="The Golden Age Of Apocalypse by Thundercat" >}}
+The Golden Age of Apocalypse is the debut studio album by Thundercat, released on Brainfeeder in 2011.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. HooooooO (0:23)
 2. Daylight (2:57)
 3. Fleer Ultra (2:15)
@@ -45,13 +47,6 @@ styles: ["Neo Soul", "Soul-Jazz", "Fusion"]
 11. Walkin' (2:07)
 12. Mystery Machine (The Golden Age Of Apocalypse) (2:05)
 13. Return To The Journey (2:04)
-
-<!-- section break -->
-
-The Golden Age of Apocalypse is the debut studio album by Thundercat, released on Brainfeeder in 2011.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-golden-age-of-apocalypse/453767128" >}}<br>

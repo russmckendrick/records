@@ -21,10 +21,13 @@ genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
 
-{{< img src="quantum-gate-10932564.jpg" title="Quantum Gate by Tangerine Dream" >}}
+Quantum Gate (2017) is roughly the 150th release and roughly 30th main studio album by Tangerine Dream. It is the first full-length album since the death of founder Edgar Froese in 2015, and is largely based on ideas and musical sketches left by Froese. The album was preceded by and is companion to the 2015 mini-album Quantum Key.
+This album earned the group the most press they have had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sensing Elements
 2. Roll The Seven Twice
 3. Identity Proven Matrix
@@ -34,14 +37,6 @@ styles: ["Ambient", "Berlin-School"]
 7. Non-Locality Destination
 8. Genesis Of Precious Thoughts
 9. Granular Blankets
-
-<!-- section break -->
-
-Quantum Gate (2017) is roughly the 150th release and roughly 30th main studio album by Tangerine Dream. It is the first full-length album since the death of founder Edgar Froese in 2015, and is largely based on ideas and musical sketches left by Froese. The album was preceded by and is companion to the 2015 mini-album Quantum Key.
-This album earned the group the most press they have had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quantum-gate/1275652998" >}}<br>

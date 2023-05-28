@@ -20,18 +20,6 @@ genres: ["Jazz"]
 styles: ["Modal"]
 ---
 
-{{< img src="kind-of-blue-6606263.jpg" title="Kind Of Blue by Miles Davis" >}}
-
-<!-- section break -->
-
-1. So What
-2. Freddie Freeloader
-3. Blue In Green
-4. Flamenco Sketches
-5. All Blues
-
-<!-- section break -->
-
 In the years between the dissolution of Miles Davis’ first great quintet and the formation of his second, the trumpet master ventured into something new in 1959—not knowing it would become one of jazz's biggest albums ever. Bassist Paul Chambers from the first quintet remained on board, as did John Coltrane, whom Davis had fired, then rehired after the tenor giant kicked his drug addiction and experienced a spiritual and creative rebirth.<br />
 But Davis also added a third horn, alto saxophonist Julian “Cannonball” Adderley, making for richer group voicings and a bluesy, bebop-oriented soloing style that balanced Davis’ spare melodic approach and Coltrane’s restless, exploratory “sheets of sound” (coined by critic Ira Gitler). Pianist Bill Evans played close-voiced chords derived from modes, or specific types of scales—an approach that gave rise to the term “modal jazz”.<br />
 The fast-moving progressions of bebop and much post-bop required improvisers to jump hurdles—something Davis knew all about as Dizzy Gillespie’s successor in the Charlie Parker Quintet. On <i>Kind of Blue</i>, there were longer durations between chords, opening up space in the music. The soloist had the option of taking a breath. But even as Miles brought the temperature down, he introduced new textures and tonal colours, drawing on the harmonic thinking of Gil Evans and George Russell, or even Debussy and Satie. In that sense the album was a continuation of <i>Birth of the Cool</i>, recorded 10 years earlier, and perhaps a harbinger of the ethereal <i>In a Silent Way</i> 10 years later.<br />
@@ -41,6 +29,13 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
         
     
 
+
+## Tracklisting
+1. So What
+2. Freddie Freeloader
+3. Blue In Green
+4. Flamenco Sketches
+5. All Blues
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kind-of-blue/268443092" >}}<br>

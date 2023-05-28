@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="forever-delayed-the-greatest-hits-3368048.jpg" title="Forever Delayed - The Greatest Hits by Manic Street Preachers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Design For Life
 2. Motorcycle Emptiness
 3. If You Tolerate This Your Children Will Be Next
@@ -49,10 +48,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 18. So Why So Sad
 19. The Everlasting
 20. Motown Junk
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430" >}}<br>

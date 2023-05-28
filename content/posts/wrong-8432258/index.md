@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
-{{< img src="wrong-8432258.jpg" title="Wrong by Cleft" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Frankenstein (3:13)
 2. D.O.N.G. 808 (3:55)
 3. Face Plant (2:55)
@@ -34,10 +33,6 @@ styles: ["Math Rock"]
 10. David (2:42)
 11. Desperate Elvis (2:51)
 12. Dohmlette (5:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-wrong-side-of-history-ep/1618095681" >}}<br>

@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="animalize-1378646.jpg" title="Animalize by Kiss" >}}
+Animalize is the twelfth studio album by American rock band Kiss. It was released on September 17, 1984, by Mercury Records. The album marked the only appearance by lead guitarist Mark St. John, who replaced Vinnie Vincent in April 1984.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I've Had Enough (Into The Fire)
 2. Heaven's On Fire
 3. Burn Bitch Burn
@@ -34,15 +38,6 @@ styles: ["Hard Rock"]
 7. Thrills In The Night
 8. While The City Sleeps
 9. Murder In High Heels
-
-<!-- section break -->
-
-Animalize is the twelfth studio album by American rock band Kiss. It was released on September 17, 1984, by Mercury Records. The album marked the only appearance by lead guitarist Mark St. John, who replaced Vinnie Vincent in April 1984.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animalize/1442844700" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="gold-against-the-soul-15458799.jpg" title="Gold Against The Soul by Manic Street Preachers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sleepflower
 2. From Despair To Where
 3. La Tristesse Durera (Scream To A Sigh)
@@ -37,10 +36,6 @@ styles: ["Alternative Rock"]
 8. Nostalgic Pushead
 9. Symphony Of Tourette
 10. Gold Against The Soul
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-against-the-soul/207067933" >}}<br>

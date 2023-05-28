@@ -19,10 +19,13 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
 
-{{< img src="songs-in-the-key-of-life-2321605.jpg" title="Songs In The Key Of Life by Stevie Wonder" >}}
+Songs in the Key of Life is the eighteenth studio album by American singer, songwriter and musician Stevie Wonder. A double album, it was released on September 28, 1976, by Tamla Records, a division of Motown. It was recorded primarily at Crystal Sound studio in Hollywood, with some sessions recorded at the Record Plant in Hollywood, the Record Plant in Sausalito, and The Hit Factory in New York City; final mixing was conducted at Crystal Sound. The album has been regarded by music journalists as the culmination of Wonder's "classic period" of recording.By 1974, Wonder was one of the most successful figures in popular music; his previous albums Music of My Mind, Talking Book, Innervisions, and Fulfillingness' First Finale were all back-to-back critical successes. However, by the end of 1975, Wonder seriously considered quitting the music industry and emigrating to Ghana to aid children with disabilities. When plans for a farewell concert had already begun, Wonder changed his mind and signed a new contract with Motown on August 5, 1975. This outlined a seven-year, seven-album, $37 million deal with full artistic control. At the time, it was the biggest recording deal in history.Songs in the Key of Life was released as a double LP with a four-song bonus EP. It debuted at number one on the Billboard Pop Albums Chart, becoming only the third album to achieve that feat, and the first by an American artist. Both the lead single "I Wish" and follow-up single "Sir Duke" reached number one on the Billboard Hot 100. The album spent thirteen consecutive weeks at number one on the Billboard 200, becoming the album with the most weeks at number one during the year, and was the second best-selling album of 1977 in the US. In 2005, the album was certified Diamond by the Recording Industry Association of America (RIAA), indicating sales of 5 million units for a double album.
+The album won Album of the Year at the 19th Grammy Awards and is the best-selling and most critically acclaimed album of Wonder's career. Widely regarded as his magnum opus and one of the greatest albums in the history of recorded music, many musicians have remarked on the quality of the album and its influence on their own work; indeed, some notable musicians have named it as the greatest album of all time. It was voted number 89 in Colin Larkin's All Time Top 1000 Albums and ranked number 4 on Rolling Stone's list of the 500 Greatest Albums of All Time.  In 2002, the album was inducted into the Grammy Hall of Fame, and in 2005 it was inducted into the National Recording Registry by the Library of Congress, which deemed it "culturally, historically, or aesthetically significant".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Love's In Need Of Love Today (7:05)
 2. Have A Talk With God (2:42)
 3. Village Ghetto Land (3:25)
@@ -45,14 +48,6 @@ styles: ["Soul", "Disco"]
 20. Ebony Eyes (4:10)
 21. All Day Sucker (5:06)
 22. Easy Goin' Evening (My Mama's Call) (3:58)
-
-<!-- section break -->
-
-Songs in the Key of Life is the eighteenth studio album by American singer, songwriter and musician Stevie Wonder. A double album, it was released on September 28, 1976, by Tamla Records, a division of Motown. It was recorded primarily at Crystal Sound studio in Hollywood, with some sessions recorded at the Record Plant in Hollywood, the Record Plant in Sausalito, and The Hit Factory in New York City; final mixing was conducted at Crystal Sound. The album has been regarded by music journalists as the culmination of Wonder's "classic period" of recording.By 1974, Wonder was one of the most successful figures in popular music; his previous albums Music of My Mind, Talking Book, Innervisions, and Fulfillingness' First Finale were all back-to-back critical successes. However, by the end of 1975, Wonder seriously considered quitting the music industry and emigrating to Ghana to aid children with disabilities. When plans for a farewell concert had already begun, Wonder changed his mind and signed a new contract with Motown on August 5, 1975. This outlined a seven-year, seven-album, $37 million deal with full artistic control. At the time, it was the biggest recording deal in history.Songs in the Key of Life was released as a double LP with a four-song bonus EP. It debuted at number one on the Billboard Pop Albums Chart, becoming only the third album to achieve that feat, and the first by an American artist. Both the lead single "I Wish" and follow-up single "Sir Duke" reached number one on the Billboard Hot 100. The album spent thirteen consecutive weeks at number one on the Billboard 200, becoming the album with the most weeks at number one during the year, and was the second best-selling album of 1977 in the US. In 2005, the album was certified Diamond by the Recording Industry Association of America (RIAA), indicating sales of 5 million units for a double album.
-The album won Album of the Year at the 19th Grammy Awards and is the best-selling and most critically acclaimed album of Wonder's career. Widely regarded as his magnum opus and one of the greatest albums in the history of recorded music, many musicians have remarked on the quality of the album and its influence on their own work; indeed, some notable musicians have named it as the greatest album of all time. It was voted number 89 in Colin Larkin's All Time Top 1000 Albums and ranked number 4 on Rolling Stone's list of the 500 Greatest Albums of All Time.  In 2002, the album was inducted into the Grammy Hall of Fame, and in 2005 it was inducted into the National Recording Registry by the Library of Congress, which deemed it "culturally, historically, or aesthetically significant".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-life/1440788438" >}}<br>

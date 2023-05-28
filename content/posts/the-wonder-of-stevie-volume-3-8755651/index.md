@@ -16,10 +16,9 @@ genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Gospel", "Disco"]
 ---
 
-{{< img src="the-wonder-of-stevie-volume-3-8755651.jpg" title="The Wonder Of Stevie (Volume 3) by DJ Spinna" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Buttercup
 2. Have A Talk With God
 3. Just A Little Piece Of You
@@ -36,10 +35,6 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 14. If You Don't Love Me
 15. Go Home
 16. Don't You Worry Bout A Thing
-
-<!-- section break -->
-
-
 
 
 

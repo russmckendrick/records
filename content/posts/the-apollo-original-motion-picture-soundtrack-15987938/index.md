@@ -22,10 +22,9 @@ genres: ["Jazz", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-apollo-original-motion-picture-soundtrack-15987938.jpg" title="The Apollo (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Apollo Greeter (0:14)
 2. Opening, The Apollo Theater (1:15)
 3. Take The 'A' Train (3:34)
@@ -58,10 +57,6 @@ styles: ["Soundtrack"]
 30. Ta-Nehisi Coates And T. Griffin (1:24)
 31. Don't Turn Back Now (4:36)
 32. At The Apollo Theater, January 19, 2012 (0:28)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

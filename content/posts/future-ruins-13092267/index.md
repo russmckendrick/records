@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 ---
 
-{{< img src="future-ruins-13092267.jpg" title="Future Ruins by Swervedriver" >}}
+Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mary Winter (5:04)
 2. The Lonely Crowd Fades In The Air (4:13)
 3. Future Ruins (6:13)
@@ -34,13 +36,6 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 8. Golden Remedy (5:43)
 9. Good Times Are So Hard To Follow (3:09)
 10. Radio-Silent (7:04)
-
-<!-- section break -->
-
-Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/future-ruins/1439002583" >}}<br>

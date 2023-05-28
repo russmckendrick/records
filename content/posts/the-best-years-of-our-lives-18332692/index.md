@@ -26,10 +26,12 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="the-best-years-of-our-lives-18332692.jpg" title="The Best Years Of Our Lives by Steve Harley & Cockney Rebel" >}}
+The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, which was released by EMI in 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Introducing "The Best Years"
 2. The Mad, Mad Moonlight
 3. Mr Raffles (Man,It Was Mean)
@@ -45,13 +47,6 @@ styles: ["Classic Rock"]
 13. Mr Raffles (Man,It Was Mean) [Single Version]
 14. The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75)
 15. Sebastian (Live At Hammersmith Odeon 14/4/75)
-
-<!-- section break -->
-
-The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, which was released by EMI in 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-years-of-our-lives-deluxe-version/1631057930" >}}<br>

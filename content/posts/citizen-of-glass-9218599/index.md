@@ -24,10 +24,12 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
-{{< img src="citizen-of-glass-9218599.jpg" title="Citizen Of Glass by Agnes Obel" >}}
+Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Stretch Your Eyes
 2. Familiar
 3. Red Virgin Soil
@@ -38,13 +40,6 @@ styles: ["Vocal", "Ballad"]
 8. Golden Green
 9. Grasshopper
 10. Mary
-
-<!-- section break -->
-
-Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/citizen-of-glass/1132114456" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="whirlpool-14883278.jpg" title="Whirlpool by Chapterhouse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Breather (4:19)
 2. Pearl (4:56)
 3. Autosleeper (4:48)
@@ -31,10 +30,6 @@ styles: ["Indie Rock", "Shoegaze"]
 7. Guilt (4:12)
 8. If You Want Me (2:40)
 9. Something More (3:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whirlpool/400359123" >}}<br>

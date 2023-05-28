@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ---
 
-{{< img src="blue-for-you-7580826.jpg" title="Blue For You by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Is There A Better Way
 2. Mad About The Boy
 3. Ring Of A Change
@@ -35,10 +34,6 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 7. That's A Fact
 8. Ease Your Mind
 9. Mystery Song
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}<br>

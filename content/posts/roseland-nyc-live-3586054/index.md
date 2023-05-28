@@ -24,10 +24,14 @@ genres: ["Electronic"]
 styles: ["Trip Hop"]
 ---
 
-{{< img src="roseland-nyc-live-3586054.jpg" title="Roseland NYC Live by Portishead" >}}
+Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Humming
 2. Cowboys
 3. All Mine
@@ -39,15 +43,6 @@ styles: ["Trip Hop"]
 9. Sour Times
 10. Roads
 11. Strangers
-
-<!-- section break -->
-
-Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}<br>

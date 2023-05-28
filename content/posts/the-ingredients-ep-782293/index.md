@@ -16,18 +16,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-ingredients-ep-782293.jpg" title="The Ingredients EP by Ned's Atomic Dustbin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aim
 2. Plug Me In
 3. Grey Cell Green
 4. Terminally Groovie
-
-<!-- section break -->
-
-
 
 
 

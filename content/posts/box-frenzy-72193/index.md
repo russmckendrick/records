@@ -22,10 +22,9 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Hip Hop", "Indie Rock"]
 ---
 
-{{< img src="box-frenzy-72193.jpg" title="Box Frenzy by Pop Will Eat Itself" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Grebo Guru (3:56)
 2. Beaver Patrol (3:08)
 3. Let's Get Ugly (4:00)
@@ -38,10 +37,6 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 10. Love Missile F1-11 (4:10)
 11. Hit The Hi-Tech Groove (5:10)
 12. Razorblade Kisses (1:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/box-frenzy-25th-anniversary-expanded-edition/1607835372" >}}<br>

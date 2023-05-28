@@ -18,17 +18,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Post Rock", "Experimental", "Folk"]
 ---
 
-{{< img src="lachesis-clotho-atropos-12547656.jpg" title="Lachesis / Clotho / Atropos by Harmony Rockets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lachesis (17:11)
 2. Clotho (9:03)
 3. Atropos (7:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563" >}}<br>

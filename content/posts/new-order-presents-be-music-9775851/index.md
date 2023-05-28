@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 ---
 
-{{< img src="new-order-presents-be-music-9775851.jpg" title="New Order Presents Be Music by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Can't Afford (6:54)
 2. Looking From A Hilltop (Megamix) (8:09)
 3. Security (5:53)
@@ -39,10 +38,6 @@ styles: ["Post-Punk", "Electro", "Soul", "Synth-pop", "Indie Rock", "Jazzdance"]
 10. Inside (7:22)
 11. Daggers (Remix) (5:30)
 12. Oh Men (02 Remix) (6:37)
-
-<!-- section break -->
-
-
 
 
 

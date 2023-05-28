@@ -28,10 +28,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-sun-is-often-out-15537055.jpg" title="The Sun Is Often Out by Longpigs" >}}
+The Sun Is Often Out (stylized as THE SUN iS OfTEN oUT) is the debut album by Longpigs, released in 1996 on U2's record label, Mother Records.
+Five singles were released from the album, initially to little success. The first two - "She Said" and "Jesus Christ" - both failed to crack the UK Top 40, both stalling at No. 67. The third single - "Far" fared a little better, scraping into the Top 40, reaching No. 37 and received significant radio airplay, particularly on the national pop and rock radio station, BBC Radio 1. It was, however, the next single, "On and On” which would be the band’s breakthrough single; reaching No. 16 in the UK. With this momentum the album was released in April and shortly after "She Said" was re-released, also making it to No. 16 in the UK singles chart. The final single from the album "Lost Myself", narrowly missed out on giving the band a third successive Top 20 single, stalling at No. 22.
+The Sun Is Often Out was declared one of 1996's 50 best albums by both Q and Melody Maker and retains a favourable 4 star rating on the AllMusic website, by both critics and fans.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lost Myself
 2. She Said
 3. Far
@@ -43,15 +47,6 @@ styles: ["Indie Rock"]
 9. Dozen Wicked Words
 10. Elvis
 11. Over Our Bodies
-
-<!-- section break -->
-
-The Sun Is Often Out (stylized as THE SUN iS OfTEN oUT) is the debut album by Longpigs, released in 1996 on U2's record label, Mother Records.
-Five singles were released from the album, initially to little success. The first two - "She Said" and "Jesus Christ" - both failed to crack the UK Top 40, both stalling at No. 67. The third single - "Far" fared a little better, scraping into the Top 40, reaching No. 37 and received significant radio airplay, particularly on the national pop and rock radio station, BBC Radio 1. It was, however, the next single, "On and On” which would be the band’s breakthrough single; reaching No. 16 in the UK. With this momentum the album was released in April and shortly after "She Said" was re-released, also making it to No. 16 in the UK singles chart. The final single from the album "Lost Myself", narrowly missed out on giving the band a third successive Top 20 single, stalling at No. 22.
-The Sun Is Often Out was declared one of 1996's 50 best albums by both Q and Melody Maker and retains a favourable 4 star rating on the AllMusic website, by both critics and fans.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sun-is-often-out/1489735610" >}}<br>

@@ -20,20 +20,15 @@ genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-{{< img src="ceremony-13303448.jpg" title="Ceremony by New Order" >}}
-
-<!-- section break -->
-
-1. Ceremony (4:36)
-2. In A Lonely Place (6:12)
-
-<!-- section break -->
-
 "Ceremony" is a song written by Joy Division, and first released as New Order's debut single in 1981. The song and its B-side, "In a Lonely Place", were written and recorded as Joy Division prior to the death of Ian Curtis. Both were re-recorded and carried over to Joy Division's re-formation under the name New Order.
 New Order released the song as a single twice, firstly in January 1981 and secondly in September 1981 featuring new member Gillian Gilbert, with the latter recording later appearing on the album Substance.
     
     
 
+
+## Tracklisting
+1. Ceremony (4:36)
+2. In A Lonely Place (6:12)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ceremony-version-2-2019-remaster-single/1457720890" >}}<br>

@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="greatest-hits-19396810.jpg" title="Greatest Hits by Thin Lizzy" >}}
+Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Boys Are Back In Town
 2. Jailbreak
 3. Don’t Believe A Word
@@ -51,13 +53,6 @@ styles: ["Classic Rock"]
 20. Showdown
 21. Cold Sweat
 22. Wild One
-
-<!-- section break -->
-
-Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1535128775" >}}<br>

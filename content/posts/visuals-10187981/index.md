@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-{{< img src="visuals-10187981.jpg" title="Visuals by Mew" >}}
+Visuals is the seventh studio album by Danish alternative rock band Mew. It was released on 28 April 2017. First single "85 Videos" was released together with a music video on 16 February. It is the first Mew album not to feature guitarist Bo Madsen, who left the band after their previous album, + -, was released in 2015.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nothingness And No Regrets
 2. The Wake Of Your Life
 3. Candy Pieces All Smeared Out
@@ -35,13 +37,6 @@ styles: ["Indie Rock", "Prog Rock"]
 9. 85 Videos
 10. Zanzibar
 11. Carry Me To Safety
-
-<!-- section break -->
-
-Visuals is the seventh studio album by Danish alternative rock band Mew. It was released on 28 April 2017. First single "85 Videos" was released together with a music video on 16 February. It is the first Mew album not to feature guitarist Bo Madsen, who left the band after their previous album, + -, was released in 2015.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/visuals/1195025592" >}}<br>

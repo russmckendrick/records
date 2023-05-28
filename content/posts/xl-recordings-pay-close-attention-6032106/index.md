@@ -17,10 +17,9 @@ genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Blues", "Pop", "Folk, 
 styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Hardcore", "Breakbeat", "Vocal", "Ballad", "Soul", "Drum n Bass"]
 ---
 
-{{< img src="xl-recordings-pay-close-attention-6032106.jpg" title="XL Recordings: Pay Close Attention by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. DJs Take Control
 2. Out Of Space
 3. Don't Go (Kicks Like A Mule Mix)
@@ -65,10 +64,6 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 42. I'm New Here
 43. Yonkers
 44. Someone Like You
-
-<!-- section break -->
-
-
 
 
 ## Spotify

@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="izzy-stradlin-and-the-ju-ju-hounds-8536055.jpg" title="Izzy Stradlin And The Ju Ju Hounds  by Izzy Stradlin And The Ju Ju Hounds" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Somebody Knockin' (03:27)
 2. Pressure Drop (02:42)
 3. Time Gone By (03:47)
@@ -40,10 +39,6 @@ styles: ["Hard Rock"]
 8. Cuttin' The Rug (05:01)
 9. Take A Look At The Guy (04:43)
 10. Come On Now Inside (03:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882" >}}<br>

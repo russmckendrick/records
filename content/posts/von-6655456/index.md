@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
 
-{{< img src="von-6655456.jpg" title="Von by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sigur Rós (9:46)
 2. Dögun (5:50)
 3. Hún Jörð ... (7:17)
@@ -56,10 +55,6 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 22. Mistur (2:12)
 23. Syndir Guðs (Opinberun Frelsarans) (13:51)
 24. Rukrym (2:51)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/von/1447419946" >}}<br>

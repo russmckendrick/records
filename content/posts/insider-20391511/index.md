@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-{{< img src="insider-20391511.jpg" title="Insider by Amplifier" >}}
+Insider is the second album of the Manchester alternative rock band Amplifier. It was released in 2006 by the German-based label SPV on 29 September in Germany and Austria then in the rest of Europe on 2 October.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Gustav’s Arrival
 2. O Fortuna
 3. Insider
@@ -38,15 +42,6 @@ styles: ["Prog Rock", "Hard Rock"]
 10. What Is Music?
 11. Hymn Of The Aten
 12. Map Of An Imaginary Place
-
-<!-- section break -->
-
-Insider is the second album of the Manchester alternative rock band Amplifier. It was released in 2006 by the German-based label SPV on 29 September in Germany and Austria then in the rest of Europe on 2 October.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/insider/1189715758" >}}<br>

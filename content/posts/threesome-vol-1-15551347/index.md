@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
 
-{{< img src="threesome-vol-1-15551347.jpg" title="Threesome Vol. 1 by The Lickerish Quartet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fadoodle
 2. Bluebird's Blues
 3. There Is A Magic Number
@@ -41,10 +40,6 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 6. Bluebird's Blues (Bonus Instrumental Version)
 7. There Is A Magic Number (Bonus Instrumental Version)
 8. Lighthouse Spaceship (Bonus Instrumental Version)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920" >}}<br>

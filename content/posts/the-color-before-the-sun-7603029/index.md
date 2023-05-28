@@ -25,10 +25,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-color-before-the-sun-7603029.jpg" title="The Color Before The Sun by Coheed And Cambria" >}}
+The Color Before the Sun is the eighth studio album by American progressive rock band Coheed and Cambria. Following the conceptual double album, The Afterman: Ascension and Descension, released in 2012 and 2013 respectively, The Color Before the Sun is the first non-conceptual album the band has released, making it the only Coheed and Cambria album to not be a part of The Amory Wars storyline. The band released a live acoustic version of "Atlas" in August 2014, and announced a release date of October 9 in July of the following year, before announcing a push back to October 16, 2015. The first single was "You Got Spirit, Kid", released in July 2015, with a music video for the song released in August. A second music video, for the song "Island", was released in October.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Color Before The Sun
 2. Island
 3. Eraser
@@ -51,16 +56,6 @@ styles: ["Alternative Rock"]
 20. You Got Spirit, Kid (4:11)
 21. The Audience (6:11)
 22. Peace To The Mountain (6:34)
-
-<!-- section break -->
-
-The Color Before the Sun is the eighth studio album by American progressive rock band Coheed and Cambria. Following the conceptual double album, The Afterman: Ascension and Descension, released in 2012 and 2013 respectively, The Color Before the Sun is the first non-conceptual album the band has released, making it the only Coheed and Cambria album to not be a part of The Amory Wars storyline. The band released a live acoustic version of "Atlas" in August 2014, and announced a release date of October 9 in July of the following year, before announcing a push back to October 16, 2015. The first single was "You Got Spirit, Kid", released in July 2015, with a music video for the song released in August. A second music video, for the song "Island", was released in October.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-color-before-the-sun/1030919924" >}}<br>

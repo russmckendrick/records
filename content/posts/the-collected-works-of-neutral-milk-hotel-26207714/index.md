@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="the-collected-works-of-neutral-milk-hotel-26207714.jpg" title="The Collected Works Of Neutral Milk Hotel by Neutral Milk Hotel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Aeroplane Over The Sea
 2. The King Of Carrot Flowers Pt. One
 3. The King Of Carrot Flowers Pts. Two & Three
@@ -86,10 +85,6 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 61. King Of Carrot Flowers Part Two
 62. King Of Carrot Flowers Part Three
 63. Oh Comely
-
-<!-- section break -->
-
-
 
 
 

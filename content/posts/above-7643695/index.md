@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 ---
 
-{{< img src="above-7643695.jpg" title="Above by Mad Season" >}}
+Above is the only studio album by the American rock band Mad Season, released on March 14, 1995, through Columbia Records. Above peaked at No. 24 on the Billboard 200 chart. The album has been certified gold by the RIAA in the United States. Layne Staley created the artwork on the album cover and inside the inlay.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wake Up (7:36)
 2. X-Ray Mind (5:13)
 3. River Of Deceit (5:03)
@@ -45,13 +47,6 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 13. Black Book Of Fear (6:05)
 14. Slip Away (5:38)
 15. I Don't Wanna Be A Soldier (Remix) (5:52)
-
-<!-- section break -->
-
-Above is the only studio album by the American rock band Mad Season, released on March 14, 1995, through Columbia Records. Above peaked at No. 24 on the Billboard 200 chart. The album has been certified gold by the RIAA in the United States. Layne Staley created the artwork on the album cover and inside the inlay.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/above/158602381" >}}<br>

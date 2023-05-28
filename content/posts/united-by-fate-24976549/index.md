@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hardcore"]
 ---
 
-{{< img src="united-by-fate-24976549.jpg" title="United By Fate by Rival Schools" >}}
+United by Fate is the debut album by American rock band Rival Schools. The album was produced by Grammy Award-winning producer Luke Ebbin.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Travel By Telephone (2:47)
 2. Everything Has Its Point (3:21)
 3. High Acetate (1:53)
@@ -42,13 +44,6 @@ styles: ["Alternative Rock", "Hardcore"]
 11. Favorite Star (2:59)
 12. So Down On (3:20)
 13. Hooligans For Life (2:26)
-
-<!-- section break -->
-
-United by Fate is the debut album by American rock band Rival Schools. The album was produced by Grammy Award-winning producer Luke Ebbin.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%E7%A7%81%E7%AB%8B%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9%E5%AD%A6%E5%9C%92-%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3-%E3%82%AA%E3%83%96-%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/895724747" >}}<br>

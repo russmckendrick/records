@@ -22,10 +22,12 @@ genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="tin-drum-12358307.jpg" title="Tin Drum by Japan" >}}
+Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Art Of Parties (4:09)
 2. Talking Drum (3:32)
 3. Ghosts (4:33)
@@ -34,13 +36,6 @@ styles: ["New Wave", "Synth-pop"]
 6. Visions Of China (3:38)
 7. Sons Of Pioneers (7:07)
 8. Cantonese Boy (3:44)
-
-<!-- section break -->
-
-Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tin-drum-2003-remaster/714661649" >}}<br>

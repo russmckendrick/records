@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
-{{< img src="singles-45-s-and-under-1592619.jpg" title="Singles - 45's And Under by Squeeze" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Take Me I'm Yours (2:48)
 2. Goodbye Girl (3:05)
 3. Cool For Cats (3:11)
@@ -37,10 +36,6 @@ styles: ["New Wave", "Punk"]
 10. Labelled With Love (4:33)
 11. Black Coffee In Bed (6:11)
 12. Annie Get Your Gun (3:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles-45s-and-under/1446091631" >}}<br>

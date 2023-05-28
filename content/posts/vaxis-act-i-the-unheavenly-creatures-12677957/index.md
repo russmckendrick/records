@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="vaxis-act-i-the-unheavenly-creatures-12677957.jpg" title="Vaxis – Act I: The Unheavenly Creatures by Coheed And Cambria" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue (2:07)
 2. The Dark Sentencer (7:44)
 3. Unheavenly Creatures (4:13)
@@ -38,10 +37,6 @@ styles: ["Prog Rock"]
 13. It Walks Among Us (5:29)
 14. Old Flames (5:50)
 15. Lucky Stars (5:07)
-
-<!-- section break -->
-
-
 
 
 

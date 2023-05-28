@@ -27,10 +27,9 @@ genres: ["Rock", "Reggae"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="when-god-was-great-18610117.jpg" title="When God Was Great by The Mighty Mighty Bosstones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Decide
 2. M O V E
 3. I Don't Believe In Anything
@@ -46,10 +45,6 @@ styles: ["Punk", "Ska"]
 13. It Went Well
 14. I Don't Want To Be You
 15. The Final Parade
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/when-god-was-great/1553943817" >}}<br>

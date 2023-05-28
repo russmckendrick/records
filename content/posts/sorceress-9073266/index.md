@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="sorceress-9073266.jpg" title="Sorceress by Opeth" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Persephone
 2. Sorceress
 3. The Wilde Flowers
@@ -44,10 +43,6 @@ styles: ["Prog Rock"]
 11. Persephone (Slight Return)
 12. The Ward
 13. Spring MCMLXXIV
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sorceress/1138402841" >}}<br>

@@ -28,10 +28,13 @@ genres: ["Rock"]
 styles: ["Symphonic Rock", "Prog Rock"]
 ---
 
-{{< img src="clutching-at-straws-12802669.jpg" title="Clutching At Straws by Marillion" >}}
+Clutching at Straws is the fourth studio album by the British neo-progressive rock band Marillion, released on June 22, 1987. It was the last album with lead singer Fish, who left the band in 1988, and is a concept album.Although Clutching at Straws did not achieve the sales of its predecessor, the number one album Misplaced Childhood, spending 15 weeks on the UK album chart (the shortest chart residency of any of Marillion's first four studio albums), it was still an immediate commercial success, becoming the second highest charting Marillion album by entering the chart at number two. It produced three UK Top 40 singles: "Incommunicado", "Sugar Mice" and "Warm Wet Circles".
+The album has received critical acclaim, being listed in Q magazine's "50 Best Recordings of the Year", it has been described by AllMusic as an "unheralded masterpiece", and Rolling Stone placed it at number 37 in its countdown of the "50 Greatest Prog Rock Albums of All Time". In 1999, a 2-CD 'Remastered Version' with additional B-sides and demos was released, including detailed liner notes from all of the original members including Fish.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix)
 2. Hotel Hobbies (3:35)
 3. Warm Wet Circles (4:25)
@@ -63,14 +66,6 @@ styles: ["Symphonic Rock", "Prog Rock"]
 29. The Last Straw (7:16)
 30. Incommunicado (5:00)
 31. Garden Party (6:26)
-
-<!-- section break -->
-
-Clutching at Straws is the fourth studio album by the British neo-progressive rock band Marillion, released on June 22, 1987. It was the last album with lead singer Fish, who left the band in 1988, and is a concept album.Although Clutching at Straws did not achieve the sales of its predecessor, the number one album Misplaced Childhood, spending 15 weeks on the UK album chart (the shortest chart residency of any of Marillion's first four studio albums), it was still an immediate commercial success, becoming the second highest charting Marillion album by entering the chart at number two. It produced three UK Top 40 singles: "Incommunicado", "Sugar Mice" and "Warm Wet Circles".
-The album has received critical acclaim, being listed in Q magazine's "50 Best Recordings of the Year", it has been described by AllMusic as an "unheralded masterpiece", and Rolling Stone placed it at number 37 in its countdown of the "50 Greatest Prog Rock Albums of All Time". In 1999, a 2-CD 'Remastered Version' with additional B-sides and demos was released, including detailed liner notes from all of the original members including Fish.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clutching-at-straws/693411248" >}}<br>

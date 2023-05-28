@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="dizrythmia-2995959.jpg" title="Dizrythmia by Split Enz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bold As Brass (3:22)
 2. My Mistake (2:56)
 3. Parrot Fashion Love (3:47)
@@ -34,10 +33,6 @@ styles: ["Prog Rock"]
 7. Charley (6:26)
 8. Nice To Know (4:22)
 9. Jamboree (6:27)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}<br>

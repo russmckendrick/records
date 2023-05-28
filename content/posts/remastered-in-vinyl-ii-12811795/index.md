@@ -39,10 +39,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="remastered-in-vinyl-ii-12811795.jpg" title="Remastered In Vinyl II by Kate Bush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hounds Of Love
 2. Running Up That Hill (A Deal With God)
 3. Hounds Of Love
@@ -81,10 +80,6 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 36. Big Stripey Lie
 37. Why Should I Love You?
 38. You're The One
-
-<!-- section break -->
-
-
 
 
 

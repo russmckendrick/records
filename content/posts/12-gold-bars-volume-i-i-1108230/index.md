@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="12-gold-bars-volume-i-i-1108230.jpg" title="12 Gold Bars Volume I+I by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rockin' All Over The World (3:37)
 2. Down Down (3:53)
 3. Caroline (3:46)
@@ -55,10 +54,6 @@ styles: ["Classic Rock"]
 22. Going Down Town Tonight
 23. The Wanderer
 24. Caroline (Live At The N.E.C.)
-
-<!-- section break -->
-
-
 
 
 

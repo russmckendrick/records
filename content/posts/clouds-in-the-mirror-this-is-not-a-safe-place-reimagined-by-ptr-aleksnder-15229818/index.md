@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Alternative Rock", "Modern", "Downtempo"]
 ---
 
-{{< img src="clouds-in-the-mirror-this-is-not-a-safe-place-reimagined-by-ptr-aleksnder-15229818.jpg" title="Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder) by Ride" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. R.I.D.E.
 2. Future Love
 3. Repetition
@@ -33,10 +32,6 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 10. End Game
 11. Shadows Behind The Sun
 12. In This Room
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098" >}}<br>

@@ -29,25 +29,6 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Arena Rock"]
 ---
 
-{{< img src="hysteria-10660430.jpg" title="Hysteria by Def Leppard" >}}
-
-<!-- section break -->
-
-1. Women (5:41)
-2. Rocket (6:34)
-3. Animal (4:02)
-4. Love Bites (5:46)
-5. Pour Some Sugar On Me (4:25)
-6. Armageddon It (5:21)
-7. Gods Of War (6:33)
-8. Don't Shoot Shotgun (4:26)
-9. Run Riot (4:39)
-10. Hysteria (5:49)
-11. Excitable (4:19)
-12. Love And Affection (4:35)
-
-<!-- section break -->
-
 When Def Leppard arrived at the follow-up to their mega-selling third album, 1983’s <i>Pyromania</i>, producer Mutt Lange shared his vision with the Sheffield heavy metal crew. He told them that too many bands were copying their sound and they needed to set themselves apart from the pack. They should, Lange said, make the rock version of <i>Thriller</i>. Released in August 1987, the resultant album <i>Hysteria</i> sold over 20 million copies, which tells you all you need to know about how successful the group were in achieving Lange’s aim. “We ended up having seven singles off of it,” lead guitarist Phil Collen tells Apple Music. “It was mission accomplished. Mutt Lange was amazing, a genius, and I don’t say that lightly.”
 
 <i>Pyromania</i> had infused the group’s metal anthems with an expansive pop sheen, and here they sought to channel an even wider range of influences into their sound. “There was so much great stuff happening, like Prince, Michael Jackson, Frankie Goes to Hollywood—great-sounding records,” says Collen. “Most rock bands are very narrow-minded and stick within a genre, but to us it was anything that sounded great. It was the first time an album in the rock genre was being presented as a pop album. Mutt and us wanted to make a hybrid of AC/DC, full-on rock, and Queen, who were just magical.” After a slow reception initially, <i>Hysteria</i>’s success was given a boost by the success of glam-rock stomper “Pour Some Sugar on Me”. It kick-started a phenomenon. “It blew up,” Collen recalls. “It was a journey making it; we were trying to achieve something. It was great when it started taking shape. It sounded different to anything else out there.” Let Collen guide you through Def Leppard’s swaggering peak, track by track.
@@ -91,6 +72,20 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
         
     
 
+
+## Tracklisting
+1. Women (5:41)
+2. Rocket (6:34)
+3. Animal (4:02)
+4. Love Bites (5:46)
+5. Pour Some Sugar On Me (4:25)
+6. Armageddon It (5:21)
+7. Gods Of War (6:33)
+8. Don't Shoot Shotgun (4:26)
+9. Run Riot (4:39)
+10. Hysteria (5:49)
+11. Excitable (4:19)
+12. Love And Affection (4:35)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hysteria/1440903625" >}}<br>

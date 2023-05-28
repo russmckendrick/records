@@ -27,10 +27,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Darkwave"]
 ---
 
-{{< img src="splinter-songs-from-a-broken-mind-5023457.jpg" title="Splinter (Songs From A Broken Mind) by Gary Numan" >}}
+Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Am Dust
 2. Here In The Black
 3. Everything Comes Down To This
@@ -43,13 +45,6 @@ styles: ["New Wave", "Darkwave"]
 10. We're The Unforgiven
 11. Who Are You
 12. My Last Day
-
-<!-- section break -->
-
-Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981" >}}<br>

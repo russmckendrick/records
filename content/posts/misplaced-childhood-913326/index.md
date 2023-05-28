@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="misplaced-childhood-913326.jpg" title="Misplaced Childhood by Marillion" >}}
+Misplaced Childhood is the third studio album by the British neo-progressive rock band Marillion, released in 1985. It is a concept album loosely based on the childhood of Marillion's lead singer, Fish, who was inspired by a brief incident that occurred while he was under the influence of LSD.
+The album was recorded during the spring of 1985 at Hansa Tonstudio in Berlin and produced by Chris Kimsey, who had previously worked with the Rolling Stones. Misplaced Childhood is the group's most commercially successful album to date, peaking immediately at number one in the UK charts and spending a total of 41 weeks on the chart. It ultimately gained the Platinum status. It features Marillion's two most successful singles, the guitar-led rock ballad "Kayleigh", which reached number two in the UK, and piano-led "Lavender", which peaked at number five.Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and chosen as the fourth greatest concept album of all time by Classic Rock in 2003.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pseudo Silk Kimono (2:14)
 2. Kayleigh (3:55)
 3. Lavender (2:34)
@@ -35,14 +38,6 @@ styles: ["Pop Rock", "Prog Rock"]
 8. Blind Curve (9:27)
 9. Childhoods End? (4:32)
 10. White Feather (2:20)
-
-<!-- section break -->
-
-Misplaced Childhood is the third studio album by the British neo-progressive rock band Marillion, released in 1985. It is a concept album loosely based on the childhood of Marillion's lead singer, Fish, who was inspired by a brief incident that occurred while he was under the influence of LSD.
-The album was recorded during the spring of 1985 at Hansa Tonstudio in Berlin and produced by Chris Kimsey, who had previously worked with the Rolling Stones. Misplaced Childhood is the group's most commercially successful album to date, peaking immediately at number one in the UK charts and spending a total of 41 weeks on the chart. It ultimately gained the Platinum status. It features Marillion's two most successful singles, the guitar-led rock ballad "Kayleigh", which reached number two in the UK, and piano-led "Lavender", which peaked at number five.Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and chosen as the fourth greatest concept album of all time by Classic Rock in 2003.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/misplaced-childhood-deluxe-edition-remastered/1227898072" >}}<br>

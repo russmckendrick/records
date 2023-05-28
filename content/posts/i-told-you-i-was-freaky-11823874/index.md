@@ -26,10 +26,13 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul", "Pop", "Folk, World, & Country"
 styles: ["Comedy"]
 ---
 
-{{< img src="i-told-you-i-was-freaky-11823874.jpg" title="I Told You I Was Freaky by Flight Of The Conchords" >}}
+Behold one of the majestically silly couplets on this second serving of Kiwi comedy folk (“Here I am all dressed in snakeskin/Now I’m in the kitchen making love to your cake tin” purrs Jemaine Clement on the title track) and you’d be forgiven for thinking it was business (time) as usual. But the Clement and Bret McKenzie aren’t afraid to broaden their parodic palette on this follow-up. To be clear: this is a good thing. “Sugalumps” inverts traditional R&B objectification with absurd results and “You Don’t Have to Be a Prostitute” takes an audacious run at Sting’s “Roxanne”.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hurt Feelings (2:38)
 2. Sugalumps (2:12)
 3. We're Both In Love With A Sexy Lady (2:49)
@@ -43,14 +46,6 @@ styles: ["Comedy"]
 11. Friends (2:04)
 12. Carol Brown (3:27)
 13. Angels (2:36)
-
-<!-- section break -->
-
-Behold one of the majestically silly couplets on this second serving of Kiwi comedy folk (“Here I am all dressed in snakeskin/Now I’m in the kitchen making love to your cake tin” purrs Jemaine Clement on the title track) and you’d be forgiven for thinking it was business (time) as usual. But the Clement and Bret McKenzie aren’t afraid to broaden their parodic palette on this follow-up. To be clear: this is a good thing. “Sugalumps” inverts traditional R&B objectification with absurd results and “You Don’t Have to Be a Prostitute” takes an audacious run at Sting’s “Roxanne”.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-told-you-i-was-freaky/335064254" >}}<br>

@@ -30,22 +30,17 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
-{{< img src="journey-to-the-centre-of-the-earth-1606192.jpg" title="Journey To The Centre Of The Earth by Rick Wakeman" >}}
-
-<!-- section break -->
-
-1. The Journey
-2. Recollection
-3. The Battle
-4. The Forest
-
-<!-- section break -->
-
 Journey to the Centre of the Earth is the second album by English keyboardist Rick Wakeman, released on 3 May 1974 by A&M Records. It is a live recording of the second of his two concerts at the Royal Festival Hall on 18 January 1974, the premiere of his 40-minute orchestral rock piece based on Jules Verne's 1864 science fiction novel of the same name. It tells the story of Professor Lidinbrook, his nephew Axel, and their guide Hans, who follow a passage to the Earth's centre originally discovered by Arne Saknussemm, an Icelandic alchemist. Wakeman performs with the London Symphony Orchestra, the English Chamber Choir, and a group of hand-picked musicians for his rock band, which later became the English Rock Ensemble. Actor David Hemmings narrates the story.
 Journey to the Centre of the Earth was overall well received by music critics. It reached No. 1 on the UK Albums Chart, and peaked at No. 3 on the Billboard 200 in the United States. It was certified gold by the Recording Industry Association of America in October 1974 for selling 500,000 copies. The album earned Wakeman a nomination for an Ivor Novello Award and a Grammy Award for Best Pop Instrumental Performance. In 1999, Wakeman released a sequel album Return to the Centre of the Earth. After the original score was presumed lost, Wakeman was reunited with it in 2009 and re-recorded the album three years later with 18 minutes of music previously cut due to time constraints.
     
     
 
+
+## Tracklisting
+1. The Journey
+2. Recollection
+3. The Battle
+4. The Forest
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/journey-to-the-centre-of-the-earth/873131263" >}}<br>

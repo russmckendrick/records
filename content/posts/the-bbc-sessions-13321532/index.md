@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-bbc-sessions-13321532.jpg" title="The BBC Sessions by Belle & Sebastian" >}}
+The BBC Sessions is an album by Belle and Sebastian. It is a double album. The first disc (Radio Sessions) is a compilation of unreleased recordings recorded between 1996 and 2001, while the second (Live in Belfast) is a live recording from a concert in Belfast on 21 December 2001. The live album contains covers of "Here Comes the Sun", "I'm Waiting for the Man" and "The Boys are Back in Town".
+The tracks on the first album come from sessions with Mark Radcliffe, Steve Lamacq and John Peel. The album cover features former member Isobel Campbell, who departed the band six years before this album's release, but is heard on these recordings.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The State I Am In
 2. Like Dylan In The Movies
 3. Judy And The Dream Of Horses
@@ -43,14 +46,6 @@ styles: ["Indie Rock"]
 12. The Magic Of A Kind Word
 13. Nothing In The Silence
 14. (My Girl's Got) Miraculous Technique
-
-<!-- section break -->
-
-The BBC Sessions is an album by Belle and Sebastian. It is a double album. The first disc (Radio Sessions) is a compilation of unreleased recordings recorded between 1996 and 2001, while the second (Live in Belfast) is a live recording from a concert in Belfast on 21 December 2001. The live album contains covers of "Here Comes the Sun", "I'm Waiting for the Man" and "The Boys are Back in Town".
-The tracks on the first album come from sessions with Mark Radcliffe, Steve Lamacq and John Peel. The album cover features former member Isobel Campbell, who departed the band six years before this album's release, but is heard on these recordings.
-    
-    
-
 
 
 ## Spotify

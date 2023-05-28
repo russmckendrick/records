@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="boy-child-the-best-of-1967-1970-22965146.jpg" title="Boy Child - The Best Of 1967 - 1970 by Scott Walker" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Montague Terrace (In Blue)
 2. Such A Small Love
 3. The Plague
@@ -44,10 +43,6 @@ styles: ["Pop Rock"]
 22. Thanks For Chicago, Mr. James 
 23. The Rope And The Colt
 24. Epilogue: The War Is Over 
-
-<!-- section break -->
-
-
 
 
 

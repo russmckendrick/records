@@ -20,20 +20,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="weekender-20148661.jpg" title="Weekender by Flowered Up" >}}
-
-<!-- section break -->
-
-1. Weekender (12:54)
-2. Weekender (Original Film Soundtrack) (18:16)
-
-<!-- section break -->
-
 "Weekender" is a 1992 single by the band Flowered Up. The band had performed the song as early as 1991. The song has been described as denouncing people who only go to clubs on the weekend and advocating a party-all-the-time philosophy of the group. The group originally wanted it to be released through their current label London Records. The single was turned down by the label and released later in April 1992 by Heavenly Recordings.
 "Weekender" charted in the United Kingdom for five weeks, peaking at number 20 on the charts. The song received positive reviews on its initial release and was later referred to by The Guardian as the group's masterpiece.
     
     
 
+
+## Tracklisting
+1. Weekender (12:54)
+2. Weekender (Original Film Soundtrack) (18:16)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-life-with-brian/1320038738" >}}<br>

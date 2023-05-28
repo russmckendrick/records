@@ -20,10 +20,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="midnight-at-the-movies-2414977.jpg" title="Midnight At The Movies by Justin Townes Earle" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Midnight At The Movies
 2. What I Mean To You
 3. They Killed John Henry
@@ -36,10 +35,6 @@ styles: ["Country"]
 10. Someday I'll Be Forgiven For This
 11. Walk Out
 12. Here We Go Again
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/midnight-at-the-movies/305368671" >}}<br>

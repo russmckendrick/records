@@ -19,10 +19,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="the-collection-97080.jpg" title="The Collection by Ultravox" >}}
+The Collection is a greatest hits album by British band Ultravox, released on 2 November 1984 by Chrysalis Records. It includes all fourteen of the band's hit singles on Chrysalis from 1980 to 1984, including "Love's Great Adventure", released ahead of the album as a stand-alone single.
+The album peaked at number 2 on the UK Album Chart, becoming their highest-charting album. It also became their best-selling album, being certified triple platinum by the British Phonographic Industry (BPI) for shipments in excess of 900,000 copies.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dancing With Tears In My Eyes (4:09)
 2. Hymn (The Power And The Glory) (4:24)
 3. The Thin Wall (4:25)
@@ -37,14 +40,6 @@ styles: ["Synth-pop"]
 12. One Small Day (4:28)
 13. Love's Great Adventure (3:02)
 14. Lament (4:16)
-
-<!-- section break -->
-
-The Collection is a greatest hits album by British band Ultravox, released on 2 November 1984 by Chrysalis Records. It includes all fourteen of the band's hit singles on Chrysalis from 1980 to 1984, including "Love's Great Adventure", released ahead of the album as a stand-alone single.
-The album peaked at number 2 on the UK Album Chart, becoming their highest-charting album. It also became their best-selling album, being certified triple platinum by the British Phonographic Industry (BPI) for shipments in excess of 900,000 copies.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-collection/1629178655" >}}<br>

@@ -27,10 +27,14 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-{{< img src="the-masterplan-1826939.jpg" title="The Masterplan by Oasis" >}}
+The Masterplan is a compilation album by English rock band Oasis. It was released on 2 November 1998 by Creation Records, the band's final release through the label. It comprises B-sides which never made it onto an album up to that point. Originally intended for release only in areas such as the United States and Japan, where the tracks were previously only available on expensive European-import singles, The Masterplan reached number 2 in the UK, where it initially went platinum, and number 51 in the United States. However, it did reach the Top 20 in various charts around the world, going on to sell 3 million copies. It has since been certified triple platinum in the UK. Four songs from the album appear on the 2006 compilation album Stop the Clocks.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Acquiesce (4:24)
 2. Underneath The Sky (3:21)
 3. Talk Tonight (4:21)
@@ -45,15 +49,6 @@ styles: ["Britpop"]
 12. Stay Young (5:05)
 13. Headshrinker (4:38)
 14. The Masterplan (5:22)
-
-<!-- section break -->
-
-The Masterplan is a compilation album by English rock band Oasis. It was released on 2 November 1998 by Creation Records, the band's final release through the label. It comprises B-sides which never made it onto an album up to that point. Originally intended for release only in areas such as the United States and Japan, where the tracks were previously only available on expensive European-import singles, The Masterplan reached number 2 in the UK, where it initially went platinum, and number 51 in the United States. However, it did reach the Top 20 in various charts around the world, going on to sell 3 million copies. It has since been certified triple platinum in the UK. Four songs from the album appear on the 2006 compilation album Stop the Clocks.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-masterplan/1517453693" >}}<br>

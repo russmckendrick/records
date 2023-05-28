@@ -24,10 +24,13 @@ genres: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-{{< img src="club-classics-vol-one-16034267.jpg" title="Club Classics Vol. One by Soul II Soul" >}}
+“What is Soul II Soul?” the London collective’s lynchpin Jazzie B ponders on “Jazzie’s Groove”. “Well, we’re a soundsystem, an amalgamation of good dance music.” In hindsight, it’s a deceptively modest appraisal. This album did far more than aggregate the sounds of late-’80s London club life—it completely reset the possibilities for dance music and revitalised a UK soul and R&B scene that was in thrall to what was happening across the Atlantic. By the time Virgin Records approached them with the idea of making an album, Soul II Soul were already a multi-armed enterprise: a soundsystem, a clothing brand (with its own shop) and a club night so popular that they occasionally had to ask punters to leave halfway through so the queues outside could be let in. A broth of soul, R&B, house, hip-hop and Afrobeat, <i>Club Classics Vol. One</i> channelled the diversity and innovation of the capital’s underground dance scene. It’s all emboldened by superb but, at that time, little-known singers including Caron Wheeler and Rose Windross, and infused with an Afrocentric spirit of positivity and inclusiveness.<br />
+That sound bore an immediate and enduring influence on UK music. Just as the Soul II Soul club nights offered a more serene alternative to the accelerating BPMs of warehouse parties, “Keep On Movin’” laid ground for trip-hop with its strings, spaciousness and unhurried breakbeats. And “African Dance” predicted London’s Afroswing explosion 30 years in advance by cross-pollinating Afrobeat with multiple strains of house. With “Back to Life (However Do You Want Me)”,  a retooling of swingbeat assisted by the Reggae Philharmonic Orchestra, topping the UK singles charts, a route from the reggae soundsystems to the mainstream had been drawn. It was one that, over the coming decades, garage, jungle and dubstep would follow.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Keep On Movin' (6:02)
 2. Fairplay  (3:58)
 3. Holdin' On (Bambelela) (3:52)
@@ -38,14 +41,6 @@ styles: []
 8. Happiness Dub (5:34)
 9. Back To Life (Acapella) (3:48)
 10. Jazzie's Groove (2:42)
-
-<!-- section break -->
-
-“What is Soul II Soul?” the London collective’s lynchpin Jazzie B ponders on “Jazzie’s Groove”. “Well, we’re a soundsystem, an amalgamation of good dance music.” In hindsight, it’s a deceptively modest appraisal. This album did far more than aggregate the sounds of late-’80s London club life—it completely reset the possibilities for dance music and revitalised a UK soul and R&B scene that was in thrall to what was happening across the Atlantic. By the time Virgin Records approached them with the idea of making an album, Soul II Soul were already a multi-armed enterprise: a soundsystem, a clothing brand (with its own shop) and a club night so popular that they occasionally had to ask punters to leave halfway through so the queues outside could be let in. A broth of soul, R&B, house, hip-hop and Afrobeat, <i>Club Classics Vol. One</i> channelled the diversity and innovation of the capital’s underground dance scene. It’s all emboldened by superb but, at that time, little-known singers including Caron Wheeler and Rose Windross, and infused with an Afrocentric spirit of positivity and inclusiveness.<br />
-That sound bore an immediate and enduring influence on UK music. Just as the Soul II Soul club nights offered a more serene alternative to the accelerating BPMs of warehouse parties, “Keep On Movin’” laid ground for trip-hop with its strings, spaciousness and unhurried breakbeats. And “African Dance” predicted London’s Afroswing explosion 30 years in advance by cross-pollinating Afrobeat with multiple strains of house. With “Back to Life (However Do You Want Me)”,  a retooling of swingbeat assisted by the Reggae Philharmonic Orchestra, topping the UK singles charts, a route from the reggae soundsystems to the mainstream had been drawn. It was one that, over the coming decades, garage, jungle and dubstep would follow.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/club-classics-vol-one/724011185" >}}<br>

@@ -20,20 +20,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="baby-baby-623435.jpg" title="Baby Baby by Amy Grant" >}}
-
-<!-- section break -->
-
-1. Baby Baby (Heart In Motion Mix) (5:57)
-2. Baby Baby (No Getting Over You Mix) (3:55)
-3. Lead Me On (5:28)
-
-<!-- section break -->
-
 "Baby Baby" is a pop song by American recording artist Amy Grant and it was issued as the first single from her eighth studio album, Heart in Motion (1991). The song was written by Grant and Keith Thomas, who also produced it. It was released on January 18, 1991, through A&M Records and topped the US Billboard Hot 100 chart for two consecutive weeks in April 1991, becoming the first in a string of hits from Heart in Motion. At the 34th Annual Grammy Awards in 1992, the song received three Grammy Award nominations, including Song of the Year and Record of the Year.
     
     
 
+
+## Tracklisting
+1. Baby Baby (Heart In Motion Mix) (5:57)
+2. Baby Baby (No Getting Over You Mix) (3:55)
+3. Lead Me On (5:28)
 
 
 ## Spotify

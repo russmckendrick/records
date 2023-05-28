@@ -20,10 +20,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="witchazel-12487686.jpg" title="Witchazel by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. An Awakening
 2. Take My Hand
 3. Accident At A Harvest Festival
@@ -37,10 +36,6 @@ styles: []
 11. From The Manger To The Mortuary / Recorder Dance
 12. Into The Sky
 13. Roosting Time
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}<br>

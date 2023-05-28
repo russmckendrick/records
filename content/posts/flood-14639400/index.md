@@ -21,10 +21,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="flood-14639400.jpg" title="Flood by They Might Be Giants" >}}
+Flood is the third studio album by Brooklyn-based alternative rock duo They Might Be Giants, released in January 1990. Flood was the duo's first album on the major label Elektra Records. It generated three singles: "Birdhouse in Your Soul", "Istanbul (Not Constantinople)", and the domestic promotional track "Twisting". The album is generally considered to be the band's definitive release, as it is their best-selling and most recognizable album. Despite minimal stylistic and instrumental differences from previous releases, Flood is distinguished by contributions from seasoned producers Clive Langer and Alan Winstanley. John Linnell and John Flansburgh also took advantage of new equipment and recording techniques, including unconventional, home-recorded samples, which were programmed through Casio FZ-1 synthesizers. The album was recorded in New York City at Skyline Studios, which was better equipped than studios the band had worked in previously.
+Promotion for Flood included television appearances, promotional videos, and an international tour. The album's mainstream promotion and success contributed to its status as the band's most well known album. Many fans, including young viewers of Tiny Toon Adventures, were first exposed to They Might Be Giants's music through Flood.
+The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 on the band's label, Idlewild Recordings.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Theme From Flood
 2. Birdhouse In Your Soul
 3. Lucky Ball & Chain
@@ -44,16 +49,6 @@ styles: ["Alternative Rock"]
 17. Sapphire Bullets Of Pure Love
 18. They Might Be Giants
 19. Road Movie To Berlin
-
-<!-- section break -->
-
-Flood is the third studio album by Brooklyn-based alternative rock duo They Might Be Giants, released in January 1990. Flood was the duo's first album on the major label Elektra Records. It generated three singles: "Birdhouse in Your Soul", "Istanbul (Not Constantinople)", and the domestic promotional track "Twisting". The album is generally considered to be the band's definitive release, as it is their best-selling and most recognizable album. Despite minimal stylistic and instrumental differences from previous releases, Flood is distinguished by contributions from seasoned producers Clive Langer and Alan Winstanley. John Linnell and John Flansburgh also took advantage of new equipment and recording techniques, including unconventional, home-recorded samples, which were programmed through Casio FZ-1 synthesizers. The album was recorded in New York City at Skyline Studios, which was better equipped than studios the band had worked in previously.
-Promotion for Flood included television appearances, promotional videos, and an international tour. The album's mainstream promotion and success contributed to its status as the band's most well known album. Many fans, including young viewers of Tiny Toon Adventures, were first exposed to They Might Be Giants's music through Flood.
-The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 on the band's label, Idlewild Recordings.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flood/298111036" >}}<br>

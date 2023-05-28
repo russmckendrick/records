@@ -20,16 +20,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ---
 
-{{< img src="weatherall-s-weekender-20148349.jpg" title="Weatherall's Weekender by Flowered Up" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Weatherall's Weekender (Audrey Is A Little Bit Partial Mix) (15:22)
 2. Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) (17:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weatheralls-weekender/1549273189" >}}<br>

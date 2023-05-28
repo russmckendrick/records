@@ -23,19 +23,14 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="out-loud-11895362.jpg" title="Out Loud! by Michael Kiwanuka" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Man In A White World (Live From The Royal Albert Hall)
 2. One More Night (Live From The London Palladium)
 3. Tell Me A Tale (Live From The Birmingham Symphony Hall)
 4. Father's Child (Live From The Royal Albert Hall)
 5. Love And Hate (Live From The Royal Albert Hall)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-loud-live/1371582575" >}}<br>

@@ -28,10 +28,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Europop", "Downtempo"]
 ---
 
-{{< img src="the-best-of-hooverphonic-18295270.jpg" title="The Best Of Hooverphonic by Hooverphonic" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You
 2. Badaboum
 3. Hiding In A Song
@@ -65,10 +64,6 @@ styles: ["Europop", "Downtempo"]
 31. You Hurt Me
 32. Dirty Lenses
 33. Expedition Impossible
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533" >}}<br>

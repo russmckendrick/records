@@ -30,10 +30,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="whatever-people-say-i-am-that-s-what-i-m-not-11826116.jpg" title="Whatever People Say I Am, That's What I'm Not by Arctic Monkeys" >}}
+Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”)
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
 3. Fake Tales Of San Francisco
@@ -47,13 +49,6 @@ styles: ["Indie Rock"]
 11. When The Sun Goes Down
 12. From The Ritz To The Rubble
 13. A Certain Romance
-
-<!-- section break -->
-
-Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”)
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953" >}}<br>

@@ -33,10 +33,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-{{< img src="lightwork-24964213.jpg" title="Lightwork by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lightwork
 2. Moonpeople
 3. Lightworker
@@ -102,10 +101,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 63. Heavy Burden (Commentary Track)
 64. Vacation (Commentary Track)
 65. Children Of God (Commentary Track)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lightwork-deluxe-edition/1638173881" >}}<br>

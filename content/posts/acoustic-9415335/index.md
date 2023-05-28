@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 ---
 
-{{< img src="acoustic-9415335.jpg" title="Acoustic by Simple Minds" >}}
+Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, released in November 2016 by Caroline International. The album features acoustic studio recordings of previously released songs. It received mixed reviews.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The American (4:30)
 2. Promised You A Miracle (4:35)
 3. Glittering Prize (4:07)
@@ -43,13 +45,6 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 14. Stand By Love (4:11)
 15. Speed Your Love To Me (4:03)
 16. Light Travels (4:40)
-
-<!-- section break -->
-
-Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, released in November 2016 by Caroline International. The album features acoustic studio recordings of previously released songs. It received mixed reviews.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/acoustic/1440871080" >}}<br>

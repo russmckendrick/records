@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-{{< img src="the-optimist-lp-19480285.jpg" title="The Optimist LP by Turin Brakes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Feeling Oblivion (3:43)
 2. Underdog (Save Me) (3:34)
 3. Emergency 72 (4:04)
@@ -52,10 +51,6 @@ styles: ["Folk Rock", "Pop Rock"]
 22. The Road (Demo)
 23. Mind Over Money (Demo)
 24. The Optimist (Demo)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-optimist-lp-original-demos-demo-version/1574258049" >}}<br>

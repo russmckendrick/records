@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-{{< img src="substance-7267756.jpg" title="Substance by Joy Division" >}}
+This anthology gave listeners an unprecedented glimpse into Joy Division's catalogue when it appeared, eight years after Ian Curtis' death, and it remains an essential compendium. The smouldering "Warsaw" and the rest of the group's 1978 debut EP capture their punk intensity; "Atmosphere" offers a whiff of their ethereal beauty. An industrial-tinged version of "She's Lost Control" hints at an electronic path they never got the chance to take. And then there's the heartbreaking "Love Will Tear Us Apart". If any one song represents their legacy, it's this one.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Warsaw
 2. Leaders Of Men
 3. Digital
@@ -41,14 +44,6 @@ styles: ["Post-Punk", "New Wave"]
 17. As You Said
 18. These Days
 19. Love Will Tear Us Apart (Pennine Version)
-
-<!-- section break -->
-
-This anthology gave listeners an unprecedented glimpse into Joy Division's catalogue when it appeared, eight years after Ian Curtis' death, and it remains an essential compendium. The smouldering "Warsaw" and the rest of the group's 1978 debut EP capture their punk intensity; "Atmosphere" offers a whiff of their ethereal beauty. An industrial-tinged version of "She's Lost Control" hints at an electronic path they never got the chance to take. And then there's the heartbreaking "Love Will Tear Us Apart". If any one song represents their legacy, it's this one.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/substance-1977-1980/996111401" >}}<br>

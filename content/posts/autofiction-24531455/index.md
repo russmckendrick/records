@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="autofiction-24531455.jpg" title="Autofiction by Suede" >}}
+Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. She Still Leads Me On (4:08)
 2. Personality Disorder (4:00)
 3. 15 Again (3:24)
@@ -41,13 +43,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. It's Always The Quiet Ones (4:12)
 10. What Am I Without You? (6:17)
 11. Turn Off Your Brain And Yell (5:54)
-
-<!-- section break -->
-
-Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>

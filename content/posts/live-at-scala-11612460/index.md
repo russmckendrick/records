@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="live-at-scala-11612460.jpg" title="Live At Scala by Paul Draper" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Silence Is Deafening
 2. Don't You Wait, It Might Never Come
 3. No Ideas
@@ -40,10 +39,6 @@ styles: []
 10. I Can Only Disappoint U
 11. Wide Open Space
 12. Don't Poke The Bear
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-scala/1328370332" >}}<br>

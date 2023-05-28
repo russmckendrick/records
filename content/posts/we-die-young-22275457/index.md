@@ -20,20 +20,15 @@ genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge"]
 ---
 
-{{< img src="we-die-young-22275457.jpg" title="We Die Young by Alice In Chains" >}}
-
-<!-- section break -->
-
-1. We Die Young (2:32)
-2. It Ain't Like That (4:38)
-3. Killing Yourself (2:55)
-
-<!-- section break -->
-
 We Die Young is a song and single EP by the American rock band Alice in Chains, engineered and co-produced by Dave Jerden. It was released in July 1990 and is their first studio EP. This was a promo-only EP released on vinyl and cassette, and is thus a sought-after collector's item amongst Alice in Chains fans.
     
     
 
+
+## Tracklisting
+1. We Die Young (2:32)
+2. It Ain't Like That (4:38)
+3. Killing Yourself (2:55)
 
 
 

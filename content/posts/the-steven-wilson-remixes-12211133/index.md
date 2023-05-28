@@ -47,10 +47,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-steven-wilson-remixes-12211133.jpg" title="The Steven Wilson Remixes by Yes" >}}
+The Steven Wilson Remixes is a box set by the English progressive rock band Yes. Released on 29 June 2018, it compiles remixed versions of five of the band's albums—The Yes Album (1971), Fragile (1971), Close to the Edge (1972), Tales from Topographic Oceans (1973), and Relayer (1974)—overseen by Steven Wilson.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Yes Album (2014 Remix)
 2. Yours Is No Disgrace (9:40)
 3. Clap (3:16)
@@ -82,13 +84,6 @@ styles: ["Prog Rock"]
 29. The Gates Of Delirium (21:55)
 30. Sound Chaser (9:25)
 31. To Be Over (9:08)
-
-<!-- section break -->
-
-The Steven Wilson Remixes is a box set by the English progressive rock band Yes. Released on 29 June 2018, it compiles remixed versions of five of the band's albums—The Yes Album (1971), Fragile (1971), Close to the Edge (1972), Tales from Topographic Oceans (1973), and Relayer (1974)—overseen by Steven Wilson.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939" >}}<br>

@@ -22,10 +22,12 @@ genres: ["Funk / Soul", "Stage & Screen"]
 styles: ["Funk", "Soul", "Soundtrack"]
 ---
 
-{{< img src="miss-sharon-jones-original-motion-picture-soundtrack-9382390.jpg" title="Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings" >}}
+Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights,” both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here,” capturing Jones at her most autobiographical. The movie, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tell Me
 2. Retreat!
 3. New Shoes
@@ -45,13 +47,6 @@ styles: ["Funk", "Soul", "Soundtrack"]
 17. Genuine Pts. 1 & 2
 18. I'm Still Here
 19. His Eye Is On The Sparrow
-
-<!-- section break -->
-
-Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights,” both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here,” capturing Jones at her most autobiographical. The movie, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/miss-sharon-jones-original-motion-picture-soundtrack/1488038920" >}}<br>

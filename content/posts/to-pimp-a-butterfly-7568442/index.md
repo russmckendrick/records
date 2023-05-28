@@ -24,10 +24,18 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
-{{< img src="to-pimp-a-butterfly-7568442.jpg" title="To Pimp A Butterfly by Kendrick Lamar" >}}
+To Pimp a Butterfly is the third studio album by American rapper Kendrick Lamar. It was released on March 15, 2015, by Top Dawg Entertainment, Aftermath Entertainment and Interscope Records. The album was recorded in studios throughout the United States, with production from Sounwave, Terrace Martin, Taz "Tisa" Arnold, Thundercat, Rahki, LoveDragon, Flying Lotus, Pharrell Williams, Boi-1da, Knxwledge, and several other high-profile hip hop producers, as well as executive production from Dr. Dre and Anthony "Top Dawg" Tiffith. Guest appearances include Thundercat, George Clinton, Bilal, Anna Wise, Snoop Dogg, James Fauntleroy, Ronald Isley, and Rapsody.
+Primarily a hip hop album, To Pimp a Butterfly incorporates numerous other musical styles spanning the history of African-American music, most prominently jazz, funk, and soul. Lyrically, it features political commentary and personal themes concerning African-American culture, racial inequality, depression, and institutional discrimination. This thematic direction was inspired by Lamar's tour of historic sites during his visit to South Africa, such as Nelson Mandela's jail cell on Robben Island.
+To Pimp a Butterfly sold 324,000 copies in the United States in its first week of release, earning a chart debut at number one on the US Billboard 200, while also becoming Lamar's first number-one album in the UK. It was eventually certified platinum by the Recording Industry Association of America (RIAA) and sold one million copies in the United States by 2017. Five singles were released in promotion of the album, including the top 40 hit "I". Lamar also supported the album with the Kunta's Groove Sessions Tour from late 2015 to early 2016.
+The album has received widespread acclaim from critics, who praised its musical scope and the social relevance of Lamar's lyrics. It earned Lamar seven nominations at the 2016 Grammy Awards, including a win for Best Rap Album and an Album of the Year nomination. He received four additional nominations for other collaborations from that year, receiving a total of 11 Grammy nominations, which was the most nominations for any rapper in a single night. The most critically acclaimed album of 2015 as well as one of the most critically acclaimed of its entire decade, it topped The Village Voice's annual Pazz & Jop poll of American critics nationwide, and was also ranked as the best album of 2015 by many other publications. In the years following its release, several publications named To Pimp a Butterfly one of the best albums of the 2010s; in 2020, the album was ranked 19th on Rolling Stone's updated list of the 500 Greatest Albums of All Time.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Wesley's Theory (4:47)
 2. For Free? (Interlude) (2:10)
 3. King Kunta (3:54)
@@ -44,19 +52,6 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 14. You Aint Gotta Lie (Momma Said) (4:01)
 15. I (5:36)
 16. Mortal Man (12:07)
-
-<!-- section break -->
-
-To Pimp a Butterfly is the third studio album by American rapper Kendrick Lamar. It was released on March 15, 2015, by Top Dawg Entertainment, Aftermath Entertainment and Interscope Records. The album was recorded in studios throughout the United States, with production from Sounwave, Terrace Martin, Taz "Tisa" Arnold, Thundercat, Rahki, LoveDragon, Flying Lotus, Pharrell Williams, Boi-1da, Knxwledge, and several other high-profile hip hop producers, as well as executive production from Dr. Dre and Anthony "Top Dawg" Tiffith. Guest appearances include Thundercat, George Clinton, Bilal, Anna Wise, Snoop Dogg, James Fauntleroy, Ronald Isley, and Rapsody.
-Primarily a hip hop album, To Pimp a Butterfly incorporates numerous other musical styles spanning the history of African-American music, most prominently jazz, funk, and soul. Lyrically, it features political commentary and personal themes concerning African-American culture, racial inequality, depression, and institutional discrimination. This thematic direction was inspired by Lamar's tour of historic sites during his visit to South Africa, such as Nelson Mandela's jail cell on Robben Island.
-To Pimp a Butterfly sold 324,000 copies in the United States in its first week of release, earning a chart debut at number one on the US Billboard 200, while also becoming Lamar's first number-one album in the UK. It was eventually certified platinum by the Recording Industry Association of America (RIAA) and sold one million copies in the United States by 2017. Five singles were released in promotion of the album, including the top 40 hit "I". Lamar also supported the album with the Kunta's Groove Sessions Tour from late 2015 to early 2016.
-The album has received widespread acclaim from critics, who praised its musical scope and the social relevance of Lamar's lyrics. It earned Lamar seven nominations at the 2016 Grammy Awards, including a win for Best Rap Album and an Album of the Year nomination. He received four additional nominations for other collaborations from that year, receiving a total of 11 Grammy nominations, which was the most nominations for any rapper in a single night. The most critically acclaimed album of 2015 as well as one of the most critically acclaimed of its entire decade, it topped The Village Voice's annual Pazz & Jop poll of American critics nationwide, and was also ranked as the best album of 2015 by many other publications. In the years following its release, several publications named To Pimp a Butterfly one of the best albums of the 2010s; in 2020, the album was ranked 19th on Rolling Stone's updated list of the 500 Greatest Albums of All Time.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440828886" >}}<br>

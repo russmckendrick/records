@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="psonic-psunspot-14345180.jpg" title="Psonic Psunspot by XTC" >}}
+Psonic Psunspot is the second album by English rock band the Dukes of Stratosphear, released in 1987. Also counted as XTC's tenth studio album, it is a follow-up to 25 O'Clock (1985).
+In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums of the 1980s", calling the songs "a surreal rock-opera of opaque, hallucinogenic wonder".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Vanishing Girl (3:00)
 2. Have You Seen Jackie? (3:20)
 3. Little Lighthouse (4:30)
@@ -35,14 +38,6 @@ styles: ["Psychedelic Rock"]
 8. Brainiac's Daughter (3:58)
 9. The Affiliated (2:30)
 10. Pale And Precious (4:53)
-
-<!-- section break -->
-
-Psonic Psunspot is the second album by English rock band the Dukes of Stratosphear, released in 1987. Also counted as XTC's tenth studio album, it is a follow-up to 25 O'Clock (1985).
-In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums of the 1980s", calling the songs "a surreal rock-opera of opaque, hallucinogenic wonder".
-    
-    
-
 
 
 

@@ -25,10 +25,9 @@ genres: ["Electronic", "Jazz"]
 styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 ---
 
-{{< img src="to-believe-13344503.jpg" title="To Believe by The Cinematic Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Believe
 2. A Caged Bird / Imitations Of Life
 3. Lessons
@@ -36,10 +35,6 @@ styles: ["Contemporary Jazz", "Downtempo", "Soul-Jazz"]
 5. The Workers of Art
 6. Zero One / This Fantasy
 7. A Promise
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-believe/1446886232" >}}<br>

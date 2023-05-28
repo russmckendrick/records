@@ -22,10 +22,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Electro"]
 ---
 
-{{< img src="welcome-oblivion-4361414.jpg" title="Welcome Oblivion by How To Destroy Angels" >}}
+Welcome Oblivion is the debut studio album by American post-industrial group How to Destroy Angels. It was released on March 5, 2013 on Columbia Records. It was described as "sensual electronic rock" by the Los Angeles Times.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Wake-Up (1:43)
 2. Keep It Together  (4:27)
 3. And The Sky Began To Scream (3:57)
@@ -56,13 +58,6 @@ styles: ["Industrial", "Electro"]
 28. We Fade Away (6:41)
 29. The Loop Closes  (4:50)
 30. Hallowed Ground (7:17)
-
-<!-- section break -->
-
-Welcome Oblivion is the debut studio album by American post-industrial group How to Destroy Angels. It was released on March 5, 2013 on Columbia Records. It was described as "sensual electronic rock" by the Los Angeles Times.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-oblivion/604859646" >}}<br>

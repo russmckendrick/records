@@ -17,10 +17,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 ---
 
-{{< img src="no-cities-to-love-7761945.jpg" title="No Cities To Love by Sleater-Kinney" >}}
+The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, honest-to-goodness rock. Corin Tucker is in full command of her howitzer of a voice on standouts like “Surface Envy”. Carrie Brownstein’s haughty punk sneer leads the glorious “A New Wave”. Janet Weiss’ masterful drumming navigates the songwriting’s hairpin tonal shifts, from the glittering “Hey Darling” to the turbulent album closer, “Fade". <i>No Cities to Love</i> is an electrifying step forward for one of the great American rock bands. 
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Price Tag
 2. Fangless
 3. Surface Envy
@@ -31,14 +34,6 @@ styles: ["Alternative Rock", "Indie Rock", "Garage Rock"]
 8. Bury Our Friends
 9. Hey Darling
 10. Fade
-
-<!-- section break -->
-
-The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, honest-to-goodness rock. Corin Tucker is in full command of her howitzer of a voice on standouts like “Surface Envy”. Carrie Brownstein’s haughty punk sneer leads the glorious “A New Wave”. Janet Weiss’ masterful drumming navigates the songwriting’s hairpin tonal shifts, from the glittering “Hey Darling” to the turbulent album closer, “Fade". <i>No Cities to Love</i> is an electrifying step forward for one of the great American rock bands. 
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}<br>

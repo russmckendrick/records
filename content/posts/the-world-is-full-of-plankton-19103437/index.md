@@ -20,17 +20,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="the-world-is-full-of-plankton-19103437.jpg" title="The World Is Full Of Plankton by Amorphous Androgynous" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The World Is Full Of Plankton (7:58)
 2. All Is Harvest (6:39)
 3. The Emptiness Of Nothingness (6:17)
-
-<!-- section break -->
-
-
 
 
 

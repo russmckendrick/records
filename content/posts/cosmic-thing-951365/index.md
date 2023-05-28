@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="cosmic-thing-951365.jpg" title="Cosmic Thing by The B-52's" >}}
+Cosmic Thing is the fifth studio album by American new wave band the B-52's, released in 1989 by Reprise Records. It contains the singles "Love Shack", "Roam" and "Deadbeat Club", which reached the Top 10, 20 and 30 of the US Billboard Hot 100 charts, respectively. The music video for "Love Shack" won the award for Best Group Video at the 1990 MTV Video Music Awards. Six of the album's songs were produced by Nile Rodgers in New York City, and the remaining four by Don Was in upstate New York.
+Cosmic Thing was the 9th best-selling album of 1990 in the US, peaking at No. 4 on the Billboard 200, and was an international success as well, charting in the Top 10 in the UK, and reaching No. 1 in Australia and New Zealand. The album eventually achieved 4× platinum status in the US and platinum status in the UK. Its success served as a comeback for the band, following the death of guitarist, songwriter and founding member Ricky Wilson in 1985. The band also embarked on the worldwide Cosmic Tour to promote the album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cosmic Thing (3:50)
 2. Dry County (4:54)
 3. Deadbeat Club (4:45)
@@ -37,14 +40,6 @@ styles: ["New Wave", "Pop Rock"]
 8. Channel Z (4:49)
 9. Topaz (4:20)
 10. Follow Your Bliss (4:08)
-
-<!-- section break -->
-
-Cosmic Thing is the fifth studio album by American new wave band the B-52's, released in 1989 by Reprise Records. It contains the singles "Love Shack", "Roam" and "Deadbeat Club", which reached the Top 10, 20 and 30 of the US Billboard Hot 100 charts, respectively. The music video for "Love Shack" won the award for Best Group Video at the 1990 MTV Video Music Awards. Six of the album's songs were produced by Nile Rodgers in New York City, and the remaining four by Don Was in upstate New York.
-Cosmic Thing was the 9th best-selling album of 1990 in the US, peaking at No. 4 on the Billboard 200, and was an international success as well, charting in the Top 10 in the UK, and reaching No. 1 in Australia and New Zealand. The album eventually achieved 4× platinum status in the US and platinum status in the UK. Its success served as a comeback for the band, following the death of guitarist, songwriter and founding member Ricky Wilson in 1985. The band also embarked on the worldwide Cosmic Tour to promote the album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cosmic-thing/983850956" >}}<br>

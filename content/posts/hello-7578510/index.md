@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="hello-7578510.jpg" title="Hello! by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Roll Over Lay Down (5:41)
 2. Claudie (4:00)
 3. A Reason For Living (4:41)
@@ -28,10 +27,6 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 6. Softer Ride (4:00)
 7. And It's Better Now (3:20)
 8. Forty-Five Hundred Times (9:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hello/1443266438" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
-{{< img src="it-s-great-when-you-re-straight-yeah-9303682.jpg" title="It's Great When You're Straight...Yeah by Black Grape" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Reverend Black Grape (5:21)
 2. In The Name Of The Father (4:21)
 3. Tramazi Party (4:45)
@@ -30,10 +29,6 @@ styles: ["Pop Rock", "Funk"]
 8. Submarine (3:50)
 9. Shake Your Money (4:13)
 10. Little Bob (5:33)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066" >}}<br>

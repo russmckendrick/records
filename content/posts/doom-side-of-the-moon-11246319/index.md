@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="doom-side-of-the-moon-11246319.jpg" title="Doom Side Of The Moon by Doom Side Of The Moon" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
 3. On The Run
@@ -37,10 +36,6 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/doom-side-of-the-moon/1600465934" >}}<br>

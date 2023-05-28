@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-{{< img src="ocean-rain-5803593.jpg" title="Ocean Rain by Echo & The Bunnymen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Silver (3:19)
 2. Nocturnal Me (4:54)
 3. Crystal Days (2:24)
@@ -29,10 +28,6 @@ styles: ["New Wave", "Indie Rock"]
 7. Seven Seas (3:19)
 8. My Kingdom (4:06)
 9. Ocean Rain (5:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ocean-rain-expanded-version/184690028" >}}<br>

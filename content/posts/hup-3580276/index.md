@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-{{< img src="hup-3580276.jpg" title="Hup by The Wonder Stuff" >}}
+Hup is the second album by The Wonder Stuff, released in 1989.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 30 Years In The Bathroom
 2. Radio Ass Kiss
 3. Golden Green
@@ -37,13 +39,6 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 10. Unfaithful
 11. Them, Big Oak Trees
 12. Room 410
-
-<!-- section break -->
-
-Hup is the second album by The Wonder Stuff, released in 1989.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hup-remastered/1443772473" >}}<br>

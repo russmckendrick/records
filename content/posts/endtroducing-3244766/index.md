@@ -27,10 +27,16 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
 ---
 
-{{< img src="endtroducing-3244766.jpg" title="Endtroducing... by DJ Shadow" >}}
+Endtroducing..... is the debut studio album by American music producer DJ Shadow, released on September 16, 1996, by Mo' Wax. It is an instrumental hip hop work composed almost entirely of samples from vinyl records. DJ Shadow produced Endtroducing over two years, using an Akai MPC60 sampler and little other equipment. He edited and layered samples to create new tracks of varying moods and tempos.
+In the United Kingdom, where DJ Shadow had already established himself as a rising act, Endtroducing received praise from music journalists at the time of its release, and reached the top 20 of the UK Albums Chart. It was certified gold by the British Phonographic Industry. Mo' Wax issued four singles from the album, including the chart hits "Midnight in a Perfect World" and "Stem". It took considerably longer for Endtroducing to find success in the United States. After promoting the album and returning to his hometown of Davis, California, DJ Shadow devoted his time to creating new music. During this period, interest in Endtroducing began to build among the American music press, and it peaked at number 37 on the US Billboard Heatseekers Albums chart.
+Endtroducing was ranked highly on various lists of the best albums of 1996, and has been acclaimed by critics as one of the greatest albums of the 1990s. It is considered a landmark recording in instrumental hip hop, with DJ Shadow's sampling techniques and arrangements leaving a lasting influence. In 2020, Rolling Stone magazine ranked Endtroducing 329th on its list of the 500 greatest albums of all time.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Best Foot Forward (0:49)
 2. Building Steam With A Grain Of Salt (6:40)
 3. The Number Song (4:40)
@@ -45,17 +51,6 @@ styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
 12. Napalm Brain/Scatter Brain (9:23)
 13. What Does Your Soul Look Like (Part 1 - Blue Sky Revisit) (7:28)
 14. **Transmission 3
-
-<!-- section break -->
-
-Endtroducing..... is the debut studio album by American music producer DJ Shadow, released on September 16, 1996, by Mo' Wax. It is an instrumental hip hop work composed almost entirely of samples from vinyl records. DJ Shadow produced Endtroducing over two years, using an Akai MPC60 sampler and little other equipment. He edited and layered samples to create new tracks of varying moods and tempos.
-In the United Kingdom, where DJ Shadow had already established himself as a rising act, Endtroducing received praise from music journalists at the time of its release, and reached the top 20 of the UK Albums Chart. It was certified gold by the British Phonographic Industry. Mo' Wax issued four singles from the album, including the chart hits "Midnight in a Perfect World" and "Stem". It took considerably longer for Endtroducing to find success in the United States. After promoting the album and returning to his hometown of Davis, California, DJ Shadow devoted his time to creating new music. During this period, interest in Endtroducing began to build among the American music press, and it peaked at number 37 on the US Billboard Heatseekers Albums chart.
-Endtroducing was ranked highly on various lists of the best albums of 1996, and has been acclaimed by critics as one of the greatest albums of the 1990s. It is considered a landmark recording in instrumental hip hop, with DJ Shadow's sampling techniques and arrangements leaving a lasting influence. In 2020, Rolling Stone magazine ranked Endtroducing 329th on its list of the 500 greatest albums of all time.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/endtroducing/1660485817" >}}<br>

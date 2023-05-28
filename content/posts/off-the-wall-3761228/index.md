@@ -24,10 +24,14 @@ genres: ["Funk / Soul"]
 styles: ["Disco", "Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="off-the-wall-3761228.jpg" title="Off The Wall by Michael Jackson" >}}
+"Off the Wall" is a song by American singer Michael Jackson, from his fifth album of the same name (1979). It was written by English songwriter Rod Temperton and produced by Quincy Jones, and released by Epic Records as the album's third single on November 17, 1979 in the UK and on February 2, 1980 in the U.S. The song was first offered to Karen Carpenter, while she was working on her first solo album, but she turned it down. Lyrically, the song is about getting over troubles.
+The song was well received by music critics, and became Jackson's third top 10 single from Off the Wall, which eventually spawned four top 10 singles; Jackson was the first person to accomplish this. It was performed by Jackson in five of his concert tours.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Stop 'Til You Get Enough (6:02)
 2. Rock With You (3:38)
 3. Working Day And Night (5:12)
@@ -38,15 +42,6 @@ styles: ["Disco", "Rhythm & Blues", "Soul"]
 8. I Can't Help It (4:27)
 9. It's The Falling In Love (3:46)
 10. Burn This Disco Out (3:38)
-
-<!-- section break -->
-
-"Off the Wall" is a song by American singer Michael Jackson, from his fifth album of the same name (1979). It was written by English songwriter Rod Temperton and produced by Quincy Jones, and released by Epic Records as the album's third single on November 17, 1979 in the UK and on February 2, 1980 in the U.S. The song was first offered to Karen Carpenter, while she was working on her first solo album, but she turned it down. Lyrically, the song is about getting over troubles.
-The song was well received by music critics, and became Jackson's third top 10 single from Off the Wall, which eventually spawned four top 10 singles; Jackson was the first person to accomplish this. It was performed by Jackson in five of his concert tours.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/off-the-wall/186166282" >}}<br>

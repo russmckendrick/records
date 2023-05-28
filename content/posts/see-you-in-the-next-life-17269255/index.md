@@ -20,10 +20,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop", "Glam"]
 ---
 
-{{< img src="see-you-in-the-next-life-17269255.jpg" title="See You In The Next Life... by Suede" >}}
+See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.
+On 29 August 2020, the band and Demon Records released a red vinyl edition for Record Store Day, marking the first edition in this format.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. She (Strings) (4:31)
 2. Elaine Paige (3:23)
 3. La Puissance (Live) (1:22)
@@ -37,14 +40,6 @@ styles: ["Alternative Rock", "Britpop", "Glam"]
 11. Untitled (Stanbridge Demo) (3:35)
 12. Attitude (Mick Jones Remix) (3:36)
 13. Still Life (Strings) (5:19)
-
-<!-- section break -->
-
-See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.
-On 29 August 2020, the band and Demon Records released a red vinyl edition for Record Store Day, marking the first edition in this format.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1485580531" >}}<br>

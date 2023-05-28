@@ -33,10 +33,14 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Classic Rock"]
 ---
 
-{{< img src="the-wall-8961614.jpg" title="The Wall by Pink Floyd" >}}
+Pink Floyd – The Wall is a 1982 British musical drama film directed by Alan Parker, based on Pink Floyd's 1979 album The Wall. The screenplay was written by Pink Floyd vocalist and bassist Roger Waters. The Boomtown Rats vocalist Bob Geldof plays rock star Pink, who, driven to insanity by the pressures of stardom and traumatic events in his life, constructs a physical and emotional wall to protect himself. However, this coping mechanism eventually backfires, and Pink demands to be set free.
+Like its associated album, the film is highly metaphorical, and frequently utilizes both visual and auditory symbols throughout its runtime. It features little dialogue, instead being driven by the music from the album throughout. The songs used in the film have several differences from their album versions, and one of the songs included, "When the Tigers Broke Free", does not appear on the album. Despite its turbulent production, the film received generally positive reviews and has an established cult following amongst Pink Floyd fans, although its reception from the band themselves has been less favorable.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Flesh? (3:16)
 2. The Thin Ice (2:27)
 3. Another Brick In The Wall Part 1 (3:11)
@@ -63,15 +67,6 @@ styles: ["Prog Rock", "Classic Rock"]
 24. Stop (0:30)
 25. The Trial (5:13)
 26. Outside The Wall (1:41)
-
-<!-- section break -->
-
-Pink Floyd – The Wall is a 1982 British musical drama film directed by Alan Parker, based on Pink Floyd's 1979 album The Wall. The screenplay was written by Pink Floyd vocalist and bassist Roger Waters. The Boomtown Rats vocalist Bob Geldof plays rock star Pink, who, driven to insanity by the pressures of stardom and traumatic events in his life, constructs a physical and emotional wall to protect himself. However, this coping mechanism eventually backfires, and Pink demands to be set free.
-Like its associated album, the film is highly metaphorical, and frequently utilizes both visual and auditory symbols throughout its runtime. It features little dialogue, instead being driven by the music from the album throughout. The songs used in the film have several differences from their album versions, and one of the songs included, "When the Tigers Broke Free", does not appear on the album. Despite its turbulent production, the film received generally positive reviews and has an established cult following amongst Pink Floyd fans, although its reception from the band themselves has been less favorable.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-wall/704273346" >}}<br>

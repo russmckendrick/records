@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Space Rock", "Prog Rock"]
 ---
 
-{{< img src="record-sunriders-11285242.jpg" title="Record + Sunriders by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kaleidoscope
 2. Repeater
 3. Crystal Ball
@@ -33,10 +32,6 @@ styles: ["Space Rock", "Prog Rock"]
 6. Sunriders
 7. Never and Always
 8. Close
-
-<!-- section break -->
-
-
 
 
 

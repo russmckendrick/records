@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 ---
 
-{{< img src="tim-finn-1855525.jpg" title="Tim Finn by Tim Finn" >}}
+Brian Timothy Finn  (born 25 June 1952) is a New Zealand singer, songwriter, musician, and composer. He is best known as a founding member of Split Enz. Finn founded the band in 1972 with Phil Judd and served as lead singer and principal songwriter. Following Judd's departure in 1977, he was joined by brother Neil. Finn wrote or co-wrote some of the band's best-known songs, including "I See Red" and "Six Months in a Leaky Boat". While still a member of Split Enz, he began a solo career, scoring the two hits "Fraction Too Much Friction" and "Made My Day" in 1983; he left the band in 1984. 
+He reunited with Neil and subsequently joined Crowded House for their third album Woodface, co-writing the majority of the songs on the album, including the hits "Four Seasons in One Day", "Weather with You" and "It's Only Natural". Leaving the band after the album's release, he reunited with Neil again later in the 1990s under the name Finn Brothers. Finn has participated in various collaborations with other artists, including former Split Enz members, and has also composed scores for films and musicals. Along with his brother, Finn was appointed Officer of the Order of British Empire in 1993 for his services to music. 
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Young Mountain (4:20)
 2. Not Even Close (4:18)
 3. How'm I Gonna Sleep (3:54)
@@ -36,16 +41,6 @@ styles: ["Alternative Rock", "Soft Rock", "Pop Rock"]
 8. Show A Little Mercy (4:00)
 9. Crescendo (4:17)
 10. Been There Done That (4:06)
-
-<!-- section break -->
-
-Brian Timothy Finn  (born 25 June 1952) is a New Zealand singer, songwriter, musician, and composer. He is best known as a founding member of Split Enz. Finn founded the band in 1972 with Phil Judd and served as lead singer and principal songwriter. Following Judd's departure in 1977, he was joined by brother Neil. Finn wrote or co-wrote some of the band's best-known songs, including "I See Red" and "Six Months in a Leaky Boat". While still a member of Split Enz, he began a solo career, scoring the two hits "Fraction Too Much Friction" and "Made My Day" in 1983; he left the band in 1984. 
-He reunited with Neil and subsequently joined Crowded House for their third album Woodface, co-writing the majority of the songs on the album, including the hits "Four Seasons in One Day", "Weather with You" and "It's Only Natural". Leaving the band after the album's release, he reunited with Neil again later in the 1990s under the name Finn Brothers. Finn has participated in various collaborations with other artists, including former Split Enz members, and has also composed scores for films and musicals. Along with his brother, Finn was appointed Officer of the Order of British Empire in 1993 for his services to music. 
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/he-will-have-his-way-the-songs-of-tim-neil-finn/721281542" >}}<br>

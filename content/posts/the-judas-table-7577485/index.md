@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-judas-table-7577485.jpg" title="The Judas Table by Antimatter" >}}
+The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Eyed Man (6:24)
 2. Killer (5:37)
 3. Comrades (4:58)
@@ -37,13 +39,6 @@ styles: ["Prog Rock"]
 8. Integrity (6:45)
 9. The Judas Table (7:21)
 10. Goodbye (2:32)
-
-<!-- section break -->
-
-The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-judas-table/1556091887" >}}<br>

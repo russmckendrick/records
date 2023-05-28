@@ -19,10 +19,9 @@ genres: ["Electronic", "Jazz", "Rock", "Pop", "Folk, World, & Country", "Stage &
 styles: ["Theme"]
 ---
 
-{{< img src="television-themes-12601366.jpg" title="Television Themes by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Are You Being Served
 2. The Good Life
 3. London Weekend Television
@@ -37,10 +36,6 @@ styles: ["Theme"]
 12. World In Action
 13. Sorry
 14. Open University
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/television-themes/1414662713" >}}<br>

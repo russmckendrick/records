@@ -24,10 +24,9 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-{{< img src="the-dangermen-sessions-volume-one-24543611.jpg" title="The Dangermen Sessions (Volume One) by Madness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. This Is Where (0:30)
 2. Girl Why Don't You? (3:05)
 3. Shame & Scandal (2:53)
@@ -41,10 +40,6 @@ styles: ["Ska"]
 11. You'll Lose A Good Thing (2:42)
 12. Rain (2:55)
 13. So Much Trouble In The World (3:44)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1504284446" >}}<br>

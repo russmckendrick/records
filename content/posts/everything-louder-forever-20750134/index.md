@@ -41,10 +41,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="everything-louder-forever-20750134.jpg" title="Everything Louder Forever by Motörhead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Overkill
 2. We Are Motörhead
 3. Snaggletooth
@@ -87,10 +86,6 @@ styles: ["Heavy Metal"]
 40. 1916
 41. Choking On Your Screams
 42. Motörhead 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-louder-forever-the-very-best-of-deluxe-edition/1591621148" >}}<br>

@@ -21,10 +21,14 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-{{< img src="the-return-of-bruno-743575.jpg" title="The Return Of Bruno by Bruce Willis" >}}
+The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album consists of blues, rhythm and blues and soul music sung by Willis, with backing musicians including Booker T. Jones, The Pointer Sisters, and The Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Comin' Right Up (3:25)
 2. Respect Yourself (3:51)
 3. Down In Hollywood (5:19)
@@ -35,15 +39,6 @@ styles: ["Blues Rock", "Pop Rock"]
 8. Fun Time (3:35)
 9. Lose Myself (3:55)
 10. Flirting With Disaster (4:27)
-
-<!-- section break -->
-
-The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album consists of blues, rhythm and blues and soul music sung by Willis, with backing musicians including Booker T. Jones, The Pointer Sisters, and The Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-return-of-bruno/1444378334" >}}<br>

@@ -25,10 +25,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="every-open-eye-7492694.jpg" title="Every Open Eye by Chvrches" >}}
+Building on the hooky pop electronica that had internet oracles everywhere falling for their 2013 debut, Glaswegian trio Lauren Mayberry, Iain Cook and Martin Doherty return on a second record shimmering with icy, controlled confidence. “Leave a Trace” is a skittering R&B-influenced air-puncher while “Clearest Blue” builds to an almost impossibly euphoric riot of 80s synth stabs. It’s not all precision-engineered pyrotechnics though. Closing track “Afterglow” (complete with Mayberry’s haunting one-take vocal and a radiator clanking in the background) proves that Chvrches do stripped-down just as well as they do scrubbed-up.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Never Ending Circles
 2. Leave A Trace
 3. Keep You On My Side
@@ -40,14 +43,6 @@ styles: ["Synth-pop"]
 9. Playing Dead
 10. Bury It
 11. Afterglow
-
-<!-- section break -->
-
-Building on the hooky pop electronica that had internet oracles everywhere falling for their 2013 debut, Glaswegian trio Lauren Mayberry, Iain Cook and Martin Doherty return on a second record shimmering with icy, controlled confidence. “Leave a Trace” is a skittering R&B-influenced air-puncher while “Clearest Blue” builds to an almost impossibly euphoric riot of 80s synth stabs. It’s not all precision-engineered pyrotechnics though. Closing track “Afterglow” (complete with Mayberry’s haunting one-take vocal and a radiator clanking in the background) proves that Chvrches do stripped-down just as well as they do scrubbed-up.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/every-open-eye/1440834051" >}}<br>

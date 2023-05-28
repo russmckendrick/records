@@ -23,10 +23,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-suburbs-2399813.jpg" title="The Suburbs by Arcade Fire" >}}
+The Suburbs is the third studio album by Canadian indie rock band Arcade Fire, released on August 2, 2010. Coinciding with its announcement, the band released a limited edition 12-inch single containing the title track and "Month of May". The album debuted at No. 1 on the Irish Albums Chart, the UK Albums Chart, the US Billboard 200 chart, and the Canadian Albums Chart. It won Album of the Year at the 2011 Grammy Awards, Best International Album at the 2011 BRIT Awards, Album of the Year at the 2011 Juno Awards, and the 2011 Polaris Music Prize for best Canadian album. Two weeks after winning Grammy's Album of the Year, the album jumped from No. 52 to No. 12 on the Billboard 200, the album's highest ranking since August 2010.Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (everywhere except the U.S. and Canada). The American and Canadian versions were released on August 2, 2011, to coincide with the original album's anniversary. The new version included two brand new tracks recorded during The Suburbs album sessions ("Culture War" and "Speaking in Tongues", the latter featuring David Byrne), an extended version of album track "Wasted Hours", Spike Jonze's short film, Scenes from the Suburbs, and an 80-page booklet as well as other exclusive content.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. The Suburbs
 2. Ready To Start
 3. Modern Man
@@ -43,16 +48,6 @@ styles: ["Indie Rock"]
 14. Sprawl II (Mountains Beyond Mountains)
 15. Suburban War
 16. The Suburbs (Continued)
-
-<!-- section break -->
-
-The Suburbs is the third studio album by Canadian indie rock band Arcade Fire, released on August 2, 2010. Coinciding with its announcement, the band released a limited edition 12-inch single containing the title track and "Month of May". The album debuted at No. 1 on the Irish Albums Chart, the UK Albums Chart, the US Billboard 200 chart, and the Canadian Albums Chart. It won Album of the Year at the 2011 Grammy Awards, Best International Album at the 2011 BRIT Awards, Album of the Year at the 2011 Juno Awards, and the 2011 Polaris Music Prize for best Canadian album. Two weeks after winning Grammy's Album of the Year, the album jumped from No. 52 to No. 12 on the Billboard 200, the album's highest ranking since August 2010.Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (everywhere except the U.S. and Canada). The American and Canadian versions were released on August 2, 2011, to coincide with the original album's anniversary. The new version included two brand new tracks recorded during The Suburbs album sessions ("Culture War" and "Speaking in Tongues", the latter featuring David Byrne), an extended version of album track "Wasted Hours", Spike Jonze's short film, Scenes from the Suburbs, and an 80-page booklet as well as other exclusive content.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-suburbs/1252757950" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ---
 
-{{< img src="loops-in-the-secret-society-13787906.jpg" title="Loops In The Secret Society by Jane Weaver" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Element (Loops Variation)
 2. Milk Loop
 3. Arrows (Loops Variation)
@@ -44,10 +43,6 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 20. Conduit
 21. Ivana Vessel
 22. Battle Ropes 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/loops-in-the-secret-society/1667806926" >}}<br>

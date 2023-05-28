@@ -29,29 +29,6 @@ genres: ["Jazz"]
 styles: ["Contemporary Jazz", "Fusion"]
 ---
 
-{{< img src="empire-central-24798023.jpg" title="Empire Central by Snarky Puppy" >}}
-
-<!-- section break -->
-
-1. Keep It On Your Mind (5:31)
-2. East Bay (5:11)
-3. Bet (5:34)
-4. Cliroy (4:45)
-5. Take It! (6:39)
-6. Portal (5:13)
-7. Broken Arrow (7:19)
-8. RL's (9:23)
-9. Mean Green (4:55)
-10. Fuel City (4:52)
-11. Free Fall (3:50)
-12. Belmont (6:29)
-13. Pineapple (4:57)
-14. Honiara (6:50)
-15. Coney Bear (5:17)
-16. Trinity (7:54)
-
-<!-- section break -->
-
 On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Founded in 2004 at the University of North Texas, the band made its musical home in Dallas—entrenched in the city’s funk, soul and gospel sounds—and it’s there where they made the live-recorded <i>Empire Central</i>. With band members co-writing songs for the first time, bassist and leader Michael League set them only one theme of inspiration: “make it Dallas”. The result encompasses the RH Factor soul of “Cliroy”, the sludgy funk of “Keep It On Your Mind” and the intricate melodies of “Bet”. Perhaps no one embodies the spirit of Dallas more than the band’s long-time collaborator, the funk keyboardist and singer Bernard Wright. <i>Empire Central</i> also marks his final recording—featured here on “Take It!”—before his death only months later. “This album is a chance to say thanks to our home,” League tells Apple Music. “It is also a tribute to Bernard and his incredible musical legacy. He left us far too soon.” Read on for League’s in-depth thoughts on the album, track by track.
 
 <b>“Keep It On Your Mind”</b>
@@ -104,6 +81,24 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
     
     
 
+
+## Tracklisting
+1. Keep It On Your Mind (5:31)
+2. East Bay (5:11)
+3. Bet (5:34)
+4. Cliroy (4:45)
+5. Take It! (6:39)
+6. Portal (5:13)
+7. Broken Arrow (7:19)
+8. RL's (9:23)
+9. Mean Green (4:55)
+10. Fuel City (4:52)
+11. Free Fall (3:50)
+12. Belmont (6:29)
+13. Pineapple (4:57)
+14. Honiara (6:50)
+15. Coney Bear (5:17)
+16. Trinity (7:54)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/empire-central/1624123331" >}}<br>

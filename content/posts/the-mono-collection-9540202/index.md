@@ -65,10 +65,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-mono-collection-9540202.jpg" title="The Mono Collection by The Kinks" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kinks
 2. Beautiful Delilah (2:08)
 3. So Mystifying (2:55)
@@ -204,10 +203,6 @@ styles: []
 133. Dandy (2:14)
 134. Animal Farm (3:01)
 135. Days (2:55)
-
-<!-- section break -->
-
-
 
 
 

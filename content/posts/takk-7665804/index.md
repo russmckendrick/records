@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="takk-7665804.jpg" title="Takk... by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Takk...
 2. Glósóli
 3. Hoppípolla
@@ -45,10 +44,6 @@ styles: ["Post Rock"]
 9. Svo Hljótt
 10. Heysátan
 11. Mílanó
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>

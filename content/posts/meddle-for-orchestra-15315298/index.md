@@ -18,19 +18,14 @@ genres: ["Classical"]
 styles: []
 ---
 
-{{< img src="meddle-for-orchestra-15315298.jpg" title="Meddle For Orchestra by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Echoes
 2. One Of These Days
 3. A Pillow Of Winds
 4. San Tropez
 5. Fearless
-
-<!-- section break -->
-
-
 
 
 

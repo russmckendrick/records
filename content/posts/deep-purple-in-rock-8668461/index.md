@@ -33,10 +33,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="deep-purple-in-rock-8668461.jpg" title="Deep Purple In Rock by Deep Purple" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Speed King
 2. Bloodsucker
 3. Child In Time
@@ -44,10 +43,6 @@ styles: ["Hard Rock"]
 5. Into The Fire
 6. Living Wreck
 7. Hard Lovin' Man
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock-25th-anniversary-edition/696798568" >}}<br>

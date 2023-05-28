@@ -23,10 +23,9 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-{{< img src="the-last-days-of-oakland-9225434.jpg" title="The Last Days Of Oakland by Fantastic Negrito" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro - The Last Days Of Oakland (0:35)
 2. Working Poor (4:01)
 3. About A Bird (3:40)
@@ -40,10 +39,6 @@ styles: []
 11. The Worst (3:52)
 12. Rant Rushmore (5:01)
 13. Nothing Without You (4:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196" >}}<br>

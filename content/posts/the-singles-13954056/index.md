@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Soft Rock"]
 ---
 
-{{< img src="the-singles-13954056.jpg" title="The Singles by The Bluetones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Are You Blue Or Are You Blind? (2:52)
 2. Bluetonic (4:07)
 3. Slight Return (3:23)
@@ -46,10 +45,6 @@ styles: ["Soft Rock"]
 14. Freeze Dried Pop (Dumb It Up) (2:26)
 15. Persuasion (4:07)
 16. The Bluetones Big Score (3:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-singles/1443777907" >}}<br>

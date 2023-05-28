@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "Downtempo"]
 ---
 
-{{< img src="do-you-trust-your-friends-1870709.jpg" title="Do You Trust Your Friends? by Stars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Your Ex-Lover Is Dead (Final Fantasy)
 2. Set Yourself On Fire (Montag)
 3. Ageless Beauty (The Most Serene Republic)
@@ -33,10 +32,6 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 11. Celebration Guns (Camouflage Nights With Kevin Drew)
 12. Soft Revolution (The Stills)
 13. Calendar Girl (Young Galaxy)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827" >}}<br>

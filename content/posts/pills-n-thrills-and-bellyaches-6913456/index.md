@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="pills-n-thrills-and-bellyaches-6913456.jpg" title="Pills 'N' Thrills And Bellyaches by Happy Mondays" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kinky Afro
 2. God's Cop
 3. Donovan
@@ -35,10 +34,6 @@ styles: ["Alternative Rock"]
 8. Step On
 9. Holiday
 10. Harmony
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pills-n-thrills-and-bellyaches-collectors-edition/1313883247" >}}<br>

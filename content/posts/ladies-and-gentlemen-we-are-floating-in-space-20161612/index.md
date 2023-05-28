@@ -31,10 +31,12 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="ladies-and-gentlemen-we-are-floating-in-space-20161612.jpg" title="Ladies And Gentlemen We Are Floating In Space by Spiritualized" >}}
+Ladies and Gentlemen We Are Floating in Space is the third studio album by English space rock band Spiritualized, released on 16 June 1997. The album features guest appearances from the Balanescu Quartet, The London Community Gospel Choir and Dr. John.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ladies And Gentlemen We Are Floating In Space
 2. Come Together
 3. I Think I'm In Love
@@ -47,13 +49,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 10. No God Only Religion
 11. Cool Waves
 12. Cop Shoot Cop…
-
-<!-- section break -->
-
-Ladies and Gentlemen We Are Floating in Space is the third studio album by English space rock band Spiritualized, released on 16 June 1997. The album features guest appearances from the Balanescu Quartet, The London Community Gospel Choir and Dr. John.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ladies-and-gentlemen-we-are-floating-in-space/1502476612" >}}<br>

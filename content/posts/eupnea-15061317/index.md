@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="eupnea-15061317.jpg" title="Eupnea by Pure Reason Revolution" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. New Obsession
 2. Silent Genesis
 3. Maelstrom
@@ -33,10 +32,6 @@ styles: ["Prog Rock"]
 10. Ghosts & Typhoons (8:45)
 11. Beyond Our Bodies (4:28)
 12. Eupnea (13:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eupnea/1494941222" >}}<br>

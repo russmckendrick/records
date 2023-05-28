@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="internal-wrangler-356708.jpg" title="Internal Wrangler by Clinic" >}}
+Internal Wrangler is the debut studio album by British indie rock band Clinic. It was released on 1 May 2000 through Domino Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Voodoo Wop (1:44)
 2. The Return Of Evil Bill (2:32)
 3. Internal Wrangler (3:05)
@@ -40,13 +42,6 @@ styles: ["Indie Rock"]
 11. 2nd Foot Stomp (2:46)
 12. 2/4 (2:43)
 13. Goodnight Georgie (2:32)
-
-<!-- section break -->
-
-Internal Wrangler is the debut studio album by British indie rock band Clinic. It was released on 1 May 2000 through Domino Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/internal-wrangler/306614126" >}}<br>

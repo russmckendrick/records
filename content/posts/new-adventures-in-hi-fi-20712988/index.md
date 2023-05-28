@@ -31,10 +31,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="new-adventures-in-hi-fi-20712988.jpg" title="New Adventures In Hi-Fi by R.E.M." >}}
+New Adventures in Hi-Fi is the tenth studio album by the American alternative rock band R.E.M. It was their fifth major-label release for Warner Bros. Records, released on September 9, 1996, in Europe and Australia, and the following day in the United States. New Adventures in Hi-Fi was the last album recorded with founding member Bill Berry (who left the band amicably the following year), original manager Jefferson Holt, and long-time producer Scott Litt. The members of R.E.M. consider the recorded album representative of the band at their peak, and fans generally regard it as the band's last great record before a perceived artistic decline during the late 1990s and early 2000s. It has sold around seven million units, growing in cult status years after its release, with several retrospectives ranking it among the top of the band's recorded catalogue.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. How The West Was Won And Where It Got Us (4:30)
 2. The Wake-up Bomb (5:07)
 3. New Test Leper (5:25)
@@ -49,13 +51,6 @@ styles: ["Alternative Rock"]
 12. So Fast, So Numb (4:11)
 13. Low Desert (3:30)
 14. Electrolite (4:05)
-
-<!-- section break -->
-
-New Adventures in Hi-Fi is the tenth studio album by the American alternative rock band R.E.M. It was their fifth major-label release for Warner Bros. Records, released on September 9, 1996, in Europe and Australia, and the following day in the United States. New Adventures in Hi-Fi was the last album recorded with founding member Bill Berry (who left the band amicably the following year), original manager Jefferson Holt, and long-time producer Scott Litt. The members of R.E.M. consider the recorded album representative of the band at their peak, and fans generally regard it as the band's last great record before a perceived artistic decline during the late 1990s and early 2000s. It has sold around seven million units, growing in cult status years after its release, with several retrospectives ranking it among the top of the band's recorded catalogue.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221" >}}<br>

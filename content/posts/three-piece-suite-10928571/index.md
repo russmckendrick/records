@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="three-piece-suite-10928571.jpg" title="Three Piece Suite by Gentle Giant" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Steven Wilson Remixes
 2. Giant
 3. Nothing At All	
@@ -42,10 +41,6 @@ styles: ["Prog Rock"]
 10. Three Friends	
 11. Freedom's Child	
 12. Nothing At All (Steven Wilson 7" Edit)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1261302548" >}}<br>

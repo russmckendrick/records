@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="the-it-girl-25128730.jpg" title="The It Girl by Sleeper" >}}
+The It Girl is the second studio album by English Britpop band Sleeper, released in May 1996 (see 1996 in music). It was their most successful album, selling over 300,000 copies in the UK alone. The album was released internationally; the US version has a different track listing along with alternative photos in the liner booklet. It was recorded in London over the winter of 1995 and 1996.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lie Detector 
 2. Sale of the Century
 3. What Do I Do Now?
@@ -54,13 +56,6 @@ styles: ["Indie Rock", "Britpop"]
 24. Nice Guy Eddie (Louise Home Demo) (2:51)
 25. Dress Like Your Mother (Louise Home Demo) (2:48)
 26. Good Luck Mr Gorsky (Louise Home Demo) (3:45)
-
-<!-- section break -->
-
-The It Girl is the second studio album by English Britpop band Sleeper, released in May 1996 (see 1996 in music). It was their most successful album, selling over 300,000 copies in the UK alone. The album was released internationally; the US version has a different track listing along with alternative photos in the liner booklet. It was recorded in London over the winter of 1995 and 1996.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-it-girl/835855794" >}}<br>

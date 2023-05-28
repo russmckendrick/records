@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-{{< img src="temple-of-the-dog-5098793.jpg" title="Temple Of The Dog by Temple Of The Dog" >}}
+Temple of the Dog is the only album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Say Hello 2 Heaven (6:22)
 2. Reach Down (11:11)
 3. Hunger Strike (4:03)
@@ -39,13 +41,6 @@ styles: ["Grunge", "Alternative Rock"]
 8. Your Saviour (4:02)
 9. Four Walled World (6:53)
 10. All Night Thing (3:52)
-
-<!-- section break -->
-
-Temple of the Dog is the only album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog/1440657497" >}}<br>

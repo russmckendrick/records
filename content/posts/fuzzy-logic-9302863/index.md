@@ -23,10 +23,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="fuzzy-logic-9302863.jpg" title="Fuzzy Logic by Super Furry Animals" >}}
+Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recorded at Rockfield Studios in Wales, and released on the Creation label in May 1996, it was positively received by critics, who felt it was an eclectic if inconsistent mix of psychedelic music and glam rock, and was included in Q Magazine's list of recordings of the year. It has retained a modest respect among some critics; it was listed in Q's "Best British Albums Ever" in July 2004, and is included in the book 1001 Albums You Must Hear Before You Die. It contains two top 20 hits in "If You Don't Want Me to Destroy You" and "Something 4 the Weekend"; it also contains the singles "God! Show Me Magic" and "Hometown Unicorn". It reached number 23 in the UK Albums Chart on release. In 2013, NME ranked it at number 245 in its list of the 500 Greatest Albums of All Time.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. God! Show Me Magic (1:50)
 2. Fuzzy Birds (2:27)
 3. Something 4 The Weekend (2:33)
@@ -39,13 +41,6 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 10. Hangin' With Howard Marks (4:20)
 11. Long Gone (5:20)
 12. For Now And Ever (3:32)
-
-<!-- section break -->
-
-Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recorded at Rockfield Studios in Wales, and released on the Creation label in May 1996, it was positively received by critics, who felt it was an eclectic if inconsistent mix of psychedelic music and glam rock, and was included in Q Magazine's list of recordings of the year. It has retained a modest respect among some critics; it was listed in Q's "Best British Albums Ever" in July 2004, and is included in the book 1001 Albums You Must Hear Before You Die. It contains two top 20 hits in "If You Don't Want Me to Destroy You" and "Something 4 the Weekend"; it also contains the singles "God! Show Me Magic" and "Hometown Unicorn". It reached number 23 in the UK Albums Chart on release. In 2013, NME ranked it at number 245 in its list of the 500 Greatest Albums of All Time.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fuzzy-logic/1663218952" >}}<br>

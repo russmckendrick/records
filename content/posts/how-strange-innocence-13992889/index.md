@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="how-strange-innocence-13992889.jpg" title="How Strange, Innocence by Explosions In The Sky" >}}
+How Strange, Innocence is the first album recorded by post-rock band Explosions in the Sky, released on January 17, 2000. It is their only album for the Sad Loud America label. Initially only 300 copies were issued in the form of CD-Rs. Due to many requests from fans, the album was remastered from the original tapes,  given new artwork, and reissued on CD by Temporary Residence Limited on October 11, 2005.
+The album was also released in a limited edition, 300 copy, double LP 180 gram vinyl on Ruined Potential records. The record was released in 5 different colors (black, blue, red, gray and white). The black, blue, and gray versions came with a special insert. The band sold the vinyl version exclusively on their 2004 tour. On July 4, 2019, a vinyl re-issue and streaming platform release (along with 2005's The Rescue) was announced for August 16.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Song For Our Fathers
 2. Snow And Lights
 3. Magic Hours
@@ -34,14 +37,6 @@ styles: ["Post Rock"]
 5. Glittering Blackness
 6. Time Stops
 7. Remember Me As A Time Of Day
-
-<!-- section break -->
-
-How Strange, Innocence is the first album recorded by post-rock band Explosions in the Sky, released on January 17, 2000. It is their only album for the Sad Loud America label. Initially only 300 copies were issued in the form of CD-Rs. Due to many requests from fans, the album was remastered from the original tapes,  given new artwork, and reissued on CD by Temporary Residence Limited on October 11, 2005.
-The album was also released in a limited edition, 300 copy, double LP 180 gram vinyl on Ruined Potential records. The record was released in 5 different colors (black, blue, red, gray and white). The black, blue, and gray versions came with a special insert. The band sold the vinyl version exclusively on their 2004 tour. On July 4, 2019, a vinyl re-issue and streaming platform release (along with 2005's The Rescue) was announced for August 16.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117" >}}<br>

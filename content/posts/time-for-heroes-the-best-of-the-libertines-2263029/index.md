@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="time-for-heroes-the-best-of-the-libertines-2263029.jpg" title="Time For Heroes - The Best Of The Libertines by The Libertines" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Up The Bracket (2:40)
 2. Time For Heroes (2:39)
 3. Mayday (1:04)
@@ -43,10 +42,6 @@ styles: ["Indie Rock"]
 11. Death On The Stairs (3:44)
 12. I Get Along (2:51)
 13. What Became Of The Likely Lads (3:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/time-for-heroes-the-best-of-the-libertines/1544358134" >}}<br>

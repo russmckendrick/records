@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="kimono-my-house-2225866.jpg" title="Kimono My House by Sparks" >}}
+Kimono My House is the third studio album by American rock band Sparks, released on May 1, 1974, by Island Records. The album is considered to be their commercial breakthrough, and was met with widespread acclaim.
+Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My House peaked at No. 4 in the UK and No. 101 in the US. Retrospectively, Kimono My House is considered one of Sparks's best works and one of the best glam rock albums.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. This Town Ain't Big Enough For Both Of Us
 2. Amateur Hour
 3. Falling In Love With Myself Again
@@ -35,14 +38,6 @@ styles: ["Pop Rock"]
 8. Complaints
 9. In My Family
 10. Equator
-
-<!-- section break -->
-
-Kimono My House is the third studio album by American rock band Sparks, released on May 1, 1974, by Island Records. The album is considered to be their commercial breakthrough, and was met with widespread acclaim.
-Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My House peaked at No. 4 in the UK and No. 101 in the US. Retrospectively, Kimono My House is considered one of Sparks's best works and one of the best glam rock albums.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kimono-my-house-21st-century-edition/1443750483" >}}<br>

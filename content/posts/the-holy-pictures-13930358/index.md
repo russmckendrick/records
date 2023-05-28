@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 ---
 
-{{< img src="the-holy-pictures-13930358.jpg" title="The Holy Pictures by David Holmes" >}}
+The Holy Pictures is a 2008 studio album by David Holmes. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Heard Wonders (5:35)
 2. The Story Of The Ink (5:23)
 3. Love Reign Over Me (3:48)
@@ -35,13 +37,6 @@ styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 8. Hey Maggy (4:59)
 9. Birth (1:08)
 10. The Ballad Of Sarah & Jack (4:28)
-
-<!-- section break -->
-
-The Holy Pictures is a 2008 studio album by David Holmes. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures/1452866493" >}}<br>

@@ -37,10 +37,17 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
 ---
 
-{{< img src="live-at-leeds-9414554.jpg" title="Live At Leeds by The Who" >}}
+Live at Leeds is the first live album by English rock band The Who. It was recorded at the University of Leeds Refectory on 14 February 1970, and is their only live album that was released while the group were still actively recording and performing with their best-known line-up of Roger Daltrey, Pete Townshend, John Entwistle and Keith Moon.
+The Who were looking for a way to follow up their 1969 album Tommy, and had recorded several shows on tours supporting that album, but didn't like the sound. Consequently, they booked the show at Leeds University, along with one at Hull City Hall the following day, specifically to record a live album. Six songs were taken from the Leeds show, and the cover was pressed to look like a bootleg recording. The sound was significantly different from Tommy and featured hard rock arrangements that were typical of the band's live shows.
+The album was released in 23 May 1970 by Decca and MCA in the United States, and by Track and Polydor in the United Kingdom. It has been reissued on several occasions and in several different formats. Since its release, Live at Leeds has been cited by several music critics as the best live rock recording of all time.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Heaven And Hell (5:06)
 2. I Can't Explain (2:26)
 3. Fortune Teller (2:34)
@@ -74,18 +81,6 @@ styles: ["Blues Rock", "Hard Rock"]
 31. Shakin' All Over (4:34)
 32. My Generation (15:24)
 33. Magic Bus (7:54)
-
-<!-- section break -->
-
-Live at Leeds is the first live album by English rock band The Who. It was recorded at the University of Leeds Refectory on 14 February 1970, and is their only live album that was released while the group were still actively recording and performing with their best-known line-up of Roger Daltrey, Pete Townshend, John Entwistle and Keith Moon.
-The Who were looking for a way to follow up their 1969 album Tommy, and had recorded several shows on tours supporting that album, but didn't like the sound. Consequently, they booked the show at Leeds University, along with one at Hull City Hall the following day, specifically to record a live album. Six songs were taken from the Leeds show, and the cover was pressed to look like a bootleg recording. The sound was significantly different from Tommy and featured hard rock arrangements that were typical of the band's live shows.
-The album was released in 23 May 1970 by Decca and MCA in the United States, and by Track and Polydor in the United Kingdom. It has been reissued on several occasions and in several different formats. Since its release, Live at Leeds has been cited by several music critics as the best live rock recording of all time.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-leeds-deluxe-edition-2001-remaster/1440859591" >}}<br>

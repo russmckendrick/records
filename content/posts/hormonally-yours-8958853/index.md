@@ -19,10 +19,12 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="hormonally-yours-8958853.jpg" title="Hormonally Yours by Shakespear's Sister" >}}
+Hormonally Yours is the second studio album by British pop-rock act Shakespears Sister, released on 17 February 1992 by London Records. The album went on to become a critical and commercial success, and is their best-selling album to date. Hormonally Yours peaked at No. 3 on the UK Albums Chart and has been certified double platinum by the BPI, spending 55 weeks on the chart. The album spawned five singles, three of which reached the UK top 20. The album's second single, "Stay" became the group's best-selling single, topping the UK Singles Chart for eight consecutive weeks. It also peaked at number four on the US Billboard Hot 100.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Goodbye Cruel World
 2. I Don't Care
 3. My 16th Apology
@@ -35,13 +37,6 @@ styles: []
 10. Catwoman
 11. Let Me Entertain You
 12. Hello (Turn Your Radio On)
-
-<!-- section break -->
-
-Hormonally Yours is the second studio album by British pop-rock act Shakespears Sister, released on 17 February 1992 by London Records. The album went on to become a critical and commercial success, and is their best-selling album to date. Hormonally Yours peaked at No. 3 on the UK Albums Chart and has been certified double platinum by the BPI, spending 55 weeks on the chart. The album spawned five singles, three of which reached the UK top 20. The album's second single, "Stay" became the group's best-selling single, topping the UK Singles Chart for eight consecutive weeks. It also peaked at number four on the US Billboard Hot 100.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hormonally-yours/1321519468" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-{{< img src="the-dark-side-of-the-moon-live-at-wembley-1974-26503601.jpg" title="The Dark Side Of The Moon (Live At Wembley 1974) by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
 3. On The Run
@@ -37,10 +36,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="in-your-room-10280569.jpg" title="In Your Room by Anneke van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pearly (3:32)
 2. Hey Okay! (2:34)
 3. I Want (3:14)
@@ -35,10 +34,6 @@ styles: ["Pop Rock"]
 10. Longest Day (4:11)
 11. Just Fine (3:27)
 12. Adore (3:57)
-
-<!-- section break -->
-
-
 
 
 

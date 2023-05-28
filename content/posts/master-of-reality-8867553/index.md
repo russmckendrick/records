@@ -25,10 +25,15 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-{{< img src="master-of-reality-8867553.jpg" title="Master Of Reality by Black Sabbath" >}}
+Master of Reality is the third studio album by English heavy metal band Black Sabbath, released on 21 July 1971 by Vertigo Records. It is regarded by some critics as the foundation of doom metal, stoner rock, and sludge metal. Produced by Rodger Bain, who also produced the band's prior two albums, Master of Reality was recorded at Island Studios in London from February to April 1971. Guitarist Tony Iommi and bassist Geezer Butler downtuned their instruments during the production, achieving what Iommi called a "bigger, heavier sound".Master of Reality peaked at number five on the UK Albums Chart and number eight on the US Billboard 200. Negatively received by critics on release, the album is now considered one of the greatest heavy metal albums of all time. It was certified double platinum after having sold over two million copies.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Sweet Leaf (5:06)
 2. After Forever (Including The Elegy) (5:27)
 3. Embryo (0:28)
@@ -37,16 +42,6 @@ styles: ["Heavy Metal", "Hard Rock"]
 6. Lord Of This World (5:26)
 7. Solitude (5:02)
 8. Into The Void (6:11)
-
-<!-- section break -->
-
-Master of Reality is the third studio album by English heavy metal band Black Sabbath, released on 21 July 1971 by Vertigo Records. It is regarded by some critics as the foundation of doom metal, stoner rock, and sludge metal. Produced by Rodger Bain, who also produced the band's prior two albums, Master of Reality was recorded at Island Studios in London from February to April 1971. Guitarist Tony Iommi and bassist Geezer Butler downtuned their instruments during the production, achieving what Iommi called a "bigger, heavier sound".Master of Reality peaked at number five on the UK Albums Chart and number eight on the US Billboard 200. Negatively received by critics on release, the album is now considered one of the greatest heavy metal albums of all time. It was certified double platinum after having sold over two million copies.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/master-of-reality-2009-remastered-version/1193822439" >}}<br>

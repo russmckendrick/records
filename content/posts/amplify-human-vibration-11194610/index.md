@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="amplify-human-vibration-11194610.jpg" title="Amplify Human Vibration by Nordic Giants" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Taxonomy of Illusions (6:35)
 2. First Light Of Dawn (6:55)
 3. Spirit (6:35)
@@ -29,10 +28,6 @@ styles: ["Post Rock"]
 5. Reawake (4:57)
 6. Immortal Elements (6:15)
 7. Autonomous (6:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amplify-human-vibration/1293775068" >}}<br>

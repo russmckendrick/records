@@ -21,10 +21,9 @@ genres: ["Reggae"]
 styles: ["Reggae"]
 ---
 
-{{< img src="special-970900.jpg" title="Special by Jimmy Cliff" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Special (3:51)
 2. Love Is All (4:19)
 3. Peace Officer (4:12)
@@ -36,10 +35,6 @@ styles: ["Reggae"]
 9. Originator (4:56)
 10. Rock Children (4:00)
 11. Where There Is Love (4:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/special/185718171" >}}<br>

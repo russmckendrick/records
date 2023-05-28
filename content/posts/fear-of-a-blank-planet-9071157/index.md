@@ -26,19 +26,6 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Prog Rock"]
 ---
 
-{{< img src="fear-of-a-blank-planet-9071157.jpg" title="Fear Of A Blank Planet by Porcupine Tree" >}}
-
-<!-- section break -->
-
-1. Fear Of A Blank Planet (7:28)
-2. My Ashes (5:09)
-3. Anesthetize (17:52)
-4. Sentimental (5:26)
-5. Way Out Of Here (7:38)
-6. Sleep Together (7:26)
-
-<!-- section break -->
-
 Fear of a Blank Planet is the ninth studio album by British progressive rock band Porcupine Tree and their best selling before 2009's The Incident. It was released on 16 April 2007 in the UK and the rest of Europe by Roadrunner, 24 April 2007 in the United States by Atlantic, 25 April 2007 in Japan by WHD, and 1 May 2007 in Canada by WEA. Steven Wilson has mentioned that the album's title is a direct reference to the 1990 Public Enemy album Fear of a Black Planet; while the former tackled race issues, the latter is about the fear of losing the current generation of youth to various common threats to their mental and social wellbeing, including broken homes, excessive "screen time", and narcotic overuse (prescribed and otherwise) to the point of mental and spiritual "blankness".
 The album was written in Tel Aviv and London between January and July 2006. The promotion of the record included a premiere performance of the songs during the shows in support of the Arriving Somewhere... DVD tour between September and November 2006, and a series of listening parties at New York's Legacy Studios, and London's Abbey Road Studios during January 2007.
 Fear of a Blank Planet was followed later the same year by release of the Nil Recurring extended play. An additional track titled "Always Recurring" was demoed yet did not receive a formal release on any of the four records (the Fear of a Blank Planet LP, the Fear of a Blank Planet single, the Way Out of Here single, and the Nil Recurring EP) released by Porcupine Tree during this era. With the release of Insurgentes, Wilson's debut solo album, Wilson would further develop some of the ideas on which Fear of a Blank Planet is conceived.
@@ -48,6 +35,14 @@ The album charted in almost all European countries and entered the U.S. Billboar
     
     
 
+
+## Tracklisting
+1. Fear Of A Blank Planet (7:28)
+2. My Ashes (5:09)
+3. Anesthetize (17:52)
+4. Sentimental (5:26)
+5. Way Out Of Here (7:38)
+6. Sleep Together (7:26)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-of-a-blank-planet/1532103463" >}}<br>

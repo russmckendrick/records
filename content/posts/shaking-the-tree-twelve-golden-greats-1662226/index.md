@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-{{< img src="shaking-the-tree-twelve-golden-greats-1662226.jpg" title="Shaking The Tree (Twelve Golden Greats) by Peter Gabriel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Solsbury Hill
 2. I Don't Remember
 3. Sledgehammer
@@ -34,10 +33,6 @@ styles: ["Art Rock", "Pop Rock"]
 10. Shock The Monkey
 11. Big Time
 12. Biko
-
-<!-- section break -->
-
-
 
 
 

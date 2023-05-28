@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="the-greatest-hits-14199596.jpg" title="The Greatest Hits by Thunder" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dirty Love (5:22)
 2. Love Walked In (6:22)
 3. She's So Fine (5:20)
@@ -60,10 +59,6 @@ styles: ["Hard Rock"]
 26. Future Train (2019 Version) (6:08)
 27. Low Life In High Places (2019 Version) (5:45)
 28. Your Time Is Gonna Come (4:26)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}<br>

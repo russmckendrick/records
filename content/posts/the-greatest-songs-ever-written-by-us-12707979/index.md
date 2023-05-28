@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="the-greatest-songs-ever-written-by-us-12707979.jpg" title="The Greatest Songs Ever Written... By Us by NOFX" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dinosaurs Will Die (2:51)
 2. Linoleum (2:06)
 3. Bob (2:02)
@@ -54,10 +53,6 @@ styles: ["Punk"]
 25. Franco Un-American (2:27)
 26. Kill All The White Man (2:49)
 27. Wore Out The Soles Of My Party Boots (2:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726" >}}<br>

@@ -25,24 +25,6 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="ode-to-joy-14212648.jpg" title="Ode To Joy by Wilco" >}}
-
-<!-- section break -->
-
-1. Bright Leaves
-2. Before Us
-3. One And A Half Stars
-4. Quiet Amplifier
-5. Everyone Hides
-6. White Wooden Cross
-7. Citizens
-8. We Were Lucky
-9. Love Is Everywhere (Beware)
-10. Hold Me Anyway
-11. An Empty Corner
-
-<!-- section break -->
-
 “We almost called the record <i>The Trouble With Caring</i>,” Wilco’s Jeff Tweedy tells Apple Music. “We all give a shit. You have to hang on to that in the face of a world where it's very apparent that a lot of people don't give a shit. It's important to fuck with them, to hold on to your sanity.” Though they instead went with something that slots somewhere between <i>Star Wars</i> and <i>Being There</i> in their discography's pantheon of cheekily reappropriated titles, that battle against ambivalence and stasis drives the band's 11th album—not just in subject matter, but in how they sound and operate in the thick of their third decade. On the heels of Tweedy's 2018 memoir and stripped-down two-headed solo venture, <i>WARM</i> and <i>Warmer</i>, <i>Ode to Joy</i> amps up the moodiness and chilly ambiance but still feels of a piece with that introspective, relatively direct work, reconciling what it means to be an artist—or to be, period—in this particular moment. “There's an American atmosphere right now of some type of mourning or grief,” Tweedy says. “What I've learned is that you shouldn't waste a whole lot of time feeling guilty about having moments of joy in the face of depression. Do not postpone happiness based on some struggle you are witnessing or participating in. That's just kind of a core contemplation of almost everything that I've been working on for a pretty long time.” Bask in the weird times with this track-by-track overview straight from Tweedy himself.<br />
 <b>Bright Leaves</b>
 “There's some beauty in never changing. There's some beauty in understanding your core self and forgiving yourself, that you're the same kid who made stupid mistakes when you were 15, but you have become a better steward of that person as you've gotten older. There is obviously something to mourn about the fact that we have such a difficult time changing things that need to be changed about ourselves and about our environment and about our political system, our culture. Wilco is a perfect vehicle for stuff like that, because there's a lot of ambience and atmosphere to the way we play together.”<br />
@@ -70,6 +52,19 @@ styles: []
         
     
 
+
+## Tracklisting
+1. Bright Leaves
+2. Before Us
+3. One And A Half Stars
+4. Quiet Amplifier
+5. Everyone Hides
+6. White Wooden Cross
+7. Citizens
+8. We Were Lucky
+9. Love Is Everywhere (Beware)
+10. Hold Me Anyway
+11. An Empty Corner
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ode-to-joy/1472975878" >}}<br>

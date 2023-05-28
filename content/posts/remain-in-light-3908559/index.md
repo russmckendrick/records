@@ -24,21 +24,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
 
-{{< img src="remain-in-light-3908559.jpg" title="Remain In Light by Talking Heads" >}}
-
-<!-- section break -->
-
-1. Born Under Punches (The Heat Goes On)
-2. Crosseyed And Painless
-3. The Great Curve
-4. Once In A Lifetime
-5. Houses In Motion
-6. Seen And Not Seen
-7. Listening Wind
-8. The Overload
-
-<!-- section break -->
-
 Remain in Light is the fourth studio album by American rock band Talking Heads, released on October 8, 1980 by Sire Records. It was recorded at Compass Point Studios in the Bahamas and Sigma Sound Studios in Philadelphia during July and August 1980. It was the last Talking Heads album to be produced by Brian Eno.
 After the release of Fear of Music in 1979, Talking Heads and Eno sought to dispel notions of the band as a mere vehicle for frontman and songwriter David Byrne. Drawing influence from Nigerian musician Fela Kuti, they experimented with African polyrhythms, funk, and electronics, recording instrumental tracks as a series of looping grooves. The sessions incorporated a variety of side musicians, including guitarist Adrian Belew, singer Nona Hendryx, and trumpet player Jon Hassell.
 Byrne struggled with writer's block, but adopted a scattered, stream-of-consciousness lyrical style inspired by early rap and academic literature on Africa. The artwork was conceived by bassist Tina Weymouth and drummer Chris Frantz, and crafted with the help of the Massachusetts Institute of Technology's computers and design company M&Co. The band hired additional members for a promotional tour, and following its completion, they went on a year-long hiatus to pursue side projects.
@@ -49,6 +34,16 @@ Remain in Light was acclaimed by critics, who praised its sonic experimentation,
         
     
 
+
+## Tracklisting
+1. Born Under Punches (The Heat Goes On)
+2. Crosseyed And Painless
+3. The Great Curve
+4. Once In A Lifetime
+5. Houses In Motion
+6. Seen And Not Seen
+7. Listening Wind
+8. The Overload
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/remain-in-light-deluxe-version/124922154" >}}<br>

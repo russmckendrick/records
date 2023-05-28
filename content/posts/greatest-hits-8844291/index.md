@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="greatest-hits-8844291.jpg" title="Greatest Hits by Tom Petty And The Heartbreakers" >}}
+Greatest Hits is a compilation album by Tom Petty and the Heartbreakers, released in 1993. It is Petty's best-selling album to date and was certified 12× Platinum by the RIAA on April 28, 2015. The single "Mary Jane's Last Dance" became one of Petty's most popular songs, reaching No. 14 on the Billboard Hot 100 and No. 1 on the Billboard Mainstream Rock Tracks chart. The other new song on the album is a cover of the Thunderclap Newman hit "Something in the Air". The album contains no songs from 1987's Let Me Up (I've Had Enough). However, three songs from Petty's 1989 solo album Full Moon Fever were included.
+On its original release in November 1993, the album debuted at No. 8 on Billboard 200,  and first peaked at No. 5 on the chart in February 1994. It reached a new peak of No. 2 following Petty's death in 2017.The new tracks "Mary Jane's Last Dance" and "Something in the Air" were the band's last recordings with drummer Stan Lynch.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. American Girl
 2. Breakdown
 3. Anything That's Rock 'N' Roll
@@ -49,14 +52,6 @@ styles: ["Folk Rock"]
 17. Into The Great Wide Open
 18. Mary Jane's Last Dance
 19. Something In The Air
-
-<!-- section break -->
-
-Greatest Hits is a compilation album by Tom Petty and the Heartbreakers, released in 1993. It is Petty's best-selling album to date and was certified 12× Platinum by the RIAA on April 28, 2015. The single "Mary Jane's Last Dance" became one of Petty's most popular songs, reaching No. 14 on the Billboard Hot 100 and No. 1 on the Billboard Mainstream Rock Tracks chart. The other new song on the album is a cover of the Thunderclap Newman hit "Something in the Air". The album contains no songs from 1987's Let Me Up (I've Had Enough). However, three songs from Petty's 1989 solo album Full Moon Fever were included.
-On its original release in November 1993, the album debuted at No. 8 on Billboard 200,  and first peaked at No. 5 on the chart in February 1994. It reached a new peak of No. 2 following Petty's death in 2017.The new tracks "Mary Jane's Last Dance" and "Something in the Air" were the band's last recordings with drummer Stan Lynch.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1469579555" >}}<br>

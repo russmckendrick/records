@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 ---
 
-{{< img src="in-through-the-out-door-7303532.jpg" title="In Through The Out Door by Led Zeppelin" >}}
+<i>In Through the Out Door</i>, Led Zeppelin’s final studio album, was also one of the few pre-SoundScan era releases to debut atop the Billboard chart. Coming after a three-year-plus wait, the record delivers some of Zeppelin’s most ambitious work. The Latin-tinged “Fool in the Rain” again demonstrates the quartet’s unique approach to dance music, while the pomp-rock spectacular “Carouselambra” allows John Paul Jones’ keyboards to take the spotlight. The definitively silly country romp “Hot Dog,” though, is maybe the least typical thing to ever come from this always surprising band. And the album's closer, “I’m Gonna Crawl,” proves that Led Zep had hardly forgotten the meat-and-potatoes thud that first won them an audience. If a great band need leave the stage, let it always be with such happily venturesome sounds.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Evening (6:48)
 2. South Bound Saurez (4:11)
 3. Fool In The Rain (6:08)
@@ -35,14 +38,6 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 5. Carouselambra (10:28)
 6. All My Love (5:51)
 7. I'm Gonna Crawl (5:28)
-
-<!-- section break -->
-
-<i>In Through the Out Door</i>, Led Zeppelin’s final studio album, was also one of the few pre-SoundScan era releases to debut atop the Billboard chart. Coming after a three-year-plus wait, the record delivers some of Zeppelin’s most ambitious work. The Latin-tinged “Fool in the Rain” again demonstrates the quartet’s unique approach to dance music, while the pomp-rock spectacular “Carouselambra” allows John Paul Jones’ keyboards to take the spotlight. The definitively silly country romp “Hot Dog,” though, is maybe the least typical thing to ever come from this always surprising band. And the album's closer, “I’m Gonna Crawl,” proves that Led Zep had hardly forgotten the meat-and-potatoes thud that first won them an audience. If a great band need leave the stage, let it always be with such happily venturesome sounds.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door-remastered/580707622" >}}<br>

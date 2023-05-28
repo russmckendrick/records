@@ -28,10 +28,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="is-this-desire-17061660.jpg" title="Is This Desire? by PJ Harvey" >}}
+Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s with this simmering, electronic-infused album. <i>Is This Desire?</i> is built on the intimate tales and torments of various women—the prostitute's plight in "Angelene" is reflected in Harvey's grungy snarl, while the innocent "Joy" hopelessly rumbles through creeping industrial dissonance. Harvey's electronic experiments are as moody as her characters, fluttering between grinding, overblown beats on "My Beautiful Leah" and "A Perfect Day Elise," and a minimalist, Portishead-like throb on "Electric Light."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Angelene (3:26)
 2. The Sky Lit Up (1:54)
 3. The Wind (3:59)
@@ -44,13 +46,6 @@ styles: ["Alternative Rock"]
 10. The River (4:49)
 11. No Girl So Sweet (2:48)
 12. Is This Desire? (3:19)
-
-<!-- section break -->
-
-Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s with this simmering, electronic-infused album. <i>Is This Desire?</i> is built on the intimate tales and torments of various women—the prostitute's plight in "Angelene" is reflected in Harvey's grungy snarl, while the innocent "Joy" hopelessly rumbles through creeping industrial dissonance. Harvey's electronic experiments are as moody as her characters, fluttering between grinding, overblown beats on "My Beautiful Leah" and "A Perfect Day Elise," and a minimalist, Portishead-like throb on "Electric Light."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-desire/1440912742" >}}<br>

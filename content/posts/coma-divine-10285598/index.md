@@ -32,10 +32,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="coma-divine-10285598.jpg" title="Coma Divine by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bornlivedieintro
 2. Signify
 3. Waiting Phase One
@@ -50,10 +49,6 @@ styles: ["Prog Rock"]
 12. Is...Not
 13. Radioactive Toy
 14. Not Beautiful Anymore
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787" >}}<br>

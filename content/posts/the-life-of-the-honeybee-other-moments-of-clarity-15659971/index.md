@@ -24,20 +24,15 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-life-of-the-honeybee-other-moments-of-clarity-15659971.jpg" title="The Life Of The Honeybee & Other Moments Of Clarity by Abel Ganz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Life of the Honeybee & Other Moments Of Clarity
 2. One Small Soul
 3. Arran Shores
 4. Summerlong
 5. Sepia And White
 6. The Light Shines Out
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-life-of-the-honey-bee-and-other-moments-of-clarity/1510099512" >}}<br>

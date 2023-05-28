@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Indie Rock"]
 ---
 
-{{< img src="some-cities-13701527.jpg" title="Some Cities by Doves" >}}
+Some Cities is the third studio album by the British indie rock band Doves. The album was released by Heavenly Recordings on 21 February 2005, and became the band's second consecutive album to top the UK Albums Chart at number 1. Some Cities was conceived as a rawer, stripped-down record, and conceptually touches upon the physical changes of the band's hometown of Manchester, as well as emotional transformations.
+The album features the band's second-highest charting single, "Black and White Town", which peaked at number 6 on the UK Singles Chart. Two further singles from the album—"Snowden" and "Sky Starts Falling"—also fared moderately well on the chart, peaking at number 17 and 45, respectively.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Some Cities
 2. Black And White Town
 3. Almost Forgot Myself
@@ -36,14 +39,6 @@ styles: ["Downtempo", "Indie Rock"]
 9. Shadows Of Salford
 10. Sky Starts Falling
 11. Ambition
-
-<!-- section break -->
-
-Some Cities is the third studio album by the British indie rock band Doves. The album was released by Heavenly Recordings on 21 February 2005, and became the band's second consecutive album to top the UK Albums Chart at number 1. Some Cities was conceived as a rawer, stripped-down record, and conceptually touches upon the physical changes of the band's hometown of Manchester, as well as emotional transformations.
-The album features the band's second-highest charting single, "Black and White Town", which peaked at number 6 on the UK Singles Chart. Two further singles from the album—"Snowden" and "Sky Starts Falling"—also fared moderately well on the chart, peaking at number 17 and 45, respectively.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-cities/724424013" >}}<br>

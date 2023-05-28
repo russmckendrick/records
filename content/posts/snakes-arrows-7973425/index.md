@@ -31,10 +31,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="snakes-arrows-7973425.jpg" title="Snakes & Arrows by Rush" >}}
+Thirty-plus years into a career that has slowed considerably in the last decade, Rush still deliver epic rock grandeur without compromise. Judiciously amending their sound to the times, the power trio has evolved without sacrificing what made them so groundbreaking and powerful in the first place. <i>Snakes and Arrows</i> comes five years after their previous studio effort, 2002’s <i>Vapor Trails</i>, and like that release sticks with a guitar-heavy attack punctuated by the ambitious, polyrhythmic drumming of Neil Peart. As expected, Peart’s lyrics deal with his obsessions on government, spirituality, human will and nature that are often more fun and informative to read on a sheet than to sing aloud. Though clunky in execution — the multi-syllabic words sound even more clinical with Geddy Lee’s over-articulate delivery — they take on ominous weight in light of world events in the new millennium and, more importantly, in balance with the group’s exciting arrangements. There's heart-thumping drama throughout “Far Cry,” “Armor and Sword,” acoustic-electric weaving in “The Larger Bowl,” and the near sci-fi, action film downward spiral of “Spindrift.” It’s unusual for a group of such duration to still come within spitting distance of their finest work so many years on, but Rush continue to defy all expectations in their stubborn, steady way.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Far Cry (5:19)
 2. Armor And Sword (6:36)
 3. Working Them Angels (4:47)
@@ -48,13 +50,6 @@ styles: ["Hard Rock", "Prog Rock"]
 11. Good News First (4:51)
 12. Malignant Narcissism (2:17)
 13. Hold On (4:13)
-
-<!-- section break -->
-
-Thirty-plus years into a career that has slowed considerably in the last decade, Rush still deliver epic rock grandeur without compromise. Judiciously amending their sound to the times, the power trio has evolved without sacrificing what made them so groundbreaking and powerful in the first place. <i>Snakes and Arrows</i> comes five years after their previous studio effort, 2002’s <i>Vapor Trails</i>, and like that release sticks with a guitar-heavy attack punctuated by the ambitious, polyrhythmic drumming of Neil Peart. As expected, Peart’s lyrics deal with his obsessions on government, spirituality, human will and nature that are often more fun and informative to read on a sheet than to sing aloud. Though clunky in execution — the multi-syllabic words sound even more clinical with Geddy Lee’s over-articulate delivery — they take on ominous weight in light of world events in the new millennium and, more importantly, in balance with the group’s exciting arrangements. There's heart-thumping drama throughout “Far Cry,” “Armor and Sword,” acoustic-electric weaving in “The Larger Bowl,” and the near sci-fi, action film downward spiral of “Spindrift.” It’s unusual for a group of such duration to still come within spitting distance of their finest work so many years on, but Rush continue to defy all expectations in their stubborn, steady way.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/snakes-arrows/646612905" >}}<br>

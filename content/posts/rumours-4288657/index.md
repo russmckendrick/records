@@ -68,10 +68,19 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 ---
 
-{{< img src="rumours-4288657.jpg" title="Rumours  by Fleetwood Mac" >}}
+Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released on 4 February 1977 by Warner Bros. Records.
+Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut. The recording sessions took place in the aftermath of several relationship breakups among its members in addition to heavy drug use, both of which shaped the album's direction and lyrics.
+Recorded with the intention of making "a pop album" that would expand on the commercial success of their self-titled 1975 album, the music of Rumours is characterized by a mix of electric and acoustic instrumentation, accented rhythms, guitars, and keyboards, while its lyrics concern personal and often troubled relationships. Its release was postponed by delays in the mixing process. Following the album's release, Fleetwood Mac undertook worldwide concert tours. Rumours became the band's first number-one album on the UK Albums Chart and also topped the US Billboard 200. The songs "Go Your Own Way", "Dreams", "Don't Stop", and "You Make Loving Fun" were released as singles, all of which reached the US top 10, with "Dreams" reaching number one.
+Rumours was an instant commercial success, selling over 10 million copies worldwide within just a month of its release. It garnered widespread acclaim from critics, with praise centred on its production quality and vocal harmonies, which frequently relied on the interplay among the band’s three vocalists, and has inspired the work of musical acts in different genres. It won Album of the Year at the 1978 Grammy Awards and  received Diamond certifications in several countries, including the UK, Canada, Australia, and the US, where it was certified 20× Platinum. 
+As of February 2023, Rumours has sold over 40 million copies worldwide, making it the sixth best-selling album of the 1970s, and the 12th best-selling album of all time.Often considered Fleetwood Mac's magnum opus, Rumours has frequently been cited as one of the greatest albums of all time. In 2003, it was inducted into the Grammy Hall of Fame. In 2004, Rumours was remastered and reissued with the addition of "Silver Springs", which had been excluded from the original release, and a bonus CD of outtakes from the recording sessions.  In 2017, it was selected for preservation in the National Recording Registry, being deemed "culturally, historically, or aesthetically significant" by the Library of Congress. In 2020, Rumours was rated the seventh-greatest album of all time in Rolling Stone's list of the "500 Greatest Albums of All Time".
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Original Album - 2013 Remaster
 2. Second Hand News (2:43)
 3. Dreams (4:14)
@@ -155,20 +164,6 @@ styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 81. I Don't Want To Know (3:13)
 82. Oh Daddy (3:54)
 83. Gold Dust Woman (5:13)
-
-<!-- section break -->
-
-Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released on 4 February 1977 by Warner Bros. Records.
-Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut. The recording sessions took place in the aftermath of several relationship breakups among its members in addition to heavy drug use, both of which shaped the album's direction and lyrics.
-Recorded with the intention of making "a pop album" that would expand on the commercial success of their self-titled 1975 album, the music of Rumours is characterized by a mix of electric and acoustic instrumentation, accented rhythms, guitars, and keyboards, while its lyrics concern personal and often troubled relationships. Its release was postponed by delays in the mixing process. Following the album's release, Fleetwood Mac undertook worldwide concert tours. Rumours became the band's first number-one album on the UK Albums Chart and also topped the US Billboard 200. The songs "Go Your Own Way", "Dreams", "Don't Stop", and "You Make Loving Fun" were released as singles, all of which reached the US top 10, with "Dreams" reaching number one.
-Rumours was an instant commercial success, selling over 10 million copies worldwide within just a month of its release. It garnered widespread acclaim from critics, with praise centred on its production quality and vocal harmonies, which frequently relied on the interplay among the band’s three vocalists, and has inspired the work of musical acts in different genres. It won Album of the Year at the 1978 Grammy Awards and  received Diamond certifications in several countries, including the UK, Canada, Australia, and the US, where it was certified 20× Platinum. 
-As of February 2023, Rumours has sold over 40 million copies worldwide, making it the sixth best-selling album of the 1970s, and the 12th best-selling album of all time.Often considered Fleetwood Mac's magnum opus, Rumours has frequently been cited as one of the greatest albums of all time. In 2003, it was inducted into the Grammy Hall of Fame. In 2004, Rumours was remastered and reissued with the addition of "Silver Springs", which had been excluded from the original release, and a bonus CD of outtakes from the recording sessions.  In 2017, it was selected for preservation in the National Recording Registry, being deemed "culturally, historically, or aesthetically significant" by the Library of Congress. In 2020, Rumours was rated the seventh-greatest album of all time in Rolling Stone's list of the "500 Greatest Albums of All Time".
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rumours/594061854" >}}<br>

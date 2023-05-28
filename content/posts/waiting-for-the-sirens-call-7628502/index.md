@@ -28,10 +28,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="waiting-for-the-sirens-call-7628502.jpg" title="Waiting For The Sirens' Call by New Order" >}}
+New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Who's Joe? (5:43)
 2. Hey Now What You Doing (5:13)
 3. Waiting For The Sirens' Call (5:40)
@@ -43,13 +45,6 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 9. Guilt Is A Useless Emotion (5:37)
 10. Turn (4:33)
 11. Working Overtime (3:26)
-
-<!-- section break -->
-
-New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waiting-for-the-sirens-call/1041432291" >}}<br>

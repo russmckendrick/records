@@ -41,10 +41,12 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="how-to-solve-our-human-problems-11559151.jpg" title="How To Solve Our Human Problems by Belle & Sebastian" >}}
+How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Part One
 2. Sweet Dew Lee
 3. We Were Beautiful
@@ -63,13 +65,6 @@ styles: ["Indie Pop"]
 16. Too Many Tears
 17. There Is An Everlasting Song
 18. Best Friend
-
-<!-- section break -->
-
-How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006" >}}<br>

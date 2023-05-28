@@ -32,10 +32,15 @@ genres: ["Rock"]
 styles: ["Art Rock", "Alternative Rock"]
 ---
 
-{{< img src="live-at-bush-hall-26890124.jpg" title="Live At Bush Hall by Black Country, New Road" >}}
+Live at Bush Hall is a concert film by British rock band Black Country, New Road released on 20 February 2023 through YouTube. It is the first official release since Ants from Up There and the departure of Isaac Wood, the band's vocalist, and consists of recordings from previously unreleased music performed live at Bush Hall, London, over the period of 15–16 December 2022.
+An album of the performance was released on 24 March 2023 through Ninja Tune.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Up Song
 2. The Boy
 3. I Won’t Always Love You
@@ -45,16 +50,6 @@ styles: ["Art Rock", "Alternative Rock"]
 7. Turbines/Pigs
 8. Dancers
 9. Up Song (Reprise)
-
-<!-- section break -->
-
-Live at Bush Hall is a concert film by British rock band Black Country, New Road released on 20 February 2023 through YouTube. It is the first official release since Ants from Up There and the departure of Isaac Wood, the band's vocalist, and consists of recordings from previously unreleased music performed live at Bush Hall, London, over the period of 15–16 December 2022.
-An album of the performance was released on 24 March 2023 through Ninja Tune.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-bush-hall/1669295690" >}}<br>

@@ -20,10 +20,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
 
-{{< img src="the-beta-band-12647463.jpg" title="The Beta Band by The Beta Band" >}}
+The Beta Band were a Scottish musical group formed in 1996. Their style was described as being "folktronica", although it was mainly a blend of folk, psychedelia, electronica, experimental rock and trip hop, often involving stylistic experimentation. Despite inner conflict and the eventual decline of the group, they became critically acclaimed after releasing their first few recordings and achieved a cult following as they began releasing studio albums, before disbanding in 2004. They were praised by members of both Radiohead and Oasis, the former of which chose them to open for their concerts in 2001.
+The band's music has been featured in multiple films, including High Fidelity and It's All Gone Pete Tong.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Beta Band
 2. The Beta Band Rap
 3. It's Not Too Beautiful
@@ -52,14 +55,6 @@ styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 26. CD2
 27. Happiness And Colour
 28. The Hut
-
-<!-- section break -->
-
-The Beta Band were a Scottish musical group formed in 1996. Their style was described as being "folktronica", although it was mainly a blend of folk, psychedelia, electronica, experimental rock and trip hop, often involving stylistic experimentation. Despite inner conflict and the eventual decline of the group, they became critically acclaimed after releasing their first few recordings and achieved a cult following as they began releasing studio albums, before disbanding in 2004. They were praised by members of both Radiohead and Oasis, the former of which chose them to open for their concerts in 2001.
-The band's music has been featured in multiple films, including High Fidelity and It's All Gone Pete Tong.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-beta-band/1339300024" >}}<br>

@@ -20,10 +20,14 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="a-flock-of-seagulls-26056165.jpg" title="A Flock Of Seagulls by A Flock Of Seagulls" >}}
+A Flock of Seagulls are an English new wave band formed in Liverpool in 1979. The group, whose best-known line-up comprised Mike Score, Ali Score, Frank Maudsley and Paul Reynolds, hit the peak of their chart success in the early 1980s.The group had a string of international hit singles including "I Ran (So Far Away)" (1982), "Space Age Love Song" (1982), "Wishing (If I Had a Photograph of You)" (1982), and "The More You Live, the More You Love" (1984). Their video for "I Ran (So Far Away)" received airplay on MTV during the Second British Invasion. The band won a Grammy Award in 1983 for their instrumental "D.N.A." (1982).In 2018, the members of the original lineup came together to record an album with the Prague Philharmonic Orchestra entitled Ascension. In 2021, the original lineup once again reunited temporarily to record another album with the Prague Philharmonic Orchestra entitled String Theory.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Modern Love Is Automatic (3:49)
 2. Messages (2:51)
 3. I Ran (4:58)
@@ -35,15 +39,6 @@ styles: ["New Wave", "Synth-pop"]
 9. D.N.A. (2:30)
 10. Tokyo (2:48)
 11. Man Made (5:38)
-
-<!-- section break -->
-
-A Flock of Seagulls are an English new wave band formed in Liverpool in 1979. The group, whose best-known line-up comprised Mike Score, Ali Score, Frank Maudsley and Paul Reynolds, hit the peak of their chart success in the early 1980s.The group had a string of international hit singles including "I Ran (So Far Away)" (1982), "Space Age Love Song" (1982), "Wishing (If I Had a Photograph of You)" (1982), and "The More You Live, the More You Love" (1984). Their video for "I Ran (So Far Away)" received airplay on MTV during the Second British Invasion. The band won a Grammy Award in 1983 for their instrumental "D.N.A." (1982).In 2018, the members of the original lineup came together to record an album with the Prague Philharmonic Orchestra entitled Ascension. In 2021, the original lineup once again reunited temporarily to record another album with the Prague Philharmonic Orchestra entitled String Theory.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-a-flock-of-seagulls/290766340" >}}<br>

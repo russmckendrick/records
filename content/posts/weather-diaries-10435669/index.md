@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
-{{< img src="weather-diaries-10435669.jpg" title="Weather Diaries by Ride" >}}
+Weather Diaries is the fifth studio album by English rock band Ride. The album was released on 16 June 2017, and is the first Ride album since 1996's Tarantula. The album was produced by English DJ Erol Alkan and mixed by long-time Ride collaborator Alan Moulder.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Lannoy Point (5:57)
 2. Charm Assault (4:12)
 3. All I Want (3:57)
@@ -36,15 +40,6 @@ styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 9. Integration Tape (2:26)
 10. Impermanence (4:23)
 11. White Sands (6:08)
-
-<!-- section break -->
-
-Weather Diaries is the fifth studio album by English rock band Ride. The album was released on 16 June 2017, and is the first Ride album since 1996's Tarantula. The album was produced by English DJ Erol Alkan and mixed by long-time Ride collaborator Alan Moulder.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weather-diaries/1217906716" >}}<br>

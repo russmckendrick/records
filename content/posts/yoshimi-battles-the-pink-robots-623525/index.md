@@ -20,10 +20,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 ---
 
-{{< img src="yoshimi-battles-the-pink-robots-623525.jpg" title="Yoshimi Battles The Pink Robots by The Flaming Lips" >}}
+Yoshimi Battles the Pink Robots is the tenth studio album by American rock band the Flaming Lips, released on July 16, 2002, by Warner Bros. Records. The album saw the band pursue a more electronic direction than previous efforts, incorporating acoustic guitars and rhythms influenced by hip hop and top 40 music. The album was well-received critically and commercially, helping the band break into popularity, and was adapted into a musical in 2012. In 2022, the band announced a 20th anniversary box set version of the album and that they would perform the album in full twice in early 2023.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fight Test (4:14)
 2. One More Robot / Sympathy 3000-21 (4:59)
 3. Yoshimi Battles The Pink Robots Pt. 1 (4:45)
@@ -35,13 +37,6 @@ styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 9. Do You Realize?? (3:32)
 10. All We Have Is Now (3:53)
 11. Approaching Pavanis Mons By Balloon (Utopia Planitia) (3:09)
-
-<!-- section break -->
-
-Yoshimi Battles the Pink Robots is the tenth studio album by American rock band the Flaming Lips, released on July 16, 2002, by Warner Bros. Records. The album saw the band pursue a more electronic direction than previous efforts, incorporating acoustic guitars and rhythms influenced by hip hop and top 40 music. The album was well-received critically and commercially, helping the band break into popularity, and was adapted into a musical in 2012. In 2022, the band announced a 20th anniversary box set version of the album and that they would perform the album in full twice in early 2023.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816" >}}<br>

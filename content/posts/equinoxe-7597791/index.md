@@ -20,10 +20,13 @@ genres: ["Electronic"]
 styles: ["Experimental", "Ambient", "Synth-pop"]
 ---
 
-{{< img src="equinoxe-7597791.jpg" title="Equinoxe by Jean-Michel Jarre" >}}
+This 1978 stunner presents a single electronic suite, overflowing with lush, analog synth lines. Jarre doubles down on the approach of his previous classic, <i>Oxygène</i>: The tunes are more intensely rhythmic, the synth lines even richer and more atmospheric and the graceful melodic structures recall the symphonic flow of Jarre's famed film-composer father, Maurice. Blending impressionistic atmospheres with pop-savvy hooks and the influence of German electronic music, <i>Equinoxe</i> suggests what might have happened if Kraftwerk had studied Debussy.
 
-<!-- section break -->
+    
+    
 
+
+## Tracklisting
 1. Equinoxe Part 1 (2:23)
 2. Equinoxe Part 2 (5:02)
 3. Equinoxe Part 3 (4:59)
@@ -32,14 +35,6 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 6. Equinoxe Part 6 (2:47)
 7. Equinoxe Part 7 (7:48)
 8. Equinoxe Part 8 (5:07)
-
-<!-- section break -->
-
-This 1978 stunner presents a single electronic suite, overflowing with lush, analog synth lines. Jarre doubles down on the approach of his previous classic, <i>Oxygène</i>: The tunes are more intensely rhythmic, the synth lines even richer and more atmospheric and the graceful melodic structures recall the symphonic flow of Jarre's famed film-composer father, Maurice. Blending impressionistic atmospheres with pop-savvy hooks and the influence of German electronic music, <i>Equinoxe</i> suggests what might have happened if Kraftwerk had studied Debussy.
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/equinoxe/1027735188" >}}<br>

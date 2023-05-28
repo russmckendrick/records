@@ -19,16 +19,11 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ---
 
-{{< img src="22-lunar-halo-13474974.jpg" title="22° Lunar Halo by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. With Arms And Legs Moving / The Tell Tales (19:56)
 2. They Glow In Light / Like Coloured Glass (23:26)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/22-lunar-halo/1458756440" >}}<br>

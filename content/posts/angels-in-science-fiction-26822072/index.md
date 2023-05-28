@@ -16,10 +16,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="angels-in-science-fiction-26822072.jpg" title="Angels In Science Fiction by St. Paul & The Broken Bones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chelsea
 2. City Federal Building
 3. Magnolia Trees
@@ -32,10 +31,6 @@ styles: ["Rhythm & Blues"]
 10. Lonely Love Song
 11. Easter Bunny
 12. Marigold
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/angels-in-science-fiction/1664598318" >}}<br>

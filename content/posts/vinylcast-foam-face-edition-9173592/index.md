@@ -19,10 +19,9 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-{{< img src="vinylcast-foam-face-edition-9173592.jpg" title="Vinylcast (Foam Face Edition) by Tell 'Em Steve-Dave" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. TESD Anthem
 2. Greetings All
 3. Album Art Decoded
@@ -36,10 +35,6 @@ styles: []
 11. Show Walt The Money
 12. Post Game Wrap Up
 13. Check Out The Hook
-
-<!-- section break -->
-
-
 
 
 

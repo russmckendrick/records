@@ -23,10 +23,12 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop"]
 styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 ---
 
-{{< img src="stainless-style-1287707.jpg" title="Stainless Style by Neon Neon" >}}
+Stainless Style is the debut album from Neon Neon—a project from Super Furry Animals front man Gruff Rhys and electronic artist Boom Bip—which was released in March 2008 via Lex Records. The album was streamed in its entirety on the band's Myspace page for one week before its physical release.Stainless Style is a loose concept album based on the tumultuous life of DeLorean Motor Company founder John DeLorean, and features a number of high-profile guest appearances from Fab Moretti of The Strokes, Har Mar Superstar, Yo Majesty, Spank Rock, Cate Le Bon and Fatlip. The album was nominated for the 2008 Mercury Music Prize.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Neon Theme (2:22)
 2. Dream Cars (3:25)
 3. I Told Her On Alderaan (3:44)
@@ -39,13 +41,6 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 10. Michael Douglas (4:14)
 11. Luxury Pool (3:56)
 12. Stainless Style (1:59)
-
-<!-- section break -->
-
-Stainless Style is the debut album from Neon Neon—a project from Super Furry Animals front man Gruff Rhys and electronic artist Boom Bip—which was released in March 2008 via Lex Records. The album was streamed in its entirety on the band's Myspace page for one week before its physical release.Stainless Style is a loose concept album based on the tumultuous life of DeLorean Motor Company founder John DeLorean, and features a number of high-profile guest appearances from Fab Moretti of The Strokes, Har Mar Superstar, Yo Majesty, Spank Rock, Cate Le Bon and Fatlip. The album was nominated for the 2008 Mercury Music Prize.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stainless-style/1601513716" >}}<br>

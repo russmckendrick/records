@@ -28,10 +28,12 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-{{< img src="we-got-it-from-herethank-you-4-your-service-9579770.jpg" title="We Got It From Here…Thank You 4 Your Service by A Tribe Called Quest" >}}
+On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi rekindle a chemistry that endeared them to hip-hop fans worldwide. Filled with exploratory instrumental beds, creative samples, supple rhyming, and serious knock, it passes the headphone and car stereo test. “Kids…” is like a rap nerd’s fever dream, Andre 3000 and Q-Tip slaying bars. Phife—who passed away in March 2016—is the album’s scion, his roughneck style and biting humor shining through on “Black Spasmodic” and “Whateva Will Be.” “We the People” and “The Killing Season” (featuring Kanye West) show ATCQ’s ability to move minds as well as butts. <i>We got it from Here... Thank You 4 Your service</i> is not a wake or a comeback—it’s an extended visit with a long-missed friend, and a mic-dropping reminder of Tribe’s importance and influence.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Space Program (5:40)
 2. We The People.... (2:52)
 3. Whateva Will Be (2:52)
@@ -48,13 +50,6 @@ styles: ["Conscious"]
 14. Conrad Tokyo (3:31)
 15. Ego (3:17)
 16. The Donald (5:22)
-
-<!-- section break -->
-
-On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi rekindle a chemistry that endeared them to hip-hop fans worldwide. Filled with exploratory instrumental beds, creative samples, supple rhyming, and serious knock, it passes the headphone and car stereo test. “Kids…” is like a rap nerd’s fever dream, Andre 3000 and Q-Tip slaying bars. Phife—who passed away in March 2016—is the album’s scion, his roughneck style and biting humor shining through on “Black Spasmodic” and “Whateva Will Be.” “We the People” and “The Killing Season” (featuring Kanye West) show ATCQ’s ability to move minds as well as butts. <i>We got it from Here... Thank You 4 Your service</i> is not a wake or a comeback—it’s an extended visit with a long-missed friend, and a mic-dropping reminder of Tribe’s importance and influence.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-got-it-from-here-thank-you-4-your-service/1173106678" >}}<br>

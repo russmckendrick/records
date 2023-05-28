@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ---
 
-{{< img src="zeroes-and-ones-the-best-of-24975325.jpg" title="Zeroes And Ones - The Best Of by Jesus Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Right Here, Right Now
 2. The Devil You Know
 3. All The Answers
@@ -49,10 +48,6 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 25. Song 13
 26. Welcome Back Victoria
 27. Run On Empty
-
-<!-- section break -->
-
-
 
 
 

@@ -22,21 +22,16 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Art Rock", "Jazz-Rock"]
 ---
 
-{{< img src="no-plan-ep-10150675.jpg" title="No Plan EP by David Bowie" >}}
-
-<!-- section break -->
-
-1. Lazarus (6:24)
-2. No Plan (3:40)
-3. Killing A Little Time (3:46)
-4. When I Met You (4:08)
-
-<!-- section break -->
-
 It’s impossible to hear <i>No Plan</i> as anything but Bowie confronting his terminal diagnosis—it opens with a revamp of <i>Blackstar</i>’s “Lazarus” and the lines, “Look up here, I’m in heaven”; in “No Plan”, his lack of regrets untethers him from earthly concerns. The proggy guitar of “Killing a Little Time” emphasises his rage, yet the rapturous intensity of “When I Met You” celebrates the great love who rearranged his soul. Sublime.
     
     
 
+
+## Tracklisting
+1. Lazarus (6:24)
+2. No Plan (3:40)
+3. Killing A Little Time (3:46)
+4. When I Met You (4:08)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-plan-ep/1191638191" >}}<br>

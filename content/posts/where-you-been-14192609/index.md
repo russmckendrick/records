@@ -31,10 +31,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="where-you-been-14192609.jpg" title="Where You Been by Dinosaur Jr." >}}
+Where You Been is the fifth official studio album by Dinosaur Jr., released on February 9, 1993.
+The song "Start Choppin'" was their biggest hit, reaching number 3 on the Modern Rock Tracks chart in the U.S., and the Top 20 of the UK Singles Chart. This was drummer Murph's last recording with J Mascis until 2007's Beyond.
+This was the only Dinosaur Jr. album between 1988's Bug and 2007's Beyond to be recorded entirely with a full band. During Dinosaur Jr.'s major label years, Mascis performed most of the instruments himself on record.
+The album peaked with 263,000 units sold in the US.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Where You Been
 2. Out There
 3. Start Choppin
@@ -56,16 +61,6 @@ styles: ["Alternative Rock"]
 19. Keeblin' (Peel Session)
 20. Hide (Peel Session)
 21. Missing Link
-
-<!-- section break -->
-
-Where You Been is the fifth official studio album by Dinosaur Jr., released on February 9, 1993.
-The song "Start Choppin'" was their biggest hit, reaching number 3 on the Modern Rock Tracks chart in the U.S., and the Top 20 of the UK Singles Chart. This was drummer Murph's last recording with J Mascis until 2007's Beyond.
-This was the only Dinosaur Jr. album between 1988's Bug and 2007's Beyond to be recorded entirely with a full band. During Dinosaur Jr.'s major label years, Mascis performed most of the instruments himself on record.
-The album peaked with 263,000 units sold in the US.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/where-you-been/1318714108" >}}<br>

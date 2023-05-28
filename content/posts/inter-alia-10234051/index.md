@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Post-Hardcore"]
 ---
 
-{{< img src="inter-alia-10234051.jpg" title="in•ter a•li•a by At The Drive-In" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. No Wolf Like The Present
 2. Continuum
 3. Tilting At The Univendor
@@ -34,10 +33,6 @@ styles: ["Indie Rock", "Post-Hardcore"]
 9. Torrentially Cutshaw
 10. Ghost-Tape No. 9
 11. Hostage Stamps
-
-<!-- section break -->
-
-
 
 
 ## Spotify

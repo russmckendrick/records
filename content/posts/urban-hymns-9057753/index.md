@@ -26,10 +26,15 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="urban-hymns-9057753.jpg" title="Urban Hymns by The Verve" >}}
+Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band's best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history and has sold over ten million copies worldwide. This is the only Verve album to feature guitarist and keyboardist Simon Tong, who initially joined the band to replace their original guitarist Nick McCabe. McCabe rejoined the band soon after, however, and Tong was considered the fifth member of the band; this makes the album the only one that the band recorded as a five-piece.
+The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Bitter Sweet Symphony
 2. Sonnet
 3. The Rolling People
@@ -43,16 +48,6 @@ styles: ["Alternative Rock", "Britpop"]
 11. This Time
 12. Velvet Morning
 13. Come On
-
-<!-- section break -->
-
-Urban Hymns is the third studio album by English alternative rock band the Verve, released on 29 September 1997 on Hut Records. It earned nearly unanimous critical praise upon its release, and went on to become the band's best-selling release and one of the biggest selling albums of the year. As of 2019, Urban Hymns is ranked the 19th best-selling album in UK chart history and has sold over ten million copies worldwide. This is the only Verve album to feature guitarist and keyboardist Simon Tong, who initially joined the band to replace their original guitarist Nick McCabe. McCabe rejoined the band soon after, however, and Tong was considered the fifth member of the band; this makes the album the only one that the band recorded as a five-piece.
-The album features the hit singles "Bitter Sweet Symphony", "Lucky Man" and UK number one "The Drugs Don't Work". The critical and commercial success of the album saw the band win two Brit Awards in 1998, including Best British Album, and appear on the cover of Rolling Stone in April 1998. "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song. It was also among ten albums nominated for the best British album of the previous 30 years by the Brit Awards in 2010, ultimately losing to (What's the Story) Morning Glory? by Oasis. In 2013, NME ranked it at number 128 in its list of the 500 Greatest Albums of All Time.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/urban-hymns-deluxe-remastered-2016/1443258184" >}}<br>

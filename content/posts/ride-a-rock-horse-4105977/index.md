@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="ride-a-rock-horse-4105977.jpg" title="Ride A Rock Horse by Roger Daltrey" >}}
+Ride a Rock Horse is the second solo studio album by English singer Roger Daltrey, released on 4 July 1975 by Track in the UK and MCA in the US. Ride a Rock Horse was recorded during Daltrey's filming commitments for Ken Russell's film Lisztomania. The album's cover, which is photographed and designed by Daltrey's cousin Graham Hughes, depicts the singer as a rampant centaur.Three singles were issued from Ride a Rock Horse: "Come and Get Your Love", "Walking the Dog" and "Oceans Away". "Come and Get Your Love" peaked at No. 68 on the US Billboard Hot 100 and "Walking the Dog", a cover of the Rufus Thomas song, peaked at No. 52 on the UK Singles Chart. The album itself peaked at No. 14 on the UK Albums Chart and at No. 28 on the US Billboard 200. The song, "Hearts Right", had a music video with graphics and animation by Gerald Scarfe, who would later become known for his work with Pink Floyd.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Your Love
 2. Hearts Right
 3. Oceans Away
@@ -34,13 +36,6 @@ styles: ["Classic Rock"]
 8. Walking The Dog
 9. Milk Train
 10. Born To Sing Your Song
-
-<!-- section break -->
-
-Ride a Rock Horse is the second solo studio album by English singer Roger Daltrey, released on 4 July 1975 by Track in the UK and MCA in the US. Ride a Rock Horse was recorded during Daltrey's filming commitments for Ken Russell's film Lisztomania. The album's cover, which is photographed and designed by Daltrey's cousin Graham Hughes, depicts the singer as a rampant centaur.Three singles were issued from Ride a Rock Horse: "Come and Get Your Love", "Walking the Dog" and "Oceans Away". "Come and Get Your Love" peaked at No. 68 on the US Billboard Hot 100 and "Walking the Dog", a cover of the Rufus Thomas song, peaked at No. 52 on the UK Singles Chart. The album itself peaked at No. 14 on the UK Albums Chart and at No. 28 on the US Billboard 200. The song, "Hearts Right", had a music video with graphics and animation by Gerald Scarfe, who would later become known for his work with Pink Floyd.
-    
-    
-
 
 
 

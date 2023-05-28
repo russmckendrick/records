@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-{{< img src="attack-of-the-grey-lantern-22982366.jpg" title="Attack Of The Grey Lantern  by Mansun" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Chad Who Loved Me (5:02)
 2. Mansun's Only Love Song (5:55)
 3. Taxloss (7:02)
@@ -35,10 +34,6 @@ styles: ["Britpop"]
 9. Naked Twister (4:40)
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>

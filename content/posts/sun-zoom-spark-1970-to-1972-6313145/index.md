@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Experimental"]
 ---
 
-{{< img src="sun-zoom-spark-1970-to-1972-6313145.jpg" title="Sun Zoom Spark: 1970 To 1972 by Captain Beefheart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lick My Decals Off, Baby
 2. Lick My Decals Off, Baby (2:38)
 3. Doctor Dark (2:46)
@@ -84,10 +83,6 @@ styles: ["Blues Rock", "Experimental"]
 53. Circumstances (Alternate Version 2) (3:23)
 54. Little Scratch (2:57)
 55. Dirty Blue Gene (Alternate Version 3) (3:03)
-
-<!-- section break -->
-
-
 
 
 

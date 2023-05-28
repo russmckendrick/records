@@ -20,10 +20,9 @@ genres: ["Jazz", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="night-terrors-nocturnal-excursions-in-music-11157206.jpg" title="Night Terrors (Nocturnal Excursions In Music) by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Night Terrors (Saint Etienne Remix) (4:15)
 2. Middle Of The East (3:39)
 3. Angi (2:48)
@@ -32,10 +31,6 @@ styles: []
 6. Mr Green Genes (2:58)
 7. Hey Little Girl (3:48)
 8. Night Terrors (Clark Remix) (6:28)
-
-<!-- section break -->
-
-
 
 
 

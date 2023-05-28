@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Art Rock"]
 ---
 
-{{< img src="the-seaside-original-edition-7622910.jpg" title="The Seaside (Original Edition) by Cardiacs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jibber And Twitch
 2. Gena Lolla Brigida
 3. Hello Mr. Sparrow
@@ -40,10 +39,6 @@ styles: ["Art Rock"]
 11. Ice A Spot And A Dot On The Dog
 12. R.E.S.
 13. To Go Off And Things
-
-<!-- section break -->
-
-
 
 
 

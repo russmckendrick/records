@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
 
-{{< img src="viscerals-15030578.jpg" title="Viscerals by Pigs Pigs Pigs Pigs Pigs Pigs Pigs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Reducer
 2. Rubbernecker
 3. New Body
@@ -35,10 +34,6 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 6. Crazy In Blood
 7. Halloween Bolson
 8. Hell's Teeth
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/viscerals/1491152566" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="a-new-morning-5448464.jpg" title="A New Morning by Suede" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Positivity (2:56)
 2. Obsessions (4:11)
 3. Lonely Girls (3:13)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Britpop"]
 10. One Hit To The Body (3:07)
 11. When The Rain Falls (4:29)
 12. Oceans (4:02)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-new-morning-deluxe-edition-remastered/437250212" >}}<br>

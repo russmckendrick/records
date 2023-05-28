@@ -20,10 +20,9 @@ genres: ["Jazz"]
 styles: ["Easy Listening"]
 ---
 
-{{< img src="evergreen-3110291.jpg" title="Evergreen by Acker Bilk His Clarinet And Strings" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Evergreen
 2. Don't Give Up On Us Baby
 3. Didn't We
@@ -44,10 +43,6 @@ styles: ["Easy Listening"]
 18. When I Need You
 19. Yesterday
 20. When A Child Is Born
-
-<!-- section break -->
-
-
 
 
 

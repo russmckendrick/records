@@ -20,10 +20,16 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="business-as-usual-843432.jpg" title="Business As Usual by Men At Work" >}}
+Business as Usual is the debut studio album by Australian new wave band Men at Work, which was released in November 1981 in Australia, and April 1982 in the United States. It spent nine weeks at the top of the Australian Kent Music Report Albums Chart from December 1981 through to March 1982. The Australian version had a black and white cover design; overseas releases had a similar design, but in a black and yellow colour scheme. Business as Usual was one of the most successful albums internationally by an Australian group. It spent an unprecedented 15 weeks at No. 1 on the US Billboard 200 from late 1982 to early 1983; and five weeks at No. 1 in the United Kingdom Albums Chart in early 1983. Business as Usual was also one of the highest selling Australian albums in the early 1980s, with 6 million copies shipped in the US.
+In February 2010, a Federal Court judge in Sydney found that the flute riff from "Down Under" had been plagiarised from the Australian song "Kookaburra Sits in the Old Gum Tree", written in 1932 by Marion Sinclair. The Federal Court determined that the copyright was still current (Sinclair died in 1988) and had been assigned to Larrikin Music. The judge found that "a substantial amount of the original song" had been reproduced in "Down Under". Larrikin Music had suggested 60% of the royalties would be appropriate compensation, but the court decreed they shall receive only 5%, and only on mechanical rights for the song since 2002, and on future profits.
+In October 2010, Business as Usual was listed in the book 100 Best Australian Albums.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Who Can It Be Now? (3:20)
 2. I Can See It In Your Eyes (3:26)
 3. Down Under (3:39)
@@ -34,17 +40,6 @@ styles: ["New Wave", "Pop Rock"]
 8. Touching The Untouchables (3:47)
 9. Catch A Star (3:28)
 10. Down By The Sea (6:48)
-
-<!-- section break -->
-
-Business as Usual is the debut studio album by Australian new wave band Men at Work, which was released in November 1981 in Australia, and April 1982 in the United States. It spent nine weeks at the top of the Australian Kent Music Report Albums Chart from December 1981 through to March 1982. The Australian version had a black and white cover design; overseas releases had a similar design, but in a black and yellow colour scheme. Business as Usual was one of the most successful albums internationally by an Australian group. It spent an unprecedented 15 weeks at No. 1 on the US Billboard 200 from late 1982 to early 1983; and five weeks at No. 1 in the United Kingdom Albums Chart in early 1983. Business as Usual was also one of the highest selling Australian albums in the early 1980s, with 6 million copies shipped in the US.
-In February 2010, a Federal Court judge in Sydney found that the flute riff from "Down Under" had been plagiarised from the Australian song "Kookaburra Sits in the Old Gum Tree", written in 1932 by Marion Sinclair. The Federal Court determined that the copyright was still current (Sinclair died in 1988) and had been assigned to Larrikin Music. The judge found that "a substantial amount of the original song" had been reproduced in "Down Under". Larrikin Music had suggested 60% of the royalties would be appropriate compensation, but the court decreed they shall receive only 5%, and only on mechanical rights for the song since 2002, and on future profits.
-In October 2010, Business as Usual was listed in the book 100 Best Australian Albums.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/business-as-usual/282960957" >}}<br>

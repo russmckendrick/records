@@ -25,10 +25,12 @@ genres: ["Rock", "Pop"]
 styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
-{{< img src="the-soft-bulletin-3416651.jpg" title="The Soft Bulletin by The Flaming Lips" >}}
+The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Race For The Prize (4:09)
 2. A Spoonful Weighs A Ton (3:32)
 3. The Spark That Bled (5:55)
@@ -42,13 +44,6 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 11. Slow Motion (3:53)
 12. Feeling Yourself Disintegrate (5:17)
 13. Sleeping On The Roof (3:09)
-
-<!-- section break -->
-
-The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-soft-bulletin/1247942375" >}}<br>

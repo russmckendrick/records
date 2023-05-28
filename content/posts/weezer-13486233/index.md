@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 ---
 
-{{< img src="weezer-13486233.jpg" title="Weezer by Weezer" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Africa
 2. Everybody Wants To Rule The World
 3. Sweet Dreams (Are Made Of This)
@@ -35,10 +34,6 @@ styles: ["Alternative Rock", "Ballad", "Dream Pop", "Pop Rock"]
 8. No Scrubs
 9. Billie Jean
 10. Stand By Me
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer-teal-album/1450270988" >}}<br>

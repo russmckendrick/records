@@ -23,10 +23,9 @@ genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
 
-{{< img src="gosh-it-s-2025569.jpg" title="Gosh It's... by Bad Manners" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Walking In The Sunshine (3:26)
 2. Dansetta (3:53)
 3. Can Can (2:55)
@@ -39,10 +38,6 @@ styles: ["Ska"]
 10. Only Funkin' (3:32)
 11. End Of The World (2:57)
 12. Gherkin (4:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gosh-its/461069899" >}}<br>

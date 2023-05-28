@@ -22,10 +22,16 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="into-the-gap-8603326.jpg" title="Into The Gap by Thompson Twins" >}}
+Into the Gap is the fourth studio album by British pop group Thompson Twins, released on 17 February 1984 by Arista Records. The album was recorded during 1983 at Compass Point Studios, in Nassau, Bahamas, and was produced by Alex Sadkin who had produced the band's previous studio album, Quick Step & Side Kick (1983).
+Despite a mixed response from critics, Into the Gap became the band's most commercially successful studio album, peaking at number one on the UK Albums Chart (for three weeks), and number 10 on the US Billboard 200. "Hold Me Now", "Doctor! Doctor!", "You Take Me Up", and "Sister of Mercy" were all released as singles in the UK with corresponding music videos. Three of the four singles that were released in the UK made the Top 5 and the fourth just missed the Top 10. "The Gap" was also released as a single in some other countries, but no video was made for it. According to the RIAA, the record sold over one million copies in the US; in the UK the album sold over 600,000 copies and was certified 2× platinum. It became one of the year's biggest sellers, with five million copies sold worldwide. The band embarked on a world tour in support of the album.
+In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Records. It included the bonus cassette remixes that originally appeared on the original cassette version of the album in 1984, and also features a second disc which includes most major 12" single versions and B-sides, some of which appear on CD for the first time.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Doctor! Doctor!
 2. You Take Me Up
 3. Day After Day
@@ -35,17 +41,6 @@ styles: ["Synth-pop"]
 7. Hold Me Now
 8. Storm On The Sea
 9. Who Can Stop The Rain
-
-<!-- section break -->
-
-Into the Gap is the fourth studio album by British pop group Thompson Twins, released on 17 February 1984 by Arista Records. The album was recorded during 1983 at Compass Point Studios, in Nassau, Bahamas, and was produced by Alex Sadkin who had produced the band's previous studio album, Quick Step & Side Kick (1983).
-Despite a mixed response from critics, Into the Gap became the band's most commercially successful studio album, peaking at number one on the UK Albums Chart (for three weeks), and number 10 on the US Billboard 200. "Hold Me Now", "Doctor! Doctor!", "You Take Me Up", and "Sister of Mercy" were all released as singles in the UK with corresponding music videos. Three of the four singles that were released in the UK made the Top 5 and the fourth just missed the Top 10. "The Gap" was also released as a single in some other countries, but no video was made for it. According to the RIAA, the record sold over one million copies in the US; in the UK the album sold over 600,000 copies and was certified 2× platinum. It became one of the year's biggest sellers, with five million copies sold worldwide. The band embarked on a world tour in support of the album.
-In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Records. It included the bonus cassette remixes that originally appeared on the original cassette version of the album in 1984, and also features a second disc which includes most major 12" single versions and B-sides, some of which appear on CD for the first time.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/into-the-gap/1679081538" >}}<br>

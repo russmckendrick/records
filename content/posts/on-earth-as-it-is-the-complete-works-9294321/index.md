@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="on-earth-as-it-is-the-complete-works-9294321.jpg" title="On Earth As It Is: The Complete Works by Mother Love Bone" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Thru Fade Away
 2. Mindshaker Meltdown
 3. Half Ass Monkey Boy
@@ -48,10 +47,6 @@ styles: ["Alternative Rock"]
 19. Gentle Groove
 20. Mr. Danny Boy
 21. Crown of Thorns
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-earth-as-it-is-the-complete-works/1440887833" >}}<br>

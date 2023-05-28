@@ -29,10 +29,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="the-greatest-1051499.jpg" title="The Greatest by Ian Brown" >}}
+The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
+The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. My Star (Album Version) (5:23)
 2. Corpses In Their Mouths (Album Version) (4:11)
 3. Can't See Me (Bacon & Quarmby Remix) (3:57)
@@ -50,14 +53,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 15. Lovebug (The Greatest Version) (3:12)
 16. All Ablaze (The Album Version) (4:07)
 17. Return Of The Fisherman (The Album Version) (4:19)
-
-<!-- section break -->
-
-The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
-The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1442516060" >}}<br>

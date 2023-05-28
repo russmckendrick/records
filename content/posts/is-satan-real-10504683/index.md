@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
 
-{{< img src="is-satan-real-10504683.jpg" title="Is Satan Real? by Church Of The Cosmic Skull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mountain Heart (6:06)
 2. Black Slug (5:04)
 3. Movements In The Sky (3:34)
@@ -34,10 +33,6 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 5. Is Satan Real? (4:19)
 6. Watch It Grow (4:01)
 7. Evil In Your Eye (11:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-satan-real/1146826298" >}}<br>

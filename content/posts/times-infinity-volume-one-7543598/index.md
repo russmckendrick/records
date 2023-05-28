@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="times-infinity-volume-one-7543598.jpg" title="Times Infinity Volume One by The Dears" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Lost Everything (3:45)
 2. I Used To Pray For The Heavens To Fall (5:32)
 3. To Hold And Have (5:32)
@@ -33,10 +32,6 @@ styles: ["Indie Rock"]
 8. Face Of Horrors (4:07)
 9. Hell Hath Frozen In Your Eyes (4:28)
 10. Onward And Downward (3:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/times-infinity-vol-one/1178843853" >}}<br>

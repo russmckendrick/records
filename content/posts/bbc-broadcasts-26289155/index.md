@@ -20,10 +20,14 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
 
-{{< img src="bbc-broadcasts-26289155.jpg" title="BBC Broadcasts by Genesis" >}}
+BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Paris (1972)
 2. The Musical Box
 3. Sound Of The 70's (1971)
@@ -55,15 +59,6 @@ styles: ["Prog Rock", "Pop Rock"]
 29. Knebworth (1992)
 30. No Son Of Mine
 31. Driving The Last Spike
-
-<!-- section break -->
-
-BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.
-
-
-    
-    
-
 
 
 

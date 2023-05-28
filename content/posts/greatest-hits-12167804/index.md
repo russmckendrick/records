@@ -21,10 +21,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Punk"]
 ---
 
-{{< img src="greatest-hits-12167804.jpg" title="Greatest Hits by Ian Dury And The Blockheads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sex & Drugs & Rock & Roll
 2. Wake Up And Make Love
 3. Reasons To Be Cheerful Part 3
@@ -38,10 +37,6 @@ styles: ["Punk"]
 11. Sueperman's Big Sister
 12. Billericay Dickie
 13. Clevor Trever
-
-<!-- section break -->
-
-
 
 
 

@@ -26,10 +26,16 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Experimental"]
 ---
 
-{{< img src="ummagumma-8604223.jpg" title="Ummagumma by Pink Floyd" >}}
+Ummagumma is the fourth album by English rock band Pink Floyd. It is a double album and was released on 7 November 1969 by Harvest Records. The first disc consists of live recordings from concerts at Mothers Club in Birmingham and the College of Commerce in Manchester that contained part of their normal set list of the time, while the second contains solo compositions by each member of the band recorded at EMI Studios (now Abbey Road Studios). The artwork was designed by regular Floyd collaborators Hipgnosis and features a number of pictures of the band combined to give a Droste effect. It was the last album cover to feature the band.
+Although the album was well received at the time of release, and was a top five hit in the UK album charts, it has since been looked upon unfavourably by the band, who have expressed negative opinions about it in interviews. Nevertheless, the album has been reissued on CD several times, along with the rest of their catalogue.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Live Album
 2. Astronomy Domine
 3. Careful With That Axe Eugene
@@ -41,17 +47,6 @@ styles: ["Psychedelic Rock", "Experimental"]
 9. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict
 10. The Narrow Way
 11. The Grand Vizier's Garden Party
-
-<!-- section break -->
-
-Ummagumma is the fourth album by English rock band Pink Floyd. It is a double album and was released on 7 November 1969 by Harvest Records. The first disc consists of live recordings from concerts at Mothers Club in Birmingham and the College of Commerce in Manchester that contained part of their normal set list of the time, while the second contains solo compositions by each member of the band recorded at EMI Studios (now Abbey Road Studios). The artwork was designed by regular Floyd collaborators Hipgnosis and features a number of pictures of the band combined to give a Droste effect. It was the last album cover to feature the band.
-Although the album was well received at the time of release, and was a top five hit in the UK album charts, it has since been looked upon unfavourably by the band, who have expressed negative opinions about it in interviews. Nevertheless, the album has been reissued on CD several times, along with the rest of their catalogue.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ummagumma/699827490" >}}<br>

@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="ra-8117073.jpg" title="Ra by Utopia" >}}
+Ra is the second studio album and third release by Utopia on Bearsville Records, released in 1977. Rundgren planned on releasing the LP in 1976 on his own label "Ethereal Records" as the new 4 piece line up was not signed to Bearsville. Replete with an elaborate $250,000 stage show featuring a 22-foot-tall (6.7 m) pyramid and golden sphinx which took 18 months of prep, Ra was Rundgren's most ambitious live undertaking.
+The cornerstone of the album and show is "Singring and the Glass Guitar," which comprises solos by each band member battling the elements: water (drums), wind (bass), fire (keyboards), and earth (guitar).
+The album was modestly successful, peaking the Billboard Top 200 at #79.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Overture (Instrumental)
 2. Communion With The Sun (7:15)
 3. Magic Dragon Theatre (3:28)
@@ -35,15 +39,6 @@ styles: ["Pop Rock", "Prog Rock"]
 6. Sunburst Finish (7:38)
 7. Hiroshima (7:16)
 8. Singring And The Glass Guitar (An Electrified Fairytale) (18:24)
-
-<!-- section break -->
-
-Ra is the second studio album and third release by Utopia on Bearsville Records, released in 1977. Rundgren planned on releasing the LP in 1976 on his own label "Ethereal Records" as the new 4 piece line up was not signed to Bearsville. Replete with an elaborate $250,000 stage show featuring a 22-foot-tall (6.7 m) pyramid and golden sphinx which took 18 months of prep, Ra was Rundgren's most ambitious live undertaking.
-The cornerstone of the album and show is "Singring and the Glass Guitar," which comprises solos by each band member battling the elements: water (drums), wind (bass), fire (keyboards), and earth (guitar).
-The album was modestly successful, peaking the Billboard Top 200 at #79.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ra/129642450" >}}<br>

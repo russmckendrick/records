@@ -34,10 +34,14 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="surfing-with-the-alien-14479209.jpg" title="Surfing With The Alien by Joe Satriani" >}}
+Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Surfing With The Alien (4:26)
 2. Ice 9 (4:00)
 3. Crushing Day (5:15)
@@ -58,15 +62,6 @@ styles: []
 18. Lords Of Karma (Stripped) (5:04)
 19. Midnight (Stripped) (0:55)
 20. Echo (Stripped) (5:41)
-
-<!-- section break -->
-
-Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}<br>

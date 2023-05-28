@@ -21,10 +21,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Acoustic", "Folk"]
 ---
 
-{{< img src="ogilala-10993416.jpg" title="Ogilala by WPC" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Zowie
 2. Processional
 3. The Spaniards
@@ -36,10 +35,6 @@ styles: ["Acoustic", "Folk"]
 9. Mandarynne
 10. Shiloh
 11. Archer
-
-<!-- section break -->
-
-
 
 
 

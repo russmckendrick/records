@@ -19,10 +19,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="where-does-it-go-15998946.jpg" title="Where Does It Go by Denise Johnson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. True Faith (4:33)
 2. I'm Not In Love (4:27)
 3. Nothing You Can Do (4:02)
@@ -30,10 +29,6 @@ styles: []
 5. Sunshine After The Rain (3:46)
 6. Well I Wonder (4:50)
 7. Steal Me Easy (4:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/where-does-it-go/1532924026" >}}<br>

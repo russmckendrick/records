@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-{{< img src="runaway-horses-12559007.jpg" title="Runaway Horses by Belinda Carlisle" >}}
+Runaway Horses is the third solo studio album by American singer Belinda Carlisle, released on October 3, 1989, by MCA Records. The album features songs written by Rick Nowels, Ellen Shipley, Charlotte Caffey and a song co-written by Carlisle herself. The album contains an array of guest artists, including George Harrison and Bryan Adams.
+The album peaked at number 37 on the US Billboard 200, a considerable fall in sales from Carlisle's 1987 album, Heaven on Earth, but reached number four in the United Kingdom, where it was certified Platinum.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Leave A Light On (4:34)
 2. Runaway Horses (4:42)
 3. Vision Of You (4:37)
@@ -36,16 +41,6 @@ styles: ["Soft Rock", "Pop Rock"]
 8. Valentine (5:03)
 9. Whatever It Takes (4:49)
 10. Shades Of Michelangelo (5:46)
-
-<!-- section break -->
-
-Runaway Horses is the third solo studio album by American singer Belinda Carlisle, released on October 3, 1989, by MCA Records. The album features songs written by Rick Nowels, Ellen Shipley, Charlotte Caffey and a song co-written by Carlisle herself. The album contains an array of guest artists, including George Harrison and Bryan Adams.
-The album peaked at number 37 on the US Billboard 200, a considerable fall in sales from Carlisle's 1987 album, Heaven on Earth, but reached number four in the United Kingdom, where it was certified Platinum.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/runaway-horses/685170199" >}}<br>

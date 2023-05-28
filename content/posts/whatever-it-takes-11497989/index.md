@@ -21,10 +21,9 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="whatever-it-takes-11497989.jpg" title="Whatever It Takes by The James Hunter Six" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Don't Wanna Be Without You
 2. Whatever It Takes
 3. I Got Eyes
@@ -35,10 +34,6 @@ styles: ["Rhythm & Blues"]
 8. Don't Let Pride Take You For A Ride
 9. How Long
 10. It Was Gonna Be You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-it-takes/1484988854" >}}<br>

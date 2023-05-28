@@ -16,18 +16,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="ep-two-9446803.jpg" title="EP Two by Paul Draper" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Friends Make The Worst Enemies (5:06)
 2. Some Things Are Better Left Unsaid (2:38)
 3. Don't You Wait, It Might Never Come (3:52)
 4. Friends Make The Worst Enemies (Acoustic) (4:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ep-two-ep/1163304346" >}}<br>

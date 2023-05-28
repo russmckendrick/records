@@ -18,10 +18,14 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="welcome-to-sky-valley-8901378.jpg" title="Welcome To Sky Valley by Kyuss" >}}
+Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio album by American rock band Kyuss. It was released on June 28, 1994, through Elektra and Chameleon Records.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I
 2. Gardenia (5:53)
 3. Asteroid (4:50)
@@ -35,15 +39,6 @@ styles: ["Stoner Rock"]
 11. Conan Troutman (3:20)
 12. N.O. (3:48)
 13. Whitewater (7:52)
-
-<!-- section break -->
-
-Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio album by American rock band Kyuss. It was released on June 28, 1994, through Elektra and Chameleon Records.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-sky-valley/207973376" >}}<br>

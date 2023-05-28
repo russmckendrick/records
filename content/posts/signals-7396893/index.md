@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="signals-7396893.jpg" title="Signals by Rush" >}}
+Signals is the ninth studio album by Canadian rock band Rush, released on September 9, 1982 by Anthem Records. After the release of their previous album, Moving Pictures, the band started to prepare material for a follow-up during soundchecks on their 1981 concert tour and during the mixing of their subsequent live album Exit...Stage Left. Signals demonstrates the group's continuing use of synthesizers, sequencers, and other electronic instrumentation. It is the last album produced by their longtime associate Terry Brown, who had worked with them since 1974.
+The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in the United States. In November 1982, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the United States. Rush released three singles from the album: "New World Man", which became the band's highest charting single in the United States and a number-one hit in Canada, as well as "Subdivisions", and "Countdown". The group supported Signals with a concert tour from April 1982 to May 1983. Signals has been reissued several times, including a remaster with a new stereo and 5.1 surround sound mix in 2011.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Subdivisions
 2. The Analog Kid
 3. Chemistry
@@ -34,15 +38,6 @@ styles: []
 6. New World Man
 7. Losing It
 8. Countdown
-
-<!-- section break -->
-
-Signals is the ninth studio album by Canadian rock band Rush, released on September 9, 1982 by Anthem Records. After the release of their previous album, Moving Pictures, the band started to prepare material for a follow-up during soundchecks on their 1981 concert tour and during the mixing of their subsequent live album Exit...Stage Left. Signals demonstrates the group's continuing use of synthesizers, sequencers, and other electronic instrumentation. It is the last album produced by their longtime associate Terry Brown, who had worked with them since 1974.
-The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in the United States. In November 1982, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the United States. Rush released three singles from the album: "New World Man", which became the band's highest charting single in the United States and a number-one hit in Canada, as well as "Subdivisions", and "Countdown". The group supported Signals with a concert tour from April 1982 to May 1983. Signals has been reissued several times, including a remaster with a new stereo and 5.1 surround sound mix in 2011.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/signals-remastered/1440765198" >}}<br>

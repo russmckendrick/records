@@ -22,10 +22,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave", "Dance-pop"]
 ---
 
-{{< img src="the-best-of-omd-522821.jpg" title="The Best Of OMD by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Electricity
 2. Messages
 3. Enola Gay
@@ -40,10 +39,6 @@ styles: ["Synth-pop", "New Wave", "Dance-pop"]
 12. If You Leave
 13. Forever Live And Die
 14. Dreaming
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}<br>

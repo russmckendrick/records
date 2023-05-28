@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="machine-gun-etiquette-8859300.jpg" title="Machine Gun Etiquette by The Damned" >}}
+Machine Gun Etiquette is the third studio album by English punk rock band the Damned, released on 2 November 1979 by Chiswick Records.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Love Song (2:22)
 2. Machine Gun Etiquette (1:48)
 3. I Just Can´t Be Happy Today (3:35)
@@ -37,15 +41,6 @@ styles: ["Punk"]
 10. Liar (2:39)
 11. Smash It Up (Part 1) (1:56)
 12. Smash It Up (Part 2) (2:50)
-
-<!-- section break -->
-
-Machine Gun Etiquette is the third studio album by English punk rock band the Damned, released on 2 November 1979 by Chiswick Records.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/machine-gun-etiquette/1621373741" >}}<br>

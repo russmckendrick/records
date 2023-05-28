@@ -28,10 +28,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
 
-{{< img src="singles-original-motion-picture-soundtrack-10302224.jpg" title="Singles (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Would?
 2. Breath
 3. Seasons
@@ -63,10 +62,6 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 29. Lost In Emily's Woods
 30. Ferry Boat #3
 31. Score Piece #4
-
-<!-- section break -->
-
-
 
 
 ## Spotify

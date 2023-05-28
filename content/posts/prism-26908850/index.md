@@ -27,10 +27,14 @@ genres: ["Electronic"]
 styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 ---
 
-{{< img src="prism-26908850.jpg" title="Prism by The Orb" >}}
+Prism is the seventeenth studio album by English ambient house duo the Orb. The album was released on 28 April 2023 via Cooking Vinyl. It includes contributions from Youth, Violeta Vicci, Gaudi, David Harrow, Leandro Fresco, Jono Podmore and David Lofts and features vocalists Eric Von Skywalker, Andy Cain and Rachel D’arcy.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. H.O.M.E. (High Orbs Mini Earths)
 2. Why Can You Be In Two Places @ Once When You're Not Anywhere At All... Where's Gary Mix
 3. A Ghetto Love Story
@@ -40,15 +44,6 @@ styles: ["Ambient House", "Dub", "Disco", "Drum n Bass", "Downtempo", "Ambient"]
 7. The Beginning Of The End
 8. Living In Recycled Times
 9. Prism
-
-<!-- section break -->
-
-Prism is the seventeenth studio album by English ambient house duo the Orb. The album was released on 28 April 2023 via Cooking Vinyl. It includes contributions from Youth, Violeta Vicci, Gaudi, David Harrow, Leandro Fresco, Jono Podmore and David Lofts and features vocalists Eric Von Skywalker, Andy Cain and Rachel D’arcy.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prism-deluxe/1665731165" >}}<br>

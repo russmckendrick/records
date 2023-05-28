@@ -26,10 +26,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="the-very-very-best-of-crowded-house-13869670.jpg" title="The Very Very Best Of Crowded House by Crowded House" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Something So Strong
 2. Weather With You
 3. It's Only Natural
@@ -49,10 +48,6 @@ styles: []
 17. Not The Girl You Think You Are
 18. Nails In My Feet
 19. Pour Le Monde
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>

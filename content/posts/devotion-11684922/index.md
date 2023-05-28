@@ -31,10 +31,12 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Dream Pop"]
 ---
 
-{{< img src="devotion-11684922.jpg" title="Devotion by Beach House" >}}
+Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in United States according to Nielsen Soundscan.Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wedding Bell
 2. You Came To Me
 3. Gila
@@ -46,13 +48,6 @@ styles: ["Indie Rock", "Dream Pop"]
 9. Astronaut
 10. D.A.R.L.I.N.G.
 11. Home Again
-
-<!-- section break -->
-
-Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in United States according to Nielsen Soundscan.Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devotion/1247691975" >}}<br>

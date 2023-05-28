@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Punk"]
 ---
 
-{{< img src="god-fodder-781893.jpg" title="God Fodder by Ned's Atomic Dustbin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kill Your Television (2:59)
 2. Less Than Useful (4:01)
 3. Selfish (3:50)
@@ -38,10 +37,6 @@ styles: ["Indie Rock", "Alternative Rock", "Punk"]
 11. Until You Find Out (3:05)
 12. You (1:56)
 13. What Gives My Son? (2:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-fodder/290933571" >}}<br>

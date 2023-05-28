@@ -28,10 +28,12 @@ genres: ["Electronic"]
 styles: ["Ambient", "Dub", "Ambient House"]
 ---
 
-{{< img src="the-orb-s-adventures-beyond-the-ultraworld-11049937.jpg" title="The Orb's Adventures Beyond The Ultraworld by The Orb" >}}
+<i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Orbits Record One
 2. Earth Orbits
 3. Little Fluffy Clouds (4:27)
@@ -48,13 +50,6 @@ styles: ["Ambient", "Dub", "Ambient House"]
 14. Ultraworlds
 15. Star 6 & 7 8 9 (8:10)
 16. A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld: Live Mix MK 10 (18:48)
-
-<!-- section break -->
-
-<i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="lovegod-632447.jpg" title="Lovegod by The Soup Dragons" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Free (4:00)
 2. Mother Universe (3:42)
 3. Backwards Dog (2:16)
@@ -36,10 +35,6 @@ styles: ["Indie Rock"]
 9. Kiss The Gun (2:30)
 10. Love You To Death (2:40)
 11. Beauty Freak (3:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovegod-deluxe-remastered/1444082369" >}}<br>

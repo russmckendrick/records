@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="archives-1644515.jpg" title="Archives by Rush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rush
 2. Finding My Way (5:03)
 3. Need Some Love (2:16)
@@ -55,10 +54,6 @@ styles: ["Hard Rock", "Prog Rock"]
 22. Lakeside Park (4:07)
 23. The Necromancer
 24. The Fountain Of Lamneth
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-rush-single/1653217412" >}}<br>

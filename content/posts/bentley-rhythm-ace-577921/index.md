@@ -16,10 +16,12 @@ genres: ["Electronic"]
 styles: ["Big Beat"]
 ---
 
-{{< img src="bentley-rhythm-ace-577921.jpg" title="Bentley Rhythm Ace by Bentley Rhythm Ace" >}}
+Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Let There  Be Flute
 2. Midlander (There Can Only Be One...)
 3. Why Is A Frog Too..?
@@ -31,13 +33,6 @@ styles: ["Big Beat"]
 9. Who Put The Bom In The Bom Bom Diddleye Bom
 10. Spacehopper
 11. Return Of The Hardcore Jumble Carbootechnodisco Roadshow
-
-<!-- section break -->
-
-Bentley Rhythm Ace (BRA) are a British electronic music act formed in Birmingham in 1995, originally consisting of Mike Stokes and Richard March.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money-sun-hits-the-sky-bentley-rhythm/1509677858" >}}<br>

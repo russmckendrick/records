@@ -27,10 +27,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="fashion-nugget-23837591.jpg" title="Fashion Nugget by Cake" >}}
+Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.
+The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Frank Sinatra (4:00)
 2. The Distance (3:01)
 3. Friend Is A Four Letter Word (3:22)
@@ -45,16 +50,6 @@ styles: ["Alternative Rock"]
 12. She'll Come Back To Me (2:25)
 13. Italian Leather Sofa (5:52)
 14. Sad Songs And Waltzes (3:16)
-
-<!-- section break -->
-
-Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.
-The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fashion-nugget/1632472281" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="astragal-9156904.jpg" title="Astragal by Broken DC" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. White Street (1:19)
 2. Chimes (4:31)
 3. Namer Of Clouds (3:41)
@@ -30,10 +29,6 @@ styles: []
 8. Soon The Monsoon (3:02)
 9. Summer Lawns (4:57)
 10. Always Is Now (6:28)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}<br>

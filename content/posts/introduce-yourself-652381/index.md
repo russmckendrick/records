@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
-{{< img src="introduce-yourself-652381.jpg" title="Introduce Yourself by Faith No More" >}}
+Introduce Yourself is Faith No More's second studio album, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song "We Care a Lot," which also features updated, more topical, lyrics. It was the last album Chuck Mosley appeared on with the band.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Faster Disco (4:17)
 2. Anne's Song (4:47)
 3. Introduce Yourself (1:30)
@@ -35,13 +37,6 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 8. The Crab Song (5:52)
 9. Blood (3:39)
 10. Spirit (2:50)
-
-<!-- section break -->
-
-Introduce Yourself is Faith No More's second studio album, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song "We Care a Lot," which also features updated, more topical, lyrics. It was the last album Chuck Mosley appeared on with the band.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/introduce-yourself/63819537" >}}<br>

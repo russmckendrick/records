@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ---
 
-{{< img src="planet-silver-screen-12774767.jpg" title="Planet Silver Screen by Four Stroke Baron" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cut (02:12)
 2. Planet Silver Screen (03:50)
 3. Neon Person (04:33)
@@ -31,10 +30,6 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 7. Cyborg Pt.2: The City (04:11)
 8. Duplex (03:46)
 9. Video Maniacs (08:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/planet-silver-screen/1414568711" >}}<br>

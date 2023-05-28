@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="war-is-over-11111473.jpg" title="War Is Over by Von Hertzen Brothers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. War Is Over
 2. To The End Of The World
 3. The Arsonist
@@ -32,10 +31,6 @@ styles: ["Prog Rock"]
 10. Beyond The Storm
 11. I'll Make It Up To You (Bonus Track)
 12. New Terrain (Bonus Track)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}<br>

@@ -25,23 +25,18 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="tales-from-topographic-oceans-981938.jpg" title="Tales From Topographic Oceans by Yes" >}}
-
-<!-- section break -->
-
-1. The Revealing Science Of God - Dance Of The Dawn (20:27)
-2. The Remembering - High The Memory (20:38)
-3. The Ancient - Giants Under The Sun (18:34)
-4. Ritual - Nous Sommes Du Soleil (21:25)
-
-<!-- section break -->
-
 Tales from Topographic Oceans is the sixth studio album by English progressive rock band Yes, released on 7 December 1973 by Atlantic Records. It is their first studio album to feature drummer Alan White, who had replaced Bill Bruford the previous year. Frontman Jon Anderson devised its concept during the Close to the Edge Tour, when he read a footnote in Autobiography of a Yogi by Paramahansa Yogananda that describes four bodies of Hindu texts about a specific field of knowledge, collectively named shastras–śruti, smriti, puranas, and tantras. After pitching the idea to guitarist Steve Howe, the pair spent the rest of the tour developing an outline of the album's musical themes and lyrics.
 Rehearsals lasted for two months in London, during which the band decided to produce a double album containing four side-long tracks based on each text, ranging between 18 and 21 minutes. Keyboardist Rick Wakeman was critical of the concept and felt unable to contribute to the more experimental music that was being produced to fit a double album, and distanced himself from the group. Yes decided against recording in the countryside in order to use Britain's first 24-track machine at Morgan Studios, where they decorated the studio to resemble a farm. Roger Dean incorporated suggestions from the band into the album's cover art, which inspired his designs for the stage used on its tour.
 Tales from Topographic Oceans received mixed reviews upon release and became a symbol of the perceived excesses of the progressive rock, but earned a more positive reception in later years. It was a commercial success, becoming the first UK album to be certified Gold based solely on pre-orders, and spent two weeks at number one. In the US it peaked at number 6, where it was certified gold in 1974 for surpassing 500,000 copies. Yes toured the album for five months across Europe and North America, the first half of which featured the entire album performed live. Wakeman, who was against playing the whole album, quit the band at its conclusion to continue his solo career. In 2003, the album was remastered with previously unreleased tracks, and an edition with new stereo and 5.1 surround sound mixes by Steven Wilson, with additional bonus tracks, followed in 2016.
     
     
 
+
+## Tracklisting
+1. The Revealing Science Of God - Dance Of The Dawn (20:27)
+2. The Remembering - High The Memory (20:38)
+3. The Ancient - Giants Under The Sun (18:34)
+4. Ritual - Nous Sommes Du Soleil (21:25)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tales-from-topographic-oceans/1049006570" >}}<br>

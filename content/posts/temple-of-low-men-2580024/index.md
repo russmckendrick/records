@@ -16,10 +16,15 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 ---
 
-{{< img src="temple-of-low-men-2580024.jpg" title="Temple Of Low Men by Crowded House" >}}
+Temple of Low Men is the second studio album by New Zealand-Australian rock band Crowded House, released by Capitol Records on 5 July 1988. The three band members, Neil Finn, Nick Seymour and Paul Hester, recorded the album in Melbourne and Los Angeles with Mitchell Froom as producer. Finn had written all ten tracks during the two years since their self-titled debut. Temple of Low Men peaked at number one in Australia, number two in New Zealand, number ten in Canada and number 40 on the US Billboard 200.
+At the ARIA Music Awards of 1989 the group won four categories: Album of the Year and Best Group for Temple of Low Men; Best Cover Art for Seymour's work; and Song of the Year for "Better Be Home Soon".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Feel Possessed (3:47)
 2. Kill Eye (3:10)
 3. Into Temptation (5:32)
@@ -30,16 +35,6 @@ styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 8. Sister Madly (2:52)
 9. In The Lowlands (3:57)
 10. Better Be Home Soon (3:07)
-
-<!-- section break -->
-
-Temple of Low Men is the second studio album by New Zealand-Australian rock band Crowded House, released by Capitol Records on 5 July 1988. The three band members, Neil Finn, Nick Seymour and Paul Hester, recorded the album in Melbourne and Los Angeles with Mitchell Froom as producer. Finn had written all ten tracks during the two years since their self-titled debut. Temple of Low Men peaked at number one in Australia, number two in New Zealand, number ten in Canada and number 40 on the US Billboard 200.
-At the ARIA Music Awards of 1989 the group won four categories: Album of the Year and Best Group for Temple of Low Men; Best Cover Art for Seymour's work; and Song of the Year for "Better Be Home Soon".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}<br>

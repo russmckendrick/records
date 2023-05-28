@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ---
 
-{{< img src="the-groop-played-space-age-batchelor-pad-music-12779731.jpg" title="The Groop Played Space Age Batchelor Pad Music by Stereolab" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Easy Listening
 2. Avant Garde M.O.R. (4:09)
 3. Space Age Bachelor Pad Music (Mellow) (1:45)
@@ -32,10 +31,6 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 8. We're Not Adult Orientated (6:07)
 9. U.H.F. - M.F.P. (4:54)
 10. We're Not Adult Orientated (Neu Wave Live) (3:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-groop-played-space-age-batchelor-pad-music/268672477" >}}<br>

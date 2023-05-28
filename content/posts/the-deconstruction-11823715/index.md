@@ -34,10 +34,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-deconstruction-11823715.jpg" title="The Deconstruction by Eels" >}}
+Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with plenty of orchestral influences present in Eels’ latest offering—especially in the title track’s dark strings and “Rusty Pipes” with its subtle choral background vocals. “You Are The Shining Light” provides throwback with a ‘60s style drum beat and a piercing electric guitar lead, while the atmospheric “In Our Cathedral” gives that warm, fuzzy feeling—making <i>The Deconstruction</i> a reflective look at life through varied pop and rock styles.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Deconstruction
 2. Bone Dry
 3. The Quandary
@@ -68,14 +71,6 @@ styles: ["Indie Rock"]
 28. Archie Goodnight
 29. The Unanswerable
 30. In Our Cathedral
-
-<!-- section break -->
-
-Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with plenty of orchestral influences present in Eels’ latest offering—especially in the title track’s dark strings and “Rusty Pipes” with its subtle choral background vocals. “You Are The Shining Light” provides throwback with a ‘60s style drum beat and a piercing electric guitar lead, while the atmospheric “In Our Cathedral” gives that warm, fuzzy feeling—making <i>The Deconstruction</i> a reflective look at life through varied pop and rock styles.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-deconstruction/1330700343" >}}<br>

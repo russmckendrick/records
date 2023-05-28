@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="know-your-enemy-24453626.jpg" title="Know Your Enemy by Manic Street Preachers" >}}
+Know Your Enemy is the sixth studio album by Welsh rock band Manic Street Preachers. It was released on 19 March 2001 by record label Epic. It was supported by four singles; two of them, "So Why So Sad" and "Found That Soul", were released on the same day for promotional purposes.The band originally envisioned Know Your Enemy as two separate albums: Door to the River, which consisted of reflective, personal material, and the heavier, more politically-leaning Solidarity, with the intent of releasing both on the same day. However, their record label was not inclined to follow through on the idea (as they would later do in 2013–2014 with Rewind the Film and Futurology), so the material ended up released as one album, a move that drummer Sean Moore described as "strange" and "confusing".Whilst Know Your Enemy sold well commercially, it did not match the same success as its predecessor, This Is My Truth Tell Me Yours. Critics were somewhat divided in their opinions, but its reception has been mostly positive. In 2022, the band released a remixed version of Know Your Enemy, with a revised track listing closer to the double album that they previously intended.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Door To The River
 2. The Year Of Purification
 3. Ocean Spray
@@ -57,13 +59,6 @@ styles: ["Alternative Rock"]
 22. Dead Martyrs
 23. Wattsville Blues
 24. Miss Europa Disco Dancer
-
-<!-- section break -->
-
-Know Your Enemy is the sixth studio album by Welsh rock band Manic Street Preachers. It was released on 19 March 2001 by record label Epic. It was supported by four singles; two of them, "So Why So Sad" and "Found That Soul", were released on the same day for promotional purposes.The band originally envisioned Know Your Enemy as two separate albums: Door to the River, which consisted of reflective, personal material, and the heavier, more politically-leaning Solidarity, with the intent of releasing both on the same day. However, their record label was not inclined to follow through on the idea (as they would later do in 2013–2014 with Rewind the Film and Futurology), so the material ended up released as one album, a move that drummer Sean Moore described as "strange" and "confusing".Whilst Know Your Enemy sold well commercially, it did not match the same success as its predecessor, This Is My Truth Tell Me Yours. Critics were somewhat divided in their opinions, but its reception has been mostly positive. In 2022, the band released a remixed version of Know Your Enemy, with a revised track listing closer to the double album that they previously intended.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/know-your-enemy/319494170" >}}<br>

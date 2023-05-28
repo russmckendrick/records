@@ -18,10 +18,12 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-{{< img src="aloha-14719879.jpg" title="Aloha by Son Little" >}}
+Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Staples, Portugal. The Man and others—are a testament to his stylistic fluidity. And so are the albums the singer, songwriter and instrumentalist releases under his artist moniker, Son Little. The electronic abstractions of his 2015 self-titled debut gave way to the analog smudges of 2017’s <i>New Magic</i>, while Little’s latest is his pithiest, most sparse presentation of soul forms and indie rock impulses to date. His introspectiveness is the constant from project to project; even on earthy tracks, his performances feel a little elusive, like he’s splitting his attention between sensual expression and existential inquiry. This time, after his hard drive full of album demos went bad, Little serenely replaced the material with songs that feel like meditative mantras, capturing them in a Paris studio with producer Renaud Letang. The soul weeper “about her. again.” is peppered with startling silences, the sunnily mellow-sounding “3rd eye weeping” ponders inner pain from a slight remove, and “belladonna”, a tune with effervescent, skipping Afro-Cuban rhythms, measures the pull of attraction against the ballast of reason.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hey Rose
 2. About Her. Again
 3. Mahalia
@@ -34,13 +36,6 @@ styles: []
 10. O Clever One
 11. Neve Give Up
 12. After All (I Must Be Wrong)
-
-<!-- section break -->
-
-Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Staples, Portugal. The Man and others—are a testament to his stylistic fluidity. And so are the albums the singer, songwriter and instrumentalist releases under his artist moniker, Son Little. The electronic abstractions of his 2015 self-titled debut gave way to the analog smudges of 2017’s <i>New Magic</i>, while Little’s latest is his pithiest, most sparse presentation of soul forms and indie rock impulses to date. His introspectiveness is the constant from project to project; even on earthy tracks, his performances feel a little elusive, like he’s splitting his attention between sensual expression and existential inquiry. This time, after his hard drive full of album demos went bad, Little serenely replaced the material with songs that feel like meditative mantras, capturing them in a Paris studio with producer Renaud Letang. The soul weeper “about her. again.” is peppered with startling silences, the sunnily mellow-sounding “3rd eye weeping” ponders inner pain from a slight remove, and “belladonna”, a tune with effervescent, skipping Afro-Cuban rhythms, measures the pull of attraction against the ballast of reason.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aloha/1484054682" >}}<br>

@@ -33,10 +33,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
 
-{{< img src="god-says-no-8112114.jpg" title="God Says No by Monster Magnet" >}}
+New Jersey metal mongers Monster Magnet spent much of the '90s swimming against the prevailing pop currents, finally catching a break when the tides shifted their way on their fourth outing, 1998's <i>Powertrip</i> and its breakthrough hit "Space Lord." Two hard years of touring ensured that this follow-up wouldn't surface until 2001 - just in time for another shift in fashion, some attendant label tinkering, and finally a release from their contract. Ironic, considering how boldly the band has both tamed its darkly aggressive sonic ethos and expanded its range. The band incorporates electro-rhythms on the title track and "Queen of You," goes back to the future with the nouveau twang of "Kiss of the Scorpion," and completely shreds the envelope on the stripped-down electronica of "Take It," all seemingly with an eye on expanding their appeal beyond the metal faithful.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Melt
 2. Heads Explode
 3. Doomsday
@@ -54,13 +56,6 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 15. Leapin' Lizards (B-Side)
 16. Into The Void
 17. Black Celebration
-
-<!-- section break -->
-
-New Jersey metal mongers Monster Magnet spent much of the '90s swimming against the prevailing pop currents, finally catching a break when the tides shifted their way on their fourth outing, 1998's <i>Powertrip</i> and its breakthrough hit "Space Lord." Two hard years of touring ensured that this follow-up wouldn't surface until 2001 - just in time for another shift in fashion, some attendant label tinkering, and finally a release from their contract. Ironic, considering how boldly the band has both tamed its darkly aggressive sonic ethos and expanded its range. The band incorporates electro-rhythms on the title track and "Queen of You," goes back to the future with the nouveau twang of "Kiss of the Scorpion," and completely shreds the envelope on the stripped-down electronica of "Take It," all seemingly with an eye on expanding their appeal beyond the metal faithful.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-says-no/1442412218" >}}<br>

@@ -26,10 +26,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"]
 ---
 
-{{< img src="transformers-the-movie-original-motion-picture-soundtrack-7782037.jpg" title="Transformers: The Movie (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Touch
 2. Instruments Of Destruction
 3. Death Of Optimus Prime
@@ -40,10 +39,6 @@ styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"
 8. Hunger
 9. Autobot/Decepticon Battle
 10. Dare To Be Stupid
-
-<!-- section break -->
-
-
 
 
 

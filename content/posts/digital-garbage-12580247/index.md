@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 ---
 
-{{< img src="digital-garbage-12580247.jpg" title="Digital Garbage by Mudhoney" >}}
+Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 19, 2018. This is their seventh studio album release on Sub Pop.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nerve Attack
 2. Paranoid Core
 3. Please Mr. Gunman
@@ -34,13 +36,6 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 9. Messiah's Lament
 10. Next Mass Extinction
 11. Oh Yeah
-
-<!-- section break -->
-
-Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 19, 2018. This is their seventh studio album release on Sub Pop.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/digital-garbage/1399701869" >}}<br>

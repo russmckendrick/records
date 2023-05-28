@@ -22,10 +22,12 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="i-assassin-13281584.jpg" title="I, Assassin by Gary Numan" >}}
+I, Assassin is the fourth solo studio album by English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. White Boys And Heroes
 2. War Songs
 3. A Dream Of Siam
@@ -34,13 +36,6 @@ styles: ["Electro", "Synth-pop"]
 6. I, Assassin
 7. The 1930's Rust
 8. We Take Mystery To Bed
-
-<!-- section break -->
-
-I, Assassin is the fourth solo studio album by English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-assassin/251628587" >}}<br>

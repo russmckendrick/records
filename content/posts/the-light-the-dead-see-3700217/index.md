@@ -28,10 +28,14 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Alternative Rock", "Gospel"]
 ---
 
-{{< img src="the-light-the-dead-see-3700217.jpg" title="The Light The Dead See by The Soulsavers" >}}
+The Light the Dead See is the fourth full-length studio album from English electronica production duo Soulsavers, released by V2 Records in the UK on 21 May 2012, and by Mute in the US on 22 May 2012. The album title comes from a poem by Frank Stanford. The album is a collaboration with Dave Gahan, the frontman of Depeche Mode, as guest vocalist. Gahan sings and wrote the lyrics on all non-instrumental songs on the album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. La Ribera
 2. In The Morning
 3. Longest Day
@@ -56,15 +60,6 @@ styles: ["Alternative Rock", "Gospel"]
 22. I Can't Stay (5:02)
 23. Take (3:45)
 24. Tonight (3:58)
-
-<!-- section break -->
-
-The Light the Dead See is the fourth full-length studio album from English electronica production duo Soulsavers, released by V2 Records in the UK on 21 May 2012, and by Mute in the US on 22 May 2012. The album title comes from a poem by Frank Stanford. The album is a collaboration with Dave Gahan, the frontman of Depeche Mode, as guest vocalist. Gahan sings and wrote the lyrics on all non-instrumental songs on the album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-light-the-dead-see/671788459" >}}<br>

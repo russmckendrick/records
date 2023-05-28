@@ -32,10 +32,14 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="skylarking-8779259.jpg" title="Skylarking by XTC" >}}
+Skylarking is the ninth studio album by the English rock band XTC, released 27 October 1986 on Virgin Records. Produced by American musician Todd Rundgren, it is a loose concept album about a nonspecific cycle, such as a day, a year, the seasons, or a life. The title refers to a type of bird (skylark), as well as the Royal Navy term "skylarking", which means "fooling around". It became one of XTC's best-known albums and is generally regarded as their finest work.Like XTC's previous Dukes of Stratosphear side project, Skylarking was heavily influenced by the music of the 1960s. Most of its recording was at Rundgren's Utopia Sound Studio in Woodstock, New York. Rundgren played a large role in the album's sound design and drum programming, providing the band with orchestral arrangements and an assortment of gear. However, the sessions were fraught with tension, especially between Rundgren and bandleader Andy Partridge, and numerous disagreements arose over drum patterns, song selections, and other details. In 2010, it was discovered that a wiring error made during the mastering process caused the album to have a "thin" sound. The problem was corrected on subsequent remasters.
 
-<!-- section break -->
+Upon release, Skylarking was met with indifference in the UK, rising in the album charts to number 90, while both of its lead singles "Grass" (backed with "Dear God") and "The Meeting Place" peaked at number 100. Early sales of the album were hampered by the omission of "Dear God" from the album's original pressings. In the US, the song became a college radio hit, causing US distributor Geffen Records to recall and repress Skylarking with the track included, and propelling the album to number 70. Following the song's growth in popularity, it was the subject of controversy in the US, inspiring many angry phone calls to radio stations and at least one bomb threat. Skylarking was later listed on "100 greatest albums of the 1980s" lists by Rolling Stone in 1989 and Pitchfork in 2002.
+    
+    
 
+
+## Tracklisting
 1. Summer's Cauldron
 2. Grass
 3. The Meeting Place
@@ -66,15 +70,6 @@ styles: ["New Wave", "Pop Rock"]
 28. Dear God
 29. Dying
 30. Sacrificial Bonfire
-
-<!-- section break -->
-
-Skylarking is the ninth studio album by the English rock band XTC, released 27 October 1986 on Virgin Records. Produced by American musician Todd Rundgren, it is a loose concept album about a nonspecific cycle, such as a day, a year, the seasons, or a life. The title refers to a type of bird (skylark), as well as the Royal Navy term "skylarking", which means "fooling around". It became one of XTC's best-known albums and is generally regarded as their finest work.Like XTC's previous Dukes of Stratosphear side project, Skylarking was heavily influenced by the music of the 1960s. Most of its recording was at Rundgren's Utopia Sound Studio in Woodstock, New York. Rundgren played a large role in the album's sound design and drum programming, providing the band with orchestral arrangements and an assortment of gear. However, the sessions were fraught with tension, especially between Rundgren and bandleader Andy Partridge, and numerous disagreements arose over drum patterns, song selections, and other details. In 2010, it was discovered that a wiring error made during the mastering process caused the album to have a "thin" sound. The problem was corrected on subsequent remasters.
-
-Upon release, Skylarking was met with indifference in the UK, rising in the album charts to number 90, while both of its lead singles "Grass" (backed with "Dear God") and "The Meeting Place" peaked at number 100. Early sales of the album were hampered by the omission of "Dear God" from the album's original pressings. In the US, the song became a college radio hit, causing US distributor Geffen Records to recall and repress Skylarking with the track included, and propelling the album to number 70. Following the song's growth in popularity, it was the subject of controversy in the US, inspiring many angry phone calls to radio stations and at least one bomb threat. Skylarking was later listed on "100 greatest albums of the 1980s" lists by Rolling Stone in 1989 and Pitchfork in 2002.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skylarking-remastered/1440889477" >}}<br>

@@ -28,23 +28,18 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="going-for-the-one-476246.jpg" title="Going For The One by Yes" >}}
-
-<!-- section break -->
-
-1. Going For The One (5:30)
-2. Turn Of The Century (7:58)
-3. Parallels (5:52)
-4. Wonderous Stories (3:45)
-5. Awaken (15:38)
-
-<!-- section break -->
-
 Going for the One is the eighth studio album by English progressive rock band Yes, released on 15 July 1977 by Atlantic Records. After taking a break in activity in 1975 for each member to release a solo album, and their 1976 tour of the United States and Canada, the band relocated to Montreux, Switzerland to record their next studio album. During rehearsals, keyboardist Patrick Moraz left the group, which marked the return of Rick Wakeman who had left to pursue a solo career after differences surrounding Tales from Topographic Oceans (1973). In a departure from their previous albums, Going for the One, with the exception of the fifteen-minute "Awaken", features shorter and more direct songs without an overarching concept, and saw Yes record with new engineering personnel and cover artists.
 Going for the One received a mostly positive response from music critics who welcomed the band's return to more accessible music. It was a commercial success, reaching No. 1 on the UK Albums Chart for two weeks and No. 8 on the US Billboard 200. "Wonderous Stories" and "Going for the One" were released as singles; the former went to No. 7 in the UK and remains the band's highest-charting single in the country. It was certified gold by the Recording Industry Association of America (RIAA) within a month for selling 500,000 copies. Yes supported the album with a six-month tour of the US, Canada and Europe. A remastered edition was released in 2003 containing previously unreleased tracks from the album's recording sessions.
     
     
 
+
+## Tracklisting
+1. Going For The One (5:30)
+2. Turn Of The Century (7:58)
+3. Parallels (5:52)
+4. Wonderous Stories (3:45)
+5. Awaken (15:38)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/going-for-the-one-deluxe-edition/1082014857" >}}<br>

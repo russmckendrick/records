@@ -24,24 +24,6 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="envy-of-none-22788167.jpg" title="Envy Of None by Envy Of None" >}}
-
-<!-- section break -->
-
-1. Never Said I Love You
-2. Shadow
-3. Look Inside
-4. Liar
-5. Spy House
-6. Dog's Life
-7. Kabul Blues
-8. Old Strings
-9. Dumb
-10. Enemy
-11. Western Sunset
-
-<!-- section break -->
-
 For his first post-Rush album project, guitar wizard Alex Lifeson has teamed up with bassist Andy Curran of veteran Canadian rockers Coney Hatch, producer Alfio Annibalini (Voivod/Sons of Otis) and beguiling young singer Maiah Wynne to form Envy of None. The group’s self-titled debut is a true collaborative effort featuring deep electronic textures, dreamy alt-rock and a poignant tribute to Lifeson’s late, great friend and bandmate Neil Peart. Just don’t expect any of it to sound like Rush. “I was in Rush for 45 years, but I have a lot of other musical ideas,” Lifeson tells Apple Music. “Working with a different set of people who are great musicians and great songwriters was a rewarding experience. I was able to create the type of soundscapes and character in the guitar that was very non-guitarlike.” Below, Lifeson and Curran discuss each track. 
  
 <b>“Never Said I Love You”</b>
@@ -80,6 +62,19 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
         
     
 
+
+## Tracklisting
+1. Never Said I Love You
+2. Shadow
+3. Look Inside
+4. Liar
+5. Spy House
+6. Dog's Life
+7. Kabul Blues
+8. Old Strings
+9. Dumb
+10. Enemy
+11. Western Sunset
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}<br>

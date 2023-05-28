@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Goth Rock"]
 ---
 
-{{< img src="greatest-hits-volume-one-a-slight-case-of-overbombing-12129846.jpg" title="Greatest Hits Volume One - A Slight Case Of Overbombing by The Sisters Of Mercy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Under The Gun (5:41)
 2. Temple Of Love (1992) (8:03)
 3. Vision Thing (7:33)
@@ -38,10 +37,6 @@ styles: ["Goth Rock"]
 10. No Time To Cry (3:56)
 11. Walk Away (3:22)
 12. Body And Soul (3:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits-vol-one-a-slight-case-of/1384587799" >}}<br>

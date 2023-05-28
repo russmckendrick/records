@@ -29,10 +29,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="studio-albums-93-16-12778997.jpg" title="Studio Albums 93 - 16 by Suede" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Suede
 2. So Young (3:38)
 3. Animal Nitrate  (3:27)
@@ -120,10 +119,6 @@ styles: ["Alternative Rock", "Britpop"]
 85. I Can't Give Her What She Wants (4:45)
 86. When You Were Young (2:19)
 87. The Fur And The Feathers (4:40)
-
-<!-- section break -->
-
-
 
 
 

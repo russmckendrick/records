@@ -32,10 +32,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock"]
 ---
 
-{{< img src="presents-shake-your-money-maker-live-26416601.jpg" title="Presents Shake Your Money Maker Live by The Black Crowes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Twice As Hard
 2. Jealous Again
 3. Sister Luck
@@ -55,10 +54,6 @@ styles: ["Rock & Roll", "Southern Rock"]
 17. Remedy
 18. It's Only Rock 'N' Roll
 19. Rock & Roll
-
-<!-- section break -->
-
-
 
 
 

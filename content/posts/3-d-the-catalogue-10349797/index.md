@@ -54,10 +54,9 @@ genres: ["Electronic"]
 styles: ["Techno", "Electro", "Experimental"]
 ---
 
-{{< img src="3-d-the-catalogue-10349797.jpg" title="3-D (The Catalogue) by Kraftwerk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1 Autobahn
 2. Autobahn (14:27)
 3. Kometenmelodie 1 (5:29)
@@ -135,10 +134,6 @@ styles: ["Techno", "Electro", "Experimental"]
 75. Vitamin (5:54)
 76. La Forme (6:19)
 77. Regeneration (0:28)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/3-d-the-catalogue-live/1572506374" >}}<br>

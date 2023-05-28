@@ -17,16 +17,11 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat"]
 ---
 
-{{< img src="music-for-the-mature-b-boy-album-megamix-156229.jpg" title="Music For The Mature B-Boy (Album Megamix) by DJ Format" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Music For The Mature B-Boy (Album Megamix)
 2. Music For The Mature B-Boy (Album Megamix)
-
-<!-- section break -->
-
-
 
 
 

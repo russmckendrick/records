@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-{{< img src="night-raider-13562794.jpg" title="Night Raider by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Time Of Ye Life
 2. Born For Nothing
 3. Paranoid Arm Of Narcoleptic Empire
@@ -36,10 +35,6 @@ styles: ["Post Rock", "Prog Rock"]
 8. A Lack Of Common Sense
 9. Trust No One
 10. I Am Free, Today I Perished
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/night-raider-remastered/1458792311" >}}<br>

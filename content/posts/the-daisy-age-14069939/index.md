@@ -21,10 +21,9 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Jazzy Hip-Hop"]
 ---
 
-{{< img src="the-daisy-age-14069939.jpg" title="The Daisy Age by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A Roller Skating Jam Named "Saturdays" (4:01)
 2. Bonita Applebum (3:36)
 3. Sunshine Men (4:32)
@@ -45,10 +44,6 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 18. Age Ain't Nothin' But A # (4:26)
 19. We Run Things (It's Like Dat) (4:11)
 20. You're Not Coming Home (Mase's Funkay Recall Mix) (4:56)
-
-<!-- section break -->
-
-
 
 
 

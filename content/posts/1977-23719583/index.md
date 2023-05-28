@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="1977-23719583.jpg" title="1977 by Ash" >}}
+1977 is the debut studio album by Northern Irish rock band Ash. It was released on 6 May 1996 by Home Grown and Infectious Records, with whom the band had signed following the release of several demo tapes. Ash released the mini-album Trailer in 1994, and followed it with three singles "Kung Fu", "Girl from Mars", and "Angel Interceptor", all of which would reappear on 1977. Ash recorded their debut album with producer Owen Morris at Rockfield Studios in Wales in early 1996. Described as a Britpop, power pop and garage rock album, 1977 drew comparisons to the Buzzcocks, Dinosaur Jr., and Sonic Youth.
+Preceded by the album's fourth single "Goldfinger" in April 1996, the band embarked on tours of the United Kingdom and Europe. "Oh Yeah" was released as the fifth single in June 1996, followed by tours of the United States, Japan, Australia, and New Zealand. Ash ended the year with another US tour, as well as a US support slot for Weezer. They toured Europe and the UK, before their appearance at Glastonbury Festival.
+1977 received generally positive reviews from music critics, who praised the album's "catchy" nature. The album peaked at number one in the UK, as well as reaching the top 40 in Australia, Finland, New Zealand, Norway, and Switzerland. "Kung Fu", "Girl from Mars", "Angel Interceptor", "Goldfinger", and "Oh Yeah" all charted on the UK Singles Chart, with "Goldfinger" reaching the highest position at number five. 1977 appeared on several UK publications' best-of-the-year album lists, by the likes of Kerrang!, NME, and Melody Maker, among others. The album would later be certified platinum in the UK.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lose Control
 2. Goldfinger
 3. Girl From Mars
@@ -41,15 +45,6 @@ styles: ["Pop Rock", "Indie Rock"]
 10. Angel Interceptor
 11. Lost In You
 12. Darkside Lightside
-
-<!-- section break -->
-
-1977 is the debut studio album by Northern Irish rock band Ash. It was released on 6 May 1996 by Home Grown and Infectious Records, with whom the band had signed following the release of several demo tapes. Ash released the mini-album Trailer in 1994, and followed it with three singles "Kung Fu", "Girl from Mars", and "Angel Interceptor", all of which would reappear on 1977. Ash recorded their debut album with producer Owen Morris at Rockfield Studios in Wales in early 1996. Described as a Britpop, power pop and garage rock album, 1977 drew comparisons to the Buzzcocks, Dinosaur Jr., and Sonic Youth.
-Preceded by the album's fourth single "Goldfinger" in April 1996, the band embarked on tours of the United Kingdom and Europe. "Oh Yeah" was released as the fifth single in June 1996, followed by tours of the United States, Japan, Australia, and New Zealand. Ash ended the year with another US tour, as well as a US support slot for Weezer. They toured Europe and the UK, before their appearance at Glastonbury Festival.
-1977 received generally positive reviews from music critics, who praised the album's "catchy" nature. The album peaked at number one in the UK, as well as reaching the top 40 in Australia, Finland, New Zealand, Norway, and Switzerland. "Kung Fu", "Girl from Mars", "Angel Interceptor", "Goldfinger", and "Oh Yeah" all charted on the UK Singles Chart, with "Goldfinger" reaching the highest position at number five. 1977 appeared on several UK publications' best-of-the-year album lists, by the likes of Kerrang!, NME, and Melody Maker, among others. The album would later be certified platinum in the UK.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1977-collectors-edition/294347354" >}}<br>

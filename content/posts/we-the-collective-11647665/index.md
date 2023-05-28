@@ -25,10 +25,14 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
-{{< img src="we-the-collective-11647665.jpg" title="We The Collective by The Levellers" >}}
+We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".The album was produced by John Leckie.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Exodus
 2. Liberty Song
 3. England My Home
@@ -44,15 +48,6 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 13. Outside Inside
 14. All The Unknown
 15. Said And Done
-
-<!-- section break -->
-
-We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".The album was produced by John Leckie.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-the-collective/1318326494" >}}<br>

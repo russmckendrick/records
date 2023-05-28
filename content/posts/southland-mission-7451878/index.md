@@ -21,10 +21,9 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ---
 
-{{< img src="southland-mission-7451878.jpg" title="Southland Mission by Phil Cook" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ain't It Sweet
 2. 1922
 3. Great Tide
@@ -34,10 +33,6 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 7. Time to Wake Up
 8. Anybody Else
 9. Gone
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/southland-mission/1024130093" >}}<br>

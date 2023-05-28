@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="colours-in-the-sun-14328273.jpg" title="Colours In The Sun by Voyager" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Colours (4:04)
 2. Severomance (4:22)
 3. Brightstar (4:31)
@@ -40,10 +39,6 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 8. Sign Of The Times (3:46)
 9. Water Over The Bridge (4:42)
 10. Runaway (4:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}<br>

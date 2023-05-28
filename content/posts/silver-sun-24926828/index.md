@@ -20,10 +20,13 @@ genres: ["Rock"]
 styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="silver-sun-24926828.jpg" title="Silver Sun by Silver Sun" >}}
+Silver Sun is the debut full album by the British power pop band Silver Sun.  It was released in May 1997 on Polydor Records and was produced by Nigel Godrich.
+Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching #30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Test
 2. Golden Skin
 3. Dumb
@@ -39,14 +42,6 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 13. Bad Haircut
 14. Nobody
 15. Animals Feets
-
-<!-- section break -->
-
-Silver Sun is the debut full album by the British power pop band Silver Sun.  It was released in May 1997 on Polydor Records and was produced by Nigel Godrich.
-Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching #30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silver-sun/1276092987" >}}<br>

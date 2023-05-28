@@ -19,10 +19,9 @@ genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
 
-{{< img src="live-561172.jpg" title="(Live) by Peter Cook & Dudley Moore" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Worst Job I Ever Had
 2. This Bloke Came Up To Me
 3. The Worst Job He Ever Had
@@ -36,10 +35,6 @@ styles: ["Comedy", "Spoken Word"]
 11. Top Rank
 12. Cancer
 13. Jump
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beyond-the-fringe-live-at-the-cambridge-art-theatre/717490504" >}}<br>

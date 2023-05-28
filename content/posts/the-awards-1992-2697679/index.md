@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="the-awards-1992-2697679.jpg" title="The Awards 1992 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Innuendo (6:29)
 2. Calling Elvis (6:23)
 3. Mysterious Ways (4:01)
@@ -59,10 +58,6 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 30. It Had To Be You (2:38)
 31. Caribbean Blue
 32. Inspector Morse (Main Theme)
-
-<!-- section break -->
-
-
 
 
 

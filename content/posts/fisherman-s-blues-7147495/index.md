@@ -16,10 +16,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="fisherman-s-blues-7147495.jpg" title="Fisherman's Blues by The Waterboys" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fisherman's Blues
 2. We Will Not Be Lovers
 3. Strange Boat
@@ -31,10 +30,6 @@ styles: ["Acoustic"]
 9. When Ye Go Away
 10. Dunford’s Fancy
 11. The Stolen Child
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fishermans-blues-collectors-edition/1631053858" >}}<br>

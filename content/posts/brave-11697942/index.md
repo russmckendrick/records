@@ -39,10 +39,12 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="brave-11697942.jpg" title="Brave  by Marillion" >}}
+Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Brave (2018 Steven Wilson Remix)
 2. Bridge
 3. Living With The Big Lie
@@ -83,13 +85,6 @@ styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 38. Waiting To Happen
 39. Hooks In You
 40. The Space...
-
-<!-- section break -->
-
-Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brave-deluxe-edition/1332727026" >}}<br>

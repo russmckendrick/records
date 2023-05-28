@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
-{{< img src="seasons-end-26861306.jpg" title="Seasons End by Marillion" >}}
+Seasons End is the fifth studio album by British neo-progressive rock band Marillion, released in 1989. The album was the first to feature current lead vocalist Steve Hogarth, following the departure of former vocalist Fish in late 1988. It reached number 7 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 2023 Remix
 2. The King Of Sunset Town
 3. Easter
@@ -50,13 +52,6 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 21. The Space...
 22. Gaza
 23. The Leavers
-
-<!-- section break -->
-
-Seasons End is the fifth studio album by British neo-progressive rock band Marillion, released in 1989. The album was the first to feature current lead vocalist Steve Hogarth, following the departure of former vocalist Fish in late 1988. It reached number 7 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seasons-end/691367783" >}}<br>

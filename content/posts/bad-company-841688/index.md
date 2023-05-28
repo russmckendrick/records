@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 ---
 
-{{< img src="bad-company-841688.jpg" title="Bad Company by Bad Company" >}}
+Bad Company is the debut studio album by the English hard rock supergroup Bad Company. The album was recorded at Headley Grange with Ronnie Lane's Mobile Studio in November 1973, and it was the first album released on Led Zeppelin's Swan Song Records label.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Can't Get Enough (4:10)
 2. Rock Steady (3:46)
 3. Ready For Love (5:00)
@@ -33,13 +35,6 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 6. The Way I Choose (5:05)
 7. Movin' On (3:20)
 8. Seagull (4:06)
-
-<!-- section break -->
-
-Bad Company is the debut studio album by the English hard rock supergroup Bad Company. The album was recorded at Headley Grange with Ronnie Lane's Mobile Studio in November 1973, and it was the first album released on Led Zeppelin's Swan Song Records label.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-company/978942690" >}}<br>

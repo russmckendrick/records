@@ -21,10 +21,13 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 ---
 
-{{< img src="electric-mud-11183534.jpg" title="Electric Mud by Muddy Waters" >}}
+Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it imagines Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
+The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Just Want To Make Love To You (4:14)
 2. Hoochie Coochie Man (4:41)
 3. Let's Spend The Night Together (3:07)
@@ -33,14 +36,6 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 6. Herbert Harpers Free Press (4:32)
 7. Tom Cat (3:37)
 8. Same Thing (5:37)
-
-<!-- section break -->
-
-Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it imagines Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
-The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-mud/1440803762" >}}<br>

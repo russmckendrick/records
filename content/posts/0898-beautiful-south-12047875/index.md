@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="0898-beautiful-south-12047875.jpg" title="0898 Beautiful South by The Beautiful South" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Old Red Eyes Is Back (3:35)
 2. We Are Each Other (3:39)
 3. The Rocking Chair (4:43)
@@ -38,10 +37,6 @@ styles: ["Pop Rock"]
 10. Bell-Bottomed Tear (4:35)
 11. You Play Glockenspiel, I'll Play Drums (5:06)
 12. When I'm 84 (4:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}<br>

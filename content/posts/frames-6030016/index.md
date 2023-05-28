@@ -19,10 +19,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="frames-6030016.jpg" title="Frames by Oceansize" >}}
+Frames is the third studio album by British progressive/alternative rock band Oceansize, released on 1 October 2007 on Superball Music. The album marks the first appearance of bassist Steven Hodson, following the departure of Jon Ellis in 2005.
+In May 2008, the band re-released the album with an accompanying DVD, featuring a full performance of the album, a documentary focusing on the making of the album, and various live tracks. The package also includes an Oceansize sticker.
+The band played the album in full on 18 October 2008 in Manchester as part of a trilogy of shows that celebrated the band's ten-year anniversary.
 
-<!-- section break -->
+Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we were fucked. This is not a slight on Steven [Hodson], and I never said to anybody that I didn't think it would be as good any more, but I had a vibe about it. Then halfway through mixing it really started to make sense and I knew it would be something our fans would like. It's the kind of record they would want us to make, although I expect our hardcore fans to get it and hate and say "What have they done?" then a year later it'll be their favorite record.
+    
+    
 
+
+## Tracklisting
 1. Commemorative ___ T-Shirt (8:37)
 2. Unfamiliar (6:32)
 3. Trail Of Fire (8:07)
@@ -39,17 +45,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 14. An Old Friend Of The Christy's (10:20)
 15. Sleeping Dogs And Dead Lions (6:43)
 16. The Frame (10:41)
-
-<!-- section break -->
-
-Frames is the third studio album by British progressive/alternative rock band Oceansize, released on 1 October 2007 on Superball Music. The album marks the first appearance of bassist Steven Hodson, following the departure of Jon Ellis in 2005.
-In May 2008, the band re-released the album with an accompanying DVD, featuring a full performance of the album, a documentary focusing on the making of the album, and various live tracks. The package also includes an Oceansize sticker.
-The band played the album in full on 18 October 2008 in Manchester as part of a trilogy of shows that celebrated the band's ten-year anniversary.
-
-Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we were fucked. This is not a slight on Steven [Hodson], and I never said to anybody that I didn't think it would be as good any more, but I had a vibe about it. Then halfway through mixing it really started to make sense and I knew it would be something our fans would like. It's the kind of record they would want us to make, although I expect our hardcore fans to get it and hate and say "What have they done?" then a year later it'll be their favorite record.
-    
-    
-
 
 
 

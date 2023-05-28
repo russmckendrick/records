@@ -44,10 +44,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="tango-in-the-night-10063396.jpg" title="Tango In The Night by Fleetwood Mac" >}}
+Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.
+Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Original Album - 2017 Remaster
 2. Big Love (3:44)
 3. Seven Wonders (3:42)
@@ -123,14 +126,6 @@ styles: ["Pop Rock"]
 73. Isn't It Midnight (4:14)
 74. When I See You Again (3:49)
 75. You And I, Part II (2:40)
-
-<!-- section break -->
-
-Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.
-Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-deluxe/1196727792" >}}<br>

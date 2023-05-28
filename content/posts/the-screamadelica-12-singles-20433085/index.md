@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
 ---
 
-{{< img src="the-screamadelica-12-singles-20433085.jpg" title="The Screamadelica 12 Singles by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Loaded EP
 2. Loaded (7:00)
 3. I'm Losing More Than I'll Ever Have (4:45)
@@ -57,10 +56,6 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 32. Shine Like Stars
 33. Shine Like Stars (Andrew Weatherall Remix) (6:52)
 34. Shine Like Stars (Instrumental) (6:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344" >}}<br>

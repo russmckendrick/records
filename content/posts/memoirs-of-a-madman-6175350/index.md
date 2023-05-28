@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-{{< img src="memoirs-of-a-madman-6175350.jpg" title="Memoirs Of A Madman by Ozzy Osbourne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Crazy Train
 2. Mr. Crowley
 3. Flying High Again
@@ -41,10 +40,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 15. I Don't Wanna Stop
 16. Let Me Hear You Scream
 17. Paranoid (Live)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/memoirs-of-a-madman/911604105" >}}<br>

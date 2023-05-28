@@ -19,17 +19,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Space Rock"]
 ---
 
-{{< img src="swell-22720439.jpg" title="Swell by Sel Balamir" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Swell (20:42)
 2. Jacques Cousteau (11:13)
 3. Seagull (9:26)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/swell-digital/1571562583" >}}<br>

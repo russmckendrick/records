@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="kin-original-motion-picture-soundtrack-12452058.jpg" title="Kin (Original Motion Picture Soundtrack) by Mogwai" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Eli's Theme
 2. Scrap
 3. Flee
@@ -35,10 +34,6 @@ styles: ["Post Rock"]
 7. Guns Down
 8. Kin
 9. We're Not Done (End Title)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092" >}}<br>

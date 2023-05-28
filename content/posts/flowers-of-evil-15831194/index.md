@@ -25,10 +25,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="flowers-of-evil-15831194.jpg" title=" Flowers Of Evil by Ulver" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. One Last Dance
 2. Russian Doll
 3. Machine Guns And Peacock Feathers
@@ -37,10 +36,6 @@ styles: ["Synth-pop"]
 6. Little Boy
 7. Nostalgia
 8. A Thousand Cuts
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}<br>

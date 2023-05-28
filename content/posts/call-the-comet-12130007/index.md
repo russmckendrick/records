@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="call-the-comet-12130007.jpg" title="Call The Comet by Johnny Marr" >}}
+Call the Comet is the third studio album by the English musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rise
 2. The Tracers
 3. Hey Angel
@@ -37,13 +39,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Spiral Cities
 11. My Eternal 
 12. A Different Gun
-
-<!-- section break -->
-
-Call the Comet is the third studio album by the English musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1362676938" >}}<br>

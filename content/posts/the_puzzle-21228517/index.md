@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract"]
 ---
 
-{{< img src="the_puzzle-21228517.jpg" title="The_Puzzle by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chromatic Ridge
 2. Life Is But A Dream
 3. Yucky Lung
@@ -46,10 +45,6 @@ styles: ["Abstract"]
 18. Southern Sky Geometry
 19. The Puzzle
 20. Monuments Of Glitch
-
-<!-- section break -->
-
-
 
 
 

@@ -22,10 +22,9 @@ genres: ["Jazz", "Funk / Soul", "Blues", "Brass & Military", "Folk, World, & Cou
 styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 ---
 
-{{< img src="our-new-orleans-2005-a-benefit-album-16916634.jpg" title="Our New Orleans 2005, A Benefit Album by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Yes We Can Can (4:12)
 2. World I Never Made (3:59)
 3. Back Water Blues (3:29)
@@ -47,10 +46,6 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 19. Crescent City Serenade (5:33)
 20. Walking By The River (3:54)
 21. Do You Know What It Means (3:32)
-
-<!-- section break -->
-
-
 
 
 

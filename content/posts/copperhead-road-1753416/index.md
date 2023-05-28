@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="copperhead-road-1753416.jpg" title="Copperhead Road by Steve Earle" >}}
+A maverick to his Virginia-born bones, Earle took a long stride toward freedom on 1988's <i>Copperhead Road</i>. The guitars snarl and the drums slam fiercely on this fiery, take-no-prisoners song collection. The title track (a FM rock favorite) and "The Devil's Right Hand" roar with the defiance of a Confederate guerilla force, with Earle's vocals ringing with feverish desperation. Softer tunes like "Nothing but a Child" (a tender nativity song) take the edge off the anger. Another highpoint, "Johnny Come Lately," matches him with the Pogues for a galloping Irish-Appalachian romp. At this point in his career, Earle was veering away from Nashville's restrictions and reveling in his own potent country/rock/folk blend fearlessly. He's gone on to release other outstanding albums, but <i>Copperhead Road</i> is unmatched for its musical ferocity and fine-etched lyrical insights. There's venom and honey alike to be savored here.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Copperhead Road (4:28)
 2. Snake Oil (3:29)
 3. Back To The Wall (5:25)
@@ -38,14 +41,6 @@ styles: ["Folk Rock", "Country Rock"]
 8. Waiting On You (5:07)
 9. Once You Love (4:42)
 10. Nothing But A Child (4:27)
-
-<!-- section break -->
-
-A maverick to his Virginia-born bones, Earle took a long stride toward freedom on 1988's <i>Copperhead Road</i>. The guitars snarl and the drums slam fiercely on this fiery, take-no-prisoners song collection. The title track (a FM rock favorite) and "The Devil's Right Hand" roar with the defiance of a Confederate guerilla force, with Earle's vocals ringing with feverish desperation. Softer tunes like "Nothing but a Child" (a tender nativity song) take the edge off the anger. Another highpoint, "Johnny Come Lately," matches him with the Pogues for a galloping Irish-Appalachian romp. At this point in his career, Earle was veering away from Nashville's restrictions and reveling in his own potent country/rock/folk blend fearlessly. He's gone on to release other outstanding albums, but <i>Copperhead Road</i> is unmatched for its musical ferocity and fine-etched lyrical insights. There's venom and honey alike to be savored here.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/copperhead-road/1440832255" >}}<br>

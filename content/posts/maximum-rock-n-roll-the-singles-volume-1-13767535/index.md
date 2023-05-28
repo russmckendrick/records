@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Blues Rock"]
 ---
 
-{{< img src="maximum-rock-n-roll-the-singles-volume-1-13767535.jpg" title="Maximum Rock 'N' Roll The Singles Volume 1  by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Velocity Girl
 2. Gentle Tuesday
 3. Imperial
@@ -40,10 +39,6 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 15. Burning Wheel
 16. Swastika Eyes
 17. Kill All Hippies
-
-<!-- section break -->
-
-
 
 
 

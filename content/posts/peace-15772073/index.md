@@ -30,10 +30,12 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="peace-15772073.jpg" title="Peace by The Levellers" >}}
+Peace is the twelfth studio album by folk-punk rock band the Levellers. The album entered the British album charts at #8, the band's highest charting entry since 1997's Mouth to Mouth reached #5, and improving on previous release We the Collective's #12 position. The 11-track album followed 2018's We the Collective, but is the band's first album composed entirely of new material since 2012's Static on the Airwaves. Peace was recorded at the band's personal recording studio Metway Studios, and released on their label On the Fiddle RecordingsThe album was produced by Sean Lakeman.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Food Roof Family (3:40)
 2. Generation Fear (2:36)
 3. Four Boys Lost (3:36)
@@ -47,13 +49,6 @@ styles: ["Folk Rock"]
 11. Our Future (3:55)
 12. Food Roof Family (Live In The Studio)
 13. Our New Day (Live In The Studio)
-
-<!-- section break -->
-
-Peace is the twelfth studio album by folk-punk rock band the Levellers. The album entered the British album charts at #8, the band's highest charting entry since 1997's Mouth to Mouth reached #5, and improving on previous release We the Collective's #12 position. The 11-track album followed 2018's We the Collective, but is the band's first album composed entirely of new material since 2012's Static on the Airwaves. Peace was recorded at the band's personal recording studio Metway Studios, and released on their label On the Fiddle RecordingsThe album was produced by Sean Lakeman.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peace/1497353598" >}}<br>

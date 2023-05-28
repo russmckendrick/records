@@ -31,10 +31,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
 
-{{< img src="reality-5509641.jpg" title="Reality by David Bowie" >}}
+Reality is the 24th studio album by the English musician David Bowie, originally released in Europe on 15 September 2003, and the following day in America. His second release through his own ISO label, the album was recorded between January and May 2003 at Looking Glass Studios in New York City, with production by Bowie and longtime collaborator Tony Visconti.  Envisioned by Bowie as a set of songs that could be played live, most of the musicians consisted of his then-touring band. 
+A mostly straightforward rock album with a more direct sound compared to its predecessor Heathen (2002), Reality contains covers of the Modern Lovers' "Pablo Picasso" and George Harrison's "Try Some, Buy Some". One of the tracks, "Bring Me the Disco King", dated back to 1992. A primary theme throughout Reality concerns reflections on ageing, while other songs focus on despaired and diminished characters. The cover artwork depicts Bowie as an anime-style character that exhibited the idea that reality had become an abstract concept.
+Released under a variety of CD formats, Reality charted in numerous countries and reached number three in the United Kingdom. It failed to outperform Heathen in the United States, reaching number 29. The album was not supported through conventional single releases, although "New Killer Star" and "Never Get Old" appeared in some countries. Reality received largely positive reviews from music critics on release, with many highlighting the music, lyrics, vocal performances and the growing maturity in Bowie's songwriting. 
+Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 2004, his biggest and final concert tour. Ending prematurely after Bowie was hospitalised for a blocked artery, he largely retreated from public life and did not release another studio album until The Next Day in 2013, making Reality his last album of original material for ten years.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. New Killer Star (4:40)
 2. Pablo Picasso (4:05)
 3. Never Get Old (4:25)
@@ -46,16 +51,6 @@ styles: ["Alternative Rock", "Art Rock"]
 9. Try Some, Buy Some (4:25)
 10. Reality (4:22)
 11. Bring Me The Disco King (7:47)
-
-<!-- section break -->
-
-Reality is the 24th studio album by the English musician David Bowie, originally released in Europe on 15 September 2003, and the following day in America. His second release through his own ISO label, the album was recorded between January and May 2003 at Looking Glass Studios in New York City, with production by Bowie and longtime collaborator Tony Visconti.  Envisioned by Bowie as a set of songs that could be played live, most of the musicians consisted of his then-touring band. 
-A mostly straightforward rock album with a more direct sound compared to its predecessor Heathen (2002), Reality contains covers of the Modern Lovers' "Pablo Picasso" and George Harrison's "Try Some, Buy Some". One of the tracks, "Bring Me the Disco King", dated back to 1992. A primary theme throughout Reality concerns reflections on ageing, while other songs focus on despaired and diminished characters. The cover artwork depicts Bowie as an anime-style character that exhibited the idea that reality had become an abstract concept.
-Released under a variety of CD formats, Reality charted in numerous countries and reached number three in the United Kingdom. It failed to outperform Heathen in the United States, reaching number 29. The album was not supported through conventional single releases, although "New Killer Star" and "Never Get Old" appeared in some countries. Reality received largely positive reviews from music critics on release, with many highlighting the music, lyrics, vocal performances and the growing maturity in Bowie's songwriting. 
-Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 2004, his biggest and final concert tour. Ending prematurely after Bowie was hospitalised for a blocked artery, he largely retreated from public life and did not release another studio album until The Next Day in 2013, making Reality his last album of original material for ten years.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/reality/1676545706" >}}<br>

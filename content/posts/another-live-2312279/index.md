@@ -21,21 +21,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Prog Rock"]
 ---
 
-{{< img src="another-live-2312279.jpg" title="Another Live by Utopia" >}}
-
-<!-- section break -->
-
-1. Another Life (7:07)
-2. The Wheel (6:59)
-3. The Seven Rays (8:46)
-4. Intro / Mister Triscuits (5:24)
-5. Something's Coming (2:49)
-6. Heavy Metal Kids (4:14)
-7. Do Ya (4:09)
-8. Just One Victory (5:17)
-
-<!-- section break -->
-
 Another Live is a live album by the progressive rock band Utopia. It was recorded in August 1975 and released in 1975 on Bearsville.
 The record was the band's first fully live album, the first Utopia album to include future mainstays Powell and Wilcox, and the last to feature founding members Schuckett and Klingman. The trio of backing singers Arnold McCuller, David Lasley and Phil Ballou were also new to the group and toured the summer tour, being replaced that September with future star Luther Vandross and Anthony Hinton, who had toured the UK with Utopia later that year.
 Side one contains three new songs that had not been previously issued, and which were either never recorded or not released as studio versions. (Live 1975 versions of Powell's "Mister Triscuits" and Rundgren's "The Wheel" can also be heard on the album Todd Rundgren's Utopia Live at Hammersmith Odeon '75). (Shout Music, 2012).
@@ -45,6 +30,16 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
     
     
 
+
+## Tracklisting
+1. Another Life (7:07)
+2. The Wheel (6:59)
+3. The Seven Rays (8:46)
+4. Intro / Mister Triscuits (5:24)
+5. Something's Coming (2:49)
+6. Heavy Metal Kids (4:14)
+7. Do Ya (4:09)
+8. Just One Victory (5:17)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/another-live/100982431" >}}<br>

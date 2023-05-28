@@ -24,10 +24,12 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="please-11643866.jpg" title="Please by Pet Shop Boys" >}}
+Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people had to go into a record shop and say "Can I have the Pet Shop Boys album, 'Please'?". Please spawned four singles: "West End Girls", "Opportunities (Let's Make Lots of Money)", "Suburbia", and "Love Comes Quickly"; "West End Girls" reached number one in both the UK and the US.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Two Divided By Zero (3:33)
 2. West End Girls (4:47)
 3. Opportunities (Let's Make Lots Of Money) (3:44)
@@ -38,13 +40,6 @@ styles: ["Synth-pop"]
 8. I Want A Lover (4:05)
 9. Later Tonight (2:49)
 10. Why Don't We Live Together? (4:47)
-
-<!-- section break -->
-
-Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people had to go into a record shop and say "Can I have the Pet Shop Boys album, 'Please'?". Please spawned four singles: "West End Girls", "Opportunities (Let's Make Lots of Money)", "Suburbia", and "Love Comes Quickly"; "West End Girls" reached number one in both the UK and the US.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/please-2018-remaster/1645128742" >}}<br>

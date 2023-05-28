@@ -18,10 +18,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="rejuvenation-2001-2014-12910238.jpg" title="Rejuvenation 2001-2014 by Simple Minds" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Neon Lights
 2. Gloria
 3. The Man Who Sold The World
@@ -83,10 +82,6 @@ styles: ["Indie Pop"]
 59. Kill Or Cure
 60. Broken Glass Park
 61. Spirited Away
-
-<!-- section break -->
-
-
 
 
 

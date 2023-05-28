@@ -50,10 +50,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
 
-{{< img src="remastered-in-vinyl-iii-12867090.jpg" title="Remastered In Vinyl III by Kate Bush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aerial
 2. "A Sea Of Honey"
 3. "A Sky Of Honey"
@@ -77,10 +76,6 @@ styles: ["Alternative Rock", "Art Rock"]
 21. Snowed In At Wheeler Street
 22. 50 Words For Snow
 23. Among Angels
-
-<!-- section break -->
-
-
 
 
 

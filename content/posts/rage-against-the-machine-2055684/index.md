@@ -20,10 +20,13 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-{{< img src="rage-against-the-machine-2055684.jpg" title="Rage Against The Machine by Rage Against The Machine" >}}
+The discography of Rage Against the Machine, an American rock band, consists of four studio albums, two live albums, one compilation album, one demo album, 17 singles, four video albums and 15 music videos. Formed in Los Angeles, California in 1991 by vocalist Zack de la Rocha, guitarist Tom Morello, bassist Tim Commerford and drummer Brad Wilk, the band signed to Epic Records and released its self-titled debut album in 1992. The album reached number 45 on the United States Billboard 200 and was certified three times platinum by the Recording Industry Association of America (RIAA) for sales in excess of three million units. Rage Against the Machine singles "Killing in the Name", "Bullet in the Head" and "Bombtrack" charted in the United Kingdom and several other regions.The band returned in 1996 with its second studio album Evil Empire, which topped the Billboard 200 and was again certified three times platinum by the RIAA. Lead single "Bulls on Parade" was the band's first to chart in the US, reaching number 11 on the Alternative Songs chart, number 36 on the Mainstream Rock chart, and number 62 on the Radio Songs chart. The group's first video release, 1997's Rage Against the Machine, reached number 2 on the Billboard Music Video Sales chart and was certified double platinum by the RIAA. 1999's The Battle of Los Angeles topped the Billboard 200 and the Canadian Albums Chart.Rage Against the Machine released its final studio album, a collection of cover versions called Renegades, in 2000, reaching number 14 on the Billboard 200. The band broke up prior to the album's release, after de la Rocha announced his departure in October that year. The Battle of Mexico City video album was released in 2001, reaching number 4 on the Billboard Music Video Sales chart. Two years later, Live at the Grand Olympic Auditorium reached number 7 on the Music Video Sales chart and the top 100 of the Billboard 200.In 2009, the band achieved its first UK Singles Chart number 1 when "Killing in the Name" became Christmas number one as the result of a Facebook campaign. To celebrate the achievement, the group reunited for a free concert at Finsbury Park in London on June 6, 2010, which was later released in the form of Live at Finsbury Park in 2015 and reached number 2 on the Billboard Music Video Sales chart.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Bombtrack (4:04)
 2. Killing In The Name (5:13)
 3. Take The Power Back (5:36)
@@ -34,14 +37,6 @@ styles: ["Funk Metal"]
 8. Fistful Of Steel (5:31)
 9. Township Rebellion (5:24)
 10. Freedom (6:06)
-
-<!-- section break -->
-
-The discography of Rage Against the Machine, an American rock band, consists of four studio albums, two live albums, one compilation album, one demo album, 17 singles, four video albums and 15 music videos. Formed in Los Angeles, California in 1991 by vocalist Zack de la Rocha, guitarist Tom Morello, bassist Tim Commerford and drummer Brad Wilk, the band signed to Epic Records and released its self-titled debut album in 1992. The album reached number 45 on the United States Billboard 200 and was certified three times platinum by the Recording Industry Association of America (RIAA) for sales in excess of three million units. Rage Against the Machine singles "Killing in the Name", "Bullet in the Head" and "Bombtrack" charted in the United Kingdom and several other regions.The band returned in 1996 with its second studio album Evil Empire, which topped the Billboard 200 and was again certified three times platinum by the RIAA. Lead single "Bulls on Parade" was the band's first to chart in the US, reaching number 11 on the Alternative Songs chart, number 36 on the Mainstream Rock chart, and number 62 on the Radio Songs chart. The group's first video release, 1997's Rage Against the Machine, reached number 2 on the Billboard Music Video Sales chart and was certified double platinum by the RIAA. 1999's The Battle of Los Angeles topped the Billboard 200 and the Canadian Albums Chart.Rage Against the Machine released its final studio album, a collection of cover versions called Renegades, in 2000, reaching number 14 on the Billboard 200. The band broke up prior to the album's release, after de la Rocha announced his departure in October that year. The Battle of Mexico City video album was released in 2001, reaching number 4 on the Billboard Music Video Sales chart. Two years later, Live at the Grand Olympic Auditorium reached number 7 on the Music Video Sales chart and the top 100 of the Billboard 200.In 2009, the band achieved its first UK Singles Chart number 1 when "Killing in the Name" became Christmas number one as the result of a Facebook campaign. To celebrate the achievement, the group reunited for a free concert at Finsbury Park in London on June 6, 2010, which was later released in the form of Live at Finsbury Park in 2015 and reached number 2 on the Billboard Music Video Sales chart.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rage-against-the-machine/191450810" >}}<br>

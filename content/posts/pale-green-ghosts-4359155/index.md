@@ -25,10 +25,12 @@ genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Synth-pop", "Folk Rock"]
 ---
 
-{{< img src="pale-green-ghosts-4359155.jpg" title="Pale Green Ghosts by John Grant" >}}
+Pale Green Ghosts is the second solo album by former The Czars frontman John Grant, released on March 11, 2013, on the Bella Union label. Recorded in Reykjavík and produced by Icelandic musician Birgir Þórarinsson, the album features a range of local musicians alongside Irish singer Sinéad O'Connor providing backing vocals.The title refers to the Russian olive trees that stand along the I-25 highway near Grant's childhood home in Parker, Colorado. The track "Pale Green Ghosts" includes a string arrangement inspired by the second movement of Prelude in C-sharp minor by Rachmaninoff. Pale Green Ghosts was chosen as Album of the Year 2013 by Rough Trade.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pale Green Ghosts (6:04)
 2. Black Belt (4:19)
 3. GMF (5:14)
@@ -51,13 +53,6 @@ styles: ["Synth-pop", "Folk Rock"]
 20. Ernest Borgnine (4:54)
 21. I Hate This Town (4:04)
 22. Glacier (7:36)
-
-<!-- section break -->
-
-Pale Green Ghosts is the second solo album by former The Czars frontman John Grant, released on March 11, 2013, on the Bella Union label. Recorded in Reykjavík and produced by Icelandic musician Birgir Þórarinsson, the album features a range of local musicians alongside Irish singer Sinéad O'Connor providing backing vocals.The title refers to the Russian olive trees that stand along the I-25 highway near Grant's childhood home in Parker, Colorado. The track "Pale Green Ghosts" includes a string arrangement inspired by the second movement of Prelude in C-sharp minor by Rachmaninoff. Pale Green Ghosts was chosen as Album of the Year 2013 by Rough Trade.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pale-green-ghosts/730337669" >}}<br>

@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
-{{< img src="the-southern-harmony-and-musical-companion-7867280.jpg" title="The Southern Harmony And Musical Companion by The Black Crowes" >}}
+The Southern Harmony and Musical Companion is the second studio album by American rock band the Black Crowes, released on May 12, 1992. It was the first album by the band to feature Marc Ford on lead guitar, replacing Jeff Cease, who was fired the year before, and the first to feature keyboardist Eddie Harsch. The album's name derives from the full name of the Southern Harmony, an influential 1835 hymnal compiled by William Walker.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sting Me (4:40)
 2. Remedy (5:23)
 3. Thorn In My Pride (6:04)
@@ -33,13 +35,6 @@ styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 8. No Speak No Slave (4:02)
 9. My Morning Song (6:15)
 10. Time Will Tell (4:08)
-
-<!-- section break -->
-
-The Southern Harmony and Musical Companion is the second studio album by American rock band the Black Crowes, released on May 12, 1992. It was the first album by the band to feature Marc Ford on lead guitar, replacing Jeff Cease, who was fired the year before, and the first to feature keyboardist Eddie Harsch. The album's name derives from the full name of the Southern Harmony, an influential 1835 hymnal compiled by William Walker.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>

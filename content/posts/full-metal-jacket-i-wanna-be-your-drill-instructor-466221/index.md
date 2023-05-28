@@ -21,17 +21,12 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 ---
 
-{{< img src="full-metal-jacket-i-wanna-be-your-drill-instructor-466221.jpg" title="Full Metal Jacket (I Wanna Be Your Drill Instructor) by Abigail Mead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskimo Pussy Mix) (7:54)
 2. Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskipo Mussy Mix) (8:56)
 3. Sniper (Fade) (3:12)
-
-<!-- section break -->
-
-
 
 
 

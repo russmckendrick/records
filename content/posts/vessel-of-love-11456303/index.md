@@ -20,10 +20,9 @@ genres: ["Reggae", "Funk / Soul"]
 styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
 
-{{< img src="vessel-of-love-11456303.jpg" title="Vessel of Love by Hollie Cook" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Angel Fire (4:10)
 2. Stay Alive (4:20)
 3. Survive (3:18)
@@ -34,10 +33,6 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 8. Vessel of Love (3:31)
 9. Together (4:01)
 10. Far From Me (4:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vessel-of-love/1289767295" >}}<br>

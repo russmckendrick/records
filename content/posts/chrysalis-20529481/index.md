@@ -17,10 +17,9 @@ genres: ["Classical"]
 styles: ["Contemporary"]
 ---
 
-{{< img src="chrysalis-20529481.jpg" title="Chrysalis by AVAWAVES" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. CHRYSALIS
 2. SEAHORSE
 3. DANU
@@ -31,10 +30,6 @@ styles: ["Contemporary"]
 8. FOREST WHISPERS
 9. SAIL WAVE
 10. AWAKENING
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}<br>

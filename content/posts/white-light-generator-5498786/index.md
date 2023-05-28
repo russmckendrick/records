@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
 
-{{< img src="white-light-generator-5498786.jpg" title="White Light Generator by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Side
 2. Sweeter Than You
 3. No! (Part 1)
@@ -52,10 +51,6 @@ styles: ["Prog Rock", "Post Rock"]
 16. 7" Vinyl
 17. Now You`re Gone
 18. Self Seeking Man
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-light-generator/1600467011" >}}<br>

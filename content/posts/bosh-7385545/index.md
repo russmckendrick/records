@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="bosh-7385545.jpg" title="Bosh! by Cleft" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 12 Second Panda (4:16)
 2. Tamed Beests (3:30)
 3. Alec Baldwins's Hair (2:14)
@@ -35,10 +34,6 @@ styles: ["Prog Rock"]
 8. Buffet Remorse (4:48)
 9. Pudendal (2:39)
 10. Hostage (3:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bosh/780505469" >}}<br>

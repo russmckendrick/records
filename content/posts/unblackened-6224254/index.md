@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-{{< img src="unblackened-6224254.jpg" title="Unblackened by Black Label Society" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Losin' Your Mind (5:47)
 2. The Blessed Hellride (4:23)
 3. Sold My Soul (7:36)
@@ -54,10 +53,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 21. Song For You (5:08)
 22. Won't Find It Here (Unplugged) (6:55)
 23. Yesterday, Today, Tomorrow (4:45)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/unblackened-live/1504797619" >}}<br>

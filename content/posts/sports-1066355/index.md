@@ -19,10 +19,12 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 ---
 
-{{< img src="sports-1066355.jpg" title="Sports by Huey Lewis & The News" >}}
+Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983 by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 29, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Heart Of Rock & Roll (5:01)
 2. Heart And Soul (4:10)
 3. Bad Is Bad (3:46)
@@ -32,13 +34,6 @@ styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 7. If This Is It (3:46)
 8. You Crack Me Up (3:39)
 9. Honky Tonk Blues (3:16)
-
-<!-- section break -->
-
-Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983 by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 29, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sports-30th-anniversary-edition-2013-remaster/1440825555" >}}<br>

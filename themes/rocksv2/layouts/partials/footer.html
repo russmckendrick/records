@@ -1,0 +1,25 @@
+<footer class="bg-white m-4 dark:bg-gray-800">
+  <div
+    class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+    <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">
+      <a href="/" class="flex items-center">&copy; {{ dateFormat "2006" now }}
+        <div class="font-bold text-indigo-600 tracking-tight uppercase ml-1">
+          <span
+            class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
+            Mckendrick
+          </span>
+          Rocks
+        </div>
+      </a>
+    </span>
+    <ul
+      class="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
+      {{ range .Site.Menus.footer }}
+      <li>
+        <a href="{{ .URL }}" class="mr-4 hover:underline md:mr-6 ">{{ $text :=
+          print .Name | safeHTML }} {{ $text }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</footer>

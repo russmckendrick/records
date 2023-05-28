@@ -20,10 +20,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="american-recordings-i-vi-7001701.jpg" title="American Recordings I - VI by Johnny Cash" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. American Recordings
 2. Delia's Gone (2:17)
 3. Let The Train Blow The Whistle (2:15)
@@ -108,10 +107,6 @@ styles: []
 82. Cool Water (2:53)
 83. Last Night I Had The Strangest Dream (3:14)
 84. Aloha Oe (3:00)
-
-<!-- section break -->
-
-
 
 
 

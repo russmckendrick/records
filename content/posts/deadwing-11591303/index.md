@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="deadwing-11591303.jpg" title="Deadwing by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Deadwing (9:46)
 2. Shallow (4:16)
 3. Lazarus (4:18)
@@ -45,10 +44,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Glass Arm Shattering (6:13)
 10. So Called Friend  (4:48)
 11. Half-Light (6:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deadwing/1581676721" >}}<br>

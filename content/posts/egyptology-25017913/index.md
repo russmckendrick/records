@@ -31,10 +31,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="egyptology-25017913.jpg" title="Egyptology by World Party" >}}
+Egyptology is the fourth studio album by World Party released in 1997, re-released in 2006. It contained the #31 British single "Beautiful Dream" and the award-winning "She's the One", among other songs.  But the album was not a commercial success, and Karl Wallinger was upset when his label, Chrysalis, used "She's the One" as a vehicle for pop artist Robbie Williams; Williams' version hit #1 on the British pop charts and won Williams several awards. Wallinger later wrote:
 
-<!-- section break -->
+I was so lucky that Robbie recorded "She's the One" because it allowed me to keep going [after his aneurysm in 2000]. He nicked my pig and killed it but gave me enough bacon to live on for four years. He kept my kids in school and me in Seaview [Wallinger's recording studio] and for that I thank him.
 
+Due in part to the disagreement over "She's the One", Egyptology would be Wallinger's last album with Chrysalis; his 2000 album Dumbing Up was released on his own label.
+    
+    
+
+
+## Tracklisting
 1. It Is Time (3:20)
 2. Beautiful Dream (4:43)
 3. Call Me Up (2:56)
@@ -55,17 +61,6 @@ styles: ["Alternative Rock"]
 18. Rolling Off A Log (Live) (6:01)
 19. Hercules (Live) (4:58)
 20. Vanity Fair (Live) (3:26)
-
-<!-- section break -->
-
-Egyptology is the fourth studio album by World Party released in 1997, re-released in 2006. It contained the #31 British single "Beautiful Dream" and the award-winning "She's the One", among other songs.  But the album was not a commercial success, and Karl Wallinger was upset when his label, Chrysalis, used "She's the One" as a vehicle for pop artist Robbie Williams; Williams' version hit #1 on the British pop charts and won Williams several awards. Wallinger later wrote:
-
-I was so lucky that Robbie recorded "She's the One" because it allowed me to keep going [after his aneurysm in 2000]. He nicked my pig and killed it but gave me enough bacon to live on for four years. He kept my kids in school and me in Seaview [Wallinger's recording studio] and for that I thank him.
-
-Due in part to the disagreement over "She's the One", Egyptology would be Wallinger's last album with Chrysalis; his 2000 album Dumbing Up was released on his own label.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/egyptology/710934487" >}}<br>

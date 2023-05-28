@@ -28,10 +28,16 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="violator-5529916.jpg" title="Violator by Depeche Mode" >}}
+Violator is the seventh studio album by English electronic music band Depeche Mode. It was first released on 19 March 1990 by Mute Records internationally, and by Sire and Reprise Records in the United States.
+Preceded by the singles "Personal Jesus" and "Enjoy the Silence" (a top-10 entry in both the United Kingdom and the United States), the album propelled the band into international stardom, and also yielded the singles "Policy of Truth" and "World in My Eyes". Violator reached number two on the UK Albums Chart, and was the band's first album to chart inside the top 10 of the Billboard 200, peaking at number seven. The album was supported by the World Violation Tour.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. World In My Eyes
 2. Sweetest Perfection
 3. Personal Jesus
@@ -41,17 +47,6 @@ styles: ["Synth-pop"]
 7. Policy Of Truth
 8. Blue Dress
 9. Clean
-
-<!-- section break -->
-
-Violator is the seventh studio album by English electronic music band Depeche Mode. It was first released on 19 March 1990 by Mute Records internationally, and by Sire and Reprise Records in the United States.
-Preceded by the singles "Personal Jesus" and "Enjoy the Silence" (a top-10 entry in both the United Kingdom and the United States), the album propelled the band into international stardom, and also yielded the singles "Policy of Truth" and "World in My Eyes". Violator reached number two on the UK Albums Chart, and was the band's first album to chart inside the top 10 of the Billboard 200, peaking at number seven. The album was supported by the World Violation Tour.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/violator-deluxe/1174246686" >}}<br>

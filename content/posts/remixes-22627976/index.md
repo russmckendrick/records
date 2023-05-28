@@ -35,10 +35,9 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ---
 
-{{< img src="remixes-22627976.jpg" title="Remixes by Kraftwerk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Non Stop (8:32)
 2. Robotronik (Kling Klang Mix) (4:54)
 3. Robotnik (Kling Klang Mix) (7:43)
@@ -58,10 +57,6 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 17. Tour De France (Etape 2) (4:57)
 18. Aéro Dynamik (Intelligent Design Mix By Hot Chip) (8:34)
 19. La Forme (King Of The Mountains Mix By Hot Chip) (6:33)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/remixes/1545401738" >}}<br>

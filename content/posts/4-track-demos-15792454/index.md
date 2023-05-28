@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 ---
 
-{{< img src="4-track-demos-15792454.jpg" title="4-Track Demos by PJ Harvey" >}}
+4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Rid Of Me (3:42)
 2. Legs (3:47)
 3. Reeling (2:59)
@@ -40,15 +44,6 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 12. M-Bike (2:43)
 13. Yuri-G (3:53)
 14. Goodnight (4:17)
-
-<!-- section break -->
-
-4-Track Demos is an album of demos by British singer-songwriter PJ Harvey. It was released in October 1993 by Island Records. It consists of eight demos of songs from her previous album, Rid of Me, along with six demos of some unreleased tracks which never made it to release with the three-piece PJ Harvey line-up. According to interviews with Harvey, all fourteen of these songs were written and demoed at her home between mid-1991 and autumn 1992. 4-Track Demos was Harvey's first entirely self-produced album; there would not be another such until 2004's Uh Huh Her.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/4-track-demos/1443834026" >}}<br>

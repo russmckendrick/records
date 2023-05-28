@@ -16,10 +16,9 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="dojo-6278453.jpg" title="Dojo by Jouis" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. All That Is And Is One
 2. L∞p
 3. What's New Guru?
@@ -29,10 +28,6 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 7. Misty Maker Stomp
 8. Rain
 9. Universe Goggles
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dojo/892082605" >}}<br>

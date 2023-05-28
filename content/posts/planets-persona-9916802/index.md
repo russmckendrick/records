@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ---
 
-{{< img src="planets-persona-9916802.jpg" title="Planets + Persona by Richard Barbieri" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Solar Sea (7:30)
 2. New Found Land (7:18)
 3. Night Of The Hunter (10:45)
@@ -28,10 +27,6 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 5. Unholy (8:58)
 6. Shafts Of Light (6:38)
 7. Solar Storm (6:22)
-
-<!-- section break -->
-
-
 
 
 

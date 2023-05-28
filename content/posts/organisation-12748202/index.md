@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="organisation-12748202.jpg" title="Organisation by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Enola Gay (3:25)
 2. 2nd Thought (4:03)
 3. VCL XI (3:45)
@@ -34,10 +33,6 @@ styles: ["Synth-pop"]
 7. The More I See You (4:00)
 8. Promise (4:38)
 9. Stanlow (6:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/organisation/714776809" >}}<br>

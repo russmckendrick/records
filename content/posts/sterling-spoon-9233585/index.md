@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-{{< img src="sterling-spoon-9233585.jpg" title="Sterling Spoon  by Jane's Addiction" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Nothing's Shocking
 2. Up The Beach (3:02)
 3. Ocean Size (4:20)
@@ -74,10 +73,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 43. Stop!  (4:22)
 44. Summertime Rolls  (7:59)
 45. Ocean Size  (4:39)
-
-<!-- section break -->
-
-
 
 
 

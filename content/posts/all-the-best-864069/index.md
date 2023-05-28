@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Punk", "Post-Punk"]
 ---
 
-{{< img src="all-the-best-864069.jpg" title="All The Best by Stiff Little Fingers" >}}
+All the Best is a compilation album by the band Stiff Little Fingers, released in 1983.
+The album consists of the A- and B-sides of all the band's singles and EPs recorded and released between 1978 and 1983. It was originally released to coincide both with the release of the band's final single "Price of Admission" and with their two "farewell shows" which took place in February 1983. The band reformed in 1987 and released further singles and the tracks on this album would later form a substantial part of the compilation album Anthology, released in 2002.
+All the Best peaked at No. 19 on the UK Album Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Suspect Device (2:29)
 2. Wasted Life (3:03)
 3. Alternative Ulster (2:41)
@@ -59,15 +63,6 @@ styles: ["Punk", "Post-Punk"]
 28. Bits Of Kids (3:35)
 29. Touch And Go (3:20)
 30. The Price Of Admission (3:20)
-
-<!-- section break -->
-
-All the Best is a compilation album by the band Stiff Little Fingers, released in 1983.
-The album consists of the A- and B-sides of all the band's singles and EPs recorded and released between 1978 and 1983. It was originally released to coincide both with the release of the band's final single "Price of Admission" and with their two "farewell shows" which took place in February 1983. The band reformed in 1987 and released further singles and the tracks on this album would later form a substantial part of the compilation album Anthology, released in 2002.
-All the Best peaked at No. 19 on the UK Album Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-the-best/695791844" >}}<br>

@@ -72,10 +72,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-delerium-years-1994-1997-8088258.jpg" title="The Delerium Years 1994-1997 by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Sky Moves Sideways
 2. The Sky Moves Sideways - Phase 1 (18:40)
 3. Stars Die (5:07)
@@ -118,10 +117,6 @@ styles: ["Prog Rock"]
 40. Sound Of No-One Listening (8:17)
 41. Colourflow In Mind (3:51)
 42. Fuse The Sky (4:36)
-
-<!-- section break -->
-
-
 
 
 

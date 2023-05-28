@@ -24,10 +24,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="rave-tapes-5302004.jpg" title="Rave Tapes by Mogwai" >}}
+Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, released on 20 January 2014 on Rock Action Records in the UK, and the following day in the USA on Sub Pop. The album was released on vinyl, MC, CD, high resolution digital download and as part of a limited edition box set. In the first week of release the album charted at number 10 in the UK Album Charts and number 2 in the Scottish Album Charts. An EP of unreleased tracks from the Rave Tapes sessions along with remixes of three tracks was released on 1 December 2014 on Rock Action titled Music Industry 3. Fitness Industry 1..
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Heard About You Last Night (5:22)
 2. Simon Ferocious (4:47)
 3. Remurdered (6:24)
@@ -61,15 +65,6 @@ styles: ["Post Rock"]
 31. Blues Hour (6:18)
 32. No Medicine For Regret (5:41)
 33. The Lord Is Out Of Control (4:23)
-
-<!-- section break -->
-
-Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, released on 20 January 2014 on Rock Action Records in the UK, and the following day in the USA on Sub Pop. The album was released on vinyl, MC, CD, high resolution digital download and as part of a limited edition box set. In the first week of release the album charted at number 10 in the UK Album Charts and number 2 in the Scottish Album Charts. An EP of unreleased tracks from the Rave Tapes sessions along with remixes of three tracks was released on 1 December 2014 on Rock Action titled Music Industry 3. Fitness Industry 1..
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rave-tapes/761276074" >}}<br>

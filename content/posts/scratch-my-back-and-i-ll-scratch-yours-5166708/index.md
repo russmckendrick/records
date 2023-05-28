@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock", "Pop", "Classical"]
 styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", "Post Rock"]
 ---
 
-{{< img src="scratch-my-back-and-i-ll-scratch-yours-5166708.jpg" title="Scratch My Back / And I'll Scratch Yours by Peter Gabriel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Scratch My Back
 2. Heroes (4:00)
 3. The Boy In The Bubble (4:16)
@@ -58,10 +57,6 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 24. Don't Give Up (5:28)
 25. Solsbury Hill (5:20)
 26. Biko (4:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707" >}}<br>

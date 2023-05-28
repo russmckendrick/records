@@ -25,10 +25,13 @@ genres: ["Electronic"]
 styles: ["House", "Techno", "Electro", "Synth-pop"]
 ---
 
-{{< img src="tour-de-france-2059631.jpg" title="Tour De France by Kraftwerk" >}}
+Tour de France Soundtracks (renamed to Tour de France for its remastered release) is the eleventh studio album by German electronic music band Kraftwerk. It was first released on 4 August 2003, through Kling Klang and EMI in Europe and Astralwerks in North America. The album was recorded for the 100th anniversary of the first Tour de France bicycle race, although it missed its intended release date for the actual tour. It includes a new recording of their 1983 song of the same name, the cover artwork of both releases being nearly identical. The announcement of the release caused much anticipation, as it had been 17 years since the group had put out a full album of new studio material (1986's Electric Café, also known as Techno Pop). It is also the last studio album to feature Florian Schneider before his departure from the band in 2008 and his death on 21 April 2020.
+The album received positive reviews from critics and was a commercial success. It reached No. 1 in Germany, the top 40 in the UK, as well as No. 3 in the US dance charts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue (0:31)
 2. Tour De France Étape 1 (4:27)
 3. Tour De France Étape 2 (6:41)
@@ -41,14 +44,6 @@ styles: ["House", "Techno", "Electro", "Synth-pop"]
 10. La Forme (8:41)
 11. Régéneration (1:17)
 12. Tour De France (5:11)
-
-<!-- section break -->
-
-Tour de France Soundtracks (renamed to Tour de France for its remastered release) is the eleventh studio album by German electronic music band Kraftwerk. It was first released on 4 August 2003, through Kling Klang and EMI in Europe and Astralwerks in North America. The album was recorded for the 100th anniversary of the first Tour de France bicycle race, although it missed its intended release date for the actual tour. It includes a new recording of their 1983 song of the same name, the cover artwork of both releases being nearly identical. The announcement of the release caused much anticipation, as it had been 17 years since the group had put out a full album of new studio material (1986's Electric Café, also known as Techno Pop). It is also the last studio album to feature Florian Schneider before his departure from the band in 2008 and his death on 21 April 2020.
-The album received positive reviews from critics and was a commercial success. It reached No. 1 in Germany, the top 40 in the UK, as well as No. 3 in the US dance charts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tour-de-france-remastered/726341054" >}}<br>

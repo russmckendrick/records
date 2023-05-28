@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-{{< img src="together-alone-2187186.jpg" title="Together Alone by Crowded House" >}}
+Together Alone is the fourth studio album by New Zealand-Australian recording artists Crowded House. It was released in October 1993 and was their first album to feature multi-instrumentalist Mark Hart as a full band member. Unlike the band's first three albums, which were recorded in the US and Australia and produced by Mitchell Froom, Together Alone was recorded in New Zealand with producer Youth. Six singles were released from Together Alone, including "Distant Sun", which was a top 10 hit in New Zealand and Canada, and "Locked Out" which reached number 12 on the UK singles chart and number 8 on the US Modern Rock chart, the latter on the strength of the song's inclusion on the soundtrack of the 1994 film Reality Bites.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Kare Kare
 2. In My Command
 3. Nails In My Feet
@@ -38,13 +40,6 @@ styles: ["Soft Rock", "Pop Rock"]
 11. Catherine Wheels
 12. Skin Feeling
 13. Together Alone
-
-<!-- section break -->
-
-Together Alone is the fourth studio album by New Zealand-Australian recording artists Crowded House. It was released in October 1993 and was their first album to feature multi-instrumentalist Mark Hart as a full band member. Unlike the band's first three albums, which were recorded in the US and Australia and produced by Mitchell Froom, Together Alone was recorded in New Zealand with producer Youth. Six singles were released from Together Alone, including "Distant Sun", which was a top 10 hit in New Zealand and Canada, and "Locked Out" which reached number 12 on the UK singles chart and number 8 on the US Modern Rock chart, the latter on the strength of the song's inclusion on the soundtrack of the 1994 film Reality Bites.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/together-alone/723500449" >}}<br>

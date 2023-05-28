@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock"]
 ---
 
-{{< img src="rings-around-the-world-20075032.jpg" title="Rings Around The World by Super Furry Animals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Alternate Route To Vulcan Street
 2. Sidewalk Serfer Girl
 3. (Drawing) Rings Around The World
@@ -37,10 +36,6 @@ styles: ["IDM", "Indie Rock"]
 11. Presidential Suite
 12. Run! Christian, Run!
 13. Fragile Happiness
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/207054203" >}}<br>

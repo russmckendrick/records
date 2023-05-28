@@ -28,29 +28,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
 
-{{< img src="songs-of-surrender-26446712.jpg" title="Songs Of Surrender by U2" >}}
-
-<!-- section break -->
-
-1. One (3:36)
-2. Where The Streets Have No Name (4:17)
-3. Stories For Boys (2:51)
-4. Walk On (Ukraine) (4:07)
-5. Pride (In The Name Of Love) (3:57)
-6. City Of Blinding Lights (4:55)
-7. Ordinary Love (3:13)
-8. Invisible (4:23)
-9. Vertigo (3:29)
-10. I Still Haven't Found What I'm Looking For (4:15)
-11. The Fly (4:02)
-12. If God Will Send His Angels (5:15)
-13. Stay (Faraway, So Close) (5:03)
-14. Sunday Bloody Sunday (4:13)
-15. I Will Follow (3:40)
-16. "40" (3:03)
-
-<!-- section break -->
-
 “People say your songs are like your children,” Bono tells Apple Music. “Wrong: Your songs are like your parents. They tell you what to do, how to dress. But after a while, if you're successful, songs become big. They're owned by other people, not you. And with this collection, we were sort of trying to listen to them again and trying to think, well, first of all, will they hold up? Will they stand up to being broken down outside of the firepower of a rock ’n’ roll band like U2?” 
 
 In their 45 years as a band, U2 have done little in the way of looking backwards. Bono’s 2022 memoir <i>Surrender</i> changed that—a story of his life and career told through the prism of 40 songs. Thanks to a global pandemic shelving whatever grander plans the band had, this compilation is an extrapolation of that, with 40 songs from across their vast catalogue—10 selected by each band member—completely reworked, largely acoustically. “Suddenly we had the space and time to just make music without there being any kind of pressure or any expectation,” says The Edge. “This idea I'd been knocking around for a while was to try some more of our songs in a stripped-down way that we had done over the years. But also the joy of it was there was no necessity to put it out if we didn't like it.”
@@ -80,6 +57,24 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
         
     
 
+
+## Tracklisting
+1. One (3:36)
+2. Where The Streets Have No Name (4:17)
+3. Stories For Boys (2:51)
+4. Walk On (Ukraine) (4:07)
+5. Pride (In The Name Of Love) (3:57)
+6. City Of Blinding Lights (4:55)
+7. Ordinary Love (3:13)
+8. Invisible (4:23)
+9. Vertigo (3:29)
+10. I Still Haven't Found What I'm Looking For (4:15)
+11. The Fly (4:02)
+12. If God Will Send His Angels (5:15)
+13. Stay (Faraway, So Close) (5:03)
+14. Sunday Bloody Sunday (4:13)
+15. I Will Follow (3:40)
+16. "40" (3:03)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}<br>

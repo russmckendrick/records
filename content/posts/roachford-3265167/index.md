@@ -22,10 +22,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ---
 
-{{< img src="roachford-3265167.jpg" title="Roachford by Roachford" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Give It Up (3:40)
 2. Family Man (3:46)
 3. Cuddly Toy (3:49)
@@ -36,10 +35,6 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 8. Lying Again (3:32)
 9. Since (3:22)
 10. Nobody But You (4:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-roachford/289538023" >}}<br>

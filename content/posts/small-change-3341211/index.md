@@ -22,10 +22,12 @@ genres: ["Jazz", "Blues"]
 styles: []
 ---
 
-{{< img src="small-change-3341211.jpg" title="Small Change by Tom Waits" >}}
+Small Change is the fourth studio album by singer and songwriter Tom Waits, released on September 21, 1976 on Asylum Records. It was recorded in July at Wally Heider's Studio 3 in Hollywood. It was successful commercially and outsold his previous albums. This resulted in Waits putting together a touring band - The Nocturnal Emissions, which consisted of Frank Vicari on tenor saxophone, FitzGerald Jenkins on bass guitar and Chip White on drums and vibraphone. The Nocturnal Emissions toured Europe and the United States extensively from October 1976 till May 1977.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tom Traubert's Blues (Four Sheets To The Wind In Copenhagen) (6:40)
 2. Step Right Up (5:39)
 3. Jitterbug Boy (Sharing A Curbstone With Chuck E. Weiss, Robert Marchese, Paul Body And The Mug And Artie) (3:41)
@@ -37,13 +39,6 @@ styles: []
 9. The One That Got Away (4:00)
 10. Small Change (Got Rained On With His Own .38) (5:03)
 11. I Can't Wait To Get Off Work (And See My Baby On Montgomery Avenue) (3:20)
-
-<!-- section break -->
-
-Small Change is the fourth studio album by singer and songwriter Tom Waits, released on September 21, 1976 on Asylum Records. It was recorded in July at Wally Heider's Studio 3 in Hollywood. It was successful commercially and outsold his previous albums. This resulted in Waits putting together a touring band - The Nocturnal Emissions, which consisted of Frank Vicari on tenor saxophone, FitzGerald Jenkins on bass guitar and Chip White on drums and vibraphone. The Nocturnal Emissions toured Europe and the United States extensively from October 1976 till May 1977.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/small-change-remastered/1485074801" >}}<br>

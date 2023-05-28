@@ -25,10 +25,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="private-space-19635559.jpg" title="Private Space by Durand Jones & The Indications" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Will Work It Out
 2. Witchoo
 3. Private Space
@@ -39,10 +38,6 @@ styles: ["Soul"]
 8. Sexy Thang
 9. Sea Of Love
 10. I Can See
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/private-space/1563802620" >}}<br>

@@ -18,10 +18,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Prog Rock"]
 ---
 
-{{< img src="the-diary-26059753.jpg" title="The Diary by The Gentle Storm" >}}
+The Diary is the debut studio album by the Dutch band The Gentle Storm, consisting of composer and guitarist Arjen Anthony Lucassen and singer and lyricist Anneke van Giersbergen. It was released on March 23, 2015 in Europe, and the following day in the US.
+A concept album about a love story set in the 17th century, The Diary consists of two discs, each with the same track list: the "Gentle" side of the album consists of acoustic, softer, folk-oriented versions of the songs, while the "Storm" side of the album is made of heavy metal versions of the songs with progressive and symphonic elements.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gentle 
 2. Endless Sea (Gentle Version) (5:59)
 3. Heart Of Amsterdam (Gentle Version) (6:36)
@@ -46,14 +49,6 @@ styles: ["Folk", "Prog Rock"]
 22. Brightest Light (Storm Version) (4:54)
 23. New Horizons (Storm Version) (5:25)
 24. Epilogue: The Final Entry (Storm Version) (2:03)
-
-<!-- section break -->
-
-The Diary is the debut studio album by the Dutch band The Gentle Storm, consisting of composer and guitarist Arjen Anthony Lucassen and singer and lyricist Anneke van Giersbergen. It was released on March 23, 2015 in Europe, and the following day in the US.
-A concept album about a love story set in the 17th century, The Diary consists of two discs, each with the same track list: the "Gentle" side of the album consists of acoustic, softer, folk-oriented versions of the songs, while the "Storm" side of the album is made of heavy metal versions of the songs with progressive and symphonic elements.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-diary/1047144724" >}}<br>

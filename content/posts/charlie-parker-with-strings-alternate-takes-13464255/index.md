@@ -21,10 +21,9 @@ genres: ["Jazz"]
 styles: ["Bop"]
 ---
 
-{{< img src="charlie-parker-with-strings-alternate-takes-13464255.jpg" title="Charlie Parker With Strings (Alternate Takes) by Charlie Parker With Strings" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Just Friends (Take 2)
 2. Everything Happens To Me (Take 1)
 3. April In Paris (Take 2)
@@ -39,10 +38,6 @@ styles: ["Bop"]
 12. I'll Remember April (Take 1)
 13. Temptation (Take 1)
 14. Stella By Starlight (Take 1)
-
-<!-- section break -->
-
-
 
 
 

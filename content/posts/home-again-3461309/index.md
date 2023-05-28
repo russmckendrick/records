@@ -22,10 +22,13 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Modern Electric Blues", "Soul", "Folk"]
 ---
 
-{{< img src="home-again-3461309.jpg" title="Home Again by Michael Kiwanuka" >}}
+<i>Home Again</i> is the accomplished debut by Londoner Michael Kiwanuka. Lush and mellow, the album blends acoustic folk and retro soul with jazzy embellishments. It’s an easy album to get into. The first track, “Tell Me a Tale”, opens with a brisk flurry of notes from a flute before acoustic guitar, bass, piano, and drums fall in. By the time Kiwanuka’s smooth, honey-rich voice rings out, you’re hooked. Joining later are horns, organ, and strings, making an organic template that’s used for the rest of the recording. Each song is well-crafted and carefully arranged, and they sound familiar and fresh all at once. “Bones” is a clever cross between countrypolitan and doo-wop. “Always Waiting” and “I Won’t Lie” are densely textured ballads, while “Rest” and the title track are sophisticated, laid-back pop tunes that would have worked on AM radio in the '70s and certainly work now. Even songs with world-weary lyrics, such as “Worry Walks Beside Me”, come across as more redemptive than downer thanks to the melody's easy flow. <i>Home Again</i> is a strong debut from an undeniable talent.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tell Me A Tale (4:09)
 2. I'm Getting Ready (2:21)
 3. I'll Get Along (3:26)
@@ -36,14 +39,6 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 8. I Won't Lie (4:01)
 9. Any Day Will Do Fine (3:37)
 10. Worry Walks Beside Me (4:57)
-
-<!-- section break -->
-
-<i>Home Again</i> is the accomplished debut by Londoner Michael Kiwanuka. Lush and mellow, the album blends acoustic folk and retro soul with jazzy embellishments. It’s an easy album to get into. The first track, “Tell Me a Tale”, opens with a brisk flurry of notes from a flute before acoustic guitar, bass, piano, and drums fall in. By the time Kiwanuka’s smooth, honey-rich voice rings out, you’re hooked. Joining later are horns, organ, and strings, making an organic template that’s used for the rest of the recording. Each song is well-crafted and carefully arranged, and they sound familiar and fresh all at once. “Bones” is a clever cross between countrypolitan and doo-wop. “Always Waiting” and “I Won’t Lie” are densely textured ballads, while “Rest” and the title track are sophisticated, laid-back pop tunes that would have worked on AM radio in the '70s and certainly work now. Even songs with world-weary lyrics, such as “Worry Walks Beside Me”, come across as more redemptive than downer thanks to the melody's easy flow. <i>Home Again</i> is a strong debut from an undeniable talent.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/home-again/1440643851" >}}<br>

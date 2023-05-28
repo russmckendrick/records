@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{ if eq .Paginator.PageNumber 1 }}
+<section class="bg-center bg-no-repeat bg-[url('https://www.mckendrick.rocks/images/banner.jpg')] bg-gray-700 dark:bg-gray-900 bg-blend-multiply">
+    <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-44 content-center">
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">{{ .Site.Params.homeHeader }}</h1>
+        <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">{{ .Site.Params.homeSubheader }}</p>
+    </div>
+</section>
+{{ end }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+<div class="container my-24 px-6 mx-auto dark:bg-gray-800">
+    <section class="mb-32 text-gray-800">
+        <div class="grid lg:grid-cols-3 gap-6">
+            {{ range $paginator.Pages }}
+            {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+            {{ $dateFormat := .Site.Params.dateFormat | default
+            "2 January, 2006" }}
+            <div class="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-gray-700">
+                <a href="{{ .Permalink }}">
+                    <img class="rounded-t-lg"
+                        src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}"
+                        alt="{{ .Page.Params.Artist }}">
+                </a>
+                <div class="p-4">
+                    <h1
+                        class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+                        {{ .Page.Params.album_name }} by {{ .Page.Params.Artist
+                        }}
+                    </h1>
+                    <p class="mb-2 leading-tight text-neutral-800 dark:text-neutral-50">
+                        <small>Added on <u> {{ .PublishDate.Format $dateFormat
+                                }}</u></small>
+                    </p>
+                        <div class="flex flex-wrap">
+                        {{- range .Params.genres }}
+                        <div class="flex items-center p-1">
+                            <a href="/tags/{{ . | urlize }}">
+                                <div class="flex">
+                                    <span class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Genre</span>
+                                    <span class="bg-blue-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{ . }}</span>
+                                </div>
+                            </a>
+                        </div>
+                        {{- end }}
+                        {{- range .Params.styles }}
+                        <a href="/tags/{{ . | urlize }}">
+                            <div class="flex items-center p-1">
+                                <a href="/tags/{{ . | urlize }}">
+                                    <div class="flex">
+                                        <span class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>
+                                        <span class="bg-green-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{ . }}</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </a>
+                        {{- end }}
+                    </div>
+                </div>
+            </div>
+            {{end}}
+        </div>
+        {{- partial "pagination.html" . -}}
+    </section>
+</div>
+{{ end }}

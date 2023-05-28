@@ -24,10 +24,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 ---
 
-{{< img src="central-reservation-23031092.jpg" title="Central Reservation by Beth Orton" >}}
+Orton's second album forsakes the trip-hop of her debut for more robust textures. The devil's on their trail: Opener “Stolen Car” has a nervy energy and a beautifully orchestrated droning undertow, and sets up a road trip through the American south (by way of Orton's native Norwich). There's sweet countrypolitan in “Sweetest Decline” and “Pass in Time”, but the best bits ooze with darkness: the desert hum of “So Much More,” the ominous twang in “Devil Song,” and on the one-take “Feel to Believe,” a furious vocal performance that breaches the limits of the microphone.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Stolen Car
 2. Sweetest Decline
 3. Couldn't Cause Me Harm
@@ -40,14 +43,6 @@ styles: ["Acoustic", "Downtempo", "Folk Rock", "Trip Hop"]
 10. Devil Song
 11. Feel To Believe
 12. Central Reservation (The Then Again Version)
-
-<!-- section break -->
-
-Orton's second album forsakes the trip-hop of her debut for more robust textures. The devil's on their trail: Opener “Stolen Car” has a nervy energy and a beautifully orchestrated droning undertow, and sets up a road trip through the American south (by way of Orton's native Norwich). There's sweet countrypolitan in “Sweetest Decline” and “Pass in Time”, but the best bits ooze with darkness: the desert hum of “So Much More,” the ominous twang in “Devil Song,” and on the one-take “Feel to Believe,” a furious vocal performance that breaches the limits of the microphone.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/central-reservation/281790109" >}}<br>

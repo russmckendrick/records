@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-{{< img src="truth-and-soul-26513438.jpg" title="Truth And Soul by Fishbone" >}}
+With <i>Truth and Soul</i>, Fishbone certified their status as some of the most important, freethinking artists of the alt-rock era, the band your favorite band talked about. With their album-opening cover of Curtis Mayfield's soulful lament "Freddie's Dead," they define and transcend black music's past; with "Bonin' In the Boneyard," they lay the impossibly funky foundation for its future. "Ghetto Soundwave" and "Change" close this uproarious masterpiece with a pair of streetwise, socially conscious anthems that call for unity among the tribes.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Freddie's Dead
 2. Ma And Pa
 3. Questions Of Life
@@ -35,14 +38,6 @@ styles: ["Ska", "Punk"]
 10. Slow Movin' (Howard Beach Party)
 11. Ghetto Soundwave
 12. Change
-
-<!-- section break -->
-
-With <i>Truth and Soul</i>, Fishbone certified their status as some of the most important, freethinking artists of the alt-rock era, the band your favorite band talked about. With their album-opening cover of Curtis Mayfield's soulful lament "Freddie's Dead," they define and transcend black music's past; with "Bonin' In the Boneyard," they lay the impossibly funky foundation for its future. "Ghetto Soundwave" and "Change" close this uproarious masterpiece with a pair of streetwise, socially conscious anthems that call for unity among the tribes.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/truth-and-soul/196393427" >}}<br>

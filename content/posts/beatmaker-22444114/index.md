@@ -19,16 +19,11 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
 
-{{< img src="beatmaker-22444114.jpg" title="Beatmaker by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Beatmaker
 2. Beatmaker (Instrumental)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beatmaker-single/1597038144" >}}<br>

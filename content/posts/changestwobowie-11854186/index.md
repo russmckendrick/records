@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ---
 
-{{< img src="changestwobowie-11854186.jpg" title="ChangesTwoBowie by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aladdin Sane (1913-1938-197?) 
 2. Oh! You Pretty Things
 3. Starman
@@ -37,10 +36,6 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 8. Wild Is The Wind
 9. John I'm Only Dancing (Again) 1975
 10. D.J.
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/changestwobowie-2018-remaster/1350497019" >}}<br>

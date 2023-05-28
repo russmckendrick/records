@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="low-in-high-school-11140416.jpg" title="Low In High School by Morrissey" >}}
+On his eleventh studio album, Steven Morrissey beholds the choppy water of a polarised age and effectively grabs a surfboard. Bracing, black-skied and wrapped in lyrical barb-wire, <i>Low in High School</i> finds the former Smiths frontman taking on modern propagandists (“My Love, I’d Do Anything For You”), abusive authority figures (“Who Will Protect Us from the Police?”) and lust amid political revolution (“In Your Lap”). There’s melodic light to balance the dark imagery, though. “Spent the Day in Bed”—a stately, piano-sprinkled riposte to the horror of 24-hour news—may be one of the most deftly effective songs he’s produced in a decade.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. My Love, I’d Do Anything For You (4:43)
 2. I Wish You Lonely (2:58)
 3. Jacky’s Only Happy When She’s Up On The Stage (4:19)
@@ -37,14 +40,6 @@ styles: ["Indie Rock"]
 10. When You Open Your Legs (3:17)
 11. Who Will Protect Us From The Police? (4:05)
 12. Israel (5:55)
-
-<!-- section break -->
-
-On his eleventh studio album, Steven Morrissey beholds the choppy water of a polarised age and effectively grabs a surfboard. Bracing, black-skied and wrapped in lyrical barb-wire, <i>Low in High School</i> finds the former Smiths frontman taking on modern propagandists (“My Love, I’d Do Anything For You”), abusive authority figures (“Who Will Protect Us from the Police?”) and lust amid political revolution (“In Your Lap”). There’s melodic light to balance the dark imagery, though. “Spent the Day in Bed”—a stately, piano-sprinkled riposte to the horror of 24-hour news—may be one of the most deftly effective songs he’s produced in a decade.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1282060987" >}}<br>

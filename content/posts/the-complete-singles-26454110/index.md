@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-complete-singles-26454110.jpg" title="The Complete Singles by Inspiral Carpets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Keep The Circle Around
 2. Butterfly
 3. Joe
@@ -56,10 +55,6 @@ styles: ["Indie Rock"]
 22. Fix Your Smile
 23. Spitfire
 24. Let You Down (Edit)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1676326542" >}}<br>

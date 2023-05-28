@@ -22,10 +22,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Folk Rock", "Downtempo"]
 ---
 
-{{< img src="the-hour-of-bewilderbeast-6662734.jpg" title="The Hour Of Bewilderbeast by Badly Drawn Boy" >}}
+A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Shining (5:18)
 2. Everybody's Stalking (3:39)
 3. Bewilder (0:48)
@@ -44,13 +46,6 @@ styles: ["Leftfield", "Folk Rock", "Downtempo"]
 16. Disillusion (5:19)
 17. Say It Again (4:41)
 18. Epitaph (3:50)
-
-<!-- section break -->
-
-A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690" >}}<br>

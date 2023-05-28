@@ -28,10 +28,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post-Hardcore"]
 ---
 
-{{< img src="everyone-into-position-23377343.jpg" title="Everyone Into Position by Oceansize" >}}
+Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.
+According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Charm Offensive
 2. Heaven Alive
 3. A Homage To A Shame
@@ -42,14 +45,6 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 8. Mine Host
 9. You Can't Keep A Bad Man Down
 10. Ornament / The Last Wrongs
-
-<!-- section break -->
-
-Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.
-According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}<br>

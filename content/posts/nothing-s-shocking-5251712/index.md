@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="nothing-s-shocking-5251712.jpg" title="Nothing's Shocking by Jane's Addiction" >}}
+Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Up The Beach (3:00)
 2. Ocean Size (4:22)
 3. Had A Dad (3:44)
@@ -40,13 +42,6 @@ styles: ["Alternative Rock"]
 8. Idiots Rule (3:00)
 9. Jane Says (4:52)
 10. Thank You Boys (1:00)
-
-<!-- section break -->
-
-Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothings-shocking/1018518208" >}}<br>

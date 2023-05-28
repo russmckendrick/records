@@ -22,10 +22,14 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="our-favourite-shop-10734892.jpg" title="Our Favourite Shop by The Style Council" >}}
+Our Favourite Shop is the second studio album by the English group the Style Council. It was released on 8 June 1985, on Polydor, and was recorded ten months after the band's debut Café Bleu. It features guest vocalists, including Lenny Henry, Tracie Young, and Dee C Lee. The album contained "Come to Milton Keynes", "The Lodgers", "Boy Who Cried Wolf", and "Walls Come Tumbling Down!" which were all released as singles, with corresponding music videos. The three singles that were released in the UK all reached the top 40 on the UK charts.  The album was released as Internationalists in the United States, with a reconfigured track listing.
+Style Council's most commercially successful album, it was an immediate commercial and critical success, and remained at the top of the charts for one week, displacing Brothers in Arms by Dire Straits. The album was the Style Council's only number one album in the UK. According to the BPI, the record sold over 100,000 copies, and was certified gold.
+The multigenre album incorporates diverse stylistic influences, including soul, rap, jazz and rock styles. Recording was completed in March 1985. The cover, depicting the band posing inside a shop, was designed by Paul Weller and British artist Simon Halfon.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Homebreakers
 2. All Gone Away
 3. Come To Milton Keynes
@@ -40,15 +44,6 @@ styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 12. With Everything To Lose
 13. Our Favourite Shop
 14. Walls Come Tumbling Down
-
-<!-- section break -->
-
-Our Favourite Shop is the second studio album by the English group the Style Council. It was released on 8 June 1985, on Polydor, and was recorded ten months after the band's debut Café Bleu. It features guest vocalists, including Lenny Henry, Tracie Young, and Dee C Lee. The album contained "Come to Milton Keynes", "The Lodgers", "Boy Who Cried Wolf", and "Walls Come Tumbling Down!" which were all released as singles, with corresponding music videos. The three singles that were released in the UK all reached the top 40 on the UK charts.  The album was released as Internationalists in the United States, with a reconfigured track listing.
-Style Council's most commercially successful album, it was an immediate commercial and critical success, and remained at the top of the charts for one week, displacing Brothers in Arms by Dire Straits. The album was the Style Council's only number one album in the UK. According to the BPI, the record sold over 100,000 copies, and was certified gold.
-The multigenre album incorporates diverse stylistic influences, including soul, rap, jazz and rock styles. Recording was completed in March 1985. The cover, depicting the band posing inside a shop, was designed by Paul Weller and British artist Simon Halfon.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/our-favourite-shop-remastered/1443801982" >}}<br>

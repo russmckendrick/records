@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="ox4_-the-best-of-ride-6901033.jpg" title="OX4_ The Best Of Ride by Ride" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chelsea Girl
 2. Drive Blind
 3. Like A Daydream
@@ -47,10 +46,6 @@ styles: ["Indie Rock"]
 13. How Does It Feel To Feel?
 14. I Don't Know Where It Comes From
 15. Black Nite Crash
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}<br>

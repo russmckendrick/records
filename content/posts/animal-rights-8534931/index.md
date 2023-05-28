@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Punk", "Alternative Rock"]
 ---
 
-{{< img src="animal-rights-8534931.jpg" title="Animal Rights by Moby" >}}
+Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Now I Let Go
 2. Come On Baby
 3. Someone To Love
@@ -33,13 +35,6 @@ styles: ["Punk", "Alternative Rock"]
 10. Face It
 11. Living
 12. Love Song For My Mum
-
-<!-- section break -->
-
-Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}<br>

@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="nixon-5801395.jpg" title="Nixon by Lambchop" >}}
+Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000 and was issued by Merge Records and City Slang.
+Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Old Gold Shoe (6:20)
 2. Grumpus (4:19)
 3. You Masculine You (5:59)
@@ -35,14 +38,6 @@ styles: ["Folk Rock", "Country Rock"]
 8. The Book I Haven't Read (5:44)
 9. The Petrified Florist (4:52)
 10. The Butcher Boy (2:51)
-
-<!-- section break -->
-
-Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000 and was issued by Merge Records and City Slang.
-Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nixon/1269033778" >}}<br>

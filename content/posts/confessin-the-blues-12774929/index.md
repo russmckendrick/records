@@ -31,10 +31,9 @@ genres: ["Blues"]
 styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Rock & Roll"]
 ---
 
-{{< img src="confessin-the-blues-12774929.jpg" title="Confessin' The Blues by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rollin' Stone (3:08)
 2. Little Red Rooster (Aka The Red Rooster) (2:28)
 3. Dust My Broom (2:46)
@@ -77,10 +76,6 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 40. Commit A Crime (1991 Chess Box Version) (3:08)
 41. Damn Right, I've Got The Blues (4:30)
 42. Confessin' The Blues (Single Version) (2:58)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

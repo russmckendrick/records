@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="falling-deeper-3110214.jpg" title="Falling Deeper by Anathema" >}}
+Falling Deeper is an album of orchestral re-interpretations from British atmospheric rock band Anathema released on 5 September 2011. The album is a follow-up to 2008's Hindsight, for which the band recorded different versions of their past songs.
+The album was produced by singer/guitarist Vincent Cavanagh and guitarist and main composer of the band Daniel Cavanagh who defines the record as “a nod to our past and a look to our future all at the same time, with a sound that is designed to transport you to the heart of the present moment.” The mixing was made by Andrea Wright at Parr Street Studios in Liverpool. The orchestral arrangements are composed by the band in collaboration with Dave Stewart who worked with Anathema on We're Here Because We're Here.
+The songs received new musical and vocal arrangements with 'feedback' lead guitars centred on a grand piano and a rhythm section. Dutch singer Anneke van Giersbergen sings on "Everwake", a song originally released on the 1992 EP The Crestfallen, and on "...Alone".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Crestfallen (3:08)
 2. Sleep In Sanity (3:35)
 3. Kingdom (4:24)
@@ -35,15 +39,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Alone (7:17)
 8. We The Gods (3:05)
 9. Sunset Of Age (7:42)
-
-<!-- section break -->
-
-Falling Deeper is an album of orchestral re-interpretations from British atmospheric rock band Anathema released on 5 September 2011. The album is a follow-up to 2008's Hindsight, for which the band recorded different versions of their past songs.
-The album was produced by singer/guitarist Vincent Cavanagh and guitarist and main composer of the band Daniel Cavanagh who defines the record as “a nod to our past and a look to our future all at the same time, with a sound that is designed to transport you to the heart of the present moment.” The mixing was made by Andrea Wright at Parr Street Studios in Liverpool. The orchestral arrangements are composed by the band in collaboration with Dave Stewart who worked with Anathema on We're Here Because We're Here.
-The songs received new musical and vocal arrangements with 'feedback' lead guitars centred on a grand piano and a rhythm section. Dutch singer Anneke van Giersbergen sings on "Everwake", a song originally released on the 1992 EP The Crestfallen, and on "...Alone".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/falling-deeper/684127793" >}}<br>

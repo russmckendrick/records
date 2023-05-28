@@ -29,10 +29,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="any-minute-now-26815301.jpg" title="Any Minute Now by Soulwax" >}}
+Any Minute Now is the third studio album by Belgian electronic music duo Soulwax. It was released on August 23, 2004 through the PIAS record label. It peaked at number 53 on the UK Albums Chart. All three singles from the album, "Any Minute Now", "E Talking" and "NY Excuse", reached the top 40 of the UK Singles Chart. Most of the tracks on Any Minute Now were remixed on Soulwax's follow-up record, 2005's Nite Versions.
+Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. E Talking
 2. Any Minute Now
 3. Please...Don't Be Yourself
@@ -46,14 +49,6 @@ styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 11. YYY/NNN
 12. The Truth Is So Boring
 13. Dance 2 Slow
-
-<!-- section break -->
-
-Any Minute Now is the third studio album by Belgian electronic music duo Soulwax. It was released on August 23, 2004 through the PIAS record label. It peaked at number 53 on the UK Albums Chart. All three singles from the album, "Any Minute Now", "E Talking" and "NY Excuse", reached the top 40 of the UK Singles Chart. Most of the tracks on Any Minute Now were remixed on Soulwax's follow-up record, 2005's Nite Versions.
-Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/any-minute-now/273159734" >}}<br>

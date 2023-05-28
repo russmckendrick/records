@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="troublegum-834572.jpg" title="Troublegum by Therapy?" >}}
+Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Knives (1:56)
 2. Screamager (2:36)
 3. Hellbelly (3:20)
@@ -42,15 +46,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 12. Femtex (3:14)
 13. Unrequited (3:03)
 14. Brainsaw (3:58)
-
-<!-- section break -->
-
-Troublegum is the second major label album by rock band Therapy? It was released on 7 February 1994 via A&M Records. The album features a more punk-oriented style compared to the likes of Stiff Little Fingers and the Undertones rather the band's previous noise rock-influenced works.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/troublegum/1443273371" >}}<br>

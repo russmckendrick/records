@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="dead-letter-office-8899363.jpg" title="Dead Letter Office by R.E.M." >}}
+Dead Letter Office is a rarities and B-sides collection by R.E.M., released in April 1987. The album is essentially a collection of many additional recordings R.E.M. made from before Murmur to Lifes Rich Pageant that were outtakes or released as B-sides to their singles internationally. Many of the tracks are favorite cover versions indicating the band's disparate influences and musical tastes, including three Velvet Underground covers, and songs by  Aerosmith ("Toys in the Attic"), Roger Miller ("King of the Road"), and fellow Athenians Pylon ("Crazy").
+Guitarist Peter Buck composed wry, self-deprecating (and, in one instance, apologetic) liner notes to the songs on the album. Buck initially had doubts about releasing it, saying he felt as though people would perceive the album as the band "trying to cash in, maybe to sell some records", as the ultimate release date predated that of the band's final studio album with I.R.S., Document, by a mere four months.The album was initially issued as a 15-song collection on vinyl and cassette, but when its CD edition appeared the five tracks from the band's 1982 Chronic Town EP were added. This was the only CD availability of Chronic Town until the release of The Originals box set.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Post Side
 2. Crazy
 3. There She Goes Again
@@ -40,14 +43,6 @@ styles: ["Alternative Rock"]
 15. Femme Fatale
 16. Walters Theme
 17. King Of The Road
-
-<!-- section break -->
-
-Dead Letter Office is a rarities and B-sides collection by R.E.M., released in April 1987. The album is essentially a collection of many additional recordings R.E.M. made from before Murmur to Lifes Rich Pageant that were outtakes or released as B-sides to their singles internationally. Many of the tracks are favorite cover versions indicating the band's disparate influences and musical tastes, including three Velvet Underground covers, and songs by  Aerosmith ("Toys in the Attic"), Roger Miller ("King of the Road"), and fellow Athenians Pylon ("Crazy").
-Guitarist Peter Buck composed wry, self-deprecating (and, in one instance, apologetic) liner notes to the songs on the album. Buck initially had doubts about releasing it, saying he felt as though people would perceive the album as the band "trying to cash in, maybe to sell some records", as the ultimate release date predated that of the band's final studio album with I.R.S., Document, by a mere four months.The album was initially issued as a 15-song collection on vinyl and cassette, but when its CD edition appeared the five tracks from the band's 1982 Chronic Town EP were added. This was the only CD availability of Chronic Town until the release of The Originals box set.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-letter-office/1444187996" >}}<br>

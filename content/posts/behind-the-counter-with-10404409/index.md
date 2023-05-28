@@ -31,10 +31,9 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Ambient", "Post Rock"]
 ---
 
-{{< img src="behind-the-counter-with-10404409.jpg" title="Behind The Counter With by Max Richter" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Unanswered Question
 2. BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland
 3. Partita III. Courante
@@ -74,10 +73,6 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 37. Tenebrae II (6:46)
 38. Diskprept1 (3:28)
 39. Rockets Fall On Rocket Falls  (20:40)
-
-<!-- section break -->
-
-
 
 
 

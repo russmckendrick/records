@@ -58,10 +58,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="all-the-voices-6035012.jpg" title="All The Voices by INXS" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. INXS
 2. On A Bus
 3. Doctor
@@ -182,10 +181,6 @@ styles: []
 118. She Is Rising
 119. Building Bridges
 120. Shine
-
-<!-- section break -->
-
-
 
 
 

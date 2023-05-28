@@ -26,19 +26,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="pure-narcotic-16062877.jpg" title="Pure Narcotic by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Dahlia (3:41)
 2.  Futile (5:03)
 3. Pure Narcotic (5:18)
 4. Small Fish  (3:23)
 5. Stranger By The Minute (4:45)
-
-<!-- section break -->
-
-
 
 
 

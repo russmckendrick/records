@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="bang-18011911.jpg" title="Bang! by World Party" >}}
+Bang! is the third studio album by Welsh-British group World Party, released by Ensign Records on 20 April 1993.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Kingdom Come
 2. Is It Like Today?
 3. What Is Love All About?
@@ -36,13 +38,6 @@ styles: ["Alternative Rock"]
 9. Rescue Me
 10. Sunshine
 11. All I Gave
-
-<!-- section break -->
-
-Bang! is the third studio album by Welsh-British group World Party, released by Ensign Records on 20 April 1993.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/top-summer-latin-house-2019-brazil-vibes-dance-party-mix/1465197024" >}}<br>

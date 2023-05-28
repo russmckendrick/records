@@ -28,10 +28,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="can-t-buy-a-thrill-25006759.jpg" title="Can't Buy A Thrill by Steely Dan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Do It Again (5:56)
 2. Dirty Work (3:08)
 3. Kings (3:45)
@@ -42,10 +41,6 @@ styles: ["Pop Rock"]
 8. Brooklyn (Owes The Charmer Under Me) (4:20)
 9. Change Of The Guard (3:28)
 10. Turn That Heartbeat Over Again (4:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cant-buy-a-thrill/1652580027" >}}<br>

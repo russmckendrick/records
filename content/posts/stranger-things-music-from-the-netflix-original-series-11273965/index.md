@@ -24,10 +24,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="stranger-things-music-from-the-netflix-original-series-11273965.jpg" title="Stranger Things (Music From The Netflix Original Series) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro - Will Singing The Clash (Dialogue)
 2. Every Breath You Take
 3. Should I Stay Or Should I Go
@@ -58,10 +57,6 @@ styles: []
 28. 'Friends Don't Lie' (Dialogue)
 29. Elegia
 30. Outro - Will Singing The Clash (Dialogue)
-
-<!-- section break -->
-
-
 
 
 

@@ -135,10 +135,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-dark-side-of-the-moon-immersion-box-set-3142241.jpg" title="The Dark Side Of The Moon - Immersion Box Set by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Original Album, Remastered In 2011
 2. Speak To Me (1:07)
 3. Breathe (In The Air) (2:50)
@@ -341,10 +340,6 @@ styles: ["Prog Rock"]
 200. Any Colour You Like (Live In Brighton June 1972) (4:45)
 201. The Travel Sequence (Previously Unreleased Studio Recording) (2:21)
 202. Money (Roger Waters Demo) (2:38)
-
-<!-- section break -->
-
-
 
 
 

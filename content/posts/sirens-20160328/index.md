@@ -23,20 +23,15 @@ genres: ["Rock"]
 styles: ["Post Rock", "Stoner Rock"]
 ---
 
-{{< img src="sirens-20160328.jpg" title="Sirens by Glasgow Coma Scale" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Orion (7:49)
 2. Magik (6:38)
 3. Underskin (8:05)
 4. Sirens (6:20)
 5. Day 366 (9:08)
 6. One Must Fall (6:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sirens/1577932525" >}}<br>

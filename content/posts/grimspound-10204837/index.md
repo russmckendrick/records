@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="grimspound-10204837.jpg" title="Grimspound by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Brave Captain (12:37)
 2. On The Racing Line (5:12)
 3. Experimental Gentlemen: Part 1 Reflectors Of Light Part 2 Merchants Of Light Part 3: The Wonder Of It All (10:01)
@@ -30,10 +29,6 @@ styles: ["Prog Rock"]
 6. The Ivy Gate (7:27)
 7. As The Crow Flies (6:44)
 8. A Mead Hall In Winter (15:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}<br>

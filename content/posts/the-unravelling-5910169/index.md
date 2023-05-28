@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-unravelling-5910169.jpg" title="The Unravelling by Knifeworld" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Can Teach You How To Lose A Fight
 2. The Orphanage
 3. Send Him Seaworthy
@@ -36,10 +35,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 14. Destroy The World We Love (6:05)
 15. This Empty Room Once Was Alive (3:50)
 16. I'm Hiding Behind My Eyes (9:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-unravelling/1049125354" >}}<br>

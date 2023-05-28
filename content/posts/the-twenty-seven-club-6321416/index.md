@@ -33,20 +33,15 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="the-twenty-seven-club-6321416.jpg" title="The Twenty Seven Club by Magenta" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Lizard King (12:00)
 2. Ladyland Blues (10:33)
 3. Pearl (8:17)
 4. Stoned (11:25)
 5. The Gift (6:58)
 6. The Devil At The Crossroads (14:53)
-
-<!-- section break -->
-
-
 
 
 

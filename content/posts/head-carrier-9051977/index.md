@@ -24,10 +24,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="head-carrier-9051977.jpg" title="Head Carrier by Pixies" >}}
+Head Carrier is the sixth studio album by the American alternative rock band the Pixies, released on September 30, 2016 on Pixiesmusic and PIAS. Produced by Tom Dalgety, and recorded at RAK Studios in London, the album is the first to feature new band member Paz Lenchantin on bass guitar, who joined the band in 2014 to tour in support of its previous album, Indie Cindy.
+The album's title references a cephalophore, a saint carrying his own head, more specifically St. Denis of Paris.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Head Carrier 
 2. Classic Masher 
 3. Baal’s Back 
@@ -40,16 +45,6 @@ styles: ["Alternative Rock"]
 10. Um Chagga Lagga 
 11. Plaster Of Paris 
 12. All The Saints
-
-<!-- section break -->
-
-Head Carrier is the sixth studio album by the American alternative rock band the Pixies, released on September 30, 2016 on Pixiesmusic and PIAS. Produced by Tom Dalgety, and recorded at RAK Studios in London, the album is the first to feature new band member Paz Lenchantin on bass guitar, who joined the band in 2014 to tour in support of its previous album, Indie Cindy.
-The album's title references a cephalophore, a saint carrying his own head, more specifically St. Denis of Paris.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/head-carrier/1589760454" >}}<br>

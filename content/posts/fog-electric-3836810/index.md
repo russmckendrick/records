@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="fog-electric-3836810.jpg" title="Fog Electric by North Atlantic Oscillation" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Soft Coda (4:20)
 2. Chirality (4:04)
 3. Mirador (4:36)
@@ -29,10 +28,6 @@ styles: ["Prog Rock"]
 7. Expert With Altimeter (5:16)
 8. The Receiver (5:57)
 9. Downhill (3:54)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fog-electric-deluxe-edition/674007811" >}}<br>

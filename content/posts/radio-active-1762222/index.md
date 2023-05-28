@@ -19,10 +19,12 @@ genres: ["Electronic", "Rock", "Reggae", "Funk / Soul", "Pop"]
 styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
 
-{{< img src="radio-active-1762222.jpg" title="Radio Active by Various" >}}
+Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. D.I.S.C.O.
 2. Amigo
 3. Johnny & Mary
@@ -43,13 +45,6 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 18. Unlock The Funk
 19. You Gotta Be A Hustler
 20. I Think It's Gonna Rain
-
-<!-- section break -->
-
-Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series.
-    
-    
-
 
 
 ## Spotify

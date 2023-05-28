@@ -23,21 +23,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Downtempo", "Experimental"]
 ---
 
-{{< img src="the-king-of-limbs-2788860.jpg" title="The King Of Limbs by Radiohead" >}}
-
-<!-- section break -->
-
-1. Bloom
-2. Morning Mr Magpie
-3. Little By Little
-4. Feral
-5. Lotus Flower
-6. Codex
-7. Give Up The Ghost
-8. Separator
-
-<!-- section break -->
-
 The King of Limbs is the eighth studio album by the English rock band Radiohead. It was self-released on 18 February 2011 as a download, followed by a physical release on 28 March through XL Recordings internationally and TBD Records in North America.
 Following the more conventional instrumentation of In Rainbows (2007), The King of Limbs saw Radiohead move further from standard song structures and recording methods. They developed the album with their producer Nigel Godrich through sampling and looping; the singer, Thom Yorke, described it as "an expression of wildness and mutation". The artwork, by Yorke and his longtime collaborator Stanley Donwood, depicts nature and spirits inspired by fairy tales.
 Radiohead released no singles from The King of Limbs, but released a music video for "Lotus Flower" featuring Yorke's dancing that inspired an internet meme. In 2012, they began an international tour, with several festival appearances. To perform the complex rhythms live, they were joined by a second drummer, Clive Deamer. The European tour was postponed after the temporary stage collapsed in Toronto's Downsview Park, killing the technician Scott Johnson and injuring three others.
@@ -48,6 +33,16 @@ Though its unconventional production and shorter length divided listeners, The K
         
     
 
+
+## Tracklisting
+1. Bloom
+2. Morning Mr Magpie
+3. Little By Little
+4. Feral
+5. Lotus Flower
+6. Codex
+7. Give Up The Ghost
+8. Separator
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-king-of-limbs/1109714965" >}}<br>

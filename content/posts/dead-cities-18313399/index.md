@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 ---
 
-{{< img src="dead-cities-18313399.jpg" title="Dead Cities by The Future Sound Of London" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Herd Killing
 2. Dead Cities
 3. Her Face Forms In Summertime
@@ -38,10 +37,6 @@ styles: ["Leftfield", "Abstract", "Ambient", "Downtempo", "Experimental"]
 11. Yage
 12. Vit Drowning / Through Your Gills I Breathe
 13. First Death In The Family
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-cities/714769679" >}}<br>

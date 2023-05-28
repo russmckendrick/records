@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-blue-hour-12541434.jpg" title="The Blue Hour by Suede" >}}
+The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. As One
 2. Wastelands
 3. Mistress
@@ -45,13 +47,6 @@ styles: ["Indie Rock"]
 12. All The Wild Places
 13. The Invisibles
 14. Flytipping
-
-<!-- section break -->
-
-The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blue-hour/1372130297" >}}<br>

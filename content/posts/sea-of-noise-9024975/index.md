@@ -17,10 +17,12 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="sea-of-noise-9024975.jpg" title="Sea Of Noise by St. Paul & The Broken Bones" >}}
+While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavored "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth." But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Crumbling Light Posts Pt. 1 (1:31)
 2. Flow With It (You Got Me Feeling Like) (3:17)
 3. Midnight On The Earth (3:53)
@@ -34,13 +36,6 @@ styles: ["Rhythm & Blues", "Soul"]
 11. Tears In The Diamond (3:46)
 12. Is It Me (2:13)
 13. Crumbling Light Posts Pt. 3 (0:56)
-
-<!-- section break -->
-
-While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavored "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth." But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sea-of-noise/1123180012" >}}<br>

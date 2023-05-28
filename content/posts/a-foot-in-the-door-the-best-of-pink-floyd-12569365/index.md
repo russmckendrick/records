@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="a-foot-in-the-door-the-best-of-pink-floyd-12569365.jpg" title="A Foot In The Door (The Best Of Pink Floyd) by Pink Floyd" >}}
+Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <i>A Foot in the Door</i> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hey You
 2. See Emily Play
 3. The Happiest Days Of Our Lives
@@ -47,13 +49,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 14. Shine On You Crazy Diamond Parts 1-5 (Edit)
 15. Brain Damage
 16. Eclipse
-
-<!-- section break -->
-
-Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <i>A Foot in the Door</i> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-foot-in-the-door-the-best-of-pink-floyd/700053987" >}}<br>

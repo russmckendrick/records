@@ -26,10 +26,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 ---
 
-{{< img src="last-day-of-june-21028867.jpg" title="Last Day Of June  by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Some Things Cannot Be Changed (2:58)
 2. That Day By The Pier (3:58)
 3. There Must Be A Way (1:17)
@@ -45,10 +44,6 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 13. Accept (4:13)
 14. Deceive (1:07)
 15. Together, Forever Again (3:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-day-of-june-original-game-soundtrack/1440875598" >}}<br>

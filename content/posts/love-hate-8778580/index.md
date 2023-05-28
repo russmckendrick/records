@@ -23,10 +23,12 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
-{{< img src="love-hate-8778580.jpg" title="Love & Hate by Michael Kiwanuka" >}}
+Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Cold Little Heart
 2. Black Man In A White World
 3. Falling
@@ -37,13 +39,6 @@ styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 8. Rule The World
 9. Father’s Child
 10. The Final Frame
-
-<!-- section break -->
-
-Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-hate/1440832200" >}}<br>

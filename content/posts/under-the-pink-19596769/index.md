@@ -25,10 +25,15 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Art Rock"]
 ---
 
-{{< img src="under-the-pink-19596769.jpg" title="Under The Pink by Tori Amos" >}}
+Under the Pink is the second studio album by singer-songwriter Tori Amos. Upon its release in January 1994, the album debuted atop the UK Albums Chart on the back of the hit single "Cornflake Girl", and peaked at number 12 in the US.The album was certified double Platinum in the US by the RIAA in October 1999, for sales exceeding 2 million copies. It was the 61st highest-selling album of 1994 in the UK and was certified platinum by the BPI in February 2007, for sales exceeding 300,000 copies.
+Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, and was voted among the greatest albums of the 1990s by Rolling Stone magazine some years later.  A special double-disc tour edition was released exclusively in Australia and New Zealand in November 1994, titled More Pink: The B-Sides.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Pretty Good Year (3:25)
 2. God (3:58)
 3. Bells For Her (5:20)
@@ -41,16 +46,6 @@ styles: ["Alternative Rock", "Art Rock"]
 10. Cloud On My Tongue (4:44)
 11. Space Dog (5:10)
 12. Yes, Anastasia  (9:33)
-
-<!-- section break -->
-
-Under the Pink is the second studio album by singer-songwriter Tori Amos. Upon its release in January 1994, the album debuted atop the UK Albums Chart on the back of the hit single "Cornflake Girl", and peaked at number 12 in the US.The album was certified double Platinum in the US by the RIAA in October 1999, for sales exceeding 2 million copies. It was the 61st highest-selling album of 1994 in the UK and was certified platinum by the BPI in February 2007, for sales exceeding 300,000 copies.
-Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, and was voted among the greatest albums of the 1990s by Rolling Stone magazine some years later.  A special double-disc tour edition was released exclusively in Australia and New Zealand in November 1994, titled More Pink: The B-Sides.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/under-the-pink-remastered/981366461" >}}<br>

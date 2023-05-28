@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Dub", "Synth-pop", "Disco"]
 ---
 
-{{< img src="tom-tom-club-15787593.jpg" title="Tom Tom Club by Tom Tom Club" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wordy Rappinghood (6:27)
 2. Genius Of Love (5:34)
 3. Tom Tom Theme (1:25)
@@ -33,10 +32,6 @@ styles: ["Dub", "Synth-pop", "Disco"]
 6. Lorelei (5:05)
 7. On, On, On, On... (3:33)
 8. Booming And Zooming (4:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tom-tom-club-deluxe-version/1443455978" >}}<br>

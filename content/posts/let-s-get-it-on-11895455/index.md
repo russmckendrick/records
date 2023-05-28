@@ -20,10 +20,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
 
-{{< img src="let-s-get-it-on-11895455.jpg" title="Let's Get It On by Marvin Gaye" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Let's Get It On (4:44)
 2. Please Don't Stay (Once You Go Away) (3:32)
 3. If I Should Die Tonight (3:57)
@@ -32,10 +31,6 @@ styles: ["Funk"]
 6. Distant Lover (4:15)
 7. You Sure Love To Ball (4:43)
 8. Just To Keep You Satisfied (3:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lets-get-it-on-remastered/1442835298" >}}<br>

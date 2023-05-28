@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="fugazi-4833055.jpg" title="Fugazi by Marillion" >}}
+Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
+According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Assassing (6:59)
 2. Punch & Judy (3:19)
 3. Jigsaw (6:49)
@@ -32,14 +35,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 5. She Chameleon (6:49)
 6. Incubus (8:30)
 7. Fugazi (8:05)
-
-<!-- section break -->
-
-Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
-According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}<br>

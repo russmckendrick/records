@@ -21,10 +21,12 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Synth-pop"]
 ---
 
-{{< img src="schubert-dip-2122351.jpg" title="Schubert Dip by EMF" >}}
+Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Children
 2. Long Summer Days
 3. When You're Mine
@@ -36,13 +38,6 @@ styles: ["Leftfield", "Synth-pop"]
 9. Lies
 10. Longtime
 11. Untitled
-
-<!-- section break -->
-
-Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/schubert-dip/1242337425" >}}<br>

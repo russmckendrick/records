@@ -21,10 +21,17 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="i-see-you-9596944.jpg" title="I See You by The XX" >}}
+I See You is the third studio album by English indie pop band the xx. It was released on 13 January 2017 by the Young Turks record label. It was the band's first album in more than four years, following 2012's Coexist.
+The xx began recording I See You in 2014 at Marfa Recording Co. in Marfa, Texas, and were assisted by producer Rodaidh McDonald. According to the band, they had a more progressive, wide-ranging musical concept in mind, compared to their previous two albums. Jamie xx, the band's multi-instrumentalist and producer, said the album's sound and aesthetic were influenced by his 2015 club-influenced solo recording, In Colour.
+I See You was released to widespread critical acclaim, with many reviewers finding its music less insular than the xx's previous recordings. It became the band's second number-one album in the United Kingdom and an international top-ten chart success. Four singles were released to promote the album, beginning with "On Hold", while the xx embarked on the European I See You Tour and subsequent concerts in the Americas.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Dangerous
 2. Say Something Loving
 3. Lips
@@ -45,18 +52,6 @@ styles: ["Indie Pop"]
 18. On Hold (3:44)
 19. I Dare You (3:53)
 20. Test Me (3:56)
-
-<!-- section break -->
-
-I See You is the third studio album by English indie pop band the xx. It was released on 13 January 2017 by the Young Turks record label. It was the band's first album in more than four years, following 2012's Coexist.
-The xx began recording I See You in 2014 at Marfa Recording Co. in Marfa, Texas, and were assisted by producer Rodaidh McDonald. According to the band, they had a more progressive, wide-ranging musical concept in mind, compared to their previous two albums. Jamie xx, the band's multi-instrumentalist and producer, said the album's sound and aesthetic were influenced by his 2015 club-influenced solo recording, In Colour.
-I See You was released to widespread critical acclaim, with many reviewers finding its music less insular than the xx's previous recordings. It became the band's second number-one album in the United Kingdom and an international top-ten chart success. Four singles were released to promote the album, beginning with "On Hold", while the xx embarked on the European I See You Tour and subsequent concerts in the Americas.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-see-you/1170658234" >}}<br>

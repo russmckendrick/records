@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-art-of-losing-17834095.jpg" title="The Art Of Losing by The Anchoress" >}}
+The Art of Losing is the second studio album by Welsh musician The Anchoress (birth name Catherine Anne Davies). It was released on 12 March 2021 by Kscope. Written and produced by Davies, the record has a dark alt-pop sound. Lyrically, it draws from grief, fury, and Davies's personal experiences. Upon release, the album was met with critical acclaim, with praise towards Davies's storytelling.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Moon Rise (Prelude)
 2. Let It Hurt
 3. The Exchange
@@ -42,13 +44,6 @@ styles: []
 12. My Confessor
 13. With The Boys
 14. Moon (An End)
-
-<!-- section break -->
-
-The Art of Losing is the second studio album by Welsh musician The Anchoress (birth name Catherine Anne Davies). It was released on 12 March 2021 by Kscope. Written and produced by Davies, the record has a dark alt-pop sound. Lyrically, it draws from grief, fury, and Davies's personal experiences. Upon release, the album was met with critical acclaim, with praise towards Davies's storytelling.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-art-of-losing/1535065686" >}}<br>

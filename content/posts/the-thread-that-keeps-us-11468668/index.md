@@ -28,10 +28,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 ---
 
-{{< img src="the-thread-that-keeps-us-11468668.jpg" title="The Thread That Keeps Us by Calexico" >}}
+The Thread That Keeps Us is the ninth studio album by American indie rock band Calexico. It was released on January 26, 2018, under Anti-.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. End Of The World With You
 2. Voices In The Field
 3. Bridge To Nowhere
@@ -54,13 +56,6 @@ styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
 20. Lost Inside
 21. End Of The Night
 22. Dream On Mount Tam
-
-<!-- section break -->
-
-The Thread That Keeps Us is the ninth studio album by American indie rock band Calexico. It was released on January 26, 2018, under Anti-.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us-deluxe-edition/1289246851" >}}<br>

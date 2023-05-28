@@ -32,10 +32,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-{{< img src="goo-655290.jpg" title="Goo by Sonic Youth" >}}
+Goo is the sixth full-length studio album by American alternative rock band Sonic Youth, released on June 26, 1990, by DGC Records. For this album, the band sought to expand upon its trademark alternating guitar arrangements and the layered sound of their previous album Daydream Nation (1988) with songwriting on that was more topical than past works, exploring themes of female empowerment and pop culture. Coming off the success of Daydream Nation, Nick Sansano returned to engineer Goo, but veteran producer Ron Saint Germain was chosen by Sonic Youth to finish mixing the album following Sansano's dismissal.
+Goo was a critical and commercial success upon its release, peaking at number 96 on the US Billboard 200, their highest chart position to date. Although it lacked significant radio airplay, its lead single "Kool Thing", a collaborative effort with Public Enemy's Chuck D, reached number seven on the Billboard Modern Rock Tracks chart. Since then, Goo has been viewed as one of alternative rock's most important albums, and is considered musically and artistically significant. In 2020, the album was ranked at number 358 on Rolling Stone's 500 greatest albums of all time list.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Original Album (Released 06.26.90)
 2. Dirty Boots (5:29)
 3. Tunic (Song For Karen) (6:21)
@@ -71,16 +76,6 @@ styles: ["Alternative Rock", "Experimental"]
 33. Can Song (3:17)
 34. Isaac (2:36)
 35. Goo Interview Flexi (6:03)
-
-<!-- section break -->
-
-Goo is the sixth full-length studio album by American alternative rock band Sonic Youth, released on June 26, 1990, by DGC Records. For this album, the band sought to expand upon its trademark alternating guitar arrangements and the layered sound of their previous album Daydream Nation (1988) with songwriting on that was more topical than past works, exploring themes of female empowerment and pop culture. Coming off the success of Daydream Nation, Nick Sansano returned to engineer Goo, but veteran producer Ron Saint Germain was chosen by Sonic Youth to finish mixing the album following Sansano's dismissal.
-Goo was a critical and commercial success upon its release, peaking at number 96 on the US Billboard 200, their highest chart position to date. Although it lacked significant radio airplay, its lead single "Kool Thing", a collaborative effort with Public Enemy's Chuck D, reached number seven on the Billboard Modern Rock Tracks chart. Since then, Goo has been viewed as one of alternative rock's most important albums, and is considered musically and artistically significant. In 2020, the album was ranked at number 358 on Rolling Stone's 500 greatest albums of all time list.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/goo/1440838993" >}}<br>

@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="greatest-hits-12213768.jpg" title="Greatest Hits by Bruce Springsteen" >}}
+Greatest Hits is the first compilation album by American singer-songwriter Bruce Springsteen, released February 27, 1995, on Columbia Records. It is a collection of some of Springsteen's hit singles and popular album tracks through the years along with four new songs at the end, mostly recorded with the E Street Band in 1995. The latter constituted Springsteen's first (albeit very partial) release with his backing band since the late 1980s. Some of the songs are shorter versions of the original album releases.
+The incorporation of the "new" tracks was portrayed in the 1996 documentary Blood Brothers. "Murder Incorporated" and "This Hard Land" were, in fact, unused 1982 songs from the Born in the U.S.A. sessions, with the latter being re-recorded here more than a decade later, and both subsequently became Springsteen concert staples. "Blood Brothers", on the other hand, was played only as the final closing song of both the 1999–2000 Reunion Tour and 2002–2003 Rising Tour, both times with an extra verse added. "Secret Garden" achieved notoriety via the soundtrack of the 1996 film Jerry Maguire. Alternate versions of several of these new tracks were released on the 1996 Blood Brothers EP.
+The compilation was commercially successful, hitting the peaks of the U.S. album chart and UK Album Chart and selling six million copies in the U.S.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Born To Run
 2. Thunder Road
 3. Badlands
@@ -53,15 +57,6 @@ styles: []
 16. Murder Incorporated
 17. Blood Brothers
 18. This Hard Land
-
-<!-- section break -->
-
-Greatest Hits is the first compilation album by American singer-songwriter Bruce Springsteen, released February 27, 1995, on Columbia Records. It is a collection of some of Springsteen's hit singles and popular album tracks through the years along with four new songs at the end, mostly recorded with the E Street Band in 1995. The latter constituted Springsteen's first (albeit very partial) release with his backing band since the late 1980s. Some of the songs are shorter versions of the original album releases.
-The incorporation of the "new" tracks was portrayed in the 1996 documentary Blood Brothers. "Murder Incorporated" and "This Hard Land" were, in fact, unused 1982 songs from the Born in the U.S.A. sessions, with the latter being re-recorded here more than a decade later, and both subsequently became Springsteen concert staples. "Blood Brothers", on the other hand, was played only as the final closing song of both the 1999–2000 Reunion Tour and 2002–2003 Rising Tour, both times with an extra verse added. "Secret Garden" achieved notoriety via the soundtrack of the 1996 film Jerry Maguire. Alternate versions of several of these new tracks were released on the 1996 Blood Brothers EP.
-The compilation was commercially successful, hitting the peaks of the U.S. album chart and UK Album Chart and selling six million copies in the U.S.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1435854353" >}}<br>

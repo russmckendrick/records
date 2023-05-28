@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
 ---
 
-{{< img src="west-bank-songs-1978-1983-a-best-of-14843180.jpg" title="West Bank Songs 1978-1983 (A Best Of) by The Undertones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You've Got My Number (Why Don't You Use It!) (2:37)
 2. Male Model (1:53)
 3. Hypnotised (2:29)
@@ -53,10 +52,6 @@ styles: ["Punk", "Power Pop"]
 28. Here Comes The Summer (1:45)
 29. It's Going To Happen (3:32)
 30. Bittersweet (5:08)
-
-<!-- section break -->
-
-
 
 
 

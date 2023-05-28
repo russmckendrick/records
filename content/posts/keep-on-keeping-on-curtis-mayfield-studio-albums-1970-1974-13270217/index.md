@@ -33,10 +33,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
 
-{{< img src="keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217.jpg" title="Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Curtis
 2. (Don’t Worry) If There’s A Hell Below We’re All Going To Go (7:46)
 3. The Other Side Of Town (4:00)
@@ -70,10 +69,6 @@ styles: ["Soul", "Funk"]
 31. Kung Fu (6:02)
 32. Suffer  (4:06)
 33. Make Me Believe In You (5:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858" >}}<br>

@@ -32,10 +32,18 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Indie Rock", "Ambient", "Experimental"]
 ---
 
-{{< img src="a-moon-shaped-pool-8581634.jpg" title="A Moon Shaped Pool by Radiohead" >}}
+A Moon Shaped Pool is the ninth studio album by the English rock band Radiohead. It was released digitally on 8 May 2016, and physically on 17 June 2016 through XL Recordings. It was produced by Radiohead's longtime collaborator Nigel Godrich.
+Radiohead recorded A Moon Shaped Pool in RAK Studios in London, their studio in Oxford, and the La Fabrique studio in Saint-Rémy-de-Provence, France. It features prominent use of strings and choral vocals arranged by the guitarist Jonny Greenwood and performed by the London Contemporary Orchestra. Several songs, such as "True Love Waits" and "Burn the Witch", were written years earlier. The lyrics address climate change, groupthink and heartbreak. Many critics saw them as a response to the split of the singer, Thom Yorke, from his wife, Rachel Owen. Radiohead's longtime collaborator Stanley Donwood created the abstract cover by exposing his paintings to weather.
+Radiohead promoted A Moon Shaped Pool with singles and videos for "Burn the Witch" and "Daydreaming", a viral campaign of postcards and social media posts, and a series of video vignettes. Radiohead toured in 2016, 2017 and 2018, with headline performances at festivals including Glastonbury and Coachella. The tour included a performance in Tel Aviv, which drew criticism from supporters of Boycott, Divestment and Sanctions, a campaign for an international cultural boycott of Israel.
+A Moon Shaped Pool was named one of the best albums of the year and decade by many publications. It was the fifth Radiohead album nominated for the Mercury Prize, and was nominated for Best Alternative Music Album and Best Rock Song (for "Burn the Witch") at the 59th Annual Grammy Awards. It topped the charts in several countries, becoming Radiohead's sixth number one on the UK Album Charts, and was a bestseller on vinyl. It is certified gold in the UK, US, Canada, Australia, France and Italy.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Burn The Witch (3:40)
 2. Daydreaming (6:24)
 3. Decks Dark (4:41)
@@ -47,19 +55,6 @@ styles: ["Art Rock", "Indie Rock", "Ambient", "Experimental"]
 9. Present Tense (5:06)
 10. Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief (5:03)
 11. True Love Waits (4:43)
-
-<!-- section break -->
-
-A Moon Shaped Pool is the ninth studio album by the English rock band Radiohead. It was released digitally on 8 May 2016, and physically on 17 June 2016 through XL Recordings. It was produced by Radiohead's longtime collaborator Nigel Godrich.
-Radiohead recorded A Moon Shaped Pool in RAK Studios in London, their studio in Oxford, and the La Fabrique studio in Saint-Rémy-de-Provence, France. It features prominent use of strings and choral vocals arranged by the guitarist Jonny Greenwood and performed by the London Contemporary Orchestra. Several songs, such as "True Love Waits" and "Burn the Witch", were written years earlier. The lyrics address climate change, groupthink and heartbreak. Many critics saw them as a response to the split of the singer, Thom Yorke, from his wife, Rachel Owen. Radiohead's longtime collaborator Stanley Donwood created the abstract cover by exposing his paintings to weather.
-Radiohead promoted A Moon Shaped Pool with singles and videos for "Burn the Witch" and "Daydreaming", a viral campaign of postcards and social media posts, and a series of video vignettes. Radiohead toured in 2016, 2017 and 2018, with headline performances at festivals including Glastonbury and Coachella. The tour included a performance in Tel Aviv, which drew criticism from supporters of Boycott, Divestment and Sanctions, a campaign for an international cultural boycott of Israel.
-A Moon Shaped Pool was named one of the best albums of the year and decade by many publications. It was the fifth Radiohead album nominated for the Mercury Prize, and was nominated for Best Alternative Music Album and Best Rock Song (for "Burn the Witch") at the 59th Annual Grammy Awards. It topped the charts in several countries, becoming Radiohead's sixth number one on the UK Album Charts, and was a bestseller on vinyl. It is certified gold in the UK, US, Canada, Australia, France and Italy.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743" >}}<br>

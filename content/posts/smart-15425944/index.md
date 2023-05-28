@@ -42,10 +42,12 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-{{< img src="smart-15425944.jpg" title="Smart by Sleeper" >}}
+Smart is the debut studio album by English Britpop band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Inbetweener (3:18)
 2. Swallow (2:41)
 3. Delicious (3:01)
@@ -69,13 +71,6 @@ styles: ["Britpop"]
 21. Big Nurse (4:08)
 22. Ha Ha You're Dead (3:31)
 23. Bank (1:26)
-
-<!-- section break -->
-
-Smart is the debut studio album by English Britpop band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smart/298625555" >}}<br>

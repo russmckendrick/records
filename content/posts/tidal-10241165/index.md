@@ -27,10 +27,16 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-{{< img src="tidal-10241165.jpg" title="Tidal by Fiona Apple" >}}
+A few days after accepting her Best New Artist award at the 1997 MTV Video Music Awards by calling the entertainment industry “bullshit,” a then 19-year-old Fiona Apple sat for an interview with the shock-radio personality Howard Stern. What’s the problem, Stern asks her: You’re young, you’re pretty, your first album—1996’s <i>Tidal</i>—is selling like crazy, and yet, you’re still angry. Everyone knows entertainment is bullshit—why take it so seriously? Apple holds her ground: Maybe middle-aged guys like you know that, she says, but middle-aged guys aren’t taking cues from MTV on how to look and act—teenage girls are. And for them, it <i>is</i> serious.<br />
+At the time, albums like Alanis Morissette’s <i>Jagged Little Pill</i> and No Doubt’s <i>Tragic Kingdom</i> (and events like the all-female Lilith Fair tour) had brought a feminist edge to the mainstream. But <i>Tidal</i> is both angrier and subtler. A rap fan who’s said the only album she bought in 1997 was <i>Wu-Tang Forever</i>, Apple knows how to make herself ten feet tall (“Sleep to Dream”) while also expressing how small society has made her feel (“Sullen Girl”). She sounds older than she is (“Shadowboxer”), but points out that sexual abuse has a way of making you grow up fast (“The Child Is Gone”). If she takes pride in her powers of seduction, it’s only because it’s one of the few she’s allowed to exercise (“Criminal”). While Billie Holiday—a childhood influence—transformed her pain with laughter, Apple wields hers like a blade: Discreet, but it’ll cut you.<br />
+She’d grown up with classical piano and jazz standards—worlds where technical proficiency can often outweigh raw feeling. But for all its finesse, the lingering mood of <i>Tidal</i> is bitter and resolute: She’s going to bare her heart no matter how much it hurts. Listening to her spar with Howard Stern in 1997, you want to root for her not just because she’s getting bullied by a guy more than twice her age, but because she’s brave enough to fight back. As to her speech at the MTV awards, she says she got into this line of work to say whatever it is she wanted to say, and that’s what she’s gonna do. So how was she any different from him?
 
-<!-- section break -->
+        
+        
+    
 
+
+## Tracklisting
 1. Sleep To Dream (4:08)
 2. Sullen Girl (3:54)
 3. Shadowboxer (5:24)
@@ -41,17 +47,6 @@ styles: ["Soft Rock", "Pop Rock"]
 8. The Child Is Gone (4:14)
 9. Pale September (5:50)
 10. Carrion (5:43)
-
-<!-- section break -->
-
-A few days after accepting her Best New Artist award at the 1997 MTV Video Music Awards by calling the entertainment industry “bullshit,” a then 19-year-old Fiona Apple sat for an interview with the shock-radio personality Howard Stern. What’s the problem, Stern asks her: You’re young, you’re pretty, your first album—1996’s <i>Tidal</i>—is selling like crazy, and yet, you’re still angry. Everyone knows entertainment is bullshit—why take it so seriously? Apple holds her ground: Maybe middle-aged guys like you know that, she says, but middle-aged guys aren’t taking cues from MTV on how to look and act—teenage girls are. And for them, it <i>is</i> serious.<br />
-At the time, albums like Alanis Morissette’s <i>Jagged Little Pill</i> and No Doubt’s <i>Tragic Kingdom</i> (and events like the all-female Lilith Fair tour) had brought a feminist edge to the mainstream. But <i>Tidal</i> is both angrier and subtler. A rap fan who’s said the only album she bought in 1997 was <i>Wu-Tang Forever</i>, Apple knows how to make herself ten feet tall (“Sleep to Dream”) while also expressing how small society has made her feel (“Sullen Girl”). She sounds older than she is (“Shadowboxer”), but points out that sexual abuse has a way of making you grow up fast (“The Child Is Gone”). If she takes pride in her powers of seduction, it’s only because it’s one of the few she’s allowed to exercise (“Criminal”). While Billie Holiday—a childhood influence—transformed her pain with laughter, Apple wields hers like a blade: Discreet, but it’ll cut you.<br />
-She’d grown up with classical piano and jazz standards—worlds where technical proficiency can often outweigh raw feeling. But for all its finesse, the lingering mood of <i>Tidal</i> is bitter and resolute: She’s going to bare her heart no matter how much it hurts. Listening to her spar with Howard Stern in 1997, you want to root for her not just because she’s getting bullied by a guy more than twice her age, but because she’s brave enough to fight back. As to her speech at the MTV awards, she says she got into this line of work to say whatever it is she wanted to say, and that’s what she’s gonna do. So how was she any different from him?
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tidal/309677190" >}}<br>

@@ -29,10 +29,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock"]
 ---
 
-{{< img src="kingdom-of-rust-25227943.jpg" title="Kingdom Of Rust by Doves" >}}
+Four years after <i>Some Cities</i>, Doves return triumphant with the heavy, epic rumbling sound of <i>Kingdom of Rust</i>. The trio's penchant for minor chords and reverb-heavy production drapes the new album in overcast, moderately melancholy tones, and an underlining theme of movement and travel affords their fourth album a kinetic aesthetic. On opening track, “Jetstream”, frontman Jimi Goodwin sings about catching a drift on a troubled dream as the instrumentation gradually creates the feeling of dislocated movement — with the eventual appearance of stomping drums, cascading electronic.s and an effective, minimal guitar riff. Hints of woozy psychedelia color “10:03”, which starts like Coldplay-meets-Glasvegas and ends with a thundering U2-inspired groove, and the trio is occasionally accompanied by violin and cello (“Kingdom of Rust”, “Birds Flew Backwards”) for swirling, orchestral atmospherics.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Jetstream (5:30)
 2. Kingdom Of Rust (5:09)
 3. The Outsiders (3:25)
@@ -44,14 +47,6 @@ styles: ["Alternative Rock", "Post Rock"]
 9. Compulsion (5:12)
 10. House Of Mirrors (4:14)
 11. Lifelines (4:24)
-
-<!-- section break -->
-
-Four years after <i>Some Cities</i>, Doves return triumphant with the heavy, epic rumbling sound of <i>Kingdom of Rust</i>. The trio's penchant for minor chords and reverb-heavy production drapes the new album in overcast, moderately melancholy tones, and an underlining theme of movement and travel affords their fourth album a kinetic aesthetic. On opening track, “Jetstream”, frontman Jimi Goodwin sings about catching a drift on a troubled dream as the instrumentation gradually creates the feeling of dislocated movement — with the eventual appearance of stomping drums, cascading electronic.s and an effective, minimal guitar riff. Hints of woozy psychedelia color “10:03”, which starts like Coldplay-meets-Glasvegas and ends with a thundering U2-inspired groove, and the trio is occasionally accompanied by violin and cello (“Kingdom of Rust”, “Birds Flew Backwards”) for swirling, orchestral atmospherics.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kingdom-of-rust/721269518" >}}<br>

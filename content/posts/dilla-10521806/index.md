@@ -19,10 +19,9 @@ genres: ["Hip Hop", "Jazz"]
 styles: []
 ---
 
-{{< img src="dilla-10521806.jpg" title="Dilla by Abstract Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Welcome To Detroit / The Diary (3:52)
 2. Workinonit (2:15)
 3. Stop (2:30)
@@ -35,10 +34,6 @@ styles: []
 10. A.N.G.E.L. (6:13)
 11. King (2:26)
 12. Two Can Win (2:34)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dilla/1238569093" >}}<br>

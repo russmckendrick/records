@@ -23,10 +23,12 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="no-time-for-dreaming-2681475.jpg" title="No Time For Dreaming by Charles Bradley" >}}
+No Time for Dreaming is the debut studio album by American soul singer Charles Bradley. It was released on January 25, 2011, by Daptone Records and Dunham Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The World (Is Going Up In Flames)
 2. The Telephone Song
 3. Golden Rule
@@ -39,13 +41,6 @@ styles: ["Soul", "Rhythm & Blues"]
 10. Why Is It So Hard
 11. Since Our Last Goodbye
 12. Heartaches And Pain
-
-<!-- section break -->
-
-No Time for Dreaming is the debut studio album by American soul singer Charles Bradley. It was released on January 25, 2011, by Daptone Records and Dunham Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-feat-menahan-street-band/1485045964" >}}<br>

@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Funk Metal", "Hardcore"]
 ---
 
-{{< img src="all-boro-kings-18211393.jpg" title="All Boro Kings by Dog Eat Dog" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. If These Are Good Times (3:06)
 2. Think (3:05)
 3. No Fronts (4:35)
@@ -39,10 +38,6 @@ styles: ["Funk Metal", "Hardcore"]
 8. In The Doghouse (5:43)
 9. Funnel King (2:41)
 10. What Comes Around (3:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-boro-kings-bonus-tracks/362161529" >}}<br>

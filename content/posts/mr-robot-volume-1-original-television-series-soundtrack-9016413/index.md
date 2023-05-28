@@ -25,10 +25,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="mr-robot-volume-1-original-television-series-soundtrack-9016413.jpg" title="Mr. Robot: Volume 1 (Original Television Series Soundtrack) by Mac Quayle" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1.0_1-Hellofriend.Wav
 2. 1.0_2-Oneincontrol.Aiff
 3. 1.0_3-Fucksociety.Mp3
@@ -58,10 +57,6 @@ styles: ["Soundtrack", "Score"]
 27. 1.4_4-Exploitingtyrell.Wav
 28. 1.4_5-Revenge1syourweakn3ss.Ra
 29. 1.4_6-N0execution.Au
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-1-original-television-series-soundtrack/1111049508" >}}<br>

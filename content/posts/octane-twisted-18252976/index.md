@@ -34,10 +34,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="octane-twisted-18252976.jpg" title="Octane Twisted by Porcupine Tree" >}}
+Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. The album contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with 3 songs from the band's (then) final show at Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Incident (Part 1)
 2. Occam's Razor
 3. The Blind House
@@ -63,15 +67,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 23. Even Less
 24. Dislocated Day
 25. Arriving Somewhere But Not Here
-
-<!-- section break -->
-
-Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. The album contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with 3 songs from the band's (then) final show at Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/octane-twisted-live/684102949" >}}<br>

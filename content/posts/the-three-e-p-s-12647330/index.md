@@ -25,10 +25,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
 
-{{< img src="the-three-e-p-s-12647330.jpg" title="The Three E.P.'s by The Beta Band" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Champion Versions
 2. Dry The Rain
 3. I Know
@@ -57,10 +56,6 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 26. It's Over
 27. Dr. Baker
 28. Needles In My Eyes
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s-20th-anniversary-remaster/1410176605" >}}<br>

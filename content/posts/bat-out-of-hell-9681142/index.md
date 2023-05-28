@@ -23,20 +23,6 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="bat-out-of-hell-9681142.jpg" title="Bat Out Of Hell by Meat Loaf" >}}
-
-<!-- section break -->
-
-1. Bat Out Of Hell (9:48)
-2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
-3. Heaven Can Wait (4:38)
-4. All Revved Up With No Place To Go (4:19)
-5. Two Out Of Three Ain't Bad (5:23)
-6. Paradise By The Dashboard Light (8:28)
-7. For Crying Out Loud (8:45)
-
-<!-- section break -->
-
 Bat Out of Hell is the 1977 debut album by American rock singer Meat Loaf and composer Jim Steinman. It is one of the best-selling albums in history. The album was developed from a musical, Neverland, a futuristic rock version of Peter Pan, which Steinman wrote for a workshop in 1974. It was recorded during 1975–1976 at various studios, including Bearsville Studios in Woodstock, New York, produced by Todd Rundgren, and released in October 1977 by Cleveland International/Epic Records. Bat Out of Hell spawned two Meat Loaf sequel albums: Bat Out of Hell II: Back into Hell (1993) and Bat Out of Hell III: The Monster Is Loose (2006).
 Bat Out of Hell has sold over 43 million copies worldwide. It is certified 14× Platinum by the Recording Industry Association of America (RIAA). It is also the best-selling album in Australia with being certified 26× Platinum by the Australian Recording Industry Association (ARIA). As of June 2019, it has spent 522 weeks in the UK Albums Chart, the second longest chart run by a studio album. Rolling Stone ranked it at number 343 on its list of the 500 Greatest Albums of All Time.A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchester Opera House on February 17, 2017, before transferring to the London Coliseum and Toronto's Ed Mirvish Theatre in late 2017. From April 2, 2018, till January 5, 2019 the show was performed at the Dominion Theatre in London before a short run the same year in the United States.
 
@@ -45,6 +31,15 @@ Bat Out of Hell has sold over 43 million copies worldwide. It is certified 14× 
         
     
 
+
+## Tracklisting
+1. Bat Out Of Hell (9:48)
+2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
+3. Heaven Can Wait (4:38)
+4. All Revved Up With No Place To Go (4:19)
+5. Two Out Of Three Ain't Bad (5:23)
+6. Paradise By The Dashboard Light (8:28)
+7. For Crying Out Loud (8:45)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bat-out-of-hell-bonus-tracks-edition/153016096" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Rock", "Goth Rock"]
 ---
 
-{{< img src="product-2378-1675620.jpg" title="Product 2378 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Who Wants To Be The Disco King? (2:49)
 2. Vanishing Point (5:15)
 3. Head On (4:04)
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 14. Dizzy (3:42)
 15. December (4:44)
 16. Tower Of Strength (Bombay Edit) (10:25)
-
-<!-- section break -->
-
-
 
 
 

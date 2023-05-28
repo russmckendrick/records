@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
-{{< img src="pulsing-signals-22602818.jpg" title="Pulsing Signals by Gong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. What We Was (Intro) (1:55)
 2. You Can't Kill Me (9:02)
 3. Rejoice! (9:50)
@@ -44,10 +43,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 7. Forever Reoccurring (22:40)
 8. My Sawtooth Wake (12:43)
 9. Insert Yr Own Prophecy (10:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pulsing-signals-live/1599773680" >}}<br>

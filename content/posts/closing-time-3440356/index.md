@@ -21,10 +21,13 @@ genres: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 ---
 
-{{< img src="closing-time-3440356.jpg" title="Closing Time by Tom Waits" >}}
+Closing Time is the debut album by American singer-songwriter Tom Waits, released on March 6, 1973 on Asylum Records. Produced and arranged by former Lovin' Spoonful member Jerry Yester, Closing Time was the first of seven of Waits' major releases by Asylum.
+The album is noted for being predominantly folk influenced although Waits intended Closing Time to be "a jazz, piano-led album." Upon release, the album was mildly successful in the United States, although it did not chart and received little attention from music press in the United Kingdom and elsewhere internationally. Critical reaction to Closing Time was positive. The album's only single, "Ol' '55", attracted attention due to a cover version by Waits's more popular label mates, the Eagles. Other songs from the album were covered by Tim Buckley and Bette Midler. The album was certified Gold in the UK and has gained a contemporary cult following among rock fans. Since its release, the album has been reissued on LP in 1976, on CD in 1992 and 1999, and 180 gram LP in 2010.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ol' '55 (3:55)
 2. I Hope That I Don't Fall In Love With You (3:52)
 3. Virginia Avenue (3:22)
@@ -37,14 +40,6 @@ styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 10. Little Trip To Heaven (On The Wings Of Your Love) (3:55)
 11. Grapefruit Moon (4:46)
 12. Closing Time (3:58)
-
-<!-- section break -->
-
-Closing Time is the debut album by American singer-songwriter Tom Waits, released on March 6, 1973 on Asylum Records. Produced and arranged by former Lovin' Spoonful member Jerry Yester, Closing Time was the first of seven of Waits' major releases by Asylum.
-The album is noted for being predominantly folk influenced although Waits intended Closing Time to be "a jazz, piano-led album." Upon release, the album was mildly successful in the United States, although it did not chart and received little attention from music press in the United Kingdom and elsewhere internationally. Critical reaction to Closing Time was positive. The album's only single, "Ol' '55", attracted attention due to a cover version by Waits's more popular label mates, the Eagles. Other songs from the album were covered by Tim Buckley and Bette Midler. The album was certified Gold in the UK and has gained a contemporary cult following among rock fans. Since its release, the album has been reissued on LP in 1976, on CD in 1992 and 1999, and 180 gram LP in 2010.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closing-time-remastered/1485071375" >}}<br>

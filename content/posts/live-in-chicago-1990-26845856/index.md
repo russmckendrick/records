@@ -25,10 +25,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 ---
 
-{{< img src="live-in-chicago-1990-26845856.jpg" title="Live in Chicago 1990 by Jesus Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Move Mountains (3:55)
 2. What's Going On (3:30)
 3. Real, Real, Real (3:21)
@@ -47,10 +46,6 @@ styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 16. Bring It All Down (4:02)
 17. The Real World (3:28)
 18. Someone To Blame (4:25)
-
-<!-- section break -->
-
-
 
 
 

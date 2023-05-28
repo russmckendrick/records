@@ -31,21 +31,6 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="rush-5887416.jpg" title="Rush by Rush" >}}
-
-<!-- section break -->
-
-1. Finding My Way (5:03)
-2. Need Some Love (2:16)
-3. Take A Friend (4:27)
-4. Here Again (7:30)
-5. What You're Doing (4:19)
-6. In The Mood (3:36)
-7. Before And After (5:33)
-8. Working Man (7:07)
-
-<!-- section break -->
-
 When it came to writing his third album, George Ezra was ready to fall back on a fail-safe formula. His first two—2014’s <i>Wanted on Voyage</i> and 2018’s <i>Staying at Tamara’s</i>—were propelled by travel (across Europe and in Barcelona, respectively), and the people, places and things Ezra witnessed along the way. A mammoth walk the length of the UK was lined up to help unlock album three, but when the pandemic hit in 2020, Ezra, like the rest of us, was forced to stay put. “I was living alone in a flat in London without a balcony,” he tells Apple Music. “I did five weeks in that flat and had an awful lot of conversations with myself. [That time] made me realise how much I'd relied in the past on other people's stories. Because I'm not pinching other people's stories, you're left with your own, and that's great. It’s cathartic.”
 
 <i>Gold Rush Kid</i>, of course, houses the uplifting anthems that Ezra has built his career on (“Anyone for You”, “Gold Rush Kid”), a side of his music he will always cherish. But beneath those songs’ breezy charm lies Ezra’s most personal and horizon-broadening music yet. Born of those bracing conversations with himself, these are tracks about loneliness and yearning for love (“Sweetest Human Being Alive”), mental health (“I Went Hunting”, about Ezra’s experiences of intrusive, repetitive thoughts), the unexpected contentment he found in lockdown (“The Sun Went Down”) and just how much he wants to do all of this anyway. “The truth is, you love it. You've lived a life that you couldn't have predicted so far,” says Ezra. “I see it as a gold rush: Be the gold rush kid. ‘I'm proud of this record’, ‘it's a personal record’ is the least sincere thing you hear artists say all the time. But I think this is a moment in time for me. At this moment, it felt like the right thing to do.” Read on as the singer-songwriter walks us through each track on his touching third album, including the four exclusive songs on this Apple Music Edition in Spatial Audio. 
@@ -92,6 +77,16 @@ When it came to writing his third album, George Ezra was ready to fall back on a
         
     
 
+
+## Tracklisting
+1. Finding My Way (5:03)
+2. Need Some Love (2:16)
+3. Take A Friend (4:27)
+4. Here Again (7:30)
+5. What You're Doing (4:19)
+6. In The Mood (3:36)
+7. Before And After (5:33)
+8. Working Man (7:07)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-rush-kid-apple-music-edition/1606177911" >}}<br>

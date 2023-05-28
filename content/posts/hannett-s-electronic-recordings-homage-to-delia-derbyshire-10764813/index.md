@@ -17,10 +17,9 @@ genres: ["Electronic"]
 styles: ["Experimental", "Synthwave"]
 ---
 
-{{< img src="hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813.jpg" title="Hannett's Electronic Recordings - Homage To Delia Derbyshire by Martin Hannett" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Martin On Synths, Keyboards Etc - Track A (3:41)
 2. Homage To Delia Derbyshire, Pt. 2 (2:38)
 3. Homage To Delia Derbyshire, Pt, 3 (2:02)
@@ -39,10 +38,6 @@ styles: ["Experimental", "Synthwave"]
 16. Martin On Synths, Metronome Etc (4:04)
 17. Homage To Delia Derbyshire, Pt. 17 (2:07)
 18. Homage To Delia Derbyshire, Pt. 18 (2:12)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954" >}}<br>

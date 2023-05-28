@@ -27,21 +27,16 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Celtic", "Art Rock", "Folk Rock", "Folk"]
 ---
 
-{{< img src="return-to-ommadawn-9679634.jpg" title="Return To Ommadawn by Mike Oldfield" >}}
-
-<!-- section break -->
-
-1. Return To Ommadawn Pt. I (21:10)
-2. Return To Ommadawn Pt. II (20:57)
-
-<!-- section break -->
-
 Return to Ommadawn is the twenty-sixth and final studio album by English musician and songwriter Mike Oldfield. It was released on 20 January 2017 on Virgin EMI Records and is the sequel to his 1975 album Ommadawn. The CD/DVD-Audio set contains a 5.1 surround sound mix of the album. Return to Ommadawn is the last studio album Oldfield released before the announcement of his retirement in 2023.
 
 
     
     
 
+
+## Tracklisting
+1. Return To Ommadawn Pt. I (21:10)
+2. Return To Ommadawn Pt. II (20:57)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-ommadawn/1440893253" >}}<br>

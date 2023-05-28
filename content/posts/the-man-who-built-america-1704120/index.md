@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ---
 
-{{< img src="the-man-who-built-america-1704120.jpg" title="The Man Who Built America by Horslips" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lonelines (4:17)
 2. Tonight (You're With Me) (3:18)
 3. I'll Be Waiting (6:23)
@@ -36,10 +35,6 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 8. Long Weekend (3:46)
 9. Letters From Home (4:14)
 10. Long Time Ago (3:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329" >}}<br>

@@ -30,10 +30,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="lightsleeper-12427770.jpg" title="Lightsleeper by Neil & Liam Finn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prelude - Island Of Peace
 2. Meet Me In The Air
 3. Where's My Room
@@ -46,10 +45,6 @@ styles: []
 10. Ghosts
 11. We Know What It Means
 12. Hold Her Close
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lightsleeper/1389944005" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
 
-{{< img src="the-man-from-mo-wax-music-from-the-motion-picture-12463781.jpg" title="The Man From Mo'Wax (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit)
 2. Doin' Damage In My Native Language (Shadow’s Legitimate Remix)
 3. See And Don't See
@@ -50,10 +49,6 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 17. Reign
 18. …Like Clockwork
 19. What Does Your Soul Look Like (Part 1)
-
-<!-- section break -->
-
-
 
 
 

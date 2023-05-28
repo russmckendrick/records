@@ -21,18 +21,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="one-for-sorrow-ep-6347922.jpg" title="One For Sorrow EP by The Anchoress" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. One For Sorrow (3:26)
 2. Once Upon A Lie (3:32)
 3. Long Year (3:55)
 4. One For Sorrow (Philip Reach Requiem Mix) (4:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-for-sorrow-ep/909495393" >}}<br>

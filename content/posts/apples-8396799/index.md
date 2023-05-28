@@ -15,10 +15,12 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="apples-8396799.jpg" title="Apples by Ian Dury" >}}
+Apples is the sixth studio album by Ian Dury, released in October 1989 by WEA. It was the soundtrack to his short-lived stage-show of same name though it was recorded before the show opened. The album contains twelve of the twenty tracks from the show. The album was reissued with no bonus tracks on 31 October 2011 by Edsel Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Apples
 2. Love It All
 3. Byline Browne
@@ -31,13 +33,6 @@ styles: ["New Wave"]
 10. The Right People
 11. All Those Who Say Okay
 12. Riding The Outskirts Of Fantasy
-
-<!-- section break -->
-
-Apples is the sixth studio album by Ian Dury, released in October 1989 by WEA. It was the soundtrack to his short-lived stage-show of same name though it was recorded before the show opened. The album contains twelve of the twenty tracks from the show. The album was reissued with no bonus tracks on 31 October 2011 by Edsel Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/apples/1298010028" >}}<br>

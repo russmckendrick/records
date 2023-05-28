@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="fauna-26288243.jpg" title="Fauna by Haken" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Taurus
 2. Nightingale
 3. The Alphabet Of Me
@@ -40,10 +39,6 @@ styles: ["Progressive Metal"]
 7. Lovebite
 8. Elephants Never Forget
 9. Eyes Of Ebony
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fauna/1650860109" >}}<br>

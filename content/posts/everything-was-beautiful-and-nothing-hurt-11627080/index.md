@@ -28,10 +28,12 @@ genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 ---
 
-{{< img src="everything-was-beautiful-and-nothing-hurt-11627080.jpg" title="Everything Was Beautiful, And Nothing Hurt by Moby" >}}
+Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by American electronic musician Moby. It was released on March 2, 2018 by the record labels Little Idiot and Mute.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mere Anarchy
 2. The Waste Of Suns
 3. Like A Motherless Child
@@ -44,13 +46,6 @@ styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 10. The Middle Is Gone
 11. This Wild Darkness
 12. A Dark Cloud Is Coming
-
-<!-- section break -->
-
-Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by American electronic musician Moby. It was released on March 2, 2018 by the record labels Little Idiot and Mute.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}<br>

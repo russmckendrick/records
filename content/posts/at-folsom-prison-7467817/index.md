@@ -25,10 +25,15 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="at-folsom-prison-7467817.jpg" title="At Folsom Prison by Johnny Cash" >}}
+Though the term "outlaw country" wasn’t yet coined when Johnny Cash recorded <i>At Folsom Prison</i> in 1968, it's tough to imagine a more literal example. Cash's status as a country superstar was fading by the late ’60s, but the raw excitement and immediacy of the album he made in front of a roomful of convicts at California's Folsom State Prison brought him back into the spotlight and earned him a whole new audience. Cash started his sets for years with one of his first big hits, 1955’s stark jailhouse tale "Folsom Prison Blues," and naturally that song kicks things off here. <br />
+Cash had always shunned the trappings of stardom, and his uncompromising, black-clad, champion-of-the-underdog persona and rough-edged style helped him connect with the Folsom prisoners. With his faithful Tennessee Three offering their typically terse, barbed-wire backing, Cash sounds energized by the event. He throws himself into tough-minded stompers like "Cocaine Blues" and the death-row rave-up "25 Minutes to Go" with wild-eyed abandon, sometimes sounding nearly unhinged. <br />
+He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chapel" (the latter written by Folsom inmate Glen Sherley), giving them a superhuman degree of gravitas. He even finds time to lighten things up with the jokey (but still suitably gritty) "Dirty Old Egg-Suckin' Dog" and "Flushed from the Bathroom of Your Heart." Cash would go on to record more prison concert albums, including 1969's legendary <i>At San Quentin</i>, but before <i>Folsom</i>, nobody would have pegged a state pen as a catalyst for an iconic performance, much less a career turnaround.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Opening Announcements From Hugh Cherry (1:01)
 2. Blue Suede Shoes (3:31)
 3. This Ole House (1:38)
@@ -54,16 +59,6 @@ styles: ["Country"]
 23. Green, Green Grass Of Home (3:19)
 24. Greystone Chapel (2:49)
 25. Closing Announcements (1:46)
-
-<!-- section break -->
-
-Though the term "outlaw country" wasn’t yet coined when Johnny Cash recorded <i>At Folsom Prison</i> in 1968, it's tough to imagine a more literal example. Cash's status as a country superstar was fading by the late ’60s, but the raw excitement and immediacy of the album he made in front of a roomful of convicts at California's Folsom State Prison brought him back into the spotlight and earned him a whole new audience. Cash started his sets for years with one of his first big hits, 1955’s stark jailhouse tale "Folsom Prison Blues," and naturally that song kicks things off here. <br />
-Cash had always shunned the trappings of stardom, and his uncompromising, black-clad, champion-of-the-underdog persona and rough-edged style helped him connect with the Folsom prisoners. With his faithful Tennessee Three offering their typically terse, barbed-wire backing, Cash sounds energized by the event. He throws himself into tough-minded stompers like "Cocaine Blues" and the death-row rave-up "25 Minutes to Go" with wild-eyed abandon, sometimes sounding nearly unhinged. <br />
-He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chapel" (the latter written by Folsom inmate Glen Sherley), giving them a superhuman degree of gravitas. He even finds time to lighten things up with the jokey (but still suitably gritty) "Dirty Old Egg-Suckin' Dog" and "Flushed from the Bathroom of Your Heart." Cash would go on to record more prison concert albums, including 1969's legendary <i>At San Quentin</i>, but before <i>Folsom</i>, nobody would have pegged a state pen as a catalyst for an iconic performance, much less a career turnaround.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at-folsom-prison-live/825516828" >}}<br>

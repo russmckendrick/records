@@ -19,19 +19,14 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ---
 
-{{< img src="live-from-the-nave-16206289.jpg" title="Live From The Nave by bdrmm" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Momo (3:14)
 2. Push / Pull (4:49)
 3. Is That What You Wanted To Hear? (4:32)
 4. Forget The Credits (6:28)
 5. Shame (5:28)
-
-<!-- section break -->
-
-
 
 
 

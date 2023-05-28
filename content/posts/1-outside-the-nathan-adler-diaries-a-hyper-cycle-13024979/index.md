@@ -25,10 +25,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ---
 
-{{< img src="1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979.jpg" title="1. Outside (The Nathan Adler Diaries: A Hyper Cycle) by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Leon Takes Us Outside (1:24)
 2. Outside (4:04)
 3. The Hearts Filthy Lesson (4:56)
@@ -48,10 +47,6 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 17. Thru' These Architects Eyes (4:20)
 18. Segue - Nathan Adler (Version #2) (0:28)
 19. Strangers When We Meet (5:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1061940454" >}}<br>

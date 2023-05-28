@@ -29,20 +29,15 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="the-manmachine-2058334.jpg" title="The Man•Machine by Kraftwerk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Robots (6:13)
 2. Spacelab (5:57)
 3. Metropolis (6:01)
 4. The Model (3:41)
 5. Neon Lights (8:53)
 6. The Man•Machine (5:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-man-machine-remastered/726157248" >}}<br>

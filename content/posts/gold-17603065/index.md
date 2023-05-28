@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="gold-17603065.jpg" title="Gold by Dr. Hook" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sylvia's Mother
 2. The Cover Of “Rolling Stone”
 3. Carry Me, Carrie
@@ -39,10 +38,6 @@ styles: []
 16. Sexy Eyes
 17. Better Love Next Time
 18. Baby Makes Her Blue Jeans Talk
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920" >}}<br>

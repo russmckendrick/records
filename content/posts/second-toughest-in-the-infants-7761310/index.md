@@ -28,10 +28,14 @@ genres: ["Electronic"]
 styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 ---
 
-{{< img src="second-toughest-in-the-infants-7761310.jpg" title="Second Toughest In The Infants by Underworld" >}}
+Second Toughest in the Infants is the fourth studio album by British electronic music group Underworld, and the second in their "MK2" line-up with Darren Emerson. With this album, Underworld expanded on their progressive palette, while developing their signature sound of abrasive beats and anthemic melodies. The name of the album derives from a comment made by member Rick Smith's six-year-old nephew, Simon Prosser, when asked on his progress at infant school (the level of schooling attended by four- to seven-year-old children in the United Kingdom). Second Toughest featured the single "Pearl's Girl". The re-issue featured the band's best known single, "Born Slippy .NUXX".
+The album was remastered and re-released on 20 November 2015 with deluxe and super-deluxe expanded editions.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Juanita : Kiteless : To Dream Of Love (16:36)
 2. Banstyle / Sappys Curry (15:22)
 3. Confusion The Waitress (6:47)
@@ -40,15 +44,6 @@ styles: ["Techno", "Breakbeat", "Progressive House", "Ambient"]
 6. Air Towel (7:37)
 7. Blueski (2:55)
 8. Stagger (7:37)
-
-<!-- section break -->
-
-Second Toughest in the Infants is the fourth studio album by British electronic music group Underworld, and the second in their "MK2" line-up with Darren Emerson. With this album, Underworld expanded on their progressive palette, while developing their signature sound of abrasive beats and anthemic melodies. The name of the album derives from a comment made by member Rick Smith's six-year-old nephew, Simon Prosser, when asked on his progress at infant school (the level of schooling attended by four- to seven-year-old children in the United Kingdom). Second Toughest featured the single "Pearl's Girl". The re-issue featured the band's best known single, "Born Slippy .NUXX".
-The album was remastered and re-released on 20 November 2015 with deluxe and super-deluxe expanded editions.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/second-toughest-in-the-infants-remastered/1443227490" >}}<br>

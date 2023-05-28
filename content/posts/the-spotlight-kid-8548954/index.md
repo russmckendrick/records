@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Avantgarde"]
 ---
 
-{{< img src="the-spotlight-kid-8548954.jpg" title="The Spotlight Kid by Captain Beefheart" >}}
+The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 1972, it is the only album credited solely to Captain Beefheart (Don Van Vliet) rather than Captain Beefheart and his Magic Band, although every member is featured, and its material is considered part of the band's repertoire.  Often cited as one of the most accessible of Beefheart's albums, it is solidly founded in the blues but also uses instruments such as marimba and jingle bells that are not typical of that genre. The incarnation of the Magic Band on this album was Bill Harkleroad and Elliot Ingber, guitars; Mark Boston, bass; John French, drums; and Art Tripp, marimba. Session drummer Rhys Clark substituted for French on one track, "Glider".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Gonna Booglarize You Baby (4:34)
 2. White Jam (2:57)
 3. Blabber 'N Smoke (2:48)
@@ -37,13 +39,6 @@ styles: ["Blues Rock", "Avantgarde"]
 8. Grow Fins (3:31)
 9. There Ain't No Santa Claus On The Evenin' Stage (3:13)
 10. Glider (4:37)
-
-<!-- section break -->
-
-The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 1972, it is the only album credited solely to Captain Beefheart (Don Van Vliet) rather than Captain Beefheart and his Magic Band, although every member is featured, and its material is considered part of the band's repertoire.  Often cited as one of the most accessible of Beefheart's albums, it is solidly founded in the blues but also uses instruments such as marimba and jingle bells that are not typical of that genre. The incarnation of the Magic Band on this album was Bill Harkleroad and Elliot Ingber, guitars; Mark Boston, bass; John French, drums; and Art Tripp, marimba. Session drummer Rhys Clark substituted for French on one track, "Glider".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-spotlight-kid/415006591" >}}<br>

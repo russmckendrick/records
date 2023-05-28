@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock", "Reggae"]
 styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
 
-{{< img src="fireworks-city-19344019.jpg" title="Fireworks City by Audioweb" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Policeman Skank... (The Story Of My Life) (4:33)
 2. Test The Theory (3:44)
 3. Personal Feeling (4:42)
@@ -34,10 +33,6 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 9. Control (4:20)
 10. Out Of My Mind (3:27)
 11. Get Out Of Here (3:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fireworks-city/1469551559" >}}<br>

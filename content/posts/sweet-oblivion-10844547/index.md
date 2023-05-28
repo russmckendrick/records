@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="sweet-oblivion-10844547.jpg" title="Sweet Oblivion by Screaming Trees" >}}
+Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of “Nearly Lost You”. The band's biggest hit, “Nearly Lost You” benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
+Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.
+Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Shadow Of The Season (4:34)
 2. Nearly Lost You (4:07)
 3. Dollar Bill (4:35)
@@ -37,15 +41,6 @@ styles: ["Alternative Rock", "Grunge"]
 9. Troubled Times (5:20)
 10. No One Knows (5:13)
 11. Julie Paradise (5:05)
-
-<!-- section break -->
-
-Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of “Nearly Lost You”. The band's biggest hit, “Nearly Lost You” benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
-Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.
-Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sweet-oblivion/157316025" >}}<br>

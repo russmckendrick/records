@@ -28,10 +28,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="we-were-dead-before-the-ship-even-sank-2075825.jpg" title="We Were Dead Before The Ship Even Sank by Modest Mouse" >}}
+We Were Dead Before the Ship Even Sank is the fifth studio album by American alternative rock band Modest Mouse, released in 2007. It followed their previous studio album, 2004's Good News for People Who Love Bad News. It is the band's only full-length with former Smiths guitarist Johnny Marr as a member. It is also their last with founding member and bassist Eric Judy.  It has a strong nautical theme and was originally envisioned as a concept album about a boat crew that dies in every song.This album was certified Gold by the RIAA on June 11, 2009. As of February 2015, it has sold 649,000 copies in the US.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 1 Unum
 2. March Into The Sea (3:30)
 3. Dashboard (4:06)
@@ -50,14 +53,6 @@ styles: ["Indie Rock"]
 16. Spitting Venom (8:27)
 17. People As Places As People (3:42)
 18. Invisible (3:59)
-
-<!-- section break -->
-
-We Were Dead Before the Ship Even Sank is the fifth studio album by American alternative rock band Modest Mouse, released in 2007. It followed their previous studio album, 2004's Good News for People Who Love Bad News. It is the band's only full-length with former Smiths guitarist Johnny Marr as a member. It is also their last with founding member and bassist Eric Judy.  It has a strong nautical theme and was originally envisioned as a concept album about a boat crew that dies in every song.This album was certified Gold by the RIAA on June 11, 2009. As of February 2015, it has sold 649,000 copies in the US.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-were-dead-before-the-ship-even-sank/216544035" >}}<br>

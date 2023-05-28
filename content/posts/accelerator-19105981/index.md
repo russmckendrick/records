@@ -21,10 +21,12 @@ genres: ["Electronic"]
 styles: ["Techno"]
 ---
 
-{{< img src="accelerator-19105981.jpg" title="Accelerator by The Future Sound Of London" >}}
+Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Expander (5:38)
 2. Stolen Documents (5:10)
 3. While Others Cry (4:14)
@@ -35,13 +37,6 @@ styles: ["Techno"]
 8. 1 in 8 (4:56)
 9. Pulse State (7:14)
 10. Central Industrial (4:19)
-
-<!-- section break -->
-
-Accelerator is the debut studio album by British electronic group the Future Sound of London. It was released in April 1992 by the record label Jumpin' & Pumpin'. It includes the hit single "Papua New Guinea".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/accelerator-deluxe/151039580" >}}<br>

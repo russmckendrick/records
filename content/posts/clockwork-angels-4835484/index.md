@@ -29,10 +29,16 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="clockwork-angels-4835484.jpg" title="Clockwork Angels by Rush" >}}
+Clockwork Angels is the nineteenth and final studio album by Canadian rock band Rush, released on June 12, 2012, on Roadrunner Records. During the band's year-and-a-half break following its Snakes & Arrows Tour, the group decided to write a new studio album. The album was recorded in April 2010 at Blackbird Studio in Nashville, Tennessee, and from October to December 2011 at Revolution Recording in Toronto, Ontario, Canada.Two songs that would eventually appear on the album, "Caravan" and "BU2B," were released to radio stations and made available as a digital download on June 1, 2010. Following the release of the two songs, the band embarked on the Time Machine Tour, with "Caravan" and "BU2B" included in the set list. Clockwork Angels was completed following this tour. The album's second single, "Headlong Flight," was released April 19, 2012. The album's third single, "The Wreckers," was released July 25, 2012. On February 20, 2013, "The Anarchist" was released as the fourth and final single. A 10" picture disc single of the song "The Garden" was released as part of the 2013 Record Store Day Black Friday sale, limited to 3,000 copies.
+The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. The album won the award for Rock Album of the Year at the 2013 Juno Awards.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Caravan (5:40)
 2. BU2B (5:10)
 3. Clockwork Angels (7:31)
@@ -45,17 +51,6 @@ styles: ["Hard Rock", "Prog Rock"]
 10. BU2B2 (1:28)
 11. Wish Them Well (5:25)
 12. The Garden (6:59)
-
-<!-- section break -->
-
-Clockwork Angels is the nineteenth and final studio album by Canadian rock band Rush, released on June 12, 2012, on Roadrunner Records. During the band's year-and-a-half break following its Snakes & Arrows Tour, the group decided to write a new studio album. The album was recorded in April 2010 at Blackbird Studio in Nashville, Tennessee, and from October to December 2011 at Revolution Recording in Toronto, Ontario, Canada.Two songs that would eventually appear on the album, "Caravan" and "BU2B," were released to radio stations and made available as a digital download on June 1, 2010. Following the release of the two songs, the band embarked on the Time Machine Tour, with "Caravan" and "BU2B" included in the set list. Clockwork Angels was completed following this tour. The album's second single, "Headlong Flight," was released April 19, 2012. The album's third single, "The Wreckers," was released July 25, 2012. On February 20, 2013, "The Anarchist" was released as the fourth and final single. A 10" picture disc single of the song "The Garden" was released as part of the 2013 Record Store Day Black Friday sale, limited to 3,000 copies.
-The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. The album won the award for Rock Album of the Year at the 2013 Juno Awards.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clockwork-angels/522093869" >}}<br>

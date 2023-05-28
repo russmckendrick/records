@@ -23,10 +23,16 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-stone-roses-19606036.jpg" title="The Stone Roses by The Stone Roses" >}}
+The Stone Roses were an English rock band formed in Manchester in 1983. One of the pioneering groups of the Madchester movement in the late 1980s and early 1990s, the band's classic and most prominent lineup consisted of vocalist Ian Brown, guitarist John Squire, bassist Mani and drummer Reni.
+The band released their debut album, The Stone Roses, in 1989. The album was a breakthrough success for the band and received critical acclaim, many regarding it as one of the greatest British albums ever recorded. At this time the group decided to capitalise on their success by signing to a major label. Their record label at the time, Silvertone, would not let them out of their contract, which led to a long legal battle that culminated with the band signing with Geffen Records in 1991.
+The Stone Roses released their second album, Second Coming, in 1994, which received mixed reviews. The group soon disbanded after several line-up changes throughout the supporting tour, which began with Reni departing in early 1995, followed by Squire in April 1996. Brown and Mani dissolved the remains of the group in October 1996 following their appearance at Reading Festival.
+Following much intensified media speculation, the Stone Roses called a press conference on 18 October 2011 to announce that the band had reunited and would perform a reunion world tour in 2012, including three homecoming shows in Heaton Park, Manchester. Plans to record a third album in the future were also floated but only two singles were released. In June 2012, Chris Coghill, the writer of a new film which is set during the Stone Roses 1990 Spike Island show, revealed that the band "have at least three or four new tracks recorded". In June 2013, a documentary about the band's reformation directed by Shane Meadows and titled The Stone Roses: Made of Stone was released.In 2016, the Stone Roses released their first new material in two decades. The band members continued to tour until June 2017, at which point cryptic remarks by Brown indicated the band had split again, which was later confirmed in a 2019 interview with Squire.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Other Side
 2. I Wanna Be Adored
 3. She Bangs The Drums
@@ -40,17 +46,6 @@ styles: ["Indie Rock"]
 11. Shoot You Down
 12. This Is The One
 13. I Am The Resurrection
-
-<!-- section break -->
-
-The Stone Roses were an English rock band formed in Manchester in 1983. One of the pioneering groups of the Madchester movement in the late 1980s and early 1990s, the band's classic and most prominent lineup consisted of vocalist Ian Brown, guitarist John Squire, bassist Mani and drummer Reni.
-The band released their debut album, The Stone Roses, in 1989. The album was a breakthrough success for the band and received critical acclaim, many regarding it as one of the greatest British albums ever recorded. At this time the group decided to capitalise on their success by signing to a major label. Their record label at the time, Silvertone, would not let them out of their contract, which led to a long legal battle that culminated with the band signing with Geffen Records in 1991.
-The Stone Roses released their second album, Second Coming, in 1994, which received mixed reviews. The group soon disbanded after several line-up changes throughout the supporting tour, which began with Reni departing in early 1995, followed by Squire in April 1996. Brown and Mani dissolved the remains of the group in October 1996 following their appearance at Reading Festival.
-Following much intensified media speculation, the Stone Roses called a press conference on 18 October 2011 to announce that the band had reunited and would perform a reunion world tour in 2012, including three homecoming shows in Heaton Park, Manchester. Plans to record a third album in the future were also floated but only two singles were released. In June 2012, Chris Coghill, the writer of a new film which is set during the Stone Roses 1990 Spike Island show, revealed that the band "have at least three or four new tracks recorded". In June 2013, a documentary about the band's reformation directed by Shane Meadows and titled The Stone Roses: Made of Stone was released.In 2016, the Stone Roses released their first new material in two decades. The band members continued to tour until June 2017, at which point cryptic remarks by Brown indicated the band had split again, which was later confirmed in a 2019 interview with Squire.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-stone-roses-remastered/322969529" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
 
-{{< img src="pigeonhole-3580224.jpg" title="Pigeonhole by New Fast Automatic Daffodils" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Better
 2. Fishes Eyes
 3. Working For Him
@@ -34,10 +33,6 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 7. Amplifier
 8. Reprise
 9. Partial
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pigeonhole/201482702" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
 
-{{< img src="mandy-original-motion-picture-soundtrack-12558374.jpg" title="Mandy (Original Motion Picture Soundtrack) by Jóhann Jóhannsson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Seeker Of The Serpent's Eye  (2:11)
 2. Starling (2:15)
 3. Mandy Love Theme (4:38)
@@ -46,10 +45,6 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 13. Burning Church (1:37)
 14. Memories (2:34)
 15. Children Of The New Dawn (5:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378" >}}<br>

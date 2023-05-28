@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-{{< img src="the-charlatans-20376190.jpg" title="The Charlatans by The Charlatans" >}}
+This is a discography by the indie British rock band The Charlatans.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nine Acre Court (3:45)
 2. Feeling Holy (5:16)
 3. Just Lookin' (3:49)
@@ -46,13 +48,6 @@ styles: ["Britpop", "Indie Rock"]
 11. No Fiction (3:39)
 12. See It Through (4:07)
 13. Thank You (3:35)
-
-<!-- section break -->
-
-This is a discography by the indie British rock band The Charlatans.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-charlatans/1136815128" >}}<br>

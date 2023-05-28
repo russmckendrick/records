@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="in-the-wild-24106940.jpg" title="In The Wild by The Interrupters" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Anything Was Better
 2. As We Live
 3. Raised By Wolves
@@ -43,10 +42,6 @@ styles: ["Punk", "Ska"]
 12. Love Never Dies
 13. Afterthought
 14. Alien
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-wild-deluxe-edition/1680571234" >}}<br>

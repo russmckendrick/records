@@ -16,10 +16,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 ---
 
-{{< img src="do-it-yourself-6288194.jpg" title="Do It Yourself by Ian Dury And The Blockheads" >}}
+Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first album to be credited to Ian Dury & the Blockheads rather than Ian Dury alone, although Dury had used the full band name for the "What a Waste" 7" single of 1978. The album was released in the wake of the chart-topping hit single "Hit Me with Your Rhythm Stick", and reached number two in the charts, behind ABBA's Voulez-Vous. Do It Yourself sold around 200,000 copies, and was Dury's second Platinum album (after its predecessor New Boots and Panties!!).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Inbetweenies (5:16)
 2. Quiet (3:33)
 3. Don't Ask Me (3:16)
@@ -30,13 +32,6 @@ styles: ["New Wave", "Dub", "Pop Rock", "Disco"]
 8. Mischief (3:35)
 9. Dance Of The Screamers (6:35)
 10. Lullaby For Francies (4:58)
-
-<!-- section break -->
-
-Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first album to be credited to Ian Dury & the Blockheads rather than Ian Dury alone, although Dury had used the full band name for the "What a Waste" 7" single of 1978. The album was released in the wake of the chart-topping hit single "Hit Me with Your Rhythm Stick", and reached number two in the charts, behind ABBA's Voulez-Vous. Do It Yourself sold around 200,000 copies, and was Dury's second Platinum album (after its predecessor New Boots and Panties!!).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/do-it-yourself/1489404416" >}}<br>

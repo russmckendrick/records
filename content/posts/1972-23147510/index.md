@@ -21,23 +21,18 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Rock & Roll", "Glam", "Classic Rock", "Southern Rock", "Funk"]
 ---
 
-{{< img src="1972-23147510.jpg" title="1972 by The Black Crowes" >}}
+1972 is a studio EP by American rock band the Black Crowes, released on May 4, 2022. It is an album of cover songs.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rocks Off
 2. The Slider
 3. You Wear It Well
 4. Easy To Slip
 5. Moonage Daydream
 6. Papa Was A Rollin’ Stone
-
-<!-- section break -->
-
-1972 is a studio EP by American rock band the Black Crowes, released on May 4, 2022. It is an album of cover songs.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1972-ep/1649880264" >}}<br>

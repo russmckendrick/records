@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-{{< img src="hip-to-the-jag-15073542.jpg" title="Hip To The Jag by Kavus Torabi" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chart The Way
 2. Silent The Rotor
 3. A Body Of Work
@@ -36,10 +35,6 @@ styles: ["Psychedelic Rock"]
 8. My Cold Rebirth
 9. Where The Eyeless Walk
 10. Slow Movements
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}<br>

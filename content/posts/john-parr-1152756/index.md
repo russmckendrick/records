@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
 
-{{< img src="john-parr-1152756.jpg" title="John Parr by John Parr" >}}
+John Parr is the self-titled debut album by John Parr, released in 1984. It contains 3 Billboard Top 100 songs: "Magical" which peaked at #73, "Love Grammar" at #89, and the biggest of the three, "Naughty Naughty", which peaked at #23 and was a top 10 AOR hit.
+"St. Elmo's Fire (Man in Motion)" is included on the 1985 London Records issue of the album (#LONLP 12) in the UK. It hit number one on the Billboard Hot 100 on September 7, 1985, remaining there for two weeks. It was the main theme for the Joel Schumacher's 1985 film St. Elmo's Fire. The song also peaked at number six in the UK, Parr's home country and became a number-one hit for John Parr around the world and provided many awards and a Grammy nomination.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Magical
 2. Naughty Naughty
 3. Love Grammar
@@ -35,14 +38,6 @@ styles: ["Hard Rock", "Pop Rock"]
 8. Heartbreaker
 9. Somebody Stole My Thunder
 10. Don't Leave Your Mark On Me
-
-<!-- section break -->
-
-John Parr is the self-titled debut album by John Parr, released in 1984. It contains 3 Billboard Top 100 songs: "Magical" which peaked at #73, "Love Grammar" at #89, and the biggest of the three, "Naughty Naughty", which peaked at #23 and was a top 10 AOR hit.
-"St. Elmo's Fire (Man in Motion)" is included on the 1985 London Records issue of the album (#LONLP 12) in the UK. It hit number one on the Billboard Hot 100 on September 7, 1985, remaining there for two weeks. It was the main theme for the Joel Schumacher's 1985 film St. Elmo's Fire. The song also peaked at number six in the UK, Parr's home country and became a number-one hit for John Parr around the world and provided many awards and a Grammy nomination.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/st-elmos-fire-anniversary-edition-single/711914155" >}}<br>

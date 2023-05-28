@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="live-at-the-cabaret-metro-chicago-1993-8397771.jpg" title="Live At The Cabaret Metro - Chicago 1993 by The Smashing Pumpkins" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rocket
 2. Quiet
 3. Today
@@ -32,10 +31,6 @@ styles: ["Alternative Rock"]
 9. Hummer
 10. Silverfuck
 11. Mayonaise
-
-<!-- section break -->
-
-
 
 
 

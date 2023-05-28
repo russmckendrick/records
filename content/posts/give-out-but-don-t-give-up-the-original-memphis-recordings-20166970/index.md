@@ -17,10 +17,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-{{< img src="give-out-but-don-t-give-up-the-original-memphis-recordings-20166970.jpg" title="Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jailbird
 2. Rocks
 3. Call On Me
@@ -47,10 +46,6 @@ styles: []
 24. Free (Early Rehearsal Sitar / Piano / Bobby Vocal)
 25. Cry Myself Blind (Monitor Mix) / Big Jet Plane (Sitar Version)
 26. All I Have To Do Is Dream
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}<br>

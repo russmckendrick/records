@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="the-second-brightest-star-10470066.jpg" title="The Second Brightest Star by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Second Brightest Star
 2. Haymaking
 3. The Passing Widow
@@ -32,10 +31,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 9. Brooklands Sequence
 10. London Plane Sequence
 11. The Gentlemen's Reprise
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}<br>

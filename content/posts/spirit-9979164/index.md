@@ -31,10 +31,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="spirit-9979164.jpg" title="Spirit by Depeche Mode" >}}
+Depeche Mode’s lyrics have been so consumed by personal anxieties during the latter half of their career that it’s startling to hear some explicitly political songs here. Stripping back their blues influences in favor of muscular electronics, they rage against apathy and the ruling classes on “Going Backwards”, “Where’s the Revolution,” and “Scum”. However, it’s in the more optimistic and confessional moments—Krautrock peace anthem “So Much Love” and distorted Motown ballad “Poison Heart”—that <i>Spirit</i> truly excels.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Going Backwards (5:41)
 2. Where's The Revolution (4:57)
 3. The Worst Crime (3:47)
@@ -47,14 +50,6 @@ styles: ["Synth-pop"]
 10. Poorman (4:25)
 11. No More (This Is The Last Time) (3:12)
 12. Fail (5:06)
-
-<!-- section break -->
-
-Depeche Mode’s lyrics have been so consumed by personal anxieties during the latter half of their career that it’s startling to hear some explicitly political songs here. Stripping back their blues influences in favor of muscular electronics, they rage against apathy and the ruling classes on “Going Backwards”, “Where’s the Revolution,” and “Scum”. However, it’s in the more optimistic and confessional moments—Krautrock peace anthem “So Much Love” and distorted Motown ballad “Poison Heart”—that <i>Spirit</i> truly excels.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spirit-deluxe/1199983730" >}}<br>

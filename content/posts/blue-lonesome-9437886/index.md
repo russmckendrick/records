@@ -30,10 +30,12 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Chicago Blues"]
 ---
 
-{{< img src="blue-lonesome-9437886.jpg" title="Blue & Lonesome by The Rolling Stones" >}}
+American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</i> is a greasy, grimy tribute to their blues heroes. Deep cuts by the likes of Jimmy Reed, Howlin’ Wolf, Magic Sam, and Little Walter are delivered with soulful reverence, showing that even rock ‘n’ roll legends are still just music fans at heart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Just Your Fool (2:19)
 2. Commit A Crime (3:41)
 3. Blue And Lonesome (3:10)
@@ -46,13 +48,6 @@ styles: ["Electric Blues", "Chicago Blues"]
 10. Little Rain (3:33)
 11. Just Like I Treat You (3:26)
 12. I Can't Quit You Baby (5:13)
-
-<!-- section break -->
-
-American blues has long been part of the Stones’ DNA, and <i>Blue & Lonesome</i> is a greasy, grimy tribute to their blues heroes. Deep cuts by the likes of Jimmy Reed, Howlin’ Wolf, Magic Sam, and Little Walter are delivered with soulful reverence, showing that even rock ‘n’ roll legends are still just music fans at heart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-lonesome/1440863936" >}}<br>

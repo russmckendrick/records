@@ -21,10 +21,14 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 ---
 
-{{< img src="gris-gris-4673220.jpg" title="Gris-Gris by Dr. John" >}}
+Gris-Gris (stylized as GRIS-gris, , named for a kind of talisman) is the debut album by American musician Dr. John (a.k.a. Mac Rebennack). Produced by Harold Battiste, it was released on Atco Records in 1968. The album introduced Rebennack's Dr. John character, inspired by a reputed 19th century voodoo doctor. The style of Gris-Gris is a hybrid of New Orleans R&B and psychedelia. It was recorded in California, albeit with several native New Orleans musicians.
+Gris-Gris failed to chart in the United Kingdom and the United States. It was re-issued on compact disc decades later and received much greater praise from modern critics, including being listed at number 143 on the 2003 and 2012 editions and at number 356 on the 2020 edition of Rolling Stone magazine's list of the 500 greatest albums of all time.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gris-Gris Gumbo Ya Ya (5:34)
 2. Danse Kalinda Ba Doom (3:44)
 3. Mama Roux (2:55)
@@ -32,15 +36,6 @@ styles: ["Louisiana Blues", "Fusion", "Bayou Funk"]
 5. Croker Courtbullion (5:57)
 6. Jump Sturdy (2:19)
 7. I Walk On Guilded Splinters (7:57)
-
-<!-- section break -->
-
-Gris-Gris (stylized as GRIS-gris, , named for a kind of talisman) is the debut album by American musician Dr. John (a.k.a. Mac Rebennack). Produced by Harold Battiste, it was released on Atco Records in 1968. The album introduced Rebennack's Dr. John character, inspired by a reputed 19th century voodoo doctor. The style of Gris-Gris is a hybrid of New Orleans R&B and psychedelia. It was recorded in California, albeit with several native New Orleans musicians.
-Gris-Gris failed to chart in the United Kingdom and the United States. It was re-issued on compact disc decades later and received much greater praise from modern critics, including being listed at number 143 on the 2003 and 2012 editions and at number 356 on the 2020 edition of Rolling Stone magazine's list of the 500 greatest albums of all time.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}<br>

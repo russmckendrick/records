@@ -42,10 +42,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="rattle-that-lock-7252492.jpg" title="Rattle That Lock by David Gilmour" >}}
+Rattle That Lock is the fourth solo studio album by former Pink Floyd singer and guitarist David Gilmour. It was released on 18 September 2015 via Columbia Records. The artwork for the album was created by Dave Stansbie from The Creative Corporation under the direction of Aubrey Powell, who has worked with Gilmour and Pink Floyd since the late 1960s.The album received generally positive reviews from critics and was a commercial success, becoming Gilmour's second UK no.1 solo album. Gilmour supported the album with the Rattle That Lock Tour throughout 2015 and 2016, with a performance from the tour at the Amphitheatre of Pompeii being made into the live album and video, Live at Pompeii (2017).
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 5 A.M.
 2. Rattle That Lock
 3. Faces Of Stone
@@ -56,14 +59,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. The Girl In The Yellow Dress
 9. Today
 10. And Then...
-
-<!-- section break -->
-
-Rattle That Lock is the fourth solo studio album by former Pink Floyd singer and guitarist David Gilmour. It was released on 18 September 2015 via Columbia Records. The artwork for the album was created by Dave Stansbie from The Creative Corporation under the direction of Aubrey Powell, who has worked with Gilmour and Pink Floyd since the late 1960s.The album received generally positive reviews from critics and was a commercial success, becoming Gilmour's second UK no.1 solo album. Gilmour supported the album with the Rattle That Lock Tour throughout 2015 and 2016, with a performance from the tour at the Amphitheatre of Pompeii being made into the live album and video, Live at Pompeii (2017).
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rattle-that-lock-deluxe/1018308980" >}}<br>

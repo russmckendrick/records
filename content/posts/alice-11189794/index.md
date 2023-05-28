@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-{{< img src="alice-11189794.jpg" title="Alice by Tom Waits" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Alice
 2. Everything You Can Think
 3. Flower's Grave
@@ -46,10 +45,6 @@ styles: ["Alternative Rock", "Experimental"]
 13. Fish & Bird
 14. Barcarolle
 15. Fawn
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/alice-anniversary-edition/1646707007" >}}<br>

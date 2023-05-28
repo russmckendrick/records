@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="me-myself-i-2414265.jpg" title="Me Myself I by Joan Armatrading" >}}
+Me Myself I is the sixth studio album by British recording artist Joan Armatrading. Released in May 1980, the album was Armatrading's highest ever chart placing both in the UK (number 5) and in the US (number 28).  In Australia, the album peaked at number 13. It was certified "Gold" in the UK by the BPI in July 1980.
+The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Me Myself I (3:16)
 2. Ma-Me-O-Beach (3:00)
 3. Friends (3:05)
@@ -37,14 +40,6 @@ styles: ["Pop Rock"]
 8. Feeling In My Heart (For You) (3:36)
 9. Simon (3:40)
 10. I Need You (2:44)
-
-<!-- section break -->
-
-Me Myself I is the sixth studio album by British recording artist Joan Armatrading. Released in May 1980, the album was Armatrading's highest ever chart placing both in the UK (number 5) and in the US (number 28).  In Australia, the album peaked at number 13. It was certified "Gold" in the UK by the BPI in July 1980.
-The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/me-myself-i/1443914431" >}}<br>

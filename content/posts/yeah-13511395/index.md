@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="yeah-13511395.jpg" title="Yeah by The Wannadies" >}}
+Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia and spring 2000 in the UK.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Love Myself (3:07)
 2. Yeah (3:08)
 3. No Holiday (3:12)
@@ -38,13 +40,6 @@ styles: ["Alternative Rock"]
 12. Friend Or Foe (5:01)
 13. Ball (2:53)
 14. ...Have Another One (2:52)
-
-<!-- section break -->
-
-Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia and spring 2000 in the UK.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yeah/270581696" >}}<br>

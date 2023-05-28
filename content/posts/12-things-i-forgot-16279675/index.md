@@ -19,17 +19,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
 
-{{< img src="12-things-i-forgot-16279675.jpg" title="12 Things I Forgot by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 12 Things I Forgot (4:43)
 2. Move Like A Fever (6:15)
 3. King Ghost (Tangerine Dream Remix) (9:22)
-
-<!-- section break -->
-
-
 
 
 

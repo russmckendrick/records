@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="babelsberg-12105452.jpg" title="Babelsberg by Gruff Rhys" >}}
+Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was released in June 2018 under Rough Trade Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Frontier Man 
 2. The Club 
 3. Oh Dear!
@@ -39,13 +41,6 @@ styles: ["Alternative Rock"]
 8. Same Old Song 
 9. Architecture Of Amnesia  
 10. Selfies In The Sunset
-
-<!-- section break -->
-
-Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was released in June 2018 under Rough Trade Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/babelsberg/1362980945" >}}<br>

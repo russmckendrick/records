@@ -29,10 +29,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-{{< img src="mr-robot-volume-2-original-television-series-soundtrack-9022562.jpg" title="Mr. Robot: Volume 2 (Original Television Series Soundtrack) by Mac Quayle" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1.5_1-Askingthe1mpossible.M4p
 2. 1.5_2-Hackthepolice.Mp3
 3. 1.5_3-Trustyourself.Bwf
@@ -56,10 +55,6 @@ styles: ["Soundtrack", "Score"]
 21. 1.9_4-Forcerobotshand.Sd2
 22. 1.9_5-Urmygod.Ogg
 23. 1.9_6-Nothingisreal.Ra
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-2-original-television-series-soundtrack/1111069604" >}}<br>

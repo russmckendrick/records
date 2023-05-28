@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
 
-{{< img src="the-allman-brothers-band-9275505.jpg" title="The Allman Brothers Band by The Allman Brothers Band" >}}
+"Ramblin Man" is a song by American rock band The Allman Brothers Band, released in August 1973 as the lead single from the group's fourth studio album, Brothers and Sisters (1973). Written and sung by guitarist Dickey Betts, the song was inspired by a 1951 song of the same name by Hank Williams. It is considerably more inspired by country music than other Allman Brothers Band compositions, which made the group reluctant to record it. Guitarist Les Dudek provides guitar harmonies, and it was one of bassist Berry Oakley's last contributions to the band.
+The song became the Allman Brothers Band's first and only top 10 single, peaking at number two on the Billboard Hot 100 chart and number 12 on the Easy Listening chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. 1969 Original Stereo Mix
 2. Don't Want You No More (2:25)
 3. It's Not My Cross To Bear (5:02)
@@ -42,14 +45,6 @@ styles: ["Blues Rock", "Southern Rock"]
 14. Every Hungry Woman (4:17)
 15. Dreams (7:17)
 16. Whipping Post (5:20)
-
-<!-- section break -->
-
-"Ramblin Man" is a song by American rock band The Allman Brothers Band, released in August 1973 as the lead single from the group's fourth studio album, Brothers and Sisters (1973). Written and sung by guitarist Dickey Betts, the song was inspired by a 1951 song of the same name by Hank Williams. It is considerably more inspired by country music than other Allman Brothers Band compositions, which made the group reluctant to record it. Guitarist Les Dudek provides guitar harmonies, and it was one of bassist Berry Oakley's last contributions to the band.
-The song became the Allman Brothers Band's first and only top 10 single, peaking at number two on the Billboard Hot 100 chart and number 12 on the Easy Listening chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-allman-brothers-band/1469584148" >}}<br>

@@ -132,10 +132,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="wish-you-were-here-immersion-box-set-3205416.jpg" title="Wish You Were Here - Immersion Box Set by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Original Album, Remastered In 2011 (44:18)
 2. Shine On You Crazy Diamond (Parts 1-5) (13:32)
 3. Welcome To The Machine (7:31)
@@ -222,10 +221,6 @@ styles: ["Art Rock", "Prog Rock"]
 84. Shine On You Crazy Diamond (Intro) (4:56)
 85. Shine On You Crazy Diamond (7:47)
 86. Welcome To The Machine (7:41)
-
-<!-- section break -->
-
-
 
 
 

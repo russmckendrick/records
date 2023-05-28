@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-boy-with-the-arab-strap-19112392.jpg" title="The Boy With The Arab Strap by Belle & Sebastian" >}}
+The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. It Could Have Been A Brilliant Career (2:23)
 2. Sleep The Clock Around (4:58)
 3. Is It Wicked Not To Care? (3:22)
@@ -35,13 +37,6 @@ styles: ["Indie Rock"]
 10. Chickfactor (3:32)
 11. Simple Things (1:46)
 12. The Rollercoaster Ride (6:40)
-
-<!-- section break -->
-
-The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719" >}}<br>

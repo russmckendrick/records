@@ -27,10 +27,12 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Breaks"]
 ---
 
-{{< img src="the-fat-of-the-land-19605292.jpg" title="The Fat Of The Land by The Prodigy" >}}
+The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Smack My Bitch Up
 2. Breathe
 3. Diesel Power
@@ -41,13 +43,6 @@ styles: ["Breakbeat", "Breaks"]
 8. Firestarter
 9. Climbatize
 10. Fuel My Fire
-
-<!-- section break -->
-
-The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fat-of-the-land/1450123945" >}}<br>

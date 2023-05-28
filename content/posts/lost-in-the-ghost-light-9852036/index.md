@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="lost-in-the-ghost-light-9852036.jpg" title="Lost In The Ghost Light by Tim Bowness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Worlds Of Yesterday (5:41)
 2. Moonshot Manchild (8:58)
 3. Kill The Pain That's Killing You (3:44)
@@ -46,10 +45,6 @@ styles: ["Prog Rock"]
 14. Lost In The Ghost Light (1:40)
 15. You Wanted To Be Seen (5:32)
 16. Distant Summers (4:06)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058" >}}<br>

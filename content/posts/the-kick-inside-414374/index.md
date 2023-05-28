@@ -23,10 +23,12 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-{{< img src="the-kick-inside-414374.jpg" title="The Kick Inside by Kate Bush" >}}
+The Kick Inside is the debut studio album by English art rock singer Kate Bush. Released on 17 February 1978 by EMI Records, it includes her UK No. 1 hit, "Wuthering Heights". The album peaked at No. 3 on the UK Albums Chart and has been certified Platinum by the British Phonographic Industry (BPI). The production included efforts by several progressive rock veterans, including Duncan Mackay, Ian Bairnson, David Paton, Andrew Powell, and Stuart Elliott of the Alan Parsons Project, and David Gilmour of Pink Floyd.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Moving (3:00)
 2. The Saxophone Song (3:48)
 3. Strange Phenomena (2:52)
@@ -40,13 +42,6 @@ styles: ["Art Rock", "Pop Rock"]
 11. Them Heavy People (3:02)
 12. Room For The Life (4:01)
 13. The Kick Inside (3:32)
-
-<!-- section break -->
-
-The Kick Inside is the debut studio album by English art rock singer Kate Bush. Released on 17 February 1978 by EMI Records, it includes her UK No. 1 hit, "Wuthering Heights". The album peaked at No. 3 on the UK Albums Chart and has been certified Platinum by the British Phonographic Industry (BPI). The production included efforts by several progressive rock veterans, including Duncan Mackay, Ian Bairnson, David Paton, Andrew Powell, and Stuart Elliott of the Alan Parsons Project, and David Gilmour of Pink Floyd.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799" >}}<br>

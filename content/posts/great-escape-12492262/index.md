@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock"]
 ---
 
-{{< img src="great-escape-12492262.jpg" title="Great Escape by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You Brought It Upon Yourselves
 2. To You I Give
 3. Uncivil War (Pt I)
@@ -43,10 +42,6 @@ styles: ["Prog Rock", "Post Rock"]
 9. Las Diabolicas
 10. Great Escape (Pt I)
 11. Great Escape (Pt II)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/great-escape/1407034902" >}}<br>

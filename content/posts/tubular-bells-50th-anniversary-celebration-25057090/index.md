@@ -16,20 +16,15 @@ genres: ["Rock", "Classical"]
 styles: []
 ---
 
-{{< img src="tubular-bells-50th-anniversary-celebration-25057090.jpg" title="Tubular Bells 50th Anniversary Celebration by The Royal Philharmonic Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Tubular Bells Part 1
 2. Tubular Bells Part 2
 3. Sailor's Hornpipe
 4. Ommadawn Part 1
 5. Excerpt From Hergest Ridge Part 1
 6. Moonlight Shadow
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679" >}}<br>

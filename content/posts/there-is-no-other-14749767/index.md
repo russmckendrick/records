@@ -23,10 +23,9 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="there-is-no-other-14749767.jpg" title="There Is No Other... by Isobel Campbell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. There Is No Other...
 2. City Of Angels
 3. Runnin' Down A Dream
@@ -47,10 +46,6 @@ styles: ["Indie Pop"]
 18. Something
 19. Voices In The Sky
 20. Sa Ta Na Ma.
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/there-is-no-other/1474138431" >}}<br>

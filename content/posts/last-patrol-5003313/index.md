@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 ---
 
-{{< img src="last-patrol-5003313.jpg" title="Last Patrol by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Live Behind The Clouds
 2. Last Patrol
 3. Three Kingfishers
@@ -42,10 +41,6 @@ styles: ["Stoner Rock", "Psychedelic Rock", "Space Rock", "Alternative Rock"]
 9. Stay Tuned
 10. Strobe Light Beatdown
 11. One Dead Moon
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-patrol/1184723168" >}}<br>

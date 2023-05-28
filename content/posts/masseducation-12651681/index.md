@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="masseducation-12651681.jpg" title="MassEducation by St. Vincent" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Slow Disco (2:30)
 2. Savior (4:18)
 3. Masseduction (3:40)
@@ -37,10 +36,6 @@ styles: ["Acoustic"]
 10. Happy Birthday, Johnny (3:24)
 11. Pills (4:59)
 12. Hang On Me (2:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/masseducation/1437029839" >}}<br>

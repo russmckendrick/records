@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="crowded-house-2035236.jpg" title="Crowded House by Crowded House" >}}
+This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
+This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. World Where You Live (3:04)
 2. Now We're Getting Somewhere (4:05)
 3. Don't Dream It's Over (3:58)
@@ -36,14 +39,6 @@ styles: ["Pop Rock", "Synth-pop"]
 8. I Walk Away (3:05)
 9. Tombstone (3:30)
 10. That's What I Call Love (3:37)
-
-<!-- section break -->
-
-This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
-This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>

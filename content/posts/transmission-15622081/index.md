@@ -22,19 +22,14 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-{{< img src="transmission-15622081.jpg" title="Transmission by Joy Division" >}}
-
-<!-- section break -->
-
-1. Transmission
-2. Novelty
-
-<!-- section break -->
-
 "Transmission" is a song by English post-punk band Joy Division. Originally recorded in 1978 for the band's aborted self-titled album, it was later re-recorded the following year at a faster tempo and released by record label Factory as the band's debut single.
     
     
 
+
+## Tracklisting
+1. Transmission
+2. Novelty
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmission-2020-digital-remaster-single/1511732470" >}}<br>

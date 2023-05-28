@@ -23,28 +23,6 @@ genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
 ---
 
-{{< img src="it-is-what-it-is-15052400.jpg" title="It Is What It Is by Thundercat" >}}
-
-<!-- section break -->
-
-1. Lost In Space / Great Scott / 22-26
-2. Innerstellar Love
-3. I Love Louis Cole
-4. Black Qualls
-5. Miguel's Happy Dance
-6. How Sway
-7. Funny Thing
-8. Overseas
-9. Dragonball Durag
-10. How I Feel
-11. King Of The Hill
-12. Unrequited Love
-13. Fair Chance
-14. Existential Dread
-15. It Is What It Is
-
-<!-- section break -->
-
 Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of control, of his friend Mac Miller, who Bruner exchanged I-love-yous with over the phone hours before Miller’s overdose in late 2018. Not that he’s wallowing. Like 2017’s <i>Drunk</i>—an album that helped transform the bassist/singer-songwriter from jazz-fusion weirdo into one of the vanguard voices in 21st-century black music—<i>It Is What It Is</i> is governed by an almost cosmic sense of humour, juxtaposing sophisticated Afro-jazz (“Innerstellar Love”) with deadpan R&B (“I may be covered in cat hair/But I still smell good/Baby, let me know, how do I look in my durag?”), abstractions about mortality (“Existential Dread”) with chiptune-style punk about how much he loves his friend Louis Cole. “Yeah, it’s been an interesting last couple of years,” he tells Apple Music with a sigh. “But there’s always room to be stupid.” What emerges from the whiplash is a sense that—as the title suggests—no matter how much we tend to label things as good or bad, happy or sad, the only thing they are is what they are. (That Bruner keeps good company probably helps: Like on <i>Drunk</i>, the guest list here is formidable, ranging from LA polymaths like Miguel Atwood-Ferguson, Louis Cole and co-producer Flying Lotus to Childish Gambino, Ty Dolla $ign and former Slave singer Steve Arrington.) As for lessons learned, Bruner is Zen as he runs through each of the album’s tracks. “It’s just part of it,” he says. “It’s part of the story. That’s why the name of the album is what it is—[Mac’s death] made me put my life in perspective. I’m happy I’m still here.”<br />
 <b>Lost in Space / Great Scott / 22-26</b>
 "Me and [keyboardist] Scott Kinsey were just playing around a bit. I like the idea of something subtle for the intro—you know, introducing somebody to something. Giving people the sense that there’s a ride about to happen."<br />
@@ -80,6 +58,23 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
         
     
 
+
+## Tracklisting
+1. Lost In Space / Great Scott / 22-26
+2. Innerstellar Love
+3. I Love Louis Cole
+4. Black Qualls
+5. Miguel's Happy Dance
+6. How Sway
+7. Funny Thing
+8. Overseas
+9. Dragonball Durag
+10. How I Feel
+11. King Of The Hill
+12. Unrequited Love
+13. Fair Chance
+14. Existential Dread
+15. It Is What It Is
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/it-is-what-it-is/1494467036" >}}<br>

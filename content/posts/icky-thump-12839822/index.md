@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 ---
 
-{{< img src="icky-thump-12839822.jpg" title="Icky Thump by The White Stripes" >}}
+Icky Thump is the sixth and final studio album by American rock duo The White Stripes, released through Warner Bros. and Third Man Records in June 2007, with XL Recordings handling the United Kingdom release. Its first release came on June 15, 2007, in Germany, with the release for the rest of Europe occurring on June 18 and the rest of the world on June 19.Icky Thump received positive reviews from critics and enjoyed commercial success, entering the UK Albums Chart at number one and debuting at number two on the Billboard 200, becoming the duo's highest-charting album in the US with 223,000 copies sold. By late July, Icky Thump was certified gold in the United States. On February 10, 2008, the album won a Grammy Award for Best Alternative Music Album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Side Uno
 2. Icky Thump (4:14)
 3. You Don't Know What Love Is  (You Just Do As You're Told) (3:54)
@@ -42,13 +44,6 @@ styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 15. A Martyr For My Love For You (4:19)
 16. Catch Hell Blues (4:18)
 17. Effect And Cause (3:00)
-
-<!-- section break -->
-
-Icky Thump is the sixth and final studio album by American rock duo The White Stripes, released through Warner Bros. and Third Man Records in June 2007, with XL Recordings handling the United Kingdom release. Its first release came on June 15, 2007, in Germany, with the release for the rest of Europe occurring on June 18 and the rest of the world on June 19.Icky Thump received positive reviews from critics and enjoyed commercial success, entering the UK Albums Chart at number one and debuting at number two on the Billboard 200, becoming the duo's highest-charting album in the US with 223,000 copies sold. By late July, Icky Thump was certified gold in the United States. On February 10, 2008, the album won a Grammy Award for Best Alternative Music Album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/icky-thump/1533513464" >}}<br>

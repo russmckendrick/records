@@ -22,10 +22,12 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contemporary R&B", "New Jack Swing"]
 ---
 
-{{< img src="raw-like-sushi-14721225.jpg" title="Raw Like Sushi by Neneh Cherry" >}}
+Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Buffalo Stance
 2. Manchild
 3. Kisses On The Wind
@@ -36,13 +38,6 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 8. Phoney Ladies
 9. Outré Risqué Locomotive
 10. So Here I Come
-
-<!-- section break -->
-
-Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raw-like-sushi/716751901" >}}<br>

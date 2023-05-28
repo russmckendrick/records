@@ -24,10 +24,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-{{< img src="figure-8-8843169.jpg" title="Figure 8 by Elliott Smith" >}}
+Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, and the final studio album released during his lifetime. It was recorded from 1998 to 2000 at numerous studios and released on April 18, 2000, through DreamWorks Records. Preceded by the singles "Happiness" and "Son of Sam", Figure 8 was Smith's second release on a major label.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Son Of Sam
 2. Somebody That I Used To Know
 3. Junk Bond Trader
@@ -46,13 +48,6 @@ styles: ["Acoustic", "Indie Rock"]
 16. I Better Be Quiet Now
 17. Can't Make A Sound
 18. Bye
-
-<!-- section break -->
-
-Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, and the final studio album released during his lifetime. It was recorded from 1998 to 2000 at numerous studios and released on April 18, 2000, through DreamWorks Records. Preceded by the singles "Happiness" and "Son of Sam", Figure 8 was Smith's second release on a major label.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/figure-8/1440745328" >}}<br>

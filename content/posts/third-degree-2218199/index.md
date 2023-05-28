@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Rhythm & Blues", "Pub Rock"]
 ---
 
-{{< img src="third-degree-2218199.jpg" title="Third Degree by Nine Below Zero" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Eleven Plus Eleven (2:18)
 2. Wipe Away Your Kiss (2:50)
 3. Why Can't We Be What We Want To Be (2:53)
@@ -34,10 +33,6 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 9. East Street, SE17 (3:15)
 10. You Don't Love Me (3:03)
 11. You Can't Say Yes And You Can't Say No (3:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/third-degree/1443308710" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ---
 
-{{< img src="high-water-i-12366614.jpg" title="High Water I by The Magpie Salute" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mary The Gypsy (3:07)
 2. High Water (5:45)
 3. Send Me An Omen (3:58)
@@ -38,10 +37,6 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 10. You Found Me (4:53)
 11. Can You See (3:10)
 12. Open Up (3:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}<br>

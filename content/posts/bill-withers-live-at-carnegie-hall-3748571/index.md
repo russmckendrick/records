@@ -24,10 +24,12 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
 
-{{< img src="bill-withers-live-at-carnegie-hall-3748571.jpg" title="Bill Withers Live At Carnegie Hall by Bill Withers" >}}
+On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Use Me (8:30)
 2. Friend Of Mine (4:26)
 3. Ain't No Sunshine (2:25)
@@ -42,13 +44,6 @@ styles: ["Soul", "Funk"]
 12. Hope She'll Be Happier (4:23)
 13. Let Us Love (5:21)
 14. Harlem/Cold Baloney (13:07)
-
-<!-- section break -->
-
-On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-carnegie-hall/203795472" >}}<br>

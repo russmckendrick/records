@@ -38,10 +38,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="the-last-domino-20264347.jpg" title="The Last Domino? by Genesis" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dukes End
 2. Turn It On Again
 3. Mama
@@ -69,10 +68,6 @@ styles: ["Pop Rock", "Prog Rock"]
 25. Dancing With The Moonlit Knight
 26. Carpet Crawlers
 27. Abacab
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1574912438" >}}<br>

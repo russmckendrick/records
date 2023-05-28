@@ -18,10 +18,14 @@ genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
 
-{{< img src="burn-my-eyes-6125349.jpg" title="Burn My Eyes by Machine Head" >}}
+Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Davidian
 2. Old
 3. A Thousand Lies
@@ -33,15 +37,6 @@ styles: ["Thrash", "Heavy Metal"]
 9. I'm Your God Now
 10. Real Eyes, Realize, Real Lies
 11. Block
-
-<!-- section break -->
-
-Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/burn-my-eyes/214477654" >}}<br>

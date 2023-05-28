@@ -22,10 +22,9 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Synth-pop", "Soul"]
 ---
 
-{{< img src="who-s-zoomin-who-895574.jpg" title="Who's Zoomin' Who? by Aretha Franklin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Freeway Of Love (6:00)
 2. Another Night (4:30)
 3. Sweet Bitter Love (5:11)
@@ -35,10 +34,6 @@ styles: ["Disco", "Synth-pop", "Soul"]
 7. Ain't Nobody Ever Loved You (4:53)
 8. Push (4:36)
 9. Integrity (4:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}<br>

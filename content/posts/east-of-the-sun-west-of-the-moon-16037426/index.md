@@ -24,10 +24,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ---
 
-{{< img src="east-of-the-sun-west-of-the-moon-16037426.jpg" title="East Of The Sun West Of The Moon  by a-ha" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Crying In The Rain (4:24)
 2. Early Morning (2:58)
 3. I Call Your Name (4:53)
@@ -39,10 +38,6 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 9. The Way We Talk (1:31)
 10. Rolling Thunder (5:43)
 11. (Seemingly) Nonstop July (2:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/east-of-the-sun-west-of-the-moon/378016648" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Goth Rock"]
 ---
 
-{{< img src="s-o-d-the-epic-years-492090.jpg" title="S.O.D. The Epic Years by Spear Of Destiny" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Wheel
 2. Rainmaker
 3. Prisoner Of Love
@@ -35,10 +34,6 @@ styles: ["Pop Rock", "Goth Rock"]
 8. All My Love (Ask Nothing)
 9. Mickey
 10. Liberator
-
-<!-- section break -->
-
-
 
 
 

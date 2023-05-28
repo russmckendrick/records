@@ -28,10 +28,15 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-{{< img src="isn-t-anything-18793480.jpg" title="Isn't Anything by My Bloody Valentine" >}}
+There was a point during the making of <i>Isn’t Anything</i> when my bloody valentine frontman Kevin Shields turned to one of the engineers working on the record at Foel Studio in Wales and said, to his own astonishment, “I think this might be original.” Shields looks back on it now as a significant moment, the point at which he got to experience for himself the sort of beguiling “what is <i>this</i>?” joy that would soon wash over listeners enchanted by the band’s debut album, released in November 1988. “It was a pivotal 30-second exchange,” Shields tells Apple Music. “I was saying, ‘I’m not really thinking of anything else, I’m not referring to anything, I’m just doing it. And it doesn’t sound like anything else.’ I remember that moment.”<br />
+It was with that spirit of sonic adventure that my bloody valentine approached their debut album, a record that diverted the course of rock music. They had already hinted at this bold new sound, melding their love of Dinosaur Jr., Sonic Youth, Public Enemy and The Byrds with tape-machine experiments, strange tunings and an arsenal of effects pedals, on the <i>You Made Me Realise</i> and <i>Feed Me With Your Kiss</i> EPs. Here their alchemical majesty was fully realised. “I was completely inspired by this new way of doing things,” says Shields. “There was a point around that spring and summer of 1988 where what came before was <i>then</i> and everything after was the future. We were just full of new possibilities and ideas. It felt like something different. It was a very free kind of feeling.”<br />
+For a record frequently held up as an example of production wizardry, the truth is that its creation was purposely kept simple. “We wanted it to be live and raw, we didn’t want lots of overdubs, something that was very easy for us to play live,” says Shields. That approach is encapsulated by the thumping ripples of “Soft as Snow (But Warm Inside)”, an opener that immediately pulls you into my bloody valentine’s distinct sonic world. Tracks such as the soothing “No More Sorry” were a bold new listening experience, making you feel as though you were inside the song. It was strange and wonderful.<br />
+<i>Isn’t Anything</i> immediately set a new dynamic blueprint for what a guitar band could be—a densely textured album that was still intricate, where walls of white noise coexisted harmoniously with melody. Shields says there was nothing laborious about the album’s creation, a period of creative exhilaration that felt like “being plugged into this inspiration machine”. “It was extremely natural,” he says. “We got six weeks in the studio, which was six times longer than we’d ever had. Four or five of the songs were done over the course of 11 days. It was just a really super creative fun time; everything was just ‘let’s try this or that’. If it didn’t work, it didn’t work. But mostly it worked.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Soft As Snow (But Warm Inside)
 2. Lose My Breath
 3. Cupid Come
@@ -44,16 +49,6 @@ styles: ["Shoegaze", "Indie Rock"]
 10. You Never Should
 11. Nothing Much To Lose
 12. I Can See It (But I Can't Feel It)
-
-<!-- section break -->
-
-There was a point during the making of <i>Isn’t Anything</i> when my bloody valentine frontman Kevin Shields turned to one of the engineers working on the record at Foel Studio in Wales and said, to his own astonishment, “I think this might be original.” Shields looks back on it now as a significant moment, the point at which he got to experience for himself the sort of beguiling “what is <i>this</i>?” joy that would soon wash over listeners enchanted by the band’s debut album, released in November 1988. “It was a pivotal 30-second exchange,” Shields tells Apple Music. “I was saying, ‘I’m not really thinking of anything else, I’m not referring to anything, I’m just doing it. And it doesn’t sound like anything else.’ I remember that moment.”<br />
-It was with that spirit of sonic adventure that my bloody valentine approached their debut album, a record that diverted the course of rock music. They had already hinted at this bold new sound, melding their love of Dinosaur Jr., Sonic Youth, Public Enemy and The Byrds with tape-machine experiments, strange tunings and an arsenal of effects pedals, on the <i>You Made Me Realise</i> and <i>Feed Me With Your Kiss</i> EPs. Here their alchemical majesty was fully realised. “I was completely inspired by this new way of doing things,” says Shields. “There was a point around that spring and summer of 1988 where what came before was <i>then</i> and everything after was the future. We were just full of new possibilities and ideas. It felt like something different. It was a very free kind of feeling.”<br />
-For a record frequently held up as an example of production wizardry, the truth is that its creation was purposely kept simple. “We wanted it to be live and raw, we didn’t want lots of overdubs, something that was very easy for us to play live,” says Shields. That approach is encapsulated by the thumping ripples of “Soft as Snow (But Warm Inside)”, an opener that immediately pulls you into my bloody valentine’s distinct sonic world. Tracks such as the soothing “No More Sorry” were a bold new listening experience, making you feel as though you were inside the song. It was strange and wonderful.<br />
-<i>Isn’t Anything</i> immediately set a new dynamic blueprint for what a guitar band could be—a densely textured album that was still intricate, where walls of white noise coexisted harmoniously with melody. Shields says there was nothing laborious about the album’s creation, a period of creative exhilaration that felt like “being plugged into this inspiration machine”. “It was extremely natural,” he says. “We got six weeks in the studio, which was six times longer than we’d ever had. Four or five of the songs were done over the course of 11 days. It was just a really super creative fun time; everything was just ‘let’s try this or that’. If it didn’t work, it didn’t work. But mostly it worked.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/isnt-anything/1556913225" >}}<br>

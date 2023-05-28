@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="make-me-young-etc-12765567.jpg" title="Make Me Young, etc.  by Thumpermonkey" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Veldt (5:23)
 2. Cranefly  (4:35)
 3. Figstorm  (5:08)
@@ -28,10 +27,6 @@ styles: ["Prog Rock"]
 5. Deckchair For Your Ghost  (5:42)
 6. Make Me Young, etc.  (10:46)
 7. Tempe Terra (5:19)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}<br>

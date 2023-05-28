@@ -44,10 +44,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Glam"]
 ---
 
-{{< img src="when-slade-rocked-the-world-1971-1975-7901636.jpg" title="When Slade Rocked The World 1971-1975 by Slade" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. LP 1: Slayed? (Brown Vinyl)
 2. How D’You Ride
 3. The Whole World’s Goin’ Crazee
@@ -152,10 +151,6 @@ styles: ["Classic Rock", "Glam"]
 102. Lay It Down
 103. Heaven Knows
 104. Standin’ On The Corner
-
-<!-- section break -->
-
-
 
 
 

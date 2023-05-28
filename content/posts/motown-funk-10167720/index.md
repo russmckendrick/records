@@ -19,10 +19,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
 
-{{< img src="motown-funk-10167720.jpg" title="Motown Funk by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Strung Out
 2. Easily Persuaded
 3. When My Love Hand Comes Down
@@ -45,10 +44,6 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 20. Girl You Need A Change Of Mind
 21. Our Lives Are Shaped By What We Love
 22. Sun Country
-
-<!-- section break -->
-
-
 
 
 ## Spotify

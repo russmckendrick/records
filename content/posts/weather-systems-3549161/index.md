@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="weather-systems-3549161.jpg" title="Weather Systems by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Untouchable Part 1
 2. Untouchable Part 2
 3. The Gathering Of The Clouds
@@ -33,10 +32,6 @@ styles: ["Alternative Rock"]
 7. The Beginning And The End
 8. The Lost Child
 9. Internal Landscapes
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weather-systems/674013181" >}}<br>

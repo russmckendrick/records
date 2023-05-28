@@ -19,10 +19,9 @@ genres: ["Rock", "Pop"]
 styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="marquee-metal-1964892.jpg" title="Marquee Metal by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Will Rock You
 2. Wishing Well
 3. Can't Get Enough
@@ -42,10 +41,6 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 17. Living After Midnight
 18. Free 'N' Easy
 19. Ace Of Spades
-
-<!-- section break -->
-
-
 
 
 

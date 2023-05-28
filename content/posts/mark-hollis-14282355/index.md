@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Post Rock", "Acoustic"]
 ---
 
-{{< img src="mark-hollis-14282355.jpg" title="Mark Hollis by Mark Hollis" >}}
+This is the only solo album from former Talk Talk singer Mark Hollis. Like the latter-day Talk Talk (<i>Spirit of Eden</i>, <i>Laughing Stock</i>), <i>Mark Hollis</i> is filled with songs that float between genres and use the full dynamic range by hanging low until Hollis suddenly raises his voice for emphasis. Unlike any Talk Talk release, this is largely an acoustic album with none of the songs being co-written by longtime collaborator Tim Friese-Greene. The bassoon can be heard cresting through “The Watershed.” The piano breaks the silences of “Inside Looking Out”, where jazz chords, an acoustic guitar and a plaintive melody and a vocal with slight reverb create a solitary vibe and a stillness that is as affecting as music made at ten times the volume. The quiet continues throughout the album with “Westward Bound” mastering the silent break. Clarinets and bassoons open “The Daily Planet” before a sparse drum and bass pound out an irregular heartbeat. Hollis stands nearly alone in his vocal prowess, in the rarefied company of such idiosyncratic geniuses as David Sylvian and Scott Walker.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Colour Of Spring
 2. Watershed
 3. Inside Looking Out
@@ -38,14 +41,6 @@ styles: ["Post Rock", "Acoustic"]
 6. Westward Bound
 7. The Daily Planet
 8. A New Jerusalem
-
-<!-- section break -->
-
-This is the only solo album from former Talk Talk singer Mark Hollis. Like the latter-day Talk Talk (<i>Spirit of Eden</i>, <i>Laughing Stock</i>), <i>Mark Hollis</i> is filled with songs that float between genres and use the full dynamic range by hanging low until Hollis suddenly raises his voice for emphasis. Unlike any Talk Talk release, this is largely an acoustic album with none of the songs being co-written by longtime collaborator Tim Friese-Greene. The bassoon can be heard cresting through “The Watershed.” The piano breaks the silences of “Inside Looking Out”, where jazz chords, an acoustic guitar and a plaintive melody and a vocal with slight reverb create a solitary vibe and a stillness that is as affecting as music made at ten times the volume. The quiet continues throughout the album with “Westward Bound” mastering the silent break. Clarinets and bassoons open “The Daily Planet” before a sparse drum and bass pound out an irregular heartbeat. Hollis stands nearly alone in his vocal prowess, in the rarefied company of such idiosyncratic geniuses as David Sylvian and Scott Walker.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mark-hollis/1444101871" >}}<br>

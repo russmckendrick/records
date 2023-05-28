@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="devil-hopping-22846772.jpg" title="Devil Hopping by Inspiral Carpets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Want You (3:09)
 2. Party In The Sky (3:51)
 3. Plutoman (4:14)
@@ -42,10 +41,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 10. Half Way There (3:50)
 11. Cobra (2:13)
 12. I Don't Want To Go Blind (4:02)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}<br>

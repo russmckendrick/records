@@ -26,28 +26,6 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Downtempo", "Trip Hop"]
 ---
 
-{{< img src="shout-out-to-freedom-20771251.jpg" title="Shout Out! To Freedom... by Nightmares On Wax" >}}
-
-<!-- section break -->
-
-1. Shout Out! (Intro)
-2. Imagineering
-3. Creator SOS
-4. 3D Warrior
-5. Miami 80
-6. GTP Call
-7. Wikid Satellites
-8. Breathe In
-9. To Freedom (Interlude)
-10. Wonder
-11. Own Me
-12. Widyabad
-13. Isolated
-14. Trillion
-15. Up To Us
-
-<!-- section break -->
-
 George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “What was unique in making this album,” he tells Apple Music, “is that for the first time in forever, I didn’t have a flight booked and all that space, time and freedom really refreshed my connection with music. It felt like I was just making it for fun again.” While many of the tracks on Evelyn’s ninth Nightmares on Wax album already existed in embryonic form, 2020’s global pandemic allowed him to focus on the project with a newfound creative freedom. And then George Floyd was murdered. “When we were in the midst of that situation, and I was collaborating with a lot of artists remotely, it opened up these deep conversations between us all,” he says. “I was saying, ‘Right, what’s going on inside?’” The result is an album that is at once luscious, unhurried and reflective—one tackling deep subject matter while maintaining an optimistic tone. “The whole album is about these different facets of freedom—which ones we have and which ones we don’t have,” he says. “Hopefully, it can help open some really healthy conversations.” Here, Evelyn talks us through the album’s tracks.<br />
 <b>“Shout Out! (Intro)” [feat. Beautiful People]</b>
 “I thought it would be amazing to get people shouting, ‘Freedom!’ in loads of different languages. So, I put a call out to my fanbase on Instagram, and people sent me voice notes of them saying, ‘Freedom’ in their native tongue. I put that together and it was originally 35 minutes long, so I spent three days cutting and pasting it and then used some digital oscillators on it and brought in a string arranger.”<br />
@@ -78,6 +56,23 @@ George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “W
     
     
 
+
+## Tracklisting
+1. Shout Out! (Intro)
+2. Imagineering
+3. Creator SOS
+4. 3D Warrior
+5. Miami 80
+6. GTP Call
+7. Wikid Satellites
+8. Breathe In
+9. To Freedom (Interlude)
+10. Wonder
+11. Own Me
+12. Widyabad
+13. Isolated
+14. Trillion
+15. Up To Us
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shout-out-to-freedom/1577987770" >}}<br>

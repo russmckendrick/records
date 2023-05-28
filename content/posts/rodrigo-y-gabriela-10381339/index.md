@@ -32,10 +32,15 @@ genres: ["Rock", "Latin"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="rodrigo-y-gabriela-10381339.jpg" title="Rodrigo Y Gabriela by Rodrigo Y Gabriela" >}}
+Rodrigo y Gabriela is the second studio album by Mexican musical duo Rodrigo y Gabriela. It was first released in Ireland on February 17, 2006, where it debuted at number one on the Irish Albums Chart. The album included covers of Led Zeppelin's "Stairway to Heaven" and Metallica's "Orion", two artists who the duo say influenced their music.
+Their album was subsequently certified platinum in Ireland.The Japanese version of the album has an extra track, named "Señorita Xxx".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Tamacun
 2. Diablo Rojo
 3. Vikingman
@@ -55,16 +60,6 @@ styles: ["Acoustic"]
 17. Medley: One/Take 5
 18. Mr. Tang
 19. Diablo Rojo
-
-<!-- section break -->
-
-Rodrigo y Gabriela is the second studio album by Mexican musical duo Rodrigo y Gabriela. It was first released in Ireland on February 17, 2006, where it debuted at number one on the Irish Albums Chart. The album included covers of Led Zeppelin's "Stairway to Heaven" and Metallica's "Orion", two artists who the duo say influenced their music.
-Their album was subsequently certified platinum in Ireland.The Japanese version of the album has an extra track, named "Señorita Xxx".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458" >}}<br>

@@ -23,26 +23,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="out-of-time-9359884.jpg" title="Out Of Time by R.E.M." >}}
-
-<!-- section break -->
-
-1. Time Side
-2. Radio Song (4:12)
-3. Losing My Religion (4:26)
-4. Low (4:55)
-5. Near Wild Heaven (3:17)
-6. Endgame (3:48)
-7. Memory Side
-8. Shiny Happy People (3:44)
-9. Belong (4:03)
-10. Half A World Away (3:26)
-11. Texarkana (3:36)
-12. Country Feedback (4:07)
-13. Me In Honey (4:06)
-
-<!-- section break -->
-
 R.E.M. really had no idea that 1991’s <i>Out of Time</i>—or its unlikely breakthrough single “Losing My Religion”—would change their lives like it did. “Unless you're Max Martin or you're making a Kylie Minogue record, you can't know what it's going to do,” bassist Mike Mills tells Apple Music, 30 years later. “‘Losing My Religion’ is a five-minute song with no discernible chorus and the mandolin is the lead instrument. There is absolutely no way to ever predict that that would be a hit. You can’t know—so you just throw it out there.”<br />
 For much of the ’80s, the Athens, Georgia, art-rock outfit had enjoyed incremental success on their own terms, evolving from indie heroes to major-label signees with 1988’s <i>Green</i>, an album whose gruelling, year-long tour had left them so exhausted they insisted on a long break from the road—a move that many considered career suicide. It’s a decision that would have a major impact on every note of <i>Out of Time</i>. “I think we felt a freedom to experiment and to push ourselves in different directions, to not have to worry about how this or that song would perform onstage,” Michael Stipe tells Apple Music. “We were taking all kinds of risks.”<br />
 You can hear and feel that freedom start to finish, from the skittering funk of “Radio Song” (featuring a cameo from rapper KRS-One of Boogie Down Productions) to the childish delirium of “Shiny Happy People” (which included vocals from The B-52’s Kate Pierson, a fellow Athenian) to the cloud-parting harmonies of “Belong” and charred Americana of “Country Feedback”. At the centre was “Losing My Religion”, a song that found R.E.M. embracing strings and guitarist Peter Buck writing on mandolin, which he was still teaching himself how to play at the time. It quickly became their highest-charting single to date, a global smash that won two Grammys and helped <i>Out of Time</i> sell over 18 million copies. Released just months before Nirvana’s <i>Nevermind</i>, it was the first marker in an alt-rock revolution about to unfold—one R.E.M. had inspired if not engineered. “Record companies want to cover their ass,” Mills says. “They do everything by formula, because that's what's been proven to work. It was great to confound expectations, to be subversive. You could show people that there wasn’t just one way to be successful.” Here, Mills and Stipe take us inside some of the album’s key tracks.<br />
@@ -63,6 +43,21 @@ MS: “I remember it came out all at once. I sang it—I believe I sang it one t
         
     
 
+
+## Tracklisting
+1. Time Side
+2. Radio Song (4:12)
+3. Losing My Religion (4:26)
+4. Low (4:55)
+5. Near Wild Heaven (3:17)
+6. Endgame (3:48)
+7. Memory Side
+8. Shiny Happy People (3:44)
+9. Belong (4:03)
+10. Half A World Away (3:26)
+11. Texarkana (3:36)
+12. Country Feedback (4:07)
+13. Me In Honey (4:06)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-time-2016-remaster/1440945025" >}}<br>

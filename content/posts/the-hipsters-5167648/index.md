@@ -17,10 +17,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-hipsters-5167648.jpg" title="The Hipsters by Deacon Blue" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Here I Am In London Town
 2. The Hipsters
 3. Stars
@@ -32,10 +31,6 @@ styles: ["Pop Rock"]
 9. Laura From Memory
 10. It Will End In Tears
 11. Is There No Way Back To You
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}<br>

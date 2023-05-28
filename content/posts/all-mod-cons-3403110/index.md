@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Mod"]
 ---
 
-{{< img src="all-mod-cons-3403110.jpg" title="All Mod Cons by The Jam" >}}
+All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The album reached No. 6 in the UK Albums Chart.The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. All Mod Cons
 2. To Be Someone (Didn't We Have A Nice Time)
 3. Mr. Clean
@@ -37,13 +39,6 @@ styles: ["New Wave", "Mod"]
 10. The Place I Love
 11. 'A' Bomb In Wardour Street
 12. Down In The Tube Station At Midnight
-
-<!-- section break -->
-
-All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The album reached No. 6 in the UK Albums Chart.The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-mod-cons-remastered/1440910355" >}}<br>

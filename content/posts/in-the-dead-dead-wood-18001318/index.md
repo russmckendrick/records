@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="in-the-dead-dead-wood-18001318.jpg" title="In The Dead, Dead Wood by Vennart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Silhouette
 2. Super Sleuth
 3. Elemental
@@ -36,10 +35,6 @@ styles: []
 6. Weight In Gold
 7. Mourning On The Range
 8. Forc In The Road
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572" >}}<br>

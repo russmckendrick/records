@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
 
-{{< img src="458489-a-sides-12360118.jpg" title="458489 A Sides by The Fall" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Oh! Brother (4:01)
 2. C.R.E.E.P. (2:54)
 3. No Bulbs 3 (4:28)
@@ -45,10 +44,6 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 15. Wrong Place, Right Time (2:53)
 16. Jerusalem (3:49)
 17. Dead Beat Descendant (2:22)
-
-<!-- section break -->
-
-
 
 
 

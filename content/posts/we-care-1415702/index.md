@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 ---
 
-{{< img src="we-care-1415702.jpg" title="We Care by Whale" >}}
+We Care is the debut album by Swedish alternative rock group Whale. The album was produced by Whale; several tracks were produced in cooperation with Falcon or Tricky.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Kickin' (3:47)
 2. That's Where It's At (4:15)
 3. Pay For Me (4:24)
@@ -38,13 +40,6 @@ styles: ["Alternative Rock", "Experimental", "Trip Hop"]
 11. Young Dumb N' Full Of Cum (5:14)
 12. I'm Cold (8:25)
 13. Born To Raise Hell (1:13)
-
-<!-- section break -->
-
-We Care is the debut album by Swedish alternative rock group Whale. The album was produced by Whale; several tracks were produced in cooperation with Falcon or Tricky.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-care/724612339" >}}<br>

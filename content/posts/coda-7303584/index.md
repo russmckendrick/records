@@ -27,10 +27,14 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 ---
 
-{{< img src="coda-7303584.jpg" title="Coda by Led Zeppelin" >}}
+Coda is the first compilation album by the English rock band Led Zeppelin. The album is a collection of rejected tracks from various sessions during Led Zeppelin's twelve-year career. It was released on 19 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. We're Gonna Groove (2:37)
 2. Poor Tom (3:02)
 3. I Can't Quit You Baby (4:18)
@@ -39,15 +43,6 @@ styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 6. Darlene (5:06)
 7. Bonzo's Montreux (4:22)
 8. Wearing And Tearing (5:27)
-
-<!-- section break -->
-
-Coda is the first compilation album by the English rock band Led Zeppelin. The album is a collection of rejected tracks from various sessions during Led Zeppelin's twelve-year career. It was released on 19 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coda-deluxe-edition/999609825" >}}<br>

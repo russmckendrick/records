@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Punk"]
 ---
 
-{{< img src="bad-reputation-12840105.jpg" title="Bad Reputation by Joan Jett" >}}
+"Bad Reputation" is a rock song co-written and recorded by Joan Jett from her debut album of the same name. Though it was initially only released as a single in Germany, it remains one of her signature songs.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Fresh Start
 2. Bad Reputation
 3. Cherry Bomb
@@ -36,15 +40,6 @@ styles: ["Classic Rock", "Punk"]
 11. Fetish
 12. Feminazi
 13. Androgynous
-
-<!-- section break -->
-
-"Bad Reputation" is a rock song co-written and recorded by Joan Jett from her debut album of the same name. Though it was initially only released as a single in Germany, it remains one of her signature songs.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-reputation-expanded-edition/1434145250" >}}<br>

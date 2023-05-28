@@ -24,10 +24,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Progressive Metal", "Symphonic Rock"]
 ---
 
-{{< img src="empath-13421381.jpg" title="Empath by Devin Townsend" >}}
+Empath is the eighteenth studio album by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on March 29, 2019. It is his first solo album since Dark Matters, which was a part of the 2014 double album Z², and his first release to act solely as a solo album since 2007's Ziltoid the Omniscient.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Castaway
 2. Genesis
 3. Spirits Will Collide
@@ -48,13 +50,6 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 18. Borderlands (11:03)
 19. Requiem (2:47)
 20. Singularity
-
-<!-- section break -->
-
-Empath is the eighteenth studio album by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on March 29, 2019. It is his first solo album since Dark Matters, which was a part of the 2014 double album Z², and his first release to act solely as a solo album since 2007's Ziltoid the Omniscient.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/empath-deluxe-edition/1449841303" >}}<br>

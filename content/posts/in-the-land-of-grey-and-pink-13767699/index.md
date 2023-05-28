@@ -22,24 +22,19 @@ genres: ["Jazz", "Rock"]
 styles: ["Jazz-Rock", "Prog Rock"]
 ---
 
-{{< img src="in-the-land-of-grey-and-pink-13767699.jpg" title="In The Land Of Grey And Pink by Caravan" >}}
-
-<!-- section break -->
-
-1. Golf Girl
-2. Winter Wine
-3. Love To Love You (And Tonight Pigs Will Fly)
-4. In The Land Of Grey And Pink
-5. Nine Feet Underground
-
-<!-- section break -->
-
 In the Land of Grey and Pink is the third album by English progressive rock band Caravan, released in April 1971 on Deram Records. It was produced by David Hitchcock and was the last album to feature the original lineup of Richard Coughlan, Pye Hastings, Richard Sinclair and Dave Sinclair until 1982's Back to Front.
 The album was written and recorded during late 1970 and early 1971, and featured more material from Richard Sinclair. Hastings, who had been the main songwriter on the previous two releases, contributed only one track. Instrumentally, the music is dominated by David Sinclair's keyboard solos, and side two is taken up by a 22-minute suite of songs, "Nine Feet Underground". The cover features a Tolkien-influenced painting.
 The album was critically well received but was not a chart success, which led to frustration within the band and David Sinclair's departure. Nevertheless, it has remained in print and sold steadily, and been recommended by critics as a good introduction to the Canterbury Scene genre. The band look back favourably on the album and several of its tracks have remained fixtures in Caravan's live repertoire. It has been reissued several times, including a comprehensive 40th anniversary remix package by British musician and producer Steven Wilson in 2011.
     
     
 
+
+## Tracklisting
+1. Golf Girl
+2. Winter Wine
+3. Love To Love You (And Tonight Pigs Will Fly)
+4. In The Land Of Grey And Pink
+5. Nine Feet Underground
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-land-of-grey-and-pink/1443216681" >}}<br>

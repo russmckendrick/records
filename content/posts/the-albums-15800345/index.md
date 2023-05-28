@@ -33,10 +33,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="the-albums-15800345.jpg" title="The Albums by Gene" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Olympian
 2. Haunted By You
 3. Your Love, It Lies
@@ -110,10 +109,6 @@ styles: ["Indie Rock", "Britpop"]
 71. You
 72. Spy In The Clubs
 73. Somewhere In The World
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kiss-best-of-solo-albums/1538080316" >}}<br>

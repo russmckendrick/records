@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="more-stately-mansions-7073830.jpg" title="More Stately Mansions by Charlie Barnes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. More Stately Mansions
 2. Sing To God
 3. Easy, Kid
@@ -31,10 +30,6 @@ styles: []
 8. Dresden
 9. Hammers
 10. Film
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-stately-mansions/1062927890" >}}<br>

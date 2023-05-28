@@ -23,10 +23,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ethereal", "Ambient"]
 ---
 
-{{< img src="pygmalion-15765429.jpg" title="Pygmalion by Slowdive" >}}
+Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Rutti (10:05)
 2. Crazy For You (6:01)
 3. Miranda (4:49)
@@ -36,15 +40,6 @@ styles: ["Post Rock", "Ethereal", "Ambient"]
 7. Visions Of La (1:48)
 8. Blue Skied An' Clear (6:54)
 9. All Of Us (4:07)
-
-<!-- section break -->
-
-Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pygmalion/400647147" >}}<br>

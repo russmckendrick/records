@@ -17,10 +17,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ---
 
-{{< img src="long-hot-summers-the-story-of-the-style-council-16136664.jpg" title="Long Hot Summers / The Story Of The Style Council by The Style Council" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Headstart For Happiness
 2. Long Hot Summer
 3. My Ever Changing Moods
@@ -53,10 +52,6 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 30. Here's One That Got Away
 31. Changing Of The Guard
 32. My Ever-Changing Moods (Demo)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288" >}}<br>

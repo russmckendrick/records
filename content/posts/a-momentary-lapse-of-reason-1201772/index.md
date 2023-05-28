@@ -29,10 +29,17 @@ genres: ["Rock"]
 styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="a-momentary-lapse-of-reason-1201772.jpg" title="A Momentary Lapse Of Reason by Pink Floyd" >}}
+A Momentary Lapse of Reason is the thirteenth studio album by the English progressive rock band Pink Floyd, released in the UK on 7 September 1987 by EMI and the following day in the US on Columbia. It was recorded primarily on guitarist David Gilmour's converted houseboat, Astoria.
+A Momentary Lapse of Reason was the first Pink Floyd album recorded without founding member Roger Waters, who departed in 1985. The production was marred by legal fights over the rights to the Pink Floyd name, which were not resolved until several months after release. It also saw the return of keyboardist and founding member Richard Wright, who was fired from the band by Waters during the recording of The Wall (1979).Unlike most earlier Pink Floyd records, A Momentary Lapse of Reason is not a concept album. It includes writing contributions from outside songwriters, following Gilmour's decision to include material once intended for his third solo album. The album was promoted with three singles: the double A-side "Learning to Fly" / "Terminal Frost", "On the Turning Away", and "One Slip".
+A Momentary Lapse of Reason received mixed reviews; some critics praised the production and instrumentation but criticised Gilmour's writing, and it was derided by Waters. It was nonetheless a commercial comeback for the band, reaching number three in the UK and US, and outsold Pink Floyd's previous album The Final Cut (1983). The album was supported by a highly successful world tour between 1987 and 1989, including free performance on a barge floating on the Grand Canal in Venice, Italy.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Signs Of Life (4:17)
 2. Learning To Fly (4:52)
 3. The Dogs Of War (6:15)
@@ -44,18 +51,6 @@ styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
 9. Terminal Frost (6:15)
 10. A New Machine (Part 2) (0:39)
 11. Sorrow (8:40)
-
-<!-- section break -->
-
-A Momentary Lapse of Reason is the thirteenth studio album by the English progressive rock band Pink Floyd, released in the UK on 7 September 1987 by EMI and the following day in the US on Columbia. It was recorded primarily on guitarist David Gilmour's converted houseboat, Astoria.
-A Momentary Lapse of Reason was the first Pink Floyd album recorded without founding member Roger Waters, who departed in 1985. The production was marred by legal fights over the rights to the Pink Floyd name, which were not resolved until several months after release. It also saw the return of keyboardist and founding member Richard Wright, who was fired from the band by Waters during the recording of The Wall (1979).Unlike most earlier Pink Floyd records, A Momentary Lapse of Reason is not a concept album. It includes writing contributions from outside songwriters, following Gilmour's decision to include material once intended for his third solo album. The album was promoted with three singles: the double A-side "Learning to Fly" / "Terminal Frost", "On the Turning Away", and "One Slip".
-A Momentary Lapse of Reason received mixed reviews; some critics praised the production and instrumentation but criticised Gilmour's writing, and it was derided by Waters. It was nonetheless a commercial comeback for the band, reaching number three in the UK and US, and outsold Pink Floyd's previous album The Final Cut (1983). The album was supported by a highly successful world tour between 1987 and 1989, including free performance on a barge floating on the Grand Canal in Venice, Italy.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-momentary-lapse-of-reason/699606729" >}}<br>

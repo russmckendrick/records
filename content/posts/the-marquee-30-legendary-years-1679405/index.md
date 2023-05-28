@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Rock"]
 ---
 
-{{< img src="the-marquee-30-legendary-years-1679405.jpg" title="The Marquee - 30 Legendary Years by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pride (In The Name Of Love) (3:46)
 2. Solid Rock (3:34)
 3. Turn It On Again (3:45)
@@ -58,10 +57,6 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 30. Sha La La La Lee (2:55)
 31. Purple Haze (2:45)
 32. Space Oddity (3:44)
-
-<!-- section break -->
-
-
 
 
 

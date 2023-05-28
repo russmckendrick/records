@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Blues", "Pop"]
 styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanson", "Blues Rock"]
 ---
 
-{{< img src="the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059.jpg" title="The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Many Faces of David Bowie
 2. You've Been Around
 3. All The Young Dudes
@@ -51,10 +50,6 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 22. Sorrow
 23. Around And Around
 24. La Mort (My Death)
-
-<!-- section break -->
-
-
 
 
 

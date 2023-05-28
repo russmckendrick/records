@@ -20,10 +20,9 @@ genres: ["Funk / Soul"]
 styles: []
 ---
 
-{{< img src="soul-of-a-woman-11143584.jpg" title="Soul Of A Woman by Sharon Jones & The Dap-Kings" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Matter Of Time
 2. Sail On!
 3. Just Give Me Your Time
@@ -35,10 +34,6 @@ styles: []
 9. When I Saw Your Face
 10. Girl! (You Got To Forgive Him)
 11. Call On God
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-of-a-woman/1484989831" >}}<br>

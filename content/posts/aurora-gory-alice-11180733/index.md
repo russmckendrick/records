@@ -16,10 +16,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="aurora-gory-alice-11180733.jpg" title="Aurora Gory Alice by Letters To Cleo" >}}
+Aurora Gory Alice is the first studio album by Letters to Cleo. It was released in 1993 on CherryDisc Records and re-released in 1994 on Giant Records. The first single from the album was "I See," which got little exposure (although it was later used as the music that plays during the closing credits of Daria episode "Through a Lens Darkly"). However, the second single, "Here & Now", received much exposure when it was featured on the Melrose Place soundtrack a year later.The re-released version of the album contains different versions of "Rim Shak" and "Here & Now" than the original release. The difference between the two versions was that the second version had Scott Riebling playing bass, while the first release featured Brian Karp, who originally played bass and wrote music for the band. A demo version of "I See" is available on the 1998 release Sister.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Big Star (4:05)
 2. I See (3:50)
 3. Rim Shak (6:01)
@@ -30,15 +34,6 @@ styles: ["Alternative Rock"]
 8. Mellie's Comin' Over (2:11)
 9. Come Around (4:11)
 10. Step Back (2:33)
-
-<!-- section break -->
-
-Aurora Gory Alice is the first studio album by Letters to Cleo. It was released in 1993 on CherryDisc Records and re-released in 1994 on Giant Records. The first single from the album was "I See," which got little exposure (although it was later used as the music that plays during the closing credits of Daria episode "Through a Lens Darkly"). However, the second single, "Here & Now", received much exposure when it was featured on the Melrose Place soundtrack a year later.The re-released version of the album contains different versions of "Rim Shak" and "Here & Now" than the original release. The difference between the two versions was that the second version had Scott Riebling playing bass, while the first release featured Brian Karp, who originally played bass and wrote music for the band. A demo version of "I See" is available on the 1998 release Sister.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aurora-gory-alice/298888785" >}}<br>

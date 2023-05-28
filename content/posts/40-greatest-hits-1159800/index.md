@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 ---
 
-{{< img src="40-greatest-hits-1159800.jpg" title="40 Greatest Hits by Elvis Presley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Baby Left Me
 2. Heartbreak Hotel
 3. Blue Suede Shoes
@@ -66,10 +65,6 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 38. Suspicious Minds
 39. There Goes My Everything
 40. Don't Cry Daddy
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171" >}}<br>

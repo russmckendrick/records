@@ -48,10 +48,9 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
-{{< img src="this-is-trojan-10620174.jpg" title="This Is Trojan by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Volume One
 2. Israelites
 3. Double Barrel
@@ -115,10 +114,6 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 61. Dollar In The Teeth
 62. Moon Hop
 63. Reggae Merengue
-
-<!-- section break -->
-
-
 
 
 ## Spotify

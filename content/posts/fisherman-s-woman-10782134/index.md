@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
 
-{{< img src="fisherman-s-woman-10782134.jpg" title="Fisherman's Woman by Emiliana Torrini" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Nothing Brings Me Down
 2. Sunnyroad
 3. Snow
@@ -37,10 +36,6 @@ styles: ["Folk Rock", "Acoustic"]
 10. Fisherman's Woman
 11. Thinking Out Loud
 12. Serenade
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fishermans-woman/259865722" >}}<br>

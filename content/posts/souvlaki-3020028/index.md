@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 ---
 
-{{< img src="souvlaki-3020028.jpg" title="Souvlaki by Slowdive" >}}
+Souvlaki is the second studio album by English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.
+On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Alison (3:52)
 2. Machine Gun (4:28)
 3. 40 Days (3:17)
@@ -35,14 +38,6 @@ styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 8. Altogether (3:43)
 9. Melon Yellow (3:54)
 10. Dagger (3:33)
-
-<!-- section break -->
-
-Souvlaki is the second studio album by English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.
-On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/souvlaki/399211729" >}}<br>

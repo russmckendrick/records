@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="beneath-the-eyrie-14095957.jpg" title="Beneath The Eyrie by Pixies" >}}
+Beneath the Eyrie is the seventh studio album by American alternative rock band Pixies, released on September 13, 2019, by BMG/Infectious. Produced by Tom Dalgety, and preceded by the singles "On Graveyard Hill" and "Catfish Kate", the album was recorded in Dreamland Recording Studios, a remote, converted church in upstate New York. The band were influenced by their Gothic surroundings during the writing and recording process, with vocalist and guitarist Black Francis stating: "I wanted to intermingle with the spirit world, with life and death and with the mystical and a more surreal landscape."
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. In The Arms Of Mrs. Mark Of Cain
 2. Graveyard Hill
 3. Catfish Kate
@@ -41,15 +45,6 @@ styles: ["Indie Rock"]
 10. Bird Of Prey
 11. Daniel Boone
 12. Death Horizon
-
-<!-- section break -->
-
-Beneath the Eyrie is the seventh studio album by American alternative rock band Pixies, released on September 13, 2019, by BMG/Infectious. Produced by Tom Dalgety, and preceded by the singles "On Graveyard Hill" and "Catfish Kate", the album was recorded in Dreamland Recording Studios, a remote, converted church in upstate New York. The band were influenced by their Gothic surroundings during the writing and recording process, with vocalist and guitarist Black Francis stating: "I wanted to intermingle with the spirit world, with life and death and with the mystical and a more surreal landscape."
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beneath-the-eyrie-deluxe/1497505141" >}}<br>

@@ -25,10 +25,14 @@ genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
 
-{{< img src="music-to-make-love-to-your-old-lady-by-23894969.jpg" title="Music To Make Love To Your Old Lady By by Nathaniel Merriweather" >}}
+Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Ladies Love Chest Rockwell (1:18)
 2. Pit Stop (Take Me Home) (3:56)
 3. Anger Management (4:18)
@@ -45,15 +49,6 @@ styles: ["Chanson", "Downtempo", "Hip Hop"]
 14. Tea Time With Maseo (1:38)
 15. Stroker Ace (4:27)
 16. Archie & Veronica (6:06)
-
-<!-- section break -->
-
-Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nathaniel-merriweather-presents-lovage-music-to-make/844768342" >}}<br>

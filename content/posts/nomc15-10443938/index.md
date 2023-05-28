@@ -31,10 +31,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ---
 
-{{< img src="nomc15-10443938.jpg" title="NOMC15 by New Order" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction: Das Rheingold - Vorspiel
 2. Singularity
 3. Ceremony
@@ -54,10 +53,6 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 17. Atmosphere
 18. Love Will Tear Us Apart
 19. Blue Monday
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nomc15-live/1296071973" >}}<br>

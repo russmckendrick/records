@@ -23,10 +23,9 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock"]
 ---
 
-{{< img src="goin-your-way-highlights-7780882.jpg" title="Goin' Your Way (Highlights) by Neil Finn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She Will Have Her Way (5:24)
 2. Careless (3:48)
 3. Distant Sun (4:31)
@@ -37,10 +36,6 @@ styles: ["Acoustic", "Pop Rock"]
 8. Into Temptation (5:03)
 9. To Her Door (3:34)
 10. Don't Dream It's Over (4:31)
-
-<!-- section break -->
-
-
 
 
 

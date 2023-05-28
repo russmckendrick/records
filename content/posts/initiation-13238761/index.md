@@ -22,10 +22,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Experimental"]
 ---
 
-{{< img src="initiation-13238761.jpg" title="Initiation by Todd Rundgren" >}}
+Initiation is the sixth album by American musician Todd Rundgren, released May 23, 1975 on Bearsville Records. With this album, Rundgren fully embraced the synthesized prog sound he had begun exploring in more depth in his work with his band Utopia.  However, unlike Utopia, in which Rundgren had limited himself to playing guitar, most of the synthesizers on Initiation were played and programmed by Rundgren himself.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Real Man (4:25)
 2. Born To Synthesize (3:40)
 3. The Death Of Rock And Roll (3:48)
@@ -33,13 +35,6 @@ styles: ["Experimental"]
 5. Initiation (7:05)
 6. Fair Warning (8:07)
 7. A Treatise On Cosmic Fire (36:00)
-
-<!-- section break -->
-
-Initiation is the sixth album by American musician Todd Rundgren, released May 23, 1975 on Bearsville Records. With this album, Rundgren fully embraced the synthesized prog sound he had begun exploring in more depth in his work with his band Utopia.  However, unlike Utopia, in which Rundgren had limited himself to playing guitar, most of the synthesizers on Initiation were played and programmed by Rundgren himself.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/initiation/1084825294" >}}<br>

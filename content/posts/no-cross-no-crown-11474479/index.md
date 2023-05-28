@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal"]
 ---
 
-{{< img src="no-cross-no-crown-11474479.jpg" title="No Cross No Crown by Corrosion Of Conformity" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Novus Deus
 2. The Luddite
 3. Cast The First Stone
@@ -46,10 +45,6 @@ styles: ["Stoner Rock", "Heavy Metal"]
 13. No Cross No Crown
 14. A Quest To Believe (A Call To The Void)
 15. Son And Daughter
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-cross-no-crown/1458857714" >}}<br>

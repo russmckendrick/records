@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="big-canoe-2529922.jpg" title="Big Canoe by Tim Finn" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Spiritual Hunger
 2. Don't Bury My Heart
 3. Timmy
@@ -35,10 +34,6 @@ styles: ["New Wave", "Pop Rock"]
 8. Hyacinth
 9. Big Canoe
 10. Are We One Or Are We Two
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-canoe/723416046" >}}<br>

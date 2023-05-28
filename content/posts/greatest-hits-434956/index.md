@@ -25,10 +25,15 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="greatest-hits-434956.jpg" title="Greatest Hits by Steely Dan" >}}
+Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sold over two million units in the US.
+The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Do It Again (5:50)
 2. Reeling In The Years (4:35)
 3. My Old School (5:45)
@@ -47,16 +52,6 @@ styles: ["Classic Rock"]
 16. The Fez (3:54)
 17. Peg (3:54)
 18. Josie (4:30)
-
-<!-- section break -->
-
-Greatest Hits is a compilation album by Steely Dan, released in 1978. It has sold over two million units in the US.
-The double album includes tracks from the band's first six studio albums and includes a previously unreleased song, "Here at the Western World", which was recorded during the sessions for The Royal Scam but not included on that album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-steely-dan/1440803723" >}}<br>

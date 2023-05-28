@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="house-of-blues-los-angeles-2003-19649257.jpg" title="House Of Blues - Los Angeles 2003 by Porcupine Tree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blackest Eyes (5:29)
 2. Shesmovedon (5:24)
 3. Gravity Eyelids (7:41)
@@ -43,10 +42,6 @@ styles: ["Prog Rock"]
 10. Moon Touches Your Shoulder (6:12)
 11. Strip The Soul (8:06)
 12. Wedding Nails (6:42)
-
-<!-- section break -->
-
-
 
 
 

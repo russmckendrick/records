@@ -28,10 +28,14 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="get-a-grip-9685203.jpg" title="Get A Grip by Aerosmith" >}}
+Get a Grip is the eleventh studio album by American rock band Aerosmith, released in April 1993 by Geffen Records. Get a Grip was the band's last studio album to be released by Geffen before they returned to Columbia Records.
+Get a Grip featured guests including Don Henley, who sang backup on "Amazing", and Lenny Kravitz, who offered backup vocals and collaboration to "Line Up". As on Permanent Vacation and Pump, this album featured numerous song collaborators from outside the band including: Desmond Child, Jim Vallance, Mark Hudson, Richie Supa, Taylor Rhodes, Jack Blades, and Tommy Shaw.
+Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sales of over 20 million copies. The album became the band's first album to reach number one in the United States and tied with Pump for their second best-selling album in the U.S., selling over 7 million copies as of 1995 (Toys in the Attic leads with nine million). This also made it their third consecutive album with U.S. sales of at least five million. Two songs from the album won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal, in 1993 and 1994. The album was voted Album of the Year by Metal Edge readers in the magazine's 1993 Readers' Choice Awards, while "Livin' on the Edge" was voted Best Video.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (0:23)
 2. Eat The Rich (4:10)
 3. Get A Grip (3:58)
@@ -46,15 +50,6 @@ styles: ["Hard Rock"]
 12. Line Up (4:02)
 13. Amazing (5:56)
 14. Boogie Man (2:15)
-
-<!-- section break -->
-
-Get a Grip is the eleventh studio album by American rock band Aerosmith, released in April 1993 by Geffen Records. Get a Grip was the band's last studio album to be released by Geffen before they returned to Columbia Records.
-Get a Grip featured guests including Don Henley, who sang backup on "Amazing", and Lenny Kravitz, who offered backup vocals and collaboration to "Line Up". As on Permanent Vacation and Pump, this album featured numerous song collaborators from outside the band including: Desmond Child, Jim Vallance, Mark Hudson, Richie Supa, Taylor Rhodes, Jack Blades, and Tommy Shaw.
-Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sales of over 20 million copies. The album became the band's first album to reach number one in the United States and tied with Pump for their second best-selling album in the U.S., selling over 7 million copies as of 1995 (Toys in the Attic leads with nine million). This also made it their third consecutive album with U.S. sales of at least five million. Two songs from the album won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal, in 1993 and 1994. The album was voted Album of the Year by Metal Edge readers in the magazine's 1993 Readers' Choice Awards, while "Livin' on the Edge" was voted Best Video.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/get-a-grip/1680799198" >}}<br>

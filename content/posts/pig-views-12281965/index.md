@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="pig-views-12281965.jpg" title="Pig Views by Regal Worm" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rose, Rubus, Smilax, Vulkan (7:17)
 2. Revealed As A True Future Tyrant (5:30)
 3. Pre-Columbian Worry Song (5:25)
@@ -38,10 +37,6 @@ styles: ["Prog Rock"]
 10. The Evil Eye Is Liquified (5:06)
 11. Huge Machine, You Are So Heavy (6:38)
 12. Butterfly (0:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pig-views/1561978428" >}}<br>

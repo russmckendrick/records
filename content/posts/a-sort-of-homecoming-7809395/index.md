@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Acoustic"]
 ---
 
-{{< img src="a-sort-of-homecoming-7809395.jpg" title="A Sort Of Homecoming by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Lost Song - Part 2 (6:39)
 2. Untouchable - Part 1 (6:29)
 3. Untouchable - Part 2 (6:25)
@@ -35,10 +34,6 @@ styles: ["Prog Rock", "Acoustic"]
 13. Internal Landscapes (7:03)
 14. A Natural Disaster (8:45)
 15. Fragile Dreams (7:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-sort-of-homecoming/1049320519" >}}<br>

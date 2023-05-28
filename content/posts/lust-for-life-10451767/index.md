@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="lust-for-life-10451767.jpg" title="Lust For Life by Iggy Pop" >}}
+"Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Lust For Life
 2. Sixteen
 3. Some Weird Sin
@@ -35,15 +39,6 @@ styles: []
 7. Turn Blue
 8. Neighborhood Threat
 9. Fall In Love With Me
-
-<!-- section break -->
-
-"Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}<br>

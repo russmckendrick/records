@@ -42,10 +42,9 @@ genres: ["Hip Hop", "Reggae"]
 styles: ["Reggae", "Dub", "Dancehall"]
 ---
 
-{{< img src="outside-the-echo-chamber-10312776.jpg" title="Outside The Echo Chamber by Coldcut" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Everyday Another Sanction
 2. Everyday Another Sanction (Dub)
 3. Vitals
@@ -62,10 +61,6 @@ styles: ["Reggae", "Dub", "Dancehall"]
 14. Livid Hip Hop
 15. Aztec Riddim
 16. Make Up Your Mind (Dub)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464" >}}<br>

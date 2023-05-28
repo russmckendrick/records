@@ -25,10 +25,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="pablo-honey-8765909.jpg" title="Pablo Honey by Radiohead" >}}
+Pablo Honey is the debut studio album by the English rock band Radiohead, released on 22 February 1993 in the UK by Parlophone and on 20 April in the US by Capitol Records. It was produced by Sean Slade, Paul Q. Kolderie and Radiohead's co-manager Chris Hufford.
+Radiohead formed at Abingdon School in Abingdon, Oxfordshire, and signed a recording contract with EMI in 1991. Their debut release, the Drill EP (1992), achieved little success. Pablo Honey was recorded in three weeks at Chipping Norton Recording Studios in Oxfordshire from September to November 1992. The recording was hampered by Radiohead's lack of studio experience.
+The singles "Creep", "Anyone Can Play Guitar" and "Stop Whispering" initially made little impact. However, "Creep" gradually gained international radio play, reaching number seven on the UK Singles Chart after it was reissued in 1993. Radiohead embarked on an aggressive promotional tour in the US supporting Belly and PJ Harvey, followed by a European tour supporting James. In May 1995, a live video, Live at the Astoria (1995), was released on VHS.
+Pablo Honey reached number 22 on the UK Albums Chart. It was certified gold in the UK in 1994 and triple platinum in 2013. In the US, it was certified platinum in 1995. Pablo Honey received generally favourable reviews, but some found it underdeveloped or derivative. Though it is less acclaimed than Radiohead's later work, some retrospective reviews have been positive and it has appeared in lists of the greatest albums. The members of Radiohead have criticised it, citing weaker songwriting and their studio inexperience. "Creep" remains Radiohead's most successful single.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. You
 2. Creep
 3. How Do You?
@@ -41,17 +47,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. I Can't
 11. Lurgee
 12. Blow Out
-
-<!-- section break -->
-
-Pablo Honey is the debut studio album by the English rock band Radiohead, released on 22 February 1993 in the UK by Parlophone and on 20 April in the US by Capitol Records. It was produced by Sean Slade, Paul Q. Kolderie and Radiohead's co-manager Chris Hufford.
-Radiohead formed at Abingdon School in Abingdon, Oxfordshire, and signed a recording contract with EMI in 1991. Their debut release, the Drill EP (1992), achieved little success. Pablo Honey was recorded in three weeks at Chipping Norton Recording Studios in Oxfordshire from September to November 1992. The recording was hampered by Radiohead's lack of studio experience.
-The singles "Creep", "Anyone Can Play Guitar" and "Stop Whispering" initially made little impact. However, "Creep" gradually gained international radio play, reaching number seven on the UK Singles Chart after it was reissued in 1993. Radiohead embarked on an aggressive promotional tour in the US supporting Belly and PJ Harvey, followed by a European tour supporting James. In May 1995, a live video, Live at the Astoria (1995), was released on VHS.
-Pablo Honey reached number 22 on the UK Albums Chart. It was certified gold in the UK in 1994 and triple platinum in 2013. In the US, it was certified platinum in 1995. Pablo Honey received generally favourable reviews, but some found it underdeveloped or derivative. Though it is less acclaimed than Radiohead's later work, some retrospective reviews have been positive and it has appeared in lists of the greatest albums. The members of Radiohead have criticised it, citing weaker songwriting and their studio inexperience. "Creep" remains Radiohead's most successful single.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pablo-honey/1097862062" >}}<br>

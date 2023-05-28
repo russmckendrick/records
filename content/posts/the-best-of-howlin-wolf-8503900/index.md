@@ -20,10 +20,9 @@ genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
 
-{{< img src="the-best-of-howlin-wolf-8503900.jpg" title="The Best Of Howlin' Wolf by Howlin' Wolf" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Smokestack Lightnin' (3:06)
 2. Spoonful (2:45)
 3. Moanin' At Midnight (2:43)
@@ -40,10 +39,6 @@ styles: ["Chicago Blues"]
 14. I've Been Abused (2:16)
 15. The Natchez Burnin' (2:12)
 16. Goin' Down Slow (4:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790" >}}<br>

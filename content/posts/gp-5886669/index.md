@@ -22,10 +22,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Country Rock"]
 ---
 
-{{< img src="gp-5886669.jpg" title="GP by Gram Parsons" >}}
+After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gram Parsons kept pushing the envelope with his solo debut. On the one hand, he continued making old-school country contemporary, whether covering the George Jones weeper "That's All It Took" or blending honky-tonk and soul on his own "Big Mouth Blues." On the other, he took the singer/songwriter path in new directions, coupling complex imagery with country arrangements on tunes like "The New Soft Shoe." The rest of the world is still playing catch-up.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Still Feeling Blue (2:38)
 2. We'll Sweep Out The Ashes In The Morning (3:13)
 3. A Song For You (4:57)
@@ -37,14 +40,6 @@ styles: ["Country", "Country Rock"]
 9. Cry One More Time (3:55)
 10. How Much I've Lied (2:27)
 11. Big Mouth Blues (3:52)
-
-<!-- section break -->
-
-After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gram Parsons kept pushing the envelope with his solo debut. On the one hand, he continued making old-school country contemporary, whether covering the George Jones weeper "That's All It Took" or blending honky-tonk and soul on his own "Big Mouth Blues." On the other, he took the singer/songwriter path in new directions, coupling complex imagery with country arrangements on tunes like "The New Soft Shoe." The rest of the world is still playing catch-up.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gp/305092396" >}}<br>

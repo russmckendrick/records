@@ -19,10 +19,14 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="best-of-cream-7244667.jpg" title="Best Of Cream by Cream" >}}
+The Very Best of Cream is a 1995 compilation album by the British rock band Cream.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Sunshine Of Your Love (4:08)
 2. Badge (2:45)
 3. Crossroads (4:13)
@@ -33,15 +37,6 @@ styles: ["Blues Rock"]
 8. Tales Of Brave Ulysses (2:50)
 9. Strange Brew (2:45)
 10. I Feel Free (2:48)
-
-<!-- section break -->
-
-The Very Best of Cream is a 1995 compilation album by the British rock band Cream.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cream/1440920886" >}}<br>

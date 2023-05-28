@@ -49,10 +49,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="live-at-pompeii-10920062.jpg" title="Live At Pompeii by David Gilmour" >}}
+Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink Floyd. It was recorded at the Amphitheatre of Pompeii. It documents his 2015–16 world tour to promote his album, Rattle That Lock (2015). The concert was directed by Gavin Elder. The album was released on 29 September 2017 and is available on CD, LP, digital download, DVD, BD and deluxe box set containing the CD album and BD, plus a bonus exclusive BD of extras.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. 5 A.M.  (3:13)
 2. Rattle That Lock (5:21)
 3. Faces Of Stone (6:00)
@@ -74,15 +78,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 19. Run Like Hell (7:23)
 20. Time / Breathe (In The Air) (Reprise)  (6:45)
 21. Comfortably Numb (9:58)
-
-<!-- section break -->
-
-Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink Floyd. It was recorded at the Amphitheatre of Pompeii. It documents his 2015–16 world tour to promote his album, Rattle That Lock (2015). The concert was directed by Gavin Elder. The album was released on 29 September 2017 and is available on CD, LP, digital download, DVD, BD and deluxe box set containing the CD album and BD, plus a bonus exclusive BD of extras.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-pompeii/1260000840" >}}<br>

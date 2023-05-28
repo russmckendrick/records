@@ -21,10 +21,15 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="whispering-jack-1161865.jpg" title="Whispering Jack by John Farnham" >}}
+Whispering Jack is the twelfth studio album by Australian adult contemporary pop singer John Farnham. It was produced by Ross Fraser and released on 20 October 1986, peaking at No. 1 on the Australian Kent Music Report Album Charts. Whispering Jack has become the second-best-selling album in Australia, behind only Meat Loaf's album Bat Out of Hell, and the highest-selling album in Australia by an Australian artist―24x platinum, indicating sales of over 1.68 million copies sold. It spent 25 weeks at the No. 1 spot on the Album Charts during 1986–1987; it was awarded the 1987 ARIA Award for "Album of the Year", and it was the best-charting album for the decade of the 1980s in Australia. It was the first Australian-made album to be released on compact disc within Australia. One of Farnham's biggest hits, "You're the Voice", was issued as the lead single from this album and peaked at No. 1 on the Kent Music Report Singles Charts.Prior to this album, Farnham's career had stalled after being recruited and then leaving as lead singer of Australia's Little River Band. Farnham's manager, Glenn Wheatley, mortgaged his home to raise funds for the recording of this album. After initial reluctance by major Australian radio stations to play the lead single, "You're the Voice", public demand became overwhelming and they relented. The song became one of the standout Number One songs on the Australian Charts of the 1980s and still remains a staple of Australian Radio. Whispering Jack restarted Farnham's career and kept it rolling across two more decades. On 21 November 2006, Whispering Jack was re-released to celebrate its 20th Anniversary, which came with a bonus track, an extended studio version of "Pressure Down" and with a DVD of the edited 1987 Whispering Jack Live in Concert televised performance.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Pressure Down (3:45)
 2. You're The Voice (4:58)
 3. One Step Away (3:35)
@@ -35,16 +40,6 @@ styles: ["Pop Rock"]
 8. Trouble (3:25)
 9. A Touch Of Paradise (4:45)
 10. Let Me Out (4:20)
-
-<!-- section break -->
-
-Whispering Jack is the twelfth studio album by Australian adult contemporary pop singer John Farnham. It was produced by Ross Fraser and released on 20 October 1986, peaking at No. 1 on the Australian Kent Music Report Album Charts. Whispering Jack has become the second-best-selling album in Australia, behind only Meat Loaf's album Bat Out of Hell, and the highest-selling album in Australia by an Australian artist―24x platinum, indicating sales of over 1.68 million copies sold. It spent 25 weeks at the No. 1 spot on the Album Charts during 1986–1987; it was awarded the 1987 ARIA Award for "Album of the Year", and it was the best-charting album for the decade of the 1980s in Australia. It was the first Australian-made album to be released on compact disc within Australia. One of Farnham's biggest hits, "You're the Voice", was issued as the lead single from this album and peaked at No. 1 on the Kent Music Report Singles Charts.Prior to this album, Farnham's career had stalled after being recruited and then leaving as lead singer of Australia's Little River Band. Farnham's manager, Glenn Wheatley, mortgaged his home to raise funds for the recording of this album. After initial reluctance by major Australian radio stations to play the lead single, "You're the Voice", public demand became overwhelming and they relented. The song became one of the standout Number One songs on the Australian Charts of the 1980s and still remains a staple of Australian Radio. Whispering Jack restarted Farnham's career and kept it rolling across two more decades. On 21 November 2006, Whispering Jack was re-released to celebrate its 20th Anniversary, which came with a bonus track, an extended studio version of "Pressure Down" and with a DVD of the edited 1987 Whispering Jack Live in Concert televised performance.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whispering-jack/270340388" >}}<br>

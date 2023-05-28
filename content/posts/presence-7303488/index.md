@@ -27,20 +27,6 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="presence-7303488.jpg" title="Presence by Led Zeppelin" >}}
-
-<!-- section break -->
-
-1. Achilles Last Stand (10:30)
-2. For Your Life (6:25)
-3. Royal Orleans (2:59)
-4. Nobody's Fault But Mine (6:27)
-5. Candy Store Rock (4:11)
-6. Hots On For Nowhere (4:44)
-7. Tea For One (9:25)
-
-<!-- section break -->
-
 Presence is the seventh studio album by the English rock band Led Zeppelin, released by Swan Song Records on 31 March 1976. While the record was commercially successful, reaching the top of both the British and American album charts, and achieving a triple-platinum certification in the United States by the RIAA, it received mixed reviews from critics and is the lowest-selling album by the band.
 The album was written and recorded in the last months of 1975, during a difficult time in the band's history. Singer Robert Plant was recuperating from serious injuries he had sustained earlier that year in a car accident; this led to tours being cancelled and the band booking studio time to record Presence instead. The entire album was completed in a few weeks, with guitarist and producer Jimmy Page putting in several long shifts to complete recording and mixing. The title came from the strong presence the group felt as they worked together. The LP's artwork from Hipgnosis featured several photographs focused on a mysterious black object, called "The Object".
 Presence is dominated by compositions by Page and Plant, with only one track credited to the entire group; unlike other Zeppelin albums, it features no keyboards and little acoustic guitar. Because Plant was still recuperating, the band could not tour to capitalise on the release, and only two tracks, including the ten-minute opener "Achilles Last Stand", were performed live. However, the album has been re-appraised in retrospective reviews for its hard rock dynamics and simplicity compared to the group's other work.
@@ -48,6 +34,15 @@ Presence is dominated by compositions by Page and Plant, with only one track cre
         
     
 
+
+## Tracklisting
+1. Achilles Last Stand (10:30)
+2. For Your Life (6:25)
+3. Royal Orleans (2:59)
+4. Nobody's Fault But Mine (6:27)
+5. Candy Store Rock (4:11)
+6. Hots On For Nowhere (4:44)
+7. Tea For One (9:25)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/presence-remastered/580707889" >}}<br>

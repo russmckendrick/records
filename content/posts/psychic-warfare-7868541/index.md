@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="psychic-warfare-7868541.jpg" title="Psychic Warfare by Clutch" >}}
+Psychic Warfare is the eleventh studio album by the band Clutch, It was released on October 2, 2015 through the band's own label Weathermaker Music.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Affidavit (0:25)
 2. X-Ray Visions (3:42)
 3. Firebirds! (3:00)
@@ -38,15 +42,6 @@ styles: ["Hard Rock"]
 10. Behold The Colossus (3:51)
 11. Decapitation Blues (3:11)
 12. Son Of Virginia (7:15)
-
-<!-- section break -->
-
-Psychic Warfare is the eleventh studio album by the band Clutch, It was released on October 2, 2015 through the band's own label Weathermaker Music.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/psychic-warfare/1675774664" >}}<br>

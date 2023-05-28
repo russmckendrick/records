@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
 
-{{< img src="we-care-a-lot-625311.jpg" title="We Care A Lot by Faith No More" >}}
+We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. We Care A Lot
 2. The Jungle
 3. Mark Bowen
@@ -37,13 +39,6 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 8. As The Worm Turns
 9. Arabian Disco
 10. New Beginnings
-
-<!-- section break -->
-
-We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}<br>

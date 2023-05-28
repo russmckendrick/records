@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="nothing-but-the-truth-20766034.jpg" title="Nothing But The Truth by The Pineapple Thief" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Versions Of The Truth
 2. In Exile
 3. Warm Seas
@@ -52,10 +51,6 @@ styles: ["Prog Rock"]
 15. Threatening War
 16. The Swell
 17. The Final Thing On My Mind 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}<br>

@@ -35,10 +35,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="give-out-but-don-t-give-up-the-original-memphis-recordings-12646547.jpg" title="Give Out But Don't Give Up (The Original Memphis Recordings) by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jailbird (3:51)
 2. Rocks (3:48)
 3. Call On Me (3:21)
@@ -48,10 +47,6 @@ styles: ["Pop Rock"]
 7. Free (6:51)
 8. Jesus (6:38)
 9. Cry Myself Blind (4:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}<br>

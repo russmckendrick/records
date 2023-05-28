@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="i-learned-the-hard-way-2214427.jpg" title="I Learned The Hard Way by Sharon Jones & The Dap-Kings" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Game Gets Old
 2. I Learned The Hard Way
 3. Better Things
@@ -37,10 +36,6 @@ styles: ["Rhythm & Blues", "Soul"]
 10. Without A Heart
 11. If You Call
 12. Mama Don't Like My Man
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880" >}}<br>

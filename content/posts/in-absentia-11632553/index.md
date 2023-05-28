@@ -31,10 +31,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="in-absentia-11632553.jpg" title="In Absentia by Porcupine Tree" >}}
+In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Blackest Eyes (4:26)
 2. Trains (5:57)
 3. Lips Of Ashes (4:40)
@@ -47,15 +51,6 @@ styles: ["Alternative Rock"]
 10. Heartattack In A Layby (4:15)
 11. Strip The Soul (7:22)
 12. Collapse The Light Into Earth (5:52)
-
-<!-- section break -->
-
-In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}<br>

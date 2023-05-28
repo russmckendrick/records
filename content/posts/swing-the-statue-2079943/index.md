@@ -17,10 +17,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="swing-the-statue-2079943.jpg" title="Swing The Statue! by Victoria Williams" >}}
+Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Why Look At The Moon (2:30)
 2. Boogieman (3:50)
 3. Clothesline (4:32)
@@ -33,13 +35,6 @@ styles: ["Folk Rock", "Country Rock"]
 10. Vieux Amis (2:10)
 11. Weeds (3:36)
 12. Lift Him Up (3:17)
-
-<!-- section break -->
-
-Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records.
-    
-    
-
 
 
 

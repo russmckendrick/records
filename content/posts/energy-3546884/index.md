@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-{{< img src="energy-3546884.jpg" title="Energy by Operation Ivy" >}}
+Energy is the only studio album by the American ska punk band Operation Ivy. It was originally released on vinyl and cassette in May 1989 through Lookout! Records with the catalog number LK 010. Although the album itself has never been released on CD, all of the tracks were featured on the career-spanning compilation Operation Ivy issued by Lookout in 1991. Despite achieving no mainstream success, Energy is considered one of the most important albums of ska punk and is frequently cited as an influence by many later bands of the genre.The album stayed in print on Lookout until 2006, when the band took back its recordings from the label due to unpaid royalties. Guitarist Tim "Lint" Armstrong's label Hellcat Records re-released the original album as a 12-inch LP picture disc in 2004, and in 2007 put out a remastered version of the self-titled compilation. A second vinyl edition was released by Hellcat on April 18, 2012 and debuted at number 13 on the Vinyl Albums chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Knowledge (1:40)
 2. Sound System (2:14)
 3. Jaded (1:49)
@@ -45,13 +47,6 @@ styles: ["Ska", "Punk"]
 17. Room Without A Window (1:31)
 18. Big City (2:14)
 19. Missionary (2:05)
-
-<!-- section break -->
-
-Energy is the only studio album by the American ska punk band Operation Ivy. It was originally released on vinyl and cassette in May 1989 through Lookout! Records with the catalog number LK 010. Although the album itself has never been released on CD, all of the tracks were featured on the career-spanning compilation Operation Ivy issued by Lookout in 1991. Despite achieving no mainstream success, Energy is considered one of the most important albums of ska punk and is frequently cited as an influence by many later bands of the genre.The album stayed in print on Lookout until 2006, when the band took back its recordings from the label due to unpaid royalties. Guitarist Tim "Lint" Armstrong's label Hellcat Records re-released the original album as a 12-inch LP picture disc in 2004, and in 2007 put out a remastered version of the self-titled compilation. A second vinyl edition was released by Hellcat on April 18, 2012 and debuted at number 13 on the Vinyl Albums chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/summer-operation/1660380490" >}}<br>

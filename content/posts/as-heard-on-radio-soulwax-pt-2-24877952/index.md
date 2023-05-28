@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["House", "Electro"]
 ---
 
-{{< img src="as-heard-on-radio-soulwax-pt-2-24877952.jpg" title="As Heard On Radio Soulwax Pt.2 by 2 Many DJ's" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Peter Gunn (Live) (2:49)
 2. Where's Your Head At (Head-A-Pella)
 3. Fuck The Pain Away (1:38)
@@ -68,10 +67,6 @@ styles: ["House", "Electro"]
 43. Sandwiches (A Capella)
 44. I Sit On Acid (Soulwax Remix) (2:56)
 45. Start Button (4:27)
-
-<!-- section break -->
-
-
 
 
 

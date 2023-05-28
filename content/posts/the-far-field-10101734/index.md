@@ -24,10 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Synth-pop"]
 ---
 
-{{< img src="the-far-field-10101734.jpg" title="The Far Field  by Future Islands" >}}
+Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Aladdin (4:13)
 2. Time On Her Side (3:39)
 3. Ran (3:26)
@@ -40,14 +43,6 @@ styles: ["Indie Rock", "Synth-pop"]
 10. Day Glow Fire (3:49)
 11. Shadows (4:05)
 12. Black Rose (3:25)
-
-<!-- section break -->
-
-Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="the-nashville-sound-10424624.jpg" title="The Nashville Sound  by Jason Isbell And The 400 Unit" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Last Of My Kind (4:22)
 2. Cumberland Gap (3:24)
 3. Tupelo (4:01)
@@ -41,10 +40,6 @@ styles: ["Country"]
 8. Chaos And Clothes (3:35)
 9. Hope The High Road (3:03)
 10. Something To Love (3:39)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-nashville-sound/1216344634" >}}<br>

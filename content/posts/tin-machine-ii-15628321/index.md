@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="tin-machine-ii-15628321.jpg" title="Tin Machine II by Tin Machine" >}}
+Tin Machine II is the second and final studio album by Anglo-American rock group Tin Machine, released on 2 September 1991 through Victory Music in association with London Records. The band, composed of English singer-songwriter David Bowie, Reeves Gabrels on guitar and brothers Tony Fox and Hunt Sales on bass and drums, respectively, recorded it in Sydney, Australia in late 1989 at the conclusion of the Tin Machine Tour. After Bowie completed his solo Sound+Vision Tour in late 1990, recording resumed in Los Angeles, California until March 1991. The production was handled by Tin Machine and Tim Palmer, who produced their debut studio album (1989), with additional production by Hugh Padgham on "One Shot". While the album musically retains a hard rock sound, the songs are more melodic compared to its predecessor, with lyrics focusing on love.
+The cover artwork features four Greek Kouroi and was controversial in the US due to the statues' genitalia. Tin Machine II received mostly mixed reviews from music critics, with many highlighting individual tracks but considering the project as a whole mediocre. Some recognised it as an improvement over Tin Machine. Supported by three singles, the album peaked at number 23 in the UK and number 126 in the US. The band's accompanying It's My Life Tour received mixed reviews; a live album from the tour, Tin Machine Live: Oy Vey, Baby, was released in 1992. At the tour's completion, Tin Machine disbanded and Bowie resumed his solo career, releasing his eighteenth studio album, Black Tie White Noise (1993). Gabrels remained Bowie's collaborator for the rest of the 1990s. Bowie's biographers have given Tin Machine II mixed reactions, with most recognising it as inconsistent in quality and panning two tracks sung by Hunt Sales. The album was reissued for the first time in 2020 on both vinyl and CD.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Baby Universal (3:18)
 2. One Shot (5:11)
 3. You Belong In Rock N' Roll (4:07)
@@ -42,14 +45,6 @@ styles: ["Alternative Rock"]
 11. Sorry (3:29)
 12. Goodbye Mr. Ed (3:24)
 13. Hammerhead (0:58)
-
-<!-- section break -->
-
-Tin Machine II is the second and final studio album by Anglo-American rock group Tin Machine, released on 2 September 1991 through Victory Music in association with London Records. The band, composed of English singer-songwriter David Bowie, Reeves Gabrels on guitar and brothers Tony Fox and Hunt Sales on bass and drums, respectively, recorded it in Sydney, Australia in late 1989 at the conclusion of the Tin Machine Tour. After Bowie completed his solo Sound+Vision Tour in late 1990, recording resumed in Los Angeles, California until March 1991. The production was handled by Tin Machine and Tim Palmer, who produced their debut studio album (1989), with additional production by Hugh Padgham on "One Shot". While the album musically retains a hard rock sound, the songs are more melodic compared to its predecessor, with lyrics focusing on love.
-The cover artwork features four Greek Kouroi and was controversial in the US due to the statues' genitalia. Tin Machine II received mostly mixed reviews from music critics, with many highlighting individual tracks but considering the project as a whole mediocre. Some recognised it as an improvement over Tin Machine. Supported by three singles, the album peaked at number 23 in the UK and number 126 in the US. The band's accompanying It's My Life Tour received mixed reviews; a live album from the tour, Tin Machine Live: Oy Vey, Baby, was released in 1992. At the tour's completion, Tin Machine disbanded and Bowie resumed his solo career, releasing his eighteenth studio album, Black Tie White Noise (1993). Gabrels remained Bowie's collaborator for the rest of the 1990s. Bowie's biographers have given Tin Machine II mixed reactions, with most recognising it as inconsistent in quality and panning two tracks sung by Hunt Sales. The album was reissued for the first time in 2020 on both vinyl and CD.
-    
-    
-
 
 
 

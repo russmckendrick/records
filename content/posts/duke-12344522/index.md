@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="duke-12344522.jpg" title="Duke by Genesis" >}}
+Duke is the tenth studio album by English rock band Genesis, released in March 1980 on Charisma Records. The album followed a period of inactivity for the band in early 1979. Phil Collins moved to Vancouver, Canada, in an effort to salvage his failing first marriage, while Tony Banks and Mike Rutherford recorded solo albums. Collins returned to the UK after his marriage ended and wrote a significant amount of material, some of which was used for Duke and some was later reworked for his first solo album, Face Value. Duke contained a mix of individually written songs and tracks that evolved from jam sessions in mid-1979, while recording took place at the end of the year. The break in activity rejuvenated the band, and they found the album an easy one to work on.
+Duke was positively received by music critics, who praised the album for bridging the band's progressive rock-oriented past, such as the closing ten-minute "Duke's Travels"/"Duke's End" suite, with their more pop rock-oriented, commercially accessible direction, as displayed on the hit singles "Turn It On Again", "Duchess", and "Misunderstanding". It reached No. 11 in the US, and became their first album to reach No. 1 in the UK. It has since been certified Platinum in both the UK and US.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Behind The Lines
 2. Duchess
 3. Guide Vocal
@@ -37,14 +40,6 @@ styles: ["Pop Rock", "Prog Rock"]
 10. Please Don't Ask
 11. Duke's Travels
 12. Duke's End
-
-<!-- section break -->
-
-Duke is the tenth studio album by English rock band Genesis, released in March 1980 on Charisma Records. The album followed a period of inactivity for the band in early 1979. Phil Collins moved to Vancouver, Canada, in an effort to salvage his failing first marriage, while Tony Banks and Mike Rutherford recorded solo albums. Collins returned to the UK after his marriage ended and wrote a significant amount of material, some of which was used for Duke and some was later reworked for his first solo album, Face Value. Duke contained a mix of individually written songs and tracks that evolved from jam sessions in mid-1979, while recording took place at the end of the year. The break in activity rejuvenated the band, and they found the album an easy one to work on.
-Duke was positively received by music critics, who praised the album for bridging the band's progressive rock-oriented past, such as the closing ten-minute "Duke's Travels"/"Duke's End" suite, with their more pop rock-oriented, commercially accessible direction, as displayed on the hit singles "Turn It On Again", "Duchess", and "Misunderstanding". It reached No. 11 in the US, and became their first album to reach No. 1 in the UK. It has since been certified Platinum in both the UK and US.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/duke/714154865" >}}<br>

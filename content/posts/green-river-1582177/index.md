@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Classic Rock"]
 ---
 
-{{< img src="green-river-1582177.jpg" title="Green River by Creedence Clearwater Revival" >}}
+CCR were at the height of their powers in 1969, <i>Green River</i> being the second of three LPs the band would release that year. Having found their sound on <i>Bayou Country</i>, Fogerty and crew fully step into their own with this release, which features the timeless singles "Bad Moon Rising", "Lodi" and of course the title track. <i>Willy and the Poor Boys</i> would soon follow, keeping up the band's ferocious pace, but if you had to pick just one CCR album, this should be it.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Green River (2:31)
 2. Commotion (2:37)
 3. Tombstone (3:36)
@@ -34,14 +37,6 @@ styles: ["Southern Rock", "Classic Rock"]
 7. Cross-Tie Walker (3:17)
 8. Sinister Purpose (3:19)
 9. The Night Time Is The Right Time (3:07)
-
-<!-- section break -->
-
-CCR were at the height of their powers in 1969, <i>Green River</i> being the second of three LPs the band would release that year. Having found their sound on <i>Bayou Country</i>, Fogerty and crew fully step into their own with this release, which features the timeless singles "Bad Moon Rising", "Lodi" and of course the title track. <i>Willy and the Poor Boys</i> would soon follow, keeping up the band's ferocious pace, but if you had to pick just one CCR album, this should be it.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/green-river/1440952818" >}}<br>

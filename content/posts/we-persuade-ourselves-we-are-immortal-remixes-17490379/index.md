@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ---
 
-{{< img src="we-persuade-ourselves-we-are-immortal-remixes-17490379.jpg" title="We Persuade Ourselves We Are Immortal Remixes by Amorphous Androgynous" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Lutine Bell
 2. Günter & His Evil Soul Sacrifice Orchestra Play Black Mass A Gogo
 3. Hymortality Part 1
@@ -37,10 +36,6 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 12. Synthony On A Theme Of Mortality (Part 2)
 13.  Counting Down The Time (Part 2)
 14. Tomorrow, Time & Immortality
-
-<!-- section break -->
-
-
 
 
 

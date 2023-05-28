@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="yours-for-the-taking-the-best-of-15778008.jpg" title="Yours For The Taking (The Best Of) by Gene" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. For The Dead
 2. Be My Light, Be My Guide
 3. I Can't Help Myself
@@ -48,10 +47,6 @@ styles: ["Indie Rock"]
 20. O Lover
 21. Somewhere In The World
 22. Let Me Move On (Long Version)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-musics-for-taking-care-of-the/1648119317" >}}<br>

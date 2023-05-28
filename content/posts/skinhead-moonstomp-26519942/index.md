@@ -17,10 +17,9 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-{{< img src="skinhead-moonstomp-26519942.jpg" title="Skinhead Moonstomp by Symarip" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Skinhead Moonstomp
 2. Phoenix Reggae
 3. Skinhead Girl
@@ -33,10 +32,6 @@ styles: ["Ska", "Rocksteady"]
 10. Stay With Him
 11. Fung Shu
 12. You're Mine
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1141938969" >}}<br>

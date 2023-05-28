@@ -16,10 +16,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Krautrock", "Acoustic"]
 ---
 
-{{< img src="dronne-9116811.jpg" title="Dronne by North Sea Radio Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Arcade
 2. Vishnu Schist 
 3. The British Road
@@ -29,10 +28,6 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 7. Alsace Lorraine
 8. Dinosaurus Rex Part 1
 9. Dinosaurus Rex Part 2 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dronne/1135427432" >}}<br>

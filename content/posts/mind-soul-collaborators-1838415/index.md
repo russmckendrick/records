@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock", "Reggae", "Folk, World, & Country"]
 styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Techno", "Ska", "Ambient", "Acid", "Tribal", "Folk"]
 ---
 
-{{< img src="mind-soul-collaborators-1838415.jpg" title="Mind + Soul Collaborators by Back To The Planet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Please Don't Fight
 2. Crossed Lines
 3. Daydream
@@ -32,10 +31,6 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 8. Teenage Turtles
 9. Hard Edged Few
 10. Sleepless Nights
-
-<!-- section break -->
-
-
 
 
 

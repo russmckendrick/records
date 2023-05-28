@@ -22,20 +22,15 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Indie Pop"]
 ---
 
-{{< img src="sunset-dreams-21262522.jpg" title="Sunset Dreams by Jane Weaver" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Sunset Dreams (4:27)
 2. Solarised (Extended Mix) (8:16)
 3. The Lexical Distance (4:31)
 4. The Revolution Of Super Visions (See Thru Hands Remix) (3:27)
 5. Solarised (W. H. Lung Remix) (7:34)
 6. Don't Tell Me I'm Wrong (3:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Mod"]
 ---
 
-{{< img src="modern-classics-the-greatest-hits-24798500.jpg" title="Modern Classics (The Greatest Hits) by Paul Weller" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Out Of The Sinking
 2. Peacock Suit
 3. Sunflower
@@ -54,10 +53,6 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 28. Porcelain Gods
 29. Sunflower
 30. Broken Stones
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/modern-classics-the-greatest-hits/1440925454" >}}<br>

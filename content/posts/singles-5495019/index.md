@@ -22,10 +22,12 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="singles-5495019.jpg" title="Singles by Future Islands" >}}
+Singles is the fourth studio album by American synthpop band Future Islands, released on March 24, 2014 through 4AD Records. The album's lead single "Seasons (Waiting on You)" was picked as the best track of 2014 by NME, Pitchfork Media and Spin.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Seasons (Waiting On You) (3:46)
 2. Spirit (4:21)
 3. Sun In The Morning (3:50)
@@ -36,13 +38,6 @@ styles: ["Synth-pop"]
 8. Like The Moon (4:40)
 9. Fall From Grace (4:15)
 10. A Dream Of You & Me (3:59)
-
-<!-- section break -->
-
-Singles is the fourth studio album by American synthpop band Future Islands, released on March 24, 2014 through 4AD Records. The album's lead single "Seasons (Waiting on You)" was picked as the best track of 2014 by NME, Pitchfork Media and Spin.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles/791124020" >}}<br>

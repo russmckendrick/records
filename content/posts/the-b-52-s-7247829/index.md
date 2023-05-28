@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="the-b-52-s-7247829.jpg" title="The B-52's by The B-52's" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Planet Claire (4:35)
 2. 52 Girls (3:34)
 3. Dance This Mess Around (4:36)
@@ -34,10 +33,6 @@ styles: ["New Wave"]
 7. Hero Worship (4:07)
 8. 6060-842 (2:48)
 9. Downtown (2:57)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/b-52s/1440816774" >}}<br>

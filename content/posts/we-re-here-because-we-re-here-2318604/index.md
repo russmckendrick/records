@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="we-re-here-because-we-re-here-2318604.jpg" title="We're Here Because We're Here by Anathema" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Thin Air (6:00)
 2. Summernight Horizon (4:13)
 3. Dreaming Light (5:47)
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 8. Get Off Get Out (5:01)
 9. Universal (7:19)
 10. Hindsight (8:11)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/were-here-because-were-here/369025308" >}}<br>

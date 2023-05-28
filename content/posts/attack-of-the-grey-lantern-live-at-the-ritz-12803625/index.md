@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="attack-of-the-grey-lantern-live-at-the-ritz-12803625.jpg" title="Attack Of The Grey Lantern Live At The Ritz by Paul Draper" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Chad Who Loved Me (5:07)
 2. Mansun’s Only Love Song (5:53)
 3. Taxloss (7:13)
@@ -36,10 +35,6 @@ styles: []
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:44)
 12. An Open Letter To The Lyrical Trainspotter (4:33)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317" >}}<br>

@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-{{< img src="relics-12008228.jpg" title="Relics by Pink Floyd" >}}
+Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilation album by English progressive rock band Pink Floyd. The album was released in the UK on 14 May 1971 and in the United States on the following day. Initially released by Starline, the compilation was reissued by Music for Pleasure in the United Kingdom, while Harvest and Capitol distributed the album in the United States. A remastered CD was released in 1996 with a different album cover, picturing a three-dimensional model based on the sketch drawn by drummer Nick Mason for the album's initial release.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Arnold Layne
 2. Interstellar Overdrive
 3. See Emily Play
@@ -37,16 +42,6 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 9. The Nile Song
 10. Biding My Time
 11. Bike
-
-<!-- section break -->
-
-Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilation album by English progressive rock band Pink Floyd. The album was released in the UK on 14 May 1971 and in the United States on the following day. Initially released by Starline, the compilation was reissued by Music for Pleasure in the United Kingdom, while Harvest and Capitol distributed the album in the United States. A remastered CD was released in 1996 with a different album cover, picturing a three-dimensional model based on the sketch drawn by drummer Nick Mason for the album's initial release.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/relics/734655586" >}}<br>

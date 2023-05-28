@@ -24,10 +24,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: []
 ---
 
-{{< img src="angels-ghosts-7829894.jpg" title="Angels & Ghosts by Dave Gahan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shine
 2. You Owe Me
 3. Tempted
@@ -37,10 +36,6 @@ styles: []
 7. Lately
 8. The Last Time
 9. My Sun
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/angels-ghosts/1037278178" >}}<br>

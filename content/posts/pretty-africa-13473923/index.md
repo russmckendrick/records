@@ -21,10 +21,9 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-{{< img src="pretty-africa-13473923.jpg" title="Pretty Africa by Desmond Dekker & The Aces" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pretty Africa (3:15)
 2. Treat Me Cruel (2:06)
 3. Love Is The Key (3:59)
@@ -37,10 +36,6 @@ styles: ["Ska", "Rocksteady"]
 10. Walk Don't Run (3:51)
 11. Trample (2:27)
 12. Jah Jah Children (3:14)
-
-<!-- section break -->
-
-
 
 
 

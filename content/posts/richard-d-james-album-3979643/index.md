@@ -20,10 +20,9 @@ genres: ["Electronic"]
 styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ---
 
-{{< img src="richard-d-james-album-3979643.jpg" title="Richard D. James Album by Aphex Twin" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 4
 2. Cornish Acid
 3. Peek 824545201
@@ -34,10 +33,6 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 8. Yellow Calx
 9. Girl/Boy Song
 10. Logan-Rock Witch
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/richard-d-james-album/281111401" >}}<br>

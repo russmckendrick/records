@@ -30,10 +30,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-{{< img src="disintegration-2289504.jpg" title="Disintegration by The Cure" >}}
+Disintegration is the eighth studio album by English rock band the Cure, released on 2 May 1989 by Fiction Records. The record marks a return to the introspective gothic rock style the band had established in the early 1980s. As he neared the age of 30, vocalist and guitarist Robert Smith had felt an increased pressure to follow up on the band's pop successes with a more enduring work. This, coupled with a distaste for the group's newfound popularity, caused Smith to lapse back into the use of hallucinogenic drugs, the effects of which had a strong influence on the production of the album. The band recorded the album at Hookend Recording Studios in Checkendon, Oxfordshire, with co-producer David M. Allen from late 1988 to early 1989. Following the completion of the mixing, founding member Lol Tolhurst was fired from the band.
+The album became the band's first commercial peak, charting at number three in the United Kingdom and at number 12 in the United States, and producing several hit singles including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being acclaimed, eventually being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Plainsong (5:15)
 2. Pictures Of You (7:28)
 3. Closedown (4:21)
@@ -46,15 +50,6 @@ styles: ["Alternative Rock", "New Wave"]
 10. Disintegration (8:23)
 11. Homesick (7:09)
 12. Untitled (6:30)
-
-<!-- section break -->
-
-Disintegration is the eighth studio album by English rock band the Cure, released on 2 May 1989 by Fiction Records. The record marks a return to the introspective gothic rock style the band had established in the early 1980s. As he neared the age of 30, vocalist and guitarist Robert Smith had felt an increased pressure to follow up on the band's pop successes with a more enduring work. This, coupled with a distaste for the group's newfound popularity, caused Smith to lapse back into the use of hallucinogenic drugs, the effects of which had a strong influence on the production of the album. The band recorded the album at Hookend Recording Studios in Checkendon, Oxfordshire, with co-producer David M. Allen from late 1988 to early 1989. Following the completion of the mixing, founding member Lol Tolhurst was fired from the band.
-The album became the band's first commercial peak, charting at number three in the United Kingdom and at number 12 in the United States, and producing several hit singles including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being acclaimed, eventually being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/disintegration-remastered/1440785740" >}}<br>

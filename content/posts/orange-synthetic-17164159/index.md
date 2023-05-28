@@ -18,10 +18,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="orange-synthetic-17164159.jpg" title="Orange Synthetic by Cobalt Chapel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In Company (4:27)
 2. The Sequel (3:49)
 3. Message To (3:18)
@@ -32,10 +31,6 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 8. Pretty Mire, Be My Friend (4:04)
 9. E.B. (2:15)
 10. Orange Synthetic (6:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}<br>

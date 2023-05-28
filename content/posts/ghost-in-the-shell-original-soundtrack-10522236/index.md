@@ -42,10 +42,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
 
-{{< img src="ghost-in-the-shell-original-soundtrack-10522236.jpg" title="Ghost In The Shell (Original Soundtrack) by Kenji Kawai" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. M01 謡I - Making Of Cyborg
 2. M02 Ghosthack (本編未使用)
 3. EXM Puppetmaster
@@ -58,10 +57,6 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 10. M10 謠 III - Reincarnation
 11. Bonus 7"
 12. 挿入歌 毎天見一見! (See You Everyday) 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068" >}}<br>

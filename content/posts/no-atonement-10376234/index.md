@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
-{{< img src="no-atonement-10376234.jpg" title="No Atonement by Bullet Height" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fight Song
 2. Bastion
 3. Hold Together
@@ -47,10 +46,6 @@ styles: ["Industrial"]
 18. Break Our Hearts Down (4:47)
 19. Fever (3:44)
 20. Up To The Neck (6:02)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-atonement/1219447555" >}}<br>

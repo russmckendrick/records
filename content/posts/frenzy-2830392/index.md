@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="frenzy-2830392.jpg" title="Frenzy by Split Enz" >}}
+Frenzy is the fourth studio album by New Zealand new wave band Split Enz. Frenzy ventured even further beyond the band's art rock roots to more of a pop sound.
+The album is notable for being the first to feature Neil Finn on lead vocals – though the lyrics to "Give It a Whirl" and both music & lyrics to "Master Plan" were written by his brother Tim.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I See Red (3:15)
 2. Give It A Whirl (2:52)
 3. Master Plan (3:00)
@@ -36,14 +39,6 @@ styles: ["Pop Rock"]
 12. She Got Body (2:55)
 13. Mind Over Matter (2:52)
 14. Livin' It Up (1:15)
-
-<!-- section break -->
-
-Frenzy is the fourth studio album by New Zealand new wave band Split Enz. Frenzy ventured even further beyond the band's art rock roots to more of a pop sound.
-The album is notable for being the first to feature Neil Finn on lead vocals – though the lyrics to "Give It a Whirl" and both music & lyrics to "Master Plan" were written by his brother Tim.
-    
-    
-
 
 
 

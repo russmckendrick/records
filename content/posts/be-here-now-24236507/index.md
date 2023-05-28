@@ -31,10 +31,16 @@ genres: ["Rock"]
 styles: ["Britpop", "Classic Rock"]
 ---
 
-{{< img src="be-here-now-24236507.jpg" title="Be Here Now by Oasis" >}}
+Be Here Now is the third studio album by English rock band Oasis, released on 21 August 1997 by Creation Records. The album was recorded at multiple recording studios in London, including Abbey Road Studios, as well as Ridge Farm Studio in Surrey. Although most tracks retain the anthemic quality of previous releases, the songs on Be Here Now are longer and contain many guitar overdubs. Noel Gallagher said this was done to make the album sound as "colossal" as possible. The album cover features a shot of the band members at Stocks House in Hertfordshire. It is the last Oasis studio album to feature founding members guitarist Paul "Bonehead" Arthurs and bassist Paul "Guigsy" McGuigan as the two left in 1999.
+Following the worldwide success of their first two albums, Definitely Maybe (1994) and (What's the Story) Morning Glory? (1995), the album was highly anticipated. Oasis' management company, Ignition, were aware of the dangers of overexposure, and before release sought to control media access to the album. The campaign included limiting pre-release radio airplay and forcing journalists to sign gag orders. The tactics alienated the press and many industry personnel connected with the band and fuelled large-scale speculation and publicity within the British music scene.
+Preceded by the lead single "D'You Know What I Mean?", Be Here Now was an instant commercial success, becoming the fastest-selling album in British chart history and topping the albums chart in 15 countries. It was the biggest selling album of 1997 in the UK, with 1.47 million units sold that year. As of 2016, the album has sold eight million copies worldwide. It has been certified 6× Platinum in the UK and Platinum in the US, being Oasis' third and final Platinum album in the country.
+According to co-producer Owen Morris, the recording sessions were marred by arguments and drug abuse, and the band's only motivations were commercial. While initial reception for Be Here Now was overwhelmingly positive, retrospective reviews have been more negative, with many calling it bloated and over-produced. The band members have had differing views of the album, with Noel severely criticising it and Liam Gallagher highly praising it and even declaring it as his favourite Oasis album in a 2017 interview. Critic Jon Savage would later pinpoint the album as the end of the Britpop movement. In 2016, the album was reissued with bonus tracks, including a new remix of "D'You Know What I Mean?".
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. D'You Know What I Mean?
 2. My Big Mouth
 3. Magic Pie
@@ -47,17 +53,6 @@ styles: ["Britpop", "Classic Rock"]
 10. All Around The World
 11. It's Gettin' Better (Man!!)
 12. All Around The World (Reprise)
-
-<!-- section break -->
-
-Be Here Now is the third studio album by English rock band Oasis, released on 21 August 1997 by Creation Records. The album was recorded at multiple recording studios in London, including Abbey Road Studios, as well as Ridge Farm Studio in Surrey. Although most tracks retain the anthemic quality of previous releases, the songs on Be Here Now are longer and contain many guitar overdubs. Noel Gallagher said this was done to make the album sound as "colossal" as possible. The album cover features a shot of the band members at Stocks House in Hertfordshire. It is the last Oasis studio album to feature founding members guitarist Paul "Bonehead" Arthurs and bassist Paul "Guigsy" McGuigan as the two left in 1999.
-Following the worldwide success of their first two albums, Definitely Maybe (1994) and (What's the Story) Morning Glory? (1995), the album was highly anticipated. Oasis' management company, Ignition, were aware of the dangers of overexposure, and before release sought to control media access to the album. The campaign included limiting pre-release radio airplay and forcing journalists to sign gag orders. The tactics alienated the press and many industry personnel connected with the band and fuelled large-scale speculation and publicity within the British music scene.
-Preceded by the lead single "D'You Know What I Mean?", Be Here Now was an instant commercial success, becoming the fastest-selling album in British chart history and topping the albums chart in 15 countries. It was the biggest selling album of 1997 in the UK, with 1.47 million units sold that year. As of 2016, the album has sold eight million copies worldwide. It has been certified 6× Platinum in the UK and Platinum in the US, being Oasis' third and final Platinum album in the country.
-According to co-producer Owen Morris, the recording sessions were marred by arguments and drug abuse, and the band's only motivations were commercial. While initial reception for Be Here Now was overwhelmingly positive, retrospective reviews have been more negative, with many calling it bloated and over-produced. The band members have had differing views of the album, with Noel severely criticising it and Liam Gallagher highly praising it and even declaring it as his favourite Oasis album in a 2017 interview. Critic Jon Savage would later pinpoint the album as the end of the Britpop movement. In 2016, the album was reissued with bonus tracks, including a new remix of "D'You Know What I Mean?".
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/be-here-now-deluxe-remastered-edition/1523139329" >}}<br>

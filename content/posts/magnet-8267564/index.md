@@ -18,19 +18,14 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="magnet-8267564.jpg" title="Magnet by The Fierce & The Dead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Magnet In Your Face (1:41)
 2. Palm Trees (4:00)
 3. Flint (4:24)
 4. Part 6 (The 8th Circuit) (3:59)
 5. Chief (Rehearsal Recording) (5:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/magnet-ep/1031295288" >}}<br>

@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="sounds-that-can-t-be-made-5101713.jpg" title="Sounds That Can't Be Made by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Gaza
 2. Sounds That Can't Be Made
 3. Pour My Love
@@ -39,10 +38,6 @@ styles: ["Prog Rock"]
 6. Invisible Ink
 7. Lucky Man
 8. The Sky Above The Rain
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415" >}}<br>

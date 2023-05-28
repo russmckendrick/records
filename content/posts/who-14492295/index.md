@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="who-14492295.jpg" title="Who by The Who" >}}
+Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
+Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. All This Music Must Fade
 2. Ball And Chain
 3. I Don't Wanna Get Wise
@@ -33,14 +36,6 @@ styles: ["Classic Rock"]
 9. Break The News
 10. Rockin' In Rage
 11. She Rocked My World
-
-<!-- section break -->
-
-Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
-Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}<br>

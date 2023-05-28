@@ -19,10 +19,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="play-to-win-the-virgin-albums-13428374.jpg" title="Play To Win (The • Virgin • Albums) by Heaven 17" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Penthouse And Pavement
 2. (We Don’t Need This) Fascist Groove Thang
 3. Penthouse And Pavement
@@ -74,10 +73,6 @@ styles: ["Synth-pop"]
 49. I Set You Free
 50. Train Of Love In Motion
 51. Responsibility
-
-<!-- section break -->
-
-
 
 
 

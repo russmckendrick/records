@@ -19,19 +19,14 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="i-got-you-141830.jpg" title="I Got You by Split Enz" >}}
-
-<!-- section break -->
-
-1. I Got You (3:24)
-2. Double Happy (3:15)
-
-<!-- section break -->
-
 "I Got You" is a song by New Zealand rock band Split Enz. It was released as a single on 21 January 1980 by Mushroom Records in Australia and New Zealand, and August 1980 by A&M internationally, as the first single from their breakthrough album True Colours. Written by co-lead singer Neil Finn, who did not initially believe it to be a hit, it became the band's most commercially successful song, topping the charts in Australasia (spending eight weeks at number-one in Australia) and placing in the top 20 of the British and Canadian charts. By July 1980, it had become the biggest selling single in Australian history.The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list.
     
     
 
+
+## Tracklisting
+1. I Got You (3:24)
+2. Double Happy (3:15)
 
 
 

@@ -24,10 +24,12 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Gospel", "Folk"]
 ---
 
-{{< img src="the-order-of-time-9969829.jpg" title="The Order Of Time by Valerie June" >}}
+That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Long Lonely Road
 2. Love You Once Made
 3. Shakedown
@@ -40,13 +42,6 @@ styles: ["Gospel", "Folk"]
 10. Slip Slide On By
 11. Two Hearts
 12. Got Soul
-
-<!-- section break -->
-
-That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-order-of-time/1440948460" >}}<br>

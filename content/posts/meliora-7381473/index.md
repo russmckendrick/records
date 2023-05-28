@@ -36,10 +36,14 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-{{< img src="meliora-7381473.jpg" title="Meliora by Ghost" >}}
+Meliora (Latin for "the pursuit of something better") is the third studio album by Swedish rock band Ghost. The album was produced by Klas Åhlund and released on August 21, 2015. The album was generally well received, placing on several music publications' lists of the best heavy metal albums of the year and winning Best Hard Rock/Metal Album at the 2015 Grammis Awards. Lead single "Cirice" won the 2016 Grammy Award for Best Metal Performance. In September 2016, the band released a special edition of the album, called Meliora Redux.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Spirit (5:15)
 2. From The Pinnacle To The Pit (4:02)
 3. Cirice (6:02)
@@ -50,15 +54,6 @@ styles: ["Hard Rock", "Heavy Metal"]
 8. Devil Church (1:06)
 9. Absolution (4:50)
 10. Deus In Absentia (5:37)
-
-<!-- section break -->
-
-Meliora (Latin for "the pursuit of something better") is the third studio album by Swedish rock band Ghost. The album was produced by Klas Åhlund and released on August 21, 2015. The album was generally well received, placing on several music publications' lists of the best heavy metal albums of the year and winning Best Hard Rock/Metal Album at the 2015 Grammis Awards. Lead single "Cirice" won the 2016 Grammy Award for Best Metal Performance. In September 2016, the band released a special edition of the album, called Meliora Redux.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meliora-deluxe-edition/1440945489" >}}<br>

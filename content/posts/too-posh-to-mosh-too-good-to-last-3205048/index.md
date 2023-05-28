@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="too-posh-to-mosh-too-good-to-last-3205048.jpg" title="Too Posh To Mosh, Too Good To Last! by Little Angels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. All Roads Lead To You
 2. Forbidden Fruit
 3. I Want Love - Featuring Doris
@@ -35,10 +34,6 @@ styles: ["Heavy Metal"]
 9. Better Than The Rest
 10. Too Posh To Mosh
 11. Some Kind Of Alien
-
-<!-- section break -->
-
-
 
 
 

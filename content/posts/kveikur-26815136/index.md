@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="kveikur-26815136.jpg" title="Kveikur by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Brennisteinn
 2. Hrafntinna
 3. Ísjaki
@@ -33,10 +32,6 @@ styles: ["Post Rock"]
 7. Rafstraumur
 8. Bláþráður
 9. Var
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kveikur/1447442983" >}}<br>

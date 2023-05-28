@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
 
-{{< img src="it-s-a-wonderful-life-3626445.jpg" title="It's A Wonderful Life by Sparklehorse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. It's A Wonderful Life
 2. Gold Day
 3. Piano Fire
@@ -36,10 +35,6 @@ styles: ["Lo-Fi", "Indie Rock"]
 10. Little Fat Baby
 11. Devil's New
 12. Comfort Me
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-a-wonderful-life/1461512623" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="cult-leader-tactics-21939745.jpg" title="Cult Leader Tactics by Paul Draper" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cult Leader Tactics (4:08)
 2. Internationalle (3:24)
 3. Dirty Trix (3:49)
@@ -39,10 +38,6 @@ styles: ["Alternative Rock"]
 9. Talkin Behind My Back (2:59)
 10. Omega Man (4:08)
 11. Lyin Bout Who You Sleep With (5:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}<br>

@@ -19,16 +19,11 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Disco"]
 ---
 
-{{< img src="it-s-called-the-rock-680407.jpg" title="It's Called The Rock by Edwin Starr" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. It's Called The Rock
 2. Patiently
-
-<!-- section break -->
-
-
 
 
 

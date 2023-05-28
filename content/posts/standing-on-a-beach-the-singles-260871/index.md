@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Post-Punk", "New Wave", "Synth-pop", "Coldwave"]
 ---
 
-{{< img src="standing-on-a-beach-the-singles-260871.jpg" title="Standing On A Beach • The Singles by The Cure" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Killing An Arab
 2. Boys Don't Cry
 3. Jumping Someone Else's Train
@@ -40,10 +39,6 @@ styles: ["Post-Punk", "New Wave", "Synth-pop", "Coldwave"]
 11. The Caterpillar
 12. In Between Days
 13. Close To Me
-
-<!-- section break -->
-
-
 
 
 

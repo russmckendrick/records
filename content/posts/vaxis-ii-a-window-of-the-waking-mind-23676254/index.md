@@ -29,26 +29,6 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="vaxis-ii-a-window-of-the-waking-mind-23676254.jpg" title="Vaxis II: A Window of the Waking Mind by Coheed And Cambria" >}}
-
-<!-- section break -->
-
-1. The Embers of Fire
-2. Beautiful Losers
-3. Comatose
-4. Shoulders
-5. A Disappearing Act
-6. Love Murder One
-7. Blood
-8. The Liars Club
-9. Bad Man
-10. Our Love
-11. Ladders of Supremacy
-12. Rise, Naianasha (Cut the Cord)
-13. Window of the Waking Mind
-
-<!-- section break -->
-
 With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coheed and Cambria continue the highly ambitious <i>Amory Wars</i> sci-fi epic that has defined their musical career. <i>Vaxis II: A Window of the Waking Mind</i> is an intricate cinematic narrative following a couple on the run from tyrannical forces while trying to find a cure for their young son’s mysterious condition. For Coheed vocalist, guitarist and conceptual mastermind Claudio Sanchez, the story is a highly personal one cloaked in futuristic fantasy. “That’s kind of why I created the concept 20 years ago,” he tells Apple Music. “As the singer, it’s really hard for me to be the centre of attention, the one where the messages are coming from. So, it was easier for me to construct this thing to hide behind. That’s why Coheed has been primarily shrouded in a story called <i>The Amory Wars</i>.” Below, he discusses each song on the album.
 
 <b>“The Embers of Fire”</b>
@@ -92,6 +72,21 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
     
     
 
+
+## Tracklisting
+1. The Embers of Fire
+2. Beautiful Losers
+3. Comatose
+4. Shoulders
+5. A Disappearing Act
+6. Love Murder One
+7. Blood
+8. The Liars Club
+9. Bad Man
+10. Our Love
+11. Ladders of Supremacy
+12. Rise, Naianasha (Cut the Cord)
+13. Window of the Waking Mind
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vaxis-ii-a-window-of-the-waking-mind/1594201540" >}}<br>

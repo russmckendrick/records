@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
-{{< img src="a-northern-soul-9033688.jpg" title="A Northern Soul by The Verve" >}}
+A Northern Soul is the second studio album by English alternative rock band The Verve. The album was released in the United Kingdom on 20 June 1995 on the Hut label and in the United States on 3 July 1995 on Vernon Yard Records. The title is a reference to Northern Soul, a popular soul movement in Britain during the 1970s.
+A Northern Soul was a moderate success upon release, charting at number 13 in the UK, and has since received critical acclaim, as well as being ranked high in readers polls in popular music publications. This is the final album to feature the band's original line-up until 2008's Forth. In 2013, NME ranked it at number 390 in its list of the 500 Greatest Albums of All Time.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A New Decade
 2. This Is Music
 3. On Your Own
@@ -41,15 +45,6 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 10. Life's An Ocean
 11. Stormy Clouds
 12. (Reprise)
-
-<!-- section break -->
-
-A Northern Soul is the second studio album by English alternative rock band The Verve. The album was released in the United Kingdom on 20 June 1995 on the Hut label and in the United States on 3 July 1995 on Vernon Yard Records. The title is a reference to Northern Soul, a popular soul movement in Britain during the 1970s.
-A Northern Soul was a moderate success upon release, charting at number 13 in the UK, and has since received critical acclaim, as well as being ranked high in readers polls in popular music publications. This is the final album to feature the band's original line-up until 2008's Forth. In 2013, NME ranked it at number 390 in its list of the 500 Greatest Albums of All Time.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-northern-soul/1442287322" >}}<br>

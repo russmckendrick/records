@@ -22,10 +22,13 @@ genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 ---
 
-{{< img src="fear-of-music-4728034.jpg" title="Fear Of Music by Talking Heads" >}}
+Fear of Music is the third studio album by American rock band Talking Heads, released on August 3, 1979, by Sire Records. It was recorded at locations in New York City during April and May 1979 and was produced by Brian Eno and Talking Heads. The album reached number 21 on the Billboard 200 and number 33 on the UK Albums Chart. It spawned the singles "Life During Wartime", "I Zimbra", and "Cities".
+Fear of Music received favorable reviews from critics. Praise centered on its unconventional rhythms and frontman David Byrne's lyrical performances. The album is often considered one of Talking Heads' best releases and has been featured in several publications' lists of the best albums of all time.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Zimbra (3:06)
 2. Mind (4:12)
 3. Paper (2:36)
@@ -37,14 +40,6 @@ styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 9. Animals (3:29)
 10. Electric Guitar (2:59)
 11. Drugs (5:13)
-
-<!-- section break -->
-
-Fear of Music is the third studio album by American rock band Talking Heads, released on August 3, 1979, by Sire Records. It was recorded at locations in New York City during April and May 1979 and was produced by Brian Eno and Talking Heads. The album reached number 21 on the Billboard 200 and number 33 on the UK Albums Chart. It spawned the singles "Life During Wartime", "I Zimbra", and "Cities".
-Fear of Music received favorable reviews from critics. Praise centered on its unconventional rhythms and frontman David Byrne's lyrical performances. The album is often considered one of Talking Heads' best releases and has been featured in several publications' lists of the best albums of all time.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-of-music/300965520" >}}<br>

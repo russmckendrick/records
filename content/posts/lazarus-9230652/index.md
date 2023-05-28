@@ -18,10 +18,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock", "Musical"]
 ---
 
-{{< img src="lazarus-9230652.jpg" title="Lazarus by Original New York Cast Of Lazarus" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hello Mary Lou (Goodbye Heart)
 2. Lazarus
 3. It's No Game
@@ -45,10 +44,6 @@ styles: ["Classic Rock", "Musical"]
 21. No Plan
 22. Killing A Little Time
 23. When I Met You
-
-<!-- section break -->
-
-
 
 
 

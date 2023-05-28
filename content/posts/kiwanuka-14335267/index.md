@@ -29,26 +29,6 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
-{{< img src="kiwanuka-14335267.jpg" title="Kiwanuka by Michael Kiwanuka" >}}
-
-<!-- section break -->
-
-1. You Ain't the Problem (4:09)
-2. Rolling (2:51)
-3. I've Been Dazed (4:25)
-4. Piano Joint (This Kind of Love) Intro (2:18)
-5. Piano Joint (This Kind of Love) (3:51)
-6. Another Human Being (Interlude) (1:51)
-7. Living in Denial (3:31)
-8. Hero (3:19)
-9. Hard to Say Goodbye (7:05)
-10. Final Days (4:10)
-11. Interlude (Loving The People) (2:42)
-12. Solid Ground (3:53)
-13. Light (5:48)
-
-<!-- section break -->
-
 Michael Kiwanuka never seemed the type to self-title an album. He certainly wasn’t expected to double down on such apparent self-assurance by commissioning a kingly portrait of himself as the cover art. After all, this is the singer-songwriter who was invited to join Kanye West’s <i>Yeezus</i> sessions but eventually snuck wordlessly out, suffering impostor syndrome. That sense of self-doubt shadowed him even before his 2012 debut <i>Home Again</i> collected a Mercury Prize nomination. “It’s an irrational thought, but I’ve always had it,” he tells Apple Music. “It keeps you on your toes, but it was also frustrating me. I was like, ‘I just want to be able to do this without worrying so much and just be confident in who I am as an artist.’” Notions of identity also got him thinking about how performers create personas—onstage or on social media—that obscure their true selves, inspiring him to call his third album <i>KIWANUKA</i> in an act of what he calls “anti-alter-ego”. “It’s almost a statement to myself,” he says. “I want to be able to say, ‘This is me, rain or shine.’ People might like it, people might not, it’s OK. At least people know who I am.” Kiwanuka was already known as a gifted singer and songwriter, but <i>KIWANUKA</i> reveals new standards of invention and ambition. With Danger Mouse and UK producer Inflo behind the boards—as they were on <i>Love & Hate</i> in 2016—these songs push his barrel-aged blend of soul and folk further into psychedelia, fuzz rock and chamber pop. Here, he takes us through that journey song by song.<br />
 <b>You Ain’t the Problem</b>
 “‘You Ain’t the Problem’ is a celebration, me loving humans. We forget how amazing we are. Social media’s part of this—all these filters hiding things that we think people won't like, things we think don't quite fit in. You start thinking this stuff about you is wrong and that you’ve got a problem being whatever you are and who you were born to be. I wanted to write a song saying, ‘You’re not the problem. You just have to continue being <i>you</i> more, go deeper within yourself.’ That’s where the magic comes—as opposed to cutting things away and trying to erode what really makes you.”<br />
@@ -84,6 +64,21 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
         
     
 
+
+## Tracklisting
+1. You Ain't the Problem (4:09)
+2. Rolling (2:51)
+3. I've Been Dazed (4:25)
+4. Piano Joint (This Kind of Love) Intro (2:18)
+5. Piano Joint (This Kind of Love) (3:51)
+6. Another Human Being (Interlude) (1:51)
+7. Living in Denial (3:31)
+8. Hero (3:19)
+9. Hard to Say Goodbye (7:05)
+10. Final Days (4:10)
+11. Interlude (Loving The People) (2:42)
+12. Solid Ground (3:53)
+13. Light (5:48)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kiwanuka/1474357932" >}}<br>

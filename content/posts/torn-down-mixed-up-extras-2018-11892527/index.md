@@ -30,10 +30,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-{{< img src="torn-down-mixed-up-extras-2018-11892527.jpg" title="Torn Down: Mixed Up Extras 2018 by The Cure" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Three Imaginary Boys (Help Me Mix 2018) (3:24)
 2. M (Attack Mix 2018) (3:10)
 3. The Drowning Man (Bright Birds Mix 2018) (4:30)
@@ -50,10 +49,6 @@ styles: ["Alternative Rock", "New Wave"]
 14. Cut Here (If Only Mix 2018) (4:29)
 15. Lost (Found Mix 2018) (4:01)
 16. It's Over (Whisper Mix 2018) (4:56)
-
-<!-- section break -->
-
-
 
 
 

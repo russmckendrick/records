@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-{{< img src="what-s-the-story-morning-glory-6127871.jpg" title="(What's The Story) Morning Glory? by Oasis" >}}
+Oasis cement their place at rock’s top table with ideas as big as their tunes. Revelling in his band’s dizzying ascent, Noel Gallagher embraces Oasis’s stadium destiny by adding strings, pianos and balladry to their arsenal. “Some Might Say” and “Morning Glory” retain the invigorating roar of <i>Definitely Maybe</i> but “Wonderwall” and “Don’t Look Back In Anger” are stately singalongs to unite pub lock-ins and festival fields in “love you, mate” embraces. Accordingly, Liam Gallagher shed some of his sneer, bringing sensitivity and reflection to “Champagne Supernova”’s sunset psychedelia.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hello (3:21)
 2. Roll With It (3:59)
 3. Wonderwall (4:18)
@@ -46,13 +48,6 @@ styles: ["Britpop"]
 11. Morning Glory (5:03)
 12. Untitled (0:39)
 13. Champagne Supernova (7:27)
-
-<!-- section break -->
-
-Oasis cement their place at rock’s top table with ideas as big as their tunes. Revelling in his band’s dizzying ascent, Noel Gallagher embraces Oasis’s stadium destiny by adding strings, pianos and balladry to their arsenal. “Some Might Say” and “Morning Glory” retain the invigorating roar of <i>Definitely Maybe</i> but “Wonderwall” and “Don’t Look Back In Anger” are stately singalongs to unite pub lock-ins and festival fields in “love you, mate” embraces. Accordingly, Liam Gallagher shed some of his sneer, bringing sensitivity and reflection to “Champagne Supernova”’s sunset psychedelia.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whats-the-story-morning-glory/1517447039" >}}<br>

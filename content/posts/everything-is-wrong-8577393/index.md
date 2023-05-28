@@ -20,10 +20,14 @@ genres: ["Electronic", "Rock"]
 styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 ---
 
-{{< img src="everything-is-wrong-8577393.jpg" title="Everything Is Wrong by Moby" >}}
+Everything Is Wrong is the third studio album by American electronica musician Moby, released on March 14, 1995, by record labels Mute in the United Kingdom and Elektra in the United States. It was released with a limited-edition bonus disc of ambient music titled Underwater.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Hymn
 2. Feeling So Real
 3. All That I Need Is To Be Loved
@@ -37,15 +41,6 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 11. Everything Is Wrong
 12. God Moving Over The Face Of The Waters
 13. When It's Cold I'd Like To Die
-
-<!-- section break -->
-
-Everything Is Wrong is the third studio album by American electronica musician Moby, released on March 14, 1995, by record labels Mute in the United Kingdom and Elektra in the United States. It was released with a limited-edition bonus disc of ambient music titled Underwater.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-wrong/1193759680" >}}<br>

@@ -26,10 +26,9 @@ genres: ["Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ---
 
-{{< img src="matt-berry-and-the-maypoles-live-7773931.jpg" title="Matt Berry And The Maypoles Live by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Innkeeper's Song
 2. So Low
 3. October Sun
@@ -41,10 +40,6 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 9. Medicine
 10. Devil Inside Me
 11. The Pheasant
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/matt-berry-and-the-maypoles-live/1152533410" >}}<br>

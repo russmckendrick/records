@@ -17,10 +17,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="shades-and-echoes-22152553.jpg" title="Shades And Echoes by Forenzics" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chances Are
 2. Rules
 3. Unlikely Friend
@@ -32,10 +31,6 @@ styles: []
 9. Empty Nest
 10. System Overload
 11. Strange Stars
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shades-and-echoes/1593377292" >}}<br>

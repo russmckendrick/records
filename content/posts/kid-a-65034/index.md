@@ -23,10 +23,19 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 ---
 
-{{< img src="kid-a-65034.jpg" title="Kid A by Radiohead" >}}
+Kid A is the fourth studio album by the English rock band Radiohead, released on 2 October 2000 by Parlophone. It was recorded with their producer, Nigel Godrich, in Paris, Copenhagen, Gloucestershire and Oxfordshire.
+After the stress of promoting Radiohead's 1997 album OK Computer, the songwriter, Thom Yorke, wanted to depart from rock music. Drawing influence from electronic music, ambient music, krautrock, jazz and 20th-century classical music, Radiohead used instruments such as modular synthesisers, the ondes Martenot, brass and strings. They processed guitar sounds, incorporated samples and loops, and manipulated their recordings with software. Yorke wrote impersonal and abstract lyrics, cutting up phrases and assembling them at random.
+In a departure from industry practice, Radiohead released no singles or music videos and conducted few interviews and photoshoots. Instead, they released short animated "blips", and became one of the first major acts to use the internet for promotion. Bootlegs of early performances were shared on filesharing services, and Kid A was leaked before release. In 2000, Radiohead toured Europe in a custom-built tent without corporate logos.
+Kid A debuted at the top of the UK Albums Chart and became Radiohead's first number-one album on the Billboard 200 in the US, where it sold more than 207,000 copies in its first week. Its departure from Radiohead's earlier sound divided listeners, and some dismissed it as pretentious, deliberately obscure, or derivative. However, it later attracted acclaim; at the end of the decade, Rolling Stone, Pitchfork and the Times ranked Kid A the greatest album of the 2000s, and in 2020 Rolling Stone ranked it number 20 on its updated list of the "500 Greatest Albums of All Time". Like OK Computer, it won the Grammy Award for Best Alternative Album and was nominated for the Grammy Award for Album of the Year. It has been certified platinum in Australia, Canada, France, Japan, the US and the UK.
+A second album of material from the sessions, Amnesiac, was released eight months later. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Alpha
 2. Everything In Its Right Place
 3. Kid A
@@ -42,20 +51,6 @@ styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 13. Morning Bell
 14. Motion Picture Soundtrack
 15. Untitled
-
-<!-- section break -->
-
-Kid A is the fourth studio album by the English rock band Radiohead, released on 2 October 2000 by Parlophone. It was recorded with their producer, Nigel Godrich, in Paris, Copenhagen, Gloucestershire and Oxfordshire.
-After the stress of promoting Radiohead's 1997 album OK Computer, the songwriter, Thom Yorke, wanted to depart from rock music. Drawing influence from electronic music, ambient music, krautrock, jazz and 20th-century classical music, Radiohead used instruments such as modular synthesisers, the ondes Martenot, brass and strings. They processed guitar sounds, incorporated samples and loops, and manipulated their recordings with software. Yorke wrote impersonal and abstract lyrics, cutting up phrases and assembling them at random.
-In a departure from industry practice, Radiohead released no singles or music videos and conducted few interviews and photoshoots. Instead, they released short animated "blips", and became one of the first major acts to use the internet for promotion. Bootlegs of early performances were shared on filesharing services, and Kid A was leaked before release. In 2000, Radiohead toured Europe in a custom-built tent without corporate logos.
-Kid A debuted at the top of the UK Albums Chart and became Radiohead's first number-one album on the Billboard 200 in the US, where it sold more than 207,000 copies in its first week. Its departure from Radiohead's earlier sound divided listeners, and some dismissed it as pretentious, deliberately obscure, or derivative. However, it later attracted acclaim; at the end of the decade, Rolling Stone, Pitchfork and the Times ranked Kid A the greatest album of the 2000s, and in 2020 Rolling Stone ranked it number 20 on its updated list of the "500 Greatest Albums of All Time". Like OK Computer, it won the Grammy Award for Best Alternative Album and was nominated for the Grammy Award for Album of the Year. It has been certified platinum in Australia, Canada, France, Japan, the US and the UK.
-A second album of material from the sessions, Amnesiac, was released eight months later. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kid-a/1097862870" >}}<br>

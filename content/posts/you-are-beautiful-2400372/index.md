@@ -18,10 +18,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-{{< img src="you-are-beautiful-2400372.jpg" title="You Are Beautiful by The Stylistics" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Funky Weekend (3:27)
 2. Jenny (3:46)
 3. That Don't Shake Me (3:15)
@@ -32,10 +31,6 @@ styles: ["Rhythm & Blues", "Soul"]
 8. To Save My Rock 'n' Roll Soul (3:01)
 9. If You Are There (3:21)
 10. We Just Can't Help It (3:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/you-are-beautiful/1605185732" >}}<br>

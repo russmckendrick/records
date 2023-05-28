@@ -26,10 +26,12 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="begin-to-hope-8394522.jpg" title="Begin To Hope by Regina Spektor" >}}
+Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fidelity (3:47)
 2. Better (3:22)
 3. Samson (3:10)
@@ -52,13 +54,6 @@ styles: ["Indie Pop"]
 20. Bartender (3:12)
 21. Baby Jesus (2:43)
 22. Better (Radio Recut) (3:12)
-
-<!-- section break -->
-
-Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}<br>

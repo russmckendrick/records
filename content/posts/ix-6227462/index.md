@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Hardcore"]
 ---
 
-{{< img src="ix-6227462.jpg" title="IX by ...And You Will Know Us By The Trail Of Dead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Doomsday Book (03:32)
 2. Jaded Apostles (04:04)
 3. A Million Random Digits (03:07)
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 20. Lost In The Grand Scheme (07:26)
 21. Like Summer Tempests Came His Tears (03:42)
 22. Sound Of The Silk (05:18)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}<br>

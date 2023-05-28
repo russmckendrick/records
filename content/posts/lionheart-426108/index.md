@@ -28,10 +28,13 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Ballad"]
 ---
 
-{{< img src="lionheart-426108.jpg" title="Lionheart by Kate Bush" >}}
+Lionheart is the second studio album by English art rock singer Kate Bush. It was released in November 1978, just nine months after Bush's successful debut album The Kick Inside. Lionheart reached no. 6 on the UK Albums Chart (her only album not to make the top 5) and has been certified Platinum by the BPI.
+The first single taken from the album, "Hammer Horror", missed the UK Top 40. However, the follow-up single, "Wow", was released on the back of Bush's UK tour and became a UK Top 20 hit.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Symphony In Blue (3:34)
 2. In Search Of Peter Pan (3:46)
 3. Wow (3:58)
@@ -42,14 +45,6 @@ styles: ["Art Rock", "Pop Rock", "Ballad"]
 8. Kashka From Baghdad (3:55)
 9. Coffee Homeground (3:38)
 10. Hammer Horror (4:37)
-
-<!-- section break -->
-
-Lionheart is the second studio album by English art rock singer Kate Bush. It was released in November 1978, just nine months after Bush's successful debut album The Kick Inside. Lionheart reached no. 6 on the UK Albums Chart (her only album not to make the top 5) and has been certified Platinum by the BPI.
-The first single taken from the album, "Hammer Horror", missed the UK Top 40. However, the follow-up single, "Wow", was released on the back of Bush's UK tour and became a UK Top 20 hit.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lionheart-remastered/1441564919" >}}<br>

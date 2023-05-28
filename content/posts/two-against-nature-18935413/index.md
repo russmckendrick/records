@@ -25,10 +25,12 @@ genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
 
-{{< img src="two-against-nature-18935413.jpg" title="Two Against Nature by Steely Dan" >}}
+Two Against Nature is the eighth studio album by American rock band Steely Dan. Their first studio album in 20 years, it was recorded from 1997 to 1999 and released on February 29, 2000, by Giant Records.A critical success, Two Against Nature won the group four Grammy Awards: Album of the Year, Best Pop Vocal Album, Best Engineered Album – Non-Classical, and Best Pop Performance by a Duo or Group with Vocals (for the single "Cousin Dupree"). Commercially, it peaked at number six on the U.S. Billboard 200 chart and sold more than one million copies, earning a Platinum certification from the Recording Industry Association of America.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Gaslighting Abbie (5:54)
 2. What A Shame About Me (5:15)
 3. Two Against Nature (6:18)
@@ -38,13 +40,6 @@ styles: ["Pop Rock", "Fusion"]
 7. Cousin Dupree (5:28)
 8. Negative Girl (5:35)
 9. West Of Hollywood (8:21)
-
-<!-- section break -->
-
-Two Against Nature is the eighth studio album by American rock band Steely Dan. Their first studio album in 20 years, it was recorded from 1997 to 1999 and released on February 29, 2000, by Giant Records.A critical success, Two Against Nature won the group four Grammy Awards: Album of the Year, Best Pop Vocal Album, Best Engineered Album – Non-Classical, and Best Pop Performance by a Duo or Group with Vocals (for the single "Cousin Dupree"). Commercially, it peaked at number six on the U.S. Billboard 200 chart and sold more than one million copies, earning a Platinum certification from the Recording Industry Association of America.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/two-against-nature/297597608" >}}<br>

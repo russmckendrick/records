@@ -24,10 +24,9 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
 
-{{< img src="decksandrumsandrockandroll-12126145.jpg" title="Decksandrumsandrockandroll by Propellerheads" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Take California
 2. Echo And Bounce
 3. Velvet Pants
@@ -41,10 +40,6 @@ styles: ["Breakbeat", "Big Beat"]
 11. Bigger?
 12. Cominagetcha
 13. Spybreak!
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/decksandrumsandrockandroll/540024177" >}}<br>

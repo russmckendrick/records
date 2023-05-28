@@ -36,10 +36,12 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 ---
 
-{{< img src="the-virgin-suicides-7166199.jpg" title="The Virgin Suicides by AIR" >}}
+The Virgin Suicides is a score composed by French electronic music duo Air for the 1999 film of the same name by Sofia Coppola. It was released on 23 February 2000 by Virgin Records. The album was nominated for Best Soundtrack at the 2001 Brit Awards. The French edition of Rolling Stone magazine placed The Virgin Suicides at number 49 on their list of the 100 essential French rock albums. In 2014, NME placed the album at number 11 on their "61 of the Greatest Film Soundtracks Ever" list. In 2019, Pitchfork placed the album at number four on their "Top 50 Best Movie Scores of All Time" list.On 3 June 2010, Air performed the full score with the band Hot Rats (with members of Supergrass) at the Cité de la Musique in Paris.To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edition of the album was released in June 2015 as a two-disc set and a super deluxe box set. The former contains two studio outtakes on disc one and a bonus disc of previously unreleased live recordings, while the latter includes the album on 180-gram red vinyl, an exclusive picture disc featuring previously unreleased live recordings, the "Playground Love" EP on 180-gram red vinyl, the two-disc deluxe edition of The Virgin Suicides on CD, a 16-page booklet featuring an unpublished Air interview, a film poster, a replica VIP laminate pass and a download card.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Virgin Suicides (Original Motion Picture Score)
 2. Playground Love (3:32)
 3. Clouds Up (1:30)
@@ -97,13 +99,6 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 55. Dead Bodies (Live L.A Jan 2000)	 (2:21)
 56. Cemetary Party (Live L.A Jan 2000) (3:21)
 57. Suicide Underground (Live L.A Jan 2000) (7:01)
-
-<!-- section break -->
-
-The Virgin Suicides is a score composed by French electronic music duo Air for the 1999 film of the same name by Sofia Coppola. It was released on 23 February 2000 by Virgin Records. The album was nominated for Best Soundtrack at the 2001 Brit Awards. The French edition of Rolling Stone magazine placed The Virgin Suicides at number 49 on their list of the 100 essential French rock albums. In 2014, NME placed the album at number 11 on their "61 of the Greatest Film Soundtracks Ever" list. In 2019, Pitchfork placed the album at number four on their "Top 50 Best Movie Scores of All Time" list.On 3 June 2010, Air performed the full score with the band Hot Rats (with members of Supergrass) at the Cité de la Musique in Paris.To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edition of the album was released in June 2015 as a two-disc set and a super deluxe box set. The former contains two studio outtakes on disc one and a bonus disc of previously unreleased live recordings, while the latter includes the album on 180-gram red vinyl, an exclusive picture disc featuring previously unreleased live recordings, the "Playground Love" EP on 180-gram red vinyl, the two-disc deluxe edition of The Virgin Suicides on CD, a 16-page booklet featuring an unpublished Air interview, a film poster, a replica VIP laminate pass and a download card.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-virgin-suicides-original-motion-picture-score/1467236029" >}}<br>

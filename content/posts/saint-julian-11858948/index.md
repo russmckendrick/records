@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-{{< img src="saint-julian-11858948.jpg" title="Saint Julian by Julian Cope" >}}
+Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Trampolene (3:35)
 2. Shot Down (3:59)
 3. Eve's Volcano (Covered In Sin) (4:16)
@@ -30,13 +32,6 @@ styles: ["Alternative Rock", "Pop Rock"]
 8. Pulsar (2:46)
 9. Screaming Secrets (3:27)
 10. A Crack In The Clouds (7:59)
-
-<!-- section break -->
-
-Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}<br>

@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Space Rock"]
 ---
 
-{{< img src="songs-in-a-e-6458645.jpg" title="Songs In A&E by Spiritualized" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Harmony 1 (Mellotron)
 2. Sweet Talk
 3. Death Take Your Fiddle
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Space Rock"]
 16. Borrowed Your Gun
 17. Harmony 6 (Glockenspiel)
 18. Goodnight Goodnight
-
-<!-- section break -->
-
-
 
 
 ## Spotify

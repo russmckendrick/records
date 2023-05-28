@@ -24,18 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
 
-{{< img src="frozen-26071519.jpg" title="Frozen by Curve" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Coast Is Clear
 2. The Colour Hurts
 3. Frozen
 4. Zoo
-
-<!-- section break -->
-
-
 
 
 

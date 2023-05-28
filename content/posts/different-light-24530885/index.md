@@ -23,10 +23,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="different-light-24530885.jpg" title="Different Light by Bangles" >}}
+Different Light is the second studio album by American pop rock band the Bangles, released in January 1986. The album's Top 40 sound was a departure from their earlier 1960s-style rock'n'roll sound. It is their most successful album, reaching number two on the Billboard 200 and producing five charting singles, including the Billboard top two hits "Manic Monday" and "Walk Like an Egyptian". It is also the first album in which bassist Michael Steele sings lead vocals on some tracks.
+The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus track: "Walk Like an Egyptian (Extended Dance Mix)".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Manic Monday (3:03)
 2. In A Different Light (2:50)
 3. Walking Down Your Street (3:02)
@@ -39,14 +42,6 @@ styles: ["Pop Rock"]
 10. Angels Don't Fall In Love (3:21)
 11. Following (3:18)
 12. Not Like You (3:05)
-
-<!-- section break -->
-
-Different Light is the second studio album by American pop rock band the Bangles, released in January 1986. The album's Top 40 sound was a departure from their earlier 1960s-style rock'n'roll sound. It is their most successful album, reaching number two on the Billboard 200 and producing five charting singles, including the Billboard top two hits "Manic Monday" and "Walk Like an Egyptian". It is also the first album in which bassist Michael Steele sings lead vocals on some tracks.
-The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus track: "Walk Like an Egyptian (Extended Dance Mix)".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/different-light-deluxe-edition/397587066" >}}<br>

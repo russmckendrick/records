@@ -19,10 +19,9 @@ genres: ["Hip Hop", "Latin", "Stage & Screen"]
 styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
 
-{{< img src="office-space-the-motion-picture-soundtrack-13458583.jpg" title="Office Space (The Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shove This Jay-Oh-Bee
 2. Get Dis Money
 3. Get Off My Elevator
@@ -35,10 +34,6 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 10. Still
 11. Mambo No. 8
 12. Peanut Vendor
-
-<!-- section break -->
-
-
 
 
 

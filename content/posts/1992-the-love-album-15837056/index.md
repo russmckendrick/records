@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="1992-the-love-album-15837056.jpg" title="1992 The Love Album by Carter The Unstoppable Sex Machine" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1993
 2. Is Wrestling Fixed?
 3. The Only Living Boy In New Cross
@@ -31,10 +30,6 @@ styles: ["Synth-pop", "Indie Rock"]
 8. While You Were Out
 9. Skywest And Crooked
 10. The Impossible Dream
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}<br>

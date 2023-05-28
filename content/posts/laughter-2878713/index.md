@@ -21,10 +21,12 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
 
-{{< img src="laughter-2878713.jpg" title="Laughter by Ian Dury And The Blockheads" >}}
+Laughter is the third studio album by Ian Dury and the Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with the Blockheads, until 1998's Mr. Love Pants, though a live album Warts 'n' Audience was produced in 1991.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sueperman's Big Sister
 2. Pardon
 3. Delusions Of Grandeur
@@ -37,13 +39,6 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 10. Manic Depression (Jimi)
 11. Oh Mr Peanut
 12. Fucking Ada
-
-<!-- section break -->
-
-Laughter is the third studio album by Ian Dury and the Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with the Blockheads, until 1998's Mr. Love Pants, though a live album Warts 'n' Audience was produced in 1991.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughter/1489399868" >}}<br>

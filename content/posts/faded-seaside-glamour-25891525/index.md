@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 ---
 
-{{< img src="faded-seaside-glamour-25891525.jpg" title="Faded Seaside Glamour by Delays" >}}
+Faded Seaside Glamour is the debut studio album by English rock band Delays, released on 5 April 2004 through Rough Trade Records. After the end of their previous band Corky, the members formed Delays; lead singer Greg Gilbert recruited his brother Aaron, a keyboardist, into the band after hearing him play a loop. The band signed to Rough Trade Records after its founder Geoff Travis saw them perform live. Delays recorded the album in three months with producers Duncan Lewis and Graham Sutton at Rockfield Studios in Rockfield, Monmouthshire, Dustsucker Sound in Hackney, London, and Moles Studio in Bath, Somerset. Faded Seaside Glamour is an indie pop and dream pop album that has been compared to the works of Cocteau Twins, Geneva and The La's, and Greg Gilbert's vocals have been compared to those of Stevie Nicks and Elizabeth Fraser.
+Music critics gave Faded Seaside Glamour generally favourable reviews; some critics praised the band's musicianship and others highlighted Gilbert's vocals. The album charted at number 17 in the United Kingdom and it was certified silver by the British Phonographic Industry (BPI). The lead single "Nearer Than Heaven" initially reached number 91 on the UK Singles Chart, but after its reissue in March 2004, it peaked at number 21. The second single, "Hey Girl", entered at number 40. In January 2004, "Long Time Coming" was released as the third single and peaked at number 16 on the UK Singles Chart. The latter release was followed the next month by a performance at the NME Awards. In July 2004, Delays toured the United States with Cardia and Paula Kelly. The band then returned to the UK, where they supported Franz Ferdinand and Snow Patrol, and ended the year with a headlining UK tour.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wanderlust
 2. Nearer Than Heaven
 3. Long Time Coming
@@ -42,14 +45,6 @@ styles: ["Alternative Rock", "Indie Rock", "Dream Pop"]
 10. Satellites Lost
 11. One Night Away
 12. On
-
-<!-- section break -->
-
-Faded Seaside Glamour is the debut studio album by English rock band Delays, released on 5 April 2004 through Rough Trade Records. After the end of their previous band Corky, the members formed Delays; lead singer Greg Gilbert recruited his brother Aaron, a keyboardist, into the band after hearing him play a loop. The band signed to Rough Trade Records after its founder Geoff Travis saw them perform live. Delays recorded the album in three months with producers Duncan Lewis and Graham Sutton at Rockfield Studios in Rockfield, Monmouthshire, Dustsucker Sound in Hackney, London, and Moles Studio in Bath, Somerset. Faded Seaside Glamour is an indie pop and dream pop album that has been compared to the works of Cocteau Twins, Geneva and The La's, and Greg Gilbert's vocals have been compared to those of Stevie Nicks and Elizabeth Fraser.
-Music critics gave Faded Seaside Glamour generally favourable reviews; some critics praised the band's musicianship and others highlighted Gilbert's vocals. The album charted at number 17 in the United Kingdom and it was certified silver by the British Phonographic Industry (BPI). The lead single "Nearer Than Heaven" initially reached number 91 on the UK Singles Chart, but after its reissue in March 2004, it peaked at number 21. The second single, "Hey Girl", entered at number 40. In January 2004, "Long Time Coming" was released as the third single and peaked at number 16 on the UK Singles Chart. The latter release was followed the next month by a performance at the NME Awards. In July 2004, Delays toured the United States with Cardia and Paula Kelly. The band then returned to the UK, where they supported Franz Ferdinand and Snow Patrol, and ended the year with a headlining UK tour.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/faded-seaside-glamour/260654407" >}}<br>

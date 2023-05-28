@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="eponymous-1981-1983-11734076.jpg" title="Eponymous 1981-1983 by The Alarm" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Unsafe Building [Electric] (4:22)
 2. Up For Murder [Acoustic] (2:24)
 3. Reason 41 [EMI Demo] (2:38)
@@ -51,10 +50,6 @@ styles: ["Alternative Rock"]
 21. Sixty Eight Guns [Single Version] (3:09)
 22. Thoughts Of A Young Man [Part One] (2:51)
 23. Sixty Eight Guns [Part Two] (3:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eponymous-1981-1983/1343357621" >}}<br>

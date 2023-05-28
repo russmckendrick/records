@@ -21,10 +21,12 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="flock-17654794.jpg" title="Flock by Jane Weaver" >}}
+Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heartlow
 2. The Revolution Of Super Visions
 3. Stages Of Phases
@@ -35,13 +37,6 @@ styles: []
 8. All The Things You Do
 9. Pyramid Schemes
 10. Solarised
-
-<!-- section break -->
-
-Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flock/1668446839" >}}<br>

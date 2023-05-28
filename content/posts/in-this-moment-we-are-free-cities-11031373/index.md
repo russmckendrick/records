@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="in-this-moment-we-are-free-cities-11031373.jpg" title="In This Moment We Are Free - Cities by Vuur" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Champion - Berlin
 2. Time - Rotterdam
 3. The Martyr And The Saint - Beirut
@@ -51,10 +50,6 @@ styles: ["Progressive Metal"]
 20. Your Glorious Light Will Shine - Helsinki
 21. Save Me - Istanbul
 22. Reunite! - Paris
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}<br>

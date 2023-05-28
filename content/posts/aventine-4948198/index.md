@@ -32,10 +32,12 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-{{< img src="aventine-4948198.jpg" title="Aventine by Agnes Obel" >}}
+Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply constructed set of songs that evinced the singer/songwriter’s classical training and tasteful restraint. The Danish songwriter’s second full-length album, <i>Aventine</i>, has an even more captivating and hushed intimacy. Much of <i>Aventine</i> floats along with a hazy sense of melancholy, accompanied by Obel’s solo piano or a small chamber ensemble. Songs like “Fuel to Fire” and “The Curse” use the sparest of elements for haunting results. The evocative highlights are many, but “Smoke & Mirrors” is utterly disarming.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chord Left (2:29)
 2. Fuel To Fire (5:29)
 3. Dorian (4:48)
@@ -61,13 +63,6 @@ styles: ["Folk"]
 23. The Curse (Instrumental Version)
 24. Aventine (Instrumental Version)
 25. Fuel To Fire (Instrumental Version)
-
-<!-- section break -->
-
-Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply constructed set of songs that evinced the singer/songwriter’s classical training and tasteful restraint. The Danish songwriter’s second full-length album, <i>Aventine</i>, has an even more captivating and hushed intimacy. Much of <i>Aventine</i> floats along with a hazy sense of melancholy, accompanied by Obel’s solo piano or a small chamber ensemble. Songs like “Fuel to Fire” and “The Curse” use the sparest of elements for haunting results. The evocative highlights are many, but “Smoke & Mirrors” is utterly disarming.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aventine/681187053" >}}<br>

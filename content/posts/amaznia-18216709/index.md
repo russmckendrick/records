@@ -25,10 +25,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "Field Recording"]
 ---
 
-{{< img src="amaznia-18216709.jpg" title="Amazônia by Jean-Michel Jarre" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Amazônia (Part 1) (7:42)
 2. Amazônia (Part 2) (9:59)
 3. Amazônia (Part 3) (8:10)
@@ -38,10 +37,6 @@ styles: ["Ambient", "Field Recording"]
 7. Amazônia (Part 7) (4:18)
 8. Amazônia (Part 8) (3:19)
 9. Amazônia (Part 9) (6:23)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amaz%C3%B4nia/1557713010" >}}<br>

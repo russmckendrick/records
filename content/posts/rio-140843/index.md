@@ -25,10 +25,16 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="rio-140843.jpg" title="Rio by Duran Duran" >}}
+Rio is the second studio album by the English new wave band Duran Duran, released on 10 May 1982 through EMI. Produced by Colin Thurston, the band wrote and demoed most of the material before recording the album at AIR Studios in London from January to March 1982. The band utilised more experimentation compared to their debut album, from vibraphone and marimba to the sound of a cigarette being lit and cracking ice cubes. Andy Hamilton played a saxophone solo on "Rio".
+A new wave album with musical elements such as dance and synth-pop, Rio is mostly composed of fast, upbeat numbers, with a couple slower synthesiser-based ballads. Lead vocalist Simon Le Bon's obtuse lyrics cover topics from chasing one's dreams to pursuing a love interest. Bassist John Taylor conceived the title, which the band felt represented the optimistic and exotic tone of the album. The cover artwork, painted by Patrick Nagel and designed by Malcolm Garrett to resemble 1950s cigar packaging, is considered one of the greatest of all time.
+Duran Duran shot music videos for many of the album's tracks, all of which helped spearhead the 1980s MTV revolution. Accompanied by three worldwide hit singles, Rio peaked at number two in the United Kingdom and remained in the chart for 110 weeks. Initially unsuccessful in the United States, the album was remixed by Capitol Records to better match American radio at the time; the remixed album spent 129 weeks on the Billboard chart, reaching number six. The band toured the US and Europe throughout the latter half of 1982.
+Rio initially received mixed-to-negative reviews from critics, who commended the melodies but disparaged the lyrics. Retrospective reviewers consider Rio the band's best work and praise its timelessness, instrumentation and band performances. With the album, Duran Duran were forerunners in the Second British Invasion of the 1980s, helping ensure the success of other English artists throughout the decade. It has since made appearances on best-of lists and has been reissued several times.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rio (5:39)
 2. My Own Way (4:51)
 3. Lonely In Your Nightmare (3:52)
@@ -38,17 +44,6 @@ styles: ["New Wave", "Synth-pop"]
 7. Last Chance On The Stairway (4:18)
 8. Save A Prayer (5:33)
 9. The Chauffeur (5:12)
-
-<!-- section break -->
-
-Rio is the second studio album by the English new wave band Duran Duran, released on 10 May 1982 through EMI. Produced by Colin Thurston, the band wrote and demoed most of the material before recording the album at AIR Studios in London from January to March 1982. The band utilised more experimentation compared to their debut album, from vibraphone and marimba to the sound of a cigarette being lit and cracking ice cubes. Andy Hamilton played a saxophone solo on "Rio".
-A new wave album with musical elements such as dance and synth-pop, Rio is mostly composed of fast, upbeat numbers, with a couple slower synthesiser-based ballads. Lead vocalist Simon Le Bon's obtuse lyrics cover topics from chasing one's dreams to pursuing a love interest. Bassist John Taylor conceived the title, which the band felt represented the optimistic and exotic tone of the album. The cover artwork, painted by Patrick Nagel and designed by Malcolm Garrett to resemble 1950s cigar packaging, is considered one of the greatest of all time.
-Duran Duran shot music videos for many of the album's tracks, all of which helped spearhead the 1980s MTV revolution. Accompanied by three worldwide hit singles, Rio peaked at number two in the United Kingdom and remained in the chart for 110 weeks. Initially unsuccessful in the United States, the album was remixed by Capitol Records to better match American radio at the time; the remixed album spent 129 weeks on the Billboard chart, reaching number six. The band toured the US and Europe throughout the latter half of 1982.
-Rio initially received mixed-to-negative reviews from critics, who commended the melodies but disparaged the lyrics. Retrospective reviewers consider Rio the band's best work and praise its timelessness, instrumentation and band performances. With the album, Duran Duran were forerunners in the Second British Invasion of the 1980s, helping ensure the success of other English artists throughout the decade. It has since made appearances on best-of lists and has been reissued several times.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rio-collectors-edition/693610443" >}}<br>

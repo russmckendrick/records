@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
 
-{{< img src="sunshine-rock-13162648.jpg" title="Sunshine Rock by Bob Mould" >}}
+Sunshine Rock is the 13th solo album from American rock musician Bob Mould, formerly frontman of the bands Hüsker Dü and Sugar. The album release was announced on October 24, 2018. The album was released on February 8, 2019, and debuted at number 192 on the US Billboard 200. A review in Dagger says ""I Fought" has all the rage and bluster that Husker Du ever had (same with the great "Sin King") while "Camp Sunshine" is, dare I say a flowery love song[.] Sunshine Rock shows Bob and his unbeatable rhythm section at the top of their game." Robert Christgau wrote "this is the first time the solo Mould has come close to what he was once capable of, and that he's managed it this late should encourage us all."
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sunshine Rock (3:09)
 2. What Do You Want Me To Do (2:31)
 3. Sunny Love Song (3:01)
@@ -40,13 +42,6 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 10. Camp Sunshine (3:04)
 11. Send Me A Postcard  (2:35)
 12. Western Sunset (3:20)
-
-<!-- section break -->
-
-Sunshine Rock is the 13th solo album from American rock musician Bob Mould, formerly frontman of the bands Hüsker Dü and Sugar. The album release was announced on October 24, 2018. The album was released on February 8, 2019, and debuted at number 192 on the US Billboard 200. A review in Dagger says ""I Fought" has all the rage and bluster that Husker Du ever had (same with the great "Sin King") while "Camp Sunshine" is, dare I say a flowery love song[.] Sunshine Rock shows Bob and his unbeatable rhythm section at the top of their game." Robert Christgau wrote "this is the first time the solo Mould has come close to what he was once capable of, and that he's managed it this late should encourage us all."
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sunshine-rock/1437426052" >}}<br>

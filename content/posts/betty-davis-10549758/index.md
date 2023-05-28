@@ -35,10 +35,12 @@ genres: ["Funk / Soul"]
 styles: ["Funk"]
 ---
 
-{{< img src="betty-davis-10549758.jpg" title="Betty Davis by Betty Davis" >}}
+Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an American singer, songwriter, and model. She was known for her controversial sexually-oriented lyrics and performance style and was the second wife of trumpeter Miles Davis. Her AllMusic profile describes her as "a wildly flamboyant funk diva with few equals ... [who] combined the gritty emotional realism of Tina Turner, the futurist fashion sense of David Bowie, and the trendsetting flair of Miles Davis".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. If I'm In Luck I Might Get Picked Up
 2. Walkin Up The Road
 3. Anti Love Song
@@ -47,13 +49,6 @@ styles: ["Funk"]
 6. Steppin In Her I. Miller Shoes
 7. Game Is My Middle Name
 8. In The Meantime
-
-<!-- section break -->
-
-Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an American singer, songwriter, and model. She was known for her controversial sexually-oriented lyrics and performance style and was the second wife of trumpeter Miles Davis. Her AllMusic profile describes her as "a wildly flamboyant funk diva with few equals ... [who] combined the gritty emotional realism of Tina Turner, the futurist fashion sense of David Bowie, and the trendsetting flair of Miles Davis".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/betty-davis/658976770" >}}<br>

@@ -29,10 +29,15 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="the-astonishing-8197035.jpg" title="The Astonishing by Dream Theater" >}}
+The Astonishing is the thirteenth studio album by American progressive metal band Dream Theater, released on January 29, 2016 through Roadrunner Records. It is the band's second concept album, with a story conceived by guitarist John Petrucci and music written by Petrucci and keyboardist Jordan Rudess. Composer David Campbell assisted with orchestrating the album's strings and choirs. The band recorded their parts for the album throughout 2015 at Cove City Sound Studios in Long Island, New York, with the exception of vocals, which were recorded in Canada. Mixing and sound engineering were performed by the band's longtime collaborator, Richard Chycki, with Petrucci producing.
+The Astonishing is set in a dystopian future United States and follows the Ravenskill Rebel Militia in their efforts to defy the Great Northern Empire of the Americas using the magical power of music. It was inspired by contemporary fantasy and science fiction franchises such as Game of Thrones and Star Wars, as well as Petrucci's observations on the ubiquity of technological automation in modern-day society. In their effort to match the album's narrative, Dream Theater wrote songs in a wide variety of styles ranging from mellow ballads to their more conventional progressive metal sound.
+Leading up to The Astonishing's release, the band marketed the album with its own website, fan mailing lists, and trailer. It debuted in the top ten of nine countries and became the first Dream Theater album to reach number one on the US Billboard Rock Chart. It has received generally favorable reviews from music critics, and the band toured to support the album throughout most of 2016.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Act 1
 2. Descent Of The Nomacs (1:08)
 3. Dystopian Overture (4:50)
@@ -69,16 +74,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 34. Our New World (4:09)
 35. Power Down (1:22)
 36. Astonishing (5:46)
-
-<!-- section break -->
-
-The Astonishing is the thirteenth studio album by American progressive metal band Dream Theater, released on January 29, 2016 through Roadrunner Records. It is the band's second concept album, with a story conceived by guitarist John Petrucci and music written by Petrucci and keyboardist Jordan Rudess. Composer David Campbell assisted with orchestrating the album's strings and choirs. The band recorded their parts for the album throughout 2015 at Cove City Sound Studios in Long Island, New York, with the exception of vocals, which were recorded in Canada. Mixing and sound engineering were performed by the band's longtime collaborator, Richard Chycki, with Petrucci producing.
-The Astonishing is set in a dystopian future United States and follows the Ravenskill Rebel Militia in their efforts to defy the Great Northern Empire of the Americas using the magical power of music. It was inspired by contemporary fantasy and science fiction franchises such as Game of Thrones and Star Wars, as well as Petrucci's observations on the ubiquity of technological automation in modern-day society. In their effort to match the album's narrative, Dream Theater wrote songs in a wide variety of styles ranging from mellow ballads to their more conventional progressive metal sound.
-Leading up to The Astonishing's release, the band marketed the album with its own website, fan mailing lists, and trailer. It debuted in the top ten of nine countries and became the first Dream Theater album to reach number one on the US Billboard Rock Chart. It has received generally favorable reviews from music critics, and the band toured to support the album throughout most of 2016.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-astonishing/1061243392" >}}<br>

@@ -19,10 +19,14 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Soul-Jazz", "Soul"]
 ---
 
-{{< img src="stay-awhile-651808.jpg" title="Stay Awhile by Dusty Springfield" >}}
+"Stay Awhile" is a song originally recorded by Dusty Springfield in 1964.  It was the second single from her LP, Stay Awhile/I Only Want to Be with You. It became a top 20 hit in the United Kingdom, and reached the top 40 in Australia and the U.S.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Only Want To Be With You
 2. Stay Awhile
 3. Mama Said
@@ -33,15 +37,6 @@ styles: ["Soul-Jazz", "Soul"]
 8. You Don't Own Me
 9. Something Special
 10. Every Day I Have To Cry
-
-<!-- section break -->
-
-"Stay Awhile" is a song originally recorded by Dusty Springfield in 1964.  It was the second single from her LP, Stay Awhile/I Only Want to Be with You. It became a top 20 hit in the United Kingdom, and reached the top 40 in Australia and the U.S.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stay-awhile-i-only-want-to-be-with-you/1436881148" >}}<br>

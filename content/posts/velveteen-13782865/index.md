@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
 
-{{< img src="velveteen-13782865.jpg" title="Velveteen by Transvision Vamp" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Baby I Don't Care
 2. The Only One
 3. Landslide Of Love
@@ -31,10 +30,6 @@ styles: ["Rock & Roll"]
 9. Pay The Ghosts
 10. Bad Valentine
 11. Velveteen
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/velveteen/1443764149" >}}<br>

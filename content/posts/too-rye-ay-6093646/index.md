@@ -16,10 +16,14 @@ genres: ["Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="too-rye-ay-6093646.jpg" title="Too-Rye-Ay by Kevin Rowland" >}}
+Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Celtic Soul Brothers
 2. Let's Make This Precious
 3. All In All (This One Last Waltz)
@@ -30,15 +34,6 @@ styles: []
 8. Liars A To E
 9. Until I Believe In My Soul
 10. Come On Eileen
-
-<!-- section break -->
-
-Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners. It was released in July 1982 by Mercury Records. The album is best known for the hit single "Come On Eileen", which included the refrain that inspired the album's title. It was the band's most successful album, debuting at number two on the UK Albums Chart.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/too-rye-ay/1442968287" >}}<br>

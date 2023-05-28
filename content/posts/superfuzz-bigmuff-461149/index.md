@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="superfuzz-bigmuff-461149.jpg" title="Superfuzz Bigmuff by Mudhoney" >}}
+Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in the form of Superfuzz Bigmuff Plus Early Singles.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Here
 2. Touch Me I'm Sick
 3. Chain That Door
@@ -35,13 +37,6 @@ styles: ["Alternative Rock", "Grunge"]
 6. No One Has
 7. If I Think
 8. In 'N' Out Of Grace
-
-<!-- section break -->
-
-Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in the form of Superfuzz Bigmuff Plus Early Singles.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941" >}}<br>

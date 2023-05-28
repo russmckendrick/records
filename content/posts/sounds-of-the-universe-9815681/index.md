@@ -27,10 +27,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="sounds-of-the-universe-9815681.jpg" title="Sounds Of The Universe by Depeche Mode" >}}
+Sounds of the Universe is the twelfth studio album by English electronic music band Depeche Mode, released on 17 April 2009 by Mute Records. The album was supported by the 2009–2010 concert tour Tour of the Universe. Three singles were released from the album: "Wrong", "Peace", and a double A-side of "Fragile Tension" and "Hole to Feed". "Perfect" was also released in the United States as a promotional single.
+The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. In Chains
 2. Hole To Feed
 3. Wrong
@@ -45,16 +50,6 @@ styles: ["Synth-pop"]
 12. Jezebel
 13. Corrupt
 14. Untitled
-
-<!-- section break -->
-
-Sounds of the Universe is the twelfth studio album by English electronic music band Depeche Mode, released on 17 April 2009 by Mute Records. The album was supported by the 2009–2010 concert tour Tour of the Universe. Three singles were released from the album: "Wrong", "Peace", and a double A-side of "Fragile Tension" and "Hole to Feed". "Perfect" was also released in the United States as a promotional single.
-The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}<br>

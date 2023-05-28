@@ -19,10 +19,9 @@ genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
 ---
 
-{{< img src="vweto-ii-13787787.jpg" title="Vweto II by Georgia Anne Muldrow" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Almost Trendy (3:11)
 2. Bass Attack Bap (3:33)
 3. Big Mama Africa Jam (3:24)
@@ -39,10 +38,6 @@ styles: ["Instrumental", "Funk"]
 14. When The Fonk Radiates (4:40)
 15. Wu Punk (3:56)
 16. Yoyo Ma Fonk (3:09)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1456010351" >}}<br>

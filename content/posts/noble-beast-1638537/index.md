@@ -27,10 +27,12 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="noble-beast-1638537.jpg" title="Noble Beast by Andrew Bird" >}}
+Andrew Bird has a way of making things seem easy. Such is the disarming sense of grace and confidence on the Chicago singer/multi-instrumentalist’s fifth solo studio album, it takes a while to note the complexity of what he achieves so casually. When he’s not fusing whimsical humor, swelling strings, and a bossa-nova swagger on “Masterswarm,” he’s applying his signature croon to machine-made beats and fuzzier noises on “Not a Robot, but a Ghost,” or inventing his version of a pastoral-folk symphony in “Souverian.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Oh No (4:21)
 2. Master Swarm (6:36)
 3. Fitz And The Dizzyspells (3:37)
@@ -45,13 +47,6 @@ styles: ["Indie Rock"]
 12. The Privateers (3:24)
 13. Souverian (7:18)
 14. On Ho! (1:08)
-
-<!-- section break -->
-
-Andrew Bird has a way of making things seem easy. Such is the disarming sense of grace and confidence on the Chicago singer/multi-instrumentalist’s fifth solo studio album, it takes a while to note the complexity of what he achieves so casually. When he’s not fusing whimsical humor, swelling strings, and a bossa-nova swagger on “Masterswarm,” he’s applying his signature croon to machine-made beats and fuzzier noises on “Not a Robot, but a Ghost,” or inventing his version of a pastoral-folk symphony in “Souverian.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/noble-beast/671946528" >}}<br>

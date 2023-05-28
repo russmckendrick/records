@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="transience-7504854.jpg" title="Transience by Steven Wilson" >}}
+Transience is a compilation album released in 2015 by British musician and record producer Steven Wilson. It compiles thirteen songs originally recorded between 2003 and 2015. The album was released as a CD and a limited-edition double LP.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Transience - Single Version (3:10)
 2. Harmony Korine (5:07)
 3. Postcard (4:27)
@@ -42,13 +44,6 @@ styles: ["Prog Rock"]
 11. Hand Cannot Erase (4:13)
 12. Lazarus - 2015 Recording (3:57)
 13. Drive Home (7:33)
-
-<!-- section break -->
-
-Transience is a compilation album released in 2015 by British musician and record producer Steven Wilson. It compiles thirteen songs originally recorded between 2003 and 2015. The album was released as a CD and a limited-edition double LP.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transience/1143182695" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
 
-{{< img src="just-supposin-7581302.jpg" title="Just Supposin'... by Status Quo" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. What You're Proposing (4:15)
 2. Run To Mummy (3:08)
 3. Don't Drive My Car (4:30)
@@ -29,10 +28,6 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 7. Name Of The Game (4:26)
 8. Coming And Going (6:20)
 9. Rock 'N' Roll (5:23)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/just-supposin-deluxe/1443329378" >}}<br>

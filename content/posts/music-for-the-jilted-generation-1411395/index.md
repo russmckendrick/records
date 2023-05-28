@@ -23,10 +23,15 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Hardcore"]
 ---
 
-{{< img src="music-for-the-jilted-generation-1411395.jpg" title="Music For The Jilted Generation by The Prodigy" >}}
+Music for the Jilted Generation is the second studio album by English electronic music group the Prodigy. It was first released in July 1994 by XL Recordings in the United Kingdom and by Mute Records in the United States. Just as on the group's debut album Experience (1992), Maxim Reality was the only member of the band's lineup—besides Liam Howlett—to contribute to the album.
+A remastered and expanded edition of the album titled More Music for the Jilted Generation was released in 2008.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Intro (0:45)
 2. Break & Enter (8:24)
 3. Their Law (6:39)
@@ -38,16 +43,6 @@ styles: ["Breakbeat", "Hardcore"]
 9. No Good (Start The Dance) (6:18)
 10. One Love (Edit) (3:53)
 11. The Narcotic Suite
-
-<!-- section break -->
-
-Music for the Jilted Generation is the second studio album by English electronic music group the Prodigy. It was first released in July 1994 by XL Recordings in the United Kingdom and by Mute Records in the United States. Just as on the group's debut album Experience (1992), Maxim Reality was the only member of the band's lineup—besides Liam Howlett—to contribute to the album.
-A remastered and expanded edition of the album titled More Music for the Jilted Generation was released in 2008.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-the-jilted-generation/1450123784" >}}<br>

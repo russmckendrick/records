@@ -24,10 +24,18 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-bends-1594061.jpg" title="The Bends by Radiohead" >}}
+The Bends is the second studio album by the English rock band Radiohead, released on 13 March 1995 by Parlophone. Most tracks were produced by John Leckie, with extra production by Radiohead, Nigel Godrich and Jim Warren. The Bends combines guitar songs and ballads, with more restrained arrangements and cryptic lyrics than Radiohead's debut album, Pablo Honey (1993).  
+Work on The Bends began at RAK Studios, London, in February 1994, and lasted around four months in total. Tensions were high, with pressure from Parlophone to match sales of Radiohead's debut single "Creep", and progress was slow. After an international tour in May and June, Radiohead resumed work at Abbey Road in London and the Manor in Oxfordshire. The Bends was mixed by Leckie and by Sean Slade and Paul Q. Kolderie, who had produced Pablo Honey. It was Radiohead's first collaboration with Godrich and the cover artist Stanley Donwood, who have worked with Radiohead on every album since.
+Several singles were released, backed by music videos: "My Iron Lung", the double A-side "Planet Telex / High and Dry", "Fake Plastic Trees", "Just", and Radiohead's top-five UK entry "Street Spirit (Fade Out)". "The Bends" was also released as a single in Ireland. A live video, Live at the Astoria, was released on VHS. Radiohead toured extensively in support of The Bends, including US tours supporting R.E.M. and Alanis Morissette.
+Though it reached number four on the UK Albums Chart, The Bends failed to build on the success of "Creep" outside the UK, reaching number 88 on the US Billboard 200. It has since been certified platinum in the US and quadruple platinum in the UK. It received greater acclaim than Pablo Honey, including a nomination for Best British Album at the Brit Awards 1996; it elevated Radiohead from one-hit-wonders to one of the most recognised British bands. It is frequently named one of the greatest albums of all time, and was  included in Colin Larkin's “All Time Top 1000 Albums” 3rd Edition (2000) and all three editions of Rolling Stone's “500 Greatest Albums of All Time” list. The Bends is credited for influencing a generation of post-Britpop acts, such as Coldplay, Muse and Travis.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Planet Telex (4:22)
 2. The Bends (3:58)
 3. High And Dry (4:17)
@@ -40,19 +48,6 @@ styles: ["Alternative Rock"]
 10. Black Star (4:03)
 11. Sulk (3:42)
 12. Street Spirit (Fade Out) (4:13)
-
-<!-- section break -->
-
-The Bends is the second studio album by the English rock band Radiohead, released on 13 March 1995 by Parlophone. Most tracks were produced by John Leckie, with extra production by Radiohead, Nigel Godrich and Jim Warren. The Bends combines guitar songs and ballads, with more restrained arrangements and cryptic lyrics than Radiohead's debut album, Pablo Honey (1993).  
-Work on The Bends began at RAK Studios, London, in February 1994, and lasted around four months in total. Tensions were high, with pressure from Parlophone to match sales of Radiohead's debut single "Creep", and progress was slow. After an international tour in May and June, Radiohead resumed work at Abbey Road in London and the Manor in Oxfordshire. The Bends was mixed by Leckie and by Sean Slade and Paul Q. Kolderie, who had produced Pablo Honey. It was Radiohead's first collaboration with Godrich and the cover artist Stanley Donwood, who have worked with Radiohead on every album since.
-Several singles were released, backed by music videos: "My Iron Lung", the double A-side "Planet Telex / High and Dry", "Fake Plastic Trees", "Just", and Radiohead's top-five UK entry "Street Spirit (Fade Out)". "The Bends" was also released as a single in Ireland. A live video, Live at the Astoria, was released on VHS. Radiohead toured extensively in support of The Bends, including US tours supporting R.E.M. and Alanis Morissette.
-Though it reached number four on the UK Albums Chart, The Bends failed to build on the success of "Creep" outside the UK, reaching number 88 on the US Billboard 200. It has since been certified platinum in the US and quadruple platinum in the UK. It received greater acclaim than Pablo Honey, including a nomination for Best British Album at the Brit Awards 1996; it elevated Radiohead from one-hit-wonders to one of the most recognised British bands. It is frequently named one of the greatest albums of all time, and was  included in Colin Larkin's “All Time Top 1000 Albums” 3rd Edition (2000) and all three editions of Rolling Stone's “500 Greatest Albums of All Time” list. The Bends is credited for influencing a generation of post-Britpop acts, such as Coldplay, Muse and Travis.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-bends/1097862703" >}}<br>

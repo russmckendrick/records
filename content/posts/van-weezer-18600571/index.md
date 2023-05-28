@@ -24,10 +24,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="van-weezer-18600571.jpg" title="Van Weezer by Weezer" >}}
+In early 2020, Weezer were forced to put the release of the guitar-driven <i>Van Weezer</i> on hold when the stadium tour Hella Mega, on which they would share the bill with Green Day and Fall Out Boy, was postponed due to the COVID-19 pandemic. The veteran pop-rockers turned inward and decided to release <i>OK Human</i> instead—an unplugged orchestral album centred around themes of isolation and feeling alienated that felt more appropriate during lockdown. With the possibility of live shows ever-so-slightly looming on the horizon, they crank the Marshall stack back up and serve fun, gnarly riffs on their second album of 2021. Inspired by their shared love of hard rock and heavy metal bands of the ’70s and ’80s—after all, the album’s title is an obvious nod to Van Halen—the band’s 15th LP offers a nostalgic whiff of guitar histrionics (“Beginning of the End”), stomp-clap anthems à la “Beverly Hills” with more punch (“All the Good Ones”) and palm-muted power chords (“1 More Hit”).<br />
+Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler—recalling the catchy immediacy of the Green Album, even if, sonically, it’s the equivalent of wearing spandex and lace rather than baggy khakis. But as it is with every Weezer album, they also embrace their pop side regardless of whatever gimmick they pursue. There are sparkling odes to the underdog (“Hero”), anecdotes about overcoming stage fright (“Beginning of the End”) and adolescent memories about raging to Aerosmith (“I Need Some of That”), each guided by frontman Rivers Cuomo’s dewy-eyed ruminations and tightly crafted power-pop hooks. And for the long-time faithful, Cuomo even throws in some fan service with “Sheila Can Do It”—converting an old demo he wrote in the mid-’90s into a revved-up rocker with bubblegum New Wave flourishes.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Hero (3:56)
 2. All The Good Ones (2:44)
 3. The End Of The Game (3:01)
@@ -41,15 +45,6 @@ styles: ["Alternative Rock"]
 11. [Non Audio] (1:00)
 12. I've Thrown It All Away (3:23)
 13. I Need Some Of That [Reprise] (0:56)
-
-<!-- section break -->
-
-In early 2020, Weezer were forced to put the release of the guitar-driven <i>Van Weezer</i> on hold when the stadium tour Hella Mega, on which they would share the bill with Green Day and Fall Out Boy, was postponed due to the COVID-19 pandemic. The veteran pop-rockers turned inward and decided to release <i>OK Human</i> instead—an unplugged orchestral album centred around themes of isolation and feeling alienated that felt more appropriate during lockdown. With the possibility of live shows ever-so-slightly looming on the horizon, they crank the Marshall stack back up and serve fun, gnarly riffs on their second album of 2021. Inspired by their shared love of hard rock and heavy metal bands of the ’70s and ’80s—after all, the album’s title is an obvious nod to Van Halen—the band’s 15th LP offers a nostalgic whiff of guitar histrionics (“Beginning of the End”), stomp-clap anthems à la “Beverly Hills” with more punch (“All the Good Ones”) and palm-muted power chords (“1 More Hit”).<br />
-Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler—recalling the catchy immediacy of the Green Album, even if, sonically, it’s the equivalent of wearing spandex and lace rather than baggy khakis. But as it is with every Weezer album, they also embrace their pop side regardless of whatever gimmick they pursue. There are sparkling odes to the underdog (“Hero”), anecdotes about overcoming stage fright (“Beginning of the End”) and adolescent memories about raging to Aerosmith (“I Need Some of That”), each guided by frontman Rivers Cuomo’s dewy-eyed ruminations and tightly crafted power-pop hooks. And for the long-time faithful, Cuomo even throws in some fan service with “Sheila Can Do It”—converting an old demo he wrote in the mid-’90s into a revved-up rocker with bubblegum New Wave flourishes.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/van-weezer/1479227321" >}}<br>

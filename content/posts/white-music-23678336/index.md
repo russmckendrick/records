@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-{{< img src="white-music-23678336.jpg" title="White Music by XTC" >}}
+White Music is the debut studio album by the English rock band XTC, released on 20 January 1978. It was the follow-up to their debut, 3D EP, released three months earlier. White Music reached No. 38 in the UK Albums Chart and spawned the single "Statue of Liberty", which was banned by the BBC for the lyric "In my fantasy I sail beneath your skirt". In April 1978, the group rerecorded "This Is Pop" as their third single.
+Originally titled Black Music, referring to black comedy, the title was changed at the suggestion of both Virgin Records and the band's manager. The resultant title, White Music, refers to white noise.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Radios In Motion
 2. X Wires
 3. This Is Pop
@@ -35,14 +38,6 @@ styles: ["New Wave", "Post-Punk"]
 10. New Town Animal
 11. Spinning Top
 12. Neon Shuffle
-
-<!-- section break -->
-
-White Music is the debut studio album by the English rock band XTC, released on 20 January 1978. It was the follow-up to their debut, 3D EP, released three months earlier. White Music reached No. 38 in the UK Albums Chart and spawned the single "Statue of Liberty", which was banned by the BBC for the lyric "In my fantasy I sail beneath your skirt". In April 1978, the group rerecorded "This Is Pop" as their third single.
-Originally titled Black Music, referring to black comedy, the title was changed at the suggestion of both Virgin Records and the band's manager. The resultant title, White Music, refers to white noise.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-music-bonus-track-version/724360813" >}}<br>

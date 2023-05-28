@@ -21,10 +21,13 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="innervisions-8093938.jpg" title="Innervisions by Stevie Wonder" >}}
+Innervisions is the sixteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on August 3, 1973, by Tamla, a subsidiary of Motown Records. A landmark recording of Wonder's "classic period", the album has been regarded as his transition from the "Little Stevie Wonder" known for romantic ballads into a more musically mature, conscious, and grown-up artist. On the album, Wonder continued to experiment with the revolutionary T.O.N.T.O. (The Original New Timbral Orchestra) synthesizer system developed by Malcolm Cecil and Robert Margouleff, and Innervisions became hugely influential on the future sound of commercial soul and black music.
+The album peaked at number four on the Billboard Top LPs & Tapes chart and number one on the Billboard Soul LPs chart, eventually finishing at number four on the magazine's Top Pop Albums chart for 1974. At the 16th Grammy Awards, it won Album of the Year and Best Engineered Non-Classical Recording, while "Living for the City" won Best R&B Song. Innervisions is widely considered by fans, critics, and colleagues to be one of Wonder's finest works and one of the greatest albums ever made. It was ranked number 34 on Rolling Stone's list of "The 500 Greatest Albums of All Time", and, in 1999, it was inducted into the Grammy Hall of Fame.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Too High (4:37)
 2. Visions (5:17)
 3. Living For The City (7:26)
@@ -34,14 +37,6 @@ styles: ["Soul"]
 7. All In Love Is Fair (3:45)
 8. Don't You Worry 'Bout A Thing (4:55)
 9. He's Misstra Know-It-All (6:06)
-
-<!-- section break -->
-
-Innervisions is the sixteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on August 3, 1973, by Tamla, a subsidiary of Motown Records. A landmark recording of Wonder's "classic period", the album has been regarded as his transition from the "Little Stevie Wonder" known for romantic ballads into a more musically mature, conscious, and grown-up artist. On the album, Wonder continued to experiment with the revolutionary T.O.N.T.O. (The Original New Timbral Orchestra) synthesizer system developed by Malcolm Cecil and Robert Margouleff, and Innervisions became hugely influential on the future sound of commercial soul and black music.
-The album peaked at number four on the Billboard Top LPs & Tapes chart and number one on the Billboard Soul LPs chart, eventually finishing at number four on the magazine's Top Pop Albums chart for 1974. At the 16th Grammy Awards, it won Album of the Year and Best Engineered Non-Classical Recording, while "Living for the City" won Best R&B Song. Innervisions is widely considered by fans, critics, and colleagues to be one of Wonder's finest works and one of the greatest albums ever made. It was ranked number 34 on Rolling Stone's list of "The 500 Greatest Albums of All Time", and, in 1999, it was inducted into the Grammy Hall of Fame.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/innervisions/1440806790" >}}<br>

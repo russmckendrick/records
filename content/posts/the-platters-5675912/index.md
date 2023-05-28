@@ -16,10 +16,12 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
 
-{{< img src="the-platters-5675912.jpg" title="The Platters by The Platters" >}}
+The Platters are an American vocal group formed in 1952. They are one of the most successful vocal groups of the early rock and roll era. Their distinctive sound bridges the pre-rock Tin Pan Alley tradition and the new burgeoning genre. The act has gone through multiple line-ups over the years, earning it the branding tag "Many Voices One Name", with the most successful incarnation comprising lead tenor Tony Williams, David Lynch, Paul Robi, founder and naming member Herb Reed, and Zola Taylor. The group had 40 charting singles on the  Billboard Hot 100 between 1955 and 1967, including four number-one hits.  In 1990, the Platters were inducted into the Rock and Roll Hall of Fame. The Platters continue to perform around the world with Herb Reed Enterprises (an LLC set up by Reed in response to numerous fake Platters groups) owning the rights and trademark to the name.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1.  My Prayer
 2.  Why Should I?                        
 3. Remember When
@@ -32,13 +34,6 @@ styles: ["Rhythm & Blues"]
 10. On My Word Of Honor
 11. Heaven On Earth    
 12. Glory Of Love 
-
-<!-- section break -->
-
-The Platters are an American vocal group formed in 1952. They are one of the most successful vocal groups of the early rock and roll era. Their distinctive sound bridges the pre-rock Tin Pan Alley tradition and the new burgeoning genre. The act has gone through multiple line-ups over the years, earning it the branding tag "Many Voices One Name", with the most successful incarnation comprising lead tenor Tony Williams, David Lynch, Paul Robi, founder and naming member Herb Reed, and Zola Taylor. The group had 40 charting singles on the  Billboard Hot 100 between 1955 and 1967, including four number-one hits.  In 1990, the Platters were inducted into the Rock and Roll Hall of Fame. The Platters continue to perform around the world with Herb Reed Enterprises (an LLC set up by Reed in response to numerous fake Platters groups) owning the rights and trademark to the name.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-platters/1440912576" >}}<br>

@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="young-gods-1433332.jpg" title="Young Gods by Little Angels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Back Door Man (6:00)
 2. Boneyard (5:05)
 3. Young Gods (Stand Up, Stand Up) (4:27)
@@ -35,10 +34,6 @@ styles: ["Heavy Metal"]
 11. Smoke In My Eyes (3:37)
 12. Natural Born Fighter (4:15)
 13. Feels Like The World Has Come Undone (4:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}<br>

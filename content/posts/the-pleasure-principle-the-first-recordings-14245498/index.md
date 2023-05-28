@@ -18,10 +18,9 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-pleasure-principle-the-first-recordings-14245498.jpg" title="The Pleasure Principle (The First Recordings) by Gary Numan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cars (Demo Version 2)
 2. Films (Demo Version)
 3. Complex (Demo Version)
@@ -43,10 +42,6 @@ styles: ["New Wave", "Synth-pop"]
 19. Cars (BBC Peel Session)
 20. Films (BBC Peel Session)
 21. Conversation (BBC Peel Session)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089" >}}<br>

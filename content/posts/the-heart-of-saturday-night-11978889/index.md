@@ -25,10 +25,12 @@ genres: ["Jazz", "Rock", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk"]
 ---
 
-{{< img src="the-heart-of-saturday-night-11978889.jpg" title="The Heart Of Saturday Night by Tom Waits" >}}
+The Heart of Saturday Night is the second studio album by singer and songwriter Tom Waits, released on October 15, 1974, on Asylum Records. The title song was written as a tribute to Jack Kerouac. The album marks the start of a decade-long collaboration between Waits and Bones Howe, who produced and engineered all Waits' recordings until the artist left Asylum.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. New Coat Of Paint (3:20)
 2. San Diego Serenade (3:25)
 3. Semi Suite (3:22)
@@ -40,13 +42,6 @@ styles: ["Blues Rock", "Folk"]
 9. Depot, Depot (3:42)
 10. Drunk On The Moon (5:05)
 11. The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) (3:17)
-
-<!-- section break -->
-
-The Heart of Saturday Night is the second studio album by singer and songwriter Tom Waits, released on October 15, 1974, on Asylum Records. The title song was written as a tribute to Jack Kerouac. The album marks the start of a decade-long collaboration between Waits and Bones Howe, who produced and engineered all Waits' recordings until the artist left Asylum.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-heart-of-saturday-night-remastered/1485071401" >}}<br>

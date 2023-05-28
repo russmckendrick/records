@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-{{< img src="chairs-missing-12193551.jpg" title="Chairs Missing by Wire" >}}
+Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Practice Makes Perfect (4:06)
 2. French Film Blurred (2:35)
 3. Another The Letter (1:06)
@@ -40,13 +42,6 @@ styles: ["New Wave", "Post-Punk"]
 13. From The Nursery (3:00)
 14. Used To (2:21)
 15. Too Late (4:16)
-
-<!-- section break -->
-
-Chairs Missing is the second studio album by English rock band Wire. It was released on 8 September 1978 by Harvest Records. The album peaked at number 48 in the UK Albums Chart.Although it features some of the minimalist punk rock of the band's debut Pink Flag, Chairs Missing contains more developed song structure (taking some cues from 1970s prog-rock, psychedelia, and art rock), keyboard and synthesizer elements brought in by producer Mike Thorne, and a broader palette of emotional and intellectual subject matter. The title is said to be a British slang term for a mildly disturbed person, as in "that guy has a few chairs missing in his front room". The single "Outdoor Miner" was a minor hit, peaking at number 51 in the UK Singles Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chairs-missing/1328869087" >}}<br>

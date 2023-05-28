@@ -28,10 +28,13 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-{{< img src="elephants-on-acid-12610214.jpg" title="Elephants On Acid by Cypress Hill" >}}
+Elephants on Acid is the ninth studio album by American hip hop group Cypress Hill, and is the group's first studio album in eight years following Rise Up making it the group's longest gap between albums. The album was released on September 28, 2018. The album includes 21 tracks. Unlike Rise Up, the group's last album, which was produced by a number of people, this album is fully produced by DJ Muggs.
+Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tusko
 2. Band Of Gypsies
 3. Put Em In The Ground
@@ -74,14 +77,6 @@ styles: []
 40. Muggs Is Dead
 41. Blood On My Hands Again
 42. Stairway To Heaven
-
-<!-- section break -->
-
-Elephants on Acid is the ninth studio album by American hip hop group Cypress Hill, and is the group's first studio album in eight years following Rise Up making it the group's longest gap between albums. The album was released on September 28, 2018. The album includes 21 tracks. Unlike Rise Up, the group's last album, which was produced by a number of people, this album is fully produced by DJ Muggs.
-Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1413278413" >}}<br>

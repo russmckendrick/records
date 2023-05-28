@@ -19,10 +19,13 @@ genres: ["Non-Music"]
 styles: ["Comedy", "Spoken Word"]
 ---
 
-{{< img src="come-again-561165.jpg" title="Come Again by Derek & Clive" >}}
+Derek and Clive Come Again, subtitled on the CD reissue as  "Further Ejaculations From......" is the second record released by Derek and Clive, a pair of characters created by comedy duo Peter Cook and Dudley Moore. Although the first album, Derek and Clive (Live), was reasonably good-natured in its blasphemous subversiveness, Come Again was released at the height of the punk rock phenomenon and Cook, in particular, seems keen to elevate the excess to new heights of jaw-dropping offensiveness. To that end, he improvises routines about raping the victims of road traffic accidents and cross-dressing members of the aristocracy masturbating rent boys in taxi cabs, not to mention several extended routines on cancer in all its variations. Moore, on the other hand, improvises a smutty rhyme about his mother sucking his penis, oral sex performed in lavatory cubicles  and how he masturbates with the aid of a greased toilet roll connected to his electric train-set.
+Throughout much of the album (recorded in just one day for a Christmas release), both Cook and especially Moore are drunk and out of control, with Moore in particular regularly collapsing in hysterics (Cook achieving his primary comic aim of making Moore laugh with regular ease). Shortly after the album's release, controversy unsurprisingly erupted in a variety of forms, most notably a petrol station attendant being fired from his job after it was discovered that he owned a copy of the album (Cook testified at the man's industrial tribunal), and a distributor of talking books accidentally sending out copies of Come Again on cassette in cases intended for the children's classic Black Beauty. The CD reissue adds several previously unreleased routines, including a sketch about Derek (Moore) cutting his wife's hymen out with an electric carving knife, and one of their most popular sketches amongst their fans, 'Mother', in which Moore plays Cooks hysterical, domineering, deranged mother. Like much of the extra material, it was actually recorded during the 'Ad Nauseam' sessions a couple of years later than the original Come Again album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Coughing Contest (2:37)
 2. Cancer (0:29)
 3. Non-stop Dancer / My Mum Song (5:37)
@@ -39,14 +42,6 @@ styles: ["Comedy", "Spoken Word"]
 14. I Saw This Bloke (1:42)
 15. Parking Offence (5:45)
 16. Members Only (3:31)
-
-<!-- section break -->
-
-Derek and Clive Come Again, subtitled on the CD reissue as  "Further Ejaculations From......" is the second record released by Derek and Clive, a pair of characters created by comedy duo Peter Cook and Dudley Moore. Although the first album, Derek and Clive (Live), was reasonably good-natured in its blasphemous subversiveness, Come Again was released at the height of the punk rock phenomenon and Cook, in particular, seems keen to elevate the excess to new heights of jaw-dropping offensiveness. To that end, he improvises routines about raping the victims of road traffic accidents and cross-dressing members of the aristocracy masturbating rent boys in taxi cabs, not to mention several extended routines on cancer in all its variations. Moore, on the other hand, improvises a smutty rhyme about his mother sucking his penis, oral sex performed in lavatory cubicles  and how he masturbates with the aid of a greased toilet roll connected to his electric train-set.
-Throughout much of the album (recorded in just one day for a Christmas release), both Cook and especially Moore are drunk and out of control, with Moore in particular regularly collapsing in hysterics (Cook achieving his primary comic aim of making Moore laugh with regular ease). Shortly after the album's release, controversy unsurprisingly erupted in a variety of forms, most notably a petrol station attendant being fired from his job after it was discovered that he owned a copy of the album (Cook testified at the man's industrial tribunal), and a distributor of talking books accidentally sending out copies of Come Again on cassette in cases intended for the children's classic Black Beauty. The CD reissue adds several previously unreleased routines, including a sketch about Derek (Moore) cutting his wife's hymen out with an electric carving knife, and one of their most popular sketches amongst their fans, 'Mother', in which Moore plays Cooks hysterical, domineering, deranged mother. Like much of the extra material, it was actually recorded during the 'Ad Nauseam' sessions a couple of years later than the original Come Again album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-again/724582290" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="liberator-19761730.jpg" title="Liberator by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stand Above Me (3:33)
 2. Everyday (3:57)
 3. King Of Stone (4:17)
@@ -39,10 +38,6 @@ styles: ["Synth-pop"]
 10. Best Years Of Our Lives (4:35)
 11. Christine (5:04)
 12. Only Tears (4:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}<br>

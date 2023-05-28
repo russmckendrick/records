@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-{{< img src="wild-planet-13930651.jpg" title="Wild Planet by The B-52's" >}}
+Wild Planet is the second studio album by American new wave band the B-52's, released in 1980 by Warner Bros. Records.
+As with their first album, the B-52's traveled to Compass Point Studios in the Bahamas to record Wild Planet. Several of the songs from the album had been concert staples since 1978. The band deliberately did not record them for their first album because they had too many tracks and wanted a strong second album, knowing that performing the tracks live would make fans look forward to it.Film director Gus Van Sant later referred to the song "Private Idaho" in the title of his 1991 film My Own Private Idaho and thanked the band in the film's credits, although he did not seek approval from the band to use it.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Party Out Of Bounds (3:21)
 2. Dirty Back Road (3:21)
 3. Runnin' Around (3:09)
@@ -35,14 +38,6 @@ styles: ["New Wave"]
 7. Quiche Lorraine (3:58)
 8. Strobe Light (3:59)
 9. 53 Miles West Of Venus (4:53)
-
-<!-- section break -->
-
-Wild Planet is the second studio album by American new wave band the B-52's, released in 1980 by Warner Bros. Records.
-As with their first album, the B-52's traveled to Compass Point Studios in the Bahamas to record Wild Planet. Several of the songs from the album had been concert staples since 1978. The band deliberately did not record them for their first album because they had too many tracks and wanted a strong second album, knowing that performing the tracks live would make fans look forward to it.Film director Gus Van Sant later referred to the song "Private Idaho" in the title of his 1991 film My Own Private Idaho and thanked the band in the film's credits, although he did not seek approval from the band to use it.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wild-planet/1442407466" >}}<br>

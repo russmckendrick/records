@@ -35,10 +35,9 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
-{{< img src="star-wars-the-empire-strikes-back-the-original-soundtrack-from-the-motion-picture-8914303.jpg" title="Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture by John Williams" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Star Wars (Main Theme) (5:49)
 2. Yoda's Theme (3:24)
 3. The Training Of A Jedi Knight (3:17)
@@ -56,10 +55,6 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 15. The Magic Tree (3:32)
 16. Lando's Palace (3:52)
 17. Finale (6:28)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star-wars-the-empire-strikes-back-original-motion/1375815586" >}}<br>

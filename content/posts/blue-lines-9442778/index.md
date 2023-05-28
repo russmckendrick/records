@@ -23,10 +23,16 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-{{< img src="blue-lines-9442778.jpg" title="Blue Lines by Massive Attack" >}}
+Blue Lines is the debut studio album by English electronic music group Massive Attack, released on 8 April 1991 by Wild Bunch and Virgin Records. The recording was led by members Grantley "Daddy G" Marshall, Robert "3D" Del Naja, Adrian "Tricky" Thaws, and Andrew "Mushroom" Vowles, with co-production by Jonny Dollar. It also features contributions by singers Shara Nelson and Horace Andy. Generally regarded as the first "trip hop" album, Blue Lines blended elements of hip hop (such as breakbeats, sampling, and rapping) with dub, soul, reggae, and electronic music.
+Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the Millennium" poll conducted by HMV, Channel 4, The Guardian and Classic FM. In 2000, Q readers placed it at number 9 in the magazine's poll of the "100 Greatest British Albums Ever". In 2003, the album was included on Rolling Stone's list of "The 500 Greatest Albums of All Time" and again in 2012 and 2020. Pitchfork ranked it at number 85 in its list of "The Top 100 Albums of the 1990s".A remastered version of the album was released on 19 November 2012.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Safe From Harm (5:16)
 2. One Love (4:48)
 3. Blue Lines (4:21)
@@ -36,17 +42,6 @@ styles: ["Trip Hop", "Downtempo"]
 7. Daydreaming (4:14)
 8. Lately (4:26)
 9. Hymn Of The Big Wheel (6:36)
-
-<!-- section break -->
-
-Blue Lines is the debut studio album by English electronic music group Massive Attack, released on 8 April 1991 by Wild Bunch and Virgin Records. The recording was led by members Grantley "Daddy G" Marshall, Robert "3D" Del Naja, Adrian "Tricky" Thaws, and Andrew "Mushroom" Vowles, with co-production by Jonny Dollar. It also features contributions by singers Shara Nelson and Horace Andy. Generally regarded as the first "trip hop" album, Blue Lines blended elements of hip hop (such as breakbeats, sampling, and rapping) with dub, soul, reggae, and electronic music.
-Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the Millennium" poll conducted by HMV, Channel 4, The Guardian and Classic FM. In 2000, Q readers placed it at number 9 in the magazine's poll of the "100 Greatest British Albums Ever". In 2003, the album was included on Rolling Stone's list of "The 500 Greatest Albums of All Time" and again in 2012 and 2020. Pitchfork ranked it at number 85 in its list of "The Top 100 Albums of the 1990s".A remastered version of the album was released on 19 November 2012.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>

@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Britpop"]
 ---
 
-{{< img src="attack-of-the-grey-lantern-12103408.jpg" title="Attack Of The Grey Lantern by Mansun" >}}
+Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Chad Who Loved Me (5:02)
 2. Mansun's Only Love Song (5:55)
 3. Taxloss (7:02)
@@ -34,13 +36,6 @@ styles: ["Psychedelic Rock", "Britpop"]
 9. Naked Twister (4:39)
 10. Egg Shaped Fred (4:11)
 11. Dark Mavis (8:36)
-
-<!-- section break -->
-
-Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>

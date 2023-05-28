@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Electro", "Synth-pop"]
 ---
 
-{{< img src="this-is-big-audio-dynamite-6631916.jpg" title="This Is Big Audio Dynamite by Big Audio Dynamite" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Medicine Show (6:30)
 2. Sony (4:30)
 3. E=MC² (5:56)
@@ -34,10 +33,6 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 6. Sudden Impact! (5:00)
 7. Stone Thames (4:00)
 8. BAD (6:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175" >}}<br>

@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="piledriver-7578335.jpg" title="Piledriver by Status Quo" >}}
+Piledriver is the fifth studio album by the English rock band Status Quo, released in 1972. It was the first to be produced by the group themselves, and their first on the Vertigo label. It peaked at number five in the UK and included several favourites that would be featured frequently in live concerts.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Waste My Time (4:19)
 2. Oh Baby (4:35)
 3. A Year (5:45)
@@ -28,13 +30,6 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 6. Paper Plane (2:58)
 7. All The Reasons (3:38)
 8. Roadhouse Blues (7:29)
-
-<!-- section break -->
-
-Piledriver is the fifth studio album by the English rock band Status Quo, released in 1972. It was the first to be produced by the group themselves, and their first on the Vertigo label. It peaked at number five in the UK and included several favourites that would be featured frequently in live concerts.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/piledriver-deluxe-version/1442895761" >}}<br>

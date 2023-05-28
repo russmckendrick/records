@@ -19,10 +19,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="the-touch-of-love-2171568.jpg" title="The Touch Of Love by Gladys Knight And The Pips" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Look Of Love
 2. Best Thing That Ever Happened To Me
 3. Perfect Love
@@ -39,10 +38,6 @@ styles: ["Soul"]
 14. Nobody But You
 15. Come Back And Finish What You Started
 16. Try To Remember / The Way We Were
-
-<!-- section break -->
-
-
 
 
 

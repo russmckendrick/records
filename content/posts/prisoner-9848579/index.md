@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 ---
 
-{{< img src="prisoner-9848579.jpg" title="Prisoner by Ryan Adams" >}}
+<i>Prisoner</i> continues to refine the sound that Ryan Adams first explored with his 2014 self-titled album: a sure-handed mix of <i>Tunnel of Love</i>-era Springsteen, ‘80s college rock, and soft-focus synths. A track like “Anything I Say to You Now” illustrates how perfectly this formula suits him; a Smiths-esque jangle of guitars gives sentimental depth to his plain-spoken refrain, “Anything I say to you now is just a lie.” As he works through the rest of the emotional wreckage, highlights like "Shiver and Shake” prove that Adams’ poignancy as a songwriter can still bring us to our knees.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Do You Still Love Me?
 2. Prisoner
 3. Doomsday
@@ -38,14 +41,6 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 10. Broken Anyway
 11. Tightrope
 12. We Disappear
-
-<!-- section break -->
-
-<i>Prisoner</i> continues to refine the sound that Ryan Adams first explored with his 2014 self-titled album: a sure-handed mix of <i>Tunnel of Love</i>-era Springsteen, ‘80s college rock, and soft-focus synths. A track like “Anything I Say to You Now” illustrates how perfectly this formula suits him; a Smiths-esque jangle of guitars gives sentimental depth to his plain-spoken refrain, “Anything I say to you now is just a lie.” As he works through the rest of the emotional wreckage, highlights like "Shiver and Shake” prove that Adams’ poignancy as a songwriter can still bring us to our knees.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prisoner/1440888762" >}}<br>

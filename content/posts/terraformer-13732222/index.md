@@ -22,10 +22,9 @@ genres: ["Jazz", "Rock"]
 styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
-{{< img src="terraformer-13732222.jpg" title="Terraformer by Thank You Scientist" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wrinkle
 2. FXMLDR
 3. Swarm
@@ -39,10 +38,6 @@ styles: ["Prog Rock", "Jazz-Rock"]
 11. Anchor
 12. New Moon
 13. Terraformer
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/terraformer/1618539649" >}}<br>

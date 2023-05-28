@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ---
 
-{{< img src="lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191.jpg" title="Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Loverman (Single Version) (4:57)
 2. Tupelo (Single Version) (5:12)
 3. Deanna (3:45)
@@ -52,10 +51,6 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 19. Nature Boy (Single Version) (3:31)
 20. We No Who U R (4:05)
 21. Stagger Lee (5:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovely-creatures-the-best-of-nick-cave-and-the/1210447337" >}}<br>

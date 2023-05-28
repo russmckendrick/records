@@ -22,10 +22,17 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="live-through-this-8829211.jpg" title="Live Through This by Hole" >}}
+Live Through This is the second studio album by the American alternative rock band Hole, released on April 12, 1994, by DGC Records. Recorded in late 1993, it departed from the band's unpolished hardcore aesthetics to more refined melodies and song structure. Frontwoman Courtney Love said that she wanted the record to be "shocking to the people who think that we don't have a soft edge", but maintain a harsh sensibility. The album was produced by Sean Slade and Paul Q. Kolderie and mixed by Scott Litt and J Mascis. The lyrics and packaging reflect Love's thematic preoccupations with beauty, and motifs of milk, motherhood, anti-elitism, and violence against women, while Love derived the album title from a quote in Gone with the Wind (1939).
+Live Through This was met with critical acclaim, and charted in nine countries before going multi-platinum in the US in December 1994. Despite this, it was also the subject of some public discussion regarding unsubstantiated rumors that Love's husband, Kurt Cobain—who died by suicide one week before the album's release—helped ghostwrite the album. This claim has been disputed by the band members, producers, as well as music biographers, though the band confirmed that Cobain sang additional backing vocals on two tracks during a visit to the studio. It was also the only Hole album to feature bassist Kristen Pfaff, and the final album to be released during her lifetime, as she died two months after the album's release.
+In critical circles, Live Through This is considered a contemporary classic, and was included in Rolling Stone's 2020 updated list of The 500 Greatest Albums of All Time at number 106. It has also been featured on the book 1001 Albums You Must Hear Before You Die and on NME's The 500 Greatest Albums of All Time list, where it ranked at the 84. As of 2010, it has sold over 1.6 million copies in the US.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Violet
 2. Miss World
 3. Plump
@@ -38,18 +45,6 @@ styles: ["Alternative Rock", "Grunge"]
 10. I Think That I Would Die
 11. Gutless
 12. Rock Star
-
-<!-- section break -->
-
-Live Through This is the second studio album by the American alternative rock band Hole, released on April 12, 1994, by DGC Records. Recorded in late 1993, it departed from the band's unpolished hardcore aesthetics to more refined melodies and song structure. Frontwoman Courtney Love said that she wanted the record to be "shocking to the people who think that we don't have a soft edge", but maintain a harsh sensibility. The album was produced by Sean Slade and Paul Q. Kolderie and mixed by Scott Litt and J Mascis. The lyrics and packaging reflect Love's thematic preoccupations with beauty, and motifs of milk, motherhood, anti-elitism, and violence against women, while Love derived the album title from a quote in Gone with the Wind (1939).
-Live Through This was met with critical acclaim, and charted in nine countries before going multi-platinum in the US in December 1994. Despite this, it was also the subject of some public discussion regarding unsubstantiated rumors that Love's husband, Kurt Cobain—who died by suicide one week before the album's release—helped ghostwrite the album. This claim has been disputed by the band members, producers, as well as music biographers, though the band confirmed that Cobain sang additional backing vocals on two tracks during a visit to the studio. It was also the only Hole album to feature bassist Kristen Pfaff, and the final album to be released during her lifetime, as she died two months after the album's release.
-In critical circles, Live Through This is considered a contemporary classic, and was included in Rolling Stone's 2020 updated list of The 500 Greatest Albums of All Time at number 106. It has also been featured on the book 1001 Albums You Must Hear Before You Die and on NME's The 500 Greatest Albums of All Time list, where it ranked at the 84. As of 2010, it has sold over 1.6 million copies in the US.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-through-this/1445732603" >}}<br>

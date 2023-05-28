@@ -26,10 +26,9 @@ genres: ["Electronic"]
 styles: ["New Wave"]
 ---
 
-{{< img src="replicas-the-first-recordings-14258114.jpg" title="Replicas (The First Recordings) by Gary Numan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You Are In My Vision (Early Version)
 2. The Machmen (Early Version)
 3. Down In The Park (Early Version)
@@ -50,10 +49,6 @@ styles: ["New Wave"]
 18. Me! I Disconnect From You (BBC Peel Session)
 19. Down In The Park (BBC Peel Session)
 20. I Nearly Married A Human (BBC Peel Session)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>

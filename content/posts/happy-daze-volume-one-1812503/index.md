@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---
 
-{{< img src="happy-daze-volume-one-1812503.jpg" title="Happy Daze (Volume One) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Loaded
 2. Real, Real, Real
 3. Come Home
@@ -38,10 +37,6 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 13. ProGen
 14. Wrote For Luck
 15. I'm Free
-
-<!-- section break -->
-
-
 
 
 

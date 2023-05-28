@@ -22,10 +22,9 @@ genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
 
-{{< img src="public-confidential-13121934.jpg" title="Public Confidential by The Beat" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Maniac (3:29)
 2. Public Confidential (3:07)
 3. Who's Dat Looking (2:44)
@@ -36,10 +35,6 @@ styles: ["Ska"]
 8. A Good Day For Sunshine (2:42)
 9. Skank Away (3:02)
 10. Civilisation (3:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/public-confidential/1442800503" >}}<br>

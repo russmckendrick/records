@@ -28,10 +28,12 @@ genres: ["Rock"]
 styles: ["Industrial", "Heavy Metal"]
 ---
 
-{{< img src="pandemonium-16417860.jpg" title="Pandemonium by Killing Joke" >}}
+Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pandemonium (6:40)
 2. Exorcism (7:26)
 3. Millennium (5:33)
@@ -42,13 +44,6 @@ styles: ["Industrial", "Heavy Metal"]
 8. Whiteout (5:43)
 9. Pleasures Of The Flesh (5:40)
 10. Mathematics Of Chaos (7:20)
-
-<!-- section break -->
-
-Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pandemonium/1679617786" >}}<br>

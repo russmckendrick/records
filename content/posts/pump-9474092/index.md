@@ -26,10 +26,17 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="pump-9474092.jpg" title="Pump by Aerosmith" >}}
+Pump is the tenth studio album by American rock band Aerosmith. It was released on September 12, 1989, by Geffen Records. The album peaked at No. 5 on the US charts, and was certified septuple platinum by the RIAA in 1995.The album contains the hit singles "Love in an Elevator", "The Other Side", "What It Takes", "Janie's Got a Gun", which all entered the Top 40 of the Hot 100. It also has certified sales of seven million copies in the U.S. to date, and is tied with its successor Get a Grip as Aerosmith's second best-selling studio album in the U.S. (Toys in the Attic leads with nine million). It produced a variety of successes and "firsts" for the band including their first Grammy Award ("Janie's Got a Gun"). "Love in an Elevator" became the first Aerosmith song to hit number one on the Mainstream Rock Tracks chart. The album was the fourth best-selling album of the year 1990.In the UK, it was the second Aerosmith album to be certified Silver (60,000 units sold) by the British Phonographic Industry, achieving this in September 1989.
+Pump was the second of three sequentially recorded Aerosmith albums to feature producer Bruce Fairbairn and engineers Mike Fraser and Ken Lomas at Little Mountain Sound Studios.
+A video documentary on the recording, The Making of Pump, was released in 1990.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Young Lust (4:19)
 2. F.I.N.E. (4:10)
 3. Love In An Elevator (5:39)
@@ -40,18 +47,6 @@ styles: []
 8. Don't Get Mad, Get Even (4:50)
 9. Voodoo Medicine Man (4:39)
 10. What It Takes (6:26)
-
-<!-- section break -->
-
-Pump is the tenth studio album by American rock band Aerosmith. It was released on September 12, 1989, by Geffen Records. The album peaked at No. 5 on the US charts, and was certified septuple platinum by the RIAA in 1995.The album contains the hit singles "Love in an Elevator", "The Other Side", "What It Takes", "Janie's Got a Gun", which all entered the Top 40 of the Hot 100. It also has certified sales of seven million copies in the U.S. to date, and is tied with its successor Get a Grip as Aerosmith's second best-selling studio album in the U.S. (Toys in the Attic leads with nine million). It produced a variety of successes and "firsts" for the band including their first Grammy Award ("Janie's Got a Gun"). "Love in an Elevator" became the first Aerosmith song to hit number one on the Mainstream Rock Tracks chart. The album was the fourth best-selling album of the year 1990.In the UK, it was the second Aerosmith album to be certified Silver (60,000 units sold) by the British Phonographic Industry, achieving this in September 1989.
-Pump was the second of three sequentially recorded Aerosmith albums to feature producer Bruce Fairbairn and engineers Mike Fraser and Ken Lomas at Little Mountain Sound Studios.
-A video documentary on the recording, The Making of Pump, was released in 1990.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pump/1440824301" >}}<br>

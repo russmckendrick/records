@@ -33,10 +33,17 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-{{< img src="the-dark-side-of-the-moon-9287809.jpg" title="The Dark Side Of The Moon by Pink Floyd" >}}
+The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Developed during live performances before recording began, it was conceived as a concept album that would focus on the pressures faced by the band during their arduous lifestyle, and also deal with the mental health problems of former band member Syd Barrett, who departed the group in 1968. New material was recorded in two sessions in 1972 and 1973 at EMI Studios (now Abbey Road Studios) in London.
+The record builds on ideas explored in Pink Floyd's earlier recordings and performances, while omitting the extended instrumentals that characterised the band's earlier work. The group employed multitrack recording, tape loops, and analogue synthesisers, including experimentation with the EMS VCS 3 and a Synthi A. Engineer Alan Parsons was responsible for many of the sonic aspects of the recording, and for the recruitment of session singer Clare Torry, who appears on "The Great Gig in the Sky".
+The Dark Side of the Moon explores themes such as conflict, greed, time, death and mental illness. Snippets from interviews with the band's road crew and others are featured alongside philosophical quotations. The sleeve, which depicts a prismatic  spectrum, was designed by Storm Thorgerson in response to keyboardist Richard Wright's request for a "simple and bold" design which would represent the band's lighting and the album's themes. The album was promoted with two singles, "Money" and "Us and Them".
+The Dark Side of the Moon is among the most critically acclaimed albums and often features in professional listings of the greatest of all time. It brought Pink Floyd international fame, wealth and plaudits to all four band members. A blockbuster release of the album era, it also propelled record sales throughout the music industry during the 1970s. The Dark Side of the Moon is certified 14 times platinum in the United Kingdom, and topped the US Billboard Top LPs & Tape chart, where it has charted for 981 weeks. As of 2013, The Dark Side of the Moon has sold over 45 million copies worldwide, making it the best-selling album of the 1970s and the fourth-best-selling album in history. In 2012, the album was selected for preservation in the United States National Recording Registry by the Library of Congress as being "culturally, historically, or aesthetically significant".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Speak To Me
 2. Breathe (In The Air)
 3. On The Run
@@ -47,18 +54,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 8. Any Colour You Like
 9. Brain Damage
 10. Eclipse
-
-<!-- section break -->
-
-The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Developed during live performances before recording began, it was conceived as a concept album that would focus on the pressures faced by the band during their arduous lifestyle, and also deal with the mental health problems of former band member Syd Barrett, who departed the group in 1968. New material was recorded in two sessions in 1972 and 1973 at EMI Studios (now Abbey Road Studios) in London.
-The record builds on ideas explored in Pink Floyd's earlier recordings and performances, while omitting the extended instrumentals that characterised the band's earlier work. The group employed multitrack recording, tape loops, and analogue synthesisers, including experimentation with the EMS VCS 3 and a Synthi A. Engineer Alan Parsons was responsible for many of the sonic aspects of the recording, and for the recruitment of session singer Clare Torry, who appears on "The Great Gig in the Sky".
-The Dark Side of the Moon explores themes such as conflict, greed, time, death and mental illness. Snippets from interviews with the band's road crew and others are featured alongside philosophical quotations. The sleeve, which depicts a prismatic  spectrum, was designed by Storm Thorgerson in response to keyboardist Richard Wright's request for a "simple and bold" design which would represent the band's lighting and the album's themes. The album was promoted with two singles, "Money" and "Us and Them".
-The Dark Side of the Moon is among the most critically acclaimed albums and often features in professional listings of the greatest of all time. It brought Pink Floyd international fame, wealth and plaudits to all four band members. A blockbuster release of the album era, it also propelled record sales throughout the music industry during the 1970s. The Dark Side of the Moon is certified 14 times platinum in the United Kingdom, and topped the US Billboard Top LPs & Tape chart, where it has charted for 981 weeks. As of 2013, The Dark Side of the Moon has sold over 45 million copies worldwide, making it the best-selling album of the 1970s and the fourth-best-selling album in history. In 2012, the album was selected for preservation in the United States National Recording Registry by the Library of Congress as being "culturally, historically, or aesthetically significant".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-50th-anniversary-2023-remaster/1664429596" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="elastica-11175695.jpg" title="Elastica by Elastica" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Line Up
 2. Annie
 3. Connection
@@ -44,10 +43,6 @@ styles: ["Alternative Rock", "Britpop"]
 14. Never Here
 15. Stutter
 16. In The City
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elastica/1537947271" >}}<br>

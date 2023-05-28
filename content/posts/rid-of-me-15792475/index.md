@@ -23,10 +23,16 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="rid-of-me-15792475.jpg" title="Rid Of Me by PJ Harvey" >}}
+Rid of Me is the second studio album by English singer-songwriter and musician PJ Harvey. It was released by Island Records in May 1993, approximately one year after the release of her critically acclaimed debut album Dry. It marked a departure from Harvey's previous songwriting, being more raw and aggressive than its predecessor.
+The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of Harvey on guitar and vocals, Rob Ellis on drums and background vocals, and Steve Vaughan on bass. Most of the songs on the album were recorded by Steve Albini, and it was the last album they recorded as a trio before disbanding in late 1993. Rid of Me was met with critical acclaim, and is cited as one of the greatest albums of all time, ranking at number 153 on the 2020 version of Rolling Stone's 500 Greatest Albums of All Time (up from 406 on the list's previous edition).
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Rid Of Me (4:28)
 2. Missed (4:25)
 3. Legs (3:40)
@@ -41,17 +47,6 @@ styles: ["Indie Rock"]
 12. Me-Jane (2:42)
 13. Snake (1:35)
 14. Ecstasy (4:27)
-
-<!-- section break -->
-
-Rid of Me is the second studio album by English singer-songwriter and musician PJ Harvey. It was released by Island Records in May 1993, approximately one year after the release of her critically acclaimed debut album Dry. It marked a departure from Harvey's previous songwriting, being more raw and aggressive than its predecessor.
-The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of Harvey on guitar and vocals, Rob Ellis on drums and background vocals, and Steve Vaughan on bass. Most of the songs on the album were recorded by Steve Albini, and it was the last album they recorded as a trio before disbanding in late 1993. Rid of Me was met with critical acclaim, and is cited as one of the greatest albums of all time, ranking at number 153 on the 2020 version of Rolling Stone's 500 Greatest Albums of All Time (up from 406 on the list's previous edition).
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rid-of-me/1440923277" >}}<br>

@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock", "Arena Rock"]
 ---
 
-{{< img src="brothers-in-arms-5736935.jpg" title="Brothers In Arms by Dire Straits" >}}
+Brothers in Arms is the fifth studio album by British rock band Dire Straits, released on 17 May 1985 through Vertigo Records internationally and through Warner Bros. Records in the United States. It is credited with being the first album in recorded history to sell over one million copies in a CD format.Brothers in Arms spent a total of 14 non-consecutive weeks at number one on the UK Albums Chart (including ten consecutive weeks between 18 January and 22 March 1986), nine weeks at number one on the Billboard 200 in the United States and 34 weeks at number one on the Australian Albums Chart. It was the first album certified ten-times platinum in the UK and is the eighth-best-selling album in UK chart history. It is certified nine-times platinum in the United States and is one of the world's best-selling albums, having sold more than 30 million copies worldwide.The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical and Best British Album at the 1987 Brit Awards; the 20th Anniversary reissue won another Grammy in 2006 for Best Surround Sound Album. Q magazine ranked Brothers in Arms number 51 on its list of the 100 Greatest British Albums Ever.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. So Far Away
 2. Money For Nothing
 3. Walk Of Life
@@ -40,13 +42,6 @@ styles: ["Blues Rock", "Pop Rock", "Arena Rock"]
 7. The Man's Too Strong
 8. One World
 9. Brothers In Arms
-
-<!-- section break -->
-
-Brothers in Arms is the fifth studio album by British rock band Dire Straits, released on 17 May 1985 through Vertigo Records internationally and through Warner Bros. Records in the United States. It is credited with being the first album in recorded history to sell over one million copies in a CD format.Brothers in Arms spent a total of 14 non-consecutive weeks at number one on the UK Albums Chart (including ten consecutive weeks between 18 January and 22 March 1986), nine weeks at number one on the Billboard 200 in the United States and 34 weeks at number one on the Australian Albums Chart. It was the first album certified ten-times platinum in the UK and is the eighth-best-selling album in UK chart history. It is certified nine-times platinum in the United States and is one of the world's best-selling albums, having sold more than 30 million copies worldwide.The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical and Best British Album at the 1987 Brit Awards; the 20th Anniversary reissue won another Grammy in 2006 for Best Surround Sound Album. Q magazine ranked Brothers in Arms number 51 on its list of the 100 Greatest British Albums Ever.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brothers-in-arms-remastered-1996/1565391787" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-{{< img src="the-bus-driver-s-prayer-other-stories-7802272.jpg" title="The Bus Driver's Prayer & Other Stories by Ian Dury" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. That's Enough Of That (4:49)
 2. Bill Haley's Last Words (2:43)
 3. Poor Joey (3:50)
@@ -38,10 +37,6 @@ styles: ["Power Pop", "Pop Rock"]
 12. No Such Thing As Love (3:36)
 13. Two Old Dogs Without A Name (4:43)
 14. The Bus Driver's Prayer (0:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1489399630" >}}<br>

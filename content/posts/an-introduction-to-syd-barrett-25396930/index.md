@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Acoustic", "Psychedelic Rock"]
 ---
 
-{{< img src="an-introduction-to-syd-barrett-25396930.jpg" title="An Introduction To Syd Barrett by Syd Barrett" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Arnold Layne (2:54)
 2. See Emily Play (2:53)
 3. Apples And Oranges (Stereo Version) (3:05)
@@ -45,10 +44,6 @@ styles: ["Acoustic", "Psychedelic Rock"]
 16. Gigolo Aunt (5:43)
 17. Effervescing Elephant (1:51)
 18. Bob Dylan Blues (3:08)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

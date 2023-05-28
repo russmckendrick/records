@@ -25,10 +25,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="green-1289867.jpg" title="Green by R.E.M." >}}
+Green is the sixth studio album by American rock band R.E.M., released on November 7, 1988, by Warner Bros. Records. The second album to be produced by the band and Scott Litt, it continued to explore political issues both in its lyrics and packaging. The band experimented on the album, writing major-key rock songs and incorporating new instruments into their sound including the mandolin, as well as switching their original instruments on other songs.
+Upon its release, Green was a critical and commercial success. To promote Green, the band embarked on an 11-month world tour and released four singles from the album: "Orange Crush", "Stand", "Pop Song 89", and "Get Up".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Air
 2. Pop Song 89 (3:03)
 3. Get Up (2:35)
@@ -42,14 +45,6 @@ styles: ["Alternative Rock"]
 11. Hairshirt (3:55)
 12. I Remember California (5:05)
 13. Untitled (3:15)
-
-<!-- section break -->
-
-Green is the sixth studio album by American rock band R.E.M., released on November 7, 1988, by Warner Bros. Records. The second album to be produced by the band and Scott Litt, it continued to explore political issues both in its lyrics and packaging. The band experimented on the album, writing major-key rock songs and incorporating new instruments into their sound including the mandolin, as well as switching their original instruments on other songs.
-Upon its release, Green was a critical and commercial success. To promote Green, the band embarked on an 11-month world tour and released four singles from the album: "Orange Crush", "Stand", "Pop Song 89", and "Get Up".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/green-remastered/1440947724" >}}<br>

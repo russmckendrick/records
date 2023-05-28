@@ -22,23 +22,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="violent-femmes-12101265.jpg" title="Violent Femmes by Violent Femmes" >}}
-
-<!-- section break -->
-
-1. Blister In The Sun (2:23)
-2. Kiss Off (2:53)
-3. Please Do Not Go (4:15)
-4. Add It Up (4:44)
-5. Confessions (5:27)
-6. Prove My Love (2:37)
-7. Promise (2:48)
-8. To The Kill (3:59)
-9. Gone Daddy Gone/I Just Want To Make Love To You (3:03)
-10. Good Feeling (3:49)
-
-<!-- section break -->
-
 When Violent Femmes first started playing their strain of jazz- and folk-inspired alternative rock in Milwaukee in the early ’80s, there wasn’t much precedent for the music they were making. No one would give them a gig, so they played on city sidewalks with an acoustic guitar, an acoustic bass and a drum kit made up of one single tom with a steel washbasin flipped on top of it and a pair of brushes. “People in the punk scene—if they were walking and they saw us up ahead, they'd cross the street and act like they didn't know us,” Gordon Gano, the band’s singer, guitarist and principal songwriter, tells Apple Music. “We were the opposite of what people thought was cool.”
 
 The band’s sound—which mixed the nervy sexual energy of punk with the improv of free jazz and a folk combo’s instruments—wasn’t intended to be a rebuke of what <i>was</i> cool. “We loved punk, so it's not like we were disavowing it,” says bassist/multi-instrumentalist Brian Ritchie. “But it was becoming codified and predictable. And we realised we could hear the words better with acoustic instruments, rather than drowning it out with rock clichés. So we were able to develop a new sound and approach, and still retain the elements of what we considered important about punk music, which was the drive.”
@@ -81,6 +64,18 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
         
     
 
+
+## Tracklisting
+1. Blister In The Sun (2:23)
+2. Kiss Off (2:53)
+3. Please Do Not Go (4:15)
+4. Add It Up (4:44)
+5. Confessions (5:27)
+6. Prove My Love (2:37)
+7. Promise (2:48)
+8. To The Kill (3:59)
+9. Gone Daddy Gone/I Just Want To Make Love To You (3:03)
+10. Good Feeling (3:49)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/violent-femmes/1576789411" >}}<br>

@@ -22,10 +22,14 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
 
-{{< img src="the-five-ghosts-26126612.jpg" title="The Five Ghosts by Stars" >}}
+The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Dead Hearts (3:29)
 2. Wasted Daylight (3:43)
 3. I Died So I Could Haunt You (3:04)
@@ -37,15 +41,6 @@ styles: ["Indie Pop", "Indie Rock"]
 9. The Last Song Ever Written (3:17)
 10. How Much More (2:56)
 11. Winter Bones (3:00)
-
-<!-- section break -->
-
-The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-five-ghosts/1293360624" >}}<br>

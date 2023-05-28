@@ -26,10 +26,14 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 ---
 
-{{< img src="grace-for-drowning-3130731.jpg" title="Grace For Drowning by Steven Wilson" >}}
+Grace for Drowning is the second solo studio album by Steven Wilson, producer, songwriter, and frontman of Porcupine Tree. It was released by Kscope on 26 September 2011 as a double album. The album received a nomination at the 54th Annual Grammy Awards for Best Surround Sound Album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Vol 1 - Deform To Form A Star
 2. Grace For Drowning (2:00)
 3. Sectarian (7:45)
@@ -44,15 +48,6 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 12. Index (4:45)
 13. Track One (4:15)
 14. Like Dust I Have Cleared From My Eye (8:00)
-
-<!-- section break -->
-
-Grace for Drowning is the second solo studio album by Steven Wilson, producer, songwriter, and frontman of Porcupine Tree. It was released by Kscope on 26 September 2011 as a double album. The album received a nomination at the 54th Annual Grammy Awards for Best Surround Sound Album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grace-for-drowning-deluxe-version/674008092" >}}<br>

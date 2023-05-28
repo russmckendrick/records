@@ -21,19 +21,14 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="the-world-inside-20584321.jpg" title="The World Inside by Tacoma Narrows Bridge Disaster" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Machinations (8:09)
 2. The World Inside (09:08)
 3. Presynaptic (4:15)
 4. Postsynaptic (10:41)
 5. Apocryphal (10:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-world-inside/1578306223" >}}<br>

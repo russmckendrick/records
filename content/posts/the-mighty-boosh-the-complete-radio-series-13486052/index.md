@@ -17,20 +17,15 @@ genres: ["Non-Music"]
 styles: ["Comedy", "Radioplay"]
 ---
 
-{{< img src="the-mighty-boosh-the-complete-radio-series-13486052.jpg" title="The Mighty Boosh - The Complete Radio Series by The Mighty Boosh" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stolen
 2. Jungle
 3. Jazz
 4. Mutants
 5. Tundra
 6. Hitcher
-
-<!-- section break -->
-
-
 
 
 

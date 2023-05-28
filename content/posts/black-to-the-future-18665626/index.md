@@ -25,24 +25,6 @@ genres: ["Jazz"]
 styles: ["Afrobeat", "Fusion"]
 ---
 
-{{< img src="black-to-the-future-18665626.jpg" title="Black To The Future by Sons Of Kemet" >}}
-
-<!-- section break -->
-
-1. Field Negus (3:03)
-2. Pick Up Your Burning Cross (3:44)
-3. Think Of Home (3:32)
-4. Hustle (5:18)
-5. For The Culture (4:01)
-6. To Never Forget The Source (2:55)
-7. In Rememberance Of Those Fallen (5:06)
-8. Let The Circle Be Unbroken (6:29)
-9. Envision Yourself Levitating (8:23)
-10. Throughout The Madness, Stay Strong (5:53)
-11. Black (2:42)
-
-<!-- section break -->
-
 “I wanted to get a better sense of how African traditional cosmologies can inform my life in a modern-day context,” Sons of Kemet frontman Shabaka Hutchings tells Apple Music about the concept behind the British jazz group’s fourth LP. “Then, try to get some sense of those forms of knowledge and put it into the art that’s being produced.” Since their 2013 debut LP <i>Burn</i>, the Barbados-raised saxophonist/clarinetist and his bandmates (tuba player Theon Cross and drummers Tom Skinner and Eddie Hick) have been at the forefront of the new London jazz scene—deconstructing its conventions by weaving a rich sonic tapestry that fuses together elements of modal and free jazz, grime, dub, ’60s and ’70s Ethiopian jazz, and Afro-Caribbean music. On <i>Black to the Future</i>, the Mercury Prize-nominated quartet are at their most direct and confrontational with their sociopolitical message—welcoming to the fold a wide array of guest collaborators (most notably poet Joshua Idehen, who also collaborated with the group on 2018’s <i>Your Queen Is a Reptile</i>) to further contextualise the album’s themes of Black oppression and colonialism, heritage and ancestry, and the power of memory. If you look closely at the song titles, you’ll discover that each of them makes up a singular poem—a clever way for Hutchings to clue in listeners before they begin their musical journey. “It’s a sonic poem, in that the words and the music are the same thing,” Hutchings says. “Poetry isn't meant to be descriptive on the surface level, it's descriptive on a deep level. So if you read the line of poetry, and then you listen to the music, a picture should emerge that's more than what you'd have if you considered the music or the line separately.” Here, Hutchings gives insight into each of the tracks.<br />
 <b>“Field Negus” (feat. Joshua Idehen)</b>
 “This track was written in the midst of the Black Lives Matter protests in London, and it was a time that was charged with an energy of searching for meaning. People were actually starting to talk about Black experience and Black history as it related to the present, in a way that hadn't really been done in Britain before. The point of artists is to be able to document these moments in history and time, and be able to actually find a way of contextualising them in a way that's poetic. The aim of this track is to keep that conversation going and keep the reflections happening. I've been working with Joshua for 15 years and I really appreciate his perspective on the political realm. He's got a way of describing reality in a manner which makes you think deeply. He never loses humour and he never loses his sense of sharpness.”<br />
@@ -70,6 +52,19 @@ styles: ["Afrobeat", "Fusion"]
         
     
 
+
+## Tracklisting
+1. Field Negus (3:03)
+2. Pick Up Your Burning Cross (3:44)
+3. Think Of Home (3:32)
+4. Hustle (5:18)
+5. For The Culture (4:01)
+6. To Never Forget The Source (2:55)
+7. In Rememberance Of Those Fallen (5:06)
+8. Let The Circle Be Unbroken (6:29)
+9. Envision Yourself Levitating (8:23)
+10. Throughout The Madness, Stay Strong (5:53)
+11. Black (2:42)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-to-the-future/1558301183" >}}<br>

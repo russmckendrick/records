@@ -24,10 +24,14 @@ genres: ["Electronic", "Rock", "Blues", "Non-Music", "Pop", "Classical", "Folk, 
 styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 ---
 
-{{< img src="vinyl-adventures-from-istanbul-to-san-francisco-8873659.jpg" title="Vinyl Adventures From Istanbul To San Francisco by Tim Burgess" >}}
+Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by Tim Burgess, about him traveling around the world to find specific albums on vinyl.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Otis
 2. Rebel Waltz
 3. Waco
@@ -46,15 +50,6 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 16. Blue Skies
 17. State Of The Nation
 18. Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso
-
-<!-- section break -->
-
-Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by Tim Burgess, about him traveling around the world to find specific albums on vinyl.
-
-
-    
-    
-
 
 
 

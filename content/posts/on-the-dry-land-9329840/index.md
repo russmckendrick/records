@@ -18,10 +18,9 @@ genres: ["Rock", "Classical", "Folk, World, & Country"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="on-the-dry-land-9329840.jpg" title="On The Dry Land by The Sea Nymphs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. After (2:14)
 2. Eating A Heart Out (2:50)
 3. Big River (2:00)
@@ -37,10 +36,6 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 13. Liberated And Handsome (1:36)
 14. A Kind Of Keeper (1:24)
 15. Wanky (2:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-dry-land/1177144029" >}}<br>

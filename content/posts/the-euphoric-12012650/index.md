@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-euphoric-12012650.jpg" title="The Euphoric by The Fierce & The Dead" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Truck (4:06)
 2. 1991 (4:23)
 3. The Euphoric (3:57)
@@ -29,10 +28,6 @@ styles: []
 7. Verbose (6:07)
 8. 48K (2:38)
 9. Parts 7 & 8 (6:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-euphoric/1370930459" >}}<br>

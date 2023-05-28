@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Rock & Roll", "Disco"]
 ---
 
-{{< img src="all-over-the-world-the-very-best-of-8685628.jpg" title="All Over The World - The Very Best Of by Electric Light Orchestra" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mr. Blue Sky (5:02)
 2. Evil Woman (4:11)
 3. Don't Bring Me Down (4:03)
@@ -51,10 +50,6 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 18. Strange Magic (4:07)
 19. Alright (3:10)
 20. Rock 'N' Roll Is King (3:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}<br>

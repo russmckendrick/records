@@ -38,10 +38,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="up-9473463.jpg" title="Up by Peter Gabriel" >}}
+Up (2002) is the seventh studio and 13th album overall released by the English rock musician Peter Gabriel. It is his most recent full-length studio album of new original material to date, as the subsequent albums Scratch My Back and New Blood feature covers of other artists' songs, and orchestral renderings of Gabriel's older material, respectively.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Darkness
 2. Growing Up
 3. Sky Blue
@@ -52,13 +54,6 @@ styles: []
 8. More Than This
 9. Signal To Noise
 10. The Drop
-
-<!-- section break -->
-
-Up (2002) is the seventh studio and 13th album overall released by the English rock musician Peter Gabriel. It is his most recent full-length studio album of new original material to date, as the subsequent albums Scratch My Back and New Blood feature covers of other artists' songs, and orchestral renderings of Gabriel's older material, respectively.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/up/987441376" >}}<br>

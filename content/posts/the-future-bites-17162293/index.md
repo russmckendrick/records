@@ -42,10 +42,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-future-bites-17162293.jpg" title="The Future Bites by Steven Wilson" >}}
+The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Unself
 2. Self
 3. King Ghost
@@ -56,13 +58,6 @@ styles: ["Alternative Rock"]
 8. Follower
 9. Count Of Unease
 10. Hey Sleeper (3:14)
-
-<!-- section break -->
-
-The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-future-bites/1530202084" >}}<br>

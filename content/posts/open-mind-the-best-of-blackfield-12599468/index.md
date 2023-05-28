@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Krautrock", "Alternative Rock"]
 ---
 
-{{< img src="open-mind-the-best-of-blackfield-12599468.jpg" title="Open Mind (The Best Of Blackfield) by Blackfield" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blackfield (4:06)
 2. Family Man (3:37)
 3. Open Mind (3:49)
@@ -40,10 +39,6 @@ styles: ["Krautrock", "Alternative Rock"]
 13. Faking (3:33)
 14. Dissolving With The Night (4:08)
 15. End Of The World (5:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959" >}}<br>

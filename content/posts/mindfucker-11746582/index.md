@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="mindfucker-11746582.jpg" title="Mindfucker by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rocket Freak
 2. Soul
 3. Mindfucker
@@ -40,10 +39,6 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 10. When The Hammer Comes Down
 11. You Can't Be Trusted [bonus track]
 12. Utopia [bonus track]
-
-<!-- section break -->
-
-
 
 
 ## Spotify

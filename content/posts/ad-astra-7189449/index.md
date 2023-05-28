@@ -26,10 +26,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-{{< img src="ad-astra-7189449.jpg" title="Ad Astra by Spiritual Beggars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. LP
 2. Left Brain Ambassadors
 3. Wonderful World
@@ -58,10 +57,6 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 26. Mantra
 27. CD - Bonus Track
 28. Let The Magic Talk
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ad-astra/963146026" >}}<br>

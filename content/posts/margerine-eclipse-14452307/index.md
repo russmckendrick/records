@@ -18,10 +18,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
 
-{{< img src="margerine-eclipse-14452307.jpg" title="Margerine Eclipse by Stereolab" >}}
+Margerine Eclipse is the eighth studio album by English-French rock band Stereolab. It was released on 27 January 2004 in the United States by Elektra Records and on 2 February 2004 in the United Kingdom by Duophonic Records. The album is in large part a eulogy to former band member Mary Hansen, who died in 2002.
+By June 2004, Margerine Eclipse had sold over 40,000 copies in United States. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Vonal Declosion
 2. Need To Be
 3. "...Sudden Stars"
@@ -42,14 +45,6 @@ styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 18. Banana Monster Ne Répond Plus
 19. University Microfilms International
 20. Rose, My Rocket-Brain! (Rose, Le Cerveau Electronique de Ma Fusée!)
-
-<!-- section break -->
-
-Margerine Eclipse is the eighth studio album by English-French rock band Stereolab. It was released on 27 January 2004 in the United States by Elektra Records and on 2 February 2004 in the United Kingdom by Duophonic Records. The album is in large part a eulogy to former band member Mary Hansen, who died in 2002.
-By June 2004, Margerine Eclipse had sold over 40,000 copies in United States. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/margerine-eclipse/1230564903" >}}<br>

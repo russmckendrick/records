@@ -19,10 +19,16 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-{{< img src="461-ocean-boulevard-1496277.jpg" title="461 Ocean Boulevard by Eric Clapton" >}}
+461 Ocean Boulevard is the second studio album by English musician Eric Clapton. The album was released in late July 1974 for RSO Records, shortly after the record company released the hit single "I Shot the Sheriff" in early July the same year. The album topped various international charts and sold more than two million copies.
+The album was Clapton's return to the recording studio after a three-year hiatus due to his heroin addiction. The title refers to the address on Ocean Boulevard in Golden Beach, Florida, where Clapton lived while recording the album. Upon completing the album, Clapton and RSO head Robert Stigwood recommended the house and Miami's Criteria Studios to fellow RSO artists, the Bee Gees, who then moved in to write and record Main Course. The street address of the house was changed after the album's release.
+A remastered two-disc deluxe edition of the album was released in 2004, which included selections from two live shows at the Hammersmith Odeon, and additional studio jam sessions.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Motherless Children
 2. Give Me Strength
 3. Willie And The Hand Jive
@@ -33,17 +39,6 @@ styles: ["Blues Rock", "Pop Rock"]
 8. Let It Grow
 9. Steady Rollin' Man
 10. Mainline Florida
-
-<!-- section break -->
-
-461 Ocean Boulevard is the second studio album by English musician Eric Clapton. The album was released in late July 1974 for RSO Records, shortly after the record company released the hit single "I Shot the Sheriff" in early July the same year. The album topped various international charts and sold more than two million copies.
-The album was Clapton's return to the recording studio after a three-year hiatus due to his heroin addiction. The title refers to the address on Ocean Boulevard in Golden Beach, Florida, where Clapton lived while recording the album. Upon completing the album, Clapton and RSO head Robert Stigwood recommended the house and Miami's Criteria Studios to fellow RSO artists, the Bee Gees, who then moved in to write and record Main Course. The street address of the house was changed after the album's release.
-A remastered two-disc deluxe edition of the album was released in 2004, which included selections from two live shows at the Hammersmith Odeon, and additional studio jam sessions.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/461-ocean-boulevard/1440851328" >}}<br>

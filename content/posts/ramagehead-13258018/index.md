@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="ramagehead-13258018.jpg" title="Ramagehead by O.R.k." >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Kneel To Nothing
 2. Signals Erased
 3. Beyond Sight
@@ -38,10 +37,6 @@ styles: ["Art Rock", "Prog Rock"]
 7. Down The Road
 8. Strangled Words
 9. Some Other Rainbow Part 2
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ramagehead/1444798137" >}}<br>

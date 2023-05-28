@@ -33,10 +33,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="without-a-sound-14176579.jpg" title="Without A Sound by Dinosaur Jr." >}}
+Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr., released on August 23, 1994. It is the first Dinosaur Jr. album not to feature Murph on drums, who is replaced by vocalist and guitarist J Mascis. It is also their most commercially successful album, peaking at number 44 on the Billboard Top 200. "Feel the Pain" and "I Don't Think So" were released as singles, with "Feel the Pain" reaching number 4 on the Billboard Modern Rock Tracks chart, becoming one of their biggest hits. Mascis later admitted that his father's death affected his writing and performance on this album, and he took three years to deliver the next Dinosaur Jr. LP, 1997's Hand It Over.
+"Feel the Pain" is a playable track in the video games Guitar Hero World Tour and Rock Band 2.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Feel The Pain
 2. I Don't Think So
 3. Yeah Right
@@ -55,15 +59,6 @@ styles: ["Alternative Rock"]
 16. Grab It (Live)
 17. What Else Is New (Live)
 18. Sludge (Live)
-
-<!-- section break -->
-
-Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr., released on August 23, 1994. It is the first Dinosaur Jr. album not to feature Murph on drums, who is replaced by vocalist and guitarist J Mascis. It is also their most commercially successful album, peaking at number 44 on the Billboard Top 200. "Feel the Pain" and "I Don't Think So" were released as singles, with "Feel the Pain" reaching number 4 on the Billboard Modern Rock Tracks chart, becoming one of their biggest hits. Mascis later admitted that his father's death affected his writing and performance on this album, and he took three years to deliver the next Dinosaur Jr. LP, 1997's Hand It Over.
-"Feel the Pain" is a playable track in the video games Guitar Hero World Tour and Rock Band 2.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/without-a-sound/1318699993" >}}<br>

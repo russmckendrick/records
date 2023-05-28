@@ -24,10 +24,17 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Trip Hop", "Downtempo"]
 ---
 
-{{< img src="maxinquaye-3430685.jpg" title="Maxinquaye by Tricky" >}}
+Maxinquaye is the debut album by English rapper and producer Tricky, released on 20 February 1995 by 4th & B'way Records, a subsidiary of Island Records. In the years leading up to the album, Tricky had grown frustrated with his limited role in the musical group Massive Attack and wanted to pursue an independent project. Shortly after, he met with vocalist Martina Topley-Bird, who he felt would offer a wider vision to his music, and signed a solo contract with 4th & B'way in 1993. Tricky recorded Maxinquaye the following year primarily at his home studio in London, with Topley-Bird serving as the album's main vocalist, while Alison Goldfrapp, Ragga and Mark Stewart performed additional vocals.
+With assistance from fellow producer Mark Saunders, Tricky used dub music techniques and heavily altered samples taken from a variety of sources to produce Maxinquaye. Its resulting groove-oriented downbeat, hazy and fragmented sound incorporates elements from hip hop, soul, rock, ambient techno, reggae and experimental music. Tricky's lyrics throughout the album explore themes of cultural decline, dysfunctional sexual relationships, fear of intimacy and recreational drug use, as he drew on his experiences in British drug culture and the influence of his late mother Maxine Quaye, after whom the album is titled.
+Maxinquaye reached the number three position on the United Kingdom's albums chart and sold over 100,000 copies in its first few months of release. 4th & B'way marketed the album by relying on independent record promoters and Tricky's appearances in media, including publicity photographs and music videos that portrayed him and Topley-Bird in gender-bending fashion. Maxinquaye was cited by many journalists as the year's best record and the key release of the burgeoning trip hop genre. Since then, it has sold more than 500,000 copies worldwide and ranks frequently on lists of the greatest albums, while regarded as a significant influence on electronica, underground hip hop and British hip hop.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Overcome
 2. Ponderosa
 3. Black Steel
@@ -40,18 +47,6 @@ styles: ["Leftfield", "Trip Hop", "Downtempo"]
 10. You Don’t
 11. Strugglin’
 12. Feed Me
-
-<!-- section break -->
-
-Maxinquaye is the debut album by English rapper and producer Tricky, released on 20 February 1995 by 4th & B'way Records, a subsidiary of Island Records. In the years leading up to the album, Tricky had grown frustrated with his limited role in the musical group Massive Attack and wanted to pursue an independent project. Shortly after, he met with vocalist Martina Topley-Bird, who he felt would offer a wider vision to his music, and signed a solo contract with 4th & B'way in 1993. Tricky recorded Maxinquaye the following year primarily at his home studio in London, with Topley-Bird serving as the album's main vocalist, while Alison Goldfrapp, Ragga and Mark Stewart performed additional vocals.
-With assistance from fellow producer Mark Saunders, Tricky used dub music techniques and heavily altered samples taken from a variety of sources to produce Maxinquaye. Its resulting groove-oriented downbeat, hazy and fragmented sound incorporates elements from hip hop, soul, rock, ambient techno, reggae and experimental music. Tricky's lyrics throughout the album explore themes of cultural decline, dysfunctional sexual relationships, fear of intimacy and recreational drug use, as he drew on his experiences in British drug culture and the influence of his late mother Maxine Quaye, after whom the album is titled.
-Maxinquaye reached the number three position on the United Kingdom's albums chart and sold over 100,000 copies in its first few months of release. 4th & B'way marketed the album by relying on independent record promoters and Tricky's appearances in media, including publicity photographs and music videos that portrayed him and Topley-Bird in gender-bending fashion. Maxinquaye was cited by many journalists as the year's best record and the key release of the burgeoning trip hop genre. Since then, it has sold more than 500,000 copies worldwide and ranks frequently on lists of the greatest albums, while regarded as a significant influence on electronica, underground hip hop and British hip hop.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maxinquaye/1440918276" >}}<br>

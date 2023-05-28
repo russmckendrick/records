@@ -21,10 +21,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="cupid-psyche-85-481976.jpg" title="Cupid & Psyche 85 by Scritti Politti" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Word Girl (4:22)
 2. Small Talk (3:36)
 3. Absolute (4:22)
@@ -34,10 +33,6 @@ styles: ["Synth-pop"]
 7. Lover To Fall (4:11)
 8. Wood Beez (Pray Like Aretha Franklin) (4:46)
 9. Hypnotize (3:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cupid-psyche-85/1139092963" >}}<br>

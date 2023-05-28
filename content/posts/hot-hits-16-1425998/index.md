@@ -19,10 +19,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ---
 
-{{< img src="hot-hits-16-1425998.jpg" title="Hot Hits 16 by Unknown Artist" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Blockbuster
 2. You're So Vain
 3. Always On My Mind
@@ -35,10 +34,6 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 10. Ball Park Incident
 11. Roll Over Beethoven
 12. Wishing Well
-
-<!-- section break -->
-
-
 
 
 

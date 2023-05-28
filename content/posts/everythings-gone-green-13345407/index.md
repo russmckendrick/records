@@ -19,17 +19,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Electro"]
 ---
 
-{{< img src="everythings-gone-green-13345407.jpg" title="Everythings Gone Green by New Order" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Everythings Gone Green (5:31)
 2. Cries And Whispers (3:26)
 3. Mesh (3:03)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green-2019-remaster-single/1457716993" >}}<br>

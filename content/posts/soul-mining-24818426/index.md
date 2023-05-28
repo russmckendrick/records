@@ -21,10 +21,13 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
-{{< img src="soul-mining-24818426.jpg" title="Soul Mining by The The" >}}
+Soul Mining is the debut album by British post-punk/synth-pop band the The (the 1981 album Burning Blue Soul was originally released by the band's frontman Matt Johnson as a solo album, but later reissues credited it to the The). After a bidding war between major record labels which resulted in the group signing with CBS Records, Johnson began recording the album in New York City, but the initial recording sessions were aborted after the album's first two singles and Johnson returned to London where he wrote and recorded the rest of the record. Musically, Soul Mining is a post-punk and synth-pop album with influences of the early 1980s New York club scene, while Johnson's lyrics focus on relationship insecurities and social alienation, with imagery derived from dreams.
+Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzare Records/Epic Records and included versions of the singles "Uncertain Smile", "Perfect", and "This Is the Day". Although the album received positive reviews, its initial sales were modest, reaching number 27 in the UK and charting in a number of other countries, but in 2019 the album was certified gold in the UK. Soul Mining was reissued in June 2014 as a two-disc 30th anniversary deluxe version on vinyl, attracting retrospective reviews which universally praised the record, with critics describing it as both Johnson's best work and one of the best albums of the 1980s.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I've Been Waitin' For Tomorrow (All Of My Life)
 2. This Is The Day
 3. The Sinking Feeling 
@@ -32,14 +35,6 @@ styles: ["New Wave", "Indie Rock"]
 5. The Twilight Hour
 6. Soul Mining 
 7. Giant
-
-<!-- section break -->
-
-Soul Mining is the debut album by British post-punk/synth-pop band the The (the 1981 album Burning Blue Soul was originally released by the band's frontman Matt Johnson as a solo album, but later reissues credited it to the The). After a bidding war between major record labels which resulted in the group signing with CBS Records, Johnson began recording the album in New York City, but the initial recording sessions were aborted after the album's first two singles and Johnson returned to London where he wrote and recorded the rest of the record. Musically, Soul Mining is a post-punk and synth-pop album with influences of the early 1980s New York club scene, while Johnson's lyrics focus on relationship insecurities and social alienation, with imagery derived from dreams.
-Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzare Records/Epic Records and included versions of the singles "Uncertain Smile", "Perfect", and "This Is the Day". Although the album received positive reviews, its initial sales were modest, reaching number 27 in the UK and charting in a number of other countries, but in 2019 the album was certified gold in the UK. Soul Mining was reissued in June 2014 as a two-disc 30th anniversary deluxe version on vinyl, attracting retrospective reviews which universally praised the record, with critics describing it as both Johnson's best work and one of the best albums of the 1980s.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-mining/211433263" >}}<br>

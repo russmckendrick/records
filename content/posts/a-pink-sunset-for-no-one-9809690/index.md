@@ -20,10 +20,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "Drone"]
 ---
 
-{{< img src="a-pink-sunset-for-no-one-9809690.jpg" title="A Pink Sunset For No One by Noveller" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Deep Shelter (5:33)
 2. Rituals (5:11)
 3. A Pink Sunset For No One (4:17)
@@ -33,10 +32,6 @@ styles: ["Ambient", "Drone"]
 7. Corridors (2:55)
 8. The Unveiling (4:11)
 9. Emergence (3:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-pink-sunset-for-no-one/1668273418" >}}<br>

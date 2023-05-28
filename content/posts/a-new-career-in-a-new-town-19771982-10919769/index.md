@@ -79,10 +79,9 @@ genres: ["Rock", "Pop"]
 styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
 
-{{< img src="a-new-career-in-a-new-town-19771982-10919769.jpg" title="A New Career In A New Town [ 1977–1982 ] by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Low
 2. Speed Of Life
 3. Breaking Glass
@@ -201,10 +200,6 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 116. Cat People (Putting Out Fire)
 117. Peace On Earth / Little Drummer Boy (Mono)
 118. Bertolt Brecht’s Baal
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551" >}}<br>

@@ -29,10 +29,12 @@ genres: ["Rock"]
 styles: ["Industrial"]
 ---
 
-{{< img src="intruder-18815773.jpg" title="Intruder by Gary Numan" >}}
+Intruder is the nineteenth studio album by English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Betrayed
 2. The Gift
 3. I Am Screaming
@@ -46,13 +48,6 @@ styles: ["Industrial"]
 11. The End Of Dragons
 12. When You Fall 
 13. The End Of Dragons (Alt) 
-
-<!-- section break -->
-
-Intruder is the nineteenth studio album by English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/intruder/1544855563" >}}<br>

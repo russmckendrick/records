@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="second-nature-6126197.jpg" title="Second Nature by Flying Colors" >}}
+Second Nature is the second studio album by the American supergroup Flying Colors, that was released in Europe on September 29, 2014, in the US on September 30, and in the UK on October 6. On August 19, Loudwire premiered the video for the album's first single "Mask Machine". Soon after, Classic Rock premiered the song for Europe. On September 22, the entire album began streaming on the Prog magazine website.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Open Up Your Eyes (12:24)
 2. Mask Machine (6:06)
 3. Bombs Away (5:03)
@@ -37,13 +39,6 @@ styles: ["Prog Rock"]
 7. One Love Forever (7:17)
 8. Peaceful Harbor (7:01)
 9. Cosmic Symphony (11:46)
-
-<!-- section break -->
-
-Second Nature is the second studio album by the American supergroup Flying Colors, that was released in Europe on September 29, 2014, in the US on September 30, and in the UK on October 6. On August 19, Loudwire premiered the video for the album's first single "Mask Machine". Soon after, Classic Rock premiered the song for Europe. On September 22, the entire album began streaming on the Prog magazine website.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/second-nature-deluxe-edition/1600467187" >}}<br>

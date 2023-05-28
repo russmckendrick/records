@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
 
-{{< img src="heaven-born-and-ever-bright-10608092.jpg" title="Heaven Born And Ever Bright by Cardiacs" >}}
+Heaven Born and Ever Bright is the third studio album by British rock band Cardiacs. It was produced by Tim Smith, engineered by David Murder and mixed by both. Due to Rough Trade going bankrupt soon after the album's release, it was scarce until reissued in 1995 by the Alphabet Business Concern. This reissue was remastered and given new cover art.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Alphabet Business Concern (Home Of Fadeless Splendour) (3:59)
 2. She Is Hiding Behind The Shed (4:19)
 3. March (3:18)
@@ -40,13 +42,6 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 9. Core (2:32)
 10. Day Is Gone (3:17)
 11. Snakes-a-Sleeping (8:26)
-
-<!-- section break -->
-
-Heaven Born and Ever Bright is the third studio album by British rock band Cardiacs. It was produced by Tim Smith, engineered by David Murder and mixed by both. Due to Rough Trade going bankrupt soon after the album's release, it was scarce until reissued in 1995 by the Alphabet Business Concern. This reissue was remastered and given new cover art.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477" >}}<br>

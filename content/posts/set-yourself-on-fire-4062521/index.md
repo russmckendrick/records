@@ -22,10 +22,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="set-yourself-on-fire-4062521.jpg" title="Set Yourself On Fire by Stars" >}}
+Set Yourself on Fire is the third studio album by Canadian indie rock band Stars. It was released on September 14, 2004 on the Arts & Crafts International record label in Canada and the United Kingdom, and on March 8, 2005 in the United States.
+The album's most notable single was "Ageless Beauty", the band's breakthrough hit in Canada. "Your Ex-Lover Is Dead" has also garnered significant play in the United States.  It was featured on the soundtrack of The O.C.
+On November 17, 2009, "Your Ex-Lover Is Dead" was featured on Fox network's So You Think You Can Dance, season 6.  Former show contestant and current choreographer Travis Wall chose it as the track for his piece danced by Ellenore Scott and Ryan Di Lello.
+In 2005 Set Yourself on Fire was a Juno Award nominee for Alternative Album of the Year. It lost to the album Let It Die by Feist, who is an occasional bandmate of Stars' Amy Millan, Torquil Campbell, and Evan Cranley in the indie rock band Broken Social Scene.
+The novelist Ibi Kaslik is quoted on the jacket of the album. The album features string arrangements from Bulgarian composer Todor Kobakov.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Your Ex-Lover Is Dead (4:16)
 2. Set Yourself On Fire (5:39)
 3. Ageless Beauty (4:06)
@@ -39,17 +45,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Celebration Guns (3:05)
 12. Soft Revolution (3:17)
 13. Calendar Girl (4:08)
-
-<!-- section break -->
-
-Set Yourself on Fire is the third studio album by Canadian indie rock band Stars. It was released on September 14, 2004 on the Arts & Crafts International record label in Canada and the United Kingdom, and on March 8, 2005 in the United States.
-The album's most notable single was "Ageless Beauty", the band's breakthrough hit in Canada. "Your Ex-Lover Is Dead" has also garnered significant play in the United States.  It was featured on the soundtrack of The O.C.
-On November 17, 2009, "Your Ex-Lover Is Dead" was featured on Fox network's So You Think You Can Dance, season 6.  Former show contestant and current choreographer Travis Wall chose it as the track for his piece danced by Ellenore Scott and Ryan Di Lello.
-In 2005 Set Yourself on Fire was a Juno Award nominee for Alternative Album of the Year. It lost to the album Let It Die by Feist, who is an occasional bandmate of Stars' Amy Millan, Torquil Campbell, and Evan Cranley in the indie rock band Broken Social Scene.
-The novelist Ibi Kaslik is quoted on the jacket of the album. The album features string arrangements from Bulgarian composer Todor Kobakov.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire/1442859173" >}}<br>

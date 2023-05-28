@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 ---
 
-{{< img src="hermit-of-mink-hollow-1824802.jpg" title="Hermit Of Mink Hollow by Todd Rundgren" >}}
+Hermit of Mink Hollow is the eighth album by American musician Todd Rundgren, released May 1978 on Bearsville Records. All of the instruments and vocals were performed solely by Rundgren. He intended the songs on the album to be performed on piano with minimal arrangements, apart from the bass, drums and voices, and for the material to showcase his newly refined singing ability.
+Per the title, Rundgren recorded this album at his house on Mink Hollow Road in Lake Hill, New York. At the time, he had felt that he had been a "studio hermit" working in an "insular little 24-hour-a-day think tank" and subsequently realized that "too much social interaction [had] affected [his] overall creativity." Although the album's "confessional" songs are often attributed to his recent separation from the model Bebe Buell, Rundgren denied that the songs were necessarily autobiographical.
+The album was well-received by critics and fans who viewed the record as a "return to form" and his most immediately accessible since Something/Anything? (1972). In the US, the album peaked at number 36, while single "Can We Still Be Friends" reached number 29. The song became Rundgren's most-covered, with versions by Robert Palmer, Rod Stewart, Colin Blunstone, and Mandy Moore.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Easy Side
 2. All The Children Sing (3:09)
 3. Can We Still Be Friends (3:33)
@@ -39,15 +43,6 @@ styles: ["Pop Rock", "Power Pop", "Soft Rock"]
 12. Lucky Guy (2:04)
 13. Out Of Control (3:55)
 14. Fade Away (3:01)
-
-<!-- section break -->
-
-Hermit of Mink Hollow is the eighth album by American musician Todd Rundgren, released May 1978 on Bearsville Records. All of the instruments and vocals were performed solely by Rundgren. He intended the songs on the album to be performed on piano with minimal arrangements, apart from the bass, drums and voices, and for the material to showcase his newly refined singing ability.
-Per the title, Rundgren recorded this album at his house on Mink Hollow Road in Lake Hill, New York. At the time, he had felt that he had been a "studio hermit" working in an "insular little 24-hour-a-day think tank" and subsequently realized that "too much social interaction [had] affected [his] overall creativity." Although the album's "confessional" songs are often attributed to his recent separation from the model Bebe Buell, Rundgren denied that the songs were necessarily autobiographical.
-The album was well-received by critics and fans who viewed the record as a "return to form" and his most immediately accessible since Something/Anything? (1972). In the US, the album peaked at number 36, while single "Can We Still Be Friends" reached number 29. The song became Rundgren's most-covered, with versions by Robert Palmer, Rod Stewart, Colin Blunstone, and Mandy Moore.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hermit-of-mink-hollow/1084058840" >}}<br>

@@ -28,10 +28,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-blacklist-music-from-the-television-series-7720657.jpg" title="The Blacklist (Music From The Television Series) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Citizens
 2. Welcome Home
 3. Wicked Game
@@ -44,10 +43,6 @@ styles: []
 10. Jolene (Slow)
 11. Black Eunuch
 12. Run From Me
-
-<!-- section break -->
-
-
 
 
 

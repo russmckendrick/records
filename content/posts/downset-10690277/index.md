@@ -28,10 +28,14 @@ genres: ["Hip Hop", "Rock"]
 styles: []
 ---
 
-{{< img src="downset-10690277.jpg" title="Downset. by Downset." >}}
+downset. is the debut studio album by American rapcore band downset. The band's major label debut, it was released on July 12, 1994 by Mercury Records.According to Rey Oropeza, the album has sold 275,000 copies worldwide.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Anger! (4:12)
 2. Ritual (3:34)
 3. Take 'em Out (2:40)
@@ -42,15 +46,6 @@ styles: []
 8. About To Blast (2:56)
 9. Breed The Killer (2:51)
 10. Dying Of Thirst (3:22)
-
-<!-- section break -->
-
-downset. is the debut studio album by American rapcore band downset. The band's major label debut, it was released on July 12, 1994 by Mercury Records.According to Rey Oropeza, the album has sold 275,000 copies worldwide.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/downset/1443754337" >}}<br>

@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
 
-{{< img src="ii-24964399.jpg" title="II by Dead Cross" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Without Love
 2. Animal Espionage
 3. Heart Reformer
@@ -30,10 +29,6 @@ styles: ["Hardcore", "Heavy Metal"]
 7. Christian Missile Crisis
 8. Reign Of Error
 9. Imposter Syndrome
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ii/1630352567" >}}<br>

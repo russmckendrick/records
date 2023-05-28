@@ -29,10 +29,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Ambient", "Berlin-School", "Score"]
 ---
 
-{{< img src="halt-and-catch-fire-original-television-series-soundtrack-10438416.jpg" title="Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Golden Gate (2:06)
 2. A Wolf In Unix (1:16)
 3. The Scenic Route (1:49)
@@ -56,10 +55,6 @@ styles: ["Ambient", "Berlin-School", "Score"]
 21. The End Of Donna's Day (1:04)
 22. It's Not Right (1:23)
 23. MacMillan Utility (1:51)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067" >}}<br>

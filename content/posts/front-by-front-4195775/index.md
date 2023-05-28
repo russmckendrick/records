@@ -22,10 +22,9 @@ genres: ["Electronic"]
 styles: ["EBM"]
 ---
 
-{{< img src="front-by-front-4195775.jpg" title="Front By Front by Front 242" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Until Death (Us Do Part) (4:31)
 2. Circling Overland (4:43)
 3. Im Rhythmus Bleiben (4:14)
@@ -35,10 +34,6 @@ styles: ["EBM"]
 7. Headhunter V 3.0 (4:45)
 8. Work 01 (3:27)
 9. Terminal State (4:09)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/front-by-front/139889038" >}}<br>

@@ -15,10 +15,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="residue-26911262.jpg" title="Residue by Amplifier" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Teen Vogue
 2. Outsider
 3. Flame
@@ -35,10 +34,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 14. O Fortuna (Space Lounge Version)
 15. Jets For Brazil
 16. Gustav's Departure (Spirit & Mind Version)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/residue/1191817521" >}}<br>

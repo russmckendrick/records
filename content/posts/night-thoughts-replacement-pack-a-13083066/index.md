@@ -17,10 +17,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="night-thoughts-replacement-pack-a-13083066.jpg" title="Night Thoughts Replacement Pack A by Suede" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. When You Are Young
 2. Outsiders
 3. No Tomorrow
@@ -33,10 +32,6 @@ styles: ["Indie Rock"]
 10. I Can't Give Her What She Wants
 11. When You Were Young
 12. The Fur And The Feathers
-
-<!-- section break -->
-
-
 
 
 

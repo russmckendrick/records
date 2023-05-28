@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="the-sophtware-slump-on-a-wooden-piano-17475412.jpg" title="The Sophtware Slump .​.​.​.​. On A Wooden Piano by Grandaddy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. He's Simple He's Dumb He's The Pilot
 2. Hewlett's Daughter
 3. Jed The Humanoid
@@ -39,10 +38,6 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 9. E. Knievel Interlude (The Perils Of Keeping It Real)
 10. Miner At The Dial-A-View
 11. So You'll Aim Toward The Sky
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump-on-a-wooden-piano/1527310709" >}}<br>

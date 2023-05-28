@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
 
-{{< img src="no-one-is-lost-6214485.jpg" title="No One Is Lost by Stars" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. From The Night
 2. This Is The Last Time
 3. You Keep Coming Up
@@ -35,10 +34,6 @@ styles: ["Indie Rock", "Indie Pop"]
 9. The Stranger
 10. Look Away
 11. No One Is Lost
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-one-is-lost/908536655" >}}<br>

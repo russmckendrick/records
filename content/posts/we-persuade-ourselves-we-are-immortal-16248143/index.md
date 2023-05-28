@@ -21,20 +21,15 @@ genres: ["Electronic", "Rock", "Blues"]
 styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ---
 
-{{< img src="we-persuade-ourselves-we-are-immortal-16248143.jpg" title="We Persuade Ourselves We Are Immortal by Amorphous Androgynous" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Persuade Ourselves We Are Immortal (12:22)
 2. Hymortality (3:53)
 3. The Immortality Break (3:10)
 4. Synthony On A Theme Of Mortality (11:22)
 5. Psych Recap (5:17)
 6. Physically I’m Here, Mentally I’m Far, Far Away (4:18)
-
-<!-- section break -->
-
-
 
 
 

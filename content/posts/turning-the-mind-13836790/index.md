@@ -17,10 +17,12 @@ genres: ["Electronic"]
 styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 ---
 
-{{< img src="turning-the-mind-13836790.jpg" title="Turning The Mind by Maps" >}}
+Turning the Mind is the second album from Northampton-based band Maps, released in 2009.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Turning The Mind
 2. I Dream Of Crystal
 3. Let Go Of The Fear
@@ -33,13 +35,6 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 10. Chemeleon
 11. Die Happy, Die Smiling
 12. Without You
-
-<!-- section break -->
-
-Turning the Mind is the second album from Northampton-based band Maps, released in 2009.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/turning-the-mind/757877794" >}}<br>

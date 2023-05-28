@@ -43,10 +43,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="the-ten-year-war-11408964.jpg" title="The Ten Year War by Black Sabbath" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Sabbath
 2. Black Sabbath
 3. The Wizard
@@ -202,10 +201,6 @@ styles: ["Hard Rock"]
 153. Over To You
 154. Breakout
 155. Swinging The Chain
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1299225968" >}}<br>

@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="grand-prix-12372525.jpg" title="Grand Prix by Teenage Fanclub" >}}
+Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. About You (2:40)
 2. Sparky's Dream (3:15)
 3. Mellow Doubt (2:42)
@@ -43,13 +45,6 @@ styles: ["Indie Rock"]
 13. Hardcore / Ballad (1:48)
 14. Every Step Is A Way Through (2:51)
 15. Some People Try To Fuck With You (2:32)
-
-<!-- section break -->
-
-Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grand-prix/1417071608" >}}<br>

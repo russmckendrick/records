@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
 ---
 
-{{< img src="order-of-magnitude-empath-live-volume-1-16092605.jpg" title="Order Of Magnitude - Empath Live Volume 1 by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Borderlands
 2. Evermore
 3. War
@@ -56,10 +55,6 @@ styles: ["Progressive Metal", "Prog Rock"]
 30. Spirits Will Collide
 31. Disco Inferno
 32. Kingdom
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}<br>

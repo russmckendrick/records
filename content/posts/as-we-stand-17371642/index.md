@@ -17,10 +17,9 @@ genres: ["Jazz"]
 styles: ["Contemporary Jazz"]
 ---
 
-{{< img src="as-we-stand-17371642.jpg" title="As We Stand by Tori Handsley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rivers Of Mind (4:14)
 2. Convolution (5:00)
 3. Polar Retreat (6:49)
@@ -31,10 +30,6 @@ styles: ["Contemporary Jazz"]
 8. As We Stand (5:19)
 9. Kestrel (6:50)
 10. What's In A Tune (6:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/as-we-stand-feat-moses-boyd/1617398228" >}}<br>

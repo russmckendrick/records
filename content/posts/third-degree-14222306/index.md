@@ -26,10 +26,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="third-degree-14222306.jpg" title="Third Degree by Flying Colors" >}}
+Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019 via Mascot Label Group.The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Loss Inside (5:50)
 2. More (7:10)
 3. Cadence (7:40)
@@ -39,13 +41,6 @@ styles: ["Prog Rock"]
 7. You Are Not Alone (6:21)
 8. Love Letter (5:10)
 9. Crawl (11:14)
-
-<!-- section break -->
-
-Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019 via Mascot Label Group.The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/third-degree/1600470882" >}}<br>

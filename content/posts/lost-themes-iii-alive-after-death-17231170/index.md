@@ -25,10 +25,14 @@ genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "Synthwave"]
 ---
 
-{{< img src="lost-themes-iii-alive-after-death-17231170.jpg" title="Lost Themes III: Alive After Death by John Carpenter" >}}
+Lost Themes III: Alive After Death is the third studio album by American film director and composer John Carpenter. It was released on February 5, 2021, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Alive After Death
 2. Weeping Ghost
 3. Dripping Blood
@@ -39,15 +43,6 @@ styles: ["Ambient", "Experimental", "Synthwave"]
 8. Turning The Bones
 9. The Dead Walk
 10. Carpathian Darkness
-
-<!-- section break -->
-
-Lost Themes III: Alive After Death is the third studio album by American film director and composer John Carpenter. It was released on February 5, 2021, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-themes-iii-alive-after-death/1534812089" >}}<br>

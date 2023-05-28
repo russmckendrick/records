@@ -28,10 +28,9 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 ---
 
-{{< img src="blackstar-7932038.jpg" title="★ (Blackstar) by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. ★ (Blackstar) (9:57)
 2. 'Tis A Pity She Was A Whore (4:52)
 3. Lazarus (6:22)
@@ -39,10 +38,6 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 5. Girl Loves Me (4:51)
 6. Dollar Days (4:44)
 7. I Can't Give Everything Away (5:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blackstar/1676286487" >}}<br>

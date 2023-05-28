@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-{{< img src="three-snakes-and-one-charm-7836430.jpg" title="Three Snakes And One Charm by The Black Crowes" >}}
+Three Snakes and One Charm is the fourth studio album by American rock band The Black Crowes. It was released on July 23, 1996.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Under A Mountain
 2. Good Friday
 3. Nebakanezer
@@ -42,13 +44,6 @@ styles: ["Southern Rock"]
 12. Evil Eye
 13. Just Say You're Sorry
 14. Pimper's Paradise
-
-<!-- section break -->
-
-Three Snakes and One Charm is the fourth studio album by American rock band The Black Crowes. It was released on July 23, 1996.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640" >}}<br>

@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="together-we-re-heavy-5326625.jpg" title="Together We're Heavy by The Polyphonic Spree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Section 11 (A Long Day Continues / We Sound Amazed) (8:32)
 2. Section 12 (Hold Me Now) (4:30)
 3. Section 13 (Diamonds / Mild Devotion To Majesty) (4:55)
@@ -34,10 +33,6 @@ styles: ["Art Rock", "Psychedelic Rock"]
 8. Section 18 (Everything Starts At The Seam) (1:54)
 9. Section 19 (When The Fool Becomes A King) (10:38)
 10. Section 20 (Together We're Heavy) (6:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/together-were-heavy/903318414" >}}<br>

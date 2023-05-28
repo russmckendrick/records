@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ---
 
-{{< img src="collected-14851665.jpg" title="Collected by Cat Stevens" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Matthew & Son (2:43)
 2. I Love My Dog (2:18)
 3. I'm Gonna Get Me A Gun (2:11)
@@ -52,10 +51,6 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 24. (Remember The Days Of The) Old Schoolyard (2:43)
 25. Child For A Day (4:22)
 26. Midday (Avoid City After Dark) (4:23)
-
-<!-- section break -->
-
-
 
 
 

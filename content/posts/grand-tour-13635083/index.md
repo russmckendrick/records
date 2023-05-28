@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="grand-tour-13635083.jpg" title="Grand Tour by Big Big Train" >}}
+Grand Tour is the twelfth studio album by the English progressive rock band Big Big Train. It contains all new songs unlike the previous, The Second Brightest Star. Thematically it broadens the lyrical landscape for the group into the European world, previously having a largely domestic British focus. It moves from English folklore and landscape, to the 17th and 18th century habit of well-to-do Europeans going on the 'Grand Tour' to experience a wider circle of art and science. It is the last studio album to feature band members Dave Gregory, Rachel Hall, and Danny Manners who left in 2020.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Novum Organum (2:25)
 2. Alive (4:34)
 3. The Florentine (8:17)
@@ -38,13 +40,6 @@ styles: ["Prog Rock"]
 7. Ariel (14:28)
 8. Voyager (14:20)
 9. Homesong (4:50)
-
-<!-- section break -->
-
-Grand Tour is the twelfth studio album by the English progressive rock band Big Big Train. It contains all new songs unlike the previous, The Second Brightest Star. Thematically it broadens the lyrical landscape for the group into the European world, previously having a largely domestic British focus. It moves from English folklore and landscape, to the 17th and 18th century habit of well-to-do Europeans going on the 'Grand Tour' to experience a wider circle of art and science. It is the last studio album to feature band members Dave Gregory, Rachel Hall, and Danny Manners who left in 2020.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grand-tour/1459209342" >}}<br>

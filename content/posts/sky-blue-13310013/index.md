@@ -25,10 +25,12 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="sky-blue-13310013.jpg" title="Sky Blue by Townes Van Zandt" >}}
+Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, recorded in 1973 but not released until 2019. All tracks were recorded in early 1973 at the Atlanta, Georgia, home studio of Bill Hedgepeth, a journalist, musician, and longtime friend of Van Zandt. Its 2019 release was conceived by Townes' surviving family—his wife and literary executor Jeanene, along with his children, J.T., Will, and Katie Bell.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. All I Need (2:52)
 2. Rex's Blues (2:15)
 3. The Hills Of Roane  (3:53)
@@ -40,13 +42,6 @@ styles: ["Country"]
 9. Silver Ship of Andilar (5:30)
 10. Dream Spider (1:57)
 11. Last Thing On My Mind (3:42)
-
-<!-- section break -->
-
-Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, recorded in 1973 but not released until 2019. All tracks were recorded in early 1973 at the Atlanta, Georgia, home studio of Bill Hedgepeth, a journalist, musician, and longtime friend of Van Zandt. Its 2019 release was conceived by Townes' surviving family—his wife and literary executor Jeanene, along with his children, J.T., Will, and Katie Bell.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sky-blue/1446644374" >}}<br>

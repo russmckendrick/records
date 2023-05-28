@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
 
-{{< img src="the-best-the-rest-of-the-island-years-74-78-11894228.jpg" title="The Best & The Rest Of The Island Years 74-78 by Sparks" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. This Town Ain't Big Enough (3:04)
 2. Hasta Mañana Monsieur (3:49)
 3. Tearing The Place Apart (3:37)
@@ -48,10 +47,6 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 22. Intrusion / Confusion (2:44)
 23. Looks Aren't Everything (3:26)
 24. Tearing The Place Apart (3:37)
-
-<!-- section break -->
-
-
 
 
 

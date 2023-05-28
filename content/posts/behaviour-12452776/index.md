@@ -20,10 +20,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="behaviour-12452776.jpg" title="Behaviour. by Pet Shop Boys" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Being Boring (6:48)
 2. This Must Be The Place I Waited Years To Leave (5:30)
 3. To Face The Truth (5:33)
@@ -34,10 +33,6 @@ styles: ["Synth-pop"]
 8. Nervously (4:07)
 9. The End Of The World (4:41)
 10. Jealousy (4:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}<br>

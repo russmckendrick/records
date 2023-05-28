@@ -25,10 +25,17 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="metallica-6007719.jpg" title="Metallica by Metallica" >}}
+Metallica (commonly known as The Black Album) is the fifth studio album by American heavy metal band Metallica. It was released on August 12, 1991, by Elektra Records. Recording sessions took place at One on One Studios in Los Angeles over an eight-month span that frequently found Metallica at odds with their new producer Bob Rock. The album marked a change in the band's music from the thrash metal style of their previous four albums to a slower, heavier, and more refined sound.
+Metallica promoted Metallica with a series of tours. They also released five singles to promote the album: "Enter Sandman", "The Unforgiven", "Nothing Else Matters", "Wherever I May Roam", and "Sad but True", all of which have been considered to be among the band's best-known songs. The song "Don't Tread on Me" was also issued to rock radio shortly after the album's release but did not receive a commercial single release.
+Metallica received widespread critical acclaim and became the band's best-selling album. It debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top the album charts. Metallica is one of the best-selling albums worldwide, and also one of the best-selling albums in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States, being the first album in the SoundScan era to do so.
+Metallica played Metallica in its entirety during the 2012 European Black Album Tour. In 2020, the album was ranked number 235 on Rolling Stone's The 500 Greatest Albums of All Time list. In December 2019, Metallica became the fourth release in American history to enter the 550-week milestone on the Billboard 200. It also became the second longest-charting traditional title in history only behind The Dark Side of the Moon (1973) by Pink Floyd, and the second to spend 550 weeks on the album charts.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Enter Sandman (5:29)
 2. Sad But True (5:24)
 3. Holier Than Thou (3:47)
@@ -41,18 +48,6 @@ styles: ["Heavy Metal"]
 10. The God That Failed (5:05)
 11. My Friend Of Misery (6:47)
 12. The Struggle Within (3:51)
-
-<!-- section break -->
-
-Metallica (commonly known as The Black Album) is the fifth studio album by American heavy metal band Metallica. It was released on August 12, 1991, by Elektra Records. Recording sessions took place at One on One Studios in Los Angeles over an eight-month span that frequently found Metallica at odds with their new producer Bob Rock. The album marked a change in the band's music from the thrash metal style of their previous four albums to a slower, heavier, and more refined sound.
-Metallica promoted Metallica with a series of tours. They also released five singles to promote the album: "Enter Sandman", "The Unforgiven", "Nothing Else Matters", "Wherever I May Roam", and "Sad but True", all of which have been considered to be among the band's best-known songs. The song "Don't Tread on Me" was also issued to rock radio shortly after the album's release but did not receive a commercial single release.
-Metallica received widespread critical acclaim and became the band's best-selling album. It debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top the album charts. Metallica is one of the best-selling albums worldwide, and also one of the best-selling albums in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States, being the first album in the SoundScan era to do so.
-Metallica played Metallica in its entirety during the 2012 European Black Album Tour. In 2020, the album was ranked number 235 on Rolling Stone's The 500 Greatest Albums of All Time list. In December 2019, Metallica became the fourth release in American history to enter the 550-week milestone on the Billboard 200. It also became the second longest-charting traditional title in history only behind The Dark Side of the Moon (1973) by Pink Floyd, and the second to spend 550 weeks on the album charts.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metallica-remastered/1571968136" >}}<br>

@@ -20,17 +20,12 @@ genres: ["Reggae"]
 styles: ["Ska", "Rocksteady"]
 ---
 
-{{< img src="ghost-town-why-friday-night-saturday-morning-19008790.jpg" title="Ghost Town / Why? / Friday Night, Saturday Morning by The Specials" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ghost Town
 2. Why?
 3. Friday Night, Saturday Morning
-
-<!-- section break -->
-
-
 
 
 

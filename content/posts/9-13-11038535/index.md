@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Sludge Metal", "Doom Metal"]
 ---
 
-{{< img src="9-13-11038535.jpg" title="9-13 by Iron Monkey" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Crown Of Electrodes
 2. OmegaMangler
 3. 9-13
@@ -34,10 +33,6 @@ styles: ["Sludge Metal", "Doom Metal"]
 7. The Rope 
 8. Doomsday Impulse Multiplier
 9. Moreland St. Hammervortex 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/9-13/1260737417" >}}<br>

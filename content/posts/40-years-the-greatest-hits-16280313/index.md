@@ -16,10 +16,9 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="40-years-the-greatest-hits-16280313.jpg" title="40 Years: The Greatest Hits by Spandau Ballet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Cut A Long Story Short
 2. The Freeze
 3. Musclebound
@@ -39,10 +38,6 @@ styles: ["Pop Rock"]
 17. The Boxer
 18. This Is The Love
 19. Through the Barricades
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}<br>

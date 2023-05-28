@@ -17,10 +17,9 @@ genres: ["Rock", "Classical"]
 styles: []
 ---
 
-{{< img src="symphonized-12810189.jpg" title="Symphonized by Anneke van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Feel Alive
 2. Amity
 3. Your Glorious Light Will Shine - Helsinki
@@ -43,10 +42,6 @@ styles: []
 20. Freedom - Rio (6:13)
 21. Forgotten (4:42)
 22. Shores Of India (7:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/symphonized-live/1434911196" >}}<br>

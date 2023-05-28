@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="rearviewmirror-greatest-hits-1991-2003-volume-1-22421005.jpg" title="Rearviewmirror (Greatest Hits 1991-2003: Volume 1) by Pearl Jam" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Once (2004 Mix)
 2. Alive (2004 Mix)
 3. Even Flow
@@ -51,10 +50,6 @@ styles: ["Alternative Rock", "Grunge"]
 14. Hail, Hail
 15. Do The Evolution
 16. Save You
-
-<!-- section break -->
-
-
 
 
 

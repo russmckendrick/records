@@ -34,10 +34,14 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="101-9191026.jpg" title="101 by Depeche Mode" >}}
+101 is a live album and documentary film by English electronic music band Depeche Mode, released on 13 March 1989 by Mute Records. It chronicles the final leg of the band's Music for the Masses Tour and the final show on 18 June 1988 at the Rose Bowl in Pasadena, California.Band member Alan Wilder is credited with coming up with the album's title; the performance was the 101st and final performance of the tour (and coincidentally also the number of a famous highway in the area). The film was directed and produced by D. A. Pennebaker.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Pimpf (0:53)
 2. Behind The Wheel (5:41)
 3. Strangelove (4:42)
@@ -55,15 +59,6 @@ styles: ["Synth-pop"]
 15. Master And Servant (4:24)
 16. Just Can't Get Enough (4:01)
 17. Everything Counts (6:07)
-
-<!-- section break -->
-
-101 is a live album and documentary film by English electronic music band Depeche Mode, released on 13 March 1989 by Mute Records. It chronicles the final leg of the band's Music for the Masses Tour and the final show on 18 June 1988 at the Rose Bowl in Pasadena, California.Band member Alan Wilder is credited with coming up with the album's title; the performance was the 101st and final performance of the tour (and coincidentally also the number of a famous highway in the area). The film was directed and produced by D. A. Pennebaker.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/101-live/665404620" >}}<br>

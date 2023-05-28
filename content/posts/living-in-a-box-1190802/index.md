@@ -22,10 +22,12 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["New Wave", "Synth-pop", "Soul"]
 ---
 
-{{< img src="living-in-a-box-1190802.jpg" title="Living In A Box by Living In A Box" >}}
+"Living in a Box" is a song by British band Living in a Box, released on 23 March 1987 as their first single from their debut album album of the same name. It was the group's biggest hit single along with "Room in Your Heart" (1989), reaching No. 5 on the UK Singles Chart. "Living in a Box" became the group's only top-40 hit in the United States, peaking at No. 17 on the Billboard Hot 100. The song was later covered by Bobby Womack; his version reached No. 70 in the UK.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Living In A Box (3:02)
 2. Love Is The Art (3:39)
 3. So The Story Goes (4:19)
@@ -36,13 +38,6 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 8. Human Story (4:10)
 9. Can't Stop The Wheel (5:17)
 10. Living In A Box (Reprise: Full 12" Version) (3:10)
-
-<!-- section break -->
-
-"Living in a Box" is a song by British band Living in a Box, released on 23 March 1987 as their first single from their debut album album of the same name. It was the group's biggest hit single along with "Room in Your Heart" (1989), reaching No. 5 on the UK Singles Chart. "Living in a Box" became the group's only top-40 hit in the United States, peaking at No. 17 on the Billboard Hot 100. The song was later covered by Bobby Womack; his version reached No. 70 in the UK.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-living-in-a-box/1629177912" >}}<br>

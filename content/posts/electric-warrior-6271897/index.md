@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Glam"]
 ---
 
-{{< img src="electric-warrior-6271897.jpg" title="Electric Warrior by T. Rex" >}}
+Electric Warrior is the second studio album by English rock band T. Rex, their sixth since their debut as Tyrannosaurus Rex. The album marked a turning point in the band's sound, moving away from the folk-oriented sound of the group's previous albums and pioneering a more flamboyant, pop-friendly glam rock style.The album reached number one on the UK Albums Chart and became the best selling album of 1971. Specifically the single "Get It On" helped promote the album's success and reached the top ten in the US Billboard Hot 100 singles chart. Retitled "Bang a Gong (Get It On)" by the US record company, it also became the band's only North American hit.
+Electric Warrior has since received acclaim as a pivotal release of the glam rock movement. It had a profound influence on later musicians of different genres.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Mambo Sun (3:39)
 2. Cosmic Dancer (4:28)
 3. Jeepster (4:11)
@@ -36,14 +39,6 @@ styles: ["Glam"]
 9. The Motivator (3:57)
 10. Life's A Gas (2:25)
 11. Rip Off (3:42)
-
-<!-- section break -->
-
-Electric Warrior is the second studio album by English rock band T. Rex, their sixth since their debut as Tyrannosaurus Rex. The album marked a turning point in the band's sound, moving away from the folk-oriented sound of the group's previous albums and pioneering a more flamboyant, pop-friendly glam rock style.The album reached number one on the UK Albums Chart and became the best selling album of 1971. Specifically the single "Get It On" helped promote the album's success and reached the top ten in the US Billboard Hot 100 singles chart. Retitled "Bang a Gong (Get It On)" by the US record company, it also became the band's only North American hit.
-Electric Warrior has since received acclaim as a pivotal release of the glam rock movement. It had a profound influence on later musicians of different genres.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-warrior/1440804752" >}}<br>

@@ -28,10 +28,12 @@ genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 ---
 
-{{< img src="gargoyle-10205125.jpg" title="Gargoyle by Mark Lanegan Band" >}}
+Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Death's Head Tattoo
 2. Nocturne
 3. Blue Blue Sea
@@ -42,13 +44,6 @@ styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 8. Drunk On Destruction
 9. First Day Of Winter
 10. Old Swan
-
-<!-- section break -->
-
-Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gargoyle/1195027557" >}}<br>

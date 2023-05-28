@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="radio-voltaire-11744021.jpg" title="Radio Voltaire by Kino" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Radio Voltaire (7:03)
 2. The Dead Club (4:09)
 3. Idlewild (6:01)
@@ -44,10 +43,6 @@ styles: ["Prog Rock"]
 20. Grey Shapes On Concrete Fields (4:39)
 21. Keep The Faith (5:32)
 22. The Silent Fighter Pilot (4:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}<br>

@@ -23,10 +23,18 @@ genres: ["Rock"]
 styles: ["Glam", "Art Rock"]
 ---
 
-{{< img src="the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-23595440.jpg" title="The Rise And Fall Of Ziggy Stardust And The Spiders From Mars by David Bowie" >}}
+The Rise and Fall of Ziggy Stardust and the Spiders from Mars (often shortened to Ziggy Stardust) is the fifth studio album by English musician David Bowie, released on 16 June 1972 in the United Kingdom through RCA Records. It was co-produced by Bowie and Ken Scott and features Bowie's backing band the Spiders from Mars — Mick Ronson, Trevor Bolder and Mick Woodmansey. It was recorded from November 1971 to February 1972 at Trident Studios in London.
+Described as a loose concept album and rock opera, Ziggy Stardust is about Bowie's titular alter ego Ziggy Stardust, a fictional androgynous and bisexual rock star who is sent to Earth as a saviour before an impending apocalyptic disaster. In the story, Ziggy wins the hearts of fans but suffers a fall from grace after succumbing to his own ego. The character was inspired by numerous musicians, including Vince Taylor. Most of the album's concept was developed after the songs were recorded. The glam rock and proto-punk musical styles were influenced by Iggy Pop, the Velvet Underground and Marc Bolan. The lyrics discuss the artificiality of rock music, political issues, drug use, sexual orientation and stardom. The album cover, photographed in monochrome and recoloured, was taken in London outside the home of furriers "K. West".
+Preceded by the single "Starman", Ziggy Stardust reached the UK top five. Critics responded favourably; some praised the musicality and concept while others struggled to comprehend it. Shortly after its release, Bowie performed "Starman" on Britain's Top of the Pops in early July 1972, which propelled him to stardom. The Ziggy character was retained for the subsequent Ziggy Stardust Tour, performances from which have appeared on live albums and a concert film. Bowie described the follow-up album, Aladdin Sane, as "Ziggy goes to America".
+In later decades, Ziggy Stardust is considered one of Bowie's best works and has appeared on numerous lists of the greatest albums of all time. Bowie had ideas for a musical based on the album, although this project never came to fruition; ideas were later used for Diamond Dogs. Ziggy Stardust has been reissued several times and was remastered in 2012 for its 40th anniversary. In 2017, it was selected for preservation in the National Recording Registry by the Library of Congress, being deemed "culturally, historically, or artistically significant".
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Five Years (4:42)
 2. Soul Love (3:34)
 3. Moonage Daydream (4:40)
@@ -38,19 +46,6 @@ styles: ["Glam", "Art Rock"]
 9. Ziggy Stardust (3:13)
 10. Suffragette City (3:25)
 11. Rock 'N' Roll Suicide (2:58)
-
-<!-- section break -->
-
-The Rise and Fall of Ziggy Stardust and the Spiders from Mars (often shortened to Ziggy Stardust) is the fifth studio album by English musician David Bowie, released on 16 June 1972 in the United Kingdom through RCA Records. It was co-produced by Bowie and Ken Scott and features Bowie's backing band the Spiders from Mars — Mick Ronson, Trevor Bolder and Mick Woodmansey. It was recorded from November 1971 to February 1972 at Trident Studios in London.
-Described as a loose concept album and rock opera, Ziggy Stardust is about Bowie's titular alter ego Ziggy Stardust, a fictional androgynous and bisexual rock star who is sent to Earth as a saviour before an impending apocalyptic disaster. In the story, Ziggy wins the hearts of fans but suffers a fall from grace after succumbing to his own ego. The character was inspired by numerous musicians, including Vince Taylor. Most of the album's concept was developed after the songs were recorded. The glam rock and proto-punk musical styles were influenced by Iggy Pop, the Velvet Underground and Marc Bolan. The lyrics discuss the artificiality of rock music, political issues, drug use, sexual orientation and stardom. The album cover, photographed in monochrome and recoloured, was taken in London outside the home of furriers "K. West".
-Preceded by the single "Starman", Ziggy Stardust reached the UK top five. Critics responded favourably; some praised the musicality and concept while others struggled to comprehend it. Shortly after its release, Bowie performed "Starman" on Britain's Top of the Pops in early July 1972, which propelled him to stardom. The Ziggy character was retained for the subsequent Ziggy Stardust Tour, performances from which have appeared on live albums and a concert film. Bowie described the follow-up album, Aladdin Sane, as "Ziggy goes to America".
-In later decades, Ziggy Stardust is considered one of Bowie's best works and has appeared on numerous lists of the greatest albums of all time. Bowie had ideas for a musical based on the album, although this project never came to fruition; ideas were later used for Diamond Dogs. Ziggy Stardust has been reissued several times and was remastered in 2012 for its 40th anniversary. In 2017, it was selected for preservation in the National Recording Registry by the Library of Congress, being deemed "culturally, historically, or artistically significant".
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877" >}}<br>

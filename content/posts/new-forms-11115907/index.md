@@ -28,10 +28,14 @@ genres: ["Electronic"]
 styles: ["Drum n Bass"]
 ---
 
-{{< img src="new-forms-11115907.jpg" title="New Forms by Roni Size / Reprazent" >}}
+New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was originally released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK Singles Chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Railing
 2. Brown Paper Bag
 3. Heroes
@@ -46,15 +50,6 @@ styles: ["Drum n Bass"]
 12. Morse Code
 13. Lets Get It On
 14. Change My Life
-
-<!-- section break -->
-
-New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was originally released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK Singles Chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms-vol-2-remastered/1443805487" >}}<br>

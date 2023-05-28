@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Ambient", "Prog Rock"]
 ---
 
-{{< img src="eye-of-the-soundscape-9179099.jpg" title="Eye Of The Soundscape by Riverside" >}}
+Eye of the Soundscape is a compilation album by Polish progressive rock band Riverside, released on 21 October 2016 through InsideOut Music.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Where The River Flows (10:53)
 2. Shine (4:09)
 3. Sleepwalkers (7:19)
@@ -46,13 +48,6 @@ styles: ["Ambient", "Prog Rock"]
 24. Machines (3:53)
 25. Promise (2:44)
 26. Eye Of The Soundscape (11:30)
-
-<!-- section break -->
-
-Eye of the Soundscape is a compilation album by Polish progressive rock band Riverside, released on 21 October 2016 through InsideOut Music.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eye-of-the-soundscape/1152468690" >}}<br>

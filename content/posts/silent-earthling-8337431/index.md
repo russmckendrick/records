@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="silent-earthling-8337431.jpg" title="Silent Earthling by Three Trapped Tigers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Silent Earthling
 2. Strebek
 3. Kraken
@@ -38,10 +37,6 @@ styles: ["Post Rock"]
 16. Hemisphere
 17. Rainbow Road
 18. Elsewhere
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silent-earthling/1078005851" >}}<br>

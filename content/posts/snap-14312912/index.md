@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Mod"]
 ---
 
-{{< img src="snap-14312912.jpg" title="Snap! by The Jam" >}}
+Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In The City
 2. Away From The Numbers
 3. All Around The World
@@ -55,13 +57,6 @@ styles: ["Mod"]
 32. Get Yourself Together (Live)
 33. The Great Depression (Live)
 34. But I'm Different Now (Live)
-
-<!-- section break -->
-
-Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year after the group disbanded. The double-album includes all sixteen of the band's UK singles, plus some B-sides, album tracks and rarities. Stephen Thomas Erlewine of AllMusic called it "one of the greatest greatest-hits albums of all time". A shorter version, removing the 8 non-singles, was released as a single CD in 1985 as Compact Snap!.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/snap/1452863068" >}}<br>

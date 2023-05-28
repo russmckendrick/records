@@ -24,22 +24,6 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="some-great-reward-8953147.jpg" title="Some Great Reward by Depeche Mode" >}}
-
-<!-- section break -->
-
-1. Something To Do (3:45)
-2. Lie To Me (5:04)
-3. People Are People (3:52)
-4. It Doesn't Matter (4:45)
-5. Stories Of Old (3:12)
-6. Somebody (4:26)
-7. Master And Servant (4:13)
-8. If You Want (4:40)
-9. Blasphemous Rumours (6:21)
-
-<!-- section break -->
-
 Some Great Reward is the fourth studio album by English electronic music band Depeche Mode, released on 24 September 1984 by Mute Records. The album peaked at number five in the United Kingdom and number 51 in the United States, and was supported by the Some Great Reward Tour. This also saw the band using samplers, much like they did in their previous album Construction Time Again, which they would continue to use in their following albums Black Celebration and Music for the Masses.
 Additionally it also saw the band addressing more personal themes such as sexual politics ("Master and Servant"), adulterous relationships ("Lie to Me"), and arbitrary divine justice ("Blasphemous Rumours").
 "Blasphemous Rumours" was released as a double A-side with "Somebody".
@@ -49,6 +33,17 @@ This was the first album where they achieved chart success in the US with the si
     
     
 
+
+## Tracklisting
+1. Something To Do (3:45)
+2. Lie To Me (5:04)
+3. People Are People (3:52)
+4. It Doesn't Matter (4:45)
+5. Stories Of Old (3:12)
+6. Somebody (4:26)
+7. Master And Servant (4:13)
+8. If You Want (4:40)
+9. Blasphemous Rumours (6:21)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-great-reward-deluxe-edition/665413158" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Classical"]
 styles: []
 ---
 
-{{< img src="the-wall-for-chamber-orchestra-13569554.jpg" title="The Wall For Chamber Orchestra by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Flesh
 2. Another Brick In The Wall Pt.III
 3. Mother
@@ -38,10 +37,6 @@ styles: []
 13. Waiting For The Worms
 14. The Trial
 15. Outside The Wall
-
-<!-- section break -->
-
-
 
 
 

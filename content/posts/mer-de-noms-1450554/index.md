@@ -26,10 +26,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="mer-de-noms-1450554.jpg" title="Mer De Noms by A Perfect Circle" >}}
+Mer de Noms (French for "Sea of Names") is the debut studio album by American rock band A Perfect Circle. The album was released on May 23, 2000, and entered the Billboard 200 at No. 4, making it the highest ever Billboard 200 debut for a rock band's first album. It sold over 188,000 copies in the first week, and was certified platinum by the RIAA later that same year. Three singles were released in promotion of the album, "Judith", "3 Libras", and "The Hollow", all of which hit the top 20 of both the Billboard US Modern Rock and  Mainstream Rock charts.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. The Hollow (2:58)
 2. Magdalena (4:04)
 3. Rose (3:25)
@@ -42,15 +46,6 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 10. Thinking Of You (4:32)
 11. Breña (4:04)
 12. Over (Alt.) (2:43)
-
-<!-- section break -->
-
-Mer de Noms (French for "Sea of Names") is the debut studio album by American rock band A Perfect Circle. The album was released on May 23, 2000, and entered the Billboard 200 at No. 4, making it the highest ever Billboard 200 debut for a rock band's first album. It sold over 188,000 copies in the first week, and was certified platinum by the RIAA later that same year. Three singles were released in promotion of the album, "Judith", "3 Libras", and "The Hollow", all of which hit the top 20 of both the Billboard US Modern Rock and  Mainstream Rock charts.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mer-de-noms/723435992" >}}<br>

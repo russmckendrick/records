@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="ciao-best-of-lush-7778678.jpg" title="Ciao! Best Of Lush by Lush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ladykillers
 2. Single Girl
 3. Ciao!
@@ -45,10 +44,6 @@ styles: ["Indie Rock", "Shoegaze"]
 16. Sweetness And Light
 17. Thoughtforms
 18. Etheriel
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}<br>

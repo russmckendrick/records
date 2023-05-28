@@ -19,18 +19,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="something-to-miss-1776360.jpg" title="Something To Miss by Senseless Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Something To Miss (3:53)
 2. 16.18.21 (3:05)
 3. Never Haunted (2:38)
 4. Answering Machine (3:40)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/something-to-miss/259504098" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="queen-of-the-night-2386688.jpg" title="Queen Of The Night by Maggie Bell" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Caddo Queen (3:35)
 2. A Woman Left Lonely (3:54)
 3. Souvenirs (5:32)
@@ -36,10 +35,6 @@ styles: ["Blues Rock"]
 9. We Had It All (2:55)
 10. The Other Side (2:59)
 11. Trade Winds (5:11)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queen-of-the-night/1541334774" >}}<br>

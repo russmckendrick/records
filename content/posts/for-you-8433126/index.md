@@ -29,10 +29,16 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 ---
 
-{{< img src="for-you-8433126.jpg" title="For You by Prince" >}}
+For You is the debut studio album by American singer-songwriter Prince. It was released by Warner Bros. Records on April 7, 1978. All tracks were produced, arranged, composed, and performed by Prince. Prince started recording in September 1977 at Sound 80 in Minneapolis, Minnesota, where he had previously made a demo. Friend and producer David Rivkin (later known as David Z) provided advice and engineering assistance.
+For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul chart. "Soft and Wet", the album's lead single, became a minor hit on the Billboard Hot 100, peaking at No. 92. However, it became a Top 20 hit on the Billboard Hot Soul Singles chart, peaking at No. 12. In 2016, after Prince's death, the album re-charted on the Billboard 200, reaching No. 138.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Side One
 2. For You (1:06)
 3. In Love (3:38)
@@ -44,17 +50,6 @@ styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 9. My Love Is Forever (4:09)
 10. So Blue (4:26)
 11. I'm Yours (5:01)
-
-<!-- section break -->
-
-For You is the debut studio album by American singer-songwriter Prince. It was released by Warner Bros. Records on April 7, 1978. All tracks were produced, arranged, composed, and performed by Prince. Prince started recording in September 1977 at Sound 80 in Minneapolis, Minnesota, where he had previously made a demo. Friend and producer David Rivkin (later known as David Z) provided advice and engineering assistance.
-For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul chart. "Soft and Wet", the album's lead single, became a minor hit on the Billboard Hot 100, peaking at No. 92. However, it became a Top 20 hit on the Billboard Hot Soul Singles chart, peaking at No. 12. In 2016, after Prince's death, the album re-charted on the Billboard 200, reaching No. 138.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/for-you/663586846" >}}<br>

@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="the-demon-joke-7147581.jpg" title="The Demon Joke by Vennart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Two Five Five (3:15)
 2. Doubt (4:13)
 3. Infatuate (5:10)
@@ -40,10 +39,6 @@ styles: []
 18. A Weight In The Hollow (5:39)
 19. Operate (4:45)
 20. Amends (3:33)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-demon-joke/1049159070" >}}<br>

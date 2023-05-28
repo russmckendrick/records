@@ -22,10 +22,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="for-the-music-16348308.jpg" title="For The Music by Blackfield" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. For The Music
 2. After All
 3. Garden Of Sin
@@ -35,10 +34,6 @@ styles: []
 7. White Nights
 8. Summer's Gone
 9. It's So Hard
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/for-the-music/1531752115" >}}<br>

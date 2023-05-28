@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="live-at-the-orpheum-6596408.jpg" title="Live At The Orpheum by King Crimson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Walk On: Monk Morph Chamber Music (2:34)
 2. One More Red Nightmare (6:07)
 3. Banshee Legs Bell Hassle (1:40)
@@ -34,10 +33,6 @@ styles: ["Prog Rock"]
 5. The Letters (4:57)
 6. Sailor's Tale (6:51)
 7. Starless (12:15)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}<br>

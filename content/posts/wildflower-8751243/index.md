@@ -32,10 +32,14 @@ genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Abstract", "Experimental", "Breaks"]
 ---
 
-{{< img src="wildflower-8751243.jpg" title="Wildflower by The Avalanches" >}}
+Wildflower is the second studio album by Australian electronic music group the Avalanches. It was first released on 1 July 2016 on Apple Music and widely on 8 July 2016 by Modular Recordings in Australia, by XL Recordings in the United Kingdom, and by Astralwerks in the United States. It was the first album released by the band in 16 years, following their 2000 debut Since I Left You. It features multiple guest collaborators providing vocals and live instrumentation across its twenty-one tracks, including Danny Brown, MF DOOM, David Berman, Toro y Moi, Warren Ellis, Jonathan Donahue, Kevin Parker, Biz Markie, and Father John Misty, amongst others. Much like its predecessor, the album features extensive sampling, especially from 1960s psychedelic music, and relates to the era through themes of counterculture and anti-establishment. Member Robbie Chater described the album's structure as a road trip from a hyperrealistic urban environment to somewhere remote and far away while on LSD.
+Wildflower was stuck in development hell for many years. Following the release of Since I Left You, the Avalanches toured and continued to produce music, and worked on a wide variety of projects for over a decade, producing new tracks while also collaborating with multiple artists. The album was described in 2005 as "ambient world music", and by early 2007, the group were considering over forty tracks for an album which had become mostly hip hop-oriented. Production was restarted in 2011, led by Robbie Chater with assistance from Tony Di Blasi, but soon stalled due to the former being ill for three years. The group members had also become more involved in separate projects, which pulled them away from the album. Some of their most time-consuming work included the score to King Kong, and an animated musical film described as a "hip hop version of Yellow Submarine" which lost funding and was never completed. Wildflower features several remnants from these projects, and was compiled in a fashion similar to producing a mixtape.
+Teasing of the album began in April 2016, and it was formally announced in June alongside the release of its first single, an extended mix of "Frankie Sinatra" (2016). Upon its release, Wildflower received widespread acclaim from critics, who praised its production, although most compared it less favourably to Since I Left You. The album was a commercial success, reaching number one in the band's native Australia and the top ten in the United Kingdom.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Leaves Were Falling (0:15)
 2. Because I'm Me (4:12)
 3. Frankie Sinatra (3:44)
@@ -78,15 +82,6 @@ styles: ["Abstract", "Experimental", "Breaks"]
 40. Kaleidoscopic Lovers (3:55)
 41. Stepkids (4:32)
 42. Saturday Night Inside Out (5:07)
-
-<!-- section break -->
-
-Wildflower is the second studio album by Australian electronic music group the Avalanches. It was first released on 1 July 2016 on Apple Music and widely on 8 July 2016 by Modular Recordings in Australia, by XL Recordings in the United Kingdom, and by Astralwerks in the United States. It was the first album released by the band in 16 years, following their 2000 debut Since I Left You. It features multiple guest collaborators providing vocals and live instrumentation across its twenty-one tracks, including Danny Brown, MF DOOM, David Berman, Toro y Moi, Warren Ellis, Jonathan Donahue, Kevin Parker, Biz Markie, and Father John Misty, amongst others. Much like its predecessor, the album features extensive sampling, especially from 1960s psychedelic music, and relates to the era through themes of counterculture and anti-establishment. Member Robbie Chater described the album's structure as a road trip from a hyperrealistic urban environment to somewhere remote and far away while on LSD.
-Wildflower was stuck in development hell for many years. Following the release of Since I Left You, the Avalanches toured and continued to produce music, and worked on a wide variety of projects for over a decade, producing new tracks while also collaborating with multiple artists. The album was described in 2005 as "ambient world music", and by early 2007, the group were considering over forty tracks for an album which had become mostly hip hop-oriented. Production was restarted in 2011, led by Robbie Chater with assistance from Tony Di Blasi, but soon stalled due to the former being ill for three years. The group members had also become more involved in separate projects, which pulled them away from the album. Some of their most time-consuming work included the score to King Kong, and an animated musical film described as a "hip hop version of Yellow Submarine" which lost funding and was never completed. Wildflower features several remnants from these projects, and was compiled in a fashion similar to producing a mixtape.
-Teasing of the album began in April 2016, and it was formally announced in June alongside the release of its first single, an extended mix of "Frankie Sinatra" (2016). Upon its release, Wildflower received widespread acclaim from critics, who praised its production, although most compared it less favourably to Since I Left You. The album was a commercial success, reaching number one in the band's native Australia and the top ten in the United Kingdom.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wildflower/1129264752" >}}<br>

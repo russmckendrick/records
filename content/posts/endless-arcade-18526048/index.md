@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="endless-arcade-18526048.jpg" title="Endless Arcade by Teenage Fanclub" >}}
+Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclub. Released on 30 April 2021, it is the band's first record since the departure of co-founder Gerard Love in late 2018 and their first with former Gorky's Zygotic Mynci member Euros Childs. The album's title comes from co-founder Raymond McGinley's song of the same name, with McGinley envisioning an endless arcade as "a city that you can wander through, with a sense of mystery, an imaginary one that goes on forever. When it came to choosing an album title, it seemed to have something for this collection of songs."
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Home
 2. Endless Arcade
 3. Warm Embrace
@@ -41,15 +45,6 @@ styles: ["Indie Rock"]
 10. The Future
 11. Living With You
 12. Silent Song
-
-<!-- section break -->
-
-Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclub. Released on 30 April 2021, it is the band's first record since the departure of co-founder Gerard Love in late 2018 and their first with former Gorky's Zygotic Mynci member Euros Childs. The album's title comes from co-founder Raymond McGinley's song of the same name, with McGinley envisioning an endless arcade as "a city that you can wander through, with a sense of mystery, an imaginary one that goes on forever. When it came to choosing an album title, it seemed to have something for this collection of songs."
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/endless-arcade/1544103316" >}}<br>

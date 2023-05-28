@@ -26,10 +26,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Post Rock", "Ambient"]
 ---
 
-{{< img src="6589097.jpg" title="( ) by Sigur Rós" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Untitled
 2. Untitled
 3. Untitled
@@ -46,10 +45,6 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 14. Untitled (8:48)
 15. Untitled (13:00)
 16. Untitled (11:45)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>

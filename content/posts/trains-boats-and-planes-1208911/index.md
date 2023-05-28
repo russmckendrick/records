@@ -16,10 +16,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="trains-boats-and-planes-1208911.jpg" title="Trains, Boats And Planes by The Frank And Walters" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. This Is Not A Song (3:31)
 2. Walter's Trip (2:57)
 3. Trainspotters (3:35)
@@ -31,10 +30,6 @@ styles: []
 9. Bake Us A Song (3:42)
 10. Time (3:24)
 11. High Is Low (2:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trains-boats-and-planes/125917251" >}}<br>

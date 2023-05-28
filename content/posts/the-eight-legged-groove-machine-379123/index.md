@@ -24,10 +24,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 ---
 
-{{< img src="the-eight-legged-groove-machine-379123.jpg" title="The Eight Legged Groove Machine by The Wonder Stuff" >}}
+The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Red Berry Joy Town (3:00)
 2. No, For The 13th Time (2:53)
 3. It's Yer Money I'm After, Baby (2:52)
@@ -44,13 +46,6 @@ styles: ["Alternative Rock", "New Wave", "Folk Rock", "Indie Rock"]
 14. Poison (3:00)
 15. (silence) (0:17)
 16. Times Will Change (0:40)
-
-<!-- section break -->
-
-The Eight Legged Groove Machine is the debut album by the Wonder Stuff from August 1988.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451" >}}<br>

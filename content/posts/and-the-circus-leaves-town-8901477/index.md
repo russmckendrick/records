@@ -18,10 +18,14 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="and-the-circus-leaves-town-8901477.jpg" title="...And The Circus Leaves Town by Kyuss" >}}
+...And the Circus Leaves Town is the fourth and final studio album by American stoner rock band Kyuss, released on July 11, 1995, nearly a year before their breakup. Drummer Alfredo Hernández (Yawning Man) replaces Brant Bjork, who left Kyuss in 1993. The album features a tighter and more straightforward sound, both in songwriting and production, than the band's preceding efforts. The album was not as commercially or critically successful as the previous Blues for the Red Sun and Welcome to Sky Valley. Critic Dean Brown attributes this partly to a lack of promotion and the band's breakup, but also notes that the album "deserves to be cherished as much as the two molten hot records that came right before it." A video was released for "One Inch Man", the album's only official single.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Hurricane (2:41)
 2. One Inch Man (3:29)
 3. Thee Ol' Boozeroony (2:47)
@@ -33,15 +37,6 @@ styles: ["Stoner Rock"]
 9. Size Queen (3:46)
 10. Catamaran (2:59)
 11. Spaceship Landing (11:15)
-
-<!-- section break -->
-
-...And the Circus Leaves Town is the fourth and final studio album by American stoner rock band Kyuss, released on July 11, 1995, nearly a year before their breakup. Drummer Alfredo Hernández (Yawning Man) replaces Brant Bjork, who left Kyuss in 1993. The album features a tighter and more straightforward sound, both in songwriting and production, than the band's preceding efforts. The album was not as commercially or critically successful as the previous Blues for the Red Sun and Welcome to Sky Valley. Critic Dean Brown attributes this partly to a lack of promotion and the band's breakup, but also notes that the album "deserves to be cherished as much as the two molten hot records that came right before it." A video was released for "One Inch Man", the album's only official single.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-the-circus-leaves-town/207914986" >}}<br>

@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="mary-star-of-the-sea-892155.jpg" title="Mary Star Of The Sea by Zwan" >}}
+Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".
+The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Lyric
 2. Settle Down
 3. Declarations Of Faith
@@ -40,14 +43,6 @@ styles: ["Alternative Rock"]
 13. Jesus, I 
 14. Mary Star Of The Sea
 15. Come With Me
-
-<!-- section break -->
-
-Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".
-The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
-    
-    
-
 
 
 

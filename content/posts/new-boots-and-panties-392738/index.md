@@ -22,10 +22,16 @@ genres: ["Rock"]
 styles: ["Punk", "Pop Rock"]
 ---
 
-{{< img src="new-boots-and-panties-392738.jpg" title="New Boots And Panties!! by Ian Dury" >}}
+New Boots and Panties!! is the debut studio album by Ian Dury, released in the UK on Stiff Records on 30 September 1977. The record covers a diverse range of musical styles which reflect Dury's influences and background in pub rock, taking in funk, disco, British music hall and early rock and roll, courtesy of Dury's musical hero Gene Vincent. Consisting mostly of love songs and character stories based on the working-class people of the East End and Essex Estuary areas where he grew up, the songs are frequently ribald and profane, but also contain humour and affection for his characters.
+Widely considered to be the best album of Ian Dury's career, it is also his biggest selling, having been certified platinum status in the UK for 300,000 sales. Sales of the album during the first few months after its release were modest, and the album's only single, "Sweet Gene Vincent", failed to chart. Subsequently, three stand-alone singles, "What a Waste", "Hit Me with Your Rhythm Stick" and "Reasons to Be Cheerful, Part 3", all reached the top ten of the UK Singles Chart, and their success kept the album in the spotlight and ensured consistent sales over the next two years.
+New Boots and Panties!! was among the UK's top 30 best selling albums of both 1978 and 1979, and eventually peaked at number five in the UK Albums Chart in February 1979, 17 months after its release, after "Hit Me with Your Rhythm Stick"'s chart-topping success.
+The album's title derives from Dury's habit of buying clothes second hand and refers to the only items of clothing he insisted on buying new. According to Ian Dury & the Blockheads: Song By Song, the name was chosen by Dury from a list of twenty potential titles drawn up by compere Kosmo Vinyl.
+New Boots and Panties!! has been reissued several times, including a three-disc edition for its 30th anniversary and a five-disc box set for its 40th anniversary.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Wake Up And Make Love With Me (4:30)
 2. Sweet Gene Vincent (3:30)
 3. I'm Partial To Your Abracadabra (3:30)
@@ -36,17 +42,6 @@ styles: ["Punk", "Pop Rock"]
 8. Blockheads (4:00)
 9. Plaistow Patricia (4:00)
 10. Blackmail Man (2:00)
-
-<!-- section break -->
-
-New Boots and Panties!! is the debut studio album by Ian Dury, released in the UK on Stiff Records on 30 September 1977. The record covers a diverse range of musical styles which reflect Dury's influences and background in pub rock, taking in funk, disco, British music hall and early rock and roll, courtesy of Dury's musical hero Gene Vincent. Consisting mostly of love songs and character stories based on the working-class people of the East End and Essex Estuary areas where he grew up, the songs are frequently ribald and profane, but also contain humour and affection for his characters.
-Widely considered to be the best album of Ian Dury's career, it is also his biggest selling, having been certified platinum status in the UK for 300,000 sales. Sales of the album during the first few months after its release were modest, and the album's only single, "Sweet Gene Vincent", failed to chart. Subsequently, three stand-alone singles, "What a Waste", "Hit Me with Your Rhythm Stick" and "Reasons to Be Cheerful, Part 3", all reached the top ten of the UK Singles Chart, and their success kept the album in the spotlight and ensured consistent sales over the next two years.
-New Boots and Panties!! was among the UK's top 30 best selling albums of both 1978 and 1979, and eventually peaked at number five in the UK Albums Chart in February 1979, 17 months after its release, after "Hit Me with Your Rhythm Stick"'s chart-topping success.
-The album's title derives from Dury's habit of buying clothes second hand and refers to the only items of clothing he insisted on buying new. According to Ian Dury & the Blockheads: Song By Song, the name was chosen by Dury from a list of twenty potential titles drawn up by compere Kosmo Vinyl.
-New Boots and Panties!! has been reissued several times, including a three-disc edition for its 30th anniversary and a five-disc box set for its 40th anniversary.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-boots-and-panties/1489404322" >}}<br>

@@ -27,22 +27,6 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-{{< img src="closer-15622026.jpg" title="Closer by Joy Division" >}}
-
-<!-- section break -->
-
-1. Atrocity Exhibition
-2. Isolation
-3. Passover
-4. Colony
-5. A Means To An End
-6. Heart And Soul
-7. Twenty Four Hours
-8. The Eternal
-9. Decades
-
-<!-- section break -->
-
 Joy Division bassist Peter Hook was at a wedding when producer Martin Hannett began mixing the band’s second album, <i>Closer</i>, in March 1980. By the time Hook returned to London, where they were making the record at Pink Floyd’s Britannia Row Studios, a couple of tracks were ready. “Barney [bandmate Bernard Sumner] took great delight in taking me in to play [them],” Hook tells Apple Music, “because he knew that I’d be as pissed off as he was. It was like, ‘Ohhhh...Martin.’ And Martin would just be, ‘Shut up, you pair of morons.’” This wasn’t a complete shock. A year earlier, Hook and Sumner had been similarly peeved when they first heard Hannett’s austere, haunted treatment for their debut album, 1979’s <i>Unknown Pleasures</i>. And Hannett was equally unmoved by their protests. Despite that record restating the sonic ambitions and emotional richness of British rock in the wake of punk, Hook still yearned to sound like the Pistols and The Clash on <i>Closer</i>. “I wanted to rip people’s heads off with my guitar,” he says. “And I was absolutely wrong. Thankfully, Martin Hannett recognised the maturity of our songwriting and the strength in our songs that he felt needed playing down, making more seductive.”<br />
 The Manchester band arrived at Britannia Row with firm ideas for <i>Closer</i>’s nine songs, the product of jamming sessions fuelled by what Hook calls a “wonderful chemistry” between himself, Sumner, singer Ian Curtis and drummer Stephen Morris. Any enduring tension with Hannett—“He just thought Barney and I were a pair of idiots, but he felt very, very in tune with Ian”—was counterbalanced by what the studio offered in terms of sound, equipment and catering. “I think we had £1.50 a day to spend, so, literally, you could either have a pint or a sandwich, and that was the whole day,” says Hook. “If Britannia Row hadn’t put sandwiches out at teatime for free, I think we probably would’ve starved to death, to be honest.”<br />
 Hannett helped the band detach themselves from punk’s compressed rage by plugging in a growing arsenal of synths. With techniques cribbed from Motown’s recording processes, the producer explored the space within the music. Thrumming with reverb and ghostly tones, <i>Closer</i> is colder and more brutal than <i>Unknown Pleasures</i>, yet also more melodic. From the grotesque industrial clatter of “Atrocity Exhibition” to the doom-disco urgency of “Isolation”, it set new standards in bleak-hearted music—ones that legions of bands chase through the gloaming to this day. “To be cited as an inspiration for bands as varied as The 1975 to <i>anybody</i> is absolutely amazing,” says Hook. “And we didn't even know what we were doing. We had no idea. We were just a bunch of fucking idiots, all of us. It just shows you the magic of rock ’n’ roll.”<br />
@@ -54,6 +38,17 @@ Curtis died on 18 May 1980, aged 23. It would be a while before his bandmates co
         
     
 
+
+## Tracklisting
+1. Atrocity Exhibition
+2. Isolation
+3. Passover
+4. Colony
+5. A Means To An End
+6. Heart And Soul
+7. Twenty Four Hours
+8. The Eternal
+9. Decades
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closer-collectors-edition/266610001" >}}<br>

@@ -29,10 +29,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
-{{< img src="king-for-a-day-fool-for-a-lifetime-9020814.jpg" title="King For A Day Fool For A Lifetime by Faith No More" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Out		 (2:16)
 2. Ricochet (4:28)
 3. Evidence (4:54)
@@ -56,10 +55,6 @@ styles: ["Alternative Rock", "Hard Rock"]
 21. Hippie Jam Song (4:57)
 22. Evidence (Versione Italiana) (3:56)
 23. I Wanna F**k Myself (2:53)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815" >}}<br>

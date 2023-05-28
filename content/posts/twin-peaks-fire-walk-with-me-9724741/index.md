@@ -27,10 +27,15 @@ genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 ---
 
-{{< img src="twin-peaks-fire-walk-with-me-9724741.jpg" title="Twin Peaks: Fire Walk With Me by Angelo Badalamenti" >}}
+Twin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel to the television series Twin Peaks (1990–1991), created by Mark Frost and Lynch, who were also executive producers. It revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks. Unlike the series, which was an uncanny blend of detective fiction, horror, the supernatural, offbeat humor, and soap opera tropes, the film has a much darker, less humorous tone.Most of the television cast reprised their roles, though the majority of their scenes were cut. A few notable cast members, including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer, did not reappear for various reasons. Boyle's character Donna Hayward was recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of being typecast, which resulted in a smaller presence in the film than originally planned.
+Fire Walk With Me premiered at the 1992 Cannes Film Festival, where it was nominated for the Palme d'Or. It has long been reported that the film was booed and jeered by the audience there, though co-writer Robert Engels denies this happened. The film received polarized reviews from critics in the United States and was a box office failure domestically, but fared much better in Japan. It has been positively re-evaluated in the 21st century, with some critics considering it one of Lynch's major works. Two planned sequels never came to fruition, but 91 minutes worth of deleted scenes were released in 2014 through the compilation Twin Peaks: The Missing Pieces, and the story's narrative continued through the 2017 miniseries Twin Peaks: The Return.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Theme From Twin Peaks - Fire Walk With Me
 2. The Pine Float
 3. Sycamore Trees
@@ -43,16 +48,6 @@ styles: ["Soundtrack", "Abstract", "Smooth Jazz", "Ambient", "Score"]
 10. Moving Through Time
 11. Montage From Twin Peaks - Girl Talk / Birds In Hell / Laura Palmer's Theme / Falling
 12. The Voice Of Love
-
-<!-- section break -->
-
-Twin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel to the television series Twin Peaks (1990–1991), created by Mark Frost and Lynch, who were also executive producers. It revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks. Unlike the series, which was an uncanny blend of detective fiction, horror, the supernatural, offbeat humor, and soap opera tropes, the film has a much darker, less humorous tone.Most of the television cast reprised their roles, though the majority of their scenes were cut. A few notable cast members, including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer, did not reappear for various reasons. Boyle's character Donna Hayward was recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of being typecast, which resulted in a smaller presence in the film than originally planned.
-Fire Walk With Me premiered at the 1992 Cannes Film Festival, where it was nominated for the Palme d'Or. It has long been reported that the film was booed and jeered by the audience there, though co-writer Robert Engels denies this happened. The film received polarized reviews from critics in the United States and was a box office failure domestically, but fared much better in Japan. It has been positively re-evaluated in the 21st century, with some critics considering it one of Lynch's major works. Two planned sequels never came to fruition, but 91 minutes worth of deleted scenes were released in 2014 through the compilation Twin Peaks: The Missing Pieces, and the story's narrative continued through the 2017 miniseries Twin Peaks: The Return.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/twin-peaks-fire-walk-with-me-soundtrack-from-the/46734067" >}}<br>

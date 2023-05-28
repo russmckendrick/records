@@ -18,10 +18,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
 ---
 
-{{< img src="dazed-and-confused-music-from-motion-picture-19590373.jpg" title="Dazed and Confused (Music From Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rock And Roll, Hoochie Koo
 2. Slow Ride
 3. School's Out
@@ -36,10 +35,6 @@ styles: ["Classic Rock"]
 12. Highway Star
 13. Rock And Roll All Night
 14. Paranoid
-
-<!-- section break -->
-
-
 
 
 

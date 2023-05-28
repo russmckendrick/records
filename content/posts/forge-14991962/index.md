@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="forge-14991962.jpg" title="Forge by Fassine" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Forge (3:51)
 2. Limbs (5:02)
 3. Magpie (4:46)
@@ -29,10 +28,6 @@ styles: ["Indie Rock"]
 7. Max (5:52)
 8. Bloom (4:56)
 9. Hellsto (The Sweetness Came For Us) (3:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forge/1495646143" >}}<br>

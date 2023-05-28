@@ -16,17 +16,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
 
-{{< img src="los-amigos-del-beta-bandidos-4494532.jpg" title="Los Amigos Del Beta Bandidos by The Beta Band" >}}
-
-<!-- section break -->
-
-1. Push It Out
-2. It's Over
-3. Dr. Baker
-4. Needles In My Eyes
-
-<!-- section break -->
-
 Los Amigos del Beta Bandidos (Translated to 'The Friends of the Beta Bandits' in English) is the third release by The Beta Band, released in 1998. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and The Patty Patty Sound.
 Los Amigos del Beta Bandidos, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
 
@@ -34,6 +23,12 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
     
     
 
+
+## Tracklisting
+1. Push It Out
+2. It's Over
+3. Dr. Baker
+4. Needles In My Eyes
 
 
 

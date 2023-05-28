@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="101-damnations-928285.jpg" title="101 Damnations by Carter The Unstoppable Sex Machine" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Road To Domestos
 2. Everytime A Churchbell Rings
 3. Twenty Four Minutes From Tulse Hill
@@ -37,10 +36,6 @@ styles: ["Indie Rock"]
 9. Midnight On The Murder Mile
 10. A Perfect Day To Drop The Bomb
 11. G.I. Blues
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386" >}}<br>

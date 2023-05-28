@@ -21,10 +21,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 ---
 
-{{< img src="trainspotting-music-from-the-motion-picture-9329818.jpg" title="Trainspotting (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Lust For Life (5:11)
 2. Deep Blue Day (3:56)
 3. Trainspotting (10:33)
@@ -39,10 +38,6 @@ styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 12. A Final Hit (3:15)
 13. Born Slippy (NUXX) (9:43)
 14. Closet Romantic (3:08)
-
-<!-- section break -->
-
-
 
 
 

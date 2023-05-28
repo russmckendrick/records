@@ -18,10 +18,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="whiplash-11285438.jpg" title="Whiplash by James" >}}
+Whiplash is the seventh studio album by English rock band James. It was released on 24 February 1997, through Fontana Records. Following the release of the band's experimental sixth studio album Wah Wah (1994), they began working on a follow-up in 1995 at drummer David Baynton-Power's home studio. Over the course of 1995 and 1996, James recorded at several studios – Westside, The Windings,  Cafe Mullet, Real World, RAK, and Foel – with producers Stephen Hague, Brian Eno, and Baynton-Power. Described as electronic and folk rock release, the album mixed in elements of the band's previous two studio albums.
+Preceded by the release of Whiplash's lead single "She's a Star" in February 1997, James went on a United Kingdom tour the following month. The second single "Tomorrow" was released in April 1997; that same month, the band embarked on a tour of the United States. Shortly into the tour, frontman Tim Booth strained his neck, and later discovered that he had ruptured his C6 and C7 discs, causing the tour to be cancelled. The third single "Waltzing Along" was released in June 1997, coinciding with a stint on Lollapalooza until August of that year, when they appeared at the Reading Festival.
+Whiplash received generally positive reviews from music critics, some of whom noted James' attempt to mix their older sound with newer elements. It peaked at number 9 in the UK, while its singles all reached the UK top 30, the highest being "She's a Star" at number 9. Whiplash was later certified gold in the UK, and "She's a Star" was certified silver in the same territory.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Tomorrow (3:46)
 2. Lost A Friend (3:40)
 3. Waltzing Along (3:54)
@@ -33,15 +37,6 @@ styles: ["Alternative Rock"]
 9. Homeboy (2:38)
 10. Watering Hole (3:45)
 11. Blue Pastures (4:18)
-
-<!-- section break -->
-
-Whiplash is the seventh studio album by English rock band James. It was released on 24 February 1997, through Fontana Records. Following the release of the band's experimental sixth studio album Wah Wah (1994), they began working on a follow-up in 1995 at drummer David Baynton-Power's home studio. Over the course of 1995 and 1996, James recorded at several studios – Westside, The Windings,  Cafe Mullet, Real World, RAK, and Foel – with producers Stephen Hague, Brian Eno, and Baynton-Power. Described as electronic and folk rock release, the album mixed in elements of the band's previous two studio albums.
-Preceded by the release of Whiplash's lead single "She's a Star" in February 1997, James went on a United Kingdom tour the following month. The second single "Tomorrow" was released in April 1997; that same month, the band embarked on a tour of the United States. Shortly into the tour, frontman Tim Booth strained his neck, and later discovered that he had ruptured his C6 and C7 discs, causing the tour to be cancelled. The third single "Waltzing Along" was released in June 1997, coinciding with a stint on Lollapalooza until August of that year, when they appeared at the Reading Festival.
-Whiplash received generally positive reviews from music critics, some of whom noted James' attempt to mix their older sound with newer elements. It peaked at number 9 in the UK, while its singles all reached the UK top 30, the highest being "She's a Star" at number 9. Whiplash was later certified gold in the UK, and "She's a Star" was certified silver in the same territory.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whiplash-digitally-remastered/1442989104" >}}<br>

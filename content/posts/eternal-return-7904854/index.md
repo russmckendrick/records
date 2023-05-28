@@ -19,10 +19,14 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="eternal-return-7904854.jpg" title="Eternal Return by Sarah Blasko" >}}
+Eternal Return is the fifth studio album by ARIA award-winning Australian singer-songwriter Sarah Blasko. The album was released on 6 November 2015 through EMI in Australia and Amazon in the US, and in the UK on 5 February 2016 through MVKA.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Am Ready
 2. I Wanna Be Your Man
 3. Better With You
@@ -33,15 +37,6 @@ styles: []
 8. Only One
 9. Say What You Want
 10. Without
-
-<!-- section break -->
-
-Eternal Return is the fifth studio album by ARIA award-winning Australian singer-songwriter Sarah Blasko. The album was released on 6 November 2015 through EMI in Australia and Amazon in the US, and in the UK on 5 February 2016 through MVKA.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eternal-return/1053501895" >}}<br>

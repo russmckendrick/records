@@ -27,10 +27,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop"]
 ---
 
-{{< img src="head-music-5448682.jpg" title="Head Music by Suede" >}}
+Head Music is the fourth album by English alternative rock band Suede, released by Nude Records in May 1999. Produced and mixed by Steve Osborne, Head Music features a more electronic sound, which was a new approach for the band. The recording of Head Music was plagued with difficulties such as singer Brett Anderson's addiction to crack, and keyboardist Neil Codling's struggle with chronic fatigue syndrome. The album still went to number 1 on the UK Albums Chart, however, making it the band's third and final chart-topping album. Overall, the album received generally favourable reviews from critics.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Electricity (4:39)
 2. Savoir Faire (4:37)
 3. Can't Get Enough (3:58)
@@ -44,14 +47,6 @@ styles: ["Alternative Rock", "Britpop"]
 11. Indian Strings (4:21)
 12. He's Gone (5:35)
 13. Crack In The Union Jack (1:56)
-
-<!-- section break -->
-
-Head Music is the fourth album by English alternative rock band Suede, released by Nude Records in May 1999. Produced and mixed by Steve Osborne, Head Music features a more electronic sound, which was a new approach for the band. The recording of Head Music was plagued with difficulties such as singer Brett Anderson's addiction to crack, and keyboardist Neil Codling's struggle with chronic fatigue syndrome. The album still went to number 1 on the UK Albums Chart, however, making it the band's third and final chart-topping album. Overall, the album received generally favourable reviews from critics.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/head-music-remastered/435028645" >}}<br>

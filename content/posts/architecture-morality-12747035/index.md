@@ -20,10 +20,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="architecture-morality-12747035.jpg" title="Architecture & Morality by Orchestral Manoeuvres In The Dark" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The New Stone Age
 2. She's Leaving
 3. Souvenir
@@ -33,10 +32,6 @@ styles: ["Synth-pop"]
 7. Architecture & Morality
 8. Georgia
 9. The Beginning And The End
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/architecture-morality/714757729" >}}<br>

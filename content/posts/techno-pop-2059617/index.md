@@ -23,10 +23,9 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="techno-pop-2059617.jpg" title="Techno Pop by Kraftwerk" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Boing Boom Tschak (2:58)
 2. Techno Pop (7:42)
 3. Musique Non Stop (5:44)
@@ -34,10 +33,6 @@ styles: ["Electro", "Synth-pop"]
 5. House Phone (4:56)
 6. Sex Object (6:51)
 7. Electric Cafe (4:17)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>

@@ -21,10 +21,9 @@ genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="le-kov-11638501.jpg" title="Le Kov by Gwenno" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hi A Skoellyas Liv A Dhagrow
 2. Tir Ha Mor
 3. Herdhya
@@ -35,10 +34,6 @@ styles: ["Indie Pop"]
 8. Aremorika
 9. Hunros
 10. Koweth Ker
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/le-kov/1316525300" >}}<br>

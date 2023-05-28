@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="there-is-no-time-24780821.jpg" title="There Is No Time by Church Of The Cosmic Skull" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Seven Rays Of Colour (4:08)
 2. Pleading With The Cosmic Mother (3:29)
 3. One More Step (5:50)
@@ -33,10 +32,6 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 6. Now's The Time (4:33)
 7. Last Words Of A Dying God (3:22)
 8. We Lost It Somewhere (5:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/there-is-no-time/1612636667" >}}<br>

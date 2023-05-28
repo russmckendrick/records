@@ -22,10 +22,9 @@ genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="the-beast-inside-21038797.jpg" title="The Beast Inside by Inspiral Carpets" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Caravan
 2. Please Be Cruel
 3. Born Yesterday
@@ -37,10 +36,6 @@ styles: ["Indie Pop"]
 9. Mermaid
 10. Further Away
 11. Dreams Are All We Have
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}<br>

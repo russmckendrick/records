@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
 
-{{< img src="return-to-the-37th-chamber-10178866.jpg" title="Return To The 37th Chamber by El Michels Affair" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 4th Chamber
 2. Iron Man
 3. Shaolin Brew
@@ -38,10 +37,6 @@ styles: ["Funk", "Soul"]
 11. Wu-Tang Clan Aint Nuthing Ta F' Wit
 12. All I Need
 13. The End (Eat My Vocals)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782" >}}<br>

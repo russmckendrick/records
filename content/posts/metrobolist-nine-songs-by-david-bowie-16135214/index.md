@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Glam", "Hard Rock"]
 ---
 
-{{< img src="metrobolist-nine-songs-by-david-bowie-16135214.jpg" title="Metrobolist (Nine Songs By David Bowie) by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Width Of A Circle (8:10)
 2. All The Madmen (5:25)
 3. Black Country Rock (3:36)
@@ -35,10 +34,6 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 7. She Shook Me Cold (4:14)
 8. The Man Who Sold The World (4:04)
 9. The Supermen (3:45)
-
-<!-- section break -->
-
-
 
 
 

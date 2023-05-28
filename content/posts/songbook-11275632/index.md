@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="songbook-11275632.jpg" title="Songbook by Frank Turner" >}}
+A decade after releasing his first solo album, Frank Turner gathers his favorite songs from 10 years of impassioned folk-punk. From a roaring paean to the mosh pit (“Four Simple Words”) to bittersweet reflections on ill-fated romance (“Mittens”), the first half is a best-of collection marked by the intensity, craft, and melody that’s made Turner an arena headliner. <i>Songbook</i>’s second part presents old songs in new forms. Some are simply revitalized, others completely reimagined—including the transformation of “Glorious You” from a fuzzy rocker into a tender ballad.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Four Simple Words (4:57)
 2. I Still Believe (3:46)
 3. The Next Storm (3:36)
@@ -53,13 +55,6 @@ styles: ["Folk Rock"]
 27. Broken Piano (5:33)
 28. Long Live The Queen (3:42)
 29. The Ballad Of Me And My Friends (3:00)
-
-<!-- section break -->
-
-A decade after releasing his first solo album, Frank Turner gathers his favorite songs from 10 years of impassioned folk-punk. From a roaring paean to the mosh pit (“Four Simple Words”) to bittersweet reflections on ill-fated romance (“Mittens”), the first half is a best-of collection marked by the intensity, craft, and melody that’s made Turner an arena headliner. <i>Songbook</i>’s second part presents old songs in new forms. Some are simply revitalized, others completely reimagined—including the transformation of “Glorious You” from a fuzzy rocker into a tender ballad.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songbook/1440909143" >}}<br>

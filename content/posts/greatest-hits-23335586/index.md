@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="greatest-hits-23335586.jpg" title="Greatest Hits by Whitesnake" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Still Of The Night (6:50)
 2. Here I Go Again (4:32)
 3. Is This Love (5:03)
@@ -36,10 +35,6 @@ styles: ["Hard Rock"]
 14. You're Gonna Break My Heart Again (4:16)
 15. Crying In The Rain (5:47)
 16. Forevermore (7:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whitesnakes-greatest-hits/699743480" >}}<br>

@@ -35,10 +35,12 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
 
-{{< img src="the-singles-9196545.jpg" title="The Singles by Phil Collins" >}}
+The Singles is a compilation album by English drummer Phil Collins. It was released on 14 October 2016 through Atlantic Records and Warner Music. The album is Collins' fourth compilation album—after ...Hits (1998), The Platinum Collection (2004) and Love Songs: A Compilation... Old and New (2004)—and came at the end of his Take a Look at Me Now series, which saw him remaster and reissue his entire back catalogue dating back to 1981's Face Value. The compilation is made up of most of the hit singles from Collins' solo career, as well as lesser known singles. The album was released in two versions, a standard 2-CD edition and a deluxe 3-CD edition. A vinyl edition was also released, first available as a 4-LP set with the same track list as in standard 2-CD edition, but it was, in 2018, replaced with a 2-LP set, which have only 19 selected tracks from previous version.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Easy Lover (5:03)
 2. Two Hearts (3:24)
 3. Sussudio (4:23)
@@ -72,13 +74,6 @@ styles: ["Pop Rock", "Ballad"]
 31. Look Through My Eyes (4:00)
 32. Another Day In Paradise (5:23)
 33. Take Me Home (5:53)
-
-<!-- section break -->
-
-The Singles is a compilation album by English drummer Phil Collins. It was released on 14 October 2016 through Atlantic Records and Warner Music. The album is Collins' fourth compilation album—after ...Hits (1998), The Platinum Collection (2004) and Love Songs: A Compilation... Old and New (2004)—and came at the end of his Take a Look at Me Now series, which saw him remaster and reissue his entire back catalogue dating back to 1981's Face Value. The compilation is made up of most of the hit singles from Collins' solo career, as well as lesser known singles. The album was released in two versions, a standard 2-CD edition and a deluxe 3-CD edition. A vinyl edition was also released, first available as a 4-LP set with the same track list as in standard 2-CD edition, but it was, in 2018, replaced with a 2-LP set, which have only 19 selected tracks from previous version.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-singles-deluxe-edition/1148701635" >}}<br>

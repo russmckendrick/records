@@ -20,10 +20,9 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues", "Mod"]
 ---
 
-{{< img src="quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777.jpg" title="Quadrophenia (Music From The Soundtrack Of The Who Film) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Am The Sea
 2. The Real Me
 3. I'm One
@@ -46,10 +45,6 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 20. He's So Fine
 21. Be My Baby
 22. Da Doo Ron Ron
-
-<!-- section break -->
-
-
 
 
 

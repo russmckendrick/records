@@ -21,20 +21,15 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="larks-tongues-in-aspic-9596844.jpg" title="Larks' Tongues In Aspic by King Crimson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Larks' Tongues In Aspic, Part One (13:36)
 2. Book Of Saturday (2:59)
 3. Exiles (7:37)
 4. Easy Money (7:51)
 5. The Talking Drum (7:28)
 6. Larks' Tongues In Aspic, Part Two (7:10)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/larks-tongues-in-aspic-expanded-edition/918568338" >}}<br>

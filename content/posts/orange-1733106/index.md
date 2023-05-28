@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ---
 
-{{< img src="orange-1733106.jpg" title="Orange by The Jon Spencer Blues Explosion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bellbottoms (5:17)
 2. Ditch (2:34)
 3. Dang (1:59)
@@ -38,10 +37,6 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 11. Full Grown (3:19)
 12. Flavor (6:16)
 13. Greyhound (4:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orange/1169152194" >}}<br>

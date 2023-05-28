@@ -44,10 +44,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock"]
 ---
 
-{{< img src="live-at-knebworth-1990-18503998.jpg" title="Live At Knebworth 1990 by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Shine On You Crazy Diamond, Parts 1-5
 2. The Great Gig In The Sky
 3. Wish You Were Here
@@ -55,10 +54,6 @@ styles: ["Classic Rock", "Prog Rock"]
 5. Money
 6. Comfortably Numb
 7. Run Like Hell
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602" >}}<br>

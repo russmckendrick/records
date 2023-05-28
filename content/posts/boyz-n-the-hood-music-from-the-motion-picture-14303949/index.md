@@ -22,10 +22,9 @@ genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 ---
 
-{{< img src="boyz-n-the-hood-music-from-the-motion-picture-14303949.jpg" title="Boyz N The Hood (Music From The Motion Picture) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. How To Survive In South Central (3:40)
 2. Just Ask Me To (4:08)
 3. Mama Don't Take No Mess (4:05)
@@ -40,10 +39,6 @@ styles: ["RnB/Swing", "Soundtrack", "Gangsta"]
 12. Spirit (Does Anyone Care?) (4:19)
 13. Setembro
 14. Black On Black Crime
-
-<!-- section break -->
-
-
 
 
 

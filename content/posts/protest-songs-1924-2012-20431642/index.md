@@ -32,10 +32,9 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-{{< img src="protest-songs-1924-2012-20431642.jpg" title="Protest Songs 1924-2012 by The Specials" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Freedom Highway
 2. Everybody Knows
 3. I Don't Mind Failing In This World
@@ -48,10 +47,6 @@ styles: ["Ska"]
 10. I Live In A City
 11. Soldiers Who Want To Be Heroes
 12. Get Up, Stand Up
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/protest-songs-1924-2012/1575774360" >}}<br>

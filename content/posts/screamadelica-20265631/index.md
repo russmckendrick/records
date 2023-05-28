@@ -21,10 +21,12 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 ---
 
-{{< img src="screamadelica-20265631.jpg" title="Screamadelica by Primal Scream" >}}
+Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Movin' On Up
 2. Slip Inside This House
 3. Don't Fight It, Feel It
@@ -36,13 +38,6 @@ styles: ["Downtempo", "Dub", "Indie Rock", "Acid House"]
 9. I'm Comin' Down
 10. Higher Than The Sun (A Dub Symphony In Two Parts)
 11. Shine Like Stars
-
-<!-- section break -->
-
-Before acid house, Primal Scream were your average, jangly psych-rock act. Then rave hit and the late, great Andrew Weatherall signed on to produce their third album, <i>Screamadelica</i>, and a generation's collective mind was blown. Their roots are evident in the Stones-style blues rock of "Movin' On Up", but the '60s quickly melt away as they dive into house beats, synth bleeps, dubbed-out remixology and the mind-bending chillout bliss of "Higher Than the Sun" and "I'm Comin' Down". Dancing in muddy fields would never be the same again.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}<br>

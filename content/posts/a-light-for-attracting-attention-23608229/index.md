@@ -33,10 +33,19 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="a-light-for-attracting-attention-23608229.jpg" title="A Light For Attracting Attention by The Smile" >}}
+If The Smile ever seemed like a surprisingly upbeat name for a band containing two members of Radiohead (Thom Yorke and Jonny Greenwood, joined by Sons of Kemet drummer Tom Skinner), the trio used their debut gig to offer some clarification. Performing as part of Glastonbury Festival’s Live at Worthy Farm livestream in May 2021, Yorke announced, “We are called The Smile: not The Smile as in ‘Aaah!’—more the smile of the guy who lies to you every day.” To grasp the mood of their debut album, it’s instructive to go even deeper into a name that borrows the title of a 1970 Ted Hughes poem. In Hughes’ impressionist verse, some elemental force—compassion, humanity, love maybe—rises up to resist the deception and chicanery behind such disarming grins. And as much as the 13 songs on <i>A Light for Attracting Attention</i> sense crisis and dystopia looming, they also crackle with hope and insurrection.
 
-<!-- section break -->
+The pulsing electronics of opener “The Same” suggest the racing hearts and throbbing temples of our age of acute anxiety, and Yorke’s words feel like a call for unity and mobilisation: “We don’t need to fight/Look towards the light/Grab it in with both hands/What you know is right.” Perennially contemplating the dynamics of power and thought, he surveys a world where “devastation has come” (“Speech Bubbles”) under the rule of “elected billionaires” (“The Opposite”), but it’s one where protest, however extreme, can still birth change (“The Smoke”). Amid scathing guitars and outbursts of free jazz, his invective zooms in on abuses of power (“You Will Never Work in Television Again”) before shaming inertia and blame-shifters on the scurrying beats and descending melodies of “A Hairdryer”.
 
+These aren’t exactly new themes for Yorke and it’s not a record that sits at an extreme outpost of Radiohead’s extended universe. Emboldened by Skinner’s fluid, intrepid rhythms, <i>A Light for Attracting Attention</i> draws frequently on various periods of Yorke and Greenwood’s past work. The emotional eloquence of Greenwood’s soundtrack projects resurfaces on “Speech Bubbles” and “Pana-Vision”, while Yorke’s fascination with digital reveries continues to be explored on “Open the Floodgates” and “The Same”. Elegantly cloaked in strings, “Free in the Knowledge” is a beautiful acoustic-guitar ballad in the lineage of Radiohead’s “Fake Plastic Trees” and the original live version of “True Love Waits”. Of course, lesser-trodden ground is visited, too: most intriguingly, math-rock (“Thin Thing”) and folk songs fit for a ’70s sci-fi drama (“Waving a White Flag”).
+
+The album closes with “Skrting on the Surface”, a song first aired at a 2009 show Yorke played with Atoms for Peace. With Greenwood’s guitar arpeggios and Yorke’s aching falsetto, it calls back even further to <i>The Bends</i>’ finale, “Street Spirit (Fade Out)”. However, its message about the fragility of existence—“When we realise we have only to die, then we’re out of here/We’re just skirting on the surface”—remains sharply resonant.
+        
+        
+    
+
+
+## Tracklisting
 1. The Same
 2. The Opposite
 3. You Will Never Work In Television Again
@@ -50,20 +59,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Waving A White Flag
 12. We Don't Know What Tomorrow Brings
 13. Skrting On The Surface
-
-<!-- section break -->
-
-If The Smile ever seemed like a surprisingly upbeat name for a band containing two members of Radiohead (Thom Yorke and Jonny Greenwood, joined by Sons of Kemet drummer Tom Skinner), the trio used their debut gig to offer some clarification. Performing as part of Glastonbury Festival’s Live at Worthy Farm livestream in May 2021, Yorke announced, “We are called The Smile: not The Smile as in ‘Aaah!’—more the smile of the guy who lies to you every day.” To grasp the mood of their debut album, it’s instructive to go even deeper into a name that borrows the title of a 1970 Ted Hughes poem. In Hughes’ impressionist verse, some elemental force—compassion, humanity, love maybe—rises up to resist the deception and chicanery behind such disarming grins. And as much as the 13 songs on <i>A Light for Attracting Attention</i> sense crisis and dystopia looming, they also crackle with hope and insurrection.
-
-The pulsing electronics of opener “The Same” suggest the racing hearts and throbbing temples of our age of acute anxiety, and Yorke’s words feel like a call for unity and mobilisation: “We don’t need to fight/Look towards the light/Grab it in with both hands/What you know is right.” Perennially contemplating the dynamics of power and thought, he surveys a world where “devastation has come” (“Speech Bubbles”) under the rule of “elected billionaires” (“The Opposite”), but it’s one where protest, however extreme, can still birth change (“The Smoke”). Amid scathing guitars and outbursts of free jazz, his invective zooms in on abuses of power (“You Will Never Work in Television Again”) before shaming inertia and blame-shifters on the scurrying beats and descending melodies of “A Hairdryer”.
-
-These aren’t exactly new themes for Yorke and it’s not a record that sits at an extreme outpost of Radiohead’s extended universe. Emboldened by Skinner’s fluid, intrepid rhythms, <i>A Light for Attracting Attention</i> draws frequently on various periods of Yorke and Greenwood’s past work. The emotional eloquence of Greenwood’s soundtrack projects resurfaces on “Speech Bubbles” and “Pana-Vision”, while Yorke’s fascination with digital reveries continues to be explored on “Open the Floodgates” and “The Same”. Elegantly cloaked in strings, “Free in the Knowledge” is a beautiful acoustic-guitar ballad in the lineage of Radiohead’s “Fake Plastic Trees” and the original live version of “True Love Waits”. Of course, lesser-trodden ground is visited, too: most intriguingly, math-rock (“Thin Thing”) and folk songs fit for a ’70s sci-fi drama (“Waving a White Flag”).
-
-The album closes with “Skrting on the Surface”, a song first aired at a 2009 show Yorke played with Atoms for Peace. With Greenwood’s guitar arpeggios and Yorke’s aching falsetto, it calls back even further to <i>The Bends</i>’ finale, “Street Spirit (Fade Out)”. However, its message about the fragility of existence—“When we realise we have only to die, then we’re out of here/We’re just skirting on the surface”—remains sharply resonant.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-light-for-attracting-attention/1616902433" >}}<br>

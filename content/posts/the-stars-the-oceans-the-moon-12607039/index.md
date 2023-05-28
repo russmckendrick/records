@@ -30,10 +30,9 @@ genres: ["Pop"]
 styles: []
 ---
 
-{{< img src="the-stars-the-oceans-the-moon-12607039.jpg" title="The Stars, The Oceans & The Moon by Echo & The Bunnymen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Bring On The Dancing Horses
 2. Lips Like Sugar
 3. Nothing Lasts Forever
@@ -49,10 +48,6 @@ styles: []
 13. The Cutter
 14. How Far?
 15. The Killing Moon
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-stars-the-oceans-the-moon/1313459800" >}}<br>

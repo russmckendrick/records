@@ -21,10 +21,15 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Psychedelic Rock", "Soul", "Funk"]
 ---
 
-{{< img src="greatest-hits-11281399.jpg" title="Greatest Hits by Sly & The Family Stone" >}}
+Greatest Hits is a compilation album by the American group Sly and the Family Stone. It was first released on November 21, 1970, by Epic Records. The album includes all of the singles from the albums Dance to the Music (1968), Life (1968), and Stand! (1969). 
+Three tracks released on singles in 1969 appear on album for the first time here: "Hot Fun in the Summertime", "Everybody Is a Star", and "Thank You (Falettinme Be Mice Elf Agin)".
+The recordings on this compilation are not the same as the single versions in all cases; some songs appear here in their album lengths and mixes. Mixes sometimes have different editing and changes in vocals and or instrumentation.
+Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Want To Take You Higher (5:22)
 2. Everybody Is A Star (3:00)
 3. Stand! (3:08)
@@ -37,16 +42,6 @@ styles: ["Psychedelic Rock", "Soul", "Funk"]
 10. M'Lady (2:44)
 11. Sing A Simple Song (4:47)
 12. Thank You (Falettinme Be Mice Elf Agin) (3:55)
-
-<!-- section break -->
-
-Greatest Hits is a compilation album by the American group Sly and the Family Stone. It was first released on November 21, 1970, by Epic Records. The album includes all of the singles from the albums Dance to the Music (1968), Life (1968), and Stand! (1969). 
-Three tracks released on singles in 1969 appear on album for the first time here: "Hot Fun in the Summertime", "Everybody Is a Star", and "Thank You (Falettinme Be Mice Elf Agin)".
-The recordings on this compilation are not the same as the single versions in all cases; some songs appear here in their album lengths and mixes. Mixes sometimes have different editing and changes in vocals and or instrumentation.
-Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}<br>

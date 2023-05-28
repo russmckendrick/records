@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="trouble-maker-10418344.jpg" title="Trouble Maker by Rancid" >}}
+Rancid’s ninth studio album arrives 24 years after their debut, but time hasn’t diminished their energy; this rollicking set finds the Berkeley punks as raw, committed, and passionate as they’ve ever been. The years have given them plenty of memories, and nostalgia rises off <i>Trouble Maker</i> like steam from a mosh pit, whether they’re saluting punk’s departed icons (“Say Goodbye to Our Heroes”), remembering good times with good company (“Buddy”), or venerating Berkeley’s activist history (“Telegraph Avenue”).
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Track Fast	
 2. Ghost Of A Chance
 3. Telegraph Avenue
@@ -41,13 +43,6 @@ styles: ["Punk", "Ska"]
 15. I Kept A Promise
 16. Cold Cold Blood
 17. This Is Not The End
-
-<!-- section break -->
-
-Rancid’s ninth studio album arrives 24 years after their debut, but time hasn’t diminished their energy; this rollicking set finds the Berkeley punks as raw, committed, and passionate as they’ve ever been. The years have given them plenty of memories, and nostalgia rises off <i>Trouble Maker</i> like steam from a mosh pit, whether they’re saluting punk’s departed icons (“Say Goodbye to Our Heroes”), remembering good times with good company (“Buddy”), or venerating Berkeley’s activist history (“Telegraph Avenue”).
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trouble-maker-deluxe-edition/1485069298" >}}<br>

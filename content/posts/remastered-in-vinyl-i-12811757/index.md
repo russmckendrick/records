@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="remastered-in-vinyl-i-12811757.jpg" title="Remastered In Vinyl I by Kate Bush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Kick Inside
 2. Moving
 3. The Saxophone Song
@@ -75,10 +74,6 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 46. All The Love
 47. Houdini
 48. Get Out Of My House
-
-<!-- section break -->
-
-
 
 
 

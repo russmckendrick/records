@@ -33,10 +33,15 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 ---
 
-{{< img src="born-in-the-u-s-a-1551256.jpg" title="Born In The U.S.A. by Bruce Springsteen" >}}
+"Born in the U.S.A." is a song written and performed by Bruce Springsteen, and released in 1984 on the album of the same name. One of Springsteen's best-known singles, it was ranked 275th on Rolling Stone's list of "The 500 Greatest Songs of All Time", and in 2001, the RIAA's Songs of the Century placed the song 59th (out of 365), remaining a favorite in classic rock. The song addresses the economic hardships of Vietnam veterans upon their return home, juxtaposed ironically against patriotic glorification of the nation's fighting forces.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Born In The U.S.A. (4:39)
 2. Cover Me (3:26)
 3. Darlington County (4:48)
@@ -49,16 +54,6 @@ styles: ["Pop Rock", "Arena Rock", "Rock & Roll"]
 10. Glory Days (4:15)
 11. Dancing In The Dark (4:01)
 12. My Hometown (4:33)
-
-<!-- section break -->
-
-"Born in the U.S.A." is a song written and performed by Bruce Springsteen, and released in 1984 on the album of the same name. One of Springsteen's best-known singles, it was ranked 275th on Rolling Stone's list of "The 500 Greatest Songs of All Time", and in 2001, the RIAA's Songs of the Century placed the song 59th (out of 365), remaining a favorite in classic rock. The song addresses the economic hardships of Vietnam veterans upon their return home, juxtaposed ironically against patriotic glorification of the nation's fighting forces.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}<br>

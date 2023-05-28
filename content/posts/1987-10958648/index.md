@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Hard Rock"]
 ---
 
-{{< img src="1987-10958648.jpg" title="1987 by Whitesnake" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 2017 Remaster
 2. Still Of The Night
 3. Bad Boys
@@ -50,10 +49,6 @@ styles: ["Classic Rock", "Hard Rock"]
 19. Is This Love (Live)
 20. Give Me All Your Love (Live)
 21. Still of the Night (Live)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}<br>

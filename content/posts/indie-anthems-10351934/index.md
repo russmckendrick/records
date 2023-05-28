@@ -21,10 +21,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ---
 
-{{< img src="indie-anthems-10351934.jpg" title="Indie Anthems by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Trash
 2. Just
 3. One To Another
@@ -45,10 +44,6 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 18. Here Comes Your Man
 19. Sparky's Dream
 20. Come Together
-
-<!-- section break -->
-
-
 
 
 ## Spotify

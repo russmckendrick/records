@@ -21,18 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Trip Hop", "Experimental"]
 ---
 
-{{< img src="champion-versions-7425314.jpg" title="Champion Versions by The Beta Band" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dry The Rain (6:05)
 2. I Know (4:00)
 3. B+A (6:35)
 4. Dogs Got A Bone (5:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/champion-feat-chewiecatt-mack-on-the-beat-single/1582868947" >}}<br>

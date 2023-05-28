@@ -28,10 +28,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="zappa-original-motion-picture-soundtrack-18681091.jpg" title="Zappa (Original Motion Picture Soundtrack) by Frank Zappa" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Motherly Love (2:43)
 2. Memories Of El Monte (4:14)
 3. Oh! In The Sky (1:56)
@@ -53,10 +52,6 @@ styles: ["Soundtrack"]
 19. Get Whitey  (6:31)
 20. G-Spot Tornado (4:00)
 21. Watermelon In Easter Hay (Live)  (6:07)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239" >}}<br>

@@ -16,10 +16,12 @@ genres: ["Hip Hop", "Rock", "Reggae"]
 styles: ["Dub", "Alternative Rock"]
 ---
 
-{{< img src="audioweb-19184125.jpg" title="Audioweb by Audioweb" >}}
+Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Sleeper (5:15)
 2. Yeah? (4:00)
 3. Into My World (4:20)
@@ -30,13 +32,6 @@ styles: ["Dub", "Alternative Rock"]
 8. Bankrobber (3:40)
 9. Lover (4:30)
 10. Drip Feed (8:24)
-
-<!-- section break -->
-
-Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/audioweb/1442541735" >}}<br>

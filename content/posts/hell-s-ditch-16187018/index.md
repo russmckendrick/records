@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="hell-s-ditch-16187018.jpg" title="Hell's Ditch by The Pogues" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Sunnyside Of The Street
 2. Sayonara
 3. The Ghost Of A Smile
@@ -36,10 +35,6 @@ styles: ["Folk Rock"]
 11. 5 Green Queens And Jean
 12. Maidrín Rua
 13. Six To Go
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803" >}}<br>

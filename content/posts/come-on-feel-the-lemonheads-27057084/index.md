@@ -34,10 +34,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Country Rock"]
 ---
 
-{{< img src="come-on-feel-the-lemonheads-27057084.jpg" title="Come On Feel The Lemonheads by The Lemonheads" >}}
+Come on Feel the Lemonheads is the sixth studio album by American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Great Big No (2:51)
 2. Into Your Arms (2:44)
 3. It's About Time (2:41)
@@ -69,13 +71,6 @@ styles: ["Alternative Rock", "Country Rock"]
 29. Frying Pan (3:10)
 30. He's On The Beach (3:03)
 31. Favorite T (Live In Session) (2:25)
-
-<!-- section break -->
-
-Come on Feel the Lemonheads is the sixth studio album by American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046" >}}<br>

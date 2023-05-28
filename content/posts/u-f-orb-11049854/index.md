@@ -22,10 +22,9 @@ genres: ["Electronic"]
 styles: ["Ambient", "Dub", "House"]
 ---
 
-{{< img src="u-f-orb-11049854.jpg" title="U.F.Orb by The Orb" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. O.O.B.E (12:51)
 2. U.F. Orb (6:08)
 3. Blue Room (17:34)
@@ -33,10 +32,6 @@ styles: ["Ambient", "Dub", "House"]
 5. Close Encounters (10:27)
 6. Majestic (11:06)
 7. Sticky End (0:49)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/u-f-orb-deluxe-edition/1444192610" >}}<br>

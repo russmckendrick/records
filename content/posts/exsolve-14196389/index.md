@@ -21,18 +21,13 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "Post-Metal", "Post Rock"]
 ---
 
-{{< img src="exsolve-14196389.jpg" title="Exsolve by Jo Quail" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Forge - Of Two Forms (17:50)
 2. Mandrel Cantus (11:23)
 3. Causleen's Wheel (15:26)
 4. Reya Pavan (10:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exsolve/1438778156" >}}<br>

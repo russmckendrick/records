@@ -24,10 +24,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Noise", "Experimental", "Ambient"]
 ---
 
-{{< img src="replicr-2019-14191140.jpg" title="replicr, 2019 by 65daysofstatic" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. pretext (2:15)
 2. stillstellung (3:37)
 3. d|| tl | | | (1:43)
@@ -56,10 +55,6 @@ styles: ["Noise", "Experimental", "Ambient"]
 26. z03 (4:08)
 27. u| || | th | r| d (2:01)
 28. trackerplatz (3:41)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicr-2019/1471952343" >}}<br>

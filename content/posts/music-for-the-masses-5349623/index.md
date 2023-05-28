@@ -24,10 +24,16 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="music-for-the-masses-5349623.jpg" title="Music For The Masses by Depeche Mode" >}}
+Music for the Masses is the sixth studio album by English electronic music band Depeche Mode, released on 28 September 1987 by Mute Records. The album was supported by the Music for the Masses Tour, which launched their fame in the US when they performed at the Rose Bowl in Pasadena. The tour led to the creation and filming of the documentary/live album titled 101. This saw the band using heavy amounts of sampling, much like they did in their previous album Black Celebration.
+Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Never Let Me Down Again (4:47)
 2. The Things You Said (3:55)
 3. Strangelove (4:38)
@@ -38,17 +44,6 @@ styles: ["Synth-pop"]
 8. To Have And To Hold (3:08)
 9. Nothing (4:12)
 10. Pimpf (3:56)
-
-<!-- section break -->
-
-Music for the Masses is the sixth studio album by English electronic music band Depeche Mode, released on 28 September 1987 by Mute Records. The album was supported by the Music for the Masses Tour, which launched their fame in the US when they performed at the Rose Bowl in Pasadena. The tour led to the creation and filming of the documentary/live album titled 101. This saw the band using heavy amounts of sampling, much like they did in their previous album Black Celebration.
-Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}<br>

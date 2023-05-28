@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-first-of-too-many-4677659.jpg" title="The First Of Too Many by Senseless Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Everybody's Gone
 2. Best Friend
 3. Ex Teenager
@@ -37,10 +36,6 @@ styles: ["Indie Rock"]
 13. Wrong Number
 14. Different Tongues
 15. Fishing At Tescos
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}<br>

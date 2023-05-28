@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="undertow-8126263.jpg" title="Undertow by Tool" >}}
+Undertow is the debut studio album by American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
+According to AllMusic, Undertow helped heavy metal music remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Intolerance (4:54)
 2. Prison Sex (4:55)
 3. Sober (5:06)
@@ -37,15 +41,6 @@ styles: ["Hard Rock", "Prog Rock"]
 8. 4° (6:02)
 9. Flood (7:45)
 10. Disgustipated (15:47)
-
-<!-- section break -->
-
-Undertow is the debut studio album by American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
-According to AllMusic, Undertow helped heavy metal music remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/undertow/1474185287" >}}<br>

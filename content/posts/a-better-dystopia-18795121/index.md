@@ -23,26 +23,6 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-{{< img src="a-better-dystopia-18795121.jpg" title="A Better Dystopia by Monster Magnet" >}}
-
-<!-- section break -->
-
-1. The Diamond Mine
-2. Born To Go
-3. Epitaph For A Head
-4. Solid Gold Hell
-5. Be Forewarned
-6. Mr. Destroyer
-7. When The Wolf Sits
-8. Death
-9. Situation
-10. It's Trash
-11. Motorcycle (Straight To Hell)
-12. Learning To Die
-13. Welcome To The Void
-
-<!-- section break -->
-
 For the last three decades, Monster Magnet have been the reigning champions of heavy ’70s-inspired stoner rock. <i>A Better Dystopia</i> sees Magnet mastermind Dave Wyndorf and his crew of musical mutants cherry-picking some of the heaviest and weirdest late-’60s and early-’70s (and beyond) proto-metal deep cuts for a lysergic covers extravaganza. From underground titans like Pentagram and Hawkwind to hopelessly obscure freak squads like The Cave Men and J. D. Blackfoot, <i>A Better Dystopia</i> is Monster Magnet interpreting some of the music that made them the rock ’n’ roll powerhouse they are today. “These songs are beloved by me and have been forever,” Wyndorf tells Apple Music. Below, he holds forth on each track.<br />
 <b>“The Diamond Mine”</b>
 “I needed something to start the record off, and it had to come from my list of favourite things of all time. And some of my favourite audio of all time is not just music, but stuff like The Buddy Rich tapes or Dave Diamond, the great psychedelic DJ from the ’60s and ’70s. I thought if I could pull off a Dave Diamond monologue, how great would that be? So I found the words on the internet, but the insanity took over and I didn’t even have to look at them when we recorded this.”<br /> 
@@ -73,6 +53,21 @@ For the last three decades, Monster Magnet have been the reigning champions of h
     
     
 
+
+## Tracklisting
+1. The Diamond Mine
+2. Born To Go
+3. Epitaph For A Head
+4. Solid Gold Hell
+5. Be Forewarned
+6. Mr. Destroyer
+7. When The Wolf Sits
+8. Death
+9. Situation
+10. It's Trash
+11. Motorcycle (Straight To Hell)
+12. Learning To Die
+13. Welcome To The Void
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-better-dystopia/1556528562" >}}<br>

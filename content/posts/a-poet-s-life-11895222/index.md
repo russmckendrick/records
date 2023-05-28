@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-{{< img src="a-poet-s-life-11895222.jpg" title="A Poet's Life by Tim Armstrong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wake Up
 2. Hold On
 3. Into Action
@@ -39,10 +38,6 @@ styles: ["Ska"]
 8. Lady Demeter
 9. Among The Dead
 10. Cold Blooded
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-poets-life/1485055404" >}}<br>

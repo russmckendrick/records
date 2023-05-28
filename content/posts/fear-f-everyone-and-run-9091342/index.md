@@ -28,20 +28,15 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="fear-f-everyone-and-run-9091342.jpg" title="FEAR (F*** Everyone And Run) by Marillion" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. El Dorado
 2. Living In F E A R
 3. White Paper
 4. The Leavers
 5. The New Kings
 6. Tomorrow's New Country
-
-<!-- section break -->
-
-
 
 
 

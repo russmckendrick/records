@@ -19,10 +19,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="mike-the-mechanics-1134097.jpg" title="Mike + The Mechanics by Mike & The Mechanics" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Silent Running (On Dangerous Ground) (6:08)
 2. All I Need Is A Miracle (4:08)
 3. Par Avion (3:30)
@@ -32,10 +31,6 @@ styles: ["Pop Rock", "Synth-pop"]
 7. You Are The One (3:34)
 8. A Call To Arms (4:37)
 9. Taken In (4:16)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}<br>

@@ -26,10 +26,15 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Progressive Metal"]
 ---
 
-{{< img src="operation-mindcrime-19270393.jpg" title="Operation: Mindcrime by Queensrÿche" >}}
+Operation: Mindcrime is the third studio album by American heavy metal band Queensrÿche. Originally released on May 3, 1988, the album was reissued on May 6, 2003, with two bonus tracks, and again in 2006 as a deluxe box set.
+Operation: Mindcrime is a concept album and a rock opera. Its story follows Nikki, a drug addict who becomes disillusioned with the corrupt society of his time and reluctantly becomes involved with a revolutionary group as an assassin of political leaders. In January 1989, it ranked at No. 34 on Kerrang! magazine's "100 Greatest Heavy Metal Albums of All Time".Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 on the Billboard 200 while its singles "Eyes of a Stranger" and "I Don't Believe in Love" served as the band's first charting hits in the United States. The album was certified by the RIAA as gold in early 1989, and was certified as platinum two years later. A sequel, Operation: Mindcrime II, was released on April 4, 2006.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Remember Now
 2. Anarchy-X
 3. Revolution Calling
@@ -45,16 +50,6 @@ styles: ["Heavy Metal", "Progressive Metal"]
 13. Waiting For 22
 14. My Empty Room
 15. Eyes Of A Stranger
-
-<!-- section break -->
-
-Operation: Mindcrime is the third studio album by American heavy metal band Queensrÿche. Originally released on May 3, 1988, the album was reissued on May 6, 2003, with two bonus tracks, and again in 2006 as a deluxe box set.
-Operation: Mindcrime is a concept album and a rock opera. Its story follows Nikki, a drug addict who becomes disillusioned with the corrupt society of his time and reluctantly becomes involved with a revolutionary group as an assassin of political leaders. In January 1989, it ranked at No. 34 on Kerrang! magazine's "100 Greatest Heavy Metal Albums of All Time".Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 on the Billboard 200 while its singles "Eyes of a Stranger" and "I Don't Believe in Love" served as the band's first charting hits in the United States. The album was certified by the RIAA as gold in early 1989, and was certified as platinum two years later. A sequel, Operation: Mindcrime II, was released on April 4, 2006.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/operation-mindcrime-bonus-track-version/1440839313" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="oceanography-11659260.jpg" title="Oceanography by Charlie Barnes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (1:55)
 2. Oceanography (4:43)
 3. Will & Testament (3:54)
@@ -51,10 +50,6 @@ styles: ["Indie Rock"]
 22. Maria
 23. All I Have
 24. The Weather
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oceanography/1327538873" >}}<br>

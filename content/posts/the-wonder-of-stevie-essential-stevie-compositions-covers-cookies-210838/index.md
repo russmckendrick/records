@@ -25,10 +25,9 @@ genres: ["Latin", "Funk / Soul"]
 styles: ["Soul", "Funk", "Disco"]
 ---
 
-{{< img src="the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838.jpg" title="The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies) by DJ Spinna" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pastime Paradise (8:31)
 2. Love Having You Around (6:52)
 3. Stick Together (6:17)
@@ -41,10 +40,6 @@ styles: ["Soul", "Funk", "Disco"]
 10. I Was Made To Love Her (2:53)
 11. Spring High (4:14)
 12. Golden Lady (3:14)
-
-<!-- section break -->
-
-
 
 
 

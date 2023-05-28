@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="this-is-my-truth-tell-me-yours-12902247.jpg" title="This Is My Truth Tell Me Yours by Manic Street Preachers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Everlasting
 2. If You Tolerate This Your Children Will Be Next
 3. You Stole The Sun From My Heart
@@ -44,10 +43,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 11. Black Dog On My Shoulder
 12. Prologue To History
 13. S.Y.M.M.
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-my-truth-tell-me-yours/275147386" >}}<br>

@@ -29,10 +29,15 @@ genres: ["Rock"]
 styles: ["Country Rock", "Indie Rock"]
 ---
 
-{{< img src="a-m-7339202.jpg" title="A.M. by Wilco" >}}
+A.M. is the debut studio album by the American alternative rock band Wilco, released on March 28, 1995, by Sire Records and Reprise Records. The album was released only months after the breakup of Uncle Tupelo, an alternative country band that was the predecessor of Wilco. Prior to its release, there was debate about whether the album would be better than the debut album of Son Volt, the new band of former Uncle Tupelo lead singer Jay Farrar.
+Although A.M. was released before Son Volt's Trace, critical reviews were modest and initial sales were low. The album was later regarded as a "failure" by band members, as Trace was a greater success. It was the band's last album to be recorded in a purely alternative country style, as following the record the band began to expand their sound across multiple genres. It is also the only Wilco album to feature Brian Henneman of The Bottle Rockets as a lead guitarist.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. I Must Be High (2:59)
 2. Casino Queen (2:45)
 3. Box Full Of Letters (3:05)
@@ -46,16 +51,6 @@ styles: ["Country Rock", "Indie Rock"]
 11. Dash 7 (3:29)
 12. Blue Eyed Soul (4:05)
 13. Too Far Apart (3:44)
-
-<!-- section break -->
-
-A.M. is the debut studio album by the American alternative rock band Wilco, released on March 28, 1995, by Sire Records and Reprise Records. The album was released only months after the breakup of Uncle Tupelo, an alternative country band that was the predecessor of Wilco. Prior to its release, there was debate about whether the album would be better than the debut album of Son Volt, the new band of former Uncle Tupelo lead singer Jay Farrar.
-Although A.M. was released before Son Volt's Trace, critical reviews were modest and initial sales were low. The album was later regarded as a "failure" by band members, as Trace was a greater success. It was the band's last album to be recorded in a purely alternative country style, as following the record the band began to expand their sound across multiple genres. It is also the only Wilco album to feature Brian Henneman of The Bottle Rockets as a lead guitarist.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/willpower-deluxe/1442258237" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
-{{< img src="the-resurrectionists-13562698.jpg" title="The Resurrectionists by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Burnt Reynolds
 2. Rise Up And Fight
 3. Whissendine
@@ -37,10 +36,6 @@ styles: ["Post Rock", "Prog Rock"]
 9. 444
 10. Littlestep
 11. Human Nature Dictates The Downfall Of Humans
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610" >}}<br>

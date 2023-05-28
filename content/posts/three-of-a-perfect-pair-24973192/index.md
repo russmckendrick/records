@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="three-of-a-perfect-pair-24973192.jpg" title="Three Of A Perfect Pair by King Crimson" >}}
+Three of a Perfect Pair is the tenth studio album by English band King Crimson, released in March 1984 by record label E.G. It is the final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Left Side
 2. Three Of A Perfect Pair
 3. Model Man
@@ -38,15 +42,6 @@ styles: ["Prog Rock"]
 9. Dig Me
 10. No Warning
 11. Larks' Tongues In Aspic Part III
-
-<!-- section break -->
-
-Three of a Perfect Pair is the tenth studio album by English band King Crimson, released in March 1984 by record label E.G. It is the final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276" >}}<br>

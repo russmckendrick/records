@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
 
-{{< img src="in-keeping-secrets-of-silent-earth-3-6201565.jpg" title="In Keeping Secrets Of Silent Earth: 3 by Coheed And Cambria" >}}
+In Keeping Secrets of Silent Earth: 3 is the second studio album by American progressive rock band Coheed and Cambria. It was released on October 7, 2003, through Equal Vision Records. It was recorded at Applehead Recording, Woodstock, New York and produced by Michael Birnbaum and Chris Bittner.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Ring In Return (2:07)
 2. In Keeping Secrets Of Silent Earth: 3 (8:12)
 3. Cuts Marked In The March Of Men (5:00)
@@ -43,13 +45,6 @@ styles: ["Prog Rock", "Art Rock"]
 10. A Favor House Atlantic (3:54)
 11. The Light & The Glass (9:39)
 12. 2113 (9:46)
-
-<!-- section break -->
-
-In Keeping Secrets of Silent Earth: 3 is the second studio album by American progressive rock band Coheed and Cambria. It was released on October 7, 2003, through Equal Vision Records. It was recorded at Applehead Recording, Woodstock, New York and produced by Michael Birnbaum and Chris Bittner.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vsq-performs-coheed-and-cambrias-in-keeping-secrets/982055465" >}}<br>

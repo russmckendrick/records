@@ -26,10 +26,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="let-it-come-down-20556940.jpg" title="Let It Come Down by Spiritualized" >}}
+Let It Come Down is the fourth studio album by the rock band Spiritualized, released in 2001. It was recorded and produced at Abbey Road and AIR Studios. It took Jason Pierce, Spiritualized's lead singer, guitarist and sole constant member, four years to write, perform, produce and release. The album utilises 115 session musicians, including orchestra and London Community Gospel Choir. The wall of sound technique (most notably used by 1960s record producer Phil Spector) is evident on this album, especially on such tracks as "Do It All Over Again", "Stop Your Crying", "The Straight and the Narrow" and "Out of Sight".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. On Fire
 2. Do It All Over Again
 3. Don't Just Do Something
@@ -41,13 +43,6 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 9. Anything More
 10. Won't Get To Heaven (The State I'm In)
 11. Lord Can You Hear Me
-
-<!-- section break -->
-
-Let It Come Down is the fourth studio album by the rock band Spiritualized, released in 2001. It was recorded and produced at Abbey Road and AIR Studios. It took Jason Pierce, Spiritualized's lead singer, guitarist and sole constant member, four years to write, perform, produce and release. The album utilises 115 session musicians, including orchestra and London Community Gospel Choir. The wall of sound technique (most notably used by 1960s record producer Phil Spector) is evident on this album, especially on such tracks as "Do It All Over Again", "Stop Your Crying", "The Straight and the Narrow" and "Out of Sight".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-it-come-down/1502492981" >}}<br>

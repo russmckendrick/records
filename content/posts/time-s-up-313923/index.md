@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-{{< img src="time-s-up-313923.jpg" title="Time's Up by Living Colour" >}}
+Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Time's Up (3:06)
 2. History Lesson (0:54)
 3. Pride (5:08)
@@ -41,13 +43,6 @@ styles: ["Funk Metal"]
 13. Tag Team Partners (0:52)
 14. Solace Of You (3:38)
 15. This Is The Life (6:24)
-
-<!-- section break -->
-
-Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/times-up/158439495" >}}<br>

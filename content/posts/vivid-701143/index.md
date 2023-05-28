@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-{{< img src="vivid-701143.jpg" title="Vivid by Living Colour" >}}
+Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Cult Of Personality (4:53)
 2. I Want To Know (4:23)
 3. Middle Man (3:46)
@@ -36,15 +40,6 @@ styles: ["Alternative Rock", "Funk Metal"]
 9. Glamour Boys (3:40)
 10. What's Your Favorite Color? (Theme Song) (1:38)
 11. Which Way To America? (3:40)
-
-<!-- section break -->
-
-Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}<br>

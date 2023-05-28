@@ -31,10 +31,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="jesus-hits-like-the-atom-bomb-16253095.jpg" title="Jesus Hits Like The Atom Bomb by Tripping Daisy" >}}
+Jesus Hits Like the Atom Bomb is the third studio album by American rock band Tripping Daisy, released on July 7, 1998, through Island Records. It was the band's first album to be recorded with guitarist Phil Karnats and drummer Benjamin Curtis, and was the band's last album to be released during guitarist Wes Berggren's lifetime. Produced by Eric Drew Feldman, the album is a stylistic departure from the band's previous work, showcasing a more-artistic sound that is underpinned by pop sensibilities. The album also features a significant amount of experimentation with its guitars, vocals and instrumentation.  
+A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Records' parent company was involved in a major corporate merger, which negatively affected the album's promotional campaign. The album failed to meet sales expectations; neither it or its singles charted, resulting in Island Records ending its contract with Tripping Daisy two months after its release. Despite this, critics gave Jesus Hits Like the Atom Bomb mostly positive reviews and praised its greatly improved songwriting and psychedelic sound; some hailed the album as a stylistic breakthrough for Tripping Daisy. The album is now regarded as the band's best work, and has been viewed as a precursor to Tim DeLaughter's next project The Polyphonic Spree.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Field Day Jitters (4:09)
 2. Waited A Light Year (6:00)
 3. Sonic Bloom (3:39)
@@ -50,14 +53,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. About The Movies (5:06)
 14. Tiny Men (3:25)
 15. Indian Poker Parts 2 & 3 (3:07)
-
-<!-- section break -->
-
-Jesus Hits Like the Atom Bomb is the third studio album by American rock band Tripping Daisy, released on July 7, 1998, through Island Records. It was the band's first album to be recorded with guitarist Phil Karnats and drummer Benjamin Curtis, and was the band's last album to be released during guitarist Wes Berggren's lifetime. Produced by Eric Drew Feldman, the album is a stylistic departure from the band's previous work, showcasing a more-artistic sound that is underpinned by pop sensibilities. The album also features a significant amount of experimentation with its guitars, vocals and instrumentation.  
-A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Records' parent company was involved in a major corporate merger, which negatively affected the album's promotional campaign. The album failed to meet sales expectations; neither it or its singles charted, resulting in Island Records ending its contract with Tripping Daisy two months after its release. Despite this, critics gave Jesus Hits Like the Atom Bomb mostly positive reviews and praised its greatly improved songwriting and psychedelic sound; some hailed the album as a stylistic breakthrough for Tripping Daisy. The album is now regarded as the band's best work, and has been viewed as a precursor to Tim DeLaughter's next project The Polyphonic Spree.
-    
-    
-
 
 
 ## Spotify

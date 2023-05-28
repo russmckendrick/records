@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="and-out-come-the-wolves-8007348.jpg" title="...And Out Come The Wolves by Rancid" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Maxwell Murder (1:26)
 2. The 11th Hour (2:28)
 3. Roots Radicals (2:48)
@@ -45,10 +44,6 @@ styles: ["Punk", "Ska"]
 17. As Wicked (2:41)
 18. Avenues & Alleyways (3:12)
 19. The Way I Feel (2:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-out-come-the-wolves/1485040366" >}}<br>

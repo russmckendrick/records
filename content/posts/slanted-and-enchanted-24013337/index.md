@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="slanted-and-enchanted-24013337.jpg" title="Slanted And Enchanted by Pavement" >}}
+Slanted and Enchanted is the debut studio album by American indie rock band Pavement, released on April 20, 1992, by Matador Records. It is the only Pavement album to feature drummer Gary Young.
+The album received critical acclaim and is seen as a landmark for indie rock, with Rolling Stone ranking it 199th on its 2020 edition of The 500 Greatest Albums of All Time. As of 2007, the album had sold 150,000 copies. In 2022, Alex Ross Perry adapted the album into a rock opera titled Slanted! Enchanted!
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Summer Babe (Winter Version)
 2. Trigger Cut / Wounded-Kite At :17
 3. No Life Singed Her
@@ -39,14 +42,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 12. Fame Throwa
 13. Jackals, False Grails: The Lonesome Era
 14. Our Singer
-
-<!-- section break -->
-
-Slanted and Enchanted is the debut studio album by American indie rock band Pavement, released on April 20, 1992, by Matador Records. It is the only Pavement album to feature drummer Gary Young.
-The album received critical acclaim and is seen as a landmark for indie rock, with Rolling Stone ranking it 199th on its 2020 edition of The 500 Greatest Albums of All Time. As of 2007, the album had sold 150,000 copies. In 2022, Alex Ross Perry adapted the album into a rock opera titled Slanted! Enchanted!
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slanted-enchanted/1589229771" >}}<br>

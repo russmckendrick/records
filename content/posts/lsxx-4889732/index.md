@@ -62,10 +62,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="lsxx-4889732.jpg" title="LSXX by The Breeders" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Last Splash
 2. New Year (1:56)
 3. Cannonball (3:33)
@@ -134,10 +133,6 @@ styles: ["Alternative Rock"]
 66. Shocker In Gloomtown (1:17)
 67. Freed Pig (2:35)
 68. Saints (2:32)
-
-<!-- section break -->
-
-
 
 
 

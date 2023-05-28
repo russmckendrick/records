@@ -23,10 +23,16 @@ genres: ["Rock", "Latin", "Folk, World, & Country"]
 styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 ---
 
-{{< img src="american-dreams-1665212.jpg" title="American Dreams by Various" >}}
+American Dreams is an American drama television series that ran on NBC for three seasons and 61 episodes, from September 29, 2002, to March 30, 2005. The show tells the story of the Pryor family of Philadelphia during the mid-1960s, with many plotlines around teenager Meg Pryor (Brittany Snow), who dances on Dick Clark's American Bandstand. The show often featured contemporary musicians performing as popular musicians of the 1960s. Season one takes place in 1963–64, season two in 1964–65 and season three in 1965–66.
+The series was created by Jonathan Prince and developed by Josh Goldstein and Prince; the latter was also one of the executive producers with Dick Clark. It debuted on September 29, 2002, and initially aired on Sundays at 8:00 pm Eastern Time but moved to the same time on Wednesdays from March 9, 2005, to the third-season finale (March 30, 2005). The show was known as Our Generation when it debuted in Australia but was changed back to American Dreams when it returned for the second season.
+The theme song "Generation" was written and performed by Emerson Hart, lead singer of the band Tonic. The song earned Hart an ASCAP award for Best Theme Song of Television in 2003. The show was the 2003 TV Land Awards "Future Classic" winner.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Song For America (5:42)
 2. The Joker (4:26)
 3. Read 'Em And Weep (3:46)
@@ -55,17 +61,6 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 26. Freebird (4:10)
 27. Feels So Right (3:35)
 28. Here Comes That Feeling (3:30)
-
-<!-- section break -->
-
-American Dreams is an American drama television series that ran on NBC for three seasons and 61 episodes, from September 29, 2002, to March 30, 2005. The show tells the story of the Pryor family of Philadelphia during the mid-1960s, with many plotlines around teenager Meg Pryor (Brittany Snow), who dances on Dick Clark's American Bandstand. The show often featured contemporary musicians performing as popular musicians of the 1960s. Season one takes place in 1963–64, season two in 1964–65 and season three in 1965–66.
-The series was created by Jonathan Prince and developed by Josh Goldstein and Prince; the latter was also one of the executive producers with Dick Clark. It debuted on September 29, 2002, and initially aired on Sundays at 8:00 pm Eastern Time but moved to the same time on Wednesdays from March 9, 2005, to the third-season finale (March 30, 2005). The show was known as Our Generation when it debuted in Australia but was changed back to American Dreams when it returned for the second season.
-The theme song "Generation" was written and performed by Emerson Hart, lead singer of the band Tonic. The song earned Hart an ASCAP award for Best Theme Song of Television in 2003. The show was the 2003 TV Land Awards "Future Classic" winner.
-
-
-    
-    
-
 
 
 ## Spotify

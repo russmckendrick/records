@@ -17,10 +17,12 @@ genres: ["Electronic", "Classical"]
 styles: ["Downtempo", "Modern Classical"]
 ---
 
-{{< img src="kubrick-7815131.jpg" title="Kubrick by The Soulsavers" >}}
+Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. DeLarge (5:22)
 2. Clay (2:30)
 3. Torrance (4:01)
@@ -37,13 +39,6 @@ styles: ["Downtempo", "Modern Classical"]
 14. Hal (4:37)
 15. Mandrake (4:33)
 16. Ziegler (2:31)
-
-<!-- section break -->
-
-Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}<br>

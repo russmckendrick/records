@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Blues Rock"]
 ---
 
-{{< img src="disraeli-gears-7010186.jpg" title="Disraeli Gears by Cream" >}}
+Disraeli Gears is the second studio album by the British rock band Cream. It was released in November 1967 and reached No. 5 on the UK Albums Chart., and No. 1 on the Swedish and Finnish charts.  The album was also No. 1 for two weeks on the Australian album chart and was listed as the No. 1 album of 1968 by Cash Box in the year-end album chart in the United States.  The album features the singles "Strange Brew" and "Sunshine of Your Love", as well as their respective B-sides "Tales of Brave Ulysses" and "SWLABR".
+The original 11-track album was remastered in 1998, and then subsequently released as a two-disc Deluxe Edition in 2004.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Strange Brew (2:45)
 2. Sunshine Of Your Love (4:08)
 3. World Of Pain (3:05)
@@ -38,15 +42,6 @@ styles: ["Psychedelic Rock", "Blues Rock"]
 9. Outside Woman Blues (2:20)
 10. Take It Back (3:05)
 11. Mother's Lament (1:47)
-
-<!-- section break -->
-
-Disraeli Gears is the second studio album by the British rock band Cream. It was released in November 1967 and reached No. 5 on the UK Albums Chart., and No. 1 on the Swedish and Finnish charts.  The album was also No. 1 for two weeks on the Australian album chart and was listed as the No. 1 album of 1968 by Cash Box in the year-end album chart in the United States.  The album features the singles "Strange Brew" and "Sunshine of Your Love", as well as their respective B-sides "Tales of Brave Ulysses" and "SWLABR".
-The original 11-track album was remastered in 1998, and then subsequently released as a two-disc Deluxe Edition in 2004.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/disraeli-gears/1440817229" >}}<br>

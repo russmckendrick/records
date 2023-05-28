@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="asia-1745333.jpg" title="Asia by Asia" >}}
+Asia is the debut studio album by English rock supergroup Asia, released in 1982. According to both Billboard and Cashbox, it was the #1 album in the United States for the year 1982. It contains their biggest hit "Heat of the Moment", which reached #4 in the US on the Billboard Hot 100 chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heat Of The Moment (3:50)
 2. Only Time Will Tell (4:44)
 3. Sole Survivor (4:48)
@@ -35,13 +37,6 @@ styles: ["Pop Rock", "Prog Rock"]
 7. Without You (5:04)
 8. Cutting It Fine (5:35)
 9. Here Comes The Feeling (5:42)
-
-<!-- section break -->
-
-Asia is the debut studio album by English rock supergroup Asia, released in 1982. According to both Billboard and Cashbox, it was the #1 album in the United States for the year 1982. It contains their biggest hit "Heat of the Moment", which reached #4 in the US on the Billboard Hot 100 chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/turn/328947264" >}}<br>

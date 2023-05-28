@@ -23,10 +23,9 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Neo-Classical"]
 ---
 
-{{< img src="ocean-sounds-12686247.jpg" title="Ocean Sounds by Iamthemorning" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Inside
 2. Scotland
 3. To Human Misery
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Neo-Classical"]
 10. Libretto Horror
 11. Chalk & Coal
 12. K.O.S.
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ocean-sounds/1424578057" >}}<br>

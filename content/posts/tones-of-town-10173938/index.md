@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-{{< img src="tones-of-town-10173938.jpg" title="Tones Of Town by Field Music" >}}
+Tones of Town is the second studio album by indie rock band Field Music. It was released on 22 January 2007. "In Context" (w/b 'Off & On'), "A House Is Not a Home" (w/b 'Logic') and "She Can Do What She Wants" (w/b 'Sit Tighter', an alternate version of 'Sit Tight') were released as singles.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Give It Lose It Take It (3:56)
 2. Sit Tight (3:02)
 3. Tones Of Town (3:05)
@@ -33,13 +35,6 @@ styles: ["Pop Rock", "Indie Rock"]
 9. Closer At Hand (2:29)
 10. Place Yourself (3:02)
 11. She Can Do What She Wants (3:06)
-
-<!-- section break -->
-
-Tones of Town is the second studio album by indie rock band Field Music. It was released on 22 January 2007. "In Context" (w/b 'Off & On'), "A House Is Not a Home" (w/b 'Logic') and "She Can Do What She Wants" (w/b 'Sit Tighter', an alternate version of 'Sit Tight') were released as singles.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tones-of-town/210355490" >}}<br>

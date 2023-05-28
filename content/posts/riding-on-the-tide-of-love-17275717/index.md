@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="riding-on-the-tide-of-love-17275717.jpg" title="Riding On The Tide Of Love by Deacon Blue" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Riding On The Tide Of Love
 2. She Loved The Snow
 3. Nothing's Changed
@@ -33,10 +32,6 @@ styles: ["Pop Rock"]
 6. Send A Note Out 
 7. Not Gonna Be That Girl
 8. It's Still Early 
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945" >}}<br>

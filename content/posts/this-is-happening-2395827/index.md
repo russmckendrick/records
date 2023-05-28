@@ -36,10 +36,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 ---
 
-{{< img src="this-is-happening-2395827.jpg" title="This Is Happening by LCD Soundsystem" >}}
+This Is Happening is the third studio album by American rock band LCD Soundsystem. It was released first on May 17, 2010, jointly through DFA and Virgin Records in the United States and Parlophone elsewhere. It was recorded over the course of 2009 and early 2010 in the Mansion recording studio in Los Angeles. The first single, "Drunk Girls", was released in April 2010, with a music video directed by Spike Jonze. 
+The album is dedicated to Jerry Fuchs (1974–2009), who performed drums live with the band on occasion, as well as having a big part in associated DFA acts.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dance Yrself Clean
 2. Drunk Girls
 3. One Touch
@@ -49,15 +53,6 @@ styles: ["Leftfield", "Indie Rock", "Disco", "Post-Punk"]
 7. Pow Pow
 8. Somebody's Calling Me
 9. Home
-
-<!-- section break -->
-
-This Is Happening is the third studio album by American rock band LCD Soundsystem. It was released first on May 17, 2010, jointly through DFA and Virgin Records in the United States and Parlophone elsewhere. It was recorded over the course of 2009 and early 2010 in the Mansion recording studio in Los Angeles. The first single, "Drunk Girls", was released in April 2010, with a music video directed by Spike Jonze. 
-The album is dedicated to Jerry Fuchs (1974–2009), who performed drums live with the band on occasion, as well as having a big part in associated DFA acts.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-happening/693391469" >}}<br>

@@ -22,10 +22,12 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
 
-{{< img src="the-night-chancers-14946788.jpg" title="The Night Chancers by Baxter Dury" >}}
+The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Not Your Dog
 2. Slumlord
 3. Saliva Hog
@@ -36,13 +38,6 @@ styles: ["Alternative Rock", "Indie Pop"]
 8. Hello, I'm Sorry
 9. Daylight
 10. Say Nothing
-
-<!-- section break -->
-
-The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-night-chancers/1487696844" >}}<br>

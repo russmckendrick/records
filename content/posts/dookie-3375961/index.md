@@ -22,10 +22,16 @@ genres: ["Rock"]
 styles: ["Pop Punk", "Punk"]
 ---
 
-{{< img src="dookie-3375961.jpg" title="Dookie by Green Day" >}}
+In 1993, alternative rock was still ruled by the brooding sounds of what we once called grunge: Nirvana, Pearl Jam, Stone Temple Pilots, et cetera. Released in February 1994, Green Day’s third album—and first for a major label—was like a glass of cold water in the face. First off, it was catchy. Not in an oblique, theoretical way, but in a way that was vibrant, sweet, immediate—it <i>wanted</i> to please. Second, it understood the special process of combustion by which angst becomes humor.<br />
+Here were songs about panic attacks (“Basket Case”), poverty (“Welcome to Paradise”), and mind-destroying boredom (“Longview”) that felt not just familiar, but funny. If it was punk, it was punk not in the style of Sex Pistols but Ramones: guys whose anger was neutered by their own hilarious incompetence, whose smarts were evident in how effortlessly they played dumb. Even the album’s sober moments (“She,” “When I Come Around”) had a directness that made them feel ordinary, routine: These weren’t tortured artists mapping the rim of existential despair; they were regular dudes, walking around, hoping to burn off a little nervous energy.<br />
+Within a year, the band had gone from sharing a basement near the UC Berkeley campus (you can still see it in the “Longview” video) to sharing a Grammy—a shift that set them on the path to becoming the rabble-rousing arena act they are now, more in tune with artists like Foo Fighters and Bruce Springsteen than Dead Kennedys. (The tradeoff proved bittersweet: Purists from the Bay Area punk scene they’d helped nurture and grow wrote them off as sellouts; a piece of graffiti on the wall of the legendary Berkeley DIY space 924 Gilman Street read “Billie Joe Must Die”—all this despite the band’s sound staying pretty much the same throughout.) Snotty, charming, and lighthearted, <i>Dookie</i> was the album that put alt-rock’s feet back on the ground. 
 
-<!-- section break -->
+        
+        
+    
 
+
+## Tracklisting
 1. Burnout (2:07)
 2. Having A Blast (2:45)
 3. Chump (2:54)
@@ -42,17 +48,6 @@ styles: ["Pop Punk", "Punk"]
 14. F.O.D. (2:49)
 15. (silence) (1:20)
 16. All By Myself (1:38)
-
-<!-- section break -->
-
-In 1993, alternative rock was still ruled by the brooding sounds of what we once called grunge: Nirvana, Pearl Jam, Stone Temple Pilots, et cetera. Released in February 1994, Green Day’s third album—and first for a major label—was like a glass of cold water in the face. First off, it was catchy. Not in an oblique, theoretical way, but in a way that was vibrant, sweet, immediate—it <i>wanted</i> to please. Second, it understood the special process of combustion by which angst becomes humor.<br />
-Here were songs about panic attacks (“Basket Case”), poverty (“Welcome to Paradise”), and mind-destroying boredom (“Longview”) that felt not just familiar, but funny. If it was punk, it was punk not in the style of Sex Pistols but Ramones: guys whose anger was neutered by their own hilarious incompetence, whose smarts were evident in how effortlessly they played dumb. Even the album’s sober moments (“She,” “When I Come Around”) had a directness that made them feel ordinary, routine: These weren’t tortured artists mapping the rim of existential despair; they were regular dudes, walking around, hoping to burn off a little nervous energy.<br />
-Within a year, the band had gone from sharing a basement near the UC Berkeley campus (you can still see it in the “Longview” video) to sharing a Grammy—a shift that set them on the path to becoming the rabble-rousing arena act they are now, more in tune with artists like Foo Fighters and Bruce Springsteen than Dead Kennedys. (The tradeoff proved bittersweet: Purists from the Bay Area punk scene they’d helped nurture and grow wrote them off as sellouts; a piece of graffiti on the wall of the legendary Berkeley DIY space 924 Gilman Street read “Billie Joe Must Die”—all this despite the band’s sound staying pretty much the same throughout.) Snotty, charming, and lighthearted, <i>Dookie</i> was the album that put alt-rock’s feet back on the ground. 
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dookie/1160081985" >}}<br>

@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-big-lad-in-the-windmill-1593537.jpg" title="The Big Lad In The Windmill by It Bites" >}}
+The Big Lad in the Windmill is the debut album of British progressive pop/rock band It Bites.
+The album reached No. 35 in the UK album charts and produced three singles - "All in Red", "Calling All the Heroes" and "Whole New World". "Calling All the Heroes" and "Whole New World" both charted, although "Calling All the Heroes" was by far the more successful of the two, reaching No. 6 in the UK charts and remaining the band's biggest and only significant hit.Although marketed as a 1980s pop album, The Big Lad in the Windmill features an unusual mix of musical styles including pop, hard rock, Prince-style funk, power balladry and progressive rock, often all within the same song. The album also showcased the band's musical virtuosity, featuring multiple changes of dynamics and tempo plus prominent guitar and keyboard solos. The version of "Calling All the Heroes" included on the album is the full-length version rather than the better-known single edit, and features additional musical sections plus several false endings.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. I Got You Eating Out Of My Hand (5:37)
 2. All In Red (3:31)
 3. Whole New World (4:25)
@@ -35,14 +38,6 @@ styles: ["Pop Rock"]
 8. Calling All The Heroes (5:33)
 9. You'll Never Go To Heaven (7:12)
 10. The Big Lad In The Windmill (0:48)
-
-<!-- section break -->
-
-The Big Lad in the Windmill is the debut album of British progressive pop/rock band It Bites.
-The album reached No. 35 in the UK album charts and produced three singles - "All in Red", "Calling All the Heroes" and "Whole New World". "Calling All the Heroes" and "Whole New World" both charted, although "Calling All the Heroes" was by far the more successful of the two, reaching No. 6 in the UK charts and remaining the band's biggest and only significant hit.Although marketed as a 1980s pop album, The Big Lad in the Windmill features an unusual mix of musical styles including pop, hard rock, Prince-style funk, power balladry and progressive rock, often all within the same song. The album also showcased the band's musical virtuosity, featuring multiple changes of dynamics and tempo plus prominent guitar and keyboard solos. The version of "Calling All the Heroes" included on the album is the full-length version rather than the better-known single edit, and features additional musical sections plus several false endings.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-lad-in-the-windmill/714393070" >}}<br>

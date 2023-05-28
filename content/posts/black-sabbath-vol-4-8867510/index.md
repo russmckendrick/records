@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="black-sabbath-vol-4-8867510.jpg" title="Black Sabbath Vol 4 by Black Sabbath" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wheels Of Confusion
 2. Tomorrow's Dream
 3. Changes
@@ -38,10 +37,6 @@ styles: ["Heavy Metal"]
 8. Laguna Sunrise
 9. St. Vitus Dance
 10. Under The Sun
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vol-4-2009-remastered-version/1193828030" >}}<br>

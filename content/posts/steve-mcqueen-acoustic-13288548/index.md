@@ -21,10 +21,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
 
-{{< img src="steve-mcqueen-acoustic-13288548.jpg" title="Steve McQueen Acoustic by Prefab Sprout" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Appetite
 2. Bonny
 3. Desire As
@@ -33,10 +32,6 @@ styles: ["Acoustic"]
 6. Moving The River
 7. Faron Young
 8. When The Angels
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/steve-mcqueen-acoustic/1457321476" >}}<br>

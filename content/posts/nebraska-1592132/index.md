@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="nebraska-1592132.jpg" title="Nebraska by Bruce Springsteen" >}}
+There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America’s dispossessed are ground into dust by social forces beyond their control. There’s the drifting murderer of the title track; a child whose family slaves away beneath a “Mansion On the Hill”; and a hard-luck guy forced to kill for the mob in “Atlantic City”. Springsteen’s darkest record is also his sparest: just voice and guitar lost in a sea of lonely reverb. There's an almost bone-chilling starkness to these songs, but they're deeply moving too.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nebraska (4:27)
 2. Atlantic City (3:54)
 3. Mansion On The Hill (4:03)
@@ -36,13 +38,6 @@ styles: ["Folk Rock"]
 8. Open All Night (2:53)
 9. My Father's House (5:03)
 10. Reason To Believe (4:09)
-
-<!-- section break -->
-
-There are no winners in <i>Nebraska</i>—a bleak sonic landscape where America’s dispossessed are ground into dust by social forces beyond their control. There’s the drifting murderer of the title track; a child whose family slaves away beneath a “Mansion On the Hill”; and a hard-luck guy forced to kill for the mob in “Atlantic City”. Springsteen’s darkest record is also his sparest: just voice and guitar lost in a sea of lonely reverb. There's an almost bone-chilling starkness to these songs, but they're deeply moving too.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nebraska/185798980" >}}<br>

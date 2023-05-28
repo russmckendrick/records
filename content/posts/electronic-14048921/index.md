@@ -17,10 +17,9 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
 
-{{< img src="electronic-14048921.jpg" title="Electronic by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Action (I Believe In Love) (3:51)
 2. Quiet Life (3:35)
 3. Fade To Grey (3:50)
@@ -51,10 +50,6 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 28. Steppin' Out (4:18)
 29. Echo Beach (3:36)
 30. I'm In Love With A German Film Star (3:57)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

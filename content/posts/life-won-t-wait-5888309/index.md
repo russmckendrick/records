@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="life-won-t-wait-5888309.jpg" title="Life Won't Wait by Rancid" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (0:48)
 2. Bloodclot (2:45)
 3. Hoover Street (4:09)
@@ -42,10 +41,6 @@ styles: ["Punk", "Ska"]
 20. Something In The World Today (2:33)
 21. Corazon De Oro (3:58)
 22. Coppers (5:01)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}<br>

@@ -23,10 +23,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack"]
 ---
 
-{{< img src="the-nowhere-inn-official-soundtrack-22966064.jpg" title="The Nowhere Inn (Official Soundtrack) by St. Vincent" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Nowhere Inn (4:29)
 2. Carrie Voicemail (0:33)
 3. Palm Desert (3:49)
@@ -46,10 +45,6 @@ styles: ["Alternative Rock", "Soundtrack"]
 17. Texas Choir (1:15)
 18. Bacchanal  (2:29)
 19. Ending (2:18)
-
-<!-- section break -->
-
-
 
 
 

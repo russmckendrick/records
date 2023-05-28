@@ -54,10 +54,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 ---
 
-{{< img src="ace-of-spades-16134336.jpg" title="Ace Of Spades by Motörhead" >}}
+"Ace of Spades" is a song by English heavy metal band Motörhead and the title track to the album Ace of Spades. It was released as a single in October 1980.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ace Of Spades
 2. Ace Of Spades 
 3. Love Me Like A Reptile
@@ -140,13 +142,6 @@ styles: ["Hard Rock", "Rock & Roll", "Heavy Metal", "Speed Metal"]
 80. Ace On Your Screens (51:04)
 81. Live In Belfast '81 (26:25)
 82. Ace Of Spades 5.1 (36:35)
-
-<!-- section break -->
-
-"Ace of Spades" is a song by English heavy metal band Motörhead and the title track to the album Ace of Spades. It was released as a single in October 1980.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ace-of-spades/1591509047" >}}<br>

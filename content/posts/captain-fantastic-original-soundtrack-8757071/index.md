@@ -20,10 +20,9 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ---
 
-{{< img src="captain-fantastic-original-soundtrack-8757071.jpg" title="Captain Fantastic (Original Soundtrack) by Alex Somers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. A New Beginning (1:26)
 2. Church (3:13)
 3. Campfire (3:56)
@@ -48,10 +47,6 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 22. Goodbye... (1:33)
 23. Disappear (2:11)
 24. Fortress (4:37)
-
-<!-- section break -->
-
-
 
 
 

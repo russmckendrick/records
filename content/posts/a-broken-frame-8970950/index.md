@@ -24,10 +24,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="a-broken-frame-8970950.jpg" title="A Broken Frame by Depeche Mode" >}}
+With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Broken Frame</i> is Depeche Mode exploring their sound with impressive assurance. “The Meaning of Love” and “A Photograph of You” maintain the energy and infectiousness of <i>Speak & Spell</i>, but “See You” leads its pop hook down a dark alley of a heartbreak. “Satellite” investigates electro-dub and, at the album’s most ambitious, “Shouldn’t Have Done That” examines the evolution of dictators with unsettling harmonies and marching jackboots.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Leave In Silence
 2. My Secret Garden
 3. Monument
@@ -38,14 +41,6 @@ styles: ["Synth-pop"]
 8. A Photograph Of You
 9. Shouldn't Have Done That
 10. The Sun & The Rainfall
-
-<!-- section break -->
-
-With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Broken Frame</i> is Depeche Mode exploring their sound with impressive assurance. “The Meaning of Love” and “A Photograph of You” maintain the energy and infectiousness of <i>Speak & Spell</i>, but “See You” leads its pop hook down a dark alley of a heartbreak. “Satellite” investigates electro-dub and, at the album’s most ambitious, “Shouldn’t Have Done That” examines the evolution of dictators with unsettling harmonies and marching jackboots.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-broken-frame-deluxe/665404834" >}}<br>

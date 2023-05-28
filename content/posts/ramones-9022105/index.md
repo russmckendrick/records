@@ -20,10 +20,16 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="ramones-9022105.jpg" title="Ramones by Ramones" >}}
+Ramones is the debut studio album by American punk rock band the Ramones, released on April 23, 1976, by Sire Records. After Hit Parader editor Lisa Robinson saw the band at a gig in New York City, she wrote about them in an article and contacted Danny Fields, insisting that he be their manager. Fields agreed and convinced Craig Leon to produce Ramones, and the band recorded a demo for prospective record labels. Leon persuaded Sire president Seymour Stein to listen to the band perform, and he later offered the band a recording contract. The Ramones began recording in January 1976, needing only seven days and $6,400 to record the album.
+The album cover, photographed by Punk magazine's Roberta Bayley, features the four members leaning against a brick wall in New York City. The record company paid only $125 for the front photo, which has since become one of the most imitated album covers of all time. The back cover depicts an eagle belt buckle along with the album's liner notes. After its release, Ramones was promoted with two singles, which failed to chart. The Ramones also began touring to help sell records; these tour dates were mostly based in the United States, although two were booked in Britain.
+Violence, drug use, relationship issues, humor, and Nazism were prominent in the album's lyrics. The album opens with "Blitzkrieg Bop", which is among the band's most recognized songs. Most of the album's tracks are uptempo, with many songs measuring at well over 160 beats per minute. The songs are also rather short; at two-and-a-half minutes, "I Don't Wanna Go Down to the Basement" is the album's longest track. Ramones contains a cover of the Chris Montez song "Let's Dance".
+Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard Top LPs & Tape chart, although it received glowing reviews from critics. Many later deemed it a highly influential record, and it has since received many accolades, such as the top spot on Spin magazine's list of the "50 Most Essential Punk Records". Ramones is considered an influential punk album in the United States and United Kingdom, and had a significant impact on other genres of rock music, such as grunge and heavy metal. The album was ranked at number 33 in Rolling Stone's 2003 list of the 500 Greatest Albums of All Time, maintaining the ranking in a 2012 revision and dropping to number 47 in the 2020 reboot of the list. It was placed first in the Rolling Stone 100 Best Debut Albums of All Time list in 2022. It was certified gold by the Recording Industry Association of America in 2014.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Original Album
 2. Blitzkrieg Bop (2:14)
 3. Beat On The Brat (2:32)
@@ -122,17 +128,6 @@ styles: ["Punk"]
 96. Let's Dance (1:52)
 97. I Don't Wanna Walk Around With You (1:42)
 98. Today Your Love, Tomorrow The World (2:11)
-
-<!-- section break -->
-
-Ramones is the debut studio album by American punk rock band the Ramones, released on April 23, 1976, by Sire Records. After Hit Parader editor Lisa Robinson saw the band at a gig in New York City, she wrote about them in an article and contacted Danny Fields, insisting that he be their manager. Fields agreed and convinced Craig Leon to produce Ramones, and the band recorded a demo for prospective record labels. Leon persuaded Sire president Seymour Stein to listen to the band perform, and he later offered the band a recording contract. The Ramones began recording in January 1976, needing only seven days and $6,400 to record the album.
-The album cover, photographed by Punk magazine's Roberta Bayley, features the four members leaning against a brick wall in New York City. The record company paid only $125 for the front photo, which has since become one of the most imitated album covers of all time. The back cover depicts an eagle belt buckle along with the album's liner notes. After its release, Ramones was promoted with two singles, which failed to chart. The Ramones also began touring to help sell records; these tour dates were mostly based in the United States, although two were booked in Britain.
-Violence, drug use, relationship issues, humor, and Nazism were prominent in the album's lyrics. The album opens with "Blitzkrieg Bop", which is among the band's most recognized songs. Most of the album's tracks are uptempo, with many songs measuring at well over 160 beats per minute. The songs are also rather short; at two-and-a-half minutes, "I Don't Wanna Go Down to the Basement" is the album's longest track. Ramones contains a cover of the Chris Montez song "Let's Dance".
-Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard Top LPs & Tape chart, although it received glowing reviews from critics. Many later deemed it a highly influential record, and it has since received many accolades, such as the top spot on Spin magazine's list of the "50 Most Essential Punk Records". Ramones is considered an influential punk album in the United States and United Kingdom, and had a significant impact on other genres of rock music, such as grunge and heavy metal. The album was ranked at number 33 in Rolling Stone's 2003 list of the 500 Greatest Albums of All Time, maintaining the ranking in a 2012 revision and dropping to number 47 in the 2020 reboot of the list. It was placed first in the Rolling Stone 100 Best Debut Albums of All Time list in 2022. It was certified gold by the Recording Industry Association of America in 2014.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ramones/847972873" >}}<br>

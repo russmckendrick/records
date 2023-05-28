@@ -19,17 +19,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="homophobic-asshole-1210486.jpg" title="Homophobic Asshole by Senseless Things" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Homophobic Asshole
 2. Body Bag
 3. Just Flirting
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}<br>

@@ -26,10 +26,14 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 ---
 
-{{< img src="soviet-kitsch-8444148.jpg" title="Soviet Kitsch by Regina Spektor" >}}
+Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us".
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Ode To Divorce (3:43)
 2. Poor Little Rich Boy (2:25)
 3. Carbon Monoxide (4:55)
@@ -45,15 +49,6 @@ styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 13. Us (Video Edit) (4:00)
 14. Scarecrow & Fungus (2:29)
 15. December (2:08)
-
-<!-- section break -->
-
-Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us".
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soviet-kitsch/20006406" >}}<br>

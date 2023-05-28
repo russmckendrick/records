@@ -22,10 +22,9 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Rock & Roll", "Ballad", "Theme"]
 ---
 
-{{< img src="fonzie-favorites-1879249.jpg" title="Fonzie Favorites by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Happy Days Theme
 2. Bony Moronie
 3. Running Bear
@@ -50,10 +49,6 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 22. To Know Him Is To Love Him
 23. Let The Little Girl Dance
 24. Happy Days Theme
-
-<!-- section break -->
-
-
 
 
 

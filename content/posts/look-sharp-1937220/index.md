@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-{{< img src="look-sharp-1937220.jpg" title="Look Sharp! by Roxette" >}}
+Look Sharp! is the second studio album by Swedish pop duo Roxette, released on 21 October 1988 by EMI, two years after their debut Pearls of Passion (1986). It was recorded at EMI Studios in Stockholm and at Trident II Studios in London between March and September 1988. The album was an immediate commercial success in Sweden, debuting at number one and eventually being certified 6× platinum there.
+Although commercial success elsewhere was initially modest, the album was the duo's international breakthrough. It went on to be certified platinum or multi-platinum in numerous territories, while four of its singles attained commercial success. In the United States, the album was certified platinum and the singles "The Look" and "Listen to Your Heart" both topped the Billboard Hot 100, while "Dangerous" and "Dressed for Success" reached numbers 2 and 14, respectively, on the same chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Look (3:56)
 2. Dressed For Success (4:11)
 3. Sleeping Single (4:39)
@@ -38,14 +41,6 @@ styles: ["Power Pop"]
 10. View From A Hill (3:39)
 11. Shadow Of A Doubt (4:13)
 12. Listen To Your Heart (5:27)
-
-<!-- section break -->
-
-Look Sharp! is the second studio album by Swedish pop duo Roxette, released on 21 October 1988 by EMI, two years after their debut Pearls of Passion (1986). It was recorded at EMI Studios in Stockholm and at Trident II Studios in London between March and September 1988. The album was an immediate commercial success in Sweden, debuting at number one and eventually being certified 6× platinum there.
-Although commercial success elsewhere was initially modest, the album was the duo's international breakthrough. It went on to be certified platinum or multi-platinum in numerous territories, while four of its singles attained commercial success. In the United States, the album was certified platinum and the singles "The Look" and "Listen to Your Heart" both topped the Billboard Hot 100, while "Dangerous" and "Dressed for Success" reached numbers 2 and 14, respectively, on the same chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/look-sharp-deluxe-version/693221596" >}}<br>

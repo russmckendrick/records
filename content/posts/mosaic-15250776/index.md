@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="mosaic-15250776.jpg" title="Mosaic by Lesoir" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mosaic
 2. Is This It?
 3. Somebody Like You
@@ -36,10 +35,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 7. It's Never Quiet
 8. MXI
 9. Two Faces
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mosaic/1507505607" >}}<br>

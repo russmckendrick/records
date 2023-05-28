@@ -24,10 +24,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="rather-ripped-8784914.jpg" title="Rather Ripped by Sonic Youth" >}}
+Rather Ripped is the fourteenth studio album by American rock band Sonic Youth, released on June 13, 2006, by Geffen Records. It was the band's first album following the departure of multi-instrumentalist Jim O'Rourke, who had joined as a fifth member in 1999. Unlike its immediate predecessors, the album was produced by John Agnello and recorded at Sear Sound in New York City, the same studio where the band's 1994 album, Experimental Jet Set, Trash and No Star, was recorded. It also completed Sonic Youth's contract with Geffen, which released the band's previous eight records.
+Rather Ripped is considered to be one of Sonic Youth's most accessible albums, featuring an abundance of concise songs dealing with melancholic topics such as adultery, sexual frustration, and infidelity. Upon its release, the album peaked at number 71 on the US Billboard 200 and number 64 on the UK Albums Chart. It received mostly positive reviews from critics, who praised its simpler, cleaner melodies and the vocal delivery of singer and bassist Kim Gordon. The album was ranked number 12 in The Village Voice's 2006 Pazz & Jop critics' poll. Its only single, "Incinerate", was released in 2006, alongside an accompanying music video directed by French director and writer Claire Denis.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Reena (3:47)
 2. Incinerate (4:55)
 3. Do You Believe In Rapture? (3:11)
@@ -40,14 +43,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. The Neutral (4:09)
 11. Pink Steam (6:57)
 12. Or (3:31)
-
-<!-- section break -->
-
-Rather Ripped is the fourteenth studio album by American rock band Sonic Youth, released on June 13, 2006, by Geffen Records. It was the band's first album following the departure of multi-instrumentalist Jim O'Rourke, who had joined as a fifth member in 1999. Unlike its immediate predecessors, the album was produced by John Agnello and recorded at Sear Sound in New York City, the same studio where the band's 1994 album, Experimental Jet Set, Trash and No Star, was recorded. It also completed Sonic Youth's contract with Geffen, which released the band's previous eight records.
-Rather Ripped is considered to be one of Sonic Youth's most accessible albums, featuring an abundance of concise songs dealing with melancholic topics such as adultery, sexual frustration, and infidelity. Upon its release, the album peaked at number 71 on the US Billboard 200 and number 64 on the UK Albums Chart. It received mostly positive reviews from critics, who praised its simpler, cleaner melodies and the vocal delivery of singer and bassist Kim Gordon. The album was ranked number 12 in The Village Voice's 2006 Pazz & Jop critics' poll. Its only single, "Incinerate", was released in 2006, alongside an accompanying music video directed by French director and writer Claire Denis.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rather-ripped/1443129175" >}}<br>

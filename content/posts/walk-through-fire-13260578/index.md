@@ -23,10 +23,12 @@ genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Soul", "Country"]
 ---
 
-{{< img src="walk-through-fire-13260578.jpg" title="Walk Through Fire by Yola" >}}
+Yola’s sound conjures a moment in the late '60s when country, R&B, gospel, pop, rock and the lighter side of psychedelia mixed together so freely—and so seamlessly—one remembered they all came from the same distinctly American well. Produced by The Black Keys' Dan Auerbach, <i>Walk Through Fire</i> is expectedly long on style: “Faraway Look” is Dusty Springfield refracted through Phil Spector; “Walk Through Fire” is a slow folk thump so studiously offhand that Auerbach keeps the count-off in the mix; “Lonely the Night” captures the pop-lite poise of Petula Clark, and “Love All Night (Work All Day)” the catharsis of Rod Stewart. Really, though, it’s a testament to Yola’s writing and voice—smoky and deep but never smothering—that the album manages to cohere as the sound of a single artist.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Faraway Look (3:10)
 2. Shady Grove (2:43)
 3. Ride Out In The Country (3:15)
@@ -39,13 +41,6 @@ styles: ["Soul", "Country"]
 10. Still Gone (2:59)
 11. Keep Me Here (3:40)
 12. Love Is Light (3:16)
-
-<!-- section break -->
-
-Yola’s sound conjures a moment in the late '60s when country, R&B, gospel, pop, rock and the lighter side of psychedelia mixed together so freely—and so seamlessly—one remembered they all came from the same distinctly American well. Produced by The Black Keys' Dan Auerbach, <i>Walk Through Fire</i> is expectedly long on style: “Faraway Look” is Dusty Springfield refracted through Phil Spector; “Walk Through Fire” is a slow folk thump so studiously offhand that Auerbach keeps the count-off in the mix; “Lonely the Night” captures the pop-lite poise of Petula Clark, and “Love All Night (Work All Day)” the catharsis of Rod Stewart. Really, though, it’s a testament to Yola’s writing and voice—smoky and deep but never smothering—that the album manages to cohere as the sound of a single artist.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/walk-through-fire-deluxe-edition/1488514243" >}}<br>

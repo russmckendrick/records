@@ -22,10 +22,9 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: ["Ska", "Reggae-Pop"]
 ---
 
-{{< img src="total-madness-9848793.jpg" title="Total Madness by Madness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. One Step Beyond
 2. Baggy Trousers
 3. House Of Fun
@@ -49,10 +48,6 @@ styles: ["Ska", "Reggae-Pop"]
 21. Shut Up
 22. Madness
 23. Night Boat To Cairo
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/total-madness/1208858748" >}}<br>

@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="argus-8668871.jpg" title="Argus by Wishbone Ash" >}}
+Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album. It peaked at No. 3 in the UK Albums Chart.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Time Was (9:39)
 2. Sometime World (6:49)
 3. Blowin' Free (5:18)
@@ -36,15 +40,6 @@ styles: ["Hard Rock", "Classic Rock"]
 5. Leaf And Stream (3:51)
 6. Warrior  (11:58)
 7. Throw Down The Sword
-
-<!-- section break -->
-
-Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album. It peaked at No. 3 in the UK Albums Chart.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-collection/1443329907" >}}<br>

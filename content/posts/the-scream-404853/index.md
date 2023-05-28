@@ -21,10 +21,13 @@ genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-{{< img src="the-scream-404853.jpg" title="The Scream by Siouxsie & The Banshees" >}}
+The Scream is the debut studio album by British rock band Siouxsie and the Banshees, released on 13 November 1978 by Polydor Records. The album is considered a landmark recording: its innovative combination of angular guitar with a bass-led rhythm and machine-like drums played mostly on toms, made it a pioneering work of the post-punk genre.
+The Scream was met with widespread acclaim and was hailed by critics as an original musical development in rock music. It has been cited as a key influence on a number of succeeding post-punk, noise rock and alternative rock acts, including Joy Division, Killing Joke, the Cure, Big Black, Sonic Youth, the Jesus and Mary Chain, Faith No More and Massive Attack.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pure (1:48)
 2. Jigsaw Feeling (4:46)
 3. Overground (3:46)
@@ -35,14 +38,6 @@ styles: ["Post-Punk"]
 8. Nicotine Stain (2:56)
 9. Suburban Relapse (4:10)
 10. Switch (6:48)
-
-<!-- section break -->
-
-The Scream is the debut studio album by British rock band Siouxsie and the Banshees, released on 13 November 1978 by Polydor Records. The album is considered a landmark recording: its innovative combination of angular guitar with a bass-led rhythm and machine-like drums played mostly on toms, made it a pioneering work of the post-punk genre.
-The Scream was met with widespread acclaim and was hailed by critics as an original musical development in rock music. It has been cited as a key influence on a number of succeeding post-punk, noise rock and alternative rock acts, including Joy Division, Killing Joke, the Cure, Big Black, Sonic Youth, the Jesus and Mary Chain, Faith No More and Massive Attack.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-scream-deluxe/1412077263" >}}<br>

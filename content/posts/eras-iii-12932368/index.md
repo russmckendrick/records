@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="eras-iii-12932368.jpg" title="Eras III by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Accelerated Evolution
 2. Depth Charge (6:04)
 3. Storm (4:39)
@@ -85,10 +84,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 63. Bastard (10:56)
 64. The Death Of Music (10:39)
 65. Universal Flame (14:14)
-
-<!-- section break -->
-
-
 
 
 

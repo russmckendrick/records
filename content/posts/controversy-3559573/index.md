@@ -25,21 +25,6 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 ---
 
-{{< img src="controversy-3559573.jpg" title="Controversy by Prince" >}}
-
-<!-- section break -->
-
-1. Controversy (7:14)
-2. Sexuality (4:20)
-3. Do Me, Baby (7:47)
-4. Private Joy (4:25)
-5. Ronnie, Talk To Russia (1:48)
-6. Let's Work (3:57)
-7. Annie Christian (4:21)
-8. Jack U Off (3:12)
-
-<!-- section break -->
-
 Controversy is the fourth studio album by American recording artist Prince, released on October 14, 1981 by Warner Bros. Records. It was produced by Prince, written (with the exception of one track) by him, and he also performed most of the instruments on its recording. 
 Controversy reached number three on the Billboard R&B Albums chart and was certified Platinum by the Recording Industry Association of America (RIAA). It was voted the eighth best album of the year in the 1981 Pazz & Jop, an annual critics poll run by The Village Voice.This was the first of his albums to associate Prince with the color purple as well as the first to use sensational spelling in his song titles.
 
@@ -48,6 +33,16 @@ Controversy reached number three on the Billboard R&B Albums chart and was certi
         
     
 
+
+## Tracklisting
+1. Controversy (7:14)
+2. Sexuality (4:20)
+3. Do Me, Baby (7:47)
+4. Private Joy (4:25)
+5. Ronnie, Talk To Russia (1:48)
+6. Let's Work (3:57)
+7. Annie Christian (4:21)
+8. Jack U Off (3:12)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}<br>

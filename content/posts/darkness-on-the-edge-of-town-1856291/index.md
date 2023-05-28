@@ -21,10 +21,17 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-{{< img src="darkness-on-the-edge-of-town-1856291.jpg" title="Darkness On The Edge Of Town by Bruce Springsteen" >}}
+Darkness on the Edge of Town is the fourth studio album by American singer-songwriter Bruce Springsteen. It was released on June 2, 1978, by Columbia Records. Recorded following a period of legal disputes between Springsteen and his former manager Mike Appel, the sessions took place in New York City with the E Street Band from June 1977 to March 1978. Springsteen and Jon Landau co-produced, with assistance from Steven Van Zandt. The sessions yielded a large number of outtakes, several of which were given to other artists while others later appeared on compilations.
+Springsteen used outside sources when writing the album's songs, including John Steinbeck novels, John Ford films, punk rock, and country music. Musically, Darkness strips the wall of sound production of its predecessor, Born to Run, for a rawer hard rock sound emphasizing the band as a whole. The lyrics on Darkness focus on ill-fortuned characters who fight back against overwhelming odds. Compared to Springsteen's previous records, the characters are more mature and the songs are less geographically tied to the Jersey Shore area. Commentators recognize Frank Stefanko's cover photograph of Springsteen as representing a physical manifestation of the album's songs.
+Released three years after Born to Run, Darkness sold less than its predecessor but reached number five in the US, while its singles performed modestly. Springsteen promoted it on the successful Darkness Tour, his largest tour up to that point. Darkness was initially received favorably; critics praised the music and performances but were divided  the lyrical content. In later decades, the album has attracted acclaim as one of Springsteen's best works and is viewed as the benchmark for his future career. It has appeared on lists of the greatest albums of all time and was reissued in 2010, accompanied by a documentary detailing the album's making.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Badlands (4:01)
 2. Adam Raised A Cain (4:32)
 3. Something In The Night (5:12)
@@ -35,18 +42,6 @@ styles: ["Folk Rock", "Pop Rock"]
 8. Streets Of Fire (4:03)
 9. Prove It All Night (3:57)
 10. Darkness On The Edge Of Town (4:28)
-
-<!-- section break -->
-
-Darkness on the Edge of Town is the fourth studio album by American singer-songwriter Bruce Springsteen. It was released on June 2, 1978, by Columbia Records. Recorded following a period of legal disputes between Springsteen and his former manager Mike Appel, the sessions took place in New York City with the E Street Band from June 1977 to March 1978. Springsteen and Jon Landau co-produced, with assistance from Steven Van Zandt. The sessions yielded a large number of outtakes, several of which were given to other artists while others later appeared on compilations.
-Springsteen used outside sources when writing the album's songs, including John Steinbeck novels, John Ford films, punk rock, and country music. Musically, Darkness strips the wall of sound production of its predecessor, Born to Run, for a rawer hard rock sound emphasizing the band as a whole. The lyrics on Darkness focus on ill-fortuned characters who fight back against overwhelming odds. Compared to Springsteen's previous records, the characters are more mature and the songs are less geographically tied to the Jersey Shore area. Commentators recognize Frank Stefanko's cover photograph of Springsteen as representing a physical manifestation of the album's songs.
-Released three years after Born to Run, Darkness sold less than its predecessor but reached number five in the US, while its singles performed modestly. Springsteen promoted it on the successful Darkness Tour, his largest tour up to that point. Darkness was initially received favorably; critics praised the music and performances but were divided  the lyrical content. In later decades, the album has attracted acclaim as one of Springsteen's best works and is viewed as the benchmark for his future career. It has appeared on lists of the greatest albums of all time and was reissued in 2010, accompanied by a documentary detailing the album's making.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}<br>

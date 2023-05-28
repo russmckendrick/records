@@ -23,10 +23,12 @@ genres: ["Electronic", "Pop"]
 styles: ["House", "Synth-pop", "Dance-pop"]
 ---
 
-{{< img src="very-12452813.jpg" title="Very by Pet Shop Boys" >}}
+Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released on 27 September 1993 by Parlophone, nearly three years after the duo's previous studio album, Behaviour, and following the compilation album Discography: The Complete Singles Collection. Very exhibits one of many turning points the Pet Shop Boys would make to their music, shifting from the subdued electronic pop of Behaviour to richly instrumented dance arrangements. The content and lyrics led to Very being called their "coming-out" album, since it was during this time that Neil Tennant had publicly discussed his long-rumoured homosexuality.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Can You Forgive Her?
 2. I Wouldn't Normally Do This Kind Of Thing
 3. Liberation
@@ -39,13 +41,6 @@ styles: ["House", "Synth-pop", "Dance-pop"]
 10. Young Offender
 11. One In A Million
 12. Go West
-
-<!-- section break -->
-
-Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released on 27 September 1993 by Parlophone, nearly three years after the duo's previous studio album, Behaviour, and following the compilation album Discography: The Complete Singles Collection. Very exhibits one of many turning points the Pet Shop Boys would make to their music, shifting from the subdued electronic pop of Behaviour to richly instrumented dance arrangements. The content and lyrics led to Very being called their "coming-out" album, since it was during this time that Neil Tennant had publicly discussed his long-rumoured homosexuality.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/very-further-listening-1992-1994-deluxe-edition-2018/1393146194" >}}<br>

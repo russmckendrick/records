@@ -22,18 +22,13 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 ---
 
-{{< img src="dixie-narco-ep-19110514.jpg" title="Dixie-Narco EP by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Movin' On Up (3:51)
 2. Stone My Soul (3:02)
 3. Carry Me Home (5:16)
 4. Screamadelica (10:47)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dixie-narco-ep/1568698448" >}}<br>

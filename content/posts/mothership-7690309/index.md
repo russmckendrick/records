@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-{{< img src="mothership-7690309.jpg" title="Mothership by Led Zeppelin" >}}
+Mothership is a compilation album by English rock band Led Zeppelin, released by Atlantic Records and Rhino Entertainment on 12 November 2007 in the United Kingdom, and 13 November 2007 in the United States. It was released on the same day that Led Zeppelin's entire catalogue became available in digital stores, including the iTunes Store. The cover was designed by artist Shepard Fairey.The songs included were chosen by the surviving members of Led Zeppelin, Robert Plant, Jimmy Page and John Paul Jones, and represent the band's eight studio albums. In addition to a two-disc set, the album is also available in both "deluxe" and "collector's" editions with a DVD featuring varied live content from the previously released Led Zeppelin DVD (2003). A 4-LP vinyl package was also released on 26 August 2008. On 6 November 2015, the album was reissued using the audio from the band's 2014–15 remaster campaign.On 8 November 2007, a temporary XM Satellite Radio station, XM LED was made to promote the album.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Good Times Bad Times (2:46)
 2. Communication Breakdown (2:28)
 3. Dazed And Confused (6:26)
@@ -47,14 +50,6 @@ styles: ["Hard Rock", "Classic Rock"]
 22. Achilles Last Stand (10:22)
 23. In The Evening (6:49)
 24. All Of My Love (5:53)
-
-<!-- section break -->
-
-Mothership is a compilation album by English rock band Led Zeppelin, released by Atlantic Records and Rhino Entertainment on 12 November 2007 in the United Kingdom, and 13 November 2007 in the United States. It was released on the same day that Led Zeppelin's entire catalogue became available in digital stores, including the iTunes Store. The cover was designed by artist Shepard Fairey.The songs included were chosen by the surviving members of Led Zeppelin, Robert Plant, Jimmy Page and John Paul Jones, and represent the band's eight studio albums. In addition to a two-disc set, the album is also available in both "deluxe" and "collector's" editions with a DVD featuring varied live content from the previously released Led Zeppelin DVD (2003). A 4-LP vinyl package was also released on 26 August 2008. On 6 November 2015, the album was reissued using the audio from the band's 2014–15 remaster campaign.On 8 November 2007, a temporary XM Satellite Radio station, XM LED was made to promote the album.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mothership-remastered/1052497413" >}}<br>

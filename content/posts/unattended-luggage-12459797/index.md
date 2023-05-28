@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="unattended-luggage-12459797.jpg" title="Unattended Luggage by Nick Mason" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fictitious Sports
 2. Can't Get My Motor To Start (3:39)
 3. I Was Wrong (4:12)
@@ -60,10 +59,6 @@ styles: []
 34. World Of Appearances (3:21)
 35. Sacrifice Dance (3:01)
 36. White Of The Eye (3:35)
-
-<!-- section break -->
-
-
 
 
 

@@ -19,10 +19,12 @@ genres: ["Electronic", "Jazz", "Rock"]
 styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
 
-{{< img src="cobra-and-phases-group-play-voltage-in-the-milky-night-14128831.jpg" title="Cobra And Phases Group Play Voltage In The Milky Night by Stereolab" >}}
+Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album by English-French rock band Stereolab. It was released on 21 September 1999 and was issued by Duophonic Records and Elektra Records. The album was largely co-produced by Stereolab, John McEntire, and Jim O'Rourke.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fuses
 2. People Do It All The Time
 3. The Free Design
@@ -55,13 +57,6 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 30. Strobo Acceleration (Demo)
 31. Caleidoscopic Gaze (Demo)
 32. Galaxidion (Demo)
-
-<!-- section break -->
-
-Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album by English-French rock band Stereolab. It was released on 21 September 1999 and was issued by Duophonic Records and Elektra Records. The album was largely co-produced by Stereolab, John McEntire, and Jim O'Rourke.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cobra-and-phases-group-play-voltage-in-the-milky-night/1230503490" >}}<br>

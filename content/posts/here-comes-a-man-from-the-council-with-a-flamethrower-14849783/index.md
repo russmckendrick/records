@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-{{< img src="here-comes-a-man-from-the-council-with-a-flamethrower-14849783.jpg" title=" Here Comes A Man From The Council With A Flamethrower by A Formal Horse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Magazine Zooey Deschanel (2:08)
 2. Bird (2:35)
 3. I Just Called To Say I Like You (3:49)
@@ -41,10 +40,6 @@ styles: ["Prog Rock", "Alternative Rock"]
 14. Unison 3 (3:58)
 15. Boarded Doors Reprise (0:48)
 16. Anyway (3:25)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225" >}}<br>

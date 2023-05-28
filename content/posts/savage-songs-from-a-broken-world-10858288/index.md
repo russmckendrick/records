@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial"]
 ---
 
-{{< img src="savage-songs-from-a-broken-world-10858288.jpg" title="Savage: Songs From A Broken World by Gary Numan" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ghost Nation
 2. Bed Of Thorns
 3. My Name Is Ruin
@@ -44,10 +43,6 @@ styles: ["Alternative Rock", "Industrial"]
 10. Pray For The Pain You Serve
 11. Broken
 12. Cold
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/savage-songs-from-a-broken-world/1254271396" >}}<br>

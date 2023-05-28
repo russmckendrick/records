@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="drive-8685067.jpg" title="Drive by Anneke Van Giersbergen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. We Live On (03:41)
 2. Treat Me Like A Lady (04:00)
 3. She (03:08)
@@ -30,10 +29,6 @@ styles: ["Pop Rock"]
 8. Mental Jungle (03:44)
 9. Shooting For The Stars (04:33)
 10. The Best Is Yet To Come (04:04)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drive/1045638252" >}}<br>

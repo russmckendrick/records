@@ -41,10 +41,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Art Rock"]
 ---
 
-{{< img src="live-at-sin-11893791.jpg" title="Live At Sin-é by Jeff Buckley" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Be Your Husband
 2. Lover, You Should've Come Over
 3. Mojo Pin
@@ -79,10 +78,6 @@ styles: ["Folk Rock", "Art Rock"]
 32. Sweet Thing
 33. Monologue - Good Night Bill
 34. Hallelujah
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-sin-%C3%A9-legacy-edition-audio-version/309064121" >}}<br>

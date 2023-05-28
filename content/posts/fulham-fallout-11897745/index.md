@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="fulham-fallout-11897745.jpg" title="Fulham Fallout by The Lurkers" >}}
+Fulham Fallout is the studio debut album of UK punk band The Lurkers. The original album was released in June 1978 on the Beggar's Banquet label and hit number 57 on the UK Album Chart in its first week. The re-release on Captain Oi! Records added another twelve tracks of singles and demos to the original set of fourteen tracks.
+The style on this album is a good demonstration of how they earned the nickname "The British Ramones".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ain't Got A Clue
 2. I Don't Need To Tell Her
 3. Total War
@@ -37,14 +40,6 @@ styles: ["Punk"]
 12. Gerald
 13. I'm On Heat
 14. Be My Prisoner
-
-<!-- section break -->
-
-Fulham Fallout is the studio debut album of UK punk band The Lurkers. The original album was released in June 1978 on the Beggar's Banquet label and hit number 57 on the UK Album Chart in its first week. The re-release on Captain Oi! Records added another twelve tracks of singles and demos to the original set of fourteen tracks.
-The style on this album is a good demonstration of how they earned the nickname "The British Ramones".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fulham-fallout/266191802" >}}<br>

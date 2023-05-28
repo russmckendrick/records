@@ -23,10 +23,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="placebo-13705514.jpg" title="Placebo by Placebo" >}}
+Placebo is the debut studio album by British alternative rock band Placebo. It was released on 17 June 1996 by record label Virgin. It is the only album recorded with drummer Robert Schultzberg before his departure from the group.
+The album was a commercial success in the UK, reaching number 5 in the UK Albums Chart. It spawned five singles, including "Nancy Boy" and "36 Degrees". The album was remastered and reissued in 2006 for its tenth anniversary, including demos and a DVD featuring live performances and music videos from the album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Come Home
 2. Teenage Angst
 3. Bionic
@@ -37,16 +42,6 @@ styles: ["Alternative Rock"]
 8. Bruise Pristine
 9. Lady Of The Flowers
 10. Swallow
-
-<!-- section break -->
-
-Placebo is the debut studio album by British alternative rock band Placebo. It was released on 17 June 1996 by record label Virgin. It is the only album recorded with drummer Robert Schultzberg before his departure from the group.
-The album was a commercial success in the UK, reaching number 5 in the UK Albums Chart. It spawned five singles, including "Nancy Boy" and "36 Degrees". The album was remastered and reissued in 2006 for its tenth anniversary, including demos and a DVD featuring live performances and music videos from the album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/placebo/961067797" >}}<br>

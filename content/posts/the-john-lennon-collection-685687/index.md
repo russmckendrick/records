@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="the-john-lennon-collection-685687.jpg" title="The John Lennon Collection by John Lennon" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Give Peace A Chance (4:49)
 2. Instant Karma! (3:18)
 3. Power To The People (3:00)
@@ -42,10 +41,6 @@ styles: ["Pop Rock"]
 15. Beautiful Boy (Darling Boy) (4:02)
 16. Watching The Wheels (3:34)
 17. Dear Yoko (2:32)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/john-lennon-plastic-ono-band-the-ultimate-collection/1555558304" >}}<br>

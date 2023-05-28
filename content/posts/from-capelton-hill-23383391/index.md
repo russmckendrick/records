@@ -22,25 +22,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="from-capelton-hill-23383391.jpg" title="From Capelton Hill by Stars" >}}
-
-<!-- section break -->
-
-1. Palmistry
-2. Pretenders
-3. Patterns
-4. Back To The End
-5. That Girl
-6. Build A Fire
-7. Capelton Hill
-8. Hoping
-9. To Feel What They Feel
-10. If I Never See London Again
-11. I Need The Light
-12. Snowy Owl
-
-<!-- section break -->
-
 “Stars records have always dealt with crisis,” vocalist Torquil Campbell tells Apple Music about how his band soldiered on through the pandemic. “We’ve always artificially created the crisis in our songwriting because crisis is exciting—drama comes from pushing people to a moment of breaking, right? But then the crisis actually became our reality, and I think our reaction to that was to seek some sense of peace within it. Now that the drama is real, is there a way we can go to some place of circumspection about it and not let it drown us?”
 
 To find his footing, Campbell retreated to his old stomping grounds in Capelton Hill, a remote community near North Hatley, Quebec, where his family has spent its summers for generations. The annual ritual of opening and closing their seasonal home there served as the conceptual lodestar for the Montreal indie-pop band’s ninth album, <i>From Capelton Hill</i>, a record that’s brimming with nostalgia for happier times but rooted in the sobering realisation that our days are numbered, pandemic or not. “When we were making the record, I wasn’t like, ‘Oh, we’re making a pandemic record,’” Campbell says. “But a lot of the lyrics on this record acted as ways for me and [co-vocalist] Amy [Millan] to talk to each other and keep each other above the waterline. We were trying to be brave for each other.” Here, Campbell and Millan give us a track-by-track account of how they pulled through. 
@@ -83,6 +64,20 @@ TC: “Writing it in North Hadley with Chris, that’s where I started to feel v
     
     
 
+
+## Tracklisting
+1. Palmistry
+2. Pretenders
+3. Patterns
+4. Back To The End
+5. That Girl
+6. Build A Fire
+7. Capelton Hill
+8. Hoping
+9. To Feel What They Feel
+10. If I Never See London Again
+11. I Need The Light
+12. Snowy Owl
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/from-capelton-hill/1605966424" >}}<br>

@@ -25,10 +25,9 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="pop-up-jim-bob-15766080.jpg" title="Pop Up Jim Bob by Jim Bob" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Turn On, Tune In, Pop Up!
 2. Jo's Got Papercuts
 3. Kidstrike!
@@ -40,10 +39,6 @@ styles: ["Alternative Rock"]
 9. Barry's On Safari (In His Safari Suit)
 10. #thoughtsandprayers
 11. You're Cancelled And We're Done
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pop-up-jim-bob/1511931898" >}}<br>

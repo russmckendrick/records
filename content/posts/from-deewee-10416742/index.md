@@ -33,10 +33,14 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Disco"]
 ---
 
-{{< img src="from-deewee-10416742.jpg" title="From Deewee by Soulwax" >}}
+From Deewee (stylized as FROM DEEWEE) is the fourth studio album by Belgian electronic music duo Soulwax, released on 24 March 2017. With a length of 48 minutes, the album was recorded in one take by the Dewaele brothers along with three drummers. Besides the normal members of Soulwax, there is Laima Leyton on keys, Igor Cavalera, Blake Davies and Victoria Smith on drums. The first single from the album was "Transient Program for Drums and Machinery".
+The concept for the album was taken from Transient Program For Drums and Machinery, a live show they did in 2016.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Preset Tense
 2. Masterplanned
 3. Missing Wires
@@ -49,15 +53,6 @@ styles: ["Electro", "Synth-pop", "Disco"]
 10. The Singer Has Become A Deejay
 11. Here Come The Men In Suits
 12. Goodnight Transmission
-
-<!-- section break -->
-
-From Deewee (stylized as FROM DEEWEE) is the fourth studio album by Belgian electronic music duo Soulwax, released on 24 March 2017. With a length of 48 minutes, the album was recorded in one take by the Dewaele brothers along with three drummers. Besides the normal members of Soulwax, there is Laima Leyton on keys, Igor Cavalera, Blake Davies and Victoria Smith on drums. The first single from the album was "Transient Program for Drums and Machinery".
-The concept for the album was taken from Transient Program For Drums and Machinery, a live show they did in 2016.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/from-deewee/1202928741" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ---
 
-{{< img src="big-trouble-in-little-china-original-motion-picture-soundtrack-12384176.jpg" title="Big Trouble In Little China (Original Motion Picture Soundtrack) by John Carpenter" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Prologue (2:15)
 2. Pork Chop Express (Main Title) (4:01)
 3. Abduction At Airport (4:17)
@@ -48,10 +47,6 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 18. The Final Escape (Lo Pan's Demise / Getaway) (7:02)
 19. Goodbye Jack (3:14)
 20. Big Trouble In Little China (End Credits - Album Version) (3:22)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-trouble-in-little-china-original-motion-picture/1502302598" >}}<br>

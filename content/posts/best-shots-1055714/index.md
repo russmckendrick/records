@@ -19,10 +19,14 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 ---
 
-{{< img src="best-shots-1055714.jpg" title="Best Shots by Pat Benatar" >}}
+Best Shots is a Platinum-certified greatest hits album released by the American rock singer Pat Benatar in 1987 in Europe and in an updated version in 1989 in North America. It peaked at No. 67 on the U.S. Billboard 200 album chart, two years after the album peaked at No. 6 in the UK.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Hit Me With Your Best Shot (2:50)
 2. Love Is A Battlefield (4:03)
 3. We Belong (3:40)
@@ -35,15 +39,6 @@ styles: ["Pop Rock", "Ballad", "Classic Rock", "Hard Rock"]
 10. Treat Me Right (3:24)
 11. If You Think You Know How To Love Me (3:45)
 12. You Better Run (3:04)
-
-<!-- section break -->
-
-Best Shots is a Platinum-certified greatest hits album released by the American rock singer Pat Benatar in 1987 in Europe and in an updated version in 1989 in North America. It peaked at No. 67 on the U.S. Billboard 200 album chart, two years after the album peaked at No. 6 in the UK.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/best-shots/724322042" >}}<br>

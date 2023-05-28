@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="brothers-sisters-26299913.jpg" title="Brothers & Sisters by Steve Mason" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mars Man
 2. I'm On My Way
 3. No More
@@ -43,10 +42,6 @@ styles: ["Indie Rock"]
 9. Brixton Fish Fry
 10. Upon My Soul
 11. Brothers & Sisters
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brothers-sisters/1650378995" >}}<br>

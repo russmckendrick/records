@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="wisdom-of-crowds-4883479.jpg" title="Wisdom Of Crowds by Bruce Soord" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pleasure (6:10)
 2. Wisdom Of Crowds (5:02)
 3. Radio Star (4:34)
@@ -38,10 +37,6 @@ styles: ["Prog Rock"]
 7. Pretend (5:23)
 8. The Centre Of Gravity (5:36)
 9. Flows Through You (11:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wisdom-of-crowds/682955123" >}}<br>

@@ -19,10 +19,9 @@ genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
 
-{{< img src="waiata-2684571.jpg" title="Waiata by Split Enz" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hard Act To Follow (3:17)
 2. One Step Ahead (2:52)
 3. I Don't Wanna Dance (3:34)
@@ -34,10 +33,6 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 9. Ships (3:01)
 10. Ghost Girl (4:26)
 11. Albert Of India (4:05)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

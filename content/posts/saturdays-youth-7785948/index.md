@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ---
 
-{{< img src="saturdays-youth-7785948.jpg" title="Saturdays = Youth by M83" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. You, Appearing
 2. Kim & Jessie
 3. Skin Of The Night
@@ -31,10 +30,6 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 9. Too Late
 10. Dark Moves Of Love
 11. Midnight Souls Still Remain
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/saturdays-youth/1672227190" >}}<br>

@@ -24,10 +24,13 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="orchestral-manoeuvres-in-the-dark-12748287.jpg" title="Orchestral Manoeuvres In The Dark by Orchestral Manoeuvres In The Dark" >}}
+"Electricity" is the 1979 debut single by English electronic band Orchestral Manoeuvres in the Dark (OMD), featured on their eponymous debut album the following year. Andy McCluskey and Paul Humphreys sing the lead vocals on the track together in unison. Recognised as one of the most influential singles of its era, "Electricity" was integral to the rise of the UK's synth-pop movement. It has garnered praise from music journalists and other recording artists.
+The track is a holdover from defunct Wirral group the Id (who were led by McCluskey and Humphreys), and features a melodic synthesizer break as opposed to a sung chorus. Following OMD's release of "Electricity" on Factory Records, the band were offered a recording contract with Dindisc, who twice re-issued the single. It achieved limited success on the UK Singles Chart, peaking at no. 99 in early 1980, but found popularity in nightclubs. A 2019 re-release, through Virgin EMI, topped the UK Vinyl Singles Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Bunker Soldiers (2:51)
 2. Almost (3:40)
 3. Mystereality (2:42)
@@ -38,14 +41,6 @@ styles: ["Synth-pop"]
 8. Red Frame / White Light (3:11)
 9. Dancing (2:59)
 10. Pretending To See The Future (3:48)
-
-<!-- section break -->
-
-"Electricity" is the 1979 debut single by English electronic band Orchestral Manoeuvres in the Dark (OMD), featured on their eponymous debut album the following year. Andy McCluskey and Paul Humphreys sing the lead vocals on the track together in unison. Recognised as one of the most influential singles of its era, "Electricity" was integral to the rise of the UK's synth-pop movement. It has garnered praise from music journalists and other recording artists.
-The track is a holdover from defunct Wirral group the Id (who were led by McCluskey and Humphreys), and features a melodic synthesizer break as opposed to a sung chorus. Following OMD's release of "Electricity" on Factory Records, the band were offered a recording contract with Dindisc, who twice re-issued the single. It achieved limited success on the UK Singles Chart, peaking at no. 99 in early 1980, but found popularity in nightclubs. A 2019 re-release, through Virgin EMI, topped the UK Vinyl Singles Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}<br>

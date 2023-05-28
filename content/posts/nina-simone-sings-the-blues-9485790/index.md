@@ -30,10 +30,12 @@ genres: ["Blues"]
 styles: []
 ---
 
-{{< img src="nina-simone-sings-the-blues-9485790.jpg" title="Nina Simone Sings The Blues by Nina Simone" >}}
+In 1967, the great Nina Simone shifted from the orchestral arrangements of <i>High Priestess of Soul</i> to the rawer small-band aesthetic of <i>Sings the Blues</i>, her first record for RCA. Backed by top session players including drummer Bernard Purdie, Simone didn’t sing only the blues, however: As always, she boiled a wide range of styles into her own inimitable stew. But the originals “Do I Move You?” and “Blues for Mama” were blues through and through, and “Backlash Blues,” with lyrics by Langston Hughes, epitomized Simone’s galvanizing role in the art and politics of the time: “Mr. Backlash/Just who do you think I am?/You raise my taxes, freeze my wages/And send my son to Vietnam.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Do I Move You? (2:41)
 2. Day And Night (2:34)
 3. In The Dark (2:53)
@@ -45,13 +47,6 @@ styles: []
 9. Since I Fell For You (2:44)
 10. The House Of The Rising Sun (3:55)
 11. Blues For Mama (3:52)
-
-<!-- section break -->
-
-In 1967, the great Nina Simone shifted from the orchestral arrangements of <i>High Priestess of Soul</i> to the rawer small-band aesthetic of <i>Sings the Blues</i>, her first record for RCA. Backed by top session players including drummer Bernard Purdie, Simone didn’t sing only the blues, however: As always, she boiled a wide range of styles into her own inimitable stew. But the originals “Do I Move You?” and “Blues for Mama” were blues through and through, and “Backlash Blues,” with lyrics by Langston Hughes, epitomized Simone’s galvanizing role in the art and politics of the time: “Mr. Backlash/Just who do you think I am?/You raise my taxes, freeze my wages/And send my son to Vietnam.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sings-the-blues/209405366" >}}<br>

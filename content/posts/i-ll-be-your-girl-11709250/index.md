@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock"]
 ---
 
-{{< img src="i-ll-be-your-girl-11709250.jpg" title="I'll Be Your Girl by The Decemberists" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Once In My Life (5:09)
 2. Cutting Stone (3:20)
 3. Severed (4:03)
@@ -40,10 +39,6 @@ styles: ["Indie Rock", "Folk Rock"]
 9. We All Die Young (4:01)
 10. Rusalka, Rusalka/ Wild Rushes (8:15)
 11. I'll Be Your Girl (2:34)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ill-be-your-girl/1333262413" >}}<br>

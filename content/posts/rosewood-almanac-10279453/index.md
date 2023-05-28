@@ -16,10 +16,12 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="rosewood-almanac-10279453.jpg" title="Rosewood Almanac by Will Stratton" >}}
+Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Light Blue (4:06)
 2. Thick Skin (3:06)
 3. Manzanita (3:46)
@@ -30,13 +32,6 @@ styles: []
 8. Skating On The Glass (2:07)
 9. This Is What We Do (3:23)
 10. Ribbons (3:09)
-
-<!-- section break -->
-
-Rosewood Almanac is the sixth studio album by American singer-songwriter Will Stratton. It was released on May 12, 2017 through Bella Union.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rosewood-almanac/1199406397" >}}<br>

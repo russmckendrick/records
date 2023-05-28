@@ -23,23 +23,18 @@ genres: ["Rock"]
 styles: ["Post Rock", "Experimental", "Ambient", "Art Rock"]
 ---
 
-{{< img src="laughing-stock-8574859.jpg" title="Laughing Stock by Talk Talk" >}}
+After the singular greatness of their previous album, Talk Talk came back with an album that went even deeper into the recesses of the spiritual mind. The album garnered comparisons to Miles Davis’ <i>In a Silent Way</i> for its placid surfaces and its deep emotional concerns. Singer Mark Hollis is working through his own personal soul music here. With the help of producer-multi-instrumentalist Tim Friese-Greene and a large variety of external musicians, including a classical ensemble, Talk Talk break through all the barriers of pop music and occasionally into the trance-like work of Steve Roach and David Sylvian. “Myrrhman” sets a dark tone. For a relatively brief five-and-a half-minutes, the dynamic never raises above a murmur. “Ascension Day” is nearly celebratory in comparison, with Hollis pulling out his Stevie Winwood-inspired blue-eyed soul among the ambient and avant-garde textures. “After the Flood” takes things to a brutal extreme with the organ doing serious battle. It’s an absolutely essential album and it would be Talk Talk’s final. All that followed was Mark Hollis’ excellent 1998 solo album and then his retirement.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Myrrhman
 2. Ascension Day
 3. After The Flood
 4. Taphead
 5. New Grass
 6. Runeii
-
-<!-- section break -->
-
-After the singular greatness of their previous album, Talk Talk came back with an album that went even deeper into the recesses of the spiritual mind. The album garnered comparisons to Miles Davis’ <i>In a Silent Way</i> for its placid surfaces and its deep emotional concerns. Singer Mark Hollis is working through his own personal soul music here. With the help of producer-multi-instrumentalist Tim Friese-Greene and a large variety of external musicians, including a classical ensemble, Talk Talk break through all the barriers of pop music and occasionally into the trance-like work of Steve Roach and David Sylvian. “Myrrhman” sets a dark tone. For a relatively brief five-and-a half-minutes, the dynamic never raises above a murmur. “Ascension Day” is nearly celebratory in comparison, with Hollis pulling out his Stevie Winwood-inspired blue-eyed soul among the ambient and avant-garde textures. “After the Flood” takes things to a brutal extreme with the organ doing serious battle. It’s an absolutely essential album and it would be Talk Talk’s final. All that followed was Mark Hollis’ excellent 1998 solo album and then his retirement.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughing-stock/1442531159" >}}<br>

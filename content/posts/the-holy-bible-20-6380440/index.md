@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="the-holy-bible-20-6380440.jpg" title="The Holy Bible 20 by Manic Street Preachers" >}}
+In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm, and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Holy Bible
 2. Yes
 3. Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart
@@ -99,13 +101,6 @@ styles: ["Alternative Rock"]
 76. Faster
 77. PCP
 78. This Is Yesterday
-
-<!-- section break -->
-
-In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm, and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-remastered/942562485" >}}<br>

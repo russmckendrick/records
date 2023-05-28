@@ -25,10 +25,12 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo", "Dub"]
 ---
 
-{{< img src="protection-9438479.jpg" title="Protection by Massive Attack" >}}
+Protection is the second studio album by English electronic music group Massive Attack, released on 26 September 1994 by Wild Bunch Records and Circa. DJ Mad Professor remixed the album in 1995 under the name No Protection.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Protection
 2. Karmacoma
 3. Three
@@ -39,13 +41,6 @@ styles: ["Trip Hop", "Downtempo", "Dub"]
 8. Sly
 9. Heat Miser
 10. Light My Fire (Live)
-
-<!-- section break -->
-
-Protection is the second studio album by English electronic music group Massive Attack, released on 26 September 1994 by Wild Bunch Records and Circa. DJ Mad Professor remixed the album in 1995 under the name No Protection.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/protection/724410562" >}}<br>

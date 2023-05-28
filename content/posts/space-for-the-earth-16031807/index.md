@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="space-for-the-earth-16031807.jpg" title="Space For The Earth by Ozric Tentacles" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Stripey Clouds (6:37)
 2. Blooperdome (5:34)
 3. Humboldt Currant (6:59)
@@ -38,10 +37,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 5. Climbing Plants (7:05)
 6. Space For The Earth (7:36)
 7. Harmonic Steps (6:35)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/space-for-the-earth/1524291057" >}}<br>

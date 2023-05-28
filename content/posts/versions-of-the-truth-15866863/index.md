@@ -27,10 +27,14 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="versions-of-the-truth-15866863.jpg" title="Versions Of The Truth by The Pineapple Thief" >}}
+Versions of the Truth is the thirteenth studio album by British progressive rock band The Pineapple Thief, released on 4 September 2020 through Kscope. it is the third album to include Gavin Harrison on drums.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Versions Of The Truth
 2. Break It All
 3. Demons
@@ -41,15 +45,6 @@ styles: ["Prog Rock"]
 8. Out Of Line
 9. Stop Making Sense
 10. The Game
-
-<!-- section break -->
-
-Versions of the Truth is the thirteenth studio album by British progressive rock band The Pineapple Thief, released on 4 September 2020 through Kscope. it is the third album to include Gavin Harrison on drums.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/versions-of-the-truth/1516089209" >}}<br>

@@ -24,10 +24,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-{{< img src="young-tribe-rule-24087902.jpg" title="Young Tribe Rule by Whiteout" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Me Through (Outta Here) (3:42)
 2. Sleep Talking (3:17)
 3. Bright Shining Lie (7:03)
@@ -37,10 +36,6 @@ styles: ["Indie Rock", "Alternative Rock"]
 7. Rocks Off (3:24)
 8. Shine On You (Acoustic) (4:55)
 9. The Days Of The Week (2:43)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-tribe-rule/1635555869" >}}<br>

@@ -22,10 +22,12 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="the-pleasure-principle-7654481.jpg" title="The Pleasure Principle by Gary Numan" >}}
+The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Airlane
 2. Metal
 3. Complex
@@ -36,13 +38,6 @@ styles: ["New Wave", "Synth-pop"]
 8. Conversation
 9. Cars
 10. Engineers
-
-<!-- section break -->
-
-The Pleasure Principle is the debut solo studio album by English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-30th-anniversary-edition/331564777" >}}<br>

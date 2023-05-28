@@ -26,10 +26,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ---
 
-{{< img src="king-rocker-the-original-soundtrack-21188260.jpg" title="King Rocker (The Original Soundtrack) by The Nightingales" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Use Your Loaf
 2. Surplus And Scarcity
 3. What A Carry On
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 10. Chaff
 11. The Desperate Quartet
 12. Gales Doc
-
-<!-- section break -->
-
-
 
 
 

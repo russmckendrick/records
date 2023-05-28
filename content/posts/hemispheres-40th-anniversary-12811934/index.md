@@ -37,10 +37,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-{{< img src="hemispheres-40th-anniversary-12811934.jpg" title="Hemispheres 40th Anniversary  by Rush" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Album - 2015 Abbey Road Remaster
 2. Cygnus X-1 Book II: Hemispheres 
 3. Circumstances
@@ -58,10 +57,6 @@ styles: ["Hard Rock", "Prog Rock"]
 15. Something For Nothing
 16. Live In Arizona: November 20, 1978
 17. 2112
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347" >}}<br>

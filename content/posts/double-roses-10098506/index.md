@@ -18,10 +18,9 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="double-roses-10098506.jpg" title="Double Roses by Karen Elson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Wonder Blind
 2. Double Roses
 3. Call Your Name
@@ -32,10 +31,6 @@ styles: ["Indie Rock"]
 8. A Million Stars
 9. Wolf
 10. Distant Shore
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}<br>

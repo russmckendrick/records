@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Punk"]
 ---
 
-{{< img src="the-59-sound-7246420.jpg" title="The '59 Sound by The Gaslight Anthem" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Great Expectations
 2. The '59 Sound
 3. Old White Lincoln
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Punk"]
 10. Meet Me By The River's Edge
 11. Here's Looking At You Kid
 12. The Backseat
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-59-sound/1631014742" >}}<br>

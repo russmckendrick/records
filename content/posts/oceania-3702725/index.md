@@ -22,10 +22,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="oceania-3702725.jpg" title="Oceania by The Smashing Pumpkins" >}}
+Oceania is the eighth studio album by American alternative rock band the Smashing Pumpkins, released on June 19, 2012 through Martha's Music. The album was produced by Billy Corgan and Bjorn Thorsrud, and forms part of the band's 34-track music project Teargarden by Kaleidyscope. It was their first studio album to feature guitarist Jeff Schroeder, and their only album to contain contributions from bassist Nicole Fiorentino and drummer Mike Byrne, who replaced original drummer Jimmy Chamberlin.The album was a critical and commercial success, debuting at number four on the Billboard 200. As of September 2012, Oceania sold over 102,000 copies in the US. A live performance of the album, Oceania: Live in NYC, was released on September 24, 2013.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Quasar (4:55)
 2. Panopticon (3:52)
 3. The Celestials (3:57)
@@ -39,15 +43,6 @@ styles: ["Alternative Rock"]
 11. Glissandra (4:06)
 12. Inkless (3:08)
 13. Wildflower (4:42)
-
-<!-- section break -->
-
-Oceania is the eighth studio album by American alternative rock band the Smashing Pumpkins, released on June 19, 2012 through Martha's Music. The album was produced by Billy Corgan and Bjorn Thorsrud, and forms part of the band's 34-track music project Teargarden by Kaleidyscope. It was their first studio album to feature guitarist Jeff Schroeder, and their only album to contain contributions from bassist Nicole Fiorentino and drummer Mike Byrne, who replaced original drummer Jimmy Chamberlin.The album was a critical and commercial success, debuting at number four on the Billboard 200. As of September 2012, Oceania sold over 102,000 copies in the US. A live performance of the album, Oceania: Live in NYC, was released on September 24, 2013.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oceania/720100109" >}}<br>

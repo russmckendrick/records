@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 ---
 
-{{< img src="archive-cardiacs-11724438.jpg" title="Archive Cardiacs by Cardiacs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Aukamacic
 2. Icky Qualms
 3. Piffol Four Times
@@ -38,10 +37,6 @@ styles: ["Art Rock", "Post Rock", "Abstract", "Experimental", "Punk"]
 10. A Game For Bertie's Party
 11. Piffol Three Times
 12. Rock Around The Clock
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/archive/335949366" >}}<br>

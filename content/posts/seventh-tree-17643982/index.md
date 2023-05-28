@@ -29,10 +29,15 @@ genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Leftfield", "Downtempo", "Folk"]
 ---
 
-{{< img src="seventh-tree-17643982.jpg" title="Seventh Tree by Goldfrapp" >}}
+Seventh Tree is the fourth studio album by English electronic music duo Goldfrapp, released on 22 February 2008 by Mute Records. It was named after a dream Alison Goldfrapp had about a "very large tree". Taking inspiration from paganism and surreal English children's books, Goldfrapp described the album as a "sensual counterpoint to the glitterball glamour of Supernature", their previous studio album from 2005.Seventh Tree became the duo's most critically acclaimed album since their 2000 debut Felt Mountain, with critics praising their new sound and their bravery for abandoning the dance atmosphere of their previous two albums. The album debuted at number two on the UK Albums Chart with 46,945 copies sold in its first week.
+Four singles were released from the album. "A&E" was released as the lead single on 11 February 2008, peaking at number 10 on the UK Singles Chart. The album's second single, "Happiness", peaked at number 25 on the UK chart, while the third single, "Caravan Girl", reached number 54. "Clowns" was released as the fourth and final single, charting at number 115 in the UK.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Clowns
 2. Little Bird
 3. Happiness
@@ -43,16 +48,6 @@ styles: ["Leftfield", "Downtempo", "Folk"]
 8. Cologne Cerrone Houdini
 9. Caravan Girl
 10. Monster Love
-
-<!-- section break -->
-
-Seventh Tree is the fourth studio album by English electronic music duo Goldfrapp, released on 22 February 2008 by Mute Records. It was named after a dream Alison Goldfrapp had about a "very large tree". Taking inspiration from paganism and surreal English children's books, Goldfrapp described the album as a "sensual counterpoint to the glitterball glamour of Supernature", their previous studio album from 2005.Seventh Tree became the duo's most critically acclaimed album since their 2000 debut Felt Mountain, with critics praising their new sound and their bravery for abandoning the dance atmosphere of their previous two albums. The album debuted at number two on the UK Albums Chart with 46,945 copies sold in its first week.
-Four singles were released from the album. "A&E" was released as the lead single on 11 February 2008, peaking at number 10 on the UK Singles Chart. The album's second single, "Happiness", peaked at number 25 on the UK chart, while the third single, "Caravan Girl", reached number 54. "Clowns" was released as the fourth and final single, charting at number 115 in the UK.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seventh-tree/1143225545" >}}<br>

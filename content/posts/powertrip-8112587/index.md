@@ -27,10 +27,12 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
-{{< img src="powertrip-8112587.jpg" title="Powertrip by Monster Magnet" >}}
+Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkwind, Black Sabbath, and Iggy & The Stooges, making leader Dave Wyndorf's authority unquestionable. He lives and breathes this music, and it shows. There are no half-steps here. The opening Stooges-like menace of "Crop Circle" is earth-rattling, and things only get crazier from there. "Powertrip", "Space Lord", and "3rd Eye Landslide" are solid rock/punk numbers with massive guitar sounds that make them easy shots for the arena. "See You in Hell" tells a creepy story based in truth, with a garage-rock organ that's pure psychedelia. "Baby Götterdämerung" throws in heavily tremoloed guitar for a psychedelic ballad. "Temple of Your Dreams" evokes the warrior side of heavy metal. "Tractor", an older MM song, is a beautifully dirty track that wallows in sludge. "19 Witches" throws in spaghetti western guitar. The band sounds both heavy and like it's having fun. <i>Powertrip</i> is a stone classic.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Crop Circle
 2. Powertrip
 3. Space Lord
@@ -47,13 +49,6 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 14. Big God (B-Side)
 15. The Game (B-Side)
 16. Space Lord (Intergalactic 7 Remix)
-
-<!-- section break -->
-
-Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkwind, Black Sabbath, and Iggy & The Stooges, making leader Dave Wyndorf's authority unquestionable. He lives and breathes this music, and it shows. There are no half-steps here. The opening Stooges-like menace of "Crop Circle" is earth-rattling, and things only get crazier from there. "Powertrip", "Space Lord", and "3rd Eye Landslide" are solid rock/punk numbers with massive guitar sounds that make them easy shots for the arena. "See You in Hell" tells a creepy story based in truth, with a garage-rock organ that's pure psychedelia. "Baby Götterdämerung" throws in heavily tremoloed guitar for a psychedelic ballad. "Temple of Your Dreams" evokes the warrior side of heavy metal. "Tractor", an older MM song, is a beautifully dirty track that wallows in sludge. "19 Witches" throws in spaghetti western guitar. The band sounds both heavy and like it's having fun. <i>Powertrip</i> is a stone classic.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/powertrip/1440922360" >}}<br>

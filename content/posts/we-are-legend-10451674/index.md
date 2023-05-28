@@ -19,17 +19,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="we-are-legend-10451674.jpg" title="We Are Legend by Magenta" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Trojan (25:58)
 2. Colours (10:48)
 3. Legend (11:22)
-
-<!-- section break -->
-
-
 
 
 

@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-{{< img src="the-best-of-suede-beautiful-ones-1992-2018-16032926.jpg" title="The Best Of Suede. Beautiful Ones. 1992-2018 by Suede" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Drowners
 2. Metal Mickey
 3. Animal Nitrate
@@ -79,10 +78,6 @@ styles: ["Indie Rock", "Britpop"]
 54. As One
 55. All The Wild Places
 56. Flytipping
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}<br>

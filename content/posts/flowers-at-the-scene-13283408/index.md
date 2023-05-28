@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-{{< img src="flowers-at-the-scene-13283408.jpg" title="Flowers At The Scene by Tim Bowness" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Go Deeper (4:15)
 2. The Train That Pulled Away (4:04)
 3. Rainmark (4:15)
@@ -51,10 +50,6 @@ styles: ["Art Rock", "Prog Rock"]
 20. The War On Me (3:47)
 21. Killing To Survive (3:59)
 22. What Lies Here (4:00)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-at-the-scene/1447398700" >}}<br>

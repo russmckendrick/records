@@ -19,16 +19,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="susannah-s-still-alive-1605967.jpg" title="Susannah's Still Alive by Cardiacs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Susannah's Still Alive
 2. Blind In Safety And Leafy In Love
-
-<!-- section break -->
-
-
 
 
 

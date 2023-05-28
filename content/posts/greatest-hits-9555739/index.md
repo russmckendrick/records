@@ -26,10 +26,14 @@ genres: ["Rock", "Pop"]
 styles: ["Synth-pop", "Pop Rock"]
 ---
 
-{{< img src="greatest-hits-9555739.jpg" title="Greatest Hits by Eurythmics" >}}
+Greatest Hits is a greatest hits album by British pop duo Eurythmics, released on 18 March 1991 by RCA Records. It contains their successful singles spanning the years 1982 through 1990. The album topped the charts in the United Kingdom for a total of 10 weeks and in Australia for seven weeks. It remains the duo's best-selling album worldwide and has been certified six-times platinum in the United Kingdom and triple platinum in the United States. Phil Sutcliffe in Q Magazine noted that "this compilation portrays, for once, a band accorded precise justice by the singles charts".The original European version of the album contains 18 tracks, while the version released in the US contains only 14. The five songs omitted from the US edition are "Right by Your Side", "Sexcrime (Nineteen Eighty-Four)", "It's Alright (Baby's Coming Back)", "You Have Placed a Chill in My Heart" and "The Miracle of Love", while "The King and Queen of America" is added. The track order also differs.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Love Is A Stranger (3:40)
 2. Sweet Dreams (Are Made Of This) (4:50)
 3. Who's That Girl? (3:44)
@@ -48,15 +52,6 @@ styles: ["Synth-pop", "Pop Rock"]
 16. Would I Lie To You? (4:22)
 17. Missionary Man (3:45)
 18. I Need A Man (4:21)
-
-<!-- section break -->
-
-Greatest Hits is a greatest hits album by British pop duo Eurythmics, released on 18 March 1991 by RCA Records. It contains their successful singles spanning the years 1982 through 1990. The album topped the charts in the United Kingdom for a total of 10 weeks and in Australia for seven weeks. It remains the duo's best-selling album worldwide and has been certified six-times platinum in the United Kingdom and triple platinum in the United States. Phil Sutcliffe in Q Magazine noted that "this compilation portrays, for once, a band accorded precise justice by the singles charts".The original European version of the album contains 18 tracks, while the version released in the US contains only 14. The five songs omitted from the US edition are "Right by Your Side", "Sexcrime (Nineteen Eighty-Four)", "It's Alright (Baby's Coming Back)", "You Have Placed a Chill in My Heart" and "The Miracle of Love", while "The King and Queen of America" is added. The track order also differs.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits-eurythmics/307738008" >}}<br>

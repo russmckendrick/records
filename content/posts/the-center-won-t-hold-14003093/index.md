@@ -20,26 +20,6 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="the-center-won-t-hold-14003093.jpg" title="The Center Won't Hold by Sleater-Kinney" >}}
-
-<!-- section break -->
-
-1. The Center Won't Hold
-2. Hurry On Home
-3. Reach Out
-4. Can I Go On
-5. Restless
-6. Ruins
-7. Love
-8. Bad Dance
-9. The Future Is Here
-10. The Dog/The Body
-11. Broken
-12. Hurry On Home
-13. The Dog/The Body
-
-<!-- section break -->
-
 Sleater-Kinney’s ninth album in 25 years—and their second since reforming in 2014 after a decade-long break—marks a new era of experimentation for the Portland rock band. “We’re truly in the middle period of Sleater-Kinney,” Carrie Brownstein tells Apple Music. “You're taking what you know and then figuring out the future. What can we rely upon? How can we change it?” <i>The Center Won’t Hold</i> was produced by Annie Clark (aka St. Vincent), and her boundary-pushing influence can be heard throughout. “We knew she was a fan of the band, and she's a friend of ours,” says Brownstein. “We knew she would bring something innovative and imaginative to it.” The record features long-time members Brownstein, Corin Tucker and drummer Janet Weiss, who left suddenly before its release. “We really allowed ourselves to feel what we needed to feel and express what we needed to express,” says Tucker. “There's a lot of anger, but there's also some grief.” Here, Brownstein and Tucker talk through each song on <i>The Center Won’t Hold</i>.<br />
 <b>“The Center Won't Hold”</b> 
 Corin Tucker: “We really wanted to immediately set the stage with a catastrophic theme for the beginning of the album. An element of grief, almost like a funeral procession.” 
@@ -68,6 +48,21 @@ Tucker: “This song is really about realising that there's some social justice 
     
     
 
+
+## Tracklisting
+1. The Center Won't Hold
+2. Hurry On Home
+3. Reach Out
+4. Can I Go On
+5. Restless
+6. Ruins
+7. Love
+8. Bad Dance
+9. The Future Is Here
+10. The Dog/The Body
+11. Broken
+12. Hurry On Home
+13. The Dog/The Body
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-center-wont-hold/1467763810" >}}<br>

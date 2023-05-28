@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="dreams-the-collection-14815395.jpg" title="Dreams: The Collection by The Cranberries" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Linger (4:34)
 2. Dreams (4:24)
 3. When You're Gone (4:55)
@@ -35,10 +34,6 @@ styles: ["Alternative Rock"]
 9. Promises (5:27)
 10. I Can't Be With You (3:07)
 11. Salvation (2:24)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dreams-the-collection/1440649801" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="letters-to-maro-11856237.jpg" title="Letters To Maro by Frequency Drift" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dear Maro (6:22)
 2. Underground (5:02)
 3. Electricity (4:52)
@@ -37,10 +36,6 @@ styles: ["Prog Rock"]
 9. Sleep Paralysis (6:03)
 10. Who's Master? (9:16)
 11. Ghosts When It Rains (3:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/letters-to-maro/1348707186" >}}<br>

@@ -25,10 +25,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-{{< img src="purple-4662898.jpg" title="Purple by Stone Temple Pilots" >}}
+The year 1994 signaled grunge’s last grunt as the dominant sound of alterna-teen culture. While Soundgarden enjoyed their first No. 1 record with <i>Superunknown</i>, Pearl Jam were actively avoiding MTV to deflate their own hype and the Nirvana saga came to a tragic end. But where Stone Temple Pilots’ 1992 debut, <i>Core</i>, presented the San Diego upstarts as eager shotgun riders on the grunge wave, their 1994 follow-up savvily anticipated the changing cultural tides by looking beyond Seattle for inspiration.<br />
+<i>Purple</i> hardly skimps on the hard-rock swagger that made <i>Core</i> a multi-platinum smash—the frenzied “Unglued” and sludgy “Meatplow” pack the sort of pulverizing riffs that launched a million stage dives. But the album reveals surprising new dimensions to Stone Temple Pilots’ attack: On “Vasoline,” they hammer away at a fuzzy two-note refrain until it locks into a hypnotic psychedelic groove (the bongos certainly help), and while “Big Empty” revisits the skyscraping peaks of <i>Core</i>’s calling-card single, “Plush,” it takes its sweet time getting there atop some bluesy slide-guitar licks.<br />
+The most dramatic developments, however, are happening in Scott Weiland’s larynx. No longer the Vedder-like warbler of old, the singer invests the campfire-folk reprieve “Pretty Penny” with Beatles-esque bonhomie, and showcases a previously untapped sensitivity on “Interstate Love Song,” which sounds like a ‘70s soft-rock ballad dressed up in a flannel shirt and cut-off shorts. A resounding repudiation of the critics who initially dismissed them as alt-rock also-rans, <i>Purple</i> displays the first real flashes of the melodic ingenuity and glammy eccentricity that would ultimately distinguish Stone Temple Pilots from their mosh-pit peers.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Meatplow (3:38)
 2. Vasoline (2:56)
 3. Lounge Fly (5:17)
@@ -40,16 +45,6 @@ styles: ["Alternative Rock", "Grunge"]
 9. Unglued (2:34)
 10. Army Ants (3:46)
 11. Kitchenware & Candybars (8:05)
-
-<!-- section break -->
-
-The year 1994 signaled grunge’s last grunt as the dominant sound of alterna-teen culture. While Soundgarden enjoyed their first No. 1 record with <i>Superunknown</i>, Pearl Jam were actively avoiding MTV to deflate their own hype and the Nirvana saga came to a tragic end. But where Stone Temple Pilots’ 1992 debut, <i>Core</i>, presented the San Diego upstarts as eager shotgun riders on the grunge wave, their 1994 follow-up savvily anticipated the changing cultural tides by looking beyond Seattle for inspiration.<br />
-<i>Purple</i> hardly skimps on the hard-rock swagger that made <i>Core</i> a multi-platinum smash—the frenzied “Unglued” and sludgy “Meatplow” pack the sort of pulverizing riffs that launched a million stage dives. But the album reveals surprising new dimensions to Stone Temple Pilots’ attack: On “Vasoline,” they hammer away at a fuzzy two-note refrain until it locks into a hypnotic psychedelic groove (the bongos certainly help), and while “Big Empty” revisits the skyscraping peaks of <i>Core</i>’s calling-card single, “Plush,” it takes its sweet time getting there atop some bluesy slide-guitar licks.<br />
-The most dramatic developments, however, are happening in Scott Weiland’s larynx. No longer the Vedder-like warbler of old, the singer invests the campfire-folk reprieve “Pretty Penny” with Beatles-esque bonhomie, and showcases a previously untapped sensitivity on “Interstate Love Song,” which sounds like a ‘70s soft-rock ballad dressed up in a flannel shirt and cut-off shorts. A resounding repudiation of the critics who initially dismissed them as alt-rock also-rans, <i>Purple</i> displays the first real flashes of the melodic ingenuity and glammy eccentricity that would ultimately distinguish Stone Temple Pilots from their mosh-pit peers.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple/300976267" >}}<br>

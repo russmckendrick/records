@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="hello-good-evening-welcome-and-goodbye-7922543.jpg" title="Hello, Good Evening, Welcome and Goodbye by Carter The Unstoppable Sex Machine" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rubbish (4:59)
 2. Do Re Me, So Far So Good (2:57)
 3. Everytime A Churchbell Rings (4:29)
@@ -39,10 +38,6 @@ styles: ["Indie Rock"]
 10. The Only Living Boy In New Cross (4:35)
 11. Sheriff Fatman (4:36)
 12. Rent (3:58)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663" >}}<br>

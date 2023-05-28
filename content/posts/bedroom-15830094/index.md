@@ -23,10 +23,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ---
 
-{{< img src="bedroom-15830094.jpg" title="Bedroom by bdrmm" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Momo
 2. Push/Pull
 3. A Reason To Celebrate
@@ -37,10 +36,6 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 8. If....
 9. Is That What You Wanted To Hear?
 10. Forget The Credits
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bedroom/1502108037" >}}<br>

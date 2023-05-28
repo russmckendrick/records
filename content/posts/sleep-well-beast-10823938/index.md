@@ -33,10 +33,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="sleep-well-beast-10823938.jpg" title="Sleep Well Beast by The National" >}}
+Nearly 20 years into the band's career, The National have reached a status attained only by the likes of Radiohead: a progressive, uncompromising band with genuinely broad appeal. Produced by multi-instrumentalist Aaron Dessner in his upstate New York studio (with co-production from guitarist Bryce Dessner and singer Matt Berninger), <i>Sleep Well Beast</i> captures the band at their moody, majestic best, from the propulsive “The System Only Dreams in Total Darkness” to “Guilty Party,” where Berninger’s portraits of failing marriage come to a sad, gorgeous, and surprisingly subtle head.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nobody Else Will Be There
 2. Day I Die
 3. Walk It Back
@@ -49,14 +52,6 @@ styles: ["Indie Rock"]
 10. Carin at the Liquor Store
 11. Dark Side of the Gym
 12. Sleep Well Beast
-
-<!-- section break -->
-
-Nearly 20 years into the band's career, The National have reached a status attained only by the likes of Radiohead: a progressive, uncompromising band with genuinely broad appeal. Produced by multi-instrumentalist Aaron Dessner in his upstate New York studio (with co-production from guitarist Bryce Dessner and singer Matt Berninger), <i>Sleep Well Beast</i> captures the band at their moody, majestic best, from the propulsive “The System Only Dreams in Total Darkness” to “Guilty Party,” where Berninger’s portraits of failing marriage come to a sad, gorgeous, and surprisingly subtle head.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sleep-well-beast/1233837225" >}}<br>

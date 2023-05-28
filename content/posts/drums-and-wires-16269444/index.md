@@ -26,10 +26,14 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-{{< img src="drums-and-wires-16269444.jpg" title="Drums And Wires by XTC" >}}
+Drums and Wires is the third studio album by the English rock band XTC, released in 1979 on Virgin Records. It is a more pop-orientated affair than the band's previous, Go 2 (1978), and was named for its emphasis on guitars ("wires") and expansive-sounding drums. The album was their first issued in the United States and their first recorded with guitarist Dave Gregory, who had replaced keyboardist Barry Andrews earlier in 1979. It features a mix of pop, art rock, new wave and punk styles with much rhythmic interplay between XTC's two guitarists.
+Bassist Colin Moulding's dissatisfaction with XTC's "quirky" reputation inspired the group to take a more accessible approach, starting with the non-album single "Life Begins at the Hop". Drums and Wires was recorded in four weeks at the newly built Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham, who were beginning to develop their signature gated reverb production technique, as demonstrated on the album opener and lead single "Making Plans for Nigel". Lyrically, the album focuses on the trappings or titillations of the modern world, with several songs about submitting to external forces. Frontman and guitarist Andy Partridge designed the cover artwork, which depicts the band logo forming the outline of a face.
+Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the US Billboard 200. "Making Plans for Nigel" reached number 17 on the UK Singles Chart and marked the band's commercial breakthrough. In 1980, Partridge recorded Take Away / The Lure of Salvage, an LP consisting mostly of dub remixes of Drums and Wires tracks. In later years, Drums and Wires became the best-known of XTC's albums. In 2004 it was ranked number 38 on Pitchfork's list of "The Top Albums of the 1970s", and in 2019, it was ranked number 31 in a similar list by Paste.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Making Plans For Nigel 
 2. Helicopter
 3. Day In Day Out
@@ -45,15 +49,6 @@ styles: ["New Wave", "Pop Rock"]
 13. Limited Edition Bonus 7"
 14. Chain Of Command 
 15. Limelight
-
-<!-- section break -->
-
-Drums and Wires is the third studio album by the English rock band XTC, released in 1979 on Virgin Records. It is a more pop-orientated affair than the band's previous, Go 2 (1978), and was named for its emphasis on guitars ("wires") and expansive-sounding drums. The album was their first issued in the United States and their first recorded with guitarist Dave Gregory, who had replaced keyboardist Barry Andrews earlier in 1979. It features a mix of pop, art rock, new wave and punk styles with much rhythmic interplay between XTC's two guitarists.
-Bassist Colin Moulding's dissatisfaction with XTC's "quirky" reputation inspired the group to take a more accessible approach, starting with the non-album single "Life Begins at the Hop". Drums and Wires was recorded in four weeks at the newly built Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham, who were beginning to develop their signature gated reverb production technique, as demonstrated on the album opener and lead single "Making Plans for Nigel". Lyrically, the album focuses on the trappings or titillations of the modern world, with several songs about submitting to external forces. Frontman and guitarist Andy Partridge designed the cover artwork, which depicts the band logo forming the outline of a face.
-Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the US Billboard 200. "Making Plans for Nigel" reached number 17 on the UK Singles Chart and marked the band's commercial breakthrough. In 1980, Partridge recorded Take Away / The Lure of Salvage, an LP consisting mostly of dub remixes of Drums and Wires tracks. In later years, Drums and Wires became the best-known of XTC's albums. In 2004 it was ranked number 38 on Pitchfork's list of "The Top Albums of the 1970s", and in 2019, it was ranked number 31 in a similar list by Paste.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drums-and-wires-bonus-track-version/724621207" >}}<br>

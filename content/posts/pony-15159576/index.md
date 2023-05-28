@@ -24,25 +24,6 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
 
-{{< img src="pony-15159576.jpg" title="Pony by Orville Peck" >}}
-
-<!-- section break -->
-
-1. Dead Of Night
-2. Winds Change
-3. Turn To Hate
-4. Buffalo Run
-5. Queen Of The Rodeo
-6. Kansas (Remembers Me Now)
-7. Old River
-8. Big Sky
-9. Roses Are Falling
-10. Take You Back (The Iron Hoof Cattle Call)
-11. Hope To Die
-12. Nothing Fades Like The Light
-
-<!-- section break -->
-
 “Members of the LGBT+ community that wouldn’t necessarily be at a country show. Mega-fans in Orville Peck masks. Couples in their 80s who are huge country fans. Drag queens. Five-year-olds!” Orville Peck is describing his average audience for Apple Music. “Maybe there are a million reasons for these people to be a room together,” he says. “But it’s lovely that I’m one of the reasons for them to be together.” It’s unsurprising that the fringe-masked, pseudonymous Toronto-based cowboy crooner’s debut album has attracted a broad church. <i>Pony</i> offers a very modern subversive spin on expertly informed country, tender torch songs of homoerotic desire and raw rock ’n’ roll decorated with his rich, sonorous voice. Peck may not want to show you his face, but here he’s happy to take you through his extraordinary debut, track by track.<br /> 
 <b>Dead of Night</b>
 “This is a song about unrequited love. It's about being with somebody you know ultimately cannot give you what you want, and is only going to break your heart. But even just that is better than being without them, so you torture yourself with the inevitable demise. It was the first song I wrote for the album, and I wanted it to sound like something familiar, but something completely new as well. I wanted to provoke the kind of sensation of torturous nostalgia. I think we all go through somewhere where you remember a moment and you think that thinking about it is going to torture you, but you do it anyway, because we have this weird human nature of putting ourselves through emotional pain. That's kind of why I wanted the lonely guitar sound, and I wanted to go from very low to very high. I just wanted to give that same feeling sonically that the emotion is about in the song.”<br />
@@ -72,6 +53,20 @@ styles: ["Country Rock", "Indie Rock", "Alternative Rock", "Shoegaze"]
         
     
 
+
+## Tracklisting
+1. Dead Of Night
+2. Winds Change
+3. Turn To Hate
+4. Buffalo Run
+5. Queen Of The Rodeo
+6. Kansas (Remembers Me Now)
+7. Old River
+8. Big Sky
+9. Roses Are Falling
+10. Take You Back (The Iron Hoof Cattle Call)
+11. Hope To Die
+12. Nothing Fades Like The Light
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pony/1446363542" >}}<br>

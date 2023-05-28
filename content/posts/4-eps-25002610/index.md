@@ -44,10 +44,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="4-eps-25002610.jpg" title="4 EPs by Ride" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Chelsea Girl
 2. Drive Blind
 3. All I Can See
@@ -64,10 +63,6 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 14. Sennen
 15. Beneath
 16. Today
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/4-eps/1621584649" >}}<br>

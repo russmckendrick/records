@@ -17,10 +17,12 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="thrashing-thru-the-passion-14005443.jpg" title="Thrashing Thru The Passion by The Hold Steady" >}}
+Thrashing Thru the Passion is the seventh studio album by American indie rock band the Hold Steady, released on August 16, 2019, on Frenchkiss Records. Produced by Josh Kaufman, the album sees the return to the line-up of keyboardist Franz Nicolay, who had left the group after 2008's Stay Positive.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Denver Haircut
 2. Epaulets
 3. You Did Good Kid
@@ -31,13 +33,6 @@ styles: []
 8. Star 18
 9. The Stove & The Toaster
 10. Confusion In The Marketplace
-
-<!-- section break -->
-
-Thrashing Thru the Passion is the seventh studio album by American indie rock band the Hold Steady, released on August 16, 2019, on Frenchkiss Records. Produced by Josh Kaufman, the album sees the return to the line-up of keyboardist Franz Nicolay, who had left the group after 2008's Stay Positive.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035" >}}<br>

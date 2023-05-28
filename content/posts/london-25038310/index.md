@@ -20,10 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
-{{< img src="london-25038310.jpg" title="London by Jesus Jones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Message (2:24)
 2. Stranger (3:28)
 3. The Rocket Ship Of La Jolla (3:51)
@@ -36,10 +35,6 @@ styles: ["Alternative Rock", "Synth-pop"]
 10. To Get There (4:28)
 11. Nowhere Slow (4:01)
 12. In The Face Of All Of This (3:36)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}<br>

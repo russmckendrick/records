@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Glam", "Art Rock"]
 ---
 
-{{< img src="bowie-at-the-beeb-the-best-of-the-bbc-sessions-68-72-8014010.jpg" title="Bowie At The Beeb (The Best Of The BBC Sessions 68-72) by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Heat Of The Morning (3:01)
 2. London Bye Ta Ta (2:34)
 3. Karma Man (2:59)
@@ -64,10 +63,6 @@ styles: ["Pop Rock", "Glam", "Art Rock"]
 37. Andy Warhol (3:12)
 38. Lady Stardust (3:19)
 39. Rock 'n' Roll Suicide (3:08)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bowie-at-the-beeb-the-best-of-the-bbc-radio-sessions-68-72/1164160964" >}}<br>

@@ -26,10 +26,15 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-{{< img src="fear-of-the-dark-10315981.jpg" title="Fear Of The Dark by Iron Maiden" >}}
+Fear of the Dark is the ninth studio album released by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.
+It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Be Quick Or Be Dead
 2. From Here To Eternity
 3. Afraid To Shoot Strangers
@@ -42,16 +47,6 @@ styles: ["Heavy Metal"]
 10. Judas Be My Guide
 11. Weekend Warrior
 12. Fear Of The Dark
-
-<!-- section break -->
-
-Fear of the Dark is the ninth studio album released by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.
-It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-of-the-dark/979946632" >}}<br>

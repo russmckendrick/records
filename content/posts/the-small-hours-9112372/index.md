@@ -22,10 +22,9 @@ genres: ["Rock", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-small-hours-9112372.jpg" title="The Small Hours by Matt Berry" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Intro (0:20)
 2. One By One (3:06)
 3. The Peach And The Melon (2:54)
@@ -38,10 +37,6 @@ styles: []
 10. Obsessed And So Obscure (3:46)
 11. Wounded Heart (2:22)
 12. Small Hours (3:05)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-small-hours/1128004597" >}}<br>

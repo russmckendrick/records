@@ -16,10 +16,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="high-fidelity-a-hulu-original-15540975.jpg" title="High Fidelity (A Hulu Original) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Can't Stand The Rain
 2. Didn't I
 3. I'll Make Love To You
@@ -31,10 +30,6 @@ styles: ["Soundtrack"]
 9. Gimme Light/New Tattoo
 10. Pains
 11. I Believe (When I Fall In Love It Will Be Forever)
-
-<!-- section break -->
-
-
 
 
 

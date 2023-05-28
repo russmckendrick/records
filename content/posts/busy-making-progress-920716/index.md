@@ -19,10 +19,9 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ---
 
-{{< img src="busy-making-progress-920716.jpg" title="Busy Making Progress by Progress" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Vision (3:05)
 2. There Is A Light (4:10)
 3. Payday (0:45)
@@ -33,10 +32,6 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 8. Is It Worth The Price (3:40)
 9. A Long Long Way To Go ..... (3:00)
 10. Changing The Face Of The Earth (5:45)
-
-<!-- section break -->
-
-
 
 
 

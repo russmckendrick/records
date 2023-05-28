@@ -26,23 +26,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
-{{< img src="in-rainbows-1174296.jpg" title="In Rainbows by Radiohead" >}}
-
-<!-- section break -->
-
-1. 15 Step (3:57)
-2. Bodysnatchers (4:02)
-3. Nude (4:15)
-4. Weird Fishes/Arpeggi (5:18)
-5. All I Need (3:49)
-6. Faust Arp (2:10)
-7. Reckoner (4:50)
-8. House Of Cards (5:28)
-9. Jigsaw Falling Into Place (4:09)
-10. Videotape (4:40)
-
-<!-- section break -->
-
 In Rainbows is the seventh studio album by the English rock band Radiohead. It was self-released on 10 October 2007 as a pay-what-you-want download, followed by a physical release internationally through XL Recordings and in North America through TBD Records. It was Radiohead's first release after their recording contract with EMI ended with their album Hail to the Thief (2003).
 Radiohead began work on In Rainbows in early 2005. In 2006, after initial recording sessions with their new producer Spike Stent proved fruitless, they re-enlisted their longtime producer Nigel Godrich. Radiohead recorded in the country houses Halswell House and Tottenham House, the Hospital Club in London, and their studio in Oxfordshire. They incorporated conventional rock instrumentation plus electronic instruments, strings, piano and the ondes Martenot. The lyrics are less political and more personal than previous Radiohead albums.
 Radiohead self-released In Rainbows online and allowed fans to set their own price, saying this liberated them from conventional promotional formats and removed barriers to audiences. It was the first such release by a major act and drew international media attention. Many praised Radiohead for challenging old models and finding new ways to connect with fans, while others felt it set a dangerous precedent at the expense of less successful artists.
@@ -53,6 +36,18 @@ Radiohead promoted In Rainbows with webcasts, music videos, competitions and a w
         
     
 
+
+## Tracklisting
+1. 15 Step (3:57)
+2. Bodysnatchers (4:02)
+3. Nude (4:15)
+4. Weird Fishes/Arpeggi (5:18)
+5. All I Need (3:49)
+6. Faust Arp (2:10)
+7. Reckoner (4:50)
+8. House Of Cards (5:28)
+9. Jigsaw Falling Into Place (4:09)
+10. Videotape (4:40)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-rainbows/1109714933" >}}<br>

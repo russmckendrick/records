@@ -31,10 +31,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Bluegrass"]
 ---
 
-{{< img src="cotillions-14734860.jpg" title="Cotillions by WPC" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. To Scatter One's Own
 2. Hard Times
 3. Jubilee
@@ -52,10 +51,6 @@ styles: ["Bluegrass"]
 15. Neptulius
 16. 6+7
 17. Anon
-
-<!-- section break -->
-
-
 
 
 

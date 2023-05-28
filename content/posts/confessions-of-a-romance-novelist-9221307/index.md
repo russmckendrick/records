@@ -18,10 +18,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
 
-{{< img src="confessions-of-a-romance-novelist-9221307.jpg" title="Confessions Of A Romance Novelist by The Anchoress" >}}
+Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Long Year (3:52)
 2. What Goes Around (4:17)
 3. Doesn't Kill You (4:40)
@@ -38,13 +40,6 @@ styles: ["Indie Rock", "Art Rock"]
 14. Bury Me ( Acoustic Version ) (3:46)
 15. Long Year (Acoustic Version) (3:33)
 16. Popular (Acoustic Version) (2:23)
-
-<!-- section break -->
-
-Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/confessions-of-a-romance-novelist/1048632716" >}}<br>

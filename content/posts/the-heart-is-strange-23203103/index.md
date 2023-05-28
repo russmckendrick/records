@@ -16,10 +16,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-{{< img src="the-heart-is-strange-23203103.jpg" title="The Heart Is Strange by xPropaganda" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Night (6:00)
 2. Chasing Utopia (5:24)
 3. Beauty Is Truth (5:29)
@@ -28,10 +27,6 @@ styles: ["Synth-pop"]
 6. No Ordinary Girl (4:43)
 7. The Wolves Are Returning (5:01)
 8. Ribbons Of Steel (9:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange-deluxe/1608061903" >}}<br>

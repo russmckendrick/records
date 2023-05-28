@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ---
 
-{{< img src="killer-watts-2179323.jpg" title="Killer Watts by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The World Anthem (3:00)
 2. Rock 'N' Roll Hall Of Fame (4:06)
 3. U.S.A. (4:52)
@@ -46,10 +45,6 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 15. No Surprise (4:26)
 16. Checkin' It Out (Baby Don't You Cry) (4:26)
 17. Boogie No More (6:05)
-
-<!-- section break -->
-
-
 
 
 

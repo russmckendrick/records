@@ -20,10 +20,15 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="millionaires-11277658.jpg" title="Millionaires by James" >}}
+Millionaires is the eighth studio album by British alternative rock band James. During the Whiplash release cycle, guitarist Adrian Oxaal replaced founding member Larry Gott, and guitarist Michael Kulas joined the band. Touring to promote the release was cut-short when Booth injured his neck. With the release of The Best Of in early 1998, the band began recording their next album in May 1998. The sessions continued into February 1999 at a variety of studios: Ridge Farm, Hook End, Townhouse and Metropolis. While Brian Eno produced most of the record, the producer credit was also given to guitarist/violinist Saul Davies, keyboardist Mark Hunter, Steve Osborne, drummer David Baynton-Power and Faithless. Millionaires is an indie rock and pop release that drew comparison to Lou Reed and New Radicals.
+"I Know What I'm Here For" was released as a single in July 1999, followed by "Just Like Fred Astaire" in early October. Millionaires was released through Mercury Records on 11 October; initial promotion consisted of TV appearances, radio performances, listening parties and launch nights. In December they embarked on a UK tour, coinciding with the single release of "We're Going to Miss You". Millionaires reached number two in the UK album chart, and was certified gold by the BPI. On the UK singles chart, "I Know What I'm Here For" peaked at number 22, "Just Like Fred Astaire" reached number 17, and "We're Going to Miss You" peaked at number 48. Millionaires received a mainly favourable response from music critics, with many finding it an enjoyable album.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Crash (3:58)
 2. Just Like Fred Astaire (3:44)
 3. I Know What I'm Here For (3:52)
@@ -36,16 +41,6 @@ styles: ["Indie Rock"]
 10. Dumb Jam (2:38)
 11. Someone's Got It In For Me (4:08)
 12. Vervaceous (5:41)
-
-<!-- section break -->
-
-Millionaires is the eighth studio album by British alternative rock band James. During the Whiplash release cycle, guitarist Adrian Oxaal replaced founding member Larry Gott, and guitarist Michael Kulas joined the band. Touring to promote the release was cut-short when Booth injured his neck. With the release of The Best Of in early 1998, the band began recording their next album in May 1998. The sessions continued into February 1999 at a variety of studios: Ridge Farm, Hook End, Townhouse and Metropolis. While Brian Eno produced most of the record, the producer credit was also given to guitarist/violinist Saul Davies, keyboardist Mark Hunter, Steve Osborne, drummer David Baynton-Power and Faithless. Millionaires is an indie rock and pop release that drew comparison to Lou Reed and New Radicals.
-"I Know What I'm Here For" was released as a single in July 1999, followed by "Just Like Fred Astaire" in early October. Millionaires was released through Mercury Records on 11 October; initial promotion consisted of TV appearances, radio performances, listening parties and launch nights. In December they embarked on a UK tour, coinciding with the single release of "We're Going to Miss You". Millionaires reached number two in the UK album chart, and was certified gold by the BPI. On the UK singles chart, "I Know What I'm Here For" peaked at number 22, "Just Like Fred Astaire" reached number 17, and "We're Going to Miss You" peaked at number 48. Millionaires received a mainly favourable response from music critics, with many finding it an enjoyable album.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/millionaires/1442660638" >}}<br>

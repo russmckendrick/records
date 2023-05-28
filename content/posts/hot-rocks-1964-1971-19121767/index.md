@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ---
 
-{{< img src="hot-rocks-1964-1971-19121767.jpg" title="Hot Rocks 1964-1971 by The Rolling Stones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Time Is On My Side (2:50)
 2. Heart Of Stone (2:49)
 3. Play With Fire (2:15)
@@ -56,10 +55,6 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 19. You Can't Always Get What You Want (7:28)
 20. Brown Sugar (3:50)
 21. Wild Horses (5:41)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786" >}}<br>

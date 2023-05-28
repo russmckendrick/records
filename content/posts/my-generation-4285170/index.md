@@ -19,10 +19,13 @@ genres: ["Rock"]
 styles: ["Mod"]
 ---
 
-{{< img src="my-generation-4285170.jpg" title="My Generation by The Who" >}}
+My Generation is the debut studio album by English rock band the Who, released on 3 December 1965 by Brunswick Records in the United Kingdom, and Festival Records in Australia. In the United States, it was released on 25 April 1966 by Decca Records as The Who Sings My Generation, with a different cover and a slightly altered track listing. Besides the members of the Who, being Roger Daltrey (vocals), Pete Townshend (guitar), John Entwistle (bass) and Keith Moon (drums), the album features contributions by session musician Nicky Hopkins (piano).
+The album was made immediately after the Who got their first singles on the charts and, according to the booklet in the Deluxe Edition, it was later dismissed by the band as something of a rush job that did not accurately represent their stage performance of the time.  While it didn't sell as well as later albums, peaking at No. 5 on the UK charts and failing to chart in the US, critics have since retrospectively rated it as one of the best rock albums of all time, especially noting its hard sound unusual for the time, and presaging various hard rock styles such as punk and heavy metal.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Out In The Street
 2. I Don't Mind
 3. The Good's Gone
@@ -35,14 +38,6 @@ styles: ["Mod"]
 10. I'm A Man
 11. A Legal Matter
 12. The Ox
-
-<!-- section break -->
-
-My Generation is the debut studio album by English rock band the Who, released on 3 December 1965 by Brunswick Records in the United Kingdom, and Festival Records in Australia. In the United States, it was released on 25 April 1966 by Decca Records as The Who Sings My Generation, with a different cover and a slightly altered track listing. Besides the members of the Who, being Roger Daltrey (vocals), Pete Townshend (guitar), John Entwistle (bass) and Keith Moon (drums), the album features contributions by session musician Nicky Hopkins (piano).
-The album was made immediately after the Who got their first singles on the charts and, according to the booklet in the Deluxe Edition, it was later dismissed by the band as something of a rush job that did not accurately represent their stage performance of the time.  While it didn't sell as well as later albums, peaking at No. 5 on the UK charts and failing to chart in the US, critics have since retrospectively rated it as one of the best rock albums of all time, especially noting its hard sound unusual for the time, and presaging various hard rock styles such as punk and heavy metal.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/my-generation-stereo-version-deluxe-version/1443123252" >}}<br>

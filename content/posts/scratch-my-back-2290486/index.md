@@ -17,10 +17,12 @@ genres: ["Rock", "Pop"]
 styles: ["Experimental", "Symphonic Rock"]
 ---
 
-{{< img src="scratch-my-back-2290486.jpg" title="Scratch My Back by Peter Gabriel" >}}
+Scratch My Back is the eighth studio album (and fifteenth album overall) by English musician Peter Gabriel, his first in eight years. It was released in February 2010. The album, recorded at Air Lyndhurst and Real World Studios during 2009, consists of cover versions of twelve songs by various artists, using only orchestra and voice. It is produced by Gabriel with Bob Ezrin.The album generally received favourable reviews by music journalists and performed well on the album charts around the world, peaking at No. 1 in Belgium, No. 2 in Germany and Canada, and No. 3 in the Czech Republic, Italy and Switzerland. It also reached the top 5 in France and Sweden. In Gabriel's native United Kingdom it peaked at No. 12 on the UK Albums Chart on 21 February 2010, the week following its release. In the United States it peaked at No. 26 on the Billboard 200, No. 2 on the Independent Albums chart and No. 3 on the Rock Albums chart on 12 March 2010.Scratch My Back was initially released on compact disc and as music download; a vinyl album edition was subsequently released in late March 2010.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heroes (4:10)
 2. The Boy In The Bubble (4:28)
 3. Mirrorball (4:48)
@@ -33,13 +35,6 @@ styles: ["Experimental", "Symphonic Rock"]
 10. Après Moi (5:13)
 11. Philadelphia (3:46)
 12. Street Spirit (Fade Out) (5:06)
-
-<!-- section break -->
-
-Scratch My Back is the eighth studio album (and fifteenth album overall) by English musician Peter Gabriel, his first in eight years. It was released in February 2010. The album, recorded at Air Lyndhurst and Real World Studios during 2009, consists of cover versions of twelve songs by various artists, using only orchestra and voice. It is produced by Gabriel with Bob Ezrin.The album generally received favourable reviews by music journalists and performed well on the album charts around the world, peaking at No. 1 in Belgium, No. 2 in Germany and Canada, and No. 3 in the Czech Republic, Italy and Switzerland. It also reached the top 5 in France and Sweden. In Gabriel's native United Kingdom it peaked at No. 12 on the UK Albums Chart on 21 February 2010, the week following its release. In the United States it peaked at No. 26 on the Billboard 200, No. 2 on the Independent Albums chart and No. 3 on the Rock Albums chart on 12 March 2010.Scratch My Back was initially released on compact disc and as music download; a vinyl album edition was subsequently released in late March 2010.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scratch-my-back/989290344" >}}<br>

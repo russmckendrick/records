@@ -19,10 +19,9 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Doo Wop", "Soul", "Surf"]
 ---
 
-{{< img src="love-in-the-wind-12550052.jpg" title="Love in the Wind by The Sha La Das" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Open My Eyes
 2. Just For A Minute
 3. Summer Breeze
@@ -34,10 +33,6 @@ styles: ["Doo Wop", "Soul", "Surf"]
 9. You Never Know Whether
 10. It's You
 11. Love In The Wind
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-in-the-wind/1485064517" >}}<br>

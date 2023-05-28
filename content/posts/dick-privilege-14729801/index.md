@@ -19,16 +19,11 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="dick-privilege-14729801.jpg" title="Dick Privilege by Vennart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Dick Privilege (3:14)
 2. Rat Catch (2:35)
-
-<!-- section break -->
-
-
 
 
 

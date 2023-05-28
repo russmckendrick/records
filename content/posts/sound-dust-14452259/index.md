@@ -20,10 +20,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
 
-{{< img src="sound-dust-14452259.jpg" title="Sound-Dust by Stereolab" >}}
+Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Black Ants In Sound Dust (1:57)
 2. Space Moth (7:35)
 3. Captain Easychord (5:29)
@@ -44,13 +46,6 @@ styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 18. Hallucinex Pt 2 Demo (0:51)
 19. Long Live Love Demo (2:18)
 20. Les Bon Bons Des Raisons Demo (3:23)
-
-<!-- section break -->
-
-Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sound-dust/1231424728" >}}<br>

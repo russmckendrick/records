@@ -16,10 +16,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
-{{< img src="blood-music-16103500.jpg" title="Blood Music by Chapterhouse" >}}
+Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Look Now (5:06)
 2. There's Still Life (5:01)
 3. We Are The Beautiful (6:04)
@@ -32,13 +34,6 @@ styles: ["Indie Rock", "Shoegaze"]
 10. Confusion Trip (5:23)
 11. Love Forever (5:58)
 12. Picnic (15:18)
-
-<!-- section break -->
-
-Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blood-music/351372160" >}}<br>

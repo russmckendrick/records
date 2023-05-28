@@ -24,10 +24,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
 
-{{< img src="bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353.jpg" title="Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Play With Me (3:31)
 2. The Boys And Girls Are Doing It (3:22)
 3. Not So Far Away (3:47)
@@ -38,10 +37,6 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 8. Walk Away (4:11)
 9. In Time (5:09)
 10. Two Heads Are Better Than One (4:26)
-
-<!-- section break -->
-
-
 
 
 

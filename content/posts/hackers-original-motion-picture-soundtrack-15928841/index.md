@@ -27,10 +27,9 @@ genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "Ambient", "Electro"]
 ---
 
-{{< img src="hackers-original-motion-picture-soundtrack-15928841.jpg" title="Hackers (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Side :/
 2. Halcyon On And On (9:31)
 3. Hackers Suite (6:13)
@@ -48,10 +47,6 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 15. One Combination (1:53)
 16. Grand Central Station (3:10)
 17. Heaven Knows (4:37)
-
-<!-- section break -->
-
-
 
 
 

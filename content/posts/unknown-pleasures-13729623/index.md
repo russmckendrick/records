@@ -26,25 +26,6 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-{{< img src="unknown-pleasures-13729623.jpg" title="Unknown Pleasures by Joy Division" >}}
-
-<!-- section break -->
-
-1. Outside
-2. Disorder (3:36)
-3. Day Of The Lords (4:43)
-4. Candidate (3:00)
-5. Insight (4:00)
-6. New Dawn Fades (4:47)
-7. Inside
-8. She’s Lost Control (3:40)
-9. Shadowplay (3:50)
-10. Wilderness (2:35)
-11. Interzone (2:10)
-12. I Remember Nothing (6:00)
-
-<!-- section break -->
-
 You don’t always know when you’ve made a masterpiece. In April 1979, Joy Division—singer Ian Curtis, bassist Peter Hook, drummer Stephen Morris and guitarist Bernard Sumner—convened at Strawberry Studios in Stockport with producer Martin Hannett. Three weeks later, they’d recorded an enormously influential cultural landmark. However, Hook and Sumner in particular were unconvinced. Hannett’s singular, haunting vision for their music was in keeping with the bleak melodrama of Curtis’ lyrics, but some of the punk intensity of their live shows had been lost. “Martin had definitely toned down—or twisted—the rawness into another kind of rawness,” Morris tells Apple Music. “It wasn’t amped up. Martin gave the music a depth and put it in a setting that it was made for. It was just a setting that we'd never imagined our music being in, so it was like, ‘Wurgh, what have you done?’” What they had done was create 10 songs whose frostbitten grandeur, minimalist aesthetic and unflinching introspection continue to manifest themselves in literature and cinema and on catwalks as well as countless dark-souled indie, synth-pop and goth bands. To get there, Hannett’s eccentric methods included messing with the studio heating so that the band regularly suffered extreme temperatures and ordering Morris to completely disassemble his drum kit and play the parts separately. Here, Morris takes us track by track through a process of isolation, very few choruses and an experiment that almost destroyed the studio in a fireball.<br />
 <b>“Disorder”</b>
 “Quite a frantic song. The three songs that should never be played together are ‘Disorder’, ‘Interzone’ and ‘Transmission’ because I collapse at the end. So of course that happened quite a lot. I really liked the lyrics. Going in the studio was really the first time that we'd been able to hear them properly. Before then, the only bit that I was certain about was the spirit/feeling bit [‘I’ve got the spirit but lose the feeling’].”<br />
@@ -70,6 +51,20 @@ You don’t always know when you’ve made a masterpiece. In April 1979, Joy Div
         
     
 
+
+## Tracklisting
+1. Outside
+2. Disorder (3:36)
+3. Day Of The Lords (4:43)
+4. Candidate (3:00)
+5. Insight (4:00)
+6. New Dawn Fades (4:47)
+7. Inside
+8. She’s Lost Control (3:40)
+9. Shadowplay (3:50)
+10. Wilderness (2:35)
+11. Interzone (2:10)
+12. I Remember Nothing (6:00)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/unknown-pleasures-collectors-edition/266603040" >}}<br>

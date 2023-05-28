@@ -21,10 +21,13 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
 
-{{< img src="blaze-of-glory-1972307.jpg" title="Blaze Of Glory by Jon Bon Jovi" >}}
+Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally requested Bon Jovi's "Wanted Dead or Alive" as the theme song for his upcoming Billy the Kid sequel, but Jon Bon Jovi ended up composing an all-new theme song for the film's soundtrack instead.
+The album featured guests such as Elton John, Little Richard, and Jeff Beck, was awarded a Golden Globe and received Academy Award and Grammy nominations.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Billy Get Your Guns (4:48)
 2. Miracle (5:08)
 3. Blaze Of Glory (5:44)
@@ -36,14 +39,6 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 9. Bang A Drum (4:36)
 10. Dyin' Ain't Much Of A Livin' (4:39)
 11. Guano City (1:00)
-
-<!-- section break -->
-
-Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally requested Bon Jovi's "Wanted Dead or Alive" as the theme song for his upcoming Billy the Kid sequel, but Jon Bon Jovi ended up composing an all-new theme song for the film's soundtrack instead.
-The album featured guests such as Elton John, Little Richard, and Jeff Beck, was awarded a Golden Globe and received Academy Award and Grammy nominations.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory-inspired-by-the-film-young-guns-ii/1440657641" >}}<br>

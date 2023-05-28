@@ -18,10 +18,15 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-{{< img src="604-20527537.jpg" title="604 by Ladytron" >}}
+604 is the debut studio album by English electronic music band Ladytron, released in the United States on 6 February 2001 by Emperor Norton Records and in the United Kingdom on 12 March 2001 by Invicta Hi-Fi. It was co-produced, engineered and mixed by Lance Thomas. Some of the tracks had been previously released on their EPs Miss Black and Her Friends (1999), Mu-Tron EP (2000) and Commodore Rock (2000).
+On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Mu-Tron (2:58)
 2. Discotraxx (3:50)
 3. Another Breakfast With You (3:03)
@@ -38,16 +43,6 @@ styles: ["Electro", "Synth-pop"]
 14. Ladybird (4:38)
 15. Jet Age (3:10)
 16. Skools Out... (4:06)
-
-<!-- section break -->
-
-604 is the debut studio album by English electronic music band Ladytron, released in the United States on 6 February 2001 by Emperor Norton Records and in the United Kingdom on 12 March 2001 by Invicta Hi-Fi. It was co-produced, engineered and mixed by Lance Thomas. Some of the tracks had been previously released on their EPs Miss Black and Her Friends (1999), Mu-Tron EP (2000) and Commodore Rock (2000).
-On 20 July 2004, 604 was reissued in the US with four bonus tracks, the first three being live recordings made on 16 May 2003 at the Central Military Club in Sofia, Bulgaria. The January 2011 re-release of the album on Nettwerk also features these same bonus tracks.In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that the album was named after the area code for British Columbia. Reuben Wu drew the cover of the European edition of 604.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/604/1619141992" >}}<br>

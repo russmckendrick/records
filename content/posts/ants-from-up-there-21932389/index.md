@@ -54,23 +54,6 @@ genres: ["Rock", "Pop"]
 styles: ["Folk Rock", "Experimental"]
 ---
 
-{{< img src="ants-from-up-there-21932389.jpg" title="Ants From Up There by Black Country, New Road" >}}
-
-<!-- section break -->
-
-1. Intro
-2. Chaos Space Marine
-3. Concorde
-4. Bread Song
-5. Good Will Hunting
-6. Haldern
-7. Mark's Theme
-8. The Place Where He Inserted The Blade
-9. Snow Globes
-10. Basketball Shoes
-
-<!-- section break -->
-
 Traditionally, a band release their debut album and head out for an extended stretch on the road, honing their live chops, twisting their songs into new shapes. But when Black Country, New Road released <i>For the First Time</i> in February 2021, that route was blocked off by the pandemic. Instead, the London-based band set out to tweak and tamper with their experimental post-rock sound for a transformative second album. They might not have been able to travel, but their music could. “By the time the first album came out, those songs had existed for so long that we were very keen to change the way we wrote music,” bassist Tyler Hyde tells Apple Music. The material that makes up their second record, <i>Ants From Up There</i>, soon came to life, the group using the labyrinthine “Basketball Shoes”, which had been around before their debut, as a springboard. “We wanted to explore the themes we’d created on that song,” says Hyde. “It’s essentially three songs within one, all of which relatively cover the emotions and moods that are on the album. It’s hopeful and light, but still looks at some of the darker sides that the first album showed.”<br />
 The resultant record sees the band hit hypnotic new peaks. <i>Ants From Up There</i>, recorded before the departure of singer Isaac Wood in January 2022, is less reliant on jerky, rhythmic U-turns than their debut (although there is some of that), with expansive, Godspeed You! Black Emperor-ish atmospherics emerging in their place. “Fundamentally, we relearned an entirely new style of playing with each other,” says drummer Charlie Wayne. “We learned a lot about how to express ourselves just for each other rather than for anything else going on externally.” Here Hyde, Wayne and saxophonist Lewis Evans take us through it, track by track.<br />
 <b>“Intro”</b>
@@ -97,6 +80,18 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
         
     
 
+
+## Tracklisting
+1. Intro
+2. Chaos Space Marine
+3. Concorde
+4. Bread Song
+5. Good Will Hunting
+6. Haldern
+7. Mark's Theme
+8. The Place Where He Inserted The Blade
+9. Snow Globes
+10. Basketball Shoes
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ants-from-up-there/1586070259" >}}<br>

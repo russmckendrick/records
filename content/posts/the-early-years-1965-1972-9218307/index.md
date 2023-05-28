@@ -240,10 +240,9 @@ genres: ["Rock", "Blues", "Pop"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-early-years-1965-1972-9218307.jpg" title="The Early Years 1965-1972 by Pink Floyd" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 1965-67 Cambridge St/ation
 2. Lucy Leave (2:57)
 3. Double O Bo (2:57)
@@ -675,10 +674,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 429. Free Four (4:16)
 430. Stay (4:06)
 431. Absolutely Curtains (5:52)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-early-years-1967-1972-cre-ation/1137669181" >}}<br>

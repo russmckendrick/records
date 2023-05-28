@@ -27,10 +27,12 @@ genres: ["Electronic", "Hip Hop"]
 styles: ["Downtempo", "Abstract", "Trip Hop"]
 ---
 
-{{< img src="psyence-fiction-13111040.jpg" title="Psyence Fiction by UNKLE" >}}
+Psyence Fiction is the debut studio album by English electronic music act Unkle, released on 24 August 1998 by Mo' Wax. The album was produced by Unkle, at the time consisting of James Lavelle and DJ Shadow. The music on Psyence Fiction was primarily composed by DJ Shadow. Lavelle recruited numerous guest musicians to contribute to the album's recording.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Guns Blazing (Drums Of Death Part 1)
 2. UNKLE Main Title Theme
 3. Bloodstain
@@ -44,13 +46,6 @@ styles: ["Downtempo", "Abstract", "Trip Hop"]
 11. Chaos
 12. Rabbit In Your Headlights
 13. Outro (Mandatory)
-
-<!-- section break -->
-
-Psyence Fiction is the debut studio album by English electronic music act Unkle, released on 24 August 1998 by Mo' Wax. The album was produced by Unkle, at the time consisting of James Lavelle and DJ Shadow. The music on Psyence Fiction was primarily composed by DJ Shadow. Lavelle recruited numerous guest musicians to contribute to the album's recording.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/psyence-fiction/1667639546" >}}<br>

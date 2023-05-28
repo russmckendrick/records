@@ -23,21 +23,6 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Art Rock"]
 ---
 
-{{< img src="so-379036.jpg" title="So by Peter Gabriel" >}}
-
-<!-- section break -->
-
-1. Red Rain
-2. Sledgehammer
-3. Don't Give Up
-4. That Voice Again
-5. In Your Eyes
-6. Mercy Street
-7. Big Time
-8. We Do What We're Told (Milgram's 37)
-
-<!-- section break -->
-
 So is the fifth studio album by English singer-songwriter Peter Gabriel, released on 19 May 1986 by Charisma Records and Virgin Records. After working on the soundtrack to the film Birdy (1984), producer Daniel Lanois was invited to remain at Gabriel's Somerset home during 1985 to work on his next solo project. Initial sessions for So consisted of Gabriel, Lanois and guitarist David Rhodes, although these grew to include a number of percussionists.
 Although Gabriel continued to use the pioneering Fairlight CMI digital sampling synthesizer, songs from these sessions were less experimental than his previous material. Nevertheless, Gabriel drew on various musical influences, fusing pop, soul, and art rock with elements of traditional world music, particularly African and Brazilian styles. It is Gabriel's first non-eponymous album, So representing an "anti-title" that resulted from label pressure to "properly" market his music. Gabriel toured So on the This Way Up tour (1986–1987), with some songs performed at human rights and charity concerts during this period.
 Often considered his best and most accessible album, So was an immediate commercial success and transformed Gabriel from a cult artist into a mainstream star, becoming his best-selling solo release. It has been certified fivefold platinum by the Recording Industry Association of America and triple platinum by the British Phonographic Industry. The album's lead single, "Sledgehammer", was promoted with an innovative animated music video and achieved particular success, reaching number one on the Billboard Hot 100 and subsequently winning a record of nine MTV Video Music Awards.  It was followed by four further singles, "Don't Give Up" (a duet with Kate Bush), "Big Time", "In Your Eyes", and "Red Rain".
@@ -46,6 +31,16 @@ The album received positive reviews from most critics, who praised its songwriti
         
     
 
+
+## Tracklisting
+1. Red Rain
+2. Sledgehammer
+3. Don't Give Up
+4. That Voice Again
+5. In Your Eyes
+6. Mercy Street
+7. Big Time
+8. We Do What We're Told (Milgram's 37)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so/986800858" >}}<br>

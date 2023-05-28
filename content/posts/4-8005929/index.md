@@ -25,20 +25,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="4-8005929.jpg" title="4½ by Steven Wilson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. My Book Of Regrets (9:23)
 2. Year Of The Plague (4:15)
 3. Happiness III (4:31)
 4. Sunday Rain Sets In (3:50)
 5. Vermillioncore (5:09)
 6. Don't Hate Me (9:34)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

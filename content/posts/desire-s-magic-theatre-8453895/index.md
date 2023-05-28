@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="desire-s-magic-theatre-8453895.jpg" title="Desire's Magic Theatre by Purson" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Desire's Magic Theatre
 2. Electric Landlady
 3. Dead Dodo Down
@@ -36,10 +35,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 8. Mr. Howard
 9. I Know
 10. The Bitter Suite
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1443009179" >}}<br>

@@ -29,10 +29,13 @@ genres: ["Electronic", "Pop"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
-{{< img src="supernature-15380160.jpg" title="Supernature by Goldfrapp" >}}
+Supernature is the third studio album by English electronic music duo Goldfrapp, released on 17 August 2005 by Mute Records. The album received generally favourable reviews, with most critics complimenting its blend of pop and electronic music. It debuted at number two on the UK Albums Chart with first-week sales of 52,976 copies, and has been certified platinum by the British Phonographic Industry (BPI). Supernature has sold one million copies worldwide.
+The album's lead single, "Ooh La La", reached number four on the UK Singles Chart, becoming the duo's highest-peaking single to date. The album spawned three further singles: "Number 1", "Ride a White Horse" and "Fly Me Away". In North America, where "Number 1" was promoted as the first single, the album was released on 7 March 2006 and reached number 138 on the charts. Supernature was nominated for a Grammy Award for Best Electronic/Dance Album in 2007.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ooh La La (3:24)
 2. Lovely 2 C U (3:25)
 3. Ride A White Horse (4:41)
@@ -44,14 +47,6 @@ styles: ["Electroclash", "Synth-pop", "Downtempo"]
 9. Satin Chic (3:28)
 10. Time Out From The World (4:47)
 11. Number 1 (3:25)
-
-<!-- section break -->
-
-Supernature is the third studio album by English electronic music duo Goldfrapp, released on 17 August 2005 by Mute Records. The album received generally favourable reviews, with most critics complimenting its blend of pop and electronic music. It debuted at number two on the UK Albums Chart with first-week sales of 52,976 copies, and has been certified platinum by the British Phonographic Industry (BPI). Supernature has sold one million copies worldwide.
-The album's lead single, "Ooh La La", reached number four on the UK Singles Chart, becoming the duo's highest-peaking single to date. The album spawned three further singles: "Number 1", "Ride a White Horse" and "Fly Me Away". In North America, where "Number 1" was promoted as the first single, the album was released on 7 March 2006 and reached number 138 on the charts. Supernature was nominated for a Grammy Award for Best Electronic/Dance Album in 2007.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/supernature/1142257697" >}}<br>

@@ -22,10 +22,9 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Glam", "Pop Rock", "Soul"]
 ---
 
-{{< img src="changesonebowie-8518115.jpg" title="ChangesOneBowie by David Bowie" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Space Oddity (5:10)
 2. John, I'm Only Dancing (2:43)
 3. Changes (3:34)
@@ -37,10 +36,6 @@ styles: ["Glam", "Pop Rock", "Soul"]
 9. Young Americans (5:07)
 10. Fame (4:10)
 11. Golden Years (3:55)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635" >}}<br>

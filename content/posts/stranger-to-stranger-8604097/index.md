@@ -23,10 +23,13 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="stranger-to-stranger-8604097.jpg" title="Stranger To Stranger by Paul Simon" >}}
+Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.
+His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Werewolf (3:25)
 2. Wristband (3:17)
 3. The Clock  (1:02)
@@ -38,14 +41,6 @@ styles: ["Folk Rock"]
 9. The Riverbank (4:09)
 10. Cool Papa Bell (4:02)
 11. Insomniac’s Lullaby (4:33)
-
-<!-- section break -->
-
-Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.
-His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}<br>

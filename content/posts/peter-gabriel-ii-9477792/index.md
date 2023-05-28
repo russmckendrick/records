@@ -25,10 +25,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="peter-gabriel-ii-9477792.jpg" title="Peter Gabriel II by Peter Gabriel" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. On The Air
 2. D.I.Y.
 3. Mother Of Violence
@@ -40,10 +39,6 @@ styles: ["Prog Rock"]
 9. Flotsam And Jetsam
 10. Perspective
 11. Home Sweet Home
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-2-scratch-remastered/986702307" >}}<br>

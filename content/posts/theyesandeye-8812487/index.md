@@ -21,10 +21,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-{{< img src="theyesandeye-8812487.jpg" title="Theyesandeye by Louise Rhodes" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. All The Birds
 2. All I Need
 3. Angels
@@ -36,10 +35,6 @@ styles: ["Folk"]
 9. Full Moon
 10. Never Forget
 11. Magic Ride
-
-<!-- section break -->
-
-
 
 
 

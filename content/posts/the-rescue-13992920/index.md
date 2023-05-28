@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="the-rescue-13992920.jpg" title="The Rescue  by Explosions In The Sky" >}}
+The Rescue is the fourth studio album by American post-rock band Explosions in the Sky. Written, recorded and mastered in two weeks in band member Michael James's house in Austin, Texas, The Rescue is a concept album inspired by an experience the band had while touring.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Day One
 2. Day Two
 3. Day Three
@@ -31,13 +33,6 @@ styles: ["Post Rock"]
 6. Day Six
 7. Day Seven
 8. Day Eight
-
-<!-- section break -->
-
-The Rescue is the fourth studio album by American post-rock band Explosions in the Sky. Written, recorded and mastered in two weeks in band member Michael James's house in Austin, Texas, The Rescue is a concept album inspired by an experience the band had while touring.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rescue-anniversary-edition/1476740620" >}}<br>

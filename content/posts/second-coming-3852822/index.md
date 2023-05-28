@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="second-coming-3852822.jpg" title="Second Coming by The Stone Roses" >}}
+Unbowed by the burden of expectation, the Mancunians forge new ways to groove. Despite the suffocating pressure to match a classic debut and the intra-band squabbles it caused, <i>Second Coming</i> contains premium psychedelic pop in “Ten Storey Love Song” and the spiteful “How Do You Sleep”. The band’s impulse to merge guitars and dance music into new states of bliss gets best explored here though. The techno-rock collision of “Begging You” is exhilarating and singular, while an elastic rhythm section and Ian Brown’s righteous swagger transform “Love Spreads” from a Led Zep tribute into mantric rock-funk.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Breaking Into Heaven (11:21)
 2. Driving South (5:09)
 3. Ten Storey Love Song (4:29)
@@ -42,14 +45,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. Tears (6:50)
 11. How Do You Sleep (4:59)
 12. Love Spreads (5:46)
-
-<!-- section break -->
-
-Unbowed by the burden of expectation, the Mancunians forge new ways to groove. Despite the suffocating pressure to match a classic debut and the intra-band squabbles it caused, <i>Second Coming</i> contains premium psychedelic pop in “Ten Storey Love Song” and the spiteful “How Do You Sleep”. The band’s impulse to merge guitars and dance music into new states of bliss gets best explored here though. The techno-rock collision of “Begging You” is exhilarating and singular, while an elastic rhythm section and Ian Brown’s righteous swagger transform “Love Spreads” from a Led Zep tribute into mantric rock-funk.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/second-coming/1440870988" >}}<br>

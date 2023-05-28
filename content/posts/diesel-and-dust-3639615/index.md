@@ -20,23 +20,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="diesel-and-dust-3639615.jpg" title="Diesel And Dust by Midnight Oil" >}}
-
-<!-- section break -->
-
-1. Beds Are Burning (4:14)
-2. Put Down That Weapon (4:38)
-3. Dreamworld (3:36)
-4. Arctic World (4:21)
-5. Warakurna (4:38)
-6. The Dead Heart (5:10)
-7. Whoah (3:51)
-8. Bullroarer (4:59)
-9. Sell My Soul (3:35)
-10. Sometimes (3:53)
-
-<!-- section break -->
-
 “The main thing we were focused on when we went to do <i>Diesel</i> was to try and get the songs down in as simple and uncomplicated form as we possibly could,” Midnight Oil vocalist Peter Garrett tells Apple Music. “Particularly the ones that were influenced by our trip into the Western Desert region with the Warumpi Band on the Blackfella/Whitefella tour.” The plan worked, with the band’s sixth album yielding some of the Sydney quintet’s most enduring songs, such as “Beds Are Burning” and “The Dead Heart”. That these singles were incendiary reflections on the history of First Nations peoples and the intersection of white and black culture, as witnessed by the group on that 1986 tour of remote Aboriginal communities, made their success all the more remarkable.<br />
 Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such as “Put Down That Weapon” and “Arctic World” were informed by broader, more global political concerns—they nonetheless remain inextricably linked with the album, alongside the band’s experiences in the Western Desert region. “When writers and musicians and performers take that raw material and fashion it into a piece of music, then you get the songs we had on <i>Diesel and Dust</i>,” says Garrett. “That’s probably what gave the album its power.” Here the singer offers a track-by-track guide to the record, which not only represented a watershed moment in Australian musical history, but broke Midnight Oil internationally.<br />
 <b>Beds Are Burning</b>
@@ -65,6 +48,18 @@ Though <i>Diesel and Dust</i> also looked beyond Indigenous issues–songs such 
         
     
 
+
+## Tracklisting
+1. Beds Are Burning (4:14)
+2. Put Down That Weapon (4:38)
+3. Dreamworld (3:36)
+4. Arctic World (4:21)
+5. Warakurna (4:38)
+6. The Dead Heart (5:10)
+7. Whoah (3:51)
+8. Bullroarer (4:59)
+9. Sell My Soul (3:35)
+10. Sometimes (3:53)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diesel-and-dust-2008-remaster/288955172" >}}<br>

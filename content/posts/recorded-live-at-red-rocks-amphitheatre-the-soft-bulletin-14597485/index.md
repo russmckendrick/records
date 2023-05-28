@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
 
-{{< img src="recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485.jpg" title="(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin by The Flaming Lips" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Race For The Prize
 2. A Spoonful Weighs A Ton
 3. The Spark That Bled
@@ -32,10 +31,6 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 10. The Gash
 11. Feeling Yourself Disintegrate
 12. Sleeping On The Roof
-
-<!-- section break -->
-
-
 
 
 

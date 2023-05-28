@@ -20,10 +20,14 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-{{< img src="working-class-dog-13184025.jpg" title="Working Class Dog by Rick Springfield" >}}
+Working Class Dog is the fifth studio album by Australian rock musician Rick Springfield, released by RCA Records in 1981. The album was certified Platinum in the United States and eventually sold over three million US copies.  It produced Springfield's biggest career hit with the #1 million-selling song, "Jessie's Girl".  Springfield was awarded the 1982 Grammy Award for Best Rock Vocal Performance, Male.
+The album was re-released on CD in 2006 as a "25th anniversary edition" with three bonus tracks.
+"Love Is Alright Tonite" was used to comedic effect in the film Wet Hot American Summer.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Love Is Alright Tonite (3:28)
 2. Jessie's Girl (3:14)
 3. Hole In My Heart (3:12)
@@ -34,15 +38,6 @@ styles: []
 8. Daddy's Pearl (2:37)
 9. Red Hot & Blue Love (2:57)
 10. Inside Silvia (4:43)
-
-<!-- section break -->
-
-Working Class Dog is the fifth studio album by Australian rock musician Rick Springfield, released by RCA Records in 1981. The album was certified Platinum in the United States and eventually sold over three million US copies.  It produced Springfield's biggest career hit with the #1 million-selling song, "Jessie's Girl".  Springfield was awarded the 1982 Grammy Award for Best Rock Vocal Performance, Male.
-The album was re-released on CD in 2006 as a "25th anniversary edition" with three bonus tracks.
-"Love Is Alright Tonite" was used to comedic effect in the film Wet Hot American Summer.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/working-class-dog/270571529" >}}<br>

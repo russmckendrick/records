@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ---
 
-{{< img src="tunng-presents-dead-club-16173154.jpg" title="Tunng Presents... Dead Club by Tunng" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Eating The Dead
 2. Death Is The New Sex 
 3. SDC
@@ -33,10 +32,6 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 10. Scared To Death 
 11. Fatally Human
 12. Woman
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1662910624" >}}<br>

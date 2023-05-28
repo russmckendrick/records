@@ -35,10 +35,13 @@ genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="raising-sand-1272003.jpg" title="Raising Sand by Robert Plant" >}}
+Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, but between their tender harmonies and the intimate slant of the material, it often sounds that way. They're haunting and heavenly when they join voices on the gospel number "Your Long Journey". Though the stripped-down, acoustic-based sound is a long way from Led Zeppelin, they rock on a slinky version of Allen Toussaint's "Fortune Teller". And when they cover a pair of lesser-known Everly Brothers songs, they sound remarkably like the brothers themselves.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Rich Woman (4:04)
 2. Killing The Blues (4:16)
 3. Sister Rosetta Goes Before Us (3:26)
@@ -52,14 +55,6 @@ styles: ["Blues Rock"]
 11. Nothin’ (5:33)
 12. Let Your Loss Be Your Lesson (4:02)
 13. Your Long Journey (3:55)
-
-<!-- section break -->
-
-Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, but between their tender harmonies and the intimate slant of the material, it often sounds that way. They're haunting and heavenly when they join voices on the gospel number "Your Long Journey". Though the stripped-down, acoustic-based sound is a long way from Led Zeppelin, they rock on a slinky version of Allen Toussaint's "Fortune Teller". And when they cover a pair of lesser-known Everly Brothers songs, they sound remarkably like the brothers themselves.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raising-sand/1440777888" >}}<br>

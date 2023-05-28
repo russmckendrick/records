@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-beginning-stages-of-890127.jpg" title="The Beginning Stages Of... by The Polyphonic Spree" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Section 1 (Have A Day/Celebratory)
 2. Section 2 (It's The Sun)
 3. Section 3 (Days Like This Keep Me Warm)
@@ -42,10 +41,6 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 8. Section 8 (Soldier Girl)
 9. Section 9 (Light & Day / Reach For The Sun)
 10. Section 10 (A Long Day)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of-disk-1/121997782" >}}<br>

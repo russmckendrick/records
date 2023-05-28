@@ -30,10 +30,9 @@ genres: ["Electronic", "Jazz", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporary Jazz", "Soundtrack"]
 ---
 
-{{< img src="lost-highway-original-motion-picture-soundtrack-9274768.jpg" title="Lost Highway (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I'm Deranged (Edit) (2:38)
 2. Videodrones; Questions (0:44)
 3. The Perfect Drug (5:15)
@@ -57,10 +56,6 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 21. Police (1:39)
 22. Driver Down (5:18)
 23. I'm Deranged (Reprise) (3:47)
-
-<!-- section break -->
-
-
 
 
 

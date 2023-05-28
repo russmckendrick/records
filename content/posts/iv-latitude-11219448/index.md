@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="iv-latitude-11219448.jpg" title="IV Latitude by Lesoir" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Modern Goddess (4:31)
 2. In The Game (5:27)
 3. Icon (4:02)
@@ -45,10 +44,6 @@ styles: ["Prog Rock"]
 11. Latitude (3:39)
 12. Faith Is (6:21)
 13. Cradle Song (1:55)
-
-<!-- section break -->
-
-
 
 
 

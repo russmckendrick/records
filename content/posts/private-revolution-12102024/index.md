@@ -22,10 +22,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="private-revolution-12102024.jpg" title="Private Revolution by World Party" >}}
+Private Revolution is the debut album by the Welsh-British rock band World Party.  At this point, singer-songwriter/multi-instrumentalist Karl Wallinger was the only member of World Party, and the only person pictured on the cover.
+Wallinger is assisted on this album by several session musicians, including Anthony Thistlethwaite, Steve Wickham and Sinéad O'Connor. Several other musicians listed in the credits are actually whimsically named pseudonyms for Wallinger himself.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Private Revolution (4:01)
 2. Making Love (To The World) (2:30)
 3. Ship Of Fools (4:27)
@@ -37,14 +40,6 @@ styles: ["Alternative Rock"]
 9. All I Really Want To Do (4:43)
 10. World Party (4:36)
 11. It's All Mine (5:33)
-
-<!-- section break -->
-
-Private Revolution is the debut album by the Welsh-British rock band World Party.  At this point, singer-songwriter/multi-instrumentalist Karl Wallinger was the only member of World Party, and the only person pictured on the cover.
-Wallinger is assisted on this album by several session musicians, including Anthony Thistlethwaite, Steve Wickham and Sinéad O'Connor. Several other musicians listed in the credits are actually whimsically named pseudonyms for Wallinger himself.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/private-revolution/711969568" >}}<br>

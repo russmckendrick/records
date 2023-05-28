@@ -15,10 +15,9 @@ genres: ["Electronic", "Reggae", "Funk / Soul"]
 styles: ["New Wave", "Dub", "Disco"]
 ---
 
-{{< img src="lord-upminster-8396639.jpg" title="Lord Upminster by Ian Dury" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Funky Disco Pops (3:37)
 2. Red Letter (3:59)
 3. Girls Watching (4:35)
@@ -27,10 +26,6 @@ styles: ["New Wave", "Dub", "Disco"]
 6. Lonely Town (4:20)
 7. Trust Is A Must (6:45)
 8. Spasticus Autisticus (5:10)
-
-<!-- section break -->
-
-
 
 
 

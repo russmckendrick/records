@@ -24,10 +24,12 @@ genres: ["Electronic"]
 styles: ["Trip Hop", "Dub", "Downtempo"]
 ---
 
-{{< img src="smokers-delight-15030498.jpg" title="Smokers Delight by Nightmares On Wax" >}}
+Smokers Delight is the second studio album by English DJ and record producer Nightmares on Wax. It was released in 1995 on Warp in the United Kingdom, and on Wax Trax in the United States. It peaked at number 84 on the UK Albums Chart.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nights Introlude (4:40)
 2. Dreddoverboard (5:48)
 3. Pipes Honour (9:05)
@@ -45,13 +47,6 @@ styles: ["Trip Hop", "Dub", "Downtempo"]
 15. Rise (5:14)
 16. Rise (Reprise) (1:46)
 17. Gambia Via Vagatorbeach (4:41)
-
-<!-- section break -->
-
-Smokers Delight is the second studio album by English DJ and record producer Nightmares on Wax. It was released in 1995 on Warp in the United Kingdom, and on Wax Trax in the United States. It peaked at number 84 on the UK Albums Chart.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smokers-delight-digital-deluxe/1498226874" >}}<br>

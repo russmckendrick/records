@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="cobras-and-fire-the-mastermind-redux-7628637.jpg" title="Cobras And Fire: The Mastermind Redux by Monster Magnet" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. She Digs That Hole
 2. Watch Me Fade
 3. Mastermind ´69
@@ -30,10 +29,6 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 8. Ball Of Confusion
 9. Time Machine (Instrumental)
 10. I Live Behind The Paradise Machine: Evil Joe Barresi's Magnet Mash Vol.1
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896" >}}<br>

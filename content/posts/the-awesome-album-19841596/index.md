@@ -25,10 +25,9 @@ genres: ["Rock", "Stage & Screen"]
 styles: []
 ---
 
-{{< img src="the-awesome-album-19841596.jpg" title="The Awesome Album by Mouse Rat" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. 5,000 Candles in the Wind (Bye, Bye Lil Sebastian)
 2. The Pit
 3. Sex Hair
@@ -44,10 +43,6 @@ styles: []
 13. I Only Have Eyes For You
 14. Pickled Ginger
 15. Cold Water
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-awesome-album/1566650824" >}}<br>

@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="bridge-of-spies-423522.jpg" title="Bridge Of Spies by T'Pau" >}}
+Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Heart And Soul (4:15)
 2. I Will Be With You (4:06)
 3. China In Your Hand (5:06)
@@ -36,13 +38,6 @@ styles: ["Pop Rock"]
 9. Thank You For Goodbye (3:54)
 10. You Give Up (4:39)
 11. China In Your Hand (Reprise) (0:45)
-
-<!-- section break -->
-
-Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bridge-of-spies/1442998643" >}}<br>

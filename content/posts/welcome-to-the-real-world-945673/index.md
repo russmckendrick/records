@@ -21,10 +21,12 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-{{< img src="welcome-to-the-real-world-945673.jpg" title="Welcome To The Real World by Mr. Mister" >}}
+Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on November 27, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Black / White (4:18)
 2. Uniform Of Youth (4:25)
 3. Don't Slow Down (4:29)
@@ -35,13 +37,6 @@ styles: ["Pop Rock"]
 8. Broken Wings (5:45)
 9. Tangent Tears (3:19)
 10. Welcome To The Real World (4:18)
-
-<!-- section break -->
-
-Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on November 27, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-real-world/302053572" >}}<br>

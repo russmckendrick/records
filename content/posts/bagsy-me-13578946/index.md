@@ -20,10 +20,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="bagsy-me-13578946.jpg" title="Bagsy Me by The Wannadies" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Because (2:17)
 2. Friends (2:53)
 3. Someone Somewhere (4:49)
@@ -36,10 +35,6 @@ styles: ["Indie Rock"]
 10. Bumble Bee Boy (2:57)
 11. Combat Honey (2:26)
 12. That's All (8:38)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}<br>

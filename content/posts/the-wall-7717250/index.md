@@ -53,10 +53,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="the-wall-7717250.jpg" title="The Wall by Roger Waters" >}}
+Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink Floyd. It is a live recording of Pink Floyd's 1979 rock opera The Wall.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Flesh?
 2. The Thin Ice
 3. Another Brick In The Wall, Part 1
@@ -86,13 +88,6 @@ styles: ["Prog Rock"]
 27. Stop
 28. The Trial
 29. Outside The Wall
-
-<!-- section break -->
-
-Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink Floyd. It is a live recording of Pink Floyd's 1979 rock opera The Wall.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roger-waters-the-wall/1042853859" >}}<br>

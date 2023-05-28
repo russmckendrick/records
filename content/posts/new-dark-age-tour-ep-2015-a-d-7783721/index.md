@@ -21,18 +21,13 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
-{{< img src="new-dark-age-tour-ep-2015-a-d-7783721.jpg" title="New Dark Age Tour EP 2015 A.D. by Crippled Black Phoenix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Spider Island (5:15)
 2. New Dark Age (14:10)
 3. Echoes Pt.1 (19:19)
 4. Echoes Pt.2 (18:18)
-
-<!-- section break -->
-
-
 
 
 

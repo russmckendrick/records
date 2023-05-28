@@ -19,10 +19,14 @@ genres: ["Hip Hop", "Rock", "Stage & Screen"]
 styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ---
 
-{{< img src="ghostbusters-ii-672488.jpg" title="Ghostbusters II by Various" >}}
+Ghostbusters II is the soundtrack album for the film of the same name, released by MCA Records in 1989. The soundtrack includes the Billboard Hot 100 number two hit "On Our Own" performed by Bobby Brown, as well as Run-D.M.C.'s rendition of "Ghostbusters". The film score, Ghostbusters II: Original Motion Picture Score is composed by Randy Edelman. Since the release of the film in 1989, the complete film score was unreleased, until it was finally released on August 13, 2021.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. On Our Own (4:53)
 2. Supernatural (4:35)
 3. The Promised Land (4:17)
@@ -33,15 +37,6 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 8. Love Is A Cannibal (3:53)
 9. Flip City (5:12)
 10. Higher And Higher (4:08)
-
-<!-- section break -->
-
-Ghostbusters II is the soundtrack album for the film of the same name, released by MCA Records in 1989. The soundtrack includes the Billboard Hot 100 number two hit "On Our Own" performed by Bobby Brown, as well as Run-D.M.C.'s rendition of "Ghostbusters". The film score, Ghostbusters II: Original Motion Picture Score is composed by Randy Edelman. Since the release of the film in 1989, the complete film score was unreleased, until it was finally released on August 13, 2021.
-
-
-    
-    
-
 
 
 ## Spotify

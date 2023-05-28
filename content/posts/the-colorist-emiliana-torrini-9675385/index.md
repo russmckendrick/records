@@ -26,10 +26,9 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock"]
 ---
 
-{{< img src="the-colorist-emiliana-torrini-9675385.jpg" title="The Colorist & Emiliana Torrini by The Colorist" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Caterpillar (4:42)
 2. Blood Red (5:20)
 3. Serenade (3:51)
@@ -52,10 +51,6 @@ styles: ["Folk Rock"]
 20. Thinking Out Loud (4:14)
 21. Gun (6:34)
 22. Bleeder (5:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-colorist-emiliana-torrini/1152099751" >}}<br>

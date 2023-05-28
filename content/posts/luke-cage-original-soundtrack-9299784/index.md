@@ -19,10 +19,9 @@ genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="luke-cage-original-soundtrack-9299784.jpg" title="Luke Cage - Original Soundtrack by Adrian Younge" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Diamondback Arrives
 2. Final Battle - Part 1
 3. In The Wind
@@ -69,10 +68,6 @@ styles: ["Soundtrack"]
 44. Luke Cops
 45. Crushin' On Reva
 46. Beloved Reva
-
-<!-- section break -->
-
-
 
 
 

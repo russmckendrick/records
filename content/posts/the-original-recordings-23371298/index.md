@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-{{< img src="the-original-recordings-23371298.jpg" title="The Original Recordings by Sex Pistols" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pretty Vacant
 2. God Save The Queen
 3. Bodies
@@ -45,10 +44,6 @@ styles: ["Punk"]
 18. Did You No Wrong
 19. Substitute
 20. My Way
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-original-recordings-remastered/1614241853" >}}<br>

@@ -26,10 +26,15 @@ genres: ["Electronic", "Pop"]
 styles: ["Experimental", "Vocal", "Ambient"]
 ---
 
-{{< img src="utopia-11154874.jpg" title="Utopia by Björk" >}}
+Utopia is the ninth studio album by Icelandic singer-musician Björk. It was primarily produced by Björk and Venezuelan electronic record producer Arca, and released on 24 November 2017 through One Little Independent Records in the United Kingdom and The Orchard Enterprises in the United States.
+The album was acclaimed by music critics for its production, songwriting and Björk's vocals, and later received a nomination for Best Alternative Music Album at the 61st Annual Grammy Awards, becoming Björk's eighth consecutive nomination in the category.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Arisen My Senses (5:01)
 2. Blissing Me (5:04)
 3. The Gate (6:34)
@@ -44,16 +49,6 @@ styles: ["Experimental", "Vocal", "Ambient"]
 12. Paradisia (1:42)
 13. Features Creatures (4:41)
 14. Future Forever (4:46)
-
-<!-- section break -->
-
-Utopia is the ninth studio album by Icelandic singer-musician Björk. It was primarily produced by Björk and Venezuelan electronic record producer Arca, and released on 24 November 2017 through One Little Independent Records in the United Kingdom and The Orchard Enterprises in the United States.
-The album was acclaimed by music critics for its production, songwriting and Björk's vocals, and later received a nomination for Best Alternative Music Album at the 61st Annual Grammy Awards, becoming Björk's eighth consecutive nomination in the category.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/utopia/1505333074" >}}<br>

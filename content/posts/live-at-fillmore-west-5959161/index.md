@@ -23,10 +23,14 @@ genres: ["Jazz", "Funk / Soul"]
 styles: ["Jazz-Funk"]
 ---
 
-{{< img src="live-at-fillmore-west-5959161.jpg" title="Live At Fillmore West by King Curtis" >}}
+Live at Fillmore West is an album by King Curtis, released in 1971. The album showcases the concert he played with his band the Kingpins at the Fillmore West venue in San Francisco in March 1971 who were supporting and backing soul singer Aretha Franklin. A week after its release in August 1971, Curtis was stabbed to death outside his brownstone apartment in New York City.It was reissued on compact disc in the 1990s through Rhino Records and was released in an expanded edition in 2006. In addition it was released as an expanded edition four-CD box set entitled, Don't Fight the Feeling: The Complete Aretha Franklin & King Curtis Live At Fillmore West by Rhino Handmade in 2005, featuring the complete concert by King Curtis and Aretha Franklin. This edition was limited to 5000 numbered copies.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Memphis Soul Stew (7:30)
 2. A Whiter Shade Of Pale (5:15)
 3. Whole Lotta Love (2:10)
@@ -36,15 +40,6 @@ styles: ["Jazz-Funk"]
 7. Mr. Bojangles (4:23)
 8. Signed Sealed Delivered, I'm Yours (2:30)
 9. Soul Serenade (5:30)
-
-<!-- section break -->
-
-Live at Fillmore West is an album by King Curtis, released in 1971. The album showcases the concert he played with his band the Kingpins at the Fillmore West venue in San Francisco in March 1971 who were supporting and backing soul singer Aretha Franklin. A week after its release in August 1971, Curtis was stabbed to death outside his brownstone apartment in New York City.It was reissued on compact disc in the 1990s through Rhino Records and was released in an expanded edition in 2006. In addition it was released as an expanded edition four-CD box set entitled, Don't Fight the Feeling: The Complete Aretha Franklin & King Curtis Live At Fillmore West by Rhino Handmade in 2005, featuring the complete concert by King Curtis and Aretha Franklin. This edition was limited to 5000 numbered copies.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-fight-the-feeling-the-complete-aretha-franklin/955202983" >}}<br>

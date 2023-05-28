@@ -21,10 +21,13 @@ genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="dream-into-action-5710031.jpg" title="Dream Into Action by Howard Jones" >}}
+Dream into Action is the second studio album by British pop musician Howard Jones. It was released in March 1985 and reached No. 2 in the UK Album Charts. The album also reached the top ten in the U.S. The album achieved a gold certification in the UK and platinum status in the US and Canada.
+The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No. 5), "Look Mama" (UK No. 10) and "Life in One Day" (UK No. 14, US No. 19). Additionally, the track "No One Is to Blame" was re-recorded in a new arrangement for single release, reaching No. 16 in the UK and No. 4 in the US in 1986 and was included on a later second European pressing of the album. The 1984 single "Like to Get to Know You Well" (UK No. 4) was included on the album's CD reissue. A world tour accompanied the album's original release with Jones playing Wembley Arena and the O2 Academy Birmingham in the UK, and arena-size venues in the US, Europe and Japan. In 2010, a remastered edition of the album was issued alongside Jones' debut album Human's Lib.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Things Can Only Get Better (3:56)
 2. Life In One Day (3:40)
 3. Dream Into Action (3:46)
@@ -37,14 +40,6 @@ styles: ["New Wave", "Synth-pop"]
 10. Specialty (3:58)
 11. Why Look For The Key? (3:23)
 12. Hunger For The Flesh (3:59)
-
-<!-- section break -->
-
-Dream into Action is the second studio album by British pop musician Howard Jones. It was released in March 1985 and reached No. 2 in the UK Album Charts. The album also reached the top ten in the U.S. The album achieved a gold certification in the UK and platinum status in the US and Canada.
-The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No. 5), "Look Mama" (UK No. 10) and "Life in One Day" (UK No. 14, US No. 19). Additionally, the track "No One Is to Blame" was re-recorded in a new arrangement for single release, reaching No. 16 in the UK and No. 4 in the US in 1986 and was included on a later second European pressing of the album. The 1984 single "Like to Get to Know You Well" (UK No. 4) was included on the album's CD reissue. A world tour accompanied the album's original release with Jones playing Wembley Arena and the O2 Academy Birmingham in the UK, and arena-size venues in the US, Europe and Japan. In 2010, a remastered edition of the album was issued alongside Jones' debut album Human's Lib.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dream-into-action-remastered-edition/1063825288" >}}<br>

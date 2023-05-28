@@ -21,10 +21,9 @@ genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
 
-{{< img src="durand-jones-the-indications-11718792.jpg" title="Durand Jones & The Indications  by Durand Jones & The Indications" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Make A Change (3:28)
 2. Smile (3:48)
 3. Can't Keep My Cool (4:19)
@@ -33,10 +32,6 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 6. Is It Any Wonder? (4:36)
 7. Now I'm Gone  (5:39)
 8. Tuck 'N' Roll (2:56)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications-deluxe-edition/1339389796" >}}<br>

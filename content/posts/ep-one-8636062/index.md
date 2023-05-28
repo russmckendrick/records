@@ -16,18 +16,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Electro", "Indie Rock"]
 ---
 
-{{< img src="ep-one-8636062.jpg" title="EP ONE by Paul Draper" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Feeling My Heart Run Slow
 2. No Ideas
 3. The Silence Is Deafening
 4. F.M.H.R.S. (The Twilight Sad Mix)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ep-one-ep/1105432622" >}}<br>

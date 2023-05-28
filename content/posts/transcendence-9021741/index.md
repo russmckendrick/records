@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
-{{< img src="transcendence-9021741.jpg" title="Transcendence by Devin Townsend Project" >}}
+Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Truth
 2. Stormbending
 3. Failure
@@ -53,13 +55,6 @@ styles: ["Progressive Metal"]
 22. Transdermal Celebration (8:26)
 23. Gump (5:25)
 24. Loud (3:23)
-
-<!-- section break -->
-
-Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195" >}}<br>

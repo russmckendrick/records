@@ -46,10 +46,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="the-definitive-studio-album-collection-11285748.jpg" title="The Definitive Studio Album Collection by Otis Redding" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Pain In My Heart
 2. Pain In My Heart (2:22)
 3. The Dog (2:30)
@@ -137,10 +136,6 @@ styles: ["Soul"]
 85. The Huckle-Buck (2:58)
 86. Nobody Knows You (When You're Down And Out) (3:10)
 87. Ole Man Trouble (2:36)
-
-<!-- section break -->
-
-
 
 
 

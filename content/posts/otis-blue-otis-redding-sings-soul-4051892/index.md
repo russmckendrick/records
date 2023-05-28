@@ -21,10 +21,12 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-{{< img src="otis-blue-otis-redding-sings-soul-4051892.jpg" title="Otis Blue / Otis Redding Sings Soul by Otis Redding" >}}
+On this 1965 album Redding cemented his place as the preeminent soul man, thanks to an impassioned vocal style that could veer from tender to urgent in the space of a verse. Highlights include two of his most enduring originals: “I’ve Been Loving You Too Long” and the attitude-laden swagger of “Respect.” Redding utterly transforms The Rolling Stones’ “Satisfaction (I Can’t Get No)” with his forceful vocals, while his take on Sam Cooke’s civil rights anthem “A Change Is Gonna Come” is wracked with emotion.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Ole Man Trouble (2:35)
 2. Respect (2:03)
 3. Change Gonna Come (4:13)
@@ -36,13 +38,6 @@ styles: ["Soul"]
 9. Rock Me Baby (3:22)
 10. Satisfaction (2:43)
 11. You Don't Miss Your Water (2:49)
-
-<!-- section break -->
-
-On this 1965 album Redding cemented his place as the preeminent soul man, thanks to an impassioned vocal style that could veer from tender to urgent in the space of a verse. Highlights include two of his most enduring originals: “I’ve Been Loving You Too Long” and the attitude-laden swagger of “Respect.” Redding utterly transforms The Rolling Stones’ “Satisfaction (I Can’t Get No)” with his forceful vocals, while his take on Sam Cooke’s civil rights anthem “A Change Is Gonna Come” is wracked with emotion.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/otis-blue-otis-redding-sings-soul-collectors-edition/278115738" >}}<br>

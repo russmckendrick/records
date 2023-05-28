@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="free-hand-19250605.jpg" title="Free Hand by Gentle Giant" >}}
+Free Hand is the seventh album by British progressive rock band Gentle Giant. It was released in 1975.
+It was Gentle Giant's first album with their new label Chrysalis Records in the UK. It is noted for its high production values, and for a less dissonant, more accessible feel than their previous album The Power and the Glory. It was their highest-charting album in the US and the only one to reach the Top 50 on the Billboard 200.In addition to the usual stereo version, the album was also mixed in 4-channel quadraphonic sound in 1976. The 4-channel mix was not used until 2012 when it finally appeared on DVD with encoding in multichannel LPCM, DTS and Dolby Digital surround sound formats.A 1990 CD re-issue in the US by One Way Records used an alternate stereo mix. This version revealed some different details in the musical and vocal parts. However, this edition may have actually been a reduction or variation of the 4-channel mix.
+Alucard Music/EMI Records re-released the CD in 2009, "from the original 1/4-inch tapes through 24bit 96k Hi-Resolution transfer."
+On June 25, 2021, a new remix by musician and producer Steven Wilson was released in Dolby Atmos & 5.1 surround sound, accompanied by custom animated visuals for each track on Blu-ray. In addition, the original flat mix, original 1975 quad mix and an instrumental mix were all included in a digipack CD. A double vinyl album was also released with both the original flat mix and Steven Wilson remixed versions.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Transfer From The Original Analog Tapes 
 2. Just The Same (5:34)
 3. On Reflection (5:41)
@@ -42,16 +47,6 @@ styles: ["Prog Rock"]
 14. His Last Voyage (6:27)
 15. Talybont (2:43)
 16. Mobile (5:05)
-
-<!-- section break -->
-
-Free Hand is the seventh album by British progressive rock band Gentle Giant. It was released in 1975.
-It was Gentle Giant's first album with their new label Chrysalis Records in the UK. It is noted for its high production values, and for a less dissonant, more accessible feel than their previous album The Power and the Glory. It was their highest-charting album in the US and the only one to reach the Top 50 on the Billboard 200.In addition to the usual stereo version, the album was also mixed in 4-channel quadraphonic sound in 1976. The 4-channel mix was not used until 2012 when it finally appeared on DVD with encoding in multichannel LPCM, DTS and Dolby Digital surround sound formats.A 1990 CD re-issue in the US by One Way Records used an alternate stereo mix. This version revealed some different details in the musical and vocal parts. However, this edition may have actually been a reduction or variation of the 4-channel mix.
-Alucard Music/EMI Records re-released the CD in 2009, "from the original 1/4-inch tapes through 24bit 96k Hi-Resolution transfer."
-On June 25, 2021, a new remix by musician and producer Steven Wilson was released in Dolby Atmos & 5.1 surround sound, accompanied by custom animated visuals for each track on Blu-ray. In addition, the original flat mix, original 1975 quad mix and an instrumental mix were all included in a digipack CD. A double vinyl album was also released with both the original flat mix and Steven Wilson remixed versions.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/free-hand/1629182869" >}}<br>

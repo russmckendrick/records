@@ -46,10 +46,12 @@ genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-{{< img src="glastonbury-2000-12811492.jpg" title="Glastonbury 2000 by David Bowie" >}}
+Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Introduction (Greensleeves) (1:48)
 2. Wild Is The Wind (6:54)
 3. China Girl (4:24)
@@ -72,13 +74,6 @@ styles: ["Art Rock", "Pop Rock"]
 20. "Heroes" (5:57)
 21. Let's Dance (7:06)
 22. I'm Afraid Of Americans (5:43)
-
-<!-- section break -->
-
-Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glastonbury-2000-live/1438252305" >}}<br>

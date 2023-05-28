@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-{{< img src="the-interrupters-13602776.jpg" title="The Interrupters by The Interrupters" >}}
+The Interrupters are an American ska punk band formed in Los Angeles, California, in 2011. The band comprises lead vocalist Aimee Interrupter, drummer Jesse Bivona, bassist Justin Bivona, and guitarist Kevin Bivona. They have released four studio albums. The latest, In the Wild, was released in 2022, along with the album's lead single, "Raised by Wolves".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Take Back The Power
 2. White Noise
 3. Can't Be Trusted
@@ -38,13 +40,6 @@ styles: ["Punk", "Ska"]
 11. Last Call
 12. Haven't Seen The Last Of Me
 13. Jenny Drinks
-
-<!-- section break -->
-
-The Interrupters are an American ska punk band formed in Los Angeles, California, in 2011. The band comprises lead vocalist Aimee Interrupter, drummer Jesse Bivona, bassist Justin Bivona, and guitarist Kevin Bivona. They have released four studio albums. The latest, In the Wild, was released in 2022, along with the album's lead single, "Raised by Wolves".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-interrupters-deluxe-edition/1485060236" >}}<br>

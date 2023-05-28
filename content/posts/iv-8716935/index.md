@@ -27,10 +27,13 @@ genres: ["Jazz"]
 styles: []
 ---
 
-{{< img src="iv-8716935.jpg" title="IV by BadBadNotGood" >}}
+IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBadNotGood. It was released on July 8, 2016. It features collaborations with Future Islands frontman Sam Herring, saxophonist Colin Stetson, Haitian-Canadian musician Kaytranada, American hip hop artist Mick Jenkins, and Canadian singer-songwriter Charlotte Day Wilson.
+It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. And That, Too.
 2. Speaking Gently 
 3. Time Moves Slow
@@ -42,14 +45,6 @@ styles: []
 9. Structure No. 3
 10. In Your Eyes
 11. Cashmere
-
-<!-- section break -->
-
-IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBadNotGood. It was released on July 8, 2016. It features collaborations with Future Islands frontman Sam Herring, saxophonist Colin Stetson, Haitian-Canadian musician Kaytranada, American hip hop artist Mick Jenkins, and Canadian singer-songwriter Charlotte Day Wilson.
-It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/iv/1608122086" >}}<br>

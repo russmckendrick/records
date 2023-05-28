@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Pop Rock"]
 ---
 
-{{< img src="skyscraper-568606.jpg" title="Skyscraper by David Lee Roth" >}}
+Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Knucklebones (3:18)
 2. Just Like Paradise (4:03)
 3. The Bottom Line (3:37)
@@ -35,13 +37,6 @@ styles: ["Hard Rock", "Pop Rock"]
 8. Hina (4:40)
 9. Perfect Timing (3:41)
 10. Two Fools A Minute (4:28)
-
-<!-- section break -->
-
-Skyscraper is the second full-length studio album by David Lee Roth, released during his solo career after his departure as the original lead vocalist from Van Halen. It was released on January 26, 1988, on Warner Bros. Records.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skyscraper/302138810" >}}<br>

@@ -25,10 +25,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="images-and-words-4708303.jpg" title="Images And Words by Dream Theater" >}}
+Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song "Pull Me Under" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song has also had more recent success as it has appeared in the 2008 video game Guitar Hero World Tour.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Pull Me Under (8:11)
 2. Another Day (4:22)
 3. Take The Time (8:21)
@@ -37,13 +39,6 @@ styles: ["Prog Rock", "Progressive Metal"]
 6. Under A Glass Moon (7:02)
 7. Wait For Sleep (2:31)
 8. Learning To Live (11:30)
-
-<!-- section break -->
-
-Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song "Pull Me Under" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song has also had more recent success as it has appeared in the 2008 video game Guitar Hero World Tour.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/images-and-words/282703578" >}}<br>

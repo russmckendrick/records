@@ -27,10 +27,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-{{< img src="the-underfall-yard-18321256.jpg" title="The Underfall Yard by Big Big Train" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Evening Star (4:52)
 2. Master James Of St. George (6:11)
 3. Victorian Brickwork (12:53)
@@ -41,10 +40,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 8. The Underfall Yard (2020 Studio Version) (22:50)
 9. Songs From The Shoreline (18:57)
 10. Brew And Burgh (4:31)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-underfall-yard/348683717" >}}<br>

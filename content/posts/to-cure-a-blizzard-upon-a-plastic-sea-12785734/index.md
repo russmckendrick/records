@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="to-cure-a-blizzard-upon-a-plastic-sea-12785734.jpg" title="To Cure A Blizzard Upon A Plastic Sea by Vennart" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Binary 
 2. Donkey Kong
 3. Immortal Soldiers
@@ -34,10 +33,6 @@ styles: []
 8. That's Not Entertainment 
 9. Diamond Ballgag 
 10. Robots In Disguise 
-
-<!-- section break -->
-
-
 
 
 

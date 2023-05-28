@@ -16,10 +16,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ---
 
-{{< img src="leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353.jpg" title="*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Savour (5:29)
 2. Big Ship (5:36)
 3. Fear (2:20)
@@ -37,10 +36,6 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 15. Up In Annie's Room (2:15)
 16. Stoneage Dinosaurs (4:15)
 17. Home Of Fadeless Splendour (4:55)
-
-<!-- section break -->
-
-
 
 
 

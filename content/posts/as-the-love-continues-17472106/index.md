@@ -39,10 +39,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-{{< img src="as-the-love-continues-17472106.jpg" title="As The Love Continues by Mogwai" >}}
+Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur: You pretty much know what you’re getting when you come to a Mogwai album, but rarely have they given it up with such ease as they do on <i>As the Love Continues</i>, their 10th LP. For a band whose central theme has remained almost industrially consistent, they’ve built up plenty of variations on it: the sparkling, New Agey electronics of “Dry Fantasy”, the classic indie rock sound of “Ceiling Granny” and “Ritchie Sacramento”, the ’80s dance rhythms of “Supposedly, We Were Nightmares”. Even when they reach for their signature build-and-release (“Midnight Flit”), you get the sense of a band not just marching towards an inevitable climax but relishing in texture, nuance and note-to-note intricacies that make that climax feel fresh again. And while they’ve always been beautiful, they’ve also seemed to treat that beauty as an intellectual liability, something to be undermined in the name of staying sharp.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1.  To The Bin My Friend, Tonight We Vacate Earth
 2. Here We, Here We, Here We Go Forever
 3. Dry Fantasy
@@ -70,14 +73,6 @@ styles: []
 25. Pat Stains
 26. Supposedly, We Were Nightmares
 27. It's What I Want To Do, Mum.
-
-<!-- section break -->
-
-Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur: You pretty much know what you’re getting when you come to a Mogwai album, but rarely have they given it up with such ease as they do on <i>As the Love Continues</i>, their 10th LP. For a band whose central theme has remained almost industrially consistent, they’ve built up plenty of variations on it: the sparkling, New Agey electronics of “Dry Fantasy”, the classic indie rock sound of “Ceiling Granny” and “Ritchie Sacramento”, the ’80s dance rhythms of “Supposedly, We Were Nightmares”. Even when they reach for their signature build-and-release (“Midnight Flit”), you get the sense of a band not just marching towards an inevitable climax but relishing in texture, nuance and note-to-note intricacies that make that climax feel fresh again. And while they’ve always been beautiful, they’ve also seemed to treat that beauty as an intellectual liability, something to be undermined in the name of staying sharp.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/as-the-love-continues/1535337264" >}}<br>

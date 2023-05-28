@@ -19,10 +19,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-{{< img src="guns-7235227.jpg" title="Guns by Cardiacs" >}}
+Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Spell With A Shell (3:17)
 2. There's Good Cud (2:17)
 3. Wind And Rains Is Cold (3:21)
@@ -35,15 +39,6 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 10. Signs (4:26)
 11. Song Of A Dead Pest (2:37)
 12. Will Bleed Amen (7:31)
-
-<!-- section break -->
-
-Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/guns/336779427" >}}<br>

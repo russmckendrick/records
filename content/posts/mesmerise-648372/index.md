@@ -19,18 +19,13 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock"]
 ---
 
-{{< img src="mesmerise-648372.jpg" title="Mesmerise by Chapterhouse" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Mesmerise
 2. Precious One
 3. Summer Chill
 4. Then We'll Rise
-
-<!-- section break -->
-
-
 
 
 

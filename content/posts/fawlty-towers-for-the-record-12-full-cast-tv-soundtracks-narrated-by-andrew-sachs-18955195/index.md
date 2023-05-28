@@ -29,10 +29,9 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Comedy", "Radioplay", "Soundtrack"]
 ---
 
-{{< img src="fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195.jpg" title="Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs) by Fawlty Towers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fawlty Towers
 2. Communications Problems
 3. The Hotel Inspectors
@@ -51,10 +50,6 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 16. Enjoy Your Stay
 17. The Psychiatrist
 18. The Anniversary
-
-<!-- section break -->
-
-
 
 
 

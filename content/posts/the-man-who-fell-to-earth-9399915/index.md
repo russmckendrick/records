@@ -26,10 +26,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-man-who-fell-to-earth-9399915.jpg" title="The Man Who Fell To Earth by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Poker Dice
 2. Jazz II
 3. Boys From The South
@@ -74,10 +73,6 @@ styles: ["Soundtrack"]
 42. Silent Night (1:40)
 43. Love Is Coming Back (2:29)
 44. The Man Who Fell To Earth (2:42)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

@@ -24,10 +24,13 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
 
-{{< img src="finn-24028274.jpg" title="Finn by The Finn Brothers" >}}
+The Finn Brothers are a New Zealand musical duo consisting of brothers Neil and Tim Finn. In June 1993 both members were awarded the OBE for their contribution to music.The two brothers began making music together at a young age; later, when Neil was 18, he was invited to join older brother Tim in Split Enz. Neil would go on to write one of the band's biggest hits, "I Got You". Tim released his first solo album Escapade before leaving Split Enz, and the band folded soon after. Neil started his own group, Crowded House and subsequently recorded two solo albums after Crowded House split in 1996. He reformed Crowded House in 2007, releasing three albums since then. Neil and Tim have also released a series of separate solo albums.
+After working on a few songs with Neil, Tim joined Crowded House for the Woodface album and accompanying tour in 1991.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Finn
 2. Only Talking Sense
 3. Eyes Of The World
@@ -52,14 +55,6 @@ styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 22. In Love With It All (Demo)
 23. How Will You Go (Demo)
 24. Weather With You (End Piece)
-
-<!-- section break -->
-
-The Finn Brothers are a New Zealand musical duo consisting of brothers Neil and Tim Finn. In June 1993 both members were awarded the OBE for their contribution to music.The two brothers began making music together at a young age; later, when Neil was 18, he was invited to join older brother Tim in Split Enz. Neil would go on to write one of the band's biggest hits, "I Got You". Tim released his first solo album Escapade before leaving Split Enz, and the band folded soon after. Neil started his own group, Crowded House and subsequently recorded two solo albums after Crowded House split in 1996. He reformed Crowded House in 2007, releasing three albums since then. Neil and Tim have also released a series of separate solo albums.
-After working on a few songs with Neil, Tim joined Crowded House for the Woodface album and accompanying tour in 1991.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/finn/1599847083" >}}<br>

@@ -17,10 +17,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="falling-satellites-8596901.jpg" title="Falling Satellites by Frost*" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. First Day
 2. Numbers
 3. Towerblock
@@ -49,10 +48,6 @@ styles: ["Prog Rock"]
 26. Latern (3:45)
 27. British Wintertime (6:30)
 28. Untitled [Instrumental] (8:50)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/falling-satellites/1102992919" >}}<br>

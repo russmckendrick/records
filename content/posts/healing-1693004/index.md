@@ -16,10 +16,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Synth-pop"]
 ---
 
-{{< img src="healing-1693004.jpg" title="Healing by Todd Rundgren" >}}
+Healing is Todd Rundgren's ninth studio album, released in 1981. The album's themes are spirituality and the human condition, something Rundgren had touched on many times in earlier works but never with the consistency exhibited here as every track explores a different aspect. The back cover image of the album (artwork by Prairie Prince) shows the caduceus  and a Qabalistic Tree of Life each overlaid by a treble clef (Which is reversed for the Tree of Life), reflecting Rundgren's linking of his spirituality and music.
+The original vinyl release includes a bonus 7" 33rpm single featuring the tracks "Time Heals" and "Tiny Demons" which are unlisted on the album sleeve but are included at the end of the later CD release as tracks 10 and 11.
+"Time Heals" and "Compassion" were both released as singles and a promotional video was made for the former, which was the eighth music video to air on MTV during its launch on August 1, 1981.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Healer (3:40)
 2. Pulse (3:07)
 3. Flesh (3:58)
@@ -29,15 +33,6 @@ styles: ["Art Rock", "Synth-pop"]
 7. Healing Part I (7:28)
 8. Healing Part II (7:52)
 9. Healing Part III (4:40)
-
-<!-- section break -->
-
-Healing is Todd Rundgren's ninth studio album, released in 1981. The album's themes are spirituality and the human condition, something Rundgren had touched on many times in earlier works but never with the consistency exhibited here as every track explores a different aspect. The back cover image of the album (artwork by Prairie Prince) shows the caduceus  and a Qabalistic Tree of Life each overlaid by a treble clef (Which is reversed for the Tree of Life), reflecting Rundgren's linking of his spirituality and music.
-The original vinyl release includes a bonus 7" 33rpm single featuring the tracks "Time Heals" and "Tiny Demons" which are unlisted on the album sleeve but are included at the end of the later CD release as tracks 10 and 11.
-"Time Heals" and "Compassion" were both released as singles and a promotional video was made for the former, which was the eighth music video to air on MTV during its launch on August 1, 1981.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/healing/1084030825" >}}<br>

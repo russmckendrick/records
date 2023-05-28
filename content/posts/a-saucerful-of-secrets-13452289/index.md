@@ -21,20 +21,6 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="a-saucerful-of-secrets-13452289.jpg" title="A Saucerful Of Secrets by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. Let There Be More Light (5:37)
-2. Remember A Day (4:33)
-3. Set The Controls For The Heart Of The Sun (5:28)
-4. Corporal Clegg (4:08)
-5. A Saucerful Of Secrets (11:57)
-6. See-Saw (4:37)
-7. Jugband Blues (3:00)
-
-<!-- section break -->
-
 A Saucerful of Secrets is the second studio album by the English rock band Pink Floyd, released on 28 June 1968 by EMI Columbia in the UK and on 27 July 1968 in the US by Tower Records. During recording, the mental health of singer and guitarist Syd Barrett deteriorated, so David Gilmour was recruited; Barrett left the band before the album's completion.
 Whereas Barrett had been the primary songwriter on Pink Floyd's debut album, The Piper at the Gates of Dawn (1967), on A Saucerful of Secrets each member contributed songwriting and lead vocals. Gilmour appeared on all but two songs, while Barrett contributed to three. "Set the Controls for the Heart of the Sun" is the only song on which all five members appear.
 A Saucerful of Secrets reached number nine in the UK charts, but did not chart in the US until April 2019, peaking at number 158. It received mostly positive reviews, though many critics have deemed it inferior to The Piper at the Gates of Dawn.
@@ -44,6 +30,15 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
         
     
 
+
+## Tracklisting
+1. Let There Be More Light (5:37)
+2. Remember A Day (4:33)
+3. Set The Controls For The Heart Of The Sun (5:28)
+4. Corporal Clegg (4:08)
+5. A Saucerful Of Secrets (11:57)
+6. See-Saw (4:37)
+7. Jugband Blues (3:00)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-saucerful-of-secrets/699872176" >}}<br>

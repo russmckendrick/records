@@ -20,10 +20,12 @@ genres: ["Rock", "Blues"]
 styles: []
 ---
 
-{{< img src="bad-as-me-11147825.jpg" title="Bad As Me by Tom Waits" >}}
+Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Chicago (2:15)
 2. Raised Right Men (3:24)
 3. Talking At The Same Time (4:13)
@@ -37,13 +39,6 @@ styles: []
 11. Last Leaf (2:55)
 12. Hell Broke Luce (3:57)
 13. New Year's Eve (4:31)
-
-<!-- section break -->
-
-Bad as Me is the seventeenth and most recent studio album by American singer-songwriter Tom Waits, released on October 21, 2011 by Anti- Records. The album is known to have been recorded as early as February 2011 and was officially announced for release on August 23, 2011 on Waits' official web site and various social media networks. On the same day, the title track, "Bad as Me", was released as the album's first single on iTunes.The album is Waits' first album consisting completely of new material in seven years since Real Gone (2004). Waits' label, Anti-, had recently agreed on a distribution deal with Warner Music Group allowing them to release the album internationally. This marks Waits' first release through the Warner organization since Heartattack and Vine (1980). Upon its release, Bad as Me received widespread critical acclaim. The album was nominated for a Grammy Award for Best Alternative Music Album.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792" >}}<br>

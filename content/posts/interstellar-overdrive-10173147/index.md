@@ -24,18 +24,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Acid Rock"]
 ---
 
-{{< img src="interstellar-overdrive-10173147.jpg" title="Interstellar Overdrive by Pink Floyd" >}}
-
-<!-- section break -->
-
-1. Interstellar Overdrive (14:57)
-
-<!-- section break -->
-
 "Interstellar Overdrive" is an instrumental composition written and performed by Pink Floyd. The song was written in 1966 and is on their 1967 debut album, The Piper at the Gates of Dawn, clocking in at almost ten minutes in length.The song originated when guitarist Syd Barrett heard the band's manager Peter Jenner humming a song, which Barrett tried to interpret by playing it on his guitar. Sharing the same emphasis on chromaticism with "Astronomy Domine", the piece was recorded in several takes during March and April 1967. An earlier, longer recording of the song can be heard on the soundtrack to the film Tonite Let's All Make Love in London, which was recorded at Sound Technique Studios in early 1967 and was released in the same year. Other versions of the track appear on various bootleg recordings. The piece has been covered by acts such as T. Rex, Pearl Jam, Camper Van Beethoven, Hawkwind, the Melvins, and Simon House.
     
     
 
+
+## Tracklisting
+1. Interstellar Overdrive (14:57)
 
 
 

@@ -21,10 +21,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="live-at-levitation-21926146.jpg" title="Live At Levitation by Primal Scream" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Jailbird
 2. Accelerator
 3. Kill All Hippies
@@ -34,10 +33,6 @@ styles: ["Alternative Rock"]
 7. Country Girl
 8. Loaded
 9. Movin' On Up
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-levitation/1578313533" >}}<br>

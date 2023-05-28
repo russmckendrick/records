@@ -31,10 +31,12 @@ genres: ["Electronic", "Pop"]
 styles: ["Techno", "Trip Hop", "Vocal"]
 ---
 
-{{< img src="rarities-2768249.jpg" title="Rarities by Emiliana Torrini" >}}
+Rarities is a 2000 promo album by Emilíana Torrini.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Dead Things
 2. Wednesday’s Child
 3. Tuna Fish
@@ -63,13 +65,6 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 26. To Be Free (Tore Johansson Radio Edit)
 27. To Be Free (Future Shock To Be Free Vocal Club Mix)
 28. Unemployed In Summertime (Dreemhouse Unemployed Club Mix)
-
-<!-- section break -->
-
-Rarities is a 2000 promo album by Emilíana Torrini.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rarities/1527623910" >}}<br>

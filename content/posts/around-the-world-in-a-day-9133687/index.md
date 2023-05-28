@@ -25,10 +25,15 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Dance-pop", "Funk"]
 ---
 
-{{< img src="around-the-world-in-a-day-9133687.jpg" title="Around The World In A Day by Prince And The Revolution" >}}
+Around the World in a Day is the seventh studio album by American recording artist Prince, and the second release where his backing band The Revolution is billed. It was released on April 22, 1985, by Paisley Park Records and Warner Bros. Records. Departing somewhat from the commercial sound of his previous release, the massively successful Purple Rain (1984), the album instead saw Prince experimenting with psychedelic styles and more opulent textures. In compliance with Prince's wishes, the record company released the album with minimal publicity, withholding accompanying singles until almost a month after the album's release.Around the World in a Day was released to notably mixed reception among crossover audiences after the success of Purple Rain, though it nonetheless sold relatively well and became Prince and the Revolution's second number-one album on the Billboard 200. Two of its four singles reached the top 10 of the Billboard Hot 100: "Raspberry Beret" and "Pop Life". Following Prince's death, "Raspberry Beret" re-charted on the Billboard Hot 100 as a top 40 hit, reaching number 33. Around the World in a Day was certified double platinum by the Recording Industry Association of America (RIAA) on July 2, 1985.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Around The World In  A Day (3:30)
 2. Paisley Park (4:41)
 3. Condition Of The Heart (6:46)
@@ -38,16 +43,6 @@ styles: ["Pop Rock", "Dance-pop", "Funk"]
 7. Pop Life (3:42)
 8. The Ladder (5:28)
 9. Temptation (8:22)
-
-<!-- section break -->
-
-Around the World in a Day is the seventh studio album by American recording artist Prince, and the second release where his backing band The Revolution is billed. It was released on April 22, 1985, by Paisley Park Records and Warner Bros. Records. Departing somewhat from the commercial sound of his previous release, the massively successful Purple Rain (1984), the album instead saw Prince experimenting with psychedelic styles and more opulent textures. In compliance with Prince's wishes, the record company released the album with minimal publicity, withholding accompanying singles until almost a month after the album's release.Around the World in a Day was released to notably mixed reception among crossover audiences after the success of Purple Rain, though it nonetheless sold relatively well and became Prince and the Revolution's second number-one album on the Billboard 200. Two of its four singles reached the top 10 of the Billboard Hot 100: "Raspberry Beret" and "Pop Life". Following Prince's death, "Raspberry Beret" re-charted on the Billboard Hot 100 as a top 40 hit, reaching number 33. Around the World in a Day was certified double platinum by the Recording Industry Association of America (RIAA) on July 2, 1985.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/around-the-world-in-a-day/213034763" >}}<br>

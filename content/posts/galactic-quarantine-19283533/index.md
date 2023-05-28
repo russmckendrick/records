@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ---
 
-{{< img src="galactic-quarantine-19283533.jpg" title="Galactic Quarantine by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Velvet Kevorkian
 2. All Hail The New Flesh
 3. By Your Command
@@ -52,10 +51,6 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 28. Spirits Will Collide (4:35)
 29. Kingdom (5:05)
 30. Detox (6:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devolution-series-2-galactic-quarantine-live/1564004758" >}}<br>

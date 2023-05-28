@@ -23,10 +23,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-{{< img src="tightly-unwound-5189116.jpg" title="Tightly Unwound by The Pineapple Thief" >}}
+Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and their first album released by Kscope. All previous Pineapple Thief releases were published by Cyclops Records. Kscope dedicated a microsite to the album before its release, containing a preview of the album in audio streaming, a picture gallery, desktop wallpapers and audio samples as a source for remixes.
+Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.
+A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. My Debt To You
 2. Shoot First
 3. Sinners
@@ -36,15 +40,6 @@ styles: ["Alternative Rock", "Prog Rock"]
 7. Different World
 8. And So Say All Of You
 9. Too Much To Lose
-
-<!-- section break -->
-
-Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and their first album released by Kscope. All previous Pineapple Thief releases were published by Cyclops Records. Kscope dedicated a microsite to the album before its release, containing a preview of the album in audio streaming, a picture gallery, desktop wallpapers and audio samples as a source for remixes.
-Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.
-A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tightly-unwound/731043162" >}}<br>

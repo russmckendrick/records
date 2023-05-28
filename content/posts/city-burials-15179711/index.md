@@ -28,25 +28,6 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
-{{< img src="city-burials-15179711.jpg" title="City Burials by Katatonia" >}}
-
-<!-- section break -->
-
-1. Heart Set To Divide
-2. Behind The Blood
-3. Lacquer
-4. Rein
-5. The Winter Of Our Passing
-6. Vanishers
-7. City Glaciers
-8. Flicker
-9. Lachesis
-10. Neon Epitaph
-11. Untrodden
-12. Closing Of The Sky
-
-<!-- section break -->
-
 “This band has been going for a very long time,” Katatonia vocalist Jonas Renske tells Apple Music. In fact, Sweden’s reigning kings of melancholy have been at it for nearly 30 years, a timespan that led the Stockholm-based group to go on hiatus after the touring cycle for 2016’s <i>The Fall of Hearts</i>. “We never really had a proper break before,” Renske explains. “We wanted to get some perspective and see if the band is really what we want to do. It turns out we all missed it very much.” In his downtime, Renske wrote the bulk of the music and all of the lyrics for Katatonia’s 11th album, <i>City Burials</i>. “It’s a pretty lonely job to write music,” he says. “The whole creative process can be very tedious—if you’re struggling with something, it takes forever if you’re just by yourself. But of course it’s very rewarding when it’s done.” Below, Renske guides us through the many rewards of <i>City Burials</i>.<br />
 <b>Heart Set to Divide</b>
 “To me, it's a pretty epic track. I think it sort of starts where the previous album left off, because it's very adventurous and there's a lot of things going on—a lot of layers. And it's kind of long, but it still has some kind of heaviness to it. It sets the tone and the standard, pretty much. It’s hard to explain the lyrics, but it’s about changing your mind and doing something that maybe you didn’t expect yourself to do—maybe because there’s something difficult about it.”<br />
@@ -76,6 +57,20 @@ styles: ["Prog Rock", "Progressive Metal"]
         
     
 
+
+## Tracklisting
+1. Heart Set To Divide
+2. Behind The Blood
+3. Lacquer
+4. Rein
+5. The Winter Of Our Passing
+6. Vanishers
+7. City Glaciers
+8. Flicker
+9. Lachesis
+10. Neon Epitaph
+11. Untrodden
+12. Closing Of The Sky
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/city-burials/1494960292" >}}<br>

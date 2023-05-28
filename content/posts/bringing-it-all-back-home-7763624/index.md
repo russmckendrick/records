@@ -21,10 +21,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk"]
 ---
 
-{{< img src="bringing-it-all-back-home-7763624.jpg" title="Bringing It All Back Home by Bob Dylan" >}}
+Bringing It All Back Home (known as Subterranean Homesick Blues in some European countries; sometimes also spelled Bringin' It All Back Home) is the fifth studio album by American singer-songwriter Bob Dylan. It was released in March 1965, by Columbia Records.The first half of the album features electric songs, followed by mainly acoustic songs in the second half. The album abandons the protest music of Dylan's previous records in favor of more surreal, complex lyrics. On side one of the original LP, Dylan is backed by an electric rock and roll band—a move that further alienated him from some of his former peers in the folk music community.The album reached No. 6 on Billboard's Pop Albums chart, the first of Dylan's LPs to break into the US top 10. It also topped the UK charts later that spring. The first track, "Subterranean Homesick Blues", became Dylan's first single to chart in the US, peaking at No. 39. Bringing It All Back Home has been described as one of the greatest albums of all time by multiple publications.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Subterranean Homesick Blues (2:17)
 2. She Belongs To Me (2:48)
 3. Maggie's Farm (3:51)
@@ -36,14 +39,6 @@ styles: ["Folk Rock", "Folk"]
 9. Gates Of Eden (5:42)
 10. It's Alright, Ma (I'm Only Bleeding) (7:30)
 11. It's All Over Now, Baby Blue (4:13)
-
-<!-- section break -->
-
-Bringing It All Back Home (known as Subterranean Homesick Blues in some European countries; sometimes also spelled Bringin' It All Back Home) is the fifth studio album by American singer-songwriter Bob Dylan. It was released in March 1965, by Columbia Records.The first half of the album features electric songs, followed by mainly acoustic songs in the second half. The album abandons the protest music of Dylan's previous records in favor of more surreal, complex lyrics. On side one of the original LP, Dylan is backed by an electric rock and roll band—a move that further alienated him from some of his former peers in the folk music community.The album reached No. 6 on Billboard's Pop Albums chart, the first of Dylan's LPs to break into the US top 10. It also topped the UK charts later that spring. The first track, "Subterranean Homesick Blues", became Dylan's first single to chart in the US, peaking at No. 39. Bringing It All Back Home has been described as one of the greatest albums of all time by multiple publications.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bringing-it-all-back-home/177964575" >}}<br>

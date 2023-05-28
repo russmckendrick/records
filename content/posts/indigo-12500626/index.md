@@ -17,10 +17,9 @@ genres: ["Jazz"]
 styles: []
 ---
 
-{{< img src="indigo-12500626.jpg" title="Indigo by Kandace Springs" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Don't Need The Real Thing (3:26)
 2. Breakdown   (3:19)
 3. Fix Me (4:33)
@@ -34,10 +33,6 @@ styles: []
 11. Love Sucks (3:55)
 12. The First Time Ever I Saw Your Face (5:40)
 13. Simple Things  (3:42)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}<br>

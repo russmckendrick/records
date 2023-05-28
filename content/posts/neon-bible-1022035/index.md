@@ -29,10 +29,16 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="neon-bible-1022035.jpg" title="Neon Bible by Arcade Fire" >}}
+Neon Bible is the second studio album by Canadian indie rock band Arcade Fire. It was first released on March 5, 2007, in Europe and a day later in North America by Merge Records. Originally announced on December 16, 2006, through the band's website, the majority of the album was recorded at a church the band bought and renovated in Farnham, Quebec. The album is the first to feature drummer Jeremy Gara, and the first to include violinist Sarah Neufeld among the band's core line-up.
+Neon Bible became Arcade Fire's highest-charting album at the time, debuting on the Billboard 200 at number two, selling 92,000 copies in its first week and more than 400,000 to date. Being released within a month of similarly successful releases by  The Shins (Wincing the Night Away) and Modest Mouse (We Were Dead Before the Ship Even Sank), Neon Bible was cited as an example of the popularization of indie rock. Critics met the self-produced Neon Bible with acclaim. Publications like NME and IGN praised the album for its grandiose nature, while Rolling Stone and Uncut opined that it resulted in a distant and overblown sound.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Black Mirror (4:13)
 2. Keep The Car Running (3:29)
 3. Neon Bible (2:16)
@@ -44,17 +50,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 9. Windowsill (4:16)
 10. No Cars Go (5:43)
 11. My Body Is A Cage (4:47)
-
-<!-- section break -->
-
-Neon Bible is the second studio album by Canadian indie rock band Arcade Fire. It was first released on March 5, 2007, in Europe and a day later in North America by Merge Records. Originally announced on December 16, 2006, through the band's website, the majority of the album was recorded at a church the band bought and renovated in Farnham, Quebec. The album is the first to feature drummer Jeremy Gara, and the first to include violinist Sarah Neufeld among the band's core line-up.
-Neon Bible became Arcade Fire's highest-charting album at the time, debuting on the Billboard 200 at number two, selling 92,000 copies in its first week and more than 400,000 to date. Being released within a month of similarly successful releases by  The Shins (Wincing the Night Away) and Modest Mouse (We Were Dead Before the Ship Even Sank), Neon Bible was cited as an example of the popularization of indie rock. Critics met the self-produced Neon Bible with acclaim. Publications like NME and IGN praised the album for its grandiose nature, while Rolling Stone and Uncut opined that it resulted in a distant and overblown sound.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/neon-bible/1252615522" >}}<br>

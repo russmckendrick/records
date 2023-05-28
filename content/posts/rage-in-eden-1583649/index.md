@@ -20,10 +20,12 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-{{< img src="rage-in-eden-1583649.jpg" title="Rage In Eden by Ultravox" >}}
+Rage in Eden is the fifth album by the British new wave band Ultravox. It was released in 1981 on Chrysalis. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Voice (5:53)
 2. We Stand Alone (5:30)
 3. Rage In Eden (4:02)
@@ -33,13 +35,6 @@ styles: ["New Wave", "Synth-pop"]
 7. Accent On Youth (4:40)
 8. The Ascent (2:00)
 9. Your Name (Has Slipped My Mind Again) (4:38)
-
-<!-- section break -->
-
-Rage in Eden is the fifth album by the British new wave band Ultravox. It was released in 1981 on Chrysalis. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-definitive-edition/1633071500" >}}<br>

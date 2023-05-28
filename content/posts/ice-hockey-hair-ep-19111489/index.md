@@ -21,18 +21,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-{{< img src="ice-hockey-hair-ep-19111489.jpg" title="Ice Hockey Hair EP by Super Furry Animals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Smokin' (5:05)
 2. Mu-tron (3:14)
 3. Ice Hockey Hair (6:45)
 4. Let's Quit Smoking (2:05)
-
-<!-- section break -->
-
-
 
 
 

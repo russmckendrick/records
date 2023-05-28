@@ -24,10 +24,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock"]
 ---
 
-{{< img src="dear-science-4688708.jpg" title="Dear Science by TV On The Radio" >}}
+Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009. It was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Halfway Home (5:32)
 2. Crying (4:11)
 3. Dancing Choose (2:56)
@@ -39,13 +41,6 @@ styles: ["Leftfield", "Indie Rock"]
 9. Shout Me Out (4:16)
 10. DLZ (3:49)
 11. Lover's Day (5:54)
-
-<!-- section break -->
-
-Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009. It was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dear-science-bonus-track-version/1437099502" >}}<br>

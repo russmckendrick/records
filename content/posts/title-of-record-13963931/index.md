@@ -29,10 +29,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="title-of-record-13963931.jpg" title="Title Of Record by Filter" >}}
+Title of Record is the second studio album by American rock band Filter, released on August 24, 1999, by Reprise Records. The album's earlier sessions were marred with slow progress due to lineup changes and frontman Richard Patrick's decision to construct his own studio for recording. However, progress improved after solidifying the lineup and bringing in further production help. In support of the album's release, Filter performed on the 1999 Family Values Tour.
+Title of Record was a critical and commercial success upon its release, peaking at number 30 on the US Billboard 200. It had sold over 800,000 copies by 2001 and was later certified platinum by the RIAA for shipments of over one million copies. Three singles were released from the album: "Welcome to the Fold", "Take a Picture", and "The Best Things". "Take a Picture" became the band's most successful single, peaking within the top-20 of nine international charts, including the Billboard Hot 100.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Sand (0:37)
 2. Welcome To The Fold (7:40)
 3. Captain Bligh (5:12)
@@ -48,16 +53,6 @@ styles: ["Alternative Rock"]
 13. (Can't You) Trip Like I Do (4:27)
 14. Take A Picture (H & H Remix) (4:13)
 15. The Best Things (Humble Brothers Remix) (6:36)
-
-<!-- section break -->
-
-Title of Record is the second studio album by American rock band Filter, released on August 24, 1999, by Reprise Records. The album's earlier sessions were marred with slow progress due to lineup changes and frontman Richard Patrick's decision to construct his own studio for recording. However, progress improved after solidifying the lineup and bringing in further production help. In support of the album's release, Filter performed on the 1999 Family Values Tour.
-Title of Record was a critical and commercial success upon its release, peaking at number 30 on the US Billboard 200. It had sold over 800,000 copies by 2001 and was later certified platinum by the RIAA for shipments of over one million copies. Three singles were released from the album: "Welcome to the Fold", "Take a Picture", and "The Best Things". "Take a Picture" became the band's most successful single, peaking within the top-20 of nine international charts, including the Billboard Hot 100.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/title-of-record/1576792084" >}}<br>

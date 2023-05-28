@@ -21,10 +21,14 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Glam", "Punk"]
 ---
 
-{{< img src="resident-alien-15815605.jpg" title="Resident Alien by Spacehog" >}}
+Resident Alien is the debut studio album by the English glam rock band Spacehog. Released by Sire Records and Elektra Records on 24 October 1995, the album was certified gold on 29 July 1996 and included the hit single "In the Meantime", which reached the top of the Mainstream Rock Tracks chart in the US, and remained there for four weeks. Most of Resident Alien's basic tracks were recorded live in a barn in Woodstock, New York. It was intended to give the album the immediacy of live room recording.
+Although Jonny Cragg makes his singing debut in "Skylark" on the band's second LP, The Chinese Album, it is his voice that introduces "Space Is the Place" on Resident Alien. The spoken line in the middle of "Never Coming Down (Part II)", "Everybody in the world is bent", comes from the 1969 movie The Italian Job. The movie also features jail inmates clapping out the rhythm used in this song. In a tribute to the film Candyman, the chorus to "Candyman" repeats the titular name four times (also referencing the Sammy Davis Jr. standard, originally appearing in the 1971 film Willy Wonka & the Chocolate Factory).
+"Only a Few" and "In the Meantime" were used in the 1996 film Libor Karas World Tour, The Bouncing Czech. "In the Meantime" was also used as the theme song for David Spade's 1998 one-hour HBO stand-up comedy special David Spade: Take the Hit; was used in the film Fanboys; is a playable song in the video game Guitar Hero 5 as a re-recording, as the original recording featured in Rock Band 3; served as the theme song for the TV show Hindsight; and was featured in the trailer for the film Guardians of the Galaxy Vol. 3. "Never Coming Down (Part II)" was featured in the 1996 movie D3: The Mighty Ducks.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. In The Meantime (4:58)
 2. Spacehog (2:14)
 3. Starside (3:49)
@@ -39,15 +43,6 @@ styles: ["Alternative Rock", "Glam", "Punk"]
 12. Zeroes (6:38)
 13. To Be A Millionaire...Was It Likely? (13:10)
 14. Untitled (8:10)
-
-<!-- section break -->
-
-Resident Alien is the debut studio album by the English glam rock band Spacehog. Released by Sire Records and Elektra Records on 24 October 1995, the album was certified gold on 29 July 1996 and included the hit single "In the Meantime", which reached the top of the Mainstream Rock Tracks chart in the US, and remained there for four weeks. Most of Resident Alien's basic tracks were recorded live in a barn in Woodstock, New York. It was intended to give the album the immediacy of live room recording.
-Although Jonny Cragg makes his singing debut in "Skylark" on the band's second LP, The Chinese Album, it is his voice that introduces "Space Is the Place" on Resident Alien. The spoken line in the middle of "Never Coming Down (Part II)", "Everybody in the world is bent", comes from the 1969 movie The Italian Job. The movie also features jail inmates clapping out the rhythm used in this song. In a tribute to the film Candyman, the chorus to "Candyman" repeats the titular name four times (also referencing the Sammy Davis Jr. standard, originally appearing in the 1971 film Willy Wonka & the Chocolate Factory).
-"Only a Few" and "In the Meantime" were used in the 1996 film Libor Karas World Tour, The Bouncing Czech. "In the Meantime" was also used as the theme song for David Spade's 1998 one-hour HBO stand-up comedy special David Spade: Take the Hit; was used in the film Fanboys; is a playable song in the video game Guitar Hero 5 as a re-recording, as the original recording featured in Rock Band 3; served as the theme song for the TV show Hindsight; and was featured in the trailer for the film Guardians of the Galaxy Vol. 3. "Never Coming Down (Part II)" was featured in the 1996 movie D3: The Mighty Ducks.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/resident-alien/40454930" >}}<br>

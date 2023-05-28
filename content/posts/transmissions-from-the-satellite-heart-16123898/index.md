@@ -18,10 +18,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="transmissions-from-the-satellite-heart-16123898.jpg" title="Transmissions From The Satellite Heart by The Flaming Lips" >}}
+An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <i>Beverly Hills 90210</i> and securing a devoted following with outlandish three-dimensional live performances. <i>Transmissions</i>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Turn It On (4:39)
 2. Pilot Can At The Queer Of God (4:17)
 3. Oh My Pregnant Head (Labia In The Sunlight) (4:06)
@@ -33,14 +36,6 @@ styles: ["Alternative Rock"]
 9. Plastic Jesus (2:19)
 10. When Yer Twenty Two (3:34)
 11. Slow-Nerve-Action (5:56)
-
-<!-- section break -->
-
-An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <i>Beverly Hills 90210</i> and securing a devoted following with outlandish three-dimensional live performances. <i>Transmissions</i>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmissions-from-the-satellite-heart/1231989623" >}}<br>

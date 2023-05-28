@@ -24,10 +24,15 @@ genres: ["Rock"]
 styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ---
 
-{{< img src="the-outer-limits-19332691.jpg" title="The Outer Limits by Voïvod" >}}
+The Outer Limits is the seventh studio album released by Canadian heavy metal band Voivod. It was issued via Mechanic/MCA Records in 1993. The album features a cover of "The Nile Song", originally by the British progressive rock band Pink Floyd, and Voivod's longest song "Jack Luminous", tracking in at 17 minutes and 26 seconds. When originally issued, the CD came with a miniature pair of 3D glasses in order to view the booklet art. The text in the upper right corner of the album cover reads "Number 8" to represent that it is actually the band's eighth album release overall following the compilation The Best of Voivod.
+The Outer Limits was the final album to feature vocalist Denis Bélanger until his 2002 return. It was also Voivod's first album without original bassist Blacky, who had left the band before the release of the critically acclaimed but commercially unsuccessful 1991 album Angel Rat. Uncomfortable with the idea of bringing in an immediate replacement for Blacky, Voivod opted to have session musician Pierre St-Jean play bass guitar for the recording of the album.
+In March 2018, the album, along with Nothingface and Angel Rat, was reissued on CD in Japan as a budget edition.
+In 2021, record label Real Gone Music released the album on limited edition blue vinyl and red vinyl editions.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fix My Heart (4:56)
 2. Moonbeam Rider (4:10)
 3. Le Pont Noir (5:43)
@@ -37,16 +42,6 @@ styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 7. Jack Luminous (17:28)
 8. Wrong-Way Street (3:50)
 9. We Are Not Alone (4:26)
-
-<!-- section break -->
-
-The Outer Limits is the seventh studio album released by Canadian heavy metal band Voivod. It was issued via Mechanic/MCA Records in 1993. The album features a cover of "The Nile Song", originally by the British progressive rock band Pink Floyd, and Voivod's longest song "Jack Luminous", tracking in at 17 minutes and 26 seconds. When originally issued, the CD came with a miniature pair of 3D glasses in order to view the booklet art. The text in the upper right corner of the album cover reads "Number 8" to represent that it is actually the band's eighth album release overall following the compilation The Best of Voivod.
-The Outer Limits was the final album to feature vocalist Denis Bélanger until his 2002 return. It was also Voivod's first album without original bassist Blacky, who had left the band before the release of the critically acclaimed but commercially unsuccessful 1991 album Angel Rat. Uncomfortable with the idea of bringing in an immediate replacement for Blacky, Voivod opted to have session musician Pierre St-Jean play bass guitar for the recording of the album.
-In March 2018, the album, along with Nothingface and Angel Rat, was reissued on CD in Japan as a budget edition.
-In 2021, record label Real Gone Music released the album on limited edition blue vinyl and red vinyl editions.
-    
-    
-
 
 
 ## Spotify

@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
-{{< img src="the-singles-album-2148022.jpg" title="The Singles Album by Jimi Hendrix" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Hey Joe (3:25)
 2. Stone Free (3:34)
 3. Purple Haze (2:45)
@@ -49,10 +48,6 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 21. Manic Depression (3:35)
 22. 3rd. Stone From The Sun (6:38)
 23. Gloria (8:45)
-
-<!-- section break -->
-
-
 
 
 

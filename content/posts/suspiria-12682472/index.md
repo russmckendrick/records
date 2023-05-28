@@ -31,10 +31,13 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Experimental", "Soundtrack"]
 ---
 
-{{< img src="suspiria-12682472.jpg" title="Suspiria by Thom Yorke" >}}
+When director Luca Guadagnino (<i>Call Me By Your Name</i>, <i>A Bigger Splash</i>) first approached Radiohead frontman Thom Yorke about soundtracking his remake of the surrealist horror movie <i>Suspiria</i>, Yorke was reticent: After all, the original’s soundtrack (by Italian prog band Goblin) remains a classic of its kind, and anyway, Yorke had never even <i>written</i> a soundtrack before. But knowing he’d regret saying no, he said yes.<br />
+Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in Berlin in 1977, the year the original <i>Suspiria</i> came out) and the cut-and-paste experiments of musique concrète, the result is probably the most relentlessly unsettled—and unsettling—album Yorke has ever been involved with. Eerie synth miniatures (“Volk”) mix with choral pieces (“Sabbath Incantation,” “The Conjuring of Anke”), and fragments (“A Soft Hand Across Your Face”) with full-fledged songs (“Has Ended,” “Unmade”). When the music does land somewhere comfortable—the twinkling waltz of “Suspirium”—enjoy the moment: It won’t stay that way for long.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. A Storm That Took Everything (1:47)
 2. The Hooks (3:18)
 3. Suspirium (3:22)
@@ -60,14 +63,6 @@ styles: ["Experimental", "Soundtrack"]
 23. An Audition (0:34)
 24. Voiceless Terror (2:30)
 25. The Epilogue (2:47)
-
-<!-- section break -->
-
-When director Luca Guadagnino (<i>Call Me By Your Name</i>, <i>A Bigger Splash</i>) first approached Radiohead frontman Thom Yorke about soundtracking his remake of the surrealist horror movie <i>Suspiria</i>, Yorke was reticent: After all, the original’s soundtrack (by Italian prog band Goblin) remains a classic of its kind, and anyway, Yorke had never even <i>written</i> a soundtrack before. But knowing he’d regret saying no, he said yes.<br />
-Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in Berlin in 1977, the year the original <i>Suspiria</i> came out) and the cut-and-paste experiments of musique concrète, the result is probably the most relentlessly unsettled—and unsettling—album Yorke has ever been involved with. Eerie synth miniatures (“Volk”) mix with choral pieces (“Sabbath Incantation,” “The Conjuring of Anke”), and fragments (“A Soft Hand Across Your Face”) with full-fledged songs (“Has Ended,” “Unmade”). When the music does land somewhere comfortable—the twinkling waltz of “Suspirium”—enjoy the moment: It won’t stay that way for long.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/suspiria-music-for-the-luca-guadagnino-film/1432203897" >}}<br>

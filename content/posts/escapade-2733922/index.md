@@ -21,10 +21,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 ---
 
-{{< img src="escapade-2733922.jpg" title="Escapade by Tim Finn" >}}
+Escapade is the debut studio album by New Zealand musician and founder of Split Enz, Tim Finn. Released in June 1983, the album peaked at number 1 in New Zealand and number 8 in Australia.
+At the 1983 Countdown Australian Music Awards the album won Best Australian Album and "Fraction Too Much Friction" won Best Video.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fraction Too Much Friction (4:14)
 2. Made My Day (3:23)
 3. Not For Nothing (3:25)
@@ -35,14 +38,6 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 8. I Only Want To Know (4:02)
 9. Growing Pains (3:01)
 10. Through The Years (3:48)
-
-<!-- section break -->
-
-Escapade is the debut studio album by New Zealand musician and founder of Split Enz, Tim Finn. Released in June 1983, the album peaked at number 1 in New Zealand and number 8 in Australia.
-At the 1983 Countdown Australian Music Awards the album won Best Australian Album and "Fraction Too Much Friction" won Best Video.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tim-finn-the-escapade-band-live-at-the-venue-st-kilda-1983/1606863181" >}}<br>

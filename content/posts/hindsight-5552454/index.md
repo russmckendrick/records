@@ -19,10 +19,12 @@ genres: ["Rock"]
 styles: ["Acoustic", "Prog Rock"]
 ---
 
-{{< img src="hindsight-5552454.jpg" title="Hindsight by Anathema" >}}
+Hindsight is an acoustically-oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song; "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages: English, Italian and French, from where the song "Fragile Dreams" can be downloaded for free in MP3 format if signing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Fragile Dreams
 2. Leave No Trace
 3. Inner Silence
@@ -34,13 +36,6 @@ styles: ["Acoustic", "Prog Rock"]
 9. Temporary Peace
 10. Flying
 11. Unchained (Tales Of The Unexpected)
-
-<!-- section break -->
-
-Hindsight is an acoustically-oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song; "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages: English, Italian and French, from where the song "Fragile Dreams" can be downloaded for free in MP3 format if signing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hindsight/282920209" >}}<br>

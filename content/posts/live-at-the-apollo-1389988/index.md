@@ -25,10 +25,14 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Soul"]
 ---
 
-{{< img src="live-at-the-apollo-1389988.jpg" title="Live At The Apollo by Daryl Hall & John Oates" >}}
+Live at the Apollo is an album by Daryl Hall & John Oates released in September 1985, recorded live at the Apollo Theater in New York. It is subtitled "With David Ruffin & Eddie Kendricks", of The Temptations-fame.  The album is a mixture of their classics and some then-current songs by Hall & Oates.  A VHS video of this concert with a different running order was released in 1987.
+On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appeared together at Live Aid, two months before this album was released.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Side 1
 2. Apollo Medley
 3. When Something Is Wrong With My Baby (4:50)
@@ -38,15 +42,6 @@ styles: ["Pop Rock", "Soul"]
 7. One On One (5:13)
 8. Possession Obsession (5:33)
 9. Adult Education (6:05)
-
-<!-- section break -->
-
-Live at the Apollo is an album by Daryl Hall & John Oates released in September 1985, recorded live at the Apollo Theater in New York. It is subtitled "With David Ruffin & Eddie Kendricks", of The Temptations-fame.  The album is a mixture of their classics and some then-current songs by Hall & Oates.  A VHS video of this concert with a different running order was released in 1987.
-On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appeared together at Live Aid, two months before this album was released.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-apollo/262058880" >}}<br>

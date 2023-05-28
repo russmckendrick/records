@@ -21,10 +21,9 @@ genres: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
 styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Pop Rap"]
 ---
 
-{{< img src="jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350.jpg" title="Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. "Reboot?" (0:02)
 2. Goodbye Horses (6:26)
 3. "Out Of Order!" (0:06)
@@ -51,10 +50,6 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 24. Drinkin' Blunts (2:30)
 25. "Hung Out …" (0:19)
 26. Stay With Me (4:29)
-
-<!-- section break -->
-
-
 
 
 ## Spotify

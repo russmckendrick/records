@@ -26,33 +26,6 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="the-waterfall-6959105.jpg" title="The Waterfall by My Morning Jacket" >}}
-
-<!-- section break -->
-
-1. Believe (Nobody Knows)
-2. Compound Fracture
-3. Like A River
-4. In Its Infancy (The Waterfall)
-5. Get The Point
-6. Spring (Among The Living)
-7. Thin Line
-8. Big Decisions
-9. Tropics (Erase Traces)
-10. Only Memories Remain
-11. Believe (Nobody Knows)
-12. Compound Fracture
-13. Like A River
-14. In Its Infancy (The Waterfall)
-15. Get The Point
-16. Spring (Among The Living)
-17. Thin Line
-18. Big Decisions
-19. Tropics (Erase Traces)
-20. Only Memories Remain
-
-<!-- section break -->
-
 When My Morning Jacket decamped to Stinson Beach, California, to record the <i>The Waterfall</i> in late 2013, their intention wasn’t to walk away with enough material for a sprawling “White Album kind of thing”, as frontman Jim James describes it now to Apple Music. But after James injured his back moving an amp—an incident that would temporarily halt the sessions and require surgery for a herniated disc—he spent months reflecting as he recovered. So many new songs poured out of him that when the album was eventually completed and ready for release in 2015, the band worried that a triple LP would only overwhelm listeners. “When it got right down to when we were deciding what it was supposed to be, we were just getting a lot of information coming in that made us feel like a lot of the songs would be wasted if we put them all out,” James says. “We didn't want these songs to be lost. So we decided to just chop it in half and put out <i>The Waterfall</i> as it was, and then put out the other half some other time. I mean, life has gone through so many ups and downs since then, there was never a deliberate call as to when we would do it.” Five years later, amidst the upheaval of a global pandemic and social uprising, James felt the time was right to finally share <i>The Waterfall II</i>, a set of psychedelic, collage-like rock that feels clearly linked to its equally introspective first half. “I was so frozen,” James says of the first weeks of the pandemic. “I was kind of looking back across my life and taking stock. I just felt like it would hopefully be a good time to release the record while the world was kind of in a reflective state. I think we still are.” Here, he tells us the story behind every song on the album.<br />
 <b>Spinning My Wheels</b>
 “I go on walks with my phone on shuffle, and it played ‘Spinning My Wheels’. I listened to it and I was like, ‘Whoa, we’ve got this whole other album that, to me, feels very reflective.’ It’s funny because we're working on another new record—a new My Morning Jacket record—but with the pandemic and everything, it'll be a little while before we finish that and get all that stuff done.”<br />
@@ -77,6 +50,28 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
     
     
 
+
+## Tracklisting
+1. Believe (Nobody Knows)
+2. Compound Fracture
+3. Like A River
+4. In Its Infancy (The Waterfall)
+5. Get The Point
+6. Spring (Among The Living)
+7. Thin Line
+8. Big Decisions
+9. Tropics (Erase Traces)
+10. Only Memories Remain
+11. Believe (Nobody Knows)
+12. Compound Fracture
+13. Like A River
+14. In Its Infancy (The Waterfall)
+15. Get The Point
+16. Spring (Among The Living)
+17. Thin Line
+18. Big Decisions
+19. Tropics (Erase Traces)
+20. Only Memories Remain
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-waterfall-ii/1516505813" >}}<br>

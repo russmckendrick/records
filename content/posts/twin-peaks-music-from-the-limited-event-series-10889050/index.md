@@ -28,10 +28,9 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "Soul", "Soundtrack", "Dream Pop"]
 ---
 
-{{< img src="twin-peaks-music-from-the-limited-event-series-10889050.jpg" title="Twin Peaks (Music From The Limited Event Series) by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Twin Peaks Main Theme (Edit)
 2. Shadow
 3. Mississippi
@@ -52,10 +51,6 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 18. Out Of Sand
 19. I've Been Loving You Too Long (Live From Monterey Pop)
 20. The World Spins
-
-<!-- section break -->
-
-
 
 
 

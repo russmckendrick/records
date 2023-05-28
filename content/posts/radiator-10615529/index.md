@@ -28,10 +28,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ---
 
-{{< img src="radiator-10615529.jpg" title="Radiator by Super Furry Animals" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Furryvision™ (1:25)
 2. The Placid Casual (2:49)
 3. The International Language Of Screaming (2:14)
@@ -46,10 +45,6 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 12. Down A Different River (5:37)
 13. Download (3:19)
 14. Mountain People (6:14)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radiator/1651927761" >}}<br>

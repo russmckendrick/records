@@ -19,10 +19,9 @@ genres: ["Stage & Screen"]
 styles: []
 ---
 
-{{< img src="ghostbusters-original-soundtrack-album-7318608.jpg" title="Ghostbusters - Original Soundtrack Album by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ghostbusters
 2. Cleanin' Up The Town
 3. Savin' The Day
@@ -33,10 +32,6 @@ styles: []
 8. Main Title Theme (Ghostbusters)
 9. Dana's Theme
 10. Ghostbusters (Instrumental Version)
-
-<!-- section break -->
-
-
 
 
 

@@ -22,10 +22,17 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-{{< img src="nashville-skyline-7680434.jpg" title="Nashville Skyline by Bob Dylan" >}}
+Nashville Skyline is the ninth studio album by American singer-songwriter Bob Dylan, released on April 9, 1969, by Columbia Records as LP record, reel to reel tape and audio cassette.
+Building on the rustic style he experimented with on John Wesley Harding, Nashville Skyline displayed a complete immersion into country music. Along with the more basic lyrical themes, simple songwriting structures, and charming domestic feel, it introduced audiences to a radically new singing voice from Dylan, who had temporarily quit smoking—a soft, affected country croon.
+The result received a generally positive reaction from critics, and was a commercial success. Reaching No. 3 in the U.S., the album also scored Dylan his fourth UK No. 1 album.
 
-<!-- section break -->
 
+        
+        
+    
+
+
+## Tracklisting
 1. Girl From The North Country
 2. Nashville Skyline Rag
 3. To Be Alone With You
@@ -36,18 +43,6 @@ styles: ["Folk Rock", "Country Rock"]
 8. Tell Me That It Isn't True
 9. Country Pie
 10. Tonight I'll Be Staying Here With You
-
-<!-- section break -->
-
-Nashville Skyline is the ninth studio album by American singer-songwriter Bob Dylan, released on April 9, 1969, by Columbia Records as LP record, reel to reel tape and audio cassette.
-Building on the rustic style he experimented with on John Wesley Harding, Nashville Skyline displayed a complete immersion into country music. Along with the more basic lyrical themes, simple songwriting structures, and charming domestic feel, it introduced audiences to a radically new singing voice from Dylan, who had temporarily quit smoking—a soft, affected country croon.
-The result received a generally positive reaction from critics, and was a commercial success. Reaching No. 3 in the U.S., the album also scored Dylan his fourth UK No. 1 album.
-
-
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nashville-skyline/177980677" >}}<br>

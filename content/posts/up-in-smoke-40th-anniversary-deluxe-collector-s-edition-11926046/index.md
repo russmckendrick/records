@@ -38,10 +38,9 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Soundtrack", "Comedy", "Dialogue"]
 ---
 
-{{< img src="up-in-smoke-40th-anniversary-deluxe-collector-s-edition-11926046.jpg" title="Up In Smoke (40th Anniversary Deluxe Collector's Edition) by Cheech & Chong" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Finkelstien Shit Kid (0:14)
 2. Up In Smoke (2:24)
 3. Low Rider (3:13)
@@ -84,10 +83,6 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 40. Bonus Content
 41. Roach Clips (Deleted Scenes) With Optional Commentary
 42. Vintage Radio Spots
-
-<!-- section break -->
-
-
 
 
 

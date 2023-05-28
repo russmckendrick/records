@@ -31,10 +31,12 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Electro", "Trance"]
 ---
 
-{{< img src="electronica-1-the-time-machine-7593742.jpg" title="Electronica 1: The Time Machine by Jean-Michel Jarre" >}}
+On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory,” with M83, is all airy, modern electronic pop, and "Zero Gravity,” Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes, and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador.”
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Time Machine (3:54)
 2. Glory (4:12)
 3. Close Your Eyes (6:15)
@@ -51,13 +53,6 @@ styles: ["Synth-pop", "Electro", "Trance"]
 14. Watching You (4:09)
 15. A Question Of Blood (2:58)
 16. The Train & The River (7:13)
-
-<!-- section break -->
-
-On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory,” with M83, is all airy, modern electronic pop, and "Zero Gravity,” Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes, and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador.”
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}<br>

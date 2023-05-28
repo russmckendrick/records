@@ -20,10 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="doing-it-for-the-kids-547494.jpg" title="Doing It For The Kids by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Cut Me Deep (3:28)
 2. Ballad Of The Band (2:53)
 3. Christine (3:26)
@@ -39,10 +38,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. A Complete History Of Sexual Jealousy (Parts 17-24) (5:31)
 14. Reflect On Rye (2:12)
 15. Brighter Now (2:39)
-
-<!-- section break -->
-
-
 
 
 

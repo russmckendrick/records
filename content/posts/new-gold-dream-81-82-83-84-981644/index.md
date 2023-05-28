@@ -22,10 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ---
 
-{{< img src="new-gold-dream-81-82-83-84-981644.jpg" title="New Gold Dream (81-82-83-84) by Simple Minds" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Someone Somewhere In Summertime (4:34)
 2. Colours Fly And Catherine Wheel (3:49)
 3. Promised You A Miracle (4:25)
@@ -35,10 +34,6 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 7. Glittering Prize (4:33)
 8. Hunter And The Hunted (5:54)
 9. King Is White And In The Crowd (6:59)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-gold-dream-81-82-83-84-remastered/1443123330" >}}<br>

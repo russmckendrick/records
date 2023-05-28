@@ -22,10 +22,9 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-{{< img src="don-t-prey-for-me-2591341.jpg" title="Don't Prey For Me by Little Angels" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Do You Wanna Riot
 2. Kick Hard
 3. Big Bad World
@@ -38,10 +37,6 @@ styles: ["Hard Rock"]
 10. When I Get Out Of Here
 11. No Solution
 12. She's A Little Angel
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-prey-for-me/1442397355" >}}<br>

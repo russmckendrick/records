@@ -30,10 +30,9 @@ genres: ["Reggae", "Stage & Screen"]
 styles: ["Ska", "Soundtrack"]
 ---
 
-{{< img src="dance-craze-the-best-of-british-ska-live-26536709.jpg" title="Dance Craze - The Best of British Ska...LIVE! by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Film Soundtrack
 2. Nite Klub
 3. The Prince
@@ -78,10 +77,6 @@ styles: ["Ska", "Soundtrack"]
 42. Night Boat To Cairo
 43. Too Much Pressure
 44. Nite Klub
-
-<!-- section break -->
-
-
 
 
 

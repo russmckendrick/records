@@ -22,10 +22,15 @@ genres: ["Rock"]
 styles: ["Experimental", "Art Rock", "Math Rock"]
 ---
 
-{{< img src="cavalcade-18869488.jpg" title="Cavalcade by Black Midi" >}}
+Cavalcade is the second studio album by English rock band Black Midi. It was released on 28 May 2021, through Rough Trade Records. The album was primarily recorded in the summer of 2020 with producer John "Spud" Murphy, with the exception of the song "John L", which was recorded beforehand with Marta Salogni.
+For Cavalcade, the band had a more premeditated approach to the writing and recording, as opposed to the improvisational approach taken for their debut studio album, Schlagenheim (2019). The opening track "John L" was released as a single in promotion of the album, followed by a louder mix of the fourth track "Slow", and finally "Chondromalacia Patella" before its release. The album received widespread acclaim, with critics complimenting the band's stylistic progression and composition.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Introduction (1:31)
 2. John L (5:13)
 3. Marlene Dietrich (2:54)
@@ -35,16 +40,6 @@ styles: ["Experimental", "Art Rock", "Math Rock"]
 7. Dethroned (5:04)
 8. Hogwash And Balderdash (2:33)
 9. Ascending Forth (9:48)
-
-<!-- section break -->
-
-Cavalcade is the second studio album by English rock band Black Midi. It was released on 28 May 2021, through Rough Trade Records. The album was primarily recorded in the summer of 2020 with producer John "Spud" Murphy, with the exception of the song "John L", which was recorded beforehand with Marta Salogni.
-For Cavalcade, the band had a more premeditated approach to the writing and recording, as opposed to the improvisational approach taken for their debut studio album, Schlagenheim (2019). The opening track "John L" was released as a single in promotion of the album, followed by a louder mix of the fourth track "Slow", and finally "Chondromalacia Patella" before its release. The album received widespread acclaim, with critics complimenting the band's stylistic progression and composition.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cavalcade/1556010645" >}}<br>

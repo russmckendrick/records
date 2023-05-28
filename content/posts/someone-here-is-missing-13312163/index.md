@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-{{< img src="someone-here-is-missing-13312163.jpg" title="Someone Here Is Missing by The Pineapple Thief" >}}
+Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Nothing At Best (4:08)
 2. Wake Up The Dead (4:23)
 3. The State We're In (3:18)
@@ -35,13 +37,6 @@ styles: ["Alternative Rock"]
 7. Someone Here Is Missing (3:52)
 8. 3000 Days (6:09)
 9. So We Row (8:16)
-
-<!-- section break -->
-
-Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/someone-here-is-missing/369027963" >}}<br>

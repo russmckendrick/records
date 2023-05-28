@@ -21,10 +21,14 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-{{< img src="bring-it-on-11890384.jpg" title="Bring It On by Gomez" >}}
+Bring It On is the debut album by English indie rock band Gomez, released on 13 April 1998 by Hut Records. Recording sessions for the album began in late 1997, during which time Gomez also toured the United Kingdom with Embrace. The first single, "78 Stone Wobble", was released in March 1998, while "Get Myself Arrested" and "Whippin' Piccadilly" were later released as singles.
+Bring It On experienced a boost in popularity when it won the 1998 Mercury Music Prize, beating favourites such as Massive Attack's Mezzanine and The Verve's Urban Hymns. Gomez later toured the United States as the support artist for Eagle-Eye Cherry.
+A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of September 2020, the album has sold 502,000 copies in the UK."Bring It On" is also the name of a song on Gomez's following album, Liquid Skin.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Get Miles (5:15)
 2. Whippin' Piccadilly (3:12)
 3. Make No Sound (3:26)
@@ -37,15 +41,6 @@ styles: ["Indie Rock"]
 10. Bubble Gum Years (3:20)
 11. Rie's Wagon (9:07)
 12. The Comeback (0:44)
-
-<!-- section break -->
-
-Bring It On is the debut album by English indie rock band Gomez, released on 13 April 1998 by Hut Records. Recording sessions for the album began in late 1997, during which time Gomez also toured the United Kingdom with Embrace. The first single, "78 Stone Wobble", was released in March 1998, while "Get Myself Arrested" and "Whippin' Piccadilly" were later released as singles.
-Bring It On experienced a boost in popularity when it won the 1998 Mercury Music Prize, beating favourites such as Massive Attack's Mezzanine and The Verve's Urban Hymns. Gomez later toured the United States as the support artist for Eagle-Eye Cherry.
-A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of September 2020, the album has sold 502,000 copies in the UK."Bring It On" is also the name of a song on Gomez's following album, Liquid Skin.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bring-it-on-20th-anniversary-deluxe/1383478428" >}}<br>

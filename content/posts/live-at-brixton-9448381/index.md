@@ -32,10 +32,9 @@ genres: ["Electronic"]
 styles: ["Ambient"]
 ---
 
-{{< img src="live-at-brixton-9448381.jpg" title="Live At Brixton  by Public Service Broadcasting" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. The Race For Space
 2. Sputnik
 3. Signal 30
@@ -70,10 +69,6 @@ styles: ["Ambient"]
 32. Tomorrow
 33. Gagarin
 34. Everest
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-brixton-deluxe/1181005050" >}}<br>

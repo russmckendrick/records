@@ -22,10 +22,14 @@ genres: ["Electronic"]
 styles: ["Leftfield", "Dub", "Synth-pop"]
 ---
 
-{{< img src="heroes-to-zeros-12928115.jpg" title="Heroes To Zeros by The Beta Band" >}}
+Heroes to Zeros is the third and final studio album by The Beta Band, released in 2004.  It was produced by The Beta Band and mixed by Nigel Godrich.
+The cover illustration was created by comic book writer and artist Kaare Andrews. The Beta Band logo for the album was created by comic book artist Dave McCaig, later to be reused on The Best of the Beta Band.
+The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the Banshees.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Assessment
 2. Space
 3. Lion Thief
@@ -38,15 +42,6 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 10. Liquid Bird
 11. Simple
 12. Pure For
-
-<!-- section break -->
-
-Heroes to Zeros is the third and final studio album by The Beta Band, released in 2004.  It was produced by The Beta Band and mixed by Nigel Godrich.
-The cover illustration was created by comic book writer and artist Kaare Andrews. The Beta Band logo for the album was created by comic book artist Dave McCaig, later to be reused on The Best of the Beta Band.
-The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the Banshees.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heroes-to-zeros/1339220142" >}}<br>

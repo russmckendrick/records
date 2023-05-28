@@ -18,10 +18,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
 
-{{< img src="electronic-14694007.jpg" title="Electronic by Electronic" >}}
+Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
+The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Idiot Country (5:03)
 2. Reality (5:39)
 3. Tighten Up (4:38)
@@ -33,14 +36,6 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 9. Try All You Want (5:37)
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
-
-<!-- section break -->
-
-Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
-The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gang-signs-prayer/1673768631" >}}<br>

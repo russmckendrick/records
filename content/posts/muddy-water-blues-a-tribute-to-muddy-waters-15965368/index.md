@@ -25,10 +25,9 @@ genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
-{{< img src="muddy-water-blues-a-tribute-to-muddy-waters-15965368.jpg" title="Muddy Water Blues - A Tribute to Muddy Waters by Paul Rodgers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Muddy Water Blues (Acoustic Version) (4:50)
 2. Louisiana Blues (4:02)
 3. I Can't Be Satisfied (4:12)
@@ -44,10 +43,6 @@ styles: ["Blues Rock"]
 13. Born Under a Bad Sign (4:45)
 14. Good Morning Little School Girl (Part 2) (3:03)
 15. Muddy Water Blues (Electric Version) (4:47)
-
-<!-- section break -->
-
-
 
 
 

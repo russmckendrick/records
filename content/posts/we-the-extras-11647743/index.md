@@ -17,18 +17,13 @@ genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
-{{< img src="we-the-extras-11647743.jpg" title="We The Extras by The Levellers" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Fifteen Years
 2. Outside Inside
 3. All The Unknown
 4. Said And Done
-
-<!-- section break -->
-
-
 
 
 

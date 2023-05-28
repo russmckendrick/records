@@ -43,10 +43,9 @@ genres: ["Jazz", "Blues"]
 styles: ["Hard Bop", "Modal", "Post Bop"]
 ---
 
-{{< img src="the-atlantic-years-in-mono-8630183.jpg" title="The Atlantic Years – In Mono by John Coltrane" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Giant Steps
 2. Giant Steps  (4:43)
 3. Cousin Mary (5:45)
@@ -88,10 +87,6 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 39. My Favorite Things Part I & II
 40. My Favorite Things (Part I)
 41. My Favorite Things (Part II)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono/1114657651" >}}<br>

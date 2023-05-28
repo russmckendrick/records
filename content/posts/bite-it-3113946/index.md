@@ -21,10 +21,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-{{< img src="bite-it-3113946.jpg" title="Bite It by Whiteout" >}}
+Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see 1995 in music). The album includes two of the overall four previously released singles by the band, namely "No Time" and "Jackie's Racing". Another single, "Detroit", was not part of the original album but added as a bonus track to certain subsequent releases of Bite It, making "Starrclub" the only Whiteout single not released on a proper album (although it was re-released on the Japanese EP No Time). The album was available on both CD and vinyl.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Thirty Eight (4:04)
 2. No Time (3:53)
 3. We Should Stick Together (3:16)
@@ -37,13 +39,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 10. You Left Me Seeing Stars (5:09)
 11. Everyday (4:26)
 12. Untitled (5:44)
-
-<!-- section break -->
-
-Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see 1995 in music). The album includes two of the overall four previously released singles by the band, namely "No Time" and "Jackie's Racing". Another single, "Detroit", was not part of the original album but added as a bonus track to certain subsequent releases of Bite It, making "Starrclub" the only Whiteout single not released on a proper album (although it was re-released on the Japanese EP No Time). The album was available on both CD and vinyl.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bite-it/1635562008" >}}<br>

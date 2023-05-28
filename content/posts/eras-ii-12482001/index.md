@@ -16,10 +16,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphonic Rock"]
 ---
 
-{{< img src="eras-ii-12482001.jpg" title="Eras II by Devin Townsend" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Ocean Machine
 2. Seventh Wave
 3. Life
@@ -84,10 +83,6 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 62. Sunset
 63. Notes From Africa
 64. Sunshine And Happiness
-
-<!-- section break -->
-
-
 
 
 

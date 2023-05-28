@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
 
-{{< img src="don-t-know-how-to-party-13667166.jpg" title="Don't Know How To Party by The Mighty Mighty Bosstones" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Our Only Weapon (3:02)
 2. Last Dead Mouse (3:38)
 3. Don't Know How To Party (3:11)
@@ -39,10 +38,6 @@ styles: ["Ska", "Punk"]
 10. Issachar (3:45)
 11. What Was Was Over (2:58)
 12. Seven Thirty Seven / Shoe Glue (4:30)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}<br>

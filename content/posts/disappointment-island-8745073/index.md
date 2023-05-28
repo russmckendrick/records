@@ -18,10 +18,9 @@ genres: ["Rock"]
 styles: ["Emo", "Indie Rock"]
 ---
 
-{{< img src="disappointment-island-8745073.jpg" title="Disappointment Island by This Town Needs Guns" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Coconut Crab
 2. A Chase Of Sorts
 3. Consoling Ghosts
@@ -32,10 +31,6 @@ styles: ["Emo", "Indie Rock"]
 8. Destroy The Tabernacle!
 9. Sponkulus Nodge
 10. Empty Palms
-
-<!-- section break -->
-
-
 
 
 

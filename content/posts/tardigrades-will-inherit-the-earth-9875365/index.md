@@ -31,10 +31,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-{{< img src="tardigrades-will-inherit-the-earth-9875365.jpg" title="Tardigrades Will Inherit The Earth by The Mute Gods" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Saltatio Mortis (1:57)
 2. Animal Army (5:00)
 3. We Can't Carry On (5:11)
@@ -60,10 +59,6 @@ styles: ["Prog Rock"]
 23. Hallelujah (5:50)
 24. The Andromeda Strain (2:56)
 25. Stranger Than Fiction (9:21)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tardigrades-will-inherit-the-earth/1187309663" >}}<br>

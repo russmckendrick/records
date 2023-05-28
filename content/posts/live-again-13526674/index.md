@@ -16,10 +16,9 @@ genres: ["Stage & Screen"]
 styles: ["Comedy"]
 ---
 
-{{< img src="live-again-13526674.jpg" title="Live Again! by The League Of Gentlemen" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Opening Announcement 
 2. Perveswerve
 3. Go Johnny Go, Go, Go, Go!
@@ -44,10 +43,6 @@ styles: ["Comedy"]
 22. Benjamin's Flashback 
 23. Dear Bernice...
 24. Local Shop/Wife Mine
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-again/1457934944" >}}<br>

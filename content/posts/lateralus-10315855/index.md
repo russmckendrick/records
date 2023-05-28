@@ -28,10 +28,14 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Experimental"]
 ---
 
-{{< img src="lateralus-10315855.jpg" title="Lateralus by Tool" >}}
+Lateralus () is the third studio album by American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's two previous releases Ænima and Salival, produced the album along with the band, and became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.
+The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200 copies in its first week of release. It was certified double platinum by the RIAA on August 5, 2003. On February 13, 2015, the album was certified Gold by the BPI. It was also certified platinum in Australia, and double platinum in Canada. The band won the Grammy Award for Best Metal Performance for the song "Schism" in 2002. Lateralus was ranked No. 123 on the Rock and Roll Hall of Fame's "Definitive 200" list. This was also the only album of Tool's catalogue which did not featured the Parental Advisory sticker.
+        
+        
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Grudge (8:36)
 2. Eon Blue Apocalypse (1:04)
 3. The Patient (7:13)
@@ -45,15 +49,6 @@ styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Expe
 11. Reflection (11:07)
 12. Triad (8:46)
 13. Faaip De Oiad (2:39)
-
-<!-- section break -->
-
-Lateralus () is the third studio album by American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's two previous releases Ænima and Salival, produced the album along with the band, and became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.
-The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200 copies in its first week of release. It was certified double platinum by the RIAA on August 5, 2003. On February 13, 2015, the album was certified Gold by the BPI. It was also certified platinum in Australia, and double platinum in Canada. The band won the Grammy Award for Best Metal Performance for the song "Schism" in 2002. Lateralus was ranked No. 123 on the Rock and Roll Hall of Fame's "Definitive 200" list. This was also the only album of Tool's catalogue which did not featured the Parental Advisory sticker.
-        
-        
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lateralus/1474185412" >}}<br>

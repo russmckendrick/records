@@ -22,10 +22,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-{{< img src="the-best-of-the-johnny-cash-tv-show-1969-1971-8395514.jpg" title="The Best Of The Johnny Cash TV Show: 1969-1971 by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. I Walk The Line (The Johnny Cash Show Open) (2:53)
 2. Flesh And Blood (3:02)
 3. Stand By Your Man (2:48)
@@ -42,10 +41,6 @@ styles: ["Country"]
 14. Fire And Rain (3:48)
 15. Daddy Sang Bass (2:24)
 16. Closing Monologue/I Walk The Line (Reprise) (2:13)
-
-<!-- section break -->
-
-
 
 
 

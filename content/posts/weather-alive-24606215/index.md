@@ -25,10 +25,14 @@ genres: ["Rock"]
 styles: ["Ethereal"]
 ---
 
-{{< img src="weather-alive-24606215.jpg" title="Weather Alive by Beth Orton" >}}
+Weather Alive is the eighth studio album by English singer-songwriter Beth Orton. The album was released on 23 September 2022 by Partisan Records.
 
-<!-- section break -->
 
+    
+    
+
+
+## Tracklisting
 1. Weather Alive
 2. Friday Night
 3. Fractals
@@ -37,15 +41,6 @@ styles: ["Ethereal"]
 6. Lonely
 7. Arms Around A Memory
 8. Unwritten
-
-<!-- section break -->
-
-Weather Alive is the eighth studio album by English singer-songwriter Beth Orton. The album was released on 23 September 2022 by Partisan Records.
-
-
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weather-alive/1624041691" >}}<br>

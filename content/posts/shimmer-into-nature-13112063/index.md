@@ -24,19 +24,14 @@ genres: ["Electronic", "Rock"]
 styles: ["Space Rock"]
 ---
 
-{{< img src="shimmer-into-nature-13112063.jpg" title="Shimmer Into Nature by Ed Wynne" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Glass Staircase  (7:55)
 2. Travel Dust (9:15)
 3. Oddplonk (8:00)
 4. Shim (7:44)
 5. Wherble (10:20)
-
-<!-- section break -->
-
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shimmer-into-nature/1423203880" >}}<br>

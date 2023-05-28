@@ -16,10 +16,9 @@ genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-{{< img src="the-rick-and-morty-soundtrack-12575433.jpg" title="The Rick And Morty Soundtrack by Various" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1. Rick And Morty Theme
 2. Jerry's Rick
 3. The Small Intestine Song
@@ -46,10 +45,6 @@ styles: ["Soundtrack"]
 24. Tales From The Citadel
 25. Rick And Morty Score Medley
 26. Human Music
-
-<!-- section break -->
-
-
 
 
 

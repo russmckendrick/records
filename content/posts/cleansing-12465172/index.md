@@ -20,10 +20,12 @@ genres: ["Rock"]
 styles: ["Groove Metal", "Industrial Metal"]
 ---
 
-{{< img src="cleansing-12465172.jpg" title="Cleansing by Prong" >}}
+Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994 by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.The record was reissued by SPV/Steamhammer in 2008.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. Another Worldly Device
 2. Whose Fist Is This Anyway?
 3. Snap Your Fingers, Snap Your Neck
@@ -36,13 +38,6 @@ styles: ["Groove Metal", "Industrial Metal"]
 10. Home Rule
 11. Sublime
 12. Test
-
-<!-- section break -->
-
-Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994 by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.The record was reissued by SPV/Steamhammer in 2008.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cleansing/158332411" >}}<br>

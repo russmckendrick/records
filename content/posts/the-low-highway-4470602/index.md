@@ -21,10 +21,12 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-{{< img src="the-low-highway-4470602.jpg" title="The Low Highway by Steve Earle & The Dukes (And Duchesses)" >}}
+The Low Highway is the 15th studio album by singer-songwriter Steve Earle, released in 2013. The album features two songs co-written by Earle and Lucia Micarelli: "Love's Gonna Blow My Way", "After Mardi Gras". Two songs from the album, "After Mardi Gras" and "That All You Got?", are featured in the HBO TV Series Treme.The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, selling 11,000 copies in the first week. It has sold 42,000 copies in the US as of February 2015.
+    
+    
 
-<!-- section break -->
 
+## Tracklisting
 1. The Low Highway (4:01)
 2. Calico County (3:01)
 3. Burnin' It Down (2:57)
@@ -37,13 +39,6 @@ styles: []
 10. Down The Road Part II (2:36)
 11. 21st Century Blues (3:38)
 12. Remember Me (4:35)
-
-<!-- section break -->
-
-The Low Highway is the 15th studio album by singer-songwriter Steve Earle, released in 2013. The album features two songs co-written by Earle and Lucia Micarelli: "Love's Gonna Blow My Way", "After Mardi Gras". Two songs from the album, "After Mardi Gras" and "That All You Got?", are featured in the HBO TV Series Treme.The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, selling 11,000 copies in the first week. It has sold 42,000 copies in the US as of February 2015.
-    
-    
-
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-low-highway-deluxe-edition/1436912489" >}}<br>

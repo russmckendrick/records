@@ -26,10 +26,9 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
-{{< img src="the-a-m-albums-22286113.jpg" title="The A&M Albums by Dodgy" >}}
 
-<!-- section break -->
 
+## Tracklisting
 1.  Water Under The Bridge (3:44)
 2. I Need Another (3:49)
 3. Lovebirds (3:56)
@@ -67,10 +66,6 @@ styles: ["Indie Pop"]
 35. U.K.R.I.P. (5:08)
 36. Homegrown (5:52)
 37. Is It Me
-
-<!-- section break -->
-
-
 
 
 
