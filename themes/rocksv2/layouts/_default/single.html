@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div
-    class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8 bg-center bg-cover bg-no-repeat bg-[url('{{ .Page.Params.cover.image }}')] bg-blend-multiply">
+    class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
     <div
         class="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl"
         aria-hidden="true">
@@ -47,7 +47,7 @@
             {{- end }}
             {{- range .Params.genres }}
             <div class="flex items-center p-1">
-                <a href="/tags/{{ . | urlize }}" class="no-underline">
+                <a href="/genres/{{ . | urlize }}" class="no-underline">
                     <div class="flex">
                         <span
                             class="bg-gray-800 dark:bg-gray-600 text-white text-xs px-1 py-0.5 rounded-l-md">Genre</span>
@@ -59,9 +59,9 @@
             </div>
             {{- end }}
             {{- range .Params.styles }}
-            <a href="/tags/{{ . | urlize }}">
+            <a href="/styles/{{ . | urlize }}">
                 <div class="flex items-center p-1">
-                    <a href="/tags/{{ . | urlize }}" class="no-underline">
+                    <a href="/styles/{{ . | urlize }}" class="no-underline">
                         <div class="flex">
                             <span
                                 class="bg-gray-800 dark:bg-gray-600 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>

@@ -1,11 +1,29 @@
 {{ define "main" }}
 {{ if eq .Paginator.PageNumber 1 }}
-<section class="bg-center bg-no-repeat bg-[url('https://www.mckendrick.rocks/images/banner.jpg')] bg-gray-700 dark:bg-gray-900 bg-blend-multiply">
-    <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-44 content-center">
-        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">{{ .Site.Params.homeHeader }}</h1>
-        <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">{{ .Site.Params.homeSubheader }}</p>
+<div
+    class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
+    <div
+        class="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl"
+        aria-hidden="true">
+        <div
+            class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
     </div>
-</section>
+    <div
+        class="absolute -top-52 left-1/2 -z-10 -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0 sm:transform-gpu"
+        aria-hidden="true">
+        <div
+            class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+    <div class="mx-auto max-w-2xl text-center">
+        <h1
+            class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">{{
+            .Site.Params.homeHeader }}</h1>
+        <p class="mb-8 font-normal text-gray-300 lg:text-lg">{{
+            .Site.Params.homeSubheader }}</p>
+    </div>
+</div>
 {{ end }}
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
 <div class="container my-24 px-6 mx-auto dark:bg-gray-800">
@@ -15,7 +33,8 @@
             {{ $dateTime := .PublishDate.Format "2006-01-02" }}
             {{ $dateFormat := .Site.Params.dateFormat | default
             "2 January, 2006" }}
-            <div class="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-gray-700">
+            <div
+                class="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-gray-700">
                 <a href="{{ .Permalink }}">
                     <img class="rounded-t-lg"
                         src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}"
@@ -27,32 +46,37 @@
                         {{ .Page.Params.album_name }} by {{ .Page.Params.Artist
                         }}
                     </h1>
-                    <p class="mb-2 leading-tight text-neutral-800 dark:text-neutral-50">
+                    <p
+                        class="mb-2 leading-tight text-neutral-800 dark:text-neutral-50">
                         <small>Added on <u> {{ .PublishDate.Format $dateFormat
                                 }}</u></small>
                     </p>
-                        <div class="flex flex-wrap">
+                    <div class="flex flex-wrap">
                         {{- range .Params.genres }}
-                        <div class="flex items-center p-1">
-                            <a href="/tags/{{ . | urlize }}">
+                        <a href="/genres/{{ . | urlize }}">
+                            <div class="flex items-center p-1">
                                 <div class="flex">
-                                    <span class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Genre</span>
-                                    <span class="bg-blue-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{ . }}</span>
+                                    <span
+                                        class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>
+                                    <span
+                                        class="bg-blue-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{
+                                        . }}</span>
                                 </div>
                             </a>
                         </div>
                         {{- end }}
                         {{- range .Params.styles }}
-                        <a href="/tags/{{ . | urlize }}">
+                        <a href="/styles/{{ . | urlize }}">
                             <div class="flex items-center p-1">
-                                <a href="/tags/{{ . | urlize }}">
-                                    <div class="flex">
-                                        <span class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>
-                                        <span class="bg-green-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{ . }}</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </a>
+                                <div class="flex">
+                                    <span
+                                        class="bg-gray-800 text-white text-xs px-1 py-0.5 rounded-l-md">Style</span>
+                                    <span
+                                        class="bg-green-500 text-white text-xs px-1 py-0.5 rounded-r-md">{{
+                                        . }}</span>
+                                </div>
+                            </a>
+                        </div>
                         {{- end }}
                     </div>
                 </div>
