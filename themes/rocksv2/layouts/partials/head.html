@@ -1,9 +1,38 @@
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ $title := print .Site.Title " | " .Title }}
-    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    <title>{{ $title }}</title>
+    {{ $paginator := .Paginate (where .Site.RegularPages ".Params.post" "!="
+    false) }}
+    {{ if .IsHome }}
+    {{ if eq $paginator.PageNumber 1 }}
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    {{ else }}
+    <title>{{ .Title }} | Page {{ $paginator.PageNumber }}</title>
+    <meta name="description"
+        content="This is page {{ $paginator.PageNumber }} of our content." />
+    {{ end }}
+    {{ else }}
+    {{ if .Params.seoTitle }}
+    <title>{{ .Params.seoTitle }}</title>
+    {{ else }}
+    <title>{{ .Title }}</title>
+    {{ end }}
+    <meta name="description" content="{{ .Description }}" />
+    {{ end}}
+    {{ $paginator := .Paginate (where .Site.RegularPages ".Params.post" "!="
+    false) }}
+    {{ if .IsHome }}
+    {{ if eq $paginator.PageNumber 1 }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ else }}
+    <link rel="canonical"
+        href="{{ .Permalink }}page/{{ $paginator.PageNumber }}/" />
+    {{ end }}
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ end }}
+
     {{ partialCached "css.html" . }}
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
