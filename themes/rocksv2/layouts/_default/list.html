@@ -14,7 +14,7 @@
             {{ .Summary }}
             {{ if ne .Params.apple_music_artist_url "None" }}
             <a href="{{ .Params.apple_music_artist_url }}">
-                <button class="w-full mt-8 px-4 py-2 text-white bg-blue-500 rounded-lg hover:bg-blue-700">Goto {{ .Title }} on Apple Music</button>
+                <button class="w-full mt-8 px-4 py-2 text-white bg-red-700 rounded-lg hover:bg-red-500"><i class="fa-brands fa-apple"></i> Goto {{ .Title }} on Apple Music</button>
             </a>
             {{ end }}
         </div>
