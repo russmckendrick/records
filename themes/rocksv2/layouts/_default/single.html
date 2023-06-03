@@ -74,6 +74,9 @@
             </a>
             {{- end }}
         </div>
+        <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target=”_blank”>
+            <button class="w-full mt-2 px-4 py-2 text-white bg-red-900 rounded-lg hover:bg-red-700"><i class="fa-brands fa-lastfm"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler</button>
+        </a>
         {{ .Content }}
     </article>
 
