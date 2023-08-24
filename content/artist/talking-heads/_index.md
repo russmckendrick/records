@@ -4,6 +4,6 @@ summary: "Talking Heads were an American rock band that formed in 1975 in New Yo
 After a hiatus, Talking Heads reached their commercial peak in 1983 with the U.S. Top 10 hit \"Burning Down the House\" from the album Speaking in Tongues. In 1984, they released the concert film Stop Making Sense, directed by Jonathan Demme. For these performances, they were joined by Worrell, the guitarist Alex Weir, the percussionist Steve Scales and the singers Lynn Mabry and Ednah Holt. In 1985, Talking Heads released their best-selling album, Little Creatures. They produced a soundtrack album for Byrne's film True Stories , and released their final album, worldbeat-influenced Naked , before disbanding in 1991. Without Byrne, the other band members performed under the name Shrunken Heads, and released an album, No Talking, Just Head, as the Heads in 1996.
 In 2002, Talking Heads were inducted into the Rock and Roll Hall of Fame. Four of their albums appeared in Rolling Stone's list of the 500 Greatest Albums of All Time in 2003, and three of their songs were included among the Rock and Roll Hall of Fame's 500 Songs That Shaped Rock and Roll. Talking Heads were also number 64 on VH1's list of the \"100 Greatest Artists of All Time\". In the 2011 update of Rolling Stone's \"100 Greatest Artists of All Time\", they were ranked number 100."
 image: "talking-heads.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/talking-heads/155546"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Talking_Heads"
 ---
