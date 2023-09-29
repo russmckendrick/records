@@ -1,0 +1,10 @@
+---
+title: "Richard Wright"
+summary: "Richard William Wright was an English musician who co-founded the progressive rock band Pink Floyd. He played keyboards and sang, appearing on almost every Pink Floyd album and performing on all their tours. He was inducted into the Rock and Roll Hall of Fame in 1996 as a member of Pink Floyd.
+Wright grew up in Hatch End, Middlesex, and met his future Pink Floyd bandmates Roger Waters and Nick Mason while studying architecture at the Regent Street Polytechnic, London. After being joined by frontman and songwriter Syd Barrett, Pink Floyd found commercial success in 1967. Barrett was replaced by David Gilmour in 1968, who, along with Waters and Wright, took over songwriting.
+Initially contributing more as a singer-songwriter, Wright later acted mainly as an arranger on compositions by Waters and Gilmour. He began to contribute less towards the end of the 1970s and left the band after touring The Wall in 1981. He rejoined as a session player in 1987 for A Momentary Lapse of Reason, and rejoined full-time for The Division Bell in 1994. Sessions with Wright during this period were later released on the 2014 album The Endless River. Away from Pink Floyd, Wright recorded two solo albums and was briefly active in the pop duo Zee with Dave Harris of Fashion. Following Pink Floyd's Live 8 appearance in 2005, he became part of Gilmour's touring band, singing occasional lead vocals on songs such as \"Arnold Layne\". Wright died from lung cancer in London in September 2008, aged 65.
+Wright's jazz influences and distinctive keyboard playing were an important part of the Pink Floyd sound. As well as playing Farfisa and Hammond organs and Kurzweil synthesisers, he sang regularly in the band and took lead vocals on songs such as \"Remember a Day\" , \"Time\" and \"Wearing the Inside Out\" ."
+image: "richard-wright.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/richard-wright/1045761810"
+wikipedia_url: "https://en.wikipedia.org/wiki/Richard_Wright_(musician)"
+---
