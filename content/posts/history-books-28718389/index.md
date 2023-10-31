@@ -1,0 +1,66 @@
+---
+title: "The Gaslight Anthem - History Books"
+artist: "The Gaslight Anthem"
+album_name: "History Books"
+date: 2023-10-31T11:17:53.000000Z
+release_date: "2023-10-27"
+release_id: "28718389"
+slug: "history-books-28718389"
+hideSummary: true
+cover:
+    image: "history-books-28718389.jpg"
+    alt: "History Books by The Gaslight Anthem"
+    caption: "History Books by The Gaslight Anthem"
+additional_images:
+    - "https://i.discogs.com/u2ejpkfzSiKNpAUJyEOAioKAzwoP1c0pJUjzXMGGd2s/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjctMjIzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/iGgFeIHCzI8q5JUO3gJ9LxHEKjavFhy3rrMNpR7rNeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtNTEzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/iLivLpAd1WRrqtBoGq5dej8j77pYUX_6x2k2nbVXFnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjktNjIwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/hHYuXrsuCSegcCtz2x0Wecv1nU8NEvVOX8cQjGuBuD8/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtNTQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/-BqUVJiXr9riBQjlNP73KYVCJ6rhGawkCc-9vbz3mg4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjctODQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Il76yJOnCrCsKkslV1M_elo8L-fPJw3lmdYPSiQ4E1A/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtMTk5MC5qcGVn.jpeg"
+genres: ["Rock"]
+styles: ["Folk Rock", "Indie Rock"]
+---
+
+The Gaslight Anthem’s 2023 LP <i>History Books</i> serves as their first since 2014, and the band bring such ferocity to their return, it sounds as if they’re trying to wipe away a near-decade’s worth of cobwebs in a single riff, cymbal crash and lyric. Sombre but not sad, <i>History Books</i> recalls the urgency and triumph of the band’s sophomore effort and breakthrough, 2008’s <i>The '59 Sound</i>. Singer Brian Fallon sounds reinvigorated and as tenacious as ever, yet also a bit wiser since the last time he and his band checked in. Opener “Spider Bites” shines with soaring guitar solos and a galloping drum groove. Fallon’s voice is awash in distortion, less desperate but no less passionate than he sounded as a young man 15 years prior to <i>History Books</i>. 
+
+The Jersey-bred band still pays homage to their chief influence Bruce Springsteen on <i>History Books</i> (they even recorded a version of the title track with him), but the inspirations are more varied, less indebted to a particular time, place and Boss. “Autumn” is a blues rock bar sing-along, and “Michigan, 1975” shows a restraint and tension reminiscent of alt-rock anthems that populated radio playlists when The Gaslight Anthem’s band members were still boys. Sort of like Faulkner once said, the past is never dead. It ain’t even the past.
+
+        
+        
+    
+
+
+## Tracklisting
+1. Spider Bites (4:19)
+2. History Books (3:53)
+3. Autumn (4:01)
+4. Positive Charge (4:06)
+5. Michigan, 1975 (4:15)
+6. Little Fires (3:25)
+7. The Weatherman (4:27)
+8. Empires (4:23)
+9. I Live In The Room Above Her (4:17)
+10. A Lifetime Of Preludes (3:18)
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/history-books/1694394095" >}}<br>
+
+
+## Videos
+### The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video
+{{< youtube id="gyUgfrCegOs" title="The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video" >}}<br>
+
+
+## Release Images
+{{< imageGrid >}}
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/History_Books |
+| Format         | Vinyl LP Album Limited Edition (Yellow [Canary]) |
+| Label          | Thirty Tigers |
+| Catalog Number | 60124LP |
+| Notes | Hype Sticker: The New Album  Includes “History Books (feat. Bruce Springsteen)”  Indie Exclusive Canary Yellow Vinyl |
+| Discogs URL    | [The Gaslight Anthem - History Books](https://www.discogs.com/release/28718389-The-Gaslight-Anthem-History-Books) |
