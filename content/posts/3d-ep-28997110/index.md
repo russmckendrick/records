@@ -25,8 +25,6 @@ styles: ["Pop Rock", "New Wave"]
 2. She's So Square (3:06)
 3. Dance Band (2:40)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/xtc-ep/1707191251" >}}<br>
 
 
 ## Videos
