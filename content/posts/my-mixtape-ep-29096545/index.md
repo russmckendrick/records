@@ -24,8 +24,6 @@ styles: []
 3. Labelled With Love 
 4. Geno
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/covid-killa-mixtape-ep/1550326893" >}}<br>
 
 
 
