@@ -1,0 +1,7 @@
+---
+title: "Plastikman"
+summary: "Plastikman is Richie Hawtin's main recording identity. Since his debut as States of Mind and FUSE in 1990 to the launch of Plastikman in 1993, his sound has developed through early connotations of acidic techno and extreme levels of energy to sonic experiments in futuristic-rhythms and off-world ambience . More minimal approaches were evident through his year long 12-record project 'Concept 1' from 1996. His recording attention is matched head-on by his groundbreaking DJ performances, which incorporate turntables, effects processors and additional instruments . His world-renown enhanced DJ set-up of the DE9 series has kept pushing the boundaries of what a DJ can do by increasing the potential of creativity through once again, technology. At timewarp on March 27th, 2010 Hawtin launched the first in a series of hand-picked dates that form the first ever Plastikman Live world tour. His live electronic performance incorporates his state of the art visual architecture and interactive technology. The new show evolved from the previous Plastikman live performance at Canada’s Mutek festival in 2004, by continuing to explore the connection between visual, audio and interactivity, and once again partnering visual architects Derivative alongside visual designer Ali Demirel."
+image: "plastikman.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/plastikman/19379976"
+wikipedia_url: "https://en.wikipedia.org/wiki/Consumed_(Plastikman_album)"
+---
