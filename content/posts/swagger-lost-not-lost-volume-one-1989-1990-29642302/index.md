@@ -1,0 +1,49 @@
+---
+title: "No-Man - Swagger (Lost Not Lost Volume One: 1989/1990)"
+artist: "No-Man"
+album_name: "Swagger (Lost Not Lost Volume One: 1989/1990)"
+date: 2024-02-02T00:42:35.000000Z
+release_id: "29642302"
+slug: "swagger-lost-not-lost-volume-one-1989-1990-29642302"
+hideSummary: true
+cover:
+    image: "swagger-lost-not-lost-volume-one-1989-1990-29642302.jpg"
+    alt: "Swagger (Lost Not Lost Volume One: 1989/1990) by No-Man"
+    caption: "Swagger (Lost Not Lost Volume One: 1989/1990) by No-Man"
+additional_images:
+    - "https://i.discogs.com/P2JV5ogVMxwiszN2l1pUXkUjRoVd_fnt6jJJCH1aX3w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQy/MzAyLTE3MDY2MDg5/ODEtMTQ3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/QlCk_fW0Kqyx9WN-bTVSw9rA9bzCwodPJg6uwVeXZ9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQy/MzAyLTE3MDY2MDk0/NTktNDQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/oUIdYsPfvdN6hape_v1oxsMQkA0ZQV0POarz57x50oQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQy/MzAyLTE3MDY2MDk3/NjctMjAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/dO3ruCvzIrWGj_9FLcyAmGAcqd2KTVLCzEpzWpU_c-M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQy/MzAyLTE3MDY2MDk3/NzAtNjY3OS5qcGVn.jpeg"
+genres: ["Rock", "Pop"]
+styles: []
+---
+
+
+
+## Tracklisting
+1. Flowermouth (5:06)
+2. Bleed  (5:15)
+3. Life Is Elsewhere (4:22)
+4. Mouth Was Blue (5:03)
+5. Curtain Dream  (3:12)
+6. Learn To Fear (5:28)
+7. See No Angels (5:23)
+8. Sit Silent (3:08)
+9. Swirl (7:41)
+
+
+
+
+
+## Release Images
+{{< imageGrid >}}
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Format         | Vinyl LP Stereo (Blue) |
+| Label          | Burning Shed |
+| Catalog Number | BSHED2401V |
+| Notes | 1 to 5 recorded at Susurreal Studios, Sandford, Devon in Autumn 1989. 6 to 9 recorded at Nomansland, Hemel Hempstead between Summer 1989 and Summer 1990. 1 to 4 taken from '[r=2094234]', a self-released cassette, Autumn 1989.  Mastered by Steven Wilson, Autumn 2023.  ℗ & © 2023 no-man under exclusive license to Burning shed.   |
+| Discogs URL    | [No-Man - Swagger (Lost Not Lost Volume One: 1989/1990)](https://www.discogs.com/release/29642302-No-Man-Swagger-Lost-Not-Lost-Volume-One-19891990) |
