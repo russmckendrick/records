@@ -1,0 +1,10 @@
+---
+title: "Franz Ferdinand"
+summary: "Franz Ferdinand are a Scottish rock band formed in Glasgow in 2002. The band's original line-up was composed of Alex Kapranos , Nick McCarthy , Bob Hardy and Paul Thomson . Julian Corrie and Dino Bardot joined the band in 2017 after McCarthy left during the previous year, and Audrey Tait joined the band after Thomson left in 2021. The band is one of the more popular post-punk revival bands, garnering multiple UK top 20 hits. They have been nominated for several Grammy Awards and have received two Brit Awards—winning one for Best British Group—as well as one NME Award.
+The band's first two singles, \"Darts of Pleasure\" and \"Take Me Out\", peaked within the top 50 on the UK Singles Chart. \"Take Me Out\" charted in several countries and earned a Grammy nomination for Best Rock Performance by a Duo or Group with Vocal; it became the band's signature song. Their self-titled debut studio album won the 2004 Mercury Prize and earned a Grammy nomination for Best Alternative Album.
+In 2005, the band released their second studio album, You Could Have It So Much Better, produced by Rich Costey. It peaked within the top-ten in multiple countries and earned Grammy-nominations for Best Alternative Album and for one of the singles, \"Do You Want To\". The band's third studio album, Tonight: Franz Ferdinand, was released in January 2009; by then the band had shifted from a post-punk-focused sound to a more dance-oriented sound. A remix album of Tonight, titled Blood, was released in July 2009.
+Four years after the release of Tonight, the band released their fourth studio album, Right Thoughts, Right Words, Right Action, in August 2013. In 2015, Franz Ferdinand and American rock band Sparks formed the supergroup FFS and released a one-off self-titled album in June 2015. Following the departure of McCarthy, the band released their fifth studio album, Always Ascending, in February 2018."
+image: "franz-ferdinand.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/franz-ferdinand/6596751"
+wikipedia_url: "https://en.wikipedia.org/wiki/Franz_Ferdinand_(band)"
+---
