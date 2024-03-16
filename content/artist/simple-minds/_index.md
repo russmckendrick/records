@@ -5,6 +5,6 @@ Simple Minds have achieved five UK Albums chart number one albums, Sparkle in th
 In 2014, Simple Minds were awarded the Q Inspiration Award for their contribution to the music industry and an Ivor Novello Award in 2016 for Outstanding Song Collection from the British Academy of Songwriters, Composers, and Authors. Other notable recognitions include nominations for both the MTV Video Music Award for Best Direction and MTV Video Music Award for Best Art Direction for \"Don't You \" in 1985, nomination for the Brit Award for British Group in 1986 and for the American Music Award for Favorite Pop/Rock Band/Duo/Group in 1987. \"Belfast Child\" was nominated for the Song of the Year at the 1990 Brit Awards.
 The nucleus of Simple Minds consists of the two remaining original members, Jim Kerr and Charlie Burchill . The other current band members are Ged Grimes , Cherisse Osei , Sarah Brown , Gordy Goudie and Berenice Scott . Notable former members include Mick MacNeil , Derek Forbes , Brian McGee & Mel Gaynor ."
 image: "simple-minds.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/simple-minds/645533"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simple_Minds"
 ---
