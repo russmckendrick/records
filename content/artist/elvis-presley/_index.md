@@ -2,6 +2,6 @@
 title: "Elvis Presley"
 summary: "Elvis Presley is the debut studio album by American rock and roll singer Elvis Presley. It was released by RCA Victor, on March 13, 1956, catalog number LPM-1254. The recording sessions took place on January 10 and January 11 at the RCA Victor Studios in Nashville, Tennessee, and on January 30 and January 31 at the RCA Victor studios in New York. Additional material originated from sessions at Sun Studio in Memphis, Tennessee, on July 5, August 19 and September 10, 1954, and on July 11, 1955.The album spent ten weeks at number one on the Billboard Top Pop Albums chart in 1956, the first rock and roll album ever to make it to the top of the charts, and the first million-selling album of that genre. In 2003 and 2012, it was ranked number 56 on Rolling Stone's list of the 500 greatest albums of all time, and at number 332 in a 2020 revised list. Elvis Presley was also one of three Presley albums to receive accolades in the reference book 1001 Albums You Must Hear Before You Die. It was certified gold on November 1, 1966, and platinum on August 8, 2011, by the Recording Industry Association of America.The original 1956 UK release called Rock n' Roll on HMV Catalog Number: CLP 1093 has five different tracks."
 image: "elvis-presley.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/elvis-presley/197443"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elvis_Presley_(album)"
 ---
