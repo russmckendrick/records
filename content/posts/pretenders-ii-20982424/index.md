@@ -23,6 +23,8 @@ styles: ["Alternative Rock", "Post-Punk", "New Wave"]
 ---
 
 Pretenders II is the second studio album by British rock band the Pretenders, issued on Sire Records in August 1981. It incorporates two songs that had been released as singles in the UK and placed on an EP in the US. It peaked at #7 on the UK Albums Chart and #10 on the Billboard 200, and has been certified a gold record for sales by the RIAA. It is the final album by the original line-up, as the following year bassist Pete Farndon was dismissed and guitarist James Honeyman-Scott died in the same week. Farndon died in 1983, and a new line-up would make the band's next album, Learning to Crawl.
+
+
     
     
 

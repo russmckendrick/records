@@ -35,6 +35,8 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 9. Who’s To Blame
 10. Practise Makes Perfect
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chicken-rhythms/1320038054" >}}<br>
 
 
 

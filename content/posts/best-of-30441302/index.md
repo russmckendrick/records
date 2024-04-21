@@ -17,7 +17,7 @@ genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Folk Rock", "Pop Rock", "Rock & Roll"]
 ---
 
-Best of Bruce Springsteen is the eighth compilation album by American singer-songwriter Bruce Springsteen. It is set to be released on April 19, 2024, through Columbia Records. The collection marks his first compilation in eight years and includes hit singles and popular album tracks from 1973 to 2020.
+Best of Bruce Springsteen is the eighth compilation album by American singer-songwriter Bruce Springsteen. It was released on April 19, 2024, through Columbia Records. The collection marks his first compilation in eight years and includes hit singles and popular album tracks from 1973 to 2020.
 
 
     
@@ -44,9 +44,8 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 17. Hello Sunshine
 18. Letter To You
 
-
-## Spotify
-{{< spotify type="album" id="16Ng1RWBMnNeaf4Bbckyk4" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/best-of-bruce-springsteen-expanded-edition/1733551531" >}}<br>
 
 
 
@@ -61,5 +60,5 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 | Format         | Vinyl 2× LP Album Compilation Stereo (Atlantic Blue Vinyl) |
 | Label          | Columbia |
 | Catalog Number | 196588699016 |
-| Notes | Atlantic Blue vinyl release |
+| Notes | Atlantic Blue vinyl release  On back cover: THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM. COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.  On sticker: A CARRER-SPANNING HITS COLLECTION  Features 18 Classic Tracks Including  Dancing In The Dark, Thunder Road + More  2LPs on ATLANTIC BLUE Vinyl  19658869901  |
 | Discogs URL    | [Bruce Springsteen - Best Of](https://www.discogs.com/release/30441302-Bruce-Springsteen-Best-Of) |

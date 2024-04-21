@@ -25,6 +25,8 @@ styles: ["Alternative Rock", "New Wave", "Post-Punk"]
 
 Pretenders is the debut studio album by British-American band The Pretenders, released in January 1980. A combination of rock and roll, punk and new wave music, this album made the band famous. The album features the singles "Stop Your Sobbing", "Kid" and "Brass in Pocket".
 Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decided not to work with them again as he thought the band was "not going anywhere". Chris Thomas took over on the subsequent recording sessions.
+
+
     
     
 
