@@ -44,8 +44,9 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 17. Hello Sunshine
 18. Letter To You
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1435854353" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="16Ng1RWBMnNeaf4Bbckyk4" width="100%" height="500" >}}<br>
 
 
 
