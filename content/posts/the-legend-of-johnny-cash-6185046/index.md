@@ -51,6 +51,10 @@ styles: ["Acoustic", "Country Rock"]
 20. One
 21. Hurt
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-legend-of-johnny-cash/675914676" >}}<br>
+
+
 ## Videos
 ### Johnny Cash-The_Man_Comes Around
 {{< youtube id="k9IfHDi-2EA" title="Johnny Cash-The_Man_Comes Around" >}}<br>
