@@ -11,6 +11,8 @@ cover:
     alt: "Orbital by Orbital"
     caption: "Orbital by Orbital"
 additional_images:
+    - "https://i.discogs.com/W1CeCnylJ55710-24X5qo08t8kN04ju5DiQTuFVhniU/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMw/ODA1LTE3MTM2Mjc2/MzEtNjYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/vCvwVLL2xPF6Pg4cOJ5_-eEqog2MdVpluBhCr0kxXEI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMw/ODA1LTE3MTQwNTk3/MTItMzQxOS5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Techno"]
 ---
@@ -42,7 +44,9 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 ## Videos
 ### Orbital - Orbital [Green Album] (1991) HQ FULL ALBUM
 {{< youtube id="FsCEo-ey8E0" title="Orbital - Orbital [Green Album] (1991) HQ FULL ALBUM" >}}<br>
+### More Videos
 
+- [Orbital - Untitled (1991_ Exclusive EU' Cassette Tape)](https://www.youtube.com/watch?v=qEJn9x5TdCA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +58,5 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | London Records |
 | Catalog Number | LMS1725118 |
-| Notes | Brand new liner notes. Double black vinyl.  Made in Czechia. |
+| Notes | Brand new liner notes. Double black vinyl.  Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.  Made in Czechia. |
 | Discogs URL    | [Orbital - Orbital](https://www.discogs.com/release/30430805-Orbital-Orbital) |
