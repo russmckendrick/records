@@ -59,7 +59,8 @@ The Dark Side of the Moon is among the most critically acclaimed albums and ofte
 10. Eclipse (1:45)
 
 ## Apple Music
- {{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-50th-anniversary-2023-remaster/1664429596" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon/346025381" >}}<br>
+
 
 ## Videos
 ### Pink Floyd - The Dark Side Of The Moon (50th Anniversary) [2023 Remaster] {Full Album}
