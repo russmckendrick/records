@@ -20,6 +20,8 @@ styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 
 Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
 The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
+
+
     
     
 
@@ -37,14 +39,25 @@ The album was a commercial and critical success, reaching number 2 in the United
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gang-signs-prayer/1673768631" >}}<br>
-
-
 ## Videos
-### Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]
-{{< youtube id="DSfjtdnUsls" title="Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]" >}}<br>
+### Electronic - Feel Every Beat (Official Music Video)
+{{< youtube id="dfvUFp8pJTg" title="Electronic - Feel Every Beat (Official Music Video)" >}}<br>
+### More Videos
 
+- [The Patience of a Saint (2013 Remaster)](https://www.youtube.com/watch?v=fJsJSPKbkXs)
+- [Idiot Country](https://www.youtube.com/watch?v=MQI61icvaQg)
+- [Soviet (2013 Remaster)](https://www.youtube.com/watch?v=OZjxsGQjghk)
+- [Electronic - A Patience of a Saint](https://www.youtube.com/watch?v=-wXQZNC1864)
+- [Reality](https://www.youtube.com/watch?v=Q26D0fU1aaw)
+- [The Patience of a Saint - Electronic feat Pet Shop Boys](https://www.youtube.com/watch?v=TtTNwrrcvds)
+- [Tighten Up](https://www.youtube.com/watch?v=4dNB192uYVE)
+- [The Patience of a Saint](https://www.youtube.com/watch?v=tynrmbUN3nU)
+- [Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=DSfjtdnUsls)
+- [Gangster](https://www.youtube.com/watch?v=fH0YmcTRwi8)
+- [Soviet](https://www.youtube.com/watch?v=rL5UKLrKNF8)
+- [Electronic - Get The Message (Official Music Video)](https://www.youtube.com/watch?v=vqC2eT5vI9w)
+- [Try All You Want](https://www.youtube.com/watch?v=xELXelDbfiI)
+- [Some Distant Memory](https://www.youtube.com/watch?v=T3xUtpRYMS0)
 
 ## Release Images
 {{< imageGrid >}}
