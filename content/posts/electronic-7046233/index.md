@@ -41,8 +41,9 @@ The album was a commercial and critical success, reaching number 2 in the United
 10. Some Distant Memory (4:09)
 11. Feel Every Beat (5:09)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/atomic-city-ti%C3%ABsto-remix-single/1752497414" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1vGrQ0is3Avh0bZSI7T6L1" width="100%" height="500" >}}<br>
 
 
 ## Videos

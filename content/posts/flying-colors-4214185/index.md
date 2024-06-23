@@ -45,8 +45,9 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 10. Fool In My Heart (3:48)
 11. Infinite Fire (12:02)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/love-in-flying-colors/714563380" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="4WeIJzSSvUOAXSGOrTeaax" width="100%" height="500" >}}<br>
 
 
 ## Videos
