@@ -1,0 +1,93 @@
+---
+title: "Red Hot Chili Peppers - Californication"
+artist: "Red Hot Chili Peppers"
+album_name: "Californication"
+date: 2024-07-27T07:02:48.000000Z
+release_date: "1999-06-08"
+release_id: "31323387"
+slug: "californication-31323387"
+hideSummary: true
+cover:
+    image: "californication-31323387.jpg"
+    alt: "Californication by Red Hot Chili Peppers"
+    caption: "Californication by Red Hot Chili Peppers"
+additional_images:
+    - "https://i.discogs.com/SiusdncTDQXaiEpawdKGDh0N6ijri_v_cPvXR5KU-2k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/NTktMTU5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZSVfV5cz8H7TwonH79vWAk5L00HZkeqJITdVWS7PRNw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/NjQtMTc4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/RsC-XNtkNt265w6YhTGJ_2hh9qukO-sM7XznIgavY5E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/NzctNzYxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/qeIR_dRMMM_kDHE_NRidZDTp1baw4r8amtmfUfqmivk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/ODUtNTEyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/CV1qNKhemOj0VeVRzN8WmSoD1LJJabkosES7y4vAx6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/OTItODkzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/UXHwatNQg2c7-zSFKkU_PwRqvvRCsSHmH4-40W3UQEA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU2/OTYtNzgwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/MgqvIE5wx0214n09i-N4faWRJPc9tKBjDMRbgThto4A/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMjQ2/NDYtODk4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/dCgUyoawLPM-DzeGuLMYUDwWlMx-8txWIBXv36R1fAU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMjQ2/NDUtMTg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/gPW4M8ypHx9sq3U5rINHUzHjcBTbXyluZZYj4_ZfB6E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU3/MDQtNDkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/nzFvJWFAa5OS5K2V6pCeOnq2O__SGqnLW-qIAUR_Pto/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU3/MDktMjI5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/mZ0EBpNx-7-Emj6ty8nEwgQo2kNxqCWi4a1wK5r6e3s/rs:fit/g:sm/q:90/h:148/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMDU3/MTQtNzI5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/o2Jt7XnUp43gz0OwUXNN-Kj53aLHGt5Kwr8edqkyew8/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMjQ2/NDUtNzQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/3ANUy-GwGuLwBiOMAKannAHLVfHsILv79gDq6KxHffE/rs:fit/g:sm/q:90/h:108/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMjU4/ODUtOTMxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/LVLgONyqQezXzwelaObjkBAeQHm-cqyuZigCgyzYy1s/rs:fit/g:sm/q:90/h:1048/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIz/Mzg3LTE3MjIwMjU4/ODUtNjYxMy5qcGVn.jpeg"
+genres: ["Rock"]
+styles: ["Alternative Rock"]
+---
+
+In a way, the Red Hot Chili Peppers didn’t truly find their voice until their 17th year as a band. Ever since the band formed in the early 1980s, the members of the Peppers had tempered their unhinged funk-metal madness with breezy, melodic, introspective anthems (many of which would end up as the Peppers’ biggest singles). On the group’s seventh album, 1999’s <i>Californication</i>, those slowed-down numbers became the primary focus. Wayward guitarist John Frusciante had recently rejoined the group after nearly a decade-long absence, and his signature curlicues and lyrical solos immediately rocket <i>Californication</i> to airier, more pastoral regions. And singer Anthony Kiedis leaves the more macho and lascivious elements of his personality behind, fully stepping into his role as the existential poet of Los Angeles: part punk philosopher, part New Age hedonist, part wizened survivor. As a result, <i>Californication</i> became the group’s best-selling album worldwide, while forging a blueprint that would bear fruit for the rest of the Peppers’ storied career. This is the moment—and the album—in which the Red Hot Chili Peppers secured their position as one of the few rock bands that could reliably fill arenas in the 21st century.
+ 
+Three of the album’s singles—“Scar Tissue”, “Otherside” and “Californication”, all of which topped the American modern rock charts—are indicative of this more mature, contemplative Peppers. “Otherside” is a sparkling, melancholy song that asks “How long will I slide?”, while the upwards-spiralling “Scar Tissue” finds Kiedis confronting the negative impact of sarcasm as a defense mechanism. After years of treating Hollywood like an idyllic incubator for weirdos, the Peppers poignantly explore the town’s darker side on the title track, revealing the dream factory as a place where hopes are dashed, skin is scalpelled and innocence is lost. And tracks like “Porcelain” and acoustic album-closer “Road Trippin’” push the Peppers toward the tender alt-rock ballads of bands like The Smashing Pumpkins. Of course, <i>Californication</i> isn’t <i>all</i> struggle and weariness, as evidenced by vintage Pepper funk-rock ragers like the celebratory opener “Around the World” and the horny “Get on Top” (inspired by Frusciante digging the rhythms of Public Enemy).
+ 
+But it’s the more sombre moments on <i>Californication</i> that turned the record into a smash—and led to a pivotal turning point in the Chili Peppers’ career. It’s the album that rescued the band from the underwhelming commercial performance of 1995’s <i>One Hot Minute</i>, and paved their way towards the Rock Hall, the Hollywood Walk of Fame and the Super Bowl. California may break your heart, but <i>Californication</i> is the moment where stars become icons.
+    
+    
+
+
+## Tracklisting
+1. Around The World (3:59)
+2. Parallel Universe (4:31)
+3. Scar Tissue (3:37)
+4. Otherside (4:16)
+5. Get On Top (3:18)
+6. Californication (5:21)
+7. Easily (3:51)
+8. Porcelain (2:44)
+9. Emit Remmus (4:00)
+10. I Like Dirt (2:37)
+11. This Velvet Glove (3:45)
+12. Savior (4:52)
+13. Purple Stain (4:13)
+14. Right On Time (1:53)
+15. Road Trippin' (3:26)
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/californication-remastered/945575406" >}}<br>
+
+
+## Videos
+### Easily
+{{< youtube id="C-2xtTpgQXM" title="Easily" >}}<br>
+### More Videos
+
+- [Red Hot Chili Peppers - Around The World [Official Music Video]](https://www.youtube.com/watch?v=a9eNQZbjpJk)
+- [Parallel Universe](https://www.youtube.com/watch?v=N5Vgm6-KO3o)
+- [Red Hot Chili Peppers - Scar Tissue [Official Music Video]](https://www.youtube.com/watch?v=mzJj5-lubeM)
+- [Red Hot Chili Peppers - Otherside [Official Music Video]](https://www.youtube.com/watch?v=rn_YodiJO6k)
+- [Get on Top](https://www.youtube.com/watch?v=NJnOl3trYW0)
+- [Red Hot Chili Peppers - Californication (Official Music Video) [HD UPGRADE]](https://www.youtube.com/watch?v=YlUKcNNmywk)
+- [Porcelain](https://www.youtube.com/watch?v=j0tHXHcq724)
+- [Emit Remmus](https://www.youtube.com/watch?v=i6HOe3T1QFY)
+- [I Like Dirt](https://www.youtube.com/watch?v=5fdJdfXid70)
+- [This Velvet Glove](https://www.youtube.com/watch?v=TqoDFpLyio0)
+- [Savior](https://www.youtube.com/watch?v=UijW9hGpnzc)
+- [Purple Stain](https://www.youtube.com/watch?v=H1LF-qyoNjo)
+- [Right on Time](https://www.youtube.com/watch?v=PSqH-4Wubq0)
+- [Red Hot Chili Peppers - Road Trippin' [Official Music Video]](https://www.youtube.com/watch?v=11GYvfYjyV0)
+
+## Release Images
+{{< imageGrid >}}
+
+## Release Information
+|  Key           | Value                                                |
+| ---------------| ---------------------------------------------------- |
+| Format         | Vinyl LP (Red Opaque), Vinyl LP (Blue Opaque [Ocean Blue]), All Media Album Limited Edition Reissue Repress (25th Anniversary Edition) |
+| Label          | Warner Records |
+| Catalog Number | 93624843276 |
+| Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl.   Comes with colored lyrics sheet and white die-cut inner sleeves.   "Manufactured in Germany" on labels and "Made in Germany" on insert.   Different runouts than [r31325104]. |
+| Discogs URL    | [Red Hot Chili Peppers - Californication](https://www.discogs.com/release/31323387-Red-Hot-Chili-Peppers-Californication) |
