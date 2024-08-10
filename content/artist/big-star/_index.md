@@ -6,6 +6,6 @@ After a third album, recorded in the fall of 1974, was deemed commercially unvia
 During the group's hiatus in the 1980s, the Big Star discography drew renewed attention when R.E.M. and the Replacements, as well as other popular bands, cited the group as an influence. In 1992, interest was further stimulated by Rykodisc's reissues of the band's albums, complemented by a collection of Bell's solo work.: 13 In 1993, Chilton and Stephens reformed Big Star with recruits Jon Auer and Ken Stringfellow of the Posies, and gave a concert at the University of Missouri.: 253 The band remained active, performing tours in Europe and Japan,: 253–260 and released a new studio album, In Space, in 2005. Chilton died in March 2010 after suffering from heart problems. Hummel died of cancer four months later. These deaths left Stephens as the sole surviving founding member. Big Star was inducted into the Memphis Music Hall of Fame in 2014.
 Since December 2010, several surviving members have appeared in a series of live tribute performances of the album Third/Sister Lovers, under the billing \"Big Star's Third\". As of 2017, that project has remained active."
 image: "big-star.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/big-star/2351764"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Big_Star"
 ---
