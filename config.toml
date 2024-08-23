@@ -1,6 +1,6 @@
-baseURL = 'https://www.mckendrick.rocks/'
+baseURL = 'https://www.russ.fm/'
 languageCode = 'en-gb'
-title = 'McKendrickRocks'
+title = 'Russ.FM'
 theme = "rocksv2"
 paginate = 18
 enableRobotsTXT = true
@@ -9,8 +9,8 @@ enableRobotsTXT = true
 posts = "/albums/:slug"
 
 [params]
-titleBold = "McKendrick"
-titleLight = "Rocks"
+titleBold = "Russ"
+titleLight = "FM"
 homeHeader = "Hi, my name is Russ"
 homeSubheader = "and this is my record collection, listed in the order I purchased them."
 homeButton = "View my collection"
