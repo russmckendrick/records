@@ -1,6 +1,6 @@
 # Records 🎵
 
-Welcome to the Records repository! This is the source code for [McKendrick Rocks](https://www.mckendrick.rocks/), a site dedicated to showcasing my personal record collection. 🎼🔥
+Welcome to the Records repository! This is the source code for [russFM](https://www.russ.fm/), a site dedicated to showcasing my personal record collection. 🎼🔥
 
 ## Overview 🌐
 
@@ -19,7 +19,7 @@ The Python script used to scrape the content from Discogs can be found at [russm
 
 ## My Discogs Collection 💽
 
-You can view my personal Discogs collection, the source for the site, [here](http://discogs.com/user/russmck/collection/). But, you should really just goto [McKendrick Rocks](https://www.mckendrick.rocks/) and view it there! 🎧🎶
+You can view my personal Discogs collection, the source for the site, [here](http://discogs.com/user/russmck/collection/). But, you should really just goto [russFM](https://www.russ.fm/) and view it there! 🎧🎶
 
 ## Questions or Feedback? 📬
 

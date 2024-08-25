@@ -1,0 +1,24 @@
+{
+    "version": "0.1",
+    "config": {
+      "index": {
+        "fields": ["artist", "album"],
+        "ref": ["uri"]
+      }
+    },
+    "documents": [
+      {{ range $index, $page := .Site.RegularPages }}
+      {
+        "title": {{ $page.Title | jsonify }},
+        "artist": {{ $page.Params.artist | jsonify }},
+        "album": {{ $page.Params.album_name | jsonify }},
+        "uri": {{ $page.RelPermalink | jsonify }},
+        "date": {{ $page.PublishDate.Format "2006-01-02" | jsonify }},
+        "coverImage": {{ (path.Join $page.RelPermalink $page.Params.cover.image) | absURL | jsonify }},
+        "artistImage": {{ printf "/artist/%s/%s.jpg" ($page.Params.artist | urlize) ($page.Params.artist | urlize) | absURL | jsonify }},
+        "artistUri": {{ printf "/artist/%s/" ($page.Params.artist | urlize) | absURL | jsonify }}
+      }{{- if ne $index (sub (len .Site.RegularPages) 1) }},{{ end }}
+      {{ end }}
+    ]
+  }
+  

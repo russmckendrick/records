@@ -1,0 +1,66 @@
+{{ define "main" }}
+<div class="container py-4">
+    <nav>
+        {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+        {{ range $letters }}
+        <a href="#{{ . }}" class="text-dark">{{ . }}</a>{{ if not (eq . "Z") }}, {{ end }}
+        {{ end }}
+    </nav>
+</div>
+<div class="container py-4">
+    {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+    {{- $taxonomy := index .Site.Taxonomies (lower .Title) -}}
+    {{- $pages_by_letters := dict -}}
+    {{ range $taxonomy.Alphabetical }}
+    {{- $term := . -}}
+    {{- $title := $term.Page.Title -}}
+    {{- $thePrefix := "The " -}}
+    {{- if and (strings.HasPrefix (strings.ToUpper $title) (strings.ToUpper $thePrefix)) (ne $title "The The") }}
+    {{- $title = trim $title $thePrefix -}}
+    {{ end }}
+    {{- $first_letter := upper (substr $title 0 1) -}}
+    {{- if not (in $letters $first_letter) }}
+    {{ $first_letter = "#" }}
+    {{ end }}
+    {{- $new_list := slice -}}
+    {{ with index $pages_by_letters $first_letter }}
+    {{- $new_list = . | append $term -}}
+    {{ else }}
+    {{- $new_list = slice $term -}}
+    {{ end }}
+    {{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+    {{ end }}
+    {{ range $letters }}
+    {{- $letter := . -}}
+    {{- $terms := index $pages_by_letters $letter -}}
+    {{ if $terms }}
+    <a name="{{ $letter }}"><h2 class="h4 font-weight-bold">{{ $letter }}</h2></a>
+    <div class="row">
+        {{ range $terms }}
+        <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-4">
+            <div class="card h-100">
+                {{ if .Page.Params.image }}
+                {{ $image := .Page.Resources.GetMatch (.Page.Params.image) }}
+                {{ if $image }}
+                {{ $resized := $image.Resize "150x150" }}
+                <img class="card-img-top" src="{{ $resized.RelPermalink }}" alt="{{ .Page.Title }}" style="height: 150px; object-fit: cover;">
+                {{ else }}
+                <div class="card-img-top" style="height: 150px; background-color: hsl({{ mod (mul (add (len .Page.Title) (len .Page.Permalink)) 997) 360 }} 70% 80%);"></div>
+                {{ end }}
+                {{ else }}
+                <div class="card-img-top" style="height: 150px; background-color: hsl({{ mod (mul (add (len .Page.Title) (len .Page.Permalink)) 997) 360 }} 70% 80%);"></div>
+                {{ end }}
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center flex-grow-1">
+                        <a href="{{ .Page.Permalink }}" class="text-dark font-weight-bold">{{ .Page.Title }}</a>
+                    </h5>
+                    <p class="text-center">({{ .Count }})</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}

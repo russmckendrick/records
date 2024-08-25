@@ -1,0 +1,35 @@
+[[main]]
+name = "Artists"
+url = "/artist"
+weight = 10
+
+[[main]]
+name = "Styles"
+url = "/styles"
+weight = 20
+
+[[main]]
+name = "Genres"
+url = "/genres"
+weight = 30
+
+[[social]]
+  name = "Random"
+  pre = "<i class='bi bi-shuffle'></i>"
+  url = "/random/"
+  weight = 10
+  title = "Grab a random record"
+
+[[social]]
+  name = "Search"
+  pre = "<i class='bi bi-search'></i>"
+  url = "/search/"
+  weight = 20
+  title = "Search the collection"
+
+[[social]]
+  name = "GitHub"
+  pre = "<i class='bi bi-github'></i>"
+  url = "https://github.com/russmckendrick/records/"
+  weight = 30
+  title = "Visit the GitHub project"

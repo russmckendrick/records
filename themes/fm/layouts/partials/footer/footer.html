@@ -1,0 +1,12 @@
+<footer class="py-3 mt-auto bg-light">
+  <div class="container py-1 my-1">
+    <div class="d-flex flex-wrap justify-content-between align-items-center">
+      <p class="col-md mb-0 text-muted">{{ .Site.Copyright | safeHTML }}</p>
+      <ul class="nav col-md-auto justify-content-end">
+        {{ range .Site.Menus.footer -}}
+        <li class="nav-item"><a href="{{ .URL }}" class="nav-link px-2 text-muted"{{ with .Title }} title='{{ . }}' aria-label='{{ . }}'{{ end }}>{{ .Name }}</a></li>
+        {{ end -}}
+      </ul>
+    </div>
+  </div>
+</footer>

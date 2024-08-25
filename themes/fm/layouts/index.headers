@@ -1,0 +1,7 @@
+# Warning: This configuration allows all content and is not recommended for production use
+# It should only be used for testing or development purposes
+/*
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: sameorigin
+  Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval' data: blob:; connect-src * 'unsafe-inline' 'unsafe-eval' data: blob:

@@ -1,0 +1,58 @@
+<!-- Product Schema.org Type -->
+<!-- https://schema.org/Product -->
+
+<!-- TODO: Get ratings fom Google My Business -->
+
+<!-- Revision based on Google guide https://developers.google.com/search/docs/appearance/structured-data/product -->
+
+{{ $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+
+{{ with .Params.product }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ .name }},
+  {{ with .image -}}
+  {{ $image := $.Resources.GetMatch . -}}
+  {{ with $image -}}
+  "image": {{ .Permalink }},
+  {{ end -}}
+  {{ end -}}
+  "description": {{ .description }},
+  {{ with .sku -}}
+  "sku": {{ . }},
+  {{ end -}}
+  {{ with .brand -}}
+  "brand": {
+    "@type": {{ .type }},
+    "name": {{ .name }}
+  },
+  {{ end -}}
+  {{ with .aggregateRating -}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ trim .ratingValue " " }},
+    "reviewCount": {{ trim .reviewCount " " }}
+  },
+  {{- end }}
+  {{ with .offer -}}
+  "offers": {
+    "@type": "Offer",
+    "price": {{ trim .price " " }},
+    "priceCurrency": {{ .priceCurrency }},
+    {{ with .priceValidUntil -}}
+    "priceValidUntil": {{ . }},
+    {{ end -}}
+    {{ with .availability -}}
+    "availability": "https://schema.org/{{ . }}",
+    {{ end -}}
+    {{ with .itemCondition -}}
+    "itemCondition": "https://schema.org/{{ . }}",
+    {{ end -}}
+    "url": {{ $.Permalink }}
+  }
+  {{- end }}
+}
+</script>
+{{ end }}

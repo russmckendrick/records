@@ -1,0 +1,34 @@
+baseURL = 'https://www.russ.fm/'
+title = "RussFM"
+author = "Russ McKendrick"
+copyright = ""
+
+timeZone = 'Europe/London'
+theme = "fm"
+
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+#sectionPagesMenu = "main"
+#googleAnalytics = "UA-1511XXXX-X"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[taxonomies]
+  artists = "artist"
+  genres = "genres"
+  styles = "styles"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[permalinks]
+  posts = "/albums/:slug"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
