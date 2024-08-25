@@ -2,49 +2,52 @@
 
 <div class="container mt-4">
   <div class="row justify-content-center">
-  <div class="col-6">
-    <article class="prose mx-auto">
-        <img src="{{ .Page.Params.cover.image }}" alt="{{ .Page.Params.album_name }}" class="img-fluid rounded shadow-lg mb-4">
-        <div class="d-flex flex-wrap mb-4">
-            {{- $artist := .Language.Params.Taxonomies.tag | default "artist"}}
-            {{- range ($.GetTerms $artist) }}
-            <div class="d-flex align-items-center p-1">
-                <a href="{{ .Permalink }}" class="text-decoration-none">
-                    <div class="d-flex">
-                        <span class="bg-secondary text-white small px-2 py-1 rounded-start">Artist</span>
-                        <span class="bg-primary text-white small px-2 py-1 rounded-end">{{ .LinkTitle }}</span>
-                    </div>
-                </a>
+    <div class="col-12 col-md-8 col-lg-6">
+      <img src="{{ .Page.Params.cover.image }}" alt="{{ .Page.Params.album_name }}" class="img-fluid rounded shadow-lg mb-4 w-100">
+      
+      <div class="d-flex flex-wrap mb-4">
+        {{- $artist := .Language.Params.Taxonomies.tag | default "artist"}}
+        {{- range ($.GetTerms $artist) }}
+        <div class="d-flex align-items-center p-1">
+          <a href="{{ .Permalink }}" class="text-decoration-none">
+            <div class="d-flex">
+              <span class="bg-secondary text-white small px-2 py-1 rounded-start">Artist</span>
+              <span class="bg-primary text-white small px-2 py-1 rounded-end">{{ .LinkTitle }}</span>
             </div>
-            {{- end }}
-            {{- range .Params.genres }}
-            <div class="d-flex align-items-center p-1">
-                <a href="/genres/{{ . | urlize }}" class="text-decoration-none">
-                    <div class="d-flex">
-                        <span class="bg-secondary text-white small px-2 py-1 rounded-start">Genre</span>
-                        <span class="bg-primary text-white small px-2 py-1 rounded-end">{{ . }}</span>
-                    </div>
-                </a>
-            </div>
-            {{- end }}
-            {{- range .Params.styles }}
-            <div class="d-flex align-items-center p-1">
-                <a href="/styles/{{ . | urlize }}" class="text-decoration-none">
-                    <div class="d-flex">
-                        <span class="bg-secondary text-white small px-2 py-1 rounded-start">Style</span>
-                        <span class="bg-success text-white small px-2 py-1 rounded-end">{{ . }}</span>
-                    </div>
-                </a>
-            </div>
-            {{- end }}
+          </a>
         </div>
-        <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target="_blank">
-            <button class="btn btn-danger w-100 mt-3"><i class="fab fa-lastfm"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler</button>
-        </a>
-        {{ .Content }}
-    </article>
+        {{- end }}
+        
+        {{- range .Params.genres }}
+        <div class="d-flex align-items-center p-1">
+          <a href="/genres/{{ . | urlize }}" class="text-decoration-none">
+            <div class="d-flex">
+              <span class="bg-secondary text-white small px-2 py-1 rounded-start">Genre</span>
+              <span class="bg-primary text-white small px-2 py-1 rounded-end">{{ . }}</span>
+            </div>
+          </a>
+        </div>
+        {{- end }}
+        
+        {{- range .Params.styles }}
+        <div class="d-flex align-items-center p-1">
+          <a href="/styles/{{ . | urlize }}" class="text-decoration-none">
+            <div class="d-flex">
+              <span class="bg-secondary text-white small px-2 py-1 rounded-start">Style</span>
+              <span class="bg-success text-white small px-2 py-1 rounded-end">{{ . }}</span>
+            </div>
+          </a>
+        </div>
+        {{- end }}
+      </div>
+
+      <button class="btn btn-danger btn-block mb-4 w-100">
+        Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler
+      </button>
+
+      {{ .Content }}
+    </div>
   </div>
-</div>
 </div>
 
 {{ end }}
