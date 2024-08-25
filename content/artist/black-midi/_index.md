@@ -1,6 +1,7 @@
 ---
 title: "Black Midi"
 summary: "Black Midi are an English rock band from London, formed in 2017 and currently consisting of Geordie Greep , Cameron Picton , and Morgan Simpson . The trio have been frequently joined by Seth Evans and Kaidi Akinnibi in both studio and live performances since 2020. Their name is derived from the Japanese electronic music genre black MIDI, though their own music has no relation to it, instead incorporating styles such as math rock, progressive rock, post-punk, and avant-jazz.The band began on producer Dan Carey's record label Speedy Wunderground, through which they released their debut single \"bmbmbm\" in 2018. They released their debut studio album Schlagenheim, produced by Carey, on 21 June 2019, through Rough Trade Records. It received critical acclaim, entered the top 50 of the UK Albums Chart, and was nominated for the 2019 Mercury Prize. An anthology album including several recorded jams and spoken word tracks, The Black Midi Anthology Vol. 1: Tales of Suspense and Revenge, was released on 5 June 2020 exclusively to Bandcamp. In January 2021, founding member Matt Kwasniewski-Kelvin went on hiatus from the group for health reasons. The band's second studio album, Cavalcade, was released on 26 May 2021. Their third studio album, Hellfire, was released on 15 July 2022."
+slug: "black-midi"
 image: "black-midi.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/black-midi/1265994913"
 wikipedia_url: "https://en.wikipedia.org/wiki/Black_Midi"

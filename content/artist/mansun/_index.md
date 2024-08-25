@@ -1,6 +1,7 @@
 ---
 title: "Mansun"
 summary: "English indie rock band, formed in Chester in 1995. Paul Draper - Vocals, Guitar Dominic Chad - Lead Guitar Stove King - Bass Andie Rathbone - Drums Originally named Manson after mass murderer Charles Manson. When they signed to Parlophone, they were asked to change their name due to threatened legal action by the Charles Manson Estate, so they substituted the \"O\" for a \"U\", and one of the stories they put out was that they were named after the Verve song \"A Man Called Sun\". The band was formed in 1995 by Paul Draper, Dominic Chad and Stove King, and were joined in 1996 by Andie Rathbone. Their debut album '' charted at UK #1 on its week of release; with 1998's follow-up '' charting at #6. The third full-length '' didn't sell as well and the band disappeared into obscurity for a short while. In 2002, the band announced a small tour of the UK to test out new material destined for their fourth studio album. However the fourth album was never released and in May 2003, an announcement was made by Dominic Chad that the band were calling it a day due to \"artistic differences\". Fans petitioned Parlophone records to release the fourth album and in 2004 Parlophone released '', a 3xCD set of unreleased recordings, home demos and live material. This was later followed up by '' in 2006."
+slug: "mansun"
 image: "mansun.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/mansun/14632478"
 wikipedia_url: "https://en.wikipedia.org/wiki/Mansun"

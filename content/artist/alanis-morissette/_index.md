@@ -5,6 +5,7 @@ With the stage name of Alanis, she signed a record deal with the Canadian divisi
 Under Rug Swept , her following release, debuted at number one in 12 countries, including the United States , and produced the hit single \"Hands Clean\". The album helped Morissette get the Jack Richardson Producer of the Year Award. Having many leftovers from the Under Rug Swept recording session, Morissette released Feast on Scraps, a CD/DVD package, the same year. So-Called Chaos debuted at number five on Billboard 200 and was less successful. In 2005, Morissette released The Collection, her first and so far the only greatest hits compilation, and Jagged Little Pill Acoustic, which marked a 10-year anniversary of the original album. Her seventh studio set, Flavors of Entanglement, was released in 2008 and became her last album on Maverick Records. Morissette's next studio album, Havoc and Bright Lights, was released on August 28, 2012 through Collective Sounds. The album spawned three singles: \"Guardian\", \"Lens\", and \"Receive\".
 Morissette released her ninth studio album, Such Pretty Forks in the Road, on July 31, 2020. The album's lead single, \"Reasons I Drink\", was released on December 2, 2019.
 On June 17, 2022, Morissette released her debut meditation album, The Storm Before the Calm, in partnership with the Calm app."
+slug: "alanis-morissette"
 image: "alanis-morissette.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/alanis-morissette/1092859"
 wikipedia_url: "https://en.wikipedia.org/wiki/Alanis_Morissette_discography"

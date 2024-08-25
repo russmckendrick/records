@@ -4,6 +4,7 @@ summary: "The Jesus and Mary Chain are a Scottish alternative rock band formed i
 The band's biggest commercial success came with their second album Darklands, which reached No. 5 on the UK Albums Chart in 1987 and spawned the hit single \"April Skies\", peaking at No. 8 in the UK. It was the band's only top ten album.
 After releasing six albums, the band broke up in 1999 as a result of an onstage altercation the year prior that saw William Reid prematurely depart a tour after fighting with an intoxicated Jim Reid. They reunited in 2007 and released the album Damage and Joy in 2017, their first in 19 years.
 The band recorded twelve top 40 singles and two top 10 hits on the UK Singles Chart throughout their career."
+slug: "the-jesus-and-mary-chain"
 image: "the-jesus-and-mary-chain.jpg"
 apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/The_Jesus_and_Mary_Chain"

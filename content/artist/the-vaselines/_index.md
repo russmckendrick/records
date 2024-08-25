@@ -1,6 +1,7 @@
 ---
 title: "The Vaselines"
 summary: "The group was formed in Edinburgh in 1987 by singers/guitarists Eugene Kelly and Frances McKee, who were later joined by Kelly's brother Charles on drums and James Seenan on bass. Soon signing to Pastels frontman Stephan Pastel's newly formed 53rd and 3rd label, the Vaselines' first-ever studio session yielded their debut single, 1987's \"Son of a Gun.\" The follow-up, \"Dying for It,\" appeared a year later, with the inclusion of viola player Sophie Pragnell plainly acknowledging the band's debt to the Velvet Underground. The demise of 53rd and 3rd proved fatal to the Vaselines as well, however, and the group dissolved the same week their lone studio LP, 1989's Dum Dum, was released via Rough Trade, although the following year the original lineup briefly reunited to open for Nirvana in Edinburgh. Nirvana would go on to cover the Vaselines' \"Molly's Lips\" and \"Son of a Gun\" as well as performing \"Jesus Doesn't Want Me for a Sunbeam\" on their now-legendary MTV Unplugged appearance. Renewed interest in the band resulted in the 1992 Sub Pop release of The Way of the Vaselines, an assemblage of all 19 of their official recordings. Eugene Kelly later went on to front Captain America , while McKee spent the better part of the decade out of sight before finally resurfacing in Suckle."
+slug: "the-vaselines"
 image: "the-vaselines.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/the-vaselines/139124616"
 wikipedia_url: "https://en.wikipedia.org/wiki/The_Vaselines"

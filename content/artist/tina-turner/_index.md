@@ -1,6 +1,7 @@
 ---
 title: "Tina Turner"
 summary: "American rock singer, actress and author, with a powerful blues-soaked voice, often referred to as 'The Queen Of Rock 'n' Roll', born 26th November 1939, Brownsville, Tennessee, USA, died 24th May 2023, Küsnacht, Switzerland. On April 22, 2013, she became a citizen of Switzerland and was issued a Swiss passport. T. Turner signed the paperwork to relinquish her American citizenship at the U.S. embassy in Bern on October 24, 2013. Turner began her successful career with hits like \"River Deep, Mountain High\" alongside husband in the 1960s, from whom she separated after years of abuse, as she reported in her autobiography \"I, Tina\". Producer Rupert Hine helped relaunch her career in the 1980s. Singles, such as \"Let's Stay Together\" and the album \"Private Dancer\" put her firmly back into the mainstream, along with roles as 'The Acid Queen' in \"Tommy\" and 'Aunt Entity' in the film \"Mad Max Beyond Thunderdome\". Her single \"We Don't Need Another Hero\", taken from the theme of that movie, was also a big hit. In 2008, Turner came out of semi-retirement and embarked on her \"Tina!: 50th Anniversary Tour\" - one of the largest ticket-sales tours of that year. 'Rolling Stone' magazine has hailed her as \"One of the greatest singers of all time\", reaching unprecedented heights in stadium-filling Rock."
+slug: "tina-turner"
 image: "tina-turner.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/tina-turner/488075"
 wikipedia_url: "none"

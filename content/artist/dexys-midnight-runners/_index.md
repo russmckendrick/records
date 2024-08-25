@@ -1,6 +1,7 @@
 ---
 title: "Dexys Midnight Runners"
 summary: "Dexys Midnight Runners are an English pop rock band from Birmingham, with soul influences, who achieved major commercial success in the early to mid-1980s. They are best known in the UK for their songs \"Come On Eileen\" and \"Geno\", both of which peaked at No. 1 on the UK Singles Chart, as well as six other top-20 singles. \"Come On Eileen\" also topped the US Billboard Hot 100, and with extensive airplay on MTV they are associated with the Second British Invasion.During the late 1970s and early 1980s, Dexys went through numerous personnel changes over the course of three albums and 13 singles, with only singer/songwriter/co-founder Kevin Rowland remaining in the band through all of the transitions and only Rowland and \"Big\" Jim Paterson appearing on all of the albums. By 1985, the band consisted only of Rowland and long-standing members Helen O'Hara and Billy Adams . The band broke up in 1987, with Rowland becoming a solo artist. After two failed restart attempts, Dexys was reformed by Rowland in 2003 with new members, as well as a few returning members from the band's original lineup . Dexys released their fourth album in 2012 and a fifth followed in 2016."
+slug: "dexys-midnight-runners"
 image: "dexys-midnight-runners.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/dexys-midnight-runners/135964"
 wikipedia_url: "https://en.wikipedia.org/wiki/Dexys_Midnight_Runners"

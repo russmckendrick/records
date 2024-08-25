@@ -9,6 +9,7 @@ In January 2011, Egan and Strange hosted Return to the Blitz on the site of the 
 2017 saw the release of Egan's first solo album, 'Welcome to the Dancefloor'. It featured appearances from Midge Ure, Tony Hadley, Peter Hook and Erik Stein of Cult With No Name. The album was subsequently released in remix form as 'Welcome to the Remix' and 'Welcome to the Beach'.
 On Friday 18 October 2019, Rusty performed a DJ set overlaid with a commentary of the post punk music scene at the London Palladium, followed by a performance of a number of Visage hits with long time collaborator and friend Midge Ure.
 Egan married freelance dancer Miranda Davis in July 1986."
+slug: "rusty-egan"
 image: "rusty-egan.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/rusty-egan/41821550"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rusty_Egan"

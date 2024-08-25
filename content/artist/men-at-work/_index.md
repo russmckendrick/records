@@ -4,6 +4,7 @@ summary: "Men at Work are an Australian rock band formed in Melbourne in 1978 an
 They won the Grammy Award for Best New Artist in 1983, they were inducted into the ARIA Hall of Fame in 1994, and they have sold over 30 million albums worldwide. In May 2001, \"Down Under\" was listed at No. 4 on the APRA Top 30 Australian songs and Business as Usual appeared in the book 100 Best Australian Albums .
 In 1984, Speiser and Rees were asked to leave the group, leaving Hay, Ham, and Strykert as a trio, accompanied by session musicians. During the recording of the Two Hearts album, Strykert decided to leave. Soon after the 1985 release of Two Hearts, Ham left also, leaving Hay as the sole remaining member. Hay elected to work as a solo artist shortly thereafter in early 1986, and the Men at Work name was retired.
 From 1996 until 2002, Hay and Ham revived the name and toured the world as Men at Work . On 19 April 2012, Ham was found dead at his home from an apparent heart attack.In 2019, Hay once again revived the Men at Work moniker and began touring with another new group of musicians. No other previous Men At Work members are involved in the current revival."
+slug: "men-at-work"
 image: "men-at-work.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/men-at-work/15412031"
 wikipedia_url: "https://en.wikipedia.org/wiki/Men_at_Work"

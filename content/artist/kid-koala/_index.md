@@ -4,6 +4,7 @@ summary: "Eric San , aka Kid Koala, is a Canadian scratch DJ, music producer, th
 Kid Koala has toured with Radiohead, the Beastie Boys, Arcade Fire, Money Mark, A Tribe Called Quest, Mike Patton, DJ Shadow and The Preservation Hall Jazz Band. He has contributed to scores for the films The Great Gatsby, Baby Driver, Scott Pilgrim vs. The World, Men Women and Children, Shaun of the Dead and Looper amongst others. He has composed music for The National Film Board of Canada, the Cartoon Network, Sesame Street and Adult Swim. He has also been commissioned to create music for runway shows for Belgian fashion designer Dries Van Noten.
 Kid Koala's live shows range from touring turntable carnivals like Vinyl Vaudeville, to immersive multimedia shows like Nufonia Must Fall, The Storyville Mosquito, Satellite Turntable Orchestra and his Space Cadet Headphone Concert; each of which express his unique form of storytelling with music, animation, film and interactive entertainment.
 Kid Koala has toured 6 continents and lives with his wife and two daughters in Montreal, Canada."
+slug: "kid-koala"
 image: "kid-koala.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/kid-koala/3629510"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kid_Koala"

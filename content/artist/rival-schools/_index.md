@@ -5,6 +5,7 @@ Formed by Schreifels, frontman of Quicksand, Rival Schools is a hardcore supergr
 The band's name comes from the Capcom fighting game Rival Schools: United By Fate. In their short history, the band toured both the United Kingdom and the United States.
 In 2008, the band reformed to play some live shows, including Soundwave in Australia, Rock Am Ring in Germany, Hove Festival in Norway, a headline tour and Download Festival in the United Kingdom.
 On November 16, 2010, the band released the deluxe single for \"Shot After Shot\" on iTunes from the forthcoming record Pedals, which was released March 8, 2011. Rival Schools released their third album, Found, on April 9, 2013. Following a tour in support of the album, the band became inactive once again, before reuniting in 2022 to celebrate the 20th anniversary of United By Fate."
+slug: "rival-schools"
 image: "rival-schools.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/rival-schools/407052"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rival_Schools_(band)"

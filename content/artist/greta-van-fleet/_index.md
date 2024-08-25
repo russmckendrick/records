@@ -1,6 +1,7 @@
 ---
 title: "Greta Van Fleet"
 summary: "Greta Van Fleet is an American rock band from Frankenmuth, Michigan, formed in 2012. It consists of Kiszka brothers: twins Josh and Jake , and Sam ; and Danny Wagner . They were signed to Lava Records in March 2017, and a month later they released their debut studio EP, Black Smoke Rising. Their debut single, \"Highway Tune\", topped the Billboard U.S. Mainstream Rock and Active Rock charts in September 2017 for four weeks in a row. Their second EP, From the Fires, containing the four songs from Black Smoke Rising and four new songs, was released on November 10, 2017, alongside a second single, \"Safari Song\". From the Fires went on to win the 2019 Grammy Award for Best Rock Album.Their debut full-length studio album, Anthem of the Peaceful Army, was released on October 19, 2018, and topped the Billboard Rock Album charts in the first week after its release. The album's first single, \"When the Curtain Falls\", was released ahead of it in July 2018 and became the band's third number-one single on the U.S. Billboard Mainstream Rock charts. Anthem of the Peaceful Army also debuted atop the Billboard Hard Rock charts and reached the number one spot on the Billboard Top Album Sales charts in the first week after its release. A second studio album, The Battle at Garden's Gate, was released on April 16, 2021."
+slug: "greta-van-fleet"
 image: "greta-van-fleet.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/greta-van-fleet/646178956"
 wikipedia_url: "https://en.wikipedia.org/wiki/Greta_Van_Fleet"

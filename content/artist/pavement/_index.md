@@ -1,6 +1,7 @@
 ---
 title: "Pavement"
 summary: "Pavement is an American indie rock band that formed in Stockton, California, in 1989. For most of their career, the group consisted of Stephen Malkmus , Scott Kannberg , Mark Ibold , Steve West and Bob Nastanovich . Initially conceived as a recording project, the band at first avoided press or live performances, while attracting considerable underground attention with their early releases. Gradually evolving into a more polished band, Pavement recorded five full-length albums and ten EPs over the course of their decade-long career, though they disbanded with some acrimony in 1999 and 2000 as the members moved on to other projects. In 2010, they undertook a well-received reunion tour, with another international tour currently ongoing in 2022 and 2023.Though only briefly attracting mainstream attention with the single \"Cut Your Hair\" in 1994, Pavement was a successful indie rock band. Rather than signing with a major label as many of their 1980s forebears had done, they remained signed to independent labels throughout their career, including Flying Nun and Matador. They have often been described as one of the most influential bands to emerge from the American underground in the '90s. Some prominent music critics, such as Robert Christgau and Stephen Thomas Erlewine, called them the best band of the 1990s. They have achieved a cult following."
+slug: "pavement"
 image: "pavement.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/pavement/2988588"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pavement_(band)"

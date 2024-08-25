@@ -1,6 +1,7 @@
 ---
 title: "Tim Finn"
 summary: "Brian Timothy Finn is a New Zealand singer, songwriter, musician, and composer. He is best known as a founding member of Split Enz. Finn founded the band in 1972 with Phil Judd and served as lead singer and principal songwriter. Following Judd's departure in 1977, he was joined by brother Neil. Finn wrote or co-wrote some of the band's best-known songs, including \"I See Red\" and \"Six Months in a Leaky Boat\". While still a member of Split Enz, he began a solo career, scoring the two hits \"Fraction Too Much Friction\" and \"Made My Day\" in 1983; he left the band in 1984. He reunited with Neil and subsequently joined Crowded House for their third album Woodface, co-writing the majority of the songs on the album, including the hits \"Four Seasons in One Day\", \"Weather with You\" and \"It's Only Natural\". Leaving the band after the album's release, he reunited with Neil again later in the 1990s under the name Finn Brothers. Finn has participated in various collaborations with other artists, including former Split Enz members, and has also composed scores for films and musicals. Along with his brother, Finn was appointed Officer of the Order of British Empire in 1993 for his services to music."
+slug: "tim-finn"
 image: "tim-finn.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/tim-finn/282627"
 wikipedia_url: "https://en.wikipedia.org/wiki/Tim_Finn"

@@ -5,6 +5,7 @@ The band was initially formed in 2005 by Healy, who had played in several bands 
 In August 2014, North Atlantic Oscillation announced their third studio album 'The Third Day'. The album was released on 6 October 2014 via Kscope.
 In 2016, Healy released a second Sand album, A Sleeper, Just Awake, on the Vineland Music label.
 In November 2018, North Atlantic Oscillation released their fourth album Grind Show on the Vineland Music label."
+slug: "north-atlantic-oscillation"
 image: "north-atlantic-oscillation.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/north-atlantic-oscillation/428022135"
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Atlantic_Oscillation_(band)"

@@ -1,6 +1,7 @@
 ---
 title: "The Undertones"
 summary: "The Undertones are a rock band formed in Derry, Northern Ireland in 1974. From 1975 to 1983, the Undertones consisted of Feargal Sharkey , John O'Neill , Damian O'Neill , Michael Bradley and Billy Doherty . Much of the earlier Undertones material drew influence from punk rock and new wave; the Undertones also incorporated elements of rock, glam rock and post-punk into material released after 1979, before citing soul and Motown as the influence for the material released upon their final album. The Undertones released thirteen singles and four studio albums between 1978 and 1983 before Sharkey announced his intention to leave the band in May 1983, citing musical differences as the reason for the break up.Despite the backdrop of the Troubles in Derry and across Northern Ireland, the vast majority of the material the Undertones released focused not upon the political climate, but upon issues such as adolescence, teenage angst and heartbreak. AllMusic has stated that guitarists John and Damian O'Neill \"mated infectious guitar hooks to 1960s garage, 1970s glam rock, and Feargal Sharkey's signature vocal quaver.\"In 1999, the Undertones reformed, replacing lead singer Sharkey with Paul McLoone.The Undertones remain the most successful band to have emerged from Derry, and one of the most successful bands to have emerged from Northern Ireland."
+slug: "the-undertones"
 image: "the-undertones.jpg"
 apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/The_Undertones"

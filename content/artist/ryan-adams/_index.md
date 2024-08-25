@@ -6,6 +6,7 @@ After breaking his wrist during a live performance, Adams took a short break, an
 In 2015, Adams released 1989, a song-for-song cover of Taylor Swift's album of the same name, and worked on up to 80 songs for an album influenced by his divorce from actress and singer-songwriter Mandy Moore. The album, Prisoner, was released in 2017.
 In 2019, Adams announced three albums to be released that year. However, the release of these albums was indefinitely delayed after seven women came forward with sexual misconduct allegations against him. He later issued an apology, and the FBI cleared him of any potential criminal charges. Adams eventually released the planned albums, Wednesdays, Big Colors, and Chris, yearly from 2020 to 2022. Chris was followed by three further albums, all released in 2022 as well.
 In addition to his own material, Adams has also produced albums for Willie Nelson, Jesse Malin, Jenny Lewis, and Fall Out Boy, and has collaborated with Counting Crows, Weezer, Norah Jones, America, Minnie Driver, Cowboy Junkies, Leona Naess, Toots and the Maytals, Beth Orton and Krista Polvere. He has written Infinity Blues, a book of poems, and Hello Sunshine, a collection of poems and short stories."
+slug: "ryan-adams"
 image: "ryan-adams.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/ryan-adams/1010602"
 wikipedia_url: "https://en.wikipedia.org/wiki/Ryan_Adams"

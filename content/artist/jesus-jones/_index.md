@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones"
 summary: "Mike Edwards and Simon Matthews began gigging around prior to 1986 when they met Alan Doughty . Together they created \"Camouflage\" . Having no commercial luck they reformed as \"Big Colour\" again with no joy. Eventually after a trip to Spain \"Jesus Jones\" was born and fleshed out with the addition of Iain \"Barry D\" Baker and Jerry de Abela Borg . Finally the bouncy one had harrassed Food Records enough that they were given a deal. I believe the demo included Info Freako, Cut & Dried and Welcome Back Victoria. After EMI became more involved in Food they wanted more control over the records, and the album \"Already\" suffered. It took too long in coming out and received no support from the label. Eventually Jesus Jones were dropped, although Mike Edwards was retained. Gen left the band after a conflicting schedule with his other projects of \"Baby Chaos\", \"Regency Buck\" and \"Deckard\". Tony Arthy joined the band as the new drummer. Koch Records then signed the band and \"London\" was released to good critical praise, but no commercial success. Two singles were lifted from the album, but were largely produced by the Mike Edwards. Since then they released \"Culture Vulture\" a 4 track single with the elements of the title track to be used to create fan mixes. The results of which are on the official site."
+slug: "jesus-jones"
 image: "jesus-jones.jpg"
 apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Jesus_Jones"

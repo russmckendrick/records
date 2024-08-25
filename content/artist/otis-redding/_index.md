@@ -5,6 +5,7 @@ Redding was born in Dawson, Georgia, and at age two, moved to Macon. Redding qui
 Stax released Redding's debut album, Pain in My Heart, two years later. Initially popular mainly with African-Americans, Redding later reached a wider American pop music audience. Along with his group, he first played small shows in the American South. Redding later performed at the popular Los Angeles night club Whisky a Go Go and toured Europe, performing in London, Paris and other major cities. He also performed at the Monterey Pop Festival in 1967.
 Shortly before his death in a plane crash, Redding wrote and recorded his iconic \" The Dock of the Bay\" with Steve Cropper. The song became the first posthumous number-one record on both the Billboard Hot 100 and R&B charts. The album The Dock of the Bay was the first posthumous album to reach number one on the UK Albums Chart. Redding's premature death devastated Stax. Already on the verge of bankruptcy, the label soon discovered that the Atco division of Atlantic Records owned the rights to his entire song catalog.
 Redding received many posthumous accolades, including two Grammy Awards, the Grammy Lifetime Achievement Award and induction into the Rock and Roll Hall of Fame, the Black Music & Entertainment Walk of Fame. and the Songwriters Hall of Fame. In addition to \" The Dock of the Bay\", \"Respect\" and \"Try a Little Tenderness\" are among his best-known songs."
+slug: "otis-redding"
 image: "otis-redding.jpg"
 apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Otis_Redding"

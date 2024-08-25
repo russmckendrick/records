@@ -1,6 +1,7 @@
 ---
 title: "Michael Jackson"
 summary: "American singer, dancer, entertainer, songwriter, producer and recording artist. Born: 29 August 1958 in Gary, Indiana, USA. Died: 25 June 2009 in Los Angeles, California, USA . Known affectionately as the \"King Of Pop\", Jackson was a singer, dancer, musician, music producer, writer, entertainer, singer-songwriter, choreographer, record producer, recording artist, poet, arranger, businessman, philanthropist, actor and voice artist. He is one of the most celebrated and influential music artists of all time. Jackson began his career as the youngest member of and started his solo recording career in 1971. Brother of recording artists , , , , , , & , as well as uncle of . Inducted into Rock And Roll Hall of Fame in 2001 . On June 25, 2009, Michael Jackson died of acute propofol and benzodiazepine intoxication at his home on North Carolwood Drive in the Holmby Hills neighborhood of Los Angeles, CA. His personal physician, Conrad Murray, said he had found Jackson in his room, not breathing and with a barely detectable pulse, and that he administered CPR on Jackson to no avail. After a call was placed to 9-1-1 at 12:21 p.m., Jackson was treated by paramedics at the scene and was later pronounced dead at the Ronald Reagan UCLA Medical Center."
+slug: "michael-jackson"
 image: "michael-jackson.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/michael-jackson/32940"
 wikipedia_url: "none"

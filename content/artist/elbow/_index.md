@@ -1,6 +1,7 @@
 ---
 title: "Elbow"
 summary: "Alternative rock band from, Bury, Greater Manchester, England. Formed in 1990, originally called Mr. Soft and comprised of guitarist and back up vocalist Mark Potter, bassist Pete Turner and drummer Richard Jupp. Vocalist, guitarist and lyricist Guy Garvey was asked by Mark to join the band when they met at college . Mark's brother keyboardist and back up vocalist Craig Potter joined soon afterwards. They changed their name to Elbow in 1997 after Guy heard a character from a BBC TV Drama \"The Singing Detective\" say that the word \"Elbow\" is the most sensual word in the English language, not for its definition, but for how it feels to say and how it looks on the page. They were also signed by in 1997, but due to a takeover and indie band jettison-attitude by in 1998, their produced debut album was scrapped. Only a self-issued ultra rare E.P. and a compilation appearance of one of the songs document this period. In 2000 they put out their first release proper, an E.P. on a small indie label before they were eventually signed to Richard Branson's in 2001. Winner of the 2008 Mercury Prize for *The Seldom Seen Kid*. Drummer Richard Jupp left the band of his own choice to pursue drum tutoring in 2016."
+slug: "elbow"
 image: "elbow.jpg"
 apple_music_artist_url: "https://music.apple.com/gb/artist/elbow/3240611"
 wikipedia_url: "https://en.wikipedia.org/wiki/Elbow_(band)"
