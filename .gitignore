@@ -1,5 +1,5 @@
 .hugo_build.lock
 **/node_modules/*
-resources*
+resources
 node_modules
 public
