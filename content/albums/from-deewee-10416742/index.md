@@ -1,6 +1,7 @@
 ---
 title: "Soulwax - From Deewee"
-artist: "Soulwax"
+artist_name: "Soulwax"
+artist: "soulwax"
 album_name: "From Deewee"
 date: 2017-06-09T16:12:41.000000Z
 release_date: "2017-03-24"

@@ -1,6 +1,7 @@
 ---
 title: "Supergrass - I Should Coco"
-artist: "Supergrass"
+artist_name: "Supergrass"
+artist: "supergrass"
 album_name: "I Should Coco"
 date: 2020-07-31T16:41:08.000000Z
 release_id: "7490505"

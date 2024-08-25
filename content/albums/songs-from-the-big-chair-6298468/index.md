@@ -1,6 +1,7 @@
 ---
 title: "Tears For Fears - Songs From The Big Chair"
-artist: "Tears For Fears"
+artist_name: "Tears For Fears"
+artist: "tears-for-fears"
 album_name: "Songs From The Big Chair"
 date: 2016-03-24T16:33:28.000000Z
 release_date: "1985-02-25"

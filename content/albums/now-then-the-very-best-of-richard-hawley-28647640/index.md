@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - Now Then: The Very Best Of Richard Hawley"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "Now Then: The Very Best Of Richard Hawley"
 date: 2023-11-13T06:33:46.000000Z
 release_id: "28647640"

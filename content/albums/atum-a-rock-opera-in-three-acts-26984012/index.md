@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - ATUM (A Rock Opera In Three Acts)"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "ATUM (A Rock Opera In Three Acts)"
 date: 2023-05-12T02:09:32.000000Z
 release_id: "26984012"

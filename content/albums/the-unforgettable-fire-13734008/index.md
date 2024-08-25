@@ -1,6 +1,7 @@
 ---
 title: "U2 - The Unforgettable Fire"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "The Unforgettable Fire"
 date: 2019-06-15T14:34:37.000000Z
 release_id: "13734008"

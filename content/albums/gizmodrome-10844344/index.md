@@ -1,6 +1,7 @@
 ---
 title: "Gizmodrome - Gizmodrome"
-artist: "Gizmodrome"
+artist_name: "Gizmodrome"
+artist: "gizmodrome"
 album_name: "Gizmodrome"
 date: 2017-09-15T13:05:04.000000Z
 release_id: "10844344"

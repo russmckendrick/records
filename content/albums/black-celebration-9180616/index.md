@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Black Celebration"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Black Celebration"
 date: 2016-12-04T11:07:46.000000Z
 release_id: "9180616"

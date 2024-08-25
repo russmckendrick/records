@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Everything Must Go"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Everything Must Go"
 date: 2016-07-18T17:36:27.000000Z
 release_date: "1996-05"

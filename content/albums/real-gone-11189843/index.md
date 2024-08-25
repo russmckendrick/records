@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Real Gone"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Real Gone"
 date: 2018-01-22T19:17:14.000000Z
 release_id: "11189843"

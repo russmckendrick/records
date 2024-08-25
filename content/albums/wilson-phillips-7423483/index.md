@@ -1,6 +1,7 @@
 ---
 title: "Wilson Phillips - Wilson Phillips"
-artist: "Wilson Phillips"
+artist_name: "Wilson Phillips"
+artist: "wilson-phillips"
 album_name: "Wilson Phillips"
 date: 2018-11-01T07:46:55.000000Z
 release_id: "7423483"

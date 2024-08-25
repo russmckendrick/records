@@ -1,6 +1,7 @@
 ---
 title: "Ozzy Osbourne - Memoirs Of A Madman"
-artist: "Ozzy Osbourne"
+artist_name: "Ozzy Osbourne"
+artist: "ozzy-osbourne"
 album_name: "Memoirs Of A Madman"
 date: 2016-05-09T16:30:08.000000Z
 release_id: "6175350"

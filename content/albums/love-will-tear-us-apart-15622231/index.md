@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Love Will Tear Us Apart"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Love Will Tear Us Apart"
 date: 2020-07-17T12:24:17.000000Z
 release_id: "15622231"

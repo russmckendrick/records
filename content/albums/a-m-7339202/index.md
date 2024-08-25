@@ -1,6 +1,7 @@
 ---
 title: "Wilco - A.M."
-artist: "Wilco"
+artist_name: "Wilco"
+artist: "wilco"
 album_name: "A.M."
 date: 2017-03-17T18:37:27.000000Z
 release_id: "7339202"

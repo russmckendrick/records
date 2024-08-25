@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Secret World Live"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Secret World Live"
 date: 2022-08-11T01:53:37.000000Z
 release_id: "16094641"

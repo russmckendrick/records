@@ -1,6 +1,7 @@
 ---
 title: "The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)"
-artist: "The Blues Brothers"
+artist_name: "The Blues Brothers"
+artist: "the-blues-brothers"
 album_name: "The Blues Brothers (Original Soundtrack Recording)"
 date: 2020-10-09T10:18:32.000000Z
 release_date: "1980-06"

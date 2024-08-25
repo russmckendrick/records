@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - (Brawd Bach) Rings Around The World"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "(Brawd Bach) Rings Around The World"
 date: 2022-06-18T05:46:20.000000Z
 release_id: "23612801"

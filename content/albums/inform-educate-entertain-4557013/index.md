@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - Inform - Educate - Entertain"
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "Inform - Educate - Entertain"
 date: 2015-10-12T18:44:38.000000Z
 release_id: "4557013"

@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Foxtrot"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Foxtrot"
 date: 2018-08-03T18:44:42.000000Z
 release_id: "12333315"

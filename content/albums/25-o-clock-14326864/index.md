@@ -1,6 +1,7 @@
 ---
 title: "XTC - 25 O'Clock"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "25 O'Clock"
 date: 2019-10-30T17:52:51.000000Z
 release_id: "14326864"

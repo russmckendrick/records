@@ -1,6 +1,7 @@
 ---
 title: "Anathema - We're Here Because We're Here"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "We're Here Because We're Here"
 date: 2020-03-21T16:17:46.000000Z
 release_id: "14963699"

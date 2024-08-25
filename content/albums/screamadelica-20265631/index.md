@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Screamadelica"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Screamadelica"
 date: 2021-09-23T03:03:29.000000Z
 release_date: "1991-09-23"

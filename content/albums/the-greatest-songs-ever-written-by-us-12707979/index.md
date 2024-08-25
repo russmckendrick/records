@@ -1,6 +1,7 @@
 ---
 title: "NOFX - The Greatest Songs Ever Written... By Us"
-artist: "NOFX"
+artist_name: "NOFX"
+artist: "nofx"
 album_name: "The Greatest Songs Ever Written... By Us"
 date: 2018-11-26T19:24:14.000000Z
 release_id: "12707979"

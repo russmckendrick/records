@@ -1,6 +1,7 @@
 ---
 title: "Belly - Dove"
-artist: "Belly"
+artist_name: "Belly"
+artist: "belly"
 album_name: "Dove"
 date: 2018-05-04T19:00:44.000000Z
 release_id: "11957072"

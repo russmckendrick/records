@@ -1,6 +1,7 @@
 ---
 title: "The Chemical Brothers - Dig Your Own Hole"
-artist: "The Chemical Brothers"
+artist_name: "The Chemical Brothers"
+artist: "the-chemical-brothers"
 album_name: "Dig Your Own Hole"
 date: 2017-07-07T16:52:31.000000Z
 release_id: "10501063"

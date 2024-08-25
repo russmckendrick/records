@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Best Of"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Best Of"
 date: 2024-04-20T07:59:29.000000Z
 release_id: "30441302"

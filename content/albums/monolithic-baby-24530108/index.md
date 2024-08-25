@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Monolithic Baby!"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Monolithic Baby!"
 date: 2022-10-01T04:05:35.000000Z
 release_id: "24530108"

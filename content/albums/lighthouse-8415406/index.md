@@ -1,6 +1,7 @@
 ---
 title: "Iamthemorning - Lighthouse"
-artist: "Iamthemorning"
+artist_name: "Iamthemorning"
+artist: "iamthemorning"
 album_name: "Lighthouse"
 date: 2016-04-29T18:05:33.000000Z
 release_id: "8415406"

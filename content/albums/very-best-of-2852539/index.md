@@ -1,6 +1,7 @@
 ---
 title: "Morrissey - Very Best Of"
-artist: "Morrissey"
+artist_name: "Morrissey"
+artist: "morrissey"
 album_name: "Very Best Of"
 date: 2017-05-04T21:09:51.000000Z
 release_id: "2852539"

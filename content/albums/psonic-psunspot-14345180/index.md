@@ -1,6 +1,7 @@
 ---
 title: "XTC - Psonic Psunspot"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Psonic Psunspot"
 date: 2019-11-02T09:25:09.000000Z
 release_id: "14345180"

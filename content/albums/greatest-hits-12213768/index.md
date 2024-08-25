@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Greatest Hits"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Greatest Hits"
 date: 2022-05-31T04:18:22.000000Z
 release_id: "12213768"

@@ -1,6 +1,7 @@
 ---
 title: "The B-52's - Wild Planet"
-artist: "The B-52's"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "Wild Planet"
 date: 2020-07-14T11:08:21.000000Z
 release_id: "13930651"

@@ -1,6 +1,7 @@
 ---
 title: "Field Music - Flat White Moon"
-artist: "Field Music"
+artist_name: "Field Music"
+artist: "field-music"
 album_name: "Flat White Moon"
 date: 2021-04-23T04:31:25.000000Z
 release_id: "18420103"

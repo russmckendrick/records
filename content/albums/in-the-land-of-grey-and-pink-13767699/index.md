@@ -1,6 +1,7 @@
 ---
 title: "Caravan - In The Land Of Grey And Pink"
-artist: "Caravan"
+artist_name: "Caravan"
+artist: "caravan"
 album_name: "In The Land Of Grey And Pink"
 date: 2019-06-16T21:51:59.000000Z
 release_id: "13767699"

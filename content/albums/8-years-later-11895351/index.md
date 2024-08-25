@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - 8 Years Later "
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "8 Years Later "
 date: 2018-05-05T10:12:53.000000Z
 release_id: "11895351"

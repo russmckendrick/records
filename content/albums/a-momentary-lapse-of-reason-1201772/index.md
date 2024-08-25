@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - A Momentary Lapse Of Reason"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "A Momentary Lapse Of Reason"
 date: 2016-03-24T19:08:12.000000Z
 release_date: "1987-09-07"

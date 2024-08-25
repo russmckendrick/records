@@ -1,6 +1,7 @@
 ---
 title: "Jane Weaver - The Architect"
-artist: "Jane Weaver"
+artist_name: "Jane Weaver"
+artist: "jane-weaver"
 album_name: "The Architect"
 date: 2017-12-11T19:45:45.000000Z
 release_id: "11045283"

@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Check Your Head"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Check Your Head"
 date: 2016-09-05T12:29:43.000000Z
 release_date: "1992-04-21"

@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Insurgentes"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Insurgentes"
 date: 2016-12-10T10:46:58.000000Z
 release_id: "1710444"

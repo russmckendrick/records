@@ -1,6 +1,7 @@
 ---
 title: "Dr. Hook - Gold"
-artist: "Dr. Hook"
+artist_name: "Dr. Hook"
+artist: "dr-hook"
 album_name: "Gold"
 date: 2022-10-21T09:00:43.000000Z
 release_id: "17603065"

@@ -1,6 +1,7 @@
 ---
 title: "Katatonia - City Burials"
-artist: "Katatonia"
+artist_name: "Katatonia"
+artist: "katatonia"
 album_name: "City Burials"
 date: 2020-05-02T11:48:57.000000Z
 release_date: "2020-04-24"

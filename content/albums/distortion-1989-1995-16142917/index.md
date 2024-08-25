@@ -1,6 +1,7 @@
 ---
 title: "Bob Mould - Distortion: 1989 - 1995"
-artist: "Bob Mould"
+artist_name: "Bob Mould"
+artist: "bob-mould"
 album_name: "Distortion: 1989 - 1995"
 date: 2020-11-05T18:48:49.000000Z
 release_id: "16142917"

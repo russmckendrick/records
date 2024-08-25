@@ -1,6 +1,7 @@
 ---
 title: "St. Vincent - Masseduction"
-artist: "St. Vincent"
+artist_name: "St. Vincent"
+artist: "st-vincent"
 album_name: "Masseduction"
 date: 2017-10-13T18:10:27.000000Z
 release_date: "2017-10-13"

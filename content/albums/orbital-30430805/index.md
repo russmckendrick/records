@@ -1,6 +1,7 @@
 ---
 title: "Orbital - Orbital"
-artist: "Orbital"
+artist_name: "Orbital"
+artist: "orbital"
 album_name: "Orbital"
 date: 2024-04-20T07:59:40.000000Z
 release_id: "30430805"

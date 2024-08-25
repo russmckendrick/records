@@ -1,6 +1,7 @@
 ---
 title: "Clipse - Lord Willin'"
-artist: "Clipse"
+artist_name: "Clipse"
+artist: "clipse"
 album_name: "Lord Willin'"
 date: 2018-05-12T12:59:24.000000Z
 release_id: "11978254"

@@ -1,6 +1,7 @@
 ---
 title: "The Stone Roses - The Very Best Of The Stone Roses"
-artist: "The Stone Roses"
+artist_name: "The Stone Roses"
+artist: "the-stone-roses"
 album_name: "The Very Best Of The Stone Roses"
 date: 2020-07-15T10:37:43.000000Z
 release_id: "8632444"

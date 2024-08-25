@@ -1,6 +1,7 @@
 ---
 title: "Neneh Cherry - Raw Like Sushi"
-artist: "Neneh Cherry"
+artist_name: "Neneh Cherry"
+artist: "neneh-cherry"
 album_name: "Raw Like Sushi"
 date: 2020-01-31T18:59:29.000000Z
 release_id: "14721225"

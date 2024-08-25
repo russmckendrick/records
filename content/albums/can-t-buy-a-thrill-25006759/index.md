@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Can't Buy A Thrill"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Can't Buy A Thrill"
 date: 2022-11-04T06:14:33.000000Z
 release_id: "25006759"

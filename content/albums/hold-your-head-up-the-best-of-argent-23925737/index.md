@@ -1,6 +1,7 @@
 ---
 title: "Argent - Hold Your Head Up - The Best Of Argent"
-artist: "Argent"
+artist_name: "Argent"
+artist: "argent"
 album_name: "Hold Your Head Up - The Best Of Argent"
 date: 2023-07-30T11:13:07.000000Z
 release_id: "23925737"

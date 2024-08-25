@@ -1,6 +1,7 @@
 ---
 title: "Allen Toussaint - American Tunes"
-artist: "Allen Toussaint"
+artist_name: "Allen Toussaint"
+artist: "allen-toussaint"
 album_name: "American Tunes"
 date: 2016-07-01T18:30:13.000000Z
 release_date: "2016-06-10"

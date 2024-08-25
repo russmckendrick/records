@@ -1,6 +1,7 @@
 ---
 title: "The Smiths - The Queen Is Dead"
-artist: "The Smiths"
+artist_name: "The Smiths"
+artist: "the-smiths"
 album_name: "The Queen Is Dead"
 date: 2018-01-20T19:11:07.000000Z
 release_date: "1986-06-16"

@@ -1,6 +1,7 @@
 ---
 title: "The Allman Brothers Band - The Allman Brothers Band"
-artist: "The Allman Brothers Band"
+artist_name: "The Allman Brothers Band"
+artist: "the-allman-brothers-band"
 album_name: "The Allman Brothers Band"
 date: 2017-01-23T17:30:46.000000Z
 release_id: "9275505"

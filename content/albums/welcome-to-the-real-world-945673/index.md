@@ -1,6 +1,7 @@
 ---
 title: "Mr. Mister - Welcome To The Real World"
-artist: "Mr. Mister"
+artist_name: "Mr. Mister"
+artist: "mr-mister"
 album_name: "Welcome To The Real World"
 date: 2018-09-07T18:30:44.000000Z
 release_id: "945673"

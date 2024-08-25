@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Ice Hockey Hair EP"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Ice Hockey Hair EP"
 date: 2021-06-18T04:50:29.000000Z
 release_id: "19111489"

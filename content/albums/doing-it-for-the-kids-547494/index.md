@@ -1,6 +1,7 @@
 ---
 title: "Various - Doing It For The Kids"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Doing It For The Kids"
 date: 2016-11-16T13:03:18.000000Z
 release_id: "547494"

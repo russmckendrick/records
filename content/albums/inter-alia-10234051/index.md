@@ -1,6 +1,7 @@
 ---
 title: "At The Drive-In - in•ter a•li•a"
-artist: "At The Drive-In"
+artist_name: "At The Drive-In"
+artist: "at-the-drive-in"
 album_name: "in•ter a•li•a"
 date: 2017-05-05T17:27:45.000000Z
 release_id: "10234051"

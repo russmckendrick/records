@@ -1,6 +1,7 @@
 ---
 title: "Roni Size / Reprazent - New Forms"
-artist: "Roni Size / Reprazent"
+artist_name: "Roni Size / Reprazent"
+artist: "roni-size-reprazent"
 album_name: "New Forms"
 date: 2017-11-10T19:27:48.000000Z
 release_id: "11115907"

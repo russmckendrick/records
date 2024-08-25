@@ -1,6 +1,7 @@
 ---
 title: "Gruff Rhys - Sadness Sets Me Free"
-artist: "Gruff Rhys"
+artist_name: "Gruff Rhys"
+artist: "gruff-rhys"
 album_name: "Sadness Sets Me Free"
 date: 2024-02-02T00:43:24.000000Z
 release_id: "29584693"

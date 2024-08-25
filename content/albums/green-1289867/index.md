@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Green"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Green"
 date: 2016-01-20T19:29:13.000000Z
 release_id: "1289867"

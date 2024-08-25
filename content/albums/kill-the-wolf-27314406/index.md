@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Kill The Wolf"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Kill The Wolf"
 date: 2023-06-07T10:39:17.000000Z
 release_id: "27314406"

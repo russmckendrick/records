@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - Life"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "Life"
 date: 2021-11-22T01:21:47.000000Z
 release_id: "21039049"

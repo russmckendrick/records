@@ -1,6 +1,7 @@
 ---
 title: "Underworld - Dubnobasswithmyheadman"
-artist: "Underworld"
+artist_name: "Underworld"
+artist: "underworld"
 album_name: "Dubnobasswithmyheadman"
 date: 2015-10-10T16:14:49.000000Z
 release_date: "2014-01-01"

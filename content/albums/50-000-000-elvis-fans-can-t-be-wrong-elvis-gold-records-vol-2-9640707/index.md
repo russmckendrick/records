@@ -1,6 +1,7 @@
 ---
 title: "Elvis Presley - 50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
-artist: "Elvis Presley"
+artist_name: "Elvis Presley"
+artist: "elvis-presley"
 album_name: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
 date: 2021-06-07T10:54:03.000000Z
 release_date: "1959-11-13"

@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Every Country's Sun"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Every Country's Sun"
 date: 2017-09-02T08:07:44.000000Z
 release_id: "10769899"

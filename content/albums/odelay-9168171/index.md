@@ -1,6 +1,7 @@
 ---
 title: "Beck - Odelay"
-artist: "Beck"
+artist_name: "Beck"
+artist: "beck"
 album_name: "Odelay"
 date: 2016-10-21T17:27:55.000000Z
 release_date: "1996-01-01"

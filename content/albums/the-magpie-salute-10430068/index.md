@@ -1,6 +1,7 @@
 ---
 title: "The Magpie Salute - The Magpie Salute"
-artist: "The Magpie Salute"
+artist_name: "The Magpie Salute"
+artist: "the-magpie-salute"
 album_name: "The Magpie Salute"
 date: 2017-07-02T11:14:23.000000Z
 release_id: "10430068"

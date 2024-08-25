@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Speak & Spell"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Speak & Spell"
 date: 2017-02-15T18:28:58.000000Z
 release_id: "8953011"

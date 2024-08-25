@@ -1,6 +1,7 @@
 ---
 title: "Therapy? - Nurse"
-artist: "Therapy?"
+artist_name: "Therapy?"
+artist: "therapy"
 album_name: "Nurse"
 date: 2019-05-16T17:40:00.000000Z
 release_id: "415845"

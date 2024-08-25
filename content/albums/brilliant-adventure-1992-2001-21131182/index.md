@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Brilliant Adventure [1992-2001]"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Brilliant Adventure [1992-2001]"
 date: 2021-11-27T01:10:55.000000Z
 release_id: "21131182"

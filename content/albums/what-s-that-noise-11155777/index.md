@@ -1,6 +1,7 @@
 ---
 title: "Coldcut - What's That Noise?"
-artist: "Coldcut"
+artist_name: "Coldcut"
+artist: "coldcut"
 album_name: "What's That Noise?"
 date: 2018-02-09T11:47:15.000000Z
 release_id: "11155777"

@@ -1,6 +1,7 @@
 ---
 title: "Vangelis - Blade Runner"
-artist: "Vangelis"
+artist_name: "Vangelis"
+artist: "vangelis"
 album_name: "Blade Runner"
 date: 2015-08-09T08:33:25.000000Z
 release_id: "7097828"

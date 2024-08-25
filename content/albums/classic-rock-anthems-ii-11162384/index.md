@@ -1,6 +1,7 @@
 ---
 title: "Various - Classic Rock Anthems II"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Classic Rock Anthems II"
 date: 2017-12-13T17:47:48.000000Z
 release_id: "11162384"

@@ -1,6 +1,7 @@
 ---
 title: "Anathema - A Natural Disaster"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "A Natural Disaster"
 date: 2016-10-22T12:17:38.000000Z
 release_id: "7042351"

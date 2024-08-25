@@ -1,6 +1,7 @@
 ---
 title: "Mudhoney - Digital Garbage"
-artist: "Mudhoney"
+artist_name: "Mudhoney"
+artist: "mudhoney"
 album_name: "Digital Garbage"
 date: 2018-10-01T17:55:11.000000Z
 release_id: "12580247"

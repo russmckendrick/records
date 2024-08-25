@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - ChangesTwoBowie"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "ChangesTwoBowie"
 date: 2018-04-14T05:54:05.000000Z
 release_id: "11854186"

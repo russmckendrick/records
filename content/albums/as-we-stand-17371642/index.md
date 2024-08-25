@@ -1,6 +1,7 @@
 ---
 title: "Tori Handsley - As We Stand"
-artist: "Tori Handsley"
+artist_name: "Tori Handsley"
+artist: "tori-handsley"
 album_name: "As We Stand"
 date: 2021-02-12T06:46:03.000000Z
 release_id: "17371642"

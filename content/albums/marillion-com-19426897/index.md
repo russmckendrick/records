@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Marillion.com"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Marillion.com"
 date: 2023-06-09T10:12:21.000000Z
 release_id: "19426897"

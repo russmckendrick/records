@@ -1,6 +1,7 @@
 ---
 title: "Sepultura - Chaos A.D."
-artist: "Sepultura"
+artist_name: "Sepultura"
+artist: "sepultura"
 album_name: "Chaos A.D."
 date: 2018-01-20T19:09:20.000000Z
 release_date: "1993-09-02"

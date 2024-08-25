@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - OK Computer"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "OK Computer"
 date: 2016-04-17T13:48:28.000000Z
 release_date: "1997-05-21"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - A Saucerful Of Secrets"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "A Saucerful Of Secrets"
 date: 2016-06-03T20:02:02.000000Z
 release_date: "1968-06-29"

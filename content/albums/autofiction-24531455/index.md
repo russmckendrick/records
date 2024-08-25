@@ -1,6 +1,7 @@
 ---
 title: "Suede - Autofiction"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Autofiction"
 date: 2022-09-25T07:16:21.000000Z
 release_id: "24531455"

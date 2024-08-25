@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - Every Valley"
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "Every Valley"
 date: 2017-07-07T16:52:12.000000Z
 release_id: "10533384"

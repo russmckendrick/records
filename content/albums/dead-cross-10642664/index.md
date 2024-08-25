@@ -1,6 +1,7 @@
 ---
 title: "Dead Cross - Dead Cross"
-artist: "Dead Cross"
+artist_name: "Dead Cross"
+artist: "dead-cross"
 album_name: "Dead Cross"
 date: 2017-08-18T18:22:09.000000Z
 release_id: "10642664"

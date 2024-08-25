@@ -1,6 +1,7 @@
 ---
 title: "Rhiannon Giddens - You're The One"
-artist: "Rhiannon Giddens"
+artist_name: "Rhiannon Giddens"
+artist: "rhiannon-giddens"
 album_name: "You're The One"
 date: 2023-08-22T02:21:27.000000Z
 release_date: "2023-08-18"

@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Telekon"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Telekon"
 date: 2015-12-30T09:11:50.000000Z
 release_id: "1709654"

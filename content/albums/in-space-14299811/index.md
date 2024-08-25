@@ -1,6 +1,7 @@
 ---
 title: "Big Star - In Space"
-artist: "Big Star"
+artist_name: "Big Star"
+artist: "big-star"
 album_name: "In Space"
 date: 2021-07-31T07:48:51.000000Z
 release_id: "14299811"

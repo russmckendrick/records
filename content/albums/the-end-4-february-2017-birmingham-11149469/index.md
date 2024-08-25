@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - The End (4 February 2017 - Birmingham)"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "The End (4 February 2017 - Birmingham)"
 date: 2017-11-17T16:42:29.000000Z
 release_id: "11149469"

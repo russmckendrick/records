@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Shaking The Tree (Twelve Golden Greats)"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Shaking The Tree (Twelve Golden Greats)"
 date: 2016-04-25T21:08:38.000000Z
 release_id: "1662226"

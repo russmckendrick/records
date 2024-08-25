@@ -1,6 +1,7 @@
 ---
 title: "Dave Gahan - Imposter"
-artist: "Dave Gahan"
+artist_name: "Dave Gahan"
+artist: "dave-gahan"
 album_name: "Imposter"
 date: 2021-11-12T10:48:20.000000Z
 release_id: "20922610"

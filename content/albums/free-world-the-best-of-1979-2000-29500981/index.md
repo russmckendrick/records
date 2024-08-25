@@ -1,6 +1,7 @@
 ---
 title: "Kirsty MacColl - Free World The Best Of 1979-2000"
-artist: "Kirsty MacColl"
+artist_name: "Kirsty MacColl"
+artist: "kirsty-maccoll"
 album_name: "Free World The Best Of 1979-2000"
 date: 2024-04-21T01:25:32.000000Z
 release_id: "29500981"

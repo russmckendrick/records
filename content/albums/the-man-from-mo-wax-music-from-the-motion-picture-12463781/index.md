@@ -1,6 +1,7 @@
 ---
 title: "Various - The Man From Mo'Wax (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Man From Mo'Wax (Music From The Motion Picture)"
 date: 2018-09-03T17:51:36.000000Z
 release_id: "12463781"

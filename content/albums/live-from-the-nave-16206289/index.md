@@ -1,5 +1,6 @@
 ---
 title: "bdrmm - Live From The Nave"
+artist_name: "bdrmm"
 artist: "bdrmm"
 album_name: "Live From The Nave"
 date: 2020-11-14T12:07:02.000000Z

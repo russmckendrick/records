@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Grand Tour"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Grand Tour"
 date: 2019-05-17T18:28:09.000000Z
 release_id: "13635083"

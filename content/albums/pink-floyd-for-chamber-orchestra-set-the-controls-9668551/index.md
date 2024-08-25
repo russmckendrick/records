@@ -1,6 +1,7 @@
 ---
 title: "The Coda Chamber Ensemble - Pink Floyd For Chamber Orchestra - Set The Controls"
-artist: "The Coda Chamber Ensemble"
+artist_name: "The Coda Chamber Ensemble"
+artist: "the-coda-chamber-ensemble"
 album_name: "Pink Floyd For Chamber Orchestra - Set The Controls"
 date: 2017-01-27T19:39:03.000000Z
 release_id: "9668551"

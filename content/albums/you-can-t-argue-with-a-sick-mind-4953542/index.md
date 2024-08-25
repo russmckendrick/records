@@ -1,6 +1,7 @@
 ---
 title: "Joe Walsh - You Can't Argue With A Sick Mind"
-artist: "Joe Walsh"
+artist_name: "Joe Walsh"
+artist: "joe-walsh"
 album_name: "You Can't Argue With A Sick Mind"
 date: 2020-08-02T13:33:44.000000Z
 release_id: "4953542"

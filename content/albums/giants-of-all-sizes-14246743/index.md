@@ -1,6 +1,7 @@
 ---
 title: "Elbow - Giants Of All Sizes"
-artist: "Elbow"
+artist_name: "Elbow"
+artist: "elbow"
 album_name: "Giants Of All Sizes"
 date: 2019-12-25T11:28:37.000000Z
 release_date: "2019-10-11"

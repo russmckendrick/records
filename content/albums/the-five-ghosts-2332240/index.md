@@ -1,6 +1,7 @@
 ---
 title: "Stars - The Five Ghosts"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "The Five Ghosts"
 date: 2017-06-27T18:04:56.000000Z
 release_id: "2332240"

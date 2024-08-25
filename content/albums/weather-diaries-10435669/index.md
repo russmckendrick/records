@@ -1,6 +1,7 @@
 ---
 title: "Ride - Weather Diaries"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Weather Diaries"
 date: 2017-06-16T18:28:47.000000Z
 release_id: "10435669"

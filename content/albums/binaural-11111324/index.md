@@ -1,6 +1,7 @@
 ---
 title: "Pearl Jam - Binaural"
-artist: "Pearl Jam"
+artist_name: "Pearl Jam"
+artist: "pearl-jam"
 album_name: "Binaural"
 date: 2018-01-20T19:09:48.000000Z
 release_id: "11111324"

@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Fingers Of Love"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Fingers Of Love"
 date: 2017-05-27T15:37:44.000000Z
 release_id: "726570"

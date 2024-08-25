@@ -1,6 +1,7 @@
 ---
 title: "Little Angels - Jam"
-artist: "Little Angels"
+artist_name: "Little Angels"
+artist: "little-angels"
 album_name: "Jam"
 date: 2016-04-15T18:22:14.000000Z
 release_id: "2591057"

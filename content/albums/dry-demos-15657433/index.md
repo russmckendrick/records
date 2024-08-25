@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Dry - Demos"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Dry - Demos"
 date: 2020-07-24T15:42:42.000000Z
 release_id: "15657433"

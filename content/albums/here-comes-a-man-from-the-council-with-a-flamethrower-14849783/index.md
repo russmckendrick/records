@@ -1,6 +1,7 @@
 ---
 title: "A Formal Horse -  Here Comes A Man From The Council With A Flamethrower"
-artist: "A Formal Horse"
+artist_name: "A Formal Horse"
+artist: "a-formal-horse"
 album_name: " Here Comes A Man From The Council With A Flamethrower"
 date: 2020-02-27T18:19:31.000000Z
 release_id: "14849783"

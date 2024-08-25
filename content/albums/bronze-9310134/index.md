@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Bronze"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Bronze"
 date: 2016-11-11T17:35:10.000000Z
 release_id: "9310134"

@@ -1,6 +1,7 @@
 ---
 title: "Lift To Experience - The Texas-Jerusalem Crossroads"
-artist: "Lift To Experience"
+artist_name: "Lift To Experience"
+artist: "lift-to-experience"
 album_name: "The Texas-Jerusalem Crossroads"
 date: 2017-03-11T12:33:17.000000Z
 release_id: "9955614"

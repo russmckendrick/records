@@ -1,6 +1,7 @@
 ---
 title: "The Power Station - The Power Station"
-artist: "The Power Station"
+artist_name: "The Power Station"
+artist: "the-power-station"
 album_name: "The Power Station"
 date: 2018-11-01T07:46:55.000000Z
 release_id: "5372278"

@@ -1,6 +1,7 @@
 ---
 title: "Rick James - Street Songs"
-artist: "Rick James"
+artist_name: "Rick James"
+artist: "rick-james"
 album_name: "Street Songs"
 date: 2019-04-09T17:40:59.000000Z
 release_date: "1981-04-07"

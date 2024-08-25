@@ -1,6 +1,7 @@
 ---
 title: "Sublime - Sublime"
-artist: "Sublime"
+artist_name: "Sublime"
+artist: "sublime"
 album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
 release_date: "1996-07-30"

@@ -1,6 +1,7 @@
 ---
 title: "Robert Plant - Raise The Roof"
-artist: "Robert Plant"
+artist_name: "Robert Plant"
+artist: "robert-plant"
 album_name: "Raise The Roof"
 date: 2021-12-17T11:50:13.000000Z
 release_date: "2021-11-19"

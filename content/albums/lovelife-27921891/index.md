@@ -1,6 +1,7 @@
 ---
 title: "Lush - Lovelife"
-artist: "Lush"
+artist_name: "Lush"
+artist: "lush"
 album_name: "Lovelife"
 date: 2023-08-11T08:23:05.000000Z
 release_id: "27921891"

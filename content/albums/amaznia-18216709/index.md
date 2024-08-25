@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Amazônia"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Amazônia"
 date: 2021-07-04T09:10:24.000000Z
 release_id: "18216709"

@@ -1,6 +1,7 @@
 ---
 title: "Tubeway Army - Tubeway Army"
-artist: "Tubeway Army"
+artist_name: "Tubeway Army"
+artist: "tubeway-army"
 album_name: "Tubeway Army"
 date: 2023-02-13T11:31:37.000000Z
 release_id: "26043385"

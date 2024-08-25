@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - The Resurrectionists"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "The Resurrectionists"
 date: 2019-05-01T17:55:15.000000Z
 release_id: "13562698"

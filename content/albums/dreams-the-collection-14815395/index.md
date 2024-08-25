@@ -1,6 +1,7 @@
 ---
 title: "The Cranberries - Dreams: The Collection"
-artist: "The Cranberries"
+artist_name: "The Cranberries"
+artist: "the-cranberries"
 album_name: "Dreams: The Collection"
 date: 2020-03-09T19:29:32.000000Z
 release_id: "14815395"

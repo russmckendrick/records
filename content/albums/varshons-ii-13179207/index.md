@@ -1,6 +1,7 @@
 ---
 title: "The Lemonheads - Varshons II"
-artist: "The Lemonheads"
+artist_name: "The Lemonheads"
+artist: "the-lemonheads"
 album_name: "Varshons II"
 date: 2019-02-08T14:23:49.000000Z
 release_id: "13179207"

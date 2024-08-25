@@ -1,6 +1,7 @@
 ---
 title: "Orbital - Monsters Exist"
-artist: "Orbital"
+artist_name: "Orbital"
+artist: "orbital"
 album_name: "Monsters Exist"
 date: 2018-09-16T11:31:40.000000Z
 release_id: "12518665"

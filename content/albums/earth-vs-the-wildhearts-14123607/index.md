@@ -1,6 +1,7 @@
 ---
 title: "The Wildhearts - Earth Vs The Wildhearts"
-artist: "The Wildhearts"
+artist_name: "The Wildhearts"
+artist: "the-wildhearts"
 album_name: "Earth Vs The Wildhearts"
 date: 2019-09-13T17:47:05.000000Z
 release_id: "14123607"

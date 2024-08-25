@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Passages"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Passages"
 date: 2018-05-05T10:14:34.000000Z
 release_id: "11906746"

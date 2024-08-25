@@ -1,6 +1,7 @@
 ---
 title: "Cranes - Population Four"
-artist: "Cranes"
+artist_name: "Cranes"
+artist: "cranes"
 album_name: "Population Four"
 date: 2020-08-21T05:57:24.000000Z
 release_id: "15796529"

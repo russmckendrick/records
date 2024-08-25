@@ -1,6 +1,7 @@
 ---
 title: "Bruce Soord - Bruce Soord"
-artist: "Bruce Soord"
+artist_name: "Bruce Soord"
+artist: "bruce-soord"
 album_name: "Bruce Soord"
 date: 2016-02-17T18:14:48.000000Z
 release_id: "8077082"

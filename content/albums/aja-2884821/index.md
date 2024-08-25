@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Aja"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Aja"
 date: 2019-11-16T11:54:09.000000Z
 release_date: "1977-01-01"

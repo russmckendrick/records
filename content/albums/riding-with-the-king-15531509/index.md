@@ -1,6 +1,7 @@
 ---
 title: "B.B. King - Riding With The King"
-artist: "B.B. King"
+artist_name: "B.B. King"
+artist: "b-b-king"
 album_name: "Riding With The King"
 date: 2020-06-26T11:27:48.000000Z
 release_date: "2000-06-06"

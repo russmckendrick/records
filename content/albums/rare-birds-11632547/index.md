@@ -1,6 +1,7 @@
 ---
 title: "Jonathan Wilson - Rare Birds"
-artist: "Jonathan Wilson"
+artist_name: "Jonathan Wilson"
+artist: "jonathan-wilson"
 album_name: "Rare Birds"
 date: 2018-07-16T18:50:38.000000Z
 release_id: "11632547"

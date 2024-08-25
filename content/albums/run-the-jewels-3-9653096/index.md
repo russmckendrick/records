@@ -1,6 +1,7 @@
 ---
 title: "Run The Jewels - Run The Jewels 3"
-artist: "Run The Jewels"
+artist_name: "Run The Jewels"
+artist: "run-the-jewels"
 album_name: "Run The Jewels 3"
 date: 2017-01-23T17:32:10.000000Z
 release_id: "9653096"

@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury And The Blockheads - Mr Love Pants"
-artist: "Ian Dury And The Blockheads"
+artist_name: "Ian Dury And The Blockheads"
+artist: "ian-dury-and-the-blockheads"
 album_name: "Mr Love Pants"
 date: 2016-09-21T18:12:35.000000Z
 release_id: "7235873"

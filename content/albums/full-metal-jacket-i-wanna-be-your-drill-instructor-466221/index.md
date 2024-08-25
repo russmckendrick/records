@@ -1,6 +1,7 @@
 ---
 title: "Abigail Mead - Full Metal Jacket (I Wanna Be Your Drill Instructor)"
-artist: "Abigail Mead"
+artist_name: "Abigail Mead"
+artist: "abigail-mead"
 album_name: "Full Metal Jacket (I Wanna Be Your Drill Instructor)"
 date: 2020-08-02T13:29:10.000000Z
 release_id: "466221"

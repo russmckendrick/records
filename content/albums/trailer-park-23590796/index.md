@@ -1,6 +1,7 @@
 ---
 title: "Beth Orton - Trailer Park"
-artist: "Beth Orton"
+artist_name: "Beth Orton"
+artist: "beth-orton"
 album_name: "Trailer Park"
 date: 2022-06-18T05:46:48.000000Z
 release_date: "2008-10-13"

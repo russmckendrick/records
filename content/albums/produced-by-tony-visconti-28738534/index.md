@@ -1,6 +1,7 @@
 ---
 title: "Various - Produced By Tony Visconti"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Produced By Tony Visconti"
 date: 2023-10-29T11:59:05.000000Z
 release_id: "28738534"

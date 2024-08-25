@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Eras I"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Eras I"
 date: 2018-06-09T12:45:09.000000Z
 release_id: "12108653"

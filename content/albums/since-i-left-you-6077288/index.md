@@ -1,6 +1,7 @@
 ---
 title: "The Avalanches - Since I Left You"
-artist: "The Avalanches"
+artist_name: "The Avalanches"
+artist: "the-avalanches"
 album_name: "Since I Left You"
 date: 2021-05-30T05:08:26.000000Z
 release_id: "6077288"

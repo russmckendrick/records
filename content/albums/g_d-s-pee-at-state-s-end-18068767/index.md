@@ -1,6 +1,7 @@
 ---
 title: "Godspeed You Black Emperor! - G_d's Pee At State's End!"
-artist: "Godspeed You Black Emperor!"
+artist_name: "Godspeed You Black Emperor!"
+artist: "godspeed-you-black-emperor"
 album_name: "G_d's Pee At State's End!"
 date: 2021-04-26T10:26:00.000000Z
 release_id: "18068767"

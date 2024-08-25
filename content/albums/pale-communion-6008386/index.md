@@ -1,6 +1,7 @@
 ---
 title: "Opeth - Pale Communion"
-artist: "Opeth"
+artist_name: "Opeth"
+artist: "opeth"
 album_name: "Pale Communion"
 date: 2016-08-25T16:29:14.000000Z
 release_id: "6008386"

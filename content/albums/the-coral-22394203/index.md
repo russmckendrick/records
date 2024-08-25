@@ -1,6 +1,7 @@
 ---
 title: "The Coral - The Coral"
-artist: "The Coral"
+artist_name: "The Coral"
+artist: "the-coral"
 album_name: "The Coral"
 date: 2022-03-08T11:39:06.000000Z
 release_id: "22394203"

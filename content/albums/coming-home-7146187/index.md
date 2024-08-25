@@ -1,6 +1,7 @@
 ---
 title: "Leon Bridges - Coming Home"
-artist: "Leon Bridges"
+artist_name: "Leon Bridges"
+artist: "leon-bridges"
 album_name: "Coming Home"
 date: 2015-08-09T08:35:09.000000Z
 release_date: "2015-06-23"

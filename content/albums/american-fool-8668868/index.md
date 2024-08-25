@@ -1,6 +1,7 @@
 ---
 title: "John Cougar Mellencamp - American Fool"
-artist: "John Cougar Mellencamp"
+artist_name: "John Cougar Mellencamp"
+artist: "john-cougar-mellencamp"
 album_name: "American Fool"
 date: 2017-04-09T14:18:06.000000Z
 release_id: "8668868"

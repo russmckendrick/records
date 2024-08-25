@@ -1,6 +1,7 @@
 ---
 title: "Ronnie Barker - Ronnie Barker's Unbroken British Record"
-artist: "Ronnie Barker"
+artist_name: "Ronnie Barker"
+artist: "ronnie-barker"
 album_name: "Ronnie Barker's Unbroken British Record"
 date: 2015-12-09T10:18:46.000000Z
 release_id: "4087625"

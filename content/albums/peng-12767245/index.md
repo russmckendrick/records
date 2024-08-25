@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Peng!"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Peng!"
 date: 2018-11-09T19:15:17.000000Z
 release_id: "12767245"

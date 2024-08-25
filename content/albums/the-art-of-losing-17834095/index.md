@@ -1,6 +1,7 @@
 ---
 title: "The Anchoress - The Art Of Losing"
-artist: "The Anchoress"
+artist_name: "The Anchoress"
+artist: "the-anchoress"
 album_name: "The Art Of Losing"
 date: 2021-03-14T11:51:46.000000Z
 release_id: "17834095"

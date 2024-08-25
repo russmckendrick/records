@@ -1,6 +1,7 @@
 ---
 title: "Chapterhouse - Whirlpool"
-artist: "Chapterhouse"
+artist_name: "Chapterhouse"
+artist: "chapterhouse"
 album_name: "Whirlpool"
 date: 2020-04-10T12:40:03.000000Z
 release_id: "14883278"

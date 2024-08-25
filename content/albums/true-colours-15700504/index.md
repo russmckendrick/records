@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - True Colours"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "True Colours"
 date: 2020-08-22T13:04:32.000000Z
 release_id: "15700504"

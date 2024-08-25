@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - The Seaside (Original Edition)"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "The Seaside (Original Edition)"
 date: 2016-08-26T16:30:24.000000Z
 release_id: "7622910"

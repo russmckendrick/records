@@ -1,6 +1,7 @@
 ---
 title: "Various - The Man Who Fell To Earth"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Man Who Fell To Earth"
 date: 2017-02-28T18:43:39.000000Z
 release_id: "9399915"

@@ -1,6 +1,7 @@
 ---
 title: "Robert Plant - The Principle Of Moments"
-artist: "Robert Plant"
+artist_name: "Robert Plant"
+artist: "robert-plant"
 album_name: "The Principle Of Moments"
 date: 2020-08-01T12:51:24.000000Z
 release_date: "1983-07-11"

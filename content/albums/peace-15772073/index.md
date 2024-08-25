@@ -1,6 +1,7 @@
 ---
 title: "The Levellers - Peace"
-artist: "The Levellers"
+artist_name: "The Levellers"
+artist: "the-levellers"
 album_name: "Peace"
 date: 2020-08-21T10:00:03.000000Z
 release_id: "15772073"

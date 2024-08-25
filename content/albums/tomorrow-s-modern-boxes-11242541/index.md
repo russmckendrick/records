@@ -1,6 +1,7 @@
 ---
 title: "Thom Yorke - Tomorrow's Modern Boxes"
-artist: "Thom Yorke"
+artist_name: "Thom Yorke"
+artist: "thom-yorke"
 album_name: "Tomorrow's Modern Boxes"
 date: 2017-12-08T19:19:06.000000Z
 release_date: "2014"

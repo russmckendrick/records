@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - 12 Things I Forgot"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "12 Things I Forgot"
 date: 2021-06-17T04:15:12.000000Z
 release_id: "16279675"

@@ -1,6 +1,7 @@
 ---
 title: "The Lemonheads - Come On Feel The Lemonheads"
-artist: "The Lemonheads"
+artist_name: "The Lemonheads"
+artist: "the-lemonheads"
 album_name: "Come On Feel The Lemonheads"
 date: 2023-05-19T11:08:00.000000Z
 release_id: "27057084"

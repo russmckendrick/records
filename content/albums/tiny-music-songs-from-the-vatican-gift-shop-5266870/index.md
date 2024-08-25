@@ -1,6 +1,7 @@
 ---
 title: "Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop"
-artist: "Stone Temple Pilots"
+artist_name: "Stone Temple Pilots"
+artist: "stone-temple-pilots"
 album_name: "Tiny Music...Songs From The Vatican Gift Shop"
 date: 2017-01-27T19:39:37.000000Z
 release_id: "5266870"

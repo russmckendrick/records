@@ -1,6 +1,7 @@
 ---
 title: "A Perfect Circle - Thirteenth Step"
-artist: "A Perfect Circle"
+artist_name: "A Perfect Circle"
+artist: "a-perfect-circle"
 album_name: "Thirteenth Step"
 date: 2018-02-07T20:35:40.000000Z
 release_id: "6434663"

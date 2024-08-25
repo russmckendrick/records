@@ -1,6 +1,7 @@
 ---
 title: "Jethro Tull - Thick As A Brick"
-artist: "Jethro Tull"
+artist_name: "Jethro Tull"
+artist: "jethro-tull"
 album_name: "Thick As A Brick"
 date: 2016-05-11T17:08:30.000000Z
 release_id: "7190621"

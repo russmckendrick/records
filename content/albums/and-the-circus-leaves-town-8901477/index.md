@@ -1,6 +1,7 @@
 ---
 title: "Kyuss - ...And The Circus Leaves Town"
-artist: "Kyuss"
+artist_name: "Kyuss"
+artist: "kyuss"
 album_name: "...And The Circus Leaves Town"
 date: 2016-09-14T16:49:10.000000Z
 release_id: "8901477"

@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Nothing Has Changed"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Nothing Has Changed"
 date: 2015-11-30T18:23:00.000000Z
 release_date: "2014-11-14"

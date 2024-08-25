@@ -1,6 +1,7 @@
 ---
 title: "Belinda Carlisle - Belinda"
-artist: "Belinda Carlisle"
+artist_name: "Belinda Carlisle"
+artist: "belinda-carlisle"
 album_name: "Belinda"
 date: 2022-01-09T03:56:30.000000Z
 release_id: "18914803"

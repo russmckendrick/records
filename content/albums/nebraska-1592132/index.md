@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Nebraska"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Nebraska"
 date: 2015-09-21T17:34:23.000000Z
 release_date: "1982-09-20"

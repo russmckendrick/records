@@ -1,6 +1,7 @@
 ---
 title: "Rick Springfield - Working Class Dog"
-artist: "Rick Springfield"
+artist_name: "Rick Springfield"
+artist: "rick-springfield"
 album_name: "Working Class Dog"
 date: 2020-01-30T18:34:56.000000Z
 release_id: "13184025"

@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Alice"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Alice"
 date: 2017-11-24T18:41:02.000000Z
 release_id: "11189794"

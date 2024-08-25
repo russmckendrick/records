@@ -1,6 +1,7 @@
 ---
 title: "Syd Arthur - Apricity"
-artist: "Syd Arthur"
+artist_name: "Syd Arthur"
+artist: "syd-arthur"
 album_name: "Apricity"
 date: 2016-10-27T05:43:01.000000Z
 release_id: "9254219"

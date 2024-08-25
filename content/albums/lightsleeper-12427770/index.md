@@ -1,6 +1,7 @@
 ---
 title: "Neil & Liam Finn - Lightsleeper"
-artist: "Neil & Liam Finn"
+artist_name: "Neil & Liam Finn"
+artist: "neil-liam-finn"
 album_name: "Lightsleeper"
 date: 2018-08-25T08:50:37.000000Z
 release_id: "12427770"

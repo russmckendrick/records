@@ -1,6 +1,7 @@
 ---
 title: "Steve Earle - Copperhead Road"
-artist: "Steve Earle"
+artist_name: "Steve Earle"
+artist: "steve-earle"
 album_name: "Copperhead Road"
 date: 2016-02-29T18:16:24.000000Z
 release_date: "1988-10-17"

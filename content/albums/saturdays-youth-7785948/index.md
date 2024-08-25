@@ -1,6 +1,7 @@
 ---
 title: "M83 - Saturdays = Youth"
-artist: "M83"
+artist_name: "M83"
+artist: "m83"
 album_name: "Saturdays = Youth"
 date: 2021-04-11T04:39:03.000000Z
 release_id: "7785948"

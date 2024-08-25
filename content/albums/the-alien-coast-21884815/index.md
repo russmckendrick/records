@@ -1,6 +1,7 @@
 ---
 title: "St. Paul & The Broken Bones - The Alien Coast"
-artist: "St. Paul & The Broken Bones"
+artist_name: "St. Paul & The Broken Bones"
+artist: "st-paul-the-broken-bones"
 album_name: "The Alien Coast"
 date: 2022-01-28T05:00:50.000000Z
 release_id: "21884815"

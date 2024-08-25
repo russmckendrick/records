@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Archive Cardiacs"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Archive Cardiacs"
 date: 2018-03-18T15:59:40.000000Z
 release_id: "11724438"

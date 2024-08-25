@@ -1,6 +1,7 @@
 ---
 title: "The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)"
-artist: "The Ink Spots"
+artist_name: "The Ink Spots"
+artist: "the-ink-spots"
 album_name: "The Best Of The Ink Spots (20 Classic Tracks)"
 date: 2020-08-02T13:46:36.000000Z
 release_id: "1771691"

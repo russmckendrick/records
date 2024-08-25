@@ -1,6 +1,7 @@
 ---
 title: "Prince And The Revolution - Purple Rain"
-artist: "Prince And The Revolution"
+artist_name: "Prince And The Revolution"
+artist: "prince-and-the-revolution"
 album_name: "Purple Rain"
 date: 2015-08-09T08:34:25.000000Z
 release_date: "1984-06-25"

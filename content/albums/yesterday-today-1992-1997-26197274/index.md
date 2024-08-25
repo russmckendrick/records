@@ -1,6 +1,7 @@
 ---
 title: "Ocean Colour Scene - Yesterday Today 1992-1997"
-artist: "Ocean Colour Scene"
+artist_name: "Ocean Colour Scene"
+artist: "ocean-colour-scene"
 album_name: "Yesterday Today 1992-1997"
 date: 2023-03-01T00:24:56.000000Z
 release_id: "26197274"

@@ -1,6 +1,7 @@
 ---
 title: "Rush - Test For Echo"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Test For Echo"
 date: 2017-02-27T13:59:57.000000Z
 release_id: "7684234"

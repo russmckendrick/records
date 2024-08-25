@@ -1,6 +1,7 @@
 ---
 title: "Mark Morriss - A Flash Of Darkness"
-artist: "Mark Morriss"
+artist_name: "Mark Morriss"
+artist: "mark-morriss"
 album_name: "A Flash Of Darkness"
 date: 2022-03-02T05:09:53.000000Z
 release_id: "5871313"

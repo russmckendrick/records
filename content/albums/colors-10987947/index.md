@@ -1,6 +1,7 @@
 ---
 title: "Beck - Colors"
-artist: "Beck"
+artist_name: "Beck"
+artist: "beck"
 album_name: "Colors"
 date: 2017-12-24T11:35:56.000000Z
 release_id: "10987947"

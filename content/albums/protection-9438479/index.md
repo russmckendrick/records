@@ -1,6 +1,7 @@
 ---
 title: "Massive Attack - Protection"
-artist: "Massive Attack"
+artist_name: "Massive Attack"
+artist: "massive-attack"
 album_name: "Protection"
 date: 2016-12-02T12:53:43.000000Z
 release_id: "9438479"

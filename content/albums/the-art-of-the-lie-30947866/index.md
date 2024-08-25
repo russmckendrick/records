@@ -1,6 +1,7 @@
 ---
 title: "John Grant - The Art Of The Lie"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "The Art Of The Lie"
 date: 2024-06-14T05:04:07.000000Z
 release_id: "30947866"

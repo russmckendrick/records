@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - So"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "So"
 date: 2015-09-02T18:23:52.000000Z
 release_date: "1986-05-19"

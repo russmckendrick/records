@@ -1,6 +1,7 @@
 ---
 title: "Emma Anderson - Pearlies"
-artist: "Emma Anderson"
+artist_name: "Emma Anderson"
+artist: "emma-anderson"
 album_name: "Pearlies"
 date: 2023-10-25T11:54:54.000000Z
 release_id: "28653319"

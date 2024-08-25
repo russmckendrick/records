@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Reality"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Reality"
 date: 2016-02-17T18:14:35.000000Z
 release_id: "5509641"

@@ -1,6 +1,7 @@
 ---
 title: "Stars - The North"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "The North"
 date: 2017-06-27T18:05:30.000000Z
 release_date: "2022-06-17"

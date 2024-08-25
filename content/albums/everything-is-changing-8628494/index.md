@@ -1,6 +1,7 @@
 ---
 title: "Anneke van Giersbergen - Everything Is Changing"
-artist: "Anneke van Giersbergen"
+artist_name: "Anneke van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "Everything Is Changing"
 date: 2017-05-27T08:22:45.000000Z
 release_id: "8628494"

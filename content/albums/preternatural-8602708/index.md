@@ -1,6 +1,7 @@
 ---
 title: "Moulettes - Preternatural"
-artist: "Moulettes"
+artist_name: "Moulettes"
+artist: "moulettes"
 album_name: "Preternatural"
 date: 2017-11-12T19:52:44.000000Z
 release_id: "8602708"

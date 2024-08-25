@@ -1,6 +1,7 @@
 ---
 title: "Riverside - ID.Entity"
-artist: "Riverside"
+artist_name: "Riverside"
+artist: "riverside"
 album_name: "ID.Entity"
 date: 2023-01-20T10:50:40.000000Z
 release_id: "25826326"

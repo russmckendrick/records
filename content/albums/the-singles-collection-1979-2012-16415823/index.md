@@ -1,6 +1,7 @@
 ---
 title: "Killing Joke - The Singles Collection 1979-2012"
-artist: "Killing Joke"
+artist_name: "Killing Joke"
+artist: "killing-joke"
 album_name: "The Singles Collection 1979-2012"
 date: 2021-06-07T10:54:19.000000Z
 release_id: "16415823"

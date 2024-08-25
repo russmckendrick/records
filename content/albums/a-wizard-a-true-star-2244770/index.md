@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - A Wizard, A True Star"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "A Wizard, A True Star"
 date: 2022-03-06T04:58:52.000000Z
 release_id: "2244770"

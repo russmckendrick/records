@@ -1,6 +1,7 @@
 ---
 title: "Carter The Unstoppable Sex Machine - Hello, Good Evening, Welcome and Goodbye"
-artist: "Carter The Unstoppable Sex Machine"
+artist_name: "Carter The Unstoppable Sex Machine"
+artist: "carter-the-unstoppable-sex-machine"
 album_name: "Hello, Good Evening, Welcome and Goodbye"
 date: 2017-12-02T15:18:15.000000Z
 release_id: "7922543"

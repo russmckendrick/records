@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Perverse"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Perverse"
 date: 2022-11-03T13:59:17.000000Z
 release_id: "25037878"

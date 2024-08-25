@@ -1,6 +1,7 @@
 ---
 title: "Various - Cutting Edge 80s (The Alternative Sound Of A Decade)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Cutting Edge 80s (The Alternative Sound Of A Decade)"
 date: 2018-08-06T18:41:52.000000Z
 release_id: "10555246"

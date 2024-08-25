@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Born To Run"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Born To Run"
 date: 2015-09-21T17:34:23.000000Z
 release_date: "1975-08-25"

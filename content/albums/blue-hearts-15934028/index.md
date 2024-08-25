@@ -1,6 +1,7 @@
 ---
 title: "Bob Mould - Blue Hearts"
-artist: "Bob Mould"
+artist_name: "Bob Mould"
+artist: "bob-mould"
 album_name: "Blue Hearts"
 date: 2020-09-29T12:05:27.000000Z
 release_id: "15934028"

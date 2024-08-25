@@ -1,6 +1,7 @@
 ---
 title: "Black Grape - It's Great When You're Straight...Yeah"
-artist: "Black Grape"
+artist_name: "Black Grape"
+artist: "black-grape"
 album_name: "It's Great When You're Straight...Yeah"
 date: 2016-11-09T17:53:52.000000Z
 release_id: "9303682"

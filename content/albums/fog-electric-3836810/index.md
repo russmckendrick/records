@@ -1,6 +1,7 @@
 ---
 title: "North Atlantic Oscillation - Fog Electric"
-artist: "North Atlantic Oscillation"
+artist_name: "North Atlantic Oscillation"
+artist: "north-atlantic-oscillation"
 album_name: "Fog Electric"
 date: 2018-09-23T12:51:19.000000Z
 release_id: "3836810"

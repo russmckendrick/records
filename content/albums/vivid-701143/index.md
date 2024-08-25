@@ -1,6 +1,7 @@
 ---
 title: "Living Colour - Vivid"
-artist: "Living Colour"
+artist_name: "Living Colour"
+artist: "living-colour"
 album_name: "Vivid"
 date: 2019-01-05T11:38:49.000000Z
 release_id: "701143"

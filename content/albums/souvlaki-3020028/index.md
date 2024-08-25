@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Souvlaki"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Souvlaki"
 date: 2018-12-27T18:12:11.000000Z
 release_id: "3020028"

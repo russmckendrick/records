@@ -1,6 +1,7 @@
 ---
 title: "Anneke van Giersbergen - In Your Room"
-artist: "Anneke van Giersbergen"
+artist_name: "Anneke van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "In Your Room"
 date: 2017-05-25T18:38:01.000000Z
 release_id: "10280569"

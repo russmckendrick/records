@@ -1,6 +1,7 @@
 ---
 title: "Joan Armatrading - Me Myself I"
-artist: "Joan Armatrading"
+artist_name: "Joan Armatrading"
+artist: "joan-armatrading"
 album_name: "Me Myself I"
 date: 2020-08-02T13:37:48.000000Z
 release_id: "2414265"

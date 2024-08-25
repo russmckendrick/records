@@ -1,6 +1,7 @@
 ---
 title: "Aerosmith - Permanent Vacation"
-artist: "Aerosmith"
+artist_name: "Aerosmith"
+artist: "aerosmith"
 album_name: "Permanent Vacation"
 date: 2019-05-21T18:14:15.000000Z
 release_date: "1987-08-25"

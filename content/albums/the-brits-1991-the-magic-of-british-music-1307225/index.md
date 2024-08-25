@@ -1,6 +1,7 @@
 ---
 title: "Various - The Brits 1991 (The Magic Of British Music) "
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Brits 1991 (The Magic Of British Music) "
 date: 2019-01-05T11:38:49.000000Z
 release_id: "1307225"

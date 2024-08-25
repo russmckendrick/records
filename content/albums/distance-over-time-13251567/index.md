@@ -1,6 +1,7 @@
 ---
 title: "Dream Theater - Distance Over Time"
-artist: "Dream Theater"
+artist_name: "Dream Theater"
+artist: "dream-theater"
 album_name: "Distance Over Time"
 date: 2019-02-22T18:15:05.000000Z
 release_id: "13251567"

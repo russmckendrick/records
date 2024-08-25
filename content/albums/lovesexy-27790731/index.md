@@ -1,6 +1,7 @@
 ---
 title: "Prince - Lovesexy"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Lovesexy"
 date: 2023-09-10T02:27:27.000000Z
 release_id: "27790731"

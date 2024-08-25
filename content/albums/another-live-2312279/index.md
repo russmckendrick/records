@@ -1,6 +1,7 @@
 ---
 title: "Utopia - Another Live"
-artist: "Utopia"
+artist_name: "Utopia"
+artist: "utopia"
 album_name: "Another Live"
 date: 2022-03-06T04:59:24.000000Z
 release_id: "2312279"

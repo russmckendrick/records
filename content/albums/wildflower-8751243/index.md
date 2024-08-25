@@ -1,6 +1,7 @@
 ---
 title: "The Avalanches - Wildflower"
-artist: "The Avalanches"
+artist_name: "The Avalanches"
+artist: "the-avalanches"
 album_name: "Wildflower"
 date: 2016-07-25T16:20:24.000000Z
 release_id: "8751243"

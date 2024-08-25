@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - The_Puzzle"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "The_Puzzle"
 date: 2021-12-20T10:56:56.000000Z
 release_id: "21228517"

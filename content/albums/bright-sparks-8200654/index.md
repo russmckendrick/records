@@ -1,6 +1,7 @@
 ---
 title: "I Monster - Bright Sparks"
-artist: "I Monster"
+artist_name: "I Monster"
+artist: "i-monster"
 album_name: "Bright Sparks"
 date: 2016-03-14T17:38:13.000000Z
 release_id: "8200654"

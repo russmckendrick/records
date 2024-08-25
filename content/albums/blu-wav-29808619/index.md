@@ -1,6 +1,7 @@
 ---
 title: "Grandaddy - Blu Wav"
-artist: "Grandaddy"
+artist_name: "Grandaddy"
+artist: "grandaddy"
 album_name: "Blu Wav"
 date: 2024-02-21T10:36:34.000000Z
 release_id: "29808619"

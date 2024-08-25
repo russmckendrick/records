@@ -1,6 +1,7 @@
 ---
 title: "Boston - Boston"
-artist: "Boston"
+artist_name: "Boston"
+artist: "boston"
 album_name: "Boston"
 date: 2018-11-17T19:36:07.000000Z
 release_date: "1976-08-25"

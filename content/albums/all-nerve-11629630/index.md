@@ -1,6 +1,7 @@
 ---
 title: "The Breeders - All Nerve"
-artist: "The Breeders"
+artist_name: "The Breeders"
+artist: "the-breeders"
 album_name: "All Nerve"
 date: 2018-03-07T19:21:50.000000Z
 release_date: "2018-03-02"

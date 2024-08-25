@@ -1,6 +1,7 @@
 ---
 title: "Symarip - Skinhead Moonstomp"
-artist: "Symarip"
+artist_name: "Symarip"
+artist: "symarip"
 album_name: "Skinhead Moonstomp"
 date: 2023-04-03T04:19:31.000000Z
 release_id: "26519942"

@@ -1,6 +1,7 @@
 ---
 title: "R.L. Burnside - A Ass Pocket Of Whiskey"
-artist: "R.L. Burnside"
+artist_name: "R.L. Burnside"
+artist: "r-l-burnside"
 album_name: "A Ass Pocket Of Whiskey"
 date: 2015-09-01T17:51:10.000000Z
 release_id: "1680037"

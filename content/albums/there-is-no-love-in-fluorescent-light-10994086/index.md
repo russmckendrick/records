@@ -1,6 +1,7 @@
 ---
 title: "Stars - There Is No Love In Fluorescent Light"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "There Is No Love In Fluorescent Light"
 date: 2017-11-07T18:42:01.000000Z
 release_id: "10994086"

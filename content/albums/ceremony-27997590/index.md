@@ -1,6 +1,7 @@
 ---
 title: "The Cult - Ceremony"
-artist: "The Cult"
+artist_name: "The Cult"
+artist: "the-cult"
 album_name: "Ceremony"
 date: 2023-12-29T04:34:27.000000Z
 release_id: "27997590"

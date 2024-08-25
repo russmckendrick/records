@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - Fold Your Hands Child, You Walk Like A Peasant"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "Fold Your Hands Child, You Walk Like A Peasant"
 date: 2017-04-25T08:34:43.000000Z
 release_id: "6172190"

@@ -1,6 +1,7 @@
 ---
 title: "Baxter Dury - Prince Of Tears"
-artist: "Baxter Dury"
+artist_name: "Baxter Dury"
+artist: "baxter-dury"
 album_name: "Prince Of Tears"
 date: 2017-10-28T15:46:15.000000Z
 release_id: "11063096"

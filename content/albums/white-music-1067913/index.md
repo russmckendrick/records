@@ -1,6 +1,7 @@
 ---
 title: "XTC - White Music"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "White Music"
 date: 2020-08-02T13:36:09.000000Z
 release_id: "1067913"

@@ -1,6 +1,7 @@
 ---
 title: "Betty Davis - Betty Davis"
-artist: "Betty Davis"
+artist_name: "Betty Davis"
+artist: "betty-davis"
 album_name: "Betty Davis"
 date: 2017-07-15T11:32:29.000000Z
 release_id: "10549758"

@@ -1,6 +1,7 @@
 ---
 title: "Chapterhouse - The Best Of Chapterhouse"
-artist: "Chapterhouse"
+artist_name: "Chapterhouse"
+artist: "chapterhouse"
 album_name: "The Best Of Chapterhouse"
 date: 2019-11-09T13:46:57.000000Z
 release_id: "14377153"

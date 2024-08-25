@@ -1,6 +1,7 @@
 ---
 title: "Father John Misty - God's Favorite Customer"
-artist: "Father John Misty"
+artist_name: "Father John Misty"
+artist: "father-john-misty"
 album_name: "God's Favorite Customer"
 date: 2018-06-09T09:14:48.000000Z
 release_id: "12075275"

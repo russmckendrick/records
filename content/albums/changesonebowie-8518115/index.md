@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - ChangesOneBowie"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "ChangesOneBowie"
 date: 2016-05-20T19:02:02.000000Z
 release_id: "8518115"

@@ -1,6 +1,7 @@
 ---
 title: "Dire Straits - Money For Nothing"
-artist: "Dire Straits"
+artist_name: "Dire Straits"
+artist: "dire-straits"
 album_name: "Money For Nothing"
 date: 2015-10-14T18:37:05.000000Z
 release_id: "1971903"

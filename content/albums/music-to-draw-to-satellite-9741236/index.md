@@ -1,6 +1,7 @@
 ---
 title: "Kid Koala - Music To Draw To: Satellite"
-artist: "Kid Koala"
+artist_name: "Kid Koala"
+artist: "kid-koala"
 album_name: "Music To Draw To: Satellite"
 date: 2017-04-22T10:05:55.000000Z
 release_date: "2017-01-20"

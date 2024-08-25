@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - Amnesiac"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "Amnesiac"
 date: 2016-10-01T10:33:37.000000Z
 release_date: "2001-06-04"

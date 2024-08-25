@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Grimspound"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Grimspound"
 date: 2017-04-29T12:03:10.000000Z
 release_id: "10204837"

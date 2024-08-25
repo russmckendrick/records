@@ -1,6 +1,7 @@
 ---
 title: "New Order - NOMC15"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "NOMC15"
 date: 2017-09-09T10:33:57.000000Z
 release_id: "10443938"

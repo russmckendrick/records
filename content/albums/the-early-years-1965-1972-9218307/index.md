@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Early Years 1965-1972"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Early Years 1965-1972"
 date: 2016-12-24T10:33:33.000000Z
 release_id: "9218307"

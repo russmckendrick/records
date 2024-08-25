@@ -1,6 +1,7 @@
 ---
 title: "The Lester Young-Teddy Wilson Quartet - Pres And Teddy"
-artist: "The Lester Young-Teddy Wilson Quartet"
+artist_name: "The Lester Young-Teddy Wilson Quartet"
+artist: "the-lester-young-teddy-wilson-quartet"
 album_name: "Pres And Teddy"
 date: 2017-02-19T10:40:58.000000Z
 release_id: "7122835"

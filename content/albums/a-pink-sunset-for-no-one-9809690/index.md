@@ -1,6 +1,7 @@
 ---
 title: "Noveller - A Pink Sunset For No One"
-artist: "Noveller"
+artist_name: "Noveller"
+artist: "noveller"
 album_name: "A Pink Sunset For No One"
 date: 2017-02-10T20:03:26.000000Z
 release_id: "9809690"

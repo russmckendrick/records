@@ -1,6 +1,7 @@
 ---
 title: "Jimmy Cliff - Cliff Hanger"
-artist: "Jimmy Cliff"
+artist_name: "Jimmy Cliff"
+artist: "jimmy-cliff"
 album_name: "Cliff Hanger"
 date: 2017-05-27T15:33:48.000000Z
 release_id: "5515226"

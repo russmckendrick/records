@@ -1,6 +1,7 @@
 ---
 title: "It Bites - The Tall Ships"
-artist: "It Bites"
+artist_name: "It Bites"
+artist: "it-bites"
 album_name: "The Tall Ships"
 date: 2021-05-10T10:27:31.000000Z
 release_id: "18661786"

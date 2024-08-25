@@ -1,6 +1,7 @@
 ---
 title: "James - Millionaires"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Millionaires"
 date: 2017-12-17T09:50:57.000000Z
 release_id: "11277658"

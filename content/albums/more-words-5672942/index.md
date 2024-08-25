@@ -1,6 +1,7 @@
 ---
 title: "Glen Campbell - More Words"
-artist: "Glen Campbell"
+artist_name: "Glen Campbell"
+artist: "glen-campbell"
 album_name: "More Words"
 date: 2020-08-02T13:47:21.000000Z
 release_id: "5672942"

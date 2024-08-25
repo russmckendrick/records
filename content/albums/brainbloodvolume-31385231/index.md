@@ -1,6 +1,7 @@
 ---
 title: "Ned's Atomic Dustbin - Brainbloodvolume"
-artist: "Ned's Atomic Dustbin"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Brainbloodvolume"
 date: 2024-08-02T13:31:11.000000Z
 release_id: "31385231"

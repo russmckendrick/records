@@ -1,6 +1,7 @@
 ---
 title: "Victoria Williams - Swing The Statue!"
-artist: "Victoria Williams"
+artist_name: "Victoria Williams"
+artist: "victoria-williams"
 album_name: "Swing The Statue!"
 date: 2019-01-19T10:34:14.000000Z
 release_id: "2079943"

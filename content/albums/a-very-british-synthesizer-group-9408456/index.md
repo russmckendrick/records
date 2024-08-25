@@ -1,6 +1,7 @@
 ---
 title: "The Human League - A Very British Synthesizer Group"
-artist: "The Human League"
+artist_name: "The Human League"
+artist: "the-human-league"
 album_name: "A Very British Synthesizer Group"
 date: 2017-02-11T14:52:27.000000Z
 release_id: "9408456"

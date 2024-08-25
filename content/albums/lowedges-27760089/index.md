@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - Lowedges"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "Lowedges"
 date: 2023-07-28T05:34:58.000000Z
 release_date: "2003-01-01"

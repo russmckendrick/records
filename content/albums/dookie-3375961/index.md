@@ -1,6 +1,7 @@
 ---
 title: "Green Day - Dookie"
-artist: "Green Day"
+artist_name: "Green Day"
+artist: "green-day"
 album_name: "Dookie"
 date: 2017-02-05T12:26:47.000000Z
 release_date: "1994-02-01"

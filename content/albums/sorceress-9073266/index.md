@@ -1,6 +1,7 @@
 ---
 title: "Opeth - Sorceress"
-artist: "Opeth"
+artist_name: "Opeth"
+artist: "opeth"
 album_name: "Sorceress"
 date: 2016-10-03T14:27:31.000000Z
 release_id: "9073266"

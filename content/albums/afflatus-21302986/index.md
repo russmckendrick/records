@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - Afflatus"
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "Afflatus"
 date: 2022-02-12T05:32:51.000000Z
 release_id: "21302986"

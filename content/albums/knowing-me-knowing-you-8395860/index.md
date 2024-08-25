@@ -1,6 +1,7 @@
 ---
 title: "Alan Partridge - Knowing Me Knowing You"
-artist: "Alan Partridge"
+artist_name: "Alan Partridge"
+artist: "alan-partridge"
 album_name: "Knowing Me Knowing You"
 date: 2017-04-25T08:35:16.000000Z
 release_id: "8395860"

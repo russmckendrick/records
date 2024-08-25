@@ -1,6 +1,7 @@
 ---
 title: "The Colorist - The Colorist & Emiliana Torrini"
-artist: "The Colorist"
+artist_name: "The Colorist"
+artist: "the-colorist"
 album_name: "The Colorist & Emiliana Torrini"
 date: 2017-05-16T18:19:36.000000Z
 release_id: "9675385"

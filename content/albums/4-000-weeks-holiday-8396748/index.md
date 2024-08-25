@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury And The Music Students - 4.000 Weeks' Holiday"
-artist: "Ian Dury And The Music Students"
+artist_name: "Ian Dury And The Music Students"
+artist: "ian-dury-and-the-music-students"
 album_name: "4.000 Weeks' Holiday"
 date: 2016-09-21T18:13:35.000000Z
 release_id: "8396748"

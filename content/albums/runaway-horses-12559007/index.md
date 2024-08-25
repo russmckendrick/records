@@ -1,6 +1,7 @@
 ---
 title: "Belinda Carlisle - Runaway Horses"
-artist: "Belinda Carlisle"
+artist_name: "Belinda Carlisle"
+artist: "belinda-carlisle"
 album_name: "Runaway Horses"
 date: 2018-09-22T13:11:54.000000Z
 release_id: "12559007"

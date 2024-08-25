@@ -1,6 +1,7 @@
 ---
 title: "Aerosmith - Get A Grip"
-artist: "Aerosmith"
+artist_name: "Aerosmith"
+artist: "aerosmith"
 album_name: "Get A Grip"
 date: 2018-01-09T18:32:41.000000Z
 release_id: "9685203"

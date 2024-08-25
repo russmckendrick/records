@@ -1,6 +1,7 @@
 ---
 title: "Haley Bonar - Impossible Dream"
-artist: "Haley Bonar"
+artist_name: "Haley Bonar"
+artist: "haley-bonar"
 album_name: "Impossible Dream"
 date: 2016-11-14T17:48:29.000000Z
 release_date: "2016-08-05"

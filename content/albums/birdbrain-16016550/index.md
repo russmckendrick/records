@@ -1,6 +1,7 @@
 ---
 title: "Buffalo Tom - Birdbrain"
-artist: "Buffalo Tom"
+artist_name: "Buffalo Tom"
+artist: "buffalo-tom"
 album_name: "Birdbrain"
 date: 2020-10-10T10:40:13.000000Z
 release_id: "16016550"

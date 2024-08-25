@@ -1,6 +1,7 @@
 ---
 title: "The Temperance Movement - The Temperance Movement"
-artist: "The Temperance Movement"
+artist_name: "The Temperance Movement"
+artist: "the-temperance-movement"
 album_name: "The Temperance Movement"
 date: 2016-01-18T18:40:10.000000Z
 release_id: "4953828"

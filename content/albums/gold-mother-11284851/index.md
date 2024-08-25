@@ -1,6 +1,7 @@
 ---
 title: "James - Gold Mother"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Gold Mother"
 date: 2017-12-16T13:19:57.000000Z
 release_id: "11284851"

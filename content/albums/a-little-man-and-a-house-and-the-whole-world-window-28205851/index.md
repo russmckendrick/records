@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - A Little Man And A House And The Whole World Window"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "A Little Man And A House And The Whole World Window"
 date: 2023-11-02T11:11:26.000000Z
 release_id: "28205851"

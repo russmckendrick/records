@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - 3-D (The Catalogue)"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "3-D (The Catalogue)"
 date: 2017-06-24T15:07:18.000000Z
 release_id: "10349797"

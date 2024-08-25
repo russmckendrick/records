@@ -1,6 +1,7 @@
 ---
 title: "Gabriels - Angels & Queens"
-artist: "Gabriels"
+artist_name: "Gabriels"
+artist: "gabriels"
 album_name: "Angels & Queens"
 date: 2023-07-15T02:29:17.000000Z
 release_id: "27577632"

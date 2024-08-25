@@ -1,6 +1,7 @@
 ---
 title: "Creedence Clearwater Revival - The Studio Albums Collection"
-artist: "Creedence Clearwater Revival"
+artist_name: "Creedence Clearwater Revival"
+artist: "creedence-clearwater-revival"
 album_name: "The Studio Albums Collection"
 date: 2019-11-16T11:42:05.000000Z
 release_id: "12932189"

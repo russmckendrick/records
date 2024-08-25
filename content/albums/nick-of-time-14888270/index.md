@@ -1,6 +1,7 @@
 ---
 title: "The James Hunter Six - Nick Of Time"
-artist: "The James Hunter Six"
+artist_name: "The James Hunter Six"
+artist: "the-james-hunter-six"
 album_name: "Nick Of Time"
 date: 2020-03-13T19:01:18.000000Z
 release_id: "14888270"

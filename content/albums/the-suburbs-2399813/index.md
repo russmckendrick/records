@@ -1,6 +1,7 @@
 ---
 title: "Arcade Fire - The Suburbs"
-artist: "Arcade Fire"
+artist_name: "Arcade Fire"
+artist: "arcade-fire"
 album_name: "The Suburbs"
 date: 2018-01-18T19:48:40.000000Z
 release_date: "2010-08-02"

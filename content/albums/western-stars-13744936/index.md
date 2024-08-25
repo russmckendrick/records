@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Western Stars"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Western Stars"
 date: 2019-06-17T17:30:47.000000Z
 release_date: "2019-06-14"

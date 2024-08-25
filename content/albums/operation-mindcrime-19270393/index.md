@@ -1,6 +1,7 @@
 ---
 title: "Queensrÿche - Operation: Mindcrime"
-artist: "Queensrÿche"
+artist_name: "Queensrÿche"
+artist: "queensrche"
 album_name: "Operation: Mindcrime"
 date: 2021-06-25T08:52:27.000000Z
 release_id: "19270393"

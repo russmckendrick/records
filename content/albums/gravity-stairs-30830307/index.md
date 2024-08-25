@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Gravity Stairs"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Gravity Stairs"
 date: 2024-06-05T11:25:26.000000Z
 release_date: "2024-05-31"

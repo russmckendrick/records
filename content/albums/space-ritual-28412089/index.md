@@ -1,6 +1,7 @@
 ---
 title: "Hawkwind - Space Ritual"
-artist: "Hawkwind"
+artist_name: "Hawkwind"
+artist: "hawkwind"
 album_name: "Space Ritual"
 date: 2023-09-29T06:41:39.000000Z
 release_id: "28412089"

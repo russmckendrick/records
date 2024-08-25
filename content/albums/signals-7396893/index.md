@@ -1,6 +1,7 @@
 ---
 title: "Rush - Signals"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Signals"
 date: 2017-02-22T18:03:13.000000Z
 release_date: "1982-09-09"

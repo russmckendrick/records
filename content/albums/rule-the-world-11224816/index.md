@@ -1,6 +1,7 @@
 ---
 title: "Tears For Fears - Rule The World"
-artist: "Tears For Fears"
+artist_name: "Tears For Fears"
+artist: "tears-for-fears"
 album_name: "Rule The World"
 date: 2017-12-02T20:16:54.000000Z
 release_id: "11224816"

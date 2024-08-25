@@ -1,6 +1,7 @@
 ---
 title: "Red Hot Chili Peppers - Californication"
-artist: "Red Hot Chili Peppers"
+artist_name: "Red Hot Chili Peppers"
+artist: "red-hot-chili-peppers"
 album_name: "Californication"
 date: 2024-07-27T07:02:48.000000Z
 release_date: "1999-06-08"

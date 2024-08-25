@@ -1,6 +1,7 @@
 ---
 title: "Liam Gallagher - Liam Gallagher John Squire"
-artist: "Liam Gallagher"
+artist_name: "Liam Gallagher"
+artist: "liam-gallagher"
 album_name: "Liam Gallagher John Squire"
 date: 2024-03-05T11:24:57.000000Z
 release_date: "2024-03-01"

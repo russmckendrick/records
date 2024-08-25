@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Standing On A Beach • The Singles"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Standing On A Beach • The Singles"
 date: 2015-08-09T08:37:10.000000Z
 release_id: "260871"

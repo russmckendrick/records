@@ -1,6 +1,7 @@
 ---
 title: "Curve - Cuckoo"
-artist: "Curve"
+artist_name: "Curve"
+artist: "curve"
 album_name: "Cuckoo"
 date: 2017-12-23T10:30:11.000000Z
 release_id: "10770803"

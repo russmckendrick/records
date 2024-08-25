@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - And The Anonymous Nobody"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "And The Anonymous Nobody"
 date: 2016-09-30T16:34:07.000000Z
 release_id: "8969133"

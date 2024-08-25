@@ -1,6 +1,7 @@
 ---
 title: "Maps - We Can Create"
-artist: "Maps"
+artist_name: "Maps"
+artist: "maps"
 album_name: "We Can Create"
 date: 2019-08-30T15:22:30.000000Z
 release_id: "13836579"

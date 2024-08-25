@@ -1,6 +1,7 @@
 ---
 title: "Prince - Controversy"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Controversy"
 date: 2016-06-26T13:17:16.000000Z
 release_date: "1981-10-14"

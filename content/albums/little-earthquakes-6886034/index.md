@@ -1,6 +1,7 @@
 ---
 title: "Tori Amos - Little Earthquakes"
-artist: "Tori Amos"
+artist_name: "Tori Amos"
+artist: "tori-amos"
 album_name: "Little Earthquakes"
 date: 2017-03-26T10:56:09.000000Z
 release_date: "1992-01-06"

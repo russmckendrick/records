@@ -1,6 +1,7 @@
 ---
 title: "Fred Deakin - Presents The Lasters"
-artist: "Fred Deakin"
+artist_name: "Fred Deakin"
+artist: "fred-deakin"
 album_name: "Presents The Lasters"
 date: 2019-10-12T10:17:33.000000Z
 release_id: "14253494"

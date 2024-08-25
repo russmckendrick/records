@@ -1,6 +1,7 @@
 ---
 title: "U2 - Songs Of Surrender"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "Songs Of Surrender"
 date: 2023-03-18T02:56:49.000000Z
 release_date: "2023-03-17"

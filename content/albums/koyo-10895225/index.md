@@ -1,6 +1,7 @@
 ---
 title: "Koyo - Koyo"
-artist: "Koyo"
+artist_name: "Koyo"
+artist: "koyo"
 album_name: "Koyo"
 date: 2017-09-23T11:29:08.000000Z
 release_id: "10895225"

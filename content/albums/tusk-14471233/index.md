@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Tusk"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Tusk"
 date: 2019-12-02T09:34:15.000000Z
 release_date: "1979-10-12"

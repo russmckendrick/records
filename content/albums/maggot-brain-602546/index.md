@@ -1,6 +1,7 @@
 ---
 title: "Funkadelic - Maggot Brain"
-artist: "Funkadelic"
+artist_name: "Funkadelic"
+artist: "funkadelic"
 album_name: "Maggot Brain"
 date: 2017-07-16T08:42:05.000000Z
 release_id: "602546"

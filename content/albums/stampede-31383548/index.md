@@ -1,6 +1,7 @@
 ---
 title: "Orville Peck - Stampede"
-artist: "Orville Peck"
+artist_name: "Orville Peck"
+artist: "orville-peck"
 album_name: "Stampede"
 date: 2024-08-03T11:03:52.000000Z
 release_date: "2024-08-02"

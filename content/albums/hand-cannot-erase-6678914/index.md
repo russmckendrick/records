@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Hand. Cannot. Erase."
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Hand. Cannot. Erase."
 date: 2015-08-09T08:27:15.000000Z
 release_id: "6678914"

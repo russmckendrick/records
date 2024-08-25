@@ -1,6 +1,7 @@
 ---
 title: "Steve Harley & Cockney Rebel - The Best Years Of Our Lives"
-artist: "Steve Harley & Cockney Rebel"
+artist_name: "Steve Harley & Cockney Rebel"
+artist: "steve-harley-cockney-rebel"
 album_name: "The Best Years Of Our Lives"
 date: 2021-04-17T01:25:05.000000Z
 release_id: "18332692"

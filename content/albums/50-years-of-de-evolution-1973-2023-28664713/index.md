@@ -1,6 +1,7 @@
 ---
 title: "Devo - 50 Years Of De-Evolution (1973-2023)"
-artist: "Devo"
+artist_name: "Devo"
+artist: "devo"
 album_name: "50 Years Of De-Evolution (1973-2023)"
 date: 2023-10-21T23:55:46.000000Z
 release_id: "28664713"

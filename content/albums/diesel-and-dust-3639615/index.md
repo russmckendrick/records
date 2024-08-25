@@ -1,6 +1,7 @@
 ---
 title: "Midnight Oil - Diesel And Dust"
-artist: "Midnight Oil"
+artist_name: "Midnight Oil"
+artist: "midnight-oil"
 album_name: "Diesel And Dust"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1987-06-22"

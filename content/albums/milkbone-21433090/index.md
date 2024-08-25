@@ -1,6 +1,7 @@
 ---
 title: "Milkbone - Milkbone"
-artist: "Milkbone"
+artist_name: "Milkbone"
+artist: "milkbone"
 album_name: "Milkbone"
 date: 2021-12-23T04:37:40.000000Z
 release_id: "21433090"

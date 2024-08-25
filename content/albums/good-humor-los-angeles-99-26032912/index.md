@@ -1,6 +1,7 @@
 ---
 title: "Saint Etienne - Good Humor / Los Angeles '99"
-artist: "Saint Etienne"
+artist_name: "Saint Etienne"
+artist: "saint-etienne"
 album_name: "Good Humor / Los Angeles '99"
 date: 2023-02-13T11:31:52.000000Z
 release_id: "26032912"

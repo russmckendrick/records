@@ -1,6 +1,7 @@
 ---
 title: "The Pretty Things - Latest Writs The Best Of... Greatest Hits"
-artist: "The Pretty Things"
+artist_name: "The Pretty Things"
+artist: "the-pretty-things"
 album_name: "Latest Writs The Best Of... Greatest Hits"
 date: 2018-12-22T10:29:49.000000Z
 release_id: "10461741"

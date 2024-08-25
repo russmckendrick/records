@@ -1,6 +1,7 @@
 ---
 title: "Anna Meredith - Varmints"
-artist: "Anna Meredith"
+artist_name: "Anna Meredith"
+artist: "anna-meredith"
 album_name: "Varmints"
 date: 2016-10-26T16:18:45.000000Z
 release_date: "2016-03-04"

@@ -1,6 +1,7 @@
 ---
 title: "Moby - Everything Is Wrong"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Everything Is Wrong"
 date: 2018-01-26T20:03:24.000000Z
 release_id: "8577393"

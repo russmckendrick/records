@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Animals"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Animals"
 date: 2016-11-18T18:42:09.000000Z
 release_date: "1977-01-23"

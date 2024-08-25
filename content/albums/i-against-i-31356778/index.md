@@ -1,6 +1,7 @@
 ---
 title: "Bad Brains - I Against I"
-artist: "Bad Brains"
+artist_name: "Bad Brains"
+artist: "bad-brains"
 album_name: "I Against I"
 date: 2024-08-13T04:36:59.000000Z
 release_id: "31356778"

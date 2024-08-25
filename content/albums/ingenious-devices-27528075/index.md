@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Ingenious Devices"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Ingenious Devices"
 date: 2023-06-30T07:13:39.000000Z
 release_id: "27528075"

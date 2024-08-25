@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - God Says No"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "God Says No"
 date: 2016-07-10T09:49:54.000000Z
 release_date: "2001-01-01"

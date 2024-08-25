@@ -1,6 +1,7 @@
 ---
 title: "The Staves - All Now"
-artist: "The Staves"
+artist_name: "The Staves"
+artist: "the-staves"
 album_name: "All Now"
 date: 2024-03-29T07:21:44.000000Z
 release_id: "30163826"

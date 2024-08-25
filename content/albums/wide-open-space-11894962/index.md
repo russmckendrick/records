@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Wide Open Space"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Wide Open Space"
 date: 2018-04-26T17:55:35.000000Z
 release_id: "11894962"

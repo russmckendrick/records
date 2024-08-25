@@ -1,6 +1,7 @@
 ---
 title: "Derek & The Dominos - Layla And Other Assorted Love Songs"
-artist: "Derek & The Dominos"
+artist_name: "Derek & The Dominos"
+artist: "derek-the-dominos"
 album_name: "Layla And Other Assorted Love Songs"
 date: 2021-04-05T06:12:09.000000Z
 release_date: "1970-11-09"

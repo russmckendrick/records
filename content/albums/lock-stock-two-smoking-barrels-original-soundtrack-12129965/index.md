@@ -1,6 +1,7 @@
 ---
 title: "Various - Lock, Stock & Two Smoking Barrels - Original Soundtrack"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Lock, Stock & Two Smoking Barrels - Original Soundtrack"
 date: 2023-08-06T07:43:40.000000Z
 release_id: "12129965"

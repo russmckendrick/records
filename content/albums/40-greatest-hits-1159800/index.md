@@ -1,6 +1,7 @@
 ---
 title: "Elvis Presley - 40 Greatest Hits"
-artist: "Elvis Presley"
+artist_name: "Elvis Presley"
+artist: "elvis-presley"
 album_name: "40 Greatest Hits"
 date: 2016-01-08T19:12:12.000000Z
 release_id: "1159800"

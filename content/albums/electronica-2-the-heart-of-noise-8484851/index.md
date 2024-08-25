@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Electronica 2 - The Heart Of Noise"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Electronica 2 - The Heart Of Noise"
 date: 2018-01-26T20:02:54.000000Z
 release_id: "8484851"

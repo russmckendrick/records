@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Simplicity"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Simplicity"
 date: 2023-11-18T03:42:21.000000Z
 release_id: "28940773"

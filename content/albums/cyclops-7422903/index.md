@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Cyclops"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Cyclops"
 date: 2015-09-15T08:02:09.000000Z
 release_id: "7422903"

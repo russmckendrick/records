@@ -1,6 +1,7 @@
 ---
 title: "Frankie Goes To Hollywood - Welcome To The Pleasuredome"
-artist: "Frankie Goes To Hollywood"
+artist_name: "Frankie Goes To Hollywood"
+artist: "frankie-goes-to-hollywood"
 album_name: "Welcome To The Pleasuredome"
 date: 2015-10-14T18:38:58.000000Z
 release_id: "73458"

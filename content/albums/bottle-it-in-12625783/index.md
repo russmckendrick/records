@@ -1,6 +1,7 @@
 ---
 title: "Kurt Vile - Bottle It In"
-artist: "Kurt Vile"
+artist_name: "Kurt Vile"
+artist: "kurt-vile"
 album_name: "Bottle It In"
 date: 2018-10-12T20:00:07.000000Z
 release_id: "12625783"

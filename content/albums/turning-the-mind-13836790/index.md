@@ -1,6 +1,7 @@
 ---
 title: "Maps - Turning The Mind"
-artist: "Maps"
+artist_name: "Maps"
+artist: "maps"
 album_name: "Turning The Mind"
 date: 2019-09-01T09:46:37.000000Z
 release_id: "13836790"

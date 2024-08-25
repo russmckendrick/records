@@ -1,6 +1,7 @@
 ---
 title: "Neutral Milk Hotel - The Collected Works Of Neutral Milk Hotel"
-artist: "Neutral Milk Hotel"
+artist_name: "Neutral Milk Hotel"
+artist: "neutral-milk-hotel"
 album_name: "The Collected Works Of Neutral Milk Hotel"
 date: 2023-03-01T00:20:05.000000Z
 release_id: "26207714"

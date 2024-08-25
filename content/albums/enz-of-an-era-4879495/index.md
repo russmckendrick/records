@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Enz Of An Era"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Enz Of An Era"
 date: 2016-01-29T18:22:10.000000Z
 release_id: "4879495"

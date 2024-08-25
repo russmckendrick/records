@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - The Ultimate Collection"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "The Ultimate Collection"
 date: 2015-08-09T08:30:54.000000Z
 release_id: "6978849"

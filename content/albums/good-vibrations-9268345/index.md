@@ -1,6 +1,7 @@
 ---
 title: "The Beach Boys - Good Vibrations"
-artist: "The Beach Boys"
+artist_name: "The Beach Boys"
+artist: "the-beach-boys"
 album_name: "Good Vibrations"
 date: 2016-10-28T18:30:24.000000Z
 release_id: "9268345"

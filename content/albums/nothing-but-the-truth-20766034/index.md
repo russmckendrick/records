@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Nothing But The Truth"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Nothing But The Truth"
 date: 2021-11-03T04:57:21.000000Z
 release_id: "20766034"

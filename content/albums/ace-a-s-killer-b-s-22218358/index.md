@@ -1,6 +1,7 @@
 ---
 title: "Dodgy - Ace A's + Killer B's"
-artist: "Dodgy"
+artist_name: "Dodgy"
+artist: "dodgy"
 album_name: "Ace A's + Killer B's"
 date: 2022-02-25T09:30:43.000000Z
 release_id: "22218358"

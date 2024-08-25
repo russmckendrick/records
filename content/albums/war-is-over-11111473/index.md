@@ -1,6 +1,7 @@
 ---
 title: "Von Hertzen Brothers - War Is Over"
-artist: "Von Hertzen Brothers"
+artist_name: "Von Hertzen Brothers"
+artist: "von-hertzen-brothers"
 album_name: "War Is Over"
 date: 2017-11-12T13:25:28.000000Z
 release_id: "11111473"

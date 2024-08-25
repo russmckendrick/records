@@ -1,6 +1,7 @@
 ---
 title: "Ray Charles - The Atlantic Years - In Mono"
-artist: "Ray Charles"
+artist_name: "Ray Charles"
+artist: "ray-charles"
 album_name: "The Atlantic Years - In Mono"
 date: 2016-09-24T14:19:56.000000Z
 release_id: "9092544"

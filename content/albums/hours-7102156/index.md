@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Hours..."
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Hours..."
 date: 2016-01-22T19:34:03.000000Z
 release_id: "7102156"

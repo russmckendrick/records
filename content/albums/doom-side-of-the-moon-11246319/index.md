@@ -1,6 +1,7 @@
 ---
 title: "Doom Side Of The Moon - Doom Side Of The Moon"
-artist: "Doom Side Of The Moon"
+artist_name: "Doom Side Of The Moon"
+artist: "doom-side-of-the-moon"
 album_name: "Doom Side Of The Moon"
 date: 2018-01-25T18:53:03.000000Z
 release_id: "11246319"

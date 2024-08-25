@@ -1,6 +1,7 @@
 ---
 title: "St. Paul & The Broken Bones - Young Sick Camellia"
-artist: "St. Paul & The Broken Bones"
+artist_name: "St. Paul & The Broken Bones"
+artist: "st-paul-the-broken-bones"
 album_name: "Young Sick Camellia"
 date: 2018-09-29T07:59:02.000000Z
 release_id: "12491197"

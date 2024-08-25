@@ -1,6 +1,7 @@
 ---
 title: "Carter The Unstoppable Sex Machine - 101 Damnations"
-artist: "Carter The Unstoppable Sex Machine"
+artist_name: "Carter The Unstoppable Sex Machine"
+artist: "carter-the-unstoppable-sex-machine"
 album_name: "101 Damnations"
 date: 2016-01-15T18:22:32.000000Z
 release_id: "928285"

@@ -1,6 +1,7 @@
 ---
 title: "The Sha La Das - Love in the Wind"
-artist: "The Sha La Das"
+artist_name: "The Sha La Das"
+artist: "the-sha-la-das"
 album_name: "Love in the Wind"
 date: 2018-09-25T19:14:45.000000Z
 release_id: "12550052"

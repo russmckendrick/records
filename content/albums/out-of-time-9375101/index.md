@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Out Of Time"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Out Of Time"
 date: 2018-01-08T18:31:33.000000Z
 release_date: "1991-03-12"

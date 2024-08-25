@@ -1,6 +1,7 @@
 ---
 title: "The Books - The Lemon Of Pink"
-artist: "The Books"
+artist_name: "The Books"
+artist: "the-books"
 album_name: "The Lemon Of Pink"
 date: 2016-11-17T19:53:17.000000Z
 release_id: "9332526"

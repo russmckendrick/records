@@ -1,6 +1,7 @@
 ---
 title: "Various - High Fidelity (A Hulu Original)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "High Fidelity (A Hulu Original)"
 date: 2020-07-27T14:32:03.000000Z
 release_id: "15540975"

@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Smash (The Singles 1985-2020)"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Smash (The Singles 1985-2020)"
 date: 2023-06-16T09:59:40.000000Z
 release_id: "27393912"

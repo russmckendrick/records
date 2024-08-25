@@ -1,6 +1,7 @@
 ---
 title: "Steve Mason - About The Light"
-artist: "Steve Mason"
+artist_name: "Steve Mason"
+artist: "steve-mason"
 album_name: "About The Light"
 date: 2019-01-19T09:38:30.000000Z
 release_date: "2019-01-18"

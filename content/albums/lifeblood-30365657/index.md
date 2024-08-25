@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Lifeblood"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Lifeblood"
 date: 2024-04-16T11:29:50.000000Z
 release_id: "30365657"

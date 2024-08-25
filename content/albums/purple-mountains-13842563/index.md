@@ -1,6 +1,7 @@
 ---
 title: "Purple Mountains - Purple Mountains"
-artist: "Purple Mountains"
+artist_name: "Purple Mountains"
+artist: "purple-mountains"
 album_name: "Purple Mountains"
 date: 2019-07-12T15:33:26.000000Z
 release_date: "2019-07-12"

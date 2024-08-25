@@ -1,6 +1,7 @@
 ---
 title: "Ride - This Is Not A Safe Place"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "This Is Not A Safe Place"
 date: 2019-08-16T17:13:34.000000Z
 release_id: "14003030"

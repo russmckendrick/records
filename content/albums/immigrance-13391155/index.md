@@ -1,6 +1,7 @@
 ---
 title: "Snarky Puppy - Immigrance"
-artist: "Snarky Puppy"
+artist_name: "Snarky Puppy"
+artist: "snarky-puppy"
 album_name: "Immigrance"
 date: 2020-01-25T14:28:55.000000Z
 release_date: "2019-03-15"

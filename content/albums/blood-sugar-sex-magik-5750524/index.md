@@ -1,6 +1,7 @@
 ---
 title: "Red Hot Chili Peppers - Blood Sugar Sex Magik"
-artist: "Red Hot Chili Peppers"
+artist_name: "Red Hot Chili Peppers"
+artist: "red-hot-chili-peppers"
 album_name: "Blood Sugar Sex Magik"
 date: 2016-05-18T16:48:23.000000Z
 release_date: "1991-09-24"

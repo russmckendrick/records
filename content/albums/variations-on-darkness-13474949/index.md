@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - Variations On Darkness"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "Variations On Darkness"
 date: 2019-04-13T11:16:44.000000Z
 release_id: "13474949"

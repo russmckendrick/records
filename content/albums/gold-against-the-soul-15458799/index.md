@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Gold Against The Soul"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Gold Against The Soul"
 date: 2020-06-13T16:53:43.000000Z
 release_id: "15458799"

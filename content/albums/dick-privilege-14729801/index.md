@@ -1,6 +1,7 @@
 ---
 title: "Vennart - Dick Privilege"
-artist: "Vennart"
+artist_name: "Vennart"
+artist: "vennart"
 album_name: "Dick Privilege"
 date: 2020-04-24T09:04:58.000000Z
 release_id: "14729801"

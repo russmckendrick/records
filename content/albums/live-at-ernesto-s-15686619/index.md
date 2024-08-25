@@ -1,6 +1,7 @@
 ---
 title: "The Slackers - Live At Ernesto's!"
-artist: "The Slackers"
+artist_name: "The Slackers"
+artist: "the-slackers"
 album_name: "Live At Ernesto's!"
 date: 2020-08-14T16:53:28.000000Z
 release_id: "15686619"

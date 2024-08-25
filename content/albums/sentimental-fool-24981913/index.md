@@ -1,6 +1,7 @@
 ---
 title: "Lee Fields - Sentimental Fool"
-artist: "Lee Fields"
+artist_name: "Lee Fields"
+artist: "lee-fields"
 album_name: "Sentimental Fool"
 date: 2022-11-04T06:15:31.000000Z
 release_id: "24981913"

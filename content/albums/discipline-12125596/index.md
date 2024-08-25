@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Discipline"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Discipline"
 date: 2023-02-03T11:49:37.000000Z
 release_id: "12125596"

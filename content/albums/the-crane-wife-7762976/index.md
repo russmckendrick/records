@@ -1,6 +1,7 @@
 ---
 title: "The Decemberists - The Crane Wife"
-artist: "The Decemberists"
+artist_name: "The Decemberists"
+artist: "the-decemberists"
 album_name: "The Crane Wife"
 date: 2016-10-28T17:21:50.000000Z
 release_date: "2007-01-29"

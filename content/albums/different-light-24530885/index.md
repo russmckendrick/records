@@ -1,6 +1,7 @@
 ---
 title: "Bangles - Different Light"
-artist: "Bangles"
+artist_name: "Bangles"
+artist: "bangles"
 album_name: "Different Light"
 date: 2022-09-16T09:28:23.000000Z
 release_id: "24530885"

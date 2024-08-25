@@ -1,6 +1,7 @@
 ---
 title: "Ozric Tentacles - Jurassic Shift"
-artist: "Ozric Tentacles"
+artist_name: "Ozric Tentacles"
+artist: "ozric-tentacles"
 album_name: "Jurassic Shift"
 date: 2020-06-01T13:34:09.000000Z
 release_id: "5159986"

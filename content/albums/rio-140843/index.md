@@ -1,6 +1,7 @@
 ---
 title: "Duran Duran - Rio"
-artist: "Duran Duran"
+artist_name: "Duran Duran"
+artist: "duran-duran"
 album_name: "Rio"
 date: 2020-08-02T13:40:07.000000Z
 release_date: "1982-05-10"

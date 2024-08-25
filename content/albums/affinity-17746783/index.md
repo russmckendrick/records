@@ -1,6 +1,7 @@
 ---
 title: "Haken - Affinity"
-artist: "Haken"
+artist_name: "Haken"
+artist: "haken"
 album_name: "Affinity"
 date: 2021-03-08T12:38:35.000000Z
 release_id: "17746783"

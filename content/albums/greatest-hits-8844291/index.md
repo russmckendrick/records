@@ -1,6 +1,7 @@
 ---
 title: "Tom Petty And The Heartbreakers - Greatest Hits"
-artist: "Tom Petty And The Heartbreakers"
+artist_name: "Tom Petty And The Heartbreakers"
+artist: "tom-petty-and-the-heartbreakers"
 album_name: "Greatest Hits"
 date: 2017-02-05T12:26:11.000000Z
 release_id: "8844291"

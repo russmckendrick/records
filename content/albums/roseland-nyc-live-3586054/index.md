@@ -1,6 +1,7 @@
 ---
 title: "Portishead - Roseland NYC Live"
-artist: "Portishead"
+artist_name: "Portishead"
+artist: "portishead"
 album_name: "Roseland NYC Live"
 date: 2016-01-31T14:13:01.000000Z
 release_id: "3586054"

@@ -1,6 +1,7 @@
 ---
 title: "Louise Rhodes - Theyesandeye"
-artist: "Louise Rhodes"
+artist_name: "Louise Rhodes"
+artist: "louise-rhodes"
 album_name: "Theyesandeye"
 date: 2016-07-25T18:37:38.000000Z
 release_id: "8812487"

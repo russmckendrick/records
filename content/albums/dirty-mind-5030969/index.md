@@ -1,6 +1,7 @@
 ---
 title: "Prince - Dirty Mind"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Dirty Mind"
 date: 2016-10-23T08:56:22.000000Z
 release_date: "1980-10-08"

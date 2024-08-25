@@ -1,6 +1,7 @@
 ---
 title: "The Specials - Ghost Town / Why? / Friday Night, Saturday Morning"
-artist: "The Specials"
+artist_name: "The Specials"
+artist: "the-specials"
 album_name: "Ghost Town / Why? / Friday Night, Saturday Morning"
 date: 2022-03-21T06:19:54.000000Z
 release_id: "19008790"

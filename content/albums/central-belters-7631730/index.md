@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Central Belters"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Central Belters"
 date: 2015-10-29T17:26:12.000000Z
 release_date: "2015-10-23"

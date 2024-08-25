@@ -1,6 +1,7 @@
 ---
 title: "The Stranglers - Peaches: The Very Best Of The Stranglers"
-artist: "The Stranglers"
+artist_name: "The Stranglers"
+artist: "the-stranglers"
 album_name: "Peaches: The Very Best Of The Stranglers"
 date: 2020-11-27T17:46:06.000000Z
 release_id: "16274027"

@@ -1,6 +1,7 @@
 ---
 title: "Calexico - The Thread That Keeps Us"
-artist: "Calexico"
+artist_name: "Calexico"
+artist: "calexico"
 album_name: "The Thread That Keeps Us"
 date: 2018-02-03T10:16:47.000000Z
 release_id: "11468668"

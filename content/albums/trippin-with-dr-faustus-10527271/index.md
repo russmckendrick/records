@@ -1,6 +1,7 @@
 ---
 title: "Amplifier - Trippin' With Dr. Faustus"
-artist: "Amplifier"
+artist_name: "Amplifier"
+artist: "amplifier"
 album_name: "Trippin' With Dr. Faustus"
 date: 2018-08-12T09:43:08.000000Z
 release_id: "10527271"

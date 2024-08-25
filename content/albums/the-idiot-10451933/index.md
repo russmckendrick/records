@@ -1,6 +1,7 @@
 ---
 title: "Iggy Pop - The Idiot"
-artist: "Iggy Pop"
+artist_name: "Iggy Pop"
+artist: "iggy-pop"
 album_name: "The Idiot"
 date: 2017-07-05T14:34:36.000000Z
 release_id: "10451933"

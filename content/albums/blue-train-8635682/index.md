@@ -1,6 +1,7 @@
 ---
 title: "John Coltrane - Blue Train "
-artist: "John Coltrane"
+artist_name: "John Coltrane"
+artist: "john-coltrane"
 album_name: "Blue Train "
 date: 2017-05-12T18:25:29.000000Z
 release_date: "1957-11-01"

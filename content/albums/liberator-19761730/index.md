@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Liberator"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Liberator"
 date: 2022-07-31T06:15:26.000000Z
 release_id: "19761730"

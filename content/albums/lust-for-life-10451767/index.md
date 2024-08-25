@@ -1,6 +1,7 @@
 ---
 title: "Iggy Pop - Lust For Life"
-artist: "Iggy Pop"
+artist_name: "Iggy Pop"
+artist: "iggy-pop"
 album_name: "Lust For Life"
 date: 2017-07-05T14:34:19.000000Z
 release_id: "10451767"

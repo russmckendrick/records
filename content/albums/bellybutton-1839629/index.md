@@ -1,6 +1,7 @@
 ---
 title: "Jellyfish - Bellybutton"
-artist: "Jellyfish"
+artist_name: "Jellyfish"
+artist: "jellyfish"
 album_name: "Bellybutton"
 date: 2016-02-11T19:06:02.000000Z
 release_id: "1839629"

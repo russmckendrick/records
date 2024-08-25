@@ -1,6 +1,7 @@
 ---
 title: "Mike Oldfield - Tubular Bells"
-artist: "Mike Oldfield"
+artist_name: "Mike Oldfield"
+artist: "mike-oldfield"
 album_name: "Tubular Bells"
 date: 2016-12-01T06:53:11.000000Z
 release_date: "1973-02-01"

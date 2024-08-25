@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - The Fragile Army"
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "The Fragile Army"
 date: 2017-07-14T20:27:26.000000Z
 release_id: "1133398"

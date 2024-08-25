@@ -1,6 +1,7 @@
 ---
 title: "The Hold Steady - Boys and Girls in America"
-artist: "The Hold Steady"
+artist_name: "The Hold Steady"
+artist: "the-hold-steady"
 album_name: "Boys and Girls in America"
 date: 2017-04-17T13:21:59.000000Z
 release_id: "9520767"

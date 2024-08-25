@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Dopes To Infinity"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Dopes To Infinity"
 date: 2016-02-17T18:14:14.000000Z
 release_date: "1995-01-01"

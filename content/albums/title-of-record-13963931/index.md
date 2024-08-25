@@ -1,6 +1,7 @@
 ---
 title: "Filter - Title Of Record"
-artist: "Filter"
+artist_name: "Filter"
+artist: "filter"
 album_name: "Title Of Record"
 date: 2019-08-09T17:51:24.000000Z
 release_id: "13963931"

@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Siamese Dream"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Siamese Dream"
 date: 2016-02-24T13:04:29.000000Z
 release_date: "1993-07-27"

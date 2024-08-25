@@ -1,6 +1,7 @@
 ---
 title: "The Undertones - West Bank Songs 1978-1983 (A Best Of)"
-artist: "The Undertones"
+artist_name: "The Undertones"
+artist: "the-undertones"
 album_name: "West Bank Songs 1978-1983 (A Best Of)"
 date: 2020-05-09T09:27:33.000000Z
 release_id: "14843180"

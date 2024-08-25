@@ -1,6 +1,7 @@
 ---
 title: "John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
-artist: "John Williams"
+artist_name: "John Williams"
+artist: "john-williams"
 album_name: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack"
 date: 2016-08-17T19:17:32.000000Z
 release_id: "8902517"

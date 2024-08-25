@@ -1,6 +1,7 @@
 ---
 title: "Metallica - … And Justice For All"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "… And Justice For All"
 date: 2024-02-06T12:20:44.000000Z
 release_id: "29674207"

@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - Walk Between Worlds"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "Walk Between Worlds"
 date: 2018-02-03T10:17:35.000000Z
 release_id: "11490159"

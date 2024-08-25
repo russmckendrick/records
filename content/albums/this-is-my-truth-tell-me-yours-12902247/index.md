@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - This Is My Truth Tell Me Yours"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "This Is My Truth Tell Me Yours"
 date: 2018-12-07T20:17:49.000000Z
 release_id: "12902247"

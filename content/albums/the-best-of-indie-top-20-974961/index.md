@@ -1,6 +1,7 @@
 ---
 title: "Various - The Best Of Indie Top 20"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Best Of Indie Top 20"
 date: 2019-04-26T12:45:43.000000Z
 release_id: "974961"

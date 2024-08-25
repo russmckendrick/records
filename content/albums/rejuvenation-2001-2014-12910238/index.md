@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - Rejuvenation 2001-2014"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "Rejuvenation 2001-2014"
 date: 2020-05-26T19:08:56.000000Z
 release_id: "12910238"

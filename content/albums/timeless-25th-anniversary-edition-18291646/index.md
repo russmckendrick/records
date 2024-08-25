@@ -1,6 +1,7 @@
 ---
 title: "Goldie - Timeless (25th Anniversary Edition)"
-artist: "Goldie"
+artist_name: "Goldie"
+artist: "goldie"
 album_name: "Timeless (25th Anniversary Edition)"
 date: 2021-04-17T05:04:21.000000Z
 release_id: "18291646"

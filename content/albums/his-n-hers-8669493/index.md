@@ -1,6 +1,7 @@
 ---
 title: "Pulp - His 'N' Hers"
-artist: "Pulp"
+artist_name: "Pulp"
+artist: "pulp"
 album_name: "His 'N' Hers"
 date: 2016-06-22T05:19:28.000000Z
 release_id: "8669493"

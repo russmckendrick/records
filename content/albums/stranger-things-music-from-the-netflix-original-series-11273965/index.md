@@ -1,6 +1,7 @@
 ---
 title: "Various - Stranger Things (Music From The Netflix Original Series)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Stranger Things (Music From The Netflix Original Series)"
 date: 2018-05-15T11:37:32.000000Z
 release_id: "11273965"

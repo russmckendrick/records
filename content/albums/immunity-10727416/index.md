@@ -1,6 +1,7 @@
 ---
 title: "Jon Hopkins - Immunity"
-artist: "Jon Hopkins"
+artist_name: "Jon Hopkins"
+artist: "jon-hopkins"
 album_name: "Immunity"
 date: 2020-04-10T12:40:54.000000Z
 release_id: "10727416"

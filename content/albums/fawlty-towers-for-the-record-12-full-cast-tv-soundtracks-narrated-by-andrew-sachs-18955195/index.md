@@ -1,6 +1,7 @@
 ---
 title: "Fawlty Towers - Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)"
-artist: "Fawlty Towers"
+artist_name: "Fawlty Towers"
+artist: "fawlty-towers"
 album_name: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)"
 date: 2021-05-31T08:09:51.000000Z
 release_id: "18955195"

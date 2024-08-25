@@ -1,6 +1,7 @@
 ---
 title: "Riverside - Wasteland"
-artist: "Riverside"
+artist_name: "Riverside"
+artist: "riverside"
 album_name: "Wasteland"
 date: 2018-09-30T12:30:44.000000Z
 release_date: "2018-09-28"

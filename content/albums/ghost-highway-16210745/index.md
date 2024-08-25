@@ -1,6 +1,7 @@
 ---
 title: "Mazzy Star - Ghost Highway"
-artist: "Mazzy Star"
+artist_name: "Mazzy Star"
+artist: "mazzy-star"
 album_name: "Ghost Highway"
 date: 2023-03-20T13:05:46.000000Z
 release_id: "16210745"

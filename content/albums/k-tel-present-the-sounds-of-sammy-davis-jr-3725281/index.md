@@ -1,6 +1,7 @@
 ---
 title: "Sammy Davis Jr. - K-Tel Present The Sounds Of Sammy Davis Jr."
-artist: "Sammy Davis Jr."
+artist_name: "Sammy Davis Jr."
+artist: "sammy-davis-jr"
 album_name: "K-Tel Present The Sounds Of Sammy Davis Jr."
 date: 2020-08-02T13:34:30.000000Z
 release_id: "3725281"

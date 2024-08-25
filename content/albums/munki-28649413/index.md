@@ -1,6 +1,7 @@
 ---
 title: "The Jesus And Mary Chain - Munki"
-artist: "The Jesus And Mary Chain"
+artist_name: "The Jesus And Mary Chain"
+artist: "the-jesus-and-mary-chain"
 album_name: "Munki"
 date: 2023-10-25T11:53:49.000000Z
 release_id: "28649413"

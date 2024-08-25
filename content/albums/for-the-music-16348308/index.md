@@ -1,6 +1,7 @@
 ---
 title: "Blackfield - For The Music"
-artist: "Blackfield"
+artist_name: "Blackfield"
+artist: "blackfield"
 album_name: "For The Music"
 date: 2021-02-08T05:19:16.000000Z
 release_id: "16348308"

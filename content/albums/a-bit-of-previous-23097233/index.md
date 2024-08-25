@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - A Bit Of Previous"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "A Bit Of Previous"
 date: 2022-05-08T06:21:58.000000Z
 release_date: "2022-05-06"

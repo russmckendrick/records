@@ -1,6 +1,7 @@
 ---
 title: "Eric Clapton - 461 Ocean Boulevard"
-artist: "Eric Clapton"
+artist_name: "Eric Clapton"
+artist: "eric-clapton"
 album_name: "461 Ocean Boulevard"
 date: 2020-08-02T13:40:52.000000Z
 release_id: "1496277"

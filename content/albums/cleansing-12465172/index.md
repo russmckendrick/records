@@ -1,6 +1,7 @@
 ---
 title: "Prong - Cleansing"
-artist: "Prong"
+artist_name: "Prong"
+artist: "prong"
 album_name: "Cleansing"
 date: 2018-10-12T20:02:23.000000Z
 release_id: "12465172"

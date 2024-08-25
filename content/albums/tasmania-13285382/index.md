@@ -1,6 +1,7 @@
 ---
 title: "Pond - Tasmania"
-artist: "Pond"
+artist_name: "Pond"
+artist: "pond"
 album_name: "Tasmania"
 date: 2019-03-04T18:39:14.000000Z
 release_id: "13285382"

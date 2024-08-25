@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Conflicting Emotions"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Conflicting Emotions"
 date: 2018-10-03T18:03:38.000000Z
 release_id: "2243861"

@@ -1,6 +1,7 @@
 ---
 title: "Joe Satriani - Surfing With The Alien"
-artist: "Joe Satriani"
+artist_name: "Joe Satriani"
+artist: "joe-satriani"
 album_name: "Surfing With The Alien"
 date: 2019-12-05T18:06:10.000000Z
 release_id: "14479209"

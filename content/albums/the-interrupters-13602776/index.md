@@ -1,6 +1,7 @@
 ---
 title: "The Interrupters - The Interrupters"
-artist: "The Interrupters"
+artist_name: "The Interrupters"
+artist: "the-interrupters"
 album_name: "The Interrupters"
 date: 2022-10-04T01:58:14.000000Z
 release_id: "13602776"

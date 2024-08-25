@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Glastonbury 2000"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Glastonbury 2000"
 date: 2018-11-30T15:19:36.000000Z
 release_id: "12811492"

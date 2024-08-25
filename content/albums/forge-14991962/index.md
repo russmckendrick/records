@@ -1,6 +1,7 @@
 ---
 title: "Fassine - Forge"
-artist: "Fassine"
+artist_name: "Fassine"
+artist: "fassine"
 album_name: "Forge"
 date: 2020-04-09T17:08:32.000000Z
 release_id: "14991962"

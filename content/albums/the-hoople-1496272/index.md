@@ -1,6 +1,7 @@
 ---
 title: "Mott The Hoople - The Hoople"
-artist: "Mott The Hoople"
+artist_name: "Mott The Hoople"
+artist: "mott-the-hoople"
 album_name: "The Hoople"
 date: 2017-05-27T15:31:19.000000Z
 release_id: "1496272"

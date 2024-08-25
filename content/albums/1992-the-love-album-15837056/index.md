@@ -1,6 +1,7 @@
 ---
 title: "Carter The Unstoppable Sex Machine - 1992 The Love Album"
-artist: "Carter The Unstoppable Sex Machine"
+artist_name: "Carter The Unstoppable Sex Machine"
+artist: "carter-the-unstoppable-sex-machine"
 album_name: "1992 The Love Album"
 date: 2020-09-03T12:30:52.000000Z
 release_id: "15837056"

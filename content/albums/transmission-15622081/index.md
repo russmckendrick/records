@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Transmission"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Transmission"
 date: 2020-07-17T12:21:06.000000Z
 release_id: "15622081"

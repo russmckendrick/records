@@ -1,6 +1,7 @@
 ---
 title: "Tell 'Em Steve-Dave - Vinylcast (Foam Face Edition)"
-artist: "Tell 'Em Steve-Dave"
+artist_name: "Tell 'Em Steve-Dave"
+artist: "tell-em-steve-dave"
 album_name: "Vinylcast (Foam Face Edition)"
 date: 2016-10-19T17:04:04.000000Z
 release_id: "9173592"

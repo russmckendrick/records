@@ -1,6 +1,7 @@
 ---
 title: "Broken DC - Astragal"
-artist: "Broken DC"
+artist_name: "Broken DC"
+artist: "broken-dc"
 album_name: "Astragal"
 date: 2016-11-17T19:53:32.000000Z
 release_id: "9156904"

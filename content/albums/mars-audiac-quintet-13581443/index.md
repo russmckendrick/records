@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Mars Audiac Quintet"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Mars Audiac Quintet"
 date: 2019-09-17T18:16:50.000000Z
 release_date: "1994-08-09"

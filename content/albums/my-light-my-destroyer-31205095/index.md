@@ -1,6 +1,7 @@
 ---
 title: "Cassandra Jenkins - My Light, My Destroyer"
-artist: "Cassandra Jenkins"
+artist_name: "Cassandra Jenkins"
+artist: "cassandra-jenkins"
 album_name: "My Light, My Destroyer"
 date: 2024-07-30T03:45:06.000000Z
 release_id: "31205095"

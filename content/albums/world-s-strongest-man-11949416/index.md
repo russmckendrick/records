@@ -1,6 +1,7 @@
 ---
 title: "Gaz Coombes - World's Strongest Man"
-artist: "Gaz Coombes"
+artist_name: "Gaz Coombes"
+artist: "gaz-coombes"
 album_name: "World's Strongest Man"
 date: 2018-05-04T19:02:20.000000Z
 release_date: "2018-05-04"

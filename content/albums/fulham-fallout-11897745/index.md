@@ -1,6 +1,7 @@
 ---
 title: "The Lurkers - Fulham Fallout"
-artist: "The Lurkers"
+artist_name: "The Lurkers"
+artist: "the-lurkers"
 album_name: "Fulham Fallout"
 date: 2018-04-25T17:47:27.000000Z
 release_id: "11897745"

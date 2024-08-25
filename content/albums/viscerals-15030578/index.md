@@ -1,6 +1,7 @@
 ---
 title: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals"
-artist: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+artist_name: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+artist: "pigs-pigs-pigs-pigs-pigs-pigs-pigs"
 album_name: "Viscerals"
 date: 2020-04-09T16:44:54.000000Z
 release_id: "15030578"

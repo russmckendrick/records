@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Automatic For The People"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Automatic For The People"
 date: 2015-08-09T08:39:05.000000Z
 release_date: "1992-10-05"

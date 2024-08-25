@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Delicate Sound Of Thunder"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Delicate Sound Of Thunder"
 date: 2017-11-17T16:42:40.000000Z
 release_id: "10775346"

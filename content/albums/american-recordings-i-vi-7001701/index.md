@@ -1,6 +1,7 @@
 ---
 title: "Johnny Cash - American Recordings I - VI"
-artist: "Johnny Cash"
+artist_name: "Johnny Cash"
+artist: "johnny-cash"
 album_name: "American Recordings I - VI"
 date: 2015-12-29T19:02:02.000000Z
 release_id: "7001701"

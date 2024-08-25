@@ -1,6 +1,7 @@
 ---
 title: "Nine Inch Nails - The Downward Spiral"
-artist: "Nine Inch Nails"
+artist_name: "Nine Inch Nails"
+artist: "nine-inch-nails"
 album_name: "The Downward Spiral"
 date: 2016-12-27T12:09:31.000000Z
 release_date: "1994-03-08"

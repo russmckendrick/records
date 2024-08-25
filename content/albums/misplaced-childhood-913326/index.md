@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Misplaced Childhood"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Misplaced Childhood"
 date: 2015-08-15T09:23:09.000000Z
 release_id: "913326"

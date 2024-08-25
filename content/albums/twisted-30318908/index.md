@@ -1,6 +1,7 @@
 ---
 title: "Del Amitri - Twisted"
-artist: "Del Amitri"
+artist_name: "Del Amitri"
+artist: "del-amitri"
 album_name: "Twisted"
 date: 2024-04-09T04:38:10.000000Z
 release_id: "30318908"

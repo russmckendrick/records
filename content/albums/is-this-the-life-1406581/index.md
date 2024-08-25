@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Is This The Life"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Is This The Life"
 date: 2016-12-13T17:55:39.000000Z
 release_id: "1406581"

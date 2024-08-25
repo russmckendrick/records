@@ -1,6 +1,7 @@
 ---
 title: "Elephant Gym - Underwater"
-artist: "Elephant Gym"
+artist_name: "Elephant Gym"
+artist: "elephant-gym"
 album_name: "Underwater"
 date: 2019-08-15T17:59:55.000000Z
 release_id: "13413825"

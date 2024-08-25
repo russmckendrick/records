@@ -1,6 +1,7 @@
 ---
 title: "Queens Of The Stone Age - Queens Of The Stone Age"
-artist: "Queens Of The Stone Age"
+artist_name: "Queens Of The Stone Age"
+artist: "queens-of-the-stone-age"
 album_name: "Queens Of The Stone Age"
 date: 2022-11-04T06:15:12.000000Z
 release_id: "20712265"

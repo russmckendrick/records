@@ -1,6 +1,7 @@
 ---
 title: "Goldfrapp - Seventh Tree"
-artist: "Goldfrapp"
+artist_name: "Goldfrapp"
+artist: "goldfrapp"
 album_name: "Seventh Tree"
 date: 2021-04-01T00:47:49.000000Z
 release_id: "17643982"

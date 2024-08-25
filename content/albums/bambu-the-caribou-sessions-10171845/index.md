@@ -1,6 +1,7 @@
 ---
 title: "Dennis Wilson - Bambu (The Caribou Sessions)"
-artist: "Dennis Wilson"
+artist_name: "Dennis Wilson"
+artist: "dennis-wilson"
 album_name: "Bambu (The Caribou Sessions)"
 date: 2017-04-23T12:07:10.000000Z
 release_id: "10171845"

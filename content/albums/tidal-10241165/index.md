@@ -1,6 +1,7 @@
 ---
 title: "Fiona Apple - Tidal"
-artist: "Fiona Apple"
+artist_name: "Fiona Apple"
+artist: "fiona-apple"
 album_name: "Tidal"
 date: 2017-05-16T18:15:12.000000Z
 release_date: "1996-07-23"

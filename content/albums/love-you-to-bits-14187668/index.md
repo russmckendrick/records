@@ -1,6 +1,7 @@
 ---
 title: "No-Man - Love You To Bits"
-artist: "No-Man"
+artist_name: "No-Man"
+artist: "no-man"
 album_name: "Love You To Bits"
 date: 2019-11-23T07:45:00.000000Z
 release_id: "14187668"

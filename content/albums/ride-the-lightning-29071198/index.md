@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Ride The Lightning"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Ride The Lightning"
 date: 2023-12-05T10:35:17.000000Z
 release_id: "29071198"

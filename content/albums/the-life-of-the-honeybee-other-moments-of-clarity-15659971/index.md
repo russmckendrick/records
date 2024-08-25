@@ -1,6 +1,7 @@
 ---
 title: "Abel Ganz - The Life Of The Honeybee & Other Moments Of Clarity"
-artist: "Abel Ganz"
+artist_name: "Abel Ganz"
+artist: "abel-ganz"
 album_name: "The Life Of The Honeybee & Other Moments Of Clarity"
 date: 2021-01-17T10:31:14.000000Z
 release_id: "15659971"

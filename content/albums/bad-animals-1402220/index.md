@@ -1,6 +1,7 @@
 ---
 title: "Heart - Bad Animals"
-artist: "Heart"
+artist_name: "Heart"
+artist: "heart"
 album_name: "Bad Animals"
 date: 2015-10-14T18:37:05.000000Z
 release_id: "1402220"

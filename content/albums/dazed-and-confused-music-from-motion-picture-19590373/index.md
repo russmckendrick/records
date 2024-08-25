@@ -1,6 +1,7 @@
 ---
 title: "Various - Dazed and Confused (Music From Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Dazed and Confused (Music From Motion Picture)"
 date: 2021-10-09T06:39:41.000000Z
 release_id: "19590373"

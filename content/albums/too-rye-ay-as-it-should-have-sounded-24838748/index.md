@@ -1,6 +1,7 @@
 ---
 title: "Kevin Rowland - Too-Rye-Ay (As It Should Have Sounded)"
-artist: "Kevin Rowland"
+artist_name: "Kevin Rowland"
+artist: "kevin-rowland"
 album_name: "Too-Rye-Ay (As It Should Have Sounded)"
 date: 2022-10-16T01:57:33.000000Z
 release_id: "24838748"

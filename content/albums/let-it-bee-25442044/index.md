@@ -1,6 +1,7 @@
 ---
 title: "Voice Of The Beehive - Let It Bee"
-artist: "Voice Of The Beehive"
+artist_name: "Voice Of The Beehive"
+artist: "voice-of-the-beehive"
 album_name: "Let It Bee"
 date: 2022-12-12T06:40:39.000000Z
 release_id: "25442044"

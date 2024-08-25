@@ -1,6 +1,7 @@
 ---
 title: "Various - Quadrophenia (Music From The Soundtrack Of The Who Film)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Quadrophenia (Music From The Soundtrack Of The Who Film)"
 date: 2017-06-06T17:29:01.000000Z
 release_id: "10174777"

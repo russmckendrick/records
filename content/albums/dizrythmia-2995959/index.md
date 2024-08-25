@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Dizrythmia"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Dizrythmia"
 date: 2016-02-02T19:46:54.000000Z
 release_id: "2995959"

@@ -1,6 +1,7 @@
 ---
 title: "Def Leppard - Pyromania"
-artist: "Def Leppard"
+artist_name: "Def Leppard"
+artist: "def-leppard"
 album_name: "Pyromania"
 date: 2022-05-09T02:38:44.000000Z
 release_date: "1983-01-20"

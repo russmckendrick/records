@@ -1,6 +1,7 @@
 ---
 title: "World Party - Private Revolution"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Private Revolution"
 date: 2019-11-08T19:52:05.000000Z
 release_id: "12102024"

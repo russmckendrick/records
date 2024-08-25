@@ -1,6 +1,7 @@
 ---
 title: "Siouxsie & The Banshees - The Rapture"
-artist: "Siouxsie & The Banshees"
+artist_name: "Siouxsie & The Banshees"
+artist: "siouxsie-the-banshees"
 album_name: "The Rapture"
 date: 2023-10-22T06:31:57.000000Z
 release_id: "28589824"

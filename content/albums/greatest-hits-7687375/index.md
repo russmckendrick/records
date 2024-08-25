@@ -1,6 +1,7 @@
 ---
 title: "Al Green - Greatest Hits"
-artist: "Al Green"
+artist_name: "Al Green"
+artist: "al-green"
 album_name: "Greatest Hits"
 date: 2018-08-07T17:48:06.000000Z
 release_date: "1975-04-01"

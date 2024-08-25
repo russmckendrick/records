@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Afterglow"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Afterglow"
 date: 2016-11-08T19:07:33.000000Z
 release_id: "9322428"

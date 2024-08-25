@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Slowdive EP"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Slowdive EP"
 date: 2020-09-15T17:32:11.000000Z
 release_id: "15825430"

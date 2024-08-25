@@ -1,6 +1,7 @@
 ---
 title: "The Platters - The Platters"
-artist: "The Platters"
+artist_name: "The Platters"
+artist: "the-platters"
 album_name: "The Platters"
 date: 2020-08-02T13:49:33.000000Z
 release_id: "5675912"

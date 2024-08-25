@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - EP ONE"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "EP ONE"
 date: 2016-06-12T09:55:00.000000Z
 release_id: "8636062"

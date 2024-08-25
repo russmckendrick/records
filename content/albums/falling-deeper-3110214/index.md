@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Falling Deeper"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Falling Deeper"
 date: 2017-05-06T08:42:43.000000Z
 release_id: "3110214"

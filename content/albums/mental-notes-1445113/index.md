@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Mental Notes"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Mental Notes"
 date: 2018-09-29T09:45:26.000000Z
 release_id: "1445113"

@@ -1,6 +1,7 @@
 ---
 title: "Grandmaster Flash & The Furious Five - The Adventures Of Grandmaster Flash On The Wheels Of Steel"
-artist: "Grandmaster Flash & The Furious Five"
+artist_name: "Grandmaster Flash & The Furious Five"
+artist: "grandmaster-flash-the-furious-five"
 album_name: "The Adventures Of Grandmaster Flash On The Wheels Of Steel"
 date: 2020-08-02T13:29:34.000000Z
 release_id: "444155"

@@ -1,6 +1,7 @@
 ---
 title: "Marillion - FEAR (F*** Everyone And Run)"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "FEAR (F*** Everyone And Run)"
 date: 2016-09-26T17:20:44.000000Z
 release_id: "9091342"

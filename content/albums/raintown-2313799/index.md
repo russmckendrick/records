@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - Raintown"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "Raintown"
 date: 2015-09-22T17:47:19.000000Z
 release_id: "2313799"

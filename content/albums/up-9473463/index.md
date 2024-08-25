@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Up"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Up"
 date: 2016-12-08T18:44:51.000000Z
 release_id: "9473463"

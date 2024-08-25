@@ -1,6 +1,7 @@
 ---
 title: "Death In Vegas - Scorpio Rising"
-artist: "Death In Vegas"
+artist_name: "Death In Vegas"
+artist: "death-in-vegas"
 album_name: "Scorpio Rising"
 date: 2016-01-27T18:48:49.000000Z
 release_id: "92522"

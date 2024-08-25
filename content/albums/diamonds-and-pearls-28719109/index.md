@@ -1,6 +1,7 @@
 ---
 title: "Prince - Diamonds And Pearls"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Diamonds And Pearls"
 date: 2023-10-28T09:07:28.000000Z
 release_id: "28719109"

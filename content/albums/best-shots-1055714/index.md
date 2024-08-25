@@ -1,6 +1,7 @@
 ---
 title: "Pat Benatar - Best Shots"
-artist: "Pat Benatar"
+artist_name: "Pat Benatar"
+artist: "pat-benatar"
 album_name: "Best Shots"
 date: 2019-11-08T19:52:05.000000Z
 release_id: "1055714"

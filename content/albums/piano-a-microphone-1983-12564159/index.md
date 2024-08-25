@@ -1,6 +1,7 @@
 ---
 title: "Prince - Piano & A Microphone 1983"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Piano & A Microphone 1983"
 date: 2019-05-10T18:53:32.000000Z
 release_date: "2018-09-21"

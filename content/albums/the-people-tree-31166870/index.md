@@ -1,6 +1,7 @@
 ---
 title: "Mother Earth - The People Tree"
-artist: "Mother Earth"
+artist_name: "Mother Earth"
+artist: "mother-earth"
 album_name: "The People Tree"
 date: 2024-07-16T05:07:25.000000Z
 release_id: "31166870"

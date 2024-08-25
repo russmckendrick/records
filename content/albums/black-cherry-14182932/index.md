@@ -1,6 +1,7 @@
 ---
 title: "Goldfrapp - Black Cherry"
-artist: "Goldfrapp"
+artist_name: "Goldfrapp"
+artist: "goldfrapp"
 album_name: "Black Cherry"
 date: 2021-04-01T00:48:05.000000Z
 release_id: "14182932"

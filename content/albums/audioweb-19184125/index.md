@@ -1,6 +1,7 @@
 ---
 title: "Audioweb - Audioweb"
-artist: "Audioweb"
+artist_name: "Audioweb"
+artist: "audioweb"
 album_name: "Audioweb"
 date: 2021-10-09T06:37:10.000000Z
 release_id: "19184125"

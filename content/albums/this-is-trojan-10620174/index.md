@@ -1,6 +1,7 @@
 ---
 title: "Various - This Is Trojan"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "This Is Trojan"
 date: 2017-07-29T18:47:00.000000Z
 release_id: "10620174"

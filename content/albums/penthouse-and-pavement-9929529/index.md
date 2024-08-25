@@ -1,6 +1,7 @@
 ---
 title: "Heaven 17 - Penthouse And Pavement"
-artist: "Heaven 17"
+artist_name: "Heaven 17"
+artist: "heaven-17"
 album_name: "Penthouse And Pavement"
 date: 2018-06-13T17:27:49.000000Z
 release_id: "9929529"

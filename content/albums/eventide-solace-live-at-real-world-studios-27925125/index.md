@@ -1,6 +1,7 @@
 ---
 title: "Held By Trees - Eventide / Solace - Live At Real World Studios"
-artist: "Held By Trees"
+artist_name: "Held By Trees"
+artist: "held-by-trees"
 album_name: "Eventide / Solace - Live At Real World Studios"
 date: 2023-09-15T11:32:00.000000Z
 release_id: "27925125"

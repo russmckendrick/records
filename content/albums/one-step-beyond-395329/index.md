@@ -1,6 +1,7 @@
 ---
 title: "Madness - One Step Beyond..."
-artist: "Madness"
+artist_name: "Madness"
+artist: "madness"
 album_name: "One Step Beyond..."
 date: 2016-02-02T19:46:54.000000Z
 release_id: "395329"

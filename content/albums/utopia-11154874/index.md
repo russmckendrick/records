@@ -1,6 +1,7 @@
 ---
 title: "Björk - Utopia"
-artist: "Björk"
+artist_name: "Björk"
+artist: "bjrk"
 album_name: "Utopia"
 date: 2018-01-06T10:51:41.000000Z
 release_id: "11154874"

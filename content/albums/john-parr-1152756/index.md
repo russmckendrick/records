@@ -1,6 +1,7 @@
 ---
 title: "John Parr - John Parr"
-artist: "John Parr"
+artist_name: "John Parr"
+artist: "john-parr"
 album_name: "John Parr"
 date: 2016-01-07T16:18:51.000000Z
 release_id: "1152756"

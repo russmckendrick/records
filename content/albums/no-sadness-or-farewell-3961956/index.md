@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - No Sadness Or Farewell"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "No Sadness Or Farewell"
 date: 2016-11-01T17:22:39.000000Z
 release_id: "3961956"

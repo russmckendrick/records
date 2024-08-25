@@ -1,6 +1,7 @@
 ---
 title: "Veruca Salt - American Thighs"
-artist: "Veruca Salt"
+artist_name: "Veruca Salt"
+artist: "veruca-salt"
 album_name: "American Thighs"
 date: 2020-01-03T18:30:41.000000Z
 release_id: "2258972"

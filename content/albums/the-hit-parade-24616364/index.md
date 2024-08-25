@@ -1,6 +1,7 @@
 ---
 title: "The Wedding Present - The Hit Parade"
-artist: "The Wedding Present"
+artist_name: "The Wedding Present"
+artist: "the-wedding-present"
 album_name: "The Hit Parade"
 date: 2022-09-25T07:17:03.000000Z
 release_id: "24616364"

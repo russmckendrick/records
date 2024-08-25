@@ -1,6 +1,7 @@
 ---
 title: "J Dilla - Donuts"
-artist: "J Dilla"
+artist_name: "J Dilla"
+artist: "j-dilla"
 album_name: "Donuts"
 date: 2020-02-14T20:33:32.000000Z
 release_date: "2006-02-07"

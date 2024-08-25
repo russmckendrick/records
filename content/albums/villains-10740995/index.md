@@ -1,6 +1,7 @@
 ---
 title: "Queens Of The Stone Age - Villains"
-artist: "Queens Of The Stone Age"
+artist_name: "Queens Of The Stone Age"
+artist: "queens-of-the-stone-age"
 album_name: "Villains"
 date: 2017-08-25T17:20:16.000000Z
 release_id: "10740995"

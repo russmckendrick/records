@@ -1,6 +1,7 @@
 ---
 title: "The Soulsavers - The Light The Dead See"
-artist: "The Soulsavers"
+artist_name: "The Soulsavers"
+artist: "the-soulsavers"
 album_name: "The Light The Dead See"
 date: 2015-08-09T08:44:03.000000Z
 release_id: "3700217"

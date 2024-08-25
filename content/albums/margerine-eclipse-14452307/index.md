@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Margerine Eclipse"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Margerine Eclipse"
 date: 2019-11-29T12:18:21.000000Z
 release_id: "14452307"

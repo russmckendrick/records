@@ -1,6 +1,7 @@
 ---
 title: "Yes - Going For The One"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "Going For The One"
 date: 2016-03-16T18:38:08.000000Z
 release_id: "476246"

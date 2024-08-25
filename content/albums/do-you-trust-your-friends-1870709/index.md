@@ -1,6 +1,7 @@
 ---
 title: "Stars - Do You Trust Your Friends?"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "Do You Trust Your Friends?"
 date: 2019-01-10T18:01:44.000000Z
 release_id: "1870709"

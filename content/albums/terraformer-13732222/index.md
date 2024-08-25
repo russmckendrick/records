@@ -1,6 +1,7 @@
 ---
 title: "Thank You Scientist - Terraformer"
-artist: "Thank You Scientist"
+artist_name: "Thank You Scientist"
+artist: "thank-you-scientist"
 album_name: "Terraformer"
 date: 2019-08-16T17:12:45.000000Z
 release_id: "13732222"

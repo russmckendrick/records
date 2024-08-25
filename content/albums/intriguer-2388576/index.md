@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Intriguer"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Intriguer"
 date: 2015-11-03T19:21:10.000000Z
 release_id: "2388576"

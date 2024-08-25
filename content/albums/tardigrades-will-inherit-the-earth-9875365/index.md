@@ -1,6 +1,7 @@
 ---
 title: "The Mute Gods - Tardigrades Will Inherit The Earth"
-artist: "The Mute Gods"
+artist_name: "The Mute Gods"
+artist: "the-mute-gods"
 album_name: "Tardigrades Will Inherit The Earth"
 date: 2017-03-26T10:56:25.000000Z
 release_id: "9875365"

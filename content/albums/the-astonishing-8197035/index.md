@@ -1,6 +1,7 @@
 ---
 title: "Dream Theater - The Astonishing"
-artist: "Dream Theater"
+artist_name: "Dream Theater"
+artist: "dream-theater"
 album_name: "The Astonishing"
 date: 2016-03-21T20:28:10.000000Z
 release_date: "2016-01-29"

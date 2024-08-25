@@ -1,6 +1,7 @@
 ---
 title: "Bob Dylan - Nashville Skyline"
-artist: "Bob Dylan"
+artist_name: "Bob Dylan"
+artist: "bob-dylan"
 album_name: "Nashville Skyline"
 date: 2016-12-02T12:52:59.000000Z
 release_date: "1969-04-09"

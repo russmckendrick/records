@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Witchazel"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Witchazel"
 date: 2021-08-19T03:43:18.000000Z
 release_id: "19905262"

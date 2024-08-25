@@ -1,6 +1,7 @@
 ---
 title: "Various - Reimagining The Court Of The Crimson King"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Reimagining The Court Of The Crimson King"
 date: 2024-04-18T07:20:50.000000Z
 release_id: "30166604"

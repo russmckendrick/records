@@ -1,6 +1,7 @@
 ---
 title: "Marillion - A Sunday Night Above The Rain"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "A Sunday Night Above The Rain"
 date: 2021-11-02T03:32:11.000000Z
 release_id: "5864102"

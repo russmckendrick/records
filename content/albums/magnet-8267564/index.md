@@ -1,6 +1,7 @@
 ---
 title: "The Fierce & The Dead - Magnet"
-artist: "The Fierce & The Dead"
+artist_name: "The Fierce & The Dead"
+artist: "the-fierce-the-dead"
 album_name: "Magnet"
 date: 2022-09-17T09:35:32.000000Z
 release_id: "8267564"

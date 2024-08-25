@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - Black Sabbath Vol 4"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "Black Sabbath Vol 4"
 date: 2016-08-11T15:57:34.000000Z
 release_id: "8867510"

@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Mental Notes"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Mental Notes"
 date: 2020-05-26T13:00:53.000000Z
 release_id: "15348568"

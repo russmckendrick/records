@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Less Is More"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Less Is More"
 date: 2021-07-20T08:57:01.000000Z
 release_id: "14876195"

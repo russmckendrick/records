@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Changesnowbowie"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Changesnowbowie"
 date: 2020-09-07T09:05:46.000000Z
 release_id: "15822092"

@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - 1972"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "1972"
 date: 2022-11-04T06:16:49.000000Z
 release_id: "23147510"

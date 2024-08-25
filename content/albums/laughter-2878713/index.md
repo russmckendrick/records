@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury And The Blockheads - Laughter"
-artist: "Ian Dury And The Blockheads"
+artist_name: "Ian Dury And The Blockheads"
+artist: "ian-dury-and-the-blockheads"
 album_name: "Laughter"
 date: 2020-08-02T13:34:01.000000Z
 release_id: "2878713"

@@ -1,6 +1,7 @@
 ---
 title: "Bullet Height - No Atonement"
-artist: "Bullet Height"
+artist_name: "Bullet Height"
+artist: "bullet-height"
 album_name: "No Atonement"
 date: 2017-06-08T17:51:46.000000Z
 release_id: "10376234"

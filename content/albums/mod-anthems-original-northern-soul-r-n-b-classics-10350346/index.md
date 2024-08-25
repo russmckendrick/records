@@ -1,6 +1,7 @@
 ---
 title: "Various - Mod Anthems: Original Northern Soul & R'N'B Classics"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Mod Anthems: Original Northern Soul & R'N'B Classics"
 date: 2017-05-27T15:28:51.000000Z
 release_id: "10350346"

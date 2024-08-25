@@ -1,6 +1,7 @@
 ---
 title: "The War On Drugs - Slave Ambient"
-artist: "The War On Drugs"
+artist_name: "The War On Drugs"
+artist: "the-war-on-drugs"
 album_name: "Slave Ambient"
 date: 2015-12-28T14:58:23.000000Z
 release_id: "3052756"

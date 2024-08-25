@@ -1,6 +1,7 @@
 ---
 title: "Genesis - The Lamb Lies Down On Broadway"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "The Lamb Lies Down On Broadway"
 date: 2018-08-03T18:44:32.000000Z
 release_id: "12333317"

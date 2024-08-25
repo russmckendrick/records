@@ -1,6 +1,7 @@
 ---
 title: "Sons Of Kemet - Black To The Future"
-artist: "Sons Of Kemet"
+artist_name: "Sons Of Kemet"
+artist: "sons-of-kemet"
 album_name: "Black To The Future"
 date: 2021-12-15T10:53:41.000000Z
 release_date: "2021-05-14"

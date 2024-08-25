@@ -1,6 +1,7 @@
 ---
 title: "Mad Season - Above"
-artist: "Mad Season"
+artist_name: "Mad Season"
+artist: "mad-season"
 album_name: "Above"
 date: 2016-12-30T11:09:56.000000Z
 release_id: "7643695"

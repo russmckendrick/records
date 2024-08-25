@@ -1,6 +1,7 @@
 ---
 title: "Franz Ferdinand - Franz Ferdinand"
-artist: "Franz Ferdinand"
+artist_name: "Franz Ferdinand"
+artist: "franz-ferdinand"
 album_name: "Franz Ferdinand"
 date: 2024-02-18T00:32:10.000000Z
 release_date: "2004-02-09"

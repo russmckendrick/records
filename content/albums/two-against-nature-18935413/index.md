@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Two Against Nature"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Two Against Nature"
 date: 2021-06-12T06:00:56.000000Z
 release_id: "18935413"

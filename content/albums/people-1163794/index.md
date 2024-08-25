@@ -1,6 +1,7 @@
 ---
 title: "Hothouse Flowers - People"
-artist: "Hothouse Flowers"
+artist_name: "Hothouse Flowers"
+artist: "hothouse-flowers"
 album_name: "People"
 date: 2015-12-09T10:18:46.000000Z
 release_id: "1163794"

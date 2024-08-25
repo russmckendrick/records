@@ -1,6 +1,7 @@
 ---
 title: "Mansun - One EP"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "One EP"
 date: 2018-04-26T17:57:35.000000Z
 release_id: "11285610"

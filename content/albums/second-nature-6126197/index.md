@@ -1,6 +1,7 @@
 ---
 title: "Flying Colors - Second Nature"
-artist: "Flying Colors"
+artist_name: "Flying Colors"
+artist: "flying-colors"
 album_name: "Second Nature"
 date: 2016-10-20T16:29:13.000000Z
 release_id: "6126197"

@@ -1,6 +1,7 @@
 ---
 title: "Panda Bear - Person Pitch"
-artist: "Panda Bear"
+artist_name: "Panda Bear"
+artist: "panda-bear"
 album_name: "Person Pitch"
 date: 2017-01-16T18:32:05.000000Z
 release_id: "9649225"

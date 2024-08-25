@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Presents Shake Your Money Maker Live"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Presents Shake Your Money Maker Live"
 date: 2023-03-23T03:01:05.000000Z
 release_id: "26416601"

@@ -1,6 +1,7 @@
 ---
 title: "Mr. Big - Lean Into It"
-artist: "Mr. Big"
+artist_name: "Mr. Big"
+artist: "mr-big"
 album_name: "Lean Into It"
 date: 2021-07-22T04:46:29.000000Z
 release_id: "19526449"

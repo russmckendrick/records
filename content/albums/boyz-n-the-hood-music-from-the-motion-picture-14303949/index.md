@@ -1,6 +1,7 @@
 ---
 title: "Various - Boyz N The Hood (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Boyz N The Hood (Music From The Motion Picture)"
 date: 2020-07-14T11:07:39.000000Z
 release_id: "14303949"

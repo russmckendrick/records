@@ -1,6 +1,7 @@
 ---
 title: "Faces - The Best Of The Faces"
-artist: "Faces"
+artist_name: "Faces"
+artist: "faces"
 album_name: "The Best Of The Faces"
 date: 2016-01-08T19:14:34.000000Z
 release_id: "1333090"

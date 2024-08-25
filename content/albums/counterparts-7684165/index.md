@@ -1,6 +1,7 @@
 ---
 title: "Rush - Counterparts"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Counterparts"
 date: 2017-02-28T18:43:59.000000Z
 release_id: "7684165"

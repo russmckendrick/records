@@ -1,6 +1,7 @@
 ---
 title: "Various - Indie Anthems"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Indie Anthems"
 date: 2017-05-27T08:23:37.000000Z
 release_id: "10351934"

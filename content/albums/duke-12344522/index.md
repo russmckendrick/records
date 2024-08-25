@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Duke"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Duke"
 date: 2020-06-01T13:34:46.000000Z
 release_id: "12344522"

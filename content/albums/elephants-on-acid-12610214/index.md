@@ -1,6 +1,7 @@
 ---
 title: "Cypress Hill - Elephants On Acid"
-artist: "Cypress Hill"
+artist_name: "Cypress Hill"
+artist: "cypress-hill"
 album_name: "Elephants On Acid"
 date: 2018-10-17T17:37:44.000000Z
 release_id: "12610214"

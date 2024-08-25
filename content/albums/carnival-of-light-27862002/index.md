@@ -1,6 +1,7 @@
 ---
 title: "Ride - Carnival Of Light"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Carnival Of Light"
 date: 2023-08-06T07:40:04.000000Z
 release_id: "27862002"

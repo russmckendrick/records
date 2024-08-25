@@ -1,6 +1,7 @@
 ---
 title: "Heaven 17 - Play To Win (The • Virgin • Albums)"
-artist: "Heaven 17"
+artist_name: "Heaven 17"
+artist: "heaven-17"
 album_name: "Play To Win (The • Virgin • Albums)"
 date: 2019-03-31T10:17:21.000000Z
 release_id: "13428374"

@@ -1,6 +1,7 @@
 ---
 title: "Rancid - Life Won't Wait"
-artist: "Rancid"
+artist_name: "Rancid"
+artist: "rancid"
 album_name: "Life Won't Wait"
 date: 2018-08-25T12:50:23.000000Z
 release_id: "5888309"

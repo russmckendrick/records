@@ -1,6 +1,7 @@
 ---
 title: "The Soulsavers - 20"
-artist: "The Soulsavers"
+artist_name: "The Soulsavers"
+artist: "the-soulsavers"
 album_name: "20"
 date: 2024-03-29T07:17:24.000000Z
 release_id: "30222686"

@@ -1,6 +1,7 @@
 ---
 title: "Stars - No One Is Lost"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "No One Is Lost"
 date: 2017-06-27T18:05:54.000000Z
 release_id: "6214485"

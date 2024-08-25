@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Three Of A Perfect Pair"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Three Of A Perfect Pair"
 date: 2023-02-03T11:50:10.000000Z
 release_id: "24973192"

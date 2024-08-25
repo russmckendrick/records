@@ -1,6 +1,7 @@
 ---
 title: "The Rolling Stones - Their Satanic Majesties Request"
-artist: "The Rolling Stones"
+artist_name: "The Rolling Stones"
+artist: "the-rolling-stones"
 album_name: "Their Satanic Majesties Request"
 date: 2016-12-02T12:53:18.000000Z
 release_date: "1967-12-08"

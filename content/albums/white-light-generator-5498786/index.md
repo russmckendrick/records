@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - White Light Generator"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "White Light Generator"
 date: 2016-01-17T09:46:30.000000Z
 release_id: "5498786"

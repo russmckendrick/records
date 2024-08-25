@@ -1,6 +1,7 @@
 ---
 title: "Rancid - Tomorrow Never Comes"
-artist: "Rancid"
+artist_name: "Rancid"
+artist: "rancid"
 album_name: "Tomorrow Never Comes"
 date: 2023-06-02T09:37:24.000000Z
 release_date: "2023-06-02"

@@ -1,6 +1,7 @@
 ---
 title: "Gomez - Bring It On"
-artist: "Gomez"
+artist_name: "Gomez"
+artist: "gomez"
 album_name: "Bring It On"
 date: 2018-04-20T17:56:02.000000Z
 release_id: "11890384"

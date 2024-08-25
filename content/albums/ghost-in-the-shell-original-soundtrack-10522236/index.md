@@ -1,6 +1,7 @@
 ---
 title: "Kenji Kawai - Ghost In The Shell (Original Soundtrack)"
-artist: "Kenji Kawai"
+artist_name: "Kenji Kawai"
+artist: "kenji-kawai"
 album_name: "Ghost In The Shell (Original Soundtrack)"
 date: 2017-07-14T19:20:57.000000Z
 release_id: "10522236"

@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury And The Blockheads - Greatest Hits"
-artist: "Ian Dury And The Blockheads"
+artist_name: "Ian Dury And The Blockheads"
+artist: "ian-dury-and-the-blockheads"
 album_name: "Greatest Hits"
 date: 2020-05-26T12:11:25.000000Z
 release_id: "12167804"

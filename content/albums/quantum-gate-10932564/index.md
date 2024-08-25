@@ -1,6 +1,7 @@
 ---
 title: "Tangerine Dream - Quantum Gate"
-artist: "Tangerine Dream"
+artist_name: "Tangerine Dream"
+artist: "tangerine-dream"
 album_name: "Quantum Gate"
 date: 2017-10-28T15:49:14.000000Z
 release_id: "10932564"

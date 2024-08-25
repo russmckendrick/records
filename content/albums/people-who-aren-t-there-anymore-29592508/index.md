@@ -1,6 +1,7 @@
 ---
 title: "Future Islands - People Who Aren't There Anymore"
-artist: "Future Islands"
+artist_name: "Future Islands"
+artist: "future-islands"
 album_name: "People Who Aren't There Anymore"
 date: 2024-01-26T06:47:38.000000Z
 release_date: "2024-01-26"

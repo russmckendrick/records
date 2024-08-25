@@ -1,6 +1,7 @@
 ---
 title: "Jethro Tull - Stand Up"
-artist: "Jethro Tull"
+artist_name: "Jethro Tull"
+artist: "jethro-tull"
 album_name: "Stand Up"
 date: 2018-01-26T20:02:41.000000Z
 release_id: "9834706"

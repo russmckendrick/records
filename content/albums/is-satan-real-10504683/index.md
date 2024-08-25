@@ -1,6 +1,7 @@
 ---
 title: "Church Of The Cosmic Skull - Is Satan Real?"
-artist: "Church Of The Cosmic Skull"
+artist_name: "Church Of The Cosmic Skull"
+artist: "church-of-the-cosmic-skull"
 album_name: "Is Satan Real?"
 date: 2018-02-23T17:14:18.000000Z
 release_id: "10504683"

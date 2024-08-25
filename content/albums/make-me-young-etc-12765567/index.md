@@ -1,6 +1,7 @@
 ---
 title: "Thumpermonkey - Make Me Young, etc. "
-artist: "Thumpermonkey"
+artist_name: "Thumpermonkey"
+artist: "thumpermonkey"
 album_name: "Make Me Young, etc. "
 date: 2018-11-06T18:27:04.000000Z
 release_id: "12765567"

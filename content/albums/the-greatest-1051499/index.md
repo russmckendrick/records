@@ -1,6 +1,7 @@
 ---
 title: "Ian Brown - The Greatest"
-artist: "Ian Brown"
+artist_name: "Ian Brown"
+artist: "ian-brown"
 album_name: "The Greatest"
 date: 2017-02-02T17:47:22.000000Z
 release_id: "1051499"

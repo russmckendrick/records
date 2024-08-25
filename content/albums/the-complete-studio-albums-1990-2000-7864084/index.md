@@ -1,6 +1,7 @@
 ---
 title: "Pantera - The Complete Studio Albums 1990-2000"
-artist: "Pantera"
+artist_name: "Pantera"
+artist: "pantera"
 album_name: "The Complete Studio Albums 1990-2000"
 date: 2016-01-23T14:26:49.000000Z
 release_id: "7864084"

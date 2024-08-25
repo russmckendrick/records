@@ -1,6 +1,7 @@
 ---
 title: "WPC - Ogilala"
-artist: "WPC"
+artist_name: "WPC"
+artist: "wpc"
 album_name: "Ogilala"
 date: 2017-10-14T10:09:07.000000Z
 release_id: "10993416"

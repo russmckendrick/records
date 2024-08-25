@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - Buhloone Mindstate"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "Buhloone Mindstate"
 date: 2023-05-05T04:25:20.000000Z
 release_date: "1993-09-21"

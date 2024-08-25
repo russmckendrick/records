@@ -1,6 +1,7 @@
 ---
 title: "Georgia Anne Muldrow - Vweto II"
-artist: "Georgia Anne Muldrow"
+artist_name: "Georgia Anne Muldrow"
+artist: "georgia-anne-muldrow"
 album_name: "Vweto II"
 date: 2020-04-10T12:40:20.000000Z
 release_id: "13787787"

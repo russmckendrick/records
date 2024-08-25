@@ -1,6 +1,7 @@
 ---
 title: "Church Of The Cosmic Skull - There Is No Time"
-artist: "Church Of The Cosmic Skull"
+artist_name: "Church Of The Cosmic Skull"
+artist: "church-of-the-cosmic-skull"
 album_name: "There Is No Time"
 date: 2022-10-12T04:32:46.000000Z
 release_id: "24780821"

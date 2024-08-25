@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - Attack Of The Grey Lantern Live At The Ritz"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "Attack Of The Grey Lantern Live At The Ritz"
 date: 2018-11-23T18:39:40.000000Z
 release_id: "12803625"

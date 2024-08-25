@@ -1,6 +1,7 @@
 ---
 title: "Tim Finn - Escapade"
-artist: "Tim Finn"
+artist_name: "Tim Finn"
+artist: "tim-finn"
 album_name: "Escapade"
 date: 2015-10-14T18:38:58.000000Z
 release_id: "2733922"

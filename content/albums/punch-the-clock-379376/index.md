@@ -1,6 +1,7 @@
 ---
 title: "Elvis Costello & The Attractions - Punch The Clock"
-artist: "Elvis Costello & The Attractions"
+artist_name: "Elvis Costello & The Attractions"
+artist: "elvis-costello-the-attractions"
 album_name: "Punch The Clock"
 date: 2018-08-17T16:35:01.000000Z
 release_date: "1983-01-01"

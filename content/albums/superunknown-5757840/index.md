@@ -1,6 +1,7 @@
 ---
 title: "Soundgarden - Superunknown"
-artist: "Soundgarden"
+artist_name: "Soundgarden"
+artist: "soundgarden"
 album_name: "Superunknown"
 date: 2017-06-11T13:16:04.000000Z
 release_date: "1994-03-08"

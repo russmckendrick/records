@@ -1,6 +1,7 @@
 ---
 title: "Gong - Unending Ascending"
-artist: "Gong"
+artist_name: "Gong"
+artist: "gong"
 album_name: "Unending Ascending"
 date: 2023-11-04T07:57:49.000000Z
 release_id: "28799800"

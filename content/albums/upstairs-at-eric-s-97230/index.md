@@ -1,6 +1,7 @@
 ---
 title: "Yazoo - Upstairs At Eric's"
-artist: "Yazoo"
+artist_name: "Yazoo"
+artist: "yazoo"
 album_name: "Upstairs At Eric's"
 date: 2017-06-14T07:25:40.000000Z
 release_id: "97230"

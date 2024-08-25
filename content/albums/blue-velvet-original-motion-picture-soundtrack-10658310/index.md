@@ -1,6 +1,7 @@
 ---
 title: "Angelo Badalamenti - Blue Velvet (Original Motion Picture Soundtrack)"
-artist: "Angelo Badalamenti"
+artist_name: "Angelo Badalamenti"
+artist: "angelo-badalamenti"
 album_name: "Blue Velvet (Original Motion Picture Soundtrack)"
 date: 2017-09-08T18:25:49.000000Z
 release_id: "10658310"

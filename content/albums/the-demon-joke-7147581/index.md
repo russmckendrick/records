@@ -1,6 +1,7 @@
 ---
 title: "Vennart - The Demon Joke"
-artist: "Vennart"
+artist_name: "Vennart"
+artist: "vennart"
 album_name: "The Demon Joke"
 date: 2015-08-09T08:35:59.000000Z
 release_id: "7147581"

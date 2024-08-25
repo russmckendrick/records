@@ -1,6 +1,7 @@
 ---
 title: "Dinosaur Jr. - Without A Sound"
-artist: "Dinosaur Jr."
+artist_name: "Dinosaur Jr."
+artist: "dinosaur-jr"
 album_name: "Without A Sound"
 date: 2019-09-27T06:44:30.000000Z
 release_date: "1994-08-23"

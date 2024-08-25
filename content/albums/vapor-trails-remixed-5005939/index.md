@@ -1,6 +1,7 @@
 ---
 title: "Rush - Vapor Trails Remixed"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Vapor Trails Remixed"
 date: 2015-12-14T17:05:45.000000Z
 release_id: "5005939"

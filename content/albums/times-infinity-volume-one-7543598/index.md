@@ -1,6 +1,7 @@
 ---
 title: "The Dears - Times Infinity Volume One"
-artist: "The Dears"
+artist_name: "The Dears"
+artist: "the-dears"
 album_name: "Times Infinity Volume One"
 date: 2020-08-01T12:47:57.000000Z
 release_id: "7543598"

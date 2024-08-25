@@ -1,6 +1,7 @@
 ---
 title: "Tom Petty And The Heartbreakers - The Complete Studio Albums Volume 1 (1976-1991)"
-artist: "Tom Petty And The Heartbreakers"
+artist_name: "Tom Petty And The Heartbreakers"
+artist: "tom-petty-and-the-heartbreakers"
 album_name: "The Complete Studio Albums Volume 1 (1976-1991)"
 date: 2018-10-14T15:19:55.000000Z
 release_id: "9521857"

@@ -1,6 +1,7 @@
 ---
 title: "Dropkick Murphys - This Machine Still Kills Fascists"
-artist: "Dropkick Murphys"
+artist_name: "Dropkick Murphys"
+artist: "dropkick-murphys"
 album_name: "This Machine Still Kills Fascists"
 date: 2022-11-14T05:22:20.000000Z
 release_id: "25013020"

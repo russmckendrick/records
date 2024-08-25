@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Led Zeppelin III"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Led Zeppelin III"
 date: 2017-02-26T10:57:27.000000Z
 release_date: "1970-10-05"

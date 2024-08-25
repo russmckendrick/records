@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - House Of Blues - Los Angeles 2003"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "House Of Blues - Los Angeles 2003"
 date: 2021-08-09T03:27:40.000000Z
 release_id: "19649257"

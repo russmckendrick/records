@@ -1,6 +1,7 @@
 ---
 title: "The Cure - The Head On The Door"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "The Head On The Door"
 date: 2018-03-29T19:50:27.000000Z
 release_id: "2418673"

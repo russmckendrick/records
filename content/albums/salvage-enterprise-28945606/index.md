@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - Salvage Enterprise"
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "Salvage Enterprise"
 date: 2023-11-21T10:25:43.000000Z
 release_id: "28945606"

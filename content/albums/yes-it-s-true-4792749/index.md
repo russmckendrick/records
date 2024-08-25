@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - Yes, It's True"
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "Yes, It's True"
 date: 2017-08-15T18:49:05.000000Z
 release_id: "4792749"

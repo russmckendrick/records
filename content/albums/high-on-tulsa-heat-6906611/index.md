@@ -1,6 +1,7 @@
 ---
 title: "John Moreland - High On Tulsa Heat"
-artist: "John Moreland"
+artist_name: "John Moreland"
+artist: "john-moreland"
 album_name: "High On Tulsa Heat"
 date: 2016-01-20T19:12:37.000000Z
 release_id: "6906611"

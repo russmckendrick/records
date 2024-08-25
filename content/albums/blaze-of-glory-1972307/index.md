@@ -1,6 +1,7 @@
 ---
 title: "Jon Bon Jovi - Blaze Of Glory"
-artist: "Jon Bon Jovi"
+artist_name: "Jon Bon Jovi"
+artist: "jon-bon-jovi"
 album_name: "Blaze Of Glory"
 date: 2018-09-07T18:30:44.000000Z
 release_id: "1972307"

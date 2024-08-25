@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Invisible Touch"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Invisible Touch"
 date: 2015-12-04T18:21:09.000000Z
 release_date: "1986-06-01"

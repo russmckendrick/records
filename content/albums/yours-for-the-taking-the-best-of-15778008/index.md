@@ -1,6 +1,7 @@
 ---
 title: "Gene - Yours For The Taking (The Best Of)"
-artist: "Gene"
+artist_name: "Gene"
+artist: "gene"
 album_name: "Yours For The Taking (The Best Of)"
 date: 2020-08-22T09:03:43.000000Z
 release_id: "15778008"

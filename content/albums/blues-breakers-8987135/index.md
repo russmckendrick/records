@@ -1,6 +1,7 @@
 ---
 title: "John Mayall - Blues Breakers"
-artist: "John Mayall"
+artist_name: "John Mayall"
+artist: "john-mayall"
 album_name: "Blues Breakers"
 date: 2021-05-21T07:27:09.000000Z
 release_date: "1966-07-22"

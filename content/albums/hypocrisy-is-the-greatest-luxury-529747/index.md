@@ -1,6 +1,7 @@
 ---
 title: "The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury"
-artist: "The Disposable Heroes Of Hiphoprisy"
+artist_name: "The Disposable Heroes Of Hiphoprisy"
+artist: "the-disposable-heroes-of-hiphoprisy"
 album_name: "Hypocrisy Is The Greatest Luxury"
 date: 2018-08-17T16:35:01.000000Z
 release_id: "529747"

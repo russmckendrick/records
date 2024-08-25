@@ -1,6 +1,7 @@
 ---
 title: "Hifi Sean - Daylight"
-artist: "Hifi Sean"
+artist_name: "Hifi Sean"
+artist: "hifi-sean"
 album_name: "Daylight"
 date: 2024-08-16T07:13:55.000000Z
 release_id: "31020934"

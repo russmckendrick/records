@@ -1,6 +1,7 @@
 ---
 title: "Doves - Some Cities"
-artist: "Doves"
+artist_name: "Doves"
+artist: "doves"
 album_name: "Some Cities"
 date: 2019-06-03T17:51:04.000000Z
 release_id: "13701527"

@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Night Raider"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Night Raider"
 date: 2019-05-01T17:55:06.000000Z
 release_id: "13562794"

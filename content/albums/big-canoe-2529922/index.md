@@ -1,6 +1,7 @@
 ---
 title: "Tim Finn - Big Canoe"
-artist: "Tim Finn"
+artist_name: "Tim Finn"
+artist: "tim-finn"
 album_name: "Big Canoe"
 date: 2015-09-11T18:02:24.000000Z
 release_id: "2529922"

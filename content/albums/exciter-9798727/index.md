@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Exciter"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Exciter"
 date: 2017-02-10T17:47:25.000000Z
 release_id: "9798727"

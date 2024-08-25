@@ -1,6 +1,7 @@
 ---
 title: "Aphex Twin - Cheetah EP"
-artist: "Aphex Twin"
+artist_name: "Aphex Twin"
+artist: "aphex-twin"
 album_name: "Cheetah EP"
 date: 2016-07-08T16:30:08.000000Z
 release_date: "2016-07-08"

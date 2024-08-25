@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Greatest Hits"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Greatest Hits"
 date: 2015-10-04T11:27:10.000000Z
 release_date: "1988-11-15"

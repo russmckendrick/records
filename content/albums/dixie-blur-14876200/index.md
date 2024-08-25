@@ -1,6 +1,7 @@
 ---
 title: "Jonathan Wilson - Dixie Blur"
-artist: "Jonathan Wilson"
+artist_name: "Jonathan Wilson"
+artist: "jonathan-wilson"
 album_name: "Dixie Blur"
 date: 2020-03-07T10:40:40.000000Z
 release_id: "14876200"

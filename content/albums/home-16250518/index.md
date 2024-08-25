@@ -1,6 +1,7 @@
 ---
 title: "Koj - Home"
-artist: "Koj"
+artist_name: "Koj"
+artist: "koj"
 album_name: "Home"
 date: 2020-11-21T19:08:40.000000Z
 release_id: "16250518"

@@ -1,6 +1,7 @@
 ---
 title: "T'Pau - Bridge Of Spies"
-artist: "T'Pau"
+artist_name: "T'Pau"
+artist: "t-pau"
 album_name: "Bridge Of Spies"
 date: 2016-01-07T16:18:51.000000Z
 release_id: "423522"

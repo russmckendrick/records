@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Guns"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Guns"
 date: 2016-12-13T17:53:06.000000Z
 release_id: "7235227"

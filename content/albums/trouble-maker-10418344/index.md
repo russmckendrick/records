@@ -1,6 +1,7 @@
 ---
 title: "Rancid - Trouble Maker"
-artist: "Rancid"
+artist_name: "Rancid"
+artist: "rancid"
 album_name: "Trouble Maker"
 date: 2017-06-10T11:14:25.000000Z
 release_date: "2017-06-09"

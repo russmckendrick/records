@@ -1,6 +1,7 @@
 ---
 title: "Beth Orton - Weather Alive"
-artist: "Beth Orton"
+artist_name: "Beth Orton"
+artist: "beth-orton"
 album_name: "Weather Alive"
 date: 2022-09-27T11:04:40.000000Z
 release_id: "24606215"

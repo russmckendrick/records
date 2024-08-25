@@ -1,6 +1,7 @@
 ---
 title: "Shakespear's Sister - Hormonally Yours"
-artist: "Shakespear's Sister"
+artist_name: "Shakespear's Sister"
+artist: "shakespear-s-sister"
 album_name: "Hormonally Yours"
 date: 2019-04-26T12:44:14.000000Z
 release_id: "8958853"

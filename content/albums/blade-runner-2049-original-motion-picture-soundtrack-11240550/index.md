@@ -1,6 +1,7 @@
 ---
 title: "Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)"
-artist: "Hans Zimmer"
+artist_name: "Hans Zimmer"
+artist: "hans-zimmer"
 album_name: "Blade Runner 2049 (Original Motion Picture Soundtrack)"
 date: 2017-12-24T11:35:38.000000Z
 release_id: "11240550"

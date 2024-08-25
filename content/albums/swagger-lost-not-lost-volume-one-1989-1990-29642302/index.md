@@ -1,6 +1,7 @@
 ---
 title: "No-Man - Swagger (Lost Not Lost Volume One: 1989/1990)"
-artist: "No-Man"
+artist_name: "No-Man"
+artist: "no-man"
 album_name: "Swagger (Lost Not Lost Volume One: 1989/1990)"
 date: 2024-02-02T00:42:35.000000Z
 release_id: "29642302"

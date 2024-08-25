@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - Odin's Raven Magic"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "Odin's Raven Magic"
 date: 2020-12-05T04:48:27.000000Z
 release_date: "2020-12-04"

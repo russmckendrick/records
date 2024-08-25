@@ -1,6 +1,7 @@
 ---
 title: "Jason Isbell And The 400 Unit - Reunions"
-artist: "Jason Isbell And The 400 Unit"
+artist_name: "Jason Isbell And The 400 Unit"
+artist: "jason-isbell-and-the-400-unit"
 album_name: "Reunions"
 date: 2020-05-20T15:58:49.000000Z
 release_date: "2020-05-15"

@@ -1,6 +1,7 @@
 ---
 title: "Joe Cocker - Mad Dogs & Englishmen"
-artist: "Joe Cocker"
+artist_name: "Joe Cocker"
+artist: "joe-cocker"
 album_name: "Mad Dogs & Englishmen"
 date: 2017-04-27T10:33:05.000000Z
 release_id: "3339945"

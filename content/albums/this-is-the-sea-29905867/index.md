@@ -1,6 +1,7 @@
 ---
 title: "The Waterboys - This Is The Sea"
-artist: "The Waterboys"
+artist_name: "The Waterboys"
+artist: "the-waterboys"
 album_name: "This Is The Sea"
 date: 2024-02-24T04:18:49.000000Z
 release_id: "29905867"

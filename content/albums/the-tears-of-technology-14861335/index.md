@@ -1,6 +1,7 @@
 ---
 title: "Bob Stanley - The Tears Of Technology"
-artist: "Bob Stanley"
+artist_name: "Bob Stanley"
+artist: "bob-stanley"
 album_name: "The Tears Of Technology"
 date: 2020-03-05T19:43:25.000000Z
 release_id: "14861335"

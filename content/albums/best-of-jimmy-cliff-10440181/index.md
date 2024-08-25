@@ -1,6 +1,7 @@
 ---
 title: "Jimmy Cliff - Best Of Jimmy Cliff"
-artist: "Jimmy Cliff"
+artist_name: "Jimmy Cliff"
+artist: "jimmy-cliff"
 album_name: "Best Of Jimmy Cliff"
 date: 2017-08-18T18:21:55.000000Z
 release_id: "10440181"

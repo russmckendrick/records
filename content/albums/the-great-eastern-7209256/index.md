@@ -1,6 +1,7 @@
 ---
 title: "The Delgados - The Great Eastern"
-artist: "The Delgados"
+artist_name: "The Delgados"
+artist: "the-delgados"
 album_name: "The Great Eastern"
 date: 2023-01-21T01:32:37.000000Z
 release_id: "7209256"

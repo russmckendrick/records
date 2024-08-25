@@ -1,6 +1,7 @@
 ---
 title: "Ed Wynne - Shimmer Into Nature"
-artist: "Ed Wynne"
+artist_name: "Ed Wynne"
+artist: "ed-wynne"
 album_name: "Shimmer Into Nature"
 date: 2019-03-04T19:20:33.000000Z
 release_id: "13112063"

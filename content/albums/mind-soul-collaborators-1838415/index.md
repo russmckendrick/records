@@ -1,6 +1,7 @@
 ---
 title: "Back To The Planet - Mind + Soul Collaborators"
-artist: "Back To The Planet"
+artist_name: "Back To The Planet"
+artist: "back-to-the-planet"
 album_name: "Mind + Soul Collaborators"
 date: 2017-04-14T14:01:00.000000Z
 release_id: "1838415"

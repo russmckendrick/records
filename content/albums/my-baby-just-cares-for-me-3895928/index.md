@@ -1,6 +1,7 @@
 ---
 title: "Nina Simone - My Baby Just Cares For Me"
-artist: "Nina Simone"
+artist_name: "Nina Simone"
+artist: "nina-simone"
 album_name: "My Baby Just Cares For Me"
 date: 2016-09-19T15:13:43.000000Z
 release_id: "3895928"

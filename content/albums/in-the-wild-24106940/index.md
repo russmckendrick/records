@@ -1,6 +1,7 @@
 ---
 title: "The Interrupters - In The Wild"
-artist: "The Interrupters"
+artist_name: "The Interrupters"
+artist: "the-interrupters"
 album_name: "In The Wild"
 date: 2022-09-07T11:53:30.000000Z
 release_id: "24106940"

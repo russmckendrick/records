@@ -1,6 +1,7 @@
 ---
 title: "The Pharcyde - Bizarre Ride II"
-artist: "The Pharcyde"
+artist_name: "The Pharcyde"
+artist: "the-pharcyde"
 album_name: "Bizarre Ride II"
 date: 2023-02-13T11:32:12.000000Z
 release_id: "25831636"

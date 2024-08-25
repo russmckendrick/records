@@ -1,6 +1,7 @@
 ---
 title: "Annie Lennox - Diva"
-artist: "Annie Lennox"
+artist_name: "Annie Lennox"
+artist: "annie-lennox"
 album_name: "Diva"
 date: 2018-03-10T15:57:11.000000Z
 release_id: "11637996"

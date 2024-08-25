@@ -1,6 +1,7 @@
 ---
 title: "The Hold Steady - Separation Sunday"
-artist: "The Hold Steady"
+artist_name: "The Hold Steady"
+artist: "the-hold-steady"
 album_name: "Separation Sunday"
 date: 2017-04-17T13:21:46.000000Z
 release_id: "9314471"

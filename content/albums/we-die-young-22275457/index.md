@@ -1,6 +1,7 @@
 ---
 title: "Alice In Chains - We Die Young"
-artist: "Alice In Chains"
+artist_name: "Alice In Chains"
+artist: "alice-in-chains"
 album_name: "We Die Young"
 date: 2022-04-24T04:25:43.000000Z
 release_id: "22275457"

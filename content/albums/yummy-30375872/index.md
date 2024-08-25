@@ -1,6 +1,7 @@
 ---
 title: "James - Yummy"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Yummy"
 date: 2024-04-16T11:30:11.000000Z
 release_id: "30375872"

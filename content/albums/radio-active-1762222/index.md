@@ -1,6 +1,7 @@
 ---
 title: "Various - Radio Active"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Radio Active"
 date: 2015-09-16T18:57:14.000000Z
 release_id: "1762222"

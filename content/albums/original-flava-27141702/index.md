@@ -1,6 +1,7 @@
 ---
 title: "The Brand New Heavies - Original Flava"
-artist: "The Brand New Heavies"
+artist_name: "The Brand New Heavies"
+artist: "the-brand-new-heavies"
 album_name: "Original Flava"
 date: 2023-05-29T04:53:36.000000Z
 release_id: "27141702"

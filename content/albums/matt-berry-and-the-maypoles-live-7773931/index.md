@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Matt Berry And The Maypoles Live"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Matt Berry And The Maypoles Live"
 date: 2015-12-25T16:58:57.000000Z
 release_id: "7773931"

@@ -1,6 +1,7 @@
 ---
 title: "New Order - ∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.."
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.."
 date: 2019-07-12T15:33:50.000000Z
 release_id: "13868695"

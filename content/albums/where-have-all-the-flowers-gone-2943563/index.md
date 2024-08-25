@@ -1,6 +1,7 @@
 ---
 title: "Pete Seeger - Where Have All The Flowers Gone?"
-artist: "Pete Seeger"
+artist_name: "Pete Seeger"
+artist: "pete-seeger"
 album_name: "Where Have All The Flowers Gone?"
 date: 2019-01-19T10:36:49.000000Z
 release_id: "2943563"

@@ -1,6 +1,7 @@
 ---
 title: "Weezer - Weezer"
-artist: "Weezer"
+artist_name: "Weezer"
+artist: "weezer"
 album_name: "Weezer"
 date: 2018-02-21T20:46:36.000000Z
 release_id: "9296301"

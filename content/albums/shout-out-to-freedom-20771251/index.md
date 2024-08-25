@@ -1,6 +1,7 @@
 ---
 title: "Nightmares On Wax - Shout Out! To Freedom..."
-artist: "Nightmares On Wax"
+artist_name: "Nightmares On Wax"
+artist: "nightmares-on-wax"
 album_name: "Shout Out! To Freedom..."
 date: 2021-10-30T04:06:37.000000Z
 release_date: "2021-10-29"

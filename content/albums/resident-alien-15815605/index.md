@@ -1,6 +1,7 @@
 ---
 title: "Spacehog - Resident Alien"
-artist: "Spacehog"
+artist_name: "Spacehog"
+artist: "spacehog"
 album_name: "Resident Alien"
 date: 2020-09-07T09:05:14.000000Z
 release_id: "15815605"

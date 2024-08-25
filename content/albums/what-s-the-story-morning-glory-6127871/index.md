@@ -1,6 +1,7 @@
 ---
 title: "Oasis - (What's The Story) Morning Glory?"
-artist: "Oasis"
+artist_name: "Oasis"
+artist: "oasis"
 album_name: "(What's The Story) Morning Glory?"
 date: 2016-03-23T12:58:39.000000Z
 release_date: "1995-10-02"

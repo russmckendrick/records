@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Violator"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Violator"
 date: 2016-04-30T15:20:34.000000Z
 release_date: "1990-03-19"

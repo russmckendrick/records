@@ -1,6 +1,7 @@
 ---
 title: "Sly & The Family Stone - The Best Of Sly And The Family Stone"
-artist: "Sly & The Family Stone"
+artist_name: "Sly & The Family Stone"
+artist: "sly-the-family-stone"
 album_name: "The Best Of Sly And The Family Stone"
 date: 2021-10-12T07:25:28.000000Z
 release_id: "20361376"

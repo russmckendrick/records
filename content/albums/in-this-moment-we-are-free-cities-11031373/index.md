@@ -1,6 +1,7 @@
 ---
 title: "Vuur - In This Moment We Are Free - Cities"
-artist: "Vuur"
+artist_name: "Vuur"
+artist: "vuur"
 album_name: "In This Moment We Are Free - Cities"
 date: 2017-10-21T15:09:36.000000Z
 release_id: "11031373"

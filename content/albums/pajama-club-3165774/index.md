@@ -1,6 +1,7 @@
 ---
 title: "Pajama Club - Pajama Club"
-artist: "Pajama Club"
+artist_name: "Pajama Club"
+artist: "pajama-club"
 album_name: "Pajama Club"
 date: 2016-09-01T17:18:43.000000Z
 release_id: "3165774"

@@ -1,6 +1,7 @@
 ---
 title: "Aphex Twin - Blackbox Life Recorder 21f / In A Room7 F760"
-artist: "Aphex Twin"
+artist_name: "Aphex Twin"
+artist: "aphex-twin"
 album_name: "Blackbox Life Recorder 21f / In A Room7 F760"
 date: 2023-07-28T05:33:20.000000Z
 release_id: "27636432"

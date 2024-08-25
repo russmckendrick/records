@@ -1,6 +1,7 @@
 ---
 title: "Reef - Glow"
-artist: "Reef"
+artist_name: "Reef"
+artist: "reef"
 album_name: "Glow"
 date: 2022-11-28T07:24:08.000000Z
 release_id: "25308085"

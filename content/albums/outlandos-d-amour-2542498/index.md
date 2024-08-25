@@ -1,6 +1,7 @@
 ---
 title: "The Police - Outlandos D'Amour"
-artist: "The Police"
+artist_name: "The Police"
+artist: "the-police"
 album_name: "Outlandos D'Amour"
 date: 2016-12-08T18:39:16.000000Z
 release_id: "2542498"

@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - The Harmony Codex"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "The Harmony Codex"
 date: 2023-10-02T05:50:21.000000Z
 release_id: "28455277"

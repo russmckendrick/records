@@ -1,6 +1,7 @@
 ---
 title: "Various - Judgment Night (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Judgment Night (Music From The Motion Picture)"
 date: 2017-01-25T18:16:06.000000Z
 release_id: "2602982"

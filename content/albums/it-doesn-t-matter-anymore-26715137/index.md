@@ -1,6 +1,7 @@
 ---
 title: "The Supernaturals - It Doesn't Matter Anymore"
-artist: "The Supernaturals"
+artist_name: "The Supernaturals"
+artist: "the-supernaturals"
 album_name: "It Doesn't Matter Anymore"
 date: 2023-12-29T04:33:09.000000Z
 release_id: "26715137"

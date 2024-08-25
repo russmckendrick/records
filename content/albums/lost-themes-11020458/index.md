@@ -1,6 +1,7 @@
 ---
 title: "John Carpenter - Lost Themes"
-artist: "John Carpenter"
+artist_name: "John Carpenter"
+artist: "john-carpenter"
 album_name: "Lost Themes"
 date: 2018-02-08T18:31:13.000000Z
 release_id: "11020458"

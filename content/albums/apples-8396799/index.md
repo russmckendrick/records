@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury - Apples"
-artist: "Ian Dury"
+artist_name: "Ian Dury"
+artist: "ian-dury"
 album_name: "Apples"
 date: 2016-09-21T18:13:16.000000Z
 release_id: "8396799"

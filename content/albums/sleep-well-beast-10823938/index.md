@@ -1,6 +1,7 @@
 ---
 title: "The National - Sleep Well Beast"
-artist: "The National"
+artist_name: "The National"
+artist: "the-national"
 album_name: "Sleep Well Beast"
 date: 2017-09-15T13:59:50.000000Z
 release_date: "2017-09-08"

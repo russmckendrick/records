@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - Paranoid"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "Paranoid"
 date: 2015-09-30T17:20:06.000000Z
 release_date: "1970-09-18"

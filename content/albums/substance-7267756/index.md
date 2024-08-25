@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Substance"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Substance"
 date: 2015-08-09T08:43:10.000000Z
 release_date: "1988-07-11"

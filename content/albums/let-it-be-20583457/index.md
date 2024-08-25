@@ -1,6 +1,7 @@
 ---
 title: "The Beatles - Let It Be"
-artist: "The Beatles"
+artist_name: "The Beatles"
+artist: "the-beatles"
 album_name: "Let It Be"
 date: 2021-10-22T10:09:58.000000Z
 release_date: "1970-05-08"

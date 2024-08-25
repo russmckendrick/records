@@ -1,6 +1,7 @@
 ---
 title: "Michael Kiwanuka - Kiwanuka"
-artist: "Michael Kiwanuka"
+artist_name: "Michael Kiwanuka"
+artist: "michael-kiwanuka"
 album_name: "Kiwanuka"
 date: 2019-11-01T19:24:45.000000Z
 release_date: "2019-11-01"

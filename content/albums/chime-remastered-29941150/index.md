@@ -1,6 +1,7 @@
 ---
 title: "Orbital - Chime (Remastered)"
-artist: "Orbital"
+artist_name: "Orbital"
+artist: "orbital"
 album_name: "Chime (Remastered)"
 date: 2024-03-02T08:06:43.000000Z
 release_id: "29941150"

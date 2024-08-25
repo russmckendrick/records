@@ -1,6 +1,7 @@
 ---
 title: "Bent Knee - Land Animal"
-artist: "Bent Knee"
+artist_name: "Bent Knee"
+artist: "bent-knee"
 album_name: "Land Animal"
 date: 2017-07-02T11:14:49.000000Z
 release_id: "10442927"

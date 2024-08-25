@@ -1,6 +1,7 @@
 ---
 title: "Talking Heads - The Name Of This Band Is Talking Heads"
-artist: "Talking Heads"
+artist_name: "Talking Heads"
+artist: "talking-heads"
 album_name: "The Name Of This Band Is Talking Heads"
 date: 2021-01-23T07:52:11.000000Z
 release_id: "16809120"

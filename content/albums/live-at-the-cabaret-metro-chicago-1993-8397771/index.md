@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Live At The Cabaret Metro - Chicago 1993"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Live At The Cabaret Metro - Chicago 1993"
 date: 2017-06-01T18:06:52.000000Z
 release_id: "8397771"

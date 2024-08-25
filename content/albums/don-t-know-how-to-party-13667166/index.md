@@ -1,6 +1,7 @@
 ---
 title: "The Mighty Mighty Bosstones - Don't Know How To Party"
-artist: "The Mighty Mighty Bosstones"
+artist_name: "The Mighty Mighty Bosstones"
+artist: "the-mighty-mighty-bosstones"
 album_name: "Don't Know How To Party"
 date: 2019-06-04T17:10:02.000000Z
 release_id: "13667166"

@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - The Man•Machine"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "The Man•Machine"
 date: 2016-02-29T19:01:39.000000Z
 release_id: "2058334"

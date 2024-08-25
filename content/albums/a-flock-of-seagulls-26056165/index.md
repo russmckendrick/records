@@ -1,6 +1,7 @@
 ---
 title: "A Flock Of Seagulls - A Flock Of Seagulls"
-artist: "A Flock Of Seagulls"
+artist_name: "A Flock Of Seagulls"
+artist: "a-flock-of-seagulls"
 album_name: "A Flock Of Seagulls"
 date: 2023-02-18T11:22:23.000000Z
 release_id: "26056165"

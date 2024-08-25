@@ -1,6 +1,7 @@
 ---
 title: "Maggie Bell - Queen Of The Night"
-artist: "Maggie Bell"
+artist_name: "Maggie Bell"
+artist: "maggie-bell"
 album_name: "Queen Of The Night"
 date: 2015-10-02T09:37:22.000000Z
 release_id: "2386688"

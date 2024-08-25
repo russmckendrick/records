@@ -1,6 +1,7 @@
 ---
 title: "Various - Lost Highway (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Lost Highway (Original Motion Picture Soundtrack)"
 date: 2016-11-14T17:46:25.000000Z
 release_id: "9274768"

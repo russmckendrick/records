@@ -1,6 +1,7 @@
 ---
 title: "Belly - Bees"
-artist: "Belly"
+artist_name: "Belly"
+artist: "belly"
 album_name: "Bees"
 date: 2021-06-12T06:03:40.000000Z
 release_date: "1988-09-19"

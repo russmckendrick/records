@@ -1,6 +1,7 @@
 ---
 title: "Neko Case & Her Boyfriends - Furnace Room Lullaby"
-artist: "Neko Case & Her Boyfriends"
+artist_name: "Neko Case & Her Boyfriends"
+artist: "neko-case-her-boyfriends"
 album_name: "Furnace Room Lullaby"
 date: 2022-03-19T06:48:23.000000Z
 release_id: "8197021"

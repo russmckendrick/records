@@ -1,6 +1,7 @@
 ---
 title: "Mother Love Bone - On Earth As It Is: The Complete Works"
-artist: "Mother Love Bone"
+artist_name: "Mother Love Bone"
+artist: "mother-love-bone"
 album_name: "On Earth As It Is: The Complete Works"
 date: 2016-11-14T17:49:15.000000Z
 release_id: "9294321"

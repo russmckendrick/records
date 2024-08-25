@@ -1,6 +1,7 @@
 ---
 title: "The Gaslight Anthem - The '59 Sound"
-artist: "The Gaslight Anthem"
+artist_name: "The Gaslight Anthem"
+artist: "the-gaslight-anthem"
 album_name: "The '59 Sound"
 date: 2015-08-09T08:40:16.000000Z
 release_id: "7246420"

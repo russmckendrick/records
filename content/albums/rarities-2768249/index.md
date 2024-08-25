@@ -1,6 +1,7 @@
 ---
 title: "Emiliana Torrini - Rarities"
-artist: "Emiliana Torrini"
+artist_name: "Emiliana Torrini"
+artist: "emiliana-torrini"
 album_name: "Rarities"
 date: 2016-11-21T12:14:42.000000Z
 release_id: "2768249"

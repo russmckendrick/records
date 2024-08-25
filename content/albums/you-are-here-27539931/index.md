@@ -1,6 +1,7 @@
 ---
 title: "Silver Sun - You Are Here"
-artist: "Silver Sun"
+artist_name: "Silver Sun"
+artist: "silver-sun"
 album_name: "You Are Here"
 date: 2023-11-07T05:58:29.000000Z
 release_id: "27539931"

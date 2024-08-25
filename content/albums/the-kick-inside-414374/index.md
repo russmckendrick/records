@@ -1,6 +1,7 @@
 ---
 title: "Kate Bush - The Kick Inside"
-artist: "Kate Bush"
+artist_name: "Kate Bush"
+artist: "kate-bush"
 album_name: "The Kick Inside"
 date: 2018-02-20T19:29:28.000000Z
 release_id: "414374"

@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - High Voltage"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "High Voltage"
 date: 2024-03-16T02:33:30.000000Z
 release_date: "1976-04-30"

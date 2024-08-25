@@ -1,6 +1,7 @@
 ---
 title: "Voice Of The Beehive - Let It Bee"
-artist: "Voice Of The Beehive"
+artist_name: "Voice Of The Beehive"
+artist: "voice-of-the-beehive"
 album_name: "Let It Bee"
 date: 2020-07-08T13:15:29.000000Z
 release_id: "14144170"

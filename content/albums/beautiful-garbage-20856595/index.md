@@ -1,6 +1,7 @@
 ---
 title: "Garbage - Beautiful Garbage"
-artist: "Garbage"
+artist_name: "Garbage"
+artist: "garbage"
 album_name: "Beautiful Garbage"
 date: 2022-10-05T12:03:47.000000Z
 release_id: "20856595"

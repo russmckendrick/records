@@ -1,6 +1,7 @@
 ---
 title: "Steve Lamacq - Lost Alternatives"
-artist: "Steve Lamacq"
+artist_name: "Steve Lamacq"
+artist: "steve-lamacq"
 album_name: "Lost Alternatives"
 date: 2019-04-15T11:47:49.000000Z
 release_id: "13493663"

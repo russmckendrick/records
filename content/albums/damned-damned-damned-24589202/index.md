@@ -1,6 +1,7 @@
 ---
 title: "The Damned - Damned Damned Damned"
-artist: "The Damned"
+artist_name: "The Damned"
+artist: "the-damned"
 album_name: "Damned Damned Damned"
 date: 2022-10-14T05:15:31.000000Z
 release_date: "2017-12-15"

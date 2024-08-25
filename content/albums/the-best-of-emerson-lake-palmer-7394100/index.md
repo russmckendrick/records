@@ -1,6 +1,7 @@
 ---
 title: "Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer"
-artist: "Emerson, Lake & Palmer"
+artist_name: "Emerson, Lake & Palmer"
+artist: "emerson-lake-palmer"
 album_name: "The Best Of Emerson Lake & Palmer"
 date: 2016-03-16T18:38:08.000000Z
 release_id: "7394100"

@@ -1,6 +1,7 @@
 ---
 title: "Hole - Live Through This"
-artist: "Hole"
+artist_name: "Hole"
+artist: "hole"
 album_name: "Live Through This"
 date: 2023-10-17T11:31:12.000000Z
 release_date: "1994-04-12"

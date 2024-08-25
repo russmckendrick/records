@@ -1,6 +1,7 @@
 ---
 title: "Jimmy Cliff - Special"
-artist: "Jimmy Cliff"
+artist_name: "Jimmy Cliff"
+artist: "jimmy-cliff"
 album_name: "Special"
 date: 2020-08-02T13:46:01.000000Z
 release_id: "970900"

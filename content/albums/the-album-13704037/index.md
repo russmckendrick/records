@@ -1,6 +1,7 @@
 ---
 title: "Mantronix - The Album"
-artist: "Mantronix"
+artist_name: "Mantronix"
+artist: "mantronix"
 album_name: "The Album"
 date: 2019-06-29T08:06:47.000000Z
 release_id: "13704037"

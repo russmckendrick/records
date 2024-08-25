@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Opium"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Opium"
 date: 2015-10-20T17:19:18.000000Z
 release_id: "6666205"

@@ -1,6 +1,7 @@
 ---
 title: "Frequency Drift - Letters To Maro"
-artist: "Frequency Drift"
+artist_name: "Frequency Drift"
+artist: "frequency-drift"
 album_name: "Letters To Maro"
 date: 2018-11-10T14:07:34.000000Z
 release_id: "11856237"

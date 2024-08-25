@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - Back To The Bars"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "Back To The Bars"
 date: 2022-03-06T04:59:42.000000Z
 release_id: "1549510"

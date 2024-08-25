@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Three Snakes And One Charm"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Three Snakes And One Charm"
 date: 2016-01-04T18:01:08.000000Z
 release_id: "7836430"

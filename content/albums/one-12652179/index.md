@@ -1,6 +1,7 @@
 ---
 title: "Dubstar - One"
-artist: "Dubstar"
+artist_name: "Dubstar"
+artist: "dubstar"
 album_name: "One"
 date: 2018-10-13T07:28:15.000000Z
 release_id: "12652179"

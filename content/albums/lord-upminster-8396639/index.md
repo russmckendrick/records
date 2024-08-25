@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury - Lord Upminster"
-artist: "Ian Dury"
+artist_name: "Ian Dury"
+artist: "ian-dury"
 album_name: "Lord Upminster"
 date: 2016-09-21T18:13:50.000000Z
 release_id: "8396639"

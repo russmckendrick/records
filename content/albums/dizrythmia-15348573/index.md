@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Dizrythmia"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Dizrythmia"
 date: 2020-05-26T13:00:37.000000Z
 release_id: "15348573"

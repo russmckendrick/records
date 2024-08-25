@@ -1,6 +1,7 @@
 ---
 title: "Cake - Comfort Eagle"
-artist: "Cake"
+artist_name: "Cake"
+artist: "cake"
 album_name: "Comfort Eagle"
 date: 2023-09-28T10:18:12.000000Z
 release_id: "28256146"

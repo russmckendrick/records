@@ -1,5 +1,6 @@
 ---
 title: "65daysofstatic - replicr, 2019"
+artist_name: "65daysofstatic"
 artist: "65daysofstatic"
 album_name: "replicr, 2019"
 date: 2019-09-28T07:53:07.000000Z

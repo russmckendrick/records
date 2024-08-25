@@ -1,6 +1,7 @@
 ---
 title: "Machine Head - Burn My Eyes"
-artist: "Machine Head"
+artist_name: "Machine Head"
+artist: "machine-head"
 album_name: "Burn My Eyes"
 date: 2016-09-19T15:12:56.000000Z
 release_id: "6125349"

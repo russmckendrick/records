@@ -1,6 +1,7 @@
 ---
 title: "World Party - Egyptology"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Egyptology"
 date: 2022-11-02T03:25:00.000000Z
 release_id: "25017913"

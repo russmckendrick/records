@@ -1,6 +1,7 @@
 ---
 title: "Mull Historical Society - Loss"
-artist: "Mull Historical Society"
+artist_name: "Mull Historical Society"
+artist: "mull-historical-society"
 album_name: "Loss"
 date: 2023-03-01T00:18:53.000000Z
 release_id: "26212055"

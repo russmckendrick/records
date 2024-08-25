@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - In Absentia"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "In Absentia"
 date: 2018-03-12T19:33:13.000000Z
 release_id: "11632553"

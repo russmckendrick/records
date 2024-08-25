@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - As The Love Continues"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "As The Love Continues"
 date: 2021-02-19T00:46:47.000000Z
 release_date: "2021-02-19"

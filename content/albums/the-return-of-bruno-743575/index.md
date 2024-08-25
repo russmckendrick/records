@@ -1,6 +1,7 @@
 ---
 title: "Bruce Willis - The Return Of Bruno"
-artist: "Bruce Willis"
+artist_name: "Bruce Willis"
+artist: "bruce-willis"
 album_name: "The Return Of Bruno"
 date: 2015-10-05T18:23:05.000000Z
 release_id: "743575"

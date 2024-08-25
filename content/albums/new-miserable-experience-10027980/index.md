@@ -1,6 +1,7 @@
 ---
 title: "Gin Blossoms - New Miserable Experience"
-artist: "Gin Blossoms"
+artist_name: "Gin Blossoms"
+artist: "gin-blossoms"
 album_name: "New Miserable Experience"
 date: 2018-01-20T19:09:37.000000Z
 release_id: "10027980"

@@ -1,6 +1,7 @@
 ---
 title: "Sly & The Family Stone - Greatest Hits"
-artist: "Sly & The Family Stone"
+artist_name: "Sly & The Family Stone"
+artist: "sly-the-family-stone"
 album_name: "Greatest Hits"
 date: 2018-01-29T19:34:01.000000Z
 release_id: "11281399"

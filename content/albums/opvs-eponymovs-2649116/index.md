@@ -1,6 +1,7 @@
 ---
 title: "Ghost - Opvs Eponymovs"
-artist: "Ghost"
+artist_name: "Ghost"
+artist: "ghost"
 album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
 release_id: "2649116"

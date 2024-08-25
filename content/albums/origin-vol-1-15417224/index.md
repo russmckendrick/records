@@ -1,6 +1,7 @@
 ---
 title: "The Soundtrack Of Our Lives - Origin Vol. 1"
-artist: "The Soundtrack Of Our Lives"
+artist_name: "The Soundtrack Of Our Lives"
+artist: "the-soundtrack-of-our-lives"
 album_name: "Origin Vol. 1"
 date: 2020-07-06T12:40:06.000000Z
 release_id: "15417224"

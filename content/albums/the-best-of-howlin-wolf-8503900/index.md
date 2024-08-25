@@ -1,6 +1,7 @@
 ---
 title: "Howlin' Wolf - The Best Of Howlin' Wolf"
-artist: "Howlin' Wolf"
+artist_name: "Howlin' Wolf"
+artist: "howlin-wolf"
 album_name: "The Best Of Howlin' Wolf"
 date: 2021-12-23T04:32:15.000000Z
 release_id: "8503900"

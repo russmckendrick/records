@@ -1,6 +1,7 @@
 ---
 title: "Prefab Sprout - Steve McQueen Acoustic"
-artist: "Prefab Sprout"
+artist_name: "Prefab Sprout"
+artist: "prefab-sprout"
 album_name: "Steve McQueen Acoustic"
 date: 2019-04-13T11:16:19.000000Z
 release_id: "13288548"

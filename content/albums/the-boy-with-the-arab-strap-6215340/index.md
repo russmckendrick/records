@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - The Boy With The Arab Strap"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "The Boy With The Arab Strap"
 date: 2017-04-25T08:36:19.000000Z
 release_id: "6215340"

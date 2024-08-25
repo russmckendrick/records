@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - Vaxis – Act I: The Unheavenly Creatures"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "Vaxis – Act I: The Unheavenly Creatures"
 date: 2018-10-22T12:23:22.000000Z
 release_id: "12677957"

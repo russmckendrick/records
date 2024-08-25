@@ -1,6 +1,7 @@
 ---
 title: "Sultans Of Ping F.C. - Casual Sex In The Cineplex"
-artist: "Sultans Of Ping F.C."
+artist_name: "Sultans Of Ping F.C."
+artist: "sultans-of-ping-f-c"
 album_name: "Casual Sex In The Cineplex"
 date: 2023-11-11T02:26:35.000000Z
 release_id: "28854088"

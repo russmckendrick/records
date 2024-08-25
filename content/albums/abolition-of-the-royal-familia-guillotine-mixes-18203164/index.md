@@ -1,6 +1,7 @@
 ---
 title: "The Orb - Abolition Of The Royal Familia (Guillotine Mixes)"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "Abolition Of The Royal Familia (Guillotine Mixes)"
 date: 2021-05-10T03:53:37.000000Z
 release_id: "18203164"

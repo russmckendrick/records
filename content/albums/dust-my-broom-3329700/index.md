@@ -1,6 +1,7 @@
 ---
 title: "Elmore James - Dust My Broom"
-artist: "Elmore James"
+artist_name: "Elmore James"
+artist: "elmore-james"
 album_name: "Dust My Broom"
 date: 2015-12-17T08:50:29.000000Z
 release_id: "3329700"

@@ -1,6 +1,7 @@
 ---
 title: "The Charlatans - The Charlatans"
-artist: "The Charlatans"
+artist_name: "The Charlatans"
+artist: "the-charlatans"
 album_name: "The Charlatans"
 date: 2021-10-08T09:54:16.000000Z
 release_id: "20376190"

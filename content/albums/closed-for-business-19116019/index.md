@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Closed For Business"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Closed For Business"
 date: 2021-06-18T04:51:49.000000Z
 release_id: "19116019"

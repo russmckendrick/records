@@ -1,6 +1,7 @@
 ---
 title: "Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Music From The Motion Picture Soundtrack - Beverly Hills Cop"
 date: 2017-03-25T14:28:06.000000Z
 release_id: "7781680"

@@ -1,6 +1,7 @@
 ---
 title: "The Orb - Prism"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "Prism"
 date: 2023-05-02T10:23:09.000000Z
 release_id: "26908850"

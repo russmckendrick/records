@@ -1,6 +1,7 @@
 ---
 title: "Booth And The Bad Angel - Booth And The Bad Angel"
-artist: "Booth And The Bad Angel"
+artist_name: "Booth And The Bad Angel"
+artist: "booth-and-the-bad-angel"
 album_name: "Booth And The Bad Angel"
 date: 2023-12-10T05:39:17.000000Z
 release_id: "13610947"

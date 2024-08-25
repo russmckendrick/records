@@ -1,6 +1,7 @@
 ---
 title: "Charlie Barnes - Last Nights Glitter"
-artist: "Charlie Barnes"
+artist_name: "Charlie Barnes"
+artist: "charlie-barnes"
 album_name: "Last Nights Glitter"
 date: 2020-08-30T14:46:35.000000Z
 release_id: "15832271"

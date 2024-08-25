@@ -1,6 +1,7 @@
 ---
 title: "Elastica - Elastica"
-artist: "Elastica"
+artist_name: "Elastica"
+artist: "elastica"
 album_name: "Elastica"
 date: 2017-11-22T20:15:07.000000Z
 release_id: "11175695"

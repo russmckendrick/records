@@ -1,6 +1,7 @@
 ---
 title: "The Nightingales - King Rocker (The Original Soundtrack)"
-artist: "The Nightingales"
+artist_name: "The Nightingales"
+artist: "the-nightingales"
 album_name: "King Rocker (The Original Soundtrack)"
 date: 2022-03-19T06:45:12.000000Z
 release_id: "21188260"

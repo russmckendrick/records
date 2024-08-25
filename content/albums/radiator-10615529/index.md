@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Radiator"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Radiator"
 date: 2017-07-29T08:50:24.000000Z
 release_id: "10615529"

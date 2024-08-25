@@ -1,6 +1,7 @@
 ---
 title: "Thank You Scientist - Stranger Heads Prevail"
-artist: "Thank You Scientist"
+artist_name: "Thank You Scientist"
+artist: "thank-you-scientist"
 album_name: "Stranger Heads Prevail"
 date: 2020-01-10T18:23:44.000000Z
 release_id: "14543822"

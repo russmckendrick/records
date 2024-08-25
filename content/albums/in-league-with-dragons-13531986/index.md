@@ -1,6 +1,7 @@
 ---
 title: "The Mountain Goats - In League With Dragons"
-artist: "The Mountain Goats"
+artist_name: "The Mountain Goats"
+artist: "the-mountain-goats"
 album_name: "In League With Dragons"
 date: 2019-04-27T12:02:19.000000Z
 release_id: "13531986"

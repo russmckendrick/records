@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Attack Of The Grey Lantern "
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Attack Of The Grey Lantern "
 date: 2022-04-24T04:23:08.000000Z
 release_id: "22982366"

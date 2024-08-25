@@ -1,6 +1,7 @@
 ---
 title: "Johnny Cash - The Legend Of Johnny Cash"
-artist: "Johnny Cash"
+artist_name: "Johnny Cash"
+artist: "johnny-cash"
 album_name: "The Legend Of Johnny Cash"
 date: 2015-08-09T08:38:25.000000Z
 release_id: "6185046"

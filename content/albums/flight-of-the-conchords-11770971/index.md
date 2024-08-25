@@ -1,6 +1,7 @@
 ---
 title: "Flight Of The Conchords - Flight Of The Conchords"
-artist: "Flight Of The Conchords"
+artist_name: "Flight Of The Conchords"
+artist: "flight-of-the-conchords"
 album_name: "Flight Of The Conchords"
 date: 2018-03-31T10:51:31.000000Z
 release_date: "2008-04-21"

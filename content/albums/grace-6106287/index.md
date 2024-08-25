@@ -1,6 +1,7 @@
 ---
 title: "Jeff Buckley - Grace"
-artist: "Jeff Buckley"
+artist_name: "Jeff Buckley"
+artist: "jeff-buckley"
 album_name: "Grace"
 date: 2015-08-09T08:38:40.000000Z
 release_id: "6106287"

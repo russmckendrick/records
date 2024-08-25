@@ -1,6 +1,7 @@
 ---
 title: "The Who - Live At Leeds"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "Live At Leeds"
 date: 2016-11-30T18:50:05.000000Z
 release_date: "1970-05-16"

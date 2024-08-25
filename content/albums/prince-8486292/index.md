@@ -1,6 +1,7 @@
 ---
 title: "Prince - Prince"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Prince"
 date: 2016-06-26T13:15:41.000000Z
 release_id: "8486292"

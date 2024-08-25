@@ -1,6 +1,7 @@
 ---
 title: "LCD Soundsystem - Sound Of Silver"
-artist: "LCD Soundsystem"
+artist_name: "LCD Soundsystem"
+artist: "lcd-soundsystem"
 album_name: "Sound Of Silver"
 date: 2016-10-31T17:50:59.000000Z
 release_date: "2007-03-12"

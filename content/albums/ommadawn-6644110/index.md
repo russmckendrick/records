@@ -1,6 +1,7 @@
 ---
 title: "Mike Oldfield - Ommadawn"
-artist: "Mike Oldfield"
+artist_name: "Mike Oldfield"
+artist: "mike-oldfield"
 album_name: "Ommadawn"
 date: 2017-06-01T18:08:57.000000Z
 release_id: "6644110"

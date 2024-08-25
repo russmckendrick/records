@@ -1,6 +1,7 @@
 ---
 title: "Various - The Bitmap Brothers: Odyssey"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Bitmap Brothers: Odyssey"
 date: 2021-03-22T12:09:05.000000Z
 release_id: "17581171"

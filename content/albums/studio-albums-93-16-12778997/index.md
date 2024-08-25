@@ -1,6 +1,7 @@
 ---
 title: "Suede - Studio Albums 93 - 16"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Studio Albums 93 - 16"
 date: 2019-12-14T13:00:24.000000Z
 release_id: "12778997"

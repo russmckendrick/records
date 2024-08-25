@@ -1,6 +1,7 @@
 ---
 title: "Kyuss - Welcome To Sky Valley"
-artist: "Kyuss"
+artist_name: "Kyuss"
+artist: "kyuss"
 album_name: "Welcome To Sky Valley"
 date: 2016-09-14T16:48:33.000000Z
 release_id: "8901378"

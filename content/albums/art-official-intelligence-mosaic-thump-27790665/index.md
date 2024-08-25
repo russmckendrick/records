@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - Art Official Intelligence: Mosaic Thump"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "Art Official Intelligence: Mosaic Thump"
 date: 2023-09-16T00:47:42.000000Z
 release_date: "2000-08-08"

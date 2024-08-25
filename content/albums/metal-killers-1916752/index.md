@@ -1,6 +1,7 @@
 ---
 title: "Various - Metal Killers"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Metal Killers"
 date: 2017-07-11T08:45:32.000000Z
 release_id: "1916752"

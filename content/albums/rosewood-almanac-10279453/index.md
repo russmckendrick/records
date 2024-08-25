@@ -1,6 +1,7 @@
 ---
 title: "Will Stratton - Rosewood Almanac"
-artist: "Will Stratton"
+artist_name: "Will Stratton"
+artist: "will-stratton"
 album_name: "Rosewood Almanac"
 date: 2017-05-16T18:15:40.000000Z
 release_id: "10279453"

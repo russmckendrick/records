@@ -1,6 +1,7 @@
 ---
 title: "Jouis - Dojo"
-artist: "Jouis"
+artist_name: "Jouis"
+artist: "jouis"
 album_name: "Dojo"
 date: 2017-11-20T14:15:28.000000Z
 release_id: "6278453"

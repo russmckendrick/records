@@ -1,6 +1,7 @@
 ---
 title: "The Lemonheads - Lick"
-artist: "The Lemonheads"
+artist_name: "The Lemonheads"
+artist: "the-lemonheads"
 album_name: "Lick"
 date: 2020-08-02T13:47:51.000000Z
 release_id: "864844"

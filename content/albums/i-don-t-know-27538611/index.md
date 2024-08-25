@@ -1,5 +1,6 @@
 ---
 title: "bdrmm - I Don't Know"
+artist_name: "bdrmm"
 artist: "bdrmm"
 album_name: "I Don't Know"
 date: 2023-07-07T11:23:07.000000Z

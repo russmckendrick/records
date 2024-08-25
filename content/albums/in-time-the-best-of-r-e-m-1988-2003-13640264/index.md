@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - In Time: The Best Of R.E.M. 1988-2003"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "In Time: The Best Of R.E.M. 1988-2003"
 date: 2019-06-15T14:33:49.000000Z
 release_id: "13640264"

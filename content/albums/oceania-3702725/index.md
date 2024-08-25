@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Oceania"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Oceania"
 date: 2015-09-27T10:50:55.000000Z
 release_id: "3702725"

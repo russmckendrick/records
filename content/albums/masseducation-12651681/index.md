@@ -1,6 +1,7 @@
 ---
 title: "St. Vincent - MassEducation"
-artist: "St. Vincent"
+artist_name: "St. Vincent"
+artist: "st-vincent"
 album_name: "MassEducation"
 date: 2018-10-14T15:20:58.000000Z
 release_id: "12651681"

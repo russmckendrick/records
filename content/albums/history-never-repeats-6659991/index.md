@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - History Never Repeats"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "History Never Repeats"
 date: 2018-10-03T18:03:57.000000Z
 release_id: "6659991"

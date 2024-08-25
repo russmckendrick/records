@@ -1,6 +1,7 @@
 ---
 title: "The Breeders - Pod"
-artist: "The Breeders"
+artist_name: "The Breeders"
+artist: "the-breeders"
 album_name: "Pod"
 date: 2018-05-25T19:12:18.000000Z
 release_id: "11099702"

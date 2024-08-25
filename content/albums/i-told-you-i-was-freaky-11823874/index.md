@@ -1,6 +1,7 @@
 ---
 title: "Flight Of The Conchords - I Told You I Was Freaky"
-artist: "Flight Of The Conchords"
+artist_name: "Flight Of The Conchords"
+artist: "flight-of-the-conchords"
 album_name: "I Told You I Was Freaky"
 date: 2018-04-06T15:39:32.000000Z
 release_date: "2009-10-20"

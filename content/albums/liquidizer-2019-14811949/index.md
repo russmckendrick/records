@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Liquidizer 2019"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Liquidizer 2019"
 date: 2020-03-05T19:39:16.000000Z
 release_id: "14811949"

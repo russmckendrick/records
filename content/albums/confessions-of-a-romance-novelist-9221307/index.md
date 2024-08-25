@@ -1,6 +1,7 @@
 ---
 title: "The Anchoress - Confessions Of A Romance Novelist"
-artist: "The Anchoress"
+artist_name: "The Anchoress"
+artist: "the-anchoress"
 album_name: "Confessions Of A Romance Novelist"
 date: 2016-10-20T19:31:08.000000Z
 release_id: "9221307"

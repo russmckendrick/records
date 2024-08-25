@@ -1,6 +1,7 @@
 ---
 title: "Various - Twin Peaks (Music From The Limited Event Series)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Twin Peaks (Music From The Limited Event Series)"
 date: 2017-09-23T11:28:39.000000Z
 release_id: "10889050"

@@ -1,6 +1,7 @@
 ---
 title: "...And You Will Know Us By The Trail Of Dead - IX"
-artist: "...And You Will Know Us By The Trail Of Dead"
+artist_name: "...And You Will Know Us By The Trail Of Dead"
+artist: "and-you-will-know-us-by-the-trail-of-dead"
 album_name: "IX"
 date: 2017-12-02T20:16:13.000000Z
 release_id: "6227462"

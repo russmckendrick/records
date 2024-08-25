@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Division Bell"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Division Bell"
 date: 2019-06-07T16:48:45.000000Z
 release_date: "1994-03-28"

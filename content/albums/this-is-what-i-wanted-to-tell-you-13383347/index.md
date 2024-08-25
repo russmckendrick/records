@@ -1,6 +1,7 @@
 ---
 title: "Lambchop - This (Is What I Wanted To Tell You)"
-artist: "Lambchop"
+artist_name: "Lambchop"
+artist: "lambchop"
 album_name: "This (Is What I Wanted To Tell You)"
 date: 2019-03-23T13:39:43.000000Z
 release_id: "13383347"

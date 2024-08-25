@@ -1,6 +1,7 @@
 ---
 title: "It Bites - The Big Lad In The Windmill"
-artist: "It Bites"
+artist_name: "It Bites"
+artist: "it-bites"
 album_name: "The Big Lad In The Windmill"
 date: 2018-09-07T18:30:44.000000Z
 release_id: "1593537"

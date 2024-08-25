@@ -1,6 +1,7 @@
 ---
 title: "The Decemberists - I'll Be Your Girl"
-artist: "The Decemberists"
+artist_name: "The Decemberists"
+artist: "the-decemberists"
 album_name: "I'll Be Your Girl"
 date: 2018-03-20T12:55:36.000000Z
 release_id: "11685917"

@@ -1,6 +1,7 @@
 ---
 title: "Jamiroquai - Emergency On Planet Earth"
-artist: "Jamiroquai"
+artist_name: "Jamiroquai"
+artist: "jamiroquai"
 album_name: "Emergency On Planet Earth"
 date: 2022-10-14T05:16:00.000000Z
 release_id: "24817685"

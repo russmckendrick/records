@@ -1,6 +1,7 @@
 ---
 title: "Michael Franti And Spearhead - Stay Human Vol. II"
-artist: "Michael Franti And Spearhead"
+artist_name: "Michael Franti And Spearhead"
+artist: "michael-franti-and-spearhead"
 album_name: "Stay Human Vol. II"
 date: 2019-01-27T14:28:39.000000Z
 release_date: "2019-01-25"

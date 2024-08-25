@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Together Alone"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Together Alone"
 date: 2015-09-10T18:28:00.000000Z
 release_id: "2187186"

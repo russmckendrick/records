@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Thirteen"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Thirteen"
 date: 2018-08-29T18:39:26.000000Z
 release_id: "12373131"

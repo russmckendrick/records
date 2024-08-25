@@ -1,6 +1,7 @@
 ---
 title: "Gene - The Albums"
-artist: "Gene"
+artist_name: "Gene"
+artist: "gene"
 album_name: "The Albums"
 date: 2021-05-22T05:19:26.000000Z
 release_id: "15800345"

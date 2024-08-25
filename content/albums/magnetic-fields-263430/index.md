@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Magnetic Fields"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Magnetic Fields"
 date: 2017-06-14T07:25:40.000000Z
 release_date: "2015-08-28"

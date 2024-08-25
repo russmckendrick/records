@@ -1,6 +1,7 @@
 ---
 title: "Denise Johnson - Where Does It Go"
-artist: "Denise Johnson"
+artist_name: "Denise Johnson"
+artist: "denise-johnson"
 album_name: "Where Does It Go"
 date: 2021-02-02T02:44:51.000000Z
 release_id: "15998946"

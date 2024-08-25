@@ -1,6 +1,7 @@
 ---
 title: "The Prodigy - Music For The Jilted Generation"
-artist: "The Prodigy"
+artist_name: "The Prodigy"
+artist: "the-prodigy"
 album_name: "Music For The Jilted Generation"
 date: 2019-10-12T16:14:20.000000Z
 release_id: "1411395"

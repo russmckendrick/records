@@ -1,6 +1,7 @@
 ---
 title: "Cindy Wilson - Change"
-artist: "Cindy Wilson"
+artist_name: "Cindy Wilson"
+artist: "cindy-wilson"
 album_name: "Change"
 date: 2017-12-11T19:45:25.000000Z
 release_id: "11218880"

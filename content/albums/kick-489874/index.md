@@ -1,6 +1,7 @@
 ---
 title: "INXS - Kick"
-artist: "INXS"
+artist_name: "INXS"
+artist: "inxs"
 album_name: "Kick"
 date: 2015-09-10T18:28:00.000000Z
 release_date: "2013-01-01"

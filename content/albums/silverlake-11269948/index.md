@@ -1,6 +1,7 @@
 ---
 title: "Pugwash - Silverlake"
-artist: "Pugwash"
+artist_name: "Pugwash"
+artist: "pugwash"
 album_name: "Silverlake"
 date: 2018-01-04T06:58:55.000000Z
 release_id: "11269948"

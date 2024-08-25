@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Common Ground"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Common Ground"
 date: 2021-07-30T07:19:02.000000Z
 release_id: "19581835"

@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Hardwired...To Self-Destruct"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Hardwired...To Self-Destruct"
 date: 2024-07-16T11:02:26.000000Z
 release_id: "31145969"

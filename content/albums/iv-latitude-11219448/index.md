@@ -1,6 +1,7 @@
 ---
 title: "Lesoir - IV Latitude"
-artist: "Lesoir"
+artist_name: "Lesoir"
+artist: "lesoir"
 album_name: "IV Latitude"
 date: 2019-03-27T19:31:25.000000Z
 release_id: "11219448"

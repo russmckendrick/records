@@ -1,6 +1,7 @@
 ---
 title: "Big Audio Dynamite - This Is Big Audio Dynamite"
-artist: "Big Audio Dynamite"
+artist_name: "Big Audio Dynamite"
+artist: "big-audio-dynamite"
 album_name: "This Is Big Audio Dynamite"
 date: 2016-01-20T19:29:13.000000Z
 release_id: "6631916"

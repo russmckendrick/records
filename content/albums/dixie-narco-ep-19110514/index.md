@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Dixie-Narco EP"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Dixie-Narco EP"
 date: 2021-06-18T04:50:17.000000Z
 release_id: "19110514"

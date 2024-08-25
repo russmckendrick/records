@@ -1,6 +1,7 @@
 ---
 title: "The Mighty Mighty Bosstones - Devils Night Out"
-artist: "The Mighty Mighty Bosstones"
+artist_name: "The Mighty Mighty Bosstones"
+artist: "the-mighty-mighty-bosstones"
 album_name: "Devils Night Out"
 date: 2020-08-15T10:10:27.000000Z
 release_id: "9713856"

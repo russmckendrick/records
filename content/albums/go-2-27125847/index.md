@@ -1,6 +1,7 @@
 ---
 title: "XTC - Go 2"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Go 2"
 date: 2023-05-28T05:09:46.000000Z
 release_id: "27125847"

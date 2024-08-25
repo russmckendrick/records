@@ -1,6 +1,7 @@
 ---
 title: "VAST - Music For People"
-artist: "VAST"
+artist_name: "VAST"
+artist: "vast"
 album_name: "Music For People"
 date: 2021-06-12T05:56:04.000000Z
 release_id: "19112086"

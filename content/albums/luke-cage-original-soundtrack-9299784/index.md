@@ -1,6 +1,7 @@
 ---
 title: "Adrian Younge - Luke Cage - Original Soundtrack"
-artist: "Adrian Younge"
+artist_name: "Adrian Younge"
+artist: "adrian-younge"
 album_name: "Luke Cage - Original Soundtrack"
 date: 2016-11-10T18:26:31.000000Z
 release_id: "9299784"

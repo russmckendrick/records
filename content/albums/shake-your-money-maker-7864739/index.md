@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Shake Your Money Maker"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Shake Your Money Maker"
 date: 2015-12-19T11:37:04.000000Z
 release_id: "7864739"

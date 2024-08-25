@@ -1,6 +1,7 @@
 ---
 title: "The Helicopter Of The Holy Ghost - Afters"
-artist: "The Helicopter Of The Holy Ghost"
+artist_name: "The Helicopter Of The Holy Ghost"
+artist: "the-helicopter-of-the-holy-ghost"
 album_name: "Afters"
 date: 2021-10-04T04:59:28.000000Z
 release_id: "19860235"

@@ -1,6 +1,7 @@
 ---
 title: "Zwan - Mary Star Of The Sea"
-artist: "Zwan"
+artist_name: "Zwan"
+artist: "zwan"
 album_name: "Mary Star Of The Sea"
 date: 2016-07-05T20:56:59.000000Z
 release_id: "892155"

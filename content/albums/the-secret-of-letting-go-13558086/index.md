@@ -1,6 +1,7 @@
 ---
 title: "Lamb - The Secret Of Letting Go"
-artist: "Lamb"
+artist_name: "Lamb"
+artist: "lamb"
 album_name: "The Secret Of Letting Go"
 date: 2019-04-28T17:36:52.000000Z
 release_id: "13558086"

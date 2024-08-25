@@ -1,6 +1,7 @@
 ---
 title: "British Theatre - Mastery"
-artist: "British Theatre"
+artist_name: "British Theatre"
+artist: "british-theatre"
 album_name: "Mastery"
 date: 2016-06-27T17:47:06.000000Z
 release_id: "8693685"

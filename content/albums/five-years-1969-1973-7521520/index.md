@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - [Five Years 1969 - 1973]"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "[Five Years 1969 - 1973]"
 date: 2016-01-20T19:04:07.000000Z
 release_date: "2015-09-25"

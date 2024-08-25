@@ -1,6 +1,7 @@
 ---
 title: "Run The Jewels - Run The Jewels 2"
-artist: "Run The Jewels"
+artist_name: "Run The Jewels"
+artist: "run-the-jewels"
 album_name: "Run The Jewels 2"
 date: 2015-08-09T08:37:30.000000Z
 release_id: "6653718"

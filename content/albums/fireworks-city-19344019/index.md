@@ -1,6 +1,7 @@
 ---
 title: "Audioweb - Fireworks City"
-artist: "Audioweb"
+artist_name: "Audioweb"
+artist: "audioweb"
 album_name: "Fireworks City"
 date: 2022-09-18T04:24:47.000000Z
 release_id: "19344019"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Music From The Motion Picture Soundtrack Fletch"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Music From The Motion Picture Soundtrack Fletch"
 date: 2020-08-02T13:28:48.000000Z
 release_id: "171543"

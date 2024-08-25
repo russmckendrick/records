@@ -1,6 +1,7 @@
 ---
 title: "Men At Work - Business As Usual"
-artist: "Men At Work"
+artist_name: "Men At Work"
+artist: "men-at-work"
 album_name: "Business As Usual"
 date: 2017-04-14T14:01:00.000000Z
 release_id: "843432"

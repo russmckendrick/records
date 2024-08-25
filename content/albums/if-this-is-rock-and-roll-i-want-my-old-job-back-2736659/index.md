@@ -1,6 +1,7 @@
 ---
 title: "The Saw Doctors - If This Is Rock And Roll, I Want My Old Job Back"
-artist: "The Saw Doctors"
+artist_name: "The Saw Doctors"
+artist: "the-saw-doctors"
 album_name: "If This Is Rock And Roll, I Want My Old Job Back"
 date: 2017-03-23T08:14:46.000000Z
 release_id: "2736659"

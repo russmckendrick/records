@@ -1,6 +1,7 @@
 ---
 title: "The Pogues - Hell's Ditch"
-artist: "The Pogues"
+artist_name: "The Pogues"
+artist: "the-pogues"
 album_name: "Hell's Ditch"
 date: 2021-02-09T07:30:16.000000Z
 release_id: "16187018"

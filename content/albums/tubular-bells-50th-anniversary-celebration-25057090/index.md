@@ -1,6 +1,7 @@
 ---
 title: "The Royal Philharmonic Orchestra - Tubular Bells 50th Anniversary Celebration"
-artist: "The Royal Philharmonic Orchestra"
+artist_name: "The Royal Philharmonic Orchestra"
+artist: "the-royal-philharmonic-orchestra"
 album_name: "Tubular Bells 50th Anniversary Celebration"
 date: 2022-11-11T01:36:41.000000Z
 release_id: "25057090"

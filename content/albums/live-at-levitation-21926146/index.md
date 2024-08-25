@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Live At Levitation"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Live At Levitation"
 date: 2022-07-31T06:15:56.000000Z
 release_id: "21926146"

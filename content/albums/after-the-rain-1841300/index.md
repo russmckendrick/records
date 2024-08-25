@@ -1,6 +1,7 @@
 ---
 title: "Nelson - After The Rain"
-artist: "Nelson"
+artist_name: "Nelson"
+artist: "nelson"
 album_name: "After The Rain"
 date: 2017-07-11T08:45:32.000000Z
 release_id: "1841300"

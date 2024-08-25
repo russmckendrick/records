@@ -1,6 +1,7 @@
 ---
 title: "The Prodigy - The Fat Of The Land"
-artist: "The Prodigy"
+artist_name: "The Prodigy"
+artist: "the-prodigy"
 album_name: "The Fat Of The Land"
 date: 2021-07-27T04:40:01.000000Z
 release_id: "19605292"

@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Gish"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Gish"
 date: 2016-02-27T10:12:09.000000Z
 release_id: "3266516"

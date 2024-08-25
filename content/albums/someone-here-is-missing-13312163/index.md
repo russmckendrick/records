@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Someone Here Is Missing"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Someone Here Is Missing"
 date: 2019-09-13T17:46:08.000000Z
 release_id: "13312163"

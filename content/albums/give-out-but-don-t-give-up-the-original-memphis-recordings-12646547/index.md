@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Give Out But Don't Give Up (The Original Memphis Recordings)"
 date: 2018-10-14T15:21:19.000000Z
 release_id: "12646547"

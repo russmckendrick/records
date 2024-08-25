@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Radio-Aktivität"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Radio-Aktivität"
 date: 2016-02-14T11:11:50.000000Z
 release_id: "6872562"

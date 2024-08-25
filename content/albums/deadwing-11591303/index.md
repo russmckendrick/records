@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Deadwing"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Deadwing"
 date: 2018-02-23T18:57:11.000000Z
 release_id: "11591303"

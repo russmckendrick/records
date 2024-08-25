@@ -1,6 +1,7 @@
 ---
 title: "Willie Nelson - 20 Golden Hits"
-artist: "Willie Nelson"
+artist_name: "Willie Nelson"
+artist: "willie-nelson"
 album_name: "20 Golden Hits"
 date: 2015-12-17T08:50:29.000000Z
 release_id: "3441920"

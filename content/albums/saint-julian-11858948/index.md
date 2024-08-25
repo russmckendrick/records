@@ -1,6 +1,7 @@
 ---
 title: "Julian Cope - Saint Julian"
-artist: "Julian Cope"
+artist_name: "Julian Cope"
+artist: "julian-cope"
 album_name: "Saint Julian"
 date: 2018-04-14T18:08:56.000000Z
 release_id: "11858948"

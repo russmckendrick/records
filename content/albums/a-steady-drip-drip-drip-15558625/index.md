@@ -1,6 +1,7 @@
 ---
 title: "Sparks - A Steady Drip, Drip, Drip"
-artist: "Sparks"
+artist_name: "Sparks"
+artist: "sparks"
 album_name: "A Steady Drip, Drip, Drip"
 date: 2020-07-05T11:38:50.000000Z
 release_id: "15558625"

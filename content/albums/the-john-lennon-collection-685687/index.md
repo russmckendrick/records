@@ -1,6 +1,7 @@
 ---
 title: "John Lennon - The John Lennon Collection"
-artist: "John Lennon"
+artist_name: "John Lennon"
+artist: "john-lennon"
 album_name: "The John Lennon Collection"
 date: 2017-04-14T14:01:00.000000Z
 release_id: "685687"

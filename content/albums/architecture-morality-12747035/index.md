@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Architecture & Morality"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Architecture & Morality"
 date: 2018-11-03T09:51:44.000000Z
 release_id: "12747035"

@@ -1,6 +1,7 @@
 ---
 title: "Terry Riley - A Rainbow In Curved Air"
-artist: "Terry Riley"
+artist_name: "Terry Riley"
+artist: "terry-riley"
 album_name: "A Rainbow In Curved Air"
 date: 2022-03-06T05:03:53.000000Z
 release_id: "130654"

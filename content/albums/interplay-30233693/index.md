@@ -1,6 +1,7 @@
 ---
 title: "Ride - Interplay"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Interplay"
 date: 2024-03-29T07:24:20.000000Z
 release_id: "30233693"

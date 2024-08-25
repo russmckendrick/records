@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Coda"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Coda"
 date: 2017-02-26T10:57:57.000000Z
 release_id: "7303584"

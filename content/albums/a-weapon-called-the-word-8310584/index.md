@@ -1,6 +1,7 @@
 ---
 title: "The Levellers - A Weapon Called The Word"
-artist: "The Levellers"
+artist_name: "The Levellers"
+artist: "the-levellers"
 album_name: "A Weapon Called The Word"
 date: 2018-04-27T17:15:04.000000Z
 release_id: "8310584"

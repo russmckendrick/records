@@ -1,6 +1,7 @@
 ---
 title: "The XX - I See You"
-artist: "The XX"
+artist_name: "The XX"
+artist: "the-xx"
 album_name: "I See You"
 date: 2017-01-19T18:45:17.000000Z
 release_date: "2017-01-13"

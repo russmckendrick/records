@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Fear Of A Blank Planet"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Fear Of A Blank Planet"
 date: 2017-05-12T18:24:15.000000Z
 release_id: "9071157"

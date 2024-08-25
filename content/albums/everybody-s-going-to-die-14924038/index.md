@@ -1,6 +1,7 @@
 ---
 title: "Church Of The Cosmic Skull - Everybody's Going To Die "
-artist: "Church Of The Cosmic Skull"
+artist_name: "Church Of The Cosmic Skull"
+artist: "church-of-the-cosmic-skull"
 album_name: "Everybody's Going To Die "
 date: 2020-03-14T09:50:10.000000Z
 release_id: "14924038"

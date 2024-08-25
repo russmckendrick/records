@@ -1,6 +1,7 @@
 ---
 title: "Grandaddy - Last Place"
-artist: "Grandaddy"
+artist_name: "Grandaddy"
+artist: "grandaddy"
 album_name: "Last Place"
 date: 2017-03-04T17:55:14.000000Z
 release_id: "9923055"

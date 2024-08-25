@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - A New Career In A New Town [ 1977–1982 ]"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "A New Career In A New Town [ 1977–1982 ]"
 date: 2017-09-29T17:28:10.000000Z
 release_id: "10919769"

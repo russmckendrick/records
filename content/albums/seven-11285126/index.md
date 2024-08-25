@@ -1,6 +1,7 @@
 ---
 title: "James - Seven"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Seven"
 date: 2017-12-16T14:59:41.000000Z
 release_id: "11285126"

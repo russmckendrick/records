@@ -1,6 +1,7 @@
 ---
 title: "Miles Davis - Kind Of Blue"
-artist: "Miles Davis"
+artist_name: "Miles Davis"
+artist: "miles-davis"
 album_name: "Kind Of Blue"
 date: 2015-09-22T17:42:07.000000Z
 release_date: "1959-08-17"

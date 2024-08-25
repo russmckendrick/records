@@ -1,6 +1,7 @@
 ---
 title: "Fine Young Cannibals - The Raw & The Cooked"
-artist: "Fine Young Cannibals"
+artist_name: "Fine Young Cannibals"
+artist: "fine-young-cannibals"
 album_name: "The Raw & The Cooked"
 date: 2016-01-13T10:27:40.000000Z
 release_id: "251670"

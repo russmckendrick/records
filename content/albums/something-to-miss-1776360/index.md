@@ -1,6 +1,7 @@
 ---
 title: "Senseless Things - Something To Miss"
-artist: "Senseless Things"
+artist_name: "Senseless Things"
+artist: "senseless-things"
 album_name: "Something To Miss"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "1776360"

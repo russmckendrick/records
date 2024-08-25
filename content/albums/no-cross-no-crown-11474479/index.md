@@ -1,6 +1,7 @@
 ---
 title: "Corrosion Of Conformity - No Cross No Crown"
-artist: "Corrosion Of Conformity"
+artist_name: "Corrosion Of Conformity"
+artist: "corrosion-of-conformity"
 album_name: "No Cross No Crown"
 date: 2018-02-10T17:26:54.000000Z
 release_id: "11474479"

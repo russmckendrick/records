@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Everything Is Alive"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Everything Is Alive"
 date: 2023-09-01T09:21:34.000000Z
 release_date: "2023-09-01"

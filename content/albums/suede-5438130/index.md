@@ -1,6 +1,7 @@
 ---
 title: "Suede - Suede"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Suede"
 date: 2016-07-18T17:37:13.000000Z
 release_id: "5438130"

@@ -1,6 +1,7 @@
 ---
 title: "Tears For Fears - The Hurting"
-artist: "Tears For Fears"
+artist_name: "Tears For Fears"
+artist: "tears-for-fears"
 album_name: "The Hurting"
 date: 2016-03-24T16:33:11.000000Z
 release_id: "5934162"

@@ -1,6 +1,7 @@
 ---
 title: "All About Eve - All About Eve"
-artist: "All About Eve"
+artist_name: "All About Eve"
+artist: "all-about-eve"
 album_name: "All About Eve"
 date: 2018-10-24T11:38:47.000000Z
 release_id: "7972344"

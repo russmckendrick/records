@@ -1,6 +1,7 @@
 ---
 title: "James - Whiplash"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Whiplash"
 date: 2017-12-16T18:39:35.000000Z
 release_id: "11285438"

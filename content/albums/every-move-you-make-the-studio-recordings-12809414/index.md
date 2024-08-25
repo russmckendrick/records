@@ -1,6 +1,7 @@
 ---
 title: "The Police - Every Move You Make (The Studio Recordings)"
-artist: "The Police"
+artist_name: "The Police"
+artist: "the-police"
 album_name: "Every Move You Make (The Studio Recordings)"
 date: 2020-03-02T18:48:49.000000Z
 release_id: "12809414"

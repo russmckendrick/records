@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - In The Court Of The Crimson King (An Observation By King Crimson)"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "In The Court Of The Crimson King (An Observation By King Crimson)"
 date: 2015-08-09T08:49:28.000000Z
 release_id: "2287669"

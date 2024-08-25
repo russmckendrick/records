@@ -1,6 +1,7 @@
 ---
 title: "James - Wah Wah"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Wah Wah"
 date: 2018-06-13T17:27:12.000000Z
 release_id: "6805469"

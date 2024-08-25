@@ -1,6 +1,7 @@
 ---
 title: "Then Jerico - The Big Area"
-artist: "Then Jerico"
+artist_name: "Then Jerico"
+artist: "then-jerico"
 album_name: "The Big Area"
 date: 2016-07-05T18:10:33.000000Z
 release_id: "265140"

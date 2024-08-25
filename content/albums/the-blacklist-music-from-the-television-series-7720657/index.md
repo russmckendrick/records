@@ -1,6 +1,7 @@
 ---
 title: "Various - The Blacklist (Music From The Television Series)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Blacklist (Music From The Television Series)"
 date: 2017-03-02T17:34:27.000000Z
 release_id: "7720657"

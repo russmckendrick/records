@@ -1,6 +1,7 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)"
-artist: "Sharon Jones & The Dap-Kings"
+artist_name: "Sharon Jones & The Dap-Kings"
+artist: "sharon-jones-the-dap-kings"
 album_name: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
 date: 2016-12-29T10:13:00.000000Z
 release_date: "2016-08-19"

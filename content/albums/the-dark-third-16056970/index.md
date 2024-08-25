@@ -1,6 +1,7 @@
 ---
 title: "Pure Reason Revolution - The Dark Third"
-artist: "Pure Reason Revolution"
+artist_name: "Pure Reason Revolution"
+artist: "pure-reason-revolution"
 album_name: "The Dark Third"
 date: 2020-10-16T13:28:17.000000Z
 release_id: "16056970"

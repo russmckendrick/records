@@ -1,6 +1,7 @@
 ---
 title: "David Gray - White Ladder"
-artist: "David Gray"
+artist_name: "David Gray"
+artist: "david-gray"
 album_name: "White Ladder"
 date: 2020-02-15T19:52:58.000000Z
 release_id: "14791554"

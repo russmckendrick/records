@@ -1,6 +1,7 @@
 ---
 title: "Jo Quail - Exsolve"
-artist: "Jo Quail"
+artist_name: "Jo Quail"
+artist: "jo-quail"
 album_name: "Exsolve"
 date: 2019-10-22T17:51:38.000000Z
 release_id: "14196389"

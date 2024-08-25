@@ -1,6 +1,7 @@
 ---
 title: "The Seatbelts - Cowboy Bebop (Original Series Soundtrack)"
-artist: "The Seatbelts"
+artist_name: "The Seatbelts"
+artist: "the-seatbelts"
 album_name: "Cowboy Bebop (Original Series Soundtrack)"
 date: 2023-10-06T04:35:08.000000Z
 release_id: "16328898"

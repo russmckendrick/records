@@ -1,6 +1,7 @@
 ---
 title: "Jon & Vangelis - Short Stories"
-artist: "Jon & Vangelis"
+artist_name: "Jon & Vangelis"
+artist: "jon-vangelis"
 album_name: "Short Stories"
 date: 2015-12-17T08:50:29.000000Z
 release_id: "161300"

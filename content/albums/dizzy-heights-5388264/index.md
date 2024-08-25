@@ -1,6 +1,7 @@
 ---
 title: "Neil Finn - Dizzy Heights"
-artist: "Neil Finn"
+artist_name: "Neil Finn"
+artist: "neil-finn"
 album_name: "Dizzy Heights"
 date: 2015-10-04T11:26:45.000000Z
 release_id: "5388264"

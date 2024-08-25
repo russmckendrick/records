@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Zeroes And Ones - The Best Of"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Zeroes And Ones - The Best Of"
 date: 2022-10-29T04:27:30.000000Z
 release_id: "24975325"

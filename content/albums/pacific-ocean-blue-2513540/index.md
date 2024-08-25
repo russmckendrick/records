@@ -1,6 +1,7 @@
 ---
 title: "Dennis Wilson - Pacific Ocean Blue"
-artist: "Dennis Wilson"
+artist_name: "Dennis Wilson"
+artist: "dennis-wilson"
 album_name: "Pacific Ocean Blue"
 date: 2016-11-21T12:10:28.000000Z
 release_id: "2513540"

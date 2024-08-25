@@ -1,6 +1,7 @@
 ---
 title: "Amorphous Androgynous - We Persuade Ourselves We Are Immortal"
-artist: "Amorphous Androgynous"
+artist_name: "Amorphous Androgynous"
+artist: "amorphous-androgynous"
 album_name: "We Persuade Ourselves We Are Immortal"
 date: 2021-03-24T07:44:47.000000Z
 release_id: "16248143"

@@ -1,6 +1,7 @@
 ---
 title: "The Soup Dragons - Lovegod"
-artist: "The Soup Dragons"
+artist_name: "The Soup Dragons"
+artist: "the-soup-dragons"
 album_name: "Lovegod"
 date: 2018-11-29T12:44:51.000000Z
 release_id: "632447"

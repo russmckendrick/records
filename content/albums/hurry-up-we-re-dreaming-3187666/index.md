@@ -1,6 +1,7 @@
 ---
 title: "M83 - Hurry Up, We're Dreaming."
-artist: "M83"
+artist_name: "M83"
+artist: "m83"
 album_name: "Hurry Up, We're Dreaming."
 date: 2021-04-11T04:38:04.000000Z
 release_id: "3187666"

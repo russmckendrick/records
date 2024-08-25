@@ -1,6 +1,7 @@
 ---
 title: "xPropaganda - The Heart Is Strange"
-artist: "xPropaganda"
+artist_name: "xPropaganda"
+artist: "xpropaganda"
 album_name: "The Heart Is Strange"
 date: 2022-05-28T05:40:45.000000Z
 release_id: "23203103"

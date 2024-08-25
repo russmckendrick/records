@@ -1,6 +1,7 @@
 ---
 title: "AIR - Moon Safari"
-artist: "AIR"
+artist_name: "AIR"
+artist: "air"
 album_name: "Moon Safari"
 date: 2016-09-05T12:30:27.000000Z
 release_date: "1998-01-16"

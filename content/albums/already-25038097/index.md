@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Already"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Already"
 date: 2022-11-03T13:59:44.000000Z
 release_id: "25038097"

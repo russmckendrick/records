@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - The Best Of OMD"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "The Best Of OMD"
 date: 2016-07-05T18:10:33.000000Z
 release_id: "522821"

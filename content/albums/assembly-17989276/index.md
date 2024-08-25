@@ -1,6 +1,7 @@
 ---
 title: "Joe Strummer - Assembly"
-artist: "Joe Strummer"
+artist_name: "Joe Strummer"
+artist: "joe-strummer"
 album_name: "Assembly"
 date: 2021-03-30T03:55:54.000000Z
 release_id: "17989276"

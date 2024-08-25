@@ -1,6 +1,7 @@
 ---
 title: "Jim Bob - Who Do We Hate Today"
-artist: "Jim Bob"
+artist_name: "Jim Bob"
+artist: "jim-bob"
 album_name: "Who Do We Hate Today"
 date: 2021-08-23T05:10:06.000000Z
 release_id: "19932178"

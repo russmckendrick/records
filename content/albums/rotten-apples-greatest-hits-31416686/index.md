@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Rotten Apples: Greatest Hits"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Rotten Apples: Greatest Hits"
 date: 2024-08-16T07:14:11.000000Z
 release_id: "31416686"

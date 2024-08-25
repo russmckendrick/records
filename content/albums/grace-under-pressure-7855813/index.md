@@ -1,6 +1,7 @@
 ---
 title: "Rush - Grace Under Pressure"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Grace Under Pressure"
 date: 2017-02-22T18:02:11.000000Z
 release_id: "7855813"

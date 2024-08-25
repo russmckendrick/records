@@ -1,6 +1,7 @@
 ---
 title: "Henge - Alpha Test 4"
-artist: "Henge"
+artist_name: "Henge"
+artist: "henge"
 album_name: "Alpha Test 4"
 date: 2024-02-09T08:45:24.000000Z
 release_id: "26842730"

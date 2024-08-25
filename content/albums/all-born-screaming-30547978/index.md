@@ -1,6 +1,7 @@
 ---
 title: "St. Vincent - All Born Screaming"
-artist: "St. Vincent"
+artist_name: "St. Vincent"
+artist: "st-vincent"
 album_name: "All Born Screaming"
 date: 2024-04-30T11:45:09.000000Z
 release_date: "2024-04-26"

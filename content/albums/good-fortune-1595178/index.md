@@ -1,6 +1,7 @@
 ---
 title: "Airborn Audio - Good Fortune"
-artist: "Airborn Audio"
+artist_name: "Airborn Audio"
+artist: "airborn-audio"
 album_name: "Good Fortune"
 date: 2020-08-01T12:46:45.000000Z
 release_id: "1595178"

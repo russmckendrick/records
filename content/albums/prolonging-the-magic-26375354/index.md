@@ -1,6 +1,7 @@
 ---
 title: "Cake - Prolonging The Magic"
-artist: "Cake"
+artist_name: "Cake"
+artist: "cake"
 album_name: "Prolonging The Magic"
 date: 2023-03-23T03:01:17.000000Z
 release_id: "26375354"

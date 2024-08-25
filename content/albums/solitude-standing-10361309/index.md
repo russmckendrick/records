@@ -1,6 +1,7 @@
 ---
 title: "Suzanne Vega - Solitude Standing"
-artist: "Suzanne Vega"
+artist_name: "Suzanne Vega"
+artist: "suzanne-vega"
 album_name: "Solitude Standing"
 date: 2017-07-02T11:14:01.000000Z
 release_id: "10361309"

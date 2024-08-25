@@ -1,6 +1,7 @@
 ---
 title: "Mississippi John Hurt - Candy Man Blues"
-artist: "Mississippi John Hurt"
+artist_name: "Mississippi John Hurt"
+artist: "mississippi-john-hurt"
 album_name: "Candy Man Blues"
 date: 2020-08-01T12:50:06.000000Z
 release_id: "5078542"

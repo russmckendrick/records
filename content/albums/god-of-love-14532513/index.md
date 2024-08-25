@@ -1,6 +1,7 @@
 ---
 title: "Bad Brains - God Of Love"
-artist: "Bad Brains"
+artist_name: "Bad Brains"
+artist: "bad-brains"
 album_name: "God Of Love"
 date: 2019-12-16T18:41:48.000000Z
 release_id: "14532513"

@@ -1,6 +1,7 @@
 ---
 title: "Syd Barrett - An Introduction To Syd Barrett"
-artist: "Syd Barrett"
+artist_name: "Syd Barrett"
+artist: "syd-barrett"
 album_name: "An Introduction To Syd Barrett"
 date: 2023-01-15T02:20:28.000000Z
 release_id: "25396930"

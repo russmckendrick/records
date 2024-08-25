@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Metallica"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Metallica"
 date: 2016-07-18T17:36:42.000000Z
 release_id: "6007719"

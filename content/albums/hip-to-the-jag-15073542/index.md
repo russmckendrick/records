@@ -1,6 +1,7 @@
 ---
 title: "Kavus Torabi - Hip To The Jag"
-artist: "Kavus Torabi"
+artist_name: "Kavus Torabi"
+artist: "kavus-torabi"
 album_name: "Hip To The Jag"
 date: 2020-04-17T12:45:43.000000Z
 release_id: "15073542"

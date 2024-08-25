@@ -1,6 +1,7 @@
 ---
 title: "Sleeper - Smart"
-artist: "Sleeper"
+artist_name: "Sleeper"
+artist: "sleeper"
 album_name: "Smart"
 date: 2020-06-08T12:58:31.000000Z
 release_id: "15425944"

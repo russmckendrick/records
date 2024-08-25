@@ -1,6 +1,7 @@
 ---
 title: "Andrew Bird - Are You Serious"
-artist: "Andrew Bird"
+artist_name: "Andrew Bird"
+artist: "andrew-bird"
 album_name: "Are You Serious"
 date: 2017-06-24T08:45:59.000000Z
 release_id: "8328483"

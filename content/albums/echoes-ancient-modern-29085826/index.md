@@ -1,6 +1,7 @@
 ---
 title: "Trevor Horn - Echoes - Ancient & Modern"
-artist: "Trevor Horn"
+artist_name: "Trevor Horn"
+artist: "trevor-horn"
 album_name: "Echoes - Ancient & Modern"
 date: 2023-12-16T01:13:04.000000Z
 release_id: "29085826"

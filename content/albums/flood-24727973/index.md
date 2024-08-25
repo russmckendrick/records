@@ -1,6 +1,7 @@
 ---
 title: "Headswim - Flood"
-artist: "Headswim"
+artist_name: "Headswim"
+artist: "headswim"
 album_name: "Flood"
 date: 2022-10-09T05:00:54.000000Z
 release_id: "24727973"

@@ -1,6 +1,7 @@
 ---
 title: "Howard Jones - Dream Into Action"
-artist: "Howard Jones"
+artist_name: "Howard Jones"
+artist: "howard-jones"
 album_name: "Dream Into Action"
 date: 2018-11-29T12:45:46.000000Z
 release_id: "5710031"

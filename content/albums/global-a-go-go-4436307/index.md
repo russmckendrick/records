@@ -1,6 +1,7 @@
 ---
 title: "Joe Strummer & The Mescaleros - Global A Go-Go"
-artist: "Joe Strummer & The Mescaleros"
+artist_name: "Joe Strummer & The Mescaleros"
+artist: "joe-strummer-the-mescaleros"
 album_name: "Global A Go-Go"
 date: 2017-12-23T09:59:25.000000Z
 release_id: "4436307"

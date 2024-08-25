@@ -1,6 +1,7 @@
 ---
 title: "Wendy Carlos - Tron (Original Motion Picture Soundtrack)"
-artist: "Wendy Carlos"
+artist_name: "Wendy Carlos"
+artist: "wendy-carlos"
 album_name: "Tron (Original Motion Picture Soundtrack)"
 date: 2015-08-09T08:39:19.000000Z
 release_date: "1982-07-09"

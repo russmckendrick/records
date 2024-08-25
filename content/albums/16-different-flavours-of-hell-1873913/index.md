@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - 16 Different Flavours Of Hell"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "16 Different Flavours Of Hell"
 date: 2024-01-19T10:58:11.000000Z
 release_id: "1873913"

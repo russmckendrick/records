@@ -1,6 +1,7 @@
 ---
 title: "INXS - All The Voices"
-artist: "INXS"
+artist_name: "INXS"
+artist: "inxs"
 album_name: "All The Voices"
 date: 2015-12-28T14:09:49.000000Z
 release_id: "6035012"

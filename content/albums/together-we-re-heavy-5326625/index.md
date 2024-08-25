@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - Together We're Heavy"
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "Together We're Heavy"
 date: 2017-07-29T08:44:29.000000Z
 release_id: "5326625"

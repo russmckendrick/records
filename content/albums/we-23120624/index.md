@@ -1,6 +1,7 @@
 ---
 title: "Arcade Fire - We"
-artist: "Arcade Fire"
+artist_name: "Arcade Fire"
+artist: "arcade-fire"
 album_name: "We"
 date: 2022-05-06T10:53:15.000000Z
 release_date: "2022-05-06"

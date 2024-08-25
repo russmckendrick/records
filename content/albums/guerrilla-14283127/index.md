@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Guerrilla"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Guerrilla"
 date: 2019-10-25T19:04:01.000000Z
 release_id: "14283127"

@@ -1,6 +1,7 @@
 ---
 title: "Various - New Wave Of The 80's Collected"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "New Wave Of The 80's Collected"
 date: 2023-09-26T22:32:10.000000Z
 release_id: "28394518"

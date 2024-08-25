@@ -1,6 +1,7 @@
 ---
 title: "The Pogues - The Best Of The Pogues"
-artist: "The Pogues"
+artist_name: "The Pogues"
+artist: "the-pogues"
 album_name: "The Best Of The Pogues"
 date: 2018-06-23T08:47:17.000000Z
 release_id: "12121159"

@@ -1,6 +1,7 @@
 ---
 title: "Daryl Hall & John Oates - Live At The Apollo"
-artist: "Daryl Hall & John Oates"
+artist_name: "Daryl Hall & John Oates"
+artist: "daryl-hall-john-oates"
 album_name: "Live At The Apollo"
 date: 2020-08-01T12:45:09.000000Z
 release_date: "1985-09-30"

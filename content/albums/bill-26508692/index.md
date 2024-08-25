@@ -1,6 +1,7 @@
 ---
 title: "Tripping Daisy - Bill"
-artist: "Tripping Daisy"
+artist_name: "Tripping Daisy"
+artist: "tripping-daisy"
 album_name: "Bill"
 date: 2023-04-03T04:22:38.000000Z
 release_id: "26508692"

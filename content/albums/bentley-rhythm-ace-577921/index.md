@@ -1,6 +1,7 @@
 ---
 title: "Bentley Rhythm Ace - Bentley Rhythm Ace"
-artist: "Bentley Rhythm Ace"
+artist_name: "Bentley Rhythm Ace"
+artist: "bentley-rhythm-ace"
 album_name: "Bentley Rhythm Ace"
 date: 2016-01-11T17:44:13.000000Z
 release_id: "577921"

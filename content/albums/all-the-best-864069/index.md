@@ -1,6 +1,7 @@
 ---
 title: "Stiff Little Fingers - All The Best"
-artist: "Stiff Little Fingers"
+artist_name: "Stiff Little Fingers"
+artist: "stiff-little-fingers"
 album_name: "All The Best"
 date: 2017-03-23T08:14:46.000000Z
 release_id: "864069"

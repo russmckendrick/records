@@ -1,6 +1,7 @@
 ---
 title: "Angelo Badalamenti - Twin Peaks: Fire Walk With Me"
-artist: "Angelo Badalamenti"
+artist_name: "Angelo Badalamenti"
+artist: "angelo-badalamenti"
 album_name: "Twin Peaks: Fire Walk With Me"
 date: 2017-02-28T18:44:20.000000Z
 release_id: "9724741"

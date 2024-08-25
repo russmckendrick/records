@@ -1,6 +1,7 @@
 ---
 title: "Sparklehorse - Bird Machine"
-artist: "Sparklehorse"
+artist_name: "Sparklehorse"
+artist: "sparklehorse"
 album_name: "Bird Machine"
 date: 2023-09-29T06:43:49.000000Z
 release_id: "28320253"

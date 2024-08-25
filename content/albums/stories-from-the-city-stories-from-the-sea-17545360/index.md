@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Stories From The City, Stories From The Sea"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Stories From The City, Stories From The Sea"
 date: 2021-02-26T04:30:53.000000Z
 release_date: "2000-01-01"

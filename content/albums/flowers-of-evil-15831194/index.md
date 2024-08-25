@@ -1,6 +1,7 @@
 ---
 title: "Ulver -  Flowers Of Evil"
-artist: "Ulver"
+artist_name: "Ulver"
+artist: "ulver"
 album_name: " Flowers Of Evil"
 date: 2020-08-30T09:28:27.000000Z
 release_id: "15831194"

@@ -1,6 +1,7 @@
 ---
 title: "Knifeworld - Home Of The Newly Departed"
-artist: "Knifeworld"
+artist_name: "Knifeworld"
+artist: "knifeworld"
 album_name: "Home Of The Newly Departed"
 date: 2017-06-18T12:43:37.000000Z
 release_id: "10048473"

@@ -1,6 +1,7 @@
 ---
 title: "Anathema - We're Here Because We're Here"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "We're Here Because We're Here"
 date: 2016-01-25T18:19:24.000000Z
 release_id: "2318604"

@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - The Blue Elephant"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "The Blue Elephant"
 date: 2021-05-14T10:45:22.000000Z
 release_id: "18722572"

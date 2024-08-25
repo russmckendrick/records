@@ -1,6 +1,7 @@
 ---
 title: "Bon Jovi - Slippery When Wet"
-artist: "Bon Jovi"
+artist_name: "Bon Jovi"
+artist: "bon-jovi"
 album_name: "Slippery When Wet"
 date: 2021-06-22T02:48:42.000000Z
 release_date: "1986-08-18"

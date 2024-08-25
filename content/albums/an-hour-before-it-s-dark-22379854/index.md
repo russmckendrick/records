@@ -1,6 +1,7 @@
 ---
 title: "Marillion - An Hour Before It's Dark"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "An Hour Before It's Dark"
 date: 2022-03-04T11:16:47.000000Z
 release_id: "22379854"

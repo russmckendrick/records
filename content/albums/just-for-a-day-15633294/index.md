@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Just For A Day"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Just For A Day"
 date: 2020-07-17T12:26:17.000000Z
 release_id: "15633294"

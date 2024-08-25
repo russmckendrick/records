@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Best Of 1969-1974"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Best Of 1969-1974"
 date: 2024-07-30T04:36:53.000000Z
 release_id: "31351945"

@@ -1,6 +1,7 @@
 ---
 title: "Tripping Daisy - I Am An Elastic Firecracker"
-artist: "Tripping Daisy"
+artist_name: "Tripping Daisy"
+artist: "tripping-daisy"
 album_name: "I Am An Elastic Firecracker"
 date: 2022-02-11T09:26:43.000000Z
 release_id: "22020817"

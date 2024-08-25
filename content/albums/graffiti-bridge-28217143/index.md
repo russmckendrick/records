@@ -1,6 +1,7 @@
 ---
 title: "Prince - Graffiti Bridge"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Graffiti Bridge"
 date: 2023-09-10T02:29:22.000000Z
 release_date: "1990-08-20"

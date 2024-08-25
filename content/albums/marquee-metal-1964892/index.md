@@ -1,6 +1,7 @@
 ---
 title: "Various - Marquee Metal"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Marquee Metal"
 date: 2015-10-14T18:38:58.000000Z
 release_id: "1964892"

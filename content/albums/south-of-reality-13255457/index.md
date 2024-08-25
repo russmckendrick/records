@@ -1,6 +1,7 @@
 ---
 title: "The Claypool Lennon Delirium - South Of Reality"
-artist: "The Claypool Lennon Delirium"
+artist_name: "The Claypool Lennon Delirium"
+artist: "the-claypool-lennon-delirium"
 album_name: "South Of Reality"
 date: 2019-02-26T18:17:45.000000Z
 release_id: "13255457"

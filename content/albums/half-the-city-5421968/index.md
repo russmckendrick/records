@@ -1,6 +1,7 @@
 ---
 title: "St. Paul & The Broken Bones - Half The City"
-artist: "St. Paul & The Broken Bones"
+artist_name: "St. Paul & The Broken Bones"
+artist: "st-paul-the-broken-bones"
 album_name: "Half The City"
 date: 2015-10-20T17:19:54.000000Z
 release_id: "5421968"

@@ -1,6 +1,7 @@
 ---
 title: "McAlmont & Butler - The Sound Of... McAlmont & Butler"
-artist: "McAlmont & Butler"
+artist_name: "McAlmont & Butler"
+artist: "mcalmont-butler"
 album_name: "The Sound Of... McAlmont & Butler"
 date: 2016-07-10T09:49:42.000000Z
 release_id: "8331235"

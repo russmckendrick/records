@@ -1,6 +1,7 @@
 ---
 title: "Suede - The Blue Hour"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "The Blue Hour"
 date: 2018-09-25T19:13:30.000000Z
 release_id: "12541434"

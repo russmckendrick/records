@@ -1,6 +1,7 @@
 ---
 title: "Acker Bilk His Clarinet And Strings - Evergreen"
-artist: "Acker Bilk His Clarinet And Strings"
+artist_name: "Acker Bilk His Clarinet And Strings"
+artist: "acker-bilk-his-clarinet-and-strings"
 album_name: "Evergreen"
 date: 2020-08-02T13:45:24.000000Z
 release_id: "3110291"

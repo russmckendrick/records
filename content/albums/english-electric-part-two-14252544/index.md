@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - English Electric Part Two"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "English Electric Part Two"
 date: 2019-10-11T14:38:32.000000Z
 release_id: "14252544"

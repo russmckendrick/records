@@ -1,6 +1,7 @@
 ---
 title: "The Fierce & The Dead - News From The Invisible World"
-artist: "The Fierce & The Dead"
+artist_name: "The Fierce & The Dead"
+artist: "the-fierce-the-dead"
 album_name: "News From The Invisible World"
 date: 2023-08-25T07:07:46.000000Z
 release_id: "28073356"

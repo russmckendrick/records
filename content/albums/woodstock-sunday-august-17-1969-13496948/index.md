@@ -1,6 +1,7 @@
 ---
 title: "Sly & The Family Stone - Woodstock Sunday August 17, 1969"
-artist: "Sly & The Family Stone"
+artist_name: "Sly & The Family Stone"
+artist: "sly-the-family-stone"
 album_name: "Woodstock Sunday August 17, 1969"
 date: 2019-07-26T17:47:03.000000Z
 release_id: "13496948"

@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Rings Around The World"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Rings Around The World"
 date: 2021-09-03T05:40:02.000000Z
 release_id: "20075032"

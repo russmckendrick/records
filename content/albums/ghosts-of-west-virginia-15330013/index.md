@@ -1,6 +1,7 @@
 ---
 title: "Steve Earle & The Dukes - Ghosts Of West Virginia"
-artist: "Steve Earle & The Dukes"
+artist_name: "Steve Earle & The Dukes"
+artist: "steve-earle-the-dukes"
 album_name: "Ghosts Of West Virginia"
 date: 2020-05-28T17:21:45.000000Z
 release_id: "15330013"

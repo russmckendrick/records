@@ -1,6 +1,7 @@
 ---
 title: "The Offspring - Smash"
-artist: "The Offspring"
+artist_name: "The Offspring"
+artist: "the-offspring"
 album_name: "Smash"
 date: 2017-10-28T15:46:51.000000Z
 release_id: "10243726"

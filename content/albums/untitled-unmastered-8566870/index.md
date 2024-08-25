@@ -1,6 +1,7 @@
 ---
 title: "Kendrick Lamar - Untitled Unmastered."
-artist: "Kendrick Lamar"
+artist_name: "Kendrick Lamar"
+artist: "kendrick-lamar"
 album_name: "Untitled Unmastered."
 date: 2017-01-23T17:31:10.000000Z
 release_date: "2016-03-04"

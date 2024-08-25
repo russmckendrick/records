@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Eras IV"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Eras IV"
 date: 2019-08-27T15:10:27.000000Z
 release_id: "14051869"

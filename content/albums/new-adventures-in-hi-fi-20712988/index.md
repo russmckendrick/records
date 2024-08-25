@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - New Adventures In Hi-Fi"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "New Adventures In Hi-Fi"
 date: 2021-11-11T09:23:10.000000Z
 release_id: "20712988"

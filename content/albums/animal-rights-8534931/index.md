@@ -1,6 +1,7 @@
 ---
 title: "Moby - Animal Rights"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Animal Rights"
 date: 2018-01-18T19:49:11.000000Z
 release_id: "8534931"

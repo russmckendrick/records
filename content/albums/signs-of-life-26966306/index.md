@@ -1,6 +1,7 @@
 ---
 title: "Neil Gaiman - Signs of Life"
-artist: "Neil Gaiman"
+artist_name: "Neil Gaiman"
+artist: "neil-gaiman"
 album_name: "Signs of Life"
 date: 2023-05-29T04:53:16.000000Z
 release_id: "26966306"

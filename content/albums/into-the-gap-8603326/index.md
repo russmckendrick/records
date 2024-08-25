@@ -1,6 +1,7 @@
 ---
 title: "Thompson Twins - Into The Gap"
-artist: "Thompson Twins"
+artist_name: "Thompson Twins"
+artist: "thompson-twins"
 album_name: "Into The Gap"
 date: 2017-01-08T11:12:41.000000Z
 release_id: "8603326"

@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - The Underfall Yard"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "The Underfall Yard"
 date: 2021-04-22T04:45:27.000000Z
 release_id: "18321256"

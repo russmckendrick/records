@@ -1,6 +1,7 @@
 ---
 title: "Pavement - Terror Twilight"
-artist: "Pavement"
+artist_name: "Pavement"
+artist: "pavement"
 album_name: "Terror Twilight"
 date: 2017-06-01T18:07:11.000000Z
 release_id: "3014122"

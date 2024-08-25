@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Selling England By The Pound"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Selling England By The Pound"
 date: 2018-08-06T18:42:06.000000Z
 release_id: "12345619"

@@ -1,6 +1,7 @@
 ---
 title: "Doves - Kingdom Of Rust"
-artist: "Doves"
+artist_name: "Doves"
+artist: "doves"
 album_name: "Kingdom Of Rust"
 date: 2022-11-22T02:17:56.000000Z
 release_date: "2009-04-03"

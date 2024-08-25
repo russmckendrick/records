@@ -1,6 +1,7 @@
 ---
 title: "World Party - Goodbye Jumbo"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Goodbye Jumbo"
 date: 2021-10-30T04:02:02.000000Z
 release_id: "20773816"

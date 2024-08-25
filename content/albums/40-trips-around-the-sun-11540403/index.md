@@ -1,6 +1,7 @@
 ---
 title: "Toto - 40 Trips Around The Sun"
-artist: "Toto"
+artist_name: "Toto"
+artist: "toto"
 album_name: "40 Trips Around The Sun"
 date: 2018-03-01T19:54:53.000000Z
 release_id: "11540403"

@@ -1,6 +1,7 @@
 ---
 title: "Future Islands - Singles"
-artist: "Future Islands"
+artist_name: "Future Islands"
+artist: "future-islands"
 album_name: "Singles"
 date: 2017-04-14T09:26:08.000000Z
 release_id: "5495019"

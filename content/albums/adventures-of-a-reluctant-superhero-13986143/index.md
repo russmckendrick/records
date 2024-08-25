@@ -1,6 +1,7 @@
 ---
 title: "Chali 2NA - Adventures Of A Reluctant Superhero"
-artist: "Chali 2NA"
+artist_name: "Chali 2NA"
+artist: "chali-2na"
 album_name: "Adventures Of A Reluctant Superhero"
 date: 2019-08-11T14:23:25.000000Z
 release_id: "13986143"

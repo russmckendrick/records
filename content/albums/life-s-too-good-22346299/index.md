@@ -1,6 +1,7 @@
 ---
 title: "The Sugarcubes - Life's Too Good"
-artist: "The Sugarcubes"
+artist_name: "The Sugarcubes"
+artist: "the-sugarcubes"
 album_name: "Life's Too Good"
 date: 2022-03-08T11:38:49.000000Z
 release_id: "22346299"

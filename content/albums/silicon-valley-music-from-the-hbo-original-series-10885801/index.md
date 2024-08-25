@@ -1,6 +1,7 @@
 ---
 title: "Various - Silicon Valley (Music From The HBO Original Series)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Silicon Valley (Music From The HBO Original Series)"
 date: 2017-09-23T15:54:11.000000Z
 release_id: "10885801"

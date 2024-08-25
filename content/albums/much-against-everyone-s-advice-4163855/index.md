@@ -1,6 +1,7 @@
 ---
 title: "Soulwax - Much Against Everyone's Advice"
-artist: "Soulwax"
+artist_name: "Soulwax"
+artist: "soulwax"
 album_name: "Much Against Everyone's Advice"
 date: 2016-04-23T09:43:49.000000Z
 release_id: "4163855"

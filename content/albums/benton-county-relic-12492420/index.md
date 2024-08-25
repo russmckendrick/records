@@ -1,6 +1,7 @@
 ---
 title: "Cedric Burnside - Benton County Relic"
-artist: "Cedric Burnside"
+artist_name: "Cedric Burnside"
+artist: "cedric-burnside"
 album_name: "Benton County Relic"
 date: 2018-09-15T13:01:47.000000Z
 release_id: "12492420"

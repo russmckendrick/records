@@ -1,6 +1,7 @@
 ---
 title: "Otis Redding - The Definitive Studio Album Collection"
-artist: "Otis Redding"
+artist_name: "Otis Redding"
+artist: "otis-redding"
 album_name: "The Definitive Studio Album Collection"
 date: 2017-12-16T18:39:51.000000Z
 release_id: "11285748"

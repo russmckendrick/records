@@ -1,6 +1,7 @@
 ---
 title: "King Curtis - Live At Fillmore West"
-artist: "King Curtis"
+artist_name: "King Curtis"
+artist: "king-curtis"
 album_name: "Live At Fillmore West"
 date: 2016-02-08T18:20:18.000000Z
 release_id: "5959161"

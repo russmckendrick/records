@@ -1,6 +1,7 @@
 ---
 title: "Garbage - Garbage"
-artist: "Garbage"
+artist_name: "Garbage"
+artist: "garbage"
 album_name: "Garbage"
 date: 2021-08-20T09:05:27.000000Z
 release_id: "19925866"

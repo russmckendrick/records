@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - Cult Leader Tactics"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "Cult Leader Tactics"
 date: 2022-01-29T12:06:26.000000Z
 release_id: "21939745"

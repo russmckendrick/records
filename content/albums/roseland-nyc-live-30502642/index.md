@@ -1,6 +1,7 @@
 ---
 title: "Portishead - Roseland NYC Live"
-artist: "Portishead"
+artist_name: "Portishead"
+artist: "portishead"
 album_name: "Roseland NYC Live"
 date: 2024-04-30T05:29:18.000000Z
 release_id: "30502642"

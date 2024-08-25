@@ -1,6 +1,7 @@
 ---
 title: "The Kinks - The Mono Collection"
-artist: "The Kinks"
+artist_name: "The Kinks"
+artist: "the-kinks"
 album_name: "The Mono Collection"
 date: 2017-03-20T11:23:48.000000Z
 release_id: "9540202"

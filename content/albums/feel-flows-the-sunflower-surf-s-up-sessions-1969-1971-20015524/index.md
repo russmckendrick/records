@@ -1,6 +1,7 @@
 ---
 title: "The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
-artist: "The Beach Boys"
+artist_name: "The Beach Boys"
+artist: "the-beach-boys"
 album_name: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
 date: 2022-09-04T03:41:11.000000Z
 release_id: "20015524"

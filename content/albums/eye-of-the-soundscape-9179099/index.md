@@ -1,6 +1,7 @@
 ---
 title: "Riverside - Eye Of The Soundscape"
-artist: "Riverside"
+artist_name: "Riverside"
+artist: "riverside"
 album_name: "Eye Of The Soundscape"
 date: 2016-10-24T07:16:30.000000Z
 release_id: "9179099"

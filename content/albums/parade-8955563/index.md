@@ -1,6 +1,7 @@
 ---
 title: "Prince And The Revolution - Parade"
-artist: "Prince And The Revolution"
+artist_name: "Prince And The Revolution"
+artist: "prince-and-the-revolution"
 album_name: "Parade"
 date: 2016-09-12T16:37:06.000000Z
 release_date: "1986-03-31"

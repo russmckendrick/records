@@ -1,6 +1,7 @@
 ---
 title: "How Did This Get Made - Drop Dead Fred"
-artist: "How Did This Get Made"
+artist_name: "How Did This Get Made"
+artist: "how-did-this-get-made"
 album_name: "Drop Dead Fred"
 date: 2023-06-16T03:55:39.000000Z
 release_id: "27392157"

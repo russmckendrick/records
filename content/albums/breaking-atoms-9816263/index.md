@@ -1,6 +1,7 @@
 ---
 title: "Main Source - Breaking Atoms"
-artist: "Main Source"
+artist_name: "Main Source"
+artist: "main-source"
 album_name: "Breaking Atoms"
 date: 2017-02-15T18:30:30.000000Z
 release_id: "9816263"

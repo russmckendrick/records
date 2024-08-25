@@ -1,6 +1,7 @@
 ---
 title: "New Order - Temptation"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Temptation"
 date: 2019-03-23T13:40:16.000000Z
 release_id: "13374825"

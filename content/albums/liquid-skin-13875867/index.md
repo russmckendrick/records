@@ -1,6 +1,7 @@
 ---
 title: "Gomez - Liquid Skin"
-artist: "Gomez"
+artist_name: "Gomez"
+artist: "gomez"
 album_name: "Liquid Skin"
 date: 2019-07-15T18:01:30.000000Z
 release_id: "13875867"

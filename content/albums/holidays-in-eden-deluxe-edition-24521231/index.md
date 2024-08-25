@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Holidays In Eden (Deluxe Edition)"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Holidays In Eden (Deluxe Edition)"
 date: 2022-09-20T02:08:56.000000Z
 release_id: "24521231"

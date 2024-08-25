@@ -1,6 +1,7 @@
 ---
 title: "The Jimi Hendrix Experience - Electric Ladyland"
-artist: "The Jimi Hendrix Experience"
+artist_name: "The Jimi Hendrix Experience"
+artist: "the-jimi-hendrix-experience"
 album_name: "Electric Ladyland"
 date: 2016-04-23T09:44:30.000000Z
 release_date: "1968-09-16"

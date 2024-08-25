@@ -1,6 +1,7 @@
 ---
 title: "Prince - 1999"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "1999"
 date: 2019-12-05T18:05:40.000000Z
 release_date: "1982-10-27"

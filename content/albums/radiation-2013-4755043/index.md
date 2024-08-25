@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Radiation 2013"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Radiation 2013"
 date: 2021-05-30T05:07:49.000000Z
 release_id: "4755043"

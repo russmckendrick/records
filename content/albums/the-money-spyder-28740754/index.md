@@ -1,6 +1,7 @@
 ---
 title: "The James Taylor Quartet - The Money Spyder"
-artist: "The James Taylor Quartet"
+artist_name: "The James Taylor Quartet"
+artist: "the-james-taylor-quartet"
 album_name: "The Money Spyder"
 date: 2023-11-04T08:04:40.000000Z
 release_id: "28740754"

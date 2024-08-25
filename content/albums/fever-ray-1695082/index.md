@@ -1,6 +1,7 @@
 ---
 title: "Fever Ray - Fever Ray"
-artist: "Fever Ray"
+artist_name: "Fever Ray"
+artist: "fever-ray"
 album_name: "Fever Ray"
 date: 2022-11-14T05:21:46.000000Z
 release_id: "1695082"

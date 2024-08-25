@@ -1,6 +1,7 @@
 ---
 title: "Can - Ege Bamyasi"
-artist: "Can"
+artist_name: "Can"
+artist: "can"
 album_name: "Ege Bamyasi"
 date: 2019-11-08T19:39:57.000000Z
 release_id: "14373251"

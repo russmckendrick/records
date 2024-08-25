@@ -1,6 +1,7 @@
 ---
 title: "George Harrison - All Things Must Pass (50th Anniversary)"
-artist: "George Harrison"
+artist_name: "George Harrison"
+artist: "george-harrison"
 album_name: "All Things Must Pass (50th Anniversary)"
 date: 2023-06-20T07:40:06.000000Z
 release_id: "19772260"

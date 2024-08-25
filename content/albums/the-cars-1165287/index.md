@@ -1,6 +1,7 @@
 ---
 title: "The Cars - The Cars"
-artist: "The Cars"
+artist_name: "The Cars"
+artist: "the-cars"
 album_name: "The Cars"
 date: 2020-08-02T13:38:38.000000Z
 release_date: "2002-02-19"

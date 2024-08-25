@@ -1,6 +1,7 @@
 ---
 title: "Longpigs - The Sun Is Often Out"
-artist: "Longpigs"
+artist_name: "Longpigs"
+artist: "longpigs"
 album_name: "The Sun Is Often Out"
 date: 2020-07-03T12:37:14.000000Z
 release_id: "15537055"

@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Small Change"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Small Change"
 date: 2016-04-30T15:21:41.000000Z
 release_id: "3341211"

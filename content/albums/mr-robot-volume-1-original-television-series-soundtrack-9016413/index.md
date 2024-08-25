@@ -1,6 +1,7 @@
 ---
 title: "Mac Quayle - Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
-artist: "Mac Quayle"
+artist_name: "Mac Quayle"
+artist: "mac-quayle"
 album_name: "Mr. Robot: Volume 1 (Original Television Series Soundtrack)"
 date: 2016-09-21T18:06:18.000000Z
 release_id: "9016413"

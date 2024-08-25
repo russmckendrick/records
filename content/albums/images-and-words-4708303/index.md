@@ -1,6 +1,7 @@
 ---
 title: "Dream Theater - Images And Words"
-artist: "Dream Theater"
+artist_name: "Dream Theater"
+artist: "dream-theater"
 album_name: "Images And Words"
 date: 2017-03-08T19:55:05.000000Z
 release_id: "4708303"

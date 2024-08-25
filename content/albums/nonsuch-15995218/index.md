@@ -1,6 +1,7 @@
 ---
 title: "XTC - Nonsuch"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Nonsuch"
 date: 2020-10-08T11:08:50.000000Z
 release_id: "15995218"

@@ -1,6 +1,7 @@
 ---
 title: "NOFX - West Coast Vs. Wessex"
-artist: "NOFX"
+artist_name: "NOFX"
+artist: "nofx"
 album_name: "West Coast Vs. Wessex"
 date: 2020-08-07T08:49:25.000000Z
 release_id: "15699574"

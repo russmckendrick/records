@@ -1,6 +1,7 @@
 ---
 title: "Cobalt Chapel - Orange Synthetic"
-artist: "Cobalt Chapel"
+artist_name: "Cobalt Chapel"
+artist: "cobalt-chapel"
 album_name: "Orange Synthetic"
 date: 2021-02-28T09:11:36.000000Z
 release_id: "17164159"

@@ -1,6 +1,7 @@
 ---
 title: "Das Koolies - DK. 01"
-artist: "Das Koolies"
+artist_name: "Das Koolies"
+artist: "das-koolies"
 album_name: "DK. 01"
 date: 2023-09-23T01:40:38.000000Z
 release_id: "28365712"

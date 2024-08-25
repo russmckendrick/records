@@ -1,6 +1,7 @@
 ---
 title: "Transvision Vamp - Velveteen"
-artist: "Transvision Vamp"
+artist_name: "Transvision Vamp"
+artist: "transvision-vamp"
 album_name: "Velveteen"
 date: 2019-06-22T14:10:44.000000Z
 release_id: "13782865"

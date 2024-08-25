@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Best Of Pixies (Wave Of Mutilation)"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Best Of Pixies (Wave Of Mutilation)"
 date: 2016-11-21T12:13:43.000000Z
 release_id: "2650664"

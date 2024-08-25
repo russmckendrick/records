@@ -1,6 +1,7 @@
 ---
 title: "Sex Pistols - The Original Recordings"
-artist: "Sex Pistols"
+artist_name: "Sex Pistols"
+artist: "sex-pistols"
 album_name: "The Original Recordings"
 date: 2022-05-31T01:41:27.000000Z
 release_id: "23371298"

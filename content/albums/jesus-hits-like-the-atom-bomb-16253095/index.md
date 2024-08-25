@@ -1,6 +1,7 @@
 ---
 title: "Tripping Daisy - Jesus Hits Like The Atom Bomb"
-artist: "Tripping Daisy"
+artist_name: "Tripping Daisy"
+artist: "tripping-daisy"
 album_name: "Jesus Hits Like The Atom Bomb"
 date: 2022-02-12T05:31:05.000000Z
 release_id: "16253095"

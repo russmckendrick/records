@@ -1,6 +1,7 @@
 ---
 title: "World Of Twist - Quality Street"
-artist: "World Of Twist"
+artist_name: "World Of Twist"
+artist: "world-of-twist"
 album_name: "Quality Street"
 date: 2016-12-07T17:40:35.000000Z
 release_id: "1785103"

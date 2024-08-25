@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Beat"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Beat"
 date: 2023-02-03T11:49:54.000000Z
 release_id: "24968086"

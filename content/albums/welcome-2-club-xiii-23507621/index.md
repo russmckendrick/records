@@ -1,6 +1,7 @@
 ---
 title: "Drive-By Truckers - Welcome 2 Club XIII"
-artist: "Drive-By Truckers"
+artist_name: "Drive-By Truckers"
+artist: "drive-by-truckers"
 album_name: "Welcome 2 Club XIII"
 date: 2022-06-14T07:41:21.000000Z
 release_id: "23507621"

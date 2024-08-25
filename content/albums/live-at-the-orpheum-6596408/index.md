@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Live At The Orpheum"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Live At The Orpheum"
 date: 2015-08-09T08:49:54.000000Z
 release_id: "6596408"

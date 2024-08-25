@@ -1,6 +1,7 @@
 ---
 title: "Electronic - Electronic"
-artist: "Electronic"
+artist_name: "Electronic"
+artist: "electronic"
 album_name: "Electronic"
 date: 2018-12-24T12:01:44.000000Z
 release_id: "7046233"

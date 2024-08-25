@@ -1,6 +1,7 @@
 ---
 title: "Sleater-Kinney - Little Rope"
-artist: "Sleater-Kinney"
+artist_name: "Sleater-Kinney"
+artist: "sleater-kinney"
 album_name: "Little Rope"
 date: 2024-02-02T00:43:41.000000Z
 release_date: "2024-01-19"

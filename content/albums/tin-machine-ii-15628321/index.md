@@ -1,6 +1,7 @@
 ---
 title: "Tin Machine - Tin Machine II"
-artist: "Tin Machine"
+artist_name: "Tin Machine"
+artist: "tin-machine"
 album_name: "Tin Machine II"
 date: 2020-07-19T12:14:44.000000Z
 release_id: "15628321"

@@ -1,6 +1,7 @@
 ---
 title: "Sunny War - Anarchist Gospel"
-artist: "Sunny War"
+artist_name: "Sunny War"
+artist: "sunny-war"
 album_name: "Anarchist Gospel"
 date: 2023-02-06T11:34:03.000000Z
 release_id: "25939921"

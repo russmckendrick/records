@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Great Escape"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Great Escape"
 date: 2018-09-19T17:58:20.000000Z
 release_id: "12492262"

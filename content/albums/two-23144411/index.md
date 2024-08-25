@@ -1,6 +1,7 @@
 ---
 title: "Dubstar - Two"
-artist: "Dubstar"
+artist_name: "Dubstar"
+artist: "dubstar"
 album_name: "Two"
 date: 2022-05-08T06:21:41.000000Z
 release_id: "23144411"

@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Pisces Iscariot"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Pisces Iscariot"
 date: 2016-04-07T17:34:42.000000Z
 release_date: "1994-10-04"

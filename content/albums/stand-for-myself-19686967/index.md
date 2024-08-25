@@ -1,6 +1,7 @@
 ---
 title: "Yola - Stand For Myself"
-artist: "Yola"
+artist_name: "Yola"
+artist: "yola"
 album_name: "Stand For Myself"
 date: 2021-08-09T03:27:52.000000Z
 release_date: "2021-07-30"

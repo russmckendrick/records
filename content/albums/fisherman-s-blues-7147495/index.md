@@ -1,6 +1,7 @@
 ---
 title: "The Waterboys - Fisherman's Blues"
-artist: "The Waterboys"
+artist_name: "The Waterboys"
+artist: "the-waterboys"
 album_name: "Fisherman's Blues"
 date: 2018-01-20T19:10:43.000000Z
 release_id: "7147495"

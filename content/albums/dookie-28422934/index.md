@@ -1,6 +1,7 @@
 ---
 title: "Green Day - Dookie"
-artist: "Green Day"
+artist_name: "Green Day"
+artist: "green-day"
 album_name: "Dookie"
 date: 2023-09-30T04:27:42.000000Z
 release_id: "28422934"

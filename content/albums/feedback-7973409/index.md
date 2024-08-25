@@ -1,6 +1,7 @@
 ---
 title: "Rush - Feedback"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Feedback"
 date: 2017-03-08T19:55:18.000000Z
 release_date: "2004-06-29"

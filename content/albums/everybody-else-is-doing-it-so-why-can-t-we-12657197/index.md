@@ -1,6 +1,7 @@
 ---
 title: "The Cranberries - Everybody Else Is Doing It, So Why Can't We?"
-artist: "The Cranberries"
+artist_name: "The Cranberries"
+artist: "the-cranberries"
 album_name: "Everybody Else Is Doing It, So Why Can't We?"
 date: 2018-10-19T19:21:22.000000Z
 release_id: "12657197"

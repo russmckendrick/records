@@ -1,6 +1,7 @@
 ---
 title: "Deltron 3030 - Deltron 3030"
-artist: "Deltron 3030"
+artist_name: "Deltron 3030"
+artist: "deltron-3030"
 album_name: "Deltron 3030"
 date: 2017-03-18T12:16:29.000000Z
 release_id: "2700033"

@@ -1,5 +1,6 @@
 ---
 title: "a-ha - East Of The Sun West Of The Moon "
+artist_name: "a-ha"
 artist: "a-ha"
 album_name: "East Of The Sun West Of The Moon "
 date: 2021-07-04T09:10:02.000000Z

@@ -1,6 +1,7 @@
 ---
 title: "Dennis Brown - Tribulation Times"
-artist: "Dennis Brown"
+artist_name: "Dennis Brown"
+artist: "dennis-brown"
 album_name: "Tribulation Times"
 date: 2020-01-06T18:20:18.000000Z
 release_id: "3355275"

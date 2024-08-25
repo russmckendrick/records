@@ -1,6 +1,7 @@
 ---
 title: "Charles Bradley - Black Velvet"
-artist: "Charles Bradley"
+artist_name: "Charles Bradley"
+artist: "charles-bradley"
 album_name: "Black Velvet"
 date: 2018-11-09T19:15:48.000000Z
 release_id: "12768110"

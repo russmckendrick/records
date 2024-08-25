@@ -1,6 +1,7 @@
 ---
 title: "Rush - Caress Of Steel"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Caress Of Steel"
 date: 2017-03-02T17:34:04.000000Z
 release_date: "1975-01-01"

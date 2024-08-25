@@ -1,6 +1,7 @@
 ---
 title: "Nick Mason - Unattended Luggage"
-artist: "Nick Mason"
+artist_name: "Nick Mason"
+artist: "nick-mason"
 album_name: "Unattended Luggage"
 date: 2021-09-25T15:07:23.000000Z
 release_id: "12459797"

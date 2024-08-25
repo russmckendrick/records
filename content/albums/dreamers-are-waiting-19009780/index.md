@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Dreamers Are Waiting"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Dreamers Are Waiting"
 date: 2021-06-04T06:26:22.000000Z
 release_date: "2021-06-04"

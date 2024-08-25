@@ -1,6 +1,7 @@
 ---
 title: "Neil Young - Harvest Moon"
-artist: "Neil Young"
+artist_name: "Neil Young"
+artist: "neil-young"
 album_name: "Harvest Moon"
 date: 2017-12-02T15:18:15.000000Z
 release_date: "1992-11-02"

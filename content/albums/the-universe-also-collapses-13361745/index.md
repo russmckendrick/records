@@ -1,6 +1,7 @@
 ---
 title: "Gong - The Universe Also Collapses "
-artist: "Gong"
+artist_name: "Gong"
+artist: "gong"
 album_name: "The Universe Also Collapses "
 date: 2019-05-10T18:52:57.000000Z
 release_id: "13361745"

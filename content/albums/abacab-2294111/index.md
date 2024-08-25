@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Abacab"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Abacab"
 date: 2015-09-11T18:02:24.000000Z
 release_id: "2294111"

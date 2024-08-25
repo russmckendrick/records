@@ -1,6 +1,7 @@
 ---
 title: "John Cleese - Fawlty Towers"
-artist: "John Cleese"
+artist_name: "John Cleese"
+artist: "john-cleese"
 album_name: "Fawlty Towers"
 date: 2020-08-02T13:35:55.000000Z
 release_id: "5815932"

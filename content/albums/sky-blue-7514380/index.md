@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend Project - Sky Blue"
-artist: "Devin Townsend Project"
+artist_name: "Devin Townsend Project"
+artist: "devin-townsend-project"
 album_name: "Sky Blue"
 date: 2016-05-03T16:18:38.000000Z
 release_id: "7514380"

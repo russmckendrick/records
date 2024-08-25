@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury And The Blockheads - Do It Yourself"
-artist: "Ian Dury And The Blockheads"
+artist_name: "Ian Dury And The Blockheads"
+artist: "ian-dury-and-the-blockheads"
 album_name: "Do It Yourself"
 date: 2016-09-21T18:14:46.000000Z
 release_id: "6288194"

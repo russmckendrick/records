@@ -1,6 +1,7 @@
 ---
 title: "Children of the Sün - Roots"
-artist: "Children of the Sün"
+artist_name: "Children of the Sün"
+artist: "children-of-the-sn"
 album_name: "Roots"
 date: 2022-06-28T12:34:23.000000Z
 release_id: "23720324"

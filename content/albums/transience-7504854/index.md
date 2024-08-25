@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Transience"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Transience"
 date: 2015-09-25T17:25:16.000000Z
 release_id: "7504854"

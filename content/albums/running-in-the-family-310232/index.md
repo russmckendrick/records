@@ -1,6 +1,7 @@
 ---
 title: "Level 42 - Running In The Family"
-artist: "Level 42"
+artist_name: "Level 42"
+artist: "level-42"
 album_name: "Running In The Family"
 date: 2016-01-07T16:18:51.000000Z
 release_id: "310232"

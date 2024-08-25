@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Amorica"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Amorica"
 date: 2015-12-21T22:34:04.000000Z
 release_id: "7862351"

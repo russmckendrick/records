@@ -1,6 +1,7 @@
 ---
 title: "Unknown Artist - Hot Hits 16"
-artist: "Unknown Artist"
+artist_name: "Unknown Artist"
+artist: "unknown-artist"
 album_name: "Hot Hits 16"
 date: 2020-08-02T13:41:27.000000Z
 release_id: "1425998"

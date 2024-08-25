@@ -1,6 +1,7 @@
 ---
 title: "Rush - A Farewell To Kings"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "A Farewell To Kings"
 date: 2017-02-19T10:40:04.000000Z
 release_date: "1977-09-01"

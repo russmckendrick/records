@@ -1,6 +1,7 @@
 ---
 title: "The Specials - Specials"
-artist: "The Specials"
+artist_name: "The Specials"
+artist: "the-specials"
 album_name: "Specials"
 date: 2015-10-15T17:43:22.000000Z
 release_id: "5759349"

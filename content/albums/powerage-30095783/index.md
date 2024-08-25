@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Powerage"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Powerage"
 date: 2024-03-15T06:44:34.000000Z
 release_date: "1978-05-05"

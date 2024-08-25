@@ -1,6 +1,7 @@
 ---
 title: "Spandau Ballet - 40 Years: The Greatest Hits"
-artist: "Spandau Ballet"
+artist_name: "Spandau Ballet"
+artist: "spandau-ballet"
 album_name: "40 Years: The Greatest Hits"
 date: 2020-11-27T17:47:00.000000Z
 release_id: "16280313"

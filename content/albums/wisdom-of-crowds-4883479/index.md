@@ -1,6 +1,7 @@
 ---
 title: "Bruce Soord - Wisdom Of Crowds"
-artist: "Bruce Soord"
+artist_name: "Bruce Soord"
+artist: "bruce-soord"
 album_name: "Wisdom Of Crowds"
 date: 2016-12-13T17:51:53.000000Z
 release_id: "4883479"

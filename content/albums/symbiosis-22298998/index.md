@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - Symbiosis"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "Symbiosis"
 date: 2022-02-27T08:05:43.000000Z
 release_id: "22298998"

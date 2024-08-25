@@ -1,6 +1,7 @@
 ---
 title: "Soul II Soul - Club Classics Vol. One"
-artist: "Soul II Soul"
+artist_name: "Soul II Soul"
+artist: "soul-ii-soul"
 album_name: "Club Classics Vol. One"
 date: 2020-10-16T10:31:44.000000Z
 release_date: "1989-04-10"

@@ -1,6 +1,7 @@
 ---
 title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
-artist: "Gary Clark Jr."
+artist_name: "Gary Clark Jr."
+artist: "gary-clark-jr"
 album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22T19:05:10.000000Z
 release_date: "2015-09-11"

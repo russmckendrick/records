@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - If You Can't Stand The Heat"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "If You Can't Stand The Heat"
 date: 2016-05-23T18:28:09.000000Z
 release_id: "7581168"

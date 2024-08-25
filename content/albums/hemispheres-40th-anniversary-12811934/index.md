@@ -1,6 +1,7 @@
 ---
 title: "Rush - Hemispheres 40th Anniversary "
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Hemispheres 40th Anniversary "
 date: 2018-11-20T18:51:07.000000Z
 release_id: "12811934"

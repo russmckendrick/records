@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - Faithful"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "Faithful"
 date: 2022-03-06T04:57:04.000000Z
 release_id: "1692998"

@@ -1,6 +1,7 @@
 ---
 title: "Chvrches - The Bones Of What You Believe (10 Year Anniversary Edition)"
-artist: "Chvrches"
+artist_name: "Chvrches"
+artist: "chvrches"
 album_name: "The Bones Of What You Believe (10 Year Anniversary Edition)"
 date: 2023-10-25T11:50:11.000000Z
 release_id: "28651618"

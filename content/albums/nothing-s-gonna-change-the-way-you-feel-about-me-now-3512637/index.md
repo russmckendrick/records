@@ -1,6 +1,7 @@
 ---
 title: "Justin Townes Earle - Nothing's Gonna Change The Way You Feel About Me Now"
-artist: "Justin Townes Earle"
+artist_name: "Justin Townes Earle"
+artist: "justin-townes-earle"
 album_name: "Nothing's Gonna Change The Way You Feel About Me Now"
 date: 2016-04-15T18:22:40.000000Z
 release_date: "2012-03-27"

@@ -1,6 +1,7 @@
 ---
 title: "Stars - Set Yourself On Fire"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "Set Yourself On Fire"
 date: 2016-01-18T18:39:18.000000Z
 release_id: "4062521"

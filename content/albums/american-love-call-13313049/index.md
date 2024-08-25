@@ -1,6 +1,7 @@
 ---
 title: "Durand Jones & The Indications - American Love Call"
-artist: "Durand Jones & The Indications"
+artist_name: "Durand Jones & The Indications"
+artist: "durand-jones-the-indications"
 album_name: "American Love Call"
 date: 2019-03-11T19:46:04.000000Z
 release_date: "2019-03-01"

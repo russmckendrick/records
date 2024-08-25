@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - Healing"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "Healing"
 date: 2022-03-06T05:00:04.000000Z
 release_id: "1693004"

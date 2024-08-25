@@ -1,6 +1,7 @@
 ---
 title: "Tennis - Pollen"
-artist: "Tennis"
+artist_name: "Tennis"
+artist: "tennis"
 album_name: "Pollen"
 date: 2024-05-20T08:33:23.000000Z
 release_id: "26049697"

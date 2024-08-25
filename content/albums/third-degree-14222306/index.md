@@ -1,6 +1,7 @@
 ---
 title: "Flying Colors - Third Degree"
-artist: "Flying Colors"
+artist_name: "Flying Colors"
+artist: "flying-colors"
 album_name: "Third Degree"
 date: 2019-10-07T18:31:03.000000Z
 release_id: "14222306"

@@ -1,6 +1,7 @@
 ---
 title: "Mercury Rev - Deserter's Songs"
-artist: "Mercury Rev"
+artist_name: "Mercury Rev"
+artist: "mercury-rev"
 album_name: "Deserter's Songs"
 date: 2019-01-19T09:37:34.000000Z
 release_id: "12865243"

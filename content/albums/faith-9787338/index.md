@@ -1,6 +1,7 @@
 ---
 title: "George Michael - Faith"
-artist: "George Michael"
+artist_name: "George Michael"
+artist: "george-michael"
 album_name: "Faith"
 date: 2020-08-01T12:43:38.000000Z
 release_date: "1987-10-30"

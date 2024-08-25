@@ -1,6 +1,7 @@
 ---
 title: "Anathema - The Optimist"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "The Optimist"
 date: 2017-06-10T11:11:02.000000Z
 release_date: "2017-06-09"

@@ -1,6 +1,7 @@
 ---
 title: "The Gaslight Anthem - History Books"
-artist: "The Gaslight Anthem"
+artist_name: "The Gaslight Anthem"
+artist: "the-gaslight-anthem"
 album_name: "History Books"
 date: 2023-10-31T11:17:53.000000Z
 release_date: "2023-10-27"

@@ -1,6 +1,7 @@
 ---
 title: "Prince - For You"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "For You"
 date: 2016-06-27T17:46:20.000000Z
 release_date: "1978-04-07"

@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Sounds That Can't Be Made"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Sounds That Can't Be Made"
 date: 2017-12-17T12:31:09.000000Z
 release_id: "5101713"

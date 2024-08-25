@@ -1,6 +1,7 @@
 ---
 title: "Pale Saints - The Comforts Of Madness 30th Anniversary Re:Masters"
-artist: "Pale Saints"
+artist_name: "Pale Saints"
+artist: "pale-saints"
 album_name: "The Comforts Of Madness 30th Anniversary Re:Masters"
 date: 2020-01-22T19:06:21.000000Z
 release_id: "14621859"

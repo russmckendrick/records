@@ -1,6 +1,7 @@
 ---
 title: "Sam & Dave - Soul Men"
-artist: "Sam & Dave"
+artist_name: "Sam & Dave"
+artist: "sam-dave"
 album_name: "Soul Men"
 date: 2018-01-26T20:02:15.000000Z
 release_id: "10527579"

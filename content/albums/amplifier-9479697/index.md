@@ -1,6 +1,7 @@
 ---
 title: "Amplifier - Amplifier"
-artist: "Amplifier"
+artist_name: "Amplifier"
+artist: "amplifier"
 album_name: "Amplifier"
 date: 2016-12-15T19:44:03.000000Z
 release_id: "9479697"

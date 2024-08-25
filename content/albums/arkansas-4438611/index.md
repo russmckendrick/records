@@ -1,6 +1,7 @@
 ---
 title: "Glen Campbell - Arkansas"
-artist: "Glen Campbell"
+artist_name: "Glen Campbell"
+artist: "glen-campbell"
 album_name: "Arkansas"
 date: 2020-08-02T13:41:48.000000Z
 release_id: "4438611"

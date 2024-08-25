@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - The Ultra Vivid Lament"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "The Ultra Vivid Lament"
 date: 2021-09-17T06:09:39.000000Z
 release_id: "20182972"

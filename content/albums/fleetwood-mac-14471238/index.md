@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Fleetwood Mac"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Fleetwood Mac"
 date: 2019-12-02T09:34:05.000000Z
 release_date: "2002-10-12"

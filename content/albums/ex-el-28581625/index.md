@@ -1,6 +1,7 @@
 ---
 title: "808 State - ex:el"
-artist: "808 State"
+artist_name: "808 State"
+artist: "808-state"
 album_name: "ex:el"
 date: 2023-10-17T11:28:17.000000Z
 release_id: "28581625"

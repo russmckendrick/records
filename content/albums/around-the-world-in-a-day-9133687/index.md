@@ -1,6 +1,7 @@
 ---
 title: "Prince And The Revolution - Around The World In A Day"
-artist: "Prince And The Revolution"
+artist_name: "Prince And The Revolution"
+artist: "prince-and-the-revolution"
 album_name: "Around The World In A Day"
 date: 2016-10-03T14:26:50.000000Z
 release_date: "1985-04-22"

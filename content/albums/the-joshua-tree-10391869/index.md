@@ -1,6 +1,7 @@
 ---
 title: "U2 - The Joshua Tree"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "The Joshua Tree"
 date: 2018-01-22T19:14:28.000000Z
 release_date: "1987-03-09"

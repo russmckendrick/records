@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Dots And Loops"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Dots And Loops"
 date: 2019-09-15T12:02:49.000000Z
 release_date: "1997-09-23"

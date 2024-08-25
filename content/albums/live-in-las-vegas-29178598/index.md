@@ -1,6 +1,7 @@
 ---
 title: "The White Stripes - Live In Las Vegas"
-artist: "The White Stripes"
+artist_name: "The White Stripes"
+artist: "the-white-stripes"
 album_name: "Live In Las Vegas"
 date: 2023-12-14T11:20:57.000000Z
 release_id: "29178598"

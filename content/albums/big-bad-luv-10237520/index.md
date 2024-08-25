@@ -1,6 +1,7 @@
 ---
 title: "John Moreland - Big Bad Luv"
-artist: "John Moreland"
+artist_name: "John Moreland"
+artist: "john-moreland"
 album_name: "Big Bad Luv"
 date: 2017-05-16T18:14:51.000000Z
 release_id: "10237520"

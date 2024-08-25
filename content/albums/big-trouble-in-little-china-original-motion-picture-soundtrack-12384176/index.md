@@ -1,6 +1,7 @@
 ---
 title: "John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)"
-artist: "John Carpenter"
+artist_name: "John Carpenter"
+artist: "john-carpenter"
 album_name: "Big Trouble In Little China (Original Motion Picture Soundtrack)"
 date: 2019-02-21T19:00:41.000000Z
 release_id: "12384176"

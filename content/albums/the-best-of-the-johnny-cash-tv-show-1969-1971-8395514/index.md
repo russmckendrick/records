@@ -1,6 +1,7 @@
 ---
 title: "Various - The Best Of The Johnny Cash TV Show: 1969-1971"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Best Of The Johnny Cash TV Show: 1969-1971"
 date: 2016-04-27T16:45:58.000000Z
 release_id: "8395514"

@@ -1,6 +1,7 @@
 ---
 title: "The Polyphonic Spree - The Beginning Stages Of..."
-artist: "The Polyphonic Spree"
+artist_name: "The Polyphonic Spree"
+artist: "the-polyphonic-spree"
 album_name: "The Beginning Stages Of..."
 date: 2015-10-08T07:49:19.000000Z
 release_id: "890127"

@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Music For Insomniacs"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Music For Insomniacs"
 date: 2015-12-28T14:08:37.000000Z
 release_id: "5685420"

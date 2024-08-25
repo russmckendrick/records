@@ -1,6 +1,7 @@
 ---
 title: "Neu! - Neu! '86"
-artist: "Neu!"
+artist_name: "Neu!"
+artist: "neu"
 album_name: "Neu! '86"
 date: 2021-06-08T04:53:12.000000Z
 release_id: "2376449"

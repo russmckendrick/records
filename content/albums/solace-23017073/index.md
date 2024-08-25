@@ -1,6 +1,7 @@
 ---
 title: "Held By Trees - Solace"
-artist: "Held By Trees"
+artist_name: "Held By Trees"
+artist: "held-by-trees"
 album_name: "Solace"
 date: 2022-04-27T08:23:36.000000Z
 release_id: "23017073"

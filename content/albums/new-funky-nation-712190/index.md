@@ -1,6 +1,7 @@
 ---
 title: "Boo-Yaa T.R.I.B.E. - New Funky Nation"
-artist: "Boo-Yaa T.R.I.B.E."
+artist_name: "Boo-Yaa T.R.I.B.E."
+artist: "boo-yaa-t-r-i-b-e"
 album_name: "New Funky Nation"
 date: 2020-08-01T12:47:34.000000Z
 release_id: "712190"

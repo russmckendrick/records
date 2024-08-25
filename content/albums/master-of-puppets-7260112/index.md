@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Master Of Puppets"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Master Of Puppets"
 date: 2016-10-25T14:09:35.000000Z
 release_id: "7260112"

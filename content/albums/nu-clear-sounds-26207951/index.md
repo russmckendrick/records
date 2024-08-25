@@ -1,6 +1,7 @@
 ---
 title: "Ash - Nu-Clear Sounds"
-artist: "Ash"
+artist_name: "Ash"
+artist: "ash"
 album_name: "Nu-Clear Sounds"
 date: 2023-03-01T00:19:11.000000Z
 release_id: "26207951"

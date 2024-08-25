@@ -1,6 +1,7 @@
 ---
 title: "Various - Waves Of Distortion (The Best Of Shoegaze 1990​-​2022)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Waves Of Distortion (The Best Of Shoegaze 1990​-​2022)"
 date: 2023-05-05T04:25:05.000000Z
 release_id: "26951984"

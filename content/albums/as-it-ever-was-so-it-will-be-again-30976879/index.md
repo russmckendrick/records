@@ -1,6 +1,7 @@
 ---
 title: "The Decemberists - As It Ever Was, So It Will Be Again"
-artist: "The Decemberists"
+artist_name: "The Decemberists"
+artist: "the-decemberists"
 album_name: "As It Ever Was, So It Will Be Again"
 date: 2024-06-16T07:25:21.000000Z
 release_date: "2024-06-14"

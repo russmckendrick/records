@@ -1,6 +1,7 @@
 ---
 title: "LCD Soundsystem - LCD Soundsystem"
-artist: "LCD Soundsystem"
+artist_name: "LCD Soundsystem"
+artist: "lcd-soundsystem"
 album_name: "LCD Soundsystem"
 date: 2017-06-24T08:44:08.000000Z
 release_date: "2005-01-24"

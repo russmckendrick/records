@@ -1,6 +1,7 @@
 ---
 title: "Corrosion Of Conformity - Wiseblood"
-artist: "Corrosion Of Conformity"
+artist_name: "Corrosion Of Conformity"
+artist: "corrosion-of-conformity"
 album_name: "Wiseblood"
 date: 2020-08-07T19:27:34.000000Z
 release_id: "15680001"

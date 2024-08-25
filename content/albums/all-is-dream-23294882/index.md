@@ -1,6 +1,7 @@
 ---
 title: "Mercury Rev - All Is Dream"
-artist: "Mercury Rev"
+artist_name: "Mercury Rev"
+artist: "mercury-rev"
 album_name: "All Is Dream"
 date: 2022-05-28T05:41:22.000000Z
 release_id: "23294882"

@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Bad As Me"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Bad As Me"
 date: 2018-01-23T19:17:21.000000Z
 release_id: "11147825"

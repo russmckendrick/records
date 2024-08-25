@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Seasons End"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Seasons End"
 date: 2023-05-19T11:05:57.000000Z
 release_id: "26861306"

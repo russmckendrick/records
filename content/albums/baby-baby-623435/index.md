@@ -1,6 +1,7 @@
 ---
 title: "Amy Grant - Baby Baby"
-artist: "Amy Grant"
+artist_name: "Amy Grant"
+artist: "amy-grant"
 album_name: "Baby Baby"
 date: 2020-08-01T12:45:57.000000Z
 release_id: "623435"

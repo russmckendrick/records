@@ -1,6 +1,7 @@
 ---
 title: "Rosalie Cunningham - Rosalie Cunningham"
-artist: "Rosalie Cunningham"
+artist_name: "Rosalie Cunningham"
+artist: "rosalie-cunningham"
 album_name: "Rosalie Cunningham"
 date: 2019-09-03T17:17:57.000000Z
 release_id: "13945205"

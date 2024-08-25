@@ -1,6 +1,7 @@
 ---
 title: "Thom Yorke - Suspiria"
-artist: "Thom Yorke"
+artist_name: "Thom Yorke"
+artist: "thom-yorke"
 album_name: "Suspiria"
 date: 2018-12-27T18:11:35.000000Z
 release_date: "2018-10-26"

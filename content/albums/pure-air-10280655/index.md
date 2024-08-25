@@ -1,6 +1,7 @@
 ---
 title: "Anneke van Giersbergen - Pure Air"
-artist: "Anneke van Giersbergen"
+artist_name: "Anneke van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "Pure Air"
 date: 2017-05-25T18:36:52.000000Z
 release_id: "10280655"

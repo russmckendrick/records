@@ -1,6 +1,7 @@
 ---
 title: "Van Morrison - Moondance"
-artist: "Van Morrison"
+artist_name: "Van Morrison"
+artist: "van-morrison"
 album_name: "Moondance"
 date: 2019-08-03T05:18:24.000000Z
 release_date: "1970-01-27"

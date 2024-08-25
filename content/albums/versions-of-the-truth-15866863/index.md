@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Versions Of The Truth"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Versions Of The Truth"
 date: 2020-09-06T11:24:12.000000Z
 release_id: "15866863"

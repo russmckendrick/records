@@ -1,6 +1,7 @@
 ---
 title: "Handsome Boy Modeling School - So... How's Your Girl?"
-artist: "Handsome Boy Modeling School"
+artist_name: "Handsome Boy Modeling School"
+artist: "handsome-boy-modeling-school"
 album_name: "So... How's Your Girl?"
 date: 2022-04-24T04:24:32.000000Z
 release_id: "22981736"

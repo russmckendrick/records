@@ -1,6 +1,7 @@
 ---
 title: "Sarah Blasko - Eternal Return"
-artist: "Sarah Blasko"
+artist_name: "Sarah Blasko"
+artist: "sarah-blasko"
 album_name: "Eternal Return"
 date: 2016-08-23T16:15:19.000000Z
 release_id: "7904854"

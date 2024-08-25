@@ -1,6 +1,7 @@
 ---
 title: "Blancmange - Everything Is Connected (The Best Of Blancmange 1979-2024)"
-artist: "Blancmange"
+artist_name: "Blancmange"
+artist: "blancmange"
 album_name: "Everything Is Connected (The Best Of Blancmange 1979-2024)"
 date: 2024-05-15T04:42:41.000000Z
 release_id: "30640249"

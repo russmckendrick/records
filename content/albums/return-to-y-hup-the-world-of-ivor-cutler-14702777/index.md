@@ -1,6 +1,7 @@
 ---
 title: "Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler"
-artist: "Citizen Bravo, Raymond MacDonald And Friends"
+artist_name: "Citizen Bravo, Raymond MacDonald And Friends"
+artist: "citizen-bravo-raymond-macdonald-and-friends"
 album_name: "Return To Y'Hup The World Of Ivor Cutler"
 date: 2020-01-25T18:56:54.000000Z
 release_id: "14702777"

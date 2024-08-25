@@ -1,6 +1,7 @@
 ---
 title: "Natalie Imbruglia - Left Of The Middle"
-artist: "Natalie Imbruglia"
+artist_name: "Natalie Imbruglia"
+artist: "natalie-imbruglia"
 album_name: "Left Of The Middle"
 date: 2023-04-09T09:12:06.000000Z
 release_date: "1997-11-24"

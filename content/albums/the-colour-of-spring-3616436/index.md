@@ -1,6 +1,7 @@
 ---
 title: "Talk Talk - The Colour Of Spring"
-artist: "Talk Talk"
+artist_name: "Talk Talk"
+artist: "talk-talk"
 album_name: "The Colour Of Spring"
 date: 2016-10-11T16:25:06.000000Z
 release_date: "1986"

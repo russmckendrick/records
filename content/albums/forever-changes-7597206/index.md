@@ -1,6 +1,7 @@
 ---
 title: "Love - Forever Changes"
-artist: "Love"
+artist_name: "Love"
+artist: "love"
 album_name: "Forever Changes"
 date: 2016-10-09T08:28:24.000000Z
 release_id: "7597206"

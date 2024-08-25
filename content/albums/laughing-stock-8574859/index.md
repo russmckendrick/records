@@ -1,6 +1,7 @@
 ---
 title: "Talk Talk - Laughing Stock"
-artist: "Talk Talk"
+artist_name: "Talk Talk"
+artist: "talk-talk"
 album_name: "Laughing Stock"
 date: 2016-10-22T12:17:26.000000Z
 release_date: "1991-01-01"

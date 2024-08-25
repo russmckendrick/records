@@ -1,6 +1,7 @@
 ---
 title: "Transvision Vamp - Pop Art"
-artist: "Transvision Vamp"
+artist_name: "Transvision Vamp"
+artist: "transvision-vamp"
 album_name: "Pop Art"
 date: 2017-05-27T15:36:41.000000Z
 release_id: "1811343"

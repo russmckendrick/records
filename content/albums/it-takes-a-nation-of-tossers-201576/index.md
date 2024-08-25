@@ -1,6 +1,7 @@
 ---
 title: "Pitman - It Takes A Nation Of Tossers"
-artist: "Pitman"
+artist_name: "Pitman"
+artist: "pitman"
 album_name: "It Takes A Nation Of Tossers"
 date: 2023-10-19T11:04:14.000000Z
 release_id: "201576"

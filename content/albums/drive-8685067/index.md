@@ -1,6 +1,7 @@
 ---
 title: "Anneke Van Giersbergen - Drive"
-artist: "Anneke Van Giersbergen"
+artist_name: "Anneke Van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "Drive"
 date: 2017-03-20T11:23:19.000000Z
 release_id: "8685067"

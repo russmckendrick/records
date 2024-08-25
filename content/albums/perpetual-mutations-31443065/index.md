@@ -1,6 +1,7 @@
 ---
 title: "Gavin Harrison - Perpetual Mutations"
-artist: "Gavin Harrison"
+artist_name: "Gavin Harrison"
+artist: "gavin-harrison"
 album_name: "Perpetual Mutations"
 date: 2024-08-10T05:25:27.000000Z
 release_id: "31443065"

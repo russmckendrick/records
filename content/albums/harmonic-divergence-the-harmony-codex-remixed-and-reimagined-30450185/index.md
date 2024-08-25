@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Harmonic Divergence (The Harmony Codex Remixed And Reimagined)"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Harmonic Divergence (The Harmony Codex Remixed And Reimagined)"
 date: 2024-06-07T06:44:08.000000Z
 release_id: "30450185"

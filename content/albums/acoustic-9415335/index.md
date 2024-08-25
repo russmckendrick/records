@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - Acoustic"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "Acoustic"
 date: 2017-01-08T11:12:24.000000Z
 release_id: "9415335"

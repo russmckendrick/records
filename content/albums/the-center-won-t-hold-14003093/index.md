@@ -1,6 +1,7 @@
 ---
 title: "Sleater-Kinney - The Center Won't Hold"
-artist: "Sleater-Kinney"
+artist_name: "Sleater-Kinney"
+artist: "sleater-kinney"
 album_name: "The Center Won't Hold"
 date: 2019-08-16T17:11:48.000000Z
 release_date: "2019-08-16"

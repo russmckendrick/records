@@ -1,6 +1,7 @@
 ---
 title: "U2 - Achtung Baby"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "Achtung Baby"
 date: 2021-11-21T03:10:58.000000Z
 release_id: "21054859"

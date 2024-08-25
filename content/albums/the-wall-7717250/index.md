@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - The Wall"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "The Wall"
 date: 2015-11-20T18:49:46.000000Z
 release_id: "7717250"

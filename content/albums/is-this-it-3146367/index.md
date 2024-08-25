@@ -1,6 +1,7 @@
 ---
 title: "The Strokes - Is This It"
-artist: "The Strokes"
+artist_name: "The Strokes"
+artist: "the-strokes"
 album_name: "Is This It"
 date: 2016-04-30T15:19:24.000000Z
 release_id: "3146367"

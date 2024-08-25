@@ -1,6 +1,7 @@
 ---
 title: "Frank Black - Frank Black"
-artist: "Frank Black"
+artist_name: "Frank Black"
+artist: "frank-black"
 album_name: "Frank Black"
 date: 2019-04-13T11:19:10.000000Z
 release_id: "13452156"

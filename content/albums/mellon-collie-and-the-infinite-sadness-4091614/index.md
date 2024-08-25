@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Mellon Collie And The Infinite Sadness"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Mellon Collie And The Infinite Sadness"
 date: 2015-09-23T17:23:10.000000Z
 release_date: "1995-10-24"

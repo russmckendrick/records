@@ -1,6 +1,7 @@
 ---
 title: "Anathema - A Fine Day To Exit "
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "A Fine Day To Exit "
 date: 2016-05-11T17:08:30.000000Z
 release_id: "6907241"

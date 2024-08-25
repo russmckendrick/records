@@ -1,6 +1,7 @@
 ---
 title: "Rush - Presto"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Presto"
 date: 2017-02-26T10:56:12.000000Z
 release_date: "1989-11-21"

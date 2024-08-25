@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Metallica"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Metallica"
 date: 2024-03-05T11:25:14.000000Z
 release_id: "29958901"

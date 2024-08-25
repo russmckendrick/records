@@ -1,6 +1,7 @@
 ---
 title: "Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) "
-artist: "Fatboy Slim"
+artist_name: "Fatboy Slim"
+artist: "fatboy-slim"
 album_name: "Better Living Through Chemistry (20th Anniversary Edition) "
 date: 2017-01-15T10:54:45.000000Z
 release_id: "9081379"

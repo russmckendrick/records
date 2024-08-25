@@ -1,6 +1,7 @@
 ---
 title: "Therapy? - Semi-Detached"
-artist: "Therapy?"
+artist_name: "Therapy?"
+artist: "therapy"
 album_name: "Semi-Detached"
 date: 2023-11-03T06:36:38.000000Z
 release_id: "28696462"

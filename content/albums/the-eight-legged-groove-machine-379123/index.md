@@ -1,6 +1,7 @@
 ---
 title: "The Wonder Stuff - The Eight Legged Groove Machine"
-artist: "The Wonder Stuff"
+artist_name: "The Wonder Stuff"
+artist: "the-wonder-stuff"
 album_name: "The Eight Legged Groove Machine"
 date: 2016-01-11T17:44:13.000000Z
 release_id: "379123"

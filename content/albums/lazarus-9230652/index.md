@@ -1,6 +1,7 @@
 ---
 title: "Original New York Cast Of Lazarus - Lazarus"
-artist: "Original New York Cast Of Lazarus"
+artist_name: "Original New York Cast Of Lazarus"
+artist: "original-new-york-cast-of-lazarus"
 album_name: "Lazarus"
 date: 2016-11-06T10:55:40.000000Z
 release_id: "9230652"

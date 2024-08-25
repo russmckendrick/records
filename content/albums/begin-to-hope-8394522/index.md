@@ -1,6 +1,7 @@
 ---
 title: "Regina Spektor - Begin To Hope"
-artist: "Regina Spektor"
+artist_name: "Regina Spektor"
+artist: "regina-spektor"
 album_name: "Begin To Hope"
 date: 2016-05-10T16:18:30.000000Z
 release_id: "8394522"

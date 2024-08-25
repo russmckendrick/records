@@ -1,6 +1,7 @@
 ---
 title: "Blackfield - Open Mind (The Best Of Blackfield)"
-artist: "Blackfield"
+artist_name: "Blackfield"
+artist: "blackfield"
 album_name: "Open Mind (The Best Of Blackfield)"
 date: 2021-02-07T02:15:54.000000Z
 release_id: "12599468"

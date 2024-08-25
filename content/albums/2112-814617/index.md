@@ -1,6 +1,7 @@
 ---
 title: "Rush - 2112"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "2112"
 date: 2016-03-16T18:38:08.000000Z
 release_date: "1976-04-01"

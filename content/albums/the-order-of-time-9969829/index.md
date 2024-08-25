@@ -1,6 +1,7 @@
 ---
 title: "Valerie June - The Order Of Time"
-artist: "Valerie June"
+artist_name: "Valerie June"
+artist: "valerie-june"
 album_name: "The Order Of Time"
 date: 2017-03-18T12:17:28.000000Z
 release_date: "2017-03-10"

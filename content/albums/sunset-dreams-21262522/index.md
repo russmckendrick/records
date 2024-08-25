@@ -1,6 +1,7 @@
 ---
 title: "Jane Weaver - Sunset Dreams"
-artist: "Jane Weaver"
+artist_name: "Jane Weaver"
+artist: "jane-weaver"
 album_name: "Sunset Dreams"
 date: 2021-12-16T11:49:22.000000Z
 release_id: "21262522"

@@ -1,6 +1,7 @@
 ---
 title: "Leon Bridges - Gold-Diggers Sound"
-artist: "Leon Bridges"
+artist_name: "Leon Bridges"
+artist: "leon-bridges"
 album_name: "Gold-Diggers Sound"
 date: 2021-07-23T09:16:24.000000Z
 release_date: "2021-07-23"

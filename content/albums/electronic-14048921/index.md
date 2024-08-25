@@ -1,6 +1,7 @@
 ---
 title: "Various - Electronic"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Electronic"
 date: 2019-08-31T10:21:15.000000Z
 release_id: "14048921"

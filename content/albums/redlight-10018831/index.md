@@ -1,6 +1,7 @@
 ---
 title: "The Slackers - Redlight"
-artist: "The Slackers"
+artist_name: "The Slackers"
+artist: "the-slackers"
 album_name: "Redlight"
 date: 2019-04-17T18:19:51.000000Z
 release_id: "10018831"

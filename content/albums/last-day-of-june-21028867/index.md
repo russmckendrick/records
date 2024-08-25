@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Last Day Of June "
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Last Day Of June "
 date: 2021-11-19T04:20:08.000000Z
 release_id: "21028867"

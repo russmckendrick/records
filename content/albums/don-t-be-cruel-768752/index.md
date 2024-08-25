@@ -1,6 +1,7 @@
 ---
 title: "Bobby Brown - Don't Be Cruel"
-artist: "Bobby Brown"
+artist_name: "Bobby Brown"
+artist: "bobby-brown"
 album_name: "Don't Be Cruel"
 date: 2020-08-01T12:46:23.000000Z
 release_date: "1988-06-20"

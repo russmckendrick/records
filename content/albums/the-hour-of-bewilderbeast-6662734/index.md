@@ -1,6 +1,7 @@
 ---
 title: "Badly Drawn Boy - The Hour Of Bewilderbeast"
-artist: "Badly Drawn Boy"
+artist_name: "Badly Drawn Boy"
+artist: "badly-drawn-boy"
 album_name: "The Hour Of Bewilderbeast"
 date: 2015-09-30T18:06:25.000000Z
 release_date: "1999-09-06"

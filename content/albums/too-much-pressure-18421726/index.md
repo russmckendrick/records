@@ -1,6 +1,7 @@
 ---
 title: "The Selecter - Too Much Pressure"
-artist: "The Selecter"
+artist_name: "The Selecter"
+artist: "the-selecter"
 album_name: "Too Much Pressure"
 date: 2021-04-24T04:26:23.000000Z
 release_id: "18421726"

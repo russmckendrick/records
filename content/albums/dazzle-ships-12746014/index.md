@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Dazzle Ships"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Dazzle Ships"
 date: 2018-11-03T11:02:18.000000Z
 release_id: "12746014"

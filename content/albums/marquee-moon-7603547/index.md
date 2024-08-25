@@ -1,6 +1,7 @@
 ---
 title: "Television - Marquee Moon"
-artist: "Television"
+artist_name: "Television"
+artist: "television"
 album_name: "Marquee Moon"
 date: 2017-03-04T17:52:48.000000Z
 release_date: "1977-02-08"

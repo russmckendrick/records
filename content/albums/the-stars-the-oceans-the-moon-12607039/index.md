@@ -1,6 +1,7 @@
 ---
 title: "Echo & The Bunnymen - The Stars, The Oceans & The Moon"
-artist: "Echo & The Bunnymen"
+artist_name: "Echo & The Bunnymen"
+artist: "echo-the-bunnymen"
 album_name: "The Stars, The Oceans & The Moon"
 date: 2018-10-06T09:07:23.000000Z
 release_id: "12607039"

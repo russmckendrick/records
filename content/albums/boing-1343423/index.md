@@ -1,6 +1,7 @@
 ---
 title: "Airhead - Boing!!"
-artist: "Airhead"
+artist_name: "Airhead"
+artist: "airhead"
 album_name: "Boing!!"
 date: 2016-02-29T18:17:33.000000Z
 release_id: "1343423"

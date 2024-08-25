@@ -1,6 +1,7 @@
 ---
 title: "St. Vincent - The Nowhere Inn (Official Soundtrack)"
-artist: "St. Vincent"
+artist_name: "St. Vincent"
+artist: "st-vincent"
 album_name: "The Nowhere Inn (Official Soundtrack)"
 date: 2022-08-08T10:06:38.000000Z
 release_id: "22966064"

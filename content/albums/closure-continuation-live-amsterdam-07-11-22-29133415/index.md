@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Closure / Continuation.Live. Amsterdam 07/11/22"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Closure / Continuation.Live. Amsterdam 07/11/22"
 date: 2023-12-14T10:31:25.000000Z
 release_id: "29133415"

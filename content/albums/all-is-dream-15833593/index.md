@@ -1,6 +1,7 @@
 ---
 title: "Mercury Rev - All Is Dream"
-artist: "Mercury Rev"
+artist_name: "Mercury Rev"
+artist: "mercury-rev"
 album_name: "All Is Dream"
 date: 2020-08-29T17:18:15.000000Z
 release_id: "15833593"

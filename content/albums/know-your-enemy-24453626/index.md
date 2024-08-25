@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Know Your Enemy"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Know Your Enemy"
 date: 2022-09-10T09:46:24.000000Z
 release_id: "24453626"

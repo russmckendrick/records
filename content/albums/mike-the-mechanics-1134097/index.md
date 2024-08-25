@@ -1,6 +1,7 @@
 ---
 title: "Mike & The Mechanics - Mike + The Mechanics"
-artist: "Mike & The Mechanics"
+artist_name: "Mike & The Mechanics"
+artist: "mike-the-mechanics"
 album_name: "Mike + The Mechanics"
 date: 2016-01-20T19:29:12.000000Z
 release_id: "1134097"

@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Let England Shake"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Let England Shake"
 date: 2017-09-29T17:28:42.000000Z
 release_date: "2011-01-01"

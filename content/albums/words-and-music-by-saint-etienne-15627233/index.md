@@ -1,6 +1,7 @@
 ---
 title: "Saint Etienne - Words And Music By Saint Etienne "
-artist: "Saint Etienne"
+artist_name: "Saint Etienne"
+artist: "saint-etienne"
 album_name: "Words And Music By Saint Etienne "
 date: 2020-07-17T12:17:15.000000Z
 release_id: "15627233"

@@ -1,6 +1,7 @@
 ---
 title: "The Pretenders - Pretenders"
-artist: "The Pretenders"
+artist_name: "The Pretenders"
+artist: "the-pretenders"
 album_name: "Pretenders"
 date: 2024-03-28T05:14:26.000000Z
 release_id: "20981953"

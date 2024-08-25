@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Paul's Boutique"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Paul's Boutique"
 date: 2020-02-14T18:07:05.000000Z
 release_date: "1989-07-25"

@@ -1,6 +1,7 @@
 ---
 title: "Ozric Tentacles - Lotus Unfolding"
-artist: "Ozric Tentacles"
+artist_name: "Ozric Tentacles"
+artist: "ozric-tentacles"
 album_name: "Lotus Unfolding"
 date: 2023-10-19T22:16:25.000000Z
 release_id: "28619602"

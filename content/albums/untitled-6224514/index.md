@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Untitled"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Untitled"
 date: 2017-02-26T10:55:46.000000Z
 release_id: "6224514"

@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - Live At Brixton "
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "Live At Brixton "
 date: 2016-12-08T18:37:14.000000Z
 release_id: "9448381"

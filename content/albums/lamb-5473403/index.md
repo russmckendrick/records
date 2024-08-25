@@ -1,6 +1,7 @@
 ---
 title: "Lamb - Lamb"
-artist: "Lamb"
+artist_name: "Lamb"
+artist: "lamb"
 album_name: "Lamb"
 date: 2016-11-22T17:48:57.000000Z
 release_date: "1996-01-01"

@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - 12 Gold Bars Volume I+I"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "12 Gold Bars Volume I+I"
 date: 2015-10-14T18:38:58.000000Z
 release_id: "1108230"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "A Foot In The Door (The Best Of Pink Floyd)"
 date: 2018-09-28T11:58:39.000000Z
 release_date: "2011-11-07"

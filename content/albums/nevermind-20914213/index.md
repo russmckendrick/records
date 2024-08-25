@@ -1,6 +1,7 @@
 ---
 title: "Nirvana - Nevermind"
-artist: "Nirvana"
+artist_name: "Nirvana"
+artist: "nirvana"
 album_name: "Nevermind"
 date: 2022-06-01T01:31:11.000000Z
 release_date: "1991-09-24"

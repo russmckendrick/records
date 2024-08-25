@@ -1,6 +1,7 @@
 ---
 title: "Roger Daltrey - Ride A Rock Horse"
-artist: "Roger Daltrey"
+artist_name: "Roger Daltrey"
+artist: "roger-daltrey"
 album_name: "Ride A Rock Horse"
 date: 2017-05-27T15:35:32.000000Z
 release_id: "4105977"

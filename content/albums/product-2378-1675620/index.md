@@ -1,6 +1,7 @@
 ---
 title: "Various - Product 2378"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Product 2378"
 date: 2015-10-14T18:37:05.000000Z
 release_id: "1675620"

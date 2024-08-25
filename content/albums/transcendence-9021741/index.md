@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend Project - Transcendence"
-artist: "Devin Townsend Project"
+artist_name: "Devin Townsend Project"
+artist: "devin-townsend-project"
 album_name: "Transcendence"
 date: 2016-09-10T11:22:07.000000Z
 release_id: "9021741"

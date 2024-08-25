@@ -1,6 +1,7 @@
 ---
 title: "Aphex Twin - Richard D. James Album"
-artist: "Aphex Twin"
+artist_name: "Aphex Twin"
+artist: "aphex-twin"
 album_name: "Richard D. James Album"
 date: 2015-08-09T08:44:17.000000Z
 release_id: "3979643"

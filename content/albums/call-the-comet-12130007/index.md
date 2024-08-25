@@ -1,6 +1,7 @@
 ---
 title: "Johnny Marr - Call The Comet"
-artist: "Johnny Marr"
+artist_name: "Johnny Marr"
+artist: "johnny-marr"
 album_name: "Call The Comet"
 date: 2018-06-23T11:28:18.000000Z
 release_id: "12130007"

@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - Is This The Life We Really Want?"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "Is This The Life We Really Want?"
 date: 2017-06-02T17:28:24.000000Z
 release_date: "2017-05-26"

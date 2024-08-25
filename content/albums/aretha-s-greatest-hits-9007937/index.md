@@ -1,6 +1,7 @@
 ---
 title: "Aretha Franklin - Aretha's Greatest Hits"
-artist: "Aretha Franklin"
+artist_name: "Aretha Franklin"
+artist: "aretha-franklin"
 album_name: "Aretha's Greatest Hits"
 date: 2016-09-06T16:36:37.000000Z
 release_date: "1985-01-01"

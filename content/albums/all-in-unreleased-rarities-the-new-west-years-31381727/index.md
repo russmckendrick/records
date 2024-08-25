@@ -1,6 +1,7 @@
 ---
 title: "Justin Townes Earle - ALL IN: Unreleased & Rarities (The New West Years)"
-artist: "Justin Townes Earle"
+artist_name: "Justin Townes Earle"
+artist: "justin-townes-earle"
 album_name: "ALL IN: Unreleased & Rarities (The New West Years)"
 date: 2024-08-13T04:37:34.000000Z
 release_id: "31381727"

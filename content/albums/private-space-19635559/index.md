@@ -1,6 +1,7 @@
 ---
 title: "Durand Jones & The Indications - Private Space"
-artist: "Durand Jones & The Indications"
+artist_name: "Durand Jones & The Indications"
+artist: "durand-jones-the-indications"
 album_name: "Private Space"
 date: 2021-07-30T02:35:51.000000Z
 release_id: "19635559"

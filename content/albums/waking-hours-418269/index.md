@@ -1,6 +1,7 @@
 ---
 title: "Del Amitri - Waking Hours"
-artist: "Del Amitri"
+artist_name: "Del Amitri"
+artist: "del-amitri"
 album_name: "Waking Hours"
 date: 2018-12-28T17:39:26.000000Z
 release_id: "418269"

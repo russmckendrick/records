@@ -1,6 +1,7 @@
 ---
 title: "Progress - Busy Making Progress"
-artist: "Progress"
+artist_name: "Progress"
+artist: "progress"
 album_name: "Busy Making Progress"
 date: 2019-01-19T10:35:32.000000Z
 release_id: "920716"

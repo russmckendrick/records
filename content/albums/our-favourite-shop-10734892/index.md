@@ -1,6 +1,7 @@
 ---
 title: "The Style Council - Our Favourite Shop"
-artist: "The Style Council"
+artist_name: "The Style Council"
+artist: "the-style-council"
 album_name: "Our Favourite Shop"
 date: 2020-01-08T18:57:52.000000Z
 release_id: "10734892"

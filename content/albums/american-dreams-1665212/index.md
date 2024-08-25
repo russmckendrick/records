@@ -1,6 +1,7 @@
 ---
 title: "Various - American Dreams"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "American Dreams"
 date: 2015-12-04T18:21:09.000000Z
 release_id: "1665212"

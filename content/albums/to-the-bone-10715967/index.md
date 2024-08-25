@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - To The Bone"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "To The Bone"
 date: 2017-08-18T18:21:46.000000Z
 release_date: "2017-08-18"

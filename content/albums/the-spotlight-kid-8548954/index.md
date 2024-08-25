@@ -1,6 +1,7 @@
 ---
 title: "Captain Beefheart - The Spotlight Kid"
-artist: "Captain Beefheart"
+artist_name: "Captain Beefheart"
+artist: "captain-beefheart"
 album_name: "The Spotlight Kid"
 date: 2016-09-05T12:30:40.000000Z
 release_id: "8548954"

@@ -1,6 +1,7 @@
 ---
 title: "Electric Light Orchestra - All Over The World - The Very Best Of"
-artist: "Electric Light Orchestra"
+artist_name: "Electric Light Orchestra"
+artist: "electric-light-orchestra"
 album_name: "All Over The World - The Very Best Of"
 date: 2016-06-27T20:17:26.000000Z
 release_id: "8685628"

@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Licensed To Ill"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Licensed To Ill"
 date: 2019-11-16T11:54:27.000000Z
 release_date: "1986-11-15"

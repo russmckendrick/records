@@ -1,6 +1,7 @@
 ---
 title: "Cat Stevens - Greatest Hits"
-artist: "Cat Stevens"
+artist_name: "Cat Stevens"
+artist: "cat-stevens"
 album_name: "Greatest Hits"
 date: 2016-01-09T07:44:46.000000Z
 release_id: "4164015"

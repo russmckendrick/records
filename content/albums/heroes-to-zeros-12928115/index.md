@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - Heroes To Zeros"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "Heroes To Zeros"
 date: 2018-12-17T14:41:56.000000Z
 release_id: "12928115"

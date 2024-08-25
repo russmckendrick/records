@@ -1,6 +1,7 @@
 ---
 title: "New Order - Republic"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Republic"
 date: 2015-12-14T17:05:24.000000Z
 release_date: "1993-04-27"

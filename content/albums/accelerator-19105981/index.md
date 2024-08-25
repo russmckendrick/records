@@ -1,6 +1,7 @@
 ---
 title: "The Future Sound Of London - Accelerator"
-artist: "The Future Sound Of London"
+artist_name: "The Future Sound Of London"
+artist: "the-future-sound-of-london"
 album_name: "Accelerator"
 date: 2021-06-12T05:57:11.000000Z
 release_id: "19105981"

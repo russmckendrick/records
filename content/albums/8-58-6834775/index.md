@@ -1,6 +1,7 @@
 ---
 title: "8:58 - 8:58"
-artist: "8:58"
+artist_name: "8:58"
+artist: "8-58"
 album_name: "8:58"
 date: 2015-08-09T08:30:37.000000Z
 release_id: "6834775"

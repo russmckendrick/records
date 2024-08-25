@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - A Séance Of Dark Delusions"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "A Séance Of Dark Delusions"
 date: 2015-08-21T17:40:40.000000Z
 release_id: "6982951"

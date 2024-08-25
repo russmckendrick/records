@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Acoustic Hits"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Acoustic Hits"
 date: 2017-06-30T17:50:08.000000Z
 release_id: "10505690"

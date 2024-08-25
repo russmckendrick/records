@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Everything Was Beautiful"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Everything Was Beautiful"
 date: 2022-04-22T04:37:18.000000Z
 release_id: "22954349"

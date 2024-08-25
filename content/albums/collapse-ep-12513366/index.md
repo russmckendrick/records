@@ -1,6 +1,7 @@
 ---
 title: "Aphex Twin - Collapse EP"
-artist: "Aphex Twin"
+artist_name: "Aphex Twin"
+artist: "aphex-twin"
 album_name: "Collapse EP"
 date: 2018-09-18T18:04:02.000000Z
 release_date: "2018-09-14"

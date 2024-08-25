@@ -1,6 +1,7 @@
 ---
 title: "Tori Amos - Boys For Pele"
-artist: "Tori Amos"
+artist_name: "Tori Amos"
+artist: "tori-amos"
 album_name: "Boys For Pele"
 date: 2017-05-19T08:38:18.000000Z
 release_id: "9408163"

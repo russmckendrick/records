@@ -1,6 +1,7 @@
 ---
 title: "The Lickerish Quartet - Threesome Vol. 3"
-artist: "The Lickerish Quartet"
+artist_name: "The Lickerish Quartet"
+artist: "the-lickerish-quartet"
 album_name: "Threesome Vol. 3"
 date: 2022-07-02T07:38:55.000000Z
 release_id: "23730260"

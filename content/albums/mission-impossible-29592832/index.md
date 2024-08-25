@@ -1,6 +1,7 @@
 ---
 title: "The James Taylor Quartet - Mission Impossible"
-artist: "The James Taylor Quartet"
+artist_name: "The James Taylor Quartet"
+artist: "the-james-taylor-quartet"
 album_name: "Mission Impossible"
 date: 2024-01-27T03:07:20.000000Z
 release_id: "29592832"

@@ -1,6 +1,7 @@
 ---
 title: "Temple Of The Dog - Temple Of The Dog"
-artist: "Temple Of The Dog"
+artist_name: "Temple Of The Dog"
+artist: "temple-of-the-dog"
 album_name: "Temple Of The Dog"
 date: 2015-10-02T09:37:22.000000Z
 release_id: "5098793"

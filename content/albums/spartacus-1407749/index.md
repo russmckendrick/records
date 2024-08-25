@@ -1,6 +1,7 @@
 ---
 title: "The Farm - Spartacus"
-artist: "The Farm"
+artist_name: "The Farm"
+artist: "the-farm"
 album_name: "Spartacus"
 date: 2019-04-26T12:44:40.000000Z
 release_id: "1407749"

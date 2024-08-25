@@ -1,6 +1,7 @@
 ---
 title: "Steve Earle & The Dukes - J.T. "
-artist: "Steve Earle & The Dukes"
+artist_name: "Steve Earle & The Dukes"
+artist: "steve-earle-the-dukes"
 album_name: "J.T. "
 date: 2021-03-19T04:05:42.000000Z
 release_id: "17858752"

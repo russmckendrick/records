@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - Karmadrome / Eat Me! Drink Me! Love Me! Kill Me!"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "Karmadrome / Eat Me! Drink Me! Love Me! Kill Me!"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "938078"

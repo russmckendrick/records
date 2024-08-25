@@ -1,6 +1,7 @@
 ---
 title: "Thundercat - The Golden Age Of Apocalypse"
-artist: "Thundercat"
+artist_name: "Thundercat"
+artist: "thundercat"
 album_name: "The Golden Age Of Apocalypse"
 date: 2019-01-04T19:34:10.000000Z
 release_id: "3079712"

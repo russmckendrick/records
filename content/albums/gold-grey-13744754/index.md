@@ -1,6 +1,7 @@
 ---
 title: "Baroness - Gold & Grey"
-artist: "Baroness"
+artist_name: "Baroness"
+artist: "baroness"
 album_name: "Gold & Grey"
 date: 2019-06-17T17:31:14.000000Z
 release_id: "13744754"

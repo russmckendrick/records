@@ -1,6 +1,7 @@
 ---
 title: "The Moody Blues - Octave"
-artist: "The Moody Blues"
+artist_name: "The Moody Blues"
+artist: "the-moody-blues"
 album_name: "Octave"
 date: 2017-05-27T15:32:26.000000Z
 release_id: "1660021"

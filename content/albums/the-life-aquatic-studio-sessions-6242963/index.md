@@ -1,6 +1,7 @@
 ---
 title: "Seu Jorge - The Life Aquatic Studio Sessions"
-artist: "Seu Jorge"
+artist_name: "Seu Jorge"
+artist: "seu-jorge"
 album_name: "The Life Aquatic Studio Sessions"
 date: 2020-07-28T15:30:59.000000Z
 release_date: "2005-01-01"

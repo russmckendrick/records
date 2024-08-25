@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - New Gold Dream (81-82-83-84)"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "New Gold Dream (81-82-83-84)"
 date: 2015-09-11T18:02:24.000000Z
 release_id: "981644"

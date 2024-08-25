@@ -1,6 +1,7 @@
 ---
 title: "Dr. John - Gris-Gris"
-artist: "Dr. John"
+artist_name: "Dr. John"
+artist: "dr-john"
 album_name: "Gris-Gris"
 date: 2015-08-10T18:40:06.000000Z
 release_date: "1968-01-22"

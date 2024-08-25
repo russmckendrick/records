@@ -1,6 +1,7 @@
 ---
 title: "The Verve - Urban Hymns"
-artist: "The Verve"
+artist_name: "The Verve"
+artist: "the-verve"
 album_name: "Urban Hymns"
 date: 2017-07-13T16:05:50.000000Z
 release_id: "9057753"

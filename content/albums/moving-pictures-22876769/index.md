@@ -1,6 +1,7 @@
 ---
 title: "Rush - Moving Pictures"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Moving Pictures"
 date: 2022-05-04T11:49:16.000000Z
 release_date: "1981-02-12"

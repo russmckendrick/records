@@ -1,6 +1,7 @@
 ---
 title: "The Grateful Dead - The Grateful Dead"
-artist: "The Grateful Dead"
+artist_name: "The Grateful Dead"
+artist: "the-grateful-dead"
 album_name: "The Grateful Dead"
 date: 2017-07-05T14:32:36.000000Z
 release_date: "2003-09-16"

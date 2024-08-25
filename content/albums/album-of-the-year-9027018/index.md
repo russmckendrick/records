@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - Album Of The Year"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "Album Of The Year"
 date: 2016-09-12T16:37:31.000000Z
 release_id: "9027018"

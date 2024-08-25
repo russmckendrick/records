@@ -1,6 +1,7 @@
 ---
 title: "Church Of The Cosmic Skull - Science Fiction"
-artist: "Church Of The Cosmic Skull"
+artist_name: "Church Of The Cosmic Skull"
+artist: "church-of-the-cosmic-skull"
 album_name: "Science Fiction"
 date: 2018-07-21T12:56:21.000000Z
 release_id: "12281880"

@@ -1,6 +1,7 @@
 ---
 title: "Ultravox - The Collection"
-artist: "Ultravox"
+artist_name: "Ultravox"
+artist: "ultravox"
 album_name: "The Collection"
 date: 2019-11-08T19:52:05.000000Z
 release_id: "97080"

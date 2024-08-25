@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Cobras And Fire: The Mastermind Redux"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Cobras And Fire: The Mastermind Redux"
 date: 2015-11-30T18:22:28.000000Z
 release_id: "7628637"

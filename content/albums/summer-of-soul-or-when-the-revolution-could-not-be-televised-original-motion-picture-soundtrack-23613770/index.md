@@ -1,6 +1,7 @@
 ---
 title: "Various - Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)"
 date: 2022-06-18T05:48:07.000000Z
 release_id: "23613770"

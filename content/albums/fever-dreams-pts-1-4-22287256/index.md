@@ -1,6 +1,7 @@
 ---
 title: "Johnny Marr - Fever Dreams Pts 1-4"
-artist: "Johnny Marr"
+artist_name: "Johnny Marr"
+artist: "johnny-marr"
 album_name: "Fever Dreams Pts 1-4"
 date: 2022-02-25T09:31:02.000000Z
 release_date: "2022-02-25"

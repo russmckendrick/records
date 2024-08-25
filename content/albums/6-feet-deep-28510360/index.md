@@ -1,6 +1,7 @@
 ---
 title: "Gravediggaz - 6 Feet Deep"
-artist: "Gravediggaz"
+artist_name: "Gravediggaz"
+artist: "gravediggaz"
 album_name: "6 Feet Deep"
 date: 2023-11-11T02:06:29.000000Z
 release_id: "28510360"

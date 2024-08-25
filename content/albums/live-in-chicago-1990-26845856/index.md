@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Live in Chicago 1990"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Live in Chicago 1990"
 date: 2023-04-23T04:36:03.000000Z
 release_id: "26845856"

@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Us"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Us"
 date: 2016-12-08T18:44:07.000000Z
 release_id: "9471068"

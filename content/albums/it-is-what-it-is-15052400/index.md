@@ -1,6 +1,7 @@
 ---
 title: "Thundercat - It Is What It Is"
-artist: "Thundercat"
+artist_name: "Thundercat"
+artist: "thundercat"
 album_name: "It Is What It Is"
 date: 2020-04-09T17:07:29.000000Z
 release_date: "2020-04-03"

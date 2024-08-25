@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Endless Arcade"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Endless Arcade"
 date: 2021-04-30T10:00:02.000000Z
 release_id: "18526048"

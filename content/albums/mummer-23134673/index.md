@@ -1,6 +1,7 @@
 ---
 title: "XTC - Mummer"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Mummer"
 date: 2022-05-06T10:51:34.000000Z
 release_id: "23134673"

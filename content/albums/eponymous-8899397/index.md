@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Eponymous"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Eponymous"
 date: 2017-04-02T12:56:55.000000Z
 release_id: "8899397"

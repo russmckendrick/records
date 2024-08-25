@@ -1,6 +1,7 @@
 ---
 title: "Neil Young - The Visitor"
-artist: "Neil Young"
+artist_name: "Neil Young"
+artist: "neil-young"
 album_name: "The Visitor"
 date: 2018-03-10T08:53:39.000000Z
 release_date: "2017-12-01"

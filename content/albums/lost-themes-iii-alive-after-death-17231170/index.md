@@ -1,6 +1,7 @@
 ---
 title: "John Carpenter - Lost Themes III: Alive After Death"
-artist: "John Carpenter"
+artist_name: "John Carpenter"
+artist: "john-carpenter"
 album_name: "Lost Themes III: Alive After Death"
 date: 2021-02-06T06:56:18.000000Z
 release_id: "17231170"

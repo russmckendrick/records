@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - All The Old 45s (The Very Best of Deacon Blue)"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "All The Old 45s (The Very Best of Deacon Blue)"
 date: 2023-09-03T09:28:35.000000Z
 release_id: "28160602"

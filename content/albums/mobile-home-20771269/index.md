@@ -1,6 +1,7 @@
 ---
 title: "Longpigs - Mobile Home"
-artist: "Longpigs"
+artist_name: "Longpigs"
+artist: "longpigs"
 album_name: "Mobile Home"
 date: 2021-10-29T05:57:59.000000Z
 release_id: "20771269"

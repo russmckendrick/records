@@ -1,6 +1,7 @@
 ---
 title: "Phil Collins - Hello, I Must Be Going!"
-artist: "Phil Collins"
+artist_name: "Phil Collins"
+artist: "phil-collins"
 album_name: "Hello, I Must Be Going!"
 date: 2020-08-02T13:36:34.000000Z
 release_id: "667272"

@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Gather Up"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Gather Up"
 date: 2021-11-26T09:12:23.000000Z
 release_id: "21118603"

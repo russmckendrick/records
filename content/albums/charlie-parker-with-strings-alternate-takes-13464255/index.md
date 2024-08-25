@@ -1,6 +1,7 @@
 ---
 title: "Charlie Parker With Strings - Charlie Parker With Strings (Alternate Takes)"
-artist: "Charlie Parker With Strings"
+artist_name: "Charlie Parker With Strings"
+artist: "charlie-parker-with-strings"
 album_name: "Charlie Parker With Strings (Alternate Takes)"
 date: 2019-08-23T14:18:51.000000Z
 release_id: "13464255"

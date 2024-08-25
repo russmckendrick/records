@@ -1,6 +1,7 @@
 ---
 title: "Buzzcocks - Singles Going Steady"
-artist: "Buzzcocks"
+artist_name: "Buzzcocks"
+artist: "buzzcocks"
 album_name: "Singles Going Steady"
 date: 2024-03-12T12:43:37.000000Z
 release_date: "1979-09-25"

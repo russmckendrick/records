@@ -1,6 +1,7 @@
 ---
 title: "The Temperance Movement - A Deeper Cut"
-artist: "The Temperance Movement"
+artist_name: "The Temperance Movement"
+artist: "the-temperance-movement"
 album_name: "A Deeper Cut"
 date: 2018-02-16T18:48:36.000000Z
 release_id: "11575338"

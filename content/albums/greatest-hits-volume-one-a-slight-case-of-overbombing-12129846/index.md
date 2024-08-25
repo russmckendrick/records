@@ -1,6 +1,7 @@
 ---
 title: "The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing"
-artist: "The Sisters Of Mercy"
+artist_name: "The Sisters Of Mercy"
+artist: "the-sisters-of-mercy"
 album_name: "Greatest Hits Volume One - A Slight Case Of Overbombing"
 date: 2018-06-21T18:16:52.000000Z
 release_id: "12129846"

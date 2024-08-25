@@ -1,6 +1,7 @@
 ---
 title: "Field Music - Open Here"
-artist: "Field Music"
+artist_name: "Field Music"
+artist: "field-music"
 album_name: "Open Here"
 date: 2018-02-03T10:31:46.000000Z
 release_id: "11506957"

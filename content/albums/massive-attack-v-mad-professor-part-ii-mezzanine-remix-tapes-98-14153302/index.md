@@ -1,6 +1,7 @@
 ---
 title: "Massive Attack - Massive Attack V. Mad Professor Part II (Mezzanine Remix Tapes '98)"
-artist: "Massive Attack"
+artist_name: "Massive Attack"
+artist: "massive-attack"
 album_name: "Massive Attack V. Mad Professor Part II (Mezzanine Remix Tapes '98)"
 date: 2019-09-21T09:38:58.000000Z
 release_id: "14153302"

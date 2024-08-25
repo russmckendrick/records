@@ -1,6 +1,7 @@
 ---
 title: "Jenny Lewis - On The Line"
-artist: "Jenny Lewis"
+artist_name: "Jenny Lewis"
+artist: "jenny-lewis"
 album_name: "On The Line"
 date: 2019-03-23T13:39:23.000000Z
 release_date: "2019-03-22"

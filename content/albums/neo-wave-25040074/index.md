@@ -1,6 +1,7 @@
 ---
 title: "Silver Sun - Neo Wave"
-artist: "Silver Sun"
+artist_name: "Silver Sun"
+artist: "silver-sun"
 album_name: "Neo Wave"
 date: 2023-11-07T05:58:15.000000Z
 release_id: "25040074"

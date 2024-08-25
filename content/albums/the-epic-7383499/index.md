@@ -1,6 +1,7 @@
 ---
 title: "Kamasi Washington - The Epic"
-artist: "Kamasi Washington"
+artist_name: "Kamasi Washington"
+artist: "kamasi-washington"
 album_name: "The Epic"
 date: 2016-03-26T15:16:51.000000Z
 release_date: "2015-05-04"

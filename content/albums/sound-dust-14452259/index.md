@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Sound-Dust"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Sound-Dust"
 date: 2019-11-29T12:18:12.000000Z
 release_id: "14452259"

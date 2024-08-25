@@ -1,6 +1,7 @@
 ---
 title: "Mouse Rat - The Awesome Album"
-artist: "Mouse Rat"
+artist_name: "Mouse Rat"
+artist: "mouse-rat"
 album_name: "The Awesome Album"
 date: 2022-01-12T04:51:48.000000Z
 release_id: "19841596"

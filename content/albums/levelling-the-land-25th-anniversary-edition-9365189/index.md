@@ -1,6 +1,7 @@
 ---
 title: "The Levellers - Levelling The Land 25th Anniversary Edition"
-artist: "The Levellers"
+artist_name: "The Levellers"
+artist: "the-levellers"
 album_name: "Levelling The Land 25th Anniversary Edition"
 date: 2016-11-30T20:59:28.000000Z
 release_id: "9365189"

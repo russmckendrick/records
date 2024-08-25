@@ -1,6 +1,7 @@
 ---
 title: "Salad - Ice Cream"
-artist: "Salad"
+artist_name: "Salad"
+artist: "salad"
 album_name: "Ice Cream"
 date: 2023-10-16T13:34:51.000000Z
 release_id: "28613203"

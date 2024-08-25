@@ -1,6 +1,7 @@
 ---
 title: "Rancid - ...And Out Come The Wolves"
-artist: "Rancid"
+artist_name: "Rancid"
+artist: "rancid"
 album_name: "...And Out Come The Wolves"
 date: 2016-01-22T19:33:25.000000Z
 release_id: "8007348"

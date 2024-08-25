@@ -1,6 +1,7 @@
 ---
 title: "My Bloody Valentine - Loveless"
-artist: "My Bloody Valentine"
+artist_name: "My Bloody Valentine"
+artist: "my-bloody-valentine"
 album_name: "Loveless"
 date: 2021-05-21T05:28:44.000000Z
 release_date: "1991-11-04"

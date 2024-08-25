@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Computer World"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Computer World"
 date: 2016-02-21T12:51:40.000000Z
 release_id: "2058343"

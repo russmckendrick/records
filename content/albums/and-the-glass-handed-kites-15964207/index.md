@@ -1,6 +1,7 @@
 ---
 title: "Mew - And The Glass Handed Kites"
-artist: "Mew"
+artist_name: "Mew"
+artist: "mew"
 album_name: "And The Glass Handed Kites"
 date: 2020-10-23T09:29:38.000000Z
 release_id: "15964207"

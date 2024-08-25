@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - The Future Bites"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "The Future Bites"
 date: 2021-03-24T15:03:06.000000Z
 release_id: "17988457"

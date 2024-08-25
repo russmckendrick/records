@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Horrific Honorifics"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Horrific Honorifics"
 date: 2018-03-16T10:38:02.000000Z
 release_id: "11645142"

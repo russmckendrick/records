@@ -1,6 +1,7 @@
 ---
 title: "The The - Soul Mining"
-artist: "The The"
+artist_name: "The The"
+artist: "the-the"
 album_name: "Soul Mining"
 date: 2022-10-14T05:54:29.000000Z
 release_id: "24818426"

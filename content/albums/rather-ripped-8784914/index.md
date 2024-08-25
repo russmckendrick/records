@@ -1,6 +1,7 @@
 ---
 title: "Sonic Youth - Rather Ripped"
-artist: "Sonic Youth"
+artist_name: "Sonic Youth"
+artist: "sonic-youth"
 album_name: "Rather Ripped"
 date: 2021-06-10T06:46:35.000000Z
 release_id: "8784914"

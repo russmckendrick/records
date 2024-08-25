@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - And Nothing Hurt"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "And Nothing Hurt"
 date: 2018-09-07T20:19:36.000000Z
 release_date: "2018-09-07"

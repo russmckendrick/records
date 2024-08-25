@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Afraid Of Sunlight"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Afraid Of Sunlight"
 date: 2022-09-23T04:44:02.000000Z
 release_id: "14338949"

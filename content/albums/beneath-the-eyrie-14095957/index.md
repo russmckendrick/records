@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Beneath The Eyrie"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Beneath The Eyrie"
 date: 2019-09-15T11:58:43.000000Z
 release_id: "14095957"

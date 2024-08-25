@@ -1,6 +1,7 @@
 ---
 title: "Rhiannon Giddens - Tomorrow Is My Turn"
-artist: "Rhiannon Giddens"
+artist_name: "Rhiannon Giddens"
+artist: "rhiannon-giddens"
 album_name: "Tomorrow Is My Turn"
 date: 2015-08-09T08:41:42.000000Z
 release_id: "6703052"

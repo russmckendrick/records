@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Soundtrack From The Film More"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Soundtrack From The Film More"
 date: 2016-06-03T20:02:40.000000Z
 release_date: "1969-06-13"

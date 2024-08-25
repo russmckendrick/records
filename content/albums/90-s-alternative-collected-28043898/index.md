@@ -1,6 +1,7 @@
 ---
 title: "Various - 90's Alternative Collected"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "90's Alternative Collected"
 date: 2023-09-08T04:42:40.000000Z
 release_id: "28043898"

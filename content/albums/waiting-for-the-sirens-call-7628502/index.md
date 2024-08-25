@@ -1,6 +1,7 @@
 ---
 title: "New Order - Waiting For The Sirens' Call"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Waiting For The Sirens' Call"
 date: 2016-01-31T14:13:12.000000Z
 release_date: "2005-03-28"

@@ -1,6 +1,7 @@
 ---
 title: "Electronic - Electronic"
-artist: "Electronic"
+artist_name: "Electronic"
+artist: "electronic"
 album_name: "Electronic"
 date: 2020-01-24T20:04:58.000000Z
 release_id: "14694007"

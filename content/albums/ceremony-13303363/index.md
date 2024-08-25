@@ -1,6 +1,7 @@
 ---
 title: "New Order - Ceremony"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Ceremony"
 date: 2019-03-11T19:46:53.000000Z
 release_id: "13303363"

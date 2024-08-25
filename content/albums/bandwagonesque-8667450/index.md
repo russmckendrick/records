@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Bandwagonesque"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Bandwagonesque"
 date: 2016-06-21T16:38:04.000000Z
 release_id: "8667450"

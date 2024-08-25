@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Garage Inc."
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Garage Inc."
 date: 2024-04-09T04:37:40.000000Z
 release_date: "1998-11-23"

@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - How Big The Space"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "How Big The Space"
 date: 2018-04-21T11:18:41.000000Z
 release_id: "11863593"

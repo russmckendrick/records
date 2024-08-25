@@ -1,6 +1,7 @@
 ---
 title: "Rhiannon Giddens - Freedom Highway"
-artist: "Rhiannon Giddens"
+artist_name: "Rhiannon Giddens"
+artist: "rhiannon-giddens"
 album_name: "Freedom Highway"
 date: 2017-02-25T09:16:56.000000Z
 release_id: "9887548"

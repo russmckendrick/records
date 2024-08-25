@@ -1,6 +1,7 @@
 ---
 title: "Dusty Springfield - Stay Awhile"
-artist: "Dusty Springfield"
+artist_name: "Dusty Springfield"
+artist: "dusty-springfield"
 album_name: "Stay Awhile"
 date: 2020-08-02T13:48:45.000000Z
 release_id: "651808"

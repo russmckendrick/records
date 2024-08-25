@@ -1,6 +1,7 @@
 ---
 title: "The La's - The La's"
-artist: "The La's"
+artist_name: "The La's"
+artist: "the-la-s"
 album_name: "The La's"
 date: 2016-10-11T16:25:20.000000Z
 release_date: "2023-05-12"

@@ -1,6 +1,7 @@
 ---
 title: "Supertramp - Breakfast In America"
-artist: "Supertramp"
+artist_name: "Supertramp"
+artist: "supertramp"
 album_name: "Breakfast In America"
 date: 2017-06-08T17:53:12.000000Z
 release_id: "5030690"

@@ -1,6 +1,7 @@
 ---
 title: "Rush - Permanent Waves"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Permanent Waves"
 date: 2017-02-22T18:02:59.000000Z
 release_date: "1980-01-14"

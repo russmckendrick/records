@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Three Sides Live"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Three Sides Live"
 date: 2021-09-03T04:32:37.000000Z
 release_id: "1152731"

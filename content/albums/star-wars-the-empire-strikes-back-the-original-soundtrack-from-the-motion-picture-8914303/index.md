@@ -1,6 +1,7 @@
 ---
 title: "John Williams - Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture"
-artist: "John Williams"
+artist_name: "John Williams"
+artist: "john-williams"
 album_name: "Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture"
 date: 2016-08-17T16:43:44.000000Z
 release_id: "8914303"

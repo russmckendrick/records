@@ -1,6 +1,7 @@
 ---
 title: "Isobel Campbell - Bow To Love"
-artist: "Isobel Campbell"
+artist_name: "Isobel Campbell"
+artist: "isobel-campbell"
 album_name: "Bow To Love"
 date: 2024-06-16T07:25:37.000000Z
 release_id: "30971581"

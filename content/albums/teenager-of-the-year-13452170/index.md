@@ -1,6 +1,7 @@
 ---
 title: "Frank Black - Teenager Of The Year"
-artist: "Frank Black"
+artist_name: "Frank Black"
+artist: "frank-black"
 album_name: "Teenager Of The Year"
 date: 2019-04-16T16:23:57.000000Z
 release_id: "13452170"

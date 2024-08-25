@@ -1,6 +1,7 @@
 ---
 title: "Oceansize - Home & Minor"
-artist: "Oceansize"
+artist_name: "Oceansize"
+artist: "oceansize"
 album_name: "Home & Minor"
 date: 2024-04-21T03:10:49.000000Z
 release_id: "30461468"

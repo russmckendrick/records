@@ -1,6 +1,7 @@
 ---
 title: "The National - I Am Easy To Find"
-artist: "The National"
+artist_name: "The National"
+artist: "the-national"
 album_name: "I Am Easy To Find"
 date: 2019-05-17T18:27:54.000000Z
 release_date: "2019-05-17"

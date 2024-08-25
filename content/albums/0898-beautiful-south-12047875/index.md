@@ -1,6 +1,7 @@
 ---
 title: "The Beautiful South - 0898 Beautiful South"
-artist: "The Beautiful South"
+artist_name: "The Beautiful South"
+artist: "the-beautiful-south"
 album_name: "0898 Beautiful South"
 date: 2018-05-25T19:12:34.000000Z
 release_id: "12047875"

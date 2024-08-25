@@ -1,6 +1,7 @@
 ---
 title: "Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha"
-artist: "Carmen & Fernando Del Valle & Their Orchestra"
+artist_name: "Carmen & Fernando Del Valle & Their Orchestra"
+artist: "carmen-fernando-del-valle-their-orchestra"
 album_name: "Cha Cha Cha"
 date: 2020-08-02T13:44:22.000000Z
 release_id: "2950887"

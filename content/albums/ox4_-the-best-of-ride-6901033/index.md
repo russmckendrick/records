@@ -1,6 +1,7 @@
 ---
 title: "Ride - OX4_ The Best Of Ride"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "OX4_ The Best Of Ride"
 date: 2015-08-09T08:32:46.000000Z
 release_id: "6901033"

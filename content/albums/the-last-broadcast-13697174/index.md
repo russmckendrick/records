@@ -1,6 +1,7 @@
 ---
 title: "Doves - The Last Broadcast"
-artist: "Doves"
+artist_name: "Doves"
+artist: "doves"
 album_name: "The Last Broadcast"
 date: 2019-06-03T17:50:44.000000Z
 release_id: "13697174"

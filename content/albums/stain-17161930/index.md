@@ -1,6 +1,7 @@
 ---
 title: "Living Colour - Stain"
-artist: "Living Colour"
+artist_name: "Living Colour"
+artist: "living-colour"
 album_name: "Stain"
 date: 2021-01-29T06:50:11.000000Z
 release_date: "1993-02-10"

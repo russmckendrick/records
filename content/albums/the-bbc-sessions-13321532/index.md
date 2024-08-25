@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - The BBC Sessions"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "The BBC Sessions"
 date: 2022-04-23T02:30:16.000000Z
 release_id: "13321532"

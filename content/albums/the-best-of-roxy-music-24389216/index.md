@@ -1,6 +1,7 @@
 ---
 title: "Roxy Music - The Best Of Roxy Music"
-artist: "Roxy Music"
+artist_name: "Roxy Music"
+artist: "roxy-music"
 album_name: "The Best Of Roxy Music"
 date: 2022-09-04T03:40:23.000000Z
 release_id: "24389216"

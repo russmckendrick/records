@@ -1,6 +1,7 @@
 ---
 title: "Echo & The Bunnymen - Porcupine"
-artist: "Echo & The Bunnymen"
+artist_name: "Echo & The Bunnymen"
+artist: "echo-the-bunnymen"
 album_name: "Porcupine"
 date: 2017-07-21T18:28:47.000000Z
 release_id: "374614"

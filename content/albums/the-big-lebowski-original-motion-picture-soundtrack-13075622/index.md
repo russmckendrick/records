@@ -1,6 +1,7 @@
 ---
 title: "Various - The Big Lebowski  (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Big Lebowski  (Original Motion Picture Soundtrack)"
 date: 2019-01-27T14:29:04.000000Z
 release_id: "13075622"

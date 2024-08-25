@@ -1,6 +1,7 @@
 ---
 title: "Camera Obscura - Look To The East, Look To The West"
-artist: "Camera Obscura"
+artist_name: "Camera Obscura"
+artist: "camera-obscura"
 album_name: "Look To The East, Look To The West"
 date: 2024-05-04T03:26:23.000000Z
 release_id: "30581497"

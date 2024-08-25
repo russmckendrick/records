@@ -1,6 +1,7 @@
 ---
 title: "The Breeders - LSXX"
-artist: "The Breeders"
+artist_name: "The Breeders"
+artist: "the-breeders"
 album_name: "LSXX"
 date: 2016-12-19T17:51:03.000000Z
 release_id: "4889732"

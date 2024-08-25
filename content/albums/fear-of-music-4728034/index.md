@@ -1,6 +1,7 @@
 ---
 title: "Talking Heads - Fear Of Music"
-artist: "Talking Heads"
+artist_name: "Talking Heads"
+artist: "talking-heads"
 album_name: "Fear Of Music"
 date: 2017-11-03T18:38:56.000000Z
 release_id: "4728034"

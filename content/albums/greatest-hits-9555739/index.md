@@ -1,6 +1,7 @@
 ---
 title: "Eurythmics - Greatest Hits"
-artist: "Eurythmics"
+artist_name: "Eurythmics"
+artist: "eurythmics"
 album_name: "Greatest Hits"
 date: 2017-01-20T17:08:25.000000Z
 release_id: "9555739"

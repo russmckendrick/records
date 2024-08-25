@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Eras II"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Eras II"
 date: 2018-09-15T16:14:59.000000Z
 release_id: "12482001"

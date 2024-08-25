@@ -1,6 +1,7 @@
 ---
 title: "Saun & Starr - Look Closer"
-artist: "Saun & Starr"
+artist_name: "Saun & Starr"
+artist: "saun-starr"
 album_name: "Look Closer"
 date: 2016-09-06T16:36:27.000000Z
 release_date: "2015-05-19"

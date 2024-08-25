@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Give It Back"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Give It Back"
 date: 2022-05-16T06:35:45.000000Z
 release_id: "23246435"

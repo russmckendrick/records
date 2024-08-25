@@ -1,6 +1,7 @@
 ---
 title: "James - Pleased To Meet You"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Pleased To Meet You"
 date: 2017-12-17T09:51:13.000000Z
 release_id: "11277673"

@@ -1,6 +1,7 @@
 ---
 title: "Peter Cook & Dudley Moore - (Live)"
-artist: "Peter Cook & Dudley Moore"
+artist_name: "Peter Cook & Dudley Moore"
+artist: "peter-cook-dudley-moore"
 album_name: "(Live)"
 date: 2015-12-30T09:11:50.000000Z
 release_id: "561172"

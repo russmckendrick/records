@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - (Mankind) The Crafty Ape"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "(Mankind) The Crafty Ape"
 date: 2016-01-17T12:53:19.000000Z
 release_id: "3366120"

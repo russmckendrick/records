@@ -1,6 +1,7 @@
 ---
 title: "Durand Jones - Wait Til I Get Over"
-artist: "Durand Jones"
+artist_name: "Durand Jones"
+artist: "durand-jones"
 album_name: "Wait Til I Get Over"
 date: 2023-05-05T04:24:52.000000Z
 release_id: "26858723"

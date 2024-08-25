@@ -1,6 +1,7 @@
 ---
 title: "Alex Somers - Captain Fantastic (Original Soundtrack)"
-artist: "Alex Somers"
+artist_name: "Alex Somers"
+artist: "alex-somers"
 album_name: "Captain Fantastic (Original Soundtrack)"
 date: 2016-11-17T17:25:52.000000Z
 release_id: "8757071"

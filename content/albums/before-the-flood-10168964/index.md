@@ -1,6 +1,7 @@
 ---
 title: "Trent Reznor - Before The Flood"
-artist: "Trent Reznor"
+artist_name: "Trent Reznor"
+artist: "trent-reznor"
 album_name: "Before The Flood"
 date: 2017-04-28T14:35:07.000000Z
 release_date: "2016-10-21"

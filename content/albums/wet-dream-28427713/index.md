@@ -1,6 +1,7 @@
 ---
 title: "Richard Wright - Wet Dream"
-artist: "Richard Wright"
+artist_name: "Richard Wright"
+artist: "richard-wright"
 album_name: "Wet Dream"
 date: 2023-09-29T06:39:45.000000Z
 release_id: "28427713"

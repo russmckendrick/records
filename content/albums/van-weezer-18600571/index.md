@@ -1,6 +1,7 @@
 ---
 title: "Weezer - Van Weezer"
-artist: "Weezer"
+artist_name: "Weezer"
+artist: "weezer"
 album_name: "Van Weezer"
 date: 2021-05-07T05:04:03.000000Z
 release_date: "2021-05-07"

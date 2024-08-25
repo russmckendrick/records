@@ -1,6 +1,7 @@
 ---
 title: "T. Rex - Electric Warrior"
-artist: "T. Rex"
+artist_name: "T. Rex"
+artist: "t-rex"
 album_name: "Electric Warrior"
 date: 2017-01-27T19:40:03.000000Z
 release_id: "6271897"

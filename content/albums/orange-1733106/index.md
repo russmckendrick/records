@@ -1,6 +1,7 @@
 ---
 title: "The Jon Spencer Blues Explosion - Orange"
-artist: "The Jon Spencer Blues Explosion"
+artist_name: "The Jon Spencer Blues Explosion"
+artist: "the-jon-spencer-blues-explosion"
 album_name: "Orange"
 date: 2017-07-06T20:47:20.000000Z
 release_id: "1733106"

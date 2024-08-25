@@ -1,6 +1,7 @@
 ---
 title: "O.R.k. - Ramagehead"
-artist: "O.R.k."
+artist_name: "O.R.k."
+artist: "o-r-k"
 album_name: "Ramagehead"
 date: 2019-02-25T18:35:52.000000Z
 release_id: "13258018"

@@ -1,6 +1,7 @@
 ---
 title: "Gruff Rhys - Babelsberg"
-artist: "Gruff Rhys"
+artist_name: "Gruff Rhys"
+artist: "gruff-rhys"
 album_name: "Babelsberg"
 date: 2018-06-08T17:58:58.000000Z
 release_id: "12105452"

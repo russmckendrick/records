@@ -1,6 +1,7 @@
 ---
 title: "Anneke van Giersbergen - The Darkest Skies Are The Brightest"
-artist: "Anneke van Giersbergen"
+artist_name: "Anneke van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "The Darkest Skies Are The Brightest"
 date: 2021-02-28T09:13:47.000000Z
 release_id: "17369557"

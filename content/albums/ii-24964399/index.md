@@ -1,6 +1,7 @@
 ---
 title: "Dead Cross - II"
-artist: "Dead Cross"
+artist_name: "Dead Cross"
+artist: "dead-cross"
 album_name: "II"
 date: 2022-11-04T06:14:16.000000Z
 release_id: "24964399"

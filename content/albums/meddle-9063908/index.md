@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Meddle"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Meddle"
 date: 2016-09-23T16:51:31.000000Z
 release_date: "1971-10-30"

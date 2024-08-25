@@ -1,6 +1,7 @@
 ---
 title: "Neon Neon - Stainless Style"
-artist: "Neon Neon"
+artist_name: "Neon Neon"
+artist: "neon-neon"
 album_name: "Stainless Style"
 date: 2016-10-09T08:27:26.000000Z
 release_id: "1287707"

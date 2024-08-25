@@ -1,6 +1,7 @@
 ---
 title: "Eels - The Deconstruction"
-artist: "Eels"
+artist_name: "Eels"
+artist: "eels"
 album_name: "The Deconstruction"
 date: 2018-04-07T09:50:10.000000Z
 release_date: "2018-04-06"

@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Playing The Angel"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Playing The Angel"
 date: 2017-02-11T14:52:54.000000Z
 release_date: "2005-10-17"

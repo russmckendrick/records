@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - 4½"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "4½"
 date: 2016-01-22T19:34:24.000000Z
 release_id: "8005929"

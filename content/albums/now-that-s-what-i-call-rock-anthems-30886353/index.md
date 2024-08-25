@@ -1,6 +1,7 @@
 ---
 title: "Various - Now That's What I Call Rock Anthems"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Now That's What I Call Rock Anthems"
 date: 2024-06-07T00:32:24.000000Z
 release_id: "30886353"

@@ -1,6 +1,7 @@
 ---
 title: "Oceans Of Slumber - Winter"
-artist: "Oceans Of Slumber"
+artist_name: "Oceans Of Slumber"
+artist: "oceans-of-slumber"
 album_name: "Winter"
 date: 2016-12-04T11:07:17.000000Z
 release_id: "8203489"

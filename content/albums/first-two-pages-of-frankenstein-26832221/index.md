@@ -1,6 +1,7 @@
 ---
 title: "The National - First Two Pages Of Frankenstein"
-artist: "The National"
+artist_name: "The National"
+artist: "the-national"
 album_name: "First Two Pages Of Frankenstein"
 date: 2023-05-02T10:22:35.000000Z
 release_date: "2023-04-28"

@@ -1,6 +1,7 @@
 ---
 title: "John Farnham - Whispering Jack"
-artist: "John Farnham"
+artist_name: "John Farnham"
+artist: "john-farnham"
 album_name: "Whispering Jack"
 date: 2023-11-19T05:34:40.000000Z
 release_date: "1986-10-20"

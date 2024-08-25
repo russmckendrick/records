@@ -1,6 +1,7 @@
 ---
 title: "Gavin Harrison - Sanity & Gravity"
-artist: "Gavin Harrison"
+artist_name: "Gavin Harrison"
+artist: "gavin-harrison"
 album_name: "Sanity & Gravity"
 date: 2022-02-07T01:08:37.000000Z
 release_id: "21992293"

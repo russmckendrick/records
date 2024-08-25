@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Give Out But Don't Give Up"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Give Out But Don't Give Up"
 date: 2018-09-11T20:11:09.000000Z
 release_id: "9327490"

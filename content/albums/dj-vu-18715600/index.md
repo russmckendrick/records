@@ -1,6 +1,7 @@
 ---
 title: "Crosby, Stills, Nash & Young - Déjà Vu"
-artist: "Crosby, Stills, Nash & Young"
+artist_name: "Crosby, Stills, Nash & Young"
+artist: "crosby-stills-nash-young"
 album_name: "Déjà Vu"
 date: 2021-05-14T09:52:07.000000Z
 release_date: "1970-03-11"

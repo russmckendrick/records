@@ -1,6 +1,7 @@
 ---
 title: "Yes - The Steven Wilson Remixes"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "The Steven Wilson Remixes"
 date: 2018-07-04T17:36:46.000000Z
 release_id: "12211133"

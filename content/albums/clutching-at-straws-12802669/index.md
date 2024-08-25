@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Clutching At Straws"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Clutching At Straws"
 date: 2018-12-01T18:09:11.000000Z
 release_id: "12802669"

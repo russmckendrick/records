@@ -1,6 +1,7 @@
 ---
 title: "Thundercat - Apocalypse"
-artist: "Thundercat"
+artist_name: "Thundercat"
+artist: "thundercat"
 album_name: "Apocalypse"
 date: 2024-03-19T12:33:10.000000Z
 release_id: "30091313"

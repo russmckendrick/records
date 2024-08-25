@@ -1,6 +1,7 @@
 ---
 title: "Fu Manchu - Gigantoid"
-artist: "Fu Manchu"
+artist_name: "Fu Manchu"
+artist: "fu-manchu"
 album_name: "Gigantoid"
 date: 2017-02-15T18:28:24.000000Z
 release_id: "6129307"

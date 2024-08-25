@@ -1,6 +1,7 @@
 ---
 title: "Fishbone - Truth And Soul"
-artist: "Fishbone"
+artist_name: "Fishbone"
+artist: "fishbone"
 album_name: "Truth And Soul"
 date: 2023-04-03T04:23:55.000000Z
 release_date: "1988-09-13"

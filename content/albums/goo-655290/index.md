@@ -1,6 +1,7 @@
 ---
 title: "Sonic Youth - Goo"
-artist: "Sonic Youth"
+artist_name: "Sonic Youth"
+artist: "sonic-youth"
 album_name: "Goo"
 date: 2016-01-23T14:26:11.000000Z
 release_id: "655290"

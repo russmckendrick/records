@@ -1,6 +1,7 @@
 ---
 title: "Jon Hopkins - Singularity"
-artist: "Jon Hopkins"
+artist_name: "Jon Hopkins"
+artist: "jon-hopkins"
 album_name: "Singularity"
 date: 2020-03-14T08:49:42.000000Z
 release_date: "2018-05-04"

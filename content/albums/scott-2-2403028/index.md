@@ -1,6 +1,7 @@
 ---
 title: "Scott Walker - Scott 2"
-artist: "Scott Walker"
+artist_name: "Scott Walker"
+artist: "scott-walker"
 album_name: "Scott 2"
 date: 2017-05-27T15:31:54.000000Z
 release_id: "2403028"

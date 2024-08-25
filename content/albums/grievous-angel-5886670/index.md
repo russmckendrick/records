@@ -1,6 +1,7 @@
 ---
 title: "Gram Parsons - Grievous Angel"
-artist: "Gram Parsons"
+artist_name: "Gram Parsons"
+artist: "gram-parsons"
 album_name: "Grievous Angel"
 date: 2015-08-10T18:28:52.000000Z
 release_date: "1974-01-01"

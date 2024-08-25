@@ -1,6 +1,7 @@
 ---
 title: "Charles Bradley - Changes"
-artist: "Charles Bradley"
+artist_name: "Charles Bradley"
+artist: "charles-bradley"
 album_name: "Changes"
 date: 2016-04-02T09:43:48.000000Z
 release_date: "2016-04-01"

@@ -1,6 +1,7 @@
 ---
 title: "Public Image Limited - The Greatest Hits, So Far"
-artist: "Public Image Limited"
+artist_name: "Public Image Limited"
+artist: "public-image-limited"
 album_name: "The Greatest Hits, So Far"
 date: 2016-04-25T21:06:35.000000Z
 release_id: "5905459"

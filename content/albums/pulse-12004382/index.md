@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Pulse"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Pulse"
 date: 2018-05-17T14:51:48.000000Z
 release_id: "12004382"

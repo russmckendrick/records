@@ -1,6 +1,7 @@
 ---
 title: "Yola - Walk Through Fire"
-artist: "Yola"
+artist_name: "Yola"
+artist: "yola"
 album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
 release_date: "2019-12-06"

@@ -1,6 +1,7 @@
 ---
 title: "Gavin Harrison - Cheating The Polygraph"
-artist: "Gavin Harrison"
+artist_name: "Gavin Harrison"
+artist: "gavin-harrison"
 album_name: "Cheating The Polygraph"
 date: 2022-01-05T03:54:49.000000Z
 release_id: "6905612"

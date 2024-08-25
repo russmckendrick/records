@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Very"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Very"
 date: 2020-07-03T12:51:05.000000Z
 release_id: "12452813"

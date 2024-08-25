@@ -1,6 +1,7 @@
 ---
 title: "Whitesnake - 1987"
-artist: "Whitesnake"
+artist_name: "Whitesnake"
+artist: "whitesnake"
 album_name: "1987"
 date: 2017-10-08T09:55:50.000000Z
 release_id: "10958648"

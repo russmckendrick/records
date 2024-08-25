@@ -1,6 +1,7 @@
 ---
 title: "Drive-By Truckers - The Unraveling"
-artist: "Drive-By Truckers"
+artist_name: "Drive-By Truckers"
+artist: "drive-by-truckers"
 album_name: "The Unraveling"
 date: 2020-01-31T18:59:12.000000Z
 release_date: "2020-01-31"

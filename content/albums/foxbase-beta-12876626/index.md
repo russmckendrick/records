@@ -1,6 +1,7 @@
 ---
 title: "Saint Etienne - Foxbase Beta"
-artist: "Saint Etienne"
+artist_name: "Saint Etienne"
+artist: "saint-etienne"
 album_name: "Foxbase Beta"
 date: 2019-07-26T17:58:39.000000Z
 release_id: "12876626"

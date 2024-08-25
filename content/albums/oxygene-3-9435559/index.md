@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Oxygene 3"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Oxygene 3"
 date: 2016-12-02T12:53:58.000000Z
 release_id: "9435559"

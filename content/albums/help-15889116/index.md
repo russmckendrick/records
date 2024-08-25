@@ -1,6 +1,7 @@
 ---
 title: "Various - Help"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Help"
 date: 2023-10-18T10:49:41.000000Z
 release_id: "15889116"

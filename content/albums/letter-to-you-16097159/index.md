@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Letter To You"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Letter To You"
 date: 2020-10-23T09:30:37.000000Z
 release_date: "2020-10-23"

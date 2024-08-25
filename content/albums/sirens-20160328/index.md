@@ -1,6 +1,7 @@
 ---
 title: "Glasgow Coma Scale - Sirens"
-artist: "Glasgow Coma Scale"
+artist_name: "Glasgow Coma Scale"
+artist: "glasgow-coma-scale"
 album_name: "Sirens"
 date: 2022-04-22T08:20:33.000000Z
 release_id: "20160328"

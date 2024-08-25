@@ -1,6 +1,7 @@
 ---
 title: "The Slackers - The Question 25th Anniversary Edition"
-artist: "The Slackers"
+artist_name: "The Slackers"
+artist: "the-slackers"
 album_name: "The Question 25th Anniversary Edition"
 date: 2023-10-01T03:55:40.000000Z
 release_id: "26790146"

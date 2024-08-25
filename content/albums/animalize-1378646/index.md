@@ -1,6 +1,7 @@
 ---
 title: "Kiss - Animalize"
-artist: "Kiss"
+artist_name: "Kiss"
+artist: "kiss"
 album_name: "Animalize"
 date: 2017-05-27T15:33:10.000000Z
 release_id: "1378646"

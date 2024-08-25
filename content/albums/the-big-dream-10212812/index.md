@@ -1,6 +1,7 @@
 ---
 title: "Lonely Robot - The Big Dream"
-artist: "Lonely Robot"
+artist_name: "Lonely Robot"
+artist: "lonely-robot"
 album_name: "The Big Dream"
 date: 2017-04-30T19:59:13.000000Z
 release_id: "10212812"

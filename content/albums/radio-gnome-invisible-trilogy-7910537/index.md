@@ -1,6 +1,7 @@
 ---
 title: "Gong - Radio Gnome Invisible Trilogy"
-artist: "Gong"
+artist_name: "Gong"
+artist: "gong"
 album_name: "Radio Gnome Invisible Trilogy"
 date: 2017-07-11T17:46:04.000000Z
 release_id: "7910537"

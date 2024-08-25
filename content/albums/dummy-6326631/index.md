@@ -1,6 +1,7 @@
 ---
 title: "Portishead - Dummy"
-artist: "Portishead"
+artist_name: "Portishead"
+artist: "portishead"
 album_name: "Dummy"
 date: 2015-08-09T08:27:39.000000Z
 release_date: "1994-01-01"

@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Remixes"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Remixes"
 date: 2022-04-01T01:06:31.000000Z
 release_id: "22627976"

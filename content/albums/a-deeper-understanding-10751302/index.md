@@ -1,6 +1,7 @@
 ---
 title: "The War On Drugs - A Deeper Understanding"
-artist: "The War On Drugs"
+artist_name: "The War On Drugs"
+artist: "the-war-on-drugs"
 album_name: "A Deeper Understanding"
 date: 2017-08-25T17:20:29.000000Z
 release_date: "2017-08-25"

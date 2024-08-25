@@ -1,6 +1,7 @@
 ---
 title: "Roxette - Look Sharp!"
-artist: "Roxette"
+artist_name: "Roxette"
+artist: "roxette"
 album_name: "Look Sharp!"
 date: 2018-10-19T19:21:00.000000Z
 release_id: "12621938"

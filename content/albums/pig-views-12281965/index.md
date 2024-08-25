@@ -1,6 +1,7 @@
 ---
 title: "Regal Worm - Pig Views"
-artist: "Regal Worm"
+artist_name: "Regal Worm"
+artist: "regal-worm"
 album_name: "Pig Views"
 date: 2018-07-30T19:03:09.000000Z
 release_id: "12281965"

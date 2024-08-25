@@ -1,6 +1,7 @@
 ---
 title: "It Bites - Map Of The Past"
-artist: "It Bites"
+artist_name: "It Bites"
+artist: "it-bites"
 album_name: "Map Of The Past"
 date: 2021-05-09T05:00:28.000000Z
 release_id: "18649051"

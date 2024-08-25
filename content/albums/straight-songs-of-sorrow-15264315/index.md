@@ -1,6 +1,7 @@
 ---
 title: "Mark Lanegan - Straight Songs Of Sorrow"
-artist: "Mark Lanegan"
+artist_name: "Mark Lanegan"
+artist: "mark-lanegan"
 album_name: "Straight Songs Of Sorrow"
 date: 2020-05-18T11:11:44.000000Z
 release_id: "15264315"

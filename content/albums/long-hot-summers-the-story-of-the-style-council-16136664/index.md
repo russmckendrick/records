@@ -1,6 +1,7 @@
 ---
 title: "The Style Council - Long Hot Summers / The Story Of The Style Council"
-artist: "The Style Council"
+artist_name: "The Style Council"
+artist: "the-style-council"
 album_name: "Long Hot Summers / The Story Of The Style Council"
 date: 2020-10-31T09:52:50.000000Z
 release_id: "16136664"

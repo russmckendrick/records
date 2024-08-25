@@ -1,6 +1,7 @@
 ---
 title: "Goodbye Mr. Mackenzie - Fish Heads And Tails"
-artist: "Goodbye Mr. Mackenzie"
+artist_name: "Goodbye Mr. Mackenzie"
+artist: "goodbye-mr-mackenzie"
 album_name: "Fish Heads And Tails"
 date: 2020-08-01T12:49:41.000000Z
 release_id: "1029622"

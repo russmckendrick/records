@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - The Ten Year War"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "The Ten Year War"
 date: 2018-01-13T09:35:03.000000Z
 release_id: "11408964"

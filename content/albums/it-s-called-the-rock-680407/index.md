@@ -1,6 +1,7 @@
 ---
 title: "Edwin Starr - It's Called The Rock"
-artist: "Edwin Starr"
+artist_name: "Edwin Starr"
+artist: "edwin-starr"
 album_name: "It's Called The Rock"
 date: 2019-01-19T10:37:09.000000Z
 release_id: "680407"

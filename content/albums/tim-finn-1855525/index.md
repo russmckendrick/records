@@ -1,6 +1,7 @@
 ---
 title: "Tim Finn - Tim Finn"
-artist: "Tim Finn"
+artist_name: "Tim Finn"
+artist: "tim-finn"
 album_name: "Tim Finn"
 date: 2015-09-04T16:46:03.000000Z
 release_id: "1855525"

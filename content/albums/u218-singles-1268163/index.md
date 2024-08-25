@@ -1,6 +1,7 @@
 ---
 title: "U2 - U218 Singles"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "U218 Singles"
 date: 2017-01-13T20:12:09.000000Z
 release_id: "1268163"

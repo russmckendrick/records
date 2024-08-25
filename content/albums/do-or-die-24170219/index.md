@@ -1,6 +1,7 @@
 ---
 title: "Dropkick Murphys - Do Or Die"
-artist: "Dropkick Murphys"
+artist_name: "Dropkick Murphys"
+artist: "dropkick-murphys"
 album_name: "Do Or Die"
 date: 2022-08-16T03:16:10.000000Z
 release_id: "24170219"

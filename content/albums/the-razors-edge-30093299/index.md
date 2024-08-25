@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - The Razors Edge"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "The Razors Edge"
 date: 2024-03-15T06:43:56.000000Z
 release_date: "1990-09-21"

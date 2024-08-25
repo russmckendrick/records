@@ -1,6 +1,7 @@
 ---
 title: "Therapy? - Troublegum"
-artist: "Therapy?"
+artist_name: "Therapy?"
+artist: "therapy"
 album_name: "Troublegum"
 date: 2016-12-13T17:57:34.000000Z
 release_id: "834572"

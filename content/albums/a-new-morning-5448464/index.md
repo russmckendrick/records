@@ -1,6 +1,7 @@
 ---
 title: "Suede - A New Morning"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "A New Morning"
 date: 2016-10-01T10:34:25.000000Z
 release_id: "5448464"

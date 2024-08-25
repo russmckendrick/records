@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Forever Delayed - The Greatest Hits"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Forever Delayed - The Greatest Hits"
 date: 2016-03-24T16:33:42.000000Z
 release_id: "3368048"

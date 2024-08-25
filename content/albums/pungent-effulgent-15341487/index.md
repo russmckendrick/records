@@ -1,6 +1,7 @@
 ---
 title: "Ozric Tentacles - Pungent Effulgent"
-artist: "Ozric Tentacles"
+artist_name: "Ozric Tentacles"
+artist: "ozric-tentacles"
 album_name: "Pungent Effulgent"
 date: 2020-06-01T13:34:25.000000Z
 release_id: "15341487"

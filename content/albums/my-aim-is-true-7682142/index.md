@@ -1,6 +1,7 @@
 ---
 title: "Elvis Costello - My Aim Is True"
-artist: "Elvis Costello"
+artist_name: "Elvis Costello"
+artist: "elvis-costello"
 album_name: "My Aim Is True"
 date: 2017-08-11T18:28:48.000000Z
 release_date: "1977-07-22"

@@ -1,6 +1,7 @@
 ---
 title: "The Stone Roses - The Stone Roses"
-artist: "The Stone Roses"
+artist_name: "The Stone Roses"
+artist: "the-stone-roses"
 album_name: "The Stone Roses"
 date: 2015-08-09T08:35:22.000000Z
 release_date: "1989-05-02"

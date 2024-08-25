@@ -1,6 +1,7 @@
 ---
 title: "Leftfield - Rhythm And Stealth"
-artist: "Leftfield"
+artist_name: "Leftfield"
+artist: "leftfield"
 album_name: "Rhythm And Stealth"
 date: 2023-05-19T11:07:04.000000Z
 release_id: "26862581"

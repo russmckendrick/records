@@ -1,6 +1,7 @@
 ---
 title: "The Mighty Mighty BossToneS - More Noise And Other Disturbances"
-artist: "The Mighty Mighty BossToneS"
+artist_name: "The Mighty Mighty BossToneS"
+artist: "the-mighty-mighty-bosstones"
 album_name: "More Noise And Other Disturbances"
 date: 2020-08-14T20:57:18.000000Z
 release_id: "13348515"

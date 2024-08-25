@@ -1,6 +1,7 @@
 ---
 title: "Leftfield - This Is What We Do"
-artist: "Leftfield"
+artist_name: "Leftfield"
+artist: "leftfield"
 album_name: "This Is What We Do"
 date: 2022-12-06T05:13:39.000000Z
 release_id: "25374730"

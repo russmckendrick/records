@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Tightly Unwound"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Tightly Unwound"
 date: 2016-02-21T12:07:56.000000Z
 release_id: "5189116"

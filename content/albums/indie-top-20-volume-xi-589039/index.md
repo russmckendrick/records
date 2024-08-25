@@ -1,6 +1,7 @@
 ---
 title: "Various - Indie Top 20 Volume XI"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Indie Top 20 Volume XI"
 date: 2017-04-14T14:01:00.000000Z
 release_id: "589039"

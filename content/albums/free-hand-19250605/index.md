@@ -1,6 +1,7 @@
 ---
 title: "Gentle Giant - Free Hand"
-artist: "Gentle Giant"
+artist_name: "Gentle Giant"
+artist: "gentle-giant"
 album_name: "Free Hand"
 date: 2021-06-27T01:57:33.000000Z
 release_id: "19250605"

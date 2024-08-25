@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Live"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Live"
 date: 2024-03-15T06:45:38.000000Z
 release_date: "1992-10-27"

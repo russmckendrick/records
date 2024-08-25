@@ -1,6 +1,7 @@
 ---
 title: "Justin Townes Earle - Harlem River Blues"
-artist: "Justin Townes Earle"
+artist_name: "Justin Townes Earle"
+artist: "justin-townes-earle"
 album_name: "Harlem River Blues"
 date: 2015-12-30T18:48:51.000000Z
 release_date: "2010-09-14"

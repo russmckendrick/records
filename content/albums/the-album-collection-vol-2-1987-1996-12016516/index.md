@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - The Album Collection Vol. 2, 1987-1996"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "The Album Collection Vol. 2, 1987-1996"
 date: 2018-05-18T14:13:45.000000Z
 release_id: "12016516"

@@ -1,6 +1,7 @@
 ---
 title: "Swervedriver - Future Ruins"
-artist: "Swervedriver"
+artist_name: "Swervedriver"
+artist: "swervedriver"
 album_name: "Future Ruins"
 date: 2019-01-27T14:29:59.000000Z
 release_id: "13092267"

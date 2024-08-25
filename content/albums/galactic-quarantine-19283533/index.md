@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Galactic Quarantine"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Galactic Quarantine"
 date: 2021-08-09T06:27:31.000000Z
 release_id: "19283533"

@@ -1,6 +1,7 @@
 ---
 title: "Sparks - Kimono My House"
-artist: "Sparks"
+artist_name: "Sparks"
+artist: "sparks"
 album_name: "Kimono My House"
 date: 2016-11-16T13:03:18.000000Z
 release_id: "2225866"

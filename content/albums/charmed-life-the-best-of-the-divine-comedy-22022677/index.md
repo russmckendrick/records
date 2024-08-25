@@ -1,6 +1,7 @@
 ---
 title: "The Divine Comedy - Charmed Life (The Best Of The Divine Comedy)"
-artist: "The Divine Comedy"
+artist_name: "The Divine Comedy"
+artist: "the-divine-comedy"
 album_name: "Charmed Life (The Best Of The Divine Comedy)"
 date: 2022-02-04T09:20:07.000000Z
 release_id: "22022677"

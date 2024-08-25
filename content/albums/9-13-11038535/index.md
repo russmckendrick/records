@@ -1,6 +1,7 @@
 ---
 title: "Iron Monkey - 9-13"
-artist: "Iron Monkey"
+artist_name: "Iron Monkey"
+artist: "iron-monkey"
 album_name: "9-13"
 date: 2017-10-26T17:57:03.000000Z
 release_id: "11038535"

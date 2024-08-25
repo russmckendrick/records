@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Maximum Rock 'N' Roll The Singles Volume 1 "
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Maximum Rock 'N' Roll The Singles Volume 1 "
 date: 2019-06-16T21:51:10.000000Z
 release_id: "13767535"

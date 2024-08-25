@@ -1,6 +1,7 @@
 ---
 title: "Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds"
-artist: "Jeff Wayne"
+artist_name: "Jeff Wayne"
+artist: "jeff-wayne"
 album_name: "Jeff Wayne's Musical Version Of The War Of The Worlds"
 date: 2018-01-26T20:03:07.000000Z
 release_id: "11456081"

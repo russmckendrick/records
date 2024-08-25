@@ -1,6 +1,7 @@
 ---
 title: "Wire - Pink Flag"
-artist: "Wire"
+artist_name: "Wire"
+artist: "wire"
 album_name: "Pink Flag"
 date: 2018-12-27T18:11:53.000000Z
 release_id: "12172756"

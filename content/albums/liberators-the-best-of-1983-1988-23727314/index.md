@@ -1,6 +1,7 @@
 ---
 title: "Spear Of Destiny - Liberators! The Best Of 1983-1988"
-artist: "Spear Of Destiny"
+artist_name: "Spear Of Destiny"
+artist: "spear-of-destiny"
 album_name: "Liberators! The Best Of 1983-1988"
 date: 2022-07-03T07:55:58.000000Z
 release_id: "23727314"

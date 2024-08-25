@@ -1,6 +1,7 @@
 ---
 title: "Tubeway Army - Replicas"
-artist: "Tubeway Army"
+artist_name: "Tubeway Army"
+artist: "tubeway-army"
 album_name: "Replicas"
 date: 2016-12-04T11:08:08.000000Z
 release_id: "7622130"

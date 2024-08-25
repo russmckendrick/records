@@ -1,6 +1,7 @@
 ---
 title: "Oceansize - Effloresce"
-artist: "Oceansize"
+artist_name: "Oceansize"
+artist: "oceansize"
 album_name: "Effloresce"
 date: 2017-11-10T19:31:43.000000Z
 release_id: "11077284"

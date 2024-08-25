@@ -1,6 +1,7 @@
 ---
 title: "Joan Jett - Bad Reputation"
-artist: "Joan Jett"
+artist_name: "Joan Jett"
+artist: "joan-jett"
 album_name: "Bad Reputation"
 date: 2021-12-28T07:13:23.000000Z
 release_id: "12840105"

@@ -1,6 +1,7 @@
 ---
 title: "Four Stroke Baron - Planet Silver Screen"
-artist: "Four Stroke Baron"
+artist_name: "Four Stroke Baron"
+artist: "four-stroke-baron"
 album_name: "Planet Silver Screen"
 date: 2019-01-03T18:24:32.000000Z
 release_id: "12774767"

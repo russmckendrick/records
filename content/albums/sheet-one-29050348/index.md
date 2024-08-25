@@ -1,6 +1,7 @@
 ---
 title: "Plastikman - Sheet One"
-artist: "Plastikman"
+artist_name: "Plastikman"
+artist: "plastikman"
 album_name: "Sheet One"
 date: 2023-12-16T04:03:39.000000Z
 release_id: "29050348"

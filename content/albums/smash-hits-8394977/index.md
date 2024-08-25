@@ -1,6 +1,7 @@
 ---
 title: "The Jimi Hendrix Experience - Smash Hits"
-artist: "The Jimi Hendrix Experience"
+artist_name: "The Jimi Hendrix Experience"
+artist: "the-jimi-hendrix-experience"
 album_name: "Smash Hits"
 date: 2016-05-03T16:17:07.000000Z
 release_id: "8394977"

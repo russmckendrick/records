@@ -1,6 +1,7 @@
 ---
 title: "Laura Veirs - Found Light"
-artist: "Laura Veirs"
+artist_name: "Laura Veirs"
+artist: "laura-veirs"
 album_name: "Found Light"
 date: 2023-05-21T05:56:10.000000Z
 release_id: "23601251"

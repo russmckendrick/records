@@ -1,6 +1,7 @@
 ---
 title: "XTC - Skylarking"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Skylarking"
 date: 2018-01-19T20:40:17.000000Z
 release_id: "8779259"

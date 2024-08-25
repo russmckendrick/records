@@ -1,6 +1,7 @@
 ---
 title: "Nick Cave & The Bad Seeds - Ghosteen"
-artist: "Nick Cave & The Bad Seeds"
+artist_name: "Nick Cave & The Bad Seeds"
+artist: "nick-cave-the-bad-seeds"
 album_name: "Ghosteen"
 date: 2019-12-25T11:28:59.000000Z
 release_date: "2019-10-03"

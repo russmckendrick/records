@@ -1,6 +1,7 @@
 ---
 title: "Thought Forms - Songs About Drowning"
-artist: "Thought Forms"
+artist_name: "Thought Forms"
+artist: "thought-forms"
 album_name: "Songs About Drowning"
 date: 2016-11-22T17:48:28.000000Z
 release_id: "9222029"

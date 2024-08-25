@@ -1,6 +1,7 @@
 ---
 title: "Nina Simone - Nina Simone Sings The Blues"
-artist: "Nina Simone"
+artist_name: "Nina Simone"
+artist: "nina-simone"
 album_name: "Nina Simone Sings The Blues"
 date: 2016-12-19T17:44:48.000000Z
 release_date: "1967-01-01"

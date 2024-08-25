@@ -1,6 +1,7 @@
 ---
 title: "Curve - Frozen"
-artist: "Curve"
+artist_name: "Curve"
+artist: "curve"
 album_name: "Frozen"
 date: 2023-02-13T11:30:59.000000Z
 release_id: "26071519"

@@ -1,6 +1,7 @@
 ---
 title: "Rush - Time Machine 2011: Live In Cleveland"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Time Machine 2011: Live In Cleveland"
 date: 2020-06-15T15:12:39.000000Z
 release_id: "13726336"

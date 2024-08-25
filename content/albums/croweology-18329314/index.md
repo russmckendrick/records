@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Croweology"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Croweology"
 date: 2021-04-30T07:38:41.000000Z
 release_date: "2010-08-03"

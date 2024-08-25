@@ -1,6 +1,7 @@
 ---
 title: "M83 - Fantasy"
-artist: "M83"
+artist_name: "M83"
+artist: "m83"
 album_name: "Fantasy"
 date: 2023-03-20T05:44:16.000000Z
 release_date: "2023-03-17"

@@ -1,5 +1,6 @@
 ---
 title: "a-ha - Hunting High And Low"
+artist_name: "a-ha"
 artist: "a-ha"
 album_name: "Hunting High And Low"
 date: 2018-08-17T18:07:56.000000Z

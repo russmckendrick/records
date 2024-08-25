@@ -1,6 +1,7 @@
 ---
 title: "Jimi Hendrix - The Singles Album"
-artist: "Jimi Hendrix"
+artist_name: "Jimi Hendrix"
+artist: "jimi-hendrix"
 album_name: "The Singles Album"
 date: 2016-04-08T19:08:40.000000Z
 release_id: "2148022"

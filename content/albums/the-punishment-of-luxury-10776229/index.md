@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - The Punishment Of Luxury"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "The Punishment Of Luxury"
 date: 2017-09-01T18:43:33.000000Z
 release_id: "10776229"

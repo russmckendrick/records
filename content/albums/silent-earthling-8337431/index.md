@@ -1,6 +1,7 @@
 ---
 title: "Three Trapped Tigers - Silent Earthling"
-artist: "Three Trapped Tigers"
+artist_name: "Three Trapped Tigers"
+artist: "three-trapped-tigers"
 album_name: "Silent Earthling"
 date: 2016-04-03T08:28:24.000000Z
 release_id: "8337431"

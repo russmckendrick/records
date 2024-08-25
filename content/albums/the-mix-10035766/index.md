@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - The Mix"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "The Mix"
 date: 2017-04-23T12:08:38.000000Z
 release_id: "10035766"

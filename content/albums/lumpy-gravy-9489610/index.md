@@ -1,6 +1,7 @@
 ---
 title: "Frank Zappa - Lumpy Gravy"
-artist: "Frank Zappa"
+artist_name: "Frank Zappa"
+artist: "frank-zappa"
 album_name: "Lumpy Gravy"
 date: 2017-04-02T13:02:12.000000Z
 release_id: "9489610"

@@ -1,6 +1,7 @@
 ---
 title: "Charlie Barnes - Oceanography"
-artist: "Charlie Barnes"
+artist_name: "Charlie Barnes"
+artist: "charlie-barnes"
 album_name: "Oceanography"
 date: 2018-03-16T10:37:04.000000Z
 release_id: "11659260"

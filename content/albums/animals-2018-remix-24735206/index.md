@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Animals (2018 Remix)"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Animals (2018 Remix)"
 date: 2022-10-07T06:54:53.000000Z
 release_id: "24735206"

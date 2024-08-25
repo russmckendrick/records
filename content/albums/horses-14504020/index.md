@@ -1,6 +1,7 @@
 ---
 title: "Patti Smith - Horses"
-artist: "Patti Smith"
+artist_name: "Patti Smith"
+artist: "patti-smith"
 album_name: "Horses"
 date: 2020-01-08T18:57:39.000000Z
 release_date: "1975-11-10"

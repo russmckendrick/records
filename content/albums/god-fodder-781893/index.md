@@ -1,6 +1,7 @@
 ---
 title: "Ned's Atomic Dustbin - God Fodder"
-artist: "Ned's Atomic Dustbin"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "God Fodder"
 date: 2016-01-11T17:44:13.000000Z
 release_id: "781893"

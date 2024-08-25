@@ -1,6 +1,7 @@
 ---
 title: "Belly - Star"
-artist: "Belly"
+artist_name: "Belly"
+artist: "belly"
 album_name: "Star"
 date: 2016-07-18T17:38:17.000000Z
 release_id: "8785855"

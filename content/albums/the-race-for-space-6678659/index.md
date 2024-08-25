@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - The Race For Space"
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "The Race For Space"
 date: 2015-08-09T08:48:10.000000Z
 release_id: "6678659"

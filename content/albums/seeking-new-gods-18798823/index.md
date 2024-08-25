@@ -1,6 +1,7 @@
 ---
 title: "Gruff Rhys - Seeking New Gods"
-artist: "Gruff Rhys"
+artist_name: "Gruff Rhys"
+artist: "gruff-rhys"
 album_name: "Seeking New Gods"
 date: 2021-05-29T07:42:16.000000Z
 release_id: "18798823"

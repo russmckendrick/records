@@ -1,6 +1,7 @@
 ---
 title: "The Utopia Strong - International Treasure"
-artist: "The Utopia Strong"
+artist_name: "The Utopia Strong"
+artist: "the-utopia-strong"
 album_name: "International Treasure"
 date: 2022-08-01T06:03:04.000000Z
 release_id: "24010643"

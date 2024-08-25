@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - Stranger To Stranger"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "Stranger To Stranger"
 date: 2016-06-03T18:24:32.000000Z
 release_id: "8604097"

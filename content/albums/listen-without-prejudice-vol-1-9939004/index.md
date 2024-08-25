@@ -1,6 +1,7 @@
 ---
 title: "George Michael - Listen Without Prejudice Vol. 1"
-artist: "George Michael"
+artist_name: "George Michael"
+artist: "george-michael"
 album_name: "Listen Without Prejudice Vol. 1"
 date: 2017-10-21T10:05:06.000000Z
 release_id: "9939004"

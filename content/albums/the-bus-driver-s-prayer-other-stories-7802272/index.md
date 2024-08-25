@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury - The Bus Driver's Prayer & Other Stories"
-artist: "Ian Dury"
+artist_name: "Ian Dury"
+artist: "ian-dury"
 album_name: "The Bus Driver's Prayer & Other Stories"
 date: 2016-09-21T18:13:01.000000Z
 release_id: "7802272"

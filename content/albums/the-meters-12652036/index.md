@@ -1,6 +1,7 @@
 ---
 title: "The Meters - The Meters"
-artist: "The Meters"
+artist_name: "The Meters"
+artist: "the-meters"
 album_name: "The Meters"
 date: 2023-02-20T05:06:43.000000Z
 release_date: "1991-08-06"

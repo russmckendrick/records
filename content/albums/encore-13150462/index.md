@@ -1,6 +1,7 @@
 ---
 title: "The Specials - Encore"
-artist: "The Specials"
+artist_name: "The Specials"
+artist: "the-specials"
 album_name: "Encore"
 date: 2019-02-01T18:56:27.000000Z
 release_date: "2019-02-01"

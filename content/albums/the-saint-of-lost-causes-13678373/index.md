@@ -1,6 +1,7 @@
 ---
 title: "Justin Townes Earle - The Saint Of Lost Causes"
-artist: "Justin Townes Earle"
+artist_name: "Justin Townes Earle"
+artist: "justin-townes-earle"
 album_name: "The Saint Of Lost Causes"
 date: 2019-05-26T08:54:56.000000Z
 release_id: "13678373"

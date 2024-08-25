@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Phantom Power"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Phantom Power"
 date: 2023-09-08T04:42:25.000000Z
 release_id: "28168933"

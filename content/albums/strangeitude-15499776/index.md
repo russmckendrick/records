@@ -1,6 +1,7 @@
 ---
 title: "Ozric Tentacles - Strangeitude"
-artist: "Ozric Tentacles"
+artist_name: "Ozric Tentacles"
+artist: "ozric-tentacles"
 album_name: "Strangeitude"
 date: 2020-07-08T13:14:35.000000Z
 release_id: "15499776"

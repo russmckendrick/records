@@ -1,6 +1,7 @@
 ---
 title: "The Velvet Underground - The Velvet Underground & Nico"
-artist: "The Velvet Underground"
+artist_name: "The Velvet Underground"
+artist: "the-velvet-underground"
 album_name: "The Velvet Underground & Nico"
 date: 2016-01-10T12:53:11.000000Z
 release_date: "1967-03-12"

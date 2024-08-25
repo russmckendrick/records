@@ -1,6 +1,7 @@
 ---
 title: "Pearl Jam - Vs."
-artist: "Pearl Jam"
+artist_name: "Pearl Jam"
+artist: "pearl-jam"
 album_name: "Vs."
 date: 2023-11-25T04:04:19.000000Z
 release_date: "1993-10-19"

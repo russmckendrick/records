@@ -1,6 +1,7 @@
 ---
 title: "Various - Soft Metal - It Ain't Heavy . . . "
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Soft Metal - It Ain't Heavy . . . "
 date: 2019-03-24T13:15:48.000000Z
 release_id: "1205378"

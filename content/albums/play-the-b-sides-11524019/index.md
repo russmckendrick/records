@@ -1,6 +1,7 @@
 ---
 title: "Moby - Play: The B Sides"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Play: The B Sides"
 date: 2018-02-06T20:52:52.000000Z
 release_id: "11524019"

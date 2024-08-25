@@ -1,6 +1,7 @@
 ---
 title: "Various - The Harder They Come (Original Soundtrack Recording)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Harder They Come (Original Soundtrack Recording)"
 date: 2019-01-04T19:33:59.000000Z
 release_id: "11949372"

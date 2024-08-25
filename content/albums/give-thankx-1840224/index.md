@@ -1,6 +1,7 @@
 ---
 title: "Jimmy Cliff - Give Thankx"
-artist: "Jimmy Cliff"
+artist_name: "Jimmy Cliff"
+artist: "jimmy-cliff"
 album_name: "Give Thankx"
 date: 2020-08-02T13:48:34.000000Z
 release_id: "1840224"

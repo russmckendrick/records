@@ -1,6 +1,7 @@
 ---
 title: "Black Country, New Road - Live At Bush Hall"
-artist: "Black Country, New Road"
+artist_name: "Black Country, New Road"
+artist: "black-country-new-road"
 album_name: "Live At Bush Hall"
 date: 2023-05-02T10:22:53.000000Z
 release_id: "26890124"

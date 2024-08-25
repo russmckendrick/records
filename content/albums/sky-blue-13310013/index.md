@@ -1,6 +1,7 @@
 ---
 title: "Townes Van Zandt - Sky Blue"
-artist: "Townes Van Zandt"
+artist_name: "Townes Van Zandt"
+artist: "townes-van-zandt"
 album_name: "Sky Blue"
 date: 2019-03-12T18:46:28.000000Z
 release_id: "13310013"

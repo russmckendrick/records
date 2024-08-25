@@ -1,6 +1,7 @@
 ---
 title: "Hooverphonic - The Best Of Hooverphonic"
-artist: "Hooverphonic"
+artist_name: "Hooverphonic"
+artist: "hooverphonic"
 album_name: "The Best Of Hooverphonic"
 date: 2021-06-29T02:28:57.000000Z
 release_id: "18295270"

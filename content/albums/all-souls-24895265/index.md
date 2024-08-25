@@ -1,6 +1,7 @@
 ---
 title: "Siouxsie & The Banshees - All Souls"
-artist: "Siouxsie & The Banshees"
+artist_name: "Siouxsie & The Banshees"
+artist: "siouxsie-the-banshees"
 album_name: "All Souls"
 date: 2022-10-22T00:36:35.000000Z
 release_id: "24895265"

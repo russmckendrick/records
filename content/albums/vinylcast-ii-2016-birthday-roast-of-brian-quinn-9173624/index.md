@@ -1,6 +1,7 @@
 ---
 title: "Tell 'Em Steve-Dave - Vinylcast II 2016 Birthday Roast of Brian Quinn"
-artist: "Tell 'Em Steve-Dave"
+artist_name: "Tell 'Em Steve-Dave"
+artist: "tell-em-steve-dave"
 album_name: "Vinylcast II 2016 Birthday Roast of Brian Quinn"
 date: 2016-10-19T17:04:07.000000Z
 release_id: "9173624"

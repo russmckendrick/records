@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Bauhaus Staircase"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Bauhaus Staircase"
 date: 2023-10-31T11:18:05.000000Z
 release_id: "28716781"

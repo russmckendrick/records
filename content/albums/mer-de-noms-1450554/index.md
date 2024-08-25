@@ -1,6 +1,7 @@
 ---
 title: "A Perfect Circle - Mer De Noms"
-artist: "A Perfect Circle"
+artist_name: "A Perfect Circle"
+artist: "a-perfect-circle"
 album_name: "Mer De Noms"
 date: 2016-08-17T16:55:27.000000Z
 release_id: "1450554"

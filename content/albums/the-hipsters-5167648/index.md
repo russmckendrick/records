@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - The Hipsters"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "The Hipsters"
 date: 2021-06-12T09:02:06.000000Z
 release_id: "5167648"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Kill Bill Vol. 1 - Original Soundtrack"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Kill Bill Vol. 1 - Original Soundtrack"
 date: 2018-10-04T18:47:50.000000Z
 release_id: "7798494"

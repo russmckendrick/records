@@ -1,6 +1,7 @@
 ---
 title: "Amplifier - Insider"
-artist: "Amplifier"
+artist_name: "Amplifier"
+artist: "amplifier"
 album_name: "Insider"
 date: 2021-09-29T00:17:46.000000Z
 release_id: "20391511"

@@ -1,6 +1,7 @@
 ---
 title: "Little Angels - Too Posh To Mosh, Too Good To Last!"
-artist: "Little Angels"
+artist_name: "Little Angels"
+artist: "little-angels"
 album_name: "Too Posh To Mosh, Too Good To Last!"
 date: 2016-04-15T18:22:40.000000Z
 release_id: "3205048"

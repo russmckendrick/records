@@ -1,6 +1,7 @@
 ---
 title: "House Of Pain - House Of Pain (Fine Malt Lyrics)"
-artist: "House Of Pain"
+artist_name: "House Of Pain"
+artist: "house-of-pain"
 album_name: "House Of Pain (Fine Malt Lyrics)"
 date: 2022-09-02T02:17:51.000000Z
 release_id: "24012683"

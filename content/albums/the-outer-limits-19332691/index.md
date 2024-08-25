@@ -1,6 +1,7 @@
 ---
 title: "Voïvod - The Outer Limits"
-artist: "Voïvod"
+artist_name: "Voïvod"
+artist: "vovod"
 album_name: "The Outer Limits"
 date: 2021-07-16T11:53:13.000000Z
 release_id: "19332691"

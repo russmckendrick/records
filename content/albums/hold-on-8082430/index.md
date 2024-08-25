@@ -1,6 +1,7 @@
 ---
 title: "The James Hunter Six - Hold On!"
-artist: "The James Hunter Six"
+artist_name: "The James Hunter Six"
+artist: "the-james-hunter-six"
 album_name: "Hold On!"
 date: 2016-02-08T18:19:52.000000Z
 release_date: "2016-02-05"

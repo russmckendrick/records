@@ -1,6 +1,7 @@
 ---
 title: "The Zombies - Odessey And Oracle"
-artist: "The Zombies"
+artist_name: "The Zombies"
+artist: "the-zombies"
 album_name: "Odessey And Oracle"
 date: 2018-07-13T19:26:23.000000Z
 release_date: "1968-04-19"

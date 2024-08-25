@@ -1,6 +1,7 @@
 ---
 title: "The Lemonheads - It's A Shame About Ray"
-artist: "The Lemonheads"
+artist_name: "The Lemonheads"
+artist: "the-lemonheads"
 album_name: "It's A Shame About Ray"
 date: 2022-04-24T04:28:35.000000Z
 release_id: "22405678"

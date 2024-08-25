@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Equinoxe Infinity"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Equinoxe Infinity"
 date: 2018-11-17T10:44:45.000000Z
 release_id: "12805890"

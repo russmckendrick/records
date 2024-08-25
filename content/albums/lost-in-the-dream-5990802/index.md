@@ -1,6 +1,7 @@
 ---
 title: "The War On Drugs - Lost In The Dream"
-artist: "The War On Drugs"
+artist_name: "The War On Drugs"
+artist: "the-war-on-drugs"
 album_name: "Lost In The Dream"
 date: 2015-08-09T09:04:57.000000Z
 release_date: "2014-03-18"

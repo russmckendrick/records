@@ -1,6 +1,7 @@
 ---
 title: "Morrissey - Low In High School"
-artist: "Morrissey"
+artist_name: "Morrissey"
+artist: "morrissey"
 album_name: "Low In High School"
 date: 2017-11-17T16:42:09.000000Z
 release_date: "2017-11-17"

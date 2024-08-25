@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Amazing Grace"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Amazing Grace"
 date: 2024-01-19T10:57:15.000000Z
 release_id: "29521360"

@@ -1,6 +1,7 @@
 ---
 title: "Mike Oldfield - Return To Ommadawn"
-artist: "Mike Oldfield"
+artist_name: "Mike Oldfield"
+artist: "mike-oldfield"
 album_name: "Return To Ommadawn"
 date: 2017-02-05T12:26:24.000000Z
 release_id: "9679634"

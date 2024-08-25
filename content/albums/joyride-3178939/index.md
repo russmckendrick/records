@@ -1,6 +1,7 @@
 ---
 title: "Roxette - Joyride"
-artist: "Roxette"
+artist_name: "Roxette"
+artist: "roxette"
 album_name: "Joyride"
 date: 2016-02-29T18:16:24.000000Z
 release_id: "3178939"

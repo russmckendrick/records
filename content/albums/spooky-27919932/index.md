@@ -1,6 +1,7 @@
 ---
 title: "Lush - Spooky"
-artist: "Lush"
+artist_name: "Lush"
+artist: "lush"
 album_name: "Spooky"
 date: 2023-08-11T08:22:40.000000Z
 release_id: "27919932"

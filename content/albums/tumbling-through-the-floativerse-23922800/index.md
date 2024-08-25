@@ -1,6 +1,7 @@
 ---
 title: "Ed Wynne - Tumbling Through The Floativerse"
-artist: "Ed Wynne"
+artist_name: "Ed Wynne"
+artist: "ed-wynne"
 album_name: "Tumbling Through The Floativerse"
 date: 2022-08-08T10:05:50.000000Z
 release_id: "23922800"

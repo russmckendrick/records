@@ -1,6 +1,7 @@
 ---
 title: "Regina Spektor - Soviet Kitsch"
-artist: "Regina Spektor"
+artist_name: "Regina Spektor"
+artist: "regina-spektor"
 album_name: "Soviet Kitsch"
 date: 2017-06-08T17:52:10.000000Z
 release_id: "8444148"

@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Adore"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Adore"
 date: 2016-03-06T09:21:22.000000Z
 release_id: "6172304"

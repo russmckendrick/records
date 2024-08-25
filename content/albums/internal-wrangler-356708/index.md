@@ -1,6 +1,7 @@
 ---
 title: "Clinic - Internal Wrangler"
-artist: "Clinic"
+artist_name: "Clinic"
+artist: "clinic"
 album_name: "Internal Wrangler"
 date: 2017-06-16T18:29:27.000000Z
 release_id: "356708"

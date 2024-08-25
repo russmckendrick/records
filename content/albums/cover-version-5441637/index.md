@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Cover Version"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Cover Version"
 date: 2016-12-20T18:37:54.000000Z
 release_id: "5441637"

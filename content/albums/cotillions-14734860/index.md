@@ -1,6 +1,7 @@
 ---
 title: "WPC - Cotillions"
-artist: "WPC"
+artist_name: "WPC"
+artist: "wpc"
 album_name: "Cotillions"
 date: 2020-02-14T18:07:24.000000Z
 release_id: "14734860"

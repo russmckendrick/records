@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - Once Upon A Time"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "Once Upon A Time"
 date: 2016-03-06T09:21:31.000000Z
 release_id: "7860558"

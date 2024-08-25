@@ -1,6 +1,7 @@
 ---
 title: "Working Men's Club - Working Men's Club"
-artist: "Working Men's Club"
+artist_name: "Working Men's Club"
+artist: "working-men-s-club"
 album_name: "Working Men's Club"
 date: 2020-10-02T12:21:00.000000Z
 release_date: "2020-10-02"

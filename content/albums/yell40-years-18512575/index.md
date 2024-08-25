@@ -1,6 +1,7 @@
 ---
 title: "Yello - Yell40 Years"
-artist: "Yello"
+artist_name: "Yello"
+artist: "yello"
 album_name: "Yell40 Years"
 date: 2021-05-05T04:21:55.000000Z
 release_id: "18512575"

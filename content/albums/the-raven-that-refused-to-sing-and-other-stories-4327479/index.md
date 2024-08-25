@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - The Raven That Refused To Sing (And Other Stories)"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "The Raven That Refused To Sing (And Other Stories)"
 date: 2016-01-25T18:19:11.000000Z
 release_id: "4327479"

@@ -1,6 +1,7 @@
 ---
 title: "Alabama 3 - Exile On Coldharbour Lane"
-artist: "Alabama 3"
+artist_name: "Alabama 3"
+artist: "alabama-3"
 album_name: "Exile On Coldharbour Lane"
 date: 2016-05-20T17:15:47.000000Z
 release_id: "8176313"

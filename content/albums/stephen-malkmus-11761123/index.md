@@ -1,6 +1,7 @@
 ---
 title: "Stephen Malkmus - Stephen Malkmus"
-artist: "Stephen Malkmus"
+artist_name: "Stephen Malkmus"
+artist: "stephen-malkmus"
 album_name: "Stephen Malkmus"
 date: 2018-05-15T11:37:19.000000Z
 release_id: "11761123"

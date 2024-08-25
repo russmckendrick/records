@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Presence"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Presence"
 date: 2017-02-26T10:58:33.000000Z
 release_date: "1976-03-31"

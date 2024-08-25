@@ -1,6 +1,7 @@
 ---
 title: "The Proclaimers - Sunshine On Leith"
-artist: "The Proclaimers"
+artist_name: "The Proclaimers"
+artist: "the-proclaimers"
 album_name: "Sunshine On Leith"
 date: 2018-01-20T19:10:06.000000Z
 release_id: "11066426"

@@ -1,6 +1,7 @@
 ---
 title: "Oasis - Definitely Maybe"
-artist: "Oasis"
+artist_name: "Oasis"
+artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2015-12-21T22:34:46.000000Z
 release_id: "5697791"

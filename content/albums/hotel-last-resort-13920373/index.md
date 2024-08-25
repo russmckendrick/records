@@ -1,6 +1,7 @@
 ---
 title: "Violent Femmes - Hotel Last Resort"
-artist: "Violent Femmes"
+artist_name: "Violent Femmes"
+artist: "violent-femmes"
 album_name: "Hotel Last Resort"
 date: 2019-08-30T15:23:03.000000Z
 release_id: "13920373"

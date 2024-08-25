@@ -1,6 +1,7 @@
 ---
 title: "Oasis - Be Here Now"
-artist: "Oasis"
+artist_name: "Oasis"
+artist: "oasis"
 album_name: "Be Here Now"
 date: 2022-08-21T11:23:47.000000Z
 release_date: "1997-08-21"

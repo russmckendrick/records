@@ -1,6 +1,7 @@
 ---
 title: "Yusuf Islam - Tea For The Tillerman²"
-artist: "Yusuf Islam"
+artist_name: "Yusuf Islam"
+artist: "yusuf-islam"
 album_name: "Tea For The Tillerman²"
 date: 2020-09-19T09:36:07.000000Z
 release_id: "15934691"

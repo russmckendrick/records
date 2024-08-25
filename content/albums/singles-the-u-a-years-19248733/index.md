@@ -1,6 +1,7 @@
 ---
 title: "Dr. Feelgood - Singles (The U.A. Years+)"
-artist: "Dr. Feelgood"
+artist_name: "Dr. Feelgood"
+artist: "dr-feelgood"
 album_name: "Singles (The U.A. Years+)"
 date: 2024-03-28T05:16:18.000000Z
 release_id: "19248733"

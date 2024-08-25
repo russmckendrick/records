@@ -1,6 +1,7 @@
 ---
 title: "EMF - Schubert Dip"
-artist: "EMF"
+artist_name: "EMF"
+artist: "emf"
 album_name: "Schubert Dip"
 date: 2015-10-14T18:37:05.000000Z
 release_id: "2122351"

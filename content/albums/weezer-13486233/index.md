@@ -1,6 +1,7 @@
 ---
 title: "Weezer - Weezer"
-artist: "Weezer"
+artist_name: "Weezer"
+artist: "weezer"
 album_name: "Weezer"
 date: 2019-04-13T11:18:32.000000Z
 release_id: "13486233"

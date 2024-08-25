@@ -1,6 +1,7 @@
 ---
 title: "Spiritual Beggars - Ad Astra"
-artist: "Spiritual Beggars"
+artist_name: "Spiritual Beggars"
+artist: "spiritual-beggars"
 album_name: "Ad Astra"
 date: 2017-04-09T14:17:37.000000Z
 release_id: "7189449"

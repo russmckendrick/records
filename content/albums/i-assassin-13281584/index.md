@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - I, Assassin"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "I, Assassin"
 date: 2019-03-02T12:10:22.000000Z
 release_id: "13281584"

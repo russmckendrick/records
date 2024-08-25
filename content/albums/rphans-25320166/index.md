@@ -1,6 +1,7 @@
 ---
 title: "Sel Balamir - ( )rphans"
-artist: "Sel Balamir"
+artist_name: "Sel Balamir"
+artist: "sel-balamir"
 album_name: "( )rphans"
 date: 2022-11-29T13:20:00.000000Z
 release_id: "25320166"

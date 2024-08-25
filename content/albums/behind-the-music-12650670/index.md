@@ -1,6 +1,7 @@
 ---
 title: "The Soundtrack Of Our Lives - Behind The Music"
-artist: "The Soundtrack Of Our Lives"
+artist_name: "The Soundtrack Of Our Lives"
+artist: "the-soundtrack-of-our-lives"
 album_name: "Behind The Music"
 date: 2018-11-03T09:52:34.000000Z
 release_id: "12650670"

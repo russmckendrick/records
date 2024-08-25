@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - Hello!"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "Hello!"
 date: 2016-05-23T18:26:30.000000Z
 release_id: "7578510"

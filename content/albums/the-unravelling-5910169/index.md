@@ -1,6 +1,7 @@
 ---
 title: "Knifeworld - The Unravelling"
-artist: "Knifeworld"
+artist_name: "Knifeworld"
+artist: "knifeworld"
 album_name: "The Unravelling"
 date: 2016-02-08T18:19:11.000000Z
 release_id: "5910169"

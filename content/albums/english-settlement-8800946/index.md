@@ -1,6 +1,7 @@
 ---
 title: "XTC - English Settlement"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "English Settlement"
 date: 2018-01-19T20:40:49.000000Z
 release_date: "1982-02-12"

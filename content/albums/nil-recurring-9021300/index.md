@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Nil Recurring"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Nil Recurring"
 date: 2016-10-20T16:29:26.000000Z
 release_id: "9021300"

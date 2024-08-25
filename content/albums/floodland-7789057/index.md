@@ -1,6 +1,7 @@
 ---
 title: "The Sisters Of Mercy - Floodland"
-artist: "The Sisters Of Mercy"
+artist_name: "The Sisters Of Mercy"
+artist: "the-sisters-of-mercy"
 album_name: "Floodland"
 date: 2015-12-01T21:57:17.000000Z
 release_id: "7789057"

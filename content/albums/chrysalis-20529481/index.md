@@ -1,6 +1,7 @@
 ---
 title: "AVAWAVES - Chrysalis"
-artist: "AVAWAVES"
+artist_name: "AVAWAVES"
+artist: "avawaves"
 album_name: "Chrysalis"
 date: 2021-10-22T10:10:18.000000Z
 release_id: "20529481"

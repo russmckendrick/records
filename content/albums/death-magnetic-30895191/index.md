@@ -1,6 +1,7 @@
 ---
 title: "Metallica - Death Magnetic"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "Death Magnetic"
 date: 2024-06-14T05:05:31.000000Z
 release_date: "2008-01-01"

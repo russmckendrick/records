@@ -1,6 +1,7 @@
 ---
 title: "Scott Walker - Boy Child - The Best Of 1967 - 1970"
-artist: "Scott Walker"
+artist_name: "Scott Walker"
+artist: "scott-walker"
 album_name: "Boy Child - The Best Of 1967 - 1970"
 date: 2022-04-24T04:25:19.000000Z
 release_id: "22965146"

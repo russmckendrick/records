@@ -1,6 +1,7 @@
 ---
 title: "The Alarm - Eponymous 1981-1983"
-artist: "The Alarm"
+artist_name: "The Alarm"
+artist: "the-alarm"
 album_name: "Eponymous 1981-1983"
 date: 2021-06-10T06:46:15.000000Z
 release_id: "11734076"

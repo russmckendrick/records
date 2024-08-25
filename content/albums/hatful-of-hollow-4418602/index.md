@@ -1,6 +1,7 @@
 ---
 title: "The Smiths - Hatful Of Hollow"
-artist: "The Smiths"
+artist_name: "The Smiths"
+artist: "the-smiths"
 album_name: "Hatful Of Hollow"
 date: 2016-10-03T14:27:49.000000Z
 release_date: "1984-11-12"

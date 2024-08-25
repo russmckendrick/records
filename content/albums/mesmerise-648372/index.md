@@ -1,6 +1,7 @@
 ---
 title: "Chapterhouse - Mesmerise"
-artist: "Chapterhouse"
+artist_name: "Chapterhouse"
+artist: "chapterhouse"
 album_name: "Mesmerise"
 date: 2016-12-07T17:40:35.000000Z
 release_id: "648372"

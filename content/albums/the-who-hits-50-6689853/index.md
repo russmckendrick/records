@@ -1,6 +1,7 @@
 ---
 title: "The Who - The Who Hits 50!"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "The Who Hits 50!"
 date: 2015-09-27T10:49:53.000000Z
 release_id: "6689853"

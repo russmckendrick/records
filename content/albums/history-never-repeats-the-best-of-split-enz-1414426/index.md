@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - History Never Repeats (The Best Of Split Enz)"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "History Never Repeats (The Best Of Split Enz)"
 date: 2015-09-02T18:25:23.000000Z
 release_id: "1414426"

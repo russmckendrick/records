@@ -1,6 +1,7 @@
 ---
 title: "Aerosmith - Pump"
-artist: "Aerosmith"
+artist_name: "Aerosmith"
+artist: "aerosmith"
 album_name: "Pump"
 date: 2016-12-30T11:10:25.000000Z
 release_date: "1989-01-01"

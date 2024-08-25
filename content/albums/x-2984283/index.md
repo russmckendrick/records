@@ -1,6 +1,7 @@
 ---
 title: "Queens Of The Stone Age - X"
-artist: "Queens Of The Stone Age"
+artist_name: "Queens Of The Stone Age"
+artist: "queens-of-the-stone-age"
 album_name: "X"
 date: 2017-09-09T10:31:48.000000Z
 release_id: "2984283"

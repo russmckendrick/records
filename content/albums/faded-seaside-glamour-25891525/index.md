@@ -1,6 +1,7 @@
 ---
 title: "Delays - Faded Seaside Glamour"
-artist: "Delays"
+artist_name: "Delays"
+artist: "delays"
 album_name: "Faded Seaside Glamour"
 date: 2023-03-20T05:44:46.000000Z
 release_id: "25891525"

@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - Whatever You Want"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "Whatever You Want"
 date: 2016-05-23T18:28:27.000000Z
 release_id: "7581244"

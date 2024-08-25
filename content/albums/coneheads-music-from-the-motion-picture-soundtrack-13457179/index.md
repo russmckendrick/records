@@ -1,6 +1,7 @@
 ---
 title: "Various - Coneheads (Music From The Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Coneheads (Music From The Motion Picture Soundtrack)"
 date: 2019-04-13T11:17:33.000000Z
 release_id: "13457179"

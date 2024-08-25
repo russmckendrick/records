@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Oxygene"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Oxygene"
 date: 2015-12-28T14:08:01.000000Z
 release_date: "2015-08-28"

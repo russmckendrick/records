@@ -1,6 +1,7 @@
 ---
 title: "Various - Stax Does The Beatles"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Stax Does The Beatles"
 date: 2019-04-13T11:17:16.000000Z
 release_id: "13468733"

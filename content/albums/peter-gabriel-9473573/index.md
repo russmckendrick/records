@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Peter Gabriel "
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Peter Gabriel "
 date: 2016-12-08T18:43:30.000000Z
 release_id: "9473573"

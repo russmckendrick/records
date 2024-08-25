@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Temple Of Low Men"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Temple Of Low Men"
 date: 2016-11-08T19:07:19.000000Z
 release_id: "9322448"

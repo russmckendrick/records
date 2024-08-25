@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - ★ (Blackstar)"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "★ (Blackstar)"
 date: 2016-01-08T19:08:48.000000Z
 release_id: "7932038"

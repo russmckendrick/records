@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - Richard Hawley"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "Richard Hawley"
 date: 2023-07-28T05:34:32.000000Z
 release_id: "27760224"

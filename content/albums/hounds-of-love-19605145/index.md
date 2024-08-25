@@ -1,6 +1,7 @@
 ---
 title: "Kate Bush - Hounds Of Love"
-artist: "Kate Bush"
+artist_name: "Kate Bush"
+artist: "kate-bush"
 album_name: "Hounds Of Love"
 date: 2021-07-26T03:59:07.000000Z
 release_id: "19605145"

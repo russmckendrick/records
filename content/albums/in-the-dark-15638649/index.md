@@ -1,6 +1,7 @@
 ---
 title: "Toots & The Maytals - In The Dark"
-artist: "Toots & The Maytals"
+artist_name: "Toots & The Maytals"
+artist: "toots-the-maytals"
 album_name: "In The Dark"
 date: 2020-07-25T12:33:09.000000Z
 release_id: "15638649"

@@ -1,6 +1,7 @@
 ---
 title: "Eagles - To The Limit - The Essential Collection"
-artist: "Eagles"
+artist_name: "Eagles"
+artist: "eagles"
 album_name: "To The Limit - The Essential Collection"
 date: 2024-04-25T05:48:36.000000Z
 release_id: "30426416"

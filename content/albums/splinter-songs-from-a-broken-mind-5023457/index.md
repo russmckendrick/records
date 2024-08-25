@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Splinter (Songs From A Broken Mind)"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Splinter (Songs From A Broken Mind)"
 date: 2017-02-24T19:44:52.000000Z
 release_id: "5023457"

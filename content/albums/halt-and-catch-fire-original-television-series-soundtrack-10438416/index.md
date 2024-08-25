@@ -1,6 +1,7 @@
 ---
 title: "Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)"
-artist: "Paul Haslinger"
+artist_name: "Paul Haslinger"
+artist: "paul-haslinger"
 album_name: "Halt And Catch Fire (Original Television Series Soundtrack)"
 date: 2017-07-01T11:17:09.000000Z
 release_id: "10438416"

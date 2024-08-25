@@ -1,6 +1,7 @@
 ---
 title: "James - All The Colours Of You"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "All The Colours Of You"
 date: 2021-06-04T04:20:12.000000Z
 release_id: "18997504"

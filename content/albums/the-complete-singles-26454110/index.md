@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - The Complete Singles"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "The Complete Singles"
 date: 2023-03-20T05:45:50.000000Z
 release_id: "26454110"

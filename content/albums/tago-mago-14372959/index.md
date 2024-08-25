@@ -1,6 +1,7 @@
 ---
 title: "Can - Tago Mago"
-artist: "Can"
+artist_name: "Can"
+artist: "can"
 album_name: "Tago Mago"
 date: 2019-11-09T07:34:00.000000Z
 release_id: "14372959"

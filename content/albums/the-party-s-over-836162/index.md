@@ -1,6 +1,7 @@
 ---
 title: "Talk Talk - The Party's Over"
-artist: "Talk Talk"
+artist_name: "Talk Talk"
+artist: "talk-talk"
 album_name: "The Party's Over"
 date: 2016-10-14T12:58:46.000000Z
 release_id: "836162"

@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Houses Of The Holy"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Houses Of The Holy"
 date: 2017-02-26T10:56:57.000000Z
 release_date: "1973-03-28"

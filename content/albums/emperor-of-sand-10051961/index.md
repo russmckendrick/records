@@ -1,6 +1,7 @@
 ---
 title: "Mastodon - Emperor Of Sand"
-artist: "Mastodon"
+artist_name: "Mastodon"
+artist: "mastodon"
 album_name: "Emperor Of Sand"
 date: 2017-04-02T12:57:37.000000Z
 release_date: "2017-03-31"

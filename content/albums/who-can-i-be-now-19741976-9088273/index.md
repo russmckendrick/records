@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Who Can I Be Now? [ 1974–1976 ]"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Who Can I Be Now? [ 1974–1976 ]"
 date: 2016-09-23T16:25:51.000000Z
 release_id: "9088273"

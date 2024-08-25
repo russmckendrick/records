@@ -1,6 +1,7 @@
 ---
 title: "Explosions In The Sky - How Strange, Innocence"
-artist: "Explosions In The Sky"
+artist_name: "Explosions In The Sky"
+artist: "explosions-in-the-sky"
 album_name: "How Strange, Innocence"
 date: 2019-08-16T17:14:49.000000Z
 release_id: "13992889"

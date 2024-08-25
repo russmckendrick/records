@@ -1,6 +1,7 @@
 ---
 title: "Jethro Tull - Stormwatch"
-artist: "Jethro Tull"
+artist_name: "Jethro Tull"
+artist: "jethro-tull"
 album_name: "Stormwatch"
 date: 2020-04-23T11:51:21.000000Z
 release_id: "14968787"

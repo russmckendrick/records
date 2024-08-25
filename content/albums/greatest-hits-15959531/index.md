@@ -1,6 +1,7 @@
 ---
 title: "Guns N' Roses - Greatest Hits"
-artist: "Guns N' Roses"
+artist_name: "Guns N' Roses"
+artist: "guns-n-roses"
 album_name: "Greatest Hits"
 date: 2020-10-27T13:37:34.000000Z
 release_id: "15959531"

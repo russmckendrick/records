@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Gaucho"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Gaucho"
 date: 2023-12-05T10:34:56.000000Z
 release_date: "1980-11-21"

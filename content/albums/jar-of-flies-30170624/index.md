@@ -1,6 +1,7 @@
 ---
 title: "Alice In Chains - Jar Of Flies"
-artist: "Alice In Chains"
+artist_name: "Alice In Chains"
+artist: "alice-in-chains"
 album_name: "Jar Of Flies"
 date: 2024-03-29T07:19:51.000000Z
 release_date: "1994-01-25"

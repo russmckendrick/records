@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Heathen"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Heathen"
 date: 2015-10-28T18:50:59.000000Z
 release_id: "3285687"

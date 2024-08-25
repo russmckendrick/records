@@ -1,6 +1,7 @@
 ---
 title: "The Wedding Present - Bizarro"
-artist: "The Wedding Present"
+artist_name: "The Wedding Present"
+artist: "the-wedding-present"
 album_name: "Bizarro"
 date: 2020-10-11T08:09:26.000000Z
 release_id: "16038548"

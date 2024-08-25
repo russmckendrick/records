@@ -1,6 +1,7 @@
 ---
 title: "Garbage - Version 2.0"
-artist: "Garbage"
+artist_name: "Garbage"
+artist: "garbage"
 album_name: "Version 2.0"
 date: 2019-01-12T12:24:17.000000Z
 release_id: "12156178"

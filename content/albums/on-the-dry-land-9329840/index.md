@@ -1,6 +1,7 @@
 ---
 title: "The Sea Nymphs - On The Dry Land"
-artist: "The Sea Nymphs"
+artist_name: "The Sea Nymphs"
+artist: "the-sea-nymphs"
 album_name: "On The Dry Land"
 date: 2016-11-09T20:12:25.000000Z
 release_id: "9329840"

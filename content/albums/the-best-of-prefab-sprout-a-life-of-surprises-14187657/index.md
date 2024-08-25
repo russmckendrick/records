@@ -1,6 +1,7 @@
 ---
 title: "Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises"
-artist: "Prefab Sprout"
+artist_name: "Prefab Sprout"
+artist: "prefab-sprout"
 album_name: "The Best Of Prefab Sprout: A Life Of Surprises"
 date: 2019-09-27T15:39:46.000000Z
 release_id: "14187657"

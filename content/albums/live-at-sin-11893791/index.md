@@ -1,6 +1,7 @@
 ---
 title: "Jeff Buckley - Live At Sin-é"
-artist: "Jeff Buckley"
+artist_name: "Jeff Buckley"
+artist: "jeff-buckley"
 album_name: "Live At Sin-é"
 date: 2018-04-21T11:03:08.000000Z
 release_id: "11893791"

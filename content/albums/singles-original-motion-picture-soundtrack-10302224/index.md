@@ -1,6 +1,7 @@
 ---
 title: "Various - Singles (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Singles (Original Motion Picture Soundtrack)"
 date: 2017-05-19T08:39:36.000000Z
 release_id: "10302224"

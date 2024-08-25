@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - Build Seas, Dismantle Suns"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "Build Seas, Dismantle Suns"
 date: 2015-09-01T17:52:38.000000Z
 release_id: "6315084"

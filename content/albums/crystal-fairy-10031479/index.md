@@ -1,6 +1,7 @@
 ---
 title: "Crystal Fairy - Crystal Fairy"
-artist: "Crystal Fairy"
+artist_name: "Crystal Fairy"
+artist: "crystal-fairy"
 album_name: "Crystal Fairy"
 date: 2017-04-11T17:18:59.000000Z
 release_date: "2017-02-24"

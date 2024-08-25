@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Hello Nasty"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Hello Nasty"
 date: 2020-07-20T12:12:34.000000Z
 release_date: "1998-07-14"

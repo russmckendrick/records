@@ -1,6 +1,7 @@
 ---
 title: "Tangerine Dream - Rubycon"
-artist: "Tangerine Dream"
+artist_name: "Tangerine Dream"
+artist: "tangerine-dream"
 album_name: "Rubycon"
 date: 2018-10-24T11:41:07.000000Z
 release_id: "3077549"

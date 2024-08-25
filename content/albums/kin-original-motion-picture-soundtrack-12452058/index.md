@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Kin (Original Motion Picture Soundtrack)"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Kin (Original Motion Picture Soundtrack)"
 date: 2018-09-03T17:51:16.000000Z
 release_id: "12452058"

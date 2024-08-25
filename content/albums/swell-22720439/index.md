@@ -1,6 +1,7 @@
 ---
 title: "Sel Balamir - Swell"
-artist: "Sel Balamir"
+artist_name: "Sel Balamir"
+artist: "sel-balamir"
 album_name: "Swell"
 date: 2022-04-01T04:47:24.000000Z
 release_id: "22720439"

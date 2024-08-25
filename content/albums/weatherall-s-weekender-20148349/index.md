@@ -1,6 +1,7 @@
 ---
 title: "Flowered Up - Weatherall's Weekender"
-artist: "Flowered Up"
+artist_name: "Flowered Up"
+artist: "flowered-up"
 album_name: "Weatherall's Weekender"
 date: 2021-09-09T09:29:05.000000Z
 release_id: "20148349"

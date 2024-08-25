@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Replicas (The First Recordings)"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Replicas (The First Recordings)"
 date: 2019-10-12T16:05:13.000000Z
 release_id: "14258114"

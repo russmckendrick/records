@@ -1,6 +1,7 @@
 ---
 title: "Clint Mansell - Requiem For A Dream"
-artist: "Clint Mansell"
+artist_name: "Clint Mansell"
+artist: "clint-mansell"
 album_name: "Requiem For A Dream"
 date: 2016-07-25T16:20:45.000000Z
 release_id: "8384112"

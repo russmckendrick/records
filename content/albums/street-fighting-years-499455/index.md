@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - Street Fighting Years"
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "Street Fighting Years"
 date: 2016-04-25T21:08:38.000000Z
 release_id: "499455"

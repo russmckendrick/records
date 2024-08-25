@@ -1,6 +1,7 @@
 ---
 title: "White Town - Women In Technology"
-artist: "White Town"
+artist_name: "White Town"
+artist: "white-town"
 album_name: "Women In Technology"
 date: 2023-04-23T04:34:51.000000Z
 release_id: "26830184"

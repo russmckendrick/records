@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Trompe Le Monde"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Trompe Le Monde"
 date: 2021-09-24T04:03:53.000000Z
 release_id: "20199340"

@@ -1,6 +1,7 @@
 ---
 title: "Katatonia - Sky Void Of Stars"
-artist: "Katatonia"
+artist_name: "Katatonia"
+artist: "katatonia"
 album_name: "Sky Void Of Stars"
 date: 2023-01-21T02:12:50.000000Z
 release_date: "2023-01-20"

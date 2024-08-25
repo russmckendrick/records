@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Monuments To An Elegy"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Monuments To An Elegy"
 date: 2015-08-09T08:30:15.000000Z
 release_id: "6395947"

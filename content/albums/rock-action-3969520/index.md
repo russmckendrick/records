@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Rock Action"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Rock Action"
 date: 2022-05-17T07:06:08.000000Z
 release_id: "3969520"

@@ -1,6 +1,7 @@
 ---
 title: "Tangerine Dream - Raum"
-artist: "Tangerine Dream"
+artist_name: "Tangerine Dream"
+artist: "tangerine-dream"
 album_name: "Raum"
 date: 2022-02-28T12:27:43.000000Z
 release_id: "22300372"

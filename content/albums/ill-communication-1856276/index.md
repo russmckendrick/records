@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Ill Communication"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Ill Communication"
 date: 2016-04-30T15:21:14.000000Z
 release_date: "1994-05-31"

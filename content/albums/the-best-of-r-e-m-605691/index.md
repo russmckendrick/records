@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - The Best Of R.E.M."
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "The Best Of R.E.M."
 date: 2018-11-29T12:43:43.000000Z
 release_id: "605691"

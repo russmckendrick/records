@@ -1,6 +1,7 @@
 ---
 title: "Emiliana Torrini - Miss Flower"
-artist: "Emiliana Torrini"
+artist_name: "Emiliana Torrini"
+artist: "emiliana-torrini"
 album_name: "Miss Flower"
 date: 2024-07-16T05:09:07.000000Z
 release_id: "31020979"

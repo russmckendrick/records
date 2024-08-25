@@ -1,6 +1,7 @@
 ---
 title: "Sparks - The Girl Is Crying In Her Latte"
-artist: "Sparks"
+artist_name: "Sparks"
+artist: "sparks"
 album_name: "The Girl Is Crying In Her Latte"
 date: 2023-06-02T05:02:51.000000Z
 release_date: "2023-05-26"

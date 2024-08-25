@@ -1,6 +1,7 @@
 ---
 title: "Wishbone Ash - Argus"
-artist: "Wishbone Ash"
+artist_name: "Wishbone Ash"
+artist: "wishbone-ash"
 album_name: "Argus"
 date: 2017-06-01T18:07:52.000000Z
 release_id: "8668871"

@@ -1,6 +1,7 @@
 ---
 title: "Tim Bowness - Lost In The Ghost Light"
-artist: "Tim Bowness"
+artist_name: "Tim Bowness"
+artist: "tim-bowness"
 album_name: "Lost In The Ghost Light"
 date: 2017-02-18T11:14:07.000000Z
 release_id: "9852036"

@@ -1,6 +1,7 @@
 ---
 title: "Midas Fall - Evaporate"
-artist: "Midas Fall"
+artist_name: "Midas Fall"
+artist: "midas-fall"
 album_name: "Evaporate"
 date: 2018-05-14T09:17:13.000000Z
 release_id: "11947803"

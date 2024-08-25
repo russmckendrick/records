@@ -1,6 +1,7 @@
 ---
 title: "Gong - Pulsing Signals"
-artist: "Gong"
+artist_name: "Gong"
+artist: "gong"
 album_name: "Pulsing Signals"
 date: 2022-03-25T13:25:44.000000Z
 release_id: "22602818"

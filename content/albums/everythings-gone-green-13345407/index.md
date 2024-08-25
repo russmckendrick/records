@@ -1,6 +1,7 @@
 ---
 title: "New Order - Everythings Gone Green"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Everythings Gone Green"
 date: 2019-03-15T20:43:21.000000Z
 release_id: "13345407"

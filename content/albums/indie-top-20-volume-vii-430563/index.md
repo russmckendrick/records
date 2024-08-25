@@ -1,6 +1,7 @@
 ---
 title: "Various - Indie Top 20 Volume VII"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Indie Top 20 Volume VII"
 date: 2016-11-16T13:03:18.000000Z
 release_id: "430563"

@@ -1,6 +1,7 @@
 ---
 title: "Suede - Love & Poison (Live At The Brixton Academy, 16th May 1993)"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Love & Poison (Live At The Brixton Academy, 16th May 1993)"
 date: 2021-06-18T04:51:34.000000Z
 release_id: "19107601"

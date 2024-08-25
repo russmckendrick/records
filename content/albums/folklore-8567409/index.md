@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Folklore"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Folklore"
 date: 2016-05-25T18:46:18.000000Z
 release_id: "8567409"

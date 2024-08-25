@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Actually"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Actually"
 date: 2018-03-03T10:30:55.000000Z
 release_id: "11648940"

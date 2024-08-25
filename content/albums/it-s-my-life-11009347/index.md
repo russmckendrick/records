@@ -1,6 +1,7 @@
 ---
 title: "Talk Talk - It's My Life"
-artist: "Talk Talk"
+artist_name: "Talk Talk"
+artist: "talk-talk"
 album_name: "It's My Life"
 date: 2017-11-04T16:14:39.000000Z
 release_date: "1984-02-13"

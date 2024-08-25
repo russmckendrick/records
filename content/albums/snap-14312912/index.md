@@ -1,6 +1,7 @@
 ---
 title: "The Jam - Snap!"
-artist: "The Jam"
+artist_name: "The Jam"
+artist: "the-jam"
 album_name: "Snap!"
 date: 2019-10-25T19:04:17.000000Z
 release_id: "14312912"

@@ -1,6 +1,7 @@
 ---
 title: "Justin Townes Earle - Midnight At The Movies"
-artist: "Justin Townes Earle"
+artist_name: "Justin Townes Earle"
+artist: "justin-townes-earle"
 album_name: "Midnight At The Movies"
 date: 2015-12-30T18:49:29.000000Z
 release_id: "2414977"

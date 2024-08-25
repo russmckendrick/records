@@ -1,6 +1,7 @@
 ---
 title: "Pure Reason Revolution - Hammer And Anvil"
-artist: "Pure Reason Revolution"
+artist_name: "Pure Reason Revolution"
+artist: "pure-reason-revolution"
 album_name: "Hammer And Anvil"
 date: 2022-09-09T03:31:47.000000Z
 release_id: "24455267"

@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - The Real Thing"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "The Real Thing"
 date: 2020-11-04T11:53:35.000000Z
 release_id: "16034532"

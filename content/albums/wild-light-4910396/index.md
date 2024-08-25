@@ -1,5 +1,6 @@
 ---
 title: "65daysofstatic - Wild Light"
+artist_name: "65daysofstatic"
 artist: "65daysofstatic"
 album_name: "Wild Light"
 date: 2015-09-25T17:24:57.000000Z

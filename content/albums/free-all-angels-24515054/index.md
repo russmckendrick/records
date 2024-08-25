@@ -1,6 +1,7 @@
 ---
 title: "Ash - Free All Angels"
-artist: "Ash"
+artist_name: "Ash"
+artist: "ash"
 album_name: "Free All Angels"
 date: 2022-09-16T09:28:53.000000Z
 release_id: "24515054"

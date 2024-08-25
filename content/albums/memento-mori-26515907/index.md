@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Memento Mori"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Memento Mori"
 date: 2023-04-03T04:25:46.000000Z
 release_date: "2023-03-24"

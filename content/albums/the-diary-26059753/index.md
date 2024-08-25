@@ -1,6 +1,7 @@
 ---
 title: "The Gentle Storm - The Diary"
-artist: "The Gentle Storm"
+artist_name: "The Gentle Storm"
+artist: "the-gentle-storm"
 album_name: "The Diary"
 date: 2023-02-11T08:07:00.000000Z
 release_id: "26059753"

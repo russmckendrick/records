@@ -1,6 +1,7 @@
 ---
 title: "Son Little - Aloha"
-artist: "Son Little"
+artist_name: "Son Little"
+artist: "son-little"
 album_name: "Aloha"
 date: 2020-02-07T18:46:04.000000Z
 release_date: "2020-01-31"

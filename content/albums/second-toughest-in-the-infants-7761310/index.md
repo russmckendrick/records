@@ -1,6 +1,7 @@
 ---
 title: "Underworld - Second Toughest In The Infants"
-artist: "Underworld"
+artist_name: "Underworld"
+artist: "underworld"
 album_name: "Second Toughest In The Infants"
 date: 2016-11-24T18:43:44.000000Z
 release_date: "2015-11-13"

@@ -1,6 +1,7 @@
 ---
 title: "XTC - Black Sea"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Black Sea"
 date: 2019-10-05T15:32:02.000000Z
 release_date: "1980-09-12"

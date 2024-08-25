@@ -1,6 +1,7 @@
 ---
 title: "The Mighty Mighty Bosstones - When God Was Great"
-artist: "The Mighty Mighty Bosstones"
+artist_name: "The Mighty Mighty Bosstones"
+artist: "the-mighty-mighty-bosstones"
 album_name: "When God Was Great"
 date: 2021-05-07T05:03:35.000000Z
 release_id: "18610117"

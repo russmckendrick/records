@@ -1,6 +1,7 @@
 ---
 title: "Death In Vegas - Dead Elvis"
-artist: "Death In Vegas"
+artist_name: "Death In Vegas"
+artist: "death-in-vegas"
 album_name: "Dead Elvis"
 date: 2024-02-21T10:36:50.000000Z
 release_id: "29816716"

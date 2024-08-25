@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Ultra"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Ultra"
 date: 2017-02-10T17:47:12.000000Z
 release_id: "9798755"

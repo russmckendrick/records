@@ -1,6 +1,7 @@
 ---
 title: "Fun Boy Three - Waiting"
-artist: "Fun Boy Three"
+artist_name: "Fun Boy Three"
+artist: "fun-boy-three"
 album_name: "Waiting"
 date: 2023-08-09T01:30:13.000000Z
 release_id: "27873642"

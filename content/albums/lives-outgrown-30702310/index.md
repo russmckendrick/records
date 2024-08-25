@@ -1,6 +1,7 @@
 ---
 title: "Beth Gibbons - Lives Outgrown"
-artist: "Beth Gibbons"
+artist_name: "Beth Gibbons"
+artist: "beth-gibbons"
 album_name: "Lives Outgrown"
 date: 2024-05-18T05:26:57.000000Z
 release_id: "30702310"

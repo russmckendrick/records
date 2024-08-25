@@ -1,6 +1,7 @@
 ---
 title: "Cocteau Twins - Stars And Topsoil A Collection (1982-1990)"
-artist: "Cocteau Twins"
+artist_name: "Cocteau Twins"
+artist: "cocteau-twins"
 album_name: "Stars And Topsoil A Collection (1982-1990)"
 date: 2021-03-10T08:46:02.000000Z
 release_date: "2000-10-16"

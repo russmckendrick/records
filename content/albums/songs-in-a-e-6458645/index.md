@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Songs In A&E"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Songs In A&E"
 date: 2021-11-24T09:53:23.000000Z
 release_id: "6458645"

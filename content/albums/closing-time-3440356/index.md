@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Closing Time"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Closing Time"
 date: 2015-08-09T08:52:25.000000Z
 release_id: "3440356"

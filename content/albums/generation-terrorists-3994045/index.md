@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Generation Terrorists"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Generation Terrorists"
 date: 2018-11-05T19:07:55.000000Z
 release_id: "3994045"

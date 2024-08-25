@@ -1,6 +1,7 @@
 ---
 title: "Ghost - Prequelle"
-artist: "Ghost"
+artist_name: "Ghost"
+artist: "ghost"
 album_name: "Prequelle"
 date: 2018-06-15T10:57:11.000000Z
 release_date: "2018-06-01"

@@ -1,6 +1,7 @@
 ---
 title: "John Shuttleworth - The Yamaha Years"
-artist: "John Shuttleworth"
+artist_name: "John Shuttleworth"
+artist: "john-shuttleworth"
 album_name: "The Yamaha Years"
 date: 2016-12-19T17:45:05.000000Z
 release_id: "7453474"

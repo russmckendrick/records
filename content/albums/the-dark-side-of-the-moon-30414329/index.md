@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Dark Side Of The Moon"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon"
 date: 2024-05-04T05:11:09.000000Z
 release_id: "30414329"

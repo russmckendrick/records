@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - The Small Hours"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "The Small Hours"
 date: 2016-09-27T16:15:26.000000Z
 release_id: "9112372"

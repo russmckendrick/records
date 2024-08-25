@@ -1,6 +1,7 @@
 ---
 title: "St. Vincent - Actor"
-artist: "St. Vincent"
+artist_name: "St. Vincent"
+artist: "st-vincent"
 album_name: "Actor"
 date: 2023-10-14T02:09:13.000000Z
 release_date: "2009-05-04"

@@ -1,6 +1,7 @@
 ---
 title: "The Beach Boys - Pet Sounds"
-artist: "The Beach Boys"
+artist_name: "The Beach Boys"
+artist: "the-beach-boys"
 album_name: "Pet Sounds"
 date: 2019-08-05T17:25:41.000000Z
 release_date: "1966-05-16"

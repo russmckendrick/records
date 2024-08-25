@@ -1,6 +1,7 @@
 ---
 title: "Gwenno - Le Kov"
-artist: "Gwenno"
+artist_name: "Gwenno"
+artist: "gwenno"
 album_name: "Le Kov"
 date: 2018-10-22T18:33:11.000000Z
 release_id: "11638501"

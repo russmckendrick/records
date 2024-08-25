@@ -1,6 +1,7 @@
 ---
 title: "The Slackers - Peculiar"
-artist: "The Slackers"
+artist_name: "The Slackers"
+artist: "the-slackers"
 album_name: "Peculiar"
 date: 2019-06-11T17:48:00.000000Z
 release_id: "13689689"

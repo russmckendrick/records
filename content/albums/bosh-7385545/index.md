@@ -1,6 +1,7 @@
 ---
 title: "Cleft - Bosh!"
-artist: "Cleft"
+artist_name: "Cleft"
+artist: "cleft"
 album_name: "Bosh!"
 date: 2015-09-22T17:41:46.000000Z
 release_id: "7385545"

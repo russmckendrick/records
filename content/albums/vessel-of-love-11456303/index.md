@@ -1,6 +1,7 @@
 ---
 title: "Hollie Cook - Vessel of Love"
-artist: "Hollie Cook"
+artist_name: "Hollie Cook"
+artist: "hollie-cook"
 album_name: "Vessel of Love"
 date: 2018-02-08T18:57:06.000000Z
 release_id: "11456303"

@@ -1,6 +1,7 @@
 ---
 title: "Booker T & The MG's - Green Onions"
-artist: "Booker T & The MG's"
+artist_name: "Booker T & The MG's"
+artist: "booker-t-the-mg-s"
 album_name: "Green Onions"
 date: 2017-05-12T18:25:56.000000Z
 release_id: "7877126"

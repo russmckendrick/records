@@ -1,6 +1,7 @@
 ---
 title: "Sweet Billy Pilgrim - Motorcade Amnesiacs"
-artist: "Sweet Billy Pilgrim"
+artist_name: "Sweet Billy Pilgrim"
+artist: "sweet-billy-pilgrim"
 album_name: "Motorcade Amnesiacs"
 date: 2015-08-09T08:51:03.000000Z
 release_id: "7049817"

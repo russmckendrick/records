@@ -1,6 +1,7 @@
 ---
 title: "Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
-artist: "Doctor Who"
+artist_name: "Doctor Who"
+artist: "doctor-who"
 album_name: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
 date: 2017-04-23T12:07:40.000000Z
 release_id: "10173664"

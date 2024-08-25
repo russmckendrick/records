@@ -1,6 +1,7 @@
 ---
 title: "Tori Amos - Under The Pink"
-artist: "Tori Amos"
+artist_name: "Tori Amos"
+artist: "tori-amos"
 album_name: "Under The Pink"
 date: 2023-05-21T05:55:51.000000Z
 release_id: "19520113"

@@ -1,6 +1,7 @@
 ---
 title: "Kim Gordon - No Home Record"
-artist: "Kim Gordon"
+artist_name: "Kim Gordon"
+artist: "kim-gordon"
 album_name: "No Home Record"
 date: 2019-10-11T14:37:42.000000Z
 release_date: "2019-10-11"

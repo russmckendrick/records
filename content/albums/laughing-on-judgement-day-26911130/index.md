@@ -1,6 +1,7 @@
 ---
 title: "Thunder - Laughing On Judgement Day"
-artist: "Thunder"
+artist_name: "Thunder"
+artist: "thunder"
 album_name: "Laughing On Judgement Day"
 date: 2023-04-29T11:43:38.000000Z
 release_id: "26911130"

@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - A Reality Tour"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "A Reality Tour"
 date: 2016-10-14T19:19:48.000000Z
 release_id: "9195108"

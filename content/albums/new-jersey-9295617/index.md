@@ -1,6 +1,7 @@
 ---
 title: "Bon Jovi - New Jersey"
-artist: "Bon Jovi"
+artist_name: "Bon Jovi"
+artist: "bon-jovi"
 album_name: "New Jersey"
 date: 2018-06-13T17:27:30.000000Z
 release_id: "9295617"

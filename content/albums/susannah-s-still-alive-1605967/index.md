@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Susannah's Still Alive"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Susannah's Still Alive"
 date: 2017-04-28T14:35:43.000000Z
 release_id: "1605967"

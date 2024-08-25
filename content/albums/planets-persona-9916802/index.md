@@ -1,6 +1,7 @@
 ---
 title: "Richard Barbieri - Planets + Persona"
-artist: "Richard Barbieri"
+artist_name: "Richard Barbieri"
+artist: "richard-barbieri"
 album_name: "Planets + Persona"
 date: 2017-03-25T14:27:53.000000Z
 release_id: "9916802"

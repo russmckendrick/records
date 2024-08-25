@@ -1,6 +1,7 @@
 ---
 title: "Billy Bragg - The Roaring Forty | 1983-2023"
-artist: "Billy Bragg"
+artist_name: "Billy Bragg"
+artist: "billy-bragg"
 album_name: "The Roaring Forty | 1983-2023"
 date: 2023-10-31T11:17:33.000000Z
 release_id: "28738012"

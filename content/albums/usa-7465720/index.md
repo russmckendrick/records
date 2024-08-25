@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - USA"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "USA"
 date: 2015-09-15T08:04:54.000000Z
 release_date: "1969-10-10"

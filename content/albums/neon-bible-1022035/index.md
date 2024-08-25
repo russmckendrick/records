@@ -1,6 +1,7 @@
 ---
 title: "Arcade Fire - Neon Bible"
-artist: "Arcade Fire"
+artist_name: "Arcade Fire"
+artist: "arcade-fire"
 album_name: "Neon Bible"
 date: 2018-01-26T20:03:56.000000Z
 release_date: "2007-03-02"

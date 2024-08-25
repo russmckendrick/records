@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - No Plan EP"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "No Plan EP"
 date: 2017-04-22T10:01:51.000000Z
 release_date: "2017-01-08"

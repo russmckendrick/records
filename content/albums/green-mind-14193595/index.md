@@ -1,6 +1,7 @@
 ---
 title: "Dinosaur Jr. - Green Mind"
-artist: "Dinosaur Jr."
+artist_name: "Dinosaur Jr."
+artist: "dinosaur-jr"
 album_name: "Green Mind"
 date: 2019-12-05T18:05:49.000000Z
 release_id: "14193595"

@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen & The E-Street Band - Hammersmith Odeon, London '75"
-artist: "Bruce Springsteen & The E-Street Band"
+artist_name: "Bruce Springsteen & The E-Street Band"
+artist: "bruce-springsteen-the-e-street-band"
 album_name: "Hammersmith Odeon, London '75"
 date: 2017-06-30T17:50:31.000000Z
 release_id: "10498779"

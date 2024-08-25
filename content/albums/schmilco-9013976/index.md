@@ -1,6 +1,7 @@
 ---
 title: "Wilco - Schmilco"
-artist: "Wilco"
+artist_name: "Wilco"
+artist: "wilco"
 album_name: "Schmilco"
 date: 2016-09-13T16:31:14.000000Z
 release_date: "2016-09-06"

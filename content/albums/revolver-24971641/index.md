@@ -1,6 +1,7 @@
 ---
 title: "The Beatles - Revolver"
-artist: "The Beatles"
+artist_name: "The Beatles"
+artist: "the-beatles"
 album_name: "Revolver"
 date: 2023-08-19T10:38:53.000000Z
 release_date: "1966-08-05"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Hackers (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Hackers (Original Motion Picture Soundtrack)"
 date: 2020-09-29T11:56:37.000000Z
 release_id: "15928841"

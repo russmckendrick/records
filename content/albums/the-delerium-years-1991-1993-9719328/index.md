@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - The Delerium Years 1991-1993"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "The Delerium Years 1991-1993"
 date: 2017-01-27T19:38:46.000000Z
 release_id: "9719328"

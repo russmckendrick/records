@@ -1,6 +1,7 @@
 ---
 title: "Genesis - The Last Domino?"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "The Last Domino?"
 date: 2021-09-17T06:09:19.000000Z
 release_id: "20264347"

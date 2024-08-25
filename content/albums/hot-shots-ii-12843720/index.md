@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - Hot Shots II"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "Hot Shots II"
 date: 2018-11-28T09:50:11.000000Z
 release_id: "12843720"

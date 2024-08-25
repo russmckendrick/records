@@ -1,6 +1,7 @@
 ---
 title: "Nadia Reid - Preservation"
-artist: "Nadia Reid"
+artist_name: "Nadia Reid"
+artist: "nadia-reid"
 album_name: "Preservation"
 date: 2017-03-11T12:34:17.000000Z
 release_id: "9938964"

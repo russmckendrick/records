@@ -1,6 +1,7 @@
 ---
 title: "Paul Weller - An Orchestrated Songbook"
-artist: "Paul Weller"
+artist_name: "Paul Weller"
+artist: "paul-weller"
 album_name: "An Orchestrated Songbook"
 date: 2023-02-11T08:07:31.000000Z
 release_id: "21286225"

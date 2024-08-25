@@ -1,6 +1,7 @@
 ---
 title: "This Town Needs Guns - Disappointment Island"
-artist: "This Town Needs Guns"
+artist_name: "This Town Needs Guns"
+artist: "this-town-needs-guns"
 album_name: "Disappointment Island"
 date: 2016-08-30T16:04:51.000000Z
 release_id: "8745073"

@@ -1,6 +1,7 @@
 ---
 title: "Madness - Theatre Of The Absurd Presents C’est La Vie"
-artist: "Madness"
+artist_name: "Madness"
+artist: "madness"
 album_name: "Theatre Of The Absurd Presents C’est La Vie"
 date: 2023-11-21T10:25:26.000000Z
 release_id: "28943908"

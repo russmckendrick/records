@@ -1,6 +1,7 @@
 ---
 title: "John Grant - Grey Tickles, Black Pressure"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "Grey Tickles, Black Pressure"
 date: 2015-10-09T17:01:43.000000Z
 release_date: "2015-10-09"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Tank Girl - Original Soundtrack From The United Artists Film"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Tank Girl - Original Soundtrack From The United Artists Film"
 date: 2018-04-10T15:19:26.000000Z
 release_id: "11824886"

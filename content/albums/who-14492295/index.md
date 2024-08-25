@@ -1,6 +1,7 @@
 ---
 title: "The Who - Who"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "Who"
 date: 2019-12-11T18:40:10.000000Z
 release_id: "14492295"

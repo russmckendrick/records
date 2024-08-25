@@ -1,6 +1,7 @@
 ---
 title: "Nathaniel Merriweather - Music To Make Love To Your Old Lady By"
-artist: "Nathaniel Merriweather"
+artist_name: "Nathaniel Merriweather"
+artist: "nathaniel-merriweather"
 album_name: "Music To Make Love To Your Old Lady By"
 date: 2022-07-26T04:06:25.000000Z
 release_id: "23894969"

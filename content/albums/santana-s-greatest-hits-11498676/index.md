@@ -1,6 +1,7 @@
 ---
 title: "Santana - Santana's Greatest Hits"
-artist: "Santana"
+artist_name: "Santana"
+artist: "santana"
 album_name: "Santana's Greatest Hits"
 date: 2018-02-08T18:31:29.000000Z
 release_id: "11498676"

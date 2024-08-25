@@ -1,6 +1,7 @@
 ---
 title: "Silver Sun - ‘B’ is for Silver Sun"
-artist: "Silver Sun"
+artist_name: "Silver Sun"
+artist: "silver-sun"
 album_name: "‘B’ is for Silver Sun"
 date: 2023-11-07T05:58:03.000000Z
 release_id: "27539988"

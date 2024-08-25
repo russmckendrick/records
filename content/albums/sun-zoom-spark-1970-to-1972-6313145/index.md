@@ -1,6 +1,7 @@
 ---
 title: "Captain Beefheart - Sun Zoom Spark: 1970 To 1972"
-artist: "Captain Beefheart"
+artist_name: "Captain Beefheart"
+artist: "captain-beefheart"
 album_name: "Sun Zoom Spark: 1970 To 1972"
 date: 2018-01-26T20:04:23.000000Z
 release_id: "6313145"

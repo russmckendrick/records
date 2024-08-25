@@ -1,6 +1,7 @@
 ---
 title: "Tacoma Narrows Bridge Disaster - The World Inside"
-artist: "Tacoma Narrows Bridge Disaster"
+artist_name: "Tacoma Narrows Bridge Disaster"
+artist: "tacoma-narrows-bridge-disaster"
 album_name: "The World Inside"
 date: 2021-10-18T05:16:39.000000Z
 release_id: "20584321"

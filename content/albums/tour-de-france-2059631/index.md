@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Tour De France"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Tour De France"
 date: 2017-04-25T08:35:33.000000Z
 release_id: "2059631"

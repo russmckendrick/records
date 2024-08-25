@@ -1,6 +1,7 @@
 ---
 title: "Moonparticle - Hurricane Esmeralda"
-artist: "Moonparticle"
+artist_name: "Moonparticle"
+artist: "moonparticle"
 album_name: "Hurricane Esmeralda"
 date: 2018-02-07T06:57:19.000000Z
 release_id: "11512973"

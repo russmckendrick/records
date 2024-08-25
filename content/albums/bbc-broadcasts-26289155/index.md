@@ -1,6 +1,7 @@
 ---
 title: "Genesis - BBC Broadcasts"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "BBC Broadcasts"
 date: 2023-03-04T10:11:00.000000Z
 release_id: "26289155"

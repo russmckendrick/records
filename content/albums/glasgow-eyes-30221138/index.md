@@ -1,6 +1,7 @@
 ---
 title: "The Jesus And Mary Chain - Glasgow Eyes"
-artist: "The Jesus And Mary Chain"
+artist_name: "The Jesus And Mary Chain"
+artist: "the-jesus-and-mary-chain"
 album_name: "Glasgow Eyes"
 date: 2024-03-29T07:20:15.000000Z
 release_date: "2024-03-22"

@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Led Zeppelin"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Led Zeppelin"
 date: 2017-02-26T10:57:15.000000Z
 release_date: "1971-11-08"

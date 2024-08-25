@@ -1,6 +1,7 @@
 ---
 title: "Ash - Teenage Wildlife: 25 Years Of Ash"
-artist: "Ash"
+artist_name: "Ash"
+artist: "ash"
 album_name: "Teenage Wildlife: 25 Years Of Ash"
 date: 2020-02-16T15:23:32.000000Z
 release_id: "14801136"

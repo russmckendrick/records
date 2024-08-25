@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Larks' Tongues In Aspic"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Larks' Tongues In Aspic"
 date: 2017-02-19T10:40:42.000000Z
 release_id: "9596844"

@@ -1,6 +1,7 @@
 ---
 title: "Sharon Jones & The Dap-Kings - I Learned The Hard Way"
-artist: "Sharon Jones & The Dap-Kings"
+artist_name: "Sharon Jones & The Dap-Kings"
+artist: "sharon-jones-the-dap-kings"
 album_name: "I Learned The Hard Way"
 date: 2017-02-11T19:53:42.000000Z
 release_id: "2214427"

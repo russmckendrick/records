@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Fuzzy Logic"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Fuzzy Logic"
 date: 2016-11-05T12:25:43.000000Z
 release_id: "9302863"

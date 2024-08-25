@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Sing To God"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Sing To God"
 date: 2016-03-03T18:17:05.000000Z
 release_id: "5915357"

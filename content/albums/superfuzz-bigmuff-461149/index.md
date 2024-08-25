@@ -1,6 +1,7 @@
 ---
 title: "Mudhoney - Superfuzz Bigmuff"
-artist: "Mudhoney"
+artist_name: "Mudhoney"
+artist: "mudhoney"
 album_name: "Superfuzz Bigmuff"
 date: 2019-08-23T14:14:24.000000Z
 release_id: "461149"

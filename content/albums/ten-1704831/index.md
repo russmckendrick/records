@@ -1,6 +1,7 @@
 ---
 title: "Pearl Jam - Ten"
-artist: "Pearl Jam"
+artist_name: "Pearl Jam"
+artist: "pearl-jam"
 album_name: "Ten"
 date: 2016-11-08T18:43:42.000000Z
 release_date: "1991-08-27"

@@ -1,6 +1,7 @@
 ---
 title: "And So I Watch You From Afar - Megafauna"
-artist: "And So I Watch You From Afar"
+artist_name: "And So I Watch You From Afar"
+artist: "and-so-i-watch-you-from-afar"
 album_name: "Megafauna"
 date: 2024-08-10T05:26:38.000000Z
 release_id: "31439801"

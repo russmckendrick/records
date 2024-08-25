@@ -1,6 +1,7 @@
 ---
 title: "Durand Jones & The Indications - Durand Jones & The Indications "
-artist: "Durand Jones & The Indications"
+artist_name: "Durand Jones & The Indications"
+artist: "durand-jones-the-indications"
 album_name: "Durand Jones & The Indications "
 date: 2018-03-20T12:54:29.000000Z
 release_id: "11718792"

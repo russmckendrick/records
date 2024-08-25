@@ -1,6 +1,7 @@
 ---
 title: "Tina Turner - Foreign Affair"
-artist: "Tina Turner"
+artist_name: "Tina Turner"
+artist: "tina-turner"
 album_name: "Foreign Affair"
 date: 2024-03-28T05:15:42.000000Z
 release_id: "19907068"

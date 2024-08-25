@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Tunnel Of Love"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Tunnel Of Love"
 date: 2015-09-11T18:02:25.000000Z
 release_id: "386066"

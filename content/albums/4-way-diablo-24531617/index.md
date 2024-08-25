@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - 4-Way Diablo"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "4-Way Diablo"
 date: 2022-09-24T04:01:55.000000Z
 release_id: "24531617"

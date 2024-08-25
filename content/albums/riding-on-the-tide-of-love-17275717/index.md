@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - Riding On The Tide Of Love"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "Riding On The Tide Of Love"
 date: 2022-02-15T06:06:04.000000Z
 release_id: "17275717"

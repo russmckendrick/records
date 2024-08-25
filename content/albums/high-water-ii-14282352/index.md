@@ -1,6 +1,7 @@
 ---
 title: "The Magpie Salute - High Water II"
-artist: "The Magpie Salute"
+artist_name: "The Magpie Salute"
+artist: "the-magpie-salute"
 album_name: "High Water II"
 date: 2019-11-16T20:16:26.000000Z
 release_id: "14282352"

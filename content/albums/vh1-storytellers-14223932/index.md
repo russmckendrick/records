@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - VH1 Storytellers"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "VH1 Storytellers"
 date: 2019-10-11T14:37:30.000000Z
 release_id: "14223932"

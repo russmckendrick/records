@@ -1,6 +1,7 @@
 ---
 title: "Black Midi - Cavalcade"
-artist: "Black Midi"
+artist_name: "Black Midi"
+artist: "black-midi"
 album_name: "Cavalcade"
 date: 2021-05-29T07:43:10.000000Z
 release_id: "18869488"

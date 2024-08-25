@@ -1,6 +1,7 @@
 ---
 title: "Blur - Parklife"
-artist: "Blur"
+artist_name: "Blur"
+artist: "blur"
 album_name: "Parklife"
 date: 2016-07-05T16:23:28.000000Z
 release_date: "1994-04-25"

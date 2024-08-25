@@ -1,6 +1,7 @@
 ---
 title: "Screaming Trees - Sweet Oblivion"
-artist: "Screaming Trees"
+artist_name: "Screaming Trees"
+artist: "screaming-trees"
 album_name: "Sweet Oblivion"
 date: 2017-10-05T17:54:41.000000Z
 release_id: "10844547"

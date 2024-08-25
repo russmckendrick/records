@@ -1,6 +1,7 @@
 ---
 title: "Bad Manners - Gosh It's..."
-artist: "Bad Manners"
+artist_name: "Bad Manners"
+artist: "bad-manners"
 album_name: "Gosh It's..."
 date: 2019-01-19T10:35:59.000000Z
 release_id: "2025569"

@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - Pablo Honey"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "Pablo Honey"
 date: 2016-07-15T17:16:11.000000Z
 release_date: "1993-02-22"

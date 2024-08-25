@@ -1,6 +1,7 @@
 ---
 title: "Emiliana Torrini - Fisherman's Woman"
-artist: "Emiliana Torrini"
+artist_name: "Emiliana Torrini"
+artist: "emiliana-torrini"
 album_name: "Fisherman's Woman"
 date: 2017-09-01T20:52:16.000000Z
 release_id: "10782134"

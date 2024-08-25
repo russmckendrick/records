@@ -1,6 +1,7 @@
 ---
 title: "Various - Tommy (Original Soundtrack Recording)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Tommy (Original Soundtrack Recording)"
 date: 2016-12-08T22:48:19.000000Z
 release_id: "546026"

@@ -1,6 +1,7 @@
 ---
 title: "New Fast Automatic Daffodils - Pigeonhole"
-artist: "New Fast Automatic Daffodils"
+artist_name: "New Fast Automatic Daffodils"
+artist: "new-fast-automatic-daffodils"
 album_name: "Pigeonhole"
 date: 2016-02-29T18:17:33.000000Z
 release_id: "3580224"

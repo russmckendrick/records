@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Octane Twisted"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Octane Twisted"
 date: 2021-04-16T02:37:47.000000Z
 release_id: "18252976"

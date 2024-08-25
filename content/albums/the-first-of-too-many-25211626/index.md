@@ -1,6 +1,7 @@
 ---
 title: "Senseless Things - The First Of Too Many "
-artist: "Senseless Things"
+artist_name: "Senseless Things"
+artist: "senseless-things"
 album_name: "The First Of Too Many "
 date: 2023-04-16T10:15:11.000000Z
 release_id: "25211626"

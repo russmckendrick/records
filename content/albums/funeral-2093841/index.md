@@ -1,6 +1,7 @@
 ---
 title: "Arcade Fire - Funeral"
-artist: "Arcade Fire"
+artist_name: "Arcade Fire"
+artist: "arcade-fire"
 album_name: "Funeral"
 date: 2016-02-14T11:10:06.000000Z
 release_date: "2004-09-14"

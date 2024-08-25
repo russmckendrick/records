@@ -1,6 +1,7 @@
 ---
 title: "Peter Frampton - Frampton Comes Alive!"
-artist: "Peter Frampton"
+artist_name: "Peter Frampton"
+artist: "peter-frampton"
 album_name: "Frampton Comes Alive!"
 date: 2019-01-05T11:38:49.000000Z
 release_date: "1976-01-06"

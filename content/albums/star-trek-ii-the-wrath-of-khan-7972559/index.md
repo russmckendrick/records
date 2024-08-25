@@ -1,6 +1,7 @@
 ---
 title: "James Horner - Star Trek II: The Wrath Of Khan"
-artist: "James Horner"
+artist_name: "James Horner"
+artist: "james-horner"
 album_name: "Star Trek II: The Wrath Of Khan"
 date: 2016-02-04T20:21:09.000000Z
 release_id: "7972559"

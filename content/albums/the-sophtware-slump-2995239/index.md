@@ -1,6 +1,7 @@
 ---
 title: "Grandaddy - The Sophtware Slump"
-artist: "Grandaddy"
+artist_name: "Grandaddy"
+artist: "grandaddy"
 album_name: "The Sophtware Slump"
 date: 2017-01-30T18:24:13.000000Z
 release_id: "2995239"

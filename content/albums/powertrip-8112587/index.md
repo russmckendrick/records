@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Powertrip"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Powertrip"
 date: 2016-07-10T09:50:06.000000Z
 release_date: "1998-01-01"

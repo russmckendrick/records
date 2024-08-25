@@ -1,6 +1,7 @@
 ---
 title: "New Order - Music Complete"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Music Complete"
 date: 2020-06-24T11:44:53.000000Z
 release_date: "2015-09-25"

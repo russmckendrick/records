@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Crowded House"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Crowded House"
 date: 2015-08-26T20:09:53.000000Z
 release_id: "2035236"

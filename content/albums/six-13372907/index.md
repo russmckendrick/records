@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Six"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Six"
 date: 2019-03-21T19:31:02.000000Z
 release_id: "13372907"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Dark Side Of The Moon (Live At Wembley 1974)"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon (Live At Wembley 1974)"
 date: 2023-03-24T06:22:53.000000Z
 release_id: "26503601"

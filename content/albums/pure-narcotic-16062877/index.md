@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Pure Narcotic"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Pure Narcotic"
 date: 2020-10-16T10:32:00.000000Z
 release_id: "16062877"

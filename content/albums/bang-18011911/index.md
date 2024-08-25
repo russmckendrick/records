@@ -1,6 +1,7 @@
 ---
 title: "World Party - Bang!"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Bang!"
 date: 2021-03-26T12:34:44.000000Z
 release_id: "18011911"

@@ -1,6 +1,7 @@
 ---
 title: "The Dears - Missiles"
-artist: "The Dears"
+artist_name: "The Dears"
+artist: "the-dears"
 album_name: "Missiles"
 date: 2018-11-26T19:24:47.000000Z
 release_id: "12677910"

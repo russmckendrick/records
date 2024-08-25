@@ -1,6 +1,7 @@
 ---
 title: "Dave Gahan - Angels & Ghosts"
-artist: "Dave Gahan"
+artist_name: "Dave Gahan"
+artist: "dave-gahan"
 album_name: "Angels & Ghosts"
 date: 2015-12-19T11:36:54.000000Z
 release_id: "7829894"

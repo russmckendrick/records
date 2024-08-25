@@ -1,6 +1,7 @@
 ---
 title: "Jon Hopkins - Music For Psychedelic Therapy"
-artist: "Jon Hopkins"
+artist_name: "Jon Hopkins"
+artist: "jon-hopkins"
 album_name: "Music For Psychedelic Therapy"
 date: 2022-03-28T02:43:39.000000Z
 release_id: "22482188"

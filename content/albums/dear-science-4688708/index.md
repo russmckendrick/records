@@ -1,6 +1,7 @@
 ---
 title: "TV On The Radio - Dear Science"
-artist: "TV On The Radio"
+artist_name: "TV On The Radio"
+artist: "tv-on-the-radio"
 album_name: "Dear Science"
 date: 2016-02-24T13:04:00.000000Z
 release_id: "4688708"

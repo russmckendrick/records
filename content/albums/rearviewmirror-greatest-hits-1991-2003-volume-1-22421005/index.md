@@ -1,6 +1,7 @@
 ---
 title: "Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 1)"
-artist: "Pearl Jam"
+artist_name: "Pearl Jam"
+artist: "pearl-jam"
 album_name: "Rearviewmirror (Greatest Hits 1991-2003: Volume 1)"
 date: 2022-03-19T05:54:49.000000Z
 release_id: "22421005"

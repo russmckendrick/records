@@ -1,6 +1,7 @@
 ---
 title: "The Soundtrack Of Our Lives - Welcome To The Infant Freebase"
-artist: "The Soundtrack Of Our Lives"
+artist_name: "The Soundtrack Of Our Lives"
+artist: "the-soundtrack-of-our-lives"
 album_name: "Welcome To The Infant Freebase"
 date: 2020-04-09T11:18:28.000000Z
 release_id: "15010459"

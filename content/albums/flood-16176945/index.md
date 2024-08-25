@@ -1,6 +1,7 @@
 ---
 title: "They Might Be Giants - Flood"
-artist: "They Might Be Giants"
+artist_name: "They Might Be Giants"
+artist: "they-might-be-giants"
 album_name: "Flood"
 date: 2020-11-13T11:44:20.000000Z
 release_date: "1990-01-15"

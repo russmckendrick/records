@@ -1,6 +1,7 @@
 ---
 title: "Easy Star All-Stars - Dubber Side Of The Moon"
-artist: "Easy Star All-Stars"
+artist_name: "Easy Star All-Stars"
+artist: "easy-star-all-stars"
 album_name: "Dubber Side Of The Moon"
 date: 2017-12-17T12:21:19.000000Z
 release_id: "6664281"

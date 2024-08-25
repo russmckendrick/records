@@ -1,6 +1,7 @@
 ---
 title: "The Beat - I Just Can't Stop It"
-artist: "The Beat"
+artist_name: "The Beat"
+artist: "the-beat"
 album_name: "I Just Can't Stop It"
 date: 2015-09-11T18:02:25.000000Z
 release_id: "3723205"

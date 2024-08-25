@@ -1,6 +1,7 @@
 ---
 title: "Belinda Carlisle - Heaven On Earth"
-artist: "Belinda Carlisle"
+artist_name: "Belinda Carlisle"
+artist: "belinda-carlisle"
 album_name: "Heaven On Earth"
 date: 2018-09-26T18:34:43.000000Z
 release_id: "12572591"

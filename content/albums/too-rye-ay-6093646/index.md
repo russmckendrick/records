@@ -1,6 +1,7 @@
 ---
 title: "Kevin Rowland - Too-Rye-Ay"
-artist: "Kevin Rowland"
+artist_name: "Kevin Rowland"
+artist: "kevin-rowland"
 album_name: "Too-Rye-Ay"
 date: 2018-04-24T05:53:52.000000Z
 release_id: "6093646"

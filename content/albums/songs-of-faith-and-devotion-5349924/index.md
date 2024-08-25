@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Songs Of Faith And Devotion"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Songs Of Faith And Devotion"
 date: 2016-05-02T11:02:41.000000Z
 release_id: "5349924"

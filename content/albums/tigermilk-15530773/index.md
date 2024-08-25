@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - Tigermilk"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "Tigermilk"
 date: 2020-07-03T12:36:17.000000Z
 release_id: "15530773"

@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - Late Night Final"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "Late Night Final"
 date: 2019-05-17T18:27:28.000000Z
 release_id: "6196121"

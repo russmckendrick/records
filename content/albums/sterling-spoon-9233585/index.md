@@ -1,6 +1,7 @@
 ---
 title: "Jane's Addiction - Sterling Spoon "
-artist: "Jane's Addiction"
+artist_name: "Jane's Addiction"
+artist: "jane-s-addiction"
 album_name: "Sterling Spoon "
 date: 2016-12-27T12:10:00.000000Z
 release_id: "9233585"

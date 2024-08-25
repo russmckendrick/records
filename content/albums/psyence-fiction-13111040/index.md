@@ -1,6 +1,7 @@
 ---
 title: "UNKLE - Psyence Fiction"
-artist: "UNKLE"
+artist_name: "UNKLE"
+artist: "unkle"
 album_name: "Psyence Fiction"
 date: 2019-02-03T19:27:49.000000Z
 release_id: "13111040"

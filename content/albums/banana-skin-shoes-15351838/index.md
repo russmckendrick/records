@@ -1,6 +1,7 @@
 ---
 title: "Badly Drawn Boy - Banana Skin Shoes"
-artist: "Badly Drawn Boy"
+artist_name: "Badly Drawn Boy"
+artist: "badly-drawn-boy"
 album_name: "Banana Skin Shoes"
 date: 2020-05-26T12:12:37.000000Z
 release_date: "2020-05-22"

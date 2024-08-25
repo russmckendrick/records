@@ -1,6 +1,7 @@
 ---
 title: "Guns N' Roses - Use Your Illusion I"
-artist: "Guns N' Roses"
+artist_name: "Guns N' Roses"
+artist: "guns-n-roses"
 album_name: "Use Your Illusion I"
 date: 2016-06-21T16:39:10.000000Z
 release_date: "1991-09-17"

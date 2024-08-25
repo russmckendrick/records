@@ -1,6 +1,7 @@
 ---
 title: "Johnny Cash - Johnny Cash And The Royal Philharmonic Orchestra"
-artist: "Johnny Cash"
+artist_name: "Johnny Cash"
+artist: "johnny-cash"
 album_name: "Johnny Cash And The Royal Philharmonic Orchestra"
 date: 2020-12-26T06:26:06.000000Z
 release_id: "16200952"

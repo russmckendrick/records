@@ -1,6 +1,7 @@
 ---
 title: "Janis Joplin - Janis Joplin's Greatest Hits"
-artist: "Janis Joplin"
+artist_name: "Janis Joplin"
+artist: "janis-joplin"
 album_name: "Janis Joplin's Greatest Hits"
 date: 2017-11-24T18:41:18.000000Z
 release_date: "1973-06-22"

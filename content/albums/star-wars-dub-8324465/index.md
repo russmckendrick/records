@@ -1,6 +1,7 @@
 ---
 title: "Phil Pratt - Star Wars Dub"
-artist: "Phil Pratt"
+artist_name: "Phil Pratt"
+artist: "phil-pratt"
 album_name: "Star Wars Dub"
 date: 2017-01-03T18:49:11.000000Z
 release_id: "8324465"

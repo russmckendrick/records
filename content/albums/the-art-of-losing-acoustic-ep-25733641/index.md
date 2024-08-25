@@ -1,6 +1,7 @@
 ---
 title: "The Anchoress - The Art of Losing - Acoustic EP"
-artist: "The Anchoress"
+artist_name: "The Anchoress"
+artist: "the-anchoress"
 album_name: "The Art of Losing - Acoustic EP"
 date: 2023-01-13T05:13:29.000000Z
 release_id: "25733641"

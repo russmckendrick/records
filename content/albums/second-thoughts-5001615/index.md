@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Second Thoughts"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Second Thoughts"
 date: 2016-12-08T22:48:19.000000Z
 release_id: "5001615"

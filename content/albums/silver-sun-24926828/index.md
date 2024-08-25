@@ -1,6 +1,7 @@
 ---
 title: "Silver Sun - Silver Sun"
-artist: "Silver Sun"
+artist_name: "Silver Sun"
+artist: "silver-sun"
 album_name: "Silver Sun"
 date: 2022-12-10T03:33:33.000000Z
 release_id: "24926828"

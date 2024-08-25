@@ -1,6 +1,7 @@
 ---
 title: "Lush - Split"
-artist: "Lush"
+artist_name: "Lush"
+artist: "lush"
 album_name: "Split"
 date: 2023-08-11T08:22:48.000000Z
 release_id: "27909429"

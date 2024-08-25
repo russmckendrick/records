@@ -1,6 +1,7 @@
 ---
 title: "Arab Strap - I'm Totally Fine With It 👍 Don't Give A Fuck Anymore 👍"
-artist: "Arab Strap"
+artist_name: "Arab Strap"
+artist: "arab-strap"
 album_name: "I'm Totally Fine With It 👍 Don't Give A Fuck Anymore 👍"
 date: 2024-05-21T12:41:50.000000Z
 release_id: "30624874"

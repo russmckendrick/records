@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Mule Variations"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Mule Variations"
 date: 2017-12-15T15:21:35.000000Z
 release_id: "11280851"

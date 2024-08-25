@@ -1,6 +1,7 @@
 ---
 title: "The Orb - U.F.Orb"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "U.F.Orb"
 date: 2020-04-25T15:16:35.000000Z
 release_id: "11049854"

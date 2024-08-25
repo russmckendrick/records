@@ -1,6 +1,7 @@
 ---
 title: "Screaming Trees - Uncle Anesthesia"
-artist: "Screaming Trees"
+artist_name: "Screaming Trees"
+artist: "screaming-trees"
 album_name: "Uncle Anesthesia"
 date: 2022-06-24T05:51:21.000000Z
 release_id: "3977067"

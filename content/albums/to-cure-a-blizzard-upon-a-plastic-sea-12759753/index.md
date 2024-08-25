@@ -1,6 +1,7 @@
 ---
 title: "Vennart - To Cure A Blizzard Upon A Plastic Sea"
-artist: "Vennart"
+artist_name: "Vennart"
+artist: "vennart"
 album_name: "To Cure A Blizzard Upon A Plastic Sea"
 date: 2018-11-05T20:09:54.000000Z
 release_id: "12759753"

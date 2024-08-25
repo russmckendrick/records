@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Countdown To Ecstasy"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Countdown To Ecstasy"
 date: 2023-06-10T09:14:28.000000Z
 release_id: "27181434"

@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Lightwork"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Lightwork"
 date: 2022-11-02T04:54:02.000000Z
 release_id: "24964213"

@@ -1,6 +1,7 @@
 ---
 title: "Iron Maiden - The Number Of The Beast"
-artist: "Iron Maiden"
+artist_name: "Iron Maiden"
+artist: "iron-maiden"
 album_name: "The Number Of The Beast"
 date: 2016-06-27T17:45:32.000000Z
 release_date: "1982-03-22"

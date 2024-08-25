@@ -1,6 +1,7 @@
 ---
 title: "Harmony Rockets - Lachesis / Clotho / Atropos"
-artist: "Harmony Rockets"
+artist_name: "Harmony Rockets"
+artist: "harmony-rockets"
 album_name: "Lachesis / Clotho / Atropos"
 date: 2018-09-28T11:59:04.000000Z
 release_id: "12547656"

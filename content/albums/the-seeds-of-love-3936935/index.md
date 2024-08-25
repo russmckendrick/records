@@ -1,6 +1,7 @@
 ---
 title: "Tears For Fears - The Seeds Of Love"
-artist: "Tears For Fears"
+artist_name: "Tears For Fears"
+artist: "tears-for-fears"
 album_name: "The Seeds Of Love"
 date: 2016-03-20T10:57:46.000000Z
 release_id: "3936935"

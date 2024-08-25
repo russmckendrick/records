@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Only The Strong Survive (Covers Vol. 1)"
 date: 2022-11-14T05:20:50.000000Z
 release_id: "25126471"

@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Dissolution"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Dissolution"
 date: 2018-08-31T18:39:12.000000Z
 release_id: "12172923"

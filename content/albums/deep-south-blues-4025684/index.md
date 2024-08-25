@@ -1,6 +1,7 @@
 ---
 title: "The Mississippi Moons - Deep South Blues"
-artist: "The Mississippi Moons"
+artist_name: "The Mississippi Moons"
+artist: "the-mississippi-moons"
 album_name: "Deep South Blues"
 date: 2020-08-02T13:49:47.000000Z
 release_id: "4025684"

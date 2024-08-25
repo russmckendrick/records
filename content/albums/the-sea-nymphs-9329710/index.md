@@ -1,6 +1,7 @@
 ---
 title: "The Sea Nymphs - The Sea Nymphs"
-artist: "The Sea Nymphs"
+artist_name: "The Sea Nymphs"
+artist: "the-sea-nymphs"
 album_name: "The Sea Nymphs"
 date: 2016-11-09T20:12:29.000000Z
 release_id: "9329710"

@@ -1,6 +1,7 @@
 ---
 title: "Happy Mondays - Pills 'N' Thrills And Bellyaches"
-artist: "Happy Mondays"
+artist_name: "Happy Mondays"
+artist: "happy-mondays"
 album_name: "Pills 'N' Thrills And Bellyaches"
 date: 2016-04-30T15:22:27.000000Z
 release_id: "6913456"

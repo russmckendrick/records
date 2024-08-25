@@ -1,6 +1,7 @@
 ---
 title: "The Who - Quadrophenia"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "Quadrophenia"
 date: 2015-08-09T12:09:54.000000Z
 release_date: "1973-10-26"

@@ -1,6 +1,7 @@
 ---
 title: "Slim Whitman - Birmingham Jail And Other Country Favourites"
-artist: "Slim Whitman"
+artist_name: "Slim Whitman"
+artist: "slim-whitman"
 album_name: "Birmingham Jail And Other Country Favourites"
 date: 2020-08-02T13:31:47.000000Z
 release_id: "2210550"

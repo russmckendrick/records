@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - New Dark Age Tour EP 2015 A.D."
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "New Dark Age Tour EP 2015 A.D."
 date: 2015-12-01T21:58:53.000000Z
 release_id: "7783721"

@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - Live"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "Live"
 date: 2016-05-23T18:25:41.000000Z
 release_id: "7580911"

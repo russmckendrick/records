@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - Blue For You"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "Blue For You"
 date: 2016-05-23T18:27:31.000000Z
 release_id: "7580826"

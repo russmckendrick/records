@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Introspective"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Introspective"
 date: 2018-03-04T10:56:02.000000Z
 release_id: "11648999"

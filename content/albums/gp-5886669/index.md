@@ -1,6 +1,7 @@
 ---
 title: "Gram Parsons - GP"
-artist: "Gram Parsons"
+artist_name: "Gram Parsons"
+artist: "gram-parsons"
 album_name: "GP"
 date: 2015-08-10T18:29:09.000000Z
 release_date: "1973-01-10"

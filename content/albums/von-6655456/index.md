@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - Von"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "Von"
 date: 2019-01-04T19:34:21.000000Z
 release_id: "6655456"

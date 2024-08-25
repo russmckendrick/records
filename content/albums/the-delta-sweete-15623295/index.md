@@ -1,6 +1,7 @@
 ---
 title: "Bobbie Gentry - The Delta Sweete"
-artist: "Bobbie Gentry"
+artist_name: "Bobbie Gentry"
+artist: "bobbie-gentry"
 album_name: "The Delta Sweete"
 date: 2020-08-01T10:22:53.000000Z
 release_date: "2019-02-08"

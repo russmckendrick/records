@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Monster"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Monster"
 date: 2019-11-01T19:24:32.000000Z
 release_id: "14343392"

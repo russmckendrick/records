@@ -1,6 +1,7 @@
 ---
 title: "Various - High Fidelity (Original Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "High Fidelity (Original Soundtrack)"
 date: 2016-02-29T19:02:03.000000Z
 release_id: "7779144"

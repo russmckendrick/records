@@ -1,6 +1,7 @@
 ---
 title: "U2 - Boy"
-artist: "U2"
+artist_name: "U2"
+artist: "u2"
 album_name: "Boy"
 date: 2020-12-03T05:42:16.000000Z
 release_date: "1980-10-20"

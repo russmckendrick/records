@@ -1,6 +1,7 @@
 ---
 title: "Everything Is Recorded - Everything Is Recorded"
-artist: "Everything Is Recorded"
+artist_name: "Everything Is Recorded"
+artist: "everything-is-recorded"
 album_name: "Everything Is Recorded"
 date: 2018-02-16T18:48:54.000000Z
 release_id: "11561081"

@@ -1,6 +1,7 @@
 ---
 title: "The Stranglers - The History Of Rock (Volume Thirty One)"
-artist: "The Stranglers"
+artist_name: "The Stranglers"
+artist: "the-stranglers"
 album_name: "The History Of Rock (Volume Thirty One)"
 date: 2018-12-28T17:39:26.000000Z
 release_id: "1996636"

@@ -1,6 +1,7 @@
 ---
 title: "Pearl Jam - Vitalogy"
-artist: "Pearl Jam"
+artist_name: "Pearl Jam"
+artist: "pearl-jam"
 album_name: "Vitalogy"
 date: 2016-10-26T16:19:24.000000Z
 release_date: "1994-11-22"

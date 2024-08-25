@@ -1,6 +1,7 @@
 ---
 title: "Ministry - ΚΕΦΑΛΗΞΘ"
-artist: "Ministry"
+artist_name: "Ministry"
+artist: "ministry"
 album_name: "ΚΕΦΑΛΗΞΘ"
 date: 2015-08-09T08:43:46.000000Z
 release_id: "3490956"

@@ -1,6 +1,7 @@
 ---
 title: "The Coral - Sea Of Mirrors"
-artist: "The Coral"
+artist_name: "The Coral"
+artist: "the-coral"
 album_name: "Sea Of Mirrors"
 date: 2023-09-08T11:06:58.000000Z
 release_id: "28205629"

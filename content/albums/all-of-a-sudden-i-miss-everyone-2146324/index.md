@@ -1,6 +1,7 @@
 ---
 title: "Explosions In The Sky - All Of A Sudden I Miss Everyone"
-artist: "Explosions In The Sky"
+artist_name: "Explosions In The Sky"
+artist: "explosions-in-the-sky"
 album_name: "All Of A Sudden I Miss Everyone"
 date: 2016-08-18T17:24:06.000000Z
 release_id: "2146324"

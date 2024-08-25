@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Bowie At The Beeb (The Best Of The BBC Sessions 68-72)"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Bowie At The Beeb (The Best Of The BBC Sessions 68-72)"
 date: 2016-10-18T17:17:29.000000Z
 release_id: "8014010"

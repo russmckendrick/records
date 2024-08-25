@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Mothership"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Mothership"
 date: 2016-01-03T13:46:17.000000Z
 release_date: "2007-11-09"

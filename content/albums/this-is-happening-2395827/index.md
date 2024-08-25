@@ -1,6 +1,7 @@
 ---
 title: "LCD Soundsystem - This Is Happening"
-artist: "LCD Soundsystem"
+artist_name: "LCD Soundsystem"
+artist: "lcd-soundsystem"
 album_name: "This Is Happening"
 date: 2017-06-04T10:36:49.000000Z
 release_date: "2010-05-17"

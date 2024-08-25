@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Come On Pilgrim... It's Surfer Rosa"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Come On Pilgrim... It's Surfer Rosa"
 date: 2018-09-28T11:59:21.000000Z
 release_id: "12571941"

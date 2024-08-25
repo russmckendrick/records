@@ -1,6 +1,7 @@
 ---
 title: "Iamthemorning - Ocean Sounds"
-artist: "Iamthemorning"
+artist_name: "Iamthemorning"
+artist: "iamthemorning"
 album_name: "Ocean Sounds"
 date: 2018-10-20T16:36:22.000000Z
 release_id: "12686247"

@@ -1,6 +1,7 @@
 ---
 title: "Paraorchestra - Death Songbook"
-artist: "Paraorchestra"
+artist_name: "Paraorchestra"
+artist: "paraorchestra"
 album_name: "Death Songbook"
 date: 2024-04-27T05:28:02.000000Z
 release_id: "30464051"

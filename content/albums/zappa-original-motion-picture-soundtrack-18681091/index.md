@@ -1,6 +1,7 @@
 ---
 title: "Frank Zappa - Zappa (Original Motion Picture Soundtrack)"
-artist: "Frank Zappa"
+artist_name: "Frank Zappa"
+artist: "frank-zappa"
 album_name: "Zappa (Original Motion Picture Soundtrack)"
 date: 2021-06-17T04:14:58.000000Z
 release_id: "18681091"

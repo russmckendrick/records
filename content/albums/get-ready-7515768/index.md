@@ -1,6 +1,7 @@
 ---
 title: "New Order - Get Ready"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Get Ready"
 date: 2015-10-04T11:28:04.000000Z
 release_date: "2001-08-27"

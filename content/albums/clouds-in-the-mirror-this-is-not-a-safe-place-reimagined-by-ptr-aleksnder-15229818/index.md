@@ -1,6 +1,7 @@
 ---
 title: "Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)"
 date: 2021-06-12T05:59:13.000000Z
 release_id: "15229818"

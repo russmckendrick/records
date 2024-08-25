@@ -1,6 +1,7 @@
 ---
 title: "The Damned - Machine Gun Etiquette"
-artist: "The Damned"
+artist_name: "The Damned"
+artist: "the-damned"
 album_name: "Machine Gun Etiquette"
 date: 2023-02-05T09:50:08.000000Z
 release_id: "8859300"

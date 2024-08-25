@@ -1,6 +1,7 @@
 ---
 title: "Suede - Night Thoughts Replacement Pack A"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Night Thoughts Replacement Pack A"
 date: 2019-12-19T20:21:35.000000Z
 release_id: "13083066"

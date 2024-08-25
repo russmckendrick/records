@@ -1,6 +1,7 @@
 ---
 title: "Phil Collins - No Jacket Required"
-artist: "Phil Collins"
+artist_name: "Phil Collins"
+artist: "phil-collins"
 album_name: "No Jacket Required"
 date: 2016-01-11T17:44:45.000000Z
 release_date: "1985-01-25"

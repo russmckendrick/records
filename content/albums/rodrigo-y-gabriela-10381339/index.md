@@ -1,6 +1,7 @@
 ---
 title: "Rodrigo Y Gabriela - Rodrigo Y Gabriela"
-artist: "Rodrigo Y Gabriela"
+artist_name: "Rodrigo Y Gabriela"
+artist: "rodrigo-y-gabriela"
 album_name: "Rodrigo Y Gabriela"
 date: 2017-06-04T10:36:02.000000Z
 release_id: "10381339"

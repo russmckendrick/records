@@ -1,6 +1,7 @@
 ---
 title: "The Fall - 458489 A Sides"
-artist: "The Fall"
+artist_name: "The Fall"
+artist: "the-fall"
 album_name: "458489 A Sides"
 date: 2018-08-11T07:55:12.000000Z
 release_id: "12360118"

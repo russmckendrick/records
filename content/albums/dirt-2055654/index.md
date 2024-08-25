@@ -1,6 +1,7 @@
 ---
 title: "Alice In Chains - Dirt"
-artist: "Alice In Chains"
+artist_name: "Alice In Chains"
+artist: "alice-in-chains"
 album_name: "Dirt"
 date: 2019-09-01T09:47:37.000000Z
 release_date: "1992-09-29"

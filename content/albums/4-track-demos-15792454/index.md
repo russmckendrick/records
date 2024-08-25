@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - 4-Track Demos"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "4-Track Demos"
 date: 2020-08-22T07:50:11.000000Z
 release_id: "15792454"

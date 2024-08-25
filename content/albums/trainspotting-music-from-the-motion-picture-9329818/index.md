@@ -1,6 +1,7 @@
 ---
 title: "Various - Trainspotting (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Trainspotting (Music From The Motion Picture)"
 date: 2016-11-11T17:35:29.000000Z
 release_id: "9329818"

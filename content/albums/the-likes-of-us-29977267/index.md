@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - The Likes Of Us"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "The Likes Of Us"
 date: 2024-03-02T07:27:22.000000Z
 release_id: "29977267"

@@ -1,6 +1,7 @@
 ---
 title: "Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition)"
-artist: "Cheech & Chong"
+artist_name: "Cheech & Chong"
+artist: "cheech-chong"
 album_name: "Up In Smoke (40th Anniversary Deluxe Collector's Edition)"
 date: 2019-04-16T17:11:32.000000Z
 release_id: "11926046"

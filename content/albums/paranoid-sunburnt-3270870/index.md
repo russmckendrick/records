@@ -1,6 +1,7 @@
 ---
 title: "Skunk Anansie - Paranoid & Sunburnt"
-artist: "Skunk Anansie"
+artist_name: "Skunk Anansie"
+artist: "skunk-anansie"
 album_name: "Paranoid & Sunburnt"
 date: 2018-08-29T18:40:03.000000Z
 release_id: "3270870"

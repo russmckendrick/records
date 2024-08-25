@@ -1,6 +1,7 @@
 ---
 title: "Iron Maiden - No Prayer For The Dying"
-artist: "Iron Maiden"
+artist_name: "Iron Maiden"
+artist: "iron-maiden"
 album_name: "No Prayer For The Dying"
 date: 2017-06-10T11:12:57.000000Z
 release_id: "10301784"

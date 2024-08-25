@@ -1,6 +1,7 @@
 ---
 title: "Lonely Robot - Under Stars"
-artist: "Lonely Robot"
+artist_name: "Lonely Robot"
+artist: "lonely-robot"
 album_name: "Under Stars"
 date: 2019-04-26T12:43:07.000000Z
 release_id: "13532354"

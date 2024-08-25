@@ -1,6 +1,7 @@
 ---
 title: "The Time - The Time"
-artist: "The Time"
+artist_name: "The Time"
+artist: "the-time"
 album_name: "The Time"
 date: 2021-07-16T11:54:29.000000Z
 release_id: "19505374"

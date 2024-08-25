@@ -1,6 +1,7 @@
 ---
 title: "The Utopia Strong - The Utopia Strong"
-artist: "The Utopia Strong"
+artist_name: "The Utopia Strong"
+artist: "the-utopia-strong"
 album_name: "The Utopia Strong"
 date: 2019-09-15T11:57:37.000000Z
 release_id: "14133042"

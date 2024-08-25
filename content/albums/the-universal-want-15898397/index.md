@@ -1,6 +1,7 @@
 ---
 title: "Doves - The Universal Want"
-artist: "Doves"
+artist_name: "Doves"
+artist: "doves"
 album_name: "The Universal Want"
 date: 2020-09-15T17:31:06.000000Z
 release_date: "2020-09-21"

@@ -1,6 +1,7 @@
 ---
 title: "Jason Isbell And The 400 Unit - Weathervanes"
-artist: "Jason Isbell And The 400 Unit"
+artist_name: "Jason Isbell And The 400 Unit"
+artist: "jason-isbell-and-the-400-unit"
 album_name: "Weathervanes"
 date: 2023-06-12T04:39:30.000000Z
 release_date: "2023-06-09"

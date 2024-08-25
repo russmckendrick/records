@@ -1,6 +1,7 @@
 ---
 title: "Cat Stevens - Collected"
-artist: "Cat Stevens"
+artist_name: "Cat Stevens"
+artist: "cat-stevens"
 album_name: "Collected"
 date: 2020-02-27T19:19:38.000000Z
 release_id: "14851665"

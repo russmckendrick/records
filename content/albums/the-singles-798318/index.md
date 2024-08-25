@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - The Singles"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "The Singles"
 date: 2018-11-29T12:43:00.000000Z
 release_id: "798318"

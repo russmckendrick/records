@@ -1,6 +1,7 @@
 ---
 title: "The Temperance Movement - White Bear"
-artist: "The Temperance Movement"
+artist_name: "The Temperance Movement"
+artist: "the-temperance-movement"
 album_name: "White Bear"
 date: 2016-01-17T12:53:37.000000Z
 release_id: "7986178"

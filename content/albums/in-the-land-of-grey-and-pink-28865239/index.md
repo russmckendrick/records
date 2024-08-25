@@ -1,6 +1,7 @@
 ---
 title: "Caravan - In The Land Of Grey and Pink"
-artist: "Caravan"
+artist_name: "Caravan"
+artist: "caravan"
 album_name: "In The Land Of Grey and Pink"
 date: 2023-11-11T02:05:07.000000Z
 release_id: "28865239"

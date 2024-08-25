@@ -1,6 +1,7 @@
 ---
 title: "Menswear - ¡Hay Tiempo!"
-artist: "Menswear"
+artist_name: "Menswear"
+artist: "menswear"
 album_name: "¡Hay Tiempo!"
 date: 2021-11-17T09:05:48.000000Z
 release_id: "16153221"

@@ -1,6 +1,7 @@
 ---
 title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers"
-artist: "Bob Marley & The Wailers"
+artist_name: "Bob Marley & The Wailers"
+artist: "bob-marley-the-wailers"
 album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21T16:37:49.000000Z
 release_date: "1984-05-08"

@@ -1,6 +1,7 @@
 ---
 title: "Ramones - Rocket To Russia"
-artist: "Ramones"
+artist_name: "Ramones"
+artist: "ramones"
 album_name: "Rocket To Russia"
 date: 2018-02-09T11:49:15.000000Z
 release_id: "11538026"

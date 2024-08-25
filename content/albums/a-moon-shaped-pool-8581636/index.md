@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - A Moon Shaped Pool"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "A Moon Shaped Pool"
 date: 2016-06-20T17:50:43.000000Z
 release_date: "2016-05-08"

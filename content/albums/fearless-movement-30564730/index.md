@@ -1,6 +1,7 @@
 ---
 title: "Kamasi Washington - Fearless Movement"
-artist: "Kamasi Washington"
+artist_name: "Kamasi Washington"
+artist: "kamasi-washington"
 album_name: "Fearless Movement"
 date: 2024-05-03T04:07:30.000000Z
 release_date: "2024-05-03"

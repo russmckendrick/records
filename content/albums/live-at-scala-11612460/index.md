@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - Live At Scala"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "Live At Scala"
 date: 2018-05-24T14:11:29.000000Z
 release_id: "11612460"

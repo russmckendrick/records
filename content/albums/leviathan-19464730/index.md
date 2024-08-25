@@ -1,6 +1,7 @@
 ---
 title: "The Grid - Leviathan"
-artist: "The Grid"
+artist_name: "The Grid"
+artist: "the-grid"
 album_name: "Leviathan"
 date: 2021-12-15T10:53:58.000000Z
 release_id: "19464730"

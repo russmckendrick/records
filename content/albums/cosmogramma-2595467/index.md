@@ -1,6 +1,7 @@
 ---
 title: "Flying Lotus - Cosmogramma"
-artist: "Flying Lotus"
+artist_name: "Flying Lotus"
+artist: "flying-lotus"
 album_name: "Cosmogramma"
 date: 2020-08-01T12:53:14.000000Z
 release_date: "2010-05-03"

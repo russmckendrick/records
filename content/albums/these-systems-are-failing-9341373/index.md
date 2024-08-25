@@ -1,6 +1,7 @@
 ---
 title: "Moby & The Void Pacific Choir - These Systems Are Failing"
-artist: "Moby & The Void Pacific Choir"
+artist_name: "Moby & The Void Pacific Choir"
+artist: "moby-the-void-pacific-choir"
 album_name: "These Systems Are Failing"
 date: 2017-02-10T20:04:35.000000Z
 release_id: "9341373"

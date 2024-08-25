@@ -1,6 +1,7 @@
 ---
 title: "The Police - Greatest Hits"
-artist: "The Police"
+artist_name: "The Police"
+artist: "the-police"
 album_name: "Greatest Hits"
 date: 2023-06-05T05:59:14.000000Z
 release_id: "26517422"

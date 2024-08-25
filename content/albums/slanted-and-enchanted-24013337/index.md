@@ -1,6 +1,7 @@
 ---
 title: "Pavement - Slanted And Enchanted"
-artist: "Pavement"
+artist_name: "Pavement"
+artist: "pavement"
 album_name: "Slanted And Enchanted"
 date: 2022-08-21T11:24:05.000000Z
 release_id: "24013337"

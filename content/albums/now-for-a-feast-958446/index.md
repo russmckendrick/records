@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - Now For A Feast!"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "Now For A Feast!"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "958446"

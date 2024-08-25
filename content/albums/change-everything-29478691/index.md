@@ -1,6 +1,7 @@
 ---
 title: "Del Amitri - Change Everything"
-artist: "Del Amitri"
+artist_name: "Del Amitri"
+artist: "del-amitri"
 album_name: "Change Everything"
 date: 2024-04-06T05:07:59.000000Z
 release_id: "29478691"

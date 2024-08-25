@@ -1,6 +1,7 @@
 ---
 title: "Otis Redding - Otis Blue / Otis Redding Sings Soul"
-artist: "Otis Redding"
+artist_name: "Otis Redding"
+artist: "otis-redding"
 album_name: "Otis Blue / Otis Redding Sings Soul"
 date: 2015-10-10T16:15:03.000000Z
 release_date: "1965-09-15"

@@ -1,6 +1,7 @@
 ---
 title: "Baroness - Stone"
-artist: "Baroness"
+artist_name: "Baroness"
+artist: "baroness"
 album_name: "Stone"
 date: 2023-09-23T01:42:12.000000Z
 release_id: "28316803"

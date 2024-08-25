@@ -1,6 +1,7 @@
 ---
 title: "Camera Obscura - My Maudlin Career"
-artist: "Camera Obscura"
+artist_name: "Camera Obscura"
+artist: "camera-obscura"
 album_name: "My Maudlin Career"
 date: 2023-01-13T05:14:36.000000Z
 release_date: "2009-04-20"

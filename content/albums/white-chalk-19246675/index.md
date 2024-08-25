@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - White Chalk"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "White Chalk"
 date: 2021-06-26T09:17:46.000000Z
 release_date: "2007-01-01"

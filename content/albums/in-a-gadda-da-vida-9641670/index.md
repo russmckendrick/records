@@ -1,6 +1,7 @@
 ---
 title: "Iron Butterfly - In-A-Gadda-Da-Vida"
-artist: "Iron Butterfly"
+artist_name: "Iron Butterfly"
+artist: "iron-butterfly"
 album_name: "In-A-Gadda-Da-Vida"
 date: 2017-01-30T18:25:20.000000Z
 release_id: "9641670"

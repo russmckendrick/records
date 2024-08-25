@@ -1,6 +1,7 @@
 ---
 title: "XTC - Apple Venus Volume One"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Apple Venus Volume One"
 date: 2018-10-27T09:36:06.000000Z
 release_id: "12595763"

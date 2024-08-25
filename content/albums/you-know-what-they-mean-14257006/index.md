@@ -1,6 +1,7 @@
 ---
 title: "Bent Knee - You Know What They Mean"
-artist: "Bent Knee"
+artist_name: "Bent Knee"
+artist: "bent-knee"
 album_name: "You Know What They Mean"
 date: 2019-10-13T13:03:53.000000Z
 release_id: "14257006"

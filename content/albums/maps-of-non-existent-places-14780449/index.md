@@ -1,6 +1,7 @@
 ---
 title: "Thank You Scientist - Maps Of Non-Existent Places"
-artist: "Thank You Scientist"
+artist_name: "Thank You Scientist"
+artist: "thank-you-scientist"
 album_name: "Maps Of Non-Existent Places"
 date: 2020-03-12T18:46:41.000000Z
 release_id: "14780449"

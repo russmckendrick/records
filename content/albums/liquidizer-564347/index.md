@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Liquidizer"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Liquidizer"
 date: 2015-12-30T09:11:50.000000Z
 release_id: "564347"

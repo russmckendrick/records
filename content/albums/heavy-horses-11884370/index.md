@@ -1,6 +1,7 @@
 ---
 title: "Jethro Tull - Heavy Horses"
-artist: "Jethro Tull"
+artist_name: "Jethro Tull"
+artist: "jethro-tull"
 album_name: "Heavy Horses"
 date: 2021-05-30T05:08:03.000000Z
 release_id: "11884370"

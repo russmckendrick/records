@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - The Album Collection Vol. 1"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "The Album Collection Vol. 1"
 date: 2016-01-19T19:37:33.000000Z
 release_id: "6329457"

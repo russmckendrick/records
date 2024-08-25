@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Savage: Songs From A Broken World"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Savage: Songs From A Broken World"
 date: 2017-09-15T14:06:05.000000Z
 release_id: "10858288"

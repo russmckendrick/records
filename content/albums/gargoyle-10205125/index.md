@@ -1,6 +1,7 @@
 ---
 title: "Mark Lanegan Band - Gargoyle"
-artist: "Mark Lanegan Band"
+artist_name: "Mark Lanegan Band"
+artist: "mark-lanegan-band"
 album_name: "Gargoyle"
 date: 2017-05-16T18:14:01.000000Z
 release_date: "2017-04-28"

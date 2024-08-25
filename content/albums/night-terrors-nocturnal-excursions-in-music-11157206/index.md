@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Night Terrors (Nocturnal Excursions In Music)"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Night Terrors (Nocturnal Excursions In Music)"
 date: 2017-11-17T16:41:45.000000Z
 release_id: "11157206"

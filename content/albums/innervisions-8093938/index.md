@@ -1,6 +1,7 @@
 ---
 title: "Stevie Wonder - Innervisions"
-artist: "Stevie Wonder"
+artist_name: "Stevie Wonder"
+artist: "stevie-wonder"
 album_name: "Innervisions"
 date: 2016-11-24T18:44:17.000000Z
 release_id: "8093938"

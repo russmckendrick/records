@@ -1,6 +1,7 @@
 ---
 title: "Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)"
-artist: "Neil Diamond"
+artist_name: "Neil Diamond"
+artist: "neil-diamond"
 album_name: "The Jazz Singer (Original Songs From The Motion Picture)"
 date: 2015-12-09T10:18:46.000000Z
 release_id: "1605561"

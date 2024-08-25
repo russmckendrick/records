@@ -1,6 +1,7 @@
 ---
 title: "The Strokes - The New Abnormal"
-artist: "The Strokes"
+artist_name: "The Strokes"
+artist: "the-strokes"
 album_name: "The New Abnormal"
 date: 2020-05-09T09:34:55.000000Z
 release_date: "2020-04-10"

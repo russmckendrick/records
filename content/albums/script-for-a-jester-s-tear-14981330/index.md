@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Script For A Jester's Tear"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Script For A Jester's Tear"
 date: 2020-05-31T13:46:22.000000Z
 release_id: "14981330"

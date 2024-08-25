@@ -1,6 +1,7 @@
 ---
 title: "Siouxsie & The Banshees - The Scream"
-artist: "Siouxsie & The Banshees"
+artist_name: "Siouxsie & The Banshees"
+artist: "siouxsie-the-banshees"
 album_name: "The Scream"
 date: 2020-08-02T13:44:57.000000Z
 release_id: "404853"

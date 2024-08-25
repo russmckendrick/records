@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - 101"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "101"
 date: 2017-04-09T14:17:19.000000Z
 release_id: "9191026"

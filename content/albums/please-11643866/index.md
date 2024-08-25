@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Please"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Please"
 date: 2018-03-02T13:12:53.000000Z
 release_id: "11643866"

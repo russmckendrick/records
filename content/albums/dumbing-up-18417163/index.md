@@ -1,6 +1,7 @@
 ---
 title: "World Party - Dumbing Up"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Dumbing Up"
 date: 2021-05-28T04:53:56.000000Z
 release_id: "18417163"

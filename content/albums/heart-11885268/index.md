@@ -1,6 +1,7 @@
 ---
 title: "Stars - Heart"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "Heart"
 date: 2019-05-23T16:54:17.000000Z
 release_id: "11885268"

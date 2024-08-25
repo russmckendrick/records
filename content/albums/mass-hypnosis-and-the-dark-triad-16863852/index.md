@@ -1,6 +1,7 @@
 ---
 title: "Bill Fisher - Mass Hypnosis And The Dark Triad"
-artist: "Bill Fisher"
+artist_name: "Bill Fisher"
+artist: "bill-fisher"
 album_name: "Mass Hypnosis And The Dark Triad"
 date: 2021-07-27T03:06:16.000000Z
 release_id: "16863852"

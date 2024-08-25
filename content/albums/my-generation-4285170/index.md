@@ -1,6 +1,7 @@
 ---
 title: "The Who - My Generation"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "My Generation"
 date: 2016-04-15T17:26:52.000000Z
 release_id: "4285170"

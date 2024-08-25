@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - In This City They Call You Love"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "In This City They Call You Love"
 date: 2024-06-05T11:26:05.000000Z
 release_id: "30835086"

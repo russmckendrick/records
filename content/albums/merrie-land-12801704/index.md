@@ -1,6 +1,7 @@
 ---
 title: "The Good, The Bad & The Queen - Merrie Land"
-artist: "The Good, The Bad & The Queen"
+artist_name: "The Good, The Bad & The Queen"
+artist: "the-good-the-bad-the-queen"
 album_name: "Merrie Land"
 date: 2018-11-17T10:42:31.000000Z
 release_date: "2018-11-16"

@@ -1,6 +1,7 @@
 ---
 title: "Oceansize - Self Preserved While The Bodies Float Up"
-artist: "Oceansize"
+artist_name: "Oceansize"
+artist: "oceansize"
 album_name: "Self Preserved While The Bodies Float Up"
 date: 2016-01-28T19:13:28.000000Z
 release_id: "2436574"

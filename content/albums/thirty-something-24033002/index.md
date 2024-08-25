@@ -1,6 +1,7 @@
 ---
 title: "Orbital - Thirty-Something"
-artist: "Orbital"
+artist_name: "Orbital"
+artist: "orbital"
 album_name: "Thirty-Something"
 date: 2022-08-01T06:03:15.000000Z
 release_id: "24033002"

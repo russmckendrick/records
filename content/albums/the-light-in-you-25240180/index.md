@@ -1,6 +1,7 @@
 ---
 title: "Mercury Rev - The Light In You"
-artist: "Mercury Rev"
+artist_name: "Mercury Rev"
+artist: "mercury-rev"
 album_name: "The Light In You"
 date: 2023-06-24T07:54:55.000000Z
 release_id: "25240180"

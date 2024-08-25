@@ -1,6 +1,7 @@
 ---
 title: "Danny Cavanagh - Monochrome"
-artist: "Danny Cavanagh"
+artist_name: "Danny Cavanagh"
+artist: "danny-cavanagh"
 album_name: "Monochrome"
 date: 2017-10-14T10:09:24.000000Z
 release_id: "10932389"

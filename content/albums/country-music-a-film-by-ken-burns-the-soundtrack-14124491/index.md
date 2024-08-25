@@ -1,6 +1,7 @@
 ---
 title: "Various - Country Music A Film By Ken Burns The Soundtrack"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Country Music A Film By Ken Burns The Soundtrack"
 date: 2019-09-13T17:46:21.000000Z
 release_id: "14124491"

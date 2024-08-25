@@ -1,6 +1,7 @@
 ---
 title: "Various - Tim's Listening Party"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Tim's Listening Party"
 date: 2024-03-20T13:57:30.000000Z
 release_id: "30149570"

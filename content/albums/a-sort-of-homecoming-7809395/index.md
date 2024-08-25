@@ -1,6 +1,7 @@
 ---
 title: "Anathema - A Sort Of Homecoming"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "A Sort Of Homecoming"
 date: 2016-07-08T16:31:17.000000Z
 release_id: "7809395"

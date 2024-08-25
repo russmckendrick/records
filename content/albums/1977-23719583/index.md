@@ -1,6 +1,7 @@
 ---
 title: "Ash - 1977"
-artist: "Ash"
+artist_name: "Ash"
+artist: "ash"
 album_name: "1977"
 date: 2022-07-02T07:39:13.000000Z
 release_id: "23719583"

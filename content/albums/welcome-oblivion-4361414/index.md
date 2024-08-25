@@ -1,6 +1,7 @@
 ---
 title: "How To Destroy Angels - Welcome Oblivion"
-artist: "How To Destroy Angels"
+artist_name: "How To Destroy Angels"
+artist: "how-to-destroy-angels"
 album_name: "Welcome Oblivion"
 date: 2017-04-14T09:26:29.000000Z
 release_id: "4361414"

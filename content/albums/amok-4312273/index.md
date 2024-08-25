@@ -1,6 +1,7 @@
 ---
 title: "Atoms For Peace - Amok"
-artist: "Atoms For Peace"
+artist_name: "Atoms For Peace"
+artist: "atoms-for-peace"
 album_name: "Amok"
 date: 2018-01-06T10:51:25.000000Z
 release_id: "4312273"

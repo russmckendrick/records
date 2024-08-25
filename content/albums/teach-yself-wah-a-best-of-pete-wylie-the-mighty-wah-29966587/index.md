@@ -1,6 +1,7 @@
 ---
 title: "Pete Wylie - Teach Yself WAH! - A Best of Pete Wylie & The Mighty WAH!"
-artist: "Pete Wylie"
+artist_name: "Pete Wylie"
+artist: "pete-wylie"
 album_name: "Teach Yself WAH! - A Best of Pete Wylie & The Mighty WAH!"
 date: 2024-03-08T03:32:27.000000Z
 release_id: "29966587"

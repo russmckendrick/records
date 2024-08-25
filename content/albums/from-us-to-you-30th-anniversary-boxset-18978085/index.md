@@ -1,6 +1,7 @@
 ---
 title: "EMF - From Us To You, 30th Anniversary Boxset"
-artist: "EMF"
+artist_name: "EMF"
+artist: "emf"
 album_name: "From Us To You, 30th Anniversary Boxset"
 date: 2021-06-03T00:49:13.000000Z
 release_id: "18978085"

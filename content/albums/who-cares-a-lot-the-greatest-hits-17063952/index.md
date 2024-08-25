@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - Who Cares A Lot? The Greatest Hits"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "Who Cares A Lot? The Greatest Hits"
 date: 2021-03-29T05:07:09.000000Z
 release_id: "17063952"

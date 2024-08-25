@@ -1,6 +1,7 @@
 ---
 title: "Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1"
 date: 2016-05-31T17:51:27.000000Z
 release_id: "3005353"

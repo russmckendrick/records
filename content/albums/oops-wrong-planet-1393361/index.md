@@ -1,6 +1,7 @@
 ---
 title: "Utopia - Oops! Wrong Planet"
-artist: "Utopia"
+artist_name: "Utopia"
+artist: "utopia"
 album_name: "Oops! Wrong Planet"
 date: 2022-03-06T04:57:20.000000Z
 release_id: "1393361"

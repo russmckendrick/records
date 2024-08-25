@@ -1,6 +1,7 @@
 ---
 title: "The Chemical Brothers - Exit Planet Dust"
-artist: "The Chemical Brothers"
+artist_name: "The Chemical Brothers"
+artist: "the-chemical-brothers"
 album_name: "Exit Planet Dust"
 date: 2018-06-13T17:28:36.000000Z
 release_date: "1995-06-26"

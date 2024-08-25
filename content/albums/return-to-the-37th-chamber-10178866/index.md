@@ -1,6 +1,7 @@
 ---
 title: "El Michels Affair - Return To The 37th Chamber"
-artist: "El Michels Affair"
+artist_name: "El Michels Affair"
+artist: "el-michels-affair"
 album_name: "Return To The 37th Chamber"
 date: 2017-05-20T15:15:29.000000Z
 release_id: "10178866"

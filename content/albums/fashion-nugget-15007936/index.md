@@ -1,6 +1,7 @@
 ---
 title: "Cake - Fashion Nugget"
-artist: "Cake"
+artist_name: "Cake"
+artist: "cake"
 album_name: "Fashion Nugget"
 date: 2020-06-24T11:54:38.000000Z
 release_id: "15007936"

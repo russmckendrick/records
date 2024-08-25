@@ -1,6 +1,7 @@
 ---
 title: "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not"
-artist: "Arctic Monkeys"
+artist_name: "Arctic Monkeys"
+artist: "arctic-monkeys"
 album_name: "Whatever People Say I Am, That's What I'm Not"
 date: 2018-04-17T18:52:04.000000Z
 release_date: "2006-01-23"

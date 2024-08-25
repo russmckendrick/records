@@ -1,6 +1,7 @@
 ---
 title: "Cake - Fashion Nugget"
-artist: "Cake"
+artist_name: "Cake"
+artist: "cake"
 album_name: "Fashion Nugget"
 date: 2022-08-11T01:53:24.000000Z
 release_id: "23837591"

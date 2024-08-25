@@ -1,6 +1,7 @@
 ---
 title: "Jurassic 5 - Quality Control"
-artist: "Jurassic 5"
+artist_name: "Jurassic 5"
+artist: "jurassic-5"
 album_name: "Quality Control"
 date: 2023-07-29T02:26:52.000000Z
 release_id: "7119855"

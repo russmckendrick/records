@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - The Beast Inside"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "The Beast Inside"
 date: 2021-11-22T01:21:57.000000Z
 release_id: "21038797"

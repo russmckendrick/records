@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - ( )"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "( )"
 date: 2022-12-19T11:27:13.000000Z
 release_id: "25472284"

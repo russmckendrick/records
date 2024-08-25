@@ -1,6 +1,7 @@
 ---
 title: "Leftfield - Leftism"
-artist: "Leftfield"
+artist_name: "Leftfield"
+artist: "leftfield"
 album_name: "Leftism"
 date: 2017-05-05T17:25:36.000000Z
 release_id: "10236835"

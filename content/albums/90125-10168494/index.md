@@ -1,6 +1,7 @@
 ---
 title: "Yes - 90125"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "90125"
 date: 2017-07-26T17:40:44.000000Z
 release_id: "10168494"

@@ -1,6 +1,7 @@
 ---
 title: "Al Stewart - Year Of The Cat"
-artist: "Al Stewart"
+artist_name: "Al Stewart"
+artist: "al-stewart"
 album_name: "Year Of The Cat"
 date: 2017-01-25T18:25:25.000000Z
 release_date: "1993-11-22"

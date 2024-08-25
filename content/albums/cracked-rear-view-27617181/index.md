@@ -1,6 +1,7 @@
 ---
 title: "Hootie & The Blowfish - Cracked Rear View"
-artist: "Hootie & The Blowfish"
+artist_name: "Hootie & The Blowfish"
+artist: "hootie-the-blowfish"
 album_name: "Cracked Rear View"
 date: 2023-07-08T10:37:29.000000Z
 release_date: "1994-07-05"

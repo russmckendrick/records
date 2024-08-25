@@ -1,6 +1,7 @@
 ---
 title: "Sparks - The Best & The Rest Of The Island Years 74-78"
-artist: "Sparks"
+artist_name: "Sparks"
+artist: "sparks"
 album_name: "The Best & The Rest Of The Island Years 74-78"
 date: 2018-05-05T10:12:53.000000Z
 release_id: "11894228"

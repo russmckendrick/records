@@ -1,6 +1,7 @@
 ---
 title: "Slade - When Slade Rocked The World 1971-1975"
-artist: "Slade"
+artist_name: "Slade"
+artist: "slade"
 album_name: "When Slade Rocked The World 1971-1975"
 date: 2016-07-13T16:33:59.000000Z
 release_id: "7901636"

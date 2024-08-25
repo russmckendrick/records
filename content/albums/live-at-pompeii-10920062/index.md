@@ -1,6 +1,7 @@
 ---
 title: "David Gilmour - Live At Pompeii"
-artist: "David Gilmour"
+artist_name: "David Gilmour"
+artist: "david-gilmour"
 album_name: "Live At Pompeii"
 date: 2017-09-29T17:27:50.000000Z
 release_id: "10920062"

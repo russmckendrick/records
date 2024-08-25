@@ -1,6 +1,7 @@
 ---
 title: "The Orb - No Sounds Are Out Of Bounds"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "No Sounds Are Out Of Bounds"
 date: 2018-06-23T08:50:48.000000Z
 release_id: "12165872"

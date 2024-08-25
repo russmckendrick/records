@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Woodface"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Woodface"
 date: 2015-08-25T16:46:24.000000Z
 release_date: "1991-06-24"

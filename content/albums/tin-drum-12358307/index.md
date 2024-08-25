@@ -1,6 +1,7 @@
 ---
 title: "Japan - Tin Drum"
-artist: "Japan"
+artist_name: "Japan"
+artist: "japan"
 album_name: "Tin Drum"
 date: 2018-08-29T18:39:11.000000Z
 release_id: "12358307"

@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Hindsight"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Hindsight"
 date: 2016-10-23T08:56:07.000000Z
 release_id: "5552454"

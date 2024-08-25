@@ -1,6 +1,7 @@
 ---
 title: "Gentle Giant - Octopus"
-artist: "Gentle Giant"
+artist_name: "Gentle Giant"
+artist: "gentle-giant"
 album_name: "Octopus"
 date: 2021-07-03T06:35:05.000000Z
 release_id: "15056299"

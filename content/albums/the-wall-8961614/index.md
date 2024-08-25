@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Wall"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Wall"
 date: 2016-09-05T12:30:03.000000Z
 release_date: "1979-11-30"

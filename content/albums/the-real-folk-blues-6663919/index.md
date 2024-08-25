@@ -1,6 +1,7 @@
 ---
 title: "Howlin' Wolf - The Real Folk Blues"
-artist: "Howlin' Wolf"
+artist_name: "Howlin' Wolf"
+artist: "howlin-wolf"
 album_name: "The Real Folk Blues"
 date: 2016-04-30T15:22:06.000000Z
 release_id: "6663919"

@@ -1,6 +1,7 @@
 ---
 title: "DJ Spinna - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
-artist: "DJ Spinna"
+artist_name: "DJ Spinna"
+artist: "dj-spinna"
 album_name: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
 date: 2016-08-09T05:32:12.000000Z
 release_id: "736967"

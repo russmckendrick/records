@@ -1,6 +1,7 @@
 ---
 title: "Cake - Pressure Chief"
-artist: "Cake"
+artist_name: "Cake"
+artist: "cake"
 album_name: "Pressure Chief"
 date: 2024-03-22T06:04:57.000000Z
 release_id: "30088206"

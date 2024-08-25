@@ -1,6 +1,7 @@
 ---
 title: "Heart - Heart"
-artist: "Heart"
+artist_name: "Heart"
+artist: "heart"
 album_name: "Heart"
 date: 2018-03-24T11:44:31.000000Z
 release_id: "3966671"

@@ -1,6 +1,7 @@
 ---
 title: "Marvin Gaye - Let's Get It On"
-artist: "Marvin Gaye"
+artist_name: "Marvin Gaye"
+artist: "marvin-gaye"
 album_name: "Let's Get It On"
 date: 2018-04-21T13:34:17.000000Z
 release_id: "11895455"

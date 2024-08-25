@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - Devil Hopping"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "Devil Hopping"
 date: 2022-04-15T08:49:37.000000Z
 release_id: "22846772"

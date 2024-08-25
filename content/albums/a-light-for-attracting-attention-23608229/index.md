@@ -1,6 +1,7 @@
 ---
 title: "The Smile - A Light For Attracting Attention"
-artist: "The Smile"
+artist_name: "The Smile"
+artist: "the-smile"
 album_name: "A Light For Attracting Attention"
 date: 2022-06-18T05:47:15.000000Z
 release_date: "2022-05-13"

@@ -1,6 +1,7 @@
 ---
 title: "The Band - The Band"
-artist: "The Band"
+artist_name: "The Band"
+artist: "the-band"
 album_name: "The Band"
 date: 2017-10-06T17:18:16.000000Z
 release_date: "2018-04-27"

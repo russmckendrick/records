@@ -1,6 +1,7 @@
 ---
 title: "The Cinematic Orchestra - To Believe"
-artist: "The Cinematic Orchestra"
+artist_name: "The Cinematic Orchestra"
+artist: "the-cinematic-orchestra"
 album_name: "To Believe"
 date: 2019-03-17T10:25:23.000000Z
 release_id: "13344503"

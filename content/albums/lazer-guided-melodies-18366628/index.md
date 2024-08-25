@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Lazer Guided Melodies"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Lazer Guided Melodies"
 date: 2021-04-23T04:31:14.000000Z
 release_id: "18366628"

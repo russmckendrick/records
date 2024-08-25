@@ -1,6 +1,7 @@
 ---
 title: "Red Hot Chili Peppers - Mother's Milk"
-artist: "Red Hot Chili Peppers"
+artist_name: "Red Hot Chili Peppers"
+artist: "red-hot-chili-peppers"
 album_name: "Mother's Milk"
 date: 2017-01-25T18:17:18.000000Z
 release_id: "8969170"

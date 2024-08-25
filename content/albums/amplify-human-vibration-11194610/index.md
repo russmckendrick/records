@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - Amplify Human Vibration"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "Amplify Human Vibration"
 date: 2017-11-25T18:37:56.000000Z
 release_id: "11194610"

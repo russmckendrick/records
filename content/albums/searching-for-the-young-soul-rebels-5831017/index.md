@@ -1,6 +1,7 @@
 ---
 title: "Dexys Midnight Runners - Searching For The Young Soul Rebels"
-artist: "Dexys Midnight Runners"
+artist_name: "Dexys Midnight Runners"
+artist: "dexys-midnight-runners"
 album_name: "Searching For The Young Soul Rebels"
 date: 2020-08-07T19:26:54.000000Z
 release_id: "5831017"

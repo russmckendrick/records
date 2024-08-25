@@ -1,6 +1,7 @@
 ---
 title: "Kingmaker - Sleepwalking"
-artist: "Kingmaker"
+artist_name: "Kingmaker"
+artist: "kingmaker"
 album_name: "Sleepwalking"
 date: 2016-07-26T17:57:59.000000Z
 release_id: "2957250"

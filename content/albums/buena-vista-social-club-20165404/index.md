@@ -1,6 +1,7 @@
 ---
 title: "Buena Vista Social Club - Buena Vista Social Club"
-artist: "Buena Vista Social Club"
+artist_name: "Buena Vista Social Club"
+artist: "buena-vista-social-club"
 album_name: "Buena Vista Social Club"
 date: 2022-10-19T07:22:38.000000Z
 release_id: "20165404"

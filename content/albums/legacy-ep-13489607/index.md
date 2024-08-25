@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Legacy EP"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Legacy EP"
 date: 2019-04-19T12:20:51.000000Z
 release_id: "13489607"

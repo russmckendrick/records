@@ -1,6 +1,7 @@
 ---
 title: "The Georgia Satellites - Georgia Satellites"
-artist: "The Georgia Satellites"
+artist_name: "The Georgia Satellites"
+artist: "the-georgia-satellites"
 album_name: "Georgia Satellites"
 date: 2020-07-08T13:15:29.000000Z
 release_id: "9581842"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Division Bell 20th. Anniversary De Luxe Box"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Division Bell 20th. Anniversary De Luxe Box"
 date: 2015-08-09T12:58:52.000000Z
 release_id: "6229448"

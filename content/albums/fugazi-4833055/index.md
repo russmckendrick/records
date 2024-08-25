@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Fugazi"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Fugazi"
 date: 2017-01-25T18:25:24.000000Z
 release_id: "4833055"

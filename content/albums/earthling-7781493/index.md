@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Earthling"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Earthling"
 date: 2016-02-24T13:03:45.000000Z
 release_id: "7781493"

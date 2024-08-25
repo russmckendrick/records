@@ -1,6 +1,7 @@
 ---
 title: "Pijn - Loss"
-artist: "Pijn"
+artist_name: "Pijn"
+artist: "pijn"
 album_name: "Loss"
 date: 2018-12-22T10:27:53.000000Z
 release_id: "12713966"

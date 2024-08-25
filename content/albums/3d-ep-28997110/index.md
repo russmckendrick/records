@@ -1,6 +1,7 @@
 ---
 title: "XTC - 3D • EP"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "3D • EP"
 date: 2023-11-24T10:24:24.000000Z
 release_id: "28997110"

@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Ladies And Gentlemen We Are Floating In Space"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Ladies And Gentlemen We Are Floating In Space"
 date: 2016-04-28T16:42:18.000000Z
 release_id: "2349306"

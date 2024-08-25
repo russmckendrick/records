@@ -1,6 +1,7 @@
 ---
 title: "Tim Bowness - Flowers At The Scene"
-artist: "Tim Bowness"
+artist_name: "Tim Bowness"
+artist: "tim-bowness"
 album_name: "Flowers At The Scene"
 date: 2019-02-28T18:48:33.000000Z
 release_id: "13283408"

@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - Radio K.A.O.S."
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "Radio K.A.O.S."
 date: 2018-10-24T11:39:39.000000Z
 release_id: "7877474"

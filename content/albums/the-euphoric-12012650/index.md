@@ -1,6 +1,7 @@
 ---
 title: "The Fierce & The Dead - The Euphoric"
-artist: "The Fierce & The Dead"
+artist_name: "The Fierce & The Dead"
+artist: "the-fierce-the-dead"
 album_name: "The Euphoric"
 date: 2018-05-17T11:35:19.000000Z
 release_id: "12012650"

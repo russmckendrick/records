@@ -1,6 +1,7 @@
 ---
 title: "Nick Drake - Bryter Layter"
-artist: "Nick Drake"
+artist_name: "Nick Drake"
+artist: "nick-drake"
 album_name: "Bryter Layter"
 date: 2015-08-09T08:36:29.000000Z
 release_date: "1970-01-01"

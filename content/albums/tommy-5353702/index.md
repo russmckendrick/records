@@ -1,6 +1,7 @@
 ---
 title: "The Who - Tommy"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "Tommy"
 date: 2015-08-09T12:08:58.000000Z
 release_id: "5353702"

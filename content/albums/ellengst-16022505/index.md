@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Ellengæst"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Ellengæst"
 date: 2020-10-08T20:31:44.000000Z
 release_id: "16022505"

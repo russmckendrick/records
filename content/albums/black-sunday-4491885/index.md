@@ -1,6 +1,7 @@
 ---
 title: "Cypress Hill - Black Sunday"
-artist: "Cypress Hill"
+artist_name: "Cypress Hill"
+artist: "cypress-hill"
 album_name: "Black Sunday"
 date: 2015-10-27T08:44:43.000000Z
 release_id: "4491885"

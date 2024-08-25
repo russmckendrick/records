@@ -1,6 +1,7 @@
 ---
 title: "Thin Lizzy - Jailbreak"
-artist: "Thin Lizzy"
+artist_name: "Thin Lizzy"
+artist: "thin-lizzy"
 album_name: "Jailbreak"
 date: 2020-02-28T20:24:42.000000Z
 release_date: "1976-01-01"

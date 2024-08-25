@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Red"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Red"
 date: 2017-02-05T12:29:04.000000Z
 release_id: "4703409"

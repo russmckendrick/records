@@ -1,6 +1,7 @@
 ---
 title: "XTC - The Big Express"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "The Big Express"
 date: 2023-04-29T03:01:24.000000Z
 release_id: "25208314"

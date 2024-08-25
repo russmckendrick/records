@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - True Colours"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "True Colours"
 date: 2016-01-20T19:29:13.000000Z
 release_id: "3340655"

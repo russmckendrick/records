@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - 92° F / The Incredible PWEI Vs Dirty Harry"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "92° F / The Incredible PWEI Vs Dirty Harry"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "99641"

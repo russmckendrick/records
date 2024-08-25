@@ -1,6 +1,7 @@
 ---
 title: "Frost* - Falling Satellites"
-artist: "Frost*"
+artist_name: "Frost*"
+artist: "frost"
 album_name: "Falling Satellites"
 date: 2021-05-13T10:29:31.000000Z
 release_id: "8596901"

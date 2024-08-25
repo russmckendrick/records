@@ -1,6 +1,7 @@
 ---
 title: "Gleb Kolyadin - Gleb Kolyadin"
-artist: "Gleb Kolyadin"
+artist_name: "Gleb Kolyadin"
+artist: "gleb-kolyadin"
 album_name: "Gleb Kolyadin"
 date: 2018-03-04T19:29:32.000000Z
 release_id: "11631228"

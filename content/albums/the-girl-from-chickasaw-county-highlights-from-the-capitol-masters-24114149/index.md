@@ -1,6 +1,7 @@
 ---
 title: "Bobbie Gentry - The Girl From Chickasaw County (Highlights From The Capitol Masters)"
-artist: "Bobbie Gentry"
+artist_name: "Bobbie Gentry"
+artist: "bobbie-gentry"
 album_name: "The Girl From Chickasaw County (Highlights From The Capitol Masters)"
 date: 2022-08-06T07:29:31.000000Z
 release_id: "24114149"

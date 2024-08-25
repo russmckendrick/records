@@ -1,6 +1,7 @@
 ---
 title: "The Levellers - We The Collective"
-artist: "The Levellers"
+artist_name: "The Levellers"
+artist: "the-levellers"
 album_name: "We The Collective"
 date: 2018-03-30T17:22:18.000000Z
 release_id: "11647665"

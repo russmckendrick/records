@@ -1,6 +1,7 @@
 ---
 title: "Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie"
 date: 2021-06-07T10:54:47.000000Z
 release_id: "15423059"

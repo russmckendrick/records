@@ -1,6 +1,7 @@
 ---
 title: "Anneke van Giersbergen - Symphonized"
-artist: "Anneke van Giersbergen"
+artist_name: "Anneke van Giersbergen"
+artist: "anneke-van-giersbergen"
 album_name: "Symphonized"
 date: 2018-11-17T10:43:54.000000Z
 release_id: "12810189"

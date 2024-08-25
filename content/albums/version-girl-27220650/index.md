@@ -1,6 +1,7 @@
 ---
 title: "Rhoda Dakar - Version Girl"
-artist: "Rhoda Dakar"
+artist_name: "Rhoda Dakar"
+artist: "rhoda-dakar"
 album_name: "Version Girl"
 date: 2023-05-29T04:54:09.000000Z
 release_id: "27220650"

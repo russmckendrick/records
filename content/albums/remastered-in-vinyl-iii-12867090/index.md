@@ -1,6 +1,7 @@
 ---
 title: "Kate Bush - Remastered In Vinyl III"
-artist: "Kate Bush"
+artist_name: "Kate Bush"
+artist: "kate-bush"
 album_name: "Remastered In Vinyl III"
 date: 2018-11-30T15:18:48.000000Z
 release_id: "12867090"

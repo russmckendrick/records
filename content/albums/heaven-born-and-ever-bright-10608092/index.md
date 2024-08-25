@@ -1,6 +1,7 @@
 ---
 title: "Cardiacs - Heaven Born And Ever Bright"
-artist: "Cardiacs"
+artist_name: "Cardiacs"
+artist: "cardiacs"
 album_name: "Heaven Born And Ever Bright"
 date: 2018-08-14T18:11:12.000000Z
 release_id: "10608092"

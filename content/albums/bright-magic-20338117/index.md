@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - Bright Magic"
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "Bright Magic"
 date: 2021-09-24T02:16:08.000000Z
 release_id: "20338117"

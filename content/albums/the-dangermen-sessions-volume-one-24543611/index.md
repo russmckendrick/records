@@ -1,6 +1,7 @@
 ---
 title: "Madness - The Dangermen Sessions (Volume One)"
-artist: "Madness"
+artist_name: "Madness"
+artist: "madness"
 album_name: "The Dangermen Sessions (Volume One)"
 date: 2022-09-17T09:34:22.000000Z
 release_id: "24543611"

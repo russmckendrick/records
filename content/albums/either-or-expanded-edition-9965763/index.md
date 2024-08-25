@@ -1,6 +1,7 @@
 ---
 title: "Elliott Smith - Either / Or: Expanded Edition"
-artist: "Elliott Smith"
+artist_name: "Elliott Smith"
+artist: "elliott-smith"
 album_name: "Either / Or: Expanded Edition"
 date: 2017-05-16T18:19:04.000000Z
 release_date: "1997-02-25"

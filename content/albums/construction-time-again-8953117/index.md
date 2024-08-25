@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Construction Time Again"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Construction Time Again"
 date: 2017-02-13T18:30:21.000000Z
 release_date: "1983-08-22"

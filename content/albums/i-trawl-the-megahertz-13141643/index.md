@@ -1,6 +1,7 @@
 ---
 title: "Prefab Sprout - I Trawl The Megahertz"
-artist: "Prefab Sprout"
+artist_name: "Prefab Sprout"
+artist: "prefab-sprout"
 album_name: "I Trawl The Megahertz"
 date: 2019-02-01T19:30:09.000000Z
 release_id: "13141643"

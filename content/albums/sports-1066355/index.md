@@ -1,6 +1,7 @@
 ---
 title: "Huey Lewis & The News - Sports"
-artist: "Huey Lewis & The News"
+artist_name: "Huey Lewis & The News"
+artist: "huey-lewis-the-news"
 album_name: "Sports"
 date: 2015-10-05T18:23:05.000000Z
 release_id: "1066355"

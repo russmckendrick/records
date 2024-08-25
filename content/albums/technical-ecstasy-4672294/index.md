@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - Technical Ecstasy"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "Technical Ecstasy"
 date: 2017-05-27T15:34:42.000000Z
 release_id: "4672294"

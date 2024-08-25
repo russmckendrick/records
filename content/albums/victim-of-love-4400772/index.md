@@ -1,6 +1,7 @@
 ---
 title: "Charles Bradley - Victim Of Love"
-artist: "Charles Bradley"
+artist_name: "Charles Bradley"
+artist: "charles-bradley"
 album_name: "Victim Of Love"
 date: 2016-10-03T14:26:22.000000Z
 release_date: "2013-04-02"

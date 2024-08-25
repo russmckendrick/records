@@ -1,6 +1,7 @@
 ---
 title: "Magenta - The Twenty Seven Club"
-artist: "Magenta"
+artist_name: "Magenta"
+artist: "magenta"
 album_name: "The Twenty Seven Club"
 date: 2017-08-06T11:02:43.000000Z
 release_id: "6321416"

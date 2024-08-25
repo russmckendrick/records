@@ -1,6 +1,7 @@
 ---
 title: "The Blues Brothers - Made In America"
-artist: "The Blues Brothers"
+artist_name: "The Blues Brothers"
+artist: "the-blues-brothers"
 album_name: "Made In America"
 date: 2015-12-09T10:18:46.000000Z
 release_id: "2767076"

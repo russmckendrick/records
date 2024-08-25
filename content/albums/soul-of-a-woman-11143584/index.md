@@ -1,6 +1,7 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Soul Of A Woman"
-artist: "Sharon Jones & The Dap-Kings"
+artist_name: "Sharon Jones & The Dap-Kings"
+artist: "sharon-jones-the-dap-kings"
 album_name: "Soul Of A Woman"
 date: 2017-11-18T09:00:48.000000Z
 release_id: "11143584"

@@ -1,6 +1,7 @@
 ---
 title: "Rob Dougan - Films: Past And Future"
-artist: "Rob Dougan"
+artist_name: "Rob Dougan"
+artist: "rob-dougan"
 album_name: "Films: Past And Future"
 date: 2019-05-13T12:11:20.000000Z
 release_id: "13623720"

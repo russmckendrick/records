@@ -1,6 +1,7 @@
 ---
 title: "Ed O'Brien - Earth"
-artist: "Ed O'Brien"
+artist_name: "Ed O'Brien"
+artist: "ed-o-brien"
 album_name: "Earth"
 date: 2020-04-27T12:46:53.000000Z
 release_id: "15122504"

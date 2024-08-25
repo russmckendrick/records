@@ -1,6 +1,7 @@
 ---
 title: "Ned's Atomic Dustbin - Are You Normal?"
-artist: "Ned's Atomic Dustbin"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Are You Normal?"
 date: 2023-07-19T10:52:29.000000Z
 release_id: "27674652"

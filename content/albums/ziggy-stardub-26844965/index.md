@@ -1,6 +1,7 @@
 ---
 title: "Easy Star All-Stars - Ziggy Stardub"
-artist: "Easy Star All-Stars"
+artist_name: "Easy Star All-Stars"
+artist: "easy-star-all-stars"
 album_name: "Ziggy Stardub"
 date: 2023-04-23T04:38:33.000000Z
 release_id: "26844965"

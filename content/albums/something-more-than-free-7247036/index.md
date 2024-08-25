@@ -1,6 +1,7 @@
 ---
 title: "Jason Isbell - Something More Than Free"
-artist: "Jason Isbell"
+artist_name: "Jason Isbell"
+artist: "jason-isbell"
 album_name: "Something More Than Free"
 date: 2016-02-21T12:08:45.000000Z
 release_date: "2015-07-17"

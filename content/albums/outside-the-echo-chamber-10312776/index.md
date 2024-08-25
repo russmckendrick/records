@@ -1,6 +1,7 @@
 ---
 title: "Coldcut - Outside The Echo Chamber"
-artist: "Coldcut"
+artist_name: "Coldcut"
+artist: "coldcut"
 album_name: "Outside The Echo Chamber"
 date: 2017-06-09T16:12:30.000000Z
 release_id: "10312776"

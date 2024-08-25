@@ -1,6 +1,7 @@
 ---
 title: "Prince - Batman™ (Motion Picture Soundtrack)"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Batman™ (Motion Picture Soundtrack)"
 date: 2023-09-10T02:23:34.000000Z
 release_id: "28195510"

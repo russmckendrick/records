@@ -1,6 +1,7 @@
 ---
 title: "Various - Almost Famous (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Almost Famous (Music From The Motion Picture)"
 date: 2022-03-29T08:27:38.000000Z
 release_id: "19945918"

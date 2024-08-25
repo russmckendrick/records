@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Doubt"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Doubt"
 date: 2022-11-13T23:28:19.000000Z
 release_id: "25144474"

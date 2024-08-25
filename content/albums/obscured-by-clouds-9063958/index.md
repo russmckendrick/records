@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Obscured By Clouds"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Obscured By Clouds"
 date: 2016-09-23T16:51:08.000000Z
 release_date: "1972-06-02"

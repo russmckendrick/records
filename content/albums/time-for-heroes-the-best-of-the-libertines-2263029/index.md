@@ -1,6 +1,7 @@
 ---
 title: "The Libertines - Time For Heroes - The Best Of The Libertines"
-artist: "The Libertines"
+artist_name: "The Libertines"
+artist: "the-libertines"
 album_name: "Time For Heroes - The Best Of The Libertines"
 date: 2018-07-13T19:25:54.000000Z
 release_id: "2263029"

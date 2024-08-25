@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - The Delerium Years 1994-1997"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "The Delerium Years 1994-1997"
 date: 2016-04-27T16:45:28.000000Z
 release_id: "8088258"

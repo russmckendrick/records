@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Spirit"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Spirit"
 date: 2017-03-18T12:18:16.000000Z
 release_date: "2017-03-17"

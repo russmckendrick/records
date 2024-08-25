@@ -1,6 +1,7 @@
 ---
 title: "Charles Bradley - No Time For Dreaming"
-artist: "Charles Bradley"
+artist_name: "Charles Bradley"
+artist: "charles-bradley"
 album_name: "No Time For Dreaming"
 date: 2016-10-03T14:26:35.000000Z
 release_id: "2681475"

@@ -1,6 +1,7 @@
 ---
 title: "Ghost - Phantomime "
-artist: "Ghost"
+artist_name: "Ghost"
+artist: "ghost"
 album_name: "Phantomime "
 date: 2023-05-19T11:07:27.000000Z
 release_date: "2023-05-19"

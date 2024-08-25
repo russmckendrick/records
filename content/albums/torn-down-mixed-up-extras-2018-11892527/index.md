@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Torn Down: Mixed Up Extras 2018"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Torn Down: Mixed Up Extras 2018"
 date: 2018-04-21T11:16:31.000000Z
 release_id: "11892527"

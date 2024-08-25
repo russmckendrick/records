@@ -1,6 +1,7 @@
 ---
 title: "ZZ Top - Eliminator"
-artist: "ZZ Top"
+artist_name: "ZZ Top"
+artist: "zz-top"
 album_name: "Eliminator"
 date: 2020-08-01T12:48:59.000000Z
 release_id: "2760061"

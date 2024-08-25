@@ -1,6 +1,7 @@
 ---
 title: "Purson - Desire's Magic Theatre"
-artist: "Purson"
+artist_name: "Purson"
+artist: "purson"
 album_name: "Desire's Magic Theatre"
 date: 2016-04-29T18:01:49.000000Z
 release_id: "8453895"

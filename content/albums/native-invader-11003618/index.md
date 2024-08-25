@@ -1,6 +1,7 @@
 ---
 title: "Tori Amos - Native Invader"
-artist: "Tori Amos"
+artist_name: "Tori Amos"
+artist: "tori-amos"
 album_name: "Native Invader"
 date: 2018-01-20T19:10:32.000000Z
 release_id: "11003618"

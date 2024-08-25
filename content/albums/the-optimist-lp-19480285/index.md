@@ -1,6 +1,7 @@
 ---
 title: "Turin Brakes - The Optimist LP"
-artist: "Turin Brakes"
+artist_name: "Turin Brakes"
+artist: "turin-brakes"
 album_name: "The Optimist LP"
 date: 2021-07-14T10:54:43.000000Z
 release_id: "19480285"

@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - The Patty Patty Sound"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "The Patty Patty Sound"
 date: 2016-02-19T17:28:46.000000Z
 release_id: "7427082"

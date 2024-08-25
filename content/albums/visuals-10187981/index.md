@@ -1,6 +1,7 @@
 ---
 title: "Mew - Visuals"
-artist: "Mew"
+artist_name: "Mew"
+artist: "mew"
 album_name: "Visuals"
 date: 2017-04-28T14:37:26.000000Z
 release_id: "10187981"

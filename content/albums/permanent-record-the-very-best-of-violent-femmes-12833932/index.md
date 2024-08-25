@@ -1,6 +1,7 @@
 ---
 title: "Violent Femmes - Permanent Record: The Very Best Of Violent Femmes"
-artist: "Violent Femmes"
+artist_name: "Violent Femmes"
+artist: "violent-femmes"
 album_name: "Permanent Record: The Very Best Of Violent Femmes"
 date: 2018-12-17T14:42:25.000000Z
 release_date: "2005-07-12"

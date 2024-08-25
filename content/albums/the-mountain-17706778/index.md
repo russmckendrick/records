@@ -1,6 +1,7 @@
 ---
 title: "Haken - The Mountain"
-artist: "Haken"
+artist_name: "Haken"
+artist: "haken"
 album_name: "The Mountain"
 date: 2021-03-06T11:31:19.000000Z
 release_id: "17706778"

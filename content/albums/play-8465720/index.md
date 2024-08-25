@@ -1,6 +1,7 @@
 ---
 title: "Moby - Play"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Play"
 date: 2018-01-06T10:52:07.000000Z
 release_id: "8465720"

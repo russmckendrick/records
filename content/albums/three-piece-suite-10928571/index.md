@@ -1,6 +1,7 @@
 ---
 title: "Gentle Giant - Three Piece Suite"
-artist: "Gentle Giant"
+artist_name: "Gentle Giant"
+artist: "gentle-giant"
 album_name: "Three Piece Suite"
 date: 2017-10-13T18:11:01.000000Z
 release_id: "10928571"

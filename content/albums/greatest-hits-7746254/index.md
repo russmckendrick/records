@@ -1,6 +1,7 @@
 ---
 title: "The Kinks - Greatest Hits"
-artist: "The Kinks"
+artist_name: "The Kinks"
+artist: "the-kinks"
 album_name: "Greatest Hits"
 date: 2016-01-08T19:14:34.000000Z
 release_id: "7746254"

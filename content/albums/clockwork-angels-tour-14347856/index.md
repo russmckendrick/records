@@ -1,6 +1,7 @@
 ---
 title: "Rush - Clockwork Angels Tour"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Clockwork Angels Tour"
 date: 2020-07-11T13:37:45.000000Z
 release_id: "14347856"

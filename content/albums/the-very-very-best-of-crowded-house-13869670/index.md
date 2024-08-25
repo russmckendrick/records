@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - The Very Very Best Of Crowded House"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "The Very Very Best Of Crowded House"
 date: 2019-07-15T18:00:11.000000Z
 release_id: "13869670"

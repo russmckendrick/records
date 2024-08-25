@@ -1,6 +1,7 @@
 ---
 title: "Alanis Morissette - Jagged Little Pill"
-artist: "Alanis Morissette"
+artist_name: "Alanis Morissette"
+artist: "alanis-morissette"
 album_name: "Jagged Little Pill"
 date: 2017-04-17T13:21:29.000000Z
 release_date: "1995-06-13"

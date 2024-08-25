@@ -1,6 +1,7 @@
 ---
 title: "Japan - Exorcising Ghosts"
-artist: "Japan"
+artist_name: "Japan"
+artist: "japan"
 album_name: "Exorcising Ghosts"
 date: 2022-10-21T09:01:38.000000Z
 release_id: "24749051"

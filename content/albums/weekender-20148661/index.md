@@ -1,6 +1,7 @@
 ---
 title: "Flowered Up - Weekender"
-artist: "Flowered Up"
+artist_name: "Flowered Up"
+artist: "flowered-up"
 album_name: "Weekender"
 date: 2021-09-09T10:55:06.000000Z
 release_id: "20148661"

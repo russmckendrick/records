@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - Kveikur"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "Kveikur"
 date: 2023-04-23T04:36:18.000000Z
 release_id: "26815136"

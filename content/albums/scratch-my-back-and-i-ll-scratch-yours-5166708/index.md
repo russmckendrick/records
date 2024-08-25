@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Scratch My Back / And I'll Scratch Yours"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Scratch My Back / And I'll Scratch Yours"
 date: 2016-12-08T18:45:31.000000Z
 release_id: "5166708"

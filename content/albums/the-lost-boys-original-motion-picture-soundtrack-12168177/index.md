@@ -1,6 +1,7 @@
 ---
 title: "Various - The Lost Boys (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Lost Boys (Original Motion Picture Soundtrack)"
 date: 2018-06-23T08:47:47.000000Z
 release_id: "12168177"

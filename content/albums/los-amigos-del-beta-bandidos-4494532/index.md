@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - Los Amigos Del Beta Bandidos"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "Los Amigos Del Beta Bandidos"
 date: 2016-02-18T19:17:05.000000Z
 release_id: "4494532"

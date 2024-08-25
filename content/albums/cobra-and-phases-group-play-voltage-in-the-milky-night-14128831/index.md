@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Cobra And Phases Group Play Voltage In The Milky Night"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Cobra And Phases Group Play Voltage In The Milky Night"
 date: 2019-09-15T12:01:51.000000Z
 release_id: "14128831"

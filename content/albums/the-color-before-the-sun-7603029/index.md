@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - The Color Before The Sun"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "The Color Before The Sun"
 date: 2015-10-24T08:06:03.000000Z
 release_date: "2015-10-16"

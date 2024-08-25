@@ -1,6 +1,7 @@
 ---
 title: "Steve Earle & The Dukes (And Duchesses) - The Low Highway"
-artist: "Steve Earle & The Dukes (And Duchesses)"
+artist_name: "Steve Earle & The Dukes (And Duchesses)"
+artist: "steve-earle-the-dukes-and-duchesses"
 album_name: "The Low Highway"
 date: 2021-11-05T10:37:16.000000Z
 release_id: "4470602"

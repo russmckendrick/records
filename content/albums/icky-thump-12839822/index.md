@@ -1,6 +1,7 @@
 ---
 title: "The White Stripes - Icky Thump"
-artist: "The White Stripes"
+artist_name: "The White Stripes"
+artist: "the-white-stripes"
 album_name: "Icky Thump"
 date: 2018-11-23T22:53:02.000000Z
 release_id: "12839822"

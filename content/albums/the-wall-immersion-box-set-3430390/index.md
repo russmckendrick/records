@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Wall - Immersion Box Set"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Wall - Immersion Box Set"
 date: 2015-08-09T13:06:23.000000Z
 release_id: "3430390"

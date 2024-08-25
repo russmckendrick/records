@@ -1,6 +1,7 @@
 ---
 title: "Nine Inch Nails - Broken"
-artist: "Nine Inch Nails"
+artist_name: "Nine Inch Nails"
+artist: "nine-inch-nails"
 album_name: "Broken"
 date: 2017-11-18T09:02:20.000000Z
 release_id: "10693965"

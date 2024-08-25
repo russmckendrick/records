@@ -1,6 +1,7 @@
 ---
 title: "Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)"
-artist: "Michael McDonald"
+artist_name: "Michael McDonald"
+artist: "michael-mcdonald"
 album_name: "Sweet Freedom (The Best Of Michael McDonald)"
 date: 2021-09-03T04:32:37.000000Z
 release_id: "573351"

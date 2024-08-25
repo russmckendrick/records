@@ -1,6 +1,7 @@
 ---
 title: "Mastodon - Blood Mountain"
-artist: "Mastodon"
+artist_name: "Mastodon"
+artist: "mastodon"
 album_name: "Blood Mountain"
 date: 2016-10-25T14:09:21.000000Z
 release_id: "6775331"

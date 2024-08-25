@@ -1,6 +1,7 @@
 ---
 title: "Marvin Gaye - What's Going On"
-artist: "Marvin Gaye"
+artist_name: "Marvin Gaye"
+artist: "marvin-gaye"
 album_name: "What's Going On"
 date: 2016-11-26T10:41:11.000000Z
 release_date: "1971-05-21"

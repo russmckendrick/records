@@ -1,6 +1,7 @@
 ---
 title: "John Grant - Boy From Michigan"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "Boy From Michigan"
 date: 2021-06-26T04:24:24.000000Z
 release_id: "19273432"

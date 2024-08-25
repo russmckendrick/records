@@ -1,6 +1,7 @@
 ---
 title: "XTC - Drums And Wires"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Drums And Wires"
 date: 2020-11-28T12:34:08.000000Z
 release_id: "16269444"

@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Time And Tide"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Time And Tide"
 date: 2018-09-29T10:01:24.000000Z
 release_id: "2805312"

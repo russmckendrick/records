@@ -1,6 +1,7 @@
 ---
 title: "The Stylistics - You Are Beautiful"
-artist: "The Stylistics"
+artist_name: "The Stylistics"
+artist: "the-stylistics"
 album_name: "You Are Beautiful"
 date: 2020-08-02T13:48:59.000000Z
 release_id: "2400372"

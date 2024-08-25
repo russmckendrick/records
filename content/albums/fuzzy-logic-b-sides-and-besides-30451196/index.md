@@ -1,6 +1,7 @@
 ---
 title: "Super Furry Animals - Fuzzy Logic B-Sides and Besides"
-artist: "Super Furry Animals"
+artist_name: "Super Furry Animals"
+artist: "super-furry-animals"
 album_name: "Fuzzy Logic B-Sides and Besides"
 date: 2024-04-20T08:01:03.000000Z
 release_id: "30451196"

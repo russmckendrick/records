@@ -1,6 +1,7 @@
 ---
 title: "Karen Elson - Double Roses"
-artist: "Karen Elson"
+artist_name: "Karen Elson"
+artist: "karen-elson"
 album_name: "Double Roses"
 date: 2017-04-23T12:08:07.000000Z
 release_id: "10098506"

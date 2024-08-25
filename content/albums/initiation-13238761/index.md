@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - Initiation"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "Initiation"
 date: 2022-03-06T05:00:16.000000Z
 release_id: "13238761"

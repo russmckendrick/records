@@ -1,6 +1,7 @@
 ---
 title: "Led Zeppelin - Physical Graffiti"
-artist: "Led Zeppelin"
+artist_name: "Led Zeppelin"
+artist: "led-zeppelin"
 album_name: "Physical Graffiti"
 date: 2017-02-26T10:58:09.000000Z
 release_date: "1975-02-24"

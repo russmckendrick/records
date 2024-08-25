@@ -1,6 +1,7 @@
 ---
 title: "Aretha Franklin - Who's Zoomin' Who?"
-artist: "Aretha Franklin"
+artist_name: "Aretha Franklin"
+artist: "aretha-franklin"
 album_name: "Who's Zoomin' Who?"
 date: 2020-08-02T13:35:40.000000Z
 release_id: "895574"

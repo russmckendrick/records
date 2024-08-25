@@ -1,6 +1,7 @@
 ---
 title: "John Lee Hooker - The Very Best Of John Lee Hooker"
-artist: "John Lee Hooker"
+artist_name: "John Lee Hooker"
+artist: "john-lee-hooker"
 album_name: "The Very Best Of John Lee Hooker"
 date: 2021-12-23T04:32:39.000000Z
 release_id: "8578752"

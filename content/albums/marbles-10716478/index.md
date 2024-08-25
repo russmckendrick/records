@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Marbles"
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Marbles"
 date: 2017-09-15T14:01:11.000000Z
 release_id: "10716478"

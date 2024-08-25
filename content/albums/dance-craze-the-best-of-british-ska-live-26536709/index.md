@@ -1,6 +1,7 @@
 ---
 title: "Various - Dance Craze - The Best of British Ska...LIVE!"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Dance Craze - The Best of British Ska...LIVE!"
 date: 2023-04-03T04:26:22.000000Z
 release_id: "26536709"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Loaded"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Loaded"
 date: 2021-06-07T10:53:49.000000Z
 release_id: "15400556"

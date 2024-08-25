@@ -1,6 +1,7 @@
 ---
 title: "Grandaddy - Under The Western Freeway 20th Anniversary Edition"
-artist: "Grandaddy"
+artist_name: "Grandaddy"
+artist: "grandaddy"
 album_name: "Under The Western Freeway 20th Anniversary Edition"
 date: 2017-10-27T17:01:46.000000Z
 release_id: "11028998"

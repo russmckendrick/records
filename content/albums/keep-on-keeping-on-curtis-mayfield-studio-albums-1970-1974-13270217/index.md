@@ -1,6 +1,7 @@
 ---
 title: "Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
-artist: "Curtis Mayfield"
+artist_name: "Curtis Mayfield"
+artist: "curtis-mayfield"
 album_name: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
 date: 2020-05-27T15:16:10.000000Z
 release_id: "13270217"

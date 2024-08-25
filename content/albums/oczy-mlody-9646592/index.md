@@ -1,6 +1,7 @@
 ---
 title: "The Flaming Lips - Oczy Mlody"
-artist: "The Flaming Lips"
+artist_name: "The Flaming Lips"
+artist: "the-flaming-lips"
 album_name: "Oczy Mlody"
 date: 2022-03-21T06:20:07.000000Z
 release_date: "2017-01-13"

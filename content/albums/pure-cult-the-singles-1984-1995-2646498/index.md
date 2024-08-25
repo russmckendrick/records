@@ -1,6 +1,7 @@
 ---
 title: "The Cult - Pure Cult The Singles 1984 - 1995"
-artist: "The Cult"
+artist_name: "The Cult"
+artist: "the-cult"
 album_name: "Pure Cult The Singles 1984 - 1995"
 date: 2017-02-02T17:47:04.000000Z
 release_id: "2646498"

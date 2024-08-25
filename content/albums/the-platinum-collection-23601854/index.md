@@ -1,6 +1,7 @@
 ---
 title: "Queen - The Platinum Collection"
-artist: "Queen"
+artist_name: "Queen"
+artist: "queen"
 album_name: "The Platinum Collection"
 date: 2022-06-17T04:00:54.000000Z
 release_id: "23601854"

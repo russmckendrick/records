@@ -1,6 +1,7 @@
 ---
 title: "John Lennon - Mind Games"
-artist: "John Lennon"
+artist_name: "John Lennon"
+artist: "john-lennon"
 album_name: "Mind Games"
 date: 2024-07-16T05:08:51.000000Z
 release_id: "31202122"

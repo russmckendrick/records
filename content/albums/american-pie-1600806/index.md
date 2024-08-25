@@ -1,6 +1,7 @@
 ---
 title: "Don McLean - American Pie"
-artist: "Don McLean"
+artist_name: "Don McLean"
+artist: "don-mclean"
 album_name: "American Pie"
 date: 2020-08-02T13:34:50.000000Z
 release_id: "1600806"

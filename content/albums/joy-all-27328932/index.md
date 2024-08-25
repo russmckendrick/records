@@ -1,6 +1,7 @@
 ---
 title: "Jenny Lewis - Joy'All"
-artist: "Jenny Lewis"
+artist_name: "Jenny Lewis"
+artist: "jenny-lewis"
 album_name: "Joy'All"
 date: 2023-06-09T10:12:51.000000Z
 release_id: "27328932"

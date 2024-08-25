@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - The Southern Harmony And Musical Companion"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "The Southern Harmony And Musical Companion"
 date: 2015-12-19T11:37:19.000000Z
 release_id: "7867280"

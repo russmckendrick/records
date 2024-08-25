@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Nothing Lasts Forever"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Nothing Lasts Forever"
 date: 2024-02-02T00:42:10.000000Z
 release_id: "28350391"

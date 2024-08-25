@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - The Rhythm Of The Saints"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "The Rhythm Of The Saints"
 date: 2019-04-26T12:43:37.000000Z
 release_date: "1990-10-01"

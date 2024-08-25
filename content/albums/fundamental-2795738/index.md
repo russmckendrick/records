@@ -1,6 +1,7 @@
 ---
 title: "Mental As Anything - Fundamental"
-artist: "Mental As Anything"
+artist_name: "Mental As Anything"
+artist: "mental-as-anything"
 album_name: "Fundamental"
 date: 2017-07-11T08:45:32.000000Z
 release_id: "2795738"

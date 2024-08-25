@@ -1,6 +1,7 @@
 ---
 title: "Y Kant Tori Read - Y Kant Tori Read"
-artist: "Y Kant Tori Read"
+artist_name: "Y Kant Tori Read"
+artist: "y-kant-tori-read"
 album_name: "Y Kant Tori Read"
 date: 2017-12-07T21:00:02.000000Z
 release_id: "11172681"

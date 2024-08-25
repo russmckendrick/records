@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Atmosphere"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Atmosphere"
 date: 2020-07-17T12:25:03.000000Z
 release_id: "15622185"

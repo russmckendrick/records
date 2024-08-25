@@ -1,6 +1,7 @@
 ---
 title: "New Order - Singles"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Singles"
 date: 2016-09-12T16:36:08.000000Z
 release_id: "9017905"

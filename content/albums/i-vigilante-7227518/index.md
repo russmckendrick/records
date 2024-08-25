@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - I, Vigilante"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "I, Vigilante"
 date: 2016-10-31T17:51:16.000000Z
 release_id: "7227518"

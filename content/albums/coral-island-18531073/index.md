@@ -1,6 +1,7 @@
 ---
 title: "The Coral - Coral Island"
-artist: "The Coral"
+artist_name: "The Coral"
+artist: "the-coral"
 album_name: "Coral Island"
 date: 2021-05-05T04:12:46.000000Z
 release_id: "18531073"

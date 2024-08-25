@@ -1,6 +1,7 @@
 ---
 title: "Dire Straits - The Studio Albums 1978 - 1991"
-artist: "Dire Straits"
+artist_name: "Dire Straits"
+artist: "dire-straits"
 album_name: "The Studio Albums 1978 - 1991"
 date: 2020-10-12T12:25:49.000000Z
 release_id: "5238704"

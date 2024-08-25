@@ -1,6 +1,7 @@
 ---
 title: "The National - Boxer"
-artist: "The National"
+artist_name: "The National"
+artist: "the-national"
 album_name: "Boxer"
 date: 2017-08-13T18:21:29.000000Z
 release_id: "10689734"

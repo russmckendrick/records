@@ -1,6 +1,7 @@
 ---
 title: "The Beatles - 1962-1966"
-artist: "The Beatles"
+artist_name: "The Beatles"
+artist: "the-beatles"
 album_name: "1962-1966"
 date: 2023-11-17T04:14:01.000000Z
 release_date: "1973-04-02"

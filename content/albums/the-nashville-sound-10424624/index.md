@@ -1,6 +1,7 @@
 ---
 title: "Jason Isbell And The 400 Unit - The Nashville Sound "
-artist: "Jason Isbell And The 400 Unit"
+artist_name: "Jason Isbell And The 400 Unit"
+artist: "jason-isbell-and-the-400-unit"
 album_name: "The Nashville Sound "
 date: 2017-06-16T19:58:45.000000Z
 release_id: "10424624"

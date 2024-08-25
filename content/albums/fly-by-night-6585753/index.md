@@ -1,6 +1,7 @@
 ---
 title: "Rush - Fly By Night"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Fly By Night"
 date: 2017-03-02T17:33:40.000000Z
 release_date: "1975-02-15"

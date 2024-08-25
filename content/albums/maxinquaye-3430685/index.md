@@ -1,6 +1,7 @@
 ---
 title: "Tricky - Maxinquaye"
-artist: "Tricky"
+artist_name: "Tricky"
+artist: "tricky"
 album_name: "Maxinquaye"
 date: 2022-06-24T05:51:00.000000Z
 release_date: "1995-01-01"

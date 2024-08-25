@@ -1,6 +1,7 @@
 ---
 title: "The Rolling Stones - Hot Rocks 1964-1971"
-artist: "The Rolling Stones"
+artist_name: "The Rolling Stones"
+artist: "the-rolling-stones"
 album_name: "Hot Rocks 1964-1971"
 date: 2016-10-01T10:33:52.000000Z
 release_id: "879358"

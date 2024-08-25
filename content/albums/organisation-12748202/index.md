@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Organisation"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Organisation"
 date: 2018-11-03T09:52:02.000000Z
 release_id: "12748202"

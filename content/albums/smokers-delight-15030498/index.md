@@ -1,6 +1,7 @@
 ---
 title: "Nightmares On Wax - Smokers Delight"
-artist: "Nightmares On Wax"
+artist_name: "Nightmares On Wax"
+artist: "nightmares-on-wax"
 album_name: "Smokers Delight"
 date: 2020-04-09T16:45:27.000000Z
 release_id: "15030498"

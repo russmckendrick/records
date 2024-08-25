@@ -1,6 +1,7 @@
 ---
 title: "Paris Angels - Sundew"
-artist: "Paris Angels"
+artist_name: "Paris Angels"
+artist: "paris-angels"
 album_name: "Sundew"
 date: 2016-04-04T21:20:19.000000Z
 release_id: "661808"

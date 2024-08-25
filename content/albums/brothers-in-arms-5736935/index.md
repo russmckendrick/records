@@ -1,6 +1,7 @@
 ---
 title: "Dire Straits - Brothers In Arms"
-artist: "Dire Straits"
+artist_name: "Dire Straits"
+artist: "dire-straits"
 album_name: "Brothers In Arms"
 date: 2016-11-18T18:42:44.000000Z
 release_id: "5736935"

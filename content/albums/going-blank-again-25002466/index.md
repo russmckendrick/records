@@ -1,6 +1,7 @@
 ---
 title: "Ride - Going Blank Again"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Going Blank Again"
 date: 2022-11-04T06:15:59.000000Z
 release_id: "25002466"

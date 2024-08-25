@@ -1,6 +1,7 @@
 ---
 title: "Primus - The Desaturating Seven"
-artist: "Primus"
+artist_name: "Primus"
+artist: "primus"
 album_name: "The Desaturating Seven"
 date: 2017-09-29T17:23:38.000000Z
 release_date: "2017-09-29"

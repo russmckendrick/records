@@ -1,6 +1,7 @@
 ---
 title: "Dodgy - The A&M Albums"
-artist: "Dodgy"
+artist_name: "Dodgy"
+artist: "dodgy"
 album_name: "The A&M Albums"
 date: 2022-02-25T09:32:29.000000Z
 release_id: "22286113"

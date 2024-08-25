@@ -1,6 +1,7 @@
 ---
 title: "Terence Trent D'Arby - Introducing The Hardline According To Terence Trent D'Arby"
-artist: "Terence Trent D'Arby"
+artist_name: "Terence Trent D'Arby"
+artist: "terence-trent-d-arby"
 album_name: "Introducing The Hardline According To Terence Trent D'Arby"
 date: 2020-08-01T12:44:10.000000Z
 release_date: "1987-07-09"

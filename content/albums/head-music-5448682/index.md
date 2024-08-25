@@ -1,6 +1,7 @@
 ---
 title: "Suede - Head Music"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Head Music"
 date: 2017-05-04T21:09:51.000000Z
 release_date: "2011-06-20"

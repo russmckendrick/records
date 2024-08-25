@@ -1,6 +1,7 @@
 ---
 title: "Bob Dylan - Rough And Rowdy Ways"
-artist: "Bob Dylan"
+artist_name: "Bob Dylan"
+artist: "bob-dylan"
 album_name: "Rough And Rowdy Ways"
 date: 2020-07-17T12:55:21.000000Z
 release_date: "2020-06-19"

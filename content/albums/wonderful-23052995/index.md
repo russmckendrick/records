@@ -1,6 +1,7 @@
 ---
 title: "Madness - Wonderful"
-artist: "Madness"
+artist_name: "Madness"
+artist: "madness"
 album_name: "Wonderful"
 date: 2022-09-04T03:40:41.000000Z
 release_id: "23052995"

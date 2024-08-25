@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Springsteen On Broadway"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Springsteen On Broadway"
 date: 2019-01-25T18:18:30.000000Z
 release_date: "2018-12-14"

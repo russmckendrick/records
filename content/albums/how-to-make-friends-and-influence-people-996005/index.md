@@ -1,6 +1,7 @@
 ---
 title: "Terrorvision - How To Make Friends And Influence People"
-artist: "Terrorvision"
+artist_name: "Terrorvision"
+artist: "terrorvision"
 album_name: "How To Make Friends And Influence People"
 date: 2019-05-31T19:17:19.000000Z
 release_id: "996005"

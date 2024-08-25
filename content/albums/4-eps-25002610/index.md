@@ -1,6 +1,7 @@
 ---
 title: "Ride - 4 EPs"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "4 EPs"
 date: 2022-11-04T06:15:44.000000Z
 release_id: "25002610"

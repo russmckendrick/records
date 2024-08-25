@@ -1,6 +1,7 @@
 ---
 title: "Francis Monkman - The Long Good Friday (Original Motion Picture Score)"
-artist: "Francis Monkman"
+artist_name: "Francis Monkman"
+artist: "francis-monkman"
 album_name: "The Long Good Friday (Original Motion Picture Score)"
 date: 2016-10-20T16:29:01.000000Z
 release_id: "8597626"

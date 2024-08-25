@@ -1,6 +1,7 @@
 ---
 title: "Martin Hannett - Hannett's Electronic Recordings - Homage To Delia Derbyshire"
-artist: "Martin Hannett"
+artist_name: "Martin Hannett"
+artist: "martin-hannett"
 album_name: "Hannett's Electronic Recordings - Homage To Delia Derbyshire"
 date: 2017-09-01T18:42:21.000000Z
 release_id: "10764813"

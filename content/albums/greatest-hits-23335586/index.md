@@ -1,6 +1,7 @@
 ---
 title: "Whitesnake - Greatest Hits"
-artist: "Whitesnake"
+artist_name: "Whitesnake"
+artist: "whitesnake"
 album_name: "Greatest Hits"
 date: 2022-06-04T02:27:42.000000Z
 release_id: "23335586"

@@ -1,6 +1,7 @@
 ---
 title: "The Slackers - Don't Let The Sunlight Fool Ya"
-artist: "The Slackers"
+artist_name: "The Slackers"
+artist: "the-slackers"
 album_name: "Don't Let The Sunlight Fool Ya"
 date: 2023-10-01T03:55:56.000000Z
 release_id: "22645184"

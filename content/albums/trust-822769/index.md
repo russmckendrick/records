@@ -1,6 +1,7 @@
 ---
 title: "Ned's Atomic Dustbin - Trust"
-artist: "Ned's Atomic Dustbin"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Trust"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "822769"

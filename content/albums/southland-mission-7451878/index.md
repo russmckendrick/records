@@ -1,6 +1,7 @@
 ---
 title: "Phil Cook - Southland Mission"
-artist: "Phil Cook"
+artist_name: "Phil Cook"
+artist: "phil-cook"
 album_name: "Southland Mission"
 date: 2016-01-24T14:09:17.000000Z
 release_id: "7451878"

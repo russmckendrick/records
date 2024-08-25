@@ -1,6 +1,7 @@
 ---
 title: "Bob Mould - Sunshine Rock"
-artist: "Bob Mould"
+artist_name: "Bob Mould"
+artist: "bob-mould"
 album_name: "Sunshine Rock"
 date: 2019-02-08T14:23:02.000000Z
 release_id: "13162648"

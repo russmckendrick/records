@@ -1,6 +1,7 @@
 ---
 title: "B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
-artist: "B.B. King"
+artist_name: "B.B. King"
+artist: "b-b-king"
 album_name: "Selections From: Ladies & Gentlemen ... Mr. B.B. King"
 date: 2015-12-01T22:11:01.000000Z
 release_id: "7771447"

@@ -1,6 +1,7 @@
 ---
 title: "The Jesus And Mary Chain - Psychocandy"
-artist: "The Jesus And Mary Chain"
+artist_name: "The Jesus And Mary Chain"
+artist: "the-jesus-and-mary-chain"
 album_name: "Psychocandy"
 date: 2020-08-01T12:49:24.000000Z
 release_id: "8084685"

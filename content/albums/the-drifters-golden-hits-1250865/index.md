@@ -1,6 +1,7 @@
 ---
 title: "The Drifters - The Drifters' Golden Hits"
-artist: "The Drifters"
+artist_name: "The Drifters"
+artist: "the-drifters"
 album_name: "The Drifters' Golden Hits"
 date: 2020-08-02T13:39:40.000000Z
 release_id: "1250865"

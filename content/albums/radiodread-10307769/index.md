@@ -1,6 +1,7 @@
 ---
 title: "Easy Star All-Stars - Radiodread"
-artist: "Easy Star All-Stars"
+artist_name: "Easy Star All-Stars"
+artist: "easy-star-all-stars"
 album_name: "Radiodread"
 date: 2017-05-27T10:09:04.000000Z
 release_id: "10307769"

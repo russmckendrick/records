@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Wall For Chamber Orchestra"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Wall For Chamber Orchestra"
 date: 2022-06-30T04:58:14.000000Z
 release_id: "13569554"

@@ -1,6 +1,7 @@
 ---
 title: "Ian Dury - New Boots And Panties!!"
-artist: "Ian Dury"
+artist_name: "Ian Dury"
+artist: "ian-dury"
 album_name: "New Boots And Panties!!"
 date: 2016-01-07T16:18:51.000000Z
 release_id: "392738"

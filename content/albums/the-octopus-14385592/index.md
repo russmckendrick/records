@@ -1,6 +1,7 @@
 ---
 title: "Amplifier - The Octopus"
-artist: "Amplifier"
+artist_name: "Amplifier"
+artist: "amplifier"
 album_name: "The Octopus"
 date: 2021-03-13T05:43:56.000000Z
 release_id: "14385592"

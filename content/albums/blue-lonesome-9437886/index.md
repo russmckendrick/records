@@ -1,6 +1,7 @@
 ---
 title: "The Rolling Stones - Blue & Lonesome"
-artist: "The Rolling Stones"
+artist_name: "The Rolling Stones"
+artist: "the-rolling-stones"
 album_name: "Blue & Lonesome"
 date: 2017-02-11T14:53:32.000000Z
 release_date: "2016-12-02"

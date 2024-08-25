@@ -1,6 +1,7 @@
 ---
 title: "Angelo Badalamenti - Twin Peaks"
-artist: "Angelo Badalamenti"
+artist_name: "Angelo Badalamenti"
+artist: "angelo-badalamenti"
 album_name: "Twin Peaks"
 date: 2016-08-26T16:30:13.000000Z
 release_date: "1990-09-11"

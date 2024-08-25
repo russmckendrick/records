@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Closure / Continuation"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Closure / Continuation"
 date: 2022-06-24T02:44:48.000000Z
 release_date: "2022-06-24"

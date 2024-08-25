@@ -1,6 +1,7 @@
 ---
 title: "Rustin Man - Drift Code"
-artist: "Rustin Man"
+artist_name: "Rustin Man"
+artist: "rustin-man"
 album_name: "Drift Code"
 date: 2019-02-03T08:50:31.000000Z
 release_id: "13151178"

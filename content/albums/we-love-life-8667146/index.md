@@ -1,6 +1,7 @@
 ---
 title: "Pulp - We Love Life"
-artist: "Pulp"
+artist_name: "Pulp"
+artist: "pulp"
 album_name: "We Love Life"
 date: 2016-10-25T14:09:06.000000Z
 release_id: "8667146"

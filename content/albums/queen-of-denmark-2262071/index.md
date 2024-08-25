@@ -1,6 +1,7 @@
 ---
 title: "John Grant - Queen Of Denmark"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "Queen Of Denmark"
 date: 2015-09-30T17:20:34.000000Z
 release_id: "2262071"

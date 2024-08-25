@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Nonetheless"
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Nonetheless"
 date: 2024-04-27T05:26:43.000000Z
 release_id: "30511678"

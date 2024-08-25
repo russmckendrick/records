@@ -1,6 +1,7 @@
 ---
 title: "Vennart - Forgiveness & The Grain"
-artist: "Vennart"
+artist_name: "Vennart"
+artist: "vennart"
 album_name: "Forgiveness & The Grain"
 date: 2024-05-04T03:54:21.000000Z
 release_id: "30551653"

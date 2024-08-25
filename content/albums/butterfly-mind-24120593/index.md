@@ -1,6 +1,7 @@
 ---
 title: "Tim Bowness - Butterfly Mind"
-artist: "Tim Bowness"
+artist_name: "Tim Bowness"
+artist: "tim-bowness"
 album_name: "Butterfly Mind"
 date: 2022-08-07T08:03:33.000000Z
 release_id: "24120593"

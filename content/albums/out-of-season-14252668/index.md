@@ -1,6 +1,7 @@
 ---
 title: "Beth Gibbons - Out Of Season"
-artist: "Beth Gibbons"
+artist_name: "Beth Gibbons"
+artist: "beth-gibbons"
 album_name: "Out Of Season"
 date: 2019-10-11T14:38:00.000000Z
 release_id: "14252668"

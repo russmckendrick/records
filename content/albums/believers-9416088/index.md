@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - Believers"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "Believers"
 date: 2021-05-31T11:05:23.000000Z
 release_id: "9416088"

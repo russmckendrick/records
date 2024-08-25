@@ -1,6 +1,7 @@
 ---
 title: "The Who - Who's Next"
-artist: "The Who"
+artist_name: "The Who"
+artist: "the-who"
 album_name: "Who's Next"
 date: 2015-08-09T08:39:37.000000Z
 release_id: "6957505"

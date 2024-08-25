@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - Graceland"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "Graceland"
 date: 2017-08-23T17:35:31.000000Z
 release_date: "1986-08-25"

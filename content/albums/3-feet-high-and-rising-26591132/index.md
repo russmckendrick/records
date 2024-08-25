@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - 3 Feet High And Rising"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "3 Feet High And Rising"
 date: 2023-04-03T04:27:56.000000Z
 release_date: "1989-03-03"

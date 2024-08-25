@@ -1,6 +1,7 @@
 ---
 title: "The Future Sound Of London - Dead Cities"
-artist: "The Future Sound Of London"
+artist_name: "The Future Sound Of London"
+artist: "the-future-sound-of-london"
 album_name: "Dead Cities"
 date: 2021-04-16T05:44:54.000000Z
 release_id: "18313399"

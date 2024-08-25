@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - The Aeroplane Flies High"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "The Aeroplane Flies High"
 date: 2016-04-17T13:48:39.000000Z
 release_id: "4760393"

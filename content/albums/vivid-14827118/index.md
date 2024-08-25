@@ -1,6 +1,7 @@
 ---
 title: "Living Colour - Vivid"
-artist: "Living Colour"
+artist_name: "Living Colour"
+artist: "living-colour"
 album_name: "Vivid"
 date: 2020-02-25T18:09:52.000000Z
 release_id: "14827118"

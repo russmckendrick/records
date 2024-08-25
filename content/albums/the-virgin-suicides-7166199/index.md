@@ -1,6 +1,7 @@
 ---
 title: "AIR - The Virgin Suicides"
-artist: "AIR"
+artist_name: "AIR"
+artist: "air"
 album_name: "The Virgin Suicides"
 date: 2017-02-15T18:29:41.000000Z
 release_id: "7166199"

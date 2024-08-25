@@ -1,6 +1,7 @@
 ---
 title: "Rush - Clockwork Angels"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Clockwork Angels"
 date: 2017-02-26T10:56:33.000000Z
 release_date: "2012-06-08"

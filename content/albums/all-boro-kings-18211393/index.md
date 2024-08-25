@@ -1,6 +1,7 @@
 ---
 title: "Dog Eat Dog - All Boro Kings"
-artist: "Dog Eat Dog"
+artist_name: "Dog Eat Dog"
+artist: "dog-eat-dog"
 album_name: "All Boro Kings"
 date: 2021-06-29T02:28:44.000000Z
 release_id: "18211393"

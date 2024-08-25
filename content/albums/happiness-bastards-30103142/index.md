@@ -1,6 +1,7 @@
 ---
 title: "The Black Crowes - Happiness Bastards"
-artist: "The Black Crowes"
+artist_name: "The Black Crowes"
+artist: "the-black-crowes"
 album_name: "Happiness Bastards"
 date: 2024-03-19T12:34:25.000000Z
 release_date: "2024-03-15"

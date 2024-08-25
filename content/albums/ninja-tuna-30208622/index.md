@@ -1,6 +1,7 @@
 ---
 title: "Mr. Scruff - Ninja Tuna"
-artist: "Mr. Scruff"
+artist_name: "Mr. Scruff"
+artist: "mr-scruff"
 album_name: "Ninja Tuna"
 date: 2024-03-29T07:22:54.000000Z
 release_id: "30208622"

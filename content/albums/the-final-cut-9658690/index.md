@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Final Cut"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Final Cut"
 date: 2017-01-20T17:07:48.000000Z
 release_date: "1983-03-21"

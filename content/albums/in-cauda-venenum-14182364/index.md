@@ -1,6 +1,7 @@
 ---
 title: "Opeth - In Cauda Venenum"
-artist: "Opeth"
+artist_name: "Opeth"
+artist: "opeth"
 album_name: "In Cauda Venenum"
 date: 2019-09-28T07:50:27.000000Z
 release_date: "2019-09-27"

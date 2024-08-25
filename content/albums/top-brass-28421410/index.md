@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Top Brass"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Top Brass"
 date: 2023-09-29T06:44:38.000000Z
 release_id: "28421410"

@@ -1,6 +1,7 @@
 ---
 title: "Baron - Torpor"
-artist: "Baron"
+artist_name: "Baron"
+artist: "baron"
 album_name: "Torpor"
 date: 2016-02-28T17:52:36.000000Z
 release_id: "7723184"

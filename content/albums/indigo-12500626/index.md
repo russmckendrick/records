@@ -1,6 +1,7 @@
 ---
 title: "Kandace Springs - Indigo"
-artist: "Kandace Springs"
+artist_name: "Kandace Springs"
+artist: "kandace-springs"
 album_name: "Indigo"
 date: 2018-09-28T11:59:37.000000Z
 release_id: "12500626"

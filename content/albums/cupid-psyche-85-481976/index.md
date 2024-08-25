@@ -1,6 +1,7 @@
 ---
 title: "Scritti Politti - Cupid & Psyche 85"
-artist: "Scritti Politti"
+artist_name: "Scritti Politti"
+artist: "scritti-politti"
 album_name: "Cupid & Psyche 85"
 date: 2017-05-27T15:30:35.000000Z
 release_id: "481976"

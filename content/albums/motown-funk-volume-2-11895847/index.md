@@ -1,6 +1,7 @@
 ---
 title: "Various - Motown Funk Volume 2"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Motown Funk Volume 2"
 date: 2018-04-21T13:35:16.000000Z
 release_id: "11895847"

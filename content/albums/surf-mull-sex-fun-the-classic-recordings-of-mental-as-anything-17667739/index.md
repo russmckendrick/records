@@ -1,6 +1,7 @@
 ---
 title: "Mental As Anything - Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything"
-artist: "Mental As Anything"
+artist_name: "Mental As Anything"
+artist: "mental-as-anything"
 album_name: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything"
 date: 2021-03-06T08:46:24.000000Z
 release_id: "17667739"

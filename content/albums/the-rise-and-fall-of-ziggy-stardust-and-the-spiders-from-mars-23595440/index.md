@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars"
 date: 2022-06-18T05:47:43.000000Z
 release_date: "1972-06-16"

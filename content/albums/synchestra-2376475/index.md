@@ -1,6 +1,7 @@
 ---
 title: "The Devin Townsend Band - Synchestra"
-artist: "The Devin Townsend Band"
+artist_name: "The Devin Townsend Band"
+artist: "the-devin-townsend-band"
 album_name: "Synchestra"
 date: 2016-07-11T17:14:49.000000Z
 release_id: "2376475"

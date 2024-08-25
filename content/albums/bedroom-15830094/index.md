@@ -1,5 +1,6 @@
 ---
 title: "bdrmm - Bedroom"
+artist_name: "bdrmm"
 artist: "bdrmm"
 album_name: "Bedroom"
 date: 2020-08-28T10:18:05.000000Z

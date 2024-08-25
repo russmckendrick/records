@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Mixed Up"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Mixed Up"
 date: 2018-04-21T11:15:17.000000Z
 release_id: "11863715"

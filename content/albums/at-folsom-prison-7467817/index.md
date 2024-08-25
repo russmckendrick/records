@@ -1,6 +1,7 @@
 ---
 title: "Johnny Cash - At Folsom Prison"
-artist: "Johnny Cash"
+artist_name: "Johnny Cash"
+artist: "johnny-cash"
 album_name: "At Folsom Prison"
 date: 2016-11-30T18:50:30.000000Z
 release_date: "1968-05-06"

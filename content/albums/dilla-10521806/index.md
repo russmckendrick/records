@@ -1,6 +1,7 @@
 ---
 title: "Abstract Orchestra - Dilla"
-artist: "Abstract Orchestra"
+artist_name: "Abstract Orchestra"
+artist: "abstract-orchestra"
 album_name: "Dilla"
 date: 2017-10-13T18:10:42.000000Z
 release_id: "10521806"

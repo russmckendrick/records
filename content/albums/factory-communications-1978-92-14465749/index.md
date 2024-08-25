@@ -1,6 +1,7 @@
 ---
 title: "Various - Factory Communications 1978-92"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Factory Communications 1978-92"
 date: 2020-06-17T10:37:41.000000Z
 release_id: "14465749"

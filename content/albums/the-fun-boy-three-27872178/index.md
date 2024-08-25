@@ -1,6 +1,7 @@
 ---
 title: "Fun Boy Three - The Fun Boy Three"
-artist: "Fun Boy Three"
+artist_name: "Fun Boy Three"
+artist: "fun-boy-three"
 album_name: "The Fun Boy Three"
 date: 2023-08-06T07:39:39.000000Z
 release_id: "27872178"

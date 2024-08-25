@@ -1,6 +1,7 @@
 ---
 title: "Baxter Dury - I Thought I Was Better Than You"
-artist: "Baxter Dury"
+artist_name: "Baxter Dury"
+artist: "baxter-dury"
 album_name: "I Thought I Was Better Than You"
 date: 2023-06-02T09:37:46.000000Z
 release_id: "27264855"

@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - Scratch My Back"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "Scratch My Back"
 date: 2016-12-08T18:45:55.000000Z
 release_id: "2290486"

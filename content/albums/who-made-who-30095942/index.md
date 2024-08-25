@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Who Made Who"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Who Made Who"
 date: 2024-03-15T06:44:08.000000Z
 release_date: "1986-05-24"

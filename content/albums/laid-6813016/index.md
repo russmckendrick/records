@@ -1,6 +1,7 @@
 ---
 title: "James - Laid"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Laid"
 date: 2017-05-04T21:09:51.000000Z
 release_id: "6813016"

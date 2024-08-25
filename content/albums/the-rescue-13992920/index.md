@@ -1,6 +1,7 @@
 ---
 title: "Explosions In The Sky - The Rescue "
-artist: "Explosions In The Sky"
+artist_name: "Explosions In The Sky"
+artist: "explosions-in-the-sky"
 album_name: "The Rescue "
 date: 2019-08-16T17:14:07.000000Z
 release_id: "13992920"

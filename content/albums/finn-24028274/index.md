@@ -1,6 +1,7 @@
 ---
 title: "The Finn Brothers - Finn"
-artist: "The Finn Brothers"
+artist_name: "The Finn Brothers"
+artist: "the-finn-brothers"
 album_name: "Finn"
 date: 2022-07-29T05:10:46.000000Z
 release_id: "24028274"

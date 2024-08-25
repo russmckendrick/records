@@ -1,6 +1,7 @@
 ---
 title: "Ben Folds Five - Ben Folds Five"
-artist: "Ben Folds Five"
+artist_name: "Ben Folds Five"
+artist: "ben-folds-five"
 album_name: "Ben Folds Five"
 date: 2020-02-25T18:10:13.000000Z
 release_id: "14254468"

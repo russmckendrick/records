@@ -1,6 +1,7 @@
 ---
 title: "Thunder - All The Right Noises"
-artist: "Thunder"
+artist_name: "Thunder"
+artist: "thunder"
 album_name: "All The Right Noises"
 date: 2021-03-13T02:56:48.000000Z
 release_id: "17812720"

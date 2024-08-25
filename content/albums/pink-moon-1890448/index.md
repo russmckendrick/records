@@ -1,6 +1,7 @@
 ---
 title: "Nick Drake - Pink Moon"
-artist: "Nick Drake"
+artist_name: "Nick Drake"
+artist: "nick-drake"
 album_name: "Pink Moon"
 date: 2016-08-09T16:31:12.000000Z
 release_id: "1890448"

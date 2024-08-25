@@ -1,6 +1,7 @@
 ---
 title: "Ride - Tarantula"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Tarantula"
 date: 2023-08-06T07:40:28.000000Z
 release_id: "27861876"

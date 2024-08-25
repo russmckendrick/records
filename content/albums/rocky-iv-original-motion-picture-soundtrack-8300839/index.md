@@ -1,6 +1,7 @@
 ---
 title: "Various - Rocky IV (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Rocky IV (Original Motion Picture Soundtrack)"
 date: 2016-03-29T16:31:05.000000Z
 release_id: "8300839"

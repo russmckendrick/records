@@ -1,6 +1,7 @@
 ---
 title: "Lambchop - Nixon"
-artist: "Lambchop"
+artist_name: "Lambchop"
+artist: "lambchop"
 album_name: "Nixon"
 date: 2017-12-28T13:29:25.000000Z
 release_id: "5801395"

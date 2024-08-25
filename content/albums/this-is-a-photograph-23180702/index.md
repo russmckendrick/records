@@ -1,6 +1,7 @@
 ---
 title: "Kevin Morby - This Is A Photograph"
-artist: "Kevin Morby"
+artist_name: "Kevin Morby"
+artist: "kevin-morby"
 album_name: "This Is A Photograph"
 date: 2022-05-17T07:05:53.000000Z
 release_date: "2022-05-13"

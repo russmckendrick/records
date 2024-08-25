@@ -1,6 +1,7 @@
 ---
 title: "Supergrass - The Strange Ones 1994-2008 "
-artist: "Supergrass"
+artist_name: "Supergrass"
+artist: "supergrass"
 album_name: "The Strange Ones 1994-2008 "
 date: 2020-01-27T18:32:05.000000Z
 release_id: "14711503"

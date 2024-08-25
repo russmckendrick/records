@@ -1,6 +1,7 @@
 ---
 title: "Peter Gabriel - I/O (Dark-Side Mixes)"
-artist: "Peter Gabriel"
+artist_name: "Peter Gabriel"
+artist: "peter-gabriel"
 album_name: "I/O (Dark-Side Mixes)"
 date: 2023-12-05T11:03:43.000000Z
 release_id: "29077516"

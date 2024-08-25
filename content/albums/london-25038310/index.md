@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - London"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "London"
 date: 2022-11-03T13:59:53.000000Z
 release_id: "25038310"

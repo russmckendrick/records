@@ -1,6 +1,7 @@
 ---
 title: "Various - Loaded"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Loaded"
 date: 2015-12-07T11:50:16.000000Z
 release_id: "1420886"

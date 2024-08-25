@@ -1,6 +1,7 @@
 ---
 title: "INXS - The Very Best"
-artist: "INXS"
+artist_name: "INXS"
+artist: "inxs"
 album_name: "The Very Best"
 date: 2023-03-11T03:01:39.000000Z
 release_id: "17981053"

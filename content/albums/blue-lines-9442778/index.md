@@ -1,6 +1,7 @@
 ---
 title: "Massive Attack - Blue Lines"
-artist: "Massive Attack"
+artist_name: "Massive Attack"
+artist: "massive-attack"
 album_name: "Blue Lines"
 date: 2016-12-02T12:53:32.000000Z
 release_date: "1991-08-06"

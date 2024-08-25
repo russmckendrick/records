@@ -1,6 +1,7 @@
 ---
 title: "Iron Maiden - Fear Of The Dark"
-artist: "Iron Maiden"
+artist_name: "Iron Maiden"
+artist: "iron-maiden"
 album_name: "Fear Of The Dark"
 date: 2017-06-10T11:13:39.000000Z
 release_id: "10315981"

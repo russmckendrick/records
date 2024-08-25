@@ -1,6 +1,7 @@
 ---
 title: "The Police - Zenyatta Mondatta"
-artist: "The Police"
+artist_name: "The Police"
+artist: "the-police"
 album_name: "Zenyatta Mondatta"
 date: 2016-04-08T19:08:40.000000Z
 release_id: "371546"

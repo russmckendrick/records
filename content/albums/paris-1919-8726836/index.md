@@ -1,6 +1,7 @@
 ---
 title: "John Cale - Paris 1919"
-artist: "John Cale"
+artist_name: "John Cale"
+artist: "john-cale"
 album_name: "Paris 1919"
 date: 2016-10-14T12:58:46.000000Z
 release_id: "8726836"

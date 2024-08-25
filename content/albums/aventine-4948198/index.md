@@ -1,6 +1,7 @@
 ---
 title: "Agnes Obel - Aventine"
-artist: "Agnes Obel"
+artist_name: "Agnes Obel"
+artist: "agnes-obel"
 album_name: "Aventine"
 date: 2017-01-03T18:47:38.000000Z
 release_date: "2013-09-30"

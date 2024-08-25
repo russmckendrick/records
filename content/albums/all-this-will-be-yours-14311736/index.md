@@ -1,6 +1,7 @@
 ---
 title: "Bruce Soord - All This Will Be Yours"
-artist: "Bruce Soord"
+artist_name: "Bruce Soord"
+artist: "bruce-soord"
 album_name: "All This Will Be Yours"
 date: 2019-10-25T19:07:02.000000Z
 release_id: "14311736"

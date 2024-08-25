@@ -1,6 +1,7 @@
 ---
 title: "The Beatles - 1"
-artist: "The Beatles"
+artist_name: "The Beatles"
+artist: "the-beatles"
 album_name: "1"
 date: 2015-12-04T17:51:13.000000Z
 release_id: "7790160"

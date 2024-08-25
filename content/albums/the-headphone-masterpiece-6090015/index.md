@@ -1,6 +1,7 @@
 ---
 title: "Cody ChesnuTT - The Headphone Masterpiece"
-artist: "Cody ChesnuTT"
+artist_name: "Cody ChesnuTT"
+artist: "cody-chesnutt"
 album_name: "The Headphone Masterpiece"
 date: 2017-11-26T14:53:05.000000Z
 release_id: "6090015"

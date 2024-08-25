@@ -1,6 +1,7 @@
 ---
 title: "The Orb - Metallic Spheres In Colour"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "Metallic Spheres In Colour"
 date: 2023-09-29T06:39:27.000000Z
 release_id: "28431148"

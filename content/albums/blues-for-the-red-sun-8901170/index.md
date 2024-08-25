@@ -1,6 +1,7 @@
 ---
 title: "Kyuss - Blues For The Red Sun"
-artist: "Kyuss"
+artist_name: "Kyuss"
+artist: "kyuss"
 album_name: "Blues For The Red Sun"
 date: 2016-09-14T16:59:29.000000Z
 release_date: "1992-06-30"

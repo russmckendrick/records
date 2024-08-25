@@ -1,6 +1,7 @@
 ---
 title: "Monster Truck - Sittin' Heavy"
-artist: "Monster Truck"
+artist_name: "Monster Truck"
+artist: "monster-truck"
 album_name: "Sittin' Heavy"
 date: 2016-09-01T17:17:59.000000Z
 release_id: "8125798"

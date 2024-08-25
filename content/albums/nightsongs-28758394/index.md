@@ -1,6 +1,7 @@
 ---
 title: "Stars - Nightsongs"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "Nightsongs"
 date: 2023-12-08T11:17:49.000000Z
 release_id: "28758394"

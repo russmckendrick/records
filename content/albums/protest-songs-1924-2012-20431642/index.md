@@ -1,6 +1,7 @@
 ---
 title: "The Specials - Protest Songs 1924-2012"
-artist: "The Specials"
+artist_name: "The Specials"
+artist: "the-specials"
 album_name: "Protest Songs 1924-2012"
 date: 2021-10-06T12:14:30.000000Z
 release_id: "20431642"

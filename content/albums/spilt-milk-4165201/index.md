@@ -1,6 +1,7 @@
 ---
 title: "Jellyfish - Spilt Milk"
-artist: "Jellyfish"
+artist_name: "Jellyfish"
+artist: "jellyfish"
 album_name: "Spilt Milk"
 date: 2016-02-07T10:23:21.000000Z
 release_id: "4165201"

@@ -1,6 +1,7 @@
 ---
 title: "The Orb - Abolition Of The Royal Familia"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "Abolition Of The Royal Familia"
 date: 2020-03-28T11:01:00.000000Z
 release_date: "2020-03-27"

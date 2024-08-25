@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - Tigermilk"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "Tigermilk"
 date: 2017-04-25T08:34:25.000000Z
 release_id: "6247282"

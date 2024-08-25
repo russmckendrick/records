@@ -1,6 +1,7 @@
 ---
 title: "Mother Earth - Stoned Woman"
-artist: "Mother Earth"
+artist_name: "Mother Earth"
+artist: "mother-earth"
 album_name: "Stoned Woman"
 date: 2023-12-14T11:21:40.000000Z
 release_id: "26514866"

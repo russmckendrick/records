@@ -1,6 +1,7 @@
 ---
 title: "John Coltrane - The Atlantic Years – In Mono"
-artist: "John Coltrane"
+artist_name: "John Coltrane"
+artist: "john-coltrane"
 album_name: "The Atlantic Years – In Mono"
 date: 2017-07-12T18:58:35.000000Z
 release_id: "8630183"

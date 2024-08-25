@@ -1,6 +1,7 @@
 ---
 title: "Spear Of Destiny - S.O.D. The Epic Years"
-artist: "Spear Of Destiny"
+artist_name: "Spear Of Destiny"
+artist: "spear-of-destiny"
 album_name: "S.O.D. The Epic Years"
 date: 2015-12-04T18:21:09.000000Z
 release_id: "492090"

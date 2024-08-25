@@ -1,6 +1,7 @@
 ---
 title: "Curve - Cherry"
-artist: "Curve"
+artist_name: "Curve"
+artist: "curve"
 album_name: "Cherry"
 date: 2023-02-13T11:30:45.000000Z
 release_id: "26071120"

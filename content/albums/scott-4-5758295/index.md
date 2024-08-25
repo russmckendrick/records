@@ -1,6 +1,7 @@
 ---
 title: "Scott Walker - Scott 4"
-artist: "Scott Walker"
+artist_name: "Scott Walker"
+artist: "scott-walker"
 album_name: "Scott 4"
 date: 2018-03-07T19:22:05.000000Z
 release_id: "5758295"

@@ -1,6 +1,7 @@
 ---
 title: "Doves - Lost Souls "
-artist: "Doves"
+artist_name: "Doves"
+artist: "doves"
 album_name: "Lost Souls "
 date: 2019-06-03T17:50:28.000000Z
 release_id: "13701462"

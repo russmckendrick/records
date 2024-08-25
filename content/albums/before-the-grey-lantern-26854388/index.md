@@ -1,6 +1,7 @@
 ---
 title: "Mansun - Before The Grey Lantern"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "Before The Grey Lantern"
 date: 2023-05-04T11:16:20.000000Z
 release_id: "26854388"

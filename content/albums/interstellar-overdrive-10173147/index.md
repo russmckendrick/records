@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Interstellar Overdrive"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Interstellar Overdrive"
 date: 2017-04-23T12:06:55.000000Z
 release_id: "10173147"

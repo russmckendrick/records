@@ -1,6 +1,7 @@
 ---
 title: "Ryan Adams - Gold"
-artist: "Ryan Adams"
+artist_name: "Ryan Adams"
+artist: "ryan-adams"
 album_name: "Gold"
 date: 2016-02-16T15:15:01.000000Z
 release_id: "3814418"

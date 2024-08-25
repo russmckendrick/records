@@ -1,6 +1,7 @@
 ---
 title: "The Flaming Lips - Yoshimi Battles The Pink Robots"
-artist: "The Flaming Lips"
+artist_name: "The Flaming Lips"
+artist: "the-flaming-lips"
 album_name: "Yoshimi Battles The Pink Robots"
 date: 2015-08-09T08:34:04.000000Z
 release_id: "623525"

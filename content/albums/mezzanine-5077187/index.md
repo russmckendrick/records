@@ -1,6 +1,7 @@
 ---
 title: "Massive Attack - Mezzanine"
-artist: "Massive Attack"
+artist_name: "Massive Attack"
+artist: "massive-attack"
 album_name: "Mezzanine"
 date: 2016-12-01T17:33:32.000000Z
 release_id: "5077187"

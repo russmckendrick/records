@@ -1,6 +1,7 @@
 ---
 title: "Front 242 - Front By Front"
-artist: "Front 242"
+artist_name: "Front 242"
+artist: "front-242"
 album_name: "Front By Front"
 date: 2021-07-29T09:15:37.000000Z
 release_id: "4195775"

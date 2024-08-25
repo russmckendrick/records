@@ -1,6 +1,7 @@
 ---
 title: "St. Paul & The Broken Bones - Angels In Science Fiction"
-artist: "St. Paul & The Broken Bones"
+artist_name: "St. Paul & The Broken Bones"
+artist: "st-paul-the-broken-bones"
 album_name: "Angels In Science Fiction"
 date: 2023-04-23T04:35:34.000000Z
 release_id: "26822072"

@@ -1,6 +1,7 @@
 ---
 title: "James - Be Opened By The Wonderful (40 Years Orchestrated)"
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Be Opened By The Wonderful (40 Years Orchestrated)"
 date: 2023-06-09T10:12:35.000000Z
 release_id: "27333687"

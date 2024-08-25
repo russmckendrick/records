@@ -1,6 +1,7 @@
 ---
 title: "The Wonder Stuff - Never Loved Elvis"
-artist: "The Wonder Stuff"
+artist_name: "The Wonder Stuff"
+artist: "the-wonder-stuff"
 album_name: "Never Loved Elvis"
 date: 2019-01-12T11:06:30.000000Z
 release_id: "566167"

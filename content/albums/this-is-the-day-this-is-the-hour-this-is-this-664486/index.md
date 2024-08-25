@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "This Is The Day...This Is The Hour...This Is This!"
 date: 2016-01-11T17:44:45.000000Z
 release_id: "664486"

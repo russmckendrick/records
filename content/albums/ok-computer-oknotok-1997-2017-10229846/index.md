@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - OK Computer OKNOTOK 1997 2017"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "OK Computer OKNOTOK 1997 2017"
 date: 2017-06-27T18:06:32.000000Z
 release_date: "1997-06-16"

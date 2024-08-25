@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Grand Prix"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Grand Prix"
 date: 2018-08-29T18:39:42.000000Z
 release_id: "12372525"

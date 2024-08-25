@@ -1,6 +1,7 @@
 ---
 title: "The Boo Radleys - Giant Steps"
-artist: "The Boo Radleys"
+artist_name: "The Boo Radleys"
+artist: "the-boo-radleys"
 album_name: "Giant Steps"
 date: 2023-09-02T07:59:30.000000Z
 release_id: "28149154"

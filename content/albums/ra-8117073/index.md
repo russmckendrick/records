@@ -1,6 +1,7 @@
 ---
 title: "Utopia - Ra"
-artist: "Utopia"
+artist_name: "Utopia"
+artist: "utopia"
 album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
 release_id: "8117073"

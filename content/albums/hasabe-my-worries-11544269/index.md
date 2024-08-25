@@ -1,6 +1,7 @@
 ---
 title: "Ayalew Mesfin - Hasabe - My Worries"
-artist: "Ayalew Mesfin"
+artist_name: "Ayalew Mesfin"
+artist: "ayalew-mesfin"
 album_name: "Hasabe - My Worries"
 date: 2018-02-13T07:13:33.000000Z
 release_id: "11544269"

@@ -1,6 +1,7 @@
 ---
 title: "The Hold Steady - Thrashing Thru The Passion"
-artist: "The Hold Steady"
+artist_name: "The Hold Steady"
+artist: "the-hold-steady"
 album_name: "Thrashing Thru The Passion"
 date: 2019-08-16T17:13:10.000000Z
 release_id: "14005443"

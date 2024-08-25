@@ -1,6 +1,7 @@
 ---
 title: "The James Hunter Six - Whatever It Takes"
-artist: "The James Hunter Six"
+artist_name: "The James Hunter Six"
+artist: "the-james-hunter-six"
 album_name: "Whatever It Takes"
 date: 2018-02-19T18:42:26.000000Z
 release_id: "11497989"

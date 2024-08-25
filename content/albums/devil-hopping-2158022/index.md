@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - Devil Hopping"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "Devil Hopping"
 date: 2017-09-01T18:22:50.000000Z
 release_id: "2158022"

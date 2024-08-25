@@ -1,6 +1,7 @@
 ---
 title: "Andrew Bird - Noble Beast"
-artist: "Andrew Bird"
+artist_name: "Andrew Bird"
+artist: "andrew-bird"
 album_name: "Noble Beast"
 date: 2016-02-11T20:06:19.000000Z
 release_date: "2009-02-02"

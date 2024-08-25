@@ -1,6 +1,7 @@
 ---
 title: "Can - The Singles"
-artist: "Can"
+artist_name: "Can"
+artist: "can"
 album_name: "The Singles"
 date: 2017-06-16T18:30:04.000000Z
 release_id: "10434382"

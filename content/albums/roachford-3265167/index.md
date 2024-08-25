@@ -1,6 +1,7 @@
 ---
 title: "Roachford - Roachford"
-artist: "Roachford"
+artist_name: "Roachford"
+artist: "roachford"
 album_name: "Roachford"
 date: 2015-12-04T18:21:09.000000Z
 release_id: "3265167"

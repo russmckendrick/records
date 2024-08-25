@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
 date: 2019-01-06T11:41:05.000000Z
 release_id: "13024979"

@@ -1,6 +1,7 @@
 ---
 title: "Hurray For The Riff Raff - The Navigator"
-artist: "Hurray For The Riff Raff"
+artist_name: "Hurray For The Riff Raff"
+artist: "hurray-for-the-riff-raff"
 album_name: "The Navigator"
 date: 2017-03-11T12:35:14.000000Z
 release_id: "9912657"

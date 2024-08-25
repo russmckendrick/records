@@ -1,6 +1,7 @@
 ---
 title: "Ultravox - Rage In Eden"
-artist: "Ultravox"
+artist_name: "Ultravox"
+artist: "ultravox"
 album_name: "Rage In Eden"
 date: 2015-09-16T18:56:48.000000Z
 release_id: "1583649"

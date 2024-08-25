@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Wish"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Wish"
 date: 2022-11-30T06:22:41.000000Z
 release_id: "25263778"

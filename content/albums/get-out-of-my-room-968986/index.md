@@ -1,6 +1,7 @@
 ---
 title: "Cheech & Chong - Get Out Of My Room"
-artist: "Cheech & Chong"
+artist_name: "Cheech & Chong"
+artist: "cheech-chong"
 album_name: "Get Out Of My Room"
 date: 2020-08-02T13:39:16.000000Z
 release_id: "968986"

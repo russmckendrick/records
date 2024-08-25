@@ -1,6 +1,7 @@
 ---
 title: "Big Star - #1 Record"
-artist: "Big Star"
+artist_name: "Big Star"
+artist: "big-star"
 album_name: "#1 Record"
 date: 2020-03-07T10:42:00.000000Z
 release_date: "1972-04-24"

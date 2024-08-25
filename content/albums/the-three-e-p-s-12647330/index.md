@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - The Three E.P.'s"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "The Three E.P.'s"
 date: 2018-10-12T19:58:57.000000Z
 release_id: "12647330"

@@ -1,6 +1,7 @@
 ---
 title: "Richard Hawley - Further"
-artist: "Richard Hawley"
+artist_name: "Richard Hawley"
+artist: "richard-hawley"
 album_name: "Further"
 date: 2019-06-03T17:49:54.000000Z
 release_id: "13696158"

@@ -1,6 +1,7 @@
 ---
 title: "The Orb - The Orb's Adventures Beyond The Ultraworld"
-artist: "The Orb"
+artist_name: "The Orb"
+artist: "the-orb"
 album_name: "The Orb's Adventures Beyond The Ultraworld"
 date: 2020-04-25T15:15:59.000000Z
 release_date: "1991-03-01"

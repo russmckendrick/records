@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Oxymore"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Oxymore"
 date: 2022-10-21T09:01:58.000000Z
 release_id: "24896663"

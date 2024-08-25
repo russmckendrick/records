@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Empath"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Empath"
 date: 2019-03-31T17:27:19.000000Z
 release_id: "13421381"

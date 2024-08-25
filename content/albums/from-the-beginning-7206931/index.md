@@ -1,6 +1,7 @@
 ---
 title: "Small Faces - From The Beginning"
-artist: "Small Faces"
+artist_name: "Small Faces"
+artist: "small-faces"
 album_name: "From The Beginning"
 date: 2021-05-21T07:27:29.000000Z
 release_id: "7206931"

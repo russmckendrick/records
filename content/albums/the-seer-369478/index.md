@@ -1,6 +1,7 @@
 ---
 title: "Big Country - The Seer"
-artist: "Big Country"
+artist_name: "Big Country"
+artist: "big-country"
 album_name: "The Seer"
 date: 2017-05-27T15:34:19.000000Z
 release_id: "369478"

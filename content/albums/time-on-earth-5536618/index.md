@@ -1,6 +1,7 @@
 ---
 title: "Crowded House - Time On Earth"
-artist: "Crowded House"
+artist_name: "Crowded House"
+artist: "crowded-house"
 album_name: "Time On Earth"
 date: 2016-01-04T17:49:06.000000Z
 release_id: "5536618"

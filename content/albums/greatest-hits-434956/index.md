@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Greatest Hits"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Greatest Hits"
 date: 2015-09-11T18:02:24.000000Z
 release_id: "434956"

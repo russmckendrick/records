@@ -1,6 +1,7 @@
 ---
 title: "Whale - We Care"
-artist: "Whale"
+artist_name: "Whale"
+artist: "whale"
 album_name: "We Care"
 date: 2019-08-23T14:14:24.000000Z
 release_id: "1415702"

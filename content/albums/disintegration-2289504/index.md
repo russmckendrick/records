@@ -1,6 +1,7 @@
 ---
 title: "The Cure - Disintegration"
-artist: "The Cure"
+artist_name: "The Cure"
+artist: "the-cure"
 album_name: "Disintegration"
 date: 2016-08-05T14:55:50.000000Z
 release_date: "1989-05-02"

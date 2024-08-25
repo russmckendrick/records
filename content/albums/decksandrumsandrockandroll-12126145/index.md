@@ -1,6 +1,7 @@
 ---
 title: "Propellerheads - Decksandrumsandrockandroll"
-artist: "Propellerheads"
+artist_name: "Propellerheads"
+artist: "propellerheads"
 album_name: "Decksandrumsandrockandroll"
 date: 2018-06-15T10:58:03.000000Z
 release_id: "12126145"

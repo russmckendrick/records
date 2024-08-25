@@ -1,6 +1,7 @@
 ---
 title: "Tori Amos - Little Earthquakes - The B-Sides"
-artist: "Tori Amos"
+artist_name: "Tori Amos"
+artist: "tori-amos"
 album_name: "Little Earthquakes - The B-Sides"
 date: 2023-04-23T04:36:32.000000Z
 release_id: "26839190"

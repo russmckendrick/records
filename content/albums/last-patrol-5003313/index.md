@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Last Patrol"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Last Patrol"
 date: 2016-01-29T18:24:57.000000Z
 release_id: "5003313"

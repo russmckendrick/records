@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - For Those About To Rock"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "For Those About To Rock"
 date: 2024-03-15T06:44:47.000000Z
 release_date: "1981-11-20"

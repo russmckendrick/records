@@ -1,6 +1,7 @@
 ---
 title: "The Quireboys - A Bit Of What You Fancy 30th Anniversary Edition"
-artist: "The Quireboys"
+artist_name: "The Quireboys"
+artist: "the-quireboys"
 album_name: "A Bit Of What You Fancy 30th Anniversary Edition"
 date: 2022-07-10T09:45:56.000000Z
 release_id: "23407643"

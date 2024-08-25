@@ -1,6 +1,7 @@
 ---
 title: "Dr. John - In The Right Place"
-artist: "Dr. John"
+artist_name: "Dr. John"
+artist: "dr-john"
 album_name: "In The Right Place"
 date: 2015-10-05T18:22:12.000000Z
 release_date: "1973-02-25"

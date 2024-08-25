@@ -1,6 +1,7 @@
 ---
 title: "Small Faces - Ogdens' Nut Gone Flake"
-artist: "Small Faces"
+artist_name: "Small Faces"
+artist: "small-faces"
 album_name: "Ogdens' Nut Gone Flake"
 date: 2017-11-25T18:37:31.000000Z
 release_id: "6917374"

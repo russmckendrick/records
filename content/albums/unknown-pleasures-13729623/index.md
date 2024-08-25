@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Unknown Pleasures"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Unknown Pleasures"
 date: 2019-06-17T17:32:30.000000Z
 release_date: "1979-06-15"

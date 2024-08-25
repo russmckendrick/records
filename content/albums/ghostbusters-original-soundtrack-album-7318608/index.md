@@ -1,6 +1,7 @@
 ---
 title: "Various - Ghostbusters - Original Soundtrack Album"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Ghostbusters - Original Soundtrack Album"
 date: 2020-08-01T12:40:56.000000Z
 release_id: "7318608"

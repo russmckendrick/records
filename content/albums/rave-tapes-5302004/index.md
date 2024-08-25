@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Rave Tapes"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Rave Tapes"
 date: 2016-11-26T12:42:28.000000Z
 release_id: "5302004"

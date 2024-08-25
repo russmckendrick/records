@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - I Got You"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "I Got You"
 date: 2018-10-03T18:03:57.000000Z
 release_id: "141830"

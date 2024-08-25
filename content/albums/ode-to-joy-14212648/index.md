@@ -1,6 +1,7 @@
 ---
 title: "Wilco - Ode To Joy"
-artist: "Wilco"
+artist_name: "Wilco"
+artist: "wilco"
 album_name: "Ode To Joy"
 date: 2019-10-05T15:31:35.000000Z
 release_date: "2019-10-04"

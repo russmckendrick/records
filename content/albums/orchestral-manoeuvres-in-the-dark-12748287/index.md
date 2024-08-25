@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Orchestral Manoeuvres In The Dark"
 date: 2018-11-03T09:51:32.000000Z
 release_id: "12748287"

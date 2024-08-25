@@ -1,6 +1,7 @@
 ---
 title: "Tennis - Swimmer"
-artist: "Tennis"
+artist_name: "Tennis"
+artist: "tennis"
 album_name: "Swimmer"
 date: 2024-05-20T08:32:33.000000Z
 release_date: "2020-02-14"

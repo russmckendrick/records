@@ -1,6 +1,7 @@
 ---
 title: "LCD Soundsystem - American Dream"
-artist: "LCD Soundsystem"
+artist_name: "LCD Soundsystem"
+artist: "lcd-soundsystem"
 album_name: "American Dream"
 date: 2017-09-01T18:42:49.000000Z
 release_date: "2017-09-01"

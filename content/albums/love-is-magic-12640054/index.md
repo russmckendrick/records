@@ -1,6 +1,7 @@
 ---
 title: "John Grant - Love Is Magic"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "Love Is Magic"
 date: 2018-10-12T20:01:02.000000Z
 release_id: "12640054"

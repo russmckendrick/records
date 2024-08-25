@@ -1,6 +1,7 @@
 ---
 title: "Brad - In The Moment That You're Born"
-artist: "Brad"
+artist_name: "Brad"
+artist: "brad"
 album_name: "In The Moment That You're Born"
 date: 2023-08-19T02:02:11.000000Z
 release_id: "27812124"

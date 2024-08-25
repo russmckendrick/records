@@ -1,6 +1,7 @@
 ---
 title: "Judas Priest - The Best Of"
-artist: "Judas Priest"
+artist_name: "Judas Priest"
+artist: "judas-priest"
 album_name: "The Best Of"
 date: 2020-08-02T13:48:10.000000Z
 release_id: "1800080"

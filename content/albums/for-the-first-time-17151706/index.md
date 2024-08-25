@@ -1,6 +1,7 @@
 ---
 title: "Black Country, New Road - For The First Time"
-artist: "Black Country, New Road"
+artist_name: "Black Country, New Road"
+artist: "black-country-new-road"
 album_name: "For The First Time"
 date: 2021-02-05T09:27:50.000000Z
 release_date: "2021-02-05"

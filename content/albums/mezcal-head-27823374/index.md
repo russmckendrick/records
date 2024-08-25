@@ -1,6 +1,7 @@
 ---
 title: "Swervedriver - Mezcal Head"
-artist: "Swervedriver"
+artist_name: "Swervedriver"
+artist: "swervedriver"
 album_name: "Mezcal Head"
 date: 2023-08-06T07:40:44.000000Z
 release_id: "27823374"

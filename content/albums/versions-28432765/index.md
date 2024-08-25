@@ -1,6 +1,7 @@
 ---
 title: "The Anchoress - Versions"
-artist: "The Anchoress"
+artist_name: "The Anchoress"
+artist: "the-anchoress"
 album_name: "Versions"
 date: 2023-10-12T02:54:12.000000Z
 release_id: "28432765"

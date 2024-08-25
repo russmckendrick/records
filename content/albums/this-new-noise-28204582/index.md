@@ -1,6 +1,7 @@
 ---
 title: "Public Service Broadcasting - This New Noise "
-artist: "Public Service Broadcasting"
+artist_name: "Public Service Broadcasting"
+artist: "public-service-broadcasting"
 album_name: "This New Noise "
 date: 2023-09-08T11:06:28.000000Z
 release_id: "28204582"

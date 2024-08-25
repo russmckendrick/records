@@ -1,6 +1,7 @@
 ---
 title: "Living In A Box - Living In A Box"
-artist: "Living In A Box"
+artist_name: "Living In A Box"
+artist: "living-in-a-box"
 album_name: "Living In A Box"
 date: 2018-09-07T18:30:44.000000Z
 release_id: "1190802"

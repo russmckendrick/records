@@ -1,6 +1,7 @@
 ---
 title: "Future Islands - The Far Field "
-artist: "Future Islands"
+artist_name: "Future Islands"
+artist: "future-islands"
 album_name: "The Far Field "
 date: 2017-04-08T10:03:44.000000Z
 release_date: "2017-04-07"

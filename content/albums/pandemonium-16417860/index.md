@@ -1,6 +1,7 @@
 ---
 title: "Killing Joke - Pandemonium"
-artist: "Killing Joke"
+artist_name: "Killing Joke"
+artist: "killing-joke"
 album_name: "Pandemonium"
 date: 2020-12-12T03:13:20.000000Z
 release_id: "16417860"

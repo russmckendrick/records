@@ -1,6 +1,7 @@
 ---
 title: "Frank Sidebottom - Being Frank: The Chris Sievey Story"
-artist: "Frank Sidebottom"
+artist_name: "Frank Sidebottom"
+artist: "frank-sidebottom"
 album_name: "Being Frank: The Chris Sievey Story"
 date: 2019-03-30T11:12:54.000000Z
 release_id: "13418323"

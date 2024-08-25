@@ -1,6 +1,7 @@
 ---
 title: "Gong - Rejoice! I'm Dead!"
-artist: "Gong"
+artist_name: "Gong"
+artist: "gong"
 album_name: "Rejoice! I'm Dead!"
 date: 2016-09-21T17:52:30.000000Z
 release_id: "9058357"

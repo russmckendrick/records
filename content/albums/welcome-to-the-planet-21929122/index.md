@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - Welcome To The Planet "
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "Welcome To The Planet "
 date: 2022-01-29T02:16:32.000000Z
 release_id: "21929122"

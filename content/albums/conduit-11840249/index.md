@@ -1,6 +1,7 @@
 ---
 title: "Awooga - Conduit"
-artist: "Awooga"
+artist_name: "Awooga"
+artist: "awooga"
 album_name: "Conduit"
 date: 2018-04-24T05:54:25.000000Z
 release_id: "11840249"

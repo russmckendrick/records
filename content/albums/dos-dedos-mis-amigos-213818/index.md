@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - Dos Dedos Mis Amigos"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "Dos Dedos Mis Amigos"
 date: 2017-09-01T18:22:50.000000Z
 release_id: "213818"

@@ -1,6 +1,7 @@
 ---
 title: "Deep Purple - Deep Purple In Rock"
-artist: "Deep Purple"
+artist_name: "Deep Purple"
+artist: "deep-purple"
 album_name: "Deep Purple In Rock"
 date: 2016-06-21T18:26:00.000000Z
 release_id: "8668461"

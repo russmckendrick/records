@@ -1,6 +1,7 @@
 ---
 title: "Salad - Singles Bar"
-artist: "Salad"
+artist_name: "Salad"
+artist: "salad"
 album_name: "Singles Bar"
 date: 2023-10-18T10:51:19.000000Z
 release_id: "28627258"

@@ -1,6 +1,7 @@
 ---
 title: "Various - Fonzie Favorites"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Fonzie Favorites"
 date: 2020-08-02T13:44:33.000000Z
 release_id: "1879249"

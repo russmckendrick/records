@@ -1,6 +1,7 @@
 ---
 title: "Sleep - Sleep's Holy Mountain"
-artist: "Sleep"
+artist_name: "Sleep"
+artist: "sleep"
 album_name: "Sleep's Holy Mountain"
 date: 2018-08-23T19:24:24.000000Z
 release_date: "1992-11-01"

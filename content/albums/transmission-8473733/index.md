@@ -1,6 +1,7 @@
 ---
 title: "Death In Vegas - Transmission"
-artist: "Death In Vegas"
+artist_name: "Death In Vegas"
+artist: "death-in-vegas"
 album_name: "Transmission"
 date: 2016-05-31T19:31:47.000000Z
 release_date: "2016-05-27"

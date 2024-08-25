@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness"
 date: 2017-05-04T21:07:36.000000Z
 release_id: "10170395"

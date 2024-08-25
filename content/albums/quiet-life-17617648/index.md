@@ -1,6 +1,7 @@
 ---
 title: "Japan - Quiet Life"
-artist: "Japan"
+artist_name: "Japan"
+artist: "japan"
 album_name: "Quiet Life"
 date: 2021-03-05T12:00:12.000000Z
 release_id: "17617648"

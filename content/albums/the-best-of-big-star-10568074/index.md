@@ -1,6 +1,7 @@
 ---
 title: "Big Star - The Best Of Big Star"
-artist: "Big Star"
+artist_name: "Big Star"
+artist: "big-star"
 album_name: "The Best Of Big Star"
 date: 2017-07-14T19:21:22.000000Z
 release_id: "10568074"

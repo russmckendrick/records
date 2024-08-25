@@ -1,6 +1,7 @@
 ---
 title: "2 Many DJ's - As Heard On Radio Soulwax Pt.2"
-artist: "2 Many DJ's"
+artist_name: "2 Many DJ's"
+artist: "2-many-dj-s"
 album_name: "As Heard On Radio Soulwax Pt.2"
 date: 2022-12-05T10:50:15.000000Z
 release_id: "24877952"

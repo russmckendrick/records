@@ -1,6 +1,7 @@
 ---
 title: "Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)"
-artist: "Jesus Jones"
+artist_name: "Jesus Jones"
+artist: "jesus-jones"
 album_name: "Scratched (Unreleased Rare Tracks & Remixes)"
 date: 2022-04-24T04:22:06.000000Z
 release_id: "22978766"

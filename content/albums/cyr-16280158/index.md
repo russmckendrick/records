@@ -1,6 +1,7 @@
 ---
 title: "The Smashing Pumpkins - Cyr"
-artist: "The Smashing Pumpkins"
+artist_name: "The Smashing Pumpkins"
+artist: "the-smashing-pumpkins"
 album_name: "Cyr"
 date: 2020-11-28T12:33:24.000000Z
 release_id: "16280158"

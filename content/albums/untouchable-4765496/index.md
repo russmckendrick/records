@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Untouchable"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Untouchable"
 date: 2016-12-13T17:50:48.000000Z
 release_id: "4765496"

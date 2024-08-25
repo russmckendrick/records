@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Dark Side Of The Moon - Immersion Box Set"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon - Immersion Box Set"
 date: 2015-08-09T13:05:07.000000Z
 release_id: "3142241"

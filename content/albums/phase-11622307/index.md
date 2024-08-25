@@ -1,6 +1,7 @@
 ---
 title: "Mildlife - Phase"
-artist: "Mildlife"
+artist_name: "Mildlife"
+artist: "mildlife"
 album_name: "Phase"
 date: 2018-12-28T17:38:47.000000Z
 release_id: "11622307"

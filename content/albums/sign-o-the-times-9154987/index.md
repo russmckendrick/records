@@ -1,6 +1,7 @@
 ---
 title: "Prince - Sign O The Times"
-artist: "Prince"
+artist_name: "Prince"
+artist: "prince"
 album_name: "Sign O The Times"
 date: 2016-10-21T17:28:25.000000Z
 release_date: "1987-03-30"

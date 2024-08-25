@@ -1,6 +1,7 @@
 ---
 title: "Spin Doctors - Pocket Full of Kryptonite "
-artist: "Spin Doctors"
+artist_name: "Spin Doctors"
+artist: "spin-doctors"
 album_name: "Pocket Full of Kryptonite "
 date: 2017-02-24T19:47:09.000000Z
 release_id: "6958185"

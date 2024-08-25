@@ -1,6 +1,7 @@
 ---
 title: "The Mighty Boosh - The Mighty Boosh - The Complete Radio Series"
-artist: "The Mighty Boosh"
+artist_name: "The Mighty Boosh"
+artist: "the-mighty-boosh"
 album_name: "The Mighty Boosh - The Complete Radio Series"
 date: 2019-04-25T19:02:49.000000Z
 release_id: "13486052"

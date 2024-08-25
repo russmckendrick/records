@@ -1,5 +1,6 @@
 ---
 title: "65daysofstatic - No Man's Sky: Music For An Infinite Universe"
+artist_name: "65daysofstatic"
 artist: "65daysofstatic"
 album_name: "No Man's Sky: Music For An Infinite Universe"
 date: 2016-09-29T17:47:08.000000Z

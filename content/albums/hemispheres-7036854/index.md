@@ -1,6 +1,7 @@
 ---
 title: "Rush - Hemispheres"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Hemispheres"
 date: 2015-08-09T08:38:01.000000Z
 release_date: "1978-10-29"

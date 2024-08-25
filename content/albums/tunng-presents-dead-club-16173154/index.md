@@ -1,6 +1,7 @@
 ---
 title: "Tunng - Tunng Presents... Dead Club"
-artist: "Tunng"
+artist_name: "Tunng"
+artist: "tunng"
 album_name: "Tunng Presents... Dead Club"
 date: 2020-11-18T13:27:13.000000Z
 release_id: "16173154"

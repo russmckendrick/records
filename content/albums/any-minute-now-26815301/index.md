@@ -1,6 +1,7 @@
 ---
 title: "Soulwax - Any Minute Now"
-artist: "Soulwax"
+artist_name: "Soulwax"
+artist: "soulwax"
 album_name: "Any Minute Now"
 date: 2023-04-23T04:36:49.000000Z
 release_id: "26815301"

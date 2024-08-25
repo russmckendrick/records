@@ -1,6 +1,7 @@
 ---
 title: "Various - The Endless Coloured Ways: The Songs Of Nick Drake"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Endless Coloured Ways: The Songs Of Nick Drake"
 date: 2023-07-10T13:24:22.000000Z
 release_id: "27634329"

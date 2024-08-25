@@ -1,6 +1,7 @@
 ---
 title: "The Charlatans - Melting Pot"
-artist: "The Charlatans"
+artist_name: "The Charlatans"
+artist: "the-charlatans"
 album_name: "Melting Pot"
 date: 2017-04-22T10:02:26.000000Z
 release_id: "7147752"

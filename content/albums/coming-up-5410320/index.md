@@ -1,6 +1,7 @@
 ---
 title: "Suede - Coming Up"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "Coming Up"
 date: 2016-07-18T17:36:55.000000Z
 release_date: "2011-06-13"

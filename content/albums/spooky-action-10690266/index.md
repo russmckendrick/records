@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - Spooky Action"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "Spooky Action"
 date: 2017-08-13T18:21:55.000000Z
 release_id: "10690266"

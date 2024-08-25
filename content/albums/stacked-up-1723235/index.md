@@ -1,6 +1,7 @@
 ---
 title: "Senser - Stacked Up"
-artist: "Senser"
+artist_name: "Senser"
+artist: "senser"
 album_name: "Stacked Up"
 date: 2015-12-04T18:21:46.000000Z
 release_id: "1723235"

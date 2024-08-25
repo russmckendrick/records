@@ -1,6 +1,7 @@
 ---
 title: "Rival Schools - United By Fate"
-artist: "Rival Schools"
+artist_name: "Rival Schools"
+artist: "rival-schools"
 album_name: "United By Fate"
 date: 2022-12-05T10:49:51.000000Z
 release_id: "24976549"

@@ -1,6 +1,7 @@
 ---
 title: "Various - NOW 80s Alternative"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "NOW 80s Alternative"
 date: 2023-06-21T11:47:00.000000Z
 release_id: "27441879"

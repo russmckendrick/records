@@ -1,6 +1,7 @@
 ---
 title: "The War On Drugs - I Don't Live Here Anymore"
-artist: "The War On Drugs"
+artist_name: "The War On Drugs"
+artist: "the-war-on-drugs"
 album_name: "I Don't Live Here Anymore"
 date: 2021-10-30T04:05:25.000000Z
 release_date: "2021-10-29"

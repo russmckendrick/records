@@ -1,6 +1,7 @@
 ---
 title: "Ghost - Meliora"
-artist: "Ghost"
+artist_name: "Ghost"
+artist: "ghost"
 album_name: "Meliora"
 date: 2018-09-16T10:49:21.000000Z
 release_id: "7381473"

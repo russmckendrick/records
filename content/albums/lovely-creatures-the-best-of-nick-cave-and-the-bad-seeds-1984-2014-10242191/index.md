@@ -1,6 +1,7 @@
 ---
 title: "Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
-artist: "Nick Cave & The Bad Seeds"
+artist_name: "Nick Cave & The Bad Seeds"
+artist: "nick-cave-the-bad-seeds"
 album_name: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
 date: 2017-05-05T17:26:00.000000Z
 release_id: "10242191"

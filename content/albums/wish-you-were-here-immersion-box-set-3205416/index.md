@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Wish You Were Here - Immersion Box Set"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Wish You Were Here - Immersion Box Set"
 date: 2015-08-09T13:05:36.000000Z
 release_id: "3205416"

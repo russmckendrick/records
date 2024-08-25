@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - On The Level"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "On The Level"
 date: 2016-05-23T18:27:07.000000Z
 release_id: "7578679"

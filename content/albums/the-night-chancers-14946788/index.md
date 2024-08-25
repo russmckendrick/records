@@ -1,6 +1,7 @@
 ---
 title: "Baxter Dury - The Night Chancers"
-artist: "Baxter Dury"
+artist_name: "Baxter Dury"
+artist: "baxter-dury"
 album_name: "The Night Chancers"
 date: 2020-09-15T17:31:59.000000Z
 release_id: "14946788"

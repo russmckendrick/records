@@ -1,6 +1,7 @@
 ---
 title: "Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
 date: 2020-01-26T14:56:22.000000Z
 release_id: "14465350"

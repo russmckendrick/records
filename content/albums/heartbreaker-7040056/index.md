@@ -1,6 +1,7 @@
 ---
 title: "Ryan Adams - Heartbreaker"
-artist: "Ryan Adams"
+artist_name: "Ryan Adams"
+artist: "ryan-adams"
 album_name: "Heartbreaker"
 date: 2016-04-27T16:45:46.000000Z
 release_date: "2000-09-05"

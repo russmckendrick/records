@@ -1,6 +1,7 @@
 ---
 title: "Björk - Debut"
-artist: "Björk"
+artist_name: "Björk"
+artist: "bjrk"
 album_name: "Debut"
 date: 2016-11-24T18:45:09.000000Z
 release_id: "8051406"

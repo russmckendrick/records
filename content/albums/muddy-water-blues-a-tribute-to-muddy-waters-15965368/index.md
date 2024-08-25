@@ -1,6 +1,7 @@
 ---
 title: "Paul Rodgers - Muddy Water Blues - A Tribute to Muddy Waters"
-artist: "Paul Rodgers"
+artist_name: "Paul Rodgers"
+artist: "paul-rodgers"
 album_name: "Muddy Water Blues - A Tribute to Muddy Waters"
 date: 2020-09-26T05:27:29.000000Z
 release_id: "15965368"

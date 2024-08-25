@@ -1,6 +1,7 @@
 ---
 title: "Nirvana - In Utero"
-artist: "Nirvana"
+artist_name: "Nirvana"
+artist: "nirvana"
 album_name: "In Utero"
 date: 2016-10-15T11:15:32.000000Z
 release_id: "841259"

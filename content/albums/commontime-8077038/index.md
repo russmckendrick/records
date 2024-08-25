@@ -1,6 +1,7 @@
 ---
 title: "Field Music - Commontime"
-artist: "Field Music"
+artist_name: "Field Music"
+artist: "field-music"
 album_name: "Commontime"
 date: 2016-02-08T12:51:45.000000Z
 release_date: "2016-02-05"

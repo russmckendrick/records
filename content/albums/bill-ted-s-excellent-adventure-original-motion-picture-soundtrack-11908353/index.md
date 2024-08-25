@@ -1,6 +1,7 @@
 ---
 title: "Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
 date: 2018-11-30T15:23:32.000000Z
 release_id: "11908353"

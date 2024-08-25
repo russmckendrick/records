@@ -1,6 +1,7 @@
 ---
 title: "Blur - Modern Life Is Rubbish"
-artist: "Blur"
+artist_name: "Blur"
+artist: "blur"
 album_name: "Modern Life Is Rubbish"
 date: 2023-10-22T06:32:24.000000Z
 release_id: "28568566"

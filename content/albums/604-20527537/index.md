@@ -1,6 +1,7 @@
 ---
 title: "Ladytron - 604"
-artist: "Ladytron"
+artist_name: "Ladytron"
+artist: "ladytron"
 album_name: "604"
 date: 2022-01-11T04:52:14.000000Z
 release_id: "20527537"

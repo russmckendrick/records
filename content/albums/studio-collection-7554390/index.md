@@ -1,6 +1,7 @@
 ---
 title: "Queen - Studio Collection"
-artist: "Queen"
+artist_name: "Queen"
+artist: "queen"
 album_name: "Studio Collection"
 date: 2016-02-17T18:15:16.000000Z
 release_id: "7554390"

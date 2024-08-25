@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - The Groop Played Space Age Batchelor Pad Music"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "The Groop Played Space Age Batchelor Pad Music"
 date: 2018-11-10T08:11:15.000000Z
 release_id: "12779731"

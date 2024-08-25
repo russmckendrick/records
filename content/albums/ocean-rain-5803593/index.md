@@ -1,6 +1,7 @@
 ---
 title: "Echo & The Bunnymen - Ocean Rain"
-artist: "Echo & The Bunnymen"
+artist_name: "Echo & The Bunnymen"
+artist: "echo-the-bunnymen"
 album_name: "Ocean Rain"
 date: 2017-03-08T19:51:32.000000Z
 release_id: "5803593"

@@ -1,6 +1,7 @@
 ---
 title: "Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years"
-artist: "Joe Strummer & The Mescaleros"
+artist_name: "Joe Strummer & The Mescaleros"
+artist: "joe-strummer-the-mescaleros"
 album_name: "Joe Strummer 002: The Mescaleros Years"
 date: 2022-09-26T09:13:33.000000Z
 release_date: "2022-09-16"

@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend Project - Ziltoid (Dark Matters)"
-artist: "Devin Townsend Project"
+artist_name: "Devin Townsend Project"
+artist: "devin-townsend-project"
 album_name: "Ziltoid (Dark Matters)"
 date: 2016-05-03T16:17:30.000000Z
 release_id: "7514406"

@@ -1,6 +1,7 @@
 ---
 title: "Slint - Spiderland"
-artist: "Slint"
+artist_name: "Slint"
+artist: "slint"
 album_name: "Spiderland"
 date: 2015-08-21T17:41:10.000000Z
 release_id: "5813623"

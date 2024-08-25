@@ -1,6 +1,7 @@
 ---
 title: "Electronic - Get The Message The Best Of Electronic"
-artist: "Electronic"
+artist_name: "Electronic"
+artist: "electronic"
 album_name: "Get The Message The Best Of Electronic"
 date: 2023-09-29T06:40:05.000000Z
 release_date: "2006-09-18"

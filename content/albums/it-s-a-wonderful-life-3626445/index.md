@@ -1,6 +1,7 @@
 ---
 title: "Sparklehorse - It's A Wonderful Life"
-artist: "Sparklehorse"
+artist_name: "Sparklehorse"
+artist: "sparklehorse"
 album_name: "It's A Wonderful Life"
 date: 2019-04-26T12:45:21.000000Z
 release_id: "3626445"

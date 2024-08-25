@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - Angel Dust"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "Angel Dust"
 date: 2015-12-14T17:05:02.000000Z
 release_id: "7410902"

@@ -1,6 +1,7 @@
 ---
 title: "Dream Theater - Metropolis Pt. 2: Scenes From A Memory"
-artist: "Dream Theater"
+artist_name: "Dream Theater"
+artist: "dream-theater"
 album_name: "Metropolis Pt. 2: Scenes From A Memory"
 date: 2016-02-01T19:16:22.000000Z
 release_id: "6151119"

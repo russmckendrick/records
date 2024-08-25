@@ -1,6 +1,7 @@
 ---
 title: "The Lickerish Quartet - Threesome Vol. 1"
-artist: "The Lickerish Quartet"
+artist_name: "The Lickerish Quartet"
+artist: "the-lickerish-quartet"
 album_name: "Threesome Vol. 1"
 date: 2020-08-23T21:16:06.000000Z
 release_id: "15551347"

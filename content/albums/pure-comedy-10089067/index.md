@@ -1,6 +1,7 @@
 ---
 title: "Father John Misty - Pure Comedy"
-artist: "Father John Misty"
+artist_name: "Father John Misty"
+artist: "father-john-misty"
 album_name: "Pure Comedy"
 date: 2017-04-08T10:03:27.000000Z
 release_date: "2017-04-07"

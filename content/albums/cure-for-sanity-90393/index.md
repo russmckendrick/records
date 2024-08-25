@@ -1,6 +1,7 @@
 ---
 title: "Pop Will Eat Itself - Cure For Sanity"
-artist: "Pop Will Eat Itself"
+artist_name: "Pop Will Eat Itself"
+artist: "pop-will-eat-itself"
 album_name: "Cure For Sanity"
 date: 2016-12-07T17:40:35.000000Z
 release_id: "90393"

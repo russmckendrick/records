@@ -1,6 +1,7 @@
 ---
 title: "Lesoir - Mosaic"
-artist: "Lesoir"
+artist_name: "Lesoir"
+artist: "lesoir"
 album_name: "Mosaic"
 date: 2020-05-26T12:57:49.000000Z
 release_id: "15250776"

@@ -1,6 +1,7 @@
 ---
 title: "Thundercat - Drank"
-artist: "Thundercat"
+artist_name: "Thundercat"
+artist: "thundercat"
 album_name: "Drank"
 date: 2018-03-16T16:38:54.000000Z
 release_date: "2017-02-24"

@@ -1,6 +1,7 @@
 ---
 title: "Thom Yorke - Anima"
-artist: "Thom Yorke"
+artist_name: "Thom Yorke"
+artist: "thom-yorke"
 album_name: "Anima"
 date: 2019-07-20T10:15:42.000000Z
 release_date: "2019-06-27"

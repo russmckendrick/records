@@ -1,6 +1,7 @@
 ---
 title: "Beck - Morning Phase"
-artist: "Beck"
+artist_name: "Beck"
+artist: "beck"
 album_name: "Morning Phase"
 date: 2017-08-11T18:27:02.000000Z
 release_date: "2014-01-01"

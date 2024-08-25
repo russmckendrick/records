@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - In Rainbows"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "In Rainbows"
 date: 2015-08-09T08:34:56.000000Z
 release_date: "2007-10-10"

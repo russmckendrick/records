@@ -1,6 +1,7 @@
 ---
 title: "A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service"
-artist: "A Tribe Called Quest"
+artist_name: "A Tribe Called Quest"
+artist: "a-tribe-called-quest"
 album_name: "We Got It From Here…Thank You 4 Your Service"
 date: 2017-01-13T20:11:49.000000Z
 release_date: "2016-11-11"

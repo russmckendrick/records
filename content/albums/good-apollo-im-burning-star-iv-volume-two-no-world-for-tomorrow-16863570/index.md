@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow"
 date: 2021-06-15T08:24:18.000000Z
 release_id: "16863570"

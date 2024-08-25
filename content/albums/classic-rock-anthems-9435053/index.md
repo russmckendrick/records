@@ -1,6 +1,7 @@
 ---
 title: "Various - Classic Rock Anthems"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Classic Rock Anthems"
 date: 2016-12-27T12:08:41.000000Z
 release_id: "9435053"

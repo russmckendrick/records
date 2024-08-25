@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - Black Sabbath"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "Black Sabbath"
 date: 2015-09-27T10:53:49.000000Z
 release_date: "1970-02-13"

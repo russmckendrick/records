@@ -1,6 +1,7 @@
 ---
 title: "Green Day - Insomniac"
-artist: "Green Day"
+artist_name: "Green Day"
+artist: "green-day"
 album_name: "Insomniac"
 date: 2021-03-21T09:19:41.000000Z
 release_id: "17885617"

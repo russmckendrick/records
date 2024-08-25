@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Let It Come Down"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Let It Come Down"
 date: 2021-10-28T05:19:50.000000Z
 release_id: "20556940"

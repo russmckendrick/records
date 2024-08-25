@@ -1,6 +1,7 @@
 ---
 title: "Matt Berry - Beatmaker"
-artist: "Matt Berry"
+artist_name: "Matt Berry"
+artist: "matt-berry"
 album_name: "Beatmaker"
 date: 2022-03-10T05:19:10.000000Z
 release_id: "22444114"

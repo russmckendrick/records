@@ -1,6 +1,7 @@
 ---
 title: "Alice In Chains - Jar Of Flies / Sap"
-artist: "Alice In Chains"
+artist_name: "Alice In Chains"
+artist: "alice-in-chains"
 album_name: "Jar Of Flies / Sap"
 date: 2016-10-01T10:34:46.000000Z
 release_id: "3566414"

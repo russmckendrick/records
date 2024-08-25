@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Meddle For Orchestra"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Meddle For Orchestra"
 date: 2022-06-30T04:58:01.000000Z
 release_id: "15315298"

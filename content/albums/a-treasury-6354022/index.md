@@ -1,6 +1,7 @@
 ---
 title: "Nick Drake - A Treasury"
-artist: "Nick Drake"
+artist_name: "Nick Drake"
+artist: "nick-drake"
 album_name: "A Treasury"
 date: 2016-06-27T17:45:59.000000Z
 release_id: "6354022"

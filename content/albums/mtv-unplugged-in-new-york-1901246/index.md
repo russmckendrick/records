@@ -1,6 +1,7 @@
 ---
 title: "Nirvana - MTV Unplugged In New York"
-artist: "Nirvana"
+artist_name: "Nirvana"
+artist: "nirvana"
 album_name: "MTV Unplugged In New York"
 date: 2016-04-15T17:26:11.000000Z
 release_date: "1994-11-01"

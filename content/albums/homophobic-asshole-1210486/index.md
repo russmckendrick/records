@@ -1,6 +1,7 @@
 ---
 title: "Senseless Things - Homophobic Asshole"
-artist: "Senseless Things"
+artist_name: "Senseless Things"
+artist: "senseless-things"
 album_name: "Homophobic Asshole"
 date: 2018-02-15T19:24:32.000000Z
 release_id: "1210486"

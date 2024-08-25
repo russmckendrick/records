@@ -1,6 +1,7 @@
 ---
 title: "Black Label Society - Unblackened"
-artist: "Black Label Society"
+artist_name: "Black Label Society"
+artist: "black-label-society"
 album_name: "Unblackened"
 date: 2016-04-09T08:07:10.000000Z
 release_id: "6224254"

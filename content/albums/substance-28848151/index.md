@@ -1,6 +1,7 @@
 ---
 title: "New Order - Substance"
-artist: "New Order"
+artist_name: "New Order"
+artist: "new-order"
 album_name: "Substance"
 date: 2023-11-10T11:18:26.000000Z
 release_id: "28848151"

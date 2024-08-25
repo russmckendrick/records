@@ -1,6 +1,7 @@
 ---
 title: "King Crimson - Islands"
-artist: "King Crimson"
+artist_name: "King Crimson"
+artist: "king-crimson"
 album_name: "Islands"
 date: 2017-08-11T18:29:19.000000Z
 release_date: "1971-12-03"

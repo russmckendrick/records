@@ -1,6 +1,7 @@
 ---
 title: "Living Colour - Time's Up"
-artist: "Living Colour"
+artist_name: "Living Colour"
+artist: "living-colour"
 album_name: "Time's Up"
 date: 2015-10-05T18:23:05.000000Z
 release_date: "1990-08-20"

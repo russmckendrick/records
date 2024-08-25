@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - AOI: Bionix"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "AOI: Bionix"
 date: 2023-09-16T00:47:02.000000Z
 release_date: "2001-12-04"

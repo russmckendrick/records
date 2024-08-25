@@ -1,6 +1,7 @@
 ---
 title: "Forenzics - Shades And Echoes"
-artist: "Forenzics"
+artist_name: "Forenzics"
+artist: "forenzics"
 album_name: "Shades And Echoes"
 date: 2022-02-26T10:38:07.000000Z
 release_id: "22152553"

@@ -1,6 +1,7 @@
 ---
 title: "Black Country, New Road - Ants From Up There"
-artist: "Black Country, New Road"
+artist_name: "Black Country, New Road"
+artist: "black-country-new-road"
 album_name: "Ants From Up There"
 date: 2022-02-04T03:58:24.000000Z
 release_date: "2022-02-04"

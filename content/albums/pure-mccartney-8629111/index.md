@@ -1,6 +1,7 @@
 ---
 title: "Paul McCartney - Pure McCartney"
-artist: "Paul McCartney"
+artist_name: "Paul McCartney"
+artist: "paul-mccartney"
 album_name: "Pure McCartney"
 date: 2017-01-19T18:44:37.000000Z
 release_date: "2016-06-10"

@@ -1,6 +1,7 @@
 ---
 title: "Agnes Obel - Philharmonics"
-artist: "Agnes Obel"
+artist_name: "Agnes Obel"
+artist: "agnes-obel"
 album_name: "Philharmonics"
 date: 2017-01-05T19:25:10.000000Z
 release_id: "2469079"

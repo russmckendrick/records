@@ -1,6 +1,7 @@
 ---
 title: "George Harrison - All Things Must Pass"
-artist: "George Harrison"
+artist_name: "George Harrison"
+artist: "george-harrison"
 album_name: "All Things Must Pass"
 date: 2017-02-24T09:40:13.000000Z
 release_id: "9882471"

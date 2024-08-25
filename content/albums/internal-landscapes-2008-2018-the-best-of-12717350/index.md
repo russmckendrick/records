@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Internal Landscapes 2008-2018 (The Best Of)"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Internal Landscapes 2008-2018 (The Best Of)"
 date: 2018-10-27T12:10:49.000000Z
 release_id: "12717350"

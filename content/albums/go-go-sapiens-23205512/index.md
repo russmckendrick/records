@@ -1,6 +1,7 @@
 ---
 title: "EMF - Go Go Sapiens"
-artist: "EMF"
+artist_name: "EMF"
+artist: "emf"
 album_name: "Go Go Sapiens"
 date: 2022-05-13T03:31:55.000000Z
 release_id: "23205512"

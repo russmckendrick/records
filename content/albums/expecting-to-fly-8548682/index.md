@@ -1,6 +1,7 @@
 ---
 title: "The Bluetones - Expecting To Fly"
-artist: "The Bluetones"
+artist_name: "The Bluetones"
+artist: "the-bluetones"
 album_name: "Expecting To Fly"
 date: 2016-10-04T16:38:04.000000Z
 release_id: "8548682"

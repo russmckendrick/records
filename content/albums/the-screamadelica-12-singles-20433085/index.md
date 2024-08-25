@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - The Screamadelica 12 Singles"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "The Screamadelica 12 Singles"
 date: 2021-11-07T08:11:40.000000Z
 release_id: "20433085"

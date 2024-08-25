@@ -1,6 +1,7 @@
 ---
 title: "REO Speedwagon - Hi Infidelity"
-artist: "REO Speedwagon"
+artist_name: "REO Speedwagon"
+artist: "reo-speedwagon"
 album_name: "Hi Infidelity"
 date: 2020-08-02T13:49:18.000000Z
 release_date: "1980-11-21"

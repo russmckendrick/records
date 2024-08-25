@@ -1,6 +1,7 @@
 ---
 title: "Thin Lizzy - Greatest Hits"
-artist: "Thin Lizzy"
+artist_name: "Thin Lizzy"
+artist: "thin-lizzy"
 album_name: "Greatest Hits"
 date: 2021-08-01T09:19:06.000000Z
 release_id: "19396810"

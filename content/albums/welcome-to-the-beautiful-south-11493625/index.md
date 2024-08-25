@@ -1,6 +1,7 @@
 ---
 title: "The Beautiful South - Welcome To The Beautiful South"
-artist: "The Beautiful South"
+artist_name: "The Beautiful South"
+artist: "the-beautiful-south"
 album_name: "Welcome To The Beautiful South"
 date: 2018-02-02T07:57:58.000000Z
 release_id: "11493625"

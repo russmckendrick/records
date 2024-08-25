@@ -1,6 +1,7 @@
 ---
 title: "Blackfield - Blackfield"
-artist: "Blackfield"
+artist_name: "Blackfield"
+artist: "blackfield"
 album_name: "Blackfield"
 date: 2024-06-01T06:08:09.000000Z
 release_id: "30444917"

@@ -1,6 +1,7 @@
 ---
 title: "Eels - Earth To Dora (She Belongs With The Gentle Souls)"
-artist: "Eels"
+artist_name: "Eels"
+artist: "eels"
 album_name: "Earth To Dora (She Belongs With The Gentle Souls)"
 date: 2020-11-01T10:17:15.000000Z
 release_id: "16136698"

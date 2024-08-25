@@ -1,6 +1,7 @@
 ---
 title: "Cud - Asquarius"
-artist: "Cud"
+artist_name: "Cud"
+artist: "cud"
 album_name: "Asquarius"
 date: 2017-05-19T14:22:56.000000Z
 release_id: "1832443"

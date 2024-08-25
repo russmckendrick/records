@@ -1,6 +1,7 @@
 ---
 title: "Sam Brown - Stop!"
-artist: "Sam Brown"
+artist_name: "Sam Brown"
+artist: "sam-brown"
 album_name: "Stop!"
 date: 2019-01-19T10:33:32.000000Z
 release_id: "11811666"

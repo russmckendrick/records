@@ -1,6 +1,7 @@
 ---
 title: "Joe Walsh - But Seriously, Folks..."
-artist: "Joe Walsh"
+artist_name: "Joe Walsh"
+artist: "joe-walsh"
 album_name: "But Seriously, Folks..."
 date: 2020-08-02T13:33:25.000000Z
 release_id: "1673433"

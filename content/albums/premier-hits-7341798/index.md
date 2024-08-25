@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Premier Hits"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Premier Hits"
 date: 2015-08-15T08:06:31.000000Z
 release_id: "7341798"

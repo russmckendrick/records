@@ -1,6 +1,7 @@
 ---
 title: "Talking Heads - Remain In Light"
-artist: "Talking Heads"
+artist_name: "Talking Heads"
+artist: "talking-heads"
 album_name: "Remain In Light"
 date: 2015-09-16T18:52:12.000000Z
 release_date: "1980-10-08"

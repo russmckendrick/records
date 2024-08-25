@@ -1,6 +1,7 @@
 ---
 title: "Leon Bridges - Good Thing"
-artist: "Leon Bridges"
+artist_name: "Leon Bridges"
+artist: "leon-bridges"
 album_name: "Good Thing"
 date: 2019-08-23T14:19:27.000000Z
 release_date: "2018-05-04"

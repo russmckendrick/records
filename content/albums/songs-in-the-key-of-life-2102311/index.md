@@ -1,6 +1,7 @@
 ---
 title: "Stevie Wonder - Songs In The Key Of Life"
-artist: "Stevie Wonder"
+artist_name: "Stevie Wonder"
+artist: "stevie-wonder"
 album_name: "Songs In The Key Of Life"
 date: 2015-08-11T17:23:31.000000Z
 release_id: "2102311"

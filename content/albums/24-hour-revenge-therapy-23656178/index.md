@@ -1,6 +1,7 @@
 ---
 title: "Jawbreaker - 24 Hour Revenge Therapy"
-artist: "Jawbreaker"
+artist_name: "Jawbreaker"
+artist: "jawbreaker"
 album_name: "24 Hour Revenge Therapy"
 date: 2023-10-01T03:57:49.000000Z
 release_date: "1994-02-07"

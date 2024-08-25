@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Order Of Magnitude - Empath Live Volume 1"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Order Of Magnitude - Empath Live Volume 1"
 date: 2020-10-27T13:37:21.000000Z
 release_id: "16092605"

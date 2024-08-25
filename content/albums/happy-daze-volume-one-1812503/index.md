@@ -1,6 +1,7 @@
 ---
 title: "Various - Happy Daze (Volume One)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Happy Daze (Volume One)"
 date: 2017-12-07T20:58:26.000000Z
 release_id: "1812503"

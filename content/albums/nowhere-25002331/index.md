@@ -1,6 +1,7 @@
 ---
 title: "Ride - Nowhere"
-artist: "Ride"
+artist_name: "Ride"
+artist: "ride"
 album_name: "Nowhere"
 date: 2022-11-04T06:16:23.000000Z
 release_id: "25002331"

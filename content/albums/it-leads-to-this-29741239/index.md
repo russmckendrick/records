@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - It Leads To This"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "It Leads To This"
 date: 2024-02-10T02:45:30.000000Z
 release_id: "29741239"

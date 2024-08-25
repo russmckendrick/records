@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - A Tree As Old As Me"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "A Tree As Old As Me"
 date: 2021-04-22T04:45:49.000000Z
 release_id: "15233938"

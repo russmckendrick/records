@@ -1,6 +1,7 @@
 ---
 title: "The Rolling Stones - The Rolling Stones In Mono"
-artist: "The Rolling Stones"
+artist_name: "The Rolling Stones"
+artist: "the-rolling-stones"
 album_name: "The Rolling Stones In Mono"
 date: 2017-01-13T20:12:41.000000Z
 release_id: "9147559"

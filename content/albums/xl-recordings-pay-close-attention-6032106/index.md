@@ -1,6 +1,7 @@
 ---
 title: "Various - XL Recordings: Pay Close Attention"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "XL Recordings: Pay Close Attention"
 date: 2017-04-09T14:18:59.000000Z
 release_id: "6032106"

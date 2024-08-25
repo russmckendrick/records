@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Duke"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Duke"
 date: 2016-01-13T10:27:40.000000Z
 release_id: "773021"

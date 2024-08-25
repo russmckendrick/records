@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - Loving The Alien [ 1983–1988 ]"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "Loving The Alien [ 1983–1988 ]"
 date: 2018-10-14T15:26:05.000000Z
 release_id: "12645443"

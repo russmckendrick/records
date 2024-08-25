@@ -1,6 +1,7 @@
 ---
 title: "Emerson, Lake & Palmer - Pictures At An Exhibition"
-artist: "Emerson, Lake & Palmer"
+artist_name: "Emerson, Lake & Palmer"
+artist: "emerson-lake-palmer"
 album_name: "Pictures At An Exhibition"
 date: 2017-01-25T18:25:24.000000Z
 release_id: "841694"

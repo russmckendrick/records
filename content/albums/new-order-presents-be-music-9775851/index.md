@@ -1,6 +1,7 @@
 ---
 title: "Various - New Order Presents Be Music"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "New Order Presents Be Music"
 date: 2017-02-22T18:01:08.000000Z
 release_id: "9775851"

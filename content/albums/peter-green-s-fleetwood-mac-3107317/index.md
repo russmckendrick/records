@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Peter Green's Fleetwood Mac"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Peter Green's Fleetwood Mac"
 date: 2017-09-09T10:32:13.000000Z
 release_id: "3107317"

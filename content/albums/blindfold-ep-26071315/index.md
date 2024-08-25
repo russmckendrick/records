@@ -1,6 +1,7 @@
 ---
 title: "Curve - Blindfold EP"
-artist: "Curve"
+artist_name: "Curve"
+artist: "curve"
 album_name: "Blindfold EP"
 date: 2023-02-13T11:31:14.000000Z
 release_id: "26071315"

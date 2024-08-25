@@ -1,6 +1,7 @@
 ---
 title: "Various - Our New Orleans 2005, A Benefit Album"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Our New Orleans 2005, A Benefit Album"
 date: 2021-03-04T04:53:08.000000Z
 release_id: "16916634"

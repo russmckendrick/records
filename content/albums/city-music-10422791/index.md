@@ -1,6 +1,7 @@
 ---
 title: "Kevin Morby - City Music"
-artist: "Kevin Morby"
+artist_name: "Kevin Morby"
+artist: "kevin-morby"
 album_name: "City Music"
 date: 2017-06-17T09:30:09.000000Z
 release_id: "10422791"

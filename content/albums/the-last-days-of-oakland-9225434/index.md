@@ -1,6 +1,7 @@
 ---
 title: "Fantastic Negrito - The Last Days Of Oakland"
-artist: "Fantastic Negrito"
+artist_name: "Fantastic Negrito"
+artist: "fantastic-negrito"
 album_name: "The Last Days Of Oakland"
 date: 2018-03-19T14:46:19.000000Z
 release_id: "9225434"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Atom Heart Mother"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Atom Heart Mother"
 date: 2016-09-23T16:49:45.000000Z
 release_date: "1970-10-02"

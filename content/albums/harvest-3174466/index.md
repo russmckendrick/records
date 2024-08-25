@@ -1,6 +1,7 @@
 ---
 title: "Neil Young - Harvest"
-artist: "Neil Young"
+artist_name: "Neil Young"
+artist: "neil-young"
 album_name: "Harvest"
 date: 2016-01-11T17:43:20.000000Z
 release_date: "1972-02-01"

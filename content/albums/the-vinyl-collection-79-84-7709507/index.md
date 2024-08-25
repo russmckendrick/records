@@ -1,6 +1,7 @@
 ---
 title: "Simple Minds - The Vinyl Collection 79-84 "
-artist: "Simple Minds"
+artist_name: "Simple Minds"
+artist: "simple-minds"
 album_name: "The Vinyl Collection 79-84 "
 date: 2016-01-31T14:13:23.000000Z
 release_id: "7709507"

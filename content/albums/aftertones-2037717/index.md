@@ -1,6 +1,7 @@
 ---
 title: "Janis Ian - Aftertones"
-artist: "Janis Ian"
+artist_name: "Janis Ian"
+artist: "janis-ian"
 album_name: "Aftertones"
 date: 2019-01-19T10:36:24.000000Z
 release_id: "2037717"

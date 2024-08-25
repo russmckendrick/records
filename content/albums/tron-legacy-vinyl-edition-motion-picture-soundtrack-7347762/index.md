@@ -1,6 +1,7 @@
 ---
 title: "Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
-artist: "Daft Punk"
+artist_name: "Daft Punk"
+artist: "daft-punk"
 album_name: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
 date: 2016-03-29T16:24:24.000000Z
 release_id: "7347762"

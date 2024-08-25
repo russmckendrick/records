@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Techno Pop"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Techno Pop"
 date: 2017-04-23T12:08:20.000000Z
 release_id: "2059617"

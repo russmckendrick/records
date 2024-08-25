@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - A Broken Frame"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "A Broken Frame"
 date: 2017-02-20T19:08:15.000000Z
 release_date: "1982-09-27"

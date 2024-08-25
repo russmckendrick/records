@@ -1,6 +1,7 @@
 ---
 title: "Bill Fisher - Hallucinations Of A Higher Truth"
-artist: "Bill Fisher"
+artist_name: "Bill Fisher"
+artist: "bill-fisher"
 album_name: "Hallucinations Of A Higher Truth"
 date: 2021-11-06T05:57:40.000000Z
 release_id: "20871457"

@@ -1,6 +1,7 @@
 ---
 title: "Bon Jovi - Keep The Faith"
-artist: "Bon Jovi"
+artist_name: "Bon Jovi"
+artist: "bon-jovi"
 album_name: "Keep The Faith"
 date: 2018-06-13T17:29:14.000000Z
 release_id: "9366429"

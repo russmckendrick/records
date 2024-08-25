@@ -1,6 +1,7 @@
 ---
 title: "Therapy? - Infernal Love"
-artist: "Therapy?"
+artist_name: "Therapy?"
+artist: "therapy"
 album_name: "Infernal Love"
 date: 2022-01-07T10:25:31.000000Z
 release_id: "18393268"

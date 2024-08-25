@@ -1,6 +1,7 @@
 ---
 title: "Grandaddy - The Sophtware Slump .​.​.​.​. On A Wooden Piano"
-artist: "Grandaddy"
+artist_name: "Grandaddy"
+artist: "grandaddy"
 album_name: "The Sophtware Slump .​.​.​.​. On A Wooden Piano"
 date: 2021-02-20T02:44:49.000000Z
 release_id: "17475412"

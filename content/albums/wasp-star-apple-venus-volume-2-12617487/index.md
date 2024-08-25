@@ -1,6 +1,7 @@
 ---
 title: "XTC - Wasp Star (Apple Venus Volume 2)"
-artist: "XTC"
+artist_name: "XTC"
+artist: "xtc"
 album_name: "Wasp Star (Apple Venus Volume 2)"
 date: 2018-10-27T09:35:52.000000Z
 release_id: "12617487"

@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - How To Solve Our Human Problems"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "How To Solve Our Human Problems"
 date: 2018-02-16T18:48:21.000000Z
 release_id: "11559151"

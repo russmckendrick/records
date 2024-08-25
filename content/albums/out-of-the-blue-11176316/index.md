@@ -1,6 +1,7 @@
 ---
 title: "Electric Light Orchestra - Out Of The Blue"
-artist: "Electric Light Orchestra"
+artist_name: "Electric Light Orchestra"
+artist: "electric-light-orchestra"
 album_name: "Out Of The Blue"
 date: 2018-01-17T20:32:58.000000Z
 release_id: "11176316"

@@ -1,6 +1,7 @@
 ---
 title: "Garbage - Anthology"
-artist: "Garbage"
+artist_name: "Garbage"
+artist: "garbage"
 album_name: "Anthology"
 date: 2022-10-28T05:35:35.000000Z
 release_id: "24953839"

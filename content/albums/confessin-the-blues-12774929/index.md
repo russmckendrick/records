@@ -1,6 +1,7 @@
 ---
 title: "Various - Confessin' The Blues"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Confessin' The Blues"
 date: 2018-12-19T19:49:37.000000Z
 release_id: "12774929"

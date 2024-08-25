@@ -1,6 +1,7 @@
 ---
 title: "Phil Collins - The Singles"
-artist: "Phil Collins"
+artist_name: "Phil Collins"
+artist: "phil-collins"
 album_name: "The Singles"
 date: 2017-01-06T19:25:23.000000Z
 release_id: "9196545"

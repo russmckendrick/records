@@ -1,6 +1,7 @@
 ---
 title: "Kim Gordon - The Collective"
-artist: "Kim Gordon"
+artist_name: "Kim Gordon"
+artist: "kim-gordon"
 album_name: "The Collective"
 date: 2024-03-12T12:44:10.000000Z
 release_id: "30035155"

@@ -1,6 +1,7 @@
 ---
 title: "Jane Weaver - Love In Constant Spectacle"
-artist: "Jane Weaver"
+artist_name: "Jane Weaver"
+artist: "jane-weaver"
 album_name: "Love In Constant Spectacle"
 date: 2024-04-09T04:41:48.000000Z
 release_id: "30342611"

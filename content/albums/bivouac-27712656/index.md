@@ -1,6 +1,7 @@
 ---
 title: "Jawbreaker - Bivouac"
-artist: "Jawbreaker"
+artist_name: "Jawbreaker"
+artist: "jawbreaker"
 album_name: "Bivouac"
 date: 2023-10-01T03:57:00.000000Z
 release_id: "27712656"

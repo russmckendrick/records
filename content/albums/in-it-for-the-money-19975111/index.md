@@ -1,6 +1,7 @@
 ---
 title: "Supergrass - In It For The Money"
-artist: "Supergrass"
+artist_name: "Supergrass"
+artist: "supergrass"
 album_name: "In It For The Money"
 date: 2021-08-28T01:39:12.000000Z
 release_id: "19975111"

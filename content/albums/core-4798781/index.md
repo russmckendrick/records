@@ -1,6 +1,7 @@
 ---
 title: "Stone Temple Pilots - Core"
-artist: "Stone Temple Pilots"
+artist_name: "Stone Temple Pilots"
+artist: "stone-temple-pilots"
 album_name: "Core"
 date: 2016-12-18T09:51:03.000000Z
 release_date: "2018-03-16"

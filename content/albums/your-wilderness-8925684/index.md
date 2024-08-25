@@ -1,6 +1,7 @@
 ---
 title: "The Pineapple Thief - Your Wilderness"
-artist: "The Pineapple Thief"
+artist_name: "The Pineapple Thief"
+artist: "the-pineapple-thief"
 album_name: "Your Wilderness"
 date: 2016-08-19T17:00:35.000000Z
 release_id: "8925684"

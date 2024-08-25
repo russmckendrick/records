@@ -1,6 +1,7 @@
 ---
 title: "A Perfect Circle - Eat The Elephant"
-artist: "A Perfect Circle"
+artist_name: "A Perfect Circle"
+artist: "a-perfect-circle"
 album_name: "Eat The Elephant"
 date: 2018-04-20T17:55:36.000000Z
 release_date: "2018-04-20"

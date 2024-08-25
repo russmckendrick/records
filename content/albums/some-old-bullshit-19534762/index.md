@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - Some Old Bullshit"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "Some Old Bullshit"
 date: 2022-04-15T08:50:12.000000Z
 release_id: "19534762"

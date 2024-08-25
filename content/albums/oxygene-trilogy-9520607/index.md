@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Oxygene Trilogy"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Oxygene Trilogy"
 date: 2017-07-17T16:39:29.000000Z
 release_id: "9520607"

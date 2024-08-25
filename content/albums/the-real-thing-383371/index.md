@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - The Real Thing"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "The Real Thing"
 date: 2015-08-09T08:42:38.000000Z
 release_id: "383371"

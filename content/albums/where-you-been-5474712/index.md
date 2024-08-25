@@ -1,6 +1,7 @@
 ---
 title: "Dinosaur Jr. - Where You Been"
-artist: "Dinosaur Jr."
+artist_name: "Dinosaur Jr."
+artist: "dinosaur-jr"
 album_name: "Where You Been"
 date: 2017-06-04T10:36:38.000000Z
 release_id: "5474712"

@@ -1,6 +1,7 @@
 ---
 title: "Jane Weaver - Loops In The Secret Society"
-artist: "Jane Weaver"
+artist_name: "Jane Weaver"
+artist: "jane-weaver"
 album_name: "Loops In The Secret Society"
 date: 2019-06-21T19:10:31.000000Z
 release_id: "13787906"

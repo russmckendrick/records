@@ -1,6 +1,7 @@
 ---
 title: "Stiff Little Fingers - Inflammable Material"
-artist: "Stiff Little Fingers"
+artist_name: "Stiff Little Fingers"
+artist: "stiff-little-fingers"
 album_name: "Inflammable Material"
 date: 2021-08-31T12:34:26.000000Z
 release_id: "14224076"

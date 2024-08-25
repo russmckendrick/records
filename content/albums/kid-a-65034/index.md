@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - Kid A"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "Kid A"
 date: 2015-08-09T08:45:07.000000Z
 release_date: "2000-10-02"

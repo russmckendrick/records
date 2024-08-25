@@ -1,6 +1,7 @@
 ---
 title: "VARIOUS - New Jack City (Music From The Motion Picture)"
-artist: "VARIOUS"
+artist_name: "VARIOUS"
+artist: "various"
 album_name: "New Jack City (Music From The Motion Picture)"
 date: 2019-04-13T11:16:06.000000Z
 release_id: "13457870"

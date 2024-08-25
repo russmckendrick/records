@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - Dance"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "Dance"
 date: 2018-01-19T20:41:02.000000Z
 release_id: "11403737"

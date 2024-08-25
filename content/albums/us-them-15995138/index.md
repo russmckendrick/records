@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - Us + Them"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "Us + Them"
 date: 2020-10-03T16:11:55.000000Z
 release_id: "15995138"

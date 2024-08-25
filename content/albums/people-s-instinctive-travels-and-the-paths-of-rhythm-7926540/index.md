@@ -1,6 +1,7 @@
 ---
 title: "A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm"
-artist: "A Tribe Called Quest"
+artist_name: "A Tribe Called Quest"
+artist: "a-tribe-called-quest"
 album_name: "People's Instinctive Travels And The Paths Of Rhythm"
 date: 2017-04-14T09:25:48.000000Z
 release_date: "1990-04-10"

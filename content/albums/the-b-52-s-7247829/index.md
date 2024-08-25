@@ -1,6 +1,7 @@
 ---
 title: "The B-52's - The B-52's"
-artist: "The B-52's"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "The B-52's"
 date: 2016-09-14T17:01:12.000000Z
 release_id: "7247829"

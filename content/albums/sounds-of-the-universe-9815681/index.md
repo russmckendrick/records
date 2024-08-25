@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Sounds Of The Universe"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Sounds Of The Universe"
 date: 2017-02-23T11:23:07.000000Z
 release_id: "9815681"

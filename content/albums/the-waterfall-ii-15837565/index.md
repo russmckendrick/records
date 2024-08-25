@@ -1,6 +1,7 @@
 ---
 title: "My Morning Jacket - The Waterfall II"
-artist: "My Morning Jacket"
+artist_name: "My Morning Jacket"
+artist: "my-morning-jacket"
 album_name: "The Waterfall II"
 date: 2020-09-15T17:31:36.000000Z
 release_date: "2020-07-17"

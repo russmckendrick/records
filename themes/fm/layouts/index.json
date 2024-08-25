@@ -10,7 +10,7 @@
       {{ range $index, $page := .Site.RegularPages }}
       {
         "title": {{ $page.Title | jsonify }},
-        "artist": {{ $page.Params.artist | jsonify }},
+        "artist": {{ $page.Params.artist_name | jsonify }},
         "album": {{ $page.Params.album_name | jsonify }},
         "uri": {{ $page.RelPermalink | jsonify }},
         "date": {{ $page.PublishDate.Format "2006-01-02" | jsonify }},

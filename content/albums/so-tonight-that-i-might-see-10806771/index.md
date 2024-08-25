@@ -1,6 +1,7 @@
 ---
 title: "Mazzy Star - So Tonight That I Might See"
-artist: "Mazzy Star"
+artist_name: "Mazzy Star"
+artist: "mazzy-star"
 album_name: "So Tonight That I Might See"
 date: 2017-09-08T18:26:05.000000Z
 release_date: "1993-01-01"

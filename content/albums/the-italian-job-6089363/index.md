@@ -1,6 +1,7 @@
 ---
 title: "Quincy Jones - The Italian Job"
-artist: "Quincy Jones"
+artist_name: "Quincy Jones"
+artist: "quincy-jones"
 album_name: "The Italian Job"
 date: 2017-04-02T13:01:56.000000Z
 release_id: "6089363"

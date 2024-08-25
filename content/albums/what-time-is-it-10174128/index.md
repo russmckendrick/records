@@ -1,6 +1,7 @@
 ---
 title: "The Time - What Time Is It?"
-artist: "The Time"
+artist_name: "The Time"
+artist: "the-time"
 album_name: "What Time Is It?"
 date: 2017-05-03T19:20:24.000000Z
 release_date: "1982-08-24"

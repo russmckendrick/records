@@ -1,6 +1,7 @@
 ---
 title: "Lambchop - Showtunes"
-artist: "Lambchop"
+artist_name: "Lambchop"
+artist: "lambchop"
 album_name: "Showtunes"
 date: 2021-05-25T04:48:11.000000Z
 release_id: "18763735"

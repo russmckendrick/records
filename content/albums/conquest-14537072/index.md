@@ -1,6 +1,7 @@
 ---
 title: "Mix Master Mike - Conquest"
-artist: "Mix Master Mike"
+artist_name: "Mix Master Mike"
+artist: "mix-master-mike"
 album_name: "Conquest"
 date: 2019-12-30T18:22:28.000000Z
 release_id: "14537072"

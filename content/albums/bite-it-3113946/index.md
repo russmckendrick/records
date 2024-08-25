@@ -1,6 +1,7 @@
 ---
 title: "Whiteout - Bite It"
-artist: "Whiteout"
+artist_name: "Whiteout"
+artist: "whiteout"
 album_name: "Bite It"
 date: 2021-02-10T04:35:09.000000Z
 release_id: "3113946"

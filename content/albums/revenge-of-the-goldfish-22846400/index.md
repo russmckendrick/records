@@ -1,6 +1,7 @@
 ---
 title: "Inspiral Carpets - Revenge Of The Goldfish ™"
-artist: "Inspiral Carpets"
+artist_name: "Inspiral Carpets"
+artist: "inspiral-carpets"
 album_name: "Revenge Of The Goldfish ™"
 date: 2022-04-15T08:49:48.000000Z
 release_id: "22846400"

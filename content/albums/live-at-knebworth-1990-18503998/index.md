@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Live At Knebworth 1990"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Live At Knebworth 1990"
 date: 2021-04-30T07:39:02.000000Z
 release_id: "18503998"

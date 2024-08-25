@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Bossanova"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Bossanova"
 date: 2020-08-07T08:49:43.000000Z
 release_date: "1990-08-13"

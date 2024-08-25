@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Eras III"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Eras III"
 date: 2018-12-17T19:12:37.000000Z
 release_id: "12932368"

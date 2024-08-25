@@ -1,6 +1,7 @@
 ---
 title: "Various - Indie Top 20 Vol X"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Indie Top 20 Vol X"
 date: 2016-03-24T19:08:12.000000Z
 release_id: "449135"

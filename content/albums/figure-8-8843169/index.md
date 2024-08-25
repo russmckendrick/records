@@ -1,6 +1,7 @@
 ---
 title: "Elliott Smith - Figure 8"
-artist: "Elliott Smith"
+artist_name: "Elliott Smith"
+artist: "elliott-smith"
 album_name: "Figure 8"
 date: 2017-04-09T19:10:14.000000Z
 release_id: "8843169"

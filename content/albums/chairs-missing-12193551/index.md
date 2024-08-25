@@ -1,6 +1,7 @@
 ---
 title: "Wire - Chairs Missing"
-artist: "Wire"
+artist_name: "Wire"
+artist: "wire"
 album_name: "Chairs Missing"
 date: 2018-12-22T10:27:42.000000Z
 release_id: "12193551"

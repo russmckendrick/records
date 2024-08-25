@@ -1,6 +1,7 @@
 ---
 title: "John Martyn - Solid Air (Classics Revisited)"
-artist: "John Martyn"
+artist_name: "John Martyn"
+artist: "john-martyn"
 album_name: "Solid Air (Classics Revisited)"
 date: 2016-07-08T16:31:37.000000Z
 release_id: "5695629"

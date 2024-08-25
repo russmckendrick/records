@@ -1,6 +1,7 @@
 ---
 title: "Robbie Robertson - Robbie Robertson"
-artist: "Robbie Robertson"
+artist_name: "Robbie Robertson"
+artist: "robbie-robertson"
 album_name: "Robbie Robertson"
 date: 2020-08-01T12:50:56.000000Z
 release_id: "9243821"

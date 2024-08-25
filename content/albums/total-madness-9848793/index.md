@@ -1,6 +1,7 @@
 ---
 title: "Madness - Total Madness"
-artist: "Madness"
+artist_name: "Madness"
+artist: "madness"
 album_name: "Total Madness"
 date: 2017-02-22T18:01:50.000000Z
 release_id: "9848793"

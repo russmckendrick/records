@@ -1,6 +1,7 @@
 ---
 title: "Field Music - Making A New World"
-artist: "Field Music"
+artist_name: "Field Music"
+artist: "field-music"
 album_name: "Making A New World"
 date: 2020-01-10T18:20:53.000000Z
 release_date: "2020-01-10"

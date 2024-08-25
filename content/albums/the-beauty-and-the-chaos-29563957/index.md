@@ -1,6 +1,7 @@
 ---
 title: "EMF - The Beauty And The Chaos "
-artist: "EMF"
+artist_name: "EMF"
+artist: "emf"
 album_name: "The Beauty And The Chaos "
 date: 2024-02-02T05:29:25.000000Z
 release_id: "29563957"

@@ -1,6 +1,7 @@
 ---
 title: "The B-52's - Cosmic Thing"
-artist: "The B-52's"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "Cosmic Thing"
 date: 2016-01-15T18:22:32.000000Z
 release_id: "951365"

@@ -1,6 +1,7 @@
 ---
 title: "dEUS - How To Replace It"
-artist: "dEUS"
+artist_name: "dEUS"
+artist: "deus"
 album_name: "How To Replace It"
 date: 2023-03-01T00:19:26.000000Z
 release_id: "26119412"

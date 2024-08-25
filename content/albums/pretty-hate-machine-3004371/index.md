@@ -1,6 +1,7 @@
 ---
 title: "Nine Inch Nails - Pretty Hate Machine"
-artist: "Nine Inch Nails"
+artist_name: "Nine Inch Nails"
+artist: "nine-inch-nails"
 album_name: "Pretty Hate Machine"
 date: 2016-06-20T17:49:10.000000Z
 release_date: "1989-10-20"

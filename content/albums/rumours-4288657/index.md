@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Rumours "
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Rumours "
 date: 2015-09-30T17:20:53.000000Z
 release_date: "1977-02-04"

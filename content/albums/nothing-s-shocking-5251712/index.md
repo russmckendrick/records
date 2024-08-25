@@ -1,6 +1,7 @@
 ---
 title: "Jane's Addiction - Nothing's Shocking"
-artist: "Jane's Addiction"
+artist_name: "Jane's Addiction"
+artist: "jane-s-addiction"
 album_name: "Nothing's Shocking"
 date: 2015-08-09T08:36:12.000000Z
 release_date: "1988-08-23"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Delicate Sound Of Thunder"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Delicate Sound Of Thunder"
 date: 2020-11-20T13:03:04.000000Z
 release_id: "16238858"

@@ -1,6 +1,7 @@
 ---
 title: "Senser - Stacked Up XX"
-artist: "Senser"
+artist_name: "Senser"
+artist: "senser"
 album_name: "Stacked Up XX"
 date: 2020-02-14T18:06:47.000000Z
 release_id: "6329282"

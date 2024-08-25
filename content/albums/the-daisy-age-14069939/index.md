@@ -1,6 +1,7 @@
 ---
 title: "Various - The Daisy Age"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Daisy Age"
 date: 2019-08-31T19:56:00.000000Z
 release_id: "14069939"

@@ -1,6 +1,7 @@
 ---
 title: "Thunder - Back Street Symphony"
-artist: "Thunder"
+artist_name: "Thunder"
+artist: "thunder"
 album_name: "Back Street Symphony"
 date: 2023-05-01T06:51:04.000000Z
 release_id: "26910992"

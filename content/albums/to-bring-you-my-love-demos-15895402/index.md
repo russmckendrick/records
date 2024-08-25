@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - To Bring You My Love - Demos"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "To Bring You My Love - Demos"
 date: 2020-09-11T17:44:42.000000Z
 release_id: "15895402"

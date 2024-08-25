@@ -1,6 +1,7 @@
 ---
 title: "Soul Asylum - Grave Dancers Union"
-artist: "Soul Asylum"
+artist_name: "Soul Asylum"
+artist: "soul-asylum"
 album_name: "Grave Dancers Union"
 date: 2017-01-30T18:24:58.000000Z
 release_id: "7068256"

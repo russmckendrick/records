@@ -1,6 +1,7 @@
 ---
 title: "Mogwai - Mr Beast"
-artist: "Mogwai"
+artist_name: "Mogwai"
+artist: "mogwai"
 album_name: "Mr Beast"
 date: 2020-06-24T11:44:05.000000Z
 release_id: "15504582"

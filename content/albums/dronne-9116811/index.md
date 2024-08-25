@@ -1,6 +1,7 @@
 ---
 title: "North Sea Radio Orchestra - Dronne"
-artist: "North Sea Radio Orchestra"
+artist_name: "North Sea Radio Orchestra"
+artist: "north-sea-radio-orchestra"
 album_name: "Dronne"
 date: 2016-11-09T20:10:41.000000Z
 release_id: "9116811"

@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - The Wall (Live In Berlin)"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "The Wall (Live In Berlin)"
 date: 2020-09-29T12:06:08.000000Z
 release_id: "15928391"

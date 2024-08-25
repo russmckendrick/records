@@ -1,6 +1,7 @@
 ---
 title: "John Coltrane - Soultrane"
-artist: "John Coltrane"
+artist_name: "John Coltrane"
+artist: "john-coltrane"
 album_name: "Soultrane"
 date: 2017-01-05T19:22:59.000000Z
 release_id: "3570715"

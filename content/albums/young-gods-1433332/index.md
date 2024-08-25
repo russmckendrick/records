@@ -1,6 +1,7 @@
 ---
 title: "Little Angels - Young Gods"
-artist: "Little Angels"
+artist_name: "Little Angels"
+artist: "little-angels"
 album_name: "Young Gods"
 date: 2016-04-04T21:20:19.000000Z
 release_id: "1433332"

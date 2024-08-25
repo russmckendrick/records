@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Milking The Stars: A Re-Imagining Of Last Patrol"
 date: 2016-01-29T18:23:29.000000Z
 release_id: "6299294"

@@ -1,6 +1,7 @@
 ---
 title: "DJ Format - Still Hungry"
-artist: "DJ Format"
+artist_name: "DJ Format"
+artist: "dj-format"
 album_name: "Still Hungry"
 date: 2017-04-28T14:34:14.000000Z
 release_id: "10119644"

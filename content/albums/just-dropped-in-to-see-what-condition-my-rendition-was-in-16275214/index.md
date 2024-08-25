@@ -1,6 +1,7 @@
 ---
 title: "Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)"
-artist: "Sharon Jones & The Dap-Kings"
+artist_name: "Sharon Jones & The Dap-Kings"
+artist: "sharon-jones-the-dap-kings"
 album_name: "Just Dropped In (To See What Condition My Rendition Was In)"
 date: 2020-12-01T10:30:57.000000Z
 release_id: "16275214"

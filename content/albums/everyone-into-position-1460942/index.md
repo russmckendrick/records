@@ -1,6 +1,7 @@
 ---
 title: "Oceansize - Everyone Into Position"
-artist: "Oceansize"
+artist_name: "Oceansize"
+artist: "oceansize"
 album_name: "Everyone Into Position"
 date: 2016-06-13T17:50:32.000000Z
 release_id: "1460942"

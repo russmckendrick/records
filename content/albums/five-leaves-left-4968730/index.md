@@ -1,6 +1,7 @@
 ---
 title: "Nick Drake - Five Leaves Left"
-artist: "Nick Drake"
+artist_name: "Nick Drake"
+artist: "nick-drake"
 album_name: "Five Leaves Left"
 date: 2016-08-05T14:56:00.000000Z
 release_date: "1969-07-03"

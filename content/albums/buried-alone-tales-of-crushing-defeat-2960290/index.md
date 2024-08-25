@@ -1,6 +1,7 @@
 ---
 title: "Knifeworld - Buried Alone: Tales Of Crushing Defeat"
-artist: "Knifeworld"
+artist_name: "Knifeworld"
+artist: "knifeworld"
 album_name: "Buried Alone: Tales Of Crushing Defeat"
 date: 2016-12-08T18:39:57.000000Z
 release_id: "2960290"

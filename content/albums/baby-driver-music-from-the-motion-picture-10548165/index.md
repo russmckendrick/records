@@ -1,6 +1,7 @@
 ---
 title: "Various - Baby Driver (Music From The Motion Picture)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Baby Driver (Music From The Motion Picture)"
 date: 2017-07-21T18:24:57.000000Z
 release_id: "10548165"

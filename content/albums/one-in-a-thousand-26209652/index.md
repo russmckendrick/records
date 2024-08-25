@@ -1,6 +1,7 @@
 ---
 title: "Obey Robots - One In A Thousand"
-artist: "Obey Robots"
+artist_name: "Obey Robots"
+artist: "obey-robots"
 album_name: "One In A Thousand"
 date: 2023-03-01T04:35:54.000000Z
 release_id: "26209652"

@@ -1,6 +1,7 @@
 ---
 title: "Zero 7 - Simple Things"
-artist: "Zero 7"
+artist_name: "Zero 7"
+artist: "zero-7"
 album_name: "Simple Things"
 date: 2021-07-27T04:41:25.000000Z
 release_date: "2001-04-23"

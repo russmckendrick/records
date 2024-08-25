@@ -1,6 +1,7 @@
 ---
 title: "The Bluetones - The Singles"
-artist: "The Bluetones"
+artist_name: "The Bluetones"
+artist: "the-bluetones"
 album_name: "The Singles"
 date: 2019-08-03T09:35:37.000000Z
 release_id: "13954056"

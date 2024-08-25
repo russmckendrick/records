@@ -1,6 +1,7 @@
 ---
 title: "Lush - Ciao! Best Of Lush"
-artist: "Lush"
+artist_name: "Lush"
+artist: "lush"
 album_name: "Ciao! Best Of Lush"
 date: 2016-09-14T16:59:58.000000Z
 release_id: "7778678"

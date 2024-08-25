@@ -1,6 +1,7 @@
 ---
 title: "Agnes Obel - Myopia"
-artist: "Agnes Obel"
+artist_name: "Agnes Obel"
+artist: "agnes-obel"
 album_name: "Myopia"
 date: 2020-02-21T18:33:02.000000Z
 release_id: "14818594"

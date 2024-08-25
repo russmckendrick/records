@@ -1,6 +1,7 @@
 ---
 title: "Mike Oldfield - Tubular Bells II"
-artist: "Mike Oldfield"
+artist_name: "Mike Oldfield"
+artist: "mike-oldfield"
 album_name: "Tubular Bells II"
 date: 2021-12-18T05:22:16.000000Z
 release_id: "6795868"

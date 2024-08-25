@@ -1,6 +1,7 @@
 ---
 title: "Michael Jackson - Off The Wall"
-artist: "Michael Jackson"
+artist_name: "Michael Jackson"
+artist: "michael-jackson"
 album_name: "Off The Wall"
 date: 2016-04-08T19:08:40.000000Z
 release_date: "1979-08-10"

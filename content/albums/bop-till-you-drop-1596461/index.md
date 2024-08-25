@@ -1,6 +1,7 @@
 ---
 title: "Ry Cooder - Bop Till You Drop"
-artist: "Ry Cooder"
+artist_name: "Ry Cooder"
+artist: "ry-cooder"
 album_name: "Bop Till You Drop"
 date: 2020-08-02T13:36:56.000000Z
 release_id: "1596461"

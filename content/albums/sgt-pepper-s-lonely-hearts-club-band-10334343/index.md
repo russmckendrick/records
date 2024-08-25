@@ -1,6 +1,7 @@
 ---
 title: "The Beatles - Sgt. Pepper's Lonely Hearts Club Band"
-artist: "The Beatles"
+artist_name: "The Beatles"
+artist: "the-beatles"
 album_name: "Sgt. Pepper's Lonely Hearts Club Band"
 date: 2017-05-27T08:24:00.000000Z
 release_date: "1967-05-26"

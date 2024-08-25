@@ -1,6 +1,7 @@
 ---
 title: "Moby - Reprise"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Reprise"
 date: 2023-07-17T06:30:54.000000Z
 release_date: "2021-05-28"

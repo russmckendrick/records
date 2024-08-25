@@ -1,6 +1,7 @@
 ---
 title: "Public Enemy - 25th Anniversary Vinyl Collection "
-artist: "Public Enemy"
+artist_name: "Public Enemy"
+artist: "public-enemy"
 album_name: "25th Anniversary Vinyl Collection "
 date: 2016-04-28T16:40:39.000000Z
 release_id: "4593269"

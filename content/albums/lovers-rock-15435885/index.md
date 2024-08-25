@@ -1,6 +1,7 @@
 ---
 title: "The Dears - Lovers Rock"
-artist: "The Dears"
+artist_name: "The Dears"
+artist: "the-dears"
 album_name: "Lovers Rock"
 date: 2022-09-18T04:25:19.000000Z
 release_date: "2020-05-15"

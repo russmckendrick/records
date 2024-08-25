@@ -1,6 +1,7 @@
 ---
 title: "Placebo - Placebo"
-artist: "Placebo"
+artist_name: "Placebo"
+artist: "placebo"
 album_name: "Placebo"
 date: 2019-06-17T17:31:39.000000Z
 release_id: "13705514"

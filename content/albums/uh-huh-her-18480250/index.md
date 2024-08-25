@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Uh Huh Her"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Uh Huh Her"
 date: 2021-04-30T07:39:17.000000Z
 release_id: "18480250"

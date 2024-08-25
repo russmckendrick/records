@@ -1,6 +1,7 @@
 ---
 title: "The Anchoress - One For Sorrow EP"
-artist: "The Anchoress"
+artist_name: "The Anchoress"
+artist: "the-anchoress"
 album_name: "One For Sorrow EP"
 date: 2016-10-19T17:04:32.000000Z
 release_id: "6347922"

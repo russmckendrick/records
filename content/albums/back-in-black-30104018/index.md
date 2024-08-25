@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Back In Black"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Back In Black"
 date: 2024-03-16T02:33:17.000000Z
 release_date: "1980-07-25"

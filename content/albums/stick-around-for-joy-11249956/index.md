@@ -1,6 +1,7 @@
 ---
 title: "The Sugarcubes - Stick Around For Joy"
-artist: "The Sugarcubes"
+artist_name: "The Sugarcubes"
+artist: "the-sugarcubes"
 album_name: "Stick Around For Joy"
 date: 2021-08-05T03:15:20.000000Z
 release_id: "11249956"

@@ -1,6 +1,7 @@
 ---
 title: "Rush - Hold Your Fire"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Hold Your Fire"
 date: 2017-02-19T10:40:26.000000Z
 release_date: "1987-09-08"

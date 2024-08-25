@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - See Ya 'Round"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "See Ya 'Round"
 date: 2018-10-03T18:03:57.000000Z
 release_id: "2199532"

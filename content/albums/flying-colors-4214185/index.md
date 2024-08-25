@@ -1,6 +1,7 @@
 ---
 title: "Flying Colors - Flying Colors"
-artist: "Flying Colors"
+artist_name: "Flying Colors"
+artist: "flying-colors"
 album_name: "Flying Colors"
 date: 2024-06-23T04:43:28.000000Z
 release_id: "4214185"

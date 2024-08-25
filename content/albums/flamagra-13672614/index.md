@@ -1,6 +1,7 @@
 ---
 title: "Flying Lotus - Flamagra"
-artist: "Flying Lotus"
+artist_name: "Flying Lotus"
+artist: "flying-lotus"
 album_name: "Flamagra"
 date: 2019-05-25T09:24:06.000000Z
 release_date: "2019-05-24"

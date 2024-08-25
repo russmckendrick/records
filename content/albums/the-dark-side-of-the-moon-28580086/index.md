@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Dark Side Of The Moon"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon"
 date: 2023-10-17T11:27:44.000000Z
 release_date: "1973-03-01"

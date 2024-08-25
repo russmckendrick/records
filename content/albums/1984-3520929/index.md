@@ -1,6 +1,7 @@
 ---
 title: "Van Halen - 1984"
-artist: "Van Halen"
+artist_name: "Van Halen"
+artist: "van-halen"
 album_name: "1984"
 date: 2016-12-27T12:07:56.000000Z
 release_date: "1984-01-09"

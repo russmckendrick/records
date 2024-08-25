@@ -1,6 +1,7 @@
 ---
 title: "Tears For Fears - The Tipping Point"
-artist: "Tears For Fears"
+artist_name: "Tears For Fears"
+artist: "tears-for-fears"
 album_name: "The Tipping Point"
 date: 2022-02-24T04:23:44.000000Z
 release_date: "2022-02-25"

@@ -1,6 +1,7 @@
 ---
 title: "Noveller - Fantastic Planet"
-artist: "Noveller"
+artist_name: "Noveller"
+artist: "noveller"
 album_name: "Fantastic Planet"
 date: 2017-02-10T18:45:44.000000Z
 release_id: "6546782"

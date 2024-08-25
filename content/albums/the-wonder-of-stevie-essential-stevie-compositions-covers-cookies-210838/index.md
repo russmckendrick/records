@@ -1,6 +1,7 @@
 ---
 title: "DJ Spinna - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
-artist: "DJ Spinna"
+artist_name: "DJ Spinna"
+artist: "dj-spinna"
 album_name: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
 date: 2016-08-03T18:28:59.000000Z
 release_id: "210838"

@@ -1,6 +1,7 @@
 ---
 title: "Pure Reason Revolution - Eupnea"
-artist: "Pure Reason Revolution"
+artist_name: "Pure Reason Revolution"
+artist: "pure-reason-revolution"
 album_name: "Eupnea"
 date: 2020-04-06T14:08:58.000000Z
 release_id: "15061317"

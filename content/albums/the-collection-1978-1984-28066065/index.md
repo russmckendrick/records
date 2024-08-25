@@ -1,6 +1,7 @@
 ---
 title: "Van Halen - The Collection 1978 - 1984"
-artist: "Van Halen"
+artist_name: "Van Halen"
+artist: "van-halen"
 album_name: "The Collection 1978 - 1984"
 date: 2023-11-17T10:41:35.000000Z
 release_id: "28066065"

@@ -1,6 +1,7 @@
 ---
 title: "John Grant - Pale Green Ghosts"
-artist: "John Grant"
+artist_name: "John Grant"
+artist: "john-grant"
 album_name: "Pale Green Ghosts"
 date: 2015-08-09T08:32:07.000000Z
 release_id: "4359155"

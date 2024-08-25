@@ -1,6 +1,7 @@
 ---
 title: "Various - Killer Watts"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Killer Watts"
 date: 2020-08-02T13:31:24.000000Z
 release_id: "2179323"

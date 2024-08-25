@@ -1,6 +1,7 @@
 ---
 title: "Bomb The Bass - Into The Dragon"
-artist: "Bomb The Bass"
+artist_name: "Bomb The Bass"
+artist: "bomb-the-bass"
 album_name: "Into The Dragon"
 date: 2018-10-01T17:55:28.000000Z
 release_id: "12489219"

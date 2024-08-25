@@ -1,6 +1,7 @@
 ---
 title: "DJ Spinna - The Wonder Of Stevie (Volume 3)"
-artist: "DJ Spinna"
+artist_name: "DJ Spinna"
+artist: "dj-spinna"
 album_name: "The Wonder Of Stevie (Volume 3)"
 date: 2016-07-30T12:23:04.000000Z
 release_id: "8755651"

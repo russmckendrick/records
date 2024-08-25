@@ -1,6 +1,7 @@
 ---
 title: "Menswear - Nuisance"
-artist: "Menswear"
+artist_name: "Menswear"
+artist: "menswear"
 album_name: "Nuisance"
 date: 2020-10-28T12:49:20.000000Z
 release_id: "15932078"

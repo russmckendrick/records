@@ -1,6 +1,7 @@
 ---
 title: "Ozric Tentacles - Space For The Earth"
-artist: "Ozric Tentacles"
+artist_name: "Ozric Tentacles"
+artist: "ozric-tentacles"
 album_name: "Space For The Earth"
 date: 2020-12-05T04:23:50.000000Z
 release_id: "16031807"

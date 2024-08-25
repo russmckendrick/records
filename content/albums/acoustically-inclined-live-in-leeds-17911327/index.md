@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend - Acoustically Inclined, Live In Leeds"
-artist: "Devin Townsend"
+artist_name: "Devin Townsend"
+artist: "devin-townsend"
 album_name: "Acoustically Inclined, Live In Leeds"
 date: 2021-03-19T07:20:43.000000Z
 release_id: "17911327"

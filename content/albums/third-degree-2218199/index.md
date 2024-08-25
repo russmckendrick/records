@@ -1,6 +1,7 @@
 ---
 title: "Nine Below Zero - Third Degree"
-artist: "Nine Below Zero"
+artist_name: "Nine Below Zero"
+artist: "nine-below-zero"
 album_name: "Third Degree"
 date: 2021-09-03T04:32:37.000000Z
 release_id: "2218199"

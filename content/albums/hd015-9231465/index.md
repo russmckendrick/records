@@ -1,6 +1,7 @@
 ---
 title: "Survive - HD015"
-artist: "Survive"
+artist_name: "Survive"
+artist: "survive"
 album_name: "HD015"
 date: 2016-12-08T18:35:53.000000Z
 release_id: "9231465"

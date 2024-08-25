@@ -1,6 +1,7 @@
 ---
 title: "Suede - See You In The Next Life..."
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "See You In The Next Life..."
 date: 2021-04-19T02:24:22.000000Z
 release_id: "17269255"

@@ -1,6 +1,7 @@
 ---
 title: "Life Of Agony - Ugly"
-artist: "Life Of Agony"
+artist_name: "Life Of Agony"
+artist: "life-of-agony"
 album_name: "Ugly"
 date: 2017-11-18T11:54:07.000000Z
 release_id: "11152363"

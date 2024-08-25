@@ -1,6 +1,7 @@
 ---
 title: "David Holmes - The Holy Pictures"
-artist: "David Holmes"
+artist_name: "David Holmes"
+artist: "david-holmes"
 album_name: "The Holy Pictures"
 date: 2019-07-28T12:17:14.000000Z
 release_id: "13930358"

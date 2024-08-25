@@ -1,6 +1,7 @@
 ---
 title: "Brad - Shame"
-artist: "Brad"
+artist_name: "Brad"
+artist: "brad"
 album_name: "Shame"
 date: 2023-07-24T04:25:35.000000Z
 release_id: "27739077"

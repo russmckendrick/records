@@ -1,6 +1,7 @@
 ---
 title: "Downset. - Downset."
-artist: "Downset."
+artist_name: "Downset."
+artist: "downset"
 album_name: "Downset."
 date: 2017-08-23T17:34:58.000000Z
 release_id: "10690277"

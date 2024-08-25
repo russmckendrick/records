@@ -1,6 +1,7 @@
 ---
 title: "Snuff - Flibbiddydibbiddydob"
-artist: "Snuff"
+artist_name: "Snuff"
+artist: "snuff"
 album_name: "Flibbiddydibbiddydob"
 date: 2020-01-03T18:30:41.000000Z
 release_id: "1178217"

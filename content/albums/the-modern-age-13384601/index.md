@@ -1,6 +1,7 @@
 ---
 title: "Sleeper - The Modern Age"
-artist: "Sleeper"
+artist_name: "Sleeper"
+artist: "sleeper"
 album_name: "The Modern Age"
 date: 2019-03-23T13:39:12.000000Z
 release_id: "13384601"

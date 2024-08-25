@@ -1,6 +1,7 @@
 ---
 title: "Bernard Butler - People Move On"
-artist: "Bernard Butler"
+artist_name: "Bernard Butler"
+artist: "bernard-butler"
 album_name: "People Move On"
 date: 2021-06-29T02:29:07.000000Z
 release_id: "19127773"

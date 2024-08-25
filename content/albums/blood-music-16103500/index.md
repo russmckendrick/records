@@ -1,6 +1,7 @@
 ---
 title: "Chapterhouse - Blood Music"
-artist: "Chapterhouse"
+artist_name: "Chapterhouse"
+artist: "chapterhouse"
 album_name: "Blood Music"
 date: 2021-06-17T04:14:42.000000Z
 release_id: "16103500"

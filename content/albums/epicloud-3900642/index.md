@@ -1,6 +1,7 @@
 ---
 title: "Devin Townsend Project - Epicloud"
-artist: "Devin Townsend Project"
+artist_name: "Devin Townsend Project"
+artist: "devin-townsend-project"
 album_name: "Epicloud"
 date: 2017-01-10T17:43:48.000000Z
 release_id: "3900642"

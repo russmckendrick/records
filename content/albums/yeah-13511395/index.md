@@ -1,6 +1,7 @@
 ---
 title: "The Wannadies - Yeah"
-artist: "The Wannadies"
+artist_name: "The Wannadies"
+artist: "the-wannadies"
 album_name: "Yeah"
 date: 2019-04-27T12:01:43.000000Z
 release_id: "13511395"

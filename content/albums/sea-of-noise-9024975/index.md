@@ -1,6 +1,7 @@
 ---
 title: "St. Paul & The Broken Bones - Sea Of Noise"
-artist: "St. Paul & The Broken Bones"
+artist_name: "St. Paul & The Broken Bones"
+artist: "st-paul-the-broken-bones"
 album_name: "Sea Of Noise"
 date: 2016-10-06T16:52:35.000000Z
 release_date: "2016-09-09"

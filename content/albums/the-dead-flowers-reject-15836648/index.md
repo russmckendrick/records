@@ -1,6 +1,7 @@
 ---
 title: "Mansun - The Dead Flowers Reject"
-artist: "Mansun"
+artist_name: "Mansun"
+artist: "mansun"
 album_name: "The Dead Flowers Reject"
 date: 2020-10-07T14:20:54.000000Z
 release_id: "15836648"

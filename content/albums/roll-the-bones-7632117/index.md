@@ -1,6 +1,7 @@
 ---
 title: "Rush - Roll The Bones"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Roll The Bones"
 date: 2017-02-26T10:55:56.000000Z
 release_id: "7632117"

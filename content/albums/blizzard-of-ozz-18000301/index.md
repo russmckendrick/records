@@ -1,6 +1,7 @@
 ---
 title: "Ozzy Osbourne - Blizzard Of Ozz"
-artist: "Ozzy Osbourne"
+artist_name: "Ozzy Osbourne"
+artist: "ozzy-osbourne"
 album_name: "Blizzard Of Ozz"
 date: 2021-03-27T09:19:14.000000Z
 release_date: "1980-09-12"

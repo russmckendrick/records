@@ -1,6 +1,7 @@
 ---
 title: "Warrant - Cherry Pie"
-artist: "Warrant"
+artist_name: "Warrant"
+artist: "warrant"
 album_name: "Cherry Pie"
 date: 2023-04-03T04:22:19.000000Z
 release_id: "26175560"

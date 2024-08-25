@@ -1,6 +1,7 @@
 ---
 title: "Goldfrapp - Felt Mountain"
-artist: "Goldfrapp"
+artist_name: "Goldfrapp"
+artist: "goldfrapp"
 album_name: "Felt Mountain"
 date: 2021-04-01T00:48:31.000000Z
 release_id: "7718066"

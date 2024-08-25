@@ -1,6 +1,7 @@
 ---
 title: "Agnes Obel - Citizen Of Glass"
-artist: "Agnes Obel"
+artist_name: "Agnes Obel"
+artist: "agnes-obel"
 album_name: "Citizen Of Glass"
 date: 2017-01-03T18:48:28.000000Z
 release_date: "2016-10-21"

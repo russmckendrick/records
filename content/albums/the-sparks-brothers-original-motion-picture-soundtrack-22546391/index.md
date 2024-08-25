@@ -1,6 +1,7 @@
 ---
 title: "Sparks - The Sparks Brothers (Original Motion Picture Soundtrack)"
-artist: "Sparks"
+artist_name: "Sparks"
+artist: "sparks"
 album_name: "The Sparks Brothers (Original Motion Picture Soundtrack)"
 date: 2022-04-05T04:26:56.000000Z
 release_id: "22546391"

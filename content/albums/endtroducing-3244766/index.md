@@ -1,6 +1,7 @@
 ---
 title: "DJ Shadow - Endtroducing..."
-artist: "DJ Shadow"
+artist_name: "DJ Shadow"
+artist: "dj-shadow"
 album_name: "Endtroducing..."
 date: 2016-06-20T17:51:24.000000Z
 release_id: "3244766"

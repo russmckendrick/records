@@ -1,6 +1,7 @@
 ---
 title: "James - Living In Extraordinary Times "
-artist: "James"
+artist_name: "James"
+artist: "james"
 album_name: "Living In Extraordinary Times "
 date: 2018-08-03T18:45:13.000000Z
 release_id: "12341469"

@@ -1,6 +1,7 @@
 ---
 title: "Marillion - Brave "
-artist: "Marillion"
+artist_name: "Marillion"
+artist: "marillion"
 album_name: "Brave "
 date: 2018-03-12T19:32:55.000000Z
 release_id: "11697942"

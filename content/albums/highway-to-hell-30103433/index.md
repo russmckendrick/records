@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Highway To Hell"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Highway To Hell"
 date: 2024-03-15T06:45:14.000000Z
 release_date: "1979-07-27"

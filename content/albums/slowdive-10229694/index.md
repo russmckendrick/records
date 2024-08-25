@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Slowdive"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Slowdive"
 date: 2017-05-05T17:26:48.000000Z
 release_date: "2017-05-05"

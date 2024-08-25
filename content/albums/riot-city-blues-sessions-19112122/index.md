@@ -1,6 +1,7 @@
 ---
 title: "Primal Scream - Riot City Blues Sessions"
-artist: "Primal Scream"
+artist_name: "Primal Scream"
+artist: "primal-scream"
 album_name: "Riot City Blues Sessions"
 date: 2021-06-18T04:51:13.000000Z
 release_id: "19112122"

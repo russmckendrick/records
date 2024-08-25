@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Mirage"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Mirage"
 date: 2019-12-04T21:48:33.000000Z
 release_date: "1982-06-18"

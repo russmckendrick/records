@@ -1,6 +1,7 @@
 ---
 title: "Benji Hughes - Songs In The Key Of Animals"
-artist: "Benji Hughes"
+artist_name: "Benji Hughes"
+artist: "benji-hughes"
 album_name: "Songs In The Key Of Animals"
 date: 2016-02-23T12:15:16.000000Z
 release_id: "8050808"

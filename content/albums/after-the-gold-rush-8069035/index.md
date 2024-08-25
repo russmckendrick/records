@@ -1,6 +1,7 @@
 ---
 title: "Neil Young - After The Gold Rush"
-artist: "Neil Young"
+artist_name: "Neil Young"
+artist: "neil-young"
 album_name: "After The Gold Rush"
 date: 2017-04-02T12:58:19.000000Z
 release_id: "8069035"

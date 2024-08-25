@@ -1,6 +1,7 @@
 ---
 title: "The Beloved - Happiness"
-artist: "The Beloved"
+artist_name: "The Beloved"
+artist: "the-beloved"
 album_name: "Happiness"
 date: 2020-08-26T09:04:49.000000Z
 release_id: "15725640"

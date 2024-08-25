@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - Amused To Death"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "Amused To Death"
 date: 2015-08-09T08:41:16.000000Z
 release_id: "7272383"

@@ -1,6 +1,7 @@
 ---
 title: "Ryan Adams - Prisoner"
-artist: "Ryan Adams"
+artist_name: "Ryan Adams"
+artist: "ryan-adams"
 album_name: "Prisoner"
 date: 2018-10-10T17:51:41.000000Z
 release_date: "2017-02-17"

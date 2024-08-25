@@ -1,6 +1,7 @@
 ---
 title: "Skindred - Roots Rock Riot"
-artist: "Skindred"
+artist_name: "Skindred"
+artist: "skindred"
 album_name: "Roots Rock Riot"
 date: 2021-06-04T09:18:15.000000Z
 release_id: "18443227"

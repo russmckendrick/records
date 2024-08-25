@@ -1,6 +1,7 @@
 ---
 title: "Various - A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards Of Oz"
 date: 2017-04-22T10:00:59.000000Z
 release_id: "8632226"

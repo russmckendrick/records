@@ -1,6 +1,7 @@
 ---
 title: "Moby - Everything Was Beautiful, And Nothing Hurt"
-artist: "Moby"
+artist_name: "Moby"
+artist: "moby"
 album_name: "Everything Was Beautiful, And Nothing Hurt"
 date: 2018-03-02T17:11:33.000000Z
 release_id: "11627080"

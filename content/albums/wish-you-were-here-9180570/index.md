@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Wish You Were Here"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Wish You Were Here"
 date: 2016-10-17T16:23:18.000000Z
 release_date: "1975-09-12"

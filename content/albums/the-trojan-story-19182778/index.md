@@ -1,6 +1,7 @@
 ---
 title: "Various - The Trojan Story"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Trojan Story"
 date: 2021-07-28T05:28:08.000000Z
 release_id: "19182778"

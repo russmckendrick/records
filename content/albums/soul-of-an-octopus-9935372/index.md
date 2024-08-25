@@ -1,6 +1,7 @@
 ---
 title: "O.R.k. - Soul Of An Octopus"
-artist: "O.R.k."
+artist_name: "O.R.k."
+artist: "o-r-k"
 album_name: "Soul Of An Octopus"
 date: 2019-01-11T11:11:56.000000Z
 release_id: "9935372"

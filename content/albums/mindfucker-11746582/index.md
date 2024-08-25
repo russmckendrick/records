@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Mindfucker"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Mindfucker"
 date: 2018-03-24T11:43:41.000000Z
 release_id: "11746582"

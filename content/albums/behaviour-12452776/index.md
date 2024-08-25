@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop Boys - Behaviour."
-artist: "Pet Shop Boys"
+artist_name: "Pet Shop Boys"
+artist: "pet-shop-boys"
 album_name: "Behaviour."
 date: 2020-05-01T11:33:24.000000Z
 release_id: "12452776"

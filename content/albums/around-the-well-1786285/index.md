@@ -1,6 +1,7 @@
 ---
 title: "Iron And Wine - Around The Well"
-artist: "Iron And Wine"
+artist_name: "Iron And Wine"
+artist: "iron-and-wine"
 album_name: "Around The Well"
 date: 2021-08-13T05:36:11.000000Z
 release_date: "2009-05-19"

@@ -1,6 +1,7 @@
 ---
 title: "Beastie Boys - The In Sound From Way Out!"
-artist: "Beastie Boys"
+artist_name: "Beastie Boys"
+artist: "beastie-boys"
 album_name: "The In Sound From Way Out!"
 date: 2018-01-06T10:51:53.000000Z
 release_id: "11237631"

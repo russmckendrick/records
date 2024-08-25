@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - Vaxis II: A Window of the Waking Mind"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "Vaxis II: A Window of the Waking Mind"
 date: 2022-06-24T05:50:23.000000Z
 release_date: "2022-06-24"

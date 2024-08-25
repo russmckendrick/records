@@ -1,6 +1,7 @@
 ---
 title: "Paul Weller - Modern Classics (The Greatest Hits)"
-artist: "Paul Weller"
+artist_name: "Paul Weller"
+artist: "paul-weller"
 album_name: "Modern Classics (The Greatest Hits)"
 date: 2023-01-28T04:51:45.000000Z
 release_id: "24798500"

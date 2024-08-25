@@ -1,6 +1,7 @@
 ---
 title: "Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds "
-artist: "Izzy Stradlin And The Ju Ju Hounds"
+artist_name: "Izzy Stradlin And The Ju Ju Hounds"
+artist: "izzy-stradlin-and-the-ju-ju-hounds"
 album_name: "Izzy Stradlin And The Ju Ju Hounds "
 date: 2020-05-13T10:52:36.000000Z
 release_id: "8536055"

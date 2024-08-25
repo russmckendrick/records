@@ -1,6 +1,7 @@
 ---
 title: "Blondie - Against The Odds 1974-1982"
-artist: "Blondie"
+artist_name: "Blondie"
+artist: "blondie"
 album_name: "Against The Odds 1974-1982"
 date: 2022-12-04T04:16:01.000000Z
 release_id: "24318461"

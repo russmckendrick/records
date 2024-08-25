@@ -1,6 +1,7 @@
 ---
 title: "Lianne La Havas - Lianne La Havas"
-artist: "Lianne La Havas"
+artist_name: "Lianne La Havas"
+artist: "lianne-la-havas"
 album_name: "Lianne La Havas"
 date: 2020-07-28T12:51:23.000000Z
 release_date: "2020-07-17"

@@ -1,6 +1,7 @@
 ---
 title: "Orchestral Manoeuvres In The Dark - Souvenir"
-artist: "Orchestral Manoeuvres In The Dark"
+artist_name: "Orchestral Manoeuvres In The Dark"
+artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Souvenir"
 date: 2020-01-12T16:05:05.000000Z
 release_id: "14216215"

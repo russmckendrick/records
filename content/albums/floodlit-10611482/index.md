@@ -1,6 +1,7 @@
 ---
 title: "Pijn - Floodlit"
-artist: "Pijn"
+artist_name: "Pijn"
+artist: "pijn"
 album_name: "Floodlit"
 date: 2019-01-11T11:12:27.000000Z
 release_id: "10611482"

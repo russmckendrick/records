@@ -1,6 +1,7 @@
 ---
 title: "Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of..."
-artist: "Arrested Development"
+artist_name: "Arrested Development"
+artist: "arrested-development"
 album_name: "3 Years, 5 Months And 2 Days In The Life Of..."
 date: 2017-04-09T14:17:03.000000Z
 release_id: "6252763"

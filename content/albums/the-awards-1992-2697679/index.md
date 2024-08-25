@@ -1,6 +1,7 @@
 ---
 title: "Various - The Awards 1992"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Awards 1992"
 date: 2019-01-05T11:38:49.000000Z
 release_id: "2697679"

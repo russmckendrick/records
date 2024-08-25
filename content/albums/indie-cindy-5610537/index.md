@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Indie Cindy"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Indie Cindy"
 date: 2015-08-09T08:33:44.000000Z
 release_id: "5610537"

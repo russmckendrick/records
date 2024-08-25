@@ -1,6 +1,7 @@
 ---
 title: "Paul Draper - EP Two"
-artist: "Paul Draper"
+artist_name: "Paul Draper"
+artist: "paul-draper"
 album_name: "EP Two"
 date: 2017-08-12T08:11:00.000000Z
 release_id: "9446803"

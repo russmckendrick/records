@@ -1,6 +1,7 @@
 ---
 title: "Soft Cell - Non-Stop Erotic Cabaret"
-artist: "Soft Cell"
+artist_name: "Soft Cell"
+artist: "soft-cell"
 album_name: "Non-Stop Erotic Cabaret"
 date: 2023-12-05T10:36:02.000000Z
 release_id: "29082403"

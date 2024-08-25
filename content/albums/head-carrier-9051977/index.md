@@ -1,6 +1,7 @@
 ---
 title: "Pixies - Head Carrier"
-artist: "Pixies"
+artist_name: "Pixies"
+artist: "pixies"
 album_name: "Head Carrier"
 date: 2016-10-03T14:28:07.000000Z
 release_id: "9051977"

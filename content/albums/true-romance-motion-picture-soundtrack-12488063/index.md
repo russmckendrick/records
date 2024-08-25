@@ -1,6 +1,7 @@
 ---
 title: "Various - True Romance (Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "True Romance (Motion Picture Soundtrack)"
 date: 2018-09-13T18:16:45.000000Z
 release_id: "12488063"

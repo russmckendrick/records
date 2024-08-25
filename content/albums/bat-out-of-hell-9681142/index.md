@@ -1,6 +1,7 @@
 ---
 title: "Meat Loaf - Bat Out Of Hell"
-artist: "Meat Loaf"
+artist_name: "Meat Loaf"
+artist: "meat-loaf"
 album_name: "Bat Out Of Hell"
 date: 2017-07-05T14:33:25.000000Z
 release_date: "1977-10-21"

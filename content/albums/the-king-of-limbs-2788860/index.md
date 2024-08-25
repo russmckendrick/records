@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - The King Of Limbs"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "The King Of Limbs"
 date: 2016-07-10T09:49:23.000000Z
 release_date: "2011-02-18"

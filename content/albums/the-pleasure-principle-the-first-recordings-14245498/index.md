@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - The Pleasure Principle (The First Recordings)"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "The Pleasure Principle (The First Recordings)"
 date: 2019-10-11T14:37:07.000000Z
 release_id: "14245498"

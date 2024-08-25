@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Spine Of God"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Spine Of God"
 date: 2017-09-06T18:44:42.000000Z
 release_id: "10775588"

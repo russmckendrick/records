@@ -1,6 +1,7 @@
 ---
 title: "Massive Attack - No Protection"
-artist: "Massive Attack"
+artist_name: "Massive Attack"
+artist: "massive-attack"
 album_name: "No Protection"
 date: 2017-04-29T12:04:03.000000Z
 release_id: "9442827"

@@ -1,6 +1,7 @@
 ---
 title: "Teenage Fanclub - Here"
-artist: "Teenage Fanclub"
+artist_name: "Teenage Fanclub"
+artist: "teenage-fanclub"
 album_name: "Here"
 date: 2016-09-12T16:36:50.000000Z
 release_date: "2016-09-09"

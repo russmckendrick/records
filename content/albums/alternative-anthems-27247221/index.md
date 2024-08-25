@@ -1,6 +1,7 @@
 ---
 title: "Various - Alternative Anthems"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Alternative Anthems"
 date: 2023-06-03T02:08:47.000000Z
 release_id: "27247221"

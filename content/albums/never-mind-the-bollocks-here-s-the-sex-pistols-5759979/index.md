@@ -1,6 +1,7 @@
 ---
 title: "Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols"
-artist: "Sex Pistols"
+artist_name: "Sex Pistols"
+artist: "sex-pistols"
 album_name: "Never Mind The Bollocks, Here's The Sex Pistols"
 date: 2016-04-18T16:17:07.000000Z
 release_date: "1977-10"

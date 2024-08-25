@@ -1,6 +1,7 @@
 ---
 title: "The Wonder Stuff - Hup"
-artist: "The Wonder Stuff"
+artist_name: "The Wonder Stuff"
+artist: "the-wonder-stuff"
 album_name: "Hup"
 date: 2016-11-16T13:03:18.000000Z
 release_id: "3580276"

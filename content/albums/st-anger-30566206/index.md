@@ -1,6 +1,7 @@
 ---
 title: "Metallica - St. Anger"
-artist: "Metallica"
+artist_name: "Metallica"
+artist: "metallica"
 album_name: "St. Anger"
 date: 2024-05-03T06:45:21.000000Z
 release_id: "30566206"

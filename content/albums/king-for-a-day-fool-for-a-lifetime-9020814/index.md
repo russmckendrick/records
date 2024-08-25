@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - King For A Day Fool For A Lifetime"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "King For A Day Fool For A Lifetime"
 date: 2016-09-12T16:37:18.000000Z
 release_id: "9020814"

@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - Champion Versions"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "Champion Versions"
 date: 2016-02-29T19:00:36.000000Z
 release_id: "7425314"

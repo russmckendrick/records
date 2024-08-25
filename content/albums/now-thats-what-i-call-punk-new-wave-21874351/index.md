@@ -1,6 +1,7 @@
 ---
 title: "Various - Now That’s What I Call Punk & New Wave"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Now That’s What I Call Punk & New Wave"
 date: 2022-01-25T03:55:56.000000Z
 release_id: "21874351"

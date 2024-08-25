@@ -1,6 +1,7 @@
 ---
 title: "The KT Fellowship - Before The Dawn"
-artist: "The KT Fellowship"
+artist_name: "The KT Fellowship"
+artist: "the-kt-fellowship"
 album_name: "Before The Dawn"
 date: 2016-11-25T17:31:50.000000Z
 release_id: "9406091"

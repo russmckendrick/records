@@ -1,6 +1,7 @@
 ---
 title: "Lonely Robot - Please Come Home"
-artist: "Lonely Robot"
+artist_name: "Lonely Robot"
+artist: "lonely-robot"
 album_name: "Please Come Home"
 date: 2016-01-10T12:52:53.000000Z
 release_id: "6681823"

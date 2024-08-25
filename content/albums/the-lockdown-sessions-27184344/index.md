@@ -1,6 +1,7 @@
 ---
 title: "Roger Waters - The Lockdown Sessions"
-artist: "Roger Waters"
+artist_name: "Roger Waters"
+artist: "roger-waters"
 album_name: "The Lockdown Sessions"
 date: 2023-06-06T10:13:35.000000Z
 release_id: "27184344"

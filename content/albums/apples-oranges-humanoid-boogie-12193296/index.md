@@ -1,6 +1,7 @@
 ---
 title: "Andy Partridge - Apples & Oranges / Humanoid Boogie"
-artist: "Andy Partridge"
+artist_name: "Andy Partridge"
+artist: "andy-partridge"
 album_name: "Apples & Oranges / Humanoid Boogie"
 date: 2018-06-28T20:46:46.000000Z
 release_id: "12193296"

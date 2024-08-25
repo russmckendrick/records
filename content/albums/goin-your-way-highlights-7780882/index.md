@@ -1,6 +1,7 @@
 ---
 title: "Neil Finn - Goin' Your Way (Highlights)"
-artist: "Neil Finn"
+artist_name: "Neil Finn"
+artist: "neil-finn"
 album_name: "Goin' Your Way (Highlights)"
 date: 2017-07-16T08:41:10.000000Z
 release_id: "7780882"

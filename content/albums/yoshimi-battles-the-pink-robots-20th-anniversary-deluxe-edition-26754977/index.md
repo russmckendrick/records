@@ -1,6 +1,7 @@
 ---
 title: "The Flaming Lips - Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)"
-artist: "The Flaming Lips"
+artist_name: "The Flaming Lips"
+artist: "the-flaming-lips"
 album_name: "Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)"
 date: 2023-04-16T10:15:54.000000Z
 release_id: "26754977"

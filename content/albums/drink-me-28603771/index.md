@@ -1,6 +1,7 @@
 ---
 title: "Salad - Drink Me"
-artist: "Salad"
+artist_name: "Salad"
+artist: "salad"
 album_name: "Drink Me"
 date: 2023-10-16T13:35:30.000000Z
 release_id: "28603771"

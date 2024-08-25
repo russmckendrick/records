@@ -1,6 +1,7 @@
 ---
 title: "Kraftwerk - Autobahn"
-artist: "Kraftwerk"
+artist_name: "Kraftwerk"
+artist: "kraftwerk"
 album_name: "Autobahn"
 date: 2016-02-21T12:07:02.000000Z
 release_id: "1978364"

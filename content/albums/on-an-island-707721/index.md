@@ -1,6 +1,7 @@
 ---
 title: "David Gilmour - On An Island"
-artist: "David Gilmour"
+artist_name: "David Gilmour"
+artist: "david-gilmour"
 album_name: "On An Island"
 date: 2015-10-12T18:45:01.000000Z
 release_id: "707721"

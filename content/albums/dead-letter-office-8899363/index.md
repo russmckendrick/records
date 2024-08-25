@@ -1,6 +1,7 @@
 ---
 title: "R.E.M. - Dead Letter Office"
-artist: "R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Dead Letter Office"
 date: 2021-06-29T07:01:09.000000Z
 release_id: "8899363"

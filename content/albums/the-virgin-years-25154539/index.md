@@ -1,6 +1,7 @@
 ---
 title: "The Human League - The Virgin Years"
-artist: "The Human League"
+artist_name: "The Human League"
+artist: "the-human-league"
 album_name: "The Virgin Years"
 date: 2022-12-27T03:03:51.000000Z
 release_id: "25154539"

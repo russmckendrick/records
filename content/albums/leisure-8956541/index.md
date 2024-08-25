@@ -1,6 +1,7 @@
 ---
 title: "Blur - Leisure"
-artist: "Blur"
+artist_name: "Blur"
+artist: "blur"
 album_name: "Leisure"
 date: 2016-08-30T16:05:06.000000Z
 release_id: "8956541"

@@ -1,6 +1,7 @@
 ---
 title: "Belle & Sebastian - If You're Feeling Sinister"
-artist: "Belle & Sebastian"
+artist_name: "Belle & Sebastian"
+artist: "belle-sebastian"
 album_name: "If You're Feeling Sinister"
 date: 2021-12-07T13:04:16.000000Z
 release_date: "1996-11-18"

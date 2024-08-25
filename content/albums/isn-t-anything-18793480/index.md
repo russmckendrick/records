@@ -1,6 +1,7 @@
 ---
 title: "My Bloody Valentine - Isn't Anything"
-artist: "My Bloody Valentine"
+artist_name: "My Bloody Valentine"
+artist: "my-bloody-valentine"
 album_name: "Isn't Anything"
 date: 2021-05-21T05:29:01.000000Z
 release_date: "1988-11-21"

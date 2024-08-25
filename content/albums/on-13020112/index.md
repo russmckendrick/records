@@ -1,6 +1,7 @@
 ---
 title: "Echobelly - On"
-artist: "Echobelly"
+artist_name: "Echobelly"
+artist: "echobelly"
 album_name: "On"
 date: 2019-01-19T09:37:53.000000Z
 release_id: "13020112"

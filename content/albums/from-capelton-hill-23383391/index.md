@@ -1,6 +1,7 @@
 ---
 title: "Stars - From Capelton Hill"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "From Capelton Hill"
 date: 2022-05-31T04:16:54.000000Z
 release_date: "2022-05-27"

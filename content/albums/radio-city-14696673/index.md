@@ -1,6 +1,7 @@
 ---
 title: "Big Star - Radio City"
-artist: "Big Star"
+artist_name: "Big Star"
+artist: "big-star"
 album_name: "Radio City"
 date: 2020-03-07T10:41:44.000000Z
 release_id: "14696673"

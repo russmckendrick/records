@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - Hail To The Thief"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "Hail To The Thief"
 date: 2016-07-12T18:11:07.000000Z
 release_date: "2003-06-09"

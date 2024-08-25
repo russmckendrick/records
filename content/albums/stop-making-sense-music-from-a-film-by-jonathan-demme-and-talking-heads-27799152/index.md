@@ -1,6 +1,7 @@
 ---
 title: "Talking Heads - Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)"
-artist: "Talking Heads"
+artist_name: "Talking Heads"
+artist: "talking-heads"
 album_name: "Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)"
 date: 2023-08-18T10:06:43.000000Z
 release_id: "27799152"

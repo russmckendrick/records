@@ -1,6 +1,7 @@
 ---
 title: "Dream The Electric Sleep - Beneath The Dark Wide Sky"
-artist: "Dream The Electric Sleep"
+artist_name: "Dream The Electric Sleep"
+artist: "dream-the-electric-sleep"
 album_name: "Beneath The Dark Wide Sky"
 date: 2016-11-17T19:51:28.000000Z
 release_id: "8813791"

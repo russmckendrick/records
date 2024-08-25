@@ -1,6 +1,7 @@
 ---
 title: "Rusty Egan - Rusty Egan Presents Blitzed!"
-artist: "Rusty Egan"
+artist_name: "Rusty Egan"
+artist: "rusty-egan"
 album_name: "Rusty Egan Presents Blitzed!"
 date: 2024-07-02T10:28:31.000000Z
 release_id: "31079972"

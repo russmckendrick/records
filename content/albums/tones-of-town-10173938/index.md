@@ -1,6 +1,7 @@
 ---
 title: "Field Music - Tones Of Town"
-artist: "Field Music"
+artist_name: "Field Music"
+artist: "field-music"
 album_name: "Tones Of Town"
 date: 2017-05-20T15:12:05.000000Z
 release_id: "10173938"

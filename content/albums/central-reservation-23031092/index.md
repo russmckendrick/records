@@ -1,6 +1,7 @@
 ---
 title: "Beth Orton - Central Reservation"
-artist: "Beth Orton"
+artist_name: "Beth Orton"
+artist: "beth-orton"
 album_name: "Central Reservation"
 date: 2022-06-18T05:55:09.000000Z
 release_date: "1999-01-28"

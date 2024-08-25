@@ -1,6 +1,7 @@
 ---
 title: "Neil Finn - Out Of Silence"
-artist: "Neil Finn"
+artist_name: "Neil Finn"
+artist: "neil-finn"
 album_name: "Out Of Silence"
 date: 2017-11-10T19:29:43.000000Z
 release_date: "2017-09-01"

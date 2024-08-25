@@ -1,6 +1,7 @@
 ---
 title: "Ramones - Ramones"
-artist: "Ramones"
+artist_name: "Ramones"
+artist: "ramones"
 album_name: "Ramones"
 date: 2016-10-17T16:23:33.000000Z
 release_date: "1976-04-23"

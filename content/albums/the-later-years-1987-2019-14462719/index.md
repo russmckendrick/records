@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Later Years 1987-2019"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Later Years 1987-2019"
 date: 2019-11-29T20:14:49.000000Z
 release_id: "14462719"

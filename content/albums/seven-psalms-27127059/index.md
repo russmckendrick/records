@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - Seven Psalms"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "Seven Psalms"
 date: 2023-05-19T09:53:50.000000Z
 release_date: "2023-05-19"

@@ -1,6 +1,7 @@
 ---
 title: "Paul Simon - Still Crazy After All These Years"
-artist: "Paul Simon"
+artist_name: "Paul Simon"
+artist: "paul-simon"
 album_name: "Still Crazy After All These Years"
 date: 2021-05-31T11:05:10.000000Z
 release_date: "1975-10-25"

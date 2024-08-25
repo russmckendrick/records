@@ -1,6 +1,7 @@
 ---
 title: "Beach House - Devotion"
-artist: "Beach House"
+artist_name: "Beach House"
+artist: "beach-house"
 album_name: "Devotion"
 date: 2018-03-14T19:36:36.000000Z
 release_id: "11684922"

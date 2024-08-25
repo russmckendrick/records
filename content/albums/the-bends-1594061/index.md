@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - The Bends"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "The Bends"
 date: 2016-01-31T14:12:42.000000Z
 release_date: "1995-03-08"

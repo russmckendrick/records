@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Is This Desire?"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Is This Desire?"
 date: 2021-01-29T06:51:31.000000Z
 release_date: "1998-01-01"

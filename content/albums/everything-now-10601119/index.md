@@ -1,6 +1,7 @@
 ---
 title: "Arcade Fire - Everything Now"
-artist: "Arcade Fire"
+artist_name: "Arcade Fire"
+artist: "arcade-fire"
 album_name: "Everything Now"
 date: 2017-07-29T08:50:33.000000Z
 release_date: "2017-07-28"

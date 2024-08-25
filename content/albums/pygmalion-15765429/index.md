@@ -1,6 +1,7 @@
 ---
 title: "Slowdive - Pygmalion"
-artist: "Slowdive"
+artist_name: "Slowdive"
+artist: "slowdive"
 album_name: "Pygmalion"
 date: 2020-08-14T16:55:06.000000Z
 release_id: "15765429"

@@ -1,6 +1,7 @@
 ---
 title: "The Jam - All Mod Cons"
-artist: "The Jam"
+artist_name: "The Jam"
+artist: "the-jam"
 album_name: "All Mod Cons"
 date: 2015-09-16T18:52:14.000000Z
 release_id: "3403110"

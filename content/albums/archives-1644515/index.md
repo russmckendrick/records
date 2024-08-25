@@ -1,6 +1,7 @@
 ---
 title: "Rush - Archives"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Archives"
 date: 2016-03-09T18:39:33.000000Z
 release_id: "1644515"

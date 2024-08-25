@@ -1,6 +1,7 @@
 ---
 title: "Sedibus - Seti"
-artist: "Sedibus"
+artist_name: "Sedibus"
+artist: "sedibus"
 album_name: "Seti"
 date: 2024-02-25T04:44:25.000000Z
 release_id: "29917387"

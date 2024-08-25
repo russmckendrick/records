@@ -1,6 +1,7 @@
 ---
 title: "Clutch - Psychic Warfare"
-artist: "Clutch"
+artist_name: "Clutch"
+artist: "clutch"
 album_name: "Psychic Warfare"
 date: 2016-03-07T19:42:18.000000Z
 release_id: "7868541"

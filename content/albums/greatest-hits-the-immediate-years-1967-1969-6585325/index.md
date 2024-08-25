@@ -1,6 +1,7 @@
 ---
 title: "Small Faces - Greatest Hits The Immediate Years 1967 - 1969"
-artist: "Small Faces"
+artist_name: "Small Faces"
+artist: "small-faces"
 album_name: "Greatest Hits The Immediate Years 1967 - 1969"
 date: 2017-09-15T13:03:44.000000Z
 release_id: "6585325"

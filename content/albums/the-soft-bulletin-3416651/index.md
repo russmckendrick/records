@@ -1,6 +1,7 @@
 ---
 title: "The Flaming Lips - The Soft Bulletin"
-artist: "The Flaming Lips"
+artist_name: "The Flaming Lips"
+artist: "the-flaming-lips"
 album_name: "The Soft Bulletin"
 date: 2016-10-10T16:21:34.000000Z
 release_id: "3416651"

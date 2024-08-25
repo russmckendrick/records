@@ -1,6 +1,7 @@
 ---
 title: "Various - Motown Funk"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Motown Funk"
 date: 2017-04-23T13:28:30.000000Z
 release_id: "10167720"

@@ -1,6 +1,7 @@
 ---
 title: "Eels - The Complete Dreamworks Albums"
-artist: "Eels"
+artist_name: "Eels"
+artist: "eels"
 album_name: "The Complete Dreamworks Albums"
 date: 2016-01-19T19:38:03.000000Z
 release_id: "7660802"

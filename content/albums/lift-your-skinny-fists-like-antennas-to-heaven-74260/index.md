@@ -1,6 +1,7 @@
 ---
 title: "Godspeed You Black Emperor! - Lift Your Skinny Fists Like Antennas To Heaven"
-artist: "Godspeed You Black Emperor!"
+artist_name: "Godspeed You Black Emperor!"
+artist: "godspeed-you-black-emperor"
 album_name: "Lift Your Skinny Fists Like Antennas To Heaven"
 date: 2016-12-27T12:09:06.000000Z
 release_id: "74260"

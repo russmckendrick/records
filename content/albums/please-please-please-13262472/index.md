@@ -1,6 +1,7 @@
 ---
 title: "James Brown & The Famous Flames - Please Please Please"
-artist: "James Brown & The Famous Flames"
+artist_name: "James Brown & The Famous Flames"
+artist: "james-brown-the-famous-flames"
 album_name: "Please Please Please"
 date: 2021-05-17T07:47:43.000000Z
 release_id: "13262472"

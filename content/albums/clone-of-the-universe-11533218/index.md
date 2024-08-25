@@ -1,6 +1,7 @@
 ---
 title: "Fu Manchu - Clone Of The Universe"
-artist: "Fu Manchu"
+artist_name: "Fu Manchu"
+artist: "fu-manchu"
 album_name: "Clone Of The Universe"
 date: 2018-02-10T10:54:28.000000Z
 release_date: "2018-02-09"

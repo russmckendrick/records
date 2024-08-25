@@ -1,6 +1,7 @@
 ---
 title: "Yes - Yessingles"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "Yessingles"
 date: 2023-10-15T05:12:30.000000Z
 release_id: "28595224"

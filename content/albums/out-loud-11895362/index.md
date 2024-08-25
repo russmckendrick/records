@@ -1,6 +1,7 @@
 ---
 title: "Michael Kiwanuka - Out Loud!"
-artist: "Michael Kiwanuka"
+artist_name: "Michael Kiwanuka"
+artist: "michael-kiwanuka"
 album_name: "Out Loud!"
 date: 2018-07-28T20:49:17.000000Z
 release_id: "11895362"

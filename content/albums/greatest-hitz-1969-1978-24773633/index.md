@@ -1,6 +1,7 @@
 ---
 title: "The Sweet - Greatest Hitz 1969-1978"
-artist: "The Sweet"
+artist_name: "The Sweet"
+artist: "the-sweet"
 album_name: "Greatest Hitz 1969-1978"
 date: 2022-10-12T04:21:08.000000Z
 release_id: "24773633"

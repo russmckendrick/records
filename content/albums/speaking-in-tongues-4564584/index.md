@@ -1,6 +1,7 @@
 ---
 title: "Talking Heads - Speaking In Tongues"
-artist: "Talking Heads"
+artist_name: "Talking Heads"
+artist: "talking-heads"
 album_name: "Speaking In Tongues"
 date: 2017-03-11T12:34:00.000000Z
 release_id: "4564584"

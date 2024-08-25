@@ -1,6 +1,7 @@
 ---
 title: "Desmond Dekker & The Aces - Pretty Africa"
-artist: "Desmond Dekker & The Aces"
+artist_name: "Desmond Dekker & The Aces"
+artist: "desmond-dekker-the-aces"
 album_name: "Pretty Africa"
 date: 2019-04-16T16:23:57.000000Z
 release_id: "13473923"

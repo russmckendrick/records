@@ -1,6 +1,7 @@
 ---
 title: "Utopia - Todd Rundgren's Utopia"
-artist: "Utopia"
+artist_name: "Utopia"
+artist: "utopia"
 album_name: "Todd Rundgren's Utopia"
 date: 2022-03-06T04:57:55.000000Z
 release_id: "1971194"

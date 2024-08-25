@@ -1,6 +1,7 @@
 ---
 title: "The Wannadies - Bagsy Me"
-artist: "The Wannadies"
+artist_name: "The Wannadies"
+artist: "the-wannadies"
 album_name: "Bagsy Me"
 date: 2019-05-21T17:16:02.000000Z
 release_id: "13578946"

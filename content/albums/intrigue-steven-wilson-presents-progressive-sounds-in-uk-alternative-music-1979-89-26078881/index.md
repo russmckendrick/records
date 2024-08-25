@@ -1,6 +1,7 @@
 ---
 title: "Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
-artist: "Steven Wilson"
+artist_name: "Steven Wilson"
+artist: "steven-wilson"
 album_name: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
 date: 2023-02-18T11:22:59.000000Z
 release_id: "26078881"

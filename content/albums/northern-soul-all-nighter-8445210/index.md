@@ -1,6 +1,7 @@
 ---
 title: "Various - Northern Soul All Nighter"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Northern Soul All Nighter"
 date: 2017-03-02T17:33:01.000000Z
 release_id: "8445210"

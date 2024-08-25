@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle"
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "The Wild, The Innocent &  The E Street Shuffle"
 date: 2015-09-15T15:20:21.000000Z
 release_date: "1973-09-11"

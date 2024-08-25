@@ -1,6 +1,7 @@
 ---
 title: "AVA - Waves"
-artist: "AVA"
+artist_name: "AVA"
+artist: "ava"
 album_name: "Waves"
 date: 2019-07-20T15:40:42.000000Z
 release_id: "13867076"

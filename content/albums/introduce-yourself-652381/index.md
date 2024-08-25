@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - Introduce Yourself"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "Introduce Yourself"
 date: 2015-08-09T08:42:25.000000Z
 release_id: "652381"

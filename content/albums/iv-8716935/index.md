@@ -1,6 +1,7 @@
 ---
 title: "BadBadNotGood - IV"
-artist: "BadBadNotGood"
+artist_name: "BadBadNotGood"
+artist: "badbadnotgood"
 album_name: "IV"
 date: 2017-06-25T14:04:53.000000Z
 release_id: "8716935"

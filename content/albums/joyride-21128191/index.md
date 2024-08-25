@@ -1,6 +1,7 @@
 ---
 title: "Roxette - Joyride"
-artist: "Roxette"
+artist_name: "Roxette"
+artist: "roxette"
 album_name: "Joyride"
 date: 2021-11-26T09:14:40.000000Z
 release_id: "21128191"

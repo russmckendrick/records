@@ -1,6 +1,7 @@
 ---
 title: "Frank Turner - Songbook"
-artist: "Frank Turner"
+artist_name: "Frank Turner"
+artist: "frank-turner"
 album_name: "Songbook"
 date: 2017-12-27T13:37:44.000000Z
 release_date: "2017-11-24"

@@ -1,6 +1,7 @@
 ---
 title: "Baroness - Purple"
-artist: "Baroness"
+artist_name: "Baroness"
+artist: "baroness"
 album_name: "Purple"
 date: 2019-07-19T06:23:16.000000Z
 release_id: "7859118"

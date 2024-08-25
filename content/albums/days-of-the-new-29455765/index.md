@@ -1,6 +1,7 @@
 ---
 title: "Days Of The New - Days Of The New"
-artist: "Days Of The New"
+artist_name: "Days Of The New"
+artist: "days-of-the-new"
 album_name: "Days Of The New"
 date: 2024-02-21T10:35:41.000000Z
 release_id: "29455765"

@@ -1,6 +1,7 @@
 ---
 title: "Jim Bob - My Mixtape EP"
-artist: "Jim Bob"
+artist_name: "Jim Bob"
+artist: "jim-bob"
 album_name: "My Mixtape EP"
 date: 2023-12-04T00:17:37.000000Z
 release_id: "29096545"

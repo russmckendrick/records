@@ -1,6 +1,7 @@
 ---
 title: "Genesis - Turn It On Again - The Hits"
-artist: "Genesis"
+artist_name: "Genesis"
+artist: "genesis"
 album_name: "Turn It On Again - The Hits"
 date: 2024-05-04T01:39:52.000000Z
 release_id: "30580414"

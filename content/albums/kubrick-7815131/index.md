@@ -1,6 +1,7 @@
 ---
 title: "The Soulsavers - Kubrick"
-artist: "The Soulsavers"
+artist_name: "The Soulsavers"
+artist: "the-soulsavers"
 album_name: "Kubrick"
 date: 2016-01-24T14:09:31.000000Z
 release_id: "7815131"

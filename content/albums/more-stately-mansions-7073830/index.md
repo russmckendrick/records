@@ -1,6 +1,7 @@
 ---
 title: "Charlie Barnes - More Stately Mansions"
-artist: "Charlie Barnes"
+artist_name: "Charlie Barnes"
+artist: "charlie-barnes"
 album_name: "More Stately Mansions"
 date: 2015-08-09T08:32:25.000000Z
 release_id: "7073830"

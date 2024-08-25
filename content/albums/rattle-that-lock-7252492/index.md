@@ -1,6 +1,7 @@
 ---
 title: "David Gilmour - Rattle That Lock"
-artist: "David Gilmour"
+artist_name: "David Gilmour"
+artist: "david-gilmour"
 album_name: "Rattle That Lock"
 date: 2015-09-18T17:27:13.000000Z
 release_date: "2015-09-18"

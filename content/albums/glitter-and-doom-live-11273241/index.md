@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - Glitter And Doom Live"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "Glitter And Doom Live"
 date: 2018-01-22T19:16:22.000000Z
 release_id: "11273241"

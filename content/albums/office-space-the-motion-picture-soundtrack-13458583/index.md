@@ -1,6 +1,7 @@
 ---
 title: "Various - Office Space (The Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Office Space (The Motion Picture Soundtrack)"
 date: 2019-04-13T11:18:00.000000Z
 release_id: "13458583"

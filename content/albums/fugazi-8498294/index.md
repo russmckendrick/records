@@ -1,6 +1,7 @@
 ---
 title: "Fugazi - Fugazi"
-artist: "Fugazi"
+artist_name: "Fugazi"
+artist: "fugazi"
 album_name: "Fugazi"
 date: 2020-01-08T18:58:15.000000Z
 release_id: "8498294"

@@ -1,6 +1,7 @@
 ---
 title: "Tom Waits - The Heart Of Saturday Night"
-artist: "Tom Waits"
+artist_name: "Tom Waits"
+artist: "tom-waits"
 album_name: "The Heart Of Saturday Night"
 date: 2018-05-25T19:10:51.000000Z
 release_id: "11978889"

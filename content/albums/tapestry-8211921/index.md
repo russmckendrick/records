@@ -1,6 +1,7 @@
 ---
 title: "Carole King - Tapestry"
-artist: "Carole King"
+artist_name: "Carole King"
+artist: "carole-king"
 album_name: "Tapestry"
 date: 2017-03-08T19:54:35.000000Z
 release_date: "1971-02-10"

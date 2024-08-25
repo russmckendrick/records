@@ -1,6 +1,7 @@
 ---
 title: "Casualties Of Cool - Casualties Of Cool"
-artist: "Casualties Of Cool"
+artist_name: "Casualties Of Cool"
+artist: "casualties-of-cool"
 album_name: "Casualties Of Cool"
 date: 2021-09-12T03:53:23.000000Z
 release_id: "20193448"

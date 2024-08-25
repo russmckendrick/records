@@ -1,6 +1,7 @@
 ---
 title: "The Wildhearts - 21st Century Love Songs"
-artist: "The Wildhearts"
+artist_name: "The Wildhearts"
+artist: "the-wildhearts"
 album_name: "21st Century Love Songs"
 date: 2022-04-26T05:54:38.000000Z
 release_id: "20195590"

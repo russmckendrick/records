@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Equinoxe"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Equinoxe"
 date: 2016-12-08T18:38:48.000000Z
 release_date: "2015-08-28"

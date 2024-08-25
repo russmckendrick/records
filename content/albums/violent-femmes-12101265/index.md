@@ -1,6 +1,7 @@
 ---
 title: "Violent Femmes - Violent Femmes"
-artist: "Violent Femmes"
+artist_name: "Violent Femmes"
+artist: "violent-femmes"
 album_name: "Violent Femmes"
 date: 2018-06-10T09:38:35.000000Z
 release_date: "1983-01-01"

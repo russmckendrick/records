@@ -1,6 +1,7 @@
 ---
 title: "Stars - In Our Bedroom After The War"
-artist: "Stars"
+artist_name: "Stars"
+artist: "stars"
 album_name: "In Our Bedroom After The War"
 date: 2015-09-30T18:06:25.000000Z
 release_id: "2095142"

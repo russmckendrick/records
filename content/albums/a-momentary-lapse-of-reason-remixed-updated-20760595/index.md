@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - A Momentary Lapse Of Reason (Remixed & Updated)"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "A Momentary Lapse Of Reason (Remixed & Updated)"
 date: 2021-10-29T05:57:28.000000Z
 release_id: "20760595"

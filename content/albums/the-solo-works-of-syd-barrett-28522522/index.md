@@ -1,6 +1,7 @@
 ---
 title: "Syd Barrett - The Solo Works of Syd Barrett "
-artist: "Syd Barrett"
+artist_name: "Syd Barrett"
+artist: "syd-barrett"
 album_name: "The Solo Works of Syd Barrett "
 date: 2023-10-09T01:02:45.000000Z
 release_id: "28522522"

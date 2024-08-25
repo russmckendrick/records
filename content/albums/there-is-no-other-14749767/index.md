@@ -1,6 +1,7 @@
 ---
 title: "Isobel Campbell - There Is No Other..."
-artist: "Isobel Campbell"
+artist_name: "Isobel Campbell"
+artist: "isobel-campbell"
 album_name: "There Is No Other..."
 date: 2020-02-07T18:45:55.000000Z
 release_id: "14749767"

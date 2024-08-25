@@ -1,6 +1,7 @@
 ---
 title: "Billy Joel - Greatest Hits Volume I & Volume II"
-artist: "Billy Joel"
+artist_name: "Billy Joel"
+artist: "billy-joel"
 album_name: "Greatest Hits Volume I & Volume II"
 date: 2016-10-14T12:58:46.000000Z
 release_id: "4810997"

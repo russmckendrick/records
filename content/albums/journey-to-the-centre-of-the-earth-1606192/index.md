@@ -1,6 +1,7 @@
 ---
 title: "Rick Wakeman - Journey To The Centre Of The Earth"
-artist: "Rick Wakeman"
+artist_name: "Rick Wakeman"
+artist: "rick-wakeman"
 album_name: "Journey To The Centre Of The Earth"
 date: 2017-01-20T17:21:17.000000Z
 release_id: "1606192"

@@ -1,6 +1,7 @@
 ---
 title: "Fleetwood Mac - Tango In The Night"
-artist: "Fleetwood Mac"
+artist_name: "Fleetwood Mac"
+artist: "fleetwood-mac"
 album_name: "Tango In The Night"
 date: 2017-04-02T13:04:01.000000Z
 release_id: "10063396"

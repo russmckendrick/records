@@ -1,6 +1,7 @@
 ---
 title: "Various - Life Moves Pretty Fast: The John Hughes Mixtapes"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Life Moves Pretty Fast: The John Hughes Mixtapes"
 date: 2022-11-12T02:26:14.000000Z
 release_id: "25135282"

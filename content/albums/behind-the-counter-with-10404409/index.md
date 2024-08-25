@@ -1,6 +1,7 @@
 ---
 title: "Max Richter - Behind The Counter With"
-artist: "Max Richter"
+artist_name: "Max Richter"
+artist: "max-richter"
 album_name: "Behind The Counter With"
 date: 2017-06-19T20:05:40.000000Z
 release_id: "10404409"

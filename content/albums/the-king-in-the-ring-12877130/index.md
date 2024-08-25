@@ -1,6 +1,7 @@
 ---
 title: "Elvis Presley - The King In The Ring"
-artist: "Elvis Presley"
+artist_name: "Elvis Presley"
+artist: "elvis-presley"
 album_name: "The King In The Ring"
 date: 2018-12-19T19:49:56.000000Z
 release_id: "12877130"

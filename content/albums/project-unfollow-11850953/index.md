@@ -1,6 +1,7 @@
 ---
 title: "Little Simz - Project Unfollow"
-artist: "Little Simz"
+artist_name: "Little Simz"
+artist: "little-simz"
 album_name: "Project Unfollow"
 date: 2018-04-19T11:14:08.000000Z
 release_id: "11850953"

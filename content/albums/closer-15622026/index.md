@@ -1,6 +1,7 @@
 ---
 title: "Joy Division - Closer"
-artist: "Joy Division"
+artist_name: "Joy Division"
+artist: "joy-division"
 album_name: "Closer"
 date: 2020-07-17T12:19:11.000000Z
 release_date: "1980-07-18"

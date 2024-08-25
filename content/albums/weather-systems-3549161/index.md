@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Weather Systems"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Weather Systems"
 date: 2016-03-29T16:25:48.000000Z
 release_id: "3549161"

@@ -1,6 +1,7 @@
 ---
 title: "Sigur Rós - 22° Lunar Halo"
-artist: "Sigur Rós"
+artist_name: "Sigur Rós"
+artist: "sigur-rs"
 album_name: "22° Lunar Halo"
 date: 2019-04-13T11:16:58.000000Z
 release_id: "13474974"

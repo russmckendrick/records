@@ -1,6 +1,7 @@
 ---
 title: "Various - Electro (A Personal Selection Of Electro Classics)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Electro (A Personal Selection Of Electro Classics)"
 date: 2017-02-22T18:01:26.000000Z
 release_id: "9836222"

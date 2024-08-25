@@ -1,6 +1,7 @@
 ---
 title: "Bootsy Collins - World Wide Funk"
-artist: "Bootsy Collins"
+artist_name: "Bootsy Collins"
+artist: "bootsy-collins"
 album_name: "World Wide Funk"
 date: 2017-10-28T15:15:18.000000Z
 release_id: "11046939"

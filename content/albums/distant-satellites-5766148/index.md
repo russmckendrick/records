@@ -1,6 +1,7 @@
 ---
 title: "Anathema - Distant Satellites"
-artist: "Anathema"
+artist_name: "Anathema"
+artist: "anathema"
 album_name: "Distant Satellites"
 date: 2015-09-21T18:54:18.000000Z
 release_id: "5766148"

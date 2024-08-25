@@ -1,6 +1,7 @@
 ---
 title: "Clutch - Earth Rocker"
-artist: "Clutch"
+artist_name: "Clutch"
+artist: "clutch"
 album_name: "Earth Rocker"
 date: 2015-08-09T08:44:32.000000Z
 release_id: "4382663"

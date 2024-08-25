@@ -1,6 +1,7 @@
 ---
 title: "Big Big Train - The Second Brightest Star"
-artist: "Big Big Train"
+artist_name: "Big Big Train"
+artist: "big-big-train"
 album_name: "The Second Brightest Star"
 date: 2017-06-24T15:07:53.000000Z
 release_id: "10470066"

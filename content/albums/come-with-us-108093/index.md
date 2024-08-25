@@ -1,6 +1,7 @@
 ---
 title: "The Chemical Brothers - Come With Us"
-artist: "The Chemical Brothers"
+artist_name: "The Chemical Brothers"
+artist: "the-chemical-brothers"
 album_name: "Come With Us"
 date: 2018-06-13T17:29:00.000000Z
 release_id: "108093"

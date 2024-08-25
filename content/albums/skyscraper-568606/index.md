@@ -1,6 +1,7 @@
 ---
 title: "David Lee Roth - Skyscraper"
-artist: "David Lee Roth"
+artist_name: "David Lee Roth"
+artist: "david-lee-roth"
 album_name: "Skyscraper"
 date: 2016-02-29T18:16:24.000000Z
 release_id: "568606"

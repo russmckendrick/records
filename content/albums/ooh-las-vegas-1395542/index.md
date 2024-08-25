@@ -1,6 +1,7 @@
 ---
 title: "Deacon Blue - Ooh Las Vegas"
-artist: "Deacon Blue"
+artist_name: "Deacon Blue"
+artist: "deacon-blue"
 album_name: "Ooh Las Vegas"
 date: 2019-04-26T12:44:54.000000Z
 release_id: "1395542"

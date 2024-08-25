@@ -1,6 +1,7 @@
 ---
 title: "Suede - The Best Of Suede. Beautiful Ones. 1992-2018"
-artist: "Suede"
+artist_name: "Suede"
+artist: "suede"
 album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2021-01-03T08:00:22.000000Z
 release_id: "16032926"

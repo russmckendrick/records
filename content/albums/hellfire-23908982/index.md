@@ -1,6 +1,7 @@
 ---
 title: "Black Midi - Hellfire"
-artist: "Black Midi"
+artist_name: "Black Midi"
+artist: "black-midi"
 album_name: "Hellfire"
 date: 2022-08-01T06:02:49.000000Z
 release_date: "2022-07-15"

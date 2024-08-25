@@ -1,6 +1,7 @@
 ---
 title: "Motorpsycho - Yay!"
-artist: "Motorpsycho"
+artist_name: "Motorpsycho"
+artist: "motorpsycho"
 album_name: "Yay!"
 date: 2023-12-29T04:33:43.000000Z
 release_id: "27379731"

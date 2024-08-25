@@ -1,6 +1,7 @@
 ---
 title: "Andy White - AT"
-artist: "Andy White"
+artist_name: "Andy White"
+artist: "andy-white"
 album_name: "AT"
 date: 2023-04-07T04:35:37.000000Z
 release_id: "26677889"

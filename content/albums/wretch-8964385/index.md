@@ -1,6 +1,7 @@
 ---
 title: "Kyuss - Wretch"
-artist: "Kyuss"
+artist_name: "Kyuss"
+artist: "kyuss"
 album_name: "Wretch"
 date: 2016-09-14T16:48:48.000000Z
 release_id: "8964385"

@@ -1,6 +1,7 @@
 ---
 title: "Manic Street Preachers - Resistance Is Futile"
-artist: "Manic Street Preachers"
+artist_name: "Manic Street Preachers"
+artist: "manic-street-preachers"
 album_name: "Resistance Is Futile"
 date: 2018-04-13T18:38:59.000000Z
 release_id: "11850128"

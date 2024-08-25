@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - Stakes Is High"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "Stakes Is High"
 date: 2023-06-02T05:03:12.000000Z
 release_date: "1996-07-02"

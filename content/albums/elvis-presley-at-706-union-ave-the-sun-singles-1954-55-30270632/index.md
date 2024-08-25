@@ -1,6 +1,7 @@
 ---
 title: "Elvis Presley - Elvis Presley At 706 Union Ave: The Sun Singles 1954-55"
-artist: "Elvis Presley"
+artist_name: "Elvis Presley"
+artist: "elvis-presley"
 album_name: "Elvis Presley At 706 Union Ave: The Sun Singles 1954-55"
 date: 2024-04-11T05:15:52.000000Z
 release_id: "30270632"

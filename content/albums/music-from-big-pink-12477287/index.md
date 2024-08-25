@@ -1,6 +1,7 @@
 ---
 title: "The Band - Music From Big Pink"
-artist: "The Band"
+artist_name: "The Band"
+artist: "the-band"
 album_name: "Music From Big Pink"
 date: 2020-06-16T12:11:25.000000Z
 release_date: "1968-07-01"

@@ -1,6 +1,7 @@
 ---
 title: "The Radicant - We Ascend"
-artist: "The Radicant"
+artist_name: "The Radicant"
+artist: "the-radicant"
 album_name: "We Ascend"
 date: 2024-07-21T03:36:08.000000Z
 release_id: "31279829"

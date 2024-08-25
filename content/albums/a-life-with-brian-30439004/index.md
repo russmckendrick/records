@@ -1,6 +1,7 @@
 ---
 title: "Flowered Up - A Life With Brian"
-artist: "Flowered Up"
+artist_name: "Flowered Up"
+artist: "flowered-up"
 album_name: "A Life With Brian"
 date: 2024-04-20T07:59:55.000000Z
 release_id: "30439004"

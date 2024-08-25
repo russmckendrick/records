@@ -1,6 +1,7 @@
 ---
 title: "The Rolling Stones - Exile On Main St."
-artist: "The Rolling Stones"
+artist_name: "The Rolling Stones"
+artist: "the-rolling-stones"
 album_name: "Exile On Main St."
 date: 2015-08-09T08:42:13.000000Z
 release_date: "1972-05-12"

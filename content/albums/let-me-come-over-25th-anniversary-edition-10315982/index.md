@@ -1,6 +1,7 @@
 ---
 title: "Buffalo Tom - Let Me Come Over (25th Anniversary Edition)"
-artist: "Buffalo Tom"
+artist_name: "Buffalo Tom"
+artist: "buffalo-tom"
 album_name: "Let Me Come Over (25th Anniversary Edition)"
 date: 2017-05-20T15:15:57.000000Z
 release_id: "10315982"

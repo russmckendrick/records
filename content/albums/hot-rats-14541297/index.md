@@ -1,6 +1,7 @@
 ---
 title: "Frank Zappa - Hot Rats"
-artist: "Frank Zappa"
+artist_name: "Frank Zappa"
+artist: "frank-zappa"
 album_name: "Hot Rats"
 date: 2019-12-30T18:20:39.000000Z
 release_date: "1969-10-10"

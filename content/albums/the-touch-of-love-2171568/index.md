@@ -1,6 +1,7 @@
 ---
 title: "Gladys Knight And The Pips - The Touch Of Love"
-artist: "Gladys Knight And The Pips"
+artist_name: "Gladys Knight And The Pips"
+artist: "gladys-knight-and-the-pips"
 album_name: "The Touch Of Love"
 date: 2020-08-02T13:45:46.000000Z
 release_id: "2171568"

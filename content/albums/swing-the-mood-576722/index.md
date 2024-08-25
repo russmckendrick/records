@@ -1,6 +1,7 @@
 ---
 title: "Jive Bunny And The Mastermixers - Swing The Mood"
-artist: "Jive Bunny And The Mastermixers"
+artist_name: "Jive Bunny And The Mastermixers"
+artist: "jive-bunny-and-the-mastermixers"
 album_name: "Swing The Mood"
 date: 2017-05-16T19:47:14.000000Z
 release_id: "576722"

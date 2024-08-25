@@ -1,6 +1,7 @@
 ---
 title: "Therapy? - Greatest Hits (The Abbey Road Session)"
-artist: "Therapy?"
+artist_name: "Therapy?"
+artist: "therapy"
 album_name: "Greatest Hits (The Abbey Road Session)"
 date: 2021-02-18T07:59:34.000000Z
 release_id: "14911724"

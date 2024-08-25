@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Piper At The Gates Of Dawn"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Piper At The Gates Of Dawn"
 date: 2018-04-21T11:16:54.000000Z
 release_date: "1967-08-05"

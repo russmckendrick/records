@@ -1,6 +1,7 @@
 ---
 title: "Nick Cave & The Bad Seeds - Murder Ballads"
-artist: "Nick Cave & The Bad Seeds"
+artist_name: "Nick Cave & The Bad Seeds"
+artist: "nick-cave-the-bad-seeds"
 album_name: "Murder Ballads"
 date: 2016-10-01T10:34:00.000000Z
 release_date: "1996-02-05"

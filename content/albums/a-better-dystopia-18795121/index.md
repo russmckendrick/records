@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - A Better Dystopia"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "A Better Dystopia"
 date: 2021-05-25T04:47:54.000000Z
 release_date: "2021-05-21"

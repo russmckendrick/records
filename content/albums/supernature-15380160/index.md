@@ -1,6 +1,7 @@
 ---
 title: "Goldfrapp - Supernature"
-artist: "Goldfrapp"
+artist_name: "Goldfrapp"
+artist: "goldfrapp"
 album_name: "Supernature"
 date: 2021-04-01T00:48:15.000000Z
 release_id: "15380160"

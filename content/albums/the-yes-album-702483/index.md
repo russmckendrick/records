@@ -1,6 +1,7 @@
 ---
 title: "Yes - The Yes Album"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "The Yes Album"
 date: 2016-04-15T18:22:14.000000Z
 release_id: "702483"

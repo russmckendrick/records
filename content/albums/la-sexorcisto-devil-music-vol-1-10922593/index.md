@@ -1,6 +1,7 @@
 ---
 title: "White Zombie - La Sexorcisto: Devil Music Vol. 1"
-artist: "White Zombie"
+artist_name: "White Zombie"
+artist: "white-zombie"
 album_name: "La Sexorcisto: Devil Music Vol. 1"
 date: 2017-10-13T18:11:28.000000Z
 release_id: "10922593"

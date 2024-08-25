@@ -1,6 +1,7 @@
 ---
 title: "Nordic Giants - Origins"
-artist: "Nordic Giants"
+artist_name: "Nordic Giants"
+artist: "nordic-giants"
 album_name: "Origins"
 date: 2024-05-31T09:20:36.000000Z
 release_id: "30822024"

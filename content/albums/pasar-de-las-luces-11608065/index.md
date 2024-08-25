@@ -1,6 +1,7 @@
 ---
 title: "Mint Field - Pasar De Las Luces"
-artist: "Mint Field"
+artist_name: "Mint Field"
+artist: "mint-field"
 album_name: "Pasar De Las Luces"
 date: 2018-06-13T17:28:19.000000Z
 release_id: "11608065"

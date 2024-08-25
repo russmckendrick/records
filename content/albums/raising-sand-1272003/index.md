@@ -1,6 +1,7 @@
 ---
 title: "Robert Plant - Raising Sand"
-artist: "Robert Plant"
+artist_name: "Robert Plant"
+artist: "robert-plant"
 album_name: "Raising Sand"
 date: 2016-03-05T13:38:06.000000Z
 release_date: "2007-01-01"

@@ -1,6 +1,7 @@
 ---
 title: "Daryl Hall & John Oates - The Very Best Of"
-artist: "Daryl Hall & John Oates"
+artist_name: "Daryl Hall & John Oates"
+artist: "daryl-hall-john-oates"
 album_name: "The Very Best Of"
 date: 2016-08-13T09:39:29.000000Z
 release_date: "2005-06-14"

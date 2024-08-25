@@ -1,6 +1,7 @@
 ---
 title: "Kate Bush - Lionheart"
-artist: "Kate Bush"
+artist_name: "Kate Bush"
+artist: "kate-bush"
 album_name: "Lionheart"
 date: 2018-02-20T19:29:28.000000Z
 release_id: "426108"

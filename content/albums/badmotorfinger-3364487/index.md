@@ -1,6 +1,7 @@
 ---
 title: "Soundgarden - Badmotorfinger"
-artist: "Soundgarden"
+artist_name: "Soundgarden"
+artist: "soundgarden"
 album_name: "Badmotorfinger"
 date: 2017-06-10T11:12:15.000000Z
 release_date: "1991-10-08"

@@ -1,6 +1,7 @@
 ---
 title: "Frost* - Day And Age"
-artist: "Frost*"
+artist_name: "Frost*"
+artist: "frost"
 album_name: "Day And Age"
 date: 2021-05-22T02:56:13.000000Z
 release_id: "18819115"

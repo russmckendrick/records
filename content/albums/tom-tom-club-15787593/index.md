@@ -1,6 +1,7 @@
 ---
 title: "Tom Tom Club - Tom Tom Club"
-artist: "Tom Tom Club"
+artist_name: "Tom Tom Club"
+artist: "tom-tom-club"
 album_name: "Tom Tom Club"
 date: 2020-08-28T10:17:31.000000Z
 release_id: "15787593"

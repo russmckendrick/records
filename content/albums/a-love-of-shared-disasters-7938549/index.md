@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - A Love Of Shared Disasters"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "A Love Of Shared Disasters"
 date: 2016-02-21T12:08:15.000000Z
 release_id: "7938549"

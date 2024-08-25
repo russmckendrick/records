@@ -1,6 +1,7 @@
 ---
 title: "The Wannadies - Be A Girl"
-artist: "The Wannadies"
+artist_name: "The Wannadies"
+artist: "the-wannadies"
 album_name: "Be A Girl"
 date: 2019-04-09T17:41:17.000000Z
 release_id: "13354225"

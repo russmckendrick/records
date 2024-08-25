@@ -1,6 +1,7 @@
 ---
 title: "Various - Transformers: The Movie (Original Motion Picture Soundtrack)"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Transformers: The Movie (Original Motion Picture Soundtrack)"
 date: 2015-12-07T18:46:42.000000Z
 release_id: "7782037"

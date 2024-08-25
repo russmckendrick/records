@@ -1,6 +1,7 @@
 ---
 title: "David Longdon - Wild River"
-artist: "David Longdon"
+artist_name: "David Longdon"
+artist: "david-longdon"
 album_name: "Wild River"
 date: 2023-12-17T05:03:28.000000Z
 release_id: "29170669"

@@ -1,6 +1,7 @@
 ---
 title: "Bruce Springsteen - Born In The U.S.A."
-artist: "Bruce Springsteen"
+artist_name: "Bruce Springsteen"
+artist: "bruce-springsteen"
 album_name: "Born In The U.S.A."
 date: 2024-06-14T10:53:43.000000Z
 release_date: "1984-06-04"

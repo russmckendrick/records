@@ -1,6 +1,7 @@
 ---
 title: "AC/DC - Dirty Deeds Done Dirt Cheap"
-artist: "AC/DC"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Dirty Deeds Done Dirt Cheap"
 date: 2024-03-16T02:33:04.000000Z
 release_date: "1976-09-20"

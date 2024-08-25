@@ -1,6 +1,7 @@
 ---
 title: "Radiohead - Kid A Mnesia"
-artist: "Radiohead"
+artist_name: "Radiohead"
+artist: "radiohead"
 album_name: "Kid A Mnesia"
 date: 2021-12-12T08:40:33.000000Z
 release_date: "2021-11-05"

@@ -1,6 +1,7 @@
 ---
 title: "Tim Burgess - Vinyl Adventures From Istanbul To San Francisco"
-artist: "Tim Burgess"
+artist_name: "Tim Burgess"
+artist: "tim-burgess"
 album_name: "Vinyl Adventures From Istanbul To San Francisco"
 date: 2016-08-09T15:25:42.000000Z
 release_id: "8873659"

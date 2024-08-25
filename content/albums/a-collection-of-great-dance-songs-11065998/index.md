@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - A Collection Of Great Dance Songs"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "A Collection Of Great Dance Songs"
 date: 2017-11-17T16:42:52.000000Z
 release_id: "11065998"

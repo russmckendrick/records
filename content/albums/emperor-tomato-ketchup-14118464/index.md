@@ -1,6 +1,7 @@
 ---
 title: "Stereolab - Emperor Tomato Ketchup"
-artist: "Stereolab"
+artist_name: "Stereolab"
+artist: "stereolab"
 album_name: "Emperor Tomato Ketchup"
 date: 2019-09-15T12:00:17.000000Z
 release_date: "1996-03-18"

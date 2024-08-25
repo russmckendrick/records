@@ -1,6 +1,7 @@
 ---
 title: "Various - Ghostbusters II"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "Ghostbusters II"
 date: 2020-08-01T12:41:40.000000Z
 release_id: "672488"

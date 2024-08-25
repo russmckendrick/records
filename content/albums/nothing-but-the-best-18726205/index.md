@@ -1,6 +1,7 @@
 ---
 title: "Frank Sinatra - Nothing But The Best"
-artist: "Frank Sinatra"
+artist_name: "Frank Sinatra"
+artist: "frank-sinatra"
 album_name: "Nothing But The Best"
 date: 2021-06-23T06:30:29.000000Z
 release_date: "2008-05-13"

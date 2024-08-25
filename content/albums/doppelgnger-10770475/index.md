@@ -1,6 +1,7 @@
 ---
 title: "Curve - Doppelgänger"
-artist: "Curve"
+artist_name: "Curve"
+artist: "curve"
 album_name: "Doppelgänger"
 date: 2017-09-01T05:56:02.000000Z
 release_id: "10770475"

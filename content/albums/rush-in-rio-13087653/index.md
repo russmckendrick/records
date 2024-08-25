@@ -1,6 +1,7 @@
 ---
 title: "Rush - Rush In Rio"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Rush In Rio"
 date: 2019-01-19T09:37:16.000000Z
 release_id: "13087653"

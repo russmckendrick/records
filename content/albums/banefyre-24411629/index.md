@@ -1,6 +1,7 @@
 ---
 title: "Crippled Black Phoenix - Banefyre"
-artist: "Crippled Black Phoenix"
+artist_name: "Crippled Black Phoenix"
+artist: "crippled-black-phoenix"
 album_name: "Banefyre"
 date: 2022-09-04T06:10:56.000000Z
 release_id: "24411629"

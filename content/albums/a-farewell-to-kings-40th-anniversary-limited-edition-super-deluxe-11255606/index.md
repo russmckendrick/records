@@ -1,6 +1,7 @@
 ---
 title: "Rush - A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)"
 date: 2017-12-11T19:53:38.000000Z
 release_id: "11255606"

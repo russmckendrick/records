@@ -1,6 +1,7 @@
 ---
 title: "Faith No More - We Care A Lot"
-artist: "Faith No More"
+artist_name: "Faith No More"
+artist: "faith-no-more"
 album_name: "We Care A Lot"
 date: 2015-08-09T08:47:17.000000Z
 release_id: "625311"

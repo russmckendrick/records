@@ -1,6 +1,7 @@
 ---
 title: "Gary Numan - The Pleasure Principle"
-artist: "Gary Numan"
+artist_name: "Gary Numan"
+artist: "gary-numan"
 album_name: "The Pleasure Principle"
 date: 2016-01-13T10:27:40.000000Z
 release_id: "45996"

@@ -1,6 +1,7 @@
 ---
 title: "The Flaming Lips - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
-artist: "The Flaming Lips"
+artist_name: "The Flaming Lips"
+artist: "the-flaming-lips"
 album_name: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
 date: 2020-01-10T18:20:40.000000Z
 release_id: "14597485"

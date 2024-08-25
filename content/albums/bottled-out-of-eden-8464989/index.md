@@ -1,6 +1,7 @@
 ---
 title: "Knifeworld - Bottled Out Of Eden"
-artist: "Knifeworld"
+artist_name: "Knifeworld"
+artist: "knifeworld"
 album_name: "Bottled Out Of Eden"
 date: 2016-05-05T05:36:07.000000Z
 release_id: "8464989"

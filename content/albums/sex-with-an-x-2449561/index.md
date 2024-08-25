@@ -1,6 +1,7 @@
 ---
 title: "The Vaselines - Sex With An X"
-artist: "The Vaselines"
+artist_name: "The Vaselines"
+artist: "the-vaselines"
 album_name: "Sex With An X"
 date: 2020-08-01T12:42:00.000000Z
 release_date: "2010-09-14"

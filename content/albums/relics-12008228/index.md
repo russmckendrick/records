@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - Relics"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "Relics"
 date: 2018-05-17T14:51:12.000000Z
 release_date: "1971-05-14"

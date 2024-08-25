@@ -1,6 +1,7 @@
 ---
 title: "Porcupine Tree - Coma Divine"
-artist: "Porcupine Tree"
+artist_name: "Porcupine Tree"
+artist: "porcupine-tree"
 album_name: "Coma Divine"
 date: 2017-05-20T15:11:49.000000Z
 release_id: "10285598"

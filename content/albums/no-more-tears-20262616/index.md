@@ -1,6 +1,7 @@
 ---
 title: "Ozzy Osbourne - No More Tears"
-artist: "Ozzy Osbourne"
+artist_name: "Ozzy Osbourne"
+artist: "ozzy-osbourne"
 album_name: "No More Tears"
 date: 2021-09-19T04:28:15.000000Z
 release_id: "20262616"

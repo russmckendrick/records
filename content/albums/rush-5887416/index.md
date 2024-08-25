@@ -1,6 +1,7 @@
 ---
 title: "Rush - Rush"
-artist: "Rush"
+artist_name: "Rush"
+artist: "rush"
 album_name: "Rush"
 date: 2017-03-07T08:40:12.000000Z
 release_date: "2022-06-10"

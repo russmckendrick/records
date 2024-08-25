@@ -1,6 +1,7 @@
 ---
 title: "The Frank And Walters - Trains, Boats And Planes"
-artist: "The Frank And Walters"
+artist_name: "The Frank And Walters"
+artist: "the-frank-and-walters"
 album_name: "Trains, Boats And Planes"
 date: 2018-03-24T11:44:35.000000Z
 release_id: "1208911"

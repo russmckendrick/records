@@ -1,6 +1,7 @@
 ---
 title: "Various - The Marquee - 30 Legendary Years"
-artist: "Various"
+artist_name: "Various"
+artist: "various"
 album_name: "The Marquee - 30 Legendary Years"
 date: 2015-09-10T18:28:00.000000Z
 release_id: "1679405"

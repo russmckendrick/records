@@ -1,6 +1,7 @@
 ---
 title: "Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited"
-artist: "Mercury Rev"
+artist_name: "Mercury Rev"
+artist: "mercury-rev"
 album_name: "Bobbie Gentry's The Delta Sweete Revisited"
 date: 2019-02-08T14:20:39.000000Z
 release_date: "2019-02-08"

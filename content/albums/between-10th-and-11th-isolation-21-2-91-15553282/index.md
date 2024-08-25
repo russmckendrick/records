@@ -1,6 +1,7 @@
 ---
 title: "The Charlatans - Between 10th And 11th / Isolation 21.2.91"
-artist: "The Charlatans"
+artist_name: "The Charlatans"
+artist: "the-charlatans"
 album_name: "Between 10th And 11th / Isolation 21.2.91"
 date: 2020-07-03T12:50:52.000000Z
 release_id: "15553282"

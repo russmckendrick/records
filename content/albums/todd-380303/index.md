@@ -1,6 +1,7 @@
 ---
 title: "Todd Rundgren - Todd"
-artist: "Todd Rundgren"
+artist_name: "Todd Rundgren"
+artist: "todd-rundgren"
 album_name: "Todd"
 date: 2022-03-06T04:59:14.000000Z
 release_id: "380303"

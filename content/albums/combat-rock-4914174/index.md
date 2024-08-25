@@ -1,6 +1,7 @@
 ---
 title: "The Clash - Combat Rock"
-artist: "The Clash"
+artist_name: "The Clash"
+artist: "the-clash"
 album_name: "Combat Rock"
 date: 2016-11-18T18:44:08.000000Z
 release_date: "1982-05-14"

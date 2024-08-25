@@ -1,6 +1,7 @@
 ---
 title: "The Beta Band - The Beta Band"
-artist: "The Beta Band"
+artist_name: "The Beta Band"
+artist: "the-beta-band"
 album_name: "The Beta Band"
 date: 2018-11-09T19:14:57.000000Z
 release_id: "12647463"

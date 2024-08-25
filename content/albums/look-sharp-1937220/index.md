@@ -1,6 +1,7 @@
 ---
 title: "Roxette - Look Sharp!"
-artist: "Roxette"
+artist_name: "Roxette"
+artist: "roxette"
 album_name: "Look Sharp!"
 date: 2016-02-29T18:16:24.000000Z
 release_id: "1937220"

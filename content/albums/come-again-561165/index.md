@@ -1,6 +1,7 @@
 ---
 title: "Derek & Clive - Come Again"
-artist: "Derek & Clive"
+artist_name: "Derek & Clive"
+artist: "derek-clive"
 album_name: "Come Again"
 date: 2015-12-30T09:11:50.000000Z
 release_id: "561165"

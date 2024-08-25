@@ -1,6 +1,7 @@
 ---
 title: "Black Sabbath - Master Of Reality"
-artist: "Black Sabbath"
+artist_name: "Black Sabbath"
+artist: "black-sabbath"
 album_name: "Master Of Reality"
 date: 2016-08-11T15:57:18.000000Z
 release_date: "1971-07-21"

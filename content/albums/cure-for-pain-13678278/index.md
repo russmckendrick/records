@@ -1,6 +1,7 @@
 ---
 title: "Morphine - Cure For Pain"
-artist: "Morphine"
+artist_name: "Morphine"
+artist: "morphine"
 album_name: "Cure For Pain"
 date: 2019-06-12T17:58:02.000000Z
 release_date: "1993-09-14"

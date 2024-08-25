@@ -1,6 +1,7 @@
 ---
 title: "Tim Bowness - Late Night Laments"
-artist: "Tim Bowness"
+artist_name: "Tim Bowness"
+artist: "tim-bowness"
 album_name: "Late Night Laments"
 date: 2020-08-31T10:13:03.000000Z
 release_id: "15842720"

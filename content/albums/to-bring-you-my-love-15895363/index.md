@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - To Bring You My Love"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "To Bring You My Love"
 date: 2020-09-11T17:43:51.000000Z
 release_date: "1995-02-27"

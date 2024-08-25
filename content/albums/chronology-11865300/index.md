@@ -1,6 +1,7 @@
 ---
 title: "Jean-Michel Jarre - Chronology"
-artist: "Jean-Michel Jarre"
+artist_name: "Jean-Michel Jarre"
+artist: "jean-michel-jarre"
 album_name: "Chronology"
 date: 2018-08-31T19:27:00.000000Z
 release_id: "11865300"

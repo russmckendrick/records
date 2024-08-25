@@ -1,6 +1,7 @@
 ---
 title: "Mark Morriss - The Taste Of Mark Morriss"
-artist: "Mark Morriss"
+artist_name: "Mark Morriss"
+artist: "mark-morriss"
 album_name: "The Taste Of Mark Morriss"
 date: 2015-12-15T18:07:13.000000Z
 release_id: "7449821"

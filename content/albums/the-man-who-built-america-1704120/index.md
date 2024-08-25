@@ -1,6 +1,7 @@
 ---
 title: "Horslips - The Man Who Built America"
-artist: "Horslips"
+artist_name: "Horslips"
+artist: "horslips"
 album_name: "The Man Who Built America"
 date: 2020-08-02T13:30:43.000000Z
 release_id: "1704120"

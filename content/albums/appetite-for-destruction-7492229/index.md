@@ -1,6 +1,7 @@
 ---
 title: "Guns N' Roses - Appetite For Destruction"
-artist: "Guns N' Roses"
+artist_name: "Guns N' Roses"
+artist: "guns-n-roses"
 album_name: "Appetite For Destruction"
 date: 2016-05-18T16:49:03.000000Z
 release_date: "1987-07-21"

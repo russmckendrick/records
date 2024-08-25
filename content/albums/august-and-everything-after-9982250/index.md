@@ -1,6 +1,7 @@
 ---
 title: "Counting Crows - August And Everything After"
-artist: "Counting Crows"
+artist_name: "Counting Crows"
+artist: "counting-crows"
 album_name: "August And Everything After"
 date: 2017-06-10T11:12:30.000000Z
 release_date: "1993-01-01"

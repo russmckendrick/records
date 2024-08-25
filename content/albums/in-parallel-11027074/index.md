@@ -1,6 +1,7 @@
 ---
 title: "Dhani Harrison - In///Parallel"
-artist: "Dhani Harrison"
+artist_name: "Dhani Harrison"
+artist: "dhani-harrison"
 album_name: "In///Parallel"
 date: 2017-12-09T19:15:58.000000Z
 release_date: "2017-10-06"

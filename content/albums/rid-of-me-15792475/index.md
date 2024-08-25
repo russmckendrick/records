@@ -1,6 +1,7 @@
 ---
 title: "PJ Harvey - Rid Of Me"
-artist: "PJ Harvey"
+artist_name: "PJ Harvey"
+artist: "pj-harvey"
 album_name: "Rid Of Me"
 date: 2020-08-25T13:30:46.000000Z
 release_date: "1993-05-04"

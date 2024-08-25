@@ -1,6 +1,7 @@
 ---
 title: "Monster Magnet - Superjudge"
-artist: "Monster Magnet"
+artist_name: "Monster Magnet"
+artist: "monster-magnet"
 album_name: "Superjudge"
 date: 2016-07-10T09:50:22.000000Z
 release_id: "8112399"

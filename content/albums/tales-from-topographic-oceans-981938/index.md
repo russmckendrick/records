@@ -1,6 +1,7 @@
 ---
 title: "Yes - Tales From Topographic Oceans"
-artist: "Yes"
+artist_name: "Yes"
+artist: "yes"
 album_name: "Tales From Topographic Oceans"
 date: 2016-03-09T18:40:45.000000Z
 release_id: "981938"

@@ -1,6 +1,7 @@
 ---
 title: "Splashgirl - Sixth Sense"
-artist: "Splashgirl"
+artist_name: "Splashgirl"
+artist: "splashgirl"
 album_name: "Sixth Sense"
 date: 2018-08-21T18:45:08.000000Z
 release_id: "11750748"

@@ -1,6 +1,7 @@
 ---
 title: "Jane Weaver - Flock"
-artist: "Jane Weaver"
+artist_name: "Jane Weaver"
+artist: "jane-weaver"
 album_name: "Flock"
 date: 2021-03-08T04:43:36.000000Z
 release_id: "17654794"

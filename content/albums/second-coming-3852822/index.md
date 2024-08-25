@@ -1,6 +1,7 @@
 ---
 title: "The Stone Roses - Second Coming"
-artist: "The Stone Roses"
+artist_name: "The Stone Roses"
+artist: "the-stone-roses"
 album_name: "Second Coming"
 date: 2016-03-23T12:58:18.000000Z
 release_date: "1994-01-01"

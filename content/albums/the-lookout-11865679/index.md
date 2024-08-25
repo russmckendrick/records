@@ -1,6 +1,7 @@
 ---
 title: "Laura Veirs - The Lookout"
-artist: "Laura Veirs"
+artist_name: "Laura Veirs"
+artist: "laura-veirs"
 album_name: "The Lookout"
 date: 2018-04-20T17:55:25.000000Z
 release_date: "2018-04-13"

@@ -1,6 +1,7 @@
 ---
 title: "Steel Pulse - Handsworth Revolution"
-artist: "Steel Pulse"
+artist_name: "Steel Pulse"
+artist: "steel-pulse"
 album_name: "Handsworth Revolution"
 date: 2016-11-08T18:41:56.000000Z
 release_date: "1978-07-01"

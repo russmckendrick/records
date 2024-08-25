@@ -1,6 +1,7 @@
 ---
 title: "Blind Melon - Blind Melon"
-artist: "Blind Melon"
+artist_name: "Blind Melon"
+artist: "blind-melon"
 album_name: "Blind Melon"
 date: 2016-12-18T10:11:34.000000Z
 release_id: "5746552"

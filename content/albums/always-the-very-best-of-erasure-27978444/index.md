@@ -1,6 +1,7 @@
 ---
 title: "Erasure - Always (The Very Best Of Erasure)"
-artist: "Erasure"
+artist_name: "Erasure"
+artist: "erasure"
 album_name: "Always (The Very Best Of Erasure)"
 date: 2023-08-18T10:04:25.000000Z
 release_id: "27978444"

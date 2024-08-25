@@ -1,6 +1,7 @@
 ---
 title: "Bob Dylan - Bringing It All Back Home"
-artist: "Bob Dylan"
+artist_name: "Bob Dylan"
+artist: "bob-dylan"
 album_name: "Bringing It All Back Home"
 date: 2016-12-08T18:40:48.000000Z
 release_date: "1965-03-22"

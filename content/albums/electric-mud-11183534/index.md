@@ -1,6 +1,7 @@
 ---
 title: "Muddy Waters - Electric Mud"
-artist: "Muddy Waters"
+artist_name: "Muddy Waters"
+artist: "muddy-waters"
 album_name: "Electric Mud"
 date: 2017-12-08T13:15:20.000000Z
 release_id: "11183534"

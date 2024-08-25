@@ -1,6 +1,7 @@
 ---
 title: "Eels - Eels Time!"
-artist: "Eels"
+artist_name: "Eels"
+artist: "eels"
 album_name: "Eels Time!"
 date: 2024-06-09T09:47:54.000000Z
 release_id: "30896457"

@@ -1,6 +1,7 @@
 ---
 title: "Chvrches - Every Open Eye"
-artist: "Chvrches"
+artist_name: "Chvrches"
+artist: "chvrches"
 album_name: "Every Open Eye"
 date: 2017-01-05T19:23:45.000000Z
 release_date: "2015-09-25"

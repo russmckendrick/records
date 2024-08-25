@@ -1,6 +1,7 @@
 ---
 title: "Solomon Burke - Don't Give Up On Me"
-artist: "Solomon Burke"
+artist_name: "Solomon Burke"
+artist: "solomon-burke"
 album_name: "Don't Give Up On Me"
 date: 2022-12-02T07:57:17.000000Z
 release_id: "25336930"

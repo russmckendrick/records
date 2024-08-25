@@ -1,6 +1,7 @@
 ---
 title: "Split Enz - Waiata"
-artist: "Split Enz"
+artist_name: "Split Enz"
+artist: "split-enz"
 album_name: "Waiata"
 date: 2016-01-29T18:22:31.000000Z
 release_id: "2684571"

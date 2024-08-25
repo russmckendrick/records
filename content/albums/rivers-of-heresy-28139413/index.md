@@ -1,6 +1,7 @@
 ---
 title: "Empire State Bastard - Rivers Of Heresy"
-artist: "Empire State Bastard"
+artist_name: "Empire State Bastard"
+artist: "empire-state-bastard"
 album_name: "Rivers Of Heresy"
 date: 2023-09-08T04:41:51.000000Z
 release_date: "2023-09-01"

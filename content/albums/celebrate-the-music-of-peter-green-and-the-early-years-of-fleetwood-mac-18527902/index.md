@@ -1,6 +1,7 @@
 ---
 title: "Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
-artist: "Mick Fleetwood & Friends"
+artist_name: "Mick Fleetwood & Friends"
+artist: "mick-fleetwood-friends"
 album_name: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
 date: 2021-05-03T01:54:05.000000Z
 release_id: "18527902"

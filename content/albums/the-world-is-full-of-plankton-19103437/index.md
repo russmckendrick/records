@@ -1,6 +1,7 @@
 ---
 title: "Amorphous Androgynous - The World Is Full Of Plankton"
-artist: "Amorphous Androgynous"
+artist_name: "Amorphous Androgynous"
+artist: "amorphous-androgynous"
 album_name: "The World Is Full Of Plankton"
 date: 2021-06-29T02:30:05.000000Z
 release_id: "19103437"

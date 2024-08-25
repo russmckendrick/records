@@ -1,6 +1,7 @@
 ---
 title: "The Soundtrack Of Our Lives - Communion"
-artist: "The Soundtrack Of Our Lives"
+artist_name: "The Soundtrack Of Our Lives"
+artist: "the-soundtrack-of-our-lives"
 album_name: "Communion"
 date: 2023-12-30T02:25:25.000000Z
 release_id: "1894165"

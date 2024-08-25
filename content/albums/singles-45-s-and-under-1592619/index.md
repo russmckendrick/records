@@ -1,6 +1,7 @@
 ---
 title: "Squeeze - Singles - 45's And Under"
-artist: "Squeeze"
+artist_name: "Squeeze"
+artist: "squeeze"
 album_name: "Singles - 45's And Under"
 date: 2015-09-11T18:02:25.000000Z
 release_id: "1592619"

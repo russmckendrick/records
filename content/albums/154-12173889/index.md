@@ -1,6 +1,7 @@
 ---
 title: "Wire - 154"
-artist: "Wire"
+artist_name: "Wire"
+artist: "wire"
 album_name: "154"
 date: 2018-12-22T10:27:25.000000Z
 release_id: "12173889"

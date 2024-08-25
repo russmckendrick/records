@@ -1,6 +1,7 @@
 ---
 title: "Spiritualized - Pure Phase"
-artist: "Spiritualized"
+artist_name: "Spiritualized"
+artist: "spiritualized"
 album_name: "Pure Phase"
 date: 2021-06-24T02:46:36.000000Z
 release_id: "19066723"

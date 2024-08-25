@@ -1,6 +1,7 @@
 ---
 title: "Steely Dan - Pretzel Logic"
-artist: "Steely Dan"
+artist_name: "Steely Dan"
+artist: "steely-dan"
 album_name: "Pretzel Logic"
 date: 2023-07-28T05:35:29.000000Z
 release_date: "1974-02-20"

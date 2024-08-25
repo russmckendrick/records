@@ -1,6 +1,7 @@
 ---
 title: "Neil Young - Greatest Hits"
-artist: "Neil Young"
+artist_name: "Neil Young"
+artist: "neil-young"
 album_name: "Greatest Hits"
 date: 2017-04-09T14:17:52.000000Z
 release_date: "2004-11-16"

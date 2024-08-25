@@ -1,6 +1,7 @@
 ---
 title: "Alison Krauss - Windy City"
-artist: "Alison Krauss"
+artist_name: "Alison Krauss"
+artist: "alison-krauss"
 album_name: "Windy City"
 date: 2017-03-04T17:52:12.000000Z
 release_date: "2017-03-03"

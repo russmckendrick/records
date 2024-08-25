@@ -1,6 +1,7 @@
 ---
 title: "Status Quo - Aquostic Stripped Bare"
-artist: "Status Quo"
+artist_name: "Status Quo"
+artist: "status-quo"
 album_name: "Aquostic Stripped Bare"
 date: 2021-06-04T08:47:27.000000Z
 release_id: "6239618"

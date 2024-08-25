@@ -1,6 +1,7 @@
 ---
 title: "Tim Armstrong - A Poet's Life"
-artist: "Tim Armstrong"
+artist_name: "Tim Armstrong"
+artist: "tim-armstrong"
 album_name: "A Poet's Life"
 date: 2018-04-21T11:17:10.000000Z
 release_id: "11895222"

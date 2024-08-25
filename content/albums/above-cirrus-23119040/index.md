@@ -1,6 +1,7 @@
 ---
 title: "Pure Reason Revolution - Above Cirrus"
-artist: "Pure Reason Revolution"
+artist_name: "Pure Reason Revolution"
+artist: "pure-reason-revolution"
 album_name: "Above Cirrus"
 date: 2022-05-10T09:16:22.000000Z
 release_id: "23119040"

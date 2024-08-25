@@ -1,6 +1,7 @@
 ---
 title: "David Bowie - The Next Day"
-artist: "David Bowie"
+artist_name: "David Bowie"
+artist: "david-bowie"
 album_name: "The Next Day"
 date: 2016-01-12T17:42:44.000000Z
 release_id: "4370757"

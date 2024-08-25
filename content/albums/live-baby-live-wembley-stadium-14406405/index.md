@@ -1,6 +1,7 @@
 ---
 title: "INXS - Live Baby Live Wembley Stadium"
-artist: "INXS"
+artist_name: "INXS"
+artist: "inxs"
 album_name: "Live Baby Live Wembley Stadium"
 date: 2020-01-02T18:38:36.000000Z
 release_id: "14406405"

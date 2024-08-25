@@ -1,6 +1,7 @@
 ---
 title: "The Psychedelic Furs - The Best Of The Psychedelic Furs"
-artist: "The Psychedelic Furs"
+artist_name: "The Psychedelic Furs"
+artist: "the-psychedelic-furs"
 album_name: "The Best Of The Psychedelic Furs"
 date: 2021-07-03T06:10:01.000000Z
 release_id: "19345039"

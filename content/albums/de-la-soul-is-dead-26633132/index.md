@@ -1,6 +1,7 @@
 ---
 title: "De La Soul - De La Soul Is Dead"
-artist: "De La Soul"
+artist_name: "De La Soul"
+artist: "de-la-soul"
 album_name: "De La Soul Is Dead"
 date: 2023-05-16T10:59:28.000000Z
 release_date: "1991-05-14"

@@ -1,6 +1,7 @@
 ---
 title: "Pink Floyd - The Endless River"
-artist: "Pink Floyd"
+artist_name: "Pink Floyd"
+artist: "pink-floyd"
 album_name: "The Endless River"
 date: 2016-05-31T17:52:12.000000Z
 release_id: "6268164"

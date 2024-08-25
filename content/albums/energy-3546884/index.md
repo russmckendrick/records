@@ -1,6 +1,7 @@
 ---
 title: "Operation Ivy - Energy"
-artist: "Operation Ivy"
+artist_name: "Operation Ivy"
+artist: "operation-ivy"
 album_name: "Energy"
 date: 2019-06-17T17:32:16.000000Z
 release_id: "3546884"

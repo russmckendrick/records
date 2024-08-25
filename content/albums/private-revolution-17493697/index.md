@@ -1,6 +1,7 @@
 ---
 title: "World Party - Private Revolution"
-artist: "World Party"
+artist_name: "World Party"
+artist: "world-party"
 album_name: "Private Revolution"
 date: 2021-02-26T04:31:40.000000Z
 release_id: "17493697"

@@ -1,6 +1,7 @@
 ---
 title: "LCD Soundsystem - Electric Lady Sessions"
-artist: "LCD Soundsystem"
+artist_name: "LCD Soundsystem"
+artist: "lcd-soundsystem"
 album_name: "Electric Lady Sessions"
 date: 2019-02-08T14:21:18.000000Z
 release_id: "13185878"

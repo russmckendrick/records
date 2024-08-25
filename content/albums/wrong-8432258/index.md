@@ -1,6 +1,7 @@
 ---
 title: "Cleft - Wrong"
-artist: "Cleft"
+artist_name: "Cleft"
+artist: "cleft"
 album_name: "Wrong"
 date: 2016-05-21T11:02:07.000000Z
 release_id: "8432258"

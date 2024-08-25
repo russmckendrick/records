@@ -1,6 +1,7 @@
 ---
 title: "Michael Kiwanuka - Home Again"
-artist: "Michael Kiwanuka"
+artist_name: "Michael Kiwanuka"
+artist: "michael-kiwanuka"
 album_name: "Home Again"
 date: 2017-01-16T18:21:05.000000Z
 release_date: "2012-01-01"

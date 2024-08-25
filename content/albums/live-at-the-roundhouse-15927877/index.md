@@ -1,6 +1,7 @@
 ---
 title: "Nick Mason's Saucerful Of Secrets - Live At The Roundhouse"
-artist: "Nick Mason's Saucerful Of Secrets"
+artist_name: "Nick Mason's Saucerful Of Secrets"
+artist: "nick-mason-s-saucerful-of-secrets"
 album_name: "Live At The Roundhouse"
 date: 2020-09-18T11:08:36.000000Z
 release_id: "15927877"

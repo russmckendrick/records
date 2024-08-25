@@ -1,6 +1,7 @@
 ---
 title: "Depeche Mode - Some Great Reward"
-artist: "Depeche Mode"
+artist_name: "Depeche Mode"
+artist: "depeche-mode"
 album_name: "Some Great Reward"
 date: 2017-02-15T18:28:47.000000Z
 release_id: "8953147"

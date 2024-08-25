@@ -1,6 +1,7 @@
 ---
 title: "Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3"
-artist: "Coheed And Cambria"
+artist_name: "Coheed And Cambria"
+artist: "coheed-and-cambria"
 album_name: "In Keeping Secrets Of Silent Earth: 3"
 date: 2017-07-16T08:41:50.000000Z
 release_id: "6201565"
