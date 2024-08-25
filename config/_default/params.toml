@@ -5,7 +5,7 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
+description = "A home to document my record collection"
 images = ['images/logo.svg','images/site-feature-image.png']
 mainMenuLogo = "images/logo.svg"
 paginate = 18
