@@ -44,23 +44,15 @@
     color: var(--text-light);
 }
 
-/* Adding a smooth continuous spin effect with easing out when the hover ends */
-.navbar-brand {
-    display: inline-flex;
-    align-items: center;
-}
-
+/* Continuous spinning animation for the icon */
 .navbar-icon {
-    transition: transform 0.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+    animation: spin 4s linear infinite; /* Spins continuously */
+    transition: transform 0.3s ease-in-out; /* Smooth zoom on hover */
 }
 
+/* Zoom effect when the user hovers over the icon or the logo text */
 .navbar-brand:hover .navbar-icon {
-    animation: spin 1s linear infinite;
-}
-
-.navbar-brand:not(:hover) .navbar-icon {
-    animation: none;
-    transform: rotate(0deg); /* Ensures it returns to 0 degrees */
+    transform: scale(1.2); /* Scales the icon to 120% of its original size */
 }
 
 /* Keyframes for the spinning animation */
@@ -72,3 +64,30 @@
         transform: rotate(360deg);
     }
 }
+
+/* Hide text and adjust buttons for mobile devices */
+@media (max-width: 768px) {
+    .pagination .page-item .page-link span {
+      display: none;
+    }
+  
+    .pagination .page-item .page-link[aria-label="Previous"]::before {
+      content: "←";
+    }
+  
+    .pagination .page-item .page-link[aria-label="Next"]::after {
+      content: "→";
+    }
+  
+    .pagination .page-item .page-link[aria-label="First"]::before {
+      content: "<<";
+    }
+  
+    .pagination .page-item .page-link[aria-label="Last"]::after {
+      content: ">>";
+    }
+  
+    .pagination .page-link {
+      padding: 8px 12px;
+    }
+  }
