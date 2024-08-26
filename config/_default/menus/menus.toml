@@ -1,5 +1,5 @@
 [[main]]
-name = "Artists"
+name = "Artist"
 url = "/artist"
 weight = 10
 

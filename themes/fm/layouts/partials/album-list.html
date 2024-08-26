@@ -33,7 +33,7 @@
                         {{ if .Params.genres }}
                         {{ range .Params.genres }}
                         {{ $genreUrl := printf "/genres/%s/" (urlize .) }}
-                        <a href="{{ $genreUrl }}" class="badge rounded-pill text-bg-secondary text-light text-decoration-none">{{ . }}</a>
+                        <a href="{{ $genreUrl }}" class="badge rounded-pill text-bg-primary text-light text-decoration-none">{{ . }}</a>
                         {{ end }}
                         {{ else }}
                         <span class="badge text-bg-primary text-light">Unknown Genre</span>

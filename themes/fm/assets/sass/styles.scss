@@ -4,6 +4,7 @@
     --light-navy: #3d4255;
     --accent-grey: #cccccc;
     --text-light: #e0e0e0;
+    --light-accent: #e0e0e0;; /* Add a new variable for a lighter color */
 }
 
 .navbar {
@@ -24,6 +25,12 @@
 .navbar-nav .nav-link {
     color: rgba(224,224,224,0.8);
     transition: color 0.2s ease-in-out;
+}
+
+/* Add this block to set the active color */
+.navbar-nav .nav-link.active {
+    color: var(--light-accent); /* Use a lighter color for the active link */
+    font-weight: bold; /* Optional: Make the active link bold */
 }
 
 .navbar-nav .nav-link:hover,
