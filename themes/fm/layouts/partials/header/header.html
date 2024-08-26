@@ -10,11 +10,11 @@
       <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
         {{ if isset .Site.Params "mainmenulogo" }}
         <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="logo" width="30" height="24"
-          class="d-inline-block align-text-top">
+            class="d-inline-block align-text-top navbar-icon">
         {{ end }}
         {{ .Site.Title }}
       </a>
-
+      
       <!-- Menu Toggler -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

@@ -33,3 +33,10 @@ weight = 30
   url = "https://github.com/russmckendrick/records/"
   weight = 30
   title = "Visit the GitHub project"
+
+[[social]]
+  name = "About"
+  pre = "<i class='bi bi-person-circle'></i>"
+  url = "https://www.russ.social/"
+  weight = 40
+  title = "About me"

@@ -6,8 +6,8 @@
 # https://schema.org/Thing
 # https://schema.org/Article
 description = "A home to document my record collection"
-images = ['images/logo.svg','images/site-feature-image.png']
-mainMenuLogo = "images/logo.svg"
+images = ['images/record.svg','images/sticker-clear.png']
+mainMenuLogo = "images/record.svg"
 paginate = 18
 
 firstPageHeader = "Hello, my name is Russ"
