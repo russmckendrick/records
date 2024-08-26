@@ -10,6 +10,9 @@ images = ['images/logo.svg','images/site-feature-image.png']
 mainMenuLogo = "images/logo.svg"
 paginate = 18
 
+firstPageHeader = "Hello, my name is Russ"
+firstPageSubheader = "and this is my record collection, listed in the order I purchased them."
+
 # For favicons
 ## Chrome Browser
 themeColor = "#fff"

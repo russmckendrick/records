@@ -1,3 +1,18 @@
+{{ if eq .Paginator.PageNumber 1 }}
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <div class="jumbotron-content">
+            <h1>{{ .Site.Params.firstPageHeader }}</h1>
+            <p>{{ .Site.Params.firstPageSubheader }}</p>
+        </div>
+    </div>
+    <div class="img-container">
+        <img src="/images/sticker-clear.png" alt="Placeholder image">
+    </div>
+</div>
+{{ end }}
+
+
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
     {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "albums" ) .Site.Params.paginate }}
