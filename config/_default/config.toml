@@ -1,7 +1,7 @@
 baseURL = 'https://www.russ.fm/'
 title = "russFM"
 author = "Russ McKendrick"
-copyright = ""
+copyright = "<a class=\"text-muted text-decoration-none\" href=\"/\">🎧 russFM</a>"
 
 timeZone = 'Europe/London'
 theme = "fm"

@@ -25,7 +25,7 @@
 <div class="container my-5 px-4 mx-auto bg-light text-dark">
     <section class="mb-5">
         <div class="row row-cols-1 row-cols-lg-3 g-4">
-    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) }}
+    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) .Site.Params.paginate }}
     {{ range $index, $page := $paginator.Pages }}
     <div class="col">
         <div class="card h-100 bg-white shadow-sm rounded-3">

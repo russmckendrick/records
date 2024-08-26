@@ -40,3 +40,28 @@ weight = 30
   url = "https://www.russ.social/"
   weight = 40
   title = "About me"
+
+[[footer]]
+  name = "Random"
+  url = "/random/"
+  weight = 10
+  title = "Grab a random record"
+
+[[footer]]
+  name = "Random"
+  pre = "<i class='bi bi-shuffle'></i>"
+  url = "/random/"
+  weight = 10
+  title = "Grab a random record"
+
+[[footer]]
+  name = "Source"
+  url = "https://github.com/russmckendrick/records/"
+  weight = 30
+  title = "Visit the GitHub project"
+
+[[footer]]
+  name = "Links"
+  url = "https://www.russ.social/"
+  weight = 40
+  title = "About me"
