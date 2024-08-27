@@ -34,7 +34,7 @@ Genesis was the group's greatest commercial success at the time of release, beco
 9. It's Gonna Get Better
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/genesis-single/1544356705" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/genesis-remastered/267976201" >}}<br>
 
 
 
