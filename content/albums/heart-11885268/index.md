@@ -44,7 +44,7 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 11. Don't Be Afraid To Sing (4:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stars-heart-single/1728753590" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart/1361119894" >}}<br>
 
 
 ## Videos
