@@ -47,7 +47,7 @@ Dividing their woozy mid-‘80s output from their later work’s clean-lined con
 19. Thief
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bees/1569255970" >}}<br>
+{{< applemusic url="https://music.apple.com//gb/album/bees/1569255970" >}}<br>
 
 
 ## Videos

@@ -45,7 +45,7 @@ styles: ["Punk"]
 12. I Feel Alright
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beautiful-damned/1308645364" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/damned-damned-damned/1439808377" >}}<br>
 
 
 ## Videos

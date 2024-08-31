@@ -39,7 +39,7 @@ styles: ["Krautrock"]
 13. KD (1:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autoamerican-bonus-tracks-edition-2001-remaster/724402839" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/neu/371435236" >}}<br>
 
 
 ## Videos

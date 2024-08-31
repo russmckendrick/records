@@ -36,7 +36,7 @@ styles: ["Synth-pop"]
 10. Perfect Circle (4:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/luh-feat-pop-a-bean-remix-single/1620990649" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/two/1605798448" >}}<br>
 
 
 ## Videos

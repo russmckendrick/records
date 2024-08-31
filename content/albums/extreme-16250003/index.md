@@ -4,7 +4,6 @@ artist_name: "Extreme"
 artist: "extreme"
 album_name: "Extreme"
 date: 2021-03-11T10:22:48.000000Z
-release_date: "1970-09-18"
 release_id: "16250003"
 slug: "extreme-16250003"
 hideSummary: true
@@ -19,9 +18,10 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
-        
-        
+Extreme is the first studio album by the American glam metal band Extreme, released in 1989 by A&M Records.  The album reached No. 80 on the Billboard 200, and produced the minor Mainstream Rock hit "Kid Ego". The single "Play with Me" is featured on the soundtrack for the comedy film Bill & Ted's Excellent Adventure, an opening episode of season 4 of Stranger Things, and the 2007 rhythm game, Guitar Hero Encore: Rocks the 80s.
+
+
+    
     
 
 
@@ -38,7 +38,7 @@ Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face a
 10. Rock A Bye Bye (5:55)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/extreme/1443480877" >}}<br>
 
 
 ## Videos

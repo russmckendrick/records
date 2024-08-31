@@ -47,7 +47,7 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 12. The Stick (Single Edit) (3:06)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/time-flies-1994-2009/1517527208" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-time-expanded-edition-2021-remaster/1572861686" >}}<br>
 
 
 ## Videos
