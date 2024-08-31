@@ -6,6 +6,6 @@ Collins took over as lead singer, and the group released A Trick of the Tail and
 With between 100 million and 150 million albums sold worldwide, Genesis are one of the world's best-selling music artists. Their discography includes 15 studio and six live albums. They have won numerous awards and have inspired a number of tribute bands recreating Genesis shows from various stages of the band's career. In 2010, Genesis were inducted into the Rock and Roll Hall of Fame."
 slug: "genesis"
 image: "genesis.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/genesis/95966"
 wikipedia_url: "https://en.wikipedia.org/wiki/Genesis_(band)"
 ---

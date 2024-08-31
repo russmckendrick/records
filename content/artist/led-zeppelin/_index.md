@@ -6,6 +6,6 @@ Page wrote most of Led Zeppelin's music, particularly early in their career, whi
 Led Zeppelin are one of the best-selling music artists of all time; their total record sales are estimated to be between 200 and 300 million units worldwide. They achieved eight consecutive UK number-one albums and six number-one albums on the US Billboard 200, with five of their albums certified Diamond in the US. Rolling Stone magazine described them as \"the heaviest band of all time\", \"the biggest band of the Seventies\", and \"unquestionably one of the most enduring bands in rock history\". They were inducted into the Rock and Roll Hall of Fame in 1995; the museum's biography of the band states that they were \"as influential\" during the 1970s as the Beatles were during the 1960s."
 slug: "led-zeppelin"
 image: "led-zeppelin.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/led-zeppelin/994656"
 wikipedia_url: "https://en.wikipedia.org/wiki/Led_Zeppelin"
 ---

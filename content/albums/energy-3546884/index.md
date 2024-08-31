@@ -50,7 +50,7 @@ Energy is the only studio album by the American ska punk band Operation Ivy. It 
 19. Missionary (2:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/summer-operation/1660380490" >}}<br>
+{{< applemusic url="hhttps://music.apple.com/gb/album/operation-ivy-2007-remaster/1485043761" >}}<br>
 
 
 ## Videos

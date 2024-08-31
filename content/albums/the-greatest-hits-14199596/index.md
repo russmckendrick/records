@@ -62,7 +62,7 @@ styles: ["Hard Rock"]
 28. Your Time Is Gonna Come (4:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/la-thunder-covers-the-greatest-hits-of-led-zeppelin-box-set/991469744" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-thunder/693200360" >}}<br>
 
 
 ## Videos

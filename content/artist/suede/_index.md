@@ -5,6 +5,6 @@ The recording sessions for their second album, Dog Man Star, were fraught with d
 After much speculation Suede reformed in 2010 for a series of concerts. Three years on from their reunion gigs, Suede released their sixth album, Bloodsports. It was well received by critics and returned the band to the top ten in the UK. Their seventh album, Night Thoughts, followed in 2016 and became an even bigger critical and commercial success than its predecessor. Their eighth studio album, The Blue Hour, was released in September 2018. It became the group's first top five record since Head Music. Their ninth and most recent studio album, Autofiction, was released in September 2022."
 slug: "suede"
 image: "suede.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/suede/31209505"
 wikipedia_url: "https://en.wikipedia.org/wiki/Suede_(band)"
 ---

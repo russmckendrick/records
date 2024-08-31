@@ -49,7 +49,7 @@ The album is similar in style, both musically and lyrically, to the Pixies' last
 15. Don't Ya Rile 'Em
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bonnie-clyde-original-broadway-cast-recording/1664559020" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/frank-black/1450116872" >}}<br>
 
 
 ## Videos

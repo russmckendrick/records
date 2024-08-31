@@ -5,6 +5,6 @@ After several self-released records and cassettes, the band signed to Will Recor
 Grandaddy released four studio albums before splitting in 2006, with band members going on to solo careers and other projects. Grandaddy reformed in 2012, made a number of live appearances and released its fifth studio album, Last Place, in March 2017."
 slug: "grandaddy"
 image: "grandaddy.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/grandaddy/2931898"
 wikipedia_url: "https://en.wikipedia.org/wiki/Grandaddy"
 ---

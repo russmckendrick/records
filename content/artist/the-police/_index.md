@@ -5,6 +5,6 @@ Their 1978 debut album, Outlandos d'Amour, reached No. 6 on the UK Albums Chart 
 Their final studio album, Synchronicity , was No. 1 in the UK, Canada, Australia, Italy and the US, selling over 8 million copies in the US. Its lead single, \"Every Breath You Take\", became their fifth UK number one, and only US number one. During this time, the band were considered one of the leaders of the Second British Invasion of the US; in 1983 Rolling Stone labelled them \"the first British New Wave act to break through in America on a grand scale, and possibly the biggest band in the world.\" The Police disbanded in 1986, but reunited in early 2007 for a one-off world tour that ended in August 2008. They were the world's highest-earning musicians in 2008, due to their reunion tour, which was the highest-grossing tour of 2007.The Police have sold over 75 million records, making them one of the best-selling bands of all time. The band won a number of music awards, including six Grammy Awards, two Brit Awards—winning Best British Group once, and an MTV Video Music Award. In 2003, they were inducted into the Rock and Roll Hall of Fame. Four of their five studio albums appeared on Rolling Stone's list of the \"500 Greatest Albums of All Time\". The band were included among both Rolling Stone's and VH1's lists of the \"100 Greatest Artists of All Time\"."
 slug: "the-police"
 image: "the-police.jpg"
-apple_music_artist_url: "None"
+apple_music_artist_url: "https://music.apple.com/gb/artist/the-police/93818"
 wikipedia_url: "https://en.wikipedia.org/wiki/The_Police"
 ---
