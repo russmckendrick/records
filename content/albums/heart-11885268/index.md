@@ -44,16 +44,17 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 11. Don't Be Afraid To Sing (4:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heart/1361119894" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stars-heart-single/1728753590" >}}<br>
 
 
 ## Videos
-### Stars - Elevator Love Letter
-{{< youtube id="xU7KGcrD_gc" title="Stars - Elevator Love Letter" >}}<br>
+### Stars - Heart (Full Album)
+{{< youtube id="q39Ce3zDScI" title="Stars - Heart (Full Album)" >}}<br>
 ### More Videos
 
-- [Stars - Heart (Full Album)](https://www.youtube.com/watch?v=q39Ce3zDScI)
+- [Stars - Elevator Love Letter](https://www.youtube.com/watch?v=xU7KGcrD_gc)
 - [Stars - Elevator Love Letter - Highbury Garage London 2012](https://www.youtube.com/watch?v=ziJ11tuiMuI)
+- [Stars - Heart (Full Album)](https://www.youtube.com/watch?v=q39Ce3zDScI)
 - [Stars - Heart](https://www.youtube.com/watch?v=aucFYXskEok)
 
 ## Release Images

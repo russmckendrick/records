@@ -22,7 +22,11 @@ genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]
 ---
 
-Heart is the eighth studio album by American rock band Heart, released on June 21, 1985, by Capitol Records. The album continued the band's transition into mainstream rock, a genre that yielded the band its greatest commercial success. Marking the band's Capitol Records debut, it became Heart's only album to top the US Billboard 200 to date. The album was eventually certified quintuple platinum by the Recording Industry Association of America (RIAA)—in contrast to Heart's previous two releases, Private Audition and Passionworks, which remain uncertified—proving that adopting a glam metal direction helped resurrect the band.The album yielded the band's first number-one single, "These Dreams", along with four other singles: "What About Love", "Never", "Nothin' at All", and "If Looks Could Kill", with the first four singles reaching the top 10 of the Billboard Hot 100. In 1986, the album was nominated for a Grammy Award for Best Rock Performance by a Duo or Group with Vocal.
+Heart is the eighth studio album by American rock band Heart, released on June 21, 1985, by Capitol Records. The album continued the band's transition into mainstream rock, a genre that yielded the band its greatest commercial success. Marking the band's Capitol Records debut, it became Heart's only album to top the US Billboard 200 to date. The album was eventually certified quintuple platinum by the Recording Industry Association of America (RIAA)—in contrast to Heart's previous two releases, Private Audition and Passionworks, which remain uncertified—proving that adopting a glam metal direction helped resurrect the band.
+The album yielded the band's first number-one single, "These Dreams", along with four other singles: "What About Love", "Never", "Nothin' at All", and "If Looks Could Kill", with the first four singles reaching the top 10 of the Billboard Hot 100. At the 28th Annual Grammy Awards, the album was nominated for a Grammy Award for Best Rock Performance by a Duo or Group with Vocal.
+In a 2022 interview, Ann Wilson stated that the album was self-titled because the band "didn’t write a whole lot of the songs on there, so that aspect of closeness with the work was gone and it was much harder for us to come up with a title that was real."
+
+
     
     
 
@@ -40,29 +44,27 @@ Heart is the eighth studio album by American rock band Heart, released on June 2
 10. Shell Shock (3:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heart/1441162196" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart/1401821250" >}}<br>
 
 
 ## Videos
-### CD / Heart – Heart / 1985
-{{< youtube id="SR_mWAbNiYM" title="CD / Heart – Heart / 1985" >}}<br>
+### Heart - If Looks Could Kill (Live 1990)
+{{< youtube id="iR0fIUu0rWU" title="Heart - If Looks Could Kill (Live 1990)" >}}<br>
 ### More Videos
 
-- [Heart - Never (Official Music Video)](https://www.youtube.com/watch?v=zWzy5q_M5Ho)
+- [LP / Heart – Heart / 1985](https://www.youtube.com/watch?v=6mLyuKH24VQ)
+- [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
+- [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
 - [Heart - If looks could kill [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=1qfc5e3r65Q)
+- [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - What about love [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=p8YwufAbiWA)
 - [Heart - Never [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=vLRHWYP78D4)
 - [Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Pt_3uddGa4g)
-- [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
 - [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
 - [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)
 - [Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=lQmQqz4nxmU)
 - [Heart - What he don't know [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=VsMeGnSMotk)
 - [Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=zoAuNNbD5fU)
-- [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
-- [Heart - What About Love?](https://www.youtube.com/watch?v=KE5GGMhmo-M)
-- [Heart - These Dreams](https://www.youtube.com/watch?v=41P8UxneDJE)
-- [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
 
 ## Release Images
 {{< imageGrid >}}
