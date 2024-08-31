@@ -26,71 +26,11 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-In early 2021, Tom and Ed Russell were working on a mix for the iconic London club fabric. They knew they wanted a particular tune included, but simply couldn’t find the track anywhere or remember its name. Faced with a deadline and an endless dig through disc logs, the pair changed their approach: They would themselves write the song they could hear. The track became June 2021 single “So U Kno”—an insidious, addictive banger that’s a cornerstone of the Russells’ debut album as Overmono.
+Alongside acts like Happy Mondays and the Smiths, Liverpool’s succinctly, yet perfectly named the La’s are amongst the definitive British rock acts of the late ‘80s. At a time when British rock was still reeling from the colossal impact of the punk revolution of the late ‘70s, the La’s emerged with a set of sharply composed, self- confident pop classics on their 1987 debut. The sweetly melodic, Velvet Underground-aping “There She Goes” is in many ways the band’s defining moment, but from the woozy faux-vaudeville of “Freedom Song” to the frantic mod outrage of “I Can’t Sleep”.
 
-It’s an anecdote that reveals a great deal about the brothers’ practical mindset and prodigious abilities. Veterans of the UK dance scene (Tom, the elder Russell, released techno as Truss, while Ed put out drum ’n’ bass as Tessela), the Welsh-raised producers combine for something special here. <i>Good Lies</i> is an extraordinary electronic record: a genre-defying set glistening with purpose, poise and dance-floor delirium. 
+The La’s is jam packed with carefully crafted radio-ready pop leavened by literate songwriting and an impressively fierce punk bite. One of the few out-and-out masterpieces to emerge from England in the late ‘80s, and an important influence on the subsequent Britpop movement of the early ‘90s
 
-“The main anchor for the album isn’t genre-based, it’s an emotional place,” Ed tells Apple Music. “It’s a particular emotional sense that we try and achieve with a lot of our music—depending on what mood you’re in on that day, you could interpret that state in a few different ways.” Tom is able to pinpoint the origins to that “emotional ambiguity”. “I think our formative experiences of partying in the Welsh countryside had a massive impact on us,” he says. “When you have the sun going down and the sun coming up, and those emotions of somewhere between euphoria, slight sadness that the night’s coming an end but a real sense of optimism that you’re going into a new day. These sorts of weird crossover points are what we try and find in how we put our music together.” Read on for the brothers’ track-by-track guide.
-
-<b>“Feelings Plain”</b> 
-Ed Russell: “It was originally going to close the album. We wanted to see if we could make a sort of plainsong piece of music—13th-century church music, where someone would be singing one note over and over and then someone else joins in, and everyone’s singing these cyclical things. But when it all comes together, they start cycling differently and you get this big wash of voices. But we wanted to try and do a sort of R&B take on plainsong—it was one of the songs that had a more conceptual start to it.”
-Tom Russell: “It was the furthest we’d gotten in terms of direct new avenues that we might explore. It’s a bold statement of intent to start.” 
-
-<b>“Arla Fearn”</b> 
-ER: “When did you first write this bassline, Tom?”
-TR: “About 1976. No, I think it was about 15 years ago.” 
-ER: “I would tell Tom it’s the best thing he’d ever written. It’s got so much mood and character and just sounds so satisfying to me.” 
-TR: “I know Ed meant it as a compliment but I kept on taking it as a bit of a diss really. But I finally gave in.”
-ER: “We spent ages processing the drums and then Tom sampled the Geovarn vocal and came up with the insane outro. The track is at 135 BPM, and by the end it’s at 170 BPM, but you never really notice it’s changed—it just flips the vocal into a different spot. We really wanted the album to be a place where tracks would often morph into something completely different. That it’s bubbling over with ideas.” 
-
-<b>“Good Lies”</b>
-ER: “We went through a phase of trying not to sample every Smerz song because they just had so many good hooks. They’re incredible at writing these top lines that sound straight off early-2000s garage records, but not in a pastiche way. We had the vocal from [2018 Smerz track] “No harm” and spent a lot of time chopping it into the phrasing we wanted and creating a hook out of this little section that had jumped out at us. The demo for the instrumental then came together in a day, but there was an 18-month, almost two-year period from writing the demo to coming back and starting to really chip away at it.” 
-
-<b>“Good Lies (Outro)”</b>
-TR: “When we were writing the ‘Good Lies’ instrumental, we thought we’d see if we could flip it and turn the vibe on its head into something moodier. It’s always going back to that ambiguity with us. There’s something of that in the <i>Good Lies</i> title. What constitutes a good lie?” 
-
-<b>“Walk Thru Water” (feat. St. Panther)</b>
-TR: “Ed was at my studio in February [2022], and we were battening down the hatches for Storm Eunice.”
-ER: “It was this quite nice feeling of, ‘All right, there’s a storm coming, we’ve got loads of snacks and a few drinks, the place to ourselves, and we can’t go anywhere.’ Tom had written these really beautiful chords and I’d kept saying I wanted to do something with them. We got really stoned while the rain was coming down, listening to these chords, and we came across the St. Panther vocal.”
-TR: “I then started doing the beat on the Pulsar—which is a drum machine that’s quite difficult to tame but on certain things it just works beautifully.” 
-
-<b>“Cold Blooded”</b> 
-TR: “This started out as something quite different. It dawned on us that we’d written this massive IDM tune.”
-ER: “It was a bit too nice, wasn’t it?” 
-TR: “It was this late-’90s breakdance thing—not really the vibe we should be going for.”
-ER: “I had this Kindora sample that I’d wanted to use for ages, and then Tom sent me this slowed-down version of ‘Cold Blooded’ with the new drums and I realised it’d be fucking killer. It then became a month of last-minute adjustments, which we sometimes get ourselves into a bit of a hole with. Tweaking everything until the last.” 
-
-<b>“Skulled”</b>
-ER: “We had the Kelly Erez sample put away into our sample folder. And then we built a drum machine—a copy of a ’70s drum machine called the Syncussion, made by Pearl, the drum kit manufacturer. It [the Syncussion] was meant to sound like a normal drum kit, and it sounds so far away from real drums it’s insane. We spent a couple of weeks trying to make our version sound like we’d soldered it not quite right. It has this weird, sort of dry, alien, ’80s vibe to it. Like with all our stuff, it’s processed so heavily.”
-TR: “Ed has come up with this mad compression chain, which you can basically put any sort of drums into and you get this massive wall of noise.”
-ER: “I said earlier the best thing Tom has written was the bassline on ‘Arla Fearn’, but I’ve changed my mind now: It’s the piano outro to ‘Skulled’. We both loved the idea of the song ending like a classic ballad—a Céline Dion tune.” 
-
-<b>“Sugarushhh”</b> 
-TR: “We liked the idea of trying to shoehorn in a screaming 303 to the album somewhere.” 
-ER: “Tom’s good at doing these quite irregular things that you don’t immediately notice. This, if you actually count it out, is in some weird time signature and it’s cycling every nine bars. It was also really important that we had this abrasive, aggressive 303 line being offset completely with a really beautiful vocal.”
-
-<b>“Calon”</b>
-ER: “Tom played me the first iteration of this in the back of a van on the way to a festival in Minehead. We’ve sampled Joe Trufant a few times before and we liked the idea of there being a few familiar voices on the album.” 
-TR: “We then hired a studio in Ibiza and Ed had the idea of making the beat much slower. It became this big, slowed-down house tune—it dropped to something like 110 BPM.”
-ER: “We were in a US club sound-checking and played through some tunes from the album. Hearing it on the club system we were like, ‘Fuck me!’ It’s this sneaky banger.” 
-
-<b>“Is U”</b> 
-ER: “We’ve both been massive Tirzah fans since the start, and one day the ‘All I want is you’ line from ‘Gladly’ just jumped out of the speaker at us. We then spent ages trying to make the beat on this mono machine we have, which has all these really shit ’80s drum samples. We just mangled them until we had the beat, and then chopped up the vocal to get what we felt was a really strong and more confrontational delivery. Tom then put these lush chords in the breakdown and it opens the track up, like the sun coming out from behind a cloud.” 
-TR: “It’s amazing when a track starts to take on a life of its own. Playing this out and seeing the reaction gives me goosebumps every time.” 
-
-<b>“Vermonly”</b>
-ER: “A lot of our tracks will be written on just one piece of gear and we see what you can do with it. I had bought Tom a synth for his birthday, but when I gave it to him he said he wasn’t going to be in the studio for a few days, so I asked if I could take the synth I had just given him. I sent him a really rough 16-bar loop with the main melodic ideas, and he did the rest, really.” 
-TR: “Tracks like this are really important to us. They might get lost on an EP. It’s not always about writing dance-floor bangers.”
-
-<b>“So U Kno”</b>
-ER: “We were doing this mix for fabric and we both knew we wanted a very particular tune in the mix but couldn’t find it. So we basically just thought, ‘Fuck it, it’ll be quicker to write something ourselves.’ I had a chopped-up vocal and a rough beat going, played it to Tom, who went straight over to a Jupiter-6 synth and immediately played the bassline before doing the same with the chords.” 
-
-<b>“Calling Out”</b>
-TR: “Ed had suggested to try and sample something by slowthai and I managed to find this little [section] I really liked from quite an obscure track called ‘Dead Leaves’. I loved the line ‘I’m like the sun, I rise up and then gone.’ Then we combined it with a CASISDEAD and d’Eon sample and it really started to make sense. I have a tendency to overcomplicate things, but Ed is often able to say, ‘We don’t need that’, or ‘Change a snare from there to there’. A tiny idea or decision can make such a huge difference.”
-ER: “I remember when Tom sent me the chords for the end and I felt like it reminded me of old Radiohead—the perfect way to close the album.”
-    
-    
-
+The La’s is a perfect wonder.
 
 ## Tracklisting
 1. Son Of A Gun
@@ -107,7 +47,7 @@ ER: “I remember when Tom sent me the chords for the end and I felt like it rem
 12. Looking Glass
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/good-lies/1659656223" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/the-las/1444167004" >}}<br>
 
 
 ## Videos
