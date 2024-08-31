@@ -41,7 +41,7 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 10. Living In A Box (Reprise: Full 12" Version) (3:10)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-living-in-a-box/1629177912" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/living-in-a-box/1629182004" >}}<br>
 
 
 ## Videos

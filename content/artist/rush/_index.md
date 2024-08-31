@@ -5,6 +5,6 @@ Rush achieved commercial success in the 1970s with Fly by Night , 2112 , A Farew
 As of 2022, Rush ranks 84th in the U.S. with sales of 26 million albums and industry sources estimate their total worldwide album sales at over 42 million. Rush has been awarded 14 platinum and 3 multi-platinum albums in the US plus 17 platinum albums in Canada. Rush was nominated for seven Grammy Awards, won several Juno Awards, and won an International Achievement Award at the 2009 SOCAN Awards. The band was inducted into the Canadian Music Hall of Fame in 1994 and the Rock and Roll Hall of Fame in 2013."
 slug: "rush"
 image: "rush.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/rush/50526"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Rush_(band)"
 ---

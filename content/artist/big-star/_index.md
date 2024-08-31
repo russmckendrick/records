@@ -7,6 +7,6 @@ During the group's hiatus in the 1980s, the Big Star discography drew renewed at
 Since December 2010, several surviving members have appeared in a series of live tribute performances of the album Third/Sister Lovers, under the billing \"Big Star's Third\". As of 2017, that project has remained active."
 slug: "big-star"
 image: "big-star.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/big-star/2351764"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Big_Star"
 ---

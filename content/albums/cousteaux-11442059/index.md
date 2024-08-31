@@ -32,13 +32,15 @@ styles: ["Pop Rock"]
 10. F**king In Joy And Sorrow (5:15)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/waiting-for-cousteau/1027736044" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/cousteaux/1262552397" >}}<br>
 
 
 ## Videos
 ### CousteauX - The Innermost Light
 {{< youtube id="G7MOMU0K5c4" title="CousteauX - The Innermost Light" >}}<br>
+### More Videos
 
+- [CousteauX - The Innermost Light](https://www.youtube.com/watch?v=G7MOMU0K5c4)
 
 ## Release Images
 {{< imageGrid >}}

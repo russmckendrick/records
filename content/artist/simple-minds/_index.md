@@ -6,6 +6,6 @@ In 2014, Simple Minds were awarded the Q Inspiration Award for their contributio
 The nucleus of Simple Minds consists of the two remaining original members, Jim Kerr and Charlie Burchill . The other current band members are Ged Grimes , Cherisse Osei , Sarah Brown , Gordy Goudie and Berenice Scott . Notable former members include Mick MacNeil , Derek Forbes , Brian McGee & Mel Gaynor ."
 slug: "simple-minds"
 image: "simple-minds.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/simple-minds/645533"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Simple_Minds"
 ---

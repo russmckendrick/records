@@ -4,6 +4,6 @@ summary: "Pearl Jam is an American rock band formed in Seattle, Washington, in 1
 One of the key bands in the grunge movement of the early 1990s, Pearl Jam's members often shunned popular music industry practices such as making music videos or participating in interviews. The band also sued Ticketmaster, claiming it had monopolized the concert-ticket market. In 2006, Rolling Stone described the band as having \"spent much of the past decade deliberately tearing apart their own fame.\"Pearl Jam had sold more than 85 million albums worldwide by 2018, including nearly 32 million albums in the United States by 2012, making them one of the best-selling bands of all time. Pearl Jam was inducted into the Rock and Roll Hall of Fame in 2017 in its first year of eligibility. They were ranked eighth in a readers' poll by Rolling Stone magazine in its \"Top Ten Live Acts of All Time\" issue. Throughout its career, the band has also promoted wider social and political issues, from pro-abortion rights sentiments to opposition to George W. Bush's presidency. Vedder acts as the band's spokesman on these issues."
 slug: "pearl-jam"
 image: "pearl-jam.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/pearl-jam/467464"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Pearl_Jam"
 ---

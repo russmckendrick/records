@@ -40,7 +40,7 @@ Heart is the eighth studio album by American rock band Heart, released on June 2
 10. Shell Shock (3:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/disney-sing-your-heart-out/1437515787" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart/1441162196" >}}<br>
 
 
 ## Videos

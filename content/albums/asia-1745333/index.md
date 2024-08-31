@@ -40,7 +40,7 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 9. Here Comes The Feeling (5:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/turn/328947264" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/asia/1421430448" >}}<br>
 
 
 ## Videos

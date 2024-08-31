@@ -20,7 +20,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-Heart is the eighth studio album by American rock band Heart, released on June 21, 1985, by Capitol Records. The album continued the band's transition into mainstream rock, a genre that yielded the band its greatest commercial success. Marking the band's Capitol Records debut, it became Heart's only album to top the US Billboard 200 to date. The album was eventually certified quintuple platinum by the Recording Industry Association of America (RIAA)—in contrast to Heart's previous two releases, Private Audition and Passionworks, which remain uncertified—proving that adopting a glam metal direction helped resurrect the band.The album yielded the band's first number-one single, "These Dreams", along with four other singles: "What About Love", "Never", "Nothin' at All", and "If Looks Could Kill", with the first four singles reaching the top 10 of the Billboard Hot 100. In 1986, the album was nominated for a Grammy Award for Best Rock Performance by a Duo or Group with Vocal.
+
     
     
 
@@ -38,7 +38,7 @@ Heart is the eighth studio album by American rock band Heart, released on June 2
 10. Rock And Roll
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/disney-sing-your-heart-out/1437515787" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-live/192690716" >}}<br>
 
 
 ## Videos
@@ -57,7 +57,6 @@ Heart is the eighth studio album by American rock band Heart, released on June 2
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Heart_(Heart_album) |
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | EPC 84829 |

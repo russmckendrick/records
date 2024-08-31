@@ -28,7 +28,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 4. Thief (3:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-a-memory-feat-elohim-mansions-on-the-moon-remixes-ep/1442813569" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/one-ep/1584010231" >}}<br>
 
 
 ## Videos

@@ -5,6 +5,6 @@ Originally active from 1985 to 1996, Crowded House had consistent commercial and
 As of 2021, Crowded House have sold over 15 million albums worldwide. In November 2016, the band was inducted into the ARIA Hall of Fame."
 slug: "crowded-house"
 image: "crowded-house.jpg"
-apple_music_artist_url: "https://music.apple.com/gb/artist/crowded-house/490131"
+apple_music_artist_url: "None"
 wikipedia_url: "https://en.wikipedia.org/wiki/Crowded_House"
 ---
