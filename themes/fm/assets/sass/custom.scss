@@ -145,10 +145,39 @@ a /*.feather*/ {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
-}
+    background-color: #343a40; /* Adjust background color to match the overall theme */
+  }
 
-@media (max-width: 782px) {
+  /* Adjustments for medium and small screens */
+  @media (max-width: 992px) {
     .jumbotron-background {
         background-image: none;
     }
-}
+    .text-container {
+        text-align: center;
+        padding: 2rem 1rem;
+    }
+    .text-container h1 {
+        font-size: 2rem;
+    }
+    .text-container p {
+        font-size: 1.25rem;
+    }
+    .btn {
+        margin-top: 1rem;
+        width: 100%;
+    }
+  }
+
+  /* Adjustments for screens between 782px and 992px */
+  @media (min-width: 782px) and (max-width: 992px) {
+    .jumbotron-background {
+        flex-direction: column;
+        align-items: center;
+    }
+    .text-container {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+  }

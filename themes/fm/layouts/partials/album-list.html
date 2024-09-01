@@ -3,8 +3,8 @@
 {{ if eq .Paginator.PageNumber 1 }}
 <a rel="me" href="https://social.mckendrick.io/@russ"></a>
 <div class="container my-5">
-    <div class="bg-primary text-light rounded-3 d-flex align-items-center jumbotron-background">
-        <div class="w-75 p-5">
+    <div class="bg-primary text-light rounded-3 d-flex flex-column-reverse flex-md-column flex-lg-row align-items-center jumbotron-background">
+        <div class="text-container p-5">
             <h1 class="display-4">{{ .Site.Params.firstPageHeader }}</h1>
             <p class="lead">{{ .Site.Params.firstPageSubheader }}</p>
             <a class="btn btn-secondary btn-lg" href="/random/" role="button"><i class="bi bi-shuffle"></i> Grab a random album</a>
