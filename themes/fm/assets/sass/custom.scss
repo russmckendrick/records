@@ -70,58 +70,6 @@ a /*.feather*/ {
         fill: $github-black;
     }
 }
-.jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-    background-color: #e9ecef;
-    border-radius: .3rem;
-    position: relative;
-    overflow: hidden;
-}
-.jumbotron-content {
-    position: relative;
-    z-index: 1;
-}
-.img-container {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 40%;
-    height: 100%;
-    overflow: hidden;
-}
-.img-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: right middle;
-}
-@media (max-width: 576px) {
-    .img-container {
-        display: none;
-    }
-    .jumbotron-content {
-        max-width: 100%;
-    }
-}
-@media (min-width: 577px) and (max-width: 992px) {
-    .img-container {
-        width: 30%;
-        height: 100%;
-    }
-    .jumbotron-content {
-        max-width: 70%;
-    }
-}
-@media (min-width: 993px) {
-    .img-container {
-        width: 25%;
-        height: 100%;
-    }
-    .jumbotron-content {
-        max-width: 60%;
-    }
-}
 
 .flip-card {
     background-color: transparent;
@@ -190,3 +138,17 @@ a /*.feather*/ {
   .flip-card:hover .hover-prompt {
     opacity: 0;
   }
+
+
+  .jumbotron-background {
+    background-image: url('https://www.russ.fm/images/sticker-clear.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+@media (max-width: 782px) {
+    .jumbotron-background {
+        background-image: none;
+    }
+}
