@@ -25,12 +25,6 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-This is a discography for the rock band Crowded House. As of 2021 Crowded House have sold over 15 million albums worldwide.
-This discography relates to releases by Crowded House only. See Neil Finn's discography, Tim Finn's discography, Split Enz discography and The Finn Brothers' discography for other related works.
-    
-    
-
-
 ## Tracklisting
 1. Mean To Me
 2. World Where You Live
@@ -44,7 +38,7 @@ This discography relates to releases by Crowded House only. See Neil Finn's disc
 10. That's What I Call Love
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/crowded-house/1440822690" >}}<br>
 
 
 ## Videos
