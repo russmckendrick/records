@@ -46,7 +46,7 @@ The record cover notably featured a close-up photo of the pelvic region of a wom
 11. Descending (5:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/us/album/amorica/1443919777" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>
 
 
 ## Videos

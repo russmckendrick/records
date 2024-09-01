@@ -1,0 +1,10 @@
+---
+title: "Ween"
+summary: "Ween is an American rock band from New Hope, Pennsylvania, formed in 1984 by Aaron Freeman and Mickey Melchiondo, better known by their respective stage names, Gene and Dean. Generally categorized as an alternative rock band, the band are known for their irreverent, highly eclectic catalog of songs inspired by funk, soul, country, gospel, prog, psychedelia, R&B, heavy metal, and punk rock.
+Ween self-released several cassette albums from their formation until 1989. Afterward, they put out three officially-released lo-fi albums: GodWeenSatan: The Oneness ; The Pod ; and Pure Guava . For Pure Guava, the band signed with major label Elektra Records. The album spawned the single \"Push th' Little Daisies\", which was a chart hit in Australia and the United States. Under Elektra, the band released four professionally-recorded albums: Chocolate and Cheese ; 12 Golden Country Greats ; The Mollusk ; and White Pepper . They later returned to independent labels for their albums Quebec and La Cucaracha . After a 28-year run, Freeman quit the band in 2012, citing the need to focus on his alcohol and drug addiction issues. Ween reformed in late 2015 and toured extensively with no stated plans to release new recorded material.
+For their first ten years of existence, Ween performed live as a duo backed by a Digital Audio Tape. With the release of Chocolate and Cheese, they expanded to a four-piece act, later adding a fifth member as well. Their live members include Claude Coleman Jr., Dave Dreiwitz, and Glenn McClelland. Ween also collaborated extensively with Andrew Weiss, who joined the band as a bassist in 1989 and also produced five of their nine studio albums. Despite never receiving much mainstream recognition, Ween developed a large, devoted cult following and garnered critical acclaim."
+slug: "ween"
+image: "ween.jpg"
+apple_music_artist_url: "https://music.apple.com/gb/artist/ween/149256"
+wikipedia_url: "https://en.wikipedia.org/wiki/Ween"
+---
