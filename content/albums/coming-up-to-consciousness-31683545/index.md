@@ -21,25 +21,18 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-
-
 ## Tracklisting
-1. A
-2. Dig Till You Die
-3. Betrayal
-4. The Gallows
-5. Useless Animal
-6. B
-7. Worship
-8. Bend The Earth
-9. Lifeless Creature
-10. As We Disappear
+1. Dig Till You Die
+2. Betrayal
+3. The Gallows
+4. Useless Animal
+5. Worship
+6. Bend The Earth
+7. Lifeless Creature
+8.  As We Disappear
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-up-to-consciousness/1751003081" >}}<br>
-
-
-
 
 ## Release Images
 {{< imageGrid >}}
