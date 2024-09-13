@@ -10,7 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
             displayStats(stats);
             createTopArtistsChart(stats.topArtists);
             createAlbumsByYearChart(stats.yearData);
-            displayRecentAdditions(albumData);  // Display the most recent additions
+            createGenresChart(stats.genreData);
+            createStylesChart(stats.styleData);  // Added Styles Chart
+            displayRecentAdditions(albumData);  
         })
         .catch(error => {
             console.error('Error loading album data:', error);
@@ -18,10 +20,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 });
 
+
 function calculateStats(albumData) {
     const artistCounts = {};
     const yearCounts = {};
     const decadeCounts = {};
+    const genreCounts = {};
+    const styleCounts = {};
     let totalAlbums = 0;
     const uniqueArtists = new Set();
 
@@ -34,10 +39,24 @@ function calculateStats(albumData) {
             artistCounts[album.artist] = (artistCounts[album.artist] || 0) + 1;
         }
 
+        // Process genres
+        if (album.genres) {
+            album.genres.forEach(genre => {
+                genreCounts[genre] = (genreCounts[genre] || 0) + 1;
+            });
+        }
+
+        // Process styles
+        if (album.styles) {
+            album.styles.forEach(style => {
+                styleCounts[style] = (styleCounts[style] || 0) + 1;
+            });
+        }
+
         // Process album year with validation
         if (album.date && !isNaN(new Date(album.date))) {
             const year = new Date(album.date).getFullYear();
-            if (year > 1900 && year <= new Date().getFullYear()) {  // Validate year range
+            if (year > 1900 && year <= new Date().getFullYear()) {
                 yearCounts[year] = (yearCounts[year] || 0) + 1;
 
                 // Calculate decade
@@ -47,71 +66,77 @@ function calculateStats(albumData) {
         }
     });
 
-    // Get top 5 artists by number of albums
     const topArtists = Object.entries(artistCounts)
         .sort((a, b) => b[1] - a[1])
         .slice(0, 5);
 
-    // Get year data, filtering out years with zero albums
     const yearData = Object.entries(yearCounts)
         .map(([year, count]) => ({ year: parseInt(year), count }))
-        .filter(data => data.count > 0)
         .sort((a, b) => a.year - b.year);
 
-    // Get decade data, filtering out decades with zero albums
-    const decadeData = Object.entries(decadeCounts)
-        .map(([decade, count]) => ({ decade: parseInt(decade), count }))
-        .sort((a, b) => a.decade - b.decade);
+    const genreData = Object.entries(genreCounts)
+        .map(([genre, count]) => ({ genre, count }))
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 5); // Top 5 genres
 
-    // Calculate most albums in a year and most prolific artist
-    const mostAlbumsYear = Object.keys(yearCounts).reduce((a, b) => yearCounts[a] > yearCounts[b] ? a : b);
-    const mostProlificArtist = topArtists[0];
+    const styleData = Object.entries(styleCounts)
+        .map(([style, count]) => ({ style, count }))
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 5); // Top 5 styles
 
     return {
         totalAlbums,
         uniqueArtists: uniqueArtists.size,
         topArtists,
         yearData,
-        decadeData,
-        mostAlbumsYear,
-        mostProlificArtist
+        genreData,
+        styleData
     };
 }
 
 function displayStats(stats) {
     document.getElementById('total-albums').textContent = stats.totalAlbums;
     document.getElementById('unique-artists').textContent = stats.uniqueArtists;
-    // Remove these lines:
-    // document.getElementById('most-albums-year').textContent = `${stats.mostAlbumsYear} (${stats.yearData.find(y => y.year == stats.mostAlbumsYear).count} albums)`;
-    // document.getElementById('most-prolific-artist').textContent = `${stats.mostProlificArtist[0]} (${stats.mostProlificArtist[1]} albums)`;
+
+    // Create genre and style stats dynamically with links
+    const genreStatsHtml = stats.genreData.map(genre => `
+        <li><a href="/genres/${formatSlug(genre.genre)}">${genre.genre}</a>: ${genre.count}</li>
+    `).join('');
+    document.getElementById('top-genres').innerHTML = genreStatsHtml;
+
+    const styleStatsHtml = stats.styleData.map(style => `
+        <li><a href="/styles/${formatSlug(style.style)}">${style.style}</a>: ${style.count}</li>
+    `).join('');
+    document.getElementById('top-styles').innerHTML = styleStatsHtml;
 }
+
+// Helper function to format slugs
+function formatSlug(name) {
+    return name.toLowerCase().replace(/\s/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
 
 function createTopArtistsChart(topArtists) {
     const ctx = document.getElementById('top-artists-chart').getContext('2d');
-    
+
     new Chart(ctx, {
         type: 'pie',
         data: {
             labels: topArtists.map(artist => artist[0]),
             datasets: [{
                 data: topArtists.map(artist => artist[1]),
-                backgroundColor: [
-                    '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF'
-                ]
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF']
             }]
         },
         options: {
             responsive: true,
-            maintainAspectRatio: true,
             plugins: {
                 legend: {
-                    position: 'right',
                     labels: {
                         generateLabels: function(chart) {
-                            const data = chart.data;
-                            return data.labels.map((label, i) => ({
+                            return chart.data.labels.map((label, i) => ({
                                 text: label,
-                                fillStyle: data.datasets[0].backgroundColor[i],
+                                fillStyle: chart.data.datasets[0].backgroundColor[i],
                                 index: i
                             }));
                         },
@@ -120,22 +145,13 @@ function createTopArtistsChart(topArtists) {
                             const label = context.text;
                             const artist = albumData.find(album => album.artist === label);
                             if (artist && artist.artistImage) {
-                                const image = new Image();
-                                image.src = artist.artistImage;
-                                return image;
+                                const img = new Image();
+                                img.src = artist.artistImage;
+                                return img;
                             }
                             return null;
-                        },
-                        pointStyleWidth: 40,
-                        padding: 20,
-                        font: {
-                            size: 14
                         }
                     }
-                },
-                title: {
-                    display: false,
-                    text: 'Top 5 Artists by Number of Albums'
                 }
             }
         }
@@ -158,29 +174,61 @@ function createAlbumsByYearChart(yearData) {
         },
         options: {
             responsive: true,
-            maintainAspectRatio: true,
             scales: {
                 y: {
                     beginAtZero: true,
-                    title: {
-                        display: true,
-                        text: 'Number of Albums'
-                    }
+                    title: { display: true, text: 'Number of Albums' }
                 },
                 x: {
-                    title: {
-                        display: true,
-                        text: 'Year'
-                    }
+                    title: { display: true, text: 'Year' }
                 }
-            },
+            }
+        }
+    });
+}
+
+function createGenresChart(genreData) {
+    const ctx = document.getElementById('top-genres-chart').getContext('2d');
+    new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: genreData.map(data => data.genre),
+            datasets: [{
+                label: 'Genres',
+                data: genreData.map(data => data.count),
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF']
+            }]
+        },
+        options: {
+            responsive: true,
             plugins: {
-                legend: {
-                    display: false
-                },
                 title: {
                     display: false,
-                    text: 'Albums added by Year'
+                    text: 'Top 5 Genres'
+                }
+            }
+        }
+    });
+}
+
+function createStylesChart(styleData) {
+    const ctx = document.getElementById('top-styles-chart').getContext('2d');
+    new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: styleData.map(data => data.style),
+            datasets: [{
+                label: 'Styles',
+                data: styleData.map(data => data.count),
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF']
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: false,
+                    text: 'Top 5 Styles'
                 }
             }
         }
@@ -188,15 +236,17 @@ function createAlbumsByYearChart(yearData) {
 }
 
 function displayRecentAdditions(albumData) {
-    const recentAlbums = albumData.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 6);
-  
+    const recentAlbums = albumData
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
+        .slice(0, 6);
+
     const recentAdditionsHtml = recentAlbums.map(album => `
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100">
-                <img src="${album.coverImage}" class="card-img-top" alt="${album.title}">
+                <a href="${album.albumUri}"><img src="${album.coverImage}" class="card-img-top" alt="${album.album}"></a>
                 <div class="card-body">
-                    <h5 class="card-title">${album.title}</h5>
-                    <p class="card-text">${album.artist}</p>
+                    <h5 class="card-title"><a href="${album.albumUri}">${album.album}</a></h5> <!-- Use album.album instead of title -->
+                    <p class="card-text"><a href="${album.artistUri}">${album.artist}</a></p> <!-- Ensure artist name is linked properly -->
                     <p class="card-text"><small class="text-muted">${new Date(album.date).toLocaleDateString()}</small></p>
                 </div>
             </div>
