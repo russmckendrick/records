@@ -28,17 +28,24 @@ weight = 30
   title = "Search the collection"
 
 [[social]]
+  name = "Stats"
+  pre = "<i class='bi bi-bar-chart-fill'></i>"
+  url = "/stats/"
+  weight = 30
+  title = "Stats about the collection"
+
+[[social]]
   name = "GitHub"
   pre = "<i class='bi bi-github'></i>"
   url = "https://github.com/russmckendrick/records/"
-  weight = 30
+  weight = 40
   title = "Visit the GitHub project"
 
 [[social]]
   name = "About"
   pre = "<i class='bi bi-person-circle'></i>"
   url = "https://www.russ.social/"
-  weight = 40
+  weight = 100
   title = "About me"
 
 [[footer]]
