@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
             createTopArtistsChart(stats.topArtists);
             createAlbumsByYearChart(stats.yearData);
             createGenresChart(stats.genreData);
-            createStylesChart(stats.styleData);  // Added Styles Chart
+            createStylesChart(stats.styleData);
             displayRecentAdditions(albumData);  
         })
         .catch(error => {
@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('stats-container').innerHTML = '<p class="alert alert-danger">Error: Unable to load album data</p>';
         });
 });
-
 
 function calculateStats(albumData) {
     const artistCounts = {};
@@ -68,7 +67,8 @@ function calculateStats(albumData) {
 
     const topArtists = Object.entries(artistCounts)
         .sort((a, b) => b[1] - a[1])
-        .slice(0, 5);
+        .slice(0, 5)
+        .map(([artist, count]) => ({ artist, count }));
 
     const yearData = Object.entries(yearCounts)
         .map(([year, count]) => ({ year: parseInt(year), count }))
@@ -98,6 +98,12 @@ function displayStats(stats) {
     document.getElementById('total-albums').textContent = stats.totalAlbums;
     document.getElementById('unique-artists').textContent = stats.uniqueArtists;
 
+    // Create top artists stats dynamically with links
+    const artistStatsHtml = stats.topArtists.map(artist => `
+        <li><a href="/artists/${formatSlug(artist.artist)}">${artist.artist}</a>: ${artist.count}</li>
+    `).join('');
+    document.getElementById('top-artists').innerHTML = artistStatsHtml;
+
     // Create genre and style stats dynamically with links
     const genreStatsHtml = stats.genreData.map(genre => `
         <li><a href="/genres/${formatSlug(genre.genre)}">${genre.genre}</a>: ${genre.count}</li>
@@ -115,16 +121,15 @@ function formatSlug(name) {
     return name.toLowerCase().replace(/\s/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
-
 function createTopArtistsChart(topArtists) {
     const ctx = document.getElementById('top-artists-chart').getContext('2d');
 
     new Chart(ctx, {
         type: 'pie',
         data: {
-            labels: topArtists.map(artist => artist[0]),
+            labels: topArtists.map(artist => artist.artist),
             datasets: [{
-                data: topArtists.map(artist => artist[1]),
+                data: topArtists.map(artist => artist.count),
                 backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF']
             }]
         },
@@ -132,26 +137,7 @@ function createTopArtistsChart(topArtists) {
             responsive: true,
             plugins: {
                 legend: {
-                    labels: {
-                        generateLabels: function(chart) {
-                            return chart.data.labels.map((label, i) => ({
-                                text: label,
-                                fillStyle: chart.data.datasets[0].backgroundColor[i],
-                                index: i
-                            }));
-                        },
-                        usePointStyle: true,
-                        pointStyle: function(context) {
-                            const label = context.text;
-                            const artist = albumData.find(album => album.artist === label);
-                            if (artist && artist.artistImage) {
-                                const img = new Image();
-                                img.src = artist.artistImage;
-                                return img;
-                            }
-                            return null;
-                        }
-                    }
+                    position: 'top',
                 }
             }
         }

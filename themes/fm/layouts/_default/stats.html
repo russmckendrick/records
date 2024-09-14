@@ -21,16 +21,38 @@
     </div>
   </div>
 
-  <div class="row mb-5">
+  <div class="row mb-4">
     <div class="col-md-4 mb-4">
       <div class="card h-100">
         <div class="card-body">
-          <h2 class="card-title">Top 5 Artists</h2>
+          <h2 class="card-title">Top Artists</h2>
+          <ul id="top-artists"></ul>
           <canvas id="top-artists-chart"></canvas>
         </div>
       </div>
     </div>
-    <div class="col-md-8 mb-4">
+    <div class="col-md-4 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h2 class="card-title">Top Genres</h2>
+          <ul id="top-genres"></ul>
+          <canvas id="top-genres-chart"></canvas>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h2 class="card-title">Top Styles</h2>
+          <ul id="top-styles"></ul>
+          <canvas id="top-styles-chart"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-md-12 mb-4">
       <div class="card h-100">
         <div class="card-body">
           <h2 class="card-title">Albums added by Year</h2>
@@ -40,28 +62,7 @@
     </div>
   </div>
 
-  <div class="row mb-5">
-    <div class="col-md-6 mb-4">
-        <div class="card h-100">
-            <div class="card-body">
-                <h2 class="card-title">Top Genres</h2>
-                <ul id="top-genres"></ul>
-                <canvas id="top-genres-chart"></canvas>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-6 mb-4">
-        <div class="card h-100">
-            <div class="card-body">
-                <h2 class="card-title">Top Styles</h2>
-                <ul id="top-styles"></ul>
-                <canvas id="top-styles-chart"></canvas>  <!-- Added Canvas for Top Styles -->
-            </div>
-        </div>
-    </div>
-</div>
-
-  <div class="row">
+  <div class="row mb-4">
     <div class="col-12">
       <div class="card">
         <div class="card-body">
@@ -71,9 +72,7 @@
       </div>
     </div>
   </div>
-</div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/js/record-stats.js"></script>
-{{ end }}
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/js/record-stats.js"></script>
+  {{ end }}
