@@ -100,7 +100,7 @@ function displayStats(stats) {
 
     // Create top artists stats dynamically with links
     const artistStatsHtml = stats.topArtists.map(artist => `
-        <li><a href="/artists/${formatSlug(artist.artist)}">${artist.artist}</a>: ${artist.count}</li>
+        <li><a href="/artist/${formatSlug(artist.artist)}">${artist.artist}</a>: ${artist.count}</li>
     `).join('');
     document.getElementById('top-artists').innerHTML = artistStatsHtml;
 
