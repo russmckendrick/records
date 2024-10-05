@@ -38,7 +38,7 @@ His second and third albums, Good Thing (2018) and Gold-Diggers Sound (2021) als
 13. God Loves Everyone
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beautiful-crazy-live-feat-leon-bridges-single/1436507813" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/leon/1760811064" >}}<br>
 
 
 
