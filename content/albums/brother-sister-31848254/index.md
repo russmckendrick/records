@@ -44,7 +44,7 @@ styles: ["Acid Jazz", "Soul", "Contemporary R&B"]
 18. Touch Of Your Love
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brand-new-heavies-deluxe/1152587278" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/brother-sister-remastered-expanded/1751984165" >}}<br>
 
 
 ## Videos
