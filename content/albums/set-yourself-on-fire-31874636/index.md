@@ -43,7 +43,7 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 13. Calendar Girl
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire/1442859173" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire-20th-anniversary-edition/1766760013" >}}<br>
 
 
 ## Videos
