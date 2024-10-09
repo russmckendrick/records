@@ -59,7 +59,7 @@ The Singles is a compilation album of singles and B-sides by the German experime
 23. Hoolah Hoolah (Edit)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cant-stop-the-feeling-original-song-from-dreamworks/1110121889" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/the-singles/1220608584" >}}<br>
 
 
 ## Videos
