@@ -52,7 +52,7 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 18. Just Say Yes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cure-for-me-acoustic-single/1577868696" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/acoustic-hits/1753357310" >}}<br>
 
 
 
