@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <div class="container mt-4">
   <div class="row justify-content-center">
     <div class="col-12 col-md-8 col-lg-6">
@@ -34,21 +33,25 @@
           <a href="/styles/{{ . | urlize }}" class="text-decoration-none">
             <div class="d-flex">
               <span class="bg-secondary text-white small px-2 py-1 rounded-start">Style</span>
-              <span class="bg-info text-white small px-2 py-1 rounded-end">{{ . }}</span>
+              <span class="bg-warning text-white small px-2 py-1 rounded-end">{{ . }}</span>
             </div>
           </a>
         </div>
         {{- end }}
       </div>
-      <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target=”_blank”>
-      <button class="btn btn-danger btn-block mb-4 w-100">
-        <i class="bi bi-file-music-fill"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler
+
+      <button onclick="navigator.clipboard.writeText('{{ .Params.release_id }}')" class="btn btn-success btn-block mb-2 w-100">
+        <i class="bi bi-clipboard-fill"></i> Copy the Discogs ID for "{{ .Page.Params.album_name }}"
       </button>
-    </a>
+
+      <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target="_blank">
+        <button class="btn btn-danger btn-block mb-4 w-100">
+          <i class="bi bi-file-music-fill"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler
+        </button>
+      </a>
 
       {{ .Content }}
     </div>
   </div>
 </div>
-
 {{ end }}
