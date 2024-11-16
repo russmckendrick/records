@@ -62,7 +62,7 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 
 ## Videos
 ### "Staring at the Sun" by TV on the Radio
-{{< youtube id="oHrTOQ18yzU" title=""Staring at the Sun" by TV on the Radio" >}}<br>
+{{< youtube id="oHrTOQ18yzU" title="Staring at the Sun by TV on the Radio" >}}<br>
 ### More Videos
 
 - [The Wrong Way](https://www.youtube.com/watch?v=PwmikMwwwEo)
