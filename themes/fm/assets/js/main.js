@@ -25,6 +25,21 @@ class TickerState {
     this.currentIndex = -1;
     this.lastUpdate = 0;
     this.loadState();
+    this.clearStateIfStale();
+  }
+
+  clearStateIfStale() {
+    const stateAge = Date.now() - this.lastUpdate;
+    const thirtyMinutes = 30 * 60 * 1000; // 30 minutes in milliseconds
+    
+    if (stateAge > thirtyMinutes) {
+      this.tracks = [];
+      this.currentIndex = -1;
+      this.lastUpdate = 0;
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(LAST_UPDATE_KEY);
+      console.log('Cleared stale ticker state (older than 30 minutes)');
+    }
   }
 
   loadState() {
