@@ -181,3 +181,67 @@ a /*.feather*/ {
         margin-bottom: 1rem;
     }
   }
+
+
+  .lastfm-display {
+    background-color: rgba(24, 28, 41, 0.95);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    height: 40px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+  
+  .track-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .track-item {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    transform: translateY(40px);
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .track-item.active {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+  .track-item.exit {
+    transform: translateY(-40px);
+    opacity: 0;
+  }
+  
+  .track-item.now-playing {
+    color: #1db954;
+  }
+  
+  /* Push down the main content to account for the fixed display */
+  body {
+    padding-top: 40px;
+  }
+  
+  @media (max-width: 768px) {
+    .track-item {
+      font-size: 12px;
+    }
+  }
