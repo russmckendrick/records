@@ -184,8 +184,8 @@ a /*.feather*/ {
 
 
   .lastfm-display {
-    background-color: rgba(24, 28, 41, 0.95);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: var(--medium-navy);
+    border-bottom: 1px solid var(--accent-grey);
     height: 40px;
     overflow: hidden;
     position: fixed;

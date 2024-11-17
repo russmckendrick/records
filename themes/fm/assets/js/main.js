@@ -4,6 +4,10 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 const LASTFM_WORKER_URL = 'https://russ.rest/ticker/'; // Update this
 const USERNAME = 'russmckendrick'; // Update this
 
+// Local storage keys
+const STORAGE_KEY = 'lastfm_ticker_state';
+const LAST_UPDATE_KEY = 'lastfm_last_update';
+
 function formatTimestamp(timestamp) {
   const date = new Date(timestamp * 1000);
   const now = new Date();
@@ -15,12 +19,99 @@ function formatTimestamp(timestamp) {
   return `${Math.floor(diff / 86400000)}d ago`;
 }
 
-let currentIndex = -1; // Start at -1 to show intro first
-let tracks = [];
+class TickerState {
+  constructor() {
+    this.tracks = [];
+    this.currentIndex = -1;
+    this.lastUpdate = 0;
+    this.loadState();
+  }
+
+  loadState() {
+    try {
+      const savedState = localStorage.getItem(STORAGE_KEY);
+      const lastUpdate = parseInt(localStorage.getItem(LAST_UPDATE_KEY) || '0');
+      
+      if (savedState) {
+        const state = JSON.parse(savedState);
+        this.tracks = state.tracks || [];
+        this.currentIndex = state.currentIndex || -1;
+        this.lastUpdate = lastUpdate;
+      }
+    } catch (error) {
+      console.error('Error loading state:', error);
+    }
+  }
+
+  saveState() {
+    try {
+      const state = {
+        tracks: this.tracks,
+        currentIndex: this.currentIndex
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      localStorage.setItem(LAST_UPDATE_KEY, Date.now().toString());
+    } catch (error) {
+      console.error('Error saving state:', error);
+    }
+  }
+
+  needsUpdate() {
+    return Date.now() - this.lastUpdate > 60000; // 1 minute
+  }
+
+  async updateIfNeeded() {
+    if (this.needsUpdate()) {
+      await this.fetchTracks();
+    }
+  }
+
+  async fetchTracks() {
+    try {
+      const response = await fetch(`${LASTFM_WORKER_URL}?username=${USERNAME}`);
+      if (!response.ok) throw new Error('Failed to fetch tracks');
+      
+      const data = await response.json();
+      this.tracks = data.tracks;
+      this.saveState();
+      
+      // Reset index if we've gone past the end
+      if (this.currentIndex >= this.tracks.length) {
+        this.currentIndex = -1;
+      }
+    } catch (error) {
+      console.error('Error fetching tracks:', error);
+    }
+  }
+
+  getCurrentItem() {
+    if (this.currentIndex === -1) {
+      return {
+        type: 'intro',
+        content: '▶ Recently played...'
+      };
+    }
+
+    const track = this.tracks[this.currentIndex];
+    const timeAgo = track.nowPlaying ? 'NOW PLAYING' : formatTimestamp(track.timestamp);
+    return {
+      type: 'track',
+      content: `▶ ${track.name} - ${track.artist} (${timeAgo})`,
+      nowPlaying: track.nowPlaying
+    };
+  }
+
+  advance() {
+    if (!this.tracks.length && this.currentIndex !== -1) return;
+    this.currentIndex = (this.currentIndex + 1) % (this.tracks.length + 1);
+    this.saveState();
+  }
+}
+
+const tickerState = new TickerState();
 
 function updateDisplay() {
   const container = document.querySelector('.track-container');
-  if (!tracks.length && currentIndex !== -1) return;
   
   // Remove existing exiting track
   const exitingTrack = container.querySelector('.exit');
@@ -35,58 +126,43 @@ function updateDisplay() {
     currentTrack.classList.add('exit');
   }
   
+  // Get current item from state
+  const item = tickerState.getCurrentItem();
+  
   // Create new track element
   const element = document.createElement('div');
-  
-  if (currentIndex === -1) {
-    // Show intro message
-    element.className = 'track-item';
-    element.innerHTML = '🎧 Recently Scrobbled ...';
-    currentIndex = 0;
-  } else {
-    // Show track info
-    const track = tracks[currentIndex];
-    const timeAgo = track.nowPlaying ? 'NOW PLAYING' : formatTimestamp(track.timestamp);
-    element.className = `track-item${track.nowPlaying ? ' now-playing' : ''}`;
-    // Always include the play symbol
-    element.innerHTML = `▶ ${track.name} - ${track.artist} (${timeAgo})`;
-    currentIndex = (currentIndex + 1) % (tracks.length + 1); // +1 to account for intro message
-  }
+  element.className = `track-item${item.nowPlaying ? ' now-playing' : ''}`;
+  element.innerHTML = item.content;
   
   // Add and activate new track
   container.appendChild(element);
   setTimeout(() => {
     element.classList.add('active');
   }, 50);
+  
+  // Advance state
+  tickerState.advance();
 }
 
-async function fetchTracks() {
-  try {
-    const response = await fetch(`${LASTFM_WORKER_URL}?username=${USERNAME}`);
-    if (!response.ok) throw new Error('Failed to fetch tracks');
-    
-    const data = await response.json();
-    tracks = data.tracks;
-    
-    // Reset index if we have new tracks (but keep showing current item)
-    if (currentIndex >= tracks.length) {
-      currentIndex = -1;
-    }
-  } catch (error) {
-    console.error('Error fetching tracks:', error);
-  }
-}
-
-// Initialize
 async function initialize() {
-  await fetchTracks();
+  // Update tracks if needed
+  await tickerState.updateIfNeeded();
+  
+  // Initial display update
   updateDisplay();
   
   // Update display every 5 seconds
   setInterval(updateDisplay, 5000);
   
-  // Fetch new tracks every minute
-  setInterval(fetchTracks, 60000);
+  // Check for updates every minute
+  setInterval(() => tickerState.updateIfNeeded(), 60000);
+  
+  // Handle visibility changes
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) {
+      tickerState.updateIfNeeded();
+    }
+  });
 }
 
 // Start everything
