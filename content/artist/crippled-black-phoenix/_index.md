@@ -1,6 +1,6 @@
 ---
 title: "Crippled Black Phoenix"
-summary: "Rock group from the United Kingdom. Justin Greaves - electric guitar, drums, saw, keyboard, e-bow, percussion, acoustic Guitar, piano, banjo, backing vocals, songwriter Belinda Kordic - vocals Helen Stanley - piano, vocals, trumpet Andy Taylor - guitar"
+summary: "Crippled Black Phoenix are an English dark rock band, founded by Justin Greaves in 2004. They have released 12 main studio efforts, various Ep's and special albums and toured internationally. Besides Greaves, several musicians have contributed to Crippled Black Phoenix's discography and played with them during their live shows."
 slug: "crippled-black-phoenix"
 image: "crippled-black-phoenix.jpg"
 apple_music_artist_url: "None"
