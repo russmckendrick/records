@@ -69,12 +69,12 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 - [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)
 - [This Is Helena](https://www.youtube.com/watch?v=eW7IPtWG26I)
 - [International](https://www.youtube.com/watch?v=erhpHvPVxuo)
-- [Dazzle Ships (Parts II, III And VII)](https://www.youtube.com/watch?v=wy3IxefErus)
+- [Dazzle Ships Parts II III And VII](https://www.youtube.com/watch?v=wy3IxefErus)
 - [The Romance Of The Telescope](https://www.youtube.com/watch?v=DHuNv-yfRK4)
 - [Silent Running](https://www.youtube.com/watch?v=aO5z33JrRJU)
 - [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
 - [Time Zones](https://www.youtube.com/watch?v=lwx8A0XUpfM)
-- [Of All The Things We've Made](https://www.youtube.com/watch?v=HgNBbUiAaQo)
+- [Of All The Things Weve Made](https://www.youtube.com/watch?v=HgNBbUiAaQo)
 
 ## Release Images
 {{< imageGrid >}}

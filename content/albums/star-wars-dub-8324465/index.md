@@ -40,8 +40,8 @@ styles: ["Dub"]
 
 
 ## Videos
-### Lipi Brown's Selections - Star Wars Dub
-{{< youtube id="Fzekkfr8BvU" title="Lipi Brown's Selections - Star Wars Dub" >}}<br>
+### Lipi Browns Selections - Star Wars Dub
+{{< youtube id="Fzekkfr8BvU" title="Lipi Browns Selections - Star Wars Dub" >}}<br>
 
 
 ## Release Images

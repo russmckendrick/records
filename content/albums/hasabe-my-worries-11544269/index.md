@@ -55,23 +55,23 @@ styles: ["African"]
 
 
 ## Videos
-### AYALEW MESFIN.HASABE
-{{< youtube id="_1BwNKnKi4E" title="AYALEW MESFIN.HASABE" >}}<br>
+### AYALEW MESFINHASABE
+{{< youtube id="_1BwNKnKi4E" title="AYALEW MESFINHASABE" >}}<br>
 ### More Videos
 
-- [Ayalew Mesfin - Libe Menta Hone  (Ethiopia 1975)](https://www.youtube.com/watch?v=1RcaLOuqZG8)
-- [Ayalew Mesfin - February 2018 Vinyl Me, Please Record of the Month](https://www.youtube.com/watch?v=gZFz-3NOCLo)
-- [Hasabe (My Worries)](https://www.youtube.com/watch?v=zB0-8ElrbX8)
-- [Zebeder (Mesmerizing)](https://www.youtube.com/watch?v=_pzRLggvWZk)
-- [Gedawo (The Hero)](https://www.youtube.com/watch?v=mAjBVFYwiEg)
-- [Rehab (My Hunger)](https://www.youtube.com/watch?v=EaZy4diQXIY)
-- [Yetembelal Loga (Tall and Graceful)](https://www.youtube.com/watch?v=1gVOn1Mg7mY)
-- [Libe Menta Hone (My Divided Heart)](https://www.youtube.com/watch?v=5TScaxhdMdk)
-- [Gud Aderegechign (Blindsided by Love)](https://www.youtube.com/watch?v=Lr30mEKCXXY)
-- [Endet Liyesh (How Can I See You)](https://www.youtube.com/watch?v=enqrALfa3cM)
-- [Ewedish Nebere (I Used to Love You)](https://www.youtube.com/watch?v=GovAj-xsw1Q)
-- [Yesew Neger (Amazed by Humanity)](https://www.youtube.com/watch?v=7mPX4v98cRw)
-- [Ambasel (Ambasel)](https://www.youtube.com/watch?v=u3zVeqlYkgI)
+- [Ayalew Mesfin - Libe Menta Hone  Ethiopia 1975](https://www.youtube.com/watch?v=1RcaLOuqZG8)
+- [Ayalew Mesfin - February 2018 Vinyl Me Please Record of the Month](https://www.youtube.com/watch?v=gZFz-3NOCLo)
+- [Hasabe My Worries](https://www.youtube.com/watch?v=zB0-8ElrbX8)
+- [Zebeder Mesmerizing](https://www.youtube.com/watch?v=_pzRLggvWZk)
+- [Gedawo The Hero](https://www.youtube.com/watch?v=mAjBVFYwiEg)
+- [Rehab My Hunger](https://www.youtube.com/watch?v=EaZy4diQXIY)
+- [Yetembelal Loga Tall and Graceful](https://www.youtube.com/watch?v=1gVOn1Mg7mY)
+- [Libe Menta Hone My Divided Heart](https://www.youtube.com/watch?v=5TScaxhdMdk)
+- [Gud Aderegechign Blindsided by Love](https://www.youtube.com/watch?v=Lr30mEKCXXY)
+- [Endet Liyesh How Can I See You](https://www.youtube.com/watch?v=enqrALfa3cM)
+- [Ewedish Nebere I Used to Love You](https://www.youtube.com/watch?v=GovAj-xsw1Q)
+- [Yesew Neger Amazed by Humanity](https://www.youtube.com/watch?v=7mPX4v98cRw)
+- [Ambasel Ambasel](https://www.youtube.com/watch?v=u3zVeqlYkgI)
 
 ## Release Images
 {{< imageGrid >}}

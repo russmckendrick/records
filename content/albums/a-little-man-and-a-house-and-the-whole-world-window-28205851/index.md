@@ -92,16 +92,16 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 
 
 ## Videos
-### Cardiacs - A Little Man And A House And The Whole World Window (full album) 1988
-{{< youtube id="ke7dmA0qOLI" title="Cardiacs - A Little Man And A House And The Whole World Window (full album) 1988" >}}<br>
+### Cardiacs - A Little Man And A House And The Whole World Window full album 1988
+{{< youtube id="ke7dmA0qOLI" title="Cardiacs - A Little Man And A House And The Whole World Window full album 1988" >}}<br>
 ### More Videos
 
 - [A Little Man and a House - Cardiacs](https://www.youtube.com/watch?v=mBie6D3gc4c)
 - [Cardiacs - Dive](https://www.youtube.com/watch?v=k2rFRKEmzFs)
-- [Cardiacs - A Little Man And A House And The Whole World Window (full album) 1988](https://www.youtube.com/watch?v=ke7dmA0qOLI)
+- [Cardiacs - A Little Man And A House And The Whole World Window full album 1988](https://www.youtube.com/watch?v=ke7dmA0qOLI)
 - [A Little Man And A House](https://www.youtube.com/watch?v=NScA4jN15WM)
 - [The Whole World Window](https://www.youtube.com/watch?v=hyfRswEXcjc)
-- [CARDIACS : IS THIS THE LIFE original video](https://www.youtube.com/watch?v=SZaqYkkYK4I)
+- [CARDIACS  IS THIS THE LIFE original video](https://www.youtube.com/watch?v=SZaqYkkYK4I)
 - [A Little Man and a House - Cardiacs](https://www.youtube.com/watch?v=mBie6D3gc4c)
 
 ## Release Images

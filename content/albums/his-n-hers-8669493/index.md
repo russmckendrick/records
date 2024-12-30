@@ -52,7 +52,7 @@ His 'n' Hers is the fourth studio album by English rock band Pulp, released on 1
 ### More Videos
 
 - [Pulp - Lipgloss](https://www.youtube.com/watch?v=1MDpGCTdJxw)
-- [Pulp - Do You Remember the First Time?](https://www.youtube.com/watch?v=sPGepgWupTw)
+- [Pulp - Do You Remember the First Time](https://www.youtube.com/watch?v=sPGepgWupTw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -35,19 +35,19 @@ styles: ["Ambient", "Dub"]
 
 
 ## Videos
-### The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)
-{{< youtube id="C8c6NLbBr_8" title="The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)" >}}<br>
+### The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album
+{{< youtube id="C8c6NLbBr_8" title="The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album" >}}<br>
 ### More Videos
 
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=PCm1viTBDsA)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 2 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=UciWB9-FRvM)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 3 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=5qFSVl2MSQw)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 4 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
-- [The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)](https://www.youtube.com/watch?v=C8c6NLbBr_8)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=PCm1viTBDsA)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 2 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=UciWB9-FRvM)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 3 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=5qFSVl2MSQw)
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 4 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 1 - Excerpt Visualiser](https://www.youtube.com/watch?v=PCm1viTBDsA)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 2 - Excerpt Visualiser](https://www.youtube.com/watch?v=UciWB9-FRvM)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 3 - Excerpt Visualiser](https://www.youtube.com/watch?v=5qFSVl2MSQw)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 4 - Excerpt Visualiser](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
+- [The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album](https://www.youtube.com/watch?v=C8c6NLbBr_8)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 1 - Excerpt Visualiser](https://www.youtube.com/watch?v=PCm1viTBDsA)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 2 - Excerpt Visualiser](https://www.youtube.com/watch?v=UciWB9-FRvM)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 3 - Excerpt Visualiser](https://www.youtube.com/watch?v=5qFSVl2MSQw)
+- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 4 - Excerpt Visualiser](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
 
 ## Release Images
 {{< imageGrid >}}

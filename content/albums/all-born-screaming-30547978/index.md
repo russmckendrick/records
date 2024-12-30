@@ -65,16 +65,16 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 
 
 ## Videos
-### St. Vincent - All Born Screaming (Official Audio) ft. Cate Le Bon
-{{< youtube id="BWkxzcWt51w" title="St. Vincent - All Born Screaming (Official Audio) ft. Cate Le Bon" >}}<br>
+### St Vincent - All Born Screaming Official Audio ft Cate Le Bon
+{{< youtube id="BWkxzcWt51w" title="St Vincent - All Born Screaming Official Audio ft Cate Le Bon" >}}<br>
 ### More Videos
 
-- [St. Vincent - Violent Times (Official Audio)](https://www.youtube.com/watch?v=mtY1vRh7QwQ)
-- [St. Vincent - Broken Man (Official)](https://www.youtube.com/watch?v=RYJxPg6quL4)
-- [St. Vincent - Reckless (Official Audio)](https://www.youtube.com/watch?v=fIxfVno3wmI)
-- [St. Vincent - Sweetest Fruit (Official Audio)](https://www.youtube.com/watch?v=TT-goBoETr4)
-- [St. Vincent - Flea (Lyric Video)](https://www.youtube.com/watch?v=E65yRApR9UU)
-- [St. Vincent - So Many Planets (Official Audio)](https://www.youtube.com/watch?v=VefkG-Re4_Q)
+- [St Vincent - Violent Times Official Audio](https://www.youtube.com/watch?v=mtY1vRh7QwQ)
+- [St Vincent - Broken Man Official](https://www.youtube.com/watch?v=RYJxPg6quL4)
+- [St Vincent - Reckless Official Audio](https://www.youtube.com/watch?v=fIxfVno3wmI)
+- [St Vincent - Sweetest Fruit Official Audio](https://www.youtube.com/watch?v=TT-goBoETr4)
+- [St Vincent - Flea Lyric Video](https://www.youtube.com/watch?v=E65yRApR9UU)
+- [St Vincent - So Many Planets Official Audio](https://www.youtube.com/watch?v=VefkG-Re4_Q)
 
 ## Release Images
 {{< imageGrid >}}

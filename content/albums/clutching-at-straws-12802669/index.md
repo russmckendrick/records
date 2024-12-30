@@ -92,8 +92,8 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 
 
 ## Videos
-### Marillion - White Russian (Clutching At Straws) (UK & Europe 1987 CD)
-{{< youtube id="5fFY1V7uY5I" title="Marillion - White Russian (Clutching At Straws) (UK & Europe 1987 CD)" >}}<br>
+### Marillion - White Russian Clutching At Straws UK  Europe 1987 CD
+{{< youtube id="5fFY1V7uY5I" title="Marillion - White Russian Clutching At Straws UK  Europe 1987 CD" >}}<br>
 
 
 ## Release Images

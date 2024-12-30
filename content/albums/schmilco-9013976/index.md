@@ -48,21 +48,21 @@ Schmilco is the tenth studio album by the American rock band Wilco, released on 
 
 
 ## Videos
-### Wilco - "Normal American Kids"
-{{< youtube id="sIwodhY8osM" title="Wilco - "Normal American Kids"" >}}<br>
+### Wilco - Normal American Kids
+{{< youtube id="sIwodhY8osM" title="Wilco - Normal American Kids" >}}<br>
 ### More Videos
 
-- ["If I Ever Was a Child" - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
-- [Wilco - "Cry All Day"](https://www.youtube.com/watch?v=dBgdK9oO0Gg)
-- [Wilco - "Common Sense"](https://www.youtube.com/watch?v=3P-1TJmbKCE)
-- [Wilco - "Nope"](https://www.youtube.com/watch?v=DBs2tGgzZuE)
-- [Wilco - "Someone to Lose"](https://www.youtube.com/watch?v=G5RrWCRsSYA)
-- [Wilco - "Happiness"](https://www.youtube.com/watch?v=ZzvfsEFRtVM)
-- [Wilco - "Quarters"](https://www.youtube.com/watch?v=kHM1zPZhG0k)
-- [Wilco - "Locator"](https://www.youtube.com/watch?v=RfM1sYaOG3k)
-- [Wilco - "Shrug and Destroy"](https://www.youtube.com/watch?v=wWVZBg3VRAQ)
-- [Wilco - "We Aren't The World (Safety Girl)"](https://www.youtube.com/watch?v=HQOSPMDwsgY)
-- [Wilco - "Just Say Goodbye"](https://www.youtube.com/watch?v=Yyaxnyvga0s)
+- [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
+- [Wilco - Cry All Day](https://www.youtube.com/watch?v=dBgdK9oO0Gg)
+- [Wilco - Common Sense](https://www.youtube.com/watch?v=3P-1TJmbKCE)
+- [Wilco - Nope](https://www.youtube.com/watch?v=DBs2tGgzZuE)
+- [Wilco - Someone to Lose](https://www.youtube.com/watch?v=G5RrWCRsSYA)
+- [Wilco - Happiness](https://www.youtube.com/watch?v=ZzvfsEFRtVM)
+- [Wilco - Quarters](https://www.youtube.com/watch?v=kHM1zPZhG0k)
+- [Wilco - Locator](https://www.youtube.com/watch?v=RfM1sYaOG3k)
+- [Wilco - Shrug and Destroy](https://www.youtube.com/watch?v=wWVZBg3VRAQ)
+- [Wilco - We Arent The World Safety Girl](https://www.youtube.com/watch?v=HQOSPMDwsgY)
+- [Wilco - Just Say Goodbye](https://www.youtube.com/watch?v=Yyaxnyvga0s)
 
 ## Release Images
 {{< imageGrid >}}

@@ -45,11 +45,11 @@ styles: ["Acid Jazz", "Funk"]
 - [One Way Street](https://www.youtube.com/watch?v=Ptq3i2lnM2o)
 - [Car Chase](https://www.youtube.com/watch?v=e8wEjaS82cM)
 - [The Spiral Staircase](https://www.youtube.com/watch?v=ABcjfpA6ljo)
-- [Mr. Cool's Dream](https://www.youtube.com/watch?v=YQ3-IAPM6QM)
+- [Mr Cools Dream](https://www.youtube.com/watch?v=YQ3-IAPM6QM)
 - [A Real Mean Time](https://www.youtube.com/watch?v=Op34Yg8iqB0)
 - [Onion Club](https://www.youtube.com/watch?v=qZvtNXpfl4M)
 - [The Stroll](https://www.youtube.com/watch?v=nJ7iYK3fQ28)
-- ["Los Cuevos Pablo"](https://www.youtube.com/watch?v=1QHD0rfFe4Q)
+- [Los Cuevos Pablo](https://www.youtube.com/watch?v=1QHD0rfFe4Q)
 - [Midnight Stomp](https://www.youtube.com/watch?v=w6ymg2uHJko)
 - [The James Taylor Quartet - Buzy Bee](https://www.youtube.com/watch?v=ykHYVBTqEfc)
 - [In The Park](https://www.youtube.com/watch?v=HcoAJ6S_Hg4)
@@ -62,7 +62,7 @@ styles: ["Acid Jazz", "Funk"]
 - [The James Taylor Quartet - The Onion Club](https://www.youtube.com/watch?v=F4EpBhxRKMc)
 - [The Onion Club - James Taylor Quartet](https://www.youtube.com/watch?v=vSEMwsy8YUg)
 - [The Stroll - James Taylor Quartet](https://www.youtube.com/watch?v=MrglNd_hszY)
-- ['Los Cuevos Pablo' - James Taylor Quartet](https://www.youtube.com/watch?v=2h-_jvU8P60)
+- [Los Cuevos Pablo - James Taylor Quartet](https://www.youtube.com/watch?v=2h-_jvU8P60)
 - [In The Park - James Taylor Quartet](https://www.youtube.com/watch?v=WFVYyW27ePU)
 
 ## Release Images

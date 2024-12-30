@@ -47,11 +47,11 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 
 
 ## Videos
-### Matt Berry & The Maypoles,  Snuff Box, 13/02/2015
-{{< youtube id="mugYr-k8YGA" title="Matt Berry & The Maypoles,  Snuff Box, 13/02/2015" >}}<br>
+### Matt Berry  The Maypoles  Snuff Box 13022015
+{{< youtube id="mugYr-k8YGA" title="Matt Berry  The Maypoles  Snuff Box 13022015" >}}<br>
 ### More Videos
 
-- [Matt Berry & The Maypoles - "So Low" Live - Tunbridge Wells 2014](https://www.youtube.com/watch?v=Lx1aiQ-4IxM)
+- [Matt Berry  The Maypoles - So Low Live - Tunbridge Wells 2014](https://www.youtube.com/watch?v=Lx1aiQ-4IxM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -57,7 +57,7 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 - [The Pineapple Thief - Break it All](https://www.youtube.com/watch?v=7nooe94rQ2Q)
 - [The Pineapple Thief - Versions of the Truth](https://www.youtube.com/watch?v=O32DMyXN-mI)
 - [The Pineapple Thief - Driving Like Maniacs](https://www.youtube.com/watch?v=eV_i6Y_6KVY)
-- [The Pineapple Thief - Versions of the Truth (2020) Full Album](https://www.youtube.com/watch?v=UdNFADpNLXU)
+- [The Pineapple Thief - Versions of the Truth 2020 Full Album](https://www.youtube.com/watch?v=UdNFADpNLXU)
 
 ## Release Images
 {{< imageGrid >}}

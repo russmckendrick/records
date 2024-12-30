@@ -54,11 +54,11 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 
 
 ## Videos
-### HIM - Greatest Lovesongs Vol. 666 (Full Album)
-{{< youtube id="_1fgmTgJaiA" title="HIM - Greatest Lovesongs Vol. 666 (Full Album)" >}}<br>
+### HIM - Greatest Lovesongs Vol 666 Full Album
+{{< youtube id="_1fgmTgJaiA" title="HIM - Greatest Lovesongs Vol 666 Full Album" >}}<br>
 ### More Videos
 
-- [HIM - Greatest Lovesongs Vol. 666 (Full Album)](https://www.youtube.com/watch?v=_1fgmTgJaiA)
+- [HIM - Greatest Lovesongs Vol 666 Full Album](https://www.youtube.com/watch?v=_1fgmTgJaiA)
 
 ## Release Images
 {{< imageGrid >}}

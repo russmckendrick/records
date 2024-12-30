@@ -55,20 +55,20 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 
 
 ## Videos
-### Opeth - Cusp Of Eternity (Audio)
-{{< youtube id="JHq9yMXw3iA" title="Opeth - Cusp Of Eternity (Audio)" >}}<br>
+### Opeth - Cusp Of Eternity Audio
+{{< youtube id="JHq9yMXw3iA" title="Opeth - Cusp Of Eternity Audio" >}}<br>
 ### More Videos
 
-- [Opeth - Cusp Of Eternity (Audio)](https://www.youtube.com/watch?v=JHq9yMXw3iA)
+- [Opeth - Cusp Of Eternity Audio](https://www.youtube.com/watch?v=JHq9yMXw3iA)
 - [opeht pale communion 2014 full album](https://www.youtube.com/watch?v=EgfeVZOItlQ)
 - [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
-- [Opeth - Eternal Rains Will Come (Audio)](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
-- [Opeth - Moon Above, Sun Below (Audio)](https://www.youtube.com/watch?v=a3sYPX17cFk)
-- [Opeth - Goblin (Audio)](https://www.youtube.com/watch?v=tHkb8u0NedQ)
-- [Opeth - Elysian Woes (Audio)](https://www.youtube.com/watch?v=_6k--wHwV5A)
-- [Opeth - River (Audio)](https://www.youtube.com/watch?v=v-sGhzHzLSE)
-- [Opeth - Voice of Treason (Audio)](https://www.youtube.com/watch?v=iO4-mXMbiy8)
-- [Opeth - Faith In Others (Audio)](https://www.youtube.com/watch?v=wFSRCZN843c)
+- [Opeth - Eternal Rains Will Come Audio](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
+- [Opeth - Moon Above Sun Below Audio](https://www.youtube.com/watch?v=a3sYPX17cFk)
+- [Opeth - Goblin Audio](https://www.youtube.com/watch?v=tHkb8u0NedQ)
+- [Opeth - Elysian Woes Audio](https://www.youtube.com/watch?v=_6k--wHwV5A)
+- [Opeth - River Audio](https://www.youtube.com/watch?v=v-sGhzHzLSE)
+- [Opeth - Voice of Treason Audio](https://www.youtube.com/watch?v=iO4-mXMbiy8)
+- [Opeth - Faith In Others Audio](https://www.youtube.com/watch?v=wFSRCZN843c)
 
 ## Release Images
 {{< imageGrid >}}

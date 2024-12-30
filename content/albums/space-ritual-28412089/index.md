@@ -54,13 +54,13 @@ Space Ritual (officially known as The Space Ritual Alive in Liverpool and London
 
 
 ## Videos
-### Earth Calling (Live) (2007 Remaster)
-{{< youtube id="8wHM6sRbImY" title="Earth Calling (Live) (2007 Remaster)" >}}<br>
+### Earth Calling Live 2007 Remaster
+{{< youtube id="8wHM6sRbImY" title="Earth Calling Live 2007 Remaster" >}}<br>
 ### More Videos
 
-- [Born to Go (Live) (2007 Remaster)](https://www.youtube.com/watch?v=pNfRIePduqQ)
-- [Space Is Deep (Live) (2007 Remaster)](https://www.youtube.com/watch?v=4MUR7FIVNQ8)
-- [Hawkwind - Born to Go - taken from Space Ritual 1973 (animation)](https://www.youtube.com/watch?v=QAlw83pm0NY)
+- [Born to Go Live 2007 Remaster](https://www.youtube.com/watch?v=pNfRIePduqQ)
+- [Space Is Deep Live 2007 Remaster](https://www.youtube.com/watch?v=4MUR7FIVNQ8)
+- [Hawkwind - Born to Go - taken from Space Ritual 1973 animation](https://www.youtube.com/watch?v=QAlw83pm0NY)
 
 ## Release Images
 {{< imageGrid >}}

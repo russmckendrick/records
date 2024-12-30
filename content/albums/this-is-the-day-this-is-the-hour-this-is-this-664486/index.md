@@ -55,19 +55,19 @@ The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the
 ### More Videos
 
 - [Preaching to the Perverted](https://www.youtube.com/watch?v=1P_bN4z2AOc)
-- [Pop Will Eat Itself | Wise Up! Sucker](https://www.youtube.com/watch?v=UJeTi3Svs4Y)
+- [Pop Will Eat Itself  Wise Up Sucker](https://www.youtube.com/watch?v=UJeTi3Svs4Y)
 - [Sixteen Different Flavours of Hell](https://www.youtube.com/watch?v=QkVB2mNJlTI)
 - [Inject Me](https://www.youtube.com/watch?v=G8WepJCQ1CQ)
-- [Can U Dig It?](https://www.youtube.com/watch?v=vbC90pDfUYM)
+- [Can U Dig It](https://www.youtube.com/watch?v=vbC90pDfUYM)
 - [The Fuses Have Been Lit](https://www.youtube.com/watch?v=T8croHcqQFA)
 - [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
-- [Pop Will Eat Itself | Def Con One](https://www.youtube.com/watch?v=v7Wm4qXC_j4)
-- [Radio P.W.E.I.](https://www.youtube.com/watch?v=RCsQ4ILyVZw)
-- [Shortwave Transmission On "Up to the Minuteman Nine"](https://www.youtube.com/watch?v=IVmAAB5vFIg)
+- [Pop Will Eat Itself  Def Con One](https://www.youtube.com/watch?v=v7Wm4qXC_j4)
+- [Radio PWEI](https://www.youtube.com/watch?v=RCsQ4ILyVZw)
+- [Shortwave Transmission On Up to the Minuteman Nine](https://www.youtube.com/watch?v=IVmAAB5vFIg)
 - [Satellite Ecstatica](https://www.youtube.com/watch?v=PXxQ8_PPBXQ)
-- [Not Now James, We're Busy](https://www.youtube.com/watch?v=ykPoCFZODPU)
-- [Wake Up, Time to Die](https://www.youtube.com/watch?v=Lyur17ff3T8)
-- [Wise Up! Sucker (12" Youth Remix)](https://www.youtube.com/watch?v=5ch4CNXisao)
+- [Not Now James Were Busy](https://www.youtube.com/watch?v=ykPoCFZODPU)
+- [Wake Up Time to Die](https://www.youtube.com/watch?v=Lyur17ff3T8)
+- [Wise Up Sucker 12 Youth Remix](https://www.youtube.com/watch?v=5ch4CNXisao)
 
 ## Release Images
 {{< imageGrid >}}

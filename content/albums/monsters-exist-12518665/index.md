@@ -46,17 +46,17 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 
 
 ## Videos
-### Orbital - Monsters Exist (official audio)
-{{< youtube id="rts5Ew5ik_w" title="Orbital - Monsters Exist (official audio)" >}}<br>
+### Orbital - Monsters Exist official audio
+{{< youtube id="rts5Ew5ik_w" title="Orbital - Monsters Exist official audio" >}}<br>
 ### More Videos
 
-- [Orbital - Hoo Hoo Ha Ha (official audio)](https://www.youtube.com/watch?v=CDzKmemfHqQ)
-- [Orbital - P.H.U.K.](https://www.youtube.com/watch?v=BGYZp3QqhqE)
+- [Orbital - Hoo Hoo Ha Ha official audio](https://www.youtube.com/watch?v=CDzKmemfHqQ)
+- [Orbital - PHUK](https://www.youtube.com/watch?v=BGYZp3QqhqE)
 - [Orbital - Tiny Foldable Cities](https://www.youtube.com/watch?v=7CC5aX8OzOI)
 - [Orbital - The End Is Nigh](https://www.youtube.com/watch?v=xrzB8A6h6CA)
-- [Orbital | Kinetic 2017](https://www.youtube.com/watch?v=zJDjaLn_gZA)
-- [Orbital - Monsters Exist (official audio)](https://www.youtube.com/watch?v=rts5Ew5ik_w)
-- [Orbital - Hoo Hoo Ha Ha (official audio)](https://www.youtube.com/watch?v=CDzKmemfHqQ)
+- [Orbital  Kinetic 2017](https://www.youtube.com/watch?v=zJDjaLn_gZA)
+- [Orbital - Monsters Exist official audio](https://www.youtube.com/watch?v=rts5Ew5ik_w)
+- [Orbital - Hoo Hoo Ha Ha official audio](https://www.youtube.com/watch?v=CDzKmemfHqQ)
 
 ## Release Images
 {{< imageGrid >}}

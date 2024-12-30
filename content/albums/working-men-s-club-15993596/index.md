@@ -86,9 +86,9 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 - [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
 - [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
 - [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
-- [Working Men's Club - Valleys (Official Video)](https://www.youtube.com/watch?v=pzkfcLzUYYg)
-- [Working Men's Club - 'Teeth'](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
-- [Working Men's Club - 'A.A.A.A.'](https://www.youtube.com/watch?v=4uCC6IAbRWU)
+- [Working Mens Club - Valleys Official Video](https://www.youtube.com/watch?v=pzkfcLzUYYg)
+- [Working Mens Club - Teeth](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
+- [Working Mens Club - AAAA](https://www.youtube.com/watch?v=4uCC6IAbRWU)
 
 ## Release Images
 {{< imageGrid >}}

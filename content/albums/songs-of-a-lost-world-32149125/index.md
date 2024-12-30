@@ -59,21 +59,21 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 
 
 ## Videos
-### The Cure - Alone (Official Lyric Video)
-{{< youtube id="sx9SVAtMkJM" title="The Cure - Alone (Official Lyric Video)" >}}<br>
+### The Cure - Alone Official Lyric Video
+{{< youtube id="sx9SVAtMkJM" title="The Cure - Alone Official Lyric Video" >}}<br>
 ### More Videos
 
-- [The Cure - A Fragile Thing (Official Lyric Video)](https://www.youtube.com/watch?v=V7sZlKuh8gA)
+- [The Cure - A Fragile Thing Official Lyric Video](https://www.youtube.com/watch?v=V7sZlKuh8gA)
 - [And Nothing Is Forever](https://www.youtube.com/watch?v=yEBO_xKfwN4)
-- [Drone:Nodrone](https://www.youtube.com/watch?v=jBlJSxAtmpE)
+- [DroneNodrone](https://www.youtube.com/watch?v=jBlJSxAtmpE)
 - [I Can Never Say Goodbye](https://www.youtube.com/watch?v=DV-acRCuOGU)
 - [Warsong](https://www.youtube.com/watch?v=W6gFQfYSopQ)
 - [All I Ever Am](https://www.youtube.com/watch?v=wW3wokbdfeA)
 - [Endsong](https://www.youtube.com/watch?v=gA5pg7DRLf4)
-- [The Cure - Alone (Official Lyric Video)](https://www.youtube.com/watch?v=sx9SVAtMkJM)
-- [The Cure - A Fragile Thing (Official Lyric Video)](https://www.youtube.com/watch?v=V7sZlKuh8gA)
+- [The Cure - Alone Official Lyric Video](https://www.youtube.com/watch?v=sx9SVAtMkJM)
+- [The Cure - A Fragile Thing Official Lyric Video](https://www.youtube.com/watch?v=V7sZlKuh8gA)
 - [And Nothing Is Forever](https://www.youtube.com/watch?v=yEBO_xKfwN4)
-- [Drone:Nodrone](https://www.youtube.com/watch?v=jBlJSxAtmpE)
+- [DroneNodrone](https://www.youtube.com/watch?v=jBlJSxAtmpE)
 - [I Can Never Say Goodbye](https://www.youtube.com/watch?v=DV-acRCuOGU)
 - [Warsong](https://www.youtube.com/watch?v=W6gFQfYSopQ)
 - [All I Ever Am](https://www.youtube.com/watch?v=wW3wokbdfeA)

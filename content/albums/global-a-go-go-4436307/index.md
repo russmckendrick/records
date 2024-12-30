@@ -66,14 +66,14 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 
 
 ## Videos
-### Joe Strummer & the Mescaleros - Global A Go-Go
-{{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}<br>
+### Joe Strummer  the Mescaleros - Global A Go-Go
+{{< youtube id="nmyKLpVM98Q" title="Joe Strummer  the Mescaleros - Global A Go-Go" >}}<br>
 ### More Videos
 
-- [Joe Strummer "Johnny Appleseed"](https://www.youtube.com/watch?v=9pYwPc6UNmo)
-- [Joe Strummer & The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
-- [Joe Strummer & the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
-- [Joe Strummer & The Mescaleros - Cool 'n' Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
+- [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
+- [Joe Strummer  The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
+- [Joe Strummer  the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
+- [Joe Strummer  The Mescaleros - Cool n Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
 
 ## Release Images
 {{< imageGrid >}}

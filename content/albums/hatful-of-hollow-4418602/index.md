@@ -57,11 +57,11 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 
 
 ## Videos
-### 04. How Soon Is Now? - The Smiths - Hatful Of Hollow
-{{< youtube id="FQ4DUnghgT0" title="04. How Soon Is Now? - The Smiths - Hatful Of Hollow" >}}<br>
+### 04 How Soon Is Now - The Smiths - Hatful Of Hollow
+{{< youtube id="FQ4DUnghgT0" title="04 How Soon Is Now - The Smiths - Hatful Of Hollow" >}}<br>
 ### More Videos
 
-- [The Smiths - Heaven Knows I'm Miserable Now (Official Music Video)](https://www.youtube.com/watch?v=TjPhzgxe3L0)
+- [The Smiths - Heaven Knows Im Miserable Now Official Music Video](https://www.youtube.com/watch?v=TjPhzgxe3L0)
 
 ## Release Images
 {{< imageGrid >}}

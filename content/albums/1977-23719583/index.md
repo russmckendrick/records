@@ -54,14 +54,14 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 
 
 ## Videos
-### Ash - Kung Fu (Official HD Video)
-{{< youtube id="dWqY8qrBBSI" title="Ash - Kung Fu (Official HD Video)" >}}<br>
+### Ash - Kung Fu Official HD Video
+{{< youtube id="dWqY8qrBBSI" title="Ash - Kung Fu Official HD Video" >}}<br>
 ### More Videos
 
-- [Ash - Girl From Mars (UK version) (Official HD Video)](https://www.youtube.com/watch?v=FkSl9GGOFHM)
-- [Ash - Angel Interceptor (Official Video)](https://www.youtube.com/watch?v=QawmH3hOkl8)
-- [Ash - Goldfinger (Official HD Video)](https://www.youtube.com/watch?v=35hDrzcHnIA)
-- [Ash - Oh Yeah (Official HD Video)](https://www.youtube.com/watch?v=-aPIXeAmpO8)
+- [Ash - Girl From Mars UK version Official HD Video](https://www.youtube.com/watch?v=FkSl9GGOFHM)
+- [Ash - Angel Interceptor Official Video](https://www.youtube.com/watch?v=QawmH3hOkl8)
+- [Ash - Goldfinger Official HD Video](https://www.youtube.com/watch?v=35hDrzcHnIA)
+- [Ash - Oh Yeah Official HD Video](https://www.youtube.com/watch?v=-aPIXeAmpO8)
 
 ## Release Images
 {{< imageGrid >}}

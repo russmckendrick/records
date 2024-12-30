@@ -60,39 +60,39 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 
 
 ## Videos
-### Wesley's Theory
-{{< youtube id="l9fN-8NjrvI" title="Wesley's Theory" >}}<br>
+### Wesleys Theory
+{{< youtube id="l9fN-8NjrvI" title="Wesleys Theory" >}}<br>
 ### More Videos
 
-- [Kendrick Lamar - For Free?](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
+- [Kendrick Lamar - For Free](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
 - [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
 - [Institutionalized](https://www.youtube.com/watch?v=7L1POXocFIQ)
-- [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
-- [Kendrick Lamar - God is Gangsta ("U")](https://www.youtube.com/watch?v=cOyThzI3dKY)
+- [Kendrick Lamar - These Walls Explicit ft Bilal Anna Wise Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
+- [Kendrick Lamar - God is Gangsta U](https://www.youtube.com/watch?v=cOyThzI3dKY)
 - [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
-- [For Sale? (Interlude)](https://www.youtube.com/watch?v=RdCepOB4BV8)
+- [For Sale Interlude](https://www.youtube.com/watch?v=RdCepOB4BV8)
 - [Momma](https://www.youtube.com/watch?v=q1AOP6NtGuc)
 - [Hood Politics](https://www.youtube.com/watch?v=iIsHg3BHpB0)
 - [How Much A Dollar Cost](https://www.youtube.com/watch?v=y8kEiL81_R4)
-- [Complexion (A Zulu Love)](https://www.youtube.com/watch?v=Wt4dUK4uce0)
+- [Complexion A Zulu Love](https://www.youtube.com/watch?v=Wt4dUK4uce0)
 - [The Blacker The Berry](https://www.youtube.com/watch?v=VdPtVZDspIY)
-- [You Ain't Gotta Lie (Momma Said)](https://www.youtube.com/watch?v=78bSAKX_4vs)
+- [You Aint Gotta Lie Momma Said](https://www.youtube.com/watch?v=78bSAKX_4vs)
 - [i](https://www.youtube.com/watch?v=tt2-GsPA9kk)
 - [Mortal Man](https://www.youtube.com/watch?v=axwpgn3GRMs)
-- [Wesley's Theory](https://www.youtube.com/watch?v=l9fN-8NjrvI)
-- [Kendrick Lamar - For Free?](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
+- [Wesleys Theory](https://www.youtube.com/watch?v=l9fN-8NjrvI)
+- [Kendrick Lamar - For Free](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
 - [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
 - [Institutionalized](https://www.youtube.com/watch?v=7L1POXocFIQ)
-- [Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
-- [Kendrick Lamar - God is Gangsta ("U")](https://www.youtube.com/watch?v=cOyThzI3dKY)
+- [Kendrick Lamar - These Walls Explicit ft Bilal Anna Wise Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
+- [Kendrick Lamar - God is Gangsta U](https://www.youtube.com/watch?v=cOyThzI3dKY)
 - [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
-- [For Sale? (Interlude)](https://www.youtube.com/watch?v=RdCepOB4BV8)
+- [For Sale Interlude](https://www.youtube.com/watch?v=RdCepOB4BV8)
 - [Momma](https://www.youtube.com/watch?v=q1AOP6NtGuc)
 - [Hood Politics](https://www.youtube.com/watch?v=iIsHg3BHpB0)
 - [How Much A Dollar Cost](https://www.youtube.com/watch?v=y8kEiL81_R4)
-- [Complexion (A Zulu Love)](https://www.youtube.com/watch?v=Wt4dUK4uce0)
+- [Complexion A Zulu Love](https://www.youtube.com/watch?v=Wt4dUK4uce0)
 - [The Blacker The Berry](https://www.youtube.com/watch?v=VdPtVZDspIY)
-- [You Ain't Gotta Lie (Momma Said)](https://www.youtube.com/watch?v=78bSAKX_4vs)
+- [You Aint Gotta Lie Momma Said](https://www.youtube.com/watch?v=78bSAKX_4vs)
 - [i](https://www.youtube.com/watch?v=tt2-GsPA9kk)
 - [Mortal Man](https://www.youtube.com/watch?v=axwpgn3GRMs)
 

@@ -58,18 +58,18 @@ The song was the subject of controversy due to its overt similarity to another b
 {{< youtube id="g7Y7vH2XsAM" title="Elastica - Line Up" >}}<br>
 ### More Videos
 
-- [Elastica - Connection (Official Music Video)](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
+- [Elastica - Connection Official Music Video](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
 - [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
 - [Elastica - Stutter](https://www.youtube.com/watch?v=0ie4x8hWYYE)
 - [Elastica - Car Song](https://www.youtube.com/watch?v=djjw3BKUV28)
-- [Indian Song // Elastica](https://www.youtube.com/watch?v=aCEntBulV9U)
-- [Connection // Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
-- [Elastica – Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
-- [2:1](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
+- [Indian Song  Elastica](https://www.youtube.com/watch?v=aCEntBulV9U)
+- [Connection  Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
+- [Elastica  Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
+- [21](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
 - [Vaseline](https://www.youtube.com/watch?v=GjwQ811cBL8)
-- [Annie // Elastica](https://www.youtube.com/watch?v=L5FDA8sp2bU)
-- [Stutter // Elastica](https://www.youtube.com/watch?v=Lex-7TJN5Qk)
-- [Car Song // Elastica](https://www.youtube.com/watch?v=9tX7QnheAPA)
+- [Annie  Elastica](https://www.youtube.com/watch?v=L5FDA8sp2bU)
+- [Stutter  Elastica](https://www.youtube.com/watch?v=Lex-7TJN5Qk)
+- [Car Song  Elastica](https://www.youtube.com/watch?v=9tX7QnheAPA)
 
 ## Release Images
 {{< imageGrid >}}

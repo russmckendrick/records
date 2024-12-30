@@ -68,12 +68,12 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 
 
 ## Videos
-### Ween - Freedom of '76 (Official Music Video)
-{{< youtube id="G9M3GVejHNE" title="Ween - Freedom of '76 (Official Music Video)" >}}<br>
+### Ween - Freedom of 76 Official Music Video
+{{< youtube id="G9M3GVejHNE" title="Ween - Freedom of 76 Official Music Video" >}}<br>
 ### More Videos
 
-- [Ween - I Can't Put My Finger On It (Official Music Video)](https://www.youtube.com/watch?v=pG83XgPZqMU)
-- [Ween - Voodoo Lady (Official Music Video)](https://www.youtube.com/watch?v=BrU8rSbRyQY)
+- [Ween - I Cant Put My Finger On It Official Music Video](https://www.youtube.com/watch?v=pG83XgPZqMU)
+- [Ween - Voodoo Lady Official Music Video](https://www.youtube.com/watch?v=BrU8rSbRyQY)
 - [Take Me Away](https://www.youtube.com/watch?v=bibNhm7RxUQ)
 
 ## Release Images

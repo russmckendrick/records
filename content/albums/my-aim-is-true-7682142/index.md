@@ -52,13 +52,13 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 
 
 ## Videos
-### Elvis Costello & Clover - My Aim Is True (1977)
-{{< youtube id="3-9Jt2J40t4" title="Elvis Costello & Clover - My Aim Is True (1977)" >}}<br>
+### Elvis Costello  Clover - My Aim Is True 1977
+{{< youtube id="3-9Jt2J40t4" title="Elvis Costello  Clover - My Aim Is True 1977" >}}<br>
 ### More Videos
 
 - [Welcome To The Working Week](https://www.youtube.com/watch?v=FJTIIfhk2k4)
 - [Alison](https://www.youtube.com/watch?v=XTtopI620ZU)
-- [I'm Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
+- [Im Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
 
 ## Release Images
 {{< imageGrid >}}

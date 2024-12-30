@@ -47,8 +47,8 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 
 
 ## Videos
-### Black sabbath - Black  Sabbath (1970) full album
-{{< youtube id="o8jPw5F8GJk" title="Black sabbath - Black  Sabbath (1970) full album" >}}<br>
+### Black sabbath - Black  Sabbath 1970 full album
+{{< youtube id="o8jPw5F8GJk" title="Black sabbath - Black  Sabbath 1970 full album" >}}<br>
 
 
 ## Release Images

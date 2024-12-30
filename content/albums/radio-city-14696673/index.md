@@ -50,21 +50,21 @@ It was voted number 319 in the third edition of Colin Larkin's All Time Top 1000
 
 
 ## Videos
-### Big Star - O My Soul (Official Audio)
-{{< youtube id="gn5EWQtlevI" title="Big Star - O My Soul (Official Audio)" >}}<br>
+### Big Star - O My Soul Official Audio
+{{< youtube id="gn5EWQtlevI" title="Big Star - O My Soul Official Audio" >}}<br>
 ### More Videos
 
-- [Big Star - Life Is White (Official Audio)](https://www.youtube.com/watch?v=uWy3Jk8yCTY)
-- [Big Star - Way Out West (Official Audio)](https://www.youtube.com/watch?v=gxmwu6H9JOk)
-- [Big Star - What's Goin Ahn (Official Audio)](https://www.youtube.com/watch?v=tLA3y8wejHQ)
-- [Big Star - You Get What You Deserve (Official Audio)](https://www.youtube.com/watch?v=f9Mk3RYJ-kA)
-- [Big Star - Mod Lang (Official Audio)](https://www.youtube.com/watch?v=3PsQazxHcaQ)
-- [Big Star - Back Of A Car (Official Audio)](https://www.youtube.com/watch?v=VIy783wiIIQ)
-- [Big Star - Daisy Glaze (Official Audio)](https://www.youtube.com/watch?v=CBdZbDWiA2k)
-- [Big Star - She's A Mover (Official Audio)](https://www.youtube.com/watch?v=vXJK1vAUeiY)
-- [Big Star - September Gurls (Official Audio)](https://www.youtube.com/watch?v=fdgICN3DY4g)
-- [Big Star - Morpha Too (Official Audio)](https://www.youtube.com/watch?v=bkpTuPLPaAU)
-- [Big Star - I'm In Love With A Girl (Official Audio)](https://www.youtube.com/watch?v=Ues33dYm1c4)
+- [Big Star - Life Is White Official Audio](https://www.youtube.com/watch?v=uWy3Jk8yCTY)
+- [Big Star - Way Out West Official Audio](https://www.youtube.com/watch?v=gxmwu6H9JOk)
+- [Big Star - Whats Goin Ahn Official Audio](https://www.youtube.com/watch?v=tLA3y8wejHQ)
+- [Big Star - You Get What You Deserve Official Audio](https://www.youtube.com/watch?v=f9Mk3RYJ-kA)
+- [Big Star - Mod Lang Official Audio](https://www.youtube.com/watch?v=3PsQazxHcaQ)
+- [Big Star - Back Of A Car Official Audio](https://www.youtube.com/watch?v=VIy783wiIIQ)
+- [Big Star - Daisy Glaze Official Audio](https://www.youtube.com/watch?v=CBdZbDWiA2k)
+- [Big Star - Shes A Mover Official Audio](https://www.youtube.com/watch?v=vXJK1vAUeiY)
+- [Big Star - September Gurls Official Audio](https://www.youtube.com/watch?v=fdgICN3DY4g)
+- [Big Star - Morpha Too Official Audio](https://www.youtube.com/watch?v=bkpTuPLPaAU)
+- [Big Star - Im In Love With A Girl Official Audio](https://www.youtube.com/watch?v=Ues33dYm1c4)
 
 ## Release Images
 {{< imageGrid >}}

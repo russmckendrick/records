@@ -47,19 +47,19 @@ Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
 
 
 ## Videos
-### Until Death (Us Do Part)
-{{< youtube id="Vq-udrSV7M4" title="Until Death (Us Do Part)" >}}<br>
+### Until Death Us Do Part
+{{< youtube id="Vq-udrSV7M4" title="Until Death Us Do Part" >}}<br>
 ### More Videos
 
 - [Circling Overland](https://www.youtube.com/watch?v=GQTys90jNkc)
-- [I'm Rhythmus Bleiben](https://www.youtube.com/watch?v=yi6vw3L5W6Y)
+- [Im Rhythmus Bleiben](https://www.youtube.com/watch?v=yi6vw3L5W6Y)
 - [Felines](https://www.youtube.com/watch?v=RAouNlhOuSk)
-- [First In / First Out](https://www.youtube.com/watch?v=ii_rcXrbfRs)
+- [First In  First Out](https://www.youtube.com/watch?v=ii_rcXrbfRs)
 - [Blend The Strengths](https://www.youtube.com/watch?v=0Iu9Uko9zvg)
-- [Headhunter V3.0](https://www.youtube.com/watch?v=aPKsvVKqvOg)
+- [Headhunter V30](https://www.youtube.com/watch?v=aPKsvVKqvOg)
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
 - [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
-- [Front 242 - Work 242 n.Off Is n.Off (1992)](https://www.youtube.com/watch?v=zNbW-Mdk1zc)
+- [Front 242 - Work 242 nOff Is nOff 1992](https://www.youtube.com/watch?v=zNbW-Mdk1zc)
 
 ## Release Images
 {{< imageGrid >}}

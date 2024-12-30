@@ -42,12 +42,12 @@ styles: []
 
 
 ## Videos
-### St. Paul & The Broken Bones - The Alien Coast Album Listening Party
-{{< youtube id="TUhQkIYB8KA" title="St. Paul & The Broken Bones - The Alien Coast Album Listening Party" >}}<br>
+### St Paul  The Broken Bones - The Alien Coast Album Listening Party
+{{< youtube id="TUhQkIYB8KA" title="St Paul  The Broken Bones - The Alien Coast Album Listening Party" >}}<br>
 ### More Videos
 
-- [St. Paul & The Broken Bones - The Alien Coast Album Listening Party](https://www.youtube.com/watch?v=TUhQkIYB8KA)
-- [St. Paul & The Broken Bones - Minotaur (Official Audio)](https://www.youtube.com/watch?v=bd96ZE48h5M)
+- [St Paul  The Broken Bones - The Alien Coast Album Listening Party](https://www.youtube.com/watch?v=TUhQkIYB8KA)
+- [St Paul  The Broken Bones - Minotaur Official Audio](https://www.youtube.com/watch?v=bd96ZE48h5M)
 
 ## Release Images
 {{< imageGrid >}}

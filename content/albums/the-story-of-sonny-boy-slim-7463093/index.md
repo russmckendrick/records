@@ -59,18 +59,18 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 
 
 ## Videos
-### Gary Clark Jr. - Wings
-{{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr. - Wings" >}}<br>
+### Gary Clark Jr - Wings
+{{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr - Wings" >}}<br>
 ### More Videos
 
-- [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
-- [Vinyl Unboxing, Gary Clark Jr "The Story of Sonny Boy Slim"](https://www.youtube.com/watch?v=r41NtcTBL0k)
-- [Gary Clark Jr. - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
-- [Gary Clark Jr. - Wings](https://www.youtube.com/watch?v=kWxLtDfm0GE)
-- [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
-- [Vinyl Unboxing, Gary Clark Jr "The Story of Sonny Boy Slim"](https://www.youtube.com/watch?v=r41NtcTBL0k)
-- [Gary Clark Jr. - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
-- [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)
+- [Gary Clark Jr - BYOBCant SleepShake Official Music Video](https://www.youtube.com/watch?v=M6R0I7mGsUc)
+- [Vinyl Unboxing Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
+- [Gary Clark Jr - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
+- [Gary Clark Jr - Wings](https://www.youtube.com/watch?v=kWxLtDfm0GE)
+- [Gary Clark Jr - BYOBCant SleepShake Official Music Video](https://www.youtube.com/watch?v=M6R0I7mGsUc)
+- [Vinyl Unboxing Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
+- [Gary Clark Jr - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
+- [Gary Clark Jr - Grinder Official Music Video](https://www.youtube.com/watch?v=5ffEpbvAcG4)
 - [Cold Blooded](https://www.youtube.com/watch?v=7KdVSh8jvto)
 - [Down to Ride](https://www.youtube.com/watch?v=eA6i5oaTkTU)
 

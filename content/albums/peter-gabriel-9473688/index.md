@@ -57,10 +57,10 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ### More Videos
 
 - [Peter Gabriel - Solsbury Hill](https://www.youtube.com/watch?v=_OO2PuGz-H8)
-- [Peter Gabriel - Solsbury Hill (Live DNA)](https://www.youtube.com/watch?v=WeYqJxlSv-Y)
+- [Peter Gabriel - Solsbury Hill Live DNA](https://www.youtube.com/watch?v=WeYqJxlSv-Y)
 - [Peter Gabriel   Here Comes The Flood original   Lyrics flv](https://www.youtube.com/watch?v=nSSVU-Ux_VQ)
-- [PETER GABRIEL - "SOLSBURY HILL" - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO* - 4K/UHD](https://www.youtube.com/watch?v=CmeDE36usn8)
-- [PETER GABRIEL - "HERE COMES THE FLOOD" - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO* - 4K/UHD](https://www.youtube.com/watch?v=7l_OvQyE2wI)
+- [PETER GABRIEL - SOLSBURY HILL - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO - 4KUHD](https://www.youtube.com/watch?v=CmeDE36usn8)
+- [PETER GABRIEL - HERE COMES THE FLOOD - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO - 4KUHD](https://www.youtube.com/watch?v=7l_OvQyE2wI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -64,11 +64,11 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 
 
 ## Videos
-### Kraftwerk Remixes - CD1 (Kling Klang Product 2022. - Ralf Hütter)
-{{< youtube id="pDeR-ZtfTpw" title="Kraftwerk Remixes - CD1 (Kling Klang Product 2022. - Ralf Hütter)" >}}<br>
+### Kraftwerk Remixes - CD1 Kling Klang Product 2022 - Ralf Hütter
+{{< youtube id="pDeR-ZtfTpw" title="Kraftwerk Remixes - CD1 Kling Klang Product 2022 - Ralf Hütter" >}}<br>
 ### More Videos
 
-- [Kraftwerk Remixes - CD2 (Kling Klang Product 2022. - Ralf Hütter)](https://www.youtube.com/watch?v=4P_KvcjCgiw)
+- [Kraftwerk Remixes - CD2 Kling Klang Product 2022 - Ralf Hütter](https://www.youtube.com/watch?v=4P_KvcjCgiw)
 
 ## Release Images
 {{< imageGrid >}}

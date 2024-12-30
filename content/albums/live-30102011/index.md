@@ -85,8 +85,8 @@ Captured live onstage at a variety of dates between 1990 and 1991, <I>AC/DC Live
 
 
 ## Videos
-### Jailbreak (Live - 1991)
-{{< youtube id="os5TmHox0rU" title="Jailbreak (Live - 1991)" >}}<br>
+### Jailbreak Live - 1991
+{{< youtube id="os5TmHox0rU" title="Jailbreak Live - 1991" >}}<br>
 
 
 ## Release Images

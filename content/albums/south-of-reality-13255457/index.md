@@ -47,20 +47,20 @@ South of Reality is the second studio album by The Claypool Lennon Delirium cons
 
 
 ## Videos
-### The Claypool Lennon Delirium - Little Fishes (Official Video)
-{{< youtube id="cZOHWyfgZdY" title="The Claypool Lennon Delirium - Little Fishes (Official Video)" >}}<br>
+### The Claypool Lennon Delirium - Little Fishes Official Video
+{{< youtube id="cZOHWyfgZdY" title="The Claypool Lennon Delirium - Little Fishes Official Video" >}}<br>
 ### More Videos
 
-- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
-- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
-- [The Claypool Lennon Delirium - Amethyst Realm (Official Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
-- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
-- [The Claypool Lennon Delirium - Amethyst Realm (Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
-- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
-- [The Claypool Lennon Delirium - Little Fishes (Official Video)](https://www.youtube.com/watch?v=cZOHWyfgZdY)
-- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
-- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
-- [The Claypool Lennon Delirium - Amethyst Realm (Official Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
+- [The Claypool Lennon Delirium - Blood And Rockets Movement I Saga Of Jack Parsons - Mo](https://www.youtube.com/watch?v=XcOHiGonWwU)
+- [The Claypool Lennon Delirium - Easily Charmed By Fools Official Audio](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Amethyst Realm Official Audio](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
+- [The Claypool Lennon Delirium - Blood And Rockets Movement I Saga Of Jack Parsons - Mo](https://www.youtube.com/watch?v=XcOHiGonWwU)
+- [The Claypool Lennon Delirium - Amethyst Realm Audio](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
+- [The Claypool Lennon Delirium - Easily Charmed By Fools Official Audio](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Little Fishes Official Video](https://www.youtube.com/watch?v=cZOHWyfgZdY)
+- [The Claypool Lennon Delirium - Blood And Rockets Movement I Saga Of Jack Parsons - Mo](https://www.youtube.com/watch?v=XcOHiGonWwU)
+- [The Claypool Lennon Delirium - Easily Charmed By Fools Official Audio](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Amethyst Realm Official Audio](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 
 ## Release Images
 {{< imageGrid >}}

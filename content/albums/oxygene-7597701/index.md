@@ -37,19 +37,19 @@ styles: ["Synth-pop", "Ambient"]
 
 
 ## Videos
-### Jean Michel Jarre — Oxygene (1976/Full album)
-{{< youtube id="5ab7tIZNplM" title="Jean Michel Jarre — Oxygene (1976/Full album)" >}}<br>
+### Jean Michel Jarre  Oxygene 1976Full album
+{{< youtube id="5ab7tIZNplM" title="Jean Michel Jarre  Oxygene 1976Full album" >}}<br>
 ### More Videos
 
-- [Oxygène, Pt. 1](https://www.youtube.com/watch?v=chj6g9Nuiw0)
-- [Oxygène, Pt. 2](https://www.youtube.com/watch?v=Pq9syWwgSEA)
-- [Oxygène, Pt. 3](https://www.youtube.com/watch?v=C08OhE2e96s)
-- [Oxygène, Pt. 4](https://www.youtube.com/watch?v=58EOZgfmq6w)
-- [Oxygène, Pt. 5](https://www.youtube.com/watch?v=h4yDISa7XTA)
-- [Oxygène, Pt. 6](https://www.youtube.com/watch?v=0-jvmh_lMXI)
-- [Scialadance - Oxigèn Part 4 ( Extended Mix ) [ From the Album: Scialescion ]](https://www.youtube.com/watch?v=W9vTfzjOvkk)
-- [Jean-Michel Jarre - Oxygene, Pt. 4](https://www.youtube.com/watch?v=kSIMVnPA994)
-- [Jean Michel Jarre - Oxygene 4 - Live in Beijing, China [DVD Upscale]](https://www.youtube.com/watch?v=lRm4kZxA_nk)
+- [Oxygène Pt 1](https://www.youtube.com/watch?v=chj6g9Nuiw0)
+- [Oxygène Pt 2](https://www.youtube.com/watch?v=Pq9syWwgSEA)
+- [Oxygène Pt 3](https://www.youtube.com/watch?v=C08OhE2e96s)
+- [Oxygène Pt 4](https://www.youtube.com/watch?v=58EOZgfmq6w)
+- [Oxygène Pt 5](https://www.youtube.com/watch?v=h4yDISa7XTA)
+- [Oxygène Pt 6](https://www.youtube.com/watch?v=0-jvmh_lMXI)
+- [Scialadance - Oxigèn Part 4  Extended Mix   From the Album Scialescion ](https://www.youtube.com/watch?v=W9vTfzjOvkk)
+- [Jean-Michel Jarre - Oxygene Pt 4](https://www.youtube.com/watch?v=kSIMVnPA994)
+- [Jean Michel Jarre - Oxygene 4 - Live in Beijing China DVD Upscale](https://www.youtube.com/watch?v=lRm4kZxA_nk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -70,22 +70,22 @@ styles: ["Pop Rock", "Glam", "Art Rock"]
 
 
 ## Videos
-### Oh! You Pretty Things- Bowie at the Beeb
-{{< youtube id="LfPGfhvsKZQ" title="Oh! You Pretty Things- Bowie at the Beeb" >}}<br>
+### Oh You Pretty Things- Bowie at the Beeb
+{{< youtube id="LfPGfhvsKZQ" title="Oh You Pretty Things- Bowie at the Beeb" >}}<br>
 ### More Videos
 
 - [White Light White Heat- Bowie at the Beeb](https://www.youtube.com/watch?v=X8wQdyMzu0I)
 - [Space Oddity- Bowie at the Beeb](https://www.youtube.com/watch?v=IrzRiOyfjk0)
 - [Ziggy Stardust- Bowie at the Beeb](https://www.youtube.com/watch?v=M2NwVQoNMZQ)
-- [Starman.- Bowie at the Beeb](https://www.youtube.com/watch?v=nzRpWTGxu7o)
+- [Starman- Bowie at the Beeb](https://www.youtube.com/watch?v=nzRpWTGxu7o)
 - [Waiting For The Man- Bowie at the Beeb](https://www.youtube.com/watch?v=IOJ4GH88cn4)
-- [Moonage Daydream.- Bowie at the Beeb](https://www.youtube.com/watch?v=2syGy1TjXq0)
+- [Moonage Daydream- Bowie at the Beeb](https://www.youtube.com/watch?v=2syGy1TjXq0)
 - [Five Years- Bowie at the Beeb](https://www.youtube.com/watch?v=qPHpQY77fLU)
 - [Kooks- Bowie at the Beeb](https://www.youtube.com/watch?v=mLHQ8-IBmzw)
-- [Rock 'n' Roll Suicide- Bowie at the Beeb](https://www.youtube.com/watch?v=gYOnYL1G8KM)
+- [Rock n Roll Suicide- Bowie at the Beeb](https://www.youtube.com/watch?v=gYOnYL1G8KM)
 - [Lady Stardust- Bowie at the Beeb](https://www.youtube.com/watch?v=hlMKeQDSGaQ)
-- [David Bowie - Karma Man (from the Bowie at the Beeb), 1968](https://www.youtube.com/watch?v=phaD4UnWS-w)
-- [Oh! You Pretty Things- Bowie at the Beeb](https://www.youtube.com/watch?v=LfPGfhvsKZQ)
+- [David Bowie - Karma Man from the Bowie at the Beeb 1968](https://www.youtube.com/watch?v=phaD4UnWS-w)
+- [Oh You Pretty Things- Bowie at the Beeb](https://www.youtube.com/watch?v=LfPGfhvsKZQ)
 - [White Light White Heat- Bowie at the Beeb](https://www.youtube.com/watch?v=X8wQdyMzu0I)
 
 ## Release Images

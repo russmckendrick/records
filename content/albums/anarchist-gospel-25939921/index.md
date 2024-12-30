@@ -58,37 +58,37 @@ Anarchist Gospel is a 2023 studio album by American folk punk musician Sunny War
 
 
 ## Videos
-### Sunny War - "Loves Death Bed (feat. Allison Russell and Chris Pierce)" [Official Audio]
-{{< youtube id="tLCqZjbUuCk" title="Sunny War - "Loves Death Bed (feat. Allison Russell and Chris Pierce)" [Official Audio]" >}}<br>
+### Sunny War - Loves Death Bed feat Allison Russell and Chris Pierce Official Audio
+{{< youtube id="tLCqZjbUuCk" title="Sunny War - Loves Death Bed feat Allison Russell and Chris Pierce Official Audio" >}}<br>
 ### More Videos
 
-- [Sunny War - "No Reason" [Official Music Video]](https://www.youtube.com/watch?v=mMiorXhua5A)
-- [Sunny War - "Shelter And Storm (feat. David Rawlings)" [Official Audio]](https://www.youtube.com/watch?v=w0xt2H9COvo)
-- [Sunny War - "I Got No Fight" [Official Audio]](https://www.youtube.com/watch?v=D6OkPIg2wgo)
-- [Swear To Gawd (feat. David Rawlings & Chris Pierce)](https://www.youtube.com/watch?v=5caYMGcz6yw)
-- [Sunny War - "Baby Bitch"  [Official Audio]](https://www.youtube.com/watch?v=Qim2TSC3x40)
-- [Sunny War - "His Love" [Official Audio]](https://www.youtube.com/watch?v=uEEKAr2Mvns)
-- [Sunny War - "Whole" [Official Audio]](https://www.youtube.com/watch?v=O7GlPPDZp_A)
-- [Sunny War - "New Day" [Official Audio]](https://www.youtube.com/watch?v=XOxIAk-DQSs)
-- [Sunny War - "Earth (feat. Jim James)" [Official Audio]](https://www.youtube.com/watch?v=RZc3P3tzLFM)
-- [Sunny War - "Hopeless (feat. Allison Russell and Chris Pierce)" [Official Audio]](https://www.youtube.com/watch?v=psTUUQe9cz0)
-- [Higher (feat. David Rawlings)](https://www.youtube.com/watch?v=th9Nec09wxU)
-- [Sunny War - "Test Dummy" [Official Audio]](https://www.youtube.com/watch?v=6IjHLasL_qc)
-- [Sunny War - "Sweet Nothing" [Official Audio]](https://www.youtube.com/watch?v=rUPQLEfimx8)
-- [Sunny War - "Loves Death Bed (feat. Allison Russell and Chris Pierce)" [Official Audio]](https://www.youtube.com/watch?v=tLCqZjbUuCk)
-- [Sunny War - "No Reason" [Official Music Video]](https://www.youtube.com/watch?v=mMiorXhua5A)
-- [Sunny War - "Shelter And Storm (feat. David Rawlings)" [Official Audio]](https://www.youtube.com/watch?v=w0xt2H9COvo)
-- [Sunny War - "I Got No Fight" [Official Audio]](https://www.youtube.com/watch?v=D6OkPIg2wgo)
-- [Swear To Gawd (feat. David Rawlings & Chris Pierce)](https://www.youtube.com/watch?v=5caYMGcz6yw)
-- [Sunny War - "Baby Bitch"  [Official Audio]](https://www.youtube.com/watch?v=Qim2TSC3x40)
-- [Sunny War - "His Love" [Official Audio]](https://www.youtube.com/watch?v=uEEKAr2Mvns)
-- [Sunny War - "Whole" [Official Audio]](https://www.youtube.com/watch?v=O7GlPPDZp_A)
-- [Sunny War - "New Day" [Official Audio]](https://www.youtube.com/watch?v=XOxIAk-DQSs)
-- [Sunny War - "Earth (feat. Jim James)" [Official Audio]](https://www.youtube.com/watch?v=RZc3P3tzLFM)
-- [Sunny War - "Hopeless (feat. Allison Russell and Chris Pierce)" [Official Audio]](https://www.youtube.com/watch?v=psTUUQe9cz0)
-- [Higher (feat. David Rawlings)](https://www.youtube.com/watch?v=th9Nec09wxU)
-- [Sunny War - "Test Dummy" [Official Audio]](https://www.youtube.com/watch?v=6IjHLasL_qc)
-- [Sunny War - "Sweet Nothing" [Official Audio]](https://www.youtube.com/watch?v=rUPQLEfimx8)
+- [Sunny War - No Reason Official Music Video](https://www.youtube.com/watch?v=mMiorXhua5A)
+- [Sunny War - Shelter And Storm feat David Rawlings Official Audio](https://www.youtube.com/watch?v=w0xt2H9COvo)
+- [Sunny War - I Got No Fight Official Audio](https://www.youtube.com/watch?v=D6OkPIg2wgo)
+- [Swear To Gawd feat David Rawlings  Chris Pierce](https://www.youtube.com/watch?v=5caYMGcz6yw)
+- [Sunny War - Baby Bitch  Official Audio](https://www.youtube.com/watch?v=Qim2TSC3x40)
+- [Sunny War - His Love Official Audio](https://www.youtube.com/watch?v=uEEKAr2Mvns)
+- [Sunny War - Whole Official Audio](https://www.youtube.com/watch?v=O7GlPPDZp_A)
+- [Sunny War - New Day Official Audio](https://www.youtube.com/watch?v=XOxIAk-DQSs)
+- [Sunny War - Earth feat Jim James Official Audio](https://www.youtube.com/watch?v=RZc3P3tzLFM)
+- [Sunny War - Hopeless feat Allison Russell and Chris Pierce Official Audio](https://www.youtube.com/watch?v=psTUUQe9cz0)
+- [Higher feat David Rawlings](https://www.youtube.com/watch?v=th9Nec09wxU)
+- [Sunny War - Test Dummy Official Audio](https://www.youtube.com/watch?v=6IjHLasL_qc)
+- [Sunny War - Sweet Nothing Official Audio](https://www.youtube.com/watch?v=rUPQLEfimx8)
+- [Sunny War - Loves Death Bed feat Allison Russell and Chris Pierce Official Audio](https://www.youtube.com/watch?v=tLCqZjbUuCk)
+- [Sunny War - No Reason Official Music Video](https://www.youtube.com/watch?v=mMiorXhua5A)
+- [Sunny War - Shelter And Storm feat David Rawlings Official Audio](https://www.youtube.com/watch?v=w0xt2H9COvo)
+- [Sunny War - I Got No Fight Official Audio](https://www.youtube.com/watch?v=D6OkPIg2wgo)
+- [Swear To Gawd feat David Rawlings  Chris Pierce](https://www.youtube.com/watch?v=5caYMGcz6yw)
+- [Sunny War - Baby Bitch  Official Audio](https://www.youtube.com/watch?v=Qim2TSC3x40)
+- [Sunny War - His Love Official Audio](https://www.youtube.com/watch?v=uEEKAr2Mvns)
+- [Sunny War - Whole Official Audio](https://www.youtube.com/watch?v=O7GlPPDZp_A)
+- [Sunny War - New Day Official Audio](https://www.youtube.com/watch?v=XOxIAk-DQSs)
+- [Sunny War - Earth feat Jim James Official Audio](https://www.youtube.com/watch?v=RZc3P3tzLFM)
+- [Sunny War - Hopeless feat Allison Russell and Chris Pierce Official Audio](https://www.youtube.com/watch?v=psTUUQe9cz0)
+- [Higher feat David Rawlings](https://www.youtube.com/watch?v=th9Nec09wxU)
+- [Sunny War - Test Dummy Official Audio](https://www.youtube.com/watch?v=6IjHLasL_qc)
+- [Sunny War - Sweet Nothing Official Audio](https://www.youtube.com/watch?v=rUPQLEfimx8)
 
 ## Release Images
 {{< imageGrid >}}

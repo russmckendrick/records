@@ -53,21 +53,21 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 
 
 ## Videos
-### Arrested Development - Mr. Wendal
-{{< youtube id="GfxvsHpTZWk" title="Arrested Development - Mr. Wendal" >}}<br>
+### Arrested Development - Mr Wendal
+{{< youtube id="GfxvsHpTZWk" title="Arrested Development - Mr Wendal" >}}<br>
 ### More Videos
 
 - [People Everyday - Arrested Development](https://www.youtube.com/watch?v=QlKWz_FcVoo)
-- [3̲ ̲Y̲e̲a̲r̲s̲,̲ ̲5̲ ̲M̲o̲n̲t̲h̲s̲ ̲A̲n̲d̲ ̲2̲ ̲D̲a̲y̲s̲ ̲I̲n̲ ̲T̲h̲e̲ ̲L̲i̲f̲e̲ ̲O̲f̲.̲.̲.̲](https://www.youtube.com/watch?v=GMGXnL78xmQ)
+- [3 Years 5 Months And 2 Days In The Life Of](https://www.youtube.com/watch?v=GMGXnL78xmQ)
 - [Arrested Development - Tennessee](https://www.youtube.com/watch?v=6VCdJyOAQYM)
-- [Arrested Development - Mr. Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
-- [Man's Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
-- [Mama's Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
+- [Arrested Development - Mr Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
+- [Mans Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
+- [Mamas Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
 - [People Everyday](https://www.youtube.com/watch?v=eBpiJysWvK8)
 - [Blues Happy](https://www.youtube.com/watch?v=kWSKhBd2HVM)
 - [Children Play With Earth](https://www.youtube.com/watch?v=JXlmXGQRCKo)
 - [Raining Revolution](https://www.youtube.com/watch?v=UvXLuKZX2cc)
-- [Fishin' 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
+- [Fishin 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
 - [Give A Man A Fish](https://www.youtube.com/watch?v=EjyWKR8HFC8)
 - [U](https://www.youtube.com/watch?v=F_oaU12n-d8)
 - [Eve Of Reality](https://www.youtube.com/watch?v=0aXUsECPt4g)

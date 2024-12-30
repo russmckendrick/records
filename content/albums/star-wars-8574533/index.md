@@ -61,13 +61,13 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 
 
 ## Videos
-### Star Wars - A New Hope (1977) Soundtrack - J.O.H.N  W.L.L.I.A.M.S (Full Vinyl Rip)
-{{< youtube id="5HyEXrrihYE" title="Star Wars - A New Hope (1977) Soundtrack - J.O.H.N  W.L.L.I.A.M.S (Full Vinyl Rip)" >}}<br>
+### Star Wars - A New Hope 1977 Soundtrack - JOHN  WLLIAMS Full Vinyl Rip
+{{< youtube id="5HyEXrrihYE" title="Star Wars - A New Hope 1977 Soundtrack - JOHN  WLLIAMS Full Vinyl Rip" >}}<br>
 ### More Videos
 
-- [John Williams - Main Title from Star Wars | London Symphony Orchestra](https://www.youtube.com/watch?v=YtyrRpGAg34)
-- [Star Wars Main Theme - John Williams (London Symphony Orchestra)](https://www.youtube.com/watch?v=vKmganWCdW0)
-- [Princess Leia's Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
+- [John Williams - Main Title from Star Wars  London Symphony Orchestra](https://www.youtube.com/watch?v=YtyrRpGAg34)
+- [Star Wars Main Theme - John Williams London Symphony Orchestra](https://www.youtube.com/watch?v=vKmganWCdW0)
+- [Princess Leias Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
 
 ## Release Images
 {{< imageGrid >}}

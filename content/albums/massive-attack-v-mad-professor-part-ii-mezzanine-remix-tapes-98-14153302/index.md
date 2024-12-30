@@ -39,19 +39,19 @@ styles: ["Dub", "Trip Hop"]
 
 
 ## Videos
-### Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | A
-{{< youtube id="iVShA-dLMZw" title="Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | A" >}}<br>
+### Massive Attack V Mad Professor  Massive Attack V Mad Professor Part II Mezzanine Remix Tapes  A
+{{< youtube id="iVShA-dLMZw" title="Massive Attack V Mad Professor  Massive Attack V Mad Professor Part II Mezzanine Remix Tapes  A" >}}<br>
 ### More Videos
 
-- [Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | B](https://www.youtube.com/watch?v=mXmW0800c6Y)
-- [Massive Attack vs. Mad Professor part.2 - metal banshee [Mad Prof mix]](https://www.youtube.com/watch?v=jqeIEOPdsPs)
-- [Angel (Angel Dust)](https://www.youtube.com/watch?v=9fOoKV3x3MA)
-- [Teardrop (Mazaruni Dub One)](https://www.youtube.com/watch?v=OXebv3b39z0)
-- [Inertia Creeps (Floating On Dubwise)](https://www.youtube.com/watch?v=fnIhdDyX97s)
-- [Risingson (Setting Sun Dub Two)](https://www.youtube.com/watch?v=i4Tegd5sTMw)
-- [Exchange (Mountain Steppers Dub)](https://www.youtube.com/watch?v=zjhrr15d5Pk)
-- [Wire (Leaping Dub)](https://www.youtube.com/watch?v=XKciMRLc-54)
-- [Group Four (Security Forces Dub)](https://www.youtube.com/watch?v=WVq9ALeljzw)
+- [Massive Attack V Mad Professor  Massive Attack V Mad Professor Part II Mezzanine Remix Tapes  B](https://www.youtube.com/watch?v=mXmW0800c6Y)
+- [Massive Attack vs Mad Professor part2 - metal banshee Mad Prof mix](https://www.youtube.com/watch?v=jqeIEOPdsPs)
+- [Angel Angel Dust](https://www.youtube.com/watch?v=9fOoKV3x3MA)
+- [Teardrop Mazaruni Dub One](https://www.youtube.com/watch?v=OXebv3b39z0)
+- [Inertia Creeps Floating On Dubwise](https://www.youtube.com/watch?v=fnIhdDyX97s)
+- [Risingson Setting Sun Dub Two](https://www.youtube.com/watch?v=i4Tegd5sTMw)
+- [Exchange Mountain Steppers Dub](https://www.youtube.com/watch?v=zjhrr15d5Pk)
+- [Wire Leaping Dub](https://www.youtube.com/watch?v=XKciMRLc-54)
+- [Group Four Security Forces Dub](https://www.youtube.com/watch?v=WVq9ALeljzw)
 
 ## Release Images
 {{< imageGrid >}}

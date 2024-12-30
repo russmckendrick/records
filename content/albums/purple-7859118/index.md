@@ -64,14 +64,14 @@ Purple is the fourth studio album by American heavy metal band Baroness. It was 
 
 
 ## Videos
-### BARONESS - Morningstar [AUDIO]
-{{< youtube id="OYF5FCu_M-k" title="BARONESS - Morningstar [AUDIO]" >}}<br>
+### BARONESS - Morningstar AUDIO
+{{< youtube id="OYF5FCu_M-k" title="BARONESS - Morningstar AUDIO" >}}<br>
 ### More Videos
 
-- [BARONESS - Chlorine & Wine [Official Music Video]](https://www.youtube.com/watch?v=DnYO7iQfQDQ)
-- [BARONESS - Try To Disappear [Official Music Video]](https://www.youtube.com/watch?v=iI8HXIhenHQ)
-- [BARONESS - Shock Me [Official Music Video]](https://www.youtube.com/watch?v=t6OCeW6FVvY)
-- [BARONESS - Morningstar [AUDIO]](https://www.youtube.com/watch?v=OYF5FCu_M-k)
+- [BARONESS - Chlorine  Wine Official Music Video](https://www.youtube.com/watch?v=DnYO7iQfQDQ)
+- [BARONESS - Try To Disappear Official Music Video](https://www.youtube.com/watch?v=iI8HXIhenHQ)
+- [BARONESS - Shock Me Official Music Video](https://www.youtube.com/watch?v=t6OCeW6FVvY)
+- [BARONESS - Morningstar AUDIO](https://www.youtube.com/watch?v=OYF5FCu_M-k)
 
 ## Release Images
 {{< imageGrid >}}

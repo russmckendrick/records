@@ -40,11 +40,11 @@ Following their first studio album in ten years, 2019's Renaissance Men, the Wil
 
 
 ## Videos
-### The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album
-{{< youtube id="TTpP3Nu12Us" title="The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album" >}}<br>
+### The Wildhearts  - 21st Century Love Songs  2021  Full Album
+{{< youtube id="TTpP3Nu12Us" title="The Wildhearts  - 21st Century Love Songs  2021  Full Album" >}}<br>
 ### More Videos
 
-- [The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album](https://www.youtube.com/watch?v=TTpP3Nu12Us)
+- [The Wildhearts  - 21st Century Love Songs  2021  Full Album](https://www.youtube.com/watch?v=TTpP3Nu12Us)
 
 ## Release Images
 {{< imageGrid >}}

@@ -64,22 +64,22 @@ The album received generally favourable reviews from critics. It debuted at numb
 
 
 ## Videos
-### M83 - 'Hurry Up We're Dreaming' Trilogy
-{{< youtube id="4IuTaMH9RCs" title="M83 - 'Hurry Up We're Dreaming' Trilogy" >}}<br>
+### M83 - Hurry Up Were Dreaming Trilogy
+{{< youtube id="4IuTaMH9RCs" title="M83 - Hurry Up Were Dreaming Trilogy" >}}<br>
 ### More Videos
 
-- [M83 - "Wait" (Official Video)](https://www.youtube.com/watch?v=lAwYodrBr2Q)
+- [M83 - Wait Official Video](https://www.youtube.com/watch?v=lAwYodrBr2Q)
 - [M83 - Outro](https://www.youtube.com/watch?v=Eyjj8BgsBGU)
-- [M83 - Raconte-moi une histoire (audio)](https://www.youtube.com/watch?v=7Ep4B1LuRnE)
-- [M83 - Hurry Up We're Dreaming (Full Album)](https://www.youtube.com/watch?v=RFU5ZX8pCT4)
-- [M83 - Hurry Up, We're Dreaming (10th Anniversary Edition) [Full Album]](https://www.youtube.com/watch?v=MrV0bmGGe3E)
-- [M83 - My Tears Are Becoming A Sea (Official Video)](https://www.youtube.com/watch?v=UJrMB4QhNok)
-- [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)
-- [M83 'Midnight City' Official video](https://www.youtube.com/watch?v=dX3k_QDnzHE)
-- [M83 'Reunion' Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
-- [M83 - Intro feat. Zola Jesus (audio)](https://www.youtube.com/watch?v=yr_HIrfr7is)
-- [M83 - "Wait" (Official Video)](https://www.youtube.com/watch?v=lAwYodrBr2Q)
-- [M83 - My Tears Are Becoming A Sea (audio)](https://www.youtube.com/watch?v=uE8EhJ9gS28)
+- [M83 - Raconte-moi une histoire audio](https://www.youtube.com/watch?v=7Ep4B1LuRnE)
+- [M83 - Hurry Up Were Dreaming Full Album](https://www.youtube.com/watch?v=RFU5ZX8pCT4)
+- [M83 - Hurry Up Were Dreaming 10th Anniversary Edition Full Album](https://www.youtube.com/watch?v=MrV0bmGGe3E)
+- [M83 - My Tears Are Becoming A Sea Official Video](https://www.youtube.com/watch?v=UJrMB4QhNok)
+- [M83 - My Tears Are Becoming A Sea audio](https://www.youtube.com/watch?v=uE8EhJ9gS28)
+- [M83 Midnight City Official video](https://www.youtube.com/watch?v=dX3k_QDnzHE)
+- [M83 Reunion Official video](https://www.youtube.com/watch?v=DJQQrjVmQG0)
+- [M83 - Intro feat Zola Jesus audio](https://www.youtube.com/watch?v=yr_HIrfr7is)
+- [M83 - Wait Official Video](https://www.youtube.com/watch?v=lAwYodrBr2Q)
+- [M83 - My Tears Are Becoming A Sea audio](https://www.youtube.com/watch?v=uE8EhJ9gS28)
 
 ## Release Images
 {{< imageGrid >}}

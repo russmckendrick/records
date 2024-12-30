@@ -49,8 +49,8 @@ But Jawbreaker frontman Blake Schwarzenbach’s mind was also preoccupied with t
 
 
 ## Videos
-### Jawbreaker - 24 Hour Revenge Therapy (20th Anniversary Edition) [Full Album]
-{{< youtube id="RZlPHB4xDCI" title="Jawbreaker - 24 Hour Revenge Therapy (20th Anniversary Edition) [Full Album]" >}}<br>
+### Jawbreaker - 24 Hour Revenge Therapy 20th Anniversary Edition Full Album
+{{< youtube id="RZlPHB4xDCI" title="Jawbreaker - 24 Hour Revenge Therapy 20th Anniversary Edition Full Album" >}}<br>
 
 
 ## Release Images

@@ -45,8 +45,8 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 
 
 ## Videos
-### Jawbreaker - Bivouac [Full Album]
-{{< youtube id="OBcEEWH4DpM" title="Jawbreaker - Bivouac [Full Album]" >}}<br>
+### Jawbreaker - Bivouac Full Album
+{{< youtube id="OBcEEWH4DpM" title="Jawbreaker - Bivouac Full Album" >}}<br>
 ### More Videos
 
 - [Jawbreaker - Bivouac](https://www.youtube.com/watch?v=_AzCgE43OXg)

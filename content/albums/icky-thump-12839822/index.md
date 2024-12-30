@@ -57,13 +57,13 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 
 
 ## Videos
-### 300 M.P.H. Torrential Outpour Blues
-{{< youtube id="BN8c4nnnWYs" title="300 M.P.H. Torrential Outpour Blues" >}}<br>
+### 300 MPH Torrential Outpour Blues
+{{< youtube id="BN8c4nnnWYs" title="300 MPH Torrential Outpour Blues" >}}<br>
 ### More Videos
 
-- [The White Stripes - Icky Thump (Official Music Video)](https://www.youtube.com/watch?v=1OjTspCqvk8)
-- [The White Stripes - Conquest (Official Music Video)](https://www.youtube.com/watch?v=0L7FuA8Rry8)
-- [The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)](https://www.youtube.com/watch?v=8xsF9fHdAfo)
+- [The White Stripes - Icky Thump Official Music Video](https://www.youtube.com/watch?v=1OjTspCqvk8)
+- [The White Stripes - Conquest Official Music Video](https://www.youtube.com/watch?v=0L7FuA8Rry8)
+- [The White Stripes - You Dont Know What Love Is You Just Do As Youre Told Official Music Video](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 
 ## Release Images
 {{< imageGrid >}}

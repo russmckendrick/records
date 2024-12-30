@@ -51,13 +51,13 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 {{< youtube id="KgjifMxvzQQ" title="Crippled Black Phoenix - Dead Imperial Bastard" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - Champions Of Disturbance (Pt 1 & 2)](https://www.youtube.com/watch?v=FIGgkISamQI)
+- [Crippled Black Phoenix - Champions Of Disturbance Pt 1  2](https://www.youtube.com/watch?v=FIGgkISamQI)
 - [Crippled Black Phoenix - We Are The Darkeners](https://www.youtube.com/watch?v=l7aptX4aTZw)
 - [Crippled Black Phoenix - Deviant Burials](https://www.youtube.com/watch?v=0GzoGeyDd_4)
-- [Crippled Black Phoenix - Turn To Stone (Official Premiere)](https://www.youtube.com/watch?v=gOMqznyez20)
-- [Crippled Black Phoenix - Winning A Losing Battle (Official Premiere)](https://www.youtube.com/watch?v=VLKjk9c8OTc)
+- [Crippled Black Phoenix - Turn To Stone Official Premiere](https://www.youtube.com/watch?v=gOMqznyez20)
+- [Crippled Black Phoenix - Winning A Losing Battle Official Premiere](https://www.youtube.com/watch?v=VLKjk9c8OTc)
 - [Crippled Black Phoenix - Rotten Memories](https://www.youtube.com/watch?v=S6vSPk9i584)
-- [Crippled Black Phoenix- Champions Of Disturbance (pt 1&2)](https://www.youtube.com/watch?v=Ypq3QJxMHT4)
+- [Crippled Black Phoenix- Champions Of Disturbance pt 12](https://www.youtube.com/watch?v=Ypq3QJxMHT4)
 - [Crippled Black Phoenix - Denisovans](https://www.youtube.com/watch?v=ldCy3eCKZ8c)
 - [Crippled Black Phoenix - Scared And Alone](https://www.youtube.com/watch?v=lVOLLdNzgQw)
 - [Crippled Black Phoenix - Goodbye Then](https://www.youtube.com/watch?v=EfDCYYL7Q_U)
@@ -65,8 +65,8 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 - [Crippled Black Phoenix - Turn To Stone](https://www.youtube.com/watch?v=w0FvX_9PGFQ)
 - [Crippled Black Phoenix - A future Shock](https://www.youtube.com/watch?v=qohb-MbsuLU)
 - [Crippled Black Phoenix - Winning A Losing Battle](https://www.youtube.com/watch?v=jhWfxcOGQnk)
-- [Crippled Black Phoenix - Winning A Losing Battle (Official Premiere)](https://www.youtube.com/watch?v=VLKjk9c8OTc)
-- [Crippled Black Phoenix - Turn To Stone (Official Premiere)](https://www.youtube.com/watch?v=gOMqznyez20)
+- [Crippled Black Phoenix - Winning A Losing Battle Official Premiere](https://www.youtube.com/watch?v=VLKjk9c8OTc)
+- [Crippled Black Phoenix - Turn To Stone Official Premiere](https://www.youtube.com/watch?v=gOMqznyez20)
 
 ## Release Images
 {{< imageGrid >}}

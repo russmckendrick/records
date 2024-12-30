@@ -55,17 +55,17 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 
 
 ## Videos
-### The Smile - Wall Of Eyes (Official Video)
-{{< youtube id="IsqqjOxEuAg" title="The Smile - Wall Of Eyes (Official Video)" >}}<br>
+### The Smile - Wall Of Eyes Official Video
+{{< youtube id="IsqqjOxEuAg" title="The Smile - Wall Of Eyes Official Video" >}}<br>
 ### More Videos
 
 - [The Smile - Teleharmonic](https://www.youtube.com/watch?v=djSkQnPgq9o)
 - [The Smile - Read The Room](https://www.youtube.com/watch?v=n6vh4rfgdcE)
 - [The Smile - Under Our Pillows](https://www.youtube.com/watch?v=hx-GOI9ZCpQ)
-- [The Smile - Friend Of A Friend (Official Video)](https://www.youtube.com/watch?v=WhivN4GJQCQ)
+- [The Smile - Friend Of A Friend Official Video](https://www.youtube.com/watch?v=WhivN4GJQCQ)
 - [The Smile - I Quit](https://www.youtube.com/watch?v=j5pxS3QNydw)
 - [The Smile - Bending Hectic](https://www.youtube.com/watch?v=sBtJ9_zTqdE)
-- [The Smile - You Know Me!](https://www.youtube.com/watch?v=0-LuXy6qZDY)
+- [The Smile - You Know Me](https://www.youtube.com/watch?v=0-LuXy6qZDY)
 
 ## Release Images
 {{< imageGrid >}}

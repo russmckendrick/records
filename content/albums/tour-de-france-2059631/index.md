@@ -53,18 +53,18 @@ The album received positive reviews from critics and was a commercial success. I
 
 
 ## Videos
-### Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD
-{{< youtube id="ZC_anEzaBVs" title="Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD" >}}<br>
+### Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD
+{{< youtube id="ZC_anEzaBVs" title="Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD" >}}<br>
 ### More Videos
 
-- [Kraftwerk - (Minimum Maximum) Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
-- [Kraftwerk - Tour De France 3D (Full Album)](https://www.youtube.com/watch?v=tJPnyjuE3II)
-- [Tour de France (Live)](https://www.youtube.com/watch?v=ztFajwxbhZo)
-- [KRAFTWERK - Aéro Dynamik (Paris Nice 2002 - Prologue) (2003)](https://www.youtube.com/watch?v=kHkzQiDenZM)
-- [Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD](https://www.youtube.com/watch?v=ZC_anEzaBVs)
-- [Kraftwerk - (Minimum Maximum) Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
-- [Kraftwerk - Tour De France 3D (Full Album)](https://www.youtube.com/watch?v=tJPnyjuE3II)
-- [Tour de France (Live)](https://www.youtube.com/watch?v=ztFajwxbhZo)
+- [Kraftwerk - Minimum Maximum Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
+- [Kraftwerk - Tour De France 3D Full Album](https://www.youtube.com/watch?v=tJPnyjuE3II)
+- [Tour de France Live](https://www.youtube.com/watch?v=ztFajwxbhZo)
+- [KRAFTWERK - Aéro Dynamik Paris Nice 2002 - Prologue 2003](https://www.youtube.com/watch?v=kHkzQiDenZM)
+- [Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD](https://www.youtube.com/watch?v=ZC_anEzaBVs)
+- [Kraftwerk - Minimum Maximum Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
+- [Kraftwerk - Tour De France 3D Full Album](https://www.youtube.com/watch?v=tJPnyjuE3II)
+- [Tour de France Live](https://www.youtube.com/watch?v=ztFajwxbhZo)
 
 ## Release Images
 {{< imageGrid >}}

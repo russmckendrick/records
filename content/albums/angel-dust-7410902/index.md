@@ -68,12 +68,12 @@ Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 m
 
 
 ## Videos
-### Faith No More - Midlife Crisis (Official Music Video)
-{{< youtube id="U8b88US-6ts" title="Faith No More - Midlife Crisis (Official Music Video)" >}}<br>
+### Faith No More - Midlife Crisis Official Music Video
+{{< youtube id="U8b88US-6ts" title="Faith No More - Midlife Crisis Official Music Video" >}}<br>
 ### More Videos
 
-- [Faith No More - A Small Victory (Official Music Video)](https://www.youtube.com/watch?v=i9_hCjcFNO0)
-- [Faith No More - Angel Dust (Full Album) [Official]](https://www.youtube.com/watch?v=k0tUb-87kP8)
+- [Faith No More - A Small Victory Official Music Video](https://www.youtube.com/watch?v=i9_hCjcFNO0)
+- [Faith No More - Angel Dust Full Album Official](https://www.youtube.com/watch?v=k0tUb-87kP8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -67,32 +67,32 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 
 
 ## Videos
-### Tom Waits - Glitter And Doom Live (2009)
-{{< youtube id="rqGNtfNEADQ" title="Tom Waits - Glitter And Doom Live (2009)" >}}<br>
+### Tom Waits - Glitter And Doom Live 2009
+{{< youtube id="rqGNtfNEADQ" title="Tom Waits - Glitter And Doom Live 2009" >}}<br>
 ### More Videos
 
-- [Tom Waits - Glitter And Doom Live (2009)](https://www.youtube.com/watch?v=rqGNtfNEADQ)
-- [Tom Waits – Glitter and Doom Concert Experience (2008)](https://www.youtube.com/watch?v=ByMi1Yii9ek)
-- [Tom Waits - Glitter And Doom Concert Experience (2008)](https://www.youtube.com/watch?v=T1yQ1J7NpyM)
+- [Tom Waits - Glitter And Doom Live 2009](https://www.youtube.com/watch?v=rqGNtfNEADQ)
+- [Tom Waits  Glitter and Doom Concert Experience 2008](https://www.youtube.com/watch?v=ByMi1Yii9ek)
+- [Tom Waits - Glitter And Doom Concert Experience 2008](https://www.youtube.com/watch?v=T1yQ1J7NpyM)
 - [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=n34VIJOfdpM)
-- [Tom Waits Glitter and Doom Tour Opening - Lucinda - 2008 (Official Audio)](https://www.youtube.com/watch?v=jTp0HwrdOoA)
+- [Tom Waits Glitter and Doom Tour Opening - Lucinda - 2008 Official Audio](https://www.youtube.com/watch?v=jTp0HwrdOoA)
 - [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=7TDSDRb-I6Y)
 - [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=3l4X1S51l_o)
-- [Tom Waits - Goin' Out West [Live - Glitter and Doom] HQ!](https://www.youtube.com/watch?v=E4_N2F4o4cU)
-- [I'll Shoot The Moon - Tom Waits (Glitter and Doom live)](https://www.youtube.com/watch?v=zv9dmmUPvAw)
-- [tom waits (glitter and doom live)](https://www.youtube.com/watch?v=UR6CtkXNRtk)
-- [Tom Waits - Live Circus - Glitter and Doom.](https://www.youtube.com/watch?v=q6zAp0NvPSs)
+- [Tom Waits - Goin Out West Live - Glitter and Doom HQ](https://www.youtube.com/watch?v=E4_N2F4o4cU)
+- [Ill Shoot The Moon - Tom Waits Glitter and Doom live](https://www.youtube.com/watch?v=zv9dmmUPvAw)
+- [tom waits glitter and doom live](https://www.youtube.com/watch?v=UR6CtkXNRtk)
+- [Tom Waits - Live Circus - Glitter and Doom](https://www.youtube.com/watch?v=q6zAp0NvPSs)
 - [Glitter and Doom Full Concert - Tom Waits 2008 St Louis](https://www.youtube.com/watch?v=2iGovaFf9Pc)
 - [Glitter and Doom Tour 2008 Footage - Tom Waits Rare Promo Video](https://www.youtube.com/watch?v=-Llu7DFSMxM)
-- [Tom Waits - Singapore (Glitter and Doom Live)](https://www.youtube.com/watch?v=TRbqtoH3gjA)
+- [Tom Waits - Singapore Glitter and Doom Live](https://www.youtube.com/watch?v=TRbqtoH3gjA)
 - [Tom Waits Live - Glitter And Doom Tour](https://www.youtube.com/watch?v=UUjsAUXpRXw)
-- [Tom Waits - Story - Glitter and Doom.](https://www.youtube.com/watch?v=QR1ss7IHH4Y)
-- [Tom Waits - Fannin Street - Glitter and Doom.](https://www.youtube.com/watch?v=6fBMyntZd4M)
-- [Tom Waits   Goin' Out West Live   Glitter and Doom HQ!](https://www.youtube.com/watch?v=jR-i9bo0FdQ)
-- ["Free The Glutens" Tom Waits interview 2015](https://www.youtube.com/watch?v=FbKMX2vFOaQ)
-- [Tom Waits - Dirt in the ground (Glitter and Doom live)](https://www.youtube.com/watch?v=vVRW2QgVNXo)
-- [Tom Waits - I'll Shoot The Moon - Glitter and Doom.](https://www.youtube.com/watch?v=0TS6vZycbnA)
-- [Tom Waits Full Concert in Florence - (GREAT SOUND) 07.24.99 Mule Variations Tour](https://www.youtube.com/watch?v=Bx6F35XlX5o)
+- [Tom Waits - Story - Glitter and Doom](https://www.youtube.com/watch?v=QR1ss7IHH4Y)
+- [Tom Waits - Fannin Street - Glitter and Doom](https://www.youtube.com/watch?v=6fBMyntZd4M)
+- [Tom Waits   Goin Out West Live   Glitter and Doom HQ](https://www.youtube.com/watch?v=jR-i9bo0FdQ)
+- [Free The Glutens Tom Waits interview 2015](https://www.youtube.com/watch?v=FbKMX2vFOaQ)
+- [Tom Waits - Dirt in the ground Glitter and Doom live](https://www.youtube.com/watch?v=vVRW2QgVNXo)
+- [Tom Waits - Ill Shoot The Moon - Glitter and Doom](https://www.youtube.com/watch?v=0TS6vZycbnA)
+- [Tom Waits Full Concert in Florence - GREAT SOUND 072499 Mule Variations Tour](https://www.youtube.com/watch?v=Bx6F35XlX5o)
 
 ## Release Images
 {{< imageGrid >}}

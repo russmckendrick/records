@@ -42,21 +42,21 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Main Title (The Story Continues)
-{{< youtube id="fPtQQZKxIEU" title="Main Title (The Story Continues)" >}}<br>
+### Main Title The Story Continues
+{{< youtube id="fPtQQZKxIEU" title="Main Title The Story Continues" >}}<br>
 ### More Videos
 
 - [Into the Trap](https://www.youtube.com/watch?v=maUL7WSUDOs)
 - [Luke and Leia](https://www.youtube.com/watch?v=l-a_w03ukgo)
 - [Parade of the Ewoks](https://www.youtube.com/watch?v=050qwQArBt8)
-- [Han Solo Returns (At the Court of Jabba the Hutt)](https://www.youtube.com/watch?v=8TjQqeXnnJg)
-- [Lapti Nek (Jabba's Palace Band)](https://www.youtube.com/watch?v=0YwhK5fpOGU)
-- [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
+- [Han Solo Returns At the Court of Jabba the Hutt](https://www.youtube.com/watch?v=8TjQqeXnnJg)
+- [Lapti Nek Jabbas Palace Band](https://www.youtube.com/watch?v=0YwhK5fpOGU)
+- [Main Title The Story Continues](https://www.youtube.com/watch?v=eP14omDNAfk)
 - [Into the Trap](https://www.youtube.com/watch?v=Rh0Xbbw9mQo)
 - [Luke and Leia](https://www.youtube.com/watch?v=oSXeOY_Ad4U)
 - [Parade of the Ewoks](https://www.youtube.com/watch?v=6r2w9ergP1E)
-- [Han Solo Returns (At the Court of Jabba the Hutt)](https://www.youtube.com/watch?v=jjyhuWhOJQw)
-- [Lapti Nek (Jabba's Palace Band)](https://www.youtube.com/watch?v=wINM8zsdw9s)
+- [Han Solo Returns At the Court of Jabba the Hutt](https://www.youtube.com/watch?v=jjyhuWhOJQw)
+- [Lapti Nek Jabbas Palace Band](https://www.youtube.com/watch?v=wINM8zsdw9s)
 - [The Forest Battle](https://www.youtube.com/watch?v=ebCnaPzteZM)
 - [Rebel Briefing](https://www.youtube.com/watch?v=_0Wn1KkliKA)
 - [The Emperor](https://www.youtube.com/watch?v=FvMtMfIr-sU)

@@ -147,8 +147,8 @@ styles: ["Soul"]
 {{< youtube id="cm3YM_9iW_s" title="Cigarettes and Coffee" >}}<br>
 ### More Videos
 
-- [I've Got Dreams to Remember](https://www.youtube.com/watch?v=MOwNCKZeNOE)
-- [Down in the Valley (Mono) (2018 Remaster)](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
+- [Ive Got Dreams to Remember](https://www.youtube.com/watch?v=MOwNCKZeNOE)
+- [Down in the Valley Mono 2018 Remaster](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
 
 ## Release Images
 {{< imageGrid >}}

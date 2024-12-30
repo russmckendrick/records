@@ -41,11 +41,11 @@ styles: []
 
 
 ## Videos
-### Abstract Orchestra - Dilla [Full Album]
-{{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla [Full Album]" >}}<br>
+### Abstract Orchestra - Dilla Full Album
+{{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla Full Album" >}}<br>
 ### More Videos
 
-- [Abstract Orchestra - Dilla [Full Album]](https://www.youtube.com/watch?v=1UTyo3IMhfg)
+- [Abstract Orchestra - Dilla Full Album](https://www.youtube.com/watch?v=1UTyo3IMhfg)
 
 ## Release Images
 {{< imageGrid >}}

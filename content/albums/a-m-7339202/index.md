@@ -56,14 +56,14 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 
 
 ## Videos
-### Wilco - I Must Be High (Video)
-{{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High (Video)" >}}<br>
+### Wilco - I Must Be High Video
+{{< youtube id="Fw730Mvz8o8" title="Wilco - I Must Be High Video" >}}<br>
 ### More Videos
 
-- [Wilco - Box Full Of Letters (Video)](https://www.youtube.com/watch?v=7gyZw5tvAhI)
+- [Wilco - Box Full Of Letters Video](https://www.youtube.com/watch?v=7gyZw5tvAhI)
 - [Pick up the Change](https://www.youtube.com/watch?v=RMbAX47uELI)
-- [It's Just That Simple](https://www.youtube.com/watch?v=XQShhqEahXg)
-- [Should've Been in Love](https://www.youtube.com/watch?v=_pZcXzviD3U)
+- [Its Just That Simple](https://www.youtube.com/watch?v=XQShhqEahXg)
+- [Shouldve Been in Love](https://www.youtube.com/watch?v=_pZcXzviD3U)
 - [Passenger Side](https://www.youtube.com/watch?v=wZtGlbrFMyc)
 
 ## Release Images

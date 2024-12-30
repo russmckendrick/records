@@ -44,23 +44,23 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Videos
-### That's Enough of That
-{{< youtube id="78BgjlFEohk" title="That's Enough of That" >}}<br>
+### Thats Enough of That
+{{< youtube id="78BgjlFEohk" title="Thats Enough of That" >}}<br>
 ### More Videos
 
-- [Bill Haley's Last Words](https://www.youtube.com/watch?v=rQNbkOSFmpE)
+- [Bill Haleys Last Words](https://www.youtube.com/watch?v=rQNbkOSFmpE)
 - [Poor Joey](https://www.youtube.com/watch?v=rZj0Oybh6SA)
 - [Quick Quick Slow](https://www.youtube.com/watch?v=f4Qaygd7yDs)
 - [Fly in the Ointment](https://www.youtube.com/watch?v=8XlQj9I4ORE)
-- [O'Donegal](https://www.youtube.com/watch?v=N-KbuwQHO5o)
+- [ODonegal](https://www.youtube.com/watch?v=N-KbuwQHO5o)
 - [Poo-Poo in the Prawn](https://www.youtube.com/watch?v=QU6-OsBvwXY)
 - [Have a Word](https://www.youtube.com/watch?v=vX8EJFrzJE0)
 - [London Talking](https://www.youtube.com/watch?v=jrIfyeCgzFw)
-- [D'Orine the Cow](https://www.youtube.com/watch?v=5-LABPHVUpQ)
+- [DOrine the Cow](https://www.youtube.com/watch?v=5-LABPHVUpQ)
 - [Your Horoscope](https://www.youtube.com/watch?v=G4857QLVyyI)
 - [No Such Thing as Love](https://www.youtube.com/watch?v=NBOosNNxhrw)
 - [Two Old Dogs Without a Name](https://www.youtube.com/watch?v=JdwWg8Rw4ac)
-- [Ian Dury:-'Bus Driver's Prayer'](https://www.youtube.com/watch?v=k-hDEroXFhY)
+- [Ian Dury-Bus Drivers Prayer](https://www.youtube.com/watch?v=k-hDEroXFhY)
 - [Amerind](https://www.youtube.com/watch?v=iIQ2IIIoZwg)
 - [I Believe](https://www.youtube.com/watch?v=q3Kwu7D6Wvw)
 - [Cowboys](https://www.youtube.com/watch?v=1qKh6Cvq53s)

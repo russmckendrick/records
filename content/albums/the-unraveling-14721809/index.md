@@ -44,11 +44,11 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 
 
 ## Videos
-### Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)
-{{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)" >}}<br>
+### Drive-By Truckers - Thoughts and Prayers Official Lyric Video
+{{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)](https://www.youtube.com/watch?v=tkD4xSqNVII)
+- [Drive-By Truckers - Thoughts and Prayers Official Lyric Video](https://www.youtube.com/watch?v=tkD4xSqNVII)
 
 ## Release Images
 {{< imageGrid >}}

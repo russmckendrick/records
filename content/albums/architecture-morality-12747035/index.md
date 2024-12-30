@@ -39,21 +39,21 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### O M D - 1981 /Album
-{{< youtube id="wM21B0jwLUc" title="O M D - 1981 /Album" >}}<br>
+### O M D - 1981 Album
+{{< youtube id="wM21B0jwLUc" title="O M D - 1981 Album" >}}<br>
 ### More Videos
 
 - [Orchestral Manoeuvres In The Dark - Maid Of Orleans](https://www.youtube.com/watch?v=vmwMhjbThKg)
 - [Orchestral Manoeuvres In The Dark - Souvenir](https://www.youtube.com/watch?v=XDIYOiQUi2s)
-- [She's Leaving (2003 Digital Remaster)](https://www.youtube.com/watch?v=NDJHfe2sklI)
-- [The New Stone Age (2003 Digital Remaster)](https://www.youtube.com/watch?v=PiLwEIDJSCM)
-- [Souvenir (Remastered 2003)](https://www.youtube.com/watch?v=L_qDgw6YIMU)
-- [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)
-- [Joan Of Arc (Remastered)](https://www.youtube.com/watch?v=I_KR2QnjCM8)
-- [Joan Of Arc (Maid Of Orleans)](https://www.youtube.com/watch?v=8M_tBfHido0)
-- [Architecture And Morality (2003 Digital Remaster)](https://www.youtube.com/watch?v=XA3KTY--20g)
-- [Georgia (2003 Digital Remaster)](https://www.youtube.com/watch?v=aZOXVKu91-A)
-- [The Beginning And The End (2003 Digital Remaster)](https://www.youtube.com/watch?v=TCLZiooXbxA)
+- [Shes Leaving 2003 Digital Remaster](https://www.youtube.com/watch?v=NDJHfe2sklI)
+- [The New Stone Age 2003 Digital Remaster](https://www.youtube.com/watch?v=PiLwEIDJSCM)
+- [Souvenir Remastered 2003](https://www.youtube.com/watch?v=L_qDgw6YIMU)
+- [Sealand 2003 Digital Remaster](https://www.youtube.com/watch?v=t_he2hubqNo)
+- [Joan Of Arc Remastered](https://www.youtube.com/watch?v=I_KR2QnjCM8)
+- [Joan Of Arc Maid Of Orleans](https://www.youtube.com/watch?v=8M_tBfHido0)
+- [Architecture And Morality 2003 Digital Remaster](https://www.youtube.com/watch?v=XA3KTY--20g)
+- [Georgia 2003 Digital Remaster](https://www.youtube.com/watch?v=aZOXVKu91-A)
+- [The Beginning And The End 2003 Digital Remaster](https://www.youtube.com/watch?v=TCLZiooXbxA)
 
 ## Release Images
 {{< imageGrid >}}

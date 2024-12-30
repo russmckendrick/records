@@ -54,17 +54,17 @@ An Introduction to Syd Barrett is a 'best of' compilation featuring the work of 
 
 
 ## Videos
-### Apples and Oranges(Stereo version)
-{{< youtube id="8YAdhzx8gjQ" title="Apples and Oranges(Stereo version)" >}}<br>
+### Apples and OrangesStereo version
+{{< youtube id="8YAdhzx8gjQ" title="Apples and OrangesStereo version" >}}<br>
 ### More Videos
 
 - [An Introduction to Syd Barrett](https://www.youtube.com/watch?v=dOZ9RvvwXpo)
-- [Pink Floyd - Arnold Layne (Official Music Video)](https://www.youtube.com/watch?v=H3DGpINHX5Q)
-- [Syd Barrett - An Introduction To Syd Barrett (Digital Remastered) (2023)](https://www.youtube.com/watch?v=GWNBRAdNxk8)
-- [Syd Barrett - An Introduction To Syd Barrett ( Full Album 2023)](https://www.youtube.com/watch?v=7WVidE9JR4M)
+- [Pink Floyd - Arnold Layne Official Music Video](https://www.youtube.com/watch?v=H3DGpINHX5Q)
+- [Syd Barrett - An Introduction To Syd Barrett Digital Remastered 2023](https://www.youtube.com/watch?v=GWNBRAdNxk8)
+- [Syd Barrett - An Introduction To Syd Barrett  Full Album 2023](https://www.youtube.com/watch?v=7WVidE9JR4M)
 - [An Introduction to Syd Barrett](https://www.youtube.com/watch?v=dOZ9RvvwXpo)
 - [Syd Barrett - An Introduction to Syd Barrett](https://www.youtube.com/watch?v=tJXoYAtEjn4)
-- [Apples and Oranges(Stereo version)](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
+- [Apples and OrangesStereo version](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
 
 ## Release Images
 {{< imageGrid >}}

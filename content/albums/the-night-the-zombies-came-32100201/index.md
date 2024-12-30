@@ -53,8 +53,8 @@ Druids. Headless chickens. Drinking. These are just some of the topics fearless 
 
 
 ## Videos
-### Pixies - The Night the Zombies Came (Full Album) 2024
-{{< youtube id="5t7Cfq3_D2w" title="Pixies - The Night the Zombies Came (Full Album) 2024" >}}<br>
+### Pixies - The Night the Zombies Came Full Album 2024
+{{< youtube id="5t7Cfq3_D2w" title="Pixies - The Night the Zombies Came Full Album 2024" >}}<br>
 
 
 ## Release Images

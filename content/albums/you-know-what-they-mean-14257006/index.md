@@ -58,9 +58,9 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 {{< youtube id="KT0e1ZwJtU8" title="Lansing" >}}<br>
 ### More Videos
 
-- [BENT KNEE - Bone Rage (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=8W1KaM_C7uA)
+- [BENT KNEE - Bone Rage OFFICIAL VIDEO](https://www.youtube.com/watch?v=8W1KaM_C7uA)
 - [Give Us the Gold](https://www.youtube.com/watch?v=Mrhc1GLXmcQ)
-- [BENT KNEE - Hold Me In (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Q63OhjXmjw4)
+- [BENT KNEE - Hold Me In OFFICIAL VIDEO](https://www.youtube.com/watch?v=Q63OhjXmjw4)
 - [Egg Replacer](https://www.youtube.com/watch?v=RqDd36FtXv4)
 - [Cradle of Rocks](https://www.youtube.com/watch?v=LjFFTfgwMkI)
 - [Lovell](https://www.youtube.com/watch?v=BlbV45ytPYg)

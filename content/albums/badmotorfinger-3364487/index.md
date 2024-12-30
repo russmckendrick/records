@@ -62,10 +62,10 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 {{< youtube id="sNh-iw7gsuI" title="Soundgarden - Outshined" >}}<br>
 ### More Videos
 
-- [Soundgarden - Jesus Christ Pose (Official Music Video)](https://www.youtube.com/watch?v=14r7y6rM6zA)
+- [Soundgarden - Jesus Christ Pose Official Music Video](https://www.youtube.com/watch?v=14r7y6rM6zA)
 - [Soundgarden - Rusty Cage](https://www.youtube.com/watch?v=pBZs_Py-1_0)
 - [Soundgarden - Searching With My Good Eye Closed](https://www.youtube.com/watch?v=t-GDrHRROzU)
-- [Searching With My Good Eye Closed (Remastered)](https://www.youtube.com/watch?v=fzPr8iDB8gk)
+- [Searching With My Good Eye Closed Remastered](https://www.youtube.com/watch?v=fzPr8iDB8gk)
 
 ## Release Images
 {{< imageGrid >}}

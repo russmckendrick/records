@@ -39,17 +39,17 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 
 ## Videos
-### Bill Fisher - Celador (Official Music Video)
-{{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador (Official Music Video)" >}}<br>
+### Bill Fisher - Celador Official Music Video
+{{< youtube id="ZF0XltdLn88" title="Bill Fisher - Celador Official Music Video" >}}<br>
 ### More Videos
 
-- [Bill Fisher - Psychopathy (Official Music Video)](https://www.youtube.com/watch?v=sUUy8JNoSKg)
+- [Bill Fisher - Psychopathy Official Music Video](https://www.youtube.com/watch?v=sUUy8JNoSKg)
 - [The Dark Triad](https://www.youtube.com/watch?v=AQdwH-cBFo8)
 - [Mass Hypnosis](https://www.youtube.com/watch?v=TRe6ohm3FeE)
 - [Days of Old](https://www.youtube.com/watch?v=w0bWFudPqIo)
 - [Message from the Sky](https://www.youtube.com/watch?v=PANvt5h_7qE)
 - [Mirror of Tomorrow](https://www.youtube.com/watch?v=I-Au5S3LRrs)
-- [Bill Fisher - All Through The Night (Official Visualizer Video)](https://www.youtube.com/watch?v=QevyAUTftlo)
+- [Bill Fisher - All Through The Night Official Visualizer Video](https://www.youtube.com/watch?v=QevyAUTftlo)
 
 ## Release Images
 {{< imageGrid >}}

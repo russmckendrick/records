@@ -64,13 +64,13 @@ The album is often considered the second in a trio of folk rock albums released 
 
 
 ## Videos
-### Jethro Tull - Heavy Horses - 1. And The Mouse Police Never Sleeps
-{{< youtube id="3V_8FByoT4g" title="Jethro Tull - Heavy Horses - 1. And The Mouse Police Never Sleeps" >}}<br>
+### Jethro Tull - Heavy Horses - 1 And The Mouse Police Never Sleeps
+{{< youtube id="3V_8FByoT4g" title="Jethro Tull - Heavy Horses - 1 And The Mouse Police Never Sleeps" >}}<br>
 ### More Videos
 
 - [Jethro Tull - Acres Wild](https://www.youtube.com/watch?v=ABKifBPLGus)
 - [Jethro Tull - No Lullaby](https://www.youtube.com/watch?v=yVmA6XdrnNA)
-- [J̲e̲thro T̲ull -  H̲e̲avy H̲o̲rses (Full Album) 1978](https://www.youtube.com/watch?v=LDE7x1SPYmE)
+- [Jethro Tull -  Heavy Horses Full Album 1978](https://www.youtube.com/watch?v=LDE7x1SPYmE)
 - [Jethro Tull  - Heavy Horses](https://www.youtube.com/watch?v=vRHATZzMh-g)
 
 ## Release Images

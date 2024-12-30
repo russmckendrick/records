@@ -54,27 +54,27 @@ styles: ["Psychedelic Rock"]
 
 
 ## Videos
-### DAS KOOLIES "BEST MINDFUCK YET" (OFFICIAL VIDEO)
-{{< youtube id="QmgwRdT3ijw" title="DAS KOOLIES "BEST MINDFUCK YET" (OFFICIAL VIDEO)" >}}<br>
+### DAS KOOLIES BEST MINDFUCK YET OFFICIAL VIDEO
+{{< youtube id="QmgwRdT3ijw" title="DAS KOOLIES BEST MINDFUCK YET OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [DAS KOOLIES "OUT OF THIS WORLD" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=NO670Ojud4U)
-- [DAS KOOLIES "KATAL" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=wDJ0a4j8mN8)
-- [DAS KOOLIES "WIRED FOR SOUND" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=8y1DC0B0csA)
-- [DAS KOOLIES "A RIDE" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2-hRc51pvPc)
-- [DAS KOOLIES "PAIN DOWN THE DRAIN" OFFICIAL VIDEO](https://www.youtube.com/watch?v=rAAxXMc54cw)
+- [DAS KOOLIES OUT OF THIS WORLD OFFICIAL VIDEO](https://www.youtube.com/watch?v=NO670Ojud4U)
+- [DAS KOOLIES KATAL OFFICIAL VIDEO](https://www.youtube.com/watch?v=wDJ0a4j8mN8)
+- [DAS KOOLIES WIRED FOR SOUND OFFICIAL VIDEO](https://www.youtube.com/watch?v=8y1DC0B0csA)
+- [DAS KOOLIES A RIDE OFFICIAL VIDEO](https://www.youtube.com/watch?v=2-hRc51pvPc)
+- [DAS KOOLIES PAIN DOWN THE DRAIN OFFICIAL VIDEO](https://www.youtube.com/watch?v=rAAxXMc54cw)
 - [Police Next Door](https://www.youtube.com/watch?v=yhp7Vk7d8bw)
 - [Masters Of Mankind](https://www.youtube.com/watch?v=bSnzMD9Sl8U)
-- [DAS KOOLIES "NUTHIN SANDWICH" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Jbd5UthzCX4)
+- [DAS KOOLIES NUTHIN SANDWICH OFFICIAL VIDEO](https://www.youtube.com/watch?v=Jbd5UthzCX4)
 - [Holy Shit](https://www.youtube.com/watch?v=RIG4G8aMS88)
-- [Sorry I'm Not Sorry](https://www.youtube.com/watch?v=5a1WWWmah74)
+- [Sorry Im Not Sorry](https://www.youtube.com/watch?v=5a1WWWmah74)
 - [Shakedown](https://www.youtube.com/watch?v=YK-PADiO6rg)
 - [Collide](https://www.youtube.com/watch?v=do5Sd3QrcVY)
 - [Alligator](https://www.youtube.com/watch?v=zoKD2dPPrkY)
 - [Montezuma](https://www.youtube.com/watch?v=Tlf5cMv9hcs)
 - [Wired For Sound](https://www.youtube.com/watch?v=eOsvPE8sE_M)
-- [Best Mindfuck Yet (Reprise)](https://www.youtube.com/watch?v=byJ12MuHnfE)
-- [Collide (Reprise)](https://www.youtube.com/watch?v=TYQJWD4WbEM)
+- [Best Mindfuck Yet Reprise](https://www.youtube.com/watch?v=byJ12MuHnfE)
+- [Collide Reprise](https://www.youtube.com/watch?v=TYQJWD4WbEM)
 
 ## Release Images
 {{< imageGrid >}}

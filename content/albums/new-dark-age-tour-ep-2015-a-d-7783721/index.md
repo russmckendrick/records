@@ -37,8 +37,8 @@ styles: ["Post Rock"]
 {{< youtube id="ZQnOxYuE8kM" title="Crippled Black Phoenix - New Dark Age" >}}<br>
 ### More Videos
 
-- [CRIPPLED BLACK PHOENIX, Audio, Glasgow, November 2015, 'NEW DARK AGE'](https://www.youtube.com/watch?v=MBoSOT9m5Lw)
-- [Crippled Black Phoenix - Spider Island (Official Premiere)](https://www.youtube.com/watch?v=hfKAOVViEZU)
+- [CRIPPLED BLACK PHOENIX Audio Glasgow November 2015 NEW DARK AGE](https://www.youtube.com/watch?v=MBoSOT9m5Lw)
+- [Crippled Black Phoenix - Spider Island Official Premiere](https://www.youtube.com/watch?v=hfKAOVViEZU)
 
 ## Release Images
 {{< imageGrid >}}

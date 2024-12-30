@@ -93,16 +93,16 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 
 
 ## Videos
-### Def Leppard - Hysteria (Long Version)
-{{< youtube id="yMzyleT2FqY" title="Def Leppard - Hysteria (Long Version)" >}}<br>
+### Def Leppard - Hysteria Long Version
+{{< youtube id="yMzyleT2FqY" title="Def Leppard - Hysteria Long Version" >}}<br>
 ### More Videos
 
-- [DEF LEPPARD - "Pour Some Sugar On Me" (Official Music Video)](https://www.youtube.com/watch?v=0UIB9Y4OFPs)
-- [DEF LEPPARD - "Women" (Official Music Video)](https://www.youtube.com/watch?v=4HR0P3sIb80)
-- [DEF LEPPARD - "Armageddon It" (Official Music Video)](https://www.youtube.com/watch?v=urNFQw8VIvA)
+- [DEF LEPPARD - Pour Some Sugar On Me Official Music Video](https://www.youtube.com/watch?v=0UIB9Y4OFPs)
+- [DEF LEPPARD - Women Official Music Video](https://www.youtube.com/watch?v=4HR0P3sIb80)
+- [DEF LEPPARD - Armageddon It Official Music Video](https://www.youtube.com/watch?v=urNFQw8VIvA)
 - [Def Leppard - Love Bites](https://www.youtube.com/watch?v=W4XiSFyYRE8)
 - [Def Leppard - Rocket](https://www.youtube.com/watch?v=bpcc43NV394)
-- [CD / Def Leppard – Hysteria / 1987](https://www.youtube.com/watch?v=pqOz5oodPJE)
+- [CD  Def Leppard  Hysteria  1987](https://www.youtube.com/watch?v=pqOz5oodPJE)
 
 ## Release Images
 {{< imageGrid >}}

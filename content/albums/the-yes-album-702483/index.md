@@ -42,15 +42,15 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 
 
 ## Videos
-### Yours Is No Disgrace (2008 Remaster)
-{{< youtube id="1fUudna1Xuw" title="Yours Is No Disgrace (2008 Remaster)" >}}<br>
+### Yours Is No Disgrace 2008 Remaster
+{{< youtube id="1fUudna1Xuw" title="Yours Is No Disgrace 2008 Remaster" >}}<br>
 ### More Videos
 
-- [The Clap (2008 Remaster)](https://www.youtube.com/watch?v=0rHaZYWEtYs)
-- [Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm (2008 Remaster)](https://www.youtube.com/watch?v=Yu9ykgGUm1w)
-- [I've Seen All Good People: a. Your Move, b. All Good People (2008 Remaster)](https://www.youtube.com/watch?v=WfgPEh2J9aI)
-- [A Venture (2008 Remaster)](https://www.youtube.com/watch?v=8mLbzNPOXpI)
-- [Perpetual Change (2008 Remaster)](https://www.youtube.com/watch?v=OZ5av777ANk)
+- [The Clap 2008 Remaster](https://www.youtube.com/watch?v=0rHaZYWEtYs)
+- [Starship Trooper a Life Seeker b Disillusion c Würm 2008 Remaster](https://www.youtube.com/watch?v=Yu9ykgGUm1w)
+- [Ive Seen All Good People a Your Move b All Good People 2008 Remaster](https://www.youtube.com/watch?v=WfgPEh2J9aI)
+- [A Venture 2008 Remaster](https://www.youtube.com/watch?v=8mLbzNPOXpI)
+- [Perpetual Change 2008 Remaster](https://www.youtube.com/watch?v=OZ5av777ANk)
 
 ## Release Images
 {{< imageGrid >}}

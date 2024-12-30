@@ -46,14 +46,14 @@ Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio albu
 
 
 ## Videos
-### Sigur Rós - Kveikur (Album version)
-{{< youtube id="Zl1__PhECzg" title="Sigur Rós - Kveikur (Album version)" >}}<br>
+### Sigur Rós - Kveikur Album version
+{{< youtube id="Zl1__PhECzg" title="Sigur Rós - Kveikur Album version" >}}<br>
 ### More Videos
 
 - [Sigur Rós - Hrafntinna](https://www.youtube.com/watch?v=z1A9HHxkNV0)
-- [Sigur Rós - Ísjaki (Official Lyric Video)](https://www.youtube.com/watch?v=dF6E47Pn6mY)
-- [Sigur Rós - Brennisteinn  [Official Video]](https://www.youtube.com/watch?v=Oc6zXSdYXm8)
-- [Sigur Rós - Kveikur (Album version)](https://www.youtube.com/watch?v=Zl1__PhECzg)
+- [Sigur Rós - Ísjaki Official Lyric Video](https://www.youtube.com/watch?v=dF6E47Pn6mY)
+- [Sigur Rós - Brennisteinn  Official Video](https://www.youtube.com/watch?v=Oc6zXSdYXm8)
+- [Sigur Rós - Kveikur Album version](https://www.youtube.com/watch?v=Zl1__PhECzg)
 - [Sigur Rós - Hrafntinna](https://www.youtube.com/watch?v=z1A9HHxkNV0)
 
 ## Release Images

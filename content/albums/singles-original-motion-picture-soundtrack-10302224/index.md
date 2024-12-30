@@ -70,26 +70,26 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 
 
 ## Videos
-### Alice In Chains - Would? (Official HD Video)
-{{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}<br>
+### Alice In Chains - Would Official HD Video
+{{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would Official HD Video" >}}<br>
 ### More Videos
 
 - [Dyslexic Heart](https://www.youtube.com/watch?v=MZVAppKV794)
-- [Chloe Dancer/Crown Of Thorns](https://www.youtube.com/watch?v=MJTRSQgIb88)
+- [Chloe DancerCrown Of Thorns](https://www.youtube.com/watch?v=MJTRSQgIb88)
 - [Birth Ritual](https://www.youtube.com/watch?v=YrreIn7PQbI)
-- [State Of Love And Trust (from the Warner Bros. film, Singles)](https://www.youtube.com/watch?v=CrCfBPF7g5Q)
+- [State Of Love And Trust from the Warner Bros film Singles](https://www.youtube.com/watch?v=CrCfBPF7g5Q)
 - [Mudhoney - Overblown](https://www.youtube.com/watch?v=Bab_KwqGpEw)
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
-- [Smashing Pumpkins "Drown"](https://www.youtube.com/watch?v=N66Ki1iMMjY)
-- [Paul Westerberg - "Waiting for Somebody"](https://www.youtube.com/watch?v=b807jX8J_i8)
+- [Smashing Pumpkins Drown](https://www.youtube.com/watch?v=N66Ki1iMMjY)
+- [Paul Westerberg - Waiting for Somebody](https://www.youtube.com/watch?v=b807jX8J_i8)
 - [Paul Westerberg - Dyslexic Heart](https://www.youtube.com/watch?v=MVhBEtTSEcE)
 - [Lovemongers - Battle of Evermore](https://www.youtube.com/watch?v=q7DxFQ6FhzQ)
-- [Singles: Original Motion Picture Soundtrack (Full Album)](https://www.youtube.com/watch?v=b88Rin1cplU)
+- [Singles Original Motion Picture Soundtrack Full Album](https://www.youtube.com/watch?v=b88Rin1cplU)
 - [Pearl Jam - Breath](https://www.youtube.com/watch?v=8GeZ7fd_90A)
-- [Chris Cornell - "Seasons"](https://www.youtube.com/watch?v=TksqEIl1uxU)
-- [Smashing Pumpkins Drown (full, better quality)](https://www.youtube.com/watch?v=pGDzsds4Ll0)
-- [Pearl Jam State of Love and Trust (Singles Soundtrack)](https://www.youtube.com/watch?v=4hr26JwPOZA)
-- [Mudhoney – Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
+- [Chris Cornell - Seasons](https://www.youtube.com/watch?v=TksqEIl1uxU)
+- [Smashing Pumpkins Drown full better quality](https://www.youtube.com/watch?v=pGDzsds4Ll0)
+- [Pearl Jam State of Love and Trust Singles Soundtrack](https://www.youtube.com/watch?v=4hr26JwPOZA)
+- [Mudhoney  Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -45,14 +45,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Amplifier - Matmos (from Echo Street)
-{{< youtube id="FZneZEpExkM" title="Amplifier - Matmos (from Echo Street)" >}}<br>
+### Amplifier - Matmos from Echo Street
+{{< youtube id="FZneZEpExkM" title="Amplifier - Matmos from Echo Street" >}}<br>
 ### More Videos
 
-- [Amplifier - Matmos lyric video (from Echo Street)](https://www.youtube.com/watch?v=vZSDyF2bSI8)
+- [Amplifier - Matmos lyric video from Echo Street](https://www.youtube.com/watch?v=vZSDyF2bSI8)
 - [Amplifier - The Wheel](https://www.youtube.com/watch?v=JzZuVvOsRuM)
 - [Amplifier -  Extra Vehicular](https://www.youtube.com/watch?v=AXWpXhO7PQ0)
-- [Amplifier (Echo Street) - Where the river goes](https://www.youtube.com/watch?v=mOzRzoE-F5Y)
+- [Amplifier Echo Street - Where the river goes](https://www.youtube.com/watch?v=mOzRzoE-F5Y)
 - [amplifier paris in spring](https://www.youtube.com/watch?v=yVgntGwiOH8)
 - [Amplifier  Echo Street - Between today and yesterday](https://www.youtube.com/watch?v=mpmqy6m3mz4)
 - [Amplifier - Mary Rose](https://www.youtube.com/watch?v=u1aA38UkLCA)

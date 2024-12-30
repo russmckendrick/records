@@ -56,15 +56,15 @@ Self Preserved While the Bodies Float Up is the fourth and final full-length stu
 
 
 ## Videos
-### Oceansize - Silent/Transparent
-{{< youtube id="RcWGCoUNU3s" title="Oceansize - Silent/Transparent" >}}<br>
+### Oceansize - SilentTransparent
+{{< youtube id="RcWGCoUNU3s" title="Oceansize - SilentTransparent" >}}<br>
 ### More Videos
 
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
-- [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
-- [Oceansize - Silent/Transparent](https://www.youtube.com/watch?v=RcWGCoUNU3s)
+- [Oceansize - Silent  Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
+- [Oceansize - SilentTransparent](https://www.youtube.com/watch?v=RcWGCoUNU3s)
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
-- [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
+- [Oceansize - Silent  Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
 
 ## Release Images
 {{< imageGrid >}}

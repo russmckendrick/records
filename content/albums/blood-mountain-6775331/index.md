@@ -54,11 +54,11 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 
 
 ## Videos
-### Mastodon "Colony Of Birchmen" (Official Video)
-{{< youtube id="VQo9bwQ2rQc" title="Mastodon "Colony Of Birchmen" (Official Video)" >}}<br>
+### Mastodon Colony Of Birchmen Official Video
+{{< youtube id="VQo9bwQ2rQc" title="Mastodon Colony Of Birchmen Official Video" >}}<br>
 ### More Videos
 
-- [Mastodon - The Wolf Is Loose (Lyrics)](https://www.youtube.com/watch?v=Gm9P1QsoGhw)
+- [Mastodon - The Wolf Is Loose Lyrics](https://www.youtube.com/watch?v=Gm9P1QsoGhw)
 - [Crystal Skull](https://www.youtube.com/watch?v=wHv3MqhT9Jk)
 - [Sleeping Giant](https://www.youtube.com/watch?v=1Oo63VEPFMA)
 - [Mastodon - Capillarian Crest](https://www.youtube.com/watch?v=9d75JaaUVuU)
@@ -70,7 +70,7 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 - [This Mortal Soil](https://www.youtube.com/watch?v=HKQcUz79bNo)
 - [Siberian Divide](https://www.youtube.com/watch?v=iFk13cobMcQ)
 - [Pendulous Skin](https://www.youtube.com/watch?v=F-S4Q0MwpBY)
-- [Mastodon-Hidden Track (Pendulous Skin)](https://www.youtube.com/watch?v=E6_gkmlbkBs)
+- [Mastodon-Hidden Track Pendulous Skin](https://www.youtube.com/watch?v=E6_gkmlbkBs)
 
 ## Release Images
 {{< imageGrid >}}

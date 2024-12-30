@@ -43,8 +43,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Lemonheads – Can’t Forget
-{{< youtube id="zp-Yux6P7VU" title="The Lemonheads – Can’t Forget" >}}<br>
+### The Lemonheads  Cant Forget
+{{< youtube id="zp-Yux6P7VU" title="The Lemonheads  Cant Forget" >}}<br>
 ### More Videos
 
 - [Old Man Blank](https://www.youtube.com/watch?v=h8EFKNJg0zo)

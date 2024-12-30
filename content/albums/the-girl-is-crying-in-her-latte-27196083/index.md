@@ -46,23 +46,23 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 
 
 ## Videos
-### Sparks - The Girl Is Crying In Her Latte (Official Video) - Starring Cate Blanchett
-{{< youtube id="UTAxPhxADo0" title="Sparks - The Girl Is Crying In Her Latte (Official Video) - Starring Cate Blanchett" >}}<br>
+### Sparks - The Girl Is Crying In Her Latte Official Video - Starring Cate Blanchett
+{{< youtube id="UTAxPhxADo0" title="Sparks - The Girl Is Crying In Her Latte Official Video - Starring Cate Blanchett" >}}<br>
 ### More Videos
 
-- [Sparks - Veronica Lake (Official Lyric Video)](https://www.youtube.com/watch?v=Y9zIXalqooc)
-- [Sparks - Nothing Is As Good As They Say It Is (Lyric Video)](https://www.youtube.com/watch?v=nMmoTU7lPKE)
-- [Sparks - Escalator (Official Lyric Video)](https://www.youtube.com/watch?v=PDn7M3ST_Wk)
-- [Sparks - The Mona Lisa's Packing, Leaving Late Tonight (Official Lyric Video)](https://www.youtube.com/watch?v=TlKVD4nplVU)
-- [Sparks - You Were Meant For Me (Official Lyric Video)](https://www.youtube.com/watch?v=_LnSq8MoiL8)
-- [Sparks - Not That Well Defined (Official Lyric Video)](https://www.youtube.com/watch?v=71UBQ_sLG58)
-- [Sparks - We Go Dancing (Official Lyric Video)](https://www.youtube.com/watch?v=rdUgVn_ixf8)
-- [Sparks - When You Leave (Official Lyric Video)](https://www.youtube.com/watch?v=O4vuelJu2ls)
-- [Sparks - Take Me For A Ride (Official Lyric Video)](https://www.youtube.com/watch?v=jmMudDHc0qg)
-- [Sparks - It’s Sunny Today (Official Lyric Video)](https://www.youtube.com/watch?v=F_09jWiVbYg)
-- [Sparks - A Love Story (Official Lyric Video)](https://www.youtube.com/watch?v=uKqZWtR6jWU)
-- [Sparks - It Doesn't Have To Be That Way (Official Lyric Video)](https://www.youtube.com/watch?v=Vd2UttQKRi8)
-- [Sparks - Gee, That Was Fun (Official Lyric Video)](https://www.youtube.com/watch?v=Urbai_wxfew)
+- [Sparks - Veronica Lake Official Lyric Video](https://www.youtube.com/watch?v=Y9zIXalqooc)
+- [Sparks - Nothing Is As Good As They Say It Is Lyric Video](https://www.youtube.com/watch?v=nMmoTU7lPKE)
+- [Sparks - Escalator Official Lyric Video](https://www.youtube.com/watch?v=PDn7M3ST_Wk)
+- [Sparks - The Mona Lisas Packing Leaving Late Tonight Official Lyric Video](https://www.youtube.com/watch?v=TlKVD4nplVU)
+- [Sparks - You Were Meant For Me Official Lyric Video](https://www.youtube.com/watch?v=_LnSq8MoiL8)
+- [Sparks - Not That Well Defined Official Lyric Video](https://www.youtube.com/watch?v=71UBQ_sLG58)
+- [Sparks - We Go Dancing Official Lyric Video](https://www.youtube.com/watch?v=rdUgVn_ixf8)
+- [Sparks - When You Leave Official Lyric Video](https://www.youtube.com/watch?v=O4vuelJu2ls)
+- [Sparks - Take Me For A Ride Official Lyric Video](https://www.youtube.com/watch?v=jmMudDHc0qg)
+- [Sparks - Its Sunny Today Official Lyric Video](https://www.youtube.com/watch?v=F_09jWiVbYg)
+- [Sparks - A Love Story Official Lyric Video](https://www.youtube.com/watch?v=uKqZWtR6jWU)
+- [Sparks - It Doesnt Have To Be That Way Official Lyric Video](https://www.youtube.com/watch?v=Vd2UttQKRi8)
+- [Sparks - Gee That Was Fun Official Lyric Video](https://www.youtube.com/watch?v=Urbai_wxfew)
 
 ## Release Images
 {{< imageGrid >}}

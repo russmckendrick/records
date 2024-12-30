@@ -73,33 +73,33 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 
 
 ## Videos
-### De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding
-{{< youtube id="q9jCsOCfUUg" title="De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding" >}}<br>
+### De La Soul - Eye Know Official Music Video HD ft Otis Redding
+{{< youtube id="q9jCsOCfUUg" title="De La Soul - Eye Know Official Music Video HD ft Otis Redding" >}}<br>
 ### More Videos
 
-- [De La Soul - Me Myself and I (With Intro) (Official Music Video) [HD]](https://www.youtube.com/watch?v=zR9AlcgL6_0)
-- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
-- [De La Soul - The Magic Number (Official Lyric Video)](https://www.youtube.com/watch?v=pxkOWjZAPLs)
-- [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
-- [De La Soul - Cool Breeze on the Rocks (1989)](https://www.youtube.com/watch?v=f7kDkEf2bwk)
-- [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
-- [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
-- [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
-- [De La Soul - Eye Know (Official Audio) ft. Otis Redding](https://www.youtube.com/watch?v=_q9T41DV18A)
-- [De La Soul - Take It Off (Official Audio)](https://www.youtube.com/watch?v=czF8wntVIUI)
-- [De La Soul - A Little Bit of Soap (Official Audio)](https://www.youtube.com/watch?v=gSD4_TE47Tw)
-- [De La Soul - Tread Water (Official Audio)](https://www.youtube.com/watch?v=DL6PZCxakg0)
-- [De La Soul - Potholes in My Lawn (Official Audio)](https://www.youtube.com/watch?v=SlMRdWmt5h8)
-- [De La Soul - Say No Go (Official Audio)](https://www.youtube.com/watch?v=sL1USTJ58Hs)
-- [De La Soul - Do as De La Does (Official Audio)](https://www.youtube.com/watch?v=xo2-GVRNEro)
-- [De La Soul - Plug Tunin' (Last Chance to Comprehend) (Official Audio)](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
-- [De La Soul - De La Orgee (Official Audio)](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
-- [De La Soul - Description (Official Audio)](https://www.youtube.com/watch?v=t4h0SHmj9xY)
-- [De La Soul - Me Myself and I (Official Audio)](https://www.youtube.com/watch?v=fG9lFewfGEs)
-- [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
-- [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
-- [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
-- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
+- [De La Soul - Me Myself and I With Intro Official Music Video HD](https://www.youtube.com/watch?v=zR9AlcgL6_0)
+- [De La Soul - Intro Official Audio](https://www.youtube.com/watch?v=yJj-gwsqEJw)
+- [De La Soul - The Magic Number Official Lyric Video](https://www.youtube.com/watch?v=pxkOWjZAPLs)
+- [De La Soul - Change In Speak Official Audio](https://www.youtube.com/watch?v=PXI8YSFjm3U)
+- [De La Soul - Cool Breeze on the Rocks 1989](https://www.youtube.com/watch?v=f7kDkEf2bwk)
+- [De La Soul - Can U Keep a Secret Official Audio](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
+- [De La Soul - Jenifa Taught Me Derwins Revenge Official Audio](https://www.youtube.com/watch?v=3wYtCyAKbzE)
+- [De La Soul - Transmitting Live from Mars Official Audio](https://www.youtube.com/watch?v=7nFCOYP1Tow)
+- [De La Soul - Eye Know Official Audio ft Otis Redding](https://www.youtube.com/watch?v=_q9T41DV18A)
+- [De La Soul - Take It Off Official Audio](https://www.youtube.com/watch?v=czF8wntVIUI)
+- [De La Soul - A Little Bit of Soap Official Audio](https://www.youtube.com/watch?v=gSD4_TE47Tw)
+- [De La Soul - Tread Water Official Audio](https://www.youtube.com/watch?v=DL6PZCxakg0)
+- [De La Soul - Potholes in My Lawn Official Audio](https://www.youtube.com/watch?v=SlMRdWmt5h8)
+- [De La Soul - Say No Go Official Audio](https://www.youtube.com/watch?v=sL1USTJ58Hs)
+- [De La Soul - Do as De La Does Official Audio](https://www.youtube.com/watch?v=xo2-GVRNEro)
+- [De La Soul - Plug Tunin Last Chance to Comprehend Official Audio](https://www.youtube.com/watch?v=1Zy7TcN6Q8c)
+- [De La Soul - De La Orgee Official Audio](https://www.youtube.com/watch?v=XKeYFvaJ5Cs)
+- [De La Soul - Description Official Audio](https://www.youtube.com/watch?v=t4h0SHmj9xY)
+- [De La Soul - Me Myself and I Official Audio](https://www.youtube.com/watch?v=fG9lFewfGEs)
+- [De La Soul - This is a Recording 4 Living in a Fulltime ERA LIFE Official Audio](https://www.youtube.com/watch?v=UxQXPk40DCw)
+- [De La Soul - I Can Do Anything Delacratic Official Audio](https://www.youtube.com/watch?v=MDznQE_zkn8)
+- [De La Soul - DAISY Age Official Audio](https://www.youtube.com/watch?v=m7xAIN2cuBU)
+- [De La Soul - Cool Breeze on the Rocks The Melted Version Official Audio](https://www.youtube.com/watch?v=OwwaO_FxEco)
 
 ## Release Images
 {{< imageGrid >}}

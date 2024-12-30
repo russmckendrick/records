@@ -59,21 +59,21 @@ Dance features the single "She's Got Claws", which reached no. 6 on the singles 
 
 
 ## Videos
-### Moral (Extended Version)
-{{< youtube id="NTZ9IV03ZLE" title="Moral (Extended Version)" >}}<br>
+### Moral Extended Version
+{{< youtube id="NTZ9IV03ZLE" title="Moral Extended Version" >}}<br>
 ### More Videos
 
 - [Slowcar to China](https://www.youtube.com/watch?v=ROGHXpApiwE)
 - [Night Talk](https://www.youtube.com/watch?v=ZD-I0j-e-mU)
-- [A Subway Called 'You'](https://www.youtube.com/watch?v=udi3ox-s1QE)
+- [A Subway Called You](https://www.youtube.com/watch?v=udi3ox-s1QE)
 - [Cry the Clock Said](https://www.youtube.com/watch?v=Led64P0ZbLo)
 - [Crash](https://www.youtube.com/watch?v=H8a7SSBal94)
 - [Boys Like Me](https://www.youtube.com/watch?v=d43fYBTannM)
 - [Stories](https://www.youtube.com/watch?v=Af5DBiDupvU)
-- [My Brother's Time](https://www.youtube.com/watch?v=m1FoXeW3Hho)
-- [You Are, You Are](https://www.youtube.com/watch?v=SHeEfqbVLh0)
+- [My Brothers Time](https://www.youtube.com/watch?v=m1FoXeW3Hho)
+- [You Are You Are](https://www.youtube.com/watch?v=SHeEfqbVLh0)
 - [Moral](https://www.youtube.com/watch?v=SilAUckYysk)
-- [Moral (Extended Version)](https://www.youtube.com/watch?v=NTZ9IV03ZLE)
+- [Moral Extended Version](https://www.youtube.com/watch?v=NTZ9IV03ZLE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -51,15 +51,15 @@ The album was the group's first since reforming with a new lineup of previous me
 {{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}<br>
 ### More Videos
 
-- [Smash It Up (Pts. 1 & 2)](https://www.youtube.com/watch?v=z0VdIX2YM9c)
-- [I Just Can't Be Happy Today](https://www.youtube.com/watch?v=Qd529s4Ae30)
+- [Smash It Up Pts 1  2](https://www.youtube.com/watch?v=z0VdIX2YM9c)
+- [I Just Cant Be Happy Today](https://www.youtube.com/watch?v=Qd529s4Ae30)
 - [Melody Lee](https://www.youtube.com/watch?v=VyLgixqK_1s)
 - [Anti-Pope](https://www.youtube.com/watch?v=zJ16UNwRm5M)
 - [These Hands](https://www.youtube.com/watch?v=WO45ZvujnpY)
-- [Noise, Noise, Noise](https://www.youtube.com/watch?v=Eq8aXdJzSUE)
+- [Noise Noise Noise](https://www.youtube.com/watch?v=Eq8aXdJzSUE)
 - [Liar](https://www.youtube.com/watch?v=wpZD8c3bvBI)
 - [Looking at You](https://www.youtube.com/watch?v=14PKjhC9Fnk)
-- [The Damned - Love Song (Official Audio)](https://www.youtube.com/watch?v=gc0och2Q_zg)
+- [The Damned - Love Song Official Audio](https://www.youtube.com/watch?v=gc0och2Q_zg)
 
 ## Release Images
 {{< imageGrid >}}

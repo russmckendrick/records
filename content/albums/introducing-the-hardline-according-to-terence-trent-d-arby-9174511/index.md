@@ -48,13 +48,13 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 
 
 ## Videos
-### Terence Trent D'arby - Wishing well
-{{< youtube id="n2Nd_lS9Kcs" title="Terence Trent D'arby - Wishing well" >}}<br>
+### Terence Trent Darby - Wishing well
+{{< youtube id="n2Nd_lS9Kcs" title="Terence Trent Darby - Wishing well" >}}<br>
 ### More Videos
 
-- [If You All Get To Heaven: Terence Trent D'Arby *HQ*](https://www.youtube.com/watch?v=funBT_8jBMw)
-- [Terence Trent D'arby - Introducing the Hardline According to Terence Trent D'Arby: 1001 AlbumsYMHBYD](https://www.youtube.com/watch?v=54oZ5vEU2h0)
-- [1987 "VINILE" N.334  -Terence Trent D'Arby - Seven More Days](https://www.youtube.com/watch?v=_DQFd5JJz_s)
+- [If You All Get To Heaven Terence Trent DArby HQ](https://www.youtube.com/watch?v=funBT_8jBMw)
+- [Terence Trent Darby - Introducing the Hardline According to Terence Trent DArby 1001 AlbumsYMHBYD](https://www.youtube.com/watch?v=54oZ5vEU2h0)
+- [1987 VINILE N334  -Terence Trent DArby - Seven More Days](https://www.youtube.com/watch?v=_DQFd5JJz_s)
 
 ## Release Images
 {{< imageGrid >}}

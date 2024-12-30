@@ -85,11 +85,11 @@ TC: “Writing it in North Hadley with Chris, that’s where I started to feel v
 
 
 ## Videos
-### Stars - Patterns (Official Music Video)
-{{< youtube id="l94kK-S8wvc" title="Stars - Patterns (Official Music Video)" >}}<br>
+### Stars - Patterns Official Music Video
+{{< youtube id="l94kK-S8wvc" title="Stars - Patterns Official Music Video" >}}<br>
 ### More Videos
 
-- [Stars - That Girl (Official Video)](https://www.youtube.com/watch?v=2MI3CHUrCFo)
+- [Stars - That Girl Official Video](https://www.youtube.com/watch?v=2MI3CHUrCFo)
 
 ## Release Images
 {{< imageGrid >}}

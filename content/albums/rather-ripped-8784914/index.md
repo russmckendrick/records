@@ -56,9 +56,9 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 {{< youtube id="rP3ovD8ZSS4" title="Sonic Youth - Incinerate" >}}<br>
 ### More Videos
 
-- [Sonic Youth - Reena (Closed Captioned)](https://www.youtube.com/watch?v=HrKttSi7EmM)
-- [Sonic Youth - Do You Believe In Rapture? (Closed Captioned)](https://www.youtube.com/watch?v=y4RdKzzTU8E)
-- [Sonic Youth - Jams Runs Free (Closed Captioned)](https://www.youtube.com/watch?v=vU93I5UU8-c)
+- [Sonic Youth - Reena Closed Captioned](https://www.youtube.com/watch?v=HrKttSi7EmM)
+- [Sonic Youth - Do You Believe In Rapture Closed Captioned](https://www.youtube.com/watch?v=y4RdKzzTU8E)
+- [Sonic Youth - Jams Runs Free Closed Captioned](https://www.youtube.com/watch?v=vU93I5UU8-c)
 
 ## Release Images
 {{< imageGrid >}}

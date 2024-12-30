@@ -36,16 +36,16 @@ For their second album, Chicago shortened their name (from Chicago Transit Autho
 
 
 ## Videos
-### Steven Wilson - 12 THINGS I FORGOT (Official Audio)
-{{< youtube id="7wZrYAgf8d8" title="Steven Wilson - 12 THINGS I FORGOT (Official Audio)" >}}<br>
+### Steven Wilson - 12 THINGS I FORGOT Official Audio
+{{< youtube id="7wZrYAgf8d8" title="Steven Wilson - 12 THINGS I FORGOT Official Audio" >}}<br>
 ### More Videos
 
-- [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
-- [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
-- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
-- [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
-- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - MOVE LIKE A FEVER Official Audio](https://www.youtube.com/watch?v=6ocVr57vKq4)
+- [Steven Wilson - KING GHOST Tangerine Dream Remix Official Audio](https://www.youtube.com/watch?v=SkJqPSrLUNo)
+- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - MOVE LIKE A FEVER Official Audio](https://www.youtube.com/watch?v=6ocVr57vKq4)
+- [Steven Wilson - KING GHOST Tangerine Dream Remix Official Audio](https://www.youtube.com/watch?v=SkJqPSrLUNo)
+- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
 
 ## Release Images
 {{< imageGrid >}}

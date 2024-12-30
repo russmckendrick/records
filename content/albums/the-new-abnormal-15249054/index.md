@@ -46,18 +46,18 @@ A general observation: You don’t go see Rick Rubin at Shangri-La if you’re j
 
 
 ## Videos
-### The Strokes - The Adults Are Talking (Official Video)
-{{< youtube id="ewOPQZZn4SY" title="The Strokes - The Adults Are Talking (Official Video)" >}}<br>
+### The Strokes - The Adults Are Talking Official Video
+{{< youtube id="ewOPQZZn4SY" title="The Strokes - The Adults Are Talking Official Video" >}}<br>
 ### More Videos
 
-- [The Strokes - Selfless (Audio)](https://www.youtube.com/watch?v=1-W6whvn8Bs)
-- [The Strokes - Brooklyn Bridge To Chorus (Audio)](https://www.youtube.com/watch?v=2jna3dWEnzo)
-- [The Strokes - Bad Decisions (Official Video)](https://www.youtube.com/watch?v=5fbZTnZDvPA)
-- [The Strokes - Eternal Summer (Audio)](https://www.youtube.com/watch?v=5c3EjeP2x-Q)
-- [The Strokes - At The Door (Official Video)](https://www.youtube.com/watch?v=9CAz_vvsK9M)
-- [The Strokes - Why Are Sundays So Depressing (Audio)](https://www.youtube.com/watch?v=2KSpDNlsVF4)
-- [The Strokes - Not The Same Anymore (Audio)](https://www.youtube.com/watch?v=EzrlnUiOMhc)
-- [The Strokes - Ode To The Mets (Official Video)](https://www.youtube.com/watch?v=BjC0KUxiMhc)
+- [The Strokes - Selfless Audio](https://www.youtube.com/watch?v=1-W6whvn8Bs)
+- [The Strokes - Brooklyn Bridge To Chorus Audio](https://www.youtube.com/watch?v=2jna3dWEnzo)
+- [The Strokes - Bad Decisions Official Video](https://www.youtube.com/watch?v=5fbZTnZDvPA)
+- [The Strokes - Eternal Summer Audio](https://www.youtube.com/watch?v=5c3EjeP2x-Q)
+- [The Strokes - At The Door Official Video](https://www.youtube.com/watch?v=9CAz_vvsK9M)
+- [The Strokes - Why Are Sundays So Depressing Audio](https://www.youtube.com/watch?v=2KSpDNlsVF4)
+- [The Strokes - Not The Same Anymore Audio](https://www.youtube.com/watch?v=EzrlnUiOMhc)
+- [The Strokes - Ode To The Mets Official Video](https://www.youtube.com/watch?v=BjC0KUxiMhc)
 
 ## Release Images
 {{< imageGrid >}}

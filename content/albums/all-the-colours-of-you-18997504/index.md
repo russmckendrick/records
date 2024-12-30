@@ -56,17 +56,17 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 
 
 ## Videos
-### James – Beautiful Beaches (Official Audio)
-{{< youtube id="8HQBbi3eGV0" title="James – Beautiful Beaches (Official Audio)" >}}<br>
+### James  Beautiful Beaches Official Audio
+{{< youtube id="8HQBbi3eGV0" title="James  Beautiful Beaches Official Audio" >}}<br>
 ### More Videos
 
 - [Wherever It Takes Us](https://www.youtube.com/watch?v=l31jX9KxHOQ)
 - [Hush](https://www.youtube.com/watch?v=yOddbb1Nlfc)
-- [James – Isabella (Official Audio)](https://www.youtube.com/watch?v=edikctKq3DA)
+- [James  Isabella Official Audio](https://www.youtube.com/watch?v=edikctKq3DA)
 - [Miss America](https://www.youtube.com/watch?v=zwvLr3iIrO4)
 - [Recover](https://www.youtube.com/watch?v=Ce_xXU-yabY)
 - [ZERO](https://www.youtube.com/watch?v=i9NrVoehWws)
-- [James - All The Colours Of You (Official Lyric Video)](https://www.youtube.com/watch?v=-fQk-hEMYMc)
+- [James - All The Colours Of You Official Lyric Video](https://www.youtube.com/watch?v=-fQk-hEMYMc)
 
 ## Release Images
 {{< imageGrid >}}

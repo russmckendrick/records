@@ -56,13 +56,13 @@ Lost Souls was considered by many to be the best debut album by a British act si
 {{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
 ### More Videos
 
-- [Doves 'Firesuite"](https://www.youtube.com/watch?v=YDMbFjQZCkM)
+- [Doves Firesuite](https://www.youtube.com/watch?v=YDMbFjQZCkM)
 - [Doves - Break Me Gently](https://www.youtube.com/watch?v=2ct3Ia7HwPc)
 - [Doves - Rise](https://www.youtube.com/watch?v=supe-yD0fX4)
 - [Doves Lost Souls](https://www.youtube.com/watch?v=55G56ToTXYk)
-- [Doves - The Man Who Told Everything (HQ)](https://www.youtube.com/watch?v=Gd5g7X9KPB4)
-- [Doves "Reprise"](https://www.youtube.com/watch?v=bcIX1kH_tR8)
-- [Doves - Sea song (HD) (Lost Souls 2000)](https://www.youtube.com/watch?v=cO6pGcdD_mE)
+- [Doves - The Man Who Told Everything HQ](https://www.youtube.com/watch?v=Gd5g7X9KPB4)
+- [Doves Reprise](https://www.youtube.com/watch?v=bcIX1kH_tR8)
+- [Doves - Sea song HD Lost Souls 2000](https://www.youtube.com/watch?v=cO6pGcdD_mE)
 - [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
 - [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
 - [Doves - The Cedar Room](https://www.youtube.com/watch?v=RadUfjnnqOE)

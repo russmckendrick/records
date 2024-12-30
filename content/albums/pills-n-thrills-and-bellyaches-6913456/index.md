@@ -68,16 +68,16 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 
 
 ## Videos
-### Happy Mondays - Kinky Afro (Official Video)
-{{< youtube id="O8maBsuhHr4" title="Happy Mondays - Kinky Afro (Official Video)" >}}<br>
+### Happy Mondays - Kinky Afro Official Video
+{{< youtube id="O8maBsuhHr4" title="Happy Mondays - Kinky Afro Official Video" >}}<br>
 ### More Videos
 
-- [Happy Mondays - Pills 'n' Thrills and Bellyaches (Full Album) 1990](https://www.youtube.com/watch?v=IbkrlClTQeA)
-- [HAPPY MONDAYS – Pills 'N Thrills And Bellyaches – 1990 – Full album – CD](https://www.youtube.com/watch?v=eTXRwbJls5w)
-- [Happy Mondays: Pills 'N Thrills And Bellyaches (Full Album)](https://www.youtube.com/watch?v=ET5z5_IGpBk)
-- [Happy Mondays - Step On (from the "Pills 'N' Thrills And Bellyaches" album)](https://www.youtube.com/watch?v=HA-xjJQRzJk)
-- [HAPPY MONDAYS, pills n thrills and bellyaches,(FULL ALBUM)](https://www.youtube.com/watch?v=y5FU31A3cKw)
-- [Happy Mondays - Channel 4's 100 Greatest Albums, 2005 - Pills, Thrills And Bellyaches](https://www.youtube.com/watch?v=agZN3xDm8Og)
+- [Happy Mondays - Pills n Thrills and Bellyaches Full Album 1990](https://www.youtube.com/watch?v=IbkrlClTQeA)
+- [HAPPY MONDAYS  Pills N Thrills And Bellyaches  1990  Full album  CD](https://www.youtube.com/watch?v=eTXRwbJls5w)
+- [Happy Mondays Pills N Thrills And Bellyaches Full Album](https://www.youtube.com/watch?v=ET5z5_IGpBk)
+- [Happy Mondays - Step On from the Pills N Thrills And Bellyaches album](https://www.youtube.com/watch?v=HA-xjJQRzJk)
+- [HAPPY MONDAYS pills n thrills and bellyachesFULL ALBUM](https://www.youtube.com/watch?v=y5FU31A3cKw)
+- [Happy Mondays - Channel 4s 100 Greatest Albums 2005 - Pills Thrills And Bellyaches](https://www.youtube.com/watch?v=agZN3xDm8Og)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,14 +56,14 @@ But, as usual with Springsteen, the details are more complex than that. The albu
 
 
 ## Videos
-### Bruce Springsteen - Tunnel of Love [cassette]
-{{< youtube id="q4kOco548tE" title="Bruce Springsteen - Tunnel of Love [cassette]" >}}<br>
+### Bruce Springsteen - Tunnel of Love cassette
+{{< youtube id="q4kOco548tE" title="Bruce Springsteen - Tunnel of Love cassette" >}}<br>
 ### More Videos
 
-- [Bruce Springsteen - One Step Up (Official Video)](https://www.youtube.com/watch?v=MkFQHScyti0)
-- [Bruce Springsteen - Tunnel of Love (Official Video)](https://www.youtube.com/watch?v=M4K7XZGeHTE)
+- [Bruce Springsteen - One Step Up Official Video](https://www.youtube.com/watch?v=MkFQHScyti0)
+- [Bruce Springsteen - Tunnel of Love Official Video](https://www.youtube.com/watch?v=M4K7XZGeHTE)
 - [Two Faces](https://www.youtube.com/watch?v=119sq2IIoiA)
-- [Bruce Springsteen - Tunnel of Love [cassette]](https://www.youtube.com/watch?v=q4kOco548tE)
+- [Bruce Springsteen - Tunnel of Love cassette](https://www.youtube.com/watch?v=q4kOco548tE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -64,11 +64,11 @@ This article is a discography of American rock musician Todd Rundgren.
 
 
 ## Videos
-### The Last Ride (2015 Remaster)
-{{< youtube id="Ch1cX5xDi3M" title="The Last Ride (2015 Remaster)" >}}<br>
+### The Last Ride 2015 Remaster
+{{< youtube id="Ch1cX5xDi3M" title="The Last Ride 2015 Remaster" >}}<br>
 ### More Videos
 
-- [A Dream Goes on Forever (2015 Remaster)](https://www.youtube.com/watch?v=xt90oOl0IE8)
+- [A Dream Goes on Forever 2015 Remaster](https://www.youtube.com/watch?v=xt90oOl0IE8)
 
 ## Release Images
 {{< imageGrid >}}

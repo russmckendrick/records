@@ -74,8 +74,8 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 
 
 ## Videos
-### Porcupine Tree - Octane Twisted/The Seance/Circle Of Manias (Lyrics)
-{{< youtube id="xEpsduO7Jm0" title="Porcupine Tree - Octane Twisted/The Seance/Circle Of Manias (Lyrics)" >}}<br>
+### Porcupine Tree - Octane TwistedThe SeanceCircle Of Manias Lyrics
+{{< youtube id="xEpsduO7Jm0" title="Porcupine Tree - Octane TwistedThe SeanceCircle Of Manias Lyrics" >}}<br>
 
 
 ## Release Images

@@ -46,8 +46,8 @@ The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached 
 
 
 ## Videos
-### The B-52's - Rock Lobster (Official Music Video)
-{{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}<br>
+### The B-52s - Rock Lobster Official Music Video
+{{< youtube id="n4QSYx4wVQg" title="The B-52s - Rock Lobster Official Music Video" >}}<br>
 ### More Videos
 
 - [Dance This Mess Around](https://www.youtube.com/watch?v=Qsb0HlSfUpg)

@@ -51,7 +51,7 @@ styles: []
 ### More Videos
 
 - [Paul Draper - Friends Make The Worst Enemies - Live At Scala](https://www.youtube.com/watch?v=QvMGJJu7h-k)
-- [Paul Draper - Wide Open Space (live at Scala - multicam)](https://www.youtube.com/watch?v=uIJpdmeGMek)
+- [Paul Draper - Wide Open Space live at Scala - multicam](https://www.youtube.com/watch?v=uIJpdmeGMek)
 
 ## Release Images
 {{< imageGrid >}}

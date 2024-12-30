@@ -51,17 +51,17 @@ Every song in the collection is expertly built so the chronological track listin
 
 
 ## Videos
-### Pulling Mussels (From The Shell)
-{{< youtube id="vB5glE-Oo94" title="Pulling Mussels (From The Shell)" >}}<br>
+### Pulling Mussels From The Shell
+{{< youtube id="vB5glE-Oo94" title="Pulling Mussels From The Shell" >}}<br>
 ### More Videos
 
 - [Black Coffee In Bed](https://www.youtube.com/watch?v=ZyF425Fu3o4)
-- [Is That Love?](https://www.youtube.com/watch?v=ROjSnSo0DiI)
-- [Take Me I'm Yours](https://www.youtube.com/watch?v=YrVn4HAh2vM)
+- [Is That Love](https://www.youtube.com/watch?v=ROjSnSo0DiI)
+- [Take Me Im Yours](https://www.youtube.com/watch?v=YrVn4HAh2vM)
 - [Annie Get Your Gun](https://www.youtube.com/watch?v=0Bfm_1Ralgc)
 - [Tempted](https://www.youtube.com/watch?v=WWteW9MAzdo)
-- [If I Didn't Love You](https://www.youtube.com/watch?v=liLruG9gV40)
-- [Squeeze - Is That Love (1981)](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
+- [If I Didnt Love You](https://www.youtube.com/watch?v=liLruG9gV40)
+- [Squeeze - Is That Love 1981](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
 - [Squeeze - Up The Junction](https://www.youtube.com/watch?v=RQciegmLPAo)
 
 ## Release Images

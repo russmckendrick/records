@@ -44,13 +44,13 @@ American Fool is the fifth studio album by American singer-songwriter John Couga
 {{< youtube id="g_9rnnkRX0g" title="Hurts So Good" >}}<br>
 ### More Videos
 
-- [Jack & Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
+- [Jack  Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
 - [Hand To Hold On To](https://www.youtube.com/watch?v=QTPq27vhB9g)
 - [Danger List](https://www.youtube.com/watch?v=DodNVBf0f4I)
 - [Thundering Hearts](https://www.youtube.com/watch?v=I2xJAJq505o)
 - [China Girl](https://www.youtube.com/watch?v=BeD7thCRa3M)
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)
-- [American Fool (Bonus Track)](https://www.youtube.com/watch?v=-IIXpzlaMlw)
+- [American Fool Bonus Track](https://www.youtube.com/watch?v=-IIXpzlaMlw)
 - [John Mellencamp  American Fool Full Vinyl Album](https://www.youtube.com/watch?v=YPAc4b5lfVU)
 
 ## Release Images

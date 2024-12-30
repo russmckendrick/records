@@ -46,11 +46,11 @@ Flock is the eleventh album by the English musician Jane Weaver, released on 5 M
 
 
 ## Videos
-### Jane Weaver - Heartlow (Official Video)
-{{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow (Official Video)" >}}<br>
+### Jane Weaver - Heartlow Official Video
+{{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow Official Video" >}}<br>
 ### More Videos
 
-- [Jane Weaver - The Revolution Of Super Visions (Official Video)](https://www.youtube.com/watch?v=Zop_79wxs6M)
+- [Jane Weaver - The Revolution Of Super Visions Official Video](https://www.youtube.com/watch?v=Zop_79wxs6M)
 - [Stages Of Phases](https://www.youtube.com/watch?v=-2fmLoa6jwc)
 - [Lux](https://www.youtube.com/watch?v=gVsw8943ego)
 - [Modern Reputation](https://www.youtube.com/watch?v=Ty4rkqddcQY)

@@ -47,15 +47,15 @@ The album was commercially successful and most critics viewed it positively. In 
 
 
 ## Videos
-### Steppin' Out
-{{< youtube id="HquRIGE6zDA" title="Steppin' Out" >}}<br>
+### Steppin Out
+{{< youtube id="HquRIGE6zDA" title="Steppin Out" >}}<br>
 ### More Videos
 
 - [Hideaway](https://www.youtube.com/watch?v=_xes9UVj6RY)
 - [All Your Love](https://www.youtube.com/watch?v=OkedAcAAcU4)
-- [Ramblin' On My Mind](https://www.youtube.com/watch?v=mUrQlL4VGdo)
-- [Have You Heard (Stereo)](https://www.youtube.com/watch?v=2ZINjFcMs6k)
-- [Little Girl (Stereo)](https://www.youtube.com/watch?v=Dz61ZunjIRU)
+- [Ramblin On My Mind](https://www.youtube.com/watch?v=mUrQlL4VGdo)
+- [Have You Heard Stereo](https://www.youtube.com/watch?v=2ZINjFcMs6k)
+- [Little Girl Stereo](https://www.youtube.com/watch?v=Dz61ZunjIRU)
 
 ## Release Images
 {{< imageGrid >}}

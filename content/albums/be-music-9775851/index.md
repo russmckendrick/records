@@ -50,8 +50,8 @@ This mid-'90s collection lays out New Order's catalogue in all its brilliance (a
 
 
 ## Videos
-### Marnie - The Hunter [Stephen Morris Remix]
-{{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter [Stephen Morris Remix]" >}}<br>
+### Marnie - The Hunter Stephen Morris Remix
+{{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter Stephen Morris Remix" >}}<br>
 ### More Videos
 
 - [Motherland](https://www.youtube.com/watch?v=oS9IUVolNwg)

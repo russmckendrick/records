@@ -52,24 +52,24 @@ And because Bon Jovi is, at heart, a pop band, the group pulls it all together w
 
 
 ## Videos
-### Bon Jovi - Slippery When Wet [LP Full Album]
-{{< youtube id="kdOYqANso8Y" title="Bon Jovi - Slippery When Wet [LP Full Album]" >}}<br>
+### Bon Jovi - Slippery When Wet LP Full Album
+{{< youtube id="kdOYqANso8Y" title="Bon Jovi - Slippery When Wet LP Full Album" >}}<br>
 ### More Videos
 
-- [Bon Jovi - Slippery When Wet [LP Full Album]](https://www.youtube.com/watch?v=kdOYqANso8Y)
-- [Bon Jovi - Slippery When Wet (Vinyl, 1986)](https://www.youtube.com/watch?v=rK1W34AU6jk)
-- [Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
-- [Bon Jovi - Livin' On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
-- [Bon Jovi - Wanted Dead Or Alive (Official Music Video)](https://www.youtube.com/watch?v=SRvCvsRp5ho)
-- [Bon Jovi - Never Say Goodbye (Official Music Video)](https://www.youtube.com/watch?v=ifm00JEjSeo)
+- [Bon Jovi - Slippery When Wet LP Full Album](https://www.youtube.com/watch?v=kdOYqANso8Y)
+- [Bon Jovi - Slippery When Wet Vinyl 1986](https://www.youtube.com/watch?v=rK1W34AU6jk)
+- [Bon Jovi - You Give Love A Bad Name Official Music Video](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
+- [Bon Jovi - Livin On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
+- [Bon Jovi - Wanted Dead Or Alive Official Music Video](https://www.youtube.com/watch?v=SRvCvsRp5ho)
+- [Bon Jovi - Never Say Goodbye Official Music Video](https://www.youtube.com/watch?v=ifm00JEjSeo)
 - [Let It Rock](https://www.youtube.com/watch?v=akcV2spfXFw)
 - [You Give Love A Bad Name](https://www.youtube.com/watch?v=Aqc3VTpz9HQ)
-- [Livin' On A Prayer](https://www.youtube.com/watch?v=YBdyc1WDlBQ)
+- [Livin On A Prayer](https://www.youtube.com/watch?v=YBdyc1WDlBQ)
 - [Social Disease](https://www.youtube.com/watch?v=7Wd8BxMW6Bs)
 - [Wanted Dead Or Alive](https://www.youtube.com/watch?v=xNRaDavYo1M)
 - [Raise Your Hands](https://www.youtube.com/watch?v=cLD1rWuH1JA)
 - [Without Love](https://www.youtube.com/watch?v=RCf-yONuO5Q)
-- [I'd Die For You](https://www.youtube.com/watch?v=zmsFcnw3yzk)
+- [Id Die For You](https://www.youtube.com/watch?v=zmsFcnw3yzk)
 - [Never Say Goodbye](https://www.youtube.com/watch?v=IDCFX5NShlE)
 - [Wild In The Streets](https://www.youtube.com/watch?v=M_CnBodzVic)
 

@@ -67,14 +67,14 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 
 
 ## Videos
-### R.E.M. - E-Bow The Letter (Official Music Video) feat. Patti Smith
-{{< youtube id="5cnIQHJ169s" title="R.E.M. - E-Bow The Letter (Official Music Video) feat. Patti Smith" >}}<br>
+### REM - E-Bow The Letter Official Music Video feat Patti Smith
+{{< youtube id="5cnIQHJ169s" title="REM - E-Bow The Letter Official Music Video feat Patti Smith" >}}<br>
 ### More Videos
 
-- [R.E.M. - How The West Was Won And Where It Got Us (Official Music Video)](https://www.youtube.com/watch?v=9BC07l2_zKU)
-- [R.E.M. - Electrolite (Official Music Video)](https://www.youtube.com/watch?v=1LewYq40Svw)
-- [R.E.M. - Leave (Official Audio)](https://www.youtube.com/watch?v=tXj6_-UwkOU)
-- [R.E.M. - New Test Leper (Official Music Video)](https://www.youtube.com/watch?v=_c_Yg8azAi0)
+- [REM - How The West Was Won And Where It Got Us Official Music Video](https://www.youtube.com/watch?v=9BC07l2_zKU)
+- [REM - Electrolite Official Music Video](https://www.youtube.com/watch?v=1LewYq40Svw)
+- [REM - Leave Official Audio](https://www.youtube.com/watch?v=tXj6_-UwkOU)
+- [REM - New Test Leper Official Music Video](https://www.youtube.com/watch?v=_c_Yg8azAi0)
 
 ## Release Images
 {{< imageGrid >}}

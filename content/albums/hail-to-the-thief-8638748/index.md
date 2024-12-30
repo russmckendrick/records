@@ -61,13 +61,13 @@ There’s no Radiohead record more vitriolic, nor more emotionally persuasive, t
 
 
 ## Videos
-### Radiohead - There, There
-{{< youtube id="7AQSLozK7aA" title="Radiohead - There, There" >}}<br>
+### Radiohead - There There
+{{< youtube id="7AQSLozK7aA" title="Radiohead - There There" >}}<br>
 ### More Videos
 
-- [2 + 2 = 5](https://www.youtube.com/watch?v=2w6kHS_IRrE)
+- [2  2  5](https://www.youtube.com/watch?v=2w6kHS_IRrE)
 - [Radiohead - Hail to the Thief](https://www.youtube.com/watch?v=ELbQXycMars)
-- [Radiohead - Ha̲il T̲o Th̲e Th̲ei̲f (Full Album)](https://www.youtube.com/watch?v=SHpXcB7leZc)
+- [Radiohead - Hail To The Theif Full Album](https://www.youtube.com/watch?v=SHpXcB7leZc)
 
 ## Release Images
 {{< imageGrid >}}

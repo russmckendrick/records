@@ -51,11 +51,11 @@ The first single from the album, "The Worst in Us", was released on March 13, 20
 
 
 ## Videos
-### The Dears - Instant Nightmare!
-{{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare!" >}}<br>
+### The Dears - Instant Nightmare
+{{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare" >}}<br>
 ### More Videos
 
-- [The Dears - Is This What You Really Want?](https://www.youtube.com/watch?v=fcWiNJybFUY)
+- [The Dears - Is This What You Really Want](https://www.youtube.com/watch?v=fcWiNJybFUY)
 - [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
 ## Release Images

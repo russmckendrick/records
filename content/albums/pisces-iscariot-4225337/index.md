@@ -55,16 +55,16 @@ The album was re-released by EMI as a deluxe edition CD and LP on July 17, 2012.
 
 
 ## Videos
-### Starla (Remastered)
-{{< youtube id="7SZ52lyoc28" title="Starla (Remastered)" >}}<br>
+### Starla Remastered
+{{< youtube id="7SZ52lyoc28" title="Starla Remastered" >}}<br>
 ### More Videos
 
-- [Frail & Bedazzled (Remastered)](https://www.youtube.com/watch?v=ZaQxUTpaCEk)
-- [Obscured (Remastered)](https://www.youtube.com/watch?v=TbDwK9iJ00c)
-- [Whir (Remastered)](https://www.youtube.com/watch?v=Cc1V2tW5Hyc)
-- [Blew Away (Remastered)](https://www.youtube.com/watch?v=eq3bLd6gnsk)
-- [Plume (Remastered)](https://www.youtube.com/watch?v=dxamimzqbeE)
-- [Landslide (Remastered)](https://www.youtube.com/watch?v=eYYx722ZYrs)
+- [Frail  Bedazzled Remastered](https://www.youtube.com/watch?v=ZaQxUTpaCEk)
+- [Obscured Remastered](https://www.youtube.com/watch?v=TbDwK9iJ00c)
+- [Whir Remastered](https://www.youtube.com/watch?v=Cc1V2tW5Hyc)
+- [Blew Away Remastered](https://www.youtube.com/watch?v=eq3bLd6gnsk)
+- [Plume Remastered](https://www.youtube.com/watch?v=dxamimzqbeE)
+- [Landslide Remastered](https://www.youtube.com/watch?v=eYYx722ZYrs)
 
 ## Release Images
 {{< imageGrid >}}

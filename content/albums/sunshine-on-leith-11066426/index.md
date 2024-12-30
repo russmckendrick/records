@@ -47,17 +47,17 @@ The songs, arranged by musical director Paul Englishby, are performed by the cas
 
 
 ## Videos
-### TVC - The Proclaimers (1989)
-{{< youtube id="1wA3gDcUj_k" title="TVC - The Proclaimers (1989)" >}}<br>
+### TVC - The Proclaimers 1989
+{{< youtube id="1wA3gDcUj_k" title="TVC - The Proclaimers 1989" >}}<br>
 ### More Videos
 
 - [The Proclaimers-Sunshine On Leith](https://www.youtube.com/watch?v=ZmELS03_4So)
-- [The Proclaimers -  Sunshine On Leith (Official Music Video)](https://www.youtube.com/watch?v=Iesps9w4HFw)
+- [The Proclaimers -  Sunshine On Leith Official Music Video](https://www.youtube.com/watch?v=Iesps9w4HFw)
 - [Sunshine on Leith](https://www.youtube.com/watch?v=9V7NYX1TOgs)
-- [Sunshine on Leith (2011 Remaster)](https://www.youtube.com/watch?v=sZ43B71vK0g)
+- [Sunshine on Leith 2011 Remaster](https://www.youtube.com/watch?v=sZ43B71vK0g)
 - [The Proclaimers - Sunshine On Leith](https://www.youtube.com/watch?v=0NzPmtQTuVI)
-- [The Proclaimers - I'm Gonna Be (500 Miles)](https://www.youtube.com/watch?v=tbNlMtqrYS0)
-- [The proclaimers - 500 miles (With lyrics)](https://www.youtube.com/watch?v=TyyNlxiMDB8)
+- [The Proclaimers - Im Gonna Be 500 Miles](https://www.youtube.com/watch?v=tbNlMtqrYS0)
+- [The proclaimers - 500 miles With lyrics](https://www.youtube.com/watch?v=TyyNlxiMDB8)
 - [The Proclaimers-Sunshine On Leith](https://www.youtube.com/watch?v=ZmELS03_4So)
 
 ## Release Images

@@ -40,19 +40,19 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 
 
 ## Videos
-### O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G
-{{< youtube id="1pfser5uX_w" title="O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G" >}}<br>
+### O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G
+{{< youtube id="1pfser5uX_w" title="O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G" >}}<br>
 ### More Videos
 
-- [Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
-- [Ozric Tentacles - Deep Blue Shade (Official Video)](https://www.youtube.com/watch?v=XXs19JdRjS8)
+- [Ozric Tentacles -  Lotus Unfolding - official promo video taken from the album Lotus Unfolding](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
+- [Ozric Tentacles - Deep Blue Shade Official Video](https://www.youtube.com/watch?v=XXs19JdRjS8)
 - [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
 - [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
 - [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)
 - [Green Incantation](https://www.youtube.com/watch?v=fNy-wlDyL3I)
-- [O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G](https://www.youtube.com/watch?v=1pfser5uX_w)
-- [Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
-- [Ozric Tentacles - Deep Blue Shade (Official Video)](https://www.youtube.com/watch?v=XXs19JdRjS8)
+- [O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G](https://www.youtube.com/watch?v=1pfser5uX_w)
+- [Ozric Tentacles -  Lotus Unfolding - official promo video taken from the album Lotus Unfolding](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
+- [Ozric Tentacles - Deep Blue Shade Official Video](https://www.youtube.com/watch?v=XXs19JdRjS8)
 - [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
 - [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
 - [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)

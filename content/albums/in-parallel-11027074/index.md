@@ -41,13 +41,13 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 
 
 ## Videos
-### Dhani Harrison - Never Know [Audio]
-{{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}<br>
+### Dhani Harrison - Never Know Audio
+{{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know Audio" >}}<br>
 ### More Videos
 
-- [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
-- [Dhani Harrison - Never Know [Audio]](https://www.youtube.com/watch?v=B757_F4TLvs)
-- [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
+- [Dhani Harrison - All About Waiting Official Video](https://www.youtube.com/watch?v=reRlyvQvTng)
+- [Dhani Harrison - Never Know Audio](https://www.youtube.com/watch?v=B757_F4TLvs)
+- [Dhani Harrison - All About Waiting Official Video](https://www.youtube.com/watch?v=reRlyvQvTng)
 
 ## Release Images
 {{< imageGrid >}}

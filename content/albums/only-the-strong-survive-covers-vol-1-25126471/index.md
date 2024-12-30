@@ -68,11 +68,11 @@ In terms of selection, <I>Only the Strong</I> is an interesting mix. Plenty of M
 
 
 ## Videos
-### Bruce Springsteen - Only the Strong Survive (Official Audio)
-{{< youtube id="oiUuEeA5aKo" title="Bruce Springsteen - Only the Strong Survive (Official Audio)" >}}<br>
+### Bruce Springsteen - Only the Strong Survive Official Audio
+{{< youtube id="oiUuEeA5aKo" title="Bruce Springsteen - Only the Strong Survive Official Audio" >}}<br>
 ### More Videos
 
-- [Bruce Springsteen - Soul Days (feat. Sam Moore)](https://www.youtube.com/watch?v=IAHY0lQOg3Q)
+- [Bruce Springsteen - Soul Days feat Sam Moore](https://www.youtube.com/watch?v=IAHY0lQOg3Q)
 
 ## Release Images
 {{< imageGrid >}}

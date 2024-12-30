@@ -66,10 +66,10 @@ styles: ["Classic Rock", "Prog Rock"]
 ### More Videos
 
 - [Pink Floyd - Shine on your crazy diamond Bootleg rare live](https://www.youtube.com/watch?v=4TUWYopgOhE)
-- [Pink Floyd - Knebworth '90 - Shine On Crazy Diamond](https://www.youtube.com/watch?v=7NrBxrEFhUU)
-- [Pink Floyd - Wish You Were Here (Live at Knebworth 1990) [2021 Edit]](https://www.youtube.com/watch?v=qmA_BpXo0Sw)
-- [Pink Floyd - Live At Knebworth 1990 (Trailer) - Out Now](https://www.youtube.com/watch?v=BTgsWONk2dQ)
-- [Pink Floyd - Comfortably Numb (Live at Knebworth 1990)](https://www.youtube.com/watch?v=jMJYddhb2eE)
+- [Pink Floyd - Knebworth 90 - Shine On Crazy Diamond](https://www.youtube.com/watch?v=7NrBxrEFhUU)
+- [Pink Floyd - Wish You Were Here Live at Knebworth 1990 2021 Edit](https://www.youtube.com/watch?v=qmA_BpXo0Sw)
+- [Pink Floyd - Live At Knebworth 1990 Trailer - Out Now](https://www.youtube.com/watch?v=BTgsWONk2dQ)
+- [Pink Floyd - Comfortably Numb Live at Knebworth 1990](https://www.youtube.com/watch?v=jMJYddhb2eE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -108,8 +108,8 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 
 
 ## Videos
-### Manic Street Preachers  - The Holy Bible (US Mix Full Album)
-{{< youtube id="O5kNAMNf724" title="Manic Street Preachers  - The Holy Bible (US Mix Full Album)" >}}<br>
+### Manic Street Preachers  - The Holy Bible US Mix Full Album
+{{< youtube id="O5kNAMNf724" title="Manic Street Preachers  - The Holy Bible US Mix Full Album" >}}<br>
 
 
 ## Release Images

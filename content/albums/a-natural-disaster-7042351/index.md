@@ -54,12 +54,12 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 
 
 ## Videos
-### Anathema - A Natural Disaster (Audio)
-{{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster (Audio)" >}}<br>
+### Anathema - A Natural Disaster Audio
+{{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster Audio" >}}<br>
 ### More Videos
 
-- [Anathema - A Natural Disaster | FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
-- [Anathema - A Natural Disaster (Audio)](https://www.youtube.com/watch?v=_lMiIsQqLaE)
+- [Anathema - A Natural Disaster  FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
+- [Anathema - A Natural Disaster Audio](https://www.youtube.com/watch?v=_lMiIsQqLaE)
 - [ANATHEMA - A Natural Disaster](https://www.youtube.com/watch?v=JB1djmYr0aA)
 
 ## Release Images

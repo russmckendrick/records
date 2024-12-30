@@ -63,8 +63,8 @@ Shifting well over 20 million copies, it went on to become one of the best-selli
 
 
 ## Videos
-### Oasis - (What's The Story) Morning Glory? - 1995 (FULL ALBUM)
-{{< youtube id="kwFMdWp4Na0" title="Oasis - (What's The Story) Morning Glory? - 1995 (FULL ALBUM)" >}}<br>
+### Oasis - Whats The Story Morning Glory - 1995 FULL ALBUM
+{{< youtube id="kwFMdWp4Na0" title="Oasis - Whats The Story Morning Glory - 1995 FULL ALBUM" >}}<br>
 
 
 ## Release Images

@@ -49,8 +49,8 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 
 
 ## Videos
-### PLACEBO 'Bruise Pristine'
-{{< youtube id="v6XhoHTDFSM" title="PLACEBO 'Bruise Pristine'" >}}<br>
+### PLACEBO Bruise Pristine
+{{< youtube id="v6XhoHTDFSM" title="PLACEBO Bruise Pristine" >}}<br>
 ### More Videos
 
 - [PLACEBO - Teenage Angst](https://www.youtube.com/watch?v=Fx5bfLI5slU)

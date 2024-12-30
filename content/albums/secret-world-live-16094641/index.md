@@ -58,15 +58,15 @@ Secret World Live is the second live album and tenth album overall by the Englis
 
 
 ## Videos
-### Peter Gabriel - Shaking The Tree (Secret World Live HD)
-{{< youtube id="3_Q79lls1f0" title="Peter Gabriel - Shaking The Tree (Secret World Live HD)" >}}<br>
+### Peter Gabriel - Shaking The Tree Secret World Live HD
+{{< youtube id="3_Q79lls1f0" title="Peter Gabriel - Shaking The Tree Secret World Live HD" >}}<br>
 ### More Videos
 
-- [Peter Gabriel - Secret World (Back to Front)](https://www.youtube.com/watch?v=AyC8qNSge9w)
-- [Peter Gabriel - Blood Of Eden (Secret World Live)](https://www.youtube.com/watch?v=Vy0LJnvWpus)
-- [Peter Gabriel - San Jacinto (Secret World Live HD)](https://www.youtube.com/watch?v=t1IxE6z1tjo)
-- [Peter Gabriel - Steam (Secret World Live HD)](https://www.youtube.com/watch?v=y6sbqXckFZs)
-- [Peter Gabriel - In Your Eyes (Secret World Live)](https://www.youtube.com/watch?v=evN6DIGPIJM)
+- [Peter Gabriel - Secret World Back to Front](https://www.youtube.com/watch?v=AyC8qNSge9w)
+- [Peter Gabriel - Blood Of Eden Secret World Live](https://www.youtube.com/watch?v=Vy0LJnvWpus)
+- [Peter Gabriel - San Jacinto Secret World Live HD](https://www.youtube.com/watch?v=t1IxE6z1tjo)
+- [Peter Gabriel - Steam Secret World Live HD](https://www.youtube.com/watch?v=y6sbqXckFZs)
+- [Peter Gabriel - In Your Eyes Secret World Live](https://www.youtube.com/watch?v=evN6DIGPIJM)
 
 ## Release Images
 {{< imageGrid >}}

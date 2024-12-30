@@ -57,11 +57,11 @@ A slightly modified version of Life was released in North America. It dropped th
 ### More Videos
 
 - [Inspiral Carpets - Directing Traffik](https://www.youtube.com/watch?v=skBOA6IZStc)
-- [Inspiral Carpets - Sackville (Album Version)](https://www.youtube.com/watch?v=x3SQfO5tUXE)
+- [Inspiral Carpets - Sackville Album Version](https://www.youtube.com/watch?v=x3SQfO5tUXE)
 - [Inspiral Carpets - She Comes In The Fall](https://www.youtube.com/watch?v=Dl7dxdaDqsU)
 - [Inspiral Carpets - Real Thing](https://www.youtube.com/watch?v=BzhOVxQxX-E)
-- [Inspiral Carpets - She Comes in the Fall (Official Video) (FHD AI Remaster) - 1990](https://www.youtube.com/watch?v=-ZxmWCoMefU)
-- [Inspiral Carpets - Sackville, Single (1990)](https://www.youtube.com/watch?v=Yrxj9los1v0)
+- [Inspiral Carpets - She Comes in the Fall Official Video FHD AI Remaster - 1990](https://www.youtube.com/watch?v=-ZxmWCoMefU)
+- [Inspiral Carpets - Sackville Single 1990](https://www.youtube.com/watch?v=Yrxj9los1v0)
 - [Inspiral Carpets - This is how it feels - 4k 60fps UHD](https://www.youtube.com/watch?v=Qx-eJU4TEnk)
 
 ## Release Images

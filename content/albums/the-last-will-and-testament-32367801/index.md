@@ -69,11 +69,11 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 
 
 ## Videos
-### §1
-{{< youtube id="O0QupA2uvJk" title="§1" >}}<br>
+### 1
+{{< youtube id="O0QupA2uvJk" title="1" >}}<br>
 ### More Videos
 
-- [§2](https://www.youtube.com/watch?v=kpeKMzid7CE)
+- [2](https://www.youtube.com/watch?v=kpeKMzid7CE)
 
 ## Release Images
 {{< imageGrid >}}

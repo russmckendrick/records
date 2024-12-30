@@ -53,16 +53,16 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 
 
 ## Videos
-### the polyphonic spree - it's the sun
-{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - it's the sun" >}}<br>
+### the polyphonic spree - its the sun
+{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - its the sun" >}}<br>
 ### More Videos
 
-- [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
+- [The Polyphonic Spree - Hanging Around the Day Pt 1  2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 - [THE POLYPHONIC SPREE soldier girl](https://www.youtube.com/watch?v=4uzddaCSwpE)
-- [Light & Day / Reach for the Sun](https://www.youtube.com/watch?v=fnKrKbzlJiY)
-- [Light & Day / Reach For The Sun](https://www.youtube.com/watch?v=88TOTBUARGo)
-- [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
-- [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
+- [Light  Day  Reach for the Sun](https://www.youtube.com/watch?v=fnKrKbzlJiY)
+- [Light  Day  Reach For The Sun](https://www.youtube.com/watch?v=88TOTBUARGo)
+- [the polyphonic spree - its the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
+- [The Polyphonic Spree - Hanging Around the Day Pt 1  2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
 ## Release Images
 {{< imageGrid >}}

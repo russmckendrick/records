@@ -56,20 +56,20 @@ Two video documentaries on the recording, Things That Go Pump in the Night and T
 
 
 ## Videos
-### Aerosmith - Janie's Got A Gun
-{{< youtube id="RqQn2ADZE1A" title="Aerosmith - Janie's Got A Gun" >}}<br>
+### Aerosmith - Janies Got A Gun
+{{< youtube id="RqQn2ADZE1A" title="Aerosmith - Janies Got A Gun" >}}<br>
 ### More Videos
 
-- [Aerosmith – F.I.N.E.](https://www.youtube.com/watch?v=Ne-AhcPOHh8)
-- [Aerosmith – Water Song/Janie's Got A Gun](https://www.youtube.com/watch?v=oLCodupLnL0)
-- [Aerosmith – Don't Get Mad, Get Even](https://www.youtube.com/watch?v=asKDeLAe_yo)
-- [Aerosmith – What It Takes](https://www.youtube.com/watch?v=scEJNpqKtks)
-- [Aerosmith – Hoodoo/Voodoo Medicine Man](https://www.youtube.com/watch?v=MoYgga9m2ps)
-- [Aerosmith – My Girl](https://www.youtube.com/watch?v=YXPXWq-z5xc)
-- [Aerosmith – Dulcimer Stomp/The Other Side](https://www.youtube.com/watch?v=jBMqgoPTRg4)
-- [Aerosmith – Monkey On My Back](https://www.youtube.com/watch?v=8NVsmN4en_s)
-- [Aerosmith – Going Down/Love In An Elevator](https://www.youtube.com/watch?v=Sn_7DfNOBao)
-- [Aerosmith – Young Lust](https://www.youtube.com/watch?v=MKZYA3iLKdM)
+- [Aerosmith  FINE](https://www.youtube.com/watch?v=Ne-AhcPOHh8)
+- [Aerosmith  Water SongJanies Got A Gun](https://www.youtube.com/watch?v=oLCodupLnL0)
+- [Aerosmith  Dont Get Mad Get Even](https://www.youtube.com/watch?v=asKDeLAe_yo)
+- [Aerosmith  What It Takes](https://www.youtube.com/watch?v=scEJNpqKtks)
+- [Aerosmith  HoodooVoodoo Medicine Man](https://www.youtube.com/watch?v=MoYgga9m2ps)
+- [Aerosmith  My Girl](https://www.youtube.com/watch?v=YXPXWq-z5xc)
+- [Aerosmith  Dulcimer StompThe Other Side](https://www.youtube.com/watch?v=jBMqgoPTRg4)
+- [Aerosmith  Monkey On My Back](https://www.youtube.com/watch?v=8NVsmN4en_s)
+- [Aerosmith  Going DownLove In An Elevator](https://www.youtube.com/watch?v=Sn_7DfNOBao)
+- [Aerosmith  Young Lust](https://www.youtube.com/watch?v=MKZYA3iLKdM)
 
 ## Release Images
 {{< imageGrid >}}

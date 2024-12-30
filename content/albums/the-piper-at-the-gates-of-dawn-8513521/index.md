@@ -55,23 +55,23 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 
 
 ## Videos
-### Pink Floyd - Astronomy Domine (1967) vinyl
-{{< youtube id="ebROVN6fbjk" title="Pink Floyd - Astronomy Domine (1967) vinyl" >}}<br>
+### Pink Floyd - Astronomy Domine 1967 vinyl
+{{< youtube id="ebROVN6fbjk" title="Pink Floyd - Astronomy Domine 1967 vinyl" >}}<br>
 ### More Videos
 
-- [Pink Floyd - Astronomy Domine [Mono Version]](https://www.youtube.com/watch?v=lZVxVNyVGJo)
-- [Pink Floyd - Lucifer Sam [Mono Version]](https://www.youtube.com/watch?v=tddoa2dGhqU)
-- [Pink Floyd - Matilda Mother [Mono Version]](https://www.youtube.com/watch?v=1iK3zJflx-0)
+- [Pink Floyd - Astronomy Domine Mono Version](https://www.youtube.com/watch?v=lZVxVNyVGJo)
+- [Pink Floyd - Lucifer Sam Mono Version](https://www.youtube.com/watch?v=tddoa2dGhqU)
+- [Pink Floyd - Matilda Mother Mono Version](https://www.youtube.com/watch?v=1iK3zJflx-0)
 - [The Pink Floyd Flaming](https://www.youtube.com/watch?v=dlSz8p5Guqo)
-- [Pink Floyd - Pow R. Toc H [Mono Version]](https://www.youtube.com/watch?v=8yx-Hl08i9A)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk [Mono Version]](https://www.youtube.com/watch?v=XHNRktvTQpo)
-- [Pink Floyd - Interstellar Overdrive [Mono Version]](https://www.youtube.com/watch?v=ibKV7tPTXn4)
-- [Pink Floyd - Interstellar Overdrive (1967) vinyl](https://www.youtube.com/watch?v=Q00PYv2rPaY)
+- [Pink Floyd - Pow R Toc H Mono Version](https://www.youtube.com/watch?v=8yx-Hl08i9A)
+- [Pink Floyd - Take Up Thy Stethoscope And Walk Mono Version](https://www.youtube.com/watch?v=XHNRktvTQpo)
+- [Pink Floyd - Interstellar Overdrive Mono Version](https://www.youtube.com/watch?v=ibKV7tPTXn4)
+- [Pink Floyd - Interstellar Overdrive 1967 vinyl](https://www.youtube.com/watch?v=Q00PYv2rPaY)
 - [The Pink Floyd The Gnome](https://www.youtube.com/watch?v=dpgKUKvHz4s)
-- [Pink Floyd - Chapter 24 [Mono Version]](https://www.youtube.com/watch?v=usO8Tshf0wI)
-- [Pink Floyd - The Scarecrow [Mono Version]](https://www.youtube.com/watch?v=vlU0rjDPDKE)
-- [Pink Floyd - Bike [Mono Version]](https://www.youtube.com/watch?v=QQc6mlGIotQ)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk (Official Audio)](https://www.youtube.com/watch?v=Jk_OJhx3d2U)
+- [Pink Floyd - Chapter 24 Mono Version](https://www.youtube.com/watch?v=usO8Tshf0wI)
+- [Pink Floyd - The Scarecrow Mono Version](https://www.youtube.com/watch?v=vlU0rjDPDKE)
+- [Pink Floyd - Bike Mono Version](https://www.youtube.com/watch?v=QQc6mlGIotQ)
+- [Pink Floyd - Take Up Thy Stethoscope And Walk Official Audio](https://www.youtube.com/watch?v=Jk_OJhx3d2U)
 
 ## Release Images
 {{< imageGrid >}}

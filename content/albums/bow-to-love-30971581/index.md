@@ -45,17 +45,17 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Isobel Campbell - 4316 (Official Video)
-{{< youtube id="ng5naYhJGT8" title="Isobel Campbell - 4316 (Official Video)" >}}<br>
+### Isobel Campbell - 4316 Official Video
+{{< youtube id="ng5naYhJGT8" title="Isobel Campbell - 4316 Official Video" >}}<br>
 ### More Videos
 
-- [Isobel Campbell - Everything Falls Apart (Official Audio)](https://www.youtube.com/watch?v=U4cIO1_Liw0)
-- [Isobel Campbell - Bow to Love (Official Audio)](https://www.youtube.com/watch?v=say1j638N7E)
-- [Isobel Campbell - Dopamine (Official Audio)](https://www.youtube.com/watch?v=mv2WKCoP3Yo)
-- [Isobel Campbell - Om Shanti Om (Official Video)](https://www.youtube.com/watch?v=6mob2d-KjH0)
-- [Isobel Campbell - Second Guessing (Official Audio)](https://www.youtube.com/watch?v=FocVj5B8FeM)
-- [Isobel Campbell - Do or Die (Official Audio)](https://www.youtube.com/watch?v=itVHW-SZV78)
-- [Isobel Campbell - Keep Calm, Carry On (Official Audio)](https://www.youtube.com/watch?v=cSzOeTu4G10)
+- [Isobel Campbell - Everything Falls Apart Official Audio](https://www.youtube.com/watch?v=U4cIO1_Liw0)
+- [Isobel Campbell - Bow to Love Official Audio](https://www.youtube.com/watch?v=say1j638N7E)
+- [Isobel Campbell - Dopamine Official Audio](https://www.youtube.com/watch?v=mv2WKCoP3Yo)
+- [Isobel Campbell - Om Shanti Om Official Video](https://www.youtube.com/watch?v=6mob2d-KjH0)
+- [Isobel Campbell - Second Guessing Official Audio](https://www.youtube.com/watch?v=FocVj5B8FeM)
+- [Isobel Campbell - Do or Die Official Audio](https://www.youtube.com/watch?v=itVHW-SZV78)
+- [Isobel Campbell - Keep Calm Carry On Official Audio](https://www.youtube.com/watch?v=cSzOeTu4G10)
 
 ## Release Images
 {{< imageGrid >}}

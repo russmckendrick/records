@@ -57,13 +57,13 @@ styles: ["Industrial"]
 {{< youtube id="0lyWF-I7pZA" title="Fight Song" >}}<br>
 ### More Videos
 
-- [BULLET HEIGHT - Bastion (Official Track)](https://www.youtube.com/watch?v=kmlmn3YHpNs)
-- [BULLET HEIGHT - Hold Together (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Qfie7ok8-XI)
+- [BULLET HEIGHT - Bastion Official Track](https://www.youtube.com/watch?v=kmlmn3YHpNs)
+- [BULLET HEIGHT - Hold Together OFFICIAL VIDEO](https://www.youtube.com/watch?v=Qfie7ok8-XI)
 - [Wild Words](https://www.youtube.com/watch?v=EcshkqnUp9o)
 - [Intravenous](https://www.youtube.com/watch?v=TFVsojTL7rc)
 - [Cadence](https://www.youtube.com/watch?v=oLChpiZ2WQk)
 - [No Atonement](https://www.youtube.com/watch?v=PxE2Bmf3VpY)
-- [BULLET HEIGHT - Break Our Hearts Down (Album Track)](https://www.youtube.com/watch?v=PZwRQQN5cA8)
+- [BULLET HEIGHT - Break Our Hearts Down Album Track](https://www.youtube.com/watch?v=PZwRQQN5cA8)
 - [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
 - [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 

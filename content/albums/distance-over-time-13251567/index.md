@@ -68,8 +68,8 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 
 
 ## Videos
-### Dream Theate̲r̲ - Distance Over Tim̲e̲ - Full album 2019
-{{< youtube id="SqeWgDH09Nk" title="Dream Theate̲r̲ - Distance Over Tim̲e̲ - Full album 2019" >}}<br>
+### Dream Theater - Distance Over Time - Full album 2019
+{{< youtube id="SqeWgDH09Nk" title="Dream Theater - Distance Over Time - Full album 2019" >}}<br>
 
 
 ## Release Images

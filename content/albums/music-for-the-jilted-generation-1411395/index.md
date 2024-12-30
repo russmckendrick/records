@@ -57,15 +57,15 @@ A remastered and expanded edition of the album, titled More Music for the Jilted
 - [Prodigy - Break and enter](https://www.youtube.com/watch?v=MHvMRyRSKGU)
 - [The Prodigy - Their Law](https://www.youtube.com/watch?v=Qz9I0WJxF84)
 - [Full Throttle](https://www.youtube.com/watch?v=sxWziWWeZdk)
-- [THE PRODIGY - voodoo people (original)](https://www.youtube.com/watch?v=-Fz85FE0KtQ)
-- [Speedway (Theme from Fastlane)](https://www.youtube.com/watch?v=SeEj71x1-Hs)
-- [The Heat (The Energy)](https://www.youtube.com/watch?v=_NksGaZJQRI)
+- [THE PRODIGY - voodoo people original](https://www.youtube.com/watch?v=-Fz85FE0KtQ)
+- [Speedway Theme from Fastlane](https://www.youtube.com/watch?v=SeEj71x1-Hs)
+- [The Heat The Energy](https://www.youtube.com/watch?v=_NksGaZJQRI)
 - [Poison](https://www.youtube.com/watch?v=e4hIo5DuaIw)
-- [No Good (Start the Dance)](https://www.youtube.com/watch?v=RnO1dZDBMco)
-- [The Prodigy - One Love (Official Video)](https://www.youtube.com/watch?v=bcxnbfRYM-g)
-- [The Prodigy - 3 Kilos [music for the jilted generation]](https://www.youtube.com/watch?v=QzXRCiF_6Dg)
-- [Prodigy - Skylined (The narcotic suite)](https://www.youtube.com/watch?v=XzXFl_liyoQ)
-- [The Prodigy - Claustrophobic Sting [Music for the jilted generation]](https://www.youtube.com/watch?v=Ky4aac8Swqc)
+- [No Good Start the Dance](https://www.youtube.com/watch?v=RnO1dZDBMco)
+- [The Prodigy - One Love Official Video](https://www.youtube.com/watch?v=bcxnbfRYM-g)
+- [The Prodigy - 3 Kilos music for the jilted generation](https://www.youtube.com/watch?v=QzXRCiF_6Dg)
+- [Prodigy - Skylined The narcotic suite](https://www.youtube.com/watch?v=XzXFl_liyoQ)
+- [The Prodigy - Claustrophobic Sting Music for the jilted generation](https://www.youtube.com/watch?v=Ky4aac8Swqc)
 
 ## Release Images
 {{< imageGrid >}}

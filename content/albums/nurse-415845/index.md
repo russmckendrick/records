@@ -51,21 +51,21 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 ### More Videos
 
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
-- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
-- [Therapy? - Nausea](https://www.youtube.com/watch?v=a9BmmGM9bSY)
-- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
-- [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
+- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
+- [Therapy - Nausea](https://www.youtube.com/watch?v=a9BmmGM9bSY)
+- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
+- [Therapy  Disgracelands 1992](https://www.youtube.com/watch?v=ObltOZKQvXM)
 - [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
 - [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
-- [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
-- [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
+- [Perversonality  - Therapy](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
+- [Therapy - Gone with lyrics](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
-- [Therapy?  - "Deep Sleep"](https://www.youtube.com/watch?v=3TIc3LbhxAA)
+- [Therapy  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
 - [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
 - [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
-- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
-- [Therapy - Teethgrinder.....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=CDkqrXBy2tU)
+- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
+- [Therapy - Teethgrinderyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=CDkqrXBy2tU)
 
 ## Release Images
 {{< imageGrid >}}

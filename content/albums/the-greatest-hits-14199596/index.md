@@ -73,11 +73,11 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 
 
 ## Videos
-### Thunder – She’s So Fine (Official Video)
-{{< youtube id="Lu24Cmwlpwo" title="Thunder – She’s So Fine (Official Video)" >}}<br>
+### Thunder  Shes So Fine Official Video
+{{< youtube id="Lu24Cmwlpwo" title="Thunder  Shes So Fine Official Video" >}}<br>
 ### More Videos
 
-- [Thunder - Everybody Wants Her (Official Video)](https://www.youtube.com/watch?v=rrISpBSWN30)
+- [Thunder - Everybody Wants Her Official Video](https://www.youtube.com/watch?v=rrISpBSWN30)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,7 +58,7 @@ There are more straightforward moments here, especially the piano ache of “Cod
 - [Morning Mr Magpie](https://www.youtube.com/watch?v=gM9GSuWpM94)
 - [Little By Little](https://www.youtube.com/watch?v=5c1lulf5Fkw)
 - [Feral](https://www.youtube.com/watch?v=pxXSlEj_1hk)
-- [Radiohead - Lotus flower (HQ)](https://www.youtube.com/watch?v=gMA5jdxPL4s)
+- [Radiohead - Lotus flower HQ](https://www.youtube.com/watch?v=gMA5jdxPL4s)
 - [Codex](https://www.youtube.com/watch?v=T7t38uDUg5E)
 - [Give Up The Ghost](https://www.youtube.com/watch?v=QGGb7o7EbFs)
 - [Separator](https://www.youtube.com/watch?v=KmpzIU301VU)

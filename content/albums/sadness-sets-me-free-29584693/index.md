@@ -43,15 +43,15 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 
 
 ## Videos
-### Gruff Rhys - Celestial Candyfloss (Official Video)
-{{< youtube id="jv5jwu_RdQw" title="Gruff Rhys - Celestial Candyfloss (Official Video)" >}}<br>
+### Gruff Rhys - Celestial Candyfloss Official Video
+{{< youtube id="jv5jwu_RdQw" title="Gruff Rhys - Celestial Candyfloss Official Video" >}}<br>
 ### More Videos
 
-- [Gruff Rhys - Bad Friend (Official Video)](https://www.youtube.com/watch?v=OprFcUKXzJs)
-- [Gruff Rhys - Silver Lining Lead Balloons (Official Visualizer)](https://www.youtube.com/watch?v=H7fBfU4Swpc)
-- [Gruff Rhys - Celestial Candyfloss (Official Video)](https://www.youtube.com/watch?v=jv5jwu_RdQw)
-- [Gruff Rhys - Bad Friend (Official Video)](https://www.youtube.com/watch?v=OprFcUKXzJs)
-- [Gruff Rhys - Silver Lining Lead Balloons (Official Visualizer)](https://www.youtube.com/watch?v=H7fBfU4Swpc)
+- [Gruff Rhys - Bad Friend Official Video](https://www.youtube.com/watch?v=OprFcUKXzJs)
+- [Gruff Rhys - Silver Lining Lead Balloons Official Visualizer](https://www.youtube.com/watch?v=H7fBfU4Swpc)
+- [Gruff Rhys - Celestial Candyfloss Official Video](https://www.youtube.com/watch?v=jv5jwu_RdQw)
+- [Gruff Rhys - Bad Friend Official Video](https://www.youtube.com/watch?v=OprFcUKXzJs)
+- [Gruff Rhys - Silver Lining Lead Balloons Official Visualizer](https://www.youtube.com/watch?v=H7fBfU4Swpc)
 
 ## Release Images
 {{< imageGrid >}}

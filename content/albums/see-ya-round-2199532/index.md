@@ -47,11 +47,11 @@ After an appearance on Countdown and the release of "One Mouth Is Fed" as a foll
 
 
 ## Videos
-### Split Enz - I Walk Away (Official Video)
-{{< youtube id="t2SZYbzRajU" title="Split Enz - I Walk Away (Official Video)" >}}<br>
+### Split Enz - I Walk Away Official Video
+{{< youtube id="t2SZYbzRajU" title="Split Enz - I Walk Away Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - I Walk Away (Official Video)](https://www.youtube.com/watch?v=t2SZYbzRajU)
+- [Split Enz - I Walk Away Official Video](https://www.youtube.com/watch?v=t2SZYbzRajU)
 
 ## Release Images
 {{< imageGrid >}}

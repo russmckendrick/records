@@ -65,24 +65,24 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 
 
 ## Videos
-### Leon Bridges - Details (Official Audio)
-{{< youtube id="3izvKqufprY" title="Leon Bridges - Details (Official Audio)" >}}<br>
+### Leon Bridges - Details Official Audio
+{{< youtube id="3izvKqufprY" title="Leon Bridges - Details Official Audio" >}}<br>
 ### More Videos
 
-- [Leon Bridges - Sho Nuff (Official Audio)](https://www.youtube.com/watch?v=L5TSafwHkV8)
-- [Leon Bridges - Blue Mesas (Official Audio)](https://www.youtube.com/watch?v=2QjPc81E09A)
-- [Leon Bridges, Robert Glasper - Born Again (Official Audio)](https://www.youtube.com/watch?v=qD04kpUV3nc)
-- [Leon Bridges - Don't Worry (Official Audio) ft. Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
-- [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
-- [Leon Bridges - Details (Official Audio)](https://www.youtube.com/watch?v=3izvKqufprY)
-- [Leon Bridges - Sho Nuff (Official Audio)](https://www.youtube.com/watch?v=L5TSafwHkV8)
-- [Leon Bridges - Blue Mesas (Official Audio)](https://www.youtube.com/watch?v=2QjPc81E09A)
-- [Leon Bridges, Robert Glasper - Born Again (Official Audio)](https://www.youtube.com/watch?v=qD04kpUV3nc)
-- [Leon Bridges - Don't Worry (Official Audio) ft. Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
-- [Leon Bridges - Magnolias (Official Audio)](https://www.youtube.com/watch?v=zii5MS4rEBI)
-- [Leon Bridges - Steam (Official Video)](https://www.youtube.com/watch?v=c7IxY6CTiVA)
-- [Leon Bridges - Motorbike (Official Video)](https://www.youtube.com/watch?v=Y9OMJ0HvPbk)
-- [L͟eon B͟ridges – Gold-Diggers Sound (2021)](https://www.youtube.com/watch?v=xo4I7l2ZA0Y)
+- [Leon Bridges - Sho Nuff Official Audio](https://www.youtube.com/watch?v=L5TSafwHkV8)
+- [Leon Bridges - Blue Mesas Official Audio](https://www.youtube.com/watch?v=2QjPc81E09A)
+- [Leon Bridges Robert Glasper - Born Again Official Audio](https://www.youtube.com/watch?v=qD04kpUV3nc)
+- [Leon Bridges - Dont Worry Official Audio ft Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
+- [Leon Bridges - Magnolias Official Audio](https://www.youtube.com/watch?v=zii5MS4rEBI)
+- [Leon Bridges - Details Official Audio](https://www.youtube.com/watch?v=3izvKqufprY)
+- [Leon Bridges - Sho Nuff Official Audio](https://www.youtube.com/watch?v=L5TSafwHkV8)
+- [Leon Bridges - Blue Mesas Official Audio](https://www.youtube.com/watch?v=2QjPc81E09A)
+- [Leon Bridges Robert Glasper - Born Again Official Audio](https://www.youtube.com/watch?v=qD04kpUV3nc)
+- [Leon Bridges - Dont Worry Official Audio ft Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
+- [Leon Bridges - Magnolias Official Audio](https://www.youtube.com/watch?v=zii5MS4rEBI)
+- [Leon Bridges - Steam Official Video](https://www.youtube.com/watch?v=c7IxY6CTiVA)
+- [Leon Bridges - Motorbike Official Video](https://www.youtube.com/watch?v=Y9OMJ0HvPbk)
+- [Leon Bridges  Gold-Diggers Sound 2021](https://www.youtube.com/watch?v=xo4I7l2ZA0Y)
 - [Leon Bridges   Gold Diggers Sound](https://www.youtube.com/watch?v=CtITTNg3sE0)
 
 ## Release Images

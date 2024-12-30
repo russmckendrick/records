@@ -51,25 +51,25 @@ Substance is a singles compilation album by the English rock band Joy Division. 
 
 
 ## Videos
-### Incubation (2010 Remaster)
-{{< youtube id="12q03RA0HKY" title="Incubation (2010 Remaster)" >}}<br>
+### Incubation 2010 Remaster
+{{< youtube id="12q03RA0HKY" title="Incubation 2010 Remaster" >}}<br>
 ### More Videos
 
-- [Warsaw (2010 Remaster)](https://www.youtube.com/watch?v=gtSFtvXgeRk)
-- [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
-- [Leaders of Men (2010 Remaster)](https://www.youtube.com/watch?v=iQjGHxQ2nn4)
-- [Digital (2010 Remaster)](https://www.youtube.com/watch?v=MnnWHhAJktM)
-- [Transmission (2010 Remaster)](https://www.youtube.com/watch?v=Kx3EqNYQklg)
-- [She's Lost Control (2010 Remaster)](https://www.youtube.com/watch?v=Hzd5inljWhA)
-- [Dead Souls (2010 Remaster)](https://www.youtube.com/watch?v=mKWHa65cmns)
-- [Atmosphere (2010 Remaster)](https://www.youtube.com/watch?v=KSYBW8JlijM)
-- [No Love Lost (2010 Remaster)](https://www.youtube.com/watch?v=5v8Frk_37-Y)
-- [Failures (2010 Remaster)](https://www.youtube.com/watch?v=7Bbb86ajF3U)
-- [Glass (2010 Remaster)](https://www.youtube.com/watch?v=iI-IoAEGV4U)
-- [From Safety to Where (2010 Remaster)](https://www.youtube.com/watch?v=ZFV5XSGC4qQ)
-- [Novelty (2010 Remaster)](https://www.youtube.com/watch?v=Gqqr31PWsII)
-- [Love Will Tear Us Apart (2010 Remaster)](https://www.youtube.com/watch?v=mAAqKx4aD_g)
-- [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)
+- [Warsaw 2010 Remaster](https://www.youtube.com/watch?v=gtSFtvXgeRk)
+- [Komakino 2010 Remaster](https://www.youtube.com/watch?v=4DbnkkyhPnI)
+- [Leaders of Men 2010 Remaster](https://www.youtube.com/watch?v=iQjGHxQ2nn4)
+- [Digital 2010 Remaster](https://www.youtube.com/watch?v=MnnWHhAJktM)
+- [Transmission 2010 Remaster](https://www.youtube.com/watch?v=Kx3EqNYQklg)
+- [Shes Lost Control 2010 Remaster](https://www.youtube.com/watch?v=Hzd5inljWhA)
+- [Dead Souls 2010 Remaster](https://www.youtube.com/watch?v=mKWHa65cmns)
+- [Atmosphere 2010 Remaster](https://www.youtube.com/watch?v=KSYBW8JlijM)
+- [No Love Lost 2010 Remaster](https://www.youtube.com/watch?v=5v8Frk_37-Y)
+- [Failures 2010 Remaster](https://www.youtube.com/watch?v=7Bbb86ajF3U)
+- [Glass 2010 Remaster](https://www.youtube.com/watch?v=iI-IoAEGV4U)
+- [From Safety to Where 2010 Remaster](https://www.youtube.com/watch?v=ZFV5XSGC4qQ)
+- [Novelty 2010 Remaster](https://www.youtube.com/watch?v=Gqqr31PWsII)
+- [Love Will Tear Us Apart 2010 Remaster](https://www.youtube.com/watch?v=mAAqKx4aD_g)
+- [These Days 2010 Remaster](https://www.youtube.com/watch?v=6g_b0xr9rZs)
 
 ## Release Images
 {{< imageGrid >}}

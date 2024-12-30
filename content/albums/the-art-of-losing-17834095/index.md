@@ -51,8 +51,8 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 
 
 ## Videos
-### The Exchange - The Anchoress feat. James Dean Bradfield
-{{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat. James Dean Bradfield" >}}<br>
+### The Exchange - The Anchoress feat James Dean Bradfield
+{{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat James Dean Bradfield" >}}<br>
 
 
 ## Release Images

@@ -19,7 +19,6 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-
 ## Tracklisting
 1. Doors Of Your Heart (3:48)
 2. All Out To Get You (2:46)
@@ -44,15 +43,15 @@ styles: ["Ska"]
 21. Hit It (Extended)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/us/album/whappen-remastered/1443639934" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/whappen-expanded-2012-remaster/1714523115" >}}<br>
 
 
 ## Videos
-### THE BEAT - MEGAMIX - MEDLEY - (WHA'PPEN ? ALBUM)
-{{< youtube id="KCzsDuznXOQ" title="THE BEAT - MEGAMIX - MEDLEY - (WHA'PPEN ? ALBUM)" >}}<br>
+### THE BEAT - MEGAMIX - MEDLEY - WHAPPEN  ALBUM
+{{< youtube id="KCzsDuznXOQ" title="THE BEAT - MEGAMIX - MEDLEY - WHAPPEN  ALBUM" >}}<br>
 ### More Videos
 
-- [The English Beat - All Out To Get You (Official)](https://www.youtube.com/watch?v=YNRSwAxSM5s)
+- [The English Beat - All Out To Get You Official](https://www.youtube.com/watch?v=YNRSwAxSM5s)
 - [The English Beat - Over and Over](https://www.youtube.com/watch?v=JrqImGp3ngs)
 - [THE BEAT - I AM YOUR FLAG](https://www.youtube.com/watch?v=L4q_fyuIz9k)
 - [English Beat - monkey murders](https://www.youtube.com/watch?v=o6eWhvExErA)
@@ -64,11 +63,11 @@ styles: ["Ska"]
 - [Walk Away - The Beat](https://www.youtube.com/watch?v=MeKlJcX6ewI)
 - [English Beat - french toast](https://www.youtube.com/watch?v=AUdjfok2Qkg)
 - [English Beat - dream home in new zealand](https://www.youtube.com/watch?v=FeMAR9xTV58)
-- [The (English) Beat - Drowning (HQ Audio)](https://www.youtube.com/watch?v=ZHFzp5cTsF8)
+- [The English Beat - Drowning HQ Audio](https://www.youtube.com/watch?v=ZHFzp5cTsF8)
 - [English Beat - limits we set](https://www.youtube.com/watch?v=MGIyjbrpDnE)
 - [English Beat - all out to get you](https://www.youtube.com/watch?v=9aFqcGHuwhI)
 - [The Beat - Walk Away](https://www.youtube.com/watch?v=Z6EWOr86fKE)
-- [THE BEAT - (THE COMPLETE WHA'PPEN ALBUM)](https://www.youtube.com/watch?v=hRkZVQzAcpo)
+- [THE BEAT - THE COMPLETE WHAPPEN ALBUM](https://www.youtube.com/watch?v=hRkZVQzAcpo)
 
 ## Release Images
 {{< imageGrid >}}

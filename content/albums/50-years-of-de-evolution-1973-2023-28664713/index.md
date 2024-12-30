@@ -54,20 +54,20 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Peek•A•Boo! (2023 Remaster)
-{{< youtube id="P-p6EiglULA" title="Peek•A•Boo! (2023 Remaster)" >}}<br>
+### PeekABoo 2023 Remaster
+{{< youtube id="P-p6EiglULA" title="PeekABoo 2023 Remaster" >}}<br>
 ### More Videos
 
-- [Gates of Steel (2023 Remaster)](https://www.youtube.com/watch?v=nQMFkmi0gS8)
-- [What We Do (Single Edit) (2023 Remaster)](https://www.youtube.com/watch?v=7t7RTSKZ1EA)
-- [Through Being Cool (2023 Remaster)](https://www.youtube.com/watch?v=-jj5d0lnj7A)
-- [Going Under (2023 Remaster)](https://www.youtube.com/watch?v=1YKDliSLV1c)
-- [Triumph of the Will (2023 Remaster)](https://www.youtube.com/watch?v=5BIE6DTRYDY)
-- [It Takes a Worried Man (2023 Remaster)](https://www.youtube.com/watch?v=oda1x98NF8k)
-- [Freedom of Choice (2023 Remaster)](https://www.youtube.com/watch?v=T1MjLtGiWEU)
-- [Are You Experienced? (2023 Remaster)](https://www.youtube.com/watch?v=aQg460kbKHE)
-- [Bread and Butter (2023 Remaster)](https://www.youtube.com/watch?v=nfFV_qic6gI)
-- [Watch Us Work It (2023 Remaster)](https://www.youtube.com/watch?v=eTxkuMKM6X4)
+- [Gates of Steel 2023 Remaster](https://www.youtube.com/watch?v=nQMFkmi0gS8)
+- [What We Do Single Edit 2023 Remaster](https://www.youtube.com/watch?v=7t7RTSKZ1EA)
+- [Through Being Cool 2023 Remaster](https://www.youtube.com/watch?v=-jj5d0lnj7A)
+- [Going Under 2023 Remaster](https://www.youtube.com/watch?v=1YKDliSLV1c)
+- [Triumph of the Will 2023 Remaster](https://www.youtube.com/watch?v=5BIE6DTRYDY)
+- [It Takes a Worried Man 2023 Remaster](https://www.youtube.com/watch?v=oda1x98NF8k)
+- [Freedom of Choice 2023 Remaster](https://www.youtube.com/watch?v=T1MjLtGiWEU)
+- [Are You Experienced 2023 Remaster](https://www.youtube.com/watch?v=aQg460kbKHE)
+- [Bread and Butter 2023 Remaster](https://www.youtube.com/watch?v=nfFV_qic6gI)
+- [Watch Us Work It 2023 Remaster](https://www.youtube.com/watch?v=eTxkuMKM6X4)
 
 ## Release Images
 {{< imageGrid >}}

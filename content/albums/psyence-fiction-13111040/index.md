@@ -59,17 +59,17 @@ Psyence Fiction is the debut studio album by English electronic music act Unkle,
 {{< youtube id="cquDXXXZsEo" title="Bloodstain" >}}<br>
 ### More Videos
 
-- [UNKLE feat. Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
-- [U.N.K.L.E. feat Richard Ashcroft - Lonely Soul](https://www.youtube.com/watch?v=1pwCgBhvck8)
-- [U.N.K.L.E. Main Title Theme](https://www.youtube.com/watch?v=-4hjBGKvtO4)
-- [Guns Blazing (Drums Of Death Pt. 1)](https://www.youtube.com/watch?v=d67NgvF4cjU)
-- [U.N.K.L.E. Main Title Theme](https://www.youtube.com/watch?v=-4hjBGKvtO4)
+- [UNKLE feat Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
+- [UNKLE feat Richard Ashcroft - Lonely Soul](https://www.youtube.com/watch?v=1pwCgBhvck8)
+- [UNKLE Main Title Theme](https://www.youtube.com/watch?v=-4hjBGKvtO4)
+- [Guns Blazing Drums Of Death Pt 1](https://www.youtube.com/watch?v=d67NgvF4cjU)
+- [UNKLE Main Title Theme](https://www.youtube.com/watch?v=-4hjBGKvtO4)
 - [Unreal](https://www.youtube.com/watch?v=wk-6vC7-Vyc)
 - [Bloodstain](https://www.youtube.com/watch?v=cquDXXXZsEo)
 - [Lonely Soul](https://www.youtube.com/watch?v=XrFECnl3vno)
 - [Rabbit in Your Headlights](https://www.youtube.com/watch?v=7gj6t4CTiCI)
 - [UNKLE - Celestial Annihilation](https://www.youtube.com/watch?v=ALSgKMZJvKE)
-- [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0)
+- [UNKLE - Psyence Fiction full album](https://www.youtube.com/watch?v=ojYI5XUlMV0)
 
 ## Release Images
 {{< imageGrid >}}

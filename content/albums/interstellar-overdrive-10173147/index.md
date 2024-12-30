@@ -41,11 +41,11 @@ The song originated when guitarist Syd Barrett heard the band's manager Peter Je
 
 
 ## Videos
-### Pink Floyd - Interstellar Overdrive [HQ]
-{{< youtube id="4o2sA0vpA-4" title="Pink Floyd - Interstellar Overdrive [HQ]" >}}<br>
+### Pink Floyd - Interstellar Overdrive HQ
+{{< youtube id="4o2sA0vpA-4" title="Pink Floyd - Interstellar Overdrive HQ" >}}<br>
 ### More Videos
 
-- [Pink Floyd - Interstellar Overdrive [HQ]](https://www.youtube.com/watch?v=4o2sA0vpA-4)
+- [Pink Floyd - Interstellar Overdrive HQ](https://www.youtube.com/watch?v=4o2sA0vpA-4)
 
 ## Release Images
 {{< imageGrid >}}

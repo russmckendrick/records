@@ -69,10 +69,10 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 {{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}<br>
 ### More Videos
 
-- [Ian Dury - Sex And Drugs And Rock And Roll.](https://www.youtube.com/watch?v=dvhoSAKLztM)
+- [Ian Dury - Sex And Drugs And Rock And Roll](https://www.youtube.com/watch?v=dvhoSAKLztM)
 - [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
 - [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
-- [I'm Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
+- [Im Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
 - [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
 - [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
 - [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)

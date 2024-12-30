@@ -49,7 +49,7 @@ styles: ["Alternative Rock"]
 - [Rising Bass](https://www.youtube.com/watch?v=O-63PPmU6jE)
 - [Get The Scene](https://www.youtube.com/watch?v=XeNX3xZEIhU)
 - [Good Sport](https://www.youtube.com/watch?v=oXWYVwIR4bw)
-- [Transition To…](https://www.youtube.com/watch?v=m8Dkrb7sWS4)
+- [Transition To](https://www.youtube.com/watch?v=m8Dkrb7sWS4)
 - [Simple Basics](https://www.youtube.com/watch?v=kg2TwUNsdJY)
 - [Widescreen Features](https://www.youtube.com/watch?v=Ktw9wnpNi8M)
 - [Too Many Hats](https://www.youtube.com/watch?v=BqyS8n0GjH0)

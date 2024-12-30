@@ -39,8 +39,8 @@ styles: ["Country"]
 
 
 ## Videos
-### Slim Whitman - - -  Birmingham Jail  - --  { Best Video }
-{{< youtube id="kqufglg5A4s" title="Slim Whitman - - -  Birmingham Jail  - --  { Best Video }" >}}<br>
+### Slim Whitman - - -  Birmingham Jail  - --   Best Video 
+{{< youtube id="kqufglg5A4s" title="Slim Whitman - - -  Birmingham Jail  - --   Best Video " >}}<br>
 
 
 ## Release Images

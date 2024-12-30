@@ -89,27 +89,27 @@ Teasing of the album began in April 2016, and it was formally announced in June 
 
 
 ## Videos
-### The Avalanches - Subways (Official Video)
-{{< youtube id="bPIMfOIuEe4" title="The Avalanches - Subways (Official Video)" >}}<br>
+### The Avalanches - Subways Official Video
+{{< youtube id="bPIMfOIuEe4" title="The Avalanches - Subways Official Video" >}}<br>
 ### More Videos
 
-- [The Avalanches - Because I'm Me (Official Video)](https://www.youtube.com/watch?v=eu0KsZ_MVBc)
-- [The Avalanches - Colours (Official Audio)](https://www.youtube.com/watch?v=zLRPDovCpmM)
-- [The Avalanches - Frankie Sinatra (Official Video)](https://www.youtube.com/watch?v=SjfspM5sDIA)
+- [The Avalanches - Because Im Me Official Video](https://www.youtube.com/watch?v=eu0KsZ_MVBc)
+- [The Avalanches - Colours Official Audio](https://www.youtube.com/watch?v=zLRPDovCpmM)
+- [The Avalanches - Frankie Sinatra Official Video](https://www.youtube.com/watch?v=SjfspM5sDIA)
 - [The Leaves Were Falling](https://www.youtube.com/watch?v=-Y_akY6-Pgc)
-- [The Avalanches - Because I'm Me (Official Video)](https://www.youtube.com/watch?v=eu0KsZ_MVBc)
+- [The Avalanches - Because Im Me Official Video](https://www.youtube.com/watch?v=eu0KsZ_MVBc)
 - [Frankie Sinatra](https://www.youtube.com/watch?v=LnUOvcwB-o8)
-- [The Avalanches - Subways (Official Video)](https://www.youtube.com/watch?v=bPIMfOIuEe4)
+- [The Avalanches - Subways Official Video](https://www.youtube.com/watch?v=bPIMfOIuEe4)
 - [Going Home](https://www.youtube.com/watch?v=QWWyFpeHXdI)
 - [The Avalanches - If I Was a Folkstar](https://www.youtube.com/watch?v=FE3C4XpWl6M)
-- [The Avalanches - Colours (Official Audio)](https://www.youtube.com/watch?v=zLRPDovCpmM)
-- [Zap!](https://www.youtube.com/watch?v=ejV0uQVENq0)
+- [The Avalanches - Colours Official Audio](https://www.youtube.com/watch?v=zLRPDovCpmM)
+- [Zap](https://www.youtube.com/watch?v=ejV0uQVENq0)
 - [The Noisy Eater](https://www.youtube.com/watch?v=bjvmVYyDeOA)
 - [Wildflower](https://www.youtube.com/watch?v=jk2yuut_YuY)
 - [Harmony](https://www.youtube.com/watch?v=_POL5EqwqbI)
 - [Live A Lifetime Love](https://www.youtube.com/watch?v=uod3vNoh5Wc)
 - [Park Music](https://www.youtube.com/watch?v=SrasYlW0oF4)
-- [Livin’ Underwater (Is Something Wild)](https://www.youtube.com/watch?v=xXPn0Dywvyc)
+- [Livin Underwater Is Something Wild](https://www.youtube.com/watch?v=xXPn0Dywvyc)
 - [The Wozard Of Iz](https://www.youtube.com/watch?v=Hfu101Rg08Y)
 - [Over The Turnstiles](https://www.youtube.com/watch?v=zX-cdeSwB9A)
 - [Sunshine](https://www.youtube.com/watch?v=PUM5YHQIjew)

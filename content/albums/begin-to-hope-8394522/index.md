@@ -65,23 +65,23 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 
 
 ## Videos
-### Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)
-{{< youtube id="To7sRUSb6NA" title="Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)" >}}<br>
+### Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD
+{{< youtube id="To7sRUSb6NA" title="Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD" >}}<br>
 ### More Videos
 
-- [Regina Spektor - "Fidelity" [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
-- [Regina Spektor - "Better" [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
-- [Regina Spektor - "Samson" [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
-- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
+- [Regina Spektor - Fidelity Official Music Video](https://www.youtube.com/watch?v=wigqKfLWjvM)
+- [Regina Spektor - Better Official Music Video](https://www.youtube.com/watch?v=VCokhCqK9rw)
+- [Regina Spektor - Samson OFFICIAL VIDEO](https://www.youtube.com/watch?v=p62rfWxs6a8)
+- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
-- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
+- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
 - [That Time](https://www.youtube.com/watch?v=M-41HdCf7dI)
 - [Summer in the City](https://www.youtube.com/watch?v=PpEFC731Mo8)
-- [Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)](https://www.youtube.com/watch?v=To7sRUSb6NA)
-- [Regina Spektor - "Fidelity" [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
-- [Regina Spektor - "Better" [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
-- [Regina Spektor - "Samson" [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
-- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
+- [Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD](https://www.youtube.com/watch?v=To7sRUSb6NA)
+- [Regina Spektor - Fidelity Official Music Video](https://www.youtube.com/watch?v=wigqKfLWjvM)
+- [Regina Spektor - Better Official Music Video](https://www.youtube.com/watch?v=VCokhCqK9rw)
+- [Regina Spektor - Samson OFFICIAL VIDEO](https://www.youtube.com/watch?v=p62rfWxs6a8)
+- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
 ## Release Images

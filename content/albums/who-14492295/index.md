@@ -45,8 +45,8 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 
 
 ## Videos
-### The Who - All This Music Must Fade (New Song)
-{{< youtube id="QpKhGNaiS6c" title="The Who - All This Music Must Fade (New Song)" >}}<br>
+### The Who - All This Music Must Fade New Song
+{{< youtube id="QpKhGNaiS6c" title="The Who - All This Music Must Fade New Song" >}}<br>
 
 
 ## Release Images

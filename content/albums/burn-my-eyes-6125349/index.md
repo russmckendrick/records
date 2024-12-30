@@ -44,8 +44,8 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 
 
 ## Videos
-### Machine Head - Old [OFFICIAL VIDEO]
-{{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}<br>
+### Machine Head - Old OFFICIAL VIDEO
+{{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [Machine Head - Davidian](https://www.youtube.com/watch?v=_mWPPBW4DU8)
@@ -57,8 +57,8 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 - [None but My Own](https://www.youtube.com/watch?v=cv0Av7VubD0)
 - [A Nation on Fire](https://www.youtube.com/watch?v=yEW92u-ckbw)
 - [Blood for Blood](https://www.youtube.com/watch?v=O0acUh4stoM)
-- [I'm Your God Now](https://www.youtube.com/watch?v=HFl13dWlOlA)
-- [Real Eyes, Realize, Real Lies](https://www.youtube.com/watch?v=rNBfBSStzD4)
+- [Im Your God Now](https://www.youtube.com/watch?v=HFl13dWlOlA)
+- [Real Eyes Realize Real Lies](https://www.youtube.com/watch?v=rNBfBSStzD4)
 - [Block](https://www.youtube.com/watch?v=j7W-ZnrHTFU)
 
 ## Release Images

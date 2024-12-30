@@ -53,8 +53,8 @@ The European part of the tour opened with a special one-off gig at the ancient R
 {{< youtube id="-8Pk_WA-Q_Q" title="ANATHEMA-UNIVERSAL" >}}<br>
 ### More Videos
 
-- [Anathema - Universal (from the Universal Concert Film)](https://www.youtube.com/watch?v=6oc4HgczbY0)
-- [Anathema - Untouchable Part 1-2 (Universal Live) HD Legendado PT-BR](https://www.youtube.com/watch?v=-aom-fUjthU)
+- [Anathema - Universal from the Universal Concert Film](https://www.youtube.com/watch?v=6oc4HgczbY0)
+- [Anathema - Untouchable Part 1-2 Universal Live HD Legendado PT-BR](https://www.youtube.com/watch?v=-aom-fUjthU)
 
 ## Release Images
 {{< imageGrid >}}

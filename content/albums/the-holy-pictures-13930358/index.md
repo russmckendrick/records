@@ -52,7 +52,7 @@ The Holy Pictures is the fifth studio album by David Holmes released in Septembe
 
 - [Story Of The Ink](https://www.youtube.com/watch?v=U_J2FejfL2w)
 - [Love Reign Over Me](https://www.youtube.com/watch?v=ZSYcHRCL9g8)
-- [Theme/I.M.C](https://www.youtube.com/watch?v=WdF74_zyXRs)
+- [ThemeIMC](https://www.youtube.com/watch?v=WdF74_zyXRs)
 - [Holy Pictures](https://www.youtube.com/watch?v=C5LSSPbrRHI)
 - [Kill Her With Kindness](https://www.youtube.com/watch?v=YOvJwgysVe8)
 - [Melanie](https://www.youtube.com/watch?v=sJQyviWMmN4)

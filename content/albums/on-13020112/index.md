@@ -50,18 +50,18 @@ On is the second studio album by English alternative rock band Echobelly. Gainin
 
 
 ## Videos
-### Echobelly - King Of The Kerb (Video)
-{{< youtube id="epqZrkxZ3_o" title="Echobelly - King Of The Kerb (Video)" >}}<br>
+### Echobelly - King Of The Kerb Video
+{{< youtube id="epqZrkxZ3_o" title="Echobelly - King Of The Kerb Video" >}}<br>
 ### More Videos
 
-- [Echobelly - Great Things (TOTP)](https://www.youtube.com/watch?v=fLH8wC7jMOY)
+- [Echobelly - Great Things TOTP](https://www.youtube.com/watch?v=fLH8wC7jMOY)
 - [Echobelly-Natural Animal](https://www.youtube.com/watch?v=6vEXs-Dah80)
-- [Echobelly ➤ Dark Therapy (Album Version) (HQ) *FLAC*](https://www.youtube.com/watch?v=oCncGevKpFE)
-- [Echobelly-King Of The Kerb on TFI Friday 1996.](https://www.youtube.com/watch?v=_5w6Xl6UtN4)
+- [Echobelly  Dark Therapy Album Version HQ FLAC](https://www.youtube.com/watch?v=oCncGevKpFE)
+- [Echobelly-King Of The Kerb on TFI Friday 1996](https://www.youtube.com/watch?v=_5w6Xl6UtN4)
 - [Echobelly - Four Letter Word](https://www.youtube.com/watch?v=noHFuXwmtIo)
 - [Echobelly - Nobody Like You](https://www.youtube.com/watch?v=8iG6s5W5kOY)
 - [echobelly - car fiction](https://www.youtube.com/watch?v=CAKsWxJLfD0)
-- [Echobelly // Dark Therapy (Official Music Video)](https://www.youtube.com/watch?v=OY1Jw4BtUXE)
+- [Echobelly  Dark Therapy Official Music Video](https://www.youtube.com/watch?v=OY1Jw4BtUXE)
 
 ## Release Images
 {{< imageGrid >}}

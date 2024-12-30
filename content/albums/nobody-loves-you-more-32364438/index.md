@@ -55,20 +55,20 @@ These songs may sound like timeless tunes of the golden oldies era, but Deal als
 
 
 ## Videos
-### Kim Deal - Nobody Loves You More (Official Video)
-{{< youtube id="osOWmt5YYuw" title="Kim Deal - Nobody Loves You More (Official Video)" >}}<br>
+### Kim Deal - Nobody Loves You More Official Video
+{{< youtube id="osOWmt5YYuw" title="Kim Deal - Nobody Loves You More Official Video" >}}<br>
 ### More Videos
 
-- [Kim Deal - Coast (Official Audio)](https://www.youtube.com/watch?v=MBu_Ec33byA)
-- [Kim Deal - Crystal Breath (Official Visualizer)](https://www.youtube.com/watch?v=prsoDFY1I9s)
-- [Kim Deal - A Good Time Pushed (Official Visualiser)](https://www.youtube.com/watch?v=MpqLQIoivAY)
-- [Kim Deal - Are You Mine? (Official Audio)](https://www.youtube.com/watch?v=w-MLiay4Kyg)
-- [Kim Deal - Summerland (Official Audio)](https://www.youtube.com/watch?v=934zQqSU5Ps)
-- [Kim Deal - Come Running (Official Audio)](https://www.youtube.com/watch?v=mI7Faalvy3Y)
-- [Kim Deal - Wish I Was (Official Audio)](https://www.youtube.com/watch?v=V75kkrxODE0)
-- [Kim Deal - Disobedience (Official Audio)](https://www.youtube.com/watch?v=tqyLvum0CQg)
-- [Kim Deal - Bats In The Afternoon Sky (Official Audio)](https://www.youtube.com/watch?v=03n0DEycSSQ)
-- [Kim Deal -  Big Ben Beat (Official Audio)](https://www.youtube.com/watch?v=gi1z5TfS5Vg)
+- [Kim Deal - Coast Official Audio](https://www.youtube.com/watch?v=MBu_Ec33byA)
+- [Kim Deal - Crystal Breath Official Visualizer](https://www.youtube.com/watch?v=prsoDFY1I9s)
+- [Kim Deal - A Good Time Pushed Official Visualiser](https://www.youtube.com/watch?v=MpqLQIoivAY)
+- [Kim Deal - Are You Mine Official Audio](https://www.youtube.com/watch?v=w-MLiay4Kyg)
+- [Kim Deal - Summerland Official Audio](https://www.youtube.com/watch?v=934zQqSU5Ps)
+- [Kim Deal - Come Running Official Audio](https://www.youtube.com/watch?v=mI7Faalvy3Y)
+- [Kim Deal - Wish I Was Official Audio](https://www.youtube.com/watch?v=V75kkrxODE0)
+- [Kim Deal - Disobedience Official Audio](https://www.youtube.com/watch?v=tqyLvum0CQg)
+- [Kim Deal - Bats In The Afternoon Sky Official Audio](https://www.youtube.com/watch?v=03n0DEycSSQ)
+- [Kim Deal -  Big Ben Beat Official Audio](https://www.youtube.com/watch?v=gi1z5TfS5Vg)
 
 ## Release Images
 {{< imageGrid >}}

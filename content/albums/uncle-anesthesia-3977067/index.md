@@ -52,7 +52,7 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 ### More Videos
 
 - [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
-- [screaming trees - alice said | uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
+- [screaming trees - alice said  uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
 - [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
 - [Story Of Her Fate](https://www.youtube.com/watch?v=_LtDCEE8fro)
 - [Caught Between](https://www.youtube.com/watch?v=u_RQHzc2qkw)
@@ -62,7 +62,7 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 - [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
 - [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
 - [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
-- [screaming trees - alice said | uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
+- [screaming trees - alice said  uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
 - [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
 
 ## Release Images

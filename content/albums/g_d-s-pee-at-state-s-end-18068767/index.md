@@ -53,11 +53,11 @@ Godspeed's seventh album adheres to a similar structure as their post-reunion re
 
 
 ## Videos
-### Godspeed You! Black Emperor - G_d’s Pee AT STATE’S END! [Full Album]
-{{< youtube id="5Mp2EipaHps" title="Godspeed You! Black Emperor - G_d’s Pee AT STATE’S END! [Full Album]" >}}<br>
+### Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album
+{{< youtube id="5Mp2EipaHps" title="Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album" >}}<br>
 ### More Videos
 
-- [Godspeed You! Black Emperor - G_d’s Pee AT STATE’S END! [Full Album]](https://www.youtube.com/watch?v=5Mp2EipaHps)
+- [Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album](https://www.youtube.com/watch?v=5Mp2EipaHps)
 
 ## Release Images
 {{< imageGrid >}}

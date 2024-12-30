@@ -40,11 +40,11 @@ It is home to a large colony of white-capped albatrosses: about 65,000 pairs –
 
 
 ## Videos
-### TTNG - "Disappointment Island" [Full LP] (2016)
-{{< youtube id="hI6Yeas0aMc" title="TTNG - "Disappointment Island" [Full LP] (2016)" >}}<br>
+### TTNG - Disappointment Island Full LP 2016
+{{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island Full LP 2016" >}}<br>
 ### More Videos
 
-- [TTNG - "Disappointment Island" [Full LP] (2016)](https://www.youtube.com/watch?v=hI6Yeas0aMc)
+- [TTNG - Disappointment Island Full LP 2016](https://www.youtube.com/watch?v=hI6Yeas0aMc)
 
 ## Release Images
 {{< imageGrid >}}

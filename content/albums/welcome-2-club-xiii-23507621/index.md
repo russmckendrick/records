@@ -44,8 +44,8 @@ Welcome 2 Club XIII  is the fourteenth studio album by American rock band Drive-
 
 
 ## Videos
-### Drive-By Truckers - Welcome 2 Club XIII (Official Video)
-{{< youtube id="VWM6EZW9F6I" title="Drive-By Truckers - Welcome 2 Club XIII (Official Video)" >}}<br>
+### Drive-By Truckers - Welcome 2 Club XIII Official Video
+{{< youtube id="VWM6EZW9F6I" title="Drive-By Truckers - Welcome 2 Club XIII Official Video" >}}<br>
 
 
 ## Release Images

@@ -55,7 +55,7 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 ### More Videos
 
 - [Utopia-My angel](https://www.youtube.com/watch?v=GpW8WXlC094)
-- [Windows // Utopia 1977](https://www.youtube.com/watch?v=1m08iCofGoA)
+- [Windows  Utopia 1977](https://www.youtube.com/watch?v=1m08iCofGoA)
 - [Utopia - Love Is The Answer](https://www.youtube.com/watch?v=YadkaBwxazE)
 - [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
 

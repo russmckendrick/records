@@ -66,8 +66,8 @@ The album has received critical praise from several publications over the years,
 
 
 ## Videos
-### Child's Christmas In Wales
-{{< youtube id="VUwjejvhXOY" title="Child's Christmas In Wales" >}}<br>
+### Childs Christmas In Wales
+{{< youtube id="VUwjejvhXOY" title="Childs Christmas In Wales" >}}<br>
 ### More Videos
 
 - [Hanky Panky Nohow](https://www.youtube.com/watch?v=1N5rx_P1irs)

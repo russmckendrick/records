@@ -41,21 +41,21 @@ After the Rain is the debut album of the American rock group Nelson, released by
 
 
 ## Videos
-### Nelson – After The Rain
-{{< youtube id="NoJ5-lHmOE0" title="Nelson – After The Rain" >}}<br>
+### Nelson  After The Rain
+{{< youtube id="NoJ5-lHmOE0" title="Nelson  After The Rain" >}}<br>
 ### More Videos
 
-- [Nelson – Fill You Up](https://www.youtube.com/watch?v=YUIikxnF2e8)
-- [Nelson – Will You Love Me ?](https://www.youtube.com/watch?v=FWvI-3Xg548)
-- [Nelson – More Than Ever](https://www.youtube.com/watch?v=XorS_VSuwHw)
-- [Nelson – Bits And Pieces](https://www.youtube.com/watch?v=FO0PfEcVqCg)
-- [Nelson – Interlude-Everywhere I Go](https://www.youtube.com/watch?v=69B2cS9dHsE)
-- [Nelson – (Can't Live Without Your) Love And Affection](https://www.youtube.com/watch?v=avchWuhdeLk)
-- [Nelson – (It's Just) Desire](https://www.youtube.com/watch?v=R8Q687pLt6A)
-- [Nelson – I Can Hardly Wait](https://www.youtube.com/watch?v=Kli2tGi5UKw)
-- [Nelson – Tracy's Song-Only Time Will Tell](https://www.youtube.com/watch?v=EHm7GREyUlc)
+- [Nelson  Fill You Up](https://www.youtube.com/watch?v=YUIikxnF2e8)
+- [Nelson  Will You Love Me ](https://www.youtube.com/watch?v=FWvI-3Xg548)
+- [Nelson  More Than Ever](https://www.youtube.com/watch?v=XorS_VSuwHw)
+- [Nelson  Bits And Pieces](https://www.youtube.com/watch?v=FO0PfEcVqCg)
+- [Nelson  Interlude-Everywhere I Go](https://www.youtube.com/watch?v=69B2cS9dHsE)
+- [Nelson  Cant Live Without Your Love And Affection](https://www.youtube.com/watch?v=avchWuhdeLk)
+- [Nelson  Its Just Desire](https://www.youtube.com/watch?v=R8Q687pLt6A)
+- [Nelson  I Can Hardly Wait](https://www.youtube.com/watch?v=Kli2tGi5UKw)
+- [Nelson  Tracys Song-Only Time Will Tell](https://www.youtube.com/watch?v=EHm7GREyUlc)
 - [Nelson - After The Rain](https://www.youtube.com/watch?v=bmywdJby43w)
-- [Nelson - (Can't Live Without Your) Love And Affection [Official Video]](https://www.youtube.com/watch?v=x1W6-ErrHls)
+- [Nelson - Cant Live Without Your Love And Affection Official Video](https://www.youtube.com/watch?v=x1W6-ErrHls)
 
 ## Release Images
 {{< imageGrid >}}

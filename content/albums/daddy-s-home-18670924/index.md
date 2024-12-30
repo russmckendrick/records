@@ -61,13 +61,13 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 
 
 ## Videos
-### St. Vincent - Pay Your Way In Pain (Official Video)
-{{< youtube id="ZUTu65AXrJw" title="St. Vincent - Pay Your Way In Pain (Official Video)" >}}<br>
+### St Vincent - Pay Your Way In Pain Official Video
+{{< youtube id="ZUTu65AXrJw" title="St Vincent - Pay Your Way In Pain Official Video" >}}<br>
 ### More Videos
 
-- [St. Vincent - Daddy's Home (Official Audio)](https://www.youtube.com/watch?v=MTbI5zp0It4)
-- [St. Vincent - Down (Official Video)](https://www.youtube.com/watch?v=VQ9iAlm-sJ8)
-- [St. Vincent - The Melting Of The Sun (Official Video)](https://www.youtube.com/watch?v=6oji2hmpzvM)
+- [St Vincent - Daddys Home Official Audio](https://www.youtube.com/watch?v=MTbI5zp0It4)
+- [St Vincent - Down Official Video](https://www.youtube.com/watch?v=VQ9iAlm-sJ8)
+- [St Vincent - The Melting Of The Sun Official Video](https://www.youtube.com/watch?v=6oji2hmpzvM)
 
 ## Release Images
 {{< imageGrid >}}

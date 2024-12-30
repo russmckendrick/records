@@ -170,20 +170,20 @@ The album garnered widespread acclaim from critics, who praised its production q
 
 
 ## Videos
-### Fleetwood Mac - Rumours {Remastered} [Full Album] (HQ)
-{{< youtube id="lrltGatijXc" title="Fleetwood Mac - Rumours {Remastered} [Full Album] (HQ)" >}}<br>
+### Fleetwood Mac - Rumours Remastered Full Album HQ
+{{< youtube id="lrltGatijXc" title="Fleetwood Mac - Rumours Remastered Full Album HQ" >}}<br>
 ### More Videos
 
-- [Second Hand News (2004 Remaster)](https://www.youtube.com/watch?v=bLfcwDZ5GzQ)
-- [The Chain (2004 Remaster)](https://www.youtube.com/watch?v=iLC-tHvkNvI)
-- [Dreams (2004 Remaster)](https://www.youtube.com/watch?v=5oWyMakvQew)
-- [Don't Stop (2004 Remaster)](https://www.youtube.com/watch?v=vCSaDQJtblA)
-- [Go Your Own Way (2004 Remaster)](https://www.youtube.com/watch?v=DubafeFeJ7Y)
-- [Songbird (2004 Remaster)](https://www.youtube.com/watch?v=1i8Pntyu-NM)
-- [You Make Loving Fun (2004 Remaster)](https://www.youtube.com/watch?v=WJVWVtHWmAM)
-- [I Don't Want to Know (2004 Remaster)](https://www.youtube.com/watch?v=T2xykVVzzWY)
-- [Oh Daddy (2004 Remaster)](https://www.youtube.com/watch?v=zLAXk8KSxsU)
-- [Gold Dust Woman (2004 Remaster)](https://www.youtube.com/watch?v=EFUAI_tzfgU)
+- [Second Hand News 2004 Remaster](https://www.youtube.com/watch?v=bLfcwDZ5GzQ)
+- [The Chain 2004 Remaster](https://www.youtube.com/watch?v=iLC-tHvkNvI)
+- [Dreams 2004 Remaster](https://www.youtube.com/watch?v=5oWyMakvQew)
+- [Dont Stop 2004 Remaster](https://www.youtube.com/watch?v=vCSaDQJtblA)
+- [Go Your Own Way 2004 Remaster](https://www.youtube.com/watch?v=DubafeFeJ7Y)
+- [Songbird 2004 Remaster](https://www.youtube.com/watch?v=1i8Pntyu-NM)
+- [You Make Loving Fun 2004 Remaster](https://www.youtube.com/watch?v=WJVWVtHWmAM)
+- [I Dont Want to Know 2004 Remaster](https://www.youtube.com/watch?v=T2xykVVzzWY)
+- [Oh Daddy 2004 Remaster](https://www.youtube.com/watch?v=zLAXk8KSxsU)
+- [Gold Dust Woman 2004 Remaster](https://www.youtube.com/watch?v=EFUAI_tzfgU)
 
 ## Release Images
 {{< imageGrid >}}

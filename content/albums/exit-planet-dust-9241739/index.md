@@ -60,13 +60,13 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 ### More Videos
 
 - [In Dust We Trust](https://www.youtube.com/watch?v=YtnBsvu72kY)
-- [Song To The Siren (Live From Sabresonic Nightclub,United Kingdom/1994)](https://www.youtube.com/watch?v=D7R4Z0T5ViA)
+- [Song To The Siren Live From Sabresonic NightclubUnited Kingdom1994](https://www.youtube.com/watch?v=D7R4Z0T5ViA)
 - [Three Little Birdies Down Beats](https://www.youtube.com/watch?v=kJqSFi0ukEY)
 - [Fuck Up Beats](https://www.youtube.com/watch?v=RvXDHnJ817E)
 - [Chemical Beats](https://www.youtube.com/watch?v=_GfcIprkuvw)
-- [The Chemical Brothers - Life Is Sweet (Official Music Video)](https://www.youtube.com/watch?v=30p2UWAegeQ)
+- [The Chemical Brothers - Life Is Sweet Official Music Video](https://www.youtube.com/watch?v=30p2UWAegeQ)
 - [Playground For A Wedgeless Firm](https://www.youtube.com/watch?v=vaYgOV1urpQ)
-- [Chico's Groove](https://www.youtube.com/watch?v=F8smPDj7r4w)
+- [Chicos Groove](https://www.youtube.com/watch?v=F8smPDj7r4w)
 - [One Too Many Mornings](https://www.youtube.com/watch?v=wA-FVMPg49I)
 - [Alive Alone](https://www.youtube.com/watch?v=q9rrZzrgA2I)
 - [THE CHEMICAL BROTHERS - One Too Many Mornings](https://www.youtube.com/watch?v=ItS_e_u37Qs)

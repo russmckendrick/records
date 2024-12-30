@@ -45,13 +45,13 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 
 
 ## Videos
-### Agnes Obel - Falling, Catching
-{{< youtube id="DHBa2ANs0fo" title="Agnes Obel - Falling, Catching" >}}<br>
+### Agnes Obel - Falling Catching
+{{< youtube id="DHBa2ANs0fo" title="Agnes Obel - Falling Catching" >}}<br>
 ### More Videos
 
-- [Agnes Obel - Riverside (Official)](https://www.youtube.com/watch?v=vjncyiuwwXQ)
+- [Agnes Obel - Riverside Official](https://www.youtube.com/watch?v=vjncyiuwwXQ)
 - [Agnes Obel - Brother Sparrow](https://www.youtube.com/watch?v=k1H-VnGUiUU)
-- [Agnes Obel - Just So (official)](https://www.youtube.com/watch?v=5NmjJeNFUVU)
+- [Agnes Obel - Just So official](https://www.youtube.com/watch?v=5NmjJeNFUVU)
 - [Agnes Obel - Beast](https://www.youtube.com/watch?v=O6lusuPIRE4)
 - [Agnes Obel - Louretta](https://www.youtube.com/watch?v=N9W5o2p3o8c)
 - [Agnes Obel - Avenue](https://www.youtube.com/watch?v=3t_EN-HZVLw)
@@ -60,10 +60,10 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 - [Agnes Obel - Wallflower](https://www.youtube.com/watch?v=qpvhRI79S98)
 - [Agnes Obel - Over The Hill](https://www.youtube.com/watch?v=56juk63B4yM)
 - [Agnes Obel - On Powdered Ground](https://www.youtube.com/watch?v=gz8tE1HlOok)
-- [Agnes Obel - Falling, Catching](https://www.youtube.com/watch?v=DHBa2ANs0fo)
-- [Agnes Obel - Riverside (Official)](https://www.youtube.com/watch?v=vjncyiuwwXQ)
+- [Agnes Obel - Falling Catching](https://www.youtube.com/watch?v=DHBa2ANs0fo)
+- [Agnes Obel - Riverside Official](https://www.youtube.com/watch?v=vjncyiuwwXQ)
 - [Agnes Obel - Brother Sparrow](https://www.youtube.com/watch?v=k1H-VnGUiUU)
-- [Agnes Obel - Just So (official)](https://www.youtube.com/watch?v=5NmjJeNFUVU)
+- [Agnes Obel - Just So official](https://www.youtube.com/watch?v=5NmjJeNFUVU)
 - [Agnes Obel - Beast](https://www.youtube.com/watch?v=O6lusuPIRE4)
 - [Agnes Obel - Louretta](https://www.youtube.com/watch?v=N9W5o2p3o8c)
 - [Agnes Obel - Avenue](https://www.youtube.com/watch?v=3t_EN-HZVLw)

@@ -51,11 +51,11 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Slackers - Married Girl (Live At Ernesto's)
-{{< youtube id="j96ExxBfE3Q" title="The Slackers - Married Girl (Live At Ernesto's)" >}}<br>
+### The Slackers - Married Girl Live At Ernestos
+{{< youtube id="j96ExxBfE3Q" title="The Slackers - Married Girl Live At Ernestos" >}}<br>
 ### More Videos
 
-- [The Slackers - Pedophilia (Live at Ernesto's)](https://www.youtube.com/watch?v=Jnn8sywBL9Y)
+- [The Slackers - Pedophilia Live at Ernestos](https://www.youtube.com/watch?v=Jnn8sywBL9Y)
 - [The Slackers - Sooner Or Later](https://www.youtube.com/watch?v=cGHQ6cpmXEQ)
 
 ## Release Images

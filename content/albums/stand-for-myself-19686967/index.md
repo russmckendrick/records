@@ -67,11 +67,11 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 
 
 ## Videos
-### Yola - "Diamond Studded Shoes" [Official Music Video]
-{{< youtube id="GfC_n8efpiM" title="Yola - "Diamond Studded Shoes" [Official Music Video]" >}}<br>
+### Yola - Diamond Studded Shoes Official Music Video
+{{< youtube id="GfC_n8efpiM" title="Yola - Diamond Studded Shoes Official Music Video" >}}<br>
 ### More Videos
 
-- [Yola - "Starlight" [Official Music Video]](https://www.youtube.com/watch?v=8IGDA8ZUQ08)
+- [Yola - Starlight Official Music Video](https://www.youtube.com/watch?v=8IGDA8ZUQ08)
 
 ## Release Images
 {{< imageGrid >}}

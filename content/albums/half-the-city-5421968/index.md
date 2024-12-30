@@ -42,11 +42,11 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### St. Paul and the Broken Bones - Half the City
-{{< youtube id="5GdkM1r5jhs" title="St. Paul and the Broken Bones - Half the City" >}}<br>
+### St Paul and the Broken Bones - Half the City
+{{< youtube id="5GdkM1r5jhs" title="St Paul and the Broken Bones - Half the City" >}}<br>
 ### More Videos
 
-- [St. Paul & The Broken Bones - Half the City FULL ALBUM HD](https://www.youtube.com/watch?v=Q5LQat9_f5U)
+- [St Paul  The Broken Bones - Half the City FULL ALBUM HD](https://www.youtube.com/watch?v=Q5LQat9_f5U)
 
 ## Release Images
 {{< imageGrid >}}

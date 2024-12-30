@@ -52,23 +52,23 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 
 
 ## Videos
-### Sparklehorse - "It Will Never Stop"
-{{< youtube id="K6ZPQDkft90" title="Sparklehorse - "It Will Never Stop"" >}}<br>
+### Sparklehorse - It Will Never Stop
+{{< youtube id="K6ZPQDkft90" title="Sparklehorse - It Will Never Stop" >}}<br>
 ### More Videos
 
-- [Sparklehorse - "Kind Ghosts" (Full Album Stream)](https://www.youtube.com/watch?v=oz4ee0eor78)
-- [Sparklehorse - "Evening Star Supercharger"](https://www.youtube.com/watch?v=Xr911hFV8Qc)
-- [Sparklehorse - "O Child" (Full Album Stream)](https://www.youtube.com/watch?v=Ss51EuAlgkQ)
-- [Sparklehorse - "Falling Down" (Full Album Stream)](https://www.youtube.com/watch?v=L1mKhNzIiO0)
-- [Sparklehorse - "I Fucked It Up" (Full Album Stream)](https://www.youtube.com/watch?v=g6dZkPJ6aD8)
-- [Sparklehorse - "Hello Lord" (Full Album Stream)](https://www.youtube.com/watch?v=MDiUGVGrl5s)
-- [Sparklehorse - "Daddy's Gone" (Full Album Stream)](https://www.youtube.com/watch?v=ix0W_ofrTVY)
-- [Sparklehorse - "Chaos of the Universe" (Full Album Stream)](https://www.youtube.com/watch?v=DXe4W0UaYBQ)
-- [Sparklehorse - "Listening to the Higsons"](https://www.youtube.com/watch?v=EgL2QiZIyQI)
-- [Sparklehorse - "Everybody's Gone to Sleep" (Full Album Stream)](https://www.youtube.com/watch?v=P2O2reRx2Y8)
-- [Sparklehorse - "The Scull of Lucia"](https://www.youtube.com/watch?v=cxpyd1VH7rM)
-- [Sparklehorse - "Blue" (Full Album Stream)](https://www.youtube.com/watch?v=4leIBJBS4mk)
-- [Sparklehorse - "Stay" (Full Album Stream)](https://www.youtube.com/watch?v=P27mAT6a7cA)
+- [Sparklehorse - Kind Ghosts Full Album Stream](https://www.youtube.com/watch?v=oz4ee0eor78)
+- [Sparklehorse - Evening Star Supercharger](https://www.youtube.com/watch?v=Xr911hFV8Qc)
+- [Sparklehorse - O Child Full Album Stream](https://www.youtube.com/watch?v=Ss51EuAlgkQ)
+- [Sparklehorse - Falling Down Full Album Stream](https://www.youtube.com/watch?v=L1mKhNzIiO0)
+- [Sparklehorse - I Fucked It Up Full Album Stream](https://www.youtube.com/watch?v=g6dZkPJ6aD8)
+- [Sparklehorse - Hello Lord Full Album Stream](https://www.youtube.com/watch?v=MDiUGVGrl5s)
+- [Sparklehorse - Daddys Gone Full Album Stream](https://www.youtube.com/watch?v=ix0W_ofrTVY)
+- [Sparklehorse - Chaos of the Universe Full Album Stream](https://www.youtube.com/watch?v=DXe4W0UaYBQ)
+- [Sparklehorse - Listening to the Higsons](https://www.youtube.com/watch?v=EgL2QiZIyQI)
+- [Sparklehorse - Everybodys Gone to Sleep Full Album Stream](https://www.youtube.com/watch?v=P2O2reRx2Y8)
+- [Sparklehorse - The Scull of Lucia](https://www.youtube.com/watch?v=cxpyd1VH7rM)
+- [Sparklehorse - Blue Full Album Stream](https://www.youtube.com/watch?v=4leIBJBS4mk)
+- [Sparklehorse - Stay Full Album Stream](https://www.youtube.com/watch?v=P27mAT6a7cA)
 
 ## Release Images
 {{< imageGrid >}}

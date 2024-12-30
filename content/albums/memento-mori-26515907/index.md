@@ -85,17 +85,17 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 
 
 ## Videos
-### Depeche Mode - Memento Mori (Full Album)
-{{< youtube id="yeNtpqgMjO0" title="Depeche Mode - Memento Mori (Full Album)" >}}<br>
+### Depeche Mode - Memento Mori Full Album
+{{< youtube id="yeNtpqgMjO0" title="Depeche Mode - Memento Mori Full Album" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Always You (Official Audio)](https://www.youtube.com/watch?v=NBfefZa0IHQ)
+- [Depeche Mode - Always You Official Audio](https://www.youtube.com/watch?v=NBfefZa0IHQ)
 - [Depeche Mode - People Are Good Music Video](https://www.youtube.com/watch?v=hKNvima8dsg)
-- [Depeche Mode - Memento Mori (Full Album)](https://www.youtube.com/watch?v=yeNtpqgMjO0)
-- [Depeche Mode - Always You (Official Audio)](https://www.youtube.com/watch?v=NBfefZa0IHQ)
+- [Depeche Mode - Memento Mori Full Album](https://www.youtube.com/watch?v=yeNtpqgMjO0)
+- [Depeche Mode - Always You Official Audio](https://www.youtube.com/watch?v=NBfefZa0IHQ)
 - [Depeche Mode - People Are Good Music Video](https://www.youtube.com/watch?v=hKNvima8dsg)
-- [Depeche Mode - My Favourite Stranger (Official Video)](https://www.youtube.com/watch?v=LemErXsJGV4)
-- [Depeche Mode - Wagging Tongue (Official Video)](https://www.youtube.com/watch?v=3Y4MWULrLto)
+- [Depeche Mode - My Favourite Stranger Official Video](https://www.youtube.com/watch?v=LemErXsJGV4)
+- [Depeche Mode - Wagging Tongue Official Video](https://www.youtube.com/watch?v=3Y4MWULrLto)
 
 ## Release Images
 {{< imageGrid >}}

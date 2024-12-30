@@ -46,13 +46,13 @@ Cracked Rear View is the debut studio album by Hootie & the Blowfish, released o
 
 
 ## Videos
-### Hootie & The Blowfish - Let Her Cry (Official Music Video)
-{{< youtube id="1aVHLL5egRY" title="Hootie & The Blowfish - Let Her Cry (Official Music Video)" >}}<br>
+### Hootie  The Blowfish - Let Her Cry Official Music Video
+{{< youtube id="1aVHLL5egRY" title="Hootie  The Blowfish - Let Her Cry Official Music Video" >}}<br>
 ### More Videos
 
-- [Hootie & The Blowfish - Hold My Hand (Official Music Video)](https://www.youtube.com/watch?v=xoW3bqnr7tw)
-- [Hootie & The Blowfish - Only Wanna Be with You (Official Music Video)](https://www.youtube.com/watch?v=Ln6WQqRDrCo)
-- [Hootie & The Blowfish - Time (Official Music Video)](https://www.youtube.com/watch?v=oFLysouG86I)
+- [Hootie  The Blowfish - Hold My Hand Official Music Video](https://www.youtube.com/watch?v=xoW3bqnr7tw)
+- [Hootie  The Blowfish - Only Wanna Be with You Official Music Video](https://www.youtube.com/watch?v=Ln6WQqRDrCo)
+- [Hootie  The Blowfish - Time Official Music Video](https://www.youtube.com/watch?v=oFLysouG86I)
 
 ## Release Images
 {{< imageGrid >}}

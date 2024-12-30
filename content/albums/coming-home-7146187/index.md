@@ -52,17 +52,17 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 ### More Videos
 
 - [Brown Skin Girl](https://www.youtube.com/watch?v=wk2duLxAmFE)
-- [Smooth Sailin'](https://www.youtube.com/watch?v=jhiK0uXA-QE)
+- [Smooth Sailin](https://www.youtube.com/watch?v=jhiK0uXA-QE)
 - [Shine](https://www.youtube.com/watch?v=L1rJNNivdlI)
 - [Lisa Sawyer](https://www.youtube.com/watch?v=PtlXWd99cYo)
 - [Flowers](https://www.youtube.com/watch?v=RgVseMnDXSE)
 - [Pull Away](https://www.youtube.com/watch?v=NhmQ_kOsSBc)
-- [Twistin' & Groovin'](https://www.youtube.com/watch?v=sjNcVcv8ax0)
+- [Twistin  Groovin](https://www.youtube.com/watch?v=sjNcVcv8ax0)
 - [There She Goes](https://www.youtube.com/watch?v=KlxpKJwNdlg)
 - [Daisy Mae](https://www.youtube.com/watch?v=EoJJcvc7J4c)
 - [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
 - [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)
-- [Leon Bridges - Coming Home (Official Video)](https://www.youtube.com/watch?v=MTrKkqE9p1o)
+- [Leon Bridges - Coming Home Official Video](https://www.youtube.com/watch?v=MTrKkqE9p1o)
 
 ## Release Images
 {{< imageGrid >}}

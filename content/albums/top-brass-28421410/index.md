@@ -40,7 +40,7 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 {{< youtube id="K3Wtj8zBUck" title="Top Brass" >}}<br>
 ### More Videos
 
-- [Top Brass (Bare Essentials Mix)](https://www.youtube.com/watch?v=wKH_6_bRmXg)
+- [Top Brass Bare Essentials Mix](https://www.youtube.com/watch?v=wKH_6_bRmXg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -68,35 +68,35 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 
 
 ## Videos
-### De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Music Video) [HD]
-{{< youtube id="hm6Kkje7bBM" title="De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Music Video) [HD]" >}}<br>
+### De La Soul - Ring Ring Ring Ha Ha Hey Official Music Video HD
+{{< youtube id="hm6Kkje7bBM" title="De La Soul - Ring Ring Ring Ha Ha Hey Official Music Video HD" >}}<br>
 ### More Videos
 
-- [A Roller Skating Jam Named "Saturdays" (Official Music Video) [HD]](https://www.youtube.com/watch?v=9S5lTgyfT2c)
-- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=fL_uR33mcX0)
-- [De La Soul - Oodles of O's (Official Audio)](https://www.youtube.com/watch?v=nAjVaRdBDY0)
-- [De La Soul - Talkin' Bout Hey Love (Official Audio)](https://www.youtube.com/watch?v=iD7ukTFW1fE)
-- [De La Soul - Pease Porridge (Official Audio)](https://www.youtube.com/watch?v=tY05TpaSTiU)
-- [De La Soul - Skit 1 (Official Audio)](https://www.youtube.com/watch?v=sz2BMGcaO5A)
-- [De La Soul - Johnny's Dead AKA Vincent Mason (Live from the BK Lounge) (Official Audio)](https://www.youtube.com/watch?v=ljMEvoanOZA)
-- [De La Soul - WRMS' Dedication to the Bitty (Official Audio)](https://www.youtube.com/watch?v=1Z0WPcbls5s)
-- [De La Soul - Bitties in the BK Lounge (Official Audio)](https://www.youtube.com/watch?v=7ESbtYg055M)
+- [A Roller Skating Jam Named Saturdays Official Music Video HD](https://www.youtube.com/watch?v=9S5lTgyfT2c)
+- [De La Soul - Intro Official Audio](https://www.youtube.com/watch?v=fL_uR33mcX0)
+- [De La Soul - Oodles of Os Official Audio](https://www.youtube.com/watch?v=nAjVaRdBDY0)
+- [De La Soul - Talkin Bout Hey Love Official Audio](https://www.youtube.com/watch?v=iD7ukTFW1fE)
+- [De La Soul - Pease Porridge Official Audio](https://www.youtube.com/watch?v=tY05TpaSTiU)
+- [De La Soul - Skit 1 Official Audio](https://www.youtube.com/watch?v=sz2BMGcaO5A)
+- [De La Soul - Johnnys Dead AKA Vincent Mason Live from the BK Lounge Official Audio](https://www.youtube.com/watch?v=ljMEvoanOZA)
+- [De La Soul - WRMS Dedication to the Bitty Official Audio](https://www.youtube.com/watch?v=1Z0WPcbls5s)
+- [De La Soul - Bitties in the BK Lounge Official Audio](https://www.youtube.com/watch?v=7ESbtYg055M)
 - [Skit 2](https://www.youtube.com/watch?v=82sGVhzjgmE)
-- [De La Soul - My Brother's a Basehead (Official Audio)](https://www.youtube.com/watch?v=V4Px4YUj-14)
-- [De La Soul - Let, Let Me In (Official Audio)](https://www.youtube.com/watch?v=wrBdkM0F9CI)
-- [De La Soul - Afro Connections at a Hi 5 (In the Eyes of the Hoodlum) (Official Audio)](https://www.youtube.com/watch?v=CVLTPnjLq7s)
-- [De La Soul - Rap De Rap Show (Official Audio)](https://www.youtube.com/watch?v=kBawStUwiPM)
-- [De La Soul - Who Do U Worship? (Official Audio)](https://www.youtube.com/watch?v=7ge7fcgk-S4)
+- [De La Soul - My Brothers a Basehead Official Audio](https://www.youtube.com/watch?v=V4Px4YUj-14)
+- [De La Soul - Let Let Me In Official Audio](https://www.youtube.com/watch?v=wrBdkM0F9CI)
+- [De La Soul - Afro Connections at a Hi 5 In the Eyes of the Hoodlum Official Audio](https://www.youtube.com/watch?v=CVLTPnjLq7s)
+- [De La Soul - Rap De Rap Show Official Audio](https://www.youtube.com/watch?v=kBawStUwiPM)
+- [De La Soul - Who Do U Worship Official Audio](https://www.youtube.com/watch?v=7ge7fcgk-S4)
 - [Skit 3](https://www.youtube.com/watch?v=5o7_i8dQgnM)
-- [De La Soul - Kicked Out the House (Official Audio)](https://www.youtube.com/watch?v=JN5TEZ5zgEc)
-- [De La Soul - Pass the Plugs (Official Audio)](https://www.youtube.com/watch?v=h64859-P2uo)
-- [De La Soul - Not Over Till the Fat Lady Plays the Demo (Official Audio)](https://www.youtube.com/watch?v=FTMOTsL1YIE)
-- [De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Audio)](https://www.youtube.com/watch?v=z_VQQvjanm0)
-- [De La Soul - WRMS: Cat's in Control (Official Audio)](https://www.youtube.com/watch?v=uTMi1v1rLVY)
-- [De La Soul - Skit 4 (Official Audio)](https://www.youtube.com/watch?v=cimI8sNRlpk)
-- [De La Soul - Shwingalokate (Official Audio)](https://www.youtube.com/watch?v=T8WCAH1IkEE)
-- [De La Soul - Fanatic of the B Word (Official Audio) ft. Dres](https://www.youtube.com/watch?v=g6phI8IlAqw)
-- [De La Soul - Skit 5 (Official Audio)](https://www.youtube.com/watch?v=escc5AkCXpI)
+- [De La Soul - Kicked Out the House Official Audio](https://www.youtube.com/watch?v=JN5TEZ5zgEc)
+- [De La Soul - Pass the Plugs Official Audio](https://www.youtube.com/watch?v=h64859-P2uo)
+- [De La Soul - Not Over Till the Fat Lady Plays the Demo Official Audio](https://www.youtube.com/watch?v=FTMOTsL1YIE)
+- [De La Soul - Ring Ring Ring Ha Ha Hey Official Audio](https://www.youtube.com/watch?v=z_VQQvjanm0)
+- [De La Soul - WRMS Cats in Control Official Audio](https://www.youtube.com/watch?v=uTMi1v1rLVY)
+- [De La Soul - Skit 4 Official Audio](https://www.youtube.com/watch?v=cimI8sNRlpk)
+- [De La Soul - Shwingalokate Official Audio](https://www.youtube.com/watch?v=T8WCAH1IkEE)
+- [De La Soul - Fanatic of the B Word Official Audio ft Dres](https://www.youtube.com/watch?v=g6phI8IlAqw)
+- [De La Soul - Skit 5 Official Audio](https://www.youtube.com/watch?v=escc5AkCXpI)
 
 ## Release Images
 {{< imageGrid >}}

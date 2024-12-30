@@ -49,36 +49,36 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 
 
 ## Videos
-### Life in One Day, Pt. 1 [2018 Remaster]
-{{< youtube id="dzI32uP4VeA" title="Life in One Day, Pt. 1 [2018 Remaster]" >}}<br>
+### Life in One Day Pt 1 2018 Remaster
+{{< youtube id="dzI32uP4VeA" title="Life in One Day Pt 1 2018 Remaster" >}}<br>
 ### More Videos
 
-- [Dream Into Action [2018 Remaster]](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
+- [Dream Into Action 2018 Remaster](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
 - [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
 - [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
-- [Assault and Battery [2018 Remaster]](https://www.youtube.com/watch?v=kvGPHPBigCE)
-- [Automaton [2018 Remaster]](https://www.youtube.com/watch?v=NKjJtONCJTQ)
-- [Is There a Difference? [2018 Remaster]](https://www.youtube.com/watch?v=GDErX-c1sk0)
-- [Elegy [2018 Remaster]](https://www.youtube.com/watch?v=ZRNyksTuJvs)
-- [Specialty [2018 Remaster]](https://www.youtube.com/watch?v=_WRU1DI_WAc)
-- [Why Look for the Key [2018 Remaster]](https://www.youtube.com/watch?v=yjemLgOCVJg)
-- [Hunger for the Flesh [2018 Remaster]](https://www.youtube.com/watch?v=SMdZKJD_atc)
-- [Howard Jones - Things Can Only Get Better (Remastered Video) (1985)](https://www.youtube.com/watch?v=woWvClE6yHE)
-- [Life in One Day, Pt. 1 [2018 Remaster]](https://www.youtube.com/watch?v=dzI32uP4VeA)
-- [Dream Into Action [2018 Remaster]](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
+- [Assault and Battery 2018 Remaster](https://www.youtube.com/watch?v=kvGPHPBigCE)
+- [Automaton 2018 Remaster](https://www.youtube.com/watch?v=NKjJtONCJTQ)
+- [Is There a Difference 2018 Remaster](https://www.youtube.com/watch?v=GDErX-c1sk0)
+- [Elegy 2018 Remaster](https://www.youtube.com/watch?v=ZRNyksTuJvs)
+- [Specialty 2018 Remaster](https://www.youtube.com/watch?v=_WRU1DI_WAc)
+- [Why Look for the Key 2018 Remaster](https://www.youtube.com/watch?v=yjemLgOCVJg)
+- [Hunger for the Flesh 2018 Remaster](https://www.youtube.com/watch?v=SMdZKJD_atc)
+- [Howard Jones - Things Can Only Get Better Remastered Video 1985](https://www.youtube.com/watch?v=woWvClE6yHE)
+- [Life in One Day Pt 1 2018 Remaster](https://www.youtube.com/watch?v=dzI32uP4VeA)
+- [Dream Into Action 2018 Remaster](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
 - [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
 - [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
-- [Assault and Battery [2018 Remaster]](https://www.youtube.com/watch?v=kvGPHPBigCE)
-- [Automaton [2018 Remaster]](https://www.youtube.com/watch?v=NKjJtONCJTQ)
-- [Is There a Difference? [2018 Remaster]](https://www.youtube.com/watch?v=GDErX-c1sk0)
-- [Elegy [2018 Remaster]](https://www.youtube.com/watch?v=ZRNyksTuJvs)
-- [Specialty [2018 Remaster]](https://www.youtube.com/watch?v=_WRU1DI_WAc)
-- [Why Look for the Key [2018 Remaster]](https://www.youtube.com/watch?v=yjemLgOCVJg)
-- [Hunger for the Flesh [2018 Remaster]](https://www.youtube.com/watch?v=SMdZKJD_atc)
-- [Howard Jones - Things Can Only Get Better (Remastered Video) (1985)](https://www.youtube.com/watch?v=woWvClE6yHE)
+- [Assault and Battery 2018 Remaster](https://www.youtube.com/watch?v=kvGPHPBigCE)
+- [Automaton 2018 Remaster](https://www.youtube.com/watch?v=NKjJtONCJTQ)
+- [Is There a Difference 2018 Remaster](https://www.youtube.com/watch?v=GDErX-c1sk0)
+- [Elegy 2018 Remaster](https://www.youtube.com/watch?v=ZRNyksTuJvs)
+- [Specialty 2018 Remaster](https://www.youtube.com/watch?v=_WRU1DI_WAc)
+- [Why Look for the Key 2018 Remaster](https://www.youtube.com/watch?v=yjemLgOCVJg)
+- [Hunger for the Flesh 2018 Remaster](https://www.youtube.com/watch?v=SMdZKJD_atc)
+- [Howard Jones - Things Can Only Get Better Remastered Video 1985](https://www.youtube.com/watch?v=woWvClE6yHE)
 - [HOWARD JONES - NO ONE IS TO BLAME 1986](https://www.youtube.com/watch?v=1DZuEFbH1Yk)
-- [No One Is to Blame [Single Mix]](https://www.youtube.com/watch?v=IZks4NLXeqw)
-- [Howard Jones - No One Is To Blame [Lyrics]](https://www.youtube.com/watch?v=O_ZjjBXxhqM)
+- [No One Is to Blame Single Mix](https://www.youtube.com/watch?v=IZks4NLXeqw)
+- [Howard Jones - No One Is To Blame Lyrics](https://www.youtube.com/watch?v=O_ZjjBXxhqM)
 
 ## Release Images
 {{< imageGrid >}}

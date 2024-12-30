@@ -48,15 +48,15 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 
 
 ## Videos
-### Pink Floyd - Corporal Clegg (Official Audio)
-{{< youtube id="wIj9NaanYpE" title="Pink Floyd - Corporal Clegg (Official Audio)" >}}<br>
+### Pink Floyd - Corporal Clegg Official Audio
+{{< youtube id="wIj9NaanYpE" title="Pink Floyd - Corporal Clegg Official Audio" >}}<br>
 ### More Videos
 
-- [Pink Floyd - See-Saw (Official Audio)](https://www.youtube.com/watch?v=0JIP-4L7osA)
-- [Pink Floyd - Jugband Blues (Official Audio)](https://www.youtube.com/watch?v=OIU1TNSEgCQ)
-- [Pink Floyd - Let There Be More Light (Official Audio)](https://www.youtube.com/watch?v=lE-cts4_3iU)
-- [Pink Floyd - Set The Controls For The Heart Of The Sun (Official Audio)](https://www.youtube.com/watch?v=JcfgJrHo9XA)
-- [Pink Floyd - Remember a Day (Mono Vinyl)](https://www.youtube.com/watch?v=k74_50B1664)
+- [Pink Floyd - See-Saw Official Audio](https://www.youtube.com/watch?v=0JIP-4L7osA)
+- [Pink Floyd - Jugband Blues Official Audio](https://www.youtube.com/watch?v=OIU1TNSEgCQ)
+- [Pink Floyd - Let There Be More Light Official Audio](https://www.youtube.com/watch?v=lE-cts4_3iU)
+- [Pink Floyd - Set The Controls For The Heart Of The Sun Official Audio](https://www.youtube.com/watch?v=JcfgJrHo9XA)
+- [Pink Floyd - Remember a Day Mono Vinyl](https://www.youtube.com/watch?v=k74_50B1664)
 
 ## Release Images
 {{< imageGrid >}}

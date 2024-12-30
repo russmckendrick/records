@@ -43,8 +43,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Who's Master?
-{{< youtube id="IIJlPaNFWCA" title="Who's Master?" >}}<br>
+### Whos Master
+{{< youtube id="IIJlPaNFWCA" title="Whos Master" >}}<br>
 ### More Videos
 
 - [Dear Maro](https://www.youtube.com/watch?v=D45eq-HByMA)

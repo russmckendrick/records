@@ -54,11 +54,11 @@ Foreign Affair is the seventh solo studio album by Tina Turner, released on Sept
 
 
 ## Videos
-### Tina Turner - Foreign Affair [LP Full Album]
-{{< youtube id="mdxJWqMNf2k" title="Tina Turner - Foreign Affair [LP Full Album]" >}}<br>
+### Tina Turner - Foreign Affair LP Full Album
+{{< youtube id="mdxJWqMNf2k" title="Tina Turner - Foreign Affair LP Full Album" >}}<br>
 ### More Videos
 
-- [Tina Turner - Foreign Affair (Official Music Video)](https://www.youtube.com/watch?v=nWYG3kWwDHU)
+- [Tina Turner - Foreign Affair Official Music Video](https://www.youtube.com/watch?v=nWYG3kWwDHU)
 
 ## Release Images
 {{< imageGrid >}}

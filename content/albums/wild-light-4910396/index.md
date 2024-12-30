@@ -57,23 +57,23 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 ### More Videos
 
 - [65daysofstatic - PRISMS](https://www.youtube.com/watch?v=geMmsM43N4Y)
-- [Taipei (Wild Light) - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
+- [Taipei Wild Light - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
 - [65daysofstatic - The Undertow](https://www.youtube.com/watch?v=8JdO4yg0_8U)
 - [65daysofstatic - Taipei](https://www.youtube.com/watch?v=QE5A2Y-MTJ8)
 - [65daysofstatic - Sleepwalk City](https://www.youtube.com/watch?v=N67mw_1Iz-A)
 - [65daysofstatic - Heat Death Infinity Splitter](https://www.youtube.com/watch?v=WGuHD3dIOWg)
 - [65daysofstatic - Blackspots](https://www.youtube.com/watch?v=GxLneEgGYm8)
-- [65daysofstatic - Prisms - [Journey Day 8]](https://www.youtube.com/watch?v=8LvxtskPltE)
+- [65daysofstatic - Prisms - Journey Day 8](https://www.youtube.com/watch?v=8LvxtskPltE)
 - [65daysofstatic - Unmake the Wild Light](https://www.youtube.com/watch?v=XUufXQm3NqI)
 - [65daysofstatic - Safe Passage](https://www.youtube.com/watch?v=V480DQCRSJ0)
 - [65daysofstatic - PRISMS](https://www.youtube.com/watch?v=geMmsM43N4Y)
-- [Taipei (Wild Light) - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
+- [Taipei Wild Light - 65daysofstatic](https://www.youtube.com/watch?v=eH8NAUum0Tk)
 - [65daysofstatic - The Undertow](https://www.youtube.com/watch?v=8JdO4yg0_8U)
 - [65daysofstatic - Taipei](https://www.youtube.com/watch?v=QE5A2Y-MTJ8)
 - [65daysofstatic - Sleepwalk City](https://www.youtube.com/watch?v=N67mw_1Iz-A)
 - [65daysofstatic - Heat Death Infinity Splitter](https://www.youtube.com/watch?v=WGuHD3dIOWg)
 - [65daysofstatic - Blackspots](https://www.youtube.com/watch?v=GxLneEgGYm8)
-- [65daysofstatic - Prisms - [Journey Day 8]](https://www.youtube.com/watch?v=8LvxtskPltE)
+- [65daysofstatic - Prisms - Journey Day 8](https://www.youtube.com/watch?v=8LvxtskPltE)
 - [65daysofstatic - Unmake the Wild Light](https://www.youtube.com/watch?v=XUufXQm3NqI)
 
 ## Release Images

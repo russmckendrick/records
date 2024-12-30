@@ -144,10 +144,10 @@ One thing that distinguishes the Ramones from the punk bands that followed them 
 {{< youtube id="NQDPx_k66w4" title="Blitzkrieg Bop" >}}<br>
 ### More Videos
 
-- [Havana Affair (2016 Remaster)](https://www.youtube.com/watch?v=FFFr2BIft-c)
-- [Chain Saw (2016 Remaster)](https://www.youtube.com/watch?v=aka98A0Ekrw)
-- [53rd & 3rd (2016 Remaster)](https://www.youtube.com/watch?v=jJ_q5Zu3LSg)
-- [Let's Dance (2016 Remaster)](https://www.youtube.com/watch?v=W3rynG8PF0I)
+- [Havana Affair 2016 Remaster](https://www.youtube.com/watch?v=FFFr2BIft-c)
+- [Chain Saw 2016 Remaster](https://www.youtube.com/watch?v=aka98A0Ekrw)
+- [53rd  3rd 2016 Remaster](https://www.youtube.com/watch?v=jJ_q5Zu3LSg)
+- [Lets Dance 2016 Remaster](https://www.youtube.com/watch?v=W3rynG8PF0I)
 
 ## Release Images
 {{< imageGrid >}}

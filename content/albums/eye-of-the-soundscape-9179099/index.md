@@ -55,19 +55,19 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 
 
 ## Videos
-### Rapid Eye Movement (2016 mix)
-{{< youtube id="oifjq7YHyAg" title="Rapid Eye Movement (2016 mix)" >}}<br>
+### Rapid Eye Movement 2016 mix
+{{< youtube id="oifjq7YHyAg" title="Rapid Eye Movement 2016 mix" >}}<br>
 ### More Videos
 
-- [Riverside - Rapid Eye Movement (2016 Mix) [HQ/HD]](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
+- [Riverside - Rapid Eye Movement 2016 Mix HQHD](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
 - [Riverside - Rainbow Trip](https://www.youtube.com/watch?v=McNam4CH7VE)
-- [Riverside -  Rainbow Trip (2016)](https://www.youtube.com/watch?v=K1tM7opVaLk)
-- [Rapid Eye Movement (2016 mix)](https://www.youtube.com/watch?v=oifjq7YHyAg)
-- [Riverside - Rapid Eye Movement (2016 Mix) [HQ/HD]](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
+- [Riverside -  Rainbow Trip 2016](https://www.youtube.com/watch?v=K1tM7opVaLk)
+- [Rapid Eye Movement 2016 mix](https://www.youtube.com/watch?v=oifjq7YHyAg)
+- [Riverside - Rapid Eye Movement 2016 Mix HQHD](https://www.youtube.com/watch?v=XY-6Dm6Q_kE)
 - [Riverside - Rainbow Trip](https://www.youtube.com/watch?v=McNam4CH7VE)
-- [Riverside -  Rainbow Trip (2016)](https://www.youtube.com/watch?v=K1tM7opVaLk)
-- [Riverside - Eye Of The Soundscape (2016)](https://www.youtube.com/watch?v=2a4gOzONptk)
-- [RIVERSIDE -  Where The River Flows (Album Track)](https://www.youtube.com/watch?v=tBTZJLXOptM)
+- [Riverside -  Rainbow Trip 2016](https://www.youtube.com/watch?v=K1tM7opVaLk)
+- [Riverside - Eye Of The Soundscape 2016](https://www.youtube.com/watch?v=2a4gOzONptk)
+- [RIVERSIDE -  Where The River Flows Album Track](https://www.youtube.com/watch?v=tBTZJLXOptM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -61,14 +61,14 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 
 
 ## Videos
-### Op͟e͟t͟h - So͟r͟c͟e͟r͟e͟s͟s (Full Album 2016)
-{{< youtube id="7q_8B1UbEJc" title="Op͟e͟t͟h - So͟r͟c͟e͟r͟e͟s͟s (Full Album 2016)" >}}<br>
+### Opeth - Sorceress Full Album 2016
+{{< youtube id="7q_8B1UbEJc" title="Opeth - Sorceress Full Album 2016" >}}<br>
 ### More Videos
 
-- [OPETH - Sorceress (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=LhqijfqecvA)
-- [OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=O9vA6dJJX-8)
-- [OPETH - Will O The Wisp (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=Kfpnwk-DXrA)
-- [OPETH - Era (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=98wXIjkO4i0)
+- [OPETH - Sorceress OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=LhqijfqecvA)
+- [OPETH - The Wilde Flowers OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=O9vA6dJJX-8)
+- [OPETH - Will O The Wisp OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=Kfpnwk-DXrA)
+- [OPETH - Era OFFICIAL VIDEO](https://www.youtube.com/watch?v=98wXIjkO4i0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -46,30 +46,30 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 
 
 ## Videos
-### Bob Mould "Sunshine Rock"
-{{< youtube id="ZHQUyZnS7qo" title="Bob Mould "Sunshine Rock"" >}}<br>
+### Bob Mould Sunshine Rock
+{{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}<br>
 ### More Videos
 
-- [Bob Mould "What Do You Want Me To Do"](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
+- [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
 - [Sunny Love Song](https://www.youtube.com/watch?v=Kv8-ZmbyZjY)
 - [Thirty Dozen Roses](https://www.youtube.com/watch?v=zvyIL74yvmo)
 - [The Final Years](https://www.youtube.com/watch?v=j36m1AC0zPY)
 - [Irrational Poison](https://www.youtube.com/watch?v=cgzj05GJ1rI)
 - [I Fought](https://www.youtube.com/watch?v=Jy6BiFtOaUI)
 - [Sin King](https://www.youtube.com/watch?v=tS6Si9293cY)
-- [Bob Mould - Lost Faith (Official Music Video)](https://www.youtube.com/watch?v=k5F-aj171QM)
+- [Bob Mould - Lost Faith Official Music Video](https://www.youtube.com/watch?v=k5F-aj171QM)
 - [Camp Sunshine](https://www.youtube.com/watch?v=MVh-qMaDgMA)
 - [Send Me A Postcard](https://www.youtube.com/watch?v=K3SXCtRF7Lc)
 - [Western Sunset](https://www.youtube.com/watch?v=hV2bYn_jmlA)
-- [Bob Mould "Sunshine Rock"](https://www.youtube.com/watch?v=ZHQUyZnS7qo)
-- [Bob Mould "What Do You Want Me To Do"](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
+- [Bob Mould Sunshine Rock](https://www.youtube.com/watch?v=ZHQUyZnS7qo)
+- [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
 - [Sunny Love Song](https://www.youtube.com/watch?v=Kv8-ZmbyZjY)
 - [Thirty Dozen Roses](https://www.youtube.com/watch?v=zvyIL74yvmo)
 - [The Final Years](https://www.youtube.com/watch?v=j36m1AC0zPY)
 - [Irrational Poison](https://www.youtube.com/watch?v=cgzj05GJ1rI)
 - [I Fought](https://www.youtube.com/watch?v=Jy6BiFtOaUI)
 - [Sin King](https://www.youtube.com/watch?v=tS6Si9293cY)
-- [Bob Mould - Lost Faith (Official Music Video)](https://www.youtube.com/watch?v=k5F-aj171QM)
+- [Bob Mould - Lost Faith Official Music Video](https://www.youtube.com/watch?v=k5F-aj171QM)
 - [Camp Sunshine](https://www.youtube.com/watch?v=MVh-qMaDgMA)
 - [Send Me A Postcard](https://www.youtube.com/watch?v=K3SXCtRF7Lc)
 - [Western Sunset](https://www.youtube.com/watch?v=hV2bYn_jmlA)

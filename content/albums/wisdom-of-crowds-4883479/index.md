@@ -50,14 +50,14 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 
 
 ## Videos
-### Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)
-{{< youtube id="P66D8U7xxh8" title="Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)" >}}<br>
+### Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds
+{{< youtube id="P66D8U7xxh8" title="Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds" >}}<br>
 ### More Videos
 
-- [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
-- [Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)](https://www.youtube.com/watch?v=P66D8U7xxh8)
-- [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
-- [Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)](https://www.youtube.com/watch?v=3XUcKhremjE)
+- [Bruce Soord  Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
+- [Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds](https://www.youtube.com/watch?v=P66D8U7xxh8)
+- [Bruce Soord  Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
+- [Bruce Soord With Jonas Renkse Katatonia -  Wisdom Of Crowds 2013](https://www.youtube.com/watch?v=3XUcKhremjE)
 
 ## Release Images
 {{< imageGrid >}}

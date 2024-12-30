@@ -48,8 +48,8 @@ How to Make Friends and Influence People is the second album by the rock band Te
 
 
 ## Videos
-### Terrorvision - Alice, What's the matter?
-{{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice, What's the matter?" >}}<br>
+### Terrorvision - Alice Whats the matter
+{{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice Whats the matter" >}}<br>
 ### More Videos
 
 - [Terrorvision - Oblivion](https://www.youtube.com/watch?v=5RIlRhXXQjg)
@@ -57,8 +57,8 @@ How to Make Friends and Influence People is the second album by the rock band Te
 - [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
 - [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
 - [Stop the Bus](https://www.youtube.com/watch?v=MG2PtSSNbho)
-- [Terrorvision – Some People Say](https://www.youtube.com/watch?v=4IuL7EDHPi8)
-- [Time O' the Signs](https://www.youtube.com/watch?v=Y5LS9iSIJv4)
+- [Terrorvision  Some People Say](https://www.youtube.com/watch?v=4IuL7EDHPi8)
+- [Time O the Signs](https://www.youtube.com/watch?v=Y5LS9iSIJv4)
 
 ## Release Images
 {{< imageGrid >}}

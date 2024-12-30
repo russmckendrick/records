@@ -82,9 +82,9 @@ styles: ["Prog Rock", "Progressive Metal"]
 {{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [Katatonia - Behind The Blood (from City Burials)](https://www.youtube.com/watch?v=nQaN2elJ-dQ)
-- [Katatonia - The Winter of our Passing (from City Burials)](https://www.youtube.com/watch?v=mnWkTAB-ceg)
-- [Katatonia - Lacquer (from City Burials)](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
+- [Katatonia - Behind The Blood from City Burials](https://www.youtube.com/watch?v=nQaN2elJ-dQ)
+- [Katatonia - The Winter of our Passing from City Burials](https://www.youtube.com/watch?v=mnWkTAB-ceg)
+- [Katatonia - Lacquer from City Burials](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
 ## Release Images
 {{< imageGrid >}}

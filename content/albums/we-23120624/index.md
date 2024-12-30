@@ -52,18 +52,18 @@ Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)
 
 
 ## Videos
-### Arcade Fire - WE (Full Album)
-{{< youtube id="Pi_k6O5AczM" title="Arcade Fire - WE (Full Album)" >}}<br>
+### Arcade Fire - WE Full Album
+{{< youtube id="Pi_k6O5AczM" title="Arcade Fire - WE Full Album" >}}<br>
 ### More Videos
 
-- [Arcade Fire - The Lightning I, II (Official Video)](https://www.youtube.com/watch?v=qJiALpiqpk8)
+- [Arcade Fire - The Lightning I II Official Video](https://www.youtube.com/watch?v=qJiALpiqpk8)
 - [Age of Anxiety I](https://www.youtube.com/watch?v=IH_qgFWOg2I)
-- [Age of Anxiety II (Rabbit Hole)](https://www.youtube.com/watch?v=SR9kwm5iF8Y)
+- [Age of Anxiety II Rabbit Hole](https://www.youtube.com/watch?v=SR9kwm5iF8Y)
 - [End of The Empire I-III](https://www.youtube.com/watch?v=dFX5g7kyX9g)
-- [End of the Empire IV (Sagittarius A*)](https://www.youtube.com/watch?v=YNFEs3JKMeA)
-- [Arcade Fire - Unconditional I (Lookout Kid) (Official Video)](https://www.youtube.com/watch?v=FdXRbOrsyRY)
-- [Arcade Fire - Unconditional II (Race and Religion) (Official Audio) ft. Peter Gabriel](https://www.youtube.com/watch?v=dXGUMVoOPlk)
-- [Arcade Fire - WE (Official Audio)](https://www.youtube.com/watch?v=X4MHYNGmqng)
+- [End of the Empire IV Sagittarius A](https://www.youtube.com/watch?v=YNFEs3JKMeA)
+- [Arcade Fire - Unconditional I Lookout Kid Official Video](https://www.youtube.com/watch?v=FdXRbOrsyRY)
+- [Arcade Fire - Unconditional II Race and Religion Official Audio ft Peter Gabriel](https://www.youtube.com/watch?v=dXGUMVoOPlk)
+- [Arcade Fire - WE Official Audio](https://www.youtube.com/watch?v=X4MHYNGmqng)
 
 ## Release Images
 {{< imageGrid >}}

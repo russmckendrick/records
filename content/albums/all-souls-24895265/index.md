@@ -46,11 +46,11 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls
-{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls" >}}<br>
+### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
+{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>
 ### More Videos
 
-- [Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls](https://www.youtube.com/watch?v=XmEasAdZo7s)
+- [Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls](https://www.youtube.com/watch?v=XmEasAdZo7s)
 
 ## Release Images
 {{< imageGrid >}}

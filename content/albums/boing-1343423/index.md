@@ -44,12 +44,12 @@ styles: ["Indie Rock"]
 {{< youtube id="juzGy3-fGpg" title="Airhead - Right Now" >}}<br>
 ### More Videos
 
-- [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
-- [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
-- [Airhead - Funny How (Official Music Video)](https://www.youtube.com/watch?v=17Zfcq6cq2g)
+- [Airhead - Counting Sheep OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=frNsD1ktDlk)
+- [Airhead - Scrap Happy OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=2xpANQbpbkw)
+- [Airhead - Funny How Official Music Video](https://www.youtube.com/watch?v=17Zfcq6cq2g)
 - [Airhead - Right Now](https://www.youtube.com/watch?v=juzGy3-fGpg)
-- [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
-- [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
+- [Airhead - Counting Sheep OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=frNsD1ktDlk)
+- [Airhead - Scrap Happy OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=2xpANQbpbkw)
 
 ## Release Images
 {{< imageGrid >}}

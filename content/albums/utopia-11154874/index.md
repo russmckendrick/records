@@ -61,11 +61,11 @@ Avant-garde folktronica and 12-piece Icelandic flute sections don’t exactly le
 
 
 ## Videos
-### Björk - Utopia (Full Album)
-{{< youtube id="G_TEFlZpwEQ" title="Björk - Utopia (Full Album)" >}}<br>
+### Björk - Utopia Full Album
+{{< youtube id="G_TEFlZpwEQ" title="Björk - Utopia Full Album" >}}<br>
 ### More Videos
 
-- [Björk - Utopia (Full Album)](https://www.youtube.com/watch?v=G_TEFlZpwEQ)
+- [Björk - Utopia Full Album](https://www.youtube.com/watch?v=G_TEFlZpwEQ)
 
 ## Release Images
 {{< imageGrid >}}

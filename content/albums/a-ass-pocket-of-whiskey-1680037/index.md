@@ -46,8 +46,8 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 
 
 ## Videos
-### R. L. BURNSIDE - A Pocket Ass of Whiskey (Full Album)
-{{< youtube id="jI5qCXuD4Y4" title="R. L. BURNSIDE - A Pocket Ass of Whiskey (Full Album)" >}}<br>
+### R L BURNSIDE - A Pocket Ass of Whiskey Full Album
+{{< youtube id="jI5qCXuD4Y4" title="R L BURNSIDE - A Pocket Ass of Whiskey Full Album" >}}<br>
 
 
 ## Release Images

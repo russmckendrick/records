@@ -51,7 +51,7 @@ The album peaked at number 95 on the Billboard 200 and reached number 16 on the 
 - [Leash Called Love](https://www.youtube.com/watch?v=n8lS3e4WfzM)
 - [Lucky Night](https://www.youtube.com/watch?v=qrSU_sEJwVM)
 - [Happy Nurse](https://www.youtube.com/watch?v=3qc3PMx9zOg)
-- [I'm Hungry](https://www.youtube.com/watch?v=3EXujmMAJfk)
+- [Im Hungry](https://www.youtube.com/watch?v=3EXujmMAJfk)
 - [Walkabout](https://www.youtube.com/watch?v=NpvIj20Uo48)
 - [Hetero Scum](https://www.youtube.com/watch?v=Tce1CYTUGio)
 - [Vitamin](https://www.youtube.com/watch?v=o5SEHe_PrGI)

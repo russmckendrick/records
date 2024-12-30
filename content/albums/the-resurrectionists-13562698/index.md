@@ -49,8 +49,8 @@ styles: ["Post Rock", "Prog Rock"]
 
 - [Burnt Reynolds - Crippled Black Phoenix](https://www.youtube.com/watch?v=NEdlia-p8xc)
 - [Crippled black phoenix - Song for the loved](https://www.youtube.com/watch?v=6tmPo9F5wgw)
-- [200 Tons of Bad Luck (Remastered)](https://www.youtube.com/watch?v=rwPIbMiYUMQ)
-- [Rise up and Fight (Remastered)](https://www.youtube.com/watch?v=GO7yxjWo77c)
+- [200 Tons of Bad Luck Remastered](https://www.youtube.com/watch?v=rwPIbMiYUMQ)
+- [Rise up and Fight Remastered](https://www.youtube.com/watch?v=GO7yxjWo77c)
 
 ## Release Images
 {{< imageGrid >}}

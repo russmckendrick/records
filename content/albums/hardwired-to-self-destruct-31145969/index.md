@@ -51,11 +51,11 @@ Hardwired... to Self-Destruct was Metallica's sixth consecutive studio album to 
 
 
 ## Videos
-### Metallica - Hardwired... to Self-Destruct (FULL HD)
-{{< youtube id="dUfYDWOk1ms" title="Metallica - Hardwired... to Self-Destruct (FULL HD)" >}}<br>
+### Metallica - Hardwired to Self-Destruct FULL HD
+{{< youtube id="dUfYDWOk1ms" title="Metallica - Hardwired to Self-Destruct FULL HD" >}}<br>
 ### More Videos
 
-- [Metallica - Hardwired...yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=GWtyQivWKHM)
+- [Metallica - Hardwiredyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=GWtyQivWKHM)
 
 ## Release Images
 {{< imageGrid >}}

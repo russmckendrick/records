@@ -48,18 +48,18 @@ The cover art work features the launch phase of a UGM-84 Harpoon submarine missi
 {{< youtube id="RgLGLZuijRU" title="Run To Mummy" >}}<br>
 ### More Videos
 
-- [Coming And Going (Writing Demo)](https://www.youtube.com/watch?v=W6aZ4ll8_0o)
+- [Coming And Going Writing Demo](https://www.youtube.com/watch?v=W6aZ4ll8_0o)
 - [Over The Edge](https://www.youtube.com/watch?v=7wds-zUmYa0)
 - [Coming And Going](https://www.youtube.com/watch?v=8dhqFZ1JJrI)
 - [Lies](https://www.youtube.com/watch?v=n01imnZM2d8)
 - [Coming And Going](https://www.youtube.com/watch?v=3PeQi_6jfRo)
-- [What You're Proposing (Live)](https://www.youtube.com/watch?v=peUCm0vcj88)
+- [What Youre Proposing Live](https://www.youtube.com/watch?v=peUCm0vcj88)
 - [The Wild Ones](https://www.youtube.com/watch?v=DBJl2S7OFOg)
-- [Don't Drive My Car (Live)](https://www.youtube.com/watch?v=pkkK1YXqeIo)
-- [Over The Edge (Live)](https://www.youtube.com/watch?v=8Qg62pnQCPs)
+- [Dont Drive My Car Live](https://www.youtube.com/watch?v=pkkK1YXqeIo)
+- [Over The Edge Live](https://www.youtube.com/watch?v=8Qg62pnQCPs)
 - [A B Blues](https://www.youtube.com/watch?v=j_g-yFQqnzM)
-- [Something 'Bout You Baby I Like (Live)](https://www.youtube.com/watch?v=N7rHCT4ztTA)
-- [What You're Proposing](https://www.youtube.com/watch?v=_b0WCJKX0xg)
+- [Something Bout You Baby I Like Live](https://www.youtube.com/watch?v=N7rHCT4ztTA)
+- [What Youre Proposing](https://www.youtube.com/watch?v=_b0WCJKX0xg)
 
 ## Release Images
 {{< imageGrid >}}

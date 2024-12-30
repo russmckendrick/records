@@ -44,8 +44,8 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 
 
 ## Videos
-### Genesis - Supper's Ready (Official Audio)
-{{< youtube id="9hKYpNpajpI" title="Genesis - Supper's Ready (Official Audio)" >}}<br>
+### Genesis - Suppers Ready Official Audio
+{{< youtube id="9hKYpNpajpI" title="Genesis - Suppers Ready Official Audio" >}}<br>
 
 
 ## Release Images

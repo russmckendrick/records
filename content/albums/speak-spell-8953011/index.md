@@ -50,8 +50,8 @@ Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debu
 
 
 ## Videos
-### Depeche Mode - Speak And Spell (full album)
-{{< youtube id="m1A9USD8NJk" title="Depeche Mode - Speak And Spell (full album)" >}}<br>
+### Depeche Mode - Speak And Spell full album
+{{< youtube id="m1A9USD8NJk" title="Depeche Mode - Speak And Spell full album" >}}<br>
 
 
 ## Release Images

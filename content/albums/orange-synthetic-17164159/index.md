@@ -44,15 +44,15 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 {{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}<br>
 ### More Videos
 
-- [A Father's Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
-- [Pretty Mire, Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
+- [A Fathers Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
+- [Pretty Mire Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
-- [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
+- [Its The End The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 - [Orange Synthetic](https://www.youtube.com/watch?v=P6-IRZINYYM)
-- [A Father's Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
-- [Pretty Mire, Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
+- [A Fathers Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
+- [Pretty Mire Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
 - [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
-- [It's The End, The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
+- [Its The End The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 
 ## Release Images
 {{< imageGrid >}}

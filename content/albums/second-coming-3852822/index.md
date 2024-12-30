@@ -64,7 +64,7 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 - [How Do You Sleep](https://www.youtube.com/watch?v=Z-0mj4rJ0Zg)
 - [The Stone Roses - Second Coming - Track 90  Foz](https://www.youtube.com/watch?v=L_5dZGXatFI)
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
-- [The Stone Roses - Love Spreads (with lyrics)](https://www.youtube.com/watch?v=852fIw_I84I)
+- [The Stone Roses - Love Spreads with lyrics](https://www.youtube.com/watch?v=852fIw_I84I)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 
 ## Release Images

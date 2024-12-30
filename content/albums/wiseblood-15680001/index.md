@@ -58,7 +58,7 @@ Wiseblood is the fifth studio album by American heavy metal band Corrosion of Co
 {{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}<br>
 ### More Videos
 
-- [CORROSION OF CONFORMITY- Wiseblood 2X Vinyl (Full Album) HD](https://www.youtube.com/watch?v=ENhk9xq1fA4)
+- [CORROSION OF CONFORMITY- Wiseblood 2X Vinyl Full Album HD](https://www.youtube.com/watch?v=ENhk9xq1fA4)
 
 ## Release Images
 {{< imageGrid >}}

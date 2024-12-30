@@ -63,12 +63,12 @@ Upon its release, the band made their dissatisfaction with the album public, inf
 
 
 ## Videos
-### It's Not Too Beautiful
-{{< youtube id="-41N62ps1jc" title="It's Not Too Beautiful" >}}<br>
+### Its Not Too Beautiful
+{{< youtube id="-41N62ps1jc" title="Its Not Too Beautiful" >}}<br>
 ### More Videos
 
 - [The Hard One](https://www.youtube.com/watch?v=QbHZOoZ10VQ)
-- [The Beta Band - The Beta Band (Full Album)](https://www.youtube.com/watch?v=shIRuXRPKBA)
+- [The Beta Band - The Beta Band Full Album](https://www.youtube.com/watch?v=shIRuXRPKBA)
 
 ## Release Images
 {{< imageGrid >}}

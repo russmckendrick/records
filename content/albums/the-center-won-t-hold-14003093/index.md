@@ -71,12 +71,12 @@ Tucker: “This song is really about realising that there's some social justice 
 
 
 ## Videos
-### Sleater-Kinney - The Center Won't Hold (Official Lyric Video)
-{{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Won't Hold (Official Lyric Video)" >}}<br>
+### Sleater-Kinney - The Center Wont Hold Official Lyric Video
+{{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Wont Hold Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Sleater-Kinney - The Future Is Here (Official Lyric Video)](https://www.youtube.com/watch?v=MP_2p79Ems4)
-- [Sleater-Kinney - Can I Go On (Official Video)](https://www.youtube.com/watch?v=pB08AUiTP3w)
+- [Sleater-Kinney - The Future Is Here Official Lyric Video](https://www.youtube.com/watch?v=MP_2p79Ems4)
+- [Sleater-Kinney - Can I Go On Official Video](https://www.youtube.com/watch?v=pB08AUiTP3w)
 
 ## Release Images
 {{< imageGrid >}}

@@ -81,13 +81,13 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 
 
 ## Videos
-### STARS - Fixed [Official Music Video]
-{{< youtube id="17jdZdVmEuk" title="STARS - Fixed [Official Music Video]" >}}<br>
+### STARS - Fixed Official Music Video
+{{< youtube id="17jdZdVmEuk" title="STARS - Fixed Official Music Video" >}}<br>
 ### More Videos
 
-- [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
-- [The Five Ghosts - Making Of, Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
-- [The Five Ghosts - Making Of, Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
+- [Stars - Dead Hearts Official Video](https://www.youtube.com/watch?v=OQT2HVfxJu4)
+- [The Five Ghosts - Making Of Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
+- [The Five Ghosts - Making Of Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
 - [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 
 ## Release Images

@@ -49,14 +49,14 @@ The album's title refers to the band members themselves: they would call themsel
 
 
 ## Videos
-### Heart - Bad Animals (Cassette, 1987)
-{{< youtube id="8-ofSIiHzYs" title="Heart - Bad Animals (Cassette, 1987)" >}}<br>
+### Heart - Bad Animals Cassette 1987
+{{< youtube id="8-ofSIiHzYs" title="Heart - Bad Animals Cassette 1987" >}}<br>
 ### More Videos
 
-- [Heart - Bad Animals Cassette 1987! #rock #music #heart #badanimals #cassette #shorts #retro](https://www.youtube.com/watch?v=3GpR_yYtYWw)
-- [LP / Heart – Bad Animals / 1987](https://www.youtube.com/watch?v=hQUXiPmzPO0)
-- [Alone | Heart | Bad Animals | 1987 Capitol LP](https://www.youtube.com/watch?v=3sqzLkVGdMc)
-- [H͟e͟art͟ ͟B͟ad͟ ͟A͟n͟i͟m͟als͟ full album 1987](https://www.youtube.com/watch?v=-doxB3oSH0k)
+- [Heart - Bad Animals Cassette 1987 rock music heart badanimals cassette shorts retro](https://www.youtube.com/watch?v=3GpR_yYtYWw)
+- [LP  Heart  Bad Animals  1987](https://www.youtube.com/watch?v=hQUXiPmzPO0)
+- [Alone  Heart  Bad Animals  1987 Capitol LP](https://www.youtube.com/watch?v=3sqzLkVGdMc)
+- [Heart Bad Animals full album 1987](https://www.youtube.com/watch?v=-doxB3oSH0k)
 
 ## Release Images
 {{< imageGrid >}}

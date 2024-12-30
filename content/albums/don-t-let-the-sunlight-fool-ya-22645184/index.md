@@ -54,13 +54,13 @@ styles: ["Ska"]
 
 
 ## Videos
-### The Slackers - "Don't Let The Sunlight Fool Ya" (Official Music Video)
-{{< youtube id="dHdQCb71Fws" title="The Slackers - "Don't Let The Sunlight Fool Ya" (Official Music Video)" >}}<br>
+### The Slackers - Dont Let The Sunlight Fool Ya Official Music Video
+{{< youtube id="dHdQCb71Fws" title="The Slackers - Dont Let The Sunlight Fool Ya Official Music Video" >}}<br>
 ### More Videos
 
-- [Don't Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
-- [The Slackers - "Don't Let The Sunlight Fool Ya" (Official Music Video)](https://www.youtube.com/watch?v=dHdQCb71Fws)
-- [Don't Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
+- [Dont Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
+- [The Slackers - Dont Let The Sunlight Fool Ya Official Music Video](https://www.youtube.com/watch?v=dHdQCb71Fws)
+- [Dont Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
 
 ## Release Images
 {{< imageGrid >}}

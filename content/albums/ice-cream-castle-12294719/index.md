@@ -51,7 +51,7 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 - [Ice Cream Castles](https://www.youtube.com/watch?v=FI2pPT_GqPs)
 - [My Drawers](https://www.youtube.com/watch?v=tgWUiYexXsI)
 - [Chili Sauce](https://www.youtube.com/watch?v=-vjYu3B6kfU)
-- [If the Kid Can't Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
+- [If the Kid Cant Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
 - [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
 ## Release Images

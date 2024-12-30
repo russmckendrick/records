@@ -63,8 +63,8 @@ Belinda is the debut studio album by American singer Belinda Carlisle. It was re
 
 
 ## Videos
-### Belinda Carlisle - Mad About You (4K Version)
-{{< youtube id="OPzF5S2dgfA" title="Belinda Carlisle - Mad About You (4K Version)" >}}<br>
+### Belinda Carlisle - Mad About You 4K Version
+{{< youtube id="OPzF5S2dgfA" title="Belinda Carlisle - Mad About You 4K Version" >}}<br>
 
 
 ## Release Images

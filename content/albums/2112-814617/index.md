@@ -45,8 +45,8 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 
 
 ## Videos
-### 2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle: The Dream /...
-{{< youtube id="w5jwxrTqoEA" title="2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle: The Dream /..." >}}<br>
+### 2112 Overture  The Temples Of Syrinx  Discovery  Presentation  Oracle The Dream 
+{{< youtube id="w5jwxrTqoEA" title="2112 Overture  The Temples Of Syrinx  Discovery  Presentation  Oracle The Dream " >}}<br>
 
 
 ## Release Images

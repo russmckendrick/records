@@ -76,15 +76,15 @@ On the back of significant media attention and a "disproportionately high press 
 
 
 ## Videos
-### Manic Street Preachers - You Love Us (Clean Version)
-{{< youtube id="FgKXBJ2LZKo" title="Manic Street Preachers - You Love Us (Clean Version)" >}}<br>
+### Manic Street Preachers - You Love Us Clean Version
+{{< youtube id="FgKXBJ2LZKo" title="Manic Street Preachers - You Love Us Clean Version" >}}<br>
 ### More Videos
 
 - [Manic Street Preachers - Little Baby Nothing](https://www.youtube.com/watch?v=wM3N54avEQc)
-- [Manic Street Preachers - Love's Sweet Exile](https://www.youtube.com/watch?v=hQS1czT0Egg)
-- [Manic Street Preachers - Motorcycle Emptiness (Official Video)](https://www.youtube.com/watch?v=gavcjNniIvk)
+- [Manic Street Preachers - Loves Sweet Exile](https://www.youtube.com/watch?v=hQS1czT0Egg)
+- [Manic Street Preachers - Motorcycle Emptiness Official Video](https://www.youtube.com/watch?v=gavcjNniIvk)
 - [Manic Street Preachers - Stay Beautiful](https://www.youtube.com/watch?v=hM_oov3dU6A)
-- [Manic Street Preachers - Slash 'N' Burn (Video)](https://www.youtube.com/watch?v=b8a1WEjLqUw)
+- [Manic Street Preachers - Slash N Burn Video](https://www.youtube.com/watch?v=b8a1WEjLqUw)
 
 ## Release Images
 {{< imageGrid >}}

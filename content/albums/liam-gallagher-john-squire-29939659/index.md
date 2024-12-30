@@ -57,14 +57,14 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 
 
 ## Videos
-### Liam Gallagher & John Squire - Just Another Rainbow (Official Video)
-{{< youtube id="oOS0VlHNkqE" title="Liam Gallagher & John Squire - Just Another Rainbow (Official Video)" >}}<br>
+### Liam Gallagher  John Squire - Just Another Rainbow Official Video
+{{< youtube id="oOS0VlHNkqE" title="Liam Gallagher  John Squire - Just Another Rainbow Official Video" >}}<br>
 ### More Videos
 
-- [Liam Gallagher & John Squire - Mars To Liverpool (Official Video)](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
-- [Liam Gallagher & John Squire - Just Another Rainbow (Official Video)](https://www.youtube.com/watch?v=oOS0VlHNkqE)
-- [Liam Gallagher & John Squire - Mars To Liverpool (Official Video)](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
-- [Liam Gallagher & John Squire - Raise Your Hands (Official Video)](https://www.youtube.com/watch?v=1uQtZDTGM14)
+- [Liam Gallagher  John Squire - Mars To Liverpool Official Video](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
+- [Liam Gallagher  John Squire - Just Another Rainbow Official Video](https://www.youtube.com/watch?v=oOS0VlHNkqE)
+- [Liam Gallagher  John Squire - Mars To Liverpool Official Video](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
+- [Liam Gallagher  John Squire - Raise Your Hands Official Video](https://www.youtube.com/watch?v=1uQtZDTGM14)
 
 ## Release Images
 {{< imageGrid >}}

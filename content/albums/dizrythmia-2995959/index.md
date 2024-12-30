@@ -50,11 +50,11 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 
 
 ## Videos
-### Split Enz - Bold As Brass (Official Video)
-{{< youtube id="gTO8lUYi7lc" title="Split Enz - Bold As Brass (Official Video)" >}}<br>
+### Split Enz - Bold As Brass Official Video
+{{< youtube id="gTO8lUYi7lc" title="Split Enz - Bold As Brass Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - My Mistake (Official Video)](https://www.youtube.com/watch?v=LjUoaP8xbSQ)
+- [Split Enz - My Mistake Official Video](https://www.youtube.com/watch?v=LjUoaP8xbSQ)
 
 ## Release Images
 {{< imageGrid >}}

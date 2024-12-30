@@ -46,15 +46,15 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 
 
 ## Videos
-### The SUGARCUBES – Life's Too Good – 1988 – Full album – Vinyl
-{{< youtube id="6vd1cHybP-o" title="The SUGARCUBES – Life's Too Good – 1988 – Full album – Vinyl" >}}<br>
+### The SUGARCUBES  Lifes Too Good  1988  Full album  Vinyl
+{{< youtube id="6vd1cHybP-o" title="The SUGARCUBES  Lifes Too Good  1988  Full album  Vinyl" >}}<br>
 ### More Videos
 
-- [The Sugarcubes - Birthday (Lifes too good)](https://www.youtube.com/watch?v=_ik9e-HRJ_o)
+- [The Sugarcubes - Birthday Lifes too good](https://www.youtube.com/watch?v=_ik9e-HRJ_o)
 - [Mama](https://www.youtube.com/watch?v=V0t6tVMoQfM)
 - [Blue Eyed Pop](https://www.youtube.com/watch?v=Whc0WOxEZU4)
 - [The Sugarcubes - Birthday](https://www.youtube.com/watch?v=tvnErW9FYs4)
-- [The Sugarcubes - Birthday - 432Hz  HD  (lyrics in description)](https://www.youtube.com/watch?v=yqVksqxHGl0)
+- [The Sugarcubes - Birthday - 432Hz  HD  lyrics in description](https://www.youtube.com/watch?v=yqVksqxHGl0)
 - [Traitor](https://www.youtube.com/watch?v=xAb5-GDu3uE)
 - [Motor Crash](https://www.youtube.com/watch?v=yl3IOefc82M)
 - [Birthday](https://www.youtube.com/watch?v=oTeVFbmzMVM)
@@ -64,7 +64,7 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 - [Blue Eyed Pop](https://www.youtube.com/watch?v=3ogbi9fT184)
 - [Deus](https://www.youtube.com/watch?v=q8hSS6eoIXo)
 - [Sick For Toys](https://www.youtube.com/watch?v=1qBNQ3taC58)
-- [F***ing In Rhythm And Sorrow](https://www.youtube.com/watch?v=Zida7dnffkM)
+- [Fing In Rhythm And Sorrow](https://www.youtube.com/watch?v=Zida7dnffkM)
 - [Take Some Petrol Darling](https://www.youtube.com/watch?v=zmSH84SYbcI)
 
 ## Release Images

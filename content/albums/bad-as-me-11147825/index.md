@@ -48,12 +48,12 @@ Upon release, Bad as Me became Waits' first top 10 album in the US, peaking at n
 
 
 ## Videos
-### Tom Waits - "Bad As Me"
-{{< youtube id="B6Ta3H-ck6s" title="Tom Waits - "Bad As Me"" >}}<br>
+### Tom Waits - Bad As Me
+{{< youtube id="B6Ta3H-ck6s" title="Tom Waits - Bad As Me" >}}<br>
 ### More Videos
 
-- [Tom Waits - "Hell Broke Luce"](https://www.youtube.com/watch?v=0Fju9o8BVJ8)
-- [Tom Waits - "Satisfied"](https://www.youtube.com/watch?v=xHn_Kb4Dz40)
+- [Tom Waits - Hell Broke Luce](https://www.youtube.com/watch?v=0Fju9o8BVJ8)
+- [Tom Waits - Satisfied](https://www.youtube.com/watch?v=xHn_Kb4Dz40)
 
 ## Release Images
 {{< imageGrid >}}

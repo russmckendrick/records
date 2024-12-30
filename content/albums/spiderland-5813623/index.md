@@ -70,10 +70,10 @@ Two years earlier, on the group’s debut album, <i>Tweez</i>, the members of Sl
 ### More Videos
 
 - [Nosferatu Man](https://www.youtube.com/watch?v=5ugdrdFrhI0)
-- [Don, Aman](https://www.youtube.com/watch?v=qMHh02UhQhs)
+- [Don Aman](https://www.youtube.com/watch?v=qMHh02UhQhs)
 - [Washer](https://www.youtube.com/watch?v=nmL7rXt1fvI)
-- [For Dinner…](https://www.youtube.com/watch?v=oKINKblbx2s)
-- [Good Morning, Captain](https://www.youtube.com/watch?v=CuqEpjcBfaU)
+- [For Dinner](https://www.youtube.com/watch?v=oKINKblbx2s)
+- [Good Morning Captain](https://www.youtube.com/watch?v=CuqEpjcBfaU)
 
 ## Release Images
 {{< imageGrid >}}

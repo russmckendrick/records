@@ -57,13 +57,13 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 ### More Videos
 
 - [Rock Music](https://www.youtube.com/watch?v=vDVpJIidloc)
-- [Pixies - Velouria (Official Video)](https://www.youtube.com/watch?v=nc0Mv4Iyxvc)
-- [The Pixies - Allison on vinyl, from the album “Bossanova.”](https://www.youtube.com/watch?v=Sv9oWss6zww)
+- [Pixies - Velouria Official Video](https://www.youtube.com/watch?v=nc0Mv4Iyxvc)
+- [The Pixies - Allison on vinyl from the album Bossanova](https://www.youtube.com/watch?v=Sv9oWss6zww)
 - [Is She Weird](https://www.youtube.com/watch?v=Tpw9TkeZHoA)
-- [PIXIES - Ana (Official Lyric Video)](https://www.youtube.com/watch?v=vSnqUyS5YSY)
+- [PIXIES - Ana Official Lyric Video](https://www.youtube.com/watch?v=vSnqUyS5YSY)
 - [All Over the World](https://www.youtube.com/watch?v=WjxqjUGuEDA)
-- [Pixies "Dig for Fire"](https://www.youtube.com/watch?v=xekfBhiqfig)
-- [PIXIES.''BOSSANOVA.''.(DOWN TO THE WELL.)(12'' LP.)(1990.)](https://www.youtube.com/watch?v=WrbWaqkJ59E)
+- [Pixies Dig for Fire](https://www.youtube.com/watch?v=xekfBhiqfig)
+- [PIXIESBOSSANOVADOWN TO THE WELL12 LP1990](https://www.youtube.com/watch?v=WrbWaqkJ59E)
 - [The Happening](https://www.youtube.com/watch?v=S5E8B0xlUJ4)
 - [Blown Away](https://www.youtube.com/watch?v=qvjycdk0OiE)
 - [Hang Wire](https://www.youtube.com/watch?v=r7fw_hNArec)

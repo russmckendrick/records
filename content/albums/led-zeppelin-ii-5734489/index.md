@@ -57,7 +57,7 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 - [Led Zeppelin - Led Zeppelin II - What Is And What Should Never Be](https://www.youtube.com/watch?v=GyRQspOTjS8)
 - [Led Zeppelin - Led Zeppelin II - Moby Dick](https://www.youtube.com/watch?v=LpNMnGJfjiM)
-- [Led Zeppelin - Whole Lotta Love (Official Music Video)](https://www.youtube.com/watch?v=HQmmM_qwG4k)
+- [Led Zeppelin - Whole Lotta Love Official Music Video](https://www.youtube.com/watch?v=HQmmM_qwG4k)
 
 ## Release Images
 {{< imageGrid >}}

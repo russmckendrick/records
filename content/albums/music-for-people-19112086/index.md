@@ -53,8 +53,8 @@ Music for People is the second album by the band VAST, released in September 12,
 ### More Videos
 
 - [Free](https://www.youtube.com/watch?v=FVkRFR3mTzI)
-- [I Don't Have Anything](https://www.youtube.com/watch?v=5KhoB5w-yh8)
-- [The Gates of Rock 'n' Roll](https://www.youtube.com/watch?v=EkwUMxPvfFk)
+- [I Dont Have Anything](https://www.youtube.com/watch?v=5KhoB5w-yh8)
+- [The Gates of Rock n Roll](https://www.youtube.com/watch?v=EkwUMxPvfFk)
 - [What Else Do I Need](https://www.youtube.com/watch?v=NlYp-joSPQA)
 - [Blue](https://www.youtube.com/watch?v=_C6NvMbEOIY)
 - [Land of Shame](https://www.youtube.com/watch?v=qHv47cPHDkk)

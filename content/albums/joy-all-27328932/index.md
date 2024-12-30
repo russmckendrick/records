@@ -63,12 +63,12 @@ Once lockdowns had loosened, she took to Nashville, where she recorded with accl
 
 
 ## Videos
-### Jenny Lewis - Psychos (Official Video)
-{{< youtube id="vlNVtA6Lgu4" title="Jenny Lewis - Psychos (Official Video)" >}}<br>
+### Jenny Lewis - Psychos Official Video
+{{< youtube id="vlNVtA6Lgu4" title="Jenny Lewis - Psychos Official Video" >}}<br>
 ### More Videos
 
-- [Jenny Lewis - Joy'All (Visualizer)](https://www.youtube.com/watch?v=m62vvx-J8cg)
-- [Jenny Lewis - Giddy Up (Lyric Video)](https://www.youtube.com/watch?v=AwcWjGTEAU8)
+- [Jenny Lewis - JoyAll Visualizer](https://www.youtube.com/watch?v=m62vvx-J8cg)
+- [Jenny Lewis - Giddy Up Lyric Video](https://www.youtube.com/watch?v=AwcWjGTEAU8)
 - [Jenny Lewis - Love Feel](https://www.youtube.com/watch?v=KjklFFGL_Hc)
 
 ## Release Images

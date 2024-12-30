@@ -67,8 +67,8 @@ The Light the Dead See is the fourth full-length studio album from English elect
 
 
 ## Videos
-### Soulsavers - 'Take Me Back Home'
-{{< youtube id="v85gICtpVjw" title="Soulsavers - 'Take Me Back Home'" >}}<br>
+### Soulsavers - Take Me Back Home
+{{< youtube id="v85gICtpVjw" title="Soulsavers - Take Me Back Home" >}}<br>
 ### More Videos
 
 - [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
@@ -76,7 +76,7 @@ The Light the Dead See is the fourth full-length studio album from English elect
 - [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)
 - [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
 - [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
-- [Soulsavers - 'Take Me Back Home'](https://www.youtube.com/watch?v=v85gICtpVjw)
+- [Soulsavers - Take Me Back Home](https://www.youtube.com/watch?v=v85gICtpVjw)
 - [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
 - [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
 - [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)

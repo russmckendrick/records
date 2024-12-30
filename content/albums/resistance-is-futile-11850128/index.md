@@ -65,33 +65,33 @@ Supported by six singles, the most since their debut, the album was received wit
 
 
 ## Videos
-### Manic Street Preachers - People Give In (Official Video)
-{{< youtube id="ycu1PTHYKik" title="Manic Street Preachers - People Give In (Official Video)" >}}<br>
+### Manic Street Preachers - People Give In Official Video
+{{< youtube id="ycu1PTHYKik" title="Manic Street Preachers - People Give In Official Video" >}}<br>
 ### More Videos
 
-- [Manic Street Preachers - International Blue (Official Video)](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
-- [Manic Street Preachers - Distant Colours (Official Video)](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
+- [Manic Street Preachers - International Blue Official Video](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
+- [Manic Street Preachers - Distant Colours Official Video](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
 - [Vivian](https://www.youtube.com/watch?v=KPm56lRffnU)
-- [Manic Street Preachers – 'Dylan & Caitlin' (Lyric Video) ft. The Anchoress](https://www.youtube.com/watch?v=y2fGHPbkCj0)
-- [Manic Street Preachers - Liverpool Revisited (Lyric Video)](https://www.youtube.com/watch?v=ex2Ip4aqpDo)
+- [Manic Street Preachers  Dylan  Caitlin Lyric Video ft The Anchoress](https://www.youtube.com/watch?v=y2fGHPbkCj0)
+- [Manic Street Preachers - Liverpool Revisited Lyric Video](https://www.youtube.com/watch?v=ex2Ip4aqpDo)
 - [Sequels of Forgotten Wars](https://www.youtube.com/watch?v=6KMWwr9_jCE)
-- [Manic Street Preachers - Hold Me Like a Heaven (Official Video)](https://www.youtube.com/watch?v=JU5bn2LiOfA)
+- [Manic Street Preachers - Hold Me Like a Heaven Official Video](https://www.youtube.com/watch?v=JU5bn2LiOfA)
 - [In Eternity](https://www.youtube.com/watch?v=qFlNQGzsXZ4)
 - [Broken Algorithms](https://www.youtube.com/watch?v=9h7eyoM7im0)
 - [A Song for the Sadness](https://www.youtube.com/watch?v=7v1_ZoG9-Ag)
 - [The Left Behind](https://www.youtube.com/watch?v=YSo3-RHQ6DA)
-- [People Give In (Demo)](https://www.youtube.com/watch?v=HTcH59CVRcc)
-- [International Blue (Demo)](https://www.youtube.com/watch?v=igyyiNl-i0A)
-- [Distant Colours (Demo)](https://www.youtube.com/watch?v=3OvqjD3z9EU)
-- [Vivian (Demo)](https://www.youtube.com/watch?v=kkVVM47fdlw)
-- [Dylan & Caitlin (Demo)](https://www.youtube.com/watch?v=fRoF7-twfL0)
-- [Liverpool Revisited (Demo)](https://www.youtube.com/watch?v=6imIJD9KoMM)
-- [Sequels of Forgotten Wars (Demo)](https://www.youtube.com/watch?v=yrGnEVLbMVA)
-- [Hold Me Like a Heaven (Demo)](https://www.youtube.com/watch?v=YSoKtllNF7Y)
-- [In Eternity (Demo)](https://www.youtube.com/watch?v=C3CZZ9jPfMw)
-- [Broken Algorithms (Demo)](https://www.youtube.com/watch?v=Nl5CrP-UuSY)
-- [A Song for the Sadness (Demo)](https://www.youtube.com/watch?v=lUwtL5-ErDk)
-- [The Left Behind (Demo)](https://www.youtube.com/watch?v=FztYcWO87cM)
+- [People Give In Demo](https://www.youtube.com/watch?v=HTcH59CVRcc)
+- [International Blue Demo](https://www.youtube.com/watch?v=igyyiNl-i0A)
+- [Distant Colours Demo](https://www.youtube.com/watch?v=3OvqjD3z9EU)
+- [Vivian Demo](https://www.youtube.com/watch?v=kkVVM47fdlw)
+- [Dylan  Caitlin Demo](https://www.youtube.com/watch?v=fRoF7-twfL0)
+- [Liverpool Revisited Demo](https://www.youtube.com/watch?v=6imIJD9KoMM)
+- [Sequels of Forgotten Wars Demo](https://www.youtube.com/watch?v=yrGnEVLbMVA)
+- [Hold Me Like a Heaven Demo](https://www.youtube.com/watch?v=YSoKtllNF7Y)
+- [In Eternity Demo](https://www.youtube.com/watch?v=C3CZZ9jPfMw)
+- [Broken Algorithms Demo](https://www.youtube.com/watch?v=Nl5CrP-UuSY)
+- [A Song for the Sadness Demo](https://www.youtube.com/watch?v=lUwtL5-ErDk)
+- [The Left Behind Demo](https://www.youtube.com/watch?v=FztYcWO87cM)
 - [Concrete Fields](https://www.youtube.com/watch?v=7leXU1XkkAo)
 - [A Soundtrack to Complete Withdrawal](https://www.youtube.com/watch?v=OpGEb9Cb5rM)
 

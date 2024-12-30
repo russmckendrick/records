@@ -48,13 +48,13 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Videos
-### Al Green - Sha-La-La (Make Me Happy) [Official Audio]
-{{< youtube id="KURTpEdnDo4" title="Al Green - Sha-La-La (Make Me Happy) [Official Audio]" >}}<br>
+### Al Green - Sha-La-La Make Me Happy Official Audio
+{{< youtube id="KURTpEdnDo4" title="Al Green - Sha-La-La Make Me Happy Official Audio" >}}<br>
 ### More Videos
 
 - [Love and Happiness](https://www.youtube.com/watch?v=q8AMZmWqgRM)
-- [Here I Am (Come and Take Me)](https://www.youtube.com/watch?v=vHAXp39WjZM)
-- [Al Green - How Can You Mend A Broken Heart (Official Audio)](https://www.youtube.com/watch?v=r0qmJoav5rE)
+- [Here I Am Come and Take Me](https://www.youtube.com/watch?v=vHAXp39WjZM)
+- [Al Green - How Can You Mend A Broken Heart Official Audio](https://www.youtube.com/watch?v=r0qmJoav5rE)
 - [The Best of Al Green - Al Green Greatest Hits  Full Album](https://www.youtube.com/watch?v=Rksvpr-vNJQ)
 - [Al Green - Love and Happiness](https://www.youtube.com/watch?v=rqqAnjY2Rmo)
 

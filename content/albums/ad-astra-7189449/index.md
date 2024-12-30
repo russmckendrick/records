@@ -68,9 +68,9 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 {{< youtube id="Uf9UVqaBQI8" title="Spiritual beggars - Angel of betrayal" >}}<br>
 ### More Videos
 
-- [spiritual beggars - "per aspera ad astra"](https://www.youtube.com/watch?v=Lh4Znod70zA)
+- [spiritual beggars - per aspera ad astra](https://www.youtube.com/watch?v=Lh4Znod70zA)
 - [Spiritual Beggars - Left Brain Ambassadors](https://www.youtube.com/watch?v=wzhWmLEHEBY)
-- [Spiritual Beggars - Ad Astra - It's Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
+- [Spiritual Beggars - Ad Astra - Its Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
 - [Spiritual beggars - Angel of betrayal](https://www.youtube.com/watch?v=Uf9UVqaBQI8)
 
 ## Release Images

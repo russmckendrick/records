@@ -88,18 +88,18 @@ The Man Who Fell to Earth retains a cult following for its use of surreal imager
 
 - [The Man Who Fell To Earth Clip](https://www.youtube.com/watch?v=RThneDVsbvA)
 - [The Man Who Fell To Earth](https://www.youtube.com/watch?v=LpoeOfidJds)
-- [John Phillips - The Man Who Fell To Earth [Soundtrack Demo] 1976](https://www.youtube.com/watch?v=cwFMMCj4I2s)
+- [John Phillips - The Man Who Fell To Earth Soundtrack Demo 1976](https://www.youtube.com/watch?v=cwFMMCj4I2s)
 - [Window](https://www.youtube.com/watch?v=vOry3tMkOLw)
 - [Jazz II](https://www.youtube.com/watch?v=aORe-176u-Y)
 - [Space Capsule](https://www.youtube.com/watch?v=q1cxUMryoo8)
 - [Hello Mary Lou](https://www.youtube.com/watch?v=9LYjQ7NKBbo)
-- [Liar, Liar](https://www.youtube.com/watch?v=87IDXO1kiKY)
+- [Liar Liar](https://www.youtube.com/watch?v=87IDXO1kiKY)
 - [America](https://www.youtube.com/watch?v=-wX53926e0s)
-- [Stomu Yamash'ta - Win Words [The Man Who Fell To Earth] David Bowie Nicolas Roeg](https://www.youtube.com/watch?v=Qe3la0LgiMs)
-- [Poker Dice (From "The Man Who Fell To Earth" Original Motion Picture)](https://www.youtube.com/watch?v=T3X60zZEyh0)
-- [Memory Of Hiroshima (From "The Man Who Fell To Earth" Original Motion Picture)](https://www.youtube.com/watch?v=Y5Om21KwXg4)
-- [Mandala (From "The Man Who Fell To Earth" Original Motion Picture)](https://www.youtube.com/watch?v=js0AhQ9dyec)
-- [One Way (From "The Man Who Fell To Earth" Original Motion Picture)](https://www.youtube.com/watch?v=SHcRIQcIPOg)
+- [Stomu Yamashta - Win Words The Man Who Fell To Earth David Bowie Nicolas Roeg](https://www.youtube.com/watch?v=Qe3la0LgiMs)
+- [Poker Dice From The Man Who Fell To Earth Original Motion Picture](https://www.youtube.com/watch?v=T3X60zZEyh0)
+- [Memory Of Hiroshima From The Man Who Fell To Earth Original Motion Picture](https://www.youtube.com/watch?v=Y5Om21KwXg4)
+- [Mandala From The Man Who Fell To Earth Original Motion Picture](https://www.youtube.com/watch?v=js0AhQ9dyec)
+- [One Way From The Man Who Fell To Earth Original Motion Picture](https://www.youtube.com/watch?v=SHcRIQcIPOg)
 
 ## Release Images
 {{< imageGrid >}}

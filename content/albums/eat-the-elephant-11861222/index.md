@@ -57,14 +57,14 @@ The album was released on April 20, 2018, after four singles were released in ad
 
 
 ## Videos
-### A Perfect Circle - The Doomed [Official Video]
-{{< youtube id="SDvfbvuJtS8" title="A Perfect Circle - The Doomed [Official Video]" >}}<br>
+### A Perfect Circle - The Doomed Official Video
+{{< youtube id="SDvfbvuJtS8" title="A Perfect Circle - The Doomed Official Video" >}}<br>
 ### More Videos
 
-- [A Perfect Circle - Eat The Elephant (2D Version of Hologram Video)](https://www.youtube.com/watch?v=mdcdxpn0JHY)
-- [A Perfect Circle - Disillusioned [Official Video]](https://www.youtube.com/watch?v=BIsH686xWl0)
+- [A Perfect Circle - Eat The Elephant 2D Version of Hologram Video](https://www.youtube.com/watch?v=mdcdxpn0JHY)
+- [A Perfect Circle - Disillusioned Official Video](https://www.youtube.com/watch?v=BIsH686xWl0)
 - [A Perfect Circle - TalkTalk](https://www.youtube.com/watch?v=-aOyAvbj2Fg)
-- [A Perfect Circle - By And Down The River [Audio]](https://www.youtube.com/watch?v=IL2N7d4WXzw)
+- [A Perfect Circle - By And Down The River Audio](https://www.youtube.com/watch?v=IL2N7d4WXzw)
 
 ## Release Images
 {{< imageGrid >}}

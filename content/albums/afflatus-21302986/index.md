@@ -50,12 +50,12 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 
 
 ## Videos
-### The Polyphonic Spree - The Spirit of Radio (OFFICIAL MUSIC VIDEO)
-{{< youtube id="pOOON9DZeTM" title="The Polyphonic Spree - The Spirit of Radio (OFFICIAL MUSIC VIDEO)" >}}<br>
+### The Polyphonic Spree - The Spirit of Radio OFFICIAL MUSIC VIDEO
+{{< youtube id="pOOON9DZeTM" title="The Polyphonic Spree - The Spirit of Radio OFFICIAL MUSIC VIDEO" >}}<br>
 ### More Videos
 
-- [The Polyphonic Spree - She's a Rainbow (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=KVE8e-xbUQ8)
-- [The Polyphonic Spree - Don't Change (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=5Vqa_64yJ6o)
+- [The Polyphonic Spree - Shes a Rainbow OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=KVE8e-xbUQ8)
+- [The Polyphonic Spree - Dont Change OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5Vqa_64yJ6o)
 
 ## Release Images
 {{< imageGrid >}}

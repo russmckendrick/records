@@ -57,8 +57,8 @@ The Tall Ships was released in 2008, nineteen years after the release of the ban
 
 
 ## Videos
-### It Bites - The Tall Ships (FULL ALBUM)
-{{< youtube id="phNXbg1DBIY" title="It Bites - The Tall Ships (FULL ALBUM)" >}}<br>
+### It Bites - The Tall Ships FULL ALBUM
+{{< youtube id="phNXbg1DBIY" title="It Bites - The Tall Ships FULL ALBUM" >}}<br>
 ### More Videos
 
 - [IT BITES - This Is England](https://www.youtube.com/watch?v=VUO-YxeTw-M)

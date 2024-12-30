@@ -45,8 +45,8 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### The Mighty Mighty Bosstones - Don't Know How To Party
-{{< youtube id="IBY_UbhYJVU" title="The Mighty Mighty Bosstones - Don't Know How To Party" >}}<br>
+### The Mighty Mighty Bosstones - Dont Know How To Party
+{{< youtube id="IBY_UbhYJVU" title="The Mighty Mighty Bosstones - Dont Know How To Party" >}}<br>
 ### More Videos
 
 - [The Mighty Mighty Bosstones - Someday I Suppose](https://www.youtube.com/watch?v=gmOmAuhAQbE)

@@ -48,15 +48,15 @@ The album peaked at number 37 on the US Billboard 200, a considerable fall in sa
 
 
 ## Videos
-### Belinda Carlisle - Leave A Light On (Official HD Music Video)
-{{< youtube id="pmZYE8j2ZNs" title="Belinda Carlisle - Leave A Light On (Official HD Music Video)" >}}<br>
+### Belinda Carlisle - Leave A Light On Official HD Music Video
+{{< youtube id="pmZYE8j2ZNs" title="Belinda Carlisle - Leave A Light On Official HD Music Video" >}}<br>
 ### More Videos
 
-- [Belinda Carlisle - Summer Rain (Official HD Music Video)](https://www.youtube.com/watch?v=JOlybsZqNlE)
-- [Belinda Carlisle - (We Want) The Same Thing (Official HD Music Video)](https://www.youtube.com/watch?v=Q9pw_cY8uyk)
-- [Belinda Carlisle - Runaway Horses (Official HD Music Video)](https://www.youtube.com/watch?v=z5gQt126Ka8)
-- [Belinda Carlisle - Vision Of You (Official HD Music Video)](https://www.youtube.com/watch?v=KbeN3MM1OXo)
-- [Belinda Carlisle - La Luna (Official HD Music Video)](https://www.youtube.com/watch?v=ur48BBf6TkU)
+- [Belinda Carlisle - Summer Rain Official HD Music Video](https://www.youtube.com/watch?v=JOlybsZqNlE)
+- [Belinda Carlisle - We Want The Same Thing Official HD Music Video](https://www.youtube.com/watch?v=Q9pw_cY8uyk)
+- [Belinda Carlisle - Runaway Horses Official HD Music Video](https://www.youtube.com/watch?v=z5gQt126Ka8)
+- [Belinda Carlisle - Vision Of You Official HD Music Video](https://www.youtube.com/watch?v=KbeN3MM1OXo)
+- [Belinda Carlisle - La Luna Official HD Music Video](https://www.youtube.com/watch?v=ur48BBf6TkU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -44,8 +44,8 @@ styles: ["Funk", "Soul"]
 
 
 ## Videos
-### El Michels Affair - Return To The 37th chamber (Full Album Stream)
-{{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber (Full Album Stream)" >}}<br>
+### El Michels Affair - Return To The 37th chamber Full Album Stream
+{{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber Full Album Stream" >}}<br>
 ### More Videos
 
 - [El Michels Affair - 4th Chamber - BC001-45 - Side A](https://www.youtube.com/watch?v=dfzbkTiOB-E)
@@ -54,9 +54,9 @@ styles: ["Funk", "Soul"]
 - [El Michels Affair - Shaolin Brew](https://www.youtube.com/watch?v=AK5gDN8AfY0)
 - [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
 - [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
-- [El Michels Affair feat. Lee Fields - Snakes](https://www.youtube.com/watch?v=FTb9vPss-UI)
-- [El Michels Affair - Enter The 37th Chamber (2009) (Full Album)](https://www.youtube.com/watch?v=gVYfIfZDKeg)
-- [El Michels Affair feat. Lee Fields & The Shacks - Tearz](https://www.youtube.com/watch?v=hj2pRgWvIaA)
+- [El Michels Affair feat Lee Fields - Snakes](https://www.youtube.com/watch?v=FTb9vPss-UI)
+- [El Michels Affair - Enter The 37th Chamber 2009 Full Album](https://www.youtube.com/watch?v=gVYfIfZDKeg)
+- [El Michels Affair feat Lee Fields  The Shacks - Tearz](https://www.youtube.com/watch?v=hj2pRgWvIaA)
 
 ## Release Images
 {{< imageGrid >}}

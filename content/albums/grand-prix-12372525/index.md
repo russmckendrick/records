@@ -54,13 +54,13 @@ Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub,
 
 
 ## Videos
-### Teenage Fanclub - Sparky's Dream
-{{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparky's Dream" >}}<br>
+### Teenage Fanclub - Sparkys Dream
+{{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparkys Dream" >}}<br>
 ### More Videos
 
 - [About You](https://www.youtube.com/watch?v=Td8on_8vbFA)
 - [Tears](https://www.youtube.com/watch?v=CFzylf2N6TQ)
-- [I'll Make It Clear](https://www.youtube.com/watch?v=mrk3OCT9UaQ)
+- [Ill Make It Clear](https://www.youtube.com/watch?v=mrk3OCT9UaQ)
 - [Neil Jung](https://www.youtube.com/watch?v=sifx0wF9gzA)
 
 ## Release Images

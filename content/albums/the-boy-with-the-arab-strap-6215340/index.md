@@ -44,8 +44,8 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 
 
 ## Videos
-### Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)
-{{< youtube id="gnvhhvzAvSM" title="Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)" >}}<br>
+### Belle and Sebastian- The Boy With The Arab Strap Live Official Music Video
+{{< youtube id="gnvhhvzAvSM" title="Belle and Sebastian- The Boy With The Arab Strap Live Official Music Video" >}}<br>
 
 
 ## Release Images

@@ -51,7 +51,7 @@ Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It w
 {{< youtube id="7t_56xBaLwY" title="Special" >}}<br>
 ### More Videos
 
-- [Jimmy Cliff - Special (Full Album)](https://www.youtube.com/watch?v=nYq8U4gkpYc)
+- [Jimmy Cliff - Special Full Album](https://www.youtube.com/watch?v=nYq8U4gkpYc)
 
 ## Release Images
 {{< imageGrid >}}

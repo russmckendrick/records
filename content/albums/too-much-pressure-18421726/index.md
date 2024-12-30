@@ -54,8 +54,8 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 
 
 ## Videos
-### THE SELECTER - Too Much Pressure [FULL ALBUM] 1980 (LYRICS added in the comment section)
-{{< youtube id="lutwqvQq5t8" title="THE SELECTER - Too Much Pressure [FULL ALBUM] 1980 (LYRICS added in the comment section)" >}}<br>
+### THE SELECTER - Too Much Pressure FULL ALBUM 1980 LYRICS added in the comment section
+{{< youtube id="lutwqvQq5t8" title="THE SELECTER - Too Much Pressure FULL ALBUM 1980 LYRICS added in the comment section" >}}<br>
 ### More Videos
 
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
@@ -72,8 +72,8 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 - [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
 - [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
 - [the selecter too much pressure](https://www.youtube.com/watch?v=I0A8vBmfzWU)
-- [The Selecter - On My Radio (Two Tone Records CHS TT4 A) 1979](https://www.youtube.com/watch?v=3dI_fH3lC-E)
-- [The Selecter - Too Much Pressure (Two Tone Records CHS TT4 B) 1979](https://www.youtube.com/watch?v=rFT8kpSqHgQ)
+- [The Selecter - On My Radio Two Tone Records CHS TT4 A 1979](https://www.youtube.com/watch?v=3dI_fH3lC-E)
+- [The Selecter - Too Much Pressure Two Tone Records CHS TT4 B 1979](https://www.youtube.com/watch?v=rFT8kpSqHgQ)
 
 ## Release Images
 {{< imageGrid >}}

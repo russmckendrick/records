@@ -42,8 +42,8 @@ The band's music has been compared to Long Island emo, pop punk and melodic hard
 
 
 ## Videos
-### KOYO - Jettisoned (Official Video)
-{{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned (Official Video)" >}}<br>
+### KOYO - Jettisoned Official Video
+{{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned Official Video" >}}<br>
 
 
 ## Release Images

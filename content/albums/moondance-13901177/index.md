@@ -56,16 +56,16 @@ Moondance was an immediate critical and commercial success. It helped establish 
 
 
 ## Videos
-### Van Morrison - Into The Mystic (Official Vinyl Video)
-{{< youtube id="syIUmrSJWAU" title="Van Morrison - Into The Mystic (Official Vinyl Video)" >}}<br>
+### Van Morrison - Into The Mystic Official Vinyl Video
+{{< youtube id="syIUmrSJWAU" title="Van Morrison - Into The Mystic Official Vinyl Video" >}}<br>
 ### More Videos
 
-- [And It Stoned Me (2013 Remaster)](https://www.youtube.com/watch?v=AYqJtqyeilE)
-- [Crazy Love (2013 Remaster)](https://www.youtube.com/watch?v=-vNVLdxht0k)
-- [Caravan (2013 Remaster)](https://www.youtube.com/watch?v=mVWwgf2F9L4)
-- [Come Running (2013 Remaster)](https://www.youtube.com/watch?v=8nfWGBeWDnI)
-- [Brand New Day (2013 Remaster)](https://www.youtube.com/watch?v=fDVNUhQYG48)
-- [Everyone (2013 Remaster)](https://www.youtube.com/watch?v=85RuFZJU39o)
+- [And It Stoned Me 2013 Remaster](https://www.youtube.com/watch?v=AYqJtqyeilE)
+- [Crazy Love 2013 Remaster](https://www.youtube.com/watch?v=-vNVLdxht0k)
+- [Caravan 2013 Remaster](https://www.youtube.com/watch?v=mVWwgf2F9L4)
+- [Come Running 2013 Remaster](https://www.youtube.com/watch?v=8nfWGBeWDnI)
+- [Brand New Day 2013 Remaster](https://www.youtube.com/watch?v=fDVNUhQYG48)
+- [Everyone 2013 Remaster](https://www.youtube.com/watch?v=85RuFZJU39o)
 
 ## Release Images
 {{< imageGrid >}}

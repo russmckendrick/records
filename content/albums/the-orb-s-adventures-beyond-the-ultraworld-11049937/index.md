@@ -61,13 +61,13 @@ The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing
 
 
 ## Videos
-### the orb´s adventures beyond the ultraworld (-full double album- CD1+CD2)
-{{< youtube id="AaXT3raG5gY" title="the orb´s adventures beyond the ultraworld (-full double album- CD1+CD2)" >}}<br>
+### the orbs adventures beyond the ultraworld -full double album- CD1CD2
+{{< youtube id="AaXT3raG5gY" title="the orbs adventures beyond the ultraworld -full double album- CD1CD2" >}}<br>
 ### More Videos
 
-- [Earth (Gaia)](https://www.youtube.com/watch?v=Ejnyt8wNMpc)
+- [Earth Gaia](https://www.youtube.com/watch?v=Ejnyt8wNMpc)
 - [Little Fluffy Clouds](https://www.youtube.com/watch?v=KNfjpmvbQG0)
-- [The Orb - Supernova At The End Of The Universe (Chilled beats)](https://www.youtube.com/watch?v=RVtacEhq2uk)
+- [The Orb - Supernova At The End Of The Universe Chilled beats](https://www.youtube.com/watch?v=RVtacEhq2uk)
 - [The orb - Back side of the moon](https://www.youtube.com/watch?v=vTDdoIctIkI)
 
 ## Release Images

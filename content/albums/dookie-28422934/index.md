@@ -56,8 +56,8 @@ Dookie received critical acclaim upon its release, although some early fans accu
 
 
 ## Videos
-### Green Day - Welcome To Paradise [Live]
-{{< youtube id="OR7R9Kuw2fY" title="Green Day - Welcome To Paradise [Live]" >}}<br>
+### Green Day - Welcome To Paradise Live
+{{< youtube id="OR7R9Kuw2fY" title="Green Day - Welcome To Paradise Live" >}}<br>
 
 
 ## Release Images

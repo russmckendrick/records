@@ -48,29 +48,29 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 
 
 ## Videos
-### George Michael - Praying For Time (Official Video)
-{{< youtube id="goroyZbVdlo" title="George Michael - Praying For Time (Official Video)" >}}<br>
+### George Michael - Praying For Time Official Video
+{{< youtube id="goroyZbVdlo" title="George Michael - Praying For Time Official Video" >}}<br>
 ### More Videos
 
-- [George Michael - Freedom! ’90 (Official Video)](https://www.youtube.com/watch?v=diYAc7gB-0A)
-- [George Michael - They Won't Go When I Go (Audio)](https://www.youtube.com/watch?v=oata-ksmxjg)
-- [George Michael - Something to Save (Audio)](https://www.youtube.com/watch?v=lC3yF-e8KKo)
-- [George Michael - Cowboys and Angels (Audio)](https://www.youtube.com/watch?v=Ve-rxwKuqtI)
-- [George Michael - Waiting for That Day (Audio)](https://www.youtube.com/watch?v=4bH4EhBN180)
-- [George Michael - Mothers Pride (Audio)](https://www.youtube.com/watch?v=yksM7Ym2yTU)
-- [George Michael - Heal the Pain (Audio)](https://www.youtube.com/watch?v=GwGlhJV75Vc)
-- [George Michael - Soul Free (Audio)](https://www.youtube.com/watch?v=PrUWE4-eB48)
-- [George Michael - Waiting (Reprise) [Audio]](https://www.youtube.com/watch?v=ijzKZXjVV28)
-- [Freedom! '90 (Remastered)](https://www.youtube.com/watch?v=ZEULmgsz7-8)
-- [Praying for Time (Remastered)](https://www.youtube.com/watch?v=cqGIxpj3Y74)
-- [They Won't Go When I Go (Remastered)](https://www.youtube.com/watch?v=RxHNn_EKRgQ)
-- [Something to Save (Remastered)](https://www.youtube.com/watch?v=wS8twzSJDYQ)
-- [Cowboys and Angels (Remastered)](https://www.youtube.com/watch?v=Jvt_yJwOiS4)
-- [Waiting for That Day (Remastered)](https://www.youtube.com/watch?v=ff5x-unEZ-4)
-- [Mothers Pride (Remastered)](https://www.youtube.com/watch?v=z8roOeITZE0)
-- [Heal the Pain (Remastered)](https://www.youtube.com/watch?v=VwQwp82iByg)
-- [Soul Free (Remastered)](https://www.youtube.com/watch?v=oOPZqum4LX4)
-- [Waiting (Reprise) (Remastered)](https://www.youtube.com/watch?v=vPxL82gffDI)
+- [George Michael - Freedom 90 Official Video](https://www.youtube.com/watch?v=diYAc7gB-0A)
+- [George Michael - They Wont Go When I Go Audio](https://www.youtube.com/watch?v=oata-ksmxjg)
+- [George Michael - Something to Save Audio](https://www.youtube.com/watch?v=lC3yF-e8KKo)
+- [George Michael - Cowboys and Angels Audio](https://www.youtube.com/watch?v=Ve-rxwKuqtI)
+- [George Michael - Waiting for That Day Audio](https://www.youtube.com/watch?v=4bH4EhBN180)
+- [George Michael - Mothers Pride Audio](https://www.youtube.com/watch?v=yksM7Ym2yTU)
+- [George Michael - Heal the Pain Audio](https://www.youtube.com/watch?v=GwGlhJV75Vc)
+- [George Michael - Soul Free Audio](https://www.youtube.com/watch?v=PrUWE4-eB48)
+- [George Michael - Waiting Reprise Audio](https://www.youtube.com/watch?v=ijzKZXjVV28)
+- [Freedom 90 Remastered](https://www.youtube.com/watch?v=ZEULmgsz7-8)
+- [Praying for Time Remastered](https://www.youtube.com/watch?v=cqGIxpj3Y74)
+- [They Wont Go When I Go Remastered](https://www.youtube.com/watch?v=RxHNn_EKRgQ)
+- [Something to Save Remastered](https://www.youtube.com/watch?v=wS8twzSJDYQ)
+- [Cowboys and Angels Remastered](https://www.youtube.com/watch?v=Jvt_yJwOiS4)
+- [Waiting for That Day Remastered](https://www.youtube.com/watch?v=ff5x-unEZ-4)
+- [Mothers Pride Remastered](https://www.youtube.com/watch?v=z8roOeITZE0)
+- [Heal the Pain Remastered](https://www.youtube.com/watch?v=VwQwp82iByg)
+- [Soul Free Remastered](https://www.youtube.com/watch?v=oOPZqum4LX4)
+- [Waiting Reprise Remastered](https://www.youtube.com/watch?v=vPxL82gffDI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -137,22 +137,22 @@ Frequently listed among the greatest albums of all time, The Joshua Tree is one 
 
 
 ## Videos
-### U2 - I Still Haven't Found What I'm Looking For (Official Music Video)
-{{< youtube id="e3-5YC_oHjE" title="U2 - I Still Haven't Found What I'm Looking For (Official Music Video)" >}}<br>
+### U2 - I Still Havent Found What Im Looking For Official Music Video
+{{< youtube id="e3-5YC_oHjE" title="U2 - I Still Havent Found What Im Looking For Official Music Video" >}}<br>
 ### More Videos
 
-- [U2 - Where The Streets Have No Name (Official Music Video)](https://www.youtube.com/watch?v=GzZWSrr5wFI)
-- [Where The Streets Have No Name (Remastered)](https://www.youtube.com/watch?v=f4zQWBBGUYI)
-- [I Still Haven't Found What I'm Looking For](https://www.youtube.com/watch?v=neG5xgZbHOg)
+- [U2 - Where The Streets Have No Name Official Music Video](https://www.youtube.com/watch?v=GzZWSrr5wFI)
+- [Where The Streets Have No Name Remastered](https://www.youtube.com/watch?v=f4zQWBBGUYI)
+- [I Still Havent Found What Im Looking For](https://www.youtube.com/watch?v=neG5xgZbHOg)
 - [With Or Without You](https://www.youtube.com/watch?v=oNvWDP_GkiY)
-- [Bullet The Blue Sky (Remastered 2007)](https://www.youtube.com/watch?v=HqwovrZKTm8)
-- [Running To Stand Still (Remastered 2007)](https://www.youtube.com/watch?v=orfhLLo7XDs)
+- [Bullet The Blue Sky Remastered 2007](https://www.youtube.com/watch?v=HqwovrZKTm8)
+- [Running To Stand Still Remastered 2007](https://www.youtube.com/watch?v=orfhLLo7XDs)
 - [Red Hill Mining Town](https://www.youtube.com/watch?v=4swIxE9CnSI)
-- [In God's Country](https://www.youtube.com/watch?v=3tHLh4fkx9I)
-- [Trip Through Your Wires (Remastered 2007)](https://www.youtube.com/watch?v=rD5He3U-te0)
-- [One Tree Hill (Remastered 2007)](https://www.youtube.com/watch?v=7hgwOTK2xN4)
-- [Exit (Remastered 2007)](https://www.youtube.com/watch?v=6zyxv499Ufc)
-- [Mothers Of The Disappeared (Remastered 2007)](https://www.youtube.com/watch?v=FsDy8nbw-vk)
+- [In Gods Country](https://www.youtube.com/watch?v=3tHLh4fkx9I)
+- [Trip Through Your Wires Remastered 2007](https://www.youtube.com/watch?v=rD5He3U-te0)
+- [One Tree Hill Remastered 2007](https://www.youtube.com/watch?v=7hgwOTK2xN4)
+- [Exit Remastered 2007](https://www.youtube.com/watch?v=6zyxv499Ufc)
+- [Mothers Of The Disappeared Remastered 2007](https://www.youtube.com/watch?v=FsDy8nbw-vk)
 
 ## Release Images
 {{< imageGrid >}}

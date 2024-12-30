@@ -52,18 +52,18 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 
 
 ## Videos
-### Tori Amos - Reindeer King (Lyric Video)
-{{< youtube id="gsSBNNjhGJY" title="Tori Amos - Reindeer King (Lyric Video)" >}}<br>
+### Tori Amos - Reindeer King Lyric Video
+{{< youtube id="gsSBNNjhGJY" title="Tori Amos - Reindeer King Lyric Video" >}}<br>
 ### More Videos
 
-- [Tori Amos - Cloud Riders (Lyric Video)](https://www.youtube.com/watch?v=VVx2jNxy8lM)
+- [Tori Amos - Cloud Riders Lyric Video](https://www.youtube.com/watch?v=VVx2jNxy8lM)
 - [Breakaway](https://www.youtube.com/watch?v=KkAr-6RFH9M)
 - [Benjamin](https://www.youtube.com/watch?v=wS6rvD_lkro)
-- [Tori Amos Discusses Her New Album, "Native Invader"](https://www.youtube.com/watch?v=sfhCN6H59lc)
-- [Tori Amos - Nylon Interview (Native Invader) 2017](https://www.youtube.com/watch?v=_HGdRvFe1Bg)
-- [Tori Amos / Native Invader 'unboxing'](https://www.youtube.com/watch?v=FHaYaTW3cT8)
-- [UNBOXING: Tori Amos - "Native Invader"](https://www.youtube.com/watch?v=QGJ9QyH7qeU)
-- [Tori Amos - Reindeer King (Audio)](https://www.youtube.com/watch?v=ub0yooZAGOA)
+- [Tori Amos Discusses Her New Album Native Invader](https://www.youtube.com/watch?v=sfhCN6H59lc)
+- [Tori Amos - Nylon Interview Native Invader 2017](https://www.youtube.com/watch?v=_HGdRvFe1Bg)
+- [Tori Amos  Native Invader unboxing](https://www.youtube.com/watch?v=FHaYaTW3cT8)
+- [UNBOXING Tori Amos - Native Invader](https://www.youtube.com/watch?v=QGJ9QyH7qeU)
+- [Tori Amos - Reindeer King Audio](https://www.youtube.com/watch?v=ub0yooZAGOA)
 
 ## Release Images
 {{< imageGrid >}}

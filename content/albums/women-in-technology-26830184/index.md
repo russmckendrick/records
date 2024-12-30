@@ -55,7 +55,7 @@ Women in Technology is the second studio album by British recording artist White
 - [Undressed](https://www.youtube.com/watch?v=l_BT4eLVRpw)
 - [Thursday at The Blue Note](https://www.youtube.com/watch?v=EBAfD12hkxI)
 - [White Town - A Week Next June](https://www.youtube.com/watch?v=X5lgXUo-83Q)
-- [White Town - Your Woman (Official HD Video)](https://www.youtube.com/watch?v=lVL-zZnD3VU)
+- [White Town - Your Woman Official HD Video](https://www.youtube.com/watch?v=lVL-zZnD3VU)
 - [White Town](https://www.youtube.com/watch?v=Qr_i3FyV0mw)
 - [The Shape of Love](https://www.youtube.com/watch?v=pUKEOEoefpo)
 - [Wanted](https://www.youtube.com/watch?v=uGeouN4beCg)
@@ -64,7 +64,7 @@ Women in Technology is the second studio album by British recording artist White
 - [Theme for an Early Evening American Sitcom](https://www.youtube.com/watch?v=HM1RaIBzNSA)
 - [The Death of My Desire](https://www.youtube.com/watch?v=wciHPPnMk9s)
 - [White Town - Once I Flew](https://www.youtube.com/watch?v=6alULgsAyqA)
-- [Wanted (Warped Remix)](https://www.youtube.com/watch?v=8HB43g9OWRQ)
+- [Wanted Warped Remix](https://www.youtube.com/watch?v=8HB43g9OWRQ)
 
 ## Release Images
 {{< imageGrid >}}

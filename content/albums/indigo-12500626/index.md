@@ -40,24 +40,24 @@ styles: []
 
 
 ## Videos
-### Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]
-{{< youtube id="EaQwTZmJywg" title="Kandace Springs - Don't Need The Real Thing (Acoustic) [Audio]" >}}<br>
+### Kandace Springs - Dont Need The Real Thing Acoustic Audio
+{{< youtube id="EaQwTZmJywg" title="Kandace Springs - Dont Need The Real Thing Acoustic Audio" >}}<br>
 ### More Videos
 
 - [Kandace Springs - Fix Me](https://www.youtube.com/watch?v=oXmtRxZKVFo)
 - [Kandace Springs - Piece Of Me](https://www.youtube.com/watch?v=vfSHvk0wGko)
-- [Kandace Springs - Unsophisticated ft. Roy Hargrove](https://www.youtube.com/watch?v=yuMkMu8keXE)
+- [Kandace Springs - Unsophisticated ft Roy Hargrove](https://www.youtube.com/watch?v=yuMkMu8keXE)
 - [Kandace Springs - Love Sucks](https://www.youtube.com/watch?v=Q05BJUp463I)
 - [Kandace Springs - The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=MH-vKaz8Bh0)
-- [Kandace Springs - Simple Things ft. Scat Springs](https://www.youtube.com/watch?v=xWfhCs8wiUo)
-- [Don't Need The Real Thing](https://www.youtube.com/watch?v=iJe4aCuOQKI)
+- [Kandace Springs - Simple Things ft Scat Springs](https://www.youtube.com/watch?v=xWfhCs8wiUo)
+- [Dont Need The Real Thing](https://www.youtube.com/watch?v=iJe4aCuOQKI)
 - [Breakdown](https://www.youtube.com/watch?v=Ts27-PpIp-4)
 - [Fix Me](https://www.youtube.com/watch?v=y4RUQa_oxRs)
-- [Indigo (Pt. 1)](https://www.youtube.com/watch?v=XN_X7XGIArw)
+- [Indigo Pt 1](https://www.youtube.com/watch?v=XN_X7XGIArw)
 - [Piece Of Me](https://www.youtube.com/watch?v=BpIpvLQpMhk)
 - [6 8](https://www.youtube.com/watch?v=UaI38Zy-K1g)
-- [Indigo (Pt. 2)](https://www.youtube.com/watch?v=Zm72L36G--w)
-- [People Make The World Go 'Round](https://www.youtube.com/watch?v=vgsqJCIKtvc)
+- [Indigo Pt 2](https://www.youtube.com/watch?v=Zm72L36G--w)
+- [People Make The World Go Round](https://www.youtube.com/watch?v=vgsqJCIKtvc)
 - [Unsophisticated](https://www.youtube.com/watch?v=zC0y-00d00w)
 - [Black Orchid](https://www.youtube.com/watch?v=d1zHnWNKTBE)
 - [Love Sucks](https://www.youtube.com/watch?v=f9fLJt5sqrY)

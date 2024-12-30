@@ -52,20 +52,20 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 
 
 ## Videos
-### Fleetwood Mac - Everywhere (Official Music Video)
-{{< youtube id="YF1R0hc5Q2I" title="Fleetwood Mac - Everywhere (Official Music Video)" >}}<br>
+### Fleetwood Mac - Everywhere Official Music Video
+{{< youtube id="YF1R0hc5Q2I" title="Fleetwood Mac - Everywhere Official Music Video" >}}<br>
 ### More Videos
 
-- [FLEETWOOD MAC - Big Love ´87](https://www.youtube.com/watch?v=ID0Q8L39rNg)
-- [Fleetwood Mac - Seven Wonders (Official Music Video)](https://www.youtube.com/watch?v=9b4F_ppjnKU)
+- [FLEETWOOD MAC - Big Love 87](https://www.youtube.com/watch?v=ID0Q8L39rNg)
+- [Fleetwood Mac - Seven Wonders Official Music Video](https://www.youtube.com/watch?v=9b4F_ppjnKU)
 - [Fleetwood Mac - Caroline](https://www.youtube.com/watch?v=Y9td_JisDOI)
 - [Fleetwood Mac - Family Man](https://www.youtube.com/watch?v=CZbPD54KTHk)
-- [Tango in the Night (2017 Remaster)](https://www.youtube.com/watch?v=i_xlI6gMH7U)
+- [Tango in the Night 2017 Remaster](https://www.youtube.com/watch?v=i_xlI6gMH7U)
 - [Fleetwood Mac - Little Lies](https://www.youtube.com/watch?v=yWutmIaNv-o)
-- [Fleetwood Mac- 09- Welcome To The Room...Sara](https://www.youtube.com/watch?v=80ZXt56rDQ8)
-- [You and I, Pt. II (2017 Remaster)](https://www.youtube.com/watch?v=FU7t8oo4ctY)
-- [Fleetwood Mac - Isn’t It Midnight](https://www.youtube.com/watch?v=v2mtUs6GELA)
-- [When I See You Again (2017 Remaster)](https://www.youtube.com/watch?v=gKyigbXAx5Y)
+- [Fleetwood Mac- 09- Welcome To The RoomSara](https://www.youtube.com/watch?v=80ZXt56rDQ8)
+- [You and I Pt II 2017 Remaster](https://www.youtube.com/watch?v=FU7t8oo4ctY)
+- [Fleetwood Mac - Isnt It Midnight](https://www.youtube.com/watch?v=v2mtUs6GELA)
+- [When I See You Again 2017 Remaster](https://www.youtube.com/watch?v=gKyigbXAx5Y)
 
 ## Release Images
 {{< imageGrid >}}

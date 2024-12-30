@@ -58,9 +58,9 @@ Felt Mountain was generally well received by music critics, and was described as
 - [Oompah Radar](https://www.youtube.com/watch?v=A8nL51nIy6U)
 - [Goldfrapp - Utopia](https://www.youtube.com/watch?v=QUB7e3BtnvU)
 - [Horse Tears](https://www.youtube.com/watch?v=92qlKcNo3XA)
-- [Goldfrapp - Felt Mountain (Full Album)](https://www.youtube.com/watch?v=iKAsuvwDP_Q)
-- [Goldfrapp - Human (Official Audio)](https://www.youtube.com/watch?v=1gliD9lRZcs)
-- [Goldfrapp - Paper Bag (Official Audio)](https://www.youtube.com/watch?v=elt1P_Z0z-A)
+- [Goldfrapp - Felt Mountain Full Album](https://www.youtube.com/watch?v=iKAsuvwDP_Q)
+- [Goldfrapp - Human Official Audio](https://www.youtube.com/watch?v=1gliD9lRZcs)
+- [Goldfrapp - Paper Bag Official Audio](https://www.youtube.com/watch?v=elt1P_Z0z-A)
 
 ## Release Images
 {{< imageGrid >}}

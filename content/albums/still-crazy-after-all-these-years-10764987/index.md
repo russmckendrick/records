@@ -47,11 +47,11 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 
 
 ## Videos
-### Paul Simon - 50 Ways to Leave Your Lover (Official Audio)
-{{< youtube id="ABXtWqmArUU" title="Paul Simon - 50 Ways to Leave Your Lover (Official Audio)" >}}<br>
+### Paul Simon - 50 Ways to Leave Your Lover Official Audio
+{{< youtube id="ABXtWqmArUU" title="Paul Simon - 50 Ways to Leave Your Lover Official Audio" >}}<br>
 ### More Videos
 
-- [Paul Simon - Still Crazy After All These Years (Official Audio)](https://www.youtube.com/watch?v=Q5Eoax6I-O4)
+- [Paul Simon - Still Crazy After All These Years Official Audio](https://www.youtube.com/watch?v=Q5Eoax6I-O4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -57,16 +57,16 @@ Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph R
 
 
 ## Videos
-### Tom Waits - Alice [Vinyl]
-{{< youtube id="2apOxXtXSY4" title="Tom Waits - Alice [Vinyl]" >}}<br>
+### Tom Waits - Alice Vinyl
+{{< youtube id="2apOxXtXSY4" title="Tom Waits - Alice Vinyl" >}}<br>
 ### More Videos
 
 - [Alice - Tom Waits](https://www.youtube.com/watch?v=aEj-mrwwaxo)
 - [Tom Waits - Alice](https://www.youtube.com/watch?v=x9DejWMJoOA)
-- [TOM WAITS - Alice (documentary)](https://www.youtube.com/watch?v=cHPgaUI2SRU)
-- [Tom Waits - "Alice" (Live)](https://www.youtube.com/watch?v=dBzenOY4aIg)
+- [TOM WAITS - Alice documentary](https://www.youtube.com/watch?v=cHPgaUI2SRU)
+- [Tom Waits - Alice Live](https://www.youtube.com/watch?v=dBzenOY4aIg)
 - [Alice - Tom Waits](https://www.youtube.com/watch?v=aEj-mrwwaxo)
-- [Tom Waits - "Everything You Can Think"](https://www.youtube.com/watch?v=fqP1D3R6AaY)
+- [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=fqP1D3R6AaY)
 
 ## Release Images
 {{< imageGrid >}}

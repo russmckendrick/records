@@ -56,12 +56,12 @@ The release of Cyr was accompanied by a five-part animated series, In Ashes, wri
 
 
 ## Videos
-### THE SMASHING PUMPKINS - Cyr (Official Music Video)
-{{< youtube id="2AN_GRWlU7k" title="THE SMASHING PUMPKINS - Cyr (Official Music Video)" >}}<br>
+### THE SMASHING PUMPKINS - Cyr Official Music Video
+{{< youtube id="2AN_GRWlU7k" title="THE SMASHING PUMPKINS - Cyr Official Music Video" >}}<br>
 ### More Videos
 
-- [THE SMASHING PUMPKINS - Ramona (Official Music Video)](https://www.youtube.com/watch?v=0rOr6yTMCJI)
-- [The Smashing Pumpkins - Wyttch (Official Video)](https://www.youtube.com/watch?v=6ZFh-zqRZC8)
+- [THE SMASHING PUMPKINS - Ramona Official Music Video](https://www.youtube.com/watch?v=0rOr6yTMCJI)
+- [The Smashing Pumpkins - Wyttch Official Video](https://www.youtube.com/watch?v=6ZFh-zqRZC8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -48,8 +48,8 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 
 
 ## Videos
-### Antimatter - Stillborn Empires [official music video]
-{{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires [official music video]" >}}<br>
+### Antimatter - Stillborn Empires official music video
+{{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires official music video" >}}<br>
 ### More Videos
 
 - [Antimatter - Killer](https://www.youtube.com/watch?v=gCjimCfzhEI)

@@ -44,29 +44,29 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 
 
 ## Videos
-### Leon Bridges - Bet Ain't Worth the Hand
-{{< youtube id="UYzpPh1Gf_Q" title="Leon Bridges - Bet Ain't Worth the Hand" >}}<br>
+### Leon Bridges - Bet Aint Worth the Hand
+{{< youtube id="UYzpPh1Gf_Q" title="Leon Bridges - Bet Aint Worth the Hand" >}}<br>
 ### More Videos
 
-- [Leon Bridges - Bad Bad News (Official Audio)](https://www.youtube.com/watch?v=FJOGT1axUV4)
-- [Leon Bridges - Shy (Official Audio)](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
-- [Leon Bridges - Beyond (Official Audio)](https://www.youtube.com/watch?v=2qVe7CL9uAg)
-- [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
-- [Leon Bridges - Lions (Official Audio)](https://www.youtube.com/watch?v=KE6nqQGegAA)
-- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
-- [Leon Bridges - You Don't Know (Official Audio)](https://www.youtube.com/watch?v=KztV93idYN4)
-- [Leon Bridges - Mrs. (Official Audio)](https://www.youtube.com/watch?v=4WyqaFTgaKI)
-- [Leon Bridges - Georgia to Texas (Official Audio)](https://www.youtube.com/watch?v=XnJe7C2rkiI)
-- [Leon Bridges - Bet Ain't Worth the Hand](https://www.youtube.com/watch?v=UYzpPh1Gf_Q)
-- [Leon Bridges - Bad Bad News (Official Audio)](https://www.youtube.com/watch?v=FJOGT1axUV4)
-- [Leon Bridges - Shy (Official Audio)](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
-- [Leon Bridges - Beyond (Official Audio)](https://www.youtube.com/watch?v=2qVe7CL9uAg)
-- [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
-- [Leon Bridges - Lions (Official Audio)](https://www.youtube.com/watch?v=KE6nqQGegAA)
-- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
-- [Leon Bridges - You Don't Know (Official Audio)](https://www.youtube.com/watch?v=KztV93idYN4)
-- [Leon Bridges - Mrs. (Official Audio)](https://www.youtube.com/watch?v=4WyqaFTgaKI)
-- [Leon Bridges - Georgia to Texas (Official Audio)](https://www.youtube.com/watch?v=XnJe7C2rkiI)
+- [Leon Bridges - Bad Bad News Official Audio](https://www.youtube.com/watch?v=FJOGT1axUV4)
+- [Leon Bridges - Shy Official Audio](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
+- [Leon Bridges - Beyond Official Audio](https://www.youtube.com/watch?v=2qVe7CL9uAg)
+- [Leon Bridges - Forgive You Official Audio](https://www.youtube.com/watch?v=mK8NE8qtO8o)
+- [Leon Bridges - Lions Official Audio](https://www.youtube.com/watch?v=KE6nqQGegAA)
+- [Leon Bridges - If It Feels Good Then It Must Be Official Audio](https://www.youtube.com/watch?v=xvPMqljGruE)
+- [Leon Bridges - You Dont Know Official Audio](https://www.youtube.com/watch?v=KztV93idYN4)
+- [Leon Bridges - Mrs Official Audio](https://www.youtube.com/watch?v=4WyqaFTgaKI)
+- [Leon Bridges - Georgia to Texas Official Audio](https://www.youtube.com/watch?v=XnJe7C2rkiI)
+- [Leon Bridges - Bet Aint Worth the Hand](https://www.youtube.com/watch?v=UYzpPh1Gf_Q)
+- [Leon Bridges - Bad Bad News Official Audio](https://www.youtube.com/watch?v=FJOGT1axUV4)
+- [Leon Bridges - Shy Official Audio](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
+- [Leon Bridges - Beyond Official Audio](https://www.youtube.com/watch?v=2qVe7CL9uAg)
+- [Leon Bridges - Forgive You Official Audio](https://www.youtube.com/watch?v=mK8NE8qtO8o)
+- [Leon Bridges - Lions Official Audio](https://www.youtube.com/watch?v=KE6nqQGegAA)
+- [Leon Bridges - If It Feels Good Then It Must Be Official Audio](https://www.youtube.com/watch?v=xvPMqljGruE)
+- [Leon Bridges - You Dont Know Official Audio](https://www.youtube.com/watch?v=KztV93idYN4)
+- [Leon Bridges - Mrs Official Audio](https://www.youtube.com/watch?v=4WyqaFTgaKI)
+- [Leon Bridges - Georgia to Texas Official Audio](https://www.youtube.com/watch?v=XnJe7C2rkiI)
 
 ## Release Images
 {{< imageGrid >}}

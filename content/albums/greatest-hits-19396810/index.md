@@ -60,8 +60,8 @@ Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
 
 
 ## Videos
-### Thi̲n̲ ̲L̲i̲z̲z̲y̲ - Thi̲n̲ ̲L̲i̲z̲zy Greatest Hits vol.1
-{{< youtube id="fJJuiEI3saw" title="Thi̲n̲ ̲L̲i̲z̲z̲y̲ - Thi̲n̲ ̲L̲i̲z̲zy Greatest Hits vol.1" >}}<br>
+### Thin Lizzy - Thin Lizzy Greatest Hits vol1
+{{< youtube id="fJJuiEI3saw" title="Thin Lizzy - Thin Lizzy Greatest Hits vol1" >}}<br>
 
 
 ## Release Images

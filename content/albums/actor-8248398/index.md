@@ -48,16 +48,16 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 
 
 ## Videos
-### St. Vincent - Marrow (Official Video)
-{{< youtube id="-9prpAv6kvo" title="St. Vincent - Marrow (Official Video)" >}}<br>
+### St Vincent - Marrow Official Video
+{{< youtube id="-9prpAv6kvo" title="St Vincent - Marrow Official Video" >}}<br>
 ### More Videos
 
-- [St Vincent - Actor Out Of Work (Official Video)](https://www.youtube.com/watch?v=AZW9NYX6JZA)
-- [St. Vincent - The Neighbors](https://www.youtube.com/watch?v=-wEVVfFkMwE)
-- [Actor Out of Work // Lyrics [HD]](https://www.youtube.com/watch?v=mPFXdj0_t_4)
-- [St. Vincent - The Apocalypse Song](https://www.youtube.com/watch?v=68rXwBtNsy8)
-- [St. Vincent - Save Me From What I Want](https://www.youtube.com/watch?v=MdZSzM_mzT8)
-- [St. Vincent - The Party](https://www.youtube.com/watch?v=F9L3D1w8KcY)
+- [St Vincent - Actor Out Of Work Official Video](https://www.youtube.com/watch?v=AZW9NYX6JZA)
+- [St Vincent - The Neighbors](https://www.youtube.com/watch?v=-wEVVfFkMwE)
+- [Actor Out of Work  Lyrics HD](https://www.youtube.com/watch?v=mPFXdj0_t_4)
+- [St Vincent - The Apocalypse Song](https://www.youtube.com/watch?v=68rXwBtNsy8)
+- [St Vincent - Save Me From What I Want](https://www.youtube.com/watch?v=MdZSzM_mzT8)
+- [St Vincent - The Party](https://www.youtube.com/watch?v=F9L3D1w8KcY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,15 +40,15 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 
 
 ## Videos
-### Phil Cook - Southland Mission (Documentary)
-{{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission (Documentary)" >}}<br>
+### Phil Cook - Southland Mission Documentary
+{{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission Documentary" >}}<br>
 ### More Videos
 
 - [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
 - [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
 - [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
 - [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
-- [Phil Cook - Southland Mission (Documentary)](https://www.youtube.com/watch?v=k_4TyQ1s_Lc)
+- [Phil Cook - Southland Mission Documentary](https://www.youtube.com/watch?v=k_4TyQ1s_Lc)
 - [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
 - [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
 - [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)

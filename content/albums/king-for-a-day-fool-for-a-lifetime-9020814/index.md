@@ -69,13 +69,13 @@ Critical reception to the album has been mixed, with its varied genres being cit
 
 
 ## Videos
-### Faith No More - Ricochet (Official Music Video)
-{{< youtube id="BzoDVzO1F9I" title="Faith No More - Ricochet (Official Music Video)" >}}<br>
+### Faith No More - Ricochet Official Music Video
+{{< youtube id="BzoDVzO1F9I" title="Faith No More - Ricochet Official Music Video" >}}<br>
 ### More Videos
 
-- [Faith No More - Evidence (Official Music Video)](https://www.youtube.com/watch?v=7lvMNLhJrb0)
+- [Faith No More - Evidence Official Music Video](https://www.youtube.com/watch?v=7lvMNLhJrb0)
 - [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
-- [Star A.D.](https://www.youtube.com/watch?v=xALb75mMnJ0)
+- [Star AD](https://www.youtube.com/watch?v=xALb75mMnJ0)
 - [Caralho Voador](https://www.youtube.com/watch?v=tsm9VlnRJdM)
 - [King for a Day](https://www.youtube.com/watch?v=vCktbM5Uqk4)
 - [What a Day](https://www.youtube.com/watch?v=5ZTcxtQWVNU)

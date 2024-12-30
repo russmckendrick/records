@@ -47,7 +47,7 @@ styles: ["Hard Rock", "Blues Rock"]
 
 - [Led Zeppelin - Starway to heaven - from 1st UK press vinyl](https://www.youtube.com/watch?v=ydN_oPOxQ5g)
 - [Led Zeppelin - 1st UK press on vinyl - Four - side 2 - 96 Khz](https://www.youtube.com/watch?v=9XgMubDXSNE)
-- [Led Zeppelin - Led Zeppelin IV (Remaster) [Official Full Album]](https://www.youtube.com/watch?v=0hLESLXqBLI)
+- [Led Zeppelin - Led Zeppelin IV Remaster Official Full Album](https://www.youtube.com/watch?v=0hLESLXqBLI)
 
 ## Release Images
 {{< imageGrid >}}

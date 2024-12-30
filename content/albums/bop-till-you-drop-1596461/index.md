@@ -44,22 +44,22 @@ The album consists almost entirely of covers of earlier rhythm and blues and roc
 
 
 ## Videos
-### Ry Cooder - I Think It's Going To Work Out Fine
-{{< youtube id="_oYzxkfzJZ0" title="Ry Cooder - I Think It's Going To Work Out Fine" >}}<br>
+### Ry Cooder - I Think Its Going To Work Out Fine
+{{< youtube id="_oYzxkfzJZ0" title="Ry Cooder - I Think Its Going To Work Out Fine" >}}<br>
 ### More Videos
 
-- [Ry Cooder - I Think It's Going To Work Out Fine](https://www.youtube.com/watch?v=_oYzxkfzJZ0)
+- [Ry Cooder - I Think Its Going To Work Out Fine](https://www.youtube.com/watch?v=_oYzxkfzJZ0)
 - [Little Sister](https://www.youtube.com/watch?v=zeUUye3TMhI)
 - [I Think Its Going to Work out Fine](https://www.youtube.com/watch?v=MVEMQ_SCc6w)
-- [Ry Cooder - I can't win (From the Album: "Bop 'til you drop")](https://www.youtube.com/watch?v=EAe_3_GO9t0)
+- [Ry Cooder - I cant win From the Album Bop til you drop](https://www.youtube.com/watch?v=EAe_3_GO9t0)
 - [Look at Granny Run Run - Ry Cooder](https://www.youtube.com/watch?v=4uMNwfNoViE)
 - [Ry Cooder - Dont Mess Up A Good Thing](https://www.youtube.com/watch?v=ExuqsRMMoy4)
-- [The Very Thing That Makes You Rich (Makes Me Poor)](https://www.youtube.com/watch?v=OTJ3RQSa1PU)
+- [The Very Thing That Makes You Rich Makes Me Poor](https://www.youtube.com/watch?v=OTJ3RQSa1PU)
 - [Look at Granny Run Run](https://www.youtube.com/watch?v=2Mze2hcfGLI)
-- [Go Home, Girl](https://www.youtube.com/watch?v=k63zFZn2JRE)
-- [I Can't Win](https://www.youtube.com/watch?v=ATk47PJUbMQ)
-- [Trouble, You Can't Fool Me](https://www.youtube.com/watch?v=QilXueoAcck)
-- [Don't Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
+- [Go Home Girl](https://www.youtube.com/watch?v=k63zFZn2JRE)
+- [I Cant Win](https://www.youtube.com/watch?v=ATk47PJUbMQ)
+- [Trouble You Cant Fool Me](https://www.youtube.com/watch?v=QilXueoAcck)
+- [Dont Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
 
 ## Release Images
 {{< imageGrid >}}

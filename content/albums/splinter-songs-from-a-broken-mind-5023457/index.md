@@ -63,7 +63,7 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 - [Gary Numan - Splinter](https://www.youtube.com/watch?v=TozL0z4bDwA)
 - [Gary Numan - A Shadow Falls On Me](https://www.youtube.com/watch?v=7uXmL81ZVWM)
 - [Gary Numan - Where I Can Never Be](https://www.youtube.com/watch?v=ByyC1fQWUc8)
-- [Gary Numan - We're The Unforgiven](https://www.youtube.com/watch?v=3Zv04TSYTeY)
+- [Gary Numan - Were The Unforgiven](https://www.youtube.com/watch?v=3Zv04TSYTeY)
 - [Gary Numan - My Last Day](https://www.youtube.com/watch?v=uFrldNl6jq8)
 
 ## Release Images

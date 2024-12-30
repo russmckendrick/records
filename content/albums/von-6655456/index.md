@@ -62,8 +62,8 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 
 
 ## Videos
-### Sigur Rós - Von [Full Album Stream]
-{{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von [Full Album Stream]" >}}<br>
+### Sigur Rós - Von Full Album Stream
+{{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von Full Album Stream" >}}<br>
 
 
 ## Release Images

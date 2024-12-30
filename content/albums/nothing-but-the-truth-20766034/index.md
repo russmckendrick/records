@@ -62,27 +62,27 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 
 
 ## Videos
-### Versions of the Truth (Nothing But The Truth)
-{{< youtube id="wN2UoQLf-so" title="Versions of the Truth (Nothing But The Truth)" >}}<br>
+### Versions of the Truth Nothing But The Truth
+{{< youtube id="wN2UoQLf-so" title="Versions of the Truth Nothing But The Truth" >}}<br>
 ### More Videos
 
-- [In Exile (Nothing But The Truth)](https://www.youtube.com/watch?v=z-7iAQBnlXk)
-- [Warm Seas (Nothing But The Truth)](https://www.youtube.com/watch?v=HzFnNXvukVk)
+- [In Exile Nothing But The Truth](https://www.youtube.com/watch?v=z-7iAQBnlXk)
+- [Warm Seas Nothing But The Truth](https://www.youtube.com/watch?v=HzFnNXvukVk)
 - [The Pineapple Thief - Our Mire](https://www.youtube.com/watch?v=fXK3bTcUDOs)
-- [Build a World (Nothing But The Truth)](https://www.youtube.com/watch?v=vP57XBhB5-0)
-- [Demons (Nothing But The Truth)](https://www.youtube.com/watch?v=rljS4gjt02E)
-- [Driving Like Maniacs (Nothing But The Truth)](https://www.youtube.com/watch?v=DvPRkwAXuYg)
+- [Build a World Nothing But The Truth](https://www.youtube.com/watch?v=vP57XBhB5-0)
+- [Demons Nothing But The Truth](https://www.youtube.com/watch?v=rljS4gjt02E)
+- [Driving Like Maniacs Nothing But The Truth](https://www.youtube.com/watch?v=DvPRkwAXuYg)
 - [The Pineapple Thief - Someone Pull Me Out of Here](https://www.youtube.com/watch?v=hKYOamo5BkY)
-- [Uncovering Your Tracks (Nothing But The Truth)](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
-- [Break It All (Nothing But The Truth)](https://www.youtube.com/watch?v=l4VIlJJH1dk)
-- [White Mist (Nothing But The Truth)](https://www.youtube.com/watch?v=lMmZyB1zS_Y)
-- [Out of Line (Nothing But The Truth)](https://www.youtube.com/watch?v=1WqFswe0ZnA)
+- [Uncovering Your Tracks Nothing But The Truth](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
+- [Break It All Nothing But The Truth](https://www.youtube.com/watch?v=l4VIlJJH1dk)
+- [White Mist Nothing But The Truth](https://www.youtube.com/watch?v=lMmZyB1zS_Y)
+- [Out of Line Nothing But The Truth](https://www.youtube.com/watch?v=1WqFswe0ZnA)
 - [The Pineapple Thief - Wretched Soul](https://www.youtube.com/watch?v=0feChcaPsPw)
-- [Far Below (Nothing But The Truth)](https://www.youtube.com/watch?v=r7aVYMnFmoA)
-- [Threatening War (Nothing But The Truth)](https://www.youtube.com/watch?v=I-XlPxeRC4M)
-- [The Swell (Nothing But The Truth)](https://www.youtube.com/watch?v=p5VJqMLRUng)
-- [The Final Thing on My Mind (Nothing But The Truth)](https://www.youtube.com/watch?v=fODhYXZCRmo)
-- [Drum Cam Split Screen - Our Mire by The Pineapple Thief (From 'Nothing But The Truth')](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
+- [Far Below Nothing But The Truth](https://www.youtube.com/watch?v=r7aVYMnFmoA)
+- [Threatening War Nothing But The Truth](https://www.youtube.com/watch?v=I-XlPxeRC4M)
+- [The Swell Nothing But The Truth](https://www.youtube.com/watch?v=p5VJqMLRUng)
+- [The Final Thing on My Mind Nothing But The Truth](https://www.youtube.com/watch?v=fODhYXZCRmo)
+- [Drum Cam Split Screen - Our Mire by The Pineapple Thief From Nothing But The Truth](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
 
 ## Release Images
 {{< imageGrid >}}

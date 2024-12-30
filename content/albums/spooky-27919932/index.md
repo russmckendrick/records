@@ -51,8 +51,8 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 
 
 ## Videos
-### Lush - Superblast! (Official Video)
-{{< youtube id="_uU5DU7P83E" title="Lush - Superblast! (Official Video)" >}}<br>
+### Lush - Superblast Official Video
+{{< youtube id="_uU5DU7P83E" title="Lush - Superblast Official Video" >}}<br>
 ### More Videos
 
 - [Lush - Nothing Natural](https://www.youtube.com/watch?v=eUuCXE6nnNs)

@@ -49,11 +49,11 @@ The second part of the double CD release, entitled Official Bootleg 1990–2020,
 
 
 ## Videos
-### Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)
-{{< youtube id="h7-XdZj3a_A" title="Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)" >}}<br>
+### Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video
+{{< youtube id="h7-XdZj3a_A" title="Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Therapy? (ft. James Dean Bradfield) - Die Laughing (2020 Version) (Official Lyric Video)](https://www.youtube.com/watch?v=h7-XdZj3a_A)
+- [Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video](https://www.youtube.com/watch?v=h7-XdZj3a_A)
 
 ## Release Images
 {{< imageGrid >}}

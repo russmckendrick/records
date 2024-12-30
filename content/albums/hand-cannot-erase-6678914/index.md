@@ -70,10 +70,10 @@ Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven 
 {{< youtube id="gOU_zWdhAoE" title="Steven Wilson - Perfect Life" >}}<br>
 ### More Videos
 
-- [Steven Wilson - Routine (from Hand. Cannot. Erase.)](https://www.youtube.com/watch?v=sCn-CNanD_g)
+- [Steven Wilson - Routine from Hand Cannot Erase](https://www.youtube.com/watch?v=sCn-CNanD_g)
 - [Steven Wilson - Perfect Life](https://www.youtube.com/watch?v=gOU_zWdhAoE)
-- [Steven Wilson - Routine (from Hand. Cannot. Erase.)](https://www.youtube.com/watch?v=sCn-CNanD_g)
-- [Steven Wilson - Hand Cannot Erase [Full Album]](https://www.youtube.com/watch?v=pGDxsQohs1w)
+- [Steven Wilson - Routine from Hand Cannot Erase](https://www.youtube.com/watch?v=sCn-CNanD_g)
+- [Steven Wilson - Hand Cannot Erase Full Album](https://www.youtube.com/watch?v=pGDxsQohs1w)
 
 ## Release Images
 {{< imageGrid >}}

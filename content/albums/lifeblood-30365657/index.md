@@ -54,20 +54,20 @@ An expanded and remastered edition was released in 2024 to mark its 20th anniver
 
 
 ## Videos
-### Manic Street Preachers - Empty Souls (Official HD Video)
-{{< youtube id="70nnDUVgwFU" title="Manic Street Preachers - Empty Souls (Official HD Video)" >}}<br>
+### Manic Street Preachers - Empty Souls Official HD Video
+{{< youtube id="70nnDUVgwFU" title="Manic Street Preachers - Empty Souls Official HD Video" >}}<br>
 ### More Videos
 
-- [Manic Street Preachers - The Love of Richard Nixon (Official Video)](https://www.youtube.com/watch?v=K_G_R_1gMfc)
-- [Manic Street Preachers - To Repel Ghosts (Official Visualiser)](https://www.youtube.com/watch?v=T5Ufb858Qgo)
-- [Manic Street Preachers - A Song for Departure (Official Visualiser)](https://www.youtube.com/watch?v=Ogztsx3fF1c)
-- [1985 (Steven Wilson's Extended Eighties Mix - Official Visualiser)](https://www.youtube.com/watch?v=j31oiPuyiWA)
-- [Manic Street Preachers - The Love Of Richard Nixon (Official HD Video)](https://www.youtube.com/watch?v=b8QQhRWqFnI)
-- [Manic Street Preachers - Lifeblood Album (Official Trailer)](https://www.youtube.com/watch?v=h7sOVe7CVP0)
+- [Manic Street Preachers - The Love of Richard Nixon Official Video](https://www.youtube.com/watch?v=K_G_R_1gMfc)
+- [Manic Street Preachers - To Repel Ghosts Official Visualiser](https://www.youtube.com/watch?v=T5Ufb858Qgo)
+- [Manic Street Preachers - A Song for Departure Official Visualiser](https://www.youtube.com/watch?v=Ogztsx3fF1c)
+- [1985 Steven Wilsons Extended Eighties Mix - Official Visualiser](https://www.youtube.com/watch?v=j31oiPuyiWA)
+- [Manic Street Preachers - The Love Of Richard Nixon Official HD Video](https://www.youtube.com/watch?v=b8QQhRWqFnI)
+- [Manic Street Preachers - Lifeblood Album Official Trailer](https://www.youtube.com/watch?v=h7sOVe7CVP0)
 - [Manic Street Preachers-Lifeblood-Full Album](https://www.youtube.com/watch?v=M2k67mQFpWU)
-- [Manic Street Preachers / Lifeblood reissue – 'all formats' unboxing video](https://www.youtube.com/watch?v=LuSjeo4g5zs)
-- [Manic Street Preachers - 1985 (Live at The Isle of Wight Festival, 2023)](https://www.youtube.com/watch?v=aW1rzC8TNpM)
-- [Manic Street Preachers - A Song for Departure (Live at The Isle of Wight Festival, 2023)](https://www.youtube.com/watch?v=TUGZY-L7e8o)
+- [Manic Street Preachers  Lifeblood reissue  all formats unboxing video](https://www.youtube.com/watch?v=LuSjeo4g5zs)
+- [Manic Street Preachers - 1985 Live at The Isle of Wight Festival 2023](https://www.youtube.com/watch?v=aW1rzC8TNpM)
+- [Manic Street Preachers - A Song for Departure Live at The Isle of Wight Festival 2023](https://www.youtube.com/watch?v=TUGZY-L7e8o)
 - [Manic Street Preachers - 1985](https://www.youtube.com/watch?v=1OAYSXGL2BE)
 
 ## Release Images

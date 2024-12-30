@@ -57,8 +57,8 @@ The album was a critical success, with reviewers praising its production, lyrics
 
 - [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
 - [The Beautiful South - Old Red Eyes Is Back](https://www.youtube.com/watch?v=ggJYJ9frSl0)
-- [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
-- [The Beautiful South - Bell Bottomed Tear [Live]](https://www.youtube.com/watch?v=8EqtpCLUbvM)
+- [Beautiful South - When Im 84](https://www.youtube.com/watch?v=H4P9uInSFks)
+- [The Beautiful South - Bell Bottomed Tear Live](https://www.youtube.com/watch?v=8EqtpCLUbvM)
 - [Here It Is Again](https://www.youtube.com/watch?v=cfIbFWrqGZ8)
 
 ## Release Images

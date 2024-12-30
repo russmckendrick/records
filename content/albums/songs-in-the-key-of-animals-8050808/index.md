@@ -41,8 +41,8 @@ Songs in the Key of Animals is the second studio album by American musician Benj
 
 
 ## Videos
-### Benji Hughes - Peacockin' Party (Official Music Video)
-{{< youtube id="rmHcDfvHP-A" title="Benji Hughes - Peacockin' Party (Official Music Video)" >}}<br>
+### Benji Hughes - Peacockin Party Official Music Video
+{{< youtube id="rmHcDfvHP-A" title="Benji Hughes - Peacockin Party Official Music Video" >}}<br>
 
 
 ## Release Images

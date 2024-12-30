@@ -56,17 +56,17 @@ Living in Extraordinary Times received generally positive reviews from music cri
 
 
 ## Videos
-### James – ‘HANK’ (Official Audio)
-{{< youtube id="v_Vf8dNikAk" title="James – ‘HANK’ (Official Audio)" >}}<br>
+### James  HANK Official Audio
+{{< youtube id="v_Vf8dNikAk" title="James  HANK Official Audio" >}}<br>
 ### More Videos
 
-- [James – ‘Coming Home (Pt.2)’ – Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
-- [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
-- [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
-- [James – ‘HANK’ (Official Audio)](https://www.youtube.com/watch?v=v_Vf8dNikAk)
-- [James – ‘Coming Home (Pt.2)’ – Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
-- [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
-- [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
+- [James  Coming Home Pt2  Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
+- [James - Extraordinary Times - Wembley Arena London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
+- [James  The making of  Living In Extraordinary Times](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
+- [James  HANK Official Audio](https://www.youtube.com/watch?v=v_Vf8dNikAk)
+- [James  Coming Home Pt2  Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
+- [James - Extraordinary Times - Wembley Arena London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
+- [James  The making of  Living In Extraordinary Times](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
 
 ## Release Images
 {{< imageGrid >}}

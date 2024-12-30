@@ -45,8 +45,8 @@ A working title while in development was Sur la planète Ygam (On the Planet Yga
 {{< youtube id="rkJCNRJWIzU" title="Noveller - No Unholy Mountain" >}}<br>
 ### More Videos
 
-- [Noveller - 'Rubicon'](https://www.youtube.com/watch?v=hPDN9DH-now)
-- [Noveller - 'Pulse Point'](https://www.youtube.com/watch?v=C2k1ItFICXY)
+- [Noveller - Rubicon](https://www.youtube.com/watch?v=hPDN9DH-now)
+- [Noveller - Pulse Point](https://www.youtube.com/watch?v=C2k1ItFICXY)
 
 ## Release Images
 {{< imageGrid >}}

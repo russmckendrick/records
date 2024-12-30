@@ -41,12 +41,12 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Cranberries - Zombie (Official Music Video)
-{{< youtube id="6Ejga4kJUts" title="The Cranberries - Zombie (Official Music Video)" >}}<br>
+### The Cranberries - Zombie Official Music Video
+{{< youtube id="6Ejga4kJUts" title="The Cranberries - Zombie Official Music Video" >}}<br>
 ### More Videos
 
 - [The Cranberries - Zombie 1999 Live Video](https://www.youtube.com/watch?v=8MuhFxaT7zo)
-- [The Cranberries - Zombie (Official Music Video)](https://www.youtube.com/watch?v=6Ejga4kJUts)
+- [The Cranberries - Zombie Official Music Video](https://www.youtube.com/watch?v=6Ejga4kJUts)
 - [The Cranberries - Zombie 1999 Live Video](https://www.youtube.com/watch?v=8MuhFxaT7zo)
 
 ## Release Images

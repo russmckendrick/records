@@ -54,14 +54,14 @@ The album includes the song "Green-Tinted Sixties Mind".
 
 
 ## Videos
-### CD / Mr. Big – Lean Into It / 1991
-{{< youtube id="96FHTcm66qI" title="CD / Mr. Big – Lean Into It / 1991" >}}<br>
+### CD  Mr Big  Lean Into It  1991
+{{< youtube id="96FHTcm66qI" title="CD  Mr Big  Lean Into It  1991" >}}<br>
 ### More Videos
 
-- [MC / Mr. Big – Lean Into It / 1991](https://www.youtube.com/watch?v=W9aHOWwS5aQ)
-- [Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)](https://www.youtube.com/watch?v=46BCpSJKIjw)
-- [Mr. Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
-- [Mr. Big - Just Take My Heart (MV)](https://www.youtube.com/watch?v=AyYoc5JGY7c)
+- [MC  Mr Big  Lean Into It  1991](https://www.youtube.com/watch?v=W9aHOWwS5aQ)
+- [Mr Big - Daddy Brother Lover Little Boy The Electric Drill Song MV](https://www.youtube.com/watch?v=46BCpSJKIjw)
+- [Mr Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
+- [Mr Big - Just Take My Heart MV](https://www.youtube.com/watch?v=AyYoc5JGY7c)
 
 ## Release Images
 {{< imageGrid >}}

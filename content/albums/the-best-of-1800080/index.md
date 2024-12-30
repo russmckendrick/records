@@ -42,8 +42,8 @@ Judas Priest had been steadily gaining ground as one of the leading practitioner
 
 
 ## Videos
-### Judas Priest - The Ripper (Video)
-{{< youtube id="lriWlHZAy8A" title="Judas Priest - The Ripper (Video)" >}}<br>
+### Judas Priest - The Ripper Video
+{{< youtube id="lriWlHZAy8A" title="Judas Priest - The Ripper Video" >}}<br>
 
 
 ## Release Images

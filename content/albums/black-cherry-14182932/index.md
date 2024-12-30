@@ -50,16 +50,16 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 
 
 ## Videos
-### Goldfrapp - Strict Machine (Official HD Video)
-{{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine (Official HD Video)" >}}<br>
+### Goldfrapp - Strict Machine Official HD Video
+{{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine Official HD Video" >}}<br>
 ### More Videos
 
 - [Goldfrapp - Black Cherry Documentary](https://www.youtube.com/watch?v=Lgktgw8a69I)
 - [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
-- [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
+- [Goldfrapp - Black Cherry Lyric Video](https://www.youtube.com/watch?v=vnN342N6NQw)
 - [Crystalline Green](https://www.youtube.com/watch?v=4mZZOIBD0wA)
-- [Goldfrapp - Crystalline Green (Remastered Video).](https://www.youtube.com/watch?v=juLtASAJ-ws)
+- [Goldfrapp - Crystalline Green Remastered Video](https://www.youtube.com/watch?v=juLtASAJ-ws)
 
 ## Release Images
 {{< imageGrid >}}

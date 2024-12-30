@@ -53,12 +53,12 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 ### More Videos
 
 - [Obscured By Clouds](https://www.youtube.com/watch?v=16V-wNwlTw0)
-- [When You're In](https://www.youtube.com/watch?v=6vr07uuBjg4)
+- [When Youre In](https://www.youtube.com/watch?v=6vr07uuBjg4)
 - [Burning Bridges](https://www.youtube.com/watch?v=nsGhjcDNU2g)
-- [04 The Gold It's In The?](https://www.youtube.com/watch?v=HWhOd0ENVS8)
-- [Pink Floyd - Wot’s… Uh The Deal (Official Music Video)](https://www.youtube.com/watch?v=aGPjfj69cXE)
+- [04 The Gold Its In The](https://www.youtube.com/watch?v=HWhOd0ENVS8)
+- [Pink Floyd - Wots Uh The Deal Official Music Video](https://www.youtube.com/watch?v=aGPjfj69cXE)
 - [Mudmen](https://www.youtube.com/watch?v=uKSTu-HMPQ4)
-- [Pink Floyd - Childhood's End (Official Music Video)](https://www.youtube.com/watch?v=SnTz09-nk9c)
+- [Pink Floyd - Childhoods End Official Music Video](https://www.youtube.com/watch?v=SnTz09-nk9c)
 - [Free Four](https://www.youtube.com/watch?v=FPSb5QjgjAc)
 - [Stay](https://www.youtube.com/watch?v=Rhge-ZOgfsw)
 - [Absolutely Curtains](https://www.youtube.com/watch?v=o876axae4VE)

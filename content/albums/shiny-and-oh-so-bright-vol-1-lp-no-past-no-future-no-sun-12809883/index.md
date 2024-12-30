@@ -44,8 +44,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### The Smashing Pumpkins - Silvery Sometimes (Ghosts) (Official Video)
-{{< youtube id="Pd9Z0JBtVUw" title="The Smashing Pumpkins - Silvery Sometimes (Ghosts) (Official Video)" >}}<br>
+### The Smashing Pumpkins - Silvery Sometimes Ghosts Official Video
+{{< youtube id="Pd9Z0JBtVUw" title="The Smashing Pumpkins - Silvery Sometimes Ghosts Official Video" >}}<br>
 
 
 ## Release Images

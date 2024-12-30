@@ -52,18 +52,18 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 
 
 ## Videos
-### Guns N' Roses - Welcome To The Jungle
-{{< youtube id="o1tj2zJ2Wvg" title="Guns N' Roses - Welcome To The Jungle" >}}<br>
+### Guns N Roses - Welcome To The Jungle
+{{< youtube id="o1tj2zJ2Wvg" title="Guns N Roses - Welcome To The Jungle" >}}<br>
 ### More Videos
 
 - [Nightrain](https://www.youtube.com/watch?v=aujKauhYsgA)
 - [Out Ta Get Me](https://www.youtube.com/watch?v=RbItpD0qAk4)
-- [Mr. Brownstone](https://www.youtube.com/watch?v=-CmMFRr9RMo)
-- [Guns N' Roses - Paradise City (Official Music Video)](https://www.youtube.com/watch?v=Rbm6GXllBiw)
+- [Mr Brownstone](https://www.youtube.com/watch?v=-CmMFRr9RMo)
+- [Guns N Roses - Paradise City Official Music Video](https://www.youtube.com/watch?v=Rbm6GXllBiw)
 - [My Michelle](https://www.youtube.com/watch?v=6nhIdHpzHxM)
 - [Think About You](https://www.youtube.com/watch?v=0bjPk-wmfRQ)
-- [Guns N' Roses - Sweet Child O' Mine (Official Music Video)](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-- [You're Crazy](https://www.youtube.com/watch?v=6PO9B83mHDI)
+- [Guns N Roses - Sweet Child O Mine Official Music Video](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+- [Youre Crazy](https://www.youtube.com/watch?v=6PO9B83mHDI)
 - [Anything Goes](https://www.youtube.com/watch?v=qcCl-QVfBuI)
 - [Rocket Queen](https://www.youtube.com/watch?v=WO0OUoCDlBE)
 

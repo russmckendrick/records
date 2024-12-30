@@ -48,14 +48,14 @@ Tubular Bells II is the fifteenth studio album by English guitarist and songwrit
 
 
 ## Videos
-### Michael Gordon Oldfield - TB 2 (1992)
-{{< youtube id="815lML8_xQk" title="Michael Gordon Oldfield - TB 2 (1992)" >}}<br>
+### Michael Gordon Oldfield - TB 2 1992
+{{< youtube id="815lML8_xQk" title="Michael Gordon Oldfield - TB 2 1992" >}}<br>
 ### More Videos
 
 - [Mike Oldfield   Tubular Bells   Part 2](https://www.youtube.com/watch?v=4pfzuFvFIeI)
 - [Mike Oldfield - Tubular Bells Full Album](https://www.youtube.com/watch?v=bv_4sZCLlr0)
-- [[HQ/HD] Mike Oldfield - Tubular Bells (Remastered) - Full Album](https://www.youtube.com/watch?v=eE0hhLT3E7g)
-- [MIKE OLDDFIELDD - Tubular Bells Three (1998) Full Album](https://www.youtube.com/watch?v=kuJAE-gMO1I)
+- [HQHD Mike Oldfield - Tubular Bells Remastered - Full Album](https://www.youtube.com/watch?v=eE0hhLT3E7g)
+- [MIKE OLDDFIELDD - Tubular Bells Three 1998 Full Album](https://www.youtube.com/watch?v=kuJAE-gMO1I)
 
 ## Release Images
 {{< imageGrid >}}

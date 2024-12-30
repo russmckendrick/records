@@ -45,13 +45,13 @@ styles: ["Downtempo"]
 
 
 ## Videos
-### bdrmm - Be Careful (Official Video)
-{{< youtube id="QGS0J-llR8o" title="bdrmm - Be Careful (Official Video)" >}}<br>
+### bdrmm - Be Careful Official Video
+{{< youtube id="QGS0J-llR8o" title="bdrmm - Be Careful Official Video" >}}<br>
 ### More Videos
 
-- [bdrmm   - Pulling Stitches (Official Video)](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
-- [bdrmm - Be Careful (Official Video)](https://www.youtube.com/watch?v=QGS0J-llR8o)
-- [bdrmm   - Pulling Stitches (Official Video)](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
+- [bdrmm   - Pulling Stitches Official Video](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
+- [bdrmm - Be Careful Official Video](https://www.youtube.com/watch?v=QGS0J-llR8o)
+- [bdrmm   - Pulling Stitches Official Video](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
 
 ## Release Images
 {{< imageGrid >}}

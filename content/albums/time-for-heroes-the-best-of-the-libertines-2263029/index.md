@@ -49,11 +49,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### The Libertines - Can't Stand Me Now (Official Video)
-{{< youtube id="CqM11bt9QvI" title="The Libertines - Can't Stand Me Now (Official Video)" >}}<br>
+### The Libertines - Cant Stand Me Now Official Video
+{{< youtube id="CqM11bt9QvI" title="The Libertines - Cant Stand Me Now Official Video" >}}<br>
 ### More Videos
 
-- [The Libertines - Can't Stand Me Now (Official Video)](https://www.youtube.com/watch?v=CqM11bt9QvI)
+- [The Libertines - Cant Stand Me Now Official Video](https://www.youtube.com/watch?v=CqM11bt9QvI)
 
 ## Release Images
 {{< imageGrid >}}

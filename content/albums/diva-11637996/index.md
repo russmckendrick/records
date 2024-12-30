@@ -47,19 +47,19 @@ Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. T
 
 
 ## Videos
-### Annie Lennox - Why (Official Music Video)
-{{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why (Official Music Video)" >}}<br>
+### Annie Lennox - Why Official Music Video
+{{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why Official Music Video" >}}<br>
 ### More Videos
 
-- [Annie Lennox - Precious (Official Video)](https://www.youtube.com/watch?v=HQCHd__Zd1w)
-- [Annie Lennox - Legend In My Living Room (Official Video)](https://www.youtube.com/watch?v=YrHUkE3A_G0)
-- [Annie Lennox - Little Bird (Official Video)](https://www.youtube.com/watch?v=pjbNLVQ_Iwk)
-- [Annie Lennox - Cold (Official Video)](https://www.youtube.com/watch?v=xi19gH6_waE)
-- [Annie Lennox - Primitive (Official Video)](https://www.youtube.com/watch?v=0W3cxF409Pg)
-- [Annie Lennox - Walking on Broken Glass (Official Video)](https://www.youtube.com/watch?v=y25stK5ymlA)
-- [Annie Lennox - Money Can't Buy It (Official Video)](https://www.youtube.com/watch?v=z7-bj7idSok)
-- [Annie Lennox - The Gift (Official Video)](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
-- [Annie Lennox - Keep Young and Beautiful (Official Video)](https://www.youtube.com/watch?v=pfk8kLJMab0)
+- [Annie Lennox - Precious Official Video](https://www.youtube.com/watch?v=HQCHd__Zd1w)
+- [Annie Lennox - Legend In My Living Room Official Video](https://www.youtube.com/watch?v=YrHUkE3A_G0)
+- [Annie Lennox - Little Bird Official Video](https://www.youtube.com/watch?v=pjbNLVQ_Iwk)
+- [Annie Lennox - Cold Official Video](https://www.youtube.com/watch?v=xi19gH6_waE)
+- [Annie Lennox - Primitive Official Video](https://www.youtube.com/watch?v=0W3cxF409Pg)
+- [Annie Lennox - Walking on Broken Glass Official Video](https://www.youtube.com/watch?v=y25stK5ymlA)
+- [Annie Lennox - Money Cant Buy It Official Video](https://www.youtube.com/watch?v=z7-bj7idSok)
+- [Annie Lennox - The Gift Official Video](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
+- [Annie Lennox - Keep Young and Beautiful Official Video](https://www.youtube.com/watch?v=pfk8kLJMab0)
 - [Love Song For A Vampire](https://www.youtube.com/watch?v=vhG8zC4npsE)
 
 ## Release Images

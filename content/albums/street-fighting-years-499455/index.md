@@ -53,14 +53,14 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 
 
 ## Videos
-### Simple Minds - Street Fighting Years (Live)
-{{< youtube id="TJw3WTtOLqk" title="Simple Minds - Street Fighting Years (Live)" >}}<br>
+### Simple Minds - Street Fighting Years Live
+{{< youtube id="TJw3WTtOLqk" title="Simple Minds - Street Fighting Years Live" >}}<br>
 ### More Videos
 
 - [Simple Minds - Belfast Child](https://www.youtube.com/watch?v=7vhhTvcLoRw)
 - [Simple Minds - Kick It In](https://www.youtube.com/watch?v=Fe2Pl9MnPHc)
-- [Biko (Remastered 2002)](https://www.youtube.com/watch?v=o4TKoLcrAdY)
-- [Simple Minds - Street Fighting Years (Live)](https://www.youtube.com/watch?v=TJw3WTtOLqk)
+- [Biko Remastered 2002](https://www.youtube.com/watch?v=o4TKoLcrAdY)
+- [Simple Minds - Street Fighting Years Live](https://www.youtube.com/watch?v=TJw3WTtOLqk)
 - [Simple Minds - This Is Your Land](https://www.youtube.com/watch?v=GqpAY2OBJzc)
 
 ## Release Images

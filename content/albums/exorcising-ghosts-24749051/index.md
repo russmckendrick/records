@@ -71,8 +71,8 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 - [Ghosts](https://www.youtube.com/watch?v=ZK8DBICAWFs)
 - [Life Without Buildings](https://www.youtube.com/watch?v=8dhgiDNhG9k)
 - [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
-- [Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)](https://www.youtube.com/watch?v=-EA4vEYRZTk)
-- [Gentlemen Take Polaroids (Remastered 2003)](https://www.youtube.com/watch?v=Yf9JA-IHwvo)
+- [Taking Islands In Africa Steve Nye Remix  2003 Digital Remaster](https://www.youtube.com/watch?v=-EA4vEYRZTk)
+- [Gentlemen Take Polaroids Remastered 2003](https://www.youtube.com/watch?v=Yf9JA-IHwvo)
 - [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
 
 ## Release Images

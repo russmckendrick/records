@@ -56,11 +56,11 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 
 
 ## Videos
-### Sigur Ros - Glósóli [Official Music Video]
-{{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli [Official Music Video]" >}}<br>
+### Sigur Ros - Glósóli Official Music Video
+{{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli Official Music Video" >}}<br>
 ### More Videos
 
-- [Takk...](https://www.youtube.com/watch?v=mT8X_5m25bI)
+- [Takk](https://www.youtube.com/watch?v=mT8X_5m25bI)
 - [Glósóli](https://www.youtube.com/watch?v=jG5Lk99kG_s)
 - [Hoppípolla](https://www.youtube.com/watch?v=559un6zgVq4)
 - [Með Blóðnasir](https://www.youtube.com/watch?v=7D3rNTwYJqU)

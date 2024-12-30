@@ -50,10 +50,10 @@ A signature song for the dreamiest original shoegaze acts, â€œCatch the Breezeâ€
 {{< youtube id="twfEU6MPzDw" title="Spanish Air" >}}<br>
 ### More Videos
 
-- [Celia's Dream](https://www.youtube.com/watch?v=IX1QyW41OsA)
+- [Celias Dream](https://www.youtube.com/watch?v=IX1QyW41OsA)
 - [Catch The Breeze](https://www.youtube.com/watch?v=5XMl7Mjrszg)
 - [Ballad Of Sister Sue](https://www.youtube.com/watch?v=6pPBdDqlpEE)
-- [Erik's Song](https://www.youtube.com/watch?v=r-ffBc1UcDc)
+- [Eriks Song](https://www.youtube.com/watch?v=r-ffBc1UcDc)
 - [Waves](https://www.youtube.com/watch?v=cPZDOuqzcng)
 - [Brighter](https://www.youtube.com/watch?v=q6h4fNits_Y)
 - [The Sadman](https://www.youtube.com/watch?v=8-faqEkqRuM)

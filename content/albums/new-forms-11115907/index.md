@@ -56,35 +56,35 @@ New Forms was promoted by the release of its four singles, "Share the Fall", "He
 
 
 ## Videos
-### RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )
-{{< youtube id="ivbFTbGQwzY" title="RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )" >}}<br>
+### RONI SIZE  REPRAZENT  -  New Forms  Disc 1   Full Album 
+{{< youtube id="ivbFTbGQwzY" title="RONI SIZE  REPRAZENT  -  New Forms  Disc 1   Full Album " >}}<br>
 ### More Videos
 
-- [RONI SIZE / REPRAZENT  -  New Forms  Disc 2 ( Full Album )](https://www.youtube.com/watch?v=Wi__R7WqB9w)
+- [RONI SIZE  REPRAZENT  -  New Forms  Disc 2  Full Album ](https://www.youtube.com/watch?v=Wi__R7WqB9w)
 - [Intro](https://www.youtube.com/watch?v=zQeWeU8lfvs)
-- [Roni Size and Reprazent - Railing pt. 1](https://www.youtube.com/watch?v=TjgFx2HdAGE)
+- [Roni Size and Reprazent - Railing pt 1](https://www.youtube.com/watch?v=TjgFx2HdAGE)
 - [roni size-brown paper bag](https://www.youtube.com/watch?v=kUvCjREJSvA)
-- [Roni Size & Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
+- [Roni Size  Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
 - [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
 - [Share The Fall](https://www.youtube.com/watch?v=77NASpKZw8Y)
 - [Roni Size Reprazent - Watching Windows](https://www.youtube.com/watch?v=AZeGmKK8ZW0)
-- [Roni Size / Reprazent - Morse Code](https://www.youtube.com/watch?v=Ii1Y98ziXYA)
+- [Roni Size  Reprazent - Morse Code](https://www.youtube.com/watch?v=Ii1Y98ziXYA)
 - [Roni Size Reprazent - Destination](https://www.youtube.com/watch?v=jthxuoPLt3E)
-- [Roni Size & Reprazent - Railing](https://www.youtube.com/watch?v=tQFyMhLzx-c)
+- [Roni Size  Reprazent - Railing](https://www.youtube.com/watch?v=tQFyMhLzx-c)
 - [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
-- [The Rebirth Of Cool Seven - Roni Size: Ballet Dance](https://www.youtube.com/watch?v=NPbUhIX8MaM)
-- [Roni Size & Reprazent - Trust Me (Talkin' Loud)](https://www.youtube.com/watch?v=bitkNUl2mt0)
+- [The Rebirth Of Cool Seven - Roni Size Ballet Dance](https://www.youtube.com/watch?v=NPbUhIX8MaM)
+- [Roni Size  Reprazent - Trust Me Talkin Loud](https://www.youtube.com/watch?v=bitkNUl2mt0)
 - [Hi-Potent](https://www.youtube.com/watch?v=GOvOYcsWB6I)
 - [Mad Cat](https://www.youtube.com/watch?v=sU5PQKFdCA4)
 - [Roni Size - Matter Of Fact   1997](https://www.youtube.com/watch?v=ugULktqgGTo)
-- [Roni Size & Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
-- [Roni Size / Reprazent - New Forms Feat. Bahamadia](https://www.youtube.com/watch?v=w5WESA3ACc4)
+- [Roni Size  Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
+- [Roni Size  Reprazent - New Forms Feat Bahamadia](https://www.youtube.com/watch?v=w5WESA3ACc4)
 - [Roni Size Reprazent - New Forms](https://www.youtube.com/watch?v=CIU37LagLUM)
-- [Roni Size, Reprazent - Brown Paper Bag](https://www.youtube.com/watch?v=cwI0gbGEyuI)
+- [Roni Size Reprazent - Brown Paper Bag](https://www.youtube.com/watch?v=cwI0gbGEyuI)
 - [New Forms](https://www.youtube.com/watch?v=SZ-H2fAwL-s)
 - [Roni Size Reprazent -  Change My Life](https://www.youtube.com/watch?v=DVXhlpxutII)
-- [RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )](https://www.youtube.com/watch?v=ivbFTbGQwzY)
-- [RONI SIZE / REPRAZENT  -  New Forms  Disc 2 ( Full Album )](https://www.youtube.com/watch?v=Wi__R7WqB9w)
+- [RONI SIZE  REPRAZENT  -  New Forms  Disc 1   Full Album ](https://www.youtube.com/watch?v=ivbFTbGQwzY)
+- [RONI SIZE  REPRAZENT  -  New Forms  Disc 2  Full Album ](https://www.youtube.com/watch?v=Wi__R7WqB9w)
 
 ## Release Images
 {{< imageGrid >}}

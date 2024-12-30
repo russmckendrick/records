@@ -72,24 +72,24 @@ Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini
 
 
 ## Videos
-### Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)
-{{< youtube id="wsDWu4vC-eI" title="Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)" >}}<br>
+### Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix
+{{< youtube id="wsDWu4vC-eI" title="Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix" >}}<br>
 ### More Videos
 
-- [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
-- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
-- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
+- [Baby Blue Rae  Christian Remix](https://www.youtube.com/watch?v=ESrnf0rz05A)
+- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=Qqvk2X3I88k)
+- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 - [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
 - [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
-- [Emiliana Torrini - Easy (Acoustic Rare)](https://www.youtube.com/watch?v=iSDRNyyKS64)
-- [Emiliana Torrini -Tuna Fish (Acoustic version).wmv](https://www.youtube.com/watch?v=xf5tKnmYNyg)
+- [Emiliana Torrini - Easy Acoustic Rare](https://www.youtube.com/watch?v=iSDRNyyKS64)
+- [Emiliana Torrini -Tuna Fish Acoustic versionwmv](https://www.youtube.com/watch?v=xf5tKnmYNyg)
 - [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
 - [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
 - [Emilíana Torrini - Unemployed in Summertime - Music Video](https://www.youtube.com/watch?v=lDi_tJcCJP0)
-- [Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)](https://www.youtube.com/watch?v=wsDWu4vC-eI)
-- [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
-- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
-- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
+- [Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix](https://www.youtube.com/watch?v=wsDWu4vC-eI)
+- [Baby Blue Rae  Christian Remix](https://www.youtube.com/watch?v=ESrnf0rz05A)
+- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=Qqvk2X3I88k)
+- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 
 ## Release Images
 {{< imageGrid >}}

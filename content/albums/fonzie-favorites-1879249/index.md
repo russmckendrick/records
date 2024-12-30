@@ -63,18 +63,18 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 - [Joe Jones - You talk too much](https://www.youtube.com/watch?v=L33DMVWfS8g)
 - [BARBARA  ANN - THE REGENTS](https://www.youtube.com/watch?v=fA_AetLMHo4)
 - [Jerry Lee Lewis - Great Balls of Fire](https://www.youtube.com/watch?v=7IjgZGhHrYY)
-- [Bill Haley - Rock Around The Clock (1956)](https://www.youtube.com/watch?v=F5fsqYctXgM)
+- [Bill Haley - Rock Around The Clock 1956](https://www.youtube.com/watch?v=F5fsqYctXgM)
 - [Fonzerelli Slide](https://www.youtube.com/watch?v=PO7-jN9mLso)
-- [The Dubs - "Could This Be Magic"](https://www.youtube.com/watch?v=jsH418wCt3M)
+- [The Dubs - Could This Be Magic](https://www.youtube.com/watch?v=jsH418wCt3M)
 - [The Flamingos - I Only Have Eyes For You](https://www.youtube.com/watch?v=63nlhoda2MY)
-- [Tear's On My Pillow](https://www.youtube.com/watch?v=we2kmO24rgE)
+- [Tears On My Pillow](https://www.youtube.com/watch?v=we2kmO24rgE)
 - [A Million To One- Jimmy Charles- 1960](https://www.youtube.com/watch?v=Jtej42eOdXA)
 - [In the Still of the Night - Fred Parris and The Satins](https://www.youtube.com/watch?v=fBT3oDMCWpI)
 - [Rays Silhouettes](https://www.youtube.com/watch?v=_E2wBksA7l4)
-- [The Skyliners - Since I Don't Have You](https://www.youtube.com/watch?v=ngZh6ZSRoYg)
+- [The Skyliners - Since I Dont Have You](https://www.youtube.com/watch?v=ngZh6ZSRoYg)
 - [Ya Ya](https://www.youtube.com/watch?v=NcwD7kh28M0)
 - [Happy Days intro](https://www.youtube.com/watch?v=6W6y7YhHdVE)
-- [THE FONZ SONG by The Heyettes (1976)](https://www.youtube.com/watch?v=wfM8UgSzopU)
+- [THE FONZ SONG by The Heyettes 1976](https://www.youtube.com/watch?v=wfM8UgSzopU)
 
 ## Release Images
 {{< imageGrid >}}

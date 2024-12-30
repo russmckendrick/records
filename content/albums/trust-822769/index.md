@@ -34,15 +34,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Trust
-{{< youtube id="yPCQ_D7GTgU" title="Ned's Atomic Dustbin - Trust" >}}<br>
+### Neds Atomic Dustbin - Trust
+{{< youtube id="yPCQ_D7GTgU" title="Neds Atomic Dustbin - Trust" >}}<br>
 ### More Videos
 
-- [Ned's Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
-- [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
-- [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
-- [Ned's Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
-- [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
+- [Neds Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
+- [Neds Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
+- [Neds Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
+- [Neds Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
+- [Neds Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
 
 ## Release Images
 {{< imageGrid >}}

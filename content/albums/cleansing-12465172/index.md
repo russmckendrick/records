@@ -49,12 +49,12 @@ The record was reissued by SPV/Steamhammer in 2008.
 
 
 ## Videos
-### Prong - Snap your fingers, snap your neck
-{{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers, snap your neck" >}}<br>
+### Prong - Snap your fingers snap your neck
+{{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers snap your neck" >}}<br>
 ### More Videos
 
 - [Another Wordly Device](https://www.youtube.com/watch?v=56xikc4Ovws)
-- [Snap Your Fingers, Snap Your Neck](https://www.youtube.com/watch?v=23rnAs9BHkk)
+- [Snap Your Fingers Snap Your Neck](https://www.youtube.com/watch?v=23rnAs9BHkk)
 - [Cut-Rate](https://www.youtube.com/watch?v=iRvfSGsDZYo)
 - [Broken Peace](https://www.youtube.com/watch?v=tMtyTAJ4psQ)
 - [One Outnumbered](https://www.youtube.com/watch?v=z4e_zONPj24)
@@ -65,9 +65,9 @@ The record was reissued by SPV/Steamhammer in 2008.
 - [Sublime](https://www.youtube.com/watch?v=RryQKHH_v28)
 - [Test](https://www.youtube.com/watch?v=7A_cYoMo3iQ)
 - [Prong - Broken Peace](https://www.youtube.com/watch?v=TbTJIHqNmc8)
-- [Prong announces "25 years of CLEANSING" European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
-- [Prong - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=SLya_k_lQL0)
-- [PRONG - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=v49Hve4GvOo)
+- [Prong announces 25 years of CLEANSING European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
+- [Prong - Whose Fist Is This Anyway](https://www.youtube.com/watch?v=SLya_k_lQL0)
+- [PRONG - Whose Fist Is This Anyway](https://www.youtube.com/watch?v=v49Hve4GvOo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -69,11 +69,11 @@ Delta Machine is the thirteenth studio album by English electronic music band De
 
 
 ## Videos
-### Depeche Mode - Delta Machine (Full Album)
-{{< youtube id="nSn3VeWM8GU" title="Depeche Mode - Delta Machine (Full Album)" >}}<br>
+### Depeche Mode - Delta Machine Full Album
+{{< youtube id="nSn3VeWM8GU" title="Depeche Mode - Delta Machine Full Album" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Delta Machine (Full Album)](https://www.youtube.com/watch?v=nSn3VeWM8GU)
+- [Depeche Mode - Delta Machine Full Album](https://www.youtube.com/watch?v=nSn3VeWM8GU)
 
 ## Release Images
 {{< imageGrid >}}

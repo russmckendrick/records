@@ -48,31 +48,31 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin-Legoland
-{{< youtube id="yCWYygUCwOk" title="Ned's Atomic Dustbin-Legoland" >}}<br>
+### Neds Atomic Dustbin-Legoland
+{{< youtube id="yCWYygUCwOk" title="Neds Atomic Dustbin-Legoland" >}}<br>
 ### More Videos
 
 - [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
-- [Ned's Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
+- [Neds Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
 - [Neds Atomic Dustbin - Swallowing Air](https://www.youtube.com/watch?v=wIpnNiQxg7A)
-- [Ned's Atomic Dustbin - Who Goes First?](https://www.youtube.com/watch?v=OqWXJcGAwVI)
-- [Ned's Atomic Dustbin-Two And Two Made Five.](https://www.youtube.com/watch?v=KSm40achaFI)
+- [Neds Atomic Dustbin - Who Goes First](https://www.youtube.com/watch?v=OqWXJcGAwVI)
+- [Neds Atomic Dustbin-Two And Two Made Five](https://www.youtube.com/watch?v=KSm40achaFI)
 - [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
 - [Neds Atomic Dustbin - Tantrum](https://www.youtube.com/watch?v=ZcsLYwWxa7A)
-- [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
-- [Ned's Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=o4a9E89Iq3o)
-- [Ned's Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
-- [Ned's Atomic Dustbin-Legoland](https://www.youtube.com/watch?v=yCWYygUCwOk)
-- [Ned's Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
-- [Ned's Atomic Dustbin - Who Goes First?](https://www.youtube.com/watch?v=OqWXJcGAwVI)
-- [Ned's Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
+- [Neds Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
+- [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=o4a9E89Iq3o)
+- [Neds Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
+- [Neds Atomic Dustbin-Legoland](https://www.youtube.com/watch?v=yCWYygUCwOk)
+- [Neds Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
+- [Neds Atomic Dustbin - Who Goes First](https://www.youtube.com/watch?v=OqWXJcGAwVI)
+- [Neds Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
 - [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
 - [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=CZhmQ0JC7Cg)
 - [Neds Atomic Dustbin - Swallowing Air](https://www.youtube.com/watch?v=wIpnNiQxg7A)
-- [Ned's Atomic Dustbin-Two And Two Made Five.](https://www.youtube.com/watch?v=KSm40achaFI)
+- [Neds Atomic Dustbin-Two And Two Made Five](https://www.youtube.com/watch?v=KSm40achaFI)
 - [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
-- [Ned's Atomic Dustbin-Walking through Syrup](https://www.youtube.com/watch?v=7LdC3FCprnI)
-- [Ned's Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
+- [Neds Atomic Dustbin-Walking through Syrup](https://www.youtube.com/watch?v=7LdC3FCprnI)
+- [Neds Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
 - [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 
 ## Release Images

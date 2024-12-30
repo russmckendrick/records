@@ -63,7 +63,7 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 - [Texas Flood](https://www.youtube.com/watch?v=p4uM070KexI)
 - [Life by the Drop](https://www.youtube.com/watch?v=vPcB4yXLl_4)
 - [Long Way from Home](https://www.youtube.com/watch?v=t0jzRr-LhaE)
-- [Rude Mood/Hide Away (Live)](https://www.youtube.com/watch?v=mBzud6-s5rg)
+- [Rude MoodHide Away Live](https://www.youtube.com/watch?v=mBzud6-s5rg)
 
 ## Release Images
 {{< imageGrid >}}

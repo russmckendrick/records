@@ -57,12 +57,12 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### Good Apollo, I'm Burning Star IV, Volume One From Fear Through the Eyes of Madness (Full Album)
-{{< youtube id="Z8zpd4JxgDM" title="Good Apollo, I'm Burning Star IV, Volume One From Fear Through the Eyes of Madness (Full Album)" >}}<br>
+### Good Apollo Im Burning Star IV Volume One From Fear Through the Eyes of Madness Full Album
+{{< youtube id="Z8zpd4JxgDM" title="Good Apollo Im Burning Star IV Volume One From Fear Through the Eyes of Madness Full Album" >}}<br>
 ### More Videos
 
-- [Coheed and Cambria - Welcome Home (Official Video)](https://www.youtube.com/watch?v=n0H3RlaQVrM)
-- [Coheed and Cambria - The Suffering (Video)](https://www.youtube.com/watch?v=XnABRPS37hk)
+- [Coheed and Cambria - Welcome Home Official Video](https://www.youtube.com/watch?v=n0H3RlaQVrM)
+- [Coheed and Cambria - The Suffering Video](https://www.youtube.com/watch?v=XnABRPS37hk)
 
 ## Release Images
 {{< imageGrid >}}

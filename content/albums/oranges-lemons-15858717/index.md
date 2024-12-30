@@ -57,20 +57,20 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 
 
 ## Videos
-### Garden Of Earthly Delights (2001 Remaster)
-{{< youtube id="LOdkG4sqGfo" title="Garden Of Earthly Delights (2001 Remaster)" >}}<br>
+### Garden Of Earthly Delights 2001 Remaster
+{{< youtube id="LOdkG4sqGfo" title="Garden Of Earthly Delights 2001 Remaster" >}}<br>
 ### More Videos
 
-- [XTC- Chalkhills And Children-[Steve Wilson 2015 Stereo Mix]](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
-- [Scarecrow People (2001 Remaster)](https://www.youtube.com/watch?v=lzmCKu0fG2I)
-- [XTC - One of the Millions - Oranges & Lemons [1989]](https://www.youtube.com/watch?v=NAduyR-iAUU)
+- [XTC- Chalkhills And Children-Steve Wilson 2015 Stereo Mix](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
+- [Scarecrow People 2001 Remaster](https://www.youtube.com/watch?v=lzmCKu0fG2I)
+- [XTC - One of the Millions - Oranges  Lemons 1989](https://www.youtube.com/watch?v=NAduyR-iAUU)
 - [XTC - Mayor of Simpleton](https://www.youtube.com/watch?v=5Da9sc6YDBo)
 - [XTC - King For A Day](https://www.youtube.com/watch?v=depsFULhqV8)
 - [XTC - Poor Skeleton Steps Out](https://www.youtube.com/watch?v=fj4I4sWtyEI)
-- [Garden Of Earthly Delights (2001 Remaster)](https://www.youtube.com/watch?v=LOdkG4sqGfo)
-- [XTC- Chalkhills And Children-[Steve Wilson 2015 Stereo Mix]](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
-- [Scarecrow People (2001 Remaster)](https://www.youtube.com/watch?v=lzmCKu0fG2I)
-- [XTC - One of the Millions - Oranges & Lemons [1989]](https://www.youtube.com/watch?v=NAduyR-iAUU)
+- [Garden Of Earthly Delights 2001 Remaster](https://www.youtube.com/watch?v=LOdkG4sqGfo)
+- [XTC- Chalkhills And Children-Steve Wilson 2015 Stereo Mix](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
+- [Scarecrow People 2001 Remaster](https://www.youtube.com/watch?v=lzmCKu0fG2I)
+- [XTC - One of the Millions - Oranges  Lemons 1989](https://www.youtube.com/watch?v=NAduyR-iAUU)
 
 ## Release Images
 {{< imageGrid >}}

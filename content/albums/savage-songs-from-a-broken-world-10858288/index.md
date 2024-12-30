@@ -54,24 +54,24 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 
 
 ## Videos
-### Gary Numan - The End of Things (Official Video)
-{{< youtube id="8BAylyh2XG4" title="Gary Numan - The End of Things (Official Video)" >}}<br>
+### Gary Numan - The End of Things Official Video
+{{< youtube id="8BAylyh2XG4" title="Gary Numan - The End of Things Official Video" >}}<br>
 ### More Videos
 
-- [Gary Numan / Savage (Songs from a Broken World) / And It All Began With You  (Audio)](https://www.youtube.com/watch?v=-7yLt4EY5P4)
-- [Gary Numan / Savage (Songs from a Broken World) / Pray for the Pain That You Serve  (Audio)](https://www.youtube.com/watch?v=-HyXhuEdaC0)
+- [Gary Numan  Savage Songs from a Broken World  And It All Began With You  Audio](https://www.youtube.com/watch?v=-7yLt4EY5P4)
+- [Gary Numan  Savage Songs from a Broken World  Pray for the Pain That You Serve  Audio](https://www.youtube.com/watch?v=-HyXhuEdaC0)
 - [Gary Numan - Cold](https://www.youtube.com/watch?v=2G3Itp50jSk)
-- [Gary Numan - My Name Is Ruin (Official Video)](https://www.youtube.com/watch?v=lHomCiPFknY)
-- [Gary Numan - Ghost Nation (Official Audio)](https://www.youtube.com/watch?v=r36v1grp3I0)
+- [Gary Numan - My Name Is Ruin Official Video](https://www.youtube.com/watch?v=lHomCiPFknY)
+- [Gary Numan - Ghost Nation Official Audio](https://www.youtube.com/watch?v=r36v1grp3I0)
 - [Bed of Thorns](https://www.youtube.com/watch?v=mBdAVaaxmpY)
-- [Gary Numan - When The World Comes Apart (Official Video)](https://www.youtube.com/watch?v=P5E6RTDA7oc)
-- [Gary Numan - Mercy (Official Audio)](https://www.youtube.com/watch?v=wYTjYpC1XYc)
-- [Gary Numan - Broken (Official Audio)](https://www.youtube.com/watch?v=qzsvZpO1I_4)
-- [Gary Numan - The End of Things (Official Video)](https://www.youtube.com/watch?v=8BAylyh2XG4)
-- [Gary Numan / Savage (Songs from a Broken World) / And It All Began With You  (Audio)](https://www.youtube.com/watch?v=-7yLt4EY5P4)
-- [Gary Numan / Savage (Songs from a Broken World) / Pray for the Pain That You Serve  (Audio)](https://www.youtube.com/watch?v=-HyXhuEdaC0)
+- [Gary Numan - When The World Comes Apart Official Video](https://www.youtube.com/watch?v=P5E6RTDA7oc)
+- [Gary Numan - Mercy Official Audio](https://www.youtube.com/watch?v=wYTjYpC1XYc)
+- [Gary Numan - Broken Official Audio](https://www.youtube.com/watch?v=qzsvZpO1I_4)
+- [Gary Numan - The End of Things Official Video](https://www.youtube.com/watch?v=8BAylyh2XG4)
+- [Gary Numan  Savage Songs from a Broken World  And It All Began With You  Audio](https://www.youtube.com/watch?v=-7yLt4EY5P4)
+- [Gary Numan  Savage Songs from a Broken World  Pray for the Pain That You Serve  Audio](https://www.youtube.com/watch?v=-HyXhuEdaC0)
 - [Gary Numan - Cold](https://www.youtube.com/watch?v=2G3Itp50jSk)
-- [Gary Numan - My Name Is Ruin (Official Video)](https://www.youtube.com/watch?v=lHomCiPFknY)
+- [Gary Numan - My Name Is Ruin Official Video](https://www.youtube.com/watch?v=lHomCiPFknY)
 
 ## Release Images
 {{< imageGrid >}}

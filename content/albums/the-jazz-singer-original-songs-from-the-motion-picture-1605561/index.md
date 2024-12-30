@@ -50,12 +50,12 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 
 
 ## Videos
-### Jerusalem (From "The Jazz Singer" Soundtrack)
-{{< youtube id="1ivnzchGzII" title="Jerusalem (From "The Jazz Singer" Soundtrack)" >}}<br>
+### Jerusalem From The Jazz Singer Soundtrack
+{{< youtube id="1ivnzchGzII" title="Jerusalem From The Jazz Singer Soundtrack" >}}<br>
 ### More Videos
 
-- [Adon Olom (From "The Jazz Singer" Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
-- [Acapulco (From "The Jazz Singer" Soundtrack)](https://www.youtube.com/watch?v=E6FCghO92Mo)
+- [Adon Olom From The Jazz Singer Soundtrack](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
+- [Acapulco From The Jazz Singer Soundtrack](https://www.youtube.com/watch?v=E6FCghO92Mo)
 
 ## Release Images
 {{< imageGrid >}}

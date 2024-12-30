@@ -49,15 +49,15 @@ Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 202
 
 
 ## Videos
-### Tangerine Dream • Raum • Full Album • 2022
-{{< youtube id="O8BOIDRjfyg" title="Tangerine Dream • Raum • Full Album • 2022" >}}<br>
+### Tangerine Dream  Raum  Full Album  2022
+{{< youtube id="O8BOIDRjfyg" title="Tangerine Dream  Raum  Full Album  2022" >}}<br>
 ### More Videos
 
-- [Tangerine Dream - Raum [Full Album] (HQ)](https://www.youtube.com/watch?v=-McfWNwGsc4)
+- [Tangerine Dream - Raum Full Album HQ](https://www.youtube.com/watch?v=-McfWNwGsc4)
 - [Raum](https://www.youtube.com/watch?v=RM5aeRkVf4I)
-- [Tangerine Dream - Raum [Single Edit] (Official Music Video)](https://www.youtube.com/watch?v=7vpChxxgB9Y)
-- [Tangerine Dream - You're Always On Time [Edit] (Official Music Video)](https://www.youtube.com/watch?v=MM2xZZuJvpg)
-- [Raum (Single Edit)](https://www.youtube.com/watch?v=1gxYWZ8Nc4A)
+- [Tangerine Dream - Raum Single Edit Official Music Video](https://www.youtube.com/watch?v=7vpChxxgB9Y)
+- [Tangerine Dream - Youre Always On Time Edit Official Music Video](https://www.youtube.com/watch?v=MM2xZZuJvpg)
+- [Raum Single Edit](https://www.youtube.com/watch?v=1gxYWZ8Nc4A)
 
 ## Release Images
 {{< imageGrid >}}

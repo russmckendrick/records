@@ -56,8 +56,8 @@ The album was born from a tumultuous time in Doves' history, and followed a four
 
 
 ## Videos
-### Doves - Kingdom of rust [Kingdom of rust] Music video
-{{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust [Kingdom of rust] Music video" >}}<br>
+### Doves - Kingdom of rust Kingdom of rust Music video
+{{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust Kingdom of rust Music video" >}}<br>
 
 
 ## Release Images

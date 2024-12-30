@@ -52,11 +52,11 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 
 
 ## Videos
-### Suede - The Only Way I Can Love You (Official Audio)
-{{< youtube id="T8ZvxPQX3Z0" title="Suede - The Only Way I Can Love You (Official Audio)" >}}<br>
+### Suede - The Only Way I Can Love You Official Audio
+{{< youtube id="T8ZvxPQX3Z0" title="Suede - The Only Way I Can Love You Official Audio" >}}<br>
 ### More Videos
 
-- [Suede - She Still Leads Me (Official Audio)](https://www.youtube.com/watch?v=KHJd1Z1G3M4)
+- [Suede - She Still Leads Me Official Audio](https://www.youtube.com/watch?v=KHJd1Z1G3M4)
 - [Suede Autofiction Expanded Edition Unboxing video](https://www.youtube.com/watch?v=lG1cliiJKfA)
 
 ## Release Images

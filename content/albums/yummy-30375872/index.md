@@ -48,16 +48,16 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 
 
 ## Videos
-### JAMES - Pudding (Yummy UNRELEASED TRACKS & DEMOS) (2nd Disc/Full Album)
-{{< youtube id="MPFTX72yfJw" title="JAMES - Pudding (Yummy UNRELEASED TRACKS & DEMOS) (2nd Disc/Full Album)" >}}<br>
+### JAMES - Pudding Yummy UNRELEASED TRACKS  DEMOS 2nd DiscFull Album
+{{< youtube id="MPFTX72yfJw" title="JAMES - Pudding Yummy UNRELEASED TRACKS  DEMOS 2nd DiscFull Album" >}}<br>
 ### More Videos
 
-- [James - Is This Love (Live on the Chris Evans Breakfast Show with webuyanycar)](https://www.youtube.com/watch?v=3M3CkFRO3_g)
+- [James - Is This Love Live on the Chris Evans Breakfast Show with webuyanycar](https://www.youtube.com/watch?v=3M3CkFRO3_g)
 - [Butterfly](https://www.youtube.com/watch?v=PceiRdDHFAg)
 - [Better With You](https://www.youtube.com/watch?v=TMyubUilJv0)
 - [Way Over Your Head](https://www.youtube.com/watch?v=O-nBkYwTdW4)
 - [Shadow Of A Giant](https://www.youtube.com/watch?v=b3yn8_LY1Po)
-- [James - Our World (Official Video)](https://www.youtube.com/watch?v=eI0TlqgvzRk)
+- [James - Our World Official Video](https://www.youtube.com/watch?v=eI0TlqgvzRk)
 
 ## Release Images
 {{< imageGrid >}}

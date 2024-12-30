@@ -44,18 +44,18 @@ An attempt by the band to experiment and explore other musical territory, Techni
 
 
 ## Videos
-### You Won't Change Me (2009 - Remaster)
-{{< youtube id="2WemFC9_QOM" title="You Won't Change Me (2009 - Remaster)" >}}<br>
+### You Wont Change Me 2009 - Remaster
+{{< youtube id="2WemFC9_QOM" title="You Wont Change Me 2009 - Remaster" >}}<br>
 ### More Videos
 
-- [Back Street Kids (2021 - Remaster)](https://www.youtube.com/watch?v=fIbSaZEQHhE)
-- [It's Alright (2009 - Remaster)](https://www.youtube.com/watch?v=dK34ypPMXUA)
-- [Dirty Women (2009 - Remaster)](https://www.youtube.com/watch?v=je9WddfojLg)
-- [You Won't Change Me (2021 - Remaster)](https://www.youtube.com/watch?v=8bvQvkybeXs)
-- [Gypsy (2009 - Remaster)](https://www.youtube.com/watch?v=XegDtu1Ze38)
-- [Blac̶k̶ Sabba̶t̶h̶ - Technical Ecstasy (Full Album) 1976](https://www.youtube.com/watch?v=8Y5-at7d7YU)
-- [BLACK SABBATH - "Dirty Women" (Live Video)](https://www.youtube.com/watch?v=6EBk3czZXlQ)
-- [It's Alright (2013 Remaster)](https://www.youtube.com/watch?v=av06oJjdS9A)
+- [Back Street Kids 2021 - Remaster](https://www.youtube.com/watch?v=fIbSaZEQHhE)
+- [Its Alright 2009 - Remaster](https://www.youtube.com/watch?v=dK34ypPMXUA)
+- [Dirty Women 2009 - Remaster](https://www.youtube.com/watch?v=je9WddfojLg)
+- [You Wont Change Me 2021 - Remaster](https://www.youtube.com/watch?v=8bvQvkybeXs)
+- [Gypsy 2009 - Remaster](https://www.youtube.com/watch?v=XegDtu1Ze38)
+- [Black Sabbath - Technical Ecstasy Full Album 1976](https://www.youtube.com/watch?v=8Y5-at7d7YU)
+- [BLACK SABBATH - Dirty Women Live Video](https://www.youtube.com/watch?v=6EBk3czZXlQ)
+- [Its Alright 2013 Remaster](https://www.youtube.com/watch?v=av06oJjdS9A)
 
 ## Release Images
 {{< imageGrid >}}

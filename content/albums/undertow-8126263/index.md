@@ -49,19 +49,19 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 
 
 ## Videos
-### TOOL - Intolerance (Audio)
-{{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance (Audio)" >}}<br>
+### TOOL - Intolerance Audio
+{{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance Audio" >}}<br>
 ### More Videos
 
-- [TOOL - Prison Sex (Audio)](https://www.youtube.com/watch?v=HQqjHechnj4)
-- [TOOL - Sober (Audio)](https://www.youtube.com/watch?v=ouVedNg-6WQ)
-- [TOOL - Bottom (Audio)](https://www.youtube.com/watch?v=O7VmBC19P5M)
-- [TOOL - Crawl Away (Audio)](https://www.youtube.com/watch?v=WuUM2mz8Q_s)
-- [TOOL - Swamp Song (Audio)](https://www.youtube.com/watch?v=VnP2-Pc-plM)
-- [TOOL - Undertow (Audio)](https://www.youtube.com/watch?v=TBIMRWGfFs0)
-- [TOOL - 4° (Audio)](https://www.youtube.com/watch?v=8NGemR1cqZQ)
-- [TOOL - Flood (Audio)](https://www.youtube.com/watch?v=DZNxJWIcwCc)
-- [TOOL - Disgustipated (Audio)](https://www.youtube.com/watch?v=CmJYZ1NIn1Y)
+- [TOOL - Prison Sex Audio](https://www.youtube.com/watch?v=HQqjHechnj4)
+- [TOOL - Sober Audio](https://www.youtube.com/watch?v=ouVedNg-6WQ)
+- [TOOL - Bottom Audio](https://www.youtube.com/watch?v=O7VmBC19P5M)
+- [TOOL - Crawl Away Audio](https://www.youtube.com/watch?v=WuUM2mz8Q_s)
+- [TOOL - Swamp Song Audio](https://www.youtube.com/watch?v=VnP2-Pc-plM)
+- [TOOL - Undertow Audio](https://www.youtube.com/watch?v=TBIMRWGfFs0)
+- [TOOL - 4 Audio](https://www.youtube.com/watch?v=8NGemR1cqZQ)
+- [TOOL - Flood Audio](https://www.youtube.com/watch?v=DZNxJWIcwCc)
+- [TOOL - Disgustipated Audio](https://www.youtube.com/watch?v=CmJYZ1NIn1Y)
 - [TOOL - Sober](https://www.youtube.com/watch?v=nspxAG12Cpc)
 - [TOOL - Prison Sex](https://www.youtube.com/watch?v=cUPV4OfNlt0)
 

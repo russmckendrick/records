@@ -54,13 +54,13 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 ### More Videos
 
 - [Meredith](https://www.youtube.com/watch?v=BMz1xSrQzsw)
-- [Oceansize - The Charm Offensive (with lyrics)](https://www.youtube.com/watch?v=ox9SfroL0uQ)
-- [Ornament/The Last Wrongs](https://www.youtube.com/watch?v=-EyzI6xQ6rU)
+- [Oceansize - The Charm Offensive with lyrics](https://www.youtube.com/watch?v=ox9SfroL0uQ)
+- [OrnamentThe Last Wrongs](https://www.youtube.com/watch?v=-EyzI6xQ6rU)
 - [Oceansize - Heaven Alive](https://www.youtube.com/watch?v=ZDi4wUKB8rE)
-- [You Can't Keep a Bad Man Down](https://www.youtube.com/watch?v=Zk810vgMqq0)
+- [You Cant Keep a Bad Man Down](https://www.youtube.com/watch?v=Zk810vgMqq0)
 - [Music For A Nurse](https://www.youtube.com/watch?v=DucQeZaD3GI)
 - [A Homage to a Shame](https://www.youtube.com/watch?v=PBdnFoY6ujk)
-- [Oceansize - No Tomorrow (with lyrics)](https://www.youtube.com/watch?v=Lz2wE3zf2ew)
+- [Oceansize - No Tomorrow with lyrics](https://www.youtube.com/watch?v=Lz2wE3zf2ew)
 
 ## Release Images
 {{< imageGrid >}}

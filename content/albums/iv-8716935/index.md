@@ -54,21 +54,21 @@ It is also the band's first album to feature longtime touring partner and collab
 
 
 ## Videos
-### BADBADNOTGOOD - 'IV' LP (Full Album Stream)
-{{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}<br>
+### BADBADNOTGOOD - IV LP Full Album Stream
+{{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - IV LP Full Album Stream" >}}<br>
 ### More Videos
 
-- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - "In Your Eyes" (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
-- [BADBADNOTGOOD "Lavender" (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
-- [BADBADNOTGOOD - 'IV' LP (Full Album Stream)](https://www.youtube.com/watch?v=lstVQxf0p3Y)
-- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - "In Your Eyes" (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
-- [BADBADNOTGOOD "Lavender" (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
-- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - Time Moves Slow feat. Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
-- [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
-- [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
+- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - In Your Eyes Feat Charlotte Day Wilson Official Stream](https://www.youtube.com/watch?v=-PCauQozne0)
+- [BADBADNOTGOOD Lavender Feat Kaytranada Official Stream](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+- [BADBADNOTGOOD - IV LP Full Album Stream](https://www.youtube.com/watch?v=lstVQxf0p3Y)
+- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - In Your Eyes Feat Charlotte Day Wilson Official Stream](https://www.youtube.com/watch?v=-PCauQozne0)
+- [BADBADNOTGOOD Lavender Feat Kaytranada Official Stream](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - Time Moves Slow feat Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
+- [BADBADNOTGOOD -  Hyssop of Love featuring Mick Jenkins](https://www.youtube.com/watch?v=t4cI5zNfNb0)
+- [BADBADNOTGOOD - Up IV Bonus Track - Japan Edition](https://www.youtube.com/watch?v=VwVX172N3OQ)
 
 ## Release Images
 {{< imageGrid >}}

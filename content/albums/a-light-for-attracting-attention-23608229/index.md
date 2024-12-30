@@ -74,14 +74,14 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 - [The Smile - The Opposite](https://www.youtube.com/watch?v=72z6FJsVcbs)
 - [The Smile - You Will Never Work In Television Again](https://www.youtube.com/watch?v=-EB5NhI2RQQ)
 - [The Smile - Pana-vision](https://www.youtube.com/watch?v=wKXQhFXlFs4)
-- [The Smile - The Smoke (16mm Film)](https://www.youtube.com/watch?v=tEPEqZnTwdo)
+- [The Smile - The Smoke 16mm Film](https://www.youtube.com/watch?v=tEPEqZnTwdo)
 - [The Smile - Speech Bubbles](https://www.youtube.com/watch?v=GWiWIN9TKBs)
-- [The Smile - Thin Thing (Official Video)](https://www.youtube.com/watch?v=J1_Cf55cS8I)
-- [The Smile - Free in the Knowledge (Official Video)](https://www.youtube.com/watch?v=CXbncoiKLn8)
+- [The Smile - Thin Thing Official Video](https://www.youtube.com/watch?v=J1_Cf55cS8I)
+- [The Smile - Free in the Knowledge Official Video](https://www.youtube.com/watch?v=CXbncoiKLn8)
 - [The Smile -  Free in the Knowledge](https://www.youtube.com/watch?v=5KP6sZIIKk4)
 - [The Smile - A Hairdryer](https://www.youtube.com/watch?v=U5r4S4YjkF8)
 - [The Smile - Waving A White Flag](https://www.youtube.com/watch?v=RlHEPF4Pqos)
-- [The Smile - We Don't Know What Tomorrow Brings](https://www.youtube.com/watch?v=3oEkWwX9iX4)
+- [The Smile - We Dont Know What Tomorrow Brings](https://www.youtube.com/watch?v=3oEkWwX9iX4)
 - [The Smile - Skrting On The Surface](https://www.youtube.com/watch?v=_nmutqhuWFE)
 
 ## Release Images

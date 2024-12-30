@@ -51,12 +51,12 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 
 
 ## Videos
-### Split Enz - Late Last Night (Official Video)
-{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night (Official Video)" >}}<br>
+### Split Enz - Late Last Night Official Video
+{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - Lovey Dovey (Official Video)](https://www.youtube.com/watch?v=66s967Qx0dM)
-- [Split Enz - Sweet Dreams (Official Video)](https://www.youtube.com/watch?v=we9XmUzmMlc)
+- [Split Enz - Lovey Dovey Official Video](https://www.youtube.com/watch?v=66s967Qx0dM)
+- [Split Enz - Sweet Dreams Official Video](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}

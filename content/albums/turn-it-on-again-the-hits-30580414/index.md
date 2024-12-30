@@ -51,27 +51,27 @@ styles: ["Soft Rock", "Pop Rock"]
 
 
 ## Videos
-### Genesis - Turn It On Again (Official Music Video)
-{{< youtube id="8OIkw9kJ0u4" title="Genesis - Turn It On Again (Official Music Video)" >}}<br>
+### Genesis - Turn It On Again Official Music Video
+{{< youtube id="8OIkw9kJ0u4" title="Genesis - Turn It On Again Official Music Video" >}}<br>
 ### More Videos
 
-- [Genesis - Invisible Touch (Official Music Video)](https://www.youtube.com/watch?v=jpmiZ7zsHXY)
-- [Genesis - Mama (Official Music Video)](https://www.youtube.com/watch?v=7lXH0nwirio)
-- [Genesis - Land of Confusion (Official Music Video)](https://www.youtube.com/watch?v=Yq7FKO5DlV0)
-- [Genesis - I Can't Dance (Official Music Video)](https://www.youtube.com/watch?v=hGI2d31M7Ns)
-- [Genesis - Follow You Follow Me (Official Music Video)](https://www.youtube.com/watch?v=hAmCmNa-NSE)
-- [Genesis - Hold On My Heart (Official Music Video)](https://www.youtube.com/watch?v=mGfqB1-gHEM)
-- [Genesis - Abacab (Official Music Video)](https://www.youtube.com/watch?v=suCNZe3Gwkw)
-- [Genesis - I Know What I Like (In Your Wardrobe) [Official Audio]](https://www.youtube.com/watch?v=7vyh1UeM57w)
-- [Genesis - No Son Of Mine (Official Music Video)](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
-- [Genesis - Tonight, Tonight, Tonight (Official Music Video)](https://www.youtube.com/watch?v=E3xbLcTj_bs)
-- [Genesis - In Too Deep (Official Music Video)](https://www.youtube.com/watch?v=qQIO3pBFfXI)
-- [Genesis - Congo (Official Music Video)](https://www.youtube.com/watch?v=zX5OtsHj2TM)
-- [Genesis - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=2-rfCnW5VlE)
-- [Genesis - That's All (Official Music Video)](https://www.youtube.com/watch?v=Vzyn60Zns-E)
-- [Genesis - Misunderstanding (Official Music Video)](https://www.youtube.com/watch?v=C_L-S-0Gc4I)
-- [Genesis - Throwing It All Away (Official Music Video)](https://www.youtube.com/watch?v=ALxFwkNIHd0)
-- [Genesis - Carpet Crawlers 1999 (Official Music Video)](https://www.youtube.com/watch?v=23cUcLKc374)
+- [Genesis - Invisible Touch Official Music Video](https://www.youtube.com/watch?v=jpmiZ7zsHXY)
+- [Genesis - Mama Official Music Video](https://www.youtube.com/watch?v=7lXH0nwirio)
+- [Genesis - Land of Confusion Official Music Video](https://www.youtube.com/watch?v=Yq7FKO5DlV0)
+- [Genesis - I Cant Dance Official Music Video](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Genesis - Follow You Follow Me Official Music Video](https://www.youtube.com/watch?v=hAmCmNa-NSE)
+- [Genesis - Hold On My Heart Official Music Video](https://www.youtube.com/watch?v=mGfqB1-gHEM)
+- [Genesis - Abacab Official Music Video](https://www.youtube.com/watch?v=suCNZe3Gwkw)
+- [Genesis - I Know What I Like In Your Wardrobe Official Audio](https://www.youtube.com/watch?v=7vyh1UeM57w)
+- [Genesis - No Son Of Mine Official Music Video](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
+- [Genesis - Tonight Tonight Tonight Official Music Video](https://www.youtube.com/watch?v=E3xbLcTj_bs)
+- [Genesis - In Too Deep Official Music Video](https://www.youtube.com/watch?v=qQIO3pBFfXI)
+- [Genesis - Congo Official Music Video](https://www.youtube.com/watch?v=zX5OtsHj2TM)
+- [Genesis - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=2-rfCnW5VlE)
+- [Genesis - Thats All Official Music Video](https://www.youtube.com/watch?v=Vzyn60Zns-E)
+- [Genesis - Misunderstanding Official Music Video](https://www.youtube.com/watch?v=C_L-S-0Gc4I)
+- [Genesis - Throwing It All Away Official Music Video](https://www.youtube.com/watch?v=ALxFwkNIHd0)
+- [Genesis - Carpet Crawlers 1999 Official Music Video](https://www.youtube.com/watch?v=23cUcLKc374)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,25 +56,25 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 
 
 ## Videos
-### Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)
-{{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II (Mountains Beyond Mountains)" >}}<br>
+### Arcade Fire - Arcade Fire presents Sprawl II Mountains Beyond Mountains
+{{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II Mountains Beyond Mountains" >}}<br>
 ### More Videos
 
-- [Arcade Fire - Ready to Start (Official Video)](https://www.youtube.com/watch?v=9oI27uSzxNQ)
-- [Arcade Fire - Suburban War (Official Lyric Video)](https://www.youtube.com/watch?v=KpWqfrX9908)
-- [Arcade Fire - We Used to Wait (Official Lyric Video)](https://www.youtube.com/watch?v=xQuUN1HGa0c)
-- [Arcade Fire - Deep Blue (Official Lyric Video)](https://www.youtube.com/watch?v=-lueG-ZACyA)
-- [Arcade Fire - Wasted Hours (Official Lyric Video)](https://www.youtube.com/watch?v=OI0IKf_VXYk)
-- [Arcade Fire - Month of May (Official Lyric Video)](https://www.youtube.com/watch?v=eNINCykhR3I)
-- [Arcade Fire - Half Light II (No Celebration) (Official Lyric Video)](https://www.youtube.com/watch?v=tGVFjGjeyQM)
-- [Arcade Fire - Half Light I (Official Lyric Video)](https://www.youtube.com/watch?v=qrwCeUqB8CU)
-- [Arcade Fire - The Suburbs (Official Video)](https://www.youtube.com/watch?v=5Euj9f3gdyM)
-- [Arcade Fire - The Suburbs [Full Live Album]](https://www.youtube.com/watch?v=B1Bt0UiIN5o)
-- [Arcade Fire - Modern Man (Official Lyric Video)](https://www.youtube.com/watch?v=P_0PhRlfjas)
-- [Arcade Fire - Rococo (Official Lyric Video)](https://www.youtube.com/watch?v=ly65sLPIKVw)
-- [Arcade Fire - Empty Room (Official Lyric Video)](https://www.youtube.com/watch?v=qutEvlHaCHE)
-- [Arcade Fire - City with No Children (Official Lyric Video)](https://www.youtube.com/watch?v=MkgcAmT5Io0)
-- [Arcade Fire - Sprawl I (Flatland) (Official Lyric Video)](https://www.youtube.com/watch?v=OQlpJ-ZgEH4)
+- [Arcade Fire - Ready to Start Official Video](https://www.youtube.com/watch?v=9oI27uSzxNQ)
+- [Arcade Fire - Suburban War Official Lyric Video](https://www.youtube.com/watch?v=KpWqfrX9908)
+- [Arcade Fire - We Used to Wait Official Lyric Video](https://www.youtube.com/watch?v=xQuUN1HGa0c)
+- [Arcade Fire - Deep Blue Official Lyric Video](https://www.youtube.com/watch?v=-lueG-ZACyA)
+- [Arcade Fire - Wasted Hours Official Lyric Video](https://www.youtube.com/watch?v=OI0IKf_VXYk)
+- [Arcade Fire - Month of May Official Lyric Video](https://www.youtube.com/watch?v=eNINCykhR3I)
+- [Arcade Fire - Half Light II No Celebration Official Lyric Video](https://www.youtube.com/watch?v=tGVFjGjeyQM)
+- [Arcade Fire - Half Light I Official Lyric Video](https://www.youtube.com/watch?v=qrwCeUqB8CU)
+- [Arcade Fire - The Suburbs Official Video](https://www.youtube.com/watch?v=5Euj9f3gdyM)
+- [Arcade Fire - The Suburbs Full Live Album](https://www.youtube.com/watch?v=B1Bt0UiIN5o)
+- [Arcade Fire - Modern Man Official Lyric Video](https://www.youtube.com/watch?v=P_0PhRlfjas)
+- [Arcade Fire - Rococo Official Lyric Video](https://www.youtube.com/watch?v=ly65sLPIKVw)
+- [Arcade Fire - Empty Room Official Lyric Video](https://www.youtube.com/watch?v=qutEvlHaCHE)
+- [Arcade Fire - City with No Children Official Lyric Video](https://www.youtube.com/watch?v=MkgcAmT5Io0)
+- [Arcade Fire - Sprawl I Flatland Official Lyric Video](https://www.youtube.com/watch?v=OQlpJ-ZgEH4)
 
 ## Release Images
 {{< imageGrid >}}

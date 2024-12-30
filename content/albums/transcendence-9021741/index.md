@@ -64,8 +64,8 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 
 
 ## Videos
-### DEVIN TOWNSEND PROJECT - Stormbending (Album Track)
-{{< youtube id="8s9qh77gj6Y" title="DEVIN TOWNSEND PROJECT - Stormbending (Album Track)" >}}<br>
+### DEVIN TOWNSEND PROJECT - Stormbending Album Track
+{{< youtube id="8s9qh77gj6Y" title="DEVIN TOWNSEND PROJECT - Stormbending Album Track" >}}<br>
 ### More Videos
 
 - [Devin Townsend Project - Transcendence](https://www.youtube.com/watch?v=kUh72bHQr08)

@@ -51,8 +51,8 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 
 
 ## Videos
-### The Fall Hey! Luciani
-{{< youtube id="KPr2ENnp_GI" title="The Fall Hey! Luciani" >}}<br>
+### The Fall Hey Luciani
+{{< youtube id="KPr2ENnp_GI" title="The Fall Hey Luciani" >}}<br>
 
 
 ## Release Images

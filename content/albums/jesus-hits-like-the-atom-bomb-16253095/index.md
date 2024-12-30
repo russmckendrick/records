@@ -74,9 +74,9 @@ A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Recor
 - [Mechanical Breakdown](https://www.youtube.com/watch?v=qA2pOrKeJdE)
 - [Your Socks Have No Name](https://www.youtube.com/watch?v=1l-CZ8-7ohc)
 - [Field Day Jitters](https://www.youtube.com/watch?v=cewkFHrSagA)
-- [Our Drive To The Sun / Can A Man Mark It?](https://www.youtube.com/watch?v=piz0pY1AhiI)
+- [Our Drive To The Sun  Can A Man Mark It](https://www.youtube.com/watch?v=piz0pY1AhiI)
 - [8 Ladies](https://www.youtube.com/watch?v=uMr-AiNEijc)
-- [Tripping Daisy "Waited A Light Year"](https://www.youtube.com/watch?v=v1AXtIDkX7A)
+- [Tripping Daisy Waited A Light Year](https://www.youtube.com/watch?v=v1AXtIDkX7A)
 
 ## Release Images
 {{< imageGrid >}}

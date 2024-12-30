@@ -56,20 +56,20 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 
 
 ## Videos
-### Kraftwerk - Musik Non Stop [The Mix]
-{{< youtube id="cbPc_Iu8JLA" title="Kraftwerk - Musik Non Stop [The Mix]" >}}<br>
+### Kraftwerk - Musik Non Stop The Mix
+{{< youtube id="cbPc_Iu8JLA" title="Kraftwerk - Musik Non Stop The Mix" >}}<br>
 ### More Videos
 
-- [Kraftwerk -  The Robots [The Mix]](https://www.youtube.com/watch?v=9P-JaG2PpyI)
-- [Kraftwerk - The Mix (German Version)](https://www.youtube.com/watch?v=K_-5QZITLzc)
-- [Kraftwerk - Radioactivity [The Mix]](https://www.youtube.com/watch?v=QAGCVYDJHss)
-- [Kraftwerk - Computer Love [The Mix]](https://www.youtube.com/watch?v=rEyxppGP8T4)
-- [Kraftwerk - The Mix [German] Radioaktivität HD](https://www.youtube.com/watch?v=WRLifnM08as)
-- [Kraftwerk – The Mix (Side 1)](https://www.youtube.com/watch?v=7nurAemGnJg)
-- [Kraftwerk – The Mix (Side 2)](https://www.youtube.com/watch?v=XVcEkjc6yQo)
-- [Kraftwerk – The Mix (Side 3)](https://www.youtube.com/watch?v=KrAk2-mQYaU)
-- [Kraftwerk – The Mix (Side 4)](https://www.youtube.com/watch?v=F7tQwkZmjNg)
-- [Kraftwerk   The Mix Full Album + Bonus Tracks 1991   English Version SD, 854x480](https://www.youtube.com/watch?v=lnVEj5H0rpU)
+- [Kraftwerk -  The Robots The Mix](https://www.youtube.com/watch?v=9P-JaG2PpyI)
+- [Kraftwerk - The Mix German Version](https://www.youtube.com/watch?v=K_-5QZITLzc)
+- [Kraftwerk - Radioactivity The Mix](https://www.youtube.com/watch?v=QAGCVYDJHss)
+- [Kraftwerk - Computer Love The Mix](https://www.youtube.com/watch?v=rEyxppGP8T4)
+- [Kraftwerk - The Mix German Radioaktivität HD](https://www.youtube.com/watch?v=WRLifnM08as)
+- [Kraftwerk  The Mix Side 1](https://www.youtube.com/watch?v=7nurAemGnJg)
+- [Kraftwerk  The Mix Side 2](https://www.youtube.com/watch?v=XVcEkjc6yQo)
+- [Kraftwerk  The Mix Side 3](https://www.youtube.com/watch?v=KrAk2-mQYaU)
+- [Kraftwerk  The Mix Side 4](https://www.youtube.com/watch?v=F7tQwkZmjNg)
+- [Kraftwerk   The Mix Full Album  Bonus Tracks 1991   English Version SD 854x480](https://www.youtube.com/watch?v=lnVEj5H0rpU)
 
 ## Release Images
 {{< imageGrid >}}

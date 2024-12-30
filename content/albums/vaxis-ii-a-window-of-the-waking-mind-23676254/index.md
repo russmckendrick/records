@@ -95,24 +95,24 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
 
 
 ## Videos
-### Coheed and Cambria - The Embers of Fire (Official Audio)
-{{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire (Official Audio)" >}}<br>
+### Coheed and Cambria - The Embers of Fire Official Audio
+{{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire Official Audio" >}}<br>
 ### More Videos
 
-- [Coheed and Cambria - Beautiful Losers (Official Audio)](https://www.youtube.com/watch?v=XZpM_G2i5Uo)
-- [Coheed and Cambria - Comatose [OFFICIAL LYRIC VIDEO]](https://www.youtube.com/watch?v=sG940KWNeI8)
-- [Coheed and Cambria - Shoulders (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=-Tb_v8MFbF8)
-- [Coheed and Cambria - A Disappearing Act (Official Audio)](https://www.youtube.com/watch?v=QbmQH2LnuNs)
-- [Coheed and Cambria - Love Murder One (Official Audio)](https://www.youtube.com/watch?v=2dgLtjx-ZFg)
-- [Coheed and Cambria - Blood (Official Audio)](https://www.youtube.com/watch?v=nP7X8M-ngqU)
-- [Coheed and Cambria - The Liars Club (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=ltKTHtMmDJQ)
-- [Coheed and Cambria - Bad Man (Official Audio)](https://www.youtube.com/watch?v=cOUCJUgVzIw)
-- [Coheed and Cambria - Our Love (Official Audio)](https://www.youtube.com/watch?v=7Ka43I-cN7g)
-- [Coheed and Cambria - Ladders of Supremacy (Official Audio)](https://www.youtube.com/watch?v=1YNsq20co-o)
-- [Coheed and Cambria - Rise, Naianasha (Cut The Cord) [Official Lyric Video]](https://www.youtube.com/watch?v=2BFqmKtLj1s)
-- [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
-- [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
-- [Coheed and Cambria - A Disappearing Act (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=qmMI6fEpxns)
+- [Coheed and Cambria - Beautiful Losers Official Audio](https://www.youtube.com/watch?v=XZpM_G2i5Uo)
+- [Coheed and Cambria - Comatose OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=sG940KWNeI8)
+- [Coheed and Cambria - Shoulders OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=-Tb_v8MFbF8)
+- [Coheed and Cambria - A Disappearing Act Official Audio](https://www.youtube.com/watch?v=QbmQH2LnuNs)
+- [Coheed and Cambria - Love Murder One Official Audio](https://www.youtube.com/watch?v=2dgLtjx-ZFg)
+- [Coheed and Cambria - Blood Official Audio](https://www.youtube.com/watch?v=nP7X8M-ngqU)
+- [Coheed and Cambria - The Liars Club OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=ltKTHtMmDJQ)
+- [Coheed and Cambria - Bad Man Official Audio](https://www.youtube.com/watch?v=cOUCJUgVzIw)
+- [Coheed and Cambria - Our Love Official Audio](https://www.youtube.com/watch?v=7Ka43I-cN7g)
+- [Coheed and Cambria - Ladders of Supremacy Official Audio](https://www.youtube.com/watch?v=1YNsq20co-o)
+- [Coheed and Cambria - Rise Naianasha Cut The Cord Official Lyric Video](https://www.youtube.com/watch?v=2BFqmKtLj1s)
+- [Coheed and Cambria - Window of the Waking Mind Official Audio](https://www.youtube.com/watch?v=WscFSf_OjHA)
+- [Coheed and Cambria - The Liars Club Performance Video](https://www.youtube.com/watch?v=N-yvF7Lngr8)
+- [Coheed and Cambria - A Disappearing Act OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=qmMI6fEpxns)
 
 ## Release Images
 {{< imageGrid >}}

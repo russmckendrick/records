@@ -58,23 +58,23 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 
 
 ## Videos
-### Soulwax - Any Minute Now [HD]
-{{< youtube id="wbp-_Bpt_vY" title="Soulwax - Any Minute Now [HD]" >}}<br>
+### Soulwax - Any Minute Now HD
+{{< youtube id="wbp-_Bpt_vY" title="Soulwax - Any Minute Now HD" >}}<br>
 ### More Videos
 
 - [Soulwax   E Talking](https://www.youtube.com/watch?v=SdbaDBp1S_I)
 - [E Talking](https://www.youtube.com/watch?v=3dYrgHnZtmU)
 - [SOULWAX - NY Excuse](https://www.youtube.com/watch?v=EF3bu9fmheA)
 - [Soulwax - Any Minute Now](https://www.youtube.com/watch?v=aAhn3bh47m0)
-- [Soulwax - Please...don't be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)
+- [Soulwax - Pleasedont be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)
 - [Soulwax- Compute](https://www.youtube.com/watch?v=kz4_oO_3ms8)
-- [Soulwax - Krack (Original Version)](https://www.youtube.com/watch?v=C_M2g5AVsTs)
-- [Soulwax - Slowdance (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=ztRTF-EhUjc)
+- [Soulwax - Krack Original Version](https://www.youtube.com/watch?v=C_M2g5AVsTs)
+- [Soulwax - Slowdance Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=ztRTF-EhUjc)
 - [Soulwax - A ballad to forget](https://www.youtube.com/watch?v=FTSjAsiBiaY)
-- [Soulwax - Accidents & Compliments (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=1H7nj8LP7Mo)
+- [Soulwax - Accidents  Compliments Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=1H7nj8LP7Mo)
 - [Soulwax - Miserable Girl](https://www.youtube.com/watch?v=P6t3Spz0G4M)
-- [Soulwax - YYY/NNN (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=BkXlZK8QFpM)
-- [Soulwax - The Truth Is So Boring (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=bbmKdFxbtwg)
+- [Soulwax - YYYNNN Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=BkXlZK8QFpM)
+- [Soulwax - The Truth Is So Boring Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=bbmKdFxbtwg)
 
 ## Release Images
 {{< imageGrid >}}

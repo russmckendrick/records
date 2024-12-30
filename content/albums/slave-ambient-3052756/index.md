@@ -51,19 +51,19 @@ The album was preceded by the EP, Future Weather, in 2010.
 
 
 ## Videos
-### The War On Drugs - "Baby Missiles"  (Official Video)
-{{< youtube id="rMToQg0vSds" title="The War On Drugs - "Baby Missiles"  (Official Video)" >}}<br>
+### The War On Drugs - Baby Missiles  Official Video
+{{< youtube id="rMToQg0vSds" title="The War On Drugs - Baby Missiles  Official Video" >}}<br>
 ### More Videos
 
 - [The War on Drugs - Black Water Falls](https://www.youtube.com/watch?v=EUNSaSkDNKQ)
-- [Best Night - The War On Drugs (HQ)](https://www.youtube.com/watch?v=nvOQRlIRxO8)
-- [The War On Drugs - "Baby Missiles"  (Official Video)](https://www.youtube.com/watch?v=rMToQg0vSds)
+- [Best Night - The War On Drugs HQ](https://www.youtube.com/watch?v=nvOQRlIRxO8)
+- [The War On Drugs - Baby Missiles  Official Video](https://www.youtube.com/watch?v=rMToQg0vSds)
 - [The War on Drugs - Black Water Falls](https://www.youtube.com/watch?v=EUNSaSkDNKQ)
-- [Best Night - The War On Drugs (HQ)](https://www.youtube.com/watch?v=nvOQRlIRxO8)
-- [The War On Drugs - "Baby Missiles"  (Official Video)](https://www.youtube.com/watch?v=rMToQg0vSds)
-- [The War on Drugs — "Come to the City" (Official Music Video)](https://www.youtube.com/watch?v=FMqWSFNC1jU)
-- [The War On Drugs - "Brothers" (Official Video)](https://www.youtube.com/watch?v=TW8Hi_s2K34)
-- [Best Night - The War On Drugs (HQ)](https://www.youtube.com/watch?v=nvOQRlIRxO8)
+- [Best Night - The War On Drugs HQ](https://www.youtube.com/watch?v=nvOQRlIRxO8)
+- [The War On Drugs - Baby Missiles  Official Video](https://www.youtube.com/watch?v=rMToQg0vSds)
+- [The War on Drugs  Come to the City Official Music Video](https://www.youtube.com/watch?v=FMqWSFNC1jU)
+- [The War On Drugs - Brothers Official Video](https://www.youtube.com/watch?v=TW8Hi_s2K34)
+- [Best Night - The War On Drugs HQ](https://www.youtube.com/watch?v=nvOQRlIRxO8)
 
 ## Release Images
 {{< imageGrid >}}

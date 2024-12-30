@@ -45,11 +45,11 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon
-{{< youtube id="fBKOdrfDCaY" title="Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon" >}}<br>
+### Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon
+{{< youtube id="fBKOdrfDCaY" title="Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon" >}}<br>
 ### More Videos
 
-- [Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon](https://www.youtube.com/watch?v=fBKOdrfDCaY)
+- [Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon](https://www.youtube.com/watch?v=fBKOdrfDCaY)
 
 ## Release Images
 {{< imageGrid >}}

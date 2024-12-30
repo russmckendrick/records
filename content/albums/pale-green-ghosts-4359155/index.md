@@ -68,14 +68,14 @@ The title refers to the Russian olive trees that stand along the I-25 highway ne
 ### More Videos
 
 - [John Grant - GMF](https://www.youtube.com/watch?v=ekFWPsXXcg0)
-- [John Grant - Sensitive New Age Guy (from Pale Green Ghosts)](https://www.youtube.com/watch?v=zcamcBY2-4M)
-- [John Grant - Glacier [Pale Green Ghosts]](https://www.youtube.com/watch?v=ZeDlRVdbxYQ)
-- [John Grant - Vietnam [Pale Green Ghosts]](https://www.youtube.com/watch?v=_q0Stxzr4PI)
-- [John Grant - Pale Green Ghosts (Full Album)](https://www.youtube.com/watch?v=yDdo0GrnlY0)
-- [John Grant - Vietnam [Pale Green Ghosts]](https://www.youtube.com/watch?v=a5gtDhruFHU)
+- [John Grant - Sensitive New Age Guy from Pale Green Ghosts](https://www.youtube.com/watch?v=zcamcBY2-4M)
+- [John Grant - Glacier Pale Green Ghosts](https://www.youtube.com/watch?v=ZeDlRVdbxYQ)
+- [John Grant - Vietnam Pale Green Ghosts](https://www.youtube.com/watch?v=_q0Stxzr4PI)
+- [John Grant - Pale Green Ghosts Full Album](https://www.youtube.com/watch?v=yDdo0GrnlY0)
+- [John Grant - Vietnam Pale Green Ghosts](https://www.youtube.com/watch?v=a5gtDhruFHU)
 - [John Grant - Pale Green Ghosts No Ceremony RMX](https://www.youtube.com/watch?v=KlbtT8a--pQ)
-- [John Grant - It Doesn't Matter To Him Ft. Sinead O'Connor [Pale Green Ghosts]](https://www.youtube.com/watch?v=JvM3D4XE9qM)
-- [John Grant - It Doesn't Matter To Him (Strongroom)](https://www.youtube.com/watch?v=ZF6b2rz6Iy4)
+- [John Grant - It Doesnt Matter To Him Ft Sinead OConnor Pale Green Ghosts](https://www.youtube.com/watch?v=JvM3D4XE9qM)
+- [John Grant - It Doesnt Matter To Him Strongroom](https://www.youtube.com/watch?v=ZF6b2rz6Iy4)
 - [John Grant - Glacier](https://www.youtube.com/watch?v=K3BzvWPYo94)
 
 ## Release Images

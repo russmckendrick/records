@@ -62,12 +62,12 @@ A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilat
 
 
 ## Videos
-### New Order (Substance; 1987) - Ceremony
-{{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>
+### New Order Substance 1987 - Ceremony
+{{< youtube id="fi33-cITS0s" title="New Order Substance 1987 - Ceremony" >}}<br>
 ### More Videos
 
-- [Sub-culture (Substance Edit)](https://www.youtube.com/watch?v=6H7wyPSinUU)
-- [New Order - Shellshock (Substance - 1987)](https://www.youtube.com/watch?v=zcB_IqzUEaA)
+- [Sub-culture Substance Edit](https://www.youtube.com/watch?v=6H7wyPSinUU)
+- [New Order - Shellshock Substance - 1987](https://www.youtube.com/watch?v=zcB_IqzUEaA)
 - [State of the Nation](https://www.youtube.com/watch?v=lXHnRbNU2AU)
 - [1963](https://www.youtube.com/watch?v=2rpasa6EIRs)
 

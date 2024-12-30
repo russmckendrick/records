@@ -50,11 +50,11 @@ Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad 
 
 
 ## Videos
-### Bad Manners.........Gosh It's.......... Bad Manners Part 4
-{{< youtube id="pAO7mr7Pi0s" title="Bad Manners.........Gosh It's.......... Bad Manners Part 4" >}}<br>
+### Bad MannersGosh Its Bad Manners Part 4
+{{< youtube id="pAO7mr7Pi0s" title="Bad MannersGosh Its Bad Manners Part 4" >}}<br>
 ### More Videos
 
-- [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
+- [Bad MannersGosh Its Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
 
 ## Release Images
 {{< imageGrid >}}

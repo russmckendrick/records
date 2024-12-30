@@ -57,16 +57,16 @@ Creatively too, there was some agitation. Keyboardist Alan Wilder had grown fed 
 
 
 ## Videos
-### Depeche Mode - Violator (full album)
-{{< youtube id="E8Nbh2LWRls" title="Depeche Mode - Violator (full album)" >}}<br>
+### Depeche Mode - Violator full album
+{{< youtube id="E8Nbh2LWRls" title="Depeche Mode - Violator full album" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Enjoy the Silence (Remastered)](https://www.youtube.com/watch?v=aGSKrC7dGcY)
-- [Depeche Mode - World in My Eyes (Official Video)](https://www.youtube.com/watch?v=nhZdL4JlnxI)
-- [Depeche Mode - Policy of Truth (Official Video)](https://www.youtube.com/watch?v=M2VBmHOYpV8)
-- [Depeche Mode - Personal Jesus (Official Video)](https://www.youtube.com/watch?v=cNd4eocq2K0)
-- [Depeche Mode - Clean (Official Video)](https://www.youtube.com/watch?v=h1mD-_DKHc0)
-- [Depeche Mode - Halo (Official Video)](https://www.youtube.com/watch?v=iEH4eqtK8SU)
+- [Depeche Mode - Enjoy the Silence Remastered](https://www.youtube.com/watch?v=aGSKrC7dGcY)
+- [Depeche Mode - World in My Eyes Official Video](https://www.youtube.com/watch?v=nhZdL4JlnxI)
+- [Depeche Mode - Policy of Truth Official Video](https://www.youtube.com/watch?v=M2VBmHOYpV8)
+- [Depeche Mode - Personal Jesus Official Video](https://www.youtube.com/watch?v=cNd4eocq2K0)
+- [Depeche Mode - Clean Official Video](https://www.youtube.com/watch?v=h1mD-_DKHc0)
+- [Depeche Mode - Halo Official Video](https://www.youtube.com/watch?v=iEH4eqtK8SU)
 
 ## Release Images
 {{< imageGrid >}}

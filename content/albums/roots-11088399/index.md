@@ -72,13 +72,13 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 
 
 ## Videos
-### Sepultura - Roots Bloody Roots [OFFICIAL VIDEO]
-{{< youtube id="F_6IjeprfEs" title="Sepultura - Roots Bloody Roots [OFFICIAL VIDEO]" >}}<br>
+### Sepultura - Roots Bloody Roots OFFICIAL VIDEO
+{{< youtube id="F_6IjeprfEs" title="Sepultura - Roots Bloody Roots OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [Sepultura - Ratamahatta [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=NiwqRSCWw2g)
-- [Sepultura - Attitude [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0TanJ9jf-p4)
-- [Sepultura - Roots (Full Album)](https://www.youtube.com/watch?v=NXvPBe9ynsc)
+- [Sepultura - Ratamahatta OFFICIAL VIDEO](https://www.youtube.com/watch?v=NiwqRSCWw2g)
+- [Sepultura - Attitude OFFICIAL VIDEO](https://www.youtube.com/watch?v=0TanJ9jf-p4)
+- [Sepultura - Roots Full Album](https://www.youtube.com/watch?v=NXvPBe9ynsc)
 
 ## Release Images
 {{< imageGrid >}}

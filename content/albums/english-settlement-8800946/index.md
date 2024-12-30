@@ -79,24 +79,24 @@ English Settlement was well-received critically and continues to be regarded by 
 
 
 ## Videos
-### Runaways (2001 Remaster)
-{{< youtube id="tJocUSEXk8c" title="Runaways (2001 Remaster)" >}}<br>
+### Runaways 2001 Remaster
+{{< youtube id="tJocUSEXk8c" title="Runaways 2001 Remaster" >}}<br>
 ### More Videos
 
-- [Ball And Chain (2001 Remaster)](https://www.youtube.com/watch?v=aiGgyr02X08)
-- [Senses Working Overtime (Remastered 2001)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
-- [Jason And The Argonauts (2001 Remaster)](https://www.youtube.com/watch?v=G8yzT0LItfU)
-- [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
-- [Yacht Dance (2001 Remaster)](https://www.youtube.com/watch?v=gPOYlIsy18Y)
-- [All Of A Sudden (It's Too Late)](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
-- [Melt The Guns (2001 Remaster)](https://www.youtube.com/watch?v=FPWEiqHVFGI)
-- [Leisure (2001 Remaster)](https://www.youtube.com/watch?v=nwKjnLE8j0M)
-- [It's Nearly Africa (2001 Remaster)](https://www.youtube.com/watch?v=6PLGLATbfpY)
-- [Knuckle Down (2001 Remaster)](https://www.youtube.com/watch?v=5Y-fCyRSdho)
-- [Fly On The Wall (2001 Remaster)](https://www.youtube.com/watch?v=--6yDQhARM8)
-- [Down In The Cockpit (2001 Remaster)](https://www.youtube.com/watch?v=lPEVlbV7KoA)
-- [English Roundabout (2001 Remaster)](https://www.youtube.com/watch?v=aSIyaZoG0sU)
-- [Snowman (2001 Remaster)](https://www.youtube.com/watch?v=jzGFzWxBep8)
+- [Ball And Chain 2001 Remaster](https://www.youtube.com/watch?v=aiGgyr02X08)
+- [Senses Working Overtime Remastered 2001](https://www.youtube.com/watch?v=kjt7AdLYT2w)
+- [Jason And The Argonauts 2001 Remaster](https://www.youtube.com/watch?v=G8yzT0LItfU)
+- [No Thugs In Our House 2001 Remaster](https://www.youtube.com/watch?v=PnRzV4ehSxY)
+- [Yacht Dance 2001 Remaster](https://www.youtube.com/watch?v=gPOYlIsy18Y)
+- [All Of A Sudden Its Too Late](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
+- [Melt The Guns 2001 Remaster](https://www.youtube.com/watch?v=FPWEiqHVFGI)
+- [Leisure 2001 Remaster](https://www.youtube.com/watch?v=nwKjnLE8j0M)
+- [Its Nearly Africa 2001 Remaster](https://www.youtube.com/watch?v=6PLGLATbfpY)
+- [Knuckle Down 2001 Remaster](https://www.youtube.com/watch?v=5Y-fCyRSdho)
+- [Fly On The Wall 2001 Remaster](https://www.youtube.com/watch?v=--6yDQhARM8)
+- [Down In The Cockpit 2001 Remaster](https://www.youtube.com/watch?v=lPEVlbV7KoA)
+- [English Roundabout 2001 Remaster](https://www.youtube.com/watch?v=aSIyaZoG0sU)
+- [Snowman 2001 Remaster](https://www.youtube.com/watch?v=jzGFzWxBep8)
 
 ## Release Images
 {{< imageGrid >}}

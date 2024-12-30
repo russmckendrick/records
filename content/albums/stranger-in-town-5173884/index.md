@@ -51,12 +51,12 @@ The album became an instant success in the United States, being certified platin
 {{< youtube id="UhuVwVpr3WY" title="Hollywood Nights" >}}<br>
 ### More Videos
 
-- [We've Got Tonight](https://www.youtube.com/watch?v=uZQR3KqvYPc)
+- [Weve Got Tonight](https://www.youtube.com/watch?v=uZQR3KqvYPc)
 - [Still The Same](https://www.youtube.com/watch?v=PuNXEUwIQMY)
-- [Old Time Rock & Roll](https://www.youtube.com/watch?v=W1LsRShUPtY)
+- [Old Time Rock  Roll](https://www.youtube.com/watch?v=W1LsRShUPtY)
 - [Till It Shines](https://www.youtube.com/watch?v=06MllIiuEHA)
 - [Feel Like A Number](https://www.youtube.com/watch?v=XA1LJ3blITU)
-- [Ain't Got No Money](https://www.youtube.com/watch?v=oxoPYOzxy_M)
+- [Aint Got No Money](https://www.youtube.com/watch?v=oxoPYOzxy_M)
 - [Brave Strangers](https://www.youtube.com/watch?v=l6vYnLQFtc0)
 - [The Famous Final Scene](https://www.youtube.com/watch?v=9_Cqohz0188)
 

@@ -60,8 +60,8 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 - [I - The Fall of House Atlantic](https://www.youtube.com/watch?v=unaN4Jejgk8)
 - [V - On the Brink](https://www.youtube.com/watch?v=wQx9UsSjzVA)
 - [Mother Superior](https://www.youtube.com/watch?v=thXSi3czdAY)
-- [The Hound (of Blood and Rank)](https://www.youtube.com/watch?v=Q62g4b0A8Qs)
-- [Gravemakers & Gunslingers](https://www.youtube.com/watch?v=Fx8yc4u8Qgc)
+- [The Hound of Blood and Rank](https://www.youtube.com/watch?v=Q62g4b0A8Qs)
+- [Gravemakers  Gunslingers](https://www.youtube.com/watch?v=Fx8yc4u8Qgc)
 
 ## Release Images
 {{< imageGrid >}}

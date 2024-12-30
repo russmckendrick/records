@@ -59,14 +59,14 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 ### More Videos
 
 - [Harvest](https://www.youtube.com/watch?v=CIFriDECa8E)
-- [A Man Needs a Maid (2009 Remaster)](https://www.youtube.com/watch?v=E5_hCAqGa4g)
+- [A Man Needs a Maid 2009 Remaster](https://www.youtube.com/watch?v=E5_hCAqGa4g)
 - [Heart of Gold](https://www.youtube.com/watch?v=iBeoFqDDW2w)
-- [Are You Ready for the Country?](https://www.youtube.com/watch?v=3AkZPMWGNi4)
+- [Are You Ready for the Country](https://www.youtube.com/watch?v=3AkZPMWGNi4)
 - [Old Man](https://www.youtube.com/watch?v=hygRbtPtImM)
-- [There's a World (2009 Remaster)](https://www.youtube.com/watch?v=mVHQSvcSa6o)
+- [Theres a World 2009 Remaster](https://www.youtube.com/watch?v=mVHQSvcSa6o)
 - [Alabama](https://www.youtube.com/watch?v=NdoKly2iO1g)
-- [The Needle and the Damage Done (2009 Remaster)](https://www.youtube.com/watch?v=49M10VIXPk4)
-- [Words (Between the Lines of Age) (2009 Remaster)](https://www.youtube.com/watch?v=pMRcFpIn49o)
+- [The Needle and the Damage Done 2009 Remaster](https://www.youtube.com/watch?v=49M10VIXPk4)
+- [Words Between the Lines of Age 2009 Remaster](https://www.youtube.com/watch?v=pMRcFpIn49o)
 
 ## Release Images
 {{< imageGrid >}}

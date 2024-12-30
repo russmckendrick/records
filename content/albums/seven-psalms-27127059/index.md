@@ -46,11 +46,11 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 
 
 ## Videos
-### Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /...
-{{< youtube id="ANtntuDslnk" title="Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /..." >}}<br>
+### Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness 
+{{< youtube id="ANtntuDslnk" title="Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness " >}}<br>
 ### More Videos
 
-- [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /...](https://www.youtube.com/watch?v=ANtntuDslnk)
+- [Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness ](https://www.youtube.com/watch?v=ANtntuDslnk)
 
 ## Release Images
 {{< imageGrid >}}

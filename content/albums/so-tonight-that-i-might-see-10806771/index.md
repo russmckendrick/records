@@ -44,8 +44,8 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 
 
 ## Videos
-### Mazzy Star - Fade Into You (Official Music Video)
-{{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You (Official Music Video)" >}}<br>
+### Mazzy Star - Fade Into You Official Music Video
+{{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You Official Music Video" >}}<br>
 ### More Videos
 
 - [Fade Into You](https://www.youtube.com/watch?v=avv2IIdDnnk)
@@ -53,7 +53,7 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 - [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
 - [Five String Serenade](https://www.youtube.com/watch?v=IbfKJoh1lNA)
 - [Blue Light](https://www.youtube.com/watch?v=H7VUO-WxppY)
-- [She's My Baby](https://www.youtube.com/watch?v=_AalUu5JY9M)
+- [Shes My Baby](https://www.youtube.com/watch?v=_AalUu5JY9M)
 - [Unreflected](https://www.youtube.com/watch?v=CZXUFYsKKSo)
 - [Wasted](https://www.youtube.com/watch?v=3XWj4YMWyjU)
 - [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
@@ -61,9 +61,9 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 - [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
 - [Mazzy Star - So Tonight That I Might See](https://www.youtube.com/watch?v=pNu3tI-GVg4)
 - [Mazzy Star - So Tonight That I Might See - Black Sessions 1993](https://www.youtube.com/watch?v=Jp5kF_X2PVQ)
-- [So Tonight That I Might See (.ascension Version)](https://www.youtube.com/watch?v=pbc0dDK5hn0)
-- [Mazzy Star - Fade Into You (Official Music Video)](https://www.youtube.com/watch?v=ImKY6TZEyrI)
-- [Mazzy Star - So Tonight That I Might See (lyrics)](https://www.youtube.com/watch?v=ljHioK_dfR8)
+- [So Tonight That I Might See ascension Version](https://www.youtube.com/watch?v=pbc0dDK5hn0)
+- [Mazzy Star - Fade Into You Official Music Video](https://www.youtube.com/watch?v=ImKY6TZEyrI)
+- [Mazzy Star - So Tonight That I Might See lyrics](https://www.youtube.com/watch?v=ljHioK_dfR8)
 
 ## Release Images
 {{< imageGrid >}}

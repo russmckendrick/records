@@ -50,14 +50,14 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 
 
 ## Videos
-### Michael Kiwanuka - Floating Parade (Official Lyric Video)
-{{< youtube id="UCTICm5oOxg" title="Michael Kiwanuka - Floating Parade (Official Lyric Video)" >}}<br>
+### Michael Kiwanuka - Floating Parade Official Lyric Video
+{{< youtube id="UCTICm5oOxg" title="Michael Kiwanuka - Floating Parade Official Lyric Video" >}}<br>
 ### More Videos
 
 - [Small Changes](https://www.youtube.com/watch?v=-4lokXVNLhU)
 - [One And Only](https://www.youtube.com/watch?v=BgbIMUGFfFM)
 - [Rebel Soul](https://www.youtube.com/watch?v=csFchOd8FVU)
-- [Michael Kiwanuka - Lowdown (parts i and ii)](https://www.youtube.com/watch?v=agx-kVgC3sg)
+- [Michael Kiwanuka - Lowdown parts i and ii](https://www.youtube.com/watch?v=agx-kVgC3sg)
 - [Follow Your Dreams](https://www.youtube.com/watch?v=SlPB0IBIDc0)
 - [Live For Your Love](https://www.youtube.com/watch?v=yjM_NA7Kzfs)
 - [Stay By My Side](https://www.youtube.com/watch?v=qCzHJ4R87Xc)

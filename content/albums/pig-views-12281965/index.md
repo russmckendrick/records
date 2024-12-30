@@ -44,11 +44,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Regal Worm - Pig Views (2018) (Full Album)
-{{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views (2018) (Full Album)" >}}<br>
+### Regal Worm - Pig Views 2018 Full Album
+{{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views 2018 Full Album" >}}<br>
 ### More Videos
 
-- [Regal Worm - Pig Views (2018) (Full Album)](https://www.youtube.com/watch?v=zFJmtIe8ubo)
+- [Regal Worm - Pig Views 2018 Full Album](https://www.youtube.com/watch?v=zFJmtIe8ubo)
 
 ## Release Images
 {{< imageGrid >}}

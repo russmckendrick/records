@@ -44,14 +44,14 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Videos
-### The New Kings (i) Fuck Everyone and Run
-{{< youtube id="Q0X6YN3ENU4" title="The New Kings (i) Fuck Everyone and Run" >}}<br>
+### The New Kings i Fuck Everyone and Run
+{{< youtube id="Q0X6YN3ENU4" title="The New Kings i Fuck Everyone and Run" >}}<br>
 ### More Videos
 
-- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
-- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=Q0X6YN3ENU4)
-- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
-- [Marillion "Living in F E A R" Official Music Video](https://www.youtube.com/watch?v=23YiX8UgT_Q)
+- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
+- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=Q0X6YN3ENU4)
+- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
+- [Marillion Living in F E A R Official Music Video](https://www.youtube.com/watch?v=23YiX8UgT_Q)
 
 ## Release Images
 {{< imageGrid >}}

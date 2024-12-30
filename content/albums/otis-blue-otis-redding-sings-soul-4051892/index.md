@@ -46,21 +46,21 @@ Otis Blue was a crossover success for Redding and proved one of his best-selling
 
 
 ## Videos
-### Otis Redding  -Otis Blue -1965 (FULL ALBUM)
-{{< youtube id="za-EMHyQZbc" title="Otis Redding  -Otis Blue -1965 (FULL ALBUM)" >}}<br>
+### Otis Redding  -Otis Blue -1965 FULL ALBUM
+{{< youtube id="za-EMHyQZbc" title="Otis Redding  -Otis Blue -1965 FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Otis Redding - Otis Blue Sings Soul 1965 (Full Album Vinyl 2012)](https://www.youtube.com/watch?v=7t08-3-VkVc)
-- [Ole Man Trouble (Mono)](https://www.youtube.com/watch?v=oKsiukdz0xI)
-- [Respect (Mono)](https://www.youtube.com/watch?v=Z3cGRU41nLM)
-- [Change Gonna Come (Mono)](https://www.youtube.com/watch?v=3YjWuKXdkI8)
-- [I've Been Loving You Too Long](https://www.youtube.com/watch?v=hSdpqRNd0QU)
-- [Shake (Mono) (2008 Remaster)](https://www.youtube.com/watch?v=chNpAYaTH2k)
-- [Otis Redding - (I Can't Get No) Satisfaction](https://www.youtube.com/watch?v=gmnZRBTPzg0)
+- [Otis Redding - Otis Blue Sings Soul 1965 Full Album Vinyl 2012](https://www.youtube.com/watch?v=7t08-3-VkVc)
+- [Ole Man Trouble Mono](https://www.youtube.com/watch?v=oKsiukdz0xI)
+- [Respect Mono](https://www.youtube.com/watch?v=Z3cGRU41nLM)
+- [Change Gonna Come Mono](https://www.youtube.com/watch?v=3YjWuKXdkI8)
+- [Ive Been Loving You Too Long](https://www.youtube.com/watch?v=hSdpqRNd0QU)
+- [Shake Mono 2008 Remaster](https://www.youtube.com/watch?v=chNpAYaTH2k)
+- [Otis Redding - I Cant Get No Satisfaction](https://www.youtube.com/watch?v=gmnZRBTPzg0)
 - [My Girl](https://www.youtube.com/watch?v=PtW03zWhXRw)
 - [Wonderful World](https://www.youtube.com/watch?v=6LLPLIeGrOM)
 - [Down in the Valley](https://www.youtube.com/watch?v=eX1VPiWAjLg)
-- [You Don't Miss Your Water (Mono) (2008 Remaster)](https://www.youtube.com/watch?v=GhP5i9d2luE)
+- [You Dont Miss Your Water Mono 2008 Remaster](https://www.youtube.com/watch?v=GhP5i9d2luE)
 
 ## Release Images
 {{< imageGrid >}}

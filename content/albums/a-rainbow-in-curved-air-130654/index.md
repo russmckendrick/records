@@ -37,12 +37,12 @@ Riley's record deal with CBS was part of "Music of Our Time," a short-lived albu
 
 
 ## Videos
-### A Rainbow in the Curved Air (Instrumental)
-{{< youtube id="eKg_R1W94G0" title="A Rainbow in the Curved Air (Instrumental)" >}}<br>
+### A Rainbow in the Curved Air Instrumental
+{{< youtube id="eKg_R1W94G0" title="A Rainbow in the Curved Air Instrumental" >}}<br>
 ### More Videos
 
-- [Poppy Nogood and the Phantom Band (Instrumental)](https://www.youtube.com/watch?v=ooxgptB19mQ)
-- [Terry Riley: A Rainbow In Curved Air 432Hz 1969/ Poppy Nogood And The Phantom Band](https://www.youtube.com/watch?v=B8cHjxFoT0M)
+- [Poppy Nogood and the Phantom Band Instrumental](https://www.youtube.com/watch?v=ooxgptB19mQ)
+- [Terry Riley A Rainbow In Curved Air 432Hz 1969 Poppy Nogood And The Phantom Band](https://www.youtube.com/watch?v=B8cHjxFoT0M)
 - [Terry Riley - A Rainbow in Curved Air](https://www.youtube.com/watch?v=5PNbEfLIEDs)
 - [Poppy Nogood and the Phantom Band](https://www.youtube.com/watch?v=TsvzYH_PtKU)
 

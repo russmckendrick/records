@@ -46,19 +46,19 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 
 
 ## Videos
-### Memphis Soul Stew (Live at Fillmore West, 3/7/1971)
-{{< youtube id="QISOupYqTi4" title="Memphis Soul Stew (Live at Fillmore West, 3/7/1971)" >}}<br>
+### Memphis Soul Stew Live at Fillmore West 371971
+{{< youtube id="QISOupYqTi4" title="Memphis Soul Stew Live at Fillmore West 371971" >}}<br>
 ### More Videos
 
-- [A Whiter Shade of Pale (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=DOrAd-nyRsM)
-- [Whole Lotta Love (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=z8RQZc8ir8E)
-- [I Stand Accused (Live at Fillmore West, 3/6/1971)](https://www.youtube.com/watch?v=Fj3MRelfzDc)
-- [Them Changes (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=29liKY8lXI8)
-- [Ode to Billy Joe (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=SfnwzrA-1xc)
-- [Mr. Bojangles (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=QobLjxsp5hE)
-- [Signed, Sealed, Delivered (I'm Yours) (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=4kbU4KldDAA)
-- [Soul Serenade (Live at Fillmore West, 3/7/1971)](https://www.youtube.com/watch?v=oQlq6BqIP-o)
-- [Signed, Sealed, Delivered (I'm Yours) (Live at Fillmore West, 3/5/1971)](https://www.youtube.com/watch?v=Oh0qaVOUt-o)
+- [A Whiter Shade of Pale Live at Fillmore West 371971](https://www.youtube.com/watch?v=DOrAd-nyRsM)
+- [Whole Lotta Love Live at Fillmore West 361971](https://www.youtube.com/watch?v=z8RQZc8ir8E)
+- [I Stand Accused Live at Fillmore West 361971](https://www.youtube.com/watch?v=Fj3MRelfzDc)
+- [Them Changes Live at Fillmore West 371971](https://www.youtube.com/watch?v=29liKY8lXI8)
+- [Ode to Billy Joe Live at Fillmore West 371971](https://www.youtube.com/watch?v=SfnwzrA-1xc)
+- [Mr Bojangles Live at Fillmore West 351971](https://www.youtube.com/watch?v=QobLjxsp5hE)
+- [Signed Sealed Delivered Im Yours Live at Fillmore West 351971](https://www.youtube.com/watch?v=4kbU4KldDAA)
+- [Soul Serenade Live at Fillmore West 371971](https://www.youtube.com/watch?v=oQlq6BqIP-o)
+- [Signed Sealed Delivered Im Yours Live at Fillmore West 351971](https://www.youtube.com/watch?v=Oh0qaVOUt-o)
 
 ## Release Images
 {{< imageGrid >}}

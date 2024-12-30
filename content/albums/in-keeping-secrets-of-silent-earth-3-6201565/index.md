@@ -56,7 +56,7 @@ In Keeping Secrets of Silent Earth: 3 is the second studio album by American pro
 {{< youtube id="3bwELa13rBo" title="Coheed and Cambria - Devil in Jersey City" >}}<br>
 ### More Videos
 
-- [Coheed and Cambria - A Favor House Atlantic (Official Video)](https://www.youtube.com/watch?v=pRWjLLpwnOM)
+- [Coheed and Cambria - A Favor House Atlantic Official Video](https://www.youtube.com/watch?v=pRWjLLpwnOM)
 
 ## Release Images
 {{< imageGrid >}}

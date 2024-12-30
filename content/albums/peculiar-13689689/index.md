@@ -49,8 +49,8 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 
 
 ## Videos
-### The Slackers - Peculiar (Full Album)
-{{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar (Full Album)" >}}<br>
+### The Slackers - Peculiar Full Album
+{{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar Full Album" >}}<br>
 
 
 ## Release Images

@@ -50,19 +50,19 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 
 
 ## Videos
-### The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]
-{{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]" >}}<br>
+### The Flaming Lips - Yoshimi Battles the Pink Robots Pt 1 Official Music Video
+{{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt 1 Official Music Video" >}}<br>
 ### More Videos
 
-- [The Flaming Lips - Do You Realize?? (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=lPXWt2ESxVY)
+- [The Flaming Lips - Do You Realize Official Music Video HD Remaster](https://www.youtube.com/watch?v=lPXWt2ESxVY)
 - [In the Morning of the Magicians](https://www.youtube.com/watch?v=gNwyByCEytc)
-- [One More Robot / Sympathy 3000-21](https://www.youtube.com/watch?v=eCfOD0yrvOo)
+- [One More Robot  Sympathy 3000-21](https://www.youtube.com/watch?v=eCfOD0yrvOo)
 - [Ego Tripping at the Gates of Hell](https://www.youtube.com/watch?v=PamBD5B2wXk)
-- [It's Summertime](https://www.youtube.com/watch?v=8epnNzRSUdI)
-- [Yoshimi Battles the Pink RobotsPt. 2](https://www.youtube.com/watch?v=uSUA1OZZxCA)
+- [Its Summertime](https://www.youtube.com/watch?v=8epnNzRSUdI)
+- [Yoshimi Battles the Pink RobotsPt 2](https://www.youtube.com/watch?v=uSUA1OZZxCA)
 - [All We Have Is Now](https://www.youtube.com/watch?v=SAGdXf7uago)
-- [The Flaming Lips - Are You A Hypnotist?? [Official Music Video]](https://www.youtube.com/watch?v=E-9mCAA1YYY)
-- [Approaching Pavonis Mons by Balloon (Utopia Planitia)](https://www.youtube.com/watch?v=yqxYqc6ipU0)
+- [The Flaming Lips - Are You A Hypnotist Official Music Video](https://www.youtube.com/watch?v=E-9mCAA1YYY)
+- [Approaching Pavonis Mons by Balloon Utopia Planitia](https://www.youtube.com/watch?v=yqxYqc6ipU0)
 
 ## Release Images
 {{< imageGrid >}}

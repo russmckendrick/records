@@ -51,13 +51,13 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 
 
 ## Videos
-### MOBY - SUNDAY (PLAY THE B SIDES)
-{{< youtube id="7Brcsjvuc00" title="MOBY - SUNDAY (PLAY THE B SIDES)" >}}<br>
+### MOBY - SUNDAY PLAY THE B SIDES
+{{< youtube id="7Brcsjvuc00" title="MOBY - SUNDAY PLAY THE B SIDES" >}}<br>
 ### More Videos
 
 - [Moby - Princess](https://www.youtube.com/watch?v=hhCDcKq4EZI)
-- [Moby - Flying Foxes (Official Audio)](https://www.youtube.com/watch?v=JLjsLWevjkw)
-- [Moby - The Sun Never Stops Setting (Official Audio)](https://www.youtube.com/watch?v=xj7YUmYofmo)
+- [Moby - Flying Foxes Official Audio](https://www.youtube.com/watch?v=JLjsLWevjkw)
+- [Moby - The Sun Never Stops Setting Official Audio](https://www.youtube.com/watch?v=xj7YUmYofmo)
 
 ## Release Images
 {{< imageGrid >}}

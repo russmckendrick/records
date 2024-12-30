@@ -52,14 +52,14 @@ On the album, Catherine plays a variety of instruments, including piano, guitar,
 
 
 ## Videos
-### The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)
-{{< youtube id="Z2FXZeJED2w" title="The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)" >}}<br>
+### The Anchoress - Doesnt Kill You from Confessions of a Romance Novelist
+{{< youtube id="Z2FXZeJED2w" title="The Anchoress - Doesnt Kill You from Confessions of a Romance Novelist" >}}<br>
 ### More Videos
 
-- [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
+- [The Anchoress - Popular from Confessions of a Romance Novelist](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 - [Confessions of a Romance Novelist](https://www.youtube.com/watch?v=6ul6hypmC30)
-- [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
-- [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
+- [The Anchoress - Doesnt Kill You from Confessions of a Romance Novelist](https://www.youtube.com/watch?v=Z2FXZeJED2w)
+- [The Anchoress - Popular from Confessions of a Romance Novelist](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 
 ## Release Images
 {{< imageGrid >}}

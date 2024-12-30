@@ -45,7 +45,7 @@ styles: ["Prog Rock"]
 {{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}<br>
 ### More Videos
 
-- [Recording the BOSH! album.  Cleft do a gear nerd walkthrough in the recording studio.](https://www.youtube.com/watch?v=gXTYMla2hew)
+- [Recording the BOSH album  Cleft do a gear nerd walkthrough in the recording studio](https://www.youtube.com/watch?v=gXTYMla2hew)
 
 ## Release Images
 {{< imageGrid >}}

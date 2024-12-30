@@ -48,19 +48,19 @@ Fundamental or Fundamental As Anything is the fifth studio album released by Aus
 
 
 ## Videos
-### Mental As Anything - Live It Up (HQ)
-{{< youtube id="izIFgVG6Y9o" title="Mental As Anything - Live It Up (HQ)" >}}<br>
+### Mental As Anything - Live It Up HQ
+{{< youtube id="izIFgVG6Y9o" title="Mental As Anything - Live It Up HQ" >}}<br>
 ### More Videos
 
-- [Mental As Anything - Live It Up (1985)](https://www.youtube.com/watch?v=eD01-p3oVI0)
-- [Mental As Anything - You're So Strong](https://www.youtube.com/watch?v=AfsMYLy2yCQ)
-- [Mental As Anything - Live It Up (HQ)](https://www.youtube.com/watch?v=izIFgVG6Y9o)
-- [Mental As Anything – “Surf & Mull & Sex & Fun” (UK Epic) 1987](https://www.youtube.com/watch?v=DR_huwgd5Ok)
-- ["Good Friday"](https://www.youtube.com/watch?v=JuzSzB-BCuQ)
+- [Mental As Anything - Live It Up 1985](https://www.youtube.com/watch?v=eD01-p3oVI0)
+- [Mental As Anything - Youre So Strong](https://www.youtube.com/watch?v=AfsMYLy2yCQ)
+- [Mental As Anything - Live It Up HQ](https://www.youtube.com/watch?v=izIFgVG6Y9o)
+- [Mental As Anything  Surf  Mull  Sex  Fun UK Epic 1987](https://www.youtube.com/watch?v=DR_huwgd5Ok)
+- [Good Friday](https://www.youtube.com/watch?v=JuzSzB-BCuQ)
 - [Mental As Anything - Date With Destiny](https://www.youtube.com/watch?v=XDicSQeV5gs)
-- [Mental As Anything – “Hold On” (CBS) 1986](https://www.youtube.com/watch?v=41D7GYlNn3I)
-- [Mental As Anything "You're So Strong"](https://www.youtube.com/watch?v=vrUyvhoTQXU)
-- [You're So Strong: Mental As Anything (Countdown 1985)](https://www.youtube.com/watch?v=tM_QVP9F2tw)
+- [Mental As Anything  Hold On CBS 1986](https://www.youtube.com/watch?v=41D7GYlNn3I)
+- [Mental As Anything Youre So Strong](https://www.youtube.com/watch?v=vrUyvhoTQXU)
+- [Youre So Strong Mental As Anything Countdown 1985](https://www.youtube.com/watch?v=tM_QVP9F2tw)
 - [Mental As Anything - Live It Up](https://www.youtube.com/watch?v=6idg4J9Nqf0)
 - [MENTAL AS ANYTHING BIG WHEEL](https://www.youtube.com/watch?v=f9ELfVE6pRM)
 

@@ -53,12 +53,12 @@ This was the first album where they achieved chart success in the US with the si
 
 
 ## Videos
-### Depeche Mode - Some Great Reward [FULL ALBUM]
-{{< youtube id="8gCF4xdVQV8" title="Depeche Mode - Some Great Reward [FULL ALBUM]" >}}<br>
+### Depeche Mode - Some Great Reward FULL ALBUM
+{{< youtube id="8gCF4xdVQV8" title="Depeche Mode - Some Great Reward FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Some Great Reward (full album)](https://www.youtube.com/watch?v=pELObWd223Y)
-- [dave doesn't remember some great reward](https://www.youtube.com/watch?v=2wRK07nfs9c)
+- [Depeche Mode - Some Great Reward full album](https://www.youtube.com/watch?v=pELObWd223Y)
+- [dave doesnt remember some great reward](https://www.youtube.com/watch?v=2wRK07nfs9c)
 
 ## Release Images
 {{< imageGrid >}}

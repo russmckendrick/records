@@ -47,12 +47,12 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 
 
 ## Videos
-### Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)
-{{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}<br>
+### Anathema - The Lost Song part 3 FULL TRACK from Distant Satellites
+{{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 FULL TRACK from Distant Satellites" >}}<br>
 ### More Videos
 
-- [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
-- [Anathema - Distant Satellites [Full Album]](https://www.youtube.com/watch?v=J1pkkCmBgCk)
+- [Anathema - The Making of the Distant Satellites clip from the Special Edition documentary](https://www.youtube.com/watch?v=MsgFPDZKU3M)
+- [Anathema - Distant Satellites Full Album](https://www.youtube.com/watch?v=J1pkkCmBgCk)
 
 ## Release Images
 {{< imageGrid >}}

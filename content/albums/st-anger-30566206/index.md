@@ -60,8 +60,8 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 
 
 ## Videos
-### Metallica - St. Anger (Official Music Video)
-{{< youtube id="6ajl1ABdD8A" title="Metallica - St. Anger (Official Music Video)" >}}<br>
+### Metallica - St Anger Official Music Video
+{{< youtube id="6ajl1ABdD8A" title="Metallica - St Anger Official Music Video" >}}<br>
 
 
 ## Release Images

@@ -50,7 +50,7 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 {{< youtube id="W7Ewyu06pTI" title="Pollen Song" >}}<br>
 ### More Videos
 
-- [Tennis - Let's Make a Mistake Tonight (Official Video)](https://www.youtube.com/watch?v=HG2Bklaa880)
+- [Tennis - Lets Make a Mistake Tonight Official Video](https://www.youtube.com/watch?v=HG2Bklaa880)
 
 ## Release Images
 {{< imageGrid >}}

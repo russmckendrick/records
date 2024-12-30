@@ -54,8 +54,8 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 
 
 ## Videos
-### Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)
-{{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft. Mark E. Smith (Official HD Video)" >}}<br>
+### Inspiral Carpets - I Want You ft Mark E Smith Official HD Video
+{{< youtube id="DPTpBoYVD8Q" title="Inspiral Carpets - I Want You ft Mark E Smith Official HD Video" >}}<br>
 ### More Videos
 
 - [Party in the Sky](https://www.youtube.com/watch?v=gyG00HOZ1fA)
@@ -65,10 +65,10 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 - [Just Wednesday](https://www.youtube.com/watch?v=jxLfSG75gxg)
 - [Inspiral Carpets - Saturn 5](https://www.youtube.com/watch?v=03cy86u6Wi4)
 - [All of This and More](https://www.youtube.com/watch?v=tsRs5LwcUMA)
-- [The Way the Light Falls (feat. Basil Clarke)](https://www.youtube.com/watch?v=_9HSFatjkAo)
+- [The Way the Light Falls feat Basil Clarke](https://www.youtube.com/watch?v=_9HSFatjkAo)
 - [Half Way There](https://www.youtube.com/watch?v=WYNQqFzxHrI)
 - [Cobra](https://www.youtube.com/watch?v=uNs04lzdcMs)
-- [I Don't Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
+- [I Dont Want to Go Blind](https://www.youtube.com/watch?v=y2RjLE-mbeI)
 
 ## Release Images
 {{< imageGrid >}}

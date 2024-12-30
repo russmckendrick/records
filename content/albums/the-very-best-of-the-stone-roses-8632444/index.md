@@ -58,28 +58,28 @@ Not only does the compilation contain six songs from their 1989 debut but the al
 
 
 ## Videos
-### The Stone Roses - Complete A Side [ The Very Best Of..  LP ]
-{{< youtube id="Y0fQUsGU6y4" title="The Stone Roses - Complete A Side [ The Very Best Of..  LP ]" >}}<br>
+### The Stone Roses - Complete A Side  The Very Best Of  LP 
+{{< youtube id="Y0fQUsGU6y4" title="The Stone Roses - Complete A Side  The Very Best Of  LP " >}}<br>
 ### More Videos
 
-- [The Stone Roses - Complete B Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=aTtM4HtVJJg)
-- [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
-- [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
+- [The Stone Roses - Complete B Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=aTtM4HtVJJg)
+- [The Stone Roses - Complete C Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
+- [The Stone Roses - Complete D Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 - [The Stone Roses - I Am The Resurrection](https://www.youtube.com/watch?v=WosUuB1dSyA)
 - [The Stone Roses - Begging You](https://www.youtube.com/watch?v=S1Ke19kxGp8)
-- [The Stone Roses - Begging You (audio only)](https://www.youtube.com/watch?v=KoPeS-8tgWo)
-- [The Stone Roses - Breaking into Heaven [Live]](https://www.youtube.com/watch?v=SrGGwovv_Lw)
+- [The Stone Roses - Begging You audio only](https://www.youtube.com/watch?v=KoPeS-8tgWo)
+- [The Stone Roses - Breaking into Heaven Live](https://www.youtube.com/watch?v=SrGGwovv_Lw)
 - [Breaking into Heaven](https://www.youtube.com/watch?v=xw78ORDh8VA)
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [The Stone Roses - Ten Storey Love Song](https://www.youtube.com/watch?v=0uNLw3pXlVM)
 - [Stone Roses   Waterfall   live on OSM](https://www.youtube.com/watch?v=lL_dZqEsk0w)
-- [The Stone Roses - One Love (Official Video)](https://www.youtube.com/watch?v=60qyfdcAOGE)
-- [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
-- [The Stone Roses - Complete A Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=Y0fQUsGU6y4)
-- [The Stone Roses - Complete B Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=aTtM4HtVJJg)
-- [The Stone Roses - Complete C Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
-- [The Stone Roses - Complete D Side [ The Very Best Of..  LP ]](https://www.youtube.com/watch?v=KmY_D5ixBIg)
+- [The Stone Roses - One Love Official Video](https://www.youtube.com/watch?v=60qyfdcAOGE)
+- [The Stone Roses - Fools Gold Official Video](https://www.youtube.com/watch?v=NSD11dnphg0)
+- [The Stone Roses - Complete A Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=Y0fQUsGU6y4)
+- [The Stone Roses - Complete B Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=aTtM4HtVJJg)
+- [The Stone Roses - Complete C Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=AAW-Tr_Zwjg)
+- [The Stone Roses - Complete D Side  The Very Best Of  LP ](https://www.youtube.com/watch?v=KmY_D5ixBIg)
 - [The Stone Roses - Love Spreads](https://www.youtube.com/watch?v=ct-qa6SjRZo)
 - [The Stone Roses - I Am The Resurrection](https://www.youtube.com/watch?v=WosUuB1dSyA)
 

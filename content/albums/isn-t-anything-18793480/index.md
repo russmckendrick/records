@@ -54,20 +54,20 @@ Isn't Anything is the debut studio album by Irish-English rock band My Bloody Va
 
 
 ## Videos
-### my bloody valentine – Feed Me With Your Kiss (official video)
-{{< youtube id="9rxE0Mr_U8U" title="my bloody valentine – Feed Me With Your Kiss (official video)" >}}<br>
+### my bloody valentine  Feed Me With Your Kiss official video
+{{< youtube id="9rxE0Mr_U8U" title="my bloody valentine  Feed Me With Your Kiss official video" >}}<br>
 ### More Videos
 
 - [Lose My Breath](https://www.youtube.com/watch?v=pMCm3RLuSt0)
 - [Cupid Come](https://www.youtube.com/watch?v=j4CQvLJOV9I)
-- [[When You Wake] You’re Still In A Dream](https://www.youtube.com/watch?v=uSkL96zp2QE)
+- [When You Wake Youre Still In A Dream](https://www.youtube.com/watch?v=uSkL96zp2QE)
 - [No More Sorry](https://www.youtube.com/watch?v=9IGW8oGY7yQ)
 - [Sueisfine](https://www.youtube.com/watch?v=O1eDVBKxcn4)
 - [Several Girls Galore](https://www.youtube.com/watch?v=6OgnaBn6jvc)
 - [You Never Should](https://www.youtube.com/watch?v=w1z76Y_3x7s)
 - [Nothing Much To Lose](https://www.youtube.com/watch?v=HzsjqkYI1BI)
-- [I Can See It (But I Can’t Feel It)](https://www.youtube.com/watch?v=EG159C9shuA)
-- [My Bloody Valentine - Isn't Anything {FULL ALBUM} 1988](https://www.youtube.com/watch?v=EfnVoY6RHMc)
+- [I Can See It But I Cant Feel It](https://www.youtube.com/watch?v=EG159C9shuA)
+- [My Bloody Valentine - Isnt Anything FULL ALBUM 1988](https://www.youtube.com/watch?v=EfnVoY6RHMc)
 
 ## Release Images
 {{< imageGrid >}}

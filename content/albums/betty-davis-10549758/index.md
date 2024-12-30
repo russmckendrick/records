@@ -58,13 +58,13 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 
 
 ## Videos
-### If I'm In Luck I Might Get Picked Up
-{{< youtube id="W8b4hPEN05I" title="If I'm In Luck I Might Get Picked Up" >}}<br>
+### If Im In Luck I Might Get Picked Up
+{{< youtube id="W8b4hPEN05I" title="If Im In Luck I Might Get Picked Up" >}}<br>
 ### More Videos
 
 - [Walkin Up the Road](https://www.youtube.com/watch?v=kmoyQJbinGw)
 - [Ooh Yeah](https://www.youtube.com/watch?v=fB7MZz7oNmg)
-- [Steppin In Her I. Miller Shoes](https://www.youtube.com/watch?v=6U8KMASNf1U)
+- [Steppin In Her I Miller Shoes](https://www.youtube.com/watch?v=6U8KMASNf1U)
 - [Game Is My Middle Name](https://www.youtube.com/watch?v=SN3OU5g55F0)
 - [In the Meantime](https://www.youtube.com/watch?v=OBGR2ZbZIds)
 

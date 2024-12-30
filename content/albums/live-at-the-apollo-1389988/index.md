@@ -48,8 +48,8 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 
 
 ## Videos
-### A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks
-{{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE! by Daryl Hall & John Oates with David Ruffin & Eddie Kendricks" >}}<br>
+### A NITE AT THE APOLLO LIVE by Daryl Hall  John Oates with David Ruffin  Eddie Kendricks
+{{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE by Daryl Hall  John Oates with David Ruffin  Eddie Kendricks" >}}<br>
 
 
 ## Release Images

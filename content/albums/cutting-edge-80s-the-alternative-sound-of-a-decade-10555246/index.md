@@ -49,22 +49,22 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 
 
 ## Videos
-### PSYCHEDELIC FURS : Pretty in pink (HD)
-{{< youtube id="nu0sYQRECkY" title="PSYCHEDELIC FURS : Pretty in pink (HD)" >}}<br>
+### PSYCHEDELIC FURS  Pretty in pink HD
+{{< youtube id="nu0sYQRECkY" title="PSYCHEDELIC FURS  Pretty in pink HD" >}}<br>
 ### More Videos
 
-- [The Only Ones-Baby's Got a Gun](https://www.youtube.com/watch?v=31ONWHHA1Q8)
+- [The Only Ones-Babys Got a Gun](https://www.youtube.com/watch?v=31ONWHHA1Q8)
 - [John Cooper Clarke - Evidently Chickentown - The Best Sopranos Ending Ever](https://www.youtube.com/watch?v=rBcbc8eWz6U)
 - [John Cooper Clarke - Evidently Chickentown](https://www.youtube.com/watch?v=3KgB-sI2H-c)
-- [The First Picture Of You [Official video] - The Lotus Eaters (HD/HQ)](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
+- [The First Picture Of You Official video - The Lotus Eaters HDHQ](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
 - [Japan  - Quiet Life](https://www.youtube.com/watch?v=f6RV4Sttxac)
 - [Altered Images - I Could Be Happy](https://www.youtube.com/watch?v=1jgF3CO_lx8)
-- [Romeo Void - A Girl in Trouble (Is a Temporary Thing) (Video)](https://www.youtube.com/watch?v=o1TT0yVTlRg)
-- [PSYCHEDELIC FURS : Pretty in pink (HD)](https://www.youtube.com/watch?v=nu0sYQRECkY)
-- [The Only Ones-Baby's Got a Gun](https://www.youtube.com/watch?v=31ONWHHA1Q8)
+- [Romeo Void - A Girl in Trouble Is a Temporary Thing Video](https://www.youtube.com/watch?v=o1TT0yVTlRg)
+- [PSYCHEDELIC FURS  Pretty in pink HD](https://www.youtube.com/watch?v=nu0sYQRECkY)
+- [The Only Ones-Babys Got a Gun](https://www.youtube.com/watch?v=31ONWHHA1Q8)
 - [John Cooper Clarke - Evidently Chickentown - The Best Sopranos Ending Ever](https://www.youtube.com/watch?v=rBcbc8eWz6U)
 - [John Cooper Clarke - Evidently Chickentown](https://www.youtube.com/watch?v=3KgB-sI2H-c)
-- [The First Picture Of You [Official video] - The Lotus Eaters (HD/HQ)](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
+- [The First Picture Of You Official video - The Lotus Eaters HDHQ](https://www.youtube.com/watch?v=-SZ_A8K-xTY)
 - [Japan  - Quiet Life](https://www.youtube.com/watch?v=f6RV4Sttxac)
 - [Altered Images - I Could Be Happy](https://www.youtube.com/watch?v=1jgF3CO_lx8)
 

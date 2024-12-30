@@ -44,7 +44,7 @@ styles: ["Ambient", "Drone"]
 ### More Videos
 
 - [A Pink Sunset For No One](https://www.youtube.com/watch?v=zGk4imfGKi4)
-- [Noveller - "Another Dark Hour"](https://www.youtube.com/watch?v=kmECKxc_Occ)
+- [Noveller - Another Dark Hour](https://www.youtube.com/watch?v=kmECKxc_Occ)
 - [Rituals](https://www.youtube.com/watch?v=9ngNK_OwK-k)
 - [Lone Victory Tonight](https://www.youtube.com/watch?v=rOysMVKzmRE)
 - [Emergence](https://www.youtube.com/watch?v=shqOfpmCW70)

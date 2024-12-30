@@ -43,16 +43,16 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 
 
 ## Videos
-### Ghosts (2003 Digital Remaster)
-{{< youtube id="0cLeyGWthgw" title="Ghosts (2003 Digital Remaster)" >}}<br>
+### Ghosts 2003 Digital Remaster
+{{< youtube id="0cLeyGWthgw" title="Ghosts 2003 Digital Remaster" >}}<br>
 ### More Videos
 
-- [Canton (2003 Digital Remaster)](https://www.youtube.com/watch?v=R1Rt8mX9LJE)
-- [The Art of Parties (2003 - Remaster)](https://www.youtube.com/watch?v=aEuB_rfuM7Q)
-- [Talking Drum (2003 Digital Remaster)](https://www.youtube.com/watch?v=VMnPLCrGZA0)
-- [Still Life In Mobile Homes (2003 Digital Remaster)](https://www.youtube.com/watch?v=WxGpxt9XpN0)
-- [Sons Of Pioneers (2003 Digital Remaster)](https://www.youtube.com/watch?v=aEf38uz6FuQ)
-- [Cantonese Boy (Remastered)](https://www.youtube.com/watch?v=SfVG-4g0c1I)
+- [Canton 2003 Digital Remaster](https://www.youtube.com/watch?v=R1Rt8mX9LJE)
+- [The Art of Parties 2003 - Remaster](https://www.youtube.com/watch?v=aEuB_rfuM7Q)
+- [Talking Drum 2003 Digital Remaster](https://www.youtube.com/watch?v=VMnPLCrGZA0)
+- [Still Life In Mobile Homes 2003 Digital Remaster](https://www.youtube.com/watch?v=WxGpxt9XpN0)
+- [Sons Of Pioneers 2003 Digital Remaster](https://www.youtube.com/watch?v=aEf38uz6FuQ)
+- [Cantonese Boy Remastered](https://www.youtube.com/watch?v=SfVG-4g0c1I)
 
 ## Release Images
 {{< imageGrid >}}

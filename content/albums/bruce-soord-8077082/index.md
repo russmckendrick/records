@@ -42,8 +42,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bruce Soord - Familiar Patterns (from Bruce Soord)
-{{< youtube id="IYBB2iHfutE" title="Bruce Soord - Familiar Patterns (from Bruce Soord)" >}}<br>
+### Bruce Soord - Familiar Patterns from Bruce Soord
+{{< youtube id="IYBB2iHfutE" title="Bruce Soord - Familiar Patterns from Bruce Soord" >}}<br>
 
 
 ## Release Images

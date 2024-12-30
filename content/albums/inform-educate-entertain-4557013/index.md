@@ -50,8 +50,8 @@ The album title is a reference to the original directive of the British Broadcas
 
 
 ## Videos
-### Public Service Broadcasting - Inform/Educate/Entertain
-{{< youtube id="5u8r7hbmLFc" title="Public Service Broadcasting - Inform/Educate/Entertain" >}}<br>
+### Public Service Broadcasting - InformEducateEntertain
+{{< youtube id="5u8r7hbmLFc" title="Public Service Broadcasting - InformEducateEntertain" >}}<br>
 ### More Videos
 
 - [PUBLIC SERVICE BROADCASTING - SPITFIRE](https://www.youtube.com/watch?v=_u4Md_aXVJE)
@@ -60,7 +60,7 @@ The album title is a reference to the original directive of the British Broadcas
 - [PUBLIC SERVICE BROADCASTING - ROYGBIV](https://www.youtube.com/watch?v=Scpdj90Z5Nw)
 - [PUBLIC SERVICE BROADCASTING - LIT UP](https://www.youtube.com/watch?v=dsP95AfBtkk)
 - [PUBLIC SERVICE BROADCASTING - EVEREST](https://www.youtube.com/watch?v=vhgfzEm3CWU)
-- [Public Service Broadcasting - Inform/Educate/Entertain](https://www.youtube.com/watch?v=5u8r7hbmLFc)
+- [Public Service Broadcasting - InformEducateEntertain](https://www.youtube.com/watch?v=5u8r7hbmLFc)
 - [PUBLIC SERVICE BROADCASTING - SPITFIRE](https://www.youtube.com/watch?v=_u4Md_aXVJE)
 - [PUBLIC SERVICE BROADCASTING - THEME FROM PSB](https://www.youtube.com/watch?v=1-kkivsjbE0)
 - [PUBLIC SERVICE BROADCASTING - SIGNAL 30](https://www.youtube.com/watch?v=7quFOoUT08c)

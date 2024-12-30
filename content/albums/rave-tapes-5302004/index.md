@@ -72,15 +72,15 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 
 
 ## Videos
-### Mogwai - 'Remurdered'
-{{< youtube id="sZ5nEuG-CRc" title="Mogwai - 'Remurdered'" >}}<br>
+### Mogwai - Remurdered
+{{< youtube id="sZ5nEuG-CRc" title="Mogwai - Remurdered" >}}<br>
 ### More Videos
 
-- [Mogwai - Repelish (Rave Tapes 2014)](https://www.youtube.com/watch?v=6DF-BkuWGBo)
+- [Mogwai - Repelish Rave Tapes 2014](https://www.youtube.com/watch?v=6DF-BkuWGBo)
 - [Mogwai - Heard About You Last Night](https://www.youtube.com/watch?v=Vf7Jj23BVZM)
 - [Master Card](https://www.youtube.com/watch?v=FnVdzWa3KiQ)
-- [Mogwai - Die 1 Dislike! (Rave Tapes Bonus Track)](https://www.youtube.com/watch?v=E9rAbjCT8l0)
-- [Mogwai - Bad Magician 3 (Rave Tapes Bonus Track)](https://www.youtube.com/watch?v=1tbKO43N46o)
+- [Mogwai - Die 1 Dislike Rave Tapes Bonus Track](https://www.youtube.com/watch?v=E9rAbjCT8l0)
+- [Mogwai - Bad Magician 3 Rave Tapes Bonus Track](https://www.youtube.com/watch?v=1tbKO43N46o)
 
 ## Release Images
 {{< imageGrid >}}

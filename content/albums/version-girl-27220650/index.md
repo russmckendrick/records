@@ -50,15 +50,15 @@ styles: ["Ska"]
 ### More Videos
 
 - [Song to the Siren](https://www.youtube.com/watch?v=yJZgxeKLHyo)
-- [Hangin' 'Round](https://www.youtube.com/watch?v=U7budhiLvw8)
+- [Hangin Round](https://www.youtube.com/watch?v=U7budhiLvw8)
 - [Stop Your Sobbing](https://www.youtube.com/watch?v=f_ACPp7rYec)
 - [Comme Un Arbre](https://www.youtube.com/watch?v=oGHxC-j_Rwo)
-- [Rhoda Dakar - What A Wonderful World (Official Video)](https://www.youtube.com/watch?v=V-nND6PpuRY)
+- [Rhoda Dakar - What A Wonderful World Official Video](https://www.youtube.com/watch?v=V-nND6PpuRY)
 - [Everyday Is Like Sunday](https://www.youtube.com/watch?v=QJ2GSYYMAE0)
 - [A Wonderful Version](https://www.youtube.com/watch?v=KxXq9iyLhM0)
 - [Love Hurts](https://www.youtube.com/watch?v=pW7WD2Oz3LI)
-- [Rhoda Dakar - What A Wonderful World (Official Lyric Video)](https://www.youtube.com/watch?v=x7dcssR4mOo)
-- [As Tears Go By (Official Video)](https://www.youtube.com/watch?v=_Oj2V7nn5u0)
+- [Rhoda Dakar - What A Wonderful World Official Lyric Video](https://www.youtube.com/watch?v=x7dcssR4mOo)
+- [As Tears Go By Official Video](https://www.youtube.com/watch?v=_Oj2V7nn5u0)
 
 ## Release Images
 {{< imageGrid >}}

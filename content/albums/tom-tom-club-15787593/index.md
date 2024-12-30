@@ -45,20 +45,20 @@ Tom Tom Club is an American new wave band founded in 1981 by husband-and-wife te
 
 
 ## Videos
-### Tom Tom Club-Lorelei (Original Version)
-{{< youtube id="K4cE94BA454" title="Tom Tom Club-Lorelei (Original Version)" >}}<br>
+### Tom Tom Club-Lorelei Original Version
+{{< youtube id="K4cE94BA454" title="Tom Tom Club-Lorelei Original Version" >}}<br>
 ### More Videos
 
-- [Tom Tom Club - Tom Tom Club (1981) [Full album]](https://www.youtube.com/watch?v=9cQHxBBAL-g)
+- [Tom Tom Club - Tom Tom Club 1981 Full album](https://www.youtube.com/watch?v=9cQHxBBAL-g)
 - [Wordy Rappinghood](https://www.youtube.com/watch?v=fHL8Vi8Edt4)
 - [Tom Tom Club - Under The Boardwalk](https://www.youtube.com/watch?v=mbG2x9ffa1U)
-- [L' Elephant](https://www.youtube.com/watch?v=dvvCtXg0PW8)
-- [As Above, So Below-Tom Tom Club](https://www.youtube.com/watch?v=4BDy-f3tv5s)
-- [Tom Tom Club - Pleasure Of Love (Official Music Video)](https://www.youtube.com/watch?v=SJUys65clN8)
+- [L Elephant](https://www.youtube.com/watch?v=dvvCtXg0PW8)
+- [As Above So Below-Tom Tom Club](https://www.youtube.com/watch?v=4BDy-f3tv5s)
+- [Tom Tom Club - Pleasure Of Love Official Music Video](https://www.youtube.com/watch?v=SJUys65clN8)
 - [Tom    Tom   Club   --   Wordy    Rappinghood   Video   HQ](https://www.youtube.com/watch?v=_sLtZ1YhgdM)
-- [Tom Tom Club - Wordy Rappinghood (Video) (Remastered)](https://www.youtube.com/watch?v=apZ7likn3no)
-- [Tom Tom Club - As Above, So Below (Official Music Video)](https://www.youtube.com/watch?v=PJ4XD4sAbS4)
-- [Tom Tom Club - Genius Of Love (Official Music Video)](https://www.youtube.com/watch?v=aCWCF19nUhA)
+- [Tom Tom Club - Wordy Rappinghood Video Remastered](https://www.youtube.com/watch?v=apZ7likn3no)
+- [Tom Tom Club - As Above So Below Official Music Video](https://www.youtube.com/watch?v=PJ4XD4sAbS4)
+- [Tom Tom Club - Genius Of Love Official Music Video](https://www.youtube.com/watch?v=aCWCF19nUhA)
 
 ## Release Images
 {{< imageGrid >}}

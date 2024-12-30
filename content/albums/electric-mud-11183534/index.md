@@ -47,11 +47,11 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 {{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}<br>
 ### More Videos
 
-- [[I'm Your] Hoochie Coochie Man](https://www.youtube.com/watch?v=GTRuU_PHdzI)
-- [Let's Spend The Night Together](https://www.youtube.com/watch?v=1Oza295_pkY)
-- [She's Alright](https://www.youtube.com/watch?v=nsDDwJjIA58)
+- [Im Your Hoochie Coochie Man](https://www.youtube.com/watch?v=GTRuU_PHdzI)
+- [Lets Spend The Night Together](https://www.youtube.com/watch?v=1Oza295_pkY)
+- [Shes Alright](https://www.youtube.com/watch?v=nsDDwJjIA58)
 - [Mannish Boy](https://www.youtube.com/watch?v=RxgCGd_Meu8)
-- [Herbert Harper's Free Press News](https://www.youtube.com/watch?v=s-4MtSa8aoc)
+- [Herbert Harpers Free Press News](https://www.youtube.com/watch?v=s-4MtSa8aoc)
 - [Tom Cat](https://www.youtube.com/watch?v=RnK4mvFNj64)
 - [The Same Thing](https://www.youtube.com/watch?v=RBvebLOo98Y)
 

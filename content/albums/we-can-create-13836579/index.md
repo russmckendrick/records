@@ -54,13 +54,13 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 {{< youtube id="bHSQsbSAuHQ" title="Make Yourself Exist" >}}<br>
 ### More Videos
 
-- [We're Not in Kansas Anymore](https://www.youtube.com/watch?v=oANfQ7Br1IA)
+- [Were Not in Kansas Anymore](https://www.youtube.com/watch?v=oANfQ7Br1IA)
 - [Start Something](https://www.youtube.com/watch?v=dTITpNVU1T4)
 - [Fall Apart](https://www.youtube.com/watch?v=_9N6YlDUxzU)
-- [In Chemistry (Edit)](https://www.youtube.com/watch?v=TCTStfBoQyk)
-- [Maps, 'You Don't Know Her Name'](https://www.youtube.com/watch?v=AJgtYk5Pd9M)
+- [In Chemistry Edit](https://www.youtube.com/watch?v=TCTStfBoQyk)
+- [Maps You Dont Know Her Name](https://www.youtube.com/watch?v=AJgtYk5Pd9M)
 - [MAPS - ELOUISE](https://www.youtube.com/watch?v=ouY5RBOOrPE)
-- [Maps - Elouise (Studio-Version)](https://www.youtube.com/watch?v=XVU75kz91dE)
+- [Maps - Elouise Studio-Version](https://www.youtube.com/watch?v=XVU75kz91dE)
 - [Maps - To The Sky](https://www.youtube.com/watch?v=9dHiOJ_JNJM)
 
 ## Release Images

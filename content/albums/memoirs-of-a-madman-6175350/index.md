@@ -50,16 +50,16 @@ Memoirs of a Madman (French: Mémoires d'un fou) is an autobiographical text wri
 
 
 ## Videos
-### Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy
-{{< youtube id="qxcruo00h4U" title="Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy
+{{< youtube id="qxcruo00h4U" title="Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=qxcruo00h4U)
-- [OZZY OSBOURNE - "No More Tears"](https://www.youtube.com/watch?v=CprfjfN5PRs)
-- [Mr. Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
+- [Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=qxcruo00h4U)
+- [OZZY OSBOURNE - No More Tears](https://www.youtube.com/watch?v=CprfjfN5PRs)
+- [Mr Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
-- [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
-- [OZZY OSBOURNE - "Dreamer"](https://www.youtube.com/watch?v=LCCiwPEdEpg)
+- [Paranoid Live at The Roundhouse London England - 2010](https://www.youtube.com/watch?v=uUsqxqRCuig)
+- [OZZY OSBOURNE - Dreamer](https://www.youtube.com/watch?v=LCCiwPEdEpg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -66,10 +66,10 @@ Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little 
 ### More Videos
 
 - [Everything Means Nothing To Me](https://www.youtube.com/watch?v=m2NCuoVMhjk)
-- [Happiness/The Gondola Man](https://www.youtube.com/watch?v=Hadz9rZH5zI)
-- [In The Lost And Found (Honky Bach) /The Roost](https://www.youtube.com/watch?v=wjhXDbGQ_II)
+- [HappinessThe Gondola Man](https://www.youtube.com/watch?v=Hadz9rZH5zI)
+- [In The Lost And Found Honky Bach The Roost](https://www.youtube.com/watch?v=wjhXDbGQ_II)
 - [Junk Bond Trader](https://www.youtube.com/watch?v=KAXXJEj3AwY)
-- [Can't Make A Sound](https://www.youtube.com/watch?v=QXR3kB0V5Cw)
+- [Cant Make A Sound](https://www.youtube.com/watch?v=QXR3kB0V5Cw)
 - [Stupidity Tries](https://www.youtube.com/watch?v=sTRCJHDVL00)
 
 ## Release Images

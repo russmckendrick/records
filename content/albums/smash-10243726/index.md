@@ -51,24 +51,24 @@ But even in a post-Nirvana marketplace that was more receptive to aggressive sou
 
 
 ## Videos
-### The Offspring - Self Esteem (Official Video)
-{{< youtube id="w-GVMRLeaVs" title="The Offspring - Self Esteem (Official Video)" >}}<br>
+### The Offspring - Self Esteem Official Video
+{{< youtube id="w-GVMRLeaVs" title="The Offspring - Self Esteem Official Video" >}}<br>
 ### More Videos
 
-- [The Offspring - "Come Out And Play"](https://www.youtube.com/watch?v=1jOk8dk-qaU)
-- [Offspring – Smash](https://www.youtube.com/watch?v=FGYRZa5LMk8)
-- [Offspring – Self Esteem](https://www.youtube.com/watch?v=8HbH241bCZE)
-- [Offspring – Time To Relax](https://www.youtube.com/watch?v=UMFkb_AgKkA)
-- [Offspring – Come Out And Play](https://www.youtube.com/watch?v=YWhzv8ZB5V4)
-- [Offspring – So Alone](https://www.youtube.com/watch?v=7juIAX4jiXI)
-- [Offspring – What Happened To You-](https://www.youtube.com/watch?v=HL-BY70vCuY)
-- [Offspring – Not The One](https://www.youtube.com/watch?v=kcrxAgKlwyI)
-- [Offspring – It'll Be A Long Time](https://www.youtube.com/watch?v=Ve4qFME66ho)
-- [Offspring – Something To Believe In](https://www.youtube.com/watch?v=m9IRH0VegmI)
-- [Offspring – Genocide](https://www.youtube.com/watch?v=QIx2URH-iPE)
-- [Offspring – Killboy Powerhead](https://www.youtube.com/watch?v=HUKejtY0H7I)
-- [Offspring – Gotta Get Away](https://www.youtube.com/watch?v=h4m88SQhlIY)
-- [Offspring – Nitro (Youth Energy)](https://www.youtube.com/watch?v=XpjXgpSJlcQ)
+- [The Offspring - Come Out And Play](https://www.youtube.com/watch?v=1jOk8dk-qaU)
+- [Offspring  Smash](https://www.youtube.com/watch?v=FGYRZa5LMk8)
+- [Offspring  Self Esteem](https://www.youtube.com/watch?v=8HbH241bCZE)
+- [Offspring  Time To Relax](https://www.youtube.com/watch?v=UMFkb_AgKkA)
+- [Offspring  Come Out And Play](https://www.youtube.com/watch?v=YWhzv8ZB5V4)
+- [Offspring  So Alone](https://www.youtube.com/watch?v=7juIAX4jiXI)
+- [Offspring  What Happened To You-](https://www.youtube.com/watch?v=HL-BY70vCuY)
+- [Offspring  Not The One](https://www.youtube.com/watch?v=kcrxAgKlwyI)
+- [Offspring  Itll Be A Long Time](https://www.youtube.com/watch?v=Ve4qFME66ho)
+- [Offspring  Something To Believe In](https://www.youtube.com/watch?v=m9IRH0VegmI)
+- [Offspring  Genocide](https://www.youtube.com/watch?v=QIx2URH-iPE)
+- [Offspring  Killboy Powerhead](https://www.youtube.com/watch?v=HUKejtY0H7I)
+- [Offspring  Gotta Get Away](https://www.youtube.com/watch?v=h4m88SQhlIY)
+- [Offspring  Nitro Youth Energy](https://www.youtube.com/watch?v=XpjXgpSJlcQ)
 
 ## Release Images
 {{< imageGrid >}}

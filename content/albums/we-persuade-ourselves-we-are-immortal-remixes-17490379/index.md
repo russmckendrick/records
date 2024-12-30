@@ -41,11 +41,11 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 
 
 ## Videos
-### the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )
-{{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )" >}}<br>
+### the Amorphous Androgynous - We Persuade Ourselves We Are Immortal  A Monstrous Psychedelic Bubble 
+{{< youtube id="DRSO40Cs9ok" title="the Amorphous Androgynous - We Persuade Ourselves We Are Immortal  A Monstrous Psychedelic Bubble " >}}<br>
 ### More Videos
 
-- [the Amorphous Androgynous - We Persuade Ourselves We Are Immortal ( A Monstrous Psychedelic Bubble )](https://www.youtube.com/watch?v=DRSO40Cs9ok)
+- [the Amorphous Androgynous - We Persuade Ourselves We Are Immortal  A Monstrous Psychedelic Bubble ](https://www.youtube.com/watch?v=DRSO40Cs9ok)
 
 ## Release Images
 {{< imageGrid >}}

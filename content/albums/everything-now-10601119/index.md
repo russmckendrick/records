@@ -61,13 +61,13 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 
 
 ## Videos
-### Arcade Fire - Everything Now (Official Video)
-{{< youtube id="zC30BYR3CUk" title="Arcade Fire - Everything Now (Official Video)" >}}<br>
+### Arcade Fire - Everything Now Official Video
+{{< youtube id="zC30BYR3CUk" title="Arcade Fire - Everything Now Official Video" >}}<br>
 ### More Videos
 
-- [Arcade Fire - Signs of Life (Official Video)](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
-- [Arcade Fire - Electric Blue (Official Video)](https://www.youtube.com/watch?v=UymXRxJPOQo)
-- [Arcade Fire - Creature Comfort (Official Video)](https://www.youtube.com/watch?v=xzwicesJQ7E)
+- [Arcade Fire - Signs of Life Official Video](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
+- [Arcade Fire - Electric Blue Official Video](https://www.youtube.com/watch?v=UymXRxJPOQo)
+- [Arcade Fire - Creature Comfort Official Video](https://www.youtube.com/watch?v=xzwicesJQ7E)
 
 ## Release Images
 {{< imageGrid >}}

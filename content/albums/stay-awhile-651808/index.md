@@ -44,8 +44,8 @@ styles: ["Soul-Jazz", "Soul"]
 
 
 ## Videos
-### You Don't Own Me
-{{< youtube id="nAQKgOmUk-U" title="You Don't Own Me" >}}<br>
+### You Dont Own Me
+{{< youtube id="nAQKgOmUk-U" title="You Dont Own Me" >}}<br>
 ### More Videos
 
 - [I Only Want To Be With You](https://www.youtube.com/watch?v=6opirWRSj4c)

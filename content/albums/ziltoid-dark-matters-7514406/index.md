@@ -49,11 +49,11 @@ styles: []
 
 
 ## Videos
-### DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)
-{{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}<br>
+### DEVIN TOWNSEND PROJECT - Deathray Lyric Video
+{{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray Lyric Video" >}}<br>
 ### More Videos
 
-- [DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)](https://www.youtube.com/watch?v=1DJrnr3cnro)
+- [DEVIN TOWNSEND PROJECT - Deathray Lyric Video](https://www.youtube.com/watch?v=1DJrnr3cnro)
 
 ## Release Images
 {{< imageGrid >}}

@@ -59,15 +59,15 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### How Could I Be Such A Fool?
-{{< youtube id="UCtGdC_VoUc" title="How Could I Be Such A Fool?" >}}<br>
+### How Could I Be Such A Fool
+{{< youtube id="UCtGdC_VoUc" title="How Could I Be Such A Fool" >}}<br>
 ### More Videos
 
-- [The Duke - Take 1 (Live At Whisky a Go Go/1968)](https://www.youtube.com/watch?v=RAUENXcBlqU)
-- [Envelopes (1983 Original Vinyl Mix)](https://www.youtube.com/watch?v=01DcGVvtKkI)
-- [How Could I Be Such A Fool?](https://www.youtube.com/watch?v=UCtGdC_VoUc)
-- [The Duke - Take 1 (Live At Whisky a Go Go/1968)](https://www.youtube.com/watch?v=RAUENXcBlqU)
-- [Envelopes (1983 Original Vinyl Mix)](https://www.youtube.com/watch?v=01DcGVvtKkI)
+- [The Duke - Take 1 Live At Whisky a Go Go1968](https://www.youtube.com/watch?v=RAUENXcBlqU)
+- [Envelopes 1983 Original Vinyl Mix](https://www.youtube.com/watch?v=01DcGVvtKkI)
+- [How Could I Be Such A Fool](https://www.youtube.com/watch?v=UCtGdC_VoUc)
+- [The Duke - Take 1 Live At Whisky a Go Go1968](https://www.youtube.com/watch?v=RAUENXcBlqU)
+- [Envelopes 1983 Original Vinyl Mix](https://www.youtube.com/watch?v=01DcGVvtKkI)
 
 ## Release Images
 {{< imageGrid >}}

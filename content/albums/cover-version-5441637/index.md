@@ -55,19 +55,19 @@ Cover Version is a compilation album released in 2014 by British musician and re
 
 
 ## Videos
-### Steven Wilson - A Forest (The Cure cover)
-{{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest (The Cure cover)" >}}<br>
+### Steven Wilson - A Forest The Cure cover
+{{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest The Cure cover" >}}<br>
 ### More Videos
 
-- [Steven Wilson - A Forest (The Cure cover)](https://www.youtube.com/watch?v=dqzX26jkM-g)
-- [Steven Wilson - The Day Before You Came (ABBA Cover from Cover Version)](https://www.youtube.com/watch?v=qcj1gOGNrhc)
-- [Steven Wilson Cover Versions IV.wmv](https://www.youtube.com/watch?v=iuwzIU2wVxU)
+- [Steven Wilson - A Forest The Cure cover](https://www.youtube.com/watch?v=dqzX26jkM-g)
+- [Steven Wilson - The Day Before You Came ABBA Cover from Cover Version](https://www.youtube.com/watch?v=qcj1gOGNrhc)
+- [Steven Wilson Cover Versions IVwmv](https://www.youtube.com/watch?v=iuwzIU2wVxU)
 - [Steven Wilson-Cover version VI](https://www.youtube.com/watch?v=Gtx-TQzDzy8)
 - [Steven Wilson - Cover Version III](https://www.youtube.com/watch?v=Ord7eGkWxVc)
-- [Steven Wilson-The Unquiet Grave (HQ 1080p)](https://www.youtube.com/watch?v=Eaw4Ndj1QAo)
-- [Please Come Home ~ Steven Wilson](https://www.youtube.com/watch?v=iNI1T4BR1Nk)
-- [Steven Wilson - Well You're Wrong/Cover Version V](https://www.youtube.com/watch?v=QwA0xgk-VVg)
-- [Steven Wilson - An End To An End/Cover Version VI](https://www.youtube.com/watch?v=_eVMIDd8NqE)
+- [Steven Wilson-The Unquiet Grave HQ 1080p](https://www.youtube.com/watch?v=Eaw4Ndj1QAo)
+- [Please Come Home  Steven Wilson](https://www.youtube.com/watch?v=iNI1T4BR1Nk)
+- [Steven Wilson - Well Youre WrongCover Version V](https://www.youtube.com/watch?v=QwA0xgk-VVg)
+- [Steven Wilson - An End To An EndCover Version VI](https://www.youtube.com/watch?v=_eVMIDd8NqE)
 - [Steven Wilson- Four Trees Down](https://www.youtube.com/watch?v=3mR8xXy8GFs)
 
 ## Release Images

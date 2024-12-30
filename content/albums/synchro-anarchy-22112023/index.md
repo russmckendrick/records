@@ -44,12 +44,12 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 
 
 ## Videos
-### Voïvod ‎– Synchro Anarchy (Full Album  2022)
-{{< youtube id="HL3-3Fte7Ss" title="Voïvod ‎– Synchro Anarchy (Full Album  2022)" >}}<br>
+### Voïvod  Synchro Anarchy Full Album  2022
+{{< youtube id="HL3-3Fte7Ss" title="Voïvod  Synchro Anarchy Full Album  2022" >}}<br>
 ### More Videos
 
-- [VOIVOD - Synchro Anarchy (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=hryt9k8Zql8)
-- [VOIVOD - Planet Eaters (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=lvHjNcjMqvU)
+- [VOIVOD - Synchro Anarchy OFFICIAL VIDEO](https://www.youtube.com/watch?v=hryt9k8Zql8)
+- [VOIVOD - Planet Eaters OFFICIAL VIDEO](https://www.youtube.com/watch?v=lvHjNcjMqvU)
 
 ## Release Images
 {{< imageGrid >}}

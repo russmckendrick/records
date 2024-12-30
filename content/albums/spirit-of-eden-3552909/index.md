@@ -55,15 +55,15 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 
 ## Videos
-### The Rainbow (1997 Remaster)
-{{< youtube id="AFQETve1wS0" title="The Rainbow (1997 Remaster)" >}}<br>
+### The Rainbow 1997 Remaster
+{{< youtube id="AFQETve1wS0" title="The Rainbow 1997 Remaster" >}}<br>
 ### More Videos
 
-- [Desire (1997 Remaster)](https://www.youtube.com/watch?v=tfnmMl3WmBo)
-- [Eden (1997 Remaster)](https://www.youtube.com/watch?v=yVQlFEynONQ)
-- [I Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=3EBTk5brQVY)
-- [Inheritance (1997 Remaster)](https://www.youtube.com/watch?v=_-J_pnpZDss)
-- [Wealth (1997 Remaster)](https://www.youtube.com/watch?v=9-UKgrd2E6Y)
+- [Desire 1997 Remaster](https://www.youtube.com/watch?v=tfnmMl3WmBo)
+- [Eden 1997 Remaster](https://www.youtube.com/watch?v=yVQlFEynONQ)
+- [I Believe in You 1997 Remaster](https://www.youtube.com/watch?v=3EBTk5brQVY)
+- [Inheritance 1997 Remaster](https://www.youtube.com/watch?v=_-J_pnpZDss)
+- [Wealth 1997 Remaster](https://www.youtube.com/watch?v=9-UKgrd2E6Y)
 
 ## Release Images
 {{< imageGrid >}}

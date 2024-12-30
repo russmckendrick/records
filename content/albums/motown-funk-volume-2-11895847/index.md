@@ -48,20 +48,20 @@ styles: ["Funk", "Soul"]
 
 
 ## Videos
-### Bottom & Company - Gonna Find A True Love
-{{< youtube id="_MYJV-4rTpI" title="Bottom & Company - Gonna Find A True Love" >}}<br>
+### Bottom  Company - Gonna Find A True Love
+{{< youtube id="_MYJV-4rTpI" title="Bottom  Company - Gonna Find A True Love" >}}<br>
 ### More Videos
 
-- [Keep On Truckin'](https://www.youtube.com/watch?v=wp_FlThJBSE)
+- [Keep On Truckin](https://www.youtube.com/watch?v=wp_FlThJBSE)
 - [Commodores -  Machine Gun](https://www.youtube.com/watch?v=ho_Od3o9OLg)
-- [Earl Van Dyke - "Thank You (Falettinme Be Mice Elf Agin)"](https://www.youtube.com/watch?v=tsqa9YEjSro)
-- [Stevie Wonder - Every Time I See You I Go Wild (1967)](https://www.youtube.com/watch?v=gZsMrmLaoI0)
-- [Rare Earth - I Know I'm Losing You (full version)](https://www.youtube.com/watch?v=F28X8--2dFU)
-- [The Jerry Ross Symposium - It's The Same Old Love](https://www.youtube.com/watch?v=dPeuCmVutSA)
+- [Earl Van Dyke - Thank You Falettinme Be Mice Elf Agin](https://www.youtube.com/watch?v=tsqa9YEjSro)
+- [Stevie Wonder - Every Time I See You I Go Wild 1967](https://www.youtube.com/watch?v=gZsMrmLaoI0)
+- [Rare Earth - I Know Im Losing You full version](https://www.youtube.com/watch?v=F28X8--2dFU)
+- [The Jerry Ross Symposium - Its The Same Old Love](https://www.youtube.com/watch?v=dPeuCmVutSA)
 - [Behold](https://www.youtube.com/watch?v=_HDSLNjkdaw)
-- [Closing Jimmy's (Trouble Man Original Film Score)](https://www.youtube.com/watch?v=PmMqjN4OTiQ)
-- [Grover Washington, Jr.  Mister Magic](https://www.youtube.com/watch?v=2Jvdy6khEmA)
-- [Undisputed Truth-U.F.O's](https://www.youtube.com/watch?v=m_VoWIUnCbo)
+- [Closing Jimmys Trouble Man Original Film Score](https://www.youtube.com/watch?v=PmMqjN4OTiQ)
+- [Grover Washington Jr  Mister Magic](https://www.youtube.com/watch?v=2Jvdy6khEmA)
+- [Undisputed Truth-UFOs](https://www.youtube.com/watch?v=m_VoWIUnCbo)
 - [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
 ## Release Images

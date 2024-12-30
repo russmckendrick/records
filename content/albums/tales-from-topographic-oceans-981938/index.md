@@ -46,19 +46,19 @@ Tales from Topographic Oceans received mixed reviews upon release and became a s
 
 
 ## Videos
-### The Revealing Science of God (Dance of the Dawn)
-{{< youtube id="ap4AjA5OiU4" title="The Revealing Science of God (Dance of the Dawn)" >}}<br>
+### The Revealing Science of God Dance of the Dawn
+{{< youtube id="ap4AjA5OiU4" title="The Revealing Science of God Dance of the Dawn" >}}<br>
 ### More Videos
 
-- [The Remembering / High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
-- [The Ancient / Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
-- [Ritual (Nous Sommes du Soleil)](https://www.youtube.com/watch?v=xQaYwTRLdCM)
-- [Yes - Tales from Topographic Oceans (Full Album) 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
-- [The Revealing Science of God (Dance of the Dawn)](https://www.youtube.com/watch?v=ap4AjA5OiU4)
-- [The Remembering / High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
-- [The Ancient / Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
-- [Ritual (Nous Sommes du Soleil)](https://www.youtube.com/watch?v=xQaYwTRLdCM)
-- [Yes - Tales from Topographic Oceans (Full Album) 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
+- [The Remembering  High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
+- [The Ancient  Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
+- [Ritual Nous Sommes du Soleil](https://www.youtube.com/watch?v=xQaYwTRLdCM)
+- [Yes - Tales from Topographic Oceans Full Album 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
+- [The Revealing Science of God Dance of the Dawn](https://www.youtube.com/watch?v=ap4AjA5OiU4)
+- [The Remembering  High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
+- [The Ancient  Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
+- [Ritual Nous Sommes du Soleil](https://www.youtube.com/watch?v=xQaYwTRLdCM)
+- [Yes - Tales from Topographic Oceans Full Album 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
 
 ## Release Images
 {{< imageGrid >}}

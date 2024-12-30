@@ -58,26 +58,26 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 
 
 ## Videos
-### De La Soul - Intro (Official Audio)
-{{< youtube id="B_Q9bpUvFf8" title="De La Soul - Intro (Official Audio)" >}}<br>
+### De La Soul - Intro Official Audio
+{{< youtube id="B_Q9bpUvFf8" title="De La Soul - Intro Official Audio" >}}<br>
 ### More Videos
 
-- [De La Soul - Supa Emcees (Official Visualizer)](https://www.youtube.com/watch?v=onlmVkaKbwM)
-- [De La Soul - The Bizness (Official Audio) ft. Common](https://www.youtube.com/watch?v=zkYAluAbjxM)
-- [De La Soul - Wonce Again Long Island (Official Audio)](https://www.youtube.com/watch?v=RnLDwWfaoKQ)
-- [De La Soul - Dinninit (Official Audio)](https://www.youtube.com/watch?v=9moctD1nqSI)
-- [De La Soul - Brakes (Official Audio)](https://www.youtube.com/watch?v=9k5Hmr1mc4Q)
-- [De La Soul - Dog Eat Dog (Official Audio)](https://www.youtube.com/watch?v=_kS2HM7mCyg)
-- [De La Soul - Baby, Baby, Baby, Baby, Ooh Baby (Official Audio) ft. Jazzyfatnastees](https://www.youtube.com/watch?v=X-jzZuxBWCs)
-- [De La Soul - Long Island Degrees (Official Audio)](https://www.youtube.com/watch?v=Rsnp1XseC7c)
-- [De La Soul - Betta Listen (Official Audio)](https://www.youtube.com/watch?v=D27NApwLm6U)
-- [De La Soul - Big Brother Beat (Official Audio) ft. Mos Def](https://www.youtube.com/watch?v=4bxNVOyKqy0)
-- [De La Soul - Pony Ride (Official Audio) ft. Truth Enola](https://www.youtube.com/watch?v=yHPPSqR935w)
-- [De La Soul - Stakes Is High (Official Audio)](https://www.youtube.com/watch?v=BhJCMKXzGv8)
-- [De La Soul - Sunshine (Official Audio)](https://www.youtube.com/watch?v=3JtRtfcKF-Q)
-- [De La Soul - Stakes Is High (Official Music Video) [HD]](https://www.youtube.com/watch?v=radJQyaC5kY)
-- [De La Soul - Stakes is High | Full Album [1996]](https://www.youtube.com/watch?v=P6fng8uHtBw)
-- [De La Soul - Down Syndrome (Official Audio)](https://www.youtube.com/watch?v=Hp4l9jTYwjM)
+- [De La Soul - Supa Emcees Official Visualizer](https://www.youtube.com/watch?v=onlmVkaKbwM)
+- [De La Soul - The Bizness Official Audio ft Common](https://www.youtube.com/watch?v=zkYAluAbjxM)
+- [De La Soul - Wonce Again Long Island Official Audio](https://www.youtube.com/watch?v=RnLDwWfaoKQ)
+- [De La Soul - Dinninit Official Audio](https://www.youtube.com/watch?v=9moctD1nqSI)
+- [De La Soul - Brakes Official Audio](https://www.youtube.com/watch?v=9k5Hmr1mc4Q)
+- [De La Soul - Dog Eat Dog Official Audio](https://www.youtube.com/watch?v=_kS2HM7mCyg)
+- [De La Soul - Baby Baby Baby Baby Ooh Baby Official Audio ft Jazzyfatnastees](https://www.youtube.com/watch?v=X-jzZuxBWCs)
+- [De La Soul - Long Island Degrees Official Audio](https://www.youtube.com/watch?v=Rsnp1XseC7c)
+- [De La Soul - Betta Listen Official Audio](https://www.youtube.com/watch?v=D27NApwLm6U)
+- [De La Soul - Big Brother Beat Official Audio ft Mos Def](https://www.youtube.com/watch?v=4bxNVOyKqy0)
+- [De La Soul - Pony Ride Official Audio ft Truth Enola](https://www.youtube.com/watch?v=yHPPSqR935w)
+- [De La Soul - Stakes Is High Official Audio](https://www.youtube.com/watch?v=BhJCMKXzGv8)
+- [De La Soul - Sunshine Official Audio](https://www.youtube.com/watch?v=3JtRtfcKF-Q)
+- [De La Soul - Stakes Is High Official Music Video HD](https://www.youtube.com/watch?v=radJQyaC5kY)
+- [De La Soul - Stakes is High  Full Album 1996](https://www.youtube.com/watch?v=P6fng8uHtBw)
+- [De La Soul - Down Syndrome Official Audio](https://www.youtube.com/watch?v=Hp4l9jTYwjM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,16 +40,16 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 
 
 ## Videos
-### Church of the Cosmic Skull - Mountain Heart (Official Audio)
-{{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart (Official Audio)" >}}<br>
+### Church of the Cosmic Skull - Mountain Heart Official Audio
+{{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart Official Audio" >}}<br>
 ### More Videos
 
-- [Church of the Cosmic Skull - Black Slug (Official Video)](https://www.youtube.com/watch?v=xCQCLe40avs)
-- [Church of the Cosmic Skull - Movements in the Sky (Official Audio)](https://www.youtube.com/watch?v=6gLGnncwnYc)
-- [Church of the Cosmic Skull - Answers in your Soul (Official Audio)](https://www.youtube.com/watch?v=kLQ0yAkmbis)
-- [Church of the Cosmic Skull - Is Satan Real? (Official Audio)](https://www.youtube.com/watch?v=kSrj2qMDiJ4)
-- [Church of the Cosmic Skull - Watch it Grow (Official Audio)](https://www.youtube.com/watch?v=S_87QEtsXYA)
-- [Church of the Cosmic Skull - Evil in your Eye (Official Audio)](https://www.youtube.com/watch?v=f5_w2ovow84)
+- [Church of the Cosmic Skull - Black Slug Official Video](https://www.youtube.com/watch?v=xCQCLe40avs)
+- [Church of the Cosmic Skull - Movements in the Sky Official Audio](https://www.youtube.com/watch?v=6gLGnncwnYc)
+- [Church of the Cosmic Skull - Answers in your Soul Official Audio](https://www.youtube.com/watch?v=kLQ0yAkmbis)
+- [Church of the Cosmic Skull - Is Satan Real Official Audio](https://www.youtube.com/watch?v=kSrj2qMDiJ4)
+- [Church of the Cosmic Skull - Watch it Grow Official Audio](https://www.youtube.com/watch?v=S_87QEtsXYA)
+- [Church of the Cosmic Skull - Evil in your Eye Official Audio](https://www.youtube.com/watch?v=f5_w2ovow84)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,13 +50,13 @@ No One Is Lost is the seventh studio album by Canadian indie pop band Stars, rel
 
 
 ## Videos
-### Stars - No One Is Lost (Official Video)
-{{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost (Official Video)" >}}<br>
+### Stars - No One Is Lost Official Video
+{{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost Official Video" >}}<br>
 ### More Videos
 
-- [Stars - From The Night (Official Video)](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
-- [Stars - No One Is Lost (Official Video)](https://www.youtube.com/watch?v=PehLcp7sNi0)
-- [Stars - From The Night (Official Video)](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
+- [Stars - From The Night Official Video](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
+- [Stars - No One Is Lost Official Video](https://www.youtube.com/watch?v=PehLcp7sNi0)
+- [Stars - From The Night Official Video](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
 
 ## Release Images
 {{< imageGrid >}}

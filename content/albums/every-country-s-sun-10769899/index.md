@@ -95,11 +95,11 @@ Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai.
 
 
 ## Videos
-### Every Country's Sun
-{{< youtube id="9ubqJl36KFU" title="Every Country's Sun" >}}<br>
+### Every Countrys Sun
+{{< youtube id="9ubqJl36KFU" title="Every Countrys Sun" >}}<br>
 ### More Videos
 
-- [Mogwai - Every Country's Sun](https://www.youtube.com/watch?v=VEvhlzQff2s)
+- [Mogwai - Every Countrys Sun](https://www.youtube.com/watch?v=VEvhlzQff2s)
 
 ## Release Images
 {{< imageGrid >}}

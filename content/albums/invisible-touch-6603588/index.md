@@ -47,8 +47,8 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 
 
 ## Videos
-### Genesis - Invisible Touch (Official Music Video)
-{{< youtube id="epOBenUjIHw" title="Genesis - Invisible Touch (Official Music Video)" >}}<br>
+### Genesis - Invisible Touch Official Music Video
+{{< youtube id="epOBenUjIHw" title="Genesis - Invisible Touch Official Music Video" >}}<br>
 
 
 ## Release Images

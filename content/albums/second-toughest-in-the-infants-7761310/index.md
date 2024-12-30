@@ -51,14 +51,14 @@ The album was remastered and re-released on 20 November 2015 with deluxe and sup
 
 
 ## Videos
-### Underworld - Juanita/Kiteless/To Dream of Love
-{{< youtube id="0oYoRg6Ws9U" title="Underworld - Juanita/Kiteless/To Dream of Love" >}}<br>
+### Underworld - JuanitaKitelessTo Dream of Love
+{{< youtube id="0oYoRg6Ws9U" title="Underworld - JuanitaKitelessTo Dream of Love" >}}<br>
 ### More Videos
 
 - [Underworld - Rowla](https://www.youtube.com/watch?v=QpfB7LRfEKo)
-- [Underworld - Banstyle / Sappy's Curry](https://www.youtube.com/watch?v=H5TVBIlyObw)
+- [Underworld - Banstyle  Sappys Curry](https://www.youtube.com/watch?v=H5TVBIlyObw)
 - [Underworld - Confusion the Waitress](https://www.youtube.com/watch?v=Pls01adPSps)
-- [Underworld - Pearl's Girl](https://www.youtube.com/watch?v=jgdTrkwEVf4)
+- [Underworld - Pearls Girl](https://www.youtube.com/watch?v=jgdTrkwEVf4)
 - [Underworld - Air Towel](https://www.youtube.com/watch?v=cvTL1mIA3Bw)
 - [Underworld - Blueski](https://www.youtube.com/watch?v=WCvorya4Q1s)
 - [Underworld - Stagger](https://www.youtube.com/watch?v=ctSqwx7mXoQ)

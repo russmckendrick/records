@@ -46,8 +46,8 @@ An Hour Before It's Dark is the 20th studio album by British neo-prog band Maril
 
 
 ## Videos
-### Ma͟r͟i͟l͟l͟i͟o͟n͟ - An H͟o͟u͟r͟ Be͟f͟o͟r͟e͟ ͟It’s Da͟r͟k͟ ͟(Full Album 2022)
-{{< youtube id="SeYoiPF0RZk" title="Ma͟r͟i͟l͟l͟i͟o͟n͟ - An H͟o͟u͟r͟ Be͟f͟o͟r͟e͟ ͟It’s Da͟r͟k͟ ͟(Full Album 2022)" >}}<br>
+### Marillion - An Hour Before Its Dark Full Album 2022
+{{< youtube id="SeYoiPF0RZk" title="Marillion - An Hour Before Its Dark Full Album 2022" >}}<br>
 
 
 ## Release Images

@@ -59,14 +59,14 @@ At the 1998 Brit Awards, the Verve won Best Album for Urban Hymns and Best Produ
 
 
 ## Videos
-### T̲he V̲e̲rve - Urban Hymns (Full Album)
-{{< youtube id="AWUD05jzL5o" title="T̲he V̲e̲rve - Urban Hymns (Full Album)" >}}<br>
+### The Verve - Urban Hymns Full Album
+{{< youtube id="AWUD05jzL5o" title="The Verve - Urban Hymns Full Album" >}}<br>
 ### More Videos
 
-- [The Verve - Bitter Sweet Symphony (Official Music Video)](https://www.youtube.com/watch?v=1lyu1KKwC74)
-- [The Verve - The Drugs Don't Work](https://www.youtube.com/watch?v=ToQ0n3itoII)
-- [The Verve - Lucky Man (Official Music Video)](https://www.youtube.com/watch?v=MH6TJU0qWoY)
-- [The Verve - Sonnet (Official Video)](https://www.youtube.com/watch?v=r2vGa-yLiso)
+- [The Verve - Bitter Sweet Symphony Official Music Video](https://www.youtube.com/watch?v=1lyu1KKwC74)
+- [The Verve - The Drugs Dont Work](https://www.youtube.com/watch?v=ToQ0n3itoII)
+- [The Verve - Lucky Man Official Music Video](https://www.youtube.com/watch?v=MH6TJU0qWoY)
+- [The Verve - Sonnet Official Video](https://www.youtube.com/watch?v=r2vGa-yLiso)
 
 ## Release Images
 {{< imageGrid >}}

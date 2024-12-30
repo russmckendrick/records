@@ -58,16 +58,16 @@ International releases of the album include a slightly different position of the
 
 
 ## Videos
-### Just the Same (2012 Remaster)
-{{< youtube id="cr70zm9mI98" title="Just the Same (2012 Remaster)" >}}<br>
+### Just the Same 2012 Remaster
+{{< youtube id="cr70zm9mI98" title="Just the Same 2012 Remaster" >}}<br>
 ### More Videos
 
-- [On Reflection (2012 Remaster)](https://www.youtube.com/watch?v=jEK_Gg04FyA)
-- [Free Hand (2012 Remaster)](https://www.youtube.com/watch?v=fjdVjgY043w)
-- [Time to Kill (2012 Remaster)](https://www.youtube.com/watch?v=5YUfV6s9Me8)
-- [His Last Voyage (2012 Remaster)](https://www.youtube.com/watch?v=5nR_vGye7tk)
-- [Talybont (2012 Remaster)](https://www.youtube.com/watch?v=wt8-qBqS6S8)
-- [Mobile (2012 Remaster)](https://www.youtube.com/watch?v=O1-MUd0hGRE)
+- [On Reflection 2012 Remaster](https://www.youtube.com/watch?v=jEK_Gg04FyA)
+- [Free Hand 2012 Remaster](https://www.youtube.com/watch?v=fjdVjgY043w)
+- [Time to Kill 2012 Remaster](https://www.youtube.com/watch?v=5YUfV6s9Me8)
+- [His Last Voyage 2012 Remaster](https://www.youtube.com/watch?v=5nR_vGye7tk)
+- [Talybont 2012 Remaster](https://www.youtube.com/watch?v=wt8-qBqS6S8)
+- [Mobile 2012 Remaster](https://www.youtube.com/watch?v=O1-MUd0hGRE)
 
 ## Release Images
 {{< imageGrid >}}

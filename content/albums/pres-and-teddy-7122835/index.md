@@ -41,15 +41,15 @@ The album includes six standard swing jazz songs with one original composition, 
 
 
 ## Videos
-### Lester Young & Teddy Wilson.   Pres and Teddy
-{{< youtube id="tDesCGeGLL4" title="Lester Young & Teddy Wilson.   Pres and Teddy" >}}<br>
+### Lester Young  Teddy Wilson   Pres and Teddy
+{{< youtube id="tDesCGeGLL4" title="Lester Young  Teddy Wilson   Pres and Teddy" >}}<br>
 ### More Videos
 
 - [All Of Me](https://www.youtube.com/watch?v=cH77OyCq7PU)
 - [Prisoner of love - The Lester Young and Teddy Wilson Quartet](https://www.youtube.com/watch?v=i0-gOlp56Ok)
-- [Lester Young & Teddy Wilson Quartet_Louise](https://www.youtube.com/watch?v=NYc_X29JAdM)
-- [The Lester Young / Teddy Wilson Quartet  - Pres Returns](https://www.youtube.com/watch?v=lvBjc-nBBBI)
-- [Lester Young-Teddy Wilson Quartet / Love Me or Leave Me](https://www.youtube.com/watch?v=5GvTHaawtHg)
+- [Lester Young  Teddy Wilson Quartet_Louise](https://www.youtube.com/watch?v=NYc_X29JAdM)
+- [The Lester Young  Teddy Wilson Quartet  - Pres Returns](https://www.youtube.com/watch?v=lvBjc-nBBBI)
+- [Lester Young-Teddy Wilson Quartet  Love Me or Leave Me](https://www.youtube.com/watch?v=5GvTHaawtHg)
 - [Prisoner Of Love](https://www.youtube.com/watch?v=yJb-03xp2ZU)
 - [Lester Young - Our Love Is Here to Stay](https://www.youtube.com/watch?v=xWoGC0SFWzo)
 

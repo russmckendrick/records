@@ -53,8 +53,8 @@ Three songs were taken from each of the first five studio albums and one song wa
 
 
 ## Videos
-### Carnival Of Sorts (Boxcars)
-{{< youtube id="I2ldtKJbNQQ" title="Carnival Of Sorts (Boxcars)" >}}<br>
+### Carnival Of Sorts Boxcars
+{{< youtube id="I2ldtKJbNQQ" title="Carnival Of Sorts Boxcars" >}}<br>
 
 
 ## Release Images

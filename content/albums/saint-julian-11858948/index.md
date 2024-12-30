@@ -43,13 +43,13 @@ Saint Julian is the third solo album by Julian Cope. It has a very strong pop so
 {{< youtube id="2UJbz-pp6GQ" title="Julian Cope - World shut your mouth" >}}<br>
 ### More Videos
 
-- ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
+- [Saint Julian Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
 - [Julian Cope -  A Crack In The Clouds](https://www.youtube.com/watch?v=jQHxcafCFu8)
 - [Julian Cope - Saint Julian](https://www.youtube.com/watch?v=LWESpsMNv_E)
 - [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
-- [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
+- [Julian Cope_ Spacehopper Annexe](https://www.youtube.com/watch?v=oZDZd7HJCAw)
 - [Trampolene](https://www.youtube.com/watch?v=nSiA4Hm7gPc)
-- ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
+- [Saint Julian Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
 - [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
 
 ## Release Images

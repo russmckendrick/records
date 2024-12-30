@@ -54,7 +54,7 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 - [Oh Love - Voice of the Beehive](https://www.youtube.com/watch?v=UEkn5nRs1l4)
 - [Trust Me - Voice of the Beehive](https://www.youtube.com/watch?v=lIbsSyGNtn8)
 - [Theres a Barbarian in the Back of My Car - Voice of the Beehive](https://www.youtube.com/watch?v=5ppXJwH0jIs)
-- [Voice of the Beehive - Don't Call Me Baby (version 1)](https://www.youtube.com/watch?v=quD5B-la-ug)
+- [Voice of the Beehive - Dont Call Me Baby version 1](https://www.youtube.com/watch?v=quD5B-la-ug)
 - [Voice Of The Beehive - Beat Of Love](https://www.youtube.com/watch?v=HK6IBM3BWlU)
 - [Voice Of The Beehive - I Say Nothing](https://www.youtube.com/watch?v=Vw8SpzqaI0I)
 - [Voice Of The Beehive - Man In The Moon](https://www.youtube.com/watch?v=tktgY5gIQZE)

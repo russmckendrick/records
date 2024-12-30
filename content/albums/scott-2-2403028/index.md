@@ -60,7 +60,7 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 - [Scott Walker - The Girls from the Street](https://www.youtube.com/watch?v=Jj_C6Rv0HV0)
 - [The Girls And The Dogs](https://www.youtube.com/watch?v=8p70xFGQTOs)
 - [Plastic Palace People](https://www.youtube.com/watch?v=fqmrCixYLWU)
-- [Scott Walker (The Walker Brothers) ~ The Windows of The World](https://www.youtube.com/watch?v=oywI42UcxY4)
+- [Scott Walker The Walker Brothers  The Windows of The World](https://www.youtube.com/watch?v=oywI42UcxY4)
 - [Scott Walker - Come Next Spring](https://www.youtube.com/watch?v=LWy7dJU-7RE)
 - [Scott Walker   Next](https://www.youtube.com/watch?v=gR3W6vmgg_I)
 - [SCOTT WALKER - BEST OF BOTH WORLDS](https://www.youtube.com/watch?v=q722DbdXg2M)

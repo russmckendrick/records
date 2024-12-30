@@ -37,8 +37,8 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 
 ## Videos
-### MOONPARTICLE  - Michelangelo Don't Stop (2018).
-{{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Don't Stop (2018)." >}}<br>
+### MOONPARTICLE  - Michelangelo Dont Stop 2018
+{{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Dont Stop 2018" >}}<br>
 
 
 ## Release Images

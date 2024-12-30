@@ -46,8 +46,8 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 
 
 ## Videos
-### Faith No More - We Care a Lot (Official Music Video) [4K]
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video) [4K]" >}}<br>
+### Faith No More - We Care a Lot Official Music Video 4K
+{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot Official Music Video 4K" >}}<br>
 ### More Videos
 
 - [We Care a Lot](https://www.youtube.com/watch?v=9L3M2WC5LPA)
@@ -59,7 +59,7 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 - [As the Worm Turns](https://www.youtube.com/watch?v=nEMpXWVibFs)
 - [Arabian Disco by Faith No More](https://www.youtube.com/watch?v=RfSPBZ2D-hQ)
 - [New Beginnings](https://www.youtube.com/watch?v=QuGYPgijH7Y)
-- [Faith No More - "The Jungle" Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
+- [Faith No More - The Jungle Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,13 +54,13 @@ The front cover features a composite image of all the band members' faces. Pleas
 
 
 ## Videos
-### James - Getting Away With It (Live) (TOTP 2001)
-{{< youtube id="F4upGHpRyXY" title="James - Getting Away With It (Live) (TOTP 2001)" >}}<br>
+### James - Getting Away With It Live TOTP 2001
+{{< youtube id="F4upGHpRyXY" title="James - Getting Away With It Live TOTP 2001" >}}<br>
 ### More Videos
 
-- [James - Space (with lyrics)](https://www.youtube.com/watch?v=_wqdCKr5T5k)
-- [James - Falling Down (Later with Jools Holland 2001)](https://www.youtube.com/watch?v=4qnc93RdAqQ)
-- [James - Falling Down (Live VH1 Will Wanted 2001) [RARE!!]](https://www.youtube.com/watch?v=wAtjCVcc3pk)
+- [James - Space with lyrics](https://www.youtube.com/watch?v=_wqdCKr5T5k)
+- [James - Falling Down Later with Jools Holland 2001](https://www.youtube.com/watch?v=4qnc93RdAqQ)
+- [James - Falling Down Live VH1 Will Wanted 2001 RARE](https://www.youtube.com/watch?v=wAtjCVcc3pk)
 
 ## Release Images
 {{< imageGrid >}}

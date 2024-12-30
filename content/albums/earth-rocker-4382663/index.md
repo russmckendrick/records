@@ -48,8 +48,8 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 
 
 ## Videos
-### Clutch - Earth Rocker  (Album Stream)
-{{< youtube id="AhGqABVdguo" title="Clutch - Earth Rocker  (Album Stream)" >}}<br>
+### Clutch - Earth Rocker  Album Stream
+{{< youtube id="AhGqABVdguo" title="Clutch - Earth Rocker  Album Stream" >}}<br>
 ### More Videos
 
 - [Clutch - Earth Rocker Full Album](https://www.youtube.com/watch?v=YrfZdv4PEXI)

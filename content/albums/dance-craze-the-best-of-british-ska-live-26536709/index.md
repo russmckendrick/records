@@ -82,19 +82,19 @@ styles: ["Ska", "Soundtrack"]
 
 
 ## Videos
-### DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)
-{{< youtube id="Tr5kO4-yKoM" title="DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)" >}}<br>
+### DANCE CRAZE THE ALBUM  CD  CASSETTE VERSIONS LIVE
+{{< youtube id="Tr5kO4-yKoM" title="DANCE CRAZE THE ALBUM  CD  CASSETTE VERSIONS LIVE" >}}<br>
 ### More Videos
 
 - [Dance Craze The best of British Ska live full album vinyl](https://www.youtube.com/watch?v=kBTowqTVkAk)
-- [DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)](https://www.youtube.com/watch?v=Tr5kO4-yKoM)
-- [The Specials "Concrete Jungle" from 'Dance Craze'](https://www.youtube.com/watch?v=g8qh63nu1OQ)
-- [MADNESS - SWAN LAKE AND RAZORBLADE ALLEY (DANCE CRAZE)](https://www.youtube.com/watch?v=nU1EV0WvwzM)
-- [Dance Craze - Documentary 1981 (Part 1)](https://www.youtube.com/watch?v=Amo1MNw7c1k)
-- [Dance Craze - Documentary 1981 (Part 2)](https://www.youtube.com/watch?v=62k2AKhy-ms)
-- [Dance Craze - Documentary 1981 (Part 7)](https://www.youtube.com/watch?v=tKhGB6Ih5oc)
-- [The Specials - Concrete Jungle (Live at Rotters Club, Liverpool 14/10/80)](https://www.youtube.com/watch?v=xKBiij0A3ig)
-- [Three Minute Hero (Live at The Pavillion, Hemel Hempstead 22/3/80)](https://www.youtube.com/watch?v=Le0OoKpih8c)
+- [DANCE CRAZE THE ALBUM  CD  CASSETTE VERSIONS LIVE](https://www.youtube.com/watch?v=Tr5kO4-yKoM)
+- [The Specials Concrete Jungle from Dance Craze](https://www.youtube.com/watch?v=g8qh63nu1OQ)
+- [MADNESS - SWAN LAKE AND RAZORBLADE ALLEY DANCE CRAZE](https://www.youtube.com/watch?v=nU1EV0WvwzM)
+- [Dance Craze - Documentary 1981 Part 1](https://www.youtube.com/watch?v=Amo1MNw7c1k)
+- [Dance Craze - Documentary 1981 Part 2](https://www.youtube.com/watch?v=62k2AKhy-ms)
+- [Dance Craze - Documentary 1981 Part 7](https://www.youtube.com/watch?v=tKhGB6Ih5oc)
+- [The Specials - Concrete Jungle Live at Rotters Club Liverpool 141080](https://www.youtube.com/watch?v=xKBiij0A3ig)
+- [Three Minute Hero Live at The Pavillion Hemel Hempstead 22380](https://www.youtube.com/watch?v=Le0OoKpih8c)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,26 +50,26 @@ Aretha's Greatest Hits is the third compilation album by American singer Aretha 
 
 
 ## Videos
-### Aretha Franklin - Greatest Hits (Official Full Album) | Aretha Franklin Best Songs Playlist
-{{< youtube id="wNwUQJzPY20" title="Aretha Franklin - Greatest Hits (Official Full Album) | Aretha Franklin Best Songs Playlist" >}}<br>
+### Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist
+{{< youtube id="wNwUQJzPY20" title="Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist" >}}<br>
 ### More Videos
 
 - [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=bn94rDK-TXc)
-- [Aretha Franklin - The Genius of Aretha Franklin [Full Album]](https://www.youtube.com/watch?v=qQRfayx3WEo)
-- [Aretha's Greatest Hits /Atlantic](https://www.youtube.com/watch?v=KuDE2JzHYhU)
-- [Aretha Franklin Best Songs Playlist | Aretha Franklin - Greatest Hits (Officia Full Album) |](https://www.youtube.com/watch?v=0Ys2wDneQvg)
+- [Aretha Franklin - The Genius of Aretha Franklin Full Album](https://www.youtube.com/watch?v=qQRfayx3WEo)
+- [Arethas Greatest Hits Atlantic](https://www.youtube.com/watch?v=KuDE2JzHYhU)
+- [Aretha Franklin Best Songs Playlist  Aretha Franklin - Greatest Hits Officia Full Album ](https://www.youtube.com/watch?v=0Ys2wDneQvg)
 - [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=OFaV-llC3CI)
 - [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=8vjbV9rWsnU)
 - [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=gyi_eF5WcqE)
 - [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=IKkX5t5oOfA)
 - [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=7HOyoYqtSKU)
-- [Aretha Franklin - Amazing Grace (Full Album) [Official Video]](https://www.youtube.com/watch?v=tkke4ctTYf8)
+- [Aretha Franklin - Amazing Grace Full Album Official Video](https://www.youtube.com/watch?v=tkke4ctTYf8)
 - [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=p3bJ9nJKkyc)
 - [Aretha Franklin  Greatest Hits 2018 - Best Of Aretha Franklin](https://www.youtube.com/watch?v=19cdDI571nQ)
-- [Aretha Franklin - Greatest Hits (Official Full Album) | Aretha Franklin Best Songs Playlist](https://www.youtube.com/watch?v=s1xUqP1VMRw)
-- [Aretha Franklin`s Greatest Hits    The Very Best Of Aretha Franklin](https://www.youtube.com/watch?v=UVLlJaT--eQ)
-- [A.r.e.t.h.a F.r.a.n.k.l.i.n Greatest Hits ~ Top 100 Artists To Listen in 2022 & 2023](https://www.youtube.com/watch?v=nQEBJgtTFsU)
-- [Aretha Franklin – Aretha's Greatest Hits](https://www.youtube.com/watch?v=KPQmbRfCdww)
+- [Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist](https://www.youtube.com/watch?v=s1xUqP1VMRw)
+- [Aretha Franklins Greatest Hits    The Very Best Of Aretha Franklin](https://www.youtube.com/watch?v=UVLlJaT--eQ)
+- [Aretha Franklin Greatest Hits  Top 100 Artists To Listen in 2022  2023](https://www.youtube.com/watch?v=nQEBJgtTFsU)
+- [Aretha Franklin  Arethas Greatest Hits](https://www.youtube.com/watch?v=KPQmbRfCdww)
 - [Greatest Hits Official Full Album - Aretha Franklin Best Songs Playlist - Aretha Franklin](https://www.youtube.com/watch?v=D_rpvSHCl7w)
 
 ## Release Images

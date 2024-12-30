@@ -48,8 +48,8 @@ styles: ["Pop Rock", "Folk Rock"]
 
 
 ## Videos
-### Yusuf / Cat Stevens - Where Do The Children Play?
-{{< youtube id="nBCJhNiKhFE" title="Yusuf / Cat Stevens - Where Do The Children Play?" >}}<br>
+### Yusuf  Cat Stevens - Where Do The Children Play
+{{< youtube id="nBCJhNiKhFE" title="Yusuf  Cat Stevens - Where Do The Children Play" >}}<br>
 ### More Videos
 
 - [Hard Headed Woman](https://www.youtube.com/watch?v=0sZrFf-sgKs)
@@ -59,7 +59,7 @@ styles: ["Pop Rock", "Folk Rock"]
 - [Miles From Nowhere](https://www.youtube.com/watch?v=Ru2j85VV9GY)
 - [Longer Boats](https://www.youtube.com/watch?v=gz-Wn5hlP9s)
 - [Tea For The Tillerman](https://www.youtube.com/watch?v=ZC3tOgCd_ps)
-- [Yusuf / Cat Stevens - Father And Son](https://www.youtube.com/watch?v=B_H5XuIb5WM)
+- [Yusuf  Cat Stevens - Father And Son](https://www.youtube.com/watch?v=B_H5XuIb5WM)
 
 ## Release Images
 {{< imageGrid >}}

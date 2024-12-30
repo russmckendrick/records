@@ -60,9 +60,9 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 
 - [Pumpkin](https://www.youtube.com/watch?v=ddn7Nlgr87o)
 - [Abbaon Fat Tracks](https://www.youtube.com/watch?v=ZmdpZQV_dPM)
-- [Tricky - 'Overcome' (Official Video)](https://www.youtube.com/watch?v=ViHiOopNTlc)
+- [Tricky - Overcome Official Video](https://www.youtube.com/watch?v=ViHiOopNTlc)
 - [Tricky - Black Steel](https://www.youtube.com/watch?v=9ZJTM03UByU)
-- [Tricky - 'Aftermath' (Official Video)](https://www.youtube.com/watch?v=25y3cMC9i94)
+- [Tricky - Aftermath Official Video](https://www.youtube.com/watch?v=25y3cMC9i94)
 
 ## Release Images
 {{< imageGrid >}}

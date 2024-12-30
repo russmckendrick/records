@@ -46,8 +46,8 @@ The album was also released in a limited edition, 300 copy, double LP 180 gram v
 
 
 ## Videos
-### Explosions In The Sky - How Strange, Innocence ( Full Album )
-{{< youtube id="gl1xv2cspJI" title="Explosions In The Sky - How Strange, Innocence ( Full Album )" >}}<br>
+### Explosions In The Sky - How Strange Innocence  Full Album 
+{{< youtube id="gl1xv2cspJI" title="Explosions In The Sky - How Strange Innocence  Full Album " >}}<br>
 
 
 ## Release Images

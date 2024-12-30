@@ -47,8 +47,8 @@ A breakthrough commercial success for the band, the record peaked at number 1 in
 
 
 ## Videos
-### Book Of Brilliant Things (Remastered 2002)
-{{< youtube id="Qh_p08_D7IU" title="Book Of Brilliant Things (Remastered 2002)" >}}<br>
+### Book Of Brilliant Things Remastered 2002
+{{< youtube id="Qh_p08_D7IU" title="Book Of Brilliant Things Remastered 2002" >}}<br>
 ### More Videos
 
 - [Simple Minds - Up On The Catwalk](https://www.youtube.com/watch?v=T7b27t7lxCw)

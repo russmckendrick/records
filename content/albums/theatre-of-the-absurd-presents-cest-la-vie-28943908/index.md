@@ -48,22 +48,22 @@ styles: ["Ska", "Pop Rock"]
 
 
 ## Videos
-### Madness - Theatre Of The Absurd introduces Acts 1, 2 & 3 (Official Video)
-{{< youtube id="QkfxpJzWaOk" title="Madness - Theatre Of The Absurd introduces Acts 1, 2 & 3 (Official Video)" >}}<br>
+### Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video
+{{< youtube id="QkfxpJzWaOk" title="Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video" >}}<br>
 ### More Videos
 
-- [Madness - C’est La Vie - Official Video (Extended Version)](https://www.youtube.com/watch?v=ln8HewrmbqA)
-- [Madness - Theatre of the Absurd presents C'est La Vie (Full Album) 2023](https://www.youtube.com/watch?v=JZpM97DCfK8)
-- [Madness - In My Street (Official Audio)](https://www.youtube.com/watch?v=T8i2PMWqt0Y)
-- [Theatre of the Absurd Introduces C'est La Vie - Madness](https://www.youtube.com/watch?v=8LNJpC8TH-g)
-- [Madness - If I Go Mad (Official Audio)](https://www.youtube.com/watch?v=Tju6XtD-a_4)
-- [Madness - C'est La Vie (Official Audio)](https://www.youtube.com/watch?v=4EmfBzpefz0)
-- [Madness - C'est La Vie (Lyric Video)](https://www.youtube.com/watch?v=Xyd9kgraOPs)
-- [Madness - Round We Go (Official Audio)](https://www.youtube.com/watch?v=ecmVv_S10p0)
-- [Madness - Theatre Of The Absurd introduces Acts 1, 2 & 3 (Official Video)](https://www.youtube.com/watch?v=QkfxpJzWaOk)
-- [Madness - C’est La Vie - Official Video (Extended Version)](https://www.youtube.com/watch?v=ln8HewrmbqA)
-- [Madness - Friday Night, Saturday Morning (Live From The C’est La Vie Tour) (Official Audio)](https://www.youtube.com/watch?v=EfpJvyhTuis)
-- [Madness - Friday Night, Saturday Morning - [Terry Hall / The Specials cover] - London, 19 Oct 2023](https://www.youtube.com/watch?v=8xuJ_8LHuvY)
+- [Madness - Cest La Vie - Official Video Extended Version](https://www.youtube.com/watch?v=ln8HewrmbqA)
+- [Madness - Theatre of the Absurd presents Cest La Vie Full Album 2023](https://www.youtube.com/watch?v=JZpM97DCfK8)
+- [Madness - In My Street Official Audio](https://www.youtube.com/watch?v=T8i2PMWqt0Y)
+- [Theatre of the Absurd Introduces Cest La Vie - Madness](https://www.youtube.com/watch?v=8LNJpC8TH-g)
+- [Madness - If I Go Mad Official Audio](https://www.youtube.com/watch?v=Tju6XtD-a_4)
+- [Madness - Cest La Vie Official Audio](https://www.youtube.com/watch?v=4EmfBzpefz0)
+- [Madness - Cest La Vie Lyric Video](https://www.youtube.com/watch?v=Xyd9kgraOPs)
+- [Madness - Round We Go Official Audio](https://www.youtube.com/watch?v=ecmVv_S10p0)
+- [Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video](https://www.youtube.com/watch?v=QkfxpJzWaOk)
+- [Madness - Cest La Vie - Official Video Extended Version](https://www.youtube.com/watch?v=ln8HewrmbqA)
+- [Madness - Friday Night Saturday Morning Live From The Cest La Vie Tour Official Audio](https://www.youtube.com/watch?v=EfpJvyhTuis)
+- [Madness - Friday Night Saturday Morning - Terry Hall  The Specials cover - London 19 Oct 2023](https://www.youtube.com/watch?v=8xuJ_8LHuvY)
 - [Madness live 2023 Terry Hall Tribute Specials](https://www.youtube.com/watch?v=qqK-a9zOftI)
 
 ## Release Images

@@ -59,8 +59,8 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 
 
 ## Videos
-### "Staring at the Sun" by TV on the Radio
-{{< youtube id="oHrTOQ18yzU" title=""Staring at the Sun" by TV on the Radio" >}}<br>
+### Staring at the Sun by TV on the Radio
+{{< youtube id="oHrTOQ18yzU" title="Staring at the Sun by TV on the Radio" >}}<br>
 ### More Videos
 
 - [The Wrong Way](https://www.youtube.com/watch?v=PwmikMwwwEo)
@@ -70,7 +70,7 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 - [Poppy](https://www.youtube.com/watch?v=zp7E57cXVeA)
 - [Bomb Yourself](https://www.youtube.com/watch?v=7Q-jFbXAfEY)
 - [King Eternal](https://www.youtube.com/watch?v=7yTO1DeNhl4)
-- [Don't Love You](https://www.youtube.com/watch?v=PW4PWweeVvo)
+- [Dont Love You](https://www.youtube.com/watch?v=PW4PWweeVvo)
 
 ## Release Images
 {{< imageGrid >}}

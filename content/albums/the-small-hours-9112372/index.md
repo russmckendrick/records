@@ -50,7 +50,7 @@ styles: []
 
 - [Matt Berry - Beam Me Up](https://www.youtube.com/watch?v=Y0D-1fBqJuk)
 - [Matt Berry   Lord Above](https://www.youtube.com/watch?v=-ltFuyMfURo)
-- [MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-{2016}](https://www.youtube.com/watch?v=rfS9xWlHXPs)
+- [MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-2016](https://www.youtube.com/watch?v=rfS9xWlHXPs)
 
 ## Release Images
 {{< imageGrid >}}

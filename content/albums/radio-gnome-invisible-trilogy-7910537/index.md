@@ -87,8 +87,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Gong_ Angel's Egg (1973) full album
-{{< youtube id="u0AhjPHGbLU" title="Gong_ Angel's Egg (1973) full album" >}}<br>
+### Gong_ Angels Egg 1973 full album
+{{< youtube id="u0AhjPHGbLU" title="Gong_ Angels Egg 1973 full album" >}}<br>
 ### More Videos
 
 - [Gong - Flying Teapot](https://www.youtube.com/watch?v=k2Yc9mHCwRI)

@@ -49,14 +49,14 @@ Casual Sex in the Cineplex is the debut album by the Sultans of Ping FC, recorde
 
 
 ## Videos
-### Stupid Kid - Sultans of Ping FC, The
-{{< youtube id="lYZqP5IRUJQ" title="Stupid Kid - Sultans of Ping FC, The" >}}<br>
+### Stupid Kid - Sultans of Ping FC The
+{{< youtube id="lYZqP5IRUJQ" title="Stupid Kid - Sultans of Ping FC The" >}}<br>
 ### More Videos
 
 - [Kick Me With Your Leather Boots - Sultans Of Ping FC](https://www.youtube.com/watch?v=NlhztI2GcIE)
-- [Sultans of Ping F.C. - 2 Pints of Rasa](https://www.youtube.com/watch?v=0s-h73jSdWU)
-- [Where's me jumper](https://www.youtube.com/watch?v=jxmZZBJQAKM)
-- [Sultans Of Ping F.C. - Clitus Clarke](https://www.youtube.com/watch?v=ls1xenGk-Po)
+- [Sultans of Ping FC - 2 Pints of Rasa](https://www.youtube.com/watch?v=0s-h73jSdWU)
+- [Wheres me jumper](https://www.youtube.com/watch?v=jxmZZBJQAKM)
+- [Sultans Of Ping FC - Clitus Clarke](https://www.youtube.com/watch?v=ls1xenGk-Po)
 - [Sultans of Ping FC - Karaoke Queen](https://www.youtube.com/watch?v=aa1fgXlfzL0)
 
 ## Release Images

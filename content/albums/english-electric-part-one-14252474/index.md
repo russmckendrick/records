@@ -47,8 +47,8 @@ English Electric Part One is the seventh studio album by the English progressive
 
 
 ## Videos
-### Big Big Train - English Electric Part 1 (2012) Full
-{{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 (2012) Full" >}}<br>
+### Big Big Train - English Electric Part 1 2012 Full
+{{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 2012 Full" >}}<br>
 ### More Videos
 
 - [Big Big Train - Judas Unrepentant](https://www.youtube.com/watch?v=s4JeLGchO7s)

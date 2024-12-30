@@ -49,35 +49,35 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 
 
 ## Videos
-### [We Don't Need This] Fascist Groove Thang
-{{< youtube id="Q49BjlSOCGE" title="[We Don't Need This] Fascist Groove Thang" >}}<br>
+### We Dont Need This Fascist Groove Thang
+{{< youtube id="Q49BjlSOCGE" title="We Dont Need This Fascist Groove Thang" >}}<br>
 ### More Videos
 
-- [Penthouse And Pavement (Remastered 2006)](https://www.youtube.com/watch?v=XV502Rw0Fqg)
-- [Play To Win (Remastered)](https://www.youtube.com/watch?v=m-fY639gW08)
-- [Soul Warfare (2006 Digital Remaster)](https://www.youtube.com/watch?v=NKFJs3aK6k8)
-- [Geisha Boys And Temple Girls (2006 Digital Remaster)](https://www.youtube.com/watch?v=gbhptD6H_Rc)
-- [Let's All Make A Bomb (2006 Digital Remaster)](https://www.youtube.com/watch?v=I57YbiJ7x2w)
-- [The Height Of The Fighting (Remastered 2006)](https://www.youtube.com/watch?v=mJ28KUI8uAw)
-- [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
-- [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
-- [Heaven 17 - Height Of The Fighting (He-La-Hu!)](https://www.youtube.com/watch?v=JR6BlsgdQr8)
-- [Penthouse And Pavement (Original Demo)](https://www.youtube.com/watch?v=AsUMB9XU_3w)
-- [Soul Warfare (Original Demo)](https://www.youtube.com/watch?v=Z6iKZSJwSws)
-- [Play To Win (Original Demo Instrumental)](https://www.youtube.com/watch?v=BSABDya6B08)
-- [Play To Win (Original Demo With Vocals)](https://www.youtube.com/watch?v=-mXosUWcUOY)
-- [Are Everything (Original Demo)](https://www.youtube.com/watch?v=41XZSEO9ST4)
+- [Penthouse And Pavement Remastered 2006](https://www.youtube.com/watch?v=XV502Rw0Fqg)
+- [Play To Win Remastered](https://www.youtube.com/watch?v=m-fY639gW08)
+- [Soul Warfare 2006 Digital Remaster](https://www.youtube.com/watch?v=NKFJs3aK6k8)
+- [Geisha Boys And Temple Girls 2006 Digital Remaster](https://www.youtube.com/watch?v=gbhptD6H_Rc)
+- [Lets All Make A Bomb 2006 Digital Remaster](https://www.youtube.com/watch?v=I57YbiJ7x2w)
+- [The Height Of The Fighting Remastered 2006](https://www.youtube.com/watch?v=mJ28KUI8uAw)
+- [Song With No Name 2006 Digital Remaster](https://www.youtube.com/watch?v=FEh2lEsoRuc)
+- [Were Going To Live For A Very Long Time 2006 Digital Remaster](https://www.youtube.com/watch?v=77PYASbEsi8)
+- [Heaven 17 - Height Of The Fighting He-La-Hu](https://www.youtube.com/watch?v=JR6BlsgdQr8)
+- [Penthouse And Pavement Original Demo](https://www.youtube.com/watch?v=AsUMB9XU_3w)
+- [Soul Warfare Original Demo](https://www.youtube.com/watch?v=Z6iKZSJwSws)
+- [Play To Win Original Demo Instrumental](https://www.youtube.com/watch?v=BSABDya6B08)
+- [Play To Win Original Demo With Vocals](https://www.youtube.com/watch?v=-mXosUWcUOY)
+- [Are Everything Original Demo](https://www.youtube.com/watch?v=41XZSEO9ST4)
 - [Rhythmic Experiment 1](https://www.youtube.com/watch?v=xvR8HFMZ-xA)
-- [At The Height Of The Fighting (Original Rhythm Track)](https://www.youtube.com/watch?v=Vb1wEo0xHYw)
-- [[We Don't Need This] Fascist Groove Thang (Original Demo)](https://www.youtube.com/watch?v=e6HuZIlMI84)
-- [Are Everything (12'' Version / 2006 Digital Remaster)](https://www.youtube.com/watch?v=S9gRx0i8tcg)
-- [Are Everything (7'' Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=YIUtZgaTgv8)
+- [At The Height Of The Fighting Original Rhythm Track](https://www.youtube.com/watch?v=Vb1wEo0xHYw)
+- [We Dont Need This Fascist Groove Thang Original Demo](https://www.youtube.com/watch?v=e6HuZIlMI84)
+- [Are Everything 12 Version  2006 Digital Remaster](https://www.youtube.com/watch?v=S9gRx0i8tcg)
+- [Are Everything 7 Version 2006 Digital Remaster](https://www.youtube.com/watch?v=YIUtZgaTgv8)
 - [Heavy Drum Experiment](https://www.youtube.com/watch?v=DfEDGsOv-_s)
 - [Boys Of Buddha Experiment](https://www.youtube.com/watch?v=8bZAX6Md7vI)
 - [Funky Experiment](https://www.youtube.com/watch?v=SfJ3_pQi9eo)
-- [I'm Your Money (7" Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=jcOJpLEQ_-s)
+- [Im Your Money 7 Version 2006 Digital Remaster](https://www.youtube.com/watch?v=jcOJpLEQ_-s)
 - [Rhythmic Loop Experiment](https://www.youtube.com/watch?v=N5_UOcvE8hc)
-- [Let's All Make A Bomb (12" Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=urOrGcExyCU)
+- [Lets All Make A Bomb 12 Version 2006 Digital Remaster](https://www.youtube.com/watch?v=urOrGcExyCU)
 
 ## Release Images
 {{< imageGrid >}}

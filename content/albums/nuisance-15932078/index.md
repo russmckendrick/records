@@ -51,10 +51,10 @@ styles: ["Indie Rock", "Britpop"]
 {{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}<br>
 ### More Videos
 
-- [Menswear - I'll Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
+- [Menswear - Ill Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
 - [Menswear - Sleeping in](https://www.youtube.com/watch?v=vICR80UFv8g)
-- [Menswear - Daydreamer (Official Music Video)](https://www.youtube.com/watch?v=oRwlD6qyMF0)
-- [Menswear - Stardust (Official Video)](https://www.youtube.com/watch?v=Zfdao4uYFyc)
+- [Menswear - Daydreamer Official Music Video](https://www.youtube.com/watch?v=oRwlD6qyMF0)
+- [Menswear - Stardust Official Video](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
 ## Release Images
 {{< imageGrid >}}

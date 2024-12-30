@@ -70,11 +70,11 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 
 
 ## Videos
-### Dinosaur Jr. ~ Green Mind (1991) ~ FULL ALBUM
-{{< youtube id="xOFozjl2nw4" title="Dinosaur Jr. ~ Green Mind (1991) ~ FULL ALBUM" >}}<br>
+### Dinosaur Jr  Green Mind 1991  FULL ALBUM
+{{< youtube id="xOFozjl2nw4" title="Dinosaur Jr  Green Mind 1991  FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Green Mind [2019 Remaster]](https://www.youtube.com/watch?v=6bMFg9KzkAs)
+- [Green Mind 2019 Remaster](https://www.youtube.com/watch?v=6bMFg9KzkAs)
 
 ## Release Images
 {{< imageGrid >}}

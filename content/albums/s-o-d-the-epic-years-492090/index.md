@@ -41,8 +41,8 @@ styles: ["Pop Rock", "Goth Rock"]
 
 
 ## Videos
-### Spear Of Destiny-The Wheel.wmv
-{{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheel.wmv" >}}<br>
+### Spear Of Destiny-The Wheelwmv
+{{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheelwmv" >}}<br>
 
 
 ## Release Images

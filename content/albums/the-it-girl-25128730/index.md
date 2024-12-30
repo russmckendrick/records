@@ -72,7 +72,7 @@ styles: ["Indie Rock", "Britpop"]
 - [Sleeper - Lie Detector](https://www.youtube.com/watch?v=wKXaMzFeLg0)
 - [Lie Detector](https://www.youtube.com/watch?v=axfEt0cptC4)
 - [Sleeper Sale Of The Century](https://www.youtube.com/watch?v=Qd-RGXPQGbQ)
-- [Sleeper - Sale Of The Century (Video)](https://www.youtube.com/watch?v=rJEyKr7J0Wc)
+- [Sleeper - Sale Of The Century Video](https://www.youtube.com/watch?v=rJEyKr7J0Wc)
 - [Sleeper - Sale of the Century](https://www.youtube.com/watch?v=5m5x-DeD9XM)
 - [Sleeper - Sale Of The Century lyrics](https://www.youtube.com/watch?v=nzqal1QkdEs)
 

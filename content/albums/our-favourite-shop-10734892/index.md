@@ -51,22 +51,22 @@ The multigenre album incorporates diverse stylistic influences, including soul, 
 
 
 ## Videos
-### Shout To The Top (USA Remix)
-{{< youtube id="IhZHLIOSd0k" title="Shout To The Top (USA Remix)" >}}<br>
+### Shout To The Top USA Remix
+{{< youtube id="IhZHLIOSd0k" title="Shout To The Top USA Remix" >}}<br>
 ### More Videos
 
-- [The Style Council   Our Favourite Shop TV Commercial, 1985](https://www.youtube.com/watch?v=BVNt8kdw5XQ)
-- [The Style Council - Walls Come Tumbling Down!](https://www.youtube.com/watch?v=k5HfOipwvts)
+- [The Style Council   Our Favourite Shop TV Commercial 1985](https://www.youtube.com/watch?v=BVNt8kdw5XQ)
+- [The Style Council - Walls Come Tumbling Down](https://www.youtube.com/watch?v=k5HfOipwvts)
 - [The Style Council - Shout To The Top](https://www.youtube.com/watch?v=7m94ip38UKs)
 - [Internationalists](https://www.youtube.com/watch?v=lNFFr8H_qKo)
-- [The Stand Up Comic's Instructions](https://www.youtube.com/watch?v=gsxMirHcG9k)
-- [Style Council - The Boy Who Cried Wolf (HQ)](https://www.youtube.com/watch?v=LJZenO5LXgo)
+- [The Stand Up Comics Instructions](https://www.youtube.com/watch?v=gsxMirHcG9k)
+- [Style Council - The Boy Who Cried Wolf HQ](https://www.youtube.com/watch?v=LJZenO5LXgo)
 - [Down In The Seine](https://www.youtube.com/watch?v=WXP5uFVc1l0)
 - [Luck](https://www.youtube.com/watch?v=yqccuvCOSO4)
 - [With Everything To Lose](https://www.youtube.com/watch?v=inJY7ldDcF8)
 - [A Man Of Great Promise](https://www.youtube.com/watch?v=DnVHVBaYIus)
 - [A Stones Throw Away](https://www.youtube.com/watch?v=45DsZpjL4tM)
-- [The Style Council - Our Favourite Shop (Album Version)](https://www.youtube.com/watch?v=4Xr48EHqvlk)
+- [The Style Council - Our Favourite Shop Album Version](https://www.youtube.com/watch?v=4Xr48EHqvlk)
 - [Homebreakers   The Style Council](https://www.youtube.com/watch?v=vqDRo2p5W1I)
 - [The Style Council - All Gone Away](https://www.youtube.com/watch?v=mExCJcu98h0)
 

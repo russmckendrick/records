@@ -55,11 +55,11 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 {{< youtube id="P7zs5JmlhwY" title="Stranger To Stranger" >}}<br>
 ### More Videos
 
-- [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [Paul Simon - The Werewolf (Static Image Video)](https://www.youtube.com/watch?v=S9UwRLfYUlo)
+- [Paul Simon - Wristband Official Audio](https://www.youtube.com/watch?v=O3crKHaBdy4)
+- [Paul Simon - The Werewolf Static Image Video](https://www.youtube.com/watch?v=S9UwRLfYUlo)
 - [Stranger To Stranger](https://www.youtube.com/watch?v=P7zs5JmlhwY)
-- [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [Paul Simon - The Werewolf (Static Image Video)](https://www.youtube.com/watch?v=S9UwRLfYUlo)
+- [Paul Simon - Wristband Official Audio](https://www.youtube.com/watch?v=O3crKHaBdy4)
+- [Paul Simon - The Werewolf Static Image Video](https://www.youtube.com/watch?v=S9UwRLfYUlo)
 
 ## Release Images
 {{< imageGrid >}}

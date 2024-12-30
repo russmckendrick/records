@@ -53,8 +53,8 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 
 
 ## Videos
-### The Allman Brothers Band (US, 1969) [Full LP, 1st Pressing] {Psychedelic Blues Rock} ★★MASTERPIECE★★
-{{< youtube id="UoK2fvY-UE4" title="The Allman Brothers Band (US, 1969) [Full LP, 1st Pressing] {Psychedelic Blues Rock} ★★MASTERPIECE★★" >}}<br>
+### The Allman Brothers Band US 1969 Full LP 1st Pressing Psychedelic Blues Rock MASTERPIECE
+{{< youtube id="UoK2fvY-UE4" title="The Allman Brothers Band US 1969 Full LP 1st Pressing Psychedelic Blues Rock MASTERPIECE" >}}<br>
 
 
 ## Release Images

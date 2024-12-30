@@ -46,7 +46,7 @@ Loss is the debut album of Scottish indie pop band Mull Historical Society. It i
 {{< youtube id="X7FCbmZm-1c" title="Loss" >}}<br>
 ### More Videos
 
-- [Mull Historical Society: strangeways inside](https://www.youtube.com/watch?v=wKsgrxywZ9Q)
+- [Mull Historical Society strangeways inside](https://www.youtube.com/watch?v=wKsgrxywZ9Q)
 - [Watching Xanadu](https://www.youtube.com/watch?v=mvccQGUpXYM)
 - [This Is Not Who We Were](https://www.youtube.com/watch?v=ZB7W0Ii6Uzo)
 

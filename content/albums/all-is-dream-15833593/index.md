@@ -71,11 +71,11 @@ All Is Dream is the fifth studio album by American rock band Mercury Rev. It was
 
 - [Tides Of The Moon](https://www.youtube.com/watch?v=6hnYMjTKZVA)
 - [Chains](https://www.youtube.com/watch?v=J8urkUCH79s)
-- [Lincoln's Eyes](https://www.youtube.com/watch?v=4cXTFM-1ol8)
+- [Lincolns Eyes](https://www.youtube.com/watch?v=4cXTFM-1ol8)
 - [Nite And Fog](https://www.youtube.com/watch?v=W9I6vukZdG4)
 - [Little Rhymes](https://www.youtube.com/watch?v=A331aSeC9Ww)
 - [A Drop In Time](https://www.youtube.com/watch?v=Mj_QIKMfbjw)
-- [You're My Queen](https://www.youtube.com/watch?v=kf3jOmMvBBU)
+- [Youre My Queen](https://www.youtube.com/watch?v=kf3jOmMvBBU)
 - [Spiders And Flies](https://www.youtube.com/watch?v=KPSxvBGAX_I)
 - [Hercules](https://www.youtube.com/watch?v=I7-UD3J8Sg4)
 

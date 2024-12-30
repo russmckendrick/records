@@ -46,12 +46,12 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 
 
 ## Videos
-### Paul McCartney & Wings - Band On The Run (Official Music Video)
-{{< youtube id="5P_VfLun96o" title="Paul McCartney & Wings - Band On The Run (Official Music Video)" >}}<br>
+### Paul McCartney  Wings - Band On The Run Official Music Video
+{{< youtube id="5P_VfLun96o" title="Paul McCartney  Wings - Band On The Run Official Music Video" >}}<br>
 ### More Videos
 
-- [Paul McCartney & Wings - Band On The Run (Official Music Video)](https://www.youtube.com/watch?v=5P_VfLun96o)
-- [Paul McCartney & Wings - Mrs  Vandebilt (Exclusive Video)](https://www.youtube.com/watch?v=7ARTZIKYYtA)
+- [Paul McCartney  Wings - Band On The Run Official Music Video](https://www.youtube.com/watch?v=5P_VfLun96o)
+- [Paul McCartney  Wings - Mrs  Vandebilt Exclusive Video](https://www.youtube.com/watch?v=7ARTZIKYYtA)
 
 ## Release Images
 {{< imageGrid >}}

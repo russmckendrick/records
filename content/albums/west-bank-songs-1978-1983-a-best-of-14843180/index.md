@@ -59,19 +59,19 @@ styles: ["Punk", "Power Pop"]
 
 
 ## Videos
-### The Undertones - You've Got My Number (Why Don't You Use It!)
-{{< youtube id="qQwOqBhib3w" title="The Undertones - You've Got My Number (Why Don't You Use It!)" >}}<br>
+### The Undertones - Youve Got My Number Why Dont You Use It
+{{< youtube id="qQwOqBhib3w" title="The Undertones - Youve Got My Number Why Dont You Use It" >}}<br>
 ### More Videos
 
 - [Male Model](https://www.youtube.com/watch?v=NKtNwlutbDw)
 - [The Undertones - Hypnotised](https://www.youtube.com/watch?v=uzbB8O-Z41Q)
-- [Billy's Third](https://www.youtube.com/watch?v=_Hik5QxeKrk)
+- [Billys Third](https://www.youtube.com/watch?v=_Hik5QxeKrk)
 - [The Way Girls Talk](https://www.youtube.com/watch?v=l3gu7DGykjI)
-- [True Confessions (B-side of Teenage Kicks)](https://www.youtube.com/watch?v=DEykyyEoBNQ)
-- [The Undertones - Wednesday Week (1980) (HD)](https://www.youtube.com/watch?v=EMLyCST6HkQ)
-- [[She's A] Runaround](https://www.youtube.com/watch?v=XHFAOYwS4F0)
+- [True Confessions B-side of Teenage Kicks](https://www.youtube.com/watch?v=DEykyyEoBNQ)
+- [The Undertones - Wednesday Week 1980 HD](https://www.youtube.com/watch?v=EMLyCST6HkQ)
+- [Shes A Runaround](https://www.youtube.com/watch?v=XHFAOYwS4F0)
 - [There Goes Norman - The Undertones](https://www.youtube.com/watch?v=ft58QqQjfKw)
-- [The Undertones - Teenage Kicks (HQ)](https://www.youtube.com/watch?v=DxPiD8EB3ZU)
+- [The Undertones - Teenage Kicks HQ](https://www.youtube.com/watch?v=DxPiD8EB3ZU)
 - [Tearproof](https://www.youtube.com/watch?v=BZobqlGa9wQ)
 - [Jump Boys](https://www.youtube.com/watch?v=pF6l7FNsjaM)
 - [Undertones - love parade](https://www.youtube.com/watch?v=CzukOUcvmTg)

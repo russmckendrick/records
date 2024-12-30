@@ -73,11 +73,11 @@ For all its experiments (“A Day in the Life”) and invocations of the counter
 
 
 ## Videos
-### Beatles - 1st UK press - Sgt pepper.....- side 1
-{{< youtube id="sQ-q8oz-GTk" title="Beatles - 1st UK press - Sgt pepper.....- side 1" >}}<br>
+### Beatles - 1st UK press - Sgt pepper- side 1
+{{< youtube id="sQ-q8oz-GTk" title="Beatles - 1st UK press - Sgt pepper- side 1" >}}<br>
 ### More Videos
 
-- [Beatles - 1st UK press - Sgt pepper.....- side 2](https://www.youtube.com/watch?v=CkSH76b4-2o)
+- [Beatles - 1st UK press - Sgt pepper- side 2](https://www.youtube.com/watch?v=CkSH76b4-2o)
 
 ## Release Images
 {{< imageGrid >}}

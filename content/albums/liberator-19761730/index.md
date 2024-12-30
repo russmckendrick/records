@@ -45,8 +45,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Dream Of Me (Based On Love's Theme)
-{{< youtube id="Vc-d3FGoxDI" title="Dream Of Me (Based On Love's Theme)" >}}<br>
+### Dream Of Me Based On Loves Theme
+{{< youtube id="Vc-d3FGoxDI" title="Dream Of Me Based On Loves Theme" >}}<br>
 ### More Videos
 
 - [Orchestral Manoeuvres In The Dark - Stand Above Me](https://www.youtube.com/watch?v=HewK0qkT7OI)

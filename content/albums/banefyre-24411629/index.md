@@ -42,12 +42,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### CRIPPLED BLACK PHOENIX - "Everything is Beautiful But Us" (official video) 2022
-{{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - "Everything is Beautiful But Us" (official video) 2022" >}}<br>
+### CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us official video 2022
+{{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us official video 2022" >}}<br>
 ### More Videos
 
-- [CRIPPLED BLACK PHOENIX - "Blackout77" (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
-- [CRIPPLED BLACK PHOENIX - "Bonefire" (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
+- [CRIPPLED BLACK PHOENIX - Blackout77 official video 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
+- [CRIPPLED BLACK PHOENIX - Bonefire official audio 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
 
 ## Release Images
 {{< imageGrid >}}

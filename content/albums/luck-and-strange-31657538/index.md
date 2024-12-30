@@ -71,16 +71,16 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 {{< youtube id="GFa3OUFCB1U" title="Black Cat" >}}<br>
 ### More Videos
 
-- [David Gilmour - Luck and Strange (Official Music Video)](https://www.youtube.com/watch?v=It5QFxLjc2k)
-- [David Gilmour - The Piper's Call (Official Music Video)](https://www.youtube.com/watch?v=gMr5GpCpKyA)
+- [David Gilmour - Luck and Strange Official Music Video](https://www.youtube.com/watch?v=It5QFxLjc2k)
+- [David Gilmour - The Pipers Call Official Music Video](https://www.youtube.com/watch?v=gMr5GpCpKyA)
 - [A Single Spark](https://www.youtube.com/watch?v=YVW_rAwUjIA)
 - [Vita Brevis](https://www.youtube.com/watch?v=xSl-KPU-ctc)
-- [David Gilmour - Between Two Points (with Romany Gilmour)](https://www.youtube.com/watch?v=A9qdvkx9E3o)
-- [David Gilmour - Dark and Velvet Nights (Official Music Video)](https://www.youtube.com/watch?v=mUHMNgKRHbQ)
+- [David Gilmour - Between Two Points with Romany Gilmour](https://www.youtube.com/watch?v=A9qdvkx9E3o)
+- [David Gilmour - Dark and Velvet Nights Official Music Video](https://www.youtube.com/watch?v=mUHMNgKRHbQ)
 - [Sings](https://www.youtube.com/watch?v=8ctxpcgg5sQ)
 - [Scattered](https://www.youtube.com/watch?v=7Eh63P4rBa0)
-- [David Gilmour with Romany Gilmour - Yes, I Have Ghosts (Official Music Video 4K)](https://www.youtube.com/watch?v=BwI1RmYaVB0)
-- [Luck and Strange (original Barn Jam)](https://www.youtube.com/watch?v=NPIxsj-LUCU)
+- [David Gilmour with Romany Gilmour - Yes I Have Ghosts Official Music Video 4K](https://www.youtube.com/watch?v=BwI1RmYaVB0)
+- [Luck and Strange original Barn Jam](https://www.youtube.com/watch?v=NPIxsj-LUCU)
 
 ## Release Images
 {{< imageGrid >}}

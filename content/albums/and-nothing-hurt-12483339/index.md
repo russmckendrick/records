@@ -48,8 +48,8 @@ In the flush ’90s, labels could let a band like Spiritualized splurge on ample
 
 
 ## Videos
-### Spiritualized - And Nothing Hurt Full (Album Stream)
-{{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full (Album Stream)" >}}<br>
+### Spiritualized - And Nothing Hurt Full Album Stream
+{{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full Album Stream" >}}<br>
 
 
 ## Release Images

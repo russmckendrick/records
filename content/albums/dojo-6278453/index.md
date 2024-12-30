@@ -35,21 +35,21 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Jouis ► Universe Goggles [HQ Audio] Dojo 2014
-{{< youtube id="zsoss5XuRLM" title="Jouis ► Universe Goggles [HQ Audio] Dojo 2014" >}}<br>
+### Jouis  Universe Goggles HQ Audio Dojo 2014
+{{< youtube id="zsoss5XuRLM" title="Jouis  Universe Goggles HQ Audio Dojo 2014" >}}<br>
 ### More Videos
 
 - [All That Is and Is One](https://www.youtube.com/watch?v=0jw7-AulkFI)
 - [Earthly Emerald Eyes](https://www.youtube.com/watch?v=WZ5DJSlykqs)
-- [What’s New Guru?](https://www.youtube.com/watch?v=eEj4wtD0I84)
+- [Whats New Guru](https://www.youtube.com/watch?v=eEj4wtD0I84)
 - [Rain](https://www.youtube.com/watch?v=dOk0kJU9MiI)
 - [Hyperception](https://www.youtube.com/watch?v=pu3KrmUZ9Tc)
 - [Universe Goggles](https://www.youtube.com/watch?v=ZVAL2CkJO5I)
 - [New Moon](https://www.youtube.com/watch?v=1W1eR2hEmPQ)
-- [Jouis ► Universe Goggles [HQ Audio] Dojo 2014](https://www.youtube.com/watch?v=zsoss5XuRLM)
+- [Jouis  Universe Goggles HQ Audio Dojo 2014](https://www.youtube.com/watch?v=zsoss5XuRLM)
 - [All That Is and Is One](https://www.youtube.com/watch?v=0jw7-AulkFI)
 - [Earthly Emerald Eyes](https://www.youtube.com/watch?v=WZ5DJSlykqs)
-- [What’s New Guru?](https://www.youtube.com/watch?v=eEj4wtD0I84)
+- [Whats New Guru](https://www.youtube.com/watch?v=eEj4wtD0I84)
 - [Rain](https://www.youtube.com/watch?v=dOk0kJU9MiI)
 - [Hyperception](https://www.youtube.com/watch?v=pu3KrmUZ9Tc)
 - [Universe Goggles](https://www.youtube.com/watch?v=ZVAL2CkJO5I)

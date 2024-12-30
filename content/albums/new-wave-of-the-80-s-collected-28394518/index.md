@@ -59,25 +59,25 @@ styles: ["New Wave"]
 {{< youtube id="BUfcT5OoP-8" title="Tears For Fears - Pale Shelter" >}}<br>
 ### More Videos
 
-- [U2 - 11 O'Clock Tick Tock (Live On The Old Grey Whistle Test / 1981)](https://www.youtube.com/watch?v=Gtrfc7cDdgQ)
-- [XTC - Senses Working Overtime (Official Video)](https://www.youtube.com/watch?v=NrcemZpOmpI)
+- [U2 - 11 OClock Tick Tock Live On The Old Grey Whistle Test  1981](https://www.youtube.com/watch?v=Gtrfc7cDdgQ)
+- [XTC - Senses Working Overtime Official Video](https://www.youtube.com/watch?v=NrcemZpOmpI)
 - [Propaganda - Duel](https://www.youtube.com/watch?v=nnQ2zOmb6Hg)
-- [China Crisis - "Wishful Thinking" (1983)](https://www.youtube.com/watch?v=ldQpRMegYc0)
-- [Duran Duran - Planet Earth (Official Music Video)](https://www.youtube.com/watch?v=8NF6Qa84mno)
-- [Dum Dum Girl [Take 1] - Talk Talk (HD/HQ)](https://www.youtube.com/watch?v=2QV7PXg1hLs)
+- [China Crisis - Wishful Thinking 1983](https://www.youtube.com/watch?v=ldQpRMegYc0)
+- [Duran Duran - Planet Earth Official Music Video](https://www.youtube.com/watch?v=8NF6Qa84mno)
+- [Dum Dum Girl Take 1 - Talk Talk HDHQ](https://www.youtube.com/watch?v=2QV7PXg1hLs)
 - [ABC - All Of My Heart](https://www.youtube.com/watch?v=Lfph3043yZU)
 - [Strawberry Switchblade -- Since Yesterday](https://www.youtube.com/watch?v=x7QPBzAJ_io)
-- [Orchestral Manoeuvres In The Dark - Enola Gay (Official Music Video)](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
+- [Orchestral Manoeuvres In The Dark - Enola Gay Official Music Video](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
 - [Simple Minds   Someone Somewhere in Summertime   1982](https://www.youtube.com/watch?v=RUedmyr2G0M)
-- [The Call - The Walls Came Down (1983)](https://www.youtube.com/watch?v=vAxg8nuvPKM)
+- [The Call - The Walls Came Down 1983](https://www.youtube.com/watch?v=vAxg8nuvPKM)
 - [Stay With Me](https://www.youtube.com/watch?v=at4xD2nlZJE)
 - [The Alarm - Rescue Me](https://www.youtube.com/watch?v=gR4HvXES0C0)
 - [The Human League - Mirror Man](https://www.youtube.com/watch?v=MMu1T_Tg5Fw)
 - [Lloyd Cole And The Commotions - Rattlesnakes](https://www.youtube.com/watch?v=gSc46sEZdl4)
 - [Bow Wow Wow - The man mountain](https://www.youtube.com/watch?v=O3bjHyc8AOo)
-- [Stephen Tin Tin Duffy - 'Kiss Me'](https://www.youtube.com/watch?v=ZwQlwdSphGo)
-- [Marillion - Assassing (Official Video)](https://www.youtube.com/watch?v=iIOjah-bnDc)
-- [Thompson Twins - Doctor! Doctor! (Video)](https://www.youtube.com/watch?v=Pf0_Be5PPPU)
+- [Stephen Tin Tin Duffy - Kiss Me](https://www.youtube.com/watch?v=ZwQlwdSphGo)
+- [Marillion - Assassing Official Video](https://www.youtube.com/watch?v=iIOjah-bnDc)
+- [Thompson Twins - Doctor Doctor Video](https://www.youtube.com/watch?v=Pf0_Be5PPPU)
 
 ## Release Images
 {{< imageGrid >}}

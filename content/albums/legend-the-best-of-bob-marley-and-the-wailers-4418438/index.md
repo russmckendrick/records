@@ -48,12 +48,12 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 
 
 ## Videos
-### Bob Marley & The Wailers – Could You Be Loved 12"
-{{< youtube id="3QUU_qqwkfo" title="Bob Marley & The Wailers – Could You Be Loved 12"" >}}<br>
+### Bob Marley  The Wailers  Could You Be Loved 12
+{{< youtube id="3QUU_qqwkfo" title="Bob Marley  The Wailers  Could You Be Loved 12" >}}<br>
 ### More Videos
 
-- [Bob Marley - One Love 1984 (Official Music Video) Remastered @Videos80s](https://www.youtube.com/watch?v=-cY0MR-Ddd0)
-- [BOB MARLEY & THE WAILERS ~ One Love / People Get Ready](https://www.youtube.com/watch?v=VsnUMAjTr8o)
+- [Bob Marley - One Love 1984 Official Music Video Remastered Videos80s](https://www.youtube.com/watch?v=-cY0MR-Ddd0)
+- [BOB MARLEY  THE WAILERS  One Love  People Get Ready](https://www.youtube.com/watch?v=VsnUMAjTr8o)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,7 +40,7 @@ styles: []
 {{< youtube id="5DwsT7QCf3M" title="True Faith" >}}<br>
 ### More Videos
 
-- [I'm Not in Love](https://www.youtube.com/watch?v=5GUyKPcIgFg)
+- [Im Not in Love](https://www.youtube.com/watch?v=5GUyKPcIgFg)
 - [Nothing You Can Do](https://www.youtube.com/watch?v=pVeGgakuIJk)
 - [Evangeline](https://www.youtube.com/watch?v=3FcaFSIQKww)
 - [Sunshine After the Rain](https://www.youtube.com/watch?v=0kLsI7nnp9g)

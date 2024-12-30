@@ -52,8 +52,8 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 
 
 ## Videos
-### Heathen (The Rays)
-{{< youtube id="6V_Sqv0qolw" title="Heathen (The Rays)" >}}<br>
+### Heathen The Rays
+{{< youtube id="6V_Sqv0qolw" title="Heathen The Rays" >}}<br>
 ### More Videos
 
 - [Sunday](https://www.youtube.com/watch?v=8IWjDoR_Qfc)

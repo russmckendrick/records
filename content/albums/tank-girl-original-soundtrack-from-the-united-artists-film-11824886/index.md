@@ -42,22 +42,22 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 
 ## Videos
-### Ripper's Sole (O.S.T.)
-{{< youtube id="8ric_N_AGD8" title="Ripper's Sole (O.S.T.)" >}}<br>
+### Rippers Sole OST
+{{< youtube id="8ric_N_AGD8" title="Rippers Sole OST" >}}<br>
 ### More Videos
 
 - [Army Of Me](https://www.youtube.com/watch?v=a19X695w3No)
-- [Girl U Want (O.S.T.)](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
-- [Mockingbird Girl (O.S.T.)](https://www.youtube.com/watch?v=6TqnZEe-6K8)
-- [Shove (O.S.T.)](https://www.youtube.com/watch?v=itXA0NPMu7M)
-- [Drown Soda (O.S.T.)](https://www.youtube.com/watch?v=MisB3HHSffU)
-- [Bomb (O.S.T.)](https://www.youtube.com/watch?v=yTz1Mdv5aj0)
-- [Roads (O.S.T.)](https://www.youtube.com/watch?v=uvOkWj1USBE)
-- [Let's Do It (O.S.T.)](https://www.youtube.com/watch?v=xi8i08ve4hE)
-- [Thief (O.S.T.)](https://www.youtube.com/watch?v=-MjlENtpyxc)
-- [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
-- [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
-- [GRAEME REVELL - Tank Girl (Complete Score)](https://www.youtube.com/watch?v=M_i-5OHSiV0)
+- [Girl U Want OST](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
+- [Mockingbird Girl OST](https://www.youtube.com/watch?v=6TqnZEe-6K8)
+- [Shove OST](https://www.youtube.com/watch?v=itXA0NPMu7M)
+- [Drown Soda OST](https://www.youtube.com/watch?v=MisB3HHSffU)
+- [Bomb OST](https://www.youtube.com/watch?v=yTz1Mdv5aj0)
+- [Roads OST](https://www.youtube.com/watch?v=uvOkWj1USBE)
+- [Lets Do It OST](https://www.youtube.com/watch?v=xi8i08ve4hE)
+- [Thief OST](https://www.youtube.com/watch?v=-MjlENtpyxc)
+- [Aurora OST](https://www.youtube.com/watch?v=AeSCsB2uOmI)
+- [Big Gun OST](https://www.youtube.com/watch?v=nmVgLArRbAk)
+- [GRAEME REVELL - Tank Girl Complete Score](https://www.youtube.com/watch?v=M_i-5OHSiV0)
 
 ## Release Images
 {{< imageGrid >}}

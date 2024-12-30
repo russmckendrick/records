@@ -56,15 +56,15 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 
 
 ## Videos
-### Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]
-{{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}<br>
+### Andrew Bird - Left Handed Kisses ft Fiona Apple OFFICIAL VIDEO
+{{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses ft Fiona Apple OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [Andrew Bird - Capsized](https://www.youtube.com/watch?v=b3dw3NHwbvI)
 - [Andrew Bird - Roma Fade](https://www.youtube.com/watch?v=hlKKdBR_ZWw)
 - [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
-- [Andrew Bird - ROMA FADE  (Are You Serious 2016)](https://www.youtube.com/watch?v=wRoj8WzBsJo)
-- [Andrew Bird - Saints Preservus  (Are You Serious 2016)](https://www.youtube.com/watch?v=vXXpcVVR8C4)
+- [Andrew Bird - ROMA FADE  Are You Serious 2016](https://www.youtube.com/watch?v=wRoj8WzBsJo)
+- [Andrew Bird - Saints Preservus  Are You Serious 2016](https://www.youtube.com/watch?v=vXXpcVVR8C4)
 
 ## Release Images
 {{< imageGrid >}}

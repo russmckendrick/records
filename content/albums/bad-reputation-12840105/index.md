@@ -46,11 +46,11 @@ styles: ["Classic Rock", "Punk"]
 
 
 ## Videos
-### Happy Hippie Presents: Androgynous (Performed by Miley Cyrus, Joan Jett & Laura Jane Gr...
-{{< youtube id="ZR6mM_zfxwE" title="Happy Hippie Presents: Androgynous (Performed by Miley Cyrus, Joan Jett & Laura Jane Gr..." >}}<br>
+### Happy Hippie Presents Androgynous Performed by Miley Cyrus Joan Jett  Laura Jane Gr
+{{< youtube id="ZR6mM_zfxwE" title="Happy Hippie Presents Androgynous Performed by Miley Cyrus Joan Jett  Laura Jane Gr" >}}<br>
 ### More Videos
 
-- [Joan Jett and Nirvana - Smells Like Teen Spirit [HD]](https://www.youtube.com/watch?v=ezcncUVJOlU)
+- [Joan Jett and Nirvana - Smells Like Teen Spirit HD](https://www.youtube.com/watch?v=ezcncUVJOlU)
 
 ## Release Images
 {{< imageGrid >}}

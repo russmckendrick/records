@@ -59,12 +59,12 @@ I Learned the Hard Way is the fourth studio album by American soul and funk band
 - [Give It Back](https://www.youtube.com/watch?v=z4TVU24aUq8)
 - [Money](https://www.youtube.com/watch?v=z7jsaXLN4Ks)
 - [The Reason](https://www.youtube.com/watch?v=kGB4DrQg9ho)
-- [Window Shopping - Sharon Jones & Dap Kings](https://www.youtube.com/watch?v=DOZD_zR4XsU)
-- [She Ain't a Child No More](https://www.youtube.com/watch?v=ca-9c_SfA6w)
-- [I'll Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
+- [Window Shopping - Sharon Jones  Dap Kings](https://www.youtube.com/watch?v=DOZD_zR4XsU)
+- [She Aint a Child No More](https://www.youtube.com/watch?v=ca-9c_SfA6w)
+- [Ill Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
 - [Without a Heart](https://www.youtube.com/watch?v=TpBbS1fXhFs)
 - [If You Call](https://www.youtube.com/watch?v=XlenCIefJOM)
-- [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
+- [Mama Dont Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
 
 ## Release Images
 {{< imageGrid >}}

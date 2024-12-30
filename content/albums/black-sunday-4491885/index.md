@@ -49,12 +49,12 @@ Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “L
 
 
 ## Videos
-### Cypress Hill - I Ain't Goin' Out Like That
-{{< youtube id="q7p-ihYOG5s" title="Cypress Hill - I Ain't Goin' Out Like That" >}}<br>
+### Cypress Hill - I Aint Goin Out Like That
+{{< youtube id="q7p-ihYOG5s" title="Cypress Hill - I Aint Goin Out Like That" >}}<br>
 ### More Videos
 
-- [Cypress Hill - Insane In The Brain (Official Video)](https://www.youtube.com/watch?v=RijB8wnJCN0)
-- [Cypress Hill - Black Sunday (Full Album)](https://www.youtube.com/watch?v=ARGFhMihDsQ)
+- [Cypress Hill - Insane In The Brain Official Video](https://www.youtube.com/watch?v=RijB8wnJCN0)
+- [Cypress Hill - Black Sunday Full Album](https://www.youtube.com/watch?v=ARGFhMihDsQ)
 
 ## Release Images
 {{< imageGrid >}}

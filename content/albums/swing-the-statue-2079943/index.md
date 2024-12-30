@@ -42,8 +42,8 @@ Swing the Statue! is the second album by American singer/songwriter Victoria Wil
 
 
 ## Videos
-### Victoria Williams - Tarbelly & Featherfoot
-{{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly & Featherfoot" >}}<br>
+### Victoria Williams - Tarbelly  Featherfoot
+{{< youtube id="YFC00BJ8mLQ" title="Victoria Williams - Tarbelly  Featherfoot" >}}<br>
 ### More Videos
 
 - [Victoria Williams - Why look at the moon](https://www.youtube.com/watch?v=sTWWReyTcl4)

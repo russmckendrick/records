@@ -100,7 +100,7 @@ Brave is the seventh studio album by Marillion, released in 1994. It charted at 
 
 - [Marillion__Brave 1994](https://www.youtube.com/watch?v=9uWiQetKxgY)
 - [Marillion - The great escape](https://www.youtube.com/watch?v=2usQNLslafE)
-- [Brave (1998 Remaster)](https://www.youtube.com/watch?v=SNb2bJ0e9IY)
+- [Brave 1998 Remaster](https://www.youtube.com/watch?v=SNb2bJ0e9IY)
 
 ## Release Images
 {{< imageGrid >}}

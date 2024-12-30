@@ -61,7 +61,7 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 {{< youtube id="Gqzvcj0-kF4" title="SUEDE - THE INVISIBLES" >}}<br>
 ### More Videos
 
-- [Suede - Wastelands (Official Video)](https://www.youtube.com/watch?v=qks__ZNvhiw)
+- [Suede - Wastelands Official Video](https://www.youtube.com/watch?v=qks__ZNvhiw)
 
 ## Release Images
 {{< imageGrid >}}

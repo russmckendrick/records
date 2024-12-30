@@ -54,12 +54,12 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 
 
 ## Videos
-### R.E.M. - Pop Song 89 (Official Music Video) [Pop Screen Video Version]
-{{< youtube id="xjMwfDFypa4" title="R.E.M. - Pop Song 89 (Official Music Video) [Pop Screen Video Version]" >}}<br>
+### REM - Pop Song 89 Official Music Video Pop Screen Video Version
+{{< youtube id="xjMwfDFypa4" title="REM - Pop Song 89 Official Music Video Pop Screen Video Version" >}}<br>
 ### More Videos
 
-- [R.E.M. - Orange Crush (Official Music Video)](https://www.youtube.com/watch?v=_mSmOcmk7uQ)
-- [R.E.M. - Turn You Inside-Out (Official Music Video)](https://www.youtube.com/watch?v=TBS6N1k4FsQ)
+- [REM - Orange Crush Official Music Video](https://www.youtube.com/watch?v=_mSmOcmk7uQ)
+- [REM - Turn You Inside-Out Official Music Video](https://www.youtube.com/watch?v=TBS6N1k4FsQ)
 
 ## Release Images
 {{< imageGrid >}}

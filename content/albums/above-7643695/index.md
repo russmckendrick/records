@@ -63,9 +63,9 @@ Above is the only studio album by the American rock band Mad Season, released on
 - [Wake Up](https://www.youtube.com/watch?v=CcQsRmc65O4)
 - [All Alone](https://www.youtube.com/watch?v=OJar1xAqaWI)
 - [Long Gone Day](https://www.youtube.com/watch?v=-1RdXVQN4ag)
-- [I'm Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
+- [Im Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
 - [Mad Season - River Of Deceit](https://www.youtube.com/watch?v=Fm72DPJCX58)
-- [M̲ad S̲e̲ason - A̲bove (Full Album)](https://www.youtube.com/watch?v=sUnmdQ1iNOc)
+- [Mad Season - Above Full Album](https://www.youtube.com/watch?v=sUnmdQ1iNOc)
 
 ## Release Images
 {{< imageGrid >}}

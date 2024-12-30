@@ -64,12 +64,12 @@ The Japanese bonus track, "Shiroi Kuchibiruno Izanai" is an alternate version of
 
 
 ## Videos
-### Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)
-{{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)" >}}<br>
+### Mew - Fox Cub  Apocalypso  Special  The Zookeepers Boy HD  Lyrics
+{{< youtube id="zqt8-FJsdQU" title="Mew - Fox Cub  Apocalypso  Special  The Zookeepers Boy HD  Lyrics" >}}<br>
 ### More Videos
 
 - [Mew - An envoy to the open fields](https://www.youtube.com/watch?v=PT9Du2wmcqk)
-- [Mew - Fox Cub / Apocalypso / Special / The Zookeeper's Boy (HD + Lyrics)](https://www.youtube.com/watch?v=zqt8-FJsdQU)
+- [Mew - Fox Cub  Apocalypso  Special  The Zookeepers Boy HD  Lyrics](https://www.youtube.com/watch?v=zqt8-FJsdQU)
 - [Circuitry of the Wolf](https://www.youtube.com/watch?v=z1IP0qcimLY)
 
 ## Release Images

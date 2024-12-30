@@ -40,27 +40,27 @@ styles: []
 
 
 ## Videos
-### Prince - Batdance (Official Music Video)
-{{< youtube id="ulOLYnOthIw" title="Prince - Batdance (Official Music Video)" >}}<br>
+### Prince - Batdance Official Music Video
+{{< youtube id="ulOLYnOthIw" title="Prince - Batdance Official Music Video" >}}<br>
 ### More Videos
 
-- [Prince - Partyman (Official Music Video)](https://www.youtube.com/watch?v=AjY8HvpNu6o)
+- [Prince - Partyman Official Music Video](https://www.youtube.com/watch?v=AjY8HvpNu6o)
 - [The Future](https://www.youtube.com/watch?v=vzBmOEAIOHc)
 - [Trust](https://www.youtube.com/watch?v=jsw0Sht66BA)
-- [Batman - Partyman (Museum Scene)](https://www.youtube.com/watch?v=yjD9X2mPIXY)
-- [Prince - Trust (Batman, 1989 Soundtrack) - www.glianni80.it](https://www.youtube.com/watch?v=-aL7x3ESiUw)
+- [Batman - Partyman Museum Scene](https://www.youtube.com/watch?v=yjD9X2mPIXY)
+- [Prince - Trust Batman 1989 Soundtrack - wwwglianni80it](https://www.youtube.com/watch?v=-aL7x3ESiUw)
 - [Scandalous](https://www.youtube.com/watch?v=QN4EB8z4oTA)
-- [7 | Batman™ (Motion Picture Soundtrack) | PRINCE](https://www.youtube.com/watch?v=hijJye-QLzo)
-- [Prince Recording Session - Bass Track For Batman [Footage]](https://www.youtube.com/watch?v=RYCt6pPsjHM)
-- [Prince - Scandalous (Official Music Video)](https://www.youtube.com/watch?v=lGHcJ_-Hhps)
+- [7  Batman Motion Picture Soundtrack  PRINCE](https://www.youtube.com/watch?v=hijJye-QLzo)
+- [Prince Recording Session - Bass Track For Batman Footage](https://www.youtube.com/watch?v=RYCt6pPsjHM)
+- [Prince - Scandalous Official Music Video](https://www.youtube.com/watch?v=lGHcJ_-Hhps)
 - [Electric Chair](https://www.youtube.com/watch?v=kIjZwhHuB5s)
 - [The Arms of Orion](https://www.youtube.com/watch?v=9lFa75IUfuc)
 - [Batman - Up the Cathedral](https://www.youtube.com/watch?v=CWMcY3aVW0s)
-- [Prince “The Future” 2022 Tribute by Monith, 1989 Batman Movie Soundtrack](https://www.youtube.com/watch?v=J25u719RabI)
-- [Prince - Batdance [Audio]](https://www.youtube.com/watch?v=fdNKw_IGJ7o)
-- [Prince - Partyman (1989) #Batman](https://www.youtube.com/watch?v=Mxmu1Ahu3nE)
-- [Prince - Partyman (Extended Version) (Official Music Video)](https://www.youtube.com/watch?v=4zqaTU5bGx8)
-- [Prince - Batdance (Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=XNoOVGOhnkI)
+- [Prince The Future 2022 Tribute by Monith 1989 Batman Movie Soundtrack](https://www.youtube.com/watch?v=J25u719RabI)
+- [Prince - Batdance Audio](https://www.youtube.com/watch?v=fdNKw_IGJ7o)
+- [Prince - Partyman 1989 Batman](https://www.youtube.com/watch?v=Mxmu1Ahu3nE)
+- [Prince - Partyman Extended Version Official Music Video](https://www.youtube.com/watch?v=4zqaTU5bGx8)
+- [Prince - Batdance Official Music Video HD Upgrade](https://www.youtube.com/watch?v=XNoOVGOhnkI)
 
 ## Release Images
 {{< imageGrid >}}

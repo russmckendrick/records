@@ -57,25 +57,25 @@ Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the 
 
 
 ## Videos
-### Ryan Adams - New York, New York
-{{< youtube id="hmHgY_J63Ik" title="Ryan Adams - New York, New York" >}}<br>
+### Ryan Adams - New York New York
+{{< youtube id="hmHgY_J63Ik" title="Ryan Adams - New York New York" >}}<br>
 ### More Videos
 
 - [Ryan Adams - Answering Bell](https://www.youtube.com/watch?v=Grkn6x6VWms)
 - [Ryan Adams - La Cienega Just Smiled](https://www.youtube.com/watch?v=OWvbjENrgbY)
 - [The Rescue Blues](https://www.youtube.com/watch?v=ulWV9aq2XAc)
-- [Harder Now That It's Over](https://www.youtube.com/watch?v=6y36J92PNAI)
+- [Harder Now That Its Over](https://www.youtube.com/watch?v=6y36J92PNAI)
 - [Wild Flowers](https://www.youtube.com/watch?v=dPy-ZQmUBcA)
 - [Firecracker](https://www.youtube.com/watch?v=S0wJzydLPWY)
 - [Gonna Make You Love Me](https://www.youtube.com/watch?v=lkm9MscAryw)
-- [Ryan Adams, "Rosalie Come and Go"](https://www.youtube.com/watch?v=oWgtiCAkgQ4)
+- [Ryan Adams Rosalie Come and Go](https://www.youtube.com/watch?v=oWgtiCAkgQ4)
 - [Enemy Fire](https://www.youtube.com/watch?v=DVNj-BHFGXw)
 - [When The Stars Go Blue](https://www.youtube.com/watch?v=-zBx58U58qM)
-- [#14 Ryan Adams - Touch, Feel, & Loose](https://www.youtube.com/watch?v=4CRs-4CEcZg)
-- [Tina Toledo's Street Walkin' Blues](https://www.youtube.com/watch?v=YJUk4Zen1Qg)
-- [Somehow, Someday](https://www.youtube.com/watch?v=JSkm60_U-1c)
+- [14 Ryan Adams - Touch Feel  Loose](https://www.youtube.com/watch?v=4CRs-4CEcZg)
+- [Tina Toledos Street Walkin Blues](https://www.youtube.com/watch?v=YJUk4Zen1Qg)
+- [Somehow Someday](https://www.youtube.com/watch?v=JSkm60_U-1c)
 - [Sylvia Plath](https://www.youtube.com/watch?v=-xx6TFd9Xmw)
-- [Touch, Feel & Lose](https://www.youtube.com/watch?v=yUDIF-bmjV8)
+- [Touch Feel  Lose](https://www.youtube.com/watch?v=yUDIF-bmjV8)
 - [Ryan Adams - Nobody Girl](https://www.youtube.com/watch?v=jMfQOEZ-WAw)
 
 ## Release Images

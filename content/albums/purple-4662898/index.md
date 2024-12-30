@@ -56,17 +56,17 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 {{< youtube id="fsdYCOJk7bw" title="Stone Temple Pilots - Meat Plow" >}}<br>
 ### More Videos
 
-- [Stone Temple Pilots - Vasoline (Official Music Video) [HD]](https://www.youtube.com/watch?v=ht672-wYelc)
+- [Stone Temple Pilots - Vasoline Official Music Video HD](https://www.youtube.com/watch?v=ht672-wYelc)
 - [Stone Temple Pilots - Lounge Fly](https://www.youtube.com/watch?v=ddhpFjyuNWI)
-- [Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
-- [Stone Temple Pilots - Still Remains (Official Audio)](https://www.youtube.com/watch?v=WTasut-sR_8)
+- [Stone Temple Pilots - Interstate Love Song Official Music Video HD](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
+- [Stone Temple Pilots - Still Remains Official Audio](https://www.youtube.com/watch?v=WTasut-sR_8)
 - [Stone Temple Pilots - Pretty Penny](https://www.youtube.com/watch?v=UWj73gYZDUk)
 - [Stone Temple Pilots - Silver Gun Superman](https://www.youtube.com/watch?v=bmVZDopspPU)
-- [Stone Temple Pilots - Big Empty (The Crow. Soundtrack)](https://www.youtube.com/watch?v=0YoMUcvKcBQ)
+- [Stone Temple Pilots - Big Empty The Crow Soundtrack](https://www.youtube.com/watch?v=0YoMUcvKcBQ)
 - [Stone Temple Pilots - Big Empty](https://www.youtube.com/watch?v=GqyposaQWnI)
 - [Stone Temple Pilots - Unglued](https://www.youtube.com/watch?v=t8BQq5gRM6Y)
 - [Stone Temple Pilots - Army Ants](https://www.youtube.com/watch?v=rDy4P0FXkmA)
-- [Stone Temple Pilots - Kitchen Ware & Candy Bars](https://www.youtube.com/watch?v=t_23iOhv09k)
+- [Stone Temple Pilots - Kitchen Ware  Candy Bars](https://www.youtube.com/watch?v=t_23iOhv09k)
 
 ## Release Images
 {{< imageGrid >}}

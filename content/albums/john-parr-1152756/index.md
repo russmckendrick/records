@@ -47,13 +47,13 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 
 
 ## Videos
-### John Parr - Magical [lyrics] (HQ Sound) (AOR/Melodic Rock)
-{{< youtube id="KebmenJpGwM" title="John Parr - Magical [lyrics] (HQ Sound) (AOR/Melodic Rock)" >}}<br>
+### John Parr - Magical lyrics HQ Sound AORMelodic Rock
+{{< youtube id="KebmenJpGwM" title="John Parr - Magical lyrics HQ Sound AORMelodic Rock" >}}<br>
 ### More Videos
 
-- [Magical | John Parr | 1984 Atlantic LP](https://www.youtube.com/watch?v=oFRbMUgv56U)
-- [John Parr - Naughty naughty [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=KVt1BcSzaVs)
-- [John Parr - John Parr 1984 [Full Album]](https://www.youtube.com/watch?v=GektcmKmB5Q)
+- [Magical  John Parr  1984 Atlantic LP](https://www.youtube.com/watch?v=oFRbMUgv56U)
+- [John Parr - Naughty naughty lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=KVt1BcSzaVs)
+- [John Parr - John Parr 1984 Full Album](https://www.youtube.com/watch?v=GektcmKmB5Q)
 
 ## Release Images
 {{< imageGrid >}}

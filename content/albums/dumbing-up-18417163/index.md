@@ -61,25 +61,25 @@ Dumbing Up is the fifth and final studio album by World Party, released in 2000 
 
 
 ## Videos
-### World Party - Is It Like Today?
-{{< youtube id="0tyLGi2LtlU" title="World Party - Is It Like Today?" >}}<br>
+### World Party - Is It Like Today
+{{< youtube id="0tyLGi2LtlU" title="World Party - Is It Like Today" >}}<br>
 ### More Videos
 
-- [World Party - What Does It Mean Now?](https://www.youtube.com/watch?v=4Bc56d0jtdk)
-- [I THOUGHT YOU WERE A SPY (2006) by World Party featuring Karl Wallinger](https://www.youtube.com/watch?v=yh6kFK15ZJ0)
-- [World Party - Who Are You? (Live)](https://www.youtube.com/watch?v=-wPyehctfwg)
+- [World Party - What Does It Mean Now](https://www.youtube.com/watch?v=4Bc56d0jtdk)
+- [I THOUGHT YOU WERE A SPY 2006 by World Party featuring Karl Wallinger](https://www.youtube.com/watch?v=yh6kFK15ZJ0)
+- [World Party - Who Are You Live](https://www.youtube.com/watch?v=-wPyehctfwg)
 - [World Party - Here Comes The Future](https://www.youtube.com/watch?v=AFn1kWOgkiY)
 - [Always On My Mind](https://www.youtube.com/watch?v=MZt_WxMSGls)
-- [You're a Hurricane, I'm a Caravan](https://www.youtube.com/watch?v=o1i-yYuQWDw)
+- [Youre a Hurricane Im a Caravan](https://www.youtube.com/watch?v=o1i-yYuQWDw)
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
 - [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
-- [World Party - Is It Like Today?](https://www.youtube.com/watch?v=0tyLGi2LtlU)
-- [World Party - What Does It Mean Now?](https://www.youtube.com/watch?v=4Bc56d0jtdk)
-- [I THOUGHT YOU WERE A SPY (2006) by World Party featuring Karl Wallinger](https://www.youtube.com/watch?v=yh6kFK15ZJ0)
-- [World Party - Who Are You? (Live)](https://www.youtube.com/watch?v=-wPyehctfwg)
+- [World Party - Is It Like Today](https://www.youtube.com/watch?v=0tyLGi2LtlU)
+- [World Party - What Does It Mean Now](https://www.youtube.com/watch?v=4Bc56d0jtdk)
+- [I THOUGHT YOU WERE A SPY 2006 by World Party featuring Karl Wallinger](https://www.youtube.com/watch?v=yh6kFK15ZJ0)
+- [World Party - Who Are You Live](https://www.youtube.com/watch?v=-wPyehctfwg)
 - [World Party - Here Comes The Future](https://www.youtube.com/watch?v=AFn1kWOgkiY)
 - [Always On My Mind](https://www.youtube.com/watch?v=MZt_WxMSGls)
-- [You're a Hurricane, I'm a Caravan](https://www.youtube.com/watch?v=o1i-yYuQWDw)
+- [Youre a Hurricane Im a Caravan](https://www.youtube.com/watch?v=o1i-yYuQWDw)
 - [See the Light](https://www.youtube.com/watch?v=9oWxP5Pk8Wc)
 - [World Party - Always On My Mind](https://www.youtube.com/watch?v=rN1GCf3MwoE)
 

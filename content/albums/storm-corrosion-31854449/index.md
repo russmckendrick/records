@@ -38,21 +38,21 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 
 
 ## Videos
-### Storm Corrosion - Drag Ropes [OFFICIAL VIDEO]
-{{< youtube id="manW5v-AR7U" title="Storm Corrosion - Drag Ropes [OFFICIAL VIDEO]" >}}<br>
+### Storm Corrosion - Drag Ropes OFFICIAL VIDEO
+{{< youtube id="manW5v-AR7U" title="Storm Corrosion - Drag Ropes OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [Storm corrosion - Storm corrosion](https://www.youtube.com/watch?v=tVuSKk_fs1o)
-- [Storm Corrosion - Drag Ropes [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=manW5v-AR7U)
+- [Storm Corrosion - Drag Ropes OFFICIAL VIDEO](https://www.youtube.com/watch?v=manW5v-AR7U)
 - [Storm Corrosion](https://www.youtube.com/watch?v=LNrMT4iD9CY)
 - [Storm Corrosion - Song Structure](https://www.youtube.com/watch?v=QSuEjr2oQhc)
-- [Storm Corrosion - Fan Q&A - What You're Listening To](https://www.youtube.com/watch?v=u5sFcwRgSWI)
+- [Storm Corrosion - Fan QA - What Youre Listening To](https://www.youtube.com/watch?v=u5sFcwRgSWI)
 - [Hag](https://www.youtube.com/watch?v=csMjP88wNmY)
 - [Happy](https://www.youtube.com/watch?v=kWyRTWTGZfA)
 - [Lock Howl](https://www.youtube.com/watch?v=qPvgJtw1G1A)
 - [Storm Corrosion - Ljudet Innan](https://www.youtube.com/watch?v=3Eg2qV1LpCE)
-- [Drag Ropes (demo)](https://www.youtube.com/watch?v=ljBKyqYNnok)
-- [Hag (demo)](https://www.youtube.com/watch?v=1xxu2SqziRg)
+- [Drag Ropes demo](https://www.youtube.com/watch?v=ljBKyqYNnok)
+- [Hag demo](https://www.youtube.com/watch?v=1xxu2SqziRg)
 
 ## Release Images
 {{< imageGrid >}}

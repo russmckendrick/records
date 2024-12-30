@@ -45,8 +45,8 @@ styles: ["Country Blues"]
 
 
 ## Videos
-### Avalon blues - The complete 1928 okeh recordings (full album)
-{{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings (full album)" >}}<br>
+### Avalon blues - The complete 1928 okeh recordings full album
+{{< youtube id="u8EraarVcKI" title="Avalon blues - The complete 1928 okeh recordings full album" >}}<br>
 
 
 ## Release Images

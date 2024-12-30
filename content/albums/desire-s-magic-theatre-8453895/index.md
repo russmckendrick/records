@@ -48,11 +48,11 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ### More Videos
 
 - [Purson - The Window Cleaner](https://www.youtube.com/watch?v=_3hDNfKJON0)
-- [Desire's Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
+- [Desires Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
 - [Purson - Electric Landlady](https://www.youtube.com/watch?v=boscR_9EE5Q)
 - [I Know](https://www.youtube.com/watch?v=759rlxiJGeI)
-- [Desire's Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
-- [Purson - Desire’s Magic Theatre Full album](https://www.youtube.com/watch?v=JK6R94X01dI)
+- [Desires Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
+- [Purson - Desires Magic Theatre Full album](https://www.youtube.com/watch?v=JK6R94X01dI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,15 +47,15 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 
 
 ## Videos
-### T'Pau - Heart And Soul
-{{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul" >}}<br>
+### TPau - Heart And Soul
+{{< youtube id="SwrYMWoqg5w" title="TPau - Heart And Soul" >}}<br>
 ### More Videos
 
-- [T'Pau - China In Your Hand (Official Video)](https://www.youtube.com/watch?v=T4sV3lqzKqQ)
-- [T'Pau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
-- [T'Pau - Sex Talk](https://www.youtube.com/watch?v=8FNiOmSyv3k)
-- [T'Pau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
-- [T'Pau - I Will Be With You](https://www.youtube.com/watch?v=W4r4STREKhg)
+- [TPau - China In Your Hand Official Video](https://www.youtube.com/watch?v=T4sV3lqzKqQ)
+- [TPau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
+- [TPau - Sex Talk](https://www.youtube.com/watch?v=8FNiOmSyv3k)
+- [TPau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
+- [TPau - I Will Be With You](https://www.youtube.com/watch?v=W4r4STREKhg)
 - [I Will Be With You](https://www.youtube.com/watch?v=IdoOS59BseI)
 - [China In Your Hand](https://www.youtube.com/watch?v=RrJwccZBl-w)
 - [Friends Like These](https://www.youtube.com/watch?v=y3bSkX4DbWY)
@@ -63,7 +63,7 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 - [Valentine](https://www.youtube.com/watch?v=M8VGy8CStLk)
 - [Thank You For Goodbye](https://www.youtube.com/watch?v=6QTQ94GxriA)
 - [You Give Up](https://www.youtube.com/watch?v=PyrRTwqk46g)
-- [China In Your Hand (Reprise)](https://www.youtube.com/watch?v=2lSNvSDAzHw)
+- [China In Your Hand Reprise](https://www.youtube.com/watch?v=2lSNvSDAzHw)
 
 ## Release Images
 {{< imageGrid >}}

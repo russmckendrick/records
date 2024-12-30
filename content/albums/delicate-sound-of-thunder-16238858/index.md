@@ -99,7 +99,7 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 ### More Videos
 
 - [Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 2](https://www.youtube.com/watch?v=nz3aH7ZX9CY)
-- [Pink Floyd - Run Like Hell (Live, Delicate Sound Of Thunder) [2019 Remix]](https://www.youtube.com/watch?v=tepWRMseQiM)
+- [Pink Floyd - Run Like Hell Live Delicate Sound Of Thunder 2019 Remix](https://www.youtube.com/watch?v=tepWRMseQiM)
 
 ## Release Images
 {{< imageGrid >}}

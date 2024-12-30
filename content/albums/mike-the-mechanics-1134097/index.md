@@ -38,8 +38,8 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Mike + The Mechanics - Silent Running (On Dangerous Ground)
-{{< youtube id="VvajKY8drPY" title="Mike + The Mechanics - Silent Running (On Dangerous Ground)" >}}<br>
+### Mike  The Mechanics - Silent Running On Dangerous Ground
+{{< youtube id="VvajKY8drPY" title="Mike  The Mechanics - Silent Running On Dangerous Ground" >}}<br>
 ### More Videos
 
 - [Mike and the mechanics --   02 All I Need Is A Miracle-- HQ Audio](https://www.youtube.com/watch?v=X1uwIs_Jbq0)
@@ -47,10 +47,10 @@ styles: ["Pop Rock", "Synth-pop"]
 - [Mike and the Mechanics- Hanging by a Thread](https://www.youtube.com/watch?v=O94HHm_Tu-g)
 - [I Get the Feeling](https://www.youtube.com/watch?v=H3Qt7mex5tY)
 - [Take the Reins](https://www.youtube.com/watch?v=SR5M-jDO94M)
-- [Mike + The Mechanics - You Are the One](https://www.youtube.com/watch?v=b8mnkOoHiHA)
-- [Mike + The Mechanics - Taken In](https://www.youtube.com/watch?v=b4mGALRHay0)
-- [Mike + The Mechanics - A Call to Arms](https://www.youtube.com/watch?v=-sw76G3WF8s)
-- [Mike + The Mechanics - Taken In](https://www.youtube.com/watch?v=soKMaQbht60)
+- [Mike  The Mechanics - You Are the One](https://www.youtube.com/watch?v=b8mnkOoHiHA)
+- [Mike  The Mechanics - Taken In](https://www.youtube.com/watch?v=b4mGALRHay0)
+- [Mike  The Mechanics - A Call to Arms](https://www.youtube.com/watch?v=-sw76G3WF8s)
+- [Mike  The Mechanics - Taken In](https://www.youtube.com/watch?v=soKMaQbht60)
 
 ## Release Images
 {{< imageGrid >}}

@@ -49,7 +49,7 @@ styles: ["Indie Rock", "Indie Pop"]
 {{< youtube id="r5Or6-HOveg" title="Stars - Your Ex-Lover Is Dead" >}}<br>
 ### More Videos
 
-- [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
+- [Stars - Set Yourself On Fire Live in Sydney  Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 - [Stars - Ageless Beauty](https://www.youtube.com/watch?v=JKg17Gc8WCI)
 - [Stars - Reunion](https://www.youtube.com/watch?v=KnZt39OKfcc)
 - [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)

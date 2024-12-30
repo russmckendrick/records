@@ -49,20 +49,20 @@ Wilson has stated that she had been working on the album for several years with 
 
 
 ## Videos
-### Cindy Wilson - Mystic (from Change)
-{{< youtube id="qRYxvzS5BS4" title="Cindy Wilson - Mystic (from Change)" >}}<br>
+### Cindy Wilson - Mystic from Change
+{{< youtube id="qRYxvzS5BS4" title="Cindy Wilson - Mystic from Change" >}}<br>
 ### More Videos
 
-- [Cindy Wilson - Brother (Official Music Video from Change)](https://www.youtube.com/watch?v=uXfbuIapMfI)
-- [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
-- [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
-- [Cindy Wilson - Mystic (from Change)](https://www.youtube.com/watch?v=qRYxvzS5BS4)
-- [Cindy Wilson - Brother (Official Music Video from Change)](https://www.youtube.com/watch?v=uXfbuIapMfI)
-- [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
-- [Cindy Wilson - Brother (from Change)](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
-- [Cindy Wilson - Mystic (from Change)](https://www.youtube.com/watch?v=qRYxvzS5BS4)
-- [Cindy Wilson - No One Can Tell You (from Change)](https://www.youtube.com/watch?v=PT_tp3iFoCc)
-- [Cindy Wilson - Brother (Official Music Video from Change)](https://www.youtube.com/watch?v=uXfbuIapMfI)
+- [Cindy Wilson - Brother Official Music Video from Change](https://www.youtube.com/watch?v=uXfbuIapMfI)
+- [Cindy Wilson - No One Can Tell You from Change](https://www.youtube.com/watch?v=PT_tp3iFoCc)
+- [Cindy Wilson - Brother from Change](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
+- [Cindy Wilson - Mystic from Change](https://www.youtube.com/watch?v=qRYxvzS5BS4)
+- [Cindy Wilson - Brother Official Music Video from Change](https://www.youtube.com/watch?v=uXfbuIapMfI)
+- [Cindy Wilson - No One Can Tell You from Change](https://www.youtube.com/watch?v=PT_tp3iFoCc)
+- [Cindy Wilson - Brother from Change](https://www.youtube.com/watch?v=jUhKP3ZkiN0)
+- [Cindy Wilson - Mystic from Change](https://www.youtube.com/watch?v=qRYxvzS5BS4)
+- [Cindy Wilson - No One Can Tell You from Change](https://www.youtube.com/watch?v=PT_tp3iFoCc)
+- [Cindy Wilson - Brother Official Music Video from Change](https://www.youtube.com/watch?v=uXfbuIapMfI)
 
 ## Release Images
 {{< imageGrid >}}

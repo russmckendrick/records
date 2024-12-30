@@ -63,7 +63,7 @@ The song "Nothing to Do with Me" features lyrics derived from English satirist C
 - [Spacemoth](https://www.youtube.com/watch?v=hkp5Q5YGUOY)
 - [Baby Lulu](https://www.youtube.com/watch?v=ZUIx84vrOa0)
 - [Stereolab - Hallucinex](https://www.youtube.com/watch?v=pZ93HuSKSKU)
-- [Stereolab - Naught More Terrific Than Man (Sound-Dust, 2001)](https://www.youtube.com/watch?v=X26PVS8I5m4)
+- [Stereolab - Naught More Terrific Than Man Sound-Dust 2001](https://www.youtube.com/watch?v=X26PVS8I5m4)
 - [Les Bon Bons Des Raisons](https://www.youtube.com/watch?v=PHzDJRFtQb0)
 - [Spacemoth Demo](https://www.youtube.com/watch?v=-9BvTXYnRwo)
 - [Nothing To Do With Me](https://www.youtube.com/watch?v=TAyFNLfWtD8)

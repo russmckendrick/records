@@ -56,7 +56,7 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 - [Lambchop - Up With People](https://www.youtube.com/watch?v=M4PxY_RPBeM)
 - [Nashville Parent](https://www.youtube.com/watch?v=uETqdop3NHw)
 - [What Else Could It Be](https://www.youtube.com/watch?v=-MjootNdfQg)
-- [The Distance from Her....](https://www.youtube.com/watch?v=c88_8Hn1x9c)
+- [The Distance from Her](https://www.youtube.com/watch?v=c88_8Hn1x9c)
 - [The Book I Havent Read](https://www.youtube.com/watch?v=ZK3g-33UNao)
 - [Petrified Florist](https://www.youtube.com/watch?v=jNyZOoNuSRI)
 - [Butcher Boy](https://www.youtube.com/watch?v=wTxTgYEYpRw)

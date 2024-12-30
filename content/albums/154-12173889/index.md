@@ -51,27 +51,27 @@ Following the album's release, a falling out with the band's record label, EMI, 
 
 
 ## Videos
-### I Should Have Known Better (2006 Remastered Version)
-{{< youtube id="FxigNmhB5KM" title="I Should Have Known Better (2006 Remastered Version)" >}}<br>
+### I Should Have Known Better 2006 Remastered Version
+{{< youtube id="FxigNmhB5KM" title="I Should Have Known Better 2006 Remastered Version" >}}<br>
 ### More Videos
 
-- [Two People In a Room (2006 Remastered Version)](https://www.youtube.com/watch?v=KjRzgZYpoPQ)
-- [The 15th (2006 Remastered Version)](https://www.youtube.com/watch?v=azpgFemktHg)
-- [The Other Window (2006 Remastered Version)](https://www.youtube.com/watch?v=sAhntpY7Pg0)
-- [Single K.O. (2006 Remastered Version)](https://www.youtube.com/watch?v=YSIXgqsSW6g)
-- [A Touching Display (2006 Remastered Version)](https://www.youtube.com/watch?v=1Fq-56TdMcw)
-- [On Returning (2006 Remastered Version)](https://www.youtube.com/watch?v=DuQvvh-9aCM)
-- [A Mutual Friend (2006 Remastered Version)](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
-- [Blessed State (2006 Remastered Version)](https://www.youtube.com/watch?v=LeCI9kww3Dk)
-- [Once Is Enough (2006 Remastered Version)](https://www.youtube.com/watch?v=OQr6TVdPWxo)
-- [Map Ref 41 Degrees N 93 Degrees W (2006 Remastered Version)](https://www.youtube.com/watch?v=UKYbylOZB1o)
-- [Indirect Enquiries (2006 Remastered Version)](https://www.youtube.com/watch?v=_1E7brhqdtE)
-- [40 Versions (2006 Remastered Version)](https://www.youtube.com/watch?v=HVR9obMPABw)
+- [Two People In a Room 2006 Remastered Version](https://www.youtube.com/watch?v=KjRzgZYpoPQ)
+- [The 15th 2006 Remastered Version](https://www.youtube.com/watch?v=azpgFemktHg)
+- [The Other Window 2006 Remastered Version](https://www.youtube.com/watch?v=sAhntpY7Pg0)
+- [Single KO 2006 Remastered Version](https://www.youtube.com/watch?v=YSIXgqsSW6g)
+- [A Touching Display 2006 Remastered Version](https://www.youtube.com/watch?v=1Fq-56TdMcw)
+- [On Returning 2006 Remastered Version](https://www.youtube.com/watch?v=DuQvvh-9aCM)
+- [A Mutual Friend 2006 Remastered Version](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
+- [Blessed State 2006 Remastered Version](https://www.youtube.com/watch?v=LeCI9kww3Dk)
+- [Once Is Enough 2006 Remastered Version](https://www.youtube.com/watch?v=OQr6TVdPWxo)
+- [Map Ref 41 Degrees N 93 Degrees W 2006 Remastered Version](https://www.youtube.com/watch?v=UKYbylOZB1o)
+- [Indirect Enquiries 2006 Remastered Version](https://www.youtube.com/watch?v=_1E7brhqdtE)
+- [40 Versions 2006 Remastered Version](https://www.youtube.com/watch?v=HVR9obMPABw)
 - [WIRE song 1 1979](https://www.youtube.com/watch?v=ZlJu7FZRHxc)
-- [Wire - Get Down (Parts I & II)](https://www.youtube.com/watch?v=UaK7_m-pZsU)
-- [WIRE let's panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
+- [Wire - Get Down Parts I  II](https://www.youtube.com/watch?v=UaK7_m-pZsU)
+- [WIRE lets panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
 - [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
-- [Wire - Single KO (HQ)](https://www.youtube.com/watch?v=2JfLIxCtU-s)
+- [Wire - Single KO HQ](https://www.youtube.com/watch?v=2JfLIxCtU-s)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,17 +54,17 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 
 - [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
 - [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
-- [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
-- [Charles Bradley "Changes" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
+- [Aint Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
+- [Charles Bradley Changes OFFICIAL VIDEO](https://www.youtube.com/watch?v=xi49yirJiEA)
 - [God Bless America](https://www.youtube.com/watch?v=Ntu_2beC9Ts)
 - [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
 - [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
-- [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
-- [Charles Bradley "Changes" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
-- [Charles Bradley - Ain't Gonna Give It Up (HD)](https://www.youtube.com/watch?v=3A4TiEHop8k)
-- [Charles Bradley - Changes | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=dhYSGPxlHks)
-- [Charles Bradley - Lovin' You, Baby | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=2De8gYv2EOQ)
-- [Charles Bradley - Ain't It A Sin | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=xwr-Oejggfs)
+- [Aint Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
+- [Charles Bradley Changes OFFICIAL VIDEO](https://www.youtube.com/watch?v=xi49yirJiEA)
+- [Charles Bradley - Aint Gonna Give It Up HD](https://www.youtube.com/watch?v=3A4TiEHop8k)
+- [Charles Bradley - Changes  Instore at Rough Trade East London](https://www.youtube.com/watch?v=dhYSGPxlHks)
+- [Charles Bradley - Lovin You Baby  Instore at Rough Trade East London](https://www.youtube.com/watch?v=2De8gYv2EOQ)
+- [Charles Bradley - Aint It A Sin  Instore at Rough Trade East London](https://www.youtube.com/watch?v=xwr-Oejggfs)
 
 ## Release Images
 {{< imageGrid >}}

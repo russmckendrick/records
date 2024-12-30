@@ -44,11 +44,11 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 
 
 ## Videos
-### Split Enz - Give It A Whirl (Official Video)
-{{< youtube id="IQuRnQK7BcM" title="Split Enz - Give It A Whirl (Official Video)" >}}<br>
+### Split Enz - Give It A Whirl Official Video
+{{< youtube id="IQuRnQK7BcM" title="Split Enz - Give It A Whirl Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - I See Red (Official Video)](https://www.youtube.com/watch?v=TFIrKWg89r4)
+- [Split Enz - I See Red Official Video](https://www.youtube.com/watch?v=TFIrKWg89r4)
 - [Split Enz - Famous People](https://www.youtube.com/watch?v=mkKVyCzdaLY)
 
 ## Release Images

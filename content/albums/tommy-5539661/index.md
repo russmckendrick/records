@@ -68,7 +68,7 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 ### More Videos
 
 - [1921](https://www.youtube.com/watch?v=KfUpjZAEH9Y)
-- [The Who - Tommy -  1969 - Full Album - 5.1 surround (STEREO in)](https://www.youtube.com/watch?v=yK-sRSfiXLY)
+- [The Who - Tommy -  1969 - Full Album - 51 surround STEREO in](https://www.youtube.com/watch?v=yK-sRSfiXLY)
 
 ## Release Images
 {{< imageGrid >}}

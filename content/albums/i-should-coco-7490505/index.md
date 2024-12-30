@@ -54,12 +54,12 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 
 
 ## Videos
-### Supergrass - Alright (Official HD Video)
-{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright (Official HD Video)" >}}<br>
+### Supergrass - Alright Official HD Video
+{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright Official HD Video" >}}<br>
 ### More Videos
 
-- [Supergrass - Caught By The Fuzz (Official HD Video - US Version)](https://www.youtube.com/watch?v=GNIMuvbiZcc)
-- [Supergrass - Mansize Rooster (Official HD Video)](https://www.youtube.com/watch?v=dHlLcVHncDw)
+- [Supergrass - Caught By The Fuzz Official HD Video - US Version](https://www.youtube.com/watch?v=GNIMuvbiZcc)
+- [Supergrass - Mansize Rooster Official HD Video](https://www.youtube.com/watch?v=dHlLcVHncDw)
 
 ## Release Images
 {{< imageGrid >}}

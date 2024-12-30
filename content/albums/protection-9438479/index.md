@@ -50,8 +50,8 @@ Protection is the second studio album by English electronic music group Massive 
 
 
 ## Videos
-### M̲a̲s̲s̲i̲v̲e̲ ̲A̲t̲t̲a̲c̲k̲ | P̲r̲o̲t̲e̲c̲t̲i̲o̲n̲ [2K HD inlay artwork]
-{{< youtube id="HfCylD7YOEg" title="M̲a̲s̲s̲i̲v̲e̲ ̲A̲t̲t̲a̲c̲k̲ | P̲r̲o̲t̲e̲c̲t̲i̲o̲n̲ [2K HD inlay artwork]" >}}<br>
+### Massive Attack  Protection 2K HD inlay artwork
+{{< youtube id="HfCylD7YOEg" title="Massive Attack  Protection 2K HD inlay artwork" >}}<br>
 ### More Videos
 
 - [Massive Attack - Protection](https://www.youtube.com/watch?v=Epgo8ixX6Wo)
@@ -60,10 +60,10 @@ Protection is the second studio album by English electronic music group Massive 
 - [Better Things](https://www.youtube.com/watch?v=M-muSqqvFio)
 - [Euro Child](https://www.youtube.com/watch?v=vUceCfTQhow)
 - [Massive Attack - Sly](https://www.youtube.com/watch?v=Dsv21Qq3hOc)
-- [Light My Fire (Live From United Kingdom/1994)](https://www.youtube.com/watch?v=8y3MVfRJ9WA)
+- [Light My Fire Live From United Kingdom1994](https://www.youtube.com/watch?v=8y3MVfRJ9WA)
 - [Heat Miser](https://www.youtube.com/watch?v=cjHg_vysMBU)
-- [Karmacoma (Remastered 2006)](https://www.youtube.com/watch?v=7l3Yv4Lzny4)
-- [M̲a̲s̲s̲i̲v̲e̲ ̲A̲t̲t̲a̲c̲k̲ | P̲r̲o̲t̲e̲c̲t̲i̲o̲n̲ [2K HD inlay artwork]](https://www.youtube.com/watch?v=HfCylD7YOEg)
+- [Karmacoma Remastered 2006](https://www.youtube.com/watch?v=7l3Yv4Lzny4)
+- [Massive Attack  Protection 2K HD inlay artwork](https://www.youtube.com/watch?v=HfCylD7YOEg)
 
 ## Release Images
 {{< imageGrid >}}

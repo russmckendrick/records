@@ -42,16 +42,16 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 
 
 ## Videos
-### Big Pig - I Can't Break Away (Bill&Ted's Exellent Adventure)
-{{< youtube id="eDtAgi31zIc" title="Big Pig - I Can't Break Away (Bill&Ted's Exellent Adventure)" >}}<br>
+### Big Pig - I Cant Break Away BillTeds Exellent Adventure
+{{< youtube id="eDtAgi31zIc" title="Big Pig - I Cant Break Away BillTeds Exellent Adventure" >}}<br>
 ### More Videos
 
 - [In Time by Robbie Rob](https://www.youtube.com/watch?v=H1tu7RNTZaU)
-- [Play With Me - Extreme (Lyrics)](https://www.youtube.com/watch?v=475g0fZNywU)
+- [Play With Me - Extreme Lyrics](https://www.youtube.com/watch?v=475g0fZNywU)
 - [Two Heads Are Better Than One by Power Tool](https://www.youtube.com/watch?v=U56KbegdkGs)
-- [The Boys & the Girls Are Doing It by Vital Signs](https://www.youtube.com/watch?v=4-vucvV7gS0)
-- [Bricklin - Walk Away, Bill & Ted OST (HQ Remaster)](https://www.youtube.com/watch?v=w3AJ8kHh97s)
-- [Glen Burtnik - Not So Far Away [HQ]](https://www.youtube.com/watch?v=gFxlwnV8YsI)
+- [The Boys  the Girls Are Doing It by Vital Signs](https://www.youtube.com/watch?v=4-vucvV7gS0)
+- [Bricklin - Walk Away Bill  Ted OST HQ Remaster](https://www.youtube.com/watch?v=w3AJ8kHh97s)
+- [Glen Burtnik - Not So Far Away HQ](https://www.youtube.com/watch?v=gFxlwnV8YsI)
 - [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
 - [Bricklin - walk away](https://www.youtube.com/watch?v=DrduICZlxFU)
 

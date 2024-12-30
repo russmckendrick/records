@@ -35,11 +35,11 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Nordic Giants - Amplify Human Vibration [Full Album]
-{{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration [Full Album]" >}}<br>
+### Nordic Giants - Amplify Human Vibration Full Album
+{{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration Full Album" >}}<br>
 ### More Videos
 
-- [Nordic Giants - Amplify Human Vibration [Full Album]](https://www.youtube.com/watch?v=b_D76NQA4wU)
+- [Nordic Giants - Amplify Human Vibration Full Album](https://www.youtube.com/watch?v=b_D76NQA4wU)
 
 ## Release Images
 {{< imageGrid >}}

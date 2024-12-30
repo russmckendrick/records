@@ -47,7 +47,7 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 {{< youtube id="wzIS86D1YJc" title="Then Jerico - Big Area" >}}<br>
 ### More Videos
 
-- [Then Jerico - The Big Area - 1989 /LP Album](https://www.youtube.com/watch?v=j2tlBpk8XJk)
+- [Then Jerico - The Big Area - 1989 LP Album](https://www.youtube.com/watch?v=j2tlBpk8XJk)
 
 ## Release Images
 {{< imageGrid >}}

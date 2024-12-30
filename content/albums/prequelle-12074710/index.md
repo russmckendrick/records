@@ -51,13 +51,13 @@ The album was released with five different versions of the cover art, each with 
 
 
 ## Videos
-### Ghost - Rats (Official Music Video)
-{{< youtube id="C_ijc7A5oAc" title="Ghost - Rats (Official Music Video)" >}}<br>
+### Ghost - Rats Official Music Video
+{{< youtube id="C_ijc7A5oAc" title="Ghost - Rats Official Music Video" >}}<br>
 ### More Videos
 
-- [Ghost - Dance Macabre (Official Music Video)](https://www.youtube.com/watch?v=7Gr63DiEUxw)
-- [Ghost - Life Eternal (Palacio de los Deportes Concert Video)](https://www.youtube.com/watch?v=xUSf1bjd4I8)
-- [Ghost - Faith (Lyric Video)](https://www.youtube.com/watch?v=k72ytAFMCI0)
+- [Ghost - Dance Macabre Official Music Video](https://www.youtube.com/watch?v=7Gr63DiEUxw)
+- [Ghost - Life Eternal Palacio de los Deportes Concert Video](https://www.youtube.com/watch?v=xUSf1bjd4I8)
+- [Ghost - Faith Lyric Video](https://www.youtube.com/watch?v=k72ytAFMCI0)
 - [Ashes](https://www.youtube.com/watch?v=XxyGT0B2cHU)
 - [Rats](https://www.youtube.com/watch?v=wwrsoQeh1Ig)
 - [Faith](https://www.youtube.com/watch?v=t9QNheVWL_4)

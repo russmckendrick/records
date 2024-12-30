@@ -64,11 +64,11 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 
 
 ## Videos
-### AC/DC - Who Made Who (Official HD Video)
-{{< youtube id="PiZHNw1MtzI" title="AC/DC - Who Made Who (Official HD Video)" >}}<br>
+### ACDC - Who Made Who Official HD Video
+{{< youtube id="PiZHNw1MtzI" title="ACDC - Who Made Who Official HD Video" >}}<br>
 ### More Videos
 
-- [AC/DC - You Shook Me All Night Long (Official HD Video [Who Made Who])](https://www.youtube.com/watch?v=zWCINQn6k0s)
+- [ACDC - You Shook Me All Night Long Official HD Video Who Made Who](https://www.youtube.com/watch?v=zWCINQn6k0s)
 
 ## Release Images
 {{< imageGrid >}}

@@ -49,8 +49,8 @@ The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The 
 
 
 ## Videos
-### The Slackers - Tin Tin Deo - [ Redlight ]
-{{< youtube id="EggsTYwhYk8" title="The Slackers - Tin Tin Deo - [ Redlight ]" >}}<br>
+### The Slackers - Tin Tin Deo -  Redlight 
+{{< youtube id="EggsTYwhYk8" title="The Slackers - Tin Tin Deo -  Redlight " >}}<br>
 ### More Videos
 
 - [The Slackers- Watch This](https://www.youtube.com/watch?v=z6jNekFYAyg)

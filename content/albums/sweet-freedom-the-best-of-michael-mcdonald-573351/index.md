@@ -49,13 +49,13 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 - [James Ingram and Michael McDonald - Yah Mo Be There](https://www.youtube.com/watch?v=_3rVtcm6pBE)
 - [MICHAEL McDONALD - I Gotta Try](https://www.youtube.com/watch?v=JL4JuGPxsJI)
 - [Our Love](https://www.youtube.com/watch?v=NrkOf2G_jLk)
-- [Michael McDonald - No Lookin' Back (great quality)](https://www.youtube.com/watch?v=x7QKprUnrfg)
-- [[I'll Be Your] Angel](https://www.youtube.com/watch?v=KBcnRdIZFLg)
-- [Michael McDonald  -  I Keep Forgettin'](https://www.youtube.com/watch?v=zY0--b6DLqQ)
-- [Patti LaBelle - On My Own (Official Music Video) ft. Michael McDonald](https://www.youtube.com/watch?v=KsH63qJlIMM)
+- [Michael McDonald - No Lookin Back great quality](https://www.youtube.com/watch?v=x7QKprUnrfg)
+- [Ill Be Your Angel](https://www.youtube.com/watch?v=KBcnRdIZFLg)
+- [Michael McDonald  -  I Keep Forgettin](https://www.youtube.com/watch?v=zY0--b6DLqQ)
+- [Patti LaBelle - On My Own Official Music Video ft Michael McDonald](https://www.youtube.com/watch?v=KsH63qJlIMM)
 - [Michael McDonald - Any Foolish Thing](https://www.youtube.com/watch?v=1iv1rPBDDv0)
-- [Doobie Brothers ~ What A fool Believes (1979) Classic Rock R&B Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)
-- [Michael McDonald - Sweet Freedom (1986)](https://www.youtube.com/watch?v=O8-JPyVRkiE)
+- [Doobie Brothers  What A fool Believes 1979 Classic Rock RB Pop](https://www.youtube.com/watch?v=dJe1iUuAW4M)
+- [Michael McDonald - Sweet Freedom 1986](https://www.youtube.com/watch?v=O8-JPyVRkiE)
 
 ## Release Images
 {{< imageGrid >}}

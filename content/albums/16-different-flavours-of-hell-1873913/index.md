@@ -45,21 +45,21 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Cicciolina (7" Version)
-{{< youtube id="DZCPx3cHgkk" title="Cicciolina (7" Version)" >}}<br>
+### Cicciolina 7 Version
+{{< youtube id="DZCPx3cHgkk" title="Cicciolina 7 Version" >}}<br>
 ### More Videos
 
-- [Another Man's Rhubarb (7" Mix)](https://www.youtube.com/watch?v=kKB4gGW4Nyo)
-- [Get the Girl! Kill the Baddies!](https://www.youtube.com/watch?v=ZpbIrZENDG4)
-- [X, Y & Zee](https://www.youtube.com/watch?v=TcqU-n5_ICw)
-- [Can U Dig It?](https://www.youtube.com/watch?v=rgnvXhrBKuc)
-- [92° F](https://www.youtube.com/watch?v=EpkapyVSOAo)
+- [Another Mans Rhubarb 7 Mix](https://www.youtube.com/watch?v=kKB4gGW4Nyo)
+- [Get the Girl Kill the Baddies](https://www.youtube.com/watch?v=ZpbIrZENDG4)
+- [X Y  Zee](https://www.youtube.com/watch?v=TcqU-n5_ICw)
+- [Can U Dig It](https://www.youtube.com/watch?v=rgnvXhrBKuc)
+- [92 F](https://www.youtube.com/watch?v=EpkapyVSOAo)
 - [Inject Me](https://www.youtube.com/watch?v=CXsfo4XqTE4)
-- [Eat Me, Drink Me, Love Me, Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
+- [Eat Me Drink Me Love Me Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
 - [Urban Futuristic](https://www.youtube.com/watch?v=mSx0Dq_0el8)
 - [Bulletproof](https://www.youtube.com/watch?v=yum9TsWcTPg)
-- [PWEIzation (7" Version)](https://www.youtube.com/watch?v=8YrDOY5EZu0)
-- [Wise Up! Sucker (7" Version)](https://www.youtube.com/watch?v=D2uPFLLu5_I)
+- [PWEIzation 7 Version](https://www.youtube.com/watch?v=8YrDOY5EZu0)
+- [Wise Up Sucker 7 Version](https://www.youtube.com/watch?v=D2uPFLLu5_I)
 
 ## Release Images
 {{< imageGrid >}}

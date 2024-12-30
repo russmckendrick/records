@@ -46,23 +46,23 @@ This album also features cello playing of Dave Wesling from the Royal Liverpool 
 
 
 ## Videos
-### Anathema - A Natural Disaster [Hindsight]
-{{< youtube id="dNd4mq2HvoE" title="Anathema - A Natural Disaster [Hindsight]" >}}<br>
+### Anathema - A Natural Disaster Hindsight
+{{< youtube id="dNd4mq2HvoE" title="Anathema - A Natural Disaster Hindsight" >}}<br>
 ### More Videos
 
-- [Anathema - 03. Inner Silence (Hindsight)](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
-- [Anathema - 01. Fragile Dreams (Hindsight)](https://www.youtube.com/watch?v=08SWLhoBTwE)
-- [Anathema - Flying (Hindsight)](https://www.youtube.com/watch?v=wQmwfiEvOgE)
+- [Anathema - 03 Inner Silence Hindsight](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
+- [Anathema - 01 Fragile Dreams Hindsight](https://www.youtube.com/watch?v=08SWLhoBTwE)
+- [Anathema - Flying Hindsight](https://www.youtube.com/watch?v=wQmwfiEvOgE)
 - [Anathema-Angelica Hindsight](https://www.youtube.com/watch?v=WicH4P8HxTI)
-- [Anathema - 05. Are You There? (Hindsight)](https://www.youtube.com/watch?v=wI_RIhF2nOw)
-- [Anathema - 04. One Last Goodbye (Hindsight)](https://www.youtube.com/watch?v=msEND_xgNt0)
-- [Anathema - A Natural Disaster [Hindsight]](https://www.youtube.com/watch?v=dNd4mq2HvoE)
-- [Anathema - 03. Inner Silence (Hindsight)](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
-- [Anathema - 01. Fragile Dreams (Hindsight)](https://www.youtube.com/watch?v=08SWLhoBTwE)
-- [Anathema - Flying (Hindsight)](https://www.youtube.com/watch?v=wQmwfiEvOgE)
+- [Anathema - 05 Are You There Hindsight](https://www.youtube.com/watch?v=wI_RIhF2nOw)
+- [Anathema - 04 One Last Goodbye Hindsight](https://www.youtube.com/watch?v=msEND_xgNt0)
+- [Anathema - A Natural Disaster Hindsight](https://www.youtube.com/watch?v=dNd4mq2HvoE)
+- [Anathema - 03 Inner Silence Hindsight](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
+- [Anathema - 01 Fragile Dreams Hindsight](https://www.youtube.com/watch?v=08SWLhoBTwE)
+- [Anathema - Flying Hindsight](https://www.youtube.com/watch?v=wQmwfiEvOgE)
 - [Anathema-Angelica Hindsight](https://www.youtube.com/watch?v=WicH4P8HxTI)
-- [Anathema - 05. Are You There? (Hindsight)](https://www.youtube.com/watch?v=wI_RIhF2nOw)
-- [Anathema - 04. One Last Goodbye (Hindsight)](https://www.youtube.com/watch?v=msEND_xgNt0)
+- [Anathema - 05 Are You There Hindsight](https://www.youtube.com/watch?v=wI_RIhF2nOw)
+- [Anathema - 04 One Last Goodbye Hindsight](https://www.youtube.com/watch?v=msEND_xgNt0)
 
 ## Release Images
 {{< imageGrid >}}

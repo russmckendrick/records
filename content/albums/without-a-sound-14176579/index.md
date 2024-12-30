@@ -68,7 +68,7 @@ Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr.,
 {{< youtube id="JXkN3nJyWEA" title="Dinosaur Jr - Feel The Pain" >}}<br>
 ### More Videos
 
-- [Dinosaur Jr - I Don't Think So](https://www.youtube.com/watch?v=9WAgITmqLew)
+- [Dinosaur Jr - I Dont Think So](https://www.youtube.com/watch?v=9WAgITmqLew)
 - [Over Your Shoulder](https://www.youtube.com/watch?v=2WNXoYaz5eI)
 - [Outta Hand](https://www.youtube.com/watch?v=yuQc_yNG31Y)
 - [Mind Glow](https://www.youtube.com/watch?v=D2hRgQmAdZ8)

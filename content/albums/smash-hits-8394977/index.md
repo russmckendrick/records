@@ -60,8 +60,8 @@ Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as 
 - [Crosstown Traffic](https://www.youtube.com/watch?v=FxJPaXE4Uoc)
 - [Remember](https://www.youtube.com/watch?v=0u2c0jDFsn8)
 - [Red House](https://www.youtube.com/watch?v=HVaCfwjl_gM)
-- [The Jimi Hendrix Experience - Purple Haze (Audio)](https://www.youtube.com/watch?v=WGoDaYjdfSg)
-- [The Jimi Hendrix Experience - Foxey Lady (Miami Pop 1968)](https://www.youtube.com/watch?v=_PVjcIO4MT4)
+- [The Jimi Hendrix Experience - Purple Haze Audio](https://www.youtube.com/watch?v=WGoDaYjdfSg)
+- [The Jimi Hendrix Experience - Foxey Lady Miami Pop 1968](https://www.youtube.com/watch?v=_PVjcIO4MT4)
 
 ## Release Images
 {{< imageGrid >}}

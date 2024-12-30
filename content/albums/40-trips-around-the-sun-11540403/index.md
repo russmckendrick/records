@@ -60,19 +60,19 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 
 
 ## Videos
-### Toto - Africa (Video)
-{{< youtube id="FTQbiNvZqaY" title="Toto - Africa (Video)" >}}<br>
+### Toto - Africa Video
+{{< youtube id="FTQbiNvZqaY" title="Toto - Africa Video" >}}<br>
 ### More Videos
 
 - [Toto - Hold The Line](https://www.youtube.com/watch?v=htgr3pvBr-I)
-- [Toto - Rosanna (Video)](https://www.youtube.com/watch?v=qmOLtTGvsbM)
-- [Toto - Georgy Porgy (Video Version)](https://www.youtube.com/watch?v=EWIgEtkE3GA)
+- [Toto - Rosanna Video](https://www.youtube.com/watch?v=qmOLtTGvsbM)
+- [Toto - Georgy Porgy Video Version](https://www.youtube.com/watch?v=EWIgEtkE3GA)
 - [Toto - Stranger In Town](https://www.youtube.com/watch?v=RSeldKAqM-w)
 - [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
-- [Toto - Africa (Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+- [Toto - Africa Video](https://www.youtube.com/watch?v=FTQbiNvZqaY)
 - [Toto - Hold The Line](https://www.youtube.com/watch?v=htgr3pvBr-I)
-- [Toto - Rosanna (Video)](https://www.youtube.com/watch?v=qmOLtTGvsbM)
-- [Toto - Georgy Porgy (Video Version)](https://www.youtube.com/watch?v=EWIgEtkE3GA)
+- [Toto - Rosanna Video](https://www.youtube.com/watch?v=qmOLtTGvsbM)
+- [Toto - Georgy Porgy Video Version](https://www.youtube.com/watch?v=EWIgEtkE3GA)
 - [Toto - Stranger In Town](https://www.youtube.com/watch?v=RSeldKAqM-w)
 - [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
 

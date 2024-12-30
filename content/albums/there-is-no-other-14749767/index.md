@@ -53,17 +53,17 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Isobel Campbell - Ant Life (Official Video)
-{{< youtube id="Sv3vXIUumvc" title="Isobel Campbell - Ant Life (Official Video)" >}}<br>
+### Isobel Campbell - Ant Life Official Video
+{{< youtube id="Sv3vXIUumvc" title="Isobel Campbell - Ant Life Official Video" >}}<br>
 ### More Videos
 
-- [Isobel Campbell - Hey World (Official Video)](https://www.youtube.com/watch?v=bBgKg7wStRc)
-- [Isobel Campbell - Runnin' Down A Dream (Official Audio)](https://www.youtube.com/watch?v=97DY0TXNW9A)
-- [Isobel Campbell - The National Bird Of India (Official Audio)](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
-- [Isobel Campbell - Ant Life (Official Video)](https://www.youtube.com/watch?v=Sv3vXIUumvc)
-- [Isobel Campbell - Hey World (Official Video)](https://www.youtube.com/watch?v=bBgKg7wStRc)
-- [Isobel Campbell - Runnin' Down A Dream (Official Audio)](https://www.youtube.com/watch?v=97DY0TXNW9A)
-- [Isobel Campbell - The National Bird Of India (Official Audio)](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
+- [Isobel Campbell - Hey World Official Video](https://www.youtube.com/watch?v=bBgKg7wStRc)
+- [Isobel Campbell - Runnin Down A Dream Official Audio](https://www.youtube.com/watch?v=97DY0TXNW9A)
+- [Isobel Campbell - The National Bird Of India Official Audio](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
+- [Isobel Campbell - Ant Life Official Video](https://www.youtube.com/watch?v=Sv3vXIUumvc)
+- [Isobel Campbell - Hey World Official Video](https://www.youtube.com/watch?v=bBgKg7wStRc)
+- [Isobel Campbell - Runnin Down A Dream Official Audio](https://www.youtube.com/watch?v=97DY0TXNW9A)
+- [Isobel Campbell - The National Bird Of India Official Audio](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,11 +50,11 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 
 
 ## Videos
-### Future Islands - Cave (Official Lyric Video)
-{{< youtube id="RGrhubD8VDg" title="Future Islands - Cave (Official Lyric Video)" >}}<br>
+### Future Islands - Cave Official Lyric Video
+{{< youtube id="RGrhubD8VDg" title="Future Islands - Cave Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
+- [Future Islands - Ran Official Video](https://www.youtube.com/watch?v=MlQunle406U)
 - [Aladdin](https://www.youtube.com/watch?v=5PFZnKYnL1s)
 - [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
 - [Time On Her Side](https://www.youtube.com/watch?v=r1oGu0w5ySI)
@@ -64,7 +64,7 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 - [Black Rose](https://www.youtube.com/watch?v=J6ivIJt3Vtg)
 - [Ancient Water](https://www.youtube.com/watch?v=sUw-sF4kOI8)
 - [Through the Roses](https://www.youtube.com/watch?v=gZ0TF3IzNm0)
-- [Future Islands - Beauty Of The Road (Official Video)](https://www.youtube.com/watch?v=vsYHJ1ijoik)
+- [Future Islands - Beauty Of The Road Official Video](https://www.youtube.com/watch?v=vsYHJ1ijoik)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,9 +40,9 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ### More Videos
 
 - [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
-- [Super Furry Animals - Smokin'](https://www.youtube.com/watch?v=kSThnmNv9f4)
-- [Smokin'](https://www.youtube.com/watch?v=A8MIKyYh600)
-- [Super Furry Animals - Ice Hockey Hair EP (BMG CAT491EP) RSD 2021](https://www.youtube.com/watch?v=njixhnsyRUU)
+- [Super Furry Animals - Smokin](https://www.youtube.com/watch?v=kSThnmNv9f4)
+- [Smokin](https://www.youtube.com/watch?v=A8MIKyYh600)
+- [Super Furry Animals - Ice Hockey Hair EP BMG CAT491EP RSD 2021](https://www.youtube.com/watch?v=njixhnsyRUU)
 - [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
 
 ## Release Images

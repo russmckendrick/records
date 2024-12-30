@@ -39,14 +39,14 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Durand Jones & The Indications - "Smile" - Soul 45
-{{< youtube id="rjb010wGS-k" title="Durand Jones & The Indications - "Smile" - Soul 45" >}}<br>
+### Durand Jones  The Indications - Smile - Soul 45
+{{< youtube id="rjb010wGS-k" title="Durand Jones  The Indications - Smile - Soul 45" >}}<br>
 ### More Videos
 
-- [Durand Jones & The Indications - Is It Any Wonder? - 8/28/2017 - Paste Studios, New York, NY](https://www.youtube.com/watch?v=hIHxDxTcuDk)
-- [Durand Jones & The Indications - You And Me](https://www.youtube.com/watch?v=zc6HnutjZCc)
-- [Can't Keep My Cool](https://www.youtube.com/watch?v=NgzG4XYcgcU)
-- [Durand Jones & The Indications - Durand Jones & The Indications [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=7E6v7pZChQY)
+- [Durand Jones  The Indications - Is It Any Wonder - 8282017 - Paste Studios New York NY](https://www.youtube.com/watch?v=hIHxDxTcuDk)
+- [Durand Jones  The Indications - You And Me](https://www.youtube.com/watch?v=zc6HnutjZCc)
+- [Cant Keep My Cool](https://www.youtube.com/watch?v=NgzG4XYcgcU)
+- [Durand Jones  The Indications - Durand Jones  The Indications FULL ALBUM STREAM](https://www.youtube.com/watch?v=7E6v7pZChQY)
 
 ## Release Images
 {{< imageGrid >}}

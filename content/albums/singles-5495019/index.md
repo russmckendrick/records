@@ -48,13 +48,13 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 
 
 ## Videos
-### Future Islands - Seasons (Waiting On You) (Official Video)
-{{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons (Waiting On You) (Official Video)" >}}<br>
+### Future Islands - Seasons Waiting On You Official Video
+{{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons Waiting On You Official Video" >}}<br>
 ### More Videos
 
-- [Future Islands - A Song for Our Grandfathers (Official Video)](https://www.youtube.com/watch?v=la6Ohm3dobk)
-- [Future Islands - Seasons (Waiting On You) (Official Video)](https://www.youtube.com/watch?v=-5Ae-LhMIG0)
-- [Future Islands - A Song for Our Grandfathers (Official Video)](https://www.youtube.com/watch?v=la6Ohm3dobk)
+- [Future Islands - A Song for Our Grandfathers Official Video](https://www.youtube.com/watch?v=la6Ohm3dobk)
+- [Future Islands - Seasons Waiting On You Official Video](https://www.youtube.com/watch?v=-5Ae-LhMIG0)
+- [Future Islands - A Song for Our Grandfathers Official Video](https://www.youtube.com/watch?v=la6Ohm3dobk)
 - [Sun in the Morning](https://www.youtube.com/watch?v=Uyjt0EXHm9A)
 - [Back in the Tall Grass](https://www.youtube.com/watch?v=3P4_58VCOIc)
 - [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)

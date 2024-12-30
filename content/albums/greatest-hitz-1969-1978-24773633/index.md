@@ -67,19 +67,19 @@ styles: ["Glam"]
 
 
 ## Videos
-### The Sweet - The Ballroom Blitz (1973)
-{{< youtube id="afwwckbcD4c" title="The Sweet - The Ballroom Blitz (1973)" >}}<br>
+### The Sweet - The Ballroom Blitz 1973
+{{< youtube id="afwwckbcD4c" title="The Sweet - The Ballroom Blitz 1973" >}}<br>
 ### More Videos
 
-- [The Sweet - Blockbuster (1973)](https://www.youtube.com/watch?v=wiR126m42Mk)
-- [The Sweet - Fox On The Run (1975)](https://www.youtube.com/watch?v=t46OEW1zEZs)
-- [The Sweet - Hell Raiser (1973)](https://www.youtube.com/watch?v=1ZPd38RSgso)
-- [The Sweet - Wig Wam Bam (1972)](https://www.youtube.com/watch?v=1FY2ap05X0k)
-- [The Sweet - The Ballroom Blitz (1973)](https://www.youtube.com/watch?v=afwwckbcD4c)
-- [The Sweet - Blockbuster (1973)](https://www.youtube.com/watch?v=wiR126m42Mk)
-- [The Sweet - Fox On The Run (1975)](https://www.youtube.com/watch?v=t46OEW1zEZs)
-- [The Sweet - Hell Raiser (1973)](https://www.youtube.com/watch?v=1ZPd38RSgso)
-- [The Sweet - Wig Wam Bam (1972)](https://www.youtube.com/watch?v=1FY2ap05X0k)
+- [The Sweet - Blockbuster 1973](https://www.youtube.com/watch?v=wiR126m42Mk)
+- [The Sweet - Fox On The Run 1975](https://www.youtube.com/watch?v=t46OEW1zEZs)
+- [The Sweet - Hell Raiser 1973](https://www.youtube.com/watch?v=1ZPd38RSgso)
+- [The Sweet - Wig Wam Bam 1972](https://www.youtube.com/watch?v=1FY2ap05X0k)
+- [The Sweet - The Ballroom Blitz 1973](https://www.youtube.com/watch?v=afwwckbcD4c)
+- [The Sweet - Blockbuster 1973](https://www.youtube.com/watch?v=wiR126m42Mk)
+- [The Sweet - Fox On The Run 1975](https://www.youtube.com/watch?v=t46OEW1zEZs)
+- [The Sweet - Hell Raiser 1973](https://www.youtube.com/watch?v=1ZPd38RSgso)
+- [The Sweet - Wig Wam Bam 1972](https://www.youtube.com/watch?v=1FY2ap05X0k)
 
 ## Release Images
 {{< imageGrid >}}

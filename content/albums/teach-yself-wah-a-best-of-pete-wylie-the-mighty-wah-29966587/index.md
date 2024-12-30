@@ -46,19 +46,19 @@ styles: ["Post-Punk", "Art Rock", "Power Pop"]
 
 
 ## Videos
-### The Seven Thousand Names of WAH! (2024 Remaster)
-{{< youtube id="T7H9O38XUbM" title="The Seven Thousand Names of WAH! (2024 Remaster)" >}}<br>
+### The Seven Thousand Names of WAH 2024 Remaster
+{{< youtube id="T7H9O38XUbM" title="The Seven Thousand Names of WAH 2024 Remaster" >}}<br>
 ### More Videos
 
-- [Seven Minutes To Midnight 2024 (2024 Remaster)](https://www.youtube.com/watch?v=htI1vr6semw)
-- [The Death of WAH! (2024 Remaster)](https://www.youtube.com/watch?v=mUOtOIKcbQY)
-- [Better Scream 2024 (2024 Remaster)](https://www.youtube.com/watch?v=UkBEPMYFEGg)
-- [You Can't Put Your Arms Around A Memory (2024 Remaster)](https://www.youtube.com/watch?v=Oj1oFV-x7II)
-- [Remember (2024 Remaster)](https://www.youtube.com/watch?v=YcXfHWOnAoE)
-- [Hope (I Wish You'd Believe Me)](https://www.youtube.com/watch?v=nKPaByqhKpw)
-- [Hey! Mona Lisa (2024 Remaster)](https://www.youtube.com/watch?v=G4esUFunNck)
-- [Make Your Mind Up (2024 Remaster)](https://www.youtube.com/watch?v=8eIEaI9tVwM)
-- [The Day That Margaret Thatcher Dies - A Party Song (2024 Remaster)](https://www.youtube.com/watch?v=gFp4cbSHpLg)
+- [Seven Minutes To Midnight 2024 2024 Remaster](https://www.youtube.com/watch?v=htI1vr6semw)
+- [The Death of WAH 2024 Remaster](https://www.youtube.com/watch?v=mUOtOIKcbQY)
+- [Better Scream 2024 2024 Remaster](https://www.youtube.com/watch?v=UkBEPMYFEGg)
+- [You Cant Put Your Arms Around A Memory 2024 Remaster](https://www.youtube.com/watch?v=Oj1oFV-x7II)
+- [Remember 2024 Remaster](https://www.youtube.com/watch?v=YcXfHWOnAoE)
+- [Hope I Wish Youd Believe Me](https://www.youtube.com/watch?v=nKPaByqhKpw)
+- [Hey Mona Lisa 2024 Remaster](https://www.youtube.com/watch?v=G4esUFunNck)
+- [Make Your Mind Up 2024 Remaster](https://www.youtube.com/watch?v=8eIEaI9tVwM)
+- [The Day That Margaret Thatcher Dies - A Party Song 2024 Remaster](https://www.youtube.com/watch?v=gFp4cbSHpLg)
 
 ## Release Images
 {{< imageGrid >}}

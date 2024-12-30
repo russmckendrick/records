@@ -49,17 +49,17 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 
 
 ## Videos
-### I Feel Much Better (2012 Remaster)
-{{< youtube id="C76bFMCA9ss" title="I Feel Much Better (2012 Remaster)" >}}<br>
+### I Feel Much Better 2012 Remaster
+{{< youtube id="C76bFMCA9ss" title="I Feel Much Better 2012 Remaster" >}}<br>
 ### More Videos
 
-- [Wham, Bam, Thank You, Mam (2013 Remaster)](https://www.youtube.com/watch?v=e8SAE0k93eo)
-- [I'm Only Dreaming (2012 Remaster)](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
-- [Get Yourself Together (2012 Remaster)](https://www.youtube.com/watch?v=ctJB-mwI41k)
-- [Mad John (2013 Remaster)](https://www.youtube.com/watch?v=BlfQrA9C88w)
-- [Donkey Rides, A Penny a Glass (2013 Remaster)](https://www.youtube.com/watch?v=H6kxROKXEC0)
-- [The Universal (2013 Remaster)](https://www.youtube.com/watch?v=abAt2vXSeHI)
-- [The Journey (2013 Remaster)](https://www.youtube.com/watch?v=Q1yKurfmu60)
+- [Wham Bam Thank You Mam 2013 Remaster](https://www.youtube.com/watch?v=e8SAE0k93eo)
+- [Im Only Dreaming 2012 Remaster](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
+- [Get Yourself Together 2012 Remaster](https://www.youtube.com/watch?v=ctJB-mwI41k)
+- [Mad John 2013 Remaster](https://www.youtube.com/watch?v=BlfQrA9C88w)
+- [Donkey Rides A Penny a Glass 2013 Remaster](https://www.youtube.com/watch?v=H6kxROKXEC0)
+- [The Universal 2013 Remaster](https://www.youtube.com/watch?v=abAt2vXSeHI)
+- [The Journey 2013 Remaster](https://www.youtube.com/watch?v=Q1yKurfmu60)
 
 ## Release Images
 {{< imageGrid >}}

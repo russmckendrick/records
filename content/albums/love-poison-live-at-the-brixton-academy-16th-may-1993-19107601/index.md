@@ -49,19 +49,19 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### Suede - Love & Poison (Remastered)
-{{< youtube id="6AHGc1fDWDk" title="Suede - Love & Poison (Remastered)" >}}<br>
+### Suede - Love  Poison Remastered
+{{< youtube id="6AHGc1fDWDk" title="Suede - Love  Poison Remastered" >}}<br>
 ### More Videos
 
-- [Intro / The Next Life (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=kDIOpWoUMlE)
-- [Moving  (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=pF66i4as4Ws)
-- [Animal Nitrate  (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=VNhATttTBH8)
-- [My Insatiable One (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=k8-xe7UNYes)
-- [The Drowners (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=Srb9dISe2Rc)
-- [She's Not Dead (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=yMgqF2Waf0g)
-- [To The Birds (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=JwEiBMO0CFM)
-- [Sleeping Pills (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=3LGa0Si-m7E)
-- [So Young (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=QV-OLXr-PRo)
+- [Intro  The Next Life Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=kDIOpWoUMlE)
+- [Moving  Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=pF66i4as4Ws)
+- [Animal Nitrate  Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=VNhATttTBH8)
+- [My Insatiable One Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=k8-xe7UNYes)
+- [The Drowners Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=Srb9dISe2Rc)
+- [Shes Not Dead Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=yMgqF2Waf0g)
+- [To The Birds Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=JwEiBMO0CFM)
+- [Sleeping Pills Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=3LGa0Si-m7E)
+- [So Young Live at The Brixton Academy 16th May 1993](https://www.youtube.com/watch?v=QV-OLXr-PRo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,10 +47,10 @@ Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collabor
 {{< youtube id="ILB6NLqFFbc" title="Booth And The Bad Angel - I Believe" >}}<br>
 ### More Videos
 
-- [Booth and the Bad Angel - The Dance Of Bad Angels (HD) (Tim Booth & Angelo Badalamenti)](https://www.youtube.com/watch?v=bcdwyKwzESo)
+- [Booth and the Bad Angel - The Dance Of Bad Angels HD Tim Booth  Angelo Badalamenti](https://www.youtube.com/watch?v=bcdwyKwzESo)
 - [Booth and the Bad Angel - Hit Parade](https://www.youtube.com/watch?v=hYL9eAHc8dY)
-- [Booth & The Bad Angel - Fall In Love With Me](https://www.youtube.com/watch?v=cwmdRnkdGHg)
-- [Tim Booth - Butterfly's Dream @ Glastonbury 2004.06.26 (9of11)](https://www.youtube.com/watch?v=qY37AktHeDM)
+- [Booth  The Bad Angel - Fall In Love With Me](https://www.youtube.com/watch?v=cwmdRnkdGHg)
+- [Tim Booth - Butterflys Dream  Glastonbury 20040626 9of11](https://www.youtube.com/watch?v=qY37AktHeDM)
 - [Booth and the Bad Angel - Later with Jools Holland 08-06-1996](https://www.youtube.com/watch?v=v33bWZR4yXY)
 
 ## Release Images

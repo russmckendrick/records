@@ -57,21 +57,21 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 
 
 ## Videos
-### Rhiannon Giddens - Don't Let It Trouble Your Mind
-{{< youtube id="uQJ0ylPcUuo" title="Rhiannon Giddens - Don't Let It Trouble Your Mind" >}}<br>
+### Rhiannon Giddens - Dont Let It Trouble Your Mind
+{{< youtube id="uQJ0ylPcUuo" title="Rhiannon Giddens - Dont Let It Trouble Your Mind" >}}<br>
 ### More Videos
 
 - [Rhiannon Giddens - Last Kind Words](https://www.youtube.com/watch?v=7M_Fz4lzi3Q)
-- [Rhiannon Giddens - Don't Let It Trouble Your Mind](https://www.youtube.com/watch?v=uQJ0ylPcUuo)
+- [Rhiannon Giddens - Dont Let It Trouble Your Mind](https://www.youtube.com/watch?v=uQJ0ylPcUuo)
 - [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
-- [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
+- [Rhiannon Giddens - Shes Got You](https://www.youtube.com/watch?v=yqqdihSClis)
 - [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
 - [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
-- [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
-- [Rhiannon Giddens - O Love Is Teasin'](https://www.youtube.com/watch?v=GgrkEIldnV4)
+- [Rhiannon Giddens - Shes Got You](https://www.youtube.com/watch?v=yqqdihSClis)
+- [Rhiannon Giddens - O Love Is Teasin](https://www.youtube.com/watch?v=GgrkEIldnV4)
 - [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)
 - [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
-- [Rhiannon Giddens - O Love Is Teasin'](https://www.youtube.com/watch?v=GgrkEIldnV4)
+- [Rhiannon Giddens - O Love Is Teasin](https://www.youtube.com/watch?v=GgrkEIldnV4)
 - [Rhiannon Giddens - Up Above My Head](https://www.youtube.com/watch?v=W6bndO8sgI0)
 - [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)
 - [Rhiannon Giddens - Tomorrow Is My Turn](https://www.youtube.com/watch?v=xhUP9RyxLKg)

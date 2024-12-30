@@ -58,13 +58,13 @@ Upon release, the album received widespread acclaim from critics, reached number
 
 
 ## Videos
-### R.E.M. - Drive (Official HD Music Video)
-{{< youtube id="-UE7tXDKIus" title="R.E.M. - Drive (Official HD Music Video)" >}}<br>
+### REM - Drive Official HD Music Video
+{{< youtube id="-UE7tXDKIus" title="REM - Drive Official HD Music Video" >}}<br>
 ### More Videos
 
-- [R.E.M. - Everybody Hurts (Official HD Music Video)](https://www.youtube.com/watch?v=5rOiW_xY-kc)
-- [One Tree Hill Musique/Music - 119 - REM - Everybody Hurts - [Lk49]](https://www.youtube.com/watch?v=d9DhkHDuptk)
-- [R.E.M. - Find The River (Official Music Video) [Parallel Video Version]](https://www.youtube.com/watch?v=KIJGlTu5sEI)
+- [REM - Everybody Hurts Official HD Music Video](https://www.youtube.com/watch?v=5rOiW_xY-kc)
+- [One Tree Hill MusiqueMusic - 119 - REM - Everybody Hurts - Lk49](https://www.youtube.com/watch?v=d9DhkHDuptk)
+- [REM - Find The River Official Music Video Parallel Video Version](https://www.youtube.com/watch?v=KIJGlTu5sEI)
 
 ## Release Images
 {{< imageGrid >}}

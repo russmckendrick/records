@@ -61,11 +61,11 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Videos
-### Rush - By Tor And The Snow Dog (1978 UK Vinyl)
-{{< youtube id="xOtEx_y__MM" title="Rush - By Tor And The Snow Dog (1978 UK Vinyl)" >}}<br>
+### Rush - By Tor And The Snow Dog 1978 UK Vinyl
+{{< youtube id="xOtEx_y__MM" title="Rush - By Tor And The Snow Dog 1978 UK Vinyl" >}}<br>
 ### More Videos
 
-- [Rush - By Tor And The Snow Dog (1978 UK Vinyl)](https://www.youtube.com/watch?v=xOtEx_y__MM)
+- [Rush - By Tor And The Snow Dog 1978 UK Vinyl](https://www.youtube.com/watch?v=xOtEx_y__MM)
 
 ## Release Images
 {{< imageGrid >}}

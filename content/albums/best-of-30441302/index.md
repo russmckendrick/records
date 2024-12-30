@@ -66,8 +66,8 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 
 
 ## Videos
-### Bruce Springsteen - Badlands (Official Lyric Video)
-{{< youtube id="o5IZuuzUa04" title="Bruce Springsteen - Badlands (Official Lyric Video)" >}}<br>
+### Bruce Springsteen - Badlands Official Lyric Video
+{{< youtube id="o5IZuuzUa04" title="Bruce Springsteen - Badlands Official Lyric Video" >}}<br>
 
 
 ## Release Images

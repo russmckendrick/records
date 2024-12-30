@@ -53,11 +53,11 @@ Yessingles is a compilation album by British progressive rock band Yes, released
 {{< youtube id="-Xa0np9vxO8" title="Your Move" >}}<br>
 ### More Videos
 
-- [And You and I (Part I) (Promo Radio Edit)](https://www.youtube.com/watch?v=IM-0J04t4ac)
-- [Sound Chaser (Single Edit)](https://www.youtube.com/watch?v=L5Kqt0XznuI)
-- [Starship Trooper: Life Seeker](https://www.youtube.com/watch?v=VzwsRljUyIk)
-- [Don't Kill the Whale (2007 Remaster)](https://www.youtube.com/watch?v=k8WKYJBrgJ4)
-- [Leave It (Single Remix)](https://www.youtube.com/watch?v=uYSOuWsjj_s)
+- [And You and I Part I Promo Radio Edit](https://www.youtube.com/watch?v=IM-0J04t4ac)
+- [Sound Chaser Single Edit](https://www.youtube.com/watch?v=L5Kqt0XznuI)
+- [Starship Trooper Life Seeker](https://www.youtube.com/watch?v=VzwsRljUyIk)
+- [Dont Kill the Whale 2007 Remaster](https://www.youtube.com/watch?v=k8WKYJBrgJ4)
+- [Leave It Single Remix](https://www.youtube.com/watch?v=uYSOuWsjj_s)
 
 ## Release Images
 {{< imageGrid >}}

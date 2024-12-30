@@ -49,8 +49,8 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 
 
 ## Videos
-### Pet Shop Boys   Please Whole Album HQ 1986 #
-{{< youtube id="_KAGx_52PAg" title="Pet Shop Boys   Please Whole Album HQ 1986 #" >}}<br>
+### Pet Shop Boys   Please Whole Album HQ 1986 
+{{< youtube id="_KAGx_52PAg" title="Pet Shop Boys   Please Whole Album HQ 1986 " >}}<br>
 
 
 ## Release Images

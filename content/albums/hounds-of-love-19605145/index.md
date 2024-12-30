@@ -60,13 +60,13 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 
 
 ## Videos
-### Running Up That Hill (A Deal With God) (2018 Remaster)
-{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill (A Deal With God) (2018 Remaster)" >}}<br>
+### Running Up That Hill A Deal With God 2018 Remaster
+{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill A Deal With God 2018 Remaster" >}}<br>
 ### More Videos
 
 - [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
 - [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
-- [Kate Bush - Hounds Of Love (2018 Remastered) (1985) (Full Album)](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
+- [Kate Bush - Hounds Of Love 2018 Remastered 1985 Full Album](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
 - [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
 - [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
 - [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)

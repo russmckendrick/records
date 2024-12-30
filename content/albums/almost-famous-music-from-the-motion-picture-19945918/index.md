@@ -118,24 +118,24 @@ styles: ["Soundtrack", "Bubblegum", "Rhythm & Blues", "Blues Rock", "Pop Rock", 
 
 
 ## Videos
-### Led Zeppelin - Misty Mountain Hop(LYRICS)
-{{< youtube id="4K7muZ9nleI" title="Led Zeppelin - Misty Mountain Hop(LYRICS)" >}}<br>
+### Led Zeppelin - Misty Mountain HopLYRICS
+{{< youtube id="4K7muZ9nleI" title="Led Zeppelin - Misty Mountain HopLYRICS" >}}<br>
 ### More Videos
 
-- [Led Zeppelin - Tangerine (Official Audio)](https://www.youtube.com/watch?v=KaFjxLMsOuo)
+- [Led Zeppelin - Tangerine Official Audio](https://www.youtube.com/watch?v=KaFjxLMsOuo)
 - [Deep Purple-Burn](https://www.youtube.com/watch?v=LCnebZnysmI)
-- [I've Seen all Good People(studio)](https://www.youtube.com/watch?v=uJM7TdshUbw)
-- [Yes - Roundabout (Original 1971)](https://www.youtube.com/watch?v=QOrrNM4md8c)
-- [Simon & Garfunkel - America (Almost Famous)](https://www.youtube.com/watch?v=jg66kgAfqlY)
-- [Elton John Tiny Dancer (From Almost Famous)](https://www.youtube.com/watch?v=lAD1RWX8k54)
+- [Ive Seen all Good Peoplestudio](https://www.youtube.com/watch?v=uJM7TdshUbw)
+- [Yes - Roundabout Original 1971](https://www.youtube.com/watch?v=QOrrNM4md8c)
+- [Simon  Garfunkel - America Almost Famous](https://www.youtube.com/watch?v=jg66kgAfqlY)
+- [Elton John Tiny Dancer From Almost Famous](https://www.youtube.com/watch?v=lAD1RWX8k54)
 - [Thunderclap Newman - Something In The Air](https://www.youtube.com/watch?v=RTZoJ01FpD8)
 - [Almost Famous - Tiny Dancer](https://www.youtube.com/watch?v=_qW9wqUI4Lg)
-- [Nancy Wilson - Cabin In The Air (Almost Famous Soundtrack Unreleased)](https://www.youtube.com/watch?v=jv7HXLJFprE)
-- [Led Zeppelin - Misty Mountain Hop(LYRICS)](https://www.youtube.com/watch?v=4K7muZ9nleI)
-- [Led Zeppelin - Tangerine (Official Audio)](https://www.youtube.com/watch?v=KaFjxLMsOuo)
+- [Nancy Wilson - Cabin In The Air Almost Famous Soundtrack Unreleased](https://www.youtube.com/watch?v=jv7HXLJFprE)
+- [Led Zeppelin - Misty Mountain HopLYRICS](https://www.youtube.com/watch?v=4K7muZ9nleI)
+- [Led Zeppelin - Tangerine Official Audio](https://www.youtube.com/watch?v=KaFjxLMsOuo)
 - [Deep Purple-Burn](https://www.youtube.com/watch?v=LCnebZnysmI)
-- [I've Seen all Good People(studio)](https://www.youtube.com/watch?v=uJM7TdshUbw)
-- [Yes - Roundabout (Original 1971)](https://www.youtube.com/watch?v=QOrrNM4md8c)
+- [Ive Seen all Good Peoplestudio](https://www.youtube.com/watch?v=uJM7TdshUbw)
+- [Yes - Roundabout Original 1971](https://www.youtube.com/watch?v=QOrrNM4md8c)
 
 ## Release Images
 {{< imageGrid >}}

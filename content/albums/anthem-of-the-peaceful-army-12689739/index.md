@@ -49,19 +49,19 @@ Swirling together the techniques and textures of rock and blues greats—The All
 
 
 ## Videos
-### Greta Van Fleet - Age of Man (Audio)
-{{< youtube id="Wd9te6ZQXpQ" title="Greta Van Fleet - Age of Man (Audio)" >}}<br>
+### Greta Van Fleet - Age of Man Audio
+{{< youtube id="Wd9te6ZQXpQ" title="Greta Van Fleet - Age of Man Audio" >}}<br>
 ### More Videos
 
-- [Greta Van Fleet - The Cold Wind (Audio)](https://www.youtube.com/watch?v=WhwbltW35dM)
-- [Greta Van Fleet - When The Curtain Falls (Audio)](https://www.youtube.com/watch?v=hurQgJXtpKI)
-- [Greta Van Fleet - Watching Over (Audio)](https://www.youtube.com/watch?v=S5GG5eIql5E)
-- [Greta Van Fleet - You're The One (Audio)](https://www.youtube.com/watch?v=S2pa-Eb4wLE)
-- [Greta Van Fleet - The New Day (Audio)](https://www.youtube.com/watch?v=j_fElyTRFCc)
-- [Greta Van Fleet - Lover, Leaver (Audio)](https://www.youtube.com/watch?v=_JLkhO38Fu8)
-- [Greta Van Fleet - Mountain of the Sun (Audio)](https://www.youtube.com/watch?v=RqFwTIkWegY)
-- [Greta Van Fleet - Brave New World (Audio)](https://www.youtube.com/watch?v=K6l0JTo-Ovc)
-- [Greta Van Fleet - Anthem (Audio)](https://www.youtube.com/watch?v=D2xar8DwKi0)
+- [Greta Van Fleet - The Cold Wind Audio](https://www.youtube.com/watch?v=WhwbltW35dM)
+- [Greta Van Fleet - When The Curtain Falls Audio](https://www.youtube.com/watch?v=hurQgJXtpKI)
+- [Greta Van Fleet - Watching Over Audio](https://www.youtube.com/watch?v=S5GG5eIql5E)
+- [Greta Van Fleet - Youre The One Audio](https://www.youtube.com/watch?v=S2pa-Eb4wLE)
+- [Greta Van Fleet - The New Day Audio](https://www.youtube.com/watch?v=j_fElyTRFCc)
+- [Greta Van Fleet - Lover Leaver Audio](https://www.youtube.com/watch?v=_JLkhO38Fu8)
+- [Greta Van Fleet - Mountain of the Sun Audio](https://www.youtube.com/watch?v=RqFwTIkWegY)
+- [Greta Van Fleet - Brave New World Audio](https://www.youtube.com/watch?v=K6l0JTo-Ovc)
+- [Greta Van Fleet - Anthem Audio](https://www.youtube.com/watch?v=D2xar8DwKi0)
 
 ## Release Images
 {{< imageGrid >}}

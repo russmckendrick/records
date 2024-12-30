@@ -53,14 +53,14 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 
 
 ## Videos
-### A PERFECT CIRCLE -  MER DE NOMS / FULL ALBUM
-{{< youtube id="8zJPrzhEK-0" title="A PERFECT CIRCLE -  MER DE NOMS / FULL ALBUM" >}}<br>
+### A PERFECT CIRCLE -  MER DE NOMS  FULL ALBUM
+{{< youtube id="8zJPrzhEK-0" title="A PERFECT CIRCLE -  MER DE NOMS  FULL ALBUM" >}}<br>
 ### More Videos
 
 - [A Perfect Circle - 3 Libras](https://www.youtube.com/watch?v=u9MAg9E5K3w)
-- [A Perfect Circle - Judith (Official Music Video)](https://www.youtube.com/watch?v=xTgKRCXybSM)
-- [A Perfect Circle - Thinking Of You (Official Music Video)](https://www.youtube.com/watch?v=KUiFBp6cCV8)
-- [Sleeping Beauty (Live)](https://www.youtube.com/watch?v=OjU69YihvPc)
+- [A Perfect Circle - Judith Official Music Video](https://www.youtube.com/watch?v=xTgKRCXybSM)
+- [A Perfect Circle - Thinking Of You Official Music Video](https://www.youtube.com/watch?v=KUiFBp6cCV8)
+- [Sleeping Beauty Live](https://www.youtube.com/watch?v=OjU69YihvPc)
 - [Sleeping Beauty](https://www.youtube.com/watch?v=eUUb1bNlmUs)
 
 ## Release Images

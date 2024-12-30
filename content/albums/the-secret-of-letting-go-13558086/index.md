@@ -47,9 +47,9 @@ styles: ["Leftfield", "Downtempo"]
 {{< youtube id="VBnCyT4a-_s" title="Phosphorous" >}}<br>
 ### More Videos
 
-- [Lamb - Moonshine (feat Cian Finn) (Official Music Video)](https://www.youtube.com/watch?v=fdu1sdFOtiE)
-- [Lamb - Armageddon Waits (Official Video)](https://www.youtube.com/watch?v=iuRLSEa7tos)
-- [Lamb - Bulletproof (Official Music Video)](https://www.youtube.com/watch?v=KndAKVMjK00)
+- [Lamb - Moonshine feat Cian Finn Official Music Video](https://www.youtube.com/watch?v=fdu1sdFOtiE)
+- [Lamb - Armageddon Waits Official Video](https://www.youtube.com/watch?v=iuRLSEa7tos)
+- [Lamb - Bulletproof Official Music Video](https://www.youtube.com/watch?v=KndAKVMjK00)
 - [The Secret of Letting Go](https://www.youtube.com/watch?v=o6GFbYDbPlc)
 - [Imperial Measures](https://www.youtube.com/watch?v=M2FDvjXMNUs)
 - [The Other Shore](https://www.youtube.com/watch?v=qBnG3g5uY0U)

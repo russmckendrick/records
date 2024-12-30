@@ -80,13 +80,13 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 
 
 ## Videos
-### Mogwai // Dry Fantasy (Official Video)
-{{< youtube id="55wY7XrGFzY" title="Mogwai // Dry Fantasy (Official Video)" >}}<br>
+### Mogwai  Dry Fantasy Official Video
+{{< youtube id="55wY7XrGFzY" title="Mogwai  Dry Fantasy Official Video" >}}<br>
 ### More Videos
 
-- [Mogwai - Ritchie Sacramento (Official Video)](https://www.youtube.com/watch?v=VWjzlJEmmxM)
-- [Mogwai - Pat Stains (Official Audio)](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
-- [Mogwai - To the Bin My Friend, Tonight We Vacate Earth (Demo)](https://www.youtube.com/watch?v=HCfMa1T91lc)
+- [Mogwai - Ritchie Sacramento Official Video](https://www.youtube.com/watch?v=VWjzlJEmmxM)
+- [Mogwai - Pat Stains Official Audio](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
+- [Mogwai - To the Bin My Friend Tonight We Vacate Earth Demo](https://www.youtube.com/watch?v=HCfMa1T91lc)
 
 ## Release Images
 {{< imageGrid >}}

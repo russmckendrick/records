@@ -62,12 +62,12 @@ Last Day of June is an adventure puzzle video game developed by Ovosonico and pu
 
 - [Steven Wilson - Last Day of June OST Trailer](https://www.youtube.com/watch?v=85_fJISwxQk)
 - [Some Things Cannot Be Changed](https://www.youtube.com/watch?v=yxxA4mekUPY)
-- [Steven Wilson - The Last Day Of June (Last Day Of June Soundtrack)](https://www.youtube.com/watch?v=OcO9SyxCP-4)
+- [Steven Wilson - The Last Day Of June Last Day Of June Soundtrack](https://www.youtube.com/watch?v=OcO9SyxCP-4)
 - [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
 - [The Last Day Of June](https://www.youtube.com/watch?v=tWDMTkxppso)
 - [Steven Wilson - Last Day of June OST Trailer](https://www.youtube.com/watch?v=85_fJISwxQk)
 - [Some Things Cannot Be Changed](https://www.youtube.com/watch?v=yxxA4mekUPY)
-- [Steven Wilson - The Last Day Of June (Last Day Of June Soundtrack)](https://www.youtube.com/watch?v=OcO9SyxCP-4)
+- [Steven Wilson - The Last Day Of June Last Day Of June Soundtrack](https://www.youtube.com/watch?v=OcO9SyxCP-4)
 - [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
 
 ## Release Images

@@ -52,11 +52,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Tim Bowness - "Lost In The Ghost Light" album trailer
-{{< youtube id="MSh-64nnnSM" title="Tim Bowness - "Lost In The Ghost Light" album trailer" >}}<br>
+### Tim Bowness - Lost In The Ghost Light album trailer
+{{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}<br>
 ### More Videos
 
-- [Tim Bowness - Kill the Pain That's Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)
+- [Tim Bowness - Kill the Pain Thats Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,14 +50,14 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 
 
 ## Videos
-### Depeche Mode - It's No Good (Official Video)
-{{< youtube id="_-QPvffO1gs" title="Depeche Mode - It's No Good (Official Video)" >}}<br>
+### Depeche Mode - Its No Good Official Video
+{{< youtube id="_-QPvffO1gs" title="Depeche Mode - Its No Good Official Video" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Only When I Lose Myself (Official Video)](https://www.youtube.com/watch?v=l35XzUD8GGU)
+- [Depeche Mode - Only When I Lose Myself Official Video](https://www.youtube.com/watch?v=l35XzUD8GGU)
 - [Depeche Mode   Ultra  1997](https://www.youtube.com/watch?v=Yjr1OIvRNsM)
-- [Depeche Mode - It's No Good (Official Video)](https://www.youtube.com/watch?v=_-QPvffO1gs)
-- [Depeche Mode - Useless (Official Video)](https://www.youtube.com/watch?v=U2Kyu4XURaE)
+- [Depeche Mode - Its No Good Official Video](https://www.youtube.com/watch?v=_-QPvffO1gs)
+- [Depeche Mode - Useless Official Video](https://www.youtube.com/watch?v=U2Kyu4XURaE)
 
 ## Release Images
 {{< imageGrid >}}

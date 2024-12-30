@@ -47,13 +47,13 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 
 
 ## Videos
-### Cygnus X-1 Book II: Hemispheres
-{{< youtube id="J0zN0VjA3As" title="Cygnus X-1 Book II: Hemispheres" >}}<br>
+### Cygnus X-1 Book II Hemispheres
+{{< youtube id="J0zN0VjA3As" title="Cygnus X-1 Book II Hemispheres" >}}<br>
 ### More Videos
 
 - [Circumstances](https://www.youtube.com/watch?v=QHQ-Xl5YC5o)
 - [The Trees](https://www.youtube.com/watch?v=0jRafVKRg18)
-- [La Villa Srangiato (An Exercise in Self-Indulgence)](https://www.youtube.com/watch?v=FeumXTFH3vc)
+- [La Villa Srangiato An Exercise in Self-Indulgence](https://www.youtube.com/watch?v=FeumXTFH3vc)
 
 ## Release Images
 {{< imageGrid >}}

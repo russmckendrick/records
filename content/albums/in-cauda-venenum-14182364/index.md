@@ -57,15 +57,15 @@ In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album
 
 
 ## Videos
-### Opeth - In Cauda Venenum (Full Album)
-{{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum (Full Album)" >}}<br>
+### Opeth - In Cauda Venenum Full Album
+{{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum Full Album" >}}<br>
 ### More Videos
 
-- [OPETH - "Universal Truth" (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=ypdlAMXIvCM)
-- [OPETH - "Dignity" (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=GF5FXYmBrc4)
-- [OPETH - "Svekets Prins" (OFFICIAL VISUALIZER TRACK)](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
-- [Opeth - In Cauda Venenum (Swedish edition)](https://www.youtube.com/watch?v=YnnQqGvs9FE)
-- [Opeth — In Cauda Venenum: The Bonus Tracks (Full Album)](https://www.youtube.com/watch?v=q285uHiNfmM)
+- [OPETH - Universal Truth OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=ypdlAMXIvCM)
+- [OPETH - Dignity OFFICIAL VISUALIZER TRACK](https://www.youtube.com/watch?v=GF5FXYmBrc4)
+- [OPETH - Svekets Prins OFFICIAL VISUALIZER TRACK](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
+- [Opeth - In Cauda Venenum Swedish edition](https://www.youtube.com/watch?v=YnnQqGvs9FE)
+- [Opeth  In Cauda Venenum The Bonus Tracks Full Album](https://www.youtube.com/watch?v=q285uHiNfmM)
 
 ## Release Images
 {{< imageGrid >}}

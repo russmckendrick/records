@@ -72,19 +72,19 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Videos
-### BARONESS - Front Toward Enemy [AUDIO]
-{{< youtube id="PQ5qs3ALrU4" title="BARONESS - Front Toward Enemy [AUDIO]" >}}<br>
+### BARONESS - Front Toward Enemy AUDIO
+{{< youtube id="PQ5qs3ALrU4" title="BARONESS - Front Toward Enemy AUDIO" >}}<br>
 ### More Videos
 
-- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
-- [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
-- [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
-- [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
-- [BARONESS - Front Toward Enemy [AUDIO]](https://www.youtube.com/watch?v=PQ5qs3ALrU4)
-- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
-- [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
-- [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
-- [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
+- [BARONESS - Throw Me An Anchor AUDIO](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
+- [BARONESS - Seasons OFFICIAL](https://www.youtube.com/watch?v=k3n8RBaUMpc)
+- [BARONESS - Borderlines OFFICIAL](https://www.youtube.com/watch?v=tQX_oVVORFU)
+- [BARONESS - Tourniquet Official Music Video](https://www.youtube.com/watch?v=RQeAvbTVWiU)
+- [BARONESS - Front Toward Enemy AUDIO](https://www.youtube.com/watch?v=PQ5qs3ALrU4)
+- [BARONESS - Throw Me An Anchor AUDIO](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
+- [BARONESS - Seasons OFFICIAL](https://www.youtube.com/watch?v=k3n8RBaUMpc)
+- [BARONESS - Borderlines OFFICIAL](https://www.youtube.com/watch?v=tQX_oVVORFU)
+- [BARONESS - Tourniquet Official Music Video](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
 ## Release Images
 {{< imageGrid >}}

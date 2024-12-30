@@ -49,18 +49,18 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 
 
 ## Videos
-### Still Feeling Blue (Remastered Version)
-{{< youtube id="zmu6jygpD00" title="Still Feeling Blue (Remastered Version)" >}}<br>
+### Still Feeling Blue Remastered Version
+{{< youtube id="zmu6jygpD00" title="Still Feeling Blue Remastered Version" >}}<br>
 ### More Videos
 
-- [A Song for You (Remastered Version)](https://www.youtube.com/watch?v=unohYEFELoo)
-- [That's All It Took (Remastered Version)](https://www.youtube.com/watch?v=3m0XfpIWYic)
-- [She (Remastered Version)](https://www.youtube.com/watch?v=iNw-6L_gsEQ)
-- [We'll Sweep out the Ashes in the Morning (2007 Remaster)](https://www.youtube.com/watch?v=V8c2SI1bq1E)
-- [Big Mouth Blues (Remastered Version)](https://www.youtube.com/watch?v=u9YANfKuPt4)
-- [Kiss the Children (Remastered Version)](https://www.youtube.com/watch?v=gkatnTSEAcY)
-- [Streets of Baltimore (2007 Remaster)](https://www.youtube.com/watch?v=Xi0c2clOqp0)
-- [How Much I've Lied (Remastered Version)](https://www.youtube.com/watch?v=WhGP3bGaFxY)
+- [A Song for You Remastered Version](https://www.youtube.com/watch?v=unohYEFELoo)
+- [Thats All It Took Remastered Version](https://www.youtube.com/watch?v=3m0XfpIWYic)
+- [She Remastered Version](https://www.youtube.com/watch?v=iNw-6L_gsEQ)
+- [Well Sweep out the Ashes in the Morning 2007 Remaster](https://www.youtube.com/watch?v=V8c2SI1bq1E)
+- [Big Mouth Blues Remastered Version](https://www.youtube.com/watch?v=u9YANfKuPt4)
+- [Kiss the Children Remastered Version](https://www.youtube.com/watch?v=gkatnTSEAcY)
+- [Streets of Baltimore 2007 Remaster](https://www.youtube.com/watch?v=Xi0c2clOqp0)
+- [How Much Ive Lied Remastered Version](https://www.youtube.com/watch?v=WhGP3bGaFxY)
 
 ## Release Images
 {{< imageGrid >}}

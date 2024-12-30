@@ -47,11 +47,11 @@ Just as 1989’s <i>Technique</i> revelled in the excitement of late-1980s acid 
 
 
 ## Videos
-### New Order - Regret (Official Music Video)
-{{< youtube id="71ZHVmSuBJM" title="New Order - Regret (Official Music Video)" >}}<br>
+### New Order - Regret Official Music Video
+{{< youtube id="71ZHVmSuBJM" title="New Order - Regret Official Music Video" >}}<br>
 ### More Videos
 
-- [New Order - World (The Price of Love) (Official Music Video)](https://www.youtube.com/watch?v=CXzs47qy2Pk)
+- [New Order - World The Price of Love Official Music Video](https://www.youtube.com/watch?v=CXzs47qy2Pk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,10 +58,10 @@ Second Nature is the second studio album by the American supergroup Flying Color
 ### More Videos
 
 - [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
-- [Flying Colors - Second Nature "2014"](https://www.youtube.com/watch?v=L8ysiXXCYsE)
-- [Flying Colors - Mask Machine (Official Music Video)](https://www.youtube.com/watch?v=FdnKddL9giw)
-- [Flying Colors - Bombs Away (Second Nature)](https://www.youtube.com/watch?v=YiMSr6zPIrw)
-- [Flying Colors - Fury Of My Love (Official Video)](https://www.youtube.com/watch?v=v_rQYZH5kWw)
+- [Flying Colors - Second Nature 2014](https://www.youtube.com/watch?v=L8ysiXXCYsE)
+- [Flying Colors - Mask Machine Official Music Video](https://www.youtube.com/watch?v=FdnKddL9giw)
+- [Flying Colors - Bombs Away Second Nature](https://www.youtube.com/watch?v=YiMSr6zPIrw)
+- [Flying Colors - Fury Of My Love Official Video](https://www.youtube.com/watch?v=v_rQYZH5kWw)
 - [Flying Colors - Open Up Your Eyes](https://www.youtube.com/watch?v=vXj2VF9eLYg)
 - [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
 

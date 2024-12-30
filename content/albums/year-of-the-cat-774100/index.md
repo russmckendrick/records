@@ -50,13 +50,13 @@ Stewart had all of the music and orchestration written and completely recorded b
 
 
 ## Videos
-### Flying Sorcery | Al Stewart | Year Of The Cat | 1976 Janus LP
-{{< youtube id="u8xzvbJLtl0" title="Flying Sorcery | Al Stewart | Year Of The Cat | 1976 Janus LP" >}}<br>
+### Flying Sorcery  Al Stewart  Year Of The Cat  1976 Janus LP
+{{< youtube id="u8xzvbJLtl0" title="Flying Sorcery  Al Stewart  Year Of The Cat  1976 Janus LP" >}}<br>
 ### More Videos
 
-- [Al Stewart - Year of the Cat (Official Audio)](https://www.youtube.com/watch?v=Ak_MTXQALa0)
-- [Broadway Hotel (2001 Remaster)](https://www.youtube.com/watch?v=2zpShd0A7Nk)
-- [Midas Shadow (2001 Remaster)](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
+- [Al Stewart - Year of the Cat Official Audio](https://www.youtube.com/watch?v=Ak_MTXQALa0)
+- [Broadway Hotel 2001 Remaster](https://www.youtube.com/watch?v=2zpShd0A7Nk)
+- [Midas Shadow 2001 Remaster](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
 ## Release Images
 {{< imageGrid >}}

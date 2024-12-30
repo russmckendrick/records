@@ -44,8 +44,8 @@ styles: ["Krautrock"]
 
 
 ## Videos
-### Neu! - Neu 4 (Full Album) 1995
-{{< youtube id="vaxxWCdrftQ" title="Neu! - Neu 4 (Full Album) 1995" >}}<br>
+### Neu - Neu 4 Full Album 1995
+{{< youtube id="vaxxWCdrftQ" title="Neu - Neu 4 Full Album 1995" >}}<br>
 
 
 ## Release Images

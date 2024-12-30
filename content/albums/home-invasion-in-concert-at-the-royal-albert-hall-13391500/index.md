@@ -93,15 +93,15 @@ styles: ["Prog Rock", "Pop Rock"]
 
 
 ## Videos
-### Steven Wilson - Home Invasion /Regret #9 full HD 1080p live from [Home Invasion Live 2018 BLUERAY CD
-{{< youtube id="-tajHRP9Cm8" title="Steven Wilson - Home Invasion /Regret #9 full HD 1080p live from [Home Invasion Live 2018 BLUERAY CD" >}}<br>
+### Steven Wilson - Home Invasion Regret 9 full HD 1080p live from Home Invasion Live 2018 BLUERAY CD
+{{< youtube id="-tajHRP9Cm8" title="Steven Wilson - Home Invasion Regret 9 full HD 1080p live from Home Invasion Live 2018 BLUERAY CD" >}}<br>
 ### More Videos
 
-- [Steven Wilson - Ancestral (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=qFwcahcDzP4)
-- [Routine- Ninet Tayeb & Steven Wilson In the Royal Albert Hall](https://www.youtube.com/watch?v=tMfGp79fJCQ)
-- [Steven Wilson - Pariah (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=GwfGi_Qomc8)
-- [Steven Wilson - Song of I (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=ZTaMnLwP8Y8)
-- [Steven Wilson - The Raven That Refused To Sing (from Home Invasion)](https://www.youtube.com/watch?v=Dzkm2lvdup4)
+- [Steven Wilson - Ancestral from Home Invasion In Concert at the Royal Albert Hall](https://www.youtube.com/watch?v=qFwcahcDzP4)
+- [Routine- Ninet Tayeb  Steven Wilson In the Royal Albert Hall](https://www.youtube.com/watch?v=tMfGp79fJCQ)
+- [Steven Wilson - Pariah from Home Invasion In Concert at the Royal Albert Hall](https://www.youtube.com/watch?v=GwfGi_Qomc8)
+- [Steven Wilson - Song of I from Home Invasion In Concert at the Royal Albert Hall](https://www.youtube.com/watch?v=ZTaMnLwP8Y8)
+- [Steven Wilson - The Raven That Refused To Sing from Home Invasion](https://www.youtube.com/watch?v=Dzkm2lvdup4)
 
 ## Release Images
 {{< imageGrid >}}

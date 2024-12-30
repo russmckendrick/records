@@ -47,17 +47,17 @@ styles: ["Krautrock", "Classical"]
 
 
 ## Videos
-### Ripples in the Ether (Towards the Infinite)
-{{< youtube id="gzzxhC69jDc" title="Ripples in the Ether (Towards the Infinite)" >}}<br>
+### Ripples in the Ether Towards the Infinite
+{{< youtube id="gzzxhC69jDc" title="Ripples in the Ether Towards the Infinite" >}}<br>
 ### More Videos
 
-- [This New Noise - Public Service Broadcasting, BBC Symphony Orchestra, Jules Buckley (BBC Proms)](https://www.youtube.com/watch?v=XC68Qg5_1Lg)
-- [An Unusual Man (Live)](https://www.youtube.com/watch?v=_X6aEqsffHw)
-- [A Cello Sings in Daventry (Live)](https://www.youtube.com/watch?v=9WKKSNqJTSw)
-- [Broadcasting House - Public Service Broadcasting, BBC Symphony Orchestra, Jules Buckley (BBC Proms)](https://www.youtube.com/watch?v=04PmHmWLrwY)
-- [The Microphone (The Fleet is Lit Up)](https://www.youtube.com/watch?v=eR892mPfbvU)
-- [A Candle Which Will Not Be Put Out - Public Service Broadcasting, BBC Symphony Orchestra, J Buckley](https://www.youtube.com/watch?v=5qEBP-dp9R0)
-- [What of the Future? (In Touch with the Infinite)](https://www.youtube.com/watch?v=QwsSGKwQMsg)
+- [This New Noise - Public Service Broadcasting BBC Symphony Orchestra Jules Buckley BBC Proms](https://www.youtube.com/watch?v=XC68Qg5_1Lg)
+- [An Unusual Man Live](https://www.youtube.com/watch?v=_X6aEqsffHw)
+- [A Cello Sings in Daventry Live](https://www.youtube.com/watch?v=9WKKSNqJTSw)
+- [Broadcasting House - Public Service Broadcasting BBC Symphony Orchestra Jules Buckley BBC Proms](https://www.youtube.com/watch?v=04PmHmWLrwY)
+- [The Microphone The Fleet is Lit Up](https://www.youtube.com/watch?v=eR892mPfbvU)
+- [A Candle Which Will Not Be Put Out - Public Service Broadcasting BBC Symphony Orchestra J Buckley](https://www.youtube.com/watch?v=5qEBP-dp9R0)
+- [What of the Future In Touch with the Infinite](https://www.youtube.com/watch?v=QwsSGKwQMsg)
 
 ## Release Images
 {{< imageGrid >}}

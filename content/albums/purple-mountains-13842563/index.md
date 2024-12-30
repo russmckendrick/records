@@ -47,12 +47,12 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 
 
 ## Videos
-### Purple Mountains "All My Happiness is Gone" (Official Music Video)
-{{< youtube id="XvUBbROsXBw" title="Purple Mountains "All My Happiness is Gone" (Official Music Video)" >}}<br>
+### Purple Mountains All My Happiness is Gone Official Music Video
+{{< youtube id="XvUBbROsXBw" title="Purple Mountains All My Happiness is Gone Official Music Video" >}}<br>
 ### More Videos
 
-- [Purple Mountains - "Nights That Won't Happen" (Music Video)](https://www.youtube.com/watch?v=xMqODXQf3_s)
-- [Purple Mountains "Darkness and Cold" (Official Music Video)](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
+- [Purple Mountains - Nights That Wont Happen Music Video](https://www.youtube.com/watch?v=xMqODXQf3_s)
+- [Purple Mountains Darkness and Cold Official Music Video](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
 
 ## Release Images
 {{< imageGrid >}}

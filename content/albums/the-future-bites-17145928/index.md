@@ -60,27 +60,27 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 
 
 ## Videos
-### Steven Wilson - SELF (Official Video)
-{{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}<br>
+### Steven Wilson - SELF Official Video
+{{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF Official Video" >}}<br>
 ### More Videos
 
-- [Steven Wilson - KING GHOST (Official Video)](https://www.youtube.com/watch?v=zSvdLcS62ZM)
-- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)](https://www.youtube.com/watch?v=G_yW8ornhK4)
-- [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
+- [Steven Wilson - KING GHOST Official Video](https://www.youtube.com/watch?v=zSvdLcS62ZM)
+- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
+- [Steven Wilson - MAN OF THE PEOPLE Official Lyric Video](https://www.youtube.com/watch?v=G_yW8ornhK4)
+- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
 - [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
-- [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
+- [Unboxing a 10000 box set Steven Wilsons The Future Bites Ultra Deluxe Limited Edition of One](https://www.youtube.com/watch?v=v1vm4mUyuGo)
 - [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
-- [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
+- [Steven Wilson - The Future Bites Full Album 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
 - [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
 - [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
 - [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
-- [Steven Wilson - King Ghost (2020)](https://www.youtube.com/watch?v=M55vjv1Bed0)
-- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
+- [Steven Wilson - King Ghost 2020](https://www.youtube.com/watch?v=M55vjv1Bed0)
+- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
+- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
 - [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 

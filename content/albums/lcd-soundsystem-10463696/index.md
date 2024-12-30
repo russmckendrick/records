@@ -48,26 +48,26 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 
 
 ## Videos
-### LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)
-{{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House (Official Video)" >}}<br>
+### LCD Soundsystem - Daft Punk Is Playing At My House Official Video
+{{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House Official Video" >}}<br>
 ### More Videos
 
 - [Daft Punk Is Playing at My House](https://www.youtube.com/watch?v=c7eCpUG9r5U)
 - [Too Much Love](https://www.youtube.com/watch?v=CcEC5r0xzt8)
 - [Tribulations](https://www.youtube.com/watch?v=G6aNYV8B5wc)
 - [Movement](https://www.youtube.com/watch?v=2vHUEGI3_no)
-- [Never as Tired as When I'm Waking Up](https://www.youtube.com/watch?v=Xz4Lq1RfqAk)
+- [Never as Tired as When Im Waking Up](https://www.youtube.com/watch?v=Xz4Lq1RfqAk)
 - [On Repeat](https://www.youtube.com/watch?v=y6SmM0IQTjY)
 - [Thrills](https://www.youtube.com/watch?v=oOpf6_kpgLI)
 - [Disco Infiltrator](https://www.youtube.com/watch?v=s7CBdX0_A3g)
 - [Great Release](https://www.youtube.com/watch?v=NFy1VJFDrZ4)
-- [Yr City's a Sucker](https://www.youtube.com/watch?v=q_wroK6bY7Y)
+- [Yr Citys a Sucker](https://www.youtube.com/watch?v=q_wroK6bY7Y)
 - [Losing My Edge](https://www.youtube.com/watch?v=nqww88x584U)
 - [Beat Connection](https://www.youtube.com/watch?v=xwVFktBrS-E)
 - [Give It Up](https://www.youtube.com/watch?v=th2IQgi5d-Y)
 - [Tired](https://www.youtube.com/watch?v=uIzBOTXASgw)
 - [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
-- [Yeah (Pretentious Mix)](https://www.youtube.com/watch?v=vTDDSrhXdBY)
+- [Yeah Pretentious Mix](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
 ## Release Images
 {{< imageGrid >}}

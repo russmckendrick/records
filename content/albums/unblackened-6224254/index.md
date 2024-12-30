@@ -66,26 +66,26 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 
 
 ## Videos
-### Sold My Soul - Black Label Society (Unblackened)
-{{< youtube id="PH8An0MFF2A" title="Sold My Soul - Black Label Society (Unblackened)" >}}<br>
+### Sold My Soul - Black Label Society Unblackened
+{{< youtube id="PH8An0MFF2A" title="Sold My Soul - Black Label Society Unblackened" >}}<br>
 ### More Videos
 
-- [Rust- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=7FPkcpP9NWY)
-- [In This River- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
-- [Losin' Your Mind- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=8WOh9igfGv0)
-- [Lovin' Woman- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=EIGiWQy1A2w)
-- [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
-- [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
-- [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
-- [Sold My Soul - Black Label Society (Unblackened)](https://www.youtube.com/watch?v=PH8An0MFF2A)
-- [Sold My Soul - Black Label Society (Unblackened)](https://www.youtube.com/watch?v=PH8An0MFF2A)
-- [Rust- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=7FPkcpP9NWY)
-- [In This River- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
-- [Losin' Your Mind- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=8WOh9igfGv0)
-- [Lovin' Woman- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=EIGiWQy1A2w)
-- [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
-- [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
-- [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
+- [Rust- Black Label Society Unblackened](https://www.youtube.com/watch?v=7FPkcpP9NWY)
+- [In This River- Black Label Society Unblackened](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
+- [Losin Your Mind- Black Label Society Unblackened](https://www.youtube.com/watch?v=8WOh9igfGv0)
+- [Lovin Woman- Black Label Society Unblackened](https://www.youtube.com/watch?v=EIGiWQy1A2w)
+- [Yesterday Today Tomorrow- Black Label Society Unblackened](https://www.youtube.com/watch?v=-jtP4SYwoPs)
+- [Throwin it all Away-Black Label Society Unblackened](https://www.youtube.com/watch?v=55ofHYBDLNQ)
+- [Stillborn-Black Label Society Unblackened](https://www.youtube.com/watch?v=FhdaThpugpI)
+- [Sold My Soul - Black Label Society Unblackened](https://www.youtube.com/watch?v=PH8An0MFF2A)
+- [Sold My Soul - Black Label Society Unblackened](https://www.youtube.com/watch?v=PH8An0MFF2A)
+- [Rust- Black Label Society Unblackened](https://www.youtube.com/watch?v=7FPkcpP9NWY)
+- [In This River- Black Label Society Unblackened](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
+- [Losin Your Mind- Black Label Society Unblackened](https://www.youtube.com/watch?v=8WOh9igfGv0)
+- [Lovin Woman- Black Label Society Unblackened](https://www.youtube.com/watch?v=EIGiWQy1A2w)
+- [Yesterday Today Tomorrow- Black Label Society Unblackened](https://www.youtube.com/watch?v=-jtP4SYwoPs)
+- [Throwin it all Away-Black Label Society Unblackened](https://www.youtube.com/watch?v=55ofHYBDLNQ)
+- [Stillborn-Black Label Society Unblackened](https://www.youtube.com/watch?v=FhdaThpugpI)
 
 ## Release Images
 {{< imageGrid >}}

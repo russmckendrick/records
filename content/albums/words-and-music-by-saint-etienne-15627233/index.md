@@ -47,23 +47,23 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 
 
 ## Videos
-### Saint Etienne - I've Got Your Music
-{{< youtube id="3MQmsHPwLvU" title="Saint Etienne - I've Got Your Music" >}}<br>
+### Saint Etienne - Ive Got Your Music
+{{< youtube id="3MQmsHPwLvU" title="Saint Etienne - Ive Got Your Music" >}}<br>
 ### More Videos
 
 - [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
 - [When I Was Seventeen](https://www.youtube.com/watch?v=GSTSTNK0BG0)
-- [Saint Etienne - I've Got Your Music (Single Version)](https://www.youtube.com/watch?v=_kWy48yIgxQ)
+- [Saint Etienne - Ive Got Your Music Single Version](https://www.youtube.com/watch?v=_kWy48yIgxQ)
 - [Saint Etienne - Over the Border](https://www.youtube.com/watch?v=DnxGHwDiqWk)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=u7jbF_8MzHs)
-- [Saint Etienne- DJ (Muddyloop Remix)](https://www.youtube.com/watch?v=PGzTgVOl1NE)
+- [Saint Etienne- DJ Muddyloop Remix](https://www.youtube.com/watch?v=PGzTgVOl1NE)
 - [Saint Etienne - Popular](https://www.youtube.com/watch?v=8AMCyEZRpYk)
-- [Haunted Jukebox *Saint Etienne*](https://www.youtube.com/watch?v=tjTN83By2Mw)
+- [Haunted Jukebox Saint Etienne](https://www.youtube.com/watch?v=tjTN83By2Mw)
 - [I Threw It All Away](https://www.youtube.com/watch?v=csAlD1-0l1U)
 - [Saint Etienne - Last Days of Disco](https://www.youtube.com/watch?v=PKM6a6AyyFI)
 - [Saint Etienne - Haunted Jukebox](https://www.youtube.com/watch?v=_SswsMjN0TU)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
-- [Saint Etienne - Popular (Tom Middleton Cosmos Remix)](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
+- [Saint Etienne - Popular Tom Middleton Cosmos Remix](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
 
 ## Release Images
 {{< imageGrid >}}

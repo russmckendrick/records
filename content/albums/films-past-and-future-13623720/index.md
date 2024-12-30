@@ -46,11 +46,11 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 
 
 ## Videos
-### Films: Past and Future  Rob Dougan  (Walkthrough)
-{{< youtube id="oBJytj9u4MY" title="Films: Past and Future  Rob Dougan  (Walkthrough)" >}}<br>
+### Films Past and Future  Rob Dougan  Walkthrough
+{{< youtube id="oBJytj9u4MY" title="Films Past and Future  Rob Dougan  Walkthrough" >}}<br>
 ### More Videos
 
-- [FILMS : PAST AND FUTURE - ROB DOUGAN (short preview)](https://www.youtube.com/watch?v=mdIEqCWV9U8)
+- [FILMS  PAST AND FUTURE - ROB DOUGAN short preview](https://www.youtube.com/watch?v=mdIEqCWV9U8)
 
 ## Release Images
 {{< imageGrid >}}

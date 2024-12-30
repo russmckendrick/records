@@ -37,15 +37,15 @@ The song was certified double platinum in the UK, selling and streaming over 1,2
 
 
 ## Videos
-### Love Will Tear Us Apart (2010 Remaster)
-{{< youtube id="mAAqKx4aD_g" title="Love Will Tear Us Apart (2010 Remaster)" >}}<br>
+### Love Will Tear Us Apart 2010 Remaster
+{{< youtube id="mAAqKx4aD_g" title="Love Will Tear Us Apart 2010 Remaster" >}}<br>
 ### More Videos
 
-- [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)
-- [Love Will Tear Us Apart 2 (Pennine Version) (2010 Remaster)](https://www.youtube.com/watch?v=qjJS9fan5sM)
-- [Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=zuuObGsB0No)
-- [Joy Division - Love Will Tear Us Apart, 1995 Remastered Version (Official Video)](https://www.youtube.com/watch?v=674KGKRQBPE)
-- [Joy Division - Love Will Tear Us Apart (Official Lyric Video)](https://www.youtube.com/watch?v=Vl4yPKd6a1U)
+- [These Days 2010 Remaster](https://www.youtube.com/watch?v=6g_b0xr9rZs)
+- [Love Will Tear Us Apart 2 Pennine Version 2010 Remaster](https://www.youtube.com/watch?v=qjJS9fan5sM)
+- [Joy Division - Love Will Tear Us Apart OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=zuuObGsB0No)
+- [Joy Division - Love Will Tear Us Apart 1995 Remastered Version Official Video](https://www.youtube.com/watch?v=674KGKRQBPE)
+- [Joy Division - Love Will Tear Us Apart Official Lyric Video](https://www.youtube.com/watch?v=Vl4yPKd6a1U)
 
 ## Release Images
 {{< imageGrid >}}

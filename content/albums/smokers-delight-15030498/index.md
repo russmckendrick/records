@@ -56,24 +56,24 @@ Smokers Delight is the second studio album by English DJ and record producer Nig
 
 
 ## Videos
-### Nightmares on wax - night's introlude
-{{< youtube id="C6ixa3G_tL4" title="Nightmares on wax - night's introlude" >}}<br>
+### Nightmares on wax - nights introlude
+{{< youtube id="C6ixa3G_tL4" title="Nightmares on wax - nights introlude" >}}<br>
 ### More Videos
 
 - [Dreddoverboard](https://www.youtube.com/watch?v=lI0GaidrVCo)
 - [Nightmares on wax- pipes honour](https://www.youtube.com/watch?v=UiiGWxO-VkY)
 - [Me And You](https://www.youtube.com/watch?v=O2Xqf__1Kns)
 - [Stars](https://www.youtube.com/watch?v=71Lz0SL7T-8)
-- [Wait A Minute / Praying For A Jeepbeat](https://www.youtube.com/watch?v=fL9s3jgo7Pg)
+- [Wait A Minute  Praying For A Jeepbeat](https://www.youtube.com/watch?v=fL9s3jgo7Pg)
 - [Nightmares on wax - groove st](https://www.youtube.com/watch?v=tBg48HzyrQQ)
-- [Time (To Listen)](https://www.youtube.com/watch?v=KsRQ2LcgEBA)
-- [[Man] Tha Journey](https://www.youtube.com/watch?v=LyVQ_aWB2Wc)
+- [Time To Listen](https://www.youtube.com/watch?v=KsRQ2LcgEBA)
+- [Man Tha Journey](https://www.youtube.com/watch?v=LyVQ_aWB2Wc)
 - [Nightmares On Wax - Bless My Soul](https://www.youtube.com/watch?v=iu3wM8kTwCQ)
-- [Cruise (Don't Stop)](https://www.youtube.com/watch?v=18i-jiW_n40)
+- [Cruise Dont Stop](https://www.youtube.com/watch?v=18i-jiW_n40)
 - [Mission venice](https://www.youtube.com/watch?v=X_w8Qfc5X_k)
-- [What I'm Feelin (Good)](https://www.youtube.com/watch?v=A8UBRWncBXo)
+- [What Im Feelin Good](https://www.youtube.com/watch?v=A8UBRWncBXo)
 - [Nightmares on Wax   Rise](https://www.youtube.com/watch?v=tyeiIfyw7kg)
-- [Rise (Reprise)](https://www.youtube.com/watch?v=uq9m7B8Eebs)
+- [Rise Reprise](https://www.youtube.com/watch?v=uq9m7B8Eebs)
 - [Nightmares On Wax - Gambia Via Vagatorbeach](https://www.youtube.com/watch?v=vJsLPB52mgQ)
 
 ## Release Images

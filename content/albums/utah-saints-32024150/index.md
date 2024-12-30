@@ -61,17 +61,17 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 
 
 ## Videos
-### Utah Saints - Highlander (CJ Bolland Remix)
-{{< youtube id="6p53gEcJFWc" title="Utah Saints - Highlander (CJ Bolland Remix)" >}}<br>
+### Utah Saints - Highlander CJ Bolland Remix
+{{< youtube id="6p53gEcJFWc" title="Utah Saints - Highlander CJ Bolland Remix" >}}<br>
 ### More Videos
 
-- [Utah Saints - Ohio (DJ Misjah Mix)](https://www.youtube.com/watch?v=OgOis6fdphs)
-- [Utah Saints - Star (Union Jack Mix)](https://www.youtube.com/watch?v=akAyOK3TcoY)
-- [Utah Saints - Highlander (CJ Bolland Remix)](https://www.youtube.com/watch?v=6p53gEcJFWc)
-- [Utah Saints - Ohio (DJ Misjah Mix)](https://www.youtube.com/watch?v=OgOis6fdphs)
-- [Utah Saints - Star (Union Jack Mix)](https://www.youtube.com/watch?v=akAyOK3TcoY)
-- [Utah Saints - Something Good (Original Version)](https://www.youtube.com/watch?v=f7hlMR-Xn9I)
-- [U̲t̲a̲h̲ S̲a̲i̲n̲t̲s̲̲ - U̲t̲a̲h̲ S̲a̲i̲n̲t̲s̲](https://www.youtube.com/watch?v=FrIIHKGI4fM)
+- [Utah Saints - Ohio DJ Misjah Mix](https://www.youtube.com/watch?v=OgOis6fdphs)
+- [Utah Saints - Star Union Jack Mix](https://www.youtube.com/watch?v=akAyOK3TcoY)
+- [Utah Saints - Highlander CJ Bolland Remix](https://www.youtube.com/watch?v=6p53gEcJFWc)
+- [Utah Saints - Ohio DJ Misjah Mix](https://www.youtube.com/watch?v=OgOis6fdphs)
+- [Utah Saints - Star Union Jack Mix](https://www.youtube.com/watch?v=akAyOK3TcoY)
+- [Utah Saints - Something Good Original Version](https://www.youtube.com/watch?v=f7hlMR-Xn9I)
+- [Utah Saints - Utah Saints](https://www.youtube.com/watch?v=FrIIHKGI4fM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,7 +56,7 @@ Green River is the third studio album by the American rock band Creedence Clearw
 - [Lodi](https://www.youtube.com/watch?v=H-Oiz8QaH2M)
 - [Cross-Tie Walker](https://www.youtube.com/watch?v=iYEUbYLEcj0)
 - [Sinister Purpose](https://www.youtube.com/watch?v=fs2bbXhPCcE)
-- [Creedence Clearwater Revival - Green River (Official Lyric Video)](https://www.youtube.com/watch?v=L5V9nK7-OkM)
+- [Creedence Clearwater Revival - Green River Official Lyric Video](https://www.youtube.com/watch?v=L5V9nK7-OkM)
 
 ## Release Images
 {{< imageGrid >}}

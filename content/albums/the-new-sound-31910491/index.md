@@ -45,12 +45,12 @@ Featuring an expansive cast of supporting players and session musicians—includ
 
 
 ## Videos
-### Geordie Greep - Blues (Official Audio)
-{{< youtube id="EZqF9Vt612w" title="Geordie Greep - Blues (Official Audio)" >}}<br>
+### Geordie Greep - Blues Official Audio
+{{< youtube id="EZqF9Vt612w" title="Geordie Greep - Blues Official Audio" >}}<br>
 ### More Videos
 
 - [Terra](https://www.youtube.com/watch?v=XJJusFoJkLk)
-- [Geordie Greep - Holy, Holy](https://www.youtube.com/watch?v=A4EU_0vFzuU)
+- [Geordie Greep - Holy Holy](https://www.youtube.com/watch?v=A4EU_0vFzuU)
 - [The New Sound](https://www.youtube.com/watch?v=V3Jna6fPOp0)
 - [Through a War](https://www.youtube.com/watch?v=Fh7tuLhINLY)
 - [Bongo Season](https://www.youtube.com/watch?v=m4TONESSIW0)

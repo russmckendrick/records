@@ -71,11 +71,11 @@ styles: ["Europop", "Downtempo"]
 
 
 ## Videos
-### Hooverphonic - 2 Wicky (Official Video)
-{{< youtube id="dppcuKJrqbE" title="Hooverphonic - 2 Wicky (Official Video)" >}}<br>
+### Hooverphonic - 2 Wicky Official Video
+{{< youtube id="dppcuKJrqbE" title="Hooverphonic - 2 Wicky Official Video" >}}<br>
 ### More Videos
 
-- [Hooverphonic - You (Still Video)](https://www.youtube.com/watch?v=wplXFoN_RQg)
+- [Hooverphonic - You Still Video](https://www.youtube.com/watch?v=wplXFoN_RQg)
 - [Hooverphonic - Sometimes](https://www.youtube.com/watch?v=_QbnmV90tko)
 
 ## Release Images

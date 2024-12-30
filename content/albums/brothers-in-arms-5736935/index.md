@@ -53,14 +53,14 @@ The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical an
 
 
 ## Videos
-### Dire Straits - Money For Nothing (Official Music Video)
-{{< youtube id="wTP2RUD_cL0" title="Dire Straits - Money For Nothing (Official Music Video)" >}}<br>
+### Dire Straits - Money For Nothing Official Music Video
+{{< youtube id="wTP2RUD_cL0" title="Dire Straits - Money For Nothing Official Music Video" >}}<br>
 ### More Videos
 
-- [Dire Straits - Brothers In Arms (Official Music Video)](https://www.youtube.com/watch?v=jhdFe3evXpk)
-- [Dire Straits - Walk Of Life (Official Music Video)](https://www.youtube.com/watch?v=kd9TlGDZGkI)
-- [Dire Straits - So Far Away (Official Music Video)](https://www.youtube.com/watch?v=YIHMPc6ZCuI)
-- [Dire Straits - Walk Of Life (UK Version)](https://www.youtube.com/watch?v=H55KgeOaanY)
+- [Dire Straits - Brothers In Arms Official Music Video](https://www.youtube.com/watch?v=jhdFe3evXpk)
+- [Dire Straits - Walk Of Life Official Music Video](https://www.youtube.com/watch?v=kd9TlGDZGkI)
+- [Dire Straits - So Far Away Official Music Video](https://www.youtube.com/watch?v=YIHMPc6ZCuI)
+- [Dire Straits - Walk Of Life UK Version](https://www.youtube.com/watch?v=H55KgeOaanY)
 
 ## Release Images
 {{< imageGrid >}}

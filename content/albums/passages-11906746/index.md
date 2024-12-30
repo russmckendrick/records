@@ -45,15 +45,15 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 
 
 ## Videos
-### Jesus Jones  - "Suck It Up"
-{{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - "Suck It Up"" >}}<br>
+### Jesus Jones  - Suck It Up
+{{< youtube id="VQN-2UBfJSI" title="Jesus Jones  - Suck It Up" >}}<br>
 ### More Videos
 
-- [Jesus Jones - Where Are All the Dreams? NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
-- [Jesus Jones - "Grateful"](https://www.youtube.com/watch?v=7EQtbMXGFyk)
-- [Jesus Jones  - "Suck It Up"](https://www.youtube.com/watch?v=VQN-2UBfJSI)
-- [Jesus Jones - Where Are All the Dreams? NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
-- [Jesus Jones - "Grateful"](https://www.youtube.com/watch?v=7EQtbMXGFyk)
+- [Jesus Jones - Where Are All the Dreams NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
+- [Jesus Jones - Grateful](https://www.youtube.com/watch?v=7EQtbMXGFyk)
+- [Jesus Jones  - Suck It Up](https://www.youtube.com/watch?v=VQN-2UBfJSI)
+- [Jesus Jones - Where Are All the Dreams NEW SINGLE](https://www.youtube.com/watch?v=61sf98y0VAk)
+- [Jesus Jones - Grateful](https://www.youtube.com/watch?v=7EQtbMXGFyk)
 
 ## Release Images
 {{< imageGrid >}}

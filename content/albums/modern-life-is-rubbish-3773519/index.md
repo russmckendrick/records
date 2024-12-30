@@ -60,8 +60,8 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 
 
 ## Videos
-### Blur - Chemical World (Official Music Video)
-{{< youtube id="mc0idORNd10" title="Blur - Chemical World (Official Music Video)" >}}<br>
+### Blur - Chemical World Official Music Video
+{{< youtube id="mc0idORNd10" title="Blur - Chemical World Official Music Video" >}}<br>
 
 
 ## Release Images

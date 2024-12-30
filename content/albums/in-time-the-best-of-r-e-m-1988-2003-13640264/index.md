@@ -56,8 +56,8 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### THE BEST OF R.E.M - IN TIME 1988-2003
-{{< youtube id="U1w6eRcV5P4" title="THE BEST OF R.E.M - IN TIME 1988-2003" >}}<br>
+### THE BEST OF REM - IN TIME 1988-2003
+{{< youtube id="U1w6eRcV5P4" title="THE BEST OF REM - IN TIME 1988-2003" >}}<br>
 
 
 ## Release Images

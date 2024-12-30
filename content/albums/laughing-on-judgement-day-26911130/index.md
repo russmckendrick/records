@@ -60,18 +60,18 @@ Laughing on Judgement Day was promoted on the Laughing All Over the World Tour b
 
 
 ## Videos
-### Thunder - Laughing On Judgement Day (Full Album)
-{{< youtube id="S-jl07EuBuE" title="Thunder - Laughing On Judgement Day (Full Album)" >}}<br>
+### Thunder - Laughing On Judgement Day Full Album
+{{< youtube id="S-jl07EuBuE" title="Thunder - Laughing On Judgement Day Full Album" >}}<br>
 ### More Videos
 
 - [Thunder - Empty City](https://www.youtube.com/watch?v=cdJIOJTMBYg)
 - [Thunder - Laughing On Judgement Day](https://www.youtube.com/watch?v=EU3buhICM9c)
-- [Thunder - Baby I'll Be Gone](https://www.youtube.com/watch?v=KK3ekpyAl9M)
-- [Thunder long way from home.wmv](https://www.youtube.com/watch?v=V5qGKCfHZl0)
+- [Thunder - Baby Ill Be Gone](https://www.youtube.com/watch?v=KK3ekpyAl9M)
+- [Thunder long way from homewmv](https://www.youtube.com/watch?v=V5qGKCfHZl0)
 - [THUNDER   A Better Man](https://www.youtube.com/watch?v=9zhqaQcd1mA)
 - [THUNDER - Xmas Show 2017 - Laughing on Judgement Day](https://www.youtube.com/watch?v=lDcoi5Vla3g)
 - [Laughing on Judgement Day](https://www.youtube.com/watch?v=tYc5D9rCoww)
-- [Thunder - Low Life In High Places OFFICIAL VIDEO (with lyrics)](https://www.youtube.com/watch?v=wCZe70UfjPA)
+- [Thunder - Low Life In High Places OFFICIAL VIDEO with lyrics](https://www.youtube.com/watch?v=wCZe70UfjPA)
 - [Does It Feel Like Love](https://www.youtube.com/watch?v=oFmkyQq7bQU)
 - [Fire to Ice](https://www.youtube.com/watch?v=FkPjUXquUwk)
 

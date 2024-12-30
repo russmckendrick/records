@@ -42,11 +42,11 @@ The Grateful Dead is the debut studio album by the American rock band the Gratef
 
 
 ## Videos
-### New New Minglewood Blues (2013 Remaster)
-{{< youtube id="rR7Tsima2Ck" title="New New Minglewood Blues (2013 Remaster)" >}}<br>
+### New New Minglewood Blues 2013 Remaster
+{{< youtube id="rR7Tsima2Ck" title="New New Minglewood Blues 2013 Remaster" >}}<br>
 ### More Videos
 
-- [THE GRATEFUL DEAD - SELFTITLED FIRST ALBUM - U.S. UNDERGROUND - 1967](https://www.youtube.com/watch?v=_VB2ItYExMA)
+- [THE GRATEFUL DEAD - SELFTITLED FIRST ALBUM - US UNDERGROUND - 1967](https://www.youtube.com/watch?v=_VB2ItYExMA)
 
 ## Release Images
 {{< imageGrid >}}

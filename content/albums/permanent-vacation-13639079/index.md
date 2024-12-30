@@ -56,21 +56,21 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 
 
 ## Videos
-### Aerosmith – Permanent Vacation
-{{< youtube id="VvjPlwT8g5M" title="Aerosmith – Permanent Vacation" >}}<br>
+### Aerosmith  Permanent Vacation
+{{< youtube id="VvjPlwT8g5M" title="Aerosmith  Permanent Vacation" >}}<br>
 ### More Videos
 
-- [Aerosmith – The Movie](https://www.youtube.com/watch?v=Hvh54NV4f_I)
-- [Aerosmith – Angel](https://www.youtube.com/watch?v=aTiATfN7FsQ)
-- [Aerosmith – Heart's Done Time](https://www.youtube.com/watch?v=CZFfXeDTLCg)
-- [Aerosmith – Girl Keeps Coming Apart](https://www.youtube.com/watch?v=W53vBZIy0lc)
-- [Aerosmith – St. John](https://www.youtube.com/watch?v=zvSKkBn_GfU)
-- [Aerosmith – Rag Doll](https://www.youtube.com/watch?v=a3XVTd8CIiU)
-- [Aerosmith – Dude (Looks Like A Lady)](https://www.youtube.com/watch?v=0aYu9nqOdso)
-- [Aerosmith – Hangman Jury](https://www.youtube.com/watch?v=gFg2yrc7pgo)
-- [Aerosmith – Simoriah](https://www.youtube.com/watch?v=ipGG0Lxw4DA)
-- [Aerosmith – I'm Down](https://www.youtube.com/watch?v=BMx1aVr4gNo)
-- [Aerosmith – Magic Touch](https://www.youtube.com/watch?v=A5TZ7bUkBVM)
+- [Aerosmith  The Movie](https://www.youtube.com/watch?v=Hvh54NV4f_I)
+- [Aerosmith  Angel](https://www.youtube.com/watch?v=aTiATfN7FsQ)
+- [Aerosmith  Hearts Done Time](https://www.youtube.com/watch?v=CZFfXeDTLCg)
+- [Aerosmith  Girl Keeps Coming Apart](https://www.youtube.com/watch?v=W53vBZIy0lc)
+- [Aerosmith  St John](https://www.youtube.com/watch?v=zvSKkBn_GfU)
+- [Aerosmith  Rag Doll](https://www.youtube.com/watch?v=a3XVTd8CIiU)
+- [Aerosmith  Dude Looks Like A Lady](https://www.youtube.com/watch?v=0aYu9nqOdso)
+- [Aerosmith  Hangman Jury](https://www.youtube.com/watch?v=gFg2yrc7pgo)
+- [Aerosmith  Simoriah](https://www.youtube.com/watch?v=ipGG0Lxw4DA)
+- [Aerosmith  Im Down](https://www.youtube.com/watch?v=BMx1aVr4gNo)
+- [Aerosmith  Magic Touch](https://www.youtube.com/watch?v=A5TZ7bUkBVM)
 
 ## Release Images
 {{< imageGrid >}}

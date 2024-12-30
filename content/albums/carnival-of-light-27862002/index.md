@@ -61,8 +61,8 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 - [Ride - From Time To Time](https://www.youtube.com/watch?v=pC9z8MkgwbU)
 - [Ride - Birdman](https://www.youtube.com/watch?v=UgSa7BPpjFg)
 - [Ride - Crown Of Creation](https://www.youtube.com/watch?v=iN663J292io)
-- [Ride - I Don't Know Where It Comes From (single version)](https://www.youtube.com/watch?v=eBEN9Xq1Pno)
-- [Ride - How Does It Feel to Feel?](https://www.youtube.com/watch?v=Y8q08ydmqCs)
+- [Ride - I Dont Know Where It Comes From single version](https://www.youtube.com/watch?v=eBEN9Xq1Pno)
+- [Ride - How Does It Feel to Feel](https://www.youtube.com/watch?v=Y8q08ydmqCs)
 
 ## Release Images
 {{< imageGrid >}}

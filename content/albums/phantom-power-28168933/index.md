@@ -60,11 +60,11 @@ The album, like their previous record Rings Around the World, was simultaneously
 
 
 ## Videos
-### Super Furry Animals - Golden Retriever (Video)
-{{< youtube id="GNB3WWkNVhM" title="Super Furry Animals - Golden Retriever (Video)" >}}<br>
+### Super Furry Animals - Golden Retriever Video
+{{< youtube id="GNB3WWkNVhM" title="Super Furry Animals - Golden Retriever Video" >}}<br>
 ### More Videos
 
-- [Super Furry Animals - Hello Sunshine (Video)](https://www.youtube.com/watch?v=XHlUcYYifO0)
+- [Super Furry Animals - Hello Sunshine Video](https://www.youtube.com/watch?v=XHlUcYYifO0)
 
 ## Release Images
 {{< imageGrid >}}

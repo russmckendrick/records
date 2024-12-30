@@ -48,17 +48,17 @@ Calling All Stations was released to mostly negative reviews from music critics 
 
 
 ## Videos
-### Genesis - Calling All Stations (Official Audio)
-{{< youtube id="s9nNhNaMDPw" title="Genesis - Calling All Stations (Official Audio)" >}}<br>
+### Genesis - Calling All Stations Official Audio
+{{< youtube id="s9nNhNaMDPw" title="Genesis - Calling All Stations Official Audio" >}}<br>
 ### More Videos
 
-- [Genesis - Congo  (Original Album Version)](https://www.youtube.com/watch?v=yj7i8126IYY)
-- [Genesis - Alien Afternoon (Official Audio)](https://www.youtube.com/watch?v=XbJtdWN0DKY)
-- [Genesis - If That's All You Need (Official Audio)](https://www.youtube.com/watch?v=M4GCx-fplVo)
-- [Genesis - Uncertain Weather (Official Audio)](https://www.youtube.com/watch?v=6KGdujJmcTM)
-- [Genesis - Small Talk (Official Audio)](https://www.youtube.com/watch?v=HWDRP5r3M2o)
-- [Genesis - There Must Be Some Other Way (Official Audio)](https://www.youtube.com/watch?v=93Pk3BSIwOY)
-- [Genesis - One Man's Fool (Official Audio)](https://www.youtube.com/watch?v=iocSyK2rgrk)
+- [Genesis - Congo  Original Album Version](https://www.youtube.com/watch?v=yj7i8126IYY)
+- [Genesis - Alien Afternoon Official Audio](https://www.youtube.com/watch?v=XbJtdWN0DKY)
+- [Genesis - If Thats All You Need Official Audio](https://www.youtube.com/watch?v=M4GCx-fplVo)
+- [Genesis - Uncertain Weather Official Audio](https://www.youtube.com/watch?v=6KGdujJmcTM)
+- [Genesis - Small Talk Official Audio](https://www.youtube.com/watch?v=HWDRP5r3M2o)
+- [Genesis - There Must Be Some Other Way Official Audio](https://www.youtube.com/watch?v=93Pk3BSIwOY)
+- [Genesis - One Mans Fool Official Audio](https://www.youtube.com/watch?v=iocSyK2rgrk)
 
 ## Release Images
 {{< imageGrid >}}

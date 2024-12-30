@@ -37,8 +37,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Awooga - Conduit (2018) (Full Album)
-{{< youtube id="mXm_PYEIKAs" title="Awooga - Conduit (2018) (Full Album)" >}}<br>
+### Awooga - Conduit 2018 Full Album
+{{< youtube id="mXm_PYEIKAs" title="Awooga - Conduit 2018 Full Album" >}}<br>
 
 
 ## Release Images

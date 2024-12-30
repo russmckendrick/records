@@ -43,14 +43,14 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 
 
 ## Videos
-### Good Bait by John Coltrane from 'Soultrane'
-{{< youtube id="HKpkiL3EZMk" title="Good Bait by John Coltrane from 'Soultrane'" >}}<br>
+### Good Bait by John Coltrane from Soultrane
+{{< youtube id="HKpkiL3EZMk" title="Good Bait by John Coltrane from Soultrane" >}}<br>
 ### More Videos
 
-- [I Want To Talk About You by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=V42pcH_2lUs)
-- [You Say You Care by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=3n6ZKLoqRHs)
-- [Theme For Ernie by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=36toCmk4SCI)
-- [Russian Lullaby by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=DRm4iaNn3OU)
+- [I Want To Talk About You by John Coltrane from Soultrane](https://www.youtube.com/watch?v=V42pcH_2lUs)
+- [You Say You Care by John Coltrane from Soultrane](https://www.youtube.com/watch?v=3n6ZKLoqRHs)
+- [Theme For Ernie by John Coltrane from Soultrane](https://www.youtube.com/watch?v=36toCmk4SCI)
+- [Russian Lullaby by John Coltrane from Soultrane](https://www.youtube.com/watch?v=DRm4iaNn3OU)
 
 ## Release Images
 {{< imageGrid >}}

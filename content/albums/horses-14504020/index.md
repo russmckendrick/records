@@ -44,8 +44,8 @@ Even at her artiest, Smith doesn’t flinch or distance herself with irony, turn
 
 
 ## Videos
-### Patti Smith - Gloria (Audio)
-{{< youtube id="bPO0bTaWcFQ" title="Patti Smith - Gloria (Audio)" >}}<br>
+### Patti Smith - Gloria Audio
+{{< youtube id="bPO0bTaWcFQ" title="Patti Smith - Gloria Audio" >}}<br>
 ### More Videos
 
 - [Patti Smith - Horses   Full Album](https://www.youtube.com/watch?v=yoRFG1oef2I)

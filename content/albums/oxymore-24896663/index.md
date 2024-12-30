@@ -82,8 +82,8 @@ styles: ["Techno"]
 
 
 ## Videos
-### Jean-Michel Jarre - BRUTALISM (Official Video)
-{{< youtube id="mFjAwG_WjA0" title="Jean-Michel Jarre - BRUTALISM (Official Video)" >}}<br>
+### Jean-Michel Jarre - BRUTALISM Official Video
+{{< youtube id="mFjAwG_WjA0" title="Jean-Michel Jarre - BRUTALISM Official Video" >}}<br>
 ### More Videos
 
 - [AGORA](https://www.youtube.com/watch?v=Jb-u4KeW7Zw)
@@ -95,20 +95,20 @@ styles: ["Techno"]
 - [SEX IN THE MACHINE](https://www.youtube.com/watch?v=3ZxaskBZz9g)
 - [ZEITGEIST](https://www.youtube.com/watch?v=DE48f7-2daI)
 - [CRYSTAL GARDEN](https://www.youtube.com/watch?v=h843xk2UQTI)
-- [AGORA (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oPKpe5zfXVs)
-- [OXYMORE (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=YVDktZ644iw)
-- [NEON LIPS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Bpe9C0pZ4fk)
-- [SONIC LAND (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TYb2MfdUzf8)
-- [ANIMAL GENESIS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
-- [SYNTHY SISTERS (Binaural Headphone Mix)](https://www.youtube.com/watch?v=oJdJHCy9Osg)
-- [SEX IN THE MACHINE (Binaural Headphone Mix)](https://www.youtube.com/watch?v=QFbGxXdDdGI)
-- [ZEITGEIST (Binaural Headphone Mix)](https://www.youtube.com/watch?v=eVTEy5xUMbA)
-- [CRYSTAL GARDEN (Binaural Headphone Mix)](https://www.youtube.com/watch?v=TcRv_J1-v1c)
-- [BRUTALISM (Binaural Headphone Mix)](https://www.youtube.com/watch?v=Pxj4mBZ5fJM)
-- [EPICA (Binaurel Headphone Mix)](https://www.youtube.com/watch?v=Vj9_79BlZFE)
+- [AGORA Binaural Headphone Mix](https://www.youtube.com/watch?v=oPKpe5zfXVs)
+- [OXYMORE Binaurel Headphone Mix](https://www.youtube.com/watch?v=YVDktZ644iw)
+- [NEON LIPS Binaural Headphone Mix](https://www.youtube.com/watch?v=Bpe9C0pZ4fk)
+- [SONIC LAND Binaural Headphone Mix](https://www.youtube.com/watch?v=TYb2MfdUzf8)
+- [ANIMAL GENESIS Binaural Headphone Mix](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
+- [SYNTHY SISTERS Binaural Headphone Mix](https://www.youtube.com/watch?v=oJdJHCy9Osg)
+- [SEX IN THE MACHINE Binaural Headphone Mix](https://www.youtube.com/watch?v=QFbGxXdDdGI)
+- [ZEITGEIST Binaural Headphone Mix](https://www.youtube.com/watch?v=eVTEy5xUMbA)
+- [CRYSTAL GARDEN Binaural Headphone Mix](https://www.youtube.com/watch?v=TcRv_J1-v1c)
+- [BRUTALISM Binaural Headphone Mix](https://www.youtube.com/watch?v=Pxj4mBZ5fJM)
+- [EPICA Binaurel Headphone Mix](https://www.youtube.com/watch?v=Vj9_79BlZFE)
 - [Jean Michel Jarre - Oxymore CD Album 2022 Sony Music EU Unboxing](https://www.youtube.com/watch?v=nqiRXZq8-mo)
 - [Jean Michel Jarre - Oxymore 2xLP Album 2022 Sony Music Europe VINYL UNBOXING](https://www.youtube.com/watch?v=dgefMtRMuzM)
-- [Jean-Michel Jarre - BRUTALISM (Official Video)](https://www.youtube.com/watch?v=mFjAwG_WjA0)
+- [Jean-Michel Jarre - BRUTALISM Official Video](https://www.youtube.com/watch?v=mFjAwG_WjA0)
 
 ## Release Images
 {{< imageGrid >}}

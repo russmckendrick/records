@@ -59,8 +59,8 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 
 
 ## Videos
-### Rancid - "Tomorrow Never Comes"
-{{< youtube id="gAMjyYE_etk" title="Rancid - "Tomorrow Never Comes"" >}}<br>
+### Rancid - Tomorrow Never Comes
+{{< youtube id="gAMjyYE_etk" title="Rancid - Tomorrow Never Comes" >}}<br>
 
 
 ## Release Images

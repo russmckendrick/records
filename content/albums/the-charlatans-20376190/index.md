@@ -55,12 +55,12 @@ This is a discography by the indie British rock band The Charlatans.
 
 
 ## Videos
-### The Charlatans - Just When You're Thinkin' Things Over
-{{< youtube id="blqPQP7RPXw" title="The Charlatans - Just When You're Thinkin' Things Over" >}}<br>
+### The Charlatans - Just When Youre Thinkin Things Over
+{{< youtube id="blqPQP7RPXw" title="The Charlatans - Just When Youre Thinkin Things Over" >}}<br>
 ### More Videos
 
 - [The Charlatans - Crashin In](https://www.youtube.com/watch?v=NlrG6wPgOLo)
-- [The Charlatans-Crashin' In on The White Room.](https://www.youtube.com/watch?v=CZnxlnjWBNI)
+- [The Charlatans-Crashin In on The White Room](https://www.youtube.com/watch?v=CZnxlnjWBNI)
 - [The Charlatans - Feeling Holy](https://www.youtube.com/watch?v=-mSwij3eShM)
 
 ## Release Images

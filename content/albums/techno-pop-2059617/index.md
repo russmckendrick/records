@@ -40,16 +40,16 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Boing Boom Tschak (2009 Remaster)
-{{< youtube id="Q_6c6FUVlzA" title="Boing Boom Tschak (2009 Remaster)" >}}<br>
+### Boing Boom Tschak 2009 Remaster
+{{< youtube id="Q_6c6FUVlzA" title="Boing Boom Tschak 2009 Remaster" >}}<br>
 ### More Videos
 
-- [Techno Pop (2009 Remaster)](https://www.youtube.com/watch?v=R3AKaZS8r1g)
-- [Musique Non Stop (2009 Remaster)](https://www.youtube.com/watch?v=fit8fTqQV68)
-- [The Telephone Call (2009 Remaster)](https://www.youtube.com/watch?v=ys_rJtuMfuA)
-- [House Phone (2009 Remaster)](https://www.youtube.com/watch?v=_ShnUyE4i_w)
-- [Sex Object (2009 Remaster)](https://www.youtube.com/watch?v=GkgldB8ITfI)
-- [Electric Café (2009 Remaster)](https://www.youtube.com/watch?v=i-3o_QH4Cz4)
+- [Techno Pop 2009 Remaster](https://www.youtube.com/watch?v=R3AKaZS8r1g)
+- [Musique Non Stop 2009 Remaster](https://www.youtube.com/watch?v=fit8fTqQV68)
+- [The Telephone Call 2009 Remaster](https://www.youtube.com/watch?v=ys_rJtuMfuA)
+- [House Phone 2009 Remaster](https://www.youtube.com/watch?v=_ShnUyE4i_w)
+- [Sex Object 2009 Remaster](https://www.youtube.com/watch?v=GkgldB8ITfI)
+- [Electric Café 2009 Remaster](https://www.youtube.com/watch?v=i-3o_QH4Cz4)
 
 ## Release Images
 {{< imageGrid >}}

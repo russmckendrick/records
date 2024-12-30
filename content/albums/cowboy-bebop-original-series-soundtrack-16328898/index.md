@@ -59,14 +59,14 @@ styles: ["Soundtrack", "Score", "Anison"]
 
 
 ## Videos
-### Cowboy Bebop - Opening | Tank!
-{{< youtube id="EL-D9LrFJd4" title="Cowboy Bebop - Opening | Tank!" >}}<br>
+### Cowboy Bebop - Opening  Tank
+{{< youtube id="EL-D9LrFJd4" title="Cowboy Bebop - Opening  Tank" >}}<br>
 ### More Videos
 
-- [Cowboy Bebop (Original Series Soundtrack) - Side A (Milan) by The Seatbelts](https://www.youtube.com/watch?v=o4wkH-6I4BM)
-- [Cowboy Bebop (Original Series Soundtrack) - Side B (Milan) by The Seatbelts](https://www.youtube.com/watch?v=QY2RBgYuBOA)
-- [Cowboy Bebop (Original Series Soundtrack) - Side C (Milan) by The Seatbelts](https://www.youtube.com/watch?v=SFK0r9_SDSk)
-- [Cowboy Bebop (Original Series Soundtrack) - Side D (Milan) by The Seatbelts](https://www.youtube.com/watch?v=2mN0nKcksIs)
+- [Cowboy Bebop Original Series Soundtrack - Side A Milan by The Seatbelts](https://www.youtube.com/watch?v=o4wkH-6I4BM)
+- [Cowboy Bebop Original Series Soundtrack - Side B Milan by The Seatbelts](https://www.youtube.com/watch?v=QY2RBgYuBOA)
+- [Cowboy Bebop Original Series Soundtrack - Side C Milan by The Seatbelts](https://www.youtube.com/watch?v=SFK0r9_SDSk)
+- [Cowboy Bebop Original Series Soundtrack - Side D Milan by The Seatbelts](https://www.youtube.com/watch?v=2mN0nKcksIs)
 
 ## Release Images
 {{< imageGrid >}}

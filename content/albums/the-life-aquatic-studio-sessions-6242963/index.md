@@ -56,13 +56,13 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 {{< youtube id="-D_3bPt0wcw" title="Rebel Rebel" >}}<br>
 ### More Videos
 
-- [Life On Mars?](https://www.youtube.com/watch?v=l-Sx_NgkpTs)
+- [Life On Mars](https://www.youtube.com/watch?v=l-Sx_NgkpTs)
 - [Starman](https://www.youtube.com/watch?v=A-izaHiBdfE)
 - [Ziggy Stardust](https://www.youtube.com/watch?v=eO4Y1I1pmXo)
 - [Lady Stardust](https://www.youtube.com/watch?v=PtNsulPqGQA)
 - [Changes](https://www.youtube.com/watch?v=hVJyDvOeQfA)
-- [Oh! You Pretty Things](https://www.youtube.com/watch?v=U2TC3A2GaMo)
-- [Rock N' Roll Suicide](https://www.youtube.com/watch?v=6gAYtsDEH0Y)
+- [Oh You Pretty Things](https://www.youtube.com/watch?v=U2TC3A2GaMo)
+- [Rock N Roll Suicide](https://www.youtube.com/watch?v=6gAYtsDEH0Y)
 - [Suffragette City](https://www.youtube.com/watch?v=mS3G9HJ2usw)
 - [Five Years](https://www.youtube.com/watch?v=bHUZMCg0px8)
 - [Queen Bitch](https://www.youtube.com/watch?v=pXvMddhYGew)

@@ -63,21 +63,21 @@ Goldie's <i>Timeless</i> set the standard for what a drum 'n' bass LP might achi
 {{< youtube id="Usqwy2-E4SE" title="Goldie - Timeless" >}}<br>
 ### More Videos
 
-- [Goldie - Timeless (1995) Full album - 2 CDs](https://www.youtube.com/watch?v=dhV9VbxV3Rw)
+- [Goldie - Timeless 1995 Full album - 2 CDs](https://www.youtube.com/watch?v=dhV9VbxV3Rw)
 - [Goldie - Sensual](https://www.youtube.com/watch?v=il2etoRKwx4)
 - [Goldie - Timeless](https://www.youtube.com/watch?v=Usqwy2-E4SE)
-- [Goldie: Sea of Tears](https://www.youtube.com/watch?v=BY37izMpcsc)
-- [Goldie: You & Me](https://www.youtube.com/watch?v=kZAeF4Fy9us)
-- [Goldie - Saint Angel [HD]](https://www.youtube.com/watch?v=NvHtYLWMUKU)
+- [Goldie Sea of Tears](https://www.youtube.com/watch?v=BY37izMpcsc)
+- [Goldie You  Me](https://www.youtube.com/watch?v=kZAeF4Fy9us)
+- [Goldie - Saint Angel HD](https://www.youtube.com/watch?v=NvHtYLWMUKU)
 - [Goldie - Jah The Seventh Seal](https://www.youtube.com/watch?v=goK2Qbbt7LE)
 - [Goldie - Adrift](https://www.youtube.com/watch?v=j8sN_xgUa58)
-- [Goldie: Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
-- [Goldie: Sensual](https://www.youtube.com/watch?v=x9Z7WND01xE)
-- [Goldie: State of Mind](https://www.youtube.com/watch?v=QcbWg01E7Qg)
+- [Goldie Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
+- [Goldie Sensual](https://www.youtube.com/watch?v=x9Z7WND01xE)
+- [Goldie State of Mind](https://www.youtube.com/watch?v=QcbWg01E7Qg)
 - [This Is A Bad](https://www.youtube.com/watch?v=05iHoucOVLE)
-- [Goldie - A Sense Of Rage (Sensual Vip Mix)](https://www.youtube.com/watch?v=ZTSJLyUhEAk)
-- [Goldie: Angel](https://www.youtube.com/watch?v=nIRDgl_Rx4E)
-- [Goldie: Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
+- [Goldie - A Sense Of Rage Sensual Vip Mix](https://www.youtube.com/watch?v=ZTSJLyUhEAk)
+- [Goldie Angel](https://www.youtube.com/watch?v=nIRDgl_Rx4E)
+- [Goldie Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
 
 ## Release Images
 {{< imageGrid >}}

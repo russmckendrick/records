@@ -59,24 +59,24 @@ Several songs on the album have appeared in television advertisements and on fil
 
 
 ## Videos
-### Death In Vegas "Girls"
-{{< youtube id="v4-GIq4bEOE" title="Death In Vegas "Girls"" >}}<br>
+### Death In Vegas Girls
+{{< youtube id="v4-GIq4bEOE" title="Death In Vegas Girls" >}}<br>
 ### More Videos
 
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
 - [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
 - [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
+- [Death In Vegas feat Hope Sandoval - Help Yourself lyrics](https://www.youtube.com/watch?v=H2ihddzxTFA)
 - [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
-- [Death In Vegas "Girls"](https://www.youtube.com/watch?v=v4-GIq4bEOE)
+- [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
 - [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
 - [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
-- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
+- [Death In Vegas feat Hope Sandoval - Help Yourself lyrics](https://www.youtube.com/watch?v=H2ihddzxTFA)
+- [Death In Vegas - Scorpio Raising ft Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
 - [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
 - [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
-- [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
+- [Death in Vegas - 23 Lies Hope Sandoval](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 
 ## Release Images
 {{< imageGrid >}}

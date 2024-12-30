@@ -46,16 +46,16 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 
 
 ## Videos
-### True Romance Soundtrack Track 5 "I Want Your Body" Nymphomania
-{{< youtube id="RalIJp1jL6M" title="True Romance Soundtrack Track 5 "I Want Your Body" Nymphomania" >}}<br>
+### True Romance Soundtrack Track 5 I Want Your Body Nymphomania
+{{< youtube id="RalIJp1jL6M" title="True Romance Soundtrack Track 5 I Want Your Body Nymphomania" >}}<br>
 ### More Videos
 
 - [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
-- [True Romance Score by Hans ZImmer: Shootout (Track 13)](https://www.youtube.com/watch?v=dhdUZzbeSZY)
-- [True Romance (OST) - Shootout](https://www.youtube.com/watch?v=vWJ6wu22I30)
-- [Hans Zimmer - You're So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
-- [True Romance Soundtrack Track 6 "Stars At Dawn" Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
-- [You're So Cool](https://www.youtube.com/watch?v=lFUkaB_NU5o)
+- [True Romance Score by Hans ZImmer Shootout Track 13](https://www.youtube.com/watch?v=dhdUZzbeSZY)
+- [True Romance OST - Shootout](https://www.youtube.com/watch?v=vWJ6wu22I30)
+- [Hans Zimmer - Youre So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
+- [True Romance Soundtrack Track 6 Stars At Dawn Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
+- [Youre So Cool](https://www.youtube.com/watch?v=lFUkaB_NU5o)
 - [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
 - [In Dreams](https://www.youtube.com/watch?v=xFlKHvkOmSQ)
 - [Wounded Bird](https://www.youtube.com/watch?v=eUDwnzeGgA0)
@@ -63,7 +63,7 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 - [Stars at Dawn](https://www.youtube.com/watch?v=o9gvZA-dJM8)
 - [I Need A Heart To Come Home To](https://www.youtube.com/watch?v=EOI3_ckWzb0)
 - [Viens Mallika Sous Le Dome Edais From Lakme](https://www.youtube.com/watch?v=WwcWDjOrh2M)
-- [[Love Is] The Tender Trap](https://www.youtube.com/watch?v=Q3o1T5DY_JQ)
+- [Love Is The Tender Trap](https://www.youtube.com/watch?v=Q3o1T5DY_JQ)
 - [Outshined](https://www.youtube.com/watch?v=jBq_tFvtzEI)
 - [Amid The Chaos Of The Day](https://www.youtube.com/watch?v=eFZm0oOi2Oc)
 - [Two Hearts](https://www.youtube.com/watch?v=gQ4bRyK3JEo)

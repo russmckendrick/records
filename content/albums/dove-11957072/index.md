@@ -45,8 +45,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 ### More Videos
 
 - [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
-- [Belly "Stars Align" (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
-- [Belly: "Mine" (Official Video)](https://www.youtube.com/watch?v=PsGgcabXrpg)
+- [Belly Stars Align Official Audio](https://www.youtube.com/watch?v=rgxHiKv25EM)
+- [Belly Mine Official Video](https://www.youtube.com/watch?v=PsGgcabXrpg)
 - [Human Child](https://www.youtube.com/watch?v=rITGW0pKqmk)
 
 ## Release Images

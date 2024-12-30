@@ -59,15 +59,15 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 
 
 ## Videos
-### U̲2  - Boy (The full album 1980)
-{{< youtube id="5uMqPsmbMHI" title="U̲2  - Boy (The full album 1980)" >}}<br>
+### U2  - Boy The full album 1980
+{{< youtube id="5uMqPsmbMHI" title="U2  - Boy The full album 1980" >}}<br>
 ### More Videos
 
 - [U2 - I Will Follow](https://www.youtube.com/watch?v=-sLzV00gNUo)
-- [U2 - Wide Awake in America (1985) - Full Album](https://www.youtube.com/watch?v=7cOtsrQABso)
-- [Twilight (Remastered 2008)](https://www.youtube.com/watch?v=ZGWF9xBonDk)
-- [An Cat Dubh (Remastered 2008)](https://www.youtube.com/watch?v=jI9GV3rAOQ4)
-- [U2 - I Will Follow (Video)](https://www.youtube.com/watch?v=-sLzV00gNUo)
+- [U2 - Wide Awake in America 1985 - Full Album](https://www.youtube.com/watch?v=7cOtsrQABso)
+- [Twilight Remastered 2008](https://www.youtube.com/watch?v=ZGWF9xBonDk)
+- [An Cat Dubh Remastered 2008](https://www.youtube.com/watch?v=jI9GV3rAOQ4)
+- [U2 - I Will Follow Video](https://www.youtube.com/watch?v=-sLzV00gNUo)
 
 ## Release Images
 {{< imageGrid >}}

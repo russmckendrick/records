@@ -54,8 +54,8 @@ Levity comes in the form of “What Have I Done to Deserve This?”, in which Te
 
 
 ## Videos
-### Pet Shop Boys ‎– Actually
-{{< youtube id="mEG8OhXVFLA" title="Pet Shop Boys ‎– Actually" >}}<br>
+### Pet Shop Boys  Actually
+{{< youtube id="mEG8OhXVFLA" title="Pet Shop Boys  Actually" >}}<br>
 
 
 ## Release Images

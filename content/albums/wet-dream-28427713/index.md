@@ -65,9 +65,9 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 - [Richard Wright - Holiday](https://www.youtube.com/watch?v=u4tF-lA5pN8)
 - [Richard Wright - Mad Yannis Dance](https://www.youtube.com/watch?v=OkHSRqYsGEU)
 - [Richard Wright - Drop In From The Top](https://www.youtube.com/watch?v=KnZsNW2VpwM)
-- [Richard Wright- Pink's Song](https://www.youtube.com/watch?v=yImoJfskNrE)
+- [Richard Wright- Pinks Song](https://www.youtube.com/watch?v=yImoJfskNrE)
 - [Richard Wright - Funky Deux](https://www.youtube.com/watch?v=0pHI3QohQzQ)
-- [Richard Wright - Wet Dream (Bluray 2023 Instrumental Bonus Tracks)](https://www.youtube.com/watch?v=-_6YqoicDYE)
+- [Richard Wright - Wet Dream Bluray 2023 Instrumental Bonus Tracks](https://www.youtube.com/watch?v=-_6YqoicDYE)
 
 ## Release Images
 {{< imageGrid >}}

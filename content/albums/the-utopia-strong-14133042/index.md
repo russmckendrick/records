@@ -39,8 +39,8 @@ The Utopia Strong are a British electronic band formed in Glastonbury, England i
 
 
 ## Videos
-### The Utopia Strong - Brainsurgeons 3 (Track Video)
-{{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 (Track Video)" >}}<br>
+### The Utopia Strong - Brainsurgeons 3 Track Video
+{{< youtube id="gG02P9j406I" title="The Utopia Strong - Brainsurgeons 3 Track Video" >}}<br>
 ### More Videos
 
 - [The Utopia Strong - Konta Chorus](https://www.youtube.com/watch?v=-1osxHixrFc)

@@ -69,9 +69,9 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
 ### More Videos
 
-- [Birdhouse In Your Soul (Official Video) - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
+- [Birdhouse In Your Soul Official Video - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
 - [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
-- [They Might Be Giants - "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=p6NzVd3pGdE)
+- [They Might Be Giants - Istanbul Not Constantinople](https://www.youtube.com/watch?v=p6NzVd3pGdE)
 - [Dead](https://www.youtube.com/watch?v=bPgXYPJC2uA)
 - [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
@@ -83,11 +83,11 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 - [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
 - [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
 - [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)
-- [Women & Men](https://www.youtube.com/watch?v=33BTvjZ45MI)
+- [Women  Men](https://www.youtube.com/watch?v=33BTvjZ45MI)
 - [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
-- [THEY MIGHT BE GIANTS "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=vsQrKZcYtqg)
+- [THEY MIGHT BE GIANTS Istanbul Not Constantinople](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 
 ## Release Images
 {{< imageGrid >}}

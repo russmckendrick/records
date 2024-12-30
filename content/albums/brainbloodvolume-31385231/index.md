@@ -49,16 +49,16 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 
 
 ## Videos
-### Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)
-{{< youtube id="KhsKggeyv9Y" title="Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)" >}}<br>
+### Neds Atomic Dustbin - All I Ask Of Myself Is That I Hold Together Video
+{{< youtube id="KhsKggeyv9Y" title="Neds Atomic Dustbin - All I Ask Of Myself Is That I Hold Together Video" >}}<br>
 ### More Videos
 
-- [Ned's Atomic Dustbin - All I Ask of Myself Is That I Hold Together on Beavis and Butt-Head](https://www.youtube.com/watch?v=D2rLJBjEG0k)
-- [Ned's Atomic Dustbin-Stuck](https://www.youtube.com/watch?v=QXCg4BcXsWw)
-- [Ned's Atomic Dustbin-All I Ask Of Myself Is That I Hold Together](https://www.youtube.com/watch?v=nMCWxG4dXDo)
-- [Ned's Atomic Dustbin-Floote](https://www.youtube.com/watch?v=CJg99Ntr5IU)
-- [Ned's Atomic Dustbin-Premonition](https://www.youtube.com/watch?v=Hk7E0UVu9UM)
-- [Ned's Atomic Dustbin-Song Eleven Could Forever](https://www.youtube.com/watch?v=nb9NpYRZmxg)
+- [Neds Atomic Dustbin - All I Ask of Myself Is That I Hold Together on Beavis and Butt-Head](https://www.youtube.com/watch?v=D2rLJBjEG0k)
+- [Neds Atomic Dustbin-Stuck](https://www.youtube.com/watch?v=QXCg4BcXsWw)
+- [Neds Atomic Dustbin-All I Ask Of Myself Is That I Hold Together](https://www.youtube.com/watch?v=nMCWxG4dXDo)
+- [Neds Atomic Dustbin-Floote](https://www.youtube.com/watch?v=CJg99Ntr5IU)
+- [Neds Atomic Dustbin-Premonition](https://www.youtube.com/watch?v=Hk7E0UVu9UM)
+- [Neds Atomic Dustbin-Song Eleven Could Forever](https://www.youtube.com/watch?v=nb9NpYRZmxg)
 - [Borehole](https://www.youtube.com/watch?v=z-yh-U0ok24)
 
 ## Release Images

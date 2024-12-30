@@ -44,13 +44,13 @@ Come on Feel the Lemonheads is the sixth studio album by the American alternativ
 
 
 ## Videos
-### The Lemonheads - Come On Feel The Lemonheads (Full Album - 30th Anniversary Edition)
-{{< youtube id="NMDpZZglra0" title="The Lemonheads - Come On Feel The Lemonheads (Full Album - 30th Anniversary Edition)" >}}<br>
+### The Lemonheads - Come On Feel The Lemonheads Full Album - 30th Anniversary Edition
+{{< youtube id="NMDpZZglra0" title="The Lemonheads - Come On Feel The Lemonheads Full Album - 30th Anniversary Edition" >}}<br>
 ### More Videos
 
-- [The Lemonheads - It's About Time](https://www.youtube.com/watch?v=_OVy1Q-O4wM)
-- [The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]](https://www.youtube.com/watch?v=66dq0FIQO8c)
-- [The Lemonheads - Into Your Arms (Lyrics)](https://www.youtube.com/watch?v=Kt-lmyQG6GI)
+- [The Lemonheads - Its About Time](https://www.youtube.com/watch?v=_OVy1Q-O4wM)
+- [The Lemonheads - Down About It - Come on Feel the Lemonheads 1993](https://www.youtube.com/watch?v=66dq0FIQO8c)
+- [The Lemonheads - Into Your Arms Lyrics](https://www.youtube.com/watch?v=Kt-lmyQG6GI)
 - [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
 - [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)
 

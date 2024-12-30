@@ -59,13 +59,13 @@ The Best of Roxy Music is a greatest hits album by English art rock band Roxy Mu
 
 
 ## Videos
-### Roxy Music ~ Avalon ~ The Best Of Roxy Music
-{{< youtube id="KPnXxzOU6WY" title="Roxy Music ~ Avalon ~ The Best Of Roxy Music" >}}<br>
+### Roxy Music  Avalon  The Best Of Roxy Music
+{{< youtube id="KPnXxzOU6WY" title="Roxy Music  Avalon  The Best Of Roxy Music" >}}<br>
 ### More Videos
 
-- [Roxy Music ~ Avalon ~ The Best Of Roxy Music](https://www.youtube.com/watch?v=KPnXxzOU6WY)
+- [Roxy Music  Avalon  The Best Of Roxy Music](https://www.youtube.com/watch?v=KPnXxzOU6WY)
 - [Roxy Music - More Than This](https://www.youtube.com/watch?v=kOnde5c7OG8)
-- [Roxy Music - Jealous Guy (Official Video)](https://www.youtube.com/watch?v=hRzGzRqNj58)
+- [Roxy Music - Jealous Guy Official Video](https://www.youtube.com/watch?v=hRzGzRqNj58)
 - [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
 - [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
 

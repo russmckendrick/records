@@ -44,19 +44,19 @@ Just how big a star was Elvis Presley in the ’50s? Consider that RCA released 
 
 
 ## Videos
-### Elvis Presley - I Need Your Love Tonight (Live - Official Audio)
-{{< youtube id="gS5O_wgzKqg" title="Elvis Presley - I Need Your Love Tonight (Live - Official Audio)" >}}<br>
+### Elvis Presley - I Need Your Love Tonight Live - Official Audio
+{{< youtube id="gS5O_wgzKqg" title="Elvis Presley - I Need Your Love Tonight Live - Official Audio" >}}<br>
 ### More Videos
 
-- [Elvis Presley - Don't (Official Lyric Video)](https://www.youtube.com/watch?v=q6UO6YcT3PE)
+- [Elvis Presley - Dont Official Lyric Video](https://www.youtube.com/watch?v=q6UO6YcT3PE)
 - [Wear My Ring Around Your Neck](https://www.youtube.com/watch?v=blmeWAWjlyk)
 - [My Wish Came True](https://www.youtube.com/watch?v=OIJsor6_r28)
-- [Elvis Presley - I Got Stung (Official Audio)](https://www.youtube.com/watch?v=xzrdENvsEyU)
-- [Elvis Presley - One Night (Official Audio)](https://www.youtube.com/watch?v=Hb18smk-GvA)
-- [Elvis Presley - A Big Hunk O' Love (Official Audio)](https://www.youtube.com/watch?v=VqyVe8tfLm0)
-- [Elvis Presley - I Beg of You (Official Audio)](https://www.youtube.com/watch?v=ejbiae5uX-U)
-- [Elvis Presley - (Now and Then There's) A Fool Such as I (Official Audio)](https://www.youtube.com/watch?v=-unOfZiTM_0)
-- [Elvis Presley - Doncha' Think It's Time (Official Audio)](https://www.youtube.com/watch?v=IP347ysKZHo)
+- [Elvis Presley - I Got Stung Official Audio](https://www.youtube.com/watch?v=xzrdENvsEyU)
+- [Elvis Presley - One Night Official Audio](https://www.youtube.com/watch?v=Hb18smk-GvA)
+- [Elvis Presley - A Big Hunk O Love Official Audio](https://www.youtube.com/watch?v=VqyVe8tfLm0)
+- [Elvis Presley - I Beg of You Official Audio](https://www.youtube.com/watch?v=ejbiae5uX-U)
+- [Elvis Presley - Now and Then Theres A Fool Such as I Official Audio](https://www.youtube.com/watch?v=-unOfZiTM_0)
+- [Elvis Presley - Doncha Think Its Time Official Audio](https://www.youtube.com/watch?v=IP347ysKZHo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,14 +54,14 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 {{< youtube id="IA-1PbsAZnU" title="Crowded House - World Where You Live" >}}<br>
 ### More Videos
 
-- [Crowded House - Don't Dream It's Over (Official Music Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
 - [Crowded House - Something So Strong](https://www.youtube.com/watch?v=WyBKzBtaKWM)
 - [Crowded House - Mean To Me](https://www.youtube.com/watch?v=E9bCl7upxG0)
-- [Crowded House - Now We're Getting Somewhere](https://www.youtube.com/watch?v=s6Vl_OFScbc)
-- [Crowded House - Don't Dream It's Over (Official Music Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
-- [Crowded House - Something So Strong (Official Video)](https://www.youtube.com/watch?v=WyBKzBtaKWM)
-- [Crowded House - Don't Dream It's Over (Official Music Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
-- [Crowded House - Now We're Getting Somewhere](https://www.youtube.com/watch?v=OmnDCPWxBFM)
+- [Crowded House - Now Were Getting Somewhere](https://www.youtube.com/watch?v=s6Vl_OFScbc)
+- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - Something So Strong Official Video](https://www.youtube.com/watch?v=WyBKzBtaKWM)
+- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - Now Were Getting Somewhere](https://www.youtube.com/watch?v=OmnDCPWxBFM)
 
 ## Release Images
 {{< imageGrid >}}

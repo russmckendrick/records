@@ -49,8 +49,8 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 
 
 ## Videos
-### Crowded House - It's Only Natural
-{{< youtube id="duf-dofeoms" title="Crowded House - It's Only Natural" >}}<br>
+### Crowded House - Its Only Natural
+{{< youtube id="duf-dofeoms" title="Crowded House - Its Only Natural" >}}<br>
 ### More Videos
 
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
@@ -58,16 +58,16 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 - [Crowded House - Chocolate Cake](https://www.youtube.com/watch?v=M699TqhO06k)
 - [All I Ask](https://www.youtube.com/watch?v=YYPT3OYOl-g)
-- [Crowded House - Weather With You (HQ)](https://www.youtube.com/watch?v=BjDknXaEP9A)
-- [Crowded House — Chocolate cake (subtitulada).](https://www.youtube.com/watch?v=e4Huvbcjo7A)
+- [Crowded House - Weather With You HQ](https://www.youtube.com/watch?v=BjDknXaEP9A)
+- [Crowded House  Chocolate cake subtitulada](https://www.youtube.com/watch?v=e4Huvbcjo7A)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 - [Fame Is](https://www.youtube.com/watch?v=1jWjXLejcnI)
-- [It's Only Natural](https://www.youtube.com/watch?v=r1mni1H2_SU)
+- [Its Only Natural](https://www.youtube.com/watch?v=r1mni1H2_SU)
 - [Fall at Your Feet - Crowded House](https://www.youtube.com/watch?v=9XLEDZO9kCQ)
 - [Tall Trees](https://www.youtube.com/watch?v=1FoPfNku9sY)
 - [Whispers And Moans](https://www.youtube.com/watch?v=CY9kS7d6O_0)
 - [There Goes God](https://www.youtube.com/watch?v=sMMRryOYeGY)
-- [Crowded House - All I Ask (1991)](https://www.youtube.com/watch?v=-nUk45bj_8g)
+- [Crowded House - All I Ask 1991](https://www.youtube.com/watch?v=-nUk45bj_8g)
 - [As Sure As I Am](https://www.youtube.com/watch?v=EzrQgTJa6qU)
 - [Italian Plastic](https://www.youtube.com/watch?v=me0Ap2I_j8E)
 - [She Goes On](https://www.youtube.com/watch?v=Kar6Q_Yr65c)

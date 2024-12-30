@@ -49,32 +49,32 @@ Prism is the seventeenth studio album by English ambient house duo the Orb. The 
 
 
 ## Videos
-### The Orb - H.O.M.E (high orbs mini earths)
-{{< youtube id="_KZfmTLCNX8" title="The Orb - H.O.M.E (high orbs mini earths)" >}}<br>
+### The Orb - HOME high orbs mini earths
+{{< youtube id="_KZfmTLCNX8" title="The Orb - HOME high orbs mini earths" >}}<br>
 ### More Videos
 
 - [the beginning of the end](https://www.youtube.com/watch?v=pztEJG19dbk)
-- [Orb – H.O.M.E. (High Orbs Mini Earths)](https://www.youtube.com/watch?v=XRteurEnuKQ)
+- [Orb  HOME High Orbs Mini Earths](https://www.youtube.com/watch?v=XRteurEnuKQ)
 - [a ghetto love story](https://www.youtube.com/watch?v=BGnW9XllR9w)
-- [picking tea leaves & chasing butterflies](https://www.youtube.com/watch?v=ntO5P4GiAyo)
+- [picking tea leaves  chasing butterflies](https://www.youtube.com/watch?v=ntO5P4GiAyo)
 - [Tiger](https://www.youtube.com/watch?v=sOO8HpA_3-I)
-- [dragon of the ocean (dogon mix)](https://www.youtube.com/watch?v=-XZmeSHIbDA)
-- [The Orb - H.O.M.E (high orbs mini earths)](https://www.youtube.com/watch?v=_KZfmTLCNX8)
+- [dragon of the ocean dogon mix](https://www.youtube.com/watch?v=-XZmeSHIbDA)
+- [The Orb - HOME high orbs mini earths](https://www.youtube.com/watch?v=_KZfmTLCNX8)
 - [the beginning of the end](https://www.youtube.com/watch?v=pztEJG19dbk)
-- [Orb – H.O.M.E. (High Orbs Mini Earths)](https://www.youtube.com/watch?v=XRteurEnuKQ)
-- [The Orb ~ Why Can You Be in Two Places At Once, When You Can’t Be Anywhere At All (Where’s Gary Mix)](https://www.youtube.com/watch?v=hR_70KN2Omo)
+- [Orb  HOME High Orbs Mini Earths](https://www.youtube.com/watch?v=XRteurEnuKQ)
+- [The Orb  Why Can You Be in Two Places At Once When You Cant Be Anywhere At All Wheres Gary Mix](https://www.youtube.com/watch?v=hR_70KN2Omo)
 - [The Orb - Prism](https://www.youtube.com/watch?v=CsPENyMyKcw)
-- [The Orb - H.O.M.E (high orbs mini earths)](https://www.youtube.com/watch?v=_KZfmTLCNX8)
+- [The Orb - HOME high orbs mini earths](https://www.youtube.com/watch?v=_KZfmTLCNX8)
 - [the beginning of the end](https://www.youtube.com/watch?v=78JkL2uvmo8)
-- [picking tea leaves & chasing butterflies](https://www.youtube.com/watch?v=WBYMwsJ4B1I)
+- [picking tea leaves  chasing butterflies](https://www.youtube.com/watch?v=WBYMwsJ4B1I)
 - [a ghetto love story](https://www.youtube.com/watch?v=sOXG0skW3mg)
 - [Tiger](https://www.youtube.com/watch?v=zOGT-eVvYKw)
-- [The Orb - living in recycled times (feat. Rachel D'Arcy)](https://www.youtube.com/watch?v=zdlIv-0vvwY)
-- [The Orb - why can you be in two places at once, when you can’t be anywhere at all.. where’s gary mix](https://www.youtube.com/watch?v=g-1LU0puPCo)
-- [The Orb - Prism Bonus CD (Full / 2023)](https://www.youtube.com/watch?v=q47lQfy_Os0)
-- [The Orb - H.O.M.E (high orbs mini earths)](https://www.youtube.com/watch?v=_KZfmTLCNX8)
-- [The Orb - why can you be in two places at once, when you can’t be anywhere at all.. where’s gary mix](https://www.youtube.com/watch?v=g-1LU0puPCo)
-- [The Orb ~ A Ghetto Love Story](https://www.youtube.com/watch?v=ISXnLspO1hQ)
+- [The Orb - living in recycled times feat Rachel DArcy](https://www.youtube.com/watch?v=zdlIv-0vvwY)
+- [The Orb - why can you be in two places at once when you cant be anywhere at all wheres gary mix](https://www.youtube.com/watch?v=g-1LU0puPCo)
+- [The Orb - Prism Bonus CD Full  2023](https://www.youtube.com/watch?v=q47lQfy_Os0)
+- [The Orb - HOME high orbs mini earths](https://www.youtube.com/watch?v=_KZfmTLCNX8)
+- [The Orb - why can you be in two places at once when you cant be anywhere at all wheres gary mix](https://www.youtube.com/watch?v=g-1LU0puPCo)
+- [The Orb  A Ghetto Love Story](https://www.youtube.com/watch?v=ISXnLspO1hQ)
 
 ## Release Images
 {{< imageGrid >}}

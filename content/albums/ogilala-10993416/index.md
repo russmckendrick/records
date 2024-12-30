@@ -51,10 +51,10 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 ### More Videos
 
 - [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
-- [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
+- [PILLBOX - Official Trailer 2017](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 - [William Patrick Corgan - Aeronaut](https://www.youtube.com/watch?v=7PdZXNET88A)
 - [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
-- [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
+- [PILLBOX - Official Trailer 2017](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 
 ## Release Images
 {{< imageGrid >}}

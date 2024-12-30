@@ -62,7 +62,7 @@ While they rarely enjoyed significant mainstream success, they are considered or
 - [Sophisticated Cissy](https://www.youtube.com/watch?v=wEm_sj6k6lI)
 - [Ease Back](https://www.youtube.com/watch?v=oFaA816BUPg)
 - [6V6 LA](https://www.youtube.com/watch?v=4CNS2jYBsZw)
-- [Sehorn's Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)
+- [Sehorns Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)
 - [Ann](https://www.youtube.com/watch?v=QGuL1qOKp4Q)
 - [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 

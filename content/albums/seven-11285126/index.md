@@ -65,8 +65,8 @@ Seven received mixed reviews from music critics, some of whom noted the album's 
 - [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
 - [James - Born Of Frustration](https://www.youtube.com/watch?v=QxM42rG0a08)
 - [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
-- [James - Mother (Live)](https://www.youtube.com/watch?v=dFZaQblezk0)
-- [James - Don't Wait That Long (Live)](https://www.youtube.com/watch?v=IoN6oeeYHMg)
+- [James - Mother Live](https://www.youtube.com/watch?v=dFZaQblezk0)
+- [James - Dont Wait That Long Live](https://www.youtube.com/watch?v=IoN6oeeYHMg)
 - [James Protect me Live](https://www.youtube.com/watch?v=cu9-Paql8Ag)
 - [James   Born of Frustration   Seven    The Live Concert](https://www.youtube.com/watch?v=649SUNPN-do)
 

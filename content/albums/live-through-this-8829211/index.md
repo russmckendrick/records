@@ -52,16 +52,16 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 
 
 ## Videos
-### Hole - Violet (Official Video)
-{{< youtube id="cH_rfGBwamc" title="Hole - Violet (Official Video)" >}}<br>
+### Hole - Violet Official Video
+{{< youtube id="cH_rfGBwamc" title="Hole - Violet Official Video" >}}<br>
 ### More Videos
 
-- [Hole - Miss World (Official Video)](https://www.youtube.com/watch?v=mS1Ckczz0LQ)
+- [Hole - Miss World Official Video](https://www.youtube.com/watch?v=mS1Ckczz0LQ)
 - [Plump](https://www.youtube.com/watch?v=pO8ITYQdmJ0)
 - [Asking For It](https://www.youtube.com/watch?v=4Q1Kh9JkACc)
-- [Jennifer's Body](https://www.youtube.com/watch?v=qNfW3-w4Va4)
+- [Jennifers Body](https://www.youtube.com/watch?v=qNfW3-w4Va4)
 - [Credit In The Straight World](https://www.youtube.com/watch?v=4HeT1dUq70o)
-- [Hole - Doll Parts (Official Video)](https://www.youtube.com/watch?v=RD9xK9smth4)
+- [Hole - Doll Parts Official Video](https://www.youtube.com/watch?v=RD9xK9smth4)
 - [I Think That I Would Die](https://www.youtube.com/watch?v=SI8RmHw1QpY)
 
 ## Release Images

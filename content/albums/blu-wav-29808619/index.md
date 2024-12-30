@@ -55,7 +55,7 @@ Blu Wav is the sixth studio album by American indie rock band Grandaddy. Release
 ### More Videos
 
 - [Grandaddy - Watercooler](https://www.youtube.com/watch?v=UZxvjMPZeZE)
-- [Grandaddy - Long as I'm Not the One](https://www.youtube.com/watch?v=nPDxEIyOySk)
+- [Grandaddy - Long as Im Not the One](https://www.youtube.com/watch?v=nPDxEIyOySk)
 - [Grandaddy - Cabin in My Mind](https://www.youtube.com/watch?v=u2DsBxNL6M0)
 - [Blu Wav Buh Bye](https://www.youtube.com/watch?v=QMTxOmW_Pto)
 

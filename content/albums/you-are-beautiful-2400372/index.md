@@ -43,14 +43,14 @@ styles: ["Rhythm & Blues", "Soul"]
 ### More Videos
 
 - [The Stylistics - Jenny](https://www.youtube.com/watch?v=45CSbzYZxgY)
-- [The Stylistics - That Don't Shake Me](https://www.youtube.com/watch?v=f-Hrk08rfPM)
-- [The Stylistics - To Save My Rock 'N' Roll Soul](https://www.youtube.com/watch?v=ujSjMTWh5wc)
+- [The Stylistics - That Dont Shake Me](https://www.youtube.com/watch?v=f-Hrk08rfPM)
+- [The Stylistics - To Save My Rock N Roll Soul](https://www.youtube.com/watch?v=ujSjMTWh5wc)
 - [The Stylistics - Na-Na Is the Saddest Word](https://www.youtube.com/watch?v=jBNgsH9HPUY)
 - [The Stylistics - You Are Beautiful](https://www.youtube.com/watch?v=HU9kONvySCc)
 - [The Stylistics - Michael or Me](https://www.youtube.com/watch?v=UIUhGosItnM)
 - [The Stylistics - The Day the Clown Came to Town](https://www.youtube.com/watch?v=YPqiBStkdhQ)
 - [The Stylistics - If You Are There](https://www.youtube.com/watch?v=d-DeMnAu-0s)
-- [The Stylistics - We Just Can't Help It](https://www.youtube.com/watch?v=Om4uNd7vo70)
+- [The Stylistics - We Just Cant Help It](https://www.youtube.com/watch?v=Om4uNd7vo70)
 
 ## Release Images
 {{< imageGrid >}}

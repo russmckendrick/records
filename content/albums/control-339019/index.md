@@ -58,10 +58,10 @@ Control went on to receive several accolades, including a nomination for the Gra
 - [Janet Jackson - You Can Be Mine](https://www.youtube.com/watch?v=AdaD_CQ_mtM)
 - [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
 - [Janet Jackson - When I Think Of You](https://www.youtube.com/watch?v=Y4IX3QM8L6I)
-- [Janet Jackson - He Doesn't Know I'm Alive](https://www.youtube.com/watch?v=UnQKc-IQRxw)
-- [Janet Jackson - Let's Wait Awhile](https://www.youtube.com/watch?v=o7jAP67iRJ8)
-- [Janet Jackson - Funny How Time Flies (When You're Having Fun)](https://www.youtube.com/watch?v=f924WsFsAMc)
-- [Janet Jackson – He Doesn't Know I'm Alive...yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=ClFR51TMAus)
+- [Janet Jackson - He Doesnt Know Im Alive](https://www.youtube.com/watch?v=UnQKc-IQRxw)
+- [Janet Jackson - Lets Wait Awhile](https://www.youtube.com/watch?v=o7jAP67iRJ8)
+- [Janet Jackson - Funny How Time Flies When Youre Having Fun](https://www.youtube.com/watch?v=f924WsFsAMc)
+- [Janet Jackson  He Doesnt Know Im Aliveyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=ClFR51TMAus)
 
 ## Release Images
 {{< imageGrid >}}

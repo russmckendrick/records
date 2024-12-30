@@ -48,18 +48,18 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 
 
 ## Videos
-### Paul Simon - Obvious Child (Official Video)
-{{< youtube id="9HKNAhAxMAk" title="Paul Simon - Obvious Child (Official Video)" >}}<br>
+### Paul Simon - Obvious Child Official Video
+{{< youtube id="9HKNAhAxMAk" title="Paul Simon - Obvious Child Official Video" >}}<br>
 ### More Videos
 
 - [The Rhythm of the Saints](https://www.youtube.com/watch?v=-0MuckJUILs)
-- [Can't Run But](https://www.youtube.com/watch?v=znfNpN6rfoM)
-- [Paul Simon - The Coast (Official Audio)](https://www.youtube.com/watch?v=1-tzfMr9E_Y)
-- [Paul Simon - Proof (Official Video)](https://www.youtube.com/watch?v=Z5Oh-GDikis)
+- [Cant Run But](https://www.youtube.com/watch?v=znfNpN6rfoM)
+- [Paul Simon - The Coast Official Audio](https://www.youtube.com/watch?v=1-tzfMr9E_Y)
+- [Paul Simon - Proof Official Video](https://www.youtube.com/watch?v=Z5Oh-GDikis)
 - [Further to Fly](https://www.youtube.com/watch?v=UU39FlPHNIM)
 - [She Moves On](https://www.youtube.com/watch?v=414FPXLWDVk)
-- [Paul Simon - Born at the Right Time (Official Audio)](https://www.youtube.com/watch?v=dxnYpg2wyiM)
-- [The Cool, Cool River](https://www.youtube.com/watch?v=Ziob6xgiLjc)
+- [Paul Simon - Born at the Right Time Official Audio](https://www.youtube.com/watch?v=dxnYpg2wyiM)
+- [The Cool Cool River](https://www.youtube.com/watch?v=Ziob6xgiLjc)
 - [Spirit Voices](https://www.youtube.com/watch?v=Ntz9xrtAIXk)
 
 ## Release Images

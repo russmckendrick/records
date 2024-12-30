@@ -48,26 +48,26 @@ The stately “House in LA” knowingly nods to the album’s generous gestation
 
 
 ## Videos
-### Electronic - Feel Every Beat (Official Music Video)
-{{< youtube id="dfvUFp8pJTg" title="Electronic - Feel Every Beat (Official Music Video)" >}}<br>
+### Electronic - Feel Every Beat Official Music Video
+{{< youtube id="dfvUFp8pJTg" title="Electronic - Feel Every Beat Official Music Video" >}}<br>
 ### More Videos
 
-- [Soviet (2013 Remaster)](https://www.youtube.com/watch?v=OZjxsGQjghk)
-- [The Patience of a Saint (2013 Remaster)](https://www.youtube.com/watch?v=fJsJSPKbkXs)
+- [Soviet 2013 Remaster](https://www.youtube.com/watch?v=OZjxsGQjghk)
+- [The Patience of a Saint 2013 Remaster](https://www.youtube.com/watch?v=fJsJSPKbkXs)
 - [Electronic - A Patience of a Saint](https://www.youtube.com/watch?v=-wXQZNC1864)
 - [The Patience of a Saint - Electronic feat Pet Shop Boys](https://www.youtube.com/watch?v=TtTNwrrcvds)
 - [Idiot Country](https://www.youtube.com/watch?v=MQI61icvaQg)
 - [Reality](https://www.youtube.com/watch?v=Q26D0fU1aaw)
 - [Tighten Up](https://www.youtube.com/watch?v=4dNB192uYVE)
 - [The Patience of a Saint](https://www.youtube.com/watch?v=tynrmbUN3nU)
-- [Electronic - Getting Away With It (1990 Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=DSfjtdnUsls)
+- [Electronic - Getting Away With It 1990 Official Music Video HD Upgrade](https://www.youtube.com/watch?v=DSfjtdnUsls)
 - [Gangster](https://www.youtube.com/watch?v=fH0YmcTRwi8)
 - [Soviet](https://www.youtube.com/watch?v=rL5UKLrKNF8)
-- [Electronic - Get The Message (Official Music Video)](https://www.youtube.com/watch?v=vqC2eT5vI9w)
+- [Electronic - Get The Message Official Music Video](https://www.youtube.com/watch?v=vqC2eT5vI9w)
 - [Try All You Want](https://www.youtube.com/watch?v=xELXelDbfiI)
 - [Some Distant Memory](https://www.youtube.com/watch?v=T3xUtpRYMS0)
-- [Electronic - Feel Every Beat (Official Music Video)](https://www.youtube.com/watch?v=dfvUFp8pJTg)
-- [Free Will (Edit)](https://www.youtube.com/watch?v=d__gBbnGIAA)
+- [Electronic - Feel Every Beat Official Music Video](https://www.youtube.com/watch?v=dfvUFp8pJTg)
+- [Free Will Edit](https://www.youtube.com/watch?v=d__gBbnGIAA)
 
 ## Release Images
 {{< imageGrid >}}

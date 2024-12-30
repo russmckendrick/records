@@ -55,16 +55,16 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 
 
 ## Videos
-### David Gray - This Year's Love (Official Video)
-{{< youtube id="6zN4_7hq77g" title="David Gray - This Year's Love (Official Video)" >}}<br>
+### David Gray - This Years Love Official Video
+{{< youtube id="6zN4_7hq77g" title="David Gray - This Years Love Official Video" >}}<br>
 ### More Videos
 
-- [David Gray - Sail Away (Official Video)](https://www.youtube.com/watch?v=Kq-jLjCVx_Q)
-- [David Gray - White Ladder (live)](https://www.youtube.com/watch?v=mV3d6jKFvQA)
-- [David Gray - Babylon (Official Video)](https://www.youtube.com/watch?v=zI_SBAkdKzc)
-- [David Gray - Please Forgive Me (Official Video)](https://www.youtube.com/watch?v=qmFRXwYKQwU)
-- [David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
-- [David Gray - Say Hello Wave Goodbye 2/24/12 Las Vegas, NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
+- [David Gray - Sail Away Official Video](https://www.youtube.com/watch?v=Kq-jLjCVx_Q)
+- [David Gray - White Ladder live](https://www.youtube.com/watch?v=mV3d6jKFvQA)
+- [David Gray - Babylon Official Video](https://www.youtube.com/watch?v=zI_SBAkdKzc)
+- [David Gray - Please Forgive Me Official Video](https://www.youtube.com/watch?v=qmFRXwYKQwU)
+- [David Gray - Say Hello Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
+- [David Gray - Say Hello Wave Goodbye 22412 Las Vegas NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
 
 ## Release Images
 {{< imageGrid >}}

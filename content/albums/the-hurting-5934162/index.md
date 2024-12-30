@@ -63,7 +63,7 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 - [Watch Me Bleed](https://www.youtube.com/watch?v=CqkA1aAkC1I)
 - [Tears for Fears - Change](https://www.youtube.com/watch?v=Z0kGo_x12DQ)
 - [Start Of The Breakdown](https://www.youtube.com/watch?v=n6sUE66Xv5o)
-- [Tea̲rs fo̲r Fea̲rs - Th̲e Hu̲rti̲ng (Full Album) 1983](https://www.youtube.com/watch?v=4PiJKje2lwg)
+- [Tears for Fears - The Hurting Full Album 1983](https://www.youtube.com/watch?v=4PiJKje2lwg)
 
 ## Release Images
 {{< imageGrid >}}

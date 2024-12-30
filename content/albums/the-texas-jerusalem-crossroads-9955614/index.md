@@ -77,20 +77,20 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 
 
 ## Videos
-### Lift To Experience - When We Shall Touch (Official Audio)
-{{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch (Official Audio)" >}}<br>
+### Lift To Experience - When We Shall Touch Official Audio
+{{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch Official Audio" >}}<br>
 ### More Videos
 
-- [Lift To Experience - Just As Was Told (Official Audio)](https://www.youtube.com/watch?v=iF96B27HYik)
-- [Lift To Experience - "These Are The Days (2017 Mix)" (Official Video)](https://www.youtube.com/watch?v=FbBPve8A6yI)
-- [Lift To Experience - Falling From Cloud 9 (Official Video)](https://www.youtube.com/watch?v=bWWzcgsutdk)
-- [Lift To Experience - Waiting To Hit (Official Audio)](https://www.youtube.com/watch?v=sZ28bBvKjig)
-- [Lift To Experience - To Guard And To Guide You (Official Audio)](https://www.youtube.com/watch?v=xOgkUe2437o)
-- [Lift To Experience - Down With The Prophets (Official Audio)](https://www.youtube.com/watch?v=PyrSp4Y1LVE)
-- [Lift To Experience - The Ground So Soft (Official Audio)](https://www.youtube.com/watch?v=uNRHftDc1Eo)
-- [Lift To Experience - With Crippled Wings (Official Audio)](https://www.youtube.com/watch?v=xFRGO2VxpoM)
-- [Lift To Experience - Into The Storm (Official Audio)](https://www.youtube.com/watch?v=jJ_gE0SrG94)
-- [Lift To Experience - Down Came The Angels (Official Audio)](https://www.youtube.com/watch?v=5_grjHE5wq8)
+- [Lift To Experience - Just As Was Told Official Audio](https://www.youtube.com/watch?v=iF96B27HYik)
+- [Lift To Experience - These Are The Days 2017 Mix Official Video](https://www.youtube.com/watch?v=FbBPve8A6yI)
+- [Lift To Experience - Falling From Cloud 9 Official Video](https://www.youtube.com/watch?v=bWWzcgsutdk)
+- [Lift To Experience - Waiting To Hit Official Audio](https://www.youtube.com/watch?v=sZ28bBvKjig)
+- [Lift To Experience - To Guard And To Guide You Official Audio](https://www.youtube.com/watch?v=xOgkUe2437o)
+- [Lift To Experience - Down With The Prophets Official Audio](https://www.youtube.com/watch?v=PyrSp4Y1LVE)
+- [Lift To Experience - The Ground So Soft Official Audio](https://www.youtube.com/watch?v=uNRHftDc1Eo)
+- [Lift To Experience - With Crippled Wings Official Audio](https://www.youtube.com/watch?v=xFRGO2VxpoM)
+- [Lift To Experience - Into The Storm Official Audio](https://www.youtube.com/watch?v=jJ_gE0SrG94)
+- [Lift To Experience - Down Came The Angels Official Audio](https://www.youtube.com/watch?v=5_grjHE5wq8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,9 +58,9 @@ The song "Left Hand" appears on Crowded House's live album Special Edition Live 
 {{< youtube id="rjEFOuITayE" title="CROWDED HOUSE - AFTERGLOW 15" >}}<br>
 ### More Videos
 
-- [Time Immemorial (Remastered 1999)](https://www.youtube.com/watch?v=mrplADyVRug)
+- [Time Immemorial Remastered 1999](https://www.youtube.com/watch?v=mrplADyVRug)
 - [CROWDED HOUSE - AFTERGLOW 15](https://www.youtube.com/watch?v=rjEFOuITayE)
-- [Time Immemorial (Remastered 1999)](https://www.youtube.com/watch?v=mrplADyVRug)
+- [Time Immemorial Remastered 1999](https://www.youtube.com/watch?v=mrplADyVRug)
 
 ## Release Images
 {{< imageGrid >}}

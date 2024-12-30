@@ -49,8 +49,8 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 
 
 ## Videos
-### Durand Jones - Wait Til I Get Over (Full Album) 2023
-{{< youtube id="zKfR2mdfHoI" title="Durand Jones - Wait Til I Get Over (Full Album) 2023" >}}<br>
+### Durand Jones - Wait Til I Get Over Full Album 2023
+{{< youtube id="zKfR2mdfHoI" title="Durand Jones - Wait Til I Get Over Full Album 2023" >}}<br>
 ### More Videos
 
 - [Gerri Marie](https://www.youtube.com/watch?v=trU0X7FPXuc)

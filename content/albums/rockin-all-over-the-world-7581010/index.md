@@ -53,8 +53,8 @@ The album was reissued by Mercury in 2005 with a bonus track: a cover of the Bea
 {{< youtube id="fAnP2ck-7o4" title="Status Quo - Rockin all over the world" >}}<br>
 ### More Videos
 
-- [Status Quo-Rockin' All Over The World](https://www.youtube.com/watch?v=Z015A26mfeM)
-- [Let's Ride](https://www.youtube.com/watch?v=M5QYUMNJ9N4)
+- [Status Quo-Rockin All Over The World](https://www.youtube.com/watch?v=Z015A26mfeM)
+- [Lets Ride](https://www.youtube.com/watch?v=M5QYUMNJ9N4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -44,15 +44,15 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 
 
 ## Videos
-### Rick Springfield - Jessie's Girl
-{{< youtube id="qYkbTyHXwbs" title="Rick Springfield - Jessie's Girl" >}}<br>
+### Rick Springfield - Jessies Girl
+{{< youtube id="qYkbTyHXwbs" title="Rick Springfield - Jessies Girl" >}}<br>
 ### More Videos
 
-- [Rick Springfield - I've Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
+- [Rick Springfield - Ive Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
 - [Rick Springfield - Love Is Alright Tonite](https://www.youtube.com/watch?v=yWEzf-mska4)
 - [Rick Springfield - Carry Me Away](https://www.youtube.com/watch?v=l_zTiqAFRl0)
 - [Rick Springfield - Hole In My Heart](https://www.youtube.com/watch?v=L91VibZWTlM)
-- [Rick Springfield, "Everybody's Girl"](https://www.youtube.com/watch?v=YV_O-_LAQj8)
+- [Rick Springfield Everybodys Girl](https://www.youtube.com/watch?v=YV_O-_LAQj8)
 
 ## Release Images
 {{< imageGrid >}}

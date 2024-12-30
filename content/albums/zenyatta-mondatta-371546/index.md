@@ -53,14 +53,14 @@ Nigel Gray, who had recorded and engineered the bandâ€™s first two albums, 1978â
 
 
 ## Videos
-### The Police - De Do Do Do, De Da Da Da (Official Music Video)
-{{< youtube id="7v2GDbEmjGE" title="The Police - De Do Do Do, De Da Da Da (Official Music Video)" >}}<br>
+### The Police - De Do Do Do De Da Da Da Official Music Video
+{{< youtube id="7v2GDbEmjGE" title="The Police - De Do Do Do De Da Da Da Official Music Video" >}}<br>
 ### More Videos
 
-- [The Police - Don't Stand So Close To Me (Official Music Video)](https://www.youtube.com/watch?v=KNIZofPB8ZM)
+- [The Police - Dont Stand So Close To Me Official Music Video](https://www.youtube.com/watch?v=KNIZofPB8ZM)
 - [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
-- [The Police - De Do Do Do, De Da Da Da (Official Music Video)](https://www.youtube.com/watch?v=7v2GDbEmjGE)
-- [The Police - Don't Stand So Close To Me (Official Music Video)](https://www.youtube.com/watch?v=KNIZofPB8ZM)
+- [The Police - De Do Do Do De Da Da Da Official Music Video](https://www.youtube.com/watch?v=7v2GDbEmjGE)
+- [The Police - Dont Stand So Close To Me Official Music Video](https://www.youtube.com/watch?v=KNIZofPB8ZM)
 - [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
 
 ## Release Images

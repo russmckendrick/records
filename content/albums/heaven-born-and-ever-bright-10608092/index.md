@@ -49,13 +49,13 @@ Heaven Born and Ever Bright is the third studio album by British rock band Cardi
 
 
 ## Videos
-### Cardiacs - The Alphabet Business Concern (Home of Fadeless Splendour)
-{{< youtube id="nLH9N73RhLU" title="Cardiacs - The Alphabet Business Concern (Home of Fadeless Splendour)" >}}<br>
+### Cardiacs - The Alphabet Business Concern Home of Fadeless Splendour
+{{< youtube id="nLH9N73RhLU" title="Cardiacs - The Alphabet Business Concern Home of Fadeless Splendour" >}}<br>
 ### More Videos
 
 - [Cardiacs - Helen and Heaven](https://www.youtube.com/watch?v=e7tGYm9XNp8)
 - [Cardiacs - Goodbye Grace](https://www.youtube.com/watch?v=OXEVCQ1wAFA)
-- [Cardiacs - Anything I Can't Eat](https://www.youtube.com/watch?v=pFWzkOiLHyw)
+- [Cardiacs - Anything I Cant Eat](https://www.youtube.com/watch?v=pFWzkOiLHyw)
 - [Cardiacs - Helen And Heaven](https://www.youtube.com/watch?v=GCpTb-oZZRY)
 - [Cardiacs - Bodysbad](https://www.youtube.com/watch?v=mXqqmxDq300)
 - [Cardiacs - For Good and All](https://www.youtube.com/watch?v=3w-SSegxzoA)

@@ -52,13 +52,13 @@ The album was released by the RCA subsidiary Indolent Records in the UK in Augus
 {{< youtube id="LBXwXV5JOI4" title="Sweet Nymphet" >}}<br>
 ### More Videos
 
-- [How Does It Feel?](https://www.youtube.com/watch?v=yEcqakDx7UM)
+- [How Does It Feel](https://www.youtube.com/watch?v=yEcqakDx7UM)
 - [Kid](https://www.youtube.com/watch?v=bnKqpUSJDLg)
 - [Dreamy Wednesdays](https://www.youtube.com/watch?v=czQ89hceOwE)
 - [New World Record](https://www.youtube.com/watch?v=tj_cyhf1zWI)
 - [Dying For More](https://www.youtube.com/watch?v=Mc8PaR7YKdI)
-- [The Wannadies - Soon You're Dead](https://www.youtube.com/watch?v=bqLDG3jwqOc)
-- [The Wannadies - You & Me Song (Official Video)](https://www.youtube.com/watch?v=t_e_45Szprk)
+- [The Wannadies - Soon Youre Dead](https://www.youtube.com/watch?v=bqLDG3jwqOc)
+- [The Wannadies - You  Me Song Official Video](https://www.youtube.com/watch?v=t_e_45Szprk)
 
 ## Release Images
 {{< imageGrid >}}

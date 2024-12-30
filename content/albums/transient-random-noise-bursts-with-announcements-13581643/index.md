@@ -68,8 +68,8 @@ And while they dove considerably deeper into kitsch as their career went on, you
 
 
 ## Videos
-### Stereolab - Jenny Ondioline (Official Video)
-{{< youtube id="zsIBzVSZeIQ" title="Stereolab - Jenny Ondioline (Official Video)" >}}<br>
+### Stereolab - Jenny Ondioline Official Video
+{{< youtube id="zsIBzVSZeIQ" title="Stereolab - Jenny Ondioline Official Video" >}}<br>
 ### More Videos
 
 - [Tone Burst](https://www.youtube.com/watch?v=UoHK-555v5I)

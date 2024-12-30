@@ -50,18 +50,18 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 
 
 ## Videos
-### MONSTER MAGNET - Ejection (Official Video) | Napalm Records
-{{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection (Official Video) | Napalm Records" >}}<br>
+### MONSTER MAGNET - Ejection Official Video  Napalm Records
+{{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection Official Video  Napalm Records" >}}<br>
 ### More Videos
 
-- [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
-- [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
-- [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
-- [MONSTER MAGNET - Ejection (Official Video) | Napalm Records](https://www.youtube.com/watch?v=odiGshPzmlI)
-- [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
-- [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
-- [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
-- [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
+- [MONSTER MAGNET - Im God Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
+- [MONSTER MAGNET - Mindfucker Official Video  Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
+- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
+- [MONSTER MAGNET - Ejection Official Video  Napalm Records](https://www.youtube.com/watch?v=odiGshPzmlI)
+- [MONSTER MAGNET - Im God Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
+- [MONSTER MAGNET - Mindfucker Official Video  Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
+- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
+- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
 ## Release Images
 {{< imageGrid >}}

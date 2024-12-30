@@ -58,7 +58,7 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 {{< youtube id="rxeQHQQwiZ0" title="Los Angeles" >}}<br>
 ### More Videos
 
-- [Frank Black.- Los Angeles (Official Video 1993)](https://www.youtube.com/watch?v=fuLllNyfiHs)
+- [Frank Black- Los Angeles Official Video 1993](https://www.youtube.com/watch?v=fuLllNyfiHs)
 - [10 Percenter - Frank Black](https://www.youtube.com/watch?v=kfhc0frCr6M)
 - [Places Named After Numbers - Frank Black](https://www.youtube.com/watch?v=9NDt41bY70s)
 - [Two Spaces - Frank Black](https://www.youtube.com/watch?v=5zOEyOvaEYU)

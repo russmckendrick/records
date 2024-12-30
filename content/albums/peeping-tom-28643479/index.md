@@ -47,24 +47,24 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 
 
 ## Videos
-### Five Seconds (feat. Odd Nosdam)
-{{< youtube id="Bz9Ez78Hnd8" title="Five Seconds (feat. Odd Nosdam)" >}}<br>
+### Five Seconds feat Odd Nosdam
+{{< youtube id="Bz9Ez78Hnd8" title="Five Seconds feat Odd Nosdam" >}}<br>
 ### More Videos
 
-- [Mojo (feat. Rahzel & Dan the Automator)](https://www.youtube.com/watch?v=nPCCK9rpKQ4)
-- [Don't Even Trip (feat. Amon Tobin)](https://www.youtube.com/watch?v=9xrADyR6I2c)
-- [Getaway (feat. Kool Keith)](https://www.youtube.com/watch?v=rqnQM9Wq7Lw)
-- [Your Neighborhood Spaceman (feat. Jel & Odd Nosdam)](https://www.youtube.com/watch?v=PBy509Q86ew)
-- [Kill the DJ (feat. Massive Attack)](https://www.youtube.com/watch?v=kpGpI-jrkp0)
-- [Caipirinha (feat. Bebel Gilberto)](https://www.youtube.com/watch?v=pSj4qm6wdOk)
-- [Celebrity Death Match (feat. Kid Koala)](https://www.youtube.com/watch?v=o15N0AQgdyY)
-- [How U Feelin? (feat. Doseone)](https://www.youtube.com/watch?v=LtpVcDb94Ts)
-- [Sucker (feat. Norah Jones)](https://www.youtube.com/watch?v=pHJ7xXlsnkk)
-- [We're Not Alone - Remix (feat. Dub Trio)](https://www.youtube.com/watch?v=6CJjWVQJVeY)
+- [Mojo feat Rahzel  Dan the Automator](https://www.youtube.com/watch?v=nPCCK9rpKQ4)
+- [Dont Even Trip feat Amon Tobin](https://www.youtube.com/watch?v=9xrADyR6I2c)
+- [Getaway feat Kool Keith](https://www.youtube.com/watch?v=rqnQM9Wq7Lw)
+- [Your Neighborhood Spaceman feat Jel  Odd Nosdam](https://www.youtube.com/watch?v=PBy509Q86ew)
+- [Kill the DJ feat Massive Attack](https://www.youtube.com/watch?v=kpGpI-jrkp0)
+- [Caipirinha feat Bebel Gilberto](https://www.youtube.com/watch?v=pSj4qm6wdOk)
+- [Celebrity Death Match feat Kid Koala](https://www.youtube.com/watch?v=o15N0AQgdyY)
+- [How U Feelin feat Doseone](https://www.youtube.com/watch?v=LtpVcDb94Ts)
+- [Sucker feat Norah Jones](https://www.youtube.com/watch?v=pHJ7xXlsnkk)
+- [Were Not Alone - Remix feat Dub Trio](https://www.youtube.com/watch?v=6CJjWVQJVeY)
 - [Mojo](https://www.youtube.com/watch?v=iiVwuTxvZHQ)
-- [Peeping Tom "Pre-School Love Affair"](https://www.youtube.com/watch?v=p0afn-HM9cY)
-- [Peeping Tom - 02 - Mojo (Feat. Rahzel & Dan The Automator)](https://www.youtube.com/watch?v=WB17RP2vmLY)
-- [Vinyl Unboxing: PEEPING TOM - Peeping Tom (Ipecac Records 2023) [Newbury Comics Exclusive]](https://www.youtube.com/watch?v=_BsZa9IHmcQ)
+- [Peeping Tom Pre-School Love Affair](https://www.youtube.com/watch?v=p0afn-HM9cY)
+- [Peeping Tom - 02 - Mojo Feat Rahzel  Dan The Automator](https://www.youtube.com/watch?v=WB17RP2vmLY)
+- [Vinyl Unboxing PEEPING TOM - Peeping Tom Ipecac Records 2023 Newbury Comics Exclusive](https://www.youtube.com/watch?v=_BsZa9IHmcQ)
 
 ## Release Images
 {{< imageGrid >}}

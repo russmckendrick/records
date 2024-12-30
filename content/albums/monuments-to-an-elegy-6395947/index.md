@@ -46,12 +46,12 @@ The album received generally positive reviews from music critics, but sold poorl
 
 
 ## Videos
-### The Smashing Pumpkins - Tiberius (Audio)
-{{< youtube id="UHMSDYtxsu4" title="The Smashing Pumpkins - Tiberius (Audio)" >}}<br>
+### The Smashing Pumpkins - Tiberius Audio
+{{< youtube id="UHMSDYtxsu4" title="The Smashing Pumpkins - Tiberius Audio" >}}<br>
 ### More Videos
 
 - [Monuments](https://www.youtube.com/watch?v=5nGo_QZKbOA)
-- [Anaise!](https://www.youtube.com/watch?v=g5x7xxPC0UI)
+- [Anaise](https://www.youtube.com/watch?v=g5x7xxPC0UI)
 
 ## Release Images
 {{< imageGrid >}}

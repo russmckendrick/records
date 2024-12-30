@@ -49,13 +49,13 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 
 
 ## Videos
-### Sounds That Can't Be Made - Marillion Weekend Holland
-{{< youtube id="k3dwSj5HQWk" title="Sounds That Can't Be Made - Marillion Weekend Holland" >}}<br>
+### Sounds That Cant Be Made - Marillion Weekend Holland
+{{< youtube id="k3dwSj5HQWk" title="Sounds That Cant Be Made - Marillion Weekend Holland" >}}<br>
 ### More Videos
 
 - [Gaza](https://www.youtube.com/watch?v=uaBVTtt53FA)
-- [Marillion - Sounds That Can't Be Made](https://www.youtube.com/watch?v=16AfYI3Xd-g)
-- [Gaza (Live)](https://www.youtube.com/watch?v=k4jykGAL4dM)
+- [Marillion - Sounds That Cant Be Made](https://www.youtube.com/watch?v=16AfYI3Xd-g)
+- [Gaza Live](https://www.youtube.com/watch?v=k4jykGAL4dM)
 - [Gaza](https://www.youtube.com/watch?v=seZLPCMQUmo)
 
 ## Release Images

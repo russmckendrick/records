@@ -47,12 +47,12 @@ New Miserable Experience is the second studio album by alternative rock band Gin
 
 
 ## Videos
-### Gin Blossoms - Found Out About You (Official Music Video)
-{{< youtube id="1qB6XdAkkAo" title="Gin Blossoms - Found Out About You (Official Music Video)" >}}<br>
+### Gin Blossoms - Found Out About You Official Music Video
+{{< youtube id="1qB6XdAkkAo" title="Gin Blossoms - Found Out About You Official Music Video" >}}<br>
 ### More Videos
 
-- [Gin Blossoms - Until I Fall Away (Official Music Video)](https://www.youtube.com/watch?v=39mUEE3_xS8)
-- [Gin Blossoms - Hey Jealousy (Official Music Video)](https://www.youtube.com/watch?v=ah5gAkna3jI)
+- [Gin Blossoms - Until I Fall Away Official Music Video](https://www.youtube.com/watch?v=39mUEE3_xS8)
+- [Gin Blossoms - Hey Jealousy Official Music Video](https://www.youtube.com/watch?v=ah5gAkna3jI)
 - [Allison Road](https://www.youtube.com/watch?v=ZX_EorwpZNU)
 
 ## Release Images

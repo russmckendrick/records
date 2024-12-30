@@ -72,9 +72,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 {{< youtube id="oa80vXMYpXw" title="Tennis - Swimmer" >}}<br>
 ### More Videos
 
-- [Tennis - Runner (Official Video)](https://www.youtube.com/watch?v=Z6kNQEzQJpA)
-- [Tennis - I'll Haunt You](https://www.youtube.com/watch?v=SzuzbFdJLss)
-- [Tennis - Swimmer (Lyrics)](https://www.youtube.com/watch?v=TzMaDus2cNU)
+- [Tennis - Runner Official Video](https://www.youtube.com/watch?v=Z6kNQEzQJpA)
+- [Tennis - Ill Haunt You](https://www.youtube.com/watch?v=SzuzbFdJLss)
+- [Tennis - Swimmer Lyrics](https://www.youtube.com/watch?v=TzMaDus2cNU)
 
 ## Release Images
 {{< imageGrid >}}

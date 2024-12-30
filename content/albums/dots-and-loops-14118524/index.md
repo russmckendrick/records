@@ -72,8 +72,8 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 
 
 ## Videos
-### Stereolab - Dots and Loops (1997) (Full Album)
-{{< youtube id="vbeJ4-OMorU" title="Stereolab - Dots and Loops (1997) (Full Album)" >}}<br>
+### Stereolab - Dots and Loops 1997 Full Album
+{{< youtube id="vbeJ4-OMorU" title="Stereolab - Dots and Loops 1997 Full Album" >}}<br>
 ### More Videos
 
 - [Brakhage](https://www.youtube.com/watch?v=OhuNtCzQsVQ)

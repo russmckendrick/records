@@ -47,29 +47,29 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 
 
 ## Videos
-### Agnes Obel - Stretch your Eyes (Official Audio)
-{{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes (Official Audio)" >}}<br>
+### Agnes Obel - Stretch your Eyes Official Audio
+{{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes Official Audio" >}}<br>
 ### More Videos
 
-- [Agnes Obel - Familiar (Official Video)](https://www.youtube.com/watch?v=32kYH6XZrIo)
-- [Agnes Obel - Red Virgin Soil (Official Audio)](https://www.youtube.com/watch?v=GalTlzwr3XU)
-- [Agnes Obel - It's Happening Again (Official Video)](https://www.youtube.com/watch?v=YT-ECHaz4PE)
-- [Agnes Obel - Stone (Official Audio)](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
-- [Agnes Obel - Trojan Horses (Official Audio)](https://www.youtube.com/watch?v=-EYEOMj7TBk)
-- [Agnes Obel - Citizen Of Glass (Official Audio)](https://www.youtube.com/watch?v=IlIRIZSZtuc)
-- [Agnes Obel - Golden Green (Official Video)](https://www.youtube.com/watch?v=WRLVINLlEVE)
-- [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
-- [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
-- [Agnes Obel - Stretch your Eyes (Official Audio)](https://www.youtube.com/watch?v=N0mV1raPQ3o)
-- [Agnes Obel - Familiar (Official Video)](https://www.youtube.com/watch?v=32kYH6XZrIo)
-- [Agnes Obel - Red Virgin Soil (Official Audio)](https://www.youtube.com/watch?v=GalTlzwr3XU)
-- [Agnes Obel - It's Happening Again (Official Video)](https://www.youtube.com/watch?v=YT-ECHaz4PE)
-- [Agnes Obel - Stone (Official Audio)](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
-- [Agnes Obel - Trojan Horses (Official Audio)](https://www.youtube.com/watch?v=-EYEOMj7TBk)
-- [Agnes Obel - Citizen Of Glass (Official Audio)](https://www.youtube.com/watch?v=IlIRIZSZtuc)
-- [Agnes Obel - Golden Green (Official Video)](https://www.youtube.com/watch?v=WRLVINLlEVE)
-- [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
-- [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
+- [Agnes Obel - Familiar Official Video](https://www.youtube.com/watch?v=32kYH6XZrIo)
+- [Agnes Obel - Red Virgin Soil Official Audio](https://www.youtube.com/watch?v=GalTlzwr3XU)
+- [Agnes Obel - Its Happening Again Official Video](https://www.youtube.com/watch?v=YT-ECHaz4PE)
+- [Agnes Obel - Stone Official Audio](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
+- [Agnes Obel - Trojan Horses Official Audio](https://www.youtube.com/watch?v=-EYEOMj7TBk)
+- [Agnes Obel - Citizen Of Glass Official Audio](https://www.youtube.com/watch?v=IlIRIZSZtuc)
+- [Agnes Obel - Golden Green Official Video](https://www.youtube.com/watch?v=WRLVINLlEVE)
+- [Agnes Obel - Grasshopper Official Audio](https://www.youtube.com/watch?v=TMPRryoSny0)
+- [Agnes Obel - Mary Official Audio](https://www.youtube.com/watch?v=CoBT59xRElU)
+- [Agnes Obel - Stretch your Eyes Official Audio](https://www.youtube.com/watch?v=N0mV1raPQ3o)
+- [Agnes Obel - Familiar Official Video](https://www.youtube.com/watch?v=32kYH6XZrIo)
+- [Agnes Obel - Red Virgin Soil Official Audio](https://www.youtube.com/watch?v=GalTlzwr3XU)
+- [Agnes Obel - Its Happening Again Official Video](https://www.youtube.com/watch?v=YT-ECHaz4PE)
+- [Agnes Obel - Stone Official Audio](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
+- [Agnes Obel - Trojan Horses Official Audio](https://www.youtube.com/watch?v=-EYEOMj7TBk)
+- [Agnes Obel - Citizen Of Glass Official Audio](https://www.youtube.com/watch?v=IlIRIZSZtuc)
+- [Agnes Obel - Golden Green Official Video](https://www.youtube.com/watch?v=WRLVINLlEVE)
+- [Agnes Obel - Grasshopper Official Audio](https://www.youtube.com/watch?v=TMPRryoSny0)
+- [Agnes Obel - Mary Official Audio](https://www.youtube.com/watch?v=CoBT59xRElU)
 
 ## Release Images
 {{< imageGrid >}}

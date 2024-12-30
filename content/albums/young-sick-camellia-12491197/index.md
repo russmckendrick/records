@@ -47,12 +47,12 @@ styles: ["Soul"]
 
 
 ## Videos
-### St. Paul & The Broken Bones - NASA (Audio)
-{{< youtube id="k5EtjM9uNPU" title="St. Paul & The Broken Bones - NASA (Audio)" >}}<br>
+### St Paul  The Broken Bones - NASA Audio
+{{< youtube id="k5EtjM9uNPU" title="St Paul  The Broken Bones - NASA Audio" >}}<br>
 ### More Videos
 
-- [St. Paul & The Broken Bones - Apollo](https://www.youtube.com/watch?v=mHEPoG11EtE)
-- [St. Paul & The Broken Bones - NASA (Audio)](https://www.youtube.com/watch?v=k5EtjM9uNPU)
+- [St Paul  The Broken Bones - Apollo](https://www.youtube.com/watch?v=mHEPoG11EtE)
+- [St Paul  The Broken Bones - NASA Audio](https://www.youtube.com/watch?v=k5EtjM9uNPU)
 
 ## Release Images
 {{< imageGrid >}}

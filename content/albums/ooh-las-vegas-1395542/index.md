@@ -69,11 +69,11 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 {{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}<br>
 ### More Videos
 
-- [Deacon Blue - S.H.A.R.O.N.](https://www.youtube.com/watch?v=BspKQrrj8GQ)
-- [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
+- [Deacon Blue - SHARON](https://www.youtube.com/watch?v=BspKQrrj8GQ)
+- [Deacon Blue - Is It Cold Beneath the Hill ](https://www.youtube.com/watch?v=I2G3dosGk4I)
 - [Deacon Blue - Disneyworld](https://www.youtube.com/watch?v=YuMRvCvBJm0)
-- [Deacon Blue - S.H.A.R.O.N.](https://www.youtube.com/watch?v=BspKQrrj8GQ)
-- [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
+- [Deacon Blue - SHARON](https://www.youtube.com/watch?v=BspKQrrj8GQ)
+- [Deacon Blue - Is It Cold Beneath the Hill ](https://www.youtube.com/watch?v=I2G3dosGk4I)
 - [Las Vegas](https://www.youtube.com/watch?v=MfKXbvxw21c)
 - [Back Here In Beanoland](https://www.youtube.com/watch?v=nWn6ipzktis)
 - [My America](https://www.youtube.com/watch?v=2Kkb9iOh5OY)

@@ -50,7 +50,7 @@ Television Themes is the seventh studio album by English comedian and musician M
 {{< youtube id="XiaGzoiHX1s" title="The Good Life" >}}<br>
 ### More Videos
 
-- [Are You Being Served?](https://www.youtube.com/watch?v=pinYgTWT6Ik)
+- [Are You Being Served](https://www.youtube.com/watch?v=pinYgTWT6Ik)
 - [Blankety Blank](https://www.youtube.com/watch?v=W8R9s0OuQ_w)
 - [Sorry](https://www.youtube.com/watch?v=hL_rsGOWFqg)
 - [World In Action](https://www.youtube.com/watch?v=lE851dFthm8)
@@ -65,7 +65,7 @@ Television Themes is the seventh studio album by English comedian and musician M
 - [Picture Box](https://www.youtube.com/watch?v=kE0zAi8s2ck)
 - [LWT](https://www.youtube.com/watch?v=1WwYWczgfmQ)
 - [The Good Life](https://www.youtube.com/watch?v=XiaGzoiHX1s)
-- [Are You Being Served?](https://www.youtube.com/watch?v=pinYgTWT6Ik)
+- [Are You Being Served](https://www.youtube.com/watch?v=pinYgTWT6Ik)
 - [Blankety Blank](https://www.youtube.com/watch?v=W8R9s0OuQ_w)
 - [Sorry](https://www.youtube.com/watch?v=hL_rsGOWFqg)
 - [World In Action](https://www.youtube.com/watch?v=lE851dFthm8)

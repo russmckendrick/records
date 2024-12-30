@@ -51,10 +51,10 @@ styles: ["Country"]
 {{< youtube id="tZaeKwgS7wg" title="Jason Isbell and the 400 Unit - Cumberland Gap" >}}<br>
 ### More Videos
 
-- [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
+- [Jason Isbell and the 400 Unit - White Mans World](https://www.youtube.com/watch?v=nu4dupoC7EE)
 - [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
 - [Jason Isbell and the 400 Unit - Cumberland Gap](https://www.youtube.com/watch?v=tZaeKwgS7wg)
-- [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
+- [Jason Isbell and the 400 Unit - White Mans World](https://www.youtube.com/watch?v=nu4dupoC7EE)
 - [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
 - [Jason Isbell and the 400 Unit - Hope The High Road](https://www.youtube.com/watch?v=ci-6Au1Gnrs)
 

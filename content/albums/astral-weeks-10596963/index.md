@@ -51,17 +51,17 @@ Forty years after the album's release, Morrison performed all eight of its songs
 
 
 ## Videos
-### Astral Weeks (2015 Remaster)
-{{< youtube id="JmZXtDbc2OE" title="Astral Weeks (2015 Remaster)" >}}<br>
+### Astral Weeks 2015 Remaster
+{{< youtube id="JmZXtDbc2OE" title="Astral Weeks 2015 Remaster" >}}<br>
 ### More Videos
 
-- [Beside You (2015 Remaster)](https://www.youtube.com/watch?v=7ToGyf3t8cA)
-- [Sweet Thing (2015 Remaster)](https://www.youtube.com/watch?v=JFAp3aRJ2vA)
-- [Cyprus Avenue (2015 Remaster)](https://www.youtube.com/watch?v=fVQ7eSkCaWc)
-- [The Way Young Lovers Do (2015 Remaster)](https://www.youtube.com/watch?v=1cXIdFxbpIg)
-- [Madame George (2015 Remaster)](https://www.youtube.com/watch?v=FjSzsu9y9gY)
-- [Ballerina (2015 Remaster)](https://www.youtube.com/watch?v=B4GCR_moiMc)
-- [Slim Slow Slider (2015 Remaster)](https://www.youtube.com/watch?v=xaRa98bvIfc)
+- [Beside You 2015 Remaster](https://www.youtube.com/watch?v=7ToGyf3t8cA)
+- [Sweet Thing 2015 Remaster](https://www.youtube.com/watch?v=JFAp3aRJ2vA)
+- [Cyprus Avenue 2015 Remaster](https://www.youtube.com/watch?v=fVQ7eSkCaWc)
+- [The Way Young Lovers Do 2015 Remaster](https://www.youtube.com/watch?v=1cXIdFxbpIg)
+- [Madame George 2015 Remaster](https://www.youtube.com/watch?v=FjSzsu9y9gY)
+- [Ballerina 2015 Remaster](https://www.youtube.com/watch?v=B4GCR_moiMc)
+- [Slim Slow Slider 2015 Remaster](https://www.youtube.com/watch?v=xaRa98bvIfc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,16 +56,16 @@ Greatest Hits is a compilation album by the American rock band Steely Dan, relea
 
 
 ## Videos
-### S̤t̤e̤e̤l̤y̤ ̤D̤a̤n̤ ̤ ̤ ̤A̤j̤a̤ Full Album
-{{< youtube id="tigLvVwKcKc" title="S̤t̤e̤e̤l̤y̤ ̤D̤a̤n̤ ̤ ̤ ̤A̤j̤a̤ Full Album" >}}<br>
+### Steely Dan   Aja Full Album
+{{< youtube id="tigLvVwKcKc" title="Steely Dan   Aja Full Album" >}}<br>
 ### More Videos
 
 - [Steely Dan on Vinyl   Greatest Hits](https://www.youtube.com/watch?v=3jdaR89sY_c)
 - [Steely Dan - Do It Again](https://www.youtube.com/watch?v=aQnW-MxAU6U)
-- [RIKKI DON'T LOSE THAT NUMBER (1974) by Steely Dan](https://www.youtube.com/watch?v=UfZWp-hGCdA)
-- [S̲te̲e̲ly D̲a̲n - 1974 Greatest Hits - P̲re̲tze̲l L̲o̲gi̲c (Full Album)](https://www.youtube.com/watch?v=OJ8ZUVP4YD8)
+- [RIKKI DONT LOSE THAT NUMBER 1974 by Steely Dan](https://www.youtube.com/watch?v=UfZWp-hGCdA)
+- [Steely Dan - 1974 Greatest Hits - Pretzel Logic Full Album](https://www.youtube.com/watch?v=OJ8ZUVP4YD8)
 - [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
-- [Steely Dan 🇺🇲 - Bodhisattva 🙏 1973 - Vinyl Greatest Hits 72/78 2LPs 🇳🇱 1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
+- [Steely Dan  - Bodhisattva  1973 - Vinyl Greatest Hits 7278 2LPs  1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
 - [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
 
 ## Release Images

@@ -93,33 +93,33 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 
 
 ## Videos
-### Daughter - Intro (Official Lyric Video)
-{{< youtube id="CLMNIFyjeYw" title="Daughter - Intro (Official Lyric Video)" >}}<br>
+### Daughter - Intro Official Lyric Video
+{{< youtube id="CLMNIFyjeYw" title="Daughter - Intro Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Daughter - Be On Your Way (Official Video)](https://www.youtube.com/watch?v=6GDzvjRRIkY)
-- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
-- [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
-- [Daughter - Neptune (Official Lyric Video)](https://www.youtube.com/watch?v=XMa8MDjcjN0)
-- [Daughter - Swim Back (Official Video)](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
-- [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
-- [Daughter - Future Lover (Official Lyric Video)](https://www.youtube.com/watch?v=yyOr8tzmzBM)
-- [Daughter - (Missed Calls) (Official Lyric Video)](https://www.youtube.com/watch?v=R02iLK2ku64)
-- [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
-- [Daughter - To Rage (Official Lyric Video)](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
-- [Daughter - Wish I Could Cross The Sea (Official Lyric Video)](https://www.youtube.com/watch?v=oh7Ptszx-V0)
-- [Daughter - Intro (Official Lyric Video)](https://www.youtube.com/watch?v=CLMNIFyjeYw)
-- [Daughter - Be On Your Way (Official Video)](https://www.youtube.com/watch?v=6GDzvjRRIkY)
-- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
-- [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
-- [Daughter - Neptune (Official Lyric Video)](https://www.youtube.com/watch?v=XMa8MDjcjN0)
-- [Daughter - Swim Back (Official Video)](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
-- [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
-- [Daughter - Future Lover (Official Lyric Video)](https://www.youtube.com/watch?v=yyOr8tzmzBM)
-- [Daughter - (Missed Calls) (Official Lyric Video)](https://www.youtube.com/watch?v=R02iLK2ku64)
-- [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
-- [Daughter - To Rage (Official Lyric Video)](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
-- [Daughter - Wish I Could Cross The Sea (Official Lyric Video)](https://www.youtube.com/watch?v=oh7Ptszx-V0)
+- [Daughter - Be On Your Way Official Video](https://www.youtube.com/watch?v=6GDzvjRRIkY)
+- [Daughter - Party Official Video](https://www.youtube.com/watch?v=KdgntP7Yp5o)
+- [Daughter - Dandelion Official Lyric Video](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
+- [Daughter - Neptune Official Lyric Video](https://www.youtube.com/watch?v=XMa8MDjcjN0)
+- [Daughter - Swim Back Official Video](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
+- [Daughter - Junkmail Official Lyric Video](https://www.youtube.com/watch?v=ubcE16uf4_Y)
+- [Daughter - Future Lover Official Lyric Video](https://www.youtube.com/watch?v=yyOr8tzmzBM)
+- [Daughter - Missed Calls Official Lyric Video](https://www.youtube.com/watch?v=R02iLK2ku64)
+- [Daughter - Isolation Official Lyric Video](https://www.youtube.com/watch?v=fcbGDyRF5gM)
+- [Daughter - To Rage Official Lyric Video](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
+- [Daughter - Wish I Could Cross The Sea Official Lyric Video](https://www.youtube.com/watch?v=oh7Ptszx-V0)
+- [Daughter - Intro Official Lyric Video](https://www.youtube.com/watch?v=CLMNIFyjeYw)
+- [Daughter - Be On Your Way Official Video](https://www.youtube.com/watch?v=6GDzvjRRIkY)
+- [Daughter - Party Official Video](https://www.youtube.com/watch?v=KdgntP7Yp5o)
+- [Daughter - Dandelion Official Lyric Video](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
+- [Daughter - Neptune Official Lyric Video](https://www.youtube.com/watch?v=XMa8MDjcjN0)
+- [Daughter - Swim Back Official Video](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
+- [Daughter - Junkmail Official Lyric Video](https://www.youtube.com/watch?v=ubcE16uf4_Y)
+- [Daughter - Future Lover Official Lyric Video](https://www.youtube.com/watch?v=yyOr8tzmzBM)
+- [Daughter - Missed Calls Official Lyric Video](https://www.youtube.com/watch?v=R02iLK2ku64)
+- [Daughter - Isolation Official Lyric Video](https://www.youtube.com/watch?v=fcbGDyRF5gM)
+- [Daughter - To Rage Official Lyric Video](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
+- [Daughter - Wish I Could Cross The Sea Official Lyric Video](https://www.youtube.com/watch?v=oh7Ptszx-V0)
 
 ## Release Images
 {{< imageGrid >}}

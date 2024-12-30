@@ -46,28 +46,28 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 
 
 ## Videos
-### Radios In Motion (2001 Remaster)
-{{< youtube id="nNnmPQ2284w" title="Radios In Motion (2001 Remaster)" >}}<br>
+### Radios In Motion 2001 Remaster
+{{< youtube id="nNnmPQ2284w" title="Radios In Motion 2001 Remaster" >}}<br>
 ### More Videos
 
-- [Cross Wires (2001 Remaster)](https://www.youtube.com/watch?v=0tC9pqA8h9Y)
-- [This Is Pop? (2001 Remaster)](https://www.youtube.com/watch?v=Urz3Md03bXM)
-- [Do What You Do (2001 Remaster)](https://www.youtube.com/watch?v=ejr9X_Xuryw)
-- [Statue Of Liberty (2001 Remaster)](https://www.youtube.com/watch?v=OT46ZAPGPAc)
-- [All Along The Watchtower (2001 Remaster)](https://www.youtube.com/watch?v=5oKjL1xlK1c)
-- [Into The Atom Age (2001 Remaster)](https://www.youtube.com/watch?v=3G7leRPG9-0)
-- [I'll Set Myself On Fire (2001 Remaster)](https://www.youtube.com/watch?v=aThzc5oKlBc)
-- [I'm Bugged (2001 Remaster)](https://www.youtube.com/watch?v=g7gi2U7nUzQ)
-- [New Town Animal In A Furnished Cage (2001 Remaster)](https://www.youtube.com/watch?v=9GvTEibzcRo)
-- [Spinning Top (2001 Remaster)](https://www.youtube.com/watch?v=_LRDa4n4YG4)
-- [Neon Shuffle (2001 Remaster)](https://www.youtube.com/watch?v=ppTHMJRGhSc)
-- [Science Friction (2001 Remaster)](https://www.youtube.com/watch?v=bZlIDgfJCE4)
-- [She's So Square (2001 Remaster)](https://www.youtube.com/watch?v=BJSsRqBqB2k)
-- [Dance Band (2001 Remaster)](https://www.youtube.com/watch?v=gr3YUFcGTVc)
-- [Hang On To The Night (2001 Remaster)](https://www.youtube.com/watch?v=bc4ZYVVBog8)
-- [Heatwave (2001 Remaster)](https://www.youtube.com/watch?v=w45JJq2gRlM)
-- [Traffic Light Rock (2001 Remaster)](https://www.youtube.com/watch?v=g-jXkJNkRv8)
-- [Instant Tunes (2001 Remaster)](https://www.youtube.com/watch?v=gOCiMxfjswM)
+- [Cross Wires 2001 Remaster](https://www.youtube.com/watch?v=0tC9pqA8h9Y)
+- [This Is Pop 2001 Remaster](https://www.youtube.com/watch?v=Urz3Md03bXM)
+- [Do What You Do 2001 Remaster](https://www.youtube.com/watch?v=ejr9X_Xuryw)
+- [Statue Of Liberty 2001 Remaster](https://www.youtube.com/watch?v=OT46ZAPGPAc)
+- [All Along The Watchtower 2001 Remaster](https://www.youtube.com/watch?v=5oKjL1xlK1c)
+- [Into The Atom Age 2001 Remaster](https://www.youtube.com/watch?v=3G7leRPG9-0)
+- [Ill Set Myself On Fire 2001 Remaster](https://www.youtube.com/watch?v=aThzc5oKlBc)
+- [Im Bugged 2001 Remaster](https://www.youtube.com/watch?v=g7gi2U7nUzQ)
+- [New Town Animal In A Furnished Cage 2001 Remaster](https://www.youtube.com/watch?v=9GvTEibzcRo)
+- [Spinning Top 2001 Remaster](https://www.youtube.com/watch?v=_LRDa4n4YG4)
+- [Neon Shuffle 2001 Remaster](https://www.youtube.com/watch?v=ppTHMJRGhSc)
+- [Science Friction 2001 Remaster](https://www.youtube.com/watch?v=bZlIDgfJCE4)
+- [Shes So Square 2001 Remaster](https://www.youtube.com/watch?v=BJSsRqBqB2k)
+- [Dance Band 2001 Remaster](https://www.youtube.com/watch?v=gr3YUFcGTVc)
+- [Hang On To The Night 2001 Remaster](https://www.youtube.com/watch?v=bc4ZYVVBog8)
+- [Heatwave 2001 Remaster](https://www.youtube.com/watch?v=w45JJq2gRlM)
+- [Traffic Light Rock 2001 Remaster](https://www.youtube.com/watch?v=g-jXkJNkRv8)
+- [Instant Tunes 2001 Remaster](https://www.youtube.com/watch?v=gOCiMxfjswM)
 
 ## Release Images
 {{< imageGrid >}}

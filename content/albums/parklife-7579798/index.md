@@ -57,21 +57,21 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 
 
 ## Videos
-### Blur - Girls And Boys (Official Music Video)
-{{< youtube id="WDswiT87oo8" title="Blur - Girls And Boys (Official Music Video)" >}}<br>
+### Blur - Girls And Boys Official Music Video
+{{< youtube id="WDswiT87oo8" title="Blur - Girls And Boys Official Music Video" >}}<br>
 ### More Videos
 
-- [Blur - End Of A Century (Official Music Video)](https://www.youtube.com/watch?v=rVNCpCy8gLc)
-- [Blur - Parklife (Official 4K Music Video)](https://www.youtube.com/watch?v=YSuHrTfcikU)
-- [Blur - Girls And Boys (Official Music Video)](https://www.youtube.com/watch?v=WDswiT87oo8)
-- [Blur - To The End (Official Music Video)](https://www.youtube.com/watch?v=0DjHKqb365A)
-- [Blur - This is a Low (Official Audio)](https://www.youtube.com/watch?v=iZIYAUPo80U)
-- [Blur - Badhead (Official Audio)](https://www.youtube.com/watch?v=YzSnJ8uePyU)
-- [Blur - Tracy Jacks (Official Audio)](https://www.youtube.com/watch?v=N2rF4HcW5yk)
-- [Blur - London Loves (Official Audio)](https://www.youtube.com/watch?v=7GbhjFplF3w)
-- [Blur - Trouble in the Message Centre (Official Audio)](https://www.youtube.com/watch?v=O5Nhul_AV0M)
-- [End of a Century (2012 Remaster)](https://www.youtube.com/watch?v=QFaKlPyhclc)
-- [Blur Recording Parklife in the Studio (1993–1994)](https://www.youtube.com/watch?v=1tBZP_MqVjM)
+- [Blur - End Of A Century Official Music Video](https://www.youtube.com/watch?v=rVNCpCy8gLc)
+- [Blur - Parklife Official 4K Music Video](https://www.youtube.com/watch?v=YSuHrTfcikU)
+- [Blur - Girls And Boys Official Music Video](https://www.youtube.com/watch?v=WDswiT87oo8)
+- [Blur - To The End Official Music Video](https://www.youtube.com/watch?v=0DjHKqb365A)
+- [Blur - This is a Low Official Audio](https://www.youtube.com/watch?v=iZIYAUPo80U)
+- [Blur - Badhead Official Audio](https://www.youtube.com/watch?v=YzSnJ8uePyU)
+- [Blur - Tracy Jacks Official Audio](https://www.youtube.com/watch?v=N2rF4HcW5yk)
+- [Blur - London Loves Official Audio](https://www.youtube.com/watch?v=7GbhjFplF3w)
+- [Blur - Trouble in the Message Centre Official Audio](https://www.youtube.com/watch?v=O5Nhul_AV0M)
+- [End of a Century 2012 Remaster](https://www.youtube.com/watch?v=QFaKlPyhclc)
+- [Blur Recording Parklife in the Studio 19931994](https://www.youtube.com/watch?v=1tBZP_MqVjM)
 
 ## Release Images
 {{< imageGrid >}}

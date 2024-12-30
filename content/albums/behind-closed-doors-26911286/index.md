@@ -59,12 +59,12 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 
 
 ## Videos
-### Thunder - Behind Closed Doors (Full Album)
-{{< youtube id="J_aEafaZk6A" title="Thunder - Behind Closed Doors (Full Album)" >}}<br>
+### Thunder - Behind Closed Doors Full Album
+{{< youtube id="J_aEafaZk6A" title="Thunder - Behind Closed Doors Full Album" >}}<br>
 ### More Videos
 
 - [Thunder- River of Pain- Behind Closed Doors](https://www.youtube.com/watch?v=ohjIl6m5kVY)
-- [Thunder - I'll Be Waiting](https://www.youtube.com/watch?v=1NZvf4uwilM)
+- [Thunder - Ill Be Waiting](https://www.youtube.com/watch?v=1NZvf4uwilM)
 - [Thunder - Stand Up - Behind Closed Doors](https://www.youtube.com/watch?v=oDYLrW5sncI)
 
 ## Release Images

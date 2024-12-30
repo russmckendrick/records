@@ -49,11 +49,11 @@ Accompanied by multiple UK top 40 singles, Hours peaked at number five on the UK
 
 
 ## Videos
-### BOWIE ~ STUDIO FOOTAGE RECORDING 'WHAT'S REALLY HAPPENING'1998
-{{< youtube id="Ui5SUoaaWtc" title="BOWIE ~ STUDIO FOOTAGE RECORDING 'WHAT'S REALLY HAPPENING'1998" >}}<br>
+### BOWIE  STUDIO FOOTAGE RECORDING WHATS REALLY HAPPENING1998
+{{< youtube id="Ui5SUoaaWtc" title="BOWIE  STUDIO FOOTAGE RECORDING WHATS REALLY HAPPENING1998" >}}<br>
 ### More Videos
 
-- [David Bowie - Thursday's Child (Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=gfOKDB0ChQk)
+- [David Bowie - Thursdays Child Official Music Video HD Upgrade](https://www.youtube.com/watch?v=gfOKDB0ChQk)
 
 ## Release Images
 {{< imageGrid >}}

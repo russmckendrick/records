@@ -52,13 +52,13 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 
 ## Videos
-### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)
-{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)" >}}<br>
+### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack Official Video
+{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack Official Video" >}}<br>
 ### More Videos
 
 - [Mandy Love Theme](https://www.youtube.com/watch?v=72ye1IMywrQ)
 - [Children of the New Dawn](https://www.youtube.com/watch?v=-KZxeSATdXI)
-- [Mandy - Johann Johannsson - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=ZTZWaH7R8g0)
+- [Mandy - Johann Johannsson - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=ZTZWaH7R8g0)
 
 ## Release Images
 {{< imageGrid >}}

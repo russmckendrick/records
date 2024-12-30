@@ -58,30 +58,30 @@ Pink Flag is the debut album by the British post-punk band Wire. It was released
 
 
 ## Videos
-### Reuters (2006 Remastered Version)
-{{< youtube id="JFm-U8WIrNg" title="Reuters (2006 Remastered Version)" >}}<br>
+### Reuters 2006 Remastered Version
+{{< youtube id="JFm-U8WIrNg" title="Reuters 2006 Remastered Version" >}}<br>
 ### More Videos
 
-- [Field Day for the Sundays (2006 Remastered Version)](https://www.youtube.com/watch?v=bjGx8A3tXMw)
-- [Three Girl Rhumba (2006 Remastered Version)](https://www.youtube.com/watch?v=ctpzzTR15yo)
-- [Ex Lion Tamer (2006 Remastered Version)](https://www.youtube.com/watch?v=YOIBDZuetBY)
-- [Lowdown (2006 Remastered Version)](https://www.youtube.com/watch?v=h8rcCH-CowY)
-- [Start to Move (2006 Remastered Version)](https://www.youtube.com/watch?v=b5xZQ1yF8mw)
-- [Brazil (2006 Remastered Version)](https://www.youtube.com/watch?v=DrcF_JcTT4Q)
-- [It's So Obvious (2006 Remastered Version)](https://www.youtube.com/watch?v=2JowyQt2Uqk)
-- [Surgeon's Girl (2006 Remastered Version)](https://www.youtube.com/watch?v=0Zl5nFIA1NU)
-- [Pink Flag (2006 Remastered Version)](https://www.youtube.com/watch?v=BgEYF8od2Ck)
-- [The Commercial (2006 Remastered Version)](https://www.youtube.com/watch?v=2eAtwvBPiOA)
-- [Straight Line (2006 Remastered Version)](https://www.youtube.com/watch?v=PVfq405-2i4)
-- [106 Beats That (2006 Remastered Version)](https://www.youtube.com/watch?v=0QCk0f0NjJs)
-- [Mr Suit (2006 Remastered Version)](https://www.youtube.com/watch?v=LPU8tS1uHl0)
-- [Strange (2006 Remastered Version)](https://www.youtube.com/watch?v=Zv0fFtP6iIQ)
-- [Fragile (2006 Remastered Version)](https://www.youtube.com/watch?v=fJoLkMAzq10)
-- [Mannequin (2006 Remastered Version)](https://www.youtube.com/watch?v=I1ds5KfglWE)
-- [Different to Me (2006 Remastered Version)](https://www.youtube.com/watch?v=tPjoWN0SCb0)
-- [Champs (2006 Remastered Version)](https://www.youtube.com/watch?v=CtCRXhM7bwc)
-- [Feeling Called Love (2006 Remastered Version)](https://www.youtube.com/watch?v=7Arpw8kEjhU)
-- [1 2 X U (2006 Remastered Version)](https://www.youtube.com/watch?v=jOjCSLMZPok)
+- [Field Day for the Sundays 2006 Remastered Version](https://www.youtube.com/watch?v=bjGx8A3tXMw)
+- [Three Girl Rhumba 2006 Remastered Version](https://www.youtube.com/watch?v=ctpzzTR15yo)
+- [Ex Lion Tamer 2006 Remastered Version](https://www.youtube.com/watch?v=YOIBDZuetBY)
+- [Lowdown 2006 Remastered Version](https://www.youtube.com/watch?v=h8rcCH-CowY)
+- [Start to Move 2006 Remastered Version](https://www.youtube.com/watch?v=b5xZQ1yF8mw)
+- [Brazil 2006 Remastered Version](https://www.youtube.com/watch?v=DrcF_JcTT4Q)
+- [Its So Obvious 2006 Remastered Version](https://www.youtube.com/watch?v=2JowyQt2Uqk)
+- [Surgeons Girl 2006 Remastered Version](https://www.youtube.com/watch?v=0Zl5nFIA1NU)
+- [Pink Flag 2006 Remastered Version](https://www.youtube.com/watch?v=BgEYF8od2Ck)
+- [The Commercial 2006 Remastered Version](https://www.youtube.com/watch?v=2eAtwvBPiOA)
+- [Straight Line 2006 Remastered Version](https://www.youtube.com/watch?v=PVfq405-2i4)
+- [106 Beats That 2006 Remastered Version](https://www.youtube.com/watch?v=0QCk0f0NjJs)
+- [Mr Suit 2006 Remastered Version](https://www.youtube.com/watch?v=LPU8tS1uHl0)
+- [Strange 2006 Remastered Version](https://www.youtube.com/watch?v=Zv0fFtP6iIQ)
+- [Fragile 2006 Remastered Version](https://www.youtube.com/watch?v=fJoLkMAzq10)
+- [Mannequin 2006 Remastered Version](https://www.youtube.com/watch?v=I1ds5KfglWE)
+- [Different to Me 2006 Remastered Version](https://www.youtube.com/watch?v=tPjoWN0SCb0)
+- [Champs 2006 Remastered Version](https://www.youtube.com/watch?v=CtCRXhM7bwc)
+- [Feeling Called Love 2006 Remastered Version](https://www.youtube.com/watch?v=7Arpw8kEjhU)
+- [1 2 X U 2006 Remastered Version](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
 ## Release Images
 {{< imageGrid >}}

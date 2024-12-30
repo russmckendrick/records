@@ -53,11 +53,11 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 
 
 ## Videos
-### Phil Collins - Sussudio (Official Music Video)
-{{< youtube id="r0qBaBb1Y-U" title="Phil Collins - Sussudio (Official Music Video)" >}}<br>
+### Phil Collins - Sussudio Official Music Video
+{{< youtube id="r0qBaBb1Y-U" title="Phil Collins - Sussudio Official Music Video" >}}<br>
 ### More Videos
 
-- [Phil Collins - Sussudio (Official Music Video)](https://www.youtube.com/watch?v=r0qBaBb1Y-U)
+- [Phil Collins - Sussudio Official Music Video](https://www.youtube.com/watch?v=r0qBaBb1Y-U)
 
 ## Release Images
 {{< imageGrid >}}

@@ -64,17 +64,17 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 {{< youtube id="esmgzN_olKU" title="Kamasi Washington - Lesanu" >}}<br>
 ### More Videos
 
-- [Kamasi Washington - Asha The First (feat. Thundercat, Taj Austin, Ras Austin)](https://www.youtube.com/watch?v=M6iWnD9JGWc)
-- [Kamasi Washington - The Visionary (feat. Terrace Martin)](https://www.youtube.com/watch?v=1BPxAqBMNZc)
-- [Kamasi Washington - Get Lit (feat. George Clinton, D Smoke)](https://www.youtube.com/watch?v=2bK6P04o_Lg)
-- [Kamasi Washington - Computer Love (feat. Patrice Quinn, DJ Battlecat, Brandon Coleman)](https://www.youtube.com/watch?v=mg7RQYVtS24)
-- [Kamasi Washington - Dream State (feat. André 3000) (Official Visual)](https://www.youtube.com/watch?v=nxMolO9CEaU)
-- [Kamasi Washington - Interstellar Peace (The Last Stance)](https://www.youtube.com/watch?v=I7YpePBg-10)
+- [Kamasi Washington - Asha The First feat Thundercat Taj Austin Ras Austin](https://www.youtube.com/watch?v=M6iWnD9JGWc)
+- [Kamasi Washington - The Visionary feat Terrace Martin](https://www.youtube.com/watch?v=1BPxAqBMNZc)
+- [Kamasi Washington - Get Lit feat George Clinton D Smoke](https://www.youtube.com/watch?v=2bK6P04o_Lg)
+- [Kamasi Washington - Computer Love feat Patrice Quinn DJ Battlecat Brandon Coleman](https://www.youtube.com/watch?v=mg7RQYVtS24)
+- [Kamasi Washington - Dream State feat André 3000 Official Visual](https://www.youtube.com/watch?v=nxMolO9CEaU)
+- [Kamasi Washington - Interstellar Peace The Last Stance](https://www.youtube.com/watch?v=I7YpePBg-10)
 - [Kamasi Washington - The Garden Path](https://www.youtube.com/watch?v=Xzrkerz1SW8)
-- [Kamasi Washington - Road To Self (KO)](https://www.youtube.com/watch?v=Di0xStuAcp8)
-- [Kamasi Washington - Together (feat. BJ The Chicago Kid)](https://www.youtube.com/watch?v=6CVZCD0C3ik)
+- [Kamasi Washington - Road To Self KO](https://www.youtube.com/watch?v=Di0xStuAcp8)
+- [Kamasi Washington - Together feat BJ The Chicago Kid](https://www.youtube.com/watch?v=6CVZCD0C3ik)
 - [Kamasi Washington - Lines In The Sand](https://www.youtube.com/watch?v=tJ5EcVJaZrE)
-- [Kamasi Washington - Prologue (Official Music Video)](https://www.youtube.com/watch?v=c8cKN1rbJl4)
+- [Kamasi Washington - Prologue Official Music Video](https://www.youtube.com/watch?v=c8cKN1rbJl4)
 
 ## Release Images
 {{< imageGrid >}}

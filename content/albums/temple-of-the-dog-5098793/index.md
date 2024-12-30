@@ -57,7 +57,7 @@ Temple of the Dog is the only studio album by the American rock band Temple of t
 ### More Videos
 
 - [Call Me A Dog](https://www.youtube.com/watch?v=i7dvT047kjo)
-- [Temple Of The Dog - Say Hello 2 Heaven (Alternate Mix / Pseudo Video)](https://www.youtube.com/watch?v=dwXBfbCfbro)
+- [Temple Of The Dog - Say Hello 2 Heaven Alternate Mix  Pseudo Video](https://www.youtube.com/watch?v=dwXBfbCfbro)
 
 ## Release Images
 {{< imageGrid >}}

@@ -65,7 +65,7 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 
 - [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
 - [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
-- [Don't Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
+- [Dont Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
 - [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
 - [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
 - [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
@@ -76,7 +76,7 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 - [Symphony in Blue](https://www.youtube.com/watch?v=YmPVq8rspws)
 - [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
 - [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
-- [Don't Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
+- [Dont Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
 - [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
 - [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
 - [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
@@ -84,9 +84,9 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 - [Coffee Homeground](https://www.youtube.com/watch?v=VXORLnOmMBE)
 - [Hammer Horror](https://www.youtube.com/watch?v=fF2IONJLyk4)
 - [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
-- [Oh England My Lionheart (2018 Remaster)](https://www.youtube.com/watch?v=2fET9PwX-bI)
-- [Symphony in Blue (2018 Remaster)](https://www.youtube.com/watch?v=TmOEpA8jxUE)
-- [Kate Bush - Symphony In Blue (1979 Xmas Special)](https://www.youtube.com/watch?v=sySgoCy0_AM)
+- [Oh England My Lionheart 2018 Remaster](https://www.youtube.com/watch?v=2fET9PwX-bI)
+- [Symphony in Blue 2018 Remaster](https://www.youtube.com/watch?v=TmOEpA8jxUE)
+- [Kate Bush - Symphony In Blue 1979 Xmas Special](https://www.youtube.com/watch?v=sySgoCy0_AM)
 
 ## Release Images
 {{< imageGrid >}}

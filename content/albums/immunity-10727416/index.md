@@ -45,24 +45,24 @@ Immunity is the fourth studio album by English electronic musician and producer 
 
 
 ## Videos
-### Jon Hopkins - We Disappear [Immunity]
-{{< youtube id="PYUF74K93IY" title="Jon Hopkins - We Disappear [Immunity]" >}}<br>
+### Jon Hopkins - We Disappear Immunity
+{{< youtube id="PYUF74K93IY" title="Jon Hopkins - We Disappear Immunity" >}}<br>
 ### More Videos
 
 - [Jon Hopkins - Breathe this air](https://www.youtube.com/watch?v=IWveFZpzXsA)
 - [Jon Hopkins - Collider](https://www.youtube.com/watch?v=S2CXrvcsbMk)
-- [Jon Hopkins - Abandon Window [Immunity]](https://www.youtube.com/watch?v=FjI-Vtrax_w)
-- [Jon Hopkins - Form By Firelight [Immunity]](https://www.youtube.com/watch?v=8hj-ubtGqTw)
-- [Jon Hopkins - Sun Harmonics [Immunity]](https://www.youtube.com/watch?v=B0yES8tjCAg)
+- [Jon Hopkins - Abandon Window Immunity](https://www.youtube.com/watch?v=FjI-Vtrax_w)
+- [Jon Hopkins - Form By Firelight Immunity](https://www.youtube.com/watch?v=8hj-ubtGqTw)
+- [Jon Hopkins - Sun Harmonics Immunity](https://www.youtube.com/watch?v=B0yES8tjCAg)
 - [Jon Hopkins - Immunity](https://www.youtube.com/watch?v=Y8eQR5DMous)
-- [Jon Hopkins - "Open Eye Signal" (Official Music Video)](https://www.youtube.com/watch?v=Q04ILDXe3QE)
-- [Jon Hopkins - Open Eye Signal 125/Bpm - Vinyl](https://www.youtube.com/watch?v=7xRENp6n6os)
-- [Jon Hopkins - Immunity 81/Bpm - Vinyl](https://www.youtube.com/watch?v=APqBESvT66M)
-- [Jon Hopkins - Breathe This Air 135/Bpm - Vinyl](https://www.youtube.com/watch?v=2tUX142IMT8)
-- [Jon Hopkins - Collider 117/Bpm - Vinyl](https://www.youtube.com/watch?v=cGqRHUxyhf4)
-- [Jon Hopkins - Form By Firelight 141/Bpm - Vinyl](https://www.youtube.com/watch?v=I4XMY3-uouM)
-- [Jon Hopkins - Abandon Window 154/Bpm - Vinyl](https://www.youtube.com/watch?v=Gmhyr8konJk)
-- [Jon Hopkins - Sun Harmonics 124/Bpm - Vinyl](https://www.youtube.com/watch?v=SeiTV2iiUDQ)
+- [Jon Hopkins - Open Eye Signal Official Music Video](https://www.youtube.com/watch?v=Q04ILDXe3QE)
+- [Jon Hopkins - Open Eye Signal 125Bpm - Vinyl](https://www.youtube.com/watch?v=7xRENp6n6os)
+- [Jon Hopkins - Immunity 81Bpm - Vinyl](https://www.youtube.com/watch?v=APqBESvT66M)
+- [Jon Hopkins - Breathe This Air 135Bpm - Vinyl](https://www.youtube.com/watch?v=2tUX142IMT8)
+- [Jon Hopkins - Collider 117Bpm - Vinyl](https://www.youtube.com/watch?v=cGqRHUxyhf4)
+- [Jon Hopkins - Form By Firelight 141Bpm - Vinyl](https://www.youtube.com/watch?v=I4XMY3-uouM)
+- [Jon Hopkins - Abandon Window 154Bpm - Vinyl](https://www.youtube.com/watch?v=Gmhyr8konJk)
+- [Jon Hopkins - Sun Harmonics 124Bpm - Vinyl](https://www.youtube.com/watch?v=SeiTV2iiUDQ)
 
 ## Release Images
 {{< imageGrid >}}

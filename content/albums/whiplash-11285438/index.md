@@ -50,9 +50,9 @@ Whiplash received generally positive reviews from music critics, some of whom no
 {{< youtube id="HF7Gaxy4_8E" title="James - Tomorrow" >}}<br>
 ### More Videos
 
-- [James - Lost A Friend Live (VH-1 1998)](https://www.youtube.com/watch?v=hsxrfv2zVPc)
+- [James - Lost A Friend Live VH-1 1998](https://www.youtube.com/watch?v=hsxrfv2zVPc)
 - [James - Waltzing Along](https://www.youtube.com/watch?v=QZTCt-nQY9U)
-- [James - She's a star (HQ) (Whiplash 1997)](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
+- [James - Shes a star HQ Whiplash 1997](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
 
 ## Release Images
 {{< imageGrid >}}

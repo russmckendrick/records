@@ -59,8 +59,8 @@ Joey Ramone had written “Sheena is a Punk Rocker”—which had appeared on so
 
 
 ## Videos
-### Ramones - Rocket to Russia (Full Album) [Official Video]
-{{< youtube id="j3KzGpptn5Q" title="Ramones - Rocket to Russia (Full Album) [Official Video]" >}}<br>
+### Ramones - Rocket to Russia Full Album Official Video
+{{< youtube id="j3KzGpptn5Q" title="Ramones - Rocket to Russia Full Album Official Video" >}}<br>
 
 
 ## Release Images

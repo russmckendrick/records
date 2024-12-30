@@ -39,15 +39,15 @@ styles: []
 
 
 ## Videos
-### Nadia Reid - Preservation (Official Video)
-{{< youtube id="Yay24OXOW3k" title="Nadia Reid - Preservation (Official Video)" >}}<br>
+### Nadia Reid - Preservation Official Video
+{{< youtube id="Yay24OXOW3k" title="Nadia Reid - Preservation Official Video" >}}<br>
 ### More Videos
 
 - [Nadia Reid - The Arrow And The Aim](https://www.youtube.com/watch?v=FQVsFzYSHd8)
-- [NADIA REID / Richard (Official Video)](https://www.youtube.com/watch?v=0jN1BfSLbzg)
-- [Nadia Reid - Preservation (Official Video)](https://www.youtube.com/watch?v=Yay24OXOW3k)
+- [NADIA REID  Richard Official Video](https://www.youtube.com/watch?v=0jN1BfSLbzg)
+- [Nadia Reid - Preservation Official Video](https://www.youtube.com/watch?v=Yay24OXOW3k)
 - [Nadia Reid - The Arrow And The Aim](https://www.youtube.com/watch?v=FQVsFzYSHd8)
-- [NADIA REID / Richard (Official Video)](https://www.youtube.com/watch?v=0jN1BfSLbzg)
+- [NADIA REID  Richard Official Video](https://www.youtube.com/watch?v=0jN1BfSLbzg)
 
 ## Release Images
 {{< imageGrid >}}

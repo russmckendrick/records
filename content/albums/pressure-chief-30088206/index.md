@@ -48,17 +48,17 @@ On its opening week, Pressure Chief sold about 46,000 copies, debuting and peaki
 
 
 ## Videos
-### CAKE - Wheels (Official Audio)
-{{< youtube id="ZaKTWgUdkWY" title="CAKE - Wheels (Official Audio)" >}}<br>
+### CAKE - Wheels Official Audio
+{{< youtube id="ZaKTWgUdkWY" title="CAKE - Wheels Official Audio" >}}<br>
 ### More Videos
 
-- [Cake - No Phone (Video)](https://www.youtube.com/watch?v=I93XzY8nRso)
+- [Cake - No Phone Video](https://www.youtube.com/watch?v=I93XzY8nRso)
 - [Take It All Away](https://www.youtube.com/watch?v=2duqRuW1SCo)
 - [Dime](https://www.youtube.com/watch?v=5rk3mxeviXA)
 - [Carbon Monoxide](https://www.youtube.com/watch?v=K3DRkVjuqmc)
-- [CAKE - The Guitar Man (Official HD Video)](https://www.youtube.com/watch?v=KDv7ga2jxhM)
+- [CAKE - The Guitar Man Official HD Video](https://www.youtube.com/watch?v=KDv7ga2jxhM)
 - [Waiting](https://www.youtube.com/watch?v=u48Er961XHk)
-- [She'll Hang the Baskets](https://www.youtube.com/watch?v=-St-9rdmNeI)
+- [Shell Hang the Baskets](https://www.youtube.com/watch?v=-St-9rdmNeI)
 - [End of the Movie](https://www.youtube.com/watch?v=Kz0S5JHqiEA)
 - [Palm of Your Hand](https://www.youtube.com/watch?v=L4lyL2c44_c)
 - [Tougher Than It Is](https://www.youtube.com/watch?v=Y9i7PXVioeY)

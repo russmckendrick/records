@@ -60,7 +60,7 @@ Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the
 - [Magazine](https://www.youtube.com/watch?v=EsOawfkUwSw)
 - [The Right Decision](https://www.youtube.com/watch?v=KaSIMyfzU7s)
 - [Your Crusade](https://www.youtube.com/watch?v=x40Wg4whKrI)
-- [Don't Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
+- [Dont Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
 - [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
 - [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
 - [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)

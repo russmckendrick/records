@@ -57,21 +57,21 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 
 
 ## Videos
-### Arcade Fire - Black Mirror (Official Video)
-{{< youtube id="aXuymDSGCko" title="Arcade Fire - Black Mirror (Official Video)" >}}<br>
+### Arcade Fire - Black Mirror Official Video
+{{< youtube id="aXuymDSGCko" title="Arcade Fire - Black Mirror Official Video" >}}<br>
 ### More Videos
 
 - [Arcade Fire - Neon Bible music video](https://www.youtube.com/watch?v=y_n_o1anu9E)
 - [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
-- [Arcade Fire - Black Wave, Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
-- [Arcade Fire - Neon Bible (Official Audio)](https://www.youtube.com/watch?v=eHe4cDG2ErM)
-- [Arcade Fire - Keep the Car Running (Official Audio)](https://www.youtube.com/watch?v=MSv1om_7DgU)
-- [Arcade Fire - Black Mirror (Official Video)](https://www.youtube.com/watch?v=aXuymDSGCko)
+- [Arcade Fire - Black Wave Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
+- [Arcade Fire - Neon Bible Official Audio](https://www.youtube.com/watch?v=eHe4cDG2ErM)
+- [Arcade Fire - Keep the Car Running Official Audio](https://www.youtube.com/watch?v=MSv1om_7DgU)
+- [Arcade Fire - Black Mirror Official Video](https://www.youtube.com/watch?v=aXuymDSGCko)
 - [Arcade Fire - Neon Bible music video](https://www.youtube.com/watch?v=y_n_o1anu9E)
 - [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
-- [Arcade Fire - Black Wave, Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
-- [Arcade Fire - No Cars Go (Official Audio)](https://www.youtube.com/watch?v=T703EHtdPwo)
-- [Arcade Fire - My Body Is a Cage (Official Audio)](https://www.youtube.com/watch?v=6F_Hx3oLfvU)
+- [Arcade Fire - Black Wave Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
+- [Arcade Fire - No Cars Go Official Audio](https://www.youtube.com/watch?v=T703EHtdPwo)
+- [Arcade Fire - My Body Is a Cage Official Audio](https://www.youtube.com/watch?v=6F_Hx3oLfvU)
 
 ## Release Images
 {{< imageGrid >}}

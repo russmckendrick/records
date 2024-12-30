@@ -49,16 +49,16 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 
 
 ## Videos
-### This Town Ain't Big Enough For Both Of Us
-{{< youtube id="BI9gOtRMogY" title="This Town Ain't Big Enough For Both Of Us" >}}<br>
+### This Town Aint Big Enough For Both Of Us
+{{< youtube id="BI9gOtRMogY" title="This Town Aint Big Enough For Both Of Us" >}}<br>
 ### More Videos
 
 - [Amateur Hour](https://www.youtube.com/watch?v=3YBmS5oaNwU)
 - [Here In Heaven](https://www.youtube.com/watch?v=4Op1tcnSjX4)
 - [Here In Heaven](https://www.youtube.com/watch?v=4Op1tcnSjX4)
 - [Falling In Love With Myself Again](https://www.youtube.com/watch?v=jx4ERgegpO8)
-- [Thank God It's Not Christmas](https://www.youtube.com/watch?v=mEBRzrYKifU)
-- [Hasta Manana, Monsieur](https://www.youtube.com/watch?v=KTmFKmwa8bk)
+- [Thank God Its Not Christmas](https://www.youtube.com/watch?v=mEBRzrYKifU)
+- [Hasta Manana Monsieur](https://www.youtube.com/watch?v=KTmFKmwa8bk)
 - [Talent Is An Asset](https://www.youtube.com/watch?v=FzaKJC_4fC0)
 - [Complaints](https://www.youtube.com/watch?v=iofQGkUfASg)
 - [In My Family](https://www.youtube.com/watch?v=UymqKMn9tlo)

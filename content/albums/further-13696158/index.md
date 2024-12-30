@@ -52,20 +52,20 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 
 
 ## Videos
-### Richard Hawley – Off My Mind (Official Video)
-{{< youtube id="t9UuZlB8DTA" title="Richard Hawley – Off My Mind (Official Video)" >}}<br>
+### Richard Hawley  Off My Mind Official Video
+{{< youtube id="t9UuZlB8DTA" title="Richard Hawley  Off My Mind Official Video" >}}<br>
 ### More Videos
 
-- [Richard Hawley - Alone (Official Video)](https://www.youtube.com/watch?v=Lwj6SjKBweU)
-- [Richard Hawley - Further (Official Audio)](https://www.youtube.com/watch?v=HL52vxONCcM)
-- [Richard Hawley - My Little Treasures (Official Video)](https://www.youtube.com/watch?v=BhLAO-x5lOw)
-- [Richard Hawley - Emilina Says (Official Audio)](https://www.youtube.com/watch?v=T36rAgvpCeY)
-- [Richard Hawley - Is There a Pill ? (Official Audio)](https://www.youtube.com/watch?v=7i4uaf9wDfo)
-- [Richard Hawley - Galley Girl (Official Audio)](https://www.youtube.com/watch?v=MvfdQziLE2s)
-- [Richard Hawley - Not Lonely (Official Audio)](https://www.youtube.com/watch?v=ky9VuBMsZTg)
-- [Richard Hawley - Time is (Official Audio)](https://www.youtube.com/watch?v=v4ns8RkhaN8)
-- [Richard Hawley - Midnight Train (Official Audio)](https://www.youtube.com/watch?v=dkjPhETiYD4)
-- [Richard Hawley - Doors (Official Audio)](https://www.youtube.com/watch?v=skmPXHhwlJ8)
+- [Richard Hawley - Alone Official Video](https://www.youtube.com/watch?v=Lwj6SjKBweU)
+- [Richard Hawley - Further Official Audio](https://www.youtube.com/watch?v=HL52vxONCcM)
+- [Richard Hawley - My Little Treasures Official Video](https://www.youtube.com/watch?v=BhLAO-x5lOw)
+- [Richard Hawley - Emilina Says Official Audio](https://www.youtube.com/watch?v=T36rAgvpCeY)
+- [Richard Hawley - Is There a Pill  Official Audio](https://www.youtube.com/watch?v=7i4uaf9wDfo)
+- [Richard Hawley - Galley Girl Official Audio](https://www.youtube.com/watch?v=MvfdQziLE2s)
+- [Richard Hawley - Not Lonely Official Audio](https://www.youtube.com/watch?v=ky9VuBMsZTg)
+- [Richard Hawley - Time is Official Audio](https://www.youtube.com/watch?v=v4ns8RkhaN8)
+- [Richard Hawley - Midnight Train Official Audio](https://www.youtube.com/watch?v=dkjPhETiYD4)
+- [Richard Hawley - Doors Official Audio](https://www.youtube.com/watch?v=skmPXHhwlJ8)
 
 ## Release Images
 {{< imageGrid >}}

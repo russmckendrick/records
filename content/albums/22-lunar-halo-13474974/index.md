@@ -31,13 +31,13 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 
 
 ## Videos
-### With Arms and Legs Moving, The Tell Tales
-{{< youtube id="MsnqxGAGXb4" title="With Arms and Legs Moving, The Tell Tales" >}}<br>
+### With Arms and Legs Moving The Tell Tales
+{{< youtube id="MsnqxGAGXb4" title="With Arms and Legs Moving The Tell Tales" >}}<br>
 ### More Videos
 
-- [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
-- [With Arms and Legs Moving, The Tell Tales](https://www.youtube.com/watch?v=MsnqxGAGXb4)
-- [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
+- [They Glow in Light Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
+- [With Arms and Legs Moving The Tell Tales](https://www.youtube.com/watch?v=MsnqxGAGXb4)
+- [They Glow in Light Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
 
 ## Release Images
 {{< imageGrid >}}

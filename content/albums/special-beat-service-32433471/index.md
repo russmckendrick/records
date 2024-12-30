@@ -56,16 +56,16 @@ Special Beat Service is the third studio album by the British ska band the Beat,
 {{< youtube id="ufvZPv771yQ" title="Jeannette" >}}<br>
 ### More Videos
 
-- [English Beat: "Save It For Later"](https://www.youtube.com/watch?v=0bM0wVjU2-k)
-- [THE BEAT - (THE COMPLETE SPECIAL BEAT SERVICE ALBUM)](https://www.youtube.com/watch?v=muVM-uafTlI)
-- [English Beat: "Save It For Later"](https://www.youtube.com/watch?v=0bM0wVjU2-k)
+- [English Beat Save It For Later](https://www.youtube.com/watch?v=0bM0wVjU2-k)
+- [THE BEAT - THE COMPLETE SPECIAL BEAT SERVICE ALBUM](https://www.youtube.com/watch?v=muVM-uafTlI)
+- [English Beat Save It For Later](https://www.youtube.com/watch?v=0bM0wVjU2-k)
 - [English Beat - pato and roger a go talk](https://www.youtube.com/watch?v=VNul8opwfKU)
 - [English Beat - Ackee 123](https://www.youtube.com/watch?v=Pu-mNwgn440)
 - [English Beat - i confess](https://www.youtube.com/watch?v=8fX_PjxpQrg)
 - [English Beat - sorry](https://www.youtube.com/watch?v=dFV_YauaDRU)
 - [English Beat - sole salvation](https://www.youtube.com/watch?v=ePyTcmw00BA)
 - [English Beat - Rotating Heads](https://www.youtube.com/watch?v=B45hcRNpFZc)
-- [English Beat - she's going](https://www.youtube.com/watch?v=dsJRAioa0vo)
+- [English Beat - shes going](https://www.youtube.com/watch?v=dsJRAioa0vo)
 - [English Beat - rotating head](https://www.youtube.com/watch?v=l4tAnMaQ8wo)
 - [English Beat - sugar and stress](https://www.youtube.com/watch?v=uiSGg4HNvGQ)
 - [English Beat - end of the party](https://www.youtube.com/watch?v=L46eyxpQaIE)

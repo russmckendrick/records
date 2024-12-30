@@ -53,21 +53,21 @@ Rhythm and Stealth is the second studio album by the English electronic group Le
 
 
 ## Videos
-### Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||
-{{< youtube id="eYXuKRFoBX4" title="Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||" >}}<br>
+### Leftfield - Rhythm and Stealth  Full Album  432001Hz  HQ  1999 
+{{< youtube id="eYXuKRFoBX4" title="Leftfield - Rhythm and Stealth  Full Album  432001Hz  HQ  1999 " >}}<br>
 ### More Videos
 
 - [Leftfield- Dusted](https://www.youtube.com/watch?v=4bILMkqskt4)
 - [Afrika Shox](https://www.youtube.com/watch?v=23ViourbxrE)
-- [Leftfield – Rhythm And Stealth | A](https://www.youtube.com/watch?v=XTgk_j8yvjs)
-- [Leftfield – Rhythm And Stealth | B](https://www.youtube.com/watch?v=Q-zo9KurMJY)
-- [Leftfield – Rhythm And Stealth | C](https://www.youtube.com/watch?v=EWYvs9fTDP4)
-- [Leftfield – Rhythm And Stealth | D](https://www.youtube.com/watch?v=fdltIeUr2Io)
+- [Leftfield  Rhythm And Stealth  A](https://www.youtube.com/watch?v=XTgk_j8yvjs)
+- [Leftfield  Rhythm And Stealth  B](https://www.youtube.com/watch?v=Q-zo9KurMJY)
+- [Leftfield  Rhythm And Stealth  C](https://www.youtube.com/watch?v=EWYvs9fTDP4)
+- [Leftfield  Rhythm And Stealth  D](https://www.youtube.com/watch?v=fdltIeUr2Io)
 - [Chant of a Poor Man](https://www.youtube.com/watch?v=W1UpiOLc3uY)
-- [Leftfield: Rhythm And Stealth:Stealth Remixes (Full Album) CD 2](https://www.youtube.com/watch?v=p1zpIPpbw_w)
-- [Leftfield - Phat Planet (Dave Clarke Remix)](https://www.youtube.com/watch?v=JZC_dQK1En4)
-- [Leftfield - Rino's Prayer (Nick Rapaccioli Remix)](https://www.youtube.com/watch?v=Y_18-xZXVoo)
-- [Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||](https://www.youtube.com/watch?v=eYXuKRFoBX4)
+- [Leftfield Rhythm And StealthStealth Remixes Full Album CD 2](https://www.youtube.com/watch?v=p1zpIPpbw_w)
+- [Leftfield - Phat Planet Dave Clarke Remix](https://www.youtube.com/watch?v=JZC_dQK1En4)
+- [Leftfield - Rinos Prayer Nick Rapaccioli Remix](https://www.youtube.com/watch?v=Y_18-xZXVoo)
+- [Leftfield - Rhythm and Stealth  Full Album  432001Hz  HQ  1999 ](https://www.youtube.com/watch?v=eYXuKRFoBX4)
 
 ## Release Images
 {{< imageGrid >}}

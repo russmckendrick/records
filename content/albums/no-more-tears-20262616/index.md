@@ -52,8 +52,8 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Videos
-### Ozzy Osbourne - No More Tears (Official Audio)
-{{< youtube id="mX_8p7NaibQ" title="Ozzy Osbourne - No More Tears (Official Audio)" >}}<br>
+### Ozzy Osbourne - No More Tears Official Audio
+{{< youtube id="mX_8p7NaibQ" title="Ozzy Osbourne - No More Tears Official Audio" >}}<br>
 
 
 ## Release Images

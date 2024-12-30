@@ -56,15 +56,15 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Videos
-### Peter Gabriel (Feat. Kate Bush) - Don't Give Up
-{{< youtube id="8LMB6K4rTGU" title="Peter Gabriel (Feat. Kate Bush) - Don't Give Up" >}}<br>
+### Peter Gabriel Feat Kate Bush - Dont Give Up
+{{< youtube id="8LMB6K4rTGU" title="Peter Gabriel Feat Kate Bush - Dont Give Up" >}}<br>
 ### More Videos
 
-- [Peter Gabriel - Sledgehammer (HD version)](https://www.youtube.com/watch?v=OJWJE0x7T4Q)
-- [Peter Gabriel - Don't Give Up (ft. Kate Bush)](https://www.youtube.com/watch?v=VjEq-r2agqc)
+- [Peter Gabriel - Sledgehammer HD version](https://www.youtube.com/watch?v=OJWJE0x7T4Q)
+- [Peter Gabriel - Dont Give Up ft Kate Bush](https://www.youtube.com/watch?v=VjEq-r2agqc)
 - [Peter Gabriel - Big Time](https://www.youtube.com/watch?v=PBAl9cchQac)
 - [Peter Gabriel - In Your Eyes](https://www.youtube.com/watch?v=kU8OJAOMbPg)
-- [We Do What We're Told (Milgram's 37)](https://www.youtube.com/watch?v=sMLlDBXtmX0)
+- [We Do What Were Told Milgrams 37](https://www.youtube.com/watch?v=sMLlDBXtmX0)
 
 ## Release Images
 {{< imageGrid >}}

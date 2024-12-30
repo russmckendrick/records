@@ -52,8 +52,8 @@ Of course, much of the Peppers 2.0 was as hedonistic as ever (“Stone Cold Bush
 
 
 ## Videos
-### R̲ed H̲ot C̲hili Pep̲p̲ers – M̲other's Milk (Full Album)
-{{< youtube id="SI1bJrPEtnY" title="R̲ed H̲ot C̲hili Pep̲p̲ers – M̲other's Milk (Full Album)" >}}<br>
+### Red Hot Chili Peppers  Mothers Milk Full Album
+{{< youtube id="SI1bJrPEtnY" title="Red Hot Chili Peppers  Mothers Milk Full Album" >}}<br>
 
 
 ## Release Images

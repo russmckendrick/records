@@ -62,16 +62,16 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 
 
 ## Videos
-### Sublime - What I Got (Official Music Video)
-{{< youtube id="0Uc3ZrmhDN4" title="Sublime - What I Got (Official Music Video)" >}}<br>
+### Sublime - What I Got Official Music Video
+{{< youtube id="0Uc3ZrmhDN4" title="Sublime - What I Got Official Music Video" >}}<br>
 ### More Videos
 
-- [Sublime - Santeria (Official Music Video)](https://www.youtube.com/watch?v=AEYN5w4T_aM)
-- [Sublime - Wrong Way (Official Video)](https://www.youtube.com/watch?v=uLifSFBs_Lk)
-- [Sublime - Same In The End (Official Video)](https://www.youtube.com/watch?v=XINAJ7jgg6Y)
+- [Sublime - Santeria Official Music Video](https://www.youtube.com/watch?v=AEYN5w4T_aM)
+- [Sublime - Wrong Way Official Video](https://www.youtube.com/watch?v=uLifSFBs_Lk)
+- [Sublime - Same In The End Official Video](https://www.youtube.com/watch?v=XINAJ7jgg6Y)
 - [Sublime - Garden Grove](https://www.youtube.com/watch?v=qpSo_zj0UQw)
-- [Sublime - Doin' Time (Official Video)](https://www.youtube.com/watch?v=2yT8RsCarJA)
-- [Sublime - Pawn Shop (Official Video)](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
+- [Sublime - Doin Time Official Video](https://www.youtube.com/watch?v=2yT8RsCarJA)
+- [Sublime - Pawn Shop Official Video](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
 - [Under My Voodoo](https://www.youtube.com/watch?v=uV_X627F3l4)
 
 ## Release Images

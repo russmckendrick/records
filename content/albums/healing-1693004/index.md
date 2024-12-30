@@ -45,14 +45,14 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 
 
 ## Videos
-### Todd Rundgren –Healer.....yerdenizplak.com İstanbul Kadıköy
-{{< youtube id="OojgKuvy1Lk" title="Todd Rundgren –Healer.....yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### Todd Rundgren Healeryerdenizplakcom İstanbul Kadıköy
+{{< youtube id="OojgKuvy1Lk" title="Todd Rundgren Healeryerdenizplakcom İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [Todd Rundgren - Healing Pt. 1 (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=EHwneXcS3Mc)
-- [Todd Rundgren - Healing Pt. 2 (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=49Iecr8UevA)
-- [Todd Rundgren - Healing Pt. 3 (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=p2C4IcKQiEk)
-- [Todd Rundgren - Healing (1981) FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=1Q32sZVNZqo)
+- [Todd Rundgren - Healing Pt 1 Lyrics Below HQ](https://www.youtube.com/watch?v=EHwneXcS3Mc)
+- [Todd Rundgren - Healing Pt 2 Lyrics Below HQ](https://www.youtube.com/watch?v=49Iecr8UevA)
+- [Todd Rundgren - Healing Pt 3 Lyrics Below HQ](https://www.youtube.com/watch?v=p2C4IcKQiEk)
+- [Todd Rundgren - Healing 1981 FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=1Q32sZVNZqo)
 
 ## Release Images
 {{< imageGrid >}}

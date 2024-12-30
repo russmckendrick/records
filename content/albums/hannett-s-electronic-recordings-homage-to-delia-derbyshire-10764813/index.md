@@ -45,19 +45,19 @@ styles: ["Experimental", "Synthwave"]
 
 
 ## Videos
-### Homage To Delia Derbyshire, Pt. 11
-{{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire, Pt. 11" >}}<br>
+### Homage To Delia Derbyshire Pt 11
+{{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire Pt 11" >}}<br>
 ### More Videos
 
 - [Martin Plays Bass](https://www.youtube.com/watch?v=hsskkL7C7PA)
-- [Martin On Synths, Keyboards ETC (Track A)](https://www.youtube.com/watch?v=hqqqSykCHRo)
-- [Homage To Delia Derbyshire, Pt. 13](https://www.youtube.com/watch?v=0RzMIxo6lvM)
-- [Homage To Delia Derbyshire, Pt. 11](https://www.youtube.com/watch?v=flhaD1ikMqw)
+- [Martin On Synths Keyboards ETC Track A](https://www.youtube.com/watch?v=hqqqSykCHRo)
+- [Homage To Delia Derbyshire Pt 13](https://www.youtube.com/watch?v=0RzMIxo6lvM)
+- [Homage To Delia Derbyshire Pt 11](https://www.youtube.com/watch?v=flhaD1ikMqw)
 - [Martin On Syndrums](https://www.youtube.com/watch?v=mG9Oiv9slak)
-- [Martin On Synths, Metronome ETC](https://www.youtube.com/watch?v=r2e1oCAwlWI)
-- [Martin On Synths, Keyboards ETC (Track A)](https://www.youtube.com/watch?v=rqS7MzCx6a8)
+- [Martin On Synths Metronome ETC](https://www.youtube.com/watch?v=r2e1oCAwlWI)
+- [Martin On Synths Keyboards ETC Track A](https://www.youtube.com/watch?v=rqS7MzCx6a8)
 - [Martin Plays Bass](https://www.youtube.com/watch?v=DSnRN1R-sRU)
-- [Martin On Synths, Keyboards ETC (Track C)](https://www.youtube.com/watch?v=g5Z0jVGLBjU)
+- [Martin On Synths Keyboards ETC Track C](https://www.youtube.com/watch?v=g5Z0jVGLBjU)
 - [Martin On Syndrums](https://www.youtube.com/watch?v=RKurJt_93c8)
 
 ## Release Images

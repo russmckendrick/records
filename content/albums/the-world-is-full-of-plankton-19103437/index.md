@@ -36,7 +36,7 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ### More Videos
 
 - [Amorphous Androgynous - All is harvest](https://www.youtube.com/watch?v=33pWNJ38kXk)
-- [Amorphous Androgynous - The Emptiness of Nothingness (HD)](https://www.youtube.com/watch?v=VEJbDIwTKNM)
+- [Amorphous Androgynous - The Emptiness of Nothingness HD](https://www.youtube.com/watch?v=VEJbDIwTKNM)
 
 ## Release Images
 {{< imageGrid >}}

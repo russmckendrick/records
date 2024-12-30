@@ -46,21 +46,21 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 
 
 ## Videos
-### Rocks (Remastered)
-{{< youtube id="R7n2_OLmzMM" title="Rocks (Remastered)" >}}<br>
+### Rocks Remastered
+{{< youtube id="R7n2_OLmzMM" title="Rocks Remastered" >}}<br>
 ### More Videos
 
-- [Ivy Ivy Ivy (Remastered)](https://www.youtube.com/watch?v=Nc8EB_iybKw)
-- [Movin' on Up (Remastered)](https://www.youtube.com/watch?v=p2MCQyXVQdA)
-- [Dolls (Sweet Rock and Roll) (Remastered)](https://www.youtube.com/watch?v=xXHOnU1JiPE)
-- [Sometimes I Feel So Lonely (Remastered)](https://www.youtube.com/watch?v=DelB2BSBRoQ)
-- [Star (Remastered)](https://www.youtube.com/watch?v=8n1PJfskOtU)
-- [Rocks (Remastered)](https://www.youtube.com/watch?v=R7n2_OLmzMM)
-- [Ivy Ivy Ivy (Remastered)](https://www.youtube.com/watch?v=Nc8EB_iybKw)
-- [Movin' on Up (Remastered)](https://www.youtube.com/watch?v=p2MCQyXVQdA)
-- [Dolls (Sweet Rock and Roll) (Remastered)](https://www.youtube.com/watch?v=xXHOnU1JiPE)
-- [Sometimes I Feel So Lonely (Remastered)](https://www.youtube.com/watch?v=DelB2BSBRoQ)
-- [Star (Remastered)](https://www.youtube.com/watch?v=8n1PJfskOtU)
+- [Ivy Ivy Ivy Remastered](https://www.youtube.com/watch?v=Nc8EB_iybKw)
+- [Movin on Up Remastered](https://www.youtube.com/watch?v=p2MCQyXVQdA)
+- [Dolls Sweet Rock and Roll Remastered](https://www.youtube.com/watch?v=xXHOnU1JiPE)
+- [Sometimes I Feel So Lonely Remastered](https://www.youtube.com/watch?v=DelB2BSBRoQ)
+- [Star Remastered](https://www.youtube.com/watch?v=8n1PJfskOtU)
+- [Rocks Remastered](https://www.youtube.com/watch?v=R7n2_OLmzMM)
+- [Ivy Ivy Ivy Remastered](https://www.youtube.com/watch?v=Nc8EB_iybKw)
+- [Movin on Up Remastered](https://www.youtube.com/watch?v=p2MCQyXVQdA)
+- [Dolls Sweet Rock and Roll Remastered](https://www.youtube.com/watch?v=xXHOnU1JiPE)
+- [Sometimes I Feel So Lonely Remastered](https://www.youtube.com/watch?v=DelB2BSBRoQ)
+- [Star Remastered](https://www.youtube.com/watch?v=8n1PJfskOtU)
 
 ## Release Images
 {{< imageGrid >}}

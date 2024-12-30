@@ -52,7 +52,7 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 {{< youtube id="ZObBZh9ECcg" title="Oczy Mlody" >}}<br>
 ### More Videos
 
-- [The Flaming Lips - How?? (Official Music Video)](https://www.youtube.com/watch?v=unLnJvzf-So)
+- [The Flaming Lips - How Official Music Video](https://www.youtube.com/watch?v=unLnJvzf-So)
 
 ## Release Images
 {{< imageGrid >}}

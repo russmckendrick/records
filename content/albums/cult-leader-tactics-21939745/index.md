@@ -45,8 +45,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Paul Draper - Cult Leader Tactics (Official Lyric Video)
-{{< youtube id="v9--PJqt7Jc" title="Paul Draper - Cult Leader Tactics (Official Lyric Video)" >}}<br>
+### Paul Draper - Cult Leader Tactics Official Lyric Video
+{{< youtube id="v9--PJqt7Jc" title="Paul Draper - Cult Leader Tactics Official Lyric Video" >}}<br>
 ### More Videos
 
 - [Cult Leader Tactics in E-Flat Minor](https://www.youtube.com/watch?v=3ANL_fDerBU)

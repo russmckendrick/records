@@ -54,14 +54,14 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 
 
 ## Videos
-### Mastodon - Steambreather [Official Music Video]
-{{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather [Official Music Video]" >}}<br>
+### Mastodon - Steambreather Official Music Video
+{{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather Official Music Video" >}}<br>
 ### More Videos
 
-- [Mastodon - Sultan's Curse [Official Audio]](https://www.youtube.com/watch?v=Og39iIBeOHI)
-- [Mastodon - Andromeda [Official Audio]](https://www.youtube.com/watch?v=8Ry7FStwey4)
-- [Mastodon - Show Yourself [Official Music Video]](https://www.youtube.com/watch?v=gUGda7GdZPQ)
-- [Mastodon - Steambreather [Official Music Video]](https://www.youtube.com/watch?v=HEubrZV04b0)
+- [Mastodon - Sultans Curse Official Audio](https://www.youtube.com/watch?v=Og39iIBeOHI)
+- [Mastodon - Andromeda Official Audio](https://www.youtube.com/watch?v=8Ry7FStwey4)
+- [Mastodon - Show Yourself Official Music Video](https://www.youtube.com/watch?v=gUGda7GdZPQ)
+- [Mastodon - Steambreather Official Music Video](https://www.youtube.com/watch?v=HEubrZV04b0)
 
 ## Release Images
 {{< imageGrid >}}

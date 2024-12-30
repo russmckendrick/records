@@ -63,7 +63,7 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 - [King Crimson - Islands](https://www.youtube.com/watch?v=jY7dbRyoHfE)
 - [Formentera Lady](https://www.youtube.com/watch?v=JZrNSROq810)
-- [King Crimson - Sailors Tale (OFFICIAL)](https://www.youtube.com/watch?v=tWZPJTNPXQU)
+- [King Crimson - Sailors Tale OFFICIAL](https://www.youtube.com/watch?v=tWZPJTNPXQU)
 
 ## Release Images
 {{< imageGrid >}}

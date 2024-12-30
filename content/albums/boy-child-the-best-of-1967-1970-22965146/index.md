@@ -50,22 +50,22 @@ styles: ["Pop Rock", "Baroque Pop"]
 
 
 ## Videos
-### Montague Terrace (In Blue)
-{{< youtube id="okWihNm-4wg" title="Montague Terrace (In Blue)" >}}<br>
+### Montague Terrace In Blue
+{{< youtube id="okWihNm-4wg" title="Montague Terrace In Blue" >}}<br>
 ### More Videos
 
 - [The Plague](https://www.youtube.com/watch?v=t62oPUfOcu8)
 - [Copenhagen](https://www.youtube.com/watch?v=Q145Zd5mBiA)
 - [Prologue](https://www.youtube.com/watch?v=P8tdhcJj1cI)
-- [It's Raining Today](https://www.youtube.com/watch?v=7SIkNZRg_fM)
+- [Its Raining Today](https://www.youtube.com/watch?v=7SIkNZRg_fM)
 - [On Your Own Again](https://www.youtube.com/watch?v=DZJquQY2poY)
 - [We Came Through](https://www.youtube.com/watch?v=BnzmioTGCcw)
 - [Angels Of Ashes](https://www.youtube.com/watch?v=CuVa2jFZW-o)
 - [Time Operator](https://www.youtube.com/watch?v=CiSh6QXloTs)
 - [Plastic Palace People](https://www.youtube.com/watch?v=f3CEo_IgxtY)
-- [Epilogue: The War Is Over](https://www.youtube.com/watch?v=Ek-5ebSz0JU)
+- [Epilogue The War Is Over](https://www.youtube.com/watch?v=Ek-5ebSz0JU)
 - [Such A Small Love](https://www.youtube.com/watch?v=VLbTW7UMhhU)
-- [The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)](https://www.youtube.com/watch?v=ewRvMdkvjWU)
+- [The Old Mans Back Again Dedicated To The Neo-Stalinist Regime](https://www.youtube.com/watch?v=ewRvMdkvjWU)
 
 ## Release Images
 {{< imageGrid >}}

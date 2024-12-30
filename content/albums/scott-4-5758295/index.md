@@ -51,7 +51,7 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 {{< youtube id="jMUk1R_fKEA" title="Scott Walker - The Seventh Seal" >}}<br>
 ### More Videos
 
-- [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
+- [Scott Walker The Old Mans Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
 - [Scott Walker - Boy Child](https://www.youtube.com/watch?v=THPVTsenZxs)
 - [Scott Walker - Angels Of Ashes](https://www.youtube.com/watch?v=HYHp-w-1PJY)
 - [Rhymes Of Goodbye](https://www.youtube.com/watch?v=jI1-_LqC8Ok)

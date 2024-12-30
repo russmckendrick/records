@@ -54,18 +54,18 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 
 
 ## Videos
-### Introducing 'The Best Years' (2014 Remaster)
-{{< youtube id="qEiPqFwDs1E" title="Introducing 'The Best Years' (2014 Remaster)" >}}<br>
+### Introducing The Best Years 2014 Remaster
+{{< youtube id="qEiPqFwDs1E" title="Introducing The Best Years 2014 Remaster" >}}<br>
 ### More Videos
 
-- [The Mad Mad Moonlight (2014 Remaster)](https://www.youtube.com/watch?v=hDal-VyOkVM)
-- [Mr. Raffles (Man, It Was Mean)](https://www.youtube.com/watch?v=e5kKfhO_js4)
-- [It Wasn't Me (2014 Remaster)](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
-- [Panorama (2014 Remaster)](https://www.youtube.com/watch?v=fzX1IdOH_E0)
-- [Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)](https://www.youtube.com/watch?v=prUFFUTb7lQ)
-- [Back to the Farm (2014 Remaster)](https://www.youtube.com/watch?v=f_D2THFZP_E)
-- [49th Parallel (2014 Remaster)](https://www.youtube.com/watch?v=CQ90oxGi1yo)
-- [The Best Years of Our Lives (2014 Remaster)](https://www.youtube.com/watch?v=BvRz8aAm9E0)
+- [The Mad Mad Moonlight 2014 Remaster](https://www.youtube.com/watch?v=hDal-VyOkVM)
+- [Mr Raffles Man It Was Mean](https://www.youtube.com/watch?v=e5kKfhO_js4)
+- [It Wasnt Me 2014 Remaster](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
+- [Panorama 2014 Remaster](https://www.youtube.com/watch?v=fzX1IdOH_E0)
+- [Steve Harley  Cockney Rebel  Make Me Smile Come Up And See Me  The Best Years Of Our Lives HQ](https://www.youtube.com/watch?v=prUFFUTb7lQ)
+- [Back to the Farm 2014 Remaster](https://www.youtube.com/watch?v=f_D2THFZP_E)
+- [49th Parallel 2014 Remaster](https://www.youtube.com/watch?v=CQ90oxGi1yo)
+- [The Best Years of Our Lives 2014 Remaster](https://www.youtube.com/watch?v=BvRz8aAm9E0)
 
 ## Release Images
 {{< imageGrid >}}

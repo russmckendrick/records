@@ -58,10 +58,10 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 {{< youtube id="b_oNylzsY7I" title="John Grant - Queen Of Denmark" >}}<br>
 ### More Videos
 
-- [John Grant "Queen of Denmark" LIVE at The Cat's Cradle 4/3/10](https://www.youtube.com/watch?v=Yz0ggk0eITg)
-- [John Grant (feat. Midlake) - I Wanna Go To Marz - Official Video HD](https://www.youtube.com/watch?v=mzWQSabtWLs)
+- [John Grant Queen of Denmark LIVE at The Cats Cradle 4310](https://www.youtube.com/watch?v=Yz0ggk0eITg)
+- [John Grant feat Midlake - I Wanna Go To Marz - Official Video HD](https://www.youtube.com/watch?v=mzWQSabtWLs)
 - [John Grant - Queen Of Denmark](https://www.youtube.com/watch?v=b_oNylzsY7I)
-- [John Grant "Queen of Denmark" LIVE at The Cat's Cradle 4/3/10](https://www.youtube.com/watch?v=Yz0ggk0eITg)
+- [John Grant Queen of Denmark LIVE at The Cats Cradle 4310](https://www.youtube.com/watch?v=Yz0ggk0eITg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,24 +56,24 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 
 
 ## Videos
-### Section 11 (A Long Day Continues / We Sound Amazed)
-{{< youtube id="N55OvrqdrLI" title="Section 11 (A Long Day Continues / We Sound Amazed)" >}}<br>
+### Section 11 A Long Day Continues  We Sound Amazed
+{{< youtube id="N55OvrqdrLI" title="Section 11 A Long Day Continues  We Sound Amazed" >}}<br>
 ### More Videos
 
-- [Section 12 (Hold Me Now)](https://www.youtube.com/watch?v=1KrAPnHDfko)
-- [The Polyphonic Spree Section 13 Diamonds/ Mild devotion to majesty](https://www.youtube.com/watch?v=F62msANqVQU)
+- [Section 12 Hold Me Now](https://www.youtube.com/watch?v=1KrAPnHDfko)
+- [The Polyphonic Spree Section 13 Diamonds Mild devotion to majesty](https://www.youtube.com/watch?v=F62msANqVQU)
 - [The Polyphonic Spree - Two Thousand Places](https://www.youtube.com/watch?v=kNdmkiAkvT0)
-- [Section 15 (Ensure Your Reservation)](https://www.youtube.com/watch?v=3oZTgO4ef94)
-- [Section 16 (One Man Show)](https://www.youtube.com/watch?v=NMk6IhU3BUY)
-- [Section 17 (Suitcase Calling)](https://www.youtube.com/watch?v=lpAT0QH3UGA)
-- [Section 18 (Everything Starts At The Seam)](https://www.youtube.com/watch?v=vd4W5cm6LN8)
-- [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=zpAOozUt-K8)
-- [Section 11 (A Long Day Continues/We Sound Amazed)](https://www.youtube.com/watch?v=KdyFxfFHnmg)
-- [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=zpAOozUt-K8)
-- [The Polyphonic Spree - Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=XeA1AYpgLY4)
-- [The Polyphonic Spree: Together We're Heavy](https://www.youtube.com/watch?v=-MYLRycwgqw)
-- [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=3KCv7U2KA8c)
-- [Section 20 (Together We're Heavy)](https://www.youtube.com/watch?v=_nxjf6AYecc)
+- [Section 15 Ensure Your Reservation](https://www.youtube.com/watch?v=3oZTgO4ef94)
+- [Section 16 One Man Show](https://www.youtube.com/watch?v=NMk6IhU3BUY)
+- [Section 17 Suitcase Calling](https://www.youtube.com/watch?v=lpAT0QH3UGA)
+- [Section 18 Everything Starts At The Seam](https://www.youtube.com/watch?v=vd4W5cm6LN8)
+- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=zpAOozUt-K8)
+- [Section 11 A Long Day ContinuesWe Sound Amazed](https://www.youtube.com/watch?v=KdyFxfFHnmg)
+- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=zpAOozUt-K8)
+- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=XeA1AYpgLY4)
+- [The Polyphonic Spree Together Were Heavy](https://www.youtube.com/watch?v=-MYLRycwgqw)
+- [Section 20 Together Were Heavy](https://www.youtube.com/watch?v=3KCv7U2KA8c)
+- [Section 20 Together Were Heavy](https://www.youtube.com/watch?v=_nxjf6AYecc)
 
 ## Release Images
 {{< imageGrid >}}

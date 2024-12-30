@@ -53,11 +53,11 @@ styles: ["Hard Rock", "Glam"]
 
 
 ## Videos
-### Mötley Crüe - Dr. Feelgood (Official Music Video)
-{{< youtube id="trGX3ET3jTQ" title="Mötley Crüe - Dr. Feelgood (Official Music Video)" >}}<br>
+### Mötley Crüe - Dr Feelgood Official Music Video
+{{< youtube id="trGX3ET3jTQ" title="Mötley Crüe - Dr Feelgood Official Music Video" >}}<br>
 ### More Videos
 
-- [Motley Crue - Kickstart My Heart (Official HD Remaster)](https://www.youtube.com/watch?v=k0WHSYFY21w)
+- [Motley Crue - Kickstart My Heart Official HD Remaster](https://www.youtube.com/watch?v=k0WHSYFY21w)
 
 ## Release Images
 {{< imageGrid >}}

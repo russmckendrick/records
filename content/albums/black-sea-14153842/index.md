@@ -52,18 +52,18 @@ Black Sea was critically acclaimed and remains XTC's second-highest charting Bri
 
 
 ## Videos
-### Sgt. Rock (Is Going To Help Me) XTC The Thief Of Bagdad Single
-{{< youtube id="kwUfJTLdVlc" title="Sgt. Rock (Is Going To Help Me) XTC The Thief Of Bagdad Single" >}}<br>
+### Sgt Rock Is Going To Help Me XTC The Thief Of Bagdad Single
+{{< youtube id="kwUfJTLdVlc" title="Sgt Rock Is Going To Help Me XTC The Thief Of Bagdad Single" >}}<br>
 ### More Videos
 
-- [XTC - Sgt. Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)
+- [XTC - Sgt Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)
 - [XTC - Respectable Street](https://www.youtube.com/watch?v=Xz4JmNhkjXc)
 - [XTC - Towers Of London](https://www.youtube.com/watch?v=nYui2Z-12WI)
-- [XTC - Generals and Majors - Black Sea [1980]](https://www.youtube.com/watch?v=uCuZ11IW1CY)
-- [Love At First Sight (2001 Remaster)](https://www.youtube.com/watch?v=aFhQevV4z3c)
-- [No Language In Our Lungs (2001 Remaster)](https://www.youtube.com/watch?v=JgOOvMj3HyQ)
-- [Burning With Optimism's Flames (2001 Remaster)](https://www.youtube.com/watch?v=XSWoTrdTKhM)
-- [Living Through Another Cuba (2001 Remaster)](https://www.youtube.com/watch?v=BTp_qgh-i4g)
+- [XTC - Generals and Majors - Black Sea 1980](https://www.youtube.com/watch?v=uCuZ11IW1CY)
+- [Love At First Sight 2001 Remaster](https://www.youtube.com/watch?v=aFhQevV4z3c)
+- [No Language In Our Lungs 2001 Remaster](https://www.youtube.com/watch?v=JgOOvMj3HyQ)
+- [Burning With Optimisms Flames 2001 Remaster](https://www.youtube.com/watch?v=XSWoTrdTKhM)
+- [Living Through Another Cuba 2001 Remaster](https://www.youtube.com/watch?v=BTp_qgh-i4g)
 
 ## Release Images
 {{< imageGrid >}}

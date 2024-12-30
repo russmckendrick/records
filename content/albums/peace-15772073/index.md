@@ -61,7 +61,7 @@ The album was produced by Sean Lakeman.
 {{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}<br>
 ### More Videos
 
-- [Levellers - Peace (Full Album) 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
+- [Levellers - Peace Full Album 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
 
 ## Release Images
 {{< imageGrid >}}

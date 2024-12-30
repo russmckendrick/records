@@ -57,8 +57,8 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 
 
 ## Videos
-### Thunder - Last One Out Turn Off The Lights (Official Video)
-{{< youtube id="AWWZ38bQYZg" title="Thunder - Last One Out Turn Off The Lights (Official Video)" >}}<br>
+### Thunder - Last One Out Turn Off The Lights Official Video
+{{< youtube id="AWWZ38bQYZg" title="Thunder - Last One Out Turn Off The Lights Official Video" >}}<br>
 
 
 ## Release Images

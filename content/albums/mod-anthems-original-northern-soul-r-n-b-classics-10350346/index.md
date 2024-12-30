@@ -58,36 +58,36 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 
 
 ## Videos
-### Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]
-{{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB & Ska Classics [part 1]" >}}<br>
+### Mod Anthems - Original Northern Soul RnB  Ska Classics part 1
+{{< youtube id="kasWTpTQ1k4" title="Mod Anthems - Original Northern Soul RnB  Ska Classics part 1" >}}<br>
 ### More Videos
 
-- [Booker T. & The MG's - Green Onions (Official Audio)](https://www.youtube.com/watch?v=0oox9bJaGJ8)
+- [Booker T  The MGs - Green Onions Official Audio](https://www.youtube.com/watch?v=0oox9bJaGJ8)
 - [In the Midnight Hour](https://www.youtube.com/watch?v=uiy36UfftsI)
 - [THE MAR-KEYS - Last Night](https://www.youtube.com/watch?v=FX5T9GvSnbY)
-- [Tami Lynn - I'm Gonna Run Away From You](https://www.youtube.com/watch?v=cAwYfd2vnAA)
+- [Tami Lynn - Im Gonna Run Away From You](https://www.youtube.com/watch?v=cAwYfd2vnAA)
 - [Respect](https://www.youtube.com/watch?v=rEgKSj1VHZ0)
-- [Rufus Thomas - Walking The Dog (stereo)](https://www.youtube.com/watch?v=G3-tdrPkY7w)
-- [DORIS TROY - WHAT,CHA GONNA DO ABOUT IT](https://www.youtube.com/watch?v=U58cXrK5cGY)
-- [Solomon Burke - Everybody needs somebody to love - Lookin for my Baby.wmv](https://www.youtube.com/watch?v=UH8ZL4WtJOk)
+- [Rufus Thomas - Walking The Dog stereo](https://www.youtube.com/watch?v=G3-tdrPkY7w)
+- [DORIS TROY - WHATCHA GONNA DO ABOUT IT](https://www.youtube.com/watch?v=U58cXrK5cGY)
+- [Solomon Burke - Everybody needs somebody to love - Lookin for my Babywmv](https://www.youtube.com/watch?v=UH8ZL4WtJOk)
 - [Aretha Franklin   Chain of Fools](https://www.youtube.com/watch?v=hrcUNChhOP0)
 - [WILLIE TEE - Walking Up A One Way Street](https://www.youtube.com/watch?v=imqybrR3OSY)
-- [Rex Garvin & The Might Cravers - Sock It To 'Em J.B. - Parts 1&2 (Atlantic Records)](https://www.youtube.com/watch?v=l-1TQ4IicH4)
+- [Rex Garvin  The Might Cravers - Sock It To Em JB - Parts 12 Atlantic Records](https://www.youtube.com/watch?v=l-1TQ4IicH4)
 - [THE ASTORS - Candy](https://www.youtube.com/watch?v=t06Xj04K48w)
 - [ESTHER PHILLIPS - Just Say Goodbye](https://www.youtube.com/watch?v=sYQJjTCNbTI)
 - [The Capitols - Cool Jerk](https://www.youtube.com/watch?v=27PydomerjM)
-- [Arthur Conley ~ Sweet Soul Music  (1967)](https://www.youtube.com/watch?v=grE0lwTsSPg)
+- [Arthur Conley  Sweet Soul Music  1967](https://www.youtube.com/watch?v=grE0lwTsSPg)
 - [The Invitations - Skiing In The Snow](https://www.youtube.com/watch?v=SMkdhSWEmNA)
 - [DARRELL BANKS - Open the door to your heart - REVILOT](https://www.youtube.com/watch?v=zWlPIAxDAA0)
 - [Coasters - Crazy Baby](https://www.youtube.com/watch?v=QV7Az4N9-iQ)
 - [KING CURTIS - Memphis Soul Stew](https://www.youtube.com/watch?v=4Sm9n-6hy6M)
-- [Archie Bell & The Drells - Here I Go Again](https://www.youtube.com/watch?v=EciMesBeNDs)
+- [Archie Bell  The Drells - Here I Go Again](https://www.youtube.com/watch?v=EciMesBeNDs)
 - [Chuck Wood - Seven Days Too Long](https://www.youtube.com/watch?v=b3ZRDeKLyqk)
-- [Alice Clark - You Hit Me (Right Where It Hurt Me)](https://www.youtube.com/watch?v=4ivnJ8Bac4k)
+- [Alice Clark - You Hit Me Right Where It Hurt Me](https://www.youtube.com/watch?v=4ivnJ8Bac4k)
 - [Eddie Floyd - Big Bird 1968](https://www.youtube.com/watch?v=vO3LCtyty5M)
 - [Soul Brothers Six - Some Kind of Wonderful](https://www.youtube.com/watch?v=-MouM59AbnE)
 - [Ike And Tina Turner   Somebody Needs You](https://www.youtube.com/watch?v=Gi72iVtp568)
-- [Bettye Swann "Kiss My Love Goodbye" (1974)](https://www.youtube.com/watch?v=EBKhP4XEiXc)
+- [Bettye Swann Kiss My Love Goodbye 1974](https://www.youtube.com/watch?v=EBKhP4XEiXc)
 
 ## Release Images
 {{< imageGrid >}}

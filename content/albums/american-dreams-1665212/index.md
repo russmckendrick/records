@@ -64,8 +64,8 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 
 
 ## Videos
-### Lindsey Buckingham - Trouble (1981) (Music Video) 720p
-{{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble (1981) (Music Video) 720p" >}}<br>
+### Lindsey Buckingham - Trouble 1981 Music Video 720p
+{{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble 1981 Music Video 720p" >}}<br>
 ### More Videos
 
 - [Air Supply - Even The Nights Are Better](https://www.youtube.com/watch?v=BRx58DgOxeg)

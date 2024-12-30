@@ -57,16 +57,16 @@ The album was released by Virgin Records and Capitol Records in the United State
 
 
 ## Videos
-### Depeche Mode - Wrong (Official Video)
-{{< youtube id="fhnrrLxQEVQ" title="Depeche Mode - Wrong (Official Video)" >}}<br>
+### Depeche Mode - Wrong Official Video
+{{< youtube id="fhnrrLxQEVQ" title="Depeche Mode - Wrong Official Video" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Peace (Live)](https://www.youtube.com/watch?v=S25K5_zG0_8)
-- [Depeche Mode - Hole to Feed (Official Video)](https://www.youtube.com/watch?v=bX9rb3XMeHU)
-- [Depeche Mode - Fragile Tension (Official Video)](https://www.youtube.com/watch?v=FkVxlK8Qt50)
-- [Depeche Mode - Wrong (Official Video)](https://www.youtube.com/watch?v=fhnrrLxQEVQ)
-- [Depeche Mode - Peace (Live)](https://www.youtube.com/watch?v=S25K5_zG0_8)
-- [Depeche Mode - Hole to Feed (Official Video)](https://www.youtube.com/watch?v=bX9rb3XMeHU)
+- [Depeche Mode - Peace Live](https://www.youtube.com/watch?v=S25K5_zG0_8)
+- [Depeche Mode - Hole to Feed Official Video](https://www.youtube.com/watch?v=bX9rb3XMeHU)
+- [Depeche Mode - Fragile Tension Official Video](https://www.youtube.com/watch?v=FkVxlK8Qt50)
+- [Depeche Mode - Wrong Official Video](https://www.youtube.com/watch?v=fhnrrLxQEVQ)
+- [Depeche Mode - Peace Live](https://www.youtube.com/watch?v=S25K5_zG0_8)
+- [Depeche Mode - Hole to Feed Official Video](https://www.youtube.com/watch?v=bX9rb3XMeHU)
 
 ## Release Images
 {{< imageGrid >}}

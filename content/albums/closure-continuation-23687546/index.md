@@ -42,21 +42,21 @@ The album debuted at number two on the UK Albums Chart and reached number one in
 
 
 ## Videos
-### Porcupine Tree - Harridan (Official Lyric Video)
-{{< youtube id="AW5v4Ohxk5k" title="Porcupine Tree - Harridan (Official Lyric Video)" >}}<br>
+### Porcupine Tree - Harridan Official Lyric Video
+{{< youtube id="AW5v4Ohxk5k" title="Porcupine Tree - Harridan Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Porcupine Tree - Of The New Day (Official Lyric Video)](https://www.youtube.com/watch?v=AY148yblJdg)
-- [Porcupine Tree - Rats Return (Official Video)](https://www.youtube.com/watch?v=_8yjtkTitsA)
-- [Porcupine Tree - Dignity (Official Audio)](https://www.youtube.com/watch?v=Z3UhjiXG5m0)
-- [Porcupine Tree - Herd Culling (Official Video)](https://www.youtube.com/watch?v=l420X9T1a6E)
-- [Porcupine Tree - Walk the Plank (Official Audio)](https://www.youtube.com/watch?v=HJZJVnSjsjk)
-- [Porcupine Tree - Chimera's Wreck (Official Audio)](https://www.youtube.com/watch?v=LO0IV_qeZN4)
-- [Porcupine Tree - Population Three (Official Audio)](https://www.youtube.com/watch?v=LzG1nOFL3XQ)
-- [Porcupine Tree - Never Have (Official Audio)](https://www.youtube.com/watch?v=LYaur8_mUg4)
-- [Porcupine Tree - Love in the Past Tense (Official Audio)](https://www.youtube.com/watch?v=My9hnoHEgaU)
-- [Unboxing Porcupine Tree - Closure / Continuation 2022 Deluxe Edition](https://www.youtube.com/watch?v=yznt2OSAw7g)
-- [Porcupine Tree – Of The New Day......yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=QXBDIofnwDc)
+- [Porcupine Tree - Of The New Day Official Lyric Video](https://www.youtube.com/watch?v=AY148yblJdg)
+- [Porcupine Tree - Rats Return Official Video](https://www.youtube.com/watch?v=_8yjtkTitsA)
+- [Porcupine Tree - Dignity Official Audio](https://www.youtube.com/watch?v=Z3UhjiXG5m0)
+- [Porcupine Tree - Herd Culling Official Video](https://www.youtube.com/watch?v=l420X9T1a6E)
+- [Porcupine Tree - Walk the Plank Official Audio](https://www.youtube.com/watch?v=HJZJVnSjsjk)
+- [Porcupine Tree - Chimeras Wreck Official Audio](https://www.youtube.com/watch?v=LO0IV_qeZN4)
+- [Porcupine Tree - Population Three Official Audio](https://www.youtube.com/watch?v=LzG1nOFL3XQ)
+- [Porcupine Tree - Never Have Official Audio](https://www.youtube.com/watch?v=LYaur8_mUg4)
+- [Porcupine Tree - Love in the Past Tense Official Audio](https://www.youtube.com/watch?v=My9hnoHEgaU)
+- [Unboxing Porcupine Tree - Closure  Continuation 2022 Deluxe Edition](https://www.youtube.com/watch?v=yznt2OSAw7g)
+- [Porcupine Tree  Of The New Dayyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=QXBDIofnwDc)
 
 ## Release Images
 {{< imageGrid >}}

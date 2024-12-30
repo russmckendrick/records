@@ -91,8 +91,8 @@ In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the e
 
 
 ## Videos
-### Flying Lotus - Flamagra FULL Album + Instrumentals
-{{< youtube id="6BFXbeVM0jY" title="Flying Lotus - Flamagra FULL Album + Instrumentals" >}}<br>
+### Flying Lotus - Flamagra FULL Album  Instrumentals
+{{< youtube id="6BFXbeVM0jY" title="Flying Lotus - Flamagra FULL Album  Instrumentals" >}}<br>
 
 
 ## Release Images

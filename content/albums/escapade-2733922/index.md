@@ -53,7 +53,7 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 - [Tim Finn - Made My Day](https://www.youtube.com/watch?v=6DwerC0Dbug)
 - [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=uvXpu6qr9uE)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
-- [Tim Finn - Through The Years (1983)](https://www.youtube.com/watch?v=oyVGUQguaic)
+- [Tim Finn - Through The Years 1983](https://www.youtube.com/watch?v=oyVGUQguaic)
 - [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
 - [Tim Finn - Through The Years](https://www.youtube.com/watch?v=8RCPPbW4F18)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)

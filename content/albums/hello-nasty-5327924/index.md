@@ -70,29 +70,29 @@ So here they were, mostly back in New York now, jamming in lower Manhattan sub-b
 
 
 ## Videos
-### Description Of A Strange Man (Remastered 2009)
-{{< youtube id="TtSsSrcfO0U" title="Description Of A Strange Man (Remastered 2009)" >}}<br>
+### Description Of A Strange Man Remastered 2009
+{{< youtube id="TtSsSrcfO0U" title="Description Of A Strange Man Remastered 2009" >}}<br>
 ### More Videos
 
-- [Dirty Dog (Remastered 2009)](https://www.youtube.com/watch?v=7mykagidKTg)
-- [Intergalactic (Colleone & Webb Remix/Remastered 2009)](https://www.youtube.com/watch?v=FOiUD5efaGM)
-- ["Dr. Lee, PhD" (Dub Mix/Remastered 2009)](https://www.youtube.com/watch?v=ECP-RawPr20)
-- [Switched On (Remastered 2009)](https://www.youtube.com/watch?v=H-Iu_cns-hY)
-- [Auntie Jackie Poom Poom Delicious (Remastered 2009)](https://www.youtube.com/watch?v=NJIG48_8zBU)
-- [Putting Shame In Your Game (Prunes Remix/Remastered 2009)](https://www.youtube.com/watch?v=dhxkYHKBSj0)
-- [Stink Bug (Remastered 2009)](https://www.youtube.com/watch?v=5tMnL1McdsQ)
-- [Peanut Butter And Jelly (Remastered 2009)](https://www.youtube.com/watch?v=RRsNZbeN6Ao)
-- [Piano Jam (Remastered 2009)](https://www.youtube.com/watch?v=muZ-Lcd1c_c)
-- [Happy To Be In That Perfect Headspace (Remastered 2009)](https://www.youtube.com/watch?v=0FzqbZVtNxs)
-- [The Negotiation Limerick File (The 41 Small Stars Remix/Remastered 2009)](https://www.youtube.com/watch?v=qezc6f52kD0)
-- [The Drone (Remastered 2009)](https://www.youtube.com/watch?v=uAJCgbRzsKY)
-- [20 Questions Version (Remastered 2009)](https://www.youtube.com/watch?v=QjXo_fzVr84)
-- [The Biz Grasshopper Experiment (Remastered 2009)](https://www.youtube.com/watch?v=Rvd26PFH994)
-- [Hail Sagan (Special K)](https://www.youtube.com/watch?v=IkTu96-N8uA)
-- [Body Movin' (Kut Masta Kurt Remix/Remastered 2009)](https://www.youtube.com/watch?v=6JU26dbwCQM)
-- [Creepin' (Remastered 2009)](https://www.youtube.com/watch?v=1vQMOMbQ_d8)
-- [Learning Remote Control (Remastered 2009)](https://www.youtube.com/watch?v=y-2Bleikztw)
-- [Oh My Goodness This Record's Incredible (Remastered 2009)](https://www.youtube.com/watch?v=CCCTuMc0l1k)
+- [Dirty Dog Remastered 2009](https://www.youtube.com/watch?v=7mykagidKTg)
+- [Intergalactic Colleone  Webb RemixRemastered 2009](https://www.youtube.com/watch?v=FOiUD5efaGM)
+- [Dr Lee PhD Dub MixRemastered 2009](https://www.youtube.com/watch?v=ECP-RawPr20)
+- [Switched On Remastered 2009](https://www.youtube.com/watch?v=H-Iu_cns-hY)
+- [Auntie Jackie Poom Poom Delicious Remastered 2009](https://www.youtube.com/watch?v=NJIG48_8zBU)
+- [Putting Shame In Your Game Prunes RemixRemastered 2009](https://www.youtube.com/watch?v=dhxkYHKBSj0)
+- [Stink Bug Remastered 2009](https://www.youtube.com/watch?v=5tMnL1McdsQ)
+- [Peanut Butter And Jelly Remastered 2009](https://www.youtube.com/watch?v=RRsNZbeN6Ao)
+- [Piano Jam Remastered 2009](https://www.youtube.com/watch?v=muZ-Lcd1c_c)
+- [Happy To Be In That Perfect Headspace Remastered 2009](https://www.youtube.com/watch?v=0FzqbZVtNxs)
+- [The Negotiation Limerick File The 41 Small Stars RemixRemastered 2009](https://www.youtube.com/watch?v=qezc6f52kD0)
+- [The Drone Remastered 2009](https://www.youtube.com/watch?v=uAJCgbRzsKY)
+- [20 Questions Version Remastered 2009](https://www.youtube.com/watch?v=QjXo_fzVr84)
+- [The Biz Grasshopper Experiment Remastered 2009](https://www.youtube.com/watch?v=Rvd26PFH994)
+- [Hail Sagan Special K](https://www.youtube.com/watch?v=IkTu96-N8uA)
+- [Body Movin Kut Masta Kurt RemixRemastered 2009](https://www.youtube.com/watch?v=6JU26dbwCQM)
+- [Creepin Remastered 2009](https://www.youtube.com/watch?v=1vQMOMbQ_d8)
+- [Learning Remote Control Remastered 2009](https://www.youtube.com/watch?v=y-2Bleikztw)
+- [Oh My Goodness This Records Incredible Remastered 2009](https://www.youtube.com/watch?v=CCCTuMc0l1k)
 
 ## Release Images
 {{< imageGrid >}}

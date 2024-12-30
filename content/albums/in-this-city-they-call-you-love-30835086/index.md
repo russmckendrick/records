@@ -51,20 +51,20 @@ In This City They Call You Love is the tenth studio album by English singer-song
 
 
 ## Videos
-### Richard Hawley - Two for His Heels (Official Lyric Video)
-{{< youtube id="3YJpqWHL03g" title="Richard Hawley - Two for His Heels (Official Lyric Video)" >}}<br>
+### Richard Hawley - Two for His Heels Official Lyric Video
+{{< youtube id="3YJpqWHL03g" title="Richard Hawley - Two for His Heels Official Lyric Video" >}}<br>
 ### More Videos
 
 - [Have Love](https://www.youtube.com/watch?v=kS_srI-uawA)
-- [Richard Hawley - Prism In Jeans (Official Video)](https://www.youtube.com/watch?v=5Wy94YjI820)
-- [Richard Hawley - Heavy Rain (Official Lyric Video)](https://www.youtube.com/watch?v=r0JtGjQhEi4)
+- [Richard Hawley - Prism In Jeans Official Video](https://www.youtube.com/watch?v=5Wy94YjI820)
+- [Richard Hawley - Heavy Rain Official Lyric Video](https://www.youtube.com/watch?v=r0JtGjQhEi4)
 - [People](https://www.youtube.com/watch?v=wxxOgXg9wbA)
 - [Hear That Lonesome Whistle Blow](https://www.youtube.com/watch?v=K7oggXASJwQ)
 - [Deep Space](https://www.youtube.com/watch?v=cO5IEOOMeDg)
 - [Deep Waters](https://www.youtube.com/watch?v=BVAc9EHxr8o)
-- [I'll Never Get Over You](https://www.youtube.com/watch?v=YIi7IX9Y7Ss)
+- [Ill Never Get Over You](https://www.youtube.com/watch?v=YIi7IX9Y7Ss)
 - [When the Lights Go Out](https://www.youtube.com/watch?v=AAX_jtUjSG4)
-- ['Tis Night](https://www.youtube.com/watch?v=R4nqsiz1RXE)
+- [Tis Night](https://www.youtube.com/watch?v=R4nqsiz1RXE)
 
 ## Release Images
 {{< imageGrid >}}

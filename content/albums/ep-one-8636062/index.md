@@ -30,11 +30,11 @@ styles: ["Electro", "Indie Rock"]
 
 
 ## Videos
-### Paul Draper - EP ONE (Full EP stream)
-{{< youtube id="T4R-y4AHIis" title="Paul Draper - EP ONE (Full EP stream)" >}}<br>
+### Paul Draper - EP ONE Full EP stream
+{{< youtube id="T4R-y4AHIis" title="Paul Draper - EP ONE Full EP stream" >}}<br>
 ### More Videos
 
-- [Paul Draper - Feeling My Heart Run Slow (from EP ONE)](https://www.youtube.com/watch?v=IVpYEYd1LU0)
+- [Paul Draper - Feeling My Heart Run Slow from EP ONE](https://www.youtube.com/watch?v=IVpYEYd1LU0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -38,14 +38,14 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Videos
-### Fine Young Cannibals - She Drives Me Crazy  (Official Video)
-{{< youtube id="UtvmTu4zAMg" title="Fine Young Cannibals - She Drives Me Crazy  (Official Video)" >}}<br>
+### Fine Young Cannibals - She Drives Me Crazy  Official Video
+{{< youtube id="UtvmTu4zAMg" title="Fine Young Cannibals - She Drives Me Crazy  Official Video" >}}<br>
 ### More Videos
 
-- [Fine Young Cannibals - Good Thing (Official Video)](https://www.youtube.com/watch?v=We_9MthGzwk)
-- [Fine Young Cannibals - Don't Look Back](https://www.youtube.com/watch?v=kdTKpC53no8)
-- [Fine Young Cannibals - I'm Not the Man I Used to Be](https://www.youtube.com/watch?v=TrBYsPJ0rkA)
-- [She Drives Me Crazy (Remastered)](https://www.youtube.com/watch?v=uFLI968mYjE)
+- [Fine Young Cannibals - Good Thing Official Video](https://www.youtube.com/watch?v=We_9MthGzwk)
+- [Fine Young Cannibals - Dont Look Back](https://www.youtube.com/watch?v=kdTKpC53no8)
+- [Fine Young Cannibals - Im Not the Man I Used to Be](https://www.youtube.com/watch?v=TrBYsPJ0rkA)
+- [She Drives Me Crazy Remastered](https://www.youtube.com/watch?v=uFLI968mYjE)
 
 ## Release Images
 {{< imageGrid >}}

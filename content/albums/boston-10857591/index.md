@@ -52,9 +52,9 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 ### More Videos
 
 - [Peace of Mind](https://www.youtube.com/watch?v=tJ42CLtr7Jg)
-- [Foreplay / Long Time](https://www.youtube.com/watch?v=QlMUlpju3qo)
-- [Rock & Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
-- [Smokin'](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
+- [Foreplay  Long Time](https://www.youtube.com/watch?v=QlMUlpju3qo)
+- [Rock  Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
+- [Smokin](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
 - [Hitch a Ride](https://www.youtube.com/watch?v=CfSOxvgVfXk)
 - [Something About You](https://www.youtube.com/watch?v=osG16m9lphY)
 - [Let Me Take You Home Tonight](https://www.youtube.com/watch?v=1ZQbJ73GgZ8)

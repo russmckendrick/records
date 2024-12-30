@@ -67,7 +67,7 @@ The front cover features alginate masks of the faces of the six band members, ca
 ### More Videos
 
 - [The Soundtrack of Our Lives - Sister Surround](https://www.youtube.com/watch?v=n43d09Q6eB0)
-- [Soundtrack of Our Lives "Into the Next Sun" ('Behind the Music' LP)](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
+- [Soundtrack of Our Lives Into the Next Sun Behind the Music LP](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
 - [MIND THE GAP The Soundtrack Of Our Lives](https://www.youtube.com/watch?v=ZTK5k6kyH7w)
 
 ## Release Images

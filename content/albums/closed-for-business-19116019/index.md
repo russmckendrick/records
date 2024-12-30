@@ -41,8 +41,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Mansun - Closed For Business (Official Promo Video)
-{{< youtube id="A-qS11sqyqY" title="Mansun - Closed For Business (Official Promo Video)" >}}<br>
+### Mansun - Closed For Business Official Promo Video
+{{< youtube id="A-qS11sqyqY" title="Mansun - Closed For Business Official Promo Video" >}}<br>
 
 
 ## Release Images

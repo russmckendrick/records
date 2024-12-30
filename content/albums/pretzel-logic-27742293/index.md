@@ -49,15 +49,15 @@ And, boy—does the knife gleam on <i>Pretzel Logic</i>. Even the album’s comf
 
 
 ## Videos
-### Rikki Don't Lose That Number
-{{< youtube id="3tvRSFAVAqU" title="Rikki Don't Lose That Number" >}}<br>
+### Rikki Dont Lose That Number
+{{< youtube id="3tvRSFAVAqU" title="Rikki Dont Lose That Number" >}}<br>
 ### More Videos
 
 - [Night By Night](https://www.youtube.com/watch?v=0cxFzHO9lfI)
 - [Any Major Dude Will Tell You](https://www.youtube.com/watch?v=HBzzdlpISFg)
 - [Barrytown](https://www.youtube.com/watch?v=BwAu9S_UBPo)
-- [East St. Louis Toodle-Oo](https://www.youtube.com/watch?v=aD2FCoxmWgA)
-- [Parker's Band](https://www.youtube.com/watch?v=vvziJUxrD6k)
+- [East St Louis Toodle-Oo](https://www.youtube.com/watch?v=aD2FCoxmWgA)
+- [Parkers Band](https://www.youtube.com/watch?v=vvziJUxrD6k)
 - [Through With Buzz](https://www.youtube.com/watch?v=0P6zEU_G9v4)
 - [Pretzel Logic](https://www.youtube.com/watch?v=UBxZFadp9Pw)
 - [With A Gun](https://www.youtube.com/watch?v=kM89Cx3GQJg)

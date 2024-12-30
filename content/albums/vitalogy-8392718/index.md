@@ -67,19 +67,19 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 
 
 ## Videos
-### Pearl Jam - Better Man (Official Audio)
-{{< youtube id="nDK-wsdEhNE" title="Pearl Jam - Better Man (Official Audio)" >}}<br>
+### Pearl Jam - Better Man Official Audio
+{{< youtube id="nDK-wsdEhNE" title="Pearl Jam - Better Man Official Audio" >}}<br>
 ### More Videos
 
-- [Immortality (Remastered)](https://www.youtube.com/watch?v=pw4VEW3StIw)
-- [Not for You (Remastered)](https://www.youtube.com/watch?v=QulcQ5Afd7I)
-- [Last Exit (Remastered)](https://www.youtube.com/watch?v=YQRyhKmkUUE)
-- [Nothingman (Remastered)](https://www.youtube.com/watch?v=xiNpezXV3ck)
-- [Spin the Black Circle (Remastered)](https://www.youtube.com/watch?v=T3oMcrqDn_4)
-- [Tremor Christ (Remastered)](https://www.youtube.com/watch?v=CHnApSpj_8w)
-- [Whipping (Remastered)](https://www.youtube.com/watch?v=2ek78O2Eays)
-- [Satan's Bed (Remastered)](https://www.youtube.com/watch?v=sHPnS_kBrcY)
-- [Corduroy (Remastered)](https://www.youtube.com/watch?v=FQkgIrfpLw0)
+- [Immortality Remastered](https://www.youtube.com/watch?v=pw4VEW3StIw)
+- [Not for You Remastered](https://www.youtube.com/watch?v=QulcQ5Afd7I)
+- [Last Exit Remastered](https://www.youtube.com/watch?v=YQRyhKmkUUE)
+- [Nothingman Remastered](https://www.youtube.com/watch?v=xiNpezXV3ck)
+- [Spin the Black Circle Remastered](https://www.youtube.com/watch?v=T3oMcrqDn_4)
+- [Tremor Christ Remastered](https://www.youtube.com/watch?v=CHnApSpj_8w)
+- [Whipping Remastered](https://www.youtube.com/watch?v=2ek78O2Eays)
+- [Satans Bed Remastered](https://www.youtube.com/watch?v=sHPnS_kBrcY)
+- [Corduroy Remastered](https://www.youtube.com/watch?v=FQkgIrfpLw0)
 
 ## Release Images
 {{< imageGrid >}}

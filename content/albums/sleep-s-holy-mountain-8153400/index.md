@@ -41,19 +41,19 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 
 
 ## Videos
-### Sleep - Dragonaut [Official Video]
-{{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut [Official Video]" >}}<br>
+### Sleep - Dragonaut Official Video
+{{< youtube id="qMIS2BaDilY" title="Sleep - Dragonaut Official Video" >}}<br>
 ### More Videos
 
-- [Sleep - Dragonaut (Official Audio)](https://www.youtube.com/watch?v=2bRuKExTfGM)
-- [Sleep - The Druid (Official Audio)](https://www.youtube.com/watch?v=effUB0_T1pE)
-- [Sleep - Evil Gypsy/Solomons Theme (Official Audio)](https://www.youtube.com/watch?v=pDSztGsEHDA)
-- [Sleep - Some Grass (Official Audio)](https://www.youtube.com/watch?v=nUjjWvFLeWw)
-- [Sleep - Aquarian (Official Audio)](https://www.youtube.com/watch?v=6PGFBhmrmRA)
-- [Sleep - Holy Mountain (Official Audio)](https://www.youtube.com/watch?v=Y4cxaVEqZsE)
-- [Sleep - Inside The Sun (Official Audio)](https://www.youtube.com/watch?v=0_k2w6dYbqY)
-- [Sleep - From Beyond (Official Audio)](https://www.youtube.com/watch?v=yLBF-b54sfA)
-- [Sleep - Nains Baptism (Official Audio)](https://www.youtube.com/watch?v=qv1DwJmAemo)
+- [Sleep - Dragonaut Official Audio](https://www.youtube.com/watch?v=2bRuKExTfGM)
+- [Sleep - The Druid Official Audio](https://www.youtube.com/watch?v=effUB0_T1pE)
+- [Sleep - Evil GypsySolomons Theme Official Audio](https://www.youtube.com/watch?v=pDSztGsEHDA)
+- [Sleep - Some Grass Official Audio](https://www.youtube.com/watch?v=nUjjWvFLeWw)
+- [Sleep - Aquarian Official Audio](https://www.youtube.com/watch?v=6PGFBhmrmRA)
+- [Sleep - Holy Mountain Official Audio](https://www.youtube.com/watch?v=Y4cxaVEqZsE)
+- [Sleep - Inside The Sun Official Audio](https://www.youtube.com/watch?v=0_k2w6dYbqY)
+- [Sleep - From Beyond Official Audio](https://www.youtube.com/watch?v=yLBF-b54sfA)
+- [Sleep - Nains Baptism Official Audio](https://www.youtube.com/watch?v=qv1DwJmAemo)
 
 ## Release Images
 {{< imageGrid >}}

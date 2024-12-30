@@ -53,12 +53,12 @@ Flood is the 1994 debut full-length album by the English rock band Headswim, rel
 
 
 ## Videos
-### HEADSWIM - Flood [FULL ALBUM] 1994 (with inside cover + lyrics)
-{{< youtube id="7CrTrrJWBgE" title="HEADSWIM - Flood [FULL ALBUM] 1994 (with inside cover + lyrics)" >}}<br>
+### HEADSWIM - Flood FULL ALBUM 1994 with inside cover  lyrics
+{{< youtube id="7CrTrrJWBgE" title="HEADSWIM - Flood FULL ALBUM 1994 with inside cover  lyrics" >}}<br>
 ### More Videos
 
-- [Headswim - Gone To Pot (HQ)](https://www.youtube.com/watch?v=WK2bOn6UGqE)
-- [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
+- [Headswim - Gone To Pot HQ](https://www.youtube.com/watch?v=WK2bOn6UGqE)
+- [Headswim - Stinkhorn HQ](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
 ## Release Images
 {{< imageGrid >}}

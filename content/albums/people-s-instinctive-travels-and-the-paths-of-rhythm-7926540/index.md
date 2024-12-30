@@ -58,22 +58,22 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 
 
 ## Videos
-### A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green
-{{< youtube id="GLDoO3YOxiU" title="A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green" >}}<br>
+### A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green
+{{< youtube id="GLDoO3YOxiU" title="A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green" >}}<br>
 ### More Videos
 
-- [A Tribe Called Quest - Bonita Applebum (Pharrell Williams Remix) (Digital Video)](https://www.youtube.com/watch?v=aS_rkTi0D_M)
-- [A Tribe Called Quest - I Left My Wallet In El Segundo (Official Video)](https://www.youtube.com/watch?v=WILyWmT2A-Q)
-- [A Tribe Called Quest - Can I Kick It? (Official HD Video)](https://www.youtube.com/watch?v=O3pyCGnZzYA)
-- [Mr. Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
+- [A Tribe Called Quest - Bonita Applebum Pharrell Williams Remix Digital Video](https://www.youtube.com/watch?v=aS_rkTi0D_M)
+- [A Tribe Called Quest - I Left My Wallet In El Segundo Official Video](https://www.youtube.com/watch?v=WILyWmT2A-Q)
+- [A Tribe Called Quest - Can I Kick It Official HD Video](https://www.youtube.com/watch?v=O3pyCGnZzYA)
+- [Mr Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
 - [Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
-- [A Tribe Called Quest, Luck Of Lucien](https://www.youtube.com/watch?v=QdoYL5wmvYc)
+- [A Tribe Called Quest Luck Of Lucien](https://www.youtube.com/watch?v=QdoYL5wmvYc)
 - [A Tribe Called Quest - After Hours](https://www.youtube.com/watch?v=nXy3MhxAGZk)
 - [A Tribe Called Quest-Youthful Expression](https://www.youtube.com/watch?v=8b_fY7PPDrg)
-- [Rhythm (Devoted to the Art of Moving Butts)](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
-- [A Tribe Called Quest - Ham 'N' Eggs](https://www.youtube.com/watch?v=GmOcs7cmxd4)
-- [A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green](https://www.youtube.com/watch?v=GLDoO3YOxiU)
-- [A Tribe Called Quest - Bonita Applebum (Pharrell Williams Remix) (Digital Video)](https://www.youtube.com/watch?v=aS_rkTi0D_M)
+- [Rhythm Devoted to the Art of Moving Butts](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
+- [A Tribe Called Quest - Ham N Eggs](https://www.youtube.com/watch?v=GmOcs7cmxd4)
+- [A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green](https://www.youtube.com/watch?v=GLDoO3YOxiU)
+- [A Tribe Called Quest - Bonita Applebum Pharrell Williams Remix Digital Video](https://www.youtube.com/watch?v=aS_rkTi0D_M)
 
 ## Release Images
 {{< imageGrid >}}

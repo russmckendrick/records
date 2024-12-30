@@ -58,11 +58,11 @@ A double translucent turquoise vinyl of The Rapture was released in October 2023
 
 
 ## Videos
-### Siouxsie And The Banshees - Stargazer (Official Music Video)
-{{< youtube id="NLCTm0gvqMU" title="Siouxsie And The Banshees - Stargazer (Official Music Video)" >}}<br>
+### Siouxsie And The Banshees - Stargazer Official Music Video
+{{< youtube id="NLCTm0gvqMU" title="Siouxsie And The Banshees - Stargazer Official Music Video" >}}<br>
 ### More Videos
 
-- [Siouxsie And The Banshees - O Baby (Official Music Video)](https://www.youtube.com/watch?v=0jAzo2cPZp4)
+- [Siouxsie And The Banshees - O Baby Official Music Video](https://www.youtube.com/watch?v=0jAzo2cPZp4)
 - [Tearing Apart](https://www.youtube.com/watch?v=kk_pGhIMc1k)
 - [Stargazer](https://www.youtube.com/watch?v=j-4gpxnYxTc)
 - [Fall From Grace](https://www.youtube.com/watch?v=Fruk6wff6vU)

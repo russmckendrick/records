@@ -64,15 +64,15 @@ Throughout the 1990s, rap’s revolutions continued to cycle: From Dr. Dre’s <
 
 
 ## Videos
-### D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲
-{{< youtube id="EEV2EqVe9vU" title="D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲" >}}<br>
+### DJ Shadow  Endtroducing
+{{< youtube id="EEV2EqVe9vU" title="DJ Shadow  Endtroducing" >}}<br>
 ### More Videos
 
 - [DJ Shadow - Number Song](https://www.youtube.com/watch?v=JB3KDt78tUw)
 - [DJ Shadow - Midnight In A Perfect World](https://www.youtube.com/watch?v=InFbBlpDTfQ)
 - [Building Steam With A Grain Of Salt](https://www.youtube.com/watch?v=HORLJvUMs08)
-- [D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://www.youtube.com/watch?v=EEV2EqVe9vU)
-- [DJ Shadow - stem / long stem](https://www.youtube.com/watch?v=Ihr0y7ayGV0)
+- [DJ Shadow  Endtroducing](https://www.youtube.com/watch?v=EEV2EqVe9vU)
+- [DJ Shadow - stem  long stem](https://www.youtube.com/watch?v=Ihr0y7ayGV0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -57,18 +57,18 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 
 
 ## Videos
-### FULL ALBUM We Got It From Here… Thank You 4 Your Service A Tribe Called Quest
-{{< youtube id="aewl9POdSUw" title="FULL ALBUM We Got It From Here… Thank You 4 Your Service A Tribe Called Quest" >}}<br>
+### FULL ALBUM We Got It From Here Thank You 4 Your Service A Tribe Called Quest
+{{< youtube id="aewl9POdSUw" title="FULL ALBUM We Got It From Here Thank You 4 Your Service A Tribe Called Quest" >}}<br>
 ### More Videos
 
-- [A Tribe Called Quest - The Space Program (Official Video)](https://www.youtube.com/watch?v=qTrqmNieVKI)
-- [A Tribe Called Quest - We The People.... (Official Video)](https://www.youtube.com/watch?v=vO2Su3erRIA)
+- [A Tribe Called Quest - The Space Program Official Video](https://www.youtube.com/watch?v=qTrqmNieVKI)
+- [A Tribe Called Quest - We The People Official Video](https://www.youtube.com/watch?v=vO2Su3erRIA)
 - [Whateva Will Be](https://www.youtube.com/watch?v=7HzJv7DwenE)
 - [Solid Wall of Sound](https://www.youtube.com/watch?v=L400S6Flz2I)
-- [A Tribe Called Quest - Dis Generation (Official Video)](https://www.youtube.com/watch?v=kQaSDJYwdh4)
-- [Kids...](https://www.youtube.com/watch?v=KArPmTJnYmQ)
+- [A Tribe Called Quest - Dis Generation Official Video](https://www.youtube.com/watch?v=kQaSDJYwdh4)
+- [Kids](https://www.youtube.com/watch?v=KArPmTJnYmQ)
 - [Melatonin](https://www.youtube.com/watch?v=OZmreJMSvEY)
-- [Enough!!](https://www.youtube.com/watch?v=wMA1kP7gWS4)
+- [Enough](https://www.youtube.com/watch?v=wMA1kP7gWS4)
 - [Mobius](https://www.youtube.com/watch?v=xGZlSHszVu4)
 - [Black Spasmodic](https://www.youtube.com/watch?v=UNfBvHerzLs)
 - [The Killing Season](https://www.youtube.com/watch?v=zar75xmMkvU)

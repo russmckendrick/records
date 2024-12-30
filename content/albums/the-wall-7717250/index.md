@@ -99,18 +99,18 @@ The audio is presented in 7.1.4-channel Dolby Atmos.
 
 
 ## Videos
-### Roger Waters - The Wall (Full Theatrical Trailer)
-{{< youtube id="jZgJqX8Dxzg" title="Roger Waters - The Wall (Full Theatrical Trailer)" >}}<br>
+### Roger Waters - The Wall Full Theatrical Trailer
+{{< youtube id="jZgJqX8Dxzg" title="Roger Waters - The Wall Full Theatrical Trailer" >}}<br>
 ### More Videos
 
-- [Roger Waters The Wall Official Trailer (2015) HD](https://www.youtube.com/watch?v=lH-NRg6w5bA)
-- [Roger Waters The Wall Official Trailer 1 (2015) - Documetary HD](https://www.youtube.com/watch?v=ZuPyeCX7Fgg)
-- [Roger Waters - Comfortably Numb (Live from Roger Waters The Wall) (Audio)](https://www.youtube.com/watch?v=cryTiFrtHqA)
-- [Roger Waters - In the Flesh? (Live) [From Roger Waters The Wall] (Digital Video)](https://www.youtube.com/watch?v=Jvl0MDXH96M)
-- [The Happiest Days Of Our Lives/Another Brick In The Wall, Part 2/Another Brick In The W...](https://www.youtube.com/watch?v=gV0_C4dN-kk)
-- [Another Brick in the Wall, Pt. 1 (Live)](https://www.youtube.com/watch?v=D1vi8rX95SI)
+- [Roger Waters The Wall Official Trailer 2015 HD](https://www.youtube.com/watch?v=lH-NRg6w5bA)
+- [Roger Waters The Wall Official Trailer 1 2015 - Documetary HD](https://www.youtube.com/watch?v=ZuPyeCX7Fgg)
+- [Roger Waters - Comfortably Numb Live from Roger Waters The Wall Audio](https://www.youtube.com/watch?v=cryTiFrtHqA)
+- [Roger Waters - In the Flesh Live From Roger Waters The Wall Digital Video](https://www.youtube.com/watch?v=Jvl0MDXH96M)
+- [The Happiest Days Of Our LivesAnother Brick In The Wall Part 2Another Brick In The W](https://www.youtube.com/watch?v=gV0_C4dN-kk)
+- [Another Brick in the Wall Pt 1 Live](https://www.youtube.com/watch?v=D1vi8rX95SI)
 - [Roger Waters The Wall Live 2010](https://www.youtube.com/watch?v=qAtusYxDlaw)
-- [Roger Waters The Wall - Trailer - Own it on Blu-ray 12/1](https://www.youtube.com/watch?v=smMsPb99Alc)
+- [Roger Waters The Wall - Trailer - Own it on Blu-ray 121](https://www.youtube.com/watch?v=smMsPb99Alc)
 
 ## Release Images
 {{< imageGrid >}}

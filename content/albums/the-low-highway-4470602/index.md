@@ -47,13 +47,13 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 
 
 ## Videos
-### 01 The Low Highway - Steve Earle & the Dukes (and Duchesses)
-{{< youtube id="JZXoKw0YBFg" title="01 The Low Highway - Steve Earle & the Dukes (and Duchesses)" >}}<br>
+### 01 The Low Highway - Steve Earle  the Dukes and Duchesses
+{{< youtube id="JZXoKw0YBFg" title="01 The Low Highway - Steve Earle  the Dukes and Duchesses" >}}<br>
 ### More Videos
 
 - [Pocket Full of Rain](https://www.youtube.com/watch?v=OL7TI5BdZNk)
-- [Steve Earle & The Dukes (& Duchesses) - Remember Me](https://www.youtube.com/watch?v=QRQZnhgVgC8)
-- [Steve Earle & The Dukes (& Duchesses) - Invisible [Official Music Video]](https://www.youtube.com/watch?v=w_AZmBT4wWI)
+- [Steve Earle  The Dukes  Duchesses - Remember Me](https://www.youtube.com/watch?v=QRQZnhgVgC8)
+- [Steve Earle  The Dukes  Duchesses - Invisible Official Music Video](https://www.youtube.com/watch?v=w_AZmBT4wWI)
 
 ## Release Images
 {{< imageGrid >}}

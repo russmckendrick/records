@@ -46,21 +46,21 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 
 
 ## Videos
-### Jackpot (Bruno's Bop)
-{{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}<br>
+### Jackpot Brunos Bop
+{{< youtube id="Z2uComF6LuY" title="Jackpot Brunos Bop" >}}<br>
 ### More Videos
 
-- [Comin' Right Up](https://www.youtube.com/watch?v=5liPIblI7tE)
+- [Comin Right Up](https://www.youtube.com/watch?v=5liPIblI7tE)
 - [Respect Yourself](https://www.youtube.com/watch?v=EfXy1ORKzKQ)
 - [Down In Hollywood](https://www.youtube.com/watch?v=6IJyrhYMteI)
 - [Youngblood](https://www.youtube.com/watch?v=2vpHM3VlrMA)
 - [Under The Boardwalk](https://www.youtube.com/watch?v=en9ZWmt5UxI)
-- [Secret Agent Man / James Bond Is Back](https://www.youtube.com/watch?v=dcM-W2hRObA)
-- [Jackpot (Bruno's Bop)](https://www.youtube.com/watch?v=Z2uComF6LuY)
+- [Secret Agent Man  James Bond Is Back](https://www.youtube.com/watch?v=dcM-W2hRObA)
+- [Jackpot Brunos Bop](https://www.youtube.com/watch?v=Z2uComF6LuY)
 - [Fun Time](https://www.youtube.com/watch?v=SPji7EDIZZ4)
 - [Lose Myself](https://www.youtube.com/watch?v=RYqStFGuHMA)
 - [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
-- [Bruce Willis (The Return Of Bruno)](https://www.youtube.com/watch?v=3Kd8mEnJ1SQ)
+- [Bruce Willis The Return Of Bruno](https://www.youtube.com/watch?v=3Kd8mEnJ1SQ)
 - [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
 
 ## Release Images

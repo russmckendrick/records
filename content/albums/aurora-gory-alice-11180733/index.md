@@ -40,20 +40,20 @@ The re-released version of the album contains different versions of "Rim Shak" a
 
 
 ## Videos
-### Letters To Cleo - Here & Now (Official Music Video)
-{{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here & Now (Official Music Video)" >}}<br>
+### Letters To Cleo - Here  Now Official Music Video
+{{< youtube id="MiazE31XnpA" title="Letters To Cleo - Here  Now Official Music Video" >}}<br>
 ### More Videos
 
-- [Letters to Cleo - I See (Official Music Video)](https://www.youtube.com/watch?v=YQLo78kj860)
+- [Letters to Cleo - I See Official Music Video](https://www.youtube.com/watch?v=YQLo78kj860)
 - [Letters To Cleo - Here And Now - Live - Aurora Gory Alice - The Metro - Chicago - Summer 1995](https://www.youtube.com/watch?v=hw2rroamS3Y)
 - [Big Star](https://www.youtube.com/watch?v=V9lzLf5sOJk)
 - [Come Around](https://www.youtube.com/watch?v=bNABsJOJMAk)
 - [From Under the Dust](https://www.youtube.com/watch?v=XKF8gunIYjM)
-- [Mellie's Comin Over](https://www.youtube.com/watch?v=TcepbSmt8ws)
+- [Mellies Comin Over](https://www.youtube.com/watch?v=TcepbSmt8ws)
 - [Rim Shack](https://www.youtube.com/watch?v=cPTtOxxi-s4)
 - [Step Back](https://www.youtube.com/watch?v=CzmKixK4lOg)
 - [Wasted](https://www.youtube.com/watch?v=zERm_RI-PC8)
-- [Letters to Cleo - Here & Now - Compact Disc - 1994(93)](https://www.youtube.com/watch?v=rABlisVv6sk)
+- [Letters to Cleo - Here  Now - Compact Disc - 199493](https://www.youtube.com/watch?v=rABlisVv6sk)
 
 ## Release Images
 {{< imageGrid >}}

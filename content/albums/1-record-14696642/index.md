@@ -54,14 +54,14 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 - [The Ballad Of El Goodo](https://www.youtube.com/watch?v=tIqLdR0-EXA)
 - [In The Street](https://www.youtube.com/watch?v=lsbhybNNm_A)
 - [Thirteen](https://www.youtube.com/watch?v=d2Oy3-qEE0U)
-- [Don't Lie To Me](https://www.youtube.com/watch?v=aG65bDOuMnk)
+- [Dont Lie To Me](https://www.youtube.com/watch?v=aG65bDOuMnk)
 - [The India Song](https://www.youtube.com/watch?v=bvFofTBn6wE)
 - [My Life Is Right](https://www.youtube.com/watch?v=L3cW9XJoTLw)
 - [Give Me Another Chance](https://www.youtube.com/watch?v=YAaxzfl-JXw)
 - [Try Again](https://www.youtube.com/watch?v=6-JllLIP5Ik)
-- [ST 100/6](https://www.youtube.com/watch?v=zHxBigDdWRA)
+- [ST 1006](https://www.youtube.com/watch?v=zHxBigDdWRA)
 - [Watch The Sunrise](https://www.youtube.com/watch?v=PsoJSKgVi38)
-- [When My Baby's Beside Me](https://www.youtube.com/watch?v=GcUhsDvInvE)
+- [When My Babys Beside Me](https://www.youtube.com/watch?v=GcUhsDvInvE)
 
 ## Release Images
 {{< imageGrid >}}

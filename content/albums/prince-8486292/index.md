@@ -49,14 +49,14 @@ Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B C
 {{< youtube id="j8UpxD6Onco" title="I Wanna Be Your Lover" >}}<br>
 ### More Videos
 
-- [Why You Wanna Treat Me so Bad?](https://www.youtube.com/watch?v=YQvPk0L6gGI)
+- [Why You Wanna Treat Me so Bad](https://www.youtube.com/watch?v=YQvPk0L6gGI)
 - [Sexy Dancer](https://www.youtube.com/watch?v=-tWUlOt7V8I)
-- [When We're Dancing Close and Slow](https://www.youtube.com/watch?v=IJ9VDYa5NpE)
+- [When Were Dancing Close and Slow](https://www.youtube.com/watch?v=IJ9VDYa5NpE)
 - [With You](https://www.youtube.com/watch?v=uNgrjW8Ms1k)
 - [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
 - [Still Waiting](https://www.youtube.com/watch?v=Q-COOpRqOQw)
 - [I Feel for You](https://www.youtube.com/watch?v=IluGjaWG5Bk)
-- [It's Gonna Be Lonely](https://www.youtube.com/watch?v=csGzQep_DQc)
+- [Its Gonna Be Lonely](https://www.youtube.com/watch?v=csGzQep_DQc)
 
 ## Release Images
 {{< imageGrid >}}

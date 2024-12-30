@@ -51,17 +51,17 @@ The Number of the Beast was met with critical and commercial success, and became
 
 
 ## Videos
-### Iron Maiden - The Number Of The Beast (Official Video)
-{{< youtube id="WxnN05vOuSM" title="Iron Maiden - The Number Of The Beast (Official Video)" >}}<br>
+### Iron Maiden - The Number Of The Beast Official Video
+{{< youtube id="WxnN05vOuSM" title="Iron Maiden - The Number Of The Beast Official Video" >}}<br>
 ### More Videos
 
-- [Iron Maiden - Run To The Hills (Official Video)](https://www.youtube.com/watch?v=86URGgqONvA)
-- [Invaders (2015 Remaster)](https://www.youtube.com/watch?v=iQ5JAxPqum0)
-- [Children of the Damned (2015 Remaster)](https://www.youtube.com/watch?v=wsuj2uhGBvY)
-- [The Prisoner (2015 Remaster)](https://www.youtube.com/watch?v=MLYdFSaE4tk)
-- [22 Acacia Avenue (2015 Remaster)](https://www.youtube.com/watch?v=T5WpPLRrhac)
-- [Gangland (2015 Remaster)](https://www.youtube.com/watch?v=YMIKgVnB0ig)
-- [Hallowed Be Thy Name (2015 Remaster)](https://www.youtube.com/watch?v=HAQQUDbuudY)
+- [Iron Maiden - Run To The Hills Official Video](https://www.youtube.com/watch?v=86URGgqONvA)
+- [Invaders 2015 Remaster](https://www.youtube.com/watch?v=iQ5JAxPqum0)
+- [Children of the Damned 2015 Remaster](https://www.youtube.com/watch?v=wsuj2uhGBvY)
+- [The Prisoner 2015 Remaster](https://www.youtube.com/watch?v=MLYdFSaE4tk)
+- [22 Acacia Avenue 2015 Remaster](https://www.youtube.com/watch?v=T5WpPLRrhac)
+- [Gangland 2015 Remaster](https://www.youtube.com/watch?v=YMIKgVnB0ig)
+- [Hallowed Be Thy Name 2015 Remaster](https://www.youtube.com/watch?v=HAQQUDbuudY)
 
 ## Release Images
 {{< imageGrid >}}

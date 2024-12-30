@@ -47,14 +47,14 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 {{< youtube id="VYwh1X5Gw5I" title="Run for Me" >}}<br>
 ### More Videos
 
-- [Darlin'](https://www.youtube.com/watch?v=YgPQRpXVGgQ)
+- [Darlin](https://www.youtube.com/watch?v=YgPQRpXVGgQ)
 - [Oh My Love](https://www.youtube.com/watch?v=TnypW7mfJ58)
 - [The Only Road](https://www.youtube.com/watch?v=IEq2SPZ1cd4)
 - [On the Ledge](https://www.youtube.com/watch?v=iH8if6mmg9g)
-- [You Don't Miss Your Water (Till Your Well Runs Dry)](https://www.youtube.com/watch?v=xQriXNiXL4A)
+- [You Dont Miss Your Water Till Your Well Runs Dry](https://www.youtube.com/watch?v=xQriXNiXL4A)
 - [The Motorcycle Song](https://www.youtube.com/watch?v=MIdKFTjB-Y0)
-- [It's Over Love](https://www.youtube.com/watch?v=6S0vBWBblmU)
-- [I'm On Nights](https://www.youtube.com/watch?v=V2j-NYNzqSw)
+- [Its Over Love](https://www.youtube.com/watch?v=6S0vBWBblmU)
+- [Im On Nights](https://www.youtube.com/watch?v=V2j-NYNzqSw)
 - [Danny](https://www.youtube.com/watch?v=Qn8T5ri-bHU)
 - [The Nights Are Made for Us](https://www.youtube.com/watch?v=UCftCNOzyU0)
 

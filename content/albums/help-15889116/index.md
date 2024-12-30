@@ -65,14 +65,14 @@ Help  is a 2010 Indian Hindi-language supernatural horror film directed by Rajee
 - [suede - shipbuilding](https://www.youtube.com/watch?v=KDPa6AJMQkw)
 - [One World Orchestra The Magnificent](https://www.youtube.com/watch?v=x8M6JQsGAws)
 - [Blur - Eine Kleine Lift Musik](https://www.youtube.com/watch?v=Zk39h25Y5k8)
-- [Paul Weller / Smokin' Mojo Filters  - Come Together](https://www.youtube.com/watch?v=IK0sMC5ntpc)
+- [Paul Weller  Smokin Mojo Filters  - Come Together](https://www.youtube.com/watch?v=IK0sMC5ntpc)
 - [Mourning Air](https://www.youtube.com/watch?v=DHcErdge7k0)
 - [Ode To Billy Joe](https://www.youtube.com/watch?v=KuIHjGLkY8g)
-- [Massive Attack – Fake The Aroma (1995 HELP)](https://www.youtube.com/watch?v=Qe5MQ9m1bDk)
+- [Massive Attack  Fake The Aroma 1995 HELP](https://www.youtube.com/watch?v=Qe5MQ9m1bDk)
 - [Radiohead - Lucky](https://www.youtube.com/watch?v=tejkhFyjoGE)
-- [Planet 4 Folk Quartet - Message To Crommie.avi](https://www.youtube.com/watch?v=u-BHcl0uDMU)
-- [Terry Hall & Salad - Dream A Little Dream (Help)](https://www.youtube.com/watch?v=BQ8FsEDUhsU)
-- [Radiohead - No Surprises & Lucky](https://www.youtube.com/watch?v=m4m74eEqI6s)
+- [Planet 4 Folk Quartet - Message To Crommieavi](https://www.youtube.com/watch?v=u-BHcl0uDMU)
+- [Terry Hall  Salad - Dream A Little Dream Help](https://www.youtube.com/watch?v=BQ8FsEDUhsU)
+- [Radiohead - No Surprises  Lucky](https://www.youtube.com/watch?v=m4m74eEqI6s)
 
 ## Release Images
 {{< imageGrid >}}

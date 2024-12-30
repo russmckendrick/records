@@ -55,7 +55,7 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 - [The Watershed](https://www.youtube.com/watch?v=XOgCwcSuz9Y)
 - [Inside Looking Out](https://www.youtube.com/watch?v=hDH2QL1JCb0)
 - [The Gift](https://www.youtube.com/watch?v=B7H9m0irTh0)
-- [A Life (1895 - 1915)](https://www.youtube.com/watch?v=CFI0aPAQ7JM)
+- [A Life 1895 - 1915](https://www.youtube.com/watch?v=CFI0aPAQ7JM)
 - [Westward Bound](https://www.youtube.com/watch?v=6CyJSPhtifs)
 - [The Daily Planet](https://www.youtube.com/watch?v=xfvjRPiGj5g)
 - [A New Jerusalem](https://www.youtube.com/watch?v=hMNKqQPo-Vc)

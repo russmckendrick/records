@@ -52,18 +52,18 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### HAKEN - Prosthetic (OFFICIAL VIDEO)
-{{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic (OFFICIAL VIDEO)" >}}<br>
+### HAKEN - Prosthetic OFFICIAL VIDEO
+{{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [Invasion](https://www.youtube.com/watch?v=9XvK6cMoVu0)
 - [Carousel](https://www.youtube.com/watch?v=84G_kyB9TDo)
 - [The Strain](https://www.youtube.com/watch?v=8gVsg6Whnoo)
-- [Messiah Complex I: Ivory Tower](https://www.youtube.com/watch?v=8RScoWKlza0)
-- [Messiah Complex Ii: a Glutton for Punishment](https://www.youtube.com/watch?v=ARxTP7BUnFg)
-- [Messiah Complex III: Marigold](https://www.youtube.com/watch?v=KcgmiMkpbO0)
-- [Messiah Complex Iv: The Sect](https://www.youtube.com/watch?v=ChXXRVOAtzo)
-- [Messiah Complex V: Ectobius Rex](https://www.youtube.com/watch?v=YkzpCm9QRnE)
+- [Messiah Complex I Ivory Tower](https://www.youtube.com/watch?v=8RScoWKlza0)
+- [Messiah Complex Ii a Glutton for Punishment](https://www.youtube.com/watch?v=ARxTP7BUnFg)
+- [Messiah Complex III Marigold](https://www.youtube.com/watch?v=KcgmiMkpbO0)
+- [Messiah Complex Iv The Sect](https://www.youtube.com/watch?v=ChXXRVOAtzo)
+- [Messiah Complex V Ectobius Rex](https://www.youtube.com/watch?v=YkzpCm9QRnE)
 - [Only Stars](https://www.youtube.com/watch?v=BP55LZwJgRI)
 
 ## Release Images

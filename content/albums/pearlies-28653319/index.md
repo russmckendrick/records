@@ -42,11 +42,11 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 
 
 ## Videos
-### Emma Anderson - Bend The Round (Official Video)
-{{< youtube id="zLvIF64R4hU" title="Emma Anderson - Bend The Round (Official Video)" >}}<br>
+### Emma Anderson - Bend The Round Official Video
+{{< youtube id="zLvIF64R4hU" title="Emma Anderson - Bend The Round Official Video" >}}<br>
 ### More Videos
 
-- [Emma Anderson - Clusters (Official Video)](https://www.youtube.com/watch?v=jgbNTYFOGUA)
+- [Emma Anderson - Clusters Official Video](https://www.youtube.com/watch?v=jgbNTYFOGUA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,17 +58,17 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 
 
 ## Videos
-### Talk Talk - The Colour of Spring (Full Album)
-{{< youtube id="XWs1sWdx1ig" title="Talk Talk - The Colour of Spring (Full Album)" >}}<br>
+### Talk Talk - The Colour of Spring Full Album
+{{< youtube id="XWs1sWdx1ig" title="Talk Talk - The Colour of Spring Full Album" >}}<br>
 ### More Videos
 
-- [Talk Talk - Life's What You Make It (Official Video)](https://www.youtube.com/watch?v=l3VqAsMXE7o)
-- [Happiness Is Easy (1997 Remaster)](https://www.youtube.com/watch?v=gl4lvJmvqQU)
-- [April 5th (1997 Remaster)](https://www.youtube.com/watch?v=h3vbVCRNcrM)
-- [I Don't Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=o8canrG0YfY)
-- [Give It Up (1997 Remaster)](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
-- [Chameleon Day (1997 Remaster)](https://www.youtube.com/watch?v=RQGAw43t20k)
-- [Time It's Time (1997 Remaster)](https://www.youtube.com/watch?v=vwM77SSxLp8)
+- [Talk Talk - Lifes What You Make It Official Video](https://www.youtube.com/watch?v=l3VqAsMXE7o)
+- [Happiness Is Easy 1997 Remaster](https://www.youtube.com/watch?v=gl4lvJmvqQU)
+- [April 5th 1997 Remaster](https://www.youtube.com/watch?v=h3vbVCRNcrM)
+- [I Dont Believe in You 1997 Remaster](https://www.youtube.com/watch?v=o8canrG0YfY)
+- [Give It Up 1997 Remaster](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
+- [Chameleon Day 1997 Remaster](https://www.youtube.com/watch?v=RQGAw43t20k)
+- [Time Its Time 1997 Remaster](https://www.youtube.com/watch?v=vwM77SSxLp8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -61,20 +61,20 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 
 
 ## Videos
-### Mark Lanegan - 'Bleed All Over'
-{{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}<br>
+### Mark Lanegan - Bleed All Over
+{{< youtube id="b4EL3wo1K84" title="Mark Lanegan - Bleed All Over" >}}<br>
 ### More Videos
 
 - [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
-- [Mark Lanegan - 'Bleed All Over'](https://www.youtube.com/watch?v=b4EL3wo1K84)
+- [Mark Lanegan - Bleed All Over](https://www.youtube.com/watch?v=b4EL3wo1K84)
 - [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
-- [I Wouldn't Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
+- [I Wouldnt Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
 - [This Game of Love](https://www.youtube.com/watch?v=D_THKz09seg)
 - [Mark Lanegan - Straight Songs of Sorrow](https://www.youtube.com/watch?v=Iz54DefU37c)
-- [Churchbells, Ghosts](https://www.youtube.com/watch?v=C2ygoNS9LeE)
+- [Churchbells Ghosts](https://www.youtube.com/watch?v=C2ygoNS9LeE)
 - [Mark Lanegan - Skeleton Key](https://www.youtube.com/watch?v=uJDLcaCuFHU)
 - [Daylight In The Nocturnal House](https://www.youtube.com/watch?v=ToMgSKgra38)
-- [Mark Lanegan - 'Bleed All Over'](https://www.youtube.com/watch?v=b4EL3wo1K84)
+- [Mark Lanegan - Bleed All Over](https://www.youtube.com/watch?v=b4EL3wo1K84)
 - [Apples From A Tree](https://www.youtube.com/watch?v=60JH83Ze-lM)
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
 - [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)

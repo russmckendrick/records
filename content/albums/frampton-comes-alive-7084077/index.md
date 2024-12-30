@@ -56,11 +56,11 @@ In 2020, Frampton Comes Alive! was inducted into the Grammy Hall of Fame.
 
 
 ## Videos
-### Peter Frampton Frampton Comes Alive 1976 Label A&M Records SP-3703 Full Vinyl LP
-{{< youtube id="Ream_-v5amY" title="Peter Frampton Frampton Comes Alive 1976 Label A&M Records SP-3703 Full Vinyl LP" >}}<br>
+### Peter Frampton Frampton Comes Alive 1976 Label AM Records SP-3703 Full Vinyl LP
+{{< youtube id="Ream_-v5amY" title="Peter Frampton Frampton Comes Alive 1976 Label AM Records SP-3703 Full Vinyl LP" >}}<br>
 ### More Videos
 
-- [PETER FRAMPTON - Show Me The Way  (1976 UK TV Performance) ~ HIGH QUALITY HQ ~](https://www.youtube.com/watch?v=6eWwJNam5bc)
+- [PETER FRAMPTON - Show Me The Way  1976 UK TV Performance  HIGH QUALITY HQ ](https://www.youtube.com/watch?v=6eWwJNam5bc)
 
 ## Release Images
 {{< imageGrid >}}

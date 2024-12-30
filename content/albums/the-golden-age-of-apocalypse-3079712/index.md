@@ -60,15 +60,15 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 
 - [Daylight](https://www.youtube.com/watch?v=rvyZaAaGgr8)
 - [Fleer Ultra](https://www.youtube.com/watch?v=jdM1jdLTFEU)
-- [Is It Love?](https://www.youtube.com/watch?v=Y7YSYnjb104)
-- [For Love (I Come Your Friend)](https://www.youtube.com/watch?v=5t8wGiIcFMA)
-- [It Really Doesn't Matter to You](https://www.youtube.com/watch?v=VS4L2K-CLUI)
+- [Is It Love](https://www.youtube.com/watch?v=Y7YSYnjb104)
+- [For Love I Come Your Friend](https://www.youtube.com/watch?v=5t8wGiIcFMA)
+- [It Really Doesnt Matter to You](https://www.youtube.com/watch?v=VS4L2K-CLUI)
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
 - [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
 - [Seasons](https://www.youtube.com/watch?v=_0jVG1zcJSo)
 - [Goldenboy](https://www.youtube.com/watch?v=HBcN7kONMW8)
-- [Thundercat - Walkin' (Official Video) HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
-- [Mystery Machine (The Golden Age of Apocalypse)](https://www.youtube.com/watch?v=-9DagL4amrY)
+- [Thundercat - Walkin Official Video HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
+- [Mystery Machine The Golden Age of Apocalypse](https://www.youtube.com/watch?v=-9DagL4amrY)
 - [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 
 ## Release Images

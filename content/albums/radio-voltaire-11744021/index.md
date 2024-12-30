@@ -54,14 +54,14 @@ styles: ["Prog Rock"]
 {{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>
 ### More Videos
 
-- [Kino : ¨Radio Voltaire¨](https://www.youtube.com/watch?v=PPcNGSp-hFQ)
-- [KINO - I Don't Know Why (Album Track)](https://www.youtube.com/watch?v=zSEhyBbQbYM)
+- [Kino  Radio Voltaire](https://www.youtube.com/watch?v=PPcNGSp-hFQ)
+- [KINO - I Dont Know Why Album Track](https://www.youtube.com/watch?v=zSEhyBbQbYM)
 - [Idlewild](https://www.youtube.com/watch?v=KQ8NW00S4tQ)
 - [Keep the Faith](https://www.youtube.com/watch?v=-N4xxnp6dL8)
 - [Out of Time](https://www.youtube.com/watch?v=qoxS9jlKMVY)
 - [Temple Tudor](https://www.youtube.com/watch?v=vg64jzqkPdA)
 - [The Silent Fighter Pilot](https://www.youtube.com/watch?v=HlSRbHaNk60)
-- [I Won't Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
+- [I Wont Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
 - [Warmth of the Sun](https://www.youtube.com/watch?v=N6rIZtd6izQ)
 
 ## Release Images

@@ -46,8 +46,8 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Videos
-### Dodgy Ace A's + Killer B's
-{{< youtube id="WTkeHkdIuB0" title="Dodgy Ace A's + Killer B's" >}}<br>
+### Dodgy Ace As  Killer Bs
+{{< youtube id="WTkeHkdIuB0" title="Dodgy Ace As  Killer Bs" >}}<br>
 
 
 ## Release Images

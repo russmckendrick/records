@@ -37,32 +37,32 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 
 
 ## Videos
-### M83 'We Own The Sky' Official video
-{{< youtube id="sWsUNbdc5IM" title="M83 'We Own The Sky' Official video" >}}<br>
+### M83 We Own The Sky Official video
+{{< youtube id="sWsUNbdc5IM" title="M83 We Own The Sky Official video" >}}<br>
 ### More Videos
 
-- [M83 'Kim & Jessie' Official video](https://www.youtube.com/watch?v=n5cgzcjqOtE)
+- [M83 Kim  Jessie Official video](https://www.youtube.com/watch?v=n5cgzcjqOtE)
 - [M83 - Graveyard Girl](https://www.youtube.com/watch?v=gY8iy8S0S4w)
-- [M83 - You Appearing (audio)](https://www.youtube.com/watch?v=VkVH4ZYK1qM)
-- [M83 - Kim & Jessie](https://www.youtube.com/watch?v=7_9EQenu8mQ)
-- [M83 - Skin of the Night (audio)](https://www.youtube.com/watch?v=fIY64norZqY)
-- [M83 - Saturdays = Youth - Skin of the Night HD AUDIO](https://www.youtube.com/watch?v=TzwK_5L0T7Q)
+- [M83 - You Appearing audio](https://www.youtube.com/watch?v=VkVH4ZYK1qM)
+- [M83 - Kim  Jessie](https://www.youtube.com/watch?v=7_9EQenu8mQ)
+- [M83 - Skin of the Night audio](https://www.youtube.com/watch?v=fIY64norZqY)
+- [M83 - Saturdays  Youth - Skin of the Night HD AUDIO](https://www.youtube.com/watch?v=TzwK_5L0T7Q)
 - [M83 - Graveyard Girl](https://www.youtube.com/watch?v=MytGLO7iqhI)
-- [M83 - Couleurs (audio)](https://www.youtube.com/watch?v=azNlYul2IoY)
-- [M83 - Up! (audio)](https://www.youtube.com/watch?v=QQZfOKaIJfw)
-- [M83 saturdays = youth QHD](https://www.youtube.com/watch?v=Q7tygYo27ic)
-- [M83 Saturdays=Youth interview](https://www.youtube.com/watch?v=P0KynZH-hTM)
-- [M83 - Too Late (audio)](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
-- [M83 - Midnight Souls Still Remain (audio)](https://www.youtube.com/watch?v=9uu9G2p9sis)
-- [Kim & Jessie (Montag Remix)](https://www.youtube.com/watch?v=uOq0OKKpCBk)
-- [Kim & Jessie (Data Remix)](https://www.youtube.com/watch?v=FpGcLxXXLls)
-- [M83 'We Own The Sky' Official video](https://www.youtube.com/watch?v=sWsUNbdc5IM)
-- [M83 'Kim & Jessie' Official video](https://www.youtube.com/watch?v=n5cgzcjqOtE)
+- [M83 - Couleurs audio](https://www.youtube.com/watch?v=azNlYul2IoY)
+- [M83 - Up audio](https://www.youtube.com/watch?v=QQZfOKaIJfw)
+- [M83 saturdays  youth QHD](https://www.youtube.com/watch?v=Q7tygYo27ic)
+- [M83 SaturdaysYouth interview](https://www.youtube.com/watch?v=P0KynZH-hTM)
+- [M83 - Too Late audio](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
+- [M83 - Midnight Souls Still Remain audio](https://www.youtube.com/watch?v=9uu9G2p9sis)
+- [Kim  Jessie Montag Remix](https://www.youtube.com/watch?v=uOq0OKKpCBk)
+- [Kim  Jessie Data Remix](https://www.youtube.com/watch?v=FpGcLxXXLls)
+- [M83 We Own The Sky Official video](https://www.youtube.com/watch?v=sWsUNbdc5IM)
+- [M83 Kim  Jessie Official video](https://www.youtube.com/watch?v=n5cgzcjqOtE)
 - [M83 - Graveyard Girl](https://www.youtube.com/watch?v=gY8iy8S0S4w)
-- [M83 - Skin of the Night (audio)](https://www.youtube.com/watch?v=fIY64norZqY)
-- [M83 - Midnight Souls Still Remain (audio)](https://www.youtube.com/watch?v=9uu9G2p9sis)
-- [M83 - You Appearing (audio)](https://www.youtube.com/watch?v=VkVH4ZYK1qM)
-- [M83 - Too Late (audio)](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
+- [M83 - Skin of the Night audio](https://www.youtube.com/watch?v=fIY64norZqY)
+- [M83 - Midnight Souls Still Remain audio](https://www.youtube.com/watch?v=9uu9G2p9sis)
+- [M83 - You Appearing audio](https://www.youtube.com/watch?v=VkVH4ZYK1qM)
+- [M83 - Too Late audio](https://www.youtube.com/watch?v=JEEOuF1zfNQ)
 
 ## Release Images
 {{< imageGrid >}}

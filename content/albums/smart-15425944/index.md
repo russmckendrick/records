@@ -84,14 +84,14 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 {{< youtube id="6Vrk-lBoxNA" title="Sleeper - Inbetweener" >}}<br>
 ### More Videos
 
-- [Sleeper - Inbetweener (TOTP)](https://www.youtube.com/watch?v=El-XUjEJ_rU)
+- [Sleeper - Inbetweener TOTP](https://www.youtube.com/watch?v=El-XUjEJ_rU)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
-- [SLEEPER "Vegas"](https://www.youtube.com/watch?v=zmkq2_gMUgY)
+- [SLEEPER Vegas](https://www.youtube.com/watch?v=zmkq2_gMUgY)
 - [Britpop Now Part 9- Sleeper- Inbetweener](https://www.youtube.com/watch?v=IfPjNHwm4Nk)
-- [Sleeper - Alice In Vain (Live at Glastonbury 1995)](https://www.youtube.com/watch?v=80b7PlTyZEY)
+- [Sleeper - Alice In Vain Live at Glastonbury 1995](https://www.youtube.com/watch?v=80b7PlTyZEY)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
 - [Sleeper - 03 Delicious](https://www.youtube.com/watch?v=GW1pRigN4gM)
-- [Sleeper– Inbetweener](https://www.youtube.com/watch?v=1zKM3Xt-vM4)
+- [Sleeper Inbetweener](https://www.youtube.com/watch?v=1zKM3Xt-vM4)
 - [Sleeper - 11 Twisted](https://www.youtube.com/watch?v=pHQrq3cBsZ4)
 - [Sleeper - 12 Pyrotechnician](https://www.youtube.com/watch?v=_-pzp-5okOw)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=QYaagkD26YY)
@@ -100,7 +100,7 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 - [Vegas](https://www.youtube.com/watch?v=apseuik6hS8)
 - [Sleeper - 06 Bedhead](https://www.youtube.com/watch?v=HvdJoMbQqog)
 - [Sleeper - Alice In Vain](https://www.youtube.com/watch?v=WG8qcxSDl_w)
-- [Sleeper - 08 Vegas (Album Version)](https://www.youtube.com/watch?v=FUwHro_1sY4)
+- [Sleeper - 08 Vegas Album Version](https://www.youtube.com/watch?v=FUwHro_1sY4)
 
 ## Release Images
 {{< imageGrid >}}

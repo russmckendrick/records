@@ -50,19 +50,19 @@ The album received a 2-CD deluxe edition release commemorating its 35th annivers
 {{< youtube id="gab9hWIidGE" title="Cruel Prelude" >}}<br>
 ### More Videos
 
-- [Bobby Brown-Don't Be Cruel](https://www.youtube.com/watch?v=zkdj12XICzg)
+- [Bobby Brown-Dont Be Cruel](https://www.youtube.com/watch?v=zkdj12XICzg)
 - [Bobby Brown  -- My Prerogative](https://www.youtube.com/watch?v=gxMDLvEO-B4)
 - [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE)
-- [Rock Wit'cha](https://www.youtube.com/watch?v=gLdX4soAyTQ)
+- [Rock Witcha](https://www.youtube.com/watch?v=gLdX4soAyTQ)
 - [Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE)
-- [I'll Be Good To You](https://www.youtube.com/watch?v=6ViFOBJwA_8)
+- [Ill Be Good To You](https://www.youtube.com/watch?v=6ViFOBJwA_8)
 - [Take It Slow](https://www.youtube.com/watch?v=I-UOWhayTtU)
 - [All Day All Night](https://www.youtube.com/watch?v=6dvxp-tNR5A)
 - [I Really Love You Girl](https://www.youtube.com/watch?v=MylLwsuqhaY)
 - [Cruel Reprise](https://www.youtube.com/watch?v=PiSB3uJQMxY)
 - [Bobby Brown - My Prerogative](https://www.youtube.com/watch?v=5cDLZqe735k)
-- [Bobby Brown - Every Little Step (Official Video)](https://www.youtube.com/watch?v=P0FKzPfsxA4)
-- [Bobby Brown - Don't Be Cruel (Official Video)](https://www.youtube.com/watch?v=pd7dCbEfTs4)
+- [Bobby Brown - Every Little Step Official Video](https://www.youtube.com/watch?v=P0FKzPfsxA4)
+- [Bobby Brown - Dont Be Cruel Official Video](https://www.youtube.com/watch?v=pd7dCbEfTs4)
 
 ## Release Images
 {{< imageGrid >}}

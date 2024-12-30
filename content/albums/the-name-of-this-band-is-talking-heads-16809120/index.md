@@ -59,31 +59,31 @@ Though a decent commercial and critical success upon release, The Name of This B
 
 
 ## Videos
-### Life During Wartime (2004 Remaster)
-{{< youtube id="GTIkfzGiIyo" title="Life During Wartime (2004 Remaster)" >}}<br>
+### Life During Wartime 2004 Remaster
+{{< youtube id="GTIkfzGiIyo" title="Life During Wartime 2004 Remaster" >}}<br>
 ### More Videos
 
-- [A Clean Break (Let's Work) (Live) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
-- [Stay Hungry (1979 Version) (2004 Remaster)](https://www.youtube.com/watch?v=q4TXwmtvOiI)
-- [Memories (Can't Wait) (2004 Remaster)](https://www.youtube.com/watch?v=d_DdC3PlVdo)
-- [Don't Worry About the Government (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=Rqitv9Xxw88)
-- [A Clean Break (Let's Work) (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
-- [Memories (Can't Wait) (Live at Capitol Theater, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=d_DdC3PlVdo)
-- [New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=2KM5XNGJDqg)
-- [Once in a Lifetime (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=NCd5OCpeJjw)
-- [Life During Wartime (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=GTIkfzGiIyo)
-- [Psycho Killer (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=nGhPaJw8p6c)
-- [Drugs (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=nZ8GumPYT5E)
-- [Born Under Punches (The Heat Goes On) (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=zJpzHoo4XAQ)
-- [Take Me to the River (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=G6rUomO27G4)
-- [The Great Curve (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=2iYETa3pa6U)
-- [Heaven (Live at Emerald City, New Jersey)](https://www.youtube.com/watch?v=5uBKmnVi0r4)
-- [Electricity (Drugs) (Live at The Agora, Cleveland, Ohio) (2004 Remaster)](https://www.youtube.com/watch?v=YBlj-a97HYI)
-- [I'm Not in Love (Live at KSAN, San Francisco)](https://www.youtube.com/watch?v=MZgkcx3R1F0)
-- [Crosseyed and Painless (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=z8ou1_b02NA)
-- [The Big Country (Live at WXRT, Chicago)](https://www.youtube.com/watch?v=NDt-3V0x0XE)
-- [Cities (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=wF9gUzSNUlw)
-- [Animals (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=F53a0uGFAv8)
+- [A Clean Break Lets Work Live 2004 Remaster](https://www.youtube.com/watch?v=-vhtCe4PmHA)
+- [Stay Hungry 1979 Version 2004 Remaster](https://www.youtube.com/watch?v=q4TXwmtvOiI)
+- [Memories Cant Wait 2004 Remaster](https://www.youtube.com/watch?v=d_DdC3PlVdo)
+- [Dont Worry About the Government Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=Rqitv9Xxw88)
+- [A Clean Break Lets Work Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=-vhtCe4PmHA)
+- [Memories Cant Wait Live at Capitol Theater New Jersey 2004 Remaster](https://www.youtube.com/watch?v=d_DdC3PlVdo)
+- [New Feeling Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=2KM5XNGJDqg)
+- [Once in a Lifetime Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=NCd5OCpeJjw)
+- [Life During Wartime Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=GTIkfzGiIyo)
+- [Psycho Killer Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=nGhPaJw8p6c)
+- [Drugs Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=nZ8GumPYT5E)
+- [Born Under Punches The Heat Goes On Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=zJpzHoo4XAQ)
+- [Take Me to the River Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=G6rUomO27G4)
+- [The Great Curve Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=2iYETa3pa6U)
+- [Heaven Live at Emerald City New Jersey](https://www.youtube.com/watch?v=5uBKmnVi0r4)
+- [Electricity Drugs Live at The Agora Cleveland Ohio 2004 Remaster](https://www.youtube.com/watch?v=YBlj-a97HYI)
+- [Im Not in Love Live at KSAN San Francisco](https://www.youtube.com/watch?v=MZgkcx3R1F0)
+- [Crosseyed and Painless Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=z8ou1_b02NA)
+- [The Big Country Live at WXRT Chicago](https://www.youtube.com/watch?v=NDt-3V0x0XE)
+- [Cities Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=wF9gUzSNUlw)
+- [Animals Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=F53a0uGFAv8)
 
 ## Release Images
 {{< imageGrid >}}

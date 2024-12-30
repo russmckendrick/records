@@ -64,9 +64,9 @@ Cosmogramma was promoted with a free "augmented reality" application called Cosm
 {{< youtube id="0ScYz9sNaQk" title="Flying Lotus - Zodiac Shit" >}}<br>
 ### More Videos
 
-- [Flying Lotus - MmmHmm ft. Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
+- [Flying Lotus - MmmHmm ft Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
 - [Flying Lotus - Zodiac Shit](https://www.youtube.com/watch?v=0ScYz9sNaQk)
-- [Flying Lotus - MmmHmm ft. Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
+- [Flying Lotus - MmmHmm ft Thundercat](https://www.youtube.com/watch?v=BD3NEaUpcUI)
 
 ## Release Images
 {{< imageGrid >}}

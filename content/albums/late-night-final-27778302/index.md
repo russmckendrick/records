@@ -48,8 +48,8 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 
 
 ## Videos
-### Baby You're My Light
-{{< youtube id="QUeLj2xguHI" title="Baby You're My Light" >}}<br>
+### Baby Youre My Light
+{{< youtube id="QUeLj2xguHI" title="Baby Youre My Light" >}}<br>
 ### More Videos
 
 - [Something Is](https://www.youtube.com/watch?v=Msf2bU9MJmU)
@@ -61,7 +61,7 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 - [No Way Home](https://www.youtube.com/watch?v=YJVr9bCrC0w)
 - [Cry a Tear for the Man On the Moon](https://www.youtube.com/watch?v=J7hESbgte8M)
 - [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
-- [The Light At the End of the Tunnel (Was a Train Coming the Other Way)](https://www.youtube.com/watch?v=jIYdJeRYNSo)
+- [The Light At the End of the Tunnel Was a Train Coming the Other Way](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,7 +53,7 @@ A Weapon Called the Word has achieved gold status, despite never having appeared
 ### More Videos
 
 - [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
-- [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
+- [Ballard of Robbie Jones by The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
 - [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
@@ -63,7 +63,7 @@ A Weapon Called the Word has achieved gold status, despite never having appeared
 - [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
 - [World Freak Show - Levellers](https://www.youtube.com/watch?v=Xe71vrfSVWI)
 - [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
-- [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
+- [Ballard of Robbie Jones by The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
 - [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)

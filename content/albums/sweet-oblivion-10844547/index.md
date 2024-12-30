@@ -55,7 +55,7 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 - [Screaming Trees - Shadow of the Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
 - [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
-- [𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)](https://www.youtube.com/watch?v=LdAGDZqeTTk)
+- [𝓢𝓬𝓻𝓮a𝖒ing Trees - 𝗦𝘄𝗲𝗲t blvion Full Album](https://www.youtube.com/watch?v=LdAGDZqeTTk)
 - [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)

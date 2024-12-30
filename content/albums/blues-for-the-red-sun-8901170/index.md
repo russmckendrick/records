@@ -49,14 +49,14 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 
 
 ## Videos
-### Kyuss - Thong Song (Official Video)
-{{< youtube id="CtFuXV5FEvI" title="Kyuss - Thong Song (Official Video)" >}}<br>
+### Kyuss - Thong Song Official Video
+{{< youtube id="CtFuXV5FEvI" title="Kyuss - Thong Song Official Video" >}}<br>
 ### More Videos
 
-- [Kyuss - Blues For The Red Sun (Full Album) [Official]](https://www.youtube.com/watch?v=gZxPm06Dhn4)
+- [Kyuss - Blues For The Red Sun Full Album Official](https://www.youtube.com/watch?v=gZxPm06Dhn4)
 - [Thumb](https://www.youtube.com/watch?v=_TR2m4IfqPI)
 - [Green Machine](https://www.youtube.com/watch?v=RhaiAEvEiFI)
-- [Apothecaries' Weight](https://www.youtube.com/watch?v=ksK4FEsfHrA)
+- [Apothecaries Weight](https://www.youtube.com/watch?v=ksK4FEsfHrA)
 - [Freedom Run](https://www.youtube.com/watch?v=5zuqDt-KlkM)
 - [800](https://www.youtube.com/watch?v=D-Wo6NOBilY)
 - [Writhe](https://www.youtube.com/watch?v=x_yZXsO-3Mg)

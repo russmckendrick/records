@@ -42,11 +42,11 @@ styles: ["House", "Breaks", "Downtempo"]
 
 
 ## Videos
-### Coldcut - What's That Noise? (Full Album)
-{{< youtube id="tgYhZ5Ennig" title="Coldcut - What's That Noise? (Full Album)" >}}<br>
+### Coldcut - Whats That Noise Full Album
+{{< youtube id="tgYhZ5Ennig" title="Coldcut - Whats That Noise Full Album" >}}<br>
 ### More Videos
 
-- [Coldcut - People hold on (featuring Lisa Stansfield)](https://www.youtube.com/watch?v=9SS7Hu-XyGg)
+- [Coldcut - People hold on featuring Lisa Stansfield](https://www.youtube.com/watch?v=9SS7Hu-XyGg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -43,20 +43,20 @@ The Georgia Satellites resurfaced in 1993 and have since continued to perform li
 
 
 ## Videos
-### Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]
-{{< youtube id="WonOudGMSdc" title="Georgia Satellites - Keep Your Hands To Yourself (Official Music Video) [HQ Audio]" >}}<br>
+### Georgia Satellites - Keep Your Hands To Yourself Official Music Video HQ Audio
+{{< youtube id="WonOudGMSdc" title="Georgia Satellites - Keep Your Hands To Yourself Official Music Video HQ Audio" >}}<br>
 ### More Videos
 
-- [Georgia Satellites – Keep Your Hands To Yourself (Vinyl)](https://www.youtube.com/watch?v=LD3e-_Q73eg)
-- [Georgia Satellites – Over And Over (Vinyl)](https://www.youtube.com/watch?v=hUrqlI6Hvnc)
-- [Georgia Satellites – Every Picture Tells A Story (Vinyl)](https://www.youtube.com/watch?v=EigxSoK9xuc)
-- [Georgia Satellites – Golden Light (Vinyl)](https://www.youtube.com/watch?v=WUyj465vHgE)
-- [Georgia Satellites – Nights Of Mystery (Vinyl)](https://www.youtube.com/watch?v=Hn1duea22BE)
-- [Georgia Satellites – Railroad Steel (Vinyl)](https://www.youtube.com/watch?v=XU3Di4Q1jP8)
-- [Georgia Satellites – Red Light (Vinyl)](https://www.youtube.com/watch?v=tbLWiV1R6I4)
-- [Georgia Satellites – Battleship Chains (Vinyl)](https://www.youtube.com/watch?v=5e_NMQQWiQo)
-- [Georgia Satellites – The Myth Of Love (Vinyl)](https://www.youtube.com/watch?v=ocE-O669daM)
-- [Georgia Satellites – Can't Stand The Pain (Vinyl)](https://www.youtube.com/watch?v=hKoHjuRpqlI)
+- [Georgia Satellites  Keep Your Hands To Yourself Vinyl](https://www.youtube.com/watch?v=LD3e-_Q73eg)
+- [Georgia Satellites  Over And Over Vinyl](https://www.youtube.com/watch?v=hUrqlI6Hvnc)
+- [Georgia Satellites  Every Picture Tells A Story Vinyl](https://www.youtube.com/watch?v=EigxSoK9xuc)
+- [Georgia Satellites  Golden Light Vinyl](https://www.youtube.com/watch?v=WUyj465vHgE)
+- [Georgia Satellites  Nights Of Mystery Vinyl](https://www.youtube.com/watch?v=Hn1duea22BE)
+- [Georgia Satellites  Railroad Steel Vinyl](https://www.youtube.com/watch?v=XU3Di4Q1jP8)
+- [Georgia Satellites  Red Light Vinyl](https://www.youtube.com/watch?v=tbLWiV1R6I4)
+- [Georgia Satellites  Battleship Chains Vinyl](https://www.youtube.com/watch?v=5e_NMQQWiQo)
+- [Georgia Satellites  The Myth Of Love Vinyl](https://www.youtube.com/watch?v=ocE-O669daM)
+- [Georgia Satellites  Cant Stand The Pain Vinyl](https://www.youtube.com/watch?v=hKoHjuRpqlI)
 - [GEORGIA SATELLITES - Keep Your Hands To Yourself](https://www.youtube.com/watch?v=PdpAop7gp0w)
 - [Georgia Satellites - Battleship Chains](https://www.youtube.com/watch?v=HQr7RxYec-0)
 - [GEORGIA SATELLITES - Keep Your Hands To Yourself](https://www.youtube.com/watch?v=PdpAop7gp0w)

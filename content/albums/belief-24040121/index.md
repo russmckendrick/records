@@ -44,11 +44,11 @@ The album marked the return to the faster and more energetic songwriting style o
 
 
 ## Videos
-### BELIEF - DREAMS (OFFICIAL VIDEO)
-{{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS (OFFICIAL VIDEO)" >}}<br>
+### BELIEF - DREAMS OFFICIAL VIDEO
+{{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [BELIEF - DREAMS (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xAphjKTK1sk)
+- [BELIEF - DREAMS OFFICIAL VIDEO](https://www.youtube.com/watch?v=xAphjKTK1sk)
 
 ## Release Images
 {{< imageGrid >}}

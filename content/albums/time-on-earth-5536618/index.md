@@ -47,8 +47,8 @@ As the first studio album from the group in fourteen years, Time on Earth has be
 
 
 ## Videos
-### Crowded House - Don't Stop Now
-{{< youtube id="eGZJKsTHXG0" title="Crowded House - Don't Stop Now" >}}<br>
+### Crowded House - Dont Stop Now
+{{< youtube id="eGZJKsTHXG0" title="Crowded House - Dont Stop Now" >}}<br>
 
 
 ## Release Images

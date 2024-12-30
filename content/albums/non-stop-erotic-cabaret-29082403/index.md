@@ -67,19 +67,19 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 
 
 ## Videos
-### Frustration (Remastered 2023)
-{{< youtube id="mGDeuJ4rscg" title="Frustration (Remastered 2023)" >}}<br>
+### Frustration Remastered 2023
+{{< youtube id="mGDeuJ4rscg" title="Frustration Remastered 2023" >}}<br>
 ### More Videos
 
 - [Seedy Films](https://www.youtube.com/watch?v=g0pvWANJc5I)
 - [Youth](https://www.youtube.com/watch?v=6fsM6nmNpa8)
 - [Soft Cell - Sex Dwarf](https://www.youtube.com/watch?v=lrRmgbchiGY)
-- [Entertain Me (Remastered 2023)](https://www.youtube.com/watch?v=Lkkwot-FXjY)
-- [Chips On My Shoulder (Original Version)](https://www.youtube.com/watch?v=-9h4ODtFaS8)
+- [Entertain Me Remastered 2023](https://www.youtube.com/watch?v=Lkkwot-FXjY)
+- [Chips On My Shoulder Original Version](https://www.youtube.com/watch?v=-9h4ODtFaS8)
 - [Soft Cell - Bedsitter](https://www.youtube.com/watch?v=lbC4yxjydUc)
-- [Secret Life (Remastered 2023)](https://www.youtube.com/watch?v=FlJT4I4XCCg)
-- [Say Hello, Wave Goodbye (Remastered 2023)](https://www.youtube.com/watch?v=uzeOmduDr5Q)
-- [Soft Cell - Tainted Love (Official Music Video)](https://www.youtube.com/watch?v=XZVpR3Pk-r8)
+- [Secret Life Remastered 2023](https://www.youtube.com/watch?v=FlJT4I4XCCg)
+- [Say Hello Wave Goodbye Remastered 2023](https://www.youtube.com/watch?v=uzeOmduDr5Q)
+- [Soft Cell - Tainted Love Official Music Video](https://www.youtube.com/watch?v=XZVpR3Pk-r8)
 - [Soft Cell - Memorabilia](https://www.youtube.com/watch?v=fvrqSY2uUcI)
 
 ## Release Images

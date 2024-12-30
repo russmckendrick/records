@@ -51,13 +51,13 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 
 
 ## Videos
-### Primal Scream - Ahead (Full Album) 2024
-{{< youtube id="ERuPUTm2CJs" title="Primal Scream - Ahead (Full Album) 2024" >}}<br>
+### Primal Scream - Ahead Full Album 2024
+{{< youtube id="ERuPUTm2CJs" title="Primal Scream - Ahead Full Album 2024" >}}<br>
 ### More Videos
 
-- [Primal Scream - Ready To Go Home (Official Video)](https://www.youtube.com/watch?v=hVNW-haQL3I)
-- [Primal Scream - The Centre Cannot Hold (Official Video)](https://www.youtube.com/watch?v=FWO0KsrHFRI)
-- [Primal Scream - Love Insurrection (Official Visualiser)](https://www.youtube.com/watch?v=F4LqEcVsA3k)
+- [Primal Scream - Ready To Go Home Official Video](https://www.youtube.com/watch?v=hVNW-haQL3I)
+- [Primal Scream - The Centre Cannot Hold Official Video](https://www.youtube.com/watch?v=FWO0KsrHFRI)
+- [Primal Scream - Love Insurrection Official Visualiser](https://www.youtube.com/watch?v=F4LqEcVsA3k)
 
 ## Release Images
 {{< imageGrid >}}

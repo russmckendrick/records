@@ -61,32 +61,32 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 
 
 ## Videos
-### Lost Highway Soundtrack 01. I’m Deranged (Edit)
-{{< youtube id="oHxkDIvbyGg" title="Lost Highway Soundtrack 01. I’m Deranged (Edit)" >}}<br>
+### Lost Highway Soundtrack 01 Im Deranged Edit
+{{< youtube id="oHxkDIvbyGg" title="Lost Highway Soundtrack 01 Im Deranged Edit" >}}<br>
 ### More Videos
 
-- [Videodrones; Questions](https://www.youtube.com/watch?v=ji_BZmgB1OM)
+- [Videodrones Questions](https://www.youtube.com/watch?v=ji_BZmgB1OM)
 - [The Perfect Drug](https://www.youtube.com/watch?v=pa5YJRcfCfM)
 - [Red Bats With Teeth](https://www.youtube.com/watch?v=k-e08eBbNv0)
-- [Lost Highway Soundtrack 05. Haunting & Heartbreaking](https://www.youtube.com/watch?v=nX12fKHHt34)
+- [Lost Highway Soundtrack 05 Haunting  Heartbreaking](https://www.youtube.com/watch?v=nX12fKHHt34)
 - [Eye](https://www.youtube.com/watch?v=kmqS01NMips)
 - [Dub Driving](https://www.youtube.com/watch?v=9lCxWbKB1iI)
-- [Mr. Eddy's Theme 1](https://www.youtube.com/watch?v=ksRRT7eoJFo)
+- [Mr Eddys Theme 1](https://www.youtube.com/watch?v=ksRRT7eoJFo)
 - [This Magic Moment](https://www.youtube.com/watch?v=fP-mlrMv7Ok)
-- [Mr. Eddy's Theme 2](https://www.youtube.com/watch?v=5GhEn4-VtRE)
-- [Fred & Renee Make Love](https://www.youtube.com/watch?v=bCgEAeMZEpI)
+- [Mr Eddys Theme 2](https://www.youtube.com/watch?v=5GhEn4-VtRE)
+- [Fred  Renee Make Love](https://www.youtube.com/watch?v=bCgEAeMZEpI)
 - [Apple Of Sodom](https://www.youtube.com/watch?v=TzgkwXjWuEg)
-- [Lost Highway Soundtrack 13. Insensatez](https://www.youtube.com/watch?v=YuZvHfuyIT8)
-- [Lost Highway Soundtrack 14. Something Wicked This Way Comes](https://www.youtube.com/watch?v=vSshzmKOlCE)
+- [Lost Highway Soundtrack 13 Insensatez](https://www.youtube.com/watch?v=YuZvHfuyIT8)
+- [Lost Highway Soundtrack 14 Something Wicked This Way Comes](https://www.youtube.com/watch?v=vSshzmKOlCE)
 - [I Put A Spell On You](https://www.youtube.com/watch?v=jy7Q1nt-4PE)
 - [Fats Revisited](https://www.youtube.com/watch?v=Zy9NTRgUXqU)
-- [Fred's World](https://www.youtube.com/watch?v=vi5uEJi2nkI)
-- [Rammstein (Edit)](https://www.youtube.com/watch?v=x6jtEnLJncM)
+- [Freds World](https://www.youtube.com/watch?v=vi5uEJi2nkI)
+- [Rammstein Edit](https://www.youtube.com/watch?v=x6jtEnLJncM)
 - [Hollywood Sunset](https://www.youtube.com/watch?v=L8SyzCv9OxY)
-- [Heirate Mich (Edit)](https://www.youtube.com/watch?v=r2AInopKBWM)
+- [Heirate Mich Edit](https://www.youtube.com/watch?v=r2AInopKBWM)
 - [Police](https://www.youtube.com/watch?v=eP6IQ3Vfuho)
 - [Driver Down](https://www.youtube.com/watch?v=PxBGukgq2cM)
-- [Lost Highway Soundtrack 23. I’m Deranged (Reprise)](https://www.youtube.com/watch?v=yrb9QKVEMvM)
+- [Lost Highway Soundtrack 23 Im Deranged Reprise](https://www.youtube.com/watch?v=yrb9QKVEMvM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -77,7 +77,7 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 {{< youtube id="GLYu0allKgs" title="Metronomic Underground" >}}<br>
 ### More Videos
 
-- [Stereolab – Cybele's Reverie (Official Video)](https://www.youtube.com/watch?v=0JgxATTtROs)
+- [Stereolab  Cybeles Reverie Official Video](https://www.youtube.com/watch?v=0JgxATTtROs)
 - [Percolator](https://www.youtube.com/watch?v=kbT9Y1nHJgU)
 - [Les Yper-Sound](https://www.youtube.com/watch?v=pDwAqRGVy5o)
 - [Spark Plug](https://www.youtube.com/watch?v=ktP29RMoMsg)

@@ -59,8 +59,8 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 
 
 ## Videos
-### Monster Magnet - Superjudge (Full Album)
-{{< youtube id="4v6patyOnzk" title="Monster Magnet - Superjudge (Full Album)" >}}<br>
+### Monster Magnet - Superjudge Full Album
+{{< youtube id="4v6patyOnzk" title="Monster Magnet - Superjudge Full Album" >}}<br>
 ### More Videos
 
 - [Monster Magnet - Superjudge](https://www.youtube.com/watch?v=zf49V2yB3Z4)
@@ -68,16 +68,16 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 - [Monster Magnet - Cyclops Revolution](https://www.youtube.com/watch?v=Xj9RxWM7Dmg)
 - [Monster Magnet - Stadium](https://www.youtube.com/watch?v=m7pwlP43J2M)
 - [Monster Magnet - Twin Earth](https://www.youtube.com/watch?v=9qR4ViYVmew)
-- [Monster Magnet - Twin Earth (HQ)](https://www.youtube.com/watch?v=WNkdSieWjnM)
+- [Monster Magnet - Twin Earth HQ](https://www.youtube.com/watch?v=WNkdSieWjnM)
 - [Monster Magnet - Twin Earth](https://www.youtube.com/watch?v=1eyu_UmDrCk)
-- [Monster Magnet - Elephant Bell (Superjudge)](https://www.youtube.com/watch?v=RGHeYiEfEbc)
-- [Evil (Is Going On)](https://www.youtube.com/watch?v=pNQixVBrh0Q)
-- [Monster Magnet - Evil (1992)](https://www.youtube.com/watch?v=NUf8LfM9wqc)
+- [Monster Magnet - Elephant Bell Superjudge](https://www.youtube.com/watch?v=RGHeYiEfEbc)
+- [Evil Is Going On](https://www.youtube.com/watch?v=pNQixVBrh0Q)
+- [Monster Magnet - Evil 1992](https://www.youtube.com/watch?v=NUf8LfM9wqc)
 - [Monster Magnet - Face Down](https://www.youtube.com/watch?v=tz6epB9kJW4)
 - [Monster Magnet - Brainstorm](https://www.youtube.com/watch?v=NCOa0lXJuEk)
-- [Monster Magnet - Cage Around The Sun (w/ lyrics)](https://www.youtube.com/watch?v=YNY0IgDOfqo)
+- [Monster Magnet - Cage Around The Sun w lyrics](https://www.youtube.com/watch?v=YNY0IgDOfqo)
 - [Monster Magnet - Black Balloon](https://www.youtube.com/watch?v=bm3WsrqN1WQ)
-- [Monster Magnet - Superjudge (Full Album)](https://www.youtube.com/watch?v=4v6patyOnzk)
+- [Monster Magnet - Superjudge Full Album](https://www.youtube.com/watch?v=4v6patyOnzk)
 
 ## Release Images
 {{< imageGrid >}}

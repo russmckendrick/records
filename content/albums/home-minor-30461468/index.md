@@ -38,13 +38,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### OCEANSIZE - Feed To Feed DVD / Home & Minor EP Trailer
-{{< youtube id="9qbIiDgjHyA" title="OCEANSIZE - Feed To Feed DVD / Home & Minor EP Trailer" >}}<br>
+### OCEANSIZE - Feed To Feed DVD  Home  Minor EP Trailer
+{{< youtube id="9qbIiDgjHyA" title="OCEANSIZE - Feed To Feed DVD  Home  Minor EP Trailer" >}}<br>
 ### More Videos
 
-- [OCEANSIZE - Legal Teens (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=sjnIf3Mm6xI)
-- [OCEANSIZE - Home & Minor Teaser](https://www.youtube.com/watch?v=Grmwxy8LwLU)
-- [OCEANSIZE - Home & Minor Teaser #2](https://www.youtube.com/watch?v=0I8QqLrAErw)
+- [OCEANSIZE - Legal Teens OFFICIAL VIDEO](https://www.youtube.com/watch?v=sjnIf3Mm6xI)
+- [OCEANSIZE - Home  Minor Teaser](https://www.youtube.com/watch?v=Grmwxy8LwLU)
+- [OCEANSIZE - Home  Minor Teaser 2](https://www.youtube.com/watch?v=0I8QqLrAErw)
 
 ## Release Images
 {{< imageGrid >}}

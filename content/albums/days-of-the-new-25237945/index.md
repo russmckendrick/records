@@ -50,15 +50,15 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 
 ## Videos
-### Days Of The New - Shelf In The Room (Official Video)
-{{< youtube id="Cw6bgdJlth0" title="Days Of The New - Shelf In The Room (Official Video)" >}}<br>
+### Days Of The New - Shelf In The Room Official Video
+{{< youtube id="Cw6bgdJlth0" title="Days Of The New - Shelf In The Room Official Video" >}}<br>
 ### More Videos
 
-- [Days Of The New - Touch, Peel And Stand (Official Video)](https://www.youtube.com/watch?v=Wg-HZd4Lb2Q)
+- [Days Of The New - Touch Peel And Stand Official Video](https://www.youtube.com/watch?v=Wg-HZd4Lb2Q)
 - [Days Of The New - The Down Town](https://www.youtube.com/watch?v=kHQcdj5stHk)
-- [Days Of The New – The Down Town](https://www.youtube.com/watch?v=RvV0t9d6hjc)
-- [Days Of The New – Touch, Peel And Stand](https://www.youtube.com/watch?v=iM7nzyhDDQY)
-- [D̲a̲ys of t̲he N̲e̲w D̲a̲ys of t̲he N̲e̲w Full Album.](https://www.youtube.com/watch?v=-AaPIgLqhFQ)
+- [Days Of The New  The Down Town](https://www.youtube.com/watch?v=RvV0t9d6hjc)
+- [Days Of The New  Touch Peel And Stand](https://www.youtube.com/watch?v=iM7nzyhDDQY)
+- [Days of the New Days of the New Full Album](https://www.youtube.com/watch?v=-AaPIgLqhFQ)
 
 ## Release Images
 {{< imageGrid >}}

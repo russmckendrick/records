@@ -61,31 +61,31 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 
 
 ## Videos
-### CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)
-{{< youtube id="nSdHrnzD_KA" title="CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)" >}}<br>
+### CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO
+{{< youtube id="nSdHrnzD_KA" title="CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO" >}}<br>
 ### More Videos
 
-- [CROWDED HOUSE - TEENAGE SUMMER (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=DDXlz2srXOg)
-- [CROWDED HOUSE - THE HOWL (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=MFln0Ll2s6A)
-- [CROWDED HOUSE - ALL THAT I CAN EVER OWN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
-- [CROWDED HOUSE - OH HI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=_uMmTV4oGaA)
-- [CROWDED HOUSE - SOME GREATER PLAN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
-- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6J8pCgS33Bs)
-- [CROWDED HOUSE - BLURRY GRASS (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=cL8JV-G2QD8)
-- [CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=YlWSF6g6gWs)
-- [CROWDED HOUSE - THIRSTY (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=dP8fsH7NhVs)
-- [CROWDED HOUSE - NIGHT SONG (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6SBF7vMxK9c)
-- [CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=nSdHrnzD_KA)
-- [CROWDED HOUSE - TEENAGE SUMMER (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=DDXlz2srXOg)
-- [CROWDED HOUSE - THE HOWL (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=MFln0Ll2s6A)
-- [CROWDED HOUSE - ALL THAT I CAN EVER OWN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
-- [CROWDED HOUSE - OH HI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=_uMmTV4oGaA)
-- [CROWDED HOUSE - SOME GREATER PLAN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
-- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6J8pCgS33Bs)
-- [CROWDED HOUSE - BLURRY GRASS (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=cL8JV-G2QD8)
-- [CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=YlWSF6g6gWs)
-- [CROWDED HOUSE - THIRSTY (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=dP8fsH7NhVs)
-- [CROWDED HOUSE - NIGHT SONG (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6SBF7vMxK9c)
+- [CROWDED HOUSE - TEENAGE SUMMER OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=DDXlz2srXOg)
+- [CROWDED HOUSE - THE HOWL OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=MFln0Ll2s6A)
+- [CROWDED HOUSE - ALL THAT I CAN EVER OWN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
+- [CROWDED HOUSE - OH HI OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=_uMmTV4oGaA)
+- [CROWDED HOUSE - SOME GREATER PLAN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
+- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6J8pCgS33Bs)
+- [CROWDED HOUSE - BLURRY GRASS OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=cL8JV-G2QD8)
+- [CROWDED HOUSE - I CANT KEEP UP WITH YOU OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=YlWSF6g6gWs)
+- [CROWDED HOUSE - THIRSTY OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=dP8fsH7NhVs)
+- [CROWDED HOUSE - NIGHT SONG OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6SBF7vMxK9c)
+- [CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=nSdHrnzD_KA)
+- [CROWDED HOUSE - TEENAGE SUMMER OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=DDXlz2srXOg)
+- [CROWDED HOUSE - THE HOWL OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=MFln0Ll2s6A)
+- [CROWDED HOUSE - ALL THAT I CAN EVER OWN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
+- [CROWDED HOUSE - OH HI OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=_uMmTV4oGaA)
+- [CROWDED HOUSE - SOME GREATER PLAN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
+- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6J8pCgS33Bs)
+- [CROWDED HOUSE - BLURRY GRASS OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=cL8JV-G2QD8)
+- [CROWDED HOUSE - I CANT KEEP UP WITH YOU OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=YlWSF6g6gWs)
+- [CROWDED HOUSE - THIRSTY OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=dP8fsH7NhVs)
+- [CROWDED HOUSE - NIGHT SONG OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6SBF7vMxK9c)
 
 ## Release Images
 {{< imageGrid >}}

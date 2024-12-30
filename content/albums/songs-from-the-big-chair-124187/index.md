@@ -51,11 +51,11 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 {{< youtube id="CsHiG-43Fzg" title="Tears For Fears - Head Over Heels" >}}<br>
 ### More Videos
 
-- [Tears For Fears - Mothers Talk (US Mix)](https://www.youtube.com/watch?v=5dCD1p0zPbs)
-- [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
+- [Tears For Fears - Mothers Talk US Mix](https://www.youtube.com/watch?v=5dCD1p0zPbs)
+- [Tears For Fears - Shout Official Music Video](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
 - [Tears For Fears - Head Over Heels](https://www.youtube.com/watch?v=CsHiG-43Fzg)
-- [Tears For Fears - Mothers Talk (US Mix)](https://www.youtube.com/watch?v=5dCD1p0zPbs)
-- [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
+- [Tears For Fears - Mothers Talk US Mix](https://www.youtube.com/watch?v=5dCD1p0zPbs)
+- [Tears For Fears - Shout Official Music Video](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
 
 ## Release Images
 {{< imageGrid >}}

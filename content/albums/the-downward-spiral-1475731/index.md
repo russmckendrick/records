@@ -63,8 +63,8 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 
 
 ## Videos
-### Nine Inch Nails - Closer (Director's Cut)
-{{< youtube id="PTFwQP86BRs" title="Nine Inch Nails - Closer (Director's Cut)" >}}<br>
+### Nine Inch Nails - Closer Directors Cut
+{{< youtube id="PTFwQP86BRs" title="Nine Inch Nails - Closer Directors Cut" >}}<br>
 
 
 ## Release Images

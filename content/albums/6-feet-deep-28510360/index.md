@@ -52,16 +52,16 @@ styles: ["Horrorcore"]
 
 
 ## Videos
-### Gravediggaz - Nowhere to Run, Nowhere to Hide (Explicit)
-{{< youtube id="sPGAXjwKOyk" title="Gravediggaz - Nowhere to Run, Nowhere to Hide (Explicit)" >}}<br>
+### Gravediggaz - Nowhere to Run Nowhere to Hide Explicit
+{{< youtube id="sPGAXjwKOyk" title="Gravediggaz - Nowhere to Run Nowhere to Hide Explicit" >}}<br>
 ### More Videos
 
-- [GraveDiggaz  "Diary Of A Madman" Uncut [HD]](https://www.youtube.com/watch?v=NReT4f1bXY0)
+- [GraveDiggaz  Diary Of A Madman Uncut HD](https://www.youtube.com/watch?v=NReT4f1bXY0)
 - [6 Feet Deep](https://www.youtube.com/watch?v=pr2Vf3piuQw)
 - [1-800 Suicide](https://www.youtube.com/watch?v=V0teGCgVMTw)
 - [Constant Elevation](https://www.youtube.com/watch?v=FhN2Y3KNB8c)
-- [Graved!ggaz - Niggamortis (6 Feet Deep) FULL ALBUM](https://www.youtube.com/watch?v=MKl49Y32hWQ)
-- [Gravediggaz - Pass The Shovel (Dirty) - HD](https://www.youtube.com/watch?v=kPZGjfhN8d8)
+- [Gravedggaz - Niggamortis 6 Feet Deep FULL ALBUM](https://www.youtube.com/watch?v=MKl49Y32hWQ)
+- [Gravediggaz - Pass The Shovel Dirty - HD](https://www.youtube.com/watch?v=kPZGjfhN8d8)
 
 ## Release Images
 {{< imageGrid >}}

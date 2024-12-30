@@ -52,21 +52,21 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Videos
-### Crucify (2015 Remaster)
-{{< youtube id="dGBwsC0yJ8o" title="Crucify (2015 Remaster)" >}}<br>
+### Crucify 2015 Remaster
+{{< youtube id="dGBwsC0yJ8o" title="Crucify 2015 Remaster" >}}<br>
 ### More Videos
 
-- [Girl (2015 Remaster)](https://www.youtube.com/watch?v=boNX-dl7VXc)
-- [Silent All These Years (2015 Remaster)](https://www.youtube.com/watch?v=qt9IkhdRK30)
-- [Precious Things (2015 Remaster)](https://www.youtube.com/watch?v=e6z2wE8ECao)
+- [Girl 2015 Remaster](https://www.youtube.com/watch?v=boNX-dl7VXc)
+- [Silent All These Years 2015 Remaster](https://www.youtube.com/watch?v=qt9IkhdRK30)
+- [Precious Things 2015 Remaster](https://www.youtube.com/watch?v=e6z2wE8ECao)
 - [Tori Amos-Winter](https://www.youtube.com/watch?v=9JofmYkcaRE)
-- [Happy Phantom (2015 Remaster)](https://www.youtube.com/watch?v=4ZUkTtAsv4A)
-- [China (2015 Remaster)](https://www.youtube.com/watch?v=zKGgBz5cVfo)
-- [Leather (2015 Remaster)](https://www.youtube.com/watch?v=athwHqqtSpM)
-- [Mother (2015 Remaster)](https://www.youtube.com/watch?v=2uaA23WOytc)
-- [Tear in Your Hand (2015 Remaster)](https://www.youtube.com/watch?v=kGjpRNtoA0A)
-- [Me and a Gun (2015 Remaster)](https://www.youtube.com/watch?v=_jjaiM71CtI)
-- [Little Earthquakes (2015 Remaster)](https://www.youtube.com/watch?v=VzPtNtrNm_k)
+- [Happy Phantom 2015 Remaster](https://www.youtube.com/watch?v=4ZUkTtAsv4A)
+- [China 2015 Remaster](https://www.youtube.com/watch?v=zKGgBz5cVfo)
+- [Leather 2015 Remaster](https://www.youtube.com/watch?v=athwHqqtSpM)
+- [Mother 2015 Remaster](https://www.youtube.com/watch?v=2uaA23WOytc)
+- [Tear in Your Hand 2015 Remaster](https://www.youtube.com/watch?v=kGjpRNtoA0A)
+- [Me and a Gun 2015 Remaster](https://www.youtube.com/watch?v=_jjaiM71CtI)
+- [Little Earthquakes 2015 Remaster](https://www.youtube.com/watch?v=VzPtNtrNm_k)
 
 ## Release Images
 {{< imageGrid >}}

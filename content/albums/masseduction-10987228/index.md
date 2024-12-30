@@ -52,14 +52,14 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 
 
 ## Videos
-### St. Vincent - New York (Official Video)
-{{< youtube id="4TPqUvy1vYU" title="St. Vincent - New York (Official Video)" >}}<br>
+### St Vincent - New York Official Video
+{{< youtube id="4TPqUvy1vYU" title="St Vincent - New York Official Video" >}}<br>
 ### More Videos
 
-- [St. Vincent - "Los Ageless" (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
-- [St. Vincent - Hang On Me (Official Audio)](https://www.youtube.com/watch?v=F9WjhPy02gU)
-- [St. Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
-- [St. Vincent - "Power Corrupts" (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
+- [St Vincent - Los Ageless Official Video](https://www.youtube.com/watch?v=h9TlaYxoOO8)
+- [St Vincent - Hang On Me Official Audio](https://www.youtube.com/watch?v=F9WjhPy02gU)
+- [St Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
+- [St Vincent - Power Corrupts Japanese Bonus Track](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 
 ## Release Images
 {{< imageGrid >}}

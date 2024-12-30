@@ -45,13 +45,13 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 
 
 ## Videos
-### Jamie Lidell - "Building A Beginning" (Lyric Video)
-{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - "Building A Beginning" (Lyric Video)" >}}<br>
+### Jamie Lidell - Building A Beginning Lyric Video
+{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning Lyric Video" >}}<br>
 ### More Videos
 
-- [Jamie Lidell - "I Live To Make You Smile" (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
-- [Jamie Lidell - "Building A Beginning" (Lyric Video)](https://www.youtube.com/watch?v=RkNdHL3eXGc)
-- [Jamie Lidell - "I Live To Make You Smile" (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
+- [Jamie Lidell - I Live To Make You Smile Official Audio](https://www.youtube.com/watch?v=SpXk3GslsgU)
+- [Jamie Lidell - Building A Beginning Lyric Video](https://www.youtube.com/watch?v=RkNdHL3eXGc)
+- [Jamie Lidell - I Live To Make You Smile Official Audio](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
 ## Release Images
 {{< imageGrid >}}

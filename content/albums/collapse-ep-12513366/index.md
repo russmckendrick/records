@@ -45,7 +45,7 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 {{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}<br>
 ### More Videos
 
-- [Aphex Twin- MT1 t29r2 (Collapse EP)](https://www.youtube.com/watch?v=0MtrLA_jmow)
+- [Aphex Twin- MT1 t29r2 Collapse EP](https://www.youtube.com/watch?v=0MtrLA_jmow)
 - [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 
 ## Release Images

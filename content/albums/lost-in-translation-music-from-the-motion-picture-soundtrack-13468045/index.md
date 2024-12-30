@@ -45,13 +45,13 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 
 ## Videos
-### AIR "Alone in Kyoto" 2003/2024 Rhino Records
-{{< youtube id="4TVS46Lu0Hc" title="AIR "Alone in Kyoto" 2003/2024 Rhino Records" >}}<br>
+### AIR Alone in Kyoto 20032024 Rhino Records
+{{< youtube id="4TVS46Lu0Hc" title="AIR Alone in Kyoto 20032024 Rhino Records" >}}<br>
 ### More Videos
 
-- [Sébastien Tellier "Fantino" 2000/2024 Rhino Records](https://www.youtube.com/watch?v=jnm7lHP_lWY)
-- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A](https://www.youtube.com/watch?v=dNuZeKUhu70)
-- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side B](https://www.youtube.com/watch?v=YbdS1SEdefw)
+- [Sébastien Tellier Fantino 20002024 Rhino Records](https://www.youtube.com/watch?v=jnm7lHP_lWY)
+- [Various  Lost In Translation Motion Picture Soundtrack Vinyl rip  Side A](https://www.youtube.com/watch?v=dNuZeKUhu70)
+- [Various  Lost In Translation Motion Picture Soundtrack Vinyl rip  Side B](https://www.youtube.com/watch?v=YbdS1SEdefw)
 
 ## Release Images
 {{< imageGrid >}}

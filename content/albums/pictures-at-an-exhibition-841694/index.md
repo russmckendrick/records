@@ -48,11 +48,11 @@ Pictures at an Exhibition went to number 3 on the UK Albums Chart and number 10 
 
 
 ## Videos
-### Emerson, Lake & Palmer - Pictures At An Exhibition (full LP)
-{{< youtube id="xWQct6D6HsM" title="Emerson, Lake & Palmer - Pictures At An Exhibition (full LP)" >}}<br>
+### Emerson Lake  Palmer - Pictures At An Exhibition full LP
+{{< youtube id="xWQct6D6HsM" title="Emerson Lake  Palmer - Pictures At An Exhibition full LP" >}}<br>
 ### More Videos
 
-- [ELP - Promenade & The Gnome (Fixed the lag)](https://www.youtube.com/watch?v=XXcwymuO_Vg)
+- [ELP - Promenade  The Gnome Fixed the lag](https://www.youtube.com/watch?v=XXcwymuO_Vg)
 
 ## Release Images
 {{< imageGrid >}}

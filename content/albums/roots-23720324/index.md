@@ -45,29 +45,29 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### Children of the Sün - Roots (full Album 2022)
-{{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots (full Album 2022)" >}}<br>
+### Children of the Sün - Roots full Album 2022
+{{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots full Album 2022" >}}<br>
 ### More Videos
 
-- [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
-- [CHILDREN OF THE SÜN - LEAVES (Official Audio)](https://www.youtube.com/watch?v=whzDdlOmD5g)
+- [CHILDREN OF THE SÜN - REFLECTION Official Audio](https://www.youtube.com/watch?v=geF67QdW7S4)
+- [CHILDREN OF THE SÜN - LEAVES Official Audio](https://www.youtube.com/watch?v=whzDdlOmD5g)
 - [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
-- [CHILDREN OF THE SÜN - GASLIGHTING (Official Audio)](https://www.youtube.com/watch?v=fZnD3F_ebPc)
+- [CHILDREN OF THE SÜN - GASLIGHTING Official Audio](https://www.youtube.com/watch?v=fZnD3F_ebPc)
 - [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)
 - [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
 - [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
-- [CHILDREN OF THE SÜN - IN SILVA (Official Audio)](https://www.youtube.com/watch?v=Ml7chTCmetw)
+- [CHILDREN OF THE SÜN - IN SILVA Official Audio](https://www.youtube.com/watch?v=Ml7chTCmetw)
 - [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
-- [Children of the Sün - Roots (full Album 2022)](https://www.youtube.com/watch?v=Jgtcr15D41I)
-- [CHILDREN OF THE SÜN - REFLECTION (Official Audio)](https://www.youtube.com/watch?v=geF67QdW7S4)
-- [CHILDREN OF THE SÜN - LEAVES (Official Audio)](https://www.youtube.com/watch?v=whzDdlOmD5g)
+- [Children of the Sün - Roots full Album 2022](https://www.youtube.com/watch?v=Jgtcr15D41I)
+- [CHILDREN OF THE SÜN - REFLECTION Official Audio](https://www.youtube.com/watch?v=geF67QdW7S4)
+- [CHILDREN OF THE SÜN - LEAVES Official Audio](https://www.youtube.com/watch?v=whzDdlOmD5g)
 - [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
-- [CHILDREN OF THE SÜN - GASLIGHTING (Official Audio)](https://www.youtube.com/watch?v=fZnD3F_ebPc)
+- [CHILDREN OF THE SÜN - GASLIGHTING Official Audio](https://www.youtube.com/watch?v=fZnD3F_ebPc)
 - [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)
 - [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
 - [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
-- [CHILDREN OF THE SÜN - IN SILVA (Official Audio)](https://www.youtube.com/watch?v=Ml7chTCmetw)
+- [CHILDREN OF THE SÜN - IN SILVA Official Audio](https://www.youtube.com/watch?v=Ml7chTCmetw)
 - [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
 - [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 

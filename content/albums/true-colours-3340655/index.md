@@ -50,11 +50,11 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 {{< youtube id="8-jVOHQLRF0" title="split enz - the choral sea" >}}<br>
 ### More Videos
 
-- [Split Enz - Shark Attack (Official Video)](https://www.youtube.com/watch?v=jIPlnvR1c6M)
-- [Split Enz - I Got You (Official Video)](https://www.youtube.com/watch?v=wiqBlKnb91A)
-- [Split Enz - I Hope I Never (Official Video)](https://www.youtube.com/watch?v=Pu98BS7UkHM)
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - Shark Attack Official Video](https://www.youtube.com/watch?v=jIPlnvR1c6M)
+- [Split Enz - I Got You Official Video](https://www.youtube.com/watch?v=wiqBlKnb91A)
+- [Split Enz - I Hope I Never Official Video](https://www.youtube.com/watch?v=Pu98BS7UkHM)
+- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - Nobody Takes Me Seriously](https://www.youtube.com/watch?v=gkk5kZxe_ks)
 
 ## Release Images

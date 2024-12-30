@@ -70,26 +70,26 @@ The Epic is the third studio album by American jazz saxophonist Kamasi Washingto
 
 
 ## Videos
-### Kamasi Washington - 'Change of the Guard'
-{{< youtube id="NtQRBzSN9Vw" title="Kamasi Washington - 'Change of the Guard'" >}}<br>
+### Kamasi Washington - Change of the Guard
+{{< youtube id="NtQRBzSN9Vw" title="Kamasi Washington - Change of the Guard" >}}<br>
 ### More Videos
 
-- [Kamasi Washington - 'Askim'](https://www.youtube.com/watch?v=mYdDFZLGx7U)
-- [Kamasi Washington - 'Isabelle'](https://www.youtube.com/watch?v=bCIAMO3Al1A)
-- [Kamasi Washington - 'Final Thought'](https://www.youtube.com/watch?v=YuQdtFb_Z2k)
-- [Kamasi Washington - 'The Next Step'](https://www.youtube.com/watch?v=rQ2bkIfHDl4)
-- [Kamasi Washington - 'The Rhythm Changes'](https://www.youtube.com/watch?v=OkLz4MyDmuE)
-- [Kamasi Washington - 'Miss Understanding'](https://www.youtube.com/watch?v=F-75-tUHIrQ)
-- [Kamasi Washington - 'Leroy and Lanisha'](https://www.youtube.com/watch?v=nIRAXOB68vE)
-- [Kamasi Washington - 'Re Run'](https://www.youtube.com/watch?v=78P6ZUJhXoI)
-- [Kamasi Washington - 'Henrietta Our Hero'](https://www.youtube.com/watch?v=-t0IhU7I0S4)
-- [Kamasi Washington - 'The Magnificent 7'](https://www.youtube.com/watch?v=NCnP5Z7Vn1E)
-- [Kamasi Washington - 'Seven Prayers'](https://www.youtube.com/watch?v=Ep7z3OG9rW8)
-- [Kamasi Washington - 'Re Run Home'](https://www.youtube.com/watch?v=U8NFS8WXfCI)
-- [Kamasi Washington - 'Cherokee'](https://www.youtube.com/watch?v=3DM9fGXHhlk)
-- [Kamasi Washington - 'Clair de Lune'](https://www.youtube.com/watch?v=KqJJ-2cRR0M)
-- [Kamasi Washington - 'Malcolm's Theme'](https://www.youtube.com/watch?v=h-ywrqeQPto)
-- [Kamasi Washington - 'The Message'](https://www.youtube.com/watch?v=gI1wK508370)
+- [Kamasi Washington - Askim](https://www.youtube.com/watch?v=mYdDFZLGx7U)
+- [Kamasi Washington - Isabelle](https://www.youtube.com/watch?v=bCIAMO3Al1A)
+- [Kamasi Washington - Final Thought](https://www.youtube.com/watch?v=YuQdtFb_Z2k)
+- [Kamasi Washington - The Next Step](https://www.youtube.com/watch?v=rQ2bkIfHDl4)
+- [Kamasi Washington - The Rhythm Changes](https://www.youtube.com/watch?v=OkLz4MyDmuE)
+- [Kamasi Washington - Miss Understanding](https://www.youtube.com/watch?v=F-75-tUHIrQ)
+- [Kamasi Washington - Leroy and Lanisha](https://www.youtube.com/watch?v=nIRAXOB68vE)
+- [Kamasi Washington - Re Run](https://www.youtube.com/watch?v=78P6ZUJhXoI)
+- [Kamasi Washington - Henrietta Our Hero](https://www.youtube.com/watch?v=-t0IhU7I0S4)
+- [Kamasi Washington - The Magnificent 7](https://www.youtube.com/watch?v=NCnP5Z7Vn1E)
+- [Kamasi Washington - Seven Prayers](https://www.youtube.com/watch?v=Ep7z3OG9rW8)
+- [Kamasi Washington - Re Run Home](https://www.youtube.com/watch?v=U8NFS8WXfCI)
+- [Kamasi Washington - Cherokee](https://www.youtube.com/watch?v=3DM9fGXHhlk)
+- [Kamasi Washington - Clair de Lune](https://www.youtube.com/watch?v=KqJJ-2cRR0M)
+- [Kamasi Washington - Malcolms Theme](https://www.youtube.com/watch?v=h-ywrqeQPto)
+- [Kamasi Washington - The Message](https://www.youtube.com/watch?v=gI1wK508370)
 
 ## Release Images
 {{< imageGrid >}}

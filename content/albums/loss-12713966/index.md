@@ -38,8 +38,8 @@ styles: ["Post Rock", "Post-Metal"]
 
 
 ## Videos
-### Pijn - Loss [Full Album]
-{{< youtube id="f5dPFLMa2Ik" title="Pijn - Loss [Full Album]" >}}<br>
+### Pijn - Loss Full Album
+{{< youtube id="f5dPFLMa2Ik" title="Pijn - Loss Full Album" >}}<br>
 
 
 ## Release Images

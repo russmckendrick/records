@@ -48,21 +48,21 @@ Give It Back! is the sixth studio album by the American psychedelic rock band Th
 
 
 ## Videos
-### Wretched Soul (Rewired)
-{{< youtube id="tlceIFqEOIQ" title="Wretched Soul (Rewired)" >}}<br>
+### Wretched Soul Rewired
+{{< youtube id="tlceIFqEOIQ" title="Wretched Soul Rewired" >}}<br>
 ### More Videos
 
-- [The Pineapple Thief - Dead In The Water Rewired (Lyric Video)](https://www.youtube.com/watch?v=p8CJ3a0mngI)
-- [Give It Back (Rewired)](https://www.youtube.com/watch?v=o3l7GEflnOc)
-- [Build a World (Rewired)](https://www.youtube.com/watch?v=TWi1SKZhl7A)
-- [Start Your Descent (Rewired)](https://www.youtube.com/watch?v=sD1L9FZi74k)
-- [137 (Rewired)](https://www.youtube.com/watch?v=DQjHGCffIF0)
-- [Shoot First (Rewired)](https://www.youtube.com/watch?v=LobTqOS5qGU)
-- [Boxing Day (Rewired)](https://www.youtube.com/watch?v=W5BriECFUtU)
-- [Warm Seas (Rewired)](https://www.youtube.com/watch?v=_r8yMrhfJsw)
-- [Someone Pull Me Out (Rewired)](https://www.youtube.com/watch?v=Vy0D2Ot86_U)
-- [Last Man Standing (Rewired)](https://www.youtube.com/watch?v=JlZI834YzYg)
-- [Little Man (Rewired)](https://www.youtube.com/watch?v=uj_DZgvgnyM)
+- [The Pineapple Thief - Dead In The Water Rewired Lyric Video](https://www.youtube.com/watch?v=p8CJ3a0mngI)
+- [Give It Back Rewired](https://www.youtube.com/watch?v=o3l7GEflnOc)
+- [Build a World Rewired](https://www.youtube.com/watch?v=TWi1SKZhl7A)
+- [Start Your Descent Rewired](https://www.youtube.com/watch?v=sD1L9FZi74k)
+- [137 Rewired](https://www.youtube.com/watch?v=DQjHGCffIF0)
+- [Shoot First Rewired](https://www.youtube.com/watch?v=LobTqOS5qGU)
+- [Boxing Day Rewired](https://www.youtube.com/watch?v=W5BriECFUtU)
+- [Warm Seas Rewired](https://www.youtube.com/watch?v=_r8yMrhfJsw)
+- [Someone Pull Me Out Rewired](https://www.youtube.com/watch?v=Vy0D2Ot86_U)
+- [Last Man Standing Rewired](https://www.youtube.com/watch?v=JlZI834YzYg)
+- [Little Man Rewired](https://www.youtube.com/watch?v=uj_DZgvgnyM)
 
 ## Release Images
 {{< imageGrid >}}

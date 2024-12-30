@@ -39,14 +39,14 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 
 ## Videos
-### Geto Boys - Still (Office Space soundtrack)
-{{< youtube id="lCOeIksA3Yo" title="Geto Boys - Still (Office Space soundtrack)" >}}<br>
+### Geto Boys - Still Office Space soundtrack
+{{< youtube id="lCOeIksA3Yo" title="Geto Boys - Still Office Space soundtrack" >}}<br>
 ### More Videos
 
-- [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
+- [Office Space Soundtrack - Shove This Jay Oh Bee HQ](https://www.youtube.com/watch?v=HyxoLqbFDkI)
 - [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
 - [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
-- [Ice Cube - Down for Whatever (DIRTY)](https://www.youtube.com/watch?v=-T44yl-LMSU)
+- [Ice Cube - Down for Whatever DIRTY](https://www.youtube.com/watch?v=-T44yl-LMSU)
 - [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
 - [Mambo 8](https://www.youtube.com/watch?v=lqi_HT1MfsU)
 - [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
@@ -59,11 +59,11 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 - [Get Off My Elevator](https://www.youtube.com/watch?v=r-WMAkO7r3Q)
 - [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
 - [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
-- [Geto Boys - Still (Office Space soundtrack)](https://www.youtube.com/watch?v=lCOeIksA3Yo)
-- [Office Space Soundtrack - Shove This Jay Oh Bee (HQ)](https://www.youtube.com/watch?v=HyxoLqbFDkI)
+- [Geto Boys - Still Office Space soundtrack](https://www.youtube.com/watch?v=lCOeIksA3Yo)
+- [Office Space Soundtrack - Shove This Jay Oh Bee HQ](https://www.youtube.com/watch?v=HyxoLqbFDkI)
 - [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
 - [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
-- [Ice Cube - Down for Whatever (DIRTY)](https://www.youtube.com/watch?v=-T44yl-LMSU)
+- [Ice Cube - Down for Whatever DIRTY](https://www.youtube.com/watch?v=-T44yl-LMSU)
 - [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
 
 ## Release Images

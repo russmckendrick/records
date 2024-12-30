@@ -47,8 +47,8 @@ Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia 
 
 
 ## Videos
-### I Love Myself by The Wannadies (Album Yeah)
-{{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies (Album Yeah)" >}}<br>
+### I Love Myself by The Wannadies Album Yeah
+{{< youtube id="S7mLQhPCOLk" title="I Love Myself by The Wannadies Album Yeah" >}}<br>
 ### More Videos
 
 - [The Wannadies - Idiot Boy](https://www.youtube.com/watch?v=TN3pSDdISnQ)

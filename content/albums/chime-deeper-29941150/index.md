@@ -29,26 +29,26 @@ styles: ["Techno"]
 
 
 ## Videos
-### Chime (12" Version) (Remastered)
-{{< youtube id="DAwL6wC8YZI" title="Chime (12" Version) (Remastered)" >}}<br>
+### Chime 12 Version Remastered
+{{< youtube id="DAwL6wC8YZI" title="Chime 12 Version Remastered" >}}<br>
 ### More Videos
 
-- [Chime (12 Inch)](https://www.youtube.com/watch?v=A8r53Ap6tpo)
-- [Orbital -  Deeper (1989)](https://www.youtube.com/watch?v=1DZ1_DZ0zqw)
-- [Orbital - Chime (1990 12")](https://www.youtube.com/watch?v=IdPojOVUhyk)
-- [Orbital - Chime (1990 Edit)](https://www.youtube.com/watch?v=zw2nO8OXL4U)
-- [Orbital - Deeper (1990 Edit)](https://www.youtube.com/watch?v=pcF4l66BWsk)
-- [Chime (Ray Keith Mutation)](https://www.youtube.com/watch?v=iPQia7MHH1I)
-- [Chime (Helium Mix)](https://www.youtube.com/watch?v=pYnSmHM2igo)
-- [Chime (Joey Beltram Mutation)](https://www.youtube.com/watch?v=Y8RVoqy_9UI)
-- [Chime (JZJ Bacardi Remix)](https://www.youtube.com/watch?v=dM8QZOSZe0Q)
-- [Chime (JZJ Oh Ya Mix)](https://www.youtube.com/watch?v=ROn64FuTEV0)
-- [ORBITAL - CHIME  (JOEY BELTRAM / PROGRAM 2 MIX)  1992](https://www.youtube.com/watch?v=RsvkGCUfIk4)
-- [Orbital - Deeper (Oh'Zone Records ZONE 001 AA) 1989](https://www.youtube.com/watch?v=AIvt3KU1GMU)
-- [Orbital-Open Mind (funky alternatives mix)](https://www.youtube.com/watch?v=Z4osbF6P2uk)
-- [ORBITAL - Open Mind (Filmed Record) Vinyl 12" 1992 Remix Version](https://www.youtube.com/watch?v=u7ySMaQ5jyE)
-- [ORBITAL - Open Mind (Filmed Record) Vinyl 12" 1992 Version](https://www.youtube.com/watch?v=OeC4F2hSMYY)
-- [Chime (12" Version) (Remastered)](https://www.youtube.com/watch?v=DAwL6wC8YZI)
+- [Chime 12 Inch](https://www.youtube.com/watch?v=A8r53Ap6tpo)
+- [Orbital -  Deeper 1989](https://www.youtube.com/watch?v=1DZ1_DZ0zqw)
+- [Orbital - Chime 1990 12](https://www.youtube.com/watch?v=IdPojOVUhyk)
+- [Orbital - Chime 1990 Edit](https://www.youtube.com/watch?v=zw2nO8OXL4U)
+- [Orbital - Deeper 1990 Edit](https://www.youtube.com/watch?v=pcF4l66BWsk)
+- [Chime Ray Keith Mutation](https://www.youtube.com/watch?v=iPQia7MHH1I)
+- [Chime Helium Mix](https://www.youtube.com/watch?v=pYnSmHM2igo)
+- [Chime Joey Beltram Mutation](https://www.youtube.com/watch?v=Y8RVoqy_9UI)
+- [Chime JZJ Bacardi Remix](https://www.youtube.com/watch?v=dM8QZOSZe0Q)
+- [Chime JZJ Oh Ya Mix](https://www.youtube.com/watch?v=ROn64FuTEV0)
+- [ORBITAL - CHIME  JOEY BELTRAM  PROGRAM 2 MIX  1992](https://www.youtube.com/watch?v=RsvkGCUfIk4)
+- [Orbital - Deeper OhZone Records ZONE 001 AA 1989](https://www.youtube.com/watch?v=AIvt3KU1GMU)
+- [Orbital-Open Mind funky alternatives mix](https://www.youtube.com/watch?v=Z4osbF6P2uk)
+- [ORBITAL - Open Mind Filmed Record Vinyl 12 1992 Remix Version](https://www.youtube.com/watch?v=u7ySMaQ5jyE)
+- [ORBITAL - Open Mind Filmed Record Vinyl 12 1992 Version](https://www.youtube.com/watch?v=OeC4F2hSMYY)
+- [Chime 12 Version Remastered](https://www.youtube.com/watch?v=DAwL6wC8YZI)
 - [Orbital -  Belfast](https://www.youtube.com/watch?v=P8R416rMo6k)
 
 ## Release Images

@@ -51,14 +51,14 @@ Metal Fingers flexes his producer skills, too, packing the album’s midsection 
 
 
 ## Videos
-### MF DOOM - Vomitspit (Official Video)
-{{< youtube id="_JUpTOFJUTU" title="MF DOOM - Vomitspit (Official Video)" >}}<br>
+### MF DOOM - Vomitspit Official Video
+{{< youtube id="_JUpTOFJUTU" title="MF DOOM - Vomitspit Official Video" >}}<br>
 ### More Videos
 
-- [MF DOOM - One Beer (Official Video)](https://www.youtube.com/watch?v=h69FSgua80A)
-- [MF DOOM - Hoe Cakes (Official Audio)](https://www.youtube.com/watch?v=Mv6kY_-zt-4)
-- [MF DOOM - Deep Fried Frenz (Official Audio)](https://www.youtube.com/watch?v=BjoULuCVQiw)
-- [MF DOOM - Beef Rapp (Official Audio)](https://www.youtube.com/watch?v=XvKDFX00tsU)
+- [MF DOOM - One Beer Official Video](https://www.youtube.com/watch?v=h69FSgua80A)
+- [MF DOOM - Hoe Cakes Official Audio](https://www.youtube.com/watch?v=Mv6kY_-zt-4)
+- [MF DOOM - Deep Fried Frenz Official Audio](https://www.youtube.com/watch?v=BjoULuCVQiw)
+- [MF DOOM - Beef Rapp Official Audio](https://www.youtube.com/watch?v=XvKDFX00tsU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,10 +53,10 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 {{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}<br>
 ### More Videos
 
-- [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
-- [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
-- [The Five Ghosts - Making Of, Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
-- [The Five Ghosts - Making Of, Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
+- [STARS - Fixed Official Music Video](https://www.youtube.com/watch?v=17jdZdVmEuk)
+- [Stars - Dead Hearts Official Video](https://www.youtube.com/watch?v=OQT2HVfxJu4)
+- [The Five Ghosts - Making Of Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
+- [The Five Ghosts - Making Of Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
 - [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 
 ## Release Images

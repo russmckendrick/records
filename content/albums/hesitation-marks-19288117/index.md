@@ -62,13 +62,13 @@ Hesitation Marks received positive reviews from critics, with the new sound attr
 
 
 ## Videos
-### Nine Inch Nails - Hesitation Marks (FULL ALBUM)
-{{< youtube id="4ION42PvS2A" title="Nine Inch Nails - Hesitation Marks (FULL ALBUM)" >}}<br>
+### Nine Inch Nails - Hesitation Marks FULL ALBUM
+{{< youtube id="4ION42PvS2A" title="Nine Inch Nails - Hesitation Marks FULL ALBUM" >}}<br>
 ### More Videos
 
 - [Unboxing Nine Inch Nails - Hesitation Marks 2013 Digibook Deluxe Edition](https://www.youtube.com/watch?v=oO9lfl6TipQ)
 - [Nine Inch Nails - Came Back Haunted](https://www.youtube.com/watch?v=1RN6pT3zL44)
-- [Nine Inch Nails - Copy of a (VEVO Presents)](https://www.youtube.com/watch?v=yA281OuU3rk)
+- [Nine Inch Nails - Copy of a VEVO Presents](https://www.youtube.com/watch?v=yA281OuU3rk)
 
 ## Release Images
 {{< imageGrid >}}

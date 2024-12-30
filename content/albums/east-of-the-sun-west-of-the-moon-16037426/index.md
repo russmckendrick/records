@@ -45,13 +45,13 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 
 ## Videos
-### a-ha - Early Morning (Official Video)
-{{< youtube id="QxfJKBJA89A" title="a-ha - Early Morning (Official Video)" >}}<br>
+### a-ha - Early Morning Official Video
+{{< youtube id="QxfJKBJA89A" title="a-ha - Early Morning Official Video" >}}<br>
 ### More Videos
 
-- [a-ha - I Call Your Name (Official Video)](https://www.youtube.com/watch?v=dksS0ldd-BU)
-- [a-ha - Sycamore Leaves (Official Music Video)](https://www.youtube.com/watch?v=iTjvvfv3R2o)
-- [a-ha - Crying in the Rain (Official Video)](https://www.youtube.com/watch?v=h-WPexVEujg)
+- [a-ha - I Call Your Name Official Video](https://www.youtube.com/watch?v=dksS0ldd-BU)
+- [a-ha - Sycamore Leaves Official Music Video](https://www.youtube.com/watch?v=iTjvvfv3R2o)
+- [a-ha - Crying in the Rain Official Video](https://www.youtube.com/watch?v=h-WPexVEujg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -60,11 +60,11 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 
 
 ## Videos
-### Crowded House - Don't Dream It's Over (Official Video)
-{{< youtube id="J9gKyRmic20" title="Crowded House - Don't Dream It's Over (Official Video)" >}}<br>
+### Crowded House - Dont Dream Its Over Official Video
+{{< youtube id="J9gKyRmic20" title="Crowded House - Dont Dream Its Over Official Video" >}}<br>
 ### More Videos
 
-- [Crowded House - It's Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
+- [Crowded House - Its Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 

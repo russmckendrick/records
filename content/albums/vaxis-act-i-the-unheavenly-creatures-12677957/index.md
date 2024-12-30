@@ -42,8 +42,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Coheed and Cambria: Old Flames [OFFICIAL VIDEO]
-{{< youtube id="SX6Dz0JRifU" title="Coheed and Cambria: Old Flames [OFFICIAL VIDEO]" >}}<br>
+### Coheed and Cambria Old Flames OFFICIAL VIDEO
+{{< youtube id="SX6Dz0JRifU" title="Coheed and Cambria Old Flames OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images

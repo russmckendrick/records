@@ -48,8 +48,8 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 
 
 ## Videos
-### James - Hello (live)
-{{< youtube id="hhOHnCqpmCg" title="James - Hello (live)" >}}<br>
+### James - Hello live
+{{< youtube id="hhOHnCqpmCg" title="James - Hello live" >}}<br>
 ### More Videos
 
 - [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)

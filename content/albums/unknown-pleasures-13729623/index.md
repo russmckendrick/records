@@ -53,19 +53,19 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 
 
 ## Videos
-### Disorder (2007 Remaster)
-{{< youtube id="5BIElTtN6Fs" title="Disorder (2007 Remaster)" >}}<br>
+### Disorder 2007 Remaster
+{{< youtube id="5BIElTtN6Fs" title="Disorder 2007 Remaster" >}}<br>
 ### More Videos
 
-- [Day of the Lords (2007 Remaster)](https://www.youtube.com/watch?v=WhgaY4fuUvo)
-- [Candidate (2007 Remaster)](https://www.youtube.com/watch?v=4yQhvdOJW8M)
-- [Insight (2007 Remaster)](https://www.youtube.com/watch?v=owjTYe4K1hk)
-- [New Dawn Fades (2007 Remaster)](https://www.youtube.com/watch?v=7j5LmyNNsrE)
-- [She's Lost Control (2007 Remaster)](https://www.youtube.com/watch?v=UBAO9WcdrOM)
-- [Shadowplay (2007 Remaster)](https://www.youtube.com/watch?v=Dvgbk4MkHF8)
-- [Wilderness (2007 Remaster)](https://www.youtube.com/watch?v=jd-A18o15y0)
-- [Interzone (2007 Remaster)](https://www.youtube.com/watch?v=WHg4jVrbg60)
-- [I Remember Nothing (2007 Remaster)](https://www.youtube.com/watch?v=NDMxGIyZGgg)
+- [Day of the Lords 2007 Remaster](https://www.youtube.com/watch?v=WhgaY4fuUvo)
+- [Candidate 2007 Remaster](https://www.youtube.com/watch?v=4yQhvdOJW8M)
+- [Insight 2007 Remaster](https://www.youtube.com/watch?v=owjTYe4K1hk)
+- [New Dawn Fades 2007 Remaster](https://www.youtube.com/watch?v=7j5LmyNNsrE)
+- [Shes Lost Control 2007 Remaster](https://www.youtube.com/watch?v=UBAO9WcdrOM)
+- [Shadowplay 2007 Remaster](https://www.youtube.com/watch?v=Dvgbk4MkHF8)
+- [Wilderness 2007 Remaster](https://www.youtube.com/watch?v=jd-A18o15y0)
+- [Interzone 2007 Remaster](https://www.youtube.com/watch?v=WHg4jVrbg60)
+- [I Remember Nothing 2007 Remaster](https://www.youtube.com/watch?v=NDMxGIyZGgg)
 
 ## Release Images
 {{< imageGrid >}}

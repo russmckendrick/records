@@ -76,11 +76,11 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 
 
 ## Videos
-### Depeche Mode - Cover Me (Official Video)
-{{< youtube id="H8t5M9_Tvzk" title="Depeche Mode - Cover Me (Official Video)" >}}<br>
+### Depeche Mode - Cover Me Official Video
+{{< youtube id="H8t5M9_Tvzk" title="Depeche Mode - Cover Me Official Video" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Where's the Revolution (Official Video)](https://www.youtube.com/watch?v=jsCR05oKROA)
+- [Depeche Mode - Wheres the Revolution Official Video](https://www.youtube.com/watch?v=jsCR05oKROA)
 
 ## Release Images
 {{< imageGrid >}}

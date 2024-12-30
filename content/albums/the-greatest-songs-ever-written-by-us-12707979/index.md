@@ -65,11 +65,11 @@ The Greatest Songs Ever Written (By Us) is a greatest hits compilation album rel
 
 
 ## Videos
-### NOFX - Don't Call Me White
-{{< youtube id="4Ik09xFT6mk" title="NOFX - Don't Call Me White" >}}<br>
+### NOFX - Dont Call Me White
+{{< youtube id="4Ik09xFT6mk" title="NOFX - Dont Call Me White" >}}<br>
 ### More Videos
 
-- [NOFX - The Separation of Church & Skate](https://www.youtube.com/watch?v=lRf0LAx0yCE)
+- [NOFX - The Separation of Church  Skate](https://www.youtube.com/watch?v=lRf0LAx0yCE)
 - [NOFX - Murder the Government](https://www.youtube.com/watch?v=WD3lgI9QIV8)
 - [NOFX - The Idiots Are Taking Over](https://www.youtube.com/watch?v=2sNWDfryyMk)
 - [NOFX - Shut Up Already](https://www.youtube.com/watch?v=5mzX98-kL70)
@@ -79,7 +79,7 @@ The Greatest Songs Ever Written (By Us) is a greatest hits compilation album rel
 - [NOFX - Franco Un-American](https://www.youtube.com/watch?v=HXROqc01Kps)
 - [NOFX - Day to Daze](https://www.youtube.com/watch?v=-sD0k-tkwLQ)
 - [NOFX - Stickin in My Eye](https://www.youtube.com/watch?v=LGY-RDRu98U)
-- [NOFX - It's My Job to Keep Punk Rock Elite](https://www.youtube.com/watch?v=tMl26jQtvTM)
+- [NOFX - Its My Job to Keep Punk Rock Elite](https://www.youtube.com/watch?v=tMl26jQtvTM)
 
 ## Release Images
 {{< imageGrid >}}

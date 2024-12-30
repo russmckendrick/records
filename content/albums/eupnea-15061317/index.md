@@ -45,8 +45,8 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 
 
 ## Videos
-### PURE REASON REVOLUTION - Ghosts & Typhoons (OFFICIAL VIDEO)
-{{< youtube id="nIfrCbRkBww" title="PURE REASON REVOLUTION - Ghosts & Typhoons (OFFICIAL VIDEO)" >}}<br>
+### PURE REASON REVOLUTION - Ghosts  Typhoons OFFICIAL VIDEO
+{{< youtube id="nIfrCbRkBww" title="PURE REASON REVOLUTION - Ghosts  Typhoons OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images

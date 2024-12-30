@@ -41,22 +41,22 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Transvision Vamp "Pop Art" + "Velveteen" (The video Singles) VHS
-{{< youtube id="EyYSLqqmZ_k" title="Transvision Vamp "Pop Art" + "Velveteen" (The video Singles) VHS" >}}<br>
+### Transvision Vamp Pop Art  Velveteen The video Singles VHS
+{{< youtube id="EyYSLqqmZ_k" title="Transvision Vamp Pop Art  Velveteen The video Singles VHS" >}}<br>
 ### More Videos
 
-- [Andy Warhol's Dead](https://www.youtube.com/watch?v=toPtvO6QXwk)
+- [Andy Warhols Dead](https://www.youtube.com/watch?v=toPtvO6QXwk)
 - [Trash City](https://www.youtube.com/watch?v=pqAt3HZRyAY)
-- [Andy Warhol's Dead](https://www.youtube.com/watch?v=ozjukVjVjNQ)
-- [Transvision Vamp - ANDY WARHOL'S DEAD](https://www.youtube.com/watch?v=CvpNW-89hk4)
+- [Andy Warhols Dead](https://www.youtube.com/watch?v=ozjukVjVjNQ)
+- [Transvision Vamp - ANDY WARHOLS DEAD](https://www.youtube.com/watch?v=CvpNW-89hk4)
 - [Sex Kick](https://www.youtube.com/watch?v=CGEswhonXMg)
-- [Sister Moon (7" Version)](https://www.youtube.com/watch?v=LeLXrNc13OE)
+- [Sister Moon 7 Version](https://www.youtube.com/watch?v=LeLXrNc13OE)
 - [Sex Kick](https://www.youtube.com/watch?v=WUEwvaQU9eM)
 - [Sister Moon](https://www.youtube.com/watch?v=89ce3aP5TvQ)
 - [Transvision Vamp - WILD STRAR](https://www.youtube.com/watch?v=7B833U7IcwI)
-- [Sister Moon (Groove On)](https://www.youtube.com/watch?v=_8lJ18PspyE)
+- [Sister Moon Groove On](https://www.youtube.com/watch?v=_8lJ18PspyE)
 - [Trash City](https://www.youtube.com/watch?v=tftptvlqPsA)
-- [Andy Warhol's Dead (Andy Kershaw BBC Session)](https://www.youtube.com/watch?v=0Qx1WzFazCI)
+- [Andy Warhols Dead Andy Kershaw BBC Session](https://www.youtube.com/watch?v=0Qx1WzFazCI)
 - [Revolution Baby](https://www.youtube.com/watch?v=xsv5dhQALAs)
 
 ## Release Images

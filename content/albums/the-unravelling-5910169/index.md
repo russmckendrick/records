@@ -42,11 +42,11 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Knifeworld- Don't Land On Me
-{{< youtube id="8PX5KKQqN-c" title="Knifeworld- Don't Land On Me" >}}<br>
+### Knifeworld- Dont Land On Me
+{{< youtube id="8PX5KKQqN-c" title="Knifeworld- Dont Land On Me" >}}<br>
 ### More Videos
 
-- [Knifeworld- Don't Land On Me](https://www.youtube.com/watch?v=8PX5KKQqN-c)
+- [Knifeworld- Dont Land On Me](https://www.youtube.com/watch?v=8PX5KKQqN-c)
 
 ## Release Images
 {{< imageGrid >}}

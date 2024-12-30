@@ -53,12 +53,12 @@ Combat Rock is the last Clash album featuring the band's classic lineup. Topper 
 
 
 ## Videos
-### The Clash - Overpowered by Funk (Remastered)
-{{< youtube id="9LyTWtjYHHA" title="The Clash - Overpowered by Funk (Remastered)" >}}<br>
+### The Clash - Overpowered by Funk Remastered
+{{< youtube id="9LyTWtjYHHA" title="The Clash - Overpowered by Funk Remastered" >}}<br>
 ### More Videos
 
-- [The Clash - Rock the Casbah (Official Video)](https://www.youtube.com/watch?v=bJ9r8LMU9bQ)
-- [The Clash - Should I Stay or Should I Go (Official Video)](https://www.youtube.com/watch?v=xMaE6toi4mk)
+- [The Clash - Rock the Casbah Official Video](https://www.youtube.com/watch?v=bJ9r8LMU9bQ)
+- [The Clash - Should I Stay or Should I Go Official Video](https://www.youtube.com/watch?v=xMaE6toi4mk)
 
 ## Release Images
 {{< imageGrid >}}

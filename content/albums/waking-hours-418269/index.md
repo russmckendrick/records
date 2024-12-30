@@ -46,8 +46,8 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 
 
 ## Videos
-### Del Amitri - Nothing ever happens (James Whale show)
-{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens (James Whale show)" >}}<br>
+### Del Amitri - Nothing ever happens James Whale show
+{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens James Whale show" >}}<br>
 ### More Videos
 
 - [Del Amitri - Kiss This Thing Goodbye](https://www.youtube.com/watch?v=Ify_f6XoqMU)

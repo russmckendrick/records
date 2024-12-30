@@ -45,21 +45,21 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Lush - Light From A Dead Star  [2023 Remaster] (Official Visualiser)
-{{< youtube id="q3eMtIIf98U" title="Lush - Light From A Dead Star  [2023 Remaster] (Official Visualiser)" >}}<br>
+### Lush - Light From A Dead Star  2023 Remaster Official Visualiser
+{{< youtube id="q3eMtIIf98U" title="Lush - Light From A Dead Star  2023 Remaster Official Visualiser" >}}<br>
 ### More Videos
 
-- [Lush - Desire Lines (Official Video)](https://www.youtube.com/watch?v=1ccElDZUTpQ)
-- [Lush - Hypocrite (Official Video)](https://www.youtube.com/watch?v=qGVzyby5kcU)
-- [Lush - Lit Up  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=V33YbgQxNZE)
-- [Lush - Lovelife  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=1rfgcjT_tCw)
-- [Lush - Kiss Chase  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=qaiMZjG6Pyk)
-- [Lush - Blackout  [2023 Remaster] (Official Audio)](https://www.youtube.com/watch?v=UsxrkT0EHGE)
-- [Lush - Hypocrite  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=L_IxLGDa4oE)
-- [Lush - The Invisible Man  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=a9uHLk9PyVY)
-- [Lush - Undertow  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=osB980jn5PY)
-- [Lush - Starlust  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=of5jv8VNPxA)
-- [Lush - When I Die  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=u85wJsfkLmk)
+- [Lush - Desire Lines Official Video](https://www.youtube.com/watch?v=1ccElDZUTpQ)
+- [Lush - Hypocrite Official Video](https://www.youtube.com/watch?v=qGVzyby5kcU)
+- [Lush - Lit Up  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=V33YbgQxNZE)
+- [Lush - Lovelife  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=1rfgcjT_tCw)
+- [Lush - Kiss Chase  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=qaiMZjG6Pyk)
+- [Lush - Blackout  2023 Remaster Official Audio](https://www.youtube.com/watch?v=UsxrkT0EHGE)
+- [Lush - Hypocrite  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=L_IxLGDa4oE)
+- [Lush - The Invisible Man  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=a9uHLk9PyVY)
+- [Lush - Undertow  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=osB980jn5PY)
+- [Lush - Starlust  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=of5jv8VNPxA)
+- [Lush - When I Die  2023 Remaster Official Visualiser](https://www.youtube.com/watch?v=u85wJsfkLmk)
 
 ## Release Images
 {{< imageGrid >}}

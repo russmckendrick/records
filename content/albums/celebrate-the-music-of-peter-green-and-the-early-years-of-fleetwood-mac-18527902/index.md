@@ -73,26 +73,26 @@ The album reached the album charts in several countries upon its release, includ
 
 
 ## Videos
-### Mick Fleetwood And Friends - The Green Manalishi (With The Two Prong Crown) (Official Video)
-{{< youtube id="rt8zGoEmGrk" title="Mick Fleetwood And Friends - The Green Manalishi (With The Two Prong Crown) (Official Video)" >}}<br>
+### Mick Fleetwood And Friends - The Green Manalishi With The Two Prong Crown Official Video
+{{< youtube id="rt8zGoEmGrk" title="Mick Fleetwood And Friends - The Green Manalishi With The Two Prong Crown Official Video" >}}<br>
 ### More Videos
 
-- [Mick Fleetwood And Friends - Oh Well, Pt. 1 (Official Video)](https://www.youtube.com/watch?v=wrvK-q8Q2XY)
-- [Mick Fleetwood And Friends - Albatross (Official Video)](https://www.youtube.com/watch?v=xPJZygFYTKI)
-- [Mick Fleetwood And Friends - Stop Messin' Round (Official Video)](https://www.youtube.com/watch?v=KL8L-t8VLqE)
+- [Mick Fleetwood And Friends - Oh Well Pt 1 Official Video](https://www.youtube.com/watch?v=wrvK-q8Q2XY)
+- [Mick Fleetwood And Friends - Albatross Official Video](https://www.youtube.com/watch?v=xPJZygFYTKI)
+- [Mick Fleetwood And Friends - Stop Messin Round Official Video](https://www.youtube.com/watch?v=KL8L-t8VLqE)
 - [Mick Fleetwood And Friends - Official Trailer](https://www.youtube.com/watch?v=eqUaoL-zKRg)
-- [Mick Fleetwood And Friends - The World Keep On Turning (Official Video)](https://www.youtube.com/watch?v=bioql-_-v-0)
-- [The Sky Is Crying (with Jeremy Spencer, Bill Wyman) (Live from The London Palladium)](https://www.youtube.com/watch?v=MQhNLMpWE_s)
-- [Station Man (with Pete Townshend) (Live from The London Palladium)](https://www.youtube.com/watch?v=nH5wXNHKCRg)
-- [All Your Love (with John Mayall) (Live from The London Palladium)](https://www.youtube.com/watch?v=l9eV__tbM3Q)
-- [Mick Fleetwood And Friends - Rattlesnake Shake (Official Video)](https://www.youtube.com/watch?v=Z7xbZhD4sPA)
-- [Oh Well, Pt. 1 (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)](https://www.youtube.com/watch?v=MQ_1lSvGAzw)
-- [Oh Well, Pt. 2 (with David Gilmour) (Live from The London Palladium)](https://www.youtube.com/watch?v=n3KFI-x7Qhc)
-- [Looking for Somebody (with Christine McVie) (Live from The London Palladium)](https://www.youtube.com/watch?v=aMdbKLm_LhI)
-- [Sandy Mary (with Jonny Lang) (Live from The London Palladium)](https://www.youtube.com/watch?v=0YqRL0NkALk)
-- [Like Crying (with Noel Gallagher) (Live from The London Palladium)](https://www.youtube.com/watch?v=nteRiOW2SS0)
-- [I Can't Hold Out (with Jeremy Spencer, Bill Wyman) (Live from The London Palladium)](https://www.youtube.com/watch?v=QBjpmJ1p6aY)
-- [Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more](https://www.youtube.com/watch?v=clf-JWLd8_Y)
+- [Mick Fleetwood And Friends - The World Keep On Turning Official Video](https://www.youtube.com/watch?v=bioql-_-v-0)
+- [The Sky Is Crying with Jeremy Spencer Bill Wyman Live from The London Palladium](https://www.youtube.com/watch?v=MQhNLMpWE_s)
+- [Station Man with Pete Townshend Live from The London Palladium](https://www.youtube.com/watch?v=nH5wXNHKCRg)
+- [All Your Love with John Mayall Live from The London Palladium](https://www.youtube.com/watch?v=l9eV__tbM3Q)
+- [Mick Fleetwood And Friends - Rattlesnake Shake Official Video](https://www.youtube.com/watch?v=Z7xbZhD4sPA)
+- [Oh Well Pt 1 with Steven Tyler Billy Gibbons Live from The London Palladium](https://www.youtube.com/watch?v=MQ_1lSvGAzw)
+- [Oh Well Pt 2 with David Gilmour Live from The London Palladium](https://www.youtube.com/watch?v=n3KFI-x7Qhc)
+- [Looking for Somebody with Christine McVie Live from The London Palladium](https://www.youtube.com/watch?v=aMdbKLm_LhI)
+- [Sandy Mary with Jonny Lang Live from The London Palladium](https://www.youtube.com/watch?v=0YqRL0NkALk)
+- [Like Crying with Noel Gallagher Live from The London Palladium](https://www.youtube.com/watch?v=nteRiOW2SS0)
+- [I Cant Hold Out with Jeremy Spencer Bill Wyman Live from The London Palladium](https://www.youtube.com/watch?v=QBjpmJ1p6aY)
+- [Mick Fleetwood  friends celebrate the music of Peter Green  Vinyl unboxing and more](https://www.youtube.com/watch?v=clf-JWLd8_Y)
 
 ## Release Images
 {{< imageGrid >}}

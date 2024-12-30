@@ -46,16 +46,16 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### VOYAGER - "Colours in the Sun" - FULL ALBUM STREAM! [Official]
-{{< youtube id="eyFCWhywrqM" title="VOYAGER - "Colours in the Sun" - FULL ALBUM STREAM! [Official]" >}}<br>
+### VOYAGER - Colours in the Sun - FULL ALBUM STREAM Official
+{{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM Official" >}}<br>
 ### More Videos
 
-- [Voyager - Brightstar (Official Music Video)](https://www.youtube.com/watch?v=NDoITQV7324)
-- [PREMIERE: Voyager - 'Entropy' Featuring Einar Solberg - [Official Music Video] | Metal Hammer](https://www.youtube.com/watch?v=6MxQX3Mzdm0)
-- [VOYAGER – Sign of the Times [official audio]](https://www.youtube.com/watch?v=jy-JnAuDP2U)
-- [Voyager - Colours [Official Music Video]](https://www.youtube.com/watch?v=reFRCJzHN8I)
-- [VOYAGER – Severomance [official audio]](https://www.youtube.com/watch?v=jPkaA-_EtQQ)
-- [VOYAGER – Saccharine Dream [official audio]](https://www.youtube.com/watch?v=EKqZnyra1Eo)
+- [Voyager - Brightstar Official Music Video](https://www.youtube.com/watch?v=NDoITQV7324)
+- [PREMIERE Voyager - Entropy Featuring Einar Solberg - Official Music Video  Metal Hammer](https://www.youtube.com/watch?v=6MxQX3Mzdm0)
+- [VOYAGER  Sign of the Times official audio](https://www.youtube.com/watch?v=jy-JnAuDP2U)
+- [Voyager - Colours Official Music Video](https://www.youtube.com/watch?v=reFRCJzHN8I)
+- [VOYAGER  Severomance official audio](https://www.youtube.com/watch?v=jPkaA-_EtQQ)
+- [VOYAGER  Saccharine Dream official audio](https://www.youtube.com/watch?v=EKqZnyra1Eo)
 
 ## Release Images
 {{< imageGrid >}}

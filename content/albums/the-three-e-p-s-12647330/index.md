@@ -70,18 +70,18 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 
 
 ## Videos
-### Dry The Rain (Remaster)
-{{< youtube id="6XKvbROUmNk" title="Dry The Rain (Remaster)" >}}<br>
+### Dry The Rain Remaster
+{{< youtube id="6XKvbROUmNk" title="Dry The Rain Remaster" >}}<br>
 ### More Videos
 
-- [I Know (Remaster)](https://www.youtube.com/watch?v=3LmCqpEJdI8)
-- [B + A (Remaster)](https://www.youtube.com/watch?v=vuBCId0eics)
-- [Dogs Got a Bone (Remaster)](https://www.youtube.com/watch?v=NGQcC9LE1i8)
-- [Inner Meet Me (Remaster)](https://www.youtube.com/watch?v=Abzt4cFprM4)
-- [The House Song (Remaster)](https://www.youtube.com/watch?v=IP0fjwj18-Q)
-- [The Monolith (Remaster)](https://www.youtube.com/watch?v=-Wle35U34_o)
-- [She's the One (Remaster)](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
-- [The Beta Band - Los Amigos Del Beta Bandidos E.P. (Official Music Videos)](https://www.youtube.com/watch?v=uaz3BW_FeZE)
+- [I Know Remaster](https://www.youtube.com/watch?v=3LmCqpEJdI8)
+- [B  A Remaster](https://www.youtube.com/watch?v=vuBCId0eics)
+- [Dogs Got a Bone Remaster](https://www.youtube.com/watch?v=NGQcC9LE1i8)
+- [Inner Meet Me Remaster](https://www.youtube.com/watch?v=Abzt4cFprM4)
+- [The House Song Remaster](https://www.youtube.com/watch?v=IP0fjwj18-Q)
+- [The Monolith Remaster](https://www.youtube.com/watch?v=-Wle35U34_o)
+- [Shes the One Remaster](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
+- [The Beta Band - Los Amigos Del Beta Bandidos EP Official Music Videos](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
 ## Release Images
 {{< imageGrid >}}

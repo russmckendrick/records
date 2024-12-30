@@ -38,11 +38,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK
-{{< youtube id="VRKZbSH7Dmo" title="TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK" >}}<br>
+### TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK
+{{< youtube id="VRKZbSH7Dmo" title="TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK" >}}<br>
 ### More Videos
 
-- [TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK](https://www.youtube.com/watch?v=VRKZbSH7Dmo)
+- [TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK](https://www.youtube.com/watch?v=VRKZbSH7Dmo)
 
 ## Release Images
 {{< imageGrid >}}

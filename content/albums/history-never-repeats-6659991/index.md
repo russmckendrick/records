@@ -38,16 +38,16 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 
 
 ## Videos
-### Split Enz - History Never Repeats (Official Video)
-{{< youtube id="xXrWTFvnqKI" title="Split Enz - History Never Repeats (Official Video)" >}}<br>
+### Split Enz - History Never Repeats Official Video
+{{< youtube id="xXrWTFvnqKI" title="Split Enz - History Never Repeats Official Video" >}}<br>
 ### More Videos
 
 - [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
 - [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=vFp4axRBag8)
-- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - What's The Matter With You (good quality)](https://www.youtube.com/watch?v=PcdAU0RlmZY)
-- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - Whats The Matter With You good quality](https://www.youtube.com/watch?v=PcdAU0RlmZY)
+- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
 - [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
 
 ## Release Images

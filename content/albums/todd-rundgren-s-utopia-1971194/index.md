@@ -39,15 +39,15 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 
 
 ## Videos
-### UTOPIA - Todd Rundgren's Utopia -- 1974
-{{< youtube id="CO0aqSBTVJk" title="UTOPIA - Todd Rundgren's Utopia -- 1974" >}}<br>
+### UTOPIA - Todd Rundgrens Utopia -- 1974
+{{< youtube id="CO0aqSBTVJk" title="UTOPIA - Todd Rundgrens Utopia -- 1974" >}}<br>
 ### More Videos
 
-- [UTOPIA - Todd Rundgren's Utopia -- 1974](https://www.youtube.com/watch?v=CO0aqSBTVJk)
-- [Utopia – Freedom Fighters....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=sY-zJvaOtnE)
-- [UTOPIA - Todd Rundgren's ---- 1974 --Promo](https://www.youtube.com/watch?v=YvoQKl00j1g)
-- [Todd Rundgren's Utopia - Freedom Fighters](https://www.youtube.com/watch?v=ZNHXQLWIpK4)
-- [Utopia - The Ikon [Full Song]](https://www.youtube.com/watch?v=SCrkk1FsFAw)
+- [UTOPIA - Todd Rundgrens Utopia -- 1974](https://www.youtube.com/watch?v=CO0aqSBTVJk)
+- [Utopia  Freedom Fightersyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=sY-zJvaOtnE)
+- [UTOPIA - Todd Rundgrens ---- 1974 --Promo](https://www.youtube.com/watch?v=YvoQKl00j1g)
+- [Todd Rundgrens Utopia - Freedom Fighters](https://www.youtube.com/watch?v=ZNHXQLWIpK4)
+- [Utopia - The Ikon Full Song](https://www.youtube.com/watch?v=SCrkk1FsFAw)
 
 ## Release Images
 {{< imageGrid >}}

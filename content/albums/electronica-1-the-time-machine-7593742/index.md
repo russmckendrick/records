@@ -61,23 +61,23 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 
 
 ## Videos
-### Jean-Michel Jarre, M83 - Glory
-{{< youtube id="NF7OoJZPLJc" title="Jean-Michel Jarre, M83 - Glory" >}}<br>
+### Jean-Michel Jarre M83 - Glory
+{{< youtube id="NF7OoJZPLJc" title="Jean-Michel Jarre M83 - Glory" >}}<br>
 ### More Videos
 
-- [Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 1 (Audio Video)](https://www.youtube.com/watch?v=NxV0OWna09U)
-- [Jean-Michel Jarre, Armin van Buuren - Stardust (Audio)](https://www.youtube.com/watch?v=pRwYx8w1clk)
-- [Jean-Michel Jarre, Tangerine Dream - Zero Gravity (Audio Video)](https://www.youtube.com/watch?v=L7MHhLYecT0)
-- [Jean-Michel Jarre, Vincent Clarke - Automatic, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=hhcveYXKZTY)
-- [Jean-Michel Jarre - Electronica Volume 1 (Official Trailer)](https://www.youtube.com/watch?v=sw02ZVo4ea4)
-- [Jean-Michel Jarre & M83 - Glory (Steve Angello Remix) [Cover Art]](https://www.youtube.com/watch?v=ogmdkV3b0Yg)
-- [Jean-Michel Jarre, John Carpenter - A Question of Blood (Audio Video)](https://www.youtube.com/watch?v=nVLUXBKFRGs)
-- [Jean-Michel Jarre, Boys Noize - The Time Machine (Audio Video)](https://www.youtube.com/watch?v=xjrCDAXg1Bw)
-- [Jean-Michel Jarre | Deezer Close Up](https://www.youtube.com/watch?v=pDj9t4Uf8Q0)
+- [Jean-Michel Jarre Vincent Clarke - Automatic Pt 1 Audio Video](https://www.youtube.com/watch?v=NxV0OWna09U)
+- [Jean-Michel Jarre Armin van Buuren - Stardust Audio](https://www.youtube.com/watch?v=pRwYx8w1clk)
+- [Jean-Michel Jarre Tangerine Dream - Zero Gravity Audio Video](https://www.youtube.com/watch?v=L7MHhLYecT0)
+- [Jean-Michel Jarre Vincent Clarke - Automatic Pt 2 Audio Video](https://www.youtube.com/watch?v=hhcveYXKZTY)
+- [Jean-Michel Jarre - Electronica Volume 1 Official Trailer](https://www.youtube.com/watch?v=sw02ZVo4ea4)
+- [Jean-Michel Jarre  M83 - Glory Steve Angello Remix Cover Art](https://www.youtube.com/watch?v=ogmdkV3b0Yg)
+- [Jean-Michel Jarre John Carpenter - A Question of Blood Audio Video](https://www.youtube.com/watch?v=nVLUXBKFRGs)
+- [Jean-Michel Jarre Boys Noize - The Time Machine Audio Video](https://www.youtube.com/watch?v=xjrCDAXg1Bw)
+- [Jean-Michel Jarre  Deezer Close Up](https://www.youtube.com/watch?v=pDj9t4Uf8Q0)
 - [A Question Of Blood](https://www.youtube.com/watch?v=2qSaeRMK0mk)
-- [Jean-Michel Jarre, Pete Townshend - Travelator, Pt. 2 (Audio Video)](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
-- [Jean-Michel Jarre, M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
-- [Jean-Michel Jarre, Air - Close Your Eyes (Audio Video)](https://www.youtube.com/watch?v=aI6kxtQ1sgY)
+- [Jean-Michel Jarre Pete Townshend - Travelator Pt 2 Audio Video](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
+- [Jean-Michel Jarre M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
+- [Jean-Michel Jarre Air - Close Your Eyes Audio Video](https://www.youtube.com/watch?v=aI6kxtQ1sgY)
 
 ## Release Images
 {{< imageGrid >}}

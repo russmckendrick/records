@@ -59,8 +59,8 @@ In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the U
 
 
 ## Videos
-### Speed King (1995 Remaster)
-{{< youtube id="W_jfHvcAXRY" title="Speed King (1995 Remaster)" >}}<br>
+### Speed King 1995 Remaster
+{{< youtube id="W_jfHvcAXRY" title="Speed King 1995 Remaster" >}}<br>
 ### More Videos
 
 - [Deep Purple - Deep Purple in Rock Full Album](https://www.youtube.com/watch?v=RBaWNoo1ALA)

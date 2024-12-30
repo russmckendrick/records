@@ -48,27 +48,27 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 
 
 ## Videos
-### Paris Angels - Eternity (1991)
-{{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity (1991)" >}}<br>
+### Paris Angels - Eternity 1991
+{{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity 1991" >}}<br>
 ### More Videos
 
 - [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
 - [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
-- [Paris Angels - Slippery Man (1991)](https://www.youtube.com/watch?v=YcoIGguMLmw)
+- [Paris Angels - Slippery Man 1991](https://www.youtube.com/watch?v=YcoIGguMLmw)
 - [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
-- [Paris Angels - Perfume (Loved up) (audio only)](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
+- [Paris Angels - Perfume Loved up audio only](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
 - [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)
-- [Paris Angels - Chaos (Stupid Stupid)](https://www.youtube.com/watch?v=5nP9We7LcxA)
-- [Paris Angels - Purest Values (Audio)](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
-- [Paris Angels - Eternity (1991)](https://www.youtube.com/watch?v=XVyHvWFRlCo)
+- [Paris Angels - Chaos Stupid Stupid](https://www.youtube.com/watch?v=5nP9We7LcxA)
+- [Paris Angels - Purest Values Audio](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
+- [Paris Angels - Eternity 1991](https://www.youtube.com/watch?v=XVyHvWFRlCo)
 - [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
 - [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
-- [Paris Angels - Slippery Man (1991)](https://www.youtube.com/watch?v=YcoIGguMLmw)
+- [Paris Angels - Slippery Man 1991](https://www.youtube.com/watch?v=YcoIGguMLmw)
 - [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
-- [Paris Angels - Perfume (Loved up) (audio only)](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
+- [Paris Angels - Perfume Loved up audio only](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
 - [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)
-- [Paris Angels - Chaos (Stupid Stupid)](https://www.youtube.com/watch?v=5nP9We7LcxA)
-- [Paris Angels - Purest Values (Audio)](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
+- [Paris Angels - Chaos Stupid Stupid](https://www.youtube.com/watch?v=5nP9We7LcxA)
+- [Paris Angels - Purest Values Audio](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
 
 ## Release Images
 {{< imageGrid >}}

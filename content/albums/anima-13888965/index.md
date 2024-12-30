@@ -66,7 +66,7 @@ Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they
 {{< youtube id="CNjPTfQTM4E" title="Traffic" >}}<br>
 ### More Videos
 
-- [Thom Yorke - Last I Heard (…He Was Circling The Drain)](https://www.youtube.com/watch?v=I03xFqbxUp8)
+- [Thom Yorke - Last I Heard He Was Circling The Drain](https://www.youtube.com/watch?v=I03xFqbxUp8)
 - [Twist](https://www.youtube.com/watch?v=KeHaiLbM_3Y)
 - [Dawn Chorus](https://www.youtube.com/watch?v=F1TiN-dBSxY)
 - [I Am a Very Rude Person](https://www.youtube.com/watch?v=pvHKpU5e45k)

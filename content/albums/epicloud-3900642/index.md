@@ -116,13 +116,13 @@ Epicloud is the fifteenth studio album by Canadian musician Devin Townsend, and 
 
 
 ## Videos
-### EPICLOUD LISTENING PARTY!
-{{< youtube id="FLbJ72wgXcE" title="EPICLOUD LISTENING PARTY!" >}}<br>
+### EPICLOUD LISTENING PARTY
+{{< youtube id="FLbJ72wgXcE" title="EPICLOUD LISTENING PARTY" >}}<br>
 ### More Videos
 
-- [Devin Townsend LUCKY ANIMALS (Unofficial Video) =]](https://www.youtube.com/watch?v=UvmIByrcwAQ)
-- [DEVIN TOWNSEND PROJECT - Lucky Animals (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=V7xi6Yt36u8)
-- [EPICLOUD LISTENING PARTY!](https://www.youtube.com/watch?v=FLbJ72wgXcE)
+- [Devin Townsend LUCKY ANIMALS Unofficial Video ](https://www.youtube.com/watch?v=UvmIByrcwAQ)
+- [DEVIN TOWNSEND PROJECT - Lucky Animals OFFICIAL VIDEO](https://www.youtube.com/watch?v=V7xi6Yt36u8)
+- [EPICLOUD LISTENING PARTY](https://www.youtube.com/watch?v=FLbJ72wgXcE)
 - [Devin Townsend Project - Save our Now](https://www.youtube.com/watch?v=wTDagfTQ1Ks)
 
 ## Release Images

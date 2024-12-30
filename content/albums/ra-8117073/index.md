@@ -46,14 +46,14 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 
 
 ## Videos
-### Utopia – Magic Dragon Theatre...yerdenizplak.com İstanbul Kadıköy
-{{< youtube id="dOVDB-ktszg" title="Utopia – Magic Dragon Theatre...yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### Utopia  Magic Dragon Theatreyerdenizplakcom İstanbul Kadıköy
+{{< youtube id="dOVDB-ktszg" title="Utopia  Magic Dragon Theatreyerdenizplakcom İstanbul Kadıköy" >}}<br>
 ### More Videos
 
 - [Communion With The Sun](https://www.youtube.com/watch?v=2bSaJ1KqqMA)
-- [TODD RUNDGREN / UTOPIA - RA 8 TRACK TAPE (ALTERNATE MIXES)](https://www.youtube.com/watch?v=zcpSYWL_Bn0)
-- [Overture: Mountaintop and Sunrise / Communion with the Sun](https://www.youtube.com/watch?v=bSr22WYcZtY)
-- [Singring and the Glass Guitar (An Electrified)](https://www.youtube.com/watch?v=gWbdfrY210M)
+- [TODD RUNDGREN  UTOPIA - RA 8 TRACK TAPE ALTERNATE MIXES](https://www.youtube.com/watch?v=zcpSYWL_Bn0)
+- [Overture Mountaintop and Sunrise  Communion with the Sun](https://www.youtube.com/watch?v=bSr22WYcZtY)
+- [Singring and the Glass Guitar An Electrified](https://www.youtube.com/watch?v=gWbdfrY210M)
 - [Hiroshima](https://www.youtube.com/watch?v=9SmkTjw_2Yg)
 - [TODD RUNDGREN - UTOPIA - RA - DELUXE EDITION](https://www.youtube.com/watch?v=0Gdrh3qu8SQ)
 

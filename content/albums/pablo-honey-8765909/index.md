@@ -57,8 +57,8 @@ There are, however, whiffs of what Radiohead would soon become. A surprise world
 
 
 ## Videos
-### Radiohead - Creep (Best live performance)
-{{< youtube id="US0CUegPr3g" title="Radiohead - Creep (Best live performance)" >}}<br>
+### Radiohead - Creep Best live performance
+{{< youtube id="US0CUegPr3g" title="Radiohead - Creep Best live performance" >}}<br>
 ### More Videos
 
 - [Radiohead - Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)

@@ -53,15 +53,15 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 
 
 ## Videos
-### Lost in the dream | Full album
-{{< youtube id="Lq_vlKanDKY" title="Lost in the dream | Full album" >}}<br>
+### Lost in the dream  Full album
+{{< youtube id="Lq_vlKanDKY" title="Lost in the dream  Full album" >}}<br>
 ### More Videos
 
-- [The War on Drugs - Lost In The Dream (Lyrics)](https://www.youtube.com/watch?v=w0DXBwuw9BY)
+- [The War on Drugs - Lost In The Dream Lyrics](https://www.youtube.com/watch?v=w0DXBwuw9BY)
 - [An Ocean In Between The Waves](https://www.youtube.com/watch?v=BijxWQluXE0)
-- [The War on Drugs - Under The Pressure (Official Video)](https://www.youtube.com/watch?v=vkLOg252KRE)
-- [The War on Drugs - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=jbzV2Y06G-E)
-- [The War on Drugs - *Lost in the Dream World Tour* Full Concert - HD](https://www.youtube.com/watch?v=QKRenQ2tEmo)
+- [The War on Drugs - Under The Pressure Official Video](https://www.youtube.com/watch?v=vkLOg252KRE)
+- [The War on Drugs - Full Performance Live on KEXP](https://www.youtube.com/watch?v=jbzV2Y06G-E)
+- [The War on Drugs - Lost in the Dream World Tour Full Concert - HD](https://www.youtube.com/watch?v=QKRenQ2tEmo)
 
 ## Release Images
 {{< imageGrid >}}

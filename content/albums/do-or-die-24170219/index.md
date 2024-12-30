@@ -49,11 +49,11 @@ Do or Die is the debut studio album by the Celtic punk band Dropkick Murphys. It
 
 
 ## Videos
-### Dropkick Murphys - "Fightstarter Karaoke" (Full Album Stream)
-{{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - "Fightstarter Karaoke" (Full Album Stream)" >}}<br>
+### Dropkick Murphys - Fightstarter Karaoke Full Album Stream
+{{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke Full Album Stream" >}}<br>
 ### More Videos
 
-- [Dropkick Murphys - "Never Alone" (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
+- [Dropkick Murphys - Never Alone Full Album Stream](https://www.youtube.com/watch?v=H5BnIDiTakg)
 
 ## Release Images
 {{< imageGrid >}}

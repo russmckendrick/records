@@ -43,19 +43,19 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 
 
 ## Videos
-### Thank You Scientist - Mr. Invisible
-{{< youtube id="dv1ypynSLzY" title="Thank You Scientist - Mr. Invisible" >}}<br>
+### Thank You Scientist - Mr Invisible
+{{< youtube id="dv1ypynSLzY" title="Thank You Scientist - Mr Invisible" >}}<br>
 ### More Videos
 
-- [Thank You Scientist - "The Amateur Arsonist's Handbook"](https://www.youtube.com/watch?v=B97Ifr9pPy4)
-- [Thank You Scientist - The Somnambulist (AUDIO ONLY)](https://www.youtube.com/watch?v=Ip9Edh6pwkM)
-- [Thank You Scientist - Prologue... A Faint Applause (AUDIO ONLY)](https://www.youtube.com/watch?v=OIwNiP0BeRc)
-- [Thank You Scientist - Psychopomp (AUDIO ONLY)](https://www.youtube.com/watch?v=LK8JgjNxumo)
+- [Thank You Scientist - The Amateur Arsonists Handbook](https://www.youtube.com/watch?v=B97Ifr9pPy4)
+- [Thank You Scientist - The Somnambulist AUDIO ONLY](https://www.youtube.com/watch?v=Ip9Edh6pwkM)
+- [Thank You Scientist - Prologue A Faint Applause AUDIO ONLY](https://www.youtube.com/watch?v=OIwNiP0BeRc)
+- [Thank You Scientist - Psychopomp AUDIO ONLY](https://www.youtube.com/watch?v=LK8JgjNxumo)
 - [A Wolf in Cheap Clothing](https://www.youtube.com/watch?v=T9PpxCshuC0)
-- [Thank You Scientist ¨Psychopomp¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=AC_kliYTiTc)
-- [Thank You Scientist ¨Mr. Invisible¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=WL2IgxzWgUE)
-- [Thank You Scientist ¨Caverns¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=DN6sJ0WYwlw)
-- [Thank You Scientist ¨Rube Goldberg Variations¨ from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=f54m5AUEuzc)
+- [Thank You Scientist Psychopomp from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=AC_kliYTiTc)
+- [Thank You Scientist Mr Invisible from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=WL2IgxzWgUE)
+- [Thank You Scientist Caverns from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=DN6sJ0WYwlw)
+- [Thank You Scientist Rube Goldberg Variations from Stranger Heads Prevail Green Vinyl](https://www.youtube.com/watch?v=f54m5AUEuzc)
 
 ## Release Images
 {{< imageGrid >}}

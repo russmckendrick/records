@@ -39,12 +39,12 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 
 
 ## Videos
-### Hortz fur dëhn stëkëhn west (2017 Remastered Version)
-{{< youtube id="9OjWBjvpr4s" title="Hortz fur dëhn stëkëhn west (2017 Remastered Version)" >}}<br>
+### Hortz fur dëhn stëkëhn west 2017 Remastered Version
+{{< youtube id="9OjWBjvpr4s" title="Hortz fur dëhn stëkëhn west 2017 Remastered Version" >}}<br>
 ### More Videos
 
-- [Mëkanïk kömmandöh (2017 Remastered Version)](https://www.youtube.com/watch?v=wy8LdQyQK_k)
-- [MAGMA - Mekanïk Destruktïw Kommandöh 1973 French Prog Rock Full album (Full Album)](https://www.youtube.com/watch?v=bplBJrm7peQ)
+- [Mëkanïk kömmandöh 2017 Remastered Version](https://www.youtube.com/watch?v=wy8LdQyQK_k)
+- [MAGMA - Mekanïk Destruktïw Kommandöh 1973 French Prog Rock Full album Full Album](https://www.youtube.com/watch?v=bplBJrm7peQ)
 
 ## Release Images
 {{< imageGrid >}}

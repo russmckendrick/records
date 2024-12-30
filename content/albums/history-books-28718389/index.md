@@ -49,12 +49,12 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 
 
 ## Videos
-### The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video
-{{< youtube id="gyUgfrCegOs" title="The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video" >}}<br>
+### The Gaslight Anthem - History Books ft Bruce Springsteen - Official Video
+{{< youtube id="gyUgfrCegOs" title="The Gaslight Anthem - History Books ft Bruce Springsteen - Official Video" >}}<br>
 ### More Videos
 
-- [The Gaslight Anthem - Positive Charge (Official Video)](https://www.youtube.com/watch?v=Rymbk5I_WlA)
-- [Michigan, 1975](https://www.youtube.com/watch?v=78RtVG0EdEE)
+- [The Gaslight Anthem - Positive Charge Official Video](https://www.youtube.com/watch?v=Rymbk5I_WlA)
+- [Michigan 1975](https://www.youtube.com/watch?v=78RtVG0EdEE)
 - [A Lifetime Of Preludes](https://www.youtube.com/watch?v=jcAjw049hQs)
 - [Empires](https://www.youtube.com/watch?v=o5VGuZbfi9A)
 - [The Weatherman](https://www.youtube.com/watch?v=wrrL_NhCBqs)

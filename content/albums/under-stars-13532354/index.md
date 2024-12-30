@@ -59,11 +59,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album
-{{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album" >}}<br>
+### Lonely Robot - Under Stars 2019 Crossover Prog Full Album
+{{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars 2019 Crossover Prog Full Album" >}}<br>
 ### More Videos
 
-- [Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album](https://www.youtube.com/watch?v=18eelBDtYSg)
+- [Lonely Robot - Under Stars 2019 Crossover Prog Full Album](https://www.youtube.com/watch?v=18eelBDtYSg)
 
 ## Release Images
 {{< imageGrid >}}

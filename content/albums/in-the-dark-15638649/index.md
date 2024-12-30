@@ -47,11 +47,11 @@ In the Dark is the second international album release by the reggae singing grou
 {{< youtube id="PRba7rK0Q-Q" title="Toots And The Maytals - Time Tough" >}}<br>
 ### More Videos
 
-- [Toots & The Maytals - Take Me Home, Country Roads (1972)](https://www.youtube.com/watch?v=0pDzLHzbx-8)
-- [Toots And Maytals - Revolution, Dragon Records-1974](https://www.youtube.com/watch?v=ArBiLhVX4Ro)
+- [Toots  The Maytals - Take Me Home Country Roads 1972](https://www.youtube.com/watch?v=0pDzLHzbx-8)
+- [Toots And Maytals - Revolution Dragon Records-1974](https://www.youtube.com/watch?v=ArBiLhVX4Ro)
 - [54-46 Was My Number](https://www.youtube.com/watch?v=wNxNwvjzGM0)
-- [Toots & The Maytals - Got To Be There](https://www.youtube.com/watch?v=ncnDC8IVxWM)
-- [Toots & The Maytals - In The Dark](https://www.youtube.com/watch?v=Oi4wNA9WDBw)
+- [Toots  The Maytals - Got To Be There](https://www.youtube.com/watch?v=ncnDC8IVxWM)
+- [Toots  The Maytals - In The Dark](https://www.youtube.com/watch?v=Oi4wNA9WDBw)
 - [Having A Party](https://www.youtube.com/watch?v=V3UXvVhk1ik)
 - [I See You](https://www.youtube.com/watch?v=m-60xJNLpJM)
 - [Take A Look In The Mirror](https://www.youtube.com/watch?v=Oi4ua4VKQbA)

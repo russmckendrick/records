@@ -54,13 +54,13 @@ As part of a re-release of their first two studio albums, Hunting High and Low w
 
 
 ## Videos
-### a-ha - Take On Me (Official Video) [Remastered in 4K]
-{{< youtube id="djV11Xbc914" title="a-ha - Take On Me (Official Video) [Remastered in 4K]" >}}<br>
+### a-ha - Take On Me Official Video Remastered in 4K
+{{< youtube id="djV11Xbc914" title="a-ha - Take On Me Official Video Remastered in 4K" >}}<br>
 ### More Videos
 
-- [a-ha - Train Of Thought (Official Video)](https://www.youtube.com/watch?v=7vdOgObQvz8)
-- [a-ha - Hunting High and Low (Official Video)](https://www.youtube.com/watch?v=s6VaeFCxta8)
-- [a-ha - The Sun Always Shines on T.V. (Official Video)](https://www.youtube.com/watch?v=a3ir9HC9vYg)
+- [a-ha - Train Of Thought Official Video](https://www.youtube.com/watch?v=7vdOgObQvz8)
+- [a-ha - Hunting High and Low Official Video](https://www.youtube.com/watch?v=s6VaeFCxta8)
+- [a-ha - The Sun Always Shines on TV Official Video](https://www.youtube.com/watch?v=a3ir9HC9vYg)
 
 ## Release Images
 {{< imageGrid >}}

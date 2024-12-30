@@ -34,8 +34,8 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 
 
 ## Videos
-### The Beta Band - Dr. Baker
-{{< youtube id="kbxoTkSkefo" title="The Beta Band - Dr. Baker" >}}<br>
+### The Beta Band - Dr Baker
+{{< youtube id="kbxoTkSkefo" title="The Beta Band - Dr Baker" >}}<br>
 ### More Videos
 
 - [The Beta Band - 09 Push it out](https://www.youtube.com/watch?v=Eof42rPIV68)

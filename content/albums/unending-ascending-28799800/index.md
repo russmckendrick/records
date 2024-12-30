@@ -44,8 +44,8 @@ Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by
 
 - [Gong - My Guitar is a Spaceship - official video](https://www.youtube.com/watch?v=RrJRaWzXvW8)
 - [Ship Of Ishtar](https://www.youtube.com/watch?v=dB76yqH7xzw)
-- [O, Arcturus](https://www.youtube.com/watch?v=f42GQp8R8kY)
-- [Gong - All Clocks Reset - official video (from Unending Ascending)](https://www.youtube.com/watch?v=PVjU7LX0YiQ)
+- [O Arcturus](https://www.youtube.com/watch?v=f42GQp8R8kY)
+- [Gong - All Clocks Reset - official video from Unending Ascending](https://www.youtube.com/watch?v=PVjU7LX0YiQ)
 - [Choose Your Goddess](https://www.youtube.com/watch?v=DMbxcF0pE0s)
 - [Lunar Invocation](https://www.youtube.com/watch?v=xicXtuPSEhs)
 - [Asleep Do We Lay](https://www.youtube.com/watch?v=aOjAJl0jVRo)

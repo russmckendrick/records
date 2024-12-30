@@ -41,7 +41,7 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 {{< youtube id="D86wF03EpOM" title="Status Quo -  Piledriver" >}}<br>
 ### More Videos
 
-- [Status Quo - Don't Waste My Time - HQ](https://www.youtube.com/watch?v=CwQHDZYX3ao)
+- [Status Quo - Dont Waste My Time - HQ](https://www.youtube.com/watch?v=CwQHDZYX3ao)
 - [Oh Baby](https://www.youtube.com/watch?v=tLLbnsrSqzc)
 - [A Year](https://www.youtube.com/watch?v=QY3soJahMJ8)
 - [Unspoken Words](https://www.youtube.com/watch?v=G1s7w3UHjI8)
@@ -49,7 +49,7 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 - [Paper Plane](https://www.youtube.com/watch?v=1efrwxr8ptc)
 - [All The Reasons](https://www.youtube.com/watch?v=A3uvinc8YAk)
 - [Roadhouse Blues](https://www.youtube.com/watch?v=EWtJYHIAKJs)
-- [PILEDRIVER - Status Quo Medley (Live Medley)](https://www.youtube.com/watch?v=G36WE1FMhuc)
+- [PILEDRIVER - Status Quo Medley Live Medley](https://www.youtube.com/watch?v=G36WE1FMhuc)
 
 ## Release Images
 {{< imageGrid >}}

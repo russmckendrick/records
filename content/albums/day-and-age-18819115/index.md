@@ -51,8 +51,8 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Videos
-### FROST* - Day And Age (Official Video)
-{{< youtube id="RmiAmW3sgHs" title="FROST* - Day And Age (Official Video)" >}}<br>
+### FROST - Day And Age Official Video
+{{< youtube id="RmiAmW3sgHs" title="FROST - Day And Age Official Video" >}}<br>
 
 
 ## Release Images

@@ -54,18 +54,18 @@ By the the end of the 1960s, Dylan was one of music’s biggest stars, independe
 {{< youtube id="F46sJv2iYoo" title="Nashville Skyline" >}}<br>
 ### More Videos
 
-- [Bob Dylan: Nashville Skyline (full vinyl album; 1972 Spanish Reissue)](https://www.youtube.com/watch?v=MgW8H17dwUo)
+- [Bob Dylan Nashville Skyline full vinyl album 1972 Spanish Reissue](https://www.youtube.com/watch?v=MgW8H17dwUo)
 - [Bob Dylan - Nashville Skyline Rag](https://www.youtube.com/watch?v=Q2qSGmoYkYg)
-- [Bob Dylan - Nashville Skyline Rag (Official Audio)](https://www.youtube.com/watch?v=F4T3xs4-Jso)
-- [Bob Dylan with Johnny Cash - Girl from the North Country (Official Audio)](https://www.youtube.com/watch?v=Je4Eg77YSSA)
+- [Bob Dylan - Nashville Skyline Rag Official Audio](https://www.youtube.com/watch?v=F4T3xs4-Jso)
+- [Bob Dylan with Johnny Cash - Girl from the North Country Official Audio](https://www.youtube.com/watch?v=Je4Eg77YSSA)
 - [Bob Wilson talks about the Nashville Skyline sessions with Dylan](https://www.youtube.com/watch?v=vHInhnVccf0)
-- [Bob Dylan - I Threw It All Away (Official Audio)](https://www.youtube.com/watch?v=8iruzIEQsL4)
-- [Nashville Skyline: Dylan Goes Country - Discovering Bob Dylan, Ep. 11](https://www.youtube.com/watch?v=1LpordRKHSA)
-- [Bob Dylan - I Threw It All Away (Live On The Johnny Cash TV Show)](https://www.youtube.com/watch?v=93NnaKMDUSo)
-- [Bob Dylan - Tonight I'll Be Staying Here with You (Official Audio)](https://www.youtube.com/watch?v=9ZhLGP5dF2k)
+- [Bob Dylan - I Threw It All Away Official Audio](https://www.youtube.com/watch?v=8iruzIEQsL4)
+- [Nashville Skyline Dylan Goes Country - Discovering Bob Dylan Ep 11](https://www.youtube.com/watch?v=1LpordRKHSA)
+- [Bob Dylan - I Threw It All Away Live On The Johnny Cash TV Show](https://www.youtube.com/watch?v=93NnaKMDUSo)
+- [Bob Dylan - Tonight Ill Be Staying Here with You Official Audio](https://www.youtube.com/watch?v=9ZhLGP5dF2k)
 - [Nashville Skyline Rag - The Daivd Grier Band](https://www.youtube.com/watch?v=3D9pgvGZYCs)
 - [Introducing Bob Dylan - The Nashville Sessions](https://www.youtube.com/watch?v=Mjoio_QP5qM)
-- [Dylan in Nashville, 1966-'69 (Documentary)](https://www.youtube.com/watch?v=VHFYiuBYnjs)
+- [Dylan in Nashville 1966-69 Documentary](https://www.youtube.com/watch?v=VHFYiuBYnjs)
 - [Review of Bob Dylan Nashville Skyline](https://www.youtube.com/watch?v=bytnJFy587g)
 
 ## Release Images

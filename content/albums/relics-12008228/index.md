@@ -49,11 +49,11 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 
 
 ## Videos
-### Pink Floyd   Arnold Layne.....yerdenizplak.com İstanbul Kadıköy
-{{< youtube id="-Jwa438LNJs" title="Pink Floyd   Arnold Layne.....yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### Pink Floyd   Arnold Layneyerdenizplakcom İstanbul Kadıköy
+{{< youtube id="-Jwa438LNJs" title="Pink Floyd   Arnold Layneyerdenizplakcom İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [Pink Floyd - Interstellar Overdrive Live In Stockholm (1967) HD](https://www.youtube.com/watch?v=15quQUN4cfg)
+- [Pink Floyd - Interstellar Overdrive Live In Stockholm 1967 HD](https://www.youtube.com/watch?v=15quQUN4cfg)
 
 ## Release Images
 {{< imageGrid >}}

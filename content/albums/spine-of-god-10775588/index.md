@@ -45,8 +45,8 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 
 
 ## Videos
-### Monster Magnet - Spine Of God (Full Album)
-{{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God (Full Album)" >}}<br>
+### Monster Magnet - Spine Of God Full Album
+{{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God Full Album" >}}<br>
 ### More Videos
 
 - [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=qYrxylWs_Us)
@@ -54,12 +54,12 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 - [Pill Shovel - Monster Magnet](https://www.youtube.com/watch?v=MEYkQfzeoG8)
 - [Monster Magnet - Pill Shovel](https://www.youtube.com/watch?v=MmAOFrIQtko)
 - [Monster Magnet - Medicine](https://www.youtube.com/watch?v=WurT2piQyjk)
-- [Monster Magnet - "Nod Scene"](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
+- [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
 - [Monster Magnet - Black Mastermind](https://www.youtube.com/watch?v=vGe_xUng7pg)
 - [Monster Magnet - Snake Dance](https://www.youtube.com/watch?v=OCOIprVzWvI)
-- [Monster Magnet - Sin's a Good Man's Brother](https://www.youtube.com/watch?v=ijP3XGafm6E)
+- [Monster Magnet - Sins a Good Mans Brother](https://www.youtube.com/watch?v=ijP3XGafm6E)
 - [Monster Magnet - Ozium](https://www.youtube.com/watch?v=fw528SJK2YU)
-- [Monster Magnet  -  Zodiac Lung (w/ lyrics)](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
+- [Monster Magnet  -  Zodiac Lung w lyrics](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
 
 ## Release Images
 {{< imageGrid >}}

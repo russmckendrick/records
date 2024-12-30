@@ -62,16 +62,16 @@ styles: ["Indie Rock"]
 {{< youtube id="Z0T3sCrDSls" title="Entrance" >}}<br>
 ### More Videos
 
-- [Hurray For The Riff Raff - Hungry Ghost (Official Music Video)](https://www.youtube.com/watch?v=6xRJ-MuN46E)
-- [Hurray For The Riff Raff - The Navigator (Official Video)](https://www.youtube.com/watch?v=DqNAD0_zsuw)
-- [Hurray For the Riff Raff: “Rican Beach” (Official Music Video)](https://www.youtube.com/watch?v=TqfxkKR7y98)
-- [Hurray For The Riff Raff - Pa'lante (Official Video)](https://www.youtube.com/watch?v=LilVDjLaZSE)
+- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
+- [Hurray For The Riff Raff - The Navigator Official Video](https://www.youtube.com/watch?v=DqNAD0_zsuw)
+- [Hurray For the Riff Raff Rican Beach Official Music Video](https://www.youtube.com/watch?v=TqfxkKR7y98)
+- [Hurray For The Riff Raff - Palante Official Video](https://www.youtube.com/watch?v=LilVDjLaZSE)
 - [Entrance](https://www.youtube.com/watch?v=Z0T3sCrDSls)
-- [Hurray For The Riff Raff - Hungry Ghost (Official Music Video)](https://www.youtube.com/watch?v=6xRJ-MuN46E)
-- [Hurray For The Riff Raff - The Navigator (Official Video)](https://www.youtube.com/watch?v=DqNAD0_zsuw)
-- [Hurray For the Riff Raff: “Rican Beach” (Official Music Video)](https://www.youtube.com/watch?v=TqfxkKR7y98)
-- [Hurray For The Riff Raff - Pa'lante (Official Video)](https://www.youtube.com/watch?v=LilVDjLaZSE)
-- [Hurray For The Riff Raff - Hungry Ghost (Official Music Video)](https://www.youtube.com/watch?v=6xRJ-MuN46E)
+- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
+- [Hurray For The Riff Raff - The Navigator Official Video](https://www.youtube.com/watch?v=DqNAD0_zsuw)
+- [Hurray For the Riff Raff Rican Beach Official Music Video](https://www.youtube.com/watch?v=TqfxkKR7y98)
+- [Hurray For The Riff Raff - Palante Official Video](https://www.youtube.com/watch?v=LilVDjLaZSE)
+- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
 
 ## Release Images
 {{< imageGrid >}}

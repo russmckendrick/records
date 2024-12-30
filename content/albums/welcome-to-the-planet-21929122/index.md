@@ -47,7 +47,7 @@ Welcome to the Planet is the fourteenth studio album by English progressive rock
 {{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}<br>
 ### More Videos
 
-- [B I G - B I G - T R A I N / W E L C O M E - T O - T H E - P L A N E T (Mini-Premiere)](https://www.youtube.com/watch?v=xuBVD39b4cw)
+- [B I G - B I G - T R A I N  W E L C O M E - T O - T H E - P L A N E T Mini-Premiere](https://www.youtube.com/watch?v=xuBVD39b4cw)
 
 ## Release Images
 {{< imageGrid >}}

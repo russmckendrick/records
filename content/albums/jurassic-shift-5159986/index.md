@@ -52,16 +52,16 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 
 
 ## Videos
-### Sunhair (2020 Ed Wynne Remaster)
-{{< youtube id="FDixlKkQR2w" title="Sunhair (2020 Ed Wynne Remaster)" >}}<br>
+### Sunhair 2020 Ed Wynne Remaster
+{{< youtube id="FDixlKkQR2w" title="Sunhair 2020 Ed Wynne Remaster" >}}<br>
 ### More Videos
 
-- [Stretchy (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=S-82W6gVEt8)
-- [Feng Shui (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=K0hWabelX9w)
+- [Stretchy 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=S-82W6gVEt8)
+- [Feng Shui 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=K0hWabelX9w)
 - [Half Light In Thillai](https://www.youtube.com/watch?v=gqMdQxn8RRQ)
-- [Pteranodon (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=5xo90EXeggA)
-- [Train Oasis (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=e_7vCf87A1k)
-- [Vita Voom (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=oEXkbwOxGOI)
+- [Pteranodon 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=5xo90EXeggA)
+- [Train Oasis 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=e_7vCf87A1k)
+- [Vita Voom 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=oEXkbwOxGOI)
 
 ## Release Images
 {{< imageGrid >}}

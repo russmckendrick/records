@@ -62,14 +62,14 @@ Fire Walk with Me premiered at the 1992 Cannes Film Festival in competition for 
 
 - [The Pine Float](https://www.youtube.com/watch?v=0s64HHHz5T4)
 - [Sycamore Trees](https://www.youtube.com/watch?v=HnFgsQUqugI)
-- [Don't Do Anything (I Wouldn't Do)](https://www.youtube.com/watch?v=KrsBPs_cMmY)
+- [Dont Do Anything I Wouldnt Do](https://www.youtube.com/watch?v=KrsBPs_cMmY)
 - [A Real Indication](https://www.youtube.com/watch?v=kLYkLFEL46U)
 - [Questions in a World of Blue](https://www.youtube.com/watch?v=MOSaLtcqob8)
 - [The Pink Room](https://www.youtube.com/watch?v=VA6bVJ1vw_A)
 - [The Black Dog Runs at Night](https://www.youtube.com/watch?v=Hlkdj8fFFzA)
 - [Best Friends](https://www.youtube.com/watch?v=DZ4S0UPavSk)
 - [Moving Through Time](https://www.youtube.com/watch?v=i3BhWXi5lzo)
-- [Montage from Twin Peaks (Girl Talk / Birds in Hell / Laura Palmer's Theme / Falling)](https://www.youtube.com/watch?v=nQsEFLFLv1c)
+- [Montage from Twin Peaks Girl Talk  Birds in Hell  Laura Palmers Theme  Falling](https://www.youtube.com/watch?v=nQsEFLFLv1c)
 - [The Voice of Love](https://www.youtube.com/watch?v=2VpNT0V25HU)
 
 ## Release Images

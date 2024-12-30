@@ -52,21 +52,21 @@ In 2018, the members of the original lineup assembled to record the album Ascens
 
 
 ## Videos
-### A Flock o f Seagulls - 1982 /LP Album
-{{< youtube id="KVq9bQXHGyc" title="A Flock o f Seagulls - 1982 /LP Album" >}}<br>
+### A Flock o f Seagulls - 1982 LP Album
+{{< youtube id="KVq9bQXHGyc" title="A Flock o f Seagulls - 1982 LP Album" >}}<br>
 ### More Videos
 
-- [Modern Love Is Automatic (2023 Remaster)](https://www.youtube.com/watch?v=rXjXQocoRoI)
-- [Messages (2023 Remaster)](https://www.youtube.com/watch?v=14x5MfCyOXM)
-- [I Ran (So Far Away) (2023 Remaster)](https://www.youtube.com/watch?v=8UqlM0ki0Cc)
-- [Space Age Love Song (2023 Remaster)](https://www.youtube.com/watch?v=f5mBN9aQHGI)
-- [You Can Run (2023 Remaster)](https://www.youtube.com/watch?v=QseabqEvHGE)
-- [Telecommunication (2023 Remaster)](https://www.youtube.com/watch?v=ak_Sqp_l4Vc)
-- [Standing in the Doorway (2023 Remaster)](https://www.youtube.com/watch?v=lewFLnReDd8)
-- [Don't Ask Me (2023 Remaster)](https://www.youtube.com/watch?v=eptK4TccZHA)
-- [D.N.A. (2023 Remaster)](https://www.youtube.com/watch?v=xDovAoacHaQ)
-- [Tokyo (2023 Remaster)](https://www.youtube.com/watch?v=dii5P-_4c_w)
-- [Man Made (2023 Remaster)](https://www.youtube.com/watch?v=9e_IhtrDopk)
+- [Modern Love Is Automatic 2023 Remaster](https://www.youtube.com/watch?v=rXjXQocoRoI)
+- [Messages 2023 Remaster](https://www.youtube.com/watch?v=14x5MfCyOXM)
+- [I Ran So Far Away 2023 Remaster](https://www.youtube.com/watch?v=8UqlM0ki0Cc)
+- [Space Age Love Song 2023 Remaster](https://www.youtube.com/watch?v=f5mBN9aQHGI)
+- [You Can Run 2023 Remaster](https://www.youtube.com/watch?v=QseabqEvHGE)
+- [Telecommunication 2023 Remaster](https://www.youtube.com/watch?v=ak_Sqp_l4Vc)
+- [Standing in the Doorway 2023 Remaster](https://www.youtube.com/watch?v=lewFLnReDd8)
+- [Dont Ask Me 2023 Remaster](https://www.youtube.com/watch?v=eptK4TccZHA)
+- [DNA 2023 Remaster](https://www.youtube.com/watch?v=xDovAoacHaQ)
+- [Tokyo 2023 Remaster](https://www.youtube.com/watch?v=dii5P-_4c_w)
+- [Man Made 2023 Remaster](https://www.youtube.com/watch?v=9e_IhtrDopk)
 
 ## Release Images
 {{< imageGrid >}}

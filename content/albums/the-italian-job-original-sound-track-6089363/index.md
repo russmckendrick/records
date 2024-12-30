@@ -37,22 +37,22 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### The Italian Job 1969 Soundtrack (excerpts)
-{{< youtube id="u9Avs4F8icU" title="The Italian Job 1969 Soundtrack (excerpts)" >}}<br>
+### The Italian Job 1969 Soundtrack excerpts
+{{< youtube id="u9Avs4F8icU" title="The Italian Job 1969 Soundtrack excerpts" >}}<br>
 ### More Videos
 
-- [On Days Like These (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=cW8QfbmyGZE)
-- [Something's Cookin' (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=_FI27C-ZziA)
-- [Hello Mrs. Beckerman! (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=_eXjc0tj5nI)
-- [Britannia And Mr. Bridger - If You Please (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=ymOLVriTurs)
-- [Trouble For Charlie (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=1AxhoTsa8A8)
-- [On Days Like These (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=YVs9RcSMFmo)
-- [It's Caper Time (The Self Preservation Society)](https://www.youtube.com/watch?v=fQzhZoX3VK8)
-- [Meanwhile, Back In The Mafia (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=WkLd6jbQICw)
-- [Smell That Gold! (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=4nzizZPFQpw)
-- [Greensleeves And All That Jazz (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=k1I7Dw2Ytfw)
-- [On Days Like These (From "The Italian Job" Soundtrack)](https://www.youtube.com/watch?v=DB4NPgkHW-g)
-- [Getta Bloomin' Move On! (The Self Preservation Society)](https://www.youtube.com/watch?v=92Dqy3YWblQ)
+- [On Days Like These From The Italian Job Soundtrack](https://www.youtube.com/watch?v=cW8QfbmyGZE)
+- [Somethings Cookin From The Italian Job Soundtrack](https://www.youtube.com/watch?v=_FI27C-ZziA)
+- [Hello Mrs Beckerman From The Italian Job Soundtrack](https://www.youtube.com/watch?v=_eXjc0tj5nI)
+- [Britannia And Mr Bridger - If You Please From The Italian Job Soundtrack](https://www.youtube.com/watch?v=ymOLVriTurs)
+- [Trouble For Charlie From The Italian Job Soundtrack](https://www.youtube.com/watch?v=1AxhoTsa8A8)
+- [On Days Like These From The Italian Job Soundtrack](https://www.youtube.com/watch?v=YVs9RcSMFmo)
+- [Its Caper Time The Self Preservation Society](https://www.youtube.com/watch?v=fQzhZoX3VK8)
+- [Meanwhile Back In The Mafia From The Italian Job Soundtrack](https://www.youtube.com/watch?v=WkLd6jbQICw)
+- [Smell That Gold From The Italian Job Soundtrack](https://www.youtube.com/watch?v=4nzizZPFQpw)
+- [Greensleeves And All That Jazz From The Italian Job Soundtrack](https://www.youtube.com/watch?v=k1I7Dw2Ytfw)
+- [On Days Like These From The Italian Job Soundtrack](https://www.youtube.com/watch?v=DB4NPgkHW-g)
+- [Getta Bloomin Move On The Self Preservation Society](https://www.youtube.com/watch?v=92Dqy3YWblQ)
 
 ## Release Images
 {{< imageGrid >}}

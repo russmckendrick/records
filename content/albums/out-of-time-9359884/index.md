@@ -50,8 +50,8 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 
 
 ## Videos
-### R.E.M. - Losing My Religion (Official HD Music Video)
-{{< youtube id="xwtdhWltSIg" title="R.E.M. - Losing My Religion (Official HD Music Video)" >}}<br>
+### REM - Losing My Religion Official HD Music Video
+{{< youtube id="xwtdhWltSIg" title="REM - Losing My Religion Official HD Music Video" >}}<br>
 
 
 ## Release Images

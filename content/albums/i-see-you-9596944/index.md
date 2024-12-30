@@ -59,32 +59,32 @@ I See You was released to widespread critical acclaim, with many reviewers findi
 
 
 ## Videos
-### [Indietronic] The xx - "I See You" (2017) Full Album
-{{< youtube id="O2KRo_HtoJI" title="[Indietronic] The xx - "I See You" (2017) Full Album" >}}<br>
+### Indietronic The xx - I See You 2017 Full Album
+{{< youtube id="O2KRo_HtoJI" title="Indietronic The xx - I See You 2017 Full Album" >}}<br>
 ### More Videos
 
-- [The xx - Dangerous (Official Audio)](https://www.youtube.com/watch?v=PZCCey_22ws)
-- [DANGEROUS // THE XX LYRICS](https://www.youtube.com/watch?v=ON5339EuyBE)
-- [The xx - Lips (Official Audio)](https://www.youtube.com/watch?v=GbluEc_sgeY)
+- [The xx - Dangerous Official Audio](https://www.youtube.com/watch?v=PZCCey_22ws)
+- [DANGEROUS  THE XX LYRICS](https://www.youtube.com/watch?v=ON5339EuyBE)
+- [The xx - Lips Official Audio](https://www.youtube.com/watch?v=GbluEc_sgeY)
 - [The xx - Lips](https://www.youtube.com/watch?v=LoOLLJ3Y0ko)
-- [The xx - A Violent Noise (Official Audio)](https://www.youtube.com/watch?v=aOjYWMWu6uw)
-- [A VIOLENT NOISE LYRICS // THE XX](https://www.youtube.com/watch?v=DB3jG2wE_Y8)
-- [The xx - Performance (Official Audio)](https://www.youtube.com/watch?v=ziI0FB7jEjU)
-- [PERFORMANCE // THE XX LYRICS](https://www.youtube.com/watch?v=GOiZ6sCDd0o)
-- [The xx - Replica (Official Audio)](https://www.youtube.com/watch?v=22OejDMPoRk)
+- [The xx - A Violent Noise Official Audio](https://www.youtube.com/watch?v=aOjYWMWu6uw)
+- [A VIOLENT NOISE LYRICS  THE XX](https://www.youtube.com/watch?v=DB3jG2wE_Y8)
+- [The xx - Performance Official Audio](https://www.youtube.com/watch?v=ziI0FB7jEjU)
+- [PERFORMANCE  THE XX LYRICS](https://www.youtube.com/watch?v=GOiZ6sCDd0o)
+- [The xx - Replica Official Audio](https://www.youtube.com/watch?v=22OejDMPoRk)
 - [The xx- Replica](https://www.youtube.com/watch?v=dGUR40gCQfA)
-- [Replica [The xx - Lyrics]](https://www.youtube.com/watch?v=gH8ie59l178)
-- [The xx - Brave For You (Official Audio)](https://www.youtube.com/watch?v=600mOX_kp8s)
-- [The XX - Brave for you (audio)](https://www.youtube.com/watch?v=jC0_XrdEUb0)
-- [The xx: brave for you (lyrics | sub español)](https://www.youtube.com/watch?v=SG4rw0O6WLQ)
-- [The xx - On Hold (Official Video)](https://www.youtube.com/watch?v=blJKoXWlqJk)
-- [The xx - On Hold (Official Audio)](https://www.youtube.com/watch?v=1_oA9UmRd4I)
-- [The xx - I Dare You (Official Music Video)](https://www.youtube.com/watch?v=qqflFMhkqHM)
-- [The xx - I Dare You (Official Audio)](https://www.youtube.com/watch?v=lGBn9_aEtB8)
-- [The xx - I Dare You [Lyrics on screen]](https://www.youtube.com/watch?v=IDsuB5Bxyn8)
-- [The xx - Test Me (Official Audio)](https://www.youtube.com/watch?v=egSChllOWcQ)
+- [Replica The xx - Lyrics](https://www.youtube.com/watch?v=gH8ie59l178)
+- [The xx - Brave For You Official Audio](https://www.youtube.com/watch?v=600mOX_kp8s)
+- [The XX - Brave for you audio](https://www.youtube.com/watch?v=jC0_XrdEUb0)
+- [The xx brave for you lyrics  sub español](https://www.youtube.com/watch?v=SG4rw0O6WLQ)
+- [The xx - On Hold Official Video](https://www.youtube.com/watch?v=blJKoXWlqJk)
+- [The xx - On Hold Official Audio](https://www.youtube.com/watch?v=1_oA9UmRd4I)
+- [The xx - I Dare You Official Music Video](https://www.youtube.com/watch?v=qqflFMhkqHM)
+- [The xx - I Dare You Official Audio](https://www.youtube.com/watch?v=lGBn9_aEtB8)
+- [The xx - I Dare You Lyrics on screen](https://www.youtube.com/watch?v=IDsuB5Bxyn8)
+- [The xx - Test Me Official Audio](https://www.youtube.com/watch?v=egSChllOWcQ)
 - [The xx Test Me](https://www.youtube.com/watch?v=6yuW6Jpk5GU)
-- [The xx - Test Me [Subtitulada]](https://www.youtube.com/watch?v=LG-VzoXQJ0E)
+- [The xx - Test Me Subtitulada](https://www.youtube.com/watch?v=LG-VzoXQJ0E)
 
 ## Release Images
 {{< imageGrid >}}

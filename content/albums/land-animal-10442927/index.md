@@ -68,12 +68,12 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 - [The Well](https://www.youtube.com/watch?v=dO2ZzHyaqcA)
 - [These Hands](https://www.youtube.com/watch?v=vI6qzBpuGtQ)
 - [Belly Side Up](https://www.youtube.com/watch?v=3nEXBoos3Cg)
-- [Bent Knee - Terror Bird (official video)](https://www.youtube.com/watch?v=44juYfgipU4)
-- [Bent Knee - Land Animal (official video)](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
-- [Bent Knee - Time Deer (Official Video)](https://www.youtube.com/watch?v=JjAnRiMjipw)
-- [BENT KNEE - Boxes (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=T3Zkqgw33vk)
-- [Land Animal (Ben Levin Remix) by Bent Knee](https://www.youtube.com/watch?v=vb9H6Dnlb9U)
-- [Bent Knee - Land Animal (official video)](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
+- [Bent Knee - Terror Bird official video](https://www.youtube.com/watch?v=44juYfgipU4)
+- [Bent Knee - Land Animal official video](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
+- [Bent Knee - Time Deer Official Video](https://www.youtube.com/watch?v=JjAnRiMjipw)
+- [BENT KNEE - Boxes OFFICIAL VIDEO](https://www.youtube.com/watch?v=T3Zkqgw33vk)
+- [Land Animal Ben Levin Remix by Bent Knee](https://www.youtube.com/watch?v=vb9H6Dnlb9U)
+- [Bent Knee - Land Animal official video](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
 
 ## Release Images
 {{< imageGrid >}}

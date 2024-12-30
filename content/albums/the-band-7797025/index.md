@@ -47,12 +47,12 @@ The Band, also known as The Brown Album, is the second studio album by the Canad
 
 
 ## Videos
-### The Night They Drove Old Dixie Down (Remastered 2000)
-{{< youtube id="QC-eDtV5O0Q" title="The Night They Drove Old Dixie Down (Remastered 2000)" >}}<br>
+### The Night They Drove Old Dixie Down Remastered 2000
+{{< youtube id="QC-eDtV5O0Q" title="The Night They Drove Old Dixie Down Remastered 2000" >}}<br>
 ### More Videos
 
-- [Up On Cripple Creek (2019 Remix)](https://www.youtube.com/watch?v=M3ZZZw1Du1g)
-- [The Band (1969) FULL ALBUM](https://www.youtube.com/watch?v=2D9umNUZOlg)
+- [Up On Cripple Creek 2019 Remix](https://www.youtube.com/watch?v=M3ZZZw1Du1g)
+- [The Band 1969 FULL ALBUM](https://www.youtube.com/watch?v=2D9umNUZOlg)
 
 ## Release Images
 {{< imageGrid >}}

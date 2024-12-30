@@ -55,11 +55,11 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 
 
 ## Videos
-### Record Store Day Preview 2018 / Sparks 2LP red vinyl
-{{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}<br>
+### Record Store Day Preview 2018  Sparks 2LP red vinyl
+{{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018  Sparks 2LP red vinyl" >}}<br>
 ### More Videos
 
-- [Record Store Day Preview 2018 / Sparks 2LP red vinyl](https://www.youtube.com/watch?v=YacRIGByJbo)
+- [Record Store Day Preview 2018  Sparks 2LP red vinyl](https://www.youtube.com/watch?v=YacRIGByJbo)
 
 ## Release Images
 {{< imageGrid >}}

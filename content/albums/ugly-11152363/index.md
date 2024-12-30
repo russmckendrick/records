@@ -62,14 +62,14 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 {{< youtube id="xNU60NaUad0" title="Life Of Agony - Other Side Of The River" >}}<br>
 ### More Videos
 
-- [Life Of Agony - Let's Pretend](https://www.youtube.com/watch?v=7HbBqtLCQcA)
-- [Life Of Agony - Don't You](https://www.youtube.com/watch?v=aETJgnyY5Z0)
+- [Life Of Agony - Lets Pretend](https://www.youtube.com/watch?v=7HbBqtLCQcA)
+- [Life Of Agony - Dont You](https://www.youtube.com/watch?v=aETJgnyY5Z0)
 - [Drained](https://www.youtube.com/watch?v=d1yvjskx6YA)
 - [Seasons](https://www.youtube.com/watch?v=3Mi07oOSE7Y)
 - [Ugly](https://www.youtube.com/watch?v=GP5cCDK5em4)
 - [How It Would Be](https://www.youtube.com/watch?v=AxCttqLFM7E)
 - [Other Side of the River](https://www.youtube.com/watch?v=bT136PsORQs)
-- [Let's Pretend](https://www.youtube.com/watch?v=ddbThTyGJwQ)
+- [Lets Pretend](https://www.youtube.com/watch?v=ddbThTyGJwQ)
 - [Lost at 22](https://www.youtube.com/watch?v=kjTXXVQltP0)
 
 ## Release Images

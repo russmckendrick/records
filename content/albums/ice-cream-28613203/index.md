@@ -44,8 +44,8 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Videos
-### Salad - U.V.
-{{< youtube id="tfktYKTcsaQ" title="Salad - U.V." >}}<br>
+### Salad - UV
+{{< youtube id="tfktYKTcsaQ" title="Salad - UV" >}}<br>
 ### More Videos
 
 - [Salad - Yeah Yeah](https://www.youtube.com/watch?v=uDWrh_oD3DY)

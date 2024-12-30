@@ -38,17 +38,17 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 
 
 ## Videos
-### Lambchop - 'The New Isn't so You Anymore' (Official Audio)
-{{< youtube id="dAev_UEoxaI" title="Lambchop - 'The New Isn't so You Anymore' (Official Audio)" >}}<br>
+### Lambchop - The New Isnt so You Anymore Official Audio
+{{< youtube id="dAev_UEoxaI" title="Lambchop - The New Isnt so You Anymore Official Audio" >}}<br>
 ### More Videos
 
-- [Lambchop - 'Crosswords, or What This Says About You' (Official Video)](https://www.youtube.com/watch?v=xPERKl54QBY)
-- [Lambchop - Everything For You (Official Video)](https://www.youtube.com/watch?v=u8NxdNERUGc)
-- [Lambchop - 'The Lasting Last of You' (Official Audio)](https://www.youtube.com/watch?v=-GEonTAWSx0)
-- [Lambchop - 'The Air Is Heavy and I Should Be Listening to You' (Official Audio)](https://www.youtube.com/watch?v=c2oepyEOEOI)
-- [Lambchop - 'The December-ish You' (Official Video)](https://www.youtube.com/watch?v=rRKeoOBnUhk)
-- [Lambchop - 'This Is What I Wanted To Tell You' (Official Audio)](https://www.youtube.com/watch?v=JmZSlbwM_6w)
-- [Lambchop - 'Flower' (Official Audio)](https://www.youtube.com/watch?v=j2s18iT3rZM)
+- [Lambchop - Crosswords or What This Says About You Official Video](https://www.youtube.com/watch?v=xPERKl54QBY)
+- [Lambchop - Everything For You Official Video](https://www.youtube.com/watch?v=u8NxdNERUGc)
+- [Lambchop - The Lasting Last of You Official Audio](https://www.youtube.com/watch?v=-GEonTAWSx0)
+- [Lambchop - The Air Is Heavy and I Should Be Listening to You Official Audio](https://www.youtube.com/watch?v=c2oepyEOEOI)
+- [Lambchop - The December-ish You Official Video](https://www.youtube.com/watch?v=rRKeoOBnUhk)
+- [Lambchop - This Is What I Wanted To Tell You Official Audio](https://www.youtube.com/watch?v=JmZSlbwM_6w)
+- [Lambchop - Flower Official Audio](https://www.youtube.com/watch?v=j2s18iT3rZM)
 
 ## Release Images
 {{< imageGrid >}}

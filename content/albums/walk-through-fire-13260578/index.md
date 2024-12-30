@@ -44,33 +44,33 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 
 
 ## Videos
-### Yola - Faraway Look [Official Audio]
-{{< youtube id="S8kMw5pxbkU" title="Yola - Faraway Look [Official Audio]" >}}<br>
+### Yola - Faraway Look Official Audio
+{{< youtube id="S8kMw5pxbkU" title="Yola - Faraway Look Official Audio" >}}<br>
 ### More Videos
 
-- [Yola - Shady Grove [Official Audio]](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
-- [Yola - Ride Out In The Country [Official Audio]](https://www.youtube.com/watch?v=azMLRM0IEYU)
-- [Yola - It Ain't Easier [Official Audio]](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
-- [Yola - Walk Through Fire [Official Audio]](https://www.youtube.com/watch?v=H2OmfJiSRAY)
-- [Yola - Rock Me Gently [Official Audio]](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
-- [Yola - Love All Night (Work All Day) [Official Audio]](https://www.youtube.com/watch?v=nloiplKnmgM)
-- [Yola - Deep Blue Dream [Official Audio]](https://www.youtube.com/watch?v=PW1nzlc9eA0)
-- [Yola - Lonely The Night [Official Audio]](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
-- [Yola - Still Gone [Official Audio]](https://www.youtube.com/watch?v=qy3pS3SLW-E)
-- [Yola - Keep Me Here [Official Audio]](https://www.youtube.com/watch?v=Z6cB44foHQA)
-- [Yola - Love Is Light [Official Audio]](https://www.youtube.com/watch?v=n_X2tL_DaQw)
-- [Yola - Faraway Look [Official Audio]](https://www.youtube.com/watch?v=S8kMw5pxbkU)
-- [Yola - Shady Grove [Official Audio]](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
-- [Yola - Ride Out In The Country [Official Audio]](https://www.youtube.com/watch?v=azMLRM0IEYU)
-- [Yola - It Ain't Easier [Official Audio]](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
-- [Yola - Walk Through Fire [Official Audio]](https://www.youtube.com/watch?v=H2OmfJiSRAY)
-- [Yola - Rock Me Gently [Official Audio]](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
-- [Yola - Love All Night (Work All Day) [Official Audio]](https://www.youtube.com/watch?v=nloiplKnmgM)
-- [Yola - Deep Blue Dream [Official Audio]](https://www.youtube.com/watch?v=PW1nzlc9eA0)
-- [Yola - Lonely The Night [Official Audio]](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
-- [Yola - Still Gone [Official Audio]](https://www.youtube.com/watch?v=qy3pS3SLW-E)
-- [Yola - Keep Me Here [Official Audio]](https://www.youtube.com/watch?v=Z6cB44foHQA)
-- [Yola - Love Is Light [Official Audio]](https://www.youtube.com/watch?v=n_X2tL_DaQw)
+- [Yola - Shady Grove Official Audio](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
+- [Yola - Ride Out In The Country Official Audio](https://www.youtube.com/watch?v=azMLRM0IEYU)
+- [Yola - It Aint Easier Official Audio](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
+- [Yola - Walk Through Fire Official Audio](https://www.youtube.com/watch?v=H2OmfJiSRAY)
+- [Yola - Rock Me Gently Official Audio](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
+- [Yola - Love All Night Work All Day Official Audio](https://www.youtube.com/watch?v=nloiplKnmgM)
+- [Yola - Deep Blue Dream Official Audio](https://www.youtube.com/watch?v=PW1nzlc9eA0)
+- [Yola - Lonely The Night Official Audio](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
+- [Yola - Still Gone Official Audio](https://www.youtube.com/watch?v=qy3pS3SLW-E)
+- [Yola - Keep Me Here Official Audio](https://www.youtube.com/watch?v=Z6cB44foHQA)
+- [Yola - Love Is Light Official Audio](https://www.youtube.com/watch?v=n_X2tL_DaQw)
+- [Yola - Faraway Look Official Audio](https://www.youtube.com/watch?v=S8kMw5pxbkU)
+- [Yola - Shady Grove Official Audio](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
+- [Yola - Ride Out In The Country Official Audio](https://www.youtube.com/watch?v=azMLRM0IEYU)
+- [Yola - It Aint Easier Official Audio](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
+- [Yola - Walk Through Fire Official Audio](https://www.youtube.com/watch?v=H2OmfJiSRAY)
+- [Yola - Rock Me Gently Official Audio](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
+- [Yola - Love All Night Work All Day Official Audio](https://www.youtube.com/watch?v=nloiplKnmgM)
+- [Yola - Deep Blue Dream Official Audio](https://www.youtube.com/watch?v=PW1nzlc9eA0)
+- [Yola - Lonely The Night Official Audio](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
+- [Yola - Still Gone Official Audio](https://www.youtube.com/watch?v=qy3pS3SLW-E)
+- [Yola - Keep Me Here Official Audio](https://www.youtube.com/watch?v=Z6cB44foHQA)
+- [Yola - Love Is Light Official Audio](https://www.youtube.com/watch?v=n_X2tL_DaQw)
 
 ## Release Images
 {{< imageGrid >}}

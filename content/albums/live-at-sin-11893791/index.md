@@ -85,17 +85,17 @@ styles: ["Folk Rock", "Art Rock"]
 
 
 ## Videos
-### Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)
-{{< youtube id="bYukHsAsBxY" title="Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)" >}}<br>
+### Be Your Husband Live at Sin-é New York NY - JulyAugust 1993
+{{< youtube id="bYukHsAsBxY" title="Be Your Husband Live at Sin-é New York NY - JulyAugust 1993" >}}<br>
 ### More Videos
 
-- [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
-- [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
+- [Jeff Buckley - Lover You Shouldve Come Over Live at Sin-é](https://www.youtube.com/watch?v=GQm1cX8uWxE)
+- [Night Flight Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=hYN8Mk54XHg)
 - [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 - [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
-- [Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=bYukHsAsBxY)
-- [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
-- [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
+- [Be Your Husband Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=bYukHsAsBxY)
+- [Jeff Buckley - Lover You Shouldve Come Over Live at Sin-é](https://www.youtube.com/watch?v=GQm1cX8uWxE)
+- [Night Flight Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=hYN8Mk54XHg)
 - [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
 ## Release Images

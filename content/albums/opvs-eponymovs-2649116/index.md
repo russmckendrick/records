@@ -43,8 +43,8 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 
 
 ## Videos
-### Ghost "Death Knell" (OFFICIAL)
-{{< youtube id="qJy-hdKT5wM" title="Ghost "Death Knell" (OFFICIAL)" >}}<br>
+### Ghost Death Knell OFFICIAL
+{{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell OFFICIAL" >}}<br>
 
 
 ## Release Images

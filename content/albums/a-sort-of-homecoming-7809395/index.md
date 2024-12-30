@@ -41,8 +41,8 @@ styles: ["Prog Rock", "Acoustic"]
 
 
 ## Videos
-### ANATHEMA - A Sort Of Homecoming (2015)
-{{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming (2015)" >}}<br>
+### ANATHEMA - A Sort Of Homecoming 2015
+{{< youtube id="9i6Go3uZ-S4" title="ANATHEMA - A Sort Of Homecoming 2015" >}}<br>
 
 
 ## Release Images

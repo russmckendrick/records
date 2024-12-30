@@ -44,20 +44,20 @@ Forever Changes had only moderate success on the album charts upon release, peak
 
 
 ## Videos
-### Alone Again Or (2015 Remaster)
-{{< youtube id="cPbNpIG8x_s" title="Alone Again Or (2015 Remaster)" >}}<br>
+### Alone Again Or 2015 Remaster
+{{< youtube id="cPbNpIG8x_s" title="Alone Again Or 2015 Remaster" >}}<br>
 ### More Videos
 
-- [A House Is Not a Motel (2015 Remaster)](https://www.youtube.com/watch?v=H3xzHYz6L5w)
-- [Andmoreagain (2015 Remaster)](https://www.youtube.com/watch?v=zfis7-VEYMs)
-- [The Daily Planet (2015 Remaster)](https://www.youtube.com/watch?v=wgUoIBJtMLI)
-- [Old Man (2015 Remaster)](https://www.youtube.com/watch?v=I91tC_o7FS4)
-- [The Red Telephone (2015 Remaster)](https://www.youtube.com/watch?v=m_j0qicK9mc)
-- [Maybe the People Would Be the Times or Between Clark and Hilldale (2015 Remaster)](https://www.youtube.com/watch?v=hwnyoH5DpNE)
-- [Live and Let Live (2015 Remaster)](https://www.youtube.com/watch?v=O2T-dz1k9bI)
-- [The Good Humor Man He Sees Everything Like This (2015 Remaster)](https://www.youtube.com/watch?v=NXtWtf6Mmcw)
-- [Bummer in the Summer (2015 Remaster)](https://www.youtube.com/watch?v=WC19_-riICA)
-- [You Set the Scene (2015 Remaster)](https://www.youtube.com/watch?v=-N9kGKFIAQk)
+- [A House Is Not a Motel 2015 Remaster](https://www.youtube.com/watch?v=H3xzHYz6L5w)
+- [Andmoreagain 2015 Remaster](https://www.youtube.com/watch?v=zfis7-VEYMs)
+- [The Daily Planet 2015 Remaster](https://www.youtube.com/watch?v=wgUoIBJtMLI)
+- [Old Man 2015 Remaster](https://www.youtube.com/watch?v=I91tC_o7FS4)
+- [The Red Telephone 2015 Remaster](https://www.youtube.com/watch?v=m_j0qicK9mc)
+- [Maybe the People Would Be the Times or Between Clark and Hilldale 2015 Remaster](https://www.youtube.com/watch?v=hwnyoH5DpNE)
+- [Live and Let Live 2015 Remaster](https://www.youtube.com/watch?v=O2T-dz1k9bI)
+- [The Good Humor Man He Sees Everything Like This 2015 Remaster](https://www.youtube.com/watch?v=NXtWtf6Mmcw)
+- [Bummer in the Summer 2015 Remaster](https://www.youtube.com/watch?v=WC19_-riICA)
+- [You Set the Scene 2015 Remaster](https://www.youtube.com/watch?v=-N9kGKFIAQk)
 
 ## Release Images
 {{< imageGrid >}}

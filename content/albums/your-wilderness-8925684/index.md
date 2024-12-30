@@ -44,17 +44,17 @@ Your Wilderness is the eleventh studio album by British rock band The Pineapple 
 
 
 ## Videos
-### The Pineapple Thief - In Exile (from Your Wilderness)
-{{< youtube id="8LTh10MHMOo" title="The Pineapple Thief - In Exile (from Your Wilderness)" >}}<br>
+### The Pineapple Thief - In Exile from Your Wilderness
+{{< youtube id="8LTh10MHMOo" title="The Pineapple Thief - In Exile from Your Wilderness" >}}<br>
 ### More Videos
 
-- [The Pineapple Thief - No Man's Land (lyrics video) (from Your Wilderness)](https://www.youtube.com/watch?v=qxYFXw5I45A)
+- [The Pineapple Thief - No Mans Land lyrics video from Your Wilderness](https://www.youtube.com/watch?v=qxYFXw5I45A)
 - [The Pineapple Thief - Tear You Up](https://www.youtube.com/watch?v=M7pZg9VFgT0)
 - [The Pineapple Thief - That shore](https://www.youtube.com/watch?v=zlqFxn0N5oM)
 - [The Pineapple Thief - Fend For Yourself](https://www.youtube.com/watch?v=-T1wb4GAaf0)
 - [The Pineapple Thief - Take Your Shot](https://www.youtube.com/watch?v=moO2jzX9SME)
-- [The Pineapple Thief - Fend For Yourself (BINAURAL SURROUND)](https://www.youtube.com/watch?v=LjO_bgDahFY)
-- [The Pineapple Thief - "The Final Thing On My Mind"](https://www.youtube.com/watch?v=Xnx_qgvH8xk)
+- [The Pineapple Thief - Fend For Yourself BINAURAL SURROUND](https://www.youtube.com/watch?v=LjO_bgDahFY)
+- [The Pineapple Thief - The Final Thing On My Mind](https://www.youtube.com/watch?v=Xnx_qgvH8xk)
 - [The Pineapple Thief - Where We Stood](https://www.youtube.com/watch?v=M8C3w2GvJSk)
 
 ## Release Images

@@ -44,13 +44,13 @@ This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for are
 
 
 ## Videos
-### Don't Let Him Go
-{{< youtube id="DIuJ-OoKlAE" title="Don't Let Him Go" >}}<br>
+### Dont Let Him Go
+{{< youtube id="DIuJ-OoKlAE" title="Dont Let Him Go" >}}<br>
 ### More Videos
 
-- [REO Speedwagon - Keep on Loving You (Video Version)](https://www.youtube.com/watch?v=wJzNZ1c5C9c)
-- [REO Speedwagon - Hi Infidelity (Full Album).](https://www.youtube.com/watch?v=VOlpdKgxdHo)
-- [R̤e̤o̤ ̤S̤p̤e̤e̤d̤wagon  Hi Infidelity(Legacy Edition) Full Album HQ](https://www.youtube.com/watch?v=sJyfQwgI-Z0)
+- [REO Speedwagon - Keep on Loving You Video Version](https://www.youtube.com/watch?v=wJzNZ1c5C9c)
+- [REO Speedwagon - Hi Infidelity Full Album](https://www.youtube.com/watch?v=VOlpdKgxdHo)
+- [Reo Speedwagon  Hi InfidelityLegacy Edition Full Album HQ](https://www.youtube.com/watch?v=sJyfQwgI-Z0)
 
 ## Release Images
 {{< imageGrid >}}

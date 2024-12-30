@@ -88,18 +88,18 @@ Later, Lee Ranaldo said that part of the reason the band went to a major label w
 
 
 ## Videos
-### Sonic Youth - Dirty Boots (Revised Audio)
-{{< youtube id="7XdYnh729IQ" title="Sonic Youth - Dirty Boots (Revised Audio)" >}}<br>
+### Sonic Youth - Dirty Boots Revised Audio
+{{< youtube id="7XdYnh729IQ" title="Sonic Youth - Dirty Boots Revised Audio" >}}<br>
 ### More Videos
 
-- [Sonic Youth - Tunic (Song For Karen)](https://www.youtube.com/watch?v=reSOp1domrU)
+- [Sonic Youth - Tunic Song For Karen](https://www.youtube.com/watch?v=reSOp1domrU)
 - [Sonic Youth - Mary-Christ](https://www.youtube.com/watch?v=fcCzEB_-NTs)
 - [Sonic Youth - Kool Thing](https://www.youtube.com/watch?v=SDTSUwIZdMk)
 - [Sonic Youth - Mote](https://www.youtube.com/watch?v=-wZNu3v4jh8)
 - [Sonic Youth - My Friend Goo](https://www.youtube.com/watch?v=kfwIFTsx8WE)
 - [Sonic Youth - Disappearer](https://www.youtube.com/watch?v=Y8MFqJ22kSs)
-- [Sonic Youth - Mildred Pierce (Official Music Video)](https://www.youtube.com/watch?v=3-jp4hk7VIU)
-- [Sonic Youth - Cinderella's Big Score](https://www.youtube.com/watch?v=xi3ZPT9iSNo)
+- [Sonic Youth - Mildred Pierce Official Music Video](https://www.youtube.com/watch?v=3-jp4hk7VIU)
+- [Sonic Youth - Cinderellas Big Score](https://www.youtube.com/watch?v=xi3ZPT9iSNo)
 - [Sonic Youth - Scooter And Jinx](https://www.youtube.com/watch?v=W69cTdiDSwQ)
 - [Sonic Youth - Titanium Expose](https://www.youtube.com/watch?v=1lWwdpBeZd0)
 

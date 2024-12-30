@@ -57,26 +57,26 @@ The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, 
 
 
 ## Videos
-### De La Soul - TrainWreck (Official Audio)
-{{< youtube id="b5x2NROm8tc" title="De La Soul - TrainWreck (Official Audio)" >}}<br>
+### De La Soul - TrainWreck Official Audio
+{{< youtube id="b5x2NROm8tc" title="De La Soul - TrainWreck Official Audio" >}}<br>
 ### More Videos
 
 - [De La Soul - Royalty Capes](https://www.youtube.com/watch?v=Uc-4sB0EFLg)
-- [De La Soul & The Anonymous Nobody](https://www.youtube.com/watch?v=lY7TXSOYA-M)
-- [De La Soul - Memory of… (US) ft. Estelle, Pete Rock](https://www.youtube.com/watch?v=pFTNjzzeU-8)
-- [De La Soul - We're Still Here (now)... a documentary about nobody](https://www.youtube.com/watch?v=tmpGJ7P_xsw)
-- [De La Soul - Sexy Bitch (Official Audio)](https://www.youtube.com/watch?v=cyT2vpBA2Cs)
-- [De La Soul - Action! (Official Audio)](https://www.youtube.com/watch?v=QF24oQIU5DI)
-- [De La Soul - Whoodeeni (feat. 2Chainz) (Official Audio)](https://www.youtube.com/watch?v=V2YAl81ikhQ)
-- [De La Soul "Pain" feat. Snoop Dogg (Official Video)](https://www.youtube.com/watch?v=nLDIs0GHP2k)
-- [De La Soul - Pain ft. Snoop Dogg (Official Audio)](https://www.youtube.com/watch?v=7vDVDo9w20w)
-- [De La Soul - Memory Of... (US) [feat. Estelle & Pete Rock] (Official Audio)](https://www.youtube.com/watch?v=ECS-DDN_NiI)
-- [De La Soul - Genesis (feat. Jill Scott) (Official Audio)](https://www.youtube.com/watch?v=ExtdveIZXHk)
-- [De La Soul - Here in After (feat. Damon Albarn) (Official Audio)](https://www.youtube.com/watch?v=OWpmWvJThkQ)
-- [De La Soul - Lord Intended (feat. Justin Hawkins) (Official Audio)](https://www.youtube.com/watch?v=fs8g_BRPbc8)
-- [De La Soul - Snoopies (feat. David Byrne) (Official Audio)](https://www.youtube.com/watch?v=rBk9knE8v08)
+- [De La Soul  The Anonymous Nobody](https://www.youtube.com/watch?v=lY7TXSOYA-M)
+- [De La Soul - Memory of US ft Estelle Pete Rock](https://www.youtube.com/watch?v=pFTNjzzeU-8)
+- [De La Soul - Were Still Here now a documentary about nobody](https://www.youtube.com/watch?v=tmpGJ7P_xsw)
+- [De La Soul - Sexy Bitch Official Audio](https://www.youtube.com/watch?v=cyT2vpBA2Cs)
+- [De La Soul - Action Official Audio](https://www.youtube.com/watch?v=QF24oQIU5DI)
+- [De La Soul - Whoodeeni feat 2Chainz Official Audio](https://www.youtube.com/watch?v=V2YAl81ikhQ)
+- [De La Soul Pain feat Snoop Dogg Official Video](https://www.youtube.com/watch?v=nLDIs0GHP2k)
+- [De La Soul - Pain ft Snoop Dogg Official Audio](https://www.youtube.com/watch?v=7vDVDo9w20w)
+- [De La Soul - Memory Of US feat Estelle  Pete Rock Official Audio](https://www.youtube.com/watch?v=ECS-DDN_NiI)
+- [De La Soul - Genesis feat Jill Scott Official Audio](https://www.youtube.com/watch?v=ExtdveIZXHk)
+- [De La Soul - Here in After feat Damon Albarn Official Audio](https://www.youtube.com/watch?v=OWpmWvJThkQ)
+- [De La Soul - Lord Intended feat Justin Hawkins Official Audio](https://www.youtube.com/watch?v=fs8g_BRPbc8)
+- [De La Soul - Snoopies feat David Byrne Official Audio](https://www.youtube.com/watch?v=rBk9knE8v08)
 - [Genesis](https://www.youtube.com/watch?v=trouXMCxLAw)
-- [De La Soul - CBGB'S (Official Audio)](https://www.youtube.com/watch?v=r0-ueCPCYNI)
+- [De La Soul - CBGBS Official Audio](https://www.youtube.com/watch?v=r0-ueCPCYNI)
 
 ## Release Images
 {{< imageGrid >}}

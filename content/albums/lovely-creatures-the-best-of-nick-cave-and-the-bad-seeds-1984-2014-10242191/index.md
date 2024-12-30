@@ -58,15 +58,15 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 
 
 ## Videos
-### Nick Cave & The Bad Seeds - The Weeping Song (Official Video)
-{{< youtube id="TqhOVY58zIo" title="Nick Cave & The Bad Seeds - The Weeping Song (Official Video)" >}}<br>
+### Nick Cave  The Bad Seeds - The Weeping Song Official Video
+{{< youtube id="TqhOVY58zIo" title="Nick Cave  The Bad Seeds - The Weeping Song Official Video" >}}<br>
 ### More Videos
 
-- [Nick Cave & The Bad Seeds - Tupelo](https://www.youtube.com/watch?v=oSl4KX7zBTQ)
-- [Nick Cave & The Bad Seeds - Deanna](https://www.youtube.com/watch?v=FxORulyOXs8)
-- [Nick Cave & The Bad Seeds - Loverman](https://www.youtube.com/watch?v=P51IVqf28Hs)
-- [Lovely Creatures: The Best of Nick Cave & The Bad Seeds 1984-2014](https://www.youtube.com/watch?v=wtaEKCOdvus)
-- [Nick Cave & The Bad Seeds - The Weeping Song (Official Video)](https://www.youtube.com/watch?v=TqhOVY58zIo)
+- [Nick Cave  The Bad Seeds - Tupelo](https://www.youtube.com/watch?v=oSl4KX7zBTQ)
+- [Nick Cave  The Bad Seeds - Deanna](https://www.youtube.com/watch?v=FxORulyOXs8)
+- [Nick Cave  The Bad Seeds - Loverman](https://www.youtube.com/watch?v=P51IVqf28Hs)
+- [Lovely Creatures The Best of Nick Cave  The Bad Seeds 1984-2014](https://www.youtube.com/watch?v=wtaEKCOdvus)
+- [Nick Cave  The Bad Seeds - The Weeping Song Official Video](https://www.youtube.com/watch?v=TqhOVY58zIo)
 
 ## Release Images
 {{< imageGrid >}}

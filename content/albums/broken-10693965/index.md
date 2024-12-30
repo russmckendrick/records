@@ -65,8 +65,8 @@ Broken received positive reviews from critics and reached number seven on the US
 
 - [Nine Inch Nails   Broken](https://www.youtube.com/watch?v=EBgeJ8daK24)
 - [Nine Inch Nails - Pinion](https://www.youtube.com/watch?v=XfW0ke4bwI4)
-- [Nine Inch Nails: Help Me I Am In Hell (1992)](https://www.youtube.com/watch?v=CBOhQamGGuI)
-- [Nine Inch Nails: Gave Up (1992)](https://www.youtube.com/watch?v=yVpw1SwJRBI)
+- [Nine Inch Nails Help Me I Am In Hell 1992](https://www.youtube.com/watch?v=CBOhQamGGuI)
+- [Nine Inch Nails Gave Up 1992](https://www.youtube.com/watch?v=yVpw1SwJRBI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -44,8 +44,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Senseless Things - Everybody's Gone
-{{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybody's Gone" >}}<br>
+### Senseless Things - Everybodys Gone
+{{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybodys Gone" >}}<br>
 ### More Videos
 
 - [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)

@@ -65,16 +65,16 @@ The Cure also released some other new mixes as the B-sides of the singles from M
 {{< youtube id="dGBQwBkCaTs" title="Lullaby" >}}<br>
 ### More Videos
 
-- [Close To Me (Closer Mix)](https://www.youtube.com/watch?v=ucXs_mM6Qqk)
-- [A Forest (Tree Mix)](https://www.youtube.com/watch?v=pGGI42sy4qw)
-- [In Between Days (Shiver Mix)](https://www.youtube.com/watch?v=YoYEl9GL8Y8)
-- [Fascination Street (Extended Mix)](https://www.youtube.com/watch?v=pJRu9uEhCAc)
-- [The Walk (Everything Mix)](https://www.youtube.com/watch?v=RcCJpwGfqS4)
-- [Lovesong (Extended Mix)](https://www.youtube.com/watch?v=B8RkWGVT4j0)
-- [Pictures Of You (Extended Dub Mix)](https://www.youtube.com/watch?v=r5oNWPRW7mU)
-- [Hot Hot Hot!!! (Extended Mix)](https://www.youtube.com/watch?v=nY6tbRqy8oA)
-- [The Caterpillar (Flicker Mix)](https://www.youtube.com/watch?v=jWL_JzIizWY)
-- [Never Enough (Big Mix)](https://www.youtube.com/watch?v=b6EIg3RUzeI)
+- [Close To Me Closer Mix](https://www.youtube.com/watch?v=ucXs_mM6Qqk)
+- [A Forest Tree Mix](https://www.youtube.com/watch?v=pGGI42sy4qw)
+- [In Between Days Shiver Mix](https://www.youtube.com/watch?v=YoYEl9GL8Y8)
+- [Fascination Street Extended Mix](https://www.youtube.com/watch?v=pJRu9uEhCAc)
+- [The Walk Everything Mix](https://www.youtube.com/watch?v=RcCJpwGfqS4)
+- [Lovesong Extended Mix](https://www.youtube.com/watch?v=B8RkWGVT4j0)
+- [Pictures Of You Extended Dub Mix](https://www.youtube.com/watch?v=r5oNWPRW7mU)
+- [Hot Hot Hot Extended Mix](https://www.youtube.com/watch?v=nY6tbRqy8oA)
+- [The Caterpillar Flicker Mix](https://www.youtube.com/watch?v=jWL_JzIizWY)
+- [Never Enough Big Mix](https://www.youtube.com/watch?v=b6EIg3RUzeI)
 
 ## Release Images
 {{< imageGrid >}}

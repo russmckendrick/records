@@ -50,14 +50,14 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 
 
 ## Videos
-### Faith No More - Epic (Official Music Video)
-{{< youtube id="ZG_k5CSYKhg" title="Faith No More - Epic (Official Music Video)" >}}<br>
+### Faith No More - Epic Official Music Video
+{{< youtube id="ZG_k5CSYKhg" title="Faith No More - Epic Official Music Video" >}}<br>
 ### More Videos
 
-- [Faith No More - Falling to Pieces (Official Music Video)](https://www.youtube.com/watch?v=32bdevGClD4)
-- [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
-- [Faith No More - Surprise You're Dead [Official Music Video]](https://www.youtube.com/watch?v=eG4AawcYdSE)
-- [Faith No More - The Real Thing (Full Album)](https://www.youtube.com/watch?v=TebRt1gFVhs)
+- [Faith No More - Falling to Pieces Official Music Video](https://www.youtube.com/watch?v=32bdevGClD4)
+- [Faith No More - From Out Of Nowhere Official Music Video](https://www.youtube.com/watch?v=j4tsGWdarHc)
+- [Faith No More - Surprise Youre Dead Official Music Video](https://www.youtube.com/watch?v=eG4AawcYdSE)
+- [Faith No More - The Real Thing Full Album](https://www.youtube.com/watch?v=TebRt1gFVhs)
 
 ## Release Images
 {{< imageGrid >}}

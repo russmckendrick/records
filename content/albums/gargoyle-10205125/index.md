@@ -50,27 +50,27 @@ In architecture, and specifically Gothic architecture, a gargoyle () is a carved
 
 
 ## Videos
-### Mark Lanegan - Death's Head Tattoo
-{{< youtube id="WlRo0LLIHOU" title="Mark Lanegan - Death's Head Tattoo" >}}<br>
+### Mark Lanegan - Deaths Head Tattoo
+{{< youtube id="WlRo0LLIHOU" title="Mark Lanegan - Deaths Head Tattoo" >}}<br>
 ### More Videos
 
-- [Mark Lanegan Band - Nocturne  (Gargoyle 2017)](https://www.youtube.com/watch?v=xTOejKoNPtg)
+- [Mark Lanegan Band - Nocturne  Gargoyle 2017](https://www.youtube.com/watch?v=xTOejKoNPtg)
 - [Mark Lanegan - Blue Blue Sea](https://www.youtube.com/watch?v=jNc6t2QAQto)
 - [Mark Lanegan - Sister](https://www.youtube.com/watch?v=EJWA0ZVa_aE)
 - [Mark Lanegan Band - Emperor](https://www.youtube.com/watch?v=7QAEdZ3Af1A)
 - [Mark Lanegan Band - Goodbye To Beauty](https://www.youtube.com/watch?v=O1mgvLWOKQk)
 - [Mark Lanegan - Drunk to Destruction](https://www.youtube.com/watch?v=Xqqhtr5_9a4)
 - [Mark Lanegan Band - First Day Of Winter](https://www.youtube.com/watch?v=24Mh47Rby-U)
-- [Mark Lanegan Band - Old Swan  (Gargoyle 2017)](https://www.youtube.com/watch?v=yUezUNkbAc8)
-- [Mark Lanegan - Death's Head Tattoo](https://www.youtube.com/watch?v=WlRo0LLIHOU)
-- [Mark Lanegan Band - Nocturne  (Gargoyle 2017)](https://www.youtube.com/watch?v=xTOejKoNPtg)
+- [Mark Lanegan Band - Old Swan  Gargoyle 2017](https://www.youtube.com/watch?v=yUezUNkbAc8)
+- [Mark Lanegan - Deaths Head Tattoo](https://www.youtube.com/watch?v=WlRo0LLIHOU)
+- [Mark Lanegan Band - Nocturne  Gargoyle 2017](https://www.youtube.com/watch?v=xTOejKoNPtg)
 - [Mark Lanegan - Blue Blue Sea](https://www.youtube.com/watch?v=jNc6t2QAQto)
 - [Mark Lanegan - Sister](https://www.youtube.com/watch?v=EJWA0ZVa_aE)
 - [Mark Lanegan Band - Emperor](https://www.youtube.com/watch?v=7QAEdZ3Af1A)
 - [Mark Lanegan Band - Goodbye To Beauty](https://www.youtube.com/watch?v=O1mgvLWOKQk)
 - [Mark Lanegan - Drunk to Destruction](https://www.youtube.com/watch?v=Xqqhtr5_9a4)
 - [Mark Lanegan Band - First Day Of Winter](https://www.youtube.com/watch?v=24Mh47Rby-U)
-- [Mark Lanegan Band - Old Swan  (Gargoyle 2017)](https://www.youtube.com/watch?v=yUezUNkbAc8)
+- [Mark Lanegan Band - Old Swan  Gargoyle 2017](https://www.youtube.com/watch?v=yUezUNkbAc8)
 
 ## Release Images
 {{< imageGrid >}}

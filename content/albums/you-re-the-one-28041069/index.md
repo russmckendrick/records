@@ -66,21 +66,21 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 
 
 ## Videos
-### Rhiannon Giddens - Too Little, Too Late, Too Bad (Official Audio)
-{{< youtube id="hCLm34zR-7Y" title="Rhiannon Giddens - Too Little, Too Late, Too Bad (Official Audio)" >}}<br>
+### Rhiannon Giddens - Too Little Too Late Too Bad Official Audio
+{{< youtube id="hCLm34zR-7Y" title="Rhiannon Giddens - Too Little Too Late Too Bad Official Audio" >}}<br>
 ### More Videos
 
-- [Rhiannon Giddens - You're the One (Lyric Video)](https://www.youtube.com/watch?v=o7-o13fK4p4)
-- [Rhiannon Giddens - Yet to Be (feat. Jason Isbell) (Official Video)](https://www.youtube.com/watch?v=eCQ3qm_JCVo)
-- [Rhiannon Giddens - Wrong Kind of Right (Official Audio)](https://www.youtube.com/watch?v=Edtv44JwPIo)
-- [Rhiannon Giddens - Another Wasted Life (Official Audio)](https://www.youtube.com/watch?v=8LDBMi6887Y)
-- [Rhiannon Giddens - You Louisiana Man (Official Video)](https://www.youtube.com/watch?v=j2oiQtAjcPk)
-- [Rhiannon Giddens - If You Don't Know How Sweet It Is (Official Audio)](https://www.youtube.com/watch?v=LjKl0BvEzco)
-- [Rhiannon Giddens - Hen in the Foxhouse (Official Audio)](https://www.youtube.com/watch?v=Eg-sm2SjGjk)
-- [Rhiannon Giddens - Who Are You Dreaming Of (Official Audio)](https://www.youtube.com/watch?v=UfDjVUfZ2Z4)
-- [Rhiannon Giddens - You Put the Sugar in My Bowl (Official Audio)](https://www.youtube.com/watch?v=JYpkUFE8y2E)
-- [Rhiannon Giddens - Way Over Yonder (Official Audio)](https://www.youtube.com/watch?v=xKIo5uzcuHU)
-- [Rhiannon Giddens - Good Ol' Cider (Official Audio)](https://www.youtube.com/watch?v=-16-7GdZrD8)
+- [Rhiannon Giddens - Youre the One Lyric Video](https://www.youtube.com/watch?v=o7-o13fK4p4)
+- [Rhiannon Giddens - Yet to Be feat Jason Isbell Official Video](https://www.youtube.com/watch?v=eCQ3qm_JCVo)
+- [Rhiannon Giddens - Wrong Kind of Right Official Audio](https://www.youtube.com/watch?v=Edtv44JwPIo)
+- [Rhiannon Giddens - Another Wasted Life Official Audio](https://www.youtube.com/watch?v=8LDBMi6887Y)
+- [Rhiannon Giddens - You Louisiana Man Official Video](https://www.youtube.com/watch?v=j2oiQtAjcPk)
+- [Rhiannon Giddens - If You Dont Know How Sweet It Is Official Audio](https://www.youtube.com/watch?v=LjKl0BvEzco)
+- [Rhiannon Giddens - Hen in the Foxhouse Official Audio](https://www.youtube.com/watch?v=Eg-sm2SjGjk)
+- [Rhiannon Giddens - Who Are You Dreaming Of Official Audio](https://www.youtube.com/watch?v=UfDjVUfZ2Z4)
+- [Rhiannon Giddens - You Put the Sugar in My Bowl Official Audio](https://www.youtube.com/watch?v=JYpkUFE8y2E)
+- [Rhiannon Giddens - Way Over Yonder Official Audio](https://www.youtube.com/watch?v=xKIo5uzcuHU)
+- [Rhiannon Giddens - Good Ol Cider Official Audio](https://www.youtube.com/watch?v=-16-7GdZrD8)
 
 ## Release Images
 {{< imageGrid >}}

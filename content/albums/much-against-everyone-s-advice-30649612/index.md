@@ -54,7 +54,7 @@ styles: ["Alternative Rock"]
 ### More Videos
 
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
-- [04   Much Against Everyone's Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
+- [04   Much Against Everyones Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
 - [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
 - [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
 - [Conversation Intercom](https://www.youtube.com/watch?v=7yx7uoojLM0)

@@ -54,8 +54,8 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 {{< youtube id="fi4_G2nB_-s" title="Mosaic" >}}<br>
 ### More Videos
 
-- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
-- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Camerons Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Camerons Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
@@ -70,12 +70,12 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 - [Phoenix](https://www.youtube.com/watch?v=mA-hxWFHZlE)
 - [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
 - [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
-- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
-- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [It Worked for Awhile  Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [It Worked for Awhile  Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
 - [Mosaic](https://www.youtube.com/watch?v=fi4_G2nB_-s)
-- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
-- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Camerons Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Camerons Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
@@ -90,8 +90,8 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 - [Phoenix](https://www.youtube.com/watch?v=mA-hxWFHZlE)
 - [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
 - [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
-- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
-- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [It Worked for Awhile  Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [It Worked for Awhile  Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
 
 ## Release Images

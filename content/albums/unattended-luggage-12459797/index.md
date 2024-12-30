@@ -76,9 +76,9 @@ styles: []
 - [Globe](https://www.youtube.com/watch?v=gxoKddHN7j0)
 - [Anne Mason](https://www.youtube.com/watch?v=3kXCIyTer_E)
 - [Mendoza](https://www.youtube.com/watch?v=G2xPlmIkydM)
-- [Where Are You Joany?](https://www.youtube.com/watch?v=85iHNTdv9Fc)
+- [Where Are You Joany](https://www.youtube.com/watch?v=85iHNTdv9Fc)
 - [Thrift Store](https://www.youtube.com/watch?v=NsiKFCe3gjg)
-- [Remember Mike?](https://www.youtube.com/watch?v=fzX1C1csTgA)
+- [Remember Mike](https://www.youtube.com/watch?v=fzX1C1csTgA)
 - [Dry Junk](https://www.youtube.com/watch?v=eIMH9NXzOZc)
 - [Discovery and Recoil](https://www.youtube.com/watch?v=HxkMInxogP0)
 

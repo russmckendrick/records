@@ -58,24 +58,24 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 
 
 ## Videos
-### [Argument with David Rawlings Concerning Morrisey]
-{{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}<br>
+### Argument with David Rawlings Concerning Morrisey
+{{< youtube id="-Z0o7zWtu_0" title="Argument with David Rawlings Concerning Morrisey" >}}<br>
 ### More Videos
 
-- [Ryan Adams, "To Be Young (Is to Be Sad, Is to Be High)"](https://www.youtube.com/watch?v=g_c1YM53Wwo)
-- [Ryan Adams, "My Winding Wheel"](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
-- [Ryan Adams - AMY (Heartbreaker)](https://www.youtube.com/watch?v=BvmORF7DLFM)
+- [Ryan Adams To Be Young Is to Be Sad Is to Be High](https://www.youtube.com/watch?v=g_c1YM53Wwo)
+- [Ryan Adams My Winding Wheel](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
+- [Ryan Adams - AMY Heartbreaker](https://www.youtube.com/watch?v=BvmORF7DLFM)
 - [Oh My Sweet Carolina](https://www.youtube.com/watch?v=eMZYRvDvgT4)
 - [Bartering Lines](https://www.youtube.com/watch?v=aKHyuoPriRQ)
-- [Ryan Adams, "Call Me on Your Way Back Home"](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
-- [Ryan Adams - Damn, Sam (I Love A Woman That Rains)](https://www.youtube.com/watch?v=C0i3LyJXAjo)
+- [Ryan Adams Call Me on Your Way Back Home](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
+- [Ryan Adams - Damn Sam I Love A Woman That Rains](https://www.youtube.com/watch?v=C0i3LyJXAjo)
 - [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
-- [Ryan Adams, "To Be the One"](https://www.youtube.com/watch?v=hekcNSyhW9g)
-- [Ryan Adams, "Why Do They Leave"](https://www.youtube.com/watch?v=VGIFTHlJLO8)
-- [Ryan Adams, "Shakedown on 9th Street"](https://www.youtube.com/watch?v=aOV_WQLp1_M)
-- [Ryan Adams, "Don't Ask for the Water"](https://www.youtube.com/watch?v=s2aVfugHN5w)
+- [Ryan Adams To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
+- [Ryan Adams Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)
+- [Ryan Adams Shakedown on 9th Street](https://www.youtube.com/watch?v=aOV_WQLp1_M)
+- [Ryan Adams Dont Ask for the Water](https://www.youtube.com/watch?v=s2aVfugHN5w)
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)
-- [Sweet Lil' gal (23rd/1st)](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
+- [Sweet Lil gal 23rd1st](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
 
 ## Release Images
 {{< imageGrid >}}

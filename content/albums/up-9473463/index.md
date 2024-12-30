@@ -73,7 +73,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 {{< youtube id="BLGkpFXiMOg" title="Peter Gabriel - The Barry Williams Show" >}}<br>
 ### More Videos
 
-- [Peter Gabriel - More Than This (Live at Real World Studios)](https://www.youtube.com/watch?v=hloQg2ODeT0)
+- [Peter Gabriel - More Than This Live at Real World Studios](https://www.youtube.com/watch?v=hloQg2ODeT0)
 - [Peter Gabriel - Growing Up](https://www.youtube.com/watch?v=tn2VPj1R76U)
 - [Darkness](https://www.youtube.com/watch?v=r1JPO91IpV4)
 - [Growing Up](https://www.youtube.com/watch?v=O-aHqlm6WmE)

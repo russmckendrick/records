@@ -46,21 +46,21 @@ A monochrome or monochromatic image, object or palette is composed of one color 
 
 
 ## Videos
-### Daniel Cavanagh - This Music (from Monochrome)
-{{< youtube id="VuJGTV3T-l0" title="Daniel Cavanagh - This Music (from Monochrome)" >}}<br>
+### Daniel Cavanagh - This Music from Monochrome
+{{< youtube id="VuJGTV3T-l0" title="Daniel Cavanagh - This Music from Monochrome" >}}<br>
 ### More Videos
 
-- [Daniel Cavanagh - Soho (Monochrome)](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
-- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)](https://www.youtube.com/watch?v=o5XtTnnK6J0)
-- [Daniel Cavanagh - Dawn (Monochrome)](https://www.youtube.com/watch?v=OmoNknT9zGc)
-- [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)
+- [Daniel Cavanagh - Soho Monochrome](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
+- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours acoustic from MonochromeColour](https://www.youtube.com/watch?v=o5XtTnnK6J0)
+- [Daniel Cavanagh - Dawn Monochrome](https://www.youtube.com/watch?v=OmoNknT9zGc)
+- [Daniel Cavanagh - Oceans Of Time Monochrome](https://www.youtube.com/watch?v=xxsaFocAETQ)
 - [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
-- [Daniel Cavanagh - The Exorcist (from Monochrome)](https://www.youtube.com/watch?v=pKGoYUZ_B1c)
-- [Daniel Cavanagh - This Music (from Monochrome)](https://www.youtube.com/watch?v=VuJGTV3T-l0)
-- [Daniel Cavanagh - Soho (Monochrome)](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
-- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours (acoustic) (from Monochrome/Colour)](https://www.youtube.com/watch?v=o5XtTnnK6J0)
-- [Daniel Cavanagh - Dawn (Monochrome)](https://www.youtube.com/watch?v=OmoNknT9zGc)
-- [Daniel Cavanagh - Oceans Of Time (Monochrome)](https://www.youtube.com/watch?v=xxsaFocAETQ)
+- [Daniel Cavanagh - The Exorcist from Monochrome](https://www.youtube.com/watch?v=pKGoYUZ_B1c)
+- [Daniel Cavanagh - This Music from Monochrome](https://www.youtube.com/watch?v=VuJGTV3T-l0)
+- [Daniel Cavanagh - Soho Monochrome](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
+- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours acoustic from MonochromeColour](https://www.youtube.com/watch?v=o5XtTnnK6J0)
+- [Daniel Cavanagh - Dawn Monochrome](https://www.youtube.com/watch?v=OmoNknT9zGc)
+- [Daniel Cavanagh - Oceans Of Time Monochrome](https://www.youtube.com/watch?v=xxsaFocAETQ)
 - [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
 
 ## Release Images

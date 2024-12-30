@@ -51,8 +51,8 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 
 
 ## Videos
-### Break on Through (To the Other Side)
-{{< youtube id="NFeUko-lQHg" title="Break on Through (To the Other Side)" >}}<br>
+### Break on Through To the Other Side
+{{< youtube id="NFeUko-lQHg" title="Break on Through To the Other Side" >}}<br>
 
 
 ## Release Images

@@ -57,11 +57,11 @@ Liquid Skin received generally favourable reviews from critics, many of whom fou
 ### More Videos
 
 - [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)
-- [Hangover (Remastered 2019)](https://www.youtube.com/watch?v=XPebxxCiZQk)
+- [Hangover Remastered 2019](https://www.youtube.com/watch?v=XPebxxCiZQk)
 - [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
 - [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
 - [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
-- [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
+- [Gomez - We Havent Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
 - [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
 - [Rosalita](https://www.youtube.com/watch?v=Ag-_dO-za3k)
 - [Gomez - California](https://www.youtube.com/watch?v=6Ago5SAGV3E)

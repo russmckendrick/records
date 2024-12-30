@@ -39,13 +39,13 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bruce Soord - All This Will Be Yours (from All This Will Be Yours)
-{{< youtube id="bQoF0vvCHUk" title="Bruce Soord - All This Will Be Yours (from All This Will Be Yours)" >}}<br>
+### Bruce Soord - All This Will Be Yours from All This Will Be Yours
+{{< youtube id="bQoF0vvCHUk" title="Bruce Soord - All This Will Be Yours from All This Will Be Yours" >}}<br>
 ### More Videos
 
-- [Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)](https://www.youtube.com/watch?v=3yTqsLnYreQ)
-- [Bruce Soord - All This Will Be Yours (from All This Will Be Yours)](https://www.youtube.com/watch?v=bQoF0vvCHUk)
-- [Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)](https://www.youtube.com/watch?v=3yTqsLnYreQ)
+- [Bruce Soord - The Solitary Path of a Convicted Man from All This Will Be Yours](https://www.youtube.com/watch?v=3yTqsLnYreQ)
+- [Bruce Soord - All This Will Be Yours from All This Will Be Yours](https://www.youtube.com/watch?v=bQoF0vvCHUk)
+- [Bruce Soord - The Solitary Path of a Convicted Man from All This Will Be Yours](https://www.youtube.com/watch?v=3yTqsLnYreQ)
 
 ## Release Images
 {{< imageGrid >}}

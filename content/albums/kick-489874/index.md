@@ -55,16 +55,16 @@ The band's most successful studio album, Kick has been certified six times plati
 
 
 ## Videos
-### INXS - Need You Tonight (Official Music Video)
-{{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight (Official Music Video)" >}}<br>
+### INXS - Need You Tonight Official Music Video
+{{< youtube id="F93ywiGMDnQ" title="INXS - Need You Tonight Official Music Video" >}}<br>
 ### More Videos
 
-- [INXS - Mediate (Official Music Video)](https://www.youtube.com/watch?v=Pr-Vfnd7Yno)
-- [INXS - New Sensation (Official Music Video)](https://www.youtube.com/watch?v=azfG5H-pCVg)
-- [INXS - Guns In The Sky (Official Music Video)](https://www.youtube.com/watch?v=FBje_3aRdgg)
-- [INXS - Devil Inside (Official Music Video)](https://www.youtube.com/watch?v=hv_zJrO_ptk)
-- [INXS - Never Tear Us Apart (Official Music Video)](https://www.youtube.com/watch?v=AIBv2GEnXlc)
-- [INXS - Mystify (Official Music Video)](https://www.youtube.com/watch?v=26ELh7P2ZtA)
+- [INXS - Mediate Official Music Video](https://www.youtube.com/watch?v=Pr-Vfnd7Yno)
+- [INXS - New Sensation Official Music Video](https://www.youtube.com/watch?v=azfG5H-pCVg)
+- [INXS - Guns In The Sky Official Music Video](https://www.youtube.com/watch?v=FBje_3aRdgg)
+- [INXS - Devil Inside Official Music Video](https://www.youtube.com/watch?v=hv_zJrO_ptk)
+- [INXS - Never Tear Us Apart Official Music Video](https://www.youtube.com/watch?v=AIBv2GEnXlc)
+- [INXS - Mystify Official Music Video](https://www.youtube.com/watch?v=26ELh7P2ZtA)
 - [Guns In The Sky](https://www.youtube.com/watch?v=Npp9hX8tfcY)
 - [New Sensation](https://www.youtube.com/watch?v=zagAprmQawo)
 - [Devil Inside](https://www.youtube.com/watch?v=PK7g0E533mM)
@@ -74,7 +74,7 @@ The band's most successful studio album, Kick has been certified six times plati
 - [Wildlife](https://www.youtube.com/watch?v=GBp10nQC-FI)
 - [Never Tear Us Apart](https://www.youtube.com/watch?v=MS3uiQ1-Nq4)
 - [Mystify](https://www.youtube.com/watch?v=TRNOBOJM2Bw)
-- [INXS - Kick (Official Promo Video - 2017)](https://www.youtube.com/watch?v=7AEwszNkmJU)
+- [INXS - Kick Official Promo Video - 2017](https://www.youtube.com/watch?v=7AEwszNkmJU)
 - [Calling All Nations](https://www.youtube.com/watch?v=AXNXxeZmoR8)
 - [Tiny Daggers](https://www.youtube.com/watch?v=PTDW8ZAaaXw)
 

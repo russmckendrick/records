@@ -53,7 +53,7 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 - [Tomorrow](https://www.youtube.com/watch?v=byl1LfL3SBU)
 - [Inner Tube](https://www.youtube.com/watch?v=L9KUnOI3WjU)
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
-- [Joe Walsh - Life's Been Good (Official Audio)](https://www.youtube.com/watch?v=Fds_2qH9sBQ)
+- [Joe Walsh - Lifes Been Good Official Audio](https://www.youtube.com/watch?v=Fds_2qH9sBQ)
 
 ## Release Images
 {{< imageGrid >}}

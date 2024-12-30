@@ -50,25 +50,25 @@ Change Everything is the third studio album by Del Amitri, released on 1 June 19
 
 
 ## Videos
-### Del Amitri - Be My Downfall (with Lyrics)
-{{< youtube id="ztKS9a-fKFE" title="Del Amitri - Be My Downfall (with Lyrics)" >}}<br>
+### Del Amitri - Be My Downfall with Lyrics
+{{< youtube id="ztKS9a-fKFE" title="Del Amitri - Be My Downfall with Lyrics" >}}<br>
 ### More Videos
 
 - [As Soon As The Tide Comes In](https://www.youtube.com/watch?v=6LlaCrOj8hk)
 - [As Soon As The Tide Comes In](https://www.youtube.com/watch?v=AdE0JVVE-_s)
-- [I Won't Take The Blame](https://www.youtube.com/watch?v=PyfeCGl1Rmg)
+- [I Wont Take The Blame](https://www.youtube.com/watch?v=PyfeCGl1Rmg)
 - [So Many Souls To Change Del Amitri](https://www.youtube.com/watch?v=E_TdETFj5JQ)
 - [Sometimes I Just Have To Say Your Name](https://www.youtube.com/watch?v=bvnj1jodJaM)
-- [I Won't Take The Blame](https://www.youtube.com/watch?v=d3zpJrQi6bY)
+- [I Wont Take The Blame](https://www.youtube.com/watch?v=d3zpJrQi6bY)
 - [To Last A Lifetime](https://www.youtube.com/watch?v=JDKy7UKe-i0)
 - [Behind The Fool](https://www.youtube.com/watch?v=-A9Mrq_SFdA)
 - [To Last A Lifetime](https://www.youtube.com/watch?v=y3FtkSnDcwQ)
 - [The First Rule Of Love](https://www.youtube.com/watch?v=iiVcbrbjCqM)
-- [Del Amitri, "Sometimes I Just Have to Say Your Name"](https://www.youtube.com/watch?v=F6yn5-TIZWQ)
-- [Always The Last To Know (Single Mix)](https://www.youtube.com/watch?v=0_102g1WH6A)
+- [Del Amitri Sometimes I Just Have to Say Your Name](https://www.youtube.com/watch?v=F6yn5-TIZWQ)
+- [Always The Last To Know Single Mix](https://www.youtube.com/watch?v=0_102g1WH6A)
 - [Lighten Up The Load](https://www.youtube.com/watch?v=OUaMyAKjqkw)
 - [Del Amitri - Just Like A Man](https://www.youtube.com/watch?v=1S6KJBcIiVo)
-- [Del Amitri - To Last A Lifetime (with Lyrics)](https://www.youtube.com/watch?v=BY4bvBV3Rx4)
+- [Del Amitri - To Last A Lifetime with Lyrics](https://www.youtube.com/watch?v=BY4bvBV3Rx4)
 - [The First Rule Of Love](https://www.youtube.com/watch?v=5e85_URmYHE)
 - [Cindy Incidentally](https://www.youtube.com/watch?v=l3cHSuHnxiQ)
 - [When You Were Young](https://www.youtube.com/watch?v=gwPSjh-yrVU)

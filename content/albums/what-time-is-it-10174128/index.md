@@ -44,19 +44,19 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 
 
 ## Videos
-### The Time - What Time Is It? (1982) - A1 - Wild N' Loose
-{{< youtube id="_u148NzjYzE" title="The Time - What Time Is It? (1982) - A1 - Wild N' Loose" >}}<br>
+### The Time - What Time Is It 1982 - A1 - Wild N Loose
+{{< youtube id="_u148NzjYzE" title="The Time - What Time Is It 1982 - A1 - Wild N Loose" >}}<br>
 ### More Videos
 
-- [The Time - What Time Is It? (1982) - A2 - 777-9311](https://www.youtube.com/watch?v=NJ2nkA-vydE)
-- [The Time - What Time Is It? (1982) - A3 - Onedayimgonna'b'somebody](https://www.youtube.com/watch?v=EziNPrsg24g)
-- [The Time - What Time Is It? (1982) - B1 - The Walk](https://www.youtube.com/watch?v=KXAsLI-i21w)
-- [The Time - What Time Is It? (1982) - B2 - Gigolos Get Lonely 2](https://www.youtube.com/watch?v=VxGrXIXuwnY)
-- [The Time - What Time Is It? (1982) - B3 - I Don't Wanna Leave You](https://www.youtube.com/watch?v=R4h5eV7qc5U)
-- [Onedayi'mgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
+- [The Time - What Time Is It 1982 - A2 - 777-9311](https://www.youtube.com/watch?v=NJ2nkA-vydE)
+- [The Time - What Time Is It 1982 - A3 - Onedayimgonnabsomebody](https://www.youtube.com/watch?v=EziNPrsg24g)
+- [The Time - What Time Is It 1982 - B1 - The Walk](https://www.youtube.com/watch?v=KXAsLI-i21w)
+- [The Time - What Time Is It 1982 - B2 - Gigolos Get Lonely 2](https://www.youtube.com/watch?v=VxGrXIXuwnY)
+- [The Time - What Time Is It 1982 - B3 - I Dont Wanna Leave You](https://www.youtube.com/watch?v=R4h5eV7qc5U)
+- [Onedayimgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
 - [777-9311](https://www.youtube.com/watch?v=zioEaqjPAGI)
 - [Gigolos Get Lonely Too](https://www.youtube.com/watch?v=85iu_Jieolc)
-- [I Don't Wanna Leave You](https://www.youtube.com/watch?v=JQbs4jmHz7E)
+- [I Dont Wanna Leave You](https://www.youtube.com/watch?v=JQbs4jmHz7E)
 - [Wild and Loose](https://www.youtube.com/watch?v=NNFcBDWHF-k)
 - [The Walk](https://www.youtube.com/watch?v=EI9YIDpqor8)
 

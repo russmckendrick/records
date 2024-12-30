@@ -50,33 +50,33 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 
 
 ## Videos
-### Element (Loops Variation)
-{{< youtube id="-2eNnE0DQZo" title="Element (Loops Variation)" >}}<br>
+### Element Loops Variation
+{{< youtube id="-2eNnE0DQZo" title="Element Loops Variation" >}}<br>
 ### More Videos
 
 - [Milk Loop](https://www.youtube.com/watch?v=ga_vN2nOlwU)
-- [Arrows (Loops Variation)](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
-- [Ravenspoint (Loops Variation)](https://www.youtube.com/watch?v=du1RjXpiEnw)
-- [Cells (Loops Variation)](https://www.youtube.com/watch?v=ra57S1IZje4)
-- [Battle Ropes (Loops Variation)](https://www.youtube.com/watch?v=5dpshfEnK7w)
+- [Arrows Loops Variation](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
+- [Ravenspoint Loops Variation](https://www.youtube.com/watch?v=du1RjXpiEnw)
+- [Cells Loops Variation](https://www.youtube.com/watch?v=ra57S1IZje4)
+- [Battle Ropes Loops Variation](https://www.youtube.com/watch?v=5dpshfEnK7w)
 - [Found Birds](https://www.youtube.com/watch?v=SnU5XLRLxDo)
-- [Did You See Butterflies (Loops Variation)](https://www.youtube.com/watch?v=YtjwvOpWeWc)
-- [Code (Loops Variation)](https://www.youtube.com/watch?v=nV3sqEyDPok)
-- [I Wish (Loops Variation)](https://www.youtube.com/watch?v=w67VcmD9zho)
-- [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
-- [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
-- [Element (Loops Variation)](https://www.youtube.com/watch?v=-2eNnE0DQZo)
+- [Did You See Butterflies Loops Variation](https://www.youtube.com/watch?v=YtjwvOpWeWc)
+- [Code Loops Variation](https://www.youtube.com/watch?v=nV3sqEyDPok)
+- [I Wish Loops Variation](https://www.youtube.com/watch?v=w67VcmD9zho)
+- [Majic Milk Loops Variation](https://www.youtube.com/watch?v=pFhCwUdCf6g)
+- [Jane Weaver new album  Loops In The Secret Society  2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
+- [Element Loops Variation](https://www.youtube.com/watch?v=-2eNnE0DQZo)
 - [Milk Loop](https://www.youtube.com/watch?v=ga_vN2nOlwU)
-- [Arrows (Loops Variation)](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
-- [Ravenspoint (Loops Variation)](https://www.youtube.com/watch?v=du1RjXpiEnw)
-- [Cells (Loops Variation)](https://www.youtube.com/watch?v=ra57S1IZje4)
-- [Battle Ropes (Loops Variation)](https://www.youtube.com/watch?v=5dpshfEnK7w)
+- [Arrows Loops Variation](https://www.youtube.com/watch?v=Bhn-5_ecS4Q)
+- [Ravenspoint Loops Variation](https://www.youtube.com/watch?v=du1RjXpiEnw)
+- [Cells Loops Variation](https://www.youtube.com/watch?v=ra57S1IZje4)
+- [Battle Ropes Loops Variation](https://www.youtube.com/watch?v=5dpshfEnK7w)
 - [Found Birds](https://www.youtube.com/watch?v=SnU5XLRLxDo)
-- [Did You See Butterflies (Loops Variation)](https://www.youtube.com/watch?v=YtjwvOpWeWc)
-- [Code (Loops Variation)](https://www.youtube.com/watch?v=nV3sqEyDPok)
-- [I Wish (Loops Variation)](https://www.youtube.com/watch?v=w67VcmD9zho)
-- [Majic Milk (Loops Variation)](https://www.youtube.com/watch?v=pFhCwUdCf6g)
-- [Jane Weaver new album . Loops In The Secret Society / 2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
+- [Did You See Butterflies Loops Variation](https://www.youtube.com/watch?v=YtjwvOpWeWc)
+- [Code Loops Variation](https://www.youtube.com/watch?v=nV3sqEyDPok)
+- [I Wish Loops Variation](https://www.youtube.com/watch?v=w67VcmD9zho)
+- [Majic Milk Loops Variation](https://www.youtube.com/watch?v=pFhCwUdCf6g)
+- [Jane Weaver new album  Loops In The Secret Society  2019](https://www.youtube.com/watch?v=eJ6Qfq3BZVw)
 
 ## Release Images
 {{< imageGrid >}}

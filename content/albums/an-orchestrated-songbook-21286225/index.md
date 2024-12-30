@@ -59,8 +59,8 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 
 
 ## Videos
-### Paul Weller -  Wild Wood (Feat. Celeste) -  With Jules Buckley And The BBC Symphony Orchestra (2021)
-{{< youtube id="SmsvdTeeLaw" title="Paul Weller -  Wild Wood (Feat. Celeste) -  With Jules Buckley And The BBC Symphony Orchestra (2021)" >}}<br>
+### Paul Weller -  Wild Wood Feat Celeste -  With Jules Buckley And The BBC Symphony Orchestra 2021
+{{< youtube id="SmsvdTeeLaw" title="Paul Weller -  Wild Wood Feat Celeste -  With Jules Buckley And The BBC Symphony Orchestra 2021" >}}<br>
 ### More Videos
 
 - [You Do Something To Me](https://www.youtube.com/watch?v=QUeUah8uGMk)

@@ -56,11 +56,11 @@ The album artwork is a still image from avant-garde cut-out animation film, Heav
 {{< youtube id="KDIDLIE7Z1E" title="Slomo" >}}<br>
 ### More Videos
 
-- [Slowdive - Star Roving (Official Audio)](https://www.youtube.com/watch?v=ogCih4OavoY)
-- [Slowdive - Sugar for the Pill (Official Video)](https://www.youtube.com/watch?v=BxwAPBxc0lU)
-- [Slowdive - Don't Know Why (Official Video)](https://www.youtube.com/watch?v=_kB2ot1PWy8)
+- [Slowdive - Star Roving Official Audio](https://www.youtube.com/watch?v=ogCih4OavoY)
+- [Slowdive - Sugar for the Pill Official Video](https://www.youtube.com/watch?v=BxwAPBxc0lU)
+- [Slowdive - Dont Know Why Official Video](https://www.youtube.com/watch?v=_kB2ot1PWy8)
 - [Slowdive   No Longer Making Time](https://www.youtube.com/watch?v=uxlXJf5iUzU)
-- [Slowdive - Go Get It (Music video)](https://www.youtube.com/watch?v=N0rMOMq-cqA)
+- [Slowdive - Go Get It Music video](https://www.youtube.com/watch?v=N0rMOMq-cqA)
 - [Slowdive - Falling Ashes](https://www.youtube.com/watch?v=t2INV5FS6AM)
 - [Slomo](https://www.youtube.com/watch?v=KDIDLIE7Z1E)
 - [Slowdive - 30th June](https://www.youtube.com/watch?v=AaGtVvx6R-0)

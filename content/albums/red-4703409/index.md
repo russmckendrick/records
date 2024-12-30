@@ -50,11 +50,11 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Videos
-### King Crimson - Red (OFFICIAL)
-{{< youtube id="X_pDwv3tpug" title="King Crimson - Red (OFFICIAL)" >}}<br>
+### King Crimson - Red OFFICIAL
+{{< youtube id="X_pDwv3tpug" title="King Crimson - Red OFFICIAL" >}}<br>
 ### More Videos
 
-- [King Crimson - Red (OFFICIAL)](https://www.youtube.com/watch?v=X_pDwv3tpug)
+- [King Crimson - Red OFFICIAL](https://www.youtube.com/watch?v=X_pDwv3tpug)
 
 ## Release Images
 {{< imageGrid >}}

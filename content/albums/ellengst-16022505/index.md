@@ -35,8 +35,8 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Ellengæst (Full Album) 2020
-{{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst (Full Album) 2020" >}}<br>
+### Crippled Black Phoenix - Ellengæst Full Album 2020
+{{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst Full Album 2020" >}}<br>
 
 
 ## Release Images

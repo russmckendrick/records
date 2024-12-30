@@ -47,8 +47,8 @@ The second single to be released from the album was an edited version of "Accide
 
 
 ## Videos
-### S̲t̲a̲tus Quo - I̲f Y̲ou C̲an't S̲tand T̲he H̲eat (1978) [Full Album]
-{{< youtube id="YYh3aS1oGUc" title="S̲t̲a̲tus Quo - I̲f Y̲ou C̲an't S̲tand T̲he H̲eat (1978) [Full Album]" >}}<br>
+### Status Quo - If You Cant Stand The Heat 1978 Full Album
+{{< youtube id="YYh3aS1oGUc" title="Status Quo - If You Cant Stand The Heat 1978 Full Album" >}}<br>
 
 
 ## Release Images

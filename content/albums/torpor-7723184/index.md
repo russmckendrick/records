@@ -34,8 +34,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Baron - "Stry"
-{{< youtube id="3sgJCOxKCfg" title="Baron - "Stry"" >}}<br>
+### Baron - Stry
+{{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>
 ### More Videos
 
 - [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
@@ -47,7 +47,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 - [Deeper Align](https://www.youtube.com/watch?v=xTWnKiYxeGQ)
 - [Albedo Dei](https://www.youtube.com/watch?v=2UtyLlC8ONA)
 - [Stry](https://www.youtube.com/watch?v=L_yIckisLxM)
-- [Baron - "Stry"](https://www.youtube.com/watch?v=3sgJCOxKCfg)
+- [Baron - Stry](https://www.youtube.com/watch?v=3sgJCOxKCfg)
 - [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
 - [Dragonfly](https://www.youtube.com/watch?v=azsJsQGA-sA)
 - [Dark Down](https://www.youtube.com/watch?v=c6bN2SUIzYc)

@@ -49,12 +49,12 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 
 
 ## Videos
-### The Interrupters - The Interrupters (Full Album)
-{{< youtube id="qEVTRsNuLNM" title="The Interrupters - The Interrupters (Full Album)" >}}<br>
+### The Interrupters - The Interrupters Full Album
+{{< youtube id="qEVTRsNuLNM" title="The Interrupters - The Interrupters Full Album" >}}<br>
 ### More Videos
 
-- [The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**](https://www.youtube.com/watch?v=gg8HvYqMo7M)
-- [The Interrupters - "Take Back The Power"](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
+- [The Interrupters - A Friend Like Me  OFFICIAL VIDEO](https://www.youtube.com/watch?v=gg8HvYqMo7M)
+- [The Interrupters - Take Back The Power](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
 
 ## Release Images
 {{< imageGrid >}}

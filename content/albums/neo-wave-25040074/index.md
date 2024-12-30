@@ -49,11 +49,11 @@ The album reached No. 74 on the UK Albums Chart. Two singles reached the UK top 
 
 
 ## Videos
-### Silver Sun - Hey Girl Friend (LP)
-{{< youtube id="q_vuhK6OtaI" title="Silver Sun - Hey Girl Friend (LP)" >}}<br>
+### Silver Sun - Hey Girl Friend LP
+{{< youtube id="q_vuhK6OtaI" title="Silver Sun - Hey Girl Friend LP" >}}<br>
 ### More Videos
 
-- [Silver Sun - I'll See You Around (LP)](https://www.youtube.com/watch?v=tzNFMP8oxdY)
+- [Silver Sun - Ill See You Around LP](https://www.youtube.com/watch?v=tzNFMP8oxdY)
 
 ## Release Images
 {{< imageGrid >}}

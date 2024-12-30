@@ -50,11 +50,11 @@ styles: ["Synth-pop"]
 - [OMD - La Mitrailleuse](https://www.youtube.com/watch?v=9PO_RkGju6M)
 - [Orchestral Manoeuvres in the Dark - Isotype](https://www.youtube.com/watch?v=gp_Du6uO9V4)
 - [Orchestral Manoeuvres in the Dark - The Punishment of Luxury](https://www.youtube.com/watch?v=2cU53wWb6UI)
-- [Orchestral Manoeuvres in the Dark — 'The Punishment of Luxury,' Live on Soundcheck](https://www.youtube.com/watch?v=NJQ3ZPF824E)
-- [Orchestral Manoeuvres in the Dark — 'Isotype,' Live on Soundcheck](https://www.youtube.com/watch?v=HTSF0m0eXuU)
-- [OMD kiss kiss kiss, bang bang bang](https://www.youtube.com/watch?v=sNAOUfOBjX4)
-- [Orchestral Manoeuvres in the Dark - The View from Here (Audio)](https://www.youtube.com/watch?v=udz-vvfMSGQ)
-- [Orchestral Manoeuvres In The Dark - One More Time (Unofficial Video)](https://www.youtube.com/watch?v=8r8SuETAXqk)
+- [Orchestral Manoeuvres in the Dark  The Punishment of Luxury Live on Soundcheck](https://www.youtube.com/watch?v=NJQ3ZPF824E)
+- [Orchestral Manoeuvres in the Dark  Isotype Live on Soundcheck](https://www.youtube.com/watch?v=HTSF0m0eXuU)
+- [OMD kiss kiss kiss bang bang bang](https://www.youtube.com/watch?v=sNAOUfOBjX4)
+- [Orchestral Manoeuvres in the Dark - The View from Here Audio](https://www.youtube.com/watch?v=udz-vvfMSGQ)
+- [Orchestral Manoeuvres In The Dark - One More Time Unofficial Video](https://www.youtube.com/watch?v=8r8SuETAXqk)
 - [Kiss Kiss Kiss Bang Bang Bang](https://www.youtube.com/watch?v=_nbCnmVDQmE)
 
 ## Release Images

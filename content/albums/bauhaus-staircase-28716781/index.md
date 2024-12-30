@@ -38,14 +38,14 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Orchestral Manoeuvres in the Dark - Bauhaus Staircase (Official Video)
-{{< youtube id="EFpIz0RQU9c" title="Orchestral Manoeuvres in the Dark - Bauhaus Staircase (Official Video)" >}}<br>
+### Orchestral Manoeuvres in the Dark - Bauhaus Staircase Official Video
+{{< youtube id="EFpIz0RQU9c" title="Orchestral Manoeuvres in the Dark - Bauhaus Staircase Official Video" >}}<br>
 ### More Videos
 
-- [Orchestral Manoeuvres in the Dark - Anthropocene (Official Video)](https://www.youtube.com/watch?v=QARnckI8Ny8)
+- [Orchestral Manoeuvres in the Dark - Anthropocene Official Video](https://www.youtube.com/watch?v=QARnckI8Ny8)
 - [Look At You Now](https://www.youtube.com/watch?v=ry4TmMZVmvY)
-- [Orchestral Manoeuvres in the Dark - Veruschka (Official Video)](https://www.youtube.com/watch?v=p_xUr7LLqok)
-- [Orchestral Manoeuvres in the Dark - Slow Train (Official Video)](https://www.youtube.com/watch?v=4sGJvNJ6RgM)
+- [Orchestral Manoeuvres in the Dark - Veruschka Official Video](https://www.youtube.com/watch?v=p_xUr7LLqok)
+- [Orchestral Manoeuvres in the Dark - Slow Train Official Video](https://www.youtube.com/watch?v=4sGJvNJ6RgM)
 
 ## Release Images
 {{< imageGrid >}}

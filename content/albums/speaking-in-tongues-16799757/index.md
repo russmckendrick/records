@@ -54,15 +54,15 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 
 
 ## Videos
-### Talking Heads - Burning Down the House (Official Video)
-{{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}<br>
+### Talking Heads - Burning Down the House Official Video
+{{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House Official Video" >}}<br>
 ### More Videos
 
-- [Talking Heads - This Must Be the Place (Official Audio)](https://www.youtube.com/watch?v=3ffD8_-s1TQ)
+- [Talking Heads - This Must Be the Place Official Audio](https://www.youtube.com/watch?v=3ffD8_-s1TQ)
 - [Making Flippy Floppy](https://www.youtube.com/watch?v=NpdT178afp0)
 - [Girlfriend Is Better](https://www.youtube.com/watch?v=OL_uB_4RlJQ)
 - [Slippery People](https://www.youtube.com/watch?v=JwMb06BiB9o)
-- [I Get Wild / Wild Gravity](https://www.youtube.com/watch?v=OPUVGuUPfVM)
+- [I Get Wild  Wild Gravity](https://www.youtube.com/watch?v=OPUVGuUPfVM)
 - [Swamp](https://www.youtube.com/watch?v=NBKG2juWANI)
 - [Moon Rocks](https://www.youtube.com/watch?v=MBPhsUfzkiU)
 - [Pull up the Roots](https://www.youtube.com/watch?v=nYWt_U43M9Y)

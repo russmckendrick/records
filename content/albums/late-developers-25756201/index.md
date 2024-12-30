@@ -63,21 +63,21 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 
 
 ## Videos
-### Belle and Sebastian- "Juliet Naked" (Official Audio)
-{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- "Juliet Naked" (Official Audio)" >}}<br>
+### Belle and Sebastian- Juliet Naked Official Audio
+{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked Official Audio" >}}<br>
 ### More Videos
 
-- [Belle and Sebastian- "Give A Little Time" (Official Audio)](https://www.youtube.com/watch?v=YaAoBKgasV8)
-- [Belle and Sebastian- "When We Were Very Young" (Official Audio)](https://www.youtube.com/watch?v=thV-lSwQJS8)
-- [Belle and Sebastian- "Will I Tell You A Secret" (Official Audio)](https://www.youtube.com/watch?v=L8YuF2lk2MU)
-- [Belle and Sebastian- "So In The Moment" (Official Audio)](https://www.youtube.com/watch?v=gzB1f4GBI3k)
-- [Belle and Sebastian- "The Evening Star" (Official Audio)](https://www.youtube.com/watch?v=jjUOpbSK8ys)
-- [Belle and Sebastian- "When You’re Not With Me" (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
-- [I Don't Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
-- [Belle and Sebastian- "Do You Follow" (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
-- [Belle and Sebastian- "When The Cynics Stare Back From The Wall" (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
-- [Belle and Sebastian- "Late Developers" (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
-- [Belle and Sebastian- "I Don't Know What You See in Me" (Official Music Video)](https://www.youtube.com/watch?v=dgao0WD5g48)
+- [Belle and Sebastian- Give A Little Time Official Audio](https://www.youtube.com/watch?v=YaAoBKgasV8)
+- [Belle and Sebastian- When We Were Very Young Official Audio](https://www.youtube.com/watch?v=thV-lSwQJS8)
+- [Belle and Sebastian- Will I Tell You A Secret Official Audio](https://www.youtube.com/watch?v=L8YuF2lk2MU)
+- [Belle and Sebastian- So In The Moment Official Audio](https://www.youtube.com/watch?v=gzB1f4GBI3k)
+- [Belle and Sebastian- The Evening Star Official Audio](https://www.youtube.com/watch?v=jjUOpbSK8ys)
+- [Belle and Sebastian- When Youre Not With Me Official Audio](https://www.youtube.com/watch?v=qzhRidZTMy0)
+- [I Dont Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
+- [Belle and Sebastian- Do You Follow Official Audio](https://www.youtube.com/watch?v=eI3GFFR7bPE)
+- [Belle and Sebastian- When The Cynics Stare Back From The Wall Official Audio](https://www.youtube.com/watch?v=kMzfU26LXuM)
+- [Belle and Sebastian- Late Developers Official Audio](https://www.youtube.com/watch?v=Nsl09w8jTro)
+- [Belle and Sebastian- I Dont Know What You See in Me Official Music Video](https://www.youtube.com/watch?v=dgao0WD5g48)
 
 ## Release Images
 {{< imageGrid >}}

@@ -61,7 +61,7 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 - [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)
 - [black midi - Welcome To Hell](https://www.youtube.com/watch?v=Efmq_uXt1Rk)
 - [black midi - Eat Men Eat](https://www.youtube.com/watch?v=dflSgJG4g3M)
-- [black midi - Sugar/Tzu](https://www.youtube.com/watch?v=8D3TrpQ_nFo)
+- [black midi - SugarTzu](https://www.youtube.com/watch?v=8D3TrpQ_nFo)
 - [The Race Is About To Begin](https://www.youtube.com/watch?v=k2nNWpK5SQA)
 - [Hellfire](https://www.youtube.com/watch?v=QfAOFyhfZJU)
 - [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)

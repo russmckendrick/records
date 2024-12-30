@@ -61,23 +61,23 @@ An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> 
 
 
 ## Videos
-### Trent Reznor & Atticus Ross - A Minute To Breathe
-{{< youtube id="wwwQ4uVGGSE" title="Trent Reznor & Atticus Ross - A Minute To Breathe" >}}<br>
+### Trent Reznor  Atticus Ross - A Minute To Breathe
+{{< youtube id="wwwQ4uVGGSE" title="Trent Reznor  Atticus Ross - A Minute To Breathe" >}}<br>
 ### More Videos
 
-- [Trent Reznor & Atticus Ross - And When The Sky Was Opened (Before the Flood OST)](https://www.youtube.com/watch?v=yx7KCJRzVjU)
-- [Trent Reznor & Atticus Ross + Gustavo Santaolalla - Between Two Poles](https://www.youtube.com/watch?v=mgTn1Fbl8-M)
-- [Before The Flood | Soundtrack | Full Album](https://www.youtube.com/watch?v=VeX2T2IP0_I)
+- [Trent Reznor  Atticus Ross - And When The Sky Was Opened Before the Flood OST](https://www.youtube.com/watch?v=yx7KCJRzVjU)
+- [Trent Reznor  Atticus Ross  Gustavo Santaolalla - Between Two Poles](https://www.youtube.com/watch?v=mgTn1Fbl8-M)
+- [Before The Flood  Soundtrack  Full Album](https://www.youtube.com/watch?v=VeX2T2IP0_I)
 - [Mogwai - Dust Bowl](https://www.youtube.com/watch?v=nxClteu0G70)
 - [After the Flood](https://www.youtube.com/watch?v=E9p8ytb0l6k)
-- [Trent Reznor & Atticus Ross & Gustavo Santaolalla - At Dusk](https://www.youtube.com/watch?v=jiJ451tMBUY)
-- [Trent Reznor & Atticus Ross - A Minute To Breathe](https://www.youtube.com/watch?v=wwwQ4uVGGSE)
-- [Trent Reznor & Atticus Ross - And When The Sky Was Opened (Before the Flood OST)](https://www.youtube.com/watch?v=yx7KCJRzVjU)
-- [Trent Reznor & Atticus Ross + Gustavo Santaolalla - Between Two Poles](https://www.youtube.com/watch?v=mgTn1Fbl8-M)
-- [Before The Flood | Soundtrack | Full Album](https://www.youtube.com/watch?v=VeX2T2IP0_I)
+- [Trent Reznor  Atticus Ross  Gustavo Santaolalla - At Dusk](https://www.youtube.com/watch?v=jiJ451tMBUY)
+- [Trent Reznor  Atticus Ross - A Minute To Breathe](https://www.youtube.com/watch?v=wwwQ4uVGGSE)
+- [Trent Reznor  Atticus Ross - And When The Sky Was Opened Before the Flood OST](https://www.youtube.com/watch?v=yx7KCJRzVjU)
+- [Trent Reznor  Atticus Ross  Gustavo Santaolalla - Between Two Poles](https://www.youtube.com/watch?v=mgTn1Fbl8-M)
+- [Before The Flood  Soundtrack  Full Album](https://www.youtube.com/watch?v=VeX2T2IP0_I)
 - [Mogwai - Dust Bowl](https://www.youtube.com/watch?v=nxClteu0G70)
 - [After the Flood](https://www.youtube.com/watch?v=E9p8ytb0l6k)
-- [Trent Reznor & Atticus Ross & Gustavo Santaolalla - At Dusk](https://www.youtube.com/watch?v=jiJ451tMBUY)
+- [Trent Reznor  Atticus Ross  Gustavo Santaolalla - At Dusk](https://www.youtube.com/watch?v=jiJ451tMBUY)
 
 ## Release Images
 {{< imageGrid >}}

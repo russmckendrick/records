@@ -57,14 +57,14 @@ The Lockdown Sessions is the fifth studio album by British musician Roger Waters
 ### More Videos
 
 - [Roger Waters - Two Suns In The Sunset](https://www.youtube.com/watch?v=P_m2CZU9vdk)
-- [Roger Waters - Vera / Bring The Boys Back Home](https://www.youtube.com/watch?v=7IVBsmkBirk)
-- [Roger Waters - The Gunner's Dream](https://www.youtube.com/watch?v=aC9rY4HeN6A)
+- [Roger Waters - Vera  Bring The Boys Back Home](https://www.youtube.com/watch?v=7IVBsmkBirk)
+- [Roger Waters - The Gunners Dream](https://www.youtube.com/watch?v=aC9rY4HeN6A)
 - [Roger Waters - The Bravery of Being Out of Range](https://www.youtube.com/watch?v=JamLmpVOgE0)
 - [Roger Waters - Comfortably Numb 2022](https://www.youtube.com/watch?v=9JLN581QWxc)
 - [Roger Waters - Mother](https://www.youtube.com/watch?v=9lCFaSL9aSE)
 - [Roger Waters - Two Suns In The Sunset](https://www.youtube.com/watch?v=P_m2CZU9vdk)
-- [Roger Waters - Vera / Bring The Boys Back Home](https://www.youtube.com/watch?v=7IVBsmkBirk)
-- [Roger Waters - The Gunner's Dream](https://www.youtube.com/watch?v=aC9rY4HeN6A)
+- [Roger Waters - Vera  Bring The Boys Back Home](https://www.youtube.com/watch?v=7IVBsmkBirk)
+- [Roger Waters - The Gunners Dream](https://www.youtube.com/watch?v=aC9rY4HeN6A)
 - [Roger Waters - The Bravery of Being Out of Range](https://www.youtube.com/watch?v=JamLmpVOgE0)
 - [Roger Waters - Comfortably Numb 2022](https://www.youtube.com/watch?v=9JLN581QWxc)
 

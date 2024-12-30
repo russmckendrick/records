@@ -38,28 +38,28 @@ Copyright problems caused a re-recorded version to be released; despite this ver
 
 
 ## Videos
-### JIVE BUNNY & THE MASTERMIXERS - SWING THE MOOD (DANCE HALL VERSION) - SIDE A - 1989
-{{< youtube id="SVEcZr3B5VA" title="JIVE BUNNY & THE MASTERMIXERS - SWING THE MOOD (DANCE HALL VERSION) - SIDE A - 1989" >}}<br>
+### JIVE BUNNY  THE MASTERMIXERS - SWING THE MOOD DANCE HALL VERSION - SIDE A - 1989
+{{< youtube id="SVEcZr3B5VA" title="JIVE BUNNY  THE MASTERMIXERS - SWING THE MOOD DANCE HALL VERSION - SIDE A - 1989" >}}<br>
 ### More Videos
 
-- [Jive Bunny & The Mastermixers | Swing The Mood  | Original Video](https://www.youtube.com/watch?v=hTA6I6hn-z4)
-- [Jive Bunny And The Mastermixers - Glen Miller Medley (The J. B. Edit)](https://www.youtube.com/watch?v=p6eDRvDKRKM)
+- [Jive Bunny  The Mastermixers  Swing The Mood   Original Video](https://www.youtube.com/watch?v=hTA6I6hn-z4)
+- [Jive Bunny And The Mastermixers - Glen Miller Medley The J B Edit](https://www.youtube.com/watch?v=p6eDRvDKRKM)
 - [Jive Bunny and the Mastermixers - SWING THE MOOD](https://www.youtube.com/watch?v=d7zF10x8NWw)
-- [Jive Bunny & The Mastermixers - Swing The Mood [Radio Mix]](https://www.youtube.com/watch?v=OiAite3KcGw)
+- [Jive Bunny  The Mastermixers - Swing The Mood Radio Mix](https://www.youtube.com/watch?v=OiAite3KcGw)
 - [Jive Bunny and the Mastermixers - Swing the Mood](https://www.youtube.com/watch?v=BCAlJnZFiWk)
-- [Jive Bunny And The MasterMixers - Swing The Mood (12" Version)](https://www.youtube.com/watch?v=ygIcyOSITgo)
-- [Jive Bunny And The Mastermixers ( Album )](https://www.youtube.com/watch?v=EmwhJS2i7uk)
-- [- JiveBunny - C-c-c-come on everybody.flv](https://www.youtube.com/watch?v=7BI2qSpJipM)
+- [Jive Bunny And The MasterMixers - Swing The Mood 12 Version](https://www.youtube.com/watch?v=ygIcyOSITgo)
+- [Jive Bunny And The Mastermixers  Album ](https://www.youtube.com/watch?v=EmwhJS2i7uk)
+- [- JiveBunny - C-c-c-come on everybodyflv](https://www.youtube.com/watch?v=7BI2qSpJipM)
 - [Jive Bunny and the Mastermixers - SWING THE MOOD](https://www.youtube.com/watch?v=d7zF10x8NWw)
-- [Jive Bunny and the Mastermixers - Swing the Mood (Dance Hall Version) [12'' maxi single]](https://www.youtube.com/watch?v=X3hZC49eHH0)
-- [Jive Bunny and the Mastermixers - Swing the Mood (Radio Mix) [12'' maxi single]](https://www.youtube.com/watch?v=nA1SCIckrGM)
-- [Jive Bunny and the Mastermixers - Glenn Miller Medley (The JB Edit) [12'' maxi single]](https://www.youtube.com/watch?v=rqgGP9pbgSQ)
+- [Jive Bunny and the Mastermixers - Swing the Mood Dance Hall Version 12 maxi single](https://www.youtube.com/watch?v=X3hZC49eHH0)
+- [Jive Bunny and the Mastermixers - Swing the Mood Radio Mix 12 maxi single](https://www.youtube.com/watch?v=nA1SCIckrGM)
+- [Jive Bunny and the Mastermixers - Glenn Miller Medley The JB Edit 12 maxi single](https://www.youtube.com/watch?v=rqgGP9pbgSQ)
 - [Jive bunny - The Album - 01 - Swing the Mood](https://www.youtube.com/watch?v=aoi5sVsJqCY)
-- [Jive Bunny & The Mastermixers | Swing The Mood  | Original Video](https://www.youtube.com/watch?v=hTA6I6hn-z4)
+- [Jive Bunny  The Mastermixers  Swing The Mood   Original Video](https://www.youtube.com/watch?v=hTA6I6hn-z4)
 - [Jive Bunny And The Mastermixers - Swing The Mood](https://www.youtube.com/watch?v=n3_kE6qM4tE)
-- [Jive Bunny And The Mastermixers - Swing The Mood (Radio Mix)](https://www.youtube.com/watch?v=vgemANusHr0)
-- [Jive Bunny And The Mastermixers - Glen Miller Medley (The J. B. Edit)](https://www.youtube.com/watch?v=p6eDRvDKRKM)
-- [Jive Bunny & The Mastermixers - Swing The Mood [Radio Mix]](https://www.youtube.com/watch?v=OiAite3KcGw)
+- [Jive Bunny And The Mastermixers - Swing The Mood Radio Mix](https://www.youtube.com/watch?v=vgemANusHr0)
+- [Jive Bunny And The Mastermixers - Glen Miller Medley The J B Edit](https://www.youtube.com/watch?v=p6eDRvDKRKM)
+- [Jive Bunny  The Mastermixers - Swing The Mood Radio Mix](https://www.youtube.com/watch?v=OiAite3KcGw)
 
 ## Release Images
 {{< imageGrid >}}

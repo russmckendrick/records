@@ -49,8 +49,8 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 
 
 ## Videos
-### S U R V I V E - RR7349 - 1 - A. H. B.
-{{< youtube id="QG8tmtjLMgg" title="S U R V I V E - RR7349 - 1 - A. H. B." >}}<br>
+### S U R V I V E - RR7349 - 1 - A H B
+{{< youtube id="QG8tmtjLMgg" title="S U R V I V E - RR7349 - 1 - A H B" >}}<br>
 ### More Videos
 
 - [S U R V I V E - RR7349 - 2 - Other](https://www.youtube.com/watch?v=02jdlRMwYCg)
@@ -61,7 +61,7 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 - [S U R V I V E - RR7349 - 7 - Low Fog](https://www.youtube.com/watch?v=h9JDod2OXGk)
 - [S U R V I V E - RR7349 - 8 - Copter](https://www.youtube.com/watch?v=70X6Um4jx_A)
 - [S U R V I V E - RR7349 - 9 - Cutthroat](https://www.youtube.com/watch?v=-I-JQtMmZr4)
-- [S U R V I V E - 'RR7349' (Full Album Stream)](https://www.youtube.com/watch?v=Z30CFPklA8Q)
+- [S U R V I V E - RR7349 Full Album Stream](https://www.youtube.com/watch?v=Z30CFPklA8Q)
 
 ## Release Images
 {{< imageGrid >}}

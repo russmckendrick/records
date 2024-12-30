@@ -51,11 +51,11 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 
 
 ## Videos
-### Hotel California (2013 Remaster)
-{{< youtube id="BciS5krYL80" title="Hotel California (2013 Remaster)" >}}<br>
+### Hotel California 2013 Remaster
+{{< youtube id="BciS5krYL80" title="Hotel California 2013 Remaster" >}}<br>
 ### More Videos
 
-- [Victim of Love (2013 Remaster)](https://www.youtube.com/watch?v=AFdomKzAPTY)
+- [Victim of Love 2013 Remaster](https://www.youtube.com/watch?v=AFdomKzAPTY)
 
 ## Release Images
 {{< imageGrid >}}

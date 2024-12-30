@@ -89,11 +89,11 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Videos
-### The Collected Works of Neutral Milk Hotel (Unboxing)
-{{< youtube id="XKRzAT19oHk" title="The Collected Works of Neutral Milk Hotel (Unboxing)" >}}<br>
+### The Collected Works of Neutral Milk Hotel Unboxing
+{{< youtube id="XKRzAT19oHk" title="The Collected Works of Neutral Milk Hotel Unboxing" >}}<br>
 ### More Videos
 
-- [The Collected Works of Neutral Milk Hotel (Unboxing)](https://www.youtube.com/watch?v=XKRzAT19oHk)
+- [The Collected Works of Neutral Milk Hotel Unboxing](https://www.youtube.com/watch?v=XKRzAT19oHk)
 
 ## Release Images
 {{< imageGrid >}}

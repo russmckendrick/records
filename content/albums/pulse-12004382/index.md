@@ -80,13 +80,13 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Pink Floyd - " PULSE " Live 1994 Remastered
-{{< youtube id="E9Iau_oik-E" title="Pink Floyd - " PULSE " Live 1994 Remastered" >}}<br>
+### Pink Floyd -  PULSE  Live 1994 Remastered
+{{< youtube id="E9Iau_oik-E" title="Pink Floyd -  PULSE  Live 1994 Remastered" >}}<br>
 ### More Videos
 
-- [Pink Floyd - Breathe (In The Air) [Live in HD]](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
-- [Pink Floyd - " PULSE " Live 1994 Remastered](https://www.youtube.com/watch?v=E9Iau_oik-E)
-- [Pink Floyd - Breathe (In The Air) [Live in HD]](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
+- [Pink Floyd - Breathe In The Air Live in HD](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
+- [Pink Floyd -  PULSE  Live 1994 Remastered](https://www.youtube.com/watch?v=E9Iau_oik-E)
+- [Pink Floyd - Breathe In The Air Live in HD](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
 
 ## Release Images
 {{< imageGrid >}}

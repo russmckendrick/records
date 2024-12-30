@@ -74,20 +74,20 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 
 
 ## Videos
-### Jenny Lewis - Heads Gonna Roll (Official Audio)
-{{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll (Official Audio)" >}}<br>
+### Jenny Lewis - Heads Gonna Roll Official Audio
+{{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll Official Audio" >}}<br>
 ### More Videos
 
-- [Jenny Lewis - Wasted Youth (Official Audio)](https://www.youtube.com/watch?v=ZY8bdQRpmGU)
-- [Jenny Lewis - Red Bull & Hennessy (Official Audio)](https://www.youtube.com/watch?v=rINs_GRLAVs)
-- [Jenny Lewis - Hollywood Lawn (Official Audio)](https://www.youtube.com/watch?v=6fspjNnHJ7I)
-- [Jenny Lewis - Do Si Do (Official Audio)](https://www.youtube.com/watch?v=DH0W70khpK8)
-- [Jenny Lewis - Dogwood (Official Audio)](https://www.youtube.com/watch?v=GODst4QgxdI)
-- [Jenny Lewis - Party Clown (Official Audio)](https://www.youtube.com/watch?v=u0W0XHT2_50)
-- [Jenny Lewis - Little White Dove (Official Audio)](https://www.youtube.com/watch?v=rLFJT_ca8YA)
-- [Jenny Lewis - Taffy (Official Audio)](https://www.youtube.com/watch?v=UkT4EWzoX38)
-- [Jenny Lewis - On The Line (Official Audio)](https://www.youtube.com/watch?v=GmfvvKDOEwE)
-- [Jenny Lewis - Rabbit Hole (Official Audio)](https://www.youtube.com/watch?v=PSgvM6D6ssY)
+- [Jenny Lewis - Wasted Youth Official Audio](https://www.youtube.com/watch?v=ZY8bdQRpmGU)
+- [Jenny Lewis - Red Bull  Hennessy Official Audio](https://www.youtube.com/watch?v=rINs_GRLAVs)
+- [Jenny Lewis - Hollywood Lawn Official Audio](https://www.youtube.com/watch?v=6fspjNnHJ7I)
+- [Jenny Lewis - Do Si Do Official Audio](https://www.youtube.com/watch?v=DH0W70khpK8)
+- [Jenny Lewis - Dogwood Official Audio](https://www.youtube.com/watch?v=GODst4QgxdI)
+- [Jenny Lewis - Party Clown Official Audio](https://www.youtube.com/watch?v=u0W0XHT2_50)
+- [Jenny Lewis - Little White Dove Official Audio](https://www.youtube.com/watch?v=rLFJT_ca8YA)
+- [Jenny Lewis - Taffy Official Audio](https://www.youtube.com/watch?v=UkT4EWzoX38)
+- [Jenny Lewis - On The Line Official Audio](https://www.youtube.com/watch?v=GmfvvKDOEwE)
+- [Jenny Lewis - Rabbit Hole Official Audio](https://www.youtube.com/watch?v=PSgvM6D6ssY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,43 +54,43 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 
 
 ## Videos
-### La Funk Mob "Ravers suck our sound and get fuck" 1994 Mo Wax
-{{< youtube id="RLv1SjteDG8" title="La Funk Mob "Ravers suck our sound and get fuck" 1994 Mo Wax" >}}<br>
+### La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax
+{{< youtube id="RLv1SjteDG8" title="La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax" >}}<br>
 ### More Videos
 
-- [Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
-- [Zimbabwe Legit - Doin' Damage In My Native Language (Shadow's Legitimate Mix)](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
-- [The Wild Bunch ‎– Friends & Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
+- [Holst The Planets Op32 - 2 Venus the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
+- [Zimbabwe Legit - Doin Damage In My Native Language Shadows Legitimate Mix](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
+- [The Wild Bunch  Friends  Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
 - [A FLG Maurepas upload - RPM - Food Of My De-Rhythm - Future Jazz](https://www.youtube.com/watch?v=-8oGqQVpJi8)
-- [Hiroshi & K.U.D.O - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
+- [Hiroshi  KUDO - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
 - [Attica Blues - Contemplating Jazz](https://www.youtube.com/watch?v=DlfG2b-vsLE)
-- [Dr.Octagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
+- [DrOctagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
 - [DJ Krush - Kemuri](https://www.youtube.com/watch?v=aVjgRlto8PI)
 - [UNKLE-Back And Forth-In A State](https://www.youtube.com/watch?v=RraRrDvXuq8)
-- [DJ Shadow - What Does Your Soul Look Like (Part 3)](https://www.youtube.com/watch?v=NSEQYDjKVNs)
+- [DJ Shadow - What Does Your Soul Look Like Part 3](https://www.youtube.com/watch?v=NSEQYDjKVNs)
 - [RPM - Flow](https://www.youtube.com/watch?v=FEyKjxhOqVY)
-- [Dj shadow-organ donor (extended overhaul)](https://www.youtube.com/watch?v=1p1n-j_MQKE)
-- [UNKLE feat. Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
+- [Dj shadow-organ donor extended overhaul](https://www.youtube.com/watch?v=1p1n-j_MQKE)
+- [UNKLE feat Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
 - [Blackalicious - Swan lake](https://www.youtube.com/watch?v=sGEkP1F-tgQ)
-- [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
-- [DJ Shadow - What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
-- [La Funk Mob "Ravers suck our sound and get fuck" 1994 Mo Wax](https://www.youtube.com/watch?v=RLv1SjteDG8)
-- [Holst: The Planets, Op.32 - 2. Venus, the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
-- [Zimbabwe Legit - Doin' Damage In My Native Language (Shadow's Legitimate Mix)](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
-- [The Wild Bunch ‎– Friends & Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
+- [Ian Brown  UNKLE - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
+- [DJ Shadow - What Does Your Soul Look Like Part 1 - Blue Sky Revisit](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
+- [La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax](https://www.youtube.com/watch?v=RLv1SjteDG8)
+- [Holst The Planets Op32 - 2 Venus the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
+- [Zimbabwe Legit - Doin Damage In My Native Language Shadows Legitimate Mix](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
+- [The Wild Bunch  Friends  Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
 - [A FLG Maurepas upload - RPM - Food Of My De-Rhythm - Future Jazz](https://www.youtube.com/watch?v=-8oGqQVpJi8)
-- [Hiroshi & K.U.D.O - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
+- [Hiroshi  KUDO - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
 - [Attica Blues - Contemplating Jazz](https://www.youtube.com/watch?v=DlfG2b-vsLE)
-- [Dr.Octagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
+- [DrOctagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
 - [DJ Krush - Kemuri](https://www.youtube.com/watch?v=aVjgRlto8PI)
 - [UNKLE-Back And Forth-In A State](https://www.youtube.com/watch?v=RraRrDvXuq8)
-- [DJ Shadow - What Does Your Soul Look Like (Part 3)](https://www.youtube.com/watch?v=NSEQYDjKVNs)
+- [DJ Shadow - What Does Your Soul Look Like Part 3](https://www.youtube.com/watch?v=NSEQYDjKVNs)
 - [RPM - Flow](https://www.youtube.com/watch?v=FEyKjxhOqVY)
-- [Dj shadow-organ donor (extended overhaul)](https://www.youtube.com/watch?v=1p1n-j_MQKE)
-- [UNKLE feat. Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
+- [Dj shadow-organ donor extended overhaul](https://www.youtube.com/watch?v=1p1n-j_MQKE)
+- [UNKLE feat Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
 - [Blackalicious - Swan lake](https://www.youtube.com/watch?v=sGEkP1F-tgQ)
-- [Ian Brown & U.N.K.L.E - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
-- [DJ Shadow - What Does Your Soul Look Like (Part 1 - Blue Sky Revisit)](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
+- [Ian Brown  UNKLE - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
+- [DJ Shadow - What Does Your Soul Look Like Part 1 - Blue Sky Revisit](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
 
 ## Release Images
 {{< imageGrid >}}

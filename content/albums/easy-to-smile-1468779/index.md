@@ -37,7 +37,7 @@ styles: ["Indie Rock"]
 {{< youtube id="xoqkAI7vk3c" title="senseless things - easy to smile" >}}<br>
 ### More Videos
 
-- [Easy To Smile (Edited Version)](https://www.youtube.com/watch?v=98eDh69GD-M)
+- [Easy To Smile Edited Version](https://www.youtube.com/watch?v=98eDh69GD-M)
 - [senseless things - easy to smile](https://www.youtube.com/watch?v=xoqkAI7vk3c)
 
 ## Release Images

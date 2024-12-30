@@ -46,14 +46,14 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 
 
 ## Videos
-### Pink Floyd - One of these Days (Official Audio)
-{{< youtube id="raV_A8YcBu0" title="Pink Floyd - One of these Days (Official Audio)" >}}<br>
+### Pink Floyd - One of these Days Official Audio
+{{< youtube id="raV_A8YcBu0" title="Pink Floyd - One of these Days Official Audio" >}}<br>
 ### More Videos
 
-- [Pink Floyd - A Pillow Of Winds (Official Audio)](https://www.youtube.com/watch?v=Hgx267jVma0)
-- [Pink Floyd - Fearless (Official Audio)](https://www.youtube.com/watch?v=IkgaMFjo_lI)
-- [Pink Floyd - San Tropez (Official Audio)](https://www.youtube.com/watch?v=mjNYO-OI2Fo)
-- [Pink Floyd - Echoes (Official Audio)](https://www.youtube.com/watch?v=OcDiOUQBFd4)
+- [Pink Floyd - A Pillow Of Winds Official Audio](https://www.youtube.com/watch?v=Hgx267jVma0)
+- [Pink Floyd - Fearless Official Audio](https://www.youtube.com/watch?v=IkgaMFjo_lI)
+- [Pink Floyd - San Tropez Official Audio](https://www.youtube.com/watch?v=mjNYO-OI2Fo)
+- [Pink Floyd - Echoes Official Audio](https://www.youtube.com/watch?v=OcDiOUQBFd4)
 
 ## Release Images
 {{< imageGrid >}}

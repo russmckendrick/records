@@ -50,12 +50,12 @@ styles: []
 
 
 ## Videos
-### Sam Brown - Stop! [LP Full Album]
-{{< youtube id="Q1sF8jYV_KM" title="Sam Brown - Stop! [LP Full Album]" >}}<br>
+### Sam Brown - Stop LP Full Album
+{{< youtube id="Q1sF8jYV_KM" title="Sam Brown - Stop LP Full Album" >}}<br>
 ### More Videos
 
 - [Sam Brown - Stop](https://www.youtube.com/watch?v=m-L9m2qhSmA)
-- [Sam Brown - Stop! [LP Full Album]](https://www.youtube.com/watch?v=Q1sF8jYV_KM)
+- [Sam Brown - Stop LP Full Album](https://www.youtube.com/watch?v=Q1sF8jYV_KM)
 - [Walking Back To Me](https://www.youtube.com/watch?v=hTOBlrWzT0o)
 - [Your Love Is All](https://www.youtube.com/watch?v=LEBiRGka5nU)
 - [Stop](https://www.youtube.com/watch?v=kRHSAPiBfq8)
@@ -65,9 +65,9 @@ styles: []
 - [Piece Of My Luck](https://www.youtube.com/watch?v=x05qXKVpJGU)
 - [Ball And Chain](https://www.youtube.com/watch?v=xEoXSfjJzwA)
 - [Wrap Me Up](https://www.youtube.com/watch?v=bBtt6SwSzzA)
-- [I'll Be In Love](https://www.youtube.com/watch?v=xFfrFPhSAFE)
+- [Ill Be In Love](https://www.youtube.com/watch?v=xFfrFPhSAFE)
 - [Merry Go Round](https://www.youtube.com/watch?v=Vj9OdQpY_4M)
-- [Sometimes You Just Don't Know](https://www.youtube.com/watch?v=r-zwq1Xqab4)
+- [Sometimes You Just Dont Know](https://www.youtube.com/watch?v=r-zwq1Xqab4)
 
 ## Release Images
 {{< imageGrid >}}

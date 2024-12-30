@@ -49,17 +49,17 @@ Likewise, “You Sure Love to Ball” leaves no doubt that it’s all about hump
 
 
 ## Videos
-### Marvin Gaye - Let's Get It On
-{{< youtube id="x6QZn9xiuOE" title="Marvin Gaye - Let's Get It On" >}}<br>
+### Marvin Gaye - Lets Get It On
+{{< youtube id="x6QZn9xiuOE" title="Marvin Gaye - Lets Get It On" >}}<br>
 ### More Videos
 
-- [Let's Get It On](https://www.youtube.com/watch?v=RuG3aiTznQA)
-- [Marvin Gaye - Please Stay (Once You Go Away)](https://www.youtube.com/watch?v=Gsazm-eqIvA)
+- [Lets Get It On](https://www.youtube.com/watch?v=RuG3aiTznQA)
+- [Marvin Gaye - Please Stay Once You Go Away](https://www.youtube.com/watch?v=Gsazm-eqIvA)
 - [Marvin Gaye - If I Should Die Tonight](https://www.youtube.com/watch?v=sCygnnSoZEA)
 - [Marvin Gaye - Come Get To This](https://www.youtube.com/watch?v=IexQYkNO2Ec)
 - [Marvin Gaye - Distant Lover](https://www.youtube.com/watch?v=qrCiNDEB2_Y)
-- [MARVIN GAYE (1973) - You Sure Love to Ball](https://www.youtube.com/watch?v=fbnPewJRMGI)
-- [Marvin Gaye: Just To Keep You Satisfied (1973)](https://www.youtube.com/watch?v=FhweqEYTe8o)
+- [MARVIN GAYE 1973 - You Sure Love to Ball](https://www.youtube.com/watch?v=fbnPewJRMGI)
+- [Marvin Gaye Just To Keep You Satisfied 1973](https://www.youtube.com/watch?v=FhweqEYTe8o)
 
 ## Release Images
 {{< imageGrid >}}

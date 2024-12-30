@@ -59,7 +59,7 @@ Roots Rock Riot is the second album from Welsh rock band Skindred. It was releas
 {{< youtube id="fWQuZIzdXPU" title="Roots Rock Riot" >}}<br>
 ### More Videos
 
-- [Skindred - Killing me [Roots Rock Riot Album]](https://www.youtube.com/watch?v=dsaHEp1VfXE)
+- [Skindred - Killing me Roots Rock Riot Album](https://www.youtube.com/watch?v=dsaHEp1VfXE)
 - [SKINDRED - Rat Race](https://www.youtube.com/watch?v=h-kmLkfFrtU)
 - [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
 

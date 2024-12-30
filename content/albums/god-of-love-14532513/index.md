@@ -52,8 +52,8 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 
 
 ## Videos
-### Bad Brains - God Of Love (Full album 1995)
-{{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love (Full album 1995)" >}}<br>
+### Bad Brains - God Of Love Full album 1995
+{{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love Full album 1995" >}}<br>
 ### More Videos
 
 - [Bad Brains - To The Heavens](https://www.youtube.com/watch?v=9scEyRRKRHU)

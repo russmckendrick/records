@@ -48,30 +48,30 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 
 ## Videos
-### Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)
-{{< youtube id="HL_fmIvfyCM" title="Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
+### Dr Octogan - Blue Flowers Vinyl Edition Digital Hardware Favorites
+{{< youtube id="HL_fmIvfyCM" title="Dr Octogan - Blue Flowers Vinyl Edition Digital Hardware Favorites" >}}<br>
 ### More Videos
 
-- ["Kool Aid" - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
-- ["Phantom (Redux)" - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
-- ["Fun House" Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
-- ["You Came To Party" - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
-- ["BLOWN" - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
-- ["Problem Child" - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
-- ["The Mule" - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
+- [Kool Aid - Danny Brown Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
+- [Phantom Redux - Shirt Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=TUP4KltUTDk)
+- [Fun House Pregnant Boy Feat OG Swaggerdick  Grip Plyaz Silicon Valley The Soundtrack](https://www.youtube.com/watch?v=c9FcwF66No8)
+- [You Came To Party - Too hort x Meter Mobb Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
+- [BLOWN - Darnell Williams Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=VGYkoXfF-N8)
+- [Problem Child - Onyx Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=BwdG07eLU78)
+- [The Mule - EVax Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=GC_btK6oQI8)
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
-- ["Stretch Your Face" - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
-- [Wu-Tang Clan - Don't Stop (Explicit) 2017](https://www.youtube.com/watch?v=AohtHrfgiBo)
-- [Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=HL_fmIvfyCM)
-- ["Kool Aid" - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
-- ["Phantom (Redux)" - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
-- ["Fun House" Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
-- ["You Came To Party" - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
-- ["BLOWN" - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
-- ["Problem Child" - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
-- ["The Mule" - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
+- [Stretch Your Face - Tobacco Shirt Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=LfzRlnfl09Q)
+- [Wu-Tang Clan - Dont Stop Explicit 2017](https://www.youtube.com/watch?v=AohtHrfgiBo)
+- [Dr Octogan - Blue Flowers Vinyl Edition Digital Hardware Favorites](https://www.youtube.com/watch?v=HL_fmIvfyCM)
+- [Kool Aid - Danny Brown Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
+- [Phantom Redux - Shirt Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=TUP4KltUTDk)
+- [Fun House Pregnant Boy Feat OG Swaggerdick  Grip Plyaz Silicon Valley The Soundtrack](https://www.youtube.com/watch?v=c9FcwF66No8)
+- [You Came To Party - Too hort x Meter Mobb Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
+- [BLOWN - Darnell Williams Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=VGYkoXfF-N8)
+- [Problem Child - Onyx Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=BwdG07eLU78)
+- [The Mule - EVax Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=GC_btK6oQI8)
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
-- ["Stretch Your Face" - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
+- [Stretch Your Face - Tobacco Shirt Silicon Valley The Soundtrack HQ Audio](https://www.youtube.com/watch?v=LfzRlnfl09Q)
 
 ## Release Images
 {{< imageGrid >}}

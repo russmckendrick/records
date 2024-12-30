@@ -52,21 +52,21 @@ The album was well-received by critics and fans, who viewed the record as a "ret
 
 
 ## Videos
-### Todd Rundgren - All The Children Sing (Lyrics Below) (HQ)
-{{< youtube id="BG0_Af4jJ8M" title="Todd Rundgren - All The Children Sing (Lyrics Below) (HQ)" >}}<br>
+### Todd Rundgren - All The Children Sing Lyrics Below HQ
+{{< youtube id="BG0_Af4jJ8M" title="Todd Rundgren - All The Children Sing Lyrics Below HQ" >}}<br>
 ### More Videos
 
-- [Can We Still Be Friends? (2015 Remaster)](https://www.youtube.com/watch?v=YtmrHm6Yxv0)
-- [Todd Rundgren - Hurting For You (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=8DLBm75zatQ)
-- [Too Far Gone (2015 Remaster)](https://www.youtube.com/watch?v=UIDKyl0o2JE)
-- [Todd Rundgren - Onomatopoeia (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=pN-pnU8hGSw)
-- [Determination (2015 Remaster)](https://www.youtube.com/watch?v=FfVzqg-mOTg)
-- [Bread (2015 Remaster)](https://www.youtube.com/watch?v=hjJJLvI6eWM)
-- [Todd Rundgren - Bag Lady (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=Uqwsh1WfKYM)
-- [You Cried Wolf (2015 Remaster)](https://www.youtube.com/watch?v=4RvIXQP6TpY)
-- [Lucky Guy (2015 Remaster)](https://www.youtube.com/watch?v=H81BzwkiiUU)
-- [Out of Control (2015 Remaster)](https://www.youtube.com/watch?v=4lYjswqTXbM)
-- [Fade Away (2015 Remaster)](https://www.youtube.com/watch?v=YFhHp5vYxa4)
+- [Can We Still Be Friends 2015 Remaster](https://www.youtube.com/watch?v=YtmrHm6Yxv0)
+- [Todd Rundgren - Hurting For You Lyrics Below HQ](https://www.youtube.com/watch?v=8DLBm75zatQ)
+- [Too Far Gone 2015 Remaster](https://www.youtube.com/watch?v=UIDKyl0o2JE)
+- [Todd Rundgren - Onomatopoeia Lyrics Below HQ](https://www.youtube.com/watch?v=pN-pnU8hGSw)
+- [Determination 2015 Remaster](https://www.youtube.com/watch?v=FfVzqg-mOTg)
+- [Bread 2015 Remaster](https://www.youtube.com/watch?v=hjJJLvI6eWM)
+- [Todd Rundgren - Bag Lady Lyrics Below HQ](https://www.youtube.com/watch?v=Uqwsh1WfKYM)
+- [You Cried Wolf 2015 Remaster](https://www.youtube.com/watch?v=4RvIXQP6TpY)
+- [Lucky Guy 2015 Remaster](https://www.youtube.com/watch?v=H81BzwkiiUU)
+- [Out of Control 2015 Remaster](https://www.youtube.com/watch?v=4lYjswqTXbM)
+- [Fade Away 2015 Remaster](https://www.youtube.com/watch?v=YFhHp5vYxa4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -46,14 +46,14 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 
 
 ## Videos
-### Billy Get Your Guns (From "Young Guns II" Soundtrack)
-{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From "Young Guns II" Soundtrack)" >}}<br>
+### Billy Get Your Guns From Young Guns II Soundtrack
+{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns From Young Guns II Soundtrack" >}}<br>
 ### More Videos
 
 - [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
 - [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
 - [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
-- [Jon Bon Jovi - Miracle (Official Video)](https://www.youtube.com/watch?v=wnM9WEha5E0)
+- [Jon Bon Jovi - Miracle Official Video](https://www.youtube.com/watch?v=wnM9WEha5E0)
 
 ## Release Images
 {{< imageGrid >}}

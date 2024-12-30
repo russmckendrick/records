@@ -52,16 +52,16 @@ styles: ["Ambient", "Post Rock"]
 
 
 ## Videos
-### Sigur Rós - Blóðberg (Official Video)
-{{< youtube id="ENZsxTiVQYo" title="Sigur Rós - Blóðberg (Official Video)" >}}<br>
+### Sigur Rós - Blóðberg Official Video
+{{< youtube id="ENZsxTiVQYo" title="Sigur Rós - Blóðberg Official Video" >}}<br>
 ### More Videos
 
-- [Sigur Rós – Gold (Official Video)](https://www.youtube.com/watch?v=S9aMeRDxSKo)
-- [Sigur Rós – Glóð (Official Video)](https://www.youtube.com/watch?v=5icgrXI0H40)
-- [Sigur Rós - Andrá (Official Video)](https://www.youtube.com/watch?v=qEw--v19WyI)
-- [Sigur Rós - Mór (Official Video)](https://www.youtube.com/watch?v=uIgtOov-j8A)
-- [Sigur Rós - Ylur (Official Video)](https://www.youtube.com/watch?v=bVUGKcT9QgQ)
-- [Sigur Rós - 8 (Official Video)](https://www.youtube.com/watch?v=f5DGqCEMvIk)
+- [Sigur Rós  Gold Official Video](https://www.youtube.com/watch?v=S9aMeRDxSKo)
+- [Sigur Rós  Glóð Official Video](https://www.youtube.com/watch?v=5icgrXI0H40)
+- [Sigur Rós - Andrá Official Video](https://www.youtube.com/watch?v=qEw--v19WyI)
+- [Sigur Rós - Mór Official Video](https://www.youtube.com/watch?v=uIgtOov-j8A)
+- [Sigur Rós - Ylur Official Video](https://www.youtube.com/watch?v=bVUGKcT9QgQ)
+- [Sigur Rós - 8 Official Video](https://www.youtube.com/watch?v=f5DGqCEMvIk)
 
 ## Release Images
 {{< imageGrid >}}

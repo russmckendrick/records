@@ -48,11 +48,11 @@ styles: []
 
 
 ## Videos
-### The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING
-{{< youtube id="jv-Tymtpj3o" title="The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING" >}}<br>
+### The Blacklist Music From The Television Series LP RSD 2016 UNBOXING
+{{< youtube id="jv-Tymtpj3o" title="The Blacklist Music From The Television Series LP RSD 2016 UNBOXING" >}}<br>
 ### More Videos
 
-- [The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING](https://www.youtube.com/watch?v=jv-Tymtpj3o)
+- [The Blacklist Music From The Television Series LP RSD 2016 UNBOXING](https://www.youtube.com/watch?v=jv-Tymtpj3o)
 
 ## Release Images
 {{< imageGrid >}}

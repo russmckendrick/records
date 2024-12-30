@@ -49,12 +49,12 @@ The Greatest Hits, So Far is a greatest hits album by English post-punk band Pub
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>
 ### More Videos
 
-- [Death Disco (Remastered)](https://www.youtube.com/watch?v=Whxd1twSFfM)
-- [Memories (2011 Remaster)](https://www.youtube.com/watch?v=rlM__Fk7d2E)
-- [Careering (2011 Remaster)](https://www.youtube.com/watch?v=2kxpZitrSIQ)
-- [Public Image Ltd. - This is Not a Love Song (album version)](https://www.youtube.com/watch?v=GZR-SgyD8R8)
-- [P.I.L. - Disappointed](https://www.youtube.com/watch?v=MhSdOHPIp0Q)
-- [Warrior (Remastered 2011)](https://www.youtube.com/watch?v=5sm9OzoJCN4)
+- [Death Disco Remastered](https://www.youtube.com/watch?v=Whxd1twSFfM)
+- [Memories 2011 Remaster](https://www.youtube.com/watch?v=rlM__Fk7d2E)
+- [Careering 2011 Remaster](https://www.youtube.com/watch?v=2kxpZitrSIQ)
+- [Public Image Ltd - This is Not a Love Song album version](https://www.youtube.com/watch?v=GZR-SgyD8R8)
+- [PIL - Disappointed](https://www.youtube.com/watch?v=MhSdOHPIp0Q)
+- [Warrior Remastered 2011](https://www.youtube.com/watch?v=5sm9OzoJCN4)
 - [The Body by PIL](https://www.youtube.com/watch?v=56RICywExfw)
 - [PIL - Public Image](https://www.youtube.com/watch?v=ylOCIP54PIQ)
 - [PUBLIC IMAGE LIMITED - This Is Not A Love Song](https://www.youtube.com/watch?v=-Kzk1xZCiv8)

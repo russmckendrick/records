@@ -68,16 +68,16 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 
 
 ## Videos
-### WORLD PARTY -- "SHE'S THE ONE"
-{{< youtube id="nfElyXo8krs" title="WORLD PARTY -- "SHE'S THE ONE"" >}}<br>
+### WORLD PARTY -- SHES THE ONE
+{{< youtube id="nfElyXo8krs" title="WORLD PARTY -- SHES THE ONE" >}}<br>
 ### More Videos
 
 - [World Party - Beautiful Dream](https://www.youtube.com/watch?v=KFmqSRyM2M8)
-- [World Party - Curse Of The Mummy's Tomb](https://www.youtube.com/watch?v=dJ6c14oaZLY)
+- [World Party - Curse Of The Mummys Tomb](https://www.youtube.com/watch?v=dJ6c14oaZLY)
 - [World Party - Love Is Best](https://www.youtube.com/watch?v=C7iaPiFfL0g)
 - [World Party - Call Me Up](https://www.youtube.com/watch?v=4QG4kn1OWb4)
-- [World Party - "She's The One"](https://www.youtube.com/watch?v=MtUqyAvhXLM)
-- [WORLD PARTY -- "SHE'S THE ONE"](https://www.youtube.com/watch?v=nfElyXo8krs)
+- [World Party - Shes The One](https://www.youtube.com/watch?v=MtUqyAvhXLM)
+- [WORLD PARTY -- SHES THE ONE](https://www.youtube.com/watch?v=nfElyXo8krs)
 
 ## Release Images
 {{< imageGrid >}}

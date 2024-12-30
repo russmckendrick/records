@@ -43,16 +43,16 @@ An “alternative rock” band that actually does provide an alternative by util
 
 
 ## Videos
-### The Flaming Lips - She Don't Use Jelly [Official Music Video]
-{{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Don't Use Jelly [Official Music Video]" >}}<br>
+### The Flaming Lips - She Dont Use Jelly Official Music Video
+{{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Dont Use Jelly Official Music Video" >}}<br>
 ### More Videos
 
-- [The Flaming Lips - Be My Head [Official Music Video]](https://www.youtube.com/watch?v=6iwrnwSzbGM)
-- [The Flaming Lips - Turn It On [Official Music Video]](https://www.youtube.com/watch?v=WHV2Txq342o)
+- [The Flaming Lips - Be My Head Official Music Video](https://www.youtube.com/watch?v=6iwrnwSzbGM)
+- [The Flaming Lips - Turn It On Official Music Video](https://www.youtube.com/watch?v=WHV2Txq342o)
 - [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
 - [Oh My Pregnant Head](https://www.youtube.com/watch?v=6tuQjskHh4s)
 - [Pilot Can at the Queer of God](https://www.youtube.com/watch?v=anOaEWU18og)
-- [******* (Plastic Jesus)](https://www.youtube.com/watch?v=GmoljzSI6W8)
+- [ Plastic Jesus](https://www.youtube.com/watch?v=GmoljzSI6W8)
 - [Superhumans](https://www.youtube.com/watch?v=X_Ygk4qGyt4)
 
 ## Release Images

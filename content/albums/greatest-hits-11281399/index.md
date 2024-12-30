@@ -51,22 +51,22 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 
 
 ## Videos
-### Sly & Family Stone - You Can Make It If You Try
-{{< youtube id="l8sz_7TPWE0" title="Sly & Family Stone - You Can Make It If You Try" >}}<br>
+### Sly  Family Stone - You Can Make It If You Try
+{{< youtube id="l8sz_7TPWE0" title="Sly  Family Stone - You Can Make It If You Try" >}}<br>
 ### More Videos
 
-- [Sly & The Family Stone Thank You (Falettinme Be Mice Elf Agin) HQ Audio](https://www.youtube.com/watch?v=wj5VODa-eTY)
-- [Sly & The Family Stone - Sing a Simple Song (Official Audio)](https://www.youtube.com/watch?v=42YGprrAOj0)
-- [Sly & The Family Stone - Fun](https://www.youtube.com/watch?v=wKpVxOMNofg)
-- [Sly & The Family Stone - Everyday People (Audio)](https://www.youtube.com/watch?v=3JvkaUvB-ec)
-- [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
+- [Sly  The Family Stone Thank You Falettinme Be Mice Elf Agin HQ Audio](https://www.youtube.com/watch?v=wj5VODa-eTY)
+- [Sly  The Family Stone - Sing a Simple Song Official Audio](https://www.youtube.com/watch?v=42YGprrAOj0)
+- [Sly  The Family Stone - Fun](https://www.youtube.com/watch?v=wKpVxOMNofg)
+- [Sly  The Family Stone - Everyday People Audio](https://www.youtube.com/watch?v=3JvkaUvB-ec)
+- [Sly  The Family Stone - Hot Fun in the Summertime Official Audio](https://www.youtube.com/watch?v=Bg0tFRea0wA)
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
-- [Stand!](https://www.youtube.com/watch?v=Al0WUPn_CnM)
+- [Stand](https://www.youtube.com/watch?v=Al0WUPn_CnM)
 - [Everyday People](https://www.youtube.com/watch?v=bsxM-zuKdmQ)
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
-- [M'Lady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
-- [Sly & The Family Stone - Dance To The Music (Audio)](https://www.youtube.com/watch?v=Jn2PNlhvy8E)
-- [Sly & The Family Stone - Everybody Is a Star (Official Audio)](https://www.youtube.com/watch?v=3-1s2gqDs_U)
+- [MLady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
+- [Sly  The Family Stone - Dance To The Music Audio](https://www.youtube.com/watch?v=Jn2PNlhvy8E)
+- [Sly  The Family Stone - Everybody Is a Star Official Audio](https://www.youtube.com/watch?v=3-1s2gqDs_U)
 
 ## Release Images
 {{< imageGrid >}}

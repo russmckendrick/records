@@ -55,16 +55,16 @@ In later decades, Ziggy Stardust has been considered one of Bowie's best works, 
 
 
 ## Videos
-### Lady Stardust (2012 Remaster)
-{{< youtube id="EcKZEOsgvdI" title="Lady Stardust (2012 Remaster)" >}}<br>
+### Lady Stardust 2012 Remaster
+{{< youtube id="EcKZEOsgvdI" title="Lady Stardust 2012 Remaster" >}}<br>
 ### More Videos
 
-- [Starman (2012 Remaster)](https://www.youtube.com/watch?v=aBKEt3MhNMM)
-- [Moonage Daydream (2012 Remaster)](https://www.youtube.com/watch?v=RPUAldgS7Sg)
-- [Five Years (2012 Remaster)](https://www.youtube.com/watch?v=2ObjtVdsV3I)
-- [Soul Love (2012 Remaster)](https://www.youtube.com/watch?v=mAoSRZsRwKg)
+- [Starman 2012 Remaster](https://www.youtube.com/watch?v=aBKEt3MhNMM)
+- [Moonage Daydream 2012 Remaster](https://www.youtube.com/watch?v=RPUAldgS7Sg)
+- [Five Years 2012 Remaster](https://www.youtube.com/watch?v=2ObjtVdsV3I)
+- [Soul Love 2012 Remaster](https://www.youtube.com/watch?v=mAoSRZsRwKg)
 - [David Bowie - Suffragette city](https://www.youtube.com/watch?v=zLnPd7lzT4g)
-- [Moonage Daydream (2012 Remaster)](https://www.youtube.com/watch?v=RPUAldgS7Sg)
+- [Moonage Daydream 2012 Remaster](https://www.youtube.com/watch?v=RPUAldgS7Sg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,11 +53,11 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 
 
 ## Videos
-### Nina Simone - Backlash Blues (Official Audio)
-{{< youtube id="0tllTDwQKV8" title="Nina Simone - Backlash Blues (Official Audio)" >}}<br>
+### Nina Simone - Backlash Blues Official Audio
+{{< youtube id="0tllTDwQKV8" title="Nina Simone - Backlash Blues Official Audio" >}}<br>
 ### More Videos
 
-- [Nina Simone - Blues for Mama (Official Audio)](https://www.youtube.com/watch?v=BDzzQ_3XjX8)
+- [Nina Simone - Blues for Mama Official Audio](https://www.youtube.com/watch?v=BDzzQ_3XjX8)
 
 ## Release Images
 {{< imageGrid >}}

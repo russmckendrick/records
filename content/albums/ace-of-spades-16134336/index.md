@@ -152,11 +152,11 @@ It was the band's debut release in the United States, with Mercury Records handl
 
 
 ## Videos
-### Motörhead – Ace Of Spades (Official Video)
-{{< youtube id="3mbvWn1EY6g" title="Motörhead – Ace Of Spades (Official Video)" >}}<br>
+### Motörhead  Ace Of Spades Official Video
+{{< youtube id="3mbvWn1EY6g" title="Motörhead  Ace Of Spades Official Video" >}}<br>
 ### More Videos
 
-- [Motörhead - Love Me Like A Reptile (Stage Fright) HQ](https://www.youtube.com/watch?v=Bn4dXzTSYRg)
+- [Motörhead - Love Me Like A Reptile Stage Fright HQ](https://www.youtube.com/watch?v=Bn4dXzTSYRg)
 
 ## Release Images
 {{< imageGrid >}}

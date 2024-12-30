@@ -49,16 +49,16 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 
 
 ## Videos
-### Psycho Killer (Live)
-{{< youtube id="xGccP6N2xP4" title="Psycho Killer (Live)" >}}<br>
+### Psycho Killer Live
+{{< youtube id="xGccP6N2xP4" title="Psycho Killer Live" >}}<br>
 ### More Videos
 
-- [Swamp (Live)](https://www.youtube.com/watch?v=O2VTCfcfTTM)
-- [Once in a Lifetime (Live)](https://www.youtube.com/watch?v=3XCp3ioDjwo)
-- [Slippery People (Live)](https://www.youtube.com/watch?v=ZCHv9jHHgwU)
-- [Burning Down the House (Live)](https://www.youtube.com/watch?v=WymDCo0dkSY)
-- [Crosseyed and Painless (Live)](https://www.youtube.com/watch?v=qhLDfsOBsC0)
-- [Take Me to the River (Live)](https://www.youtube.com/watch?v=1FlTFQW9lAQ)
+- [Swamp Live](https://www.youtube.com/watch?v=O2VTCfcfTTM)
+- [Once in a Lifetime Live](https://www.youtube.com/watch?v=3XCp3ioDjwo)
+- [Slippery People Live](https://www.youtube.com/watch?v=ZCHv9jHHgwU)
+- [Burning Down the House Live](https://www.youtube.com/watch?v=WymDCo0dkSY)
+- [Crosseyed and Painless Live](https://www.youtube.com/watch?v=qhLDfsOBsC0)
+- [Take Me to the River Live](https://www.youtube.com/watch?v=1FlTFQW9lAQ)
 
 ## Release Images
 {{< imageGrid >}}

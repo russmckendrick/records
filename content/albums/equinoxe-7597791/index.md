@@ -37,8 +37,8 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 
 
 ## Videos
-### Jean-Michel Jarre - Equinoxe, Pt. 4
-{{< youtube id="iyX_qouAmfE" title="Jean-Michel Jarre - Equinoxe, Pt. 4" >}}<br>
+### Jean-Michel Jarre - Equinoxe Pt 4
+{{< youtube id="iyX_qouAmfE" title="Jean-Michel Jarre - Equinoxe Pt 4" >}}<br>
 
 
 ## Release Images

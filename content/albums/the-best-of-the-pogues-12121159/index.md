@@ -50,13 +50,13 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 
 
 ## Videos
-### The Pogues -  Fairytale Of New York (Official Video)
-{{< youtube id="j9jbdgZidu8" title="The Pogues -  Fairytale Of New York (Official Video)" >}}<br>
+### The Pogues -  Fairytale Of New York Official Video
+{{< youtube id="j9jbdgZidu8" title="The Pogues -  Fairytale Of New York Official Video" >}}<br>
 ### More Videos
 
-- [the pogues-sally maclennane [best quality]](https://www.youtube.com/watch?v=fvV5mryQF1I)
+- [the pogues-sally maclennane best quality](https://www.youtube.com/watch?v=fvV5mryQF1I)
 - [The Pogues - If I Should Fall from Grace with God - Hockey Mom](https://www.youtube.com/watch?v=dTbth9pQTyw)
-- [The Pogues -  Fairytale Of New York (Official Video)](https://www.youtube.com/watch?v=j9jbdgZidu8)
+- [The Pogues -  Fairytale Of New York Official Video](https://www.youtube.com/watch?v=j9jbdgZidu8)
 - [The Pogues Streams Of Whiskey](https://www.youtube.com/watch?v=TaHMG_SvUkw)
 - [The Pogues - Fiesta](https://www.youtube.com/watch?v=6pYI9t-I6qo)
 - [pogues - dirty old town](https://www.youtube.com/watch?v=kVUZuVZWHkk)

@@ -45,8 +45,8 @@ In 1997, Ivo van Hove directed a new production of the play at the New York Thea
 
 
 ## Videos
-### CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)
-{{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)" >}}<br>
+### CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO
+{{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
@@ -57,9 +57,9 @@ In 1997, Ivo van Hove directed a new production of the play at the New York Thea
 - [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)
 - [Film](https://www.youtube.com/watch?v=yuKB9iOIZ9g)
 - [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
-- [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
+- [Easy Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
 - [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
-- [CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=w4fZO6j6I2s)
+- [CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO](https://www.youtube.com/watch?v=w4fZO6j6I2s)
 - [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
 - [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
 - [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
@@ -68,7 +68,7 @@ In 1997, Ivo van Hove directed a new production of the play at the New York Thea
 - [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)
 - [Film](https://www.youtube.com/watch?v=yuKB9iOIZ9g)
 - [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
-- [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
+- [Easy Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
 - [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
 
 ## Release Images

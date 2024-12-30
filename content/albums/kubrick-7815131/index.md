@@ -46,12 +46,12 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 
 
 ## Videos
-### Soulsavers - DeLarge (album Kubrick)
-{{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
+### Soulsavers - DeLarge album Kubrick
+{{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge album Kubrick" >}}<br>
 ### More Videos
 
 - [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
-- [Soulsavers - DeLarge (album Kubrick)](https://www.youtube.com/watch?v=2KLFnzVZh4o)
+- [Soulsavers - DeLarge album Kubrick](https://www.youtube.com/watch?v=2KLFnzVZh4o)
 - [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
 
 ## Release Images

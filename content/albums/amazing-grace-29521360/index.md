@@ -49,17 +49,17 @@ The closing track on the album, "Lay It Down Slow", was used in the Series Final
 
 
 ## Videos
-### Amazing Grace (Peace on Earth)
-{{< youtube id="QmTVdpVMvss" title="Amazing Grace (Peace on Earth)" >}}<br>
+### Amazing Grace Peace on Earth
+{{< youtube id="QmTVdpVMvss" title="Amazing Grace Peace on Earth" >}}<br>
 ### More Videos
 
-- [Spiritualized - She Kissed Me (It Felt Like a Hit) (Official Music Video)](https://www.youtube.com/watch?v=40MJSm6EYXM)
+- [Spiritualized - She Kissed Me It Felt Like a Hit Official Music Video](https://www.youtube.com/watch?v=40MJSm6EYXM)
 - [Hold On](https://www.youtube.com/watch?v=5TgJVYLPGvs)
 - [Lay It Down Slow](https://www.youtube.com/watch?v=7R2yP0dU4qo)
-- [Spiritualized - Rated X (Official Music Video)](https://www.youtube.com/watch?v=_w4FgrS04jY)
-- [Spiritualized - Cheapster (Official Music Video)](https://www.youtube.com/watch?v=QdoGsEBL8wk)
-- [Amazing Grace (Peace on Earth)](https://www.youtube.com/watch?v=QmTVdpVMvss)
-- [Spiritualized - She Kissed Me (It Felt Like a Hit) (Official Music Video)](https://www.youtube.com/watch?v=40MJSm6EYXM)
+- [Spiritualized - Rated X Official Music Video](https://www.youtube.com/watch?v=_w4FgrS04jY)
+- [Spiritualized - Cheapster Official Music Video](https://www.youtube.com/watch?v=QdoGsEBL8wk)
+- [Amazing Grace Peace on Earth](https://www.youtube.com/watch?v=QmTVdpVMvss)
+- [Spiritualized - She Kissed Me It Felt Like a Hit Official Music Video](https://www.youtube.com/watch?v=40MJSm6EYXM)
 - [Hold On](https://www.youtube.com/watch?v=5TgJVYLPGvs)
 - [Lay It Down Slow](https://www.youtube.com/watch?v=7R2yP0dU4qo)
 

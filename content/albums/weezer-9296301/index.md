@@ -55,33 +55,33 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 
 
 ## Videos
-### Weezer - Buddy Holly (Official Music Video)
-{{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly (Official Music Video)" >}}<br>
+### Weezer - Buddy Holly Official Music Video
+{{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly Official Music Video" >}}<br>
 ### More Videos
 
-- [Weezer - Say It Ain't So (Official Video)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
+- [Weezer - Say It Aint So Official Video](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
 - [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
-- [Weezer - Say It Ain't So (Official Video)](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
+- [Weezer - Say It Aint So Official Video](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
 - [Weezer - Buddy Holly](https://www.youtube.com/watch?v=Kjr7US2Z9aY)
-- [Weezer - Africa (starring Weird Al Yankovic)](https://www.youtube.com/watch?v=mk5Dwg5zm2U)
-- [Weezer - Island In The Sun (Official Music Video)](https://www.youtube.com/watch?v=erG5rgNYSdk)
+- [Weezer - Africa starring Weird Al Yankovic](https://www.youtube.com/watch?v=mk5Dwg5zm2U)
+- [Weezer - Island In The Sun Official Music Video](https://www.youtube.com/watch?v=erG5rgNYSdk)
 - [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
-- [Weezer - Buddy Holly (Official Music Video)](https://www.youtube.com/watch?v=kemivUKb4f4)
+- [Weezer - Buddy Holly Official Music Video](https://www.youtube.com/watch?v=kemivUKb4f4)
 - [Day 250 of posting Weezer everyday for the boys to create an army](https://www.youtube.com/watch?v=k8fIDU7I_Gk)
 - [I Just Threw Out The Love Of My Dreams](https://www.youtube.com/watch?v=r2dosVRzLSM)
-- [weezer #weezer #meme #funny #comedy #satire #shortsfeed #shorts #viral #fyp #music #bluealbum](https://www.youtube.com/watch?v=oFA1LEQRRR8)
-- [Weezer - Buddy Holly (2024 Remaster)](https://www.youtube.com/watch?v=SiJie3Z7DG8)
-- [We’re Weezer, of course we’re playing the Blue Album in full this summer. https://weezer.com/tour](https://www.youtube.com/watch?v=BnbuptO63X4)
-- [Kenosha, Wisconsin's own Weezer! Animation by Yuri Fain](https://www.youtube.com/watch?v=MTvhBwn5WWs)
-- [Weezer - The Blue Album LIVE | Spotify THIRTY - The 30th Anniversary](https://www.youtube.com/watch?v=P_vI3FV1H4U)
-- [Weezer - Hash Pipe (Revised)](https://www.youtube.com/watch?v=_9BGLtqqkVI)
+- [weezer weezer meme funny comedy satire shortsfeed shorts viral fyp music bluealbum](https://www.youtube.com/watch?v=oFA1LEQRRR8)
+- [Weezer - Buddy Holly 2024 Remaster](https://www.youtube.com/watch?v=SiJie3Z7DG8)
+- [Were Weezer of course were playing the Blue Album in full this summer httpsweezercomtour](https://www.youtube.com/watch?v=BnbuptO63X4)
+- [Kenosha Wisconsins own Weezer Animation by Yuri Fain](https://www.youtube.com/watch?v=MTvhBwn5WWs)
+- [Weezer - The Blue Album LIVE  Spotify THIRTY - The 30th Anniversary](https://www.youtube.com/watch?v=P_vI3FV1H4U)
+- [Weezer - Hash Pipe Revised](https://www.youtube.com/watch?v=_9BGLtqqkVI)
 - [Weezer - Beverly Hills](https://www.youtube.com/watch?v=HL_WvOly7mY)
 - [Weezer - Island In The Sun](https://www.youtube.com/watch?v=HVHUjzZZGQ4)
 - [Weezer - SNL](https://www.youtube.com/watch?v=ab5WvwfLuLM)
 - [Pink Triangle](https://www.youtube.com/watch?v=v2vWDWxYJBc)
-- [I just noticed this in double life 😱 #buddyholly #weezer](https://www.youtube.com/watch?v=XiU1qCvPs7c)
-- [Weezer - Say It Ain't So](https://www.youtube.com/watch?v=zo-x4PU8S6g)
-- [Weezer - Say It Ain't So (2024 Remaster)](https://www.youtube.com/watch?v=OoPHItnUFkw)
+- [I just noticed this in double life  buddyholly weezer](https://www.youtube.com/watch?v=XiU1qCvPs7c)
+- [Weezer - Say It Aint So](https://www.youtube.com/watch?v=zo-x4PU8S6g)
+- [Weezer - Say It Aint So 2024 Remaster](https://www.youtube.com/watch?v=OoPHItnUFkw)
 - [Weezer - Pork And Beans](https://www.youtube.com/watch?v=PQHPYelqr0E)
 
 ## Release Images

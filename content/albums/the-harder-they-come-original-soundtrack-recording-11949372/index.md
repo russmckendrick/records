@@ -43,14 +43,14 @@ styles: ["Soundtrack", "Reggae"]
 
 
 ## Videos
-### Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)
-{{< youtube id="StP9OX4bOgU" title="Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)" >}}<br>
+### Jimmy Cliff - The Harder They Come Original Soundtrack 1972
+{{< youtube id="StP9OX4bOgU" title="Jimmy Cliff - The Harder They Come Original Soundtrack 1972" >}}<br>
 ### More Videos
 
 - [Scotty   Draw Your Brakes](https://www.youtube.com/watch?v=pcGadadrPtk)
-- [Desmond Dekker ~ 007 Shanty Town (with lyrics)](https://www.youtube.com/watch?v=YspCXgdjqEM)
+- [Desmond Dekker  007 Shanty Town with lyrics](https://www.youtube.com/watch?v=YspCXgdjqEM)
 - [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
-- [Review 25: Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=f0DNBaKWieI)
+- [Review 25 Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=f0DNBaKWieI)
 - [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
 - [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
 - [Scotty - Draw Your Brakes - Balada Sangrenta Jimmy Cliff](https://www.youtube.com/watch?v=m7KxOv1v7Bs)

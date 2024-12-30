@@ -73,13 +73,13 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 
 
 ## Videos
-### Killing Joke "Timewave"
-{{< youtube id="zjaTN6ROjrI" title="Killing Joke "Timewave"" >}}<br>
+### Killing Joke Timewave
+{{< youtube id="zjaTN6ROjrI" title="Killing Joke Timewave" >}}<br>
 ### More Videos
 
-- [Killing Joke "Timewave"](https://www.youtube.com/watch?v=zjaTN6ROjrI)
-- [Me Or You (2007 Digital Remaster)](https://www.youtube.com/watch?v=FZqxbyIRul4)
-- [Let's All Go (To The Fire Dances)](https://www.youtube.com/watch?v=rmPAT575-Ng)
+- [Killing Joke Timewave](https://www.youtube.com/watch?v=zjaTN6ROjrI)
+- [Me Or You 2007 Digital Remaster](https://www.youtube.com/watch?v=FZqxbyIRul4)
+- [Lets All Go To The Fire Dances](https://www.youtube.com/watch?v=rmPAT575-Ng)
 
 ## Release Images
 {{< imageGrid >}}

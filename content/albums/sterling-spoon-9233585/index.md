@@ -78,25 +78,25 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Jane's Addiction - Mountain Song (Official Video)
-{{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
+### Janes Addiction - Mountain Song Official Video
+{{< youtube id="1kAIMlISHhU" title="Janes Addiction - Mountain Song Official Video" >}}<br>
 ### More Videos
 
 - [Up the Beach](https://www.youtube.com/watch?v=eEORxpfQMTA)
-- [Ted, Just Admit It...](https://www.youtube.com/watch?v=5WZL176LnOY)
+- [Ted Just Admit It](https://www.youtube.com/watch?v=5WZL176LnOY)
 - [Had a Dad](https://www.youtube.com/watch?v=2q0jl6mL-VA)
 - [Thank You Boys](https://www.youtube.com/watch?v=R7lbbA9Vwk4)
-- [Then She Did...](https://www.youtube.com/watch?v=0l6x7VhrNp8)
+- [Then She Did](https://www.youtube.com/watch?v=0l6x7VhrNp8)
 - [Three Days](https://www.youtube.com/watch?v=0Wy8em8OySI)
 - [Of Course](https://www.youtube.com/watch?v=MNuo563EcTw)
-- [Ain't No Right](https://www.youtube.com/watch?v=sRXYQtws9mY)
+- [Aint No Right](https://www.youtube.com/watch?v=sRXYQtws9mY)
 - [Kettle Whistle](https://www.youtube.com/watch?v=wsSa89Ckgps)
-- [Jane Says (Live)](https://www.youtube.com/watch?v=s_v0jj1BvhM)
-- [Mountain Song (Demo Version)](https://www.youtube.com/watch?v=UyLu9iG2x8I)
-- [My Cat's Name Is Maceo (Demo)](https://www.youtube.com/watch?v=-CUkqZezD-I)
-- [City (Soul Kiss 88)](https://www.youtube.com/watch?v=wP588k4mHLo)
-- [Been Caught Stealing (Studio Out-Take)](https://www.youtube.com/watch?v=lhWez4MO6DM)
-- [Slow Divers (Live)](https://www.youtube.com/watch?v=g89cx6BZ1bQ)
+- [Jane Says Live](https://www.youtube.com/watch?v=s_v0jj1BvhM)
+- [Mountain Song Demo Version](https://www.youtube.com/watch?v=UyLu9iG2x8I)
+- [My Cats Name Is Maceo Demo](https://www.youtube.com/watch?v=-CUkqZezD-I)
+- [City Soul Kiss 88](https://www.youtube.com/watch?v=wP588k4mHLo)
+- [Been Caught Stealing Studio Out-Take](https://www.youtube.com/watch?v=lhWez4MO6DM)
+- [Slow Divers Live](https://www.youtube.com/watch?v=g89cx6BZ1bQ)
 
 ## Release Images
 {{< imageGrid >}}

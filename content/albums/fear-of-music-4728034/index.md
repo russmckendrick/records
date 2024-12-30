@@ -52,18 +52,18 @@ There are plenty of experiments into the disorienting possibilities of studio pr
 
 
 ## Videos
-### I Zimbra (2005 Remaster)
-{{< youtube id="qKFn66dzdz0" title="I Zimbra (2005 Remaster)" >}}<br>
+### I Zimbra 2005 Remaster
+{{< youtube id="qKFn66dzdz0" title="I Zimbra 2005 Remaster" >}}<br>
 ### More Videos
 
-- [Electric Guitar (2005 Remaster)](https://www.youtube.com/watch?v=GFmVwSRZcZE)
-- [Mind (2005 Remaster)](https://www.youtube.com/watch?v=ehB6462JHog)
-- [Cities (2005 Remaster)](https://www.youtube.com/watch?v=K5H1nEP2wXA)
-- [Paper (2005 Remaster)](https://www.youtube.com/watch?v=swCk2wKPK6Y)
-- [Memories Can't Wait (2005 Remaster)](https://www.youtube.com/watch?v=ssCFwQkyCeI)
-- [Heaven (2005 Remaster)](https://www.youtube.com/watch?v=JAa7J10D8Qw)
-- [Animals (2005 Remaster)](https://www.youtube.com/watch?v=eBiIFhg0Jnc)
-- [Drugs (2005 Remaster)](https://www.youtube.com/watch?v=vlc0_GUdfIQ)
+- [Electric Guitar 2005 Remaster](https://www.youtube.com/watch?v=GFmVwSRZcZE)
+- [Mind 2005 Remaster](https://www.youtube.com/watch?v=ehB6462JHog)
+- [Cities 2005 Remaster](https://www.youtube.com/watch?v=K5H1nEP2wXA)
+- [Paper 2005 Remaster](https://www.youtube.com/watch?v=swCk2wKPK6Y)
+- [Memories Cant Wait 2005 Remaster](https://www.youtube.com/watch?v=ssCFwQkyCeI)
+- [Heaven 2005 Remaster](https://www.youtube.com/watch?v=JAa7J10D8Qw)
+- [Animals 2005 Remaster](https://www.youtube.com/watch?v=eBiIFhg0Jnc)
+- [Drugs 2005 Remaster](https://www.youtube.com/watch?v=vlc0_GUdfIQ)
 
 ## Release Images
 {{< imageGrid >}}

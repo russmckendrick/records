@@ -52,14 +52,14 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 
 
 ## Videos
-### Tin Machine - Tin Machine II -【1991】 Full Album
-{{< youtube id="lFMmyaPrNkM" title="Tin Machine - Tin Machine II -【1991】 Full Album" >}}<br>
+### Tin Machine - Tin Machine II -1991 Full Album
+{{< youtube id="lFMmyaPrNkM" title="Tin Machine - Tin Machine II -1991 Full Album" >}}<br>
 ### More Videos
 
-- [TIN MACHINE II ~ FULL ALBUM](https://www.youtube.com/watch?v=kirFZVEN48Y)
-- [Tin Machine – Tin Machine II](https://www.youtube.com/watch?v=KJ8XfO7YTdo)
-- [Tin Machine - Tin Machine II -【1991】 Full Album](https://www.youtube.com/watch?v=lFMmyaPrNkM)
-- [David Bowie - Tin Machine II (1991)](https://www.youtube.com/watch?v=nGfCw8zluNM)
+- [TIN MACHINE II  FULL ALBUM](https://www.youtube.com/watch?v=kirFZVEN48Y)
+- [Tin Machine  Tin Machine II](https://www.youtube.com/watch?v=KJ8XfO7YTdo)
+- [Tin Machine - Tin Machine II -1991 Full Album](https://www.youtube.com/watch?v=lFMmyaPrNkM)
+- [David Bowie - Tin Machine II 1991](https://www.youtube.com/watch?v=nGfCw8zluNM)
 
 ## Release Images
 {{< imageGrid >}}

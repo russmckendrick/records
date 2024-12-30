@@ -44,21 +44,21 @@ Eels Time! is the 15th studio album by the American indie rock band Eels. It was
 
 
 ## Videos
-### EELS - Time (official video) - from EELS TIME! - Out June 7, 2024
-{{< youtube id="-ILgcm5c8oc" title="EELS - Time (official video) - from EELS TIME! - Out June 7, 2024" >}}<br>
+### EELS - Time official video - from EELS TIME - Out June 7 2024
+{{< youtube id="-ILgcm5c8oc" title="EELS - Time official video - from EELS TIME - Out June 7 2024" >}}<br>
 ### More Videos
 
-- [WE WON'T SEE HER LIKE AGAIN](https://www.youtube.com/watch?v=I3uUeN7Py10)
-- [EELS - Goldy (official audio) - from EELS TIME! - Out June 7, 2024](https://www.youtube.com/watch?v=dKyt46POn0g)
+- [WE WONT SEE HER LIKE AGAIN](https://www.youtube.com/watch?v=I3uUeN7Py10)
+- [EELS - Goldy official audio - from EELS TIME - Out June 7 2024](https://www.youtube.com/watch?v=dKyt46POn0g)
 - [SWEET SMILE](https://www.youtube.com/watch?v=78p-reJf_98)
 - [HAUNTED HERO](https://www.youtube.com/watch?v=LnEkCQxQRDg)
-- [EELS - If I’m Gonna Go Anywhere (official audio) - from EELS TIME! - Out June 7, 2024](https://www.youtube.com/watch?v=6hZ6Sz8wR0s)
+- [EELS - If Im Gonna Go Anywhere official audio - from EELS TIME - Out June 7 2024](https://www.youtube.com/watch?v=6hZ6Sz8wR0s)
 - [AND YOU RUN](https://www.youtube.com/watch?v=bdFvTNitC4s)
 - [LAY WITH THE LAMBS](https://www.youtube.com/watch?v=nYUYkYDAI_U)
 - [SONG FOR YOU KNOW WHO](https://www.youtube.com/watch?v=YJXCMCX85H4)
-- [I CAN'T BELIEVE IT'S TRUE](https://www.youtube.com/watch?v=m-aFyX-ZJTo)
+- [I CANT BELIEVE ITS TRUE](https://www.youtube.com/watch?v=m-aFyX-ZJTo)
 - [ON THE BRIDGE](https://www.youtube.com/watch?v=rG30zAEhT7w)
-- [LET'S BE LUCKY](https://www.youtube.com/watch?v=eHw4YWVU4Z4)
+- [LETS BE LUCKY](https://www.youtube.com/watch?v=eHw4YWVU4Z4)
 
 ## Release Images
 {{< imageGrid >}}

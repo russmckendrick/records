@@ -60,11 +60,11 @@ He would get there in the end and the crowning achievement of his career would b
 
 
 ## Videos
-### Spiritualized - Come Together (Official Music Video)
-{{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}<br>
+### Spiritualized - Come Together Official Music Video
+{{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together Official Music Video" >}}<br>
 ### More Videos
 
-- [Spiritualized - Electricity (Official Music Video)](https://www.youtube.com/watch?v=ZVKXnWDeNr8)
+- [Spiritualized - Electricity Official Music Video](https://www.youtube.com/watch?v=ZVKXnWDeNr8)
 - [Come Together](https://www.youtube.com/watch?v=idRkBNs-Jgs)
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)
 - [Ladies and gentlemen we are floating in space](https://www.youtube.com/watch?v=-UGbOqadHb0)

@@ -48,11 +48,11 @@ The album was a critical success upon release, with several critics noting the a
 
 
 ## Videos
-### Rage Against The Machine - Killing In the Name (Official HD Video)
-{{< youtube id="bWXazVhlyxQ" title="Rage Against The Machine - Killing In the Name (Official HD Video)" >}}<br>
+### Rage Against The Machine - Killing In the Name Official HD Video
+{{< youtube id="bWXazVhlyxQ" title="Rage Against The Machine - Killing In the Name Official HD Video" >}}<br>
 ### More Videos
 
-- [Rage Against The Machine - Bombtrack (Official Video)](https://www.youtube.com/watch?v=MUaL1FnotRQ)
+- [Rage Against The Machine - Bombtrack Official Video](https://www.youtube.com/watch?v=MUaL1FnotRQ)
 
 ## Release Images
 {{< imageGrid >}}

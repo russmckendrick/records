@@ -67,8 +67,8 @@ The album experienced success in some foreign countries, including Australia, Ne
 
 
 ## Videos
-### Faith No More - Last Cup of Sorrow (Official Music Video)
-{{< youtube id="gjEbHBafvm0" title="Faith No More - Last Cup of Sorrow (Official Music Video)" >}}<br>
+### Faith No More - Last Cup of Sorrow Official Music Video
+{{< youtube id="gjEbHBafvm0" title="Faith No More - Last Cup of Sorrow Official Music Video" >}}<br>
 ### More Videos
 
 - [She Loves Me Not](https://www.youtube.com/watch?v=aQtsznQtvJ0)

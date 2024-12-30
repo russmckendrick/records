@@ -53,11 +53,11 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 
 
 ## Videos
-### Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)
-{{< youtube id="aTixn0Jy6Ck" title="Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)" >}}<br>
+### Vinyl Unboxing HOUSE OF PAIN - Self-Titled 30 Years Deluxe Edition Tommy Boy Records 2022
+{{< youtube id="aTixn0Jy6Ck" title="Vinyl Unboxing HOUSE OF PAIN - Self-Titled 30 Years Deluxe Edition Tommy Boy Records 2022" >}}<br>
 ### More Videos
 
-- [Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)](https://www.youtube.com/watch?v=aTixn0Jy6Ck)
+- [Vinyl Unboxing HOUSE OF PAIN - Self-Titled 30 Years Deluxe Edition Tommy Boy Records 2022](https://www.youtube.com/watch?v=aTixn0Jy6Ck)
 
 ## Release Images
 {{< imageGrid >}}

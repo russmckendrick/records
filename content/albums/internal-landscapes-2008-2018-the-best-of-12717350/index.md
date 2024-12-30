@@ -40,17 +40,17 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Anathema - Springfield (from The Optimist)
-{{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>
+### Anathema - Springfield from The Optimist
+{{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield from The Optimist" >}}<br>
 ### More Videos
 
-- [Anathema - Untouchable (part one) (from Weather Systems)](https://www.youtube.com/watch?v=av6sVWXeCWQ)
-- [Anathema - Can't Let Go (from The Optimist) (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=1GPxPPOUVBc)
-- [Anathema - Dreaming Light (from We're Here Because We're Here)](https://www.youtube.com/watch?v=Mk0OF9DdVhw)
-- [Anathema - Internal Landscapes (from Internal Landscapes)](https://www.youtube.com/watch?v=5i0HZp3uOc4)
-- [Anathema - Untouchable (Part Two) (from Universal Concert Film)](https://www.youtube.com/watch?v=YRt0Ug5WweE)
-- [Anathema - Thin Air (from the Universal concert film)](https://www.youtube.com/watch?v=fjOis-QWPdI)
-- [Anathema - Anathema (lyric video) (from Distant Satellites)](https://www.youtube.com/watch?v=a-80LdBCDXc)
+- [Anathema - Untouchable part one from Weather Systems](https://www.youtube.com/watch?v=av6sVWXeCWQ)
+- [Anathema - Cant Let Go from The Optimist OFFICIAL VIDEO](https://www.youtube.com/watch?v=1GPxPPOUVBc)
+- [Anathema - Dreaming Light from Were Here Because Were Here](https://www.youtube.com/watch?v=Mk0OF9DdVhw)
+- [Anathema - Internal Landscapes from Internal Landscapes](https://www.youtube.com/watch?v=5i0HZp3uOc4)
+- [Anathema - Untouchable Part Two from Universal Concert Film](https://www.youtube.com/watch?v=YRt0Ug5WweE)
+- [Anathema - Thin Air from the Universal concert film](https://www.youtube.com/watch?v=fjOis-QWPdI)
+- [Anathema - Anathema lyric video from Distant Satellites](https://www.youtube.com/watch?v=a-80LdBCDXc)
 
 ## Release Images
 {{< imageGrid >}}

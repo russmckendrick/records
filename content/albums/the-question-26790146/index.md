@@ -64,7 +64,7 @@ The Question is an album by the Slackers. It was released on November 20, 1998 (
 
 - [The Slackers - Knowing](https://www.youtube.com/watch?v=EK5WUAN5Um4)
 - [The Slackers - Have The Time](https://www.youtube.com/watch?v=hYH6XkeVxYE)
-- [The Slackers - And I Wonder?](https://www.youtube.com/watch?v=uNib2-xAZgc)
+- [The Slackers - And I Wonder](https://www.youtube.com/watch?v=uNib2-xAZgc)
 - [The Slackers - No More Crying](https://www.youtube.com/watch?v=OTJYn8dOUWI)
 - [The Slackers - Feed My Girl](https://www.youtube.com/watch?v=3ia4xyBQhsA)
 - [The Slackers - The Mummy](https://www.youtube.com/watch?v=a8NE517ZSgY)
@@ -74,7 +74,7 @@ The Question is an album by the Slackers. It was released on November 20, 1998 (
 - [The Slackers - The Question](https://www.youtube.com/watch?v=6-zFw_7bzm0)
 - [The Slackers - Face In My Crowd](https://www.youtube.com/watch?v=9ivhAAHkUCw)
 - [The Slackers - Do You Know](https://www.youtube.com/watch?v=MkdQAAa4SHk)
-- [The Slackers - Yes It's True](https://www.youtube.com/watch?v=xuoL0W6ZEYU)
+- [The Slackers - Yes Its True](https://www.youtube.com/watch?v=xuoL0W6ZEYU)
 - [The Slackers - Alone Again](https://www.youtube.com/watch?v=blZXdZF_UP4)
 - [The Slackers - Make Me Smile](https://www.youtube.com/watch?v=GC79ONODjhs)
 

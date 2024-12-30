@@ -84,13 +84,13 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 
 
 ## Videos
-### Confessin' the Blues (version de luxe) & Le Blues en 150 figures
-{{< youtube id="SCy_YxJmFX4" title="Confessin' the Blues (version de luxe) & Le Blues en 150 figures" >}}<br>
+### Confessin the Blues version de luxe  Le Blues en 150 figures
+{{< youtube id="SCy_YxJmFX4" title="Confessin the Blues version de luxe  Le Blues en 150 figures" >}}<br>
 ### More Videos
 
-- [Muddy Waters - Rollin' Stone (Catfish Blues)](https://www.youtube.com/watch?v=4T2hygHu8CI)
-- [Confessin' the Blues (version de luxe) & Le Blues en 150 figures](https://www.youtube.com/watch?v=SCy_YxJmFX4)
-- [Muddy Waters - Rollin' Stone (Catfish Blues)](https://www.youtube.com/watch?v=4T2hygHu8CI)
+- [Muddy Waters - Rollin Stone Catfish Blues](https://www.youtube.com/watch?v=4T2hygHu8CI)
+- [Confessin the Blues version de luxe  Le Blues en 150 figures](https://www.youtube.com/watch?v=SCy_YxJmFX4)
+- [Muddy Waters - Rollin Stone Catfish Blues](https://www.youtube.com/watch?v=4T2hygHu8CI)
 
 ## Release Images
 {{< imageGrid >}}

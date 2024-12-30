@@ -48,13 +48,13 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 
 
 ## Videos
-### CAKE - Short Skirt / Long Jacket (Official HD Video)
-{{< youtube id="X5KmB8Laemg" title="CAKE - Short Skirt / Long Jacket (Official HD Video)" >}}<br>
+### CAKE - Short Skirt  Long Jacket Official HD Video
+{{< youtube id="X5KmB8Laemg" title="CAKE - Short Skirt  Long Jacket Official HD Video" >}}<br>
 ### More Videos
 
-- [CAKE - Comfort Eagle (Official Audio)](https://www.youtube.com/watch?v=ezoOnI95BpE)
-- [Cake - Comfort Eagle (Late World with Zach)](https://www.youtube.com/watch?v=taNCL5tXFPE)
-- [CAKE - The Distance (Official HD Video)](https://www.youtube.com/watch?v=F_HoMkkRHv8)
+- [CAKE - Comfort Eagle Official Audio](https://www.youtube.com/watch?v=ezoOnI95BpE)
+- [Cake - Comfort Eagle Late World with Zach](https://www.youtube.com/watch?v=taNCL5tXFPE)
+- [CAKE - The Distance Official HD Video](https://www.youtube.com/watch?v=F_HoMkkRHv8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -46,8 +46,8 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ### More Videos
 
 - [Persephone Sleeps](https://www.youtube.com/watch?v=kwlerJ1u7Vk)
-- [The Utopia Strong – Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
-- [The Utopia Strong – Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
+- [The Utopia Strong  Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
+- [The Utopia Strong  Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
 ## Release Images
 {{< imageGrid >}}

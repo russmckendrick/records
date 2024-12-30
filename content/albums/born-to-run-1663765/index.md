@@ -50,37 +50,37 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 
 
 ## Videos
-### Bruce Springsteen - Born to Run (Official Video)
-{{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run (Official Video)" >}}<br>
+### Bruce Springsteen - Born to Run Official Video
+{{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run Official Video" >}}<br>
 ### More Videos
 
 - [Born to Run](https://www.youtube.com/watch?v=Wu4_zVxmufY)
-- [Bruce Springsteen & The E Street Band - Born to Run (Live In Barcelona)](https://www.youtube.com/watch?v=v6O1AYUrVQs)
-- [Bruce Springsteen - Born To Run (Lyrics)](https://www.youtube.com/watch?v=a7tOcGVT20E)
-- [Born to Run (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=ajbJqfNS0aA)
-- [Bruce Springsteen - Born to Run (Acoustic)](https://www.youtube.com/watch?v=dONEgrsYoOk)
+- [Bruce Springsteen  The E Street Band - Born to Run Live In Barcelona](https://www.youtube.com/watch?v=v6O1AYUrVQs)
+- [Bruce Springsteen - Born To Run Lyrics](https://www.youtube.com/watch?v=a7tOcGVT20E)
+- [Born to Run Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=ajbJqfNS0aA)
+- [Bruce Springsteen - Born to Run Acoustic](https://www.youtube.com/watch?v=dONEgrsYoOk)
 - [Born to Run](https://www.youtube.com/watch?v=z_XiRS8eF8w)
-- [Born to Run (London Calling: Live In Hyde Park, 2009)](https://www.youtube.com/watch?v=uNzT-c5neCk)
-- [Bruce Springsteen & The E Street Band - Born to Run (Live in New York City)](https://www.youtube.com/watch?v=jj9ObfkHY7c)
+- [Born to Run London Calling Live In Hyde Park 2009](https://www.youtube.com/watch?v=uNzT-c5neCk)
+- [Bruce Springsteen  The E Street Band - Born to Run Live in New York City](https://www.youtube.com/watch?v=jj9ObfkHY7c)
 - [Bruce Springsteen Born to Run lyrics](https://www.youtube.com/watch?v=65xF8SThFaw)
-- [Bruce Springsteen - Born to Run (The River Tour, Tempe 1980)](https://www.youtube.com/watch?v=3jLdecONVQs)
-- [Born To Run (Phoenix, 78) (from Thrill Hill Vault 1976-1978)](https://www.youtube.com/watch?v=lpjqgGNUcG4)
+- [Bruce Springsteen - Born to Run The River Tour Tempe 1980](https://www.youtube.com/watch?v=3jLdecONVQs)
+- [Born To Run Phoenix 78 from Thrill Hill Vault 1976-1978](https://www.youtube.com/watch?v=lpjqgGNUcG4)
 - [Bruce Springsteen - Born to run](https://www.youtube.com/watch?v=LTEjjGW3vUA)
-- [Bruce Springsteen - Born to Run at Hard Rock Calling '09](https://www.youtube.com/watch?v=gA4OWZ2a23Y)
-- [Bruce Springsteen: Born To Run | Lyrics](https://www.youtube.com/watch?v=TCBB7yLNSgo)
-- [Bruce Springsteen - Born to Run - 1984-07-26 - Toronto, ON - 4K AI Upscale](https://www.youtube.com/watch?v=T4HhgTfZBUQ)
-- [Bruce Springsteen and Billy Joel perform "Born to Run" Hall of Fame 25th Anniversary Concert](https://www.youtube.com/watch?v=l2BvmL2MMJ8)
-- [Born to Run - Bruce Springsteen (live at the Kennedy Center, Washington D.C. 2022)](https://www.youtube.com/watch?v=tF7tZmVD06Y)
-- [Bruce Springsteen - Born to Run (Springsteen on Broadway - Official Audio)](https://www.youtube.com/watch?v=6db0jHlyPyA)
-- [Bruce Springsteen - Born to run (Live Glastonbury 2009)](https://www.youtube.com/watch?v=xq95141AmYU)
-- [Bruce Springsteen - Born To Run (Studio Version)](https://www.youtube.com/watch?v=_1W1GSaUduo)
-- [Bruce Springsteen - Born to Run (Live 2016)](https://www.youtube.com/watch?v=nLWO7Mn9A4w)
-- [Bruce Springsteen - Born to Run, Las Vegas NV, 3/22/2024](https://www.youtube.com/watch?v=a78F1BCLU9E)
-- [Bruce Springsteen | Jon Bon Jovi | Born To Run | Pro Shot | New York 2012](https://www.youtube.com/watch?v=ptn2gtLNk3A)
-- [Born to Run (Live at Madison Square Garden, New York, NY - 09/21/79)](https://www.youtube.com/watch?v=k_4g-e8fhg4)
+- [Bruce Springsteen - Born to Run at Hard Rock Calling 09](https://www.youtube.com/watch?v=gA4OWZ2a23Y)
+- [Bruce Springsteen Born To Run  Lyrics](https://www.youtube.com/watch?v=TCBB7yLNSgo)
+- [Bruce Springsteen - Born to Run - 1984-07-26 - Toronto ON - 4K AI Upscale](https://www.youtube.com/watch?v=T4HhgTfZBUQ)
+- [Bruce Springsteen and Billy Joel perform Born to Run Hall of Fame 25th Anniversary Concert](https://www.youtube.com/watch?v=l2BvmL2MMJ8)
+- [Born to Run - Bruce Springsteen live at the Kennedy Center Washington DC 2022](https://www.youtube.com/watch?v=tF7tZmVD06Y)
+- [Bruce Springsteen - Born to Run Springsteen on Broadway - Official Audio](https://www.youtube.com/watch?v=6db0jHlyPyA)
+- [Bruce Springsteen - Born to run Live Glastonbury 2009](https://www.youtube.com/watch?v=xq95141AmYU)
+- [Bruce Springsteen - Born To Run Studio Version](https://www.youtube.com/watch?v=_1W1GSaUduo)
+- [Bruce Springsteen - Born to Run Live 2016](https://www.youtube.com/watch?v=nLWO7Mn9A4w)
+- [Bruce Springsteen - Born to Run Las Vegas NV 3222024](https://www.youtube.com/watch?v=a78F1BCLU9E)
+- [Bruce Springsteen  Jon Bon Jovi  Born To Run  Pro Shot  New York 2012](https://www.youtube.com/watch?v=ptn2gtLNk3A)
+- [Born to Run Live at Madison Square Garden New York NY - 092179](https://www.youtube.com/watch?v=k_4g-e8fhg4)
 - [Born to Run](https://www.youtube.com/watch?v=Wu4_zVxmufY)
 - [Bruce Springsteen Born to Run lyrics](https://www.youtube.com/watch?v=65xF8SThFaw)
-- [Born to Run (complete album)](https://www.youtube.com/watch?v=Vo4EoCqMvp4)
+- [Born to Run complete album](https://www.youtube.com/watch?v=Vo4EoCqMvp4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,8 +56,8 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Marillion - Seasons End (Screen Media)
-{{< youtube id="rdUGyZEyGz0" title="Marillion - Seasons End (Screen Media)" >}}<br>
+### Marillion - Seasons End Screen Media
+{{< youtube id="rdUGyZEyGz0" title="Marillion - Seasons End Screen Media" >}}<br>
 
 
 ## Release Images

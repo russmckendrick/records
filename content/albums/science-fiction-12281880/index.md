@@ -53,7 +53,7 @@ Science fiction has come to influence not just literature but film, TV, and cult
 ### More Videos
 
 - [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
-- [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
+- [Church of the Cosmic Skull - Science Fiction 2018 New Full Album](https://www.youtube.com/watch?v=Al1ammaaqqs)
 
 ## Release Images
 {{< imageGrid >}}

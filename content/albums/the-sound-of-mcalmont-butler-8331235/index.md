@@ -37,21 +37,21 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Videos
-### McAlmont & Butler - Yes [Full Version]
-{{< youtube id="POIIGYt5RlE" title="McAlmont & Butler - Yes [Full Version]" >}}<br>
+### McAlmont  Butler - Yes Full Version
+{{< youtube id="POIIGYt5RlE" title="McAlmont  Butler - Yes Full Version" >}}<br>
 ### More Videos
 
 - [McAlmont and Butler - Although](https://www.youtube.com/watch?v=SHo852__76U)
-- [Yes (Full Version)](https://www.youtube.com/watch?v=vltxC9ljJqA)
-- [You Do (Full Length)](https://www.youtube.com/watch?v=uorRUdpDcW8)
-- [What's The Excuse This Time?](https://www.youtube.com/watch?v=0f30KF1cOCc)
+- [Yes Full Version](https://www.youtube.com/watch?v=vltxC9ljJqA)
+- [You Do Full Length](https://www.youtube.com/watch?v=uorRUdpDcW8)
+- [Whats The Excuse This Time](https://www.youtube.com/watch?v=0f30KF1cOCc)
 - [The Right Thing](https://www.youtube.com/watch?v=eSYPVrp4gsc)
 - [Although](https://www.youtube.com/watch?v=bun3gxzc2R4)
 - [Tonight](https://www.youtube.com/watch?v=c1wAwDzatAc)
-- [Disappointment / Interval](https://www.youtube.com/watch?v=e76em75xKaU)
-- [You'll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)
-- [How About You?](https://www.youtube.com/watch?v=eAX2DJU08wM)
-- [McAlmont & Butler - Yes (Remix)](https://www.youtube.com/watch?v=IkxU9MPEwa8)
+- [Disappointment  Interval](https://www.youtube.com/watch?v=e76em75xKaU)
+- [Youll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)
+- [How About You](https://www.youtube.com/watch?v=eAX2DJU08wM)
+- [McAlmont  Butler - Yes Remix](https://www.youtube.com/watch?v=IkxU9MPEwa8)
 
 ## Release Images
 {{< imageGrid >}}

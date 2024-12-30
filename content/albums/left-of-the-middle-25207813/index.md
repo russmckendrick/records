@@ -55,19 +55,19 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 
 
 ## Videos
-### Natalie Imbruglia - Torn (Official Video)
-{{< youtube id="VV1XWJN3nJo" title="Natalie Imbruglia - Torn (Official Video)" >}}<br>
+### Natalie Imbruglia - Torn Official Video
+{{< youtube id="VV1XWJN3nJo" title="Natalie Imbruglia - Torn Official Video" >}}<br>
 ### More Videos
 
-- [Natalie Imbruglia - Big Mistake (Video (SFX Version))](https://www.youtube.com/watch?v=8Jg4VSp7GG0)
+- [Natalie Imbruglia - Big Mistake Video SFX Version](https://www.youtube.com/watch?v=8Jg4VSp7GG0)
 - [Wishing I Was There](https://www.youtube.com/watch?v=3_KiTA7o1Kw)
 - [Natalie Imbruglia - Smoke](https://www.youtube.com/watch?v=JzbjYNUak4I)
 - [Left Of The Middle](https://www.youtube.com/watch?v=_7WwzAfTAyw)
-- [Natalie Imbruglia - Torn (Official Video) [HD Remastered]](https://www.youtube.com/watch?v=xSZBIs0gs0E)
+- [Natalie Imbruglia - Torn Official Video HD Remastered](https://www.youtube.com/watch?v=xSZBIs0gs0E)
 - [One More Addiction](https://www.youtube.com/watch?v=-hOVpna9DDg)
 - [Leave Me Alone](https://www.youtube.com/watch?v=5rABvZefMEo)
 - [Pigeons And Crumbs](https://www.youtube.com/watch?v=zYAXhUv746g)
-- [Don't You Think?](https://www.youtube.com/watch?v=6lvviu71AaM)
+- [Dont You Think](https://www.youtube.com/watch?v=6lvviu71AaM)
 - [Impressed](https://www.youtube.com/watch?v=Fp0D91YRtj8)
 - [Intuition](https://www.youtube.com/watch?v=4Clo8te75No)
 - [City](https://www.youtube.com/watch?v=Od9nYiK2rhY)

@@ -49,15 +49,15 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 
 
 ## Videos
-### Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)
-{{< youtube id="Yi1uHl8uy6E" title="Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)" >}}<br>
+### Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion
+{{< youtube id="Yi1uHl8uy6E" title="Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion" >}}<br>
 ### More Videos
 
-- [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
-- [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
-- [Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)](https://www.youtube.com/watch?v=Yi1uHl8uy6E)
-- [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
-- [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
+- [Gleb Kolyadin - Storyteller feat Jordan Rudess Dream Theater from Gleb Kolyadin](https://www.youtube.com/watch?v=meJxe35Dj2E)
+- [Глеб КОЛЯДИН - Дебютный Альбом - 2018  Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
+- [Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion](https://www.youtube.com/watch?v=Yi1uHl8uy6E)
+- [Gleb Kolyadin - Storyteller feat Jordan Rudess Dream Theater from Gleb Kolyadin](https://www.youtube.com/watch?v=meJxe35Dj2E)
+- [Глеб КОЛЯДИН - Дебютный Альбом - 2018  Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 
 ## Release Images
 {{< imageGrid >}}

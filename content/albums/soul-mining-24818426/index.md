@@ -44,19 +44,19 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 
 
 ## Videos
-### The The - I've Been Waitin' for Tomorrow (All of My Life) (Official Video)
-{{< youtube id="Rsdhq1czay0" title="The The - I've Been Waitin' for Tomorrow (All of My Life) (Official Video)" >}}<br>
+### The The - Ive Been Waitin for Tomorrow All of My Life Official Video
+{{< youtube id="Rsdhq1czay0" title="The The - Ive Been Waitin for Tomorrow All of My Life Official Video" >}}<br>
 ### More Videos
 
-- [The The - Uncertain Smile (Audio)](https://www.youtube.com/watch?v=5bErFXjUGvQ)
-- [The The - This Is the Day (Official 4K Video)](https://www.youtube.com/watch?v=Nxazmzy0vAo)
+- [The The - Uncertain Smile Audio](https://www.youtube.com/watch?v=5bErFXjUGvQ)
+- [The The - This Is the Day Official 4K Video](https://www.youtube.com/watch?v=Nxazmzy0vAo)
 - [The The - Giant](https://www.youtube.com/watch?v=aub7ojxeEAw)
 - [Perfect](https://www.youtube.com/watch?v=gmS-1YSBRKk)
-- [The The I've Been Waiting for Tomorrow (All of My Life)](https://www.youtube.com/watch?v=MVQ-i4hSESI)
+- [The The Ive Been Waiting for Tomorrow All of My Life](https://www.youtube.com/watch?v=MVQ-i4hSESI)
 - [The The - The Sinking Feeling](https://www.youtube.com/watch?v=RzPeHdPeL-c)
 - [The The - The Twilight Hour](https://www.youtube.com/watch?v=oApuE2uJsas)
 - [Soul Mining](https://www.youtube.com/watch?v=IkzwnBqjRYg)
-- [The The - I've Been Waitin' for Tomorrow (All of My Life) (Official Video)](https://www.youtube.com/watch?v=Rsdhq1czay0)
+- [The The - Ive Been Waitin for Tomorrow All of My Life Official Video](https://www.youtube.com/watch?v=Rsdhq1czay0)
 
 ## Release Images
 {{< imageGrid >}}

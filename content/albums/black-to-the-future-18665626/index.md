@@ -72,21 +72,21 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Videos
-### Sons Of Kemet - To Never Forget The Source (Visualizer)
-{{< youtube id="pZUbNXhnSm4" title="Sons Of Kemet - To Never Forget The Source (Visualizer)" >}}<br>
+### Sons Of Kemet - To Never Forget The Source Visualizer
+{{< youtube id="pZUbNXhnSm4" title="Sons Of Kemet - To Never Forget The Source Visualizer" >}}<br>
 ### More Videos
 
-- [Sons Of Kemet - Envision Yourself Levitating (Audio)](https://www.youtube.com/watch?v=tnRyUJhGPiM)
-- [Sons Of Kemet - Think Of Home (Audio)](https://www.youtube.com/watch?v=We057kA3Ufk)
-- [Sons Of Kemet, Joshua Idehen - Black (Audio)](https://www.youtube.com/watch?v=lKPcYyEB9is)
-- [Sons Of Kemet - For The Culture (Audio) ft. D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
-- [Sons Of Kemet - Let The Circle Be Unbroken (Audio)](https://www.youtube.com/watch?v=Vs8LkbdxERo)
-- [Sons Of Kemet - To Never Forget The Source (Visualizer)](https://www.youtube.com/watch?v=pZUbNXhnSm4)
-- [Sons Of Kemet - Envision Yourself Levitating (Audio)](https://www.youtube.com/watch?v=tnRyUJhGPiM)
-- [Sons Of Kemet - Think Of Home (Audio)](https://www.youtube.com/watch?v=We057kA3Ufk)
-- [Sons Of Kemet, Joshua Idehen - Black (Audio)](https://www.youtube.com/watch?v=lKPcYyEB9is)
-- [Sons Of Kemet - For The Culture (Audio) ft. D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
-- [Sons Of Kemet - Let The Circle Be Unbroken (Audio)](https://www.youtube.com/watch?v=Vs8LkbdxERo)
+- [Sons Of Kemet - Envision Yourself Levitating Audio](https://www.youtube.com/watch?v=tnRyUJhGPiM)
+- [Sons Of Kemet - Think Of Home Audio](https://www.youtube.com/watch?v=We057kA3Ufk)
+- [Sons Of Kemet Joshua Idehen - Black Audio](https://www.youtube.com/watch?v=lKPcYyEB9is)
+- [Sons Of Kemet - For The Culture Audio ft D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
+- [Sons Of Kemet - Let The Circle Be Unbroken Audio](https://www.youtube.com/watch?v=Vs8LkbdxERo)
+- [Sons Of Kemet - To Never Forget The Source Visualizer](https://www.youtube.com/watch?v=pZUbNXhnSm4)
+- [Sons Of Kemet - Envision Yourself Levitating Audio](https://www.youtube.com/watch?v=tnRyUJhGPiM)
+- [Sons Of Kemet - Think Of Home Audio](https://www.youtube.com/watch?v=We057kA3Ufk)
+- [Sons Of Kemet Joshua Idehen - Black Audio](https://www.youtube.com/watch?v=lKPcYyEB9is)
+- [Sons Of Kemet - For The Culture Audio ft D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
+- [Sons Of Kemet - Let The Circle Be Unbroken Audio](https://www.youtube.com/watch?v=Vs8LkbdxERo)
 
 ## Release Images
 {{< imageGrid >}}

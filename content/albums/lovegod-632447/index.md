@@ -48,25 +48,25 @@ The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Bil
 
 
 ## Videos
-### Backwards Dog (Remastered)
-{{< youtube id="-4wDQoLFF9U" title="Backwards Dog (Remastered)" >}}<br>
+### Backwards Dog Remastered
+{{< youtube id="-4wDQoLFF9U" title="Backwards Dog Remastered" >}}<br>
 ### More Videos
 
-- [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
-- [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
-- [Supercherry (Remastered)](https://www.youtube.com/watch?v=MjjsiSarij4)
+- [Drive The Pain Remastered](https://www.youtube.com/watch?v=8ZRvi69hRB8)
+- [Backwards Dog Remastered](https://www.youtube.com/watch?v=-4wDQoLFF9U)
+- [Supercherry Remastered](https://www.youtube.com/watch?v=MjjsiSarij4)
 - [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
-- [Softly (Remastered)](https://www.youtube.com/watch?v=eOxRrBbrPXs)
-- [Dream-E-Forever (Remastered)](https://www.youtube.com/watch?v=IPhZ5L7-kvo)
-- [Crotch Deep Trash (Remastered)](https://www.youtube.com/watch?v=pa3gLC2UiJI)
+- [Softly Remastered](https://www.youtube.com/watch?v=eOxRrBbrPXs)
+- [Dream-E-Forever Remastered](https://www.youtube.com/watch?v=IPhZ5L7-kvo)
+- [Crotch Deep Trash Remastered](https://www.youtube.com/watch?v=pa3gLC2UiJI)
 - [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
-- [The Soup Dragons - I'm Free](https://www.youtube.com/watch?v=hSWbpVjwQGM)
+- [The Soup Dragons - Im Free](https://www.youtube.com/watch?v=hSWbpVjwQGM)
 - [The Soup Dragons - Lovegod](https://www.youtube.com/watch?v=R6Xu9O4pzyw)
 - [The Soup Dragons - Love you to Death](https://www.youtube.com/watch?v=IMB-tkFSUSc)
 - [Soup Dragons  Mother Universe](https://www.youtube.com/watch?v=dhStRkvlGCc)
-- [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
-- [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
-- [Soup Dragons - "I'm Free"](https://www.youtube.com/watch?v=ZVGf3ePIO04)
+- [Backwards Dog Remastered](https://www.youtube.com/watch?v=-4wDQoLFF9U)
+- [Drive The Pain Remastered](https://www.youtube.com/watch?v=8ZRvi69hRB8)
+- [Soup Dragons - Im Free](https://www.youtube.com/watch?v=ZVGf3ePIO04)
 
 ## Release Images
 {{< imageGrid >}}

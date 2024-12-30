@@ -47,12 +47,12 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 
 
 ## Videos
-### Ash - Jesus Says (Official Video)
-{{< youtube id="61EXldAwHzw" title="Ash - Jesus Says (Official Video)" >}}<br>
+### Ash - Jesus Says Official Video
+{{< youtube id="61EXldAwHzw" title="Ash - Jesus Says Official Video" >}}<br>
 ### More Videos
 
-- [Ash - Wildsurf (Official Video)](https://www.youtube.com/watch?v=xdjQgJCnoIA)
-- [Ash - A Life Less Ordinary (Official Video)](https://www.youtube.com/watch?v=szUeXBaOfl4)
+- [Ash - Wildsurf Official Video](https://www.youtube.com/watch?v=xdjQgJCnoIA)
+- [Ash - A Life Less Ordinary Official Video](https://www.youtube.com/watch?v=szUeXBaOfl4)
 
 ## Release Images
 {{< imageGrid >}}

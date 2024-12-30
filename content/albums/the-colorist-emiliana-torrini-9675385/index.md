@@ -57,16 +57,16 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### The Colorist & Emiliana Torrini - Speed Of Dark
-{{< youtube id="-8R2-s5pMI0" title="The Colorist & Emiliana Torrini - Speed Of Dark" >}}<br>
+### The Colorist  Emiliana Torrini - Speed Of Dark
+{{< youtube id="-8R2-s5pMI0" title="The Colorist  Emiliana Torrini - Speed Of Dark" >}}<br>
 ### More Videos
 
-- [The Colorist & Emiliana Torrini - When We Dance (Official Video)](https://www.youtube.com/watch?v=WfVrdOp2Btw)
+- [The Colorist  Emiliana Torrini - When We Dance Official Video](https://www.youtube.com/watch?v=WfVrdOp2Btw)
 - [Blood Red](https://www.youtube.com/watch?v=Bi3RoBLEajY)
 - [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
 - [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)
-- [The Colorist & Emiliana Torrini - Speed Of Dark](https://www.youtube.com/watch?v=-8R2-s5pMI0)
-- [The Colorist & Emiliana Torrini - When We Dance (Official Video)](https://www.youtube.com/watch?v=WfVrdOp2Btw)
+- [The Colorist  Emiliana Torrini - Speed Of Dark](https://www.youtube.com/watch?v=-8R2-s5pMI0)
+- [The Colorist  Emiliana Torrini - When We Dance Official Video](https://www.youtube.com/watch?v=WfVrdOp2Btw)
 - [Blood Red](https://www.youtube.com/watch?v=Bi3RoBLEajY)
 - [Today Has Been OK](https://www.youtube.com/watch?v=GfmLjtSbpQc)
 - [Serenade](https://www.youtube.com/watch?v=VAv_vqYPRBA)

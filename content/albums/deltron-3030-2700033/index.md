@@ -60,18 +60,18 @@ It is a rap opera concept album set in a dystopian year 3030. The album's story 
 {{< youtube id="-oCXwl7XBiQ" title="Deltron 3030 - Positive Contact" >}}<br>
 ### More Videos
 
-- [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
+- [Deltron 3030 - Deltron 3030 FULL ALBUM](https://www.youtube.com/watch?v=v6YJjkO7F5A)
 - [Deltron 3030-virus](https://www.youtube.com/watch?v=ijPE7fe4XTg)
-- [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
+- [Deltron 3030 - Deltron 3030 FULL ALBUM](https://www.youtube.com/watch?v=v6YJjkO7F5A)
 - [Deltron 3030 - Memory Loss](https://www.youtube.com/watch?v=4k18VIqM764)
 - [deltron 3030 - time keeps on slipping](https://www.youtube.com/watch?v=xdur7odHUfE)
-- [Turbulence (Mark Bell Remix)](https://www.youtube.com/watch?v=XVCTatXqrts)
+- [Turbulence Mark Bell Remix](https://www.youtube.com/watch?v=XVCTatXqrts)
 - [Madness](https://www.youtube.com/watch?v=z3EiAYQB0pY)
 - [Deltron 3030 - 3030](https://www.youtube.com/watch?v=Q7_jbluF0qo)
 - [Deltron 3030- 3030 Instrumental](https://www.youtube.com/watch?v=1d7BKvBChlM)
-- [Deltron 3030 - Virus (Instrumental)](https://www.youtube.com/watch?v=wOwNoXGXdus)
+- [Deltron 3030 - Virus Instrumental](https://www.youtube.com/watch?v=wOwNoXGXdus)
 - [Deltron 3030 - Positive Contact](https://www.youtube.com/watch?v=-oCXwl7XBiQ)
-- [Deltron 3030 - Deltron 3030 (FULL ALBUM)](https://www.youtube.com/watch?v=v6YJjkO7F5A)
+- [Deltron 3030 - Deltron 3030 FULL ALBUM](https://www.youtube.com/watch?v=v6YJjkO7F5A)
 - [Deltron 3030-virus](https://www.youtube.com/watch?v=ijPE7fe4XTg)
 
 ## Release Images

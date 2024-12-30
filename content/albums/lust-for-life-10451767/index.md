@@ -48,11 +48,11 @@ styles: []
 {{< youtube id="jQvUBf5l7Vw" title="Iggy Pop - Lust For Life" >}}<br>
 ### More Videos
 
-- [Iggy Pop - Lust For Life (Edit / Audio)](https://www.youtube.com/watch?v=kbCghaLVTOY)
+- [Iggy Pop - Lust For Life Edit  Audio](https://www.youtube.com/watch?v=kbCghaLVTOY)
 - [Iggy pop-Lust for life-Lust for life](https://www.youtube.com/watch?v=HuBU3pzy7is)
 - [Iggy Pop - Sixteen](https://www.youtube.com/watch?v=Ef0pxxbkvr0)
 - [Iggy pop-Lust for life-Some weird sin](https://www.youtube.com/watch?v=D_uF6ObhDks)
-- [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
+- [Iggy Pop - The Passenger Official Video](https://www.youtube.com/watch?v=-fWw7FE9tTo)
 - [Tonight - Iggy Pop](https://www.youtube.com/watch?v=i--aKHwPPJI)
 - [Iggy pop-Lust for life-Success](https://www.youtube.com/watch?v=zTprPVmF8wk)
 - [Iggy pop-Lust for life-Turn Blue](https://www.youtube.com/watch?v=XfUM_NOiWqs)

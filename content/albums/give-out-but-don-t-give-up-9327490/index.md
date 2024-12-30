@@ -58,8 +58,8 @@ A second version of the album, featuring previously lost recordings, was release
 
 
 ## Videos
-### Primal Scream - Jailbird (Official Video)
-{{< youtube id="zNH5aY9mHTo" title="Primal Scream - Jailbird (Official Video)" >}}<br>
+### Primal Scream - Jailbird Official Video
+{{< youtube id="zNH5aY9mHTo" title="Primal Scream - Jailbird Official Video" >}}<br>
 
 
 ## Release Images

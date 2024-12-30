@@ -44,11 +44,11 @@ U.F.Orb is the second studio album by English electronic music group the Orb. It
 
 
 ## Videos
-### O.O.B.E.
-{{< youtube id="UEbyC_hQkhQ" title="O.O.B.E." >}}<br>
+### OOBE
+{{< youtube id="UEbyC_hQkhQ" title="OOBE" >}}<br>
 ### More Videos
 
-- [U.F.Orb](https://www.youtube.com/watch?v=MzNp1n37Gm4)
+- [UFOrb](https://www.youtube.com/watch?v=MzNp1n37Gm4)
 - [Blue Room](https://www.youtube.com/watch?v=S2Uolg1saNM)
 - [Towers Of Dub](https://www.youtube.com/watch?v=MEc8_2NAy4E)
 - [Close Encounters](https://www.youtube.com/watch?v=J4-9ALbPQFo)

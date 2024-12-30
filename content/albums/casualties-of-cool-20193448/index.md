@@ -76,11 +76,11 @@ A number of guests performed on the album, including Morgen Ågren of Kaipa on d
 
 
 ## Videos
-### CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)
-{{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop (OFFICIAL VIDEO)" >}}<br>
+### CASUALTIES OF COOL - Mountaintop OFFICIAL VIDEO
+{{< youtube id="L2avV9ZGE3A" title="CASUALTIES OF COOL - Mountaintop OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [Casualties of Cool 'Flight' - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
+- [Casualties of Cool Flight - Official Promo Video](https://www.youtube.com/watch?v=muNLqPPTuDQ)
 - [01 daddy](https://www.youtube.com/watch?v=vNQDWKzjDqY)
 
 ## Release Images

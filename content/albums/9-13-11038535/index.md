@@ -40,18 +40,18 @@ styles: ["Sludge Metal", "Doom Metal"]
 
 
 ## Videos
-### IRON MONKEY - 9-13 (Official Music Video)
-{{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 (Official Music Video)" >}}<br>
+### IRON MONKEY - 9-13 Official Music Video
+{{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 Official Music Video" >}}<br>
 ### More Videos
 
-- [IRON MONKEY - Crown of Electrodes (Official Visualizer Video)](https://www.youtube.com/watch?v=5Bc1vnGpu_M)
-- [IRON MONKEY -  "OmegaMangler" (Official Audio)](https://www.youtube.com/watch?v=L-S-LsLJqIc)
-- [IRON MONKEY - Toadcrucifier - R.I.P.PER (Official Music Video)](https://www.youtube.com/watch?v=K2nY03dOUvg)
+- [IRON MONKEY - Crown of Electrodes Official Visualizer Video](https://www.youtube.com/watch?v=5Bc1vnGpu_M)
+- [IRON MONKEY -  OmegaMangler Official Audio](https://www.youtube.com/watch?v=L-S-LsLJqIc)
+- [IRON MONKEY - Toadcrucifier - RIPPER Official Music Video](https://www.youtube.com/watch?v=K2nY03dOUvg)
 - [Iron Monkey - Mortarhex](https://www.youtube.com/watch?v=iaU4bgG5C9k)
 - [Iron Monkey - Destroyer](https://www.youtube.com/watch?v=IlhWYPaNDRk)
 - [Iron Monkey - The Rope](https://www.youtube.com/watch?v=soyUE8ZnPjw)
 - [Iron Monkey - Doomsday Impulse Multiplier](https://www.youtube.com/watch?v=uGatMszYD2A)
-- [Iron Monkey - Moreland St. Hammervortex](https://www.youtube.com/watch?v=Q6jqGyAkHd4)
+- [Iron Monkey - Moreland St Hammervortex](https://www.youtube.com/watch?v=Q6jqGyAkHd4)
 
 ## Release Images
 {{< imageGrid >}}

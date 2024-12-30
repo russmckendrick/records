@@ -63,19 +63,19 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 ### More Videos
 
 - [TOOL - Parabola](https://www.youtube.com/watch?v=-_nQhGR0K8M)
-- [TOOL - The Grudge (Audio)](https://www.youtube.com/watch?v=3BXyEUOuNds)
-- [TOOL - Eon Blue Apocalypse (Audio)](https://www.youtube.com/watch?v=75hGl9stdQI)
-- [TOOL - The Patient (Audio)](https://www.youtube.com/watch?v=rDrhI1GUnNg)
-- [TOOL - Mantra (Audio)](https://www.youtube.com/watch?v=cDuLYGYHhQk)
-- [TOOL - Schism (Audio)](https://www.youtube.com/watch?v=80RtBeB61LE)
-- [TOOL - Parabol (Audio)](https://www.youtube.com/watch?v=ynzDDi9Y044)
-- [TOOL - Parabola (Audio)](https://www.youtube.com/watch?v=-DuAAmHpGbw)
-- [TOOL - Ticks & Leeches (Audio)](https://www.youtube.com/watch?v=q0BOpkA2Vs4)
-- [TOOL - Lateralus (Audio)](https://www.youtube.com/watch?v=Y7JG63IuaWs)
-- [TOOL - Disposition (Audio)](https://www.youtube.com/watch?v=dUQjGpm5Kr8)
-- [TOOL - Reflection (Audio)](https://www.youtube.com/watch?v=4MzVuHqsNoM)
-- [TOOL - Triad (Audio)](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
-- [TOOL - Faaip De Oiad (Audio)](https://www.youtube.com/watch?v=7RmLkY1387A)
+- [TOOL - The Grudge Audio](https://www.youtube.com/watch?v=3BXyEUOuNds)
+- [TOOL - Eon Blue Apocalypse Audio](https://www.youtube.com/watch?v=75hGl9stdQI)
+- [TOOL - The Patient Audio](https://www.youtube.com/watch?v=rDrhI1GUnNg)
+- [TOOL - Mantra Audio](https://www.youtube.com/watch?v=cDuLYGYHhQk)
+- [TOOL - Schism Audio](https://www.youtube.com/watch?v=80RtBeB61LE)
+- [TOOL - Parabol Audio](https://www.youtube.com/watch?v=ynzDDi9Y044)
+- [TOOL - Parabola Audio](https://www.youtube.com/watch?v=-DuAAmHpGbw)
+- [TOOL - Ticks  Leeches Audio](https://www.youtube.com/watch?v=q0BOpkA2Vs4)
+- [TOOL - Lateralus Audio](https://www.youtube.com/watch?v=Y7JG63IuaWs)
+- [TOOL - Disposition Audio](https://www.youtube.com/watch?v=dUQjGpm5Kr8)
+- [TOOL - Reflection Audio](https://www.youtube.com/watch?v=4MzVuHqsNoM)
+- [TOOL - Triad Audio](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
+- [TOOL - Faaip De Oiad Audio](https://www.youtube.com/watch?v=7RmLkY1387A)
 
 ## Release Images
 {{< imageGrid >}}

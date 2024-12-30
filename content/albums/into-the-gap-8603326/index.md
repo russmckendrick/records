@@ -46,39 +46,39 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 
 
 ## Videos
-### Thompson Twins - Doctor! Doctor! (Official Video) [HD Remaster]
-{{< youtube id="Pf0_Be5PPPU" title="Thompson Twins - Doctor! Doctor! (Official Video) [HD Remaster]" >}}<br>
+### Thompson Twins - Doctor Doctor Official Video HD Remaster
+{{< youtube id="Pf0_Be5PPPU" title="Thompson Twins - Doctor Doctor Official Video HD Remaster" >}}<br>
 ### More Videos
 
-- [Thompson Twins - Out Of The Gap (Thompson Twins Megamix) (1984) (Audio)](https://www.youtube.com/watch?v=sTzUdcvUjZA)
+- [Thompson Twins - Out Of The Gap Thompson Twins Megamix 1984 Audio](https://www.youtube.com/watch?v=sTzUdcvUjZA)
 - [Thompson Twins - Hold Me Now](https://www.youtube.com/watch?v=TvzVTRK1nOY)
 - [Thompson Twins - Sister of Mercy](https://www.youtube.com/watch?v=e1O_Voa3rLU)
 - [Thompson Twins - The Gap](https://www.youtube.com/watch?v=0SEwy1as78E)
-- [Thompson Twins - Doctor! Doctor! (with lyrics)](https://www.youtube.com/watch?v=d9fOSG7XphQ)
-- [Thompson Twins - Doctor! Doctor!](https://www.youtube.com/watch?v=OaNloDoGKF4)
-- [Thompson Twins - Doctor! Doctor! (HD)](https://www.youtube.com/watch?v=j39EPIR2u9E)
+- [Thompson Twins - Doctor Doctor with lyrics](https://www.youtube.com/watch?v=d9fOSG7XphQ)
+- [Thompson Twins - Doctor Doctor](https://www.youtube.com/watch?v=OaNloDoGKF4)
+- [Thompson Twins - Doctor Doctor HD](https://www.youtube.com/watch?v=j39EPIR2u9E)
 - [Thompson Twins   You Take Me Up](https://www.youtube.com/watch?v=F72nhfl36Cw)
 - [Thompson Twins - You Take Me Up](https://www.youtube.com/watch?v=BPLpz3sVB_k)
 - [Thompson Twins You Take Me Up Lyrics](https://www.youtube.com/watch?v=JL9q0wvmR1s)
-- [Thompson Twins - You Take Me Up (Vinyl)](https://www.youtube.com/watch?v=WWRpcoju1xY)
+- [Thompson Twins - You Take Me Up Vinyl](https://www.youtube.com/watch?v=WWRpcoju1xY)
 - [Thompson Twins - Hold Me Now HQ Widescreen Stereo](https://www.youtube.com/watch?v=SXuIABMlZKc)
-- [Thompson Twins - Hold Me Now (Lyrics)](https://www.youtube.com/watch?v=CZ9nPidefaQ)
-- [Thompson Twins - Day After Day (1984) (HQ)](https://www.youtube.com/watch?v=6Ez56mZUeAU)
+- [Thompson Twins - Hold Me Now Lyrics](https://www.youtube.com/watch?v=CZ9nPidefaQ)
+- [Thompson Twins - Day After Day 1984 HQ](https://www.youtube.com/watch?v=6Ez56mZUeAU)
 - [Thompson Twins - Day after day](https://www.youtube.com/watch?v=3Qq1MxKMrsY)
 - [Thompson Twins - Day After Day](https://www.youtube.com/watch?v=PAAyS6xZAJY)
 - [Thompson Twins   No Peace For the Wicked](https://www.youtube.com/watch?v=R1BCz755TzU)
-- [Thompson Twins - No Peace For The Wicked (1984)](https://www.youtube.com/watch?v=5X1E0uHEYuA)
+- [Thompson Twins - No Peace For The Wicked 1984](https://www.youtube.com/watch?v=5X1E0uHEYuA)
 - [No Peace for the Wicked](https://www.youtube.com/watch?v=DDMo9xWFsUU)
 - [The Gap](https://www.youtube.com/watch?v=9Fb09Pfz8s8)
-- [Thompson Twins - Sister Of Mercy (1984) (HQ)](https://www.youtube.com/watch?v=13IF9hn_SK8)
-- [Thompson Twins - Sister Of Mercy (lyrics)](https://www.youtube.com/watch?v=LAasBbkWgfk)
+- [Thompson Twins - Sister Of Mercy 1984 HQ](https://www.youtube.com/watch?v=13IF9hn_SK8)
+- [Thompson Twins - Sister Of Mercy lyrics](https://www.youtube.com/watch?v=LAasBbkWgfk)
 - [Thompson Twins- Storm on the Sea](https://www.youtube.com/watch?v=44Wx6xB-n4Y)
 - [Thompson Twins - Storm on the Sea](https://www.youtube.com/watch?v=7IklDW51kP8)
 - [Storm on the Sea](https://www.youtube.com/watch?v=NB9jR2Elp_I)
 - [Thompson Twins- Who Can Stop the Rain](https://www.youtube.com/watch?v=9S4Pr0FnIAc)
-- [Thompson Twins - Who Can Stop The Rain (1984)](https://www.youtube.com/watch?v=GvOtgiYYz88)
+- [Thompson Twins - Who Can Stop The Rain 1984](https://www.youtube.com/watch?v=GvOtgiYYz88)
 - [Who Can Stop the Rain](https://www.youtube.com/watch?v=L5PG4eAnAX4)
-- [ThompsonTwins - Into the Gap - 1984 /LP Album](https://www.youtube.com/watch?v=se2n1TPgP08)
+- [ThompsonTwins - Into the Gap - 1984 LP Album](https://www.youtube.com/watch?v=se2n1TPgP08)
 
 ## Release Images
 {{< imageGrid >}}

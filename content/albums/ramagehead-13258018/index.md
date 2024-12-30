@@ -44,17 +44,17 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Videos
-### O.R.k. - Kneel To Nothing (from Ramagehead)
-{{< youtube id="rMfs1ph1ZGU" title="O.R.k. - Kneel To Nothing (from Ramagehead)" >}}<br>
+### ORk - Kneel To Nothing from Ramagehead
+{{< youtube id="rMfs1ph1ZGU" title="ORk - Kneel To Nothing from Ramagehead" >}}<br>
 ### More Videos
 
 - [Signals Erased](https://www.youtube.com/watch?v=zoZiI-G7h_c)
 - [Beyond Sight](https://www.youtube.com/watch?v=ryn0aFQ27WU)
-- [O.R.k. - BLACK BLOOMS feat. SERJ TANKIAN](https://www.youtube.com/watch?v=NEJleqOXiuw)
+- [ORk - BLACK BLOOMS feat SERJ TANKIAN](https://www.youtube.com/watch?v=NEJleqOXiuw)
 - [Time Corroded](https://www.youtube.com/watch?v=zzxBmWd3Pv8)
 - [Down the Road](https://www.youtube.com/watch?v=hLq9d6nzzfQ)
-- [Some Other Rainbow (Pt. One)](https://www.youtube.com/watch?v=hNfrQUazSCE)
-- [Some Other Rainbow (Pt. Two)](https://www.youtube.com/watch?v=H47wv7OF0Qw)
+- [Some Other Rainbow Pt One](https://www.youtube.com/watch?v=hNfrQUazSCE)
+- [Some Other Rainbow Pt Two](https://www.youtube.com/watch?v=H47wv7OF0Qw)
 
 ## Release Images
 {{< imageGrid >}}

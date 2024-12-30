@@ -52,29 +52,29 @@ In It for the Money is the second studio album by English alternative rock band 
 
 
 ## Videos
-### Supergrass - Grace (Official HD Video)
-{{< youtube id="Z4IWmNBKN3o" title="Supergrass - Grace (Official HD Video)" >}}<br>
+### Supergrass - Grace Official HD Video
+{{< youtube id="Z4IWmNBKN3o" title="Supergrass - Grace Official HD Video" >}}<br>
 ### More Videos
 
-- [Supergrass - Richard III (Official HD Video)](https://www.youtube.com/watch?v=UnXrrOxzZCE)
-- [Supergrass - Late In The Day (Official HD Video)](https://www.youtube.com/watch?v=v8HJRVpUHQI)
-- [Supergrass – In It For The Money](https://www.youtube.com/watch?v=GOVGp6I0CgQ)
-- [Supergrass – Cheapskate](https://www.youtube.com/watch?v=YobvL4cwx0E)
-- [Supergrass – You Can See Me](https://www.youtube.com/watch?v=U1NbPfb2NGM)
-- [Supergrass – It's Not Me](https://www.youtube.com/watch?v=oGjeMbm2Tcg)
-- [Supergrass – Going Out](https://www.youtube.com/watch?v=chNYxfWL4y0)
-- [Supergrass – Sometimes I Make You Sad](https://www.youtube.com/watch?v=e6tqd2x-Cbw)
-- [Supergrass – Late In The Day](https://www.youtube.com/watch?v=uprjsXm0x6s)
-- [Supergrass – G-Song](https://www.youtube.com/watch?v=2KgPwjePcnc)
-- [Supergrass – Tonight](https://www.youtube.com/watch?v=Q2PxzbqlKW4)
-- [Supergrass – Sun Hits the Sky](https://www.youtube.com/watch?v=M2bzThImp6E)
-- [Supergrass – Hollow Little Reign](https://www.youtube.com/watch?v=VBcW3SzS-1s)
-- [Supergrass – Richard III](https://www.youtube.com/watch?v=L97CtYyUsXY)
-- [Supergrass - Richard III (Official HD Video)](https://www.youtube.com/watch?v=UnXrrOxzZCE)
-- [Supergrass - Cheapskate (Official HD Video)](https://www.youtube.com/watch?v=7Tivnce5-jU)
-- [Supergrass - Sun Hits The Sky (Official HD Video)](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
-- [Supergrass - In It For The Money (Monitor Mix) (Official Video)](https://www.youtube.com/watch?v=pplWingupSs)
-- [Supergrass - It's Not Me (Early Version) (Official Video)](https://www.youtube.com/watch?v=u80_jUEaWII)
+- [Supergrass - Richard III Official HD Video](https://www.youtube.com/watch?v=UnXrrOxzZCE)
+- [Supergrass - Late In The Day Official HD Video](https://www.youtube.com/watch?v=v8HJRVpUHQI)
+- [Supergrass  In It For The Money](https://www.youtube.com/watch?v=GOVGp6I0CgQ)
+- [Supergrass  Cheapskate](https://www.youtube.com/watch?v=YobvL4cwx0E)
+- [Supergrass  You Can See Me](https://www.youtube.com/watch?v=U1NbPfb2NGM)
+- [Supergrass  Its Not Me](https://www.youtube.com/watch?v=oGjeMbm2Tcg)
+- [Supergrass  Going Out](https://www.youtube.com/watch?v=chNYxfWL4y0)
+- [Supergrass  Sometimes I Make You Sad](https://www.youtube.com/watch?v=e6tqd2x-Cbw)
+- [Supergrass  Late In The Day](https://www.youtube.com/watch?v=uprjsXm0x6s)
+- [Supergrass  G-Song](https://www.youtube.com/watch?v=2KgPwjePcnc)
+- [Supergrass  Tonight](https://www.youtube.com/watch?v=Q2PxzbqlKW4)
+- [Supergrass  Sun Hits the Sky](https://www.youtube.com/watch?v=M2bzThImp6E)
+- [Supergrass  Hollow Little Reign](https://www.youtube.com/watch?v=VBcW3SzS-1s)
+- [Supergrass  Richard III](https://www.youtube.com/watch?v=L97CtYyUsXY)
+- [Supergrass - Richard III Official HD Video](https://www.youtube.com/watch?v=UnXrrOxzZCE)
+- [Supergrass - Cheapskate Official HD Video](https://www.youtube.com/watch?v=7Tivnce5-jU)
+- [Supergrass - Sun Hits The Sky Official HD Video](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
+- [Supergrass - In It For The Money Monitor Mix Official Video](https://www.youtube.com/watch?v=pplWingupSs)
+- [Supergrass - Its Not Me Early Version Official Video](https://www.youtube.com/watch?v=u80_jUEaWII)
 
 ## Release Images
 {{< imageGrid >}}

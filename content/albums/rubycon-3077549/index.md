@@ -37,11 +37,11 @@ Although not quite matching the sales figures for Phaedra, Rubycon reached numbe
 
 
 ## Videos
-### Tangerine Dream - Rubycon [Full Album]
-{{< youtube id="jd6XL_IOS3I" title="Tangerine Dream - Rubycon [Full Album]" >}}<br>
+### Tangerine Dream - Rubycon Full Album
+{{< youtube id="jd6XL_IOS3I" title="Tangerine Dream - Rubycon Full Album" >}}<br>
 ### More Videos
 
-- [Tangerine Dream - Rubycon [Full Album]](https://www.youtube.com/watch?v=jd6XL_IOS3I)
+- [Tangerine Dream - Rubycon Full Album](https://www.youtube.com/watch?v=jd6XL_IOS3I)
 
 ## Release Images
 {{< imageGrid >}}

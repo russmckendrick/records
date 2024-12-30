@@ -37,11 +37,11 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 
 
 ## Videos
-### Swimming Pools (Drank)
-{{< youtube id="i1emfLQ-Jqw" title="Swimming Pools (Drank)" >}}<br>
+### Swimming Pools Drank
+{{< youtube id="i1emfLQ-Jqw" title="Swimming Pools Drank" >}}<br>
 ### More Videos
 
-- [Steppin' Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
+- [Steppin Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
 - [Owner Of A Lonely Heart](https://www.youtube.com/watch?v=W2cb8NH8Ro4)
 - [Slave To The Rhythm](https://www.youtube.com/watch?v=K_QpI1M33bY)
 - [Love Is A Battlefield](https://www.youtube.com/watch?v=JzkPABWz4ew)
@@ -51,8 +51,8 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 - [White Wedding](https://www.youtube.com/watch?v=1otO9cC8NoE)
 - [Smells Like Teen Spirit](https://www.youtube.com/watch?v=A1ZM3p1utcE)
 - [Avalon](https://www.youtube.com/watch?v=bRnlZ9ZBXJg)
-- [Swimming Pools (Drank)](https://www.youtube.com/watch?v=i1emfLQ-Jqw)
-- [Steppin' Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
+- [Swimming Pools Drank](https://www.youtube.com/watch?v=i1emfLQ-Jqw)
+- [Steppin Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
 - [Owner Of A Lonely Heart](https://www.youtube.com/watch?v=W2cb8NH8Ro4)
 - [Slave To The Rhythm](https://www.youtube.com/watch?v=K_QpI1M33bY)
 - [Love Is A Battlefield](https://www.youtube.com/watch?v=JzkPABWz4ew)

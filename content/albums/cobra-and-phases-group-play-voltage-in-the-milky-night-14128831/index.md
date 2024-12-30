@@ -72,7 +72,7 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 
 - [People Do It All The Time](https://www.youtube.com/watch?v=58uQX694gwY)
 - [The Free Design](https://www.youtube.com/watch?v=s_xxsR9GxLE)
-- [Blips, Drips And Strips](https://www.youtube.com/watch?v=Nk4_enrnuRg)
+- [Blips Drips And Strips](https://www.youtube.com/watch?v=Nk4_enrnuRg)
 - [Italian Shoes Continuum](https://www.youtube.com/watch?v=KKKMMaDSmT0)
 - [Infinity Girl](https://www.youtube.com/watch?v=KnQqORK_i0Q)
 - [The Spiracles](https://www.youtube.com/watch?v=VEII-a2GZaI)
@@ -84,7 +84,7 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 - [Strobo Acceleration](https://www.youtube.com/watch?v=CWb0JU5wft8)
 - [The Emergency Kisses](https://www.youtube.com/watch?v=EOvmdPaRcxA)
 - [Come Andy Play In The Milky Night](https://www.youtube.com/watch?v=rBxHWqxJ2ZM)
-- [Stereolab - The Free Design (Official Video)](https://www.youtube.com/watch?v=FBR6bFZbh6A)
+- [Stereolab - The Free Design Official Video](https://www.youtube.com/watch?v=FBR6bFZbh6A)
 - [Velvet Water](https://www.youtube.com/watch?v=rRExTqCBv_0)
 - [Strobo Acceleration](https://www.youtube.com/watch?v=CWb0JU5wft8)
 - [Fuses](https://www.youtube.com/watch?v=SyfbeE25SsU)

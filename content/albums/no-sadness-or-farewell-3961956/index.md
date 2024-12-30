@@ -38,16 +38,16 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Hold On (Goodbye To All Of That)
-{{< youtube id="E5oVTs7WTKA" title="Crippled Black Phoenix - Hold On (Goodbye To All Of That)" >}}<br>
+### Crippled Black Phoenix - Hold On Goodbye To All Of That
+{{< youtube id="E5oVTs7WTKA" title="Crippled Black Phoenix - Hold On Goodbye To All Of That" >}}<br>
 ### More Videos
 
 - [Crippled Black Phoenix - How We Rock](https://www.youtube.com/watch?v=WCjrEUbQ7aI)
-- [Crippled Black Phoenix - What Have We Got to Lose?](https://www.youtube.com/watch?v=TEioeVpQQQw)
+- [Crippled Black Phoenix - What Have We Got to Lose](https://www.youtube.com/watch?v=TEioeVpQQQw)
 - [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
-- [Crippled Black Phoenix - Hold On (Goodbye To All Of That)](https://www.youtube.com/watch?v=E5oVTs7WTKA)
+- [Crippled Black Phoenix - Hold On Goodbye To All Of That](https://www.youtube.com/watch?v=E5oVTs7WTKA)
 - [Crippled Black Phoenix - How We Rock](https://www.youtube.com/watch?v=WCjrEUbQ7aI)
-- [Crippled Black Phoenix - What Have We Got to Lose?](https://www.youtube.com/watch?v=TEioeVpQQQw)
+- [Crippled Black Phoenix - What Have We Got to Lose](https://www.youtube.com/watch?v=TEioeVpQQQw)
 - [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
 
 ## Release Images

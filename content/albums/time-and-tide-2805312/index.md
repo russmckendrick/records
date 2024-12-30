@@ -68,13 +68,13 @@ Time and Tide is the eighth album by the New Zealand new wave band Split Enz, re
 
 
 ## Videos
-### Split Enz - Dirty Creature (Official Video)
-{{< youtube id="NzrE3AhY6KQ" title="Split Enz - Dirty Creature (Official Video)" >}}<br>
+### Split Enz - Dirty Creature Official Video
+{{< youtube id="NzrE3AhY6KQ" title="Split Enz - Dirty Creature Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - Never Ceases To Amaze Me (Official Video)](https://www.youtube.com/watch?v=cGwq6Fn4LyQ)
-- [Split Enz - Six Months In A Leaky Boat (Official Video)](https://www.youtube.com/watch?v=cSGpLto1yxU)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 09 Six Months In A Leaky Boat](https://www.youtube.com/watch?v=zTKKhmMKwJY)
+- [Split Enz - Never Ceases To Amaze Me Official Video](https://www.youtube.com/watch?v=cGwq6Fn4LyQ)
+- [Split Enz - Six Months In A Leaky Boat Official Video](https://www.youtube.com/watch?v=cSGpLto1yxU)
+- [Split Enz - Time and Tide Private Remaster 2017 - 09 Six Months In A Leaky Boat](https://www.youtube.com/watch?v=zTKKhmMKwJY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -44,29 +44,29 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### To Bring You My Love (Demo)
-{{< youtube id="Q45TjwkoZM8" title="To Bring You My Love (Demo)" >}}<br>
+### To Bring You My Love Demo
+{{< youtube id="Q45TjwkoZM8" title="To Bring You My Love Demo" >}}<br>
 ### More Videos
 
-- [Meet Ze Monsta (Demo)](https://www.youtube.com/watch?v=0YG33LTqUCs)
-- [Working For The Man (Demo)](https://www.youtube.com/watch?v=y8Ex_55jaAQ)
-- [C'mon Billy (Demo)](https://www.youtube.com/watch?v=4msAgtMvvz8)
-- [Teclo (Demo)](https://www.youtube.com/watch?v=SVq1R6ZI0QM)
-- [Long Snake Moan (Demo)](https://www.youtube.com/watch?v=EcjEWUzvmEs)
-- [Down By The Water (Demo)](https://www.youtube.com/watch?v=BWFbHDH2IOg)
-- [I Think I'm A Mother (Demo)](https://www.youtube.com/watch?v=qVkNFsjjL80)
-- [Send His Love To Me (Demo)](https://www.youtube.com/watch?v=sxqatL43mKQ)
-- [The Dancer (Demo)](https://www.youtube.com/watch?v=gc8ircFYfr4)
-- [To Bring You My Love (Demo)](https://www.youtube.com/watch?v=Q45TjwkoZM8)
-- [Meet Ze Monsta (Demo)](https://www.youtube.com/watch?v=0YG33LTqUCs)
-- [Working For The Man (Demo)](https://www.youtube.com/watch?v=y8Ex_55jaAQ)
-- [C'mon Billy (Demo)](https://www.youtube.com/watch?v=4msAgtMvvz8)
-- [Teclo (Demo)](https://www.youtube.com/watch?v=SVq1R6ZI0QM)
-- [Long Snake Moan (Demo)](https://www.youtube.com/watch?v=EcjEWUzvmEs)
-- [Down By The Water (Demo)](https://www.youtube.com/watch?v=BWFbHDH2IOg)
-- [I Think I'm A Mother (Demo)](https://www.youtube.com/watch?v=qVkNFsjjL80)
-- [Send His Love To Me (Demo)](https://www.youtube.com/watch?v=sxqatL43mKQ)
-- [The Dancer (Demo)](https://www.youtube.com/watch?v=gc8ircFYfr4)
+- [Meet Ze Monsta Demo](https://www.youtube.com/watch?v=0YG33LTqUCs)
+- [Working For The Man Demo](https://www.youtube.com/watch?v=y8Ex_55jaAQ)
+- [Cmon Billy Demo](https://www.youtube.com/watch?v=4msAgtMvvz8)
+- [Teclo Demo](https://www.youtube.com/watch?v=SVq1R6ZI0QM)
+- [Long Snake Moan Demo](https://www.youtube.com/watch?v=EcjEWUzvmEs)
+- [Down By The Water Demo](https://www.youtube.com/watch?v=BWFbHDH2IOg)
+- [I Think Im A Mother Demo](https://www.youtube.com/watch?v=qVkNFsjjL80)
+- [Send His Love To Me Demo](https://www.youtube.com/watch?v=sxqatL43mKQ)
+- [The Dancer Demo](https://www.youtube.com/watch?v=gc8ircFYfr4)
+- [To Bring You My Love Demo](https://www.youtube.com/watch?v=Q45TjwkoZM8)
+- [Meet Ze Monsta Demo](https://www.youtube.com/watch?v=0YG33LTqUCs)
+- [Working For The Man Demo](https://www.youtube.com/watch?v=y8Ex_55jaAQ)
+- [Cmon Billy Demo](https://www.youtube.com/watch?v=4msAgtMvvz8)
+- [Teclo Demo](https://www.youtube.com/watch?v=SVq1R6ZI0QM)
+- [Long Snake Moan Demo](https://www.youtube.com/watch?v=EcjEWUzvmEs)
+- [Down By The Water Demo](https://www.youtube.com/watch?v=BWFbHDH2IOg)
+- [I Think Im A Mother Demo](https://www.youtube.com/watch?v=qVkNFsjjL80)
+- [Send His Love To Me Demo](https://www.youtube.com/watch?v=sxqatL43mKQ)
+- [The Dancer Demo](https://www.youtube.com/watch?v=gc8ircFYfr4)
 
 ## Release Images
 {{< imageGrid >}}

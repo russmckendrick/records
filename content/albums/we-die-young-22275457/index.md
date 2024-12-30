@@ -38,11 +38,11 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 
 
 ## Videos
-### Alice In Chains - We Die Young (Official HD Video)
-{{< youtube id="6JA25BIxgtk" title="Alice In Chains - We Die Young (Official HD Video)" >}}<br>
+### Alice In Chains - We Die Young Official HD Video
+{{< youtube id="6JA25BIxgtk" title="Alice In Chains - We Die Young Official HD Video" >}}<br>
 ### More Videos
 
-- [Alice in Chains - It Ain't Like That (1990)](https://www.youtube.com/watch?v=xLsc9rygd8k)
+- [Alice in Chains - It Aint Like That 1990](https://www.youtube.com/watch?v=xLsc9rygd8k)
 - [Alice in Chains - Killing Yourself - We Die Young EP](https://www.youtube.com/watch?v=MtrLJrMZwMo)
 
 ## Release Images

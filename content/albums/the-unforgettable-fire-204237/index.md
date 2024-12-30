@@ -54,17 +54,17 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 
 
 ## Videos
-### U2 - Pride (In The Name Of Love) (Official Music Video)
-{{< youtube id="LHcP4MWABGY" title="U2 - Pride (In The Name Of Love) (Official Music Video)" >}}<br>
+### U2 - Pride In The Name Of Love Official Music Video
+{{< youtube id="LHcP4MWABGY" title="U2 - Pride In The Name Of Love Official Music Video" >}}<br>
 ### More Videos
 
-- [U2 - Pride (In The Name Of Love) (Colour Version)](https://www.youtube.com/watch?v=OsIlbWJQFis)
-- [U2 - Pride (In The Name Of Love) (Slane Castle Version)](https://www.youtube.com/watch?v=3OIkyJ0bMIY)
-- [U2 - The Unforgettable Fire (Official Music Video)](https://www.youtube.com/watch?v=KTzmzrruHwc)
-- [U2 - Pride (In The Name Of Love) (Official Music Video)](https://www.youtube.com/watch?v=LHcP4MWABGY)
-- [U2 - Pride (In The Name Of Love) (Colour Version)](https://www.youtube.com/watch?v=OsIlbWJQFis)
-- [U2 - Pride (In The Name Of Love) (Slane Castle Version)](https://www.youtube.com/watch?v=3OIkyJ0bMIY)
-- [U2 - The Unforgettable Fire (Official Music Video)](https://www.youtube.com/watch?v=KTzmzrruHwc)
+- [U2 - Pride In The Name Of Love Colour Version](https://www.youtube.com/watch?v=OsIlbWJQFis)
+- [U2 - Pride In The Name Of Love Slane Castle Version](https://www.youtube.com/watch?v=3OIkyJ0bMIY)
+- [U2 - The Unforgettable Fire Official Music Video](https://www.youtube.com/watch?v=KTzmzrruHwc)
+- [U2 - Pride In The Name Of Love Official Music Video](https://www.youtube.com/watch?v=LHcP4MWABGY)
+- [U2 - Pride In The Name Of Love Colour Version](https://www.youtube.com/watch?v=OsIlbWJQFis)
+- [U2 - Pride In The Name Of Love Slane Castle Version](https://www.youtube.com/watch?v=3OIkyJ0bMIY)
+- [U2 - The Unforgettable Fire Official Music Video](https://www.youtube.com/watch?v=KTzmzrruHwc)
 
 ## Release Images
 {{< imageGrid >}}

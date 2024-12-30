@@ -59,20 +59,20 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 
 
 ## Videos
-### DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)
-{{< youtube id="AdHJurX0yVA" title="DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)" >}}<br>
+### DEVIN TOWNSEND - Spirits Will Collide OFFICIAL VIDEO
+{{< youtube id="AdHJurX0yVA" title="DEVIN TOWNSEND - Spirits Will Collide OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [Sprite](https://www.youtube.com/watch?v=HsPqxO7lVaM)
 - [Hear Me](https://www.youtube.com/watch?v=NOoBfVFQdQg)
-- [Why?](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
+- [Why](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
 - [Singularity](https://www.youtube.com/watch?v=RDSaodyiBQo)
-- [DEVIN TOWNSEND - Genesis (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=1n7uvokARQ4)
+- [DEVIN TOWNSEND - Genesis OFFICIAL VIDEO](https://www.youtube.com/watch?v=1n7uvokARQ4)
 - [Spirits Will Collide](https://www.youtube.com/watch?v=8wpOAM_A4xo)
-- [DEVIN TOWNSEND - Evermore (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-zIxPUPWVq8)
+- [DEVIN TOWNSEND - Evermore OFFICIAL VIDEO](https://www.youtube.com/watch?v=-zIxPUPWVq8)
 - [Requiem](https://www.youtube.com/watch?v=9pks_5P-hlQ)
 - [Castaway](https://www.youtube.com/watch?v=XrEGBV1zQGY)
-- [Gulag (Demo)](https://www.youtube.com/watch?v=WKzaSSPooeI)
+- [Gulag Demo](https://www.youtube.com/watch?v=WKzaSSPooeI)
 - [Evermore](https://www.youtube.com/watch?v=V2-cKI34bpU)
 - [Borderlands](https://www.youtube.com/watch?v=J52C4Z7uya0)
 - [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)

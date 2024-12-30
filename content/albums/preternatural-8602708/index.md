@@ -49,12 +49,12 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 
 
 ## Videos
-### Moulettes - Preternatural (Full Album)
-{{< youtube id="BWZCrvQNps0" title="Moulettes - Preternatural (Full Album)" >}}<br>
+### Moulettes - Preternatural Full Album
+{{< youtube id="BWZCrvQNps0" title="Moulettes - Preternatural Full Album" >}}<br>
 ### More Videos
 
 - [Behemooth](https://www.youtube.com/watch?v=jq9llNcDVhk)
-- [Hidden World (Halicephalobus Mephisto)](https://www.youtube.com/watch?v=b5pipzgf3ao)
+- [Hidden World Halicephalobus Mephisto](https://www.youtube.com/watch?v=b5pipzgf3ao)
 
 ## Release Images
 {{< imageGrid >}}

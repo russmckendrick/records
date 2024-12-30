@@ -45,13 +45,13 @@ styles: ["Soul"]
 
 
 ## Videos
-### Durand Jones & The Indications - Witchoo (Official Video)
-{{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}<br>
+### Durand Jones  The Indications - Witchoo Official Video
+{{< youtube id="d7vTtnevlO4" title="Durand Jones  The Indications - Witchoo Official Video" >}}<br>
 ### More Videos
 
-- [Durand Jones & The Indications - Love Will Work It Out (Official Video)](https://www.youtube.com/watch?v=2AnXiScwWj4)
-- [Durand Jones & The Indications - The Way That I Do (Official Video)](https://www.youtube.com/watch?v=OYq5CxVnOPU)
-- [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
+- [Durand Jones  The Indications - Love Will Work It Out Official Video](https://www.youtube.com/watch?v=2AnXiScwWj4)
+- [Durand Jones  The Indications - The Way That I Do Official Video](https://www.youtube.com/watch?v=OYq5CxVnOPU)
+- [Durand Jones  The Indications - Private Space Full Album 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
 - [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)
 - [Sea of Love](https://www.youtube.com/watch?v=LlsyxKzXUm8)
 - [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)

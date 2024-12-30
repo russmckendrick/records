@@ -59,16 +59,16 @@ Some Old Bullshit, also known as Some Old B******t, is a compilation album by th
 - [Beastie Boys](https://www.youtube.com/watch?v=zHBexaWW56U)
 - [Cooky Puss](https://www.youtube.com/watch?v=a5ohFISLu6U)
 - [Bonus Batter](https://www.youtube.com/watch?v=1hTtMaTFk5U)
-- [Ode To...](https://www.youtube.com/watch?v=vEUfK4xOlMY)
+- [Ode To](https://www.youtube.com/watch?v=vEUfK4xOlMY)
 - [Cooky Puss](https://www.youtube.com/watch?v=Uluk-fS6KHU)
-- [Egg Raid On Mojo (Demo)](https://www.youtube.com/watch?v=-qAw1NdCfic)
+- [Egg Raid On Mojo Demo](https://www.youtube.com/watch?v=-qAw1NdCfic)
 - [Riot Fight](https://www.youtube.com/watch?v=eSLVA4DXOwo)
 - [Holy Snappers](https://www.youtube.com/watch?v=z8aXenos-4A)
 - [Beastie Revolution](https://www.youtube.com/watch?v=okDM6f-3Wl4)
 - [Transit Cop](https://www.youtube.com/watch?v=6C6g-7qx4kA)
 - [Jimi](https://www.youtube.com/watch?v=Y6yzuJTaysM)
-- [Michelle's Farm](https://www.youtube.com/watch?v=4k8ikteOs1s)
-- [Transit Cop (Demo)](https://www.youtube.com/watch?v=7mZC6Uc37hQ)
+- [Michelles Farm](https://www.youtube.com/watch?v=4k8ikteOs1s)
+- [Transit Cop Demo](https://www.youtube.com/watch?v=7mZC6Uc37hQ)
 
 ## Release Images
 {{< imageGrid >}}

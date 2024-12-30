@@ -50,14 +50,14 @@ The album was preceded by what Rolling Stone called "its triptych of instantly c
 
 
 ## Videos
-### Suede - The Drowners (Remastered Official HD Video)
-{{< youtube id="3nWJQStqrfw" title="Suede - The Drowners (Remastered Official HD Video)" >}}<br>
+### Suede - The Drowners Remastered Official HD Video
+{{< youtube id="3nWJQStqrfw" title="Suede - The Drowners Remastered Official HD Video" >}}<br>
 ### More Videos
 
-- [Suede - Metal Mickey (Remastered Official HD Video)](https://www.youtube.com/watch?v=0rbw5FaCAzw)
-- [Suede - Animal Nitrate (Remastered Official HD Video)](https://www.youtube.com/watch?v=i7mEB2wnDLQ)
+- [Suede - Metal Mickey Remastered Official HD Video](https://www.youtube.com/watch?v=0rbw5FaCAzw)
+- [Suede - Animal Nitrate Remastered Official HD Video](https://www.youtube.com/watch?v=i7mEB2wnDLQ)
 - [Suede - So Young](https://www.youtube.com/watch?v=twoO3xYRsz0)
-- [Suede - The Drowners (Remastered Official HD Video) (US version)](https://www.youtube.com/watch?v=-FBmYOB9WkA)
+- [Suede - The Drowners Remastered Official HD Video US version](https://www.youtube.com/watch?v=-FBmYOB9WkA)
 
 ## Release Images
 {{< imageGrid >}}

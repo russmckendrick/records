@@ -57,15 +57,15 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### VUUR - In This Moment We Are Free - Cities (Album Teaser)
-{{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities (Album Teaser)" >}}<br>
+### VUUR - In This Moment We Are Free - Cities Album Teaser
+{{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities Album Teaser" >}}<br>
 ### More Videos
 
-- [VUUR - Days Go By - London (Album Track)](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
-- [VUUR - My Champion - Berlin (Teaser)](https://www.youtube.com/watch?v=WwFqcIiIT0k)
-- [VUUR - Time - Rotterdam (Track By Track)](https://www.youtube.com/watch?v=nLXj_9ejzm8)
-- [VUUR - The Fire - San Francisco (Track By Track)](https://www.youtube.com/watch?v=11EeCmOz9Cg)
-- [An introduction to VUUR - Anneke van Giersbergen's new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
+- [VUUR - Days Go By - London Album Track](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
+- [VUUR - My Champion - Berlin Teaser](https://www.youtube.com/watch?v=WwFqcIiIT0k)
+- [VUUR - Time - Rotterdam Track By Track](https://www.youtube.com/watch?v=nLXj_9ejzm8)
+- [VUUR - The Fire - San Francisco Track By Track](https://www.youtube.com/watch?v=11EeCmOz9Cg)
+- [An introduction to VUUR - Anneke van Giersbergens new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
 ## Release Images
 {{< imageGrid >}}

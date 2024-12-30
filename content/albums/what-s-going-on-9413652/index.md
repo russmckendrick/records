@@ -100,13 +100,13 @@ The album was an immediate commercial and critical success, and came to be viewe
 
 
 ## Videos
-### Marvin Gaye - What's Going On (Official Video 2019)
-{{< youtube id="o5TmORitlKk" title="Marvin Gaye - What's Going On (Official Video 2019)" >}}<br>
+### Marvin Gaye - Whats Going On Official Video 2019
+{{< youtube id="o5TmORitlKk" title="Marvin Gaye - Whats Going On Official Video 2019" >}}<br>
 ### More Videos
 
-- [Marvin Gaye - What's Going On (Lyric Video)](https://www.youtube.com/watch?v=KDK7TiEiMOI)
-- [Marvin Gaye - What's Happening Brother (Visualizer)](https://www.youtube.com/watch?v=UyRws-t7ks4)
-- [Marvin Gaye - Inner City Blues (Make Me Wanna Holler)](https://www.youtube.com/watch?v=57Ykv1D0qEE)
+- [Marvin Gaye - Whats Going On Lyric Video](https://www.youtube.com/watch?v=KDK7TiEiMOI)
+- [Marvin Gaye - Whats Happening Brother Visualizer](https://www.youtube.com/watch?v=UyRws-t7ks4)
+- [Marvin Gaye - Inner City Blues Make Me Wanna Holler](https://www.youtube.com/watch?v=57Ykv1D0qEE)
 
 ## Release Images
 {{< imageGrid >}}

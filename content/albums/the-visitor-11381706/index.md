@@ -48,8 +48,8 @@ Like many of Neil Young's protest albums before it, <i>The Visitor</i> is anothe
 
 
 ## Videos
-### Neil Young + Promise of The Real - Already Great (Official Music Video)
-{{< youtube id="tfyNPxM-M-w" title="Neil Young + Promise of The Real - Already Great (Official Music Video)" >}}<br>
+### Neil Young  Promise of The Real - Already Great Official Music Video
+{{< youtube id="tfyNPxM-M-w" title="Neil Young  Promise of The Real - Already Great Official Music Video" >}}<br>
 ### More Videos
 
 - [Neil Young With Promise Of The Real - Carnival](https://www.youtube.com/watch?v=5XdOgn-hT8Q)

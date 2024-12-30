@@ -54,16 +54,16 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 
 
 ## Videos
-### Talk Talk - It's My Life (Official Video)
-{{< youtube id="cFH5JgyZK1I" title="Talk Talk - It's My Life (Official Video)" >}}<br>
+### Talk Talk - Its My Life Official Video
+{{< youtube id="cFH5JgyZK1I" title="Talk Talk - Its My Life Official Video" >}}<br>
 ### More Videos
 
-- [Tomorrow Started (1997 Remaster)](https://www.youtube.com/watch?v=F5s0oynBz7M)
-- [Does Caroline Know? (1997 Remaster)](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
-- [Renee (1997 Remaster)](https://www.youtube.com/watch?v=KfB-iIrJy-s)
-- [It's My Life (1997 Remaster)](https://www.youtube.com/watch?v=yWQezjGjiqs)
-- [The Last Time (1997 Remaster)](https://www.youtube.com/watch?v=dsDpI1TiQMs)
-- [It's You (1997 Remaster)](https://www.youtube.com/watch?v=xYMOv6XR5ts)
+- [Tomorrow Started 1997 Remaster](https://www.youtube.com/watch?v=F5s0oynBz7M)
+- [Does Caroline Know 1997 Remaster](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
+- [Renee 1997 Remaster](https://www.youtube.com/watch?v=KfB-iIrJy-s)
+- [Its My Life 1997 Remaster](https://www.youtube.com/watch?v=yWQezjGjiqs)
+- [The Last Time 1997 Remaster](https://www.youtube.com/watch?v=dsDpI1TiQMs)
+- [Its You 1997 Remaster](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
 ## Release Images
 {{< imageGrid >}}

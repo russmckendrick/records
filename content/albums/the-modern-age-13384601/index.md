@@ -47,8 +47,8 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 
 
 ## Videos
-### SLEEPER 'THE SUN ALSO RISES' Official video
-{{< youtube id="czLvTGLcyHE" title="SLEEPER 'THE SUN ALSO RISES' Official video" >}}<br>
+### SLEEPER THE SUN ALSO RISES Official video
+{{< youtube id="czLvTGLcyHE" title="SLEEPER THE SUN ALSO RISES Official video" >}}<br>
 ### More Videos
 
 - [Sleeper - Look At You Now](https://www.youtube.com/watch?v=LSh37ZvMTiw)

@@ -65,13 +65,13 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 
 
 ## Videos
-### Frankie Goes To Hollywood - Relax (Official Video)
-{{< youtube id="Yem_iEHiyJ0" title="Frankie Goes To Hollywood - Relax (Official Video)" >}}<br>
+### Frankie Goes To Hollywood - Relax Official Video
+{{< youtube id="Yem_iEHiyJ0" title="Frankie Goes To Hollywood - Relax Official Video" >}}<br>
 ### More Videos
 
-- [Frankie Goes To Hollywood - Two Tribes (ZTIS 119)](https://www.youtube.com/watch?v=SXWVpcypf0w)
+- [Frankie Goes To Hollywood - Two Tribes ZTIS 119](https://www.youtube.com/watch?v=SXWVpcypf0w)
 - [Frankie Goes To Hollywood - The Power Of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)
-- [The World Is My Oyster (Including Well / Snatch Of Fury)](https://www.youtube.com/watch?v=o-mvjSCnnJw)
+- [The World Is My Oyster Including Well  Snatch Of Fury](https://www.youtube.com/watch?v=o-mvjSCnnJw)
 - [Welcome To The Pleasuredome](https://www.youtube.com/watch?v=XcSLxE_a-H8)
 - [Relax](https://www.youtube.com/watch?v=pJ2L1dh-dSo)
 - [War](https://www.youtube.com/watch?v=EPA9B3YZtlc)
@@ -87,10 +87,10 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 - [The Only Star In Heaven](https://www.youtube.com/watch?v=H45pKYBmsLA)
 - [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
 - [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
-- [Frankie Goes To Hollywood - Relax (Official Video)](https://www.youtube.com/watch?v=Yem_iEHiyJ0)
-- [Frankie Goes To Hollywood - Two Tribes (ZTIS 119)](https://www.youtube.com/watch?v=SXWVpcypf0w)
+- [Frankie Goes To Hollywood - Relax Official Video](https://www.youtube.com/watch?v=Yem_iEHiyJ0)
+- [Frankie Goes To Hollywood - Two Tribes ZTIS 119](https://www.youtube.com/watch?v=SXWVpcypf0w)
 - [Frankie Goes To Hollywood - The Power Of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)
-- [The World Is My Oyster (Including Well / Snatch Of Fury)](https://www.youtube.com/watch?v=o-mvjSCnnJw)
+- [The World Is My Oyster Including Well  Snatch Of Fury](https://www.youtube.com/watch?v=o-mvjSCnnJw)
 - [Welcome To The Pleasuredome](https://www.youtube.com/watch?v=XcSLxE_a-H8)
 - [Relax](https://www.youtube.com/watch?v=pJ2L1dh-dSo)
 - [War](https://www.youtube.com/watch?v=EPA9B3YZtlc)

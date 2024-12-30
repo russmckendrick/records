@@ -45,22 +45,22 @@ The album was included in Robert Christgau's "Basic Record Library" of 1950s and
 
 
 ## Videos
-### The Drifters´ - Golden Hits (FULL ALBUM)
-{{< youtube id="3Lo5pfq3TVk" title="The Drifters´ - Golden Hits (FULL ALBUM)" >}}<br>
+### The Drifters - Golden Hits FULL ALBUM
+{{< youtube id="3Lo5pfq3TVk" title="The Drifters - Golden Hits FULL ALBUM" >}}<br>
 ### More Videos
 
-- [There Goes My Baby (Mono)](https://www.youtube.com/watch?v=jQH1TofwSlI)
-- [[If You Cry] True Love, True Love [Mono]](https://www.youtube.com/watch?v=oGntIZ0CqSA)
-- [Dance With Me (Mono)](https://www.youtube.com/watch?v=cwujE7yoeSU)
-- [This Magic Moment (Mono)](https://www.youtube.com/watch?v=i0xelMht57w)
-- [Save The Last Dance For Me (Mono)](https://www.youtube.com/watch?v=FXmpIniHFiE)
-- [I Count The Tears (Mono)](https://www.youtube.com/watch?v=J59jH6N_b9w)
-- [Some Kind Of Wonderful (Mono)](https://www.youtube.com/watch?v=6YXZibnWTNo)
-- [Up On The Roof (Mono)](https://www.youtube.com/watch?v=NuQgkasBZbA)
-- [On Broadway (Mono)](https://www.youtube.com/watch?v=kxciHu8iY2A)
+- [There Goes My Baby Mono](https://www.youtube.com/watch?v=jQH1TofwSlI)
+- [If You Cry True Love True Love Mono](https://www.youtube.com/watch?v=oGntIZ0CqSA)
+- [Dance With Me Mono](https://www.youtube.com/watch?v=cwujE7yoeSU)
+- [This Magic Moment Mono](https://www.youtube.com/watch?v=i0xelMht57w)
+- [Save The Last Dance For Me Mono](https://www.youtube.com/watch?v=FXmpIniHFiE)
+- [I Count The Tears Mono](https://www.youtube.com/watch?v=J59jH6N_b9w)
+- [Some Kind Of Wonderful Mono](https://www.youtube.com/watch?v=6YXZibnWTNo)
+- [Up On The Roof Mono](https://www.youtube.com/watch?v=NuQgkasBZbA)
+- [On Broadway Mono](https://www.youtube.com/watch?v=kxciHu8iY2A)
 - [Under the Boardwalk](https://www.youtube.com/watch?v=PSddD6w5SKc)
-- [I've Got Sand In My Shoes (Mono)](https://www.youtube.com/watch?v=_-bMtWogtMs)
-- [Saturday Night At The Movies (Mono)](https://www.youtube.com/watch?v=R251pbb6ZgY)
+- [Ive Got Sand In My Shoes Mono](https://www.youtube.com/watch?v=_-bMtWogtMs)
+- [Saturday Night At The Movies Mono](https://www.youtube.com/watch?v=R251pbb6ZgY)
 
 ## Release Images
 {{< imageGrid >}}

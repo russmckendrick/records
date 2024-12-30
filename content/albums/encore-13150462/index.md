@@ -50,28 +50,28 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 
 
 ## Videos
-### Stereotype (Live At Le Bataclan)
-{{< youtube id="3y0-Z3w3xq0" title="Stereotype (Live At Le Bataclan)" >}}<br>
+### Stereotype Live At Le Bataclan
+{{< youtube id="3y0-Z3w3xq0" title="Stereotype Live At Le Bataclan" >}}<br>
 ### More Videos
 
-- [Friday Night, Saturday Morning (Live At Le Bataclan)](https://www.youtube.com/watch?v=sYLaOogukHk)
+- [Friday Night Saturday Morning Live At Le Bataclan](https://www.youtube.com/watch?v=sYLaOogukHk)
 - [Black Skin Blue Eyed Boys](https://www.youtube.com/watch?v=BUVHz-HwR7c)
-- [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
-- [B.L.M](https://www.youtube.com/watch?v=7FyOjzUd57c)
+- [Ghost Town Live At Le Bataclan](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
+- [BLM](https://www.youtube.com/watch?v=7FyOjzUd57c)
 - [Vote For Me](https://www.youtube.com/watch?v=UNeM3w5SVOs)
 - [The Lunatics](https://www.youtube.com/watch?v=THjBJk8R2MY)
 - [Breaking Point](https://www.youtube.com/watch?v=TXm_WEtMtFo)
 - [10 Commandments](https://www.youtube.com/watch?v=c_yPCE7GSTY)
 - [Embarrassed By You](https://www.youtube.com/watch?v=AUjpF8uaqWs)
-- [The Life And Times (Of A Man Called Depression)](https://www.youtube.com/watch?v=GygW_WjpebM)
+- [The Life And Times Of A Man Called Depression](https://www.youtube.com/watch?v=GygW_WjpebM)
 - [We Sell Hope](https://www.youtube.com/watch?v=y8KYo8CY8Uw)
-- [Gangsters (Live At Le Bataclan)](https://www.youtube.com/watch?v=-oFwl58XKQI)
-- [A Message To You, Rudy (Live At Le Bataclan)](https://www.youtube.com/watch?v=FD72e8IeM4s)
-- [Nite Klub (Live At The Troxy)](https://www.youtube.com/watch?v=Mw3WEWUn9Y4)
-- [Redemption Song (Live At The Troxy)](https://www.youtube.com/watch?v=2gkmVggL0i0)
-- [Monkey Man (Live At Le Bataclan)](https://www.youtube.com/watch?v=aTmInDkSvTg)
-- [Enjoy Yourself (It's Later Than You Think)](https://www.youtube.com/watch?v=Ws03yKmR5yI)
-- [All The Time In The World (Live At The Troxy)](https://www.youtube.com/watch?v=XLV6zYEDqGA)
+- [Gangsters Live At Le Bataclan](https://www.youtube.com/watch?v=-oFwl58XKQI)
+- [A Message To You Rudy Live At Le Bataclan](https://www.youtube.com/watch?v=FD72e8IeM4s)
+- [Nite Klub Live At The Troxy](https://www.youtube.com/watch?v=Mw3WEWUn9Y4)
+- [Redemption Song Live At The Troxy](https://www.youtube.com/watch?v=2gkmVggL0i0)
+- [Monkey Man Live At Le Bataclan](https://www.youtube.com/watch?v=aTmInDkSvTg)
+- [Enjoy Yourself Its Later Than You Think](https://www.youtube.com/watch?v=Ws03yKmR5yI)
+- [All The Time In The World Live At The Troxy](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 
 ## Release Images
 {{< imageGrid >}}

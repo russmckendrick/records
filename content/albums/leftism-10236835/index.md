@@ -57,20 +57,20 @@ On its release, the album was well received from the British press with positive
 
 
 ## Videos
-### Release the Pressure (Remastered)
-{{< youtube id="H_1BDl88oxo" title="Release the Pressure (Remastered)" >}}<br>
+### Release the Pressure Remastered
+{{< youtube id="H_1BDl88oxo" title="Release the Pressure Remastered" >}}<br>
 ### More Videos
 
-- [Afro Left (Remastered)](https://www.youtube.com/watch?v=jYjk4ySEN-Y)
-- [Melt (Remastered)](https://www.youtube.com/watch?v=R1PkZd_cfYw)
-- [Song of Life (Remastered)](https://www.youtube.com/watch?v=4_n-BQ1fZ_E)
-- [Original (Remastered)](https://www.youtube.com/watch?v=CUgeEeEoFko)
-- [Black Flute (Remastered)](https://www.youtube.com/watch?v=g0Iacn8WKhs)
-- [Space Shanty (Remastered)](https://www.youtube.com/watch?v=gstWU-GP51I)
-- [Inspection (Check One) (Remastered)](https://www.youtube.com/watch?v=84ZyRbb20-4)
-- [Storm 3000 (Remastered)](https://www.youtube.com/watch?v=D2N99BwVmXw)
-- [Open Up (Remastered)](https://www.youtube.com/watch?v=uq3IAHVDCGM)
-- [21st Century Poem (Remastered)](https://www.youtube.com/watch?v=Ysve0XA8QjU)
+- [Afro Left Remastered](https://www.youtube.com/watch?v=jYjk4ySEN-Y)
+- [Melt Remastered](https://www.youtube.com/watch?v=R1PkZd_cfYw)
+- [Song of Life Remastered](https://www.youtube.com/watch?v=4_n-BQ1fZ_E)
+- [Original Remastered](https://www.youtube.com/watch?v=CUgeEeEoFko)
+- [Black Flute Remastered](https://www.youtube.com/watch?v=g0Iacn8WKhs)
+- [Space Shanty Remastered](https://www.youtube.com/watch?v=gstWU-GP51I)
+- [Inspection Check One Remastered](https://www.youtube.com/watch?v=84ZyRbb20-4)
+- [Storm 3000 Remastered](https://www.youtube.com/watch?v=D2N99BwVmXw)
+- [Open Up Remastered](https://www.youtube.com/watch?v=uq3IAHVDCGM)
+- [21st Century Poem Remastered](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,7 +53,7 @@ The album peaked at No. 3 on the U.S. Billboard 200 album chart in July 1969. 
 - [Sunshine Of Your Love](https://www.youtube.com/watch?v=y_u1eu6Lpds)
 - [Badge](https://www.youtube.com/watch?v=5TH32ercNP0)
 - [Cream Crossroads](https://www.youtube.com/watch?v=PE9HvSdcaL4)
-- [Cream - Sunshine Of Your Love (HD)](https://www.youtube.com/watch?v=zt51rITH3EA)
+- [Cream - Sunshine Of Your Love HD](https://www.youtube.com/watch?v=zt51rITH3EA)
 
 ## Release Images
 {{< imageGrid >}}

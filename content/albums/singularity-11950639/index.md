@@ -48,20 +48,20 @@ Building on his background as a classical pianist and composer, Surrey producer 
 
 
 ## Videos
-### Jon Hopkins - Emerald Rush (Official Video)
-{{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}<br>
+### Jon Hopkins - Emerald Rush Official Video
+{{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush Official Video" >}}<br>
 ### More Videos
 
-- [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
-- [Jon Hopkins - Luminous Beings (Edit) (Official Audio)](https://www.youtube.com/watch?v=GGfttSfGbBM)
-- [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
-- [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
+- [Jon Hopkins - Everything Connected Official Audio](https://www.youtube.com/watch?v=t-w-XSbVDsI)
+- [Jon Hopkins - Luminous Beings Edit Official Audio](https://www.youtube.com/watch?v=GGfttSfGbBM)
+- [Jon Hopkins - Singularity Official Video](https://www.youtube.com/watch?v=lkvnpHFajt0)
+- [Jon Hopkins - Singularity ANNA Remix Official Audio](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
 - [Neon Pattern Drum](https://www.youtube.com/watch?v=dPV_bL_YOho)
-- [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
-- [Jon Hopkins - Feel First Life (Official Video)](https://www.youtube.com/watch?v=rXNPbUyiI64)
+- [Jon Hopkins - Everything Connected Official Audio](https://www.youtube.com/watch?v=t-w-XSbVDsI)
+- [Jon Hopkins - Feel First Life Official Video](https://www.youtube.com/watch?v=rXNPbUyiI64)
 - [C O S M](https://www.youtube.com/watch?v=nMTF-IocBi4)
 - [Echo Dissolve](https://www.youtube.com/watch?v=2vYOYz6zVyA)
-- [Jon Hopkins - Luminous Beings (HQ audio)](https://www.youtube.com/watch?v=ogMGGaeecww)
+- [Jon Hopkins - Luminous Beings HQ audio](https://www.youtube.com/watch?v=ogMGGaeecww)
 - [Recovery](https://www.youtube.com/watch?v=MaqlsAmlbzo)
 
 ## Release Images

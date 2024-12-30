@@ -35,8 +35,8 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### KOJ - Home (Official Video)
-{{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home (Official Video)" >}}<br>
+### KOJ - Home Official Video
+{{< youtube id="Y0D2FA0Po1Y" title="KOJ - Home Official Video" >}}<br>
 
 
 ## Release Images

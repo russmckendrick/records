@@ -47,30 +47,30 @@ styles: ["Folk Rock"]
 
 
 ## Videos
-### John Moreland - Sallisaw Blue (Official Audio)
-{{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue (Official Audio)" >}}<br>
+### John Moreland - Sallisaw Blue Official Audio
+{{< youtube id="bfkXnZ65jS8" title="John Moreland - Sallisaw Blue Official Audio" >}}<br>
 ### More Videos
 
 - [Old Wounds](https://www.youtube.com/watch?v=sJWBJx64frM)
 - [Every Kind of Wrong](https://www.youtube.com/watch?v=ZZ1bZqWpRGk)
 - [Love Is Not an Answer](https://www.youtube.com/watch?v=R4tE27oj8vU)
 - [Lies I Chose to Believe](https://www.youtube.com/watch?v=e9hui3Foy4E)
-- [Amen, So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
+- [Amen So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
 - [No Glory in Regret](https://www.youtube.com/watch?v=FVGpp9Ltv-s)
-- [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
+- [Aint We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
 - [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=9HoIEzv0Fqw)
-- [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
+- [John Moreland - It Dont Suit Me Like Before](https://www.youtube.com/watch?v=FLrmGYpzh_k)
 - [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
-- [John Moreland - Sallisaw Blue (Official Audio)](https://www.youtube.com/watch?v=bfkXnZ65jS8)
+- [John Moreland - Sallisaw Blue Official Audio](https://www.youtube.com/watch?v=bfkXnZ65jS8)
 - [Old Wounds](https://www.youtube.com/watch?v=sJWBJx64frM)
 - [Every Kind of Wrong](https://www.youtube.com/watch?v=ZZ1bZqWpRGk)
 - [Love Is Not an Answer](https://www.youtube.com/watch?v=R4tE27oj8vU)
 - [Lies I Chose to Believe](https://www.youtube.com/watch?v=e9hui3Foy4E)
-- [Amen, So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
+- [Amen So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
 - [No Glory in Regret](https://www.youtube.com/watch?v=FVGpp9Ltv-s)
-- [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
+- [Aint We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
 - [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=9HoIEzv0Fqw)
-- [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
+- [John Moreland - It Dont Suit Me Like Before](https://www.youtube.com/watch?v=FLrmGYpzh_k)
 - [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
 
 ## Release Images

@@ -55,11 +55,11 @@ Packaging contains liner notes dedicating the album to prisoners, a diagram illu
 
 - [Static](https://www.youtube.com/watch?v=RW86oMO80Ms)
 - [Sleep](https://www.youtube.com/watch?v=7EGTD7azzWk)
-- [Like Antennas To Heaven…](https://www.youtube.com/watch?v=agN6AL2Y8h0)
+- [Like Antennas To Heaven](https://www.youtube.com/watch?v=agN6AL2Y8h0)
 - [Storm](https://www.youtube.com/watch?v=JMDmaUO4hno)
 - [Static](https://www.youtube.com/watch?v=RW86oMO80Ms)
 - [Sleep](https://www.youtube.com/watch?v=7EGTD7azzWk)
-- [Like Antennas To Heaven…](https://www.youtube.com/watch?v=agN6AL2Y8h0)
+- [Like Antennas To Heaven](https://www.youtube.com/watch?v=agN6AL2Y8h0)
 
 ## Release Images
 {{< imageGrid >}}

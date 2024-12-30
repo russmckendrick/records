@@ -60,23 +60,23 @@ Interplay is the seventh studio album by English rock band Ride, released on 29 
 
 
 ## Videos
-### RIDE - Peace Sign (Official Visualiser)
-{{< youtube id="CGnClWTNQRQ" title="RIDE - Peace Sign (Official Visualiser)" >}}<br>
+### RIDE - Peace Sign Official Visualiser
+{{< youtube id="CGnClWTNQRQ" title="RIDE - Peace Sign Official Visualiser" >}}<br>
 ### More Videos
 
-- [RIDE - Last Frontier (Official Visualiser)](https://www.youtube.com/watch?v=KR31bfYn3NM)
-- [RIDE - Monaco (Official Visualiser)](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
-- [RIDE - Portland Rocks (Official Visualiser)](https://www.youtube.com/watch?v=QglDc7tJsCE)
+- [RIDE - Last Frontier Official Visualiser](https://www.youtube.com/watch?v=KR31bfYn3NM)
+- [RIDE - Monaco Official Visualiser](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
+- [RIDE - Portland Rocks Official Visualiser](https://www.youtube.com/watch?v=QglDc7tJsCE)
 - [Essaouira](https://www.youtube.com/watch?v=3FxI42BIOjE)
 - [I Came to See the Wreck](https://www.youtube.com/watch?v=zG5hDFpHjyA)
 - [Light in a Quiet Room](https://www.youtube.com/watch?v=IODxpM8qk8Q)
 - [Sunrise Chaser](https://www.youtube.com/watch?v=u0X6h9jc054)
 - [Stay Free](https://www.youtube.com/watch?v=gdpehrtmhNA)
 - [Yesterday is Just a Song](https://www.youtube.com/watch?v=Zck0Aw5elW4)
-- [RIDE - Peace Sign (Official Visualiser)](https://www.youtube.com/watch?v=CGnClWTNQRQ)
-- [RIDE - Last Frontier (Official Visualiser)](https://www.youtube.com/watch?v=KR31bfYn3NM)
-- [RIDE - Monaco (Official Visualiser)](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
-- [RIDE - Portland Rocks (Official Visualiser)](https://www.youtube.com/watch?v=QglDc7tJsCE)
+- [RIDE - Peace Sign Official Visualiser](https://www.youtube.com/watch?v=CGnClWTNQRQ)
+- [RIDE - Last Frontier Official Visualiser](https://www.youtube.com/watch?v=KR31bfYn3NM)
+- [RIDE - Monaco Official Visualiser](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
+- [RIDE - Portland Rocks Official Visualiser](https://www.youtube.com/watch?v=QglDc7tJsCE)
 - [Essaouira](https://www.youtube.com/watch?v=3FxI42BIOjE)
 - [I Came to See the Wreck](https://www.youtube.com/watch?v=zG5hDFpHjyA)
 - [Light in a Quiet Room](https://www.youtube.com/watch?v=IODxpM8qk8Q)

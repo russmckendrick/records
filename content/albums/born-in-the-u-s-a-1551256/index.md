@@ -67,8 +67,8 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 
 
 ## Videos
-### Bruce Springsteen - Born in the U.S.A. (Official Video)
-{{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the U.S.A. (Official Video)" >}}<br>
+### Bruce Springsteen - Born in the USA Official Video
+{{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the USA Official Video" >}}<br>
 
 
 ## Release Images

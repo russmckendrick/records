@@ -48,8 +48,8 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 
 
 ## Videos
-### The B-52's - Private Idaho (Official Audio)
-{{< youtube id="BxHyliIspkA" title="The B-52's - Private Idaho (Official Audio)" >}}<br>
+### The B-52s - Private Idaho Official Audio
+{{< youtube id="BxHyliIspkA" title="The B-52s - Private Idaho Official Audio" >}}<br>
 
 
 ## Release Images

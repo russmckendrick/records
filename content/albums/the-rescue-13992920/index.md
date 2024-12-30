@@ -40,11 +40,11 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 
 
 ## Videos
-### Explosions in the Sky - The Rescue (Full Album) [HD]
-{{< youtube id="1mqBMmhgsjM" title="Explosions in the Sky - The Rescue (Full Album) [HD]" >}}<br>
+### Explosions in the Sky - The Rescue Full Album HD
+{{< youtube id="1mqBMmhgsjM" title="Explosions in the Sky - The Rescue Full Album HD" >}}<br>
 ### More Videos
 
-- [Explosions in the Sky - The Rescue (Full Album) [HD]](https://www.youtube.com/watch?v=1mqBMmhgsjM)
+- [Explosions in the Sky - The Rescue Full Album HD](https://www.youtube.com/watch?v=1mqBMmhgsjM)
 
 ## Release Images
 {{< imageGrid >}}

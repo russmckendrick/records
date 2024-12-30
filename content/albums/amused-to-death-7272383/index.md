@@ -54,22 +54,22 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 
 
 ## Videos
-### Roger Waters - What God Wants, Pt. 1
-{{< youtube id="wtq1_peTXbw" title="Roger Waters - What God Wants, Pt. 1" >}}<br>
+### Roger Waters - What God Wants Pt 1
+{{< youtube id="wtq1_peTXbw" title="Roger Waters - What God Wants Pt 1" >}}<br>
 ### More Videos
 
 - [The Ballad of Bill Hubbard](https://www.youtube.com/watch?v=EIzgTL5NDT8)
 - [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
-- [Perfect Sense, Pt. I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
-- [Perfect Sense, Pt. II](https://www.youtube.com/watch?v=eYG7INhXFjc)
+- [Perfect Sense Pt I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
+- [Perfect Sense Pt II](https://www.youtube.com/watch?v=eYG7INhXFjc)
 - [The Bravery of Being Out of Range](https://www.youtube.com/watch?v=QDFTHiJR63U)
-- [Late Home Tonight, Pt. I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
-- [Late Home Tonight, Pt. II](https://www.youtube.com/watch?v=isVAEXdKBS4)
+- [Late Home Tonight Pt I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
+- [Late Home Tonight Pt II](https://www.youtube.com/watch?v=isVAEXdKBS4)
 - [Too Much Rope](https://www.youtube.com/watch?v=Vz65-1wXoLY)
-- [What God Wants, Pt. II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
-- [What God Wants, Pt. III](https://www.youtube.com/watch?v=OccmcfZ9ZnY)
+- [What God Wants Pt II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
+- [What God Wants Pt III](https://www.youtube.com/watch?v=OccmcfZ9ZnY)
 - [Watching TV](https://www.youtube.com/watch?v=Ca3PnHFgJ54)
-- [It's a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
+- [Its a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
 - [Amused to Death](https://www.youtube.com/watch?v=zpotZUiKLbU)
 
 ## Release Images

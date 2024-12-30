@@ -57,15 +57,15 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 
 
 ## Videos
-### The Black Crowes - Happiness Bastards (Album Available Now)
-{{< youtube id="QfSnOZ_R_Sg" title="The Black Crowes - Happiness Bastards (Album Available Now)" >}}<br>
+### The Black Crowes - Happiness Bastards Album Available Now
+{{< youtube id="QfSnOZ_R_Sg" title="The Black Crowes - Happiness Bastards Album Available Now" >}}<br>
 ### More Videos
 
-- [The Black Crowes - Wanting and Waiting (Official Video)](https://www.youtube.com/watch?v=rHBu97e--xA)
-- [The Black Crowes - Happiness Bastards (Full Album) 2024](https://www.youtube.com/watch?v=m10g2IBf9Lc)
+- [The Black Crowes - Wanting and Waiting Official Video](https://www.youtube.com/watch?v=rHBu97e--xA)
+- [The Black Crowes - Happiness Bastards Full Album 2024](https://www.youtube.com/watch?v=m10g2IBf9Lc)
 - [The Black Crowes - Album release party - Happiness Bastards - FULL SHOW](https://www.youtube.com/watch?v=Z1RR5nmaZ1A)
-- [The Black Crowes: Wanting and Waiting | The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=FJEK0XWSL2w)
-- [The Black Crowes - Happiness Bastards (Album Available Now)](https://www.youtube.com/watch?v=QfSnOZ_R_Sg)
+- [The Black Crowes Wanting and Waiting  The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=FJEK0XWSL2w)
+- [The Black Crowes - Happiness Bastards Album Available Now](https://www.youtube.com/watch?v=QfSnOZ_R_Sg)
 
 ## Release Images
 {{< imageGrid >}}

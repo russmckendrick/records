@@ -110,8 +110,8 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 
 
 ## Videos
-### The Smiths - The Queen Is Dead - A Film By Derek Jarman (Official Music Video)
-{{< youtube id="YS3UMjNUqFM" title="The Smiths - The Queen Is Dead - A Film By Derek Jarman (Official Music Video)" >}}<br>
+### The Smiths - The Queen Is Dead - A Film By Derek Jarman Official Music Video
+{{< youtube id="YS3UMjNUqFM" title="The Smiths - The Queen Is Dead - A Film By Derek Jarman Official Music Video" >}}<br>
 
 
 ## Release Images

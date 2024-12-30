@@ -51,19 +51,19 @@ All Nerve is the fifth full-length studio album by American alternative rock ban
 
 
 ## Videos
-### The Breeders  - Nervous Mary (Official Audio)
-{{< youtube id="quqU4onSjh8" title="The Breeders  - Nervous Mary (Official Audio)" >}}<br>
+### The Breeders  - Nervous Mary Official Audio
+{{< youtube id="quqU4onSjh8" title="The Breeders  - Nervous Mary Official Audio" >}}<br>
 ### More Videos
 
-- ['All Nerve' by The Breeders (Album Trailer)](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
-- [The Breeders - Wait in the Car (Official Video)](https://www.youtube.com/watch?v=5i76b0OrdIQ)
-- [The Breeders - Spacewoman (Official Video)](https://www.youtube.com/watch?v=oVk4xRdD5MA)
-- [The Breeders - MetaGoth (Official Video)](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
-- [The Breeders  - Nervous Mary (Official Audio)](https://www.youtube.com/watch?v=quqU4onSjh8)
-- ['All Nerve' by The Breeders (Album Trailer)](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
-- [The Breeders - Wait in the Car (Official Video)](https://www.youtube.com/watch?v=5i76b0OrdIQ)
-- [The Breeders - Spacewoman (Official Video)](https://www.youtube.com/watch?v=oVk4xRdD5MA)
-- [The Breeders - MetaGoth (Official Video)](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
+- [All Nerve by The Breeders Album Trailer](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
+- [The Breeders - Wait in the Car Official Video](https://www.youtube.com/watch?v=5i76b0OrdIQ)
+- [The Breeders - Spacewoman Official Video](https://www.youtube.com/watch?v=oVk4xRdD5MA)
+- [The Breeders - MetaGoth Official Video](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
+- [The Breeders  - Nervous Mary Official Audio](https://www.youtube.com/watch?v=quqU4onSjh8)
+- [All Nerve by The Breeders Album Trailer](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
+- [The Breeders - Wait in the Car Official Video](https://www.youtube.com/watch?v=5i76b0OrdIQ)
+- [The Breeders - Spacewoman Official Video](https://www.youtube.com/watch?v=oVk4xRdD5MA)
+- [The Breeders - MetaGoth Official Video](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
 
 ## Release Images
 {{< imageGrid >}}

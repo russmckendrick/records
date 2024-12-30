@@ -66,8 +66,8 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### Kyle Dixon & Michael Stein - Stranger Things Vol. 2
-{{< youtube id="itC9WixTGNE" title="Kyle Dixon & Michael Stein - Stranger Things Vol. 2" >}}<br>
+### Kyle Dixon  Michael Stein - Stranger Things Vol 2
+{{< youtube id="itC9WixTGNE" title="Kyle Dixon  Michael Stein - Stranger Things Vol 2" >}}<br>
 
 
 ## Release Images

@@ -72,14 +72,14 @@ Back in Black was an unprecedented commercial and critical success. It has sold 
 
 
 ## Videos
-### AC/DC - Back In Black (Cassette, 1980)
-{{< youtube id="kaUJJSp61uA" title="AC/DC - Back In Black (Cassette, 1980)" >}}<br>
+### ACDC - Back In Black Cassette 1980
+{{< youtube id="kaUJJSp61uA" title="ACDC - Back In Black Cassette 1980" >}}<br>
 ### More Videos
 
-- [AC/DC - Back In Black](https://www.youtube.com/watch?v=zjx0D1Ivy-Q)
-- [AC/DC - Hells Bells (Official 4K Video)](https://www.youtube.com/watch?v=etAIpkdhU9Q)
+- [ACDC - Back In Black](https://www.youtube.com/watch?v=zjx0D1Ivy-Q)
+- [ACDC - Hells Bells Official 4K Video](https://www.youtube.com/watch?v=etAIpkdhU9Q)
 - [AC DC - Shoot To Thrill](https://www.youtube.com/watch?v=LIzPbnIp2QM)
-- [AC/DC - Back in Black (Full Album)](https://www.youtube.com/watch?v=2-fR2rrmw3I)
+- [ACDC - Back in Black Full Album](https://www.youtube.com/watch?v=2-fR2rrmw3I)
 
 ## Release Images
 {{< imageGrid >}}

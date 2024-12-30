@@ -43,25 +43,25 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 
 
 ## Videos
-### Jason Collett - Reunion (Stars Cover)
-{{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion (Stars Cover)" >}}<br>
+### Jason Collett - Reunion Stars Cover
+{{< youtube id="Y-IM3LZrdrU" title="Jason Collett - Reunion Stars Cover" >}}<br>
 ### More Videos
 
-- [stars - your ex-lover is dead (final fantasy remix)](https://www.youtube.com/watch?v=_WROUOOtC7U)
-- [Stars- What I'm Trying to Say (The Dears)](https://www.youtube.com/watch?v=IZQXp2yn0Jg)
-- [Stars - Ageless Beauty (The Most Serene Republic)](https://www.youtube.com/watch?v=rHm1tkrK1iw)
-- [Apostle Of Hustle - One More Night (Stars Cover)](https://www.youtube.com/watch?v=0EvKhDjHr7o)
-- [Stars - Set Yourself on Fire (Montag)](https://www.youtube.com/watch?v=IpSRckfN-zc)
-- [Your Ex-Lover Is Dead (Final Fantasy) - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
-- [Your Ex-Lover Is Dead by Stars (another version)](https://www.youtube.com/watch?v=x4cZyF2i5yw)
-- [Jason Collett - Reunion (Stars Cover)](https://www.youtube.com/watch?v=Y-IM3LZrdrU)
-- [stars - your ex-lover is dead (final fantasy remix)](https://www.youtube.com/watch?v=_WROUOOtC7U)
-- [Stars- What I'm Trying to Say (The Dears)](https://www.youtube.com/watch?v=IZQXp2yn0Jg)
-- [Stars - Ageless Beauty (The Most Serene Republic)](https://www.youtube.com/watch?v=rHm1tkrK1iw)
-- [Apostle Of Hustle - One More Night (Stars Cover)](https://www.youtube.com/watch?v=0EvKhDjHr7o)
-- [Stars - Set Yourself on Fire (Montag)](https://www.youtube.com/watch?v=IpSRckfN-zc)
-- [Your Ex-Lover Is Dead (Final Fantasy) - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
-- [Your Ex-Lover Is Dead by Stars (another version)](https://www.youtube.com/watch?v=x4cZyF2i5yw)
+- [stars - your ex-lover is dead final fantasy remix](https://www.youtube.com/watch?v=_WROUOOtC7U)
+- [Stars- What Im Trying to Say The Dears](https://www.youtube.com/watch?v=IZQXp2yn0Jg)
+- [Stars - Ageless Beauty The Most Serene Republic](https://www.youtube.com/watch?v=rHm1tkrK1iw)
+- [Apostle Of Hustle - One More Night Stars Cover](https://www.youtube.com/watch?v=0EvKhDjHr7o)
+- [Stars - Set Yourself on Fire Montag](https://www.youtube.com/watch?v=IpSRckfN-zc)
+- [Your Ex-Lover Is Dead Final Fantasy - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
+- [Your Ex-Lover Is Dead by Stars another version](https://www.youtube.com/watch?v=x4cZyF2i5yw)
+- [Jason Collett - Reunion Stars Cover](https://www.youtube.com/watch?v=Y-IM3LZrdrU)
+- [stars - your ex-lover is dead final fantasy remix](https://www.youtube.com/watch?v=_WROUOOtC7U)
+- [Stars- What Im Trying to Say The Dears](https://www.youtube.com/watch?v=IZQXp2yn0Jg)
+- [Stars - Ageless Beauty The Most Serene Republic](https://www.youtube.com/watch?v=rHm1tkrK1iw)
+- [Apostle Of Hustle - One More Night Stars Cover](https://www.youtube.com/watch?v=0EvKhDjHr7o)
+- [Stars - Set Yourself on Fire Montag](https://www.youtube.com/watch?v=IpSRckfN-zc)
+- [Your Ex-Lover Is Dead Final Fantasy - Stars](https://www.youtube.com/watch?v=UeHRceDk_e8)
+- [Your Ex-Lover Is Dead by Stars another version](https://www.youtube.com/watch?v=x4cZyF2i5yw)
 
 ## Release Images
 {{< imageGrid >}}

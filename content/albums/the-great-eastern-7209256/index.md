@@ -53,10 +53,10 @@ The Great Eastern was their first album not to be named after a cycling theme â€
 
 - [The Delgados - Accused of Stealing](https://www.youtube.com/watch?v=RLSRrlLM5_A)
 - [The Delgados - American Trilogy](https://www.youtube.com/watch?v=Fhdewbz7qiY)
-- [Reasons for Silence (Ed's Song) - The Delgados](https://www.youtube.com/watch?v=eM--KpYLnNg)
-- [The Delgados - Thirteen Gliding Principles.wmv](https://www.youtube.com/watch?v=kVuBni6IyKY)
+- [Reasons for Silence Eds Song - The Delgados](https://www.youtube.com/watch?v=eM--KpYLnNg)
+- [The Delgados - Thirteen Gliding Principleswmv](https://www.youtube.com/watch?v=kVuBni6IyKY)
 - [The Delgados - Witness](https://www.youtube.com/watch?v=k7zJqGZlKRI)
-- [The Delgados - Make Your Move (Twin Peaks Mix)](https://www.youtube.com/watch?v=nUk4DU_5mKM)
+- [The Delgados - Make Your Move Twin Peaks Mix](https://www.youtube.com/watch?v=nUk4DU_5mKM)
 
 ## Release Images
 {{< imageGrid >}}

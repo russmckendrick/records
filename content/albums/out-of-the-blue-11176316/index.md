@@ -52,12 +52,12 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 
 
 ## Videos
-### Electric Light Orchestra - Mr. Blue Sky (Official Video)
-{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr. Blue Sky (Official Video)" >}}<br>
+### Electric Light Orchestra - Mr Blue Sky Official Video
+{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr Blue Sky Official Video" >}}<br>
 ### More Videos
 
-- [E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
-- [Electric Light Orchestra  - Turn To Stone....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=MBu3K6uz0KA)
+- [Electric Light Orchestra  -  Out of the Blue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
+- [Electric Light Orchestra  - Turn To Stoneyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=MBu3K6uz0KA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -80,18 +80,18 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 
 
 ## Videos
-### XTC - Skylarking (Full Album) [HD]
-{{< youtube id="85J91FwPrTw" title="XTC - Skylarking (Full Album) [HD]" >}}<br>
+### XTC - Skylarking Full Album HD
+{{< youtube id="85J91FwPrTw" title="XTC - Skylarking Full Album HD" >}}<br>
 ### More Videos
 
 - [XTC - Grass](https://www.youtube.com/watch?v=nErBEvTIvfo)
-- [1000 Umbrellas (Remastered 2001)](https://www.youtube.com/watch?v=gIs2LzcYuk0)
+- [1000 Umbrellas Remastered 2001](https://www.youtube.com/watch?v=gIs2LzcYuk0)
 - [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
-- [The Man Who Sailed Around His Soul (Remastered 2001)](https://www.youtube.com/watch?v=1KGS7nm9N10)
-- [Earn Enough For Us (Remastered 2001)](https://www.youtube.com/watch?v=wft8l-bw0qw)
-- [Summer's Cauldron (Remastered 2001)](https://www.youtube.com/watch?v=0Ff7mJ_AjNQ)
-- [That's Really Super, Supergirl (Remastered 2001)](https://www.youtube.com/watch?v=CBNsiEWghGA)
-- [XTC - Skylarking (Full Album) [HD]](https://www.youtube.com/watch?v=85J91FwPrTw)
+- [The Man Who Sailed Around His Soul Remastered 2001](https://www.youtube.com/watch?v=1KGS7nm9N10)
+- [Earn Enough For Us Remastered 2001](https://www.youtube.com/watch?v=wft8l-bw0qw)
+- [Summers Cauldron Remastered 2001](https://www.youtube.com/watch?v=0Ff7mJ_AjNQ)
+- [Thats Really Super Supergirl Remastered 2001](https://www.youtube.com/watch?v=CBNsiEWghGA)
+- [XTC - Skylarking Full Album HD](https://www.youtube.com/watch?v=85J91FwPrTw)
 - [XTC - Dear God](https://www.youtube.com/watch?v=p554R-Jq43A)
 
 ## Release Images

@@ -51,12 +51,12 @@ Upon release, critics were impressed by the improved sound quality and the group
 
 
 ## Videos
-### Genesis - Dance On A Volcano (Official Audio)
-{{< youtube id="sjRQgTbbfwA" title="Genesis - Dance On A Volcano (Official Audio)" >}}<br>
+### Genesis - Dance On A Volcano Official Audio
+{{< youtube id="sjRQgTbbfwA" title="Genesis - Dance On A Volcano Official Audio" >}}<br>
 ### More Videos
 
-- [Entangled (2007 Remaster)](https://www.youtube.com/watch?v=s5d_XOm1c-E)
-- [Genesis - Ripples (Official Music Video)](https://www.youtube.com/watch?v=gAMBKnKPANo)
+- [Entangled 2007 Remaster](https://www.youtube.com/watch?v=s5d_XOm1c-E)
+- [Genesis - Ripples Official Music Video](https://www.youtube.com/watch?v=gAMBKnKPANo)
 
 ## Release Images
 {{< imageGrid >}}

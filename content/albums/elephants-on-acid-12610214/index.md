@@ -86,13 +86,13 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 
 
 ## Videos
-### Cypress Hill - Band of Gypsies (Official Video)
-{{< youtube id="buxccDwjkdA" title="Cypress Hill - Band of Gypsies (Official Video)" >}}<br>
+### Cypress Hill - Band of Gypsies Official Video
+{{< youtube id="buxccDwjkdA" title="Cypress Hill - Band of Gypsies Official Video" >}}<br>
 ### More Videos
 
-- [Cypress Hill - "Locos" feat. Sick Jacken (Official Video)](https://www.youtube.com/watch?v=glZQaFukto0)
+- [Cypress Hill - Locos feat Sick Jacken Official Video](https://www.youtube.com/watch?v=glZQaFukto0)
 - [Cypress Hill - Reefer Man](https://www.youtube.com/watch?v=jDb2xNsa2YA)
-- [Cypress Hill - "Blood On My Hands Again" (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
+- [Cypress Hill - Blood On My Hands Again Official Video](https://www.youtube.com/watch?v=P1AaYTKGknk)
 
 ## Release Images
 {{< imageGrid >}}

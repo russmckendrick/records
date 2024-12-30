@@ -48,15 +48,15 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 
 
 ## Videos
-### Belinda Carlisle - Heaven Is A Place On Earth (Official Video)
-{{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}<br>
+### Belinda Carlisle - Heaven Is A Place On Earth Official Video
+{{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth Official Video" >}}<br>
 ### More Videos
 
-- [Belinda Carlisle - I Feel Free (Official Video)](https://www.youtube.com/watch?v=Z9T7rbO00hI)
-- [Belinda Carlisle - World Without You (Official Video)](https://www.youtube.com/watch?v=lb2lgh2NhVA)
-- [Belinda Carlisle - Love Never Dies (Official Video)](https://www.youtube.com/watch?v=GhOj0B5Pvgs)
-- [Belinda Carlisle - I Get Weak (Official Video)](https://www.youtube.com/watch?v=sdTaPrs3fYE)
-- [Belinda Carlisle - Circle In The Sand (Official Video)](https://www.youtube.com/watch?v=hgpXSoWBAVA)
+- [Belinda Carlisle - I Feel Free Official Video](https://www.youtube.com/watch?v=Z9T7rbO00hI)
+- [Belinda Carlisle - World Without You Official Video](https://www.youtube.com/watch?v=lb2lgh2NhVA)
+- [Belinda Carlisle - Love Never Dies Official Video](https://www.youtube.com/watch?v=GhOj0B5Pvgs)
+- [Belinda Carlisle - I Get Weak Official Video](https://www.youtube.com/watch?v=sdTaPrs3fYE)
+- [Belinda Carlisle - Circle In The Sand Official Video](https://www.youtube.com/watch?v=hgpXSoWBAVA)
 
 ## Release Images
 {{< imageGrid >}}

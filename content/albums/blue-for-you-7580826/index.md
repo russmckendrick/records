@@ -54,7 +54,7 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 {{< youtube id="26LIy1dqtzM" title="STATUS QUO - BLUE FOR YOU" >}}<br>
 ### More Videos
 
-- [Statṵs̰ ̰Q̰uo--Blṵḛ For Yoṵ 1976 Full Album HQ](https://www.youtube.com/watch?v=9aPb4N7EPWk)
+- [Status Quo--Blue For You 1976 Full Album HQ](https://www.youtube.com/watch?v=9aPb4N7EPWk)
 - [Status Quo - Rain](https://www.youtube.com/watch?v=Z_mHSGlyRa0)
 
 ## Release Images

@@ -54,22 +54,22 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 
 
 ## Videos
-### Orbital - Orbital [Green Album] (1991) HQ FULL ALBUM
-{{< youtube id="FsCEo-ey8E0" title="Orbital - Orbital [Green Album] (1991) HQ FULL ALBUM" >}}<br>
+### Orbital - Orbital Green Album 1991 HQ FULL ALBUM
+{{< youtube id="FsCEo-ey8E0" title="Orbital - Orbital Green Album 1991 HQ FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Orbital - The moebius (from the green album)](https://www.youtube.com/watch?v=IhDYHXkQd7Q)
-- [Orbital - Belfast (Remastered) [Visualiser]](https://www.youtube.com/watch?v=AZzJxWlvlNg)
+- [Orbital - The moebius from the green album](https://www.youtube.com/watch?v=IhDYHXkQd7Q)
+- [Orbital - Belfast Remastered Visualiser](https://www.youtube.com/watch?v=AZzJxWlvlNg)
 - [Orbital - Belfast HQ](https://www.youtube.com/watch?v=d5vGjCoQM1s)
-- [Orbital - Chime (Live)](https://www.youtube.com/watch?v=BEKsquKVppc)
+- [Orbital - Chime Live](https://www.youtube.com/watch?v=BEKsquKVppc)
 - [Orbital - Choice](https://www.youtube.com/watch?v=mr9MptBpTMM)
-- [Orbital - Choice (Original Version)](https://www.youtube.com/watch?v=YdRlvg5DzMc)
+- [Orbital - Choice Original Version](https://www.youtube.com/watch?v=YdRlvg5DzMc)
 - [Crime](https://www.youtube.com/watch?v=g24ssrWXYas)
 - [Torpedo Town](https://www.youtube.com/watch?v=CE3wFYhRQ5A)
-- [Orbital – Orbital  (Green Album)   -  Side 1](https://www.youtube.com/watch?v=Hm5fBRht-PU)
-- [Orbital – Orbital  (Green Album)   -  Side 2](https://www.youtube.com/watch?v=RzqRSPioXCc)
-- [Orbital – Orbital  (Green Album)   -  Side 3](https://www.youtube.com/watch?v=X-yUk_GSCd4)
-- [Orbital – Orbital  (Green Album)   -  Side 4](https://www.youtube.com/watch?v=2YGlzBuffDM)
+- [Orbital  Orbital  Green Album   -  Side 1](https://www.youtube.com/watch?v=Hm5fBRht-PU)
+- [Orbital  Orbital  Green Album   -  Side 2](https://www.youtube.com/watch?v=RzqRSPioXCc)
+- [Orbital  Orbital  Green Album   -  Side 3](https://www.youtube.com/watch?v=X-yUk_GSCd4)
+- [Orbital  Orbital  Green Album   -  Side 4](https://www.youtube.com/watch?v=2YGlzBuffDM)
 
 ## Release Images
 {{< imageGrid >}}

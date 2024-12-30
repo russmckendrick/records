@@ -45,14 +45,14 @@ The title track, written by the team of Dan Penn and Carson Whitsett with Hoy Li
 
 
 ## Videos
-### Don't Give Up On Me
-{{< youtube id="tbvZ6CawWEY" title="Don't Give Up On Me" >}}<br>
+### Dont Give Up On Me
+{{< youtube id="tbvZ6CawWEY" title="Dont Give Up On Me" >}}<br>
 ### More Videos
 
 - [Fast Train](https://www.youtube.com/watch?v=mqmxkGjow1A)
 - [Only A Dream](https://www.youtube.com/watch?v=mKShWA7lvbI)
 - [Diamond In Your Mind](https://www.youtube.com/watch?v=pLp7kH4jxRA)
-- [Soul Searchin'](https://www.youtube.com/watch?v=GdG3ngeyaXQ)
+- [Soul Searchin](https://www.youtube.com/watch?v=GdG3ngeyaXQ)
 - [The Judgement](https://www.youtube.com/watch?v=tE4tk8bl784)
 - [The Other Side Of The Coin](https://www.youtube.com/watch?v=Q8lu8LqG2oQ)
 - [Sit This One Out](https://www.youtube.com/watch?v=peRzfSGUMcU)

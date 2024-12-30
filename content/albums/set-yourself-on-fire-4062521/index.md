@@ -57,7 +57,7 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 ### More Videos
 
 - [Stars - Your Ex-Lover Is Dead](https://www.youtube.com/watch?v=r5Or6-HOveg)
-- [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
+- [Stars - Set Yourself On Fire Live in Sydney  Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 - [Stars - Ageless Beauty](https://www.youtube.com/watch?v=JKg17Gc8WCI)
 - [Stars - Reunion](https://www.youtube.com/watch?v=KnZt39OKfcc)
 - [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)

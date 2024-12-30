@@ -55,13 +55,13 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 
 
 ## Videos
-### Bon Jovi - Bad Medicine (Official Music Video)
-{{< youtube id="eOUtsybozjg" title="Bon Jovi - Bad Medicine (Official Music Video)" >}}<br>
+### Bon Jovi - Bad Medicine Official Music Video
+{{< youtube id="eOUtsybozjg" title="Bon Jovi - Bad Medicine Official Music Video" >}}<br>
 ### More Videos
 
 - [Bon Jovi - Born To Be My Baby](https://www.youtube.com/watch?v=Ahf2B_eZUc4)
 - [Bon Jovi - Lay Your Hands On Me](https://www.youtube.com/watch?v=EhjSzibOIH4)
-- [Bon Jovi - I'll Be There For You](https://www.youtube.com/watch?v=mh8MIp2FOhc)
+- [Bon Jovi - Ill Be There For You](https://www.youtube.com/watch?v=mh8MIp2FOhc)
 - [Bon Jovi - Living In Sin](https://www.youtube.com/watch?v=VI2-ASiNCac)
 - [Lay Your Hands On Me](https://www.youtube.com/watch?v=T0cMcU2Wc10)
 - [Bad Medicine](https://www.youtube.com/watch?v=AfI1QznxY5c)
@@ -72,26 +72,26 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 - [Wild Is The Wind](https://www.youtube.com/watch?v=tArKRswoLRo)
 - [Ride Cowboy Ride](https://www.youtube.com/watch?v=WwWiP_d2XYA)
 - [Stick To Your Guns](https://www.youtube.com/watch?v=752furk6Tk8)
-- [I'll Be There For You](https://www.youtube.com/watch?v=fhnfcHSPrfw)
+- [Ill Be There For You](https://www.youtube.com/watch?v=fhnfcHSPrfw)
 - [99 In The Shade](https://www.youtube.com/watch?v=CKmZpoNztG8)
 - [Love For Sale](https://www.youtube.com/watch?v=AWGLBTpcXZI)
 - [The Boys Are Back In Town](https://www.youtube.com/watch?v=4l-_tBTq9OQ)
 - [Love Is War](https://www.youtube.com/watch?v=zH8TzkeIYn4)
-- [Born To Be My Baby (Acoustic Version)](https://www.youtube.com/watch?v=87KgYIg1HfA)
-- [Homebound Train (Demo)](https://www.youtube.com/watch?v=POyfELfOrMg)
-- [Judgement Day (Demo)](https://www.youtube.com/watch?v=0nTNhOli3WU)
-- [Full Moon High (Demo)](https://www.youtube.com/watch?v=P06tcjt9nos)
-- [Growing Up the Hard Way (Demo)](https://www.youtube.com/watch?v=HFBLWBrIW2o)
-- [Let's Make It Baby (Demo)](https://www.youtube.com/watch?v=aQVQ91nefbI)
-- [Love Hurts (Demo)](https://www.youtube.com/watch?v=zcMMj17eJOI)
-- [Backdoor To Heaven (Demo)](https://www.youtube.com/watch?v=BmkkVYYQLfM)
-- [Now And Forever (Demo)](https://www.youtube.com/watch?v=eLtqAm6hk44)
-- [Wild Is The Wind (Demo)](https://www.youtube.com/watch?v=zdCc4lawVxs)
-- [Stick To Your Guns (Demo)](https://www.youtube.com/watch?v=9w8y6jTTOc8)
-- [House Of Fire (Demo)](https://www.youtube.com/watch?v=Yejz3wWFtYQ)
-- [Does Anybody Really Fall In Love Anymore? (Demo)](https://www.youtube.com/watch?v=ynzTqsdtmXk)
-- [Diamond Ring (Demo)](https://www.youtube.com/watch?v=v8Xhs9n8sFY)
-- [LP / Bon Jovi – New Jersey / 1988](https://www.youtube.com/watch?v=tLrodL0dezQ)
+- [Born To Be My Baby Acoustic Version](https://www.youtube.com/watch?v=87KgYIg1HfA)
+- [Homebound Train Demo](https://www.youtube.com/watch?v=POyfELfOrMg)
+- [Judgement Day Demo](https://www.youtube.com/watch?v=0nTNhOli3WU)
+- [Full Moon High Demo](https://www.youtube.com/watch?v=P06tcjt9nos)
+- [Growing Up the Hard Way Demo](https://www.youtube.com/watch?v=HFBLWBrIW2o)
+- [Lets Make It Baby Demo](https://www.youtube.com/watch?v=aQVQ91nefbI)
+- [Love Hurts Demo](https://www.youtube.com/watch?v=zcMMj17eJOI)
+- [Backdoor To Heaven Demo](https://www.youtube.com/watch?v=BmkkVYYQLfM)
+- [Now And Forever Demo](https://www.youtube.com/watch?v=eLtqAm6hk44)
+- [Wild Is The Wind Demo](https://www.youtube.com/watch?v=zdCc4lawVxs)
+- [Stick To Your Guns Demo](https://www.youtube.com/watch?v=9w8y6jTTOc8)
+- [House Of Fire Demo](https://www.youtube.com/watch?v=Yejz3wWFtYQ)
+- [Does Anybody Really Fall In Love Anymore Demo](https://www.youtube.com/watch?v=ynzTqsdtmXk)
+- [Diamond Ring Demo](https://www.youtube.com/watch?v=v8Xhs9n8sFY)
+- [LP  Bon Jovi  New Jersey  1988](https://www.youtube.com/watch?v=tLrodL0dezQ)
 
 ## Release Images
 {{< imageGrid >}}

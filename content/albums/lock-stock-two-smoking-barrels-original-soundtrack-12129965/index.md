@@ -56,8 +56,8 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Oh Girl  / Evil Superstars (Lock Stock and Two Smoking Barrels OST)
-{{< youtube id="jnhcZB9F8pw" title="Oh Girl  / Evil Superstars (Lock Stock and Two Smoking Barrels OST)" >}}<br>
+### Oh Girl   Evil Superstars Lock Stock and Two Smoking Barrels OST
+{{< youtube id="jnhcZB9F8pw" title="Oh Girl   Evil Superstars Lock Stock and Two Smoking Barrels OST" >}}<br>
 ### More Videos
 
 - [Lock Stock and Two Smoking Barrels Soundtrack All Songs](https://www.youtube.com/watch?v=Bp5g5VbFFKo)

@@ -46,25 +46,25 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 
 
 ## Videos
-### Tim Finn - Spiritual Hunger (1986)
-{{< youtube id="GGVNSZowmT8" title="Tim Finn - Spiritual Hunger (1986)" >}}<br>
+### Tim Finn - Spiritual Hunger 1986
+{{< youtube id="GGVNSZowmT8" title="Tim Finn - Spiritual Hunger 1986" >}}<br>
 ### More Videos
 
-- [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
+- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 - [Tim Finn - Spiritual Hunger](https://www.youtube.com/watch?v=6BnhK-ZLiSQ)
 - [Big Canoe](https://www.youtube.com/watch?v=IIiH_1R_gvU)
 - [Carve You In Marble](https://www.youtube.com/watch?v=w0zv07YjlXY)
 - [Water Into Wine](https://www.youtube.com/watch?v=KQIHebXzT5U)
 - [Are We One Or Are We Two](https://www.youtube.com/watch?v=RyHmfBv6RmY)
-- [No Thunder, No Fire, No Rain](https://www.youtube.com/watch?v=bLqnOJoVGIk)
-- [Don't Bury My Heart](https://www.youtube.com/watch?v=MSWtr60jjgA)
+- [No Thunder No Fire No Rain](https://www.youtube.com/watch?v=bLqnOJoVGIk)
+- [Dont Bury My Heart](https://www.youtube.com/watch?v=MSWtr60jjgA)
 - [Hyacinth](https://www.youtube.com/watch?v=e1H_sir0zSY)
 - [Tim Finn - Big Canoe - 01 - Spiritual Hunger](https://www.youtube.com/watch?v=pPpDOJ1i0EY)
-- [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
-- [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
-- [Tim Finn - Spiritual Hunger (1986)](https://www.youtube.com/watch?v=GGVNSZowmT8)
+- [Tim Finn - Spiritual Hunger 1986](https://www.youtube.com/watch?v=GGVNSZowmT8)
+- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
+- [Tim Finn - Spiritual Hunger 1986](https://www.youtube.com/watch?v=GGVNSZowmT8)
 - [Tim Finn - No Thunder No Fire No Rain](https://www.youtube.com/watch?v=qdMzdwxAqM8)
-- [Carve You in Marble.mp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
+- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
 ## Release Images
 {{< imageGrid >}}

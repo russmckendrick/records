@@ -82,12 +82,12 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 
 
 ## Videos
-### Thundercat - 'Innerstellar Love' (Official Audio)
-{{< youtube id="yA4R9qLa26E" title="Thundercat - 'Innerstellar Love' (Official Audio)" >}}<br>
+### Thundercat - Innerstellar Love Official Audio
+{{< youtube id="yA4R9qLa26E" title="Thundercat - Innerstellar Love Official Audio" >}}<br>
 ### More Videos
 
 - [How Sway](https://www.youtube.com/watch?v=QwQeEmY1QxI)
-- [Thundercat - 'Fair Chance (feat. Ty Dolla $ign & Lil B)' (Official Audio)](https://www.youtube.com/watch?v=IoFOXgIme9M)
+- [Thundercat - Fair Chance feat Ty Dolla ign  Lil B Official Audio](https://www.youtube.com/watch?v=IoFOXgIme9M)
 - [How I Feel](https://www.youtube.com/watch?v=qIOMiQ3d80A)
 - [Funny Thing](https://www.youtube.com/watch?v=lSrKfSDwIi0)
 - [Black Qualls](https://www.youtube.com/watch?v=IOHbF1Zg4S0)
@@ -96,11 +96,11 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 - [I Love Louis Cole](https://www.youtube.com/watch?v=YHTufn3VWq0)
 - [Unrequited Love](https://www.youtube.com/watch?v=eRo_FFrliAs)
 - [Existential Dread](https://www.youtube.com/watch?v=f728T_wocZ8)
-- [Miguel's Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
+- [Miguels Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
 - [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
-- [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
-- [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
+- [Thundercat - Dragonball Durag Official Video](https://www.youtube.com/watch?v=ormQQG2UhtQ)
+- [Thundercat - Dragonball Durag Official Video](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
 ## Release Images
 {{< imageGrid >}}

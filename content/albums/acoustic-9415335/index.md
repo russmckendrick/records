@@ -54,12 +54,12 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 
 
 ## Videos
-### Simple Minds - Don't You [Forget About Me] Acoustic - (Official Audio)
-{{< youtube id="4JTtJwL7sCI" title="Simple Minds - Don't You [Forget About Me] Acoustic - (Official Audio)" >}}<br>
+### Simple Minds - Dont You Forget About Me Acoustic - Official Audio
+{{< youtube id="4JTtJwL7sCI" title="Simple Minds - Dont You Forget About Me Acoustic - Official Audio" >}}<br>
 ### More Videos
 
-- [Simple Minds - Alive And Kicking Acoustic - (Official Audio)](https://www.youtube.com/watch?v=9WTAp-Opr5U)
-- [Simple Minds - The American Acoustic - (Official Audio)](https://www.youtube.com/watch?v=ejt4SxJc2ss)
+- [Simple Minds - Alive And Kicking Acoustic - Official Audio](https://www.youtube.com/watch?v=9WTAp-Opr5U)
+- [Simple Minds - The American Acoustic - Official Audio](https://www.youtube.com/watch?v=ejt4SxJc2ss)
 
 ## Release Images
 {{< imageGrid >}}

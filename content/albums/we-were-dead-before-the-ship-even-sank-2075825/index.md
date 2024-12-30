@@ -63,12 +63,12 @@ This album was certified Gold by the RIAA on June 11, 2009. As of February 2015,
 
 
 ## Videos
-### Modest Mouse - Dashboard (Official Music Video)
-{{< youtube id="penvn9VL32Y" title="Modest Mouse - Dashboard (Official Music Video)" >}}<br>
+### Modest Mouse - Dashboard Official Music Video
+{{< youtube id="penvn9VL32Y" title="Modest Mouse - Dashboard Official Music Video" >}}<br>
 ### More Videos
 
-- [Modest Mouse - Missed the Boat (Contest Video)](https://www.youtube.com/watch?v=O4XskfT6vNY)
-- [Modest Mouse - Dashboard (Official Music Video)](https://www.youtube.com/watch?v=penvn9VL32Y)
+- [Modest Mouse - Missed the Boat Contest Video](https://www.youtube.com/watch?v=O4XskfT6vNY)
+- [Modest Mouse - Dashboard Official Music Video](https://www.youtube.com/watch?v=penvn9VL32Y)
 
 ## Release Images
 {{< imageGrid >}}

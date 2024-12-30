@@ -49,12 +49,12 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 
 
 ## Videos
-### Steve Earle & The Dukes - "Devil Put the Coal in the Ground" [Audio Only]
-{{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - "Devil Put the Coal in the Ground" [Audio Only]" >}}<br>
+### Steve Earle  The Dukes - Devil Put the Coal in the Ground Audio Only
+{{< youtube id="d5tOkJK8DUk" title="Steve Earle  The Dukes - Devil Put the Coal in the Ground Audio Only" >}}<br>
 ### More Videos
 
-- [Steve Earle & The Dukes - "It's About Blood" [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
-- [Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A](https://www.youtube.com/watch?v=L5QqgJ3u11k)
+- [Steve Earle  The Dukes - Its About Blood Audio Only](https://www.youtube.com/watch?v=iKWPjr0NPQo)
+- [Union God and Country A Livestream Performance of Ghosts of West Virginia  QA](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
 ## Release Images
 {{< imageGrid >}}

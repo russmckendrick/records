@@ -61,8 +61,8 @@ The Color Before the Sun is the eighth studio album by American progressive rock
 
 
 ## Videos
-### Coheed and Cambria - The Color Before The Sun (Full Album)
-{{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun (Full Album)" >}}<br>
+### Coheed and Cambria - The Color Before The Sun Full Album
+{{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun Full Album" >}}<br>
 
 
 ## Release Images

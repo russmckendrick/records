@@ -44,14 +44,14 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 
 
 ## Videos
-### St Paul & The Broken Bones  -  Sanctify
-{{< youtube id="_XqQsKxiKT0" title="St Paul & The Broken Bones  -  Sanctify" >}}<br>
+### St Paul  The Broken Bones  -  Sanctify
+{{< youtube id="_XqQsKxiKT0" title="St Paul  The Broken Bones  -  Sanctify" >}}<br>
 ### More Videos
 
 - [La bruit](https://www.youtube.com/watch?v=wUKkL91ChQw)
-- [St  Paul & The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
-- [St. Paul & The Broken Bones - 'Sea of Noise' |Official Album Release Party|](https://www.youtube.com/watch?v=KgyogotaYys)
-- [St. Paul & The Broken Bones: "Flow With It"](https://www.youtube.com/watch?v=F8YowjS7Ebs)
+- [St  Paul  The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
+- [St Paul  The Broken Bones - Sea of Noise Official Album Release Party](https://www.youtube.com/watch?v=KgyogotaYys)
+- [St Paul  The Broken Bones Flow With It](https://www.youtube.com/watch?v=F8YowjS7Ebs)
 
 ## Release Images
 {{< imageGrid >}}

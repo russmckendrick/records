@@ -46,9 +46,9 @@ Larks' Tongues in Aspic is the fifth studio album by the English progressive roc
 
 - [King Crimson - Exiles](https://www.youtube.com/watch?v=nMeFafKx7GI)
 - [King Crimson - The Talking Drum](https://www.youtube.com/watch?v=OX6WB0vlDUg)
-- [King Crimson - Larks' Tongues In Aspic, Part Two](https://www.youtube.com/watch?v=jX0caf1HvNs)
+- [King Crimson - Larks Tongues In Aspic Part Two](https://www.youtube.com/watch?v=jX0caf1HvNs)
 - [King Crimson - Easy Money](https://www.youtube.com/watch?v=LxaM5ex1isc)
-- [King Crimson - Larks' Tongues In Aspic Part I (OFFICIAL)](https://www.youtube.com/watch?v=CVb2tnFN5AA)
+- [King Crimson - Larks Tongues In Aspic Part I OFFICIAL](https://www.youtube.com/watch?v=CVb2tnFN5AA)
 
 ## Release Images
 {{< imageGrid >}}

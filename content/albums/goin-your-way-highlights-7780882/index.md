@@ -43,11 +43,11 @@ styles: ["Acoustic", "Pop Rock"]
 
 
 ## Videos
-### Neil Finn & Paul Kelly - Goin' Your Way [Trailer]
-{{< youtube id="Vh7Jk9tUluY" title="Neil Finn & Paul Kelly - Goin' Your Way [Trailer]" >}}<br>
+### Neil Finn  Paul Kelly - Goin Your Way Trailer
+{{< youtube id="Vh7Jk9tUluY" title="Neil Finn  Paul Kelly - Goin Your Way Trailer" >}}<br>
 ### More Videos
 
-- [Neil Finn & Paul Kelly - Goin' Your Way [Trailer]](https://www.youtube.com/watch?v=Vh7Jk9tUluY)
+- [Neil Finn  Paul Kelly - Goin Your Way Trailer](https://www.youtube.com/watch?v=Vh7Jk9tUluY)
 
 ## Release Images
 {{< imageGrid >}}

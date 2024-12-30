@@ -48,13 +48,13 @@ Coming Up is the third album by English alternative rock band Suede, released on
 
 
 ## Videos
-### Suede - Beautiful Ones (Official Video)
-{{< youtube id="xqovGKdgAXY" title="Suede - Beautiful Ones (Official Video)" >}}<br>
+### Suede - Beautiful Ones Official Video
+{{< youtube id="xqovGKdgAXY" title="Suede - Beautiful Ones Official Video" >}}<br>
 ### More Videos
 
-- [Suede - Lazy (Official Video)](https://www.youtube.com/watch?v=YP2enk5w5fk)
-- [Suede - She (Live in Germany 1997)](https://www.youtube.com/watch?v=OeWcVu0tiA0)
-- [She (Remastered)](https://www.youtube.com/watch?v=oia2fXQAlyg)
+- [Suede - Lazy Official Video](https://www.youtube.com/watch?v=YP2enk5w5fk)
+- [Suede - She Live in Germany 1997](https://www.youtube.com/watch?v=OeWcVu0tiA0)
+- [She Remastered](https://www.youtube.com/watch?v=oia2fXQAlyg)
 - [Suede - Beautiful Ones](https://www.youtube.com/watch?v=xqovGKdgAXY)
 - [Suede - Trash](https://www.youtube.com/watch?v=-PdKGDMhau4)
 - [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)

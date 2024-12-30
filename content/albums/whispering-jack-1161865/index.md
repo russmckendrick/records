@@ -48,24 +48,24 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 
 
 ## Videos
-### "Pressure Down" Music Video by John Farnham
-{{< youtube id="zIIcisbK3hE" title=""Pressure Down" Music Video by John Farnham" >}}<br>
+### Pressure Down Music Video by John Farnham
+{{< youtube id="zIIcisbK3hE" title="Pressure Down Music Video by John Farnham" >}}<br>
 ### More Videos
 
-- ["Reasons" [Live] from the 'Whispering Jack - 20th Anniversary Edition' DVD](https://www.youtube.com/watch?v=RTQnCSMF8HI)
+- [Reasons Live from the Whispering Jack - 20th Anniversary Edition DVD](https://www.youtube.com/watch?v=RTQnCSMF8HI)
 - [One Step Away](https://www.youtube.com/watch?v=TevBky6WiSI)
 - [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
 - [Pressure Down](https://www.youtube.com/watch?v=tF0gqm4uUNo)
-- [John Farnham - Whispering Jack In Concert (full concert)](https://www.youtube.com/watch?v=LEEVsxG5blQ)
+- [John Farnham - Whispering Jack In Concert full concert](https://www.youtube.com/watch?v=LEEVsxG5blQ)
 - [Love to Shine](https://www.youtube.com/watch?v=A0uOghhkgOw)
 - [A Touch of Paradise](https://www.youtube.com/watch?v=0Y2BCdIyaEs)
-- [Going, Going, Gone](https://www.youtube.com/watch?v=NbEOJjCeCFY)
-- [John Farnham - You're the Voice](https://www.youtube.com/watch?v=tbkOZTSvrHs)
+- [Going Going Gone](https://www.youtube.com/watch?v=NbEOJjCeCFY)
+- [John Farnham - Youre the Voice](https://www.youtube.com/watch?v=tbkOZTSvrHs)
 - [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
-- [A Touch of Paradise ~~~ John Farnham, 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
-- [John Farnham - Pressure Down | Whispering Jack 25th Anniversary | Qpac Brisbane | 2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
-- [[HQ] Coldplay- You're The Voice (with John Farnham) Sound Relief Concert [HQ]](https://www.youtube.com/watch?v=19JN50bLKjY)
-- [You're The Voice ~ John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
+- [A Touch of Paradise  John Farnham 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
+- [John Farnham - Pressure Down  Whispering Jack 25th Anniversary  Qpac Brisbane  2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
+- [HQ Coldplay- Youre The Voice with John Farnham Sound Relief Concert HQ](https://www.youtube.com/watch?v=19JN50bLKjY)
+- [Youre The Voice  John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
 ## Release Images
 {{< imageGrid >}}

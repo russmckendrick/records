@@ -36,21 +36,21 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Curve - Horror Head (4K Remaster)
-{{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head (4K Remaster)" >}}<br>
+### Curve - Horror Head 4K Remaster
+{{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head 4K Remaster" >}}<br>
 ### More Videos
 
-- [Curve - Superblaster (4K Remaster)](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
-- [Curve - Missing Link [1993]](https://www.youtube.com/watch?v=KqmGEPfRzk0)
-- [CURVE - 'Horror Head (Remix)' - 12" 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
+- [Curve - Superblaster 4K Remaster](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
+- [Curve - Missing Link 1993](https://www.youtube.com/watch?v=KqmGEPfRzk0)
+- [CURVE - Horror Head Remix - 12 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
 - [Curve - Ice that melts the tips](https://www.youtube.com/watch?v=OBI1FaLNQZA)
 - [Curve - Horror Head](https://www.youtube.com/watch?v=04i4A5OdNmA)
 - [Sandpit](https://www.youtube.com/watch?v=qHX_2Orr1D4)
 - [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
-- [Curve, "Clipped"](https://www.youtube.com/watch?v=moAIaLbcKb0)
+- [Curve Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
 - [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
 - [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)
-- [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
+- [Curve - Think  Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
 - [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 
 ## Release Images

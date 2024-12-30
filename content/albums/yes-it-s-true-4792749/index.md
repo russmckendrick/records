@@ -46,16 +46,16 @@ Yes, It's True is the fourth studio album by American pop band The Polyphonic Sp
 
 
 ## Videos
-### The Polyphonic Spree : Hold Yourself Up (OFFICIAL)
-{{< youtube id="CWaoEWyK5i4" title="The Polyphonic Spree : Hold Yourself Up (OFFICIAL)" >}}<br>
+### The Polyphonic Spree  Hold Yourself Up OFFICIAL
+{{< youtube id="CWaoEWyK5i4" title="The Polyphonic Spree  Hold Yourself Up OFFICIAL" >}}<br>
 ### More Videos
 
-- [The Polyphonic Spree : You Don't Know Me (OFFICIAL)](https://www.youtube.com/watch?v=hGiEL_BGToo)
-- [The Polyphonic Spree : Popular By Design (OFFICIAL)](https://www.youtube.com/watch?v=kEbT-Gw15_I)
-- [The Polyphonic Spree : What Would You Do? (OFFICIAL)](https://www.youtube.com/watch?v=f076lC2PWnQ)
-- [The Polyphonic Spree : Blurry Up The Lines (OFFICIAL)](https://www.youtube.com/watch?v=Qpvp0dfE9Z0)
-- [The Polyphonic Spree : Raise Your Head (OFFICIAL)](https://www.youtube.com/watch?v=_7gNjOkszeQ)
-- [The Polyphonic Spree : Let Them Be (OFFICIAL)](https://www.youtube.com/watch?v=YCZUpxMLC2w)
+- [The Polyphonic Spree  You Dont Know Me OFFICIAL](https://www.youtube.com/watch?v=hGiEL_BGToo)
+- [The Polyphonic Spree  Popular By Design OFFICIAL](https://www.youtube.com/watch?v=kEbT-Gw15_I)
+- [The Polyphonic Spree  What Would You Do OFFICIAL](https://www.youtube.com/watch?v=f076lC2PWnQ)
+- [The Polyphonic Spree  Blurry Up The Lines OFFICIAL](https://www.youtube.com/watch?v=Qpvp0dfE9Z0)
+- [The Polyphonic Spree  Raise Your Head OFFICIAL](https://www.youtube.com/watch?v=_7gNjOkszeQ)
+- [The Polyphonic Spree  Let Them Be OFFICIAL](https://www.youtube.com/watch?v=YCZUpxMLC2w)
 
 ## Release Images
 {{< imageGrid >}}

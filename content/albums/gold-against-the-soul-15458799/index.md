@@ -49,8 +49,8 @@ Gold Against the Soul takes to an extreme the hard rock sound of its predecessor
 
 
 ## Videos
-### Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)
-{{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}<br>
+### Manic Street Preachers - La Tristesse Durera Scream to a Sigh
+{{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera Scream to a Sigh" >}}<br>
 
 
 ## Release Images

@@ -33,18 +33,18 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Matt Berry - Medicine (Kill the Wolf Album)
-{{< youtube id="xbvtge3VxVk" title="Matt Berry - Medicine (Kill the Wolf Album)" >}}<br>
+### Matt Berry - Medicine Kill the Wolf Album
+{{< youtube id="xbvtge3VxVk" title="Matt Berry - Medicine Kill the Wolf Album" >}}<br>
 ### More Videos
 
-- [Matt Berry - An Electric Hero (Kill the Wolf EP)](https://www.youtube.com/watch?v=KE89KVRRtzI)
-- [Matt Berry - Ukenwhistle (Kill the Wolf EP)](https://www.youtube.com/watch?v=uWvd9466EKI)
-- [Matt Berry - Medicine (stripped down version)](https://www.youtube.com/watch?v=Q-Asf6DrJHo)
-- [Matt Berry - An Electric Hero (Kill the Wolf EP)](https://www.youtube.com/watch?v=KE89KVRRtzI)
+- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
+- [Matt Berry - Ukenwhistle Kill the Wolf EP](https://www.youtube.com/watch?v=uWvd9466EKI)
+- [Matt Berry - Medicine stripped down version](https://www.youtube.com/watch?v=Q-Asf6DrJHo)
+- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
-- [Matt Berry - Medicine (Kill the Wolf Album)](https://www.youtube.com/watch?v=xbvtge3VxVk)
-- [Matt Berry - An Electric Hero (Kill the Wolf EP)](https://www.youtube.com/watch?v=KE89KVRRtzI)
-- [Matt Berry - Ukenwhistle (Kill the Wolf EP)](https://www.youtube.com/watch?v=uWvd9466EKI)
+- [Matt Berry - Medicine Kill the Wolf Album](https://www.youtube.com/watch?v=xbvtge3VxVk)
+- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
+- [Matt Berry - Ukenwhistle Kill the Wolf EP](https://www.youtube.com/watch?v=uWvd9466EKI)
 
 ## Release Images
 {{< imageGrid >}}

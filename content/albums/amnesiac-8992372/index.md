@@ -58,11 +58,11 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 ### More Videos
 
 - [Radiohead - Pyramid Song](https://www.youtube.com/watch?v=3M_Gg1xAHE4)
-- [Pulk/Pull Revolving Doors](https://www.youtube.com/watch?v=-fuhLeD594A)
-- [You And Whose Army?](https://www.youtube.com/watch?v=QQnc-hM80UQ)
+- [PulkPull Revolving Doors](https://www.youtube.com/watch?v=-fuhLeD594A)
+- [You And Whose Army](https://www.youtube.com/watch?v=QQnc-hM80UQ)
 - [Radiohead - I Might Be Wrong](https://www.youtube.com/watch?v=LOuLf8ThkoQ)
 - [Radiohead - Knives Out](https://www.youtube.com/watch?v=2Lpw3yMCWro)
-- [Morning Bell/Amnesiac](https://www.youtube.com/watch?v=6LGS0S8Lh4A)
+- [Morning BellAmnesiac](https://www.youtube.com/watch?v=6LGS0S8Lh4A)
 - [Dollars and Cents](https://www.youtube.com/watch?v=egUFlyfE1PY)
 - [Hunting Bears](https://www.youtube.com/watch?v=6AM0q_u7XNc)
 - [Like Spinning Plates](https://www.youtube.com/watch?v=-UAElLsVOQI)

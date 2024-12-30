@@ -53,15 +53,15 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 
 
 ## Videos
-### Billy Joel - Piano Man (Official HD Video)
-{{< youtube id="gxEPV4kolz0" title="Billy Joel - Piano Man (Official HD Video)" >}}<br>
+### Billy Joel - Piano Man Official HD Video
+{{< youtube id="gxEPV4kolz0" title="Billy Joel - Piano Man Official HD Video" >}}<br>
 ### More Videos
 
-- [Billy Joel - You're Only Human (Second Wind) (Official Video)](https://www.youtube.com/watch?v=YhxjNYvJbgM)
-- [Billy Joel - The Night Is Still Young (Official Video)](https://www.youtube.com/watch?v=C3ogFWISPuw)
-- [Billy Joel - Piano Man (Original Video)](https://www.youtube.com/watch?v=hRlsu-4BNv8)
-- [Billy Joel - Say Goodbye To Hollywood (Audio)](https://www.youtube.com/watch?v=MhrHPTaVKvc)
-- [Billy Joel - Uptown Girl (Official Video)](https://www.youtube.com/watch?v=hCuMWrfXG4E)
+- [Billy Joel - Youre Only Human Second Wind Official Video](https://www.youtube.com/watch?v=YhxjNYvJbgM)
+- [Billy Joel - The Night Is Still Young Official Video](https://www.youtube.com/watch?v=C3ogFWISPuw)
+- [Billy Joel - Piano Man Original Video](https://www.youtube.com/watch?v=hRlsu-4BNv8)
+- [Billy Joel - Say Goodbye To Hollywood Audio](https://www.youtube.com/watch?v=MhrHPTaVKvc)
+- [Billy Joel - Uptown Girl Official Video](https://www.youtube.com/watch?v=hCuMWrfXG4E)
 
 ## Release Images
 {{< imageGrid >}}

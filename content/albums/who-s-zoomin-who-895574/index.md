@@ -51,12 +51,12 @@ The resulting album gave Franklin the crossover success she wanted. The delightf
 
 
 ## Videos
-### Aretha Franklin - Another Night (Official Music Video)
-{{< youtube id="U40W8N_VTBA" title="Aretha Franklin - Another Night (Official Music Video)" >}}<br>
+### Aretha Franklin - Another Night Official Music Video
+{{< youtube id="U40W8N_VTBA" title="Aretha Franklin - Another Night Official Music Video" >}}<br>
 ### More Videos
 
-- [Sisters Are Doin’ It For Themselves [Ft. Aretha Franklin] (Official Video)](https://www.youtube.com/watch?v=drGx7JkFSp4)
-- [Aretha Franklin - Freeway Of Love (Video)](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
+- [Sisters Are Doin It For Themselves Ft Aretha Franklin Official Video](https://www.youtube.com/watch?v=drGx7JkFSp4)
+- [Aretha Franklin - Freeway Of Love Video](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
 
 ## Release Images
 {{< imageGrid >}}

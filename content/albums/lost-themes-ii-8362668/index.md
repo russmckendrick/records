@@ -51,7 +51,7 @@ Lost Themes II is the second studio album by American film director and composer
 
 - [John Carpenter Lost themes II - White Pulse](https://www.youtube.com/watch?v=gqXU2iUj39E)
 - [John Carpenter - Lost Themes II - Persia Rising](https://www.youtube.com/watch?v=vPtfdgpUtqc)
-- [John Carpenter Lost Themes II - Angel's Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
+- [John Carpenter Lost Themes II - Angels Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
 - [John Carpenter Lost Themes II - Hofner Dawn](https://www.youtube.com/watch?v=2Qcz15Ash7U)
 - [John Carpenter Lost Themes II - Windy Death](https://www.youtube.com/watch?v=DSeyGqv1qMk)
 - [John Carpenter Lost Themes II - Dark Blues](https://www.youtube.com/watch?v=XzMo4vAOEqs)
@@ -63,7 +63,7 @@ Lost Themes II is the second studio album by American film director and composer
 - [John Carpenter Lost themes II - Distant Dream](https://www.youtube.com/watch?v=sAfVnzSVrBY)
 - [John Carpenter Lost themes II - White Pulse](https://www.youtube.com/watch?v=gqXU2iUj39E)
 - [John Carpenter - Lost Themes II - Persia Rising](https://www.youtube.com/watch?v=vPtfdgpUtqc)
-- [John Carpenter Lost Themes II - Angel's Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
+- [John Carpenter Lost Themes II - Angels Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
 - [John Carpenter Lost Themes II - Hofner Dawn](https://www.youtube.com/watch?v=2Qcz15Ash7U)
 - [John Carpenter Lost Themes II - Windy Death](https://www.youtube.com/watch?v=DSeyGqv1qMk)
 - [John Carpenter Lost Themes II - Dark Blues](https://www.youtube.com/watch?v=XzMo4vAOEqs)

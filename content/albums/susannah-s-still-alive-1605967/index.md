@@ -33,12 +33,12 @@ Although all original UK singles used the spelling 'Suzanah', in many other coun
 
 
 ## Videos
-### Cardiacs - Suzannah's Still Alive
-{{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannah's Still Alive" >}}<br>
+### Cardiacs - Suzannahs Still Alive
+{{< youtube id="8YMs5QwHmMc" title="Cardiacs - Suzannahs Still Alive" >}}<br>
 ### More Videos
 
 - [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
-- [Cardiacs - Suzannah's Still Alive](https://www.youtube.com/watch?v=8YMs5QwHmMc)
+- [Cardiacs - Suzannahs Still Alive](https://www.youtube.com/watch?v=8YMs5QwHmMc)
 - [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
 
 ## Release Images

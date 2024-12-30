@@ -45,11 +45,11 @@ For their second album, Chicago shortened their name (from Chicago Transit Autho
 
 
 ## Videos
-### Steven Wilson - 4 1/2 [Full Album]
-{{< youtube id="UgYp-WUqnnM" title="Steven Wilson - 4 1/2 [Full Album]" >}}<br>
+### Steven Wilson - 4 12 Full Album
+{{< youtube id="UgYp-WUqnnM" title="Steven Wilson - 4 12 Full Album" >}}<br>
 ### More Videos
 
-- [Steven Wilson - 4 1/2 [Full Album]](https://www.youtube.com/watch?v=UgYp-WUqnnM)
+- [Steven Wilson - 4 12 Full Album](https://www.youtube.com/watch?v=UgYp-WUqnnM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -83,8 +83,8 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 
 
 ## Videos
-### Violent Femmes - Blister In The Sun (Lyric Video)
-{{< youtube id="G89chAA4l8s" title="Violent Femmes - Blister In The Sun (Lyric Video)" >}}<br>
+### Violent Femmes - Blister In The Sun Lyric Video
+{{< youtube id="G89chAA4l8s" title="Violent Femmes - Blister In The Sun Lyric Video" >}}<br>
 ### More Videos
 
 - [Kiss Off](https://www.youtube.com/watch?v=hTUAaW3oGGo)
@@ -96,7 +96,7 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 - [Confessions](https://www.youtube.com/watch?v=0CIwqhpQoLg)
 - [Good Feeling](https://www.youtube.com/watch?v=FHyWj903TRY)
 - [Violent Femmes - Gone Daddy Gone](https://www.youtube.com/watch?v=oHMJE0rcb8M)
-- [VIOLENT FEMMES - violent femmes #fullalbum](https://www.youtube.com/watch?v=3-A3EFUHyo0)
+- [VIOLENT FEMMES - violent femmes fullalbum](https://www.youtube.com/watch?v=3-A3EFUHyo0)
 
 ## Release Images
 {{< imageGrid >}}

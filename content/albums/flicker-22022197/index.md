@@ -45,11 +45,11 @@ styles: []
 
 
 ## Videos
-### Andy Bell "Something Like Love"
-{{< youtube id="ttvHX1pClw4" title="Andy Bell "Something Like Love"" >}}<br>
+### Andy Bell Something Like Love
+{{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}<br>
 ### More Videos
 
-- [Andy Bell "Something Like Love"](https://www.youtube.com/watch?v=ttvHX1pClw4)
+- [Andy Bell Something Like Love](https://www.youtube.com/watch?v=ttvHX1pClw4)
 
 ## Release Images
 {{< imageGrid >}}

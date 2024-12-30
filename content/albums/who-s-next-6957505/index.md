@@ -47,13 +47,13 @@ The album was an immediate critical and commercial success and has since been vi
 
 
 ## Videos
-### Baba O'Riley
-{{< youtube id="rIbMbXjbW98" title="Baba O'Riley" >}}<br>
+### Baba ORiley
+{{< youtube id="rIbMbXjbW98" title="Baba ORiley" >}}<br>
 ### More Videos
 
-- [Won't Get Fooled Again](https://www.youtube.com/watch?v=_NzLs-xSss0)
-- [The Who - Baba O'Riley (Lyric Video)](https://www.youtube.com/watch?v=QRTNm6GLJYI)
-- [The Who - Won't Get Fooled Again (Lyric Video)](https://www.youtube.com/watch?v=DaX1KiHznR8)
+- [Wont Get Fooled Again](https://www.youtube.com/watch?v=_NzLs-xSss0)
+- [The Who - Baba ORiley Lyric Video](https://www.youtube.com/watch?v=QRTNm6GLJYI)
+- [The Who - Wont Get Fooled Again Lyric Video](https://www.youtube.com/watch?v=DaX1KiHznR8)
 
 ## Release Images
 {{< imageGrid >}}

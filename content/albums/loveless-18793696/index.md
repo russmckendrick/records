@@ -54,15 +54,15 @@ Since its release, Loveless has been widely cited by critics as one of the great
 
 
 ## Videos
-### My Bloody Valentine - Only Shallow (Official Music Video)
-{{< youtube id="FyYMzEplnfU" title="My Bloody Valentine - Only Shallow (Official Music Video)" >}}<br>
+### My Bloody Valentine - Only Shallow Official Music Video
+{{< youtube id="FyYMzEplnfU" title="My Bloody Valentine - Only Shallow Official Music Video" >}}<br>
 ### More Videos
 
-- [My Bloody Valentine - To Here Knows When (Official Music Video)](https://www.youtube.com/watch?v=xdHS1sbV5xw)
-- [My Bloody Valentine - Soon (Official Music Video)](https://www.youtube.com/watch?v=ft56il9bGMk)
+- [My Bloody Valentine - To Here Knows When Official Music Video](https://www.youtube.com/watch?v=xdHS1sbV5xw)
+- [My Bloody Valentine - Soon Official Music Video](https://www.youtube.com/watch?v=ft56il9bGMk)
 - [when you sleep](https://www.youtube.com/watch?v=hcOhXThqh_0)
 - [sometimes](https://www.youtube.com/watch?v=hSI_9P9rRt4)
-- [My Bloody Valentine - lo̲ve̲l̲es̲s (Full Album)](https://www.youtube.com/watch?v=bRtGBlOVLCk)
+- [My Bloody Valentine - loveless Full Album](https://www.youtube.com/watch?v=bRtGBlOVLCk)
 - [my bloody valentine - when you sleep](https://www.youtube.com/watch?v=BJLcbj80Ka8)
 - [The story of Loveless by My Bloody Valentine](https://www.youtube.com/watch?v=PKJVG9u3ZLI)
 

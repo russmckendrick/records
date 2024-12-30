@@ -52,7 +52,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 - [Cranes - Fourteen](https://www.youtube.com/watch?v=N_tnRFk1uYA)
 - [Cranes - Breeze](https://www.youtube.com/watch?v=4zlyT6TZdfg)
-- [CRANES - Can't Get Free](https://www.youtube.com/watch?v=yxpU26EeHis)
+- [CRANES - Cant Get Free](https://www.youtube.com/watch?v=yxpU26EeHis)
 - [CRANES - Stalk](https://www.youtube.com/watch?v=6PXbNjzDfr8)
 - [CRANES - Sweet Unknown](https://www.youtube.com/watch?v=CFiREL2rNl8)
 - [CRANES - Angel Bell](https://www.youtube.com/watch?v=IRMUYpkOlrI)
@@ -60,7 +60,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [CRANES - Brazil](https://www.youtube.com/watch?v=r9TlxeROvGE)
 - [CRANES - Let Go](https://www.youtube.com/watch?v=AblK9ZsFJHA)
 - [CRANES - To Be](https://www.youtube.com/watch?v=I5rS3EeFkNc)
-- [Cranes - Wild Yellow Bloom (limited edition bonus track from Population Four, 1997)](https://www.youtube.com/watch?v=zJYEWeJabKg)
+- [Cranes - Wild Yellow Bloom limited edition bonus track from Population Four 1997](https://www.youtube.com/watch?v=zJYEWeJabKg)
 
 ## Release Images
 {{< imageGrid >}}

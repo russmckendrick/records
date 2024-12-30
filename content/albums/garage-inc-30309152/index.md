@@ -90,7 +90,7 @@ Garage Inc. is a compilation album of cover songs by American heavy metal band M
 
 - [Astronomy](https://www.youtube.com/watch?v=rNYi7gJDX3k)
 - [So What](https://www.youtube.com/watch?v=ZaGrNq9VrCc)
-- [Am I Evil?](https://www.youtube.com/watch?v=477trASWuCI)
+- [Am I Evil](https://www.youtube.com/watch?v=477trASWuCI)
 
 ## Release Images
 {{< imageGrid >}}

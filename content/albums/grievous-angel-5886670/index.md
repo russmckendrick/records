@@ -50,7 +50,7 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 ### More Videos
 
 - [Gram Parsons - In My Hour Of Darkness](https://www.youtube.com/watch?v=ERhhkjqDGsA)
-- [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
+- [Love Hurts Remastered Version](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
 
 ## Release Images
 {{< imageGrid >}}

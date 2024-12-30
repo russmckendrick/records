@@ -89,18 +89,18 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 {{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
 ### More Videos
 
-- [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
+- [A Better Home in the Phantom Zone 1999 Remastered Version](https://www.youtube.com/watch?v=1m6DAvVurVE)
+- [XTC - Complicated Game remastered](https://www.youtube.com/watch?v=L_QFMuieWiI)
 - [Wire - I should have known better](https://www.youtube.com/watch?v=0TZbOz1Pz5o)
-- [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
+- [A Better Home in the Phantom Zone 1999 Remastered Version](https://www.youtube.com/watch?v=1m6DAvVurVE)
+- [XTC - Complicated Game remastered](https://www.youtube.com/watch?v=L_QFMuieWiI)
 - [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
-- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
-- [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
-- [Steven Wilson presents Intrigue: Progressive Sounds In UK Alternative Music 1979-89 (Trailer)](https://www.youtube.com/watch?v=bNJPBA-hkNs)
-- [Steven Wilson "Intrigue: Progressive Sounds in UK alternative music 1979-89" ALBUM REVIEW](https://www.youtube.com/watch?v=WRlzxCa4elY)
-- [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
-- [Steven Wilson presents Intrigue - Rough Trade Event Reminder #shorts](https://www.youtube.com/watch?v=MVzZXSma_1I)
+- [New Order - The Him High Quality](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
+- [Steven Wilson Presents Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue Progressive Sounds In UK Alternative Music 1979-89 Trailer](https://www.youtube.com/watch?v=bNJPBA-hkNs)
+- [Steven Wilson Intrigue Progressive Sounds in UK alternative music 1979-89 ALBUM REVIEW](https://www.youtube.com/watch?v=WRlzxCa4elY)
+- [Steven Wilson Presents Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue - Rough Trade Event Reminder shorts](https://www.youtube.com/watch?v=MVzZXSma_1I)
 
 ## Release Images
 {{< imageGrid >}}

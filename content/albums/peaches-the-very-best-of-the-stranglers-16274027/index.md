@@ -62,15 +62,15 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 {{< youtube id="FQVKFvb_nK0" title="Peaches" >}}<br>
 ### More Videos
 
-- [[Get A] Grip (On Yourself) (Grip '89 Remix)](https://www.youtube.com/watch?v=ckbONnCzZlU)
-- [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
-- [The Stranglers - Strange Little Girl (TOTP 1982)](https://www.youtube.com/watch?v=k3CAuhVxVW8)
+- [Get A Grip On Yourself Grip 89 Remix](https://www.youtube.com/watch?v=ckbONnCzZlU)
+- [Always The Sun Sunny Side Up Mix](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
+- [The Stranglers - Strange Little Girl TOTP 1982](https://www.youtube.com/watch?v=k3CAuhVxVW8)
 - [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 - [Peaches](https://www.youtube.com/watch?v=FQVKFvb_nK0)
-- [[Get A] Grip (On Yourself) (Grip '89 Remix)](https://www.youtube.com/watch?v=ckbONnCzZlU)
-- [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
-- [The Stranglers - Strange Little Girl (TOTP 1982)](https://www.youtube.com/watch?v=k3CAuhVxVW8)
+- [Get A Grip On Yourself Grip 89 Remix](https://www.youtube.com/watch?v=ckbONnCzZlU)
+- [Always The Sun Sunny Side Up Mix](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
+- [The Stranglers - Strange Little Girl TOTP 1982](https://www.youtube.com/watch?v=k3CAuhVxVW8)
 - [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 

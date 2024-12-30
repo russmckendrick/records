@@ -49,8 +49,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Frost*  - Life In The Wires Part 1
-{{< youtube id="TIH8Zy728q0" title="Frost*  - Life In The Wires Part 1" >}}<br>
+### Frost  - Life In The Wires Part 1
+{{< youtube id="TIH8Zy728q0" title="Frost  - Life In The Wires Part 1" >}}<br>
 
 
 ## Release Images

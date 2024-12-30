@@ -85,7 +85,7 @@ styles: ["Synth-pop"]
 ### More Videos
 
 - [Jean Michel Jarre - Oxygene 7-13](https://www.youtube.com/watch?v=EdinGo6GAPo)
-- [Jean-Michel Jarre - Oxygene 3 (Album 2016)](https://www.youtube.com/watch?v=ts6vS98ijSM)
+- [Jean-Michel Jarre - Oxygene 3 Album 2016](https://www.youtube.com/watch?v=ts6vS98ijSM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,12 +47,12 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 
 
 ## Videos
-### Helmet - In The Meantime (Official Music Video)
-{{< youtube id="9346rQ1d8ik" title="Helmet - In The Meantime (Official Music Video)" >}}<br>
+### Helmet - In The Meantime Official Music Video
+{{< youtube id="9346rQ1d8ik" title="Helmet - In The Meantime Official Music Video" >}}<br>
 ### More Videos
 
 - [Iron Head](https://www.youtube.com/watch?v=HvVj4p9p3qg)
-- [Helmet - Unsung (Official Music Video)](https://www.youtube.com/watch?v=jBfygUiS50g)
+- [Helmet - Unsung Official Music Video](https://www.youtube.com/watch?v=jBfygUiS50g)
 
 ## Release Images
 {{< imageGrid >}}

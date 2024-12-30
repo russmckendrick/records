@@ -52,8 +52,8 @@ The album peaked with 263,000 units sold in the US.
 ### More Videos
 
 - [Dinosaur Jr - Get Me](https://www.youtube.com/watch?v=ybExfDHg1i0)
-- [Dinosaur Jr - Start Choppin'](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
-- [Dinosaur Jr - Goin' Home](https://www.youtube.com/watch?v=30h3HWSarDA)
+- [Dinosaur Jr - Start Choppin](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
+- [Dinosaur Jr - Goin Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 
 ## Release Images
 {{< imageGrid >}}

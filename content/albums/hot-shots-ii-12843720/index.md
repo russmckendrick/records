@@ -68,7 +68,7 @@ Mason later said the album was, "us doing what we promised to do and making some
 ### More Videos
 
 - [Broke](https://www.youtube.com/watch?v=kB81YHKYDdI)
-- [The Beta Band - Hot Shots II  (Full album)](https://www.youtube.com/watch?v=O7rjG--0oqU)
+- [The Beta Band - Hot Shots II  Full album](https://www.youtube.com/watch?v=O7rjG--0oqU)
 
 ## Release Images
 {{< imageGrid >}}

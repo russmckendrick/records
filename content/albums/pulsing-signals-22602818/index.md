@@ -54,18 +54,18 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 
 
 ## Videos
-### What We Was (intro)
-{{< youtube id="yeqqcbU6Pj0" title="What We Was (intro)" >}}<br>
+### What We Was intro
+{{< youtube id="yeqqcbU6Pj0" title="What We Was intro" >}}<br>
 ### More Videos
 
-- [You Can't Kill Me (Live)](https://www.youtube.com/watch?v=YSyQ4k6sXJA)
-- [Rejoice! (Live)](https://www.youtube.com/watch?v=jp1rW8KeKRE)
-- [If Never I'm And Ever You (Live)](https://www.youtube.com/watch?v=kDDXc2gp2Dw)
-- [Kapital (Live)](https://www.youtube.com/watch?v=dhKTCOWp4pc)
-- [Master Builder (Live)](https://www.youtube.com/watch?v=GaDeVmzJhtA)
-- [Forever Reoccurring (Live)](https://www.youtube.com/watch?v=utUrAQm7B2w)
-- [GONG - My Sawtooth Wake (LIVE - from Pulsing Signals)](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
-- [Insert Yr Own Prophecy (Live)](https://www.youtube.com/watch?v=BJOKcB1hiOw)
+- [You Cant Kill Me Live](https://www.youtube.com/watch?v=YSyQ4k6sXJA)
+- [Rejoice Live](https://www.youtube.com/watch?v=jp1rW8KeKRE)
+- [If Never Im And Ever You Live](https://www.youtube.com/watch?v=kDDXc2gp2Dw)
+- [Kapital Live](https://www.youtube.com/watch?v=dhKTCOWp4pc)
+- [Master Builder Live](https://www.youtube.com/watch?v=GaDeVmzJhtA)
+- [Forever Reoccurring Live](https://www.youtube.com/watch?v=utUrAQm7B2w)
+- [GONG - My Sawtooth Wake LIVE - from Pulsing Signals](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
+- [Insert Yr Own Prophecy Live](https://www.youtube.com/watch?v=BJOKcB1hiOw)
 
 ## Release Images
 {{< imageGrid >}}

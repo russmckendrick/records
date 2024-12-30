@@ -108,8 +108,8 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 
 
 ## Videos
-### AIR - Playground Love (Official Video)
-{{< youtube id="NAgX1jO3No0" title="AIR - Playground Love (Official Video)" >}}<br>
+### AIR - Playground Love Official Video
+{{< youtube id="NAgX1jO3No0" title="AIR - Playground Love Official Video" >}}<br>
 ### More Videos
 
 - [Air - Original Motion Picture Score for The virgin Suicides](https://www.youtube.com/watch?v=vs3gnZVA9OU)

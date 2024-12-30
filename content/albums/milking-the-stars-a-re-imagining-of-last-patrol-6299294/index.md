@@ -51,37 +51,37 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 
 
 ## Videos
-### MONSTER MAGNET - The Duke (Official Video) | Napalm Records
-{{< youtube id="2RCwgz4FiSA" title="MONSTER MAGNET - The Duke (Official Video) | Napalm Records" >}}<br>
+### MONSTER MAGNET - The Duke Official Video  Napalm Records
+{{< youtube id="2RCwgz4FiSA" title="MONSTER MAGNET - The Duke Official Video  Napalm Records" >}}<br>
 ### More Videos
 
 - [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
-- [MONSTER MAGNET - Mindless Ones (Official) | Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
+- [MONSTER MAGNET - Mindless Ones Official  Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
 - [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
-- [Last Patrol (Live)](https://www.youtube.com/watch?v=MOdftJvtYvw)
-- [End Of Time (B-3)](https://www.youtube.com/watch?v=V2mU6pDuuZE)
+- [Last Patrol Live](https://www.youtube.com/watch?v=MOdftJvtYvw)
+- [End Of Time B-3](https://www.youtube.com/watch?v=V2mU6pDuuZE)
 - [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
 - [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
-- [Mindless Ones '68](https://www.youtube.com/watch?v=kiVjdn1o82k)
-- [Three Kingfishers (Live)](https://www.youtube.com/watch?v=6jEcMZ8XANc)
-- [I Live Behind The Clouds (Roughed Up And Slightly Spaced)](https://www.youtube.com/watch?v=zgpsvUg7DA0)
-- [The Duke (Full On Drums 'N Wah)](https://www.youtube.com/watch?v=jyo1Oxh598Q)
-- [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
-- [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
-- [MONSTER MAGNET - The Duke (Official Video) | Napalm Records](https://www.youtube.com/watch?v=2RCwgz4FiSA)
+- [Mindless Ones 68](https://www.youtube.com/watch?v=kiVjdn1o82k)
+- [Three Kingfishers Live](https://www.youtube.com/watch?v=6jEcMZ8XANc)
+- [I Live Behind The Clouds Roughed Up And Slightly Spaced](https://www.youtube.com/watch?v=zgpsvUg7DA0)
+- [The Duke Full On Drums N Wah](https://www.youtube.com/watch?v=jyo1Oxh598Q)
+- [Stay Tuned Even Sadder](https://www.youtube.com/watch?v=3yvfjPGVOIo)
+- [Hallelujah Fuzz And Swamp](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
+- [MONSTER MAGNET - The Duke Official Video  Napalm Records](https://www.youtube.com/watch?v=2RCwgz4FiSA)
 - [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
-- [MONSTER MAGNET - Mindless Ones (Official) | Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
+- [MONSTER MAGNET - Mindless Ones Official  Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
 - [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
-- [Last Patrol (Live)](https://www.youtube.com/watch?v=MOdftJvtYvw)
-- [End Of Time (B-3)](https://www.youtube.com/watch?v=V2mU6pDuuZE)
+- [Last Patrol Live](https://www.youtube.com/watch?v=MOdftJvtYvw)
+- [End Of Time B-3](https://www.youtube.com/watch?v=V2mU6pDuuZE)
 - [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
 - [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
-- [Mindless Ones '68](https://www.youtube.com/watch?v=kiVjdn1o82k)
-- [Three Kingfishers (Live)](https://www.youtube.com/watch?v=6jEcMZ8XANc)
-- [I Live Behind The Clouds (Roughed Up And Slightly Spaced)](https://www.youtube.com/watch?v=zgpsvUg7DA0)
-- [The Duke (Full On Drums 'N Wah)](https://www.youtube.com/watch?v=jyo1Oxh598Q)
-- [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
-- [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
+- [Mindless Ones 68](https://www.youtube.com/watch?v=kiVjdn1o82k)
+- [Three Kingfishers Live](https://www.youtube.com/watch?v=6jEcMZ8XANc)
+- [I Live Behind The Clouds Roughed Up And Slightly Spaced](https://www.youtube.com/watch?v=zgpsvUg7DA0)
+- [The Duke Full On Drums N Wah](https://www.youtube.com/watch?v=jyo1Oxh598Q)
+- [Stay Tuned Even Sadder](https://www.youtube.com/watch?v=3yvfjPGVOIo)
+- [Hallelujah Fuzz And Swamp](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
 
 ## Release Images
 {{< imageGrid >}}

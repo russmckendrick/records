@@ -51,11 +51,11 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 
 
 ## Videos
-### Beast̲i̲e̲ ̲B̲o̲ys - Paul's Boutique (Full Album)
-{{< youtube id="iySa7HTWgSI" title="Beast̲i̲e̲ ̲B̲o̲ys - Paul's Boutique (Full Album)" >}}<br>
+### Beastie Boys - Pauls Boutique Full Album
+{{< youtube id="iySa7HTWgSI" title="Beastie Boys - Pauls Boutique Full Album" >}}<br>
 ### More Videos
 
-- [Beastie Boys - Paul's Boutique [FULL ALBUM]](https://www.youtube.com/watch?v=E6MwsNxnMUM)
+- [Beastie Boys - Pauls Boutique FULL ALBUM](https://www.youtube.com/watch?v=E6MwsNxnMUM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -67,12 +67,12 @@ styles: ["Thrash", "Death Metal"]
 
 
 ## Videos
-### Sepultura - Refuse/Resist [OFFICIAL VIDEO]
-{{< youtube id="6ODNxy3YOPU" title="Sepultura - Refuse/Resist [OFFICIAL VIDEO]" >}}<br>
+### Sepultura - RefuseResist OFFICIAL VIDEO
+{{< youtube id="6ODNxy3YOPU" title="Sepultura - RefuseResist OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [Sepultura - Territory [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=Q_WHGV5bejk)
-- [Sepultura - Slave New World [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=0K4J90s1A2M)
+- [Sepultura - Territory OFFICIAL VIDEO](https://www.youtube.com/watch?v=Q_WHGV5bejk)
+- [Sepultura - Slave New World OFFICIAL VIDEO](https://www.youtube.com/watch?v=0K4J90s1A2M)
 
 ## Release Images
 {{< imageGrid >}}

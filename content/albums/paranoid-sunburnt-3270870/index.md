@@ -49,7 +49,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Skunk Anansie - Charity](https://www.youtube.com/watch?v=qQ7ZeSU8ZXM)
 - [Skunk Anansie - It takes blood and guts to be this cool but i m still just a cliche](https://www.youtube.com/watch?v=Mnv19g5NQW8)
 - [Skunk Anansie - Weak](https://www.youtube.com/watch?v=nPglNjxVHiM)
-- [Skunk Anansie ‎– I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
+- [Skunk Anansie  I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
 - [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 
 ## Release Images

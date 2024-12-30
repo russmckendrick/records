@@ -45,8 +45,8 @@ Behaviour (released as Behavior in the United States) is the fourth studio album
 
 
 ## Videos
-### PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)
-{{< youtube id="iQAiRNeZMYg" title="PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)" >}}<br>
+### PET SHOP BOYS  - BEHAVIOUR FULL ALBUM
+{{< youtube id="iQAiRNeZMYg" title="PET SHOP BOYS  - BEHAVIOUR FULL ALBUM" >}}<br>
 
 
 ## Release Images

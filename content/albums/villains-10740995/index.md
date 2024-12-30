@@ -59,20 +59,20 @@ The album received widely positive reviews and performed well commercially, topp
 
 
 ## Videos
-### Queens of the Stone Age - The Evil Has Landed (Audio)
-{{< youtube id="Exa0CzlCb3Y" title="Queens of the Stone Age - The Evil Has Landed (Audio)" >}}<br>
+### Queens of the Stone Age - The Evil Has Landed Audio
+{{< youtube id="Exa0CzlCb3Y" title="Queens of the Stone Age - The Evil Has Landed Audio" >}}<br>
 ### More Videos
 
 - [Queens Of The Stone Age - The Way You Used To Do](https://www.youtube.com/watch?v=3lw6MZBmY-U)
-- [Queens of the Stone Age - Feet Don't Fail Me (Audio)](https://www.youtube.com/watch?v=LxijhTgxkyk)
-- [Queens of the Stone Age - The Way You Used to Do (Audio)](https://www.youtube.com/watch?v=GvyNyFXHj4k)
-- [Queens of the Stone Age - Domesticated Animals (Audio)](https://www.youtube.com/watch?v=6nI1RIA-Y1Q)
-- [Queens of the Stone Age - Fortress (Audio)](https://www.youtube.com/watch?v=dNwNSU5NikU)
-- [Queens of the Stone Age - Head Like A Haunted House (Audio)](https://www.youtube.com/watch?v=x1GfW00RCpg)
-- [Queens of the Stone Age - Un-Reborn Again (Audio)](https://www.youtube.com/watch?v=b_zf9Ug1ePU)
-- [Queens of the Stone Age - Hideaway (Audio)](https://www.youtube.com/watch?v=2dcbcic06vw)
-- [Queens of the Stone Age - The Evil Has Landed (Audio)](https://www.youtube.com/watch?v=Exa0CzlCb3Y)
-- [Queens of the Stone Age - Villains of Circumstance (Audio)](https://www.youtube.com/watch?v=fsqhJcGbaEI)
+- [Queens of the Stone Age - Feet Dont Fail Me Audio](https://www.youtube.com/watch?v=LxijhTgxkyk)
+- [Queens of the Stone Age - The Way You Used to Do Audio](https://www.youtube.com/watch?v=GvyNyFXHj4k)
+- [Queens of the Stone Age - Domesticated Animals Audio](https://www.youtube.com/watch?v=6nI1RIA-Y1Q)
+- [Queens of the Stone Age - Fortress Audio](https://www.youtube.com/watch?v=dNwNSU5NikU)
+- [Queens of the Stone Age - Head Like A Haunted House Audio](https://www.youtube.com/watch?v=x1GfW00RCpg)
+- [Queens of the Stone Age - Un-Reborn Again Audio](https://www.youtube.com/watch?v=b_zf9Ug1ePU)
+- [Queens of the Stone Age - Hideaway Audio](https://www.youtube.com/watch?v=2dcbcic06vw)
+- [Queens of the Stone Age - The Evil Has Landed Audio](https://www.youtube.com/watch?v=Exa0CzlCb3Y)
+- [Queens of the Stone Age - Villains of Circumstance Audio](https://www.youtube.com/watch?v=fsqhJcGbaEI)
 
 ## Release Images
 {{< imageGrid >}}

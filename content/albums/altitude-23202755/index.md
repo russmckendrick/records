@@ -68,7 +68,7 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 {{< youtube id="-vjGteVwIM8" title="Alt - Favourite Girl" >}}<br>
 ### More Videos
 
-- [alt - what you've done](https://www.youtube.com/watch?v=o-x_kPtLdiA)
+- [alt - what youve done](https://www.youtube.com/watch?v=o-x_kPtLdiA)
 
 ## Release Images
 {{< imageGrid >}}

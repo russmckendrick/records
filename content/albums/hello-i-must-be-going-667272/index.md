@@ -47,11 +47,11 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 
 
 ## Videos
-### Phil Collins - You Can't Hurry Love (Official Music Video)
-{{< youtube id="C9IwBJYTwQ0" title="Phil Collins - You Can't Hurry Love (Official Music Video)" >}}<br>
+### Phil Collins - You Cant Hurry Love Official Music Video
+{{< youtube id="C9IwBJYTwQ0" title="Phil Collins - You Cant Hurry Love Official Music Video" >}}<br>
 ### More Videos
 
-- [Phil Collins-Hello, I Must Be Going! [Full Album] 1982](https://www.youtube.com/watch?v=6KGW8LAeMU8)
+- [Phil Collins-Hello I Must Be Going Full Album 1982](https://www.youtube.com/watch?v=6KGW8LAeMU8)
 
 ## Release Images
 {{< imageGrid >}}

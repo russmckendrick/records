@@ -64,17 +64,17 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 {{< youtube id="dgMQco_0T-E" title="The Beat - Mirror In The Bathroom - 1980" >}}<br>
 ### More Videos
 
-- [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- [The English Beat - Two Swords - I Just Can't Stop It [1980]](https://www.youtube.com/watch?v=YRYwncfYzrQ)
-- [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- ["Can't get used to losing you"](https://www.youtube.com/watch?v=qErykBldZCs)
+- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- [The English Beat - Two Swords - I Just Cant Stop It 1980](https://www.youtube.com/watch?v=YRYwncfYzrQ)
+- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- [Cant get used to losing you](https://www.youtube.com/watch?v=qErykBldZCs)
 - [English Beat - rough rider](https://www.youtube.com/watch?v=KDJFEJsHhrs)
-- [Twist & Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
-- [THE BEAT - (THE COMPLETE I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=I58tsdmA5Co)
-- [THE BEAT - TWIST & CRAWL (EXTENDED VERSION)](https://www.youtube.com/watch?v=eteCTeZpSmU)
-- [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- [Twist  Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
+- [THE BEAT - THE COMPLETE I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=I58tsdmA5Co)
+- [THE BEAT - TWIST  CRAWL EXTENDED VERSION](https://www.youtube.com/watch?v=eteCTeZpSmU)
+- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
 - [The English Beat - Twist And Crawl](https://www.youtube.com/watch?v=Bch9DuV0Y8o)
-- [The Beat - Hands Off She's Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
+- [The Beat - Hands Off Shes Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
 
 ## Release Images
 {{< imageGrid >}}

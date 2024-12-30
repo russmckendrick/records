@@ -50,11 +50,11 @@ Lost Themes is the debut studio album by American film director and composer Joh
 
 
 ## Videos
-### John Carpenter's -  Lost Themes (Full Vinyl Rip)
-{{< youtube id="EDqLQ7PgvY8" title="John Carpenter's -  Lost Themes (Full Vinyl Rip)" >}}<br>
+### John Carpenters -  Lost Themes Full Vinyl Rip
+{{< youtube id="EDqLQ7PgvY8" title="John Carpenters -  Lost Themes Full Vinyl Rip" >}}<br>
 ### More Videos
 
-- [John Carpenter's -  Lost Themes (Full Vinyl Rip)](https://www.youtube.com/watch?v=EDqLQ7PgvY8)
+- [John Carpenters -  Lost Themes Full Vinyl Rip](https://www.youtube.com/watch?v=EDqLQ7PgvY8)
 
 ## Release Images
 {{< imageGrid >}}

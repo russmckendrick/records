@@ -63,7 +63,7 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 {{< youtube id="l_7SxoQW11g" title="The Razors Edge" >}}<br>
 ### More Videos
 
-- [AC/DC - Thunderstruck (Official Video)](https://www.youtube.com/watch?v=v2AC41dglnM)
+- [ACDC - Thunderstruck Official Video](https://www.youtube.com/watch?v=v2AC41dglnM)
 
 ## Release Images
 {{< imageGrid >}}

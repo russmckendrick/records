@@ -52,21 +52,21 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Faith No More - From Out Of Nowhere (Official Music Video)
-{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
+### Faith No More - From Out Of Nowhere Official Music Video
+{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere Official Music Video" >}}<br>
 ### More Videos
 
 - [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
-- [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
+- [Faith No More - Stripsearch Official Music Video](https://www.youtube.com/watch?v=-_U6165DVeM)
 - [A Small Victory](https://www.youtube.com/watch?v=8A8ZABKyAys)
 - [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
-- [I Won't Forget You (2016 Remaster)](https://www.youtube.com/watch?v=mOtDoTPZ56c)
-- [Faith No More - We Care a Lot (Official Music Video) [4K]](https://www.youtube.com/watch?v=LQhX8PbNUWI)
-- [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
-- [Faith No More - Easy (Official Music Video)](https://www.youtube.com/watch?v=vPzDTfIb0DU)
-- [Faith No More - Ashes to Ashes (Official Music Video)](https://www.youtube.com/watch?v=Kfq7wHJu21c)
-- [Faith No More - I Started a Joke (Official Music Video)](https://www.youtube.com/watch?v=JKDo6g4CCeU)
-- [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
+- [I Wont Forget You 2016 Remaster](https://www.youtube.com/watch?v=mOtDoTPZ56c)
+- [Faith No More - We Care a Lot Official Music Video 4K](https://www.youtube.com/watch?v=LQhX8PbNUWI)
+- [Faith No More - Epic Official Music Video](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
+- [Faith No More - Easy Official Music Video](https://www.youtube.com/watch?v=vPzDTfIb0DU)
+- [Faith No More - Ashes to Ashes Official Music Video](https://www.youtube.com/watch?v=Kfq7wHJu21c)
+- [Faith No More - I Started a Joke Official Music Video](https://www.youtube.com/watch?v=JKDo6g4CCeU)
+- [Faith No More - Stripsearch Official Music Video](https://www.youtube.com/watch?v=-_U6165DVeM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,12 +53,12 @@ Recording the album and the subsequent tour exacerbated growing tensions and dif
 
 
 ## Videos
-### Depeche Mode - One Caress (Official Video)
-{{< youtube id="fphsbLtrDe8" title="Depeche Mode - One Caress (Official Video)" >}}<br>
+### Depeche Mode - One Caress Official Video
+{{< youtube id="fphsbLtrDe8" title="Depeche Mode - One Caress Official Video" >}}<br>
 ### More Videos
 
 - [Depeche Mode   Songs of faith and Devotion 1993](https://www.youtube.com/watch?v=QQNizaPpcVY)
-- [Depeche Mode - Walking In My Shoes (Official Video)](https://www.youtube.com/watch?v=GrC_yuzO-Ss)
+- [Depeche Mode - Walking In My Shoes Official Video](https://www.youtube.com/watch?v=GrC_yuzO-Ss)
 
 ## Release Images
 {{< imageGrid >}}

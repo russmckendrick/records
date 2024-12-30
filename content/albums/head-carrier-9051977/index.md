@@ -52,11 +52,11 @@ The album's title references a cephalophore, a saint carrying his own head, more
 
 
 ## Videos
-### Pixies - Head Carrier (full album) 2016
-{{< youtube id="8rSLzayIy9w" title="Pixies - Head Carrier (full album) 2016" >}}<br>
+### Pixies - Head Carrier full album 2016
+{{< youtube id="8rSLzayIy9w" title="Pixies - Head Carrier full album 2016" >}}<br>
 ### More Videos
 
-- [PIXIES - Tenement Song (Official Video)](https://www.youtube.com/watch?v=-SLgXBLQA2M)
+- [PIXIES - Tenement Song Official Video](https://www.youtube.com/watch?v=-SLgXBLQA2M)
 
 ## Release Images
 {{< imageGrid >}}

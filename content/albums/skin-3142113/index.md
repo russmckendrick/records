@@ -52,7 +52,7 @@ Celebrity Skin is Hole's most commercially successful album. It peaked at number
 {{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}<br>
 ### More Videos
 
-- [SKIN - Shine Your Light (1993)](https://www.youtube.com/watch?v=jkBX8h5P0No)
+- [SKIN - Shine Your Light 1993](https://www.youtube.com/watch?v=jkBX8h5P0No)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,8 +58,8 @@ styles: []
 
 
 ## Videos
-### Ivor Cutler "Here's A Health For Simon" (performed by Citizen Bravo, Raymond MacDonald and Friends)
-{{< youtube id="aWMWR8eTLm0" title="Ivor Cutler "Here's A Health For Simon" (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}<br>
+### Ivor Cutler Heres A Health For Simon performed by Citizen Bravo Raymond MacDonald and Friends
+{{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Heres A Health For Simon performed by Citizen Bravo Raymond MacDonald and Friends" >}}<br>
 ### More Videos
 
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)

@@ -39,11 +39,11 @@ styles: ["Acid Rock"]
 
 
 ## Videos
-### EMF - "Hello People" (featuring Stephen Fry)
-{{< youtube id="GVlMG585qNc" title="EMF - "Hello People" (featuring Stephen Fry)" >}}<br>
+### EMF - Hello People featuring Stephen Fry
+{{< youtube id="GVlMG585qNc" title="EMF - Hello People featuring Stephen Fry" >}}<br>
 ### More Videos
 
-- [EMF - "Hello People" (featuring Stephen Fry)](https://www.youtube.com/watch?v=GVlMG585qNc)
+- [EMF - Hello People featuring Stephen Fry](https://www.youtube.com/watch?v=GVlMG585qNc)
 
 ## Release Images
 {{< imageGrid >}}

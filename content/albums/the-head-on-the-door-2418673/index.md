@@ -62,13 +62,13 @@ The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, 
 - [The Baby Screams](https://www.youtube.com/watch?v=tZYv4DRjDpM)
 - [A Night Like This](https://www.youtube.com/watch?v=nvB7v5ZEh18)
 - [Screw](https://www.youtube.com/watch?v=ARyCYfTX9e0)
-- [Inbetween Days (Robert Smith Home Demo)](https://www.youtube.com/watch?v=dGYgk6DrxyM)
-- [A Night Like This (Studio Demo)](https://www.youtube.com/watch?v=05gzZXxGz48)
-- [Lime Time (Studio Demo)](https://www.youtube.com/watch?v=t8o4H2GTqm8)
-- [Six Different Ways (Studio Demo)](https://www.youtube.com/watch?v=db7VD6TVIQE)
-- [Inwood (Robert Smith Home Demo)](https://www.youtube.com/watch?v=Jpxpl5MQoKo)
-- [Innsbruck (Robert Smith Home Demo)](https://www.youtube.com/watch?v=-GOOAbYVfhk)
-- [Lalala (Studio Demo)](https://www.youtube.com/watch?v=5jyX4sNJzAs)
+- [Inbetween Days Robert Smith Home Demo](https://www.youtube.com/watch?v=dGYgk6DrxyM)
+- [A Night Like This Studio Demo](https://www.youtube.com/watch?v=05gzZXxGz48)
+- [Lime Time Studio Demo](https://www.youtube.com/watch?v=t8o4H2GTqm8)
+- [Six Different Ways Studio Demo](https://www.youtube.com/watch?v=db7VD6TVIQE)
+- [Inwood Robert Smith Home Demo](https://www.youtube.com/watch?v=Jpxpl5MQoKo)
+- [Innsbruck Robert Smith Home Demo](https://www.youtube.com/watch?v=-GOOAbYVfhk)
+- [Lalala Studio Demo](https://www.youtube.com/watch?v=5jyX4sNJzAs)
 
 ## Release Images
 {{< imageGrid >}}

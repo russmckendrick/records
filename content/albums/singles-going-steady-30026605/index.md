@@ -55,25 +55,25 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 
 
 ## Videos
-### What Do I Get?
-{{< youtube id="mdTmynmVaEk" title="What Do I Get?" >}}<br>
+### What Do I Get
+{{< youtube id="mdTmynmVaEk" title="What Do I Get" >}}<br>
 ### More Videos
 
 - [Just Lust](https://www.youtube.com/watch?v=SnCCFRRN_F8)
-- [I Don't Mind](https://www.youtube.com/watch?v=ViNmPECcXY4)
-- [Love You More (2001 Remastered Version)](https://www.youtube.com/watch?v=xRPp2Bc7AJY)
-- [Ever Fallen In Love (With Someone You Shouldn't've)](https://www.youtube.com/watch?v=aUVVRyjiVzo)
+- [I Dont Mind](https://www.youtube.com/watch?v=ViNmPECcXY4)
+- [Love You More 2001 Remastered Version](https://www.youtube.com/watch?v=xRPp2Bc7AJY)
+- [Ever Fallen In Love With Someone You Shouldntve](https://www.youtube.com/watch?v=aUVVRyjiVzo)
 - [Promises](https://www.youtube.com/watch?v=Krbod-Z0Liw)
-- [Everybody's Happy Nowadays](https://www.youtube.com/watch?v=XQ1xqWCPp9w)
+- [Everybodys Happy Nowadays](https://www.youtube.com/watch?v=XQ1xqWCPp9w)
 - [Harmony in My Head](https://www.youtube.com/watch?v=ixURorO8tAw)
-- [Whatever Happened To?](https://www.youtube.com/watch?v=55V_VKG6KEk)
-- [Oh Shit!](https://www.youtube.com/watch?v=mmZUwib43RA)
+- [Whatever Happened To](https://www.youtube.com/watch?v=55V_VKG6KEk)
+- [Oh Shit](https://www.youtube.com/watch?v=mmZUwib43RA)
 - [Autonomy](https://www.youtube.com/watch?v=ltHTiQf2_dM)
 - [Noise Annoys](https://www.youtube.com/watch?v=ZyPQ8wjTyGk)
 - [Lipstick](https://www.youtube.com/watch?v=FVkleJDdSqA)
-- [Why Can't I Touch It?](https://www.youtube.com/watch?v=UkLvrpfxVoQ)
-- [Something's Gone Wrong Again](https://www.youtube.com/watch?v=8PHkwjGbmNg)
-- [Buzzcocks - What Do I Get? (Official Video)](https://www.youtube.com/watch?v=iMXR7w76VZU)
+- [Why Cant I Touch It](https://www.youtube.com/watch?v=UkLvrpfxVoQ)
+- [Somethings Gone Wrong Again](https://www.youtube.com/watch?v=8PHkwjGbmNg)
+- [Buzzcocks - What Do I Get Official Video](https://www.youtube.com/watch?v=iMXR7w76VZU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,7 +47,7 @@ The deluxe edition adds four live versions of tracks. The Target Exclusive versi
 ### More Videos
 
 - [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
-- [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
+- [Alison Krauss - Make The World Go Away Feat Jamey Johnson](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 
 ## Release Images
 {{< imageGrid >}}

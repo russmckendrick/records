@@ -49,12 +49,12 @@ Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers 
 {{< youtube id="jnwRewQ--QM" title="The Crane Wife 3" >}}<br>
 ### More Videos
 
-- [The Island: Come And See/The Landlord's Daughter/You'll Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
-- [The Crane Wife 1 & 2](https://www.youtube.com/watch?v=gHslrm1jFAg)
+- [The Island Come And SeeThe Landlords DaughterYoull Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
+- [The Crane Wife 1  2](https://www.youtube.com/watch?v=gHslrm1jFAg)
 - [The Decemberists - O Valencia](https://www.youtube.com/watch?v=IbsHwuyfnnw)
 - [The Crane Wife 3](https://www.youtube.com/watch?v=jnwRewQ--QM)
-- [The Island: Come And See/The Landlord's Daughter/You'll Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
-- [The Crane Wife 1 & 2](https://www.youtube.com/watch?v=gHslrm1jFAg)
+- [The Island Come And SeeThe Landlords DaughterYoull Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
+- [The Crane Wife 1  2](https://www.youtube.com/watch?v=gHslrm1jFAg)
 
 ## Release Images
 {{< imageGrid >}}

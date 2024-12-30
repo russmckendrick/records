@@ -72,10 +72,10 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 
 - [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=0bLEzeW5CJQ)
 - [Rodrigo y Gabriela - Ixtapa](https://www.youtube.com/watch?v=-V3qCq48bP0)
-- [Rodrigo y Gabriela - Orion (Studio Version)](https://www.youtube.com/watch?v=GP6rkf3qB0c)
+- [Rodrigo y Gabriela - Orion Studio Version](https://www.youtube.com/watch?v=GP6rkf3qB0c)
 - [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
-- [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
-- [Rodrigo y Gabriela- "Hanuman" OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
+- [Rodrigo y Gabriela  Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
+- [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
 
 ## Release Images
 {{< imageGrid >}}

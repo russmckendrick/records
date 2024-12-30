@@ -74,16 +74,16 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 ### More Videos
 
 - [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=vUJLdC6wqno)
-- [Manic Street Preachers - Let Robeson Sing (Official Video)](https://www.youtube.com/watch?v=9_QGfzeiNb0)
+- [Manic Street Preachers - Let Robeson Sing Official Video](https://www.youtube.com/watch?v=9_QGfzeiNb0)
 - [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=-uwacLOnyKA)
-- [Manic Street Preachers Know Your Enemy Studio Footage from www.manics.co.uk 2001](https://www.youtube.com/watch?v=vnTwDFWwm88)
-- [Manic Street Preachers - The Year of Purification (Official Audio)](https://www.youtube.com/watch?v=NYJ3TBfFbN4)
-- [Manic Street Preachers - Intravenous Agnostic (Official Audio)](https://www.youtube.com/watch?v=fRiOYL_TpUc)
-- [Manic Street Preachers - We Are All Bourgeois Now (Official Audio)](https://www.youtube.com/watch?v=LWzWm1-Q76Y)
+- [Manic Street Preachers Know Your Enemy Studio Footage from wwwmanicscouk 2001](https://www.youtube.com/watch?v=vnTwDFWwm88)
+- [Manic Street Preachers - The Year of Purification Official Audio](https://www.youtube.com/watch?v=NYJ3TBfFbN4)
+- [Manic Street Preachers - Intravenous Agnostic Official Audio](https://www.youtube.com/watch?v=fRiOYL_TpUc)
+- [Manic Street Preachers - We Are All Bourgeois Now Official Audio](https://www.youtube.com/watch?v=LWzWm1-Q76Y)
 - [Manics Know Your Enemy Interview](https://www.youtube.com/watch?v=zzMHzqdzuyI)
 - [Manic street preachers know your enemy unboxing](https://www.youtube.com/watch?v=b8e_m8Gpdos)
-- [Manic Street Preachers - Ocean Spray (Live in Cuba)](https://www.youtube.com/watch?v=y3yT3EEvebE)
-- [Manic Street Preachers - The Year of Purification (Live in Cuba)](https://www.youtube.com/watch?v=rCV-1l1DsQE)
+- [Manic Street Preachers - Ocean Spray Live in Cuba](https://www.youtube.com/watch?v=y3yT3EEvebE)
+- [Manic Street Preachers - The Year of Purification Live in Cuba](https://www.youtube.com/watch?v=rCV-1l1DsQE)
 
 ## Release Images
 {{< imageGrid >}}

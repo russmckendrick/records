@@ -42,15 +42,15 @@ styles: ["Avantgarde"]
 
 
 ## Videos
-### Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)
-{{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)" >}}<br>
+### Crippled Black Phoenix - 02 We Forgotten Who We Are HQ
+{{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are HQ" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - 03 Fantastic Justice (HQ)](https://www.youtube.com/watch?v=Xg4wP8YB0T0)
-- [Cippled Black Phoenix - 04 Bastogne Blues (HQ)](https://www.youtube.com/watch?v=cyIolrH4DjA)
-- [Crippled Black Phoenix - Troublemaker (HQ)](https://www.youtube.com/watch?v=tHCxKy2xWHs)
-- [Crippled Black Phoenix - 05 Of A Lifetime (HQ)](https://www.youtube.com/watch?v=BE8p_5EDjg0)
-- [Crippled Black Phoenix - I, Vigilante (full album) A4=432Hz](https://www.youtube.com/watch?v=OjHybP76T5I)
+- [Crippled Black Phoenix - 03 Fantastic Justice HQ](https://www.youtube.com/watch?v=Xg4wP8YB0T0)
+- [Cippled Black Phoenix - 04 Bastogne Blues HQ](https://www.youtube.com/watch?v=cyIolrH4DjA)
+- [Crippled Black Phoenix - Troublemaker HQ](https://www.youtube.com/watch?v=tHCxKy2xWHs)
+- [Crippled Black Phoenix - 05 Of A Lifetime HQ](https://www.youtube.com/watch?v=BE8p_5EDjg0)
+- [Crippled Black Phoenix - I Vigilante full album A4432Hz](https://www.youtube.com/watch?v=OjHybP76T5I)
 
 ## Release Images
 {{< imageGrid >}}

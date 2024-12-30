@@ -57,7 +57,7 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 ### More Videos
 
 - [Led Zeppelin III 1st UK press - side 2](https://www.youtube.com/watch?v=EH1_fAPCho0)
-- [Led Zeppelin - Led Zeppelin III (Full Album)](https://www.youtube.com/watch?v=MkcumppLBXw)
+- [Led Zeppelin - Led Zeppelin III Full Album](https://www.youtube.com/watch?v=MkcumppLBXw)
 
 ## Release Images
 {{< imageGrid >}}

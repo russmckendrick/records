@@ -50,12 +50,12 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 
 
 ## Videos
-### Ride - Shadows Behind the Sun (2019)
-{{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun (2019)" >}}<br>
+### Ride - Shadows Behind the Sun 2019
+{{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun 2019" >}}<br>
 ### More Videos
 
-- [Future Love (Official video)](https://www.youtube.com/watch?v=3cN0vWnVaHU)
-- [Ride - Shadows Behind the Sun (2019)](https://www.youtube.com/watch?v=ni-t8eDXF_0)
+- [Future Love Official video](https://www.youtube.com/watch?v=3cN0vWnVaHU)
+- [Ride - Shadows Behind the Sun 2019](https://www.youtube.com/watch?v=ni-t8eDXF_0)
 
 ## Release Images
 {{< imageGrid >}}

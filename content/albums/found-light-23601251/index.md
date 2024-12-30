@@ -55,23 +55,23 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 ### More Videos
 
 - [Ring Song](https://www.youtube.com/watch?v=mhb2MYDCjHQ)
-- [Seaside Haiku (Official Music Video)](https://www.youtube.com/watch?v=AScXl70VTco)
+- [Seaside Haiku Official Music Video](https://www.youtube.com/watch?v=AScXl70VTco)
 - [My Lantern](https://www.youtube.com/watch?v=SwnKz-9cXLA)
 - [Signal](https://www.youtube.com/watch?v=wYuIzSColno)
 - [Naked Hymn](https://www.youtube.com/watch?v=FgMkPOF0XWg)
-- [Winter Windows (official music video)](https://www.youtube.com/watch?v=3cpp781sku0)
-- [Can't Help But Sing](https://www.youtube.com/watch?v=l6X15KpV2Uk)
-- [Eucalyptus (Official Audio)](https://www.youtube.com/watch?v=xglwcIWWIxI)
+- [Winter Windows official music video](https://www.youtube.com/watch?v=3cpp781sku0)
+- [Cant Help But Sing](https://www.youtube.com/watch?v=l6X15KpV2Uk)
+- [Eucalyptus Official Audio](https://www.youtube.com/watch?v=xglwcIWWIxI)
 - [New Arms](https://www.youtube.com/watch?v=hZrPkh2vJGs)
 - [Sword Song](https://www.youtube.com/watch?v=1SWF6ZGI6a4)
 - [Time Will Show You](https://www.youtube.com/watch?v=kzIMTa397xw)
-- [T & O](https://www.youtube.com/watch?v=MZPHyaEw8xs)
+- [T  O](https://www.youtube.com/watch?v=MZPHyaEw8xs)
 - [Komorebi](https://www.youtube.com/watch?v=xGbVUwt6hE4)
-- [Autumn Song (Demo Version)](https://www.youtube.com/watch?v=d1zVIixCUaE)
-- [Seaside Haiku (Demo Version)](https://www.youtube.com/watch?v=LXyTNDpFM0g)
-- [Signal (Demo Version)](https://www.youtube.com/watch?v=uoPpaMLlRdo)
-- [New Arms (Demo Version) - Official Audio](https://www.youtube.com/watch?v=EZWpANMb2D8)
-- [Winter Windows (Demo Version)](https://www.youtube.com/watch?v=tlFGjxU06EU)
+- [Autumn Song Demo Version](https://www.youtube.com/watch?v=d1zVIixCUaE)
+- [Seaside Haiku Demo Version](https://www.youtube.com/watch?v=LXyTNDpFM0g)
+- [Signal Demo Version](https://www.youtube.com/watch?v=uoPpaMLlRdo)
+- [New Arms Demo Version - Official Audio](https://www.youtube.com/watch?v=EZWpANMb2D8)
+- [Winter Windows Demo Version](https://www.youtube.com/watch?v=tlFGjxU06EU)
 
 ## Release Images
 {{< imageGrid >}}

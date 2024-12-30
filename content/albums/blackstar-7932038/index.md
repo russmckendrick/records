@@ -46,16 +46,16 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 
 
 ## Videos
-### David Bowie - Blackstar (Video)
-{{< youtube id="kszLwBaC4Sw" title="David Bowie - Blackstar (Video)" >}}<br>
+### David Bowie - Blackstar Video
+{{< youtube id="kszLwBaC4Sw" title="David Bowie - Blackstar Video" >}}<br>
 ### More Videos
 
-- [David Bowie - Lazarus (Video)](https://www.youtube.com/watch?v=y-JqH1M4Ya8)
-- [David Bowie - 'Tis a Pity She Was a Whore [Audio]](https://www.youtube.com/watch?v=-zF2tsBJnpk)
-- [David Bowie - Sue (Or In A Season Of Crime) (Official Video)](https://www.youtube.com/watch?v=nFX1y62l9C4)
-- [David Bowie - Girl Loves Me (Audio)](https://www.youtube.com/watch?v=wDCk1X2S00A)
+- [David Bowie - Lazarus Video](https://www.youtube.com/watch?v=y-JqH1M4Ya8)
+- [David Bowie - Tis a Pity She Was a Whore Audio](https://www.youtube.com/watch?v=-zF2tsBJnpk)
+- [David Bowie - Sue Or In A Season Of Crime Official Video](https://www.youtube.com/watch?v=nFX1y62l9C4)
+- [David Bowie - Girl Loves Me Audio](https://www.youtube.com/watch?v=wDCk1X2S00A)
 - [David Bowie   Dollar Days video](https://www.youtube.com/watch?v=lXhCKubJCAg)
-- [David Bowie - I Can't Give Everything Away](https://www.youtube.com/watch?v=OZscv36UUHo)
+- [David Bowie - I Cant Give Everything Away](https://www.youtube.com/watch?v=OZscv36UUHo)
 
 ## Release Images
 {{< imageGrid >}}

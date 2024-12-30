@@ -61,20 +61,20 @@ The extended format means the band can indulge every whim and include experiment
 
 
 ## Videos
-### Led Zeppelin - Physical Graffiti (Cassette, 1975)
-{{< youtube id="hXAjyl2Z7EE" title="Led Zeppelin - Physical Graffiti (Cassette, 1975)" >}}<br>
+### Led Zeppelin - Physical Graffiti Cassette 1975
+{{< youtube id="hXAjyl2Z7EE" title="Led Zeppelin - Physical Graffiti Cassette 1975" >}}<br>
 ### More Videos
 
-- [Ten Years Gone (1990 Remaster)](https://www.youtube.com/watch?v=DBzuYNK95sM)
-- [Houses of the Holy (1990 Remaster)](https://www.youtube.com/watch?v=ohDQ1FUUjPs)
-- [In the Light (1990 Remaster)](https://www.youtube.com/watch?v=pNo1nS_JV5k)
-- [Bron-Yr-Aur (1993 Remaster)](https://www.youtube.com/watch?v=QKge6Ay9O4E)
-- [Custard Pie (1990 Remaster)](https://www.youtube.com/watch?v=VVP3g1-Wq_0)
-- [Trampled Under Foot (1990 Remaster)](https://www.youtube.com/watch?v=vamReLUOlrA)
-- [In My Time of Dying (1990 Remaster)](https://www.youtube.com/watch?v=scpqae3P7Dg)
-- [Kashmir (Remaster)](https://www.youtube.com/watch?v=gEYqSorzOZs)
-- [The Wanton Song (Remaster)](https://www.youtube.com/watch?v=KTypf_JMFis)
-- [The Wanton Song (1990 Remaster)](https://www.youtube.com/watch?v=iaFK6AHhU8s)
+- [Ten Years Gone 1990 Remaster](https://www.youtube.com/watch?v=DBzuYNK95sM)
+- [Houses of the Holy 1990 Remaster](https://www.youtube.com/watch?v=ohDQ1FUUjPs)
+- [In the Light 1990 Remaster](https://www.youtube.com/watch?v=pNo1nS_JV5k)
+- [Bron-Yr-Aur 1993 Remaster](https://www.youtube.com/watch?v=QKge6Ay9O4E)
+- [Custard Pie 1990 Remaster](https://www.youtube.com/watch?v=VVP3g1-Wq_0)
+- [Trampled Under Foot 1990 Remaster](https://www.youtube.com/watch?v=vamReLUOlrA)
+- [In My Time of Dying 1990 Remaster](https://www.youtube.com/watch?v=scpqae3P7Dg)
+- [Kashmir Remaster](https://www.youtube.com/watch?v=gEYqSorzOZs)
+- [The Wanton Song Remaster](https://www.youtube.com/watch?v=KTypf_JMFis)
+- [The Wanton Song 1990 Remaster](https://www.youtube.com/watch?v=iaFK6AHhU8s)
 
 ## Release Images
 {{< imageGrid >}}

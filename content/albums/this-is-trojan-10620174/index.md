@@ -119,8 +119,8 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 
 ## Videos
-### Bob Andy & Marcia Griffiths - Young, Gifted and Black (Official Lyrics Video)
-{{< youtube id="r6YeFp-Qex8" title="Bob Andy & Marcia Griffiths - Young, Gifted and Black (Official Lyrics Video)" >}}<br>
+### Bob Andy  Marcia Griffiths - Young Gifted and Black Official Lyrics Video
+{{< youtube id="r6YeFp-Qex8" title="Bob Andy  Marcia Griffiths - Young Gifted and Black Official Lyrics Video" >}}<br>
 
 
 ## Release Images

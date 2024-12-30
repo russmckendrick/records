@@ -46,9 +46,9 @@ Historically, the velveteen trade varied with the fashions that controlled the p
 {{< youtube id="eF05qNEc-dI" title="Transvision Vamp - Landslide of Love" >}}<br>
 ### More Videos
 
-- [Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989](https://www.youtube.com/watch?v=q-ccY2xHhY8)
-- [Transvision Vamp - I'm hanging out with Halo Jones](https://www.youtube.com/watch?v=FYza-Zspoo4)
-- [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=r26krlXFmOI)
+- [Transvision Vamp - Landslide Of Love Musikladen Eurotops 1989](https://www.youtube.com/watch?v=q-ccY2xHhY8)
+- [Transvision Vamp - Im hanging out with Halo Jones](https://www.youtube.com/watch?v=FYza-Zspoo4)
+- [Transvision Vamp - Baby I Dont Care 1989](https://www.youtube.com/watch?v=r26krlXFmOI)
 
 ## Release Images
 {{< imageGrid >}}

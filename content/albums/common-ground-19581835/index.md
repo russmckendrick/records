@@ -59,9 +59,9 @@ It was elected by PopMatters as the ninth best progressive rock/metal album of 2
 - [Endnotes](https://www.youtube.com/watch?v=Qp9zC1rE7LM)
 - [Headwaters](https://www.youtube.com/watch?v=kLTK26pqo-k)
 - [Dandelion Clock](https://www.youtube.com/watch?v=xvsqQSxag5c)
-- [BIG BIG TRAIN - The Strangest Times (2021) [Progressive Rock / Art Rock]](https://www.youtube.com/watch?v=swdU6qMjldE)
+- [BIG BIG TRAIN - The Strangest Times 2021 Progressive Rock  Art Rock](https://www.youtube.com/watch?v=swdU6qMjldE)
 - [Common Ground by Big Big Train](https://www.youtube.com/watch?v=wIQnhCcI4gA)
-- [Big Big Train: 'Common Ground | New Album Review](https://www.youtube.com/watch?v=pv1G_A9N4Dg)
+- [Big Big Train Common Ground  New Album Review](https://www.youtube.com/watch?v=pv1G_A9N4Dg)
 - [Atlantic Cable](https://www.youtube.com/watch?v=V_Fbr9GkiFk)
 
 ## Release Images

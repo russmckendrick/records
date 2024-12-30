@@ -52,8 +52,8 @@ Although Ummagumma was well received at the time of release, and was a top-five 
 
 
 ## Videos
-### P̲i̲nk̲ ̲F̲lo̲y̲d ̲-̲ ̲U̲mma̲g̲u̲mma̲ (Full Album)
-{{< youtube id="xOerkHz6UYE" title="P̲i̲nk̲ ̲F̲lo̲y̲d ̲-̲ ̲U̲mma̲g̲u̲mma̲ (Full Album)" >}}<br>
+### Pink Floyd - Ummagumma Full Album
+{{< youtube id="xOerkHz6UYE" title="Pink Floyd - Ummagumma Full Album" >}}<br>
 
 
 ## Release Images

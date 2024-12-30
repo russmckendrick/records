@@ -61,14 +61,14 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 
 
 ## Videos
-### Father John Misty - Pure Comedy [Official Music Video]
-{{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy [Official Music Video]" >}}<br>
+### Father John Misty - Pure Comedy Official Music Video
+{{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy Official Music Video" >}}<br>
 ### More Videos
 
-- [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
-- [Father John Misty - Pure Comedy [Official Music Video]](https://www.youtube.com/watch?v=wKrSYgirAhc)
-- [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
-- [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
+- [Father John Misty - Pure Comedy FULL ALBUM STREAM](https://www.youtube.com/watch?v=DzLt-11Glzg)
+- [Father John Misty - Pure Comedy Official Music Video](https://www.youtube.com/watch?v=wKrSYgirAhc)
+- [Father John Misty - Pure Comedy FULL ALBUM STREAM](https://www.youtube.com/watch?v=DzLt-11Glzg)
+- [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution OFFICIAL VIDEO](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -105,37 +105,37 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 
 
 ## Videos
-### Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4
-{{< youtube id="yBJfnZAkkCc" title="Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4" >}}<br>
+### Various  Factory Records - Communications 1978-92 FULL ALBUM 14
+{{< youtube id="yBJfnZAkkCc" title="Various  Factory Records - Communications 1978-92 FULL ALBUM 14" >}}<br>
 ### More Videos
 
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
-- [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
+- [Get the Message DNA Mix](https://www.youtube.com/watch?v=vXSFntRia0k)
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
 - [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
-- [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US "Sunshine & Love" CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
+- [Happy Mondays - Sunshine  Love Lion Rock Mix No1 1992 From the US Sunshine  Love CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 - [Joy Division - Digital](https://www.youtube.com/watch?v=9qgFGqJz9yc)
 - [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
-- [A Certain Ratio - All Night Party (1979)](https://www.youtube.com/watch?v=HAM9uMKQCPw)
-- [Electricity (Factory Version) - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
-- [Joy Division - 06 - She's Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
-- [The Distractions - Time Goes By So Slow (1979)](https://www.youtube.com/watch?v=ouOeEoF8-Dk)
+- [A Certain Ratio - All Night Party 1979](https://www.youtube.com/watch?v=HAM9uMKQCPw)
+- [Electricity Factory Version - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
+- [Joy Division - 06 - Shes Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
+- [The Distractions - Time Goes By So Slow 1979](https://www.youtube.com/watch?v=ouOeEoF8-Dk)
 - [the names - nightshift](https://www.youtube.com/watch?v=eg4i-fwgBac)
-- [New Order - Ceremony (Original Version) + Lyrics](https://www.youtube.com/watch?v=H5UK40sSo8I)
-- [Minny Pops - Dolphin's Spurt](https://www.youtube.com/watch?v=7nEVwZdmraQ)
-- [It's Hard to be an Egg](https://www.youtube.com/watch?v=r3x9A38HzAk)
+- [New Order - Ceremony Original Version  Lyrics](https://www.youtube.com/watch?v=H5UK40sSo8I)
+- [Minny Pops - Dolphins Spurt](https://www.youtube.com/watch?v=7nEVwZdmraQ)
+- [Its Hard to be an Egg](https://www.youtube.com/watch?v=r3x9A38HzAk)
 - [Crispy Ambulance-Deaf](https://www.youtube.com/watch?v=ArMnpj-KMo8)
 - [Section 25 - Dirty Disco](https://www.youtube.com/watch?v=sEVROLHqI2A)
-- [New Order - Everything's Gone Green](https://www.youtube.com/watch?v=lRgHSxWnhqk)
-- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
-- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
-- [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
-- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
+- [New Order - Everythings Gone Green](https://www.youtube.com/watch?v=lRgHSxWnhqk)
+- [Various  Factory Records - Communications 1978-92 FULL ALBUM 14](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
+- [Various  Factory Records - Communications 1978-92 FULL ALBUM 14](https://www.youtube.com/watch?v=yBJfnZAkkCc)
+- [Various  Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
+- [Various  Factory Records - Communications 1978-92 FULL ALBUM 14](https://www.youtube.com/watch?v=yBJfnZAkkCc)
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
-- [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
+- [Get the Message DNA Mix](https://www.youtube.com/watch?v=vXSFntRia0k)
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
 - [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
-- [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US "Sunshine & Love" CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
+- [Happy Mondays - Sunshine  Love Lion Rock Mix No1 1992 From the US Sunshine  Love CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 
 ## Release Images
 {{< imageGrid >}}

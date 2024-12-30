@@ -74,7 +74,7 @@ Permanent Waves received a mostly positive reception from critics and became the
 ### More Videos
 
 - [Freewill](https://www.youtube.com/watch?v=63idB8aNRPo)
-- [Jacob's Ladder](https://www.youtube.com/watch?v=yYCOTJUwzr8)
+- [Jacobs Ladder](https://www.youtube.com/watch?v=yYCOTJUwzr8)
 - [Entre Nous](https://www.youtube.com/watch?v=C4iF_AOaPhA)
 - [Different Strings](https://www.youtube.com/watch?v=sQfOpWvtQlA)
 - [Natural Science](https://www.youtube.com/watch?v=JXeb5jpdMds)

@@ -48,14 +48,14 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 
 
 ## Videos
-### Six - Mansun (Long Album Version)
-{{< youtube id="xSyl89ltv5Y" title="Six - Mansun (Long Album Version)" >}}<br>
+### Six - Mansun Long Album Version
+{{< youtube id="xSyl89ltv5Y" title="Six - Mansun Long Album Version" >}}<br>
 ### More Videos
 
 - [Negative](https://www.youtube.com/watch?v=UeMEiyURC2o)
 - [Shotgun](https://www.youtube.com/watch?v=-z3JZPQuCZY)
-- [Mansun - Inverse Midas + Anti Everything](https://www.youtube.com/watch?v=Pk6SJb31NBg)
-- [Mansun - Taxloss [John '00' Fleming Remix]](https://www.youtube.com/watch?v=BEuxF6GravM)
+- [Mansun - Inverse Midas  Anti Everything](https://www.youtube.com/watch?v=Pk6SJb31NBg)
+- [Mansun - Taxloss John 00 Fleming Remix](https://www.youtube.com/watch?v=BEuxF6GravM)
 
 ## Release Images
 {{< imageGrid >}}

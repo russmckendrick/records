@@ -52,8 +52,8 @@ Beneath the Eyrie is the seventh studio album by American alternative rock band 
 
 
 ## Videos
-### Pixies - Beneath The Eyrie [FULL ALBUM] ☆☆☆☆☆
-{{< youtube id="HG9AW8lA_qg" title="Pixies - Beneath The Eyrie [FULL ALBUM] ☆☆☆☆☆" >}}<br>
+### Pixies - Beneath The Eyrie FULL ALBUM 
+{{< youtube id="HG9AW8lA_qg" title="Pixies - Beneath The Eyrie FULL ALBUM " >}}<br>
 
 
 ## Release Images

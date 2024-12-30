@@ -58,12 +58,12 @@ styles: []
 
 
 ## Videos
-### Justin Townes Earle - "Cold Comfort" [Official Audio]
-{{< youtube id="Nkarq0Dm5Vo" title="Justin Townes Earle - "Cold Comfort" [Official Audio]" >}}<br>
+### Justin Townes Earle - Cold Comfort Official Audio
+{{< youtube id="Nkarq0Dm5Vo" title="Justin Townes Earle - Cold Comfort Official Audio" >}}<br>
 ### More Videos
 
-- [Justin Townes Earle - "Already Gone" [Official Audio]](https://www.youtube.com/watch?v=qcmodLoOWWY)
-- [Justin Townes Earle - "I Know You" [Official Audio]](https://www.youtube.com/watch?v=THDmaZPQdE4)
+- [Justin Townes Earle - Already Gone Official Audio](https://www.youtube.com/watch?v=qcmodLoOWWY)
+- [Justin Townes Earle - I Know You Official Audio](https://www.youtube.com/watch?v=THDmaZPQdE4)
 
 ## Release Images
 {{< imageGrid >}}

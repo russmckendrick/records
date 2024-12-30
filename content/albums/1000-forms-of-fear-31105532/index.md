@@ -69,17 +69,17 @@ To promote the project, Sia appeared on a number of TV shows, including The Elle
 
 
 ## Videos
-### Sia - 1000 Forms Of Fear / unboxing cd /
-{{< youtube id="HFL3Tihv1JY" title="Sia - 1000 Forms Of Fear / unboxing cd /" >}}<br>
+### Sia - 1000 Forms Of Fear  unboxing cd 
+{{< youtube id="HFL3Tihv1JY" title="Sia - 1000 Forms Of Fear  unboxing cd " >}}<br>
 ### More Videos
 
-- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM)
-- [Sia - Fire Meet Gasoline (by Heidi Klum)](https://www.youtube.com/watch?v=fNdeLSKSZ1M)
-- [Sia - Big Girls Cry (Official Video)](https://www.youtube.com/watch?v=4NhKWZpkw1Q)
-- [Sia - Elastic Heart (Lyrics)](https://www.youtube.com/watch?v=noHygl5CGEY)
-- [Sia - Elastic Heart (Piano Version - Official Audio)](https://www.youtube.com/watch?v=LqD1tLekh_U)
-- [Sia - Hostage (Official Audio)](https://www.youtube.com/watch?v=X4XoRLE8Zd8)
-- [Sia - Chandelier (Acoustic Version)](https://www.youtube.com/watch?v=4naMuYoSOHg)
+- [Sia - Chandelier Official Video](https://www.youtube.com/watch?v=2vjPBrBU-TM)
+- [Sia - Fire Meet Gasoline by Heidi Klum](https://www.youtube.com/watch?v=fNdeLSKSZ1M)
+- [Sia - Big Girls Cry Official Video](https://www.youtube.com/watch?v=4NhKWZpkw1Q)
+- [Sia - Elastic Heart Lyrics](https://www.youtube.com/watch?v=noHygl5CGEY)
+- [Sia - Elastic Heart Piano Version - Official Audio](https://www.youtube.com/watch?v=LqD1tLekh_U)
+- [Sia - Hostage Official Audio](https://www.youtube.com/watch?v=X4XoRLE8Zd8)
+- [Sia - Chandelier Acoustic Version](https://www.youtube.com/watch?v=4naMuYoSOHg)
 
 ## Release Images
 {{< imageGrid >}}

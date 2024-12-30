@@ -45,16 +45,16 @@ As of July 2013, it was certified silver by British Phonographic Industry for 60
 
 
 ## Videos
-### Death In Vegas / Rekkit
-{{< youtube id="EcKgtyEGBSs" title="Death In Vegas / Rekkit" >}}<br>
+### Death In Vegas  Rekkit
+{{< youtube id="EcKgtyEGBSs" title="Death In Vegas  Rekkit" >}}<br>
 ### More Videos
 
 - [Death In Vegas Rocco](https://www.youtube.com/watch?v=OyNYnsvwHoI)
 - [Death in Vegas - I spy](https://www.youtube.com/watch?v=Bmx_a9bt4Ns)
-- [Death In Vegas - Dirt (album version)](https://www.youtube.com/watch?v=apZXyd4Hbw0)
-- [Twist & Crawl (Full Version)](https://www.youtube.com/watch?v=c8YzqO6yRS0)
+- [Death In Vegas - Dirt album version](https://www.youtube.com/watch?v=apZXyd4Hbw0)
+- [Twist  Crawl Full Version](https://www.youtube.com/watch?v=c8YzqO6yRS0)
 - [All That Glitters](https://www.youtube.com/watch?v=QoMvOiPDTpo)
-- [G.B.H.](https://www.youtube.com/watch?v=0WIvqkRgV1M)
+- [GBH](https://www.youtube.com/watch?v=0WIvqkRgV1M)
 - [Opium Shuffle](https://www.youtube.com/watch?v=qzmscAHUTPQ)
 
 ## Release Images

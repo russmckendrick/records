@@ -66,14 +66,14 @@ A distinct character of the same name is also mentioned in the Gospel of Luke in
 
 
 ## Videos
-### David Bowie - Killing a Little Time (Audio)
-{{< youtube id="OpzVxylreME" title="David Bowie - Killing a Little Time (Audio)" >}}<br>
+### David Bowie - Killing a Little Time Audio
+{{< youtube id="OpzVxylreME" title="David Bowie - Killing a Little Time Audio" >}}<br>
 ### More Videos
 
-- [David Bowie - When I Met You (Audio)](https://www.youtube.com/watch?v=5fDy-mRGFkw)
-- [Valentine's Day (Lazarus Cast Recording [Audio)](https://www.youtube.com/watch?v=-ry0PRlbJJc)
-- [Michael Esper - Dirty Boys (Lazarus Cast Recording [Audio])](https://www.youtube.com/watch?v=VlY7uGMoars)
-- [Changes (Lazarus Cast Recording [Audio])](https://www.youtube.com/watch?v=rjhVtA6Vt8M)
+- [David Bowie - When I Met You Audio](https://www.youtube.com/watch?v=5fDy-mRGFkw)
+- [Valentines Day Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=-ry0PRlbJJc)
+- [Michael Esper - Dirty Boys Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=VlY7uGMoars)
+- [Changes Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=rjhVtA6Vt8M)
 
 ## Release Images
 {{< imageGrid >}}

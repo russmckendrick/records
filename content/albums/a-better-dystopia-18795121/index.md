@@ -76,32 +76,32 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 
 
 ## Videos
-### MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records
-{{< youtube id="dC-UwU8xK68" title="MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records" >}}<br>
+### MONSTER MAGNET - Learning To Die Official Lyric Video  Napalm Records
+{{< youtube id="dC-UwU8xK68" title="MONSTER MAGNET - Learning To Die Official Lyric Video  Napalm Records" >}}<br>
 ### More Videos
 
-- [MONSTER MAGNET - Mr. Destroyer (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
-- [MONSTER MAGNET - Motorcycle (Straight to Hell) | Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
-- [MONSTER MAGNET - Solid Gold Hell (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
+- [MONSTER MAGNET - Mr Destroyer Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
+- [MONSTER MAGNET - Motorcycle Straight to Hell  Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
+- [MONSTER MAGNET - Solid Gold Hell Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
 - [The Diamond Mine](https://www.youtube.com/watch?v=B5cw4KMugBc)
-- [MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=dC-UwU8xK68)
-- [MONSTER MAGNET - Mr. Destroyer (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
-- [MONSTER MAGNET - Motorcycle (Straight to Hell) | Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
-- [MONSTER MAGNET - Solid Gold Hell (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
+- [MONSTER MAGNET - Learning To Die Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=dC-UwU8xK68)
+- [MONSTER MAGNET - Mr Destroyer Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
+- [MONSTER MAGNET - Motorcycle Straight to Hell  Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
+- [MONSTER MAGNET - Solid Gold Hell Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
 - [The Diamond Mine](https://www.youtube.com/watch?v=B5cw4KMugBc)
 - [The Diamond Mine](https://www.youtube.com/watch?v=hMW6P2LcBmw)
 - [Born to Go](https://www.youtube.com/watch?v=jucuttyPPQY)
 - [Epitaph for a Head](https://www.youtube.com/watch?v=29ijCdrzRjI)
 - [Solid Gold Hell](https://www.youtube.com/watch?v=EMVQQWadkbg)
 - [Be Forewarned](https://www.youtube.com/watch?v=n-Bb-gtjMb0)
-- [Mr. Destroyer](https://www.youtube.com/watch?v=jzoOiSe1yYo)
+- [Mr Destroyer](https://www.youtube.com/watch?v=jzoOiSe1yYo)
 - [When the Wolf Sits](https://www.youtube.com/watch?v=PjJ8KnWNuTk)
 - [Death](https://www.youtube.com/watch?v=byXV8klxtiE)
 - [Situation](https://www.youtube.com/watch?v=ToYoq70P7HI)
-- [It's Trash](https://www.youtube.com/watch?v=JBUDIPEs6q0)
-- [Motorcycle (Straight to Hell)](https://www.youtube.com/watch?v=3_B5nY6_9Io)
+- [Its Trash](https://www.youtube.com/watch?v=JBUDIPEs6q0)
+- [Motorcycle Straight to Hell](https://www.youtube.com/watch?v=3_B5nY6_9Io)
 - [Learning to Die](https://www.youtube.com/watch?v=bEZZdpQjJnA)
-- [Welcome to the Void (Bonus Track)](https://www.youtube.com/watch?v=GzAXSIiGy-w)
+- [Welcome to the Void Bonus Track](https://www.youtube.com/watch?v=GzAXSIiGy-w)
 
 ## Release Images
 {{< imageGrid >}}

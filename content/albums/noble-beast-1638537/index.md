@@ -60,13 +60,13 @@ The track "Tenuousness" appears in the closing credits for the 2011 movie Crazy,
 {{< youtube id="kSOKpw9Y2GY" title="Oh No" >}}<br>
 ### More Videos
 
-- [Not a Robot, But a Ghost](https://www.youtube.com/watch?v=ixQUkxp9BKQ)
+- [Not a Robot But a Ghost](https://www.youtube.com/watch?v=ixQUkxp9BKQ)
 - [Effigy](https://www.youtube.com/watch?v=cbUbjuuBgxo)
-- [On Ho!](https://www.youtube.com/watch?v=UFOGZ0KFAOA)
+- [On Ho](https://www.youtube.com/watch?v=UFOGZ0KFAOA)
 - [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
 - [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
-- [andrew bird - oh no (new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
-- [Andrew Bird - Natural Disaster [HQ]](https://www.youtube.com/watch?v=Q_lc2g3JifM)
+- [andrew bird - oh no new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
+- [Andrew Bird - Natural Disaster HQ](https://www.youtube.com/watch?v=Q_lc2g3JifM)
 
 ## Release Images
 {{< imageGrid >}}

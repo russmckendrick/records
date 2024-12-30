@@ -52,16 +52,16 @@ The group re-formed in 1993, and continued to perform and record with varying li
 
 
 ## Videos
-### The Specials - A Message To You Rudy (Official Music Video)
-{{< youtube id="cntvEDbagAw" title="The Specials - A Message To You Rudy (Official Music Video)" >}}<br>
+### The Specials - A Message To You Rudy Official Music Video
+{{< youtube id="cntvEDbagAw" title="The Specials - A Message To You Rudy Official Music Video" >}}<br>
 ### More Videos
 
-- [The Specials - Too Much Too Young (2015 Remaster)](https://www.youtube.com/watch?v=PD9NvKKY7W0)
-- [The Specials - Nite Klub (2015 Remaster)](https://www.youtube.com/watch?v=rDzGMIFPk-w)
-- [The Specials - Too Hot (2015 Remaster)](https://www.youtube.com/watch?v=XkGigEMADIc)
+- [The Specials - Too Much Too Young 2015 Remaster](https://www.youtube.com/watch?v=PD9NvKKY7W0)
+- [The Specials - Nite Klub 2015 Remaster](https://www.youtube.com/watch?v=rDzGMIFPk-w)
+- [The Specials - Too Hot 2015 Remaster](https://www.youtube.com/watch?v=XkGigEMADIc)
 - [The Specials - Monkey Man](https://www.youtube.com/watch?v=8miotqEVeSo)
-- [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=xEPfSWk0Lsw)
-- [The Specials - You're Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
+- [The Specials - Youre Wondering Now](https://www.youtube.com/watch?v=xEPfSWk0Lsw)
+- [The Specials - Youre Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
 - [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
 - [The Specials - A Message To You Rudy](https://www.youtube.com/watch?v=cntvEDbagAw)
 - [The Specials - Gangsters](https://www.youtube.com/watch?v=lgCZN1rU5co)

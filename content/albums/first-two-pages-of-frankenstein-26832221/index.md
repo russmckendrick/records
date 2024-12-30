@@ -74,17 +74,17 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 
 
 ## Videos
-### The National - Eucalyptus (Official Video)
-{{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus (Official Video)" >}}<br>
+### The National - Eucalyptus Official Video
+{{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus Official Video" >}}<br>
 ### More Videos
 
-- [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
-- [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
-- [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)
-- [The National - Eucalyptus (Official Video)](https://www.youtube.com/watch?v=MSywJt3VlUM)
-- [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
-- [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
-- [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)
+- [The National - New Order T-Shirt Official Visualizer](https://www.youtube.com/watch?v=QEMabLFhD38)
+- [The National - Tropic Morning News Lyric Video](https://www.youtube.com/watch?v=zdU0qwZKLfU)
+- [The National - Your Mind Is Not Your Friend feat Phoebe Bridgers Official Video](https://www.youtube.com/watch?v=KrCTNeuvmqA)
+- [The National - Eucalyptus Official Video](https://www.youtube.com/watch?v=MSywJt3VlUM)
+- [The National - New Order T-Shirt Official Visualizer](https://www.youtube.com/watch?v=QEMabLFhD38)
+- [The National - Tropic Morning News Lyric Video](https://www.youtube.com/watch?v=zdU0qwZKLfU)
+- [The National - Your Mind Is Not Your Friend feat Phoebe Bridgers Official Video](https://www.youtube.com/watch?v=KrCTNeuvmqA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -60,8 +60,8 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Videos
-### Led Zeppelin - Mothership (Full Album) (2007 Remaster) | Led Zeppelin - Greatest Hits
-{{< youtube id="FDMq9ie0ih0" title="Led Zeppelin - Mothership (Full Album) (2007 Remaster) | Led Zeppelin - Greatest Hits" >}}<br>
+### Led Zeppelin - Mothership Full Album 2007 Remaster  Led Zeppelin - Greatest Hits
+{{< youtube id="FDMq9ie0ih0" title="Led Zeppelin - Mothership Full Album 2007 Remaster  Led Zeppelin - Greatest Hits" >}}<br>
 
 
 ## Release Images

@@ -33,8 +33,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Egg Shaped Fred [Remastered]
-{{< youtube id="MNaFbl0mMMQ" title="Egg Shaped Fred [Remastered]" >}}<br>
+### Egg Shaped Fred Remastered
+{{< youtube id="MNaFbl0mMMQ" title="Egg Shaped Fred Remastered" >}}<br>
 ### More Videos
 
 - [Ski Jump Nose](https://www.youtube.com/watch?v=7po5fCmyUzY)

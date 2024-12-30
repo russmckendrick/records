@@ -50,9 +50,9 @@ Gold Mother received generally positive reviews from music critics, some of whom
 {{< youtube id="xWd9mqC80BU" title="James - Come Home" >}}<br>
 ### More Videos
 
-- [James - How Was It For You?](https://www.youtube.com/watch?v=Lm0IBdp6Y1A)
-- [James: Hang On](https://www.youtube.com/watch?v=YCOD4BLwZU0)
-- [James: Government Walls](https://www.youtube.com/watch?v=p5s9O6qKLLs)
+- [James - How Was It For You](https://www.youtube.com/watch?v=Lm0IBdp6Y1A)
+- [James Hang On](https://www.youtube.com/watch?v=YCOD4BLwZU0)
+- [James Government Walls](https://www.youtube.com/watch?v=p5s9O6qKLLs)
 
 ## Release Images
 {{< imageGrid >}}

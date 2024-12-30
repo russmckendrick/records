@@ -51,19 +51,19 @@ The album was produced in 2015 and released on 15 January 2016.
 
 
 ## Videos
-### The Temperance Movement - Three Bulleits (Official Audio)
-{{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits (Official Audio)" >}}<br>
+### The Temperance Movement - Three Bulleits Official Audio
+{{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits Official Audio" >}}<br>
 ### More Videos
 
-- [The Temperance Movement - Get Yourself Free (Official Audio)](https://www.youtube.com/watch?v=Lza9M-5dL0s)
+- [The Temperance Movement - Get Yourself Free Official Audio](https://www.youtube.com/watch?v=Lza9M-5dL0s)
 - [The Temperance Movement - A Pleasant Peace I Feel](https://www.youtube.com/watch?v=AQomdsAOUTI)
-- [The Temperance Movement - Modern Massacre (Official Audio)](https://www.youtube.com/watch?v=-irzsO3cCFE)
-- [The Temperance Movement - Battle Lines (Official Audio)](https://www.youtube.com/watch?v=jRo-40H_z7M)
-- [The Temperance Movement - White Bear (Official Video)](https://www.youtube.com/watch?v=jus0LDfjKQ8)
-- [The Temperance Movement - Oh Lorraine (Official Audio)](https://www.youtube.com/watch?v=rfHWDQSHW4o)
-- [The Temperance Movement - Magnify (Official Audio)](https://www.youtube.com/watch?v=OqAJsDdNars)
-- [The Temperance Movement - The Sun and Moon Roll Around Too Soon (Official Audio)](https://www.youtube.com/watch?v=_8MZg6H6CCw)
-- [The Temperance Movement - I Hope I'm Not Losing My Mind (Official Audio)](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
+- [The Temperance Movement - Modern Massacre Official Audio](https://www.youtube.com/watch?v=-irzsO3cCFE)
+- [The Temperance Movement - Battle Lines Official Audio](https://www.youtube.com/watch?v=jRo-40H_z7M)
+- [The Temperance Movement - White Bear Official Video](https://www.youtube.com/watch?v=jus0LDfjKQ8)
+- [The Temperance Movement - Oh Lorraine Official Audio](https://www.youtube.com/watch?v=rfHWDQSHW4o)
+- [The Temperance Movement - Magnify Official Audio](https://www.youtube.com/watch?v=OqAJsDdNars)
+- [The Temperance Movement - The Sun and Moon Roll Around Too Soon Official Audio](https://www.youtube.com/watch?v=_8MZg6H6CCw)
+- [The Temperance Movement - I Hope Im Not Losing My Mind Official Audio](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
 
 ## Release Images
 {{< imageGrid >}}

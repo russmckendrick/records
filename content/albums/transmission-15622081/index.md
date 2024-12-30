@@ -37,12 +37,12 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Videos
-### Transmission (2020 Digital Remaster)
-{{< youtube id="6jXyZFOkwjQ" title="Transmission (2020 Digital Remaster)" >}}<br>
+### Transmission 2020 Digital Remaster
+{{< youtube id="6jXyZFOkwjQ" title="Transmission 2020 Digital Remaster" >}}<br>
 ### More Videos
 
-- [Novelty (2020 Digital Remaster)](https://www.youtube.com/watch?v=KykUJ_Ug1t0)
-- [Joy Division - Transmission [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=6dBt3mJtgJc)
+- [Novelty 2020 Digital Remaster](https://www.youtube.com/watch?v=KykUJ_Ug1t0)
+- [Joy Division - Transmission OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=6dBt3mJtgJc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -60,11 +60,11 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 {{< youtube id="noNcHNoWvUM" title="Tell Me Who You Are Today" >}}<br>
 ### More Videos
 
-- [Beth Gibbons - Floating On A Moment (Official Video)](https://www.youtube.com/watch?v=ldrx0eSqV-E)
+- [Beth Gibbons - Floating On A Moment Official Video](https://www.youtube.com/watch?v=ldrx0eSqV-E)
 - [Burden Of Life](https://www.youtube.com/watch?v=fduOWTkj8dA)
-- [Beth Gibbons - Lost Changes (Official Video)](https://www.youtube.com/watch?v=sXRJWVvSGIs)
+- [Beth Gibbons - Lost Changes Official Video](https://www.youtube.com/watch?v=sXRJWVvSGIs)
 - [Rewind](https://www.youtube.com/watch?v=Wq-tnd8dyjM)
-- [Beth Gibbons - Reaching Out (Official Video)](https://www.youtube.com/watch?v=JJeCBRhoXek)
+- [Beth Gibbons - Reaching Out Official Video](https://www.youtube.com/watch?v=JJeCBRhoXek)
 - [Oceans](https://www.youtube.com/watch?v=QEl4L7hKxrY)
 - [For Sale](https://www.youtube.com/watch?v=m1EPvttmEAs)
 - [Beyond The Sun](https://www.youtube.com/watch?v=pHhLTjbYT48)

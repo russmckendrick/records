@@ -57,24 +57,24 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 
 
 ## Videos
-### Alanis Morissette - Hand In My Pocket (Official 4K Music Video)
-{{< youtube id="CUjIY_XxF1g" title="Alanis Morissette - Hand In My Pocket (Official 4K Music Video)" >}}<br>
+### Alanis Morissette - Hand In My Pocket Official 4K Music Video
+{{< youtube id="CUjIY_XxF1g" title="Alanis Morissette - Hand In My Pocket Official 4K Music Video" >}}<br>
 ### More Videos
 
-- [Alanis Morissette - Ironic (Official 4K Music Video)](https://www.youtube.com/watch?v=Jne9t8sHpUc)
-- [Alanis Morissette - You Oughta Know (Official 4K Music Video)](https://www.youtube.com/watch?v=NPcyTyilmYY)
-- [Alanis Morissette - You Learn (Official 4K Music Video)](https://www.youtube.com/watch?v=GFW-WfuX2Dk)
-- [Alanis Morissette - Head Over Feet (Official 4K Music Video)](https://www.youtube.com/watch?v=4iuO49jbovg)
-- [All I Really Want (2015 Remaster)](https://www.youtube.com/watch?v=9t9HQMGfGrY)
-- [Perfect (2015 Remaster)](https://www.youtube.com/watch?v=jZ-_oyHFdeM)
-- [Right Through You (2015 Remaster)](https://www.youtube.com/watch?v=gpCE80nmeTw)
-- [Forgiven (2015 Remaster)](https://www.youtube.com/watch?v=-9DnL-TlyJw)
-- [Head over Feet (2015 Remaster)](https://www.youtube.com/watch?v=r5thPd3hAKs)
-- [Mary Jane (2015 Remaster)](https://www.youtube.com/watch?v=HYHx5NlUlZk)
-- [Ironic (2015 Remaster)](https://www.youtube.com/watch?v=Adu-EfJbuBs)
-- [Not the Doctor (2015 Remaster)](https://www.youtube.com/watch?v=Jpm3SPXeB2I)
-- [Wake Up (2015 Remaster)](https://www.youtube.com/watch?v=JX6FbIkfyro)
-- [You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella) (2015 Remaster)](https://www.youtube.com/watch?v=SIVIzG86_jE)
+- [Alanis Morissette - Ironic Official 4K Music Video](https://www.youtube.com/watch?v=Jne9t8sHpUc)
+- [Alanis Morissette - You Oughta Know Official 4K Music Video](https://www.youtube.com/watch?v=NPcyTyilmYY)
+- [Alanis Morissette - You Learn Official 4K Music Video](https://www.youtube.com/watch?v=GFW-WfuX2Dk)
+- [Alanis Morissette - Head Over Feet Official 4K Music Video](https://www.youtube.com/watch?v=4iuO49jbovg)
+- [All I Really Want 2015 Remaster](https://www.youtube.com/watch?v=9t9HQMGfGrY)
+- [Perfect 2015 Remaster](https://www.youtube.com/watch?v=jZ-_oyHFdeM)
+- [Right Through You 2015 Remaster](https://www.youtube.com/watch?v=gpCE80nmeTw)
+- [Forgiven 2015 Remaster](https://www.youtube.com/watch?v=-9DnL-TlyJw)
+- [Head over Feet 2015 Remaster](https://www.youtube.com/watch?v=r5thPd3hAKs)
+- [Mary Jane 2015 Remaster](https://www.youtube.com/watch?v=HYHx5NlUlZk)
+- [Ironic 2015 Remaster](https://www.youtube.com/watch?v=Adu-EfJbuBs)
+- [Not the Doctor 2015 Remaster](https://www.youtube.com/watch?v=Jpm3SPXeB2I)
+- [Wake Up 2015 Remaster](https://www.youtube.com/watch?v=JX6FbIkfyro)
+- [You Oughta Know Jimmy the Saint Blend  Your House A Capella 2015 Remaster](https://www.youtube.com/watch?v=SIVIzG86_jE)
 
 ## Release Images
 {{< imageGrid >}}

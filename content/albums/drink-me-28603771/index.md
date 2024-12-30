@@ -52,8 +52,8 @@ Drink Me is the first studio album by English Britpop band Salad, released in Ma
 
 
 ## Videos
-### SALAD   Drink the elixir   live french TV canal + Marijne
-{{< youtube id="9ZlgedIL0pA" title="SALAD   Drink the elixir   live french TV canal + Marijne" >}}<br>
+### SALAD   Drink the elixir   live french TV canal  Marijne
+{{< youtube id="9ZlgedIL0pA" title="SALAD   Drink the elixir   live french TV canal  Marijne" >}}<br>
 ### More Videos
 
 - [Drink The Elixir](https://www.youtube.com/watch?v=T8tEwIMeQZY)
@@ -61,9 +61,9 @@ Drink Me is the first studio album by English Britpop band Salad, released in Ma
 - [Motorbike To Heaven](https://www.youtube.com/watch?v=ecU6UDHG_oM)
 - [Your Ma](https://www.youtube.com/watch?v=9o0E2X0yyCo)
 - [Salad - Motorbike To Heaven](https://www.youtube.com/watch?v=oHyye6ADYYA)
-- [Salad - Drink The Elixir (Music Video)](https://www.youtube.com/watch?v=vV8QvsC68lk)
-- [Salad - Granite Statue (Music Video)](https://www.youtube.com/watch?v=6cSX1bBCRwI)
-- [Salad - Your Ma (Music Video) New Audio](https://www.youtube.com/watch?v=TZ1t1mgMYVA)
+- [Salad - Drink The Elixir Music Video](https://www.youtube.com/watch?v=vV8QvsC68lk)
+- [Salad - Granite Statue Music Video](https://www.youtube.com/watch?v=6cSX1bBCRwI)
+- [Salad - Your Ma Music Video New Audio](https://www.youtube.com/watch?v=TZ1t1mgMYVA)
 
 ## Release Images
 {{< imageGrid >}}

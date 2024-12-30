@@ -61,17 +61,17 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 
 
 ## Videos
-### Black Sabbath - Paranoid (Cassette, 1970)
-{{< youtube id="-sbzdOaF8PA" title="Black Sabbath - Paranoid (Cassette, 1970)" >}}<br>
+### Black Sabbath - Paranoid Cassette 1970
+{{< youtube id="-sbzdOaF8PA" title="Black Sabbath - Paranoid Cassette 1970" >}}<br>
 ### More Videos
 
-- [BLACK SABBATH - Paranoid (Full Album)](https://www.youtube.com/watch?v=fWvKvOViM3g)
+- [BLACK SABBATH - Paranoid Full Album](https://www.youtube.com/watch?v=fWvKvOViM3g)
 - [War Pigs](https://www.youtube.com/watch?v=bc5Nk1DXyEY)
-- [Black Sabbath - Paranoid (Official Audio)](https://www.youtube.com/watch?v=BOTIIw76qiE)
-- [Planet Caravan (2012 - Remaster)](https://www.youtube.com/watch?v=bm2N2nHqITY)
+- [Black Sabbath - Paranoid Official Audio](https://www.youtube.com/watch?v=BOTIIw76qiE)
+- [Planet Caravan 2012 - Remaster](https://www.youtube.com/watch?v=bm2N2nHqITY)
 - [Iron Man](https://www.youtube.com/watch?v=F01UTYg79KY)
 - [Electric Funeral](https://www.youtube.com/watch?v=2wJ-NBeEDIY)
-- [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=dgPv9_sPiME)
+- [Hand of Doom 2012 - Remaster](https://www.youtube.com/watch?v=dgPv9_sPiME)
 - [Rat Salad](https://www.youtube.com/watch?v=S2H5hzOMhIs)
 - [Fairies Wear Boots](https://www.youtube.com/watch?v=8e1W2O5jDPI)
 

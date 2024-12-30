@@ -45,12 +45,12 @@ Among the songs recorded during the album sessions were two covers of tracks ori
 
 
 ## Videos
-### Bad Company - Bad Company (Official Audio)
-{{< youtube id="JXQJpyQBShU" title="Bad Company - Bad Company (Official Audio)" >}}<br>
+### Bad Company - Bad Company Official Audio
+{{< youtube id="JXQJpyQBShU" title="Bad Company - Bad Company Official Audio" >}}<br>
 ### More Videos
 
-- [Bad Company - Bad Company (Official Audio)](https://www.youtube.com/watch?v=JXQJpyQBShU)
-- [Bad Company - Bad Company (Official Audio)](https://www.youtube.com/watch?v=JXQJpyQBShU)
+- [Bad Company - Bad Company Official Audio](https://www.youtube.com/watch?v=JXQJpyQBShU)
+- [Bad Company - Bad Company Official Audio](https://www.youtube.com/watch?v=JXQJpyQBShU)
 
 ## Release Images
 {{< imageGrid >}}

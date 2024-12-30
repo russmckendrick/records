@@ -62,31 +62,31 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 
 
 ## Videos
-### Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)
-{{< youtube id="Ha5VGMaG4E4" title="Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)" >}}<br>
+### Nick Cave and The Bad Seeds - Spinning Song Lyric Video
+{{< youtube id="Ha5VGMaG4E4" title="Nick Cave and The Bad Seeds - Spinning Song Lyric Video" >}}<br>
 ### More Videos
 
-- [Nick Cave and The Bad Seeds - Bright Horses (Lyric Video)](https://www.youtube.com/watch?v=cfKYImFP_Pw)
-- [Nick Cave and The Bad Seeds - Waiting For You (Lyric Video)](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
-- [Nick Cave and The Bad Seeds - Night Raid (Lyric Video)](https://www.youtube.com/watch?v=pdhF0RhixRA)
-- [Nick Cave and The Bad Seeds - Sun Forest (Lyric Video)](https://www.youtube.com/watch?v=jxqdO0SO18M)
-- [Nick Cave and The Bad Seeds - Galleon Ship (Lyric Video)](https://www.youtube.com/watch?v=4DjshyO_uT0)
-- [Nick Cave and The Bad Seeds - Ghosteen Speaks (Lyric Video)](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
-- [Nick Cave and The Bad Seeds - Leviathan (Lyric Video)](https://www.youtube.com/watch?v=H3M0mkmDL1o)
-- [Nick Cave and The Bad Seeds - Ghosteen (Lyric Video)](https://www.youtube.com/watch?v=7IE5A2_LV6I)
-- [Nick Cave and The Bad Seeds - Fireflies (Lyric Video)](https://www.youtube.com/watch?v=PDm1w067hdU)
-- [Nick Cave and The Bad Seeds - Hollywood (Lyric Video)](https://www.youtube.com/watch?v=MfDx09Ko8G4)
-- [Nick Cave and The Bad Seeds - Spinning Song (Lyric Video)](https://www.youtube.com/watch?v=Ha5VGMaG4E4)
-- [Nick Cave and The Bad Seeds - Bright Horses (Lyric Video)](https://www.youtube.com/watch?v=cfKYImFP_Pw)
-- [Nick Cave and The Bad Seeds - Waiting For You (Lyric Video)](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
-- [Nick Cave and The Bad Seeds - Night Raid (Lyric Video)](https://www.youtube.com/watch?v=pdhF0RhixRA)
-- [Nick Cave and The Bad Seeds - Sun Forest (Lyric Video)](https://www.youtube.com/watch?v=jxqdO0SO18M)
-- [Nick Cave and The Bad Seeds - Galleon Ship (Lyric Video)](https://www.youtube.com/watch?v=4DjshyO_uT0)
-- [Nick Cave and The Bad Seeds - Ghosteen Speaks (Lyric Video)](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
-- [Nick Cave and The Bad Seeds - Leviathan (Lyric Video)](https://www.youtube.com/watch?v=H3M0mkmDL1o)
-- [Nick Cave and The Bad Seeds - Ghosteen (Lyric Video)](https://www.youtube.com/watch?v=7IE5A2_LV6I)
-- [Nick Cave and The Bad Seeds - Fireflies (Lyric Video)](https://www.youtube.com/watch?v=PDm1w067hdU)
-- [Nick Cave and The Bad Seeds - Hollywood (Lyric Video)](https://www.youtube.com/watch?v=MfDx09Ko8G4)
+- [Nick Cave and The Bad Seeds - Bright Horses Lyric Video](https://www.youtube.com/watch?v=cfKYImFP_Pw)
+- [Nick Cave and The Bad Seeds - Waiting For You Lyric Video](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
+- [Nick Cave and The Bad Seeds - Night Raid Lyric Video](https://www.youtube.com/watch?v=pdhF0RhixRA)
+- [Nick Cave and The Bad Seeds - Sun Forest Lyric Video](https://www.youtube.com/watch?v=jxqdO0SO18M)
+- [Nick Cave and The Bad Seeds - Galleon Ship Lyric Video](https://www.youtube.com/watch?v=4DjshyO_uT0)
+- [Nick Cave and The Bad Seeds - Ghosteen Speaks Lyric Video](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
+- [Nick Cave and The Bad Seeds - Leviathan Lyric Video](https://www.youtube.com/watch?v=H3M0mkmDL1o)
+- [Nick Cave and The Bad Seeds - Ghosteen Lyric Video](https://www.youtube.com/watch?v=7IE5A2_LV6I)
+- [Nick Cave and The Bad Seeds - Fireflies Lyric Video](https://www.youtube.com/watch?v=PDm1w067hdU)
+- [Nick Cave and The Bad Seeds - Hollywood Lyric Video](https://www.youtube.com/watch?v=MfDx09Ko8G4)
+- [Nick Cave and The Bad Seeds - Spinning Song Lyric Video](https://www.youtube.com/watch?v=Ha5VGMaG4E4)
+- [Nick Cave and The Bad Seeds - Bright Horses Lyric Video](https://www.youtube.com/watch?v=cfKYImFP_Pw)
+- [Nick Cave and The Bad Seeds - Waiting For You Lyric Video](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
+- [Nick Cave and The Bad Seeds - Night Raid Lyric Video](https://www.youtube.com/watch?v=pdhF0RhixRA)
+- [Nick Cave and The Bad Seeds - Sun Forest Lyric Video](https://www.youtube.com/watch?v=jxqdO0SO18M)
+- [Nick Cave and The Bad Seeds - Galleon Ship Lyric Video](https://www.youtube.com/watch?v=4DjshyO_uT0)
+- [Nick Cave and The Bad Seeds - Ghosteen Speaks Lyric Video](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
+- [Nick Cave and The Bad Seeds - Leviathan Lyric Video](https://www.youtube.com/watch?v=H3M0mkmDL1o)
+- [Nick Cave and The Bad Seeds - Ghosteen Lyric Video](https://www.youtube.com/watch?v=7IE5A2_LV6I)
+- [Nick Cave and The Bad Seeds - Fireflies Lyric Video](https://www.youtube.com/watch?v=PDm1w067hdU)
+- [Nick Cave and The Bad Seeds - Hollywood Lyric Video](https://www.youtube.com/watch?v=MfDx09Ko8G4)
 
 ## Release Images
 {{< imageGrid >}}

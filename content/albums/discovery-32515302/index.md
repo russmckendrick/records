@@ -52,23 +52,23 @@ styles: ["House"]
 
 
 ## Videos
-### Daft Punk - One More Time (Official Video)
-{{< youtube id="FGBhQbmPwH8" title="Daft Punk - One More Time (Official Video)" >}}<br>
+### Daft Punk - One More Time Official Video
+{{< youtube id="FGBhQbmPwH8" title="Daft Punk - One More Time Official Video" >}}<br>
 ### More Videos
 
-- [Daft Punk - Aerodynamic (Official Video)](https://www.youtube.com/watch?v=L93-7vRfxNs)
-- [Daft Punk - Digital Love (Official Video)](https://www.youtube.com/watch?v=FxzBvqY5PP0)
-- [Daft Punk - Harder, Better, Faster, Stronger (Official Video)](https://www.youtube.com/watch?v=gAjR4_CbPpQ)
-- [Daft Punk - Crescendolls (Official Video)](https://www.youtube.com/watch?v=6S3ISlvlEbs)
-- [Daft Punk - Nightvision (Official Video)](https://www.youtube.com/watch?v=xBTqRd09y3E)
-- [Daft Punk - Superheroes (Official Video)](https://www.youtube.com/watch?v=bRt5z880CFY)
-- [Daft Punk - High Life (Official Video)](https://www.youtube.com/watch?v=HoQN7K6HdRw)
-- [Daft Punk - Something About Us (Official Video)](https://www.youtube.com/watch?v=sOS9aOIXPEk)
-- [Daft Punk - Voyager (Official Video)](https://www.youtube.com/watch?v=CqZgd6-xQl8)
-- [Daft Punk - Veridis Quo (Official Video)](https://www.youtube.com/watch?v=HhZaHf8RP6g)
-- [Daft Punk - Short Circuit (Official Video)](https://www.youtube.com/watch?v=1-yzqgwTVi8)
-- [Daft Punk - Face to Face (Official Video)](https://www.youtube.com/watch?v=dKJfJMMsqX4)
-- [Daft Punk - Too Long (Official Video)](https://www.youtube.com/watch?v=Z6_ZNW1DACE)
+- [Daft Punk - Aerodynamic Official Video](https://www.youtube.com/watch?v=L93-7vRfxNs)
+- [Daft Punk - Digital Love Official Video](https://www.youtube.com/watch?v=FxzBvqY5PP0)
+- [Daft Punk - Harder Better Faster Stronger Official Video](https://www.youtube.com/watch?v=gAjR4_CbPpQ)
+- [Daft Punk - Crescendolls Official Video](https://www.youtube.com/watch?v=6S3ISlvlEbs)
+- [Daft Punk - Nightvision Official Video](https://www.youtube.com/watch?v=xBTqRd09y3E)
+- [Daft Punk - Superheroes Official Video](https://www.youtube.com/watch?v=bRt5z880CFY)
+- [Daft Punk - High Life Official Video](https://www.youtube.com/watch?v=HoQN7K6HdRw)
+- [Daft Punk - Something About Us Official Video](https://www.youtube.com/watch?v=sOS9aOIXPEk)
+- [Daft Punk - Voyager Official Video](https://www.youtube.com/watch?v=CqZgd6-xQl8)
+- [Daft Punk - Veridis Quo Official Video](https://www.youtube.com/watch?v=HhZaHf8RP6g)
+- [Daft Punk - Short Circuit Official Video](https://www.youtube.com/watch?v=1-yzqgwTVi8)
+- [Daft Punk - Face to Face Official Video](https://www.youtube.com/watch?v=dKJfJMMsqX4)
+- [Daft Punk - Too Long Official Video](https://www.youtube.com/watch?v=Z6_ZNW1DACE)
 
 ## Release Images
 {{< imageGrid >}}

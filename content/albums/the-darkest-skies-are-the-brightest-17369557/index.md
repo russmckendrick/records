@@ -51,12 +51,12 @@ The Darkest Skies Are the Brightest is the third solo studio album by Anneke van
 
 
 ## Videos
-### ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)
-{{< youtube id="WMuysO4TpWw" title="ANNEKE VAN GIERSBERGEN - My Promise (OFFICIAL VIDEO)" >}}<br>
+### ANNEKE VAN GIERSBERGEN - My Promise OFFICIAL VIDEO
+{{< youtube id="WMuysO4TpWw" title="ANNEKE VAN GIERSBERGEN - My Promise OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [ANNEKE VAN GIERSBERGEN - Hurricane (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=T8PA4w1iSug)
-- [ANNEKE VAN GIERSBERGEN - I Saw A Car (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=fCfoKtDs0XE)
+- [ANNEKE VAN GIERSBERGEN - Hurricane OFFICIAL VIDEO](https://www.youtube.com/watch?v=T8PA4w1iSug)
+- [ANNEKE VAN GIERSBERGEN - I Saw A Car OFFICIAL VIDEO](https://www.youtube.com/watch?v=fCfoKtDs0XE)
 
 ## Release Images
 {{< imageGrid >}}

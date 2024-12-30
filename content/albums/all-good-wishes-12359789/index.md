@@ -37,8 +37,8 @@ styles: ["Indie Pop"]
 
 
 ## Videos
-### Gulp - Search For Your Love (Official Video)
-{{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love (Official Video)" >}}<br>
+### Gulp - Search For Your Love Official Video
+{{< youtube id="Vr3Ib8vomG0" title="Gulp - Search For Your Love Official Video" >}}<br>
 ### More Videos
 
 - [Gulp - I Dream Of Your Song](https://www.youtube.com/watch?v=DpHY-R70mw4)

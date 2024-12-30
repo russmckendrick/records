@@ -44,12 +44,12 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 
 
 ## Videos
-### Split Enz - One Step Ahead (Official Video)
-{{< youtube id="9bjIhxgxbz4" title="Split Enz - One Step Ahead (Official Video)" >}}<br>
+### Split Enz - One Step Ahead Official Video
+{{< youtube id="9bjIhxgxbz4" title="Split Enz - One Step Ahead Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - I Don't Wanna Dance](https://www.youtube.com/watch?v=uy4kk1MZKHI)
-- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - I Dont Wanna Dance](https://www.youtube.com/watch?v=uy4kk1MZKHI)
+- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
 - [Split Enz - Iris](https://www.youtube.com/watch?v=pF72BXV2quw)
 - [Split Enz - Hard Act To Follow](https://www.youtube.com/watch?v=AGTSUeyt-nY)
 

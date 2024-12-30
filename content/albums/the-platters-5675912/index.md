@@ -48,7 +48,7 @@ The Platters are an American vocal group formed in 1952. They are one of the mos
 ### More Videos
 
 - [Bewitched](https://www.youtube.com/watch?v=_Ft_jfUjceQ)
-- [The Platters - Bewitched, Bothered, and Bewildered](https://www.youtube.com/watch?v=AeB7eUDIZro)
+- [The Platters - Bewitched Bothered and Bewildered](https://www.youtube.com/watch?v=AeB7eUDIZro)
 
 ## Release Images
 {{< imageGrid >}}

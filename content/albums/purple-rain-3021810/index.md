@@ -56,17 +56,17 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 
 
 ## Videos
-### Prince & The Revolution - Let's Go Crazy (Official Music Video)
-{{< youtube id="aXJhDltzYVQ" title="Prince & The Revolution - Let's Go Crazy (Official Music Video)" >}}<br>
+### Prince  The Revolution - Lets Go Crazy Official Music Video
+{{< youtube id="aXJhDltzYVQ" title="Prince  The Revolution - Lets Go Crazy Official Music Video" >}}<br>
 ### More Videos
 
 - [Take Me with U](https://www.youtube.com/watch?v=HHmrJv4e6pE)
 - [The Beautiful Ones](https://www.youtube.com/watch?v=oK1Jl8tLzls)
 - [Computer Blue](https://www.youtube.com/watch?v=wyKeCYYzIRk)
 - [Darling Nikki](https://www.youtube.com/watch?v=Kawlt8Ncll0)
-- [Prince & The Revolution - When Doves Cry (Extended Version) (Official Music Video)](https://www.youtube.com/watch?v=IUc0R8bbWQE)
+- [Prince  The Revolution - When Doves Cry Extended Version Official Music Video](https://www.youtube.com/watch?v=IUc0R8bbWQE)
 - [I Would Die 4 U](https://www.youtube.com/watch?v=iGCIdHrRXW0)
-- [Baby I'm a Star](https://www.youtube.com/watch?v=NEvxLjxkEz8)
+- [Baby Im a Star](https://www.youtube.com/watch?v=NEvxLjxkEz8)
 - [Purple Rain](https://www.youtube.com/watch?v=347vCib_lMs)
 
 ## Release Images

@@ -45,17 +45,17 @@ First single "85 Videos" was released together with a music video on 16 February
 
 
 ## Videos
-### Mew - Carry Me To Safety (Official Audio)
-{{< youtube id="6w8SpxnhKuI" title="Mew - Carry Me To Safety (Official Audio)" >}}<br>
+### Mew - Carry Me To Safety Official Audio
+{{< youtube id="6w8SpxnhKuI" title="Mew - Carry Me To Safety Official Audio" >}}<br>
 ### More Videos
 
-- [Mew - 85 Videos (Official Video)](https://www.youtube.com/watch?v=m6gFfsdIDU0)
+- [Mew - 85 Videos Official Video](https://www.youtube.com/watch?v=m6gFfsdIDU0)
 - [Mew - Twist Quest](https://www.youtube.com/watch?v=XHIEEvJMZBI)
-- [New Album 'Visuals'](https://www.youtube.com/watch?v=hSqJNfzTkMo)
-- [Mew - Carry Me To Safety (Official Audio)](https://www.youtube.com/watch?v=6w8SpxnhKuI)
-- [Mew - 85 Videos (Official Video)](https://www.youtube.com/watch?v=m6gFfsdIDU0)
+- [New Album Visuals](https://www.youtube.com/watch?v=hSqJNfzTkMo)
+- [Mew - Carry Me To Safety Official Audio](https://www.youtube.com/watch?v=6w8SpxnhKuI)
+- [Mew - 85 Videos Official Video](https://www.youtube.com/watch?v=m6gFfsdIDU0)
 - [Mew - Twist Quest](https://www.youtube.com/watch?v=XHIEEvJMZBI)
-- [New Album 'Visuals'](https://www.youtube.com/watch?v=hSqJNfzTkMo)
+- [New Album Visuals](https://www.youtube.com/watch?v=hSqJNfzTkMo)
 
 ## Release Images
 {{< imageGrid >}}

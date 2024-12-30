@@ -61,14 +61,14 @@ Version 2.0 was a commercial success, topping the charts in the United Kingdom, 
 
 
 ## Videos
-### G̲a̲rbage - V̲e̲rsion 2̲.0 [FULL ALBUM] ☆☆☆☆☆
-{{< youtube id="g8vKFHGSXBQ" title="G̲a̲rbage - V̲e̲rsion 2̲.0 [FULL ALBUM] ☆☆☆☆☆" >}}<br>
+### Garbage - Version 20 FULL ALBUM 
+{{< youtube id="g8vKFHGSXBQ" title="Garbage - Version 20 FULL ALBUM " >}}<br>
 ### More Videos
 
-- [Garbage - I Think I'm Paranoid](https://www.youtube.com/watch?v=ypr18UmxOas)
-- [Garbage - Nulle Part Ailleurs, Canal+, France 1998](https://www.youtube.com/watch?v=AQRcgRmO6wM)
-- [Garbage - I Think I'm Paranoid + Push It [Nulle part ailleurs 1998]](https://www.youtube.com/watch?v=r4RPKqo18J4)
-- [Garbage - Temptation Waits (1998) #Pablo #Porcuna](https://www.youtube.com/watch?v=iynW2cCIiaQ)
+- [Garbage - I Think Im Paranoid](https://www.youtube.com/watch?v=ypr18UmxOas)
+- [Garbage - Nulle Part Ailleurs Canal France 1998](https://www.youtube.com/watch?v=AQRcgRmO6wM)
+- [Garbage - I Think Im Paranoid  Push It Nulle part ailleurs 1998](https://www.youtube.com/watch?v=r4RPKqo18J4)
+- [Garbage - Temptation Waits 1998 Pablo Porcuna](https://www.youtube.com/watch?v=iynW2cCIiaQ)
 
 ## Release Images
 {{< imageGrid >}}

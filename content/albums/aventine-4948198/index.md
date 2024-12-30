@@ -74,18 +74,18 @@ Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply 
 {{< youtube id="bbU31JLtlug" title="Agnes Obel - Chord Left" >}}<br>
 ### More Videos
 
-- [Agnes Obel - Fuel To Fire (Official Video)](https://www.youtube.com/watch?v=hqZGvkF00DI)
-- [Agnes Obel - Dorian (Official Video)](https://www.youtube.com/watch?v=wZN1HKn3Qus)
-- [Agnes Obel - Aventine (Official Video)](https://www.youtube.com/watch?v=VBLCqJNPoBw)
+- [Agnes Obel - Fuel To Fire Official Video](https://www.youtube.com/watch?v=hqZGvkF00DI)
+- [Agnes Obel - Dorian Official Video](https://www.youtube.com/watch?v=wZN1HKn3Qus)
+- [Agnes Obel - Aventine Official Video](https://www.youtube.com/watch?v=VBLCqJNPoBw)
 - [Agnes Obel - Run Cried The Crawling](https://www.youtube.com/watch?v=HpFAPApnzGE)
 - [Agnes Obel - Tokka](https://www.youtube.com/watch?v=bAR-7YatJxY)
-- [Agnes Obel - The Curse (Official Video)](https://www.youtube.com/watch?v=6h9XUYj96ho)
+- [Agnes Obel - The Curse Official Video](https://www.youtube.com/watch?v=6h9XUYj96ho)
 - [Agnes Obel - Pass Them By](https://www.youtube.com/watch?v=ELfqgI-X3yA)
 - [Agnes Obel - Words Are Dead](https://www.youtube.com/watch?v=hZpn7Cde1w8)
 - [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
 - [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
-- [Agnes Obel - September Song (Official Audio)](https://www.youtube.com/watch?v=wIhfU8Woci4)
-- [Agnes Obel - Fuel To Fire (David Lynch Remix) (Official Audio)](https://www.youtube.com/watch?v=bNV28kwDWHA)
+- [Agnes Obel - September Song Official Audio](https://www.youtube.com/watch?v=wIhfU8Woci4)
+- [Agnes Obel - Fuel To Fire David Lynch Remix Official Audio](https://www.youtube.com/watch?v=bNV28kwDWHA)
 
 ## Release Images
 {{< imageGrid >}}

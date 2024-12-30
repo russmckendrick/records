@@ -44,13 +44,13 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 
 
 ## Videos
-### Let's Go Away For A While (Mono)
-{{< youtube id="A36i97o-VSU" title="Let's Go Away For A While (Mono)" >}}<br>
+### Lets Go Away For A While Mono
+{{< youtube id="A36i97o-VSU" title="Lets Go Away For A While Mono" >}}<br>
 ### More Videos
 
-- [Let's Go Away For Awhile](https://www.youtube.com/watch?v=SEoKf52h9ok)
-- [GOOD VIBRATIONS (HD) THE BEACH BOYS](https://www.youtube.com/watch?v=mdt0SOqPJcg)
-- [The Beach Boys - Good Vibrations - 1967 (Vinyle 45 Tours)](https://www.youtube.com/watch?v=CyO4nd8WsDE)
+- [Lets Go Away For Awhile](https://www.youtube.com/watch?v=SEoKf52h9ok)
+- [GOOD VIBRATIONS HD THE BEACH BOYS](https://www.youtube.com/watch?v=mdt0SOqPJcg)
+- [The Beach Boys - Good Vibrations - 1967 Vinyle 45 Tours](https://www.youtube.com/watch?v=CyO4nd8WsDE)
 
 ## Release Images
 {{< imageGrid >}}

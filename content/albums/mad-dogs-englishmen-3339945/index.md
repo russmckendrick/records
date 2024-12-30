@@ -51,11 +51,11 @@ styles: ["Blues Rock", "Classic Rock"]
 
 
 ## Videos
-### Joe Cocker  - Mad Dogs & Englishmen - Space Captain
-{{< youtube id="-407iUd_pFY" title="Joe Cocker  - Mad Dogs & Englishmen - Space Captain" >}}<br>
+### Joe Cocker  - Mad Dogs  Englishmen - Space Captain
+{{< youtube id="-407iUd_pFY" title="Joe Cocker  - Mad Dogs  Englishmen - Space Captain" >}}<br>
 ### More Videos
 
-- [Joe Cocker - Mad Dogs & Englishmen - With A Little Help From My Friends](https://www.youtube.com/watch?v=n6splB7acXc)
+- [Joe Cocker - Mad Dogs  Englishmen - With A Little Help From My Friends](https://www.youtube.com/watch?v=n6splB7acXc)
 
 ## Release Images
 {{< imageGrid >}}

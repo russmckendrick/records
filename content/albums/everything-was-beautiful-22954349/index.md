@@ -46,16 +46,16 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 
 
 ## Videos
-### Spiritualized - Always Together With You (Official Music Video)
-{{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You (Official Music Video)" >}}<br>
+### Spiritualized - Always Together With You Official Music Video
+{{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You Official Music Video" >}}<br>
 ### More Videos
 
-- [Spiritualized - Best Thing You Never Had (The D Song) (Official Audio)](https://www.youtube.com/watch?v=y207itTGDvs)
-- [Spiritualized - Let It Bleed (For Iggy) (Official Audio)](https://www.youtube.com/watch?v=Bg_s5hPboEE)
-- [Spiritualized - Crazy (Official Audio)](https://www.youtube.com/watch?v=DsAcPAE3moM)
-- [Spiritualized  - Mainline Song (Official Audio)](https://www.youtube.com/watch?v=ie46jOrQ2Hk)
-- [Spiritualized - The A Song (Laid In Your Arms) (Official Audio)](https://www.youtube.com/watch?v=6EsC1-mQazw)
-- [I'm Coming Home Again](https://www.youtube.com/watch?v=SCLpNGTpybc)
+- [Spiritualized - Best Thing You Never Had The D Song Official Audio](https://www.youtube.com/watch?v=y207itTGDvs)
+- [Spiritualized - Let It Bleed For Iggy Official Audio](https://www.youtube.com/watch?v=Bg_s5hPboEE)
+- [Spiritualized - Crazy Official Audio](https://www.youtube.com/watch?v=DsAcPAE3moM)
+- [Spiritualized  - Mainline Song Official Audio](https://www.youtube.com/watch?v=ie46jOrQ2Hk)
+- [Spiritualized - The A Song Laid In Your Arms Official Audio](https://www.youtube.com/watch?v=6EsC1-mQazw)
+- [Im Coming Home Again](https://www.youtube.com/watch?v=SCLpNGTpybc)
 
 ## Release Images
 {{< imageGrid >}}

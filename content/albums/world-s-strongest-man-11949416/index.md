@@ -43,17 +43,17 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 
 
 ## Videos
-### Gaz Coombes - Deep Pockets (Audio)
-{{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets (Audio)" >}}<br>
+### Gaz Coombes - Deep Pockets Audio
+{{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets Audio" >}}<br>
 ### More Videos
 
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
-- [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
-- [GAZ COOMBES - Oxygen Mask (World's Strongest Man, 2018)](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
-- [Gaz Coombes - Deep Pockets (Audio)](https://www.youtube.com/watch?v=Ui5nb0wLY74)
+- [Gaz Coombes - Wounded Egos Official Video](https://www.youtube.com/watch?v=kn_qMEo8RD0)
+- [GAZ COOMBES - Oxygen Mask Worlds Strongest Man 2018](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
+- [Gaz Coombes - Deep Pockets Audio](https://www.youtube.com/watch?v=Ui5nb0wLY74)
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
-- [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
-- [GAZ COOMBES - Oxygen Mask (World's Strongest Man, 2018)](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
+- [Gaz Coombes - Wounded Egos Official Video](https://www.youtube.com/watch?v=kn_qMEo8RD0)
+- [GAZ COOMBES - Oxygen Mask Worlds Strongest Man 2018](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
 
 ## Release Images
 {{< imageGrid >}}

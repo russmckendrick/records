@@ -43,7 +43,7 @@ styles: ["Prog Rock"]
 {{< youtube id="tkgIDo3z91U" title="ORk 2017 Soul of an Octopus" >}}<br>
 ### More Videos
 
-- [O.R.k. -  Too Numb](https://www.youtube.com/watch?v=sOunZMWmtc8)
+- [ORk -  Too Numb](https://www.youtube.com/watch?v=sOunZMWmtc8)
 
 ## Release Images
 {{< imageGrid >}}

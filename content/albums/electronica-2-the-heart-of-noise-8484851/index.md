@@ -57,27 +57,27 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### 𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌
-{{< youtube id="xMIqsjtznek" title="𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌" >}}<br>
+### 𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌
+{{< youtube id="xMIqsjtznek" title="𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌" >}}<br>
 ### More Videos
 
-- [The Heart of Noise, Pt. 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
-- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [The Heart of Noise Pt 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
+- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
 - [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
 - [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
 - [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
-- [Jeff Mills & Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
-- [(CLIP🎼 Stop motion) Jean-Michel Jarre Ft Jeff Mills "The Architect" - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
-- [Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)](https://www.youtube.com/watch?v=RmLEsmmnsGw)
-- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
-- [𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌](https://www.youtube.com/watch?v=xMIqsjtznek)
-- [The Heart of Noise, Pt. 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
-- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [Jeff Mills  Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
+- [CLIP Stop motion Jean-Michel Jarre Ft Jeff Mills The Architect - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
+- [Jean-Michel Jarre - The Heart of Noise The Origin Official Music Video](https://www.youtube.com/watch?v=RmLEsmmnsGw)
+- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌](https://www.youtube.com/watch?v=xMIqsjtznek)
+- [The Heart of Noise Pt 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
+- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
 - [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
 - [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
 - [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
-- [Jeff Mills & Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
-- [(CLIP🎼 Stop motion) Jean-Michel Jarre Ft Jeff Mills "The Architect" - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
+- [Jeff Mills  Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
+- [CLIP Stop motion Jean-Michel Jarre Ft Jeff Mills The Architect - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
 
 ## Release Images
 {{< imageGrid >}}

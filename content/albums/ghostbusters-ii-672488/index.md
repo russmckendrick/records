@@ -37,17 +37,17 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 
 
 ## Videos
-### Bobby Brown On Our Own (Ghostbusters II Soundtrack)
-{{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own (Ghostbusters II Soundtrack)" >}}<br>
+### Bobby Brown On Our Own Ghostbusters II Soundtrack
+{{< youtube id="LvPlfUDAnLU" title="Bobby Brown On Our Own Ghostbusters II Soundtrack" >}}<br>
 ### More Videos
 
-- [On Our Own (From "Ghostbusters II" Soundtrack)](https://www.youtube.com/watch?v=2_S94_nx5Ao)
-- [Supernatural (From "Ghostbusters II" Soundtrack)](https://www.youtube.com/watch?v=XevZm9GA0BM)
+- [On Our Own From Ghostbusters II Soundtrack](https://www.youtube.com/watch?v=2_S94_nx5Ao)
+- [Supernatural From Ghostbusters II Soundtrack](https://www.youtube.com/watch?v=XevZm9GA0BM)
 - [The Promised Land](https://www.youtube.com/watch?v=OvHIU98qLGU)
-- [We're Back (From "Ghostbusters II" Soundtrack)](https://www.youtube.com/watch?v=SQc89-YoSKo)
+- [Were Back From Ghostbusters II Soundtrack](https://www.youtube.com/watch?v=SQc89-YoSKo)
 - [Spirit](https://www.youtube.com/watch?v=2-IGR5mwRUE)
 - [Run DMC-Ghostbusters Rap](https://www.youtube.com/watch?v=t5XtpHisqCY)
-- [Flesh 'N Blood](https://www.youtube.com/watch?v=YMETBe7xmyk)
+- [Flesh N Blood](https://www.youtube.com/watch?v=YMETBe7xmyk)
 - [Love Is A Cannibal](https://www.youtube.com/watch?v=s848H1SuU9E)
 - [Flip City](https://www.youtube.com/watch?v=pahcnB6FTLk)
 - [Higher And Higher](https://www.youtube.com/watch?v=4hVyALxFzJ4)

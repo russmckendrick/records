@@ -65,13 +65,13 @@ Although not originally well-received, the record is now widely praised by both 
 
 
 ## Videos
-### Whatever Happened to Pong?
-{{< youtube id="9Z6Bt89Y3-4" title="Whatever Happened to Pong?" >}}<br>
+### Whatever Happened to Pong
+{{< youtube id="9Z6Bt89Y3-4" title="Whatever Happened to Pong" >}}<br>
 ### More Videos
 
 - [Frank Black - Headache](https://www.youtube.com/watch?v=ytQhL0-3FtM)
 - [Thalassocracy](https://www.youtube.com/watch?v=deWB1OvlFS0)
-- [[I Want to Live on an] Abstract Plain](https://www.youtube.com/watch?v=X5e8MqYvg9Y)
+- [I Want to Live on an Abstract Plain](https://www.youtube.com/watch?v=X5e8MqYvg9Y)
 - [Calistan](https://www.youtube.com/watch?v=wAGm2pAWxFo)
 - [The Vanishing Spies](https://www.youtube.com/watch?v=cAVKfAoz2eM)
 - [Speedy Marie](https://www.youtube.com/watch?v=kCPCspkreSI)
@@ -88,12 +88,12 @@ Although not originally well-received, the record is now widely praised by both 
 - [Space is Gonna do me Good](https://www.youtube.com/watch?v=hMONmqdArWk)
 - [White Noise Maker](https://www.youtube.com/watch?v=dWIOMXeEjKM)
 - [Pure Denizen Of The Citizens Band](https://www.youtube.com/watch?v=1Wu6-2d-Xi4)
-- [Bad, Wicked World](https://www.youtube.com/watch?v=Xoa7n_1aPW0)
+- [Bad Wicked World](https://www.youtube.com/watch?v=Xoa7n_1aPW0)
 - [Pie in the Sky](https://www.youtube.com/watch?v=pF1tly1BKT0)
 - [Frank Black - Headache](https://www.youtube.com/watch?v=ytQhL0-3FtM)
 - [Superabound](https://www.youtube.com/watch?v=IFx4FGUyPBc)
 - [Fazer Eyes](https://www.youtube.com/watch?v=l_e_UKFGpUQ)
-- [[I Want to Live on an] Abstract Plain](https://www.youtube.com/watch?v=KKFrrtq7BF8)
+- [I Want to Live on an Abstract Plain](https://www.youtube.com/watch?v=KKFrrtq7BF8)
 - [Big Red](https://www.youtube.com/watch?v=lX2n3XiSNm8)
 - [The Vanishing Spies](https://www.youtube.com/watch?v=GjxV0lX5nmQ)
 

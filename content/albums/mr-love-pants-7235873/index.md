@@ -47,12 +47,12 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 ### More Videos
 
 - [The Passing Show](https://www.youtube.com/watch?v=8-HL4zg1h6c)
-- [You're My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
+- [Youre My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
 - [Honeysuckle Highway](https://www.youtube.com/watch?v=ltZb-C1CeN4)
 - [Itinerant Child](https://www.youtube.com/watch?v=2GdLUKnUc58)
 - [Geraldine](https://www.youtube.com/watch?v=adzFl4xqR2k)
 - [Cacka Boom](https://www.youtube.com/watch?v=50TajQCnFWU)
-- [Bed O'Roses No.9](https://www.youtube.com/watch?v=EaRT5ITQgqs)
+- [Bed ORoses No9](https://www.youtube.com/watch?v=EaRT5ITQgqs)
 - [Heavy Living](https://www.youtube.com/watch?v=3wdt9eExM4M)
 - [Mash It Up Harry](https://www.youtube.com/watch?v=MNV1SAc7z2M)
 

@@ -83,12 +83,12 @@ The mix definitively dynamites the idea that different styles should be kept apa
 
 
 ## Videos
-### As Heard on Radio Soulwax Pt. 2
-{{< youtube id="5QRaerLc0BM" title="As Heard on Radio Soulwax Pt. 2" >}}<br>
+### As Heard on Radio Soulwax Pt 2
+{{< youtube id="5QRaerLc0BM" title="As Heard on Radio Soulwax Pt 2" >}}<br>
 ### More Videos
 
-- [2 Many DJ's: As Heard On Radio Soulwax (Part 2)](https://www.youtube.com/watch?v=4Xe23QBP1bE)
-- [As Heard on Radio Soulwax Pt. 2](https://www.youtube.com/watch?v=5QRaerLc0BM)
+- [2 Many DJs As Heard On Radio Soulwax Part 2](https://www.youtube.com/watch?v=4Xe23QBP1bE)
+- [As Heard on Radio Soulwax Pt 2](https://www.youtube.com/watch?v=5QRaerLc0BM)
 
 ## Release Images
 {{< imageGrid >}}

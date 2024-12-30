@@ -50,7 +50,7 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 - [Teenage Fanclub - Tired Of Being Alone](https://www.youtube.com/watch?v=JYu7FiYLWqE)
 - [I Left A Light On](https://www.youtube.com/watch?v=XW2Qt9uAIiU)
 - [See The Light](https://www.youtube.com/watch?v=BwwNCg-exKk)
-- [It's Alright](https://www.youtube.com/watch?v=rcpyLW9Iv-0)
+- [Its Alright](https://www.youtube.com/watch?v=rcpyLW9Iv-0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,16 +40,16 @@ The album was a transition from the glam rock-influenced style of previous album
 
 
 ## Videos
-### Quiet Life (2020 - Remaster)
-{{< youtube id="VFFRyLyE7BI" title="Quiet Life (2020 - Remaster)" >}}<br>
+### Quiet Life 2020 - Remaster
+{{< youtube id="VFFRyLyE7BI" title="Quiet Life 2020 - Remaster" >}}<br>
 ### More Videos
 
-- [Fall in Love with Me (2020 - Remaster)](https://www.youtube.com/watch?v=6mtDe0V5pc0)
-- [Despair (2020 - Remaster)](https://www.youtube.com/watch?v=nK5mCwpBVkQ)
-- [In Vogue (2020 - Remaster)](https://www.youtube.com/watch?v=zLpRqPrZo1c)
-- [Halloween (2020 - Remaster)](https://www.youtube.com/watch?v=8ONjgjgaY4s)
-- [Alien (2020 - Remaster)](https://www.youtube.com/watch?v=tdVzXjXsjwU)
-- [The Other Side of Life (2020 - Remaster)](https://www.youtube.com/watch?v=_LURKl9kp7k)
+- [Fall in Love with Me 2020 - Remaster](https://www.youtube.com/watch?v=6mtDe0V5pc0)
+- [Despair 2020 - Remaster](https://www.youtube.com/watch?v=nK5mCwpBVkQ)
+- [In Vogue 2020 - Remaster](https://www.youtube.com/watch?v=zLpRqPrZo1c)
+- [Halloween 2020 - Remaster](https://www.youtube.com/watch?v=8ONjgjgaY4s)
+- [Alien 2020 - Remaster](https://www.youtube.com/watch?v=tdVzXjXsjwU)
+- [The Other Side of Life 2020 - Remaster](https://www.youtube.com/watch?v=_LURKl9kp7k)
 
 ## Release Images
 {{< imageGrid >}}

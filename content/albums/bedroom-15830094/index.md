@@ -46,13 +46,13 @@ Bedroom is the debut studio album by British shoegaze band Bdrmm, released on 3 
 
 
 ## Videos
-### bdrmm - Bedroom (Full Album)
-{{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom (Full Album)" >}}<br>
+### bdrmm - Bedroom Full Album
+{{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom Full Album" >}}<br>
 ### More Videos
 
-- [bdrmm - Is That What You Wanted To Hear? (Official Video)](https://www.youtube.com/watch?v=J-fwuaYXv3M)
-- [bdrmm - A Reason To Celebrate (Official Audio)](https://www.youtube.com/watch?v=_PMHvJwelug)
-- [bdrmm - Happy (Official Audio)](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
+- [bdrmm - Is That What You Wanted To Hear Official Video](https://www.youtube.com/watch?v=J-fwuaYXv3M)
+- [bdrmm - A Reason To Celebrate Official Audio](https://www.youtube.com/watch?v=_PMHvJwelug)
+- [bdrmm - Happy Official Audio](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 
 ## Release Images
 {{< imageGrid >}}

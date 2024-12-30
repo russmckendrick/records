@@ -46,16 +46,16 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 
 
 ## Videos
-### Faith No More - We Care a Lot (Official Music Video)
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video)" >}}<br>
+### Faith No More - We Care a Lot Official Music Video
+{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot Official Music Video" >}}<br>
 ### More Videos
 
-- [Anne's Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
+- [Annes Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
 - [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
 - [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)
 - [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
-- [Faith No More - We Care a Lot (Official Music Video)](https://www.youtube.com/watch?v=LQhX8PbNUWI)
-- [Anne's Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
+- [Faith No More - We Care a Lot Official Music Video](https://www.youtube.com/watch?v=LQhX8PbNUWI)
+- [Annes Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
 - [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
 - [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)
 - [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)

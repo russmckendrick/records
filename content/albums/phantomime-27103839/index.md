@@ -61,14 +61,14 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 
 
 ## Videos
-### Ghost - Phantom Of The Opera (Official Audio)
-{{< youtube id="Wn-VdZ4LEKg" title="Ghost - Phantom Of The Opera (Official Audio)" >}}<br>
+### Ghost - Phantom Of The Opera Official Audio
+{{< youtube id="Wn-VdZ4LEKg" title="Ghost - Phantom Of The Opera Official Audio" >}}<br>
 ### More Videos
 
-- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
-- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
-- [Ghost - Phantom Of The Opera (Official Audio)](https://www.youtube.com/watch?v=Wn-VdZ4LEKg)
-- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
+- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
+- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
+- [Ghost - Phantom Of The Opera Official Audio](https://www.youtube.com/watch?v=Wn-VdZ4LEKg)
+- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
 
 ## Release Images
 {{< imageGrid >}}

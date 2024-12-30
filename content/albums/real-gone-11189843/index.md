@@ -59,14 +59,14 @@ A remixed, remastered version of the album was released by ANTI- on November 22,
 
 
 ## Videos
-### Tom Waits - Real Gone (2004) Vinyl FULL ALBUM
-{{< youtube id="vGal00wJCII" title="Tom Waits - Real Gone (2004) Vinyl FULL ALBUM" >}}<br>
+### Tom Waits - Real Gone 2004 Vinyl FULL ALBUM
+{{< youtube id="vGal00wJCII" title="Tom Waits - Real Gone 2004 Vinyl FULL ALBUM" >}}<br>
 ### More Videos
 
 - [Tom Waits - Chick A Boom](https://www.youtube.com/watch?v=cJi62CynjEk)
-- [Tom Waits - "Top of the Hill" (Remastered)](https://www.youtube.com/watch?v=JM-Qlg119C4)
-- [Tom Waits - "Make It Rain" (Remastered)](https://www.youtube.com/watch?v=Mv0htJ0tgsU)
-- [Tom Waits - Real Gone (2004) Vinyl FULL ALBUM](https://www.youtube.com/watch?v=vGal00wJCII)
+- [Tom Waits - Top of the Hill Remastered](https://www.youtube.com/watch?v=JM-Qlg119C4)
+- [Tom Waits - Make It Rain Remastered](https://www.youtube.com/watch?v=Mv0htJ0tgsU)
+- [Tom Waits - Real Gone 2004 Vinyl FULL ALBUM](https://www.youtube.com/watch?v=vGal00wJCII)
 
 ## Release Images
 {{< imageGrid >}}

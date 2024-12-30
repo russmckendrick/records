@@ -55,13 +55,13 @@ Along with Bad Religion's Stranger than Fiction, Green Day's Dookie and The Offs
 
 
 ## Videos
-### Rancid - "Time Bomb"
-{{< youtube id="DhKHAopx7D0" title="Rancid - "Time Bomb"" >}}<br>
+### Rancid - Time Bomb
+{{< youtube id="DhKHAopx7D0" title="Rancid - Time Bomb" >}}<br>
 ### More Videos
 
-- [Rancid - Roots Radicals [Official Video]](https://www.youtube.com/watch?v=wpzkGQhftMw)
-- [Rancid - ...And Out Come The Wolves (Full Album)](https://www.youtube.com/watch?v=JaBXx5lOipw)
-- [Rancid - Ruby Soho [MUSIC VIDEO]](https://www.youtube.com/watch?v=GeFr4_CADp4)
+- [Rancid - Roots Radicals Official Video](https://www.youtube.com/watch?v=wpzkGQhftMw)
+- [Rancid - And Out Come The Wolves Full Album](https://www.youtube.com/watch?v=JaBXx5lOipw)
+- [Rancid - Ruby Soho MUSIC VIDEO](https://www.youtube.com/watch?v=GeFr4_CADp4)
 
 ## Release Images
 {{< imageGrid >}}

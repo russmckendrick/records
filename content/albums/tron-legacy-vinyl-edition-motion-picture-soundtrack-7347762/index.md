@@ -70,27 +70,27 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 
 
 ## Videos
-### T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)
-{{< youtube id="GUpdmSVyJe0" title="T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)" >}}<br>
+### TRON  LEGACY 2010 - Soundtrack Full Vinyl Rip
+{{< youtube id="GUpdmSVyJe0" title="TRON  LEGACY 2010 - Soundtrack Full Vinyl Rip" >}}<br>
 ### More Videos
 
-- [C L U - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=LI55EDPxzZE)
-- [Finale - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0epmDgPXyS4)
-- [Tron Legacy End Titles - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=_RHx3irsR3I)
-- [Disc Wars - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=sOfVg__PXao)
-- [The Grid - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=I61XxgIm_fw)
-- [Flynn Lives - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0z0On7QOqU0)
-- [Round One - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=eruPoAU6Yio)
-- [Arrival - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=Lc9aSEYZWD0)
-- [Fall - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GHwmK9djaKY)
-- [Castor - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=ULtDCC9eiR0)
-- [Armory - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=XWTRkdGDvH8)
-- [Solar Sailer - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GsOV8VQkhQI)
-- [The Grid - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack)](https://www.youtube.com/watch?v=43nr4E5kKRg)
-- [Arena - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=kyvqtj3yFaI)
-- [TRON Legacy Soundtrack - Overture, The Grid & Tron Legacy (Daft Punk - Michael G Mix) HD](https://www.youtube.com/watch?v=lWu40FA3eZk)
-- [Reflections - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=LUVvF3L-_fI)
-- [Daft Punk - Derezzed (from TRON: Legacy)](https://www.youtube.com/watch?v=m4cgLL8JaVI)
+- [C L U - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=LI55EDPxzZE)
+- [Finale - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=0epmDgPXyS4)
+- [Tron Legacy End Titles - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=_RHx3irsR3I)
+- [Disc Wars - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=sOfVg__PXao)
+- [The Grid - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=I61XxgIm_fw)
+- [Flynn Lives - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=0z0On7QOqU0)
+- [Round One - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=eruPoAU6Yio)
+- [Arrival - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=Lc9aSEYZWD0)
+- [Fall - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=GHwmK9djaKY)
+- [Castor - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=ULtDCC9eiR0)
+- [Armory - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=XWTRkdGDvH8)
+- [Solar Sailer - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=GsOV8VQkhQI)
+- [The Grid - Daft Punk - TRON Legacy Original Motion Picture Soundtrack](https://www.youtube.com/watch?v=43nr4E5kKRg)
+- [Arena - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=kyvqtj3yFaI)
+- [TRON Legacy Soundtrack - Overture The Grid  Tron Legacy Daft Punk - Michael G Mix HD](https://www.youtube.com/watch?v=lWu40FA3eZk)
+- [Reflections - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=LUVvF3L-_fI)
+- [Daft Punk - Derezzed from TRON Legacy](https://www.youtube.com/watch?v=m4cgLL8JaVI)
 
 ## Release Images
 {{< imageGrid >}}

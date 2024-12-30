@@ -50,19 +50,19 @@ Moon Safari was acclaimed by critics. It is credited with setting the stage for 
 
 
 ## Videos
-### AIR French Band "Talisman" 1998 Source
-{{< youtube id="OhWnPnAp_fE" title="AIR French Band "Talisman" 1998 Source" >}}<br>
+### AIR French Band Talisman 1998 Source
+{{< youtube id="OhWnPnAp_fE" title="AIR French Band Talisman 1998 Source" >}}<br>
 ### More Videos
 
-- [AIR French Band "La femme d'argent" 1998 Source](https://www.youtube.com/watch?v=rTBnhpAqHm0)
-- [AIR French Band "Ce matin-là" 1998 Source](https://www.youtube.com/watch?v=D77QtT1FTYQ)
-- [AIR French Band "All i need" Feat. Beth Hirsch 1998 Source](https://www.youtube.com/watch?v=BVczSDl97Wk)
-- [AIR - Sexy Boy (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=R6Yfk-RL_9A)
-- [AIR - Kelly Watch the Stars (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=MZlH0LnRQhs)
-- [AIR - Remember (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=zKRNP39nIds)
-- [AIR - You Make It Easy (feat. Beth Hirsch) (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=mHjuYDloDtE)
-- [AIR - New Star in the Sky (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=L3V5cU36UWI)
-- [AIR - Le voyage de Pénélope (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=y0ErSht3SKw)
+- [AIR French Band La femme dargent 1998 Source](https://www.youtube.com/watch?v=rTBnhpAqHm0)
+- [AIR French Band Ce matin-là 1998 Source](https://www.youtube.com/watch?v=D77QtT1FTYQ)
+- [AIR French Band All i need Feat Beth Hirsch 1998 Source](https://www.youtube.com/watch?v=BVczSDl97Wk)
+- [AIR - Sexy Boy from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=R6Yfk-RL_9A)
+- [AIR - Kelly Watch the Stars from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=MZlH0LnRQhs)
+- [AIR - Remember from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=zKRNP39nIds)
+- [AIR - You Make It Easy feat Beth Hirsch from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=mHjuYDloDtE)
+- [AIR - New Star in the Sky from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=L3V5cU36UWI)
+- [AIR - Le voyage de Pénélope from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio](https://www.youtube.com/watch?v=y0ErSht3SKw)
 
 ## Release Images
 {{< imageGrid >}}

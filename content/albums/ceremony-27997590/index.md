@@ -60,17 +60,17 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 ### More Videos
 
 - [The Cult - Wild Hearted Son HD](https://www.youtube.com/watch?v=h0Z9C4XO8fA)
-- [The Cult – Ceremony](https://www.youtube.com/watch?v=15MVkTxZ9zc)
-- [The Cult – White](https://www.youtube.com/watch?v=JY77ACVk1OM)
-- [The Cult – Heart Of Soul](https://www.youtube.com/watch?v=_M6w-5JPzvE)
-- [The Cult – Wild Hearted Son](https://www.youtube.com/watch?v=U8NwKpq2EN4)
-- [The Cult – If](https://www.youtube.com/watch?v=eVlrJkw9mHM)
-- [The Cult – Full Tilt](https://www.youtube.com/watch?v=RlEV0fBLjV0)
-- [The Cult – Sweet Salvation](https://www.youtube.com/watch?v=3eBPzC4114k)
-- [The Cult – Indian](https://www.youtube.com/watch?v=Z40AA2h6c7Q)
-- [The Cult – Wonderland](https://www.youtube.com/watch?v=OFvVRT2VbUw)
-- [The Cult – Earth Mofo](https://www.youtube.com/watch?v=X1ZVlodYKZw)
-- [The Cult – Bangkok Rain](https://www.youtube.com/watch?v=yMY27k2IBo4)
+- [The Cult  Ceremony](https://www.youtube.com/watch?v=15MVkTxZ9zc)
+- [The Cult  White](https://www.youtube.com/watch?v=JY77ACVk1OM)
+- [The Cult  Heart Of Soul](https://www.youtube.com/watch?v=_M6w-5JPzvE)
+- [The Cult  Wild Hearted Son](https://www.youtube.com/watch?v=U8NwKpq2EN4)
+- [The Cult  If](https://www.youtube.com/watch?v=eVlrJkw9mHM)
+- [The Cult  Full Tilt](https://www.youtube.com/watch?v=RlEV0fBLjV0)
+- [The Cult  Sweet Salvation](https://www.youtube.com/watch?v=3eBPzC4114k)
+- [The Cult  Indian](https://www.youtube.com/watch?v=Z40AA2h6c7Q)
+- [The Cult  Wonderland](https://www.youtube.com/watch?v=OFvVRT2VbUw)
+- [The Cult  Earth Mofo](https://www.youtube.com/watch?v=X1ZVlodYKZw)
+- [The Cult  Bangkok Rain](https://www.youtube.com/watch?v=yMY27k2IBo4)
 
 ## Release Images
 {{< imageGrid >}}

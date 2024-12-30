@@ -46,17 +46,17 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 
 
 ## Videos
-### Pavement - Spit On A Stranger (Official Video)
-{{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger (Official Video)" >}}<br>
+### Pavement - Spit On A Stranger Official Video
+{{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger Official Video" >}}<br>
 ### More Videos
 
-- [Pavement - Major Leagues (Official Video)](https://www.youtube.com/watch?v=qWmXoHLF0LE)
-- [Pavement - Carrot Rope (Official Video)](https://www.youtube.com/watch?v=G53DW71BlNk)
-- [Terror Twilight (Speak, See, Remember)](https://www.youtube.com/watch?v=OwQQ3sSPl7M)
+- [Pavement - Major Leagues Official Video](https://www.youtube.com/watch?v=qWmXoHLF0LE)
+- [Pavement - Carrot Rope Official Video](https://www.youtube.com/watch?v=G53DW71BlNk)
+- [Terror Twilight Speak See Remember](https://www.youtube.com/watch?v=OwQQ3sSPl7M)
 - [You Are a Light](https://www.youtube.com/watch?v=QCfTrMX4Xj0)
 - [Billie](https://www.youtube.com/watch?v=Vi7yF7rzfRc)
-- [Terror Twilight (Speak, See, Remember)](https://www.youtube.com/watch?v=V3G3ywHXtN4)
-- [Ground Beefheart (Platform Blues)](https://www.youtube.com/watch?v=luCQzgySaBA)
+- [Terror Twilight Speak See Remember](https://www.youtube.com/watch?v=V3G3ywHXtN4)
+- [Ground Beefheart Platform Blues](https://www.youtube.com/watch?v=luCQzgySaBA)
 
 ## Release Images
 {{< imageGrid >}}

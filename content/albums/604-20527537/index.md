@@ -51,8 +51,8 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 
 
 ## Videos
-### Ladytron - Playgirl [Official Music Video]
-{{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl [Official Music Video]" >}}<br>
+### Ladytron - Playgirl Official Music Video
+{{< youtube id="qMH6wljk4Xw" title="Ladytron - Playgirl Official Music Video" >}}<br>
 ### More Videos
 
 - [Mu-Tron](https://www.youtube.com/watch?v=eiOA-Wza16I)
@@ -60,18 +60,18 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 - [CSKA Sofia](https://www.youtube.com/watch?v=1g3DGrxHy44)
 - [Commodore Rock](https://www.youtube.com/watch?v=egy85wjpdWw)
 - [Playgirl](https://www.youtube.com/watch?v=SLy8UVvFk8M)
-- [I'm With the Pilots](https://www.youtube.com/watch?v=5nZr9TytNXY)
+- [Im With the Pilots](https://www.youtube.com/watch?v=5nZr9TytNXY)
 - [This Is Our Sound](https://www.youtube.com/watch?v=Orvh8YwksCI)
 - [He Took Her to a Movie](https://www.youtube.com/watch?v=B9QfB7egtkA)
 - [Laughing Cavalier](https://www.youtube.com/watch?v=DLcB6e-5T7g)
 - [Ladybird](https://www.youtube.com/watch?v=gEVFvpxym_M)
 - [Jet Age](https://www.youtube.com/watch?v=XTOSuN6i5to)
-- [Skools Out…](https://www.youtube.com/watch?v=EGIOehtTR0g)
+- [Skools Out](https://www.youtube.com/watch?v=EGIOehtTR0g)
 - [Discotraxx](https://www.youtube.com/watch?v=dzwpEUJfvHc)
 - [Ladytron - Playgirl](https://www.youtube.com/watch?v=pTx2k8N3-GQ)
-- [Paco! • Ladytron • 604 • 2001](https://www.youtube.com/watch?v=ETJ4YYkWBO8)
+- [Paco  Ladytron  604  2001](https://www.youtube.com/watch?v=ETJ4YYkWBO8)
 - [The Way That I Found You](https://www.youtube.com/watch?v=-YEyg1Sb-so)
-- [Paco!](https://www.youtube.com/watch?v=ySDMrvRy0oQ)
+- [Paco](https://www.youtube.com/watch?v=ySDMrvRy0oQ)
 - [Zmeyka](https://www.youtube.com/watch?v=-vUocOOOnIg)
 
 ## Release Images

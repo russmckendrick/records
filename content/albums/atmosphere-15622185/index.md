@@ -39,8 +39,8 @@ The single was re-released in 1988 to coincide with the release of the compilati
 
 
 ## Videos
-### Joy Division - Atmosphere [OFFICIAL MUSIC VIDEO]
-{{< youtube id="1EdUjlawLJM" title="Joy Division - Atmosphere [OFFICIAL MUSIC VIDEO]" >}}<br>
+### Joy Division - Atmosphere OFFICIAL MUSIC VIDEO
+{{< youtube id="1EdUjlawLJM" title="Joy Division - Atmosphere OFFICIAL MUSIC VIDEO" >}}<br>
 
 
 ## Release Images

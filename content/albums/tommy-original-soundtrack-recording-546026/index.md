@@ -66,13 +66,13 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)
-{{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 (Vinyl record)" >}}<br>
+### TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 Vinyl record
+{{< youtube id="vruNMUjZwAA" title="TOMMY THE MOVIE 1975 Original soundtrack recording Part 1 of 2 Vinyl record" >}}<br>
 ### More Videos
 
-- [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 (Vinyl record)](https://www.youtube.com/watch?v=cVO5P3yOYa8)
+- [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 Vinyl record](https://www.youtube.com/watch?v=cVO5P3yOYa8)
 - [Tommy 1975 Trailer HD](https://www.youtube.com/watch?v=GkD78qRf3gQ)
-- [The Who - Acid Queen...yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=2eMXa8v640k)
+- [The Who - Acid Queenyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=2eMXa8v640k)
 
 ## Release Images
 {{< imageGrid >}}

@@ -59,15 +59,15 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 
 
 ## Videos
-### Prologus (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)
-{{< youtube id="Jbht20ZvEz4" title="Prologus (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)" >}}<br>
+### Prologus with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir
+{{< youtube id="Jbht20ZvEz4" title="Prologus with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir" >}}<br>
 ### More Videos
 
-- [Alföður orkar (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=FoqLscNxkwo)
-- [Áss hinn hvíti (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=vJJAh5JLzs4)
-- [Hvert stefnir (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=Mhnx1Hlgpfs)
-- [Spár eða spakmál (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan...](https://www.youtube.com/watch?v=_b0JRt7KM_g)
-- [Dagrenning (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)](https://www.youtube.com/watch?v=G4O_X-U5nBQ)
+- [Alföður orkar with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=FoqLscNxkwo)
+- [Áss hinn hvíti with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=vJJAh5JLzs4)
+- [Hvert stefnir with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=Mhnx1Hlgpfs)
+- [Spár eða spakmál with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=_b0JRt7KM_g)
+- [Dagrenning with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir](https://www.youtube.com/watch?v=G4O_X-U5nBQ)
 
 ## Release Images
 {{< imageGrid >}}

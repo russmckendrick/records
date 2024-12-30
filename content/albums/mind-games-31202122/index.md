@@ -88,8 +88,8 @@ The album was recorded while Lennon was having difficulties with US immigration 
 
 
 ## Videos
-### John Lennon - Mind Games (Ultimate Mix, 2024) (4K Official Video - Restored 2024)
-{{< youtube id="TypGp7hlmuY" title="John Lennon - Mind Games (Ultimate Mix, 2024) (4K Official Video - Restored 2024)" >}}<br>
+### John Lennon - Mind Games Ultimate Mix 2024 4K Official Video - Restored 2024
+{{< youtube id="TypGp7hlmuY" title="John Lennon - Mind Games Ultimate Mix 2024 4K Official Video - Restored 2024" >}}<br>
 
 
 ## Release Images

@@ -47,15 +47,15 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 
 
 ## Videos
-### T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD1
-{{< youtube id="9PJhTBFN5GE" title="T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD1" >}}<br>
+### The Future Sound Of London  Accelerator CD1
+{{< youtube id="9PJhTBFN5GE" title="The Future Sound Of London  Accelerator CD1" >}}<br>
 ### More Videos
 
-- [T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD2](https://www.youtube.com/watch?v=fDVsuZ9kbNQ)
-- [T̲h̲e̲ ̲F̲u̲t̲u̲r̲e̲ ̲S̲o̲u̲n̲d̲ ̲O̲f̲ ̲L̲o̲n̲d̲o̲n̲ | A̲c̲c̲e̲l̲e̲r̲a̲t̲o̲r̲ CD2](https://www.youtube.com/watch?v=fDVsuZ9kbNQ)
-- [Papua New Guinea (Andrew Weatherall Remix 7" Edit)](https://www.youtube.com/watch?v=7yGjN-pNy0s)
-- [Stolen Documents (Accelerated Mix)](https://www.youtube.com/watch?v=xU6V_1Q114o)
-- [The Future Sound Of London - Papua New Guinea HD (Offical Video)](https://www.youtube.com/watch?v=wfWMv8Y1V5E)
+- [The Future Sound Of London  Accelerator CD2](https://www.youtube.com/watch?v=fDVsuZ9kbNQ)
+- [The Future Sound Of London  Accelerator CD2](https://www.youtube.com/watch?v=fDVsuZ9kbNQ)
+- [Papua New Guinea Andrew Weatherall Remix 7 Edit](https://www.youtube.com/watch?v=7yGjN-pNy0s)
+- [Stolen Documents Accelerated Mix](https://www.youtube.com/watch?v=xU6V_1Q114o)
+- [The Future Sound Of London - Papua New Guinea HD Offical Video](https://www.youtube.com/watch?v=wfWMv8Y1V5E)
 
 ## Release Images
 {{< imageGrid >}}

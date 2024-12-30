@@ -43,9 +43,9 @@ styles: ["Ambient"]
 ### More Videos
 
 - [Purgatory](https://www.youtube.com/watch?v=fDX0i0ukO4U)
-- [Seti (Pt. 1)](https://www.youtube.com/watch?v=esD3cIVZBP8)
-- [Seti (Pt. 2)](https://www.youtube.com/watch?v=-tyVKxhLeDE)
-- [Seti (Pt. 3)](https://www.youtube.com/watch?v=cJr5jnsnbBQ)
+- [Seti Pt 1](https://www.youtube.com/watch?v=esD3cIVZBP8)
+- [Seti Pt 2](https://www.youtube.com/watch?v=-tyVKxhLeDE)
+- [Seti Pt 3](https://www.youtube.com/watch?v=cJr5jnsnbBQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,14 +47,14 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 
 
 ## Videos
-### Aphex Twin - CIRKLON3 [ Колхозная mix ]
-{{< youtube id="ZEP-Qpw3lHg" title="Aphex Twin - CIRKLON3 [ Колхозная mix ]" >}}<br>
+### Aphex Twin - CIRKLON3  Колхозная mix 
+{{< youtube id="ZEP-Qpw3lHg" title="Aphex Twin - CIRKLON3  Колхозная mix " >}}<br>
 ### More Videos
 
-- [CHEETAHT2 [Ld spectrum]](https://www.youtube.com/watch?v=mdSUg3FrffY)
+- [CHEETAHT2 Ld spectrum](https://www.youtube.com/watch?v=mdSUg3FrffY)
 - [CIRKLON 1](https://www.youtube.com/watch?v=bNY7sgb9R1I)
-- [Aphex Twin - CIRKLON3 [ Колхозная mix ]](https://www.youtube.com/watch?v=ZEP-Qpw3lHg)
-- [CHEETAHT2 [Ld spectrum]](https://www.youtube.com/watch?v=mdSUg3FrffY)
+- [Aphex Twin - CIRKLON3  Колхозная mix ](https://www.youtube.com/watch?v=ZEP-Qpw3lHg)
+- [CHEETAHT2 Ld spectrum](https://www.youtube.com/watch?v=mdSUg3FrffY)
 - [CIRKLON 1](https://www.youtube.com/watch?v=bNY7sgb9R1I)
 
 ## Release Images

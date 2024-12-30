@@ -64,26 +64,26 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 
 
 ## Videos
-### Carter The Unstoppable Sex Machine - Post Historic Monsters (1993) full album
-{{< youtube id="9FSk38EfaGE" title="Carter The Unstoppable Sex Machine - Post Historic Monsters (1993) full album" >}}<br>
+### Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album
+{{< youtube id="9FSk38EfaGE" title="Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album" >}}<br>
 ### More Videos
 
-- [Carter U.S.M. - Glam Rock Cops (Official Music Video)](https://www.youtube.com/watch?v=vOQsW05JG5k)
+- [Carter USM - Glam Rock Cops Official Music Video](https://www.youtube.com/watch?v=vOQsW05JG5k)
 - [Hit](https://www.youtube.com/watch?v=fje9NmMihpM)
 - [Always the Bridesmaid Never the Bride](https://www.youtube.com/watch?v=eyvLhAZsrLY)
 - [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
 - [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
-- [Stuff the Jubilee (1977)](https://www.youtube.com/watch?v=ckYD4byWnmQ)
+- [Stuff the Jubilee 1977](https://www.youtube.com/watch?v=ckYD4byWnmQ)
 - [CARTER USM-Evil](https://www.youtube.com/watch?v=bzXkiDog0bo)
 - [CARTER USM-Mid Day Crisis](https://www.youtube.com/watch?v=5QRIdbIUZPc)
-- [Carter-Suicide Isn't Painless](https://www.youtube.com/watch?v=jpKtxEE4KPQ)
-- [Carter The Unstoppable Sex Machine - Post Historic Monsters (1993) full album](https://www.youtube.com/watch?v=9FSk38EfaGE)
-- [Carter U.S.M. - Glam Rock Cops (Official Music Video)](https://www.youtube.com/watch?v=vOQsW05JG5k)
+- [Carter-Suicide Isnt Painless](https://www.youtube.com/watch?v=jpKtxEE4KPQ)
+- [Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album](https://www.youtube.com/watch?v=9FSk38EfaGE)
+- [Carter USM - Glam Rock Cops Official Music Video](https://www.youtube.com/watch?v=vOQsW05JG5k)
 - [Hit](https://www.youtube.com/watch?v=fje9NmMihpM)
 - [Always the Bridesmaid Never the Bride](https://www.youtube.com/watch?v=eyvLhAZsrLY)
 - [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
 - [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
-- [Stuff the Jubilee (1977)](https://www.youtube.com/watch?v=ckYD4byWnmQ)
+- [Stuff the Jubilee 1977](https://www.youtube.com/watch?v=ckYD4byWnmQ)
 
 ## Release Images
 {{< imageGrid >}}

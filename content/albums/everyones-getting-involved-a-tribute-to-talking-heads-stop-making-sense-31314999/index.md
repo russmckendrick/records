@@ -57,13 +57,13 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 
 
 ## Videos
-### Stop Making Sense Tribute Album | Official Teaser HD | A24
-{{< youtube id="RU04lMKwPwc" title="Stop Making Sense Tribute Album | Official Teaser HD | A24" >}}<br>
+### Stop Making Sense Tribute Album  Official Teaser HD  A24
+{{< youtube id="RU04lMKwPwc" title="Stop Making Sense Tribute Album  Official Teaser HD  A24" >}}<br>
 ### More Videos
 
-- [The National - Heaven (Official Visualizer)](https://www.youtube.com/watch?v=GXZj1KaKLr8)
-- [Paramore - Burning Down the House (Official Visualizer)](https://www.youtube.com/watch?v=qrjHhIGl90I)
-- [Lorde - Take Me to the River (Visualizer)](https://www.youtube.com/watch?v=fJar9TovXzI)
+- [The National - Heaven Official Visualizer](https://www.youtube.com/watch?v=GXZj1KaKLr8)
+- [Paramore - Burning Down the House Official Visualizer](https://www.youtube.com/watch?v=qrjHhIGl90I)
+- [Lorde - Take Me to the River Visualizer](https://www.youtube.com/watch?v=fJar9TovXzI)
 - [Psycho Killer](https://www.youtube.com/watch?v=9UUbdIaz9x0)
 - [Girlfriend Is Better](https://www.youtube.com/watch?v=MBbowjdK5A8)
 

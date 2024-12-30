@@ -48,8 +48,8 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Baxter Dury - 'Leon'  (Lyric Video).
-{{< youtube id="SMsDrl7ZWAI" title="Baxter Dury - 'Leon'  (Lyric Video)." >}}<br>
+### Baxter Dury - Leon  Lyric Video
+{{< youtube id="SMsDrl7ZWAI" title="Baxter Dury - Leon  Lyric Video" >}}<br>
 
 
 ## Release Images

@@ -54,15 +54,15 @@ Amen (So Be It) is the debut album by Irish musician Paddy Casey. It was release
 ### More Videos
 
 - [Paddy Casey - Whatever Gets You True](https://www.youtube.com/watch?v=WrLUjKiVFug)
-- [Can't Take That Away](https://www.youtube.com/watch?v=obKaqafnmbw)
+- [Cant Take That Away](https://www.youtube.com/watch?v=obKaqafnmbw)
 - [Ancient Sorrow](https://www.youtube.com/watch?v=14kLHO5xgKs)
 - [Everybody Wants](https://www.youtube.com/watch?v=SMEInVrf5iU)
-- [Paddy Casey - Sweet Suburban Sky (original version)](https://www.youtube.com/watch?v=MbG-pqgpt4s)
+- [Paddy Casey - Sweet Suburban Sky original version](https://www.youtube.com/watch?v=MbG-pqgpt4s)
 - [Downtown](https://www.youtube.com/watch?v=VVCGoHsY2wU)
 - [Would U B](https://www.youtube.com/watch?v=i3HQQpsHVeI)
-- [Winter's Fire](https://www.youtube.com/watch?v=tXz0Upa3RpA)
+- [Winters Fire](https://www.youtube.com/watch?v=tXz0Upa3RpA)
 - [Rainwater](https://www.youtube.com/watch?v=ggO-sGfzaB0)
-- [It's Over Now](https://www.youtube.com/watch?v=JS5z756qyeg)
+- [Its Over Now](https://www.youtube.com/watch?v=JS5z756qyeg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,11 +47,11 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Videos
-### The Sea Nymphs : Abade
-{{< youtube id="h2McejcOiwI" title="The Sea Nymphs : Abade" >}}<br>
+### The Sea Nymphs  Abade
+{{< youtube id="h2McejcOiwI" title="The Sea Nymphs  Abade" >}}<br>
 ### More Videos
 
-- [The Sea Nymphs - The Sea Ritual (Peel Session)](https://www.youtube.com/watch?v=5NjQgbEduQQ)
+- [The Sea Nymphs - The Sea Ritual Peel Session](https://www.youtube.com/watch?v=5NjQgbEduQQ)
 - [The Sea Nymphs - The Psalm Of Life](https://www.youtube.com/watch?v=NIk1D39lqLQ)
 - [The Sea Nymphs - Shaping The River](https://www.youtube.com/watch?v=TbxzUhk7R5c)
 - [The Sea Nymphs - In The Corner Of Sin](https://www.youtube.com/watch?v=yrHJ0cLBObA)

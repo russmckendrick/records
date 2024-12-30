@@ -55,8 +55,8 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Videos
-### L'Amour Looks Something Like You
-{{< youtube id="4c6UEHhgSHA" title="L'Amour Looks Something Like You" >}}<br>
+### LAmour Looks Something Like You
+{{< youtube id="4c6UEHhgSHA" title="LAmour Looks Something Like You" >}}<br>
 
 
 ## Release Images

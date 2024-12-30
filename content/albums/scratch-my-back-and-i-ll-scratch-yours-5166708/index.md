@@ -64,8 +64,8 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 
 
 ## Videos
-### Peter Gabriel - And I'll Scratch Yours (Album Sampler)
-{{< youtube id="3kYbmTMbinQ" title="Peter Gabriel - And I'll Scratch Yours (Album Sampler)" >}}<br>
+### Peter Gabriel - And Ill Scratch Yours Album Sampler
+{{< youtube id="3kYbmTMbinQ" title="Peter Gabriel - And Ill Scratch Yours Album Sampler" >}}<br>
 
 
 ## Release Images

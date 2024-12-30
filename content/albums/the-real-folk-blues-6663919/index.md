@@ -44,20 +44,20 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 
 
 ## Videos
-### Howlin' Wolf - Tell Me What I've Done [HD]
-{{< youtube id="pm-v_7K66rw" title="Howlin' Wolf - Tell Me What I've Done [HD]" >}}<br>
+### Howlin Wolf - Tell Me What Ive Done HD
+{{< youtube id="pm-v_7K66rw" title="Howlin Wolf - Tell Me What Ive Done HD" >}}<br>
 ### More Videos
 
 - [Killing Floor](https://www.youtube.com/watch?v=CHrVB35kTrE)
-- [Tell Me What I've Done](https://www.youtube.com/watch?v=sJQzde1L5UI)
+- [Tell Me What Ive Done](https://www.youtube.com/watch?v=sJQzde1L5UI)
 - [Poor Boy](https://www.youtube.com/watch?v=FsagiHRjaHY)
 - [Louise](https://www.youtube.com/watch?v=W4oUtgN9HqE)
 - [Built For Comfort](https://www.youtube.com/watch?v=VoO1q5KSi6w)
 - [Three Hundred Pounds Of Joy](https://www.youtube.com/watch?v=UzHXBJKP72U)
 - [Tail Dragger](https://www.youtube.com/watch?v=m4ucJ8ShLHg)
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
-- [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
-- [Howlin' Wolf - Tell Me What I've Done [HD]](https://www.youtube.com/watch?v=pm-v_7K66rw)
+- [Howlin Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
+- [Howlin Wolf - Tell Me What Ive Done HD](https://www.youtube.com/watch?v=pm-v_7K66rw)
 
 ## Release Images
 {{< imageGrid >}}

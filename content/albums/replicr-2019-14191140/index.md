@@ -65,23 +65,23 @@ replicr, 2019 is the sixth studio album by 65daysofstatic, which was released on
 
 
 ## Videos
-### 65daysofstatic | replicr, 2019. new album coming 27.0.9.19
-{{< youtube id="9LQckltGMJ4" title="65daysofstatic | replicr, 2019. new album coming 27.0.9.19" >}}<br>
+### 65daysofstatic  replicr 2019 new album coming 270919
+{{< youtube id="9LQckltGMJ4" title="65daysofstatic  replicr 2019 new album coming 270919" >}}<br>
 ### More Videos
 
-- [65daysofstatic - popular beats (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=dH9tZ5z4dFg)
-- [65daysofstatic | Trackerplatz (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=l73eDjbpPzA)
-- [65daysofstatic | Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
+- [65daysofstatic - popular beats OFFICIAL VIDEO](https://www.youtube.com/watch?v=dH9tZ5z4dFg)
+- [65daysofstatic  Trackerplatz OFFICIAL VIDEO](https://www.youtube.com/watch?v=l73eDjbpPzA)
+- [65daysofstatic  Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
 - [stillstellung](https://www.youtube.com/watch?v=mL3tU67wtP8)
 - [pretext](https://www.youtube.com/watch?v=4r1ehk3FAeQ)
-- [d|| tl | | |](https://www.youtube.com/watch?v=CYl7CFJW3ho)
+- [d tl   ](https://www.youtube.com/watch?v=CYl7CFJW3ho)
 - [interference_1](https://www.youtube.com/watch?v=rOKrre1PGRQ)
-- [gr [] v-_s](https://www.youtube.com/watch?v=VVcyZx6S74I)
+- [gr  v-_s](https://www.youtube.com/watch?v=VVcyZx6S74I)
 - [bad age](https://www.youtube.com/watch?v=ecqDkD9oFXU)
-- [05|| | 1|](https://www.youtube.com/watch?v=Pi8fRC2pc0A)
+- [05  1](https://www.youtube.com/watch?v=Pi8fRC2pc0A)
 - [z03](https://www.youtube.com/watch?v=LNfmkmT5UDs)
 - [sister](https://www.youtube.com/watch?v=bZvS_slO534)
-- [[] lid](https://www.youtube.com/watch?v=tKSMvBvs35E)
+- [ lid](https://www.youtube.com/watch?v=tKSMvBvs35E)
 - [65_replicr_stream_280819](https://www.youtube.com/watch?v=BzNNNB-p_gk)
 - [65_replicr_stream_040919](https://www.youtube.com/watch?v=ZSAqTfTKp70)
 - [65_replicr_stream_250919](https://www.youtube.com/watch?v=KQmCs0l2cMg)

@@ -58,14 +58,14 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 
 
 ## Videos
-### CAKE - The Distance (Official HD Video)
-{{< youtube id="F_HoMkkRHv8" title="CAKE - The Distance (Official HD Video)" >}}<br>
+### CAKE - The Distance Official HD Video
+{{< youtube id="F_HoMkkRHv8" title="CAKE - The Distance Official HD Video" >}}<br>
 ### More Videos
 
-- [CAKE - I Will Survive (Official HD Video)](https://www.youtube.com/watch?v=f9rCUQjmkxU)
-- [CAKE - Frank Sinatra (Official HD Video)](https://www.youtube.com/watch?v=7xw49Y-bYYk)
-- [CAKE - Nugget (Official Audio)](https://www.youtube.com/watch?v=tQ3VgWkgLr8)
-- [CAKE - Frank Sinatra (Official Audio)](https://www.youtube.com/watch?v=rWonYwd5oL8)
+- [CAKE - I Will Survive Official HD Video](https://www.youtube.com/watch?v=f9rCUQjmkxU)
+- [CAKE - Frank Sinatra Official HD Video](https://www.youtube.com/watch?v=7xw49Y-bYYk)
+- [CAKE - Nugget Official Audio](https://www.youtube.com/watch?v=tQ3VgWkgLr8)
+- [CAKE - Frank Sinatra Official Audio](https://www.youtube.com/watch?v=rWonYwd5oL8)
 - [The Distance](https://www.youtube.com/watch?v=Ol5Q4V4lJzk)
 
 ## Release Images

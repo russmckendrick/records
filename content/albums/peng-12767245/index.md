@@ -50,20 +50,20 @@ The album's title (a German onomatopoeia for a loud pop or bang) and cover art a
 
 
 ## Videos
-### Super Falling Star (2018 Remaster)
-{{< youtube id="UMqB3817qNU" title="Super Falling Star (2018 Remaster)" >}}<br>
+### Super Falling Star 2018 Remaster
+{{< youtube id="UMqB3817qNU" title="Super Falling Star 2018 Remaster" >}}<br>
 ### More Videos
 
-- [Orgiastic (2018 Remaster)](https://www.youtube.com/watch?v=1QIHrZj7Uoo)
-- [Peng! 33 (2018 Remaster)](https://www.youtube.com/watch?v=3YU6YcICcV0)
-- [K-stars (2018 Remaster)](https://www.youtube.com/watch?v=xljW1dBRpr0)
-- [Perversion (2018 Remaster)](https://www.youtube.com/watch?v=R2F4s1wyMg4)
-- [You Little Shits (2018 Remaster)](https://www.youtube.com/watch?v=ROdSrFwV6xo)
-- [The Seeming and the Meaning (2018 Remaster)](https://www.youtube.com/watch?v=KQciAfI-xUs)
-- [Mellotron (2018 Remaster)](https://www.youtube.com/watch?v=FppasPSyqo8)
-- [Enivrez-vous (2018 Remaster)](https://www.youtube.com/watch?v=uivAFTzp1Kc)
-- [Stomach Worm (2018 Remaster)](https://www.youtube.com/watch?v=5t-c9d8QAQg)
-- [Surrealchemist (2018 Remaster)](https://www.youtube.com/watch?v=5DlNE-LOEt4)
+- [Orgiastic 2018 Remaster](https://www.youtube.com/watch?v=1QIHrZj7Uoo)
+- [Peng 33 2018 Remaster](https://www.youtube.com/watch?v=3YU6YcICcV0)
+- [K-stars 2018 Remaster](https://www.youtube.com/watch?v=xljW1dBRpr0)
+- [Perversion 2018 Remaster](https://www.youtube.com/watch?v=R2F4s1wyMg4)
+- [You Little Shits 2018 Remaster](https://www.youtube.com/watch?v=ROdSrFwV6xo)
+- [The Seeming and the Meaning 2018 Remaster](https://www.youtube.com/watch?v=KQciAfI-xUs)
+- [Mellotron 2018 Remaster](https://www.youtube.com/watch?v=FppasPSyqo8)
+- [Enivrez-vous 2018 Remaster](https://www.youtube.com/watch?v=uivAFTzp1Kc)
+- [Stomach Worm 2018 Remaster](https://www.youtube.com/watch?v=5t-c9d8QAQg)
+- [Surrealchemist 2018 Remaster](https://www.youtube.com/watch?v=5DlNE-LOEt4)
 
 ## Release Images
 {{< imageGrid >}}

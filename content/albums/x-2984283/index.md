@@ -47,13 +47,13 @@ X, or x, is the twenty-fourth letter of the Latin alphabet, used in the modern E
 
 
 ## Videos
-### Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)
-{{< youtube id="bAXPUN2z2CE" title="Queens Of The Stone Age - Feel Good Hit Of The Summer (Official Music Video)" >}}<br>
+### Queens Of The Stone Age - Feel Good Hit Of The Summer Official Music Video
+{{< youtube id="bAXPUN2z2CE" title="Queens Of The Stone Age - Feel Good Hit Of The Summer Official Music Video" >}}<br>
 ### More Videos
 
-- [Queens Of The Stone Age - The Lost Art Of Keeping A Secret (Official Music Video)](https://www.youtube.com/watch?v=0l0nzPpvbFs)
-- [Queens Of The Stone Age - Monsters In The Parasol (Official Music Video)](https://www.youtube.com/watch?v=hnLwHOVXkWE)
-- [Q̲u̲e̲ens o̲f t̲he S̲t̲o̲ne A̲ge - Rated R (Full Album)](https://www.youtube.com/watch?v=j4o7BlWmqK0)
+- [Queens Of The Stone Age - The Lost Art Of Keeping A Secret Official Music Video](https://www.youtube.com/watch?v=0l0nzPpvbFs)
+- [Queens Of The Stone Age - Monsters In The Parasol Official Music Video](https://www.youtube.com/watch?v=hnLwHOVXkWE)
+- [Queens of the Stone Age - Rated R Full Album](https://www.youtube.com/watch?v=j4o7BlWmqK0)
 - [Better Living Through Chemistry](https://www.youtube.com/watch?v=ZN8z7AX4V0k)
 - [Auto Pilot](https://www.youtube.com/watch?v=mhXmqO7hCfA)
 

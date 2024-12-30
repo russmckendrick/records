@@ -43,13 +43,13 @@ styles: []
 
 
 ## Videos
-### Gavin Harrison Cheating The Polygraph/Mother & Child Divided
-{{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The Polygraph/Mother & Child Divided" >}}<br>
+### Gavin Harrison Cheating The PolygraphMother  Child Divided
+{{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The PolygraphMother  Child Divided" >}}<br>
 ### More Videos
 
-- [Gavin Harrison - Hatesong / Halo (from Cheating the Polygraph)](https://www.youtube.com/watch?v=s9PCreC7Lfk)
-- [Gavin Harrison Cheating The Polygraph/Mother & Child Divided](https://www.youtube.com/watch?v=ZwaqOBXpEDs)
-- [Gavin Harrison - Hatesong / Halo (from Cheating the Polygraph)](https://www.youtube.com/watch?v=s9PCreC7Lfk)
+- [Gavin Harrison - Hatesong  Halo from Cheating the Polygraph](https://www.youtube.com/watch?v=s9PCreC7Lfk)
+- [Gavin Harrison Cheating The PolygraphMother  Child Divided](https://www.youtube.com/watch?v=ZwaqOBXpEDs)
+- [Gavin Harrison - Hatesong  Halo from Cheating the Polygraph](https://www.youtube.com/watch?v=s9PCreC7Lfk)
 
 ## Release Images
 {{< imageGrid >}}

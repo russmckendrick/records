@@ -49,31 +49,31 @@ The Collective is the second solo studio album by the American musician Kim Gord
 
 
 ## Videos
-### Kim Gordon - "BYE BYE" (Official Music Video)
-{{< youtube id="IZ3i80B0qKg" title="Kim Gordon - "BYE BYE" (Official Music Video)" >}}<br>
+### Kim Gordon - BYE BYE Official Music Video
+{{< youtube id="IZ3i80B0qKg" title="Kim Gordon - BYE BYE Official Music Video" >}}<br>
 ### More Videos
 
-- [Kim Gordon - "The Candy House" (Official Audio)](https://www.youtube.com/watch?v=Q_3KJkezWOs)
-- [Kim Gordon - "I Don't Miss My Mind" (Official Audio)](https://www.youtube.com/watch?v=wjyktFqiOZc)
-- [Kim Gordon- "I'm a Man" (Official Music Video)](https://www.youtube.com/watch?v=ioKP3ORu0QY)
-- [Kim Gordon - "Trophies" (Official Audio)](https://www.youtube.com/watch?v=YECXEjt4lNQ)
-- [Kim Gordon - "It's Dark Inside" (Official Audio)](https://www.youtube.com/watch?v=RVndycw2Sng)
-- [Kim Gordon- "Psychedelic Orgasm" (Official Music Video)](https://www.youtube.com/watch?v=cdn2A3MVnfE)
-- [Kim Gordon - "Tree House" (Official Audio)](https://www.youtube.com/watch?v=GkGuOz7toz0)
-- [Kim Gordon - "Shelf Warmer" (Official Audio)](https://www.youtube.com/watch?v=pzCPToX5PyU)
-- [Kim Gordon - "The Believers" (Official Audio)](https://www.youtube.com/watch?v=aZ32GjG7jPs)
-- [Kim Gordon - "Dream Dollar" (Official Audio)](https://www.youtube.com/watch?v=OKo0ilO01YQ)
-- [Kim Gordon - "BYE BYE" (Official Music Video)](https://www.youtube.com/watch?v=IZ3i80B0qKg)
-- [Kim Gordon - "The Candy House" (Official Audio)](https://www.youtube.com/watch?v=Q_3KJkezWOs)
-- [Kim Gordon - "I Don't Miss My Mind" (Official Audio)](https://www.youtube.com/watch?v=wjyktFqiOZc)
-- [Kim Gordon- "I'm a Man" (Official Music Video)](https://www.youtube.com/watch?v=ioKP3ORu0QY)
-- [Kim Gordon - "Trophies" (Official Audio)](https://www.youtube.com/watch?v=YECXEjt4lNQ)
-- [Kim Gordon - "It's Dark Inside" (Official Audio)](https://www.youtube.com/watch?v=RVndycw2Sng)
-- [Kim Gordon- "Psychedelic Orgasm" (Official Music Video)](https://www.youtube.com/watch?v=cdn2A3MVnfE)
-- [Kim Gordon - "Tree House" (Official Audio)](https://www.youtube.com/watch?v=GkGuOz7toz0)
-- [Kim Gordon - "Shelf Warmer" (Official Audio)](https://www.youtube.com/watch?v=pzCPToX5PyU)
-- [Kim Gordon - "The Believers" (Official Audio)](https://www.youtube.com/watch?v=aZ32GjG7jPs)
-- [Kim Gordon - "Dream Dollar" (Official Audio)](https://www.youtube.com/watch?v=OKo0ilO01YQ)
+- [Kim Gordon - The Candy House Official Audio](https://www.youtube.com/watch?v=Q_3KJkezWOs)
+- [Kim Gordon - I Dont Miss My Mind Official Audio](https://www.youtube.com/watch?v=wjyktFqiOZc)
+- [Kim Gordon- Im a Man Official Music Video](https://www.youtube.com/watch?v=ioKP3ORu0QY)
+- [Kim Gordon - Trophies Official Audio](https://www.youtube.com/watch?v=YECXEjt4lNQ)
+- [Kim Gordon - Its Dark Inside Official Audio](https://www.youtube.com/watch?v=RVndycw2Sng)
+- [Kim Gordon- Psychedelic Orgasm Official Music Video](https://www.youtube.com/watch?v=cdn2A3MVnfE)
+- [Kim Gordon - Tree House Official Audio](https://www.youtube.com/watch?v=GkGuOz7toz0)
+- [Kim Gordon - Shelf Warmer Official Audio](https://www.youtube.com/watch?v=pzCPToX5PyU)
+- [Kim Gordon - The Believers Official Audio](https://www.youtube.com/watch?v=aZ32GjG7jPs)
+- [Kim Gordon - Dream Dollar Official Audio](https://www.youtube.com/watch?v=OKo0ilO01YQ)
+- [Kim Gordon - BYE BYE Official Music Video](https://www.youtube.com/watch?v=IZ3i80B0qKg)
+- [Kim Gordon - The Candy House Official Audio](https://www.youtube.com/watch?v=Q_3KJkezWOs)
+- [Kim Gordon - I Dont Miss My Mind Official Audio](https://www.youtube.com/watch?v=wjyktFqiOZc)
+- [Kim Gordon- Im a Man Official Music Video](https://www.youtube.com/watch?v=ioKP3ORu0QY)
+- [Kim Gordon - Trophies Official Audio](https://www.youtube.com/watch?v=YECXEjt4lNQ)
+- [Kim Gordon - Its Dark Inside Official Audio](https://www.youtube.com/watch?v=RVndycw2Sng)
+- [Kim Gordon- Psychedelic Orgasm Official Music Video](https://www.youtube.com/watch?v=cdn2A3MVnfE)
+- [Kim Gordon - Tree House Official Audio](https://www.youtube.com/watch?v=GkGuOz7toz0)
+- [Kim Gordon - Shelf Warmer Official Audio](https://www.youtube.com/watch?v=pzCPToX5PyU)
+- [Kim Gordon - The Believers Official Audio](https://www.youtube.com/watch?v=aZ32GjG7jPs)
+- [Kim Gordon - Dream Dollar Official Audio](https://www.youtube.com/watch?v=OKo0ilO01YQ)
 
 ## Release Images
 {{< imageGrid >}}

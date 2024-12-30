@@ -46,13 +46,13 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 
 
 ## Videos
-### Northside - Shall we Take a Trip (audio only)
-{{< youtube id="9AShsOgwCG0" title="Northside - Shall we Take a Trip (audio only)" >}}<br>
+### Northside - Shall we Take a Trip audio only
+{{< youtube id="9AShsOgwCG0" title="Northside - Shall we Take a Trip audio only" >}}<br>
 ### More Videos
 
-- [Northside - Shall We Take A Trip?](https://www.youtube.com/watch?v=Dvw57NG-DZ8)
+- [Northside - Shall We Take A Trip](https://www.youtube.com/watch?v=Dvw57NG-DZ8)
 - [Northside - Take Five](https://www.youtube.com/watch?v=hamuTM9mpXc)
-- [Northside | My Rising Star](https://www.youtube.com/watch?v=ku3g9xPCs0M)
+- [Northside  My Rising Star](https://www.youtube.com/watch?v=ku3g9xPCs0M)
 - [Northside - Practise Makes Perfect](https://www.youtube.com/watch?v=H3KFHfEbrjc)
 - [Northside - Practise Makes Perfect](https://www.youtube.com/watch?v=4sjh34wKKUk)
 

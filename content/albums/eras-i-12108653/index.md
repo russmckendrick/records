@@ -72,12 +72,12 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 
 
 ## Videos
-### Devin Townsend ~ Bend It Like Bender
-{{< youtube id="I4PkL5FwDEA" title="Devin Townsend ~ Bend It Like Bender" >}}<br>
+### Devin Townsend  Bend It Like Bender
+{{< youtube id="I4PkL5FwDEA" title="Devin Townsend  Bend It Like Bender" >}}<br>
 ### More Videos
 
 - [A Monday](https://www.youtube.com/watch?v=7UYFLIaxaEk)
-- [Devin Townsend ~ Bend It Like Bender](https://www.youtube.com/watch?v=I4PkL5FwDEA)
+- [Devin Townsend  Bend It Like Bender](https://www.youtube.com/watch?v=I4PkL5FwDEA)
 - [A Monday](https://www.youtube.com/watch?v=7UYFLIaxaEk)
 
 ## Release Images

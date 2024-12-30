@@ -54,14 +54,14 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 
 
 ## Videos
-### The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)
-{{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)" >}}<br>
+### The Wonder Stuff - Welcome to the Cheap Seats Late Night with David Letterman 1991
+{{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats Late Night with David Letterman 1991" >}}<br>
 ### More Videos
 
-- [The Wonder Stuff "Never Loved Elvis Live"](https://www.youtube.com/watch?v=K6HRGN1pk4s)
-- [The Wonder Stuff - Sleep Alone (HD 1080p) - Never Loved Elvis, Birmingham O2 - 15-12-2011](https://www.youtube.com/watch?v=yQbz0Fq91nw)
-- [Wonderstuff: Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
-- [THE WONDER STUFF - Mission Drive : Live(1991)](https://www.youtube.com/watch?v=V4NW5S1UTPQ)
+- [The Wonder Stuff Never Loved Elvis Live](https://www.youtube.com/watch?v=K6HRGN1pk4s)
+- [The Wonder Stuff - Sleep Alone HD 1080p - Never Loved Elvis Birmingham O2 - 15-12-2011](https://www.youtube.com/watch?v=yQbz0Fq91nw)
+- [Wonderstuff Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
+- [THE WONDER STUFF - Mission Drive  Live1991](https://www.youtube.com/watch?v=V4NW5S1UTPQ)
 
 ## Release Images
 {{< imageGrid >}}

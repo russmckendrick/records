@@ -61,13 +61,13 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 
 
 ## Videos
-### KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)
-{{< youtube id="WzXVxOT8an0" title="KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)" >}}<br>
+### KNIFEWORLD - HighAflame OFFICIAL VIDEO
+{{< youtube id="WzXVxOT8an0" title="KNIFEWORLD - HighAflame OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [KNIFEWORLD - The Germ Inside (Lyric Video)](https://www.youtube.com/watch?v=mWRig5rV274)
-- [KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=WzXVxOT8an0)
-- [KNIFEWORLD - The Germ Inside (Lyric Video)](https://www.youtube.com/watch?v=mWRig5rV274)
+- [KNIFEWORLD - The Germ Inside Lyric Video](https://www.youtube.com/watch?v=mWRig5rV274)
+- [KNIFEWORLD - HighAflame OFFICIAL VIDEO](https://www.youtube.com/watch?v=WzXVxOT8an0)
+- [KNIFEWORLD - The Germ Inside Lyric Video](https://www.youtube.com/watch?v=mWRig5rV274)
 
 ## Release Images
 {{< imageGrid >}}

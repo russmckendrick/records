@@ -41,12 +41,12 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 
 
 ## Videos
-### Chapterhouse - We Are The Beautiful (Video)
-{{< youtube id="g3T9AT8FBtc" title="Chapterhouse - We Are The Beautiful (Video)" >}}<br>
+### Chapterhouse - We Are The Beautiful Video
+{{< youtube id="g3T9AT8FBtc" title="Chapterhouse - We Are The Beautiful Video" >}}<br>
 ### More Videos
 
-- [Chapterhouse - She's A Vision](https://www.youtube.com/watch?v=WStfpamuOq8)
-- [Global Communication ~ Pentamerous Metamorphosis (Full Album)](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
+- [Chapterhouse - Shes A Vision](https://www.youtube.com/watch?v=WStfpamuOq8)
+- [Global Communication  Pentamerous Metamorphosis Full Album](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
 
 ## Release Images
 {{< imageGrid >}}

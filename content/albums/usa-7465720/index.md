@@ -58,7 +58,7 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 {{< youtube id="xM2t5Z-XgXw" title="Walk On - No Pussyfooting - Live" >}}<br>
 ### More Videos
 
-- [Larks' Tongues In Aspic Part II - Live](https://www.youtube.com/watch?v=Ql_kW_zXiuY)
+- [Larks Tongues In Aspic Part II - Live](https://www.youtube.com/watch?v=Ql_kW_zXiuY)
 - [Lament - Live](https://www.youtube.com/watch?v=Ar9Y6H6MjFQ)
 - [Exiles - Live](https://www.youtube.com/watch?v=qsP49QAxsHE)
 - [Asbury Park - Live](https://www.youtube.com/watch?v=aOg5NSJFKqM)

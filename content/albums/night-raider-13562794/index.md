@@ -42,8 +42,8 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Videos
-### Time of Ye Life / Born for Nothing / Paranoid Arm of Narcoleptic Empire (Remastered)
-{{< youtube id="I9DpYZlzc78" title="Time of Ye Life / Born for Nothing / Paranoid Arm of Narcoleptic Empire (Remastered)" >}}<br>
+### Time of Ye Life  Born for Nothing  Paranoid Arm of Narcoleptic Empire Remastered
+{{< youtube id="I9DpYZlzc78" title="Time of Ye Life  Born for Nothing  Paranoid Arm of Narcoleptic Empire Remastered" >}}<br>
 
 
 ## Release Images

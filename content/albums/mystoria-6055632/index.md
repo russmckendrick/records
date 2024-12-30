@@ -46,15 +46,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Videos
-### AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)
-{{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}<br>
+### AMPLIFIER - Black Rainbow OFFICIAL VIDEO
+{{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=U6aB4735tvQ)
-- [AMPLIFIER - ChugChugChugChug (Studio Episode #1)](https://www.youtube.com/watch?v=2IBQEao8Qhk)
-- [AMPLIFIER - Named After Rocky (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RblO4B6h2tc)
+- [AMPLIFIER - Black Rainbow OFFICIAL VIDEO](https://www.youtube.com/watch?v=U6aB4735tvQ)
+- [AMPLIFIER - ChugChugChugChug Studio Episode 1](https://www.youtube.com/watch?v=2IBQEao8Qhk)
+- [AMPLIFIER - Named After Rocky OFFICIAL VIDEO](https://www.youtube.com/watch?v=RblO4B6h2tc)
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
-- [AMPLIFIER - Open Up (LYRIC VIDEO)](https://www.youtube.com/watch?v=VDdWkXa4yWE)
+- [AMPLIFIER - Open Up LYRIC VIDEO](https://www.youtube.com/watch?v=VDdWkXa4yWE)
 
 ## Release Images
 {{< imageGrid >}}

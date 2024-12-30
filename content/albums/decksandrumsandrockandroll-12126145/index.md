@@ -52,16 +52,16 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 
 
 ## Videos
-### Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)
-{{< youtube id="smXziOEWO7Q" title="Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)" >}}<br>
+### Propellerheads  - On Her Majestys Secret Service Vinyl Tonic
+{{< youtube id="smXziOEWO7Q" title="Propellerheads  - On Her Majestys Secret Service Vinyl Tonic" >}}<br>
 ### More Videos
 
-- [CD (1997)](https://www.youtube.com/watch?v=S8LaAYjOF7Q)
+- [CD 1997](https://www.youtube.com/watch?v=S8LaAYjOF7Q)
 - [Propellerheads --- Take California](https://www.youtube.com/watch?v=Dd8WjeK8riE)
-- [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
-- [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
-- [Spybreak! (Short One)](https://www.youtube.com/watch?v=Agbn4NzOj04)
-- [Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)](https://www.youtube.com/watch?v=smXziOEWO7Q)
+- [David Arnold and Propellerheads - On Her Majestys Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
+- [Propellerheads feat Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
+- [Spybreak Short One](https://www.youtube.com/watch?v=Agbn4NzOj04)
+- [Propellerheads  - On Her Majestys Secret Service Vinyl Tonic](https://www.youtube.com/watch?v=smXziOEWO7Q)
 
 ## Release Images
 {{< imageGrid >}}

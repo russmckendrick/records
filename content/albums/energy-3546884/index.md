@@ -57,13 +57,13 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 
 
 ## Videos
-### Operation Ivy - Energy (1991) [Full Album] [Ska Punk | U.S.]
-{{< youtube id="ABbp6AoMCik" title="Operation Ivy - Energy (1991) [Full Album] [Ska Punk | U.S.]" >}}<br>
+### Operation Ivy - Energy 1991 Full Album Ska Punk  US
+{{< youtube id="ABbp6AoMCik" title="Operation Ivy - Energy 1991 Full Album Ska Punk  US" >}}<br>
 ### More Videos
 
-- [Knowledge (2007 Remaster)](https://www.youtube.com/watch?v=2ItT4f8O93Q)
-- [Bankshot (2007 Remaster)](https://www.youtube.com/watch?v=v3arEYZxrzI)
-- [Room Without a Window (2007 Remaster)](https://www.youtube.com/watch?v=8gW1ha3UsmI)
+- [Knowledge 2007 Remaster](https://www.youtube.com/watch?v=2ItT4f8O93Q)
+- [Bankshot 2007 Remaster](https://www.youtube.com/watch?v=v3arEYZxrzI)
+- [Room Without a Window 2007 Remaster](https://www.youtube.com/watch?v=8gW1ha3UsmI)
 
 ## Release Images
 {{< imageGrid >}}

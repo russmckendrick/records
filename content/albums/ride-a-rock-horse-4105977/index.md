@@ -44,23 +44,23 @@ Three singles were issued from Ride a Rock Horse: "Get Your Love", "Walking the 
 
 
 ## Videos
-### Roger Daltrey:-'Walking the Dog'
-{{< youtube id="BfDKAe3v_UY" title="Roger Daltrey:-'Walking the Dog'" >}}<br>
+### Roger Daltrey-Walking the Dog
+{{< youtube id="BfDKAe3v_UY" title="Roger Daltrey-Walking the Dog" >}}<br>
 ### More Videos
 
 - [Roger Daltrey - Ride a Rock Horse - Get Your Love](https://www.youtube.com/watch?v=MzApNg5P0GY)
 - [Roger Daltrey - Oceans Away - 1975 - HD - HQ audio](https://www.youtube.com/watch?v=VQiyxn3KPBU)
 - [Roger Daltrey - Ride A Rock Horse - Hearts Right - HQ](https://www.youtube.com/watch?v=K4E8MdGEnmg)
-- [Roger Daltrey:-'Proud'](https://www.youtube.com/watch?v=tgtyrvqViqk)
-- [Roger Daltrey:-'World Over'](https://www.youtube.com/watch?v=2VcFF_nVKOY)
+- [Roger Daltrey-Proud](https://www.youtube.com/watch?v=tgtyrvqViqk)
+- [Roger Daltrey-World Over](https://www.youtube.com/watch?v=2VcFF_nVKOY)
 - [Roger Daltrey - Ride a Rock Horse - Near to Surrender HQ Audio](https://www.youtube.com/watch?v=0jlOn8hdXeE)
-- [Roger Daltrey:-'Feeling'](https://www.youtube.com/watch?v=88XDrbBaOWY)
-- [Roger Daltrey:-'Milk Train'](https://www.youtube.com/watch?v=FsR6UncY4Og)
-- [Roger Daltrey:-'I Was Born to Sing Your Song'](https://www.youtube.com/watch?v=P0nkswBxOmQ)
+- [Roger Daltrey-Feeling](https://www.youtube.com/watch?v=88XDrbBaOWY)
+- [Roger Daltrey-Milk Train](https://www.youtube.com/watch?v=FsR6UncY4Og)
+- [Roger Daltrey-I Was Born to Sing Your Song](https://www.youtube.com/watch?v=P0nkswBxOmQ)
 - [Roger Daltrey - Oceans Away](https://www.youtube.com/watch?v=Ayskp8It8rs)
-- [Roger Daltrey – Come And Get Your Love (Original Stereo)](https://www.youtube.com/watch?v=cAGWmqLV8gQ)
+- [Roger Daltrey  Come And Get Your Love Original Stereo](https://www.youtube.com/watch?v=cAGWmqLV8gQ)
 - [Roger Daltrey - Proud](https://www.youtube.com/watch?v=DywInNM60gs)
-- [Roger Daltrey 🇬🇧 - Walking The Dog (Rufus Thomas) - Vinyl Ride A Rock Horse LP 🇵🇹 1975](https://www.youtube.com/watch?v=iEMiiN3d6xk)
+- [Roger Daltrey  - Walking The Dog Rufus Thomas - Vinyl Ride A Rock Horse LP  1975](https://www.youtube.com/watch?v=iEMiiN3d6xk)
 
 ## Release Images
 {{< imageGrid >}}

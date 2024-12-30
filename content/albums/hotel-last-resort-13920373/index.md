@@ -49,12 +49,12 @@ Hotel Last Resort is the tenth studio album by American rock band Violent Femmes
 
 
 ## Videos
-### Violent Femmes - Hotel Last Resort (Official Lyric Video)
-{{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort (Official Lyric Video)" >}}<br>
+### Violent Femmes - Hotel Last Resort Official Lyric Video
+{{< youtube id="Jc14JPwnp6M" title="Violent Femmes - Hotel Last Resort Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Violent Femmes - I'm Nothing feat. Stefan Janoski (Official Video)](https://www.youtube.com/watch?v=P3XxSZNFpcQ)
-- [It's All Or Nothing](https://www.youtube.com/watch?v=bmnp0y-iNPQ)
+- [Violent Femmes - Im Nothing feat Stefan Janoski Official Video](https://www.youtube.com/watch?v=P3XxSZNFpcQ)
+- [Its All Or Nothing](https://www.youtube.com/watch?v=bmnp0y-iNPQ)
 - [Not OK](https://www.youtube.com/watch?v=lOKp9spg_Yk)
 - [Paris To Sleep](https://www.youtube.com/watch?v=t01vT2g2ju8)
 - [Adam Was A Man](https://www.youtube.com/watch?v=4Hf4v6mRcYw)

@@ -58,23 +58,23 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 
 
 ## Videos
-### 5:15 - Quadrophenia - The Who
-{{< youtube id="OR5v4yyPV6Y" title="5:15 - Quadrophenia - The Who" >}}<br>
+### 515 - Quadrophenia - The Who
+{{< youtube id="OR5v4yyPV6Y" title="515 - Quadrophenia - The Who" >}}<br>
 ### More Videos
 
-- [Cross Section - Hi Heel Sneakers (Quadrophenia OST)](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
-- [Cross Section - Hi Heel Sneakers (Quadrophenia OST)](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
-- [The̲ W̲ho - Qu̲adrophe̲nia (Full Album 1973)](https://www.youtube.com/watch?v=0F3HxlYFc5U)
-- [The Real Me (Quadrophenia: The Movie)](https://www.youtube.com/watch?v=82oVtqrCpaI)
-- [Love reign o'er me](https://www.youtube.com/watch?v=ZALcu_UhuIg)
+- [Cross Section - Hi Heel Sneakers Quadrophenia OST](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
+- [Cross Section - Hi Heel Sneakers Quadrophenia OST](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
+- [The Who - Quadrophenia Full Album 1973](https://www.youtube.com/watch?v=0F3HxlYFc5U)
+- [The Real Me Quadrophenia The Movie](https://www.youtube.com/watch?v=82oVtqrCpaI)
+- [Love reign oer me](https://www.youtube.com/watch?v=ZALcu_UhuIg)
 - [The Who - Bell Boy with Keith Moon](https://www.youtube.com/watch?v=OBruYbPzxOw)
-- [THE WHO - I've Had Enough | QUADROPHENIA](https://www.youtube.com/watch?v=hb8TfdeRJgk)
-- [James Brown performs "Night Train" on the TAMI Show (Live)](https://www.youtube.com/watch?v=ZF_rZrH4yBY)
+- [THE WHO - Ive Had Enough  QUADROPHENIA](https://www.youtube.com/watch?v=hb8TfdeRJgk)
+- [James Brown performs Night Train on the TAMI Show Live](https://www.youtube.com/watch?v=ZF_rZrH4yBY)
 - [RHYTHM OF THE RAIN THE CASCADES IN LIVE](https://www.youtube.com/watch?v=l1PJ9mF2H2Q)
-- [The Ronettes - Be My Baby - live [HQ]](https://www.youtube.com/watch?v=jrVbawRPO7I)
+- [The Ronettes - Be My Baby - live HQ](https://www.youtube.com/watch?v=jrVbawRPO7I)
 - [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
-- [The Chiffons - He´s So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
-- [The Crystals - Da Doo Ron Ron (HQ)](https://www.youtube.com/watch?v=L0dikX80Ed8)
+- [The Chiffons - Hes So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
+- [The Crystals - Da Doo Ron Ron HQ](https://www.youtube.com/watch?v=L0dikX80Ed8)
 
 ## Release Images
 {{< imageGrid >}}

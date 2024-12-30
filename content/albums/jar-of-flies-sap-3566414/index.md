@@ -66,20 +66,20 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Videos
-### Alice In Chains - No Excuses (Official Video)
-{{< youtube id="r80HF68KM8g" title="Alice In Chains - No Excuses (Official Video)" >}}<br>
+### Alice In Chains - No Excuses Official Video
+{{< youtube id="r80HF68KM8g" title="Alice In Chains - No Excuses Official Video" >}}<br>
 ### More Videos
 
 - [Rotten Apple](https://www.youtube.com/watch?v=poo2xaEhrHE)
-- [Alice In Chains - I Stay Away (Official Video)](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
+- [Alice In Chains - I Stay Away Official Video](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
 - [Brother](https://www.youtube.com/watch?v=nH8BgfluCJA)
 - [Got Me Wrong](https://www.youtube.com/watch?v=IDFSAvTwnb0)
 - [Right Turn](https://www.youtube.com/watch?v=gBCTEM2Hga4)
 - [Am I Inside](https://www.youtube.com/watch?v=08iaCYLhZ-k)
 - [Nutshell](https://www.youtube.com/watch?v=_siJRgDlddY)
-- [Whale & Wasp](https://www.youtube.com/watch?v=1VvvPGXQ1RM)
+- [Whale  Wasp](https://www.youtube.com/watch?v=1VvvPGXQ1RM)
 - [Swing On This](https://www.youtube.com/watch?v=Uj3R2ASEMDE)
-- [Don't Follow](https://www.youtube.com/watch?v=CqO4vBSLHMw)
+- [Dont Follow](https://www.youtube.com/watch?v=CqO4vBSLHMw)
 - [Love Song](https://www.youtube.com/watch?v=lmTKN09DPPQ)
 
 ## Release Images

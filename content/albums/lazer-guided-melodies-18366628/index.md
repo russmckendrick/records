@@ -62,8 +62,8 @@ By 1995, the album had sold 10,000 copies in the United States.
 
 
 ## Videos
-### You Know It's True
-{{< youtube id="1jt6Do5O2mg" title="You Know It's True" >}}<br>
+### You Know Its True
+{{< youtube id="1jt6Do5O2mg" title="You Know Its True" >}}<br>
 ### More Videos
 
 - [If I Were with Her Now](https://www.youtube.com/watch?v=zi016ZvkMFM)
@@ -77,8 +77,8 @@ By 1995, the album had sold 10,000 copies in the United States.
 - [Angel Sigh](https://www.youtube.com/watch?v=p836NG1DDGw)
 - [Sway](https://www.youtube.com/watch?v=2GbDePAXSdo)
 - [200 Bars](https://www.youtube.com/watch?v=R-th3jQW80A)
-- [Spiritualized - Run (Video)](https://www.youtube.com/watch?v=NtVuqjd5oSc)
-- [Spiritualized - Lazer Guided Melodies (Full Album Stream)](https://www.youtube.com/watch?v=gkPPxLm50V0)
+- [Spiritualized - Run Video](https://www.youtube.com/watch?v=NtVuqjd5oSc)
+- [Spiritualized - Lazer Guided Melodies Full Album Stream](https://www.youtube.com/watch?v=gkPPxLm50V0)
 
 ## Release Images
 {{< imageGrid >}}

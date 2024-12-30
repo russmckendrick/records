@@ -39,8 +39,8 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 
 ## Videos
-### Church of the Cosmic Skull - There Is No Time (Full Album 2022)
-{{< youtube id="tmt-O6of2o4" title="Church of the Cosmic Skull - There Is No Time (Full Album 2022)" >}}<br>
+### Church of the Cosmic Skull - There Is No Time Full Album 2022
+{{< youtube id="tmt-O6of2o4" title="Church of the Cosmic Skull - There Is No Time Full Album 2022" >}}<br>
 
 
 ## Release Images

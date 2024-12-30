@@ -44,18 +44,18 @@ styles: ["Thrash"]
 
 
 ## Videos
-### Blackened (Remastered)
-{{< youtube id="nUZVXtDVrc0" title="Blackened (Remastered)" >}}<br>
+### Blackened Remastered
+{{< youtube id="nUZVXtDVrc0" title="Blackened Remastered" >}}<br>
 ### More Videos
 
-- [... And Justice for All (Remastered)](https://www.youtube.com/watch?v=2lgGJRWUIvM)
-- [Eye of the Beholder (Remastered)](https://www.youtube.com/watch?v=pEBp9ulELLA)
-- [One (Remastered)](https://www.youtube.com/watch?v=apK2jCrfnsk)
-- [The Shortest Straw (Remastered)](https://www.youtube.com/watch?v=G1ZxoBk56jQ)
-- [Harvester of Sorrow (Remastered)](https://www.youtube.com/watch?v=fPufVcLAwdg)
-- [The Frayed Ends of Sanity (Remastered)](https://www.youtube.com/watch?v=x6wxm0POHBE)
-- [To Live Is to Die (Remastered)](https://www.youtube.com/watch?v=DhqbGYI970k)
-- [Dyers Eve (Remastered)](https://www.youtube.com/watch?v=YBOLDdc5QHE)
+- [ And Justice for All Remastered](https://www.youtube.com/watch?v=2lgGJRWUIvM)
+- [Eye of the Beholder Remastered](https://www.youtube.com/watch?v=pEBp9ulELLA)
+- [One Remastered](https://www.youtube.com/watch?v=apK2jCrfnsk)
+- [The Shortest Straw Remastered](https://www.youtube.com/watch?v=G1ZxoBk56jQ)
+- [Harvester of Sorrow Remastered](https://www.youtube.com/watch?v=fPufVcLAwdg)
+- [The Frayed Ends of Sanity Remastered](https://www.youtube.com/watch?v=x6wxm0POHBE)
+- [To Live Is to Die Remastered](https://www.youtube.com/watch?v=DhqbGYI970k)
+- [Dyers Eve Remastered](https://www.youtube.com/watch?v=YBOLDdc5QHE)
 
 ## Release Images
 {{< imageGrid >}}

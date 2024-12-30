@@ -48,20 +48,20 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 
 
 ## Videos
-### Baxter Dury - Slumlord (Official Music Video)
-{{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord (Official Music Video)" >}}<br>
+### Baxter Dury - Slumlord Official Music Video
+{{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord Official Music Video" >}}<br>
 ### More Videos
 
-- [Baxter Dury - I'm Not Your Dog (Official Music Video)](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
-- [Baxter Dury - Slumlord (Official Music Video)](https://www.youtube.com/watch?v=KWbVIv7DrU8)
-- [Baxter Dury - I'm Not Your Dog (Official Music Video)](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
-- [Baxter Dury - Carla's Got A Boyfriend (Official Audio)](https://www.youtube.com/watch?v=CaAszLkOh6w)
+- [Baxter Dury - Im Not Your Dog Official Music Video](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
+- [Baxter Dury - Slumlord Official Music Video](https://www.youtube.com/watch?v=KWbVIv7DrU8)
+- [Baxter Dury - Im Not Your Dog Official Music Video](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
+- [Baxter Dury - Carlas Got A Boyfriend Official Audio](https://www.youtube.com/watch?v=CaAszLkOh6w)
 - [Say Nothing](https://www.youtube.com/watch?v=tahejIw1jXw)
 - [The Night Chancers](https://www.youtube.com/watch?v=W-7-sddliMo)
 - [Baxter Dury - Samurai](https://www.youtube.com/watch?v=JsnwNgvXFEU)
 - [Saliva Hog](https://www.youtube.com/watch?v=CpMVX3UDev4)
-- [Hello, I'm Sorry](https://www.youtube.com/watch?v=GEst-mUxvRI)
-- [Baxter Dury - Carla's Got A Boyfriend](https://www.youtube.com/watch?v=MPj7GifljM8)
+- [Hello Im Sorry](https://www.youtube.com/watch?v=GEst-mUxvRI)
+- [Baxter Dury - Carlas Got A Boyfriend](https://www.youtube.com/watch?v=MPj7GifljM8)
 - [Daylight](https://www.youtube.com/watch?v=hH8W0cM_718)
 
 ## Release Images

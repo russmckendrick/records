@@ -49,13 +49,13 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 
 
 ## Videos
-### Transformers The Movie (1986) Soundtrack - "Unicron's Reckoning" (Epic Suite) (Soundtrack Mix)
-{{< youtube id="3rlREG4ad4Q" title="Transformers The Movie (1986) Soundtrack - "Unicron's Reckoning" (Epic Suite) (Soundtrack Mix)" >}}<br>
+### Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix
+{{< youtube id="3rlREG4ad4Q" title="Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix" >}}<br>
 ### More Videos
 
-- [Nothin's Gonna Stand In Our Way](https://www.youtube.com/watch?v=0_2_5ATvLvs)
-- [The Touch - Stan Bush (HD Restoration)](https://www.youtube.com/watch?v=A52--FKUQgU)
-- [Transformers The Movie (1986) Soundtrack - "Unicron's Reckoning" (Epic Suite) (Soundtrack Mix)](https://www.youtube.com/watch?v=3rlREG4ad4Q)
+- [Nothins Gonna Stand In Our Way](https://www.youtube.com/watch?v=0_2_5ATvLvs)
+- [The Touch - Stan Bush HD Restoration](https://www.youtube.com/watch?v=A52--FKUQgU)
+- [Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix](https://www.youtube.com/watch?v=3rlREG4ad4Q)
 
 ## Release Images
 {{< imageGrid >}}

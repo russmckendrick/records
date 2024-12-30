@@ -67,11 +67,11 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 
 
 ## Videos
-### My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)
-{{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy (The Waterfall) (Visualizer)" >}}<br>
+### My Morning Jacket - In Its Infancy The Waterfall Visualizer
+{{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy The Waterfall Visualizer" >}}<br>
 ### More Videos
 
-- [My Morning Jacket - Spinning My Wheels (Official Visualizer)](https://www.youtube.com/watch?v=7VJqwdv-upU)
+- [My Morning Jacket - Spinning My Wheels Official Visualizer](https://www.youtube.com/watch?v=7VJqwdv-upU)
 
 ## Release Images
 {{< imageGrid >}}

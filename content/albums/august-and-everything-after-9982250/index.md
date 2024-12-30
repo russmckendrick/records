@@ -56,12 +56,12 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 
 
 ## Videos
-### Counting Crows - Round Here (Official Music Video)
-{{< youtube id="SAe3sCIakXo" title="Counting Crows - Round Here (Official Music Video)" >}}<br>
+### Counting Crows - Round Here Official Music Video
+{{< youtube id="SAe3sCIakXo" title="Counting Crows - Round Here Official Music Video" >}}<br>
 ### More Videos
 
 - [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
-- [Counting Crows - Mr. Jones (Official Music Video)](https://www.youtube.com/watch?v=-oqAU5VxFWs)
+- [Counting Crows - Mr Jones Official Music Video](https://www.youtube.com/watch?v=-oqAU5VxFWs)
 - [Perfect Blue Buildings](https://www.youtube.com/watch?v=HKcD2AxnEYw)
 - [Anna Begins](https://www.youtube.com/watch?v=d8LSBdUKo0c)
 - [Time And Time Again](https://www.youtube.com/watch?v=4VEjXU3WYdM)

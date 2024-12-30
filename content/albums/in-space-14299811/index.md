@@ -50,11 +50,11 @@ The album features original Big Star members Alex Chilton and Jody Stephens on g
 
 
 ## Videos
-### Big Star - In Space (2005) FULL ALBUM
-{{< youtube id="mSq7YXsoLpo" title="Big Star - In Space (2005) FULL ALBUM" >}}<br>
+### Big Star - In Space 2005 FULL ALBUM
+{{< youtube id="mSq7YXsoLpo" title="Big Star - In Space 2005 FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Big Star - In Space (2005) FULL ALBUM](https://www.youtube.com/watch?v=mSq7YXsoLpo)
+- [Big Star - In Space 2005 FULL ALBUM](https://www.youtube.com/watch?v=mSq7YXsoLpo)
 
 ## Release Images
 {{< imageGrid >}}

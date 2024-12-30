@@ -51,7 +51,7 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 {{< youtube id="QCocz5p4kvk" title="Woman In Chains" >}}<br>
 ### More Videos
 
-- [Badman’s Song](https://www.youtube.com/watch?v=92FRHjqY-WI)
+- [Badmans Song](https://www.youtube.com/watch?v=92FRHjqY-WI)
 - [Sowing The Seeds Of Love](https://www.youtube.com/watch?v=XEQKy8g5UK4)
 - [Advice For The Young At Heart](https://www.youtube.com/watch?v=0aI19OorlVw)
 - [Standing On The Corner Of The Third World](https://www.youtube.com/watch?v=BxpAsZxd3pE)

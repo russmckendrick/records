@@ -76,9 +76,9 @@ Less than two years after U2 vowed to “dream it all up again”, <i>Achtung Ba
 {{< youtube id="mV7pzrkZwzg" title="U2 - 1st press - Achtung Baby - side one - 192 Khz" >}}<br>
 ### More Videos
 
-- [U2 - Mysterious Ways (Official Music Video)](https://www.youtube.com/watch?v=TxcDTUMLQJI)
-- [U2 - One (Official Music Video)](https://www.youtube.com/watch?v=ftjEcrrf7r0)
-- [U2 - Even Better Than The Real Thing (Official Music Video)](https://www.youtube.com/watch?v=vTxrgXWToZA)
+- [U2 - Mysterious Ways Official Music Video](https://www.youtube.com/watch?v=TxcDTUMLQJI)
+- [U2 - One Official Music Video](https://www.youtube.com/watch?v=ftjEcrrf7r0)
+- [U2 - Even Better Than The Real Thing Official Music Video](https://www.youtube.com/watch?v=vTxrgXWToZA)
 
 ## Release Images
 {{< imageGrid >}}

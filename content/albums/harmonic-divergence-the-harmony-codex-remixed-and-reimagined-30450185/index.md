@@ -40,11 +40,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Steven Wilson - Inclination (Ewan Pearson Remix)
-{{< youtube id="coscy7KyYMs" title="Steven Wilson - Inclination (Ewan Pearson Remix)" >}}<br>
+### Steven Wilson - Inclination Ewan Pearson Remix
+{{< youtube id="coscy7KyYMs" title="Steven Wilson - Inclination Ewan Pearson Remix" >}}<br>
 ### More Videos
 
-- [Steven Wilson - Economies of Scale (Manic Street Preachers Remix)](https://www.youtube.com/watch?v=rDxra4EUo7U)
+- [Steven Wilson - Economies of Scale Manic Street Preachers Remix](https://www.youtube.com/watch?v=rDxra4EUo7U)
 
 ## Release Images
 {{< imageGrid >}}

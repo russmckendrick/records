@@ -61,27 +61,27 @@ It is the final album to feature keyboardist Barry Andrews, who went on to form 
 
 
 ## Videos
-### XTC - Battery Brides.wmv
-{{< youtube id="Kr3ArWo0SlY" title="XTC - Battery Brides.wmv" >}}<br>
+### XTC - Battery Brideswmv
+{{< youtube id="Kr3ArWo0SlY" title="XTC - Battery Brideswmv" >}}<br>
 ### More Videos
 
-- [Red (2001 Remaster)](https://www.youtube.com/watch?v=TXD8yS7OQbw)
-- [XTC - Crowded Room.wmv](https://www.youtube.com/watch?v=IdUoPaleNK8)
-- [XTC - Beatown.wmv](https://www.youtube.com/watch?v=ppFA-VeQ_7Y)
-- [XTC - The Rhythm.wmv](https://www.youtube.com/watch?v=SIVYeMoDErI)
-- [XTC - Buzzcity Talking.wmv](https://www.youtube.com/watch?v=MnWydFl35Vo)
-- [XTC - Life Is Good In The Greenhouse.wmv](https://www.youtube.com/watch?v=zmyPiJz05FE)
-- [XTC - My Weapon.wmv](https://www.youtube.com/watch?v=hezmvnJMWHY)
-- [XTC - Super Tuff.wmv](https://www.youtube.com/watch?v=9nq2AekJRQA)
+- [Red 2001 Remaster](https://www.youtube.com/watch?v=TXD8yS7OQbw)
+- [XTC - Crowded Roomwmv](https://www.youtube.com/watch?v=IdUoPaleNK8)
+- [XTC - Beatownwmv](https://www.youtube.com/watch?v=ppFA-VeQ_7Y)
+- [XTC - The Rhythmwmv](https://www.youtube.com/watch?v=SIVYeMoDErI)
+- [XTC - Buzzcity Talkingwmv](https://www.youtube.com/watch?v=MnWydFl35Vo)
+- [XTC - Life Is Good In The Greenhousewmv](https://www.youtube.com/watch?v=zmyPiJz05FE)
+- [XTC - My Weaponwmv](https://www.youtube.com/watch?v=hezmvnJMWHY)
+- [XTC - Super Tuffwmv](https://www.youtube.com/watch?v=9nq2AekJRQA)
 - [XTC - I Am The Audience](https://www.youtube.com/watch?v=HVJgdsEYrfM)
-- [Meccanik Dancing (Oh We Go!)](https://www.youtube.com/watch?v=7E21z1oluwM)
-- [XTC - Battery Brides.wmv](https://www.youtube.com/watch?v=Kr3ArWo0SlY)
-- [XTC - Jumping In Gomorrah.wmv](https://www.youtube.com/watch?v=KJztc3j6Z-o)
-- [Meccanik Dancing (Oh We Go!)](https://www.youtube.com/watch?v=7E21z1oluwM)
-- [XTC - Meccanik Dancing (Oh We Go!).wmv](https://www.youtube.com/watch?v=j7WUNKUcEfM)
-- [Are You Receiving Me? (2001 Remaster)](https://www.youtube.com/watch?v=ame21cqN92g)
-- [12” X 12”  (No. 4)  GO 2  •  XTC](https://www.youtube.com/watch?v=MbVofsHTFno)
-- [XTC-Us Being Us (Go2 outtake)](https://www.youtube.com/watch?v=Q_rfgYpAjXo)
+- [Meccanik Dancing Oh We Go](https://www.youtube.com/watch?v=7E21z1oluwM)
+- [XTC - Battery Brideswmv](https://www.youtube.com/watch?v=Kr3ArWo0SlY)
+- [XTC - Jumping In Gomorrahwmv](https://www.youtube.com/watch?v=KJztc3j6Z-o)
+- [Meccanik Dancing Oh We Go](https://www.youtube.com/watch?v=7E21z1oluwM)
+- [XTC - Meccanik Dancing Oh We Gowmv](https://www.youtube.com/watch?v=j7WUNKUcEfM)
+- [Are You Receiving Me 2001 Remaster](https://www.youtube.com/watch?v=ame21cqN92g)
+- [12 X 12  No 4  GO 2    XTC](https://www.youtube.com/watch?v=MbVofsHTFno)
+- [XTC-Us Being Us Go2 outtake](https://www.youtube.com/watch?v=Q_rfgYpAjXo)
 
 ## Release Images
 {{< imageGrid >}}

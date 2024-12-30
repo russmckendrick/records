@@ -50,16 +50,16 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Videos
-### Alice In Chains - Rotten Apple (Official Audio)
-{{< youtube id="LDOApsYhtrk" title="Alice In Chains - Rotten Apple (Official Audio)" >}}<br>
+### Alice In Chains - Rotten Apple Official Audio
+{{< youtube id="LDOApsYhtrk" title="Alice In Chains - Rotten Apple Official Audio" >}}<br>
 ### More Videos
 
-- [Alice In Chains - Nutshell (Official Audio)](https://www.youtube.com/watch?v=G23iLGhh9lo)
-- [Alice In Chains - I Stay Away (Official Video)](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
-- [Alice In Chains - No Excuses (Official Video)](https://www.youtube.com/watch?v=r80HF68KM8g)
-- [Alice In Chains - Whale & Wasp (Official Audio)](https://www.youtube.com/watch?v=zGQuYs53PN4)
-- [Alice In Chains - Don't Follow (Official Audio)](https://www.youtube.com/watch?v=2SVR6Y4Gs28)
-- [Alice In Chains - Swing On This (Official Audio)](https://www.youtube.com/watch?v=Qs-NrNEJH2s)
+- [Alice In Chains - Nutshell Official Audio](https://www.youtube.com/watch?v=G23iLGhh9lo)
+- [Alice In Chains - I Stay Away Official Video](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
+- [Alice In Chains - No Excuses Official Video](https://www.youtube.com/watch?v=r80HF68KM8g)
+- [Alice In Chains - Whale  Wasp Official Audio](https://www.youtube.com/watch?v=zGQuYs53PN4)
+- [Alice In Chains - Dont Follow Official Audio](https://www.youtube.com/watch?v=2SVR6Y4Gs28)
+- [Alice In Chains - Swing On This Official Audio](https://www.youtube.com/watch?v=Qs-NrNEJH2s)
 
 ## Release Images
 {{< imageGrid >}}

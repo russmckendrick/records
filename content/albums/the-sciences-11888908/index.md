@@ -62,7 +62,7 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 {{< youtube id="XUQyM98fq2U" title="The Sciences" >}}<br>
 ### More Videos
 
-- [Marijuanaut's Theme](https://www.youtube.com/watch?v=AMUaWc46_0U)
+- [Marijuanauts Theme](https://www.youtube.com/watch?v=AMUaWc46_0U)
 - [Sonic Titan](https://www.youtube.com/watch?v=Uvyzq-iZCmI)
 - [Antarcticans Thawed](https://www.youtube.com/watch?v=RT4Q1EphGq8)
 - [Giza Butler](https://www.youtube.com/watch?v=bvDcwPDjFr8)

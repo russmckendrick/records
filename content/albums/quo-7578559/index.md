@@ -43,17 +43,17 @@ For a full list of the band's songs, see List of songs by Status Quo.
 
 
 ## Videos
-### Status Quo – Drifting Away
-{{< youtube id="XLFCYfjejIc" title="Status Quo – Drifting Away" >}}<br>
+### Status Quo  Drifting Away
+{{< youtube id="XLFCYfjejIc" title="Status Quo  Drifting Away" >}}<br>
 ### More Videos
 
-- [Status Quo – Backwater](https://www.youtube.com/watch?v=6BfeoeRNUts)
-- [Status Quo – Slow Train](https://www.youtube.com/watch?v=tQmOpfq8C1s)
-- [Status Quo – Just Take Me](https://www.youtube.com/watch?v=2hv9qdLr3vY)
-- [Status Quo – Lonely Night (Bonus Track)](https://www.youtube.com/watch?v=7_Y0SN5ZEzo)
-- [Status Quo – Lonely Man](https://www.youtube.com/watch?v=AsW6e9ANtRg)
-- [Status Quo – Fine Fine Fine](https://www.youtube.com/watch?v=EuU7WKNraFA)
-- [S̰t̰a̰t̰ṵs̰ Quo-Q̰ṵo̰ 1974 Full Album HQ](https://www.youtube.com/watch?v=M9ywfW5ZrKk)
+- [Status Quo  Backwater](https://www.youtube.com/watch?v=6BfeoeRNUts)
+- [Status Quo  Slow Train](https://www.youtube.com/watch?v=tQmOpfq8C1s)
+- [Status Quo  Just Take Me](https://www.youtube.com/watch?v=2hv9qdLr3vY)
+- [Status Quo  Lonely Night Bonus Track](https://www.youtube.com/watch?v=7_Y0SN5ZEzo)
+- [Status Quo  Lonely Man](https://www.youtube.com/watch?v=AsW6e9ANtRg)
+- [Status Quo  Fine Fine Fine](https://www.youtube.com/watch?v=EuU7WKNraFA)
+- [Status Quo-Quo 1974 Full Album HQ](https://www.youtube.com/watch?v=M9ywfW5ZrKk)
 
 ## Release Images
 {{< imageGrid >}}

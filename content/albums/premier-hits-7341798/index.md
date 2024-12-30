@@ -57,9 +57,9 @@ The album was again reissued in August 2015 by Beggars Banquet as Premier Hits a
 {{< youtube id="Im3JzxlatUs" title="Gary Numan - Cars" >}}<br>
 ### More Videos
 
-- [Gary Numan We Take Mystery (To bed) Promo Video 1982](https://www.youtube.com/watch?v=X6nmepWa3fE)
+- [Gary Numan We Take Mystery To bed Promo Video 1982](https://www.youtube.com/watch?v=X6nmepWa3fE)
 - [TUBEWAY ARMY   bombers](https://www.youtube.com/watch?v=GJLxnF_0bro)
-- [Gary Numan She's got Claws Promo Video 1981](https://www.youtube.com/watch?v=i_K93VLhlZk)
+- [Gary Numan Shes got Claws Promo Video 1981](https://www.youtube.com/watch?v=i_K93VLhlZk)
 - [Cars - Premier Mix](https://www.youtube.com/watch?v=O2_ixzTObiw)
 - [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)
 - [We are Glass](https://www.youtube.com/watch?v=Hh5ftP9-IAw)

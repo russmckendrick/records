@@ -45,8 +45,8 @@ Wretch is the first full-length album by American rock band Kyuss, released in S
 
 
 ## Videos
-### [Beginning of What's About to Happen] Hwy 74
-{{< youtube id="qDnoe3IP1Pk" title="[Beginning of What's About to Happen] Hwy 74" >}}<br>
+### Beginning of Whats About to Happen Hwy 74
+{{< youtube id="qDnoe3IP1Pk" title="Beginning of Whats About to Happen Hwy 74" >}}<br>
 ### More Videos
 
 - [Love Has Passed Me By](https://www.youtube.com/watch?v=svVpuKb3DhE)
@@ -56,7 +56,7 @@ Wretch is the first full-length album by American rock band Kyuss, released in S
 - [Deadly Kiss](https://www.youtube.com/watch?v=52ZJOcQg29o)
 - [The Law](https://www.youtube.com/watch?v=NMXjKDXWrm8)
 - [Isolation](https://www.youtube.com/watch?v=fvWKp5-XHrA)
-- [I'm Not](https://www.youtube.com/watch?v=0vlf4z-EMpQ)
+- [Im Not](https://www.youtube.com/watch?v=0vlf4z-EMpQ)
 - [Big Bikes](https://www.youtube.com/watch?v=RwpWyGPk4k0)
 - [Stage III](https://www.youtube.com/watch?v=FD6iMtFyclU)
 

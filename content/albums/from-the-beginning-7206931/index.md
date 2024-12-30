@@ -48,18 +48,18 @@ From the Beginning is the first compilation album by the English rock band Small
 
 
 ## Videos
-### Small Faces ~ Baby Don't You Do It (Vinyl)
-{{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}<br>
+### Small Faces  Baby Dont You Do It Vinyl
+{{< youtube id="K4Gay7gZmRA" title="Small Faces  Baby Dont You Do It Vinyl" >}}<br>
 ### More Videos
 
 - [My Way Of Giving](https://www.youtube.com/watch?v=SQ3T49mag48)
-- [You've Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
-- [My Mind's Eye](https://www.youtube.com/watch?v=D8cg7zzR_xM)
+- [Youve Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
+- [My Minds Eye](https://www.youtube.com/watch?v=D8cg7zzR_xM)
 - [Runaway](https://www.youtube.com/watch?v=7hQLBOHjvo8)
-- [All Or Nothing (Alternate Mix (Electronically Processed Stereo))](https://www.youtube.com/watch?v=coE00hcnaC0)
-- [My Mind's Eye (Alternate Mix (Electronically Processed Stereo))](https://www.youtube.com/watch?v=-dG-aarIv9Q)
+- [All Or Nothing Alternate Mix Electronically Processed Stereo](https://www.youtube.com/watch?v=coE00hcnaC0)
+- [My Minds Eye Alternate Mix Electronically Processed Stereo](https://www.youtube.com/watch?v=-dG-aarIv9Q)
 - [Plum Nellie](https://www.youtube.com/watch?v=baiGWibqlNs)
-- [[Tell Me] Have You Ever Seen Me](https://www.youtube.com/watch?v=e6KphiUD0-8)
+- [Tell Me Have You Ever Seen Me](https://www.youtube.com/watch?v=e6KphiUD0-8)
 
 ## Release Images
 {{< imageGrid >}}

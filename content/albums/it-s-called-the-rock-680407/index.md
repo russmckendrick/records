@@ -31,12 +31,12 @@ styles: ["Soul", "Disco"]
 
 
 ## Videos
-### Edwin Starr - It's Called The Rock ( Disco 1979 )
-{{< youtube id="2tUr7Ca3aww" title="Edwin Starr - It's Called The Rock ( Disco 1979 )" >}}<br>
+### Edwin Starr - Its Called The Rock  Disco 1979 
+{{< youtube id="2tUr7Ca3aww" title="Edwin Starr - Its Called The Rock  Disco 1979 " >}}<br>
 ### More Videos
 
 - [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
-- [Edwin Starr - It's Called The Rock ( Disco 1979 )](https://www.youtube.com/watch?v=2tUr7Ca3aww)
+- [Edwin Starr - Its Called The Rock  Disco 1979 ](https://www.youtube.com/watch?v=2tUr7Ca3aww)
 - [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
 
 ## Release Images

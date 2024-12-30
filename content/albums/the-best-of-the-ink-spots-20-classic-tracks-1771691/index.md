@@ -49,28 +49,28 @@ styles: ["Vocal"]
 
 
 ## Videos
-### If I Didn't Care
-{{< youtube id="Xt3QYPkoa64" title="If I Didn't Care" >}}<br>
+### If I Didnt Care
+{{< youtube id="Xt3QYPkoa64" title="If I Didnt Care" >}}<br>
 ### More Videos
 
-- [Bless You (For Being An Angel)](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
+- [Bless You For Being An Angel](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
 - [When the Swallows Come Back to Capistrano](https://www.youtube.com/watch?v=X2Fg7eJ7TPU)
-- [Whispering Grass (Don't Tell The Trees)](https://www.youtube.com/watch?v=v5rdLrZu6YM)
+- [Whispering Grass Dont Tell The Trees](https://www.youtube.com/watch?v=v5rdLrZu6YM)
 - [Maybe](https://www.youtube.com/watch?v=cSv7Nq2ia_Y)
 - [Java Jive](https://www.youtube.com/watch?v=R9jc0qNvVQk)
 - [Do I Worry](https://www.youtube.com/watch?v=Oib5lKejxkQ)
-- [I Don't Want To Set The World On Fire](https://www.youtube.com/watch?v=PdLRCvVM8b4)
-- [Ev'ry Night About This Time](https://www.youtube.com/watch?v=8oFBFAvUnsw)
-- [Don't Get Around Much Anymore](https://www.youtube.com/watch?v=tCDbAUtmDzU)
+- [I Dont Want To Set The World On Fire](https://www.youtube.com/watch?v=PdLRCvVM8b4)
+- [Evry Night About This Time](https://www.youtube.com/watch?v=8oFBFAvUnsw)
+- [Dont Get Around Much Anymore](https://www.youtube.com/watch?v=tCDbAUtmDzU)
 - [The Ink Spots - To Each His Own](https://www.youtube.com/watch?v=vbJTkC5fkvo)
-- [Ring, Telephone, Ring](https://www.youtube.com/watch?v=nDJmzW91IhU)
-- [I'd Climb The Highest Mountain](https://www.youtube.com/watch?v=o0v1mqjo5lI)
-- [Puttin' and Takin'](https://www.youtube.com/watch?v=5kxluBWPwmc)
+- [Ring Telephone Ring](https://www.youtube.com/watch?v=nDJmzW91IhU)
+- [Id Climb The Highest Mountain](https://www.youtube.com/watch?v=o0v1mqjo5lI)
+- [Puttin and Takin](https://www.youtube.com/watch?v=5kxluBWPwmc)
 - [Cow Cow Boogie](https://www.youtube.com/watch?v=XgOrrftfkdM)
 - [The Ink Spots - Into Each Life Some Rain Must Fall](https://www.youtube.com/watch?v=ayGkA-vxrMc)
-- [Your Feet's Too Big](https://www.youtube.com/watch?v=PbQ9P-_KLII)
-- [The Ink Spots - I'll Never Smile Again](https://www.youtube.com/watch?v=zYMdjMdpp8Y)
-- [The Ink Spots - It's A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
+- [Your Feets Too Big](https://www.youtube.com/watch?v=PbQ9P-_KLII)
+- [The Ink Spots - Ill Never Smile Again](https://www.youtube.com/watch?v=zYMdjMdpp8Y)
+- [The Ink Spots - Its A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
 - [The Ink Spots - Someones Rocking My Dreamboat](https://www.youtube.com/watch?v=SR1_sY0_yAo)
 
 ## Release Images

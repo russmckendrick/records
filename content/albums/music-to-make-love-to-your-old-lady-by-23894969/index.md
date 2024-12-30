@@ -58,22 +58,22 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 {{< youtube id="KhtXq2B4Ogo" title="Ladies Love Chest Rockwell" >}}<br>
 ### More Videos
 
-- [Pit Stop (Take Me Home)](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
+- [Pit Stop Take Me Home](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
 - [Anger Management](https://www.youtube.com/watch?v=RQvs6dAmlYM)
 - [Everyone Has a Summer](https://www.youtube.com/watch?v=8l32OnMUGVc)
 - [To Catch a Thief](https://www.youtube.com/watch?v=8nvzKqia8GM)
 - [Lies and Alibis](https://www.youtube.com/watch?v=yPgz_una_nI)
-- [Herbs, Good Hygiene and Socks](https://www.youtube.com/watch?v=efRQfNywAxM)
+- [Herbs Good Hygiene and Socks](https://www.youtube.com/watch?v=efRQfNywAxM)
 - [Book of the Month](https://www.youtube.com/watch?v=mSSu9jTbqGU)
 - [Lifeboat](https://www.youtube.com/watch?v=VwYgkmQF2a8)
 - [Strangers on a Train](https://www.youtube.com/watch?v=7KjrrBaNljg)
-- [Lovage (Love That Lovage, Baby)](https://www.youtube.com/watch?v=4ZAxmoRbiBE)
-- [Sex (I'm A)](https://www.youtube.com/watch?v=TV49MerPUb8)
-- [Koala's Lament](https://www.youtube.com/watch?v=vqXggr9cBec)
+- [Lovage Love That Lovage Baby](https://www.youtube.com/watch?v=4ZAxmoRbiBE)
+- [Sex Im A](https://www.youtube.com/watch?v=TV49MerPUb8)
+- [Koalas Lament](https://www.youtube.com/watch?v=vqXggr9cBec)
 - [Tea Time With Maseo](https://www.youtube.com/watch?v=j_I4u6qAK3k)
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
-- [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
-- [Lovage "Book of the Month"  (full video)](https://www.youtube.com/watch?v=KwBRkN9__uc)
+- [Archie  Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
+- [Lovage Book of the Month  full video](https://www.youtube.com/watch?v=KwBRkN9__uc)
 - [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
 
 ## Release Images

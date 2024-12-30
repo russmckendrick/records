@@ -56,14 +56,14 @@ Free All Angels received generally positive reviews from music critics, some of 
 
 
 ## Videos
-### Ash - Shining Light (Official HD Video)
-{{< youtube id="EIcK30k6dwM" title="Ash - Shining Light (Official HD Video)" >}}<br>
+### Ash - Shining Light Official HD Video
+{{< youtube id="EIcK30k6dwM" title="Ash - Shining Light Official HD Video" >}}<br>
 ### More Videos
 
-- [Ash - Burn Baby Burn (Official HD Video)](https://www.youtube.com/watch?v=t5ZtotlZ0ug)
-- [Ash - Sometimes (Official Video)](https://www.youtube.com/watch?v=Opvdr7k0LNY)
-- [Ash - Candy (Official Video)](https://www.youtube.com/watch?v=W-oLr5e6g08)
-- [Ash - There's A Star (Official Video)](https://www.youtube.com/watch?v=zMZKWC1XSXc)
+- [Ash - Burn Baby Burn Official HD Video](https://www.youtube.com/watch?v=t5ZtotlZ0ug)
+- [Ash - Sometimes Official Video](https://www.youtube.com/watch?v=Opvdr7k0LNY)
+- [Ash - Candy Official Video](https://www.youtube.com/watch?v=W-oLr5e6g08)
+- [Ash - Theres A Star Official Video](https://www.youtube.com/watch?v=zMZKWC1XSXc)
 
 ## Release Images
 {{< imageGrid >}}

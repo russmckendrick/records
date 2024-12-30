@@ -59,15 +59,15 @@ The album was critically well received but was not a chart success, which led to
 
 
 ## Videos
-### In The Land Of Grey & Pink
-{{< youtube id="sTAhkb31khY" title="In The Land Of Grey & Pink" >}}<br>
+### In The Land Of Grey  Pink
+{{< youtube id="sTAhkb31khY" title="In The Land Of Grey  Pink" >}}<br>
 ### More Videos
 
-- [Nine Feet Underground (Medley)](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
+- [Nine Feet Underground Medley](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
 - [Winter Wine](https://www.youtube.com/watch?v=IlmZt0a6YOQ)
 - [In the Land of Grey and Pink](https://www.youtube.com/watch?v=h-iU5bmP1aU)
 - [In the Land of Grey and Pink](https://www.youtube.com/watch?v=wehVw9ehcec)
-- [In the Land of Grey and Pink (Live)](https://www.youtube.com/watch?v=iiSZEy1RwFM)
+- [In the Land of Grey and Pink Live](https://www.youtube.com/watch?v=iiSZEy1RwFM)
 - [Golf Girl](https://www.youtube.com/watch?v=YNqkOnuHtRE)
 
 ## Release Images

@@ -39,30 +39,30 @@ Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first al
 
 
 ## Videos
-### Ian Dury & The Blockheads - Do It Yourself (1979) [Full Album]
-{{< youtube id="PxS9KClfvFg" title="Ian Dury & The Blockheads - Do It Yourself (1979) [Full Album]" >}}<br>
+### Ian Dury  The Blockheads - Do It Yourself 1979 Full Album
+{{< youtube id="PxS9KClfvFg" title="Ian Dury  The Blockheads - Do It Yourself 1979 Full Album" >}}<br>
 ### More Videos
 
-- [Ian Dury & The Blockheads -  Do It Yourself (Full Album)](https://www.youtube.com/watch?v=Ky-K9wZSR7Q)
-- [IAN DURY & THE BLOCKHEADS - Do it yourself - LP 1979](https://www.youtube.com/watch?v=cUFzHN9oyIU)
+- [Ian Dury  The Blockheads -  Do It Yourself Full Album](https://www.youtube.com/watch?v=Ky-K9wZSR7Q)
+- [IAN DURY  THE BLOCKHEADS - Do it yourself - LP 1979](https://www.youtube.com/watch?v=cUFzHN9oyIU)
 - [Inbetweenies](https://www.youtube.com/watch?v=B-WVf2pwBMY)
 - [Waiting for Your Taxi](https://www.youtube.com/watch?v=EGGq-uorOwc)
 - [Quiet](https://www.youtube.com/watch?v=dlh_II_EJO0)
-- [Don't Ask Me](https://www.youtube.com/watch?v=isSQIpheFhY)
+- [Dont Ask Me](https://www.youtube.com/watch?v=isSQIpheFhY)
 - [Sink My Boats](https://www.youtube.com/watch?v=xTE5-qM2MR0)
 - [This Is What We Find](https://www.youtube.com/watch?v=QKoh1J84uCU)
 - [Uneasy Sunny Day Hotsy Totsy](https://www.youtube.com/watch?v=q4aswN7D2DQ)
 - [Mischief](https://www.youtube.com/watch?v=-rv_sLtKfbE)
 - [Dance of the Screamers](https://www.youtube.com/watch?v=vMmvbGMVaQA)
-- [Lullaby for Franci/es](https://www.youtube.com/watch?v=t-wNUhAzRZ0)
-- [Ian Dury And The Blockheads - Do It Yourself (1979, Full Album)](https://www.youtube.com/watch?v=TtbzKDYotww)
+- [Lullaby for Francies](https://www.youtube.com/watch?v=t-wNUhAzRZ0)
+- [Ian Dury And The Blockheads - Do It Yourself 1979 Full Album](https://www.youtube.com/watch?v=TtbzKDYotww)
 - [Hit Me with Your Rhythm Stick](https://www.youtube.com/watch?v=RUnQnIrJ3XE)
-- [There Ain't Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
-- [15 | Do It Yourself | IAN DURY & THE BLOCKHEADS](https://www.youtube.com/watch?v=NUCkCRHLB-I)
-- [Ian Dury and The Blockheads – Hit Me With Your Rhythm Stick (Official HD Video)](https://www.youtube.com/watch?v=0WGVgfjnLqc)
-- [Ian Dury and the Blockheads - Do It Yourself - 40th Anniversary Edition (vinyl + 2CD + DVD)](https://www.youtube.com/watch?v=1WJy7QNI1hI)
-- [Val from Demon Unboxes the Ian Dury Do It Yourself 40th Anniversary Box Set!](https://www.youtube.com/watch?v=D1RHO2DcB7c)
-- [Ian Dury and The Blockheads – Hit Me With Your Rhythm Stick (Official HD Video)](https://www.youtube.com/watch?v=0WGVgfjnLqc)
+- [There Aint Half Been Some Clever Bastards](https://www.youtube.com/watch?v=Q63UoIPZFe0)
+- [15  Do It Yourself  IAN DURY  THE BLOCKHEADS](https://www.youtube.com/watch?v=NUCkCRHLB-I)
+- [Ian Dury and The Blockheads  Hit Me With Your Rhythm Stick Official HD Video](https://www.youtube.com/watch?v=0WGVgfjnLqc)
+- [Ian Dury and the Blockheads - Do It Yourself - 40th Anniversary Edition vinyl  2CD  DVD](https://www.youtube.com/watch?v=1WJy7QNI1hI)
+- [Val from Demon Unboxes the Ian Dury Do It Yourself 40th Anniversary Box Set](https://www.youtube.com/watch?v=D1RHO2DcB7c)
+- [Ian Dury and The Blockheads  Hit Me With Your Rhythm Stick Official HD Video](https://www.youtube.com/watch?v=0WGVgfjnLqc)
 
 ## Release Images
 {{< imageGrid >}}

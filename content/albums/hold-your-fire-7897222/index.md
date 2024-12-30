@@ -44,8 +44,8 @@ The album was not as commercially successful as most of the band's releases of t
 
 
 ## Videos
-### Rush - Time Stand Still (Official Music Video)
-{{< youtube id="dMSFqXGZ5TQ" title="Rush - Time Stand Still (Official Music Video)" >}}<br>
+### Rush - Time Stand Still Official Music Video
+{{< youtube id="dMSFqXGZ5TQ" title="Rush - Time Stand Still Official Music Video" >}}<br>
 
 
 ## Release Images

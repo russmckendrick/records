@@ -57,16 +57,16 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 
 
 ## Videos
-### Simple Things - Zero 7 (Full Album)
-{{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}<br>
+### Simple Things - Zero 7 Full Album
+{{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 Full Album" >}}<br>
 ### More Videos
 
-- [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
+- [Zero 7 - Destiny Full-Length HQ](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
-- [Simple Things (Live)](https://www.youtube.com/watch?v=Z2IHG5rLMns)
-- [Zero 7 - In The Waiting Line (Official Video) ft. Sophie Barker](https://www.youtube.com/watch?v=V1zrEGsj234)
+- [Simple Things Live](https://www.youtube.com/watch?v=Z2IHG5rLMns)
+- [Zero 7 - In The Waiting Line Official Video ft Sophie Barker](https://www.youtube.com/watch?v=V1zrEGsj234)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
-- [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
+- [Zero 7 - I Have Seen Official Video ft Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 
 ## Release Images
 {{< imageGrid >}}

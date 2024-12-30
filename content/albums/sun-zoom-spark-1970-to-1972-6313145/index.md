@@ -88,11 +88,11 @@ styles: ["Blues Rock", "Experimental"]
 
 
 ## Videos
-### Captain Beefheart - The Witch Doctor Life (Instrumental Take)
-{{< youtube id="xySrfIPz4Hc" title="Captain Beefheart - The Witch Doctor Life (Instrumental Take)" >}}<br>
+### Captain Beefheart - The Witch Doctor Life Instrumental Take
+{{< youtube id="xySrfIPz4Hc" title="Captain Beefheart - The Witch Doctor Life Instrumental Take" >}}<br>
 ### More Videos
 
-- [Captain Beefheart - Pompadour Swamp / Suction Prints](https://www.youtube.com/watch?v=ss0Vcb_4K6A)
+- [Captain Beefheart - Pompadour Swamp  Suction Prints](https://www.youtube.com/watch?v=ss0Vcb_4K6A)
 
 ## Release Images
 {{< imageGrid >}}

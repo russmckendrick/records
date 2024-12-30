@@ -59,12 +59,12 @@ I just love making music, so it’s not that difficult. I had a strange four day
 
 
 ## Videos
-### The Good, The Bad & The Queen - The Truce of Twilight (Official)
-{{< youtube id="vnRYapgm72k" title="The Good, The Bad & The Queen - The Truce of Twilight (Official)" >}}<br>
+### The Good The Bad  The Queen - The Truce of Twilight Official
+{{< youtube id="vnRYapgm72k" title="The Good The Bad  The Queen - The Truce of Twilight Official" >}}<br>
 ### More Videos
 
-- [The Good, The Bad & The Queen - Ribbons (Official)](https://www.youtube.com/watch?v=8MGuYUBZZ3Q)
-- [The Good, The Bad & The Queen - The Poison Tree (Official)](https://www.youtube.com/watch?v=6g6qO3HxaKI)
+- [The Good The Bad  The Queen - Ribbons Official](https://www.youtube.com/watch?v=8MGuYUBZZ3Q)
+- [The Good The Bad  The Queen - The Poison Tree Official](https://www.youtube.com/watch?v=6g6qO3HxaKI)
 
 ## Release Images
 {{< imageGrid >}}

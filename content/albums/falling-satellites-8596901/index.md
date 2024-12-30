@@ -60,12 +60,12 @@ In this instance – life. This is my midlife crisis album! The whole album is a
 
 
 ## Videos
-### FROST* - Numbers (OFFICIAL VIDEO)
-{{< youtube id="exnCIi-MLkc" title="FROST* - Numbers (OFFICIAL VIDEO)" >}}<br>
+### FROST - Numbers OFFICIAL VIDEO
+{{< youtube id="exnCIi-MLkc" title="FROST - Numbers OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [The Raging Against The Dying of the Light Blues in 7/8](https://www.youtube.com/watch?v=89I01Wd5a1Q)
-- [Frost* - Lights Out (Progressive Rock)](https://www.youtube.com/watch?v=biEvNFPTpcw)
+- [The Raging Against The Dying of the Light Blues in 78](https://www.youtube.com/watch?v=89I01Wd5a1Q)
+- [Frost - Lights Out Progressive Rock](https://www.youtube.com/watch?v=biEvNFPTpcw)
 
 ## Release Images
 {{< imageGrid >}}

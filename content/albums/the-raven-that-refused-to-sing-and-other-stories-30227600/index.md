@@ -42,18 +42,18 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 
 
 ## Videos
-### Steven Wilson - Luminol (Demo)
-{{< youtube id="_aGzrVi87n8" title="Steven Wilson - Luminol (Demo)" >}}<br>
+### Steven Wilson - Luminol Demo
+{{< youtube id="_aGzrVi87n8" title="Steven Wilson - Luminol Demo" >}}<br>
 ### More Videos
 
-- [Steven Wilson - Drive Home (Demo)](https://www.youtube.com/watch?v=KttfwhzdhMk)
-- [Steven Wilson - The Holy Drinker (Demo)](https://www.youtube.com/watch?v=hiBhUfkqIds)
+- [Steven Wilson - Drive Home Demo](https://www.youtube.com/watch?v=KttfwhzdhMk)
+- [Steven Wilson - The Holy Drinker Demo](https://www.youtube.com/watch?v=hiBhUfkqIds)
 - [Steven Wilson - Clock Song](https://www.youtube.com/watch?v=7ejwukoKWUQ)
-- [Steven Wilson - Pin Drop (Demo)](https://www.youtube.com/watch?v=TXNsBg9YyNg)
-- [Steven Wilson - The Watchmaker (Demo)](https://www.youtube.com/watch?v=j1IDWwKHqFA)
-- [Steven Wilson - The Raven That Refused To Sing (Demo)](https://www.youtube.com/watch?v=AXIY8tLqmy0)
+- [Steven Wilson - Pin Drop Demo](https://www.youtube.com/watch?v=TXNsBg9YyNg)
+- [Steven Wilson - The Watchmaker Demo](https://www.youtube.com/watch?v=j1IDWwKHqFA)
+- [Steven Wilson - The Raven That Refused To Sing Demo](https://www.youtube.com/watch?v=AXIY8tLqmy0)
 - [Steven Wilson - The Raven That Refused To Sing](https://www.youtube.com/watch?v=VxLrGJfRPJU)
-- [Steven Wilson - The Raven That Refused To Sing [Full Album]](https://www.youtube.com/watch?v=njhyXl88k14)
+- [Steven Wilson - The Raven That Refused To Sing Full Album](https://www.youtube.com/watch?v=njhyXl88k14)
 - [Steven Wilson - The Raven that Refused to Sing](https://www.youtube.com/watch?v=u4XevlloPY4)
 - [Steven Wilson - Drive Home](https://www.youtube.com/watch?v=ycYewhiaVBk)
 - [Steven Wilson - Luminol](https://www.youtube.com/watch?v=_w8SY_9yO8k)

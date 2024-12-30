@@ -48,17 +48,17 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 
 
 ## Videos
-### Battery (Remastered)
-{{< youtube id="a_ITtP033RI" title="Battery (Remastered)" >}}<br>
+### Battery Remastered
+{{< youtube id="a_ITtP033RI" title="Battery Remastered" >}}<br>
 ### More Videos
 
-- [Master of Puppets (Remastered)](https://www.youtube.com/watch?v=E0ozmU9cJDg)
-- [The Thing That Should Not Be (Remastered)](https://www.youtube.com/watch?v=DoHk21aGHas)
-- [Welcome Home (Sanitarium) (Remastered)](https://www.youtube.com/watch?v=ZiIc0HuJ78Q)
-- [Disposable Heroes (Remastered)](https://www.youtube.com/watch?v=dzssbzIsmqU)
-- [Leper Messiah (Remastered)](https://www.youtube.com/watch?v=JYALpvUGNk8)
-- [Orion (Remastered)](https://www.youtube.com/watch?v=-OxslxSG48Q)
-- [Damage, Inc. (Remastered)](https://www.youtube.com/watch?v=DdekZoYoamE)
+- [Master of Puppets Remastered](https://www.youtube.com/watch?v=E0ozmU9cJDg)
+- [The Thing That Should Not Be Remastered](https://www.youtube.com/watch?v=DoHk21aGHas)
+- [Welcome Home Sanitarium Remastered](https://www.youtube.com/watch?v=ZiIc0HuJ78Q)
+- [Disposable Heroes Remastered](https://www.youtube.com/watch?v=dzssbzIsmqU)
+- [Leper Messiah Remastered](https://www.youtube.com/watch?v=JYALpvUGNk8)
+- [Orion Remastered](https://www.youtube.com/watch?v=-OxslxSG48Q)
+- [Damage Inc Remastered](https://www.youtube.com/watch?v=DdekZoYoamE)
 
 ## Release Images
 {{< imageGrid >}}

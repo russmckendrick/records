@@ -50,19 +50,19 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 
 
 ## Videos
-### Rid Of Me (4-Track Demo Version)
-{{< youtube id="ZrRkrD8edhE" title="Rid Of Me (4-Track Demo Version)" >}}<br>
+### Rid Of Me 4-Track Demo Version
+{{< youtube id="ZrRkrD8edhE" title="Rid Of Me 4-Track Demo Version" >}}<br>
 ### More Videos
 
 - [Hardly Wait](https://www.youtube.com/watch?v=JmSfWo5pwpo)
-- [Easy (4-Track Demo Version)](https://www.youtube.com/watch?v=8OBm_rDdWPE)
-- [Driving (4-Track Demo Version)](https://www.youtube.com/watch?v=vGGRoL_jzl0)
-- [Yuri-G (4-Track Demo Version)](https://www.youtube.com/watch?v=R_LvybRW1YI)
-- [Snake (4-Track Demo Version)](https://www.youtube.com/watch?v=vAWGz8yA1qs)
-- [Legs (4-Track Demo Version)](https://www.youtube.com/watch?v=Tbk66xllWS4)
-- [Ecstasy (4-Track Demo Version)](https://www.youtube.com/watch?v=KSNvkoJZ3uo)
-- [50ft Queenie (4-Track Demo Version)](https://www.youtube.com/watch?v=bt1g1FDOMh0)
-- [Reeling (4-Track Demo Version)](https://www.youtube.com/watch?v=qoxipCtMT14)
+- [Easy 4-Track Demo Version](https://www.youtube.com/watch?v=8OBm_rDdWPE)
+- [Driving 4-Track Demo Version](https://www.youtube.com/watch?v=vGGRoL_jzl0)
+- [Yuri-G 4-Track Demo Version](https://www.youtube.com/watch?v=R_LvybRW1YI)
+- [Snake 4-Track Demo Version](https://www.youtube.com/watch?v=vAWGz8yA1qs)
+- [Legs 4-Track Demo Version](https://www.youtube.com/watch?v=Tbk66xllWS4)
+- [Ecstasy 4-Track Demo Version](https://www.youtube.com/watch?v=KSNvkoJZ3uo)
+- [50ft Queenie 4-Track Demo Version](https://www.youtube.com/watch?v=bt1g1FDOMh0)
+- [Reeling 4-Track Demo Version](https://www.youtube.com/watch?v=qoxipCtMT14)
 
 ## Release Images
 {{< imageGrid >}}

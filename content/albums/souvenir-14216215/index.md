@@ -89,8 +89,8 @@ A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token o
 
 
 ## Videos
-### Souvenir (Remastered 2019)
-{{< youtube id="RVftFadDCic" title="Souvenir (Remastered 2019)" >}}<br>
+### Souvenir Remastered 2019
+{{< youtube id="RVftFadDCic" title="Souvenir Remastered 2019" >}}<br>
 
 
 ## Release Images

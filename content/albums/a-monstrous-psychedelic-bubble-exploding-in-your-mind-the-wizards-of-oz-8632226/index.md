@@ -41,20 +41,20 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 
 
 ## Videos
-### Wizard of Oz - CD 2 (A Monstrous Psychedelic Bubble Exploding In Your Mind)
-{{< youtube id="1vuBHUgX9Qg" title="Wizard of Oz - CD 2 (A Monstrous Psychedelic Bubble Exploding In Your Mind)" >}}<br>
+### Wizard of Oz - CD 2 A Monstrous Psychedelic Bubble Exploding In Your Mind
+{{< youtube id="1vuBHUgX9Qg" title="Wizard of Oz - CD 2 A Monstrous Psychedelic Bubble Exploding In Your Mind" >}}<br>
 ### More Videos
 
 - [CYBOTRON - Gods Of Norse](https://www.youtube.com/watch?v=fPCj8pD31RM)
 - [CYBOTRON - Gods Of Norse](https://www.youtube.com/watch?v=fPCj8pD31RM)
-- [Tame Impala - It's not meant to be](https://www.youtube.com/watch?v=KeZt5IGJ1T8)
-- [Russell Morris - The Real Thing (1969)](https://www.youtube.com/watch?v=M_1R3aUFL0g)
-- [Leong Lau - Salem Abdullah (1977)](https://www.youtube.com/watch?v=UD1NFfxrtCc)
+- [Tame Impala - Its not meant to be](https://www.youtube.com/watch?v=KeZt5IGJ1T8)
+- [Russell Morris - The Real Thing 1969](https://www.youtube.com/watch?v=M_1R3aUFL0g)
+- [Leong Lau - Salem Abdullah 1977](https://www.youtube.com/watch?v=UD1NFfxrtCc)
 - [Doug Jerebine - Midnight Sun](https://www.youtube.com/watch?v=07oBUV8hY7U)
-- [Ash Grunwald - Walking (Official Video)](https://www.youtube.com/watch?v=dovf9HCgYAs)
-- [Air - The Sea (1974)](https://www.youtube.com/watch?v=-YHraJa5Qjk)
+- [Ash Grunwald - Walking Official Video](https://www.youtube.com/watch?v=dovf9HCgYAs)
+- [Air - The Sea 1974](https://www.youtube.com/watch?v=-YHraJa5Qjk)
 - [A Monstrous Psychedelic Bubble - The Wizards Of Oz - psychvert 2](https://www.youtube.com/watch?v=xLN0gUVG9lA)
-- [A Monstrous Psychedelic Bubble (Exploding In Your Mind)...it's The Wizards Of Oz](https://www.youtube.com/watch?v=1_QkVmGHxfs)
+- [A Monstrous Psychedelic Bubble Exploding In Your Mindits The Wizards Of Oz](https://www.youtube.com/watch?v=1_QkVmGHxfs)
 
 ## Release Images
 {{< imageGrid >}}

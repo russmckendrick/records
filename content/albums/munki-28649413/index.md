@@ -67,12 +67,12 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 
 
 ## Videos
-### The Jesus And Mary Chain - Cracking Up [OFFICIAL VIDEO]
-{{< youtube id="lHhz9_R2L7E" title="The Jesus And Mary Chain - Cracking Up [OFFICIAL VIDEO]" >}}<br>
+### The Jesus And Mary Chain - Cracking Up OFFICIAL VIDEO
+{{< youtube id="lHhz9_R2L7E" title="The Jesus And Mary Chain - Cracking Up OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
-- [The Jesus and Mary Chain - I Love Rock'n'Roll (Official Video)](https://www.youtube.com/watch?v=oQHOaZCNUqs)
+- [The Jesus And Mary Chain - Never Understand Official Music Video](https://www.youtube.com/watch?v=b2bzrCCKDwc)
+- [The Jesus and Mary Chain - I Love RocknRoll Official Video](https://www.youtube.com/watch?v=oQHOaZCNUqs)
 - [Birthday](https://www.youtube.com/watch?v=wGhiFy_OIJY)
 - [Stardust Remedy](https://www.youtube.com/watch?v=EpCB1Ud2N6k)
 - [Fizzy - The Jesus And Mary chain](https://www.youtube.com/watch?v=E-NXFXT3r2Q)
@@ -82,11 +82,11 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 - [The Jesus And Mary Chain - Degenerate](https://www.youtube.com/watch?v=zue6r1Hi-EI)
 - [Commercial - The Jesus and Mary Chain](https://www.youtube.com/watch?v=Zn96e7Fm6ig)
 - [The Jesus and Mary Chain - Supertramp](https://www.youtube.com/watch?v=hrZxvG6NJL4)
-- [The Jesus And Mary Chain - I Can't Find The Time For Times](https://www.youtube.com/watch?v=ixQRThWIVH4)
+- [The Jesus And Mary Chain - I Cant Find The Time For Times](https://www.youtube.com/watch?v=ixQRThWIVH4)
 - [The Jesus And Mary Chain - Man On The Moon](https://www.youtube.com/watch?v=ryPG7FNgNL0)
 - [Black](https://www.youtube.com/watch?v=OlL4rLF6l-4)
 - [The Jesus And Mary Chain - Dream Lover](https://www.youtube.com/watch?v=thiiUDzLLAE)
-- [The Jesus and Mary Chain - I Hate Rock'n'Roll (Official Video)](https://www.youtube.com/watch?v=Mlu4F4SRjyk)
+- [The Jesus and Mary Chain - I Hate RocknRoll Official Video](https://www.youtube.com/watch?v=Mlu4F4SRjyk)
 
 ## Release Images
 {{< imageGrid >}}

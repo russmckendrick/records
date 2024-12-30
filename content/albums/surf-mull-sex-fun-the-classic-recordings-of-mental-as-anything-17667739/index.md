@@ -55,9 +55,9 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ### More Videos
 
 - [MENTAL AS ANYTHING THE NIPS ARE GETTING BIGGER](https://www.youtube.com/watch?v=VVnLJQIJw2Y)
-- [Mental As Anything - If You Leave Me (popular version, 1981)](https://www.youtube.com/watch?v=tSGtg26-TpU)
+- [Mental As Anything - If You Leave Me popular version 1981](https://www.youtube.com/watch?v=tSGtg26-TpU)
 - [Mental As Anything - Rock and Roll Music](https://www.youtube.com/watch?v=ZYW5PHqBwgM)
-- [Mental As Anything - The World Seems Difficult (1989)](https://www.youtube.com/watch?v=j5aFABRQPQQ)
+- [Mental As Anything - The World Seems Difficult 1989](https://www.youtube.com/watch?v=j5aFABRQPQQ)
 
 ## Release Images
 {{< imageGrid >}}

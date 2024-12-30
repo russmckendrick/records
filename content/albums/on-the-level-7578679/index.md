@@ -41,19 +41,19 @@ The album entered the UK Albums Chart at number one. All tracks were written or 
 
 
 ## Videos
-### Status Quo – Little Lady
-{{< youtube id="asZEzuRN6fo" title="Status Quo – Little Lady" >}}<br>
+### Status Quo  Little Lady
+{{< youtube id="asZEzuRN6fo" title="Status Quo  Little Lady" >}}<br>
 ### More Videos
 
-- [Status Quo – Most Of The Time](https://www.youtube.com/watch?v=3QNeRRammmM)
-- [Status Quo – I Saw The Light](https://www.youtube.com/watch?v=lAJKC6KMUbA)
-- [Status Quo – Over And Done](https://www.youtube.com/watch?v=ck1z8x4_3ww)
-- [Status Quo – Nightride](https://www.youtube.com/watch?v=ZC6ePFIZ_Cs)
-- [Status Quo – Down Down](https://www.youtube.com/watch?v=wF1myVZPBc0)
-- [Status Quo – Broken Man](https://www.youtube.com/watch?v=y0UdLPrKGEc)
-- [Status Quo – What To Do](https://www.youtube.com/watch?v=hLUBS3A8tbo)
-- [Status Quo – Where I Am](https://www.youtube.com/watch?v=M-YHhgsIdNs)
-- [Status Quo – Bye Bye Johnny](https://www.youtube.com/watch?v=10GD7OFcCQk)
+- [Status Quo  Most Of The Time](https://www.youtube.com/watch?v=3QNeRRammmM)
+- [Status Quo  I Saw The Light](https://www.youtube.com/watch?v=lAJKC6KMUbA)
+- [Status Quo  Over And Done](https://www.youtube.com/watch?v=ck1z8x4_3ww)
+- [Status Quo  Nightride](https://www.youtube.com/watch?v=ZC6ePFIZ_Cs)
+- [Status Quo  Down Down](https://www.youtube.com/watch?v=wF1myVZPBc0)
+- [Status Quo  Broken Man](https://www.youtube.com/watch?v=y0UdLPrKGEc)
+- [Status Quo  What To Do](https://www.youtube.com/watch?v=hLUBS3A8tbo)
+- [Status Quo  Where I Am](https://www.youtube.com/watch?v=M-YHhgsIdNs)
+- [Status Quo  Bye Bye Johnny](https://www.youtube.com/watch?v=10GD7OFcCQk)
 
 ## Release Images
 {{< imageGrid >}}

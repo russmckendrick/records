@@ -41,21 +41,21 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 
 
 ## Videos
-### Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)
-{{< youtube id="on-y9Pv-CJA" title="Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)" >}}<br>
+### Fun Boy Three - The Lunatics Have Taken Over The Asylum Official Music Video
+{{< youtube id="on-y9Pv-CJA" title="Fun Boy Three - The Lunatics Have Taken Over The Asylum Official Music Video" >}}<br>
 ### More Videos
 
 - [Funrama 2](https://www.youtube.com/watch?v=sSD93kA2xPU)
-- [The FUN BOY THREE – The Fun Boy Three – 1982 – Full album [Vinyl]](https://www.youtube.com/watch?v=OhmqmCytUPU)
-- [faith hope & charity](https://www.youtube.com/watch?v=ASx_aPbVJDM)
-- [BANANARAMA Ft. FB3-It Ain't What You Do... (dgm's FB3 album mix)](https://www.youtube.com/watch?v=P8JBgqrW18E)
+- [The FUN BOY THREE  The Fun Boy Three  1982  Full album Vinyl](https://www.youtube.com/watch?v=OhmqmCytUPU)
+- [faith hope  charity](https://www.youtube.com/watch?v=ASx_aPbVJDM)
+- [BANANARAMA Ft FB3-It Aint What You Do dgms FB3 album mix](https://www.youtube.com/watch?v=P8JBgqrW18E)
 - [Fun Boy Three - The Lunatics Have Taken Over the Asylum](https://www.youtube.com/watch?v=7aItpjF5vXc)
-- [Fun Boy Three. It Ain't What You Do (It's The Way That You Do It).](https://www.youtube.com/watch?v=4o0r9unT4L4)
-- [Fun Boy Three - It Ain't What You Do It's The Way That You Do It](https://www.youtube.com/watch?v=0_kjctTbMHA)
+- [Fun Boy Three It Aint What You Do Its The Way That You Do It](https://www.youtube.com/watch?v=4o0r9unT4L4)
+- [Fun Boy Three - It Aint What You Do Its The Way That You Do It](https://www.youtube.com/watch?v=0_kjctTbMHA)
 - [Fun Boy Three - The Lunatics Have Taken Over The Asylum](https://www.youtube.com/watch?v=on-y9Pv-CJA)
-- [Fun Boy Three - The Telephone Always Rings (Official Video)](https://www.youtube.com/watch?v=j5nH3iYfYh8)
+- [Fun Boy Three - The Telephone Always Rings Official Video](https://www.youtube.com/watch?v=j5nH3iYfYh8)
 - [Fun Boy Three - best of luck mate](https://www.youtube.com/watch?v=c1aNpGFtgWA)
-- [Fun Boy Three - Live 1983 (Full Performance)](https://www.youtube.com/watch?v=fyc5jq5a2PE)
+- [Fun Boy Three - Live 1983 Full Performance](https://www.youtube.com/watch?v=fyc5jq5a2PE)
 - [Fun Boy Three - way on down](https://www.youtube.com/watch?v=hYuD4W-uEFo)
 - [Fun Boy Three - life in general](https://www.youtube.com/watch?v=eCSB7vyIqk0)
 - [Fun Boy Three - the end](https://www.youtube.com/watch?v=JoKiePSYWb4)

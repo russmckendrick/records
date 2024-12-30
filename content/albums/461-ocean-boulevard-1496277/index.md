@@ -46,12 +46,12 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 
 
 ## Videos
-### 에릭 클랩튼 (1974) Eric Clapton — 461 Ocean Boulevard [Full Album]
-{{< youtube id="9hprfwmfz5k" title="에릭 클랩튼 (1974) Eric Clapton — 461 Ocean Boulevard [Full Album]" >}}<br>
+### 에릭 클랩튼 1974 Eric Clapton  461 Ocean Boulevard Full Album
+{{< youtube id="9hprfwmfz5k" title="에릭 클랩튼 1974 Eric Clapton  461 Ocean Boulevard Full Album" >}}<br>
 ### More Videos
 
-- [Eric Clapton - Motherless Children (Live In San Diego)](https://www.youtube.com/watch?v=h9d2ZeAvBgA)
-- [Eric Clapton - Layla (Live Aid 1985)](https://www.youtube.com/watch?v=f9myqi7VL9s)
+- [Eric Clapton - Motherless Children Live In San Diego](https://www.youtube.com/watch?v=h9d2ZeAvBgA)
+- [Eric Clapton - Layla Live Aid 1985](https://www.youtube.com/watch?v=f9myqi7VL9s)
 
 ## Release Images
 {{< imageGrid >}}

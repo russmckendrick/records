@@ -47,11 +47,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]
-{{< youtube id="_3vHn79gP4Q" title="Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]" >}}<br>
+### Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl
+{{< youtube id="_3vHn79gP4Q" title="Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl" >}}<br>
 ### More Videos
 
-- [Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]](https://www.youtube.com/watch?v=_3vHn79gP4Q)
+- [Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl](https://www.youtube.com/watch?v=_3vHn79gP4Q)
 
 ## Release Images
 {{< imageGrid >}}

@@ -45,22 +45,22 @@ I, Assassin is the fourth solo studio album by the English new wave musician Gar
 
 
 ## Videos
-### We Take Mystery (To Bed)
-{{< youtube id="sM7odiEO1k8" title="We Take Mystery (To Bed)" >}}<br>
+### We Take Mystery To Bed
+{{< youtube id="sM7odiEO1k8" title="We Take Mystery To Bed" >}}<br>
 ### More Videos
 
 - [Music for Chameleons](https://www.youtube.com/watch?v=qseh-XKWvig)
 - [War Songs](https://www.youtube.com/watch?v=muLUYXAuLcQ)
 - [A Dream of Siam](https://www.youtube.com/watch?v=i0Xpc62vASU)
 - [This Is My House](https://www.youtube.com/watch?v=PhEeiju5XYw)
-- [I, Assassin](https://www.youtube.com/watch?v=Swva7YEvDsk)
-- [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)
+- [I Assassin](https://www.youtube.com/watch?v=Swva7YEvDsk)
+- [The 1930s Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)
 - [War Games](https://www.youtube.com/watch?v=-wm7x18Xiqs)
 - [Glitter and Ash](https://www.youtube.com/watch?v=Ieqb9gqQ1jY)
 - [This House Is Cold](https://www.youtube.com/watch?v=9ZpdwtYphMc)
-- [Gary Numan / I, Assassin / Noise Noise  (Audio)](https://www.youtube.com/watch?v=7fADQl-x-dQ)
-- [Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
-- [Bridge? What Bridge?](https://www.youtube.com/watch?v=8X5yt6h3Bks)
+- [Gary Numan  I Assassin  Noise Noise  Audio](https://www.youtube.com/watch?v=7fADQl-x-dQ)
+- [Gary Numan  I Assassin  We Take Mystery Early Version  Audio](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
+- [Bridge What Bridge](https://www.youtube.com/watch?v=8X5yt6h3Bks)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,27 +47,27 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 
 
 ## Videos
-### Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album
-{{< youtube id="5L0VP7nAZls" title="Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album" >}}<br>
+### Richie Hawtin - Plastikman - Sheet One 30th Anniversary Edition - Full Album
+{{< youtube id="5L0VP7nAZls" title="Richie Hawtin - Plastikman - Sheet One 30th Anniversary Edition - Full Album" >}}<br>
 ### More Videos
 
-- [Richie Hawtin - Plastikman - 'Sheet One' - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
-- [Plastikman - ‘Sheet One’ - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
-- [December 10, 2023 - Plastikman - ‘Sheet One’ Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
-- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=Wh3efN_3E0w)
-- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=P99Wv3ve7jM)
+- [Richie Hawtin - Plastikman - Sheet One - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
+- [Plastikman - Sheet One - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
+- [December 10 2023 - Plastikman - Sheet One Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 𝟏𝟗𝟗𝟑](https://www.youtube.com/watch?v=Wh3efN_3E0w)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 𝟏𝟗𝟗𝟑](https://www.youtube.com/watch?v=P99Wv3ve7jM)
 - [Plastikman - Sheet One - Spastik](https://www.youtube.com/watch?v=lgoJ_4RrVgE)
-- [Plasticine-Plastikman (Sheet One)](https://www.youtube.com/watch?v=y9I3rFrypfw)
+- [Plasticine-Plastikman Sheet One](https://www.youtube.com/watch?v=y9I3rFrypfw)
 - [Plastikman - Sheet One - Plasticine](https://www.youtube.com/watch?v=ErLZGVgH7YE)
-- [Plastik Man – Sheet One  - Koma](https://www.youtube.com/watch?v=Jv7L6_yCGgc)
-- [Plasticity (Remastered)](https://www.youtube.com/watch?v=Td7818D3Yx4)
+- [Plastik Man  Sheet One  - Koma](https://www.youtube.com/watch?v=Jv7L6_yCGgc)
+- [Plasticity Remastered](https://www.youtube.com/watch?v=Td7818D3Yx4)
 - [Plastikman - Sheet One](https://www.youtube.com/watch?v=ZBzLXq84QIE)
-- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=P99Wv3ve7jM)
-- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=Wh3efN_3E0w)
-- [Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album](https://www.youtube.com/watch?v=5L0VP7nAZls)
-- [Richie Hawtin - Plastikman - 'Sheet One' - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
-- [Plastikman - ‘Sheet One’ - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
-- [December 10, 2023 - Plastikman - ‘Sheet One’ Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 𝟏𝟗𝟗𝟑](https://www.youtube.com/watch?v=P99Wv3ve7jM)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 𝟏𝟗𝟗𝟑](https://www.youtube.com/watch?v=Wh3efN_3E0w)
+- [Richie Hawtin - Plastikman - Sheet One 30th Anniversary Edition - Full Album](https://www.youtube.com/watch?v=5L0VP7nAZls)
+- [Richie Hawtin - Plastikman - Sheet One - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
+- [Plastikman - Sheet One - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
+- [December 10 2023 - Plastikman - Sheet One Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
 
 ## Release Images
 {{< imageGrid >}}

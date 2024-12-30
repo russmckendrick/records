@@ -84,14 +84,14 @@ So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades exp
 
 
 ## Videos
-### TOOL - Fear Inoculum (Audio)
-{{< youtube id="q7DfQMPmJRI" title="TOOL - Fear Inoculum (Audio)" >}}<br>
+### TOOL - Fear Inoculum Audio
+{{< youtube id="q7DfQMPmJRI" title="TOOL - Fear Inoculum Audio" >}}<br>
 ### More Videos
 
-- [TOOL - Pneuma (Audio)](https://www.youtube.com/watch?v=5ClCaPmAA7s)
-- [TOOL - Invincible (Audio)](https://www.youtube.com/watch?v=hxsld16TjSU)
-- [TOOL - Descending (Audio)](https://www.youtube.com/watch?v=PcSoLwFisaw)
-- [TOOL - Culling Voices (Audio)](https://www.youtube.com/watch?v=rj3IbZV_YQM)
+- [TOOL - Pneuma Audio](https://www.youtube.com/watch?v=5ClCaPmAA7s)
+- [TOOL - Invincible Audio](https://www.youtube.com/watch?v=hxsld16TjSU)
+- [TOOL - Descending Audio](https://www.youtube.com/watch?v=PcSoLwFisaw)
+- [TOOL - Culling Voices Audio](https://www.youtube.com/watch?v=rj3IbZV_YQM)
 - [Chocolate Chip Trip](https://www.youtube.com/watch?v=DkYFuSo0oWA)
 - [7empest](https://www.youtube.com/watch?v=wVjcmOKTqJc)
 

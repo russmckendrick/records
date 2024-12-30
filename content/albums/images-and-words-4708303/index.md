@@ -48,8 +48,8 @@ Images and Words is the second studio album by American progressive metal band D
 
 
 ## Videos
-### Dream Theater - Pull Me Under [OFFICIAL VIDEO]
-{{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}<br>
+### Dream Theater - Pull Me Under OFFICIAL VIDEO
+{{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images

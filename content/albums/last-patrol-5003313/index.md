@@ -51,17 +51,17 @@ Last Patrol is the ninth studio album by American rock band Monster Magnet, rele
 
 
 ## Videos
-### Monster Magnet - Last Patrol (full album)
-{{< youtube id="TsIQKKPYYio" title="Monster Magnet - Last Patrol (full album)" >}}<br>
+### Monster Magnet - Last Patrol full album
+{{< youtube id="TsIQKKPYYio" title="Monster Magnet - Last Patrol full album" >}}<br>
 ### More Videos
 
 - [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
-- [Monster Magnet - Last Patrol (full album)](https://www.youtube.com/watch?v=TsIQKKPYYio)
+- [Monster Magnet - Last Patrol full album](https://www.youtube.com/watch?v=TsIQKKPYYio)
 - [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
 - [Monster Magnet - Three Kingfishers](https://www.youtube.com/watch?v=1dt-XS9Ez5k)
-- [Monster Magnet - Paradise (Last Patrol) music video](https://www.youtube.com/watch?v=8-mZqUg7lYU)
+- [Monster Magnet - Paradise Last Patrol music video](https://www.youtube.com/watch?v=8-mZqUg7lYU)
 - [Monster Magnet - Last patrol](https://www.youtube.com/watch?v=jZesB9j4rjQ)
-- [Monster Magnet - One Dead Moon (Bonus Track+Lyrics)](https://www.youtube.com/watch?v=1fkmcfd8Cfk)
+- [Monster Magnet - One Dead Moon Bonus TrackLyrics](https://www.youtube.com/watch?v=1fkmcfd8Cfk)
 
 ## Release Images
 {{< imageGrid >}}

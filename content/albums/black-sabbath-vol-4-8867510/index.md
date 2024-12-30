@@ -60,13 +60,13 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 {{< youtube id="h5rQuYZxH4k" title="Black Sabbath  - Supernaut  - Vol  IV" >}}<br>
 ### More Videos
 
-- [Wheels of Confusion (2009 - Remaster)](https://www.youtube.com/watch?v=LOF4R8Om8VE)
-- [Changes (2021 Remaster)](https://www.youtube.com/watch?v=_eBCxYVma1g)
-- [Snowblind (2021 Remaster)](https://www.youtube.com/watch?v=-az2KeSBwfQ)
-- [Under the Sun (2014 Remaster)](https://www.youtube.com/watch?v=T_YpGOfvsLU)
-- [Tomorrow's Dream (2021 Remaster)](https://www.youtube.com/watch?v=u-08O2DUjRo)
-- [Under the Sun / Every Day Comes and Goes (2021 Remaster)](https://www.youtube.com/watch?v=USrDZRgEfMw)
-- [Black Sabbath- Vol. 4- Supernaut](https://www.youtube.com/watch?v=-bqHI5_uo3w)
+- [Wheels of Confusion 2009 - Remaster](https://www.youtube.com/watch?v=LOF4R8Om8VE)
+- [Changes 2021 Remaster](https://www.youtube.com/watch?v=_eBCxYVma1g)
+- [Snowblind 2021 Remaster](https://www.youtube.com/watch?v=-az2KeSBwfQ)
+- [Under the Sun 2014 Remaster](https://www.youtube.com/watch?v=T_YpGOfvsLU)
+- [Tomorrows Dream 2021 Remaster](https://www.youtube.com/watch?v=u-08O2DUjRo)
+- [Under the Sun  Every Day Comes and Goes 2021 Remaster](https://www.youtube.com/watch?v=USrDZRgEfMw)
+- [Black Sabbath- Vol 4- Supernaut](https://www.youtube.com/watch?v=-bqHI5_uo3w)
 
 ## Release Images
 {{< imageGrid >}}

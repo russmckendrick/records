@@ -90,14 +90,14 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 
 
 ## Videos
-### "Cheech and Chong" Original.Trailer[1978]
-{{< youtube id="k2pXxHW1DHs" title=""Cheech and Chong" Original.Trailer[1978]" >}}<br>
+### Cheech and Chong OriginalTrailer1978
+{{< youtube id="k2pXxHW1DHs" title="Cheech and Chong OriginalTrailer1978" >}}<br>
 ### More Videos
 
-- [WAR - Low Rider (Official Video) [Remastered in 4K]](https://www.youtube.com/watch?v=BsrqKE1iqqo)
-- [War - Low Rider (HQ Audio)](https://www.youtube.com/watch?v=-xTGrfs5TXM)
+- [WAR - Low Rider Official Video Remastered in 4K](https://www.youtube.com/watch?v=BsrqKE1iqqo)
+- [War - Low Rider HQ Audio](https://www.youtube.com/watch?v=-xTGrfs5TXM)
 - [Up In Smoke](https://www.youtube.com/watch?v=AtWmU0AMo5A)
-- [Cheech & Chong "Up in Smoke" -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
+- [Cheech  Chong Up in Smoke -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
 - [Earache My Eye](https://www.youtube.com/watch?v=5wGlr2W15OI)
 
 ## Release Images

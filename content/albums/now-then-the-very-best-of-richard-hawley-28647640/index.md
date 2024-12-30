@@ -62,15 +62,15 @@ styles: ["Art Rock"]
 
 
 ## Videos
-### Richard Hawley - Not The Only Road (Official Visualiser)
-{{< youtube id="63LflvZItXA" title="Richard Hawley - Not The Only Road (Official Visualiser)" >}}<br>
+### Richard Hawley - Not The Only Road Official Visualiser
+{{< youtube id="63LflvZItXA" title="Richard Hawley - Not The Only Road Official Visualiser" >}}<br>
 ### More Videos
 
-- [Ballad of a Thin Man (Edit)](https://www.youtube.com/watch?v=Jznf4bg331w)
-- [Now Then: The Very Best of Richard Hawley - OUT NOW!](https://www.youtube.com/watch?v=As96TCdZui0)
-- [Richard Hawley - Not The Only Road (Official Visualiser)](https://www.youtube.com/watch?v=63LflvZItXA)
-- [Ballad of a Thin Man (Edit)](https://www.youtube.com/watch?v=Jznf4bg331w)
-- [Now Then: The Very Best of Richard Hawley - OUT NOW!](https://www.youtube.com/watch?v=As96TCdZui0)
+- [Ballad of a Thin Man Edit](https://www.youtube.com/watch?v=Jznf4bg331w)
+- [Now Then The Very Best of Richard Hawley - OUT NOW](https://www.youtube.com/watch?v=As96TCdZui0)
+- [Richard Hawley - Not The Only Road Official Visualiser](https://www.youtube.com/watch?v=63LflvZItXA)
+- [Ballad of a Thin Man Edit](https://www.youtube.com/watch?v=Jznf4bg331w)
+- [Now Then The Very Best of Richard Hawley - OUT NOW](https://www.youtube.com/watch?v=As96TCdZui0)
 
 ## Release Images
 {{< imageGrid >}}

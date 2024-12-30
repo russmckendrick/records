@@ -52,31 +52,31 @@ It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
 
 
 ## Videos
-### Senser - Age of Panic (Official Video)
-{{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic (Official Video)" >}}<br>
+### Senser - Age of Panic Official Video
+{{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic Official Video" >}}<br>
 ### More Videos
 
-- [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
-- [Senser - No Comply (Official Video)](https://www.youtube.com/watch?v=K5yYtzsJAyg)
-- ["States of Mind"  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
+- [Senser - Switch Official Video](https://www.youtube.com/watch?v=TPbXnwkiTF4)
+- [Senser - No Comply Official Video](https://www.youtube.com/watch?v=K5yYtzsJAyg)
+- [States of Mind  by Senser of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
 - [Senser - Worth](https://www.youtube.com/watch?v=ImyjkfQbSH8)
-- [Senser - What's Going On (w lyrics)](https://www.youtube.com/watch?v=G3-TCUhQfiY)
-- [Senser - The Key (fusion metal techno hip hop)](https://www.youtube.com/watch?v=16eArly5UyM)
-- [Senser - Eject (Official Video)](https://www.youtube.com/watch?v=W69gdXUryEg)
+- [Senser - Whats Going On w lyrics](https://www.youtube.com/watch?v=G3-TCUhQfiY)
+- [Senser - The Key fusion metal techno hip hop](https://www.youtube.com/watch?v=16eArly5UyM)
+- [Senser - Eject Official Video](https://www.youtube.com/watch?v=W69gdXUryEg)
 - [Senser - Stubborn](https://www.youtube.com/watch?v=anEPodHXSi0)
-- [Senser - Worth (fusion metal techno hip hop)](https://www.youtube.com/watch?v=TGJs3aGXZMw)
+- [Senser - Worth fusion metal techno hip hop](https://www.youtube.com/watch?v=TGJs3aGXZMw)
 - [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
 - [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
-- [Senser  'Stacked Up' (Full Album)](https://www.youtube.com/watch?v=8M6r_sLmKJk)
-- [Senser - Age of Panic + Eject (live at Glastonbury 1994)](https://www.youtube.com/watch?v=WNhlU-n7eGs)
+- [Senser  Stacked Up Full Album](https://www.youtube.com/watch?v=8M6r_sLmKJk)
+- [Senser - Age of Panic  Eject live at Glastonbury 1994](https://www.youtube.com/watch?v=WNhlU-n7eGs)
 - [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
 - [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
-- ["States of Mind"  by Senser, of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
+- [States of Mind  by Senser of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
 - [Senser - Peace](https://www.youtube.com/watch?v=rCDjpjCZCb8)
-- [Senser - Age of Panic (Official Video)](https://www.youtube.com/watch?v=tmZ-loZlsyI)
-- [Senser - No Comply (Official Video)](https://www.youtube.com/watch?v=K5yYtzsJAyg)
-- [Senser - Switch (Official Video)](https://www.youtube.com/watch?v=TPbXnwkiTF4)
-- [Senser - Age Of Panic - Live @ Reading Festival '94](https://www.youtube.com/watch?v=sbX5Ft336tA)
+- [Senser - Age of Panic Official Video](https://www.youtube.com/watch?v=tmZ-loZlsyI)
+- [Senser - No Comply Official Video](https://www.youtube.com/watch?v=K5yYtzsJAyg)
+- [Senser - Switch Official Video](https://www.youtube.com/watch?v=TPbXnwkiTF4)
+- [Senser - Age Of Panic - Live  Reading Festival 94](https://www.youtube.com/watch?v=sbX5Ft336tA)
 - [The Key](https://www.youtube.com/watch?v=A6sEg0fdWV8)
 - [States of Mind](https://www.youtube.com/watch?v=5mNVnr5BKsA)
 - [Age of Panic](https://www.youtube.com/watch?v=GUbHzwMS5PM)

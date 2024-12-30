@@ -47,31 +47,31 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Allatonceness (Official lyric video)
-{{< youtube id="MSdl9UGQy2k" title="Allatonceness (Official lyric video)" >}}<br>
+### Allatonceness Official lyric video
+{{< youtube id="MSdl9UGQy2k" title="Allatonceness Official lyric video" >}}<br>
 ### More Videos
 
-- [Arab Strap - Bliss (Official video)](https://www.youtube.com/watch?v=NReQ2dA0ncg)
+- [Arab Strap - Bliss Official video](https://www.youtube.com/watch?v=NReQ2dA0ncg)
 - [Sociometer Blues](https://www.youtube.com/watch?v=A2feqGNZfqQ)
 - [Hide Your Fires](https://www.youtube.com/watch?v=Bclk095Tu2w)
 - [Summer Season](https://www.youtube.com/watch?v=ULg0pNsjzZg)
 - [Molehills](https://www.youtube.com/watch?v=V8iVcjcU7IY)
-- [Arab Strap - Strawberry Moon (Official video)](https://www.youtube.com/watch?v=OMagU2Ztol4)
-- [You're Not There (Official lyric video)](https://www.youtube.com/watch?v=av7BOTTwQMY)
-- [Haven't You Heard](https://www.youtube.com/watch?v=vptwRWgRqdc)
-- [Safe & Well](https://www.youtube.com/watch?v=y18XEMp0eUo)
+- [Arab Strap - Strawberry Moon Official video](https://www.youtube.com/watch?v=OMagU2Ztol4)
+- [Youre Not There Official lyric video](https://www.youtube.com/watch?v=av7BOTTwQMY)
+- [Havent You Heard](https://www.youtube.com/watch?v=vptwRWgRqdc)
+- [Safe  Well](https://www.youtube.com/watch?v=y18XEMp0eUo)
 - [Dreg Queen](https://www.youtube.com/watch?v=2jlS88jTf3M)
 - [Turn Off The Light](https://www.youtube.com/watch?v=We-R0NWUzHs)
-- [Allatonceness (Official lyric video)](https://www.youtube.com/watch?v=MSdl9UGQy2k)
-- [Arab Strap - Bliss (Official video)](https://www.youtube.com/watch?v=NReQ2dA0ncg)
+- [Allatonceness Official lyric video](https://www.youtube.com/watch?v=MSdl9UGQy2k)
+- [Arab Strap - Bliss Official video](https://www.youtube.com/watch?v=NReQ2dA0ncg)
 - [Sociometer Blues](https://www.youtube.com/watch?v=A2feqGNZfqQ)
 - [Hide Your Fires](https://www.youtube.com/watch?v=Bclk095Tu2w)
 - [Summer Season](https://www.youtube.com/watch?v=ULg0pNsjzZg)
 - [Molehills](https://www.youtube.com/watch?v=V8iVcjcU7IY)
-- [Arab Strap - Strawberry Moon (Official video)](https://www.youtube.com/watch?v=OMagU2Ztol4)
-- [You're Not There (Official lyric video)](https://www.youtube.com/watch?v=av7BOTTwQMY)
-- [Haven't You Heard](https://www.youtube.com/watch?v=vptwRWgRqdc)
-- [Safe & Well](https://www.youtube.com/watch?v=y18XEMp0eUo)
+- [Arab Strap - Strawberry Moon Official video](https://www.youtube.com/watch?v=OMagU2Ztol4)
+- [Youre Not There Official lyric video](https://www.youtube.com/watch?v=av7BOTTwQMY)
+- [Havent You Heard](https://www.youtube.com/watch?v=vptwRWgRqdc)
+- [Safe  Well](https://www.youtube.com/watch?v=y18XEMp0eUo)
 - [Dreg Queen](https://www.youtube.com/watch?v=2jlS88jTf3M)
 - [Turn Off The Light](https://www.youtube.com/watch?v=We-R0NWUzHs)
 

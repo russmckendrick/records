@@ -53,19 +53,19 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 
 
 ## Videos
-### Arcade Fire - Neighborhood #3 (Power Out) (Official Video)
-{{< youtube id="0ozdCLrTrtA" title="Arcade Fire - Neighborhood #3 (Power Out) (Official Video)" >}}<br>
+### Arcade Fire - Neighborhood 3 Power Out Official Video
+{{< youtube id="0ozdCLrTrtA" title="Arcade Fire - Neighborhood 3 Power Out Official Video" >}}<br>
 ### More Videos
 
-- [Arcade Fire - Wake Up (Official Audio)](https://www.youtube.com/watch?v=sJRPPUr1yic)
-- [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
-- [Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)](https://www.youtube.com/watch?v=TwisvB3PVpU)
-- [Arcade Fire - Neighborhood #2 (Laika) (Official Video)](https://www.youtube.com/watch?v=siFsdInZqC0)
-- [Arcade Fire - Une Annee Sans Lumiere (Official Audio)](https://www.youtube.com/watch?v=pPKUDprZIvs)
-- [Arcade Fire - Neighborhood #4 (7 Kettles) (Official Audio)](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
-- [Arcade Fire - Crown of Love (Official Audio)](https://www.youtube.com/watch?v=p9XX193hgH8)
-- [Arcade Fire - Haiti (Official Audio)](https://www.youtube.com/watch?v=tGvpUgo7ayY)
-- [Arcade Fire - In the Backseat (Official Audio)](https://www.youtube.com/watch?v=i2jsArz5IQg)
+- [Arcade Fire - Wake Up Official Audio](https://www.youtube.com/watch?v=sJRPPUr1yic)
+- [Arcade Fire - Rebellion Lies Official Remastered Video](https://www.youtube.com/watch?v=8vN2vqaEBhM)
+- [Arcade Fire - Neighborhood 1 Tunnels Official Remastered Video](https://www.youtube.com/watch?v=TwisvB3PVpU)
+- [Arcade Fire - Neighborhood 2 Laika Official Video](https://www.youtube.com/watch?v=siFsdInZqC0)
+- [Arcade Fire - Une Annee Sans Lumiere Official Audio](https://www.youtube.com/watch?v=pPKUDprZIvs)
+- [Arcade Fire - Neighborhood 4 7 Kettles Official Audio](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
+- [Arcade Fire - Crown of Love Official Audio](https://www.youtube.com/watch?v=p9XX193hgH8)
+- [Arcade Fire - Haiti Official Audio](https://www.youtube.com/watch?v=tGvpUgo7ayY)
+- [Arcade Fire - In the Backseat Official Audio](https://www.youtube.com/watch?v=i2jsArz5IQg)
 
 ## Release Images
 {{< imageGrid >}}

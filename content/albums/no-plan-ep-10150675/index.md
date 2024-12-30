@@ -35,12 +35,12 @@ styles: ["Art Rock", "Jazz-Rock"]
 
 
 ## Videos
-### David Bowie - No Plan (Video)
-{{< youtube id="xIgdid8dsC8" title="David Bowie - No Plan (Video)" >}}<br>
+### David Bowie - No Plan Video
+{{< youtube id="xIgdid8dsC8" title="David Bowie - No Plan Video" >}}<br>
 ### More Videos
 
 - [David Bowie - No Plan EP](https://www.youtube.com/watch?v=mm0eAbWAiwE)
-- [David Bowie - No Plan (Video)](https://www.youtube.com/watch?v=xIgdid8dsC8)
+- [David Bowie - No Plan Video](https://www.youtube.com/watch?v=xIgdid8dsC8)
 - [David Bowie - No Plan EP](https://www.youtube.com/watch?v=mm0eAbWAiwE)
 
 ## Release Images

@@ -69,34 +69,34 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Videos
-### Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review
-{{< youtube id="Kok9FSw5jus" title="Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review" >}}<br>
+### Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review
+{{< youtube id="Kok9FSw5jus" title="Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review" >}}<br>
 ### More Videos
 
 - [12 Lagu Terbaik Anak Anak Enno Lerian](https://www.youtube.com/watch?v=gBpLQmtCp5w)
 - [12 Lagu Terbaik Ria Sari](https://www.youtube.com/watch?v=rJ3Lm45l5ZA)
-- [12 Lagu Terbaik Anak Anak Susan & Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
+- [12 Lagu Terbaik Anak Anak Susan  Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
 - [12 Lagu Terbaik Atie Adyatie](https://www.youtube.com/watch?v=QFyhvr8bR3Q)
-- [Way the World Is (Remastered)](https://www.youtube.com/watch?v=Q8gSq63njnU)
-- [You Tear the World in Two (Remastered)](https://www.youtube.com/watch?v=L6tH3b36kzE)
-- [Sea of Sound (Remastered)](https://www.youtube.com/watch?v=kGJEdrUMOrw)
-- [True Coming Dream (Remastered)](https://www.youtube.com/watch?v=kGqxyIBJb5A)
-- [Little Hammer (Remastered)](https://www.youtube.com/watch?v=s8NGtNNle3I)
-- [Insubstantial (Remastered)](https://www.youtube.com/watch?v=R5dmGqyfQoI)
-- [A Deep Sleep for Steven (Remastered)](https://www.youtube.com/watch?v=Va5GW8WcTyA)
-- [Language of Flowers (Remastered)](https://www.youtube.com/watch?v=9itUJZupxvQ)
-- [Fell from the Sun (Remastered)](https://www.youtube.com/watch?v=bHWm93-6APY)
-- [Sight of You (Remastered)](https://www.youtube.com/watch?v=BkPOl4TrAPo)
-- [Time Thief (Remastered)](https://www.youtube.com/watch?v=el0gPR6uWU4)
-- [Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
+- [Way the World Is Remastered](https://www.youtube.com/watch?v=Q8gSq63njnU)
+- [You Tear the World in Two Remastered](https://www.youtube.com/watch?v=L6tH3b36kzE)
+- [Sea of Sound Remastered](https://www.youtube.com/watch?v=kGJEdrUMOrw)
+- [True Coming Dream Remastered](https://www.youtube.com/watch?v=kGqxyIBJb5A)
+- [Little Hammer Remastered](https://www.youtube.com/watch?v=s8NGtNNle3I)
+- [Insubstantial Remastered](https://www.youtube.com/watch?v=R5dmGqyfQoI)
+- [A Deep Sleep for Steven Remastered](https://www.youtube.com/watch?v=Va5GW8WcTyA)
+- [Language of Flowers Remastered](https://www.youtube.com/watch?v=9itUJZupxvQ)
+- [Fell from the Sun Remastered](https://www.youtube.com/watch?v=bHWm93-6APY)
+- [Sight of You Remastered](https://www.youtube.com/watch?v=BkPOl4TrAPo)
+- [Time Thief Remastered](https://www.youtube.com/watch?v=el0gPR6uWU4)
+- [Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
 - [12 Lagu Terbaik Anak Anak Enno Lerian](https://www.youtube.com/watch?v=gBpLQmtCp5w)
 - [12 Lagu Terbaik Ria Sari](https://www.youtube.com/watch?v=rJ3Lm45l5ZA)
-- [12 Lagu Terbaik Anak Anak Susan & Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
+- [12 Lagu Terbaik Anak Anak Susan  Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
 - [12 Lagu Terbaik Atie Adyatie](https://www.youtube.com/watch?v=QFyhvr8bR3Q)
-- [Pale Saints | The Comforts of Madness | 30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
-- [Pale Saints - You Tear the World in Two (Woodhouse Studio LP Demo)](https://www.youtube.com/watch?v=BBElDPFzz20)
+- [Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
+- [Pale Saints - You Tear the World in Two Woodhouse Studio LP Demo](https://www.youtube.com/watch?v=BBElDPFzz20)
 - [Pale Saints Documentary](https://www.youtube.com/watch?v=XPWk2yOpCZk)
-- [Time Thief (Remastered)](https://www.youtube.com/watch?v=el0gPR6uWU4)
+- [Time Thief Remastered](https://www.youtube.com/watch?v=el0gPR6uWU4)
 
 ## Release Images
 {{< imageGrid >}}

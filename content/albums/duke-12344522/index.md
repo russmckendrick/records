@@ -49,8 +49,8 @@ Duke was positively received by music critics, who praised the album for bridgin
 
 
 ## Videos
-### Genesis - Duke's Travels (Official Audio)
-{{< youtube id="n3IarAnJOHg" title="Genesis - Duke's Travels (Official Audio)" >}}<br>
+### Genesis - Dukes Travels Official Audio
+{{< youtube id="n3IarAnJOHg" title="Genesis - Dukes Travels Official Audio" >}}<br>
 
 
 ## Release Images

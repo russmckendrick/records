@@ -37,14 +37,14 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 
 
 ## Videos
-### Richard Barbieri - New Found Land (from Planets & Persona)
-{{< youtube id="YEUZtutCahE" title="Richard Barbieri - New Found Land (from Planets & Persona)" >}}<br>
+### Richard Barbieri - New Found Land from Planets  Persona
+{{< youtube id="YEUZtutCahE" title="Richard Barbieri - New Found Land from Planets  Persona" >}}<br>
 ### More Videos
 
-- [Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)](https://www.youtube.com/watch?v=MQiZVQc06KM)
-- [Richard Barbieri - Planets + Persona (album montage)](https://www.youtube.com/watch?v=wx5bKmBCVYg)
-- [Richard Barbieri - New Found Land (from Planets & Persona)](https://www.youtube.com/watch?v=YEUZtutCahE)
-- [Richard Barbieri - Solar Sea VR / 360° (from Planets + Persona)](https://www.youtube.com/watch?v=MQiZVQc06KM)
+- [Richard Barbieri - Solar Sea VR  360 from Planets  Persona](https://www.youtube.com/watch?v=MQiZVQc06KM)
+- [Richard Barbieri - Planets  Persona album montage](https://www.youtube.com/watch?v=wx5bKmBCVYg)
+- [Richard Barbieri - New Found Land from Planets  Persona](https://www.youtube.com/watch?v=YEUZtutCahE)
+- [Richard Barbieri - Solar Sea VR  360 from Planets  Persona](https://www.youtube.com/watch?v=MQiZVQc06KM)
 
 ## Release Images
 {{< imageGrid >}}

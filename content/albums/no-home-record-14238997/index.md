@@ -48,20 +48,20 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 
 
 ## Videos
-### Kim Gordon - "Sketch Artist" (Official Music Video)
-{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - "Sketch Artist" (Official Music Video)" >}}<br>
+### Kim Gordon - Sketch Artist Official Music Video
+{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - Sketch Artist Official Music Video" >}}<br>
 ### More Videos
 
-- [Kim Gordon - "Air BnB"](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
-- [Kim Gordon - "Murdered Out"](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
-- [Kim Gordon - "Sketch Artist" (Official Music Video)](https://www.youtube.com/watch?v=TJl_9a6dp4g)
-- [Kim Gordon - "Air BnB"](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
-- [Kim Gordon - "Murdered Out"](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
+- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
+- [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
+- [Kim Gordon - Sketch Artist Official Music Video](https://www.youtube.com/watch?v=TJl_9a6dp4g)
+- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
+- [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
 - [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
-- [Don't Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
+- [Dont Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
 - [Cookie Butter](https://www.youtube.com/watch?v=YvwgSnIyJdE)
-- [Kim Gordon - "Hungry Baby" (Official Video)](https://www.youtube.com/watch?v=paKCImP-IOk)
-- [Kim Gordon - "Earthquake" (Official Video)](https://www.youtube.com/watch?v=_eT9O62dEBU)
+- [Kim Gordon - Hungry Baby Official Video](https://www.youtube.com/watch?v=paKCImP-IOk)
+- [Kim Gordon - Earthquake Official Video](https://www.youtube.com/watch?v=_eT9O62dEBU)
 - [Get Yr Life Back](https://www.youtube.com/watch?v=i9o3bdEXl1U)
 
 ## Release Images

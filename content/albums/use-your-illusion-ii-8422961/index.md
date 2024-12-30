@@ -59,27 +59,27 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 
 
 ## Videos
-### Guns N' Roses - 14 Years (Visualizer)
-{{< youtube id="fBYsbYyYmNs" title="Guns N' Roses - 14 Years (Visualizer)" >}}<br>
+### Guns N Roses - 14 Years Visualizer
+{{< youtube id="fBYsbYyYmNs" title="Guns N Roses - 14 Years Visualizer" >}}<br>
 ### More Videos
 
-- [Guns N' Roses - Use Your Illusion I & II (Cassette, 1991)](https://www.youtube.com/watch?v=4DXsp_nBjA8)
-- [Guns N' Roses - My World (Visualizer)](https://www.youtube.com/watch?v=wRQpnJ37Iw8)
-- [Guns N' Roses - Pretty Tied Up (The Perils Of Rock N' Roll Decadence) (Visualizer)](https://www.youtube.com/watch?v=PAQIchLSYmk)
-- [Guns N' Roses - Estranged](https://www.youtube.com/watch?v=dpmAY059TTY)
-- [CD / Guns N'Roses - Use Your Illusion II / 1991](https://www.youtube.com/watch?v=fQ-qGSHpMMw)
-- [Guns N' Roses – Breakdown](https://www.youtube.com/watch?v=KXPtCjxsTK4)
-- [Guns N' Roses – Estranged](https://www.youtube.com/watch?v=Epg4iB97OUs)
-- [Guns N' Roses – So Fine](https://www.youtube.com/watch?v=z9oIeVgOOGA)
-- [Guns N' Roses – You Could Be Mine](https://www.youtube.com/watch?v=n5TuMNLTqno)
-- [Guns N' Roses – My World](https://www.youtube.com/watch?v=H1CnAn27u5U)
-- [Guns N' Roses – Locomotive](https://www.youtube.com/watch?v=p8N2EnmoMXI)
-- [Guns N' Roses – Shotgun Blues](https://www.youtube.com/watch?v=GzOPrxIjuSQ)
-- [Guns N' Roses – Pretty Tied Up](https://www.youtube.com/watch?v=GinkGTE1iQs)
-- [Guns N' Roses – 14 Years](https://www.youtube.com/watch?v=5NrDmT_lZ8U)
-- [Guns N' Roses – Civil War](https://www.youtube.com/watch?v=qCPJBFct4ko)
-- [Guns N' Roses – Don't Cry](https://www.youtube.com/watch?v=ESxRXX8fyuc)
-- [Guns N' Roses – Yesterdays](https://www.youtube.com/watch?v=ee3GCpReMN0)
+- [Guns N Roses - Use Your Illusion I  II Cassette 1991](https://www.youtube.com/watch?v=4DXsp_nBjA8)
+- [Guns N Roses - My World Visualizer](https://www.youtube.com/watch?v=wRQpnJ37Iw8)
+- [Guns N Roses - Pretty Tied Up The Perils Of Rock N Roll Decadence Visualizer](https://www.youtube.com/watch?v=PAQIchLSYmk)
+- [Guns N Roses - Estranged](https://www.youtube.com/watch?v=dpmAY059TTY)
+- [CD  Guns NRoses - Use Your Illusion II  1991](https://www.youtube.com/watch?v=fQ-qGSHpMMw)
+- [Guns N Roses  Breakdown](https://www.youtube.com/watch?v=KXPtCjxsTK4)
+- [Guns N Roses  Estranged](https://www.youtube.com/watch?v=Epg4iB97OUs)
+- [Guns N Roses  So Fine](https://www.youtube.com/watch?v=z9oIeVgOOGA)
+- [Guns N Roses  You Could Be Mine](https://www.youtube.com/watch?v=n5TuMNLTqno)
+- [Guns N Roses  My World](https://www.youtube.com/watch?v=H1CnAn27u5U)
+- [Guns N Roses  Locomotive](https://www.youtube.com/watch?v=p8N2EnmoMXI)
+- [Guns N Roses  Shotgun Blues](https://www.youtube.com/watch?v=GzOPrxIjuSQ)
+- [Guns N Roses  Pretty Tied Up](https://www.youtube.com/watch?v=GinkGTE1iQs)
+- [Guns N Roses  14 Years](https://www.youtube.com/watch?v=5NrDmT_lZ8U)
+- [Guns N Roses  Civil War](https://www.youtube.com/watch?v=qCPJBFct4ko)
+- [Guns N Roses  Dont Cry](https://www.youtube.com/watch?v=ESxRXX8fyuc)
+- [Guns N Roses  Yesterdays](https://www.youtube.com/watch?v=ee3GCpReMN0)
 
 ## Release Images
 {{< imageGrid >}}

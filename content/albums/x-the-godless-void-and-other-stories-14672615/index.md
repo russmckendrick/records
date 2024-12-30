@@ -62,14 +62,14 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 
 
 ## Videos
-### ...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)
-{{< youtube id="bbXNaERHIfA" title="...And You Will Know Us By The Trail Of Dead - Don't Look Down (Official Video)" >}}<br>
+### And You Will Know Us By The Trail Of Dead - Dont Look Down Official Video
+{{< youtube id="bbXNaERHIfA" title="And You Will Know Us By The Trail Of Dead - Dont Look Down Official Video" >}}<br>
 ### More Videos
 
-- [Into The Godless Void (Official video)](https://www.youtube.com/watch?v=qwPvnMdAXyA)
-- [...And you will know us by the trails of the dead - "X: The Godless Void and Other Stories" - 2020](https://www.youtube.com/watch?v=hAuVx4AnojE)
+- [Into The Godless Void Official video](https://www.youtube.com/watch?v=qwPvnMdAXyA)
+- [And you will know us by the trails of the dead - X The Godless Void and Other Stories - 2020](https://www.youtube.com/watch?v=hAuVx4AnojE)
 - [Eyes of the Overworld](https://www.youtube.com/watch?v=KzasmD30QI4)
-- [...And You Will Know Us By the Trail of Dead - Gone](https://www.youtube.com/watch?v=tk_abF9lepo)
+- [And You Will Know Us By the Trail of Dead - Gone](https://www.youtube.com/watch?v=tk_abF9lepo)
 - [All Who Wander](https://www.youtube.com/watch?v=Ct8qSO_0PVo)
 - [Blade of Wind](https://www.youtube.com/watch?v=jzy07GNDUO0)
 

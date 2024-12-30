@@ -47,22 +47,22 @@ The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
 
 
 ## Videos
-### Boo-Yaa T.R.I.B.E. - Psyko Funk
-{{< youtube id="gqTvJ-kO1z8" title="Boo-Yaa T.R.I.B.E. - Psyko Funk" >}}<br>
+### Boo-Yaa TRIBE - Psyko Funk
+{{< youtube id="gqTvJ-kO1z8" title="Boo-Yaa TRIBE - Psyko Funk" >}}<br>
 ### More Videos
 
-- [Boo-Yaa TRIBE - R.A.I.D.](https://www.youtube.com/watch?v=EsPV6Qomxzo)
+- [Boo-Yaa TRIBE - RAID](https://www.youtube.com/watch?v=EsPV6Qomxzo)
 - [Six Bad Brothas](https://www.youtube.com/watch?v=9AATTZxO2PQ)
 - [Rated R](https://www.youtube.com/watch?v=UPI5Z9JCA7M)
-- [Don't Mess](https://www.youtube.com/watch?v=NTZaHs0Jukc)
+- [Dont Mess](https://www.youtube.com/watch?v=NTZaHs0Jukc)
 - [New Funky Nation](https://www.youtube.com/watch?v=wtj3sgm8M_I)
 - [Once Upon A Drive By](https://www.youtube.com/watch?v=GQPLfzFnWA0)
-- [T.R.I.B.E.](https://www.youtube.com/watch?v=bQv2-MxXXC4)
+- [TRIBE](https://www.youtube.com/watch?v=bQv2-MxXXC4)
 - [Walk The Line](https://www.youtube.com/watch?v=JYFhSAVJpgc)
-- [R.A.I.D.](https://www.youtube.com/watch?v=ubYhrLHHtk0)
+- [RAID](https://www.youtube.com/watch?v=ubYhrLHHtk0)
 - [Psyko Funk](https://www.youtube.com/watch?v=Bi3lEFyrsZg)
 - [Riot Pump](https://www.youtube.com/watch?v=9FWZOVD0sDo)
-- [Pickin' Up Metal](https://www.youtube.com/watch?v=fR7-TIL4nvQ)
+- [Pickin Up Metal](https://www.youtube.com/watch?v=fR7-TIL4nvQ)
 
 ## Release Images
 {{< imageGrid >}}

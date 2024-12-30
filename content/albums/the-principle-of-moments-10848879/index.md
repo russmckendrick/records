@@ -48,20 +48,20 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 
 
 ## Videos
-### A1  Other Arms   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip
-{{< youtube id="iUo9HV4aslY" title="A1  Other Arms   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip" >}}<br>
+### A1  Other Arms   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip
+{{< youtube id="iUo9HV4aslY" title="A1  Other Arms   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip" >}}<br>
 ### More Videos
 
-- [A2  In The Mood   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=oNUqEkWHEQs)
-- [A3  Messin' With The Mekon  - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=JDVOHFMJVRU)
-- [A4  Wreckless Love - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=4xdTExGA9FI)
-- [B1  Thru' With The Two Step - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=c-MrnD9mc6U)
-- [B2  Horizontal Departure - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=SQCQmgu5g4g)
-- [B3  Stranger Here...Than Over There  Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Rip](https://www.youtube.com/watch?v=4Y-Cs8pRH8A)
-- [B4  Big Log  - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=ox9t_8peT3s)
+- [A2  In The Mood   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=oNUqEkWHEQs)
+- [A3  Messin With The Mekon  - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=JDVOHFMJVRU)
+- [A4  Wreckless Love - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=4xdTExGA9FI)
+- [B1  Thru With The Two Step - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=c-MrnD9mc6U)
+- [B2  Horizontal Departure - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=SQCQmgu5g4g)
+- [B3  Stranger HereThan Over There  Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Rip](https://www.youtube.com/watch?v=4Y-Cs8pRH8A)
+- [B4  Big Log  - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=ox9t_8peT3s)
 - [ROBERT PLANT 1983   The Principle Of Moments Stereo](https://www.youtube.com/watch?v=EwxOHYivi0w)
-- [Robert Plant - In the Mood (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=jj5nH0O8lmg)
-- [Robert Plant - Big Log (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=FxSsol3Zd7k)
+- [Robert Plant - In the Mood Official Video HD REMASTERED](https://www.youtube.com/watch?v=jj5nH0O8lmg)
+- [Robert Plant - Big Log Official Video HD REMASTERED](https://www.youtube.com/watch?v=FxSsol3Zd7k)
 
 ## Release Images
 {{< imageGrid >}}

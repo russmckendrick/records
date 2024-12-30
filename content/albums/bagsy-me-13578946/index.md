@@ -51,7 +51,7 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 {{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}<br>
 ### More Videos
 
-- [The Wannadies - That's All](https://www.youtube.com/watch?v=gOtFWWc_nFw)
+- [The Wannadies - Thats All](https://www.youtube.com/watch?v=gOtFWWc_nFw)
 
 ## Release Images
 {{< imageGrid >}}

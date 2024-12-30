@@ -67,8 +67,8 @@ Life After Death sold 690,000 copies in its first week, peaking at No. 1 on the 
 
 
 ## Videos
-### The Notorious BIG - Life after Death (Full Album)
-{{< youtube id="A5epZ9b7fio" title="The Notorious BIG - Life after Death (Full Album)" >}}<br>
+### The Notorious BIG - Life after Death Full Album
+{{< youtube id="A5epZ9b7fio" title="The Notorious BIG - Life after Death Full Album" >}}<br>
 
 
 ## Release Images

@@ -47,17 +47,17 @@ Welcome to the Real World is the second studio album by American pop rock band M
 
 
 ## Videos
-### Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)
-{{< youtube id="8XXiQZ67FhE" title="Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)" >}}<br>
+### Mr Mister - Dont Slow Down Welcome To The Real World 1985 UK  Europe Vinyl
+{{< youtube id="8XXiQZ67FhE" title="Mr Mister - Dont Slow Down Welcome To The Real World 1985 UK  Europe Vinyl" >}}<br>
 ### More Videos
 
-- [Mr. Mister - Broken Wings (1985)](https://www.youtube.com/watch?v=lGDuWCsym6I)
-- [Mr. Mister - Kyrie (1985)](https://www.youtube.com/watch?v=rV5yZY8kLKY)
-- [Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)](https://www.youtube.com/watch?v=8XXiQZ67FhE)
-- [Broken Wings | Mr. Mister | Welcome To The Real World | 1985 RCA LP](https://www.youtube.com/watch?v=ny7Bz0Vsl5c)
-- [Mr. Mister - Kyrie (Official Video)](https://www.youtube.com/watch?v=9NDjt4FzFWY)
-- [Mr. Mister - Broken Wings (Official Video)](https://www.youtube.com/watch?v=nKhN1t_7PEY)
-- [Mr. Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
+- [Mr Mister - Broken Wings 1985](https://www.youtube.com/watch?v=lGDuWCsym6I)
+- [Mr Mister - Kyrie 1985](https://www.youtube.com/watch?v=rV5yZY8kLKY)
+- [Mr Mister - Dont Slow Down Welcome To The Real World 1985 UK  Europe Vinyl](https://www.youtube.com/watch?v=8XXiQZ67FhE)
+- [Broken Wings  Mr Mister  Welcome To The Real World  1985 RCA LP](https://www.youtube.com/watch?v=ny7Bz0Vsl5c)
+- [Mr Mister - Kyrie Official Video](https://www.youtube.com/watch?v=9NDjt4FzFWY)
+- [Mr Mister - Broken Wings Official Video](https://www.youtube.com/watch?v=nKhN1t_7PEY)
+- [Mr Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
 
 ## Release Images
 {{< imageGrid >}}

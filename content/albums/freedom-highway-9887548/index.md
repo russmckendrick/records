@@ -47,29 +47,29 @@ Freedom Highway is the second solo studio album of Folk/Americana musician and C
 
 
 ## Videos
-### Rhiannon Giddens - At The Purchaser's Option
-{{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchaser's Option" >}}<br>
+### Rhiannon Giddens - At The Purchasers Option
+{{< youtube id="6vy9xTS0QxM" title="Rhiannon Giddens - At The Purchasers Option" >}}<br>
 ### More Videos
 
-- [Rhiannon Giddens - The Angels Laid Him Away (Official Audio)](https://www.youtube.com/watch?v=wvG4QC0N3IM)
-- [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
-- [Rhiannon Giddens - We Could Fly (Official Audio)](https://www.youtube.com/watch?v=5KhzRgqcBBc)
+- [Rhiannon Giddens - The Angels Laid Him Away Official Audio](https://www.youtube.com/watch?v=wvG4QC0N3IM)
+- [Rhiannon Giddens - Baby Boy Official Audio](https://www.youtube.com/watch?v=pTUqArW-mFI)
+- [Rhiannon Giddens - We Could Fly Official Audio](https://www.youtube.com/watch?v=5KhzRgqcBBc)
 - [Rhiannon Giddens - Hey Bébé](https://www.youtube.com/watch?v=fxjYBfjwnXc)
-- [Rhiannon Giddens - We Could Fly (Official Audio)](https://www.youtube.com/watch?v=5KhzRgqcBBc)
+- [Rhiannon Giddens - We Could Fly Official Audio](https://www.youtube.com/watch?v=5KhzRgqcBBc)
 - [Rhiannon Giddens - Hey Bébé](https://www.youtube.com/watch?v=fxjYBfjwnXc)
-- [Rhiannon Giddens - Come Love Come (Official Audio)](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
-- [Rhiannon Giddens - Julie (Official Audio)](https://www.youtube.com/watch?v=zu5ZYXi6EiE)
-- [Rhiannon Giddens - The Love We Almost Had (Official Audio)](https://www.youtube.com/watch?v=-YP4lhYzIx0)
-- [Rhiannon Giddens - Come Love Come (Official Audio)](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
-- [Rhiannon Giddens - The Love We Almost Had (Official Audio)](https://www.youtube.com/watch?v=-YP4lhYzIx0)
-- [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
-- [Rhiannon Giddens - Birmingham Sunday (Official Audio)](https://www.youtube.com/watch?v=4_T5KlTpvoM)
-- [Rhiannon Giddens - Following the North Star (Official Audio)](https://www.youtube.com/watch?v=RLct6qYysVE)
-- [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
-- [Rhiannon Giddens - Better Get It Right the First Time (Official Audio)](https://www.youtube.com/watch?v=0VftPiNjaas)
-- [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
-- [Rhiannon Giddens - Following the North Star (Official Audio)](https://www.youtube.com/watch?v=RLct6qYysVE)
-- [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
+- [Rhiannon Giddens - Come Love Come Official Audio](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
+- [Rhiannon Giddens - Julie Official Audio](https://www.youtube.com/watch?v=zu5ZYXi6EiE)
+- [Rhiannon Giddens - The Love We Almost Had Official Audio](https://www.youtube.com/watch?v=-YP4lhYzIx0)
+- [Rhiannon Giddens - Come Love Come Official Audio](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
+- [Rhiannon Giddens - The Love We Almost Had Official Audio](https://www.youtube.com/watch?v=-YP4lhYzIx0)
+- [Rhiannon Giddens - Baby Boy Official Audio](https://www.youtube.com/watch?v=pTUqArW-mFI)
+- [Rhiannon Giddens - Birmingham Sunday Official Audio](https://www.youtube.com/watch?v=4_T5KlTpvoM)
+- [Rhiannon Giddens - Following the North Star Official Audio](https://www.youtube.com/watch?v=RLct6qYysVE)
+- [Rhiannon Giddens - Baby Boy Official Audio](https://www.youtube.com/watch?v=pTUqArW-mFI)
+- [Rhiannon Giddens - Better Get It Right the First Time Official Audio](https://www.youtube.com/watch?v=0VftPiNjaas)
+- [Rhiannon Giddens - Freedom Highway feat Bhi Bhiman Official Audio](https://www.youtube.com/watch?v=5eFtU57vme4)
+- [Rhiannon Giddens - Following the North Star Official Audio](https://www.youtube.com/watch?v=RLct6qYysVE)
+- [Rhiannon Giddens - Freedom Highway feat Bhi Bhiman Official Audio](https://www.youtube.com/watch?v=5eFtU57vme4)
 
 ## Release Images
 {{< imageGrid >}}

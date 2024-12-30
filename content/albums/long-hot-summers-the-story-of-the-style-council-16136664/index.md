@@ -63,7 +63,7 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 {{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}<br>
 ### More Videos
 
-- [My Ever Changing Moods (Extended Version)](https://www.youtube.com/watch?v=vAjf6-lhdOY)
+- [My Ever Changing Moods Extended Version](https://www.youtube.com/watch?v=vAjf6-lhdOY)
 
 ## Release Images
 {{< imageGrid >}}

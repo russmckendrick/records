@@ -44,10 +44,10 @@ styles: []
 {{< youtube id="Apqk3dfs7qQ" title="Enjoy The Silence - The Anchoress" >}}<br>
 ### More Videos
 
-- [Friday I'm In Love](https://www.youtube.com/watch?v=cMpMaoxsDUQ)
+- [Friday Im In Love](https://www.youtube.com/watch?v=cMpMaoxsDUQ)
 - [These Days](https://www.youtube.com/watch?v=08t0umcfWag)
 - [Pennyroyal Tea](https://www.youtube.com/watch?v=njQ5sANH9Eg)
-- [This Is Yesterday - The Anchoress, Acapela Studios Pentyrch 30/09/2023](https://www.youtube.com/watch?v=E7ghsbzjL7A)
+- [This Is Yesterday - The Anchoress Acapela Studios Pentyrch 30092023](https://www.youtube.com/watch?v=E7ghsbzjL7A)
 
 ## Release Images
 {{< imageGrid >}}

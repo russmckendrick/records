@@ -59,23 +59,23 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 
 
 ## Videos
-### TVC - Areosmith - Get A Grip - Music Album (1993)
-{{< youtube id="N9xS7465naA" title="TVC - Areosmith - Get A Grip - Music Album (1993)" >}}<br>
+### TVC - Areosmith - Get A Grip - Music Album 1993
+{{< youtube id="N9xS7465naA" title="TVC - Areosmith - Get A Grip - Music Album 1993" >}}<br>
 ### More Videos
 
-- [Aerosmith – Get A Grip](https://www.youtube.com/watch?v=6jX_gpzKPfw)
-- [Aerosmith – Intro](https://www.youtube.com/watch?v=-8_9WoovMtU)
-- [Aerosmith – Crazy](https://www.youtube.com/watch?v=xwxuLThIxc8)
-- [Aerosmith – Boogie Man](https://www.youtube.com/watch?v=qs2xACCzlmg)
-- [Aerosmith – Livin' On The Edge](https://www.youtube.com/watch?v=FuIBcqpstmY)
-- [Aerosmith – Walk On Down](https://www.youtube.com/watch?v=I9y_mQEQMZ8)
-- [Aerosmith – Shut Up And Dance](https://www.youtube.com/watch?v=nGFcAy6PhxQ)
-- [Aerosmith – Cryin'](https://www.youtube.com/watch?v=O-c2fEdaVtY)
-- [Aerosmith – Fever](https://www.youtube.com/watch?v=-zl1inVRzaU)
-- [Aerosmith feat Lenny Kravitz – Line Up](https://www.youtube.com/watch?v=BsheE52nVLo)
-- [Aerosmith – Flesh](https://www.youtube.com/watch?v=O0ibEOUV69c)
+- [Aerosmith  Get A Grip](https://www.youtube.com/watch?v=6jX_gpzKPfw)
+- [Aerosmith  Intro](https://www.youtube.com/watch?v=-8_9WoovMtU)
+- [Aerosmith  Crazy](https://www.youtube.com/watch?v=xwxuLThIxc8)
+- [Aerosmith  Boogie Man](https://www.youtube.com/watch?v=qs2xACCzlmg)
+- [Aerosmith  Livin On The Edge](https://www.youtube.com/watch?v=FuIBcqpstmY)
+- [Aerosmith  Walk On Down](https://www.youtube.com/watch?v=I9y_mQEQMZ8)
+- [Aerosmith  Shut Up And Dance](https://www.youtube.com/watch?v=nGFcAy6PhxQ)
+- [Aerosmith  Cryin](https://www.youtube.com/watch?v=O-c2fEdaVtY)
+- [Aerosmith  Fever](https://www.youtube.com/watch?v=-zl1inVRzaU)
+- [Aerosmith feat Lenny Kravitz  Line Up](https://www.youtube.com/watch?v=BsheE52nVLo)
+- [Aerosmith  Flesh](https://www.youtube.com/watch?v=O0ibEOUV69c)
 - [Aerosmith - Gotta Love It](https://www.youtube.com/watch?v=lBK2K0NmSDM)
-- [Aerosmith – Eat The Rich](https://www.youtube.com/watch?v=FEKBM0A9xn0)
+- [Aerosmith  Eat The Rich](https://www.youtube.com/watch?v=FEKBM0A9xn0)
 
 ## Release Images
 {{< imageGrid >}}

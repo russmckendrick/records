@@ -54,7 +54,7 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 - [Theeascending](https://www.youtube.com/watch?v=k2bG0xsaKk8)
 - [Drone Lover](https://www.youtube.com/watch?v=uiP4O7MlasM)
 - [Spiked Flower](https://www.youtube.com/watch?v=CH-SPJWiykc)
-- [Everybody's Going Somewhere and No-One's Going Anywhere](https://www.youtube.com/watch?v=UUCUlRsG1FU)
+- [Everybodys Going Somewhere and No-Ones Going Anywhere](https://www.youtube.com/watch?v=UUCUlRsG1FU)
 - [Golden Remedy](https://www.youtube.com/watch?v=RYPjucxPwMs)
 - [Good Times Are so Hard to Follow](https://www.youtube.com/watch?v=Hb9ClOgmdj8)
 - [Radio-Silent](https://www.youtube.com/watch?v=Whom9yF9oxU)

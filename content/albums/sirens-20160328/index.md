@@ -39,11 +39,11 @@ styles: ["Post Rock", "Stoner Rock"]
 
 
 ## Videos
-### Glasgow Coma Scale - Sirens [Album] (2021)
-{{< youtube id="t1q1HZLAgAg" title="Glasgow Coma Scale - Sirens [Album] (2021)" >}}<br>
+### Glasgow Coma Scale - Sirens Album 2021
+{{< youtube id="t1q1HZLAgAg" title="Glasgow Coma Scale - Sirens Album 2021" >}}<br>
 ### More Videos
 
-- [Glasgow Coma Scale - Sirens [Album] (2021)](https://www.youtube.com/watch?v=t1q1HZLAgAg)
+- [Glasgow Coma Scale - Sirens Album 2021](https://www.youtube.com/watch?v=t1q1HZLAgAg)
 
 ## Release Images
 {{< imageGrid >}}

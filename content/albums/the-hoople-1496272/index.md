@@ -46,26 +46,26 @@ The album's cover features a stylised portrait of Kari-Ann Moller (with the band
 
 
 ## Videos
-### The Golden Age of Rock 'n' Roll
-{{< youtube id="XEM3T7kT4JI" title="The Golden Age of Rock 'n' Roll" >}}<br>
+### The Golden Age of Rock n Roll
+{{< youtube id="XEM3T7kT4JI" title="The Golden Age of Rock n Roll" >}}<br>
 ### More Videos
 
 - [Marionette](https://www.youtube.com/watch?v=kZcEyAuoqfg)
 - [Alice](https://www.youtube.com/watch?v=Xg8nNytkPxI)
 - [Crash Street Kids](https://www.youtube.com/watch?v=sTTMz8VMWzg)
-- [Born Late '58](https://www.youtube.com/watch?v=DgLMGG0teak)
-- [Pearl 'N' Roy (England)](https://www.youtube.com/watch?v=cD0OkfuyhyY)
+- [Born Late 58](https://www.youtube.com/watch?v=DgLMGG0teak)
+- [Pearl N Roy England](https://www.youtube.com/watch?v=cD0OkfuyhyY)
 - [Through the Looking Glass](https://www.youtube.com/watch?v=7R7OZ_e9s_w)
 - [Roll Away the Stone](https://www.youtube.com/watch?v=MFGZMIMoCkc)
 - [Foxy Foxy](https://www.youtube.com/watch?v=8TVQ8ej6YL8)
 - [The Saturday Kids](https://www.youtube.com/watch?v=sl3MqL0t_kk)
 - [Lounge Lizard](https://www.youtube.com/watch?v=UPWQrcptD84)
-- [The Golden Age of Rock 'n' Roll](https://www.youtube.com/watch?v=XEM3T7kT4JI)
+- [The Golden Age of Rock n Roll](https://www.youtube.com/watch?v=XEM3T7kT4JI)
 - [Marionette](https://www.youtube.com/watch?v=kZcEyAuoqfg)
 - [Alice](https://www.youtube.com/watch?v=Xg8nNytkPxI)
 - [Crash Street Kids](https://www.youtube.com/watch?v=sTTMz8VMWzg)
-- [Born Late '58](https://www.youtube.com/watch?v=DgLMGG0teak)
-- [Pearl 'N' Roy (England)](https://www.youtube.com/watch?v=cD0OkfuyhyY)
+- [Born Late 58](https://www.youtube.com/watch?v=DgLMGG0teak)
+- [Pearl N Roy England](https://www.youtube.com/watch?v=cD0OkfuyhyY)
 - [Through the Looking Glass](https://www.youtube.com/watch?v=7R7OZ_e9s_w)
 - [Roll Away the Stone](https://www.youtube.com/watch?v=MFGZMIMoCkc)
 - [Foxy Foxy](https://www.youtube.com/watch?v=8TVQ8ej6YL8)

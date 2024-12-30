@@ -53,8 +53,8 @@ The album was released in multiple formats: standard and High Res downloads, as 
 
 
 ## Videos
-### BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-{2016}
-{{< youtube id="knQAsI_hhRM" title="BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-{2016}" >}}<br>
+### BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016
+{{< youtube id="knQAsI_hhRM" title="BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016" >}}<br>
 ### More Videos
 
 - [Along the Ridgeway](https://www.youtube.com/watch?v=4VK1S7UToNs)
@@ -64,9 +64,9 @@ The album was released in multiple formats: standard and High Res downloads, as 
 - [Brooklands](https://www.youtube.com/watch?v=3c6N_wKp6mg)
 - [big big train - lost rivers of London](https://www.youtube.com/watch?v=FaaOPtE1i_s)
 - [Big Big Train - Brooklands](https://www.youtube.com/watch?v=sOw-d1jQIl8)
-- [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-{2016}](https://www.youtube.com/watch?v=O9l-ROlHqg0)
+- [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-2016](https://www.youtube.com/watch?v=O9l-ROlHqg0)
 - [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
-- [BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-{2016}](https://www.youtube.com/watch?v=knQAsI_hhRM)
+- [BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016](https://www.youtube.com/watch?v=knQAsI_hhRM)
 - [Along the Ridgeway](https://www.youtube.com/watch?v=4VK1S7UToNs)
 - [Wassail](https://www.youtube.com/watch?v=Tr13PHSPMJM)
 - [London Plane](https://www.youtube.com/watch?v=AYW-fjUuSAc)

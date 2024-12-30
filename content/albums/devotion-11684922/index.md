@@ -61,8 +61,8 @@ Regarding the album's title, lead vocalist and keyboardist Victoria Legrand refl
 ### More Videos
 
 - [Beach House - Turtle Island](https://www.youtube.com/watch?v=KVqd5KJVzNA)
-- [Beach House - "You Came To Me"](https://www.youtube.com/watch?v=8UqwNLdb45k)
-- [Beach House "Gila"](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
+- [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
+- [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
 - [Beach House - Some Things Last A Long Time](https://www.youtube.com/watch?v=MlgkEjrdR9c)
 
 ## Release Images

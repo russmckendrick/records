@@ -44,17 +44,17 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 
 
 ## Videos
-### Aphex Twin - Blackbox Life Recorder 21f (Official Video)
-{{< youtube id="e_Ue_P7vcRE" title="Aphex Twin - Blackbox Life Recorder 21f (Official Video)" >}}<br>
+### Aphex Twin - Blackbox Life Recorder 21f Official Video
+{{< youtube id="e_Ue_P7vcRE" title="Aphex Twin - Blackbox Life Recorder 21f Official Video" >}}<br>
 ### More Videos
 
-- [Aphex Twin - in a room7 F760 (Official Audio)](https://www.youtube.com/watch?v=gTBirmyzUbU)
-- [Aphex Twin - Blackbox Life Recorder 21f (Official Audio)](https://www.youtube.com/watch?v=mEkZbWYUego)
-- [Aphex Twin - Blackbox Life Recorder 22 [Parallax Mix] (Official Audio)](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
-- [Aphex Twin - Blackbox Life Recorder 21f (Official Video)](https://www.youtube.com/watch?v=e_Ue_P7vcRE)
-- [Aphex Twin - in a room7 F760 (Official Audio)](https://www.youtube.com/watch?v=gTBirmyzUbU)
-- [Aphex Twin - Blackbox Life Recorder 21f (Official Audio)](https://www.youtube.com/watch?v=mEkZbWYUego)
-- [Aphex Twin - Blackbox Life Recorder 22 [Parallax Mix] (Official Audio)](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
+- [Aphex Twin - in a room7 F760 Official Audio](https://www.youtube.com/watch?v=gTBirmyzUbU)
+- [Aphex Twin - Blackbox Life Recorder 21f Official Audio](https://www.youtube.com/watch?v=mEkZbWYUego)
+- [Aphex Twin - Blackbox Life Recorder 22 Parallax Mix Official Audio](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
+- [Aphex Twin - Blackbox Life Recorder 21f Official Video](https://www.youtube.com/watch?v=e_Ue_P7vcRE)
+- [Aphex Twin - in a room7 F760 Official Audio](https://www.youtube.com/watch?v=gTBirmyzUbU)
+- [Aphex Twin - Blackbox Life Recorder 21f Official Audio](https://www.youtube.com/watch?v=mEkZbWYUego)
+- [Aphex Twin - Blackbox Life Recorder 22 Parallax Mix Official Audio](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
 
 ## Release Images
 {{< imageGrid >}}

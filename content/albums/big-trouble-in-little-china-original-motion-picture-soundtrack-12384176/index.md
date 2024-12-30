@@ -54,19 +54,19 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 
 
 ## Videos
-### Coup De Villes - Big Trouble In Little China (Film Version).wmv
-{{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China (Film Version).wmv" >}}<br>
+### Coup De Villes - Big Trouble In Little China Film Versionwmv
+{{< youtube id="OfSjNPxNPDg" title="Coup De Villes - Big Trouble In Little China Film Versionwmv" >}}<br>
 ### More Videos
 
-- [Pork Chop Express (Main Title)](https://www.youtube.com/watch?v=V8_H5OdN6OM)
-- [Big Trouble In Little China Soundtrack - The Alley (War)](https://www.youtube.com/watch?v=FqKO0ihTB6E)
+- [Pork Chop Express Main Title](https://www.youtube.com/watch?v=V8_H5OdN6OM)
+- [Big Trouble In Little China Soundtrack - The Alley War](https://www.youtube.com/watch?v=FqKO0ihTB6E)
 - [Big Trouble In Little China Soundtrack - Here Come The Storms](https://www.youtube.com/watch?v=4RgcU_AZ3vI)
-- [Big Trouble In Little China Soundtrack - Lopan's Domains/Looking For A Girl](https://www.youtube.com/watch?v=XE2C5HMCHp4)
+- [Big Trouble In Little China Soundtrack - Lopans DomainsLooking For A Girl](https://www.youtube.com/watch?v=XE2C5HMCHp4)
 - [Big Trouble In Little China Soundtrack - Escape From Wing Kong](https://www.youtube.com/watch?v=09bsMX4wbgg)
 - [Big trouble in little china music - Into The Spirit Path](https://www.youtube.com/watch?v=D0SIhMzO8gU)
 - [Big Trouble In Little China Soundtrack - The Great Arcade](https://www.youtube.com/watch?v=dNGULx3i6QY)
 - [Big Trouble In Little China Soundtrack - The Final Escape](https://www.youtube.com/watch?v=2-_ERyOeDSw)
-- [John Carpenter's Coup de Villes Music Video](https://www.youtube.com/watch?v=D03E9kUTTtQ)
+- [John Carpenters Coup de Villes Music Video](https://www.youtube.com/watch?v=D03E9kUTTtQ)
 
 ## Release Images
 {{< imageGrid >}}

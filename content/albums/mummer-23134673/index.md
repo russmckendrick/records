@@ -54,7 +54,7 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 
 - [XTC - Beating of Hearts](https://www.youtube.com/watch?v=MT4zz2b50kg)
 - [XTC - Wonderland](https://www.youtube.com/watch?v=7DCtdVdvuE0)
-- [XTC - Love on a Farmboy's Wages](https://www.youtube.com/watch?v=4VSFU0jKVYs)
+- [XTC - Love on a Farmboys Wages](https://www.youtube.com/watch?v=4VSFU0jKVYs)
 - [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
 - [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 

@@ -62,9 +62,9 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 - [Charlemagne in Sweatpants](https://www.youtube.com/watch?v=a1Garm5R3nU)
 - [How a Resurrection Really Feels](https://www.youtube.com/watch?v=OYI4Xj-l1rk)
 - [The Most Important Thing](https://www.youtube.com/watch?v=Df29NhNhANA)
-- [Don't Let Me Explode](https://www.youtube.com/watch?v=94PUqP4yVzc)
+- [Dont Let Me Explode](https://www.youtube.com/watch?v=94PUqP4yVzc)
 - [Banging Camp](https://www.youtube.com/watch?v=Ie-_fcvmfrM)
-- [Hornets! Hornets!](https://www.youtube.com/watch?v=zi9FCw5FK60)
+- [Hornets Hornets](https://www.youtube.com/watch?v=zi9FCw5FK60)
 - [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 
 ## Release Images

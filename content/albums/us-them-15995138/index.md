@@ -80,11 +80,11 @@ styles: ["Classic Rock", "Prog Rock"]
 
 
 ## Videos
-### Roger Waters - Us + Them Soundtrack  (Full Album) 2020
-{{< youtube id="r9iSNHubAoY" title="Roger Waters - Us + Them Soundtrack  (Full Album) 2020" >}}<br>
+### Roger Waters - Us  Them Soundtrack  Full Album 2020
+{{< youtube id="r9iSNHubAoY" title="Roger Waters - Us  Them Soundtrack  Full Album 2020" >}}<br>
 ### More Videos
 
-- [Roger Waters - Us + Them Soundtrack  (Full Album) 2020](https://www.youtube.com/watch?v=r9iSNHubAoY)
+- [Roger Waters - Us  Them Soundtrack  Full Album 2020](https://www.youtube.com/watch?v=r9iSNHubAoY)
 
 ## Release Images
 {{< imageGrid >}}

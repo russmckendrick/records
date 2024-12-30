@@ -39,28 +39,28 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### The Pyramids - Must Catch a Train (11.06.2022)
-{{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train (11.06.2022)" >}}<br>
+### The Pyramids - Must Catch a Train 11062022
+{{< youtube id="Ub74H6vGXo4" title="The Pyramids - Must Catch a Train 11062022" >}}<br>
 ### More Videos
 
 - [Symarip - Skinhead Moonstomp   ---   Braces are compulsary](https://www.youtube.com/watch?v=WDAsVpsGo4w)
-- [Mr. Symarip - Skinhead Moonstomp](https://www.youtube.com/watch?v=ZWJA00sFsh0)
-- [Symarip - Skinhead Moonstomp (Official Audio)](https://www.youtube.com/watch?v=PWvRr8XxDhU)
-- [Symarip - Skinhead Moonstomp (Subtítulos Español)](https://www.youtube.com/watch?v=5O4MC4-xpoA)
-- [Skinhead - Shuffle (Full Album)](https://www.youtube.com/watch?v=n4LVyXngZ3Q)
+- [Mr Symarip - Skinhead Moonstomp](https://www.youtube.com/watch?v=ZWJA00sFsh0)
+- [Symarip - Skinhead Moonstomp Official Audio](https://www.youtube.com/watch?v=PWvRr8XxDhU)
+- [Symarip - Skinhead Moonstomp Subtítulos Español](https://www.youtube.com/watch?v=5O4MC4-xpoA)
+- [Skinhead - Shuffle Full Album](https://www.youtube.com/watch?v=n4LVyXngZ3Q)
 - [Symarip - Fung Shu](https://www.youtube.com/watch?v=EnvPokQVT4w)
 - [These Boots Are Made for Walking](https://www.youtube.com/watch?v=znLnaEcSgdY)
-- [Symarip ‎- Skinhead Moonstomp](https://www.youtube.com/watch?v=zyWYTkPY2Ls)
-- ['Stay With Him' by Symarip.](https://www.youtube.com/watch?v=NeGm_2MRFFY)
-- ['Hold Him Joe' by Symarip](https://www.youtube.com/watch?v=iAimuqWdCa0)
-- [Symarip - Skinhead Moonstomp (Full Album)](https://www.youtube.com/watch?v=Xc34iagfk3g)
-- [SYMARIP....BAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
+- [Symarip - Skinhead Moonstomp](https://www.youtube.com/watch?v=zyWYTkPY2Ls)
+- [Stay With Him by Symarip](https://www.youtube.com/watch?v=NeGm_2MRFFY)
+- [Hold Him Joe by Symarip](https://www.youtube.com/watch?v=iAimuqWdCa0)
+- [Symarip - Skinhead Moonstomp Full Album](https://www.youtube.com/watch?v=Xc34iagfk3g)
+- [SYMARIPBAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
 - [Symarip- Hold him Joe](https://www.youtube.com/watch?v=CEsc60Ba_T8)
-- [Mr. Symarip - Tomorrow at sunrise (Skinhead Moonstomp)](https://www.youtube.com/watch?v=K4BnKLS0iu4)
+- [Mr Symarip - Tomorrow at sunrise Skinhead Moonstomp](https://www.youtube.com/watch?v=K4BnKLS0iu4)
 - [Symarip - Parsons Corner](https://www.youtube.com/watch?v=dTedQQbEB5w)
-- [Symarip- That's Nice](https://www.youtube.com/watch?v=YEvq0EPgzQM)
+- [Symarip- Thats Nice](https://www.youtube.com/watch?v=YEvq0EPgzQM)
 - [symarip-holidays by the sea](https://www.youtube.com/watch?v=foxnKnN7-r0)
-- [Symarip - Skinhead Moonstomp (Official Audio)](https://www.youtube.com/watch?v=PWvRr8XxDhU)
+- [Symarip - Skinhead Moonstomp Official Audio](https://www.youtube.com/watch?v=PWvRr8XxDhU)
 - [symarip     skinhead moonstomp](https://www.youtube.com/watch?v=xHDBn7TL4JM)
 - [Symarip - Skin Flint](https://www.youtube.com/watch?v=mEOOt6KQ9dQ)
 - [Symarip - Phoenix City](https://www.youtube.com/watch?v=mV3F293BHpY)
@@ -70,8 +70,8 @@ styles: ["Ska", "Rocksteady"]
 - [Symarip - Chicken Merry](https://www.youtube.com/watch?v=Q1fu-ywrqhA)
 - [Symarip - Must Catch a Train](https://www.youtube.com/watch?v=EWJU--K-Y6U)
 - [Symarip - Must Catch a Train](https://www.youtube.com/watch?v=EWJU--K-Y6U)
-- [Symarip - You're Mine](https://www.youtube.com/watch?v=tVNUcX80ANM)
-- [SYMARIP....BAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
+- [Symarip - Youre Mine](https://www.youtube.com/watch?v=tVNUcX80ANM)
+- [SYMARIPBAM BAM BAJI](https://www.youtube.com/watch?v=FLqdkF41Utg)
 - [Symarip- Hold him Joe](https://www.youtube.com/watch?v=CEsc60Ba_T8)
 - [Tomorrow at Sundown](https://www.youtube.com/watch?v=MtdVHNHZ41c)
 - [Symarip - Parsons Corner](https://www.youtube.com/watch?v=dTedQQbEB5w)

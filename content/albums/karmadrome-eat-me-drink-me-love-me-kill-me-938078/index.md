@@ -29,12 +29,12 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Pop Will Eat Itself - Eat Me, Drink Me, Dub Me, Kill Me
-{{< youtube id="4yCr14ftc38" title="Pop Will Eat Itself - Eat Me, Drink Me, Dub Me, Kill Me" >}}<br>
+### Pop Will Eat Itself - Eat Me Drink Me Dub Me Kill Me
+{{< youtube id="4yCr14ftc38" title="Pop Will Eat Itself - Eat Me Drink Me Dub Me Kill Me" >}}<br>
 ### More Videos
 
 - [Pop Will Eat Itself - Karmadrome](https://www.youtube.com/watch?v=2YwfFFcNC9o)
-- [Eat Me, Drink Me, Love Me, Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
+- [Eat Me Drink Me Love Me Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
 
 ## Release Images
 {{< imageGrid >}}

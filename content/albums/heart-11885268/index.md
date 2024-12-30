@@ -50,13 +50,13 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 
 
 ## Videos
-### Stars - Heart (Full Album)
-{{< youtube id="q39Ce3zDScI" title="Stars - Heart (Full Album)" >}}<br>
+### Stars - Heart Full Album
+{{< youtube id="q39Ce3zDScI" title="Stars - Heart Full Album" >}}<br>
 ### More Videos
 
 - [Stars - Elevator Love Letter](https://www.youtube.com/watch?v=xU7KGcrD_gc)
 - [Stars - Elevator Love Letter - Highbury Garage London 2012](https://www.youtube.com/watch?v=ziJ11tuiMuI)
-- [Stars - Heart (Full Album)](https://www.youtube.com/watch?v=q39Ce3zDScI)
+- [Stars - Heart Full Album](https://www.youtube.com/watch?v=q39Ce3zDScI)
 - [Stars - Heart](https://www.youtube.com/watch?v=aucFYXskEok)
 
 ## Release Images

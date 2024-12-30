@@ -89,11 +89,11 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Videos
-### DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)
-{{< youtube id="u6Mf0yHHoE8" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)" >}}<br>
+### DEVIN TOWNSEND - Eras - Vinyl Collection Part III Unboxing
+{{< youtube id="u6Mf0yHHoE8" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part III Unboxing" >}}<br>
 ### More Videos
 
-- [DEVIN TOWNSEND - Eras - Vinyl Collection Part III (Unboxing)](https://www.youtube.com/watch?v=u6Mf0yHHoE8)
+- [DEVIN TOWNSEND - Eras - Vinyl Collection Part III Unboxing](https://www.youtube.com/watch?v=u6Mf0yHHoE8)
 
 ## Release Images
 {{< imageGrid >}}

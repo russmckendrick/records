@@ -41,15 +41,15 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 
 
 ## Videos
-### The Dukes of Stratosphear - 25 O'Clock
-{{< youtube id="xGF7o_I4mAw" title="The Dukes of Stratosphear - 25 O'Clock" >}}<br>
+### The Dukes of Stratosphear - 25 OClock
+{{< youtube id="xGF7o_I4mAw" title="The Dukes of Stratosphear - 25 OClock" >}}<br>
 ### More Videos
 
 - [The Dukes Of Stratosphear - Bike Ride to the Moon - 2009 Remaster](https://www.youtube.com/watch?v=QDKZqZ8bsDs)
 - [My Love Explodes - The Dukes Of Stratosphear](https://www.youtube.com/watch?v=30XdxwZb0kc)
-- [The Dukes Of Stratosphear - What In The World? -](https://www.youtube.com/watch?v=MfDNP9El2qM)
+- [The Dukes Of Stratosphear - What In The World -](https://www.youtube.com/watch?v=MfDNP9El2qM)
 - [The Dukes Of Stratosphear - Your Gold Dress](https://www.youtube.com/watch?v=DnWoDmaiC0g)
-- [Mole From The Ministry / The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
+- [Mole From The Ministry  The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
 
 ## Release Images
 {{< imageGrid >}}

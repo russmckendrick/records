@@ -87,10 +87,10 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 ### More Videos
 
 - [Shadow](https://www.youtube.com/watch?v=QF-NhLJ5bnU)
-- [Envy Of None - Look Inside (Official Video)](https://www.youtube.com/watch?v=QF-lfYi7DXk)
-- [Envy Of None - Liar (Official Lyric Video) from debut album Envy Of None](https://www.youtube.com/watch?v=vV-IZRh22mo)
+- [Envy Of None - Look Inside Official Video](https://www.youtube.com/watch?v=QF-lfYi7DXk)
+- [Envy Of None - Liar Official Lyric Video from debut album Envy Of None](https://www.youtube.com/watch?v=vV-IZRh22mo)
 - [Spy House](https://www.youtube.com/watch?v=cFTXxYXXi8o)
-- [Dog's Life](https://www.youtube.com/watch?v=pnExyrswyj0)
+- [Dogs Life](https://www.youtube.com/watch?v=pnExyrswyj0)
 - [Kabul Blues](https://www.youtube.com/watch?v=aL9wVZEkQts)
 - [Old Strings](https://www.youtube.com/watch?v=1_MUQb3W4hU)
 - [Dumb](https://www.youtube.com/watch?v=GgfkpnSwWKQ)

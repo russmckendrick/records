@@ -41,8 +41,8 @@ In rhetoric and ethics, "two wrongs don't make a right" and "two wrongs make a r
 
 
 ## Videos
-### Cleft - Wrong [Full Album]
-{{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong [Full Album]" >}}<br>
+### Cleft - Wrong Full Album
+{{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong Full Album" >}}<br>
 
 
 ## Release Images

@@ -41,15 +41,15 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 
 
 ## Videos
-### Genesis - Looking For Someone (Official Audio)
-{{< youtube id="E7Z_xXh7gm8" title="Genesis - Looking For Someone (Official Audio)" >}}<br>
+### Genesis - Looking For Someone Official Audio
+{{< youtube id="E7Z_xXh7gm8" title="Genesis - Looking For Someone Official Audio" >}}<br>
 ### More Videos
 
-- [Genesis - White Mountain (Official Audio)](https://www.youtube.com/watch?v=6hgYH3-HVrY)
-- [Genesis - Visions Of Angels (Official Audio)](https://www.youtube.com/watch?v=uMM8spZyEgg)
-- [Genesis - Stagnation (Official Audio)](https://www.youtube.com/watch?v=BNKDXs5P08Q)
-- [Genesis - Dusk (Official Audio)](https://www.youtube.com/watch?v=zhw1gm5-nt0)
-- [Genesis - The Knife (Official Audio)](https://www.youtube.com/watch?v=v719eZmXRdE)
+- [Genesis - White Mountain Official Audio](https://www.youtube.com/watch?v=6hgYH3-HVrY)
+- [Genesis - Visions Of Angels Official Audio](https://www.youtube.com/watch?v=uMM8spZyEgg)
+- [Genesis - Stagnation Official Audio](https://www.youtube.com/watch?v=BNKDXs5P08Q)
+- [Genesis - Dusk Official Audio](https://www.youtube.com/watch?v=zhw1gm5-nt0)
+- [Genesis - The Knife Official Audio](https://www.youtube.com/watch?v=v719eZmXRdE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -74,8 +74,8 @@ In the months leading up to the release of <i>Superunknown</i>, Seattle peers su
 
 
 ## Videos
-### [Full Album] S̲oundg̲arde̲n - S̲uper̲unk̲now̲n
-{{< youtube id="FPzWEIiM8us" title="[Full Album] S̲oundg̲arde̲n - S̲uper̲unk̲now̲n" >}}<br>
+### Full Album Soundgarden - Superunknown
+{{< youtube id="FPzWEIiM8us" title="Full Album Soundgarden - Superunknown" >}}<br>
 
 
 ## Release Images

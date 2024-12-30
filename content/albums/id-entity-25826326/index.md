@@ -49,20 +49,20 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 
 
 ## Videos
-### Friend or Foe?
-{{< youtube id="-BCXXbuQHxs" title="Friend or Foe?" >}}<br>
+### Friend or Foe
+{{< youtube id="-BCXXbuQHxs" title="Friend or Foe" >}}<br>
 ### More Videos
 
 - [Landmine Blast](https://www.youtube.com/watch?v=IWOSPLBDTTo)
-- [Riverside - Big Tech Brother (Official Track Visualizer)](https://www.youtube.com/watch?v=xJ6I3_xbH7I)
+- [Riverside - Big Tech Brother Official Track Visualizer](https://www.youtube.com/watch?v=xJ6I3_xbH7I)
 - [Post-Truth](https://www.youtube.com/watch?v=Ymq2VQOUyuE)
 - [The Place Where I Belong](https://www.youtube.com/watch?v=dHaj6uDx5Cs)
-- [Riverside - I'm Done With You (Official Track Visualizer)](https://www.youtube.com/watch?v=2EUANefJv28)
+- [Riverside - Im Done With You Official Track Visualizer](https://www.youtube.com/watch?v=2EUANefJv28)
 - [Self-Aware](https://www.youtube.com/watch?v=blB0UkMBCSA)
 - [Age of Anger](https://www.youtube.com/watch?v=QRZS6JVe2sQ)
 - [Together Again](https://www.youtube.com/watch?v=fcdmcjrhjak)
-- [RIVERSIDE - “Friend or Foe? (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=EWQQFjyHtro)
-- [RIVERSIDE - “Self-Aware (Single Edit)“ (Official Video)](https://www.youtube.com/watch?v=Weuo4hgVHyY)
+- [RIVERSIDE - Friend or Foe Single Edit Official Video](https://www.youtube.com/watch?v=EWQQFjyHtro)
+- [RIVERSIDE - Self-Aware Single Edit Official Video](https://www.youtube.com/watch?v=Weuo4hgVHyY)
 
 ## Release Images
 {{< imageGrid >}}

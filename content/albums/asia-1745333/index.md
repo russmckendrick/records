@@ -46,21 +46,21 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 
 
 ## Videos
-### Asia - Heat Of The Moment (Official Music Video)
-{{< youtube id="lCALGlGuVUA" title="Asia - Heat Of The Moment (Official Music Video)" >}}<br>
+### Asia - Heat Of The Moment Official Music Video
+{{< youtube id="lCALGlGuVUA" title="Asia - Heat Of The Moment Official Music Video" >}}<br>
 ### More Videos
 
-- [Asia - Only Time Will Tell (Official Music Video)](https://www.youtube.com/watch?v=AWs8SbT4__E)
-- [Asia - Sole Survivor [Music Video] (John Wetton)](https://www.youtube.com/watch?v=KFSIRQt_QI8)
-- [Asia - Wildest Dreams (Official Music Video)](https://www.youtube.com/watch?v=Os5w1c-vT3U)
-- [A̲sia - A̲sia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
-- [Asia - Heat Of The Moment (Official Music Video)](https://www.youtube.com/watch?v=lCALGlGuVUA)
-- [Asia - Only Time Will Tell (Official Music Video)](https://www.youtube.com/watch?v=AWs8SbT4__E)
-- [Asia - Sole Survivor [Music Video] (John Wetton)](https://www.youtube.com/watch?v=KFSIRQt_QI8)
-- [Asia - Wildest Dreams (Official Music Video)](https://www.youtube.com/watch?v=Os5w1c-vT3U)
-- [A̲sia - A̲sia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
-- [Asia - Heat Of The Moment (1982 Japanese Vinyl)](https://www.youtube.com/watch?v=HsBSPgs8M7w)
-- [Asia - Sole Survivor (1982)](https://www.youtube.com/watch?v=b_0TzCuEA9Q)
+- [Asia - Only Time Will Tell Official Music Video](https://www.youtube.com/watch?v=AWs8SbT4__E)
+- [Asia - Sole Survivor Music Video John Wetton](https://www.youtube.com/watch?v=KFSIRQt_QI8)
+- [Asia - Wildest Dreams Official Music Video](https://www.youtube.com/watch?v=Os5w1c-vT3U)
+- [Asia - Asia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
+- [Asia - Heat Of The Moment Official Music Video](https://www.youtube.com/watch?v=lCALGlGuVUA)
+- [Asia - Only Time Will Tell Official Music Video](https://www.youtube.com/watch?v=AWs8SbT4__E)
+- [Asia - Sole Survivor Music Video John Wetton](https://www.youtube.com/watch?v=KFSIRQt_QI8)
+- [Asia - Wildest Dreams Official Music Video](https://www.youtube.com/watch?v=Os5w1c-vT3U)
+- [Asia - Asia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
+- [Asia - Heat Of The Moment 1982 Japanese Vinyl](https://www.youtube.com/watch?v=HsBSPgs8M7w)
+- [Asia - Sole Survivor 1982](https://www.youtube.com/watch?v=b_0TzCuEA9Q)
 
 ## Release Images
 {{< imageGrid >}}

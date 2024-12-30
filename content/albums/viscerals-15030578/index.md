@@ -44,23 +44,23 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 
 
 ## Videos
-### Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer
-{{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer" >}}<br>
+### Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer
+{{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer" >}}<br>
 ### More Videos
 
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
+- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
 - [PIGS PIGS PIGS PIGS PIGS PIGS PIGS - New Body](https://www.youtube.com/watch?v=UMD4gRJm7Kc)
 - [Blood and Butter](https://www.youtube.com/watch?v=ux6DQ8TW8wg)
 - [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
 - [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
-- [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer](https://www.youtube.com/watch?v=dsn9leb4ZSc)
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
+- [Hells Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
+- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer](https://www.youtube.com/watch?v=dsn9leb4ZSc)
+- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
 - [PIGS PIGS PIGS PIGS PIGS PIGS PIGS - New Body](https://www.youtube.com/watch?v=UMD4gRJm7Kc)
 - [Blood and Butter](https://www.youtube.com/watch?v=ux6DQ8TW8wg)
 - [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
 - [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
-- [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
+- [Hells Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
 
 ## Release Images
 {{< imageGrid >}}

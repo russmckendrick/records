@@ -47,12 +47,12 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 
 
 ## Videos
-### TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION
-{{< youtube id="zo9Oor_vYeE" title="TODD RUNDGREN'S UTOPIA ANOTHER LIVE DELUXE EDITION" >}}<br>
+### TODD RUNDGRENS UTOPIA ANOTHER LIVE DELUXE EDITION
+{{< youtube id="zo9Oor_vYeE" title="TODD RUNDGRENS UTOPIA ANOTHER LIVE DELUXE EDITION" >}}<br>
 ### More Videos
 
-- [Todd Rundgren's Utopia -  Do Ya](https://www.youtube.com/watch?v=KvhMTCIvpfQ)
-- [Todd Rundgren's Utopia - The Wheel - from  Another Live - vinyl LP](https://www.youtube.com/watch?v=VVLtB2m5bfw)
+- [Todd Rundgrens Utopia -  Do Ya](https://www.youtube.com/watch?v=KvhMTCIvpfQ)
+- [Todd Rundgrens Utopia - The Wheel - from  Another Live - vinyl LP](https://www.youtube.com/watch?v=VVLtB2m5bfw)
 
 ## Release Images
 {{< imageGrid >}}

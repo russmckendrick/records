@@ -49,21 +49,21 @@ Into the Dragon is the debut studio album by English musician Bomb the Bass, rel
 
 
 ## Videos
-### Bomb the bass - Into the dragon (Full Album)
-{{< youtube id="00_lzstpX1Y" title="Bomb the bass - Into the dragon (Full Album)" >}}<br>
+### Bomb the bass - Into the dragon Full Album
+{{< youtube id="00_lzstpX1Y" title="Bomb the bass - Into the dragon Full Album" >}}<br>
 ### More Videos
 
-- [BOMB THE BASS - Beat Dis [7" US Mix].](https://www.youtube.com/watch?v=CX-OsVJE-DE)
-- [BOMB THE BASS featuring MERLIN - Mégablast Rap.](https://www.youtube.com/watch?v=s4WnGHIK88k)
-- [BOMB THE BASS - On the Cut.](https://www.youtube.com/watch?v=rU0VJXc0H1s)
-- [BOMB THE BASS featuring LAURAINE - Don't Make Me Wait [7" Mix].](https://www.youtube.com/watch?v=T56ONhUdZXg)
-- [BOMB THE BASS - Dynamite Beats.](https://www.youtube.com/watch?v=dhn2mL2F36s)
-- [BOMB THE BASS -Megablast (Hip Hop On Precinct 13) [7" Mix].](https://www.youtube.com/watch?v=bWbJeUEKzc8)
-- [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
-- [BOMB THE BASS - Shake It.](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
+- [BOMB THE BASS - Beat Dis 7 US Mix](https://www.youtube.com/watch?v=CX-OsVJE-DE)
+- [BOMB THE BASS featuring MERLIN - Mégablast Rap](https://www.youtube.com/watch?v=s4WnGHIK88k)
+- [BOMB THE BASS - On the Cut](https://www.youtube.com/watch?v=rU0VJXc0H1s)
+- [BOMB THE BASS featuring LAURAINE - Dont Make Me Wait 7 Mix](https://www.youtube.com/watch?v=T56ONhUdZXg)
+- [BOMB THE BASS - Dynamite Beats](https://www.youtube.com/watch?v=dhn2mL2F36s)
+- [BOMB THE BASS -Megablast Hip Hop On Precinct 13 7 Mix](https://www.youtube.com/watch?v=bWbJeUEKzc8)
+- [BOMB THE BASS featuring AURRA - Hey You](https://www.youtube.com/watch?v=alQBkH08BDU)
+- [BOMB THE BASS - Shake It](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
 - [Bomb The Bass - Say A Little Prayer](https://www.youtube.com/watch?v=LF559UnQ7zM)
-- [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)
-- [B̲o̲m̲b̲ T̲h̲e̲ B̲a̲s̲s̲ | I̲n̲t̲o̲ T̲h̲e̲ D̲r̲a̲g̲o̲n̲](https://www.youtube.com/watch?v=lihARFPi2k4)
+- [BOMB THE BASS - Beat Dat Freestyle Scratch Mix](https://www.youtube.com/watch?v=vbMj6sfuIK8)
+- [Bomb The Bass  Into The Dragon](https://www.youtube.com/watch?v=lihARFPi2k4)
 
 ## Release Images
 {{< imageGrid >}}

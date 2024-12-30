@@ -49,28 +49,28 @@ Stainless Style is a loose concept album based on the tumultuous life of DeLorea
 
 
 ## Videos
-### NEON NEON - I Lust U featuring Cate Le Bon - Official Video!
-{{< youtube id="z4lZqDmCO9c" title="NEON NEON - I Lust U featuring Cate Le Bon - Official Video!" >}}<br>
+### NEON NEON - I Lust U featuring Cate Le Bon - Official Video
+{{< youtube id="z4lZqDmCO9c" title="NEON NEON - I Lust U featuring Cate Le Bon - Official Video" >}}<br>
 ### More Videos
 
-- [Neon Neon - Dream Cars (Unofficial)](https://www.youtube.com/watch?v=Jt924g5lZ7w)
-- [Neon Neon - 'I Told Her on Alderaan / Trick for Treat' - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
-- [Neon Neon - Raquel (Unofficial)](https://www.youtube.com/watch?v=wSG8SdLNyrg)
-- [Neon Neon - Sweat Shop (Unofficial)](https://www.youtube.com/watch?v=3Di4uDDl4DM)
-- [Neon Neon - Luxury Pool Feat. Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [Album Review: Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
+- [Neon Neon - Dream Cars Unofficial](https://www.youtube.com/watch?v=Jt924g5lZ7w)
+- [Neon Neon - I Told Her on Alderaan  Trick for Treat - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
+- [Neon Neon - Raquel Unofficial](https://www.youtube.com/watch?v=wSG8SdLNyrg)
+- [Neon Neon - Sweat Shop Unofficial](https://www.youtube.com/watch?v=3Di4uDDl4DM)
+- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
+- [Album Review Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
 - [Luxury Pool](https://www.youtube.com/watch?v=dHyCrf6CSWs)
 - [Sweat Shop](https://www.youtube.com/watch?v=VM0HxGiuH1Y)
 - [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
 - [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
-- [Neon Neon - Luxury Pool Feat. Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [NEON NEON - I Lust U featuring Cate Le Bon - Official Video!](https://www.youtube.com/watch?v=z4lZqDmCO9c)
-- [Neon Neon - Dream Cars (Unofficial)](https://www.youtube.com/watch?v=Jt924g5lZ7w)
-- [Neon Neon - 'I Told Her on Alderaan / Trick for Treat' - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
-- [Neon Neon - Raquel (Unofficial)](https://www.youtube.com/watch?v=wSG8SdLNyrg)
-- [Neon Neon - Sweat Shop (Unofficial)](https://www.youtube.com/watch?v=3Di4uDDl4DM)
-- [Neon Neon - Luxury Pool Feat. Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [Album Review: Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
+- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
+- [NEON NEON - I Lust U featuring Cate Le Bon - Official Video](https://www.youtube.com/watch?v=z4lZqDmCO9c)
+- [Neon Neon - Dream Cars Unofficial](https://www.youtube.com/watch?v=Jt924g5lZ7w)
+- [Neon Neon - I Told Her on Alderaan  Trick for Treat - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
+- [Neon Neon - Raquel Unofficial](https://www.youtube.com/watch?v=wSG8SdLNyrg)
+- [Neon Neon - Sweat Shop Unofficial](https://www.youtube.com/watch?v=3Di4uDDl4DM)
+- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
+- [Album Review Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
 - [Luxury Pool](https://www.youtube.com/watch?v=dHyCrf6CSWs)
 - [Sweat Shop](https://www.youtube.com/watch?v=VM0HxGiuH1Y)
 - [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)

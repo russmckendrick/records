@@ -64,17 +64,17 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 
 
 ## Videos
-### The Books - "Take Time" (official video)
-{{< youtube id="b1irbhY_dgY" title="The Books - "Take Time" (official video)" >}}<br>
+### The Books - Take Time official video
+{{< youtube id="b1irbhY_dgY" title="The Books - Take Time official video" >}}<br>
 ### More Videos
 
 - [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
 - [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
-- [The Books - The Lemon of Pink (full album)](https://www.youtube.com/watch?v=IiXpi5u5Vu8)
+- [The Books - The Lemon of Pink full album](https://www.youtube.com/watch?v=IiXpi5u5Vu8)
 - [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
 - [The Books - The Lemon of Pink - The Lemon of Pink](https://www.youtube.com/watch?v=kNNIsPrYaQk)
-- [The Books - The Lemon of Pink, Pt 2 - The Lemon of Pink](https://www.youtube.com/watch?v=_MWeEdY8Y5Q)
+- [The Books - The Lemon of Pink Pt 2 - The Lemon of Pink](https://www.youtube.com/watch?v=_MWeEdY8Y5Q)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
 - [The Books - S Is for Evrysing - The Lemon of Pink](https://www.youtube.com/watch?v=ugbr2gKEXeA)
 - [The Books - Explanation Mark - The Lemon of Pink](https://www.youtube.com/watch?v=Xdsi-w6xsLc)

@@ -44,23 +44,23 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 
 
 ## Videos
-### The Flaming Lips - Race For The Prize [Official Music Video]
-{{< youtube id="bs56ygZplQA" title="The Flaming Lips - Race For The Prize [Official Music Video]" >}}<br>
+### The Flaming Lips - Race For The Prize Official Music Video
+{{< youtube id="bs56ygZplQA" title="The Flaming Lips - Race For The Prize Official Music Video" >}}<br>
 ### More Videos
 
-- [The Flaming Lips - Waitin' for a Superman [Official Music Video]](https://www.youtube.com/watch?v=o0AOG7ciuJo)
-- [Feeling Yourself Disintegrate (2017 Remaster)](https://www.youtube.com/watch?v=XvvGYEjloOg)
-- [A Spoonful Weighs a Ton (2017 Remaster)](https://www.youtube.com/watch?v=5qVaP7mNphA)
-- [Suddenly Everything Has Changed (2017 Remaster)](https://www.youtube.com/watch?v=uEVbyd-u2X4)
-- [The Spiderbite Song (2017 Remaster)](https://www.youtube.com/watch?v=_Qta162ot5k)
-- [The Observer (2017 Remaster)](https://www.youtube.com/watch?v=MNwWm_9Jz9A)
-- [The Flaming Lips - The Spark That Bled - The Soft Bulletin [1999]](https://www.youtube.com/watch?v=vibWSQZ7qNk)
-- [Flaming Lips "Race for the Prize" LAUNCH live performance 1999](https://www.youtube.com/watch?v=Hw0wZA9JVyk)
-- [The Flaming Lips - Interview (1999)](https://www.youtube.com/watch?v=JpdrIH_1Zb4)
+- [The Flaming Lips - Waitin for a Superman Official Music Video](https://www.youtube.com/watch?v=o0AOG7ciuJo)
+- [Feeling Yourself Disintegrate 2017 Remaster](https://www.youtube.com/watch?v=XvvGYEjloOg)
+- [A Spoonful Weighs a Ton 2017 Remaster](https://www.youtube.com/watch?v=5qVaP7mNphA)
+- [Suddenly Everything Has Changed 2017 Remaster](https://www.youtube.com/watch?v=uEVbyd-u2X4)
+- [The Spiderbite Song 2017 Remaster](https://www.youtube.com/watch?v=_Qta162ot5k)
+- [The Observer 2017 Remaster](https://www.youtube.com/watch?v=MNwWm_9Jz9A)
+- [The Flaming Lips - The Spark That Bled - The Soft Bulletin 1999](https://www.youtube.com/watch?v=vibWSQZ7qNk)
+- [Flaming Lips Race for the Prize LAUNCH live performance 1999](https://www.youtube.com/watch?v=Hw0wZA9JVyk)
+- [The Flaming Lips - Interview 1999](https://www.youtube.com/watch?v=JpdrIH_1Zb4)
 - [FLAMING LIPS LIVE TV 1999](https://www.youtube.com/watch?v=FHfKwM5vmvw)
-- [The Flaming Lips - Race For the Prize (Live in Los Angeles, 1999)](https://www.youtube.com/watch?v=Hdm9VCiXmp0)
-- [Flaming Lips - Buggin' Vinyl Rip from The Soft Bulletin (1999)](https://www.youtube.com/watch?v=y8TEgXhmDYo)
-- [The Soft Bulletin Medley | Promo for The Flaming Lips (1999)](https://www.youtube.com/watch?v=xeKBILcQlmA)
+- [The Flaming Lips - Race For the Prize Live in Los Angeles 1999](https://www.youtube.com/watch?v=Hdm9VCiXmp0)
+- [Flaming Lips - Buggin Vinyl Rip from The Soft Bulletin 1999](https://www.youtube.com/watch?v=y8TEgXhmDYo)
+- [The Soft Bulletin Medley  Promo for The Flaming Lips 1999](https://www.youtube.com/watch?v=xeKBILcQlmA)
 
 ## Release Images
 {{< imageGrid >}}

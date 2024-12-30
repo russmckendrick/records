@@ -48,21 +48,21 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 
 
 ## Videos
-### Shed Seven ‎– Change Giver (1994) - FULL ALBUM
-{{< youtube id="FuQPdPNy0QU" title="Shed Seven ‎– Change Giver (1994) - FULL ALBUM" >}}<br>
+### Shed Seven  Change Giver 1994 - FULL ALBUM
+{{< youtube id="FuQPdPNy0QU" title="Shed Seven  Change Giver 1994 - FULL ALBUM" >}}<br>
 ### More Videos
 
 - [Dirty Soul](https://www.youtube.com/watch?v=7mGkW0JosAg)
-- [SHED 7-SPEAKEASY       (BY ELIAS)](https://www.youtube.com/watch?v=3BOTix-Pb5Q)
+- [SHED 7-SPEAKEASY       BY ELIAS](https://www.youtube.com/watch?v=3BOTix-Pb5Q)
 - [Head And Hands](https://www.youtube.com/watch?v=Mfs3K2iP4p8)
 - [Casino Girl](https://www.youtube.com/watch?v=66ZfoT6el9g)
 - [Shed Seven - Dolphin](https://www.youtube.com/watch?v=6RHtuXrL_hE)
-- [Shed Seven - Mark (Single Version)](https://www.youtube.com/watch?v=xDP05hzetDM)
+- [Shed Seven - Mark Single Version](https://www.youtube.com/watch?v=xDP05hzetDM)
 - [Shed Seven - On an Island With You](https://www.youtube.com/watch?v=nylypag2Lds)
 - [Long Time Dead](https://www.youtube.com/watch?v=zvO29vYTulc)
 - [Ocean Pie](https://www.youtube.com/watch?v=VAs4P7BBQls)
 - [Missing Out](https://www.youtube.com/watch?v=AQdcDJqr7Zk)
-- [Shed Seven ‎– Change Giver (1994) - FULL ALBUM](https://www.youtube.com/watch?v=FuQPdPNy0QU)
+- [Shed Seven  Change Giver 1994 - FULL ALBUM](https://www.youtube.com/watch?v=FuQPdPNy0QU)
 
 ## Release Images
 {{< imageGrid >}}

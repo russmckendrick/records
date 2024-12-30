@@ -42,15 +42,15 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 
 
 ## Videos
-### Horslips...The Man Who Built America...Full Album
-{{< youtube id="qQ_ZVFgSbaw" title="Horslips...The Man Who Built America...Full Album" >}}<br>
+### HorslipsThe Man Who Built AmericaFull Album
+{{< youtube id="qQ_ZVFgSbaw" title="HorslipsThe Man Who Built AmericaFull Album" >}}<br>
 ### More Videos
 
 - [Horslips- Man who built America](https://www.youtube.com/watch?v=NynajakSbV0)
-- [Horslips...The Man Who Built America...Full Album](https://www.youtube.com/watch?v=qQ_ZVFgSbaw)
+- [HorslipsThe Man Who Built AmericaFull Album](https://www.youtube.com/watch?v=qQ_ZVFgSbaw)
 - [Long Time Ago](https://www.youtube.com/watch?v=hrRVg8aIazg)
 - [Loneliness](https://www.youtube.com/watch?v=E1i3mWHSsyk)
-- [Horslips – The Man Who Built America....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=ZgCCJZPHXoo)
+- [Horslips  The Man Who Built Americayerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=ZgCCJZPHXoo)
 
 ## Release Images
 {{< imageGrid >}}

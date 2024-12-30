@@ -63,8 +63,8 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 
 
 ## Videos
-### Todd Rundgren (Vinyl) Back to the Bars (full album)
-{{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}<br>
+### Todd Rundgren Vinyl Back to the Bars full album
+{{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren Vinyl Back to the Bars full album" >}}<br>
 
 
 ## Release Images

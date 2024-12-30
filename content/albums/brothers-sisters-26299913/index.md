@@ -49,15 +49,15 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Steve Mason - Mars Man (Official Audio)
-{{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man (Official Audio)" >}}<br>
+### Steve Mason - Mars Man Official Audio
+{{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man Official Audio" >}}<br>
 ### More Videos
 
-- [Steve Mason - I'm On My Way (Official Audio)](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
-- [Steve Mason feat. Javed Bashir - No More (Official Video)](https://www.youtube.com/watch?v=PpUFg8odzPw)
-- [Steve Mason - Mars Man (Official Audio)](https://www.youtube.com/watch?v=z9pomvkgFCY)
-- [Steve Mason - I'm On My Way (Official Audio)](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
-- [Steve Mason feat. Javed Bashir - No More (Official Video)](https://www.youtube.com/watch?v=PpUFg8odzPw)
+- [Steve Mason - Im On My Way Official Audio](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
+- [Steve Mason feat Javed Bashir - No More Official Video](https://www.youtube.com/watch?v=PpUFg8odzPw)
+- [Steve Mason - Mars Man Official Audio](https://www.youtube.com/watch?v=z9pomvkgFCY)
+- [Steve Mason - Im On My Way Official Audio](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
+- [Steve Mason feat Javed Bashir - No More Official Video](https://www.youtube.com/watch?v=PpUFg8odzPw)
 
 ## Release Images
 {{< imageGrid >}}

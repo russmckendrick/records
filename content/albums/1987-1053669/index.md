@@ -41,13 +41,13 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Whitesnake - Here I Go Again '87 (Official Music Video)
-{{< youtube id="WyF8RHM1OCg" title="Whitesnake - Here I Go Again '87 (Official Music Video)" >}}<br>
+### Whitesnake - Here I Go Again 87 Official Music Video
+{{< youtube id="WyF8RHM1OCg" title="Whitesnake - Here I Go Again 87 Official Music Video" >}}<br>
 ### More Videos
 
-- [Whitesnake - Is This Love (Official Music Video)](https://www.youtube.com/watch?v=GOJk0HW_hJw)
-- [Whitesnake - Give Me All Your Love (Official Music Video)](https://www.youtube.com/watch?v=dkl2hiTHUrc)
-- [Straight for the Heart (2017 Remaster)](https://www.youtube.com/watch?v=V-2PjKfhoOo)
+- [Whitesnake - Is This Love Official Music Video](https://www.youtube.com/watch?v=GOJk0HW_hJw)
+- [Whitesnake - Give Me All Your Love Official Music Video](https://www.youtube.com/watch?v=dkl2hiTHUrc)
+- [Straight for the Heart 2017 Remaster](https://www.youtube.com/watch?v=V-2PjKfhoOo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,14 +56,14 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 {{< youtube id="xZZ9JH2eS8M" title="This Is What We Do" >}}<br>
 ### More Videos
 
-- [Leftfield feat Grian Chatten - Full Way Round [Edit]](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
-- [Leftfield - Pulse (Official Video)](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
-- [Leftfield - Accumulator (Official Video)](https://www.youtube.com/watch?v=CW0g4FzyqqU)
+- [Leftfield feat Grian Chatten - Full Way Round Edit](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
+- [Leftfield - Pulse Official Video](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
+- [Leftfield - Accumulator Official Video](https://www.youtube.com/watch?v=CW0g4FzyqqU)
 - [This Is What We Do](https://www.youtube.com/watch?v=xZZ9JH2eS8M)
-- [Leftfield feat Grian Chatten - Full Way Round [Edit]](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
-- [Leftfield - Pulse (Official Video)](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
-- [Leftfield - Accumulator (Official Video)](https://www.youtube.com/watch?v=CW0g4FzyqqU)
-- [Leftfield feat Earl 16 - Rapture 16 (Official Video)](https://www.youtube.com/watch?v=Y-ntDC1V3Qc)
+- [Leftfield feat Grian Chatten - Full Way Round Edit](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
+- [Leftfield - Pulse Official Video](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
+- [Leftfield - Accumulator Official Video](https://www.youtube.com/watch?v=CW0g4FzyqqU)
+- [Leftfield feat Earl 16 - Rapture 16 Official Video](https://www.youtube.com/watch?v=Y-ntDC1V3Qc)
 
 ## Release Images
 {{< imageGrid >}}

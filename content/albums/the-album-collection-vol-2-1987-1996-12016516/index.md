@@ -105,17 +105,17 @@ styles: []
 
 
 ## Videos
-### Announcing The Album Collection Vol. 2, 1987-1996
-{{< youtube id="IXfd8YN1lJo" title="Announcing The Album Collection Vol. 2, 1987-1996" >}}<br>
+### Announcing The Album Collection Vol 2 1987-1996
+{{< youtube id="IXfd8YN1lJo" title="Announcing The Album Collection Vol 2 1987-1996" >}}<br>
 ### More Videos
 
-- [The Album Collection: Tunnel Of Love](https://www.youtube.com/watch?v=LYuuyVSn6VY)
-- [The Album Collection: Human Touch](https://www.youtube.com/watch?v=MkP2wIxh3RE)
-- [The Album Collection: Lucky Town](https://www.youtube.com/watch?v=FrFfK0Gx0-U)
-- [The Album Collection: In Concert/MTV Plugged](https://www.youtube.com/watch?v=xmz-W8Fw4W8)
-- [The Album Collection: The Ghost of Tom Joad](https://www.youtube.com/watch?v=egE7yx_lzzo)
-- [The Album Collection: Chimes of Freedom](https://www.youtube.com/watch?v=IgNbj-T7sTE)
-- [The Album Collection: Blood Brothers](https://www.youtube.com/watch?v=j5rhJ6Zg80w)
+- [The Album Collection Tunnel Of Love](https://www.youtube.com/watch?v=LYuuyVSn6VY)
+- [The Album Collection Human Touch](https://www.youtube.com/watch?v=MkP2wIxh3RE)
+- [The Album Collection Lucky Town](https://www.youtube.com/watch?v=FrFfK0Gx0-U)
+- [The Album Collection In ConcertMTV Plugged](https://www.youtube.com/watch?v=xmz-W8Fw4W8)
+- [The Album Collection The Ghost of Tom Joad](https://www.youtube.com/watch?v=egE7yx_lzzo)
+- [The Album Collection Chimes of Freedom](https://www.youtube.com/watch?v=IgNbj-T7sTE)
+- [The Album Collection Blood Brothers](https://www.youtube.com/watch?v=j5rhJ6Zg80w)
 
 ## Release Images
 {{< imageGrid >}}

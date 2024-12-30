@@ -50,8 +50,8 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 
 
 ## Videos
-### The Coral - Change Your Mind (Official Video)
-{{< youtube id="OjCZ8hIqV0o" title="The Coral - Change Your Mind (Official Video)" >}}<br>
+### The Coral - Change Your Mind Official Video
+{{< youtube id="OjCZ8hIqV0o" title="The Coral - Change Your Mind Official Video" >}}<br>
 ### More Videos
 
 - [The Actor And The Cardboard Cowboy](https://www.youtube.com/watch?v=jtHlFSXw_ZY)

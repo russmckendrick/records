@@ -56,27 +56,27 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 
 
 ## Videos
-### Morrissey - I Wish You Lonely (Official Lyric Video)
-{{< youtube id="S0tJ0rc3zKY" title="Morrissey - I Wish You Lonely (Official Lyric Video)" >}}<br>
+### Morrissey - I Wish You Lonely Official Lyric Video
+{{< youtube id="S0tJ0rc3zKY" title="Morrissey - I Wish You Lonely Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Morrissey - Home Is a Question Mark (Official Audio)](https://www.youtube.com/watch?v=mibfRl_TTHw)
-- [Morrissey - Spent the Day in Bed (Official Video)](https://www.youtube.com/watch?v=1rmAi9XmlIo)
-- [Morrissey - I Bury the Living (Official Audio)](https://www.youtube.com/watch?v=yfcc1wuwOFI)
-- [Morrissey - In Your Lap (Official Audio)](https://www.youtube.com/watch?v=7jumNAMAy3M)
-- [Morrissey - The Girl from Tel-Aviv Who Wouldn't Kneel (Official Audio)](https://www.youtube.com/watch?v=oFYHwZRcAKM)
-- [Morrissey - When You Open Your Legs (Official Audio)](https://www.youtube.com/watch?v=lTZjNUIazmc)
-- [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
-- [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)
-- [Morrissey - I Wish You Lonely (Official Lyric Video)](https://www.youtube.com/watch?v=S0tJ0rc3zKY)
-- [Morrissey - Home Is a Question Mark (Official Audio)](https://www.youtube.com/watch?v=mibfRl_TTHw)
-- [Morrissey - Spent the Day in Bed (Official Video)](https://www.youtube.com/watch?v=1rmAi9XmlIo)
-- [Morrissey - I Bury the Living (Official Audio)](https://www.youtube.com/watch?v=yfcc1wuwOFI)
-- [Morrissey - In Your Lap (Official Audio)](https://www.youtube.com/watch?v=7jumNAMAy3M)
-- [Morrissey - The Girl from Tel-Aviv Who Wouldn't Kneel (Official Audio)](https://www.youtube.com/watch?v=oFYHwZRcAKM)
-- [Morrissey - When You Open Your Legs (Official Audio)](https://www.youtube.com/watch?v=lTZjNUIazmc)
-- [Morrissey - Who Will Protect Us from the Police? (Official Audio)](https://www.youtube.com/watch?v=cvDRtyoqHNw)
-- [Morrissey - Israel (Official Audio)](https://www.youtube.com/watch?v=uCKjotJEWjo)
+- [Morrissey - Home Is a Question Mark Official Audio](https://www.youtube.com/watch?v=mibfRl_TTHw)
+- [Morrissey - Spent the Day in Bed Official Video](https://www.youtube.com/watch?v=1rmAi9XmlIo)
+- [Morrissey - I Bury the Living Official Audio](https://www.youtube.com/watch?v=yfcc1wuwOFI)
+- [Morrissey - In Your Lap Official Audio](https://www.youtube.com/watch?v=7jumNAMAy3M)
+- [Morrissey - The Girl from Tel-Aviv Who Wouldnt Kneel Official Audio](https://www.youtube.com/watch?v=oFYHwZRcAKM)
+- [Morrissey - When You Open Your Legs Official Audio](https://www.youtube.com/watch?v=lTZjNUIazmc)
+- [Morrissey - Who Will Protect Us from the Police Official Audio](https://www.youtube.com/watch?v=cvDRtyoqHNw)
+- [Morrissey - Israel Official Audio](https://www.youtube.com/watch?v=uCKjotJEWjo)
+- [Morrissey - I Wish You Lonely Official Lyric Video](https://www.youtube.com/watch?v=S0tJ0rc3zKY)
+- [Morrissey - Home Is a Question Mark Official Audio](https://www.youtube.com/watch?v=mibfRl_TTHw)
+- [Morrissey - Spent the Day in Bed Official Video](https://www.youtube.com/watch?v=1rmAi9XmlIo)
+- [Morrissey - I Bury the Living Official Audio](https://www.youtube.com/watch?v=yfcc1wuwOFI)
+- [Morrissey - In Your Lap Official Audio](https://www.youtube.com/watch?v=7jumNAMAy3M)
+- [Morrissey - The Girl from Tel-Aviv Who Wouldnt Kneel Official Audio](https://www.youtube.com/watch?v=oFYHwZRcAKM)
+- [Morrissey - When You Open Your Legs Official Audio](https://www.youtube.com/watch?v=lTZjNUIazmc)
+- [Morrissey - Who Will Protect Us from the Police Official Audio](https://www.youtube.com/watch?v=cvDRtyoqHNw)
+- [Morrissey - Israel Official Audio](https://www.youtube.com/watch?v=uCKjotJEWjo)
 
 ## Release Images
 {{< imageGrid >}}

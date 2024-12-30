@@ -45,7 +45,7 @@ Rosewood Almanac is the sixth studio album by American singer-songwriter Will St
 {{< youtube id="LWUGoiw7yyY" title="Vanishing Class" >}}<br>
 ### More Videos
 
-- ["Will Stratton - Light blue"](https://www.youtube.com/watch?v=FbgqMEmDroE)
+- [Will Stratton - Light blue](https://www.youtube.com/watch?v=FbgqMEmDroE)
 
 ## Release Images
 {{< imageGrid >}}

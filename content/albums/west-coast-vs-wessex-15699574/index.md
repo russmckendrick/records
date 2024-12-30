@@ -49,13 +49,13 @@ West Coast vs. Wessex is a split album by the American punk rock band NOFX and t
 
 - [Scavenger Type](https://www.youtube.com/watch?v=CzNNPAPbGp0)
 - [Ballad of Me and My Friends](https://www.youtube.com/watch?v=noKFSquOvW4)
-- [NOFX - Worse Things Happen at Sea (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
-- [NOFX - Glory Hallelujah (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
+- [NOFX - Worse Things Happen at Sea Frank Turner Cover Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
+- [NOFX - Glory Hallelujah Frank Turner Cover Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
 - [Eat the Meek](https://www.youtube.com/watch?v=Qiaaf0D3PoM)
 - [Scavenger Type](https://www.youtube.com/watch?v=CzNNPAPbGp0)
 - [Ballad of Me and My Friends](https://www.youtube.com/watch?v=noKFSquOvW4)
-- [NOFX - Worse Things Happen at Sea (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
-- [NOFX - Glory Hallelujah (Frank Turner Cover) Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
+- [NOFX - Worse Things Happen at Sea Frank Turner Cover Official Audio](https://www.youtube.com/watch?v=XRJNeujU6ok)
+- [NOFX - Glory Hallelujah Frank Turner Cover Official Audio](https://www.youtube.com/watch?v=pm_I2c_PHYU)
 
 ## Release Images
 {{< imageGrid >}}

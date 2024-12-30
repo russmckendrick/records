@@ -47,20 +47,20 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### affinity.exe
-{{< youtube id="AvhjDInyGYQ" title="affinity.exe" >}}<br>
+### affinityexe
+{{< youtube id="AvhjDInyGYQ" title="affinityexe" >}}<br>
 ### More Videos
 
 - [Haken - Affinity tour Live - two hour - complete show](https://www.youtube.com/watch?v=0P41QeM8zQQ)
-- [HAKEN - Initiate (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-7pEXGCtnnk)
-- [HAKEN - 1985 (Album Track)](https://www.youtube.com/watch?v=yW8nBlZZvxM)
+- [HAKEN - Initiate OFFICIAL VIDEO](https://www.youtube.com/watch?v=-7pEXGCtnnk)
+- [HAKEN - 1985 Album Track](https://www.youtube.com/watch?v=yW8nBlZZvxM)
 - [Haken - Lapse](https://www.youtube.com/watch?v=EdabtT7mUGI)
 - [The Architect](https://www.youtube.com/watch?v=hiPNVVOTpe8)
-- [HAKEN - Earthrise (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=hQ8KqJJJJhk)
+- [HAKEN - Earthrise OFFICIAL VIDEO](https://www.youtube.com/watch?v=hQ8KqJJJJhk)
 - [Red Giant](https://www.youtube.com/watch?v=9kXE4HroksQ)
-- [HAKEN - 1985 LIVE (Affinity Album)](https://www.youtube.com/watch?v=LMQoJDWGBVs)
-- [HAKEN - The Endless Knot (Lyric Video)](https://www.youtube.com/watch?v=IVZHNPyMhMo)
-- [Haken - Bound By Gravity (with pics)](https://www.youtube.com/watch?v=wU6c9kBWABg)
+- [HAKEN - 1985 LIVE Affinity Album](https://www.youtube.com/watch?v=LMQoJDWGBVs)
+- [HAKEN - The Endless Knot Lyric Video](https://www.youtube.com/watch?v=IVZHNPyMhMo)
+- [Haken - Bound By Gravity with pics](https://www.youtube.com/watch?v=wU6c9kBWABg)
 
 ## Release Images
 {{< imageGrid >}}

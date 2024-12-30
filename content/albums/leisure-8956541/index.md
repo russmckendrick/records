@@ -44,13 +44,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Blur - Birthday (Official Audio)
-{{< youtube id="xGFa5_wdRsU" title="Blur - Birthday (Official Audio)" >}}<br>
+### Blur - Birthday Official Audio
+{{< youtube id="xGFa5_wdRsU" title="Blur - Birthday Official Audio" >}}<br>
 ### More Videos
 
-- [Blur - Wear Me Down (Official Audio)](https://www.youtube.com/watch?v=c46J6GK1qX8)
-- [Blur - Sing (Official Audio)](https://www.youtube.com/watch?v=zsQ6_9m-iDo)
-- [There's No Other Way (2012 Remaster)](https://www.youtube.com/watch?v=2Yhn0cwKJ6M)
+- [Blur - Wear Me Down Official Audio](https://www.youtube.com/watch?v=c46J6GK1qX8)
+- [Blur - Sing Official Audio](https://www.youtube.com/watch?v=zsQ6_9m-iDo)
+- [Theres No Other Way 2012 Remaster](https://www.youtube.com/watch?v=2Yhn0cwKJ6M)
 
 ## Release Images
 {{< imageGrid >}}

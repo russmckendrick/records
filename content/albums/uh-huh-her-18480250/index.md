@@ -60,8 +60,8 @@ The album received largely positive reviews upon its release, although there was
 ### More Videos
 
 - [PJ Harvey - You Come Through](https://www.youtube.com/watch?v=ner3eq4poYA)
-- [PJ Harvey - Who The Fuck?](https://www.youtube.com/watch?v=ZxcCN6BgO_k)
-- [The Life And Death Of Mr. Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
+- [PJ Harvey - Who The Fuck](https://www.youtube.com/watch?v=ZxcCN6BgO_k)
+- [The Life And Death Of Mr Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
 - [Cat On The Wall](https://www.youtube.com/watch?v=TXnJdptcL9A)
 - [The Desperate Kingdom Of Love](https://www.youtube.com/watch?v=sKt1BOdvUKY)
 

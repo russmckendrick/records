@@ -50,18 +50,18 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 
 ## Videos
-### Days Of The New – Hang On To This
-{{< youtube id="8F3KncwJvxA" title="Days Of The New – Hang On To This" >}}<br>
+### Days Of The New  Hang On To This
+{{< youtube id="8F3KncwJvxA" title="Days Of The New  Hang On To This" >}}<br>
 ### More Videos
 
-- [Days Of The New – Die Born](https://www.youtube.com/watch?v=XGEMFaOX-j0)
-- [Days Of The New – Dirty Road](https://www.youtube.com/watch?v=3Ci8D0_6bG0)
+- [Days Of The New  Die Born](https://www.youtube.com/watch?v=XGEMFaOX-j0)
+- [Days Of The New  Dirty Road](https://www.youtube.com/watch?v=3Ci8D0_6bG0)
 - [Days of the New - Dirty Road](https://www.youtube.com/watch?v=GUXyulycU0E)
 - [Days of the New - Hang on to This](https://www.youtube.com/watch?v=UCY2czWpLio)
 - [Days of the new - Days In Our Life](https://www.youtube.com/watch?v=s1gyuc1qqDE)
 - [Days Of The New - Once Again](https://www.youtube.com/watch?v=e9EQrKZeJDs)
 - [Die Born - Days of the New - Lyrics](https://www.youtube.com/watch?v=kHOII42kkug)
-- [Days Of The New Hang On To This lyrics)](https://www.youtube.com/watch?v=ZKBxO-I-T_Q)
+- [Days Of The New Hang On To This lyrics](https://www.youtube.com/watch?v=ZKBxO-I-T_Q)
 
 ## Release Images
 {{< imageGrid >}}

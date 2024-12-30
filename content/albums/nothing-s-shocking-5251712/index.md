@@ -50,13 +50,13 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 
 
 ## Videos
-### Jane's Addiction - Mountain Song (Official Video)
-{{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
+### Janes Addiction - Mountain Song Official Video
+{{< youtube id="1kAIMlISHhU" title="Janes Addiction - Mountain Song Official Video" >}}<br>
 ### More Videos
 
-- [Jane's Addiction - Ocean Size (Official Music Video)](https://www.youtube.com/watch?v=lVIev94s7Mo)
+- [Janes Addiction - Ocean Size Official Music Video](https://www.youtube.com/watch?v=lVIev94s7Mo)
 - [Summertime Rolls](https://www.youtube.com/watch?v=ra46DNeUfdk)
-- [Jane's Addiction - Jane Says (Official Music Video)](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
+- [Janes Addiction - Jane Says Official Music Video](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
 
 ## Release Images
 {{< imageGrid >}}

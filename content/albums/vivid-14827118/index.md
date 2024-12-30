@@ -48,8 +48,8 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 
 
 ## Videos
-### Living Colour - Cult Of Personality (Official Video)
-{{< youtube id="7xxgRUyzgs0" title="Living Colour - Cult Of Personality (Official Video)" >}}<br>
+### Living Colour - Cult Of Personality Official Video
+{{< youtube id="7xxgRUyzgs0" title="Living Colour - Cult Of Personality Official Video" >}}<br>
 ### More Videos
 
 - [Living Colour - Type](https://www.youtube.com/watch?v=1HbF3EAt3ck)

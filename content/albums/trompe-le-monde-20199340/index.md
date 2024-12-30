@@ -56,12 +56,12 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 {{< youtube id="hp7NgLIWCiE" title="Trompe le Monde" >}}<br>
 ### More Videos
 
-- [PIXIES - Planet Of Sound (Official Lyric Video)](https://www.youtube.com/watch?v=TFl4AemxH4g)
-- [PIXIES - Alec Eiffel (Official Video)](https://www.youtube.com/watch?v=rsMLjaloyvI)
+- [PIXIES - Planet Of Sound Official Lyric Video](https://www.youtube.com/watch?v=TFl4AemxH4g)
+- [PIXIES - Alec Eiffel Official Video](https://www.youtube.com/watch?v=rsMLjaloyvI)
 - [The Sad Punk](https://www.youtube.com/watch?v=zcVpFug2p00)
 - [Head On](https://www.youtube.com/watch?v=oliTZ5hQcjI)
 - [U-Mass](https://www.youtube.com/watch?v=anVauyMv-nE)
-- [Space (I Believe In)](https://www.youtube.com/watch?v=Xf5mRBPzTQ4)
+- [Space I Believe In](https://www.youtube.com/watch?v=Xf5mRBPzTQ4)
 - [Subbacultcha](https://www.youtube.com/watch?v=SWYsAbbx0rQ)
 - [Distance Equals Rate Times Time](https://www.youtube.com/watch?v=VpHYy3ZmklM)
 - [Lovely Day](https://www.youtube.com/watch?v=BdVt1IXdGpQ)

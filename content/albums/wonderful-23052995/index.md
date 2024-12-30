@@ -51,17 +51,17 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 {{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}<br>
 ### More Videos
 
-- [Madness - Elysium (Wonderful Track 8)](https://www.youtube.com/watch?v=XhPPZwcPC9M)
-- [Madness - No Money (Wonderful Track 11)](https://www.youtube.com/watch?v=JyJSWO-eSVI)
-- [Madness - 4am (Wonderful Track 4)](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
-- [MADNESS - MEGAMIX - MEDLEY - (WONDERFUL ALBUM)](https://www.youtube.com/watch?v=I5FW6G83VHE)
-- [Madness - Lovestruck (Wonderful Track 1)](https://www.youtube.com/watch?v=aoDwMuRW3uA)
-- [Madness -  If I Didn't Care (Wonderful Track 10)](https://www.youtube.com/watch?v=ISoTiosarYs)
-- [Madness - The Wizard (Wonderful Track 5)](https://www.youtube.com/watch?v=UbqMw5gqbwU)
-- [Madness - Drip Fed Fred (Wonderful Track 6)](https://www.youtube.com/watch?v=_urgVEy5iIc)
-- [Madness - Going To The Top (Wonderful Track 7)](https://www.youtube.com/watch?v=dUICCsFgUPg)
-- [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
-- [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
+- [Madness - Elysium Wonderful Track 8](https://www.youtube.com/watch?v=XhPPZwcPC9M)
+- [Madness - No Money Wonderful Track 11](https://www.youtube.com/watch?v=JyJSWO-eSVI)
+- [Madness - 4am Wonderful Track 4](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
+- [MADNESS - MEGAMIX - MEDLEY - WONDERFUL ALBUM](https://www.youtube.com/watch?v=I5FW6G83VHE)
+- [Madness - Lovestruck Wonderful Track 1](https://www.youtube.com/watch?v=aoDwMuRW3uA)
+- [Madness -  If I Didnt Care Wonderful Track 10](https://www.youtube.com/watch?v=ISoTiosarYs)
+- [Madness - The Wizard Wonderful Track 5](https://www.youtube.com/watch?v=UbqMw5gqbwU)
+- [Madness - Drip Fed Fred Wonderful Track 6](https://www.youtube.com/watch?v=_urgVEy5iIc)
+- [Madness - Going To The Top Wonderful Track 7](https://www.youtube.com/watch?v=dUICCsFgUPg)
+- [Madness - The Communicator Wonderful Track 3](https://www.youtube.com/watch?v=QsdlbJWipGc)
+- [Madness - Johnny The Horse Wonderful Track 2](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
 
 ## Release Images
 {{< imageGrid >}}

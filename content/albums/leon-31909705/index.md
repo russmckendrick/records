@@ -78,21 +78,21 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 
 
 ## Videos
-### Leon Bridges - When a Man Cries (Official Lyric Video)
-{{< youtube id="u4DSvpwNwlo" title="Leon Bridges - When a Man Cries (Official Lyric Video)" >}}<br>
+### Leon Bridges - When a Man Cries Official Lyric Video
+{{< youtube id="u4DSvpwNwlo" title="Leon Bridges - When a Man Cries Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Leon Bridges - That's What I Love (Official Lyric Video)](https://www.youtube.com/watch?v=ng6CHnuIHrc)
-- [Leon Bridges - Laredo (Official Visualizer)](https://www.youtube.com/watch?v=8YklX6sHIeQ)
-- [Leon Bridges - Panther City (Official Lyric Video)](https://www.youtube.com/watch?v=yvZU7a478kA)
-- [Leon Bridges - Ain't Got Nothing On You (Official Lyric Video)](https://www.youtube.com/watch?v=kYSxE7EgNl8)
-- [Leon Bridges - Teddy's Tune (Official Lyric Video)](https://www.youtube.com/watch?v=qGqXcGCx9K0)
-- [Leon Bridges - Never Satisfied (Official Lyric Video)](https://www.youtube.com/watch?v=wl_YZ_uCW-s)
-- [Leon Bridges - Peaceful Place (Official Video)](https://www.youtube.com/watch?v=LtdrdE6sssg)
-- [Leon Bridges - Can't Have It All (Official Lyric Video)](https://www.youtube.com/watch?v=IKR5cC6B3qI)
-- [Leon Bridges - Ivy (Official Lyric Video)](https://www.youtube.com/watch?v=DpcvtGLpNFQ)
-- [Leon Bridges - Ghetto Honeybee (Official Lyric Video)](https://www.youtube.com/watch?v=n3r2TZdTr-c)
-- [Leon Bridges - God Loves Everyone (Official Lyric Video)](https://www.youtube.com/watch?v=TnNOmJURKsA)
+- [Leon Bridges - Thats What I Love Official Lyric Video](https://www.youtube.com/watch?v=ng6CHnuIHrc)
+- [Leon Bridges - Laredo Official Visualizer](https://www.youtube.com/watch?v=8YklX6sHIeQ)
+- [Leon Bridges - Panther City Official Lyric Video](https://www.youtube.com/watch?v=yvZU7a478kA)
+- [Leon Bridges - Aint Got Nothing On You Official Lyric Video](https://www.youtube.com/watch?v=kYSxE7EgNl8)
+- [Leon Bridges - Teddys Tune Official Lyric Video](https://www.youtube.com/watch?v=qGqXcGCx9K0)
+- [Leon Bridges - Never Satisfied Official Lyric Video](https://www.youtube.com/watch?v=wl_YZ_uCW-s)
+- [Leon Bridges - Peaceful Place Official Video](https://www.youtube.com/watch?v=LtdrdE6sssg)
+- [Leon Bridges - Cant Have It All Official Lyric Video](https://www.youtube.com/watch?v=IKR5cC6B3qI)
+- [Leon Bridges - Ivy Official Lyric Video](https://www.youtube.com/watch?v=DpcvtGLpNFQ)
+- [Leon Bridges - Ghetto Honeybee Official Lyric Video](https://www.youtube.com/watch?v=n3r2TZdTr-c)
+- [Leon Bridges - God Loves Everyone Official Lyric Video](https://www.youtube.com/watch?v=TnNOmJURKsA)
 
 ## Release Images
 {{< imageGrid >}}

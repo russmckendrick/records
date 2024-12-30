@@ -53,10 +53,10 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 - [Trail of Fire](https://www.youtube.com/watch?v=u_WQdxKW2VM)
 - [Savant](https://www.youtube.com/watch?v=ZcVny4TKFkY)
 - [Only Twin](https://www.youtube.com/watch?v=b8S2I1dasMU)
-- [An Old Friend of the Christy's](https://www.youtube.com/watch?v=vY1mr9CJVZQ)
+- [An Old Friend of the Christys](https://www.youtube.com/watch?v=vY1mr9CJVZQ)
 - [Sleeping Dogs and Dead Lions](https://www.youtube.com/watch?v=2s1E4uECl1Q)
 - [The Frame](https://www.youtube.com/watch?v=QThNbmBK0l4)
-- [Oceansize - The frame (With lyrics)](https://www.youtube.com/watch?v=1rjJ_qxiRzM)
+- [Oceansize - The frame With lyrics](https://www.youtube.com/watch?v=1rjJ_qxiRzM)
 
 ## Release Images
 {{< imageGrid >}}

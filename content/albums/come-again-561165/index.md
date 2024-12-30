@@ -51,12 +51,12 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 
 
 ## Videos
-### Coughin' Contest
-{{< youtube id="M-W_p4dt8Jk" title="Coughin' Contest" >}}<br>
+### Coughin Contest
+{{< youtube id="M-W_p4dt8Jk" title="Coughin Contest" >}}<br>
 ### More Videos
 
 - [Cancer](https://www.youtube.com/watch?v=BPZFSZG0shE)
-- [Non Stop Dancer/My Mum Song (Medley)](https://www.youtube.com/watch?v=lwulc3WZQsc)
+- [Non Stop DancerMy Mum Song Medley](https://www.youtube.com/watch?v=lwulc3WZQsc)
 - [Joan Crawford](https://www.youtube.com/watch?v=BZXOvGwk734)
 - [Back Of The Cab](https://www.youtube.com/watch?v=BKrFFmft6ss)
 - [Members Only](https://www.youtube.com/watch?v=s-XRq7OCA60)
@@ -65,13 +65,13 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 - [Norman The Carpet](https://www.youtube.com/watch?v=agOCImXbwJE)
 - [Alfie Noakes](https://www.youtube.com/watch?v=jmnXaAslBks)
 - [Having A Wank](https://www.youtube.com/watch?v=9PY2RNxvMMg)
-- [How's Your Mother](https://www.youtube.com/watch?v=2Jb9SfleWUE)
+- [Hows Your Mother](https://www.youtube.com/watch?v=2Jb9SfleWUE)
 - [Ross McPharter](https://www.youtube.com/watch?v=oFuaeI2F3MQ)
 - [Hello Colin](https://www.youtube.com/watch?v=4BVlX6pzc6g)
 - [In The Cubicles](https://www.youtube.com/watch?v=_SwOLKWIjHM)
-- [Young Dudley Moore Performs 'Jump'](https://www.youtube.com/watch?v=oWmaFO2zc2I)
+- [Young Dudley Moore Performs Jump](https://www.youtube.com/watch?v=oWmaFO2zc2I)
 - [Nurse](https://www.youtube.com/watch?v=cGY-1dEP4SM)
-- [Valerie's Hymen](https://www.youtube.com/watch?v=cylpWhXWjFk)
+- [Valeries Hymen](https://www.youtube.com/watch?v=cylpWhXWjFk)
 - [Mother](https://www.youtube.com/watch?v=4pPdFSBVVQI)
 - [Parking Offence](https://www.youtube.com/watch?v=OhtoR2CYk1E)
 

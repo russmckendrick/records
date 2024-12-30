@@ -41,8 +41,8 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 
 
 ## Videos
-### BIG BIG TRAIN -  Oblivion (OFFICIAL VIDEO)
-{{< youtube id="TZjAreGfqlU" title="BIG BIG TRAIN -  Oblivion (OFFICIAL VIDEO)" >}}<br>
+### BIG BIG TRAIN -  Oblivion OFFICIAL VIDEO
+{{< youtube id="TZjAreGfqlU" title="BIG BIG TRAIN -  Oblivion OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images

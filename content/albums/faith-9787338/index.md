@@ -49,12 +49,12 @@ Faith is one of the best-selling albums of all time, having sold over 25 million
 
 
 ## Videos
-### George Michael - Faith [LP Full Album]
-{{< youtube id="GQ5z75ombdg" title="George Michael - Faith [LP Full Album]" >}}<br>
+### George Michael - Faith LP Full Album
+{{< youtube id="GQ5z75ombdg" title="George Michael - Faith LP Full Album" >}}<br>
 ### More Videos
 
-- [George Michael - Faith [LP Full Album]](https://www.youtube.com/watch?v=GQ5z75ombdg)
-- [George Michael - Faith (Official Video)](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
+- [George Michael - Faith LP Full Album](https://www.youtube.com/watch?v=GQ5z75ombdg)
+- [George Michael - Faith Official Video](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
 
 ## Release Images
 {{< imageGrid >}}

@@ -42,15 +42,15 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 
 
 ## Videos
-### Going Out Of My Head by Fatboy Slim [Official Video]
-{{< youtube id="ynlNxXHqJks" title="Going Out Of My Head by Fatboy Slim [Official Video]" >}}<br>
+### Going Out Of My Head by Fatboy Slim Official Video
+{{< youtube id="ynlNxXHqJks" title="Going Out Of My Head by Fatboy Slim Official Video" >}}<br>
 ### More Videos
 
-- [Everybody Needs A 303 by Fatboy Slim [High Res/Official Video]](https://www.youtube.com/watch?v=o6eIBE7Bo3U)
-- [Fayboy Slim - The weekend starts here (classic chilled tune, cool beat)](https://www.youtube.com/watch?v=h4gh01kftv0)
-- [Santa Cruz by Fatboy Slim [Official Video]](https://www.youtube.com/watch?v=D06ZivsDJmc)
-- [F̲a̲t̲b̲o̲y̲ ̲S̲l̲i̲m̲ | B̲e̲t̲t̲e̲r̲ ̲L̲i̲v̲i̲n̲g̲ ̲T̲h̲r̲o̲u̲g̲h̲ ̲C̲h̲e̲m̲i̲s̲t̲r̲y̲](https://www.youtube.com/watch?v=JfQj4zDuViI)
-- [Fatboy Slim - The Sound Of Milwaukee (Official Audio)](https://www.youtube.com/watch?v=pcGGRXDW98M)
+- [Everybody Needs A 303 by Fatboy Slim High ResOfficial Video](https://www.youtube.com/watch?v=o6eIBE7Bo3U)
+- [Fayboy Slim - The weekend starts here classic chilled tune cool beat](https://www.youtube.com/watch?v=h4gh01kftv0)
+- [Santa Cruz by Fatboy Slim Official Video](https://www.youtube.com/watch?v=D06ZivsDJmc)
+- [Fatboy Slim  Better Living Through Chemistry](https://www.youtube.com/watch?v=JfQj4zDuViI)
+- [Fatboy Slim - The Sound Of Milwaukee Official Audio](https://www.youtube.com/watch?v=pcGGRXDW98M)
 - [Fatboy Slim - Better Living Through Chemistry - Full Album  HD 1080p](https://www.youtube.com/watch?v=1fMcsFZax1U)
 
 ## Release Images

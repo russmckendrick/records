@@ -58,8 +58,8 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 
 
 ## Videos
-### XTC - Drums and Wires [Full Album]
-{{< youtube id="N66oJVIjk2M" title="XTC - Drums and Wires [Full Album]" >}}<br>
+### XTC - Drums and Wires Full Album
+{{< youtube id="N66oJVIjk2M" title="XTC - Drums and Wires Full Album" >}}<br>
 
 
 ## Release Images

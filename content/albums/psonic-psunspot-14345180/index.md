@@ -45,19 +45,19 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 
 
 ## Videos
-### 25 O'Clock (2001 Mix)
-{{< youtube id="r8f8K6TNtXI" title="25 O'Clock (2001 Mix)" >}}<br>
+### 25 OClock 2001 Mix
+{{< youtube id="r8f8K6TNtXI" title="25 OClock 2001 Mix" >}}<br>
 ### More Videos
 
-- [Pale And Precious (2001 Mix)](https://www.youtube.com/watch?v=YWbSdrUFe4Y)
-- [Vanishing Girl (2001 Mix)](https://www.youtube.com/watch?v=FDX-LLNoZEY)
+- [Pale And Precious 2001 Mix](https://www.youtube.com/watch?v=YWbSdrUFe4Y)
+- [Vanishing Girl 2001 Mix](https://www.youtube.com/watch?v=FDX-LLNoZEY)
 - [The Dukes of Stratosphear  - The Affiliated](https://www.youtube.com/watch?v=wKRGNREl7C0)
-- [What In The World? (2001 Mix)](https://www.youtube.com/watch?v=4HsGzFiDios)
+- [What In The World 2001 Mix](https://www.youtube.com/watch?v=4HsGzFiDios)
 - [The Dukes Of Stratosphear - Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
-- [Little Lighthouse (2001 Mix)](https://www.youtube.com/watch?v=davK8592Afw)
-- [Dukes of Stratosphear (XTC) - You're My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)
+- [Little Lighthouse 2001 Mix](https://www.youtube.com/watch?v=davK8592Afw)
+- [Dukes of Stratosphear XTC - Youre My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)
 - [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
-- [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
+- [The Dukes Of Stratosphear - Brainiacs daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
 
 ## Release Images
 {{< imageGrid >}}

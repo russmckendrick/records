@@ -45,19 +45,19 @@ The track was originally issued on the Volt label (a subsidiary of Stax Records)
 
 
 ## Videos
-### Booker T. & The MG's - Green Onions (Official Audio)
-{{< youtube id="0oox9bJaGJ8" title="Booker T. & The MG's - Green Onions (Official Audio)" >}}<br>
+### Booker T  The MGs - Green Onions Official Audio
+{{< youtube id="0oox9bJaGJ8" title="Booker T  The MGs - Green Onions Official Audio" >}}<br>
 ### More Videos
 
-- [Rinky Dink (MONO Audio)](https://www.youtube.com/watch?v=gFUwxnL5h_Q)
+- [Rinky Dink MONO Audio](https://www.youtube.com/watch?v=gFUwxnL5h_Q)
 - [I Got a Woman](https://www.youtube.com/watch?v=0ZXqw_cQeTw)
 - [Twist and Shout](https://www.youtube.com/watch?v=gv2BjQIAf5Y)
 - [Stranger on the Shore](https://www.youtube.com/watch?v=dMz3TLRvDEY)
 - [Lonely Avenue](https://www.youtube.com/watch?v=DFYSfgotEa4)
 - [One Who Really Loves You](https://www.youtube.com/watch?v=d9G_X_7ze8o)
-- [You Can't Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
-- [A Woman, a Lover, a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
-- [Comin' Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
+- [You Cant Sit Down](https://www.youtube.com/watch?v=53glDIYrBog)
+- [A Woman a Lover a Friend](https://www.youtube.com/watch?v=KrJOAMo7bbA)
+- [Comin Home Baby](https://www.youtube.com/watch?v=jo_bL0N-ek4)
 
 ## Release Images
 {{< imageGrid >}}

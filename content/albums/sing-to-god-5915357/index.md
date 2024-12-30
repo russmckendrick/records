@@ -71,10 +71,10 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 - [Cardiacs - Fiery Gun Hand](https://www.youtube.com/watch?v=ebDdbUacEao)
 - [Cardiacs - Insect Hoofs on Lassie](https://www.youtube.com/watch?v=Ka0boB28wUo)
 - [Bellyeye](https://www.youtube.com/watch?v=F-12zpwEHY0)
-- [TRIBUTE VIDEO TO TIM SMITH ( CARDIACS ) : MANHOO from SING TO GOD](https://www.youtube.com/watch?v=rN5znaFXcVc)
+- [TRIBUTE VIDEO TO TIM SMITH  CARDIACS   MANHOO from SING TO GOD](https://www.youtube.com/watch?v=rN5znaFXcVc)
 - [Cardiacs - Dirty Boy](https://www.youtube.com/watch?v=d-dd4fMUhAY)
 - [Billion](https://www.youtube.com/watch?v=chs6xkDJWq4)
-- [Cardiacs -  Nurses Whispering Verses (Sing to god version)](https://www.youtube.com/watch?v=tiVOEHIHuzU)
+- [Cardiacs -  Nurses Whispering Verses Sing to god version](https://www.youtube.com/watch?v=tiVOEHIHuzU)
 - [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
 ## Release Images

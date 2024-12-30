@@ -48,14 +48,14 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 {{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}<br>
 ### More Videos
 
-- [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
-- [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)
-- [Ultravox - I Remember (Death in the Afternoon)](https://www.youtube.com/watch?v=wbZWIisWKBg)
+- [ULTRAVOX - We Stand Alone 1981](https://www.youtube.com/watch?v=A0cCEGo5CqM)
+- [Ultravox - The Voice 1981 HD](https://www.youtube.com/watch?v=MXyxsp5zlCo)
+- [Ultravox - I Remember Death in the Afternoon](https://www.youtube.com/watch?v=wbZWIisWKBg)
 - [Ultravox - Rage In Eden - 1981](https://www.youtube.com/watch?v=UaN5JqUSTQw)
-- [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
-- [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)
-- [Ultravox - I Remember (Death in the Afternoon)](https://www.youtube.com/watch?v=wbZWIisWKBg)
-- [ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
+- [ULTRAVOX - We Stand Alone 1981](https://www.youtube.com/watch?v=A0cCEGo5CqM)
+- [Ultravox - The Voice 1981 HD](https://www.youtube.com/watch?v=MXyxsp5zlCo)
+- [Ultravox - I Remember Death in the Afternoon](https://www.youtube.com/watch?v=wbZWIisWKBg)
+- [ULTRAVOX  Rage In Eden  1981  Vinyl  Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
 
 ## Release Images
 {{< imageGrid >}}

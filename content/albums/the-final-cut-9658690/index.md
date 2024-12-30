@@ -57,8 +57,8 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 
 
 ## Videos
-### Pink Floyd - The Final Cut (Full Album)
-{{< youtube id="qZyXLX7bxDk" title="Pink Floyd - The Final Cut (Full Album)" >}}<br>
+### Pink Floyd - The Final Cut Full Album
+{{< youtube id="qZyXLX7bxDk" title="Pink Floyd - The Final Cut Full Album" >}}<br>
 
 
 ## Release Images

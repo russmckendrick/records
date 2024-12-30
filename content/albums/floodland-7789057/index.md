@@ -81,26 +81,26 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 
 
 ## Videos
-### Dominion / Mother Russia (New Version for Digital)
-{{< youtube id="v0KE3aSH7DI" title="Dominion / Mother Russia (New Version for Digital)" >}}<br>
+### Dominion  Mother Russia New Version for Digital
+{{< youtube id="v0KE3aSH7DI" title="Dominion  Mother Russia New Version for Digital" >}}<br>
 ### More Videos
 
-- [Flood I (New Version for Digital)](https://www.youtube.com/watch?v=Pekj1Y4raSM)
-- [Lucretia My Reflection (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=8nlMbJZDAVA)
-- [1959 (New Version for Digital)](https://www.youtube.com/watch?v=EWOQWsvQB-k)
-- [This Corrosion (New Version for Digital)](https://www.youtube.com/watch?v=VXGKngAzQwo)
-- [Flood II (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=AMbsclRxsjk)
-- [Driven Like the Snow (Vinyl Version) (New Version for Digital)](https://www.youtube.com/watch?v=qqqvQ7GI058)
-- [Never Land (A Fragment) (New Version for Digital)](https://www.youtube.com/watch?v=EjVZBS9C5Gw)
-- [This Corrosion (12" Version) (New Version for Digital)](https://www.youtube.com/watch?v=Jo4u1kLr9X4)
-- [Torch (New Version for Digital)](https://www.youtube.com/watch?v=8rUXffWx2mE)
-- [Colours (New Version for Digital)](https://www.youtube.com/watch?v=PpVHw2ehZa0)
+- [Flood I New Version for Digital](https://www.youtube.com/watch?v=Pekj1Y4raSM)
+- [Lucretia My Reflection Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=8nlMbJZDAVA)
+- [1959 New Version for Digital](https://www.youtube.com/watch?v=EWOQWsvQB-k)
+- [This Corrosion New Version for Digital](https://www.youtube.com/watch?v=VXGKngAzQwo)
+- [Flood II Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=AMbsclRxsjk)
+- [Driven Like the Snow Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=qqqvQ7GI058)
+- [Never Land A Fragment New Version for Digital](https://www.youtube.com/watch?v=EjVZBS9C5Gw)
+- [This Corrosion 12 Version New Version for Digital](https://www.youtube.com/watch?v=Jo4u1kLr9X4)
+- [Torch New Version for Digital](https://www.youtube.com/watch?v=8rUXffWx2mE)
+- [Colours New Version for Digital](https://www.youtube.com/watch?v=PpVHw2ehZa0)
 - [Dominion](https://www.youtube.com/watch?v=SMrcB2SscWg)
-- [Untitled (New Version for Digital)](https://www.youtube.com/watch?v=lQ87rfkvAes)
-- [Sandstorm (New Version for Digital)](https://www.youtube.com/watch?v=XckmFiSXi9Y)
-- [Emma (New Version for Digital)](https://www.youtube.com/watch?v=JPNF7W3q9fk)
-- [Lucretia My Reflection (12" Version) (New Version for Digital)](https://www.youtube.com/watch?v=UoAs63R1cZM)
-- [Long Train (1984) (New Version for Digital)](https://www.youtube.com/watch?v=K-pR4KvDnc8)
+- [Untitled New Version for Digital](https://www.youtube.com/watch?v=lQ87rfkvAes)
+- [Sandstorm New Version for Digital](https://www.youtube.com/watch?v=XckmFiSXi9Y)
+- [Emma New Version for Digital](https://www.youtube.com/watch?v=JPNF7W3q9fk)
+- [Lucretia My Reflection 12 Version New Version for Digital](https://www.youtube.com/watch?v=UoAs63R1cZM)
+- [Long Train 1984 New Version for Digital](https://www.youtube.com/watch?v=K-pR4KvDnc8)
 
 ## Release Images
 {{< imageGrid >}}

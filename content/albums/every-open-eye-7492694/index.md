@@ -59,18 +59,18 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)
 - [CHVRCHES - Empty Threat](https://www.youtube.com/watch?v=KNHxwSp-6Og)
-- [CHVRCHES - Clearest Blue (lyric video)](https://www.youtube.com/watch?v=QpFXXPruuqU)
-- [CHVRCHES - Never Ending Circles (lyric video)](https://www.youtube.com/watch?v=AU9_0pxiDjY)
-- [CHVRCHES - Leave A Trace (Lyric Video)](https://www.youtube.com/watch?v=nZRxFsMD4UM)
-- [Keep You on My Side (Reading 2016) CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
+- [CHVRCHES - Clearest Blue lyric video](https://www.youtube.com/watch?v=QpFXXPruuqU)
+- [CHVRCHES - Never Ending Circles lyric video](https://www.youtube.com/watch?v=AU9_0pxiDjY)
+- [CHVRCHES - Leave A Trace Lyric Video](https://www.youtube.com/watch?v=nZRxFsMD4UM)
+- [Keep You on My Side Reading 2016 CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
 - [CHVRCHES - Leave A Trace](https://www.youtube.com/watch?v=4Eo84jDIMKI)
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/watch?v=BZyzX4c1vIs)
 - [CHVRCHES - Empty Threat](https://www.youtube.com/watch?v=KNHxwSp-6Og)
-- [CHVRCHES - Clearest Blue (lyric video)](https://www.youtube.com/watch?v=QpFXXPruuqU)
-- [CHVRCHES - Never Ending Circles (lyric video)](https://www.youtube.com/watch?v=AU9_0pxiDjY)
-- [CHVRCHES - Leave A Trace (Lyric Video)](https://www.youtube.com/watch?v=nZRxFsMD4UM)
-- [Keep You on My Side (Reading 2016) CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
-- [CHVRCHES - Bury It ft. Hayley Williams](https://www.youtube.com/watch?v=B9BLMNn0PrQ)
+- [CHVRCHES - Clearest Blue lyric video](https://www.youtube.com/watch?v=QpFXXPruuqU)
+- [CHVRCHES - Never Ending Circles lyric video](https://www.youtube.com/watch?v=AU9_0pxiDjY)
+- [CHVRCHES - Leave A Trace Lyric Video](https://www.youtube.com/watch?v=nZRxFsMD4UM)
+- [Keep You on My Side Reading 2016 CHVRCHES Live](https://www.youtube.com/watch?v=K1XO8f4CUP4)
+- [CHVRCHES - Bury It ft Hayley Williams](https://www.youtube.com/watch?v=B9BLMNn0PrQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -59,8 +59,8 @@ styles: ["Rock & Roll", "Southern Rock"]
 
 
 ## Videos
-### The Black Crowes - Shake Your Money Maker Live (Full Album) 2023
-{{< youtube id="TYAI52FCdAI" title="The Black Crowes - Shake Your Money Maker Live (Full Album) 2023" >}}<br>
+### The Black Crowes - Shake Your Money Maker Live Full Album 2023
+{{< youtube id="TYAI52FCdAI" title="The Black Crowes - Shake Your Money Maker Live Full Album 2023" >}}<br>
 
 
 ## Release Images

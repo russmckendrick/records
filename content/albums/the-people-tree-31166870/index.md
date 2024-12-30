@@ -61,7 +61,7 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 - [Mother Earth People Tree](https://www.youtube.com/watch?v=AnFvHR5rUh4)
 - [Mother Earth - Apple Green](https://www.youtube.com/watch?v=nMRjoms92bg)
 - [Mother Earth - Stardust Bubblegum](https://www.youtube.com/watch?v=ANGjklqwP6o)
-- [Mother Earth "A Trip Down Brian Lane"](https://www.youtube.com/watch?v=Z8ASEzG0iUE)
+- [Mother Earth A Trip Down Brian Lane](https://www.youtube.com/watch?v=Z8ASEzG0iUE)
 
 ## Release Images
 {{< imageGrid >}}

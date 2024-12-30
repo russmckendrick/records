@@ -47,14 +47,14 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 
 
 ## Videos
-### EMF - Unbelievable (Official Music Video) HD
-{{< youtube id="sfCLt0kTd5E" title="EMF - Unbelievable (Official Music Video) HD" >}}<br>
+### EMF - Unbelievable Official Music Video HD
+{{< youtube id="sfCLt0kTd5E" title="EMF - Unbelievable Official Music Video HD" >}}<br>
 ### More Videos
 
-- [EMF - Children (Official Music Video)](https://www.youtube.com/watch?v=fN7XEB31uow)
+- [EMF - Children Official Music Video](https://www.youtube.com/watch?v=fN7XEB31uow)
 - [Children](https://www.youtube.com/watch?v=FHoLIZtzxbY)
 - [Long Summer Days](https://www.youtube.com/watch?v=w8DnOwohmG8)
-- [When You're Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
+- [When Youre Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
 - [Travelling Not Running](https://www.youtube.com/watch?v=ofZBwZkuSy4)
 - [I Believe](https://www.youtube.com/watch?v=-iAmTM2fTEU)
 - [Girl of an Age](https://www.youtube.com/watch?v=gTOZ-YRo2IE)
@@ -62,7 +62,7 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 - [Lies](https://www.youtube.com/watch?v=V73bNerGrSY)
 - [Longtime](https://www.youtube.com/watch?v=elrHGYu0CWo)
 - [EMF - EMF](https://www.youtube.com/watch?v=bpmAQeGzmXo)
-- [Unbelievable (Remastered)](https://www.youtube.com/watch?v=A3pxkMaUNvc)
+- [Unbelievable Remastered](https://www.youtube.com/watch?v=A3pxkMaUNvc)
 
 ## Release Images
 {{< imageGrid >}}

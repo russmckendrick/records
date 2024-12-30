@@ -46,20 +46,20 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 
 
 ## Videos
-### CD / Warrant ‎– Cherry Pie / 1991 / Club Edition 2004
-{{< youtube id="0H0FPcJDB0Y" title="CD / Warrant ‎– Cherry Pie / 1991 / Club Edition 2004" >}}<br>
+### CD  Warrant  Cherry Pie  1991  Club Edition 2004
+{{< youtube id="0H0FPcJDB0Y" title="CD  Warrant  Cherry Pie  1991  Club Edition 2004" >}}<br>
 ### More Videos
 
-- [LP / Warrant ‎– Cherry Pie / 1991 / Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
+- [LP  Warrant  Cherry Pie  1991  Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
 - [Warrant - Cherry Pie](https://www.youtube.com/watch?v=OjyZKfdwlng)
-- [Warrant - Uncle Tom's Cabin (Official Video)](https://www.youtube.com/watch?v=bx6f68Wd9dc)
+- [Warrant - Uncle Toms Cabin Official Video](https://www.youtube.com/watch?v=bx6f68Wd9dc)
 - [Warrant - I Saw Red](https://www.youtube.com/watch?v=3dh79Ggx9Js)
 - [Warrant - Blind Faith](https://www.youtube.com/watch?v=uNoJ9YHtqq0)
-- [Warrant - Cherry Pie Cassette Tape 1990! #metal #rock #music #retro #warrant #cherrypie #shorts](https://www.youtube.com/watch?v=7NrFF5gX2UU)
-- [LP / Warrant ‎– Cherry Pie / 1991](https://www.youtube.com/watch?v=1mYXpdj5fGQ)
-- [MC / Warrant – Cherry Pie / 1991](https://www.youtube.com/watch?v=0Gc_-ZPpesM)
-- [CD / Warrant ‎– Cherry Pie / 1991 / Club Edition 2004](https://www.youtube.com/watch?v=0H0FPcJDB0Y)
-- [LP / Warrant ‎– Cherry Pie / 1991 / Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
+- [Warrant - Cherry Pie Cassette Tape 1990 metal rock music retro warrant cherrypie shorts](https://www.youtube.com/watch?v=7NrFF5gX2UU)
+- [LP  Warrant  Cherry Pie  1991](https://www.youtube.com/watch?v=1mYXpdj5fGQ)
+- [MC  Warrant  Cherry Pie  1991](https://www.youtube.com/watch?v=0Gc_-ZPpesM)
+- [CD  Warrant  Cherry Pie  1991  Club Edition 2004](https://www.youtube.com/watch?v=0H0FPcJDB0Y)
+- [LP  Warrant  Cherry Pie  1991  Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
 
 ## Release Images
 {{< imageGrid >}}

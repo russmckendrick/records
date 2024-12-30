@@ -47,7 +47,7 @@ styles: []
 {{< youtube id="4gKKL_jw5WI" title="This Is Not A Song" >}}<br>
 ### More Videos
 
-- [Walter's Trip](https://www.youtube.com/watch?v=Veh7a-K3Dls)
+- [Walters Trip](https://www.youtube.com/watch?v=Veh7a-K3Dls)
 - [Trainspotters](https://www.youtube.com/watch?v=-uudQ9BSbp0)
 - [After All](https://www.youtube.com/watch?v=i9Uv2t6kI1o)
 - [Happy Busman](https://www.youtube.com/watch?v=xU0Cdf-TnAI)

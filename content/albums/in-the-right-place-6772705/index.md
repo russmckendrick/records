@@ -61,7 +61,7 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 - [Such a Night](https://www.youtube.com/watch?v=fj9lG30WzcA)
 - [Shoo Fly Marches On](https://www.youtube.com/watch?v=xARxgZKQ0IE)
 - [I Been Hoodood](https://www.youtube.com/watch?v=8abnes8TpW8)
-- [Cold Cold Cold (Single)](https://www.youtube.com/watch?v=lO8RbsTX8Sg)
+- [Cold Cold Cold Single](https://www.youtube.com/watch?v=lO8RbsTX8Sg)
 
 ## Release Images
 {{< imageGrid >}}

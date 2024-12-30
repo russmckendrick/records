@@ -100,24 +100,24 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 
 
 ## Videos
-### Ghost - Hunter's Moon (Official Music Video)
-{{< youtube id="rtkaUZvMaG8" title="Ghost - Hunter's Moon (Official Music Video)" >}}<br>
+### Ghost - Hunters Moon Official Music Video
+{{< youtube id="rtkaUZvMaG8" title="Ghost - Hunters Moon Official Music Video" >}}<br>
 ### More Videos
 
-- [Ghost - Call Me Little Sunshine (Official Music Video)](https://www.youtube.com/watch?v=DD2m_iqD7dI)
-- [Ghost - Spillways (Official Music Video)](https://www.youtube.com/watch?v=u9DV1eHQpcA)
-- [Ghost - Call Me Little Sunshine (Official Music Video)](https://www.youtube.com/watch?v=DD2m_iqD7dI)
-- [Ghost - Twenties (Official Lyric Video)](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
-- [Ghost - Hunter's Moon (Official Music Video)](https://www.youtube.com/watch?v=rtkaUZvMaG8)
-- [Ghost - Darkness At The Heart Of My Love (Official Audio)](https://www.youtube.com/watch?v=tzXFZuB1wSQ)
-- [Ghost - Spillways (Official Audio)](https://www.youtube.com/watch?v=wFxXpPAFnks)
-- [Ghost - Watcher In The Sky (Official Audio)](https://www.youtube.com/watch?v=0mGr5bMItQY)
-- [Ghost - Griftwood (Official Audio)](https://www.youtube.com/watch?v=d6WA06fNscc)
-- [Ghost - Kaiserion (Official Audio)](https://www.youtube.com/watch?v=kt6Ss5r7-qo)
-- [Ghost - Dominion (Official Audio)](https://www.youtube.com/watch?v=N1U7buIoHqc)
-- [Ghost - Imperium (Official Audio)](https://www.youtube.com/watch?v=iuYxW_RiSaw)
-- [Ghost - Bite Of Passage (Official Audio)](https://www.youtube.com/watch?v=C2pLkzpevao)
-- [Ghost - Respite On The Spitalfields (Official Audio)](https://www.youtube.com/watch?v=JA21qOo2mWs)
+- [Ghost - Call Me Little Sunshine Official Music Video](https://www.youtube.com/watch?v=DD2m_iqD7dI)
+- [Ghost - Spillways Official Music Video](https://www.youtube.com/watch?v=u9DV1eHQpcA)
+- [Ghost - Call Me Little Sunshine Official Music Video](https://www.youtube.com/watch?v=DD2m_iqD7dI)
+- [Ghost - Twenties Official Lyric Video](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
+- [Ghost - Hunters Moon Official Music Video](https://www.youtube.com/watch?v=rtkaUZvMaG8)
+- [Ghost - Darkness At The Heart Of My Love Official Audio](https://www.youtube.com/watch?v=tzXFZuB1wSQ)
+- [Ghost - Spillways Official Audio](https://www.youtube.com/watch?v=wFxXpPAFnks)
+- [Ghost - Watcher In The Sky Official Audio](https://www.youtube.com/watch?v=0mGr5bMItQY)
+- [Ghost - Griftwood Official Audio](https://www.youtube.com/watch?v=d6WA06fNscc)
+- [Ghost - Kaiserion Official Audio](https://www.youtube.com/watch?v=kt6Ss5r7-qo)
+- [Ghost - Dominion Official Audio](https://www.youtube.com/watch?v=N1U7buIoHqc)
+- [Ghost - Imperium Official Audio](https://www.youtube.com/watch?v=iuYxW_RiSaw)
+- [Ghost - Bite Of Passage Official Audio](https://www.youtube.com/watch?v=C2pLkzpevao)
+- [Ghost - Respite On The Spitalfields Official Audio](https://www.youtube.com/watch?v=JA21qOo2mWs)
 
 ## Release Images
 {{< imageGrid >}}

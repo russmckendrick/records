@@ -68,35 +68,35 @@ Hammersmith Odeon, London '75 is a concert video and the fourth live album by Br
 
 
 ## Videos
-### Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75
-{{< youtube id="e_W-I5LKiBY" title="Thunder Road - Bruce Springsteen & the E Street Band - Hammersmith Odeon '75" >}}<br>
+### Thunder Road - Bruce Springsteen  the E Street Band - Hammersmith Odeon 75
+{{< youtube id="e_W-I5LKiBY" title="Thunder Road - Bruce Springsteen  the E Street Band - Hammersmith Odeon 75" >}}<br>
 ### More Videos
 
-- [The E Street Shuffle (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=1-dY01Ex7wc)
-- [Thunder Road (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=6O3MO2y30fU)
-- [Born to Run (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=ajbJqfNS0aA)
-- [Backstreets (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=YnNnYjlF1Us)
-- [Jungleland (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=kMyXw35IgYA)
-- [Tenth Avenue Freeze-Out (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=FxCWi8NpoY8)
-- [For You (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=nvMRVGjvLus)
-- [Quarter to Three (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=iOYMHP89xrg)
-- [She's the One (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=cx_K0tFXr8k)
-- [Spirit In the Night (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=dp-aRBV7jLc)
-- [Rosalita (Come Out Tonight) (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=30F7j9mVrO0)
-- [Lost In the Flood (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=s79tVdT2jUs)
-- [It's Hard to Be a Saint In the City (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=YjVh89sHDnI)
-- [Detroit Medley (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=nyQieGYfmfs)
-- [4th of July, Asbury Park (Sandy) (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=f_lSDQy03LY)
-- [Bruce Springsteen - Credits (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=IfSrB5DLT_4)
-- [Kitty's Back (Live at the Hammersmith Odeon, London '75)](https://www.youtube.com/watch?v=RWRlqFywXTY)
-- [Pretty Flamingo - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=2OMF9B-UnLc)
-- [Bruce Springsteen & The E Street Band ‎– Hammersmith Odeon, London '75 - Kitty's Back](https://www.youtube.com/watch?v=CkSPap8PIz4)
-- [Thunder Road - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=bPkPUS148xE)
-- [Kitty's Back (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=MWhGrwrxCkk)
-- [Jungleland (Live at the Hammersmith Odeon, London, UK - November 1975)](https://www.youtube.com/watch?v=yUGJak2IY2c)
-- [Lost in the Flood - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=8DvTeI7-kLM)
-- [Wear My Ring Around Your  - Bruce Springsteen ( 24-11-1975 Hammersmith Odeon, London, England)](https://www.youtube.com/watch?v=qfNMOFHIoag)
-- [Bruce Springsteen - For You (Live 1975)](https://www.youtube.com/watch?v=nxyo1bMQyEY)
+- [The E Street Shuffle Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=1-dY01Ex7wc)
+- [Thunder Road Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=6O3MO2y30fU)
+- [Born to Run Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=ajbJqfNS0aA)
+- [Backstreets Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=YnNnYjlF1Us)
+- [Jungleland Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=kMyXw35IgYA)
+- [Tenth Avenue Freeze-Out Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=FxCWi8NpoY8)
+- [For You Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=nvMRVGjvLus)
+- [Quarter to Three Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=iOYMHP89xrg)
+- [Shes the One Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=cx_K0tFXr8k)
+- [Spirit In the Night Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=dp-aRBV7jLc)
+- [Rosalita Come Out Tonight Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=30F7j9mVrO0)
+- [Lost In the Flood Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=s79tVdT2jUs)
+- [Its Hard to Be a Saint In the City Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=YjVh89sHDnI)
+- [Detroit Medley Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=nyQieGYfmfs)
+- [4th of July Asbury Park Sandy Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=f_lSDQy03LY)
+- [Bruce Springsteen - Credits Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=IfSrB5DLT_4)
+- [Kittys Back Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=RWRlqFywXTY)
+- [Pretty Flamingo - Bruce Springsteen  24-11-1975 Hammersmith Odeon London England](https://www.youtube.com/watch?v=2OMF9B-UnLc)
+- [Bruce Springsteen  The E Street Band  Hammersmith Odeon London 75 - Kittys Back](https://www.youtube.com/watch?v=CkSPap8PIz4)
+- [Thunder Road - Bruce Springsteen  24-11-1975 Hammersmith Odeon London England](https://www.youtube.com/watch?v=bPkPUS148xE)
+- [Kittys Back Live at the Hammersmith Odeon London UK - November 1975](https://www.youtube.com/watch?v=MWhGrwrxCkk)
+- [Jungleland Live at the Hammersmith Odeon London UK - November 1975](https://www.youtube.com/watch?v=yUGJak2IY2c)
+- [Lost in the Flood - Bruce Springsteen  24-11-1975 Hammersmith Odeon London England](https://www.youtube.com/watch?v=8DvTeI7-kLM)
+- [Wear My Ring Around Your  - Bruce Springsteen  24-11-1975 Hammersmith Odeon London England](https://www.youtube.com/watch?v=qfNMOFHIoag)
+- [Bruce Springsteen - For You Live 1975](https://www.youtube.com/watch?v=nxyo1bMQyEY)
 
 ## Release Images
 {{< imageGrid >}}

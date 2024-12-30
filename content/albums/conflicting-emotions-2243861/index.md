@@ -55,7 +55,7 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 ### More Videos
 
 - [Bullet Brain And Cactus Head](https://www.youtube.com/watch?v=rqgxYL56n00)
-- [Split Enz - Message To My Girl (Official Video)](https://www.youtube.com/watch?v=n0pcM30pjgQ)
+- [Split Enz - Message To My Girl Official Video](https://www.youtube.com/watch?v=n0pcM30pjgQ)
 - [Working Up An Appetite](https://www.youtube.com/watch?v=y1tT6wC120s)
 - [Our Day](https://www.youtube.com/watch?v=_gNlaExfKvI)
 - [No Mischief](https://www.youtube.com/watch?v=Uty4eVfkWR8)

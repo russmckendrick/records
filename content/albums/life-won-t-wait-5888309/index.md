@@ -53,13 +53,13 @@ Life Won't Wait is the fourth studio album by the American punk rock band Rancid
 
 
 ## Videos
-### Rancid - Hooligans [MUSIC VIDEO]
-{{< youtube id="dN1FYAisi94" title="Rancid - Hooligans [MUSIC VIDEO]" >}}<br>
+### Rancid - Hooligans MUSIC VIDEO
+{{< youtube id="dN1FYAisi94" title="Rancid - Hooligans MUSIC VIDEO" >}}<br>
 ### More Videos
 
-- [Rancid - Who Would've Thought [MUSIC VIDEO]](https://www.youtube.com/watch?v=oJqFEk67eLE)
-- [Rancid - Bloodclot [MUSIC VIDEO]](https://www.youtube.com/watch?v=1pnUvCRavfo)
-- [Rancid - Life Won't Wait](https://www.youtube.com/watch?v=M5hVE4CgKh4)
+- [Rancid - Who Wouldve Thought MUSIC VIDEO](https://www.youtube.com/watch?v=oJqFEk67eLE)
+- [Rancid - Bloodclot MUSIC VIDEO](https://www.youtube.com/watch?v=1pnUvCRavfo)
+- [Rancid - Life Wont Wait](https://www.youtube.com/watch?v=M5hVE4CgKh4)
 
 ## Release Images
 {{< imageGrid >}}

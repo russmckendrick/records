@@ -44,20 +44,20 @@ styles: ["Alternative Rock", "Space Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Spiritualized 'Songs in A&E' LP Reissue is in stores  June 21st.  Pre-Order now.
-{{< youtube id="jInSTwFmC8c" title="Spiritualized 'Songs in A&E' LP Reissue is in stores  June 21st.  Pre-Order now." >}}<br>
+### Spiritualized Songs in AE LP Reissue is in stores  June 21st  Pre-Order now
+{{< youtube id="jInSTwFmC8c" title="Spiritualized Songs in AE LP Reissue is in stores  June 21st  Pre-Order now" >}}<br>
 ### More Videos
 
-- [Spiritualized - Soul On Fire (Official Music Video)](https://www.youtube.com/watch?v=s9hunPhi768)
-- [Spiritualized - You Lie You Cheat (Official Music Video)](https://www.youtube.com/watch?v=mL64wElTj8M)
-- [Baby I'm Just a Fool](https://www.youtube.com/watch?v=ncD2YXmCUeI)
+- [Spiritualized - Soul On Fire Official Music Video](https://www.youtube.com/watch?v=s9hunPhi768)
+- [Spiritualized - You Lie You Cheat Official Music Video](https://www.youtube.com/watch?v=mL64wElTj8M)
+- [Baby Im Just a Fool](https://www.youtube.com/watch?v=ncD2YXmCUeI)
 - [Sweet Talk](https://www.youtube.com/watch?v=6pb_8WVXgFs)
 - [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
 - [Death Take Your Fiddle](https://www.youtube.com/watch?v=k03itZ9z0ao)
-- [Spiritualized - You Lie You Cheat (Official Music Video)](https://www.youtube.com/watch?v=mL64wElTj8M)
-- [Spiritualized 'Songs in A&E' LP Reissue is in stores  June 21st.  Pre-Order now.](https://www.youtube.com/watch?v=jInSTwFmC8c)
-- [Spiritualized - Soul On Fire (Official Music Video)](https://www.youtube.com/watch?v=s9hunPhi768)
-- [Spiritualized - You Lie You Cheat (Official Music Video)](https://www.youtube.com/watch?v=mL64wElTj8M)
+- [Spiritualized - You Lie You Cheat Official Music Video](https://www.youtube.com/watch?v=mL64wElTj8M)
+- [Spiritualized Songs in AE LP Reissue is in stores  June 21st  Pre-Order now](https://www.youtube.com/watch?v=jInSTwFmC8c)
+- [Spiritualized - Soul On Fire Official Music Video](https://www.youtube.com/watch?v=s9hunPhi768)
+- [Spiritualized - You Lie You Cheat Official Music Video](https://www.youtube.com/watch?v=mL64wElTj8M)
 
 ## Release Images
 {{< imageGrid >}}

@@ -55,9 +55,9 @@ This is also the only Ride album on which Andy Bell's vocal duties outweigh thos
 {{< youtube id="gUee69Oo2sk" title="Ride - Black Nite Crash" >}}<br>
 ### More Videos
 
-- [Ride - Sunshine / Nowhere to Run](https://www.youtube.com/watch?v=4MH-kXD1Bco)
+- [Ride - Sunshine  Nowhere to Run](https://www.youtube.com/watch?v=4MH-kXD1Bco)
 - [Ride - Ride The Wind](https://www.youtube.com/watch?v=vlnL2H6RJEk)
-- [Ride - Burnin'](https://www.youtube.com/watch?v=YlG4KXvTA7M)
+- [Ride - Burnin](https://www.youtube.com/watch?v=YlG4KXvTA7M)
 - [Ride - Castle On The Hill](https://www.youtube.com/watch?v=JSh_exG6YJM)
 - [Ride - Walk On Water](https://www.youtube.com/watch?v=U29GLDNAVsE)
 

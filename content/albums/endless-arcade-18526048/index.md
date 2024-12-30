@@ -52,11 +52,11 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 
 
 ## Videos
-### Teenage Fanclub - Home (single edit)
-{{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home (single edit)" >}}<br>
+### Teenage Fanclub - Home single edit
+{{< youtube id="rKaoUahiY1k" title="Teenage Fanclub - Home single edit" >}}<br>
 ### More Videos
 
-- [Teenage Fanclub - Everything Is Falling Apart (Official Video)](https://www.youtube.com/watch?v=AffiHHlAbWQ)
+- [Teenage Fanclub - Everything Is Falling Apart Official Video](https://www.youtube.com/watch?v=AffiHHlAbWQ)
 - [Teenage Fanclub - In Our Dreams](https://www.youtube.com/watch?v=DRh4Gm2clwk)
 
 ## Release Images

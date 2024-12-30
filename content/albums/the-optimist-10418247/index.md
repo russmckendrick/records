@@ -57,11 +57,11 @@ The Liverpool groupâ€™s 11th album is a conceptual sequel to their sixth, 2001â€
 
 
 ## Videos
-### Anathema - Springfield (from The Optimist)
-{{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield (from The Optimist)" >}}<br>
+### Anathema - Springfield from The Optimist
+{{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield from The Optimist" >}}<br>
 ### More Videos
 
-- [Anathema - The Optimist (FULL ALBUM)](https://www.youtube.com/watch?v=AYmbDjGnpQ8)
+- [Anathema - The Optimist FULL ALBUM](https://www.youtube.com/watch?v=AYmbDjGnpQ8)
 
 ## Release Images
 {{< imageGrid >}}

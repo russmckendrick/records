@@ -52,13 +52,13 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 
 
 ## Videos
-### In the Cage (Medley: Cinema Show / The Colony of Slippermen) (Live) (1994 Remaster)
-{{< youtube id="1nBwRkMEUpY" title="In the Cage (Medley: Cinema Show / The Colony of Slippermen) (Live) (1994 Remaster)" >}}<br>
+### In the Cage Medley Cinema Show  The Colony of Slippermen Live 1994 Remaster
+{{< youtube id="1nBwRkMEUpY" title="In the Cage Medley Cinema Show  The Colony of Slippermen Live 1994 Remaster" >}}<br>
 ### More Videos
 
-- [Afterglow (Live) (1994 Remaster)](https://www.youtube.com/watch?v=cYumtrdSZ1Y)
-- [Paperlate (2007 Remaster)](https://www.youtube.com/watch?v=qvrfihDSJJc)
-- [Genesis - You Might Recall (Studio Version)](https://www.youtube.com/watch?v=YsV-1FDLTW0)
+- [Afterglow Live 1994 Remaster](https://www.youtube.com/watch?v=cYumtrdSZ1Y)
+- [Paperlate 2007 Remaster](https://www.youtube.com/watch?v=qvrfihDSJJc)
+- [Genesis - You Might Recall Studio Version](https://www.youtube.com/watch?v=YsV-1FDLTW0)
 - [Genesis - Me and Virgil](https://www.youtube.com/watch?v=uWV0XR3cLwI)
 - [Evidence of Autumn](https://www.youtube.com/watch?v=xC_d0ah3mQA)
 - [Open Door](https://www.youtube.com/watch?v=8p49G1mrjSQ)

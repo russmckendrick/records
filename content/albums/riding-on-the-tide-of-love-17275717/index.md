@@ -44,21 +44,21 @@ Riding on the Tide of Love is the tenth studio album by Scottish band Deacon Blu
 
 
 ## Videos
-### Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)
-{{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love (Official Lyric Video)" >}}<br>
+### Deacon Blue - Riding On The Tide Of Love Official Lyric Video
+{{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Deacon Blue - Not Gonna Be That Girl (Official Audio)](https://www.youtube.com/watch?v=HEMgponMEZ4)
-- [Deacon Blue - Look Up (Official Audio)](https://www.youtube.com/watch?v=5MuKyy1c79Q)
-- [Deacon Blue - It's Still Early (Official Audio)](https://www.youtube.com/watch?v=YhWyfNhlPrI)
-- [Deacon Blue - Time (Official Audio)](https://www.youtube.com/watch?v=1CCo2rnUkjo)
-- [Deacon Blue - Send A Note Out (Official Audio)](https://www.youtube.com/watch?v=FN848fRtE_A)
-- [Deacon Blue - Nothing's Changed (Official Audio)](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
-- [Deacon Blue - She Loved The Snow (Official Audio)](https://www.youtube.com/watch?v=kk4iy86H-o0)
-- [Deacon Blue - I Will and I Won't (At Home Sessions)](https://www.youtube.com/watch?v=yiSF3N8ks8M)
-- [Deacon Blue - Only Tender Love (At Home Sessions)](https://www.youtube.com/watch?v=xPRpQFGtbqw)
-- [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
-- [Deacon Blue - City of Love (At Home Sessions)](https://www.youtube.com/watch?v=eyEUQOIwxuY)
+- [Deacon Blue - Not Gonna Be That Girl Official Audio](https://www.youtube.com/watch?v=HEMgponMEZ4)
+- [Deacon Blue - Look Up Official Audio](https://www.youtube.com/watch?v=5MuKyy1c79Q)
+- [Deacon Blue - Its Still Early Official Audio](https://www.youtube.com/watch?v=YhWyfNhlPrI)
+- [Deacon Blue - Time Official Audio](https://www.youtube.com/watch?v=1CCo2rnUkjo)
+- [Deacon Blue - Send A Note Out Official Audio](https://www.youtube.com/watch?v=FN848fRtE_A)
+- [Deacon Blue - Nothings Changed Official Audio](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
+- [Deacon Blue - She Loved The Snow Official Audio](https://www.youtube.com/watch?v=kk4iy86H-o0)
+- [Deacon Blue - I Will and I Wont At Home Sessions](https://www.youtube.com/watch?v=yiSF3N8ks8M)
+- [Deacon Blue - Only Tender Love At Home Sessions](https://www.youtube.com/watch?v=xPRpQFGtbqw)
+- [Deacon Blue - Chocolate Girl At Home Sessions](https://www.youtube.com/watch?v=T_WfwMhVrHU)
+- [Deacon Blue - City of Love At Home Sessions](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
 ## Release Images
 {{< imageGrid >}}

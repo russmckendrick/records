@@ -45,15 +45,15 @@ styles: ["Indie Rock", "Contemporary"]
 
 
 ## Videos
-### James – She’s a Star (Orchestral Version)
-{{< youtube id="WHOb8YUYtXU" title="James – She’s a Star (Orchestral Version)" >}}<br>
+### James  Shes a Star Orchestral Version
+{{< youtube id="WHOb8YUYtXU" title="James  Shes a Star Orchestral Version" >}}<br>
 ### More Videos
 
-- [James – Lasted – Orchestral Tour 2023 (Trailer)](https://www.youtube.com/watch?v=T9Vm5HbPAkE)
-- [James - Sometimes (Orchestral Version)](https://www.youtube.com/watch?v=jtIUUPOEpjA)
-- [James - Sit Down - (Orchestral Tour) - Usher Hall - 29th April 2023](https://www.youtube.com/watch?v=NafHndCYNRA)
-- [James - Say Something (Orchestral Tour)- Usher Hall Edinburgh - 29 April 2023](https://www.youtube.com/watch?v=Z2gydcaoQiw)
-- [James - Love Make A Fool (Official Video)](https://www.youtube.com/watch?v=Iy64SmSQvgg)
+- [James  Lasted  Orchestral Tour 2023 Trailer](https://www.youtube.com/watch?v=T9Vm5HbPAkE)
+- [James - Sometimes Orchestral Version](https://www.youtube.com/watch?v=jtIUUPOEpjA)
+- [James - Sit Down - Orchestral Tour - Usher Hall - 29th April 2023](https://www.youtube.com/watch?v=NafHndCYNRA)
+- [James - Say Something Orchestral Tour- Usher Hall Edinburgh - 29 April 2023](https://www.youtube.com/watch?v=Z2gydcaoQiw)
+- [James - Love Make A Fool Official Video](https://www.youtube.com/watch?v=Iy64SmSQvgg)
 
 ## Release Images
 {{< imageGrid >}}

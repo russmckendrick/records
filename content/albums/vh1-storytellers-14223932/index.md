@@ -52,12 +52,12 @@ VH1 Storytellers is a live album by the English singer-songwriter David Bowie. I
 
 
 ## Videos
-### David Bowie: VH1 Storytellers (1999) [1080p AI Upscale]
-{{< youtube id="WmmLHsROeOE" title="David Bowie: VH1 Storytellers (1999) [1080p AI Upscale]" >}}<br>
+### David Bowie VH1 Storytellers 1999 1080p AI Upscale
+{{< youtube id="WmmLHsROeOE" title="David Bowie VH1 Storytellers 1999 1080p AI Upscale" >}}<br>
 ### More Videos
 
 - [David Bowie - Word on a Wing](https://www.youtube.com/watch?v=hYEiSxRsNRc)
-- [David Bowie - Survive (VH1 Storytellers)](https://www.youtube.com/watch?v=QgFwK-DyGJg)
+- [David Bowie - Survive VH1 Storytellers](https://www.youtube.com/watch?v=QgFwK-DyGJg)
 
 ## Release Images
 {{< imageGrid >}}

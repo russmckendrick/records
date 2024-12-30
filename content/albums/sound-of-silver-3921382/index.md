@@ -51,14 +51,14 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 
 
 ## Videos
-### LCD Soundsystem - North American Scum (Official Video)
-{{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}<br>
+### LCD Soundsystem - North American Scum Official Video
+{{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum Official Video" >}}<br>
 ### More Videos
 
-- [LCD Soundsystem - Someone Great (Official Video)](https://www.youtube.com/watch?v=qwoLACv_srQ)
-- [LCD Soundsystem - All My Friends (Official Video)](https://www.youtube.com/watch?v=aygY5OqMuKE)
-- [LCD Soundsystem - Get Innocuous (HD)](https://www.youtube.com/watch?v=Ve9Y-dl40sQ)
-- [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
+- [LCD Soundsystem - Someone Great Official Video](https://www.youtube.com/watch?v=qwoLACv_srQ)
+- [LCD Soundsystem - All My Friends Official Video](https://www.youtube.com/watch?v=aygY5OqMuKE)
+- [LCD Soundsystem - Get Innocuous HD](https://www.youtube.com/watch?v=Ve9Y-dl40sQ)
+- [Get Innocuous](https://www.youtube.com/watch?v=0GpLkFv-CKU)
 - [Time to Get Away](https://www.youtube.com/watch?v=K1SKj0jV-6M)
 - [North American Scum](https://www.youtube.com/watch?v=bu0_YRgZrEQ)
 - [Someone Great](https://www.youtube.com/watch?v=eISo-iFGGDg)
@@ -66,7 +66,7 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 - [Us V Them](https://www.youtube.com/watch?v=JpIsA7OniXc)
 - [Watch the Tapes](https://www.youtube.com/watch?v=0OSulJRG3oQ)
 - [Sound of Silver](https://www.youtube.com/watch?v=_kmTQj8x0N8)
-- [New York, I Love You but You're Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
+- [New York I Love You but Youre Bringing Me Down](https://www.youtube.com/watch?v=c5kM3iwYVi0)
 
 ## Release Images
 {{< imageGrid >}}

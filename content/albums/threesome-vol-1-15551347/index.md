@@ -48,13 +48,13 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 
 
 ## Videos
-### The Lickerish Quartet - "Fadoodle" Lyric Video [Mono Mix]
-{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - "Fadoodle" Lyric Video [Mono Mix]" >}}<br>
+### The Lickerish Quartet - Fadoodle Lyric Video Mono Mix
+{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video Mono Mix" >}}<br>
 ### More Videos
 
-- [The Lickerish Quartet - "Bluebirds Blues" [Tuneling Video]](https://www.youtube.com/watch?v=301_ImeJu5A)
+- [The Lickerish Quartet - Bluebirds Blues Tuneling Video](https://www.youtube.com/watch?v=301_ImeJu5A)
 - [There Is a Magic Number](https://www.youtube.com/watch?v=idfAFwmsmDg)
-- [The Lickerish Quartet - "Lighthouse Spaceship" Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
+- [The Lickerish Quartet - Lighthouse Spaceship Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
 
 ## Release Images
 {{< imageGrid >}}

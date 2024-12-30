@@ -54,11 +54,11 @@ But no track best encapsulates the boozy joys of <i>Small Change</i> like the cl
 
 
 ## Videos
-### Tom Waits - "Invitation To The Blues"
-{{< youtube id="Ag2hddV1hE4" title="Tom Waits - "Invitation To The Blues"" >}}<br>
+### Tom Waits - Invitation To The Blues
+{{< youtube id="Ag2hddV1hE4" title="Tom Waits - Invitation To The Blues" >}}<br>
 ### More Videos
 
-- [Tom Waits - "The Piano Has Been Drinking (Not Me) (An Evening With Pete King)"](https://www.youtube.com/watch?v=3rzTuh202fA)
+- [Tom Waits - The Piano Has Been Drinking Not Me An Evening With Pete King](https://www.youtube.com/watch?v=3rzTuh202fA)
 
 ## Release Images
 {{< imageGrid >}}

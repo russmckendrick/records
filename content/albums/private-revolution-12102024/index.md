@@ -56,17 +56,17 @@ Wallinger is assisted on this album by several session musicians, including Anth
 - [All I Really Want to Do](https://www.youtube.com/watch?v=wv7CEpyr5eQ)
 - [World Party - All Come True](https://www.youtube.com/watch?v=DO1cW97Z3sU)
 - [Dance of the Hoppy Lads](https://www.youtube.com/watch?v=J1B0wMhEbxw)
-- [It Can Be Beautiful (Sometimes)](https://www.youtube.com/watch?v=ULtIOuu2Pdg)
+- [It Can Be Beautiful Sometimes](https://www.youtube.com/watch?v=ULtIOuu2Pdg)
 - [The Ballad of the Little Man](https://www.youtube.com/watch?v=g5CGKnvMT_A)
 - [Hawaiian Island World](https://www.youtube.com/watch?v=mWgHwAY-4LU)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=KF33V0tqrEc)
 - [World Party - Private Revolution](https://www.youtube.com/watch?v=JaYcJQej5Uw)
 - [The Ballad of the Little Man](https://www.youtube.com/watch?v=g5CGKnvMT_A)
 - [World Party](https://www.youtube.com/watch?v=qB_xka50sME)
-- [It's All Mine](https://www.youtube.com/watch?v=hTjYsAg3Hoc)
+- [Its All Mine](https://www.youtube.com/watch?v=hTjYsAg3Hoc)
 - [All I Really Want to Do](https://www.youtube.com/watch?v=wv7CEpyr5eQ)
-- [Making Love (To the World)](https://www.youtube.com/watch?v=xh9WEzkKyXY)
-- [It's All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
+- [Making Love To the World](https://www.youtube.com/watch?v=xh9WEzkKyXY)
+- [Its All Mine - World Party](https://www.youtube.com/watch?v=ua9nXMwrIEs)
 
 ## Release Images
 {{< imageGrid >}}

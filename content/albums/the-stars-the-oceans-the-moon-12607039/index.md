@@ -55,23 +55,23 @@ styles: []
 
 
 ## Videos
-### Bring on the Dancing Horses (Transformed) (Official Audio)
-{{< youtube id="nQ1UH7k1G4k" title="Bring on the Dancing Horses (Transformed) (Official Audio)" >}}<br>
+### Bring on the Dancing Horses Transformed Official Audio
+{{< youtube id="nQ1UH7k1G4k" title="Bring on the Dancing Horses Transformed Official Audio" >}}<br>
 ### More Videos
 
-- [Echo & The Bunnymen - Stars Are Stars (Transformed) (Official Audio)](https://www.youtube.com/watch?v=q5yEmujFPL0)
-- [Echo & The Bunnymen - Ocean Rain (Transformed) (Official Audio)](https://www.youtube.com/watch?v=W9g1Pe8Mmqs)
-- [Echo & The Bunnymen - Seven Seas (Transformed) (Official Audio)](https://www.youtube.com/watch?v=kwdHv6BZdSI)
-- [Echo & The Bunnymen - Bedbugs & Ballyhoo (Transformed) (Official Audio)](https://www.youtube.com/watch?v=5Y5r2g_grkY)
-- [Echo & The Bunnymen - The Cutter (Transformed) (Official Audio)](https://www.youtube.com/watch?v=NZgFViC65HU)
-- [Echo & The Bunnymen - The Somnambulist (Official Audio)](https://www.youtube.com/watch?v=8YUsY0HJ7KM)
-- [Echo & The Bunnymen - The Killing Moon (Transformed) (Official Audio)](https://www.youtube.com/watch?v=guLsIGCR_6M)
-- [Echo & The Bunnymen - How Far? (Official Audio)](https://www.youtube.com/watch?v=yFe16Qv0m1s)
-- [Echo & The Bunnymen - Rescue (Transformed) (Official Audio)](https://www.youtube.com/watch?v=OOYIo9WAYKU)
-- [Echo & The Bunnymen - Zimbo (Transformed) (Official Audio)](https://www.youtube.com/watch?v=TmqeoKsAt5U)
-- [Echo & The Bunnymen - The Killing Moon (Official Music Video)](https://www.youtube.com/watch?v=LWz0JC7afNQ)
-- [Echo & The Bunnymen - Nothing Lasts Forever (Transformed) (Official Audio)](https://www.youtube.com/watch?v=i6z4k-6JIsc)
-- [Stars Are Stars (Transformed)](https://www.youtube.com/watch?v=ZoHJ7JaTCu0)
+- [Echo  The Bunnymen - Stars Are Stars Transformed Official Audio](https://www.youtube.com/watch?v=q5yEmujFPL0)
+- [Echo  The Bunnymen - Ocean Rain Transformed Official Audio](https://www.youtube.com/watch?v=W9g1Pe8Mmqs)
+- [Echo  The Bunnymen - Seven Seas Transformed Official Audio](https://www.youtube.com/watch?v=kwdHv6BZdSI)
+- [Echo  The Bunnymen - Bedbugs  Ballyhoo Transformed Official Audio](https://www.youtube.com/watch?v=5Y5r2g_grkY)
+- [Echo  The Bunnymen - The Cutter Transformed Official Audio](https://www.youtube.com/watch?v=NZgFViC65HU)
+- [Echo  The Bunnymen - The Somnambulist Official Audio](https://www.youtube.com/watch?v=8YUsY0HJ7KM)
+- [Echo  The Bunnymen - The Killing Moon Transformed Official Audio](https://www.youtube.com/watch?v=guLsIGCR_6M)
+- [Echo  The Bunnymen - How Far Official Audio](https://www.youtube.com/watch?v=yFe16Qv0m1s)
+- [Echo  The Bunnymen - Rescue Transformed Official Audio](https://www.youtube.com/watch?v=OOYIo9WAYKU)
+- [Echo  The Bunnymen - Zimbo Transformed Official Audio](https://www.youtube.com/watch?v=TmqeoKsAt5U)
+- [Echo  The Bunnymen - The Killing Moon Official Music Video](https://www.youtube.com/watch?v=LWz0JC7afNQ)
+- [Echo  The Bunnymen - Nothing Lasts Forever Transformed Official Audio](https://www.youtube.com/watch?v=i6z4k-6JIsc)
+- [Stars Are Stars Transformed](https://www.youtube.com/watch?v=ZoHJ7JaTCu0)
 
 ## Release Images
 {{< imageGrid >}}

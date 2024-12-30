@@ -53,12 +53,12 @@ Although critical response was mixed, Houses of the Holy became a commercial suc
 
 
 ## Videos
-### Led Zeppelin - Houses of the Holy (Remaster) [Official Full Album]
-{{< youtube id="97FpOlzPqFM" title="Led Zeppelin - Houses of the Holy (Remaster) [Official Full Album]" >}}<br>
+### Led Zeppelin - Houses of the Holy Remaster Official Full Album
+{{< youtube id="97FpOlzPqFM" title="Led Zeppelin - Houses of the Holy Remaster Official Full Album" >}}<br>
 ### More Videos
 
 - [Led Zeppelin - Over The Hills And Far Away](https://www.youtube.com/watch?v=Ee33FsDANk0)
-- [Led Zeppelin - No Quarter (Official Audio)](https://www.youtube.com/watch?v=_vG_mTt6hCs)
+- [Led Zeppelin - No Quarter Official Audio](https://www.youtube.com/watch?v=_vG_mTt6hCs)
 
 ## Release Images
 {{< imageGrid >}}

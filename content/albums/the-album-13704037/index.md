@@ -55,10 +55,10 @@ From contemporary reviews, American critics J. D. Considine and Ken Tucker predo
 - [Mega-Mix](https://www.youtube.com/watch?v=hykpMfQ6u4E)
 - [Hardcore Hip-Hop](https://www.youtube.com/watch?v=tiTsdjtaPMc)
 - [Ladies](https://www.youtube.com/watch?v=Nqr0-nRj7Xk)
-- [Get Stupid 'Fresh', Pt. 1](https://www.youtube.com/watch?v=adUNugsQ_KA)
+- [Get Stupid Fresh Pt 1](https://www.youtube.com/watch?v=adUNugsQ_KA)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
-- [Fresh Is the Word (12" Version)](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
-- [Needle to the Groove (Alternate Version)](https://www.youtube.com/watch?v=0SbOerxkp8M)
+- [Fresh Is the Word 12 Version](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
+- [Needle to the Groove Alternate Version](https://www.youtube.com/watch?v=0SbOerxkp8M)
 
 ## Release Images
 {{< imageGrid >}}

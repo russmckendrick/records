@@ -95,25 +95,25 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 
 
 ## Videos
-### Elliott Smith - Either/Or: Expanded Edition (CD1)
-{{< youtube id="9g-vyrGKGWM" title="Elliott Smith - Either/Or: Expanded Edition (CD1)" >}}<br>
+### Elliott Smith - EitherOr Expanded Edition CD1
+{{< youtube id="9g-vyrGKGWM" title="Elliott Smith - EitherOr Expanded Edition CD1" >}}<br>
 ### More Videos
 
-- [Elliott Smith - Either/Or: Expanded Edition (CD2)](https://www.youtube.com/watch?v=2jrOSoOBVmI)
-- [Elliott Smith - Ballad Of Big Nothing (from Either/Or)](https://www.youtube.com/watch?v=iU9yMN1MCfY)
-- [Elliott Smith - Speed Trials (from Either/Or)](https://www.youtube.com/watch?v=UuizNQUOFCI)
-- [Elliott Smith - Alameda (from Either/Or)](https://www.youtube.com/watch?v=WcRgqXYmzZE)
-- [Elliott Smith - Between The Bars (from Either/Or)](https://www.youtube.com/watch?v=n5g-91mwiNs)
-- [Elliott Smith - Pictures Of Me (from Either/Or)](https://www.youtube.com/watch?v=TKIxDKOfGv8)
-- [Elliott Smith - No Name No. 5 (from Either/Or)](https://www.youtube.com/watch?v=sXd5tbNtoGs)
-- [Elliott Smith - Rose Parade (from Either/Or)](https://www.youtube.com/watch?v=PWOYmZs43MM)
-- [Elliott Smith - Punch And Judy (from Either/Or)](https://www.youtube.com/watch?v=9yE405jfEP8)
-- [Elliott Smith - Angeles (from Either/Or)](https://www.youtube.com/watch?v=rQEEvDcMurE)
-- [Elliott Smith - Cupid's Trick (from Either/Or)](https://www.youtube.com/watch?v=B0LBHaL4iSw)
-- [Elliott Smith - 2:45 AM (from Either/Or)](https://www.youtube.com/watch?v=FGKoJVXG98g)
-- [Elliott Smith - Say Yes (from Either/Or)](https://www.youtube.com/watch?v=8bxmk09lCzk)
-- [Elliott Smith - Either/Or: Expanded Edition (CD1)](https://www.youtube.com/watch?v=9g-vyrGKGWM)
-- [Elliott Smith - Either/Or: Expanded Edition (CD2)](https://www.youtube.com/watch?v=2jrOSoOBVmI)
+- [Elliott Smith - EitherOr Expanded Edition CD2](https://www.youtube.com/watch?v=2jrOSoOBVmI)
+- [Elliott Smith - Ballad Of Big Nothing from EitherOr](https://www.youtube.com/watch?v=iU9yMN1MCfY)
+- [Elliott Smith - Speed Trials from EitherOr](https://www.youtube.com/watch?v=UuizNQUOFCI)
+- [Elliott Smith - Alameda from EitherOr](https://www.youtube.com/watch?v=WcRgqXYmzZE)
+- [Elliott Smith - Between The Bars from EitherOr](https://www.youtube.com/watch?v=n5g-91mwiNs)
+- [Elliott Smith - Pictures Of Me from EitherOr](https://www.youtube.com/watch?v=TKIxDKOfGv8)
+- [Elliott Smith - No Name No 5 from EitherOr](https://www.youtube.com/watch?v=sXd5tbNtoGs)
+- [Elliott Smith - Rose Parade from EitherOr](https://www.youtube.com/watch?v=PWOYmZs43MM)
+- [Elliott Smith - Punch And Judy from EitherOr](https://www.youtube.com/watch?v=9yE405jfEP8)
+- [Elliott Smith - Angeles from EitherOr](https://www.youtube.com/watch?v=rQEEvDcMurE)
+- [Elliott Smith - Cupids Trick from EitherOr](https://www.youtube.com/watch?v=B0LBHaL4iSw)
+- [Elliott Smith - 245 AM from EitherOr](https://www.youtube.com/watch?v=FGKoJVXG98g)
+- [Elliott Smith - Say Yes from EitherOr](https://www.youtube.com/watch?v=8bxmk09lCzk)
+- [Elliott Smith - EitherOr Expanded Edition CD1](https://www.youtube.com/watch?v=9g-vyrGKGWM)
+- [Elliott Smith - EitherOr Expanded Edition CD2](https://www.youtube.com/watch?v=2jrOSoOBVmI)
 
 ## Release Images
 {{< imageGrid >}}

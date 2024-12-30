@@ -58,16 +58,16 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 
 
 ## Videos
-### Q͟u͟e͟e͟n͟s͟r͟yche͟ ͟O͟p͟e͟r͟a͟t͟ion͟ ͟M͟i͟n͟d͟c͟r͟ime͟ full album 1988
-{{< youtube id="oLi46MAgxqc" title="Q͟u͟e͟e͟n͟s͟r͟yche͟ ͟O͟p͟e͟r͟a͟t͟ion͟ ͟M͟i͟n͟d͟c͟r͟ime͟ full album 1988" >}}<br>
+### Queensryche Operation Mindcrime full album 1988
+{{< youtube id="oLi46MAgxqc" title="Queensryche Operation Mindcrime full album 1988" >}}<br>
 ### More Videos
 
 - [Queensrÿche - Remember Now](https://www.youtube.com/watch?v=0e31vVl9kwk)
-- [Queensryche - Operation: Mindcrime {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=_8_JqGPteKk)
-- [Queensryche - I Don't Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
-- [Queensryche - Operation: Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
-- [Queensryche - Eyes Of A Stranger (Official Video)](https://www.youtube.com/watch?v=A4duZjxusGM)
-- [Queensryche - Suite Sister Mary (Official Video)](https://www.youtube.com/watch?v=8CZGion20E4)
+- [Queensryche - Operation Mindcrime Remastered Full Album HQ](https://www.youtube.com/watch?v=_8_JqGPteKk)
+- [Queensryche - I Dont Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
+- [Queensryche - Operation Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
+- [Queensryche - Eyes Of A Stranger Official Video](https://www.youtube.com/watch?v=A4duZjxusGM)
+- [Queensryche - Suite Sister Mary Official Video](https://www.youtube.com/watch?v=8CZGion20E4)
 
 ## Release Images
 {{< imageGrid >}}

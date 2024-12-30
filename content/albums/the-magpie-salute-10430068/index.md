@@ -48,13 +48,13 @@ The Magpie Salute was an American rock band formed in 2016 by the Black Crowes g
 
 
 ## Videos
-### The Magpie Salute - Comin' Home
-{{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin' Home" >}}<br>
+### The Magpie Salute - Comin Home
+{{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin Home" >}}<br>
 ### More Videos
 
-- [Fearless (Live)](https://www.youtube.com/watch?v=cebO7BRG8IY)
-- [The Magpie Salute "Omission"](https://www.youtube.com/watch?v=Zg9FGe5pWFg)
-- [The Magpie Salute - Ain't No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
+- [Fearless Live](https://www.youtube.com/watch?v=cebO7BRG8IY)
+- [The Magpie Salute Omission](https://www.youtube.com/watch?v=Zg9FGe5pWFg)
+- [The Magpie Salute - Aint No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
 - [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)
 
 ## Release Images

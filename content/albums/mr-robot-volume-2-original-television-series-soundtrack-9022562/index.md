@@ -62,13 +62,13 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Videos
-### Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)
-{{< youtube id="lVll1epJBHU" title="Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>
+### Mr Robot Volume 2 - Mac Quayle - Soundtrack Preview Official Video
+{{< youtube id="lVll1epJBHU" title="Mr Robot Volume 2 - Mac Quayle - Soundtrack Preview Official Video" >}}<br>
 ### More Videos
 
-- [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
-- [Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=lVll1epJBHU)
-- [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
+- [Mr Robot Volume 1 - Mac Quayle - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=-B--tEBZwCg)
+- [Mr Robot Volume 2 - Mac Quayle - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=lVll1epJBHU)
+- [Mr Robot Volume 1 - Mac Quayle - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=-B--tEBZwCg)
 
 ## Release Images
 {{< imageGrid >}}

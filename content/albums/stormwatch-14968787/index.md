@@ -62,15 +62,15 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 
 
 ## Videos
-### J̲e̲thro T̲ull - S̲to̲rmwa̲tch (Full Album) 1979
-{{< youtube id="odYZ8nYbHEg" title="J̲e̲thro T̲ull - S̲to̲rmwa̲tch (Full Album) 1979" >}}<br>
+### Jethro Tull - Stormwatch Full Album 1979
+{{< youtube id="odYZ8nYbHEg" title="Jethro Tull - Stormwatch Full Album 1979" >}}<br>
 ### More Videos
 
-- [Dun Ringill (2004 Remaster)](https://www.youtube.com/watch?v=2fJg9g77f94)
-- [Elegy (2004 Remaster)](https://www.youtube.com/watch?v=bSZbyAEJIx0)
-- [Dark Ages (2004 Remaster)](https://www.youtube.com/watch?v=2R0bWDrXAbc)
-- [Something's on the Move (2004 Remaster)](https://www.youtube.com/watch?v=_UYhULU3Yb0)
-- [Jethro Tull  - Home....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=7a3BboX52u0)
+- [Dun Ringill 2004 Remaster](https://www.youtube.com/watch?v=2fJg9g77f94)
+- [Elegy 2004 Remaster](https://www.youtube.com/watch?v=bSZbyAEJIx0)
+- [Dark Ages 2004 Remaster](https://www.youtube.com/watch?v=2R0bWDrXAbc)
+- [Somethings on the Move 2004 Remaster](https://www.youtube.com/watch?v=_UYhULU3Yb0)
+- [Jethro Tull  - Homeyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=7a3BboX52u0)
 
 ## Release Images
 {{< imageGrid >}}

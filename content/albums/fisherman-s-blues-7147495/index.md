@@ -44,8 +44,8 @@ the Waterboys' best selling album, reaching a number 13 placing on the U.K. char
 
 
 ## Videos
-### The Waterboys - Fisherman's Blues (High Quality)
-{{< youtube id="a4UQJwd3awQ" title="The Waterboys - Fisherman's Blues (High Quality)" >}}<br>
+### The Waterboys - Fishermans Blues High Quality
+{{< youtube id="a4UQJwd3awQ" title="The Waterboys - Fishermans Blues High Quality" >}}<br>
 
 
 ## Release Images

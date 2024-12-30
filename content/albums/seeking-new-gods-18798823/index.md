@@ -52,12 +52,12 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 
 
 ## Videos
-### Gruff Rhys - Loan Your Loneliness (Official Video)
-{{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness (Official Video)" >}}<br>
+### Gruff Rhys - Loan Your Loneliness Official Video
+{{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness Official Video" >}}<br>
 ### More Videos
 
-- [Gruff Rhys - Mausoleum Of My Former Self (Official Video)](https://www.youtube.com/watch?v=uBWtjXHjD7M)
-- [Gruff Rhys - Can't Carry On (Official Video)](https://www.youtube.com/watch?v=BGCOztNcB3w)
+- [Gruff Rhys - Mausoleum Of My Former Self Official Video](https://www.youtube.com/watch?v=uBWtjXHjD7M)
+- [Gruff Rhys - Cant Carry On Official Video](https://www.youtube.com/watch?v=BGCOztNcB3w)
 - [Seeking New Gods](https://www.youtube.com/watch?v=5NEwvd9lhKg)
 - [Hiking in Lightning](https://www.youtube.com/watch?v=hkIHf9JyhBQ)
 - [Holiest of the Holy Men](https://www.youtube.com/watch?v=wdNwnMzDKdA)

@@ -56,7 +56,7 @@ The album was originally released on cassette in 1989 exclusively available to t
 
 - [Icky Qualms](https://www.youtube.com/watch?v=E3XQqgfrfkc)
 - [Piffol One Time](https://www.youtube.com/watch?v=_L8Oa8xcr_o)
-- [Cardiacs - T.V.T.V.](https://www.youtube.com/watch?v=YU3fP7Efy28)
+- [Cardiacs - TVTV](https://www.youtube.com/watch?v=YU3fP7Efy28)
 - [Cardiacs - As Cold As Can Be In An English Sea](https://www.youtube.com/watch?v=5RNdUpVRB6g)
 
 ## Release Images

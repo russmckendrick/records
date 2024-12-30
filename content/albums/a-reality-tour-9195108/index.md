@@ -77,8 +77,8 @@ The tour grossed US$46 million, making it the ninth-highest-grossing tour of 200
 
 
 ## Videos
-### David Bowie "- Live At Hammersmith Riverside 2003 -" [HD] Reality Tour 2003 !
-{{< youtube id="sgUis8QDAJc" title="David Bowie "- Live At Hammersmith Riverside 2003 -" [HD] Reality Tour 2003 !" >}}<br>
+### David Bowie - Live At Hammersmith Riverside 2003 - HD Reality Tour 2003 
+{{< youtube id="sgUis8QDAJc" title="David Bowie - Live At Hammersmith Riverside 2003 - HD Reality Tour 2003 " >}}<br>
 
 
 ## Release Images

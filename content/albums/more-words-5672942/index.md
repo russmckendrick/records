@@ -51,8 +51,8 @@ styles: []
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
 - [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
 - [Long Black Limousine](https://www.youtube.com/watch?v=eKtFuNT41so)
-- [It's Over (Remastered 2001)](https://www.youtube.com/watch?v=Q_iFAVz9PbY)
-- [Gentle On My Mind (Remastered 2001)](https://www.youtube.com/watch?v=mfMnNqn-hKg)
+- [Its Over Remastered 2001](https://www.youtube.com/watch?v=Q_iFAVz9PbY)
+- [Gentle On My Mind Remastered 2001](https://www.youtube.com/watch?v=mfMnNqn-hKg)
 
 ## Release Images
 {{< imageGrid >}}

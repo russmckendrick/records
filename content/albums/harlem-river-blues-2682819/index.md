@@ -54,11 +54,11 @@ Harlem River Blues is Justin Townes Earle's third studio album, released on Janu
 {{< youtube id="vf9lvU8_JUo" title="Justin Townes Earle - Harlem River Blues - album version" >}}<br>
 ### More Videos
 
-- [Justin Townes Earle - "Ain't Waitin'" (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
-- [Justin Townes Earle - "Wanderin'" - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
+- [Justin Townes Earle - Aint Waitin Live  Grooveshark Presents Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
+- [Justin Townes Earle - Wanderin - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 - [Justin Townes Earle - Harlem River Blues - album version](https://www.youtube.com/watch?v=vf9lvU8_JUo)
-- [Justin Townes Earle - "Ain't Waitin'" (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
-- [Justin Townes Earle - "Wanderin'" - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
+- [Justin Townes Earle - Aint Waitin Live  Grooveshark Presents Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
+- [Justin Townes Earle - Wanderin - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
 ## Release Images
 {{< imageGrid >}}

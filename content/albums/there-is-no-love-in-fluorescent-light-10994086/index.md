@@ -44,20 +44,20 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 
 
 ## Videos
-### "Privilege" (Official Audio) by Stars
-{{< youtube id="mUAoB5WYdLA" title=""Privilege" (Official Audio) by Stars" >}}<br>
+### Privilege Official Audio by Stars
+{{< youtube id="mUAoB5WYdLA" title="Privilege Official Audio by Stars" >}}<br>
 ### More Videos
 
-- [Stars - Fluorescent Light (Official Audio)](https://www.youtube.com/watch?v=2HJBkVsUNps)
+- [Stars - Fluorescent Light Official Audio](https://www.youtube.com/watch?v=2HJBkVsUNps)
 - [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
 - [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
-- [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
+- [Stars - Alone Official Audio](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
 - [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
-- [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
+- [Stars - Real Thing Official Audio](https://www.youtube.com/watch?v=xm-vMmgKL68)
 - [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
 - [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
-- [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
+- [California I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
 - [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
 
 ## Release Images

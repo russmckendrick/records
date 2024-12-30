@@ -51,7 +51,7 @@ Ogdens' Nut Gone Flake is the third studio album, and only concept album by the 
 
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
 - [Small Faces - Happiness Stan](https://www.youtube.com/watch?v=LI7ASaAA55g)
-- [The Small Faces - Ogdens' Nut Gone Flake](https://www.youtube.com/watch?v=H8YHplnn60U)
+- [The Small Faces - Ogdens Nut Gone Flake](https://www.youtube.com/watch?v=H8YHplnn60U)
 
 ## Release Images
 {{< imageGrid >}}

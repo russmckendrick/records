@@ -50,12 +50,12 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 
 
 ## Videos
-### Gruff Rhys - Limited Edition Heart (Official Audio)
-{{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart (Official Audio)" >}}<br>
+### Gruff Rhys - Limited Edition Heart Official Audio
+{{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart Official Audio" >}}<br>
 ### More Videos
 
-- [Gruff Rhys Previews New LP 'Babelsberg' With 'Frontier Man' Video](https://www.youtube.com/watch?v=UXbdEig4apo)
-- [Gruff Rhys - Frontier Man (Official Video)](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
+- [Gruff Rhys Previews New LP Babelsberg With Frontier Man Video](https://www.youtube.com/watch?v=UXbdEig4apo)
+- [Gruff Rhys - Frontier Man Official Video](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
 
 ## Release Images
 {{< imageGrid >}}

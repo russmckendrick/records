@@ -42,11 +42,11 @@ styles: []
 
 
 ## Videos
-### Dennis Brown - Tribulation Times (Reggae Album)
-{{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}<br>
+### Dennis Brown - Tribulation Times Reggae Album
+{{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times Reggae Album" >}}<br>
 ### More Videos
 
-- [Dennis Brown - Tribulation Times (Reggae Album)](https://www.youtube.com/watch?v=XKGZLUUkl5w)
+- [Dennis Brown - Tribulation Times Reggae Album](https://www.youtube.com/watch?v=XKGZLUUkl5w)
 
 ## Release Images
 {{< imageGrid >}}

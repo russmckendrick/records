@@ -46,8 +46,8 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 
 
 ## Videos
-### Kyuss - Demon Cleaner (Official Video)
-{{< youtube id="B7Ske2eKX2g" title="Kyuss - Demon Cleaner (Official Video)" >}}<br>
+### Kyuss - Demon Cleaner Official Video
+{{< youtube id="B7Ske2eKX2g" title="Kyuss - Demon Cleaner Official Video" >}}<br>
 ### More Videos
 
 - [Kyuss - Demon Cleaner](https://www.youtube.com/watch?v=_o8Qqfu1pwQ)

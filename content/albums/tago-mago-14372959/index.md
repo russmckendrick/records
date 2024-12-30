@@ -51,8 +51,8 @@ Tago Mago features long-form experimental tracks blending rock and jazz improvis
 
 
 ## Videos
-### Can - Tago Mago [ FULL ALBUM ] *HQ
-{{< youtube id="XC---hQcPQ0" title="Can - Tago Mago [ FULL ALBUM ] *HQ" >}}<br>
+### Can - Tago Mago  FULL ALBUM  HQ
+{{< youtube id="XC---hQcPQ0" title="Can - Tago Mago  FULL ALBUM  HQ" >}}<br>
 
 
 ## Release Images

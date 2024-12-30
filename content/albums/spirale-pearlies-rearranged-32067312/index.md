@@ -36,13 +36,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Emma Anderson - Willow And Mallow (Daniel Hunt Mix) (Official Video)
-{{< youtube id="u7VoPHcvXLk" title="Emma Anderson - Willow And Mallow (Daniel Hunt Mix) (Official Video)" >}}<br>
+### Emma Anderson - Willow And Mallow Daniel Hunt Mix Official Video
+{{< youtube id="u7VoPHcvXLk" title="Emma Anderson - Willow And Mallow Daniel Hunt Mix Official Video" >}}<br>
 ### More Videos
 
-- [Emma Anderson - Taste The Air (Julia Holter Mix) (Official Visualiser)](https://www.youtube.com/watch?v=bnD3QWr-F_8)
-- [Emma Anderson - Inter Light (MEMORIALS Mix) (Official Visualiser)](https://www.youtube.com/watch?v=x3At7nRpepY)
-- [Emma Anderson - For A Moment (deary Dub Mix) (Official Visualiser)](https://www.youtube.com/watch?v=93IpAcKeIP4)
+- [Emma Anderson - Taste The Air Julia Holter Mix Official Visualiser](https://www.youtube.com/watch?v=bnD3QWr-F_8)
+- [Emma Anderson - Inter Light MEMORIALS Mix Official Visualiser](https://www.youtube.com/watch?v=x3At7nRpepY)
+- [Emma Anderson - For A Moment deary Dub Mix Official Visualiser](https://www.youtube.com/watch?v=93IpAcKeIP4)
 
 ## Release Images
 {{< imageGrid >}}

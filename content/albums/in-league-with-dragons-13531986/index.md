@@ -46,12 +46,12 @@ In League With Dragons is the seventeenth studio album by the Mountain Goats, re
 
 
 ## Videos
-### The Mountain Goats "Cadaver Sniffing Dog"
-{{< youtube id="YhWmbViBAxg" title="The Mountain Goats "Cadaver Sniffing Dog"" >}}<br>
+### The Mountain Goats Cadaver Sniffing Dog
+{{< youtube id="YhWmbViBAxg" title="The Mountain Goats Cadaver Sniffing Dog" >}}<br>
 ### More Videos
 
-- [The Mountain Goats "Sicilian Crest" (Official Audio)](https://www.youtube.com/watch?v=yHDsTbMcm_k)
-- [The Mountain Goats ★ Done Bleeding [HQ]](https://www.youtube.com/watch?v=5q5autRy7RU)
+- [The Mountain Goats Sicilian Crest Official Audio](https://www.youtube.com/watch?v=yHDsTbMcm_k)
+- [The Mountain Goats  Done Bleeding HQ](https://www.youtube.com/watch?v=5q5autRy7RU)
 
 ## Release Images
 {{< imageGrid >}}

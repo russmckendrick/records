@@ -50,13 +50,13 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 
 
 ## Videos
-### Orville Peck & Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other (Official Video)
-{{< youtube id="BirJMnMcfBs" title="Orville Peck & Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other (Official Video)" >}}<br>
+### Orville Peck  Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other Official Video
+{{< youtube id="BirJMnMcfBs" title="Orville Peck  Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other Official Video" >}}<br>
 ### More Videos
 
-- [Orville Peck & Beck - Death Valley High (Official Music Video)](https://www.youtube.com/watch?v=1eodFa9rZZQ)
-- [Orville Peck & Noah Cyrus - How Far Will We Take It? (Official Music Video)](https://www.youtube.com/watch?v=X3vPYhwZmOg)
-- [Orville Peck & Kylie Minogue & Diplo - Midnight Ride (Official Lyric Video)](https://www.youtube.com/watch?v=lKtOo5vwPVg)
+- [Orville Peck  Beck - Death Valley High Official Music Video](https://www.youtube.com/watch?v=1eodFa9rZZQ)
+- [Orville Peck  Noah Cyrus - How Far Will We Take It Official Music Video](https://www.youtube.com/watch?v=X3vPYhwZmOg)
+- [Orville Peck  Kylie Minogue  Diplo - Midnight Ride Official Lyric Video](https://www.youtube.com/watch?v=lKtOo5vwPVg)
 
 ## Release Images
 {{< imageGrid >}}

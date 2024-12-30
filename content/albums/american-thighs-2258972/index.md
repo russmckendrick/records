@@ -54,7 +54,7 @@ American Thighs is the 1994 debut studio album by American alternative rock band
 
 - [Veruca Salt - All Hail Me](https://www.youtube.com/watch?v=ogxHkOeUfYM)
 - [Veruca Salt - Seether](https://www.youtube.com/watch?v=4YrK1Rq7AKk)
-- [Spiderman '79](https://www.youtube.com/watch?v=rX3P09KyxXg)
+- [Spiderman 79](https://www.youtube.com/watch?v=rX3P09KyxXg)
 - [Forsythia](https://www.youtube.com/watch?v=hBglB1efgTM)
 - [Wolf](https://www.youtube.com/watch?v=lwmAtCxIiv4)
 - [Celebrate You](https://www.youtube.com/watch?v=-NCRTidV9gE)

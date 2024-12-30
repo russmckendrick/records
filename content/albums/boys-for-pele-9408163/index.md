@@ -61,21 +61,21 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 
 
 ## Videos
-### Tori Amos - Professional Widow (Remix) (Official Music Video)
-{{< youtube id="Zqae5qyopok" title="Tori Amos - Professional Widow (Remix) (Official Music Video)" >}}<br>
+### Tori Amos - Professional Widow Remix Official Music Video
+{{< youtube id="Zqae5qyopok" title="Tori Amos - Professional Widow Remix Official Music Video" >}}<br>
 ### More Videos
 
-- [Tori Amos - Talula (The Tornado Mix) (Official Music Video)](https://www.youtube.com/watch?v=PgHlNeoAH1A)
-- [Tori Amos - Caught a Lite Sneeze (Official Music Video)](https://www.youtube.com/watch?v=weWtRqoSUOI)
-- [Tori Amos - Hey Jupiter (The Dakota Version) (Official Music Video)](https://www.youtube.com/watch?v=1AbNx4h8XYc)
-- [NEW VERSION of Tori Amos "Boys for Pele" EPK 1996 (longer, different edit)](https://www.youtube.com/watch?v=rdWIFfeXPLo)
-- [Tori Amos Interview on 'Boys for Pele' @ Metal Express 1996](https://www.youtube.com/watch?v=uI7Oi5PPjpU)
-- [Tori Amos Interview on 'Boys for Pele' @ Fanzine 1996](https://www.youtube.com/watch?v=5FTZQiugbMA)
-- [Tori Amos - MTV News Brief '96 - Interview (Clip) - Boys For Pele](https://www.youtube.com/watch?v=4x_s4sO1oPo)
-- [Tori Amos on 'Boys for Pele' (fan questions)](https://www.youtube.com/watch?v=-CzGz7lpy8E)
-- [Tori Amos - Caught a Lite Sneeze (Live Sessions 1998) + Lyrics](https://www.youtube.com/watch?v=SIsXdEw1hIU)
-- [Tori Amos - VH1.com Boxset - On The Album Boys For Pele](https://www.youtube.com/watch?v=83-H2Gc8AGI)
-- [Tori Amos - Boys for Pele (CD Unboxing)](https://www.youtube.com/watch?v=1aowPNNJvTg)
+- [Tori Amos - Talula The Tornado Mix Official Music Video](https://www.youtube.com/watch?v=PgHlNeoAH1A)
+- [Tori Amos - Caught a Lite Sneeze Official Music Video](https://www.youtube.com/watch?v=weWtRqoSUOI)
+- [Tori Amos - Hey Jupiter The Dakota Version Official Music Video](https://www.youtube.com/watch?v=1AbNx4h8XYc)
+- [NEW VERSION of Tori Amos Boys for Pele EPK 1996 longer different edit](https://www.youtube.com/watch?v=rdWIFfeXPLo)
+- [Tori Amos Interview on Boys for Pele  Metal Express 1996](https://www.youtube.com/watch?v=uI7Oi5PPjpU)
+- [Tori Amos Interview on Boys for Pele  Fanzine 1996](https://www.youtube.com/watch?v=5FTZQiugbMA)
+- [Tori Amos - MTV News Brief 96 - Interview Clip - Boys For Pele](https://www.youtube.com/watch?v=4x_s4sO1oPo)
+- [Tori Amos on Boys for Pele fan questions](https://www.youtube.com/watch?v=-CzGz7lpy8E)
+- [Tori Amos - Caught a Lite Sneeze Live Sessions 1998  Lyrics](https://www.youtube.com/watch?v=SIsXdEw1hIU)
+- [Tori Amos - VH1com Boxset - On The Album Boys For Pele](https://www.youtube.com/watch?v=83-H2Gc8AGI)
+- [Tori Amos - Boys for Pele CD Unboxing](https://www.youtube.com/watch?v=1aowPNNJvTg)
 - [Tori Amos - Boys For Pele 1996 Full Album](https://www.youtube.com/watch?v=PxUqVJwWowY)
 
 ## Release Images

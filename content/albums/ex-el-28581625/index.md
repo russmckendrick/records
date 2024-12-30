@@ -62,7 +62,7 @@ In 2007, The Guardian included the album in their list of "1000 Albums to Hear B
 - [Ooops](https://www.youtube.com/watch?v=KkrPvoVRpYc)
 - [Empire](https://www.youtube.com/watch?v=cWqpuXcMOBY)
 - [Qmart](https://www.youtube.com/watch?v=WeuwKHgHgcI)
-- [808 STATE - OLYMPIC [HQ AUDIO]](https://www.youtube.com/watch?v=tRz1kXoA_gs)
+- [808 STATE - OLYMPIC HQ AUDIO](https://www.youtube.com/watch?v=tRz1kXoA_gs)
 - [808 State Olympic - Music Video 1990](https://www.youtube.com/watch?v=i0yu2HmPfsU)
 
 ## Release Images

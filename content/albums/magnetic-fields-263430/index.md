@@ -37,15 +37,15 @@ styles: ["Ambient"]
 
 
 ## Videos
-### Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)
-{{< youtube id="kf3mk4jDC4M" title="Jean-Michel Jarre - Les Chants Magnétiques [Magnetic Fields] (1981)" >}}<br>
+### Jean-Michel Jarre - Les Chants Magnétiques Magnetic Fields 1981
+{{< youtube id="kf3mk4jDC4M" title="Jean-Michel Jarre - Les Chants Magnétiques Magnetic Fields 1981" >}}<br>
 ### More Videos
 
-- [Jean-Michel Jarre - Magnetic Fields, Pt. 2](https://www.youtube.com/watch?v=w434qhNJMdw)
-- [Jean-Michel Jarre - Magnetic Fields, Pt. 2](https://www.youtube.com/watch?v=w434qhNJMdw)
+- [Jean-Michel Jarre - Magnetic Fields Pt 2](https://www.youtube.com/watch?v=w434qhNJMdw)
+- [Jean-Michel Jarre - Magnetic Fields Pt 2](https://www.youtube.com/watch?v=w434qhNJMdw)
 - [Jean Michel Jarre - Magnetic Field](https://www.youtube.com/watch?v=wyzXZ_NFVrg)
-- [Magnetic Fields, Pt. 1](https://www.youtube.com/watch?v=_0tuo-nbuHs)
-- [Magnetic Fields, Pt. 2](https://www.youtube.com/watch?v=bTBVd_m75oY)
+- [Magnetic Fields Pt 1](https://www.youtube.com/watch?v=_0tuo-nbuHs)
+- [Magnetic Fields Pt 2](https://www.youtube.com/watch?v=bTBVd_m75oY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,15 +47,15 @@ styles: ["Ambient", "House"]
 
 
 ## Videos
-### Slave Till U Die No Matter What U Buy (L'anse Aux Meadows Mix)
-{{< youtube id="wZDik3CbH40" title="Slave Till U Die No Matter What U Buy (L'anse Aux Meadows Mix)" >}}<br>
+### Slave Till U Die No Matter What U Buy Lanse Aux Meadows Mix
+{{< youtube id="wZDik3CbH40" title="Slave Till U Die No Matter What U Buy Lanse Aux Meadows Mix" >}}<br>
 ### More Videos
 
-- [The Orb - Ital Orb (Iron Chair) - Gaudi Remix (Official Audio)](https://www.youtube.com/watch?v=ymKDIqKxvCk)
-- [The Orb - AAA (Hung, Drawn and Quartered) - Violeta Vicci Remix (Official Audio)](https://www.youtube.com/watch?v=BXD09ox8y70)
-- [The Orb - Pervitin (Empire Culling & The Hemlock Stone Version)](https://www.youtube.com/watch?v=llGe4H1hwqw)
-- [The Orb - Queen of Hearts (Duck or Drown) - Moody Boyz Remix (Official Audio)](https://www.youtube.com/watch?v=xibTj1SqTck)
-- [Orb – Abolition Of The Royal Familia (Guillotine Mixes)](https://www.youtube.com/watch?v=RuVSXb_dTJk)
+- [The Orb - Ital Orb Iron Chair - Gaudi Remix Official Audio](https://www.youtube.com/watch?v=ymKDIqKxvCk)
+- [The Orb - AAA Hung Drawn and Quartered - Violeta Vicci Remix Official Audio](https://www.youtube.com/watch?v=BXD09ox8y70)
+- [The Orb - Pervitin Empire Culling  The Hemlock Stone Version](https://www.youtube.com/watch?v=llGe4H1hwqw)
+- [The Orb - Queen of Hearts Duck or Drown - Moody Boyz Remix Official Audio](https://www.youtube.com/watch?v=xibTj1SqTck)
+- [Orb  Abolition Of The Royal Familia Guillotine Mixes](https://www.youtube.com/watch?v=RuVSXb_dTJk)
 
 ## Release Images
 {{< imageGrid >}}

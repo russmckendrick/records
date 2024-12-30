@@ -49,12 +49,12 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 
 
 ## Videos
-### Yes - Leave It (Official Music Video)
-{{< youtube id="8-hJFoSgXfM" title="Yes - Leave It (Official Music Video)" >}}<br>
+### Yes - Leave It Official Music Video
+{{< youtube id="8-hJFoSgXfM" title="Yes - Leave It Official Music Video" >}}<br>
 ### More Videos
 
-- [YES - Owner of a Lonely Heart (Official Music Video)](https://www.youtube.com/watch?v=SVOuYquXuuc)
-- [Yes - It Can Happen (Official Music Video)](https://www.youtube.com/watch?v=OeVgcIFEh3I)
+- [YES - Owner of a Lonely Heart Official Music Video](https://www.youtube.com/watch?v=SVOuYquXuuc)
+- [Yes - It Can Happen Official Music Video](https://www.youtube.com/watch?v=OeVgcIFEh3I)
 
 ## Release Images
 {{< imageGrid >}}

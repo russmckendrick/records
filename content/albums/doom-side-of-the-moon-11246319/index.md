@@ -51,7 +51,7 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 - [DOOM SIDE OF THE MOON - US AND THEM](https://www.youtube.com/watch?v=0JSr6nOxrqQ)
 - [DOOM SIDE OF THE MOON - TIME](https://www.youtube.com/watch?v=tBQE9vS_iKU)
 - [DOOM SIDE OF THE MOON - BRAIN DAMAGE](https://www.youtube.com/watch?v=oFywrrHHaVY)
-- [DOOM SIDE OF THE MOON - BREATHE (IN THE AIR)](https://www.youtube.com/watch?v=zsuwZrnSZJ8)
+- [DOOM SIDE OF THE MOON - BREATHE IN THE AIR](https://www.youtube.com/watch?v=zsuwZrnSZJ8)
 - [DOOM SIDE OF THE MOON - GREAT GIG IN THE SKY](https://www.youtube.com/watch?v=N_4L3hv4Fp8)
 - [DOOM SIDE OF THE MOON - MONEY](https://www.youtube.com/watch?v=iEG6SdZ7hXQ)
 - [Doom Side of the Moon - Time](https://www.youtube.com/watch?v=t4awPsThJAU)
@@ -61,7 +61,7 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 - [Brain Damage](https://www.youtube.com/watch?v=zKXMPoOWnOQ)
 - [Speak to Me](https://www.youtube.com/watch?v=RyteptDM5x0)
 - [Us and Them](https://www.youtube.com/watch?v=5Woqy6WdNWk)
-- [Breathe (In the Air)](https://www.youtube.com/watch?v=XUS1U5Y90QU)
+- [Breathe In the Air](https://www.youtube.com/watch?v=XUS1U5Y90QU)
 - [Doom Side of the Moon -  Full Album](https://www.youtube.com/watch?v=sMoO8FNbRJA)
 
 ## Release Images

@@ -87,13 +87,13 @@ Rock revivalism is only half the story on this eponymous debut from psychedelic 
 
 - [I Remember When](https://www.youtube.com/watch?v=RQorl6DeAq0)
 - [The Coral - Shadows Fall HQ](https://www.youtube.com/watch?v=fIVbqZ5_-yE)
-- [The Coral - Dreaming Of You (HQ)](https://www.youtube.com/watch?v=4Soyz9wEWgM)
+- [The Coral - Dreaming Of You HQ](https://www.youtube.com/watch?v=4Soyz9wEWgM)
 - [Simon Diamond](https://www.youtube.com/watch?v=mXrReCugyrc)
 - [The Coral - Goodbye](https://www.youtube.com/watch?v=atGPiczuf-8)
 - [Waiting for the Heartaches](https://www.youtube.com/watch?v=XUraCbTkocU)
-- [The Coral - Skeleton Key (Remastered Video) (2002)](https://www.youtube.com/watch?v=N0ckQ8Pdma4)
+- [The Coral - Skeleton Key Remastered Video 2002](https://www.youtube.com/watch?v=N0ckQ8Pdma4)
 - [The Coral - Wildfire](https://www.youtube.com/watch?v=GYXZ4YrTtEA)
-- [The Coral - Bad Man | UTV](https://www.youtube.com/watch?v=xkazy8eC35A)
+- [The Coral - Bad Man  UTV](https://www.youtube.com/watch?v=xkazy8eC35A)
 - [Calendars and Clocks](https://www.youtube.com/watch?v=cd1YoKHuyCE)
 
 ## Release Images

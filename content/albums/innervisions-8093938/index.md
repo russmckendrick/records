@@ -50,11 +50,11 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 
 
 ## Videos
-### S̲t̲evie W̲o̲nder - In̲n̲ervision̲s (Full Album) 1973
-{{< youtube id="wi5kA7QOCI4" title="S̲t̲evie W̲o̲nder - In̲n̲ervision̲s (Full Album) 1973" >}}<br>
+### Stevie Wonder - Innervisions Full Album 1973
+{{< youtube id="wi5kA7QOCI4" title="Stevie Wonder - Innervisions Full Album 1973" >}}<br>
 ### More Videos
 
-- [He's Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
+- [Hes Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
 - [Too High](https://www.youtube.com/watch?v=UvtYEdYjkJM)
 - [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
 - [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
@@ -62,13 +62,13 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 - [Higher Ground](https://www.youtube.com/watch?v=1esf0efHbjM)
 - [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)
 - [All In Love Is Fair](https://www.youtube.com/watch?v=1surYguNfEg)
-- [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
-- [Stevie Wonder - Innervisions (1973) Part 1 (Full Album)](https://www.youtube.com/watch?v=cPOaluwCL8I)
+- [Dont You Worry Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
+- [Stevie Wonder - Innervisions 1973 Part 1 Full Album](https://www.youtube.com/watch?v=cPOaluwCL8I)
 - [Stevie Wonder - Visions - with lyrics](https://www.youtube.com/watch?v=pwtfC4hLWnY)
-- [Stevie Wonder - Innervisions - Promo - In Studio Performance + Interview 1973](https://www.youtube.com/watch?v=Z-ipVu9pl3w)
+- [Stevie Wonder - Innervisions - Promo - In Studio Performance  Interview 1973](https://www.youtube.com/watch?v=Z-ipVu9pl3w)
 - [stevie wonder - Stevie Wonder Visions - Innervisions](https://www.youtube.com/watch?v=t36ynCw8WKQ)
 - [Stevie Wonder - Visions](https://www.youtube.com/watch?v=K4mdXoaKqco)
-- [Stevie Wonder - Innervisions on Flipside TV (1973)](https://www.youtube.com/watch?v=fUG3e7_tedE)
+- [Stevie Wonder - Innervisions on Flipside TV 1973](https://www.youtube.com/watch?v=fUG3e7_tedE)
 
 ## Release Images
 {{< imageGrid >}}

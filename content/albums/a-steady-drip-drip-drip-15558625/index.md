@@ -61,15 +61,15 @@ The release of the physical formats was delayed because of the COVID-19 pandemic
 
 
 ## Videos
-### Sparks - iPhone (Official Video)
-{{< youtube id="C3CIDPuxwrY" title="Sparks - iPhone (Official Video)" >}}<br>
+### Sparks - iPhone Official Video
+{{< youtube id="C3CIDPuxwrY" title="Sparks - iPhone Official Video" >}}<br>
 ### More Videos
 
-- [Sparks - The Existential Threat (+ bonus "How To Make A Music Video" by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
+- [Sparks - The Existential Threat  bonus How To Make A Music Video by Cyriak](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 - [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)
-- [Sparks - I'm Toast (Unofficial Video)](https://www.youtube.com/watch?v=aJpfdcurYoQ)
-- [Sparks - iPhone (Official Video)](https://www.youtube.com/watch?v=C3CIDPuxwrY)
-- [Sparks - The Existential Threat (+ bonus "How To Make A Music Video" by Cyriak)](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
+- [Sparks - Im Toast Unofficial Video](https://www.youtube.com/watch?v=aJpfdcurYoQ)
+- [Sparks - iPhone Official Video](https://www.youtube.com/watch?v=C3CIDPuxwrY)
+- [Sparks - The Existential Threat  bonus How To Make A Music Video by Cyriak](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 
 ## Release Images
 {{< imageGrid >}}

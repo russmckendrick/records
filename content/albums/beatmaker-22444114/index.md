@@ -35,9 +35,9 @@ styles: ["Jazz-Funk"]
 {{< youtube id="30ZQP2INn48" title="Beatmaker" >}}<br>
 ### More Videos
 
-- [Beatmaker (Instrumental)](https://www.youtube.com/watch?v=BPnMKmlW0hc)
+- [Beatmaker Instrumental](https://www.youtube.com/watch?v=BPnMKmlW0hc)
 - [Beatmaker](https://www.youtube.com/watch?v=30ZQP2INn48)
-- [Beatmaker (Instrumental)](https://www.youtube.com/watch?v=BPnMKmlW0hc)
+- [Beatmaker Instrumental](https://www.youtube.com/watch?v=BPnMKmlW0hc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -49,12 +49,12 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 
 
 ## Videos
-### Camera Obscura - Liberty Print (Official Audio)
-{{< youtube id="Asp2Wrnpz8M" title="Camera Obscura - Liberty Print (Official Audio)" >}}<br>
+### Camera Obscura - Liberty Print Official Audio
+{{< youtube id="Asp2Wrnpz8M" title="Camera Obscura - Liberty Print Official Audio" >}}<br>
 ### More Videos
 
-- [Camera Obscura - We're Going to Make It in a Man's World (Official Audio)](https://www.youtube.com/watch?v=dItvD99YUls)
-- [Camera Obscura - Big Love (Official Music Video)](https://www.youtube.com/watch?v=raC2EfuOi5Q)
+- [Camera Obscura - Were Going to Make It in a Mans World Official Audio](https://www.youtube.com/watch?v=dItvD99YUls)
+- [Camera Obscura - Big Love Official Music Video](https://www.youtube.com/watch?v=raC2EfuOi5Q)
 - [Only a Dream](https://www.youtube.com/watch?v=12-8QJvGBhQ)
 
 ## Release Images

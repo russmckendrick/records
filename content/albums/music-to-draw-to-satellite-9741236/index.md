@@ -53,15 +53,15 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 
 
 ## Videos
-### Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)
-{{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)" >}}<br>
+### Kid Koala - Music To Draw To Satellite - the observable universe trailer
+{{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To Satellite - the observable universe trailer" >}}<br>
 ### More Videos
 
-- [Kid Koala - "The Observable Universe" (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
-- [Kid Koala "Adrift" featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
-- [Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)](https://www.youtube.com/watch?v=u8JLozxxGrg)
-- [Kid Koala - "The Observable Universe" (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
-- [Kid Koala "Adrift" featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
+- [Kid Koala - The Observable Universe full song stream](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
+- [Kid Koala Adrift featuring Emiliana Torrini Official Audio](https://www.youtube.com/watch?v=QXLK91GLnjg)
+- [Kid Koala - Music To Draw To Satellite - the observable universe trailer](https://www.youtube.com/watch?v=u8JLozxxGrg)
+- [Kid Koala - The Observable Universe full song stream](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
+- [Kid Koala Adrift featuring Emiliana Torrini Official Audio](https://www.youtube.com/watch?v=QXLK91GLnjg)
 
 ## Release Images
 {{< imageGrid >}}

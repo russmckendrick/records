@@ -46,8 +46,8 @@ The band's cumulative sales equal almost two million in the United States, inclu
 
 
 ## Videos
-### Lamb - Lusty (HD)
-{{< youtube id="x954Iy1kjSU" title="Lamb - Lusty (HD)" >}}<br>
+### Lamb - Lusty HD
+{{< youtube id="x954Iy1kjSU" title="Lamb - Lusty HD" >}}<br>
 ### More Videos
 
 - [Lamb - God Bless](https://www.youtube.com/watch?v=N9lQjEtiMp0)
@@ -58,11 +58,11 @@ The band's cumulative sales equal almost two million in the United States, inclu
 - [Lamb - Gold](https://www.youtube.com/watch?v=uY1qETRJN-c)
 - [Lamb - Gorecki](https://www.youtube.com/watch?v=kbUfDXrWgbs)
 - [Lamb - Feela part 1](https://www.youtube.com/watch?v=glR2hFrq4ks)
-- [Lamb - Cotton Wool (Fila Brazillia mix)](https://www.youtube.com/watch?v=OcJNGptYif8)
+- [Lamb - Cotton Wool Fila Brazillia mix](https://www.youtube.com/watch?v=OcJNGptYif8)
 - [Lamb - Gorecki](https://www.youtube.com/watch?v=tSRYvYN1ayw)
 - [Lusty](https://www.youtube.com/watch?v=Y8ge6shvUJY)
-- [Lamb//Trans Fatty Acid//Kruder & Dorfmeister Remix](https://www.youtube.com/watch?v=94NU-W-KgxI)
-- [Lamb - Lusty (HD)](https://www.youtube.com/watch?v=x954Iy1kjSU)
+- [LambTrans Fatty AcidKruder  Dorfmeister Remix](https://www.youtube.com/watch?v=94NU-W-KgxI)
+- [Lamb - Lusty HD](https://www.youtube.com/watch?v=x954Iy1kjSU)
 - [Lamb - God Bless](https://www.youtube.com/watch?v=N9lQjEtiMp0)
 - [Lamb - Cotton Wool](https://www.youtube.com/watch?v=eF4hFfDcV7I)
 - [Lamb - Trans Fatty Acid](https://www.youtube.com/watch?v=nRF80TuHhVk)
@@ -71,8 +71,8 @@ The band's cumulative sales equal almost two million in the United States, inclu
 - [Lamb - Gold](https://www.youtube.com/watch?v=uY1qETRJN-c)
 - [Lamb - Gorecki](https://www.youtube.com/watch?v=kbUfDXrWgbs)
 - [Lamb - Feela part 1](https://www.youtube.com/watch?v=glR2hFrq4ks)
-- [Lamb - Cotton Wool (Fila Brazillia mix)](https://www.youtube.com/watch?v=OcJNGptYif8)
-- [Lamb - Gorecki (Global Communication Remix) (HD)](https://www.youtube.com/watch?v=KBMaBYE-Awo)
+- [Lamb - Cotton Wool Fila Brazillia mix](https://www.youtube.com/watch?v=OcJNGptYif8)
+- [Lamb - Gorecki Global Communication Remix HD](https://www.youtube.com/watch?v=KBMaBYE-Awo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -52,7 +52,7 @@ It is also common for greatest hits albums to include new recordings, remixes or
 {{< youtube id="c-VeOakGGPQ" title="Ian Dury - Wake up and make love with me" >}}<br>
 ### More Videos
 
-- [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
+- [Ian Dury and the Blockheads - Sex and Drugs and Rock  Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
 
 ## Release Images
 {{< imageGrid >}}

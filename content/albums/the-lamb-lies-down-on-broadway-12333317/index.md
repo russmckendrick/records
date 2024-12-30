@@ -62,33 +62,33 @@ The album received mixed reviews at first, and was the first Genesis album which
 
 
 ## Videos
-### Genesis - The Lamb Lies Down On Broadway (Official Audio)
-{{< youtube id="hioAbdhfN_w" title="Genesis - The Lamb Lies Down On Broadway (Official Audio)" >}}<br>
+### Genesis - The Lamb Lies Down On Broadway Official Audio
+{{< youtube id="hioAbdhfN_w" title="Genesis - The Lamb Lies Down On Broadway Official Audio" >}}<br>
 ### More Videos
 
-- [Genesis - Fly On A Windshield (Official Audio)](https://www.youtube.com/watch?v=G3cnH_kvt58)
-- [Genesis - Broadway Melody Of 1974 (Official Audio)](https://www.youtube.com/watch?v=uBHYnovb14g)
-- [Genesis - Cuckoo Cocoon (Official Audio)](https://www.youtube.com/watch?v=GdNZWaG4eaI)
-- [Genesis - In The Cage (Official Audio)](https://www.youtube.com/watch?v=6X57rw5cw3M)
-- [Genesis - The Grand Parade Of Lifeless Packaging (Official Audio)](https://www.youtube.com/watch?v=bXTb2dNMurQ)
-- [Genesis - Back In NYC (Official Audio)](https://www.youtube.com/watch?v=AH24Ms4NyTY)
-- [Genesis - Hairless Heart (Official Audio)](https://www.youtube.com/watch?v=8SG6snW7mRk)
-- [Genesis - Counting Out Time (Official Audio)](https://www.youtube.com/watch?v=Z9CMOMgPb00)
-- [Genesis - Carpet Crawlers (Official Audio)](https://www.youtube.com/watch?v=BN1pIzq3PQI)
-- [Genesis - The Chamber Of 32 Doors (Official Audio)](https://www.youtube.com/watch?v=8yO91-fEa4k)
-- [Genesis - Lilywhite Lilith (Official Audio)](https://www.youtube.com/watch?v=3vUfDsYLcpo)
-- [Genesis - The Waiting Room (Official Audio)](https://www.youtube.com/watch?v=24wXJ6e4Ll0)
-- [Genesis - Anyway (Official Audio)](https://www.youtube.com/watch?v=BLz356JIBcM)
-- [Genesis - Here Comes The Supernatural Anaesthetist (Official Audio)](https://www.youtube.com/watch?v=GowZdTaKLL8)
-- [Genesis - The Lamia (Official Audio)](https://www.youtube.com/watch?v=mBuVlOVJUYI)
-- [Genesis - Silent Sorrow In Empty Boats (Official Audio)](https://www.youtube.com/watch?v=dOMGiwtovi4)
-- [Genesis - The Colony Of Slippermen (Official Audio)](https://www.youtube.com/watch?v=cMOX_HtBLDI)
-- [Genesis - Ravine (Official Audio)](https://www.youtube.com/watch?v=xbfuOZqqopo)
-- [Genesis - The Light Dies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=gUom79Jo3As)
-- [Genesis - Riding The Scree (Official Audio)](https://www.youtube.com/watch?v=3XL8RXG-QeE)
-- [Genesis - In The Rapids (Official Audio)](https://www.youtube.com/watch?v=koxbP5LIJTU)
-- [Genesis - It (Official Audio)](https://www.youtube.com/watch?v=RUHnazM8-Xg)
-- [Genesis - The Lamb Lies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=hioAbdhfN_w)
+- [Genesis - Fly On A Windshield Official Audio](https://www.youtube.com/watch?v=G3cnH_kvt58)
+- [Genesis - Broadway Melody Of 1974 Official Audio](https://www.youtube.com/watch?v=uBHYnovb14g)
+- [Genesis - Cuckoo Cocoon Official Audio](https://www.youtube.com/watch?v=GdNZWaG4eaI)
+- [Genesis - In The Cage Official Audio](https://www.youtube.com/watch?v=6X57rw5cw3M)
+- [Genesis - The Grand Parade Of Lifeless Packaging Official Audio](https://www.youtube.com/watch?v=bXTb2dNMurQ)
+- [Genesis - Back In NYC Official Audio](https://www.youtube.com/watch?v=AH24Ms4NyTY)
+- [Genesis - Hairless Heart Official Audio](https://www.youtube.com/watch?v=8SG6snW7mRk)
+- [Genesis - Counting Out Time Official Audio](https://www.youtube.com/watch?v=Z9CMOMgPb00)
+- [Genesis - Carpet Crawlers Official Audio](https://www.youtube.com/watch?v=BN1pIzq3PQI)
+- [Genesis - The Chamber Of 32 Doors Official Audio](https://www.youtube.com/watch?v=8yO91-fEa4k)
+- [Genesis - Lilywhite Lilith Official Audio](https://www.youtube.com/watch?v=3vUfDsYLcpo)
+- [Genesis - The Waiting Room Official Audio](https://www.youtube.com/watch?v=24wXJ6e4Ll0)
+- [Genesis - Anyway Official Audio](https://www.youtube.com/watch?v=BLz356JIBcM)
+- [Genesis - Here Comes The Supernatural Anaesthetist Official Audio](https://www.youtube.com/watch?v=GowZdTaKLL8)
+- [Genesis - The Lamia Official Audio](https://www.youtube.com/watch?v=mBuVlOVJUYI)
+- [Genesis - Silent Sorrow In Empty Boats Official Audio](https://www.youtube.com/watch?v=dOMGiwtovi4)
+- [Genesis - The Colony Of Slippermen Official Audio](https://www.youtube.com/watch?v=cMOX_HtBLDI)
+- [Genesis - Ravine Official Audio](https://www.youtube.com/watch?v=xbfuOZqqopo)
+- [Genesis - The Light Dies Down On Broadway Official Audio](https://www.youtube.com/watch?v=gUom79Jo3As)
+- [Genesis - Riding The Scree Official Audio](https://www.youtube.com/watch?v=3XL8RXG-QeE)
+- [Genesis - In The Rapids Official Audio](https://www.youtube.com/watch?v=koxbP5LIJTU)
+- [Genesis - It Official Audio](https://www.youtube.com/watch?v=RUHnazM8-Xg)
+- [Genesis - The Lamb Lies Down On Broadway Official Audio](https://www.youtube.com/watch?v=hioAbdhfN_w)
 
 ## Release Images
 {{< imageGrid >}}

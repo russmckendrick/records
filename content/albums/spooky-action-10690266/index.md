@@ -41,8 +41,8 @@ Spooky Action is the debut solo album by English singer songwriter and ex-Mansun
 
 
 ## Videos
-### Paul Draper - Don't Poke The Bear
-{{< youtube id="22WfZ8vM-r0" title="Paul Draper - Don't Poke The Bear" >}}<br>
+### Paul Draper - Dont Poke The Bear
+{{< youtube id="22WfZ8vM-r0" title="Paul Draper - Dont Poke The Bear" >}}<br>
 ### More Videos
 
 - [Paul Draper - Jealousy Is A Powerful Emotion](https://www.youtube.com/watch?v=fGbqK0wPVwk)

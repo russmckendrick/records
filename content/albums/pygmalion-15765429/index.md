@@ -55,9 +55,9 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 - [Miranda](https://www.youtube.com/watch?v=D5BuFce-Ro4)
 - [Trellisaze](https://www.youtube.com/watch?v=oDEG7-MKaTI)
 - [Cello](https://www.youtube.com/watch?v=cjpxk3vL8iY)
-- [J's Heaven](https://www.youtube.com/watch?v=Rrwdr7B_wtk)
+- [Js Heaven](https://www.youtube.com/watch?v=Rrwdr7B_wtk)
 - [Visions Of LA](https://www.youtube.com/watch?v=HnDpEOfQONk)
-- [Blue Skied An' Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
+- [Blue Skied An Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
 - [All Of Us](https://www.youtube.com/watch?v=kYeMBYsEWRo)
 
 ## Release Images

@@ -65,26 +65,26 @@ Welcome Oblivion is the debut studio album by American post-industrial group How
 
 
 ## Videos
-### How to Destroy Angels - Welcome Oblivion (Full Album)
-{{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion (Full Album)" >}}<br>
+### How to Destroy Angels - Welcome Oblivion Full Album
+{{< youtube id="jQM-laUav_g" title="How to Destroy Angels - Welcome Oblivion Full Album" >}}<br>
 ### More Videos
 
 - [How To Destroy Angels - Keep it together](https://www.youtube.com/watch?v=EoXSUOjGk6w)
 - [How To Destroy Angels - Ice age](https://www.youtube.com/watch?v=Oq3pDuJeMqQ)
-- [How To Destroy Angels - How Long?](https://www.youtube.com/watch?v=1sUTVT7HzSg)
+- [How To Destroy Angels - How Long](https://www.youtube.com/watch?v=1sUTVT7HzSg)
 - [How To Destroy Angels - The loop closes](https://www.youtube.com/watch?v=gY2VADkYanQ)
 - [Strings and Attractors - How To Destroy Angels](https://www.youtube.com/watch?v=2JLxrq0KLVY)
 - [Welcome oblivion](https://www.youtube.com/watch?v=GcD6XgR3kJk)
-- [How to Destroy Angels - Welcome Oblivion - Paramount Theater - 4/21/13 1080p](https://www.youtube.com/watch?v=F-z1VMsL6Y8)
+- [How to Destroy Angels - Welcome Oblivion - Paramount Theater - 42113 1080p](https://www.youtube.com/watch?v=F-z1VMsL6Y8)
 - [How To Destroy Angels Welcome Oblivion](https://www.youtube.com/watch?v=VzrdRIvWOFo)
-- [How To Destroy Angels - Welcome Oblivion - live in Las Vegas - 4/13/2013](https://www.youtube.com/watch?v=16DPfiXN0ag)
-- [How To Destroy Angels - Welcome Oblivion - April 27th 2013 - Boston, MA - 1080P HD](https://www.youtube.com/watch?v=ENDK5E-AT1c)
-- [How To Destroy Angels - Welcome Oblivion - Live @ The Fox Theatre Pomona 4-10-13 in HD](https://www.youtube.com/watch?v=hV68FwNwI_U)
+- [How To Destroy Angels - Welcome Oblivion - live in Las Vegas - 4132013](https://www.youtube.com/watch?v=16DPfiXN0ag)
+- [How To Destroy Angels - Welcome Oblivion - April 27th 2013 - Boston MA - 1080P HD](https://www.youtube.com/watch?v=ENDK5E-AT1c)
+- [How To Destroy Angels - Welcome Oblivion - Live  The Fox Theatre Pomona 4-10-13 in HD](https://www.youtube.com/watch?v=hV68FwNwI_U)
 - [How to Destroy Angels - Welcome Oblivion](https://www.youtube.com/watch?v=krpplgUzmcU)
 - [how to destroy angels- welcome oblivion](https://www.youtube.com/watch?v=qFg6OK1lAXE)
-- [How To Destroy Angels, "Welcome Oblivion", Chicago, Vic Theatre, 42313](https://www.youtube.com/watch?v=R5UJX00G2pM)
-- [HTDA - "Welcome Oblivion"](https://www.youtube.com/watch?v=_wBJoiGEQqg)
-- [How to Destroy Angels - Welcome Oblivion (Full Album)](https://www.youtube.com/watch?v=jQM-laUav_g)
+- [How To Destroy Angels Welcome Oblivion Chicago Vic Theatre 42313](https://www.youtube.com/watch?v=R5UJX00G2pM)
+- [HTDA - Welcome Oblivion](https://www.youtube.com/watch?v=_wBJoiGEQqg)
+- [How to Destroy Angels - Welcome Oblivion Full Album](https://www.youtube.com/watch?v=jQM-laUav_g)
 
 ## Release Images
 {{< imageGrid >}}

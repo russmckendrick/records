@@ -46,8 +46,8 @@ The album is titled after a military slang term well known at the time of releas
 
 
 ## Videos
-### Fugazi - Fugazi (1988) [Full EP]
-{{< youtube id="d06_Yl-mHE0" title="Fugazi - Fugazi (1988) [Full EP]" >}}<br>
+### Fugazi - Fugazi 1988 Full EP
+{{< youtube id="d06_Yl-mHE0" title="Fugazi - Fugazi 1988 Full EP" >}}<br>
 ### More Videos
 
 - [Waiting Room](https://www.youtube.com/watch?v=C3LXkdpHNOQ)

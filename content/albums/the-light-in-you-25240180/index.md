@@ -46,10 +46,10 @@ The Light in You is the eighth studio album by American rock band Mercury Rev, r
 ### More Videos
 
 - [Amelie](https://www.youtube.com/watch?v=MgLvdMivk6k)
-- [You've Gone With So Little for So Long](https://www.youtube.com/watch?v=q0SKtzVW2OQ)
-- [Mercury Rev - Central Park East (2015)](https://www.youtube.com/watch?v=oxdqBAeJAto)
+- [Youve Gone With So Little for So Long](https://www.youtube.com/watch?v=q0SKtzVW2OQ)
+- [Mercury Rev - Central Park East 2015](https://www.youtube.com/watch?v=oxdqBAeJAto)
 - [Mercury Rev - Emotional Free Fall](https://www.youtube.com/watch?v=-ldmjXdow6w)
-- [Mercury Rev - Are You Ready? (Official Music Video)](https://www.youtube.com/watch?v=86EwvXYG7vA)
+- [Mercury Rev - Are You Ready Official Music Video](https://www.youtube.com/watch?v=86EwvXYG7vA)
 - [Mercury Rev - Coming Up For Air](https://www.youtube.com/watch?v=S64TDcLqzjM)
 - [Mercury Rev - Moth Light](https://www.youtube.com/watch?v=eS9VmJOmA8U)
 

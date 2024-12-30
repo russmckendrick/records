@@ -52,8 +52,8 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 
 
 ## Videos
-### Matt Berry - Summer Sun (Official Video)
-{{< youtube id="G_YZZKgWOBQ" title="Matt Berry - Summer Sun (Official Video)" >}}<br>
+### Matt Berry - Summer Sun Official Video
+{{< youtube id="G_YZZKgWOBQ" title="Matt Berry - Summer Sun Official Video" >}}<br>
 ### More Videos
 
 - [Aboard](https://www.youtube.com/watch?v=6ExP4hfEmeo)
@@ -69,8 +69,8 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 - [Like Stone](https://www.youtube.com/watch?v=hlon3KUi6hk)
 - [Story Told](https://www.youtube.com/watch?v=nA1spW8N0YA)
 - [Forget Me](https://www.youtube.com/watch?v=_qujpoSKekk)
-- [Now Disappear (Again)](https://www.youtube.com/watch?v=QhgZSHL_yhk)
-- [Matt Berry - Summer Sun (Official Video)](https://www.youtube.com/watch?v=G_YZZKgWOBQ)
+- [Now Disappear Again](https://www.youtube.com/watch?v=QhgZSHL_yhk)
+- [Matt Berry - Summer Sun Official Video](https://www.youtube.com/watch?v=G_YZZKgWOBQ)
 - [Aboard](https://www.youtube.com/watch?v=6ExP4hfEmeo)
 - [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
 - [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
@@ -84,7 +84,7 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 - [Like Stone](https://www.youtube.com/watch?v=hlon3KUi6hk)
 - [Story Told](https://www.youtube.com/watch?v=nA1spW8N0YA)
 - [Forget Me](https://www.youtube.com/watch?v=_qujpoSKekk)
-- [Now Disappear (Again)](https://www.youtube.com/watch?v=QhgZSHL_yhk)
+- [Now Disappear Again](https://www.youtube.com/watch?v=QhgZSHL_yhk)
 
 ## Release Images
 {{< imageGrid >}}

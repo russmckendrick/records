@@ -57,8 +57,8 @@ All that newfound effort paid off: Singles “Krafty” and “Jetstream” both
 
 
 ## Videos
-### New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]
-{{< youtube id="3oOB9ektig4" title="New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]" >}}<br>
+### New Order - Waiting For The Sirens Call OFFICIAL MUSIC VIDEO
+{{< youtube id="3oOB9ektig4" title="New Order - Waiting For The Sirens Call OFFICIAL MUSIC VIDEO" >}}<br>
 
 
 ## Release Images

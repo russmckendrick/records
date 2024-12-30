@@ -46,28 +46,28 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 
 
 ## Videos
-### The James Hunter 6 'If That Don't Tell You' | Live Studio Session
-{{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 'If That Don't Tell You' | Live Studio Session" >}}<br>
+### The James Hunter 6 If That Dont Tell You  Live Studio Session
+{{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 If That Dont Tell You  Live Studio Session" >}}<br>
 ### More Videos
 
 - [James Hunter  -  This Is Where We Came In](https://www.youtube.com/watch?v=MF72ahNIlfs)
-- [The James Hunter Six "(Baby) Hold On" OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
-- [The James Hunter Six "Something's Calling" OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
+- [The James Hunter Six Baby Hold On OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
+- [The James Hunter Six Somethings Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
 - [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
-- [The James Hunter Six - Free Your Mind (While You Still Got Time). (ΗD)](https://www.youtube.com/watch?v=jRGSX9GQgc4)
+- [The James Hunter Six - Free Your Mind While You Still Got Time ΗD](https://www.youtube.com/watch?v=jRGSX9GQgc4)
 - [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
-- [James Hunter - 'Stranded'](https://www.youtube.com/watch?v=eiTQIecIwMQ)
-- [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
+- [James Hunter - Stranded](https://www.youtube.com/watch?v=eiTQIecIwMQ)
+- [The James Hunter 6 Sachelfoot  Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
-- [The James Hunter 6 'If That Don't Tell You' | Live Studio Session](https://www.youtube.com/watch?v=xuAVRW-jjWI)
+- [The James Hunter 6 If That Dont Tell You  Live Studio Session](https://www.youtube.com/watch?v=xuAVRW-jjWI)
 - [James Hunter  -  This Is Where We Came In](https://www.youtube.com/watch?v=MF72ahNIlfs)
-- [The James Hunter Six "(Baby) Hold On" OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
-- [The James Hunter Six "Something's Calling" OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
+- [The James Hunter Six Baby Hold On OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
+- [The James Hunter Six Somethings Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
 - [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
-- [The James Hunter Six - Free Your Mind (While You Still Got Time). (ΗD)](https://www.youtube.com/watch?v=jRGSX9GQgc4)
+- [The James Hunter Six - Free Your Mind While You Still Got Time ΗD](https://www.youtube.com/watch?v=jRGSX9GQgc4)
 - [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
-- [James Hunter - 'Stranded'](https://www.youtube.com/watch?v=eiTQIecIwMQ)
-- [The James Hunter 6 'Sachelfoot' | Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
+- [James Hunter - Stranded](https://www.youtube.com/watch?v=eiTQIecIwMQ)
+- [The James Hunter 6 Sachelfoot  Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
 - [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
 
 ## Release Images

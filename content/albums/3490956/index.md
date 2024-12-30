@@ -39,19 +39,19 @@ styles: ["Industrial Metal"]
 
 
 ## Videos
-### Ministry - Just One Fix (Official Music Video)
-{{< youtube id="XYYGKCanqfA" title="Ministry - Just One Fix (Official Music Video)" >}}<br>
+### Ministry - Just One Fix Official Music Video
+{{< youtube id="XYYGKCanqfA" title="Ministry - Just One Fix Official Music Video" >}}<br>
 ### More Videos
 
 - [TV II](https://www.youtube.com/watch?v=b8ZZmJu-l4U)
 - [Hero](https://www.youtube.com/watch?v=9geEGT4SgCg)
-- [Ministry - Jesus Built My Hotrod (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
+- [Ministry - Jesus Built My Hotrod Official Music Video  Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
 - [Scare Crow](https://www.youtube.com/watch?v=wJqMX1VeFsU)
 - [Corrosion](https://www.youtube.com/watch?v=dmCYD0Zuo2U)
 - [Grace](https://www.youtube.com/watch?v=IOE6TndC6ms)
-- [Ministry - NWO [9/11 videoclip]](https://www.youtube.com/watch?v=T5bX30uUK30)
-- [Ministry - Jesus Built My Hotrod (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
-- [Ministry - Just One Fix (Official Music Video)](https://www.youtube.com/watch?v=XYYGKCanqfA)
+- [Ministry - NWO 911 videoclip](https://www.youtube.com/watch?v=T5bX30uUK30)
+- [Ministry - Jesus Built My Hotrod Official Music Video  Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
+- [Ministry - Just One Fix Official Music Video](https://www.youtube.com/watch?v=XYYGKCanqfA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,11 +56,11 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 {{< youtube id="0uA5Qe5PSWw" title="Talk Talk" >}}<br>
 ### More Videos
 
-- [Today (1997 Remaster)](https://www.youtube.com/watch?v=gMDN4MbSKqw)
-- [The Party's Over (1997 Remaster)](https://www.youtube.com/watch?v=kNXYKYkqvE8)
-- [Hate (1997 Remaster)](https://www.youtube.com/watch?v=4rqUYKKSyHE)
-- [Have You Heard the News (1997 Remaster)](https://www.youtube.com/watch?v=aYIKfkTJYcs)
-- [Mirror Man (1997 Remaster)](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
+- [Today 1997 Remaster](https://www.youtube.com/watch?v=gMDN4MbSKqw)
+- [The Partys Over 1997 Remaster](https://www.youtube.com/watch?v=kNXYKYkqvE8)
+- [Hate 1997 Remaster](https://www.youtube.com/watch?v=4rqUYKKSyHE)
+- [Have You Heard the News 1997 Remaster](https://www.youtube.com/watch?v=aYIKfkTJYcs)
+- [Mirror Man 1997 Remaster](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
 
 ## Release Images
 {{< imageGrid >}}

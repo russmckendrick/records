@@ -51,12 +51,12 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 
 
 ## Videos
-### A̲ P̲e̲r̲fect C̲i̲rcle -  Thirteenth Step (Full Album)
-{{< youtube id="b9jQ0FUQ9b8" title="A̲ P̲e̲r̲fect C̲i̲rcle -  Thirteenth Step (Full Album)" >}}<br>
+### A Perfect Circle -  Thirteenth Step Full Album
+{{< youtube id="b9jQ0FUQ9b8" title="A Perfect Circle -  Thirteenth Step Full Album" >}}<br>
 ### More Videos
 
 - [The Package](https://www.youtube.com/watch?v=m2Yhn6-jJPE)
-- [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
+- [A Perfect Circle - Outsider Directors Cut](https://www.youtube.com/watch?v=KO3l733WRN0)
 - [A Stranger](https://www.youtube.com/watch?v=Qypuo3T4aHQ)
 
 ## Release Images

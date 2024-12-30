@@ -44,14 +44,14 @@ Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It wa
 {{< youtube id="nlr4f0kjlMo" title="If You Want Me" >}}<br>
 ### More Videos
 
-- [Need (Somebody)](https://www.youtube.com/watch?v=riT2OgSyauE)
+- [Need Somebody](https://www.youtube.com/watch?v=riT2OgSyauE)
 - [Something More](https://www.youtube.com/watch?v=y3idauQzHIQ)
 - [Guilt](https://www.youtube.com/watch?v=nZY8Hky8Cok)
 - [Feel the Same](https://www.youtube.com/watch?v=oxKoBG7Q15g)
 - [Breather](https://www.youtube.com/watch?v=NgnEP7PFTwE)
 - [April](https://www.youtube.com/watch?v=24wwEQPf26A)
 - [Inside of Me](https://www.youtube.com/watch?v=nXaw0zjkRa8)
-- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
+- [Pearl Edit](https://www.youtube.com/watch?v=wlqKSAJZsZs)
 - [Satin Safe](https://www.youtube.com/watch?v=z0SiT_RG-qg)
 - [Treasure](https://www.youtube.com/watch?v=6H2Pq0ZLllc)
 

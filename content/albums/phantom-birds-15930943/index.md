@@ -54,7 +54,7 @@ Phantom Birds is the eighth studio album by English comedian and musician Matt B
 - [Phantom Birds](https://www.youtube.com/watch?v=HPPRRXHonzE)
 - [Moonlight Flit](https://www.youtube.com/watch?v=pwe8SVBBvoM)
 - [Man Of Doom](https://www.youtube.com/watch?v=gbvx_kYHin4)
-- [Where's My Love?](https://www.youtube.com/watch?v=27tI2Kg0FkY)
+- [Wheres My Love](https://www.youtube.com/watch?v=27tI2Kg0FkY)
 - [Take A Bow](https://www.youtube.com/watch?v=bJVX9FyO8nY)
 - [Intermission](https://www.youtube.com/watch?v=QXuyeK0N6so)
 - [Hail To The King](https://www.youtube.com/watch?v=tDCzAjxQFEY)

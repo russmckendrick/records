@@ -52,12 +52,12 @@ The Fat of the Land is the third studio album by English electronic music group 
 
 
 ## Videos
-### TVC - The Prodigy: The Fat of the Land - Sony Music Australia
-{{< youtube id="02IJIwuXDwY" title="TVC - The Prodigy: The Fat of the Land - Sony Music Australia" >}}<br>
+### TVC - The Prodigy The Fat of the Land - Sony Music Australia
+{{< youtube id="02IJIwuXDwY" title="TVC - The Prodigy The Fat of the Land - Sony Music Australia" >}}<br>
 ### More Videos
 
-- [The Prodigy - Firestarter (Official Video)](https://www.youtube.com/watch?v=wmin5WkOuPw)
-- [The Prodigy ▶ The·Fat·of·the·Land (Full Album)](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
+- [The Prodigy - Firestarter Official Video](https://www.youtube.com/watch?v=wmin5WkOuPw)
+- [The Prodigy  TheFatoftheLand Full Album](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
 - [Smack My Bitch Up](https://www.youtube.com/watch?v=xW17jtkjvvg)
 - [Breathe](https://www.youtube.com/watch?v=LhOjN4t0YsY)
 - [The Prodigy - Funky Shit](https://www.youtube.com/watch?v=psCf0oK9dvg)
@@ -67,11 +67,11 @@ The Fat of the Land is the third studio album by English electronic music group 
 - [Firestarter](https://www.youtube.com/watch?v=Hb9hvRSEel8)
 - [The Prodigy - Climbatize](https://www.youtube.com/watch?v=HuZTEsvgQko)
 - [The Prodigy - Fuel My Fire](https://www.youtube.com/watch?v=sf3QD3VoOnU)
-- [The Prodigy ▶ The·Fat·of·the·Land (Full Album)](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
+- [The Prodigy  TheFatoftheLand Full Album](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
 - [Mindfields](https://www.youtube.com/watch?v=mbcVm8iepQE)
-- [The Prodigy - Breathe (Official Video)](https://www.youtube.com/watch?v=6_PAHbqq-o4)
-- [Reviewing The Prodigy's The Fat of the Land in 10 seconds or less](https://www.youtube.com/watch?v=lToRGp9bYNE)
-- [The Samples – The Prodigy – The Fat Of The Land Edition](https://www.youtube.com/watch?v=fl79MQ0M4dw)
+- [The Prodigy - Breathe Official Video](https://www.youtube.com/watch?v=6_PAHbqq-o4)
+- [Reviewing The Prodigys The Fat of the Land in 10 seconds or less](https://www.youtube.com/watch?v=lToRGp9bYNE)
+- [The Samples  The Prodigy  The Fat Of The Land Edition](https://www.youtube.com/watch?v=fl79MQ0M4dw)
 
 ## Release Images
 {{< imageGrid >}}

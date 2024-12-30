@@ -61,7 +61,7 @@ None of the band’s Lollapalooza-era peers were attempting the sort of multi-tr
 
 - [The Smashing Pumpkins - Cherub Rock](https://www.youtube.com/watch?v=q-KE9lvU810)
 - [The Smashing Pumpkins - Disarm](https://www.youtube.com/watch?v=d1acEVmnVhI)
-- [The Smashing Pumpkins - Rocket (Official Music Video)](https://www.youtube.com/watch?v=Th-AqMvvBzE)
+- [The Smashing Pumpkins - Rocket Official Music Video](https://www.youtube.com/watch?v=Th-AqMvvBzE)
 
 ## Release Images
 {{< imageGrid >}}

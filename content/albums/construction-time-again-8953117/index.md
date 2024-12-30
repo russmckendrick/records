@@ -45,19 +45,19 @@ The album was preceded by the single "Everything Counts", released on 11 July an
 
 
 ## Videos
-### Depeche Mode - Everything Counts (Official Video)
-{{< youtube id="1t-gK-9EIq4" title="Depeche Mode - Everything Counts (Official Video)" >}}<br>
+### Depeche Mode - Everything Counts Official Video
+{{< youtube id="1t-gK-9EIq4" title="Depeche Mode - Everything Counts Official Video" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Love, In Itself (Official Video)](https://www.youtube.com/watch?v=1pi_egc6qkY)
-- [Depeche Mode - More Than a Party (Album Version)](https://www.youtube.com/watch?v=U0LT8q48C9A)
+- [Depeche Mode - Love In Itself Official Video](https://www.youtube.com/watch?v=1pi_egc6qkY)
+- [Depeche Mode - More Than a Party Album Version](https://www.youtube.com/watch?v=U0LT8q48C9A)
 - [Pipeline](https://www.youtube.com/watch?v=cmcPgQPwzt8)
 - [Two Minute Warning](https://www.youtube.com/watch?v=1BCC61iJbrs)
 - [DEPECHE MODE - SHAME](https://www.youtube.com/watch?v=ecuEYimF73o)
 - [The Landscape Is Changing](https://www.youtube.com/watch?v=clLOWlrEla8)
 - [Told You So](https://www.youtube.com/watch?v=cRFVzZ8FLP0)
-- [And Then...](https://www.youtube.com/watch?v=nc-qXEua3dI)
-- [Depeche Mode - Everything Counts (Official Video)](https://www.youtube.com/watch?v=1t-gK-9EIq4)
+- [And Then](https://www.youtube.com/watch?v=nc-qXEua3dI)
+- [Depeche Mode - Everything Counts Official Video](https://www.youtube.com/watch?v=1t-gK-9EIq4)
 
 ## Release Images
 {{< imageGrid >}}

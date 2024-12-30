@@ -58,7 +58,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 {{< youtube id="luVpsM3YAgw" title="Peter Gabriel - Biko" >}}<br>
 ### More Videos
 
-- [PETER GABRIEL - 1980 ( FULL ALBUM ) LP](https://www.youtube.com/watch?v=3f0ONN4t8-c)
+- [PETER GABRIEL - 1980  FULL ALBUM  LP](https://www.youtube.com/watch?v=3f0ONN4t8-c)
 - [Intruder](https://www.youtube.com/watch?v=xvAmj3k3Imc)
 - [Peter Gabriel - Games Without Frontiers](https://www.youtube.com/watch?v=3xZmlUV8muY)
 

@@ -45,8 +45,8 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 
 
 ## Videos
-### black midi - Intro (Cavalcavde vinyl introduction rip)
-{{< youtube id="RBPM5z2pmys" title="black midi - Intro (Cavalcavde vinyl introduction rip)" >}}<br>
+### black midi - Intro Cavalcavde vinyl introduction rip
+{{< youtube id="RBPM5z2pmys" title="black midi - Intro Cavalcavde vinyl introduction rip" >}}<br>
 ### More Videos
 
 - [black midi - John L](https://www.youtube.com/watch?v=GT0nSp8lUws)
@@ -57,7 +57,7 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 - [Dethroned](https://www.youtube.com/watch?v=nPquyDbdXWw)
 - [Hogwash and Balderdash](https://www.youtube.com/watch?v=fHaTEtGRoa4)
 - [Ascending Forth](https://www.youtube.com/watch?v=FA3IJOodbWc)
-- [black midi - Intro (Cavalcavde vinyl introduction rip)](https://www.youtube.com/watch?v=RBPM5z2pmys)
+- [black midi - Intro Cavalcavde vinyl introduction rip](https://www.youtube.com/watch?v=RBPM5z2pmys)
 - [black midi - Hey Joe](https://www.youtube.com/watch?v=yO8lUf2Pi4w)
 
 ## Release Images

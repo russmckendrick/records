@@ -44,21 +44,21 @@ The album received mixed reviews from critics, but reached No. 3 on the UK Alb
 
 
 ## Videos
-### Genesis - Down and Out (Official Audio)
-{{< youtube id="EjLEOBHANkM" title="Genesis - Down and Out (Official Audio)" >}}<br>
+### Genesis - Down and Out Official Audio
+{{< youtube id="EjLEOBHANkM" title="Genesis - Down and Out Official Audio" >}}<br>
 ### More Videos
 
-- [Genesis - And Then There Were Three Full Album 1978 (HQ)](https://www.youtube.com/watch?v=cfrrjKRFc-E)
-- [Genesis - Undertow (Official Audio)](https://www.youtube.com/watch?v=ztzEdOZWw-k)
-- [Genesis - Ballad of Big (Official Audio)](https://www.youtube.com/watch?v=3ZZOz2zNBoM)
-- [Genesis - Snowbound (Official Audio)](https://www.youtube.com/watch?v=OekE08o27wo)
-- [Genesis - Burning Rope (Official Audio)](https://www.youtube.com/watch?v=YhObRW6DS4c)
-- [Genesis - Deep in the Motherlode (Official Audio)](https://www.youtube.com/watch?v=B0awdorlQTk)
-- [Genesis - Many Too Many (Official Audio)](https://www.youtube.com/watch?v=-14dNUqY4Kk)
-- [Genesis - Scenes from a Night's Dream (Official Audio)](https://www.youtube.com/watch?v=amJRHii1lrs)
-- [Genesis - Say It's Alright Joe (Official Audio)](https://www.youtube.com/watch?v=5QI80f2ohJ4)
-- [Genesis - The Lady Lies (Official Audio)](https://www.youtube.com/watch?v=xe0IurIrqrU)
-- [Genesis - Follow You Follow Me (Official Audio)](https://www.youtube.com/watch?v=vt2HSAfa2rQ)
+- [Genesis - And Then There Were Three Full Album 1978 HQ](https://www.youtube.com/watch?v=cfrrjKRFc-E)
+- [Genesis - Undertow Official Audio](https://www.youtube.com/watch?v=ztzEdOZWw-k)
+- [Genesis - Ballad of Big Official Audio](https://www.youtube.com/watch?v=3ZZOz2zNBoM)
+- [Genesis - Snowbound Official Audio](https://www.youtube.com/watch?v=OekE08o27wo)
+- [Genesis - Burning Rope Official Audio](https://www.youtube.com/watch?v=YhObRW6DS4c)
+- [Genesis - Deep in the Motherlode Official Audio](https://www.youtube.com/watch?v=B0awdorlQTk)
+- [Genesis - Many Too Many Official Audio](https://www.youtube.com/watch?v=-14dNUqY4Kk)
+- [Genesis - Scenes from a Nights Dream Official Audio](https://www.youtube.com/watch?v=amJRHii1lrs)
+- [Genesis - Say Its Alright Joe Official Audio](https://www.youtube.com/watch?v=5QI80f2ohJ4)
+- [Genesis - The Lady Lies Official Audio](https://www.youtube.com/watch?v=xe0IurIrqrU)
+- [Genesis - Follow You Follow Me Official Audio](https://www.youtube.com/watch?v=vt2HSAfa2rQ)
 
 ## Release Images
 {{< imageGrid >}}

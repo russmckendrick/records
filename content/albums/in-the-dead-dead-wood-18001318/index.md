@@ -45,8 +45,8 @@ styles: []
 
 
 ## Videos
-### VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)
-{{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH (TAROT LYRIC VIDEO)" >}}<br>
+### VENNART - SUPER SLEUTH TAROT LYRIC VIDEO
+{{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH TAROT LYRIC VIDEO" >}}<br>
 
 
 ## Release Images

@@ -56,18 +56,18 @@ In 2000, the album was rereleased with additional outtakes from the recording se
 {{< youtube id="uFexnwxHHXY" title="The Band   1968   Music from Big Pink" >}}<br>
 ### More Videos
 
-- [{FULL ALBUM} The Band - Music From Big Pink (1968) [UK Mono Mix]](https://www.youtube.com/watch?v=BJIXaUUsF5Q)
-- [The Band - Music from Big Pink Webisode: Finding Big Pink](https://www.youtube.com/watch?v=GglPkEinksM)
+- [FULL ALBUM The Band - Music From Big Pink 1968 UK Mono Mix](https://www.youtube.com/watch?v=BJIXaUUsF5Q)
+- [The Band - Music from Big Pink Webisode Finding Big Pink](https://www.youtube.com/watch?v=GglPkEinksM)
 - [The Band Music From Big Pink](https://www.youtube.com/watch?v=RckF1VpaIHA)
 - [We Can Talk - The Band - Music From Big Pink recording sessions](https://www.youtube.com/watch?v=knj6oY8RG8w)
-- [Real Ones "The Weight" live at The Big Pink](https://www.youtube.com/watch?v=g-98DcWcVQg)
+- [Real Ones The Weight live at The Big Pink](https://www.youtube.com/watch?v=g-98DcWcVQg)
 - [ロック名盤The Band Music From Big Pink Full Album 1080pFHR](https://www.youtube.com/watch?v=bk_zvjYzEqY)
-- [The Band - Music from Big Pink Webisode: A Big Pink House](https://www.youtube.com/watch?v=B2U-3nKdM8o)
-- [The Band "Music from Big Pink (50th Anniversary Edition)" Unboxing](https://www.youtube.com/watch?v=rPxNzHKAJCw)
-- [THE BAND live at Big Pink 1969 "Up On Cripple Creek"  beyond rare](https://www.youtube.com/watch?v=lOlq2dHCZOA)
-- [The Band - Music from Big Pink Webisode: Can We Do That?](https://www.youtube.com/watch?v=ktjWg9_Bi0c)
-- ["The Band" 1968 Capitol Records Music from the Big Pink studio album](https://www.youtube.com/watch?v=I6b0eRmDdTk)
-- [Crafting a Captivating Dolby Atmos Mix: Bob Clearmountain on 'Music From Big Pink'](https://www.youtube.com/watch?v=DbJf59h6Fe0)
+- [The Band - Music from Big Pink Webisode A Big Pink House](https://www.youtube.com/watch?v=B2U-3nKdM8o)
+- [The Band Music from Big Pink 50th Anniversary Edition Unboxing](https://www.youtube.com/watch?v=rPxNzHKAJCw)
+- [THE BAND live at Big Pink 1969 Up On Cripple Creek  beyond rare](https://www.youtube.com/watch?v=lOlq2dHCZOA)
+- [The Band - Music from Big Pink Webisode Can We Do That](https://www.youtube.com/watch?v=ktjWg9_Bi0c)
+- [The Band 1968 Capitol Records Music from the Big Pink studio album](https://www.youtube.com/watch?v=I6b0eRmDdTk)
+- [Crafting a Captivating Dolby Atmos Mix Bob Clearmountain on Music From Big Pink](https://www.youtube.com/watch?v=DbJf59h6Fe0)
 - [The Band   1968   Music from Big Pink](https://www.youtube.com/watch?v=uFexnwxHHXY)
 
 ## Release Images

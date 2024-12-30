@@ -51,17 +51,17 @@ Ride the Lightning received a highly positive response from music critics, who s
 
 
 ## Videos
-### Ride The Lightning (Remastered)
-{{< youtube id="DVOImtJY7po" title="Ride The Lightning (Remastered)" >}}<br>
+### Ride The Lightning Remastered
+{{< youtube id="DVOImtJY7po" title="Ride The Lightning Remastered" >}}<br>
 ### More Videos
 
-- [Fight Fire With Fire (Remastered)](https://www.youtube.com/watch?v=8zSODUOoE8w)
-- [For Whom The Bell Tolls (Remastered)](https://www.youtube.com/watch?v=B_HSa1dEL9s)
-- [Fade To Black (Remastered)](https://www.youtube.com/watch?v=9HZ_tx8aWuA)
-- [Trapped Under Ice (Remastered)](https://www.youtube.com/watch?v=bhH5M_HH2k4)
-- [Escape (Remastered)](https://www.youtube.com/watch?v=kGYD3hkCPAc)
-- [Creeping Death (Remastered)](https://www.youtube.com/watch?v=X8OeBZQn3_w)
-- [The Call Of Ktulu (Remastered)](https://www.youtube.com/watch?v=3vSH9pMzHm0)
+- [Fight Fire With Fire Remastered](https://www.youtube.com/watch?v=8zSODUOoE8w)
+- [For Whom The Bell Tolls Remastered](https://www.youtube.com/watch?v=B_HSa1dEL9s)
+- [Fade To Black Remastered](https://www.youtube.com/watch?v=9HZ_tx8aWuA)
+- [Trapped Under Ice Remastered](https://www.youtube.com/watch?v=bhH5M_HH2k4)
+- [Escape Remastered](https://www.youtube.com/watch?v=kGYD3hkCPAc)
+- [Creeping Death Remastered](https://www.youtube.com/watch?v=X8OeBZQn3_w)
+- [The Call Of Ktulu Remastered](https://www.youtube.com/watch?v=3vSH9pMzHm0)
 
 ## Release Images
 {{< imageGrid >}}

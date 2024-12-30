@@ -53,16 +53,16 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 {{< youtube id="rNcCBzmrUTc" title="Ultravox - Passing Strangers Music Video" >}}<br>
 ### More Videos
 
-- [Ultravox - Vienna (Album And 12" Version) Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
-- [Ultravox - The Thin Wall (Single Edit) Music Video](https://www.youtube.com/watch?v=YgKcupEWc6w)
-- [Ultravox - The Voice (Alternate Version) Music Video](https://www.youtube.com/watch?v=xQA_xQhDdMY)
+- [Ultravox - Vienna Album And 12 Version Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
+- [Ultravox - The Thin Wall Single Edit Music Video](https://www.youtube.com/watch?v=YgKcupEWc6w)
+- [Ultravox - The Voice Alternate Version Music Video](https://www.youtube.com/watch?v=xQA_xQhDdMY)
 - [Ultravox - Reap The Wild Wind Music Video](https://www.youtube.com/watch?v=JB_Ae_U1w2M)
 - [Ultravox - Hymn Music Video](https://www.youtube.com/watch?v=m8kd6YAvQSY)
 - [Ultravox - We Came To Dance Music Video](https://www.youtube.com/watch?v=RAQRVnHuq1k)
 - [Ultravox - One Small Day Music Video](https://www.youtube.com/watch?v=HxvhBaVj-cM)
 - [Ultravox - Dancing With Tears In My Eyes Music Video](https://www.youtube.com/watch?v=BPr3CSFm-uo)
-- [Ultravox - Lament (Edit Version) Music Video](https://www.youtube.com/watch?v=Ei4SaIh0Hk4)
-- [Ultravox - Love's Great Adventure Music Video](https://www.youtube.com/watch?v=n-uNbI0BRec)
+- [Ultravox - Lament Edit Version Music Video](https://www.youtube.com/watch?v=Ei4SaIh0Hk4)
+- [Ultravox - Loves Great Adventure Music Video](https://www.youtube.com/watch?v=n-uNbI0BRec)
 
 ## Release Images
 {{< imageGrid >}}

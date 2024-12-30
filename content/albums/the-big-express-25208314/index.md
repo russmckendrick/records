@@ -44,24 +44,24 @@ Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart a
 
 
 ## Videos
-### This World Over (2001 Remaster)
-{{< youtube id="HXsgFPPLBa0" title="This World Over (2001 Remaster)" >}}<br>
+### This World Over 2001 Remaster
+{{< youtube id="HXsgFPPLBa0" title="This World Over 2001 Remaster" >}}<br>
 ### More Videos
 
-- [The Everyday Story Of Smalltown (2001 - Remaster)](https://www.youtube.com/watch?v=H7XK_-Z1vEA)
-- [Shake You Donkey Up (2001 Remaster)](https://www.youtube.com/watch?v=VOJwTGCIOuk)
-- [Wake Up (2001 Remaster)](https://www.youtube.com/watch?v=6Yf3UUKdF0o)
-- [I Remember The Sun (2001 Remaster)](https://www.youtube.com/watch?v=3JFFQl-d5cM)
-- [Train Running Low On Soul Coal (2001 Remaster)](https://www.youtube.com/watch?v=g7C_YkZ91D8)
-- [All You Pretty Girls (2001 Remaster)](https://www.youtube.com/watch?v=H-QmWy22mM8)
-- [You're The Wish You Are I Had (2001 Remaster)](https://www.youtube.com/watch?v=HKaaQC3ATg8)
-- [I Bought Myself A Liarbird (2001 Remaster)](https://www.youtube.com/watch?v=3ZXnBu1gpzw)
-- [Red Brick Dream (2001 Remaster)](https://www.youtube.com/watch?v=VKkjdzLKajQ)
-- [Blue Overall (2001 Remaster)](https://www.youtube.com/watch?v=XZgkVc9-nfY)
-- [Wash Away (2001 Remaster)](https://www.youtube.com/watch?v=5wxMu53yUuw)
-- [XTC -Seagulls Screaming Kiss Her, Kiss Her -](https://www.youtube.com/watch?v=SilKZK47XTc)
-- [Reign Of Blows (2001 Remaster)](https://www.youtube.com/watch?v=QVi4jjK3DVc)
-- [Seagulls Screaming Kiss Her Kiss Her (2001 Remaster)](https://www.youtube.com/watch?v=Dw520adnPUg)
+- [The Everyday Story Of Smalltown 2001 - Remaster](https://www.youtube.com/watch?v=H7XK_-Z1vEA)
+- [Shake You Donkey Up 2001 Remaster](https://www.youtube.com/watch?v=VOJwTGCIOuk)
+- [Wake Up 2001 Remaster](https://www.youtube.com/watch?v=6Yf3UUKdF0o)
+- [I Remember The Sun 2001 Remaster](https://www.youtube.com/watch?v=3JFFQl-d5cM)
+- [Train Running Low On Soul Coal 2001 Remaster](https://www.youtube.com/watch?v=g7C_YkZ91D8)
+- [All You Pretty Girls 2001 Remaster](https://www.youtube.com/watch?v=H-QmWy22mM8)
+- [Youre The Wish You Are I Had 2001 Remaster](https://www.youtube.com/watch?v=HKaaQC3ATg8)
+- [I Bought Myself A Liarbird 2001 Remaster](https://www.youtube.com/watch?v=3ZXnBu1gpzw)
+- [Red Brick Dream 2001 Remaster](https://www.youtube.com/watch?v=VKkjdzLKajQ)
+- [Blue Overall 2001 Remaster](https://www.youtube.com/watch?v=XZgkVc9-nfY)
+- [Wash Away 2001 Remaster](https://www.youtube.com/watch?v=5wxMu53yUuw)
+- [XTC -Seagulls Screaming Kiss Her Kiss Her -](https://www.youtube.com/watch?v=SilKZK47XTc)
+- [Reign Of Blows 2001 Remaster](https://www.youtube.com/watch?v=QVi4jjK3DVc)
+- [Seagulls Screaming Kiss Her Kiss Her 2001 Remaster](https://www.youtube.com/watch?v=Dw520adnPUg)
 - [Xtc - I Bought Myself A Liarbird](https://www.youtube.com/watch?v=LUnnXY9kLvU)
 - [Xtc Washaway cover](https://www.youtube.com/watch?v=jPdk7kGXwCk)
 - [Train Running Low On Soul Coal by XTC REMASTERED](https://www.youtube.com/watch?v=4akgpwHAlk8)

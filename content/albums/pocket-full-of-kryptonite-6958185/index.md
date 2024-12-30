@@ -48,14 +48,14 @@ The album's title is a quote from the opening track, "Jimmy Olsen's Blues", a hu
 
 
 ## Videos
-### Spin Doctors - Jimmy Olsen's Blues (New Version)
-{{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}<br>
+### Spin Doctors - Jimmy Olsens Blues New Version
+{{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsens Blues New Version" >}}<br>
 ### More Videos
 
-- [Spin Doctors - Little Miss Can't Be Wrong](https://www.youtube.com/watch?v=cXWbMu4PtpE)
+- [Spin Doctors - Little Miss Cant Be Wrong](https://www.youtube.com/watch?v=cXWbMu4PtpE)
 - [Spin Doctors - Two Princes](https://www.youtube.com/watch?v=wsdy_rct6uo)
-- [Spin Doctors - What Time Is It?](https://www.youtube.com/watch?v=e86omL8uzks)
-- [Spin Doctors - How Could You Want Him (When You Know You Can Have Me)](https://www.youtube.com/watch?v=HOGBcYN1Hu4)
+- [Spin Doctors - What Time Is It](https://www.youtube.com/watch?v=e86omL8uzks)
+- [Spin Doctors - How Could You Want Him When You Know You Can Have Me](https://www.youtube.com/watch?v=HOGBcYN1Hu4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,21 +54,21 @@ Although Roxy Music is an obvious influence—and the atmospheric art-school of 
 
 
 ## Videos
-### Duran Duran - Rio (Official Music Video)
-{{< youtube id="nTizYn3-QN0" title="Duran Duran - Rio (Official Music Video)" >}}<br>
+### Duran Duran - Rio Official Music Video
+{{< youtube id="nTizYn3-QN0" title="Duran Duran - Rio Official Music Video" >}}<br>
 ### More Videos
 
-- [Duran Duran - Hungry like the Wolf (Official Music Video)](https://www.youtube.com/watch?v=oJL-lCzEXgI)
-- [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
-- [Duran Duran - Save A Prayer (Official Music Video)](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
-- [Duran Duran - Lonely In Your Nightmare (Official Music Video)](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
-- [Duran Duran - Night Boat (Official Music Video)](https://www.youtube.com/watch?v=wZ09HcvYQTY)
-- [Duran Duran - Rio (Official Music Video)](https://www.youtube.com/watch?v=nTizYn3-QN0)
-- [Duran Duran - Hungry like the Wolf (Official Music Video)](https://www.youtube.com/watch?v=oJL-lCzEXgI)
-- [Duran Duran - The Chauffeur (Official Music Video)](https://www.youtube.com/watch?v=1B__8N5d_LA)
-- [Duran Duran - Save A Prayer (Official Music Video)](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
-- [Duran Duran - Lonely In Your Nightmare (Official Music Video)](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
-- [Duran Duran - Night Boat (Official Music Video)](https://www.youtube.com/watch?v=wZ09HcvYQTY)
+- [Duran Duran - Hungry like the Wolf Official Music Video](https://www.youtube.com/watch?v=oJL-lCzEXgI)
+- [Duran Duran - The Chauffeur Official Music Video](https://www.youtube.com/watch?v=1B__8N5d_LA)
+- [Duran Duran - Save A Prayer Official Music Video](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
+- [Duran Duran - Lonely In Your Nightmare Official Music Video](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
+- [Duran Duran - Night Boat Official Music Video](https://www.youtube.com/watch?v=wZ09HcvYQTY)
+- [Duran Duran - Rio Official Music Video](https://www.youtube.com/watch?v=nTizYn3-QN0)
+- [Duran Duran - Hungry like the Wolf Official Music Video](https://www.youtube.com/watch?v=oJL-lCzEXgI)
+- [Duran Duran - The Chauffeur Official Music Video](https://www.youtube.com/watch?v=1B__8N5d_LA)
+- [Duran Duran - Save A Prayer Official Music Video](https://www.youtube.com/watch?v=6Uxc9eFcZyM)
+- [Duran Duran - Lonely In Your Nightmare Official Music Video](https://www.youtube.com/watch?v=rGdLNbIc2ZA)
+- [Duran Duran - Night Boat Official Music Video](https://www.youtube.com/watch?v=wZ09HcvYQTY)
 
 ## Release Images
 {{< imageGrid >}}

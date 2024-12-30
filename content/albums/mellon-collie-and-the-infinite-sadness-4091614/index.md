@@ -97,13 +97,13 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 
 
 ## Videos
-### The Smashing Pumpkins - Tonight, Tonight (Official Music Video)
-{{< youtube id="NOG3eus4ZSo" title="The Smashing Pumpkins - Tonight, Tonight (Official Music Video)" >}}<br>
+### The Smashing Pumpkins - Tonight Tonight Official Music Video
+{{< youtube id="NOG3eus4ZSo" title="The Smashing Pumpkins - Tonight Tonight Official Music Video" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins - Bullet with Butterfly Wings (Official Music Video)](https://www.youtube.com/watch?v=8-r-V0uK4u0)
-- [The Smashing Pumpkins - 1979 (Official Music Video)](https://www.youtube.com/watch?v=4aeETEoNfOg)
-- [The Smashing Pumpkins - Thirty-Three (Official Music Video)](https://www.youtube.com/watch?v=AYSbztCCTlA)
+- [The Smashing Pumpkins - Bullet with Butterfly Wings Official Music Video](https://www.youtube.com/watch?v=8-r-V0uK4u0)
+- [The Smashing Pumpkins - 1979 Official Music Video](https://www.youtube.com/watch?v=4aeETEoNfOg)
+- [The Smashing Pumpkins - Thirty-Three Official Music Video](https://www.youtube.com/watch?v=AYSbztCCTlA)
 
 ## Release Images
 {{< imageGrid >}}

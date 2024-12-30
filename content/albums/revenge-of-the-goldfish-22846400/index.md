@@ -45,16 +45,16 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Inspiral Carpets - Generations (Official HD Video)
-{{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations (Official HD Video)" >}}<br>
+### Inspiral Carpets - Generations Official HD Video
+{{< youtube id="rV5U2ZdcOCM" title="Inspiral Carpets - Generations Official HD Video" >}}<br>
 ### More Videos
 
 - [Saviour](https://www.youtube.com/watch?v=T3lwGF-a9ik)
-- [Inspiral Carpets - Bitches Brew (Official HD Video)](https://www.youtube.com/watch?v=pTyqVaAm2AA)
+- [Inspiral Carpets - Bitches Brew Official HD Video](https://www.youtube.com/watch?v=pTyqVaAm2AA)
 - [Smoking Her Clothes](https://www.youtube.com/watch?v=OXlllcOcf1o)
 - [Fire](https://www.youtube.com/watch?v=oPUJp7Oanlc)
 - [Here Comes the Flood](https://www.youtube.com/watch?v=tu6KxO_HR0o)
-- [Inspiral Carpets - Dragging Me Down (Official HD Video)](https://www.youtube.com/watch?v=Nt4SNfcd72s)
+- [Inspiral Carpets - Dragging Me Down Official HD Video](https://www.youtube.com/watch?v=Nt4SNfcd72s)
 - [A Little Disappeared](https://www.youtube.com/watch?v=FS9n52ZZMm0)
 - [Two Worlds Collide](https://www.youtube.com/watch?v=ODLSSIKZYr0)
 - [Mystery](https://www.youtube.com/watch?v=uEqsc5FWuZQ)

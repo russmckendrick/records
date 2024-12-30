@@ -57,18 +57,18 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 
 - [Sing Swan Song](https://www.youtube.com/watch?v=K7Nw0GliYDE)
 - [One More Night](https://www.youtube.com/watch?v=t-AHIoiXUdg)
-- [CAN - Vitamin C (Music video)](https://www.youtube.com/watch?v=JXsd5W8ofDw)
+- [CAN - Vitamin C Music video](https://www.youtube.com/watch?v=JXsd5W8ofDw)
 - [Soup](https://www.youtube.com/watch?v=sLgteuzCVPE)
-- [I'm So Green](https://www.youtube.com/watch?v=tM-wjRSf0rM)
+- [Im So Green](https://www.youtube.com/watch?v=tM-wjRSf0rM)
 - [Spoon](https://www.youtube.com/watch?v=giHf9lkCMQ4)
-- [CAN - Pinch (1972)](https://www.youtube.com/watch?v=L1iyRV_7waE)
+- [CAN - Pinch 1972](https://www.youtube.com/watch?v=L1iyRV_7waE)
 - [Can - Sing Swan Song](https://www.youtube.com/watch?v=3VmM8qRRLwU)
 - [One More Night - Can](https://www.youtube.com/watch?v=MyJzv4AFZXc)
 - [CAN - Vitamin C](https://www.youtube.com/watch?v=9a1NhRbNJ_Y)
 - [Soup](https://www.youtube.com/watch?v=pA4GEWqV0bw)
-- [CAN - I'm So Green](https://www.youtube.com/watch?v=WUVEnXw8zH0)
+- [CAN - Im So Green](https://www.youtube.com/watch?v=WUVEnXw8zH0)
 - [Spoon](https://www.youtube.com/watch?v=DFmdrYMnMiE)
-- [Can: Ege Bamyasi (Full Album)](https://www.youtube.com/watch?v=RrV5bwWrAPc)
+- [Can Ege Bamyasi Full Album](https://www.youtube.com/watch?v=RrV5bwWrAPc)
 
 ## Release Images
 {{< imageGrid >}}

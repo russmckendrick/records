@@ -48,11 +48,11 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 
 
 ## Videos
-### Wilco "Everyone Hides" (Official Video)
-{{< youtube id="P2Gbbd6pVMg" title="Wilco "Everyone Hides" (Official Video)" >}}<br>
+### Wilco Everyone Hides Official Video
+{{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides Official Video" >}}<br>
 ### More Videos
 
-- [Wilco "Everyone Hides" (Official Video)](https://www.youtube.com/watch?v=P2Gbbd6pVMg)
+- [Wilco Everyone Hides Official Video](https://www.youtube.com/watch?v=P2Gbbd6pVMg)
 
 ## Release Images
 {{< imageGrid >}}

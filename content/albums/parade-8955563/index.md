@@ -52,19 +52,19 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Videos
-### Christopher Tracy's Parade
-{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracy's Parade" >}}<br>
+### Christopher Tracys Parade
+{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracys Parade" >}}<br>
 ### More Videos
 
 - [New Position](https://www.youtube.com/watch?v=ruaeusy4aOE)
 - [I Wonder U](https://www.youtube.com/watch?v=ajFBDxdYz0I)
 - [Under the Cherry Moon](https://www.youtube.com/watch?v=XiZMEMJnlW8)
-- [Prince - Girls & Boys (Official Music Video)](https://www.youtube.com/watch?v=gQcKgAsQHzs)
+- [Prince - Girls  Boys Official Music Video](https://www.youtube.com/watch?v=gQcKgAsQHzs)
 - [Life Can Be so Nice](https://www.youtube.com/watch?v=DJzjpLUQb8E)
 - [Venus De Milo](https://www.youtube.com/watch?v=2ZIFV7TRfhU)
-- [Prince - Mountains (Official Music Video)](https://www.youtube.com/watch?v=_WmPeLOLDnA)
-- [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
-- [Prince - Kiss (Official Music Video)](https://www.youtube.com/watch?v=H9tEvfIsDyo)
+- [Prince - Mountains Official Music Video](https://www.youtube.com/watch?v=_WmPeLOLDnA)
+- [Do U Lie](https://www.youtube.com/watch?v=FRaxAVVuqLs)
+- [Prince - Kiss Official Music Video](https://www.youtube.com/watch?v=H9tEvfIsDyo)
 - [Anotherloverholenyohead](https://www.youtube.com/watch?v=kvICKkHe-Pw)
 - [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
 

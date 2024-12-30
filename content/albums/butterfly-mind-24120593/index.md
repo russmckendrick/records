@@ -58,11 +58,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)
-{{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream (OFFICIAL VIDEO)" >}}<br>
+### TIM BOWNESS - Dark Nevada Dream OFFICIAL VIDEO
+{{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [TIM BOWNESS - Glitter Fades (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=3cwUBwOOloE)
+- [TIM BOWNESS - Glitter Fades OFFICIAL VIDEO](https://www.youtube.com/watch?v=3cwUBwOOloE)
 
 ## Release Images
 {{< imageGrid >}}

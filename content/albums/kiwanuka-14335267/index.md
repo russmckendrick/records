@@ -86,20 +86,20 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 
 
 ## Videos
-### Michael Kiwanuka - You Ain't The Problem (Lyric Video)
-{{< youtube id="2yEeF65NnyI" title="Michael Kiwanuka - You Ain't The Problem (Lyric Video)" >}}<br>
+### Michael Kiwanuka - You Aint The Problem Lyric Video
+{{< youtube id="2yEeF65NnyI" title="Michael Kiwanuka - You Aint The Problem Lyric Video" >}}<br>
 ### More Videos
 
 - [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
-- [I've Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
-- [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
-- [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=0PVN31NuYNo)
+- [Ive Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
+- [Piano Joint This Kind Of Love](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
+- [Piano Joint This Kind Of Love](https://www.youtube.com/watch?v=0PVN31NuYNo)
 - [Another Human Being](https://www.youtube.com/watch?v=1j1vgmZAnrA)
 - [Living In Denial](https://www.youtube.com/watch?v=YM5U3h8uITM)
-- [Hero (Intro)](https://www.youtube.com/watch?v=z7eYrvS-OE8)
+- [Hero Intro](https://www.youtube.com/watch?v=z7eYrvS-OE8)
 - [Hard To Say Goodbye](https://www.youtube.com/watch?v=786dl0llF4c)
 - [Final Days](https://www.youtube.com/watch?v=t7egVrhFaFU)
-- [Interlude (Loving The People)](https://www.youtube.com/watch?v=YHPxzrAvWS0)
+- [Interlude Loving The People](https://www.youtube.com/watch?v=YHPxzrAvWS0)
 - [Solid Ground](https://www.youtube.com/watch?v=zO_wmEzfMRY)
 - [Light](https://www.youtube.com/watch?v=RCDsiBLZPnk)
 

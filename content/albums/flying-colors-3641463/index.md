@@ -57,11 +57,11 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 {{< youtube id="uYD8fqfi3So" title="Flying Colors - Blue Ocean" >}}<br>
 ### More Videos
 
-- [Flying Colors: "Shoulda Coulda Woulda" (Official HD Lyrics Video)](https://www.youtube.com/watch?v=LSlW6tWXTgA)
-- [Flying Colors - Kayla (Official Video)](https://www.youtube.com/watch?v=X0wZ1jLi6PU)
+- [Flying Colors Shoulda Coulda Woulda Official HD Lyrics Video](https://www.youtube.com/watch?v=LSlW6tWXTgA)
+- [Flying Colors - Kayla Official Video](https://www.youtube.com/watch?v=X0wZ1jLi6PU)
 - [Flying Colors - The Storm](https://www.youtube.com/watch?v=pnDVfCmlGFA)
-- [Flying Colors: "Forever in a Daze" (Official HD Lyrics Video)](https://www.youtube.com/watch?v=gVMwArreXos)
-- [Flying Colors - Love Is What I'm Waiting For](https://www.youtube.com/watch?v=J6RMZiKBV0Q)
+- [Flying Colors Forever in a Daze Official HD Lyrics Video](https://www.youtube.com/watch?v=gVMwArreXos)
+- [Flying Colors - Love Is What Im Waiting For](https://www.youtube.com/watch?v=J6RMZiKBV0Q)
 - [Eveything Changes - Flying Colors](https://www.youtube.com/watch?v=QWM71rKHGto)
 - [Better Than Walking Away](https://www.youtube.com/watch?v=mfVcg0t3cK4)
 - [Flying Colors - All Falls Down](https://www.youtube.com/watch?v=9SD8zUF_U7c)

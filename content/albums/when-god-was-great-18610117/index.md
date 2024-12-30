@@ -55,8 +55,8 @@ When God Was Great is the eleventh and final studio album by the Boston ska punk
 
 
 ## Videos
-### The Mighty Mighty BossToneS - "I DON'T BELIEVE IN ANYTHING"
-{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - "I DON'T BELIEVE IN ANYTHING"" >}}<br>
+### The Mighty Mighty BossToneS - I DONT BELIEVE IN ANYTHING
+{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DONT BELIEVE IN ANYTHING" >}}<br>
 
 
 ## Release Images

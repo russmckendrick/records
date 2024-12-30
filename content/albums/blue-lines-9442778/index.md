@@ -58,17 +58,17 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 {{< youtube id="PKtTmZnVhhI" title="Massive Attack - Safe From Harm" >}}<br>
 ### More Videos
 
-- [One Love (2012 Mix/Master)](https://www.youtube.com/watch?v=qvkyXiOeq9o)
-- [Blue Lines (2012 Mix/Master)](https://www.youtube.com/watch?v=X-lUnbIKYlo)
-- [Be Thankful For What You've Got (2012 Mix/Master)](https://www.youtube.com/watch?v=um06u9Zg8ww)
-- [Five Man Army (2012 Mix/Master)](https://www.youtube.com/watch?v=JOkykdCdyNY)
-- [Unfinished Sympathy (2012 Mix/Master)](https://www.youtube.com/watch?v=VLRa4nvkTy4)
+- [One Love 2012 MixMaster](https://www.youtube.com/watch?v=qvkyXiOeq9o)
+- [Blue Lines 2012 MixMaster](https://www.youtube.com/watch?v=X-lUnbIKYlo)
+- [Be Thankful For What Youve Got 2012 MixMaster](https://www.youtube.com/watch?v=um06u9Zg8ww)
+- [Five Man Army 2012 MixMaster](https://www.youtube.com/watch?v=JOkykdCdyNY)
+- [Unfinished Sympathy 2012 MixMaster](https://www.youtube.com/watch?v=VLRa4nvkTy4)
 - [Massive Attack - Unfinished Sympathy](https://www.youtube.com/watch?v=ZWmrfgj0MZI)
 - [Massive Attack - Daydreaming](https://www.youtube.com/watch?v=JG9CXQxhfL4)
-- [Daydreaming (2012 Mix/Master)](https://www.youtube.com/watch?v=rT18lMwmt1U)
-- [Lately (2012 Mix/Master)](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
-- [Hymn Of The Big Wheel (2012 Mix/Master)](https://www.youtube.com/watch?v=odHmsIF4IWA)
-- [Safe From Harm (2012 Mix/Master)](https://www.youtube.com/watch?v=YVrMBBR5QW8)
+- [Daydreaming 2012 MixMaster](https://www.youtube.com/watch?v=rT18lMwmt1U)
+- [Lately 2012 MixMaster](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
+- [Hymn Of The Big Wheel 2012 MixMaster](https://www.youtube.com/watch?v=odHmsIF4IWA)
+- [Safe From Harm 2012 MixMaster](https://www.youtube.com/watch?v=YVrMBBR5QW8)
 
 ## Release Images
 {{< imageGrid >}}

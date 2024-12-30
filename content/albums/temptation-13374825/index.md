@@ -37,13 +37,13 @@ Commercially, the album chart entries were concentrated in Europe. Upon release,
 
 
 ## Videos
-### New Order - Temptation (Alternative 7" Mix) [Official Audio]
-{{< youtube id="YETtoWTNhT0" title="New Order - Temptation (Alternative 7" Mix) [Official Audio]" >}}<br>
+### New Order - Temptation Alternative 7 Mix Official Audio
+{{< youtube id="YETtoWTNhT0" title="New Order - Temptation Alternative 7 Mix Official Audio" >}}<br>
 ### More Videos
 
-- [New Order - Hurt [High Quality]](https://www.youtube.com/watch?v=Keevy3NzGKw)
-- [New Order - Temptation (Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=xxDv_RTdLQo)
-- [Temptation (12" Version)](https://www.youtube.com/watch?v=C45ox3iOS6Q)
+- [New Order - Hurt High Quality](https://www.youtube.com/watch?v=Keevy3NzGKw)
+- [New Order - Temptation Official Music Video HD Upgrade](https://www.youtube.com/watch?v=xxDv_RTdLQo)
+- [Temptation 12 Version](https://www.youtube.com/watch?v=C45ox3iOS6Q)
 
 ## Release Images
 {{< imageGrid >}}

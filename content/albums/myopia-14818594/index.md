@@ -49,19 +49,19 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 
 
 ## Videos
-### Agnes Obel - Camera's Rolling (Official Video)
-{{< youtube id="C2fpFeNZwAg" title="Agnes Obel - Camera's Rolling (Official Video)" >}}<br>
+### Agnes Obel - Cameras Rolling Official Video
+{{< youtube id="C2fpFeNZwAg" title="Agnes Obel - Cameras Rolling Official Video" >}}<br>
 ### More Videos
 
-- [Agnes Obel - Broken Sleep (Official Video)](https://www.youtube.com/watch?v=9-b85ngtQO4)
-- [Agnes Obel - Island Of Doom (Official Video)](https://www.youtube.com/watch?v=R0-HVFEjOlE)
+- [Agnes Obel - Broken Sleep Official Video](https://www.youtube.com/watch?v=9-b85ngtQO4)
+- [Agnes Obel - Island Of Doom Official Video](https://www.youtube.com/watch?v=R0-HVFEjOlE)
 - [Roscian](https://www.youtube.com/watch?v=YBK62Gaot7k)
 - [Myopia](https://www.youtube.com/watch?v=Mav1oiRSByc)
 - [Drosera](https://www.youtube.com/watch?v=D3HbohY5F3c)
-- [Can't Be](https://www.youtube.com/watch?v=3NWV_fa9tS0)
+- [Cant Be](https://www.youtube.com/watch?v=3NWV_fa9tS0)
 - [Promise Keeper](https://www.youtube.com/watch?v=2q_zl6X23vM)
 - [Parliament Of Owls](https://www.youtube.com/watch?v=NpwdJMOPbIs)
-- [Won't You Call Me](https://www.youtube.com/watch?v=qNn_o_itlcs)
+- [Wont You Call Me](https://www.youtube.com/watch?v=qNn_o_itlcs)
 
 ## Release Images
 {{< imageGrid >}}

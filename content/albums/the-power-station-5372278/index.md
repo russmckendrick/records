@@ -37,19 +37,19 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Some Like It Hot (2005 Remaster)
-{{< youtube id="rRifNARpNL4" title="Some Like It Hot (2005 Remaster)" >}}<br>
+### Some Like It Hot 2005 Remaster
+{{< youtube id="rRifNARpNL4" title="Some Like It Hot 2005 Remaster" >}}<br>
 ### More Videos
 
-- [Murderess (2005 Remaster)](https://www.youtube.com/watch?v=UAFS6u7xThw)
-- [Lonely Tonight (2005 Remaster)](https://www.youtube.com/watch?v=_k1LvKyk8Jg)
-- [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
-- [Get It On (Bang a Gong) (2005 Remaster)](https://www.youtube.com/watch?v=lp0RYMN3yow)
-- [Go to Zero (2005 Remaster)](https://www.youtube.com/watch?v=63BwZe8MV5Y)
-- [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
-- [Still in Your Heart (2005 Remaster)](https://www.youtube.com/watch?v=KdID52pR7EY)
+- [Murderess 2005 Remaster](https://www.youtube.com/watch?v=UAFS6u7xThw)
+- [Lonely Tonight 2005 Remaster](https://www.youtube.com/watch?v=_k1LvKyk8Jg)
+- [Communication 2005 Remaster](https://www.youtube.com/watch?v=bZtyEIP5_uE)
+- [Get It On Bang a Gong 2005 Remaster](https://www.youtube.com/watch?v=lp0RYMN3yow)
+- [Go to Zero 2005 Remaster](https://www.youtube.com/watch?v=63BwZe8MV5Y)
+- [Harvest for the World 2005 Remaster](https://www.youtube.com/watch?v=08OhoybGUmw)
+- [Still in Your Heart 2005 Remaster](https://www.youtube.com/watch?v=KdID52pR7EY)
 - [The Power Station - Some Like It Hot](https://www.youtube.com/watch?v=Hw1t7OCESUw)
-- [The Power Station - Get It On (Bang A Gong) (Official Music Video)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
+- [The Power Station - Get It On Bang A Gong Official Music Video](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
 ## Release Images
 {{< imageGrid >}}

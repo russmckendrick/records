@@ -53,11 +53,11 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 
 
 ## Videos
-### Easy-star all-stars - Karma police (Radiodread)
-{{< youtube id="edNNvg-NBzY" title="Easy-star all-stars - Karma police (Radiodread)" >}}<br>
+### Easy-star all-stars - Karma police Radiodread
+{{< youtube id="edNNvg-NBzY" title="Easy-star all-stars - Karma police Radiodread" >}}<br>
 ### More Videos
 
-- [Easy Star All Stars - Radiodread (Album Full)](https://www.youtube.com/watch?v=wKIvYmlOS_o)
+- [Easy Star All Stars - Radiodread Album Full](https://www.youtube.com/watch?v=wKIvYmlOS_o)
 - [Easy Star All-Stars - Paranoid Android](https://www.youtube.com/watch?v=kOe7xRQUxa4)
 - [Easystar Allstars - Radiodread - Climbing up the Walls](https://www.youtube.com/watch?v=oA1g7P1D6pk)
 - [Let Down - Easy Star All Stars](https://www.youtube.com/watch?v=HXBamm5XqO8)
@@ -66,13 +66,13 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 - [Easy Star All-Stars - Electioneering](https://www.youtube.com/watch?v=H1CRcwm9IcU)
 - [Easy Star All-Stars - Radiodread - No Surprises](https://www.youtube.com/watch?v=GP4o8CIEyBY)
 - [Easy Star Allstars - Lucky](https://www.youtube.com/watch?v=SLXKbGI8G5s)
-- [Easy Star All Stars - The Tourist (featuring Israel Vibration)](https://www.youtube.com/watch?v=LdnsfrDXhiE)
+- [Easy Star All Stars - The Tourist featuring Israel Vibration](https://www.youtube.com/watch?v=LdnsfrDXhiE)
 - [Easy Star All-Stars - Paranoid Android](https://www.youtube.com/watch?v=kOe7xRQUxa4)
-- [Easy-star all-stars - Karma police (Radiodread)](https://www.youtube.com/watch?v=edNNvg-NBzY)
+- [Easy-star all-stars - Karma police Radiodread](https://www.youtube.com/watch?v=edNNvg-NBzY)
 - [Radiodread - No Surprises](https://www.youtube.com/watch?v=ShEqdWaS50Q)
 - [Radiodread featuring Kirsty Rock-Paranoid Android](https://www.youtube.com/watch?v=N7_s6EpDRVA)
-- [Easy Star All Stars - Radiodread (Album Full)](https://www.youtube.com/watch?v=wKIvYmlOS_o)
-- [Easy Star All-Stars ft Morgan Heritage - "High and Dry"](https://www.youtube.com/watch?v=Zur0gr7tE60)
+- [Easy Star All Stars - Radiodread Album Full](https://www.youtube.com/watch?v=wKIvYmlOS_o)
+- [Easy Star All-Stars ft Morgan Heritage - High and Dry](https://www.youtube.com/watch?v=Zur0gr7tE60)
 
 ## Release Images
 {{< imageGrid >}}

@@ -56,17 +56,17 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 
 
 ## Videos
-### Crowded House - To The Island (Official Video)
-{{< youtube id="-HGjvQxGxNQ" title="Crowded House - To The Island (Official Video)" >}}<br>
+### Crowded House - To The Island Official Video
+{{< youtube id="-HGjvQxGxNQ" title="Crowded House - To The Island Official Video" >}}<br>
 ### More Videos
 
-- [Crowded House - Whatever You Want (Official Video)](https://www.youtube.com/watch?v=ZggTaHMoQYs)
-- [Crowded House - Playing with Fire (Official Video)](https://www.youtube.com/watch?v=HRzk3sWMxAg)
-- [Crowded House - Show Me the Way (Lyric Video)](https://www.youtube.com/watch?v=BVauKkGwdSk)
+- [Crowded House - Whatever You Want Official Video](https://www.youtube.com/watch?v=ZggTaHMoQYs)
+- [Crowded House - Playing with Fire Official Video](https://www.youtube.com/watch?v=HRzk3sWMxAg)
+- [Crowded House - Show Me the Way Lyric Video](https://www.youtube.com/watch?v=BVauKkGwdSk)
 - [Crowded House - To The Island](https://www.youtube.com/watch?v=-HGjvQxGxNQ)
 - [Crowded House - Whatever You Want](https://www.youtube.com/watch?v=ZggTaHMoQYs)
 - [Crowded House - Playing With Fire](https://www.youtube.com/watch?v=HRzk3sWMxAg)
-- [Crowded House - Love Isn’t Hard At All](https://www.youtube.com/watch?v=1EGATVq-tK4)
+- [Crowded House - Love Isnt Hard At All](https://www.youtube.com/watch?v=1EGATVq-tK4)
 
 ## Release Images
 {{< imageGrid >}}

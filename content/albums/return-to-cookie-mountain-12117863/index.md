@@ -57,8 +57,8 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 
 
 ## Videos
-### TV On The Radio - Wolf Like Me (Official Music Video) / Re-upload
-{{< youtube id="6yyNJXpP3EU" title="TV On The Radio - Wolf Like Me (Official Music Video) / Re-upload" >}}<br>
+### TV On The Radio - Wolf Like Me Official Music Video  Re-upload
+{{< youtube id="6yyNJXpP3EU" title="TV On The Radio - Wolf Like Me Official Music Video  Re-upload" >}}<br>
 ### More Videos
 
 - [TV On The Radio  Wolf Like Me](https://www.youtube.com/watch?v=03hC_Ml8aAM)

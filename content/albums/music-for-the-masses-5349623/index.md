@@ -50,13 +50,13 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 
 
 ## Videos
-### Depeche Mode - Behind The Wheel (Official Video)
-{{< youtube id="VEAuMiKqP-4" title="Depeche Mode - Behind The Wheel (Official Video)" >}}<br>
+### Depeche Mode - Behind The Wheel Official Video
+{{< youtube id="VEAuMiKqP-4" title="Depeche Mode - Behind The Wheel Official Video" >}}<br>
 ### More Videos
 
 - [Never Let Me Down Again](https://www.youtube.com/watch?v=xORPrLjiIyQ)
 - [The Things You Said](https://www.youtube.com/watch?v=0r0mjPctuoE)
-- [Depeche Mode - Strangelove (Remastered)](https://www.youtube.com/watch?v=JIrm0dHbCDU)
+- [Depeche Mode - Strangelove Remastered](https://www.youtube.com/watch?v=JIrm0dHbCDU)
 - [Sacred](https://www.youtube.com/watch?v=bWsda-qXUm8)
 - [Little 15](https://www.youtube.com/watch?v=YOoQYOKHUvo)
 - [I Want You Now](https://www.youtube.com/watch?v=IfuD44g-DaI)

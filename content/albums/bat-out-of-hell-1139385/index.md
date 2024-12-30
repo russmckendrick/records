@@ -52,13 +52,13 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 {{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}<br>
 ### More Videos
 
-- [You Took The Words Right Out of My Mouth (Hot Summer Night)](https://www.youtube.com/watch?v=HRZTRTPiIT4)
+- [You Took The Words Right Out of My Mouth Hot Summer Night](https://www.youtube.com/watch?v=HRZTRTPiIT4)
 - [Heaven Can Wait](https://www.youtube.com/watch?v=VJKm0KxQ2L4)
 - [All Revved Up with No Place to Go](https://www.youtube.com/watch?v=eWVmRvq50kQ)
-- [Two Out of Three Ain't Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
+- [Two Out of Three Aint Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
 - [Paradise By the Dashboard Light](https://www.youtube.com/watch?v=a136H5K3OKw)
 - [For Crying Out Loud](https://www.youtube.com/watch?v=8KyHDNQkBSA)
-- [Meat Loaf - Bat Out of Hell (PCM Stereo)](https://www.youtube.com/watch?v=3QGMCSCFoKA)
+- [Meat Loaf - Bat Out of Hell PCM Stereo](https://www.youtube.com/watch?v=3QGMCSCFoKA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -49,16 +49,16 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 
 
 ## Videos
-### YouWouldn'tLikeMeWhenI'mAngry
-{{< youtube id="IQbl8kleYUQ" title="YouWouldn'tLikeMeWhenI'mAngry" >}}<br>
+### YouWouldntLikeMeWhenImAngry
+{{< youtube id="IQbl8kleYUQ" title="YouWouldntLikeMeWhenImAngry" >}}<br>
 ### More Videos
 
 - [A Brain in a Bottle](https://www.youtube.com/watch?v=mgxJlmdvr9A)
-- [Guess Again!](https://www.youtube.com/watch?v=Q_L5aaSH3P4)
+- [Guess Again](https://www.youtube.com/watch?v=Q_L5aaSH3P4)
 - [Interference](https://www.youtube.com/watch?v=jrnK67JPES8)
 - [The Mother Lode](https://www.youtube.com/watch?v=kZo9bY9C-Fw)
 - [Truth Ray](https://www.youtube.com/watch?v=_TZkKx7Rrhc)
-- [There Is No Ice (For My Drink)](https://www.youtube.com/watch?v=4hRQNHVCtwk)
+- [There Is No Ice For My Drink](https://www.youtube.com/watch?v=4hRQNHVCtwk)
 - [Pink Section](https://www.youtube.com/watch?v=KmlywjM3JdI)
 - [Nose Grows Some](https://www.youtube.com/watch?v=pMxcgw1_Ejg)
 

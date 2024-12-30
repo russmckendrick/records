@@ -45,21 +45,21 @@ styles: ["Punk"]
 
 
 ## Videos
-### Neat Neat Neat (2017 - Remaster)
-{{< youtube id="gXKDtkCzSCw" title="Neat Neat Neat (2017 - Remaster)" >}}<br>
+### Neat Neat Neat 2017 - Remaster
+{{< youtube id="gXKDtkCzSCw" title="Neat Neat Neat 2017 - Remaster" >}}<br>
 ### More Videos
 
-- [Fan Club (2017 - Remaster)](https://www.youtube.com/watch?v=eq61uIImbU8)
-- [I Fall (2017 - Remaster)](https://www.youtube.com/watch?v=kQTJ5jqGSpc)
-- [Born to Kill (2017 - Remaster)](https://www.youtube.com/watch?v=sUWfs2Om83g)
-- [Stab Yor Back (2017 - Remaster)](https://www.youtube.com/watch?v=tgfPG--zq1g)
-- [Feel the Pain (2017 - Remaster)](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
+- [Fan Club 2017 - Remaster](https://www.youtube.com/watch?v=eq61uIImbU8)
+- [I Fall 2017 - Remaster](https://www.youtube.com/watch?v=kQTJ5jqGSpc)
+- [Born to Kill 2017 - Remaster](https://www.youtube.com/watch?v=sUWfs2Om83g)
+- [Stab Yor Back 2017 - Remaster](https://www.youtube.com/watch?v=tgfPG--zq1g)
+- [Feel the Pain 2017 - Remaster](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
 - [New Rose](https://www.youtube.com/watch?v=6olrtHmM3kI)
-- [Fish (2017 - Remaster)](https://www.youtube.com/watch?v=TokQhnIFKI0)
-- [See Her Tonite (2017 - Remaster)](https://www.youtube.com/watch?v=tFu0X8vskNM)
-- [1 of the 2 (2017 - Remaster)](https://www.youtube.com/watch?v=UXCDnUShMhg)
-- [So Messed Up (2017 - Remaster)](https://www.youtube.com/watch?v=r2OfzJdOhSc)
-- [I Feel Alright (2017 - Remaster)](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
+- [Fish 2017 - Remaster](https://www.youtube.com/watch?v=TokQhnIFKI0)
+- [See Her Tonite 2017 - Remaster](https://www.youtube.com/watch?v=tFu0X8vskNM)
+- [1 of the 2 2017 - Remaster](https://www.youtube.com/watch?v=UXCDnUShMhg)
+- [So Messed Up 2017 - Remaster](https://www.youtube.com/watch?v=r2OfzJdOhSc)
+- [I Feel Alright 2017 - Remaster](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 
 ## Release Images
 {{< imageGrid >}}

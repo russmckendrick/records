@@ -45,14 +45,14 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 ### More Videos
 
 - [Big Audio Dynamite - Medicine Show](https://www.youtube.com/watch?v=BD2kWCfTcaU)
-- [Big Audio Dynamite - E=MC2](https://www.youtube.com/watch?v=cHTDkJ-bQqM)
+- [Big Audio Dynamite - EMC2](https://www.youtube.com/watch?v=cHTDkJ-bQqM)
 - [A Party](https://www.youtube.com/watch?v=UgqMpWU8gMI)
-- [Sudden Impact!](https://www.youtube.com/watch?v=OrdVzLio6T4)
+- [Sudden Impact](https://www.youtube.com/watch?v=OrdVzLio6T4)
 - [Stone Thames](https://www.youtube.com/watch?v=fD6Qr3O29vM)
 - [Bad](https://www.youtube.com/watch?v=CmIywAI2erw)
-- [The Bottom Line ((12 Inch Remix) [Edit Version])](https://www.youtube.com/watch?v=0Dxd-lp4rlk)
-- [Big Audio Dynamite - This Is Big Audio Dynamite (Full Album)](https://www.youtube.com/watch?v=GUM0B35JL9A)
-- [Big Audio Dynamite - This Is Big Audio Dynamite (Full Album)](https://www.youtube.com/watch?v=GUM0B35JL9A)
+- [The Bottom Line 12 Inch Remix Edit Version](https://www.youtube.com/watch?v=0Dxd-lp4rlk)
+- [Big Audio Dynamite - This Is Big Audio Dynamite Full Album](https://www.youtube.com/watch?v=GUM0B35JL9A)
+- [Big Audio Dynamite - This Is Big Audio Dynamite Full Album](https://www.youtube.com/watch?v=GUM0B35JL9A)
 
 ## Release Images
 {{< imageGrid >}}

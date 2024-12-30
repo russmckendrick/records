@@ -63,9 +63,9 @@ The album was a commercial and critical success, reaching number 2 in the United
 {{< youtube id="xhm-EqcPta0" title="Japan - Quiet Life" >}}<br>
 ### More Videos
 
-- [Visage's 1981 hit "Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
-- [Tears For Fears - Mad World (Official Music Video)](https://www.youtube.com/watch?v=u1ZvPSpLxCg)
-- [Say Hello, Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
+- [Visages 1981 hit Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
+- [Tears For Fears - Mad World Official Music Video](https://www.youtube.com/watch?v=u1ZvPSpLxCg)
+- [Say Hello Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
 - [Simple Minds - Glittering Prize](https://www.youtube.com/watch?v=ucw0twciNGk)
 
 ## Release Images

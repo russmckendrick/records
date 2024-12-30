@@ -71,12 +71,12 @@ styles: ["Cut-up/DJ", "Turntablism"]
 
 
 ## Videos
-### DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)
-{{< youtube id="uxVfxVVk6yM" title="DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)" >}}<br>
+### DJ QBERT  MIX MASTER MIKE  Channel Zektar NAMM2017
+{{< youtube id="uxVfxVVk6yM" title="DJ QBERT  MIX MASTER MIKE  Channel Zektar NAMM2017" >}}<br>
 ### More Videos
 
-- [DJ QBERT & MIX MASTER MIKE | Channel Zektar (NAMM2017)](https://www.youtube.com/watch?v=uxVfxVVk6yM)
-- [Mix Master Mike - Mixmasterpiece: Muzik's Worst Nightmare (1996) - Side A](https://www.youtube.com/watch?v=PtH9zgYXpP4)
+- [DJ QBERT  MIX MASTER MIKE  Channel Zektar NAMM2017](https://www.youtube.com/watch?v=uxVfxVVk6yM)
+- [Mix Master Mike - Mixmasterpiece Muziks Worst Nightmare 1996 - Side A](https://www.youtube.com/watch?v=PtH9zgYXpP4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -54,7 +54,7 @@ Released in 1973, a time of national ennui, Steely Dan’s sophomore album riffs
 
 - [Show Biz Kids](https://www.youtube.com/watch?v=E7XXEO1aADM)
 - [Your Gold Teeth](https://www.youtube.com/watch?v=FVjWdsfM6Og)
-- [My Old School - Steely Dan | The Midnight Special](https://www.youtube.com/watch?v=GCX635Z7_PE)
+- [My Old School - Steely Dan  The Midnight Special](https://www.youtube.com/watch?v=GCX635Z7_PE)
 - [Pearl Of The Quarter](https://www.youtube.com/watch?v=BM9GNRqxxhU)
 
 ## Release Images

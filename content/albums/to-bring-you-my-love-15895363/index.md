@@ -55,10 +55,10 @@ The opening title track sets the swampy, unsettling mood—a dark religious revi
 - [To Bring You My Love](https://www.youtube.com/watch?v=P-O91rE4Fe0)
 - [Meet Ze Monsta](https://www.youtube.com/watch?v=hQNMZshcU6k)
 - [Working For The Man](https://www.youtube.com/watch?v=xuQ0thdv66s)
-- [PJ Harvey - C'mon Billy](https://www.youtube.com/watch?v=pr1j3GfJuR4)
+- [PJ Harvey - Cmon Billy](https://www.youtube.com/watch?v=pr1j3GfJuR4)
 - [Teclo](https://www.youtube.com/watch?v=4qU0IWBAm-s)
 - [Long Snake Moan](https://www.youtube.com/watch?v=mbuvj1k_LIc)
-- [I Think I'm A Mother](https://www.youtube.com/watch?v=d_AVPjUfsJQ)
+- [I Think Im A Mother](https://www.youtube.com/watch?v=d_AVPjUfsJQ)
 - [The Dancer](https://www.youtube.com/watch?v=uV99yrooqjg)
 
 ## Release Images

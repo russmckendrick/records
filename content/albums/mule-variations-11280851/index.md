@@ -55,17 +55,17 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 
 
 ## Videos
-### Tom Waits - "Hold On"
-{{< youtube id="0P5jV4lHHR0" title="Tom Waits - "Hold On"" >}}<br>
+### Tom Waits - Hold On
+{{< youtube id="0P5jV4lHHR0" title="Tom Waits - Hold On" >}}<br>
 ### More Videos
 
-- [Tom Waits - "Get Behind The Mule"](https://www.youtube.com/watch?v=O_v2HChe350)
-- [Tom Waits - "Come On Up To The House"](https://www.youtube.com/watch?v=wFrqclcm8pU)
-- [Tom Waits - "Take It With Me"](https://www.youtube.com/watch?v=dCiPaNWHB2U)
-- [Tom Waits - "Big In Japan"](https://www.youtube.com/watch?v=NM60iVDu79Y)
-- [Tom Waits - "Cold Water"](https://www.youtube.com/watch?v=NvUJtOWnCok)
-- [Tom Waits - "Lowside Of The Road"](https://www.youtube.com/watch?v=JKwXxSfNDEI)
-- [Tom Waits - "Hold On"](https://www.youtube.com/watch?v=3mSAfYomtr4)
+- [Tom Waits - Get Behind The Mule](https://www.youtube.com/watch?v=O_v2HChe350)
+- [Tom Waits - Come On Up To The House](https://www.youtube.com/watch?v=wFrqclcm8pU)
+- [Tom Waits - Take It With Me](https://www.youtube.com/watch?v=dCiPaNWHB2U)
+- [Tom Waits - Big In Japan](https://www.youtube.com/watch?v=NM60iVDu79Y)
+- [Tom Waits - Cold Water](https://www.youtube.com/watch?v=NvUJtOWnCok)
+- [Tom Waits - Lowside Of The Road](https://www.youtube.com/watch?v=JKwXxSfNDEI)
+- [Tom Waits - Hold On](https://www.youtube.com/watch?v=3mSAfYomtr4)
 
 ## Release Images
 {{< imageGrid >}}

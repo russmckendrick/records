@@ -37,8 +37,8 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Suede - What I'm Trying To Tell You
-{{< youtube id="so7PZl_1vOM" title="Suede - What I'm Trying To Tell You" >}}<br>
+### Suede - What Im Trying To Tell You
+{{< youtube id="so7PZl_1vOM" title="Suede - What Im Trying To Tell You" >}}<br>
 ### More Videos
 
 - [Suede - Like Kids](https://www.youtube.com/watch?v=q3pVPrfOc2g)

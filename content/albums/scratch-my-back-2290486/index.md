@@ -56,10 +56,10 @@ Scratch My Back was initially released on compact disc and as music download; a 
 - [Listening Wind](https://www.youtube.com/watch?v=bvyu1E-1hCg)
 - [The Power Of The Heart](https://www.youtube.com/watch?v=ArK62jJAM1g)
 - [My Body Is A Cage](https://www.youtube.com/watch?v=zbpZFvrerHM)
-- [The Book Of Love (Remix)](https://www.youtube.com/watch?v=XZLZMUB7bYA)
-- [I Think It's Going To Rain Today](https://www.youtube.com/watch?v=TBjHQ4tcH7Q)
+- [The Book Of Love Remix](https://www.youtube.com/watch?v=XZLZMUB7bYA)
+- [I Think Its Going To Rain Today](https://www.youtube.com/watch?v=TBjHQ4tcH7Q)
 - [Apres Moi](https://www.youtube.com/watch?v=BDiit_-LzvA)
-- [Street Spirit (Fade Out)](https://www.youtube.com/watch?v=AiZ3PWGA3uw)
+- [Street Spirit Fade Out](https://www.youtube.com/watch?v=AiZ3PWGA3uw)
 
 ## Release Images
 {{< imageGrid >}}

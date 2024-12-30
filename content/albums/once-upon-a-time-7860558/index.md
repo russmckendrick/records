@@ -42,13 +42,13 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 
 
 ## Videos
-### Simple Minds Alive and Kicking.
-{{< youtube id="EK08XU4VaLQ" title="Simple Minds Alive and Kicking." >}}<br>
+### Simple Minds Alive and Kicking
+{{< youtube id="EK08XU4VaLQ" title="Simple Minds Alive and Kicking" >}}<br>
 ### More Videos
 
-- [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
-- [Simple Minds - Alive And Kicking (HD/lyrics)](https://www.youtube.com/watch?v=4MsV45E-P-E)
-- [Simple Minds - Alive & Kicking (1985 LP Version) HQ](https://www.youtube.com/watch?v=WEvHl3SU6U0)
+- [Simple Minds -- Sanctify Yourself 1985](https://www.youtube.com/watch?v=yAZlws4jB6w)
+- [Simple Minds - Alive And Kicking HDlyrics](https://www.youtube.com/watch?v=4MsV45E-P-E)
+- [Simple Minds - Alive  Kicking 1985 LP Version HQ](https://www.youtube.com/watch?v=WEvHl3SU6U0)
 - [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
 - [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
 - [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)

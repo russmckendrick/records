@@ -56,8 +56,8 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 {{< youtube id="azmTbQsE6kk" title="Peter Gabriel 4 - Security - full album - 1982" >}}<br>
 ### More Videos
 
-- [Peter Gabriel on The South Bank Show 1982 (Making of Security/ PG4)](https://www.youtube.com/watch?v=scmYG1Pv1_Q)
-- [Shock The Monkey | Peter Gabriel | Security | 1982 Geffen LP](https://www.youtube.com/watch?v=Nro3Egv3evM)
+- [Peter Gabriel on The South Bank Show 1982 Making of Security PG4](https://www.youtube.com/watch?v=scmYG1Pv1_Q)
+- [Shock The Monkey  Peter Gabriel  Security  1982 Geffen LP](https://www.youtube.com/watch?v=Nro3Egv3evM)
 
 ## Release Images
 {{< imageGrid >}}

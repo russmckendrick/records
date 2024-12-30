@@ -49,21 +49,21 @@ The Best of OMD was named by The Quietus and Classic Pop as one of the best comp
 
 
 ## Videos
-### Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)
-{{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)" >}}<br>
+### Orchestral Manoeuvres In The Dark - If You Leave 1 Hour
+{{< youtube id="BAnOXcp6h8Y" title="Orchestral Manoeuvres In The Dark - If You Leave 1 Hour" >}}<br>
 ### More Videos
 
-- [Orchestral Manoeuvres In The Dark - If You Leave (1 Hour)](https://www.youtube.com/watch?v=BAnOXcp6h8Y)
+- [Orchestral Manoeuvres In The Dark - If You Leave 1 Hour](https://www.youtube.com/watch?v=BAnOXcp6h8Y)
 - [Orchestral Manoeuvres In The Dark - Maid Of Orleans](https://www.youtube.com/watch?v=vmwMhjbThKg)
 - [Orchestral Manoeuvres In The Dark - Enola Gay](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
 - [Orchestral Manoeuvres In The Dark - Electricity](https://www.youtube.com/watch?v=Y43XLVqjytQ)
 - [Orchestral Manoeuvres In The Dark - Souvenir](https://www.youtube.com/watch?v=XDIYOiQUi2s)
 - [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)
 - [Orchestral Manoeuvres In The Dark - Messages](https://www.youtube.com/watch?v=WXvlzUCB74o)
-- [Orchestral Manoeuvres In The Dark - (Forever) Live And Die](https://www.youtube.com/watch?v=moFiaQPCl04)
+- [Orchestral Manoeuvres In The Dark - Forever Live And Die](https://www.youtube.com/watch?v=moFiaQPCl04)
 - [Joan Of Arc](https://www.youtube.com/watch?v=UPmJDMmVACI)
 - [Orchestral Manoeuvres In The Dark - So In Love](https://www.youtube.com/watch?v=mD8TApX3btM)
-- [Joan Of Arc (Maid Of Orleans)](https://www.youtube.com/watch?v=8M_tBfHido0)
+- [Joan Of Arc Maid Of Orleans](https://www.youtube.com/watch?v=8M_tBfHido0)
 - [Enola Gay](https://www.youtube.com/watch?v=dJ7JtLY8jIE)
 - [Orchestral Manoeuvres In The Dark - The Best Of OMD - 432Hz - Forever Live And Die](https://www.youtube.com/watch?v=4JQidm56__k)
 - [Electricity](https://www.youtube.com/watch?v=xjsgkrRulOs)

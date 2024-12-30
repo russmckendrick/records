@@ -59,19 +59,19 @@ Nearly 20 years into the band's career, The National have reached a status attai
 
 
 ## Videos
-### The National - 'The System Only Dreams in Total Darkness'
-{{< youtube id="2O6duDDkhis" title="The National - 'The System Only Dreams in Total Darkness'" >}}<br>
+### The National - The System Only Dreams in Total Darkness
+{{< youtube id="2O6duDDkhis" title="The National - The System Only Dreams in Total Darkness" >}}<br>
 ### More Videos
 
-- [The National - 'Day I Die'](https://www.youtube.com/watch?v=GwZvip416NU)
-- [The National - 'Walk It Back'](https://www.youtube.com/watch?v=xnZA52oTp6M)
-- [The National - 'Sleep Well Beast'](https://www.youtube.com/watch?v=kwraJAssyuE)
+- [The National - Day I Die](https://www.youtube.com/watch?v=GwZvip416NU)
+- [The National - Walk It Back](https://www.youtube.com/watch?v=xnZA52oTp6M)
+- [The National - Sleep Well Beast](https://www.youtube.com/watch?v=kwraJAssyuE)
 - [Nobody Else Will Be There](https://www.youtube.com/watch?v=jUFhgORw4T4)
-- [The National - 'Sleep Well Beast'](https://www.youtube.com/watch?v=kwraJAssyuE)
-- [The National - 'Carin at the Liquor Store'](https://www.youtube.com/watch?v=eEe_yCVLQSc)
-- [The National - 'Guilty Party'](https://www.youtube.com/watch?v=71xmrULJ-ms)
-- [The National - 'I'll Still Destroy You'](https://www.youtube.com/watch?v=gPp-3QSXf1g)
-- [The National - 'Dark Side of the Gym'](https://www.youtube.com/watch?v=4ICyy1V6n4c)
+- [The National - Sleep Well Beast](https://www.youtube.com/watch?v=kwraJAssyuE)
+- [The National - Carin at the Liquor Store](https://www.youtube.com/watch?v=eEe_yCVLQSc)
+- [The National - Guilty Party](https://www.youtube.com/watch?v=71xmrULJ-ms)
+- [The National - Ill Still Destroy You](https://www.youtube.com/watch?v=gPp-3QSXf1g)
+- [The National - Dark Side of the Gym](https://www.youtube.com/watch?v=4ICyy1V6n4c)
 
 ## Release Images
 {{< imageGrid >}}

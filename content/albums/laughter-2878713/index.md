@@ -46,19 +46,19 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 
 
 ## Videos
-### Ian Dury and The Blockheads -  Sueperman's Big Sister [Official Video]
-{{< youtube id="ITuRemn3naI" title="Ian Dury and The Blockheads -  Sueperman's Big Sister [Official Video]" >}}<br>
+### Ian Dury and The Blockheads -  Suepermans Big Sister Official Video
+{{< youtube id="ITuRemn3naI" title="Ian Dury and The Blockheads -  Suepermans Big Sister Official Video" >}}<br>
 ### More Videos
 
 - [Pardon](https://www.youtube.com/watch?v=SGTtf7LHjpc)
 - [Delusions of Grandeur](https://www.youtube.com/watch?v=kAsVTjeFbmo)
-- [Yes and No (Paula)](https://www.youtube.com/watch?v=sgNEx9A2n5E)
+- [Yes and No Paula](https://www.youtube.com/watch?v=sgNEx9A2n5E)
 - [Dance of the Crackpots](https://www.youtube.com/watch?v=XVfy37BALlk)
 - [Over the Points](https://www.youtube.com/watch?v=GktrZs1hr-Y)
-- [[Take Your Elbow out the Soup] You're Sitting on the Chicken](https://www.youtube.com/watch?v=3K9bibEhGfY)
+- [Take Your Elbow out the Soup Youre Sitting on the Chicken](https://www.youtube.com/watch?v=3K9bibEhGfY)
 - [Uncoolohol](https://www.youtube.com/watch?v=bHIvP-YAqAE)
-- [Hey, Hey Take Me Away](https://www.youtube.com/watch?v=dX68r3Ie9HA)
-- [Manic Depression (Jimi)](https://www.youtube.com/watch?v=UjsfjUhhPto)
+- [Hey Hey Take Me Away](https://www.youtube.com/watch?v=dX68r3Ie9HA)
+- [Manic Depression Jimi](https://www.youtube.com/watch?v=UjsfjUhhPto)
 - [Oh Mr Peanut](https://www.youtube.com/watch?v=DdJ8MIlPxak)
 
 ## Release Images

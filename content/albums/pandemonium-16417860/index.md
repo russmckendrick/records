@@ -53,8 +53,8 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 
 
 ## Videos
-### K̲i̲l̲l̲i̲n̲g̲ ̲J̲o̲k̲e̲ ̲-̲ ̲P̲a̲n̲d̲e̲m̲o̲n̲i̲u̲m̲
-{{< youtube id="zfBMScS05kU" title="K̲i̲l̲l̲i̲n̲g̲ ̲J̲o̲k̲e̲ ̲-̲ ̲P̲a̲n̲d̲e̲m̲o̲n̲i̲u̲m̲" >}}<br>
+### Killing Joke - Pandemonium
+{{< youtube id="zfBMScS05kU" title="Killing Joke - Pandemonium" >}}<br>
 ### More Videos
 
 - [killing joke - pandemonium](https://www.youtube.com/watch?v=LL_U5GSUBpw)

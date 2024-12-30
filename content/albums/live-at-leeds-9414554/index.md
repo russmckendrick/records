@@ -83,31 +83,31 @@ The Who were looking for a way to follow up their 1969 album Tommy, and had reco
 
 
 ## Videos
-### The Who - Won't Get Fooled Again (Shepperton Studios / 1978)
-{{< youtube id="UDfAdHBtK_Q" title="The Who - Won't Get Fooled Again (Shepperton Studios / 1978)" >}}<br>
+### The Who - Wont Get Fooled Again Shepperton Studios  1978
+{{< youtube id="UDfAdHBtK_Q" title="The Who - Wont Get Fooled Again Shepperton Studios  1978" >}}<br>
 ### More Videos
 
-- [The Who - Baba O'riley (live Keith Moon)](https://www.youtube.com/watch?v=SCNeVHv3Mlg)
-- [The Who - Pinball Wizard (Live at the Isle of Wight, 1970)](https://www.youtube.com/watch?v=-J03yCE15rg)
-- [The Who - Live at Leeds - (1970) - Full album](https://www.youtube.com/watch?v=GDkNHlTJb18)
+- [The Who - Baba Oriley live Keith Moon](https://www.youtube.com/watch?v=SCNeVHv3Mlg)
+- [The Who - Pinball Wizard Live at the Isle of Wight 1970](https://www.youtube.com/watch?v=-J03yCE15rg)
+- [The Who - Live at Leeds - 1970 - Full album](https://www.youtube.com/watch?v=GDkNHlTJb18)
 - [The Who - Magic Bus - Live At Leeds HQ](https://www.youtube.com/watch?v=TmfQQC1bsf4)
-- [The Who live at the Isle of Wight (1970) Full Concert (high quality)](https://www.youtube.com/watch?v=CNtA2Au1u9g)
-- [The Who - Live At Leeds (Full Vinyl Album)](https://www.youtube.com/watch?v=Lxy764MbIAc)
+- [The Who live at the Isle of Wight 1970 Full Concert high quality](https://www.youtube.com/watch?v=CNtA2Au1u9g)
+- [The Who - Live At Leeds Full Vinyl Album](https://www.youtube.com/watch?v=Lxy764MbIAc)
 - [The Who - Young Man Blues - HD](https://www.youtube.com/watch?v=GWRmsoBXAUw)
-- [James - Fred Astaire, live at Leeds Arena, June 2024](https://www.youtube.com/watch?v=ukUCxynZzOU)
-- [Live at Leeds - The Who (Full Album Vinyl Rip) 1970](https://www.youtube.com/watch?v=4MmguY2Cwzk)
-- [Classical Composer Reacts to THE WHO: LIVE AT LEEDS (Side 1) | The Daily Doug (Episode 789)](https://www.youtube.com/watch?v=Gf4oXquW_ls)
+- [James - Fred Astaire live at Leeds Arena June 2024](https://www.youtube.com/watch?v=ukUCxynZzOU)
+- [Live at Leeds - The Who Full Album Vinyl Rip 1970](https://www.youtube.com/watch?v=4MmguY2Cwzk)
+- [Classical Composer Reacts to THE WHO LIVE AT LEEDS Side 1  The Daily Doug Episode 789](https://www.youtube.com/watch?v=Gf4oXquW_ls)
 - [The Who   Live At Leeds 1970](https://www.youtube.com/watch?v=iFg04glIkAI)
-- [The Who Young Man Blues (Live At Leeds)](https://www.youtube.com/watch?v=lgR4SDxBJAo)
-- [The Who - My Generation, Live at Woodstock](https://www.youtube.com/watch?v=gJecJ5SI5W0)
-- [My Generation (Live at Leeds version) - The Who](https://www.youtube.com/watch?v=EzK02LDkpIc)
-- [Young Man Blues (Live)](https://www.youtube.com/watch?v=Dkv_Aa45-dc)
+- [The Who Young Man Blues Live At Leeds](https://www.youtube.com/watch?v=lgR4SDxBJAo)
+- [The Who - My Generation Live at Woodstock](https://www.youtube.com/watch?v=gJecJ5SI5W0)
+- [My Generation Live at Leeds version - The Who](https://www.youtube.com/watch?v=EzK02LDkpIc)
+- [Young Man Blues Live](https://www.youtube.com/watch?v=Dkv_Aa45-dc)
 - [The Who - See Me Feel Me Listening To You - Isle of Wight 1970](https://www.youtube.com/watch?v=h6qb_voOxHw)
-- [The Who - Won't Get Fooled Again (Live at Kilburn 1977)](https://www.youtube.com/watch?v=WX_96uKZ7yQ)
+- [The Who - Wont Get Fooled Again Live at Kilburn 1977](https://www.youtube.com/watch?v=WX_96uKZ7yQ)
 - [The Who - Magic Bus - Live at Leeds](https://www.youtube.com/watch?v=1NoSEjBGTLQ)
-- [Summertime Blues (40th Anniversary Version - Live At Leeds)](https://www.youtube.com/watch?v=ovHs-psC9F4)
-- [Heaven And Hell (Live)](https://www.youtube.com/watch?v=iScVhikO7sI)
-- [The Who Live at Leeds 1970: Jam/Sparks/Driving Four](https://www.youtube.com/watch?v=uDDNXJJAgpQ)
+- [Summertime Blues 40th Anniversary Version - Live At Leeds](https://www.youtube.com/watch?v=ovHs-psC9F4)
+- [Heaven And Hell Live](https://www.youtube.com/watch?v=iScVhikO7sI)
+- [The Who Live at Leeds 1970 JamSparksDriving Four](https://www.youtube.com/watch?v=uDDNXJJAgpQ)
 
 ## Release Images
 {{< imageGrid >}}

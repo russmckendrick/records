@@ -55,8 +55,8 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 
 - [Valerie June - The Front Door](https://www.youtube.com/watch?v=OT7jlvXIaSw)
 - [Valerie June - Long Lonely Road](https://www.youtube.com/watch?v=ntc8jL9VDmQ)
-- [Valerie June -  "Astral Plane"](https://www.youtube.com/watch?v=rN35g4eLQgg)
-- [Valerie June - Got Soul (Radio Edit)](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
+- [Valerie June -  Astral Plane](https://www.youtube.com/watch?v=rN35g4eLQgg)
+- [Valerie June - Got Soul Radio Edit](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
 - [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)
 
 ## Release Images

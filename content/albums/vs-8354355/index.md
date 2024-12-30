@@ -51,11 +51,11 @@ But the band were branching out into new directions, too. The syncopated grooves
 
 
 ## Videos
-### Pearl Jam - Daughter (Official Video)
-{{< youtube id="zgUwd2Gkb-E" title="Pearl Jam - Daughter (Official Video)" >}}<br>
+### Pearl Jam - Daughter Official Video
+{{< youtube id="zgUwd2Gkb-E" title="Pearl Jam - Daughter Official Video" >}}<br>
 ### More Videos
 
-- [Pearl Jam - Go (Official Visualizer)](https://www.youtube.com/watch?v=4tWpXmw7Ju8)
+- [Pearl Jam - Go Official Visualizer](https://www.youtube.com/watch?v=4tWpXmw7Ju8)
 
 ## Release Images
 {{< imageGrid >}}

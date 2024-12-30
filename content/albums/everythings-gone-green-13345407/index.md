@@ -38,11 +38,11 @@ As usual per New Order and Joy Division's releases, the recording date and locat
 
 
 ## Videos
-### New Order - Everything's Gone Green (Official Lyric Video)
-{{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}<br>
+### New Order - Everythings Gone Green Official Lyric Video
+{{< youtube id="Aaf-eqg8dvo" title="New Order - Everythings Gone Green Official Lyric Video" >}}<br>
 ### More Videos
 
-- [Mesh (2023 Digital Master)](https://www.youtube.com/watch?v=orWkj0KUJdY)
+- [Mesh 2023 Digital Master](https://www.youtube.com/watch?v=orWkj0KUJdY)
 - [New Order -- Cries and Whispers](https://www.youtube.com/watch?v=0NZfjbht79M)
 
 ## Release Images

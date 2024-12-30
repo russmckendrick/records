@@ -48,17 +48,17 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 
 
 ## Videos
-### Cold & Bored
-{{< youtube id="C4JleBKtTSg" title="Cold & Bored" >}}<br>
+### Cold  Bored
+{{< youtube id="C4JleBKtTSg" title="Cold  Bored" >}}<br>
 ### More Videos
 
 - [Hotel Daedalus](https://www.youtube.com/watch?v=aB9wiIIRJEA)
 - [The Rapture](https://www.youtube.com/watch?v=PrsO_UWXbYI)
 - [Sentinels](https://www.youtube.com/watch?v=WVYEkVCS5uc)
 - [Dank State](https://www.youtube.com/watch?v=NUqk-KB_8DE)
-- [Loch Meaninglessness & the Mull of Dull](https://www.youtube.com/watch?v=ZitcDvtSzAY)
+- [Loch Meaninglessness  the Mull of Dull](https://www.youtube.com/watch?v=ZitcDvtSzAY)
 - [Scaredcrow](https://www.youtube.com/watch?v=T0tbetsI-X4)
-- [Real Again (Norway Shrugs And Stays At Home)](https://www.youtube.com/watch?v=kXLYgcrKHUA)
+- [Real Again Norway Shrugs And Stays At Home](https://www.youtube.com/watch?v=kXLYgcrKHUA)
 
 ## Release Images
 {{< imageGrid >}}

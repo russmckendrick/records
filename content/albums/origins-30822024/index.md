@@ -35,11 +35,11 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Nordic Giants - Through A Lens Darkly - Re-Recorded / Re-Mastered 2024 (From 'Origins')
-{{< youtube id="1SlSRi7nR2M" title="Nordic Giants - Through A Lens Darkly - Re-Recorded / Re-Mastered 2024 (From 'Origins')" >}}<br>
+### Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins
+{{< youtube id="1SlSRi7nR2M" title="Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins" >}}<br>
 ### More Videos
 
-- [Nordic Giants - Through A Lens Darkly - Re-Recorded / Re-Mastered 2024 (From 'Origins')](https://www.youtube.com/watch?v=1SlSRi7nR2M)
+- [Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins](https://www.youtube.com/watch?v=1SlSRi7nR2M)
 
 ## Release Images
 {{< imageGrid >}}

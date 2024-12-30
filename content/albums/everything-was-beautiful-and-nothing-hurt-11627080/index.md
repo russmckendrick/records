@@ -53,15 +53,15 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 
 
 ## Videos
-### Moby - Mere Anarchy (Official Video)
-{{< youtube id="BZcBjjfR-10" title="Moby - Mere Anarchy (Official Video)" >}}<br>
+### Moby - Mere Anarchy Official Video
+{{< youtube id="BZcBjjfR-10" title="Moby - Mere Anarchy Official Video" >}}<br>
 ### More Videos
 
-- [Moby - The Waste Of Suns (Official Audio)](https://www.youtube.com/watch?v=2IE38IloCJY)
-- [Moby - Like A Motherless Child (Official Video)](https://www.youtube.com/watch?v=xp0m08eOD5U)
-- [Moby - The Last Of Goodbyes (Official Audio)](https://www.youtube.com/watch?v=Df1S_WTG350)
-- [Moby - The Ceremony Of Innocence (Official Audio)](https://www.youtube.com/watch?v=P0w7rqtR4oQ)
-- [Moby - The Tired And The Hurt (Official Audio)](https://www.youtube.com/watch?v=UbditKR-BbU)
+- [Moby - The Waste Of Suns Official Audio](https://www.youtube.com/watch?v=2IE38IloCJY)
+- [Moby - Like A Motherless Child Official Video](https://www.youtube.com/watch?v=xp0m08eOD5U)
+- [Moby - The Last Of Goodbyes Official Audio](https://www.youtube.com/watch?v=Df1S_WTG350)
+- [Moby - The Ceremony Of Innocence Official Audio](https://www.youtube.com/watch?v=P0w7rqtR4oQ)
+- [Moby - The Tired And The Hurt Official Audio](https://www.youtube.com/watch?v=UbditKR-BbU)
 
 ## Release Images
 {{< imageGrid >}}

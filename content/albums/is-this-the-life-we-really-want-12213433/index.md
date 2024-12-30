@@ -56,19 +56,19 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Videos
-### Roger Waters - Smell the Roses (Audio)
-{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses (Audio)" >}}<br>
+### Roger Waters - Smell the Roses Audio
+{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses Audio" >}}<br>
 ### More Videos
 
 - [When We Were Young](https://www.youtube.com/watch?v=wqZ0HKbCNfE)
-- [Roger Waters - Déjà Vu (Audio)](https://www.youtube.com/watch?v=gf7kMaurLZk)
+- [Roger Waters - Déjà Vu Audio](https://www.youtube.com/watch?v=gf7kMaurLZk)
 - [Roger Waters - The Last Refugee](https://www.youtube.com/watch?v=_XdLNqWYgGI)
 - [Picture That](https://www.youtube.com/watch?v=YIiRMgF29eo)
 - [Broken Bones](https://www.youtube.com/watch?v=4svv0lvizXQ)
-- [Is This the Life We Really Want?](https://www.youtube.com/watch?v=Htjj7NJiNBA)
+- [Is This the Life We Really Want](https://www.youtube.com/watch?v=Htjj7NJiNBA)
 - [Bird In A Gale](https://www.youtube.com/watch?v=BQxx9R8l6ZY)
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
-- [Roger Waters - Wait for Her (Video)](https://www.youtube.com/watch?v=iSl1kmQMG2E)
+- [Roger Waters - Wait for Her Video](https://www.youtube.com/watch?v=iSl1kmQMG2E)
 - [Oceans Apart](https://www.youtube.com/watch?v=1o7j98l6FZc)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 

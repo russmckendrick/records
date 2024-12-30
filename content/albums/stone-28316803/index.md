@@ -45,18 +45,18 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 
 
 ## Videos
-### BARONESS - Last Word [Official Music Video]
-{{< youtube id="T7vROjNY9Gk" title="BARONESS - Last Word [Official Music Video]" >}}<br>
+### BARONESS - Last Word Official Music Video
+{{< youtube id="T7vROjNY9Gk" title="BARONESS - Last Word Official Music Video" >}}<br>
 ### More Videos
 
-- [BARONESS - Shine [Official Video]](https://www.youtube.com/watch?v=cyLeRJigL4A)
-- [BARONESS - Beneath the Rose [Official Music Video]](https://www.youtube.com/watch?v=TxBGFgqOvaU)
-- [BARONESS - Shine [Official Audio]](https://www.youtube.com/watch?v=J3xINx9abE8)
-- [BARONESS - Bloom [Official Audio]](https://www.youtube.com/watch?v=6zl0TtDd6Cc)
-- [BARONESS - Magnolia [Official Audio]](https://www.youtube.com/watch?v=7u0KIe28iog)
-- [BARONESS - Choir [Official Audio]](https://www.youtube.com/watch?v=7su4GI5vUf4)
-- [BARONESS - Under The Wheel [Official Audio]](https://www.youtube.com/watch?v=tMh7QSISKsE)
-- [BARONESS - The Dirge [Official Audio]](https://www.youtube.com/watch?v=YgYPyvCa3ps)
+- [BARONESS - Shine Official Video](https://www.youtube.com/watch?v=cyLeRJigL4A)
+- [BARONESS - Beneath the Rose Official Music Video](https://www.youtube.com/watch?v=TxBGFgqOvaU)
+- [BARONESS - Shine Official Audio](https://www.youtube.com/watch?v=J3xINx9abE8)
+- [BARONESS - Bloom Official Audio](https://www.youtube.com/watch?v=6zl0TtDd6Cc)
+- [BARONESS - Magnolia Official Audio](https://www.youtube.com/watch?v=7u0KIe28iog)
+- [BARONESS - Choir Official Audio](https://www.youtube.com/watch?v=7su4GI5vUf4)
+- [BARONESS - Under The Wheel Official Audio](https://www.youtube.com/watch?v=tMh7QSISKsE)
+- [BARONESS - The Dirge Official Audio](https://www.youtube.com/watch?v=YgYPyvCa3ps)
 
 ## Release Images
 {{< imageGrid >}}

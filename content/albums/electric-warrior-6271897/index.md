@@ -49,17 +49,17 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 
 
 ## Videos
-### T. Rex - Bang a Gong (Get It On) (Official Audio)
-{{< youtube id="FyzWDl0nz00" title="T. Rex - Bang a Gong (Get It On) (Official Audio)" >}}<br>
+### T Rex - Bang a Gong Get It On Official Audio
+{{< youtube id="FyzWDl0nz00" title="T Rex - Bang a Gong Get It On Official Audio" >}}<br>
 ### More Videos
 
 - [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
-- [Cosmic Dancer (2003 Remaster)](https://www.youtube.com/watch?v=UAv1qZnYAwY)
-- [Mambo Sun (2003 Remaster)](https://www.youtube.com/watch?v=bPkc5-2McG0)
-- [Planet Queen (2003 Remaster)](https://www.youtube.com/watch?v=Q48jqaJWToc)
+- [Cosmic Dancer 2003 Remaster](https://www.youtube.com/watch?v=UAv1qZnYAwY)
+- [Mambo Sun 2003 Remaster](https://www.youtube.com/watch?v=bPkc5-2McG0)
+- [Planet Queen 2003 Remaster](https://www.youtube.com/watch?v=Q48jqaJWToc)
 - [Rip Off](https://www.youtube.com/watch?v=U1pG-23Jvuw)
-- [The Motivator (2003 Remaster)](https://www.youtube.com/watch?v=j8HPwDIEinM)
-- [Life's a Gas (2003 Remaster)](https://www.youtube.com/watch?v=Nn6A5guR7bg)
+- [The Motivator 2003 Remaster](https://www.youtube.com/watch?v=j8HPwDIEinM)
+- [Lifes a Gas 2003 Remaster](https://www.youtube.com/watch?v=Nn6A5guR7bg)
 
 ## Release Images
 {{< imageGrid >}}

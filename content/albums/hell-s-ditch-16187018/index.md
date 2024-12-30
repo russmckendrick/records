@@ -47,13 +47,13 @@ Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990
 
 
 ## Videos
-### The Pogues - Hell's Ditch
-{{< youtube id="jBAgkmy2vrg" title="The Pogues - Hell's Ditch" >}}<br>
+### The Pogues - Hells Ditch
+{{< youtube id="jBAgkmy2vrg" title="The Pogues - Hells Ditch" >}}<br>
 ### More Videos
 
-- [Hell's Ditch](https://www.youtube.com/watch?v=9bmqL0g1M0I)
+- [Hells Ditch](https://www.youtube.com/watch?v=9bmqL0g1M0I)
 - [The Sunnyside of the Street](https://www.youtube.com/watch?v=PFarc3yjSC8)
-- [Lorca's Novena](https://www.youtube.com/watch?v=pdgJLtjTbFI)
+- [Lorcas Novena](https://www.youtube.com/watch?v=pdgJLtjTbFI)
 - [Sayonara](https://www.youtube.com/watch?v=bB1-0vysais)
 - [Infinity](https://www.youtube.com/watch?v=OQrNFvuTjW4)
 - [The Ghost of a Smile](https://www.youtube.com/watch?v=qK2L3uIgHkw)
@@ -61,8 +61,8 @@ Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990
 - [Six to Go](https://www.youtube.com/watch?v=j7pLeAGsFCs)
 - [House of the Gods](https://www.youtube.com/watch?v=lwVnHE8NniU)
 - [The Pogues - Sayonara](https://www.youtube.com/watch?v=r3bw1pdW5fU)
-- [The Pogues ~ Hell's Ditch](https://www.youtube.com/watch?v=wn1yVnkYXnY)
-- [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
+- [The Pogues  Hells Ditch](https://www.youtube.com/watch?v=wn1yVnkYXnY)
+- [The Pogues- sayonaraLyrics](https://www.youtube.com/watch?v=5PsERlOwYsw)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=66quTi26YLY)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 

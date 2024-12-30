@@ -40,21 +40,21 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Scritti Politti Mega mix (Cupid and Psyche 85)
-{{< youtube id="REpOt-25skU" title="Scritti Politti Mega mix (Cupid and Psyche 85)" >}}<br>
+### Scritti Politti Mega mix Cupid and Psyche 85
+{{< youtube id="REpOt-25skU" title="Scritti Politti Mega mix Cupid and Psyche 85" >}}<br>
 ### More Videos
 
 - [Scritti Politti - Absolute](https://www.youtube.com/watch?v=yAoTJGtgfgw)
-- [Don't Work That Hard](https://www.youtube.com/watch?v=AbQjcVpfqOA)
-- [Hypnotize (2022 Remaster)](https://www.youtube.com/watch?v=UHg_90CUk0k)
-- [The Word Girl (2022 Remaster)](https://www.youtube.com/watch?v=JZ41Se5Lk2s)
-- [Scritti Politti - Cupid & Psyche - 04 - A Little Knowledge (1985) (HQ)](https://www.youtube.com/watch?v=P6YfEfAlS3M)
-- [Scritti Politti - Cupid & Psyche - 03 - Absolute (1985) (HQ)](https://www.youtube.com/watch?v=ty2AkjVaZo8)
-- [Absolute (Version - 2022 Remaster)](https://www.youtube.com/watch?v=t19kz-qII58)
-- [黒っぽさとイギリスポップスの融合。80年代に玄人受けしたScritti Politti「Cupid & Psyche 85」](https://www.youtube.com/watch?v=-H8i-CCOI54)
+- [Dont Work That Hard](https://www.youtube.com/watch?v=AbQjcVpfqOA)
+- [Hypnotize 2022 Remaster](https://www.youtube.com/watch?v=UHg_90CUk0k)
+- [The Word Girl 2022 Remaster](https://www.youtube.com/watch?v=JZ41Se5Lk2s)
+- [Scritti Politti - Cupid  Psyche - 04 - A Little Knowledge 1985 HQ](https://www.youtube.com/watch?v=P6YfEfAlS3M)
+- [Scritti Politti - Cupid  Psyche - 03 - Absolute 1985 HQ](https://www.youtube.com/watch?v=ty2AkjVaZo8)
+- [Absolute Version - 2022 Remaster](https://www.youtube.com/watch?v=t19kz-qII58)
+- [黒っぽさとイギリスポップスの融合80年代に玄人受けしたScritti PolittiCupid  Psyche 85](https://www.youtube.com/watch?v=-H8i-CCOI54)
 - [Perfect Way](https://www.youtube.com/watch?v=s-P94UFne-w)
 - [Small Talk](https://www.youtube.com/watch?v=cLdY5Pslcfg)
-- [Scritti Politti - Cupid & Psyche - 09 - Hypnotize (1985) (HQ).mp4](https://www.youtube.com/watch?v=oZzr5IxA8eA)
+- [Scritti Politti - Cupid  Psyche - 09 - Hypnotize 1985 HQmp4](https://www.youtube.com/watch?v=oZzr5IxA8eA)
 - [A Little Knowledge](https://www.youtube.com/watch?v=8wDm-xV3AbM)
 
 ## Release Images

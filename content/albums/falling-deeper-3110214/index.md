@@ -48,8 +48,8 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 
 
 ## Videos
-### Anathema - Kingdom (from Falling Deeper)
-{{< youtube id="kKO9G--YlyU" title="Anathema - Kingdom (from Falling Deeper)" >}}<br>
+### Anathema - Kingdom from Falling Deeper
+{{< youtube id="kKO9G--YlyU" title="Anathema - Kingdom from Falling Deeper" >}}<br>
 
 
 ## Release Images

@@ -61,13 +61,13 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 
 
 ## Videos
-### Nirvana - Smells Like Teen Spirit (Official Music Video)
-{{< youtube id="hTWKbfoikeg" title="Nirvana - Smells Like Teen Spirit (Official Music Video)" >}}<br>
+### Nirvana - Smells Like Teen Spirit Official Music Video
+{{< youtube id="hTWKbfoikeg" title="Nirvana - Smells Like Teen Spirit Official Music Video" >}}<br>
 ### More Videos
 
-- [Nirvana - In Bloom (Official Music Video)](https://www.youtube.com/watch?v=PbgKEjNBHqM)
-- [Nirvana - Come As You Are (Official Music Video)](https://www.youtube.com/watch?v=vabnZ9-ex7o)
-- [Nirvana - Lithium (Official Music Video)](https://www.youtube.com/watch?v=pkcJEvMcnEg)
+- [Nirvana - In Bloom Official Music Video](https://www.youtube.com/watch?v=PbgKEjNBHqM)
+- [Nirvana - Come As You Are Official Music Video](https://www.youtube.com/watch?v=vabnZ9-ex7o)
+- [Nirvana - Lithium Official Music Video](https://www.youtube.com/watch?v=pkcJEvMcnEg)
 
 ## Release Images
 {{< imageGrid >}}

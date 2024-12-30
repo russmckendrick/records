@@ -54,11 +54,11 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 
 
 ## Videos
-### The Queen Is Dead / Take Me Back to Dear Old Blighty (Medley) (2008 Remaster)
-{{< youtube id="XW1CCoy7nIE" title="The Queen Is Dead / Take Me Back to Dear Old Blighty (Medley) (2008 Remaster)" >}}<br>
+### The Queen Is Dead  Take Me Back to Dear Old Blighty Medley 2008 Remaster
+{{< youtube id="XW1CCoy7nIE" title="The Queen Is Dead  Take Me Back to Dear Old Blighty Medley 2008 Remaster" >}}<br>
 ### More Videos
 
-- [The Smiths - The Queen Is Dead - A Film By Derek Jarman (Official Music Video)](https://www.youtube.com/watch?v=YS3UMjNUqFM)
+- [The Smiths - The Queen Is Dead - A Film By Derek Jarman Official Music Video](https://www.youtube.com/watch?v=YS3UMjNUqFM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,11 +50,11 @@ The result was a much more subdued and electronica-tinged sound that Greg Kot of
 
 
 ## Videos
-### The Smashing Pumpkins - Perfect (Official Music Video)
-{{< youtube id="VKYY8DxVZHE" title="The Smashing Pumpkins - Perfect (Official Music Video)" >}}<br>
+### The Smashing Pumpkins - Perfect Official Music Video
+{{< youtube id="VKYY8DxVZHE" title="The Smashing Pumpkins - Perfect Official Music Video" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins - Ava Adore (Official Music Video)](https://www.youtube.com/watch?v=9uWwvQKGjLI)
+- [The Smashing Pumpkins - Ava Adore Official Music Video](https://www.youtube.com/watch?v=9uWwvQKGjLI)
 
 ## Release Images
 {{< imageGrid >}}

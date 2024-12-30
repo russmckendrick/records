@@ -52,24 +52,24 @@ Although it features some of the minimalist punk rock of the band's debut Pink F
 
 
 ## Videos
-### Practice Makes Perfect (2006 Remastered Version)
-{{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect (2006 Remastered Version)" >}}<br>
+### Practice Makes Perfect 2006 Remastered Version
+{{< youtube id="9M0vuDE5gig" title="Practice Makes Perfect 2006 Remastered Version" >}}<br>
 ### More Videos
 
-- [French Film Blurred (2006 Remastered Version)](https://www.youtube.com/watch?v=ci1OZ1mWKMg)
-- [Another the Letter (2006 Remastered Version)](https://www.youtube.com/watch?v=LSxp1QaUUaE)
-- [Men 2nd (2006 Remastered Version)](https://www.youtube.com/watch?v=K9b6YIzRlwc)
-- [Marooned (2006 Remastered Version)](https://www.youtube.com/watch?v=a7B7PPB23hc)
-- [Sand in My Joints (2006 Remastered Version)](https://www.youtube.com/watch?v=0NvDSUCZj-c)
-- [Being Sucked in Again (2006 Remastered Version)](https://www.youtube.com/watch?v=uF7cx8VpXEo)
-- [Heartbeat (2006 Remastered Version)](https://www.youtube.com/watch?v=ggwm4aXRIQ8)
-- [Mercy (2006 Remastered Version)](https://www.youtube.com/watch?v=MtIXBSs-REs)
-- [Outdoor Miner (2006 Remastered Version)](https://www.youtube.com/watch?v=uO0nmjkMpw0)
-- [I Am the Fly (2006 Remastered Version)](https://www.youtube.com/watch?v=svcAqVL2l28)
-- [I Feel Mysterious Today (2006 Remastered Version)](https://www.youtube.com/watch?v=yhZU1UcrwR8)
-- [From The Nursery (2006 Remastered Version)](https://www.youtube.com/watch?v=CDQ9_avp5ZY)
-- [Used To (2006 Remastered Version)](https://www.youtube.com/watch?v=kFv1fNud0cY)
-- [Too Late (2006 Remastered Version)](https://www.youtube.com/watch?v=ZiKagKI-_OI)
+- [French Film Blurred 2006 Remastered Version](https://www.youtube.com/watch?v=ci1OZ1mWKMg)
+- [Another the Letter 2006 Remastered Version](https://www.youtube.com/watch?v=LSxp1QaUUaE)
+- [Men 2nd 2006 Remastered Version](https://www.youtube.com/watch?v=K9b6YIzRlwc)
+- [Marooned 2006 Remastered Version](https://www.youtube.com/watch?v=a7B7PPB23hc)
+- [Sand in My Joints 2006 Remastered Version](https://www.youtube.com/watch?v=0NvDSUCZj-c)
+- [Being Sucked in Again 2006 Remastered Version](https://www.youtube.com/watch?v=uF7cx8VpXEo)
+- [Heartbeat 2006 Remastered Version](https://www.youtube.com/watch?v=ggwm4aXRIQ8)
+- [Mercy 2006 Remastered Version](https://www.youtube.com/watch?v=MtIXBSs-REs)
+- [Outdoor Miner 2006 Remastered Version](https://www.youtube.com/watch?v=uO0nmjkMpw0)
+- [I Am the Fly 2006 Remastered Version](https://www.youtube.com/watch?v=svcAqVL2l28)
+- [I Feel Mysterious Today 2006 Remastered Version](https://www.youtube.com/watch?v=yhZU1UcrwR8)
+- [From The Nursery 2006 Remastered Version](https://www.youtube.com/watch?v=CDQ9_avp5ZY)
+- [Used To 2006 Remastered Version](https://www.youtube.com/watch?v=kFv1fNud0cY)
+- [Too Late 2006 Remastered Version](https://www.youtube.com/watch?v=ZiKagKI-_OI)
 
 ## Release Images
 {{< imageGrid >}}

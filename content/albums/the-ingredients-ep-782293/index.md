@@ -30,12 +30,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin - Grey Cell Green
-{{< youtube id="GFxVMfBfQDY" title="Ned's Atomic Dustbin - Grey Cell Green" >}}<br>
+### Neds Atomic Dustbin - Grey Cell Green
+{{< youtube id="GFxVMfBfQDY" title="Neds Atomic Dustbin - Grey Cell Green" >}}<br>
 ### More Videos
 
 - [Aim](https://www.youtube.com/watch?v=PKjV6SsjLaE)
-- [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=GFxVMfBfQDY)
+- [Neds Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=GFxVMfBfQDY)
 - [Aim](https://www.youtube.com/watch?v=PKjV6SsjLaE)
 
 ## Release Images

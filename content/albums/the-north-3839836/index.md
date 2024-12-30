@@ -65,7 +65,7 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 - [The 400](https://www.youtube.com/watch?v=B4MhUkeZWuo)
 - [The Loose Ends Will Make Knots](https://www.youtube.com/watch?v=MYK8J46c5Ks)
 - [A Song Is A Weapon](https://www.youtube.com/watch?v=ReGm5EvYk9o)
-- [Do You Want To Die Together?](https://www.youtube.com/watch?v=0S5iyO0Ooe8)
+- [Do You Want To Die Together](https://www.youtube.com/watch?v=0S5iyO0Ooe8)
 - [Progress](https://www.youtube.com/watch?v=2w8gzGeqiHo)
 - [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
 - [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)

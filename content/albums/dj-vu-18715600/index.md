@@ -109,19 +109,19 @@ CSN's 1969 debut not only provided the template for the era's folk-rock renaissa
 
 
 ## Videos
-### Carry On (2021 Remaster)
-{{< youtube id="IqiqUfZJovg" title="Carry On (2021 Remaster)" >}}<br>
+### Carry On 2021 Remaster
+{{< youtube id="IqiqUfZJovg" title="Carry On 2021 Remaster" >}}<br>
 ### More Videos
 
-- [Teach Your Children (2018 Remaster)](https://www.youtube.com/watch?v=IX0z0DbzSp0)
-- [Almost Cut My Hair (2021 Remaster)](https://www.youtube.com/watch?v=7oQfAQ-w6qU)
-- [Helpless (2021 Remaster)](https://www.youtube.com/watch?v=G7CHSv8c77w)
-- [Woodstock (2021 Remaster)](https://www.youtube.com/watch?v=Z2sUeGS6xoY)
-- [Déjà Vu (2021 Remaster)](https://www.youtube.com/watch?v=OTL8PWhYy-Y)
-- [Our House (2018 Remaster)](https://www.youtube.com/watch?v=9msTB554M9Y)
-- [4 + 20 (2021 Remaster)](https://www.youtube.com/watch?v=sYCRWKbcbUE)
-- [Country Girl (2021 Remaster)](https://www.youtube.com/watch?v=4Qq7No7hZy8)
-- [Everybody I Love You (2021 Remaster)](https://www.youtube.com/watch?v=iH0HVVEhh5E)
+- [Teach Your Children 2018 Remaster](https://www.youtube.com/watch?v=IX0z0DbzSp0)
+- [Almost Cut My Hair 2021 Remaster](https://www.youtube.com/watch?v=7oQfAQ-w6qU)
+- [Helpless 2021 Remaster](https://www.youtube.com/watch?v=G7CHSv8c77w)
+- [Woodstock 2021 Remaster](https://www.youtube.com/watch?v=Z2sUeGS6xoY)
+- [Déjà Vu 2021 Remaster](https://www.youtube.com/watch?v=OTL8PWhYy-Y)
+- [Our House 2018 Remaster](https://www.youtube.com/watch?v=9msTB554M9Y)
+- [4  20 2021 Remaster](https://www.youtube.com/watch?v=sYCRWKbcbUE)
+- [Country Girl 2021 Remaster](https://www.youtube.com/watch?v=4Qq7No7hZy8)
+- [Everybody I Love You 2021 Remaster](https://www.youtube.com/watch?v=iH0HVVEhh5E)
 
 ## Release Images
 {{< imageGrid >}}

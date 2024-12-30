@@ -40,12 +40,12 @@ styles: ["Indie Rock", "Post-Hardcore"]
 
 
 ## Videos
-### At The Drive-In - in.ter a.li.a 2017 Full album vinyl
-{{< youtube id="Y-dIyGbATsc" title="At The Drive-In - in.ter a.li.a 2017 Full album vinyl" >}}<br>
+### At The Drive-In - inter alia 2017 Full album vinyl
+{{< youtube id="Y-dIyGbATsc" title="At The Drive-In - inter alia 2017 Full album vinyl" >}}<br>
 ### More Videos
 
-- [At The Drive In - Hostage Stamps (Official Music Video)](https://www.youtube.com/watch?v=JoNJ6AQhmFY)
-- [At The Drive In - Incurably Innocent (Lyric Video)](https://www.youtube.com/watch?v=uS_IramA9m4)
+- [At The Drive In - Hostage Stamps Official Music Video](https://www.youtube.com/watch?v=JoNJ6AQhmFY)
+- [At The Drive In - Incurably Innocent Lyric Video](https://www.youtube.com/watch?v=uS_IramA9m4)
 
 ## Release Images
 {{< imageGrid >}}

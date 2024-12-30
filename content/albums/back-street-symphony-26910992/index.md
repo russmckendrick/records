@@ -58,14 +58,14 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 
 
 ## Videos
-### Vinyl Unboxing: THUNDER - Back Street Symphony (BMG International 2023)
-{{< youtube id="0TVuL07afbY" title="Vinyl Unboxing: THUNDER - Back Street Symphony (BMG International 2023)" >}}<br>
+### Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023
+{{< youtube id="0TVuL07afbY" title="Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023" >}}<br>
 ### More Videos
 
-- [Thunder- Backstreet Symphony (album version)](https://www.youtube.com/watch?v=G6NxKb9r_oA)
+- [Thunder- Backstreet Symphony album version](https://www.youtube.com/watch?v=G6NxKb9r_oA)
 - [Thunder - Love Walked In](https://www.youtube.com/watch?v=R-VVfcnvpAA)
-- [Thunder - She's so fine](https://www.youtube.com/watch?v=RprKusE4DF8)
-- [Vinyl Unboxing: THUNDER - Back Street Symphony (BMG International 2023)](https://www.youtube.com/watch?v=0TVuL07afbY)
+- [Thunder - Shes so fine](https://www.youtube.com/watch?v=RprKusE4DF8)
+- [Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023](https://www.youtube.com/watch?v=0TVuL07afbY)
 
 ## Release Images
 {{< imageGrid >}}

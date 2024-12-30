@@ -45,20 +45,20 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 
 
 ## Videos
-### Living In A Box - Living In A Box (7" Version) **HQ Audio**
-{{< youtube id="kbOavg6ONzo" title="Living In A Box - Living In A Box (7" Version) **HQ Audio**" >}}<br>
+### Living In A Box - Living In A Box 7 Version HQ Audio
+{{< youtube id="kbOavg6ONzo" title="Living In A Box - Living In A Box 7 Version HQ Audio" >}}<br>
 ### More Videos
 
 - [Love Is the Art](https://www.youtube.com/watch?v=dej7tlxtJH0)
-- [Living in a box  - So the story goes (1987)](https://www.youtube.com/watch?v=jEE7BNtbnvM)
+- [Living in a box  - So the story goes 1987](https://www.youtube.com/watch?v=jEE7BNtbnvM)
 - [From Beginning to End](https://www.youtube.com/watch?v=8Dt5WeDyD90)
 - [Generate the Wave](https://www.youtube.com/watch?v=Rsb9eu1DCZA)
 - [Superheroes](https://www.youtube.com/watch?v=kx8BE7iY1o8)
 - [Going for the Big One](https://www.youtube.com/watch?v=DpbQ7pTQUUk)
 - [Human Story](https://www.youtube.com/watch?v=nEzFYQzIZ7k)
-- [Can't Stop the Wheel](https://www.youtube.com/watch?v=M39wXTVTksQ)
-- [Living In A Box - Living In A Box (12 inch version) 1987](https://www.youtube.com/watch?v=AFHEdWMyijk)
-- [Living In A Box - Living In A Box (Official Video)](https://www.youtube.com/watch?v=mHzfhU8t5i8)
+- [Cant Stop the Wheel](https://www.youtube.com/watch?v=M39wXTVTksQ)
+- [Living In A Box - Living In A Box 12 inch version 1987](https://www.youtube.com/watch?v=AFHEdWMyijk)
+- [Living In A Box - Living In A Box Official Video](https://www.youtube.com/watch?v=mHzfhU8t5i8)
 
 ## Release Images
 {{< imageGrid >}}

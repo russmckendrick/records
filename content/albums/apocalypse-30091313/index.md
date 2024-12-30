@@ -51,17 +51,17 @@ In February 2014, Thundercat released a double video on the MySpace website for 
 
 
 ## Videos
-### Thundercat - 'Tenfold'
-{{< youtube id="1LcCUt4CIDE" title="Thundercat - 'Tenfold'" >}}<br>
+### Thundercat - Tenfold
+{{< youtube id="1LcCUt4CIDE" title="Thundercat - Tenfold" >}}<br>
 ### More Videos
 
-- [Heartbreaks + Setbacks](https://www.youtube.com/watch?v=_WXRYJbCAE0)
-- [We'll Die](https://www.youtube.com/watch?v=GvKM26FHtH4)
+- [Heartbreaks  Setbacks](https://www.youtube.com/watch?v=_WXRYJbCAE0)
+- [Well Die](https://www.youtube.com/watch?v=GvKM26FHtH4)
 - [Evangelion](https://www.youtube.com/watch?v=TvQYN9sb1T0)
 - [Tron Song](https://www.youtube.com/watch?v=Kq40pb2jv-8)
 - [Without You](https://www.youtube.com/watch?v=yFR13OBl8EY)
-- [Thundercat - 'Oh Sheit It's X'](https://www.youtube.com/watch?v=AsJfFL9OuA0)
-- [Thundercat – Apocalypse [FULL ALBUM]](https://www.youtube.com/watch?v=c7rYg0B5xAk)
+- [Thundercat - Oh Sheit Its X](https://www.youtube.com/watch?v=AsJfFL9OuA0)
+- [Thundercat  Apocalypse FULL ALBUM](https://www.youtube.com/watch?v=c7rYg0B5xAk)
 
 ## Release Images
 {{< imageGrid >}}

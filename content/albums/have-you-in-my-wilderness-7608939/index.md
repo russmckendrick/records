@@ -49,17 +49,17 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 
 
 ## Videos
-### Julia Holter - Feel You (Official Video)
-{{< youtube id="X2JgMniIpRM" title="Julia Holter - Feel You (Official Video)" >}}<br>
+### Julia Holter - Feel You Official Video
+{{< youtube id="X2JgMniIpRM" title="Julia Holter - Feel You Official Video" >}}<br>
 ### More Videos
 
-- [Julia Holter - Silhouette (Official Video)](https://www.youtube.com/watch?v=m8_ZWlOKsUQ)
-- [How Long?](https://www.youtube.com/watch?v=rV6dzWOSEQE)
+- [Julia Holter - Silhouette Official Video](https://www.youtube.com/watch?v=m8_ZWlOKsUQ)
+- [How Long](https://www.youtube.com/watch?v=rV6dzWOSEQE)
 - [Lucette Stranded on the Island](https://www.youtube.com/watch?v=QhBhpQgN0MU)
-- [Julia Holter - Betsy On The Roof (Official Audio)](https://www.youtube.com/watch?v=Sr2GYsynCFg)
-- [Julia Holter - Sea Calls Me Home (Official Video)](https://www.youtube.com/watch?v=OERixQR-hxY)
+- [Julia Holter - Betsy On The Roof Official Audio](https://www.youtube.com/watch?v=Sr2GYsynCFg)
+- [Julia Holter - Sea Calls Me Home Official Video](https://www.youtube.com/watch?v=OERixQR-hxY)
 - [Have You In My Wilderness](https://www.youtube.com/watch?v=uYLOYsDYpRg)
-- [Julia Holter –  Vasquez  (hommage à Julia - unofficial video)](https://www.youtube.com/watch?v=w8USu4D0dvw)
+- [Julia Holter   Vasquez  hommage à Julia - unofficial video](https://www.youtube.com/watch?v=w8USu4D0dvw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -45,32 +45,32 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 
 
 ## Videos
-### Fever Ray 'If I Had A Heart'
-{{< youtube id="EBAzlNJonO8" title="Fever Ray 'If I Had A Heart'" >}}<br>
+### Fever Ray If I Had A Heart
+{{< youtube id="EBAzlNJonO8" title="Fever Ray If I Had A Heart" >}}<br>
 ### More Videos
 
-- [Fever Ray 'Seven'](https://www.youtube.com/watch?v=aX07gCjT7dA)
+- [Fever Ray Seven](https://www.youtube.com/watch?v=aX07gCjT7dA)
 - [If I Had a Heart](https://www.youtube.com/watch?v=hTYQCTfUOiE)
-- [Fever Ray 'When I Grow Up'](https://www.youtube.com/watch?v=4F-CpE73o2M)
+- [Fever Ray When I Grow Up](https://www.youtube.com/watch?v=4F-CpE73o2M)
 - [Dry and Dusty](https://www.youtube.com/watch?v=cAZgtZHFVA4)
 - [Seven](https://www.youtube.com/watch?v=Cx3x5TEU7pI)
-- [Fever Ray 'Triangle Walks'](https://www.youtube.com/watch?v=oNs_69HkyDE)
+- [Fever Ray Triangle Walks](https://www.youtube.com/watch?v=oNs_69HkyDE)
 - [Concrete Walls](https://www.youtube.com/watch?v=TpTJeHWGelk)
-- [Now's the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
-- [I'm Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
-- [Fever Ray 'Keep The Streets Empty For Me'](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
+- [Nows the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
+- [Im Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
+- [Fever Ray Keep The Streets Empty For Me](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
 - [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
-- [Fever Ray 'If I Had A Heart'](https://www.youtube.com/watch?v=EBAzlNJonO8)
-- [Fever Ray 'Seven'](https://www.youtube.com/watch?v=aX07gCjT7dA)
+- [Fever Ray If I Had A Heart](https://www.youtube.com/watch?v=EBAzlNJonO8)
+- [Fever Ray Seven](https://www.youtube.com/watch?v=aX07gCjT7dA)
 - [If I Had a Heart](https://www.youtube.com/watch?v=hTYQCTfUOiE)
-- [Fever Ray 'When I Grow Up'](https://www.youtube.com/watch?v=4F-CpE73o2M)
+- [Fever Ray When I Grow Up](https://www.youtube.com/watch?v=4F-CpE73o2M)
 - [Dry and Dusty](https://www.youtube.com/watch?v=cAZgtZHFVA4)
 - [Seven](https://www.youtube.com/watch?v=Cx3x5TEU7pI)
-- [Fever Ray 'Triangle Walks'](https://www.youtube.com/watch?v=oNs_69HkyDE)
+- [Fever Ray Triangle Walks](https://www.youtube.com/watch?v=oNs_69HkyDE)
 - [Concrete Walls](https://www.youtube.com/watch?v=TpTJeHWGelk)
-- [Now's the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
-- [I'm Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
-- [Fever Ray 'Keep The Streets Empty For Me'](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
+- [Nows the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
+- [Im Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
+- [Fever Ray Keep The Streets Empty For Me](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
 - [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
 
 ## Release Images

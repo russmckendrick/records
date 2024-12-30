@@ -73,7 +73,7 @@ Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk
 {{< youtube id="dl-0a4sWalg" title="Fleetwood Mac - Brown Eyes" >}}<br>
 ### More Videos
 
-- [Fleetwood Mac - Tusk (Official Live Video) [HD]](https://www.youtube.com/watch?v=NKCucBUWx5o)
+- [Fleetwood Mac - Tusk Official Live Video HD](https://www.youtube.com/watch?v=NKCucBUWx5o)
 
 ## Release Images
 {{< imageGrid >}}

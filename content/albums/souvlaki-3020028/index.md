@@ -47,24 +47,24 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 
 
 ## Videos
-### Slowdive - Alison (Video)
-{{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison (Video)" >}}<br>
+### Slowdive - Alison Video
+{{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison Video" >}}<br>
 ### More Videos
 
 - [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
 - [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
 - [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
 - [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
-- [Slowdive - Souvlaki Space Station (Official Audio)](https://www.youtube.com/watch?v=WPApiFhKFsg)
+- [Slowdive - Souvlaki Space Station Official Audio](https://www.youtube.com/watch?v=WPApiFhKFsg)
 - [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
 - [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
 - [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
-- [Slowdive - Alison (Video)](https://www.youtube.com/watch?v=jkM3M3zGcGE)
+- [Slowdive - Alison Video](https://www.youtube.com/watch?v=jkM3M3zGcGE)
 - [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
 - [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
 - [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
 - [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
-- [Slowdive - Souvlaki Space Station (Official Audio)](https://www.youtube.com/watch?v=WPApiFhKFsg)
+- [Slowdive - Souvlaki Space Station Official Audio](https://www.youtube.com/watch?v=WPApiFhKFsg)
 - [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
 - [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
 - [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)

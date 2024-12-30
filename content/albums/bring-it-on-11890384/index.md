@@ -63,7 +63,7 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 {{< youtube id="F2vJBaq6zlE" title="Gomez - Bring It On" >}}<br>
 ### More Videos
 
-- [Gomez - "Get Miles" Vinyl Rip from Bring It On (1998)](https://www.youtube.com/watch?v=eMtfb1j5sw0)
+- [Gomez - Get Miles Vinyl Rip from Bring It On 1998](https://www.youtube.com/watch?v=eMtfb1j5sw0)
 - [Get Miles](https://www.youtube.com/watch?v=8hEFQsqWhUQ)
 
 ## Release Images

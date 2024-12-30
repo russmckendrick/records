@@ -58,14 +58,14 @@ Except for when they are—like on the positively rollicking “The Eagles and t
 
 - [The Jesus And Mary Chain - American Born](https://www.youtube.com/watch?v=yII-JiBQ8LU)
 - [The Jesus And Mary Chain - Mediterranean X File](https://www.youtube.com/watch?v=OGS6lRS-jV8)
-- [The Jesus And Mary Chain - jamcod (Official Video)](https://www.youtube.com/watch?v=x3_NOCiRbII)
+- [The Jesus And Mary Chain - jamcod Official Video](https://www.youtube.com/watch?v=x3_NOCiRbII)
 - [The Jesus And Mary Chain - Discoteque](https://www.youtube.com/watch?v=MTD7iLB2kvQ)
 - [The Jesus And Mary Chain - Pure Poor](https://www.youtube.com/watch?v=tfEAggM6eGw)
 - [The Jesus And Mary Chain - The Eagles and The Beatles](https://www.youtube.com/watch?v=_SlZcjljx1s)
 - [The Jesus And Mary Chain - Silver Strings](https://www.youtube.com/watch?v=XP3SKOMfMYU)
-- [The Jesus and Mary Chain - Chemical Animal (Official Video)](https://www.youtube.com/watch?v=XH8UbfGB2uA)
+- [The Jesus and Mary Chain - Chemical Animal Official Video](https://www.youtube.com/watch?v=XH8UbfGB2uA)
 - [The Jesus And Mary Chain - Second of June](https://www.youtube.com/watch?v=HuhT8E1JAq8)
-- [The Jesus And Mary Chain - Girl71 (Official Video)](https://www.youtube.com/watch?v=fD0HwKM-Wwo)
+- [The Jesus And Mary Chain - Girl71 Official Video](https://www.youtube.com/watch?v=fD0HwKM-Wwo)
 - [The Jesus And Mary Chain - Hey Lou Reid](https://www.youtube.com/watch?v=eVZSltKGDjQ)
 
 ## Release Images

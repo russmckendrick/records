@@ -47,23 +47,23 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 
 
 ## Videos
-### Ghost B.C. - Year Zero (Censored)
-{{< youtube id="gkBt7yLXyDk" title="Ghost B.C. - Year Zero (Censored)" >}}<br>
+### Ghost BC - Year Zero Censored
+{{< youtube id="gkBt7yLXyDk" title="Ghost BC - Year Zero Censored" >}}<br>
 ### More Videos
 
-- [Ghost B.C. - Secular Haze](https://www.youtube.com/watch?v=vyQZ13jobIY)
+- [Ghost BC - Secular Haze](https://www.youtube.com/watch?v=vyQZ13jobIY)
 - [Infestissumam](https://www.youtube.com/watch?v=Nbbxws7sgy4)
 - [Per Aspera Ad Inferi](https://www.youtube.com/watch?v=TBwwYMaEWH4)
 - [SECULAR HAZE](https://www.youtube.com/watch?v=o3MPSRHpIno)
 - [Jigolo Har Megiddo](https://www.youtube.com/watch?v=ZXqaNLNQwKw)
-- [Ghuleh / Zombie Queen](https://www.youtube.com/watch?v=Ar386NJXpKo)
+- [Ghuleh  Zombie Queen](https://www.youtube.com/watch?v=Ar386NJXpKo)
 - [Year Zero](https://www.youtube.com/watch?v=UXBg4TUieas)
 - [Body And Blood](https://www.youtube.com/watch?v=sq9MG5q4ws0)
 - [Idolatrine](https://www.youtube.com/watch?v=ekKB7XIgL0U)
-- [Depth Of Satan's Eyes](https://www.youtube.com/watch?v=TnQQyvWpU-0)
+- [Depth Of Satans Eyes](https://www.youtube.com/watch?v=TnQQyvWpU-0)
 - [Monstrance Clock](https://www.youtube.com/watch?v=U7Hjowi2oFc)
 - [La Mantra Mori](https://www.youtube.com/watch?v=6FN6k8XtRpw)
-- [I'm A Marionette](https://www.youtube.com/watch?v=Gvj7f8-UZ9g)
+- [Im A Marionette](https://www.youtube.com/watch?v=Gvj7f8-UZ9g)
 
 ## Release Images
 {{< imageGrid >}}

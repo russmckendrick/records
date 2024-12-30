@@ -46,18 +46,18 @@ Cuckoo is the second studio album to be released by the British alternative rock
 {{< youtube id="KL-I0kyYxT4" title="Curve - Crystal" >}}<br>
 ### More Videos
 
-- [Curve - Men Are From Mars, Women Are From Venus](https://www.youtube.com/watch?v=BOQX4v5c6u4)
+- [Curve - Men Are From Mars Women Are From Venus](https://www.youtube.com/watch?v=BOQX4v5c6u4)
 - [Curve - All of one](https://www.youtube.com/watch?v=rUDSBN7oN10)
 - [Curve - Turkey Crossing](https://www.youtube.com/watch?v=3x72B9kuWp8)
 - [Curve - Superblaster](https://www.youtube.com/watch?v=Zxi5vBnhQu0)
 - [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
 - [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
 - [Curve - Missing Link](https://www.youtube.com/watch?v=B_VYNNkCDFo)
-- [Curve - Cuckoo [Full Album]](https://www.youtube.com/watch?v=w9_c0HGbvyA)
-- [Curve - Cuckoo (Full Album)](https://www.youtube.com/watch?v=w9_c0HGbvyA)
-- [CURVE - Half the Time  [Honey Tongue mix from : Blackerthreetrackertwo (UK) 1993] [audio]](https://www.youtube.com/watch?v=4tu9cFTHPok)
-- [Curve - Rising (FSOL Headspace Mix)](https://www.youtube.com/watch?v=lXuUns3Mr1U)
-- [Curve - Missing Link {Nine Inch Nails Screaming Bird Mix}](https://www.youtube.com/watch?v=2WYFu4a9GCg)
+- [Curve - Cuckoo Full Album](https://www.youtube.com/watch?v=w9_c0HGbvyA)
+- [Curve - Cuckoo Full Album](https://www.youtube.com/watch?v=w9_c0HGbvyA)
+- [CURVE - Half the Time  Honey Tongue mix from  Blackerthreetrackertwo UK 1993 audio](https://www.youtube.com/watch?v=4tu9cFTHPok)
+- [Curve - Rising FSOL Headspace Mix](https://www.youtube.com/watch?v=lXuUns3Mr1U)
+- [Curve - Missing Link Nine Inch Nails Screaming Bird Mix](https://www.youtube.com/watch?v=2WYFu4a9GCg)
 
 ## Release Images
 {{< imageGrid >}}

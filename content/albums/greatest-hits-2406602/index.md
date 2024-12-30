@@ -58,13 +58,13 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 
 
 ## Videos
-### The Loner (2009 Remaster)
-{{< youtube id="rX5bDqk7Qmo" title="The Loner (2009 Remaster)" >}}<br>
+### The Loner 2009 Remaster
+{{< youtube id="rX5bDqk7Qmo" title="The Loner 2009 Remaster" >}}<br>
 ### More Videos
 
-- [Sugar Mountain (Live - Canterbury House 1968)](https://www.youtube.com/watch?v=kpzVpS-fHlE)
-- [The Loner (2009 Remaster)](https://www.youtube.com/watch?v=rX5bDqk7Qmo)
-- [Sugar Mountain (Live - Canterbury House 1968)](https://www.youtube.com/watch?v=kpzVpS-fHlE)
+- [Sugar Mountain Live - Canterbury House 1968](https://www.youtube.com/watch?v=kpzVpS-fHlE)
+- [The Loner 2009 Remaster](https://www.youtube.com/watch?v=rX5bDqk7Qmo)
+- [Sugar Mountain Live - Canterbury House 1968](https://www.youtube.com/watch?v=kpzVpS-fHlE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -38,11 +38,11 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 
 
 ## Videos
-### Sigur Rós - Valtari [Full Album Stream]
-{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari [Full Album Stream]" >}}<br>
+### Sigur Rós - Valtari Full Album Stream
+{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari Full Album Stream" >}}<br>
 ### More Videos
 
-- [Sigur Rós - Varúð [Official Music Video]](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
+- [Sigur Rós - Varúð Official Music Video](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
 
 ## Release Images
 {{< imageGrid >}}

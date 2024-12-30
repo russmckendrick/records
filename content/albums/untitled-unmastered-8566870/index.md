@@ -42,25 +42,25 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 
 
 ## Videos
-### untitled 01 | 08.19.2014.
-{{< youtube id="oIoZgIOgu3o" title="untitled 01 | 08.19.2014." >}}<br>
+### untitled 01  08192014
+{{< youtube id="oIoZgIOgu3o" title="untitled 01  08192014" >}}<br>
 ### More Videos
 
-- [untitled 02 | 06.23.2014.](https://www.youtube.com/watch?v=_GghFQ8ryEU)
-- [untitled 03 | 05.28.2013.](https://www.youtube.com/watch?v=o4M4qssoaWU)
-- [untitled 04 | 08.14.2014.](https://www.youtube.com/watch?v=82Cqp-kyrQs)
-- [untitled 05 | 09.21.2014.](https://www.youtube.com/watch?v=inOEtUwSasc)
-- [untitled 06 | 06.30.2014.](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
-- [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
-- [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
-- [untitled 01 | 08.19.2014.](https://www.youtube.com/watch?v=oIoZgIOgu3o)
-- [untitled 02 | 06.23.2014.](https://www.youtube.com/watch?v=_GghFQ8ryEU)
-- [untitled 03 | 05.28.2013.](https://www.youtube.com/watch?v=o4M4qssoaWU)
-- [untitled 04 | 08.14.2014.](https://www.youtube.com/watch?v=82Cqp-kyrQs)
-- [untitled 05 | 09.21.2014.](https://www.youtube.com/watch?v=inOEtUwSasc)
-- [untitled 06 | 06.30.2014.](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
-- [untitled 07 | levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
-- [untitled 08 | 09.06.2014.](https://www.youtube.com/watch?v=JXikcHwPolM)
+- [untitled 02  06232014](https://www.youtube.com/watch?v=_GghFQ8ryEU)
+- [untitled 03  05282013](https://www.youtube.com/watch?v=o4M4qssoaWU)
+- [untitled 04  08142014](https://www.youtube.com/watch?v=82Cqp-kyrQs)
+- [untitled 05  09212014](https://www.youtube.com/watch?v=inOEtUwSasc)
+- [untitled 06  06302014](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
+- [untitled 07  levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
+- [untitled 08  09062014](https://www.youtube.com/watch?v=JXikcHwPolM)
+- [untitled 01  08192014](https://www.youtube.com/watch?v=oIoZgIOgu3o)
+- [untitled 02  06232014](https://www.youtube.com/watch?v=_GghFQ8ryEU)
+- [untitled 03  05282013](https://www.youtube.com/watch?v=o4M4qssoaWU)
+- [untitled 04  08142014](https://www.youtube.com/watch?v=82Cqp-kyrQs)
+- [untitled 05  09212014](https://www.youtube.com/watch?v=inOEtUwSasc)
+- [untitled 06  06302014](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
+- [untitled 07  levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
+- [untitled 08  09062014](https://www.youtube.com/watch?v=JXikcHwPolM)
 
 ## Release Images
 {{< imageGrid >}}

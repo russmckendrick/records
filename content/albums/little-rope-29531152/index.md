@@ -82,13 +82,13 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 
 
 ## Videos
-### Sleater-Kinney - Small Finds (Official Audio)
-{{< youtube id="jjDZ7JeYH94" title="Sleater-Kinney - Small Finds (Official Audio)" >}}<br>
+### Sleater-Kinney - Small Finds Official Audio
+{{< youtube id="jjDZ7JeYH94" title="Sleater-Kinney - Small Finds Official Audio" >}}<br>
 ### More Videos
 
 - [Needlessly Wild](https://www.youtube.com/watch?v=SVX0YB30iW8)
-- [Sleater-Kinney - Don't Feel Right (Official Audio)](https://www.youtube.com/watch?v=_QlbIH3Zpnk)
-- [Sleater-Kinney - Crusader (Official Audio)](https://www.youtube.com/watch?v=UrU6w0TaD5s)
+- [Sleater-Kinney - Dont Feel Right Official Audio](https://www.youtube.com/watch?v=_QlbIH3Zpnk)
+- [Sleater-Kinney - Crusader Official Audio](https://www.youtube.com/watch?v=UrU6w0TaD5s)
 - [Hunt You Down](https://www.youtube.com/watch?v=TCstYZQcKx4)
 
 ## Release Images

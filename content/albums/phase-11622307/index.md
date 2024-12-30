@@ -39,8 +39,8 @@ At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria
 
 
 ## Videos
-### Mildlife - Phase [Full Album]
-{{< youtube id="BsL4xLKKmWA" title="Mildlife - Phase [Full Album]" >}}<br>
+### Mildlife - Phase Full Album
+{{< youtube id="BsL4xLKKmWA" title="Mildlife - Phase Full Album" >}}<br>
 
 
 ## Release Images

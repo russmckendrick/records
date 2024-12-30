@@ -47,10 +47,10 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 {{< youtube id="7CscPTI8fwA" title="Huey Lewis And The News - Bad Is Bad" >}}<br>
 ### More Videos
 
-- [Huey Lewis And The News - Heart And Soul (Official Music Video)](https://www.youtube.com/watch?v=8TdaXhpjHws)
-- [Huey Lewis And The News - I Want A New Drug (Official Music Video)](https://www.youtube.com/watch?v=N6uEMOeDZsA)
-- [Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)](https://www.youtube.com/watch?v=M7JVlpm0eRs)
-- [Huey Lewis And The News - If This Is It (Official Music Video)](https://www.youtube.com/watch?v=AaTQAaJWW54)
+- [Huey Lewis And The News - Heart And Soul Official Music Video](https://www.youtube.com/watch?v=8TdaXhpjHws)
+- [Huey Lewis And The News - I Want A New Drug Official Music Video](https://www.youtube.com/watch?v=N6uEMOeDZsA)
+- [Huey Lewis And The News - The Heart Of Rock  Roll Official Music Video](https://www.youtube.com/watch?v=M7JVlpm0eRs)
+- [Huey Lewis And The News - If This Is It Official Music Video](https://www.youtube.com/watch?v=AaTQAaJWW54)
 - [Walking On A Thin Line](https://www.youtube.com/watch?v=VVE9Kj1o4ig)
 - [Finally Found A Home](https://www.youtube.com/watch?v=-DQ3ZKyKd0g)
 - [You Crack Me Up](https://www.youtube.com/watch?v=-Z6WHizfg8U)

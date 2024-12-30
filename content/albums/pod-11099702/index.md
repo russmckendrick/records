@@ -60,13 +60,13 @@ The album opened up space for a wave of female-centric indie-rock bands that han
 
 - [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
 - [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
-- [Oh!](https://www.youtube.com/watch?v=53sd3y2m1uU)
+- [Oh](https://www.youtube.com/watch?v=53sd3y2m1uU)
 - [Hellbound](https://www.youtube.com/watch?v=vByo-9H5xBs)
 - [When I Was A Painter](https://www.youtube.com/watch?v=3Pe9LS65yM4)
 - [Fortunately Gone](https://www.youtube.com/watch?v=9eFufqZ_wBI)
 - [Iris](https://www.youtube.com/watch?v=BjNkwC59tp4)
 - [Opened](https://www.youtube.com/watch?v=wFMxXEcATxk)
-- [Only In 3's](https://www.youtube.com/watch?v=6LM6hA4NyO8)
+- [Only In 3s](https://www.youtube.com/watch?v=6LM6hA4NyO8)
 - [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
 - [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
 

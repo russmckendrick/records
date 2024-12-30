@@ -124,7 +124,7 @@ styles: ["Prog Rock"]
 {{< youtube id="3CWbDW9oHYo" title="Marillion - Holidays in Eden" >}}<br>
 ### More Videos
 
-- [Splintering Heart (1998 Remaster)](https://www.youtube.com/watch?v=k-3RIDEjMeI)
+- [Splintering Heart 1998 Remaster](https://www.youtube.com/watch?v=k-3RIDEjMeI)
 
 ## Release Images
 {{< imageGrid >}}

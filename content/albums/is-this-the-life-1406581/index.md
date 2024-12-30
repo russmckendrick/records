@@ -34,21 +34,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Cardiacs - Is This The Life (7" Version)
-{{< youtube id="ZMxm7qRYLRg" title="Cardiacs - Is This The Life (7" Version)" >}}<br>
+### Cardiacs - Is This The Life 7 Version
+{{< youtube id="ZMxm7qRYLRg" title="Cardiacs - Is This The Life 7 Version" >}}<br>
 ### More Videos
 
-- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
-- [Cardiacs - Is This The Life (Lyrics Video)](https://www.youtube.com/watch?v=rwwUYl3KKeY)
+- [Im Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life Lyrics Video](https://www.youtube.com/watch?v=rwwUYl3KKeY)
 - [Cardiacs - Goosegash](https://www.youtube.com/watch?v=uBr60guilsI)
-- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
-- [Cardiacs - Is This The Life (Lyrics Video)](https://www.youtube.com/watch?v=rwwUYl3KKeY)
-- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
-- [There's Too Many Irons In The Fire](https://www.youtube.com/watch?v=zqcq7fGX2mU)
-- [Cardiacs - Is This The Life (7" Version)](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
-- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
-- [Cardiacs - Is This The Life (7" Version)](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
-- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Im Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life Lyrics Video](https://www.youtube.com/watch?v=rwwUYl3KKeY)
+- [Im Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Theres Too Many Irons In The Fire](https://www.youtube.com/watch?v=zqcq7fGX2mU)
+- [Cardiacs - Is This The Life 7 Version](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
+- [Im Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life 7 Version](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
+- [Im Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
 
 ## Release Images
 {{< imageGrid >}}

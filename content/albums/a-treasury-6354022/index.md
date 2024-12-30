@@ -59,14 +59,14 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 
 - [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
 - [Poor Boy](https://www.youtube.com/watch?v=IK2r5moLP_A)
-- [Nick Drake - Plaisir d'Amour](https://www.youtube.com/watch?v=GzzTlGr7kxo)
-- [Nick Drake: River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
+- [Nick Drake - Plaisir dAmour](https://www.youtube.com/watch?v=GzzTlGr7kxo)
+- [Nick Drake River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
 - [From The Morning](https://www.youtube.com/watch?v=RvwMVDAdwVc)
 - [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
 - [Poor Boy](https://www.youtube.com/watch?v=IK2r5moLP_A)
 - [From The Morning](https://www.youtube.com/watch?v=RvwMVDAdwVc)
 - [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
-- [Nick Drake: River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
+- [Nick Drake River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
 
 ## Release Images
 {{< imageGrid >}}

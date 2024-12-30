@@ -35,19 +35,19 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 
 
 ## Videos
-### The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal
-{{< youtube id="YUSxUHEt_Cw" title="The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal" >}}<br>
+### The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal
+{{< youtube id="YUSxUHEt_Cw" title="The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal" >}}<br>
 ### More Videos
 
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
-- [The Amorphous Androgynous & Peter Hammill  – Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
+- [The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
+- [The Amorphous Androgynous  Peter Hammill   Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
-- [The Amorphous Androgynous & Peter Hammill  – Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
+- [The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
+- [The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
+- [The Amorphous Androgynous  Peter Hammill   Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
-- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
+- [The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
+- [The Amorphous Androgynous  Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
 
 ## Release Images

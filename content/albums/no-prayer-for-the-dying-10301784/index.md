@@ -51,28 +51,28 @@ Although it received generally mixed to negative reviews, the album peaked at No
 
 
 ## Videos
-### Iron Maiden - Tailgunner (Official Video)
-{{< youtube id="YbMGXXrF7ac" title="Iron Maiden - Tailgunner (Official Video)" >}}<br>
+### Iron Maiden - Tailgunner Official Video
+{{< youtube id="YbMGXXrF7ac" title="Iron Maiden - Tailgunner Official Video" >}}<br>
 ### More Videos
 
-- [Iron Maiden - Holy Smoke (Official Video)](https://www.youtube.com/watch?v=xPV4jlOlWjA)
-- [No Prayer for the Dying (2015 Remaster)](https://www.youtube.com/watch?v=QonEs-Teci4)
-- [Public Enema Number One (2015 Remaster)](https://www.youtube.com/watch?v=DRzeK7l3hks)
-- [Fates Warning (2015 Remaster)](https://www.youtube.com/watch?v=UGL6VsL_sA4)
-- [The Assassin (2015 Remaster)](https://www.youtube.com/watch?v=qwBN-RiRzOY)
-- [Iron Maiden - Bring Your Daughter To The Slaughter (Official Video)](https://www.youtube.com/watch?v=m0J7XnbUN5o)
-- [Run Silent Run Deep (2015 Remaster)](https://www.youtube.com/watch?v=rYic6sU0Xwc)
-- [Hooks in You (2015 Remaster)](https://www.youtube.com/watch?v=GVUvqJVffHM)
-- [Mother Russia (2015 Remaster)](https://www.youtube.com/watch?v=GXlLVuocO_Y)
-- [Iron Maiden – No Prayer For The Dying](https://www.youtube.com/watch?v=FXcpz8OEwOk)
-- [Iron Maiden – Public Enema Number One](https://www.youtube.com/watch?v=3MLpcIbYwWA)
-- [Iron Maiden – Run Silent Run Deep](https://www.youtube.com/watch?v=8nEWHuLXKKk)
-- [Iron Maiden – Mother Russia](https://www.youtube.com/watch?v=OSwyoVF4Gw8)
-- [Iron Maiden – Holy Smoke](https://www.youtube.com/watch?v=rsaRrVJ_6SQ)
-- [Iron Maiden – Hooks In You](https://www.youtube.com/watch?v=V3O0qZi43h4)
-- [Iron Maiden – Fates Warning](https://www.youtube.com/watch?v=XkpteI-fOYA)
-- [Iron Maiden – The Assassin](https://www.youtube.com/watch?v=rGXuk0ElZpI)
-- [Iron Maiden – Tailgunner](https://www.youtube.com/watch?v=1xDYQopRHig)
+- [Iron Maiden - Holy Smoke Official Video](https://www.youtube.com/watch?v=xPV4jlOlWjA)
+- [No Prayer for the Dying 2015 Remaster](https://www.youtube.com/watch?v=QonEs-Teci4)
+- [Public Enema Number One 2015 Remaster](https://www.youtube.com/watch?v=DRzeK7l3hks)
+- [Fates Warning 2015 Remaster](https://www.youtube.com/watch?v=UGL6VsL_sA4)
+- [The Assassin 2015 Remaster](https://www.youtube.com/watch?v=qwBN-RiRzOY)
+- [Iron Maiden - Bring Your Daughter To The Slaughter Official Video](https://www.youtube.com/watch?v=m0J7XnbUN5o)
+- [Run Silent Run Deep 2015 Remaster](https://www.youtube.com/watch?v=rYic6sU0Xwc)
+- [Hooks in You 2015 Remaster](https://www.youtube.com/watch?v=GVUvqJVffHM)
+- [Mother Russia 2015 Remaster](https://www.youtube.com/watch?v=GXlLVuocO_Y)
+- [Iron Maiden  No Prayer For The Dying](https://www.youtube.com/watch?v=FXcpz8OEwOk)
+- [Iron Maiden  Public Enema Number One](https://www.youtube.com/watch?v=3MLpcIbYwWA)
+- [Iron Maiden  Run Silent Run Deep](https://www.youtube.com/watch?v=8nEWHuLXKKk)
+- [Iron Maiden  Mother Russia](https://www.youtube.com/watch?v=OSwyoVF4Gw8)
+- [Iron Maiden  Holy Smoke](https://www.youtube.com/watch?v=rsaRrVJ_6SQ)
+- [Iron Maiden  Hooks In You](https://www.youtube.com/watch?v=V3O0qZi43h4)
+- [Iron Maiden  Fates Warning](https://www.youtube.com/watch?v=XkpteI-fOYA)
+- [Iron Maiden  The Assassin](https://www.youtube.com/watch?v=rGXuk0ElZpI)
+- [Iron Maiden  Tailgunner](https://www.youtube.com/watch?v=1xDYQopRHig)
 
 ## Release Images
 {{< imageGrid >}}

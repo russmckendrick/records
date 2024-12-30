@@ -52,13 +52,13 @@ The album followed a working hiatus by the band following the disappointing comm
 
 - [Run On Empty](https://www.youtube.com/watch?v=3buLGt6tXuM)
 - [Wishing It Away](https://www.youtube.com/watch?v=J6p9kJppv98)
-- [They're Out There](https://www.youtube.com/watch?v=-vxJr1O7PSw)
+- [Theyre Out There](https://www.youtube.com/watch?v=-vxJr1O7PSw)
 - [For A Moment](https://www.youtube.com/watch?v=rddH7lSsKrk)
 - [February](https://www.youtube.com/watch?v=jxw2HQIFz6s)
 - [Top Of The World](https://www.youtube.com/watch?v=LxgWy4dB9mc)
 - [Motion](https://www.youtube.com/watch?v=3rInP9LH_EQ)
 - [Rails](https://www.youtube.com/watch?v=NlnAFGZssxs)
-- [Chemical #1](https://www.youtube.com/watch?v=IUXQhXfd0ts)
+- [Chemical 1](https://www.youtube.com/watch?v=IUXQhXfd0ts)
 - [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
 - [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 

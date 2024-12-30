@@ -48,16 +48,16 @@ The Sophtware Slump is the second studio album by American indie rock band Grand
 
 
 ## Videos
-### Grandaddy - He's Simple, He's Dumb, He's the Pilot
-{{< youtube id="IURAKQV7q_o" title="Grandaddy - He's Simple, He's Dumb, He's the Pilot" >}}<br>
+### Grandaddy - Hes Simple Hes Dumb Hes the Pilot
+{{< youtube id="IURAKQV7q_o" title="Grandaddy - Hes Simple Hes Dumb Hes the Pilot" >}}<br>
 ### More Videos
 
 - [Grandaddy - Jed the Humaniod](https://www.youtube.com/watch?v=veqZc8pNz-4)
-- [Grandaddy - Jed's Other Poem](https://www.youtube.com/watch?v=QoyLvXQFbWE)
-- [Grandaddy - Hewlett's Daughter](https://www.youtube.com/watch?v=5OYwjvnabM8)
+- [Grandaddy - Jeds Other Poem](https://www.youtube.com/watch?v=QoyLvXQFbWE)
+- [Grandaddy - Hewletts Daughter](https://www.youtube.com/watch?v=5OYwjvnabM8)
 - [Grandaddy - Underneath the Weeping Willow](https://www.youtube.com/watch?v=uYeNZkqCWHw)
-- [Grandaddy - E. Knievel Interlude (The Perils Of Keeping It Real)](https://www.youtube.com/watch?v=YqEIsiF95Lc)
-- [Grandaddy - The Sophtware Slump (2000) [Full Album]](https://www.youtube.com/watch?v=RIGqUy8gzGY)
+- [Grandaddy - E Knievel Interlude The Perils Of Keeping It Real](https://www.youtube.com/watch?v=YqEIsiF95Lc)
+- [Grandaddy - The Sophtware Slump 2000 Full Album](https://www.youtube.com/watch?v=RIGqUy8gzGY)
 
 ## Release Images
 {{< imageGrid >}}

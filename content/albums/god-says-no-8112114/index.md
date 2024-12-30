@@ -68,10 +68,10 @@ Two different music videos were produced for the song "Heads Explode" and one fo
 {{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}<br>
 ### More Videos
 
-- [MONSTER MAGNET - Heads Explode unedited [God Says No] [HDadv][1080p]](https://www.youtube.com/watch?v=WhJGAbBVzQw)
+- [MONSTER MAGNET - Heads Explode unedited God Says No HDadv1080p](https://www.youtube.com/watch?v=WhJGAbBVzQw)
 - [All Shook Out - Monster Magnet - God Says No](https://www.youtube.com/watch?v=luq69m7Sp-g)
 - [Monster Magnet - Down in the Jungle](https://www.youtube.com/watch?v=HTMOv_2YgWg)
-- [Monster Magnet-Queen of You (lyrics)](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
+- [Monster Magnet-Queen of You lyrics](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
 - [Silver Future - Monster Magnet - God Says No](https://www.youtube.com/watch?v=kuixhLvxA5A)
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=SQ8MmFISmXQ)

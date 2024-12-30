@@ -85,8 +85,8 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 
 
 ## Videos
-### W.I.T.C.H. - Lazy Bones
-{{< youtube id="NNoGPyCWL-M" title="W.I.T.C.H. - Lazy Bones" >}}<br>
+### WITCH - Lazy Bones
+{{< youtube id="NNoGPyCWL-M" title="WITCH - Lazy Bones" >}}<br>
 
 
 ## Release Images

@@ -48,23 +48,23 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 
 
 ## Videos
-### Heart - If Looks Could Kill (Live 1990)
-{{< youtube id="iR0fIUu0rWU" title="Heart - If Looks Could Kill (Live 1990)" >}}<br>
+### Heart - If Looks Could Kill Live 1990
+{{< youtube id="iR0fIUu0rWU" title="Heart - If Looks Could Kill Live 1990" >}}<br>
 ### More Videos
 
-- [LP / Heart – Heart / 1985](https://www.youtube.com/watch?v=6mLyuKH24VQ)
+- [LP  Heart  Heart  1985](https://www.youtube.com/watch?v=6mLyuKH24VQ)
 - [These Dreams HEART 1985 LP](https://www.youtube.com/watch?v=4tbPIoL2wOw)
-- [Heart - If Looks Could Kill (Live 1990)](https://www.youtube.com/watch?v=iR0fIUu0rWU)
-- [Heart - If looks could kill [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=1qfc5e3r65Q)
-- [Heart - The wolf [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=-kzPuORckEk)
-- [Heart - What about love [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=p8YwufAbiWA)
-- [Heart - Never [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=vLRHWYP78D4)
-- [Heart - These dreams [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=Pt_3uddGa4g)
-- [Heart - All eyes [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=c_lJU14nhgw)
-- [Heart - Nobody home [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=ePNGtYqWx2U)
-- [Heart - Nothin' at all [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=lQmQqz4nxmU)
-- [Heart - What he don't know [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=VsMeGnSMotk)
-- [Heart - Shell shock [lyrics] (HQ Sound) (AOR/Melodic Rock)](https://www.youtube.com/watch?v=zoAuNNbD5fU)
+- [Heart - If Looks Could Kill Live 1990](https://www.youtube.com/watch?v=iR0fIUu0rWU)
+- [Heart - If looks could kill lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=1qfc5e3r65Q)
+- [Heart - The wolf lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=-kzPuORckEk)
+- [Heart - What about love lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=p8YwufAbiWA)
+- [Heart - Never lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=vLRHWYP78D4)
+- [Heart - These dreams lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=Pt_3uddGa4g)
+- [Heart - All eyes lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=c_lJU14nhgw)
+- [Heart - Nobody home lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=ePNGtYqWx2U)
+- [Heart - Nothin at all lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=lQmQqz4nxmU)
+- [Heart - What he dont know lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=VsMeGnSMotk)
+- [Heart - Shell shock lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=zoAuNNbD5fU)
 
 ## Release Images
 {{< imageGrid >}}

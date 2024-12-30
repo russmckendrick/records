@@ -69,26 +69,26 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 
 
 ## Videos
-### Joe Satriani Surfing with the alien!
-{{< youtube id="uoERl34Ld00" title="Joe Satriani Surfing with the alien!" >}}<br>
+### Joe Satriani Surfing with the alien
+{{< youtube id="uoERl34Ld00" title="Joe Satriani Surfing with the alien" >}}<br>
 ### More Videos
 
 - [Joe Satriani - Ice 9](https://www.youtube.com/watch?v=eyVWQH7jIg8)
 - [Joe Satriani - Crushing Day](https://www.youtube.com/watch?v=eFRhmKuD9x8)
-- [Joe Satriani - Always with Me, Always with you](https://www.youtube.com/watch?v=vxeYDEOXsqU)
+- [Joe Satriani - Always with Me Always with you](https://www.youtube.com/watch?v=vxeYDEOXsqU)
 - [Joe Satriani-Satch Boogie](https://www.youtube.com/watch?v=lCGCG_N2b30)
 - [Joe Satriani - Hill of the Skull](https://www.youtube.com/watch?v=tl4OB2zjzD4)
 - [Joe Satriani - Circles](https://www.youtube.com/watch?v=gOnUAWIZPIg)
 - [Joe Satriani - Lords of Karma](https://www.youtube.com/watch?v=hrwk0COfggo)
 - [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
 - [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
-- [Joe Satriani – Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
-- [Joe Satriani – Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
-- [Joe Satriani – Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
-- [Joe Satriani – Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
-- [Joe Satriani – Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
-- [Joe Satriani – Always With Me, Always With You](https://www.youtube.com/watch?v=L1pQMsR4MGU)
-- [Joe Satriani – Satch Boogie](https://www.youtube.com/watch?v=FpQ_wzfJZsU)
+- [Joe Satriani  Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
+- [Joe Satriani  Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
+- [Joe Satriani  Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
+- [Joe Satriani  Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
+- [Joe Satriani  Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
+- [Joe Satriani  Always With Me Always With You](https://www.youtube.com/watch?v=L1pQMsR4MGU)
+- [Joe Satriani  Satch Boogie](https://www.youtube.com/watch?v=FpQ_wzfJZsU)
 
 ## Release Images
 {{< imageGrid >}}

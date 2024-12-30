@@ -46,10 +46,10 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 {{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}<br>
 ### More Videos
 
-- [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
+- [Rosalie Cunningham - Rosalie Cunningham Full Album 2019](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 - [Rosalie Cunningham - Ride On My Bike OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5l5YOplmlio)
 - [Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=KYB4HyH_GPU)
-- [Rosalie Cunningham - Rosalie Cunningham (Full Album 2019)](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
+- [Rosalie Cunningham - Rosalie Cunningham Full Album 2019](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
 - [Rosalie Cunningham - Ride On My Bike OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5l5YOplmlio)
 
 ## Release Images

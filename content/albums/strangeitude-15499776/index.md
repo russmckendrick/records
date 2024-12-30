@@ -42,16 +42,16 @@ Strangeitude is the third studio album by British band Ozric Tentacles. It was r
 
 
 ## Videos
-### Ozric Tentacles ► Bizarre Bazaar [HQ Audio] Strangeitude 1991
-{{< youtube id="bZ8T6pnGk84" title="Ozric Tentacles ► Bizarre Bazaar [HQ Audio] Strangeitude 1991" >}}<br>
+### Ozric Tentacles  Bizarre Bazaar HQ Audio Strangeitude 1991
+{{< youtube id="bZ8T6pnGk84" title="Ozric Tentacles  Bizarre Bazaar HQ Audio Strangeitude 1991" >}}<br>
 ### More Videos
 
-- [White Rhino Tea (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=NwhHFbeMILQ)
-- [Sploosh! (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=8nHntiMfapA)
-- [Saucers (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=KWKFUvdWZT0)
-- [Strangeitude (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=ZxLG8gvkqYk)
-- [Bizarre Bazaar (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=20zYKVTYMHo)
-- [Space Between Your Ears (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=kDtVjThwXGc)
+- [White Rhino Tea 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=NwhHFbeMILQ)
+- [Sploosh 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=8nHntiMfapA)
+- [Saucers 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=KWKFUvdWZT0)
+- [Strangeitude 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=ZxLG8gvkqYk)
+- [Bizarre Bazaar 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=20zYKVTYMHo)
+- [Space Between Your Ears 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=kDtVjThwXGc)
 
 ## Release Images
 {{< imageGrid >}}

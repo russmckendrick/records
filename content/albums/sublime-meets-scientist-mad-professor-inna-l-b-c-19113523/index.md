@@ -44,21 +44,21 @@ styles: ["Dub"]
 {{< youtube id="EsHLjK2cQws" title="MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub" >}}<br>
 ### More Videos
 
-- [Sublime~meets Scientists & Mad Professor~Dub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
-- [Sublime - Garden Grove Vocal Dub (Scientist Mix)](https://www.youtube.com/watch?v=vhm6uKeUHHM)
-- [Sublime - Pawn Shop Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=K6mzegiKD2c)
-- [Sublime - Hong Kong Phooey Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=guHlxH4Em-A)
-- [Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=fAGSE9ddZV4)
-- [Sublime - Santeria Dub (Scientist Mix)](https://www.youtube.com/watch?v=5vr7Te-AJfI)
-- [Sublime Meets Scientist & Mad Professor - Caress Me Down - Español Dub (Scientist Mix)](https://www.youtube.com/watch?v=wu4zXIFAsXI)
+- [Sublimemeets Scientists  Mad ProfessorDub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
+- [Sublime - Garden Grove Vocal Dub Scientist Mix](https://www.youtube.com/watch?v=vhm6uKeUHHM)
+- [Sublime - Pawn Shop Dub Mad Professor Mix](https://www.youtube.com/watch?v=K6mzegiKD2c)
+- [Sublime - Hong Kong Phooey Dub Mad Professor Mix](https://www.youtube.com/watch?v=guHlxH4Em-A)
+- [Sublime - April 29 1992 Miami Dub Mad Professor Mix](https://www.youtube.com/watch?v=fAGSE9ddZV4)
+- [Sublime - Santeria Dub Scientist Mix](https://www.youtube.com/watch?v=5vr7Te-AJfI)
+- [Sublime Meets Scientist  Mad Professor - Caress Me Down - Español Dub Scientist Mix](https://www.youtube.com/watch?v=wu4zXIFAsXI)
 - [MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub](https://www.youtube.com/watch?v=EsHLjK2cQws)
-- [Sublime~meets Scientists & Mad Professor~Dub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
-- [Sublime - Garden Grove Vocal Dub (Scientist Mix)](https://www.youtube.com/watch?v=vhm6uKeUHHM)
-- [Sublime - Pawn Shop Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=K6mzegiKD2c)
-- [Sublime - Hong Kong Phooey Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=guHlxH4Em-A)
-- [Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=fAGSE9ddZV4)
-- [Sublime - Santeria Dub (Scientist Mix)](https://www.youtube.com/watch?v=5vr7Te-AJfI)
-- [Sublime Meets Scientist & Mad Professor - Caress Me Down - Español Dub (Scientist Mix)](https://www.youtube.com/watch?v=wu4zXIFAsXI)
+- [Sublimemeets Scientists  Mad ProfessorDub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
+- [Sublime - Garden Grove Vocal Dub Scientist Mix](https://www.youtube.com/watch?v=vhm6uKeUHHM)
+- [Sublime - Pawn Shop Dub Mad Professor Mix](https://www.youtube.com/watch?v=K6mzegiKD2c)
+- [Sublime - Hong Kong Phooey Dub Mad Professor Mix](https://www.youtube.com/watch?v=guHlxH4Em-A)
+- [Sublime - April 29 1992 Miami Dub Mad Professor Mix](https://www.youtube.com/watch?v=fAGSE9ddZV4)
+- [Sublime - Santeria Dub Scientist Mix](https://www.youtube.com/watch?v=5vr7Te-AJfI)
+- [Sublime Meets Scientist  Mad Professor - Caress Me Down - Español Dub Scientist Mix](https://www.youtube.com/watch?v=wu4zXIFAsXI)
 
 ## Release Images
 {{< imageGrid >}}

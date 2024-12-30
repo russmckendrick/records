@@ -47,21 +47,21 @@ styles: ["Heavy Metal", "Groove Metal"]
 
 
 ## Videos
-### White Zombie - Thunder Kiss '65 (Official Video)
-{{< youtube id="yPNFVj-pISU" title="White Zombie - Thunder Kiss '65 (Official Video)" >}}<br>
+### White Zombie - Thunder Kiss 65 Official Video
+{{< youtube id="yPNFVj-pISU" title="White Zombie - Thunder Kiss 65 Official Video" >}}<br>
 ### More Videos
 
-- [White Zombie - Welcome To Planet M.F.](https://www.youtube.com/watch?v=H8gHMU-pDbU)
-- [Knuckle Duster (Radio 1-A)](https://www.youtube.com/watch?v=TdKMLrGpcgA)
-- [White Zombie ft. Iggy Pop - Black Sunshine (Official Video)](https://www.youtube.com/watch?v=sqPClltS5k8)
+- [White Zombie - Welcome To Planet MF](https://www.youtube.com/watch?v=H8gHMU-pDbU)
+- [Knuckle Duster Radio 1-A](https://www.youtube.com/watch?v=TdKMLrGpcgA)
+- [White Zombie ft Iggy Pop - Black Sunshine Official Video](https://www.youtube.com/watch?v=sqPClltS5k8)
 - [Soul-Crusher](https://www.youtube.com/watch?v=8izPzFRDYPQ)
-- [Cosmic Monsters Inc.](https://www.youtube.com/watch?v=lgNf3Y3NGXw)
-- [Spiderbaby (Yeah-Yeah-Yeah)](https://www.youtube.com/watch?v=PLP9SjkaTDM)
+- [Cosmic Monsters Inc](https://www.youtube.com/watch?v=lgNf3Y3NGXw)
+- [Spiderbaby Yeah-Yeah-Yeah](https://www.youtube.com/watch?v=PLP9SjkaTDM)
 - [I Am Legend](https://www.youtube.com/watch?v=GIIogW9TIRY)
-- [Knuckle Duster (Radio 2-B)](https://www.youtube.com/watch?v=uGquavnWMOM)
-- [Thrust!](https://www.youtube.com/watch?v=3g6AgWNcc4E)
+- [Knuckle Duster Radio 2-B](https://www.youtube.com/watch?v=uGquavnWMOM)
+- [Thrust](https://www.youtube.com/watch?v=3g6AgWNcc4E)
 - [One Big Crunch](https://www.youtube.com/watch?v=oUfr7Hhd-Jg)
-- [Grindhouse (A Go-Go)](https://www.youtube.com/watch?v=iEGLwoi_x6A)
+- [Grindhouse A Go-Go](https://www.youtube.com/watch?v=iEGLwoi_x6A)
 - [Starface](https://www.youtube.com/watch?v=mGHQ6_-jK_A)
 - [Warp Asylum](https://www.youtube.com/watch?v=8Ni6q-qHn04)
 

@@ -56,16 +56,16 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Videos
-### Alice In Chains - Them Bones (Official HD Video)
-{{< youtube id="zTuD8k3JvxQ" title="Alice In Chains - Them Bones (Official HD Video)" >}}<br>
+### Alice In Chains - Them Bones Official HD Video
+{{< youtube id="zTuD8k3JvxQ" title="Alice In Chains - Them Bones Official HD Video" >}}<br>
 ### More Videos
 
 - [Dam That River](https://www.youtube.com/watch?v=UVFd4tpphvE)
 - [Rain When I Die](https://www.youtube.com/watch?v=v8uJoLJJP70)
-- [Alice In Chains - Rooster (Official HD Video)](https://www.youtube.com/watch?v=uAE6Il6OTcs)
-- [Alice In Chains - Angry Chair (Official HD Video)](https://www.youtube.com/watch?v=IpEXM1Yziws)
-- [Alice In Chains - Down in a Hole (Official Video)](https://www.youtube.com/watch?v=f8hT3oDDf6c)
-- [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
+- [Alice In Chains - Rooster Official HD Video](https://www.youtube.com/watch?v=uAE6Il6OTcs)
+- [Alice In Chains - Angry Chair Official HD Video](https://www.youtube.com/watch?v=IpEXM1Yziws)
+- [Alice In Chains - Down in a Hole Official Video](https://www.youtube.com/watch?v=f8hT3oDDf6c)
+- [Alice In Chains - Would Official HD Video](https://www.youtube.com/watch?v=Nco_kh8xJDs)
 - [Junkhead](https://www.youtube.com/watch?v=bjOG0meK-vk)
 - [Dirt](https://www.youtube.com/watch?v=kfmatjm2NdU)
 - [God Smack](https://www.youtube.com/watch?v=Q0L_YzqdzjQ)

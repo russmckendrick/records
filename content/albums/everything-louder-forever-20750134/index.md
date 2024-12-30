@@ -92,30 +92,30 @@ styles: ["Heavy Metal"]
 
 
 ## Videos
-### Motörhead – Ace Of Spades (Official Video)
-{{< youtube id="3mbvWn1EY6g" title="Motörhead – Ace Of Spades (Official Video)" >}}<br>
+### Motörhead  Ace Of Spades Official Video
+{{< youtube id="3mbvWn1EY6g" title="Motörhead  Ace Of Spades Official Video" >}}<br>
 ### More Videos
 
-- [Motörhead – We Are Motörhead (Official Video)](https://www.youtube.com/watch?v=rrtYh-E7B-E)
-- [Motörhead – Rock Out (Official Video)](https://www.youtube.com/watch?v=tHV7AwkzYWg)
-- [Motörhead – Whorehouse Blues (Official Video)](https://www.youtube.com/watch?v=6fQc57t7VSA)
-- [Motörhead – Life’s A Bitch (Official Video)](https://www.youtube.com/watch?v=vD0VJV6srao)
-- [Motörhead – I Don’t Believe A Word (Official Video)](https://www.youtube.com/watch?v=Qs-n-rtd-PI)
-- [Motörhead – Be My Baby (Official Video)](https://www.youtube.com/watch?v=RRqwCtttvuc)
+- [Motörhead  We Are Motörhead Official Video](https://www.youtube.com/watch?v=rrtYh-E7B-E)
+- [Motörhead  Rock Out Official Video](https://www.youtube.com/watch?v=tHV7AwkzYWg)
+- [Motörhead  Whorehouse Blues Official Video](https://www.youtube.com/watch?v=6fQc57t7VSA)
+- [Motörhead  Lifes A Bitch Official Video](https://www.youtube.com/watch?v=vD0VJV6srao)
+- [Motörhead  I Dont Believe A Word Official Video](https://www.youtube.com/watch?v=Qs-n-rtd-PI)
+- [Motörhead  Be My Baby Official Video](https://www.youtube.com/watch?v=RRqwCtttvuc)
 - [God Save the Queen](https://www.youtube.com/watch?v=sqG-_9uYNkM)
-- [Motörhead – God Save The Queen (Official Video)](https://www.youtube.com/watch?v=Qa1wdUkeuvE)
-- [Motörhead – The Chase Is Better Than The Catch (Official Video)](https://www.youtube.com/watch?v=PktB0bxo2oQ)
-- [Motörhead – Killed By Death (Official Video)](https://www.youtube.com/watch?v=LZ5fIKmn1ok)
+- [Motörhead  God Save The Queen Official Video](https://www.youtube.com/watch?v=Qa1wdUkeuvE)
+- [Motörhead  The Chase Is Better Than The Catch Official Video](https://www.youtube.com/watch?v=PktB0bxo2oQ)
+- [Motörhead  Killed By Death Official Video](https://www.youtube.com/watch?v=LZ5fIKmn1ok)
 - [Motörhead - Everything Louder Forever - The Very Best Of Vinyl Unboxing](https://www.youtube.com/watch?v=qRbyWW9BQ2U)
-- [Motörhead – ‘Everything Louder Forever – The Very Best Of’ 2CD & 2LP unboxing](https://www.youtube.com/watch?v=hVLg1xeJEpY)
-- [MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl.](https://www.youtube.com/watch?v=_Sz3tiWxalI)
+- [Motörhead  Everything Louder Forever  The Very Best Of 2CD  2LP unboxing](https://www.youtube.com/watch?v=hVLg1xeJEpY)
+- [MOTORHEAD Unboxing-Everything Louder Forever - The Very Best Of - Deluxe Edition 4LP Vinyl](https://www.youtube.com/watch?v=_Sz3tiWxalI)
 - [MOTORHEAD Best Song 2121 - Greatest Hit Of Motorhead Full Album](https://www.youtube.com/watch?v=s-vgBwNv_Wo)
 - [MOTORHEAD EVERYTHING LOUDER FOREVER](https://www.youtube.com/watch?v=eIqfnTYAie0)
-- [Обзор виниловой пластинки Motorhead - Everything Louder Forever (The Very Best Of)](https://www.youtube.com/watch?v=teHrdPXQQBE)
+- [Обзор виниловой пластинки Motorhead - Everything Louder Forever The Very Best Of](https://www.youtube.com/watch?v=teHrdPXQQBE)
 - [Motörhead - Everything Louder Forever - The Very Best Of Album Info](https://www.youtube.com/watch?v=7v5-lV3UKiw)
 - [Motörhead Everything Louder Forever Side A Vinyl Rip](https://www.youtube.com/watch?v=UaCJ-Q12oP0)
-- [Motörhead – Everything Louder Than Everyone Else (Vinyl RIP)](https://www.youtube.com/watch?v=XZXw25wzRB8)
-- [Motörhead – Overkill (Official Video)](https://www.youtube.com/watch?v=MlzTET_8SQg)
+- [Motörhead  Everything Louder Than Everyone Else Vinyl RIP](https://www.youtube.com/watch?v=XZXw25wzRB8)
+- [Motörhead  Overkill Official Video](https://www.youtube.com/watch?v=MlzTET_8SQg)
 
 ## Release Images
 {{< imageGrid >}}

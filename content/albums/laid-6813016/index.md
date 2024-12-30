@@ -51,15 +51,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### James - Say Something (US Version)
-{{< youtube id="50dZQkrqxAk" title="James - Say Something (US Version)" >}}<br>
+### James - Say Something US Version
+{{< youtube id="50dZQkrqxAk" title="James - Say Something US Version" >}}<br>
 ### More Videos
 
-- [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
+- [James - Laid Version 3 Official Video](https://www.youtube.com/watch?v=0trh9Y598fM)
 - [James - Out to get you](https://www.youtube.com/watch?v=rZ_ePY2CjRw)
 - [James - Sometimes](https://www.youtube.com/watch?v=ejU5YAHN3vQ)
 - [James - Sometimes](https://www.youtube.com/watch?v=LGfnw4YscBA)
-- [James - One Of The Three (Video Subtitulado)](https://www.youtube.com/watch?v=K2hqxNywzIA)
+- [James - One Of The Three Video Subtitulado](https://www.youtube.com/watch?v=K2hqxNywzIA)
 - [James - Say Something](https://www.youtube.com/watch?v=icehffFWOck)
 - [James - Low Low Low](https://www.youtube.com/watch?v=0Q1XkhswlsQ)
 

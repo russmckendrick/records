@@ -57,14 +57,14 @@ The connection to <i>Harvest</i> is explicit, but the album also fits in a set o
 
 
 ## Videos
-### N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)
-{{< youtube id="0x2woMlGHYM" title="N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)" >}}<br>
+### Neil Young - Harvest Moon Full Album
+{{< youtube id="0x2woMlGHYM" title="Neil Young - Harvest Moon Full Album" >}}<br>
 ### More Videos
 
-- [N̲eil Y̲o̲u̲n̲g - H̲arvest M̲o̲o̲n (Full Album)](https://www.youtube.com/watch?v=0x2woMlGHYM)
-- [Neil Young - Harvest Moon [Official Music Video]](https://www.youtube.com/watch?v=n2MtEsrcTTs)
+- [Neil Young - Harvest Moon Full Album](https://www.youtube.com/watch?v=0x2woMlGHYM)
+- [Neil Young - Harvest Moon Official Music Video](https://www.youtube.com/watch?v=n2MtEsrcTTs)
 - [Neil Young - One Of These Days](https://www.youtube.com/watch?v=_RuuyZYGSzU)
-- [DREAMIN' MAN - Neil Young](https://www.youtube.com/watch?v=Jv-knusIj0w)
+- [DREAMIN MAN - Neil Young](https://www.youtube.com/watch?v=Jv-knusIj0w)
 - [Neil Young Natural Beauty](https://www.youtube.com/watch?v=GqQlt9K4g6I)
 
 ## Release Images

@@ -54,11 +54,11 @@ The album describes terrorism and danger (and on the last song, â€œThe Overloadâ
 
 
 ## Videos
-### Talking Heads - Once In A Lifetime (Official Audio)
-{{< youtube id="fR0jgT9UX0Q" title="Talking Heads - Once In A Lifetime (Official Audio)" >}}<br>
+### Talking Heads - Once In A Lifetime Official Audio
+{{< youtube id="fR0jgT9UX0Q" title="Talking Heads - Once In A Lifetime Official Audio" >}}<br>
 ### More Videos
 
-- [Born Under Punches (The Heat Goes On)](https://www.youtube.com/watch?v=Mmp5jAKpyns)
+- [Born Under Punches The Heat Goes On](https://www.youtube.com/watch?v=Mmp5jAKpyns)
 - [Crosseyed and Painless](https://www.youtube.com/watch?v=hVBr3kVF9qM)
 - [The Great Curve](https://www.youtube.com/watch?v=dGsHLKyZ8H8)
 - [Houses in Motion](https://www.youtube.com/watch?v=PjIR1ESQLI0)

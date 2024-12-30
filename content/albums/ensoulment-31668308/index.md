@@ -94,20 +94,20 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 {{< youtube id="_HhRjEBr6vM" title="Cognitive Dissident" >}}<br>
 ### More Videos
 
-- [Zen & the Art of Dating](https://www.youtube.com/watch?v=BHI8GQnppJc)
+- [Zen  the Art of Dating](https://www.youtube.com/watch?v=BHI8GQnppJc)
 - [A Rainy Day in May](https://www.youtube.com/watch?v=gfPiC8vqMKE)
-- [Risin' Above the Need](https://www.youtube.com/watch?v=SEgahxpFbjQ)
+- [Risin Above the Need](https://www.youtube.com/watch?v=SEgahxpFbjQ)
 - [Life After Life](https://www.youtube.com/watch?v=ce1tAGKCtic)
 - [Linoleum Smooth to the Stockinged Foot](https://www.youtube.com/watch?v=uzQ-aDT8tXU)
 - [I Want to Wake up with You](https://www.youtube.com/watch?v=df6CEhx_ipw)
 - [Kissing the Ring of Potus](https://www.youtube.com/watch?v=KDzZXBPiptc)
-- [Where Do We Go When We Die?](https://www.youtube.com/watch?v=u9L-SMmf5pM)
+- [Where Do We Go When We Die](https://www.youtube.com/watch?v=u9L-SMmf5pM)
 - [Some Days I Drink My Coffee by the Grave of William Blake](https://www.youtube.com/watch?v=h2-4pYP-LJY)
 - [Down by the Frozen River](https://www.youtube.com/watch?v=62A2no3jFkU)
-- [I Hope You Remember (The Things I Can't Forget)](https://www.youtube.com/watch?v=THTpwdyMjVk)
-- [THE THE –  COGNITIVE DISSIDENT](https://www.youtube.com/watch?v=Gmwkzk2bPms)
-- [THE THE – LINOLEUM SMOOTH TO THE STOCKINGED FOOT](https://www.youtube.com/watch?v=qvtDKcADs6c)
-- [THE THE - Some Days I Drink My Coffee By The Grave Of William Blake (Official Video)](https://www.youtube.com/watch?v=irmURXnkt54)
+- [I Hope You Remember The Things I Cant Forget](https://www.youtube.com/watch?v=THTpwdyMjVk)
+- [THE THE   COGNITIVE DISSIDENT](https://www.youtube.com/watch?v=Gmwkzk2bPms)
+- [THE THE  LINOLEUM SMOOTH TO THE STOCKINGED FOOT](https://www.youtube.com/watch?v=qvtDKcADs6c)
+- [THE THE - Some Days I Drink My Coffee By The Grave Of William Blake Official Video](https://www.youtube.com/watch?v=irmURXnkt54)
 
 ## Release Images
 {{< imageGrid >}}

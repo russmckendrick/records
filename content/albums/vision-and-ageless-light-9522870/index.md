@@ -36,8 +36,8 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 
 ## Videos
-### EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016
-{{< youtube id="DXmw3SgL49E" title="EYE ► Kill The Slavemaster [HQ Audio] Vision And Ageless Light 2016" >}}<br>
+### EYE  Kill The Slavemaster HQ Audio Vision And Ageless Light 2016
+{{< youtube id="DXmw3SgL49E" title="EYE  Kill The Slavemaster HQ Audio Vision And Ageless Light 2016" >}}<br>
 ### More Videos
 
 - [Book of the Dead](https://www.youtube.com/watch?v=NrnLQ3Sz4d4)

@@ -41,18 +41,18 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Chances Are (Official Music Video)
-{{< youtube id="Q8iw7N1opTw" title="Chances Are (Official Music Video)" >}}<br>
+### Chances Are Official Music Video
+{{< youtube id="Q8iw7N1opTw" title="Chances Are Official Music Video" >}}<br>
 ### More Videos
 
 - [Walking](https://www.youtube.com/watch?v=70jJTeu-06o)
 - [Premiere Fois](https://www.youtube.com/watch?v=IADrE_1e_N4)
-- [Unlikely Friend (feat. Washington)](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
+- [Unlikely Friend feat Washington](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
 - [Strange Stars](https://www.youtube.com/watch?v=H5YTiBEsoYc)
-- [Chances Are (Official Music Video)](https://www.youtube.com/watch?v=Q8iw7N1opTw)
+- [Chances Are Official Music Video](https://www.youtube.com/watch?v=Q8iw7N1opTw)
 - [Walking](https://www.youtube.com/watch?v=70jJTeu-06o)
 - [Premiere Fois](https://www.youtube.com/watch?v=IADrE_1e_N4)
-- [Unlikely Friend (feat. Washington)](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
+- [Unlikely Friend feat Washington](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
 - [Strange Stars](https://www.youtube.com/watch?v=H5YTiBEsoYc)
 
 ## Release Images

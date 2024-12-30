@@ -47,7 +47,7 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 {{< youtube id="HlNi-zZF6wI" title="Mike Oldfield - Ommadawn Full Album" >}}<br>
 ### More Videos
 
-- [Mike Oldfield - Ommadawn (Live At The Gateway Theatre Edinburgh December 1980)](https://www.youtube.com/watch?v=GvNt4D2eB9I)
+- [Mike Oldfield - Ommadawn Live At The Gateway Theatre Edinburgh December 1980](https://www.youtube.com/watch?v=GvNt4D2eB9I)
 
 ## Release Images
 {{< imageGrid >}}

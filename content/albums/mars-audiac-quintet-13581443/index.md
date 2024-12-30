@@ -86,7 +86,7 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 - [International Colouring Contest](https://www.youtube.com/watch?v=FDi3jPQqqcA)
 - [The Stars Our Destination](https://www.youtube.com/watch?v=_WhWC2an8VQ)
 - [Transporte Sans Bouger](https://www.youtube.com/watch?v=mBabDWRQprg)
-- [L'Enfer Des Formes](https://www.youtube.com/watch?v=FFWplLGivgA)
+- [LEnfer Des Formes](https://www.youtube.com/watch?v=FFWplLGivgA)
 - [Outer Accelerator](https://www.youtube.com/watch?v=sIJyYfnKTv0)
 - [New Orthophony](https://www.youtube.com/watch?v=YokDbXqrQkI)
 - [Fiery Yellow](https://www.youtube.com/watch?v=db-9TjfEKjc)

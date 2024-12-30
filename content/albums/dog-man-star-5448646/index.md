@@ -55,11 +55,11 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 
 
 ## Videos
-### Suede - Dog Man Star (1994)
-{{< youtube id="8H9AQixOwrU" title="Suede - Dog Man Star (1994)" >}}<br>
+### Suede - Dog Man Star 1994
+{{< youtube id="8H9AQixOwrU" title="Suede - Dog Man Star 1994" >}}<br>
 ### More Videos
 
-- [Suede - We Are The Pigs (Official Video)](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
+- [Suede - We Are The Pigs Official Video](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
 - [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
 - [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
 - [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)

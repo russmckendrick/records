@@ -52,24 +52,24 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 
 
 ## Videos
-### Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)
-{{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
+### Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites
+{{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites" >}}<br>
 ### More Videos
 
-- [Orbital - Halcyon + on + on (from the classic brown album)](https://www.youtube.com/watch?v=JOR1l2zSVpw)
-- [Squeeze - Heaven Knows (Official Promo Video)](https://www.youtube.com/watch?v=cmW9UiiCETQ)
+- [Orbital - Halcyon  on  on from the classic brown album](https://www.youtube.com/watch?v=JOR1l2zSVpw)
+- [Squeeze - Heaven Knows Official Promo Video](https://www.youtube.com/watch?v=cmW9UiiCETQ)
 - [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
 - [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)
-- [Grand Central Station - Guy Pratt (featuring David Gilmour)](https://www.youtube.com/watch?v=moca2B0O0RM)
-- [Hackers Soundtrack - Richest Junkie Still Alive (Sank Remix)](https://www.youtube.com/watch?v=EYkuVytnZWw)
-- [Hackers (1996) - Full Official Soundtrack](https://www.youtube.com/watch?v=JEyEkbOlMfA)
-- [Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=e7qtHLVgUi4)
-- [Orbital - Halcyon + on + on (from the classic brown album)](https://www.youtube.com/watch?v=JOR1l2zSVpw)
-- [Squeeze - Heaven Knows (Official Promo Video)](https://www.youtube.com/watch?v=cmW9UiiCETQ)
+- [Grand Central Station - Guy Pratt featuring David Gilmour](https://www.youtube.com/watch?v=moca2B0O0RM)
+- [Hackers Soundtrack - Richest Junkie Still Alive Sank Remix](https://www.youtube.com/watch?v=EYkuVytnZWw)
+- [Hackers 1996 - Full Official Soundtrack](https://www.youtube.com/watch?v=JEyEkbOlMfA)
+- [Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites](https://www.youtube.com/watch?v=e7qtHLVgUi4)
+- [Orbital - Halcyon  on  on from the classic brown album](https://www.youtube.com/watch?v=JOR1l2zSVpw)
+- [Squeeze - Heaven Knows Official Promo Video](https://www.youtube.com/watch?v=cmW9UiiCETQ)
 - [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
 - [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)
-- [Grand Central Station - Guy Pratt (featuring David Gilmour)](https://www.youtube.com/watch?v=moca2B0O0RM)
-- [Hackers Soundtrack - Richest Junkie Still Alive (Sank Remix)](https://www.youtube.com/watch?v=EYkuVytnZWw)
+- [Grand Central Station - Guy Pratt featuring David Gilmour](https://www.youtube.com/watch?v=moca2B0O0RM)
+- [Hackers Soundtrack - Richest Junkie Still Alive Sank Remix](https://www.youtube.com/watch?v=EYkuVytnZWw)
 
 ## Release Images
 {{< imageGrid >}}

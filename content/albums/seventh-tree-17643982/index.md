@@ -56,12 +56,12 @@ Four singles were released from the album. "A&E" was released as the lead single
 
 
 ## Videos
-### Goldfrapp - A&E (Official HD Video)
-{{< youtube id="p7Ptai9I6eo" title="Goldfrapp - A&E (Official HD Video)" >}}<br>
+### Goldfrapp - AE Official HD Video
+{{< youtube id="p7Ptai9I6eo" title="Goldfrapp - AE Official HD Video" >}}<br>
 ### More Videos
 
-- [Goldfrapp - Happiness (Official HD Video)](https://www.youtube.com/watch?v=mnHlGONToIc)
-- [Goldfrapp - Caravan Girl (Official HD Video)](https://www.youtube.com/watch?v=FjuPtkno5t0)
+- [Goldfrapp - Happiness Official HD Video](https://www.youtube.com/watch?v=mnHlGONToIc)
+- [Goldfrapp - Caravan Girl Official HD Video](https://www.youtube.com/watch?v=FjuPtkno5t0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -39,19 +39,19 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 
 
 ## Videos
-### R.I.D.E. (Reimagined by Pêtr Aleksänder)
-{{< youtube id="v1sOUkKI0Sc" title="R.I.D.E. (Reimagined by Pêtr Aleksänder)" >}}<br>
+### RIDE Reimagined by Pêtr Aleksänder
+{{< youtube id="v1sOUkKI0Sc" title="RIDE Reimagined by Pêtr Aleksänder" >}}<br>
 ### More Videos
 
-- [Eternal Recurrence (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=mkcJ6w7vdwY)
-- [In This Room (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=-80ImhpQquE)
-- [Clouds of Saint Marie (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=w6Gfno5kMGw)
-- [End Game (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=xz7-uQT41pM)
-- [Fifteen Minutes (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=UOIB3aRCWr4)
-- [Kill Switch (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=5CGp-10OYG0)
-- [Dial Up (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=YNecUVqMEIA)
-- [Future Love (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=MVIcN2-x3LM)
-- [Jump Jet (Reimagined by Pêtr Aleksänder)](https://www.youtube.com/watch?v=t8HP_4MFkwU)
+- [Eternal Recurrence Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=mkcJ6w7vdwY)
+- [In This Room Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=-80ImhpQquE)
+- [Clouds of Saint Marie Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=w6Gfno5kMGw)
+- [End Game Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=xz7-uQT41pM)
+- [Fifteen Minutes Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=UOIB3aRCWr4)
+- [Kill Switch Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=5CGp-10OYG0)
+- [Dial Up Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=YNecUVqMEIA)
+- [Future Love Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=MVIcN2-x3LM)
+- [Jump Jet Reimagined by Pêtr Aleksänder](https://www.youtube.com/watch?v=t8HP_4MFkwU)
 
 ## Release Images
 {{< imageGrid >}}

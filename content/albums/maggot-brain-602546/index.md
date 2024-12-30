@@ -41,14 +41,14 @@ The album charted in the R&B Top 20. It features a ten-minute title track, large
 
 
 ## Videos
-### Funkadelic - Maggot Brain [HQ]
-{{< youtube id="JOKn33-q4Ao" title="Funkadelic - Maggot Brain [HQ]" >}}<br>
+### Funkadelic - Maggot Brain HQ
+{{< youtube id="JOKn33-q4Ao" title="Funkadelic - Maggot Brain HQ" >}}<br>
 ### More Videos
 
-- [Funkadelic - Can You Get To That (HQ)](https://www.youtube.com/watch?v=8rrOdcnFbAY)
-- [Funkadelic - Maggot Brain (full album)](https://www.youtube.com/watch?v=21sP7orRS3c)
-- [Funkadelic - Can You Get To That (HQ)](https://www.youtube.com/watch?v=8rrOdcnFbAY)
-- [Funkadelic - Maggot Brain [HQ]](https://www.youtube.com/watch?v=JOKn33-q4Ao)
+- [Funkadelic - Can You Get To That HQ](https://www.youtube.com/watch?v=8rrOdcnFbAY)
+- [Funkadelic - Maggot Brain full album](https://www.youtube.com/watch?v=21sP7orRS3c)
+- [Funkadelic - Can You Get To That HQ](https://www.youtube.com/watch?v=8rrOdcnFbAY)
+- [Funkadelic - Maggot Brain HQ](https://www.youtube.com/watch?v=JOKn33-q4Ao)
 
 ## Release Images
 {{< imageGrid >}}

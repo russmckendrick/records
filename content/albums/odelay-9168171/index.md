@@ -52,13 +52,13 @@ Odelay is the fifth studio album by American musician Beck, released on June 18,
 
 
 ## Videos
-### Beck - Devils Haircut (Official Music Video)
-{{< youtube id="aa3rBVb3v4g" title="Beck - Devils Haircut (Official Music Video)" >}}<br>
+### Beck - Devils Haircut Official Music Video
+{{< youtube id="aa3rBVb3v4g" title="Beck - Devils Haircut Official Music Video" >}}<br>
 ### More Videos
 
-- [Beck - The New Pollution (Official Music Video)](https://www.youtube.com/watch?v=uxugaMpt1vU)
-- [Beck - Where It's At (Official Music Video)](https://www.youtube.com/watch?v=EPfmNxKLDG4)
-- [(1996)Odelay - BECK](https://www.youtube.com/watch?v=5sdQVVggJu4)
+- [Beck - The New Pollution Official Music Video](https://www.youtube.com/watch?v=uxugaMpt1vU)
+- [Beck - Where Its At Official Music Video](https://www.youtube.com/watch?v=EPfmNxKLDG4)
+- [1996Odelay - BECK](https://www.youtube.com/watch?v=5sdQVVggJu4)
 
 ## Release Images
 {{< imageGrid >}}

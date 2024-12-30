@@ -52,17 +52,17 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 
 
 ## Videos
-### Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]
-{{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N' Roll (Could Never Hip-Hop Like This) [Music Video]" >}}<br>
+### Handsome Boy Modeling School - Rock N Roll Could Never Hip-Hop Like This Music Video
+{{< youtube id="1w_HupwkGbE" title="Handsome Boy Modeling School - Rock N Roll Could Never Hip-Hop Like This Music Video" >}}<br>
 ### More Videos
 
-- [Handsome Boy Modeling School - Magnetizing Ft. Del Tha Funkee Homosapien](https://www.youtube.com/watch?v=tldQYRdpoLQ)
+- [Handsome Boy Modeling School - Magnetizing Ft Del Tha Funkee Homosapien](https://www.youtube.com/watch?v=tldQYRdpoLQ)
 - [Handsome Boy Modeling School - Metaphysical](https://www.youtube.com/watch?v=gcPzoWk6mmg)
-- [Look At This Face (Oh My God They're Gorgeous)](https://www.youtube.com/watch?v=zQccR1aAiJ0)
-- [Handsome Boy Modeling School_WaterWorld (feat. Encore)](https://www.youtube.com/watch?v=Ommf4ruo9jA)
+- [Look At This Face Oh My God Theyre Gorgeous](https://www.youtube.com/watch?v=zQccR1aAiJ0)
+- [Handsome Boy Modeling School_WaterWorld feat Encore](https://www.youtube.com/watch?v=Ommf4ruo9jA)
 - [Handsome Boy Modeling School - Once Again Here to Kick One For You](https://www.youtube.com/watch?v=l5dTsox4lOc)
 - [Handsome Boy Modeling School - The Truth](https://www.youtube.com/watch?v=-HW7nj-GUZY)
-- [Handsome Boy Modeling School - Holy Calamity (Bear Witness II) - So, How's Your Girl? (1999)](https://www.youtube.com/watch?v=WMmaL7vbPaM)
+- [Handsome Boy Modeling School - Holy Calamity Bear Witness II - So Hows Your Girl 1999](https://www.youtube.com/watch?v=WMmaL7vbPaM)
 - [Calling The Biz](https://www.youtube.com/watch?v=KzHFeKBEH7A)
 - [Handsome Boy Modeling School - The Projects PJays](https://www.youtube.com/watch?v=BjIBOvjL884)
 - [Handsome Boy Modeling School - Sunshine](https://www.youtube.com/watch?v=__p2IpVAEQU)

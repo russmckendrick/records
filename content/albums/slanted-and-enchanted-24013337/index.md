@@ -57,24 +57,24 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 
 
 ## Videos
-### Summer Babe (Winter Version)
-{{< youtube id="3cJY0dlzH_g" title="Summer Babe (Winter Version)" >}}<br>
+### Summer Babe Winter Version
+{{< youtube id="3cJY0dlzH_g" title="Summer Babe Winter Version" >}}<br>
 ### More Videos
 
-- [Trigger Cut/Wounded Kite at :17](https://www.youtube.com/watch?v=Lcrp3mGV_eg)
+- [Trigger CutWounded Kite at 17](https://www.youtube.com/watch?v=Lcrp3mGV_eg)
 - [No Life Singed Her](https://www.youtube.com/watch?v=RuxEvhnBKm4)
 - [In the Mouth A Desert](https://www.youtube.com/watch?v=buMcFUZVqaA)
-- [Conduit For Sale!](https://www.youtube.com/watch?v=lpwhcn9R-PQ)
+- [Conduit For Sale](https://www.youtube.com/watch?v=lpwhcn9R-PQ)
 - [Zürich Is Stained](https://www.youtube.com/watch?v=x74e-RWQP1w)
-- [Chesley's Little Wrists](https://www.youtube.com/watch?v=aEVnDo-m1f8)
-- [Loretta's Scars](https://www.youtube.com/watch?v=LW00xW1vPYo)
+- [Chesleys Little Wrists](https://www.youtube.com/watch?v=aEVnDo-m1f8)
+- [Lorettas Scars](https://www.youtube.com/watch?v=LW00xW1vPYo)
 - [Two States](https://www.youtube.com/watch?v=-ws2YMkN-J0)
 - [Perfume-V](https://www.youtube.com/watch?v=GtmEkWV2S50)
 - [Fame Throwa](https://www.youtube.com/watch?v=-9s9EMrHFYE)
-- [Jackals, False Grails: The Lonesome Era](https://www.youtube.com/watch?v=dG_69muRWCw)
+- [Jackals False Grails The Lonesome Era](https://www.youtube.com/watch?v=dG_69muRWCw)
 - [Our Singer](https://www.youtube.com/watch?v=IlmL9BggCNo)
-- [Trigger Cut/Wounded-Kite At :17](https://www.youtube.com/watch?v=-nEs3vODGrE)
-- [Summer Babe (Winter Version)](https://www.youtube.com/watch?v=skGqpC0WYSk)
+- [Trigger CutWounded-Kite At 17](https://www.youtube.com/watch?v=-nEs3vODGrE)
+- [Summer Babe Winter Version](https://www.youtube.com/watch?v=skGqpC0WYSk)
 
 ## Release Images
 {{< imageGrid >}}

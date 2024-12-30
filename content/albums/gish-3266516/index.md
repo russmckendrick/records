@@ -60,12 +60,12 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 
 
 ## Videos
-### The Smashing Pumpkins - I Am One (Official Music Video)
-{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One (Official Music Video)" >}}<br>
+### The Smashing Pumpkins - I Am One Official Music Video
+{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One Official Music Video" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins - Siva (Official Music Video)](https://www.youtube.com/watch?v=F3wAtWywrP4)
-- [The Smashing Pumpkins - Rhinoceros (Official Music Video)](https://www.youtube.com/watch?v=aVfWx9282y0)
+- [The Smashing Pumpkins - Siva Official Music Video](https://www.youtube.com/watch?v=F3wAtWywrP4)
+- [The Smashing Pumpkins - Rhinoceros Official Music Video](https://www.youtube.com/watch?v=aVfWx9282y0)
 
 ## Release Images
 {{< imageGrid >}}

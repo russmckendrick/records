@@ -51,13 +51,13 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 
 
 ## Videos
-### Zwan - Lyric (Video Version)
-{{< youtube id="CwmUMySSNQc" title="Zwan - Lyric (Video Version)" >}}<br>
+### Zwan - Lyric Video Version
+{{< youtube id="CwmUMySSNQc" title="Zwan - Lyric Video Version" >}}<br>
 ### More Videos
 
-- [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
-- [Zwan - Lyric (Video Version)](https://www.youtube.com/watch?v=CwmUMySSNQc)
-- [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
+- [Zwan - Honestly Video](https://www.youtube.com/watch?v=NLPgz9K4D20)
+- [Zwan - Lyric Video Version](https://www.youtube.com/watch?v=CwmUMySSNQc)
+- [Zwan - Honestly Video](https://www.youtube.com/watch?v=NLPgz9K4D20)
 
 ## Release Images
 {{< imageGrid >}}

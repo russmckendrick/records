@@ -53,20 +53,20 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 
 
 ## Videos
-### I Wanna Be Adored (Remastered)
-{{< youtube id="aa10yl8mirk" title="I Wanna Be Adored (Remastered)" >}}<br>
+### I Wanna Be Adored Remastered
+{{< youtube id="aa10yl8mirk" title="I Wanna Be Adored Remastered" >}}<br>
 ### More Videos
 
-- [She Bangs the Drums (Remastered)](https://www.youtube.com/watch?v=T6cUmieJwJY)
-- [Waterfall (Remastered)](https://www.youtube.com/watch?v=Sk5bekdJ78o)
-- [Don't Stop (Remastered)](https://www.youtube.com/watch?v=VTvzdEQhMIY)
-- [Bye Bye Bad Man (Remastered)](https://www.youtube.com/watch?v=QCPdjuG2KMI)
-- [Elizabeth My Dear (Remastered)](https://www.youtube.com/watch?v=zrRKmKVYrPg)
-- [[Song for My] Sugar Spun Sister (Remastered)](https://www.youtube.com/watch?v=E7wflP-o1VQ)
-- [Made of Stone (Remastered)](https://www.youtube.com/watch?v=6zDYMLtVJ4g)
-- [Shoot You Down (Remastered)](https://www.youtube.com/watch?v=SesXkvL485c)
-- [This Is the One (Remastered)](https://www.youtube.com/watch?v=DBwU_EtoP1o)
-- [I Am the Resurrection (Remastered)](https://www.youtube.com/watch?v=vWP54WPwYlI)
+- [She Bangs the Drums Remastered](https://www.youtube.com/watch?v=T6cUmieJwJY)
+- [Waterfall Remastered](https://www.youtube.com/watch?v=Sk5bekdJ78o)
+- [Dont Stop Remastered](https://www.youtube.com/watch?v=VTvzdEQhMIY)
+- [Bye Bye Bad Man Remastered](https://www.youtube.com/watch?v=QCPdjuG2KMI)
+- [Elizabeth My Dear Remastered](https://www.youtube.com/watch?v=zrRKmKVYrPg)
+- [Song for My Sugar Spun Sister Remastered](https://www.youtube.com/watch?v=E7wflP-o1VQ)
+- [Made of Stone Remastered](https://www.youtube.com/watch?v=6zDYMLtVJ4g)
+- [Shoot You Down Remastered](https://www.youtube.com/watch?v=SesXkvL485c)
+- [This Is the One Remastered](https://www.youtube.com/watch?v=DBwU_EtoP1o)
+- [I Am the Resurrection Remastered](https://www.youtube.com/watch?v=vWP54WPwYlI)
 
 ## Release Images
 {{< imageGrid >}}

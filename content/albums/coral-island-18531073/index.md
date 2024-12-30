@@ -78,16 +78,16 @@ A coral island is a type of island formed from coral detritus and associated org
 {{< youtube id="difQoPoSoxk" title="Welcome To Coral Island" >}}<br>
 ### More Videos
 
-- [The Coral - Lover Undiscovered (Official Video)](https://www.youtube.com/watch?v=UN_DS2zUEFA)
-- [The Coral - Change Your Mind (Official Video)](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
+- [The Coral - Lover Undiscovered Official Video](https://www.youtube.com/watch?v=UN_DS2zUEFA)
+- [The Coral - Change Your Mind Official Video](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
 - [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
 - [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
 - [Change Your Mind](https://www.youtube.com/watch?v=0f_0F_RR21U)
 - [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
 - [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
 - [Welcome To Coral Island](https://www.youtube.com/watch?v=difQoPoSoxk)
-- [The Coral - Lover Undiscovered (Official Video)](https://www.youtube.com/watch?v=UN_DS2zUEFA)
-- [The Coral - Change Your Mind (Official Video)](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
+- [The Coral - Lover Undiscovered Official Video](https://www.youtube.com/watch?v=UN_DS2zUEFA)
+- [The Coral - Change Your Mind Official Video](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
 - [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
 - [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
 

@@ -193,8 +193,8 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Is There Anybody Out There?
-{{< youtube id="CIxYe3G3Iz4" title="Is There Anybody Out There?" >}}<br>
+### Is There Anybody Out There
+{{< youtube id="CIxYe3G3Iz4" title="Is There Anybody Out There" >}}<br>
 ### More Videos
 
 - [Empty Spaces](https://www.youtube.com/watch?v=zL5AJHijgag)

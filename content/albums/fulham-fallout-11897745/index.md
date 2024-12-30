@@ -47,8 +47,8 @@ The style on this album is a good demonstration of how they earned the nickname 
 
 
 ## Videos
-### I Don't Need to Tell Her
-{{< youtube id="YQPuZfv1PdI" title="I Don't Need to Tell Her" >}}<br>
+### I Dont Need to Tell Her
+{{< youtube id="YQPuZfv1PdI" title="I Dont Need to Tell Her" >}}<br>
 ### More Videos
 
 - [Total War](https://www.youtube.com/watch?v=FvDz7WVD9kQ)
@@ -59,18 +59,18 @@ The style on this album is a good demonstration of how they earned the nickname 
 - [Jenny](https://www.youtube.com/watch?v=f66EOipI1Tc)
 - [Time of Year](https://www.youtube.com/watch?v=rSNkdjHxL6s)
 - [Self Destruct](https://www.youtube.com/watch?v=GHYYPvjTCos)
-- [It's Quiet Here](https://www.youtube.com/watch?v=3pkZbzZFEAg)
+- [Its Quiet Here](https://www.youtube.com/watch?v=3pkZbzZFEAg)
 - [Gerald](https://www.youtube.com/watch?v=cNeexDW0d9Q)
-- [I'm on Heat](https://www.youtube.com/watch?v=WDwbnZrKpwE)
+- [Im on Heat](https://www.youtube.com/watch?v=WDwbnZrKpwE)
 - [Be My Prisoner](https://www.youtube.com/watch?v=ofC7nYPk9Zw)
 - [Pills](https://www.youtube.com/watch?v=xhLQqt8V1e4)
-- [We Are The Chaos Bros. (Fulham Fallout Firty Free)](https://www.youtube.com/watch?v=5sSs_spaMe4)
-- [Be My Prisoner (Streets Version)](https://www.youtube.com/watch?v=7H2S0ySpHzI)
-- [Total War (Demo)](https://www.youtube.com/watch?v=seaN3qLMnqs)
-- [Then I Kissed Her (Demo)](https://www.youtube.com/watch?v=FnEmV-zPAao)
-- [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
-- [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
-- [Ain't Got a Clue](https://www.youtube.com/watch?v=hog_NKEkbtc)
+- [We Are The Chaos Bros Fulham Fallout Firty Free](https://www.youtube.com/watch?v=5sSs_spaMe4)
+- [Be My Prisoner Streets Version](https://www.youtube.com/watch?v=7H2S0ySpHzI)
+- [Total War Demo](https://www.youtube.com/watch?v=seaN3qLMnqs)
+- [Then I Kissed Her Demo](https://www.youtube.com/watch?v=FnEmV-zPAao)
+- [I Love the Dark Demo](https://www.youtube.com/watch?v=raIG1_yTzq4)
+- [Freak Show LP Demo](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
+- [Aint Got a Clue](https://www.youtube.com/watch?v=hog_NKEkbtc)
 
 ## Release Images
 {{< imageGrid >}}

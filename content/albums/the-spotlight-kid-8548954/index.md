@@ -50,7 +50,7 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 {{< youtube id="3i0wU9HsCE0" title="Captain Beefheart - Alice In Blunderland" >}}<br>
 ### More Videos
 
-- [C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***](https://www.youtube.com/watch?v=zOqHNEKl91c)
+- [Captain Beefheart - The Spotlight Kid  full album ](https://www.youtube.com/watch?v=zOqHNEKl91c)
 
 ## Release Images
 {{< imageGrid >}}

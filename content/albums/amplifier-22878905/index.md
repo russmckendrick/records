@@ -53,8 +53,8 @@ The critical reception of the album was generally positive, with comments such a
 
 
 ## Videos
-### Amplifier - 01. MotorHead
-{{< youtube id="nGC9Lji2JLw" title="Amplifier - 01. MotorHead" >}}<br>
+### Amplifier - 01 MotorHead
+{{< youtube id="nGC9Lji2JLw" title="Amplifier - 01 MotorHead" >}}<br>
 
 
 ## Release Images

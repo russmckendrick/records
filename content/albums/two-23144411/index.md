@@ -40,22 +40,22 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Dubstar  - Token (Widescreen Mix) Official Artist Video
-{{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token (Widescreen Mix) Official Artist Video" >}}<br>
+### Dubstar  - Token Widescreen Mix Official Artist Video
+{{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token Widescreen Mix Official Artist Video" >}}<br>
 ### More Videos
 
-- [Dubstar - "Tectonic Plates" (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
+- [Dubstar - Tectonic Plates Official Artist Lyric Video](https://www.youtube.com/watch?v=tZN50XYHYUQ)
 - [Lighthouse](https://www.youtube.com/watch?v=yH6tQGzAJoY)
-- [Dubstar - Tears (Visualiser)](https://www.youtube.com/watch?v=VgnS0oSovec)
-- [Dubstar - "Hygiene Strip" (Official Artist Lyric Video)](https://www.youtube.com/watch?v=W4efy7WBvpA)
+- [Dubstar - Tears Visualiser](https://www.youtube.com/watch?v=VgnS0oSovec)
+- [Dubstar - Hygiene Strip Official Artist Lyric Video](https://www.youtube.com/watch?v=W4efy7WBvpA)
 - [Blood](https://www.youtube.com/watch?v=SBoUO0_Wy0Q)
 - [Social Proof](https://www.youtube.com/watch?v=MRN--n7Dmpc)
 - [Kissing To Be Unkind](https://www.youtube.com/watch?v=loOtBBDsZZo)
 - [Perfect Circle](https://www.youtube.com/watch?v=b0w07P1SANQ)
-- [Hygiene Strip (Extended)](https://www.youtube.com/watch?v=0qFIhcT4bpA)
-- [I Can See You Outside (Extended)](https://www.youtube.com/watch?v=2l3xejkp3_I)
-- [Tectonic Plates (Extended)](https://www.youtube.com/watch?v=KPmx0XYwuPw)
-- [Tectonic Plates (Dressing Up Extended Mix)](https://www.youtube.com/watch?v=YOlNmpF2VE4)
+- [Hygiene Strip Extended](https://www.youtube.com/watch?v=0qFIhcT4bpA)
+- [I Can See You Outside Extended](https://www.youtube.com/watch?v=2l3xejkp3_I)
+- [Tectonic Plates Extended](https://www.youtube.com/watch?v=KPmx0XYwuPw)
+- [Tectonic Plates Dressing Up Extended Mix](https://www.youtube.com/watch?v=YOlNmpF2VE4)
 
 ## Release Images
 {{< imageGrid >}}

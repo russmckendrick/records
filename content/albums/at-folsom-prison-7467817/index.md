@@ -66,25 +66,25 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 
 
 ## Videos
-### Johnny Cash - Folsom Prison Blues (Official Audio)
-{{< youtube id="AeZRYhLDLeU" title="Johnny Cash - Folsom Prison Blues (Official Audio)" >}}<br>
+### Johnny Cash - Folsom Prison Blues Official Audio
+{{< youtube id="AeZRYhLDLeU" title="Johnny Cash - Folsom Prison Blues Official Audio" >}}<br>
 ### More Videos
 
-- [Dark as the Dungeon (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=OFjBLdyssjc)
-- [I Still Miss Someone (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=0GM-1N8TfHE)
-- [Cocaine Blues (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=0VZuA7iJY4Y)
-- [Johnny Cash - 25 Minutes to Go (Official Audio)](https://www.youtube.com/watch?v=sbMirPYzthY)
-- [Orange Blossom Special (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=WkMB3RitBSE)
-- [The Long Black Veil (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=c0OSboEOtRQ)
-- [Send a Picture of Mother (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=0JUSmwGl4T4)
-- [The Wall (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=ZEvuwiCa9RA)
-- [Dirty Old Egg-Suckin' Dog (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=jeudEqVhJOM)
-- [Flushed from the Bathroom of Your Heart (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=q3wyAzjlE9Y)
-- [Jackson (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=FPynO42XFRw)
-- [Give My Love to Rose (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=Mqe2kcRZo5I)
-- [Johnny Cash - I Got Stripes (Official Audio)](https://www.youtube.com/watch?v=AUYk700_6W0)
-- [Green, Green Grass of Home (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=SLfxsneyfnY)
-- [Greystone Chapel (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=fGMVRoXelNs)
+- [Dark as the Dungeon Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=OFjBLdyssjc)
+- [I Still Miss Someone Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=0GM-1N8TfHE)
+- [Cocaine Blues Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=0VZuA7iJY4Y)
+- [Johnny Cash - 25 Minutes to Go Official Audio](https://www.youtube.com/watch?v=sbMirPYzthY)
+- [Orange Blossom Special Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=WkMB3RitBSE)
+- [The Long Black Veil Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=c0OSboEOtRQ)
+- [Send a Picture of Mother Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=0JUSmwGl4T4)
+- [The Wall Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=ZEvuwiCa9RA)
+- [Dirty Old Egg-Suckin Dog Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=jeudEqVhJOM)
+- [Flushed from the Bathroom of Your Heart Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=q3wyAzjlE9Y)
+- [Jackson Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=FPynO42XFRw)
+- [Give My Love to Rose Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=Mqe2kcRZo5I)
+- [Johnny Cash - I Got Stripes Official Audio](https://www.youtube.com/watch?v=AUYk700_6W0)
+- [Green Green Grass of Home Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=SLfxsneyfnY)
+- [Greystone Chapel Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=fGMVRoXelNs)
 
 ## Release Images
 {{< imageGrid >}}

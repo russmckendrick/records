@@ -89,7 +89,7 @@ styles: ["Prog Rock"]
 ### More Videos
 
 - [Pink Floyd -1st UK press vinyl - Animals - side 2](https://www.youtube.com/watch?v=loblTGvJC2M)
-- [Pink Floyd - Sheep (1977 Philippines Pressing) - Vinyl recording HD](https://www.youtube.com/watch?v=DRBcfMpJg08)
+- [Pink Floyd - Sheep 1977 Philippines Pressing - Vinyl recording HD](https://www.youtube.com/watch?v=DRBcfMpJg08)
 
 ## Release Images
 {{< imageGrid >}}

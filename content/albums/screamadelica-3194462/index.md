@@ -45,15 +45,15 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 
 
 ## Videos
-### Primal Scream - Movin' on Up (Official HD Video)
-{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin' on Up (Official HD Video)" >}}<br>
+### Primal Scream - Movin on Up Official HD Video
+{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin on Up Official HD Video" >}}<br>
 ### More Videos
 
-- [Primal Scream - Come Together (Official Video)](https://www.youtube.com/watch?v=ZUjW82je_38)
-- [Primal Scream - Come Together (Official HD Video)](https://www.youtube.com/watch?v=nyylAvfyuBw)
-- [P̲r̲i̲m̲a̲l̲ S̲c̲r̲e̲a̲m̲](https://www.youtube.com/watch?v=Za39Z5cLSww)
-- [Primal Scream - Screamadelica (Live TV 1992)](https://www.youtube.com/watch?v=_KtK01Ne22k)
-- [Primal Scream - Higher Than the Sun (Official Video)](https://www.youtube.com/watch?v=YHjVIBDYgXg)
+- [Primal Scream - Come Together Official Video](https://www.youtube.com/watch?v=ZUjW82je_38)
+- [Primal Scream - Come Together Official HD Video](https://www.youtube.com/watch?v=nyylAvfyuBw)
+- [Primal Scream](https://www.youtube.com/watch?v=Za39Z5cLSww)
+- [Primal Scream - Screamadelica Live TV 1992](https://www.youtube.com/watch?v=_KtK01Ne22k)
+- [Primal Scream - Higher Than the Sun Official Video](https://www.youtube.com/watch?v=YHjVIBDYgXg)
 
 ## Release Images
 {{< imageGrid >}}

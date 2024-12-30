@@ -54,19 +54,19 @@ It remains to be seen whether anything can be read into the trio clearing the de
 
 
 ## Videos
-### The Smile - Foreign Spies (Official Music Video)
-{{< youtube id="UHkZ5YzJYvI" title="The Smile - Foreign Spies (Official Music Video)" >}}<br>
+### The Smile - Foreign Spies Official Music Video
+{{< youtube id="UHkZ5YzJYvI" title="The Smile - Foreign Spies Official Music Video" >}}<br>
 ### More Videos
 
-- [The Smile - Instant Psalm (Official Music Video)](https://www.youtube.com/watch?v=r38w0TawkcM)
-- [The Smile - Zero Sum (Official Music Video)](https://www.youtube.com/watch?v=TJ4lG5Szr50)
-- [The Smile - Colours Fly (Visualiser)](https://www.youtube.com/watch?v=qlqwRRjAkfQ)
-- [The Smile - Eyes & Mouth (Visualiser)](https://www.youtube.com/watch?v=bYBFK16wats)
-- [The Smile - Don't Get Me Started (Official Video)](https://www.youtube.com/watch?v=o9i9J6IOEq0)
-- [The Smile - Tiptoe (Visualiser)](https://www.youtube.com/watch?v=JGjzbsZ-FV4)
-- [The Smile - The Slip (Visualiser)](https://www.youtube.com/watch?v=NwCyP3h2nyA)
-- [The Smile - No Words (Visualiser)](https://www.youtube.com/watch?v=CH9C1Fx9PQc)
-- [The Smile - Bodies Laughing (Visualiser)](https://www.youtube.com/watch?v=EWpI0n1FZIY)
+- [The Smile - Instant Psalm Official Music Video](https://www.youtube.com/watch?v=r38w0TawkcM)
+- [The Smile - Zero Sum Official Music Video](https://www.youtube.com/watch?v=TJ4lG5Szr50)
+- [The Smile - Colours Fly Visualiser](https://www.youtube.com/watch?v=qlqwRRjAkfQ)
+- [The Smile - Eyes  Mouth Visualiser](https://www.youtube.com/watch?v=bYBFK16wats)
+- [The Smile - Dont Get Me Started Official Video](https://www.youtube.com/watch?v=o9i9J6IOEq0)
+- [The Smile - Tiptoe Visualiser](https://www.youtube.com/watch?v=JGjzbsZ-FV4)
+- [The Smile - The Slip Visualiser](https://www.youtube.com/watch?v=NwCyP3h2nyA)
+- [The Smile - No Words Visualiser](https://www.youtube.com/watch?v=CH9C1Fx9PQc)
+- [The Smile - Bodies Laughing Visualiser](https://www.youtube.com/watch?v=EWpI0n1FZIY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -46,7 +46,7 @@ styles: ["Prog Rock"]
 {{< youtube id="9M4GnHcape4" title="Eleventh Earl Of Mar" >}}<br>
 ### More Videos
 
-- [One For The Vine (2007 Remaster)](https://www.youtube.com/watch?v=Ahw3YGrHeng)
+- [One For The Vine 2007 Remaster](https://www.youtube.com/watch?v=Ahw3YGrHeng)
 
 ## Release Images
 {{< imageGrid >}}

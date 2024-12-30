@@ -43,25 +43,25 @@ Street Songs is the fifth studio album by American musician Rick James, released
 
 
 ## Videos
-### Ricky James - Street Songs (Full Album)
-{{< youtube id="kGuDqxQhzv8" title="Ricky James - Street Songs (Full Album)" >}}<br>
+### Ricky James - Street Songs Full Album
+{{< youtube id="kGuDqxQhzv8" title="Ricky James - Street Songs Full Album" >}}<br>
 ### More Videos
 
-- [Rick James - Street Songs (1981) - A1 - Give It To Me Baby](https://www.youtube.com/watch?v=7rBgp8JoplM)
-- [Rick James - Street Songs (1981) - A2 - Ghetto Life](https://www.youtube.com/watch?v=J0p9PTPK028)
-- [Rick James - Street Songs (1981) - A3 - Make Love To Me](https://www.youtube.com/watch?v=8-ttYz7i4D4)
-- [Rick James - Street Songs (1981) - A4 - Mr. Policeman](https://www.youtube.com/watch?v=rL677jElRXM)
-- [Rick James - Street Songs (1981) - B1 - Super Freak](https://www.youtube.com/watch?v=TPq3VuCQPM8)
-- [Rick James - Street Songs (1981) - B2 - Fire And Desire](https://www.youtube.com/watch?v=GVN2t0cAYdA)
-- [Rick James - Street Songs (1981) - B3 - Call Me Up](https://www.youtube.com/watch?v=oGzasyId3VM)
-- [Below the Funk (Pass the J) - Rick James](https://www.youtube.com/watch?v=d1TPSlLwKb8)
+- [Rick James - Street Songs 1981 - A1 - Give It To Me Baby](https://www.youtube.com/watch?v=7rBgp8JoplM)
+- [Rick James - Street Songs 1981 - A2 - Ghetto Life](https://www.youtube.com/watch?v=J0p9PTPK028)
+- [Rick James - Street Songs 1981 - A3 - Make Love To Me](https://www.youtube.com/watch?v=8-ttYz7i4D4)
+- [Rick James - Street Songs 1981 - A4 - Mr Policeman](https://www.youtube.com/watch?v=rL677jElRXM)
+- [Rick James - Street Songs 1981 - B1 - Super Freak](https://www.youtube.com/watch?v=TPq3VuCQPM8)
+- [Rick James - Street Songs 1981 - B2 - Fire And Desire](https://www.youtube.com/watch?v=GVN2t0cAYdA)
+- [Rick James - Street Songs 1981 - B3 - Call Me Up](https://www.youtube.com/watch?v=oGzasyId3VM)
+- [Below the Funk Pass the J - Rick James](https://www.youtube.com/watch?v=d1TPSlLwKb8)
 - [Ghetto Life](https://www.youtube.com/watch?v=LyrGXnpSlIE)
-- [Rick James - Super Freak (Official Music Video)](https://www.youtube.com/watch?v=QYHxGBH6o4M)
+- [Rick James - Super Freak Official Music Video](https://www.youtube.com/watch?v=QYHxGBH6o4M)
 - [Rick James - Ghetto Life](https://www.youtube.com/watch?v=2wWh-3ZN-g0)
-- [Rick James - Ghetto Life (Sound Remastered)](https://www.youtube.com/watch?v=Md_D3_0CfFw)
+- [Rick James - Ghetto Life Sound Remastered](https://www.youtube.com/watch?v=Md_D3_0CfFw)
 - [Rick James - Give It To Me Baby](https://www.youtube.com/watch?v=1dNIQVYGXbM)
 - [Fool On The Street](https://www.youtube.com/watch?v=6ydyddihZPs)
-- [Rick James - Hard To Get (Official Music Video)](https://www.youtube.com/watch?v=Fmuxwhl32as)
+- [Rick James - Hard To Get Official Music Video](https://www.youtube.com/watch?v=Fmuxwhl32as)
 
 ## Release Images
 {{< imageGrid >}}

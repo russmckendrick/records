@@ -59,10 +59,10 @@ Still, no line captures the innate ferocity of <i>The Argument</i>—and of Fuga
 - [Ex-Spectator](https://www.youtube.com/watch?v=uxhu_mkNPJ0)
 - [Life And Limb](https://www.youtube.com/watch?v=2ShE3hNAEXc)
 - [Strangelight](https://www.youtube.com/watch?v=bUikRPT9zWg)
-- [Fugazi - Argument (live in Boston 19-04-02)](https://www.youtube.com/watch?v=zjGR6PjqJyk)
-- [Fugazi "The Argument" (2001) Full Album | Vinyl Rip](https://www.youtube.com/watch?v=MAQAiLN5-d0)
-- [Fugazi - The Argument [2001, FULL ALBUM]](https://www.youtube.com/watch?v=WYZs-3hV3uU)
-- [Fugazi – The Argument](https://www.youtube.com/watch?v=bZs8USIjnBg)
+- [Fugazi - Argument live in Boston 19-04-02](https://www.youtube.com/watch?v=zjGR6PjqJyk)
+- [Fugazi The Argument 2001 Full Album  Vinyl Rip](https://www.youtube.com/watch?v=MAQAiLN5-d0)
+- [Fugazi - The Argument 2001 FULL ALBUM](https://www.youtube.com/watch?v=WYZs-3hV3uU)
+- [Fugazi  The Argument](https://www.youtube.com/watch?v=bZs8USIjnBg)
 
 ## Release Images
 {{< imageGrid >}}

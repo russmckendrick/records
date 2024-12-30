@@ -51,22 +51,22 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 
 
 ## Videos
-### Anathema - Thin Air (lyrics)
-{{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air (lyrics)" >}}<br>
+### Anathema - Thin Air lyrics
+{{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air lyrics" >}}<br>
 ### More Videos
 
 - [Anathema - Summer Night Horizon](https://www.youtube.com/watch?v=ld5UqwI8Tg4)
 - [Anathema - Dreaming Light](https://www.youtube.com/watch?v=rSToh--FUsI)
 - [Anathema - Everything](https://www.youtube.com/watch?v=KaXWp-3fL_E)
-- [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)
+- [Anathema - Angels Walk Among Us Lyrics](https://www.youtube.com/watch?v=BRMNJNzscwQ)
 - [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
-- [Anathema - Thin Air (lyrics)](https://www.youtube.com/watch?v=jW0p7jQnKqg)
+- [Anathema - Thin Air lyrics](https://www.youtube.com/watch?v=jW0p7jQnKqg)
 - [Anathema - Summer Night Horizon](https://www.youtube.com/watch?v=ld5UqwI8Tg4)
 - [Anathema - Dreaming Light](https://www.youtube.com/watch?v=rSToh--FUsI)
 - [Anathema - Everything](https://www.youtube.com/watch?v=KaXWp-3fL_E)
-- [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)
+- [Anathema - Angels Walk Among Us Lyrics](https://www.youtube.com/watch?v=BRMNJNzscwQ)
 - [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
-- [Anathema - We're Here Because We're Here (Full Album)](https://www.youtube.com/watch?v=xxvfI3uWM1s)
+- [Anathema - Were Here Because Were Here Full Album](https://www.youtube.com/watch?v=xxvfI3uWM1s)
 
 ## Release Images
 {{< imageGrid >}}

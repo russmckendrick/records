@@ -56,23 +56,23 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 
 
 ## Videos
-### Nirvana - About A Girl (Live On MTV Unplugged, 1993 / Unedited)
-{{< youtube id="_24pJQUj7zg" title="Nirvana - About A Girl (Live On MTV Unplugged, 1993 / Unedited)" >}}<br>
+### Nirvana - About A Girl Live On MTV Unplugged 1993  Unedited
+{{< youtube id="_24pJQUj7zg" title="Nirvana - About A Girl Live On MTV Unplugged 1993  Unedited" >}}<br>
 ### More Videos
 
-- [Nirvana - Come As You Are (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=z9LiPuVRyU8)
-- [Nirvana - Jesus Doesn't Want Me For A Sunbeam (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=bVjeYbRmkQ4)
-- [Nirvana - The Man Who Sold The World (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=OgeR2oqZGTs)
-- [Nirvana - Pennyroyal Tea (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=4dcIPGzxsl8)
-- [Nirvana - Dumb (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=GtBhclCigH0)
-- [Nirvana - Polly (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=3H0NHHKBemg)
-- [Nirvana - On A Plain (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=80B_yiN2FH8)
-- [Nirvana - Something In The Way (Live On MTV Unplugged Unedited, 1993)](https://www.youtube.com/watch?v=1YhR5UfaAzM)
-- [Nirvana - Plateau (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=Sj8UbmdV7bk)
-- [Nirvana - Oh Me (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=T5LtSKKr7oY)
-- [Nirvana - Lake Of Fire (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=d4LdUQzCPPM)
-- [Nirvana - All Apologies (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=-BsB8A3Todo)
-- [Nirvana - Where Did You Sleep Last Night (Live On MTV Unplugged Unedited)](https://www.youtube.com/watch?v=hEMm7gxBYSc)
+- [Nirvana - Come As You Are Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=z9LiPuVRyU8)
+- [Nirvana - Jesus Doesnt Want Me For A Sunbeam Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=bVjeYbRmkQ4)
+- [Nirvana - The Man Who Sold The World Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=OgeR2oqZGTs)
+- [Nirvana - Pennyroyal Tea Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=4dcIPGzxsl8)
+- [Nirvana - Dumb Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=GtBhclCigH0)
+- [Nirvana - Polly Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=3H0NHHKBemg)
+- [Nirvana - On A Plain Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=80B_yiN2FH8)
+- [Nirvana - Something In The Way Live On MTV Unplugged Unedited 1993](https://www.youtube.com/watch?v=1YhR5UfaAzM)
+- [Nirvana - Plateau Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=Sj8UbmdV7bk)
+- [Nirvana - Oh Me Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=T5LtSKKr7oY)
+- [Nirvana - Lake Of Fire Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=d4LdUQzCPPM)
+- [Nirvana - All Apologies Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=-BsB8A3Todo)
+- [Nirvana - Where Did You Sleep Last Night Live On MTV Unplugged Unedited](https://www.youtube.com/watch?v=hEMm7gxBYSc)
 
 ## Release Images
 {{< imageGrid >}}

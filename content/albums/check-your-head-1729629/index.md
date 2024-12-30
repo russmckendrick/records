@@ -61,14 +61,14 @@ Like <I>Paul’s Boutique</I>, <I>Check Your Head</I> flowed like a mixtape, but
 
 
 ## Videos
-### Beastie Boys - Pass the Mic (Official Music Video)
-{{< youtube id="NpsvBvwRuf0" title="Beastie Boys - Pass the Mic (Official Music Video)" >}}<br>
+### Beastie Boys - Pass the Mic Official Music Video
+{{< youtube id="NpsvBvwRuf0" title="Beastie Boys - Pass the Mic Official Music Video" >}}<br>
 ### More Videos
 
-- [Beastie Boys - So What'Cha Want](https://www.youtube.com/watch?v=ru3gH27Fn6E)
-- [Beastie Boys - Time For Livin'](https://www.youtube.com/watch?v=tUwgsCQTIQ0)
+- [Beastie Boys - So WhatCha Want](https://www.youtube.com/watch?v=ru3gH27Fn6E)
+- [Beastie Boys - Time For Livin](https://www.youtube.com/watch?v=tUwgsCQTIQ0)
 - [Beastie Boys - Gratitude](https://www.youtube.com/watch?v=ZdJ5e70Q8mw)
-- [Beastie Boys - Something's Got To Give (Official Music Video)](https://www.youtube.com/watch?v=teQqelBTw7g)
+- [Beastie Boys - Somethings Got To Give Official Music Video](https://www.youtube.com/watch?v=teQqelBTw7g)
 
 ## Release Images
 {{< imageGrid >}}

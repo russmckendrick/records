@@ -37,8 +37,8 @@ styles: ["Contemporary"]
 
 
 ## Videos
-### AVAWAVES - AWAKENING (Official video)
-{{< youtube id="qiymWhnJO50" title="AVAWAVES - AWAKENING (Official video)" >}}<br>
+### AVAWAVES - AWAKENING Official video
+{{< youtube id="qiymWhnJO50" title="AVAWAVES - AWAKENING Official video" >}}<br>
 
 
 ## Release Images

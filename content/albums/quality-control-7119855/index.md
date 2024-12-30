@@ -55,8 +55,8 @@ Quality Control is the second studio album by American alternative hip hop group
 {{< youtube id="PgpDN-bARwc" title="Jurassic 5 - Quality Control" >}}<br>
 ### More Videos
 
-- [Jurassic 5 - What's Golden (Official Video)](https://www.youtube.com/watch?v=XsZKrctSDaw)
-- [Jurassic 5 ‎- The Influence](https://www.youtube.com/watch?v=tqu73IZwRTg)
+- [Jurassic 5 - Whats Golden Official Video](https://www.youtube.com/watch?v=XsZKrctSDaw)
+- [Jurassic 5 - The Influence](https://www.youtube.com/watch?v=tqu73IZwRTg)
 
 ## Release Images
 {{< imageGrid >}}

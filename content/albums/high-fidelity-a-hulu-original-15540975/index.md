@@ -35,22 +35,22 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### High Fidelity: Opening Scene • A Hulu Original
-{{< youtube id="fZUvZD_VlwU" title="High Fidelity: Opening Scene • A Hulu Original" >}}<br>
+### High Fidelity Opening Scene  A Hulu Original
+{{< youtube id="fZUvZD_VlwU" title="High Fidelity Opening Scene  A Hulu Original" >}}<br>
 ### More Videos
 
-- [Ann Peebles - I can't stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
-- [Darondo - "Didn't I" [HQ - REMASTER]](https://www.youtube.com/watch?v=PZqQT5904_U)
-- [I'll Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
+- [Ann Peebles - I cant stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
+- [Darondo - Didnt I HQ - REMASTER](https://www.youtube.com/watch?v=PZqQT5904_U)
+- [Ill Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
 - [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)
 - [Tiebreaker](https://www.youtube.com/watch?v=WgPCuiBPVR0)
 - [Blondie Once I Had A Love aka The Disco Song 1975 Version](https://www.youtube.com/watch?v=SkjeAt0KrL8)
-- [William Onyeabor - Fantastic Man (edit) [Official Video]](https://www.youtube.com/watch?v=LBZltuHcpVo)
+- [William Onyeabor - Fantastic Man edit Official Video](https://www.youtube.com/watch?v=LBZltuHcpVo)
 - [Till It Hits the Ground](https://www.youtube.com/watch?v=8yg-cvKYE20)
-- [Gimmie Light/New Tattoo](https://www.youtube.com/watch?v=m5b2r6Im5yw)
+- [Gimmie LightNew Tattoo](https://www.youtube.com/watch?v=m5b2r6Im5yw)
 - [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
-- [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
-- [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
+- [I Believe When I Fall in Love It Will Be Forever](https://www.youtube.com/watch?v=JO_b807HaLM)
+- [High Fidelity Opening Scene  A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -55,18 +55,18 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 
 
 ## Videos
-### Black Country, New Road - 'Up Song - Live at Bush Hall' (Official Audio)
-{{< youtube id="9rHjkRgJlEs" title="Black Country, New Road - 'Up Song - Live at Bush Hall' (Official Audio)" >}}<br>
+### Black Country New Road - Up Song - Live at Bush Hall Official Audio
+{{< youtube id="9rHjkRgJlEs" title="Black Country New Road - Up Song - Live at Bush Hall Official Audio" >}}<br>
 ### More Videos
 
-- [Black Country, New Road - 'The Boy - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=eDxTJD2xzng)
-- [Black Country, New Road - 'I Won’t Always Love You - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=4eFDXIwIE9w)
-- [Black Country, New Road - 'Across The Pond Friend - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=ecXo9ZmKUSk)
-- [Black Country, New Road - 'Laughing Song - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=JL1AYJ9zBJE)
-- [Black Country, New Road - 'The Wrong Trousers - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=LGbgUghB_kQ)
-- [Black Country, New Road - 'Turbines/Pigs - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=VgZn5dfg1U0)
-- [Black Country, New Road - 'Dancers - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=N0cywoEn0_s)
-- [Black Country, New Road - 'Up Song (Reprise) - Live at Bush Hall' (Official Audio)](https://www.youtube.com/watch?v=wzkT0_D938c)
+- [Black Country New Road - The Boy - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=eDxTJD2xzng)
+- [Black Country New Road - I Wont Always Love You - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=4eFDXIwIE9w)
+- [Black Country New Road - Across The Pond Friend - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=ecXo9ZmKUSk)
+- [Black Country New Road - Laughing Song - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=JL1AYJ9zBJE)
+- [Black Country New Road - The Wrong Trousers - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=LGbgUghB_kQ)
+- [Black Country New Road - TurbinesPigs - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=VgZn5dfg1U0)
+- [Black Country New Road - Dancers - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=N0cywoEn0_s)
+- [Black Country New Road - Up Song Reprise - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=wzkT0_D938c)
 
 ## Release Images
 {{< imageGrid >}}

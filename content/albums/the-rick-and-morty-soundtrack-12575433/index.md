@@ -54,9 +54,9 @@ styles: ["Soundtrack"]
 {{< youtube id="v6Zvk9H_D-o" title="Rick and Morty Score Medley" >}}<br>
 ### More Videos
 
-- [Rick and Morty | clipping. “Stab Him in The Throat”](https://www.youtube.com/watch?v=Cjvc6b6nMro)
-- [Rick and Morty | Chad VanGaalen "Stuttering Light" | Adult Swim](https://www.youtube.com/watch?v=AWOjTgNIetk)
-- [Summer & Tinkles Song | Rick and Morty | Adult Swim](https://www.youtube.com/watch?v=DNUFRIkaFzw)
+- [Rick and Morty  clipping Stab Him in The Throat](https://www.youtube.com/watch?v=Cjvc6b6nMro)
+- [Rick and Morty  Chad VanGaalen Stuttering Light  Adult Swim](https://www.youtube.com/watch?v=AWOjTgNIetk)
+- [Summer  Tinkles Song  Rick and Morty  Adult Swim](https://www.youtube.com/watch?v=DNUFRIkaFzw)
 
 ## Release Images
 {{< imageGrid >}}

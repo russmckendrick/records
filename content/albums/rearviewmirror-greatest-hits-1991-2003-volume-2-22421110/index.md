@@ -58,8 +58,8 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Videos
-### Pearl Jam - Once (Official Audio)
-{{< youtube id="3i575s4hbu0" title="Pearl Jam - Once (Official Audio)" >}}<br>
+### Pearl Jam - Once Official Audio
+{{< youtube id="3i575s4hbu0" title="Pearl Jam - Once Official Audio" >}}<br>
 
 
 ## Release Images

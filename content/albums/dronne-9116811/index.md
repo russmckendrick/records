@@ -56,13 +56,13 @@ Among its tributaries are the Lizonne and the Côle.
 - [The British Road](https://www.youtube.com/watch?v=yafycMIV3aw)
 - [Dronne](https://www.youtube.com/watch?v=nhKGhRd8wEc)
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
-- [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
+- [Dinosaurus Rex Pt 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 - [Vishnu Schist](https://www.youtube.com/watch?v=5AC9eYK9xq0)
 - [Queen of All the Day and Night](https://www.youtube.com/watch?v=xS6jpnVgx9M)
 - [The British Road](https://www.youtube.com/watch?v=yafycMIV3aw)
 - [Dronne](https://www.youtube.com/watch?v=nhKGhRd8wEc)
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
-- [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
+- [Dinosaurus Rex Pt 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 
 ## Release Images
 {{< imageGrid >}}

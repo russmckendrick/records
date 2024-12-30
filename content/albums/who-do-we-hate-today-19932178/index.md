@@ -46,36 +46,36 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Jim's Bed Of Unease (Intro)
-{{< youtube id="DnkIJYBaDOg" title="Jim's Bed Of Unease (Intro)" >}}<br>
+### Jims Bed Of Unease Intro
+{{< youtube id="DnkIJYBaDOg" title="Jims Bed Of Unease Intro" >}}<br>
 ### More Videos
 
-- [Jim Bob - The Earth Bleeds Out [Official Video]](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
-- [Shona Is Dating A Drunk, Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
-- [#prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
-- [Where's The Backdoor, Steve?](https://www.youtube.com/watch?v=5Ut5fcNjhug)
-- [Karen (Is Thinking Of Changing Her Name)](https://www.youtube.com/watch?v=le6osBt1xBA)
+- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
+- [Shona Is Dating A Drunk Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
+- [prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
+- [Wheres The Backdoor Steve](https://www.youtube.com/watch?v=5Ut5fcNjhug)
+- [Karen Is Thinking Of Changing Her Name](https://www.youtube.com/watch?v=le6osBt1xBA)
 - [A Random Act](https://www.youtube.com/watch?v=fmizHm6iiwU)
-- [Jim Bob - The Summer Of No Touching (Official Video)](https://www.youtube.com/watch?v=OseUrswbv1o)
-- [Jim Bob - SONG FOR THE UNSUNG (You’re So Modest You’ll Never Think This Song is About You)](https://www.youtube.com/watch?v=MAkb1Jj08JM)
+- [Jim Bob - The Summer Of No Touching Official Video](https://www.youtube.com/watch?v=OseUrswbv1o)
+- [Jim Bob - SONG FOR THE UNSUNG Youre So Modest Youll Never Think This Song is About You](https://www.youtube.com/watch?v=MAkb1Jj08JM)
 - [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
 - [Evan Knows The Sirens](https://www.youtube.com/watch?v=GDdJ15y74Lo)
 - [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
-- [Who Do We Hate Today?](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
-- [Jim's Bed Of Unease (Intro)](https://www.youtube.com/watch?v=DnkIJYBaDOg)
-- [Jim Bob - The Earth Bleeds Out [Official Video]](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
-- [Shona Is Dating A Drunk, Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
-- [#prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
-- [Where's The Backdoor, Steve?](https://www.youtube.com/watch?v=5Ut5fcNjhug)
-- [Karen (Is Thinking Of Changing Her Name)](https://www.youtube.com/watch?v=le6osBt1xBA)
+- [Who Do We Hate Today](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
+- [Jims Bed Of Unease Intro](https://www.youtube.com/watch?v=DnkIJYBaDOg)
+- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
+- [Shona Is Dating A Drunk Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
+- [prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
+- [Wheres The Backdoor Steve](https://www.youtube.com/watch?v=5Ut5fcNjhug)
+- [Karen Is Thinking Of Changing Her Name](https://www.youtube.com/watch?v=le6osBt1xBA)
 - [A Random Act](https://www.youtube.com/watch?v=fmizHm6iiwU)
-- [Jim Bob - The Summer Of No Touching (Official Video)](https://www.youtube.com/watch?v=OseUrswbv1o)
-- [Jim Bob - SONG FOR THE UNSUNG (You’re So Modest You’ll Never Think This Song is About You)](https://www.youtube.com/watch?v=MAkb1Jj08JM)
+- [Jim Bob - The Summer Of No Touching Official Video](https://www.youtube.com/watch?v=OseUrswbv1o)
+- [Jim Bob - SONG FOR THE UNSUNG Youre So Modest Youll Never Think This Song is About You](https://www.youtube.com/watch?v=MAkb1Jj08JM)
 - [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
 - [Evan Knows The Sirens](https://www.youtube.com/watch?v=GDdJ15y74Lo)
 - [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
-- [Who Do We Hate Today?](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
-- [Jim Bob - The Earth Bleeds Out [Official Video]](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
+- [Who Do We Hate Today](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
+- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
 - [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
 
 ## Release Images

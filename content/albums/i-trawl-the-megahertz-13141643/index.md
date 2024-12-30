@@ -44,17 +44,17 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 
 
 ## Videos
-### I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps
-{{< youtube id="5ilBNaMxQwk" title="I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps" >}}<br>
+### I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps
+{{< youtube id="5ilBNaMxQwk" title="I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps" >}}<br>
 ### More Videos
 
-- [I Trawl The Megahertz (Complete)](https://www.youtube.com/watch?v=1bSPNboKCzM)
-- [Paddy McAloon - I Trawl The Megahertz (Edit)](https://www.youtube.com/watch?v=1_uV_vypH0o)
-- [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
+- [I Trawl The Megahertz Complete](https://www.youtube.com/watch?v=1bSPNboKCzM)
+- [Paddy McAloon - I Trawl The Megahertz Edit](https://www.youtube.com/watch?v=1_uV_vypH0o)
+- [I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 - [Paddy Mcaloon-Sleeping Rough](https://www.youtube.com/watch?v=OUQLhJAxRZc)
 - [Paddy McAloon - Esprit De Corps](https://www.youtube.com/watch?v=TkRpbSVZQpM)
-- [Paddy McAloon - I Trawl The Megahertz (Edit)](https://www.youtube.com/watch?v=1_uV_vypH0o)
-- [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
+- [Paddy McAloon - I Trawl The Megahertz Edit](https://www.youtube.com/watch?v=1_uV_vypH0o)
+- [I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 
 ## Release Images
 {{< imageGrid >}}

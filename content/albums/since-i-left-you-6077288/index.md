@@ -55,38 +55,38 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 
 
 ## Videos
-### The Avalanches - Since I Left You (Extended Alternate Version)
-{{< youtube id="vFWmwkoNq6s" title="The Avalanches - Since I Left You (Extended Alternate Version)" >}}<br>
+### The Avalanches - Since I Left You Extended Alternate Version
+{{< youtube id="vFWmwkoNq6s" title="The Avalanches - Since I Left You Extended Alternate Version" >}}<br>
 ### More Videos
 
-- [The Avalanches — Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
-- [Since I Left You (Stereolab Remix)](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
-- [The Avalanches - Since I Left You (Ultimate Ultimate Single Version)](https://www.youtube.com/watch?v=3-iRAQWvem8)
+- [The Avalanches  Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
+- [Since I Left You Stereolab Remix](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
+- [The Avalanches - Since I Left You Ultimate Ultimate Single Version](https://www.youtube.com/watch?v=3-iRAQWvem8)
 - [The Avalanches - Stay Another Season](https://www.youtube.com/watch?v=fsJcghJepIE)
-- [The Avalanches — With My Baby](https://www.youtube.com/watch?v=-JfTdLmrccQ)
-- [The Avalanches - Radio (Ultimate Single Version)](https://www.youtube.com/watch?v=A96WCiH8cgc)
-- [Two Hearts In 3/4 Time](https://www.youtube.com/watch?v=NLglw43AUkE)
-- [The Avalanches — Avalanche Rock](https://www.youtube.com/watch?v=_c_E53N6QfU)
+- [The Avalanches  With My Baby](https://www.youtube.com/watch?v=-JfTdLmrccQ)
+- [The Avalanches - Radio Ultimate Single Version](https://www.youtube.com/watch?v=A96WCiH8cgc)
+- [Two Hearts In 34 Time](https://www.youtube.com/watch?v=NLglw43AUkE)
+- [The Avalanches  Avalanche Rock](https://www.youtube.com/watch?v=_c_E53N6QfU)
 - [The Avalanches - Flight Tonight](https://www.youtube.com/watch?v=IvWsfyapD2Y)
 - [The Avalanches - Close To You](https://www.youtube.com/watch?v=eQN5j0bt678)
-- [The Avalanches - Diners Only (Original Release)](https://www.youtube.com/watch?v=iDTCSFQk9Cg)
+- [The Avalanches - Diners Only Original Release](https://www.youtube.com/watch?v=iDTCSFQk9Cg)
 - [The Avalanches- A different feeling](https://www.youtube.com/watch?v=9loABWPkT2E)
 - [Electricity](https://www.youtube.com/watch?v=uPeQ9eP_FgY)
-- [The Avalanches —  Tonight May Have to Last Me All My Life](https://www.youtube.com/watch?v=bQQG7qw41Og)
-- [Pablo's Cruise](https://www.youtube.com/watch?v=7rfxZ5IJQxg)
-- [The Avalanches - Frontier Psychiatrist (Official Video)](https://www.youtube.com/watch?v=qLrnkK2YEcE)
+- [The Avalanches   Tonight May Have to Last Me All My Life](https://www.youtube.com/watch?v=bQQG7qw41Og)
+- [Pablos Cruise](https://www.youtube.com/watch?v=7rfxZ5IJQxg)
+- [The Avalanches - Frontier Psychiatrist Official Video](https://www.youtube.com/watch?v=qLrnkK2YEcE)
 - [ETOH](https://www.youtube.com/watch?v=QDasjmCz1do)
 - [The Avalanches - Summer Crane](https://www.youtube.com/watch?v=KuLD_JSY4z8)
-- [The Avalanches — Little Journey](https://www.youtube.com/watch?v=H9UD-ZmMjXE)
-- [The Avalanches — Live at Dominoes](https://www.youtube.com/watch?v=CWOAFVLcDic)
-- [The Avalanches — Extra Kings](https://www.youtube.com/watch?v=_6TWkDeAIxI)
+- [The Avalanches  Little Journey](https://www.youtube.com/watch?v=H9UD-ZmMjXE)
+- [The Avalanches  Live at Dominoes](https://www.youtube.com/watch?v=CWOAFVLcDic)
+- [The Avalanches  Extra Kings](https://www.youtube.com/watch?v=_6TWkDeAIxI)
 - [The Avalanches - Since I Left You](https://www.youtube.com/watch?v=wpqm-05R2Jk)
-- [The Avalanches - Since I Left You (Prince Paul Remix)](https://www.youtube.com/watch?v=vSqcYv0QgGw)
+- [The Avalanches - Since I Left You Prince Paul Remix](https://www.youtube.com/watch?v=vSqcYv0QgGw)
 - [Samples from The Avalanches - Since I Left You](https://www.youtube.com/watch?v=31gTur14Hbc)
-- [The Avalanches -  'Since I Left You'](https://www.youtube.com/watch?v=wpqm-05R2Jk)
-- [The Avalanches -  'Frontier Psychiatrist'](https://www.youtube.com/watch?v=qLrnkK2YEcE)
-- [The Avalanches - Since I Left You (1hr)](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
-- [A Different Feeling (Carl Craig's Paperclip People Remix)](https://www.youtube.com/watch?v=RUZDndmoV0s)
+- [The Avalanches -  Since I Left You](https://www.youtube.com/watch?v=wpqm-05R2Jk)
+- [The Avalanches -  Frontier Psychiatrist](https://www.youtube.com/watch?v=qLrnkK2YEcE)
+- [The Avalanches - Since I Left You 1hr](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
+- [A Different Feeling Carl Craigs Paperclip People Remix](https://www.youtube.com/watch?v=RUZDndmoV0s)
 
 ## Release Images
 {{< imageGrid >}}

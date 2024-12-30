@@ -43,12 +43,12 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Videos
-### Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)
-{{< youtube id="AnZDKe8XErg" title="Desmond Dekker & The Aces - Pretty Africa (Long Lost Recording)" >}}<br>
+### Desmond Dekker  The Aces - Pretty Africa Long Lost Recording
+{{< youtube id="AnZDKe8XErg" title="Desmond Dekker  The Aces - Pretty Africa Long Lost Recording" >}}<br>
 ### More Videos
 
 - [the Aces - LOVE IS THE KEY](https://www.youtube.com/watch?v=JnFa5-xxsl8)
-- [Barry Howard & Carl Hall - Was a sunny day (the Aces)](https://www.youtube.com/watch?v=dbe1vssKGKM)
+- [Barry Howard  Carl Hall - Was a sunny day the Aces](https://www.youtube.com/watch?v=dbe1vssKGKM)
 
 ## Release Images
 {{< imageGrid >}}

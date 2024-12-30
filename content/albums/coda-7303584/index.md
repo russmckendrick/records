@@ -54,8 +54,8 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Videos
-### Led Zeppelin - Coda (1982) (Full Album)
-{{< youtube id="RunTziaqymA" title="Led Zeppelin - Coda (1982) (Full Album)" >}}<br>
+### Led Zeppelin - Coda 1982 Full Album
+{{< youtube id="RunTziaqymA" title="Led Zeppelin - Coda 1982 Full Album" >}}<br>
 
 
 ## Release Images

@@ -60,11 +60,11 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 
 
 ## Videos
-### Kevin Morby - City Music (Official Video)
-{{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music (Official Video)" >}}<br>
+### Kevin Morby - City Music Official Video
+{{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music Official Video" >}}<br>
 ### More Videos
 
-- [Kevin Morby - Come To Me Now (Official Lyric Video)](https://www.youtube.com/watch?v=QLL3AmFnhL8)
+- [Kevin Morby - Come To Me Now Official Lyric Video](https://www.youtube.com/watch?v=QLL3AmFnhL8)
 
 ## Release Images
 {{< imageGrid >}}

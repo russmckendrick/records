@@ -54,9 +54,9 @@ The title track became one of her most successful singles, peaking at number 21 
 ### More Videos
 
 - [Friends](https://www.youtube.com/watch?v=hF1wTxW7VKM)
-- [Is It Tomorrow Yet?](https://www.youtube.com/watch?v=41VgElN01lo)
+- [Is It Tomorrow Yet](https://www.youtube.com/watch?v=41VgElN01lo)
 - [Turn Out The Light](https://www.youtube.com/watch?v=wg1lJrl3F9Q)
-- [Feeling In My Heart (For You)](https://www.youtube.com/watch?v=VLfd0Ro0wLE)
+- [Feeling In My Heart For You](https://www.youtube.com/watch?v=VLfd0Ro0wLE)
 - [Simon](https://www.youtube.com/watch?v=gaa_RPDW958)
 - [I Need You](https://www.youtube.com/watch?v=9zsuwzoxfDU)
 - [joan armatrading - turn out the light](https://www.youtube.com/watch?v=UL99gk3ELvc)

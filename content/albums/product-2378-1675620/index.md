@@ -43,41 +43,41 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 
 
 ## Videos
-### The Wonder Stuff - Who Wants To Be The Disco King?
-{{< youtube id="vWxaxu35rvw" title="The Wonder Stuff - Who Wants To Be The Disco King?" >}}<br>
+### The Wonder Stuff - Who Wants To Be The Disco King
+{{< youtube id="vWxaxu35rvw" title="The Wonder Stuff - Who Wants To Be The Disco King" >}}<br>
 ### More Videos
 
-- [Vanishing Point (2015 Remaster)](https://www.youtube.com/watch?v=aWuNzXttLVE)
-- [The Jesus And Mary Chain - Head On (Official Music Video)](https://www.youtube.com/watch?v=eGp47YwDZ48)
+- [Vanishing Point 2015 Remaster](https://www.youtube.com/watch?v=aWuNzXttLVE)
+- [The Jesus And Mary Chain - Head On Official Music Video](https://www.youtube.com/watch?v=eGp47YwDZ48)
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
-- [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
+- [Pop Will Eat Itself - Can U Dig It Video](https://www.youtube.com/watch?v=36nWNAvtwrw)
 - [Happy Mondays - Mad Cyril](https://www.youtube.com/watch?v=V-8QrkVRf10)
 - [Brave New World](https://www.youtube.com/watch?v=FxuOiUP_2Ag)
 - [The Weather Prophets - Almost prayed](https://www.youtube.com/watch?v=ps6EiahbLQA)
 - [The Last of the Famous International Playboys](https://www.youtube.com/watch?v=z-kXRbWwh6s)
-- [Siouxsie And The Banshees - Peek-A-Boo (Official Music Video)](https://www.youtube.com/watch?v=gGH_16SICL0)
-- [Pixies - Monkey Gone To Heaven (Official Video)](https://www.youtube.com/watch?v=EHC9HE7vazI)
+- [Siouxsie And The Banshees - Peek-A-Boo Official Music Video](https://www.youtube.com/watch?v=gGH_16SICL0)
+- [Pixies - Monkey Gone To Heaven Official Video](https://www.youtube.com/watch?v=EHC9HE7vazI)
 - [Inspiral Carpets - Joe](https://www.youtube.com/watch?v=BsK76tTEeFU)
 - [Baby Turpentine Remastered](https://www.youtube.com/watch?v=3f7x14AmliU)
-- [Throwing Muses - Dizzy (Official Video)](https://www.youtube.com/watch?v=eGELjc66kFs)
+- [Throwing Muses - Dizzy Official Video](https://www.youtube.com/watch?v=eGELjc66kFs)
 - [All About Eve - December](https://www.youtube.com/watch?v=mZ15nDrekTU)
-- [Tower Of Strength (Bombay Edit)](https://www.youtube.com/watch?v=owjzPHBabI4)
-- [The Wonder Stuff - Who Wants To Be The Disco King?](https://www.youtube.com/watch?v=vWxaxu35rvw)
-- [Vanishing Point (2015 Remaster)](https://www.youtube.com/watch?v=aWuNzXttLVE)
-- [The Jesus And Mary Chain - Head On (Official Music Video)](https://www.youtube.com/watch?v=eGp47YwDZ48)
+- [Tower Of Strength Bombay Edit](https://www.youtube.com/watch?v=owjzPHBabI4)
+- [The Wonder Stuff - Who Wants To Be The Disco King](https://www.youtube.com/watch?v=vWxaxu35rvw)
+- [Vanishing Point 2015 Remaster](https://www.youtube.com/watch?v=aWuNzXttLVE)
+- [The Jesus And Mary Chain - Head On Official Music Video](https://www.youtube.com/watch?v=eGp47YwDZ48)
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
-- [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
+- [Pop Will Eat Itself - Can U Dig It Video](https://www.youtube.com/watch?v=36nWNAvtwrw)
 - [Happy Mondays - Mad Cyril](https://www.youtube.com/watch?v=V-8QrkVRf10)
 - [Brave New World](https://www.youtube.com/watch?v=FxuOiUP_2Ag)
 - [The Weather Prophets - Almost prayed](https://www.youtube.com/watch?v=ps6EiahbLQA)
 - [The Last of the Famous International Playboys](https://www.youtube.com/watch?v=z-kXRbWwh6s)
-- [Siouxsie And The Banshees - Peek-A-Boo (Official Music Video)](https://www.youtube.com/watch?v=gGH_16SICL0)
-- [Pixies - Monkey Gone To Heaven (Official Video)](https://www.youtube.com/watch?v=EHC9HE7vazI)
+- [Siouxsie And The Banshees - Peek-A-Boo Official Music Video](https://www.youtube.com/watch?v=gGH_16SICL0)
+- [Pixies - Monkey Gone To Heaven Official Video](https://www.youtube.com/watch?v=EHC9HE7vazI)
 - [Inspiral Carpets - Joe](https://www.youtube.com/watch?v=BsK76tTEeFU)
 - [Baby Turpentine Remastered](https://www.youtube.com/watch?v=3f7x14AmliU)
-- [Throwing Muses - Dizzy (Official Video)](https://www.youtube.com/watch?v=eGELjc66kFs)
+- [Throwing Muses - Dizzy Official Video](https://www.youtube.com/watch?v=eGELjc66kFs)
 - [All About Eve - December](https://www.youtube.com/watch?v=mZ15nDrekTU)
-- [Tower Of Strength (Bombay Edit)](https://www.youtube.com/watch?v=owjzPHBabI4)
+- [Tower Of Strength Bombay Edit](https://www.youtube.com/watch?v=owjzPHBabI4)
 
 ## Release Images
 {{< imageGrid >}}

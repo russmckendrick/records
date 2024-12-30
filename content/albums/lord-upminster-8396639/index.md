@@ -36,18 +36,18 @@ Unlike New Boots..., however, the album was received negatively by the majority 
 
 
 ## Videos
-### Ian Dury - Lord Upminster (Full Album) 1981
-{{< youtube id="7Z2hgwig88c" title="Ian Dury - Lord Upminster (Full Album) 1981" >}}<br>
+### Ian Dury - Lord Upminster Full Album 1981
+{{< youtube id="7Z2hgwig88c" title="Ian Dury - Lord Upminster Full Album 1981" >}}<br>
 ### More Videos
 
-- [Ian Dury - Funky Disco (Pops)](https://www.youtube.com/watch?v=lKb_PXDfcM8)
-- [Ian Dury - Red (Letter)](https://www.youtube.com/watch?v=iDqy8iGQHA8)
-- [Ian Dury - Girls (Watching)](https://www.youtube.com/watch?v=EgosGoTI-fw)
-- [Ian Dury - Wait (For Me)](https://www.youtube.com/watch?v=EUNnW2jmYBI)
-- [Ian Dury - The (Body Song)](https://www.youtube.com/watch?v=wKC23ciPYmw)
-- [Ian Dury - Lonely (Town)](https://www.youtube.com/watch?v=1SJU3N5qHt8)
-- [Ian Dury - Trust (Is A Must)](https://www.youtube.com/watch?v=SlRxXFRs2zs)
-- [Ian Dury - Spasticus (Autisticus)](https://www.youtube.com/watch?v=0lULlLeMPcY)
+- [Ian Dury - Funky Disco Pops](https://www.youtube.com/watch?v=lKb_PXDfcM8)
+- [Ian Dury - Red Letter](https://www.youtube.com/watch?v=iDqy8iGQHA8)
+- [Ian Dury - Girls Watching](https://www.youtube.com/watch?v=EgosGoTI-fw)
+- [Ian Dury - Wait For Me](https://www.youtube.com/watch?v=EUNnW2jmYBI)
+- [Ian Dury - The Body Song](https://www.youtube.com/watch?v=wKC23ciPYmw)
+- [Ian Dury - Lonely Town](https://www.youtube.com/watch?v=1SJU3N5qHt8)
+- [Ian Dury - Trust Is A Must](https://www.youtube.com/watch?v=SlRxXFRs2zs)
+- [Ian Dury - Spasticus Autisticus](https://www.youtube.com/watch?v=0lULlLeMPcY)
 
 ## Release Images
 {{< imageGrid >}}

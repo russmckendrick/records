@@ -48,12 +48,12 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 
 
 ## Videos
-### …And You Will Know Us By The Trail Of Dead – IX
-{{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}<br>
+### And You Will Know Us By The Trail Of Dead  IX
+{{< youtube id="MJC8rfQ_wGA" title="And You Will Know Us By The Trail Of Dead  IX" >}}<br>
 ### More Videos
 
-- […And You Will Know Us By The Trail Of Dead - The Ghost Within](https://www.youtube.com/watch?v=0H6Qbp86GoA)
-- [..And You Will Know Us By the Trail of Dead - Lie Without A Liar](https://www.youtube.com/watch?v=5agmud4KYLc)
+- [And You Will Know Us By The Trail Of Dead - The Ghost Within](https://www.youtube.com/watch?v=0H6Qbp86GoA)
+- [And You Will Know Us By the Trail of Dead - Lie Without A Liar](https://www.youtube.com/watch?v=5agmud4KYLc)
 - [Bus Lines](https://www.youtube.com/watch?v=XxhuyKxOjTA)
 - [The Ghost Within](https://www.youtube.com/watch?v=6fqIquwl8ro)
 - [The Doomsday Book](https://www.youtube.com/watch?v=MZwv522VR2g)

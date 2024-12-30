@@ -49,15 +49,15 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 
 - [Mudhoney - Paranoid Core](https://www.youtube.com/watch?v=AtnzoY2RVoA)
 - [Nerve Attack](https://www.youtube.com/watch?v=oKBBwb-TPp0)
-- [Happy Release-Day, MUDHONEY! "Digital Garbage" is OUT NOW!](https://www.youtube.com/watch?v=H855JGzR_tg)
+- [Happy Release-Day MUDHONEY Digital Garbage is OUT NOW](https://www.youtube.com/watch?v=H855JGzR_tg)
 - [Night and Fog](https://www.youtube.com/watch?v=2OaC2PsoGCQ)
 - [Mudhoney - Kill Yourself Live](https://www.youtube.com/watch?v=Wcul9k3SRsY)
 - [Hey Neanderfuck](https://www.youtube.com/watch?v=rj_Td1YPTVg)
 - [Oh Yeah](https://www.youtube.com/watch?v=vwLzWwC6_Dk)
-- [Please Mr. Gunman](https://www.youtube.com/watch?v=bxpuM6eHW8Q)
+- [Please Mr Gunman](https://www.youtube.com/watch?v=bxpuM6eHW8Q)
 - [Next Mass Extinction](https://www.youtube.com/watch?v=KSKlU3HxuUs)
 - [21st Century Pharisees](https://www.youtube.com/watch?v=BXY9SZgLTto)
-- [Messiah's Lament](https://www.youtube.com/watch?v=s2Lzed3a04Y)
+- [Messiahs Lament](https://www.youtube.com/watch?v=s2Lzed3a04Y)
 
 ## Release Images
 {{< imageGrid >}}

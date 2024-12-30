@@ -75,11 +75,11 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Videos
-### Genesis - The Last Domino - The Hits (2021)
-{{< youtube id="7ghJJ70x0Lo" title="Genesis - The Last Domino - The Hits (2021)" >}}<br>
+### Genesis - The Last Domino - The Hits 2021
+{{< youtube id="7ghJJ70x0Lo" title="Genesis - The Last Domino - The Hits 2021" >}}<br>
 ### More Videos
 
-- [Genesis - The Last Domino - The Hits (2021)](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
+- [Genesis - The Last Domino - The Hits 2021](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
 
 ## Release Images
 {{< imageGrid >}}

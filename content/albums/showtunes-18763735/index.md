@@ -46,17 +46,17 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 
 
 ## Videos
-### Lambchop - A Chef's Kiss (Official Lyric Video)
-{{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}<br>
+### Lambchop - A Chefs Kiss Official Lyric Video
+{{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chefs Kiss Official Lyric Video" >}}<br>
 ### More Videos
 
 - [Drop C](https://www.youtube.com/watch?v=0fVsNU2fHKM)
 - [Papa Was a Rolling Stone Journalist](https://www.youtube.com/watch?v=Q4WYSF2MKMk)
-- [Lambchop - Fuku (Official Video)](https://www.youtube.com/watch?v=KP8SGpb0PTc)
+- [Lambchop - Fuku Official Video](https://www.youtube.com/watch?v=KP8SGpb0PTc)
 - [Unknown Man](https://www.youtube.com/watch?v=mOqtFK3zUNo)
 - [Blue Leo](https://www.youtube.com/watch?v=R9xUDjMO-B0)
 - [Impossible Meatballs](https://www.youtube.com/watch?v=yYnB046yWGI)
-- [Lambchop - The Last Benedict (Official Video)](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
+- [Lambchop - The Last Benedict Official Video](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
 
 ## Release Images
 {{< imageGrid >}}

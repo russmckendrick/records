@@ -51,9 +51,9 @@ It is also common for greatest hits albums to include new recordings, remixes or
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}<br>
 ### More Videos
 
-- [Whitesnake - Here I Go Again [Greatest Hits]](https://www.youtube.com/watch?v=RK0jnYzTDe4)
+- [Whitesnake - Here I Go Again Greatest Hits](https://www.youtube.com/watch?v=RK0jnYzTDe4)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
-- [CD / Whitesnake – Greatest Hits / 1994](https://www.youtube.com/watch?v=LoMMS76dBWU)
+- [CD  Whitesnake  Greatest Hits  1994](https://www.youtube.com/watch?v=LoMMS76dBWU)
 
 ## Release Images
 {{< imageGrid >}}

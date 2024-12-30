@@ -61,7 +61,7 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 {{< youtube id="d3clrkLNTSA" title="2049" >}}<br>
 ### More Videos
 
-- [Sapper's Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
+- [Sappers Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
 - [Flight to LAPD](https://www.youtube.com/watch?v=6vThgFwt4Kg)
 - [Rain](https://www.youtube.com/watch?v=D9OhQVuupdY)
 - [Wallace](https://www.youtube.com/watch?v=E3uWHtUkUoI)
@@ -73,16 +73,16 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 - [Joi](https://www.youtube.com/watch?v=HtyB5Wiq_Mw)
 - [Pilot](https://www.youtube.com/watch?v=peD-Xbfkeec)
 - [Hijack](https://www.youtube.com/watch?v=UOEXxLuGeIw)
-- [That's Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
+- [Thats Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
 - [Her Eyes Were Green](https://www.youtube.com/watch?v=ru2Bo_Ud0ms)
 - [Sea Wall](https://www.youtube.com/watch?v=ipGNuFXubL8)
 - [All the Best Memories Are Hers](https://www.youtube.com/watch?v=2QCecWuOC18)
 - [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 - [Blade Runner](https://www.youtube.com/watch?v=QjB3qextZbQ)
-- [Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)](https://www.youtube.com/watch?v=0CH8_gA4E_k)
-- [Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
+- [Almost Human from the Original Motion Picture Soundtrack Blade Runner 2049](https://www.youtube.com/watch?v=0CH8_gA4E_k)
+- [Blade Runner 2049 Score - Benjamin Wallfisch  Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
 - [2049](https://www.youtube.com/watch?v=d3clrkLNTSA)
-- [Sapper's Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
+- [Sappers Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
 - [Flight to LAPD](https://www.youtube.com/watch?v=6vThgFwt4Kg)
 - [Rain](https://www.youtube.com/watch?v=D9OhQVuupdY)
 - [Wallace](https://www.youtube.com/watch?v=E3uWHtUkUoI)
@@ -94,14 +94,14 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 - [Joi](https://www.youtube.com/watch?v=HtyB5Wiq_Mw)
 - [Pilot](https://www.youtube.com/watch?v=peD-Xbfkeec)
 - [Hijack](https://www.youtube.com/watch?v=UOEXxLuGeIw)
-- [That's Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
+- [Thats Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
 - [Her Eyes Were Green](https://www.youtube.com/watch?v=ru2Bo_Ud0ms)
 - [Sea Wall](https://www.youtube.com/watch?v=ipGNuFXubL8)
 - [All the Best Memories Are Hers](https://www.youtube.com/watch?v=2QCecWuOC18)
 - [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 - [Blade Runner](https://www.youtube.com/watch?v=QjB3qextZbQ)
-- [Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)](https://www.youtube.com/watch?v=0CH8_gA4E_k)
-- [Blade Runner 2049 (Score) - Benjamin Wallfisch & Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
+- [Almost Human from the Original Motion Picture Soundtrack Blade Runner 2049](https://www.youtube.com/watch?v=0CH8_gA4E_k)
+- [Blade Runner 2049 Score - Benjamin Wallfisch  Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
 
 ## Release Images
 {{< imageGrid >}}

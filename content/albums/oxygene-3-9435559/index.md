@@ -43,11 +43,11 @@ styles: ["Ambient", "Electro"]
 
 
 ## Videos
-### Jean-Michel Jarre - Oxygene 3 [Full Album Stream]
-{{< youtube id="j9HKhcM0kzo" title="Jean-Michel Jarre - Oxygene 3 [Full Album Stream]" >}}<br>
+### Jean-Michel Jarre - Oxygene 3 Full Album Stream
+{{< youtube id="j9HKhcM0kzo" title="Jean-Michel Jarre - Oxygene 3 Full Album Stream" >}}<br>
 ### More Videos
 
-- [Jean-Michel Jarre - Oxygene 3 [Full Album Stream]](https://www.youtube.com/watch?v=j9HKhcM0kzo)
+- [Jean-Michel Jarre - Oxygene 3 Full Album Stream](https://www.youtube.com/watch?v=j9HKhcM0kzo)
 
 ## Release Images
 {{< imageGrid >}}

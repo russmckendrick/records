@@ -60,12 +60,12 @@ Critics were often divided in their reviews for Wah Wah, but were mostly positiv
 
 
 ## Videos
-### cartridge VAN DEN HUL / BRIAN ENO. JAMES - WAH WAH . SIDE B
-{{< youtube id="QR1rQjD1iKM" title="cartridge VAN DEN HUL / BRIAN ENO. JAMES - WAH WAH . SIDE B" >}}<br>
+### cartridge VAN DEN HUL  BRIAN ENO JAMES - WAH WAH  SIDE B
+{{< youtube id="QR1rQjD1iKM" title="cartridge VAN DEN HUL  BRIAN ENO JAMES - WAH WAH  SIDE B" >}}<br>
 ### More Videos
 
-- [cartridge VAN DEN HUL / BRIAN ENO. JAMES - WAH WAH . SIDE D](https://www.youtube.com/watch?v=0eBV5deQoIY)
-- [cartridge VAN DEN HUL / BRIAN ENO. JAMES - WAH WAH . SIDE C](https://www.youtube.com/watch?v=uW5BXi6rads)
+- [cartridge VAN DEN HUL  BRIAN ENO JAMES - WAH WAH  SIDE D](https://www.youtube.com/watch?v=0eBV5deQoIY)
+- [cartridge VAN DEN HUL  BRIAN ENO JAMES - WAH WAH  SIDE C](https://www.youtube.com/watch?v=uW5BXi6rads)
 
 ## Release Images
 {{< imageGrid >}}

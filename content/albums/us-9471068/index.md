@@ -59,8 +59,8 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 
 
 ## Videos
-### Peter Gabriel - Digging In The Dirt (1992) [vinyl audio]
-{{< youtube id="Zfa6_Sg69OE" title="Peter Gabriel - Digging In The Dirt (1992) [vinyl audio]" >}}<br>
+### Peter Gabriel - Digging In The Dirt 1992 vinyl audio
+{{< youtube id="Zfa6_Sg69OE" title="Peter Gabriel - Digging In The Dirt 1992 vinyl audio" >}}<br>
 ### More Videos
 
 - [Peter Gabriel - Blood Of Eden](https://www.youtube.com/watch?v=3XhDGkg8SpQ)

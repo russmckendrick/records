@@ -49,12 +49,12 @@ The album was promoted by the single "Stripped" released 10 February, and was fo
 
 
 ## Videos
-### Depeche Mode - Stripped (Official Video)
-{{< youtube id="qU8UfYdKHvs" title="Depeche Mode - Stripped (Official Video)" >}}<br>
+### Depeche Mode - Stripped Official Video
+{{< youtube id="qU8UfYdKHvs" title="Depeche Mode - Stripped Official Video" >}}<br>
 ### More Videos
 
-- [Depeche Mode - A Question of Lust (Official Video)](https://www.youtube.com/watch?v=glw10co1IRs)
-- [Depeche Mode - A Question Of Time (Official Video)](https://www.youtube.com/watch?v=9pt7EWFF_T8)
+- [Depeche Mode - A Question of Lust Official Video](https://www.youtube.com/watch?v=glw10co1IRs)
+- [Depeche Mode - A Question Of Time Official Video](https://www.youtube.com/watch?v=9pt7EWFF_T8)
 
 ## Release Images
 {{< imageGrid >}}

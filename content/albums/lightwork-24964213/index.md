@@ -113,19 +113,19 @@ Lightwork is the twenty-first studio album by Canadian musician Devin Townsend, 
 
 
 ## Videos
-### "Moonpeople" - Official Promo Video
-{{< youtube id="D-kl_I8E0kA" title=""Moonpeople" - Official Promo Video" >}}<br>
+### Moonpeople - Official Promo Video
+{{< youtube id="D-kl_I8E0kA" title="Moonpeople - Official Promo Video" >}}<br>
 ### More Videos
 
-- ["Lightworker" - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
-- ["Call Of The Void" - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
-- [DEVIN TOWNSEND - LIGHTWORK (DELUXE EDITION) (2022) [FULL ALBUM]](https://www.youtube.com/watch?v=nRDVLiYds_M)
+- [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
+- [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
+- [DEVIN TOWNSEND - LIGHTWORK DELUXE EDITION 2022 FULL ALBUM](https://www.youtube.com/watch?v=nRDVLiYds_M)
 - [Equinox](https://www.youtube.com/watch?v=8t_QBTKrTXU)
-- ["Heartbreaker" - Official Promo Video](https://www.youtube.com/watch?v=G6cNd3dCVFY)
-- ["Moonpeople" - Official Promo Video](https://www.youtube.com/watch?v=D-kl_I8E0kA)
-- ["Lightworker" - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
-- ["Call Of The Void" - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
-- [DEVIN TOWNSEND - LIGHTWORK (DELUXE EDITION) (2022) [FULL ALBUM]](https://www.youtube.com/watch?v=nRDVLiYds_M)
+- [Heartbreaker - Official Promo Video](https://www.youtube.com/watch?v=G6cNd3dCVFY)
+- [Moonpeople - Official Promo Video](https://www.youtube.com/watch?v=D-kl_I8E0kA)
+- [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
+- [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
+- [DEVIN TOWNSEND - LIGHTWORK DELUXE EDITION 2022 FULL ALBUM](https://www.youtube.com/watch?v=nRDVLiYds_M)
 - [Unboxing Devin Townsend - Lightwork 2022 Limited Edition Artbook](https://www.youtube.com/watch?v=c2hxyDvgfws)
 
 ## Release Images

@@ -51,11 +51,11 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 
 
 ## Videos
-### 6. Electronic - Getting Away With It (Vocal Remix)
-{{< youtube id="WA2EBjzF-sU" title="6. Electronic - Getting Away With It (Vocal Remix)" >}}<br>
+### 6 Electronic - Getting Away With It Vocal Remix
+{{< youtube id="WA2EBjzF-sU" title="6 Electronic - Getting Away With It Vocal Remix" >}}<br>
 ### More Videos
 
-- [Until The End Of Time (Fluffy Dice Remix)](https://www.youtube.com/watch?v=tVp2bx9E-7I)
+- [Until The End Of Time Fluffy Dice Remix](https://www.youtube.com/watch?v=tVp2bx9E-7I)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,13 +50,13 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 
 
 ## Videos
-### Slowdive // Slomo
-{{< youtube id="XHY2w9NO57Y" title="Slowdive // Slomo" >}}<br>
+### Slowdive  Slomo
+{{< youtube id="XHY2w9NO57Y" title="Slowdive  Slomo" >}}<br>
 ### More Videos
 
-- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
-- [Slowdive // Slomo](https://www.youtube.com/watch?v=XHY2w9NO57Y)
-- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
+- [Pearl Edit](https://www.youtube.com/watch?v=wlqKSAJZsZs)
+- [Slowdive  Slomo](https://www.youtube.com/watch?v=XHY2w9NO57Y)
+- [Pearl Edit](https://www.youtube.com/watch?v=wlqKSAJZsZs)
 
 ## Release Images
 {{< imageGrid >}}

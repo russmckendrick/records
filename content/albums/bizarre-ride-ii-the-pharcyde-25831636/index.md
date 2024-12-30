@@ -62,26 +62,26 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 
 
 ## Videos
-### The Pharcyde - 4 Better Or 4 Worse (Official Music Video)
-{{< youtube id="49PQ75u6WTQ" title="The Pharcyde - 4 Better Or 4 Worse (Official Music Video)" >}}<br>
+### The Pharcyde - 4 Better Or 4 Worse Official Music Video
+{{< youtube id="49PQ75u6WTQ" title="The Pharcyde - 4 Better Or 4 Worse Official Music Video" >}}<br>
 ### More Videos
 
-- [The Pharcyde - Ya Mama (Official Music Video)](https://www.youtube.com/watch?v=lnCeZY6nxjQ)
-- [The Pharcyde - Passin' Me By (Official Music Video)](https://www.youtube.com/watch?v=a-mAK3uB2_0)
-- [4 Better Or 4 Worse (Interlude) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VDieujZyzzM)
-- [Oh S*** by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=QdANlTrjXBg)
-- [It's Jigaboo Time (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=emY7MNY3SIY)
+- [The Pharcyde - Ya Mama Official Music Video](https://www.youtube.com/watch?v=lnCeZY6nxjQ)
+- [The Pharcyde - Passin Me By Official Music Video](https://www.youtube.com/watch?v=a-mAK3uB2_0)
+- [4 Better Or 4 Worse Interlude by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VDieujZyzzM)
+- [Oh S by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=QdANlTrjXBg)
+- [Its Jigaboo Time Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=emY7MNY3SIY)
 - [4 Better or 4 Worse  by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=kg8YrFgtznU)
-- [I'm The Type of N**** by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4h-Uh1jdKYg)
-- [If I Were President (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=-s_u_A-PaNM)
-- [Soul Flower (Remix) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VlJvt_uSrb4)
+- [Im The Type of N by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4h-Uh1jdKYg)
+- [If I Were President Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=-s_u_A-PaNM)
+- [Soul Flower Remix by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VlJvt_uSrb4)
 - [On The DL by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=Se2MfbzFJtc)
 - [Pack The Pipe by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=3jXYwF6hl-I)
 - [Officer by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=sby8NMiNlmo)
 - [Ya Mama by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=g3SZK9-PfZw)
-- [Passin' Me By by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=UYN1ODw4wM8)
+- [Passin Me By by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=UYN1ODw4wM8)
 - [Otha Fish by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=0ra4_t8kPXE)
-- [Quinton's On The Way (Skit) by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
+- [Quintons On The Way Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
 - [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)
 
 ## Release Images

@@ -54,17 +54,17 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 
 
 ## Videos
-### Regina Spektor - "Us" [OFFICIAL Video]
-{{< youtube id="fczPlmz-Vug" title="Regina Spektor - "Us" [OFFICIAL Video]" >}}<br>
+### Regina Spektor - Us OFFICIAL Video
+{{< youtube id="fczPlmz-Vug" title="Regina Spektor - Us OFFICIAL Video" >}}<br>
 ### More Videos
 
-- [Regina Spektor "Ode to Divorce" Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
+- [Regina Spektor Ode to Divorce Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
 - [Regina Spektor - Poor Little Rich Boy](https://www.youtube.com/watch?v=9GS5CpYTcfM)
 - [Carbon Monoxide - Regina Spektor - Lyrics On Screen](https://www.youtube.com/watch?v=-in_oSu4Ojg)
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)
 - [Regina Spektor - Sailor Song](https://www.youtube.com/watch?v=Uro9hjHSsiw)
-- [Regina Spektor - "Us" [OFFICIAL Video]](https://www.youtube.com/watch?v=fczPlmz-Vug)
-- [Regina Spektor "Ode to Divorce" Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
+- [Regina Spektor - Us OFFICIAL Video](https://www.youtube.com/watch?v=fczPlmz-Vug)
+- [Regina Spektor Ode to Divorce Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
 - [Regina Spektor - Poor Little Rich Boy](https://www.youtube.com/watch?v=9GS5CpYTcfM)
 - [Carbon Monoxide - Regina Spektor - Lyrics On Screen](https://www.youtube.com/watch?v=-in_oSu4Ojg)
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)

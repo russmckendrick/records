@@ -53,11 +53,11 @@ styles: ["Space Rock", "Prog Rock"]
 {{< youtube id="TE4KCRZI2tg" title="Amplifier - Rainbow Machine" >}}<br>
 ### More Videos
 
-- [Amplifier - Freakzone (2017)](https://www.youtube.com/watch?v=k7NAMedoq4o)
-- [Amplifier - Kosmos (Lyric Video)](https://www.youtube.com/watch?v=s4PoflfAMEo)
+- [Amplifier - Freakzone 2017](https://www.youtube.com/watch?v=k7NAMedoq4o)
+- [Amplifier - Kosmos Lyric Video](https://www.youtube.com/watch?v=s4PoflfAMEo)
 - [Amplifier - Rainbow Machine](https://www.youtube.com/watch?v=TE4KCRZI2tg)
-- [Amplifier - Freakzone (2017)](https://www.youtube.com/watch?v=k7NAMedoq4o)
-- [Amplifier - Kosmos (Lyric Video)](https://www.youtube.com/watch?v=s4PoflfAMEo)
+- [Amplifier - Freakzone 2017](https://www.youtube.com/watch?v=k7NAMedoq4o)
+- [Amplifier - Kosmos Lyric Video](https://www.youtube.com/watch?v=s4PoflfAMEo)
 
 ## Release Images
 {{< imageGrid >}}

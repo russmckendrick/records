@@ -54,21 +54,21 @@ It was also the first album to be produced by bassist and band founder Steve Har
 
 
 ## Videos
-### Iron Maiden - Be Quick Or Be Dead (Official Video)
-{{< youtube id="CTt1vk9nM9c" title="Iron Maiden - Be Quick Or Be Dead (Official Video)" >}}<br>
+### Iron Maiden - Be Quick Or Be Dead Official Video
+{{< youtube id="CTt1vk9nM9c" title="Iron Maiden - Be Quick Or Be Dead Official Video" >}}<br>
 ### More Videos
 
-- [Iron Maiden - From Here To Eternity (Official Video)](https://www.youtube.com/watch?v=MhUUTvgjUFQ)
-- [Iron Maiden - Afraid To Shoot Strangers (Official Video)](https://www.youtube.com/watch?v=0c9iYZdsZMM)
-- [Fear Is the Key (2015 Remaster)](https://www.youtube.com/watch?v=SOledhOU05c)
-- [Childhood's End (2015 Remaster)](https://www.youtube.com/watch?v=W29NlxCZxb0)
-- [Iron Maiden - Wasting Love (Official Video)](https://www.youtube.com/watch?v=SbWeP7KkeCU)
-- [The Fugitive (2015 Remaster)](https://www.youtube.com/watch?v=WG6_gYpgH3I)
-- [Chains of Misery (2015 Remaster)](https://www.youtube.com/watch?v=xmi8p8KncCE)
-- [The Apparition (2015 Remaster)](https://www.youtube.com/watch?v=KcJlkqMC7dg)
-- [Judas Be My Guide (2015 Remaster)](https://www.youtube.com/watch?v=dnm2rA0KYOA)
-- [Weekend Warrior (2015 Remaster)](https://www.youtube.com/watch?v=FOOJF_RGu4s)
-- [Fear of the Dark (2015 Remaster)](https://www.youtube.com/watch?v=bePCRKGUwAY)
+- [Iron Maiden - From Here To Eternity Official Video](https://www.youtube.com/watch?v=MhUUTvgjUFQ)
+- [Iron Maiden - Afraid To Shoot Strangers Official Video](https://www.youtube.com/watch?v=0c9iYZdsZMM)
+- [Fear Is the Key 2015 Remaster](https://www.youtube.com/watch?v=SOledhOU05c)
+- [Childhoods End 2015 Remaster](https://www.youtube.com/watch?v=W29NlxCZxb0)
+- [Iron Maiden - Wasting Love Official Video](https://www.youtube.com/watch?v=SbWeP7KkeCU)
+- [The Fugitive 2015 Remaster](https://www.youtube.com/watch?v=WG6_gYpgH3I)
+- [Chains of Misery 2015 Remaster](https://www.youtube.com/watch?v=xmi8p8KncCE)
+- [The Apparition 2015 Remaster](https://www.youtube.com/watch?v=KcJlkqMC7dg)
+- [Judas Be My Guide 2015 Remaster](https://www.youtube.com/watch?v=dnm2rA0KYOA)
+- [Weekend Warrior 2015 Remaster](https://www.youtube.com/watch?v=FOOJF_RGu4s)
+- [Fear of the Dark 2015 Remaster](https://www.youtube.com/watch?v=bePCRKGUwAY)
 
 ## Release Images
 {{< imageGrid >}}

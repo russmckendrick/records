@@ -68,27 +68,27 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 
 
 ## Videos
-### Mr Scruff- Kalimba (Ninja Tuna)
-{{< youtube id="tCO4i2t-Aso" title="Mr Scruff- Kalimba (Ninja Tuna)" >}}<br>
+### Mr Scruff- Kalimba Ninja Tuna
+{{< youtube id="tCO4i2t-Aso" title="Mr Scruff- Kalimba Ninja Tuna" >}}<br>
 ### More Videos
 
 - [Mr Scruff - Kalimba](https://www.youtube.com/watch?v=jZHAb92E31E)
-- [Mr. Scruff-Ninja Tuna 10 Hours](https://www.youtube.com/watch?v=Qm1UeHt4xpg)
+- [Mr Scruff-Ninja Tuna 10 Hours](https://www.youtube.com/watch?v=Qm1UeHt4xpg)
 - [Mr Scruff - Music Takes Me Up](https://www.youtube.com/watch?v=Ojl2KLCGT4I)
 - [Mr Scruff - Hairy Bumpercress](https://www.youtube.com/watch?v=n6u5tkMhV_o)
-- [Ninja Tuna Kalimba 1 hour!! Mr. Scruff (HD/HQ)](https://www.youtube.com/watch?v=1tb2jf0yEvQ)
+- [Ninja Tuna Kalimba 1 hour Mr Scruff HDHQ](https://www.youtube.com/watch?v=1tb2jf0yEvQ)
 - [Mr Scruff - This way](https://www.youtube.com/watch?v=AtIh3Ty6YaM)
 - [Mr Scruff - Test The Sound](https://www.youtube.com/watch?v=lCLUtXJMAz8)
-- [Songs from Ninja Tuna (2nd Edition)](https://www.youtube.com/watch?v=ggfLWkmHMeE)
+- [Songs from Ninja Tuna 2nd Edition](https://www.youtube.com/watch?v=ggfLWkmHMeE)
 - [Mr Scruff - Test The Sound](https://www.youtube.com/watch?v=AEyscNtGJY8)
 - [Mr Scruff - Music Takes Me Up](https://www.youtube.com/watch?v=Ojl2KLCGT4I)
 - [Mr Scruff - Donkey Ride](https://www.youtube.com/watch?v=uLeD2ZdIXM0)
 - [Mr Scruff - Hairy Bumpercress](https://www.youtube.com/watch?v=n6u5tkMhV_o)
 - [Mr Scruff - Whiplash](https://www.youtube.com/watch?v=J6fklo4ulr0)
-- [Mr Scruff - Nice Up The Function feat. Roots Manuva](https://www.youtube.com/watch?v=4m8BdBL2gwM)
+- [Mr Scruff - Nice Up The Function feat Roots Manuva](https://www.youtube.com/watch?v=4m8BdBL2gwM)
 - [Mr Scruff - Bang The Floor](https://www.youtube.com/watch?v=QC7YN3iP_4M)
 - [Mr Scruff - Get On Down](https://www.youtube.com/watch?v=bzs8OXHrAfw)
-- [Mr Scruff - Hold On (feat Andreya Triana)](https://www.youtube.com/watch?v=E5rWrLgnKDM)
+- [Mr Scruff - Hold On feat Andreya Triana](https://www.youtube.com/watch?v=E5rWrLgnKDM)
 - [Mr Scruff - Give Up To Get](https://www.youtube.com/watch?v=d1jnXU9bIsk)
 - [Mr Scruff - This way](https://www.youtube.com/watch?v=AtIh3Ty6YaM)
 - [Mr Scruff - Stockport Carnival](https://www.youtube.com/watch?v=0D1lJyntI6A)

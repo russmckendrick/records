@@ -52,13 +52,13 @@ Let It Come Down is the fourth studio album by the rock band Spiritualized, rele
 
 
 ## Videos
-### Spiritualized - Do It All Over Again (Official Video)
-{{< youtube id="s2v0PZOpRqg" title="Spiritualized - Do It All Over Again (Official Video)" >}}<br>
+### Spiritualized - Do It All Over Again Official Video
+{{< youtube id="s2v0PZOpRqg" title="Spiritualized - Do It All Over Again Official Video" >}}<br>
 ### More Videos
 
-- [Spiritualized - Stop Your Crying (Official Music Video)](https://www.youtube.com/watch?v=JhynUZyB2sk)
-- [Spiritualized - Out Of Sight (Official Music Video)](https://www.youtube.com/watch?v=WOswxJKtLLw)
-- [Lord Can You Hear Me - Spiritualized (Official Audio)](https://www.youtube.com/watch?v=H8j-fV17i54)
+- [Spiritualized - Stop Your Crying Official Music Video](https://www.youtube.com/watch?v=JhynUZyB2sk)
+- [Spiritualized - Out Of Sight Official Music Video](https://www.youtube.com/watch?v=WOswxJKtLLw)
+- [Lord Can You Hear Me - Spiritualized Official Audio](https://www.youtube.com/watch?v=H8j-fV17i54)
 - [On Fire](https://www.youtube.com/watch?v=IYhI-KHoCb0)
 - [The Twelve Steps](https://www.youtube.com/watch?v=dRNyQ3I7ous)
 

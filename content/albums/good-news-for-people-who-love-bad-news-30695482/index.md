@@ -75,13 +75,13 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 
 
 ## Videos
-### Modest Mouse - Float On (Official Music Video)
-{{< youtube id="CTAud5O7Qqk" title="Modest Mouse - Float On (Official Music Video)" >}}<br>
+### Modest Mouse - Float On Official Music Video
+{{< youtube id="CTAud5O7Qqk" title="Modest Mouse - Float On Official Music Video" >}}<br>
 ### More Videos
 
 - [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
 - [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
-- [Modest Mouse - The World At Large (Audio)](https://www.youtube.com/watch?v=1TXdU9LMmv4)
+- [Modest Mouse - The World At Large Audio](https://www.youtube.com/watch?v=1TXdU9LMmv4)
 - [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
 - [Blame It On the Tetons](https://www.youtube.com/watch?v=kLMENNyUxcI)
 

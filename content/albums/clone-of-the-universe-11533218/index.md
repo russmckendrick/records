@@ -42,8 +42,8 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 
 
 ## Videos
-### Fu Manchu - Don't Panic
-{{< youtube id="AOSkGeSOOz0" title="Fu Manchu - Don't Panic" >}}<br>
+### Fu Manchu - Dont Panic
+{{< youtube id="AOSkGeSOOz0" title="Fu Manchu - Dont Panic" >}}<br>
 ### More Videos
 
 - [Fu Manchu - Intelligent Worship](https://www.youtube.com/watch?v=DXu5YFTVCyc)

@@ -42,14 +42,14 @@ Dubber Side of the Moon is the second dub reggae tribute to the Pink Floyd album
 
 
 ## Videos
-### Brain Damage (Adrian Sherwood and Jazzwad Remix)
-{{< youtube id="XsCWT9QVK3A" title="Brain Damage (Adrian Sherwood and Jazzwad Remix)" >}}<br>
+### Brain Damage Adrian Sherwood and Jazzwad Remix
+{{< youtube id="XsCWT9QVK3A" title="Brain Damage Adrian Sherwood and Jazzwad Remix" >}}<br>
 ### More Videos
 
-- [Easy Star All Stars - Brain Damage {Adrian Sherwood & Jazzwad Remix}{Pink Floyd}](https://www.youtube.com/watch?v=Xnwz_L2ZKo0)
-- [EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
-- [Easy Star All Stars - Money (The Alchemist Remix)](https://www.youtube.com/watch?v=azmdQp4MryE)
-- [Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)](https://www.youtube.com/watch?v=CD_SkZpc6J0)
+- [Easy Star All Stars - Brain Damage Adrian Sherwood  Jazzwad RemixPink Floyd](https://www.youtube.com/watch?v=Xnwz_L2ZKo0)
+- [EASY STAR ALL-STARS DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
+- [Easy Star All Stars - Money The Alchemist Remix](https://www.youtube.com/watch?v=azmdQp4MryE)
+- [Easy All-Stars - Dubber Side Of The Moon Full Album HQ](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
 ## Release Images
 {{< imageGrid >}}

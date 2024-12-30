@@ -53,7 +53,7 @@ styles: ["Prog Rock"]
 {{< youtube id="t3zBRu3b4RU" title="Latitude" >}}<br>
 ### More Videos
 
-- [Lesoir "Latitude" (GAOM054)](https://www.youtube.com/watch?v=L8vaclL7Ojc)
+- [Lesoir Latitude GAOM054](https://www.youtube.com/watch?v=L8vaclL7Ojc)
 - [In Their Eyes](https://www.youtube.com/watch?v=H6JRkSNYD80)
 
 ## Release Images

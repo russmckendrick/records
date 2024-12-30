@@ -54,12 +54,12 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 
 
 ## Videos
-### ZZ Top - Gimme All Your Lovin' (Official Music Video)
-{{< youtube id="Ae829mFAGGE" title="ZZ Top - Gimme All Your Lovin' (Official Music Video)" >}}<br>
+### ZZ Top - Gimme All Your Lovin Official Music Video
+{{< youtube id="Ae829mFAGGE" title="ZZ Top - Gimme All Your Lovin Official Music Video" >}}<br>
 ### More Videos
 
-- [ZZ Top - Sharp Dressed Man (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=7wRHBLwpASw)
-- [ZZ Top - Legs (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=eUDcTLaWJuo)
+- [ZZ Top - Sharp Dressed Man Official Music Video HD Remaster](https://www.youtube.com/watch?v=7wRHBLwpASw)
+- [ZZ Top - Legs Official Music Video HD Remaster](https://www.youtube.com/watch?v=eUDcTLaWJuo)
 
 ## Release Images
 {{< imageGrid >}}

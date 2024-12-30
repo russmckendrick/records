@@ -54,8 +54,8 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 
 
 ## Videos
-### David Bowie - Strangers When We Meet (Official Music Video) [HD Upgrade]
-{{< youtube id="4FQc4tbNjPA" title="David Bowie - Strangers When We Meet (Official Music Video) [HD Upgrade]" >}}<br>
+### David Bowie - Strangers When We Meet Official Music Video HD Upgrade
+{{< youtube id="4FQc4tbNjPA" title="David Bowie - Strangers When We Meet Official Music Video HD Upgrade" >}}<br>
 
 
 ## Release Images

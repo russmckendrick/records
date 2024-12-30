@@ -50,17 +50,17 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 {{< youtube id="djpnsqdNabM" title="Cat Stevens- Sitting" >}}<br>
 ### More Videos
 
-- [Cat Stevens - Can't Keep It In](https://www.youtube.com/watch?v=0W_SGoBFJxs)
+- [Cat Stevens - Cant Keep It In](https://www.youtube.com/watch?v=0W_SGoBFJxs)
 - [CAT STEVENS - Wild World 1971](https://www.youtube.com/watch?v=Jta56wBl7SM)
 - [Cat Stevens Greatest Hits Album - Best Songs Of Cat Stevens](https://www.youtube.com/watch?v=JkaCkZmPRFk)
-- [Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)](https://www.youtube.com/watch?v=A--zzYtFUUs)
-- [Cat Stevens - Another Saturday Night (LYRICS + FULL SONG)](https://www.youtube.com/watch?v=VQGzmSox2Xc)
-- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=jg_OPer0FbE)
-- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=ss39YgoXa2g)
-- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=x8Q2gb-5iH0)
-- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=jGqNG5Q52Mw)
-- [Cat Stevens - Cat Stevens Greatest Hits || Best Songs Cat Stevens ( Full Album Live)](https://www.youtube.com/watch?v=2rNBBU_62hw)
-- [CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
+- [Yusuf  Cat Stevens - Oh Very Young live Majikat - Earth Tour 1976](https://www.youtube.com/watch?v=A--zzYtFUUs)
+- [Cat Stevens - Another Saturday Night LYRICS  FULL SONG](https://www.youtube.com/watch?v=VQGzmSox2Xc)
+- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70s80s90s](https://www.youtube.com/watch?v=jg_OPer0FbE)
+- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70s80s90s](https://www.youtube.com/watch?v=ss39YgoXa2g)
+- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70s80s90s](https://www.youtube.com/watch?v=x8Q2gb-5iH0)
+- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70s80s90s](https://www.youtube.com/watch?v=jGqNG5Q52Mw)
+- [Cat Stevens - Cat Stevens Greatest Hits  Best Songs Cat Stevens  Full Album Live](https://www.youtube.com/watch?v=2rNBBU_62hw)
+- [CAT STEVENS - GREATEST HITS  FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
 
 ## Release Images
 {{< imageGrid >}}

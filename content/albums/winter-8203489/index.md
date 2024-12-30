@@ -46,35 +46,35 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### OCEANS OF SLUMBER - Devout (Album Track)
-{{< youtube id="TN8f2ouaqfs" title="OCEANS OF SLUMBER - Devout (Album Track)" >}}<br>
+### OCEANS OF SLUMBER - Devout Album Track
+{{< youtube id="TN8f2ouaqfs" title="OCEANS OF SLUMBER - Devout Album Track" >}}<br>
 ### More Videos
 
-- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
-- [OCEANS OF SLUMBER - Suffer The Last Bridge (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=uj2lpQxGKhU)
-- [OCEANS OF SLUMBER - Turpentine (Album Track)](https://www.youtube.com/watch?v=XXKUSynBbAI)
-- [OCEANS OF SLUMBER - Turpentine (Acoustic Version)](https://www.youtube.com/watch?v=EvxBoL8IExQ)
-- [OCEANS OF SLUMBER's Cammie Gilbert On 'Winter', Concept & Women In Metal (2016)](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
-- [OCEANS OF SLUMBER - Solitude (Candlemass cover)](https://www.youtube.com/watch?v=e91SnsQS1O8)
-- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=ny97bdStY_Q)
-- [Oceans Of Slumber interview for GoetiaMedia.com 2016 (Dobber)](https://www.youtube.com/watch?v=llbQ2NptIT4)
-- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=9QvTeOfEpX0)
-- [Oceans of Slumber - Memoriam (Blue Session)](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
-- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
-- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
+- [OCEANS OF SLUMBER - Winter OFFICIAL VIDEO](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Suffer The Last Bridge OFFICIAL VIDEO](https://www.youtube.com/watch?v=uj2lpQxGKhU)
+- [OCEANS OF SLUMBER - Turpentine Album Track](https://www.youtube.com/watch?v=XXKUSynBbAI)
+- [OCEANS OF SLUMBER - Turpentine Acoustic Version](https://www.youtube.com/watch?v=EvxBoL8IExQ)
+- [OCEANS OF SLUMBERs Cammie Gilbert On Winter Concept  Women In Metal 2016](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
+- [OCEANS OF SLUMBER - Solitude Candlemass cover](https://www.youtube.com/watch?v=e91SnsQS1O8)
+- [Oceans of Slumber Live in New York 2015](https://www.youtube.com/watch?v=ny97bdStY_Q)
+- [Oceans Of Slumber interview for GoetiaMediacom 2016 Dobber](https://www.youtube.com/watch?v=llbQ2NptIT4)
+- [Oceans of Slumber Live in New York 2015](https://www.youtube.com/watch?v=9QvTeOfEpX0)
+- [Oceans of Slumber - Memoriam Blue Session](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
+- [OCEANS OF SLUMBER - Winter OFFICIAL VIDEO](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Devout Album Track](https://www.youtube.com/watch?v=TN8f2ouaqfs)
 - [Turpentine](https://www.youtube.com/watch?v=ygykQnXU0NI)
 - [Grace](https://www.youtube.com/watch?v=5LVlTJfH1qk)
-- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
-- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
-- [OCEANS OF SLUMBER - Suffer The Last Bridge (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=uj2lpQxGKhU)
-- [OCEANS OF SLUMBER - Turpentine (Album Track)](https://www.youtube.com/watch?v=XXKUSynBbAI)
-- [OCEANS OF SLUMBER - Turpentine (Acoustic Version)](https://www.youtube.com/watch?v=EvxBoL8IExQ)
-- [OCEANS OF SLUMBER's Cammie Gilbert On 'Winter', Concept & Women In Metal (2016)](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
-- [OCEANS OF SLUMBER - Solitude (Candlemass cover)](https://www.youtube.com/watch?v=e91SnsQS1O8)
-- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=ny97bdStY_Q)
-- [Oceans Of Slumber interview for GoetiaMedia.com 2016 (Dobber)](https://www.youtube.com/watch?v=llbQ2NptIT4)
-- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=9QvTeOfEpX0)
-- [Oceans of Slumber - Memoriam (Blue Session)](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
+- [OCEANS OF SLUMBER - Devout Album Track](https://www.youtube.com/watch?v=TN8f2ouaqfs)
+- [OCEANS OF SLUMBER - Winter OFFICIAL VIDEO](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Suffer The Last Bridge OFFICIAL VIDEO](https://www.youtube.com/watch?v=uj2lpQxGKhU)
+- [OCEANS OF SLUMBER - Turpentine Album Track](https://www.youtube.com/watch?v=XXKUSynBbAI)
+- [OCEANS OF SLUMBER - Turpentine Acoustic Version](https://www.youtube.com/watch?v=EvxBoL8IExQ)
+- [OCEANS OF SLUMBERs Cammie Gilbert On Winter Concept  Women In Metal 2016](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
+- [OCEANS OF SLUMBER - Solitude Candlemass cover](https://www.youtube.com/watch?v=e91SnsQS1O8)
+- [Oceans of Slumber Live in New York 2015](https://www.youtube.com/watch?v=ny97bdStY_Q)
+- [Oceans Of Slumber interview for GoetiaMediacom 2016 Dobber](https://www.youtube.com/watch?v=llbQ2NptIT4)
+- [Oceans of Slumber Live in New York 2015](https://www.youtube.com/watch?v=9QvTeOfEpX0)
+- [Oceans of Slumber - Memoriam Blue Session](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
 
 ## Release Images
 {{< imageGrid >}}

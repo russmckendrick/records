@@ -47,15 +47,15 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 
 
 ## Videos
-### Def Leppard – Too Late For Love ......yerdenizplak.com İstanbul Kadıköy
-{{< youtube id="jWyXQwKrswc" title="Def Leppard – Too Late For Love ......yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### Def Leppard  Too Late For Love yerdenizplakcom İstanbul Kadıköy
+{{< youtube id="jWyXQwKrswc" title="Def Leppard  Too Late For Love yerdenizplakcom İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [Def Leppard - Too late For Love (Official Video)](https://www.youtube.com/watch?v=JylbxFYc83k)
+- [Def Leppard - Too late For Love Official Video](https://www.youtube.com/watch?v=JylbxFYc83k)
 - [Def Leppard - Photograph](https://www.youtube.com/watch?v=D4dHr8evt6k)
-- [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
-- [Def Leppard - Pyromania (Full Album)](https://www.youtube.com/watch?v=XQAsDO4L4vg)
-- [Billy's Got A Gun](https://www.youtube.com/watch?v=XpXNavL70Ps)
+- [Def Leppard - Foolin](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
+- [Def Leppard - Pyromania Full Album](https://www.youtube.com/watch?v=XQAsDO4L4vg)
+- [Billys Got A Gun](https://www.youtube.com/watch?v=XpXNavL70Ps)
 - [Too Late For Love](https://www.youtube.com/watch?v=5aSTWUxg2W0)
 - [Stagefright](https://www.youtube.com/watch?v=ItFddM32bxs)
 - [Def Leppard - Rock Of Ages - HQ](https://www.youtube.com/watch?v=ZpJ5IRqoxGE)

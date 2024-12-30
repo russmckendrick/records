@@ -75,8 +75,8 @@ Script for a Jester's Tear is the only studio album by Marillion to feature the 
 
 
 ## Videos
-### M̲ari̲lli̲on - S̲cri̲pt for a J̲e̲ster's T̲ear Full Album 1983
-{{< youtube id="UXeTcpskPi4" title="M̲ari̲lli̲on - S̲cri̲pt for a J̲e̲ster's T̲ear Full Album 1983" >}}<br>
+### Marillion - Script for a Jesters Tear Full Album 1983
+{{< youtube id="UXeTcpskPi4" title="Marillion - Script for a Jesters Tear Full Album 1983" >}}<br>
 
 
 ## Release Images

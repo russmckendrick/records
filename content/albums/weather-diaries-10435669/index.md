@@ -47,13 +47,13 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 
 
 ## Videos
-### Ride - Home Is A Feeling (OFFICIAL AUDIO)
-{{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling (OFFICIAL AUDIO)" >}}<br>
+### Ride - Home Is A Feeling OFFICIAL AUDIO
+{{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling OFFICIAL AUDIO" >}}<br>
 ### More Videos
 
-- [Ride - Home Is A Feeling (OFFICIAL AUDIO)](https://www.youtube.com/watch?v=A5xwjWbBbzo)
-- [Ride - All I Want (Official video)](https://www.youtube.com/watch?v=zzSDDrtYpGY)
-- [Ride - Charm Assault (Official video)](https://www.youtube.com/watch?v=nW_lRP2RqX8)
+- [Ride - Home Is A Feeling OFFICIAL AUDIO](https://www.youtube.com/watch?v=A5xwjWbBbzo)
+- [Ride - All I Want Official video](https://www.youtube.com/watch?v=zzSDDrtYpGY)
+- [Ride - Charm Assault Official video](https://www.youtube.com/watch?v=nW_lRP2RqX8)
 
 ## Release Images
 {{< imageGrid >}}

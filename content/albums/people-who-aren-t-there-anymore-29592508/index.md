@@ -58,17 +58,17 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 {{< youtube id="P9m9yYT2hFc" title="Future Islands - King of Sweden" >}}<br>
 ### More Videos
 
-- [Future Islands - 'The Tower' (Official Video)](https://www.youtube.com/watch?v=WFmovmenhoU)
-- [Future Islands - Deep in the Night (Official Video)](https://www.youtube.com/watch?v=HWFh8yOPqQM)
-- [Future Islands - Say Goodbye (Official Video)](https://www.youtube.com/watch?v=Sv4BEtDpa3U)
-- [Future Islands - Give Me The Ghost Back (Official Lyric Video)](https://www.youtube.com/watch?v=VyEh9RVam24)
-- [Future Islands - Corner Of My Eye (Official Lyric Video)](https://www.youtube.com/watch?v=OGC_Yld_XxA)
-- [Future Islands - The Thief (Official Video)](https://www.youtube.com/watch?v=cccB8ULwmeI)
-- [Future Islands - Iris (Official Lyric Video)](https://www.youtube.com/watch?v=Ayi_K2z6fuk)
-- [Future Islands - 'The Fight' (Official Video)](https://www.youtube.com/watch?v=393AKIJlh8c)
+- [Future Islands - The Tower Official Video](https://www.youtube.com/watch?v=WFmovmenhoU)
+- [Future Islands - Deep in the Night Official Video](https://www.youtube.com/watch?v=HWFh8yOPqQM)
+- [Future Islands - Say Goodbye Official Video](https://www.youtube.com/watch?v=Sv4BEtDpa3U)
+- [Future Islands - Give Me The Ghost Back Official Lyric Video](https://www.youtube.com/watch?v=VyEh9RVam24)
+- [Future Islands - Corner Of My Eye Official Lyric Video](https://www.youtube.com/watch?v=OGC_Yld_XxA)
+- [Future Islands - The Thief Official Video](https://www.youtube.com/watch?v=cccB8ULwmeI)
+- [Future Islands - Iris Official Lyric Video](https://www.youtube.com/watch?v=Ayi_K2z6fuk)
+- [Future Islands - The Fight Official Video](https://www.youtube.com/watch?v=393AKIJlh8c)
 - [Future Islands - Peach](https://www.youtube.com/watch?v=mynHFOzco_8)
-- [Future Islands - The Sickness (Official Lyric Video)](https://www.youtube.com/watch?v=dAIBDOsreCo)
-- [Future Islands - The Garden Wheel (Official Lyric Video)](https://www.youtube.com/watch?v=3Ws04HCjNx0)
+- [Future Islands - The Sickness Official Lyric Video](https://www.youtube.com/watch?v=dAIBDOsreCo)
+- [Future Islands - The Garden Wheel Official Lyric Video](https://www.youtube.com/watch?v=3Ws04HCjNx0)
 
 ## Release Images
 {{< imageGrid >}}

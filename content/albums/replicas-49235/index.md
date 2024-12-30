@@ -52,11 +52,11 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 
 
 ## Videos
-### Me, I Disconnect from You
-{{< youtube id="gb66ZMHlixQ" title="Me, I Disconnect from You" >}}<br>
+### Me I Disconnect from You
+{{< youtube id="gb66ZMHlixQ" title="Me I Disconnect from You" >}}<br>
 ### More Videos
 
-- [Are 'Friends' Electric?](https://www.youtube.com/watch?v=1snv-0jCiWY)
+- [Are Friends Electric](https://www.youtube.com/watch?v=1snv-0jCiWY)
 - [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
 - [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
 - [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
@@ -64,9 +64,9 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 - [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
 - [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
-- [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
-- [Me, I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
-- [Are 'Friends' Electric?](https://www.youtube.com/watch?v=1snv-0jCiWY)
+- [I Nearly Married A Human Remastered](https://www.youtube.com/watch?v=oFd9OhnKqvw)
+- [Me I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
+- [Are Friends Electric](https://www.youtube.com/watch?v=1snv-0jCiWY)
 - [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
 - [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
 - [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
@@ -74,7 +74,7 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 - [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
 - [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
-- [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
+- [I Nearly Married A Human Remastered](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
 ## Release Images
 {{< imageGrid >}}

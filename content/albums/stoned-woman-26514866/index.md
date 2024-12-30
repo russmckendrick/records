@@ -47,9 +47,9 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 - [The Fifth Quadrant](https://www.youtube.com/watch?v=NbwUScJuVMA)
 - [Jonathan E](https://www.youtube.com/watch?v=ZAk9APjQeP0)
 - [Bad Ass Weed](https://www.youtube.com/watch?v=ChOI-Vw08Sg)
-- [Knowledge (Rap Version)](https://www.youtube.com/watch?v=fxU5i6YefnY)
+- [Knowledge Rap Version](https://www.youtube.com/watch?v=fxU5i6YefnY)
 - [Knowledge](https://www.youtube.com/watch?v=nw1dtLDAy-o)
-- [Look To The Light (Alternate Flute Mix)](https://www.youtube.com/watch?v=REpkPqI9_o8)
+- [Look To The Light Alternate Flute Mix](https://www.youtube.com/watch?v=REpkPqI9_o8)
 
 ## Release Images
 {{< imageGrid >}}

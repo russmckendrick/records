@@ -39,14 +39,14 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Why Don't You Kiss Me
-{{< youtube id="vLk-EO4SjJs" title="Why Don't You Kiss Me" >}}<br>
+### Why Dont You Kiss Me
+{{< youtube id="vLk-EO4SjJs" title="Why Dont You Kiss Me" >}}<br>
 ### More Videos
 
-- [Dubstar - Love Comes Late (Official Music Video)](https://www.youtube.com/watch?v=W3c4_v-wPw8)
-- [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
-- [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
-- [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
+- [Dubstar - Love Comes Late Official Music Video](https://www.youtube.com/watch?v=W3c4_v-wPw8)
+- [Dubstar - You Were Never In Love Official Video](https://www.youtube.com/watch?v=9ORxgXkNb7w)
+- [Dubstar - You Were Never In Love Official Video](https://www.youtube.com/watch?v=9ORxgXkNb7w)
+- [Why Dont You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
 
 ## Release Images
 {{< imageGrid >}}

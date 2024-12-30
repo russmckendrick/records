@@ -66,7 +66,7 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 - [Black Friday](https://www.youtube.com/watch?v=HRm24MerRXk)
 - [Sunny Side Up](https://www.youtube.com/watch?v=4UffVzuOZAY)
 - [Rise of the Fall](https://www.youtube.com/watch?v=NmZT5-XrlVU)
-- [Faith No More - Sol Invictus [Track 1 from Sol Invictus] (2015)](https://www.youtube.com/watch?v=881Mh2WLuKE)
+- [Faith No More - Sol Invictus Track 1 from Sol Invictus 2015](https://www.youtube.com/watch?v=881Mh2WLuKE)
 - [From the Dead](https://www.youtube.com/watch?v=8wWCgjDPZwQ)
 
 ## Release Images

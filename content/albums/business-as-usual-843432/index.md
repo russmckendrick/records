@@ -47,12 +47,12 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 
 
 ## Videos
-### Men At Work - Down Under (Video)
-{{< youtube id="XfR9iY5y94s" title="Men At Work - Down Under (Video)" >}}<br>
+### Men At Work - Down Under Video
+{{< youtube id="XfR9iY5y94s" title="Men At Work - Down Under Video" >}}<br>
 ### More Videos
 
-- [Men At Work - Be Good Johnny (Official Music Video)](https://www.youtube.com/watch?v=74dvJVwGA6Y)
-- [Men At Work - Who Can It Be Now? (Video Version)](https://www.youtube.com/watch?v=SECVGN4Bsgg)
+- [Men At Work - Be Good Johnny Official Music Video](https://www.youtube.com/watch?v=74dvJVwGA6Y)
+- [Men At Work - Who Can It Be Now Video Version](https://www.youtube.com/watch?v=SECVGN4Bsgg)
 
 ## Release Images
 {{< imageGrid >}}

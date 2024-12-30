@@ -52,24 +52,24 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 
 
 ## Videos
-### The Gaslight Anthem - The '59 Sound (2008) [Full Album]
-{{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The '59 Sound (2008) [Full Album]" >}}<br>
+### The Gaslight Anthem - The 59 Sound 2008 Full Album
+{{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The 59 Sound 2008 Full Album" >}}<br>
 ### More Videos
 
-- [The Gaslight Anthem - The '59 Sound (Official Video)](https://www.youtube.com/watch?v=G1lq40tR72Q)
+- [The Gaslight Anthem - The 59 Sound Official Video](https://www.youtube.com/watch?v=G1lq40tR72Q)
 - [Great Expectations](https://www.youtube.com/watch?v=l_Y03cyHJoI)
-- [The '59 Sound](https://www.youtube.com/watch?v=Jp4FWR8ixec)
+- [The 59 Sound](https://www.youtube.com/watch?v=Jp4FWR8ixec)
 - [Old White Lincoln](https://www.youtube.com/watch?v=XTOXCvSaAeA)
 - [High Lonesome](https://www.youtube.com/watch?v=rUvMNJt2wMM)
 - [Film Noir](https://www.youtube.com/watch?v=fWBEALZgsEo)
-- [Miles Davis & The Cool](https://www.youtube.com/watch?v=yUQ39RjdZVY)
+- [Miles Davis  The Cool](https://www.youtube.com/watch?v=yUQ39RjdZVY)
 - [The Patient Ferris Wheel](https://www.youtube.com/watch?v=VRGzt3BJA8o)
-- [Casanova, Baby!](https://www.youtube.com/watch?v=TSuO93n8QVs)
+- [Casanova Baby](https://www.youtube.com/watch?v=TSuO93n8QVs)
 - [Even Cowgirls Get the Blues](https://www.youtube.com/watch?v=2FTgg-glFc8)
-- [Meet Me By the River's Edge](https://www.youtube.com/watch?v=25ozAK8H1qM)
-- [Here's Lookin At You, Kid](https://www.youtube.com/watch?v=ISIgklSoPbE)
+- [Meet Me By the Rivers Edge](https://www.youtube.com/watch?v=25ozAK8H1qM)
+- [Heres Lookin At You Kid](https://www.youtube.com/watch?v=ISIgklSoPbE)
 - [The Backseat](https://www.youtube.com/watch?v=yEWdR50C8dM)
-- [The Gaslight Anthem - The '59 Sound (Official Video)](https://www.youtube.com/watch?v=G1lq40tR72Q)
+- [The Gaslight Anthem - The 59 Sound Official Video](https://www.youtube.com/watch?v=G1lq40tR72Q)
 
 ## Release Images
 {{< imageGrid >}}

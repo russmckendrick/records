@@ -45,12 +45,12 @@ styles: ["Bop"]
 
 
 ## Videos
-### Just Friends (Take 2 / Alternate Take)
-{{< youtube id="KBZlk32eCz0" title="Just Friends (Take 2 / Alternate Take)" >}}<br>
+### Just Friends Take 2  Alternate Take
+{{< youtube id="KBZlk32eCz0" title="Just Friends Take 2  Alternate Take" >}}<br>
 ### More Videos
 
-- [Summertime (Take 1 / Alternate Take)](https://www.youtube.com/watch?v=65IxgLzk2EM)
-- [April In Paris (Take 2 / Alternate Take)](https://www.youtube.com/watch?v=cvaOvxf-FNM)
+- [Summertime Take 1  Alternate Take](https://www.youtube.com/watch?v=65IxgLzk2EM)
+- [April In Paris Take 2  Alternate Take](https://www.youtube.com/watch?v=cvaOvxf-FNM)
 
 ## Release Images
 {{< imageGrid >}}

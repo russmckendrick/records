@@ -36,7 +36,7 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 {{< youtube id="smdWdonD62A" title="Legacy" >}}<br>
 ### More Videos
 
-- [Mansun - Legacy (Official Promo Video)](https://www.youtube.com/watch?v=QsZHy4tGvEw)
+- [Mansun - Legacy Official Promo Video](https://www.youtube.com/watch?v=QsZHy4tGvEw)
 
 ## Release Images
 {{< imageGrid >}}

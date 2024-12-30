@@ -63,14 +63,14 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 
 
 ## Videos
-### Red Hot Chili Peppers - Around The World [Official Music Video]
-{{< youtube id="a9eNQZbjpJk" title="Red Hot Chili Peppers - Around The World [Official Music Video]" >}}<br>
+### Red Hot Chili Peppers - Around The World Official Music Video
+{{< youtube id="a9eNQZbjpJk" title="Red Hot Chili Peppers - Around The World Official Music Video" >}}<br>
 ### More Videos
 
-- [Red Hot Chili Peppers - Scar Tissue [Official Music Video]](https://www.youtube.com/watch?v=mzJj5-lubeM)
-- [Red Hot Chili Peppers - Otherside [Official Music Video]](https://www.youtube.com/watch?v=rn_YodiJO6k)
-- [Red Hot Chili Peppers - Road Trippin' [Official Music Video]](https://www.youtube.com/watch?v=11GYvfYjyV0)
-- [Red Hot Chili Peppers - Californication (Official Music Video) [HD UPGRADE]](https://www.youtube.com/watch?v=YlUKcNNmywk)
+- [Red Hot Chili Peppers - Scar Tissue Official Music Video](https://www.youtube.com/watch?v=mzJj5-lubeM)
+- [Red Hot Chili Peppers - Otherside Official Music Video](https://www.youtube.com/watch?v=rn_YodiJO6k)
+- [Red Hot Chili Peppers - Road Trippin Official Music Video](https://www.youtube.com/watch?v=11GYvfYjyV0)
+- [Red Hot Chili Peppers - Californication Official Music Video HD UPGRADE](https://www.youtube.com/watch?v=YlUKcNNmywk)
 - [Parallel Universe](https://www.youtube.com/watch?v=N5Vgm6-KO3o)
 - [Get on Top](https://www.youtube.com/watch?v=NJnOl3trYW0)
 - [Easily](https://www.youtube.com/watch?v=C-2xtTpgQXM)

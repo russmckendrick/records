@@ -70,8 +70,8 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 
 
 ## Videos
-### PIXIES - Indie Cindy (Official Video)
-{{< youtube id="PDa3cY7U6NA" title="PIXIES - Indie Cindy (Official Video)" >}}<br>
+### PIXIES - Indie Cindy Official Video
+{{< youtube id="PDa3cY7U6NA" title="PIXIES - Indie Cindy Official Video" >}}<br>
 ### More Videos
 
 - [PIXIES - Indie Cindy](https://www.youtube.com/watch?v=Njf8Pp6oyMU)

@@ -60,8 +60,8 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 
 
 ## Videos
-### Ian Brown - F.E.A.R.
-{{< youtube id="8f8wAXDZ9D0" title="Ian Brown - F.E.A.R." >}}<br>
+### Ian Brown - FEAR
+{{< youtube id="8f8wAXDZ9D0" title="Ian Brown - FEAR" >}}<br>
 ### More Videos
 
 - [Ian Brown - Time Is My Everything](https://www.youtube.com/watch?v=jW6cLKlKOek)

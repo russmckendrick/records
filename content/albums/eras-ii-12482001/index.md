@@ -88,11 +88,11 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 
 
 ## Videos
-### DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)
-{{< youtube id="q_r6a-qmYkY" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)" >}}<br>
+### DEVIN TOWNSEND - Eras - Vinyl Collection Part II Unboxing
+{{< youtube id="q_r6a-qmYkY" title="DEVIN TOWNSEND - Eras - Vinyl Collection Part II Unboxing" >}}<br>
 ### More Videos
 
-- [DEVIN TOWNSEND - Eras - Vinyl Collection Part II (Unboxing)](https://www.youtube.com/watch?v=q_r6a-qmYkY)
+- [DEVIN TOWNSEND - Eras - Vinyl Collection Part II Unboxing](https://www.youtube.com/watch?v=q_r6a-qmYkY)
 
 ## Release Images
 {{< imageGrid >}}

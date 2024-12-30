@@ -56,10 +56,10 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 ### More Videos
 
 - [DARKNESS ON THE EDGE OF TOWN Bruce Springsteen Vinyl HQ Sound Full Album](https://www.youtube.com/watch?v=yTp5runGeBM)
-- [Darkness on the Edge of Town (complete album)](https://www.youtube.com/watch?v=pTeREIomdrY)
-- [Bruce Springsteen - "Darkness on the Edge of Town"](https://www.youtube.com/watch?v=kg0ekQBmzKs)
+- [Darkness on the Edge of Town complete album](https://www.youtube.com/watch?v=pTeREIomdrY)
+- [Bruce Springsteen - Darkness on the Edge of Town](https://www.youtube.com/watch?v=kg0ekQBmzKs)
 - [The Promised Land](https://www.youtube.com/watch?v=azQY2YBUMQc)
-- [Candy's Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
+- [Candys Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
 - [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
 - [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
 

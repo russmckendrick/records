@@ -35,11 +35,11 @@ On release, the single was a cult hit and reached number 55 on the Billboard R&B
 
 
 ## Videos
-### The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)
-{{< youtube id="gXNzMVLqIHg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)" >}}<br>
+### The Adventures Of Grandmaster Flash On The Wheels Of Steel Long Version
+{{< youtube id="gXNzMVLqIHg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel Long Version" >}}<br>
 ### More Videos
 
-- [Grandmaster Flash And The Furious Five - The Party Mix (Extended)](https://www.youtube.com/watch?v=QB2Gl1tEiEQ)
+- [Grandmaster Flash And The Furious Five - The Party Mix Extended](https://www.youtube.com/watch?v=QB2Gl1tEiEQ)
 
 ## Release Images
 {{< imageGrid >}}

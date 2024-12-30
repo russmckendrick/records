@@ -50,7 +50,7 @@ Octopus is the fourth studio album by British progressive rock band Gentle Giant
 - [A Cry For Everyone](https://www.youtube.com/watch?v=_VjL7CoDTa0)
 - [Knots](https://www.youtube.com/watch?v=_gl-83nVGwU)
 - [The Boys In The Band](https://www.youtube.com/watch?v=sDrODRwDJec)
-- [Dog's Life](https://www.youtube.com/watch?v=PHcaNlrlLLA)
+- [Dogs Life](https://www.youtube.com/watch?v=PHcaNlrlLLA)
 - [Think Of Me With Kindness](https://www.youtube.com/watch?v=cKKAuSd93U0)
 - [River](https://www.youtube.com/watch?v=QJy6KIAYryk)
 

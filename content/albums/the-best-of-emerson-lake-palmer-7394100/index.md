@@ -40,12 +40,12 @@ styles: ["Classic Rock", "Symphonic Rock"]
 
 
 ## Videos
-### Extended version of Emerson Lake and Palmer’s documentary from their 40th Anniversary Concert DVD
-{{< youtube id="90hN9IM2NMs" title="Extended version of Emerson Lake and Palmer’s documentary from their 40th Anniversary Concert DVD" >}}<br>
+### Extended version of Emerson Lake and Palmers documentary from their 40th Anniversary Concert DVD
+{{< youtube id="90hN9IM2NMs" title="Extended version of Emerson Lake and Palmers documentary from their 40th Anniversary Concert DVD" >}}<br>
 ### More Videos
 
-- [Emerson, Lake & Palmer - Lucky Man](https://www.youtube.com/watch?v=89g1P_J40JA)
-- [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
+- [Emerson Lake  Palmer - Lucky Man](https://www.youtube.com/watch?v=89g1P_J40JA)
+- [Emerson Lake  Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
 
 ## Release Images
 {{< imageGrid >}}

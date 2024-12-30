@@ -58,14 +58,14 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 
 
 ## Videos
-### THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)
-{{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY (FULL ALBUM) (1992)" >}}<br>
+### THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY FULL ALBUM 1992
+{{< youtube id="XgtIGQkZyrU" title="THE DISPOSABLE HEROES OF HIPHOPRISY - HIPOCRACY IS THE GREATEST LUXURY FULL ALBUM 1992" >}}<br>
 ### More Videos
 
 - [Satanic Reverses](https://www.youtube.com/watch?v=3MGxfMH4CJ0)
-- [Famous And Dandy (Like Amos 'N' Andy)](https://www.youtube.com/watch?v=yE7H93Ev4F8)
+- [Famous And Dandy Like Amos N Andy](https://www.youtube.com/watch?v=yE7H93Ev4F8)
 - [Television The Drug Of The Nation](https://www.youtube.com/watch?v=AioHRn9y6aM)
-- [Language Of Violence (LP Mix)](https://www.youtube.com/watch?v=vRzkEpwjpSo)
+- [Language Of Violence LP Mix](https://www.youtube.com/watch?v=vRzkEpwjpSo)
 - [The Winter Of The Long Hot Summer](https://www.youtube.com/watch?v=TucTQi9SCP4)
 - [Hypocrisy Is The Greatest Luxury](https://www.youtube.com/watch?v=PFArDeCfj-M)
 - [Everyday Life Has Become A Health Risk](https://www.youtube.com/watch?v=wxwufHsUSwo)

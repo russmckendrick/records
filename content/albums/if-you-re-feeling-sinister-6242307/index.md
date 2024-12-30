@@ -49,16 +49,16 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 
 
 ## Videos
-### Get Me Away from Here, I’m Dying
-{{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}<br>
+### Get Me Away from Here Im Dying
+{{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here Im Dying" >}}<br>
 ### More Videos
 
-- [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
+- [If Youre Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
-- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
-- [Belle and Sebastian - If You're Feeling Sinister - Pitchfork Classic](https://www.youtube.com/watch?v=4de-RHHLCBA)
-- [The Stars of Track & Field](https://www.youtube.com/watch?v=LDrCuEAHNZc)
-- [Belle and Sebastian - Get Me Away from Here, I'm Dying](https://www.youtube.com/watch?v=wcKsxHURj24)
+- [Belle and Sebastian - If Youre Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
+- [Belle and Sebastian - If Youre Feeling Sinister - Pitchfork Classic](https://www.youtube.com/watch?v=4de-RHHLCBA)
+- [The Stars of Track  Field](https://www.youtube.com/watch?v=LDrCuEAHNZc)
+- [Belle and Sebastian - Get Me Away from Here Im Dying](https://www.youtube.com/watch?v=wcKsxHURj24)
 
 ## Release Images
 {{< imageGrid >}}

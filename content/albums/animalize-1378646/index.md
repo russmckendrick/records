@@ -45,8 +45,8 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 
 
 ## Videos
-### KISS - Animalize Cassette 1984! #metal #rock #music #kiss #kissarmy #cassette #animalize #shorts
-{{< youtube id="N3j2uUQXr8w" title="KISS - Animalize Cassette 1984! #metal #rock #music #kiss #kissarmy #cassette #animalize #shorts" >}}<br>
+### KISS - Animalize Cassette 1984 metal rock music kiss kissarmy cassette animalize shorts
+{{< youtube id="N3j2uUQXr8w" title="KISS - Animalize Cassette 1984 metal rock music kiss kissarmy cassette animalize shorts" >}}<br>
 
 
 ## Release Images

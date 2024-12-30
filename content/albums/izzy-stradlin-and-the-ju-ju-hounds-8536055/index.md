@@ -46,16 +46,16 @@ styles: ["Hard Rock"]
 
 
 ## Videos
-### Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop
-{{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds ‎– Pressure Drop" >}}<br>
+### Izzy Stradlin And The Ju Ju Hounds  Pressure Drop
+{{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds  Pressure Drop" >}}<br>
 ### More Videos
 
 - [Izzy Stradlin And The Ju Ju Hounds - Shuffle It All](https://www.youtube.com/watch?v=TKBgbbFaF2U)
-- [Izzy Stradlin // Pressure Drop](https://www.youtube.com/watch?v=CP1ALG-iWCI)
-- [Izzy Stradlin And The Ju Ju Hounds ‎– Somebody Knockin'](https://www.youtube.com/watch?v=Th39YEYA-uY)
-- [Izzy Stradlin - How Much?](https://www.youtube.com/watch?v=mBw7MbayRes)
+- [Izzy Stradlin  Pressure Drop](https://www.youtube.com/watch?v=CP1ALG-iWCI)
+- [Izzy Stradlin And The Ju Ju Hounds  Somebody Knockin](https://www.youtube.com/watch?v=Th39YEYA-uY)
+- [Izzy Stradlin - How Much](https://www.youtube.com/watch?v=mBw7MbayRes)
 - [Izzy Stradlin And The Ju Ju Hounds    Come On Now Inside](https://www.youtube.com/watch?v=ggljxdB_MBs)
-- [Guns N' Roses Izzy Stradlin:  Whatever Happened To The Ju Ju Hounds?](https://www.youtube.com/watch?v=HJisRE8x_AQ)
+- [Guns N Roses Izzy Stradlin  Whatever Happened To The Ju Ju Hounds](https://www.youtube.com/watch?v=HJisRE8x_AQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,7 +58,7 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 - [The Real](https://www.youtube.com/watch?v=YFB3-rEfRDc)
 - [Days Of The New - Enemy](https://www.youtube.com/watch?v=n1sA7YkLw1w)
-- [Weapon & The Wound](https://www.youtube.com/watch?v=1mUhLZkV8KQ)
+- [Weapon  The Wound](https://www.youtube.com/watch?v=1mUhLZkV8KQ)
 - [Skeleton Key](https://www.youtube.com/watch?v=6u41sUpsoWY)
 - [Take Me Back Then](https://www.youtube.com/watch?v=SvkE0b-0yuM)
 - [Bring Yourself](https://www.youtube.com/watch?v=YU1_DA_AVGU)
@@ -69,8 +69,8 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 - [Not The Same](https://www.youtube.com/watch?v=5j7CfbvKiJU)
 - [Provider](https://www.youtube.com/watch?v=veVWNkPwjuU)
 - [Last One](https://www.youtube.com/watch?v=Rvk3SpDWakE)
-- [Days Of The New – Skeleton Key](https://www.youtube.com/watch?v=TvfRyulSHXo)
-- [Days Of The New – Enemy](https://www.youtube.com/watch?v=Ceuesd3HAXU)
+- [Days Of The New  Skeleton Key](https://www.youtube.com/watch?v=TvfRyulSHXo)
+- [Days Of The New  Enemy](https://www.youtube.com/watch?v=Ceuesd3HAXU)
 
 ## Release Images
 {{< imageGrid >}}

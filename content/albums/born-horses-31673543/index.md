@@ -49,18 +49,18 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 
 
 ## Videos
-### Mercury Rev - Born Horses (Official Single)
-{{< youtube id="ZEOH2Jv1ZA8" title="Mercury Rev - Born Horses (Official Single)" >}}<br>
+### Mercury Rev - Born Horses Official Single
+{{< youtube id="ZEOH2Jv1ZA8" title="Mercury Rev - Born Horses Official Single" >}}<br>
 ### More Videos
 
-- [Mercury Rev - A Bird Of No Address (Official Video)](https://www.youtube.com/watch?v=mUNI8YdaYqc)
-- [Mercury Rev - Patterns (Official Visualiser)](https://www.youtube.com/watch?v=JTwMNU966Ks)
-- [Mercury Rev - Ancient Love (Official Visualiser)](https://www.youtube.com/watch?v=yCKIjjKmwp0)
+- [Mercury Rev - A Bird Of No Address Official Video](https://www.youtube.com/watch?v=mUNI8YdaYqc)
+- [Mercury Rev - Patterns Official Visualiser](https://www.youtube.com/watch?v=JTwMNU966Ks)
+- [Mercury Rev - Ancient Love Official Visualiser](https://www.youtube.com/watch?v=yCKIjjKmwp0)
 - [Mood Swings](https://www.youtube.com/watch?v=SG5mUzBWZxU)
-- [Mercury Rev - Born Horses (Official Single)](https://www.youtube.com/watch?v=ZEOH2Jv1ZA8)
-- [Mercury Rev - A Bird Of No Address (Official Video)](https://www.youtube.com/watch?v=mUNI8YdaYqc)
-- [Mercury Rev - Patterns (Official Visualiser)](https://www.youtube.com/watch?v=JTwMNU966Ks)
-- [Mercury Rev - Ancient Love (Official Visualiser)](https://www.youtube.com/watch?v=yCKIjjKmwp0)
+- [Mercury Rev - Born Horses Official Single](https://www.youtube.com/watch?v=ZEOH2Jv1ZA8)
+- [Mercury Rev - A Bird Of No Address Official Video](https://www.youtube.com/watch?v=mUNI8YdaYqc)
+- [Mercury Rev - Patterns Official Visualiser](https://www.youtube.com/watch?v=JTwMNU966Ks)
+- [Mercury Rev - Ancient Love Official Visualiser](https://www.youtube.com/watch?v=yCKIjjKmwp0)
 
 ## Release Images
 {{< imageGrid >}}

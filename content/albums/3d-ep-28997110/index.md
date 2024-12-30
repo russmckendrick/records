@@ -31,19 +31,19 @@ styles: ["Pop Rock", "New Wave"]
 
 
 ## Videos
-### XTC. 3D-EP - Science Friction
-{{< youtube id="evdza8rVvpc" title="XTC. 3D-EP - Science Friction" >}}<br>
+### XTC 3D-EP - Science Friction
+{{< youtube id="evdza8rVvpc" title="XTC 3D-EP - Science Friction" >}}<br>
 ### More Videos
 
-- [XTC - Science friction (Promo?, 1978)](https://www.youtube.com/watch?v=KtnNJ3q5wEc)
-- [XTC. She's so Square 1976](https://www.youtube.com/watch?v=-wQbUwxWfHI)
-- [XTC - 3D EP - "She's So Square"](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
-- [XTC - 3D EP - "Dance Band"](https://www.youtube.com/watch?v=hZIzV89fUFc)
-- [XTC - 3D EP - "Goodnight, Sucker"](https://www.youtube.com/watch?v=epD5I9HnURg)
-- [XTC. 3D-EP - Science Friction](https://www.youtube.com/watch?v=evdza8rVvpc)
-- [XTC - 3D EP - "Dance Band"](https://www.youtube.com/watch?v=hZIzV89fUFc)
-- [XTC - 3D EP - "She's So Square"](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
-- [XTC - 3D EP - "Goodnight, Sucker"](https://www.youtube.com/watch?v=epD5I9HnURg)
+- [XTC - Science friction Promo 1978](https://www.youtube.com/watch?v=KtnNJ3q5wEc)
+- [XTC Shes so Square 1976](https://www.youtube.com/watch?v=-wQbUwxWfHI)
+- [XTC - 3D EP - Shes So Square](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
+- [XTC - 3D EP - Dance Band](https://www.youtube.com/watch?v=hZIzV89fUFc)
+- [XTC - 3D EP - Goodnight Sucker](https://www.youtube.com/watch?v=epD5I9HnURg)
+- [XTC 3D-EP - Science Friction](https://www.youtube.com/watch?v=evdza8rVvpc)
+- [XTC - 3D EP - Dance Band](https://www.youtube.com/watch?v=hZIzV89fUFc)
+- [XTC - 3D EP - Shes So Square](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
+- [XTC - 3D EP - Goodnight Sucker](https://www.youtube.com/watch?v=epD5I9HnURg)
 
 ## Release Images
 {{< imageGrid >}}

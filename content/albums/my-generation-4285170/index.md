@@ -47,21 +47,21 @@ The album was made immediately after the Who got their first singles on the char
 
 
 ## Videos
-### Out In The Street (Mono Version)
-{{< youtube id="ggfrpJrQDNc" title="Out In The Street (Mono Version)" >}}<br>
+### Out In The Street Mono Version
+{{< youtube id="ggfrpJrQDNc" title="Out In The Street Mono Version" >}}<br>
 ### More Videos
 
-- [I Don't Mind (Mono Version)](https://www.youtube.com/watch?v=logPlZcnrHg)
+- [I Dont Mind Mono Version](https://www.youtube.com/watch?v=logPlZcnrHg)
 - [The Who  The Goods Gone  1965  Mod Beat](https://www.youtube.com/watch?v=kDXwcqw3rNs)
-- [La-La-La-Lies (Mono Version)](https://www.youtube.com/watch?v=KtqrHya0cEc)
-- [Much Too Much (Mono Version)](https://www.youtube.com/watch?v=EOiNXIIF4Zg)
+- [La-La-La-Lies Mono Version](https://www.youtube.com/watch?v=KtqrHya0cEc)
+- [Much Too Much Mono Version](https://www.youtube.com/watch?v=EOiNXIIF4Zg)
 - [Who - My Generation - Vinyl Play](https://www.youtube.com/watch?v=UG-DLkwhy-M)
-- [The Kids Are Alright (Mono Version)](https://www.youtube.com/watch?v=SVjwormGnzw)
-- [Please Please Please (Mono Version)](https://www.youtube.com/watch?v=3giYcqgHASQ)
-- [It's Not True (Mono Version)](https://www.youtube.com/watch?v=8gwt3noP3iE)
-- [THE WHO I'M A MAN BRUNSWICK MONO VINYL My Generation 1st UK](https://www.youtube.com/watch?v=O3zSn5GLOAE)
-- [The Who - A Legal Matter - Decca : AD 1002 export (45s)](https://www.youtube.com/watch?v=sGUwIb0Qg-c)
-- [The Ox (Mono Version)](https://www.youtube.com/watch?v=9e6iLrrVEcQ)
+- [The Kids Are Alright Mono Version](https://www.youtube.com/watch?v=SVjwormGnzw)
+- [Please Please Please Mono Version](https://www.youtube.com/watch?v=3giYcqgHASQ)
+- [Its Not True Mono Version](https://www.youtube.com/watch?v=8gwt3noP3iE)
+- [THE WHO IM A MAN BRUNSWICK MONO VINYL My Generation 1st UK](https://www.youtube.com/watch?v=O3zSn5GLOAE)
+- [The Who - A Legal Matter - Decca  AD 1002 export 45s](https://www.youtube.com/watch?v=sGUwIb0Qg-c)
+- [The Ox Mono Version](https://www.youtube.com/watch?v=9e6iLrrVEcQ)
 
 ## Release Images
 {{< imageGrid >}}

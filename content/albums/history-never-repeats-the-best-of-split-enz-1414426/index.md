@@ -40,13 +40,13 @@ styles: ["New Wave"]
 
 
 ## Videos
-### Split Enz - History Never Repeats (Video)
-{{< youtube id="TvBVcLMkhFE" title="Split Enz - History Never Repeats (Video)" >}}<br>
+### Split Enz - History Never Repeats Video
+{{< youtube id="TvBVcLMkhFE" title="Split Enz - History Never Repeats Video" >}}<br>
 ### More Videos
 
-- [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
-- [Split Enz - Message To My Girl (1984)](https://www.youtube.com/watch?v=YUC_jE78FNE)
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - History Never Repeats Video](https://www.youtube.com/watch?v=TvBVcLMkhFE)
+- [Split Enz - Message To My Girl 1984](https://www.youtube.com/watch?v=YUC_jE78FNE)
+- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 
 ## Release Images
 {{< imageGrid >}}

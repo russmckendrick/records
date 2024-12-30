@@ -52,19 +52,19 @@ styles: ["Indie Pop"]
 {{< youtube id="C2if2LR7LTs" title="G Love And Special Sauce - The Things That I Used To Do" >}}<br>
 ### More Videos
 
-- [G. Love & Special Sauce - Blues Music (Official Audio)](https://www.youtube.com/watch?v=tXbwVSB6E84)
-- [G. Love & Special Sauce - Garbage Man (Official Audio)](https://www.youtube.com/watch?v=cIevUzaY63I)
-- [G. Love & Special Sauce - Eyes Have Miles (Official Audio)](https://www.youtube.com/watch?v=w1Ct2FzfgI4)
-- [G. Love & Special Sauce - Baby's Got Sauce (Official Video)](https://www.youtube.com/watch?v=cDqADZygseM)
-- [G. Love & Special Sauce - Rhyme for the Summertime (Official Audio)](https://www.youtube.com/watch?v=PjZd0iaBKq4)
-- [G. Love & Special Sauce - Cold Beverage (Official Video)](https://www.youtube.com/watch?v=pk9-28HgxfE)
-- [G. Love & Special Sauce - Fatman (Official Audio)](https://www.youtube.com/watch?v=wZwxplQ5kIw)
-- [G. Love & Special Sauce - This Ain't Living (Official Audio)](https://www.youtube.com/watch?v=cNqHXqnZfvY)
-- [G. Love & Special Sauce - Walk To Slide (Official Audio)](https://www.youtube.com/watch?v=Q4smoDdkRF4)
-- [G. Love & Special Sauce - Shooting Hoops (Official Audio)](https://www.youtube.com/watch?v=h05cUhQPOec)
-- [G. Love & Special Sauce - Some Peoples Like That (Official Audio)](https://www.youtube.com/watch?v=EE0Pci2WMTk)
-- [G. Love & Special Sauce - Town To Town (Official Audio)](https://www.youtube.com/watch?v=9oLtxo9Bgp8)
-- [G. Love & Special Sauce - I Love You (Official Audio)](https://www.youtube.com/watch?v=hdEOs9HRTCY)
+- [G Love  Special Sauce - Blues Music Official Audio](https://www.youtube.com/watch?v=tXbwVSB6E84)
+- [G Love  Special Sauce - Garbage Man Official Audio](https://www.youtube.com/watch?v=cIevUzaY63I)
+- [G Love  Special Sauce - Eyes Have Miles Official Audio](https://www.youtube.com/watch?v=w1Ct2FzfgI4)
+- [G Love  Special Sauce - Babys Got Sauce Official Video](https://www.youtube.com/watch?v=cDqADZygseM)
+- [G Love  Special Sauce - Rhyme for the Summertime Official Audio](https://www.youtube.com/watch?v=PjZd0iaBKq4)
+- [G Love  Special Sauce - Cold Beverage Official Video](https://www.youtube.com/watch?v=pk9-28HgxfE)
+- [G Love  Special Sauce - Fatman Official Audio](https://www.youtube.com/watch?v=wZwxplQ5kIw)
+- [G Love  Special Sauce - This Aint Living Official Audio](https://www.youtube.com/watch?v=cNqHXqnZfvY)
+- [G Love  Special Sauce - Walk To Slide Official Audio](https://www.youtube.com/watch?v=Q4smoDdkRF4)
+- [G Love  Special Sauce - Shooting Hoops Official Audio](https://www.youtube.com/watch?v=h05cUhQPOec)
+- [G Love  Special Sauce - Some Peoples Like That Official Audio](https://www.youtube.com/watch?v=EE0Pci2WMTk)
+- [G Love  Special Sauce - Town To Town Official Audio](https://www.youtube.com/watch?v=9oLtxo9Bgp8)
+- [G Love  Special Sauce - I Love You Official Audio](https://www.youtube.com/watch?v=hdEOs9HRTCY)
 
 ## Release Images
 {{< imageGrid >}}

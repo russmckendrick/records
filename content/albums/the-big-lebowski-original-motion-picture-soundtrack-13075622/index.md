@@ -45,24 +45,24 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### 'The Big Lebowski' - Full Vinyl Soundtrack
-{{< youtube id="ovx2OJtJ5uo" title="'The Big Lebowski' - Full Vinyl Soundtrack" >}}<br>
+### The Big Lebowski - Full Vinyl Soundtrack
+{{< youtube id="ovx2OJtJ5uo" title="The Big Lebowski - Full Vinyl Soundtrack" >}}<br>
 ### More Videos
 
-- [Bob Dylan - The Man in Me (Official Audio)](https://www.youtube.com/watch?v=G6oBqDkNz38)
+- [Bob Dylan - The Man in Me Official Audio](https://www.youtube.com/watch?v=G6oBqDkNz38)
 - [Her Eyes Are a Blue Million Miles](https://www.youtube.com/watch?v=1kTCTxOVEug)
-- [My Mood Swings (From "The Big Lebowski" Soundtrack)](https://www.youtube.com/watch?v=fzJo3rS9sOE)
-- [Ataypura (High Andes) (1999 Digital Remaster)](https://www.youtube.com/watch?v=z6lFX7yTB3s)
-- [Traffic Boom (The Big Lebowski)](https://www.youtube.com/watch?v=4aw_ivCk1Nc)
-- [I Got It Bad (And That Ain't Good)](https://www.youtube.com/watch?v=ZzJ5lgdT3T8)
-- [Stamping Ground (Instrumental)](https://www.youtube.com/watch?v=FZHc_HEncwc)
-- [Just Dropped In (To See What Condition My Condition Is In)](https://www.youtube.com/watch?v=-0-7fg8oAO4)
+- [My Mood Swings From The Big Lebowski Soundtrack](https://www.youtube.com/watch?v=fzJo3rS9sOE)
+- [Ataypura High Andes 1999 Digital Remaster](https://www.youtube.com/watch?v=z6lFX7yTB3s)
+- [Traffic Boom The Big Lebowski](https://www.youtube.com/watch?v=4aw_ivCk1Nc)
+- [I Got It Bad And That Aint Good](https://www.youtube.com/watch?v=ZzJ5lgdT3T8)
+- [Stamping Ground Instrumental](https://www.youtube.com/watch?v=FZHc_HEncwc)
+- [Just Dropped In To See What Condition My Condition Is In](https://www.youtube.com/watch?v=-0-7fg8oAO4)
 - [Meredith Monk - Walking Song](https://www.youtube.com/watch?v=P8r4eHM8Zlk)
-- [Act I: Gluck, das mir verblieb](https://www.youtube.com/watch?v=bP8wcxFeM7g)
-- [Henry Mancini - Lujon (Official Audio)](https://www.youtube.com/watch?v=RjsG3i6L9vw)
-- [Gipsy Kings - Hotel California (Spanish Mix) (Audio)](https://www.youtube.com/watch?v=nVNAqNZcpB4)
+- [Act I Gluck das mir verblieb](https://www.youtube.com/watch?v=bP8wcxFeM7g)
+- [Henry Mancini - Lujon Official Audio](https://www.youtube.com/watch?v=RjsG3i6L9vw)
+- [Gipsy Kings - Hotel California Spanish Mix Audio](https://www.youtube.com/watch?v=nVNAqNZcpB4)
 - [Carter Burwell - Wie Glauben](https://www.youtube.com/watch?v=14xY1lxLMkI)
-- [Townes Van Zandt - Dead Flowers (Official Audio)](https://www.youtube.com/watch?v=8ApA2W8f2vg)
+- [Townes Van Zandt - Dead Flowers Official Audio](https://www.youtube.com/watch?v=8ApA2W8f2vg)
 
 ## Release Images
 {{< imageGrid >}}

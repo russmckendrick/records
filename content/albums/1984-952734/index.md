@@ -55,12 +55,12 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 
 
 ## Videos
-### Van Halen - Jump (Official Music Video)
-{{< youtube id="SwYN7mTi6HM" title="Van Halen - Jump (Official Music Video)" >}}<br>
+### Van Halen - Jump Official Music Video
+{{< youtube id="SwYN7mTi6HM" title="Van Halen - Jump Official Music Video" >}}<br>
 ### More Videos
 
-- [Van Halen - Panama (Official Music Video)](https://www.youtube.com/watch?v=fuKDBPw8wQA)
-- [Van Halen - Hot For Teacher (Official Music Video)](https://www.youtube.com/watch?v=6M4_Ommfvv0)
+- [Van Halen - Panama Official Music Video](https://www.youtube.com/watch?v=fuKDBPw8wQA)
+- [Van Halen - Hot For Teacher Official Music Video](https://www.youtube.com/watch?v=6M4_Ommfvv0)
 
 ## Release Images
 {{< imageGrid >}}

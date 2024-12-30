@@ -42,12 +42,12 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 
 
 ## Videos
-### Rustin Man - Vanishing Heart (Official Video)
-{{< youtube id="RyrGv1d8gFk" title="Rustin Man - Vanishing Heart (Official Video)" >}}<br>
+### Rustin Man - Vanishing Heart Official Video
+{{< youtube id="RyrGv1d8gFk" title="Rustin Man - Vanishing Heart Official Video" >}}<br>
 ### More Videos
 
-- [Rustin Man - The World's in Town (Official Audio)](https://www.youtube.com/watch?v=TAGq1470T7I)
-- [Rustin Man - Judgement Train (Official Video)](https://www.youtube.com/watch?v=IgBs42v3l0k)
+- [Rustin Man - The Worlds in Town Official Audio](https://www.youtube.com/watch?v=TAGq1470T7I)
+- [Rustin Man - Judgement Train Official Video](https://www.youtube.com/watch?v=IgBs42v3l0k)
 
 ## Release Images
 {{< imageGrid >}}

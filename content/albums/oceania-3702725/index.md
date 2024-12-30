@@ -52,22 +52,22 @@ The album was a critical and commercial success, debuting at number four on the 
 
 
 ## Videos
-### The Smashing Pumpkins Oceania: Quasar
-{{< youtube id="ZoaZ3PAHjmg" title="The Smashing Pumpkins Oceania: Quasar" >}}<br>
+### The Smashing Pumpkins Oceania Quasar
+{{< youtube id="ZoaZ3PAHjmg" title="The Smashing Pumpkins Oceania Quasar" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins Oceania: Panopticon](https://www.youtube.com/watch?v=zxT8DxeGwXM)
-- [The Smashing Pumpkins Oceania: The Celestials](https://www.youtube.com/watch?v=SVCHpKvyCAg)
-- [The Smashing Pumpkins Oceania: Violet Rays](https://www.youtube.com/watch?v=o0F6qS1XlSM)
-- [The Smashing Pumpkins Oceania: My Love Is Winter](https://www.youtube.com/watch?v=RACfdjCWuzU)
-- [The Smashing Pumpkins Oceania: One Diamond One Heart](https://www.youtube.com/watch?v=ciXDBlIQqwo)
-- [The Smashing Pumpkins Oceania: Pinwheels](https://www.youtube.com/watch?v=Liy517_9II8)
-- [The Smashing Pumpkins Oceania: Oceania](https://www.youtube.com/watch?v=KLHkM_DQ7aw)
-- [The Smashing Pumpkins Oceania: Pale Horse](https://www.youtube.com/watch?v=EJ7JCcp4YF4)
-- [The Smashing Pumpkins Oceania: The Chimera](https://www.youtube.com/watch?v=5wlRgkFdYRA)
-- [The Smashing Pumpkins Oceania: Glissandra](https://www.youtube.com/watch?v=qq84yOspghQ)
-- [The Smashing Pumpkins Oceania: Inkless](https://www.youtube.com/watch?v=kukO9PT83IQ)
-- [The Smashing Pumpkins Oceania: Wildflower](https://www.youtube.com/watch?v=098x8xUBj6I)
+- [The Smashing Pumpkins Oceania Panopticon](https://www.youtube.com/watch?v=zxT8DxeGwXM)
+- [The Smashing Pumpkins Oceania The Celestials](https://www.youtube.com/watch?v=SVCHpKvyCAg)
+- [The Smashing Pumpkins Oceania Violet Rays](https://www.youtube.com/watch?v=o0F6qS1XlSM)
+- [The Smashing Pumpkins Oceania My Love Is Winter](https://www.youtube.com/watch?v=RACfdjCWuzU)
+- [The Smashing Pumpkins Oceania One Diamond One Heart](https://www.youtube.com/watch?v=ciXDBlIQqwo)
+- [The Smashing Pumpkins Oceania Pinwheels](https://www.youtube.com/watch?v=Liy517_9II8)
+- [The Smashing Pumpkins Oceania Oceania](https://www.youtube.com/watch?v=KLHkM_DQ7aw)
+- [The Smashing Pumpkins Oceania Pale Horse](https://www.youtube.com/watch?v=EJ7JCcp4YF4)
+- [The Smashing Pumpkins Oceania The Chimera](https://www.youtube.com/watch?v=5wlRgkFdYRA)
+- [The Smashing Pumpkins Oceania Glissandra](https://www.youtube.com/watch?v=qq84yOspghQ)
+- [The Smashing Pumpkins Oceania Inkless](https://www.youtube.com/watch?v=kukO9PT83IQ)
+- [The Smashing Pumpkins Oceania Wildflower](https://www.youtube.com/watch?v=098x8xUBj6I)
 
 ## Release Images
 {{< imageGrid >}}

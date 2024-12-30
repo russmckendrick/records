@@ -50,8 +50,8 @@ styles: ["Prog Rock", "Hard Rock"]
 
 
 ## Videos
-### Vapor Trail (2013 Remix)
-{{< youtube id="RgU16jrZjvY" title="Vapor Trail (2013 Remix)" >}}<br>
+### Vapor Trail 2013 Remix
+{{< youtube id="RgU16jrZjvY" title="Vapor Trail 2013 Remix" >}}<br>
 
 
 ## Release Images

@@ -58,11 +58,11 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 
 
 ## Videos
-### Tears For Fears - Shout (Official Music Video)
-{{< youtube id="Ye7FKc1JQe4" title="Tears For Fears - Shout (Official Music Video)" >}}<br>
+### Tears For Fears - Shout Official Music Video
+{{< youtube id="Ye7FKc1JQe4" title="Tears For Fears - Shout Official Music Video" >}}<br>
 ### More Videos
 
-- [Tears For Fears - I Love You But I'm Lost](https://www.youtube.com/watch?v=8RxlpQTgqO4)
+- [Tears For Fears - I Love You But Im Lost](https://www.youtube.com/watch?v=8RxlpQTgqO4)
 
 ## Release Images
 {{< imageGrid >}}

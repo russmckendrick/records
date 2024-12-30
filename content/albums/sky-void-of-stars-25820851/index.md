@@ -84,12 +84,12 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 {{< youtube id="LOl-gMGfNjI" title="Colossal Shade" >}}<br>
 ### More Videos
 
-- [KATATONIA - Birds (Official Video) | Napalm Records](https://www.youtube.com/watch?v=_ILWPwc4KaY)
-- [KATATONIA - Atrium (Official Video) | Napalm Records](https://www.youtube.com/watch?v=BB24-hVZ88k)
-- [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
-- [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
+- [KATATONIA - Birds Official Video  Napalm Records](https://www.youtube.com/watch?v=_ILWPwc4KaY)
+- [KATATONIA - Atrium Official Video  Napalm Records](https://www.youtube.com/watch?v=BB24-hVZ88k)
+- [KATATONIA - Austerity Official Video  Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
+- [KATATONIA - Opaline Official Video  Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
 - [Colossal Shade](https://www.youtube.com/watch?v=LOl-gMGfNjI)
-- [KATATONIA - Sky Void of Stars (FULL ALBUM HQ) 2023!](https://www.youtube.com/watch?v=_juzo3SvrxM)
+- [KATATONIA - Sky Void of Stars FULL ALBUM HQ 2023](https://www.youtube.com/watch?v=_juzo3SvrxM)
 
 ## Release Images
 {{< imageGrid >}}

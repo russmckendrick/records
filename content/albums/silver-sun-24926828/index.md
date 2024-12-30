@@ -49,12 +49,12 @@ Changing their name from Sun, under which their debut EP had been released, thei
 
 
 ## Videos
-### Silver Sun - Silver Sun (1997) FULL ALBUM
-{{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun (1997) FULL ALBUM" >}}<br>
+### Silver Sun - Silver Sun 1997 FULL ALBUM
+{{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun 1997 FULL ALBUM" >}}<br>
 ### More Videos
 
 - [Silver Sun - Dumb](https://www.youtube.com/watch?v=Y4PJp8nuW34)
-- [Silver sun- I'll see you around.wmv](https://www.youtube.com/watch?v=-nLWLxHYYyw)
+- [Silver sun- Ill see you aroundwmv](https://www.youtube.com/watch?v=-nLWLxHYYyw)
 
 ## Release Images
 {{< imageGrid >}}

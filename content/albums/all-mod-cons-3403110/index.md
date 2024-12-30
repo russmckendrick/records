@@ -51,17 +51,17 @@ The album was reissued in the United States in 1979, with the song "The Butterfl
 {{< youtube id="UChgYxZ0_so" title="All Mod Cons" >}}<br>
 ### More Videos
 
-- [To Be Someone (Didn't We Have A Nice Time)](https://www.youtube.com/watch?v=e16_8ZhPDZU)
-- [Mr. Clean](https://www.youtube.com/watch?v=j3u1LsoiL18)
+- [To Be Someone Didnt We Have A Nice Time](https://www.youtube.com/watch?v=e16_8ZhPDZU)
+- [Mr Clean](https://www.youtube.com/watch?v=j3u1LsoiL18)
 - [David Watts](https://www.youtube.com/watch?v=5wRGnbqZBeE)
 - [English Rose](https://www.youtube.com/watch?v=Zve5DJn_9R8)
-- [In The Crowd (Full Version)](https://www.youtube.com/watch?v=b6pO2XkK88I)
+- [In The Crowd Full Version](https://www.youtube.com/watch?v=b6pO2XkK88I)
 - [Billy Hunt](https://www.youtube.com/watch?v=4A6GeBiHp1A)
-- [It's Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
+- [Its Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
 - [Fly](https://www.youtube.com/watch?v=H7mOmYa--x0)
 - [The Place I Love](https://www.youtube.com/watch?v=p0zSbY6fqhU)
-- ['A' Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
-- [Down In The Tube Station At Midnight (Full Version)](https://www.youtube.com/watch?v=rKcc_I9NXvM)
+- [A Bomb In Wardour Street](https://www.youtube.com/watch?v=ZMhQNusfft8)
+- [Down In The Tube Station At Midnight Full Version](https://www.youtube.com/watch?v=rKcc_I9NXvM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -59,11 +59,11 @@ It’s that balance—between the crude and the contemplative, the direct and th
 
 
 ## Videos
-### Red Hot Chili Peppers - Blood Sugar Sex Magik (Cassette, 1991)
-{{< youtube id="6lRldXL_74w" title="Red Hot Chili Peppers - Blood Sugar Sex Magik (Cassette, 1991)" >}}<br>
+### Red Hot Chili Peppers - Blood Sugar Sex Magik Cassette 1991
+{{< youtube id="6lRldXL_74w" title="Red Hot Chili Peppers - Blood Sugar Sex Magik Cassette 1991" >}}<br>
 ### More Videos
 
-- [Red Hot Chili Peppers - Blood Sugar Sex Magik (Full Album)](https://www.youtube.com/watch?v=kziGsq8reTc)
+- [Red Hot Chili Peppers - Blood Sugar Sex Magik Full Album](https://www.youtube.com/watch?v=kziGsq8reTc)
 
 ## Release Images
 {{< imageGrid >}}

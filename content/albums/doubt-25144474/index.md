@@ -46,15 +46,15 @@ Doubt received generally positive reviews about the songwriting, though some cri
 
 
 ## Videos
-### Jesus Jones - International Bright Young Thing (Official Music Video)
-{{< youtube id="XedEne6TXXA" title="Jesus Jones - International Bright Young Thing (Official Music Video)" >}}<br>
+### Jesus Jones - International Bright Young Thing Official Music Video
+{{< youtube id="XedEne6TXXA" title="Jesus Jones - International Bright Young Thing Official Music Video" >}}<br>
 ### More Videos
 
-- [Jesus Jones - Real Real Real (Official Music Video)](https://www.youtube.com/watch?v=qBklIul0Rog)
-- [Jesus Jones - Right Here Right Now (Official Music Video)](https://www.youtube.com/watch?v=MznHdJReoeo)
+- [Jesus Jones - Real Real Real Official Music Video](https://www.youtube.com/watch?v=qBklIul0Rog)
+- [Jesus Jones - Right Here Right Now Official Music Video](https://www.youtube.com/watch?v=MznHdJReoeo)
 - [Trust Me](https://www.youtube.com/watch?v=CK3C9XZcTbM)
-- [Who? Where? Why?](https://www.youtube.com/watch?v=fidPRriWTrQ)
-- [I'm Burning](https://www.youtube.com/watch?v=URZMGGwDwKo)
+- [Who Where Why](https://www.youtube.com/watch?v=fidPRriWTrQ)
+- [Im Burning](https://www.youtube.com/watch?v=URZMGGwDwKo)
 - [Right Here Right Now](https://www.youtube.com/watch?v=TN42nLpQvM8)
 - [Nothing To Hold Me](https://www.youtube.com/watch?v=4V0aimOOSmE)
 - [Welcome Back Victoria](https://www.youtube.com/watch?v=ay7J7wH2W4A)

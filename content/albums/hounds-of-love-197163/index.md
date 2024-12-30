@@ -56,13 +56,13 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 
 
 ## Videos
-### Running Up That Hill (A Deal With God) (2018 Remaster)
-{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill (A Deal With God) (2018 Remaster)" >}}<br>
+### Running Up That Hill A Deal With God 2018 Remaster
+{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill A Deal With God 2018 Remaster" >}}<br>
 ### More Videos
 
 - [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
 - [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
-- [Kate Bush - Hounds Of Love (2018 Remastered) (1985) (Full Album)](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
+- [Kate Bush - Hounds Of Love 2018 Remastered 1985 Full Album](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
 - [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
 - [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
 - [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)
@@ -72,10 +72,10 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 - [Jig Of Life](https://www.youtube.com/watch?v=ntIlVNDpLW8)
 - [Hello Earth](https://www.youtube.com/watch?v=U7QCtPZ3pTg)
 - [The Morning Fog](https://www.youtube.com/watch?v=CZQk2ZgZP3I)
-- [Running Up That Hill (A Deal With God) (2018 Remaster)](https://www.youtube.com/watch?v=HYwNM1t9ltI)
+- [Running Up That Hill A Deal With God 2018 Remaster](https://www.youtube.com/watch?v=HYwNM1t9ltI)
 - [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
 - [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
-- [Kate Bush - Hounds Of Love (2018 Remastered) (1985) (Full Album)](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
+- [Kate Bush - Hounds Of Love 2018 Remastered 1985 Full Album](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
 - [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
 - [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
 - [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)

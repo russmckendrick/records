@@ -54,16 +54,16 @@ Everything Is Wrong is the third studio album by American electronica musician M
 
 - [Moby - Feeling So Real](https://www.youtube.com/watch?v=jgyBX_mdAIg)
 - [Moby - All That I Need Is to Be Loved](https://www.youtube.com/watch?v=OY5sL6EdrOY)
-- [Moby - Let's Go Free](https://www.youtube.com/watch?v=kzXZyaJ5F3Y)
+- [Moby - Lets Go Free](https://www.youtube.com/watch?v=kzXZyaJ5F3Y)
 - [Moby - Everytime You Touch Me](https://www.youtube.com/watch?v=GecTKAr1WLI)
 - [Moby - Bring Back My Happiness](https://www.youtube.com/watch?v=nOyR6oEzouI)
-- [Moby - What Love?](https://www.youtube.com/watch?v=baibJxJEsxY)
+- [Moby - What Love](https://www.youtube.com/watch?v=baibJxJEsxY)
 - [Moby - First Cool Hive](https://www.youtube.com/watch?v=d-W7Orn6SS4)
 - [Moby - Into the Blue](https://www.youtube.com/watch?v=KvBRxpd_jdM)
 - [Moby - Anthem](https://www.youtube.com/watch?v=KyMrFiYDzRU)
 - [Moby - Everything Is Wrong](https://www.youtube.com/watch?v=jOdnc1oIhl4)
 - [Moby - God Moving Over the Face of the Waters](https://www.youtube.com/watch?v=Cz931gKz7bk)
-- [Moby - When It's Cold I'd Like to Die](https://www.youtube.com/watch?v=kW31oqMgpNg)
+- [Moby - When Its Cold Id Like to Die](https://www.youtube.com/watch?v=kW31oqMgpNg)
 
 ## Release Images
 {{< imageGrid >}}

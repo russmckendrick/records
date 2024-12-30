@@ -80,8 +80,8 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Play To Win (Remastered)
-{{< youtube id="m-fY639gW08" title="Play To Win (Remastered)" >}}<br>
+### Play To Win Remastered
+{{< youtube id="m-fY639gW08" title="Play To Win Remastered" >}}<br>
 
 
 ## Release Images

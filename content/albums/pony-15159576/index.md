@@ -50,19 +50,19 @@ Orville Peck’s <i>Pony</i> arrived in 2019 with no shortage of drama: There wa
 
 
 ## Videos
-### Orville Peck - Dead of Night [OFFICIAL VIDEO]
-{{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" >}}<br>
+### Orville Peck - Dead of Night OFFICIAL VIDEO
+{{< youtube id="q3esGD6lcMM" title="Orville Peck - Dead of Night OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [Orville Peck - Hope To Die [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=60MHmrtEuRY)
-- [Orville Peck - Big Sky [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=wd_uz5rVO2I)
-- [Orville Peck - Turn To Hate [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=vR-4l5M_MQ8)
-- [Take You Back (The Iron Hoof Cattle Call)](https://www.youtube.com/watch?v=ofJiqL3NT64)
+- [Orville Peck - Hope To Die OFFICIAL VIDEO](https://www.youtube.com/watch?v=60MHmrtEuRY)
+- [Orville Peck - Big Sky OFFICIAL VIDEO](https://www.youtube.com/watch?v=wd_uz5rVO2I)
+- [Orville Peck - Turn To Hate OFFICIAL VIDEO](https://www.youtube.com/watch?v=vR-4l5M_MQ8)
+- [Take You Back The Iron Hoof Cattle Call](https://www.youtube.com/watch?v=ofJiqL3NT64)
 - [Winds Change](https://www.youtube.com/watch?v=gjbGylBg4X4)
 - [Roses Are Falling](https://www.youtube.com/watch?v=PC6ITSNtxxM)
 - [Old River](https://www.youtube.com/watch?v=Uh0caTtJjgQ)
 - [Queen of the Rodeo](https://www.youtube.com/watch?v=zrLZ4fzUP5k)
-- [Kansas (Remembers Me Now)](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
+- [Kansas Remembers Me Now](https://www.youtube.com/watch?v=Jbml8g3iaDQ)
 
 ## Release Images
 {{< imageGrid >}}

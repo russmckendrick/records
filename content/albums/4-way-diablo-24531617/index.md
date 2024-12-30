@@ -56,16 +56,16 @@ Following the album's release, none of its songs were included in the concert se
 {{< youtube id="3psuTo6UY_8" title="Monster Magnet - 4-Way Diablo" >}}<br>
 ### More Videos
 
-- [Monster Magnet - Slap In The Face - 4-Way Diablo.wmv](https://www.youtube.com/watch?v=Adf7bQ8W6Ck)
+- [Monster Magnet - Slap In The Face - 4-Way Diablowmv](https://www.youtube.com/watch?v=Adf7bQ8W6Ck)
 - [Monster Magnet - Wall of Fire](https://www.youtube.com/watch?v=oJH6W-c-Rgw)
-- [Monster Magnet - You're Alive](https://www.youtube.com/watch?v=G7z91YHoDH0)
+- [Monster Magnet - Youre Alive](https://www.youtube.com/watch?v=G7z91YHoDH0)
 - [Blow Your Mind - Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=GYkNh3w6hcE)
 - [Monster Magnet - A Thousand Stars](https://www.youtube.com/watch?v=w3_jlsyWSRg)
-- [Monster Magnet - I'm calling you](https://www.youtube.com/watch?v=mYi5hWZvc2Q)
+- [Monster Magnet - Im calling you](https://www.youtube.com/watch?v=mYi5hWZvc2Q)
 - [Monster Magnet - No Vacation](https://www.youtube.com/watch?v=xQBMXQVWZ60)
-- [Monster Magnet - I'm Calling You](https://www.youtube.com/watch?v=klvt11oR-K8)
+- [Monster Magnet - Im Calling You](https://www.youtube.com/watch?v=klvt11oR-K8)
 - [Solid Gold - Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=YNc_Ok6ZKYE)
-- [Monster Magnet - Little Bag of Gloom (2007) +Lyrics](https://www.youtube.com/watch?v=IqxdqQku6wE)
+- [Monster Magnet - Little Bag of Gloom 2007 Lyrics](https://www.youtube.com/watch?v=IqxdqQku6wE)
 
 ## Release Images
 {{< imageGrid >}}

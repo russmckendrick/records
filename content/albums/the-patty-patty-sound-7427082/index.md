@@ -41,15 +41,15 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 
 
 ## Videos
-### Beta Band-She's The One For Me
-{{< youtube id="fh9yn5zxAXw" title="Beta Band-She's The One For Me" >}}<br>
+### Beta Band-Shes The One For Me
+{{< youtube id="fh9yn5zxAXw" title="Beta Band-Shes The One For Me" >}}<br>
 ### More Videos
 
 - [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
 - [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
 - [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
 - [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
-- [Beta Band-She's The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
+- [Beta Band-Shes The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
 
 ## Release Images
 {{< imageGrid >}}

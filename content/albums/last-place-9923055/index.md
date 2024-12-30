@@ -51,17 +51,17 @@ Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Wa
 
 
 ## Videos
-### Way We Won't
-{{< youtube id="cIH0V3GZGKM" title="Way We Won't" >}}<br>
+### Way We Wont
+{{< youtube id="cIH0V3GZGKM" title="Way We Wont" >}}<br>
 ### More Videos
 
 - [Brush With the Wild](https://www.youtube.com/watch?v=IG3nDpzBbSc)
 - [Evermore](https://www.youtube.com/watch?v=mHECZRRABmA)
-- [Oh She Deleter : ()](https://www.youtube.com/watch?v=tASXQ_0j4cs)
+- [Oh She Deleter  ](https://www.youtube.com/watch?v=tASXQ_0j4cs)
 - [The Boat Is in the Barn](https://www.youtube.com/watch?v=lKFulioz4FI)
 - [Chek Injin](https://www.youtube.com/watch?v=g_yJhNqx2R4)
-- [I Don't Wanna Live Here Anymore](https://www.youtube.com/watch?v=kUaDXYdddsA)
-- [That's What You Get for Gettin' Outta Bed](https://www.youtube.com/watch?v=lku2bqoepOc)
+- [I Dont Wanna Live Here Anymore](https://www.youtube.com/watch?v=kUaDXYdddsA)
+- [Thats What You Get for Gettin Outta Bed](https://www.youtube.com/watch?v=lku2bqoepOc)
 - [This Is the Part](https://www.youtube.com/watch?v=NBYGrNAXhmk)
 - [Jed the 4th](https://www.youtube.com/watch?v=Lq9G8u33U-o)
 - [A Lost Machine](https://www.youtube.com/watch?v=QqeFtpdmeCM)

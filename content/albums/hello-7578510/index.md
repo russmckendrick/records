@@ -39,11 +39,11 @@ It was the first Status Quo album on which drummer John Coghlan was credited wit
 
 
 ## Videos
-### Status Quo - Hello (1973) Part 1 (Full Album)
-{{< youtube id="9EFHZcefC0U" title="Status Quo - Hello (1973) Part 1 (Full Album)" >}}<br>
+### Status Quo - Hello 1973 Part 1 Full Album
+{{< youtube id="9EFHZcefC0U" title="Status Quo - Hello 1973 Part 1 Full Album" >}}<br>
 ### More Videos
 
-- [Status Quo - Hello (1973) Part 2 (Full Album)](https://www.youtube.com/watch?v=R_R3xQ8UtC4)
+- [Status Quo - Hello 1973 Part 2 Full Album](https://www.youtube.com/watch?v=R_R3xQ8UtC4)
 
 ## Release Images
 {{< imageGrid >}}

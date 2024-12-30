@@ -52,12 +52,12 @@ Musically, Sting’s nimble basslines meshed well with Copeland’s fluid groove
 
 
 ## Videos
-### The Police - Roxanne (Official Music Video)
-{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne (Official Music Video)" >}}<br>
+### The Police - Roxanne Official Music Video
+{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne Official Music Video" >}}<br>
 ### More Videos
 
-- [The Police - So Lonely (Official Music Video)](https://www.youtube.com/watch?v=MX6MvV8cbh8)
-- [The Police - Can't Stand Losing You (Official Music Video)](https://www.youtube.com/watch?v=nH0vjLwMyc4)
+- [The Police - So Lonely Official Music Video](https://www.youtube.com/watch?v=MX6MvV8cbh8)
+- [The Police - Cant Stand Losing You Official Music Video](https://www.youtube.com/watch?v=nH0vjLwMyc4)
 
 ## Release Images
 {{< imageGrid >}}

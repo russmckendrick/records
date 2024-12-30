@@ -71,27 +71,27 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 {{< youtube id="99yUdF-f55s" title="God Made the Automobile" >}}<br>
 ### More Videos
 
-- [Communion Cups and Someone's Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
+- [Communion Cups and Someones Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
 - [Kingdom of the Animals](https://www.youtube.com/watch?v=4ep7aE_q_Jw)
 - [Arms of a Thief](https://www.youtube.com/watch?v=_EHCBa1qh2U)
-- [Waitin' for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
-- [Iron & Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
+- [Waitin for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
+- [Iron  Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
 - [Swans and the Swimming](https://www.youtube.com/watch?v=GnhS1wJtZ_s)
 - [God Made the Automobile](https://www.youtube.com/watch?v=99yUdF-f55s)
-- [Communion Cups and Someone's Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
+- [Communion Cups and Someones Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
 - [Kingdom of the Animals](https://www.youtube.com/watch?v=4ep7aE_q_Jw)
 - [Arms of a Thief](https://www.youtube.com/watch?v=_EHCBa1qh2U)
-- [Waitin' for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
-- [Iron & Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
+- [Waitin for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
+- [Iron  Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
 - [Swans and the Swimming](https://www.youtube.com/watch?v=GnhS1wJtZ_s)
-- [Iron and Wine - Love Vigilantes (a New Order cover)](https://www.youtube.com/watch?v=EL-mDlRKNKg)
-- [Iron and Wine - Such Great Heights (a Postal Service cover)](https://www.youtube.com/watch?v=kgy09d4WNhA)
+- [Iron and Wine - Love Vigilantes a New Order cover](https://www.youtube.com/watch?v=EL-mDlRKNKg)
+- [Iron and Wine - Such Great Heights a Postal Service cover](https://www.youtube.com/watch?v=kgy09d4WNhA)
 - [Iron and Wine - The Trapeze Swinger](https://www.youtube.com/watch?v=yt7O8gDy0DA)
 - [Iron and Wine - Carried Home](https://www.youtube.com/watch?v=rMTYjiJ8wO8)
-- [Belated Promise Ring - Iron & Wine](https://www.youtube.com/watch?v=vVwIBFEjQXY)
+- [Belated Promise Ring - Iron  Wine](https://www.youtube.com/watch?v=vVwIBFEjQXY)
 - [Iron and Wine - Swans And The Swimming](https://www.youtube.com/watch?v=UNDb6I3OJqU)
-- [Around The Well [Iron & Wine, 2009]](https://www.youtube.com/watch?v=FKjMFeB56TU)
-- [Peng! 33](https://www.youtube.com/watch?v=7uEQpxm5ODo)
+- [Around The Well Iron  Wine 2009](https://www.youtube.com/watch?v=FKjMFeB56TU)
+- [Peng 33](https://www.youtube.com/watch?v=7uEQpxm5ODo)
 
 ## Release Images
 {{< imageGrid >}}

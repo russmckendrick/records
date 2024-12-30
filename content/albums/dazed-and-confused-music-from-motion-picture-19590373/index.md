@@ -40,23 +40,23 @@ styles: ["Classic Rock"]
 
 
 ## Videos
-### Rock and Roll, Hoochie Koo
-{{< youtube id="KdSQA3SgWqk" title="Rock and Roll, Hoochie Koo" >}}<br>
+### Rock and Roll Hoochie Koo
+{{< youtube id="KdSQA3SgWqk" title="Rock and Roll Hoochie Koo" >}}<br>
 ### More Videos
 
 - [Slow Ride](https://www.youtube.com/watch?v=yaMNseIe_vI)
-- [School's Out](https://www.youtube.com/watch?v=gcVEhtojXlc)
+- [Schools Out](https://www.youtube.com/watch?v=gcVEhtojXlc)
 - [Jim Dandy](https://www.youtube.com/watch?v=VxMM_IP1C2E)
-- [Tush (2006 Remaster)](https://www.youtube.com/watch?v=P7iPkiyG2jQ)
+- [Tush 2006 Remaster](https://www.youtube.com/watch?v=P7iPkiyG2jQ)
 - [Nazareth - Love hurts](https://www.youtube.com/watch?v=WISogScYNXA)
 - [Ted Nugent - Stranglehold](https://www.youtube.com/watch?v=0c3d7QgZr7g)
-- [THE RUNAWAYS-"Cherry Bomb" (1976)](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
+- [THE RUNAWAYS-Cherry Bomb 1976](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
 - [Fox On The Run](https://www.youtube.com/watch?v=edOXpZlNdsk)
 - [Lowrider War](https://www.youtube.com/watch?v=ro4yhp9L6Ok)
-- [Tuesday's Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
+- [Tuesdays Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
 - [Deep Purple - Highway Star 1972 Video HQ](https://www.youtube.com/watch?v=UAKCR7kQMTQ)
-- [Rock N' Roll All Night ( Good Quality ) - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
-- [Paranoid (2012 - Remaster)](https://www.youtube.com/watch?v=v24ljjtqb-U)
+- [Rock N Roll All Night  Good Quality  - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
+- [Paranoid 2012 - Remaster](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
 ## Release Images
 {{< imageGrid >}}

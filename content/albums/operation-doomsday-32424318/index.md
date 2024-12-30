@@ -57,11 +57,11 @@ Lyrically, <i>Operation: Doomsday</i> is full of clever rhyme schemes and drunke
 
 
 ## Videos
-### MF DOOM - DEAD BENT (HD)
-{{< youtube id="vnNVAdBXh_Y" title="MF DOOM - DEAD BENT (HD)" >}}<br>
+### MF DOOM - DEAD BENT HD
+{{< youtube id="vnNVAdBXh_Y" title="MF DOOM - DEAD BENT HD" >}}<br>
 ### More Videos
 
-- [MF DOOM - QUESTION MARK (?) HD](https://www.youtube.com/watch?v=4ldikD78vTw)
+- [MF DOOM - QUESTION MARK  HD](https://www.youtube.com/watch?v=4ldikD78vTw)
 
 ## Release Images
 {{< imageGrid >}}

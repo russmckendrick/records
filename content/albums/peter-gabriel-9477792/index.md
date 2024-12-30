@@ -61,7 +61,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 {{< youtube id="jQ-M1UOECDI" title="On The Air" >}}<br>
 ### More Videos
 
-- [D.I.Y.](https://www.youtube.com/watch?v=eVM8vyTX18s)
+- [DIY](https://www.youtube.com/watch?v=eVM8vyTX18s)
 - [Mother Of Violence](https://www.youtube.com/watch?v=hGJW5PpCSjI)
 - [A Wonderful Day In A One-Way World](https://www.youtube.com/watch?v=xydgLftj3M0)
 - [White Shadow](https://www.youtube.com/watch?v=tkgnLFAF_i8)
@@ -71,8 +71,8 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 - [Flotsam And Jetsam](https://www.youtube.com/watch?v=qF-XjcJxG9A)
 - [Perspective](https://www.youtube.com/watch?v=g74OaGwsTaU)
 - [Home Sweet Home](https://www.youtube.com/watch?v=5aCo5v_tKxY)
-- [Peter Gabriel 2 / Scratch / 1978 / full album](https://www.youtube.com/watch?v=1-KqkYMAz6c)
-- [Peter Gabriel - On The Air (Rockpalast TV performance 1978)](https://www.youtube.com/watch?v=ZdLVIkMwtLs)
+- [Peter Gabriel 2  Scratch  1978  full album](https://www.youtube.com/watch?v=1-KqkYMAz6c)
+- [Peter Gabriel - On The Air Rockpalast TV performance 1978](https://www.youtube.com/watch?v=ZdLVIkMwtLs)
 
 ## Release Images
 {{< imageGrid >}}

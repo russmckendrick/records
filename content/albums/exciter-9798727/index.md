@@ -63,7 +63,7 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 
 - [When the Body Speaks](https://www.youtube.com/watch?v=9RDU2065k8E)
 - [Shine](https://www.youtube.com/watch?v=MqDKvCixUnQ)
-- [Depeche Mode - Dream On (Official Video)](https://www.youtube.com/watch?v=7dgrMSTalZ0)
+- [Depeche Mode - Dream On Official Video](https://www.youtube.com/watch?v=7dgrMSTalZ0)
 
 ## Release Images
 {{< imageGrid >}}

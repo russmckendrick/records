@@ -54,28 +54,28 @@ styles: ["Breakbeat", "Soundtrack", "Techno", "Drum n Bass", "Nu Metal"]
 
 
 ## Videos
-### Spawn: The Album (Cassette, 1997)
-{{< youtube id="Nizmq5R6V5k" title="Spawn: The Album (Cassette, 1997)" >}}<br>
+### Spawn The Album Cassette 1997
+{{< youtube id="Nizmq5R6V5k" title="Spawn The Album Cassette 1997" >}}<br>
 ### More Videos
 
-- [[Can't You] Trip Like I Do](https://www.youtube.com/watch?v=Q7SedYMP-PA)
-- [Marilyn Manson - Long Hard Road Out Of Hell (Official Video)](https://www.youtube.com/watch?v=THNEolxBmso)
+- [Cant You Trip Like I Do](https://www.youtube.com/watch?v=Q7SedYMP-PA)
+- [Marilyn Manson - Long Hard Road Out Of Hell Official Video](https://www.youtube.com/watch?v=THNEolxBmso)
 - [Satan](https://www.youtube.com/watch?v=tP8tpAs9qhI)
-- [Kick The P.A.](https://www.youtube.com/watch?v=Cvc0xXRMZCQ)
+- [Kick The PA](https://www.youtube.com/watch?v=Cvc0xXRMZCQ)
 - [Tiny Rubberband](https://www.youtube.com/watch?v=sbjoKJo2tw8)
-- [For Whom The Bell Tolls (The Irony Of It All)](https://www.youtube.com/watch?v=b5tHyndUZ88)
+- [For Whom The Bell Tolls The Irony Of It All](https://www.youtube.com/watch?v=b5tHyndUZ88)
 - [Torn Apart](https://www.youtube.com/watch?v=_KTiOPeXQsQ)
 - [Skin Up Pin Up](https://www.youtube.com/watch?v=Ck-cm66GO2o)
 - [ONE MAN ARMY](https://www.youtube.com/watch?v=_kmlPy9dyOY)
 - [Spawn](https://www.youtube.com/watch?v=NE8wQYp7UD0)
 - [T-4 Strain](https://www.youtube.com/watch?v=FbLBNsnAL9Q)
 - [Familiar](https://www.youtube.com/watch?v=RvdANtKQtO0)
-- [No Remorse (I Wanna Die)](https://www.youtube.com/watch?v=4SiZmtvIDRU)
+- [No Remorse I Wanna Die](https://www.youtube.com/watch?v=4SiZmtvIDRU)
 - [A Plane Scraped Its Belly On A Sooty Yellow](https://www.youtube.com/watch?v=VCWAKRhZA3k)
-- [Apollo 440 & Morphine - This Is Not A Dream (UK Mix) | Spawn OST](https://www.youtube.com/watch?v=cEgP5TSaUFs)
-- [Spawn Soundtrack 4. Kick The P A Korn & The Dust Brothers](https://www.youtube.com/watch?v=db_TqWcS4FE)
-- [Spawn Soundtrack 5. Tiny Rubberband Butthole Surfers & Moby](https://www.youtube.com/watch?v=INrcyVMNsPM)
-- [Spawn Soundtrack 12. Familiar Incubus & DJ Greyboy](https://www.youtube.com/watch?v=ll2o2G1UdPo)
+- [Apollo 440  Morphine - This Is Not A Dream UK Mix  Spawn OST](https://www.youtube.com/watch?v=cEgP5TSaUFs)
+- [Spawn Soundtrack 4 Kick The P A Korn  The Dust Brothers](https://www.youtube.com/watch?v=db_TqWcS4FE)
+- [Spawn Soundtrack 5 Tiny Rubberband Butthole Surfers  Moby](https://www.youtube.com/watch?v=INrcyVMNsPM)
+- [Spawn Soundtrack 12 Familiar Incubus  DJ Greyboy](https://www.youtube.com/watch?v=ll2o2G1UdPo)
 
 ## Release Images
 {{< imageGrid >}}

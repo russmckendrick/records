@@ -53,9 +53,9 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 
 - [Whale Kickin](https://www.youtube.com/watch?v=ktYTBY44O3E)
 - [Whale - Pay for me](https://www.youtube.com/watch?v=QwujYHLJay4)
-- [I´ll do ya-Whale](https://www.youtube.com/watch?v=j-VjC6EgjzU)
-- [Whale - I'm Cold.wmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)
-- [Whale - We Care (1995)](https://www.youtube.com/watch?v=_qhaJRpOtSY)
+- [Ill do ya-Whale](https://www.youtube.com/watch?v=j-VjC6EgjzU)
+- [Whale - Im Coldwmv](https://www.youtube.com/watch?v=P0CCPs5FFAc)
+- [Whale - We Care 1995](https://www.youtube.com/watch?v=_qhaJRpOtSY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -55,12 +55,12 @@ Made in America  was the band's last album in its original incarnation. Followin
 - [Green Onions](https://www.youtube.com/watch?v=JfWfF57OYPE)
 - [Riot in Cell Block Number Nine](https://www.youtube.com/watch?v=pH4I-Q48MUw)
 - [Perry Mason Theme](https://www.youtube.com/watch?v=y0BG240I5JU)
-- [Soul Finger (Including Funky Broadway)](https://www.youtube.com/watch?v=kYGLYUCgPyw)
+- [Soul Finger Including Funky Broadway](https://www.youtube.com/watch?v=kYGLYUCgPyw)
 - [Guilty](https://www.youtube.com/watch?v=y9-eSnhVEfs)
-- [I Ain't Got You](https://www.youtube.com/watch?v=WLo3rYgKmNo)
+- [I Aint Got You](https://www.youtube.com/watch?v=WLo3rYgKmNo)
 - [From the Bottom](https://www.youtube.com/watch?v=SaV1pF10RyM)
-- [Do You Love Me: Mother Popcorn (You Got to Have a Mother for Me)](https://www.youtube.com/watch?v=0sjEj5wVW-0)
-- [Who's Making Love](https://www.youtube.com/watch?v=WZ7U8ahPerc)
+- [Do You Love Me Mother Popcorn You Got to Have a Mother for Me](https://www.youtube.com/watch?v=0sjEj5wVW-0)
+- [Whos Making Love](https://www.youtube.com/watch?v=WZ7U8ahPerc)
 
 ## Release Images
 {{< imageGrid >}}

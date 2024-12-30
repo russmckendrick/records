@@ -57,7 +57,7 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 - [The Chemical Brothers - Star Guitar](https://www.youtube.com/watch?v=QrfGGdLDwYo)
 - [The Chemical Brothers - Hoops](https://www.youtube.com/watch?v=YhmrSNGl0Sc)
 - [My Elastic Eye](https://www.youtube.com/watch?v=WagyA3N1FgE)
-- [The State We're In](https://www.youtube.com/watch?v=MUrmm7EARZY)
+- [The State Were In](https://www.youtube.com/watch?v=MUrmm7EARZY)
 - [The Chemical Brothers - Denmark](https://www.youtube.com/watch?v=HlH3yazN7Ow)
 - [Chemical Brothers - Pioneer Skies](https://www.youtube.com/watch?v=8iDzLlDOUio)
 - [The Chemical Brothers feat Richard Ashcroft - The Test](https://www.youtube.com/watch?v=C3LPe3-LNR4)

@@ -58,7 +58,7 @@ Initially released as a 2013 split seven-inch single with psych-metal trio Moab,
 - [No Warning](https://www.youtube.com/watch?v=XvwDc95TkH8)
 - [Evolution Machine](https://www.youtube.com/watch?v=0SdypZTlVw8)
 - [Triplanetary](https://www.youtube.com/watch?v=RcruRnHbZ_o)
-- [Fu Manchu - The Last Question [Audio]](https://www.youtube.com/watch?v=aGX_AQOBolw)
+- [Fu Manchu - The Last Question Audio](https://www.youtube.com/watch?v=aGX_AQOBolw)
 
 ## Release Images
 {{< imageGrid >}}

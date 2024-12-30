@@ -46,11 +46,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Anathema - Untouchable (part one) (from Weather Systems)
-{{< youtube id="av6sVWXeCWQ" title="Anathema - Untouchable (part one) (from Weather Systems)" >}}<br>
+### Anathema - Untouchable part one from Weather Systems
+{{< youtube id="av6sVWXeCWQ" title="Anathema - Untouchable part one from Weather Systems" >}}<br>
 ### More Videos
 
-- [Anathema - Weather Systems 2012 (Full Album)](https://www.youtube.com/watch?v=H7EZkJkZYGU)
+- [Anathema - Weather Systems 2012 Full Album](https://www.youtube.com/watch?v=H7EZkJkZYGU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -32,15 +32,15 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### How Big the Space - Steven Wilson - (RSD 2018)
-{{< youtube id="udJsxISenfA" title="How Big the Space - Steven Wilson - (RSD 2018)" >}}<br>
+### How Big the Space - Steven Wilson - RSD 2018
+{{< youtube id="udJsxISenfA" title="How Big the Space - Steven Wilson - RSD 2018" >}}<br>
 ### More Videos
 
-- [How Big the Space [Instrumental] - Steven Wilson (RSD 2018)](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
-- [People Who Eat Darkness [Ninet Edit] - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
-- [How Big the Space - Steven Wilson - (RSD 2018)](https://www.youtube.com/watch?v=udJsxISenfA)
-- [How Big the Space [Instrumental] - Steven Wilson (RSD 2018)](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
-- [People Who Eat Darkness [Ninet Edit] - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
+- [How Big the Space Instrumental - Steven Wilson RSD 2018](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
+- [People Who Eat Darkness Ninet Edit - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
+- [How Big the Space - Steven Wilson - RSD 2018](https://www.youtube.com/watch?v=udJsxISenfA)
+- [How Big the Space Instrumental - Steven Wilson RSD 2018](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
+- [People Who Eat Darkness Ninet Edit - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,7 +50,7 @@ styles: ["Country"]
 {{< youtube id="X-CS-OT8Fco" title="Flesh and Blood" >}}<br>
 ### More Videos
 
-- [Johnny Cash - I Walk the Line (The Best Of The Johnny Cash TV Show)](https://www.youtube.com/watch?v=J5126CibNsk)
+- [Johnny Cash - I Walk the Line The Best Of The Johnny Cash TV Show](https://www.youtube.com/watch?v=J5126CibNsk)
 
 ## Release Images
 {{< imageGrid >}}

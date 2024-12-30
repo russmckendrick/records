@@ -50,11 +50,11 @@ styles: ["Easy Listening"]
 
 
 ## Videos
-### Acker Bilk - Evergreen.flv
-{{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreen.flv" >}}<br>
+### Acker Bilk - Evergreenflv
+{{< youtube id="zSbNM1K_uE8" title="Acker Bilk - Evergreenflv" >}}<br>
 ### More Videos
 
-- [Mr. Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
+- [Mr Acker Bilk - Feelings](https://www.youtube.com/watch?v=ewdJyK5VysQ)
 
 ## Release Images
 {{< imageGrid >}}

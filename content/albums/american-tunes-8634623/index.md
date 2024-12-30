@@ -58,15 +58,15 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 
 
 ## Videos
-### Allen Toussaint - Confessin' (That I Love You) [Official Audio]
-{{< youtube id="kZ9W9X45B2s" title="Allen Toussaint - Confessin' (That I Love You) [Official Audio]" >}}<br>
+### Allen Toussaint - Confessin That I Love You Official Audio
+{{< youtube id="kZ9W9X45B2s" title="Allen Toussaint - Confessin That I Love You Official Audio" >}}<br>
 ### More Videos
 
-- [Allen Toussaint - Big Chief [Official Audio]](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
-- [Confessin' (That I Love You)](https://www.youtube.com/watch?v=VTvzPmI5hzo)
+- [Allen Toussaint - Big Chief Official Audio](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
+- [Confessin That I Love You](https://www.youtube.com/watch?v=VTvzPmI5hzo)
 - [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
-- [Allen Toussaint - Big Chief [Official Audio]](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
-- [Allen Toussaint - Confessin' (That I Love You) [Official Audio]](https://www.youtube.com/watch?v=kZ9W9X45B2s)
+- [Allen Toussaint - Big Chief Official Audio](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
+- [Allen Toussaint - Confessin That I Love You Official Audio](https://www.youtube.com/watch?v=kZ9W9X45B2s)
 
 ## Release Images
 {{< imageGrid >}}

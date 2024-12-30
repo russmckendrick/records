@@ -61,7 +61,7 @@ The term "wild river" may also more generically describe or identify free-flowin
 - [Mandy](https://www.youtube.com/watch?v=sVJHEn3OVyU)
 - [David Longdon  -  About Time](https://www.youtube.com/watch?v=cwIlZN8Rnfs)
 - [Wild River](https://www.youtube.com/watch?v=5GNDdRmjIXA)
-- [Loving and Giving (Live)](https://www.youtube.com/watch?v=SmddacNMLCE)
+- [Loving and Giving Live](https://www.youtube.com/watch?v=SmddacNMLCE)
 - [David Longdon - This House](https://www.youtube.com/watch?v=zScHowuicfY)
 - [Falling Down To Earth](https://www.youtube.com/watch?v=qc3BvsoR7kU)
 - [Beyond Belief](https://www.youtube.com/watch?v=B0ZkRRUpFz4)

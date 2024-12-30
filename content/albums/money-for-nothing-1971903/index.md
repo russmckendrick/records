@@ -48,21 +48,21 @@ It was Dire Straits' most commercially successful single, peaking at number 1 fo
 
 
 ## Videos
-### Dire Straits - Sultans Of Swing (Official Music Video)
-{{< youtube id="h0ffIJ7ZO4U" title="Dire Straits - Sultans Of Swing (Official Music Video)" >}}<br>
+### Dire Straits - Sultans Of Swing Official Music Video
+{{< youtube id="h0ffIJ7ZO4U" title="Dire Straits - Sultans Of Swing Official Music Video" >}}<br>
 ### More Videos
 
-- [Dire Straits - Down To The Waterline (What's On, 22nd June 1978)](https://www.youtube.com/watch?v=h_IGSgvNS8s)
-- [Dire Straits - Portobello Belle - Live (New 2020 Transfer+Remastered) [VINYL - 32bit HiRes], HQ](https://www.youtube.com/watch?v=NhA1iuEKGCA)
-- [Dire Straits - Twisting By The Pool (Official Music Video)](https://www.youtube.com/watch?v=DsJ5aYK-S6Y)
-- [Dire Straits - Tunnel Of Love (Official Music Video)](https://www.youtube.com/watch?v=gAirINwjaxE)
-- [Dire Straits - Romeo And Juliet (Official Music Video)](https://www.youtube.com/watch?v=rC95MEenIxA)
-- [Where Do You Think You're Going?](https://www.youtube.com/watch?v=LROnjfhnZMo)
-- [Dire Straits - Walk Of Life (Official Music Video)](https://www.youtube.com/watch?v=kd9TlGDZGkI)
-- [Dire Straits - Private Investigations (Official Music Video)](https://www.youtube.com/watch?v=P9K27HvhDxA)
-- [Telegraph Road (Live / Mixed And Remastered 2023)](https://www.youtube.com/watch?v=jeZwirnHPxA)
-- [Dire Straits - Money For Nothing (Official Music Video)](https://www.youtube.com/watch?v=wTP2RUD_cL0)
-- [Dire Straits - Brothers In Arms (Official Music Video)](https://www.youtube.com/watch?v=jhdFe3evXpk)
+- [Dire Straits - Down To The Waterline Whats On 22nd June 1978](https://www.youtube.com/watch?v=h_IGSgvNS8s)
+- [Dire Straits - Portobello Belle - Live New 2020 TransferRemastered VINYL - 32bit HiRes HQ](https://www.youtube.com/watch?v=NhA1iuEKGCA)
+- [Dire Straits - Twisting By The Pool Official Music Video](https://www.youtube.com/watch?v=DsJ5aYK-S6Y)
+- [Dire Straits - Tunnel Of Love Official Music Video](https://www.youtube.com/watch?v=gAirINwjaxE)
+- [Dire Straits - Romeo And Juliet Official Music Video](https://www.youtube.com/watch?v=rC95MEenIxA)
+- [Where Do You Think Youre Going](https://www.youtube.com/watch?v=LROnjfhnZMo)
+- [Dire Straits - Walk Of Life Official Music Video](https://www.youtube.com/watch?v=kd9TlGDZGkI)
+- [Dire Straits - Private Investigations Official Music Video](https://www.youtube.com/watch?v=P9K27HvhDxA)
+- [Telegraph Road Live  Mixed And Remastered 2023](https://www.youtube.com/watch?v=jeZwirnHPxA)
+- [Dire Straits - Money For Nothing Official Music Video](https://www.youtube.com/watch?v=wTP2RUD_cL0)
+- [Dire Straits - Brothers In Arms Official Music Video](https://www.youtube.com/watch?v=jhdFe3evXpk)
 
 ## Release Images
 {{< imageGrid >}}

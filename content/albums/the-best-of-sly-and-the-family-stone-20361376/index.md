@@ -54,16 +54,16 @@ styles: ["Funk", "Psychedelic", "Disco"]
 
 
 ## Videos
-### Sly & The Family Stone - Dance To The Music (Audio)
-{{< youtube id="Jn2PNlhvy8E" title="Sly & The Family Stone - Dance To The Music (Audio)" >}}<br>
+### Sly  The Family Stone - Dance To The Music Audio
+{{< youtube id="Jn2PNlhvy8E" title="Sly  The Family Stone - Dance To The Music Audio" >}}<br>
 ### More Videos
 
-- [Sly & The Family Stone - Everyday People (Official Video)](https://www.youtube.com/watch?v=YUUhDoCx8zc)
-- [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
-- [Sly & The Family Stone - If You Want Me To Stay (Audio)](https://www.youtube.com/watch?v=gZFabOuF4Ps)
-- [Sly & The Family Stone - Family Affair (Official Audio)](https://www.youtube.com/watch?v=xag5RKD0VHk)
+- [Sly  The Family Stone - Everyday People Official Video](https://www.youtube.com/watch?v=YUUhDoCx8zc)
+- [Sly  The Family Stone - Hot Fun in the Summertime Official Audio](https://www.youtube.com/watch?v=Bg0tFRea0wA)
+- [Sly  The Family Stone - If You Want Me To Stay Audio](https://www.youtube.com/watch?v=gZFabOuF4Ps)
+- [Sly  The Family Stone - Family Affair Official Audio](https://www.youtube.com/watch?v=xag5RKD0VHk)
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
-- [Sly And The Family Stone - "Que Sera Sera" (w/ Mishal Moore and The Firth Sisters)](https://www.youtube.com/watch?v=hlc5f-cJEVM)
+- [Sly And The Family Stone - Que Sera Sera w Mishal Moore and The Firth Sisters](https://www.youtube.com/watch?v=hlc5f-cJEVM)
 
 ## Release Images
 {{< imageGrid >}}

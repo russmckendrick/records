@@ -41,20 +41,20 @@ styles: []
 
 
 ## Videos
-### Sharon Jones & the Dap Kings - Matter of Time
-{{< youtube id="_Z9LA1u5KCI" title="Sharon Jones & the Dap Kings - Matter of Time" >}}<br>
+### Sharon Jones  the Dap Kings - Matter of Time
+{{< youtube id="_Z9LA1u5KCI" title="Sharon Jones  the Dap Kings - Matter of Time" >}}<br>
 ### More Videos
 
-- [Sharon Jones & The Dap-Kings - "Sail On!" (Official Audio)](https://www.youtube.com/watch?v=FnO5AM5gzG8)
-- [Sharon Jones & The Dap-Kings - "Just Give Me Your Time" (Official Audio)](https://www.youtube.com/watch?v=okqZc6D4wy0)
-- [Sharon Jones & The Dap-Kings - "Come And Be A Winner" (Official Audio)](https://www.youtube.com/watch?v=_oNK5eV0szc)
-- [Sharon Jones & The Dap-Kings - "Rumors" (Official Audio)](https://www.youtube.com/watch?v=P_Y0OSZktQc)
-- [Sharon Jones & The Dap-Kings - "Pass Me By" (Official Audio)](https://www.youtube.com/watch?v=R3UVOZDgbS4)
-- [Sharon Jones & The Dap-Kings - "Searching For A New Day" (Official Audio)](https://www.youtube.com/watch?v=pBs8sfRpq6g)
-- [Sharon Jones & The Dap-Kings - "These Tears (No Longer For You)" (Official Audio)](https://www.youtube.com/watch?v=yDI1GPcHUos)
-- [Sharon Jones & The Dap-Kings - "When I Saw Your Face" (Official Audio)](https://www.youtube.com/watch?v=CyXIn7N1UlQ)
-- [Sharon Jones & The Dap-Kings - "Girl! (You Got To Forgive Him)" (Official Audio)](https://www.youtube.com/watch?v=KjCWFCN87Yw)
-- [Sharon Jones & the Dap Kings - Call On God](https://www.youtube.com/watch?v=A6PdxJOoPzQ)
+- [Sharon Jones  The Dap-Kings - Sail On Official Audio](https://www.youtube.com/watch?v=FnO5AM5gzG8)
+- [Sharon Jones  The Dap-Kings - Just Give Me Your Time Official Audio](https://www.youtube.com/watch?v=okqZc6D4wy0)
+- [Sharon Jones  The Dap-Kings - Come And Be A Winner Official Audio](https://www.youtube.com/watch?v=_oNK5eV0szc)
+- [Sharon Jones  The Dap-Kings - Rumors Official Audio](https://www.youtube.com/watch?v=P_Y0OSZktQc)
+- [Sharon Jones  The Dap-Kings - Pass Me By Official Audio](https://www.youtube.com/watch?v=R3UVOZDgbS4)
+- [Sharon Jones  The Dap-Kings - Searching For A New Day Official Audio](https://www.youtube.com/watch?v=pBs8sfRpq6g)
+- [Sharon Jones  The Dap-Kings - These Tears No Longer For You Official Audio](https://www.youtube.com/watch?v=yDI1GPcHUos)
+- [Sharon Jones  The Dap-Kings - When I Saw Your Face Official Audio](https://www.youtube.com/watch?v=CyXIn7N1UlQ)
+- [Sharon Jones  The Dap-Kings - Girl You Got To Forgive Him Official Audio](https://www.youtube.com/watch?v=KjCWFCN87Yw)
+- [Sharon Jones  the Dap Kings - Call On God](https://www.youtube.com/watch?v=A6PdxJOoPzQ)
 
 ## Release Images
 {{< imageGrid >}}

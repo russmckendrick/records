@@ -61,8 +61,8 @@ styles: ["Synth-pop", "Electro"]
 
 
 ## Videos
-### Erasure - Always (Official HD Music Video)
-{{< youtube id="lWqJTKdznaM" title="Erasure - Always (Official HD Music Video)" >}}<br>
+### Erasure - Always Official HD Music Video
+{{< youtube id="lWqJTKdznaM" title="Erasure - Always Official HD Music Video" >}}<br>
 
 
 ## Release Images

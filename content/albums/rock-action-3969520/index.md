@@ -50,8 +50,8 @@ styles: ["Post Rock"]
 - [Sine Wave](https://www.youtube.com/watch?v=4gJueO-_zXE)
 - [Secret Pint](https://www.youtube.com/watch?v=JSCb7H4kAIQ)
 - [Robot Chant](https://www.youtube.com/watch?v=u7wtHzLqM8Q)
-- [You Don't Know Jesus](https://www.youtube.com/watch?v=g1r80NyUHZU)
-- [Dial : Revenge](https://www.youtube.com/watch?v=M-G787hGa1Y)
+- [You Dont Know Jesus](https://www.youtube.com/watch?v=g1r80NyUHZU)
+- [Dial  Revenge](https://www.youtube.com/watch?v=M-G787hGa1Y)
 
 ## Release Images
 {{< imageGrid >}}

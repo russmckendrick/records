@@ -47,11 +47,11 @@ styles: ["Soul", "House"]
 
 
 ## Videos
-### Hifi Sean & David McAlmont - Sad Banger
-{{< youtube id="TYJPpYD_tsQ" title="Hifi Sean & David McAlmont - Sad Banger" >}}<br>
+### Hifi Sean  David McAlmont - Sad Banger
+{{< youtube id="TYJPpYD_tsQ" title="Hifi Sean  David McAlmont - Sad Banger" >}}<br>
 ### More Videos
 
-- [Hifi Sean & David McAlmont - Sad Banger](https://www.youtube.com/watch?v=TYJPpYD_tsQ)
+- [Hifi Sean  David McAlmont - Sad Banger](https://www.youtube.com/watch?v=TYJPpYD_tsQ)
 
 ## Release Images
 {{< imageGrid >}}

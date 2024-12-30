@@ -37,11 +37,11 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 
 
 ## Videos
-### Split Enz - I Got You (Official Video)
-{{< youtube id="wiqBlKnb91A" title="Split Enz - I Got You (Official Video)" >}}<br>
+### Split Enz - I Got You Official Video
+{{< youtube id="wiqBlKnb91A" title="Split Enz - I Got You Official Video" >}}<br>
 ### More Videos
 
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 
 ## Release Images
 {{< imageGrid >}}

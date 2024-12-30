@@ -55,17 +55,17 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 - [Dog Eat Dog -  No Fronts](https://www.youtube.com/watch?v=R2YYAMi-C8w)
 - [Dog Eat Dog - Whos The King from All Boro Kings 1994longplay](https://www.youtube.com/watch?v=rtuaiaIm8wQ)
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=41KJCoydlEU)
-- [Dog Eat Dog-Who`s the King?](https://www.youtube.com/watch?v=smOwf0iBqXI)
-- [Who's the King](https://www.youtube.com/watch?v=TVgjF-Vc_tQ)
+- [Dog Eat Dog-Whos the King](https://www.youtube.com/watch?v=smOwf0iBqXI)
+- [Whos the King](https://www.youtube.com/watch?v=TVgjF-Vc_tQ)
 - [Dog Eat Dog - Funnel King](https://www.youtube.com/watch?v=a_TedVjcybg)
-- [Best Of 90's - 1Album/1Song - Dog Eat Dog All Boro Kings/No Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
+- [Best Of 90s - 1Album1Song - Dog Eat Dog All Boro KingsNo Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
 - [No Fronts](https://www.youtube.com/watch?v=HukQVeoKLSI)
 - [If These Are Good Times](https://www.youtube.com/watch?v=v56JPMsfA_Y)
 - [Dog Eat Dog No Fronts](https://www.youtube.com/watch?v=c_FAGSiyiR4)
 - [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)
-- [Dog Eat Dog - Who's The King?](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
+- [Dog Eat Dog - Whos The King](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
 - [Dog Eat Dog - Whos The King from All Boro Kings 1994longplay](https://www.youtube.com/watch?v=rtuaiaIm8wQ)
-- [Best Of 90's - 1Album/1Song - Dog Eat Dog All Boro Kings/No Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
+- [Best Of 90s - 1Album1Song - Dog Eat Dog All Boro KingsNo Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
 
 ## Release Images
 {{< imageGrid >}}

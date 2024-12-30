@@ -49,12 +49,12 @@ A New Morning is the fifth studio album by English alternative rock band Suede, 
 
 
 ## Videos
-### ... morning (Remastered)
-{{< youtube id="QNU73CGbndM" title="... morning (Remastered)" >}}<br>
+###  morning Remastered
+{{< youtube id="QNU73CGbndM" title=" morning Remastered" >}}<br>
 ### More Videos
 
 - [Suede - Positivity](https://www.youtube.com/watch?v=ipX71-P7Cpk)
-- [Obsessions (Remastered)](https://www.youtube.com/watch?v=JGjEgDA0whM)
+- [Obsessions Remastered](https://www.youtube.com/watch?v=JGjEgDA0whM)
 
 ## Release Images
 {{< imageGrid >}}

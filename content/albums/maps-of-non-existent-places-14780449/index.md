@@ -46,9 +46,9 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 {{< youtube id="Eiz8nmCYVy0" title="Prelude" >}}<br>
 ### More Videos
 
-- [A Salesman's Guide to Non-Existence](https://www.youtube.com/watch?v=qfh51HrD5U4)
+- [A Salesmans Guide to Non-Existence](https://www.youtube.com/watch?v=qfh51HrD5U4)
 - [Thank You Scientist - Feed the Horses](https://www.youtube.com/watch?v=mWig453dPrc)
-- [Thank You Scientist - "Concrete Swan Dive" (Maps Of Non-Existent Places)](https://www.youtube.com/watch?v=lncoFO68wjQ)
+- [Thank You Scientist - Concrete Swan Dive Maps Of Non-Existent Places](https://www.youtube.com/watch?v=lncoFO68wjQ)
 
 ## Release Images
 {{< imageGrid >}}

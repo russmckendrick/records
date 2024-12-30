@@ -49,12 +49,12 @@ styles: ["Prog Rock", "Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Great Escape (2018) Full Album Stream
-{{< youtube id="C0KCueuqvt8" title="Crippled Black Phoenix - Great Escape (2018) Full Album Stream" >}}<br>
+### Crippled Black Phoenix - Great Escape 2018 Full Album Stream
+{{< youtube id="C0KCueuqvt8" title="Crippled Black Phoenix - Great Escape 2018 Full Album Stream" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)](https://www.youtube.com/watch?v=CV07GXCsQGg)
-- [Crippled Black Phoenix - Uncivil War (pt I)](https://www.youtube.com/watch?v=sF2xgZWPcHs)
+- [Crippled Black Phoenix - Hunok Csatája Official Track Premiere](https://www.youtube.com/watch?v=CV07GXCsQGg)
+- [Crippled Black Phoenix - Uncivil War pt I](https://www.youtube.com/watch?v=sF2xgZWPcHs)
 
 ## Release Images
 {{< imageGrid >}}

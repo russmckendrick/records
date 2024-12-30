@@ -50,12 +50,12 @@ Earthling charted better than its predecessor and reached the top ten in several
 
 
 ## Videos
-### David Bowie - Seven Years In Tibet (Official Music Video) [HD Upgrade]
-{{< youtube id="uJgZggr9ZRI" title="David Bowie - Seven Years In Tibet (Official Music Video) [HD Upgrade]" >}}<br>
+### David Bowie - Seven Years In Tibet Official Music Video HD Upgrade
+{{< youtube id="uJgZggr9ZRI" title="David Bowie - Seven Years In Tibet Official Music Video HD Upgrade" >}}<br>
 ### More Videos
 
 - [DAVID BOWIE - TELLING LIES - LIVE LORELEY 1996 - HQ](https://www.youtube.com/watch?v=A6yuPt_qE4Q)
-- [David Bowie - I'm Afraid of Americans (Official Music Video) [4K Upgrade]](https://www.youtube.com/watch?v=LT3cERVRoQo)
+- [David Bowie - Im Afraid of Americans Official Music Video 4K Upgrade](https://www.youtube.com/watch?v=LT3cERVRoQo)
 
 ## Release Images
 {{< imageGrid >}}

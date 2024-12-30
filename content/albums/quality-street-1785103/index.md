@@ -47,20 +47,20 @@ The original Broadway production opened in 1901 and ran for 64 performances. The
 
 
 ## Videos
-### World Of Twist - She's A Rainbow (The Rolling Stones Cover)
-{{< youtube id="VTjqaOblvHU" title="World Of Twist - She's A Rainbow (The Rolling Stones Cover)" >}}<br>
+### World Of Twist - Shes A Rainbow The Rolling Stones Cover
+{{< youtube id="VTjqaOblvHU" title="World Of Twist - Shes A Rainbow The Rolling Stones Cover" >}}<br>
 ### More Videos
 
 - [World of Twist - Loose My Way](https://www.youtube.com/watch?v=5uuowMS0j6w)
-- [World Of Twist - She's A Rainbow (The Rolling Stones Cover)](https://www.youtube.com/watch?v=VTjqaOblvHU)
+- [World Of Twist - Shes A Rainbow The Rolling Stones Cover](https://www.youtube.com/watch?v=VTjqaOblvHU)
 - [World of Twist - Loose My Way](https://www.youtube.com/watch?v=5uuowMS0j6w)
-- [World Of Twist - The Storm (The Word) November 1990](https://www.youtube.com/watch?v=SyXvR7Fu_pQ)
-- [World Of Twist - Sons Of The Stage 12" extended version](https://www.youtube.com/watch?v=swZMBbhyx7A)
+- [World Of Twist - The Storm The Word November 1990](https://www.youtube.com/watch?v=SyXvR7Fu_pQ)
+- [World Of Twist - Sons Of The Stage 12 extended version](https://www.youtube.com/watch?v=swZMBbhyx7A)
 - [world of twist - jelly baby](https://www.youtube.com/watch?v=KmR-P287xpg)
-- [World of twist life & death (remix)](https://www.youtube.com/watch?v=cKhqxLApuwE)
-- [World of Twist - 'Lose My Way', Granada Studios, 14.11.91](https://www.youtube.com/watch?v=78-AJSHzrAg)
-- [world of twist - lose my way (hanger 16)](https://www.youtube.com/watch?v=qWms1DFOm8I)
-- [World of Twist - Blackpool Tower (Peel Session)](https://www.youtube.com/watch?v=qdKhrWAFLWc)
+- [World of twist life  death remix](https://www.youtube.com/watch?v=cKhqxLApuwE)
+- [World of Twist - Lose My Way Granada Studios 141191](https://www.youtube.com/watch?v=78-AJSHzrAg)
+- [world of twist - lose my way hanger 16](https://www.youtube.com/watch?v=qWms1DFOm8I)
+- [World of Twist - Blackpool Tower Peel Session](https://www.youtube.com/watch?v=qdKhrWAFLWc)
 
 ## Release Images
 {{< imageGrid >}}

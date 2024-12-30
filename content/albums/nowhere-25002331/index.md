@@ -47,11 +47,11 @@ Nowhere is the debut album by British shoegaze band Ride, released 15 October 19
 
 
 ## Videos
-### Ride - Taste (Video)
-{{< youtube id="APqGzOD0fUk" title="Ride - Taste (Video)" >}}<br>
+### Ride - Taste Video
+{{< youtube id="APqGzOD0fUk" title="Ride - Taste Video" >}}<br>
 ### More Videos
 
-- [Ride - Vapour Trail (Video)](https://www.youtube.com/watch?v=pVhNi5cU8mo)
+- [Ride - Vapour Trail Video](https://www.youtube.com/watch?v=pVhNi5cU8mo)
 - [Ride-Seagull](https://www.youtube.com/watch?v=wF0FO5riglY)
 - [Ride- Kaleidoscope](https://www.youtube.com/watch?v=JucqVvhitWE)
 - [Ride- In a different place](https://www.youtube.com/watch?v=ADvP07t1mHo)

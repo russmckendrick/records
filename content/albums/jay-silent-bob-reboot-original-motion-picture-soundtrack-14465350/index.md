@@ -58,22 +58,22 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 
 ## Videos
-### Mooby's Song
-{{< youtube id="YUdJKKG8ih0" title="Mooby's Song" >}}<br>
+### Moobys Song
+{{< youtube id="YUdJKKG8ih0" title="Moobys Song" >}}<br>
 ### More Videos
 
 - [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
 - [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
 - [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
-- [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
-- [PM Dawn - I'd Die Without You](https://www.youtube.com/watch?v=C_qWlPCEnGM)
-- [Mooby's Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
+- [JAY AND SILENT BOB REBOOT Red Band Trailer 2019](https://www.youtube.com/watch?v=l5UJu1BAy8U)
+- [PM Dawn - Id Die Without You](https://www.youtube.com/watch?v=C_qWlPCEnGM)
+- [Moobys Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
 - [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
 - [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
 - [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
 - [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
-- [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
+- [JAY AND SILENT BOB REBOOT Red Band Trailer 2019](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
 ## Release Images
 {{< imageGrid >}}

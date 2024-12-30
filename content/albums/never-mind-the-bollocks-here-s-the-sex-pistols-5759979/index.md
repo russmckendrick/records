@@ -51,8 +51,8 @@ The album has influenced many bands and musicians, and the industry in general. 
 
 
 ## Videos
-### Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols [Full Album] (HQ)
-{{< youtube id="LD2i99QPVI0" title="Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols [Full Album] (HQ)" >}}<br>
+### Sex Pistols - Never Mind The Bollocks Heres The Sex Pistols Full Album HQ
+{{< youtube id="LD2i99QPVI0" title="Sex Pistols - Never Mind The Bollocks Heres The Sex Pistols Full Album HQ" >}}<br>
 
 
 ## Release Images

@@ -59,20 +59,20 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 {{< youtube id="mFESmuzaAek" title="Slow And Low" >}}<br>
 ### More Videos
 
-- [Beastie Boys License to Ill (Full Album)](https://www.youtube.com/watch?v=QCM0-irFCSk)
-- [Paul's Boutique by  The Beastie Boys - Classic Album!](https://www.youtube.com/watch?v=_U82_MiB2OM)
-- [Beastie Boys respond to Eminem "Kamikaze" album cover](https://www.youtube.com/watch?v=ML3NDyDQNj8)
-- [beastie boys - Rhymin & Stealin - Licensed To Ill](https://www.youtube.com/watch?v=Xdutu8sWmbQ)
-- [Rhymin & Stealin](https://www.youtube.com/watch?v=E4m_M0JwGLI)
+- [Beastie Boys License to Ill Full Album](https://www.youtube.com/watch?v=QCM0-irFCSk)
+- [Pauls Boutique by  The Beastie Boys - Classic Album](https://www.youtube.com/watch?v=_U82_MiB2OM)
+- [Beastie Boys respond to Eminem Kamikaze album cover](https://www.youtube.com/watch?v=ML3NDyDQNj8)
+- [beastie boys - Rhymin  Stealin - Licensed To Ill](https://www.youtube.com/watch?v=Xdutu8sWmbQ)
+- [Rhymin  Stealin](https://www.youtube.com/watch?v=E4m_M0JwGLI)
 - [beastie boys - The New Style - Licensed To Ill](https://www.youtube.com/watch?v=wToYujbHG20)
-- [Beastie Boys - Hold It Now, Hit It (Official Music Video)](https://www.youtube.com/watch?v=oB0NM6reiRE)
+- [Beastie Boys - Hold It Now Hit It Official Music Video](https://www.youtube.com/watch?v=oB0NM6reiRE)
 - [Paul Revere](https://www.youtube.com/watch?v=kdfF0cOC50w)
 - [Time To Get Ill](https://www.youtube.com/watch?v=TQFWc4syEgM)
-- [Beastie Boys - Rhymin' & Stealin' (Official Video)](https://www.youtube.com/watch?v=U7M7d8u40I4)
-- [Beastie Boys - She's Crafty (Official Music Video)](https://www.youtube.com/watch?v=erD0nCFA75g)
-- [Beastie Boys. License to ill. (HD)](https://www.youtube.com/watch?v=-6LwHObggvo)
+- [Beastie Boys - Rhymin  Stealin Official Video](https://www.youtube.com/watch?v=U7M7d8u40I4)
+- [Beastie Boys - Shes Crafty Official Music Video](https://www.youtube.com/watch?v=erD0nCFA75g)
+- [Beastie Boys License to ill HD](https://www.youtube.com/watch?v=-6LwHObggvo)
 - [Beastie Boys - The New Style Licensed To Ill With Lyrics](https://www.youtube.com/watch?v=iBVdVjPVAuU)
-- [Beastie Boys: Licensed to Ill | VHS Capture](https://www.youtube.com/watch?v=T16KPB-idgU)
+- [Beastie Boys Licensed to Ill  VHS Capture](https://www.youtube.com/watch?v=T16KPB-idgU)
 
 ## Release Images
 {{< imageGrid >}}

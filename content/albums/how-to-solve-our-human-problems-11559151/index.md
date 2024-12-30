@@ -78,9 +78,9 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 {{< youtube id="qlAfus-n9-U" title="Belle and Sebastian - We Were Beautiful" >}}<br>
 ### More Videos
 
-- [Belle and Sebastian - I'll Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
+- [Belle and Sebastian - Ill Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
 - [Belle and Sebastian - We Were Beautiful](https://www.youtube.com/watch?v=qlAfus-n9-U)
-- [Belle and Sebastian - I'll Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
+- [Belle and Sebastian - Ill Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
 
 ## Release Images
 {{< imageGrid >}}

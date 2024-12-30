@@ -66,7 +66,7 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 {{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}<br>
 ### More Videos
 
-- [The Soundtrack Of Our Lives - Instant Repeater '99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
+- [The Soundtrack Of Our Lives - Instant Repeater 99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
 - [The Soundtrack of Our Lives - Bendover Babies](https://www.youtube.com/watch?v=cSP1cwPLy7M)
 
 ## Release Images

@@ -47,8 +47,8 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 
 
 ## Videos
-### Genesis - Abacab (Official Music Video)
-{{< youtube id="suCNZe3Gwkw" title="Genesis - Abacab (Official Music Video)" >}}<br>
+### Genesis - Abacab Official Music Video
+{{< youtube id="suCNZe3Gwkw" title="Genesis - Abacab Official Music Video" >}}<br>
 
 
 ## Release Images

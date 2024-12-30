@@ -50,12 +50,12 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 {{< youtube id="XLhxF-Un39k" title="Heart - Even It Up" >}}<br>
 ### More Videos
 
-- [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
+- [Im Down  Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
 - [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
 - [Heart - Even It Up](https://www.youtube.com/watch?v=XLhxF-Un39k)
-- [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
+- [Im Down  Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
 - [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
-- [Rock and Roll (Live)](https://www.youtube.com/watch?v=U3ozO5pMu6c)
+- [Rock and Roll Live](https://www.youtube.com/watch?v=U3ozO5pMu6c)
 - [Straight On](https://www.youtube.com/watch?v=wbDLnhcR7Ng)
 
 ## Release Images

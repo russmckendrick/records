@@ -57,10 +57,10 @@ The success of this album was a pleasant surprise for the band. After the commer
 - [I Collect Coins](https://www.youtube.com/watch?v=OG5qHUDn-ck)
 - [Opus 40](https://www.youtube.com/watch?v=HJ_WzV38t3A)
 - [Hudson Line](https://www.youtube.com/watch?v=9jPw4lleFno)
-- [The Happy End (The Drunk Room)](https://www.youtube.com/watch?v=t7GheV0j2XE)
+- [The Happy End The Drunk Room](https://www.youtube.com/watch?v=t7GheV0j2XE)
 - [Goddess on a Hiway](https://www.youtube.com/watch?v=V4H5AA1MNKU)
 - [The Funny Bird](https://www.youtube.com/watch?v=SFWHQmgmW8E)
-- [Pick Up If You're There](https://www.youtube.com/watch?v=FLCfMxO60N8)
+- [Pick Up If Youre There](https://www.youtube.com/watch?v=FLCfMxO60N8)
 - [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 
 ## Release Images

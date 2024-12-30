@@ -54,14 +54,14 @@ She’d grown up with classical piano and jazz standards—worlds where technica
 
 
 ## Videos
-### Fiona Apple - Criminal (Official Video)
-{{< youtube id="FFOzayDpWoI" title="Fiona Apple - Criminal (Official Video)" >}}<br>
+### Fiona Apple - Criminal Official Video
+{{< youtube id="FFOzayDpWoI" title="Fiona Apple - Criminal Official Video" >}}<br>
 ### More Videos
 
-- [Fiona Apple - Shadowboxer (Official Video)](https://www.youtube.com/watch?v=QnXjISlKLuE)
-- [Fiona Apple - Sleep to Dream (Official Video)](https://www.youtube.com/watch?v=L9Wnh0V4HMM)
-- [Fiona Apple - Never Is a Promise (Official Video)](https://www.youtube.com/watch?v=c5XptSCCciU)
-- [Fiona Apple - Tidal (Full Album)](https://www.youtube.com/watch?v=ogZAA3GpTzA)
+- [Fiona Apple - Shadowboxer Official Video](https://www.youtube.com/watch?v=QnXjISlKLuE)
+- [Fiona Apple - Sleep to Dream Official Video](https://www.youtube.com/watch?v=L9Wnh0V4HMM)
+- [Fiona Apple - Never Is a Promise Official Video](https://www.youtube.com/watch?v=c5XptSCCciU)
+- [Fiona Apple - Tidal Full Album](https://www.youtube.com/watch?v=ogZAA3GpTzA)
 
 ## Release Images
 {{< imageGrid >}}

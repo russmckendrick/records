@@ -52,8 +52,8 @@ styles: ["Pop Rock", "Soft Rock"]
 
 
 ## Videos
-### It's Not Too Late
-{{< youtube id="t9K6LGai3n0" title="It's Not Too Late" >}}<br>
+### Its Not Too Late
+{{< youtube id="t9K6LGai3n0" title="Its Not Too Late" >}}<br>
 ### More Videos
 
 - [Under the Moonlight](https://www.youtube.com/watch?v=-WCTTUZXG9s)
@@ -63,7 +63,7 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Wild Situation](https://www.youtube.com/watch?v=WFBhXgbMBmo)
 - [Common](https://www.youtube.com/watch?v=kiugWoMl6qQ)
 - [Are You Real](https://www.youtube.com/watch?v=wJenDFA5r7Q)
-- [He's a Bum](https://www.youtube.com/watch?v=Nd2cSVFGG-8)
+- [Hes a Bum](https://www.youtube.com/watch?v=Nd2cSVFGG-8)
 - [Cocktails](https://www.youtube.com/watch?v=hed-71y5eTo)
 - [I Love You](https://www.youtube.com/watch?v=ov1ude7rmkU)
 - [Constant Companion](https://www.youtube.com/watch?v=FbGhAwbAAbs)
@@ -71,8 +71,8 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Album Tag Song](https://www.youtube.com/watch?v=HMoyY_08JvI)
 - [All Alone](https://www.youtube.com/watch?v=VC5v5kXgYl0)
 - [Piano Variations On Thoughts of You](https://www.youtube.com/watch?v=iL3vtS7Mfj8)
-- [Dennis Wilson | Unreleased 1978 Solo Album](https://www.youtube.com/watch?v=-G3uRm2-HaM)
-- [It's Not Too Late](https://www.youtube.com/watch?v=t9K6LGai3n0)
+- [Dennis Wilson  Unreleased 1978 Solo Album](https://www.youtube.com/watch?v=-G3uRm2-HaM)
+- [Its Not Too Late](https://www.youtube.com/watch?v=t9K6LGai3n0)
 - [Under the Moonlight](https://www.youtube.com/watch?v=-WCTTUZXG9s)
 - [School Girl](https://www.youtube.com/watch?v=d8JZuUsYmVE)
 - [Love Remember Me](https://www.youtube.com/watch?v=am35689AWpk)
@@ -80,7 +80,7 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Wild Situation](https://www.youtube.com/watch?v=WFBhXgbMBmo)
 - [Common](https://www.youtube.com/watch?v=kiugWoMl6qQ)
 - [Are You Real](https://www.youtube.com/watch?v=wJenDFA5r7Q)
-- [He's a Bum](https://www.youtube.com/watch?v=Nd2cSVFGG-8)
+- [Hes a Bum](https://www.youtube.com/watch?v=Nd2cSVFGG-8)
 - [Cocktails](https://www.youtube.com/watch?v=hed-71y5eTo)
 - [I Love You](https://www.youtube.com/watch?v=ov1ude7rmkU)
 - [Constant Companion](https://www.youtube.com/watch?v=FbGhAwbAAbs)
@@ -88,7 +88,7 @@ styles: ["Pop Rock", "Soft Rock"]
 - [Album Tag Song](https://www.youtube.com/watch?v=HMoyY_08JvI)
 - [All Alone](https://www.youtube.com/watch?v=VC5v5kXgYl0)
 - [Piano Variations On Thoughts of You](https://www.youtube.com/watch?v=iL3vtS7Mfj8)
-- [Dennis Wilson | Unreleased 1978 Solo Album](https://www.youtube.com/watch?v=-G3uRm2-HaM)
+- [Dennis Wilson  Unreleased 1978 Solo Album](https://www.youtube.com/watch?v=-G3uRm2-HaM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -81,11 +81,11 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 
 
 ## Videos
-### R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)
-{{< youtube id="B9S1nojrxCg" title="R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)" >}}<br>
+### Requiem for a Dream 2000 Soundtrack Full Vinyl Rip
+{{< youtube id="B9S1nojrxCg" title="Requiem for a Dream 2000 Soundtrack Full Vinyl Rip" >}}<br>
 ### More Videos
 
-- [R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)](https://www.youtube.com/watch?v=B9S1nojrxCg)
+- [Requiem for a Dream 2000 Soundtrack Full Vinyl Rip](https://www.youtube.com/watch?v=B9S1nojrxCg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -42,8 +42,8 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 
 
 ## Videos
-### Roachford - Family Man (1988) ♫
-{{< youtube id="LfpGkPbizk4" title="Roachford - Family Man (1988) ♫" >}}<br>
+### Roachford - Family Man 1988 
+{{< youtube id="LfpGkPbizk4" title="Roachford - Family Man 1988 " >}}<br>
 ### More Videos
 
 - [Roachford Cuddly Toy Original Video](https://www.youtube.com/watch?v=gZvpVYm2kxI)

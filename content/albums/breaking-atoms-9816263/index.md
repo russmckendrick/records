@@ -70,22 +70,22 @@ The album has been widely regarded by writers and music critics as a significant
 {{< youtube id="vNaSVqtD-vE" title="Snake Eyes" >}}<br>
 ### More Videos
 
-- [Just Hangin' Out](https://www.youtube.com/watch?v=Z1sOjycg6cY)
+- [Just Hangin Out](https://www.youtube.com/watch?v=Z1sOjycg6cY)
 - [Looking At The Front Door](https://www.youtube.com/watch?v=DykoaS5kaBI)
 - [Large Professor](https://www.youtube.com/watch?v=tXw3HwnwQDU)
 - [Main Source   Just A Friendly Game Of Baseball](https://www.youtube.com/watch?v=pFVpeaJLN4A)
-- [Scratch & Kut](https://www.youtube.com/watch?v=lcM9ELWQY9I)
+- [Scratch  Kut](https://www.youtube.com/watch?v=lcM9ELWQY9I)
 - [Peace Is Not The Word To Play](https://www.youtube.com/watch?v=NOUKIisMF5w)
 - [Vamos a Rapiar](https://www.youtube.com/watch?v=EPaf8Dy_hng)
-- [He Got So Much Soul (He Don't Need No Music)](https://www.youtube.com/watch?v=1xnO-bR9tsc)
-- [Main Source - Live at the Barbeque (feat.  Nas, Joe Fatal, Akinyele)](https://www.youtube.com/watch?v=XmCWfJAPwbA)
+- [He Got So Much Soul He Dont Need No Music](https://www.youtube.com/watch?v=1xnO-bR9tsc)
+- [Main Source - Live at the Barbeque feat  Nas Joe Fatal Akinyele](https://www.youtube.com/watch?v=XmCWfJAPwbA)
 - [Watch Roger Do His Thing](https://www.youtube.com/watch?v=uLGgIHsh78s)
-- [Nas & Main Source - Live at the BBQ *Rock the Bells 2011* (Governors Island, NY 09/03/11)](https://www.youtube.com/watch?v=W-rv0dGeXAg)
-- [Main Source - Looking At The Front Door (HD)](https://www.youtube.com/watch?v=RNRCQ9eagWQ)
-- [Main Source-Peace is not the word to play [video remix] (1991)](https://www.youtube.com/watch?v=2ziQq3iPr2o)
-- [Main Source   Just Hangin' Out](https://www.youtube.com/watch?v=cDz29sva4FM)
-- [Main Source - Watch Roger Do His Thing (1990)](https://www.youtube.com/watch?v=6NMWew-oQbw)
-- [Main Source - Breaking Atoms [Full Album] 1991](https://www.youtube.com/watch?v=TPtna3lDlvo)
+- [Nas  Main Source - Live at the BBQ Rock the Bells 2011 Governors Island NY 090311](https://www.youtube.com/watch?v=W-rv0dGeXAg)
+- [Main Source - Looking At The Front Door HD](https://www.youtube.com/watch?v=RNRCQ9eagWQ)
+- [Main Source-Peace is not the word to play video remix 1991](https://www.youtube.com/watch?v=2ziQq3iPr2o)
+- [Main Source   Just Hangin Out](https://www.youtube.com/watch?v=cDz29sva4FM)
+- [Main Source - Watch Roger Do His Thing 1990](https://www.youtube.com/watch?v=6NMWew-oQbw)
+- [Main Source - Breaking Atoms Full Album 1991](https://www.youtube.com/watch?v=TPtna3lDlvo)
 
 ## Release Images
 {{< imageGrid >}}

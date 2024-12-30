@@ -50,9 +50,9 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 {{< youtube id="17WFONMvfU4" title="JON AND VANGELIS__SHORT STORIES 1979 FULL ALBUM" >}}<br>
 ### More Videos
 
-- [𝐉̲𝐨̲𝐧̲ ̲𝐚̲𝐧̲𝐝̲ ̲𝐕̲𝐚̲𝐧̲𝐠̲𝐞̲𝐥̲𝐢̲𝐬̲ ̲ ̲ ̲𝐒̲𝐡̲𝐨̲𝐫̲𝐭̲ ̲𝐒̲𝐭̲𝐨̲𝐫̲𝐢̲𝐞̲𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
+- [𝐉𝐨𝐧 𝐚𝐧𝐝 𝐕𝐚𝐧𝐠𝐞𝐥𝐢𝐬   𝐒𝐡𝐨𝐫𝐭 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
 - [JON AND VANGELIS__SHORT STORIES 1979 FULL ALBUM](https://www.youtube.com/watch?v=17WFONMvfU4)
-- [𝐉̲𝐨̲𝐧̲ ̲𝐚̲𝐧̲𝐝̲ ̲𝐕̲𝐚̲𝐧̲𝐠̲𝐞̲𝐥̲𝐢̲𝐬̲ ̲ ̲ ̲𝐒̲𝐡̲𝐨̲𝐫̲𝐭̲ ̲𝐒̲𝐭̲𝐨̲𝐫̲𝐢̲𝐞̲𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
+- [𝐉𝐨𝐧 𝐚𝐧𝐝 𝐕𝐚𝐧𝐠𝐞𝐥𝐢𝐬   𝐒𝐡𝐨𝐫𝐭 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
 
 ## Release Images
 {{< imageGrid >}}

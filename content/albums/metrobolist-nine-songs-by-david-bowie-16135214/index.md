@@ -39,18 +39,18 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 
 
 ## Videos
-### David Bowie - The Man Who Sold The World [2020 Mix] [Official Lyric Video]
-{{< youtube id="u3MX-rUtS6M" title="David Bowie - The Man Who Sold The World [2020 Mix] [Official Lyric Video]" >}}<br>
+### David Bowie - The Man Who Sold The World 2020 Mix Official Lyric Video
+{{< youtube id="u3MX-rUtS6M" title="David Bowie - The Man Who Sold The World 2020 Mix Official Lyric Video" >}}<br>
 ### More Videos
 
-- [The Supermen (2015 Remaster)](https://www.youtube.com/watch?v=t0871DYyHSE)
-- [All the Madmen (2015 Remaster)](https://www.youtube.com/watch?v=KrlvgARHdzc)
-- [After All (2015 Remaster)](https://www.youtube.com/watch?v=OXewmtDGQFQ)
-- [Black Country Rock (2015 Remaster)](https://www.youtube.com/watch?v=-c4Gj7XbrRQ)
-- [The Width of a Circle (2015 Remaster)](https://www.youtube.com/watch?v=pnRNAIQAc50)
-- [She Shook Me Cold (2015 Remaster)](https://www.youtube.com/watch?v=u08RG6HYaO4)
-- [Saviour Machine (2015 Remaster)](https://www.youtube.com/watch?v=ZBO0gf27sl8)
-- [Running Gun Blues (2015 Remaster)](https://www.youtube.com/watch?v=WM74wALZJjk)
+- [The Supermen 2015 Remaster](https://www.youtube.com/watch?v=t0871DYyHSE)
+- [All the Madmen 2015 Remaster](https://www.youtube.com/watch?v=KrlvgARHdzc)
+- [After All 2015 Remaster](https://www.youtube.com/watch?v=OXewmtDGQFQ)
+- [Black Country Rock 2015 Remaster](https://www.youtube.com/watch?v=-c4Gj7XbrRQ)
+- [The Width of a Circle 2015 Remaster](https://www.youtube.com/watch?v=pnRNAIQAc50)
+- [She Shook Me Cold 2015 Remaster](https://www.youtube.com/watch?v=u08RG6HYaO4)
+- [Saviour Machine 2015 Remaster](https://www.youtube.com/watch?v=ZBO0gf27sl8)
+- [Running Gun Blues 2015 Remaster](https://www.youtube.com/watch?v=WM74wALZJjk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -38,12 +38,12 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 
 
 ## Videos
-### Ceremony (Version 1) (2016 Remaster)
-{{< youtube id="hbgQOeKDcMw" title="Ceremony (Version 1) (2016 Remaster)" >}}<br>
+### Ceremony Version 1 2016 Remaster
+{{< youtube id="hbgQOeKDcMw" title="Ceremony Version 1 2016 Remaster" >}}<br>
 ### More Videos
 
 - [In a Lonely Place](https://www.youtube.com/watch?v=I3qPo5ys_J4)
-- [New Order - Ceremony (Live in New York City 1981)](https://www.youtube.com/watch?v=tOuvg68oQPo)
+- [New Order - Ceremony Live in New York City 1981](https://www.youtube.com/watch?v=tOuvg68oQPo)
 - [Ceremony](https://www.youtube.com/watch?v=kkASIx9Xk6s)
 
 ## Release Images

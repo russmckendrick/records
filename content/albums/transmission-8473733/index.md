@@ -65,7 +65,7 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 - [Death In Vegas - Transmission - 2016](https://www.youtube.com/watch?v=haWYnLWl2zw)
 - [Death In Vegas - Arise - 2016](https://www.youtube.com/watch?v=rPmHbb96t28)
 - [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)
-- [DEATH IN VEGAS 'TRANSMISSION'](https://www.youtube.com/watch?v=pY8W241L9x0)
+- [DEATH IN VEGAS TRANSMISSION](https://www.youtube.com/watch?v=pY8W241L9x0)
 
 ## Release Images
 {{< imageGrid >}}

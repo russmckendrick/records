@@ -68,7 +68,7 @@ Nightsongs is the first album by Canadian indie rock band Stars, released in 200
 {{< youtube id="wXEFA2z5hpk" title="Stars - Counting Stars on the Ceiling" >}}<br>
 ### More Videos
 
-- [Stars - My Radio (FM Mix)](https://www.youtube.com/watch?v=KXc1ZlWNXlI)
+- [Stars - My Radio FM Mix](https://www.youtube.com/watch?v=KXc1ZlWNXlI)
 
 ## Release Images
 {{< imageGrid >}}

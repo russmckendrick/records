@@ -50,12 +50,12 @@ Musically Rings Around the World is an eclectic record incorporating pop, prog, 
 
 
 ## Videos
-### Super Furry Animals - (Drawing) Rings Around the World (Official Video)
-{{< youtube id="GcqGRE_fGlQ" title="Super Furry Animals - (Drawing) Rings Around the World (Official Video)" >}}<br>
+### Super Furry Animals - Drawing Rings Around the World Official Video
+{{< youtube id="GcqGRE_fGlQ" title="Super Furry Animals - Drawing Rings Around the World Official Video" >}}<br>
 ### More Videos
 
-- [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
-- [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
+- [Super Furry Animals - Drawing Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
+- [Super Furry Animals - Drawing Rings Around the World Video DPD](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
 ## Release Images
 {{< imageGrid >}}

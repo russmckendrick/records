@@ -51,12 +51,12 @@ styles: ["Alternative Rock", "Grunge"]
 {{< youtube id="xmUZ6nCFNoU" title="The Smashing Pumpkins - Today" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins - 1979 (Official Music Video)](https://www.youtube.com/watch?v=4aeETEoNfOg)
+- [The Smashing Pumpkins - 1979 Official Music Video](https://www.youtube.com/watch?v=4aeETEoNfOg)
 - [The Smashing Pumpkins - Bullet With Butterfly Wings](https://www.youtube.com/watch?v=8-r-V0uK4u0)
-- [The Smashing Pumpkins - Zero (Official Music Video)](https://www.youtube.com/watch?v=3wk7C64kaP4)
-- [The Smashing Pumpkins - Siva (Official Music Video)](https://www.youtube.com/watch?v=F3wAtWywrP4)
+- [The Smashing Pumpkins - Zero Official Music Video](https://www.youtube.com/watch?v=3wk7C64kaP4)
+- [The Smashing Pumpkins - Siva Official Music Video](https://www.youtube.com/watch?v=F3wAtWywrP4)
 - [Smashing Pumpkins - Siva](https://www.youtube.com/watch?v=-ZHnUuwvA8w)
-- [Landslide (Remastered)](https://www.youtube.com/watch?v=eYYx722ZYrs)
+- [Landslide Remastered](https://www.youtube.com/watch?v=eYYx722ZYrs)
 
 ## Release Images
 {{< imageGrid >}}

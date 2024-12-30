@@ -36,9 +36,9 @@ styles: ["Shoegaze", "Indie Rock"]
 ### More Videos
 
 - [Chapterhouse Precious One](https://www.youtube.com/watch?v=ulC6MFx2mAM)
-- [Chapterhouse - Mesmerise (Remix)](https://www.youtube.com/watch?v=USVFDiAYveM)
-- [Chapterhouse - Precious One (remix)](https://www.youtube.com/watch?v=DwwaIT5K6mI)
-- [Chapterhouse - Mesmerise (Video)](https://www.youtube.com/watch?v=Ecm0BVOt62A)
+- [Chapterhouse - Mesmerise Remix](https://www.youtube.com/watch?v=USVFDiAYveM)
+- [Chapterhouse - Precious One remix](https://www.youtube.com/watch?v=DwwaIT5K6mI)
+- [Chapterhouse - Mesmerise Video](https://www.youtube.com/watch?v=Ecm0BVOt62A)
 
 ## Release Images
 {{< imageGrid >}}

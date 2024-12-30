@@ -43,20 +43,20 @@ Chronology is a part of periodization. It is also a part of the discipline of hi
 
 
 ## Videos
-### Chronology, Pt. 1 (Remastered)
-{{< youtube id="C-G8FU6rvv0" title="Chronology, Pt. 1 (Remastered)" >}}<br>
+### Chronology Pt 1 Remastered
+{{< youtube id="C-G8FU6rvv0" title="Chronology Pt 1 Remastered" >}}<br>
 ### More Videos
 
-- [Chronology, Pt. 2 (Remastered)](https://www.youtube.com/watch?v=yqYkZ1etjnY)
-- [Chronology, Pt. 3 (Remastered)](https://www.youtube.com/watch?v=cP9RDCrU6c4)
-- [Jean-Michel Jarre - Chronology, Pt. 4](https://www.youtube.com/watch?v=Eqilin4Cv08)
-- [Chronology, Pt. 5 (Remastered)](https://www.youtube.com/watch?v=9QiPuMR9ZCQ)
-- [Chronology, Pt. 6 (Remastered)](https://www.youtube.com/watch?v=7KaJbAXG6A8)
-- [Chronology, Pt. 8 (Remastered)](https://www.youtube.com/watch?v=V9EDK0liz8A)
-- [𝕵𝖊𝖆𝖓-𝕸𝖎𝖈𝖍𝖊𝖑 𝕵𝖆𝖗𝖗𝖊 - 𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖎𝖊 / 𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖞 (1993)](https://www.youtube.com/watch?v=G4pDBeGI4A4)
-- [Jean Michel Jarre - Chronologie - Part 4, (Original Special Extended Version).](https://www.youtube.com/watch?v=m6fhjLYs_pQ)
-- [Jean-Michel Jarre  - Chronologie 4 (Energy Mix) by McV](https://www.youtube.com/watch?v=PAp1KiKHo9g)
-- [Jean Michel Jarre - Chronologie (Full Album)](https://www.youtube.com/watch?v=nilXKnhny14)
+- [Chronology Pt 2 Remastered](https://www.youtube.com/watch?v=yqYkZ1etjnY)
+- [Chronology Pt 3 Remastered](https://www.youtube.com/watch?v=cP9RDCrU6c4)
+- [Jean-Michel Jarre - Chronology Pt 4](https://www.youtube.com/watch?v=Eqilin4Cv08)
+- [Chronology Pt 5 Remastered](https://www.youtube.com/watch?v=9QiPuMR9ZCQ)
+- [Chronology Pt 6 Remastered](https://www.youtube.com/watch?v=7KaJbAXG6A8)
+- [Chronology Pt 8 Remastered](https://www.youtube.com/watch?v=V9EDK0liz8A)
+- [𝕵𝖊𝖆𝖓-𝕸𝖎𝖈𝖍𝖊𝖑 𝕵𝖆𝖗𝖗𝖊 - 𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖎𝖊  𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖞 1993](https://www.youtube.com/watch?v=G4pDBeGI4A4)
+- [Jean Michel Jarre - Chronologie - Part 4 Original Special Extended Version](https://www.youtube.com/watch?v=m6fhjLYs_pQ)
+- [Jean-Michel Jarre  - Chronologie 4 Energy Mix by McV](https://www.youtube.com/watch?v=PAp1KiKHo9g)
+- [Jean Michel Jarre - Chronologie Full Album](https://www.youtube.com/watch?v=nilXKnhny14)
 
 ## Release Images
 {{< imageGrid >}}

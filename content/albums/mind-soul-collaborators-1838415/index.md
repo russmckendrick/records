@@ -36,14 +36,14 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 
 
 ## Videos
-### Back to the Planet   "Sleepless Nights"
-{{< youtube id="aDdBekh_jhA" title="Back to the Planet   "Sleepless Nights"" >}}<br>
+### Back to the Planet   Sleepless Nights
+{{< youtube id="aDdBekh_jhA" title="Back to the Planet   Sleepless Nights" >}}<br>
 ### More Videos
 
-- [Back to the Planet Sleepless Nights and Reprise.](https://www.youtube.com/watch?v=lNSEV-_tJh0)
-- [Back to the Planet   "Sleepless Nights"](https://www.youtube.com/watch?v=aDdBekh_jhA)
-- [Back to the Planet Sleepless Nights and Reprise.](https://www.youtube.com/watch?v=lNSEV-_tJh0)
-- [Back to the planet - Daydream (Orbital Remix)](https://www.youtube.com/watch?v=suNsAIWYIL8)
+- [Back to the Planet Sleepless Nights and Reprise](https://www.youtube.com/watch?v=lNSEV-_tJh0)
+- [Back to the Planet   Sleepless Nights](https://www.youtube.com/watch?v=aDdBekh_jhA)
+- [Back to the Planet Sleepless Nights and Reprise](https://www.youtube.com/watch?v=lNSEV-_tJh0)
+- [Back to the planet - Daydream Orbital Remix](https://www.youtube.com/watch?v=suNsAIWYIL8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -52,12 +52,12 @@ The Scots’ mastery of warm-souled alt-rock continues on their 11th album. Afte
 
 
 ## Videos
-### Teenage Fanclub - I'm In Love
-{{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - I'm In Love" >}}<br>
+### Teenage Fanclub - Im In Love
+{{< youtube id="FDOLKSp2AWU" title="Teenage Fanclub - Im In Love" >}}<br>
 ### More Videos
 
 - [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
-- [Teenage Fanclub - I'm In Love](https://www.youtube.com/watch?v=FDOLKSp2AWU)
+- [Teenage Fanclub - Im In Love](https://www.youtube.com/watch?v=FDOLKSp2AWU)
 - [Teenage Fanclub - Thin Air](https://www.youtube.com/watch?v=wjAl8jqdMjg)
 
 ## Release Images

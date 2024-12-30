@@ -67,7 +67,7 @@ Upon release, the song did not find commercial success, but in later years it ha
 {{< youtube id="WnXbsTZQX3g" title="Why Do We Stay - Lonely Robot" >}}<br>
 ### More Videos
 
-- [Lonely Robot - "A Godless Sea"](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
+- [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
 - [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
 ## Release Images

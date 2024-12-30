@@ -52,8 +52,8 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
 - [THE WEDDING PRESENT - GRANADALAND](https://www.youtube.com/watch?v=XfAn-bo_2pA)
-- [What Have I Said Now?](https://www.youtube.com/watch?v=BTHl_JYqWpE)
-- [What Have I Said Now?](https://www.youtube.com/watch?v=l-66q31s1Uw)
+- [What Have I Said Now](https://www.youtube.com/watch?v=BTHl_JYqWpE)
+- [What Have I Said Now](https://www.youtube.com/watch?v=l-66q31s1Uw)
 - [Bewitched](https://www.youtube.com/watch?v=yJhcnWIrF7I)
 - [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
 - [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)

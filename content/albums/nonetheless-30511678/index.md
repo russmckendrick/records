@@ -44,8 +44,8 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 
 
 ## Videos
-### Pet Shop Boys - All the young dudes (Official Audio)
-{{< youtube id="PlMddhZaLGQ" title="Pet Shop Boys - All the young dudes (Official Audio)" >}}<br>
+### Pet Shop Boys - All the young dudes Official Audio
+{{< youtube id="PlMddhZaLGQ" title="Pet Shop Boys - All the young dudes Official Audio" >}}<br>
 ### More Videos
 
 - [Adrenaline](https://www.youtube.com/watch?v=akisAW0QMPo)

@@ -65,8 +65,8 @@ Star Trek II: The Wrath of Khan is a 1982 science fiction film directed by Nicho
 
 
 ## Videos
-### Star Trek II: The Wrath of Khan • Main Theme • James Horner
-{{< youtube id="aICzV6QS9wA" title="Star Trek II: The Wrath of Khan • Main Theme • James Horner" >}}<br>
+### Star Trek II The Wrath of Khan  Main Theme  James Horner
+{{< youtube id="aICzV6QS9wA" title="Star Trek II The Wrath of Khan  Main Theme  James Horner" >}}<br>
 
 
 ## Release Images

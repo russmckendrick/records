@@ -42,8 +42,8 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Maggie Bell - Queen Of The Night (1974) [ Complete LP]
-{{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night (1974) [ Complete LP]" >}}<br>
+### Maggie Bell - Queen Of The Night 1974  Complete LP
+{{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night 1974  Complete LP" >}}<br>
 ### More Videos
 
 - [Caddo Queen](https://www.youtube.com/watch?v=V3Szcng_RYc)
@@ -52,11 +52,11 @@ styles: ["Blues Rock"]
 - [After Midnight](https://www.youtube.com/watch?v=XVlx5ylcc4M)
 - [Queen of the Night](https://www.youtube.com/watch?v=JTx511DLV50)
 - [Oh My My](https://www.youtube.com/watch?v=ookPEnsm5d8)
-- [MAGGIE BELL As The Years Go Passing By (1974)](https://www.youtube.com/watch?v=CcGWyYyJha4)
-- [Yesterday's Music](https://www.youtube.com/watch?v=VvveJRu8Lmo)
+- [MAGGIE BELL As The Years Go Passing By 1974](https://www.youtube.com/watch?v=CcGWyYyJha4)
+- [Yesterdays Music](https://www.youtube.com/watch?v=VvveJRu8Lmo)
 - [Maggie Bell - We Had It All](https://www.youtube.com/watch?v=h2dx5rvxF2g)
 - [The Other Side](https://www.youtube.com/watch?v=3rNrG-AI-pI)
-- [Maggie Bell –  Trade Winds](https://www.youtube.com/watch?v=7y-TPe8-eTI)
+- [Maggie Bell   Trade Winds](https://www.youtube.com/watch?v=7y-TPe8-eTI)
 
 ## Release Images
 {{< imageGrid >}}

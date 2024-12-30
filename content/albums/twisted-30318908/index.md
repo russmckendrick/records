@@ -55,13 +55,13 @@ The album included Del Amitri's most successful single, "Roll to Me", which reac
 
 
 ## Videos
-### Del Amitri, "Driving with the Brakes On"
-{{< youtube id="1nqozqUVKBo" title="Del Amitri, "Driving with the Brakes On"" >}}<br>
+### Del Amitri Driving with the Brakes On
+{{< youtube id="1nqozqUVKBo" title="Del Amitri Driving with the Brakes On" >}}<br>
 ### More Videos
 
-- [Del Amitri, "Here and Now"](https://www.youtube.com/watch?v=HN7moeJp860)
+- [Del Amitri Here and Now](https://www.youtube.com/watch?v=HN7moeJp860)
 - [Del Amitri - It Might As Well Be You](https://www.youtube.com/watch?v=0u7G8Y-zSNQ)
-- [Del Amitri, "Tell Her This"](https://www.youtube.com/watch?v=p5iaoGOPSvg)
+- [Del Amitri Tell Her This](https://www.youtube.com/watch?v=p5iaoGOPSvg)
 - [Roll To Me](https://www.youtube.com/watch?v=rVLjFfNAo7Y)
 - [One Thing Left To Do](https://www.youtube.com/watch?v=jQk7mqw43zg)
 - [Being Somebody Else](https://www.youtube.com/watch?v=KwedTiM2WnI)

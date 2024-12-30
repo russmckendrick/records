@@ -55,8 +55,8 @@ The band toured extensively to support the record, performing to over 1.7 millio
 ### More Videos
 
 - [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
-- [Roxette - Joyride (Official Video) [Remastered]](https://www.youtube.com/watch?v=1I3ebe7ykGI)
-- [Roxette - (Do You Get) Excited?](https://www.youtube.com/watch?v=5U_P-HR8J5w)
+- [Roxette - Joyride Official Video Remastered](https://www.youtube.com/watch?v=1I3ebe7ykGI)
+- [Roxette - Do You Get Excited](https://www.youtube.com/watch?v=5U_P-HR8J5w)
 
 ## Release Images
 {{< imageGrid >}}

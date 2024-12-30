@@ -40,11 +40,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Abel Ganz : One Small Soul
-{{< youtube id="81h_ZOnPxrY" title="Abel Ganz : One Small Soul" >}}<br>
+### Abel Ganz  One Small Soul
+{{< youtube id="81h_ZOnPxrY" title="Abel Ganz  One Small Soul" >}}<br>
 ### More Videos
 
-- [Abel Ganz : Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
+- [Abel Ganz  Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
 - [The Life of the Honey Bee and Other Moments of Clarity](https://www.youtube.com/watch?v=DaPbXzlmuAM)
 - [The Light Shines Out](https://www.youtube.com/watch?v=rkwaM6GxqMc)
 - [Summerlong](https://www.youtube.com/watch?v=mLtykq7GvDo)

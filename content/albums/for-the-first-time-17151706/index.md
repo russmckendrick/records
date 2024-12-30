@@ -58,15 +58,15 @@ The album received widespread acclaim from music critics for its experimental so
 
 
 ## Videos
-### Black Country New Road - 'Instrumental' (Official Visualizer)
-{{< youtube id="95k_xxZvMIc" title="Black Country New Road - 'Instrumental' (Official Visualizer)" >}}<br>
+### Black Country New Road - Instrumental Official Visualizer
+{{< youtube id="95k_xxZvMIc" title="Black Country New Road - Instrumental Official Visualizer" >}}<br>
 ### More Videos
 
-- [Black Country New Road - 'Athens, France' (Official Lyric Video)](https://www.youtube.com/watch?v=xDcGl8tZhrs)
-- [Black Country, New Road - 'Science Fair' (Official Video)](https://www.youtube.com/watch?v=gXay__MuoGw)
-- [Black Country New Road - 'Sunglasses' (Official Lyric Video)](https://www.youtube.com/watch?v=7t-9rgpzU6A)
-- [Black Country, New Road - 'Track X' (Official Video)](https://www.youtube.com/watch?v=u3H8O8RJp3M)
-- [Black Country New Road - 'Opus' (Official Lyric Video)](https://www.youtube.com/watch?v=jkppJiPZJaw)
+- [Black Country New Road - Athens France Official Lyric Video](https://www.youtube.com/watch?v=xDcGl8tZhrs)
+- [Black Country New Road - Science Fair Official Video](https://www.youtube.com/watch?v=gXay__MuoGw)
+- [Black Country New Road - Sunglasses Official Lyric Video](https://www.youtube.com/watch?v=7t-9rgpzU6A)
+- [Black Country New Road - Track X Official Video](https://www.youtube.com/watch?v=u3H8O8RJp3M)
+- [Black Country New Road - Opus Official Lyric Video](https://www.youtube.com/watch?v=jkppJiPZJaw)
 
 ## Release Images
 {{< imageGrid >}}

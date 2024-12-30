@@ -52,16 +52,16 @@ A music video for their song "The Big Picture" was made, but the only member of 
 
 
 ## Videos
-### Y Kant Tori Read - Cool on Your Island (On Vinyl Record)
-{{< youtube id="hOc0IUWCav8" title="Y Kant Tori Read - Cool on Your Island (On Vinyl Record)" >}}<br>
+### Y Kant Tori Read - Cool on Your Island On Vinyl Record
+{{< youtube id="hOc0IUWCav8" title="Y Kant Tori Read - Cool on Your Island On Vinyl Record" >}}<br>
 ### More Videos
 
 - [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
 - [Y Kant Tori Read- Heart Attack at 23](https://www.youtube.com/watch?v=X-469tgMcmc)
-- [Y Kant Tori Read - Floating City (Music Video)](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
-- [Y Kant Tori Read - Cool On Your Island (Music Video)](https://www.youtube.com/watch?v=KSFpCrif26Q)
+- [Y Kant Tori Read - Floating City Music Video](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
+- [Y Kant Tori Read - Cool On Your Island Music Video](https://www.youtube.com/watch?v=KSFpCrif26Q)
 - [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
-- [Y Kant Tori Read - Cool on Your Island (On Vinyl Record)](https://www.youtube.com/watch?v=hOc0IUWCav8)
+- [Y Kant Tori Read - Cool on Your Island On Vinyl Record](https://www.youtube.com/watch?v=hOc0IUWCav8)
 - [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
 
 ## Release Images

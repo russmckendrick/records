@@ -119,8 +119,8 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 {{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
 ### More Videos
 
-- [Matt Berry - Gather Up (Ten Years On Acid Jazz)](https://www.youtube.com/watch?v=LhXrLO8oMLs)
-- [The Pheasant (Live)](https://www.youtube.com/watch?v=zMKikkZX4qQ)
+- [Matt Berry - Gather Up Ten Years On Acid Jazz](https://www.youtube.com/watch?v=LhXrLO8oMLs)
+- [The Pheasant Live](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
 ## Release Images
 {{< imageGrid >}}

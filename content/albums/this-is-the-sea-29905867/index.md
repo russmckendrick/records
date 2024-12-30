@@ -48,39 +48,39 @@ A remastered and expanded version was released in 2004. A complete box set of st
 
 
 ## Videos
-### The Waterboys_._This Is The Sea (1985)(Full Album)
-{{< youtube id="eIE-ln2vEF4" title="The Waterboys_._This Is The Sea (1985)(Full Album)" >}}<br>
+### The Waterboys__This Is The Sea 1985Full Album
+{{< youtube id="eIE-ln2vEF4" title="The Waterboys__This Is The Sea 1985Full Album" >}}<br>
 ### More Videos
 
-- [THE WATERBOYS, this is the sea,(FULL ALBUM)](https://www.youtube.com/watch?v=LZopSwzOytE)
-- [The Waterboys - this is the sea * 1985](https://www.youtube.com/watch?v=e8SG47pXCV0)
-- [The Waterboys - Don't Bang the Drum (with lyrics)](https://www.youtube.com/watch?v=Kfi6rSHSe0Y)
-- [Don't Bang the Drum (2004 Remaster)](https://www.youtube.com/watch?v=bGddwZe6e9w)
-- [The Waterboys - The Whole of the Moon [Official HD Remastered Video]](https://www.youtube.com/watch?v=sBW8Vnp8BzU)
-- [The Waterboys – The Whole of the Moon (Official Lyric Video)](https://www.youtube.com/watch?v=0eL-jEV_RKM)
-- [The Waterboys - The Whole Of The Moon (HQ)](https://www.youtube.com/watch?v=pu7AR0-FRro)
-- [Spirit (2004 Remaster)](https://www.youtube.com/watch?v=8awZoVxsx5k)
+- [THE WATERBOYS this is the seaFULL ALBUM](https://www.youtube.com/watch?v=LZopSwzOytE)
+- [The Waterboys - this is the sea  1985](https://www.youtube.com/watch?v=e8SG47pXCV0)
+- [The Waterboys - Dont Bang the Drum with lyrics](https://www.youtube.com/watch?v=Kfi6rSHSe0Y)
+- [Dont Bang the Drum 2004 Remaster](https://www.youtube.com/watch?v=bGddwZe6e9w)
+- [The Waterboys - The Whole of the Moon Official HD Remastered Video](https://www.youtube.com/watch?v=sBW8Vnp8BzU)
+- [The Waterboys  The Whole of the Moon Official Lyric Video](https://www.youtube.com/watch?v=0eL-jEV_RKM)
+- [The Waterboys - The Whole Of The Moon HQ](https://www.youtube.com/watch?v=pu7AR0-FRro)
+- [Spirit 2004 Remaster](https://www.youtube.com/watch?v=8awZoVxsx5k)
 - [The Waterboys - Spirit](https://www.youtube.com/watch?v=1eLWLAr5Zj0)
-- [The Waterboys - The Pan Within (with lyrics)](https://www.youtube.com/watch?v=mxGKnmgaYtI)
+- [The Waterboys - The Pan Within with lyrics](https://www.youtube.com/watch?v=mxGKnmgaYtI)
 - [The Pan Within - The Waterboys](https://www.youtube.com/watch?v=de6pcrAjmxM)
-- [The Waterboys - Medicine Bow (lyrics)](https://www.youtube.com/watch?v=e56AixvIP-E)
-- [Medicine Bow (2004 Remaster)](https://www.youtube.com/watch?v=GxBupzQ1LX8)
+- [The Waterboys - Medicine Bow lyrics](https://www.youtube.com/watch?v=e56AixvIP-E)
+- [Medicine Bow 2004 Remaster](https://www.youtube.com/watch?v=GxBupzQ1LX8)
 - [Waterboys - Old England](https://www.youtube.com/watch?v=V4CPezSV198)
 - [Old England The Waterboys](https://www.youtube.com/watch?v=mDsTTr3YrqU)
-- [The Waterboys - "Be My Enemy"](https://www.youtube.com/watch?v=PnjF4DQpwFw)
+- [The Waterboys - Be My Enemy](https://www.youtube.com/watch?v=PnjF4DQpwFw)
 - [The Waterboys - Be My Enemy](https://www.youtube.com/watch?v=lqbcz3CL4OI)
 - [THE WATERBOYS - TRUMPETS](https://www.youtube.com/watch?v=dgjuCsIbBRc)
-- [The Waterboys *Trumpets*](https://www.youtube.com/watch?v=s9y1M-T65mE)
+- [The Waterboys Trumpets](https://www.youtube.com/watch?v=s9y1M-T65mE)
 - [The Waterboys - This Is The Sea](https://www.youtube.com/watch?v=VAiOjxkCS0g)
-- [The Waterboys / This Is The Sea](https://www.youtube.com/watch?v=ajT2nk-8bms)
+- [The Waterboys  This Is The Sea](https://www.youtube.com/watch?v=ajT2nk-8bms)
 - [The Waterboys - Sleek white schooner](https://www.youtube.com/watch?v=XkEOWWgxxlc)
-- [High Far Soon (2004 Remaster)](https://www.youtube.com/watch?v=E2Vzi9jo7Jg)
-- [Even the Trees Are Dancing (2004 Remaster)](https://www.youtube.com/watch?v=FCRJ2GjZLKQ)
-- [Towers Open Fire (2004 Remaster)](https://www.youtube.com/watch?v=VTVZawaWZBU)
-- [Then You Hold Me (2004 Remaster)](https://www.youtube.com/watch?v=fCQCFt0FG84)
-- [Then You Hold Me ~ The Waterboys](https://www.youtube.com/watch?v=LChrx5olx7s)
-- [I Am Not Here (2004 Remaster)](https://www.youtube.com/watch?v=BszKd2HeLTA)
-- [The Waves (2004 Remaster)](https://www.youtube.com/watch?v=ToTKoga1Qco)
+- [High Far Soon 2004 Remaster](https://www.youtube.com/watch?v=E2Vzi9jo7Jg)
+- [Even the Trees Are Dancing 2004 Remaster](https://www.youtube.com/watch?v=FCRJ2GjZLKQ)
+- [Towers Open Fire 2004 Remaster](https://www.youtube.com/watch?v=VTVZawaWZBU)
+- [Then You Hold Me 2004 Remaster](https://www.youtube.com/watch?v=fCQCFt0FG84)
+- [Then You Hold Me  The Waterboys](https://www.youtube.com/watch?v=LChrx5olx7s)
+- [I Am Not Here 2004 Remaster](https://www.youtube.com/watch?v=BszKd2HeLTA)
+- [The Waves 2004 Remaster](https://www.youtube.com/watch?v=ToTKoga1Qco)
 
 ## Release Images
 {{< imageGrid >}}

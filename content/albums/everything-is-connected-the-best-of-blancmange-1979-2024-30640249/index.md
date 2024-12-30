@@ -49,13 +49,13 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Videos
-### That's Love, That Is Is
-{{< youtube id="Vxg_EtSFCAg" title="That's Love, That Is Is" >}}<br>
+### Thats Love That Is Is
+{{< youtube id="Vxg_EtSFCAg" title="Thats Love That Is Is" >}}<br>
 ### More Videos
 
-- [What's The Time?](https://www.youtube.com/watch?v=INiu3QreHDo)
-- [That's Love, That Is Is](https://www.youtube.com/watch?v=Vxg_EtSFCAg)
-- [What's The Time?](https://www.youtube.com/watch?v=INiu3QreHDo)
+- [Whats The Time](https://www.youtube.com/watch?v=INiu3QreHDo)
+- [Thats Love That Is Is](https://www.youtube.com/watch?v=Vxg_EtSFCAg)
+- [Whats The Time](https://www.youtube.com/watch?v=INiu3QreHDo)
 
 ## Release Images
 {{< imageGrid >}}

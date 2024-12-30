@@ -65,13 +65,13 @@ After a few years under the mighty wing of rapper Young Dolph, Key Glock is read
 
 
 ## Videos
-### YELLO 'You Better Hide' (Extract of Touch Yello)
-{{< youtube id="LZFKmePcasA" title="YELLO 'You Better Hide' (Extract of Touch Yello)" >}}<br>
+### YELLO You Better Hide Extract of Touch Yello
+{{< youtube id="LZFKmePcasA" title="YELLO You Better Hide Extract of Touch Yello" >}}<br>
 ### More Videos
 
-- [YELLO 'You Better Hide' (Extract of Touch Yello)](https://www.youtube.com/watch?v=LZFKmePcasA)
+- [YELLO You Better Hide Extract of Touch Yello](https://www.youtube.com/watch?v=LZFKmePcasA)
 - [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
-- [Takla Makan (Martin Roth Remix)](https://www.youtube.com/watch?v=LT5ftB3lMw8)
+- [Takla Makan Martin Roth Remix](https://www.youtube.com/watch?v=LT5ftB3lMw8)
 
 ## Release Images
 {{< imageGrid >}}

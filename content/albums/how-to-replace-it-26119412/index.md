@@ -51,15 +51,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### dEUS - How To Replace It (Official Video)
-{{< youtube id="nyyfPpm0tog" title="dEUS - How To Replace It (Official Video)" >}}<br>
+### dEUS - How To Replace It Official Video
+{{< youtube id="nyyfPpm0tog" title="dEUS - How To Replace It Official Video" >}}<br>
 ### More Videos
 
 - [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
-- [dEUS - Must Have Been New (Official Visualizer)](https://www.youtube.com/watch?v=SUCUO5k0MLg)
+- [dEUS - Must Have Been New Official Visualizer](https://www.youtube.com/watch?v=SUCUO5k0MLg)
 - [How To Replace It](https://www.youtube.com/watch?v=wzcg5SMJraM)
-- [dEUS - 1989 (Official Visualizer)](https://www.youtube.com/watch?v=Gx206aFD6Wg)
-- [dEUS - How To Replace It (Official Video)](https://www.youtube.com/watch?v=nyyfPpm0tog)
+- [dEUS - 1989 Official Visualizer](https://www.youtube.com/watch?v=Gx206aFD6Wg)
+- [dEUS - How To Replace It Official Video](https://www.youtube.com/watch?v=nyyfPpm0tog)
 - [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
 
 ## Release Images

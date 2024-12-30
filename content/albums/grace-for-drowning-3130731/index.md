@@ -58,13 +58,13 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 
 
 ## Videos
-### Grace For Drowning + Sectarian - Steven Wilson
-{{< youtube id="GYydWVIgYlA" title="Grace For Drowning + Sectarian - Steven Wilson" >}}<br>
+### Grace For Drowning  Sectarian - Steven Wilson
+{{< youtube id="GYydWVIgYlA" title="Grace For Drowning  Sectarian - Steven Wilson" >}}<br>
 ### More Videos
 
-- [Grace For Drowning + Sectarian - Steven Wilson](https://www.youtube.com/watch?v=GYydWVIgYlA)
-- [Steven Wilson - Grace For Drowning [Full Album]](https://www.youtube.com/watch?v=OFwLVakl0c8)
-- [Steven Wilson - Remainder the Black Dog (from Grace for Drowning)](https://www.youtube.com/watch?v=zjwPt1eNF9A)
+- [Grace For Drowning  Sectarian - Steven Wilson](https://www.youtube.com/watch?v=GYydWVIgYlA)
+- [Steven Wilson - Grace For Drowning Full Album](https://www.youtube.com/watch?v=OFwLVakl0c8)
+- [Steven Wilson - Remainder the Black Dog from Grace for Drowning](https://www.youtube.com/watch?v=zjwPt1eNF9A)
 - [Fluid Tap](https://www.youtube.com/watch?v=hu4fRs9vMDE)
 - [No Part of Me](https://www.youtube.com/watch?v=OuamS7_jrtY)
 - [Raider II](https://www.youtube.com/watch?v=5ru26kmc-1E)

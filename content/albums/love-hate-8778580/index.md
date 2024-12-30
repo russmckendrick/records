@@ -46,18 +46,18 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 
 
 ## Videos
-### Michael Kiwanuka - Cold Little Heart (Full Version)
-{{< youtube id="FGG5K1XLgkA" title="Michael Kiwanuka - Cold Little Heart (Full Version)" >}}<br>
+### Michael Kiwanuka - Cold Little Heart Full Version
+{{< youtube id="FGG5K1XLgkA" title="Michael Kiwanuka - Cold Little Heart Full Version" >}}<br>
 ### More Videos
 
 - [Black Man In A White World](https://www.youtube.com/watch?v=uFcFeZJN70w)
 - [Falling](https://www.youtube.com/watch?v=31fRP5GrNVs)
 - [Place I Belong](https://www.youtube.com/watch?v=aZ_djVNez3k)
-- [Love & Hate](https://www.youtube.com/watch?v=w44dlsnJ1no)
+- [Love  Hate](https://www.youtube.com/watch?v=w44dlsnJ1no)
 - [One More Night](https://www.youtube.com/watch?v=anzFiFhX7rA)
-- [I'll Never Love](https://www.youtube.com/watch?v=qAGYs2k86Rg)
+- [Ill Never Love](https://www.youtube.com/watch?v=qAGYs2k86Rg)
 - [Rule The World](https://www.youtube.com/watch?v=mPPy1yEduCM)
-- [Father's Child](https://www.youtube.com/watch?v=NUl_rGOEy7U)
+- [Fathers Child](https://www.youtube.com/watch?v=NUl_rGOEy7U)
 - [The Final Frame](https://www.youtube.com/watch?v=qV-PDqMLL3U)
 
 ## Release Images

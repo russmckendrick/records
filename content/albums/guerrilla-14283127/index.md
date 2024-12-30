@@ -59,14 +59,14 @@ Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, ty
 
 
 ## Videos
-### Super Furry Animals - Guerrilla (1/4)
-{{< youtube id="EdkmTTJoM0M" title="Super Furry Animals - Guerrilla (1/4)" >}}<br>
+### Super Furry Animals - Guerrilla 14
+{{< youtube id="EdkmTTJoM0M" title="Super Furry Animals - Guerrilla 14" >}}<br>
 ### More Videos
 
-- [Super Furry Animals - Guerrilla (2/4)](https://www.youtube.com/watch?v=4jd45HQjxBQ)
-- [Super Furry Animals - Guerrilla (3/4)](https://www.youtube.com/watch?v=F4mDHLsfYIA)
-- [Super Furry Animals - Guerrilla (4/4)](https://www.youtube.com/watch?v=ZW_gvo174FU)
-- [Super Furry Animals - Northern Lites (Video)](https://www.youtube.com/watch?v=dv1h3VSQjf8)
+- [Super Furry Animals - Guerrilla 24](https://www.youtube.com/watch?v=4jd45HQjxBQ)
+- [Super Furry Animals - Guerrilla 34](https://www.youtube.com/watch?v=F4mDHLsfYIA)
+- [Super Furry Animals - Guerrilla 44](https://www.youtube.com/watch?v=ZW_gvo174FU)
+- [Super Furry Animals - Northern Lites Video](https://www.youtube.com/watch?v=dv1h3VSQjf8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -41,8 +41,8 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 
 
 ## Videos
-### The Damned - Smash It Up [Part 2]
-{{< youtube id="K6LF7v7FwtI" title="The Damned - Smash It Up [Part 2]" >}}<br>
+### The Damned - Smash It Up Part 2
+{{< youtube id="K6LF7v7FwtI" title="The Damned - Smash It Up Part 2" >}}<br>
 ### More Videos
 
 - [Born to Kill - The Damned 1976](https://www.youtube.com/watch?v=5YRtubErA_k)

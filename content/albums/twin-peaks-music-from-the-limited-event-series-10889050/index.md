@@ -56,14 +56,14 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 
 
 ## Videos
-### Twin Peaks- Limited Event Series Full Soundtrack (HQ)
-{{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack (HQ)" >}}<br>
+### Twin Peaks- Limited Event Series Full Soundtrack HQ
+{{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack HQ" >}}<br>
 ### More Videos
 
-- ["THE" NINE INCH NAILS - SHE'S GONE AWAY (Twin Peaks Music Video)](https://www.youtube.com/watch?v=GXc2rPmawek)
+- [THE NINE INCH NAILS - SHES GONE AWAY Twin Peaks Music Video](https://www.youtube.com/watch?v=GXc2rPmawek)
 - [Eddie Vedder Out of Sand Twin Peaks](https://www.youtube.com/watch?v=WJHM4w_TD28)
 - [Rebekah Del Rio sings No Stars Live at the Twin Peaks UK Festival 2018](https://www.youtube.com/watch?v=JqzfQWse2uI)
-- [CHROMATICS "SHADOW" (Official Video)](https://www.youtube.com/watch?v=IGUboLZx3Tk)
+- [CHROMATICS SHADOW Official Video](https://www.youtube.com/watch?v=IGUboLZx3Tk)
 - [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
 
 ## Release Images

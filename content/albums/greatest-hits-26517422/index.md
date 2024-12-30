@@ -52,25 +52,25 @@ In 2022, Greatest Hits was reissued for its 30th anniversary in a remastered dou
 
 
 ## Videos
-### The Police - Roxanne (Official Music Video)
-{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne (Official Music Video)" >}}<br>
+### The Police - Roxanne Official Music Video
+{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne Official Music Video" >}}<br>
 ### More Videos
 
-- [The Police - Walking On The Moon (Official Music Video)](https://www.youtube.com/watch?v=zPwMdZOlPo8)
-- [The Police - De Do Do Do, De Da Da Da (Official Music Video)](https://www.youtube.com/watch?v=7v2GDbEmjGE)
-- [The Police - Don't Stand So Close To Me (Official Music Video)](https://www.youtube.com/watch?v=KNIZofPB8ZM)
-- [The Police - Every Breath You Take (Official Music Video)](https://www.youtube.com/watch?v=OMOGaugKpzs)
-- [The Police - Every Little Thing She Does Is Magic (Official Music Video)](https://www.youtube.com/watch?v=aENX1Sf3fgQ)
-- [The Police - Wrapped Around Your Finger (Official Music Video)](https://www.youtube.com/watch?v=svWINSRhQU0)
-- [The Police - Spirits In The Material World (Official Music Video)](https://www.youtube.com/watch?v=BHOevX4DlGk)
-- [The Police - Synchronicity II (Official Music Video)](https://www.youtube.com/watch?v=o5FPPoLqkCk)
-- [The Police - So Lonely (Official Music Video)](https://www.youtube.com/watch?v=MX6MvV8cbh8)
-- [The Police - Message In A Bottle (Official Music Video)](https://www.youtube.com/watch?v=MbXWrmQW-OE)
-- [The Police - Can't Stand Losing You (Official Music Video)](https://www.youtube.com/watch?v=nH0vjLwMyc4)
+- [The Police - Walking On The Moon Official Music Video](https://www.youtube.com/watch?v=zPwMdZOlPo8)
+- [The Police - De Do Do Do De Da Da Da Official Music Video](https://www.youtube.com/watch?v=7v2GDbEmjGE)
+- [The Police - Dont Stand So Close To Me Official Music Video](https://www.youtube.com/watch?v=KNIZofPB8ZM)
+- [The Police - Every Breath You Take Official Music Video](https://www.youtube.com/watch?v=OMOGaugKpzs)
+- [The Police - Every Little Thing She Does Is Magic Official Music Video](https://www.youtube.com/watch?v=aENX1Sf3fgQ)
+- [The Police - Wrapped Around Your Finger Official Music Video](https://www.youtube.com/watch?v=svWINSRhQU0)
+- [The Police - Spirits In The Material World Official Music Video](https://www.youtube.com/watch?v=BHOevX4DlGk)
+- [The Police - Synchronicity II Official Music Video](https://www.youtube.com/watch?v=o5FPPoLqkCk)
+- [The Police - So Lonely Official Music Video](https://www.youtube.com/watch?v=MX6MvV8cbh8)
+- [The Police - Message In A Bottle Official Music Video](https://www.youtube.com/watch?v=MbXWrmQW-OE)
+- [The Police - Cant Stand Losing You Official Music Video](https://www.youtube.com/watch?v=nH0vjLwMyc4)
 - [King Of Pain](https://www.youtube.com/watch?v=SZlRX03BzeA)
-- [The Police - Invisible Sun (Official Music Video)](https://www.youtube.com/watch?v=1VuDjJ9KIxM)
+- [The Police - Invisible Sun Official Music Video](https://www.youtube.com/watch?v=1VuDjJ9KIxM)
 - [Tea In The Sahara](https://www.youtube.com/watch?v=iQJaVILgl2M)
-- [The Bed's Too Big Without You - The Police](https://www.youtube.com/watch?v=stlKHh_f0-0)
+- [The Beds Too Big Without You - The Police](https://www.youtube.com/watch?v=stlKHh_f0-0)
 
 ## Release Images
 {{< imageGrid >}}

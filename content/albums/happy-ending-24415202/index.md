@@ -52,7 +52,7 @@ A happy ending is epitomized in the standard fairy tale ending phrase, "happily 
 ### More Videos
 
 - [The Fever](https://www.youtube.com/watch?v=lfn6YNzvYgc)
-- [Hifi Sean & David McAlmont - Beautiful](https://www.youtube.com/watch?v=geZ8smiU7rw)
+- [Hifi Sean  David McAlmont - Beautiful](https://www.youtube.com/watch?v=geZ8smiU7rw)
 - [Happy Ending](https://www.youtube.com/watch?v=DAUvrlCE3R4)
 
 ## Release Images

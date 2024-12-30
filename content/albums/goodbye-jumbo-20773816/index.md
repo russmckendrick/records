@@ -47,15 +47,15 @@ The album received generally positive reviews from critics and peaked at No. 73 
 
 
 ## Videos
-### Is It Too Late?
-{{< youtube id="7IZlfTeOcYg" title="Is It Too Late?" >}}<br>
+### Is It Too Late
+{{< youtube id="7IZlfTeOcYg" title="Is It Too Late" >}}<br>
 ### More Videos
 
 - [Love Street](https://www.youtube.com/watch?v=0lD_Hw6Eaj8)
 - [Way Down Now](https://www.youtube.com/watch?v=ipI3R0Rcdk8)
 - [When the Rainbow Comes](https://www.youtube.com/watch?v=KxIdCo48Fsk)
 - [Put the Message In the Box](https://www.youtube.com/watch?v=qrj77Fqjj-4)
-- [Ain't Gonna Come Till I'm Ready](https://www.youtube.com/watch?v=Ezh1T3rk-74)
+- [Aint Gonna Come Till Im Ready](https://www.youtube.com/watch?v=Ezh1T3rk-74)
 - [And I Fell Back Alone](https://www.youtube.com/watch?v=OMbszCD7R04)
 - [Take It Up](https://www.youtube.com/watch?v=2uxb2eAwJLc)
 - [God On My Side](https://www.youtube.com/watch?v=I3dLgwbYHqw)
@@ -63,7 +63,7 @@ The album received generally positive reviews from critics and peaked at No. 73 
 - [Sweet Soul Dream](https://www.youtube.com/watch?v=NJcop92PPT0)
 - [Thank You World](https://www.youtube.com/watch?v=6o8tGRwGGp0)
 - [World Party - Way Down Now](https://www.youtube.com/watch?v=ZZrIdbumFiI)
-- [Is It Too Late?](https://www.youtube.com/watch?v=7IZlfTeOcYg)
+- [Is It Too Late](https://www.youtube.com/watch?v=7IZlfTeOcYg)
 - [World Party - Put The Message In The Box](https://www.youtube.com/watch?v=DXDJbqws3MY)
 - [Love Street](https://www.youtube.com/watch?v=0lD_Hw6Eaj8)
 

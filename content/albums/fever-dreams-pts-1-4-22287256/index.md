@@ -64,14 +64,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Johnny Marr - Spirit Power and Soul (Official Video)
-{{< youtube id="qeqBn3BAMag" title="Johnny Marr - Spirit Power and Soul (Official Video)" >}}<br>
+### Johnny Marr - Spirit Power and Soul Official Video
+{{< youtube id="qeqBn3BAMag" title="Johnny Marr - Spirit Power and Soul Official Video" >}}<br>
 ### More Videos
 
-- [Johnny Marr - Sensory Street (Official Lyric Video)](https://www.youtube.com/watch?v=9jlL9cCSGgg)
-- [Johnny Marr - Night and Day (Official Video)](https://www.youtube.com/watch?v=xuOocn__zVo)
-- [Johnny Marr - Spirit Power and Soul (Official Video)](https://www.youtube.com/watch?v=qeqBn3BAMag)
-- [Johnny Marr - Night and Day (Official Video)](https://www.youtube.com/watch?v=xuOocn__zVo)
+- [Johnny Marr - Sensory Street Official Lyric Video](https://www.youtube.com/watch?v=9jlL9cCSGgg)
+- [Johnny Marr - Night and Day Official Video](https://www.youtube.com/watch?v=xuOocn__zVo)
+- [Johnny Marr - Spirit Power and Soul Official Video](https://www.youtube.com/watch?v=qeqBn3BAMag)
+- [Johnny Marr - Night and Day Official Video](https://www.youtube.com/watch?v=xuOocn__zVo)
 
 ## Release Images
 {{< imageGrid >}}

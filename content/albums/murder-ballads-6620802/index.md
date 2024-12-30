@@ -57,29 +57,29 @@ So, what’s it all about? Through these broken people, and all their butchery a
 
 
 ## Videos
-### Nick Cave & The Bad Seeds ft. Kylie Minogue - Where The Wild Roses Grow (Official HD Video)
-{{< youtube id="lDpnjE1LUvE" title="Nick Cave & The Bad Seeds ft. Kylie Minogue - Where The Wild Roses Grow (Official HD Video)" >}}<br>
+### Nick Cave  The Bad Seeds ft Kylie Minogue - Where The Wild Roses Grow Official HD Video
+{{< youtube id="lDpnjE1LUvE" title="Nick Cave  The Bad Seeds ft Kylie Minogue - Where The Wild Roses Grow Official HD Video" >}}<br>
 ### More Videos
 
-- [Nick Cave & The Bad Seeds - Henry Lee ft. P.J Harvey (Official HD Video)](https://www.youtube.com/watch?v=QzmMB8dTwGs)
-- [Nick Cave & The Bad Seeds - Stagger Lee (Official HD Video)](https://www.youtube.com/watch?v=Nbe5RERDh4k)
-- [Nick Cave & The Bad Seeds - Song of Joy (Official Audio)](https://www.youtube.com/watch?v=77oXG0VNghU)
-- [Nick Cave & The Bad Seeds - Stagger Lee (Official Audio)](https://www.youtube.com/watch?v=nwE4KUCw-lk)
-- [Nick Cave & The Bad Seeds - Henry Lee feat  P J Harvey (Official Audio)](https://www.youtube.com/watch?v=_sTc65f8Us0)
-- [Nick Cave & The Bad Seeds - Lovely Creature (Official Audio)](https://www.youtube.com/watch?v=i83CsZP8Wn4)
-- [Nick Cave & The Bad Seeds - Where The Wild Roses Grow (Official Audio)](https://www.youtube.com/watch?v=SsR1Ffqqeco)
-- [Nick Cave & The Bad Seeds - The Curse of Millhaven (Official Audio)](https://www.youtube.com/watch?v=AiIEhK0P-Rw)
-- [Nick Cave & The Bad Seeds - The Kindness of Strangers (Official Audio)](https://www.youtube.com/watch?v=Qm-7VudMYBc)
-- [Nick Cave & The Bad Seeds - Crow Jane (Official Audio)](https://www.youtube.com/watch?v=7sac7W8_iLg)
-- [Nick Cave & The Bad Seeds - O'Malley's Bar (Official Audio)](https://www.youtube.com/watch?v=HGXt9JnXR_Y)
-- [Nick Cave & The Bad Seeds - Death Is Not the End (Official Audio)](https://www.youtube.com/watch?v=BXtDlD9U9iY)
-- [Song of Joy (2011 - Remaster)](https://www.youtube.com/watch?v=hhxSf_l2QVc)
-- [Henry Lee (feat. PJ Harvey)](https://www.youtube.com/watch?v=935ajbMo4bQ)
-- [Lovely Creature (2011 - Remaster)](https://www.youtube.com/watch?v=DRf-NzeKL8M)
-- [Where the Wild Roses Grow (2011 - Remaster)](https://www.youtube.com/watch?v=1e_t8npRGQo)
-- [The Kindness of Strangers (2011 - Remaster)](https://www.youtube.com/watch?v=gunKL5lfUt4)
-- [Crow Jane (2011 - Remaster)](https://www.youtube.com/watch?v=OAGczWEG7lw)
-- [Death Is Not the End (2011 - Remaster)](https://www.youtube.com/watch?v=Nf5Y94tw30E)
+- [Nick Cave  The Bad Seeds - Henry Lee ft PJ Harvey Official HD Video](https://www.youtube.com/watch?v=QzmMB8dTwGs)
+- [Nick Cave  The Bad Seeds - Stagger Lee Official HD Video](https://www.youtube.com/watch?v=Nbe5RERDh4k)
+- [Nick Cave  The Bad Seeds - Song of Joy Official Audio](https://www.youtube.com/watch?v=77oXG0VNghU)
+- [Nick Cave  The Bad Seeds - Stagger Lee Official Audio](https://www.youtube.com/watch?v=nwE4KUCw-lk)
+- [Nick Cave  The Bad Seeds - Henry Lee feat  P J Harvey Official Audio](https://www.youtube.com/watch?v=_sTc65f8Us0)
+- [Nick Cave  The Bad Seeds - Lovely Creature Official Audio](https://www.youtube.com/watch?v=i83CsZP8Wn4)
+- [Nick Cave  The Bad Seeds - Where The Wild Roses Grow Official Audio](https://www.youtube.com/watch?v=SsR1Ffqqeco)
+- [Nick Cave  The Bad Seeds - The Curse of Millhaven Official Audio](https://www.youtube.com/watch?v=AiIEhK0P-Rw)
+- [Nick Cave  The Bad Seeds - The Kindness of Strangers Official Audio](https://www.youtube.com/watch?v=Qm-7VudMYBc)
+- [Nick Cave  The Bad Seeds - Crow Jane Official Audio](https://www.youtube.com/watch?v=7sac7W8_iLg)
+- [Nick Cave  The Bad Seeds - OMalleys Bar Official Audio](https://www.youtube.com/watch?v=HGXt9JnXR_Y)
+- [Nick Cave  The Bad Seeds - Death Is Not the End Official Audio](https://www.youtube.com/watch?v=BXtDlD9U9iY)
+- [Song of Joy 2011 - Remaster](https://www.youtube.com/watch?v=hhxSf_l2QVc)
+- [Henry Lee feat PJ Harvey](https://www.youtube.com/watch?v=935ajbMo4bQ)
+- [Lovely Creature 2011 - Remaster](https://www.youtube.com/watch?v=DRf-NzeKL8M)
+- [Where the Wild Roses Grow 2011 - Remaster](https://www.youtube.com/watch?v=1e_t8npRGQo)
+- [The Kindness of Strangers 2011 - Remaster](https://www.youtube.com/watch?v=gunKL5lfUt4)
+- [Crow Jane 2011 - Remaster](https://www.youtube.com/watch?v=OAGczWEG7lw)
+- [Death Is Not the End 2011 - Remaster](https://www.youtube.com/watch?v=Nf5Y94tw30E)
 
 ## Release Images
 {{< imageGrid >}}

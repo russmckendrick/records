@@ -68,18 +68,18 @@ styles: ["Reggae", "Dub", "Dancehall"]
 
 
 ## Videos
-### Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'
-{{< youtube id="9FjK8yyVY0M" title="Coldcut x On-U Sound - 'Vitals feat. Roots Manuva (Dub)'" >}}<br>
+### Coldcut x On-U Sound - Vitals feat Roots Manuva Dub
+{{< youtube id="9FjK8yyVY0M" title="Coldcut x On-U Sound - Vitals feat Roots Manuva Dub" >}}<br>
 ### More Videos
 
-- [Coldcut x On-U Sound - 'Metro'](https://www.youtube.com/watch?v=k8x_UjoeMjk)
-- [Coldcut x On-U Sound - 'Make Up Your Mind feat. Ce’Cile and Toddla T (Dub)'](https://www.youtube.com/watch?v=3t9RzE-GvBc)
-- [Coldcut x On-U Sound - 'Aztec Riddim'](https://www.youtube.com/watch?v=ksoOE3z3MQk)
-- [Coldcut x On-U Sound - 'Kajra Mohabbat Wala feat. Hamsika Iyer'](https://www.youtube.com/watch?v=Dvt2nRs7e7I)
-- [Coldcut x On-U Sound - 'Divide and Rule feat. Lee 'Scratch' Perry, Junior Reid and Elan'](https://www.youtube.com/watch?v=t1HtUqJ4zSk)
-- [Coldcut x On-U Sound - 'Livid Hip Hop'](https://www.youtube.com/watch?v=YZMghlhcSw8)
-- [Coldcut x On-U Sound - 'Divide and Rule' (Mungo's Hi Fi Remix)](https://www.youtube.com/watch?v=KwLiMC2AhgM)
-- [Coldcut x On-U Sound - 'Kajra Mohabbat Wala feat. Hamsika Iyer (Dub)'](https://www.youtube.com/watch?v=oiWT2JNa53s)
+- [Coldcut x On-U Sound - Metro](https://www.youtube.com/watch?v=k8x_UjoeMjk)
+- [Coldcut x On-U Sound - Make Up Your Mind feat CeCile and Toddla T Dub](https://www.youtube.com/watch?v=3t9RzE-GvBc)
+- [Coldcut x On-U Sound - Aztec Riddim](https://www.youtube.com/watch?v=ksoOE3z3MQk)
+- [Coldcut x On-U Sound - Kajra Mohabbat Wala feat Hamsika Iyer](https://www.youtube.com/watch?v=Dvt2nRs7e7I)
+- [Coldcut x On-U Sound - Divide and Rule feat Lee Scratch Perry Junior Reid and Elan](https://www.youtube.com/watch?v=t1HtUqJ4zSk)
+- [Coldcut x On-U Sound - Livid Hip Hop](https://www.youtube.com/watch?v=YZMghlhcSw8)
+- [Coldcut x On-U Sound - Divide and Rule Mungos Hi Fi Remix](https://www.youtube.com/watch?v=KwLiMC2AhgM)
+- [Coldcut x On-U Sound - Kajra Mohabbat Wala feat Hamsika Iyer Dub](https://www.youtube.com/watch?v=oiWT2JNa53s)
 
 ## Release Images
 {{< imageGrid >}}

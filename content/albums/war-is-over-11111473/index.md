@@ -44,13 +44,13 @@ Also a protest song against the Vietnam War, "Happy Xmas (War Is Over)" has sinc
 
 
 ## Videos
-### War Is Over (Von Hertzen Brothers)
-{{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}<br>
+### War Is Over Von Hertzen Brothers
+{{< youtube id="iUeSjnI4kP4" title="War Is Over Von Hertzen Brothers" >}}<br>
 ### More Videos
 
 - [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
 - [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
-- [War Is Over (Von Hertzen Brothers)](https://www.youtube.com/watch?v=iUeSjnI4kP4)
+- [War Is Over Von Hertzen Brothers](https://www.youtube.com/watch?v=iUeSjnI4kP4)
 
 ## Release Images
 {{< imageGrid >}}

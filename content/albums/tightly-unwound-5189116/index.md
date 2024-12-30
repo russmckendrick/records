@@ -48,12 +48,12 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 
 
 ## Videos
-### The Pineapple Thief - Shoot First (from Tightly Unwound)
-{{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First (from Tightly Unwound)" >}}<br>
+### The Pineapple Thief - Shoot First from Tightly Unwound
+{{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First from Tightly Unwound" >}}<br>
 ### More Videos
 
 - [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
-- [The Pineapple Thief - Too Much to Lose (from Tightly Unwound)](https://www.youtube.com/watch?v=MdaxryzsjjA)
+- [The Pineapple Thief - Too Much to Lose from Tightly Unwound](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
 ## Release Images
 {{< imageGrid >}}

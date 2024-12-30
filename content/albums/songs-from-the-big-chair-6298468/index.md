@@ -54,8 +54,8 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 - [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
 - [I Believe](https://www.youtube.com/watch?v=1n4OuEJMIEs)
 - [Tears For Fears - Head Over Heels](https://www.youtube.com/watch?v=CsHiG-43Fzg)
-- [Tears For Fears - Mothers Talk (US Mix)](https://www.youtube.com/watch?v=5dCD1p0zPbs)
-- [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
+- [Tears For Fears - Mothers Talk US Mix](https://www.youtube.com/watch?v=5dCD1p0zPbs)
+- [Tears For Fears - Shout Official Music Video](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
 
 ## Release Images
 {{< imageGrid >}}

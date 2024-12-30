@@ -48,14 +48,14 @@ styles: ["Soft Rock"]
 
 
 ## Videos
-### Wilson Phillips - Hold On (Official Music Video)
-{{< youtube id="uIbXvaE39wM" title="Wilson Phillips - Hold On (Official Music Video)" >}}<br>
+### Wilson Phillips - Hold On Official Music Video
+{{< youtube id="uIbXvaE39wM" title="Wilson Phillips - Hold On Official Music Video" >}}<br>
 ### More Videos
 
-- [Release Me "Wilson Phillips" 1990 - Video](https://www.youtube.com/watch?v=gcNyk54b3ZU)
-- [Wilson Phillips - 'You're in Love' 1990](https://www.youtube.com/watch?v=_mpS1Dw_4VY)
-- [Wilson Phillips - Impulsive (High Definition 1080p)](https://www.youtube.com/watch?v=pkYzwoZ0YwI)
-- [The Dream is still Alive "Wilson Phillips" 1990 - Video](https://www.youtube.com/watch?v=aMOpnuv_8xU)
+- [Release Me Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=gcNyk54b3ZU)
+- [Wilson Phillips - Youre in Love 1990](https://www.youtube.com/watch?v=_mpS1Dw_4VY)
+- [Wilson Phillips - Impulsive High Definition 1080p](https://www.youtube.com/watch?v=pkYzwoZ0YwI)
+- [The Dream is still Alive Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=aMOpnuv_8xU)
 - [Wilson Phillips Hold On Isolated vocal acapella](https://www.youtube.com/watch?v=2kDqv0V0sp0)
 
 ## Release Images

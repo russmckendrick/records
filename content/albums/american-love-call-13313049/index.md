@@ -54,12 +54,12 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Morning In America - Durand Jones & The Indications
-{{< youtube id="D5ndo2SjB88" title="Morning In America - Durand Jones & The Indications" >}}<br>
+### Morning In America - Durand Jones  The Indications
+{{< youtube id="D5ndo2SjB88" title="Morning In America - Durand Jones  The Indications" >}}<br>
 ### More Videos
 
-- [Durand Jones & The Indications - Morning in America](https://www.youtube.com/watch?v=b1V_1TPDVxc)
-- [Durand Jones & The Indications - Don’t You Know (feat. Aaron Frazer)](https://www.youtube.com/watch?v=D2s5xuPwQhU)
+- [Durand Jones  The Indications - Morning in America](https://www.youtube.com/watch?v=b1V_1TPDVxc)
+- [Durand Jones  The Indications - Dont You Know feat Aaron Frazer](https://www.youtube.com/watch?v=D2s5xuPwQhU)
 - [Circles](https://www.youtube.com/watch?v=pmlO_Vbe4qs)
 - [Court of Love](https://www.youtube.com/watch?v=MHu11yPdatg)
 - [Too Many Tears](https://www.youtube.com/watch?v=YVgvEiE7Lwo)
@@ -69,7 +69,7 @@ styles: ["Rhythm & Blues", "Soul"]
 - [Sea Gets Hotter](https://www.youtube.com/watch?v=HGKwkYpB3fI)
 - [How Can I Be Sure](https://www.youtube.com/watch?v=Ouut4xyeOIU)
 - [True Love](https://www.youtube.com/watch?v=L8demwJ3318)
-- [Durand Jones & The Indications - Don’t You Know (Official Video)](https://www.youtube.com/watch?v=A9rDPXoGSDg)
+- [Durand Jones  The Indications - Dont You Know Official Video](https://www.youtube.com/watch?v=A9rDPXoGSDg)
 
 ## Release Images
 {{< imageGrid >}}

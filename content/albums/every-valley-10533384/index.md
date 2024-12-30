@@ -43,8 +43,8 @@ Every Valley was recorded in situ in the former steelworks town of Ebbw Vale, in
 
 
 ## Videos
-### Every Valley [Album Trailer]
-{{< youtube id="kFGsdmcF230" title="Every Valley [Album Trailer]" >}}<br>
+### Every Valley Album Trailer
+{{< youtube id="kFGsdmcF230" title="Every Valley Album Trailer" >}}<br>
 ### More Videos
 
 - [Public Service Broadcasting - Progress](https://www.youtube.com/watch?v=x1ZbdGBAqZQ)

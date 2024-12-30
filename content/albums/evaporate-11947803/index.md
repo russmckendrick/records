@@ -41,7 +41,7 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ### More Videos
 
 - [Midas Fall - Glue](https://www.youtube.com/watch?v=oZ_ArHLW43I)
-- [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
+- [Midas Fall - Evaporate Live Session](https://www.youtube.com/watch?v=U_KKsAY55qM)
 - [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 
 ## Release Images

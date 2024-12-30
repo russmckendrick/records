@@ -55,12 +55,12 @@ The only person who gets a guest verse on the effort is AZ (“Life’s a Bitch�
 
 
 ## Videos
-### Nas - It Ain't Hard to Tell (Official HD Video)
-{{< youtube id="3hOZaTGnHU4" title="Nas - It Ain't Hard to Tell (Official HD Video)" >}}<br>
+### Nas - It Aint Hard to Tell Official HD Video
+{{< youtube id="3hOZaTGnHU4" title="Nas - It Aint Hard to Tell Official HD Video" >}}<br>
 ### More Videos
 
-- [Nas - Halftime (Official Video - Explicit)](https://www.youtube.com/watch?v=HCDYgZM5yq0)
-- [Nas - The World Is Yours (Official HD Video)](https://www.youtube.com/watch?v=e5PnuIRnJW8)
+- [Nas - Halftime Official Video - Explicit](https://www.youtube.com/watch?v=HCDYgZM5yq0)
+- [Nas - The World Is Yours Official HD Video](https://www.youtube.com/watch?v=e5PnuIRnJW8)
 
 ## Release Images
 {{< imageGrid >}}

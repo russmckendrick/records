@@ -33,13 +33,13 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)
-{{< youtube id="wFWt15ZHNaA" title="Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)" >}}<br>
+### Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018
+{{< youtube id="wFWt15ZHNaA" title="Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018" >}}<br>
 ### More Videos
 
 - [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
 - [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
-- [Andy Partridge - Apples & Oranges / Humanoid Boogie [FULL EP] (2018)](https://www.youtube.com/watch?v=wFWt15ZHNaA)
+- [Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018](https://www.youtube.com/watch?v=wFWt15ZHNaA)
 - [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
 - [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
 

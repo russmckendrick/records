@@ -33,19 +33,19 @@ styles: ["Leftfield", "Disco"]
 
 
 ## Videos
-### Ian Dury and the Music Students — You're My Inspiration
-{{< youtube id="8zU57vIa6dw" title="Ian Dury and the Music Students — You're My Inspiration" >}}<br>
+### Ian Dury and the Music Students  Youre My Inspiration
+{{< youtube id="8zU57vIa6dw" title="Ian Dury and the Music Students  Youre My Inspiration" >}}<br>
 ### More Videos
 
-- [Ian Dury and the Music Students — Friends](https://www.youtube.com/watch?v=R4bfhHLP7cI)
-- [Ian Dury and the Music Students — Tell Your Daddy](https://www.youtube.com/watch?v=ZqkVwVAN7Ow)
-- [Ian Dury and the Music Students — Peter the Painter](https://www.youtube.com/watch?v=j5zda2EwGjY)
-- [Ian Dury and the Music Students —  Ban the Bomb](https://www.youtube.com/watch?v=4_GU8gn20aY)
-- [Ian Dury and the Music Students — Percy the Poet](https://www.youtube.com/watch?v=z3rm4MCQRIQ)
-- [Ian Dury and the Music Students — Very Personal](https://www.youtube.com/watch?v=aJ405au1LOM)
-- [Ian Dury and the Music Students — Take Me to the Cleaners](https://www.youtube.com/watch?v=Njy9Zfa3ha0)
-- [Ian Dury and the Music Students — The Man with No Face](https://www.youtube.com/watch?v=B-ixhr61Lqk)
-- [Ian Dury and the Music Students — Really Glad You Came](https://www.youtube.com/watch?v=g6K-9f7rOvo)
+- [Ian Dury and the Music Students  Friends](https://www.youtube.com/watch?v=R4bfhHLP7cI)
+- [Ian Dury and the Music Students  Tell Your Daddy](https://www.youtube.com/watch?v=ZqkVwVAN7Ow)
+- [Ian Dury and the Music Students  Peter the Painter](https://www.youtube.com/watch?v=j5zda2EwGjY)
+- [Ian Dury and the Music Students   Ban the Bomb](https://www.youtube.com/watch?v=4_GU8gn20aY)
+- [Ian Dury and the Music Students  Percy the Poet](https://www.youtube.com/watch?v=z3rm4MCQRIQ)
+- [Ian Dury and the Music Students  Very Personal](https://www.youtube.com/watch?v=aJ405au1LOM)
+- [Ian Dury and the Music Students  Take Me to the Cleaners](https://www.youtube.com/watch?v=Njy9Zfa3ha0)
+- [Ian Dury and the Music Students  The Man with No Face](https://www.youtube.com/watch?v=B-ixhr61Lqk)
+- [Ian Dury and the Music Students  Really Glad You Came](https://www.youtube.com/watch?v=g6K-9f7rOvo)
 
 ## Release Images
 {{< imageGrid >}}

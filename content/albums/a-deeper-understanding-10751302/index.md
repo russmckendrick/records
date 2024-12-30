@@ -57,19 +57,19 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 
 
 ## Videos
-### The War On Drugs - Up All Night [Official Audio]
-{{< youtube id="Dj_eFigyvQ8" title="The War On Drugs - Up All Night [Official Audio]" >}}<br>
+### The War On Drugs - Up All Night Official Audio
+{{< youtube id="Dj_eFigyvQ8" title="The War On Drugs - Up All Night Official Audio" >}}<br>
 ### More Videos
 
-- [The War on Drugs - Pain [Official Video]](https://www.youtube.com/watch?v=J9LgHNf2Qy0)
-- [The War On Drugs - Holding On [Official Video]](https://www.youtube.com/watch?v=6-oHBkikDBg)
-- [The War On Drugs - Strangest Thing [Official Audio]](https://www.youtube.com/watch?v=bvmEYgFsgyg)
-- [The War On Drugs - Knocked Down [Official Audio]](https://www.youtube.com/watch?v=SDlPQfFcoJY)
-- [The War On Drugs - Nothing To Find [Official Video]](https://www.youtube.com/watch?v=xWDVFLDnv74)
-- [The War On Drugs - Thinking Of A Place [Official Audio]](https://www.youtube.com/watch?v=TeaDE1magRk)
-- [The War On Drugs - In Chains [Official Audio]](https://www.youtube.com/watch?v=oG9ZRBSqFgA)
-- [The War On Drugs - Clean Living [Official Audio]](https://www.youtube.com/watch?v=dPf3d8Hp7cM)
-- [The War On Drugs - You Don't Have To Go [Official Audio]](https://www.youtube.com/watch?v=rwooIW__BQc)
+- [The War on Drugs - Pain Official Video](https://www.youtube.com/watch?v=J9LgHNf2Qy0)
+- [The War On Drugs - Holding On Official Video](https://www.youtube.com/watch?v=6-oHBkikDBg)
+- [The War On Drugs - Strangest Thing Official Audio](https://www.youtube.com/watch?v=bvmEYgFsgyg)
+- [The War On Drugs - Knocked Down Official Audio](https://www.youtube.com/watch?v=SDlPQfFcoJY)
+- [The War On Drugs - Nothing To Find Official Video](https://www.youtube.com/watch?v=xWDVFLDnv74)
+- [The War On Drugs - Thinking Of A Place Official Audio](https://www.youtube.com/watch?v=TeaDE1magRk)
+- [The War On Drugs - In Chains Official Audio](https://www.youtube.com/watch?v=oG9ZRBSqFgA)
+- [The War On Drugs - Clean Living Official Audio](https://www.youtube.com/watch?v=dPf3d8Hp7cM)
+- [The War On Drugs - You Dont Have To Go Official Audio](https://www.youtube.com/watch?v=rwooIW__BQc)
 
 ## Release Images
 {{< imageGrid >}}

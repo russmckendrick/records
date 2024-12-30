@@ -52,8 +52,8 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 
 
 ## Videos
-### Robert Plant - Raise The Roof (Full Album)
-{{< youtube id="L6V6KVo24GU" title="Robert Plant - Raise The Roof (Full Album)" >}}<br>
+### Robert Plant - Raise The Roof Full Album
+{{< youtube id="L6V6KVo24GU" title="Robert Plant - Raise The Roof Full Album" >}}<br>
 
 
 ## Release Images

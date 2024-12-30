@@ -67,11 +67,11 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Videos
-### Pink Floyd / A Momentary Lapse Of Reason remixed and updated
-{{< youtube id="Dc4ToO8DmRk" title="Pink Floyd / A Momentary Lapse Of Reason remixed and updated" >}}<br>
+### Pink Floyd  A Momentary Lapse Of Reason remixed and updated
+{{< youtube id="Dc4ToO8DmRk" title="Pink Floyd  A Momentary Lapse Of Reason remixed and updated" >}}<br>
 ### More Videos
 
-- [Pink Floyd - Yet Another Movie (2019 Remix)](https://www.youtube.com/watch?v=Z_GJ9UTEj1k)
+- [Pink Floyd - Yet Another Movie 2019 Remix](https://www.youtube.com/watch?v=Z_GJ9UTEj1k)
 - [Pink Floyd - 1st UK press - a momentary lapse of reason  - side one 192 Khz](https://www.youtube.com/watch?v=UFbF5l5mzFg)
 - [Pink Floyd - 1st UK press - a momentary lapse of reason - side two - 192 Khz](https://www.youtube.com/watch?v=4HcwzM30zeQ)
 

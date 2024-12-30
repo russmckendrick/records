@@ -54,11 +54,11 @@ But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole
 
 
 ## Videos
-### The Chemical Brothers - Block Rockin' Beats (Official Music Video)
-{{< youtube id="iTxOKsyZ0Lw" title="The Chemical Brothers - Block Rockin' Beats (Official Music Video)" >}}<br>
+### The Chemical Brothers - Block Rockin Beats Official Music Video
+{{< youtube id="iTxOKsyZ0Lw" title="The Chemical Brothers - Block Rockin Beats Official Music Video" >}}<br>
 ### More Videos
 
-- [The Chemical Brothers - Elektrobank (Official Music Video)](https://www.youtube.com/watch?v=L0dxByaPWhM)
+- [The Chemical Brothers - Elektrobank Official Music Video](https://www.youtube.com/watch?v=L0dxByaPWhM)
 
 ## Release Images
 {{< imageGrid >}}

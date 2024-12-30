@@ -40,9 +40,9 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 ### More Videos
 
 - [Of Two Forms Excerpt](https://www.youtube.com/watch?v=Jn7Tvl0wq3U)
-- [Causleen's Wheel Excerpt](https://www.youtube.com/watch?v=-AZHMrvxCfI)
+- [Causleens Wheel Excerpt](https://www.youtube.com/watch?v=-AZHMrvxCfI)
 - [Forge Excerpt](https://www.youtube.com/watch?v=yxvphxyl0_I)
-- [Jo Quail - Exsolve [Full Album]](https://www.youtube.com/watch?v=7kaOG7dQ6m0)
+- [Jo Quail - Exsolve Full Album](https://www.youtube.com/watch?v=7kaOG7dQ6m0)
 
 ## Release Images
 {{< imageGrid >}}

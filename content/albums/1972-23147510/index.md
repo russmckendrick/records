@@ -48,14 +48,14 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 
 
 ## Videos
-### The Black Crowes - '1972' Studio Session [Amazon Original]
-{{< youtube id="XMIyT4PsnSk" title="The Black Crowes - '1972' Studio Session [Amazon Original]" >}}<br>
+### The Black Crowes - 1972 Studio Session Amazon Original
+{{< youtube id="XMIyT4PsnSk" title="The Black Crowes - 1972 Studio Session Amazon Original" >}}<br>
 ### More Videos
 
-- [THE BLACK CROWES new EP an Amazon Original EP titled "1972" + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
-- [The Black Crowes - '1972' Studio Session [Amazon Original]](https://www.youtube.com/watch?v=XMIyT4PsnSk)
-- [THE BLACK CROWES new EP an Amazon Original EP titled "1972" + studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
-- [The Black Crowes - 1972 (Full Album) 2022](https://www.youtube.com/watch?v=25_gvlilQpo)
+- [THE BLACK CROWES new EP an Amazon Original EP titled 1972  studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
+- [The Black Crowes - 1972 Studio Session Amazon Original](https://www.youtube.com/watch?v=XMIyT4PsnSk)
+- [THE BLACK CROWES new EP an Amazon Original EP titled 1972  studio sessions video](https://www.youtube.com/watch?v=6x7qrilhG24)
+- [The Black Crowes - 1972 Full Album 2022](https://www.youtube.com/watch?v=25_gvlilQpo)
 
 ## Release Images
 {{< imageGrid >}}

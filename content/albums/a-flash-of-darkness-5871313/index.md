@@ -46,7 +46,7 @@ styles: ["Alternative Rock"]
 - [Consuela](https://www.youtube.com/watch?v=mdOV_lx-M4A)
 - [A Flash of Darkness](https://www.youtube.com/watch?v=aSwZUI8ETZ8)
 - [Consuela](https://www.youtube.com/watch?v=mdOV_lx-M4A)
-- [Mark Morriss 'A Flash Of Darkness' Full Album](https://www.youtube.com/watch?v=L9q47aVymd4)
+- [Mark Morriss A Flash Of Darkness Full Album](https://www.youtube.com/watch?v=L9q47aVymd4)
 
 ## Release Images
 {{< imageGrid >}}

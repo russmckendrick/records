@@ -46,8 +46,8 @@ styles: ["Krautrock", "Alternative Rock"]
 
 
 ## Videos
-### Blackfield - Open Mind (from Open Mind: The Best of Blackfield)
-{{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind (from Open Mind: The Best of Blackfield)" >}}<br>
+### Blackfield - Open Mind from Open Mind The Best of Blackfield
+{{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind from Open Mind The Best of Blackfield" >}}<br>
 
 
 ## Release Images

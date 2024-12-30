@@ -56,11 +56,11 @@ styles: []
 
 
 ## Videos
-### Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de
-{{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de" >}}<br>
+### Ladies and Gentlemen Mr BB King auf bbkingfande
+{{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen Mr BB King auf bbkingfande" >}}<br>
 ### More Videos
 
-- [Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de](https://www.youtube.com/watch?v=UDuvJ9pweig)
+- [Ladies and Gentlemen Mr BB King auf bbkingfande](https://www.youtube.com/watch?v=UDuvJ9pweig)
 
 ## Release Images
 {{< imageGrid >}}

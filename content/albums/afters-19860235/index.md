@@ -45,8 +45,8 @@ The Afters is an American Christian rock band founded by Josh Havens and Matt Fu
 
 
 ## Videos
-### I Didn't
-{{< youtube id="e5HTe6s51_c" title="I Didn't" >}}<br>
+### I Didnt
+{{< youtube id="e5HTe6s51_c" title="I Didnt" >}}<br>
 ### More Videos
 
 - [A Little Longer](https://www.youtube.com/watch?v=pdKa1G5heP8)
@@ -54,7 +54,7 @@ The Afters is an American Christian rock band founded by Josh Havens and Matt Fu
 - [End of Loneliness](https://www.youtube.com/watch?v=mvLhLVLg4UQ)
 - [I Will Never Hurt](https://www.youtube.com/watch?v=KpGCMUA-C90)
 - [Slow Down](https://www.youtube.com/watch?v=HJH6CbY_KGc)
-- [Hangar Lane Gyratory System; 4.44am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
+- [Hangar Lane Gyratory System 444am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
 - [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)
 
 ## Release Images

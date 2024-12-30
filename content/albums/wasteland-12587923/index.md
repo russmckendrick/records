@@ -58,14 +58,14 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 
 
 ## Videos
-### RIVERSIDE - Lament (OFFICIAL VIDEO)
-{{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}<br>
+### RIVERSIDE - Lament OFFICIAL VIDEO
+{{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [RIVERSIDE - River Down Below (Album Track)](https://www.youtube.com/watch?v=ZS1crIkpnwc)
-- [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
-- [RIVERSIDE - Wasteland (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=6dLf45s67hM)
-- [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
+- [RIVERSIDE - River Down Below Album Track](https://www.youtube.com/watch?v=ZS1crIkpnwc)
+- [RIVERSIDE - Vale Of Tears Album Track](https://www.youtube.com/watch?v=001IMO53JwY)
+- [RIVERSIDE - Wasteland OFFICIAL VIDEO](https://www.youtube.com/watch?v=6dLf45s67hM)
+- [Riverside - Wasteland Lyrics on screen](https://www.youtube.com/watch?v=bXPsLDO77rA)
 
 ## Release Images
 {{< imageGrid >}}

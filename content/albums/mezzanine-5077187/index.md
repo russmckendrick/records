@@ -61,10 +61,10 @@ Mezzanine received significant critical acclaim, with many praising the group’
 ### More Videos
 
 - [Massive Attack - Risingson](https://www.youtube.com/watch?v=85E9Q5Wx210)
-- [Massive Attack - Teardrop (Official Video)](https://www.youtube.com/watch?v=u7K72X4eo_s)
+- [Massive Attack - Teardrop Official Video](https://www.youtube.com/watch?v=u7K72X4eo_s)
 - [Massive Attack - Inertia Creeps](https://www.youtube.com/watch?v=w3mn7EC-skg)
-- [Teardrop (Remastered 2019)](https://www.youtube.com/watch?v=Tb0MC0jFv6M)
-- [M̲a̲ssive A̲t̲tack - M̲e̲zzanine (Full Album)](https://www.youtube.com/watch?v=ORxdyjvfItk)
+- [Teardrop Remastered 2019](https://www.youtube.com/watch?v=Tb0MC0jFv6M)
+- [Massive Attack - Mezzanine Full Album](https://www.youtube.com/watch?v=ORxdyjvfItk)
 
 ## Release Images
 {{< imageGrid >}}

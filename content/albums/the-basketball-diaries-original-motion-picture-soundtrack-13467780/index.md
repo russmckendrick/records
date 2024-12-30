@@ -47,8 +47,8 @@ styles: ["Soundtrack", "Alternative Rock"]
 
 
 ## Videos
-### "The Basketball Diaries" Catholic Boy Jim Carroll
-{{< youtube id="JB72RnNJk9I" title=""The Basketball Diaries" Catholic Boy Jim Carroll" >}}<br>
+### The Basketball Diaries Catholic Boy Jim Carroll
+{{< youtube id="JB72RnNJk9I" title="The Basketball Diaries Catholic Boy Jim Carroll" >}}<br>
 ### More Videos
 
 - [PJ Harvey - Down By The Water](https://www.youtube.com/watch?v=lbq4G1TjKYg)
@@ -57,7 +57,7 @@ styles: ["Soundtrack", "Alternative Rock"]
 - [Dizzy](https://www.youtube.com/watch?v=3tTbcYT5pgg)
 - [Massive Internal Complications - Strawberry Wine](https://www.youtube.com/watch?v=NYEr5BOl8Zs)
 - [The Cult - Star](https://www.youtube.com/watch?v=LC8iMRw-DKA)
-- [Flea - I've Been Down (River Phoenix Tribute)](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
+- [Flea - Ive Been Down River Phoenix Tribute](https://www.youtube.com/watch?v=Ec2v9il6Qvs)
 - [Blind Dogs](https://www.youtube.com/watch?v=74oxX7LIssY)
 
 ## Release Images

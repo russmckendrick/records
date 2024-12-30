@@ -102,17 +102,17 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Videos
-### Far from Home (Remastered Version)
-{{< youtube id="x25Y01K0VtU" title="Far from Home (Remastered Version)" >}}<br>
+### Far from Home Remastered Version
+{{< youtube id="x25Y01K0VtU" title="Far from Home Remastered Version" >}}<br>
 ### More Videos
 
-- [Another Man's Cause (Remastered Version)](https://www.youtube.com/watch?v=fiDsuG_LIno)
-- [15 Years (Remastered Version)](https://www.youtube.com/watch?v=-vB-WxV88CA)
-- [Liberty Song (Remastered Version)](https://www.youtube.com/watch?v=3fyyaSC4ApE)
+- [Another Mans Cause Remastered Version](https://www.youtube.com/watch?v=fiDsuG_LIno)
+- [15 Years Remastered Version](https://www.youtube.com/watch?v=-vB-WxV88CA)
+- [Liberty Song Remastered Version](https://www.youtube.com/watch?v=3fyyaSC4ApE)
 - [The Levellers - One Way](https://www.youtube.com/watch?v=l_K1NqCpmQI)
-- [Levellers - One Way (Official Music Video)](https://www.youtube.com/watch?v=u0S8RNkL5Wg)
+- [Levellers - One Way Official Music Video](https://www.youtube.com/watch?v=u0S8RNkL5Wg)
 - [Levellers - The Game](https://www.youtube.com/watch?v=5rxC6_S1a1A)
-- [Levellers - The Road (with lyrics)](https://www.youtube.com/watch?v=HN4oQeKMTig)
+- [Levellers - The Road with lyrics](https://www.youtube.com/watch?v=HN4oQeKMTig)
 
 ## Release Images
 {{< imageGrid >}}

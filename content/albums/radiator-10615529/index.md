@@ -51,13 +51,13 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 
 
 ## Videos
-### S̲u̲p̲e̲r̲ F̲u̲r̲r̲y̲ A̲n̲i̲m̲a̲l̲s̲ | R̲a̲d̲i̲a̲t̲o̲r̲
-{{< youtube id="J04U9hggZzA" title="S̲u̲p̲e̲r̲ F̲u̲r̲r̲y̲ A̲n̲i̲m̲a̲l̲s̲ | R̲a̲d̲i̲a̲t̲o̲r̲" >}}<br>
+### Super Furry Animals  Radiator
+{{< youtube id="J04U9hggZzA" title="Super Furry Animals  Radiator" >}}<br>
 ### More Videos
 
-- [She's Got Spies (2017 - Remaster)](https://www.youtube.com/watch?v=YVLEXFDIM_g)
-- [Super Furry Animals - Hermann Loves Pauline (Video)](https://www.youtube.com/watch?v=njhQ23ZKjFU)
-- [Super Furry Animals - Demons (Video)](https://www.youtube.com/watch?v=BmvwINJeLKU)
+- [Shes Got Spies 2017 - Remaster](https://www.youtube.com/watch?v=YVLEXFDIM_g)
+- [Super Furry Animals - Hermann Loves Pauline Video](https://www.youtube.com/watch?v=njhQ23ZKjFU)
+- [Super Furry Animals - Demons Video](https://www.youtube.com/watch?v=BmvwINJeLKU)
 
 ## Release Images
 {{< imageGrid >}}

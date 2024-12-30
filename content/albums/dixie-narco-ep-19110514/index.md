@@ -36,13 +36,13 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 
 
 ## Videos
-### Primal Scream - Stone My Soul (Dixie-Narco EP)
-{{< youtube id="wxYFV4ywkw8" title="Primal Scream - Stone My Soul (Dixie-Narco EP)" >}}<br>
+### Primal Scream - Stone My Soul Dixie-Narco EP
+{{< youtube id="wxYFV4ywkw8" title="Primal Scream - Stone My Soul Dixie-Narco EP" >}}<br>
 ### More Videos
 
-- [Primal Scream - Carry Me Home (Dixie-Narco EP)](https://www.youtube.com/watch?v=pQ4x1YB88_s)
-- [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
-- [Primal Scream - Screamadelica (HQ)](https://www.youtube.com/watch?v=F-JtmHJ6ZgI)
+- [Primal Scream - Carry Me Home Dixie-Narco EP](https://www.youtube.com/watch?v=pQ4x1YB88_s)
+- [Primal Scream - Movin on Up Official HD Video](https://www.youtube.com/watch?v=UVm3mJPn5tE)
+- [Primal Scream - Screamadelica HQ](https://www.youtube.com/watch?v=F-JtmHJ6ZgI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -40,14 +40,14 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 
 
 ## Videos
-### Hollie Cook "Angel Fire"
-{{< youtube id="GjThn4PMHyI" title="Hollie Cook "Angel Fire"" >}}<br>
+### Hollie Cook Angel Fire
+{{< youtube id="GjThn4PMHyI" title="Hollie Cook Angel Fire" >}}<br>
 ### More Videos
 
-- [Hollie Cook "Stay Alive"](https://www.youtube.com/watch?v=N1--GrdPQWc)
-- [Hollie Cook "Survive"](https://www.youtube.com/watch?v=-Lr1T_6gd_w)
+- [Hollie Cook Stay Alive](https://www.youtube.com/watch?v=N1--GrdPQWc)
+- [Hollie Cook Survive](https://www.youtube.com/watch?v=-Lr1T_6gd_w)
 - [Ghostly Fading](https://www.youtube.com/watch?v=RgpWSENFGhk)
-- [Hollie Cook "Freefalling"](https://www.youtube.com/watch?v=KoVZOvdkst8)
+- [Hollie Cook Freefalling](https://www.youtube.com/watch?v=KoVZOvdkst8)
 - [Lunar Addiction](https://www.youtube.com/watch?v=c88OyiFLjVQ)
 - [Turn It Around](https://www.youtube.com/watch?v=KK4gRqiMcao)
 - [Vessel of Love](https://www.youtube.com/watch?v=CI4e9Z3eCb0)

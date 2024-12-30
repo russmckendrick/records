@@ -44,20 +44,20 @@ styles: ["Goth Rock"]
 
 
 ## Videos
-### Under the Gun (2018 Remaster)
-{{< youtube id="Xq6iFw18e3c" title="Under the Gun (2018 Remaster)" >}}<br>
+### Under the Gun 2018 Remaster
+{{< youtube id="Xq6iFw18e3c" title="Under the Gun 2018 Remaster" >}}<br>
 ### More Videos
 
-- [Temple of Love (1992) (2018 Remaster)](https://www.youtube.com/watch?v=xi7lOB4PndY)
-- [Vision Thing (2018 Remaster)](https://www.youtube.com/watch?v=FMLE_EjuYsc)
-- [Detonation Boulevard (2018 Remaster)](https://www.youtube.com/watch?v=n1yUAksYddY)
-- [Doctor Jeep (2018 Remaster)](https://www.youtube.com/watch?v=yUjfF5d25RU)
-- [More (2018 Remaster)](https://www.youtube.com/watch?v=Po0FvFhbZsc)
-- [Lucretia My Reflection (2018 Remaster)](https://www.youtube.com/watch?v=bpte1HPawvU)
-- [This Corrosion (2018 Remaster)](https://www.youtube.com/watch?v=uzcmDOdapeY)
-- [No Time to Cry (2018 Remaster)](https://www.youtube.com/watch?v=HFd0IR-1p20)
-- [Walk Away (2018 Remaster)](https://www.youtube.com/watch?v=2UvQ-ThVRAI)
-- [Body and Soul (2018 Remaster)](https://www.youtube.com/watch?v=5VUXoe8XzlY)
+- [Temple of Love 1992 2018 Remaster](https://www.youtube.com/watch?v=xi7lOB4PndY)
+- [Vision Thing 2018 Remaster](https://www.youtube.com/watch?v=FMLE_EjuYsc)
+- [Detonation Boulevard 2018 Remaster](https://www.youtube.com/watch?v=n1yUAksYddY)
+- [Doctor Jeep 2018 Remaster](https://www.youtube.com/watch?v=yUjfF5d25RU)
+- [More 2018 Remaster](https://www.youtube.com/watch?v=Po0FvFhbZsc)
+- [Lucretia My Reflection 2018 Remaster](https://www.youtube.com/watch?v=bpte1HPawvU)
+- [This Corrosion 2018 Remaster](https://www.youtube.com/watch?v=uzcmDOdapeY)
+- [No Time to Cry 2018 Remaster](https://www.youtube.com/watch?v=HFd0IR-1p20)
+- [Walk Away 2018 Remaster](https://www.youtube.com/watch?v=2UvQ-ThVRAI)
+- [Body and Soul 2018 Remaster](https://www.youtube.com/watch?v=5VUXoe8XzlY)
 
 ## Release Images
 {{< imageGrid >}}

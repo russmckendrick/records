@@ -55,20 +55,20 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 
 
 ## Videos
-### Test for Echo (Remastered)
-{{< youtube id="_zfIYInFMhg" title="Test for Echo (Remastered)" >}}<br>
+### Test for Echo Remastered
+{{< youtube id="_zfIYInFMhg" title="Test for Echo Remastered" >}}<br>
 ### More Videos
 
-- [Driven (Remastered)](https://www.youtube.com/watch?v=Vo20tDqnf_U)
-- [Half the World (Remastered)](https://www.youtube.com/watch?v=2GvCXX4nRb4)
-- [The Color of Right (Remastered)](https://www.youtube.com/watch?v=WNcK5nFyrO4)
-- [Time and Motion (Remastered)](https://www.youtube.com/watch?v=i4pnxlDitdA)
-- [Totem (Remastered)](https://www.youtube.com/watch?v=mI208DRLsFc)
-- [Dog Years (Remastered)](https://www.youtube.com/watch?v=Cgp6_jJnrO8)
-- [Virtuality (Remastered)](https://www.youtube.com/watch?v=4H2_fQ8xWCM)
-- [Resist (Remastered)](https://www.youtube.com/watch?v=lcTf3ed4Bp8)
-- [Limbo (Remastered)](https://www.youtube.com/watch?v=MLl4d1KlxZ4)
-- [Carve Away the Stone (Remastered)](https://www.youtube.com/watch?v=bOBS6m18qnQ)
+- [Driven Remastered](https://www.youtube.com/watch?v=Vo20tDqnf_U)
+- [Half the World Remastered](https://www.youtube.com/watch?v=2GvCXX4nRb4)
+- [The Color of Right Remastered](https://www.youtube.com/watch?v=WNcK5nFyrO4)
+- [Time and Motion Remastered](https://www.youtube.com/watch?v=i4pnxlDitdA)
+- [Totem Remastered](https://www.youtube.com/watch?v=mI208DRLsFc)
+- [Dog Years Remastered](https://www.youtube.com/watch?v=Cgp6_jJnrO8)
+- [Virtuality Remastered](https://www.youtube.com/watch?v=4H2_fQ8xWCM)
+- [Resist Remastered](https://www.youtube.com/watch?v=lcTf3ed4Bp8)
+- [Limbo Remastered](https://www.youtube.com/watch?v=MLl4d1KlxZ4)
+- [Carve Away the Stone Remastered](https://www.youtube.com/watch?v=bOBS6m18qnQ)
 
 ## Release Images
 {{< imageGrid >}}

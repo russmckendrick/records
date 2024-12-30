@@ -63,27 +63,27 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Videos
-### Prince - Sign O' The Times (Official Music Video)
-{{< youtube id="8EdxM72EZ94" title="Prince - Sign O' The Times (Official Music Video)" >}}<br>
+### Prince - Sign O The Times Official Music Video
+{{< youtube id="8EdxM72EZ94" title="Prince - Sign O The Times Official Music Video" >}}<br>
 ### More Videos
 
-- [Sign 'O' the Times](https://www.youtube.com/watch?v=TQi7v-mJtcs)
-- [Prince - Sign 'O' The Times Live 1987](https://www.youtube.com/watch?v=eWmnc7oapaE)
-- [Prince - Sign O' The Times](https://www.youtube.com/watch?v=EVolCHbpk34)
-- [Prince - Sign o' the Times](https://www.youtube.com/watch?v=xkB1y189tJo)
-- [Claus dem Wohnzimmer #34 TIME](https://www.youtube.com/watch?v=7o9VSmqAB0Y)
-- [Sign O' The Times (Edit - 2020 Remaster)](https://www.youtube.com/watch?v=2MsWSe3fAvI)
-- [Prince - "Sign 'O' the Times" | 2004 Induction](https://www.youtube.com/watch?v=kl7H4mPmvBI)
-- [Prince: Sign 'o' the Times](https://www.youtube.com/watch?v=ACf9uCXgeus)
-- [Prince - Sign 'O' the Times](https://www.youtube.com/watch?v=aEBtFOjTEtw)
-- [PRINCE - Sign O The Times / Play In The Sunshine 1987 MTV VMA](https://www.youtube.com/watch?v=98dX8CTJw20)
-- [Prince - If I Was Your Girlfriend (Sign O' The Times Concert Film, 1987)](https://www.youtube.com/watch?v=8I3BxMmICIg)
-- [Prince - Sign O' The Times LIVE at Paisley Park (12-31-1987)](https://www.youtube.com/watch?v=N8WcK0ens3U)
-- [Prince - Sign O' The Times (1987) - The Facts You DIDN'T Know](https://www.youtube.com/watch?v=KhpY-aNw064)
-- [Prince - Hot Thing (Sign O' The Times Concert Film)](https://www.youtube.com/watch?v=uYKXIFRiiR0)
-- [Muse – Sign O’ The Times (Prince cover)](https://www.youtube.com/watch?v=OZOrIHeEN3s)
-- [Prince - The Cross Live | Sign o' the Times 1987](https://www.youtube.com/watch?v=8NnqOfW_klg)
-- [Prince - U Got The Look (Official Music Video)](https://www.youtube.com/watch?v=_jCuroTbqBI)
+- [Sign O the Times](https://www.youtube.com/watch?v=TQi7v-mJtcs)
+- [Prince - Sign O The Times Live 1987](https://www.youtube.com/watch?v=eWmnc7oapaE)
+- [Prince - Sign O The Times](https://www.youtube.com/watch?v=EVolCHbpk34)
+- [Prince - Sign o the Times](https://www.youtube.com/watch?v=xkB1y189tJo)
+- [Claus dem Wohnzimmer 34 TIME](https://www.youtube.com/watch?v=7o9VSmqAB0Y)
+- [Sign O The Times Edit - 2020 Remaster](https://www.youtube.com/watch?v=2MsWSe3fAvI)
+- [Prince - Sign O the Times  2004 Induction](https://www.youtube.com/watch?v=kl7H4mPmvBI)
+- [Prince Sign o the Times](https://www.youtube.com/watch?v=ACf9uCXgeus)
+- [Prince - Sign O the Times](https://www.youtube.com/watch?v=aEBtFOjTEtw)
+- [PRINCE - Sign O The Times  Play In The Sunshine 1987 MTV VMA](https://www.youtube.com/watch?v=98dX8CTJw20)
+- [Prince - If I Was Your Girlfriend Sign O The Times Concert Film 1987](https://www.youtube.com/watch?v=8I3BxMmICIg)
+- [Prince - Sign O The Times LIVE at Paisley Park 12-31-1987](https://www.youtube.com/watch?v=N8WcK0ens3U)
+- [Prince - Sign O The Times 1987 - The Facts You DIDNT Know](https://www.youtube.com/watch?v=KhpY-aNw064)
+- [Prince - Hot Thing Sign O The Times Concert Film](https://www.youtube.com/watch?v=uYKXIFRiiR0)
+- [Muse  Sign O The Times Prince cover](https://www.youtube.com/watch?v=OZOrIHeEN3s)
+- [Prince - The Cross Live  Sign o the Times 1987](https://www.youtube.com/watch?v=8NnqOfW_klg)
+- [Prince - U Got The Look Official Music Video](https://www.youtube.com/watch?v=_jCuroTbqBI)
 - [Prince Sign o the Times 1987 Full Concert](https://www.youtube.com/watch?v=NynGt0azJ9s)
 
 ## Release Images

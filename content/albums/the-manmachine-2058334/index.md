@@ -45,12 +45,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Das Model (2009 Remaster)
-{{< youtube id="o0iga1eNgvA" title="Das Model (2009 Remaster)" >}}<br>
+### Das Model 2009 Remaster
+{{< youtube id="o0iga1eNgvA" title="Das Model 2009 Remaster" >}}<br>
 ### More Videos
 
-- [Neonlicht (2009 Remaster)](https://www.youtube.com/watch?v=fqsMCEgHMrE)
-- [Die Roboter (2009 Remaster)](https://www.youtube.com/watch?v=SaoBbCC66I4)
+- [Neonlicht 2009 Remaster](https://www.youtube.com/watch?v=fqsMCEgHMrE)
+- [Die Roboter 2009 Remaster](https://www.youtube.com/watch?v=SaoBbCC66I4)
 
 ## Release Images
 {{< imageGrid >}}

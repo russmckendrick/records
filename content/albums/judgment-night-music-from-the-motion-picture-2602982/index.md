@@ -46,8 +46,8 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 {{< youtube id="M0TVU6mI12I" title="Just Another Victim" >}}<br>
 ### More Videos
 
-- [Teenage Fanclub - Fallin'](https://www.youtube.com/watch?v=mOmdg3epcic)
-- [Me, Myself & My Microphone](https://www.youtube.com/watch?v=LXBdHmWMuCc)
+- [Teenage Fanclub - Fallin](https://www.youtube.com/watch?v=mOmdg3epcic)
+- [Me Myself  My Microphone](https://www.youtube.com/watch?v=LXBdHmWMuCc)
 - [Judgment Night](https://www.youtube.com/watch?v=hwsnmagG-TE)
 - [Disorder](https://www.youtube.com/watch?v=-mTCvm4gQpQ)
 - [Another Body Murdered](https://www.youtube.com/watch?v=PfEjHKcct1A)

@@ -50,17 +50,17 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 
 
 ## Videos
-### Laura Veirs - The Lookout [Full Album Stream]
-{{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout [Full Album Stream]" >}}<br>
+### Laura Veirs - The Lookout Full Album Stream
+{{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout Full Album Stream" >}}<br>
 ### More Videos
 
-- [Laura Veirs - Margaret Sands (opbmusic)](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
+- [Laura Veirs - Margaret Sands opbmusic](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
 - [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
-- [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)
-- [Laura Veirs - The Lookout [Full Album Stream]](https://www.youtube.com/watch?v=9nSs3Xn2blI)
-- [Laura Veirs - Margaret Sands (opbmusic)](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
+- [Laura Veirs - Seven Falls Live on KEXP](https://www.youtube.com/watch?v=46Z89pu4Lu0)
+- [Laura Veirs - The Lookout Full Album Stream](https://www.youtube.com/watch?v=9nSs3Xn2blI)
+- [Laura Veirs - Margaret Sands opbmusic](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
 - [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
-- [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)
+- [Laura Veirs - Seven Falls Live on KEXP](https://www.youtube.com/watch?v=46Z89pu4Lu0)
 
 ## Release Images
 {{< imageGrid >}}

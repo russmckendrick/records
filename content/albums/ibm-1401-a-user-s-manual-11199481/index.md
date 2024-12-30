@@ -53,11 +53,11 @@ IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic mu
 
 
 ## Videos
-### IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit
-{{< youtube id="tBw_wSoVQrY" title="IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit" >}}<br>
+### IBM 1401 a Users Manual Part I - IBM 1401 Processing Unit
+{{< youtube id="tBw_wSoVQrY" title="IBM 1401 a Users Manual Part I - IBM 1401 Processing Unit" >}}<br>
 ### More Videos
 
-- [Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)](https://www.youtube.com/watch?v=euROmffXvKM)
+- [Jóhann Jóhannsson - The Suns Gone Dim And The Skys Turned Black Baraka](https://www.youtube.com/watch?v=euROmffXvKM)
 
 ## Release Images
 {{< imageGrid >}}

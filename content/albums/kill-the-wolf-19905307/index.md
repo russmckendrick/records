@@ -45,23 +45,23 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 
 
 ## Videos
-### Matt Berry - Gather Up (Kill the Wolf Album)
-{{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
+### Matt Berry - Gather Up Kill the Wolf Album
+{{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up Kill the Wolf Album" >}}<br>
 ### More Videos
 
 - [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
-- [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
-- [Matt Berry - Wolf Quartet (Kill the Wolf Album)](https://www.youtube.com/watch?v=Cqx4BsxsMts)
-- [Matt Berry - Solstice (Kill the Wolf Album)](https://www.youtube.com/watch?v=5f_3iqHpnVM)
-- [Matt Berry - October Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=zSjjsJzKlzE)
-- [Matt Berry - The Signs (Kill the Wolf Album)](https://www.youtube.com/watch?v=LEgX3IBnnlg)
-- [Matt Berry - Knock Knock (Kill the Wolf Album)](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
-- [Matt Berry - Bonfire (Kill the Wolf Album)](https://www.youtube.com/watch?v=3ykbiAL-48s)
-- [Matt Berry - Village Dance (Kill the Wolf Album)](https://www.youtube.com/watch?v=MEok98HV7_8)
-- [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
+- [Matt Berry - Medicine Official Audio - Acid Jazz Records](https://www.youtube.com/watch?v=C4VtLvVIHP8)
+- [Matt Berry - Wolf Quartet Kill the Wolf Album](https://www.youtube.com/watch?v=Cqx4BsxsMts)
+- [Matt Berry - Solstice Kill the Wolf Album](https://www.youtube.com/watch?v=5f_3iqHpnVM)
+- [Matt Berry - October Sun Kill the Wolf Album](https://www.youtube.com/watch?v=zSjjsJzKlzE)
+- [Matt Berry - The Signs Kill the Wolf Album](https://www.youtube.com/watch?v=LEgX3IBnnlg)
+- [Matt Berry - Knock Knock Kill the Wolf Album](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
+- [Matt Berry - Bonfire Kill the Wolf Album](https://www.youtube.com/watch?v=3ykbiAL-48s)
+- [Matt Berry - Village Dance Kill the Wolf Album](https://www.youtube.com/watch?v=MEok98HV7_8)
+- [Matt Berry - Farewell Summer Sun Kill the Wolf Album](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
-- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
+- [Matt Berry - Kill The Wolf Box Set UNBOXING](https://www.youtube.com/watch?v=n_nt6clp3ck)
 
 ## Release Images
 {{< imageGrid >}}

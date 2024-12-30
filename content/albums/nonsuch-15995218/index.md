@@ -62,27 +62,27 @@ Lead single "The Disappointed" reached number 33 in the UK and was nominated for
 
 
 ## Videos
-### My Bird Performs (2001 Remaster)
-{{< youtube id="-fx8D1ixbys" title="My Bird Performs (2001 Remaster)" >}}<br>
+### My Bird Performs 2001 Remaster
+{{< youtube id="-fx8D1ixbys" title="My Bird Performs 2001 Remaster" >}}<br>
 ### More Videos
 
-- [Dear Madam Barnum (2001 Remaster)](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
-- [Humble Daisy (2001 Remaster)](https://www.youtube.com/watch?v=n_EFGlpkUlg)
-- [Wrapped In Grey (2001 Remaster)](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
+- [Dear Madam Barnum 2001 Remaster](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
+- [Humble Daisy 2001 Remaster](https://www.youtube.com/watch?v=n_EFGlpkUlg)
+- [Wrapped In Grey 2001 Remaster](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
 - [XTC- War Dance home demo -Nonsuch-](https://www.youtube.com/watch?v=pBY5lJDO6TA)
-- [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
+- [That Wave 2001 Remaster](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
 - [XTC - The Disappointed](https://www.youtube.com/watch?v=zyp3NMeiV_Q)
 - [XTC-The Disappointed -Official Promo Video](https://www.youtube.com/watch?v=ZG3YTqOlIkI)
 - [XTC-Then She Appeared- Nonsuch 1992](https://www.youtube.com/watch?v=rkCeN4PLR10)
 - [XTC - Wrapped in Grey - Steven Wilson 2013 Stereo Mix](https://www.youtube.com/watch?v=4esd2g-d-rA)
 - [Xtc - The Ugly Underneath](https://www.youtube.com/watch?v=7wVIQeQKEj4)
-- [The Ballad of Peter Pumpkinhead /  XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
-- [My Bird Performs (2001 Remaster)](https://www.youtube.com/watch?v=-fx8D1ixbys)
-- [Dear Madam Barnum (2001 Remaster)](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
-- [Humble Daisy (2001 Remaster)](https://www.youtube.com/watch?v=n_EFGlpkUlg)
-- [Wrapped In Grey (2001 Remaster)](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
+- [The Ballad of Peter Pumpkinhead   XTC](https://www.youtube.com/watch?v=na8W4Bx1Z1A)
+- [My Bird Performs 2001 Remaster](https://www.youtube.com/watch?v=-fx8D1ixbys)
+- [Dear Madam Barnum 2001 Remaster](https://www.youtube.com/watch?v=Mm0GL6GAw2M)
+- [Humble Daisy 2001 Remaster](https://www.youtube.com/watch?v=n_EFGlpkUlg)
+- [Wrapped In Grey 2001 Remaster](https://www.youtube.com/watch?v=P9OZ_5lnzB8)
 - [XTC- War Dance home demo -Nonsuch-](https://www.youtube.com/watch?v=pBY5lJDO6TA)
-- [That Wave (2001 Remaster)](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
+- [That Wave 2001 Remaster](https://www.youtube.com/watch?v=ZzSGWmz-CAE)
 
 ## Release Images
 {{< imageGrid >}}

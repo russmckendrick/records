@@ -50,8 +50,8 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 
 
 ## Videos
-### What's Wrong
-{{< youtube id="tTb4nEDtvcs" title="What's Wrong" >}}<br>
+### Whats Wrong
+{{< youtube id="tTb4nEDtvcs" title="Whats Wrong" >}}<br>
 ### More Videos
 
 - [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
@@ -61,12 +61,12 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 - [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
 - [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
 - [You and I](https://www.youtube.com/watch?v=2BgCvyCyqXg)
-- [Dennis Wilson -  Pacific Ocean Blue (1977) Full Album](https://www.youtube.com/watch?v=iB6REIZ5GbM)
+- [Dennis Wilson -  Pacific Ocean Blue 1977 Full Album](https://www.youtube.com/watch?v=iB6REIZ5GbM)
 - [Only with You](https://www.youtube.com/watch?v=1Q-oVAhZ3GQ)
 - [Tug of Love](https://www.youtube.com/watch?v=aaqgKEUwaiM)
-- [Holy Man (Taylor Hawkins Version)](https://www.youtube.com/watch?v=T-0EGjHwSKE)
+- [Holy Man Taylor Hawkins Version](https://www.youtube.com/watch?v=T-0EGjHwSKE)
 - [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
-- [What's Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
+- [Whats Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
 - [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
 
 ## Release Images

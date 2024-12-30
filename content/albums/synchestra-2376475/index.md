@@ -52,12 +52,12 @@ Synchestra ( sing-KES-trə) is the eighth solo album by Canadian musician Devin 
 
 
 ## Videos
-### The Devin Townsend Band - "Vampira" Inside Out Music
-{{< youtube id="MMLXoobDKWs" title="The Devin Townsend Band - "Vampira" Inside Out Music" >}}<br>
+### The Devin Townsend Band - Vampira Inside Out Music
+{{< youtube id="MMLXoobDKWs" title="The Devin Townsend Band - Vampira Inside Out Music" >}}<br>
 ### More Videos
 
-- [The Devin Townsend Band ‎– Let It Roll](https://www.youtube.com/watch?v=FNGSwh80bZ4)
-- [The Devin Townsend Band – Vampira](https://www.youtube.com/watch?v=IJ3iWDtYgAE)
+- [The Devin Townsend Band  Let It Roll](https://www.youtube.com/watch?v=FNGSwh80bZ4)
+- [The Devin Townsend Band  Vampira](https://www.youtube.com/watch?v=IJ3iWDtYgAE)
 
 ## Release Images
 {{< imageGrid >}}

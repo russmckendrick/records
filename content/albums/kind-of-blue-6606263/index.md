@@ -43,8 +43,8 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
 
 
 ## Videos
-### Miles Davis - Blue In Green (Official Audio)
-{{< youtube id="TLDflhhdPCg" title="Miles Davis - Blue In Green (Official Audio)" >}}<br>
+### Miles Davis - Blue In Green Official Audio
+{{< youtube id="TLDflhhdPCg" title="Miles Davis - Blue In Green Official Audio" >}}<br>
 
 
 ## Release Images

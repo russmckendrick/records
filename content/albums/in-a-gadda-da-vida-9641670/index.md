@@ -53,7 +53,7 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 - [Termination](https://www.youtube.com/watch?v=TxAGeGBhIxI)
 - [My Mirage](https://www.youtube.com/watch?v=zlh4661CQFw)
 - [Are You Happy](https://www.youtube.com/watch?v=XcSZTBuQyK4)
-- [In-A-Gadda-Da-Vida (2006 Remaster Full-Length)](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
+- [In-A-Gadda-Da-Vida 2006 Remaster Full-Length](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
 
 ## Release Images
 {{< imageGrid >}}

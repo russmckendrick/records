@@ -49,21 +49,21 @@ Pretenders II is the second studio album by British-American rock band the Prete
 
 
 ## Videos
-### A1  The Adultress   - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip
-{{< youtube id="ieEAX6h00-0" title="A1  The Adultress   - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip" >}}<br>
+### A1  The Adultress   - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip
+{{< youtube id="ieEAX6h00-0" title="A1  The Adultress   - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip" >}}<br>
 ### More Videos
 
-- [A2  Bad Boys Get Spanked   - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=jlYu64r9938)
-- [A3  Message Of Love - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=zGcVtTTThIY)
-- [A4  I Go To Sleep - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=TlqLME6m_WY)
-- [A5  Birds Of Paradise - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=VgPo0W0eVuI)
-- [A6  Talk Of The Town - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=fr93ZOGlVmM)
-- [B1  Pack It Up - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=kjv_xGXZfeo)
-- [B2  Waste Not Want Not - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=Gh-cSRazq8w)
-- [B3  Day After Day - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=S1tkbEFS2Pc)
-- [B4  Jealous Dogs  - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=Du_SbZmVb6o)
-- [B5  The English Roses   - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=clHOSP2e5lU)
-- [B6  Louie Louie   - Pretenders – Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=1ui9B19N9-E)
+- [A2  Bad Boys Get Spanked   - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=jlYu64r9938)
+- [A3  Message Of Love - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=zGcVtTTThIY)
+- [A4  I Go To Sleep - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=TlqLME6m_WY)
+- [A5  Birds Of Paradise - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=VgPo0W0eVuI)
+- [A6  Talk Of The Town - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=fr93ZOGlVmM)
+- [B1  Pack It Up - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=kjv_xGXZfeo)
+- [B2  Waste Not Want Not - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=Gh-cSRazq8w)
+- [B3  Day After Day - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=S1tkbEFS2Pc)
+- [B4  Jealous Dogs  - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=Du_SbZmVb6o)
+- [B5  The English Roses   - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=clHOSP2e5lU)
+- [B6  Louie Louie   - Pretenders  Pretenders II Original 1981 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=1ui9B19N9-E)
 - [Pretenders - II 1981 full album vinyl](https://www.youtube.com/watch?v=rzJJzqKwmyc)
 
 ## Release Images

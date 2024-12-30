@@ -46,19 +46,19 @@ At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards fo
 
 
 ## Videos
-### Supertramp - Gone Hollywood (Audio)
-{{< youtube id="U1ZURsd17GI" title="Supertramp - Gone Hollywood (Audio)" >}}<br>
+### Supertramp - Gone Hollywood Audio
+{{< youtube id="U1ZURsd17GI" title="Supertramp - Gone Hollywood Audio" >}}<br>
 ### More Videos
 
-- [Supertramp - The Logical Song (Audio)](https://www.youtube.com/watch?v=w31GDDH_enM)
-- [Supertramp - Goodbye Stranger (Audio)](https://www.youtube.com/watch?v=eVRxeAnHhc4)
-- [Supertramp - Breakfast In America (Audio)](https://www.youtube.com/watch?v=D6bA59wDgYE)
-- [Supertramp - Oh Darling (Audio)](https://www.youtube.com/watch?v=S26A9oTCXAA)
-- [Supertramp - Take The Long Way Home (Audio)](https://www.youtube.com/watch?v=_Pts0jqX-yY)
-- [Supertramp - Lord It Is Mine (Audio)](https://www.youtube.com/watch?v=qkw-PlOvA58)
-- [Supertramp - Just Another Nervous Wreck (Audio)](https://www.youtube.com/watch?v=zah1klIbrL0)
-- [Supertramp - Casual Conversations (Audio)](https://www.youtube.com/watch?v=BsVL6oaOGEk)
-- [Supertramp - Child Of Vision (Audio)](https://www.youtube.com/watch?v=SEReeNV8KpQ)
+- [Supertramp - The Logical Song Audio](https://www.youtube.com/watch?v=w31GDDH_enM)
+- [Supertramp - Goodbye Stranger Audio](https://www.youtube.com/watch?v=eVRxeAnHhc4)
+- [Supertramp - Breakfast In America Audio](https://www.youtube.com/watch?v=D6bA59wDgYE)
+- [Supertramp - Oh Darling Audio](https://www.youtube.com/watch?v=S26A9oTCXAA)
+- [Supertramp - Take The Long Way Home Audio](https://www.youtube.com/watch?v=_Pts0jqX-yY)
+- [Supertramp - Lord It Is Mine Audio](https://www.youtube.com/watch?v=qkw-PlOvA58)
+- [Supertramp - Just Another Nervous Wreck Audio](https://www.youtube.com/watch?v=zah1klIbrL0)
+- [Supertramp - Casual Conversations Audio](https://www.youtube.com/watch?v=BsVL6oaOGEk)
+- [Supertramp - Child Of Vision Audio](https://www.youtube.com/watch?v=SEReeNV8KpQ)
 
 ## Release Images
 {{< imageGrid >}}

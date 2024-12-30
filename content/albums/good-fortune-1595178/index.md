@@ -48,13 +48,13 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 
 
 ## Videos
-### Airborn Audio(M.Sayyid & High Priest) - Paradise
-{{< youtube id="At0t0VPHwNY" title="Airborn Audio(M.Sayyid & High Priest) - Paradise" >}}<br>
+### Airborn AudioMSayyid  High Priest - Paradise
+{{< youtube id="At0t0VPHwNY" title="Airborn AudioMSayyid  High Priest - Paradise" >}}<br>
 ### More Videos
 
-- [Airborn Audio(M. Sayyid & High Priest) - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
+- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
 - [Airborn Audio - Monday Through Sunday](https://www.youtube.com/watch?v=2YJIw-9XIxI)
-- [Airborn Audio -  Mon. thru sun.](https://www.youtube.com/watch?v=B1pZMq5_0nI)
+- [Airborn Audio -  Mon thru sun](https://www.youtube.com/watch?v=B1pZMq5_0nI)
 - [Monday Through Sunday](https://www.youtube.com/watch?v=7EBreTusIcQ)
 - [This Year](https://www.youtube.com/watch?v=JeVQ2RRglJ4)
 - [Wings](https://www.youtube.com/watch?v=W7rq5HQoqqs)
@@ -69,12 +69,12 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 - [House of Mirrors](https://www.youtube.com/watch?v=QbT-wJBvu_0)
 - [Close Your Eyes](https://www.youtube.com/watch?v=6bs1B9tklHo)
 - [Trust Me](https://www.youtube.com/watch?v=5EDIcZehxFI)
-- [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
-- [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
-- [Airborn Audio(M.Sayyid & High Priest) - Paradise](https://www.youtube.com/watch?v=At0t0VPHwNY)
-- [Airborn Audio(M. Sayyid & High Priest) - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
+- [Airborn Audio  House Of Mirrors Edit 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
+- [Airborn Audio - This Year Unofficial Music Video](https://www.youtube.com/watch?v=wkUzklrqM4o)
+- [Airborn AudioMSayyid  High Priest - Paradise](https://www.youtube.com/watch?v=At0t0VPHwNY)
+- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
 - [Airborn Audio - Monday Through Sunday](https://www.youtube.com/watch?v=2YJIw-9XIxI)
-- [Airborn Audio -  Mon. thru sun.](https://www.youtube.com/watch?v=B1pZMq5_0nI)
+- [Airborn Audio -  Mon thru sun](https://www.youtube.com/watch?v=B1pZMq5_0nI)
 - [Monday Through Sunday](https://www.youtube.com/watch?v=7EBreTusIcQ)
 - [This Year](https://www.youtube.com/watch?v=JeVQ2RRglJ4)
 - [Wings](https://www.youtube.com/watch?v=W7rq5HQoqqs)
@@ -89,9 +89,9 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 - [House of Mirrors](https://www.youtube.com/watch?v=QbT-wJBvu_0)
 - [Close Your Eyes](https://www.youtube.com/watch?v=6bs1B9tklHo)
 - [Trust Me](https://www.youtube.com/watch?v=5EDIcZehxFI)
-- [Airborn Audio | House Of Mirrors (Edit) 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
-- [Airborn Audio - This Year (Unofficial Music Video)](https://www.youtube.com/watch?v=wkUzklrqM4o)
-- [Airborn Audio(M. Sayyid & High Priest) - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
+- [Airborn Audio  House Of Mirrors Edit 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
+- [Airborn Audio - This Year Unofficial Music Video](https://www.youtube.com/watch?v=wkUzklrqM4o)
+- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
 
 ## Release Images
 {{< imageGrid >}}

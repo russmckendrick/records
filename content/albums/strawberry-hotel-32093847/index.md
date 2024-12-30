@@ -57,28 +57,28 @@ Strawberry Hotel is the eleventh studio album by British electronic group Underw
 
 
 ## Videos
-### Underworld - Black Poppies (Official Visualiser)
-{{< youtube id="BUL5J4JzRDA" title="Underworld - Black Poppies (Official Visualiser)" >}}<br>
+### Underworld - Black Poppies Official Visualiser
+{{< youtube id="BUL5J4JzRDA" title="Underworld - Black Poppies Official Visualiser" >}}<br>
 ### More Videos
 
-- [Underworld - denver luna (Official Visualiser)](https://www.youtube.com/watch?v=q6JDLlf2qeE)
-- [Underworld - Techno Shinkansen (Official Visualiser)](https://www.youtube.com/watch?v=fdkvkHUEgP4)
-- [Underworld - and the colour red (full length video)](https://www.youtube.com/watch?v=Rh4tuUkANtg)
+- [Underworld - denver luna Official Visualiser](https://www.youtube.com/watch?v=q6JDLlf2qeE)
+- [Underworld - Techno Shinkansen Official Visualiser](https://www.youtube.com/watch?v=fdkvkHUEgP4)
+- [Underworld - and the colour red full length video](https://www.youtube.com/watch?v=Rh4tuUkANtg)
 - [Sweet Lands Experience](https://www.youtube.com/watch?v=QKqlimyXqn8)
 - [Lewis in Pomona](https://www.youtube.com/watch?v=ROhdGMs-0c8)
 - [Hilo Sky](https://www.youtube.com/watch?v=T0Jq8BTCm64)
 - [Burst of Laughter](https://www.youtube.com/watch?v=e_Km9DBp5BQ)
 - [King of Haarlem](https://www.youtube.com/watch?v=teFXWYe8fhs)
 - [Ottavia](https://www.youtube.com/watch?v=bjckrCiSuOs)
-- [Underworld - denver luna (acappella)](https://www.youtube.com/watch?v=jBZeQly_NZc)
+- [Underworld - denver luna acappella](https://www.youtube.com/watch?v=jBZeQly_NZc)
 - [Gene Pool](https://www.youtube.com/watch?v=zNWriAT0UfM)
-- [Oh Thorn!](https://www.youtube.com/watch?v=X1yPrEUiYPk)
+- [Oh Thorn](https://www.youtube.com/watch?v=X1yPrEUiYPk)
 - [Iron Bones](https://www.youtube.com/watch?v=oUhGZXKpoQc)
 - [Stick Man Test](https://www.youtube.com/watch?v=T9XIPKmcABY)
-- [Underworld - Black Poppies (Official Visualiser)](https://www.youtube.com/watch?v=BUL5J4JzRDA)
-- [Underworld - denver luna (Official Visualiser)](https://www.youtube.com/watch?v=q6JDLlf2qeE)
-- [Underworld - Techno Shinkansen (Official Visualiser)](https://www.youtube.com/watch?v=fdkvkHUEgP4)
-- [Underworld Velvet Does ( Strawberry Hotel High Fidelity Disc - Japan Only Bonus Track )](https://www.youtube.com/watch?v=N52d4l0wNzc)
+- [Underworld - Black Poppies Official Visualiser](https://www.youtube.com/watch?v=BUL5J4JzRDA)
+- [Underworld - denver luna Official Visualiser](https://www.youtube.com/watch?v=q6JDLlf2qeE)
+- [Underworld - Techno Shinkansen Official Visualiser](https://www.youtube.com/watch?v=fdkvkHUEgP4)
+- [Underworld Velvet Does  Strawberry Hotel High Fidelity Disc - Japan Only Bonus Track ](https://www.youtube.com/watch?v=N52d4l0wNzc)
 
 ## Release Images
 {{< imageGrid >}}

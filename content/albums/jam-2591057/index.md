@@ -62,8 +62,8 @@ The album features the band's biggest hit, "Womankind", which peaked at no. 12 d
 
 
 ## Videos
-### Little Angels – Womankind
-{{< youtube id="AyqjkGLewpY" title="Little Angels – Womankind" >}}<br>
+### Little Angels  Womankind
+{{< youtube id="AyqjkGLewpY" title="Little Angels  Womankind" >}}<br>
 
 
 ## Release Images

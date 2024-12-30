@@ -57,20 +57,20 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 
 
 ## Videos
-### Pink Floyd - The Dark Side Of The Moon (50th Anniversary) [2023 Remaster] {Full Album}
-{{< youtube id="k9ynZnEBtvw" title="Pink Floyd - The Dark Side Of The Moon (50th Anniversary) [2023 Remaster] {Full Album}" >}}<br>
+### Pink Floyd - The Dark Side Of The Moon 50th Anniversary 2023 Remaster Full Album
+{{< youtube id="k9ynZnEBtvw" title="Pink Floyd - The Dark Side Of The Moon 50th Anniversary 2023 Remaster Full Album" >}}<br>
 ### More Videos
 
-- [Speak To Me (2023 Remaster)](https://www.youtube.com/watch?v=2o4ygOv0wKk)
-- [Breathe (In The Air) (2023 Remaster)](https://www.youtube.com/watch?v=stOCUPEytzg)
-- [On The Run (2023 Remaster)](https://www.youtube.com/watch?v=KrfhWmHxKQI)
-- [Time (2023 Remaster)](https://www.youtube.com/watch?v=ki4ZFxeFmEM)
-- [The Great Gig In The Sky (2023 Remaster)](https://www.youtube.com/watch?v=msiEYm28OHs)
-- [Money (2023 Remaster)](https://www.youtube.com/watch?v=Cy4lg1w3Leo)
-- [Us And Them (2023 Remaster)](https://www.youtube.com/watch?v=_It2WPW4O3s)
-- [Any Colour You Like (2023 Remaster)](https://www.youtube.com/watch?v=nlgIkOT6qJk)
-- [Brain Damage (2023 Remaster)](https://www.youtube.com/watch?v=996Myqoi4gE)
-- [Eclipse (2023 Remaster)](https://www.youtube.com/watch?v=k0xGxnZFNYs)
+- [Speak To Me 2023 Remaster](https://www.youtube.com/watch?v=2o4ygOv0wKk)
+- [Breathe In The Air 2023 Remaster](https://www.youtube.com/watch?v=stOCUPEytzg)
+- [On The Run 2023 Remaster](https://www.youtube.com/watch?v=KrfhWmHxKQI)
+- [Time 2023 Remaster](https://www.youtube.com/watch?v=ki4ZFxeFmEM)
+- [The Great Gig In The Sky 2023 Remaster](https://www.youtube.com/watch?v=msiEYm28OHs)
+- [Money 2023 Remaster](https://www.youtube.com/watch?v=Cy4lg1w3Leo)
+- [Us And Them 2023 Remaster](https://www.youtube.com/watch?v=_It2WPW4O3s)
+- [Any Colour You Like 2023 Remaster](https://www.youtube.com/watch?v=nlgIkOT6qJk)
+- [Brain Damage 2023 Remaster](https://www.youtube.com/watch?v=996Myqoi4gE)
+- [Eclipse 2023 Remaster](https://www.youtube.com/watch?v=k0xGxnZFNYs)
 
 ## Release Images
 {{< imageGrid >}}

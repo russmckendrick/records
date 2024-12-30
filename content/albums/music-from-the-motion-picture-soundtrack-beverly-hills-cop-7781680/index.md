@@ -37,38 +37,38 @@ styles: ["Soundtrack", "Soft Rock", "Synth-pop", "Contemporary R&B"]
 
 
 ## Videos
-### Glenn Frey - The Heat Is On (1984)
-{{< youtube id="iSqqkgvwukc" title="Glenn Frey - The Heat Is On (1984)" >}}<br>
+### Glenn Frey - The Heat Is On 1984
+{{< youtube id="iSqqkgvwukc" title="Glenn Frey - The Heat Is On 1984" >}}<br>
 ### More Videos
 
 - [Beverly Hills Cop - full album - score and songs - Harold Faltermeyer](https://www.youtube.com/watch?v=QmhagVGxWiA)
 - [Beverly Hills Cop Main Theme](https://www.youtube.com/watch?v=V4kWpi2HnPU)
-- [Glenn Frey - The Heat Is On (From "Beverly Hills Cop" Soundtrack)](https://www.youtube.com/watch?v=uZD8HKVKneI)
-- [Patti LaBelle - Stir It Up (1985) Beverly Hills﻿ Cop - Soundtrack](https://www.youtube.com/watch?v=xtOoeDPc9uI)
-- [Patti LaBelle - Stir It Up (Beverly Hills Cop soundtrack)](https://www.youtube.com/watch?v=6_mhFuIPFMs)
-- [Beverly Hills Cop | Soundtrack Suite (Harold Faltermeyer)](https://www.youtube.com/watch?v=zFCYFuQXZPU)
+- [Glenn Frey - The Heat Is On From Beverly Hills Cop Soundtrack](https://www.youtube.com/watch?v=uZD8HKVKneI)
+- [Patti LaBelle - Stir It Up 1985 Beverly Hills Cop - Soundtrack](https://www.youtube.com/watch?v=xtOoeDPc9uI)
+- [Patti LaBelle - Stir It Up Beverly Hills Cop soundtrack](https://www.youtube.com/watch?v=6_mhFuIPFMs)
+- [Beverly Hills Cop  Soundtrack Suite Harold Faltermeyer](https://www.youtube.com/watch?v=zFCYFuQXZPU)
 - [Beverly Hills Cops Theme Song](https://www.youtube.com/watch?v=8tl6jCElujI)
-- [Beverly Hills Cop • Axel F • Harold Faltermeyer](https://www.youtube.com/watch?v=rmySknC9fuQ)
+- [Beverly Hills Cop  Axel F  Harold Faltermeyer](https://www.youtube.com/watch?v=rmySknC9fuQ)
 - [Beverly Hills Cop Soundtrack](https://www.youtube.com/watch?v=N_zI7V_owaM)
-- [Beverly Hills Cop (OST) - Shoot Out (Original Version)](https://www.youtube.com/watch?v=cI3BVNKUdpk)
-- [Beverly Hills Cop (OST) - Good Guys on Grounds](https://www.youtube.com/watch?v=3ywO3YmrGxg)
-- [Axel F (Extended Play) (out of Print)](https://www.youtube.com/watch?v=jCiQVXMJ7t4)
-- [[Beverly_Hills_Cop_I] 04. Rockie_Robbins - Emergency](https://www.youtube.com/watch?v=y3tgHsx3wiQ)
+- [Beverly Hills Cop OST - Shoot Out Original Version](https://www.youtube.com/watch?v=cI3BVNKUdpk)
+- [Beverly Hills Cop OST - Good Guys on Grounds](https://www.youtube.com/watch?v=3ywO3YmrGxg)
+- [Axel F Extended Play out of Print](https://www.youtube.com/watch?v=jCiQVXMJ7t4)
+- [Beverly_Hills_Cop_I 04 Rockie_Robbins - Emergency](https://www.youtube.com/watch?v=y3tgHsx3wiQ)
 - [The Pointer Sisters - Neutron Dance](https://www.youtube.com/watch?v=i-jdhorGtQI)
-- [Harold Faltermeyer - Axel F (HQ)](https://www.youtube.com/watch?v=BxcgnNNAOy0)
-- [Beverly Hills Cop Soundtrack (1984) [FULL ALBUM]](https://www.youtube.com/watch?v=5yT2tAVvLW8)
+- [Harold Faltermeyer - Axel F HQ](https://www.youtube.com/watch?v=BxcgnNNAOy0)
+- [Beverly Hills Cop Soundtrack 1984 FULL ALBUM](https://www.youtube.com/watch?v=5yT2tAVvLW8)
 - [Rockie Robbins - Emergency](https://www.youtube.com/watch?v=Dfy7A-pK6NE)
 - [The Pointer Sisters - Neutron Dance](https://www.youtube.com/watch?v=i-jdhorGtQI)
-- [The Pointer Sisters Neutron Dance (Beverly Hills Cop scene) 1984](https://www.youtube.com/watch?v=WUAL1RBIBtI)
-- [The System - Rock 'n' roll me again (1984)](https://www.youtube.com/watch?v=_dxTJZLRg1c)
-- [Neutron Dance & The Heat Is On -- Songs from  Beverly Hills Cop Opening Chase Scene](https://www.youtube.com/watch?v=k_JY7AaiJQk)
-- [The Pointer Sisters - Neutron Dance (Beverly Hills Cop '84)](https://www.youtube.com/watch?v=un1Ilr5kDBs)
-- [The System - Rock 'n' roll me again (1984)](https://www.youtube.com/watch?v=_dxTJZLRg1c)
-- [Harold Faltermeyer   Beverly Hills Cop Soundtrack Original Score‏](https://www.youtube.com/watch?v=XJ5Brj-eMlA)
+- [The Pointer Sisters Neutron Dance Beverly Hills Cop scene 1984](https://www.youtube.com/watch?v=WUAL1RBIBtI)
+- [The System - Rock n roll me again 1984](https://www.youtube.com/watch?v=_dxTJZLRg1c)
+- [Neutron Dance  The Heat Is On -- Songs from  Beverly Hills Cop Opening Chase Scene](https://www.youtube.com/watch?v=k_JY7AaiJQk)
+- [The Pointer Sisters - Neutron Dance Beverly Hills Cop 84](https://www.youtube.com/watch?v=un1Ilr5kDBs)
+- [The System - Rock n roll me again 1984](https://www.youtube.com/watch?v=_dxTJZLRg1c)
+- [Harold Faltermeyer   Beverly Hills Cop Soundtrack Original Score](https://www.youtube.com/watch?v=XJ5Brj-eMlA)
 - [Patti LaBelle - New Attitude](https://www.youtube.com/watch?v=QWfZ5SZZ4xE)
 - [Gratitude - Danny Elfman](https://www.youtube.com/watch?v=6nzlbR2ZuU0)
 - [Stir It Up - Patti LaBelle](https://www.youtube.com/watch?v=4ELcA-GdPCE)
-- [Axel F - Harold Faltermeyer (Original Version)](https://www.youtube.com/watch?v=dASqLXiuomY)
+- [Axel F - Harold Faltermeyer Original Version](https://www.youtube.com/watch?v=dASqLXiuomY)
 
 ## Release Images
 {{< imageGrid >}}

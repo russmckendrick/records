@@ -49,8 +49,8 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 
 
 ## Videos
-### David Bowie, Trevor Jones - Labyrinth OST (1986)
-{{< youtube id="saD_KOW4IvE" title="David Bowie, Trevor Jones - Labyrinth OST (1986)" >}}<br>
+### David Bowie Trevor Jones - Labyrinth OST 1986
+{{< youtube id="saD_KOW4IvE" title="David Bowie Trevor Jones - Labyrinth OST 1986" >}}<br>
 
 
 ## Release Images

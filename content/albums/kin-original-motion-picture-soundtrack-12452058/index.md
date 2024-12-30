@@ -41,11 +41,11 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Mogwai // Donuts (Official Audio)
-{{< youtube id="_5CHTscFyFo" title="Mogwai // Donuts (Official Audio)" >}}<br>
+### Mogwai  Donuts Official Audio
+{{< youtube id="_5CHTscFyFo" title="Mogwai  Donuts Official Audio" >}}<br>
 ### More Videos
 
-- [Mogwai - KIN [Full Album]](https://www.youtube.com/watch?v=J7d-9812sRg)
+- [Mogwai - KIN Full Album](https://www.youtube.com/watch?v=J7d-9812sRg)
 
 ## Release Images
 {{< imageGrid >}}

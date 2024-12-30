@@ -46,15 +46,15 @@ On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing 
 
 
 ## Videos
-### PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]
-{{< youtube id="Bnmq4WR83Mw" title="PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]" >}}<br>
+### PUBLIC SERVICE BROADCASTING - VALENTINA Ft SMOKE FAIRIES
+{{< youtube id="Bnmq4WR83Mw" title="PUBLIC SERVICE BROADCASTING - VALENTINA Ft SMOKE FAIRIES" >}}<br>
 ### More Videos
 
-- [PUBLIC SERVICE BROADCASTING - E.V.A.](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
-- [PUBLIC SERVICE BROADCASTING - VALENTINA [Ft. SMOKE FAIRIES]](https://www.youtube.com/watch?v=Bnmq4WR83Mw)
-- [PUBLIC SERVICE BROADCASTING - E.V.A.](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
-- [🔴Public Service Broadcasting – Complete A Side [ The Race For Space LP ]🔴](https://www.youtube.com/watch?v=_87kEpkrDQE)
-- [🔴Public Service Broadcasting – Complete B Side [ The Race For Space LP ]🔴](https://www.youtube.com/watch?v=8LbCWtjZ8AI)
+- [PUBLIC SERVICE BROADCASTING - EVA](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
+- [PUBLIC SERVICE BROADCASTING - VALENTINA Ft SMOKE FAIRIES](https://www.youtube.com/watch?v=Bnmq4WR83Mw)
+- [PUBLIC SERVICE BROADCASTING - EVA](https://www.youtube.com/watch?v=PFSq4Q8WDs0)
+- [Public Service Broadcasting  Complete A Side  The Race For Space LP ](https://www.youtube.com/watch?v=_87kEpkrDQE)
+- [Public Service Broadcasting  Complete B Side  The Race For Space LP ](https://www.youtube.com/watch?v=8LbCWtjZ8AI)
 
 ## Release Images
 {{< imageGrid >}}

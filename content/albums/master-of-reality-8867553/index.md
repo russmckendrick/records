@@ -48,8 +48,8 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 
 
 ## Videos
-### BLACK SABBATH - Master of Reality (Full Album)
-{{< youtube id="1fqGIpkp2NU" title="BLACK SABBATH - Master of Reality (Full Album)" >}}<br>
+### BLACK SABBATH - Master of Reality Full Album
+{{< youtube id="1fqGIpkp2NU" title="BLACK SABBATH - Master of Reality Full Album" >}}<br>
 
 
 ## Release Images

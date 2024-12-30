@@ -49,8 +49,8 @@ The Best of Chapterhouse is a greatest hits compilation album by English shoegaz
 
 
 ## Videos
-### There's Still Life
-{{< youtube id="AiynkKAGQ30" title="There's Still Life" >}}<br>
+### Theres Still Life
+{{< youtube id="AiynkKAGQ30" title="Theres Still Life" >}}<br>
 
 
 ## Release Images

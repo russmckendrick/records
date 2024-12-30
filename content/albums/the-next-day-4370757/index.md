@@ -82,11 +82,11 @@ The Next Day was praised by critics as Bowie's best work in decades; it was rank
 
 
 ## Videos
-### David Bowie - The Stars (Are Out Tonight) (Video)
-{{< youtube id="gH7dMBcg-gE" title="David Bowie - The Stars (Are Out Tonight) (Video)" >}}<br>
+### David Bowie - The Stars Are Out Tonight Video
+{{< youtube id="gH7dMBcg-gE" title="David Bowie - The Stars Are Out Tonight Video" >}}<br>
 ### More Videos
 
-- [David Bowie - The Next Day (Explicit)](https://www.youtube.com/watch?v=7wL9NUZRZ4I)
+- [David Bowie - The Next Day Explicit](https://www.youtube.com/watch?v=7wL9NUZRZ4I)
 
 ## Release Images
 {{< imageGrid >}}

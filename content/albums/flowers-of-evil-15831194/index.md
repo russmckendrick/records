@@ -53,7 +53,7 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 
 - [Ulver - Nostalgia](https://www.youtube.com/watch?v=Wt1qbDvMoik)
 - [Ulver - Russian Doll](https://www.youtube.com/watch?v=a8QwxdF_oMQ)
-- [Ulver - Flowers of Evil [Full Album, 2020]](https://www.youtube.com/watch?v=9M3CN0AUmoc)
+- [Ulver - Flowers of Evil Full Album 2020](https://www.youtube.com/watch?v=9M3CN0AUmoc)
 
 ## Release Images
 {{< imageGrid >}}

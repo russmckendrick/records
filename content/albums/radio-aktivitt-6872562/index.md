@@ -51,8 +51,8 @@ styles: ["Experimental"]
 
 
 ## Videos
-### Radioactivity (2009 Remaster)
-{{< youtube id="X--F5b5IdqU" title="Radioactivity (2009 Remaster)" >}}<br>
+### Radioactivity 2009 Remaster
+{{< youtube id="X--F5b5IdqU" title="Radioactivity 2009 Remaster" >}}<br>
 
 
 ## Release Images

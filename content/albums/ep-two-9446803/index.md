@@ -36,11 +36,11 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 
 
 ## Videos
-### Paul Draper - EP TWO (Full EP stream)
-{{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO (Full EP stream)" >}}<br>
+### Paul Draper - EP TWO Full EP stream
+{{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO Full EP stream" >}}<br>
 ### More Videos
 
-- [Paul Draper - EP TWO (Full EP stream)](https://www.youtube.com/watch?v=bcdTlvuXUEA)
+- [Paul Draper - EP TWO Full EP stream](https://www.youtube.com/watch?v=bcdTlvuXUEA)
 
 ## Release Images
 {{< imageGrid >}}

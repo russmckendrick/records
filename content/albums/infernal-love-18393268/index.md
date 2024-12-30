@@ -48,27 +48,27 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 
 
 ## Videos
-### Therapy? -  Stories
-{{< youtube id="aBRfZvi_sqQ" title="Therapy? -  Stories" >}}<br>
+### Therapy -  Stories
+{{< youtube id="aBRfZvi_sqQ" title="Therapy -  Stories" >}}<br>
 ### More Videos
 
-- [Therapy? - Stories](https://www.youtube.com/watch?v=ewxIPQfDBT4)
-- [Therapy? - A Moment Of Clarity](https://www.youtube.com/watch?v=NIyKgzTum0w)
-- [01 - Epilepsy / Therapy? - "Infernal Love" (1995)](https://www.youtube.com/watch?v=UX8dkGlmJKw)
-- [Therapy? – Stories](https://www.youtube.com/watch?v=NE6NgYd5xuM)
-- [Therapy? – Diane](https://www.youtube.com/watch?v=p_pwLEVttw4)
-- [Therapy? – Jude The Obscene](https://www.youtube.com/watch?v=xFFUw5pikVc)
-- [Therapy? –  A Moment Of Clarity](https://www.youtube.com/watch?v=iX-dFTTZncg)
-- [Therapy? – Bad Mother](https://www.youtube.com/watch?v=dwIi73N3bGs)
-- [Therapy? – Misery](https://www.youtube.com/watch?v=f21BMM5zCfE)
-- [Therapy? – Bowels Of Love](https://www.youtube.com/watch?v=5L5-FtQM2Ns)
-- [Therapy? – Me Vs. You](https://www.youtube.com/watch?v=CArG5lnXxtc)
-- [Therapy? – Epilepsy](https://www.youtube.com/watch?v=rEaMCT971Dc)
-- [Therapy? – Loose](https://www.youtube.com/watch?v=55PXTJxbYhA)
-- [Therapy? – 30 Seconds](https://www.youtube.com/watch?v=cvg9lvnmAmY)
-- [Therapy? - Diane](https://www.youtube.com/watch?v=md7SJ1kDE24)
-- [Therapy? - Misery](https://www.youtube.com/watch?v=wURfvocG4FI)
-- [Therapy? - Me vs You](https://www.youtube.com/watch?v=RQ4l_Z8Qnds)
+- [Therapy - Stories](https://www.youtube.com/watch?v=ewxIPQfDBT4)
+- [Therapy - A Moment Of Clarity](https://www.youtube.com/watch?v=NIyKgzTum0w)
+- [01 - Epilepsy  Therapy - Infernal Love 1995](https://www.youtube.com/watch?v=UX8dkGlmJKw)
+- [Therapy  Stories](https://www.youtube.com/watch?v=NE6NgYd5xuM)
+- [Therapy  Diane](https://www.youtube.com/watch?v=p_pwLEVttw4)
+- [Therapy  Jude The Obscene](https://www.youtube.com/watch?v=xFFUw5pikVc)
+- [Therapy   A Moment Of Clarity](https://www.youtube.com/watch?v=iX-dFTTZncg)
+- [Therapy  Bad Mother](https://www.youtube.com/watch?v=dwIi73N3bGs)
+- [Therapy  Misery](https://www.youtube.com/watch?v=f21BMM5zCfE)
+- [Therapy  Bowels Of Love](https://www.youtube.com/watch?v=5L5-FtQM2Ns)
+- [Therapy  Me Vs You](https://www.youtube.com/watch?v=CArG5lnXxtc)
+- [Therapy  Epilepsy](https://www.youtube.com/watch?v=rEaMCT971Dc)
+- [Therapy  Loose](https://www.youtube.com/watch?v=55PXTJxbYhA)
+- [Therapy  30 Seconds](https://www.youtube.com/watch?v=cvg9lvnmAmY)
+- [Therapy - Diane](https://www.youtube.com/watch?v=md7SJ1kDE24)
+- [Therapy - Misery](https://www.youtube.com/watch?v=wURfvocG4FI)
+- [Therapy - Me vs You](https://www.youtube.com/watch?v=RQ4l_Z8Qnds)
 
 ## Release Images
 {{< imageGrid >}}

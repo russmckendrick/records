@@ -91,8 +91,8 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 
 
 ## Videos
-### Oasis - Shakermaker (Official HD Remastered Video)
-{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker (Official HD Remastered Video)" >}}<br>
+### Oasis - Shakermaker Official HD Remastered Video
+{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker Official HD Remastered Video" >}}<br>
 
 
 ## Release Images

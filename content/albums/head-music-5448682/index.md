@@ -57,9 +57,9 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 ### More Videos
 
 - [Suede - Electricity](https://www.youtube.com/watch?v=ygHrqRx7Abg)
-- [Suede - She's In Fashion](https://www.youtube.com/watch?v=iNPA68htGxk)
-- [Suede - Can't Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
-- [Suede - Electricity (Official Video)](https://www.youtube.com/watch?v=ygHrqRx7Abg)
+- [Suede - Shes In Fashion](https://www.youtube.com/watch?v=iNPA68htGxk)
+- [Suede - Cant Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
+- [Suede - Electricity Official Video](https://www.youtube.com/watch?v=ygHrqRx7Abg)
 
 ## Release Images
 {{< imageGrid >}}

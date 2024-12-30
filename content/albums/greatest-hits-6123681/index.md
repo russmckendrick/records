@@ -50,12 +50,12 @@ Greatest Hits is a compilation album by the British blues rock band Fleetwood Ma
 
 
 ## Videos
-### Fleetwood Mac - Little Lies (Official Music Video)
-{{< youtube id="uCGD9dT12C0" title="Fleetwood Mac - Little Lies (Official Music Video)" >}}<br>
+### Fleetwood Mac - Little Lies Official Music Video
+{{< youtube id="uCGD9dT12C0" title="Fleetwood Mac - Little Lies Official Music Video" >}}<br>
 ### More Videos
 
 - [Go Your Own Way - Fleetwood Mac - 1997](https://www.youtube.com/watch?v=p8Ojjn35kP8)
-- [Fleetwood Mac - Everywhere (Official Music Video)](https://www.youtube.com/watch?v=YF1R0hc5Q2I)
+- [Fleetwood Mac - Everywhere Official Music Video](https://www.youtube.com/watch?v=YF1R0hc5Q2I)
 
 ## Release Images
 {{< imageGrid >}}

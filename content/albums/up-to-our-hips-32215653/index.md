@@ -65,8 +65,8 @@ Up to Our Hips received mixed reviews from music critics, some complaining about
 
 
 ## Videos
-### The Charlatans - Can't Get Out of Bed
-{{< youtube id="_DA7H7n1bKs" title="The Charlatans - Can't Get Out of Bed" >}}<br>
+### The Charlatans - Cant Get Out of Bed
+{{< youtube id="_DA7H7n1bKs" title="The Charlatans - Cant Get Out of Bed" >}}<br>
 ### More Videos
 
 - [The Charlatans - Jesus Hairdo](https://www.youtube.com/watch?v=ycw4hquVjTI)

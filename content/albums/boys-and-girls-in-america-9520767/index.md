@@ -69,8 +69,8 @@ The entire record almost feels like a driven, powerful live show, one where you 
 
 
 ## Videos
-### The Hold Steady - "Stuck Between Stations" [Official Video]
-{{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - "Stuck Between Stations" [Official Video]" >}}<br>
+### The Hold Steady - Stuck Between Stations Official Video
+{{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - Stuck Between Stations Official Video" >}}<br>
 
 
 ## Release Images

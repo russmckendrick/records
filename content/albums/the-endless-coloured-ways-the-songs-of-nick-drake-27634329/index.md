@@ -75,32 +75,32 @@ styles: ["Alt-Pop", "Alternative Rock"]
 
 
 ## Videos
-### John Grant - Day Is Done (Official Film)
-{{< youtube id="rhRXEtJ4EfA" title="John Grant - Day Is Done (Official Film)" >}}<br>
+### John Grant - Day Is Done Official Film
+{{< youtube id="rhRXEtJ4EfA" title="John Grant - Day Is Done Official Film" >}}<br>
 ### More Videos
 
-- [Stick in the Wheel - Parasite (Official Film)](https://www.youtube.com/watch?v=kfPUn8hrBtA)
-- [Camille - Hazey Jane II (Official Film)](https://www.youtube.com/watch?v=zmAb2lGywfA)
-- [AURORA - Pink Moon (Official Film)](https://www.youtube.com/watch?v=_YiPqRWNbjY)
-- [Fontaines D.C. – 'Cello Song (from The Endless Coloured Ways: The Songs Of Nick Drake)](https://www.youtube.com/watch?v=ezDU--NeT4c)
-- [Saturday Sun (from The Endless Coloured Ways: The Songs of Nick Drake) (Official Visual...](https://www.youtube.com/watch?v=rtxE0BxfNEc)
-- [Let's Eat Grandma - From The Morning (from The Endless Coloured Ways: The Songs Of Nick...](https://www.youtube.com/watch?v=k3sfm6WGuKs)
-- [Craig Armstrong "Black Eye Dog" The Endless Coloured Ways: The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
-- [Philip Selway - Fly (Official Film)](https://www.youtube.com/watch?v=NcQMscokX7s)
-- [I Think They're Leaving Me Behind (from The Endless Coloured Ways: The Songs of Nick Dr...](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Parish & Aldous Harding - Three Hours (Official Film)](https://www.youtube.com/watch?v=P1EuZcw05mU)
-- [I Think They're Leaving Me Behind (from The Endless Coloured Ways: The Songs of Nick Dr...](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Grant - Day Is Done (Official Film)](https://www.youtube.com/watch?v=rhRXEtJ4EfA)
-- [Stick in the Wheel - Parasite (Official Film)](https://www.youtube.com/watch?v=kfPUn8hrBtA)
-- [Camille - Hazey Jane II (Official Film)](https://www.youtube.com/watch?v=zmAb2lGywfA)
-- [AURORA - Pink Moon (Official Film)](https://www.youtube.com/watch?v=_YiPqRWNbjY)
-- [Fontaines D.C. – 'Cello Song (from The Endless Coloured Ways: The Songs Of Nick Drake)](https://www.youtube.com/watch?v=ezDU--NeT4c)
-- [Saturday Sun (from The Endless Coloured Ways: The Songs of Nick Drake) (Official Visual...](https://www.youtube.com/watch?v=rtxE0BxfNEc)
-- [Let's Eat Grandma - From The Morning (from The Endless Coloured Ways: The Songs Of Nick...](https://www.youtube.com/watch?v=k3sfm6WGuKs)
-- [Craig Armstrong "Black Eye Dog" The Endless Coloured Ways: The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
-- [Philip Selway - Fly (Official Film)](https://www.youtube.com/watch?v=NcQMscokX7s)
-- [I Think They're Leaving Me Behind (from The Endless Coloured Ways: The Songs of Nick Dr...](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Parish & Aldous Harding - Three Hours (Official Film)](https://www.youtube.com/watch?v=P1EuZcw05mU)
+- [Stick in the Wheel - Parasite Official Film](https://www.youtube.com/watch?v=kfPUn8hrBtA)
+- [Camille - Hazey Jane II Official Film](https://www.youtube.com/watch?v=zmAb2lGywfA)
+- [AURORA - Pink Moon Official Film](https://www.youtube.com/watch?v=_YiPqRWNbjY)
+- [Fontaines DC  Cello Song from The Endless Coloured Ways The Songs Of Nick Drake](https://www.youtube.com/watch?v=ezDU--NeT4c)
+- [Saturday Sun from The Endless Coloured Ways The Songs of Nick Drake Official Visual](https://www.youtube.com/watch?v=rtxE0BxfNEc)
+- [Lets Eat Grandma - From The Morning from The Endless Coloured Ways The Songs Of Nick](https://www.youtube.com/watch?v=k3sfm6WGuKs)
+- [Craig Armstrong Black Eye Dog The Endless Coloured Ways The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
+- [Philip Selway - Fly Official Film](https://www.youtube.com/watch?v=NcQMscokX7s)
+- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
+- [John Parish  Aldous Harding - Three Hours Official Film](https://www.youtube.com/watch?v=P1EuZcw05mU)
+- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
+- [John Grant - Day Is Done Official Film](https://www.youtube.com/watch?v=rhRXEtJ4EfA)
+- [Stick in the Wheel - Parasite Official Film](https://www.youtube.com/watch?v=kfPUn8hrBtA)
+- [Camille - Hazey Jane II Official Film](https://www.youtube.com/watch?v=zmAb2lGywfA)
+- [AURORA - Pink Moon Official Film](https://www.youtube.com/watch?v=_YiPqRWNbjY)
+- [Fontaines DC  Cello Song from The Endless Coloured Ways The Songs Of Nick Drake](https://www.youtube.com/watch?v=ezDU--NeT4c)
+- [Saturday Sun from The Endless Coloured Ways The Songs of Nick Drake Official Visual](https://www.youtube.com/watch?v=rtxE0BxfNEc)
+- [Lets Eat Grandma - From The Morning from The Endless Coloured Ways The Songs Of Nick](https://www.youtube.com/watch?v=k3sfm6WGuKs)
+- [Craig Armstrong Black Eye Dog The Endless Coloured Ways The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
+- [Philip Selway - Fly Official Film](https://www.youtube.com/watch?v=NcQMscokX7s)
+- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
+- [John Parish  Aldous Harding - Three Hours Official Film](https://www.youtube.com/watch?v=P1EuZcw05mU)
 
 ## Release Images
 {{< imageGrid >}}

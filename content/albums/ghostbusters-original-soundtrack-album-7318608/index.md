@@ -40,13 +40,13 @@ styles: []
 
 
 ## Videos
-### Ghostbusters Full Album From the Motion Picture/Film 1984
-{{< youtube id="TymQWWtIU1c" title="Ghostbusters Full Album From the Motion Picture/Film 1984" >}}<br>
+### Ghostbusters Full Album From the Motion PictureFilm 1984
+{{< youtube id="TymQWWtIU1c" title="Ghostbusters Full Album From the Motion PictureFilm 1984" >}}<br>
 ### More Videos
 
 - [Original GhostBusters Theme Song](https://www.youtube.com/watch?v=m9We2XsVZfc)
 - [Musique du film Ghostbusters](https://www.youtube.com/watch?v=DjWYs10OyFE)
-- [Ray Parker Jr. - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
+- [Ray Parker Jr - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
 
 ## Release Images
 {{< imageGrid >}}

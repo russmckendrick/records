@@ -68,20 +68,20 @@ It's a Shame About Ray is the fifth album by American alternative rock band the 
 
 
 ## Videos
-### The Lemonheads - My Drug Buddy (Video)
-{{< youtube id="DCOKAYIBmng" title="The Lemonheads - My Drug Buddy (Video)" >}}<br>
+### The Lemonheads - My Drug Buddy Video
+{{< youtube id="DCOKAYIBmng" title="The Lemonheads - My Drug Buddy Video" >}}<br>
 ### More Videos
 
-- [The Lemonheads - My Drug Buddy (Official Video)](https://www.youtube.com/watch?v=Y7n7SKD40p8)
-- [The Lemonheads - My Drug Buddy (Remastered)](https://www.youtube.com/watch?v=3j6DxgyPLCs)
+- [The Lemonheads - My Drug Buddy Official Video](https://www.youtube.com/watch?v=Y7n7SKD40p8)
+- [The Lemonheads - My Drug Buddy Remastered](https://www.youtube.com/watch?v=3j6DxgyPLCs)
 - [My Drug Buddy](https://www.youtube.com/watch?v=bivoFhU0Vac)
-- [Lemonheads - Rudderless (Album version)](https://www.youtube.com/watch?v=NofWFKSMiM4)
-- [Lemonheads - Bit part (studio verison)](https://www.youtube.com/watch?v=ca6N9FN-rbQ)
-- [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
-- [The Turnpike Down (Remastered)](https://www.youtube.com/watch?v=LKjeqYxK8_0)
-- [It's A Shame About Ray (Demo Version)](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
-- [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
-- [The Lemonheads - It's A Shame About Ray (Official Video)](https://www.youtube.com/watch?v=NdU0fQzt0h8)
+- [Lemonheads - Rudderless Album version](https://www.youtube.com/watch?v=NofWFKSMiM4)
+- [Lemonheads - Bit part studio verison](https://www.youtube.com/watch?v=ca6N9FN-rbQ)
+- [The Lemonheads - Alisons Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
+- [The Turnpike Down Remastered](https://www.youtube.com/watch?v=LKjeqYxK8_0)
+- [Its A Shame About Ray Demo Version](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
+- [Rockin Stroll Remastered](https://www.youtube.com/watch?v=jet27-LRviQ)
+- [The Lemonheads - Its A Shame About Ray Official Video](https://www.youtube.com/watch?v=NdU0fQzt0h8)
 
 ## Release Images
 {{< imageGrid >}}

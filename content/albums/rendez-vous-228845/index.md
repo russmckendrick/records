@@ -45,11 +45,11 @@ On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel
 ### More Videos
 
 - [First Rendez Vous](https://www.youtube.com/watch?v=VD6OCOVigfo)
-- [Second Rendez-Vous (Remastered)](https://www.youtube.com/watch?v=v6lPTqPHicE)
-- [Third Rendez Vous (Remastered)](https://www.youtube.com/watch?v=wwxlFtj85aA)
+- [Second Rendez-Vous Remastered](https://www.youtube.com/watch?v=v6lPTqPHicE)
+- [Third Rendez Vous Remastered](https://www.youtube.com/watch?v=wwxlFtj85aA)
 - [Fourth Rendez-Vous](https://www.youtube.com/watch?v=9ggp1YJh4bA)
-- [Fifth Rendez Vous (Remastered)](https://www.youtube.com/watch?v=POUsIMpRvhI)
-- [Last Rendez Vous (Remastered)](https://www.youtube.com/watch?v=kJDzaG1AJco)
+- [Fifth Rendez Vous Remastered](https://www.youtube.com/watch?v=POUsIMpRvhI)
+- [Last Rendez Vous Remastered](https://www.youtube.com/watch?v=kJDzaG1AJco)
 
 ## Release Images
 {{< imageGrid >}}

@@ -53,12 +53,12 @@ Ocasek and singer and bassist Benjamin Orr were old pals, having been playing to
 {{< youtube id="Ki6xHnDAwHw" title="Good Times Roll" >}}<br>
 ### More Videos
 
-- [My Best Friend's Girl](https://www.youtube.com/watch?v=j-dfrHkaXuE)
+- [My Best Friends Girl](https://www.youtube.com/watch?v=j-dfrHkaXuE)
 - [Moving in Stereo](https://www.youtube.com/watch?v=y5oPZFDci80)
 - [Just What I Needed](https://www.youtube.com/watch?v=naOzftxOKig)
-- [I'm in Touch with Your World](https://www.youtube.com/watch?v=GMYzaqupprQ)
-- [Don't Cha Stop](https://www.youtube.com/watch?v=pg9MIstRhko)
-- [You're All I've Got Tonight](https://www.youtube.com/watch?v=UZ1VZLMJ8D8)
+- [Im in Touch with Your World](https://www.youtube.com/watch?v=GMYzaqupprQ)
+- [Dont Cha Stop](https://www.youtube.com/watch?v=pg9MIstRhko)
+- [Youre All Ive Got Tonight](https://www.youtube.com/watch?v=UZ1VZLMJ8D8)
 - [Bye Bye Love](https://www.youtube.com/watch?v=4ghKhEg8VX8)
 - [All Mixed Up](https://www.youtube.com/watch?v=VFXsdQb35Io)
 

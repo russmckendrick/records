@@ -49,17 +49,17 @@ Going for the One received a mostly positive response from music critics who wel
 
 
 ## Videos
-### Going for the One (2003 Remaster)
-{{< youtube id="s-DEnI6RLwM" title="Going for the One (2003 Remaster)" >}}<br>
+### Going for the One 2003 Remaster
+{{< youtube id="s-DEnI6RLwM" title="Going for the One 2003 Remaster" >}}<br>
 ### More Videos
 
-- [Turn of the Century (2003 Remaster)](https://www.youtube.com/watch?v=g0k-Klq-FNA)
-- [Going for the One (2003 Remaster)](https://www.youtube.com/watch?v=s-DEnI6RLwM)
-- [Turn of the Century (2003 Remaster)](https://www.youtube.com/watch?v=g0k-Klq-FNA)
-- [Yes - Wonderous Stories (Official Music Video)](https://www.youtube.com/watch?v=9-BMlq_zyko)
-- [Parallels (2008 Remaster)](https://www.youtube.com/watch?v=sF7ZSfyL0hU)
-- [Wonderous Stories (2013 Remaster)](https://www.youtube.com/watch?v=f7pk3iinPBE)
-- [Awaken (2008 Remaster)](https://www.youtube.com/watch?v=G42-qaPxZK0)
+- [Turn of the Century 2003 Remaster](https://www.youtube.com/watch?v=g0k-Klq-FNA)
+- [Going for the One 2003 Remaster](https://www.youtube.com/watch?v=s-DEnI6RLwM)
+- [Turn of the Century 2003 Remaster](https://www.youtube.com/watch?v=g0k-Klq-FNA)
+- [Yes - Wonderous Stories Official Music Video](https://www.youtube.com/watch?v=9-BMlq_zyko)
+- [Parallels 2008 Remaster](https://www.youtube.com/watch?v=sF7ZSfyL0hU)
+- [Wonderous Stories 2013 Remaster](https://www.youtube.com/watch?v=f7pk3iinPBE)
+- [Awaken 2008 Remaster](https://www.youtube.com/watch?v=G42-qaPxZK0)
 
 ## Release Images
 {{< imageGrid >}}

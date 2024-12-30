@@ -65,14 +65,14 @@ Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressiv
 
 
 ## Videos
-### TIM BOWNESS - I Go Deeper (Lyric Video)
-{{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper (Lyric Video)" >}}<br>
+### TIM BOWNESS - I Go Deeper Lyric Video
+{{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper Lyric Video" >}}<br>
 ### More Videos
 
-- [TIM BOWNESS - Borderline (Lyric Video)](https://www.youtube.com/watch?v=qDuOJWLXM28)
-- [TIM BOWNESS - It's The World (Lyric Video)](https://www.youtube.com/watch?v=ohSYbX4qHzc)
-- [TIM BOWNESS talks “Flowers At The Scene” - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
-- [Tim Bowness (No-Man) Live 2019](https://www.youtube.com/watch?v=grl6tzSHUXc)
+- [TIM BOWNESS - Borderline Lyric Video](https://www.youtube.com/watch?v=qDuOJWLXM28)
+- [TIM BOWNESS - Its The World Lyric Video](https://www.youtube.com/watch?v=ohSYbX4qHzc)
+- [TIM BOWNESS talks Flowers At The Scene - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
+- [Tim Bowness No-Man Live 2019](https://www.youtube.com/watch?v=grl6tzSHUXc)
 
 ## Release Images
 {{< imageGrid >}}

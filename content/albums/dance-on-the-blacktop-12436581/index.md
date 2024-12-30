@@ -41,13 +41,13 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 
 
 ## Videos
-### NOTHING - Zero Day (Official Music Video)
-{{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day (Official Music Video)" >}}<br>
+### NOTHING - Zero Day Official Music Video
+{{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day Official Music Video" >}}<br>
 ### More Videos
 
-- [NOTHING - The Carpenter's Son (Official Audio)](https://www.youtube.com/watch?v=bxQjvOGl9qU)
-- [NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=d91cRGR98yI)
-- [NOTHING - Heavy Water/I'd Rather Be Sleeping (Grouper Cover)](https://www.youtube.com/watch?v=JysJhkFzMGo)
+- [NOTHING - The Carpenters Son Official Audio](https://www.youtube.com/watch?v=bxQjvOGl9qU)
+- [NOTHING - Dance On The Blacktop FULL ALBUM STREAM](https://www.youtube.com/watch?v=d91cRGR98yI)
+- [NOTHING - Heavy WaterId Rather Be Sleeping Grouper Cover](https://www.youtube.com/watch?v=JysJhkFzMGo)
 
 ## Release Images
 {{< imageGrid >}}

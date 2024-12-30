@@ -50,12 +50,12 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 
 
 ## Videos
-### New Order - Singularity (Official Music Video)
-{{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}<br>
+### New Order - Singularity Official Music Video
+{{< youtube id="9xLvF6xoG30" title="New Order - Singularity Official Music Video" >}}<br>
 ### More Videos
 
-- [New Order - Restless (Official Video)](https://www.youtube.com/watch?v=8c_3Afx9ZGE)
-- [New Order - Tutti Frutti (Official Video)](https://www.youtube.com/watch?v=koXE2TuQ1_c)
+- [New Order - Restless Official Video](https://www.youtube.com/watch?v=8c_3Afx9ZGE)
+- [New Order - Tutti Frutti Official Video](https://www.youtube.com/watch?v=koXE2TuQ1_c)
 
 ## Release Images
 {{< imageGrid >}}

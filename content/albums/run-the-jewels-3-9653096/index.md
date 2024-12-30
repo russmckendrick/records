@@ -66,27 +66,27 @@ Much like its predecessors, Run the Jewels 3 received widespread acclaim from cr
 
 
 ## Videos
-### Run The Jewels - Legend Has It | From The RTJ3 Album
-{{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It | From The RTJ3 Album" >}}<br>
+### Run The Jewels - Legend Has It  From The RTJ3 Album
+{{< youtube id="QaPrQa3oMy0" title="Run The Jewels - Legend Has It  From The RTJ3 Album" >}}<br>
 ### More Videos
 
-- [Run The Jewels - 2100 feat. BOOTS | From The RTJ3 Album](https://www.youtube.com/watch?v=J-FPb-Mcpjw)
-- [Run The Jewels - Legend Has It (Official Music Video From RTJ3 & Black Panther)](https://www.youtube.com/watch?v=vWaljXUiCaE)
-- [Run The Jewels - Down (feat. Joi) | From The RTJ3 Album](https://www.youtube.com/watch?v=saR7SYa6nAs)
-- [Run The Jewels - Talk To Me | From The RTJ3 Album](https://www.youtube.com/watch?v=1b9n0Amr9RI)
-- [Run The Jewels - Call Ticketron | From The RTJ3 Album](https://www.youtube.com/watch?v=eaJmgMuYNjc)
-- [Run The Jewels - Hey Kids (Bumaye) (feat. Danny Brown) | From The RTJ3 Album](https://www.youtube.com/watch?v=4Jl-BeR4M4c)
-- [Run The Jewels - Stay Gold | From The RTJ3 Album](https://www.youtube.com/watch?v=mNQD6oj8nBo)
-- [Run The Jewels - Don't Get Captured | From The RTJ3 Album](https://www.youtube.com/watch?v=agRfunNZIcY)
-- [Run The Jewels - Thieves! (Screamed The Ghost) (feat. Tunde Adebimpe) | From The RTJ3 Album](https://www.youtube.com/watch?v=KFKmG7A-pzA)
-- [Run The Jewels - Panther Like A Panther (Miracle Mix edit) (feat. Trina) | From The RTJ3 Album](https://www.youtube.com/watch?v=zgOABuZoe0c)
-- [Run The Jewels - Everybody Stay Calm | From The RTJ3 Album](https://www.youtube.com/watch?v=ZcnWxb_hKaE)
-- [Run The Jewels - Oh Mama | From The RTJ3 Album](https://www.youtube.com/watch?v=30aGtXWo0SU)
-- [Run The Jewels - Thursday In The Danger Room (feat. Kamasi Washington) | From The RTJ3 Album](https://www.youtube.com/watch?v=YxaNYGeaOjc)
-- [Run The Jewels - A Report To The Shareholders / Kill Your Masters | From The RTJ3 Album](https://www.youtube.com/watch?v=pg0byaqVaXo)
-- [Rick and Morty x Run The Jewels: Oh Mama | Adult Swim](https://www.youtube.com/watch?v=EBYsx1QWF9A)
-- [Run The Jewels - Down feat. Joi (Lyric Video From RTJ3)](https://www.youtube.com/watch?v=4ApKKfyZuVY)
-- [Run The Jewels - Don't Get Captured (Official Music Video From RTJ3)](https://www.youtube.com/watch?v=6k7kk1lUnis)
+- [Run The Jewels - 2100 feat BOOTS  From The RTJ3 Album](https://www.youtube.com/watch?v=J-FPb-Mcpjw)
+- [Run The Jewels - Legend Has It Official Music Video From RTJ3  Black Panther](https://www.youtube.com/watch?v=vWaljXUiCaE)
+- [Run The Jewels - Down feat Joi  From The RTJ3 Album](https://www.youtube.com/watch?v=saR7SYa6nAs)
+- [Run The Jewels - Talk To Me  From The RTJ3 Album](https://www.youtube.com/watch?v=1b9n0Amr9RI)
+- [Run The Jewels - Call Ticketron  From The RTJ3 Album](https://www.youtube.com/watch?v=eaJmgMuYNjc)
+- [Run The Jewels - Hey Kids Bumaye feat Danny Brown  From The RTJ3 Album](https://www.youtube.com/watch?v=4Jl-BeR4M4c)
+- [Run The Jewels - Stay Gold  From The RTJ3 Album](https://www.youtube.com/watch?v=mNQD6oj8nBo)
+- [Run The Jewels - Dont Get Captured  From The RTJ3 Album](https://www.youtube.com/watch?v=agRfunNZIcY)
+- [Run The Jewels - Thieves Screamed The Ghost feat Tunde Adebimpe  From The RTJ3 Album](https://www.youtube.com/watch?v=KFKmG7A-pzA)
+- [Run The Jewels - Panther Like A Panther Miracle Mix edit feat Trina  From The RTJ3 Album](https://www.youtube.com/watch?v=zgOABuZoe0c)
+- [Run The Jewels - Everybody Stay Calm  From The RTJ3 Album](https://www.youtube.com/watch?v=ZcnWxb_hKaE)
+- [Run The Jewels - Oh Mama  From The RTJ3 Album](https://www.youtube.com/watch?v=30aGtXWo0SU)
+- [Run The Jewels - Thursday In The Danger Room feat Kamasi Washington  From The RTJ3 Album](https://www.youtube.com/watch?v=YxaNYGeaOjc)
+- [Run The Jewels - A Report To The Shareholders  Kill Your Masters  From The RTJ3 Album](https://www.youtube.com/watch?v=pg0byaqVaXo)
+- [Rick and Morty x Run The Jewels Oh Mama  Adult Swim](https://www.youtube.com/watch?v=EBYsx1QWF9A)
+- [Run The Jewels - Down feat Joi Lyric Video From RTJ3](https://www.youtube.com/watch?v=4ApKKfyZuVY)
+- [Run The Jewels - Dont Get Captured Official Music Video From RTJ3](https://www.youtube.com/watch?v=6k7kk1lUnis)
 
 ## Release Images
 {{< imageGrid >}}

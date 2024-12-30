@@ -40,19 +40,19 @@ styles: ["Jazz-Rock"]
 
 
 ## Videos
-### Aim (Remastered)
-{{< youtube id="1q1_K7ZJqfQ" title="Aim (Remastered)" >}}<br>
+### Aim Remastered
+{{< youtube id="1q1_K7ZJqfQ" title="Aim Remastered" >}}<br>
 ### More Videos
 
-- [On A Wave Of Positivity (Remastered)](https://www.youtube.com/watch?v=a9vdpwkSFU0)
-- [Dog Day (Remastered)](https://www.youtube.com/watch?v=ir07eZ-2eLo)
-- [A Place To Stay (Remastered)](https://www.youtube.com/watch?v=8ODXoB3iJ9k)
-- [Witness (for Bobby)](https://www.youtube.com/watch?v=4JFyvjP4aoo)
-- [Dearest Blood (Remastered)](https://www.youtube.com/watch?v=dDna36zGPN4)
-- [Sonata in H (Remastered)](https://www.youtube.com/watch?v=SDJDoz4KJDo)
-- [Big News For A Small Day (Remastered)](https://www.youtube.com/watch?v=zV3KXMo5J04)
-- [Witness (reprise)](https://www.youtube.com/watch?v=gmBGz5azI3Y)
-- [Iron Horse (bonus)](https://www.youtube.com/watch?v=LY9NmPpYFpk)
+- [On A Wave Of Positivity Remastered](https://www.youtube.com/watch?v=a9vdpwkSFU0)
+- [Dog Day Remastered](https://www.youtube.com/watch?v=ir07eZ-2eLo)
+- [A Place To Stay Remastered](https://www.youtube.com/watch?v=8ODXoB3iJ9k)
+- [Witness for Bobby](https://www.youtube.com/watch?v=4JFyvjP4aoo)
+- [Dearest Blood Remastered](https://www.youtube.com/watch?v=dDna36zGPN4)
+- [Sonata in H Remastered](https://www.youtube.com/watch?v=SDJDoz4KJDo)
+- [Big News For A Small Day Remastered](https://www.youtube.com/watch?v=zV3KXMo5J04)
+- [Witness reprise](https://www.youtube.com/watch?v=gmBGz5azI3Y)
+- [Iron Horse bonus](https://www.youtube.com/watch?v=LY9NmPpYFpk)
 
 ## Release Images
 {{< imageGrid >}}

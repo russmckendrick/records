@@ -43,13 +43,13 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 
 
 ## Videos
-### The Vaselines - Sex With An X [OFFICIAL VIDEO]
-{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X [OFFICIAL VIDEO]" >}}<br>
+### The Vaselines - Sex With An X OFFICIAL VIDEO
+{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
-- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
-- [The Vaselines - Sex With An X [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
-- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
+- [The Vaselines - I Hate The 80s 2010](https://www.youtube.com/watch?v=i1zMx4Eltbo)
+- [The Vaselines - Sex With An X OFFICIAL VIDEO](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
+- [The Vaselines - I Hate The 80s 2010](https://www.youtube.com/watch?v=i1zMx4Eltbo)
 
 ## Release Images
 {{< imageGrid >}}

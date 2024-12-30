@@ -41,12 +41,12 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Jim Bob - Thanks For Reaching Out [Official Video]
-{{< youtube id="hqQdYpe7_wM" title="Jim Bob - Thanks For Reaching Out [Official Video]" >}}<br>
+### Jim Bob - Thanks For Reaching Out Official Video
+{{< youtube id="hqQdYpe7_wM" title="Jim Bob - Thanks For Reaching Out Official Video" >}}<br>
 ### More Videos
 
-- [Jim Bob - Sebastian’s Gone On A Ridealong [Official Video]](https://www.youtube.com/watch?v=AInM9y6GcXQ)
-- [Jim Bob - Billionaire In Space [Official Video]](https://www.youtube.com/watch?v=a8Lb9yOefMc)
+- [Jim Bob - Sebastians Gone On A Ridealong Official Video](https://www.youtube.com/watch?v=AInM9y6GcXQ)
+- [Jim Bob - Billionaire In Space Official Video](https://www.youtube.com/watch?v=a8Lb9yOefMc)
 
 ## Release Images
 {{< imageGrid >}}

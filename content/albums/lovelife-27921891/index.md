@@ -49,8 +49,8 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 {{< youtube id="RndzuSESF8Y" title="Lush - Single Girl" >}}<br>
 ### More Videos
 
-- [Lush - Ladykillers (Official Video)](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
-- [Lush - 500 (Shake Baby Shake) (Official Video)](https://www.youtube.com/watch?v=ODdZ4QhnXJI)
+- [Lush - Ladykillers Official Video](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
+- [Lush - 500 Shake Baby Shake Official Video](https://www.youtube.com/watch?v=ODdZ4QhnXJI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -58,14 +58,14 @@ A concept album about a love story set in the 17th century, The Diary consists o
 
 
 ## Videos
-### THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)
-{{< youtube id="nY0Y1AwOyw0" title="THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)" >}}<br>
+### THE GENTLE STORM - Shores Of India OFFICIAL VIDEO
+{{< youtube id="nY0Y1AwOyw0" title="THE GENTLE STORM - Shores Of India OFFICIAL VIDEO" >}}<br>
 ### More Videos
 
 - [The Gentle Storm - The Storm](https://www.youtube.com/watch?v=ZaqGcJBFXPk)
-- [THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)](https://www.youtube.com/watch?v=iPE3j6Gg_r4)
-- [THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
-- [THE GENTLE STORM - Endless Sea (LYRIC VIDEO) (Gentle Version)](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
+- [THE GENTLE STORM -  Endless Sea  Lyric Video - Storm Version](https://www.youtube.com/watch?v=iPE3j6Gg_r4)
+- [THE GENTLE STORM - Heart Of Amsterdam OFFICIAL VIDEO](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
+- [THE GENTLE STORM - Endless Sea LYRIC VIDEO Gentle Version](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
 
 ## Release Images
 {{< imageGrid >}}

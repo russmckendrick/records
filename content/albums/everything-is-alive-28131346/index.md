@@ -73,18 +73,18 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 
 
 ## Videos
-### Slowdive - kisses (Official Video)
-{{< youtube id="G9RpHfPyEx8" title="Slowdive - kisses (Official Video)" >}}<br>
+### Slowdive - kisses Official Video
+{{< youtube id="G9RpHfPyEx8" title="Slowdive - kisses Official Video" >}}<br>
 ### More Videos
 
-- [Slowdive - skin in the game (Official Visualizer)](https://www.youtube.com/watch?v=HWtlDuzHc4g)
-- [Slowdive - the slab (Official Visualizer)](https://www.youtube.com/watch?v=AiQUd6F6_kw)
-- [Slowdive - alife (Official Video)](https://www.youtube.com/watch?v=MhQht-YK8rw)
+- [Slowdive - skin in the game Official Visualizer](https://www.youtube.com/watch?v=HWtlDuzHc4g)
+- [Slowdive - the slab Official Visualizer](https://www.youtube.com/watch?v=AiQUd6F6_kw)
+- [Slowdive - alife Official Video](https://www.youtube.com/watch?v=MhQht-YK8rw)
 - [shanty](https://www.youtube.com/watch?v=vQiJrhcwfk0)
 - [prayer remembered](https://www.youtube.com/watch?v=XvMLeQCU8ew)
 - [andalucia plays](https://www.youtube.com/watch?v=VEBl708_ou8)
 - [chained to a cloud](https://www.youtube.com/watch?v=AF6pUQkENoY)
-- [Slowdive - chained to a cloud (El Conde)](https://www.youtube.com/watch?v=Xtzi926Lz50)
+- [Slowdive - chained to a cloud El Conde](https://www.youtube.com/watch?v=Xtzi926Lz50)
 
 ## Release Images
 {{< imageGrid >}}

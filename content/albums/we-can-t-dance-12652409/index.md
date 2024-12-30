@@ -55,34 +55,34 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 
 
 ## Videos
-### Genesis - No Son Of Mine (Official Music Video)
-{{< youtube id="0f2Pt1aqDMo" title="Genesis - No Son Of Mine (Official Music Video)" >}}<br>
+### Genesis - No Son Of Mine Official Music Video
+{{< youtube id="0f2Pt1aqDMo" title="Genesis - No Son Of Mine Official Music Video" >}}<br>
 ### More Videos
 
-- [Genesis - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=2-rfCnW5VlE)
-- [Genesis - Driving The Last Spike (Official Audio)](https://www.youtube.com/watch?v=aZrMQwM8owI)
-- [Genesis - I Can't Dance (Official Music Video)](https://www.youtube.com/watch?v=hGI2d31M7Ns)
-- [Genesis - Never A Time (Official Audio)](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
-- [Genesis - Dreaming While You Sleep (Official Audio)](https://www.youtube.com/watch?v=8m2oUeHUEBg)
-- [Genesis - Tell Me Why (Official Music Video)](https://www.youtube.com/watch?v=73kVlLKvkB8)
-- [Genesis - Living Forever (Official Audio)](https://www.youtube.com/watch?v=EHx9MqCfCjw)
-- [Genesis - Hold On My Heart (Official Music Video)](https://www.youtube.com/watch?v=mGfqB1-gHEM)
-- [Genesis - Way Of The World (Official Audio)](https://www.youtube.com/watch?v=Zh_lQixMezs)
-- [Genesis - Since I Lost You (Official Audio)](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
-- [Genesis - Fading Lights (Official Audio)](https://www.youtube.com/watch?v=sRKtxLDTgAw)
-- [Genesis - No Son Of Mine (Official Music Video)](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
-- [Genesis - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=2-rfCnW5VlE)
-- [Genesis - Driving The Last Spike (Official Audio)](https://www.youtube.com/watch?v=aZrMQwM8owI)
-- [Genesis - I Can't Dance (Official Music Video)](https://www.youtube.com/watch?v=hGI2d31M7Ns)
-- [Genesis - Never A Time (Official Audio)](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
-- [Genesis - Dreaming While You Sleep (Official Audio)](https://www.youtube.com/watch?v=8m2oUeHUEBg)
-- [Genesis - Tell Me Why (Official Music Video)](https://www.youtube.com/watch?v=73kVlLKvkB8)
-- [Genesis - Living Forever (Official Audio)](https://www.youtube.com/watch?v=EHx9MqCfCjw)
-- [Genesis - Hold On My Heart (Official Music Video)](https://www.youtube.com/watch?v=mGfqB1-gHEM)
-- [Genesis - Way Of The World (Official Audio)](https://www.youtube.com/watch?v=Zh_lQixMezs)
-- [Genesis - Since I Lost You (Official Audio)](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
-- [Genesis - Fading Lights (Official Audio)](https://www.youtube.com/watch?v=sRKtxLDTgAw)
-- [Genesis - I Can't Dance (Official Audio)](https://www.youtube.com/watch?v=A6xCZW_DQ-U)
+- [Genesis - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=2-rfCnW5VlE)
+- [Genesis - Driving The Last Spike Official Audio](https://www.youtube.com/watch?v=aZrMQwM8owI)
+- [Genesis - I Cant Dance Official Music Video](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Genesis - Never A Time Official Audio](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
+- [Genesis - Dreaming While You Sleep Official Audio](https://www.youtube.com/watch?v=8m2oUeHUEBg)
+- [Genesis - Tell Me Why Official Music Video](https://www.youtube.com/watch?v=73kVlLKvkB8)
+- [Genesis - Living Forever Official Audio](https://www.youtube.com/watch?v=EHx9MqCfCjw)
+- [Genesis - Hold On My Heart Official Music Video](https://www.youtube.com/watch?v=mGfqB1-gHEM)
+- [Genesis - Way Of The World Official Audio](https://www.youtube.com/watch?v=Zh_lQixMezs)
+- [Genesis - Since I Lost You Official Audio](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
+- [Genesis - Fading Lights Official Audio](https://www.youtube.com/watch?v=sRKtxLDTgAw)
+- [Genesis - No Son Of Mine Official Music Video](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
+- [Genesis - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=2-rfCnW5VlE)
+- [Genesis - Driving The Last Spike Official Audio](https://www.youtube.com/watch?v=aZrMQwM8owI)
+- [Genesis - I Cant Dance Official Music Video](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Genesis - Never A Time Official Audio](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
+- [Genesis - Dreaming While You Sleep Official Audio](https://www.youtube.com/watch?v=8m2oUeHUEBg)
+- [Genesis - Tell Me Why Official Music Video](https://www.youtube.com/watch?v=73kVlLKvkB8)
+- [Genesis - Living Forever Official Audio](https://www.youtube.com/watch?v=EHx9MqCfCjw)
+- [Genesis - Hold On My Heart Official Music Video](https://www.youtube.com/watch?v=mGfqB1-gHEM)
+- [Genesis - Way Of The World Official Audio](https://www.youtube.com/watch?v=Zh_lQixMezs)
+- [Genesis - Since I Lost You Official Audio](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
+- [Genesis - Fading Lights Official Audio](https://www.youtube.com/watch?v=sRKtxLDTgAw)
+- [Genesis - I Cant Dance Official Audio](https://www.youtube.com/watch?v=A6xCZW_DQ-U)
 
 ## Release Images
 {{< imageGrid >}}

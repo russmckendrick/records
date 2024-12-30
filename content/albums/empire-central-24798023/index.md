@@ -119,12 +119,12 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 - [Fuel City](https://www.youtube.com/watch?v=M6Hy49RbXkY)
 - [Mean Green](https://www.youtube.com/watch?v=-Ko0u9wTE5g)
 - [Coney Bear](https://www.youtube.com/watch?v=1TQoY-w9_x4)
-- [Snarky Puppy - Trinity (Extended Version) (Empire Central)](https://www.youtube.com/watch?v=CSiLPkUopBg)
-- [Snarky Puppy - Bet (Empire Central)](https://www.youtube.com/watch?v=fnWoFuh7ZuA)
-- [Snarky Puppy - Pineapple (Empire Central)](https://www.youtube.com/watch?v=RNTptTel610)
-- [Snarky Puppy - RL's (Empire Central)](https://www.youtube.com/watch?v=fyp0kcIYap0)
-- [Snarky Puppy - Belmont (Empire Central)](https://www.youtube.com/watch?v=dC3b3ul6dME)
-- [Snarky Puppy - Take It! (feat. Bernard Wright) (Empire Central)](https://www.youtube.com/watch?v=ire-T-zfX6k)
+- [Snarky Puppy - Trinity Extended Version Empire Central](https://www.youtube.com/watch?v=CSiLPkUopBg)
+- [Snarky Puppy - Bet Empire Central](https://www.youtube.com/watch?v=fnWoFuh7ZuA)
+- [Snarky Puppy - Pineapple Empire Central](https://www.youtube.com/watch?v=RNTptTel610)
+- [Snarky Puppy - RLs Empire Central](https://www.youtube.com/watch?v=fyp0kcIYap0)
+- [Snarky Puppy - Belmont Empire Central](https://www.youtube.com/watch?v=dC3b3ul6dME)
+- [Snarky Puppy - Take It feat Bernard Wright Empire Central](https://www.youtube.com/watch?v=ire-T-zfX6k)
 
 ## Release Images
 {{< imageGrid >}}

@@ -47,8 +47,8 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 
 
 ## Videos
-### Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma
-{{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma" >}}<br>
+### Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma
+{{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma" >}}<br>
 ### More Videos
 
 - [Gizmodrome- Zubatta Cheve](https://www.youtube.com/watch?v=Su7O_l93U6o)
@@ -59,8 +59,8 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 - [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
 - [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
-- [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
-- [Gizmodrome  - Stewart Copeland, Adrian Belew, Mark King & Vittorio Cosma](https://www.youtube.com/watch?v=ygZyuB21gMU)
+- [Gizmodrome- Sweet Angels Rule The Word](https://www.youtube.com/watch?v=RKh3N-t7ykM)
+- [Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma](https://www.youtube.com/watch?v=ygZyuB21gMU)
 - [Gizmodrome- Zubatta Cheve](https://www.youtube.com/watch?v=Su7O_l93U6o)
 - [Gizmodrome- Zombies In The Mall](https://www.youtube.com/watch?v=innkqp8YDPw)
 - [Gizmodrome- Stark Naked](https://www.youtube.com/watch?v=-Znl0JPeZ8M)
@@ -69,7 +69,7 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 - [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
 - [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
 - [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
-- [Gizmodrome- Sweet Angels (Rule The Word)](https://www.youtube.com/watch?v=RKh3N-t7ykM)
+- [Gizmodrome- Sweet Angels Rule The Word](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
 ## Release Images
 {{< imageGrid >}}

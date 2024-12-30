@@ -56,17 +56,17 @@ The album initially received poor reviews despite its commercial success; the ba
 
 
 ## Videos
-### Stone Temple Pilots - Plush (Official Music Video)
-{{< youtube id="V5UOC0C0x8Q" title="Stone Temple Pilots - Plush (Official Music Video)" >}}<br>
+### Stone Temple Pilots - Plush Official Music Video
+{{< youtube id="V5UOC0C0x8Q" title="Stone Temple Pilots - Plush Official Music Video" >}}<br>
 ### More Videos
 
-- [Stone Temple Pilots - Wicked Garden (Official Music Video)](https://www.youtube.com/watch?v=2oPeZFOpPAM)
-- [Stone Temple Pilots - Creep (Official Music Video)](https://www.youtube.com/watch?v=sT1DdO3SISg)
-- [Stone Temple Pilots - Sex Type Thing (Official Music Video)](https://www.youtube.com/watch?v=8hhu-OyHqZM)
-- [Dead & Bloated (2017 Remaster)](https://www.youtube.com/watch?v=SCx_uiSdC_c)
-- [Sin (2017 Remaster)](https://www.youtube.com/watch?v=mFgpWbI3Czo)
-- [No Memory (2017 Remaster)](https://www.youtube.com/watch?v=HfxaR9S-BXU)
-- [Piece of Pie (2017 Remaster)](https://www.youtube.com/watch?v=vTWgyYkVWXE)
+- [Stone Temple Pilots - Wicked Garden Official Music Video](https://www.youtube.com/watch?v=2oPeZFOpPAM)
+- [Stone Temple Pilots - Creep Official Music Video](https://www.youtube.com/watch?v=sT1DdO3SISg)
+- [Stone Temple Pilots - Sex Type Thing Official Music Video](https://www.youtube.com/watch?v=8hhu-OyHqZM)
+- [Dead  Bloated 2017 Remaster](https://www.youtube.com/watch?v=SCx_uiSdC_c)
+- [Sin 2017 Remaster](https://www.youtube.com/watch?v=mFgpWbI3Czo)
+- [No Memory 2017 Remaster](https://www.youtube.com/watch?v=HfxaR9S-BXU)
+- [Piece of Pie 2017 Remaster](https://www.youtube.com/watch?v=vTWgyYkVWXE)
 
 ## Release Images
 {{< imageGrid >}}

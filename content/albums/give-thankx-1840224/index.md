@@ -46,14 +46,14 @@ Give Thankx is an album by the Jamaican musician Jimmy Cliff, released in 1978. 
 {{< youtube id="5OiA2L6j7PQ" title="Bongo Man" >}}<br>
 ### More Videos
 
-- [Jimmy Cliff - Stand Up and Fight Back (Rare) (Album.Give Thankx) (1978)](https://www.youtube.com/watch?v=3FrkVyoETzU)
+- [Jimmy Cliff - Stand Up and Fight Back Rare AlbumGive Thankx 1978](https://www.youtube.com/watch?v=3FrkVyoETzU)
 - [Jimmy Cliff - She Is A Woman](https://www.youtube.com/watch?v=SACmNG9hUIY)
 - [Jimmy Cliff - You Left Me Standing By The Door](https://www.youtube.com/watch?v=JGDZotNOpo4)
 - [Jimmy Cliff - Footprints](https://www.youtube.com/watch?v=Qq8VSned7Uw)
 - [Jimmy Cliff - Meeting In Afrika](https://www.youtube.com/watch?v=eJr6HP216RA)
 - [Jimmy Cliff - Wanted Man](https://www.youtube.com/watch?v=eGO4kVjx8jU)
 - [Lonely Streets](https://www.youtube.com/watch?v=6zEihLB92cU)
-- [Jimmy Cliff -  Love I Need - 1978 (STEREO in)](https://www.youtube.com/watch?v=g9qkPQRnGu0)
+- [Jimmy Cliff -  Love I Need - 1978 STEREO in](https://www.youtube.com/watch?v=g9qkPQRnGu0)
 - [Jimmy Cliff - Universal Love - Beyond The Boundaries](https://www.youtube.com/watch?v=xyskVsuwZbw)
 
 ## Release Images

@@ -114,32 +114,32 @@ There’s a mystical power between every echoing line of <i>All Things Must Pass
 
 
 ## Videos
-### George Harrison - All Things Must Pass [Disc 1]
-{{< youtube id="doReVkb3Xgo" title="George Harrison - All Things Must Pass [Disc 1]" >}}<br>
+### George Harrison - All Things Must Pass Disc 1
+{{< youtube id="doReVkb3Xgo" title="George Harrison - All Things Must Pass Disc 1" >}}<br>
 ### More Videos
 
-- [George Harrison - All Things Must Pass [Disc 2 & 3]](https://www.youtube.com/watch?v=QzEOFcrHDIM)
-- [George Harrison - All Things Must Pass Cd1 (FullAlbum)](https://www.youtube.com/watch?v=ZCdj6oraKRg)
-- [George Harrison - All Things Must Pass (Full Album) (1970)](https://www.youtube.com/watch?v=dpa-80yYL7Q)
-- [All Things Must Pass (2009 Remaster)](https://www.youtube.com/watch?v=bpbdsIQb87A)
+- [George Harrison - All Things Must Pass Disc 2  3](https://www.youtube.com/watch?v=QzEOFcrHDIM)
+- [George Harrison - All Things Must Pass Cd1 FullAlbum](https://www.youtube.com/watch?v=ZCdj6oraKRg)
+- [George Harrison - All Things Must Pass Full Album 1970](https://www.youtube.com/watch?v=dpa-80yYL7Q)
+- [All Things Must Pass 2009 Remaster](https://www.youtube.com/watch?v=bpbdsIQb87A)
 - [George Harrison - All Things Must Pass](https://www.youtube.com/watch?v=oVx_8mj-UyE)
-- [Paul McCartney - All Things Must Pass (Live)](https://www.youtube.com/watch?v=o6iaSWSB7rE)
-- [George Harrison - All Things Must Pass (Last TV Appearance, 1997)](https://www.youtube.com/watch?v=HAo_4mXxLrM)
-- [George Harrison - All Things Must Pass (Lyrics)](https://www.youtube.com/watch?v=Til-MWvtkf0)
+- [Paul McCartney - All Things Must Pass Live](https://www.youtube.com/watch?v=o6iaSWSB7rE)
+- [George Harrison - All Things Must Pass Last TV Appearance 1997](https://www.youtube.com/watch?v=HAo_4mXxLrM)
+- [George Harrison - All Things Must Pass Lyrics](https://www.youtube.com/watch?v=Til-MWvtkf0)
 - [THE BEST DOUBLE ALBUMS OF ALL TIME](https://www.youtube.com/watch?v=-5PHigXL8PI)
-- [George Harrison: All Things Pass (FULL MOVIE)](https://www.youtube.com/watch?v=N5goAwWijAQ)
-- [John Lennon helps George with 'All Things Must Pass](https://www.youtube.com/watch?v=kQAMDw77m9U)
-- [All Things Must Pass (Demo)](https://www.youtube.com/watch?v=JeyB7zzEquo)
-- [Peter Frampton on Recording “All Things Must Pass” With George Harrison](https://www.youtube.com/watch?v=Ajr0KukHKsE)
-- [GEORGE HARRISON -  All Things Must Pass (with lyrics)](https://www.youtube.com/watch?v=_nYXsnRSQXA)
-- [All Things Must Pass (Anthology 3 Version)](https://www.youtube.com/watch?v=5ODEhwaU2Uw)
-- [I'd Have You Anytime (2014 Remaster)](https://www.youtube.com/watch?v=bEoaZc7pY4M)
-- [Beware of Darkness (2014 Remaster)](https://www.youtube.com/watch?v=FrsGTItbss4)
-- [George Harrison - All Things Must Pass (Living In The Material World Bonus Tracks)](https://www.youtube.com/watch?v=KZbGVHk3tBA)
+- [George Harrison All Things Pass FULL MOVIE](https://www.youtube.com/watch?v=N5goAwWijAQ)
+- [John Lennon helps George with All Things Must Pass](https://www.youtube.com/watch?v=kQAMDw77m9U)
+- [All Things Must Pass Demo](https://www.youtube.com/watch?v=JeyB7zzEquo)
+- [Peter Frampton on Recording All Things Must Pass With George Harrison](https://www.youtube.com/watch?v=Ajr0KukHKsE)
+- [GEORGE HARRISON -  All Things Must Pass with lyrics](https://www.youtube.com/watch?v=_nYXsnRSQXA)
+- [All Things Must Pass Anthology 3 Version](https://www.youtube.com/watch?v=5ODEhwaU2Uw)
+- [Id Have You Anytime 2014 Remaster](https://www.youtube.com/watch?v=bEoaZc7pY4M)
+- [Beware of Darkness 2014 Remaster](https://www.youtube.com/watch?v=FrsGTItbss4)
+- [George Harrison - All Things Must Pass Living In The Material World Bonus Tracks](https://www.youtube.com/watch?v=KZbGVHk3tBA)
 - [George Harrison - All Things Must Pass 1997 - VH1- HD](https://www.youtube.com/watch?v=HsQKJt1n_dc)
 - [All Things Must Pass](https://www.youtube.com/watch?v=Hxyon6mBXfU)
-- [All Things Must Pass (1080p) FULL MOVIE - Documentary, Music](https://www.youtube.com/watch?v=tH-Y3WiwUXQ)
-- [GEORGE HARRISON - ALL THINGS MUST PASS (Full album UK)](https://www.youtube.com/watch?v=boZC6NTls70)
+- [All Things Must Pass 1080p FULL MOVIE - Documentary Music](https://www.youtube.com/watch?v=tH-Y3WiwUXQ)
+- [GEORGE HARRISON - ALL THINGS MUST PASS Full album UK](https://www.youtube.com/watch?v=boZC6NTls70)
 
 ## Release Images
 {{< imageGrid >}}

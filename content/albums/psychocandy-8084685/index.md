@@ -54,12 +54,12 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 
 
 ## Videos
-### The Jesus And Mary Chain - Just Like Honey (Official Music Video)
-{{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey (Official Music Video)" >}}<br>
+### The Jesus And Mary Chain - Just Like Honey Official Music Video
+{{< youtube id="7EgB__YratE" title="The Jesus And Mary Chain - Just Like Honey Official Music Video" >}}<br>
 ### More Videos
 
-- [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
-- [The Jesus And Mary Chain - You Trip Me Up (Official Music Video)](https://www.youtube.com/watch?v=zK2nJWNgZBA)
+- [The Jesus And Mary Chain - Never Understand Official Music Video](https://www.youtube.com/watch?v=b2bzrCCKDwc)
+- [The Jesus And Mary Chain - You Trip Me Up Official Music Video](https://www.youtube.com/watch?v=zK2nJWNgZBA)
 - [The Living End](https://www.youtube.com/watch?v=9KyWnw9py3s)
 - [Taste the Floor](https://www.youtube.com/watch?v=sz7pwUwabmo)
 - [The Hardest Walk](https://www.youtube.com/watch?v=iZ6Vk0yviTA)
@@ -69,9 +69,9 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 - [Inside Me](https://www.youtube.com/watch?v=y1Beh6xQu4k)
 - [Sowing Seeds](https://www.youtube.com/watch?v=9-HHsMa_fw0)
 - [My Little Underground](https://www.youtube.com/watch?v=HYZDSURXqqY)
-- [Something's Wrong](https://www.youtube.com/watch?v=UxlwSRNw8LA)
-- [It's So Hard](https://www.youtube.com/watch?v=UmdXQpwAzVQ)
-- [Psychocandy (Full album) - The Jesus and Mary Chain](https://www.youtube.com/watch?v=iFp7W3PoNPI)
+- [Somethings Wrong](https://www.youtube.com/watch?v=UxlwSRNw8LA)
+- [Its So Hard](https://www.youtube.com/watch?v=UmdXQpwAzVQ)
+- [Psychocandy Full album - The Jesus and Mary Chain](https://www.youtube.com/watch?v=iFp7W3PoNPI)
 
 ## Release Images
 {{< imageGrid >}}

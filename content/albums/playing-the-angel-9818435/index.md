@@ -54,11 +54,11 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 
 
 ## Videos
-### Depeche Mode - Playing The Angel (Full Album) (DTS)
-{{< youtube id="U7Q8ngmmfEM" title="Depeche Mode - Playing The Angel (Full Album) (DTS)" >}}<br>
+### Depeche Mode - Playing The Angel Full Album DTS
+{{< youtube id="U7Q8ngmmfEM" title="Depeche Mode - Playing The Angel Full Album DTS" >}}<br>
 ### More Videos
 
-- [Depeche Mode - Precious (Remastered)](https://www.youtube.com/watch?v=8yn3ViE6mhY)
+- [Depeche Mode - Precious Remastered](https://www.youtube.com/watch?v=8yn3ViE6mhY)
 
 ## Release Images
 {{< imageGrid >}}

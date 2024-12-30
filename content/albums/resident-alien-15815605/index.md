@@ -57,14 +57,14 @@ Although Jonny Cragg makes his singing debut in "Skylark" on the band's second L
 - [Spacehog - Spacehog](https://www.youtube.com/watch?v=K_foBCit-MQ)
 - [Spacehog - Starside](https://www.youtube.com/watch?v=qsi7d99rBkk)
 - [Space Is the Place](https://www.youtube.com/watch?v=gPLoIo6nwZQ)
-- [Spacehog - Never Coming down (Part 1)](https://www.youtube.com/watch?v=cEXpEa25QwY)
+- [Spacehog - Never Coming down Part 1](https://www.youtube.com/watch?v=cEXpEa25QwY)
 - [Spacehog - Ship Wrecked](https://www.youtube.com/watch?v=bq1bDUVapTs)
 - [Only a Few](https://www.youtube.com/watch?v=uf7XG1irP0M)
 - [The Last Dictator](https://www.youtube.com/watch?v=t99_bSas4DI)
-- [Never Coming Down (Pt. 2)](https://www.youtube.com/watch?v=qKoQc1fh1SE)
+- [Never Coming Down Pt 2](https://www.youtube.com/watch?v=qKoQc1fh1SE)
 - [Spacehog - Zeroes](https://www.youtube.com/watch?v=2zjW-Rut51o)
-- [Spacehog - To Be a Millionaire....Was It Likely?](https://www.youtube.com/watch?v=f6lcMUCePig)
-- [Spacehog - Resident Alien (Full Album)](https://www.youtube.com/watch?v=J5nGokH_zgM)
+- [Spacehog - To Be a MillionaireWas It Likely](https://www.youtube.com/watch?v=f6lcMUCePig)
+- [Spacehog - Resident Alien Full Album](https://www.youtube.com/watch?v=J5nGokH_zgM)
 - [Spacehog - was it likely](https://www.youtube.com/watch?v=W5c1yRD2wek)
 
 ## Release Images

@@ -57,7 +57,7 @@ The Fragile Army is the Polyphonic Spree's only record on which lead guitarist A
 {{< youtube id="LTFOsPCuz0c" title="The Polyphonic Spree  The Fragile Army" >}}<br>
 ### More Videos
 
-- [The Polyphonic Spree - "Running Away" TVT Records](https://www.youtube.com/watch?v=ynM9JgJjumI)
+- [The Polyphonic Spree - Running Away TVT Records](https://www.youtube.com/watch?v=ynM9JgJjumI)
 - [Younger Yesterday](https://www.youtube.com/watch?v=YOEVJcej2bo)
 - [Light To Follow](https://www.youtube.com/watch?v=U1lWHgyw6EE)
 - [Get Up And Go](https://www.youtube.com/watch?v=Jh4yeEEbXds)

@@ -78,16 +78,16 @@ Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with
 
 
 ## Videos
-### EELS - The Deconstruction - title track (AUDIO)
-{{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track (AUDIO)" >}}<br>
+### EELS - The Deconstruction - title track AUDIO
+{{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track AUDIO" >}}<br>
 ### More Videos
 
-- [EELS - Premonition (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=-Ohw7xQ_9Cs)
+- [EELS - Premonition AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=-Ohw7xQ_9Cs)
 - [EELS - Bone Dry - Official Video](https://www.youtube.com/watch?v=l6CNDk4yJnU)
-- [EELS - The Unanswerable (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=scBTg78OevM)
-- [EELS - The Quandary (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=FsCkx8YVtSk)
-- [EELS - Be Hurt (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)
-- [EELS - Coming Back (AUDIO) - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=jfrEpjWyCYc)
+- [EELS - The Unanswerable AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=scBTg78OevM)
+- [EELS - The Quandary AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=FsCkx8YVtSk)
+- [EELS - Be Hurt AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)
+- [EELS - Coming Back AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=jfrEpjWyCYc)
 
 ## Release Images
 {{< imageGrid >}}

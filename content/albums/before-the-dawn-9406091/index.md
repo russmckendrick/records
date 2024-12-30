@@ -80,11 +80,11 @@ Before the Dawn is the second live album by the English singer-songwriter Kate B
 
 
 ## Videos
-### Kate Bush - And Dream of Sheep (Live) - Official Video
-{{< youtube id="_256xd9N27o" title="Kate Bush - And Dream of Sheep (Live) - Official Video" >}}<br>
+### Kate Bush - And Dream of Sheep Live - Official Video
+{{< youtube id="_256xd9N27o" title="Kate Bush - And Dream of Sheep Live - Official Video" >}}<br>
 ### More Videos
 
-- [Kate Bush - And Dream of Sheep (Live) - Official Video](https://www.youtube.com/watch?v=_256xd9N27o)
+- [Kate Bush - And Dream of Sheep Live - Official Video](https://www.youtube.com/watch?v=_256xd9N27o)
 
 ## Release Images
 {{< imageGrid >}}

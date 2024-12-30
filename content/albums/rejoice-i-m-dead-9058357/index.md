@@ -51,22 +51,22 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 
 
 ## Videos
-### GONG - Rejoice (clip) (from Rejoice! I'm Dead!)
-{{< youtube id="bynWRpnP3aU" title="GONG - Rejoice (clip) (from Rejoice! I'm Dead!)" >}}<br>
+### GONG - Rejoice clip from Rejoice Im Dead
+{{< youtube id="bynWRpnP3aU" title="GONG - Rejoice clip from Rejoice Im Dead" >}}<br>
 ### More Videos
 
-- [GONG -- REJOICE - I'M NOT DEAD (DJ MIX)](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [GONG - Rejoice (clip) (from Rejoice! I'm Dead!)](https://www.youtube.com/watch?v=bynWRpnP3aU)
-- [GONG -- REJOICE - I'M NOT DEAD (DJ MIX)](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [GONG - Rejoice! (LIVE in Bonn 2017)](https://www.youtube.com/watch?v=wCO89IRZGTg)
-- [Gong - Rejoice! I'm Dead! (album montage)](https://www.youtube.com/watch?v=dgBCSVgzxzA)
-- [GONG -- REJOICE - I'M NOT DEAD (DJ MIX)](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [Gong — The Thing That Should Be](https://www.youtube.com/watch?v=Mbq8hfejqcQ)
-- [GONG - Rejoice! (Loreley, NOTP 2017)](https://www.youtube.com/watch?v=RqacE7JXHnY)
-- [GONG - Rejoice (clip) (from Rejoice! I'm Dead!)](https://www.youtube.com/watch?v=bynWRpnP3aU)
-- [GONG-Rejoice! I'm dead!-Sesc Belenzinho SP 2017](https://www.youtube.com/watch?v=7cg6BjI6IC0)
-- [Gong - Rejoice! (Phoenix FM session at Studio 6 Music)](https://www.youtube.com/watch?v=z0JA74pIk58)
-- [Prog Review 497 - Rejoice! I'm Dead! - Gong](https://www.youtube.com/watch?v=Ce1_JgQeEwc)
+- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
+- [GONG - Rejoice clip from Rejoice Im Dead](https://www.youtube.com/watch?v=bynWRpnP3aU)
+- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
+- [GONG - Rejoice LIVE in Bonn 2017](https://www.youtube.com/watch?v=wCO89IRZGTg)
+- [Gong - Rejoice Im Dead album montage](https://www.youtube.com/watch?v=dgBCSVgzxzA)
+- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
+- [Gong  The Thing That Should Be](https://www.youtube.com/watch?v=Mbq8hfejqcQ)
+- [GONG - Rejoice Loreley NOTP 2017](https://www.youtube.com/watch?v=RqacE7JXHnY)
+- [GONG - Rejoice clip from Rejoice Im Dead](https://www.youtube.com/watch?v=bynWRpnP3aU)
+- [GONG-Rejoice Im dead-Sesc Belenzinho SP 2017](https://www.youtube.com/watch?v=7cg6BjI6IC0)
+- [Gong - Rejoice Phoenix FM session at Studio 6 Music](https://www.youtube.com/watch?v=z0JA74pIk58)
+- [Prog Review 497 - Rejoice Im Dead - Gong](https://www.youtube.com/watch?v=Ce1_JgQeEwc)
 
 ## Release Images
 {{< imageGrid >}}

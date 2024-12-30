@@ -53,14 +53,14 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 {{< youtube id="ldK1UHr_UzQ" title="Strung Out" >}}<br>
 ### More Videos
 
-- [Martha Reeves & The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
+- [Martha Reeves  The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
-- [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
+- [The Temptations - Psychedelic Shack Extended Version](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 - [Barbara McNair - The Hunter Gets Captured By The Game](https://www.youtube.com/watch?v=e1aQDKgjm3g)
 - [Strung Out](https://www.youtube.com/watch?v=ldK1UHr_UzQ)
-- [Martha Reeves & The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
+- [Martha Reeves  The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
-- [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
+- [The Temptations - Psychedelic Shack Extended Version](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 
 ## Release Images
 {{< imageGrid >}}

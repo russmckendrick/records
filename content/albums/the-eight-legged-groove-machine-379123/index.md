@@ -53,41 +53,41 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff, released
 
 
 ## Videos
-### The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]
-{{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]" >}}<br>
+### The Wonder Stuff - Poison - The Eight Legged Groove Machine 1988
+{{< youtube id="dm1aYGFhceA" title="The Wonder Stuff - Poison - The Eight Legged Groove Machine 1988" >}}<br>
 ### More Videos
 
-- [The Wonder Stuff - Like a Merry Go Round - The Eight Legged Groove Machine [1988]](https://www.youtube.com/watch?v=IUNd1v32DIY)
+- [The Wonder Stuff - Like a Merry Go Round - The Eight Legged Groove Machine 1988](https://www.youtube.com/watch?v=IUNd1v32DIY)
 - [Wonder Stuff - A Wish Away](https://www.youtube.com/watch?v=SPHEAklAr8M)
-- [The Wonder Stuff - (Like a) Merry Go Round](https://www.youtube.com/watch?v=ZCK8joGyvPU)
+- [The Wonder Stuff - Like a Merry Go Round](https://www.youtube.com/watch?v=ZCK8joGyvPU)
 - [Poison](https://www.youtube.com/watch?v=kx5sJ0LefTw)
 - [Some Sad Someone](https://www.youtube.com/watch?v=7N4lx8_vFBE)
 - [The Animals And Me](https://www.youtube.com/watch?v=59muH5FAWVM)
 - [Grin](https://www.youtube.com/watch?v=6i4ha0Z831A)
 - [Astley In The Noose](https://www.youtube.com/watch?v=htNOlBNHlJo)
-- [The Wonder Stuff – The Eight Legged Groove Machine](https://www.youtube.com/watch?v=L-38uNGCRWE)
+- [The Wonder Stuff  The Eight Legged Groove Machine](https://www.youtube.com/watch?v=L-38uNGCRWE)
 - [Red Berry Joy Town](https://www.youtube.com/watch?v=wR6xtat2YyA)
 - [The Wonder Stuff - Red Berry Joy Town](https://www.youtube.com/watch?v=ZeWID6qQmjk)
 - [The Wonder Stuff - Give Give Give Me More More More](https://www.youtube.com/watch?v=7Aw-JYtdW4o)
 - [The Wonder Stuff - A Wish Away](https://www.youtube.com/watch?v=L0P1eNlCQIU)
-- [The Wonder Stuff - Poison - The Eight Legged Groove Machine [1988]](https://www.youtube.com/watch?v=dm1aYGFhceA)
-- [The Wonder Stuff - Like a Merry Go Round - The Eight Legged Groove Machine [1988]](https://www.youtube.com/watch?v=IUNd1v32DIY)
+- [The Wonder Stuff - Poison - The Eight Legged Groove Machine 1988](https://www.youtube.com/watch?v=dm1aYGFhceA)
+- [The Wonder Stuff - Like a Merry Go Round - The Eight Legged Groove Machine 1988](https://www.youtube.com/watch?v=IUNd1v32DIY)
 - [Wonder Stuff - A Wish Away](https://www.youtube.com/watch?v=SPHEAklAr8M)
-- [The Wonder Stuff - (Like a) Merry Go Round](https://www.youtube.com/watch?v=ZCK8joGyvPU)
+- [The Wonder Stuff - Like a Merry Go Round](https://www.youtube.com/watch?v=ZCK8joGyvPU)
 - [Poison](https://www.youtube.com/watch?v=kx5sJ0LefTw)
 - [Some Sad Someone](https://www.youtube.com/watch?v=7N4lx8_vFBE)
 - [The Animals And Me](https://www.youtube.com/watch?v=59muH5FAWVM)
 - [Grin](https://www.youtube.com/watch?v=6i4ha0Z831A)
 - [Astley In The Noose](https://www.youtube.com/watch?v=htNOlBNHlJo)
-- [The Wonder Stuff – The Eight Legged Groove Machine](https://www.youtube.com/watch?v=L-38uNGCRWE)
+- [The Wonder Stuff  The Eight Legged Groove Machine](https://www.youtube.com/watch?v=L-38uNGCRWE)
 - [Red Berry Joy Town](https://www.youtube.com/watch?v=wR6xtat2YyA)
 - [The Wonder Stuff - Red Berry Joy Town](https://www.youtube.com/watch?v=ZeWID6qQmjk)
 - [The Wonder Stuff - Give Give Give Me More More More](https://www.youtube.com/watch?v=7Aw-JYtdW4o)
 - [The Wonder Stuff - A Wish Away](https://www.youtube.com/watch?v=L0P1eNlCQIU)
-- [THE WONDERSTUFF : IT'S YER MONEY I'M AFTER BABY (reversed video)](https://www.youtube.com/watch?v=dWqmdlJQVFg)
-- [THE WONDERSTUFF : A WISH AWAY (reversed video)](https://www.youtube.com/watch?v=Ap3X2snL0Jo)
-- [Wonder Stuff - Red Berry Joy Town (live)](https://www.youtube.com/watch?v=9hAykqZfe90)
-- [The Wonder Stuff - Unbearable, Give Give Give Me More More More](https://www.youtube.com/watch?v=hDsAgYNwt-I)
+- [THE WONDERSTUFF  ITS YER MONEY IM AFTER BABY reversed video](https://www.youtube.com/watch?v=dWqmdlJQVFg)
+- [THE WONDERSTUFF  A WISH AWAY reversed video](https://www.youtube.com/watch?v=Ap3X2snL0Jo)
+- [Wonder Stuff - Red Berry Joy Town live](https://www.youtube.com/watch?v=9hAykqZfe90)
+- [The Wonder Stuff - Unbearable Give Give Give Me More More More](https://www.youtube.com/watch?v=hDsAgYNwt-I)
 
 ## Release Images
 {{< imageGrid >}}

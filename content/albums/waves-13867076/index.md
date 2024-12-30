@@ -41,11 +41,11 @@ styles: ["Indie Pop", "Neo-Classical"]
 
 
 ## Videos
-### AVA - Waves [Neo-Classical, Ambient, Electronic]
-{{< youtube id="CiBM_R_2GYc" title="AVA - Waves [Neo-Classical, Ambient, Electronic]" >}}<br>
+### AVA - Waves Neo-Classical Ambient Electronic
+{{< youtube id="CiBM_R_2GYc" title="AVA - Waves Neo-Classical Ambient Electronic" >}}<br>
 ### More Videos
 
-- [AVA - Waves [Neo-Classical, Ambient, Electronic]](https://www.youtube.com/watch?v=CiBM_R_2GYc)
+- [AVA - Waves Neo-Classical Ambient Electronic](https://www.youtube.com/watch?v=CiBM_R_2GYc)
 
 ## Release Images
 {{< imageGrid >}}

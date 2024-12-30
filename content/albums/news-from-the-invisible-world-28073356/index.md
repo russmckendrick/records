@@ -37,8 +37,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### The Fierce And The Dead - Nostalgia Now (Visualizer)
-{{< youtube id="Bc_SZ38LsYM" title="The Fierce And The Dead - Nostalgia Now (Visualizer)" >}}<br>
+### The Fierce And The Dead - Nostalgia Now Visualizer
+{{< youtube id="Bc_SZ38LsYM" title="The Fierce And The Dead - Nostalgia Now Visualizer" >}}<br>
 
 
 ## Release Images

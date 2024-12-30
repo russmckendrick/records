@@ -64,9 +64,9 @@ A documentary film, titled A Skin, A Night, was released the following year. Foc
 {{< youtube id="E9ck_FhoDUc" title="The National - Mistaken For Strangers" >}}<br>
 ### More Videos
 
-- [The National- "Apartment Story"](https://www.youtube.com/watch?v=S97xQKZDV_4)
-- [The National - Fake Empire  (HD) (Boxer 2007)](https://www.youtube.com/watch?v=jsvgH2yZ5m0)
-- [The National - Slow Show (Live, acoustic)](https://www.youtube.com/watch?v=cJVhZKhZEiI)
+- [The National- Apartment Story](https://www.youtube.com/watch?v=S97xQKZDV_4)
+- [The National - Fake Empire  HD Boxer 2007](https://www.youtube.com/watch?v=jsvgH2yZ5m0)
+- [The National - Slow Show Live acoustic](https://www.youtube.com/watch?v=cJVhZKhZEiI)
 - [Slow Show](https://www.youtube.com/watch?v=Aol6RMtEB8Y)
 
 ## Release Images

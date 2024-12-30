@@ -53,16 +53,16 @@ The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in th
 
 - [Grand Designs](https://www.youtube.com/watch?v=jUxZK70N_X0)
 - [Manhattan Project](https://www.youtube.com/watch?v=RhE8VQlczS4)
-- [Rush – The Big Money (Vinyl)](https://www.youtube.com/watch?v=xbnPTYIB1qI)
-- [Rush – Territories (Vinyl)](https://www.youtube.com/watch?v=RdYDyCQglsA)
-- [Rush – Grand Designs (Vinyl)](https://www.youtube.com/watch?v=9Gs9Qz8bIYs)
-- [Rush – Mystic Rhythms (Vinyl)](https://www.youtube.com/watch?v=fXCEiQiQMxg)
-- [Rush – Marathon (Vinyl)](https://www.youtube.com/watch?v=2hbW9B0dsF4)
-- [Rush – Manhattan Project (Vinyl)](https://www.youtube.com/watch?v=MEQPTCi8_KY)
-- [Rush – Emotion Detector (Vinyl)](https://www.youtube.com/watch?v=xSJeaVHaAUU)
-- [Rush – Middletown Dreams (Vinyl)](https://www.youtube.com/watch?v=NI1WY4KxUCU)
-- [The Big Money | Rush | Power WIndows | 1985 Mercury LP](https://www.youtube.com/watch?v=04yGMe8SxNg)
-- [Grand Designs | Rush | Power Windows | 1985 Mercury LP](https://www.youtube.com/watch?v=EULRs1xF0OM)
+- [Rush  The Big Money Vinyl](https://www.youtube.com/watch?v=xbnPTYIB1qI)
+- [Rush  Territories Vinyl](https://www.youtube.com/watch?v=RdYDyCQglsA)
+- [Rush  Grand Designs Vinyl](https://www.youtube.com/watch?v=9Gs9Qz8bIYs)
+- [Rush  Mystic Rhythms Vinyl](https://www.youtube.com/watch?v=fXCEiQiQMxg)
+- [Rush  Marathon Vinyl](https://www.youtube.com/watch?v=2hbW9B0dsF4)
+- [Rush  Manhattan Project Vinyl](https://www.youtube.com/watch?v=MEQPTCi8_KY)
+- [Rush  Emotion Detector Vinyl](https://www.youtube.com/watch?v=xSJeaVHaAUU)
+- [Rush  Middletown Dreams Vinyl](https://www.youtube.com/watch?v=NI1WY4KxUCU)
+- [The Big Money  Rush  Power WIndows  1985 Mercury LP](https://www.youtube.com/watch?v=04yGMe8SxNg)
+- [Grand Designs  Rush  Power Windows  1985 Mercury LP](https://www.youtube.com/watch?v=EULRs1xF0OM)
 
 ## Release Images
 {{< imageGrid >}}

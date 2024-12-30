@@ -52,27 +52,27 @@ In 2011, a two-disc version of the album was issued by Cherry Red Records, conta
 
 
 ## Videos
-### Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards
-{{< youtube id="pk51UnRyzlM" title="Pop Will Eat Itself - P.W.E.I. Vs. The Moral Majority / Dance Of The Mad Bastards" >}}<br>
+### Pop Will Eat Itself - PWEI Vs The Moral Majority  Dance Of The Mad Bastards
+{{< youtube id="pk51UnRyzlM" title="Pop Will Eat Itself - PWEI Vs The Moral Majority  Dance Of The Mad Bastards" >}}<br>
 ### More Videos
 
 - [Axe of Men](https://www.youtube.com/watch?v=spFu4eFgBik)
 - [The Beat That Refused to Die](https://www.youtube.com/watch?v=8mTqvzdKFFc)
-- [Lived In Splendour, Died In Chaos](https://www.youtube.com/watch?v=JGs2rDQ_6cM)
-- [92° F (The 3rd Degree)](https://www.youtube.com/watch?v=Y0fY_aFjnB4)
+- [Lived In Splendour Died In Chaos](https://www.youtube.com/watch?v=JGs2rDQ_6cM)
+- [92 F The 3rd Degree](https://www.youtube.com/watch?v=Y0fY_aFjnB4)
 - [Pop Will Eat Itself - PsychoSexual](https://www.youtube.com/watch?v=JDFm-w8qQ-Q)
 - [Very Metal Noise Pollution](https://www.youtube.com/watch?v=iL0hRD2Wr0A)
-- [Nightmare At 20,000 Feet](https://www.youtube.com/watch?v=iLl9gLrwsmA)
+- [Nightmare At 20000 Feet](https://www.youtube.com/watch?v=iLl9gLrwsmA)
 - [1000 X No](https://www.youtube.com/watch?v=9ycq4ABS9-I)
-- [Another Man's Rhubarb (7" Mix)](https://www.youtube.com/watch?v=VC1a48_mCVM)
-- [Dr. Nightmare's Medication Time](https://www.youtube.com/watch?v=iWDDER65_5E)
-- [88 Seconds... & Still Counting](https://www.youtube.com/watch?v=Qq_JYHTHj74)
-- [Pop Will Eat Itself - Dance Of The Mad Bastards (Feet On Heat Mix)](https://www.youtube.com/watch?v=mKvc_jgK9mU)
+- [Another Mans Rhubarb 7 Mix](https://www.youtube.com/watch?v=VC1a48_mCVM)
+- [Dr Nightmares Medication Time](https://www.youtube.com/watch?v=iWDDER65_5E)
+- [88 Seconds  Still Counting](https://www.youtube.com/watch?v=Qq_JYHTHj74)
+- [Pop Will Eat Itself - Dance Of The Mad Bastards Feet On Heat Mix](https://www.youtube.com/watch?v=mKvc_jgK9mU)
 - [Dance of the Mad Bastards](https://www.youtube.com/watch?v=nkDlSTjJBiE)
 - [Psychosexual](https://www.youtube.com/watch?v=FGsVEcBbTMk)
-- [City Zen Radio 1990/2000 FM](https://www.youtube.com/watch?v=UUN68Zc2C5w)
+- [City Zen Radio 19902000 FM](https://www.youtube.com/watch?v=UUN68Zc2C5w)
 - [The Incredible PWEI VS the Moral Majority](https://www.youtube.com/watch?v=s-1OIIW2by0)
-- [X, Y & Zee](https://www.youtube.com/watch?v=5Ec0o93zoYI)
+- [X Y  Zee](https://www.youtube.com/watch?v=5Ec0o93zoYI)
 - [Medicine Man Speak With Forked Tongue](https://www.youtube.com/watch?v=9m0_amxpUv0)
 
 ## Release Images

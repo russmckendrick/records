@@ -60,8 +60,8 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 {{< youtube id="WVsUbtZFHCA" title="part i - altar" >}}<br>
 ### More Videos
 
-- [part ii - palace / illusion](https://www.youtube.com/watch?v=Brcm-R4Tz84)
-- [part iii - transcend / lament](https://www.youtube.com/watch?v=zLcHJBJOTJc)
+- [part ii - palace  illusion](https://www.youtube.com/watch?v=Brcm-R4Tz84)
+- [part iii - transcend  lament](https://www.youtube.com/watch?v=zLcHJBJOTJc)
 - [part iv - the veil](https://www.youtube.com/watch?v=MZ1BEUunbV0)
 - [part v - evocation](https://www.youtube.com/watch?v=WxZpqLeNnpI)
 - [part vi - solar goddess return](https://www.youtube.com/watch?v=LuslGp64Ly8)

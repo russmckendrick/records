@@ -62,8 +62,8 @@ Despite <i>Person Pitch</i>’s seismic impact on indie, its seven songs—five 
 
 - [Take Pills](https://www.youtube.com/watch?v=ggKdy2n_DXA)
 - [Bros](https://www.youtube.com/watch?v=pxBvg6QSZZw)
-- [I'm Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
-- [Good Girl / Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)
+- [Im Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
+- [Good Girl  Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)
 - [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
 - [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 

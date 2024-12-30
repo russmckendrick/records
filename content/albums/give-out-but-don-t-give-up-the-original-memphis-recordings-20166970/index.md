@@ -53,15 +53,15 @@ styles: []
 
 
 ## Videos
-### Rocks (The Original Memphis Recordings)
-{{< youtube id="Tu_xlqYiByQ" title="Rocks (The Original Memphis Recordings)" >}}<br>
+### Rocks The Original Memphis Recordings
+{{< youtube id="Tu_xlqYiByQ" title="Rocks The Original Memphis Recordings" >}}<br>
 ### More Videos
 
-- [Primal Scream - Jailbird (The Original Memphis Recordings) [Official Audio]](https://www.youtube.com/watch?v=nOAeg-Xrl7k)
-- [Jesus (The Original Memphis Recordings)](https://www.youtube.com/watch?v=hV1SgW_tMgg)
-- [Sad and Blue (The Original Memphis Recordings)](https://www.youtube.com/watch?v=GDv_ooF9TFw)
+- [Primal Scream - Jailbird The Original Memphis Recordings Official Audio](https://www.youtube.com/watch?v=nOAeg-Xrl7k)
+- [Jesus The Original Memphis Recordings](https://www.youtube.com/watch?v=hV1SgW_tMgg)
+- [Sad and Blue The Original Memphis Recordings](https://www.youtube.com/watch?v=GDv_ooF9TFw)
 - [Primal Scream -  Free The Original Memphis Recordings](https://www.youtube.com/watch?v=gLXP1QxsJAk)
-- [Sad & Blue (Early Rehearsal Jam)](https://www.youtube.com/watch?v=lkg3oZI0Fqg)
+- [Sad  Blue Early Rehearsal Jam](https://www.youtube.com/watch?v=lkg3oZI0Fqg)
 
 ## Release Images
 {{< imageGrid >}}

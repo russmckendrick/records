@@ -61,8 +61,8 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 - [Home](https://www.youtube.com/watch?v=o6klK87IyYY)
 - [Cape Connection](https://www.youtube.com/watch?v=6jlZPoRLlEU)
 - [Menofearthereaper](https://www.youtube.com/watch?v=XX1wCrsCqas)
-- [Everything's Cool](https://www.youtube.com/watch?v=O107sqytH7w)
-- [R.S.V.P.](https://www.youtube.com/watch?v=wUZ2HN_9ElM)
+- [Everythings Cool](https://www.youtube.com/watch?v=O107sqytH7w)
+- [RSVP](https://www.youtube.com/watch?v=wUZ2HN_9ElM)
 - [Babylon](https://www.youtube.com/watch?v=ByjXL6WZpWk)
 
 ## Release Images

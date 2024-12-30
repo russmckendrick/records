@@ -42,15 +42,15 @@ styles: ["Comedy", "Spoken Word"]
 
 
 ## Videos
-### Derek and Clive - 'Derek and Clive (Live)' - Full album
-{{< youtube id="-2ezqpFWnfU" title="Derek and Clive - 'Derek and Clive (Live)' - Full album" >}}<br>
+### Derek and Clive - Derek and Clive Live - Full album
+{{< youtube id="-2ezqpFWnfU" title="Derek and Clive - Derek and Clive Live - Full album" >}}<br>
 ### More Videos
 
 - [Derek and Clive - Live - Bo Duddley](https://www.youtube.com/watch?v=Vj3U1DQurew)
-- [Derek and Clive - 'Derek and Clive (Live)' - Full album](https://www.youtube.com/watch?v=-2ezqpFWnfU)
+- [Derek and Clive - Derek and Clive Live - Full album](https://www.youtube.com/watch?v=-2ezqpFWnfU)
 - [Derek and Clive - Live - Bo Duddley](https://www.youtube.com/watch?v=Vj3U1DQurew)
-- [Derek and Clive Live: "This Bloke Came Up To Me" (Peter Cook & Dudley Moore) 2/13](https://www.youtube.com/watch?v=RYGy-j_oH5Q)
-- [Derek and Clive Live: "Worst Job I Ever Had" (Peter Cook & Dudley Moore) 1/13](https://www.youtube.com/watch?v=_a_UKKvUcoE)
+- [Derek and Clive Live This Bloke Came Up To Me Peter Cook  Dudley Moore 213](https://www.youtube.com/watch?v=RYGy-j_oH5Q)
+- [Derek and Clive Live Worst Job I Ever Had Peter Cook  Dudley Moore 113](https://www.youtube.com/watch?v=_a_UKKvUcoE)
 
 ## Release Images
 {{< imageGrid >}}

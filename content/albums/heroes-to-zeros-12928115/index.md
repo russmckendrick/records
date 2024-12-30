@@ -52,21 +52,21 @@ Mason later said, "We shouldn't have produced it ourselves, and if you think we 
 
 
 ## Videos
-### The Beta Band - 'Out-Side'
-{{< youtube id="XQceoURGvIQ" title="The Beta Band - 'Out-Side'" >}}<br>
+### The Beta Band - Out-Side
+{{< youtube id="XQceoURGvIQ" title="The Beta Band - Out-Side" >}}<br>
 ### More Videos
 
-- [The Beta Band - Assessment (Official Music Video)](https://www.youtube.com/watch?v=5XdUt3iIkZ4)
+- [The Beta Band - Assessment Official Music Video](https://www.youtube.com/watch?v=5XdUt3iIkZ4)
 - [The Beta Band - Simple](https://www.youtube.com/watch?v=Gz3kBDOL5Po)
 - [The Beta Band - Pure For](https://www.youtube.com/watch?v=qUugsICNqSQ)
 - [The Beta Band - Space](https://www.youtube.com/watch?v=alzwfb1C_8k)
 - [The Beta Band - Easy](https://www.youtube.com/watch?v=-ySuIK7wQzE)
-- [The Beta Band: Space Beatle](https://www.youtube.com/watch?v=mA4_NucHWc4)
+- [The Beta Band Space Beatle](https://www.youtube.com/watch?v=mA4_NucHWc4)
 - [liquid bird - the beta band](https://www.youtube.com/watch?v=T58NXjt1tiE)
-- [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
-- [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
+- [The Beta Band Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
+- [The Beta Band - Troubleslyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
 - [Beta Band - Lion Thief](https://www.youtube.com/watch?v=2iwRrUhBzVM)
-- [The Beta Band on 'Later...with Jools Holland'](https://www.youtube.com/watch?v=eRr4eVoRi3U)
+- [The Beta Band on Laterwith Jools Holland](https://www.youtube.com/watch?v=eRr4eVoRi3U)
 
 ## Release Images
 {{< imageGrid >}}

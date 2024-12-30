@@ -44,18 +44,18 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 
 
 ## Videos
-### Shakespears Sister 'I Don't Care'
-{{< youtube id="-odnJZIyc2g" title="Shakespears Sister 'I Don't Care'" >}}<br>
+### Shakespears Sister I Dont Care
+{{< youtube id="-odnJZIyc2g" title="Shakespears Sister I Dont Care" >}}<br>
 ### More Videos
 
-- [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
-- [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
-- [Shakespears Sister - I Don't Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
+- [Shakespears Sister - Stay Official Video](https://www.youtube.com/watch?v=YCYaALgW80c)
+- [Shakespears Sister - Hello Turn Your Radio On Official Video](https://www.youtube.com/watch?v=IrbFydtLF-Y)
+- [Shakespears Sister - I Dont Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
 - [Shakespears Sister - Goodbye Cruel World](https://www.youtube.com/watch?v=C575XA836cY)
-- [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
-- [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
-- [Shakespears Sister - Goodbye Cruel World (Official Video)](https://www.youtube.com/watch?v=pSH5yQ9y51M)
-- [Shakespears Sister - I Don't Care (Official Video)](https://www.youtube.com/watch?v=d022vGBC75o)
+- [Shakespears Sister - Stay Official Video](https://www.youtube.com/watch?v=YCYaALgW80c)
+- [Shakespears Sister - Hello Turn Your Radio On Official Video](https://www.youtube.com/watch?v=IrbFydtLF-Y)
+- [Shakespears Sister - Goodbye Cruel World Official Video](https://www.youtube.com/watch?v=pSH5yQ9y51M)
+- [Shakespears Sister - I Dont Care Official Video](https://www.youtube.com/watch?v=d022vGBC75o)
 
 ## Release Images
 {{< imageGrid >}}

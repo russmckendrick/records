@@ -49,27 +49,27 @@ Fauna (pl.: faunae or faunas) is all of the animal life present in a particular 
 
 
 ## Videos
-### Haken - Taurus (Official Video)
-{{< youtube id="4FQBK4CFWbI" title="Haken - Taurus (Official Video)" >}}<br>
+### Haken - Taurus Official Video
+{{< youtube id="4FQBK4CFWbI" title="Haken - Taurus Official Video" >}}<br>
 ### More Videos
 
-- [HAKEN - Nightingale (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=IeENKWcitCw)
-- [Haken - The Alphabet of Me (Official Video)](https://www.youtube.com/watch?v=LQJ-e75ZSj8)
+- [HAKEN - Nightingale OFFICIAL VIDEO](https://www.youtube.com/watch?v=IeENKWcitCw)
+- [Haken - The Alphabet of Me Official Video](https://www.youtube.com/watch?v=LQJ-e75ZSj8)
 - [Sempiternal Beings](https://www.youtube.com/watch?v=CCxjJOB18xk)
 - [Beneath the White Rainbow](https://www.youtube.com/watch?v=QuJ6Ejdpo2A)
 - [Island in the Clouds](https://www.youtube.com/watch?v=-71LuuAw9tc)
-- [Haken - Lovebite (Official Video)](https://www.youtube.com/watch?v=MjqRKeTOTk8)
+- [Haken - Lovebite Official Video](https://www.youtube.com/watch?v=MjqRKeTOTk8)
 - [Elephants Never Forget](https://www.youtube.com/watch?v=L-H3XFfX1EA)
 - [Eyes Of Ebony](https://www.youtube.com/watch?v=qR8iRyWP7f4)
-- [Taurus (Instrumental)](https://www.youtube.com/watch?v=gYVrLialqh8)
-- [Nightingale (Instrumental)](https://www.youtube.com/watch?v=wgDZrFG8Ku4)
-- [The Alphabet of Me (Instrumental)](https://www.youtube.com/watch?v=2n5VAkm_DVs)
-- [Sempiternal Beings (Instrumental)](https://www.youtube.com/watch?v=mV6HDaQGt-Y)
-- [Beneath the White Rainbow (Instrumental)](https://www.youtube.com/watch?v=PG-kGoe61pQ)
-- [Island in the Clouds (Instrumental)](https://www.youtube.com/watch?v=2AmhgjYltAk)
-- [Lovebite (Instrumental)](https://www.youtube.com/watch?v=umOv2PyZ9sc)
-- [Elephants Never Forget (Instrumental)](https://www.youtube.com/watch?v=ql3BHkTGk0w)
-- [Eyes Of Ebony (Instrumental)](https://www.youtube.com/watch?v=MqDJh-D6mkg)
+- [Taurus Instrumental](https://www.youtube.com/watch?v=gYVrLialqh8)
+- [Nightingale Instrumental](https://www.youtube.com/watch?v=wgDZrFG8Ku4)
+- [The Alphabet of Me Instrumental](https://www.youtube.com/watch?v=2n5VAkm_DVs)
+- [Sempiternal Beings Instrumental](https://www.youtube.com/watch?v=mV6HDaQGt-Y)
+- [Beneath the White Rainbow Instrumental](https://www.youtube.com/watch?v=PG-kGoe61pQ)
+- [Island in the Clouds Instrumental](https://www.youtube.com/watch?v=2AmhgjYltAk)
+- [Lovebite Instrumental](https://www.youtube.com/watch?v=umOv2PyZ9sc)
+- [Elephants Never Forget Instrumental](https://www.youtube.com/watch?v=ql3BHkTGk0w)
+- [Eyes Of Ebony Instrumental](https://www.youtube.com/watch?v=MqDJh-D6mkg)
 
 ## Release Images
 {{< imageGrid >}}

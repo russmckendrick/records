@@ -45,22 +45,22 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)
-{{< youtube id="tdjNPX2gjrU" title="XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)" >}}<br>
+### XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos
+{{< youtube id="tdjNPX2gjrU" title="XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos" >}}<br>
 ### More Videos
 
-- [XTC- I'd Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
+- [XTC- Id Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
 - [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
 - [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
 - [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
-- [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
+- [XTC - Apple Venus Demos - Im Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
 - [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
-- [XTC- Easter Theatre-Demo Version- Homespun (Apple Venus Volume One Home Demos)](https://www.youtube.com/watch?v=tdjNPX2gjrU)
-- [XTC- I'd Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
+- [XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=tdjNPX2gjrU)
+- [XTC- Id Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
 - [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
 - [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
 - [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
-- [XTC - Apple Venus Demos - I'm Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
+- [XTC - Apple Venus Demos - Im Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
 - [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
 
 ## Release Images

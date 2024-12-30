@@ -41,18 +41,18 @@ Genesis was the group's greatest commercial success at the time of release, beco
 
 
 ## Videos
-### Genesis  ( Genesis - Full Album 1983 )
-{{< youtube id="L6rfElORgCU" title="Genesis  ( Genesis - Full Album 1983 )" >}}<br>
+### Genesis   Genesis - Full Album 1983 
+{{< youtube id="L6rfElORgCU" title="Genesis   Genesis - Full Album 1983 " >}}<br>
 ### More Videos
 
-- [Genesis - Mama (Official Music Video)](https://www.youtube.com/watch?v=7lXH0nwirio)
-- [Genesis - That's All (Official Music Video)](https://www.youtube.com/watch?v=Vzyn60Zns-E)
-- [Genesis - Home By The Sea / Second Home By The Sea (Official Music Video)](https://www.youtube.com/watch?v=XyMSOJJPdws)
-- [Genesis - Illegal Alien (Official Music Video)](https://www.youtube.com/watch?v=aqQv3qef21A)
-- [Genesis - Taking It All Too Hard (Official Audio)](https://www.youtube.com/watch?v=_bdFgnju2JQ)
-- [Genesis - Just A Job To Do (Official Audio)](https://www.youtube.com/watch?v=wtLlJg3kzcE)
-- [Genesis - Silver Rainbow (Official Audio)](https://www.youtube.com/watch?v=FMk2sJxpw_8)
-- [Genesis - It's Gonna Get Better (Official Audio)](https://www.youtube.com/watch?v=wgGIh9DA-Jk)
+- [Genesis - Mama Official Music Video](https://www.youtube.com/watch?v=7lXH0nwirio)
+- [Genesis - Thats All Official Music Video](https://www.youtube.com/watch?v=Vzyn60Zns-E)
+- [Genesis - Home By The Sea  Second Home By The Sea Official Music Video](https://www.youtube.com/watch?v=XyMSOJJPdws)
+- [Genesis - Illegal Alien Official Music Video](https://www.youtube.com/watch?v=aqQv3qef21A)
+- [Genesis - Taking It All Too Hard Official Audio](https://www.youtube.com/watch?v=_bdFgnju2JQ)
+- [Genesis - Just A Job To Do Official Audio](https://www.youtube.com/watch?v=wtLlJg3kzcE)
+- [Genesis - Silver Rainbow Official Audio](https://www.youtube.com/watch?v=FMk2sJxpw_8)
+- [Genesis - Its Gonna Get Better Official Audio](https://www.youtube.com/watch?v=wgGIh9DA-Jk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -55,8 +55,8 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 
 
 ## Videos
-### Jason Isbell - 24 Frames (Lyric Video)
-{{< youtube id="ZtgPeNKpnyw" title="Jason Isbell - 24 Frames (Lyric Video)" >}}<br>
+### Jason Isbell - 24 Frames Lyric Video
+{{< youtube id="ZtgPeNKpnyw" title="Jason Isbell - 24 Frames Lyric Video" >}}<br>
 
 
 ## Release Images

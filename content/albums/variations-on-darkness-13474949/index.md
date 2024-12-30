@@ -31,13 +31,13 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### The Hungry Ghosts, We Live in an Old Chaos of the Sun
-{{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts, We Live in an Old Chaos of the Sun" >}}<br>
+### The Hungry Ghosts We Live in an Old Chaos of the Sun
+{{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts We Live in an Old Chaos of the Sun" >}}<br>
 ### More Videos
 
-- [The Silence of Animals, The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
-- [The Hungry Ghosts, We Live in an Old Chaos of the Sun](https://www.youtube.com/watch?v=ywHYsR6WqHs)
-- [The Silence of Animals, The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
+- [The Silence of Animals The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
+- [The Hungry Ghosts We Live in an Old Chaos of the Sun](https://www.youtube.com/watch?v=ywHYsR6WqHs)
+- [The Silence of Animals The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
 
 ## Release Images
 {{< imageGrid >}}

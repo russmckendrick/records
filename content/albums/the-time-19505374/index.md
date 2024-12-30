@@ -60,7 +60,7 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 - [Cool](https://www.youtube.com/watch?v=_Ibaf56aeew)
 - [Get It Up](https://www.youtube.com/watch?v=qF632f3h7gY)
 - [Girl](https://www.youtube.com/watch?v=zhBD1D9n084)
-- [Oh, Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
+- [Oh Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
 - [The Stick](https://www.youtube.com/watch?v=8MKBkG55xi4)
 
 ## Release Images

@@ -61,10 +61,10 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 
 - [Missed](https://www.youtube.com/watch?v=U7ezOM1zvo4)
 - [Legs](https://www.youtube.com/watch?v=n60TTqe9fJ8)
-- [Rub 'Til It Bleeds](https://www.youtube.com/watch?v=a5x8p22UU_4)
+- [Rub Til It Bleeds](https://www.youtube.com/watch?v=a5x8p22UU_4)
 - [Hook](https://www.youtube.com/watch?v=NuxosL6KKeA)
 - [Man-Size Sextet](https://www.youtube.com/watch?v=tRFul2yAJzE)
-- [Highway '61 Revisited](https://www.youtube.com/watch?v=UKQLVrtWN2M)
+- [Highway 61 Revisited](https://www.youtube.com/watch?v=UKQLVrtWN2M)
 - [PJ Harvey - 50 Ft Queenie](https://www.youtube.com/watch?v=jKLiU7Hq93w)
 - [Yuri-G](https://www.youtube.com/watch?v=-e7T0iEWwYA)
 - [PJ Harvey - Man-Size](https://www.youtube.com/watch?v=WuJE40OBt48)

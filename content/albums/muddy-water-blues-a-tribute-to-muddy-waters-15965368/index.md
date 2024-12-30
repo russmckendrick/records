@@ -50,15 +50,15 @@ styles: ["Blues Rock"]
 
 
 ## Videos
-### Paul Rodgers ~ The Hunter
-{{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers ~ The Hunter" >}}<br>
+### Paul Rodgers  The Hunter
+{{< youtube id="W_2wLOgD6Ls" title="Paul Rodgers  The Hunter" >}}<br>
 ### More Videos
 
-- [Paul Rodgers - Muddy Water Blues (Electric Version)](https://www.youtube.com/watch?v=jzqq1FrvBKo)
+- [Paul Rodgers - Muddy Water Blues Electric Version](https://www.youtube.com/watch?v=jzqq1FrvBKo)
 - [Paul Rodgers - Louisiana Blues](https://www.youtube.com/watch?v=pfAYIW0nArs)
-- [Paul Rodgers (feat. David Gilmour) - Standing around crying](https://www.youtube.com/watch?v=Qj1t95ijlUM)
-- [Paul Rodgers/Gary Moore - She Moves Me (A tribute to Muddy Waters)](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
-- [Paul Rodgers & Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
+- [Paul Rodgers feat David Gilmour - Standing around crying](https://www.youtube.com/watch?v=Qj1t95ijlUM)
+- [Paul RodgersGary Moore - She Moves Me A tribute to Muddy Waters](https://www.youtube.com/watch?v=_XfTUR_vaQ0)
+- [Paul Rodgers  Jeff Beck - I Just Want to Make Love to You](https://www.youtube.com/watch?v=yhPnsWZRF0k)
 
 ## Release Images
 {{< imageGrid >}}

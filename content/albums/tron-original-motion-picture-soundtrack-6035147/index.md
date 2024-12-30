@@ -62,21 +62,21 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 ### More Videos
 
 - [01 Tron   Creation Of Tron   Wendy Carlos](https://www.youtube.com/watch?v=o4XVOmAAkyo)
-- [We've Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
-- [Wormhole (TRON Soundtrack)](https://www.youtube.com/watch?v=m-v2vCMjrnw)
-- [Ring Game And Escape (TRON Soundtrack)](https://www.youtube.com/watch?v=xnaFPMkbvEA)
-- [Water, Music And Tronaction (TRON Soundtrack)](https://www.youtube.com/watch?v=bdmIJMhxVk8)
-- [TRON Scherzo (TRON Soundtrack)](https://www.youtube.com/watch?v=xTvU-R82ax8)
+- [Weve Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
+- [Wormhole TRON Soundtrack](https://www.youtube.com/watch?v=m-v2vCMjrnw)
+- [Ring Game And Escape TRON Soundtrack](https://www.youtube.com/watch?v=xnaFPMkbvEA)
+- [Water Music And Tronaction TRON Soundtrack](https://www.youtube.com/watch?v=bdmIJMhxVk8)
+- [TRON Scherzo TRON Soundtrack](https://www.youtube.com/watch?v=xTvU-R82ax8)
 - [Miracle and Magician](https://www.youtube.com/watch?v=vLgQrzyc4WA)
 - [Magic Landings](https://www.youtube.com/watch?v=l6NogoCCUMc)
-- [Theme from Tron (From "TRON"/Score)](https://www.youtube.com/watch?v=TPF7CXUgcus)
+- [Theme from Tron From TRONScore](https://www.youtube.com/watch?v=TPF7CXUgcus)
 - [Love Theme](https://www.youtube.com/watch?v=nB_AVIC14ow)
-- [Tower Music [Let Us Pray] (TRON Soundtrack)](https://www.youtube.com/watch?v=AFTSOU6h_UI)
-- [The Light Sailer (TRON Soundtrack)](https://www.youtube.com/watch?v=MkDI0m5M06A)
+- [Tower Music Let Us Pray TRON Soundtrack](https://www.youtube.com/watch?v=AFTSOU6h_UI)
+- [The Light Sailer TRON Soundtrack](https://www.youtube.com/watch?v=MkDI0m5M06A)
 - [Sea of Simulation](https://www.youtube.com/watch?v=II7pQns97iU)
 - [A New Tron and the MCP](https://www.youtube.com/watch?v=ewSk7uf4MbQ)
-- [Anthem (TRON Soundtrack)](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
-- [Tron: End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
+- [Anthem TRON Soundtrack](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
+- [Tron End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
 
 ## Release Images
 {{< imageGrid >}}

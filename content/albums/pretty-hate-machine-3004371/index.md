@@ -56,10 +56,10 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 - [Something I Can Never Have](https://www.youtube.com/watch?v=AiIu1v988W0)
 - [Kinda I Want To](https://www.youtube.com/watch?v=1UaqcWBtT-o)
 - [Sin](https://www.youtube.com/watch?v=5bwE5IU4pzA)
-- [That's What I Get](https://www.youtube.com/watch?v=l4Cin02QIZE)
+- [Thats What I Get](https://www.youtube.com/watch?v=l4Cin02QIZE)
 - [The Only Time](https://www.youtube.com/watch?v=EWc00wZWG_k)
 - [Ringfinger](https://www.youtube.com/watch?v=Xbp0qm-x1v8)
-- [N̲ine I̲n̲ch N̲ails - Pretty Hate Machine (Full Album)](https://www.youtube.com/watch?v=9g5KTwlxt_Q)
+- [Nine Inch Nails - Pretty Hate Machine Full Album](https://www.youtube.com/watch?v=9g5KTwlxt_Q)
 - [Nine Inch Nails - Head Like A Hole](https://www.youtube.com/watch?v=ao-Sahfy7Hg)
 - [nine inch nails terrible lie lyrics](https://www.youtube.com/watch?v=r6rqCy83EcA)
 

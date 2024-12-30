@@ -123,8 +123,8 @@ Revolver expanded the boundaries of pop music, revolutionised standard practices
 
 
 ## Videos
-### The Beatles - Revolver (Full Album) [1966]
-{{< youtube id="TN-Imp3N3dM" title="The Beatles - Revolver (Full Album) [1966]" >}}<br>
+### The Beatles - Revolver Full Album 1966
+{{< youtube id="TN-Imp3N3dM" title="The Beatles - Revolver Full Album 1966" >}}<br>
 
 
 ## Release Images

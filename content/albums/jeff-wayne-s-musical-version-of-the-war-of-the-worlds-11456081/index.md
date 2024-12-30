@@ -60,13 +60,13 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 
 
 ## Videos
-### The War of the Worlds - Jeff Wayne's Musical Version - Full Musical
-{{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}<br>
+### The War of the Worlds - Jeff Waynes Musical Version - Full Musical
+{{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Waynes Musical Version - Full Musical" >}}<br>
 ### More Videos
 
-- [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
-- [Jeff Wayne - The Eve of the War (Official Audio) ft. Richard Burton, Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
-- [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
+- [Jeff Wayne - La Guerra de los Mundos War of the Worlds 2xLP Full Album](https://www.youtube.com/watch?v=bm1lwQIsFXE)
+- [Jeff Wayne - The Eve of the War Official Audio ft Richard Burton Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
+- [Jeff Wayne - La Guerra de los Mundos War of the Worlds 2xLP Full Album](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
 ## Release Images
 {{< imageGrid >}}

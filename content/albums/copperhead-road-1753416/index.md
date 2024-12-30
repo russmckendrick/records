@@ -52,7 +52,7 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 {{< youtube id="bbEIS1q6GZ0" title="Steve Earle - Back To The Wall" >}}<br>
 ### More Videos
 
-- [Steve Earle - Copperhead Road (Official Video)](https://www.youtube.com/watch?v=xvaEJzoaYZk)
+- [Steve Earle - Copperhead Road Official Video](https://www.youtube.com/watch?v=xvaEJzoaYZk)
 
 ## Release Images
 {{< imageGrid >}}

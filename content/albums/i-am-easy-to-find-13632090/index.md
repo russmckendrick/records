@@ -106,14 +106,14 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 
 
 ## Videos
-### "I Am Easy To Find" - A Film by Mike Mills / An Album by The National
-{{< youtube id="ifElv18k2O8" title=""I Am Easy To Find" - A Film by Mike Mills / An Album by The National" >}}<br>
+### I Am Easy To Find - A Film by Mike Mills  An Album by The National
+{{< youtube id="ifElv18k2O8" title="I Am Easy To Find - A Film by Mike Mills  An Album by The National" >}}<br>
 ### More Videos
 
-- ["I Am Easy To Find" - A Film by Mike Mills / An Album by The National](https://www.youtube.com/watch?v=ifElv18k2O8)
-- [The National - 'Rylan'](https://www.youtube.com/watch?v=CbXnnn8z1tE)
-- [The National - 'Light Years'](https://www.youtube.com/watch?v=5FQtSn_vak0)
-- [The National - 'Hairpin Turns'](https://www.youtube.com/watch?v=W_aN81SBI3A)
+- [I Am Easy To Find - A Film by Mike Mills  An Album by The National](https://www.youtube.com/watch?v=ifElv18k2O8)
+- [The National - Rylan](https://www.youtube.com/watch?v=CbXnnn8z1tE)
+- [The National - Light Years](https://www.youtube.com/watch?v=5FQtSn_vak0)
+- [The National - Hairpin Turns](https://www.youtube.com/watch?v=W_aN81SBI3A)
 
 ## Release Images
 {{< imageGrid >}}

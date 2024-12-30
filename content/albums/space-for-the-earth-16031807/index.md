@@ -49,11 +49,11 @@ Space for the Earth is the fifteenth studio album by English progressive and psy
 
 
 ## Videos
-### Six Worlds... (An Unusual Journey)
-{{< youtube id="g61LoK2WTKs" title="Six Worlds... (An Unusual Journey)" >}}<br>
+### Six Worlds An Unusual Journey
+{{< youtube id="g61LoK2WTKs" title="Six Worlds An Unusual Journey" >}}<br>
 ### More Videos
 
-- [Ozric Tentacles - Space For The Earth (The Tour That Didn't Happen Edition)](https://www.youtube.com/watch?v=8BhxyZ3zGyI)
+- [Ozric Tentacles - Space For The Earth The Tour That Didnt Happen Edition](https://www.youtube.com/watch?v=8BhxyZ3zGyI)
 
 ## Release Images
 {{< imageGrid >}}

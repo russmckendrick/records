@@ -49,26 +49,26 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 
 
 ## Videos
-### De La Soul - Buhloone Mindstate (EE.UU. 1993) - Full Album
-{{< youtube id="HU10jW7nEhM" title="De La Soul - Buhloone Mindstate (EE.UU. 1993) - Full Album" >}}<br>
+### De La Soul - Buhloone Mindstate EEUU 1993 - Full Album
+{{< youtube id="HU10jW7nEhM" title="De La Soul - Buhloone Mindstate EEUU 1993 - Full Album" >}}<br>
 ### More Videos
 
-- [De La Soul - Breakadawn (Official Music Video) [HD]](https://www.youtube.com/watch?v=2WbSBLplJS0)
-- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=L0rH7bwFnV4)
-- [De La Soul - Eye Patch (Official Audio)](https://www.youtube.com/watch?v=9F2QKqCXOWI)
-- [De La Soul - En Focus (Official Audio) ft. Dres, Shortie No Mass](https://www.youtube.com/watch?v=1_g2OmxgIEg)
-- [Patti Dooke (Official Audio)](https://www.youtube.com/watch?v=n0X2h56qlG4)
-- [De La Soul - I Be Blowin' (Official Audio) ft. Maceo Parker](https://www.youtube.com/watch?v=DpkDu0XEu74)
-- [De La Soul - Long Island Wildin' (Official Audio) ft. Scha Dara Parr & Takagi Kan](https://www.youtube.com/watch?v=FPZwYTQbsuY)
-- [De La Soul - Ego Trippin' (Part Two) (Official Music Video) [HD] ft. Shortie No Mass](https://www.youtube.com/watch?v=eu1g18U1_6s)
-- [De La Soul - Paul's Revenge (Official Audio)](https://www.youtube.com/watch?v=nYpEc2-kfJY)
-- [De La Soul - 3 Days Later (Official Audio)](https://www.youtube.com/watch?v=PlH8Qog7f_4)
-- [De La Soul - Area (Official Audio)](https://www.youtube.com/watch?v=PxiVxvbb3QY)
-- [De La Soul - I Am I Be (Official Audio) ft. Maceo Parker, Fred Wesley, Pee Wee Ellis](https://www.youtube.com/watch?v=WCX1mYNMUvA)
-- [De La Soul - In The Woods (Official Audio) ft. Shortie No Mass](https://www.youtube.com/watch?v=7nbYVYfnP-w)
-- [De La Soul - Dave Has a Problem…Seriously (Official Audio)](https://www.youtube.com/watch?v=xCRoczLRZOw)
-- [De La Soul - Stone Age (Official Audio) ft. Biz Markie](https://www.youtube.com/watch?v=3vn1a4__FZQ)
-- [De La Soul - Buhloone Mindstate (EE.UU. 1993) - Full Album](https://www.youtube.com/watch?v=HU10jW7nEhM)
+- [De La Soul - Breakadawn Official Music Video HD](https://www.youtube.com/watch?v=2WbSBLplJS0)
+- [De La Soul - Intro Official Audio](https://www.youtube.com/watch?v=L0rH7bwFnV4)
+- [De La Soul - Eye Patch Official Audio](https://www.youtube.com/watch?v=9F2QKqCXOWI)
+- [De La Soul - En Focus Official Audio ft Dres Shortie No Mass](https://www.youtube.com/watch?v=1_g2OmxgIEg)
+- [Patti Dooke Official Audio](https://www.youtube.com/watch?v=n0X2h56qlG4)
+- [De La Soul - I Be Blowin Official Audio ft Maceo Parker](https://www.youtube.com/watch?v=DpkDu0XEu74)
+- [De La Soul - Long Island Wildin Official Audio ft Scha Dara Parr  Takagi Kan](https://www.youtube.com/watch?v=FPZwYTQbsuY)
+- [De La Soul - Ego Trippin Part Two Official Music Video HD ft Shortie No Mass](https://www.youtube.com/watch?v=eu1g18U1_6s)
+- [De La Soul - Pauls Revenge Official Audio](https://www.youtube.com/watch?v=nYpEc2-kfJY)
+- [De La Soul - 3 Days Later Official Audio](https://www.youtube.com/watch?v=PlH8Qog7f_4)
+- [De La Soul - Area Official Audio](https://www.youtube.com/watch?v=PxiVxvbb3QY)
+- [De La Soul - I Am I Be Official Audio ft Maceo Parker Fred Wesley Pee Wee Ellis](https://www.youtube.com/watch?v=WCX1mYNMUvA)
+- [De La Soul - In The Woods Official Audio ft Shortie No Mass](https://www.youtube.com/watch?v=7nbYVYfnP-w)
+- [De La Soul - Dave Has a ProblemSeriously Official Audio](https://www.youtube.com/watch?v=xCRoczLRZOw)
+- [De La Soul - Stone Age Official Audio ft Biz Markie](https://www.youtube.com/watch?v=3vn1a4__FZQ)
+- [De La Soul - Buhloone Mindstate EEUU 1993 - Full Album](https://www.youtube.com/watch?v=HU10jW7nEhM)
 
 ## Release Images
 {{< imageGrid >}}

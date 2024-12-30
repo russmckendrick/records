@@ -55,20 +55,20 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 
 
 ## Videos
-### M83 - 'Amnesia' (Official Audio)
-{{< youtube id="6zNqhzl2Qv0" title="M83 - 'Amnesia' (Official Audio)" >}}<br>
+### M83 - Amnesia Official Audio
+{{< youtube id="6zNqhzl2Qv0" title="M83 - Amnesia Official Audio" >}}<br>
 ### More Videos
 
-- [M83 - 'Fantasy' (Official Audio)](https://www.youtube.com/watch?v=vmdwiWPrJNE)
-- [M83 - 'Kool Nuit' feat. Kaela (Official Audio)](https://www.youtube.com/watch?v=q2A62QzfnJM)
-- [M83 - 'Deceiver' (Official Audio)](https://www.youtube.com/watch?v=COwo1n3W8Dk)
-- [M83 - 'Dismemberment Bureau' (Official Audio)](https://www.youtube.com/watch?v=yMsU1k9tlWA)
-- [M83 - 'Laura' (Official Audio)](https://www.youtube.com/watch?v=lZG2c824nrE)
-- [M83 - 'Sunny Boy' (Official Audio)](https://www.youtube.com/watch?v=lzbO0_Bk0ac)
-- [M83 - 'Sunny Boy Part 2' (Official Audio)](https://www.youtube.com/watch?v=T62NBKtEhlU)
-- [M83 - 'Water Deep' (Official Audio)](https://www.youtube.com/watch?v=ZKBtPvP0BCc)
-- [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
-- [M83 - 'Earth To Sea' (Official Audio)](https://www.youtube.com/watch?v=kyaO0zgBxa8)
+- [M83 - Fantasy Official Audio](https://www.youtube.com/watch?v=vmdwiWPrJNE)
+- [M83 - Kool Nuit feat Kaela Official Audio](https://www.youtube.com/watch?v=q2A62QzfnJM)
+- [M83 - Deceiver Official Audio](https://www.youtube.com/watch?v=COwo1n3W8Dk)
+- [M83 - Dismemberment Bureau Official Audio](https://www.youtube.com/watch?v=yMsU1k9tlWA)
+- [M83 - Laura Official Audio](https://www.youtube.com/watch?v=lZG2c824nrE)
+- [M83 - Sunny Boy Official Audio](https://www.youtube.com/watch?v=lzbO0_Bk0ac)
+- [M83 - Sunny Boy Part 2 Official Audio](https://www.youtube.com/watch?v=T62NBKtEhlU)
+- [M83 - Water Deep Official Audio](https://www.youtube.com/watch?v=ZKBtPvP0BCc)
+- [M83 - Us And The Rest Official Audio](https://www.youtube.com/watch?v=SBX5LsazDho)
+- [M83 - Earth To Sea Official Audio](https://www.youtube.com/watch?v=kyaO0zgBxa8)
 
 ## Release Images
 {{< imageGrid >}}

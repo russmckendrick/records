@@ -139,29 +139,29 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 
 
 ## Videos
-### Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)
-{{< youtube id="u1V8YRJnr4Q" title="Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)" >}}<br>
+### Creedence Clearwater Revival - Have You Ever Seen The Rain Official
+{{< youtube id="u1V8YRJnr4Q" title="Creedence Clearwater Revival - Have You Ever Seen The Rain Official" >}}<br>
 ### More Videos
 
-- [Creedence Clearwater Revival - The Studio Albums Collection (Half Speed Masters) Unboxing](https://www.youtube.com/watch?v=Y14px43fICc)
+- [Creedence Clearwater Revival - The Studio Albums Collection Half Speed Masters Unboxing](https://www.youtube.com/watch?v=Y14px43fICc)
 - [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=NUSgXNrOce0)
 - [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=Qsp9KJAEWV0)
-- [CREEDENCE CLEARWATER REVIVAL - The Studio Albums Collection ● UNBOXING + REVIEW](https://www.youtube.com/watch?v=wwYlNGD0NUI)
-- [Ranking the Studio Albums: Creedence Clearwater Revival](https://www.youtube.com/watch?v=84b_UwVbeGY)
+- [CREEDENCE CLEARWATER REVIVAL - The Studio Albums Collection  UNBOXING  REVIEW](https://www.youtube.com/watch?v=wwYlNGD0NUI)
+- [Ranking the Studio Albums Creedence Clearwater Revival](https://www.youtube.com/watch?v=84b_UwVbeGY)
 - [CCR - the studio albums collection - my review](https://www.youtube.com/watch?v=61UuSulzaMY)
-- [Creedence Clearwater Revival -  The Studio album collection -Suzie Q (Vinyl, Reed Muse 3C)](https://www.youtube.com/watch?v=KLAoJX-DiWc)
-- [Creedence 12" vinyl collection - Different editions](https://www.youtube.com/watch?v=bnZldRR0fBw)
-- [Creedence Clearwater Revival   vinyl & CD collection](https://www.youtube.com/watch?v=xRG-u59psMY)
+- [Creedence Clearwater Revival -  The Studio album collection -Suzie Q Vinyl Reed Muse 3C](https://www.youtube.com/watch?v=KLAoJX-DiWc)
+- [Creedence 12 vinyl collection - Different editions](https://www.youtube.com/watch?v=bnZldRR0fBw)
+- [Creedence Clearwater Revival   vinyl  CD collection](https://www.youtube.com/watch?v=xRG-u59psMY)
 - [Discography Creedence Clearwater Revival](https://www.youtube.com/watch?v=vFQ55_VXOf8)
-- [Creedence Clearwater Revival Vinyl Record Collection Part_1/3](https://www.youtube.com/watch?v=qXdbeg2h2vM)
-- [On this day in 1970 Cosmo's Factory hit #1 on UK Album Charts.](https://www.youtube.com/watch?v=VFqcRHDXt-w)
+- [Creedence Clearwater Revival Vinyl Record Collection Part_13](https://www.youtube.com/watch?v=qXdbeg2h2vM)
+- [On this day in 1970 Cosmos Factory hit 1 on UK Album Charts](https://www.youtube.com/watch?v=VFqcRHDXt-w)
 - [Creedence Clearwater Revival CD Collection](https://www.youtube.com/watch?v=4BTdxtAua-g)
 - [My Creedence Clearwater Revival Vinyl Collection](https://www.youtube.com/watch?v=Op8jdF5XF2A)
-- [Credence Clearwater Revival vinyl Walmart exclusive!!!](https://www.youtube.com/watch?v=MIKdKWM4ttk)
-- [Creedence Clearwater Revival Vinyl Record Collection Part_3/3](https://www.youtube.com/watch?v=E_FeNIiAIoM)
-- [Studio Albums Ranked - Creedence Clearwater Revival | bicyclelegs](https://www.youtube.com/watch?v=yrrwT7KigNE)
-- [New Album In 1969. Bayou Country by Creedence Clearwater Revival](https://www.youtube.com/watch?v=yo2Ne9JsD1Y)
-- [Creedence Clearwater Revival - Half-Speed Masters (Interview with Miles Showell)](https://www.youtube.com/watch?v=jvrUQiZh_qc)
+- [Credence Clearwater Revival vinyl Walmart exclusive](https://www.youtube.com/watch?v=MIKdKWM4ttk)
+- [Creedence Clearwater Revival Vinyl Record Collection Part_33](https://www.youtube.com/watch?v=E_FeNIiAIoM)
+- [Studio Albums Ranked - Creedence Clearwater Revival  bicyclelegs](https://www.youtube.com/watch?v=yrrwT7KigNE)
+- [New Album In 1969 Bayou Country by Creedence Clearwater Revival](https://www.youtube.com/watch?v=yo2Ne9JsD1Y)
+- [Creedence Clearwater Revival - Half-Speed Masters Interview with Miles Showell](https://www.youtube.com/watch?v=jvrUQiZh_qc)
 
 ## Release Images
 {{< imageGrid >}}

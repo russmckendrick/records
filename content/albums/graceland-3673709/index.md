@@ -51,14 +51,14 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 
 
 ## Videos
-### Paul Simon - You Can Call Me Al (Official Video)
-{{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al (Official Video)" >}}<br>
+### Paul Simon - You Can Call Me Al Official Video
+{{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al Official Video" >}}<br>
 ### More Videos
 
-- [Paul Simon - Gumboots (Official Audio)](https://www.youtube.com/watch?v=L-AQTtXUxYU)
+- [Paul Simon - Gumboots Official Audio](https://www.youtube.com/watch?v=L-AQTtXUxYU)
 - [Homeless](https://www.youtube.com/watch?v=Cb04PK_oTlM)
 - [Paul Simon - The Boy In The Bubble](https://www.youtube.com/watch?v=Uy5T6s25XK4)
-- [Paul Simon - Graceland (Official Audio)](https://www.youtube.com/watch?v=GP6a-7MP91g)
+- [Paul Simon - Graceland Official Audio](https://www.youtube.com/watch?v=GP6a-7MP91g)
 
 ## Release Images
 {{< imageGrid >}}

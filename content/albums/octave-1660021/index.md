@@ -46,11 +46,11 @@ Octave is the ninth album by the Moody Blues (the eighth by this particular line
 
 
 ## Videos
-### The Moody Blues   Octave 1978 CD London Records ‎  820 329 2  1986 Made in W Germany by PolyGram Ori
-{{< youtube id="_3_qeDuazO4" title="The Moody Blues   Octave 1978 CD London Records ‎  820 329 2  1986 Made in W Germany by PolyGram Ori" >}}<br>
+### The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori
+{{< youtube id="_3_qeDuazO4" title="The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori" >}}<br>
 ### More Videos
 
-- [The Moody Blues   Octave 1978 CD London Records ‎  820 329 2  1986 Made in W Germany by PolyGram Ori](https://www.youtube.com/watch?v=_3_qeDuazO4)
+- [The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori](https://www.youtube.com/watch?v=_3_qeDuazO4)
 
 ## Release Images
 {{< imageGrid >}}

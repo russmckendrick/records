@@ -52,27 +52,27 @@ styles: ["Alternative Rock", "Soundtrack"]
 
 
 ## Videos
-### St. Vincent - The Nowhere Inn (Official Video)
-{{< youtube id="KVLdVpG1Q0c" title="St. Vincent - The Nowhere Inn (Official Video)" >}}<br>
+### St Vincent - The Nowhere Inn Official Video
+{{< youtube id="KVLdVpG1Q0c" title="St Vincent - The Nowhere Inn Official Video" >}}<br>
 ### More Videos
 
-- [St. Vincent - Palm Desert (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=NiFL3Lb8P2g)
-- [St. Vincent - Carrie Off Bus (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=MExUR37dLVw)
-- [St. Vincent - Ending (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=7GMQPtErSAQ)
-- [St. Vincent - Waiting On A Wave (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=xS7BbMhPpbU)
-- [St. Vincent - Come To Jesus (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=RnWCqNOpMn0)
-- [St. Vincent - Texas Intro (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=Vkqch9EFIhs)
-- [St. Vincent - Tour Bus (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=01MYU9Notew)
-- [St. Vincent - Bacchanal (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=BHwcBV03K0U)
-- [St. Vincent - Sex Scene (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=zq6T0kBSKXs)
-- [St. Vincent - Rooftop (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=vFaDIXC3wI4)
-- [St. Vincent - Board Room (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=ej7jJbJd4rU)
-- [St. Vincent - Opening Limo Scene (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=C-rLP1k5mmk)
-- [St. Vincent - Carrie Wave (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=tHn6HthQX-c)
-- [St. Vincent - Hallway Scene (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=FJv5nFCG0ZA)
-- [St. Vincent - Downtempo Montage (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=PXxhY91DRmI)
-- [St. Vincent - Carrie Voicemail (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=_XAmfHrevVM)
-- [St. Vincent - Texas Choir (The Nowhere Inn Official Soundtrack)](https://www.youtube.com/watch?v=YRkP9KK8vP4)
+- [St Vincent - Palm Desert The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=NiFL3Lb8P2g)
+- [St Vincent - Carrie Off Bus The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=MExUR37dLVw)
+- [St Vincent - Ending The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=7GMQPtErSAQ)
+- [St Vincent - Waiting On A Wave The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=xS7BbMhPpbU)
+- [St Vincent - Come To Jesus The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=RnWCqNOpMn0)
+- [St Vincent - Texas Intro The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=Vkqch9EFIhs)
+- [St Vincent - Tour Bus The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=01MYU9Notew)
+- [St Vincent - Bacchanal The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=BHwcBV03K0U)
+- [St Vincent - Sex Scene The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=zq6T0kBSKXs)
+- [St Vincent - Rooftop The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=vFaDIXC3wI4)
+- [St Vincent - Board Room The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=ej7jJbJd4rU)
+- [St Vincent - Opening Limo Scene The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=C-rLP1k5mmk)
+- [St Vincent - Carrie Wave The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=tHn6HthQX-c)
+- [St Vincent - Hallway Scene The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=FJv5nFCG0ZA)
+- [St Vincent - Downtempo Montage The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=PXxhY91DRmI)
+- [St Vincent - Carrie Voicemail The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=_XAmfHrevVM)
+- [St Vincent - Texas Choir The Nowhere Inn Official Soundtrack](https://www.youtube.com/watch?v=YRkP9KK8vP4)
 
 ## Release Images
 {{< imageGrid >}}

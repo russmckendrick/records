@@ -61,12 +61,12 @@ Telekon is the second solo studio album by the English new wave musician Gary Nu
 - [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
 - [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
 - [Sleep by Windows](https://www.youtube.com/watch?v=0Wu9AtBqpnY)
-- [I'm an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
+- [Im an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
 - [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
-- [Down in the Park (Piano Version)](https://www.youtube.com/watch?v=M9_peYF2Wu0)
+- [Down in the Park Piano Version](https://www.youtube.com/watch?v=M9_peYF2Wu0)
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 
 ## Release Images

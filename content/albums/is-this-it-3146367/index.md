@@ -48,16 +48,16 @@ For a band so strongly identified with a particular time and place, The Strokes 
 
 
 ## Videos
-### The Strokes - Last Nite (Official Music Video)
-{{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite (Official Music Video)" >}}<br>
+### The Strokes - Last Nite Official Music Video
+{{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite Official Music Video" >}}<br>
 ### More Videos
 
-- [The Strokes - Someday (Official Music Video)](https://www.youtube.com/watch?v=knU9gRUWCno)
-- [The Strokes - Hard To Explain (Official Music Video)](https://www.youtube.com/watch?v=BXkm6h6uq0k)
-- [The Strokes - The Modern Age (Official Music Video)](https://www.youtube.com/watch?v=RzO7IGWGxu8)
-- [The Strokes - Is This It (Mad TV 2002)](https://www.youtube.com/watch?v=vMZ9-6Hxv2w)
-- [The Strokes - Is This It (Full Album) (2001) HQ](https://www.youtube.com/watch?v=uwTrH3e5OzM)
-- [The Strokes - Soma (Lyrics) [HQ]](https://www.youtube.com/watch?v=wU6oRPIli_M)
+- [The Strokes - Someday Official Music Video](https://www.youtube.com/watch?v=knU9gRUWCno)
+- [The Strokes - Hard To Explain Official Music Video](https://www.youtube.com/watch?v=BXkm6h6uq0k)
+- [The Strokes - The Modern Age Official Music Video](https://www.youtube.com/watch?v=RzO7IGWGxu8)
+- [The Strokes - Is This It Mad TV 2002](https://www.youtube.com/watch?v=vMZ9-6Hxv2w)
+- [The Strokes - Is This It Full Album 2001 HQ](https://www.youtube.com/watch?v=uwTrH3e5OzM)
+- [The Strokes - Soma Lyrics HQ](https://www.youtube.com/watch?v=wU6oRPIli_M)
 
 ## Release Images
 {{< imageGrid >}}
