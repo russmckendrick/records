@@ -12,15 +12,16 @@ cover:
     alt: "Metallic Spheres In Colour by The Orb"
     caption: "Metallic Spheres In Colour by The Orb"
 additional_images:
-    - "https://i.discogs.com/kmGLzuYplXjk5QNkT9Ppj3n2ktrf-sdH-luCPEdFclo/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5OTYz/NTEtNDY5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/E31Smho3HjZzL1QQ9cqzg7GRpn8TE5hf0rAqFMJ0eWo/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5OTYz/NTEtNDY5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/lrDcM7nZG8AFrq83Mm-yS4cALw8bpi0oGiHbrOTZL2s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5OTY1/NjctMzg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZNeGSsGmou1qwrBX8nJPEXXlEjF6MBPy1cnr8Xh0Ca4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE3MDQ2Mzgy/NzYtNTU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/1lo9u3F291MKzOutBNFCOaNrNHTNar62FGudXuGqLSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE3MDQ2Mzgy/NzYtNjAzNi5qcGVn.jpeg"
     - "https://i.discogs.com/PNmjsyTOq9OSf85OyIA9eSNfcyL9MEzL6scPt8Lfee8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NTctOTU2My5qcGVn.jpeg"
     - "https://i.discogs.com/8DkDPpBpldilnGg_K0L_aom8anC4xAp8XVYmJ24AVKc/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NjItODUxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/YpUWas5quDXcSjFs5Qs7w0W9LEnW5EkXV_eR2Kj1cJ0/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NjgtNjczNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Do-dOlFtWiJDjRpUDdjEH707h1eLL5R5vwjhuFmGj3c/rs:fit/g:sm/q:90/h:697/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NzMtNDgxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/eKv56hfosvmml7BWaT7L6z76yYNioMlBX9rqG9Ozvwo/rs:fit/g:sm/q:90/h:1550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NzktMTUxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/i7P_vJ8hK2f2XI9Qo5yt6Ye3TE54PEJ7h3jHyT4c1aM/rs:fit/g:sm/q:90/h:600/w:232/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTU5ODIx/NzktMTUxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/V-x1pYKpGR8Avg9t9MzfT7NfnMTi_3IeeAWyy6lHqPY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/MTQ4LTE2OTYyNTg3/NzItNDg0NC5qcGVn.jpeg"
 genres: ["Electronic"]
-styles: ["Ambient"]
+styles: ["Ambient", "Dub"]
 ---
 
 
@@ -34,12 +35,19 @@ styles: ["Ambient"]
 
 
 ## Videos
-### The Orb & David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (4K Official Music Video)
-{{< youtube id="BqxqiGF88q8" title="The Orb & David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (4K Official Music Video)" >}}<br>
+### The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)
+{{< youtube id="C8c6NLbBr_8" title="The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)" >}}<br>
 ### More Videos
 
-- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 2 - Excerpt](https://www.youtube.com/watch?v=mWjb-su_5nk)
-- [The Orb & David Gilmour - Metallic Spheres In Color - Movement 3 (Excerpt)](https://www.youtube.com/watch?v=gyFGoYLUrAc)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=PCm1viTBDsA)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 2 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=UciWB9-FRvM)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 3 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=5qFSVl2MSQw)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 4 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
+- [The Orb & David Gilmour 2023 - Metallic Spheres In Colour (full album)](https://www.youtube.com/watch?v=C8c6NLbBr_8)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 1 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=PCm1viTBDsA)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 2 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=UciWB9-FRvM)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 3 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=5qFSVl2MSQw)
+- [The Orb and David Gilmour - Metallic Spheres In Colour: Movement 4 - Excerpt (Visualiser)](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,5 +58,5 @@ styles: ["Ambient"]
 | Format         | Vinyl LP Album |
 | Label          | Sony Music |
 | Catalog Number | DGORB001LP |
-| Notes | "The original ambient masterpiece 'Metallic Spheres' Remixed" On heavyweight 180 gram vinyl Includes Poster  © 2023 David Gilmour Music LTD. / Alex Paterson t/a The Orb. ℗ 2023 The copyright in this sound recording is owned by David Gilmour Music LTD. / Alex Paterson t/a The Orb. Under exclusive license to Sony Music Entertainment |
-| Discogs URL    | [The Orb - Metallic Spheres In Colour](https://www.discogs.com/release/28431148-The-Orb-Featuring-David-Gilmour-Metallic-Spheres-In-Colour) |
+| Notes | "The original ambient masterpiece 'Metallic Spheres' Remixed" On heavyweight 180 gram vinyl Includes Poster  © 2023 David Gilmour Music LTD. / Alex Paterson t/a The Orb. ℗ 2023 The copyright in this sound recording is owned by David Gilmour Music LTD. / Alex Paterson t/a The Orb. Under exclusive license to Sony Music Entertainment  Made in the EU.  Runouts stamped except etched 'STU 19439989361-A-1' and '19439989361 B-1' |
+| Discogs URL    | [The Orb - Metallic Spheres In Colour](https://www.discogs.com/release/28431148-The-Orb-And-David-Gilmour-Metallic-Spheres-In-Colour) |

@@ -13,11 +13,11 @@ cover:
     caption: "Thirteen by Teenage Fanclub"
 additional_images:
     - "https://i.discogs.com/hUx_NevCAA_jX1p1tBqFj5YqF1oPc-rvx282E9QLct4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1MzQ0MjM5/MTctNTY5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/pA03yDH2Lql4x58hft1wODvflQhEOOE4GyBoE0WLyIU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODYtMzA5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/MnINHyVtmsxENehaJ5f_2CyQ0eWk5xpmmJGiCPrJc9c/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNjk4My5qcGVn.jpeg"
+    - "https://i.discogs.com/kvlfepEllAoxd0AvCfouyIpv1b33RpsdK2zHQnA4dlk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODYtMzA5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/U4rcQpHI7AuQQRV_6iphxdhggOStHApaWIGWC4ew84c/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNjk4My5qcGVn.jpeg"
     - "https://i.discogs.com/xziuaAUsymBF5JGdTIs0v365WlJrQJQaeVEKO0yUoWA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNzE5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/kTKQSYbuU2ilx2_3lT8fxbM4qI712QrBoRkzrRloj1Q/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctMjg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/_FvDvxw_2Kd4-6frfxMsEvzClOF23xJpVM_1AetO2CQ/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNTIyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/O8dZxMQ9mwtblcxMDYTYhDExPPCrsL6IA3k2jZjGjwM/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNTIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/7gVLcvYfG7pUPUXePg8Ml4pGNeXDj0yxfKsr20ilmfU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctNjU1NC5qcGVn.jpeg"
     - "https://i.discogs.com/s-vdMS9HfZQ3jxS7nXfVDAR8piwK7kKMuCmIHCFMVwA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODktODkxNC5qcGVn.jpeg"
     - "https://i.discogs.com/v3d_e_AbZKFkTBpoYLFRC5rOtzJQLctyWqhn1bPzzdM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcz/MTMxLTE1NDg2OTMy/ODctOTU1NS5qcGVn.jpeg"
@@ -53,8 +53,16 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 
 ## Videos
 ### Teenage Fanclub - Hang On
-{{< youtube id="UeuvjxmaEkk" title="Teenage Fanclub - Hang On" >}}<br>
+{{< youtube id="Min5jvGu9sQ" title="Teenage Fanclub - Hang On" >}}<br>
+### More Videos
 
+- [Fear of Flying](https://www.youtube.com/watch?v=x46fz5bwBz4)
+- [The Cabbage](https://www.youtube.com/watch?v=gFHVAKxuMXA)
+- [Gene Clark](https://www.youtube.com/watch?v=7dEDXC_wwhY)
+- [Song to the Cynic](https://www.youtube.com/watch?v=dRE6NVcb9x8)
+- [120 Mins](https://www.youtube.com/watch?v=rbMCnIRmVYI)
+- [Teenage Fanclub - Norman 3](https://www.youtube.com/watch?v=F6FIxUdlABA)
+- [Get Funky](https://www.youtube.com/watch?v=Yw9lcN3ujLg)
 
 ## Release Images
 {{< imageGrid >}}

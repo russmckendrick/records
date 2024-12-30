@@ -31,7 +31,8 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-Everything Now is the fifth studio album by Canadian indie rock band Arcade Fire, released on July 28, 2017, through Sonovox Records (physical release), Columbia Records, and Rough Trade Records. It was produced by Arcade Fire, alongside Thomas Bangalter of the electronic-house duo Daft Punk and Steve Mackey, the bassist of the band Pulp. Additionally, Markus Dravs, one of Arcade Fire's frequent collaborators, co-produced two tracks, and he, Geoff Barrow of Portishead, and Eric Heigle each provided additional production on one track.The album is a departure from the sound of Arcade Fire's previous records, influenced as it is by synth-pop, dance-rock, and other derivatives of electronic music, and has been called more "digestible" than their earlier output. It was promoted by an elaborate marketing campaign, as well as five singles: the title track, "Creature Comfort", "Signs of Life", "Electric Blue", and "Put Your Money on Me".
+Everything Now is the fifth studio album by Canadian indie rock band Arcade Fire, released on July 28, 2017, through Sonovox Records (physical release), Columbia Records and Rough Trade Records. It was produced by Arcade Fire, alongside Thomas Bangalter of the electronic-house duo Daft Punk and Steve Mackey, the bassist of the band Pulp. Additionally, Markus Dravs, one of Arcade Fire's frequent collaborators, co-produced two tracks, and he, Geoff Barrow of Portishead, and Eric Heigle each provided additional production on one track.
+The album is a departure from the sound of Arcade Fire's previous records, influenced as it is by synth-pop, dance-rock, and other derivatives of electronic music, and has been called more "digestible" than their earlier output. It was promoted by an elaborate marketing campaign, as well as five singles: the title track, "Creature Comfort", "Signs of Life", "Electric Blue", and "Put Your Money on Me".
 Upon release, Everything Now proved polarizing with critics—some reviews said it was a misstep for the band, but several publications named it one of the best albums of the year. It reached the top of the charts in numerous countries, including Arcade Fire's home country of Canada, the US, and the UK.
 
 
@@ -60,13 +61,13 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 
 
 ## Videos
-### Arcade Fire - Creature Comfort (Official Video)
-{{< youtube id="xzwicesJQ7E" title="Arcade Fire - Creature Comfort (Official Video)" >}}<br>
+### Arcade Fire - Everything Now (Official Video)
+{{< youtube id="zC30BYR3CUk" title="Arcade Fire - Everything Now (Official Video)" >}}<br>
 ### More Videos
 
-- [Arcade Fire - Everything Now (Official Video)](https://www.youtube.com/watch?v=zC30BYR3CUk)
 - [Arcade Fire - Signs of Life (Official Video)](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
 - [Arcade Fire - Electric Blue (Official Video)](https://www.youtube.com/watch?v=UymXRxJPOQo)
+- [Arcade Fire - Creature Comfort (Official Video)](https://www.youtube.com/watch?v=xzwicesJQ7E)
 
 ## Release Images
 {{< imageGrid >}}

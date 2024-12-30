@@ -4,7 +4,7 @@ artist_name: "Manic Street Preachers"
 artist: "manic-street-preachers"
 album_name: "Everything Must Go"
 date: 2016-07-18T17:36:27.000000Z
-release_date: "1996-05"
+release_date: "2016-05-20"
 release_id: "8667461"
 slug: "everything-must-go-8667461"
 hideSummary: true
@@ -15,18 +15,24 @@ cover:
 additional_images:
     - "https://i.discogs.com/AH8Den240jdX0DdVksqQE_vTLrm84-MGeciciqrZPZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NjQzNjY4/NC0zNDE0LmpwZWc.jpeg"
     - "https://i.discogs.com/qbAAag_XJgpqTmBQDG7qrWUWmAvv4DRLwFUzVu97-8k/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/Ny0xODAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Lqb0_22HxpxnJNC1hpdAkZZCf9OXfPZSYlNHmpV9y58/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/Ny0xNjQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/e_2dMWbwwt-9RmxyMUoZy0XVu-ypdO1Ib80EWPiXNSE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/Ny0zMjQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/O7NaDJuGxbx4ClivcCJmWdmPp7v1nozGhJ0hkLvRTt0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/OS0xMzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Lqb0_22HxpxnJNC1hpdAkZZCf9OXfPZSYlNHmpV9y58/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/Ny0xNjQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/EOHCe45cOQ_Xsvho6pbcmjYPbbP7S0QmilzwDl0mFZ4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/Mi0zOTcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/WL8eYShdjcGmtdw3rHWu5Z9aXnL613d0M8bSftRmhJ0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTU3NTIyMDEz/MC00NDkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/O7NaDJuGxbx4ClivcCJmWdmPp7v1nozGhJ0hkLvRTt0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTQ2NzAzNDc5/OS0xMzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/SGvcSJi_eud9VJq0cdHULihjVFYxkeiHSAXZEzYmQfE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTU3NTIyMDEz/MC00NDkyLmpwZWc.jpeg"
     - "https://i.discogs.com/rmj4NAgGteotpXfq-ud_o1haMz-nHCoehhRw3YLQKio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTUwNjY1Njk0/MS04MDc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/QJ7LAS9y5AnfAAcG8NW6P1afW0lnNlyMFZXSsOZmH7s/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc0/NjEtMTY5NzkzNDU0/Mi00OTY4LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Alternative Rock", "Indie Rock", "Britpop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Everything Must Go is the fourth studio album by Welsh alternative rock band Manic Street Preachers. It was released on 20 May 1996, through Epic Records, and was the first record released by the band following the disappearance of lyricist and rhythm guitarist Richey Edwards.
-Released at the height of Britpop in the mid-1990s, the album was a commercial and critical success, it reached its peak in the UK on separate occasions, debuting and peaking at number 2 in the UK Albums Chart and earned the band accolades in the 1997 Brit Awards. It represented a shift in the group's sound due to Edwards' departure. The album charted in mainland Europe, Asia and Australia, eventually selling over two million copies. Everything Must Go is frequently featured and voted highly in lists for one of the best albums of all time by many music publications such as NME and Q.
+In January 1995, the members of Manic Street Preachers entered House in the Woods, a studio in Surrey (on the outskirts of London), to begin work on their fourth record. It was early days for the follow-up to their bleak, brutal masterpiece <i>The Holy Bible</i> (1994), a chance to swap ideas about where to go next and run through the handful of new songs they’d already written. But in the coming days everything changed for the four best friends from Blackwood, Wales. Guitarist and co-lyricist Richey Edwards disappeared from a London hotel room ahead of a planned promotional trip to the US. He was never seen again, eventually declared presumed dead in 2008.
+
+At the heart of <i>Everything Must Go</i> is the story of how his former bandmates—singer and guitarist James Dean Bradfield, bassist and lyricist Nicky Wire and drummer Sean Moore—put the pieces back together. It was a few months after Edwards’ disappearance that they decided to get in a room to see how—<i>if</i>—this could work. One song lit the way. In “A Design for Life”, the Manics had written a modern classic, a song that fused the rock dynamism of 1993’s <i>Gold Against the Soul</i> album with orchestral bombast and a lyric documenting the working-class struggle to form an irresistible, defiant sing-along. Their intellect and melodic talent had never been paired quite so explosively.
+
+Recorded with producer Mike Hedges in a French château—a world away from the dingy Cardiff studio that the Manics occupied for <i>The Holy Bible</i>—<i>Everything Must Go</i> was a record made up of anthem after sing-along anthem, but these songs had catharsis in their bones. On the surface, there were the subjects they were directly about: award-winning war photographers (the choppy indie rock of “Kevin Carter”); expressionist artists battling Alzheimer’s (the icy, New Order-ish groove of “Interiors (Song for Willem de Kooning)”); escapism (“Australia”’s heady, riffy rush); caged animals (the harp-assisted acoustic beauty of “Small Black Flowers That Grow in the Sky”). Dig a little deeper, though, and every song seemed to be holding up a mirror to something a little closer to home. Grief, loss, love, forward-motion, these are the elements running right through <i>Everything Must Go</i>.
+
+Five Edwards lyrics would make it onto the record, the deal being that the song had to have been started before he went missing. In that sense, <i>Everything Must Go</i> closed a chapter for the Manics, but another one opened. Released in May 1996, it went on to sell over two million copies and made the trio one of the biggest British bands of the ’90s, earning them Best British Group and Best Album at the 1997 BRIT Awards. A masterpiece record in a decade that wasn’t short of masterpiece records, <i>Everything Must Go</i> was never the sound of a band leaving everything behind. They took it all with them. This was Manic Street Preachers building a bridge to the future.
         
         
     
@@ -47,21 +53,15 @@ Released at the height of Britpop in the mid-1990s, the album was a commercial a
 12. No Surface All Feeling (4:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everything-must-go-10th-anniversary-edition/311112270" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/everything-must-go-20-remastered/1090077721" >}}<br>
 
 
 ## Videos
 ### Manic Street Preachers - Everything Must Go
-{{< youtube id="KBYUqYPy0tU" title="Manic Street Preachers - Everything Must Go" >}}<br>
+{{< youtube id="uU5trjpFus0" title="Manic Street Preachers - Everything Must Go" >}}<br>
 ### More Videos
 
 - [Manic Street Preachers - Everything Must Go](https://www.youtube.com/watch?v=uU5trjpFus0)
-- [Manic Street Preachers - Everything Must Go [Stealth Sonic Orchestra Remix]](https://www.youtube.com/watch?v=nPs0D3jffNA)
-- [Manic Street Preachers - Elvis Impersonator: Blackpool Pier (Audio)](https://www.youtube.com/watch?v=CM_R2p9GDbk)
-- [A Design for Life (Remastered)](https://www.youtube.com/watch?v=tOwMWNrf1oY)
-- [Manic Street Preachers - A Design For Live (Live Jools Holland 1996)](https://www.youtube.com/watch?v=wieGRnViOmM)
-- [Manic Street Preachers - A Design For Life](https://www.youtube.com/watch?v=zSIs1YmBQaY)
-- [Manic Street Preachers - Australia](https://www.youtube.com/watch?v=FAb6KGxm58U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +73,5 @@ Released at the height of Britpop in the mid-1990s, the album was a commercial a
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 88985317831 |
-| Notes | Initial copies were exclusive to HMV. Heavyweight vinyl. The whole release run was limited to 1000 copies.  Cut by Chris Blair - Abbey Road, London. All songs recorded Autumn 95 - Winter 96.  All tracks mixed at Chateau De La Rouge Motte except  A2, B7, B11 mixed at Abbey Road, London, B9 Battery Studios, London  and B12 Swanyard Recording Studios, London. All tracks recorded at Chateau De La Rouge Motte, France except  B12 recorded at The Big Noise Recorders, Cardiff and House In The Woods  and B7 recorded at Real World Studios, Wiltshire.  Love to Philip and Richey. Thanks to Martin and Rob.  ℗ & © 2016 Sony Music Entertainment UK Limited. |
+| Notes | Initial copies were exclusive to HMV. The whole release run was limited to 1000 copies.  Powder blue heavyweight opaque vinyl. Copies might display a subtle marbled / fleck appearance. Printed inner sleeve of top opening card, featuring full lyrics and credits. There is a 6cm square hype sticker applied to the shrink-wrap. Also applied to the shrink-wrap may be one or more merchant retailing stickers.  Cut by Chris Blair - Abbey Road, London. All songs recorded Autumn 95 - Winter 96.  All tracks mixed at Chateau De La Rouge Motte except  A2, B7, B11 mixed at Abbey Road, London, B9 Battery Studios, London  and B12 Swanyard Recording Studios, London. All tracks recorded at Chateau De La Rouge Motte, France except  B12 recorded at The Big Noise Recorders, Cardiff and House In The Woods  and B7 recorded at Real World Studios, Wiltshire.  Love to Philip and Richey. Thanks to Martin and Rob.  ℗ & © 2016 Sony Music Entertainment UK Limited. "Made in the EU". |
 | Discogs URL    | [Manic Street Preachers - Everything Must Go](https://www.discogs.com/release/8667461-Manic-Street-Preachers-Everything-Must-Go) |

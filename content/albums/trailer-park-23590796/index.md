@@ -4,7 +4,7 @@ artist_name: "Beth Orton"
 artist: "beth-orton"
 album_name: "Trailer Park"
 date: 2022-06-18T05:46:48.000000Z
-release_date: "2008-10-13"
+release_date: "1996-12-11"
 release_id: "23590796"
 slug: "trailer-park-23590796"
 hideSummary: true
@@ -26,8 +26,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
-Fusing folk and electronica, Orton's debut album blazed a quiet trail through British music. She was among the first to pair trip-hop with acoustic guitar, and, combined with her coolly distant voice, the results were spellbinding. “She Cries Your Name” feels like a modern folk song, filled with flickering synths and swooping vocals, while “Don't Need a Reason” is more traditional, dreamier fare. She veers far from folk, too: “Live As You Dream” and “how Far” have a country twang, while “Touch Me With Your Love” and “Tangent” are angsty, classically 90s ambient numbers.
-    
+Trailer Park is the second studio album by British singer Beth Orton. Combining folk, electronica, and trip hop elements, it earned Orton two BRIT Award nominations. One single from the album was the opening track, "She Cries Your Name", which previously appeared in a different form on William Orbit's album Strange Cargo Hinterland. All songs were co-written by Orton except for a cover version of Phil Spector's "I Wish I Never Saw the Sunshine." The album was among the first to fuse elements of 1960s and 1970s folk with modern electronica and trip hop.
+An expanded two-disc Legacy Edition was released internationally on 10 March 2009.
+
+
+        
+        
     
 
 
@@ -45,23 +49,27 @@ Fusing folk and electronica, Orton's debut album blazed a quiet trail through Br
 11. Galaxy Of Emptiness
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/trailer-park-remastered-bonus-track-version/305759023" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/trailer-park/281788574" >}}<br>
 
 
 ## Videos
-### Beth Orton - She Cries Your Name (Video)
-{{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name (Video)" >}}<br>
+### Beth Orton - Touch Me With Your Love
+{{< youtube id="mx3wDOdVEAY" title="Beth Orton - Touch Me With Your Love" >}}<br>
 ### More Videos
 
-- [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
+- [Whenever (2008 Remastered Version)](https://www.youtube.com/watch?v=S3H5EZo18Jw)
+- [Beth Orton - She Cries Your Name (Video)](https://www.youtube.com/watch?v=rFZc4ax4tJs)
 - [Beth Orton - Live As You Dream](https://www.youtube.com/watch?v=Mt3d3lmDd_8)
+- [Someone's Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
 - [BETH ORTON... I WISH I NEVER SAW THE SUNSHINE](https://www.youtube.com/watch?v=XR2gaDtS1js)
 - [Beth Orton - Tangent](https://www.youtube.com/watch?v=ToUivqnyxN4)
 - [BETH ORTON - dON'T nEED A rEASON (+ lyrics)](https://www.youtube.com/watch?v=LWt3xqqwsjw)
 - [Beth Orton - sugar boy](https://www.youtube.com/watch?v=JeZpru0Rr_4)
 - [Beth Orton - Touch Me With Your Love (Video)](https://www.youtube.com/watch?v=OQ3iZc7lfaY)
-- [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
+- [Beth Orton "whenever"](https://www.youtube.com/watch?v=R5GzcVZmnE8)
 - [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
+- [Beth Orton - Touch Me With Your Love](https://www.youtube.com/watch?v=mx3wDOdVEAY)
+- [Whenever (2008 Remastered Version)](https://www.youtube.com/watch?v=S3H5EZo18Jw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +77,7 @@ Fusing folk and electronica, Orton's debut album blazed a quiet trail through Br
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Trailer_Park_(album) |
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 19439956801 |

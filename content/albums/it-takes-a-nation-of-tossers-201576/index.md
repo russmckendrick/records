@@ -51,6 +51,16 @@ styles: ["Pop Rap", "Parody"]
 - [When Miners Attack](https://www.youtube.com/watch?v=uGF3KVZJ2ac)
 - [Sugar In Ya Peas](https://www.youtube.com/watch?v=504r4BtgZdI)
 - [Waiting](https://www.youtube.com/watch?v=xIK4JcaWWiI)
+- [Mam Sed](https://www.youtube.com/watch?v=SIhjNzIdtjQ)
+- [Witness The Pitness](https://www.youtube.com/watch?v=uL2U11UAcPw)
+- [The Pitman And Her](https://www.youtube.com/watch?v=BZihQPL_X8Y)
+- [Twat Farm Revisited](https://www.youtube.com/watch?v=5QYbNGtwpbo)
+- [Words](https://www.youtube.com/watch?v=JK55WUuIdpg)
+- [Two Twats](https://www.youtube.com/watch?v=KSflc_h4TX8)
+- [When Miners Attack](https://www.youtube.com/watch?v=uGF3KVZJ2ac)
+- [Sugar In Ya Peas](https://www.youtube.com/watch?v=504r4BtgZdI)
+- [Waiting](https://www.youtube.com/watch?v=xIK4JcaWWiI)
+- [Mam Sed](https://www.youtube.com/watch?v=SIhjNzIdtjQ)
 
 ## Release Images
 {{< imageGrid >}}

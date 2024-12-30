@@ -26,6 +26,8 @@ styles: ["Indie Rock"]
 ---
 
 Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records.
+
+
     
     
 

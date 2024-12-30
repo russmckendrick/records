@@ -12,9 +12,10 @@ cover:
     alt: "The Screamadelica 12 Singles by Primal Scream"
     caption: "The Screamadelica 12 Singles by Primal Scream"
 additional_images:
-    - "https://i.discogs.com/bagdO6FGX2o7tVCTV0Z-YTby6LaJfOBlu7rDZfKxtNw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/NzQtMTU5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/IJCszYPYxuHn7bXbShxY3b0dKaxV_JLJuULEvTvxzMM/rs:fit/g:sm/q:90/h:250/w:243/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2MzMxMDM2/NDctOTE2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/ogW-cvHclU_JezsYiIO8P5NJVRei4vn06FqrzQsTcEc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/ODItNjU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Luyclk2OtSqI8cIeJQld5sFAJFyvn5tsoPYsLsXMhBM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE3MjE2ODM0/NTktNjg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/PjI7pGU8dzfqHymmY8lD2rU_NP1EnKowr6-tntQ3rfk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE3MjE2MjA0/ODgtODQ0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1oREcpbqBCZIYhyhaFeNwaYRQ59TpDqYbauZOxnIexU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/NzQtMTU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/4UTz5h8EAzOQllo1O114PIueIRaESUbnNJ4q8OjMTPE/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2NDM0Nzc0/ODItNjU4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/doWrNwT9s7X6nkVD4VcJ4GwEcfnTFBwz-8uEugUL7PI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDg1LTE2MzM0MzIw/NzktNDM4MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient", "Balearic", "Indie Rock"]
@@ -33,7 +34,7 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 8. Ramblin' Rose (Live In NYC) (2:27)
 9. Come Together
 10. Come Together (Terry Farley Extended Mix)  (8:02)
-11. Come Together (Andrew Wetherall Extended Mix) (10:12)
+11. Come Together (Andrew Weatherall Extended Mix) (10:12)
 12. Come Together
 13. Come Together (The Hypnotonebrainmachine Mix) (5:14)
 14. Come Together (BBG Mix) (6:27)

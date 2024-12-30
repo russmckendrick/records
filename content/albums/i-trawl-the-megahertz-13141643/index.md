@@ -13,14 +13,17 @@ cover:
     caption: "I Trawl The Megahertz by Prefab Sprout"
 additional_images:
     - "https://i.discogs.com/pXiFr7y7ekR5OjEFnTrxvKFoxM8L4ejFnEr0bFWlJGI/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQx/NjQzLTE1NDg4NDU4/MTQtNTY5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/9I-f2BOH1AeYjJwgK-QIk4K6cMgsCO_hIDQGMrAN5HE/rs:fit/g:sm/q:90/h:794/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQx/NjQzLTE2NDE5MzQ4/MzktNDY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Xikd3Le0aUk37jDwPILE35ELpFYRHMDNEX6pRDFC6L4/rs:fit/g:sm/q:90/h:600/w:453/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQx/NjQzLTE2NDE5MzQ4/MzktNDY3NC5qcGVn.jpeg"
 genres: ["Electronic", "Pop", "Classical"]
 styles: ["Modern Classical", "Experimental"]
 ---
 
-I Trawl the Megahertz is an album originally released as a Paddy McAloon solo album in May 2003 on Liberty Records. It was later reissued in February 2019 on Sony Music under the Prefab Sprout name, as originally intended, with new artwork. McAloon was rendered nearly blind for a period in 1999 due to detached retinas; housebound, he found comfort in listening to shortwave radio transmissions like chat shows, phone-in programs and documentaries. He recorded conversations from these programs, fragmented them, and introduced new words and lines from other sources, generating source material for the album.
+I Trawl the Megahertz is an album originally released as a Paddy McAloon solo album in May 2003 on Liberty Records. It was later reissued in February 2019 on Sony Music under the Prefab Sprout name, as originally intended, with new artwork, and retroactively considered the eighth Prefab Sprout album.
+McAloon was rendered nearly blind for a period in 1999 due to detached retinas; housebound, he found comfort in listening to shortwave radio transmissions like chat shows, phone-in programs and documentaries. He recorded conversations from these programs, fragmented them, and introduced new words and lines from other sources, generating source material for the album.
 The largely instrumental album marks a notable stylistic change from previous Prefab Sprout work, featuring classical passages and orchestration reminiscent of Claude Debussy and Maurice Ravel, McAloon's two favourite composers. Writing much of the music on his computer, McAloon was given help by co-producer Calum Malcolm and composer David McGuinness in translating his original versions into the final recordings, with live orchestration provided by Mr McFall's Chamber. McAloon's radio-sourced material was then integrated with the songs, with spoken word vocals from Yvonne Connors on the title track, TV and radio dialogue samples on "I'm 49" and McAloon's own singing on "Sleeping Rough".
 With themes of old memories and time passing, I Trawl the Megahertz is a highly personal work, dominated by its poignant title track, in which Connors intones "the story of her life", largely created by excerpts of radio conversation, over an orchestral motif. Despite concerns the album would alienate fans, I Trawl the Megahertz was belatedly released to positive critical reception, with many finding the album powerful and poignant. In the year end polls for 2003's albums of the year it featured at number 22 in Uncut Magazine and number 50 in Mojo, who later included the album in their 2005 list of the top 50 'most out there' albums. The magazine would later describe I Trawl the Megahertz as an "unlikely orch-pop masterpiece."
+
+
     
     
 
@@ -41,13 +44,16 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 
 
 ## Videos
-### I Trawl The Megahertz (Complete)
-{{< youtube id="1bSPNboKCzM" title="I Trawl The Megahertz (Complete)" >}}<br>
+### I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps
+{{< youtube id="5ilBNaMxQwk" title="I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps" >}}<br>
 ### More Videos
 
-- [Paddy Mcaloon-Sleeping Rough](https://www.youtube.com/watch?v=OUQLhJAxRZc)
+- [I Trawl The Megahertz (Complete)](https://www.youtube.com/watch?v=1bSPNboKCzM)
 - [Paddy McAloon - I Trawl The Megahertz (Edit)](https://www.youtube.com/watch?v=1_uV_vypH0o)
+- [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
+- [Paddy Mcaloon-Sleeping Rough](https://www.youtube.com/watch?v=OUQLhJAxRZc)
 - [Paddy McAloon - Esprit De Corps](https://www.youtube.com/watch?v=TkRpbSVZQpM)
+- [Paddy McAloon - I Trawl The Megahertz (Edit)](https://www.youtube.com/watch?v=1_uV_vypH0o)
 - [I Trawl the Megahertz (FULL ALBUM) — Paddy McAloon (2003) 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 
 ## Release Images

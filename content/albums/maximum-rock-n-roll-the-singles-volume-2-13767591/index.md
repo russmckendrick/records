@@ -13,9 +13,9 @@ cover:
     caption: "Maximum Rock 'N' Roll The Singles Volume 2  by Primal Scream"
 additional_images:
     - "https://i.discogs.com/yUVyq35JT3-IqQ2LFX7fvb1GZM382tdLNeCXqclUDQo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODItNjMzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/SOnJrkD7m7_9jiM_NpbYwHeAI1xyk0pto3d195nmiSA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODYtODgyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/A38zBveMxBnIA-8aCXYR-kVqKNofV9H90Vglq3NX4FU/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODktNzg2My5qcGVn.jpeg"
-    - "https://i.discogs.com/k3z24HDJsxbJm59Kk3i8kyLABP2o0a5fm4xYuLHDihU/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODktOTkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Ol6diHrZnpYv2xbx9aKVgfEUVQVY8EIoaBrh4AN9uXY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODYtODgyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/nFoVCZogAQqwvdwfbkg7be1cLFRCh_fA9SlcpP5EZzs/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODktNzg2My5qcGVn.jpeg"
+    - "https://i.discogs.com/lt0Rlw0Al1DmcNoT2qhXOBQrvd9kGTG_8SLDYUt7stc/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY3/NTkxLTE1NjA2ODk2/ODktOTkxNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -38,6 +38,8 @@ styles: ["Indie Rock"]
 13. Where The Light Gets In
 14. 100% Or Nothing
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/maximum-rock-n-roll-the-singles-remastered/1459271784" >}}<br>
 
 
 

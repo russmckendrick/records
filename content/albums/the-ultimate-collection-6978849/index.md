@@ -24,7 +24,7 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. It is the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990.
+The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990. It was incorrectly marketed as the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career with the first compilation to do that being 2013's Over The Bridge Of Time: A Paul Simon Retrospective (1964-2011)
     
     
 

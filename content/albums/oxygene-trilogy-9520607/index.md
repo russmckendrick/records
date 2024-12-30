@@ -12,7 +12,7 @@ cover:
     alt: "Oxygene Trilogy by Jean-Michel Jarre"
     caption: "Oxygene Trilogy by Jean-Michel Jarre"
 additional_images:
-    - "https://i.discogs.com/6lk_rUZBXQv5eG7YX-2HoNMAasHyHkuN_5I3okiQFEs/rs:fit/g:sm/q:90/h:607/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS0xMDY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y2_kFzu5H89bbWdmbQ03vXTv8Xdcg6c2cvAiU0uIHmg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS0xMDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/QBWnFrZYnGjyGWDNkCra-q2VTItmWXn0eikrQi5wSyo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS04MTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/yF8oVEbzKrGNH6dbZZXxL3ROWcr8pjLlyCh0BURYfPo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ1OTE3/MC04MTgzLmpwZWc.jpeg"
     - "https://i.discogs.com/XOCN5DMSE1jOvdfcl3x9kNaa0Xq2Z36R6gktSA8Voh4/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ1OTE3/MS05MjAxLmpwZWc.jpeg"
@@ -24,6 +24,7 @@ additional_images:
     - "https://i.discogs.com/WlCIycfwEZWsEXKE8Tpldle-o3GsWQcRsi9Hzx53QbA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS0xMjYzLmpwZWc.jpeg"
     - "https://i.discogs.com/Lw9gF3YwOTl-8IpY5czt37Cnayxw4ZydiHOmrPWbYh4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS01NDg0LmpwZWc.jpeg"
     - "https://i.discogs.com/pfyoFyKqpcX8xl17BI33O_xmb6ZtyYaPdIRKEuagp2Q/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTQ4MzQ3Mzg4/NS0yMDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/0nrfFY17_28IsIzd1U0ubUlBO2NlMtF6Wkpy3lgvzSk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MDctMTcwNTQ5OTky/OC05MzEzLmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -83,8 +84,8 @@ styles: ["Synth-pop"]
 {{< youtube id="nz1cEO01LLc" title="Jean Michel Jarre - Oxygene" >}}<br>
 ### More Videos
 
-- [Jean-Michel Jarre - Oxygene 3 (Album 2016)](https://www.youtube.com/watch?v=ts6vS98ijSM)
 - [Jean Michel Jarre - Oxygene 7-13](https://www.youtube.com/watch?v=EdinGo6GAPo)
+- [Jean-Michel Jarre - Oxygene 3 (Album 2016)](https://www.youtube.com/watch?v=ts6vS98ijSM)
 
 ## Release Images
 {{< imageGrid >}}

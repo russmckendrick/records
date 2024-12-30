@@ -24,6 +24,11 @@ genres: ["Rock", "Funk / Soul", "Folk, World, & Country"]
 styles: ["Folk Rock", "Soul"]
 ---
 
+Amen (So Be It) is the debut album by Irish musician Paddy Casey. It was released on 28 June 1999.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -65,6 +70,7 @@ styles: ["Folk Rock", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Amen_(So_Be_It) |
 | Format         | Vinyl LP Album Reissue (180g Clear Purple) |
 | Label          | Sony Music |
 | Catalog Number | 19802813241 |

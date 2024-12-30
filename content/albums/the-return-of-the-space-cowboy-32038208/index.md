@@ -13,6 +13,8 @@ cover:
     caption: "The Return Of The Space Cowboy by Jamiroquai"
 additional_images:
     - "https://i.discogs.com/IZ1ZdjJ_M2bw2z8pbMigc2kCYFUzHoE-oJuTd7GGtj0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM4/MjA4LTE3MjkyNjYy/NjQtNzU0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/IL-YyFNNgw2BEYtxtDzvNhfY4Y0YnPxvabUctNzUfMg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM4/MjA4LTE3MzAwNjg5/MDAtNzgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/jIeo5JJsJ5hIvJAlTz4mUjAGaQBmkKEqB2vAvau7kW4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM4/MjA4LTE3MzI0NDg5/NTAtNjA4Ny5qcGVn.jpeg"
 genres: ["Funk / Soul", "Pop"]
 styles: ["Acid Jazz", "Funk"]
 ---

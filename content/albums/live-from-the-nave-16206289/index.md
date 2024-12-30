@@ -40,7 +40,7 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Format         | Vinyl 10" 33 ⅓ RPM EP Limited Edition Stereo (White with Black Splatter) |
-| Label          | Sonic Cathedral Recordings |
+| Label          | Sonic Cathedral |
 | Catalog Number | SCR192 |
 | Notes | Housed in a single sleeve jacket. Limited to 400 copies. |
 | Discogs URL    | [bdrmm - Live From The Nave](https://www.discogs.com/release/16206289-bdrmm-Live-From-The-Nave) |

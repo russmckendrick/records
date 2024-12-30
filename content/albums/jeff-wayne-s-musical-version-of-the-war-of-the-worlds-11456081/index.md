@@ -16,18 +16,25 @@ additional_images:
     - "https://i.discogs.com/Xmlg4qs9_z3LbpBRuJIKSRvCJ1QmX-CTko3xDWjPVxU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE2Mjg2MDE5/NjUtNTQ1OC5qcGVn.jpeg"
     - "https://i.discogs.com/wB1vgUebkLkKJIou1Wtv7GQb-71HLdawyVzQ1kZhSF0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE2Mjg2MDE5/NjUtODI5OS5qcGVn.jpeg"
     - "https://i.discogs.com/1Tlkznkv6rFiuJzFb8jAeX34COUQRuPpa9CCpytI6sQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1MTc2ODY1/ODItODg4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/_4Qsu1EOYT3yOzuKl86QMk90OCLRf4e41QB4W3v0pzc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjYtNzM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/lBbExdhefILoZ2w6dG8fVQ6ON_AJBzj88cI9E2HF9nw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjYtNzM2NC5qcGVn.jpeg"
     - "https://i.discogs.com/AlioqVHknZReMmgek4bSBDSfzlNrzLkyxQpwLJm-11s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjctMjcxMi5qcGVn.jpeg"
     - "https://i.discogs.com/OKiS3_9MCYz8wKMOpP8EZPgyozR6VBlryqi7mAKD7wM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjYtMzc5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/0Ew74bUVAPbyS7ODtgIDIx_tV7ioCUQJ32Hm43X38NU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjctNzgyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/5ab41kretDqm3S6P9nXMaT5G4JwiUraxGefs8Nmlacw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjctNzgyNi5qcGVn.jpeg"
     - "https://i.discogs.com/fBvl4xW9bsJ40Q1JvN6DceGio_XH_Dci3dYKWZT-cN8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1MTc2ODY1/NzAtMjIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/EFwKemW1qdEESQsne41QBOI29svZIqn3EFfSiNm_DiY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1MTc2ODY1/NjItMTE0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/5-0apzVehH27OqG8F5HbhBPfcc1BTurac_3ojfyH34g/rs:fit/g:sm/q:90/h:963/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjYtOTM5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OH98MsEQUW2SEvlgGLj1KLWFt71a0DABknNmxWJdhnU/rs:fit/g:sm/q:90/h:600/w:373/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjYtOTM5NS5qcGVn.jpeg"
     - "https://i.discogs.com/X3VDtqLNWJaUHp1CHRX_s-aiviHySf9CTizXoabICCQ/rs:fit/g:sm/q:90/h:238/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MDgxLTE1OTg3MzY0/MjctMTI3MC5qcGVn.jpeg"
-genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
-styles: ["Symphonic Rock", "Musical", "Soundtrack"]
+genres: ["Electronic", "Rock", "Pop"]
+styles: ["Symphonic Rock", "Prog Rock"]
 ---
 
+Jeff Wayne's Musical Version of The War of the Worlds is a studio double album by American-born British musician, composer, and record producer Jeff Wayne, released on 9 June 1978 by CBS Records. It is an album musical adapted from the science-fiction novel The War of the Worlds by H. G. Wells in a rock opera style with a rock band, orchestra, narrator, and leitmotifs to carry the story and lyrics that express the feelings of the various characters. The album features guest artists David Essex, Justin Hayward, Phil Lynott, Chris Thompson, and Julie Covington, with actor Richard Burton as the narrator.
+The album became a commercial success in the UK, debuting at No. 5 on the UK Albums Chart. It won two Ivor Novello Awards, including one for Wayne and main lyricist Gary Osborne for Best Instrumental or Popular Orchestral Work. The album has enjoyed enduring popularity since its release and attracted critical acclaim. It has sold over 2.7 million copies in the UK, and an estimated 15 million copies worldwide. In 2018, it was the UK's 32nd best-selling studio album of all time.
+Wayne's adaptation has spawned multiple versions including video games, DVDs, and live stage shows. In 2012, Wayne released a rearrangement of the album, subtitled The New Generation, incorporating more synthesisers and new compositions and dialogue.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -49,7 +56,7 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 16. Epilogue (Part 2) (NASA)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/317564400" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/1615102666" >}}<br>
 
 
 ## Videos
@@ -57,6 +64,7 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 {{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Wayne's Musical Version - Full Musical" >}}<br>
 ### More Videos
 
+- [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 - [Jeff Wayne - The Eve of the War (Official Audio) ft. Richard Burton, Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
 - [Jeff Wayne - La Guerra de los Mundos (War of the Worlds) [2xLP Full Album]](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
@@ -66,6 +74,7 @@ styles: ["Symphonic Rock", "Musical", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Jeff_Wayne%27s_Musical_Version_of_The_War_of_the_Worlds |
 | Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
 | Label          | Sony Music |
 | Catalog Number | 88985449431 |
