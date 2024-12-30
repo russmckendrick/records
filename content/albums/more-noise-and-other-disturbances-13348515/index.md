@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/l8_hBasgvSpZ0S_0NegvMXaDuZRbGmqEHLdbwFaGqp4/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MjEtNzI2OC5qcGVn.jpeg"
     - "https://i.discogs.com/Oa60UGpcDNe7jfPldQykWtOOgDMVJaEbEgkdnK3pWc0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MTktNjY1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/YCJzFfofNrD_37prqC_lskBpnwp9RaccF82DasHs4UM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MjEtNDEzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/BYVDvUnpmWH6IXLaPs55D6IG1LMvhKrDjuOUe1LM4iI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MTktMTUxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/panPqHO0f0goBwUHTVi1sSdCiOoS_WSj9eAh8mK5dgs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MTktMTkxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/O9Jpgr-jtpnp8dtCp4s3w336k0B5B-bqgEmbOdeoCio/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MTktMTUxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/jRa0D3N9L902dSYMG9Sf3k8J4SBT1mCJEb3JW7dg218/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MTktMTkxMy5qcGVn.jpeg"
     - "https://i.discogs.com/VSNmQqqZexSCpKBYyH8ScG3aBMRrr0KFGkXLVQLEf7o/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/NTE1LTE2NDA5NDUx/MjAtNDAzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
@@ -45,13 +45,7 @@ More Noise and Other Disturbances is the second studio album by the American ban
 {{< applemusic url="https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085" >}}<br>
 
 
-## Videos
-### The Mighty Mighty Bosstones   More Noise and Other Disturbances
-{{< youtube id="3r57EGlQQl8" title="The Mighty Mighty Bosstones   More Noise and Other Disturbances" >}}<br>
-### More Videos
 
-- [Awfully Quiet](https://www.youtube.com/watch?v=fB33d-Htc6k)
-- [Dr. D](https://www.youtube.com/watch?v=gyDDt7YnKEI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -34,11 +34,29 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Baron - Stry
-{{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>
+### Baron - "Stry"
+{{< youtube id="3sgJCOxKCfg" title="Baron - "Stry"" >}}<br>
 ### More Videos
 
 - [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
+- [Dragonfly](https://www.youtube.com/watch?v=azsJsQGA-sA)
+- [Dark Down](https://www.youtube.com/watch?v=c6bN2SUIzYc)
+- [Mark Maker](https://www.youtube.com/watch?v=YNtB4eMoaO4)
+- [Sleepless](https://www.youtube.com/watch?v=z7Z7V0COv9I)
+- [Wild Cry](https://www.youtube.com/watch?v=Pg8lEvNMJjk)
+- [Deeper Align](https://www.youtube.com/watch?v=xTWnKiYxeGQ)
+- [Albedo Dei](https://www.youtube.com/watch?v=2UtyLlC8ONA)
+- [Stry](https://www.youtube.com/watch?v=L_yIckisLxM)
+- [Baron - "Stry"](https://www.youtube.com/watch?v=3sgJCOxKCfg)
+- [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
+- [Dragonfly](https://www.youtube.com/watch?v=azsJsQGA-sA)
+- [Dark Down](https://www.youtube.com/watch?v=c6bN2SUIzYc)
+- [Mark Maker](https://www.youtube.com/watch?v=YNtB4eMoaO4)
+- [Sleepless](https://www.youtube.com/watch?v=z7Z7V0COv9I)
+- [Wild Cry](https://www.youtube.com/watch?v=Pg8lEvNMJjk)
+- [Deeper Align](https://www.youtube.com/watch?v=xTWnKiYxeGQ)
+- [Albedo Dei](https://www.youtube.com/watch?v=2UtyLlC8ONA)
+- [Stry](https://www.youtube.com/watch?v=L_yIckisLxM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,4 +68,4 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Label          | Svart Records |
 | Catalog Number | SVR338 |
 | Notes | 500 copies made. including booklet insert with visionary-sleeve note-narrative by [a3049875] |
-| Discogs URL    | [Baron - Torpor](https://www.discogs.com/release/7723184-Baron-Torpor) |
+| Discogs URL    | [Baron - Torpor](https://www.discogs.com/release/7723184-Baron-14-Torpor) |

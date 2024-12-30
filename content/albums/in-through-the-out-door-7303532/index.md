@@ -4,7 +4,6 @@ artist_name: "Led Zeppelin"
 artist: "led-zeppelin"
 album_name: "In Through The Out Door"
 date: 2017-02-26T10:58:22.000000Z
-release_date: "1979-08-15"
 release_id: "7303532"
 slug: "in-through-the-out-door-7303532"
 hideSummary: true
@@ -13,21 +12,23 @@ cover:
     alt: "In Through The Out Door by Led Zeppelin"
     caption: "In Through The Out Door by Led Zeppelin"
 additional_images:
+    - "https://i.discogs.com/ns9l_axPChqua3D8N2Jw2lqrhC_jBBiCYP1SgPwfn6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/NC0yNzk2LmpwZWc.jpeg"
     - "https://i.discogs.com/_t96sDK5rTERcqAWaE-cT2wM2Fyp2LADHsSYC9Zn9bg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/NC03NjMzLmpwZWc.jpeg"
     - "https://i.discogs.com/j_zFZRHNVPex6X272WKek6_BIaF8icgNiY87MSy9-Wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/My0zNTgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ns9l_axPChqua3D8N2Jw2lqrhC_jBBiCYP1SgPwfn6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/NC0yNzk2LmpwZWc.jpeg"
     - "https://i.discogs.com/jNj2y1k4UDcX8ei_4WBj3_PlHWoNMTPNWUme9mpDZ8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/My00NDAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/MexXsG8aAnfST_BtCH0GoAsdf9mU2FMpuRrGZZ_lpd8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/NC04NDA5LmpwZWc.jpeg"
     - "https://i.discogs.com/orbgJh_ur-Dz8yoB-sL4NjZR4EnVYc_EPfyEW8_y_rg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTUxMzYyNTkz/MS01MzA1LmpwZWc.jpeg"
     - "https://i.discogs.com/W04Ze2nTUPmOo49D3crtKFiha5iolPIroRMuGEr2mkQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTUxMzYyNTkz/MS05Njk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/QY3wp-b4OmKEvHz3az2Xgoz2nrsGXMbnRPzpnlKHE9Q/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTUxMzYyNTkz/Mi01MzI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/MexXsG8aAnfST_BtCH0GoAsdf9mU2FMpuRrGZZ_lpd8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTQ2NzMwNTA1/NC04NDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/urrg1S1m3nn7VTjImJrcoeG8nMDdgUNAmuzcVg-TECs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDM1/MzItMTUxMzYyNTkz/Mi01MzI1LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
+styles: ["Hard Rock", "Blues Rock"]
 ---
 
-<i>In Through the Out Door</i>, Led Zeppelin’s final studio album, was also one of the few pre-SoundScan era releases to debut atop the Billboard chart. Coming after a three-year-plus wait, the record delivers some of Zeppelin’s most ambitious work. The Latin-tinged “Fool in the Rain” again demonstrates the quartet’s unique approach to dance music, while the pomp-rock spectacular “Carouselambra” allows John Paul Jones’ keyboards to take the spotlight. The definitively silly country romp “Hot Dog,” though, is maybe the least typical thing to ever come from this always surprising band. And the album's closer, “I’m Gonna Crawl,” proves that Led Zep had hardly forgotten the meat-and-potatoes thud that first won them an audience. If a great band need leave the stage, let it always be with such happily venturesome sounds.
-        
-        
+In Through the Out Door is the eighth studio album by the English rock band Led Zeppelin.  It was recorded in three weeks in November and December 1978 at ABBA's Polar Studios in Stockholm, Sweden, and released by their label Swan Song Records on 22 August 1979 in the US and 24 August 1979 in the UK. Unlike earlier Led Zeppelin albums, In Through the Out Door was dominated musically by bassist and keyboardist John Paul Jones. It was the band's last release before the death of their drummer John Bonham in September 1980 and their disbandment three months later.
+The album was a huge commercial success; it went to No. 1 on the Billboard 200 in its second week on the American chart. It also went to No. 1 in the UK, Canada, and New Zealand.
+
+
+    
     
 
 
@@ -41,7 +42,7 @@ styles: ["Hard Rock", "Blues Rock", "Classic Rock", "Rock & Roll"]
 7. I'm Gonna Crawl (5:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door-remastered/580707622" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-through-the-out-door/1212517386" >}}<br>
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Stevie Wonder"
 artist: "stevie-wonder"
 album_name: "Innervisions"
 date: 2016-11-24T18:44:17.000000Z
+release_date: "1973-08-03"
 release_id: "8093938"
 slug: "innervisions-8093938"
 hideSummary: true
@@ -17,14 +18,19 @@ additional_images:
     - "https://i.discogs.com/mYtBsnhmc3zSWwKDKs1Nb8mpwZ1nABrslOVcdJ7IGHw/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTM5/MzgtMTUxNzUxNzgy/Ny01MzI2LmpwZWc.jpeg"
     - "https://i.discogs.com/h8raDOQAfqi-l05aAlX7Mgwq57ntAGcuMoeSv_KJyiQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTM5/MzgtMTUxNzUxNzc4/OS04MTI5LmpwZWc.jpeg"
     - "https://i.discogs.com/VDpCpEosnu9F0i2yEX4TYj7PA0ZIqQbb651VvyEP5ek/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTM5/MzgtMTUxNzUxNzgw/Ni05OTgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/DfcJE7qu_kQ3J-GRL-zYP-Snt71JE-P3Lweu6zC3mMk/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTM5/MzgtMTYxMDc5MDQ0/Ni0zNjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/poQUf7vz0ATCGWMpmHM7XLtrVOXRoBXIojt7eXs-820/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTM5/MzgtMTYxMDc5MDQ0/Ni0zNjg0LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-Innervisions is the sixteenth studio album by American singer, songwriter, and musician Stevie Wonder, released on August 3, 1973, by Tamla, a subsidiary of Motown Records. A landmark recording of Wonder's "classic period", the album has been regarded as his transition from the "Little Stevie Wonder" known for romantic ballads into a more musically mature, conscious, and grown-up artist. On the album, Wonder continued to experiment with the revolutionary T.O.N.T.O. (The Original New Timbral Orchestra) synthesizer system developed by Malcolm Cecil and Robert Margouleff, and Innervisions became hugely influential on the future sound of commercial soul and black music.
-The album peaked at number four on the Billboard Top LPs & Tapes chart and number one on the Billboard Soul LPs chart, eventually finishing at number four on the magazine's Top Pop Albums chart for 1974. At the 16th Grammy Awards, it won Album of the Year and Best Engineered Non-Classical Recording, while "Living for the City" won Best R&B Song. Innervisions is widely considered by fans, critics, and colleagues to be one of Wonder's finest works and one of the greatest albums ever made. It was ranked number 34 on Rolling Stone's list of "The 500 Greatest Albums of All Time", and, in 1999, it was inducted into the Grammy Hall of Fame.
-    
+<b>100 Best Albums</b> On the heels of his first post-Motown-emancipation masterpiece <i>Music of My Mind</i>, 1972 was Stevie Wonder’s biggest year yet. He opened for The Rolling Stones on their enormous US summer tour, exposing his exploratory soul-funk hybrid to countless rock fans, and released his second opus <i>Talking Book</i> before the end of the year. An April 1973 <i>Rolling Stone</i> interview dubbed the erstwhile teen-pop star “The Formerly Little Stevie Wonder” and quoted the 23-year-old as saying that he wanted to “get in as much weird shit as possible”; 1973’s <i>Innervisions</i> was a start. The boldest political statement of Wonder’s career yet—assailing drug addicts, infrastructural racism, charismatic con men and superficial Christians—<i>Innervisions</i> was also deliriously funky and boundary-pushing. Wonder played and produced just about everything, with the help of his experimentally minded studio sous-chefs Malcolm Cecil and Robert Margouleff.
+
+The musical peaks were as high as Wonder would ever get, though the tone was more pointed than ever. “Living for the City” is a feverish seven-minute operetta about the unforgiving toll of urban life for the Black working class in the post-Black Power moment. With the journalistic soul of Marvin Gaye’s <i>What’s Going On</i> broadcast straight from the street corner and central booking, “Living” is among the most scathingly beautiful indictments of the American justice system. The album-ending slow burn “He’s Misstra Know-It-All” suavely identifies the character types who prey on those same marginalised people, including, many surmised, the soon-to-resign “law and order”-claiming US president. 
+
+There’s salvation to be found in “Higher Ground”, an impossibly groovy sequel to <i>Talking Book</i>’s No. 1 funk odyssey “Superstition” that asserts Wonder’s belief in reincarnation over his trademark wah-wah clavinet and Moog bass; the tongue-in-cheek Latin workout “Don’t You Worry ’Bout a Thing”, a Dylanesque barb at a social climber delivered with a potent display of Wonder’s bottomless charm; and the hopelessly romantic “Golden Lady”, which spirals upward into the kind of ecstatic joy that only Wonder could generate. Both a kiss-off to late-’60s hippie optimism and a pathway to numerous possible spiritual futures, <i>Innervisions</i> cemented Wonder as the most inspired and singular mind in 1970s American popular music. 
+
+        
+        
     
 
 
@@ -43,7 +49,26 @@ The album peaked at number four on the Billboard Top LPs & Tapes chart and numbe
 {{< applemusic url="https://music.apple.com/gb/album/innervisions/1440806790" >}}<br>
 
 
+## Videos
+### S̲t̲evie W̲o̲nder - In̲n̲ervision̲s (Full Album) 1973
+{{< youtube id="wi5kA7QOCI4" title="S̲t̲evie W̲o̲nder - In̲n̲ervision̲s (Full Album) 1973" >}}<br>
+### More Videos
 
+- [He's Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
+- [Too High](https://www.youtube.com/watch?v=UvtYEdYjkJM)
+- [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
+- [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
+- [Golden Lady](https://www.youtube.com/watch?v=CXCTjAMR3eA)
+- [Higher Ground](https://www.youtube.com/watch?v=1esf0efHbjM)
+- [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)
+- [All In Love Is Fair](https://www.youtube.com/watch?v=1surYguNfEg)
+- [Don't You Worry 'Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
+- [Stevie Wonder - Innervisions (1973) Part 1 (Full Album)](https://www.youtube.com/watch?v=cPOaluwCL8I)
+- [Stevie Wonder - Visions - with lyrics](https://www.youtube.com/watch?v=pwtfC4hLWnY)
+- [Stevie Wonder - Innervisions - Promo - In Studio Performance + Interview 1973](https://www.youtube.com/watch?v=Z-ipVu9pl3w)
+- [stevie wonder - Stevie Wonder Visions - Innervisions](https://www.youtube.com/watch?v=t36ynCw8WKQ)
+- [Stevie Wonder - Visions](https://www.youtube.com/watch?v=K4mdXoaKqco)
+- [Stevie Wonder - Innervisions on Flipside TV (1973)](https://www.youtube.com/watch?v=fUG3e7_tedE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,12 +16,17 @@ additional_images:
     - "https://i.discogs.com/xerISYmGFJEjCICf3hv-eoqHsZn4zOzoeYHfOUFtla4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzI5/Mi02MzQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/POglP7eU59a9q44yNngEs4AWFl_RxZNvCjgTyTnaJio/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzI5/OC01NzI4LmpwZWc.jpeg"
     - "https://i.discogs.com/Antj2mITXtnsZGQP9Qsa2hMX7gjE3pszrJhVwo1wnDg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzMw/MS01NDY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/-eVOEWpAa8GMOIsMAyf6RURXxCe6I96UjR09Yr71gLU/rs:fit/g:sm/q:90/h:899/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzMw/OS0zNDA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/NLm2mEsYFsPgFn4wr-97cSXAN_xcs2G86aEuWxZ2-Fg/rs:fit/g:sm/q:90/h:899/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzMx/Ni0zNzE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/vCDqisL8GIa_NVBbHngPI4OC2ioP1HrYB_GIdCnG72s/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzMw/OS0zNDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/6lg2zgqPmUOGbjla7FBlqYp7rZ1y2bXGO9weCHF_O4k/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NTYtMTQ4NTUyNzMx/Ni0zNzE2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Ska", "Punk", "Hardcore"]
 ---
 
+Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It was released in 1990 by Taang! Records. It was one of the first albums to mix ska and hardcore punk.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -37,15 +42,13 @@ styles: ["Ska", "Punk", "Hardcore"]
 10. A Little Bit Ugly
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-mighty-mighty-bosstones-live-from-the-middle-east/1443762934" >}}<br>
 
 
 ## Videos
 ### The Mighty Mighty Bosstones  - Devils Night Out Full Album
 {{< youtube id="cTIEH0PVRGg" title="The Mighty Mighty Bosstones  - Devils Night Out Full Album" >}}<br>
-### More Videos
 
-- [The Mighty Mighty Bosstones - Devil's Night Out](https://www.youtube.com/watch?v=kyj-R97vj-U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +56,7 @@ styles: ["Ska", "Punk", "Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Devil%27s_Night_Out |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! #44 |

@@ -47,15 +47,16 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 22. Sun Country
 
 
-## Spotify
-{{< spotify type="album" id="28FfV6c3tedMiCfIQxLKbZ" width="100%" height="500" >}}<br>
-
 
 ## Videos
-### Barbara McNair - The Hunter Gets Captured By The Game
-{{< youtube id="e1aQDKgjm3g" title="Barbara McNair - The Hunter Gets Captured By The Game" >}}<br>
+### Strung Out
+{{< youtube id="ldK1UHr_UzQ" title="Strung Out" >}}<br>
 ### More Videos
 
+- [Martha Reeves & The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
+- [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
+- [The Temptations - Psychedelic Shack (Extended Version)](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
+- [Barbara McNair - The Hunter Gets Captured By The Game](https://www.youtube.com/watch?v=e1aQDKgjm3g)
 - [Strung Out](https://www.youtube.com/watch?v=ldK1UHr_UzQ)
 - [Martha Reeves & The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
 - [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)

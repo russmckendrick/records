@@ -4,6 +4,7 @@ artist_name: "Led Zeppelin"
 artist: "led-zeppelin"
 album_name: "Coda"
 date: 2017-02-26T10:57:57.000000Z
+release_date: "1969-01-12"
 release_id: "7303584"
 slug: "coda-7303584"
 hideSummary: true
@@ -28,10 +29,13 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock", "Blues Rock"]
 ---
 
-Coda is the first compilation album by the English rock band Led Zeppelin. The album is a collection of rejected tracks from various sessions during Led Zeppelin's twelve-year career. It was released on 19 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.
+When The Yardbirds broke up in 1968, guitarist Jimmy Page and manager Peter Grant quickly hired three musicians to play the band’s remaining concert dates. Page brought on John Paul Jones, who’d earned a sterling reputation as a session bassist and arranger, and filled out his new band with two ringers: A lithe hippie howler named Robert Plant, and his friend John Bonham—a drummer who was wild as Keith Moon, but who maintained the timing of a jazz veteran. Though the four musicians were essentially soloists, there was instant chemistry, and the quartet soon changed its name from the New Yardbirds to Led Zeppelin, and began recording the group’s eponymous debut album in a couple weeks. After Grant secured the band a legendarily lucrative contract with American label Atlantic—one that guaranteed creative freedom—the feverish and futuristic <i>Led Zeppelin</i> was released in early 1969. The album hit the Top 10 in the US, and set a standard for rock-bombast that future bands would either aspire toward...or despise.
 
+The word “fusion” isn’t often used to describe hard rock, but <i>Led Zeppelin</i>’s integration of Chicago blues, British folk and San Francisco psychedelia—without credit to the originators—was unprecedented. Plant’s wails against low-down, no-good women are rooted in the blues, but Page—the band’s sonic Svengali—understood the musical past not as traditions to be preserved, but as cool sounds and tunings and themes to reimagine. Combined with his gifts for mic placement and mixing, he dramatically expanded hard rock’s studio vocabulary.
 
-    
+It starts during the first seconds of opening track “Good Times Bad Times”, as Bonham and Page swing and pound like roughneck ballet dancers. It was the funkiest British blues-rock interpretation on record, in part because Page gave Bonham and Jones’ polyrhythms so much room to breathe. And it only sprawls out from there: The lacerating “Communication Breakdown” is perfect Who-style garage rock, while Page dragging a violin bow across his E-string on “Dazed and Confused” more or less invented the sludgy B-movie dread of Black Sabbath. The album’s stunning centrepiece, “Babe I’m Gonna Leave You”, strips Joan Baez’s live recording of Anne Bredon’s original down to the studs, then rebuilds it as a dynamic rock opera; just when it seems like the storm is over, Bonham’s drum-fills trigger another titanic swell from murmuring acoustic unease to all-out electrified panic. “Babe I’m Gonna Leave You” is the promise and peril of Led Zeppelin, in concentrate: All traditions remixed, all women scorned.
+        
+        
     
 
 
@@ -46,7 +50,7 @@ Coda is the first compilation album by the English rock band Led Zeppelin. The a
 8. Wearing And Tearing (5:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coda-deluxe-edition/999609825" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-remastered/580708520" >}}<br>
 
 
 ## Videos
