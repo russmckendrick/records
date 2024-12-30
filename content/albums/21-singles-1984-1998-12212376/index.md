@@ -17,9 +17,9 @@ additional_images:
     - "https://i.discogs.com/FLgsK77Wc4bR2lJz_b__HZMjaha2bwQOsfDAQhmDOKw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1MzA2Mzgw/ODgtNDUwNy5qcGVn.jpeg"
     - "https://i.discogs.com/u2O6GUPhIuJb1Xe3j1aeuwa4mlxtc70S5I1I85zP2gw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1MzU2NTU1/NjktMjIwNi5qcGVn.jpeg"
     - "https://i.discogs.com/HnzirwLFcmA4v23yiZ-uv2ToCK3w_XSv7aPU5ARaFHs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDMtNzkyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/cPUkNoP1V4AvVuJRk2CcKYpJ0Ln22O8lbGQed4kHL8c/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDYtMzg0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/-afqb90MV4PL772dyKKjkQbbazIv0YdWtX1ONnCQURk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDMtODUzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/HQO7XN119e0WG-pjZs0t4zIwr5KxGYDYv4s4tKS0QZE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDEtNjUyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/sbK3XZfmAI4GPDFEYlmnoZfmqhnYUbodnXtzO3C6GGo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDYtMzg0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/nvU-SVv8gcc8RBkp76n24CS5ZHrQz_LAO48RTm2-FMs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDMtODUzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/AHy4fylQ9UiVKzlbcLaS8KF_KQm2DC293PaE0eEztds/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzc2LTE1NTMxMTU3/NDEtNjUyNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -56,8 +56,8 @@ styles: ["Indie Rock"]
 {{< youtube id="zK2nJWNgZBA" title="The Jesus And Mary Chain - You Trip Me Up (Official Video)" >}}<br>
 ### More Videos
 
-- [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
 - [The Jesus And Mary Chain - Never Understand (Official Music Video)](https://www.youtube.com/watch?v=b2bzrCCKDwc)
+- [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
 
 ## Release Images
 {{< imageGrid >}}

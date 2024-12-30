@@ -20,6 +20,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Ambient", "Art Rock"]
 ---
 
+Tubular Bells II is the fifteenth studio album by English guitarist and songwriter Mike Oldfield. It was released on 31 August 1992 by Warner Music UK and is the successor to his debut album Tubular Bells (1973). It was Oldfield's first album for Warner after having worked with Virgin Records for twenty years. Like its predecessor, Tubular Bells II charted at number 1 in the UK Albums Chart and spun off a top 10 single, "Sentinel".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,7 +50,12 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 ## Videos
 ### Michael Gordon Oldfield - TB 2 (1992)
 {{< youtube id="815lML8_xQk" title="Michael Gordon Oldfield - TB 2 (1992)" >}}<br>
+### More Videos
 
+- [Mike Oldfield   Tubular Bells   Part 2](https://www.youtube.com/watch?v=4pfzuFvFIeI)
+- [Mike Oldfield - Tubular Bells Full Album](https://www.youtube.com/watch?v=bv_4sZCLlr0)
+- [[HQ/HD] Mike Oldfield - Tubular Bells (Remastered) - Full Album](https://www.youtube.com/watch?v=eE0hhLT3E7g)
+- [MIKE OLDDFIELDD - Tubular Bells Three (1998) Full Album](https://www.youtube.com/watch?v=kuJAE-gMO1I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +63,7 @@ styles: ["Downtempo", "Ambient", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tubular_Bells_II |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Music |
 | Catalog Number | 2564623323 |

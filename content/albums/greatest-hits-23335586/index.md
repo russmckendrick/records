@@ -12,11 +12,16 @@ cover:
     alt: "Greatest Hits by Whitesnake"
     caption: "Greatest Hits by Whitesnake"
 additional_images:
-    - "https://i.discogs.com/vqXfq_DRjcBe1tY9px4CWADwjSVmvRQdVMxBxuzAues/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM1/NTg2LTE2NTMzNzU1/ODktNzM5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/fGfDTt5Y6wn8V6QbvLfGLuqW8das0Wl4wHt1Z6Bc78c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM1/NTg2LTE3MjIyNDg0/NzgtOTA4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/9G_cK7i1diTJdlwbVA1rvs6IOmhE1oUK8KIrhh9biBM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM1/NTg2LTE3MjIyNDg0/NzktMjYwNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
+A greatest hits album or best-of album is a type of compilation album that collects popular and commercially successful songs by a particular artist or band. While greatest hits albums are typically supported by the artist, they can also be created by record companies without express approval from the original artist as a means to generate sales. They are typically regarded as a good starting point for new fans of an artist, but are sometimes criticized by longtime fans as not inclusive enough or necessary at all.
+It is also common for greatest hits albums to include new recordings, remixes or unreleased alternate takes of the hit songs, plus other new material as bonus tracks to increase appeal for longtime fans (who might otherwise already own the recordings included). At times, a greatest hits compilation marks the first album appearance of a successful single that was never attached to a previous studio album. Greatest hits albums usually are released after an artist or band's contract with a major label is completed, they've been dropped or died, with next releases following on new labels.
+    
+    
 
 
 ## Tracklisting
@@ -46,10 +51,9 @@ styles: ["Hard Rock"]
 {{< youtube id="8Tp0K9YiTPE" title="Whitesnake - Fool For Your Loving" >}}<br>
 ### More Videos
 
-- [Whitesnake - Slow & Easy](https://www.youtube.com/watch?v=1qqAtPV-kgs)
 - [Whitesnake - Here I Go Again [Greatest Hits]](https://www.youtube.com/watch?v=RK0jnYzTDe4)
-- [Whitesnake - Love Ain't No Stranger](https://www.youtube.com/watch?v=unHzLEA6gvI)
 - [Whitesnake - Is This Love](https://www.youtube.com/watch?v=Lx15RANQiKM)
+- [CD / Whitesnake – Greatest Hits / 1994](https://www.youtube.com/watch?v=LoMMS76dBWU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,7 +61,8 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Compilation Limited Edition Stereo |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_hits_album |
+| Format         | Vinyl 2× LP Compilation Limited Edition Stereo |
 | Label          | Warner Music Group |
 | Catalog Number | 0190296457791 |
 | Discogs URL    | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |

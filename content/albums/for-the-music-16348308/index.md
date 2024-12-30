@@ -14,11 +14,11 @@ cover:
 additional_images:
     - "https://i.discogs.com/TO8R15aVtErd1yt6aQpRxL5tic0COwD4RdiMoius644/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU5/NzgtNzc3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/3IeDTuNAteKuOpArvN1WZiXEytZmP-tiUeJNzodeexU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/NTItOTYwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/hgECk00DBdOWu9sqWZJyYM6Q7P9a1gc_Zi7NeKVGfj4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU5/NzQtMzE3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/WNNlL5Kglj9vGbqGsFy2qaOwSpg3wCSvYs-dhIB2tHk/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/NjMtODg3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_6XQv5BKdqnB_B7633b_ql4NeNFnx8FAXM0JwguC06k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU5/NzQtMzE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/lVjodbmWD7a-ORfN2NFsA6CR1wYl_4CbPlcLRDdS-OM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/NjMtODg3OS5qcGVn.jpeg"
     - "https://i.discogs.com/8ws9F2a-oeBFAA92sKbRozyuxDjJsixbjWOZlt8En0s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU5/NzctMTcwNS5qcGVn.jpeg"
     - "https://i.discogs.com/TMgJF2USAUYRE4P9Q0wtu2yvjCprPNf4C5CxbCqGZA8/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/NjAtNDQ1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/rltS6tltpDLUGshuxGGodaE6Y4-S1S33kInXSToOjfU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/MzAtNzU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/odRDiC9M_0AABuS3NxCxbAhCy6vlfqtJdESHQF8rGlo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQ4/MzA4LTE2MDczNTU4/MzAtNzU4Mi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: []
 ---
@@ -45,11 +45,16 @@ styles: []
 {{< youtube id="1N8wIhCxMns" title="Blackfield - For The Music (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Album Preview: Blackfield – For The Music](https://www.youtube.com/watch?v=9wp8HV8S0cE)
 - [Over & Over](https://www.youtube.com/watch?v=89kHkP9OJao)
 - [Falling](https://www.youtube.com/watch?v=SMaDJlCKv2k)
 - [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
 - [Blackfield - Summer's Gone (Official 4K Video)](https://www.youtube.com/watch?v=iPpsVVBUPHo)
+- [Blackfield - For The Music (Official Music Video)](https://www.youtube.com/watch?v=1N8wIhCxMns)
+- [Over & Over](https://www.youtube.com/watch?v=89kHkP9OJao)
+- [Falling](https://www.youtube.com/watch?v=SMaDJlCKv2k)
+- [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
+- [Blackfield - Summer's Gone (Official 4K Video)](https://www.youtube.com/watch?v=iPpsVVBUPHo)
+- [Album Preview: Blackfield – For The Music](https://www.youtube.com/watch?v=9wp8HV8S0cE)
 
 ## Release Images
 {{< imageGrid >}}
