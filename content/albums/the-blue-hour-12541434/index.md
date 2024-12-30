@@ -28,7 +28,10 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
+The Blue Hour is the eighth studio album by English alternative rock band Suede. The album was released on 21 September 2018.
+It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
+
+
     
     
 

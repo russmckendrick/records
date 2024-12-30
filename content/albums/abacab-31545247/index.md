@@ -41,6 +41,9 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 {{< applemusic url="https://music.apple.com/gb/album/abacab-remastered/1472171777" >}}<br>
 
 
+## Videos
+### Genesis - Abacab (Official Music Video)
+{{< youtube id="suCNZe3Gwkw" title="Genesis - Abacab (Official Music Video)" >}}<br>
 
 
 ## Release Images

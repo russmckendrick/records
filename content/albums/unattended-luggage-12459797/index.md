@@ -12,7 +12,7 @@ cover:
     alt: "Unattended Luggage by Nick Mason"
     caption: "Unattended Luggage by Nick Mason"
 additional_images:
-    - "https://i.discogs.com/P73JSXh-USaODUbZVG-L9TDdgDche5OVgw1zIH6EsaA/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3MTUz/NTktMzI2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/YR0InqSRGUcAPO8GgJgy0EestQLFKpiltDleLM_qriM/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3MTUz/NTktMzI2MS5qcGVn.jpeg"
     - "https://i.discogs.com/0kSim5pIayslbpbwwFZwh7rVxlvrPENisdqMQToiAzY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3MTUz/NjctNTI5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/RxFVW5MYDV-gnf4yM2uGATzhpBGngzCIDO54yIu_iBE/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3Mzg4/NzktODYwMS5qcGVn.jpeg"
     - "https://i.discogs.com/ePbB43h4rmHZ6ELbLngvzpuAGbPwlqnHoNWk19Yx5xM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/Nzk3LTE1MzU3Mzg5/MTEtMTA2OC5qcGVn.jpeg"
@@ -64,11 +64,10 @@ styles: []
 
 
 ## Videos
-### Nick Mason - Fictitious Sports (Full Album) HD. Tracklist
-{{< youtube id="1r1DStEjS48" title="Nick Mason - Fictitious Sports (Full Album) HD. Tracklist" >}}<br>
+### White of the Eye
+{{< youtube id="rxEysWXn75g" title="White of the Eye" >}}<br>
 ### More Videos
 
-- [White of the Eye](https://www.youtube.com/watch?v=rxEysWXn75g)
 - [Present](https://www.youtube.com/watch?v=uLvsF3j9hV4)
 - [Sacrifice Dance](https://www.youtube.com/watch?v=z_YFmBqnGFk)
 - [Prelude and Ritual](https://www.youtube.com/watch?v=pcbNHRuM7K0)

@@ -13,15 +13,15 @@ cover:
     alt: "Raise The Roof by Robert Plant"
     caption: "Raise The Roof by Robert Plant"
 additional_images:
-    - "https://i.discogs.com/8IhPHozeaSJ9s4d7DIAEWEhrUk7VxmSHZMwztf-XA7w/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MDQtMjUxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZJoqhh9MEqPao9CdwD4QZK-ZauM-T8ejjezydrW8WHg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MDQtMjUxNS5qcGVn.jpeg"
     - "https://i.discogs.com/3zdMTS_pTVIh1QXjSwQ7ipG-eND4o32ocopjZS_C8Bo/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/MzUtOTY1My5qcGVn.jpeg"
-    - "https://i.discogs.com/J1NIJy0yl1lP_MEcjqSCCPDfxUjoCRMM7-bQTE57yoM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/MzUtNjMwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/fi2Gu9vD75Pq5UYv-E6py574WXGcENDPnb3GOK80cdg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/MzUtNjMwMC5qcGVn.jpeg"
     - "https://i.discogs.com/Yw-vnmNrPXypOHfJ31CmGlgmP6auysXA4Qgu5AtnzSU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/NTYtODEwNC5qcGVn.jpeg"
     - "https://i.discogs.com/zOyOU7piVRUTExB_YKpXvxw-dAHSi1ffEV0RJjmvH0Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/NTYtOTg0MS5qcGVn.jpeg"
     - "https://i.discogs.com/BwA1q5N-DNHTig19wHWdRb44ChojDnVaVqwhH72P1IM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/ODItNDUzMi5qcGVn.jpeg"
     - "https://i.discogs.com/03bEr5YzeXvw_u8G-6nSgQUyhjS-ZeHsUXEqOZ__jbs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2NDgxOTc1/ODMtODM0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/BFQVGw8VOfsHVtUdnjs3FrB12ZByk2XG_JbGwCd0jXg/rs:fit/g:sm/q:90/h:641/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MTQtMTI2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/-hyUliA3wjyXEbqeS-b79Ou5YI-VCKocolTFTNVC7Zc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MTQtNTA5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/aSacLBTR4ukASj14SPstiiIkPReG9RibzvvTKu-k8O0/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MTQtMTI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Wgm2Upbf2QMIg2zNgz7WEmP0uNKv6Xj4Ip59GaCCbn4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgy/Mzg0LTE2Mzk3NDUz/MTQtNTA5Ny5qcGVn.jpeg"
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock"]
 ---
@@ -52,23 +52,9 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 
 
 ## Videos
-### Robert Plant & Alison Krauss - Quattro (World Drifts In) (Official Audio)
-{{< youtube id="z2B9H2M4Cb0" title="Robert Plant & Alison Krauss - Quattro (World Drifts In) (Official Audio)" >}}<br>
-### More Videos
+### Robert Plant - Raise The Roof (Full Album)
+{{< youtube id="L6V6KVo24GU" title="Robert Plant - Raise The Roof (Full Album)" >}}<br>
 
-- [Robert Plant & Alison Krauss - The Price Of Love (Official Audio)](https://www.youtube.com/watch?v=etwD0lk2k-o)
-- [Robert Plant & Alison Krauss - Go Your Way (Official Audio)](https://www.youtube.com/watch?v=WmLJAiwi9cI)
-- [Robert Plant & Alison Krauss - Trouble With My Lover (Official Audio)](https://www.youtube.com/watch?v=LDsCokmkSGs)
-- [Robert Plant & Alison Krauss - Searching For My Love (Official Audio)](https://www.youtube.com/watch?v=7nC_hYejwO8)
-- [Robert Plant & Alison Krauss - Can't Let Go (Official Audio)](https://www.youtube.com/watch?v=U-sPS9y7y5c)
-- [Robert Plant & Alison Krauss - It Don’t Bother Me (Official Audio)](https://www.youtube.com/watch?v=hvVGCYWpRQ8)
-- [Robert Plant & Alison Krauss - You Lead Me To The Wrong (Official Audio)](https://www.youtube.com/watch?v=P6U4iwIJO34)
-- [Robert Plant & Alison Krauss - Last Kind Words Blues (Official Audio)](https://www.youtube.com/watch?v=XWmHFLLwJHI)
-- [Robert Plant & Alison Krauss - High And Lonesome (Official Audio)](https://www.youtube.com/watch?v=qlcSkdwGyy0)
-- [Robert Plant & Alison Krauss - Going Where The Lonely Go (Official Audio)](https://www.youtube.com/watch?v=LnKCdn8aBLg)
-- [Robert Plant & Alison Krauss - Somebody Was Watching Over Me (Official Audio)](https://www.youtube.com/watch?v=2O4cjqPJZ3s)
-- [My Heart Would Know](https://www.youtube.com/watch?v=i_pp4c0kT8s)
-- [You Can’t Rule Me](https://www.youtube.com/watch?v=ZepyzyhyGdg)
 
 ## Release Images
 {{< imageGrid >}}
