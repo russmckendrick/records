@@ -12,20 +12,20 @@ cover:
     alt: "Dance Craze - The Best of British Ska...LIVE! by Various"
     caption: "Dance Craze - The Best of British Ska...LIVE! by Various"
 additional_images:
-    - "https://i.discogs.com/5nQiUw18i3Ikf77D0h6ZA7Wk9oGOpihmzggGUNeG1GQ/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjYtMzY4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/sOkDxLW3PXaNNy6B11uwgoCKnJJ1ImUWj2djeIznOQA/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjYtMTExMi5qcGVn.jpeg"
+    - "https://i.discogs.com/wEmBJvhesCLKSbV-2ii8gwisXxB7Sv_mc5aqZTAShDY/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjYtMzY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/2QPf8ZJfN45ykhQGIFTBnlo4DWce_BZTQYTJBHTF2JI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjYtMTExMi5qcGVn.jpeg"
     - "https://i.discogs.com/okhrtzQCicXJ7x0TkxDv3SkQZoL-Y-zkCPczx1Qx6GI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MTktMTkzOS5qcGVn.jpeg"
     - "https://i.discogs.com/X7R2Nq5gKHiMv_L_wWB1cWfRumVxP_99Wl-JS7eDXiI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MTktOTM0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/df0fjmLCu5fgnGLvcc3BB3REqDPJa7b6BHkOU7JgcDk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjAtNTM5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Gai4QU-wr0VMBvTNHPXXnJdqWPkgh5Q4NBxoSk3OhhA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjAtNTM5OC5qcGVn.jpeg"
     - "https://i.discogs.com/g_3GdgeE6kR5YlFq9gucxUWkjU9GsORIiPH3kVtaRDI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjAtMjE5MC5qcGVn.jpeg"
     - "https://i.discogs.com/4f7JIWs7-sxx7gAHjfJDLLkdYW90I8vMIxf89wnrIY4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjEtNjMzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/d--zkLMeX_Lfl9dk6vehXwGzoOVJsX8FytoZuRsCZ7k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjItMjU1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/-GGSZI78sPegq99XIz3B8DiIHeij57azSwO00p8bhAs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjItMjU1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/KWgefJX_QMEQwaRirwqn9owjsd68nthcbwbshegvvgc/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjItOTY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/-j9o4Qp7TFDlDwxLoIw-nR7MNb5_2mZRerNwx16Vosc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjMtOTAyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/n-sDu-cAJk9kUth5TwKx_4kwwZfvM8riCCyTqZEl2DA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjMtOTAyMS5qcGVn.jpeg"
     - "https://i.discogs.com/hQASfROnWtiTbblrvJdP-RTf2sOI1FbmS3Qv9fmn2xE/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjQtODIxNy5qcGVn.jpeg"
     - "https://i.discogs.com/DyfgKaxgNMTcc8xGNeLmHkZkhfwOwza6YeG9sRIl0BA/rs:fit/g:sm/q:90/h:391/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjItNjUwNS5qcGVn.jpeg"
     - "https://i.discogs.com/w8gQ922g4dmxNhFcPqNWLetVmp5NhrddSUcj2tW9IZo/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjQtNDI0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/K76zrV6e7osApFuCRmy1JZabO75mwcDDpzWkGy7GUiI/rs:fit/g:sm/q:90/h:853/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjUtNzUxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/XgVi7KF7Z2vmmHoAVb8ECyA6xLqrJa-XiN80puHqMZQ/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjUtNzUxNC5qcGVn.jpeg"
     - "https://i.discogs.com/iIi3kk0Q_T9iRxJFPSMeoIiqf4TsmeWPe0Rp486yn-s/rs:fit/g:sm/q:90/h:252/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM2/NzA5LTE2Nzk5NTg1/MjUtNzM4NS5qcGVn.jpeg"
 genres: ["Reggae", "Stage & Screen"]
 styles: ["Ska", "Soundtrack"]
@@ -86,12 +86,15 @@ styles: ["Ska", "Soundtrack"]
 {{< youtube id="Tr5kO4-yKoM" title="DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)" >}}<br>
 ### More Videos
 
-- [The Specials Concrete Jungle from 'Dance Craze'](https://www.youtube.com/watch?v=g8qh63nu1OQ)
 - [Dance Craze The best of British Ska live full album vinyl](https://www.youtube.com/watch?v=kBTowqTVkAk)
+- [DANCE CRAZE THE ALBUM & CD & CASSETTE VERSIONS (LIVE)](https://www.youtube.com/watch?v=Tr5kO4-yKoM)
+- [The Specials "Concrete Jungle" from 'Dance Craze'](https://www.youtube.com/watch?v=g8qh63nu1OQ)
 - [MADNESS - SWAN LAKE AND RAZORBLADE ALLEY (DANCE CRAZE)](https://www.youtube.com/watch?v=nU1EV0WvwzM)
 - [Dance Craze - Documentary 1981 (Part 1)](https://www.youtube.com/watch?v=Amo1MNw7c1k)
 - [Dance Craze - Documentary 1981 (Part 2)](https://www.youtube.com/watch?v=62k2AKhy-ms)
 - [Dance Craze - Documentary 1981 (Part 7)](https://www.youtube.com/watch?v=tKhGB6Ih5oc)
+- [The Specials - Concrete Jungle (Live at Rotters Club, Liverpool 14/10/80)](https://www.youtube.com/watch?v=xKBiij0A3ig)
+- [Three Minute Hero (Live at The Pavillion, Hemel Hempstead 22/3/80)](https://www.youtube.com/watch?v=Le0OoKpih8c)
 
 ## Release Images
 {{< imageGrid >}}

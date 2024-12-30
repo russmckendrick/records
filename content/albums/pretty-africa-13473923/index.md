@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/TI0C1aKjTeCxEk9OoiWZM6C3oOE-GK133FV4rSzkI7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1ODk0ODYx/NDYtNjkwNC5qcGVn.jpeg"
     - "https://i.discogs.com/kBa0MWFVoE-ZC3tXrOQuY6Q_YpqNMvzci9OubQLti6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1ODk0ODYy/ODctOTQ4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/4Y7zVMWlFiiD8NaHmqjegn6lcnUb-ISTaQznptyOqCc/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzMtNzk2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/HyWLsW9lqx-fz4Kew1w7_RyGqyc6Yz7EoQLD39z3nas/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzQtNzYzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/92AcQWmHq_5xV03ujVQJxb-E2Fo4SdRvE2hUOQkJ48Q/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzMtNzk2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/GJYOCQ-pOLsdzwZ5WASA5mR9KXY4vPzqK17a_6Es19w/rs:fit/g:sm/q:90/h:600/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzQtNzYzNi5qcGVn.jpeg"
     - "https://i.discogs.com/eszP11FND7OPAg_sI_m2yBq-oAXJIbgkDcBe8YZCppw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzQtMjQ2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/o1hF8Cn2hQnS3jn4ltWmIOBlbBUHjL37UQbGw2Gl-hw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1NTU1MjY4/MzQtNzkxMy5qcGVn.jpeg"
 genres: ["Reggae"]
@@ -38,6 +38,8 @@ styles: ["Ska", "Rocksteady"]
 11. Trample (2:27)
 12. Jah Jah Children (3:14)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-desmond-dekker/1436086515" >}}<br>
 
 
 ## Videos

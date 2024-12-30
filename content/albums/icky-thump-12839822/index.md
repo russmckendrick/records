@@ -4,6 +4,7 @@ artist_name: "The White Stripes"
 artist: "the-white-stripes"
 album_name: "Icky Thump"
 date: 2018-11-23T22:53:02.000000Z
+release_date: "1999-06-15"
 release_id: "12839822"
 slug: "icky-thump-12839822"
 hideSummary: true
@@ -17,13 +18,18 @@ additional_images:
     - "https://i.discogs.com/ua7yMEKGr1qTsoAUODfSqmk0W2rDbNqqLuu0wnUVeoA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/ODIyLTE2MjIzMzUw/MTctNzA4OS5qcGVn.jpeg"
     - "https://i.discogs.com/OBftvxkl9SkA0jjDUcytNwvd_i3X_4Pw0WSZKjlaqyM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/ODIyLTE2MjIzMzUw/MjQtNzM0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/F8fVrTqQqa3tiX0cT-hGovMGL4hTel99viQDZk_fIeM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/ODIyLTE2MjIzMzUx/MTAtMjk3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/q0mEF2RS6qkhYdOwqAQC0WY-VZ7FePFB3vqhdgMwDy8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/ODIyLTE2MjIzMzUw/NDEtNjE1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/c0U04FVeE41VE8JgaiZeHyZaqNjRpfFfqbECexeYVqY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/ODIyLTE2MjIzMzUw/NDEtNjE1MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Garage Rock", "Indie Rock"]
 ---
 
-Icky Thump is the sixth and final studio album by American rock duo The White Stripes, released through Warner Bros. and Third Man Records in June 2007, with XL Recordings handling the United Kingdom release. Its first release came on June 15, 2007, in Germany, with the release for the rest of Europe occurring on June 18 and the rest of the world on June 19.Icky Thump received positive reviews from critics and enjoyed commercial success, entering the UK Albums Chart at number one and debuting at number two on the Billboard 200, becoming the duo's highest-charting album in the US with 223,000 copies sold. By late July, Icky Thump was certified gold in the United States. On February 10, 2008, the album won a Grammy Award for Best Alternative Music Album.
-    
+Primal rock duos wrapped up in the blues existed long before Jack Gillis met, married and started a band with Meg White during the second half of the 1990s. But no act had so savvily combined so many crucial elements—a high-design colour palette, an air of mystery, and, most importantly, a mighty and unmistakable sound—as The White Stripes did. When the group recorded its debut album in early 1999, Gillis—a former drummer who’d rechristened himself Jack White—was still relatively new to the guitar. Meg, meanwhile, had been playing drums for less than 18 months. Yet the largely self-produced 17 songs on the band’s self-titled stunner move with remarkable aplomb toward one goal: to push the blues—kicking and screaming and messy and beautiful—into the 21st century. And <i>The White Stripes</i> did just that.
+
+From the start, Jack White was an incisive and magnetic guitar player, his snarling riff for opener “Jimmy the Exploder” as fetching as the circular slide line that anchors “Suzy Lee”. His writing seemed intuitive yet studied, as if stacks of Son House, Robert Johnson and Led Zeppelin records were simply the spark for a mound of kindling awaiting its fate. Meg’s status as a new drummer allowed her to play with freedom and power, instantly disregarding the rules that some veteran teacher might have instilled. She is the enforcer for “Wasting My Time”, her cymbal and kick landing like body blows, as well as the groove machine for “Astro”, on which her simple pulse is as intoxicating as a bottle of illicit booze. There was nothing especially fancy about the way either Jack or Meg White played on their debut, but their instant chemistry was clear and compulsory.
+
+<i>The White Stripes</i> wouldn’t make The White Stripes famous, but it made the group’s aesthetic, intentions and bona fides clear, laying the groundwork for what was to come. Jack and Meg could, for instance, make Bob Dylan’s “One More Cup of Coffee” sound urgent again, while dropping “John the Revelator” into a gnarly rock song about mounting danger. And it helped establish Jack’s larger-than-life personality, solidifying him as a lovable grouch (“When I Hear My Name”) ready to square off with anyone (“I Fought Piranhas”). For this brilliant introduction, The White Stripes mined the past to burst into the future.
+        
+        
     
 
 
@@ -47,14 +53,15 @@ Icky Thump is the sixth and final studio album by American rock duo The White St
 17. Effect And Cause (3:00)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/icky-thump/1533513464" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-white-stripes/1533513447" >}}<br>
 
 
 ## Videos
-### The White Stripes - Icky Thump (Official Music Video)
-{{< youtube id="1OjTspCqvk8" title="The White Stripes - Icky Thump (Official Music Video)" >}}<br>
+### 300 M.P.H. Torrential Outpour Blues
+{{< youtube id="BN8c4nnnWYs" title="300 M.P.H. Torrential Outpour Blues" >}}<br>
 ### More Videos
 
+- [The White Stripes - Icky Thump (Official Music Video)](https://www.youtube.com/watch?v=1OjTspCqvk8)
 - [The White Stripes - Conquest (Official Music Video)](https://www.youtube.com/watch?v=0L7FuA8Rry8)
 - [The White Stripes - You Don't Know What Love Is (You Just Do As You're Told) (Official Music Video)](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 

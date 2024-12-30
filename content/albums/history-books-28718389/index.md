@@ -13,10 +13,10 @@ cover:
     alt: "History Books by The Gaslight Anthem"
     caption: "History Books by The Gaslight Anthem"
 additional_images:
-    - "https://i.discogs.com/u2ejpkfzSiKNpAUJyEOAioKAzwoP1c0pJUjzXMGGd2s/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjctMjIzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/5pQAQv1jdl4gYIgt4eu9kqdutqaBIcVLFgy83lB2OWM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjctMjIzOS5qcGVn.jpeg"
     - "https://i.discogs.com/iGgFeIHCzI8q5JUO3gJ9LxHEKjavFhy3rrMNpR7rNeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtNTEzNS5qcGVn.jpeg"
     - "https://i.discogs.com/iLivLpAd1WRrqtBoGq5dej8j77pYUX_6x2k2nbVXFnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjktNjIwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/hHYuXrsuCSegcCtz2x0Wecv1nU8NEvVOX8cQjGuBuD8/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtNTQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/pS0Auz_9OMUqHPTLTF7YpjYZp2-snKbUK2ez1vD3z-8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtNTQ4MC5qcGVn.jpeg"
     - "https://i.discogs.com/-BqUVJiXr9riBQjlNP73KYVCJ6rhGawkCc-9vbz3mg4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjctODQ2NS5qcGVn.jpeg"
     - "https://i.discogs.com/Il76yJOnCrCsKkslV1M_elo8L-fPJw3lmdYPSiQ4E1A/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/Mzg5LTE2OTg0MTI5/MjgtMTk5MC5qcGVn.jpeg"
 genres: ["Rock"]
@@ -51,7 +51,13 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 ## Videos
 ### The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video
 {{< youtube id="gyUgfrCegOs" title="The Gaslight Anthem - History Books (ft. Bruce Springsteen) - Official Video" >}}<br>
+### More Videos
 
+- [The Gaslight Anthem - Positive Charge (Official Video)](https://www.youtube.com/watch?v=Rymbk5I_WlA)
+- [Michigan, 1975](https://www.youtube.com/watch?v=78RtVG0EdEE)
+- [A Lifetime Of Preludes](https://www.youtube.com/watch?v=jcAjw049hQs)
+- [Empires](https://www.youtube.com/watch?v=o5VGuZbfi9A)
+- [The Weatherman](https://www.youtube.com/watch?v=wrrL_NhCBqs)
 
 ## Release Images
 {{< imageGrid >}}

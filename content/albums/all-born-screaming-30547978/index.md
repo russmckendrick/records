@@ -13,8 +13,17 @@ cover:
     alt: "All Born Screaming by St. Vincent"
     caption: "All Born Screaming by St. Vincent"
 additional_images:
-    - "https://i.discogs.com/4xBheUwAKQXHT6KwwJnfJTyStTmZSmkN8XG5Cu_E5-4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ0OTE1/MjktNjYzMy5wbmc.jpeg"
-    - "https://i.discogs.com/rVSku4W_5yF9nlaVt1nWO61WlTL2G9zx37xqNb74C9o/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ0OTE1/MjktNzE0MS5wbmc.jpeg"
+    - "https://i.discogs.com/8GKLqguV96XIe1a4RpuZL7sUk71bKT8laAxkKKHcJyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtNTcyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/n0gxYR_-wNTsbmhydSNmH8xEF6SPVDO6VWbECxHOeRo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODItNjIxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/qIfeqAnhqGSWzC1y7am-7JdO6Gfr-KBCk9bAONR-S_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtMzY4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/zkMRYA8l6KtwGj01stJnkjlQ7r6noD8CWfrR7B6IKLQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtNjQ0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/jPD_t-JgHzIBmtETHEDr7LZrOn5tWeu1VBqZGSb4u9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtMzM4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/q9Ql8dnNyfGqc8aZ2vi0_DjLFqne86ptViuRFkWYyiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtOTgwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/04BE0Umlk4b0sDl-2mzwr2gV6ouYm8MDKPYKXIQW1ro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtODk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/RpeTdkLkh5e45f-SUdysmiHLyzyEoMviEKaCADw2BPA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtOTUxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/qfRz_Z-DXEF78XCiXEy2doseMAkv2GAGrlt3XMKbEx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtMTE2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/QGozMpfP11L2sydG9KeWckbnMxKIgeUc5kLOjUu6vv8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtNTcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/kHqQ3RiNIDh3dOmAXZ3FNKOs8re807Z56VDY-X3m98c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODQtNTAzOC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Art Rock", "Industrial"]
 ---
@@ -40,16 +49,16 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 
 
 ## Tracklisting
-1. Hell Is Near (04:09)
-2. Reckless (03:57)
-3. Broken Man (03:21)
-4. Flea (03:47)
-5. Big Time Nothing (02:59)
-6. Violent Times (03:57)
-7. The Power's Out (04:38)
-8. Sweetest Fruit (03:56)
-9. So Many Planets (03:35)
-10. All Born Screaming (featuring Cate Le Bon) (06:55)
+1. Hell Is Near (4:09)
+2. Reckless (3:57)
+3. Broken Man (3:21)
+4. Flea (3:47)
+5. Big Time Nothing (2:59)
+6. Violent Times (3:57)
+7. The Power's Out (4:38)
+8. Sweetest Fruit (3:56)
+9. So Many Planets (3:35)
+10. All Born Screaming (6:55)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-born-screaming/1729549170" >}}<br>
@@ -74,7 +83,8 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Born_Screaming |
-| Format         | Vinyl 12" 33 ⅓ RPM (White Vinyl) |
+| Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Total Pleasure Records |
-| Catalog Number | 2280183 |
+| Catalog Number | 00196922801839 |
+| Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list.   Made in Germany. |
 | Discogs URL    | [St. Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |

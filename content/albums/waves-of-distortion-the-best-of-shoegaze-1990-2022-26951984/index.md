@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/ax8OrjzyhnAF95JKcJTFJC2KuwIxtH0x73sRYPEsYt0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTg0LTE2ODMzMTEw/NjctMTY1MS5qcGVn.jpeg"
     - "https://i.discogs.com/qxGKnAgaq0wPfWLt9cmkW9gmnPiw7meD9zKYXZQwiKY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTg0LTE2ODMzMTEw/NzYtMTM4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/8rVr0VwYny835kD2BAC3mtPm5QNxEOwhj1qpv1LsMHQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTg0LTE2ODMzMTEw/ODAtOTExMS5qcGVn.jpeg"
-    - "https://i.discogs.com/DKqbWR8j0C_vzJtQiOGUO9dVj5PqNKnEux5uqE9W7s4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTg0LTE2ODMzMTEw/ODYtMzQ3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/us-_VCCjWcX_QJO1RRAobf8Kow9Gnlbmk_Qn7rzrPq4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTg0LTE2ODMzMTEw/ODYtMzQ3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ---
@@ -49,7 +49,14 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 
 
 
+## Videos
+### Slowdive // Slomo
+{{< youtube id="XHY2w9NO57Y" title="Slowdive // Slomo" >}}<br>
+### More Videos
 
+- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
+- [Slowdive // Slomo](https://www.youtube.com/watch?v=XHY2w9NO57Y)
+- [Pearl (Edit)](https://www.youtube.com/watch?v=wlqKSAJZsZs)
 
 ## Release Images
 {{< imageGrid >}}

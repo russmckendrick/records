@@ -14,17 +14,20 @@ cover:
     caption: "The Hour Of Bewilderbeast by Badly Drawn Boy"
 additional_images:
     - "https://i.discogs.com/tO79k5-o3deyv-WZVgd2MqaOvwukJBgVfsr_s3uCf4I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NC01MzkzLmpwZWc.jpeg"
-    - "https://i.discogs.com/RUFjoFM58X9IYHcDHjfMGT6rKdFQURdJ-z_bFemP5Cw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/MC0yMTgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/JM5lR-gVQETC5HkHa0xPvAikbu9UsEEFA3nNCe80Puw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/MC0yMTgyLmpwZWc.jpeg"
     - "https://i.discogs.com/eHAu2wiD4cKf9wMVk4ZsxJm4vIHJlzQRhldalwFzmW4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/My0yNTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/if68iLSn13_pcH53ZE9t8j32_3utsgk_VZNTzAoQzns/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS0yMTg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/JMff0rQSZfMxF2LY60W2v9YNNGTOQF0DAVCfx2-2lRU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS00NjUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/V-nLH6nigUvK2KCoujXbA9-ZMD2ZqY7EgsfZjDH4KGM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS00NjUxLmpwZWc.jpeg"
     - "https://i.discogs.com/ABjrXNQXe0jU4WKZRUy5DMZvjCGaJMLqh1iH3XnTdmM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjI3/MzQtMTQ1Mjk1ODM3/NS0zNjgyLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Folk Rock", "Downtempo"]
 ---
 
-A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut from wooly-hatted multi-instrumentalist Damon Gough. There’s an undoubted DIY feel to <i>The Hour of the Bewilderbeast</i> (see 45-second bossa nova interlude “Body Rap”) but there are plenty of polished triumphs amid the captivating sonic scribbles. “Pissing in the Wind” transports country-tinged yearning to a rain-soaked northern England street, and “The Shining” is an impressively grand, horn-drenched heartbreaker.
-    
+The Hour of Bewilderbeast is the debut studio album by British musician Badly Drawn Boy, released on 26 June 2000. Damon Gough, who performs as Badly Drawn Boy, wrote, produced, and played several instruments on the album's eighteen tracks, several of which also feature accompaniment by members of the British indie rock bands Alfie and Doves. The Hour of Bewilderbeast was released to great critical acclaim and went on to win the 2000 Mercury Prize, and has sold 455,000 copies in the United Kingdom as of September 2011.
+
+
+        
+        
     
 
 
@@ -71,6 +74,7 @@ A crackling fire of orchestral folk-pop beckons on this sweeping, epic debut fro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Hour_of_Bewilderbeast |
 | Format         | Vinyl LP Reissue |
 | Label          | Twisted Nerve |
 | Catalog Number | TNXLLP133 |

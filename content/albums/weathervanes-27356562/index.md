@@ -62,7 +62,8 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 
 <b>“Miles”</b>
 “I kept trying to shape it into something that was more like a four-minute Jason Isbell song, and then at one point I thought, ‘No. I think we could just play the way that I've written it here.’ I would have a verse on one page and then that refrain written out on a different page, and I had to go back through the notebook and figure out what belonged to that song. The approach was kind of like if Neil Young was fronting Wings. It was like a McCartney song where it's got all these different segments and then it comes back around on itself at the end, but also sort of with Neil's guitar and backbeat. It felt like I had a little bit of a breakthrough in what I would allow myself to do, because I've always loved songs like this, and I've always sort of thought, 'Well, you need to stop.' When Lennon was out of the picture, McCartney was making 'Band on the Run' and all this stuff. It's just one big crazy song all tied together with little threads.”
-    
+        
+        
     
 
 
@@ -85,7 +86,19 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 {{< applemusic url="https://music.apple.com/gb/album/weathervanes/1668182705" >}}<br>
 
 
+## Videos
+### When We Were Close
+{{< youtube id="cF141kKZ-nc" title="When We Were Close" >}}<br>
+### More Videos
 
+- [Miles](https://www.youtube.com/watch?v=iedYA61i4uU)
+- [Vestavia Hills](https://www.youtube.com/watch?v=EQE84XGfmzU)
+- [If You Insist](https://www.youtube.com/watch?v=yRi1ad_60KA)
+- [Volunteer](https://www.youtube.com/watch?v=6a36w_Q_o_w)
+- [Strawberry Woman](https://www.youtube.com/watch?v=_aNXp6uFtKU)
+- [White Beretta](https://www.youtube.com/watch?v=zOPJVLzASdI)
+- [Cast Iron Skillet](https://www.youtube.com/watch?v=hlMZJDHn9oY)
+- [King of Oklahoma](https://www.youtube.com/watch?v=GhIQRnl9zJE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,6 +106,7 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Weathervanes_(Jason_Isbell_and_the_400_Unit_album) |
 | Format         | Vinyl 2× LP Album Limited Edition (Light Blue Translucent ) |
 | Label          | Thirty Tigers |
 | Catalog Number | SER99961HMV |

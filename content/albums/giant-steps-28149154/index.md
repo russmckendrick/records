@@ -21,8 +21,6 @@ styles: ["Indie Rock"]
 ---
 
 Giant Steps is the third studio album by the Boo Radleys, released in 1993. The title is inspired by John Coltrane's album of the same name, and the record features an assortment of influences — their previous shoegazing sound backed by pop, reggae, noise pop and orchestral sounds.
-
-
     
     
 

@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/OkjnbUMduI0xD7cuVDjiYyFlbP9y9jTbKR_pDnMtDms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0MTc2MTc3/MC04OTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/po6bYRbvMnu32jVHAUC-a4uoIoFmkNEUb4v2aD0rSzI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MC04NjUzLmpwZWc.jpeg"
     - "https://i.discogs.com/ql9L_YlhJ9dquUV7T32PvoJUiGKrlkNgens1wWrDJec/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MC00NTY0LmpwZWc.jpeg"
-    - "https://i.discogs.com/nuhFY1lyhVP_XqNob2b468SWRwHpRiuLdD9wdOdLvU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MC0xMjE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/FuzRiqLzM0apGQoLOlWZlyNCU8uRKDV5vDk4QZKCDDg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk4/OS01Nzc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/u93VqgMhKBO6FBxumefS1jUbwYSpwb4INrleWh4rUiU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MS00NzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/AwTL7QaJQY_-iud-Kq6H55r1csGZJs7Q4cPkPl7YGQM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MC0xMjE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Xh_6KTFKbEBCprHs_mQU3PERXpscEBOLlR17rS65vxU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk4/OS01Nzc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/UhG_CJn0N-oEcxlhrS_RkVJ9AE3KBLzVWQniMxPhcDk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzgtMTQ0ODU1MTk5/MS00NzgyLmpwZWc.jpeg"
 genres: ["Rock", "Blues", "Folk, World, & Country"]
 styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ---
@@ -44,6 +44,11 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 {{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission (Documentary)" >}}<br>
 ### More Videos
 
+- [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
+- [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
+- [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
+- [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
+- [Phil Cook - Southland Mission (Documentary)](https://www.youtube.com/watch?v=k_4TyQ1s_Lc)
 - [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
 - [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
 - [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)

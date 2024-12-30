@@ -21,11 +21,16 @@ additional_images:
     - "https://i.discogs.com/i-jQBGSxJXFCKXcA076EYcfdug2ZZEd41TLjZ_oxKEI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/ODI1LTE1NTgwNjE5/NzEtNjczMS5qcGVn.jpeg"
     - "https://i.discogs.com/tglAKsTz-GlgtCo7Qyg9qMCv3J87T7I2qxFIHcM25vI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/ODI1LTE1NTgwNjE5/NzItNDUzMi5qcGVn.jpeg"
     - "https://i.discogs.com/40LCObqs6piujRR-ETV7XJYszlZalBHbtqd-q19l7mg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/ODI1LTE1NTgwNjE5/NzEtNjIwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/N0glmcdAGmULAEtlGt4NCzc4evysKFrpnBMLYcxinTE/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/ODI1LTE2Mjg2NDIy/MTEtNTcxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/oubUXZlwjUpe7qCkV6Bg93Q5at6gMdM7JKj7IX0gpOM/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/ODI1LTE2Mjg2NDIy/MTEtNTcxNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
+An underwater environment is a environment of, and immersed in, liquid water in a natural or artificial feature (called a body of water), such as an ocean, sea, lake, pond, reservoir, river, canal, or aquifer. Some characteristics of the underwater environment are universal, but many depend on the local situation.
+Liquid water has been present on Earth for most of the history of the planet. The underwater environment is thought to be the place of the origin of life on Earth, and it remains the ecological region most critical to the support of life and the natural habitat of the majority of living organisms. Several branches of science are dedicated to the study of this environment or specific parts or aspects of it.
+A number of human activities are conducted in the more accessible parts of the underwater environment. These include research, underwater diving for work or recreation, and underwater warfare with submarines. It is hostile to humans in many ways and often inaccessible, and therefore relatively little explored.
+    
+    
 
 
 ## Tracklisting
@@ -50,7 +55,9 @@ styles: ["Math Rock"]
 ## Videos
 ### Elephant Gym - Underwater - Full Album - 2018
 {{< youtube id="oAwNf9Zy2UU" title="Elephant Gym - Underwater - Full Album - 2018" >}}<br>
+### More Videos
 
+- [Elephant Gym - Underwater - Full Album - 2018](https://www.youtube.com/watch?v=oAwNf9Zy2UU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +65,7 @@ styles: ["Math Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Underwater_environment |
 | Format         | Vinyl LP Limited Edition (Dark Blue In Mint) |
 | Label          | Topshelf Records (2) |
 | Catalog Number | Eg-0017/TSR-201 |

@@ -13,15 +13,15 @@ cover:
     caption: "Pure Narcotic by Porcupine Tree"
 additional_images:
     - "https://i.discogs.com/eyDjb_CpazgGsv_JF4lsjuSeBFH8BBAu3yUKOSh270U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDM0NTQw/NjMtNzQ1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/vkrzVC2Do5SvBFcPee_WKBCNBVNQY9cJMOTT7HKMd9w/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTQtMzMwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/p0SApsl9n1pD1UkKO8jL1vXF8bke9Ri87MVtVysW9LA/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDQtOTI3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/WwWG1HNiDx-ao4eFDZceKflCrw6ydRQJF2Sqt1Qdfpg/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDQtNjE1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/tIaJM_aDW2lw-HnoxGrnoOm9a_DJRaC2X81svbWTGsk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTQtMzMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/pRYsGR7jZkW0RKd2GkFlXE6c1-xxbY9PuoAd8dIQgbU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDQtOTI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/q2D-2CiSheP5OuE1ClooO9xvRpXrHy9UhaSJViI28Cg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDQtNjE1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/B6qFgOTRTlPXrhwC9U44MzNJXeHrX5uhvjVTwHMspO0/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTUtNzQxNS5qcGVn.jpeg"
     - "https://i.discogs.com/DagCfZRf0pMj5iQ3YNVy0A2u8GzqQEZntqHUV3NbEGU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTUtOTYwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/qcwM5Dqk03s10_kCaphKFCqE15M2FrwJgH-TMBqJyJc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODM1/MzQtNDg5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/CJFYGlCADCAsKLCTruQaHMaG1lFLATga6cK4Q7WDPVo/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTgtMjExMC5qcGVn.jpeg"
-    - "https://i.discogs.com/NZl2JXSaq6hslIuaBmYF1ICkE8FZ7w7yxfdK7dSb7bk/rs:fit/g:sm/q:90/h:662/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDItMjgwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/fszrJG8L_ocuSv1k_QIsi7_1I1eEz2CfO10yEttBums/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MTctMzUzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/2EJS_dV6u3F8Nwr1zf94RHjXAuCzpt9nwAPQmJdZ1Fc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODM1/MzQtNDg5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/5BxmUap-Aves5Zs__mXvLLpzMAceYrGNe-jDfOAUBPc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMw/OTgtMjExMC5qcGVn.jpeg"
+    - "https://i.discogs.com/IrFEKq968n5hGWIFMOkrVr5D9s09ahzMI_KGeYB3O3E/rs:fit/g:sm/q:90/h:600/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDItMjgwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/BtYrhf-lDvUCoDHkBgFygypvD8wHHMaotjGYPUIdDIs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MTctMzUzOS5qcGVn.jpeg"
     - "https://i.discogs.com/pESaxZMqQ_7L6BYnkNhW241kgxxmMbehWfBN5U7orVY/rs:fit/g:sm/q:90/h:431/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYy/ODc3LTE2MDI3ODMx/MDYtNjE0NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
@@ -38,7 +38,12 @@ styles: ["Prog Rock"]
 
 
 
+## Videos
+### Porcupine Tree - Pure Narcotic vinyl 2020
+{{< youtube id="yJ4NjbQVeiE" title="Porcupine Tree - Pure Narcotic vinyl 2020" >}}<br>
+### More Videos
 
+- [Porcupine Tree - Pure Narcotic vinyl 2020](https://www.youtube.com/watch?v=yJ4NjbQVeiE)
 
 ## Release Images
 {{< imageGrid >}}

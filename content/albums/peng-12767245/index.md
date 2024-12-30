@@ -26,7 +26,8 @@ genres: ["Rock"]
 styles: ["Experimental", "Indie Rock"]
 ---
 
-Peng! is the debut studio album by English-French rock band Stereolab. It was released on 26 May 1992 by Too Pure in the United Kingdom. The album was issued in the United States on 13 June 1995 by Too Pure and American Recordings. A remastered edition of the album was released on 9 November 2018 by Too Pure and Beggars Arkive.The album's title (a German onomatopoeia for a loud pop or bang) and cover art are derived from a comic strip named "Der tödliche Finger" that appeared in a 1970 issue of Hotcha, a Swiss underground newspaper. Different panels of the same strip were adapted into cover art for other early Stereolab releases, and remain popular icons for the band.
+Peng! is the debut studio album by English-French band Stereolab. It was released on 26 May 1992 by Too Pure in the United Kingdom. The album was issued in the United States on 13 June 1995 by Too Pure and American Recordings. A remastered edition of the album was released on 9 November 2018 by Too Pure and Beggars Arkive.
+The album's title (a German onomatopoeia for a loud pop or bang) and cover art are derived from a comic strip named "Der tödliche Finger" that appeared in a 1970 issue of Hotcha, a Swiss underground newspaper. Different panels of the same strip were adapted into cover art for other early Stereolab releases, and remain popular icons for the band.
     
     
 

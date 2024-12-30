@@ -13,19 +13,17 @@ cover:
     caption: "Desperate Youth, Blood Thirsty Babes by TV On The Radio"
 additional_images:
     - "https://i.discogs.com/D_HqFoZ8u_BMzWjm5_SihjXwiBPZGxQxHu7_gWlpgnY/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTc3/MjYtMzc2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/kipnQVP1HQvh0pDDlDmaB3LT4AdFn4EEoCbOyzL3YRY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/NzctMTE4OS5qcGVn.jpeg"
     - "https://i.discogs.com/37shUoPL449i7s16_7zCV7CbYwUbrTh1Oa-bF-GpuSg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtMzk3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/eFu1Vcqmq240XWbkSG5gGJT9GDKRDVtN_iPcxhjgy6Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY1/MzItNDc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ciRBaJY_kXhfXK4_27AYbIqYtgkuHMSBKWfkECGdXgw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY1/NjgtMTA0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/f65bO2kC0LY0yMzqaCUvGvttdsufHJGgUpcgC_q4eOk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNDYzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/f5ra32yD-_muD8pwOC_UqYPmATA_P6ZjDiAT8koqlPA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNTMwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/hmfmojYOGM3yNyoj-UAvEuYAMHta-nKTxcWWLj8aoFA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtMTk0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/te6LSf50w57Z5OdKfv5WtbjaOoCaPOBzjiTEcU6CpSk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNTc1My5qcGVn.jpeg"
     - "https://i.discogs.com/5Z3OYbOoQQ8LMbrRyqXzY9du7kddwcEX7zDuT5GpiUk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtMTU0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/PFT1XWi92Coh1R5q4qvYYazYsaeMCG8PZYNg8SrAxFU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY3/MTAtNTQyNS5qcGVn.jpeg"
     - "https://i.discogs.com/8IxqOR-DQYZPTgkPuHake_lzIDCGkyDJRLj-1Y5JySk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtMTk3MS5qcGVn.jpeg"
     - "https://i.discogs.com/qU1yta8xxkaLy8zYCASxB9Rk3lR8i3IV2y6xn1oaSjU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY3/MDUtMjExOC5qcGVn.jpeg"
-    - "https://i.discogs.com/8MpxN_hxg0zk65KkCeykNXuw--8B_wz6En5rCBSMW0I/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTQ0/MjMtNzI2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/f65bO2kC0LY0yMzqaCUvGvttdsufHJGgUpcgC_q4eOk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNDYzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/f5ra32yD-_muD8pwOC_UqYPmATA_P6ZjDiAT8koqlPA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNTMwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/hmfmojYOGM3yNyoj-UAvEuYAMHta-nKTxcWWLj8aoFA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtMTk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/te6LSf50w57Z5OdKfv5WtbjaOoCaPOBzjiTEcU6CpSk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtNTc1My5qcGVn.jpeg"
     - "https://i.discogs.com/6ZKX1i7T6IOYTyF6nzvUepUSSiHEYa8XKL0s9T_Sfkw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NzI3LTE3MzE1MTY0/ODgtOTM4OS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Experimental"]
@@ -40,21 +38,21 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 
 
 ## Tracklisting
-1. The Wrong Way
-2. Dreams
-3. King Eternal
-4. Ambulance
-5. Poppy
-6. Don't Love You
-7. Bomb Yourself
-8. Wear You Out
-9. Staring At The Sun
-10. You Could Be Love
-11. Staring At The Sun (Demo)
-12. New Health Rock (Single)
-13. Modern Romance (NHR Single)
-14. Final Fantasy
-15. Dry Drunk Emperor
+1. The Wrong Way (4:36)
+2. Dreams (5:09)
+3. King Eternal (4:24)
+4. Ambulance (4:54)
+5. Poppy (6:07)
+6. Don't Love You (5:29)
+7. Bomb Yourself (5:33)
+8. Wear You Out (7:17)
+9. Staring At The Sun (3:27)
+10. You Could Be Love (7:18)
+11. Staring At The Sun (Demo) (6:13)
+12. New Health Rock (Single) (4:01)
+13. Modern Romance (NHR Single) (4:09)
+14. Final Fantasy (3:14)
+15. Dry Drunk Emperor (6:47)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/desperate-youth-blood-thirsty-babes/1117724434" >}}<br>
@@ -62,7 +60,7 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 
 ## Videos
 ### "Staring at the Sun" by TV on the Radio
-{{< youtube id="oHrTOQ18yzU" title="Staring at the Sun by TV on the Radio" >}}<br>
+{{< youtube id="oHrTOQ18yzU" title=""Staring at the Sun" by TV on the Radio" >}}<br>
 ### More Videos
 
 - [The Wrong Way](https://www.youtube.com/watch?v=PwmikMwwwEo)
@@ -81,8 +79,8 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Desperate_Youth,_Blood_Thirsty_Babes |
-| Format         | Vinyl 2× LP Limited Edition Reissue (Red) |
+| Format         | Vinyl 2× LP Limited Edition Reissue (Red, 180g) |
 | Label          | Touch And Go |
 | Catalog Number | tg415 |
-| Notes | 20th Anniversary Edition limited to 2500. 180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.  © & ℗ 2004 Touch And Go Records |
+| Notes | 20th anniversary edition. Limited edition of 2500. 180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.  Sides A-C mastered... at Sterling Sound  Recorded August/Sept at Hickory Lane Additional recording and mixing at Headgear Productions  ©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records  Modern Romance: © BMG Rights Management (BMI) |
 | Discogs URL    | [TV On The Radio - Desperate Youth, Blood Thirsty Babes](https://www.discogs.com/release/32279727-TV-On-The-Radio-Desperate-Youth-Blood-Thirsty-Babes) |

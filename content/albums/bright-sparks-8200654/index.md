@@ -37,9 +37,6 @@ styles: ["Experimental"]
 {{< applemusic url="https://music.apple.com/gb/album/bright-sparks/1087348675" >}}<br>
 
 
-## Videos
-### I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast
-{{< youtube id="ARVEE_aIgBQ" title="I Monster - The Fantastic Tale of Dr. Moog and the Birth of the Shimmering Beast" >}}<br>
 
 
 ## Release Images

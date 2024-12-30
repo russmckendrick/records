@@ -20,11 +20,18 @@ additional_images:
     - "https://i.discogs.com/MqV129Jasl14Wp6V5u3E2BDaCt6bemaTMwEvO8resY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NDktNzY1MC5qcGVn.jpeg"
     - "https://i.discogs.com/CJCAiSSRAzs7my3CHEL73sHA-4QNF7l_oJ_o9nL8Y5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NTAtODE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/N735oyivqJn7kvMksiBhBpd4BK6_z7PWn_Y0sKsXUTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2MjYyODI5/NDgtODU0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Rmln-oaehR5gNEo0ySq475MbiM2rWF50U45CWKeKUiM/rs:fit/g:sm/q:90/h:695/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2NjAxMjUw/MjUtNjc5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/gJlthCqewc0NTipwf3Grch4gEQikbErRsvcwah4Db1I/rs:fit/g:sm/q:90/h:600/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgw/Mjg1LTE2NjAxMjUw/MjUtNjc5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
+The Optimist LP is the first full-length album release by Turin Brakes in 2001. "The Door" and "The Road" (previously released on The Door EP) were re-recorded for this album.
+The album was nominated for the Mercury Music Prize.
+In late 2011, Turin Brakes embarked on a national tour performing the whole of the album in its entirety for its tenth anniversary and again in 2021 for its twentieth anniversary.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -54,7 +61,7 @@ styles: ["Folk Rock", "Pop Rock"]
 24. The Optimist (Demo)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-optimist-lp-original-demos-demo-version/1574258049" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-optimist/1663632527" >}}<br>
 
 
 ## Videos
@@ -62,8 +69,6 @@ styles: ["Folk Rock", "Pop Rock"]
 {{< youtube id="zqoteSksoDQ" title="The Optimist" >}}<br>
 ### More Videos
 
-- [Turin Brakes - The Optimist](https://www.youtube.com/watch?v=EwjDOgEH4nk)
-- [Turin Brakes - Underdog (Save Me) 2001](https://www.youtube.com/watch?v=D82iL0QDmxU)
 - [State Of Things](https://www.youtube.com/watch?v=f2mxwJSFJYs)
 - [Feeling Oblivion](https://www.youtube.com/watch?v=StETYODYBTE)
 - [Future Boy](https://www.youtube.com/watch?v=-WvNq5MD9K4)
@@ -71,9 +76,12 @@ styles: ["Folk Rock", "Pop Rock"]
 - [By TV Light](https://www.youtube.com/watch?v=ntzEJjkInRg)
 - [The Road](https://www.youtube.com/watch?v=N4rbaOjA8QE)
 - [Mind Over Money](https://www.youtube.com/watch?v=WOJCsGvK0yw)
+- [Turin Brakes - Underdog (Save Me) 2001](https://www.youtube.com/watch?v=D82iL0QDmxU)
 - [Three Days Old (Hidden Track)](https://www.youtube.com/watch?v=csqce03dCCM)
 - [Turin Brakes-Feeling Oblivion with lyrics](https://www.youtube.com/watch?v=bDYibOjyQrk)
 - [Emergency 72](https://www.youtube.com/watch?v=_Qr9S7LT39Y)
+- [Turin Brakes - The Optimist](https://www.youtube.com/watch?v=EwjDOgEH4nk)
+- [Turin Brakes - Underdog (Save Me) 2001](https://www.youtube.com/watch?v=D82iL0QDmxU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,6 +89,7 @@ styles: ["Folk Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Optimist_LP |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Amber Transparent) |
 | Label          | Two Piers Records |
 | Catalog Number | BN1LPX |

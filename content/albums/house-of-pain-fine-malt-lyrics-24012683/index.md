@@ -12,11 +12,12 @@ cover:
     alt: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
     caption: "House Of Pain (Fine Malt Lyrics) by House Of Pain"
 additional_images:
+    - "https://i.discogs.com/1VYR9RLLZ1hxVzrez9U6d3cJ5ioJCtjmfb6pgtQQ__Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2ODUzNTI1/NzYtMzAyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/rtTi9RMczj-ogOeP20-PD0_ChHjdZ7B9zHigUGbtw7U/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NTQtMTUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/bYxOmf3JSsqEcQf1RJPsSqo88fkKKUGqBLkecFp_OtI/rs:fit/g:sm/q:90/h:600/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjEtNjIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/XnAAXmHCWpUbbMZ0B9HMDKyNDL6LGP0By1-jBQ_naIc/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjctODE1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Sl22SNGl-T8ExKnPw8ZCV2dlNo5jgpLMSdTsH6sqlzM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTg5NDcz/MTItNTU4OC5qcGVn.jpeg"
     - "https://i.discogs.com/bQgez1tcpu8ch0s8h5W30-gBigQYlqBA4NfyC-CbREo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTkwMzY4/MTQtNzY3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/DOy2jfDYm37zBXP2H-NUYiL0OZOZfXvZgEdtwO0Lt3k/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NTQtMTUyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/GsNhUv-N0vvS48y33iot4FVN50OUiRGh769PYnEMVH0/rs:fit/g:sm/q:90/h:652/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjEtNjIzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/ObuQnscv0yo-pvE2WNwolD6wsmE9Yto6Vjg_yLdwJtA/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEy/NjgzLTE2NTk2MDE1/NjctODE1Mi5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ---
@@ -45,24 +46,18 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 19. Jump Around (Pete Rock Remix) (3:56)
 20. Shamrocks And Shenanigans (Butch Vig Remix) (3:57)
 21. Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) (4:05)
-22. Jump Around (Instumental) (3:38)
+22. Jump Around (Instrumental) (3:38)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159" >}}<br>
 
 
 ## Videos
-### House of Pain - Jump Around (Official Music Video)
-{{< youtube id="XhzpxjuwZy0" title="House of Pain - Jump Around (Official Music Video)" >}}<br>
+### Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)
+{{< youtube id="aTixn0Jy6Ck" title="Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)" >}}<br>
 ### More Videos
 
-- [House Of Pain - Life Goes On](https://www.youtube.com/watch?v=oR3gM8PhRRQ)
-- [House Of Pain - Guess Who's Back](https://www.youtube.com/watch?v=z2hesUfjTTE)
-- [House Of Pain - House of Pain Anthem](https://www.youtube.com/watch?v=VTOcN7MnijA)
-- [House Of Pain - Feel It](https://www.youtube.com/watch?v=lZ_-IaV5G18)
-- [House Of Pain - All My Love](https://www.youtube.com/watch?v=uK15faVp8EY)
-- [House Of Pain - One For the Road](https://www.youtube.com/watch?v=3wSKzP4xhDc)
-- [House Of Pain - Top O' The Morning To Ya](https://www.youtube.com/watch?v=Fu7a9lADJ0g)
+- [Vinyl Unboxing: HOUSE OF PAIN - Self-Titled [30 Years Deluxe Edition] (Tommy Boy Records 2022)](https://www.youtube.com/watch?v=aTixn0Jy6Ck)
 
 ## Release Images
 {{< imageGrid >}}

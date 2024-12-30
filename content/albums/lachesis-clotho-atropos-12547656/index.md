@@ -37,6 +37,9 @@ styles: ["Post Rock", "Experimental", "Folk"]
 
 - [Clotho](https://www.youtube.com/watch?v=lTVndB71EGU)
 - [Atropos](https://www.youtube.com/watch?v=gQ1IDEN58JU)
+- [Lachesis](https://www.youtube.com/watch?v=U77FkZhmijU)
+- [Clotho](https://www.youtube.com/watch?v=lTVndB71EGU)
+- [Atropos](https://www.youtube.com/watch?v=gQ1IDEN58JU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -47,4 +50,4 @@ styles: ["Post Rock", "Experimental", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | Tompkins Square |
 | Catalog Number | TSQ 5555 |
-| Discogs URL    | [Harmony Rockets - Lachesis / Clotho / Atropos](https://www.discogs.com/release/12547656-Harmony-Rockets-With-Special-Guest-Peter-Walker-Lachesis-Clotho-Atropos) |
+| Discogs URL    | [Harmony Rockets - Lachesis / Clotho / Atropos](https://www.discogs.com/release/12547656-Harmony-Rockets-With-Special-Guest-Peter-Walker-4-Lachesis-Clotho-Atropos) |

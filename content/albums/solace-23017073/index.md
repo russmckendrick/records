@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/ahAECt4gqT_3PtJWn8fBQyKco3-b0AeEgza-op9o8bQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE3/MDczLTE2NTA5NzQ5/OTktMzE1MS5qcGVn.jpeg"
     - "https://i.discogs.com/_jaBr_f2MQzGycanLOj89sNmDtsK7V2lXSYsWuAzKg4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE3/MDczLTE2NTA5NzUw/MDktNDc2MC5qcGVn.jpeg"
     - "https://i.discogs.com/C2EKWY_7M4kY0xvIeeu0j7u0Ek6iRcHH0Pbe4CJv0cM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE3/MDczLTE2NTA5NzUw/MTgtNDA5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/OiH5B4f4eqE-yWgI3hojr1nidtrRCYzzAPhXbKN_8Lg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE3/MDczLTE2NTUxNjcz/MjItNjM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wKOo3KYjYpD-U14IAJOnFkk43GC4aJEZRcpQTiN1WQo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE3/MDczLTE2NTUxNjcz/MjItNjM2OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Experimental"]
 ---
@@ -38,7 +38,7 @@ styles: ["Post Rock", "Experimental"]
 8. The New Earth
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/solace/1615429505" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/solace/1692299278" >}}<br>
 
 
 ## Videos

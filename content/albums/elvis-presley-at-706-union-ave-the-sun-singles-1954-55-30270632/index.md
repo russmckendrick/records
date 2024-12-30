@@ -21,9 +21,9 @@ additional_images:
     - "https://i.discogs.com/rdxKMWHCiV4prbhHSUi1EIjaqEV2-q5c5CBTwq-_wUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtMzU4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/iYQiui4wsAf74ZidWpwSzwMXPqf8dCpIpNQe4qW1l9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtMzk2NC5qcGVn.jpeg"
     - "https://i.discogs.com/py3mJQfPyS8GnjiKYKaDN02ggdUNuuMuREN3DdWtjfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtMzQzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/sfDe-7_Ng-8TxA31YixvpcPCzwiO75dsPK2Wq2605rY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtODIxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/IEbmdosPpez-t_XYdQWXmkt2TXvIjRnAI4NSxWOm9HE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtODIxOS5qcGVn.jpeg"
     - "https://i.discogs.com/dFRKNHfkOsriWU_LDivZaeWMy4TeTVSa_4frv9ORqWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtODI3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/6zTxp_9vl1V7nL9_PicweKWz1S3f3xIlW5A6w6aa9y8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtODc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/T8E2hTX2mzzC9-kAb6fXQXlkYpdEjeSPpK3F7azuRZE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtODc0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/4iTPBchK9OnC5nr6JVCUAF3CprzCGKGgmEIOppEPRlI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjktMzEwMC5qcGVn.jpeg"
     - "https://i.discogs.com/UC02CmMa3Vyh9jT7JZx7Pr8Rc2dC5wQ7TlryDlTH9Dc/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjYtNzEyOC5qcGVn.jpeg"
     - "https://i.discogs.com/iI0cP4-m8fCMPwFQkAtr49q2HKbd16A7SOTeG67fQwM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtNjEzOC5qcGVn.jpeg"
@@ -36,7 +36,7 @@ additional_images:
     - "https://i.discogs.com/_6WGz1sj-bwJU6c1W-0iCG1SQ07eDBCs9v1_F5_C0hI/rs:fit/g:sm/q:90/h:398/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjMtNzM0NS5qcGVn.jpeg"
     - "https://i.discogs.com/7T8wG36NxO8DFLlOAsKoGt_SiNrTKU3p5Z9InF8wbWY/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjQtMTA2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/QVxesQ2KT5RlfKb8I1zsWm2RFRg2dhFd6BwtGy7R-Zc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjEtMzAzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/n5FRknJusYCdj9xE2Fjjr3Mb7qoZT2A2EgadtQJP6kg/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjctNzA5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/vh8ynZWvhehFoCPkYE0wZm1VYyPdklixZ_wcC_PTn4U/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjctNzA5NS5qcGVn.jpeg"
     - "https://i.discogs.com/zEIGuw78d2TI5IDuP9IDZiz8sFnzugGweZ2VBFQXjw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjctODQ0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ywagf8vtxvn5S-DN7RBadP8mbTtQvMtMf3nI56StVf4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjYtNzI5OC5qcGVn.jpeg"
     - "https://i.discogs.com/hpAGbDaiYuRAFaFNLk51PeG_C76q80_Fc2m7xRzHUfI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcw/NjMyLTE3MTI1NDky/MjYtOTQyNS5qcGVn.jpeg"
@@ -65,9 +65,6 @@ styles: ["Rock & Roll", "Rockabilly"]
 
 
 
-## Videos
-### Elvis Presley At 706 Union Ave. | The Sun Singles | Third Man Records VAULT Vinyl Box Set
-{{< youtube id="5dY7KSp7lGU" title="Elvis Presley At 706 Union Ave. | The Sun Singles | Third Man Records VAULT Vinyl Box Set" >}}<br>
 
 
 ## Release Images

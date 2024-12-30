@@ -13,17 +13,17 @@ cover:
     alt: "The Sciences by Sleep"
     caption: "The Sciences by Sleep"
 additional_images:
-    - "https://i.discogs.com/OZt50PAuh9SRp9vbF3ubhm3DOsimtSfI4L-CW4xxOAA/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtNzYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/LhAx99ayFp0mS3LoO4pIxYE_7YP_iH91nyVjibWCIqs/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtNzYxNC5qcGVn.jpeg"
     - "https://i.discogs.com/guL9REbYAhg1rPy3mMhg04B03tzlXrg6sAkoIN0vNIg/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzgtOTg0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/pDbGagbh4F2Q3q4JkEnSQwD-X1LArrIm3-j3dvXjgyU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzgtNTAxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/5uuY8NM4mkAr1TnNzKvxnurHdzYL2ayZ61CVXqwzcMc/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzgtNTAxOS5qcGVn.jpeg"
     - "https://i.discogs.com/ezlMskLHejs-vrjiszspO3m-AHP_dBvclIOyL2wG26s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzgtMTg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/FBiT6oJ26hE3pQx7NsM0S9wE1RF-nMv_R1B2bz-4hIY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODAtOTk1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/ulsQ1eGYfMvcrsgEy30NagttLazh8Ms01vyb2TZiB1k/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktMzA0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/PLzbFrWXMXFhXsi1FAQLFZrjrjqPLD1tre8lqHnVy2A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktOTY1My5qcGVn.jpeg"
+    - "https://i.discogs.com/fV2JOnB3D2lhtUFQ09JPu7SCIhuquvm_OjZu-EA4EvU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktMzA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/h0gGgyH6cRFFtEfYAmKUxZOatJBD-8uTF0ncmmSx3rY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktOTY1My5qcGVn.jpeg"
     - "https://i.discogs.com/AhRpvRRQWXAEFA-W5k8-8e0Okb0bijdqOugDhVmGv-M/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktNzkxMS5qcGVn.jpeg"
     - "https://i.discogs.com/XLWCHvWgcofbBCCB_GKEcaOA2laCOAoAKi_PZQePoEE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/NzktNzkwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/ZGLECCm6lbtZ6ViUbB8R2dN7JiKjQpVJ3jYHd3wAmBk/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtOTA1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/L8dbrtv05QUOR2dWavl-OLYSYiz7YCwGk5AMaUVNfoU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODAtODM0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/8YDdG548bFKcv6p3ugxR5EfZlzgz4LieRq7nlPC6c-c/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODEtOTA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1W4EviVUXVB8dY3Ni0jdXPiuZVCayKUwWB77TzYn6J0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjQ4NTA0/ODAtODM0NS5qcGVn.jpeg"
     - "https://i.discogs.com/p5okUHA5nhHbkwWGPpyhQdNdNl_8E9R3-kmFisQr1b8/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTItNTQ4MC5qcGVn.jpeg"
     - "https://i.discogs.com/Za64H6ursicwRZzTsyrxlTFyb5UagRKhSBybm6LvFfY/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTMtOTYyMS5qcGVn.jpeg"
     - "https://i.discogs.com/nUJ0TuZDyvYPNsG5cXrFSxpGwc_4WaQawgi83yJMPXM/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTQtMTM1NS5qcGVn.jpeg"
@@ -34,13 +34,14 @@ additional_images:
     - "https://i.discogs.com/C52ErxHwBexqAHWFRhlzifKa2GuXG9clKgPlJfFU7C4/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTQtMzE5MC5qcGVn.jpeg"
     - "https://i.discogs.com/ApsvpTFnTVE_EjFj7_9qcG4ze1RJzDDBmNRae0g-mUo/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTUtODcwNi5qcGVn.jpeg"
     - "https://i.discogs.com/e1SxzhHLgx_blwaE15f-w4Une4UJ_mbBN-cbiC6bbTM/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjUzMTI0/OTUtODUzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/Pfg3cGiZNroCe4A4iz46Kh0ryd9QCxjV_41A523va8k/rs:fit/g:sm/q:90/h:756/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjYwNTc3/NTMtNjM5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/2GBvUJX36wx72UKPo-NG9e75TwWkX3thVrXxgo9xByM/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/OTA4LTE1MjYwNTc3/NTMtNjM5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock", "Doom Metal"]
 ---
 
 Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same name. As though revving a long-dormant engine of feedback and distortion, it’s a fitting start to the legendary doom trio’s first album in almost two decades (released on 4/20, no less). Unlike their hour-plus stoner meditation, <i>Dopesmoker</i>, <i>The Sciences</i> is divided into six colossal tracks, anchored by the comforting familiarity of sludgy riffs and rumbling percussion. Throughout, you’ll find some of their greatest guitar solos (“Marijuanaut’s Theme”) and lyrics (“Giza Butler,” an homage to Black Sabbath’s Geezer Butler), while stunning, reflective closer “The Botanist” is among the best songs in their genre-defining career.
-    
+        
+        
     
 
 
@@ -73,6 +74,7 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Sciences |
 | Format         | Vinyl 2× LP Album Limited Edition (Green Translucent) |
 | Label          | Third Man Records |
 | Catalog Number | TMR 547 |

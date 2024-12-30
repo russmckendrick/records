@@ -16,26 +16,26 @@ additional_images:
     - "https://i.discogs.com/j51Zb5lzPyckRk4wwaCTmde7_pSP96BxTcBe3_F7vzM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NjYtOTI3NC5qcGVn.jpeg"
     - "https://i.discogs.com/Os7icM3nXDF8Dd0XdlPVpeONii8MApTPsL4bIrmYmxU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjM2/ODQtNDA4NC5qcGVn.jpeg"
     - "https://i.discogs.com/kjPL35xwHZ5oE7z-jdWFaPgX5ikuaFkuQfX5eN3AyOU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjM2/ODUtNTMyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/QwpRE8j7NMumDqnPewc17OUs3BWRMz8xK9-N3QnYpRI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NzEtMjc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/PJ6vv_1CQtPcNRElpj3yh_wGvAYBmMUELQze249Y_rE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NzEtMjc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/iuqCNRimcJWMjInvAq7rhP2HwPQcP2qx9ojRbR091Gs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NDMtMjI5OC5qcGVn.jpeg"
     - "https://i.discogs.com/5J70OvTMGEWgeEiiOj4ZD0Wc0kC9dNvji5rb1au_CmM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/MDMtMTg0MS5qcGVn.jpeg"
     - "https://i.discogs.com/qSh7Ipf1ugLWKGgnyqwhG2ShUMlMqr35C3dLXIPqlq8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/ODAtODA3NC5qcGVn.jpeg"
     - "https://i.discogs.com/ATo1K3ZK1vJmKuiuXCg_efQ_JFeLO3UvYXzQ2TCR1No/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/OTktNzIwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/jHrq9mq_xBSTtDLAen-su3Y1SE6pq1JKHOt_K6QVObg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NTktNTEzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/3C9xpt0_RTV_5zL3XVUpSnHLPBmiIBzwb19kYVFbYSY/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NDAtNDA3My5qcGVn.jpeg"
-    - "https://i.discogs.com/cnEXgf76jiiQqprP9GH6a0_lhKNWECqoTPFtiDps-0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/ODItMzQwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/A4cBpNDoAdyuZjTtE_MYh6tgaOkkCOwdahVjwf0J_7k/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/MTgtMjE2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/8tBIm-sWiu83RyS2Y8s-f_RH18-NqSR3AzhvKdUbwuI/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NzgtNjk3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/x_y_fFCre_HromONhP8jCuVTByo7h0Yi88zKYReLgUM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/MTktNjk4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/hSzgZLsb-8Ta425GR_Ug2ptx7L20JZMFUQDZ9dX1-CI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NjQtNDM5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/TYjJ41aK5LrYgz3l6xicgxibTFjJNpwORcHqxwTbHqw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NTEtODk5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/3VO40j1G2dIw1k-gsCKudgQhek66MhALxHau0Y3Dtkg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/OTUtMzE2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/EYeCSj4zxNUmUJbPpH8WoF8rcWP2Wn9oK8O0NUeqYrY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NTktNTEzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/X7a4xMXxs2fNmrAZZ8fapWmt4a_rxcG-ej-9F5GyUkY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NDAtNDA3My5qcGVn.jpeg"
+    - "https://i.discogs.com/rjjlnFXgouqKq5RDbcEvGgh0EmekVKepFiSlR1K4pQI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/ODItMzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/6JNf-0QzowShHkYu71jOltnM1YtMJRPCcTfwhnsbBqs/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/MTgtMjE2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/X4nDEWb7jtA97fgkbqrwNNRqO2golxk_ymAXxn6TRM4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NzgtNjk3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/GyEYpwoTITxeAjujFdt7dtuLY_fwVClQo7rTmlD-1ss/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/MTktNjk4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/KiIEZwlj1lXgvenaD11X-MVzdzglYqTBpY3Rdv6_GSQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NjQtNDM5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/lAj_qOigTBy0pSn-lxzHHYKQ5MAzyd_D1A5pZDWKrSg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/NTEtODk5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/cWBotnz8JWhvRDDMHqLQEn1iazI-9HK-RR-2Pn8V3rM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MTgyMjMw/OTUtMzE2MC5qcGVn.jpeg"
     - "https://i.discogs.com/hSSCFh-B6Vi22I7t_TPIScbH59HeiyNO58Gfrwn_s8U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUy/OTc2LTE2MjEwMDY1/MjktNDc2NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
-Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. The album contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with 3 songs from the band's (then) final show at Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
+Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with three songs from the band's (then) final show at the Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
 
 
     
@@ -73,6 +73,9 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. Th
 {{< applemusic url="https://music.apple.com/gb/album/octane-twisted-live/684102949" >}}<br>
 
 
+## Videos
+### Porcupine Tree - Octane Twisted/The Seance/Circle Of Manias (Lyrics)
+{{< youtube id="xEpsduO7Jm0" title="Porcupine Tree - Octane Twisted/The Seance/Circle Of Manias (Lyrics)" >}}<br>
 
 
 ## Release Images

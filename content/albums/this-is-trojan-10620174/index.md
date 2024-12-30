@@ -44,7 +44,7 @@ additional_images:
     - "https://i.discogs.com/PdsHG_VIbSeyu3gvMWUUhTQeQkHsXL2gQSALLZqXK7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/MTc0LTE1MTA2MzAx/ODItMjUwNy5wbmc.jpeg"
     - "https://i.discogs.com/pRoBG5ErLAmjzWiLUFfJqUyZMXFxnTopi0mQMdaggrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/MTc0LTE1MTA2MzAx/ODEtNjM1Mi5wbmc.jpeg"
     - "https://i.discogs.com/tkA_K6B-tZRG1ufTiRB9iqwu0nAY8qA0AK9zDeluJug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/MTc0LTE1MTA2MzAx/ODEtNzg0NC5wbmc.jpeg"
-    - "https://i.discogs.com/NzSFQAF5CiJUr2_7TsnfwaHTFxokIm54yIMKoSNDZ3M/rs:fit/g:sm/q:90/h:679/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/MTc0LTE1MTA2MzAx/ODAtMjgxMi5wbmc.jpeg"
+    - "https://i.discogs.com/M1Z8Ijt8CM8lvHk-VUNBQgC8YnlGAHOAiu01tf6J1O0/rs:fit/g:sm/q:90/h:600/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/MTc0LTE1MTA2MzAx/ODAtMjgxMi5wbmc.jpeg"
 genres: ["Reggae"]
 styles: ["Ska", "Rocksteady", "Reggae"]
 ---
@@ -117,10 +117,10 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 63. Reggae Merengue
 
 
-## Spotify
-{{< spotify type="album" id="5tA2nuPhQz0AVIzQtayJKi" width="100%" height="500" >}}<br>
 
-
+## Videos
+### Bob Andy & Marcia Griffiths - Young, Gifted and Black (Official Lyrics Video)
+{{< youtube id="r6YeFp-Qex8" title="Bob Andy & Marcia Griffiths - Young, Gifted and Black (Official Lyrics Video)" >}}<br>
 
 
 ## Release Images

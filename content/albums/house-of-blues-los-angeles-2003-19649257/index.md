@@ -46,7 +46,12 @@ styles: ["Prog Rock"]
 
 
 
+## Videos
+### Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]
+{{< youtube id="_3vHn79gP4Q" title="Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]" >}}<br>
+### More Videos
 
+- [Porcupine Tree - Live at the House of Blues, Los Angeles, 2003 [Official Vinyl]](https://www.youtube.com/watch?v=_3vHn79gP4Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +62,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue transparent) |
 | Label          | Transmission Recordings |
 | Catalog Number | Transmission 14.2 |
-| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.  Tracks listed sequentially on sleeve.   [Liner notes] Recorded live at the House of Blues, Los Angeles on 30th July 2003. Restored and remixed from the 24 track ADAT tapes in 2020.  (...) ℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.    |
+| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.  Tracks listed sequentially on sleeve.   The plating marks (1|, 1=, 1+, etc.) on runouts are mirrored.  [Liner notes] Recorded live at the House of Blues, Los Angeles on 30th July 2003. Restored and remixed from the 24 track ADAT tapes in 2020.  (...) ℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.    |
 | Discogs URL    | [Porcupine Tree - House Of Blues - Los Angeles 2003](https://www.discogs.com/release/19649257-Porcupine-Tree-House-Of-Blues-Los-Angeles-2003) |

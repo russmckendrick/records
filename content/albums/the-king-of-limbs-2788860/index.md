@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/q24IF3A6UwO6QXUDCwz-zV-e1LuMuVC_57dHHdTMnkY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTMwMTQxMzcz/NS5qcGVn.jpeg"
     - "https://i.discogs.com/UMjRUcUPuWHG_vdjrqBwNg5lJ5P2PL7pEIWZ0xbaVBA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTM5MTQ0NzIy/OC00MDc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/6y49Z3brbpPRQnqc9RLXQoTkDZg61liwXiWfBRmJh1Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTM5MTQ0Nzkx/MC03Njk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/1a3WnQAwtvuxAPC0x3RS1PTF7eJdxZbqN4G8rurUqpQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTM5MTQ0Nzkx/MC03Njk3LmpwZWc.jpeg"
     - "https://i.discogs.com/3Mq0qCQvf7bEgtqjTTp4ngwIUlXeLYDxSRdTvgE6XJ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTM5MTQ0Nzkz/Mi03MTMzLmpwZWc.jpeg"
     - "https://i.discogs.com/UxA0gkr3vl_oWmg4cgliLrNQGVqIulvfbUYAAniZCZk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTMwMTQ4MzEz/OC5qcGVn.jpeg"
     - "https://i.discogs.com/bngcPSjj5cT39lCNSxDUVQxlKmVWwoiRLgeWed18RmY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/NjAtMTM5MTQ0Nzg5/Mi0xOTIwLmpwZWc.jpeg"
@@ -24,12 +24,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract", "Downtempo", "Experimental"]
 ---
 
-The King of Limbs is the eighth studio album by the English rock band Radiohead. It was self-released on 18 February 2011 as a download, followed by a physical release on 28 March through XL Recordings internationally and TBD Records in North America.
-Following the more conventional instrumentation of In Rainbows (2007), The King of Limbs saw Radiohead move further from standard song structures and recording methods. They developed the album with their producer Nigel Godrich through sampling and looping; the singer, Thom Yorke, described it as "an expression of wildness and mutation". The artwork, by Yorke and his longtime collaborator Stanley Donwood, depicts nature and spirits inspired by fairy tales.
-Radiohead released no singles from The King of Limbs, but released a music video for "Lotus Flower" featuring Yorke's dancing that inspired an internet meme. In 2012, they began an international tour, with several festival appearances. To perform the complex rhythms live, they were joined by a second drummer, Clive Deamer. The European tour was postponed after the temporary stage collapsed in Toronto's Downsview Park, killing the technician Scott Johnson and injuring three others.
-Though its unconventional production and shorter length divided listeners, The King of Limbs was named one of the best albums of the year by publications including The Wire, NME and PopMatters. It was nominated in five categories at the 54th Annual Grammy Awards, including Best Alternative Music Album. The download version sold an estimated 300,000 to 400,000 copies in two months, and the vinyl became a bestseller in the UK. The retail edition debuted at number seven on the UK Albums Chart and number six on the US Billboard 200, making it the first Radiohead album not to achieve gold certification in the US. The King of Limbs was followed by the remix album TKOL RMX 1234567, the live video The King of Limbs: Live from the Basement, and the non-album singles "Supercollider" and "The Butcher".
+At the Reading Festival in the summer of 2009, Radiohead gave the people what they wanted. The group’s set began with “Creep”, the song that had nearly made Radiohead one-hit wonders, released on a debut album the band members had all but disavowed. The next 22 songs ran like a greatest-hits collage, as the band moved from the rock atmospherics of <i>The Bends</i> to the electronic abstractions of <i>Kid A</i>, from the aggressive polemics of <i>Hail to the Thief</i> to the delicate swells of <i>In Rainbows</i>. The performance felt like career capstone for a group frequently cited as one of the most important in rock. “It was kind of like, ‘Well, that’s that; don’t need to go there again now,’” singer Thom Yorke remembered a few years later. “So there was a lot of... ‘Well, OK, if we are gonna carry on, we need to do it for a new set of reasons.’”
 
+This restlessness was a standard refrain for Radiohead, of course; this is a band that’s spent years toggling between sounds and styles. But the sessions the group members started that summer with long-time producer Nigel Godrich proved especially fraught as they searched for the next direction. Though Yorke had a few elliptical strummers in process, they weren’t quite working for his bandmates. So they took the tapes and dumped them into digital files, which they began to dig through like hip-hop producers, looking for little bits they could loop in order to build something bigger. “You had to simplify what you were doing,” guitarist Ed O’Brien remembered. “You couldn’t do loads of ideas.” Slowly and painstakingly, then, they amassed <i>The King of Limbs</i>, featuring eight tracks that asked, once again, what it meant to be Radiohead at all.
 
+The big thematic ideas of Radiohead’s albums yield to a vague sense of displacement on <i>The King of Limbs</i>—a feeling of planned obsolescence for ordinary people. Yorke’s words hang as drapery over the tightly wound rhythms of opener “Bloom”, in which icy electronics linger in the distance like spectres. He swivels inside of the percolating bass and drums of “Lotus Flower”, his falsetto filling the space between the beats with pure longing. Meanwhile, “Morning Mr. Magpie” buckles and jerks like Afrobeat, reduced to the scale of a rock band fretting for the future.
+
+There are more straightforward moments here, especially the piano ache of “Codex”, but the overriding feeling of <i>The King of Limbs</i> is one of willful transition, of the band members recognising that their venerated past is only useful as a springboard into a future they were very much trying to stake. “If you think this is over,” Yorke sings over chiming guitars and skittering bits at the end, “then you’re wrong.” This is Radiohead, once again, pushing for the vanguard.
         
         
     
@@ -49,7 +50,18 @@ Though its unconventional production and shorter length divided listeners, The K
 {{< applemusic url="https://music.apple.com/gb/album/the-king-of-limbs/1109714965" >}}<br>
 
 
+## Videos
+### Bloom
+{{< youtube id="IxBQ8Er8DYc" title="Bloom" >}}<br>
+### More Videos
 
+- [Morning Mr Magpie](https://www.youtube.com/watch?v=gM9GSuWpM94)
+- [Little By Little](https://www.youtube.com/watch?v=5c1lulf5Fkw)
+- [Feral](https://www.youtube.com/watch?v=pxXSlEj_1hk)
+- [Radiohead - Lotus flower (HQ)](https://www.youtube.com/watch?v=gMA5jdxPL4s)
+- [Codex](https://www.youtube.com/watch?v=T7t38uDUg5E)
+- [Give Up The Ghost](https://www.youtube.com/watch?v=QGGb7o7EbFs)
+- [Separator](https://www.youtube.com/watch?v=KmpzIU301VU)
 
 ## Release Images
 {{< imageGrid >}}

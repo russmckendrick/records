@@ -13,7 +13,7 @@ cover:
     alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
     caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
 additional_images:
-    - "https://i.discogs.com/-teIDTwLB0xFhk2esn3K6wR4f84w6ChtOF7ONi0jRx4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/KKZdvpp6clCzTNxIuMA5GC8vnp1dS6-AMuRdG9cB1BY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTY2NDM1NTE4/MS04MzA3LmpwZWc.jpeg"
     - "https://i.discogs.com/zm4SfMdiWCx9c7wNpgYHQ98t-5kyhiurjJjrZni2cmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ2MjA1OTk1/Ni0xMTk2LmpwZWc.jpeg"
     - "https://i.discogs.com/Auf4NdrSfAYk5FrVFoEEF7UGrQwYfjrjR37D8QRkFrU/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ5MTU4ODE3/My02MDMwLmpwZWc.jpeg"
     - "https://i.discogs.com/MDOy1kepR7s1ZRtEw0lEggQ0SecwHTnnFJwfpkXDLuU/rs:fit/g:sm/q:90/h:598/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ5MTU4ODE3/NC00MDQ1LmpwZWc.jpeg"
@@ -44,28 +44,16 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 14. Jamming (3:17)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-the-wailers-2002-edition/1469575763" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-and-the-wailers-deluxe-edition/1496696597" >}}<br>
 
 
 ## Videos
-### Legend  Bob Marley Cd completo Hd  Remastered
-{{< youtube id="hUzeGvg0pOg" title="Legend  Bob Marley Cd completo Hd  Remastered" >}}<br>
+### Bob Marley & The Wailers – Could You Be Loved 12"
+{{< youtube id="3QUU_qqwkfo" title="Bob Marley & The Wailers – Could You Be Loved 12"" >}}<br>
 ### More Videos
 
-- [Bob Marley & The Wailers - Is This Love](https://www.youtube.com/watch?v=FIsuGbF3g0g)
-- [Bob Marley & The Wailers - No Woman No Cry](https://www.youtube.com/watch?v=uH-Ysg8xVwY)
-- [Bob Marley & The Wailers - Could You Be Loved](https://www.youtube.com/watch?v=pNc36Kbm7F0)
-- [Bob Marley & The Wailers - Three Little Birds](https://www.youtube.com/watch?v=mvzXk_iivZE)
-- [Bob Marley & The Wailers - Buffalo Soldier](https://www.youtube.com/watch?v=OqWAWtbMSis)
-- [Bob Marley & The Wailers - Get Up Stand Up](https://www.youtube.com/watch?v=BElFYqtEUv0)
-- [Bob Marley & The Wailers - Stir It Up](https://www.youtube.com/watch?v=w8Mpnav5Vx4)
-- [Bob Marley & The Wailers - One Love / People Get Ready](https://www.youtube.com/watch?v=t3uiLFuotuo)
-- [Bob Marley & The Wailers - I Shot The Sheriff](https://www.youtube.com/watch?v=J7cbLDQv-p8)
-- [Bob Marley & The Wailers - Waiting In Vain](https://www.youtube.com/watch?v=NVOOGWTbXmg)
-- [Bob Marley & The Wailers - Redemption Song](https://www.youtube.com/watch?v=Bbevgb3-MTs)
-- [Bob Marley & The Wailers - Satisfy My Soul](https://www.youtube.com/watch?v=yi3nNiEI8ZI)
-- [Bob Marley & The Wailers - Exodus](https://www.youtube.com/watch?v=QR4cb7tz2Eo)
-- [Bob Marley & The Wailers - Jamming](https://www.youtube.com/watch?v=E31D3IPkSz0)
+- [Bob Marley - One Love 1984 (Official Music Video) Remastered @Videos80s](https://www.youtube.com/watch?v=-cY0MR-Ddd0)
+- [BOB MARLEY & THE WAILERS ~ One Love / People Get Ready](https://www.youtube.com/watch?v=VsnUMAjTr8o)
 
 ## Release Images
 {{< imageGrid >}}

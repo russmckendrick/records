@@ -22,7 +22,7 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 ---
 
-Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it imagines Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
+Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it presents Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
 The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.
     
     
@@ -47,7 +47,6 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 {{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}<br>
 ### More Videos
 
-- [MUDDY WATERS - Tom Cat PSYCH/BLUES (1968)](https://www.youtube.com/watch?v=NVOGKQIds3g)
 - [[I'm Your] Hoochie Coochie Man](https://www.youtube.com/watch?v=GTRuU_PHdzI)
 - [Let's Spend The Night Together](https://www.youtube.com/watch?v=1Oza295_pkY)
 - [She's Alright](https://www.youtube.com/watch?v=nsDDwJjIA58)
