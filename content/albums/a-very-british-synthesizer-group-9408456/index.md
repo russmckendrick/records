@@ -12,8 +12,8 @@ cover:
     alt: "A Very British Synthesizer Group by The Human League"
     caption: "A Very British Synthesizer Group by The Human League"
 additional_images:
-    - "https://i.discogs.com/-rjyHStP_Hc0AKGkXwwbEyIGr-CDgXST9STkpyXkG0M/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/My00NDQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZfKPDx2CixzWo3WxI30QaTDufUvRf6LzntPKDrKdpuM/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/Ni0yNjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/HfjRikJQQphayBG305CNFnAo0o-0K8iM-a-jEHqJ3Ac/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/My00NDQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/G9PdaxgyEWSHYq-kGo2Eo_8WJKIZIbFVVk_KMaa62qo/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/Ni0yNjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/T0J-UYrCFgsQTwoCFVrGlj4W9Rzp70f5_jJKJmaTrng/rs:fit/g:sm/q:90/h:364/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDg0/NTYtMTQ4MDA1Mjc4/My03MDMzLmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
@@ -54,7 +54,7 @@ styles: ["Synth-pop"]
 30. Sky (Radio Edit) (3:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-super/1443093911" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-deluxe-edition/1443148659" >}}<br>
 
 
 ## Videos
@@ -63,15 +63,29 @@ styles: ["Synth-pop"]
 ### More Videos
 
 - [Soundtrack To A Generation (Edit)](https://www.youtube.com/watch?v=Uh4KgDyJ0t4)
-- [Jupiter 4c (Early Version Of Sky)](https://www.youtube.com/watch?v=WIse_jyk2pM)
-- [SH5 (Early Version Of Liar)](https://www.youtube.com/watch?v=xmc_zKeTNRo)
-- [Stylopops You Broke My Heart (Early Version Of Marianne)](https://www.youtube.com/watch?v=l7Rk0tfld_A)
-- [No Time (Early Version Of The Word Before Last)](https://www.youtube.com/watch?v=WsvCxaLpI3s)
-- [New Start (Early Version Of All I Ever Wanted)](https://www.youtube.com/watch?v=sSMS03KO014)
+- [Jupiter 4c (Early Version Of "Sky")](https://www.youtube.com/watch?v=WIse_jyk2pM)
+- [SH5 (Early Version Of "Liar")](https://www.youtube.com/watch?v=xmc_zKeTNRo)
+- [Stylopops You Broke My Heart (Early Version Of "Marianne")](https://www.youtube.com/watch?v=l7Rk0tfld_A)
+- [No Time (Early Version Of "The Word Before Last")](https://www.youtube.com/watch?v=WsvCxaLpI3s)
+- [New Start (Early Version Of "All I Ever Wanted")](https://www.youtube.com/watch?v=sSMS03KO014)
 - [A Doorway (Early Version)](https://www.youtube.com/watch?v=XlKD0c1RTMs)
 - [Nightclubbing](https://www.youtube.com/watch?v=OQl06F6UeMU)
 - [The Path Of Least Resistance (Early Version)](https://www.youtube.com/watch?v=W5M9XXs0VAA)
-- [Give It Back (Early Version Of Houseful of Nothing)](https://www.youtube.com/watch?v=YkdEtNDs-7A)
+- [Give It Back (Early Version Of "Houseful of Nothing")](https://www.youtube.com/watch?v=YkdEtNDs-7A)
+- [Darkness (Early Version)](https://www.youtube.com/watch?v=hZ4C-NyJcjY)
+- [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
+- [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)
+- [The Human League - Being Boiled (Fast Version)](https://www.youtube.com/watch?v=neuLu1MMl5M)
+- [Soundtrack To A Generation (Edit)](https://www.youtube.com/watch?v=Uh4KgDyJ0t4)
+- [Jupiter 4c (Early Version Of "Sky")](https://www.youtube.com/watch?v=WIse_jyk2pM)
+- [SH5 (Early Version Of "Liar")](https://www.youtube.com/watch?v=xmc_zKeTNRo)
+- [Stylopops You Broke My Heart (Early Version Of "Marianne")](https://www.youtube.com/watch?v=l7Rk0tfld_A)
+- [No Time (Early Version Of "The Word Before Last")](https://www.youtube.com/watch?v=WsvCxaLpI3s)
+- [New Start (Early Version Of "All I Ever Wanted")](https://www.youtube.com/watch?v=sSMS03KO014)
+- [A Doorway (Early Version)](https://www.youtube.com/watch?v=XlKD0c1RTMs)
+- [Nightclubbing](https://www.youtube.com/watch?v=OQl06F6UeMU)
+- [The Path Of Least Resistance (Early Version)](https://www.youtube.com/watch?v=W5M9XXs0VAA)
+- [Give It Back (Early Version Of "Houseful of Nothing")](https://www.youtube.com/watch?v=YkdEtNDs-7A)
 - [Darkness (Early Version)](https://www.youtube.com/watch?v=hZ4C-NyJcjY)
 - [[Keep Feeling] Fascination](https://www.youtube.com/watch?v=Y2ENOHNZCNQ)
 - [Love On The Run (Early Version)](https://www.youtube.com/watch?v=jFPAHPv9CyU)

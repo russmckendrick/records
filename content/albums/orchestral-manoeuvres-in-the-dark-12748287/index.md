@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/boXXJlqJqYQoCthPl8s4BHCUtrrUWAhylNzbi2f1GoU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjAz/NzktOTQyNS5qcGVn.jpeg"
     - "https://i.discogs.com/NCTK5qXXq_vp17ElM7rU38xoZkQ2-vo-8eY42aEBhUI/rs:fit/g:sm/q:90/h:18/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA1/NDgtMTMwNC5qcGVn.jpeg"
     - "https://i.discogs.com/2wVl1WhdDrvCwujtqSE8cgm7HBDQW5cs2WGp1ORDBnM/rs:fit/g:sm/q:90/h:57/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA1/NDgtOTc5My5qcGVn.jpeg"
-    - "https://i.discogs.com/umXaOkAnxl-FFuyogHjiP4cBrmBk4lhTeX3tamd3z-g/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA4/ODItOTc3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WVqSDOOTrSWbbE4TRXKIWuXUe6rEd8sH2nt2uKqFbdo/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA4/ODItOTc3OC5qcGVn.jpeg"
     - "https://i.discogs.com/hgu1-aznC_B0KinXtkcf1NL5g0s_18GM7bHlVc8u7fc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjEz/NDQtNjA4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/4ptTGuFFJn0UjwxSxFjtY73whmCtx3T4-xg0lp4E6ho/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA4/OTYtMzAwOC5qcGVn.jpeg"
     - "https://i.discogs.com/-aTz4fLFQxGe27Tb0cCGPQHeI64exiX-He1E43t6EUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/Mjg3LTE1NjIyMjA4/OTctOTIzNy5qcGVn.jpeg"
@@ -25,8 +25,11 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-"Electricity" is the 1979 debut single by English electronic band Orchestral Manoeuvres in the Dark (OMD), featured on their eponymous debut album the following year. Andy McCluskey and Paul Humphreys sing the lead vocals on the track together in unison. Recognised as one of the most influential singles of its era, "Electricity" was integral to the rise of the UK's synth-pop movement. It has garnered praise from music journalists and other recording artists.
-The track is a holdover from defunct Wirral group the Id (who were led by McCluskey and Humphreys), and features a melodic synthesizer break as opposed to a sung chorus. Following OMD's release of "Electricity" on Factory Records, the band were offered a recording contract with Dindisc, who twice re-issued the single. It achieved limited success on the UK Singles Chart, peaking at no. 99 in early 1980, but found popularity in nightclubs. A 2019 re-release, through Virgin EMI, topped the UK Vinyl Singles Chart.
+Orchestral Manoeuvres in the Dark is the debut studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 22 February 1980 by Dindisc. Recorded at the group's Liverpool studio, it showcased their minimal synth-pop style and peaked at number 27 on the UK Albums Chart. "Electricity" and "Red Frame/White Light" were released as singles; a re-recorded version of "Messages" provided OMD with their first hit in the UK, reaching number 13.
+Much of the album's content centres around war themes, with OMD exploring "the lengths to which people would go in a situation beyond the norm". A sleeper hit, Orchestral Manoeuvres in the Dark met with favourable reviews and became a seminal record of its era. The band expressed dissatisfaction with their production efforts on the album, although frontman Andy McCluskey later came to appreciate its "naivety". It was remastered and re-released in 2003 with six bonus tracks, including the single version of "Messages".
+Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album of tracks from this release and OMD's second album, Organisation, issued only in the United States.
+
+
     
     
 
@@ -48,23 +51,27 @@ The track is a holdover from defunct Wirral group the Id (who were led by McClus
 
 
 ## Videos
-### Orchestral Manoeuvres In The Dark - Electricity (1979)
-{{< youtube id="7qKSJIsQN1Y" title="Orchestral Manoeuvres In The Dark - Electricity (1979)" >}}<br>
+### Orchestral Manoeuvres in the Dark - Bunker Soldiers
+{{< youtube id="ko6WAw3xcjc" title="Orchestral Manoeuvres in the Dark - Bunker Soldiers" >}}<br>
 ### More Videos
 
-- [Bunker Soldiers (Remastered 2003)](https://www.youtube.com/watch?v=IRqfQcHI6EQ)
-- [Almost (Remastered 2003)](https://www.youtube.com/watch?v=s0oGOVDMZOo)
+- [Orchestral Manoeuvres In The Dark - Electricity](https://www.youtube.com/watch?v=Y43XLVqjytQ)
+- [Orchestral Manoeuvres In The Dark - Red Frame/White Light](https://www.youtube.com/watch?v=v5N46p2aU68)
+- [JULIA'S SONG O.M.D](https://www.youtube.com/watch?v=l44apl34Pcg)
+- [Orchestral Manoeuvres in the Dark - Pretending To See The Future + Lyrics](https://www.youtube.com/watch?v=2SPeWjye-vg)
+- [Orchestral Manoeuvres In The Dark - Electricity (1979)](https://www.youtube.com/watch?v=7qKSJIsQN1Y)
+- [Orchestral Manoeuvres in the Dark - Bunker Soldiers](https://www.youtube.com/watch?v=ko6WAw3xcjc)
+- [Red Frame/White Light (Remastered 2003)](https://www.youtube.com/watch?v=fibz9Z0IXYA)
+- [Messages](https://www.youtube.com/watch?v=NSmJEGpZDI8)
+- [Taking Sides Again (Remastered 2003)](https://www.youtube.com/watch?v=STMujfrPghs)
 - [Mystereality (Remastered 2003)](https://www.youtube.com/watch?v=Lfs2ZKPlU0Y)
 - [Electricity (Remastered 2003)](https://www.youtube.com/watch?v=SJpX-wNgZ00)
 - [The Messerschmitt Twins (Remastered 2003)](https://www.youtube.com/watch?v=z_oVRJ088BE)
 - [Messages (Remastered 2003)](https://www.youtube.com/watch?v=6P4ELM0nB9M)
 - [Julia's Song (Remastered 2003)](https://www.youtube.com/watch?v=M2irYat2wf4)
-- [Red Frame/White Light (Remastered 2003)](https://www.youtube.com/watch?v=fibz9Z0IXYA)
 - [Dancing (Remastered 2003)](https://www.youtube.com/watch?v=VVaDw5zU9do)
 - [Pretending To See The Future (Remastered 2003)](https://www.youtube.com/watch?v=1YXu7vRJ5tA)
-- [Messages](https://www.youtube.com/watch?v=NSmJEGpZDI8)
 - [I Betray My Friends (Remastered 2003)](https://www.youtube.com/watch?v=W4FL4SOBwh8)
-- [Taking Sides Again (Remastered 2003)](https://www.youtube.com/watch?v=STMujfrPghs)
 - [Waiting For The Man (Remastered 2003)](https://www.youtube.com/watch?v=k5bQ9BL5NTc)
 - [Electricity (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=n2-RNug1XoI)
 - [Almost (Hannett/Cargo Studios Version / Remastered 2003)](https://www.youtube.com/watch?v=e9LDb3bgq3c)
@@ -75,7 +82,7 @@ The track is a holdover from defunct Wirral group the Id (who were led by McClus
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Electricity_(Orchestral_Manoeuvres_in_the_Dark_song) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark_(album) |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 602557050806 |

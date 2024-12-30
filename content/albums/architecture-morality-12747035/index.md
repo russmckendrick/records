@@ -12,11 +12,11 @@ cover:
     alt: "Architecture & Morality by Orchestral Manoeuvres In The Dark"
     caption: "Architecture & Morality by Orchestral Manoeuvres In The Dark"
 additional_images:
-    - "https://i.discogs.com/_8F9z4-Qo8IIvO6KIvnp_1d8xk1SBBJW6cSz43lRH-8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtMjQ4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ctEC7fRTvQgjzJ6qSXuriXHXDupM50O4xwzYpXVONV4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtMjQ4NC5qcGVn.jpeg"
     - "https://i.discogs.com/8gYZ4Y4GlazUHOKkh0jszQ_KmxrDv3oB8csjS1uO-lM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtNjk2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/0mPQsg2m1K13CeA6e4n--0ERcSRn3RDfAKIWR0J65bo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtNDcwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/KPjmVR9w_jdxUgYbS17xBWz0f2slA-p6oGTCBD6QTx8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtMzQ3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/bhTsR_bZbWEyyr_cF0XxiYC4PXzw93dqnWCbizT-EpY/rs:fit/g:sm/q:90/h:812/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtOTQxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/rpIGl-xpT0eMHpvpT96GbOhjiEKaK-zBoclYxt9D6UA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtNDcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/qUPlKZMGplr_xbw13YIyHRuNuf301QZPKncxDr0bXrs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtMzQ3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/UPxRihIvNvXhVgshL_nio1WW1LPtY1_D0mwWKsKWbmM/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ3/MDM1LTE1NjYwNjk1/NDQtOTQxNC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -35,17 +35,18 @@ styles: ["Synth-pop"]
 9. The Beginning And The End
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/architecture-morality/714757729" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
 ## Videos
-### Orchestral Manoeuvres In The Dark - Souvenir
-{{< youtube id="XDIYOiQUi2s" title="Orchestral Manoeuvres In The Dark - Souvenir" >}}<br>
+### O M D - 1981 /Album
+{{< youtube id="wM21B0jwLUc" title="O M D - 1981 /Album" >}}<br>
 ### More Videos
 
 - [Orchestral Manoeuvres In The Dark - Maid Of Orleans](https://www.youtube.com/watch?v=vmwMhjbThKg)
-- [The New Stone Age (2003 Digital Remaster)](https://www.youtube.com/watch?v=PiLwEIDJSCM)
+- [Orchestral Manoeuvres In The Dark - Souvenir](https://www.youtube.com/watch?v=XDIYOiQUi2s)
 - [She's Leaving (2003 Digital Remaster)](https://www.youtube.com/watch?v=NDJHfe2sklI)
+- [The New Stone Age (2003 Digital Remaster)](https://www.youtube.com/watch?v=PiLwEIDJSCM)
 - [Souvenir (Remastered 2003)](https://www.youtube.com/watch?v=L_qDgw6YIMU)
 - [Sealand (2003 Digital Remaster)](https://www.youtube.com/watch?v=t_he2hubqNo)
 - [Joan Of Arc (Remastered)](https://www.youtube.com/watch?v=I_KR2QnjCM8)

@@ -17,24 +17,29 @@ additional_images:
     - "https://i.discogs.com/Vd4ZeewyfALZs-NX9mqJdKU00o7TfRv56r0sY5LJeBs/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtMTE3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/IqQtJqO6DhNGp1GBUoVLGcWGjL2zdM5o8mUvrbXCyUc/rs:fit/g:sm/q:90/h:187/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtNzk0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sEWr3d-naTa7xgugcXDFolXm2m6zp4XhQeQ6F4GvEtI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtMzE2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Q5YyV7__aZtjVJ5Yg6esgVZk2c8X-xHWaDN018LsWPA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtNDc1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/VzKVyOyztc2rs8ACGJSj-sjMyLs0cZse4ecaiILq7fU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtNDc1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/YUbTX6umrT9GF4JF7_H4loNn4goiK4ZRF58glsDjeMk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtMzQyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/lO78eAQdTk7h4XODKCocruFP9vC54Xc2R07fPDgeYXw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtODg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/VbIzyzQ97JRmZNwF4UD93BkxMyE7L2rKHXt8hRVUnyA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtOTYyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/JOOce1I7-lHmx6TcfyCD_gNQDxTGOJcER_EX08AHq0k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtMzYzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/lXOX44UR4la27CPTDXwqfXbusWwlYGftomRSm5JzXJ0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtODg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/SeuyycqV5YT_guv4IPeRnsej5JCQoggqmjDZNIWoGEk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtOTYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/pQASvmGfWdK3ntEKnsuLcXzn9mtPa9DU7yLMEKC4Sq0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtMzYzMi5qcGVn.jpeg"
     - "https://i.discogs.com/xp7rVbvmctNtPKz6e9ZB8wFcLAsOfKtytpqMyLUvz0E/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtMjM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/cSzhcqpT5atTp3hYZ2uBSrX3Gb2RBdiD8f1KOSWW-zw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtMTQyOS5qcGVn.jpeg"
     - "https://i.discogs.com/j8C_SYonbW8jLQKXGEOHtcF8frugbrZBmsaTqUse35A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtMjQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/9GeSbPkIR3WevvDqFgneS9WLAuHbnzR0tHCuHPVzMJs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtODcxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/tyJu-U3PWC_E24HniiVcwqF4COh1WF00UjdgVUYsNww/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTUtODcxMy5qcGVn.jpeg"
     - "https://i.discogs.com/_ZrW7Eb4ywwdxhO1hqhx0VhY3ASAtisoaTwJMN9SuYI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtOTQyMi5qcGVn.jpeg"
     - "https://i.discogs.com/o21Mb7XyB5IiElsXMRHVpqn-w9xYoVRQRXJJfCdDaJE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NTQtODA1My5qcGVn.jpeg"
-    - "https://i.discogs.com/Nq82r0RlYOX7HE_GaLK-B1fG9MxP8HhsMlYqpK5hh3Q/rs:fit/g:sm/q:90/h:824/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NzEtNjg0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/V67zahwYPOp17T4M29lnYKVsT6GdzJpT3k0nXuQ-008/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NzEtNjg0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/mMcm823mPxzt-4Gos3cqJlGGNM7Y-PVW6tiDwMgzEmY/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NzEtNjg4NS5qcGVn.jpeg"
     - "https://i.discogs.com/rZ2e1HPTqukzR9qSZGUghVFdh-xQS4wdA12EzdXoQ2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MjE1LTE1NzM5MzIz/NzEtMjUwNy5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
+A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token of remembrance is an object a person acquires for the memories the owner associates with it. A souvenir can be any object that can be collected or purchased and transported home by the traveler as a memento of a visit. The object itself may have intrinsic value, or be a symbol of experience. Without the owner's input, the symbolic meaning is lost and cannot be articulated.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -80,7 +85,7 @@ styles: ["Synth-pop"]
 40. Don't Go
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/souvenir/1475850622" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
 ## Videos
@@ -94,6 +99,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Souvenir |
 | Format         | Vinyl 3× LP Compilation (180 Gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 7743914 |

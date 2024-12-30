@@ -22,7 +22,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
 
-Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US).
+Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released on 21 October 1985 by record label Virgin (A&M in the US),  Once Upon a Time topped the UK charts, and peaked at No. 10 on the US charts, spending five consecutive weeks in the Top 10 of Billboard and 16 weeks in the Top 20.
     
     
 
@@ -42,13 +42,16 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 
 
 ## Videos
-### Simple Minds Once Upon a Time
-{{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}<br>
+### Simple Minds Alive and Kicking.
+{{< youtube id="EK08XU4VaLQ" title="Simple Minds Alive and Kicking." >}}<br>
 ### More Videos
 
-- [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
-- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
+- [Simple Minds - Alive And Kicking (HD/lyrics)](https://www.youtube.com/watch?v=4MsV45E-P-E)
+- [Simple Minds - Alive & Kicking (1985 LP Version) HQ](https://www.youtube.com/watch?v=WEvHl3SU6U0)
+- [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
+- [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
+- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 
 ## Release Images
 {{< imageGrid >}}

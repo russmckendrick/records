@@ -23,8 +23,8 @@ additional_images:
     - "https://i.discogs.com/rWrrlQdPKENRX9kJL1eDXLD-JbZkjdOlNPgnSmzcoWk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODgtNjUxOS5qcGVn.jpeg"
     - "https://i.discogs.com/f8Y7e3UUFkp4HwkvMkvAKvtbvv7pkwbgyLNX7cpGlWc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODUtOTMyNi5qcGVn.jpeg"
     - "https://i.discogs.com/0ZyYt4CC3cCFKztU0zbGWL7pXRJ5N4RzacAd6NJ9T6o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODgtODM1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Q9tNS80bT25nNWu-2OZr6D8BghT7hkcMo9YJjxlTjT8/rs:fit/g:sm/q:90/h:854/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODYtNzQxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/Z7HsnW9TMDRhiyoOBijkH-UvhZ_aHrFM5Wdc9eTUOYY/rs:fit/g:sm/q:90/h:847/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODYtODkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/-HMwR25siY2xWWD5qjVkG6vFmbnmEQsb0hgILNKQRH4/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODYtNzQxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/YdUJUOqu9ecQtiNmrw6i5TqCjM9_djpNmpW1yFFGouE/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/MDUxLTE2NjUxNzg4/ODYtODkwNi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
@@ -59,24 +59,21 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 
 
 ## Videos
-### Quiet Life
-{{< youtube id="WJGzrTfVwVk" title="Quiet Life" >}}<br>
+### Methods Of Dance
+{{< youtube id="jGV8NRwJcU4" title="Methods Of Dance" >}}<br>
 ### More Videos
 
-- [Methods Of Dance](https://www.youtube.com/watch?v=jGV8NRwJcU4)
-- [Sons Of Pioneers (2003 Digital Remaster)](https://www.youtube.com/watch?v=aEf38uz6FuQ)
-- [Swing (Remastered 2003)](https://www.youtube.com/watch?v=ahtyVegPVjE)
-- [Gentlemen Take Polaroids](https://www.youtube.com/watch?v=SlyI2isjAas)
-- [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
+- [Quiet Life](https://www.youtube.com/watch?v=WJGzrTfVwVk)
 - [Nightporter](https://www.youtube.com/watch?v=mKsY_dEjwtQ)
+- [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)
 - [My New Career](https://www.youtube.com/watch?v=JEp3AQhhwnc)
 - [The Other Side Of Life](https://www.youtube.com/watch?v=i4J3zPy3iLE)
-- [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)
-- [Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)](https://www.youtube.com/watch?v=-EA4vEYRZTk)
 - [Ghosts](https://www.youtube.com/watch?v=ZK8DBICAWFs)
 - [Life Without Buildings](https://www.youtube.com/watch?v=8dhgiDNhG9k)
 - [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
-- [The Art Of Parties](https://www.youtube.com/watch?v=KKXdKGYAnt4)
+- [Taking Islands In Africa (Steve Nye Remix / 2003 Digital Remaster)](https://www.youtube.com/watch?v=-EA4vEYRZTk)
+- [Gentlemen Take Polaroids (Remastered 2003)](https://www.youtube.com/watch?v=Yf9JA-IHwvo)
+- [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -43,7 +43,14 @@ Return to Ommadawn is the twenty-sixth and final studio album by English musicia
 {{< applemusic url="https://music.apple.com/gb/album/return-to-ommadawn/1440893253" >}}<br>
 
 
+## Videos
+### Mike Oldfield - Return to Ommadawn (2017) [2K - 1440p] - Full album
+{{< youtube id="R-nptvm9-hE" title="Mike Oldfield - Return to Ommadawn (2017) [2K - 1440p] - Full album" >}}<br>
+### More Videos
 
+- [Mike Oldfield’s Stream (Theme From Return To Ommadawn Pt. 1)](https://www.youtube.com/watch?v=wqKLG5OlC-E)
+- [Mike Oldfield - Return to Ommadawn (2017) [2K - 1440p] - Full album](https://www.youtube.com/watch?v=R-nptvm9-hE)
+- [Mike Oldfield - Return to Ommadawn (2017) [2K - 1440p] - Full album](https://www.youtube.com/watch?v=R-nptvm9-hE)
 
 ## Release Images
 {{< imageGrid >}}
