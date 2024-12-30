@@ -41,54 +41,59 @@ additional_images:
     - "https://i.discogs.com/CShH8P1-OXvOrgpaZUefSi-oJBmJhq05sHMZr_gsU3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTYyNzQ5NDIy/NC04MTc5LmpwZWc.jpeg"
     - "https://i.discogs.com/XCaqgU8tDNdGNKjDbQ24j6ICTtP4BO53Aj9YhKqIbWI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTM4MjA5NTUy/Mi05MDU1LmpwZWc.jpeg"
     - "https://i.discogs.com/1rP6S6dGlGK-W45jJtX65jD66v06NjQnuHJkHwyPcVA/rs:fit/g:sm/q:90/h:60/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTYyNzQ5NDIy/NC04NDE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/zfZpE-KJem0jloLkANe_bGGMaNaSJ5rckoq8lNlb28w/rs:fit/g:sm/q:90/h:711/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTYyNzQ5NDIy/My00MzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/gsiboDRqziDcgCzBFMmW9uvpTYzERlirMJCxWw5vsOk/rs:fit/g:sm/q:90/h:600/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTYyNzQ5NDIy/My00MzM0LmpwZWc.jpeg"
     - "https://i.discogs.com/uSJVsh5KF_QrNU6UPVp1DUYUyIlH8PGI-ko0MibZFG0/rs:fit/g:sm/q:90/h:246/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0NzcyOTU5/Ni04OTU2LmpwZWc.jpeg"
     - "https://i.discogs.com/umD1ekHo-hpJq-gHzrSUy07nAynxGykk-YLtTspFVXg/rs:fit/g:sm/q:90/h:74/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0NzcyOTYx/MS05NTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/1LM9mT9Mp8bKK1nykEZqZD83HSapVjogb1wksJ9D7js/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTYyNzQ5NDA3/OS01NzcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/6mx7h1XWTdxHNDCUOcZPnU-0MLt-PddtLDnArakCwAI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTcwMDM0OTk5/OC03NTA1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Mellon Collie and the Infinite Sadness is the third studio album by American alternative rock band the Smashing Pumpkins, released on October 24, 1995, in the United Kingdom and a day later in the United States on Virgin Records. Produced by frontman Billy Corgan with Flood and Alan Moulder, the 28-track album was released as a two-disc CD and triple LP. It features a wide array of musical styles.
-Propelled by its lead single "Bullet with Butterfly Wings", the album debuted at number one on the US Billboard 200 with first-week sales of 246,500 units. It remains the band's only album to top the Billboard 200. It spawned five more singles—"1979", "Zero", "Tonight, Tonight", the promotional "Muzzle" and "Thirty-Three"—over the course of 1996, and was certified diamond by the RIAA, equivalent to more than 10 million units sold. Lauded by critics for its ambition and scope, Mellon Collie and the Infinite Sadness earned the band seven Grammy Award nominations in 1997, including Album of the Year and Record of the Year ("1979"), as well as nine MTV Music Video Awards nominations, eight of which were for "Tonight, Tonight", including Video of the Year. The songs became hits on mainstream rock and modern rock stations, and "Bullet with Butterfly Wings", "1979", "Tonight, Tonight" and "Thirty-Three" became the band's first Top 40 hits, crossing over to pop radio stations.
-Recording sessions saw a wealth of productivity: dozens of fully completed songs were cut from the album and would surface on later releases. A box set released in November 1996 titled The Aeroplane Flies High compiled the promotional singles from the album and featured approximately 30 fully completed songs from the Mellon Collie sessions that had not made the final cut for the album (including one track, "Pastichio Medley", which contained more than 70 short snippets of songs in various states of completion). Both Mellon Collie and The Aeroplane Flies High later saw reissues that included even more tracks from the sessions.
+By every conceivable metric—album sales, chart rankings, Grammy Award nominations, sheer running time—<i>Mellon Collie and the Infinite Sadness</i> was the biggest album of The Smashing Pumpkins’ career. But those stats don’t fully convey the sheer aesthetic vastness and outsized passion of this two-disc, two-hour, 28-track colossus. With the Pumpkins’ 1993 predecessor, <i>Siamese Dream</i>, band brain trust Billy Corgan had already proven he possessed a widescreen, auterist vision that set him apart from his alt-rock cohorts. But with <i>Mellon Collie</i>, he entered the rarefied headspace previously occupied by Pete Townshend circa <i>Tommy</i> or Roger Waters on <i>The Wall</i>, exhibiting a sense of self-belief that borders on supernatural possession.
+
+On <i>Mellon Collie</i>, every aspect of the Pumpkins’ sound is pushed to the extreme: The signature grungy riffs are hardened into mutant metal (“Zero”, “Tales of a Scorched Earth”); the ballads plumb new depths of tenderness (“Thirty-Three”); the orchestral flourishes hit with cathedral-shaking force (“Tonight, Tonight”); and the latent proggy affinities blossom into unabashed Rush homage (“Porcelina of the Vast Oceans”). But even as he was positioning himself among the gods of classic rock, Corgan could still tune into the emotional wavelength of us mortals and misfits: At a moment when teen angst was still paying off well for many, no other song of the era articulated the frustration and futility of raging against the machine as bluntly as “Bullet With Butterfly Wings”. At the same time, Corgan could guilelessly conjure the carefree promise of youth on the iridescent “1979”, a New Wave daydream soundtracked by motorik rhythm and threaded with hypnotic guitar textures.
+
+In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i> both marks the apex of the early-1990s alternative revolution and, by extension, anticipates its retreat from the center of popular culture over the back half of the decade. Knowing full well that <i>Mellon Collie</i> was all but impossible to top, Corgan would push the Pumpkins in the completely opposite direction for 1998’s <i>Adore</i>, trading in pomp-rock fantasias for beat-driven synth-pop. But in hindsight, that move seems less like a knee-jerk reaction to <i>Mellon Collie</i>’s unabashed excess than a mission-accomplished affirmation of its chief purpose: To explode the possibilities of what a guitar-powered alt-rock band could achieve.
         
         
     
 
 
 ## Tracklisting
-1. Mellon Collie And The Infinite Sadness (2:51)
-2. Tonight, Tonight (4:13)
-3. Jellybelly (3:00)
-4. Zero (2:39)
-5. Here Is No Why (3:44)
-6. Bullet With Butterfly Wings (4:16)
-7. To Forgive (4:15)
-8. An Ode To No One (4:49)
-9. Love (4:20)
-10. Cupid De Locke (2:49)
-11. Galapogos (4:45)
-12. Muzzle (3:43)
-13. Porcelina Of The Vast Oceans (9:20)
-14. Take Me Down (2:50)
-15. Where Boys Fear To Tread (4:21)
-16. Bodies (4:11)
-17. Thirty-Three (4:09)
-18. In The Arms Of Sleep (4:11)
-19. 1979 (4:24)
-20. Tales Of A Scorched Earth (3:45)
-21. Thru The Eyes Of Ruby (7:37)
-22. Stumbleine (2:53)
-23. X.Y.U. (7:06)
-24. We Only Come Out At Night (4:04)
-25. Beautiful (4:17)
-26. Lily (My One And Only) (3:30)
-27. By Starlight (4:47)
-28. Farewell And Goodnight (4:21)
+1. Dawn To Dusk
+2. Mellon Collie And The Infinite Sadness (2:51)
+3. Tonight, Tonight (4:13)
+4. Jellybelly (3:00)
+5. Zero (2:39)
+6. Here Is No Why (3:44)
+7. Bullet With Butterfly Wings (4:16)
+8. To Forgive (4:15)
+9. Fuck You (An Ode To No One) (4:49)
+10. Love (4:20)
+11. Cupid De Locke (2:49)
+12. Galapogos (4:45)
+13. Muzzle (3:43)
+14. Porcelina Of The Vast Oceans (9:20)
+15. Take Me Down (2:50)
+16. Twilight To Starlight
+17. Where Boys Fear To Tread (4:21)
+18. Bodies (4:11)
+19. Thirty-Three (4:09)
+20. In The Arms Of Sleep (4:11)
+21. 1979 (4:24)
+22. Tales Of A Scorched Earth (3:45)
+23. Thru The Eyes Of Ruby (7:37)
+24. Stumbleine (2:53)
+25. X.Y.U. (7:06)
+26. We Only Come Out At Night (4:04)
+27. Beautiful (4:17)
+28. Lily (My One And Only) (3:30)
+29. By Starlight (4:47)
+30. Farewell And Goodnight (4:21)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-remastered/721224313" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-deluxe-edition/1455510683" >}}<br>
 
 
 ## Videos
@@ -110,5 +115,5 @@ Recording sessions saw a wealth of productivity: dozens of fully completed songs
 | Format         | Vinyl 4× LP Album Reissue Remastered, Box Set |
 | Label          | Virgin |
 | Catalog Number | 5099997855316 |
-| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.    All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.    ℗ 2012, Virgin Records America, Inc.  © 2012, Virgin Records America, Inc.     All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label. |
+| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.  Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |
 | Discogs URL    | [The Smashing Pumpkins - Mellon Collie And The Infinite Sadness](https://www.discogs.com/release/4091614-The-Smashing-Pumpkins-Mellon-Collie-And-The-Infinite-Sadness) |

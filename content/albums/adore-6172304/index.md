@@ -12,13 +12,19 @@ cover:
     alt: "Adore by The Smashing Pumpkins"
     caption: "Adore by The Smashing Pumpkins"
 additional_images:
-    - "https://i.discogs.com/MxRKk3orUfrYD8JO4jES_89mAVDvus7owzh1WndoURU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NC05NDIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/5SJSdpMQ0IT84DG6D-QxjgMEDyndDWJD0sZEvpySJus/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NS03NjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/QlMNcZequAQl2Vx_bYmvmjJQXi3IWzMCV1k5Oc9N6KA/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NC05NDIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/j30ZJcwylIx9ch1tmQvrDd1ztiEaKp1V1FWqwGtFsnk/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA5/NS03NjQyLmpwZWc.jpeg"
     - "https://i.discogs.com/oKYq1sp6ZjAnUnjYAd9tsK62rn0A5swvK2pE-Gb_F2o/rs:fit/g:sm/q:90/h:578/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzIz/MDQtMTQ4NzcxMDA4/Mi00ODEzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+Adore is the fourth studio album by the American alternative rock band the Smashing Pumpkins, released on June 2, 1998, by Virgin Records. After the multi-platinum success of Mellon Collie and the Infinite Sadness and a subsequent world tour, Adore was considered "one of the most anticipated albums of 1998" by MTV. Recording the album proved to be a challenge as the band members struggled with lingering interpersonal problems, musical uncertainty in the wake of three increasingly successful rock albums, and the departure of drummer Jimmy Chamberlin. Frontman Billy Corgan would later characterize Adore as made by "a band falling apart". Corgan was also going through a divorce and the death of his mother while recording the album.
+The result was a much more subdued and electronica-tinged sound that Greg Kot of Rolling Stone magazine called "a complete break with the past". The album divided the Smashing Pumpkins fan base and was not as commercially successful as their previous two albums. However, similar to the band's other releases across the decade, the album was critically acclaimed, becoming the third straight Pumpkins album to be nominated for the Grammy Award for Best Alternative Music Performance and has retrospectively gained a cult following. A remastered and expanded version of the album was released on CD and vinyl in September 2014 as a part of the band's project to reissue their back catalogue from 1991 to 2000. This is their only album to be recorded as trio and their first album not to feature an official drummer.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -40,13 +46,15 @@ styles: ["Alternative Rock"]
 16. 17 (0:17)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/adore-remastered/1440818528" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
 ## Videos
-### The Smashing Pumpkins  Adore 1998 FLAC
-{{< youtube id="aHYJ6LUfxCs" title="The Smashing Pumpkins  Adore 1998 FLAC" >}}<br>
+### The Smashing Pumpkins - Perfect (Official Music Video)
+{{< youtube id="VKYY8DxVZHE" title="The Smashing Pumpkins - Perfect (Official Music Video)" >}}<br>
+### More Videos
 
+- [The Smashing Pumpkins - Ava Adore (Official Music Video)](https://www.youtube.com/watch?v=9uWwvQKGjLI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,6 +62,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Adore_(album) |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Virgin |
 | Catalog Number | 6 02537 89926 5 |

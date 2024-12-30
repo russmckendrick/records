@@ -17,6 +17,11 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
+The Greatest Hits, So Far is a greatest hits album by English post-punk band Public Image Ltd, released in 1990 by record label Virgin. It compiles all of the band's singles from 1978 to 1990 and features a new track, "Don't Ask Me", which was released as a single, reaching number 22 the UK and number 2 on the US Modern Rock chart. "This Is Not a Love Song" is not represented in its original single form, but as the remake from This Is What You Want... This Is What You Get. The album's artwork is by notable New Zealand-born artist and musician Reg Mombassa.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,24 +49,15 @@ styles: ["New Wave", "Synth-pop"]
 {{< youtube id="BjFDqPPhP0w" title="PIL Greatest Hits" >}}<br>
 ### More Videos
 
-- [PIL (Public Image Ltd) - Public Image (Public Image)](https://www.youtube.com/watch?v=cifo77azntk)
-- [PUBLIC IMAGE LIMITED - This Is Not A Love Song](https://www.youtube.com/watch?v=-Kzk1xZCiv8)
 - [Death Disco (Remastered)](https://www.youtube.com/watch?v=Whxd1twSFfM)
 - [Memories (2011 Remaster)](https://www.youtube.com/watch?v=rlM__Fk7d2E)
 - [Careering (2011 Remaster)](https://www.youtube.com/watch?v=2kxpZitrSIQ)
-- [PiL - Flowers Of Romance](https://www.youtube.com/watch?v=bZhomMUzYUg)
 - [Public Image Ltd. - This is Not a Love Song (album version)](https://www.youtube.com/watch?v=GZR-SgyD8R8)
-- [PiL - Rise](https://www.youtube.com/watch?v=mQLfxmuI6YM)
-- [PiL - Home](https://www.youtube.com/watch?v=p3ZlwitRLFY)
-- [Public Image Ltd - Seattle (Official Video)](https://www.youtube.com/watch?v=bFOjktDN0IA)
-- [PiL - The Body](https://www.youtube.com/watch?v=-Og6_MQ5DvU)
-- [PiL - Rules and Regulations](https://www.youtube.com/watch?v=pkecN4EVEtc)
 - [P.I.L. - Disappointed](https://www.youtube.com/watch?v=MhSdOHPIp0Q)
 - [Warrior (Remastered 2011)](https://www.youtube.com/watch?v=5sm9OzoJCN4)
-- [Public Image Ltd - Don't Ask Me (1990)](https://www.youtube.com/watch?v=y-NBzRs-PIY)
-- [Public Image Ltd - Warrior](https://www.youtube.com/watch?v=YgcFbPrt1I8)
 - [The Body by PIL](https://www.youtube.com/watch?v=56RICywExfw)
 - [PIL - Public Image](https://www.youtube.com/watch?v=ylOCIP54PIQ)
+- [PUBLIC IMAGE LIMITED - This Is Not A Love Song](https://www.youtube.com/watch?v=-Kzk1xZCiv8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +65,7 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Hits,_So_Far |
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 535109-2 |

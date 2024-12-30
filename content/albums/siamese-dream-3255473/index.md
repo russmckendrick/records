@@ -13,7 +13,7 @@ cover:
     alt: "Siamese Dream by The Smashing Pumpkins"
     caption: "Siamese Dream by The Smashing Pumpkins"
 additional_images:
-    - "https://i.discogs.com/pL3rARtwDDyN4-M3i5wYbdISURP73LIrP_s6vaoaZdw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxODgyNzk3/MS0xOTg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/EofuWUwBWnBSYy-_Ss9jolzVOE6YBzXL5YcNOqvQ3L0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxODgyNzk3/MS0xOTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/WxSHBdJwhxgPtQDepKuKHYU0kKty7F2qG8IMkxOTZRg/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxMzY5MTE3/OC03NTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/XDea0Rpwk7OhMIjT9JMMM2HPz-kzjoDFj9ebTtrbAbk/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTQwMDE1MDA0/MC0zOTc0LmpwZWc.jpeg"
     - "https://i.discogs.com/0T2k3eXgKtnublz82dzWOaYiiGkMH7x21N-Icb9_r2M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTQzMzQ3OTIy/MC03NTU2LmpwZWc.jpeg"
@@ -25,8 +25,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Siamese Dream is the second studio album by American alternative rock band the Smashing Pumpkins, released on July 27, 1993, on Virgin Records. Despite recording sessions fraught with difficulties and tensions, Siamese Dream debuted at number ten on the Billboard 200, and was eventually certified 4× Platinum, with the album selling over six million copies worldwide, cementing the Smashing Pumpkins as a significant group in alternative music.
-Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", "Disarm", and "Rocket". The album received widespread acclaim from critics and audiences alike, with the its musical influences and lyrical material standing out compared to other releases during the alternative rock and grunge movements of its time. The album has since been considered "one of the finest alternative rock albums", and is widely regarded as one of the greatest albums of the 1990s and of all time. Rolling Stone magazine has ranked it between numbers 341 and 362 on various iterations of their 500 Greatest Albums of All Time list.
+Twenty-five seconds. That’s precisely how long it took for the members of The Smashing Pumpkins to transform themselves from promising alt-rock underdogs into certified Gen-X icons—a metamorphosis that can be plotted in the amount of time it takes <i>Siamese Dream</i>’s atomic lead track, “Cherub Rock”, to achieve liftoff. From its opening militaristic drumroll, the song builds and intensifies like an army being mobilised, one member at a time. Then comes a fireball of a guitar riff that doubles as a declaration of war: Against the cynical scenesters who doubted the Pumpkins’ indie credentials; against the underground’s rigid aesthetic orthodoxies; against anyone who dared to write off their generation as navel-gazing nihilists.
+
+On first listen, 1993’s <i>Siamese Dream</i> feels like a quintessential Clinton-era alt-rock artefact: Billy Corgan and James Iha’s smeared, swirling guitar noises on tracks like “Cherub Rock” and “Rocket” hit the sweet spot between Nirvana’s gritty riffage and My Bloody Valentine’s sensory-overloading splendour. And the ready-made anthem “Today” dresses up prevailing themes of self-loathing in an ironically sunny sing-along wrapped in a candy-coated fuzz; it’s a song that makes bitter sentiments like “I’ll burn my eyes out!” seem almost sweet. But <i>Siamese Dream</i>’s heart truly belongs to the gatefold-album epics of the mid-1970s, when groups like Led Zeppelin, Queen and Pink Floyd were elevating rock ’n’ roll into the realm of transcendental, quasi-religious experiences (and bitchin’ planetarium laser shows). As the mosh pits of America raged, the Pumpkins were taking a stage-dive into the stratosphere.
+
+None of the band’s Lollapalooza-era peers were attempting the sort of multi-tracked guitar-architecture that thrusts the grunge-gaze groover “Hummer” through its heady peaks and immaculate comedown. And even in the age of peak <i>MTV Unplugged</i>, no other alt-rock outfit was crafting acoustic ballads as cinematic and dramatic as the string-swept “Disarm”. True to its title, <i>Siamese Dream</i> brokers a harmonious coexistence between the Pumpkins’ muscular and melodic extremes, as best exemplified by the totemic mid-album double shot of “Geek U.S.A.” and “Mayonnaise”: The former is a furious blast of pure psych-metal savagery, the latter a slow-motion, hazy-headed lullaby that’s become one of the most beloved album cuts in the Pumpkins’ canon. At a time when fellow alterna-nation deities like Kurt Cobain and Eddie Vedder were exhibiting allergic reactions to their newfound celebrity, Corgan gamely stepped up to fill the void—as both an unapologetic rock star with stadium-sized ambitions, and as an open-hearted empath eager to cultivate a profound emotional connection with his fans.
         
         
     
@@ -51,7 +54,14 @@ Four singles were released in support of Siamese Dream: "Cherub Rock", "Today", 
 {{< applemusic url="https://music.apple.com/gb/album/siamese-dream/721207206" >}}<br>
 
 
+## Videos
+### The Smashing Pumpkins - Today
+{{< youtube id="xmUZ6nCFNoU" title="The Smashing Pumpkins - Today" >}}<br>
+### More Videos
 
+- [The Smashing Pumpkins - Cherub Rock](https://www.youtube.com/watch?v=q-KE9lvU810)
+- [The Smashing Pumpkins - Disarm](https://www.youtube.com/watch?v=d1acEVmnVhI)
+- [The Smashing Pumpkins - Rocket (Official Music Video)](https://www.youtube.com/watch?v=Th-AqMvvBzE)
 
 ## Release Images
 {{< imageGrid >}}

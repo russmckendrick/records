@@ -12,18 +12,18 @@ cover:
     alt: "Gish by The Smashing Pumpkins"
     caption: "Gish by The Smashing Pumpkins"
 additional_images:
-    - "https://i.discogs.com/fZT4xdW49akR9aWGx4fAj0W8TS5DiSSWgXhmT7W53Eo/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi00MzIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/4O8CDK3Hi74oUXCka10jkdJoqFblgk8ReiXEipW6-9k/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi04NjE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/5qm7dpDjelXbcwlAjpiQbEolplT0pj6bYDVl4kKv4w4/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/OS03MjQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/eq6O9jBAtz6-7P7qNqn8qKyP2IiKPY_XdPMYNOjzaZQ/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/My0yMjc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/-UUC7G-WmAXuL12mko7YDIM7aVe3b20w_egomucsqO4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi00MzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/OU0tkz4FEqfe6U7DTAo_Dj2OtV53Iu-SCSOoIXzrgaI/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi04NjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/eIGf2t6PZpv0WMyUiBgDlTO2jsPbgITIGUjt-qeM_qM/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/OS03MjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/bxNe-CSdWOrQL8yZVeezkEue_2BK4etQXr9_WwV8BOc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/My0yMjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/D5bQhyPItp6QPeo3Gz4kJ3J3f8bfoDkbvnQkMfAL5Q4/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/NC0zNzMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/ecUNxttBIZ3c2uxLQ2YhKfDQst0mweQZsmitY_ViPCg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/Mi02MzI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/3KEejhBOgl3IzIhqpJYpHWgnZXflahFnszUwWh-rqIw/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/OS0yOTAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/D_RhKpHHexaeCgmaV7orsjLEXEIGt9wKxTR9pYK5vxM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/Mi02MzI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qdHVBc3AWUpc8PBf0xkbYhk03tswzZgwFG_RoHJJ8zc/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/OS0yOTAzLmpwZWc.jpeg"
     - "https://i.discogs.com/qgaQuOsHHIGQZrzIiRpaPlbkleYGLDi7f3ahwJNRxp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Ny04MzcwLmpwZWc.jpeg"
     - "https://i.discogs.com/s8KF_VCdzCNFj5l36dnIUH_GaQ9RNd4mjRn8T6VC5BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Ny0xODE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/zIl9GveaSMU6mgdw0unvEyAylRqeU_zzwcgQMNED5rs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi03Njg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/4hrefERUJw09YcuEyyyC2YfVsPN2OTXaKY65m1HcXyw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/NC05MzM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/3z3kktNSDtQEgGKkzMA3gfJCpQlrYUA_eRfbbg053kc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTE5/OC05NTM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/ax2mOzd4k432lc1Sxzri72kYSaWWeeuLEsAiGZsHygI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi03Njg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/mdGQEr74Tprp9eXaxyw9rOLjbcEHeXxsmUiMH-M9sdE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/NC05MzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/fxFwtfsEdqFNSu5MhaMR_Pi1v6plbbczYB7lkeRhPUU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTE5/OC05NTM5LmpwZWc.jpeg"
     - "https://i.discogs.com/BAqI5Mlmh5afuXlalWfPtvYpipHJ2izgnU4ej5hrtl0/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIw/MC0zMTMxLmpwZWc.jpeg"
     - "https://i.discogs.com/Ul5P3irp5gICU9Kq9LdFazkS9D7Ad-I63hg2z-pPRxM/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTE5/OS01MjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/Gu8FFmd9Ik6IwdRn_NvMeQXtYfNY2rd3FB18HJvKbi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi05MDA1LmpwZWc.jpeg"
@@ -34,7 +34,10 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 ---
 
-Gish is the debut studio album by American alternative rock band the Smashing Pumpkins, released in May 1991 through Caroline Records. Frontman Billy Corgan has variously described Gish as a "very spiritual album" and "an album about spiritual ascension".Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (one million copies shipped in the US) by the RIAA. On April 1, 2019 Rolling Stone magazine ranked Gish the 32nd greatest grunge album of all time.
+Gish is the debut studio album by the American alternative rock band the Smashing Pumpkins, released on May 28, 1991, by Caroline Records. The album was produced by Butch Vig and frontman Billy Corgan, with the latter describing Gish as a "very spiritual album" and "an album about spiritual ascension".
+Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (at least one million copies shipped in the US) by the Recording Industry Association of America (RIAA), becoming one of the best-selling independent albums at the time. It has since been ranked by multiple publications as one of the best rock albums of the 1990s, with Pitchfork deeming "without Gish, there would probably be no Nevermind as we know it."
+
+
     
     
 
@@ -53,23 +56,16 @@ Gish is the debut studio album by American alternative rock band the Smashing Pu
 11. I'm Going Crazy
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gish-deluxe-edition/1471016488" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
 ## Videos
-### Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}
-{{< youtube id="E2RDyA8id0A" title="Smashing Pumpkins - 1991 - Gish (2011 Remastered Vinyl)[RAWrip]{VM95ML☆ifi Zen Phono}" >}}<br>
+### The Smashing Pumpkins - I Am One (Official Music Video)
+{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One (Official Music Video)" >}}<br>
 ### More Videos
 
-- [The Smashing Pumpkins - I Am One (Official Music Video)](https://www.youtube.com/watch?v=Pi6RJmUNBbw)
 - [The Smashing Pumpkins - Siva (Official Music Video)](https://www.youtube.com/watch?v=F3wAtWywrP4)
 - [The Smashing Pumpkins - Rhinoceros (Official Music Video)](https://www.youtube.com/watch?v=aVfWx9282y0)
-- [Bury Me (Remastered 2011)](https://www.youtube.com/watch?v=B15BrotSE68)
-- [Crush (Remastered 2011)](https://www.youtube.com/watch?v=QJLFets4aHQ)
-- [The Smashing Pumpkins - Crush](https://www.youtube.com/watch?v=St0--qAA7yg)
-- [Suffer (Remastered 2011)](https://www.youtube.com/watch?v=8z5BcqMgkQ0)
-- [Snail (Remastered 2011)](https://www.youtube.com/watch?v=7rGxhKC33GI)
-- [Tristessa (Remastered 2011)](https://www.youtube.com/watch?v=-n-0mbX5E4w)
 
 ## Release Images
 {{< imageGrid >}}
