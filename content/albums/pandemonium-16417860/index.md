@@ -30,6 +30,8 @@ styles: ["Industrial", "Heavy Metal"]
 ---
 
 Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass.
+
+
     
     
 
@@ -51,19 +53,12 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 
 
 ## Videos
-### Killing Joke - Pandemonium
-{{< youtube id="skUUVejxDZc" title="Killing Joke - Pandemonium" >}}<br>
+### K̲i̲l̲l̲i̲n̲g̲ ̲J̲o̲k̲e̲ ̲-̲ ̲P̲a̲n̲d̲e̲m̲o̲n̲i̲u̲m̲
+{{< youtube id="zfBMScS05kU" title="K̲i̲l̲l̲i̲n̲g̲ ̲J̲o̲k̲e̲ ̲-̲ ̲P̲a̲n̲d̲e̲m̲o̲n̲i̲u̲m̲" >}}<br>
 ### More Videos
 
-- [Exorcism](https://www.youtube.com/watch?v=lC781aCldKY)
-- [Millenium](https://www.youtube.com/watch?v=Tpiqap0JRIA)
-- [Communion](https://www.youtube.com/watch?v=kjoJd2GxBMo)
-- [Black Moon](https://www.youtube.com/watch?v=HsvPlgOUtsQ)
-- [Labyrinth](https://www.youtube.com/watch?v=NjDyUIwsuXo)
-- [Jana](https://www.youtube.com/watch?v=YLateznUHXI)
-- [Whiteout](https://www.youtube.com/watch?v=9668JojmCe4)
-- [Pleasures Of The Flesh](https://www.youtube.com/watch?v=YMAdcR6JyJg)
-- [Mathematics Of Chaos](https://www.youtube.com/watch?v=Vc2bWPBrS5I)
+- [killing joke - pandemonium](https://www.youtube.com/watch?v=LL_U5GSUBpw)
+- [Killing Joke - Pandemonium](https://www.youtube.com/watch?v=skUUVejxDZc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,7 +67,7 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pandemonium_(Killing_Joke_album) |
-| Format         | Vinyl LP (Blue Transparent), Vinyl LP (Clear), All Media Album Reissue |
+| Format         | Vinyl LP (Blue Translucent), Vinyl LP (Clear), All Media Album Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE511303 |
 | Notes | Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.   |

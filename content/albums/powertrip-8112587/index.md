@@ -4,7 +4,6 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Powertrip"
 date: 2016-07-10T09:50:06.000000Z
-release_date: "1998-01-01"
 release_id: "8112587"
 slug: "powertrip-8112587"
 hideSummary: true
@@ -18,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/c_6tysxdxJgVtSS3XT-s2dAOoD07XNl2Y-XV59hjMto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ1NTM3NzU0/OS0zNDIyLmpwZWc.jpeg"
     - "https://i.discogs.com/Ss6iWYUgk-BI2_TbjGQsgMfg_E2tXhKNVFhXJb4IObE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/Ny0xNjIwLmpwZWc.jpeg"
     - "https://i.discogs.com/a53kZuKibhN6o8GFwgxcvfUxzwmrl118tCydxhziFUA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/OC04MjA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/An5GIYtxyaADd_TECNbdy85Z_Z-q1P8RWK_v0QcLl98/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/My00MTk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/Z8tKSY56g8BpiyhEbDTzERwSd_jDUyxOPR8e0xUM5O4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NC04ODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/_-F6TUMedrOu5Pbu1zYbeFLBfnh3mIaUEyYHudPAUPg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/My00MTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/UQqnXyBlt2vYPQa1RUQBB5LKRuOHgowGYnuLwPf30z0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NC04ODk3LmpwZWc.jpeg"
     - "https://i.discogs.com/9g4gx-G6XmoZ355pY7DgT_RKZg4F7Bkcg_5pNwDoWJU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/Ny0yNjg0LmpwZWc.jpeg"
     - "https://i.discogs.com/C5SX4s8C7aMIkEJ2u6oSzIFXQjt4sj--V5Kfy22rEGY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc5/NC0yMjQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/rYED_ii0pWQiWvaX0zKzDKEIN-Bg59yOcqJX9fg6g7E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI1/ODctMTQ3NDQ3Mzc4/OC01ODk3LmpwZWc.jpeg"
@@ -28,7 +27,9 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 ---
 
-Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkwind, Black Sabbath, and Iggy & The Stooges, making leader Dave Wyndorf's authority unquestionable. He lives and breathes this music, and it shows. There are no half-steps here. The opening Stooges-like menace of "Crop Circle" is earth-rattling, and things only get crazier from there. "Powertrip", "Space Lord", and "3rd Eye Landslide" are solid rock/punk numbers with massive guitar sounds that make them easy shots for the arena. "See You in Hell" tells a creepy story based in truth, with a garage-rock organ that's pure psychedelia. "Baby Götterdämerung" throws in heavily tremoloed guitar for a psychedelic ballad. "Temple of Your Dreams" evokes the warrior side of heavy metal. "Tractor", an older MM song, is a beautifully dirty track that wallows in sludge. "19 Witches" throws in spaghetti western guitar. The band sounds both heavy and like it's having fun. <i>Powertrip</i> is a stone classic.
+Powertrip is the fourth studio album by American rock band Monster Magnet, released on June 16, 1998. The album was the band's commercial breakthrough, achieving mainstream success due largely to the hit single "Space Lord". Other hit songs on the album include "Powertrip", "Temple of Your Dreams", and "See You in Hell". The album itself, reached #1 on the Heatseekers Charts, #21 in the German Charts, #65 in the UK Charts, and #97 on the Billboard 200. The album was certified gold by the RIAA on January 25, 1999. Music videos were made for the songs "Space Lord", "Powertrip", and "See You in Hell".
+
+
     
     
 
@@ -52,7 +53,7 @@ Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkw
 16. Space Lord (Intergalactic 7 Remix)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/powertrip/1440922360" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/powertrip/1713565496" >}}<br>
 
 
 ## Videos
@@ -70,10 +71,13 @@ Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkw
 - [Monster Magnet – Atomic Clock](https://www.youtube.com/watch?v=zfboZd9HLIo)
 - [Monster Magnet – Space Lord](https://www.youtube.com/watch?v=doSPqAG77Qw)
 - [Monster Magnet – Bummer](https://www.youtube.com/watch?v=AB_etD1NAEg)
-- [Monster Magnet - Space Lord](https://www.youtube.com/watch?v=dscfeQOMuGw)
 - [Monster Magnet – 3rd Eye Landslide](https://www.youtube.com/watch?v=erlKlvbUIlw)
-- [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
 - [Monster Magnet – See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
+- [Monster Magnet – Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
+- [Tractor](https://www.youtube.com/watch?v=ZjalSU6Gq5U)
+- [Your Lies become You](https://www.youtube.com/watch?v=Wpn_2-oiwEM)
+- [Monster Magnet - See You In Hell (Revised Final Cut)](https://www.youtube.com/watch?v=e9hQ2C5d9Qk)
+- [Monster Magnet - Space Lord](https://www.youtube.com/watch?v=dscfeQOMuGw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,6 +85,7 @@ Monster Magnet is a stoner rock band from New Jersey with genuine roots in Hawkw
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Powertrip |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637661 |

@@ -12,13 +12,13 @@ cover:
     alt: "Liquidizer 2019 by Jesus Jones"
     caption: "Liquidizer 2019 by Jesus Jones"
 additional_images:
-    - "https://i.discogs.com/n8sCXmeqC1TS7RRL28C18-CuIksen6oczNRbJzVyCdw/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjg5/OTMtNjIxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/cCI8CpMNx7Z1HzAqLK6k6yloBa4RNW5-p_0jqZ6JWzQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MDAtMjUwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/E4Ef2TVMXHFev8gsXwYw25j8aOoyUy_G7k_gHc9Febs/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjg5/OTMtNjIxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/rYtPPLzplL2iDwh-6-790HE9x7pcYoTk3Up9NxGP1Xs/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MDAtMjUwOS5qcGVn.jpeg"
     - "https://i.discogs.com/s4C7gSYoIK5NmL_qHgo-HcVF6Ai9B1cHt0bVIkd2GKI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MDctNTAxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/wsBXtiQi-slM29XGb4zkbRABc7bl823X_Oc93TGdoFs/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MTktMzc3Mi5wbmc.jpeg"
-    - "https://i.discogs.com/jyt2lWYXptdHbhPNQJNUOMyW7l7oFwm5cZnJ-pkwnGY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MjktNjM5MC5wbmc.jpeg"
-    - "https://i.discogs.com/VTjDiBDfnU-i0xfrQ--lBB0iRZ6Ma6nyBsO7nXkUzfM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MzgtNzU3NS5wbmc.jpeg"
-    - "https://i.discogs.com/7kwGP-6yJKgYRcnDosPDkP2p8EiM_V3uJFWN2MB0a6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/NDYtNTM1NS5wbmc.jpeg"
+    - "https://i.discogs.com/HRnbqdDzosND4Iy6dUQAijciB_Nht13BYABjBIM5HUc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MTktMzc3Mi5wbmc.jpeg"
+    - "https://i.discogs.com/7mpT8Zo_iVSpSz8CSwdOsd3osN9u-GPkAUwnj4APZz8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MjktNjM5MC5wbmc.jpeg"
+    - "https://i.discogs.com/FyJmdrW1dIhp5QwhYpDgFEtoVG89KEdiuZ-xFxcMjRY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/MzgtNzU3NS5wbmc.jpeg"
+    - "https://i.discogs.com/U_hfFWv-a-bvE2D0r2uTZIDuNCiz9LmFLFWtG4faNCo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/OTQ5LTE1ODIwNjkw/NDYtNTM1NS5wbmc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -31,6 +31,8 @@ styles: []
 3. Someone To Blame (4:00)
 4. Bring It On Down (7:37)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/liquidizer/697141413" >}}<br>
 
 
 ## Videos

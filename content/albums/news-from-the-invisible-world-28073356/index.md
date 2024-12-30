@@ -23,16 +23,14 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-1. Side A
-2. The Start
-3. Shame The Jar
-4. Golden Thread
-5. Photogenic Love
-6. Side B
-7. Wonderful
-8. Non-Player
-9. What A Time To Be Alive
-10. Nostalgia Now
+1. The Start
+2. Shame The Jar
+3. Golden Thread
+4. Photogenic Love
+5. Wonderful
+6. Non-Player
+7. What A Time To Be Alive
+8. Nostalgia Now
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/news-from-the-invisible-world/1695787531" >}}<br>

@@ -14,13 +14,13 @@ cover:
 additional_images:
     - "https://i.discogs.com/TIsw0Kh3F6EYsiTMZu_hyANXPwb68CgQdGPUYuROQDQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE0OTcxNjMw/MTAtMzE0OS5qcGVn.jpeg"
     - "https://i.discogs.com/WxeF5b2drdP0AxHq52Mjk2NLjqp54DRIhEUcAMuzVeg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE1/ODctOTI0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/qf1N-2pCo5w2LtcHHQnxoMef2vWKoBAiHUoLJvq0HJo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE1/OTYtMzQ3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/j_iwnO3ze66W-A_DYSUFEOBuF_rKtPO_0-VJEA4AajI/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/NjctNjQ2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/w3Wm7ZS6dFrQkq1V50GNHoA91hKC4CFg-Qxm7ByiLrA/rs:fit/g:sm/q:90/h:643/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/ODAtNjkyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/_Rm9KA3SpnTnAklaJsylL7qCQQqOqyi1miTzcQUHQXc/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/OTItMjM2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/3-potMcn2FzPuzHZVma1M8wgMXhVqYwpavhxIonvFo8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MDItOTQ5My5qcGVn.jpeg"
+    - "https://i.discogs.com/-0BSc0ipCslJhvSWBQNzJ7lGA5iRKBOjaWlI39XHQRk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE1/OTYtMzQ3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Qg6KOCMVxgD8kOaRiRCoDWLCesqeOAiowlMb4sH3DWc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/NjctNjQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/VgwI_FwvIUkOGhaJ0W_1GvRV1coDw6SZDz13adCD2bs/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/ODAtNjkyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/UAH7B_Z1pwtc4wHzJD7SeRWPjluH6ODvmRzGt4WhY3U/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE2/OTItMjM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/OT53024cThB1EUxOCGIVZRi7JPJy1ndhHLfS_BAhsoU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MDItOTQ5My5qcGVn.jpeg"
     - "https://i.discogs.com/ujcARfpRHTTJJISoHJBMZs82pHb7peiuAWwe7I8XrsI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MTMtODU5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/qTdMlY6Xh4r6vRV49pDrXEAv8rikhoMOvcnklswKiZY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MjMtNjM2My5qcGVn.jpeg"
+    - "https://i.discogs.com/ulx1mc5iF36n5YQ8BF4MtrzOfhb2gN66zWpizeNxg9o/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MjMtNjM2My5qcGVn.jpeg"
     - "https://i.discogs.com/0PYWIUcZWzUDa1cBGWBSNqJiGhCQ8ewHLdt5PkhJO3s/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1MjE0OTE3/MzYtMTYwMy5qcGVn.jpeg"
     - "https://i.discogs.com/RIGCdc25T3aBRk32tR2y8weFyqAr9pFJvhEyrd8ZLTM/rs:fit/g:sm/q:90/h:369/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1ODk3NjMy/OTMtNTA2MS5qcGVn.jpeg"
     - "https://i.discogs.com/jUwjazF0UJpZ4rmhlEaBojmhZaRbkAxfg1ErLA4Ue5U/rs:fit/g:sm/q:90/h:377/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/NjI0LTE1ODk3NjMy/OTItNTE1NS5qcGVn.jpeg"
@@ -43,7 +43,7 @@ styles: ["Country"]
 10. Something To Love (3:39)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-nashville-sound/1216344634" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/jason-isbell-and-the-400-unit/1480316430" >}}<br>
 
 
 ## Videos
@@ -53,6 +53,10 @@ styles: ["Country"]
 
 - [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
 - [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
+- [Jason Isbell and the 400 Unit - Cumberland Gap](https://www.youtube.com/watch?v=tZaeKwgS7wg)
+- [Jason Isbell and the 400 Unit - White Man's World](https://www.youtube.com/watch?v=nu4dupoC7EE)
+- [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
+- [Jason Isbell and the 400 Unit - Hope The High Road](https://www.youtube.com/watch?v=ci-6Au1Gnrs)
 
 ## Release Images
 {{< imageGrid >}}

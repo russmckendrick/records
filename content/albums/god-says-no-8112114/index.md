@@ -4,7 +4,6 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "God Says No"
 date: 2016-07-10T09:49:54.000000Z
-release_date: "2001-01-01"
 release_id: "8112114"
 slug: "god-says-no-8112114"
 hideSummary: true
@@ -15,16 +14,16 @@ cover:
 additional_images:
     - "https://i.discogs.com/qokCfcpQNs3EEY9rSPjXGTG5aLnkLmu5SmZQHJxTOAM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTQ1NTM3MjM2/MC01NTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/AbymsZMk3LlEiQQDwsmkrEr24k0QnNHSPmT6FHaNuxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTQ1NTM3MjM2/NC0zMzM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/LMOiG1FmlukC5RcEgi66xAHh5u8RqwRZ1JA-uL8wMP8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEx/NC0yNDcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/nTEk6NGZ1FstFhEJCJyEsj97oEFJQc_UE2xc23dF734/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEw/OS03Nzk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/pg4VO0g0jmUurmbAbyOfweDFmuElXjEhDK0GURWb_zs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEx/NS04NzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/utob1d51MmCB2J7pcvQRHnEv6bZ_Z33jsJ441qW_XcE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEx/NC0yNDcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/wYQBtC02JoFFqB2xPfvmSj3zOqk2iCAzuVJTDV1ycGo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEw/OS03Nzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Zhoq6p_Yqmt73b79IkLptxbdEHxz5ZwJmwfUBmiJE7U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEx/NS04NzIwLmpwZWc.jpeg"
     - "https://i.discogs.com/ckAUnjIE613u1ZGuoPEGCEZ8y4tiUPsWc3n9CplTT_g/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDEx/My0xNDY2LmpwZWc.jpeg"
     - "https://i.discogs.com/3d83bE1eWI_npUV0huK8P5iYeEUhsjieaM2lAqXErzs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE0/OS00NDI4LmpwZWc.jpeg"
     - "https://i.discogs.com/M50YDFpIXOVXghT3HAt6Wh_8M9pbhH2VfJEIsIRWB7Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE1/MC03MzAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Vgfkv_2invgaKFh2gHjikkj704hoAwQD6qggZmyn5bQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE0/MS02MjY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/W8qd90BkuuNJzf60msOnWtEsG7m3F2ma4iA3XoWxUbc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE0/MS02MjY4LmpwZWc.jpeg"
     - "https://i.discogs.com/YZyjT4AtLoF2wk0IziTbuOreXh9-6BnOK5bPzwJP7Tk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE0/OS03OTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/zgdw9BCPBY_eLn6s9wPQaUEOWwTsQLc9eQGHQIb1EF0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/OS0xNzYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/gfF27tQ7iBxB90jtM81rlOnVoeKfF0J8bTHAtqf1iGI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/Ny0xODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/z8Ls21TN1FNQs9bEEJZEZzpUbFm69wWHR1s5QfwGcyQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/OS0xNzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Q0xYCa-HdX-PV6lyyVACswx4U7n6GuPMFM6TxIiX-ps/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/Ny0xODcwLmpwZWc.jpeg"
     - "https://i.discogs.com/c3e7wWOSPIYPCYfhmU8OH0tD7kUGxqgcMKK3TZYgDCo/rs:fit/g:sm/q:90/h:251/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/Ny05Mzk3LmpwZWc.jpeg"
     - "https://i.discogs.com/fVASi3uUvizIVFHEveSk2ZJClTE1kMgzjUG8RIvBSk8/rs:fit/g:sm/q:90/h:194/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/OS0xMjY2LmpwZWc.jpeg"
     - "https://i.discogs.com/OKIMaLogDMgbLL5I_Xv30kYaQDKisFOARjpfd0AGYyw/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTIx/MTQtMTU0MDIxNDE4/OC0yMzAwLmpwZWc.jpeg"
@@ -34,7 +33,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 ---
 
-New Jersey metal mongers Monster Magnet spent much of the '90s swimming against the prevailing pop currents, finally catching a break when the tides shifted their way on their fourth outing, 1998's <i>Powertrip</i> and its breakthrough hit "Space Lord." Two hard years of touring ensured that this follow-up wouldn't surface until 2001 - just in time for another shift in fashion, some attendant label tinkering, and finally a release from their contract. Ironic, considering how boldly the band has both tamed its darkly aggressive sonic ethos and expanded its range. The band incorporates electro-rhythms on the title track and "Queen of You," goes back to the future with the nouveau twang of "Kiss of the Scorpion," and completely shreds the envelope on the stripped-down electronica of "Take It," all seemingly with an eye on expanding their appeal beyond the metal faithful.
+God Says No is the fifth studio album by American rock band Monster Magnet. It was released in the United Kingdom on November 12, 2000, and in the United States on April 10, 2001. It was a commercial failure compared to their previous album, Powertrip. It was their last release recorded for A&M Records, due to problems with promotion of the album but it reached #17 in Germany.  It would also be the last release with bassist Joe Calandra and drummer Jon Kleiman.
+The track "Medicine", which appears on the US release, is a re-recording of a track which originally appeared on the band's 1991 album Spine of God. A music video was made for the 1991 version.
+Two different music videos were produced for the song "Heads Explode" and one for "Melt", consisting mostly of live footage over the studio version of the track. The former song was featured in the film Dracula 2000 and included on its soundtrack.
     
     
 
@@ -59,7 +60,7 @@ New Jersey metal mongers Monster Magnet spent much of the '90s swimming against 
 17. Black Celebration
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/god-says-no/1442412218" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/god-says-no/1713553752" >}}<br>
 
 
 ## Videos
@@ -73,6 +74,9 @@ New Jersey metal mongers Monster Magnet spent much of the '90s swimming against 
 - [Monster Magnet-Queen of You (lyrics)](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
 - [Silver Future - Monster Magnet - God Says No](https://www.youtube.com/watch?v=kuixhLvxA5A)
 - [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
+- [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=SQ8MmFISmXQ)
+- [God Says No - Monster Magnet](https://www.youtube.com/watch?v=riAkBFKRqz0)
+- [Monster Magnet - Kiss of the Scorpion](https://www.youtube.com/watch?v=Ci8fYExzXbI)
 - [Monster Magnet - I Want More](https://www.youtube.com/watch?v=Yji5Keb5Nko)
 
 ## Release Images
@@ -81,6 +85,7 @@ New Jersey metal mongers Monster Magnet spent much of the '90s swimming against 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/God_Says_No |
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637845 |

@@ -23,12 +23,13 @@ additional_images:
     - "https://i.discogs.com/g4-2q7tcCCZUR7YZ0JtohRv143dIpBKQCcLqBEFJ-x0/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MzgyLTE1MDcyODk5/OTctMzI3MC5qcGVn.jpeg"
     - "https://i.discogs.com/hjO61av1ir91F0MZP2fB0X4GBYZk10bIj9QuEx0x5C8/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MzgyLTE1MDcyODk5/OTctMzgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/Z4iDTGDBP7sLBd8xW6xZ2EMqSXxVSC8fEiKUzUtqaLs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MzgyLTE1MDcyOTAw/MDEtNDQzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/FA5_6eOf4PgyE18iNI7C9DUSNsbZROf4XwoBmD8NkrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MzgyLTE0OTc2NDM0/MzItMTc3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Krautrock", "Psychedelic Rock", "Avantgarde", "Experimental"]
 ---
 
 The Singles is a compilation album of singles and B-sides by the German experimental rock band Can, released in 2017.
+
+
     
     
 
@@ -59,7 +60,7 @@ The Singles is a compilation album of singles and B-sides by the German experime
 23. Hoolah Hoolah (Edit)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/us/album/the-singles/1220608584" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-singles/1222533992" >}}<br>
 
 
 ## Videos
@@ -67,6 +68,29 @@ The Singles is a compilation album of singles and B-sides by the German experime
 {{< youtube id="TECyopdL4fI" title="Can - Soul Desert (Official Audio)" >}}<br>
 ### More Videos
 
+- [Can -  She Brings The Rain (Official Audio)](https://www.youtube.com/watch?v=xiuuSoPphxI)
+- [Can - Spoon (Official Audio)](https://www.youtube.com/watch?v=l6PH7a4RptU)
+- [Can - Shikako Maru Ten (Official Audio)](https://www.youtube.com/watch?v=jNnilECnMpw)
+- [Can - Turtles Have Short Legs (Official Audio)](https://www.youtube.com/watch?v=my8T7hB992k)
+- [Can - Halleluwah (Edit) (Official Audio)](https://www.youtube.com/watch?v=ry_3f0q8QZE)
+- [Can - Vitamin C (Official Audio)](https://www.youtube.com/watch?v=zrkUiCugQDE)
+- [Can - I'm So Green (Official Audio)](https://www.youtube.com/watch?v=Q6l8HwHde1M)
+- [Can - Mushroom (Official Audio)](https://www.youtube.com/watch?v=cR5gYbQzr5s)
+- [Can - Moonshake (Official Audio)](https://www.youtube.com/watch?v=IL4B69x8X7s)
+- [Can - Future Days (Edit) (Official Audio)](https://www.youtube.com/watch?v=NNdAhHQNDcg)
+- [Can - Dizzy Dizzy (Edit) (Official Audio)](https://www.youtube.com/watch?v=SW2nrz8bgoA)
+- [Can - Splash (Edit) (Official Audio)](https://www.youtube.com/watch?v=HtX9AAQak44)
+- [Can - Hunters And Collectors (Edit) (Official Audio)](https://www.youtube.com/watch?v=8Y2K1TSQcPg)
+- [Can - Vernal Equinox (Edit) (Official Audio)](https://www.youtube.com/watch?v=jEUfuOY0XUQ)
+- [Can - I Want More (Official Audio)](https://www.youtube.com/watch?v=2yWItRfjg8w)
+- [Can - ...And More (Official Audio)](https://www.youtube.com/watch?v=fB1k0-RKecU)
+- [Can - Silent Night (Official Audio)](https://www.youtube.com/watch?v=t04ANDPU42Y)
+- [Can - Cascade Waltz (Official Audio)](https://www.youtube.com/watch?v=cAnPP7wfGUs)
+- [Can - Don't Say No (Edit) (Official Audio)](https://www.youtube.com/watch?v=KVt6i-ks5pg)
+- [Can - Return (Official Audio)](https://www.youtube.com/watch?v=PTKdCqMbrdo)
+- [Can - Can (Official Audio)](https://www.youtube.com/watch?v=P05K2T8kdaU)
+- [Can - Hoolah Hoolah (Edit) (Official Audio)](https://www.youtube.com/watch?v=EllzyiHzrRE)
+- [Can - Soul Desert (Official Audio)](https://www.youtube.com/watch?v=TECyopdL4fI)
 - [Can -  She Brings The Rain (Official Audio)](https://www.youtube.com/watch?v=xiuuSoPphxI)
 - [Can - Spoon (Official Audio)](https://www.youtube.com/watch?v=l6PH7a4RptU)
 - [Can - Shikako Maru Ten (Official Audio)](https://www.youtube.com/watch?v=jNnilECnMpw)

@@ -19,6 +19,7 @@ additional_images:
     - "https://i.discogs.com/hlA_MiWcPSqKqqy6006LIV9kL4SSH4FhoXvH1lxUCVI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTM4/OTUtMTQ2Mjc4Njc1/MS0zMDMzLmpwZWc.jpeg"
     - "https://i.discogs.com/rxG-ELllQ-m0rpUM8Ms8ZDVxdNzXYpCrTwCaWoQmn88/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTM4/OTUtMTQ2Mjc4Njc1/MS0zOTQwLmpwZWc.jpeg"
     - "https://i.discogs.com/QIFrNBwP41KvrrWEaLgCs7CRyjvpz33RcIqnpDMMucM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTM4/OTUtMTQ2Mjc4Njc1/MS02MzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/QYEhDsOMljYUqu-8RTaHxbSvR8ca6WXVA0DeqlKvFZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTM4/OTUtMTY5MjcyMTU2/Mi02NDk4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
@@ -38,14 +39,19 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 10. The Bitter Suite
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1443009179" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/desires-magic-theatre/1660353966" >}}<br>
 
 
 ## Videos
-### Desire's Magic Theatre
-{{< youtube id="QygP9o9aO4s" title="Desire's Magic Theatre" >}}<br>
+### Purson - The Window Cleaner
+{{< youtube id="_3hDNfKJON0" title="Purson - The Window Cleaner" >}}<br>
 ### More Videos
 
+- [Purson - The Window Cleaner](https://www.youtube.com/watch?v=_3hDNfKJON0)
+- [Desire's Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
+- [Purson - Electric Landlady](https://www.youtube.com/watch?v=boscR_9EE5Q)
+- [I Know](https://www.youtube.com/watch?v=759rlxiJGeI)
+- [Desire's Magic Theatre](https://www.youtube.com/watch?v=QygP9o9aO4s)
 - [Purson - Desire’s Magic Theatre Full album](https://www.youtube.com/watch?v=JK6R94X01dI)
 
 ## Release Images

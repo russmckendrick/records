@@ -16,16 +16,16 @@ additional_images:
     - "https://i.discogs.com/WD0INlhwdYoK9jQpW--S1B3aSTAwuvNCpKJ9tfVtfgA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctMTY4OC5qcGVn.jpeg"
     - "https://i.discogs.com/drT7Rx_7x_Acim4IZztxJdfMG3IoU6m7qiSOp4_u6SU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctOTE4OC5qcGVn.jpeg"
     - "https://i.discogs.com/SzAatyxS8_h6eYePzU3i90EaJ0taHIkRxKJdC5lDNS4/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODgtODA4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Knj1-paOi-GwkkLeyhTa9fuqpMwmyGQPg8r98NUFbWI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODktNzIzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rpdr-1IYqr-gQgsk2QZ6hJMJYEvkX03yJhXeR-F7rMo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODktNzIzMS5qcGVn.jpeg"
     - "https://i.discogs.com/jl6vvs8WpfRxK5xYS45PLE1AQX0nYGQcq3x-owI6e9k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODktODkzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/LtwuiHtrqizkIjmBWcMDOXUBzhwy9tqTU6H56--f_Dw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNjQwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/XiLIWlTyi019tgZlemyjXP0F6dNJBizQUPNbJAVA9cg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctNDM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/iw9MDM48bFC49rwvZiSDFZDwrC0rmIlNOueqfyZTnl8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNjQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/3hadSEDFt4mdGx4ie7BQwtcE9-Vyy1Dqe8_Bu6AW6bg/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctNDM5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/kibBDC0CdV9pcpPInuPjNtexr7P1zPkVa928npzptxc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODYtODAxMy5qcGVn.jpeg"
     - "https://i.discogs.com/3PoCvBlFlVgFPAV0hVXIYzXn8-A67WNjM3Xf9Gek2j4/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODctOTgzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/KsU-u_NwFAKaq7k80hQYNPLymkp0Mk3-hljY1Ao9jxg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNzY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/jZlhEBIX2wm1DGK0E5WBkmTo_DmHGcCcw-rxSyj9U2E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTUtNzY5OS5qcGVn.jpeg"
     - "https://i.discogs.com/C1OlIRwVvxLZgPpTddYOR0Ru4cLO__z4rS73Gna8RQw/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTYtODcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/z-xxgFVUI3iV9Ti-IXpJY2Kob6BdJaMKX9ZdBID0I7Q/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgx/MTYtODQ1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/TXioF9qzQnjEfKICS8nq1cFnzv2B67JdBUfg8IE5nfg/rs:fit/g:sm/q:90/h:1000/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODk0NjQ4/NzctNTg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/VwK1HIN_q02b3hDH-ARs9XkajZXBSyPja3eZieWBqKo/rs:fit/g:sm/q:90/h:600/w:309/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODk0NjQ4/NzctNTg3My5qcGVn.jpeg"
     - "https://i.discogs.com/CLoafKAVwMidTwz1-fF4oNORYfHMSW-Bu-yKyo5N4fY/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU5/MDM2LTE1ODkwNTgw/ODgtMjc0Ni5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
@@ -52,8 +52,7 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 “I was awake until four in the morning, just sort of laying there, not terribly concerned or worried about anything. And there was a time where I thought, ‘Well, if I was just drunk, I could go to sleep.’ But then I also thought, ‘Well, yeah, but I would wake up a couple hours later when the liquor wore off.’ I think it's important for me to remember how it felt to be handicapped by this disease and how my days actually went. I've finally gotten to the point now where I don't really hate that guy anymore, and I think that's even helped me because I can go back and actually revisit emotions and memories from those times without having to wear a suit of armour. For a many years, it was like, ‘Okay, if you're going to go back there, then you're going to have to put this armour on. You're going to have to plan your trip. You're going to have to get in and get out, like you're stealing a fucking diamond or something. Because if you stay there too long or if you wind up romanticising the way your life was in those days, then there's a good chance that you might slip.' I think the more honest I am with myself, the less likely I am to collapse and go back to who I used to be. It's not easy to constantly remind yourself of how much it sucked to be an active alcoholic, but it's necessary. I wrote this song for people who would get a lot of the inside references, and definitely for people who have been in recovery for a long period of time. I wrote it for people who have been going through that particular challenge and people who have those conversations with themselves. And really that's what it is at its root: a song about people who are trying to keep an open dialogue with themselves and explain, this is how it's going to be okay. Because if you stop doing that and then you lose touch with the reasons that you got sober in the first place and you go on cruise control, then you slip up or you just wind up white-knuckling it, miserable for the rest of your life. And I can't make either of those a possibility.”<br />
 <b>Letting You Go</b>
 “Once, when my daughter was really little, my wife said, ‘Every day, they get a little bit farther away from you.’ And that's the truth of it: It’s a long letting-go process. This is a simple song, a country song—something that I was trying to write like a Billy Joe Shaver or Willie Nelson song. I think it works emotionally because it’s stuff that a lot of people have felt, but it's tough to do in a way that wasn't cheesy, so I started with when we first met her and then tried to leave on a note of ‘Eventually, I know these things are going to happen. You’re going to have to leave.’ And that's the whole point. Some people think, ‘Well, my life is insignificant, none of this matters.’ And that makes them really depressed. But then some people, like me, think, ‘Man, my life is insignificant. None of this matters. This is fucking awesome.’ I think that might be why I wound up being such a drunk, but it helps now, still, for me to say, ‘I can't really fuck this up too bad. So I might as well enjoy it.’”
-        
-        
+    
     
 
 
@@ -83,6 +82,12 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 - [Jason Isbell and the 400 Unit - St. Peter's Autograph](https://www.youtube.com/watch?v=LGdQsOLhkeI)
 - [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
 - [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
+- [Jason Isbell and the 400 Unit - Overseas](https://www.youtube.com/watch?v=V4kFqy7U6NE)
+- [Jason Isbell and the 400 Unit - Letting You Go](https://www.youtube.com/watch?v=g6alzZQXi7Y)
+- [Jason Isbell and the 400 Unit - It Gets Easier](https://www.youtube.com/watch?v=2CagbTwPxXw)
+- [Jason Isbell and the 400 Unit - St. Peter's Autograph](https://www.youtube.com/watch?v=LGdQsOLhkeI)
+- [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
+- [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,7 +95,6 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Reunions_(album) |
 | Format         | Vinyl LP Album Limited Edition (Orange Dreamsicle) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99921 |
