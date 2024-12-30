@@ -12,12 +12,12 @@ cover:
     alt: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
     caption: "The Girl From Chickasaw County (Highlights From The Capitol Masters) by Bobbie Gentry"
 additional_images:
-    - "https://i.discogs.com/1QofV1upMgPyGKpB5H-5mVjbJe1nggozFYr0WPolPj4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NTk3NDQ5/MDYtNjUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/e8W7_CdDwF9IvDvrD2OXsL0Eeq5f4Qk4wLvGmcYJ0Xk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NTk3NDQ5/MDYtNjUyOS5qcGVn.jpeg"
     - "https://i.discogs.com/VRuvBFyQ_WACFhw4HfgdqnuCGiLBX2W97MvV45yENiA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NTk3NDQ5/MDUtNDc2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/s7Pgv_8hmqFCTaSS1Kmknh6k97e4vwlGExwbNfZcbx0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MDMtOTUzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/0Kz9ggG_nGmIxmJZzPAXgkt5jBE1YIo2hDn3AoCHFpI/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY1/OTItODM4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/eHGYPlJosJAEkcvpY2hUVFSNjgq-wq4qpumBvMcSuMY/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MTMtMTMzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/YSkGyAyVWwkuMEYOkJJXqzvMPFak04zOJOiOa5pCPgQ/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MjEtMTc1My5qcGVn.jpeg"
+    - "https://i.discogs.com/OsPCQ-RtrFImX_vQbHJhEJ3OSWYZ1ygGXriVASuVGfY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MDMtOTUzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/4zZohK933IVhmiINiP6r_C0s_XXIASSKLGvochUME0E/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY1/OTItODM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/f66QwC5hwL8CY5AG1MmBogS2G9epLOD6clEdMyC-Wh8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MTMtMTMzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/z6bSR3LNA6uNahfyR44VWohDRS_pEZHZw3nbaMPfaw8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjAyNzY2/MjEtMTc1My5qcGVn.jpeg"
     - "https://i.discogs.com/BTnGc8GduhzptG0WAAehyvOezWyjVUOxYvKfWZQ32bQ/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE0/MTQ5LTE2NjkzNzE1/NDktOTg1OS5qcGVn.jpeg"
 genres: ["Rock", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Country Rock", "Country"]
@@ -59,6 +59,8 @@ styles: ["Country Rock", "Country"]
 31. Joanne
 32. The Girl From Cincinnati
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-girl-from-chickasaw-county-the-complete/1428546863" >}}<br>
 
 
 ## Videos
@@ -66,50 +68,51 @@ styles: ["Country Rock", "Country"]
 {{< youtube id="cJZ_ViDADOE" title="Ode To Billie Joe" >}}<br>
 ### More Videos
 
-- [I Saw An Angel Die](https://www.youtube.com/watch?v=hvGDAUW9SDw)
 - [Chickasaw County Child](https://www.youtube.com/watch?v=DGkH7VRo0O8)
-- [Sunday Best (Alternate Take)](https://www.youtube.com/watch?v=sbT05ZirqdM)
 - [Hurry, Tuesday Child (Demo)](https://www.youtube.com/watch?v=TYBfxq4nX6k)
-- [Niki Hokey / Barefootin' (Live)](https://www.youtube.com/watch?v=59T09SaNUd0)
+- [Sunday Best (Alternate Take)](https://www.youtube.com/watch?v=sbT05ZirqdM)
 - [Mississippi Delta (Alternate Take)](https://www.youtube.com/watch?v=xPlwgCtGB04)
-- [Seventh Son (Band Version)](https://www.youtube.com/watch?v=V2YrhjwoiS8)
-- [Mornin' Glory](https://www.youtube.com/watch?v=ZAeANJk4-j4)
-- [Jessye' Lisabeth](https://www.youtube.com/watch?v=ckpD3EFMWhs)
+- [Okolona River Bottom Band](https://www.youtube.com/watch?v=HpNCqah4HVc)
 - [Refractions](https://www.youtube.com/watch?v=HgMIMTKZmig)
 - [Bobbie Gentry - Courtyard](https://www.youtube.com/watch?v=vUbrXyiM6pw)
-- [Feelin' Good (Demo)](https://www.youtube.com/watch?v=pd6H796tPiE)
+- [Mornin' Glory](https://www.youtube.com/watch?v=ZAeANJk4-j4)
 - [Sweet Peony (Alternate Take)](https://www.youtube.com/watch?v=n3Jju6NQTw8)
-- [Bobbie Gentry - Casket Vignette](https://www.youtube.com/watch?v=UuilL4S0A4M)
 - [Recollection](https://www.youtube.com/watch?v=IYbxzin0A7g)
-- [Eleanor Rigby](https://www.youtube.com/watch?v=AkK5F-WVPHU)
 - [Sittin' Pretty](https://www.youtube.com/watch?v=DEYwYSn5Row)
-- [Hushabye Mountain](https://www.youtube.com/watch?v=iymsFUmJ7-E)
 - [The Conspiracy Of Homer Jones](https://www.youtube.com/watch?v=Mp6sRJh_BDA)
+- [Bobbie Gentry - Casket Vignette](https://www.youtube.com/watch?v=UuilL4S0A4M)
+- [Hushabye Mountain](https://www.youtube.com/watch?v=iymsFUmJ7-E)
 - [Sunday Mornin' (Alternate Take)](https://www.youtube.com/watch?v=b9Um-oyewto)
 - [Let It Be Me (Without Strings)](https://www.youtube.com/watch?v=-joG-oua1-Y)
-- [Supper Time](https://www.youtube.com/watch?v=a5yRVAgC4WU)
 - [God Bless The Child](https://www.youtube.com/watch?v=wEyYU1g0qfQ)
 - [This Girls In Love With You](https://www.youtube.com/watch?v=5E11C6xNKaU)
 - [Touch 'Em With Love (Alternate Stereo Take)](https://www.youtube.com/watch?v=ynlltsMEzkA)
-- [Greyhound Goin' Somewhere](https://www.youtube.com/watch?v=csOdjq4wX3g)
 - [Seasons Come, Seasons Go (Demo)](https://www.youtube.com/watch?v=jf6cdPnu0qU)
 - [Glory Hallelujah, How They'll Sing (Alternate Take)](https://www.youtube.com/watch?v=zL31IJ9LhLs)
 - [Fancy (Mono / Radio Edit)](https://www.youtube.com/watch?v=DwMxYfjXYiA)
-- [Find 'Em, Fool 'Em And Forget 'Em](https://www.youtube.com/watch?v=rizcoGFfgIg)
 - [He Made A Woman Out Of Me](https://www.youtube.com/watch?v=v8smDOw1B6c)
-- [Rainmaker](https://www.youtube.com/watch?v=z_CQo5JILcU)
 - [Circle ‘Round the Sun](https://www.youtube.com/watch?v=ArsjiIZxKok)
 - [Apartment 21](https://www.youtube.com/watch?v=SL_Ipup_nRU)
-- [Billy The Kid (Live)](https://www.youtube.com/watch?v=SyMcUrBbrHM)
 - [Benjamin](https://www.youtube.com/watch?v=qLwkQYw5VYA)
 - [But I Can't Get Back](https://www.youtube.com/watch?v=NzyynkTW6Ak)
-- [Belinda (Alternate Take)](https://www.youtube.com/watch?v=vLqNo_VzQIE)
-- [Mean Stepmama Blues](https://www.youtube.com/watch?v=zo7RKPH1WCE)
 - [Lookin' In](https://www.youtube.com/watch?v=R8f9PimNb90)
 - [Smoke](https://www.youtube.com/watch?v=SHBVEUr2QAY)
 - [Joanne](https://www.youtube.com/watch?v=X0baW7xZcYY)
-- [You And Me Together](https://www.youtube.com/watch?v=XpsAppX-j8M)
 - [The Girl From Cincinnati](https://www.youtube.com/watch?v=ynnH6kmOH_A)
+- [I Saw An Angel Die](https://www.youtube.com/watch?v=hvGDAUW9SDw)
+- [Niki Hokey / Barefootin' (Live)](https://www.youtube.com/watch?v=59T09SaNUd0)
+- [Seventh Son (Band Version)](https://www.youtube.com/watch?v=V2YrhjwoiS8)
+- [Jessye' Lisabeth](https://www.youtube.com/watch?v=ckpD3EFMWhs)
+- [Feelin' Good (Demo)](https://www.youtube.com/watch?v=pd6H796tPiE)
+- [Eleanor Rigby](https://www.youtube.com/watch?v=AkK5F-WVPHU)
+- [Supper Time](https://www.youtube.com/watch?v=a5yRVAgC4WU)
+- [Greyhound Goin' Somewhere](https://www.youtube.com/watch?v=csOdjq4wX3g)
+- [Find 'Em, Fool 'Em And Forget 'Em](https://www.youtube.com/watch?v=rizcoGFfgIg)
+- [Rainmaker](https://www.youtube.com/watch?v=z_CQo5JILcU)
+- [Billy The Kid (Live)](https://www.youtube.com/watch?v=SyMcUrBbrHM)
+- [Belinda (Alternate Take)](https://www.youtube.com/watch?v=vLqNo_VzQIE)
+- [Mean Stepmama Blues](https://www.youtube.com/watch?v=zo7RKPH1WCE)
+- [You And Me Together](https://www.youtube.com/watch?v=XpsAppX-j8M)
 
 ## Release Images
 {{< imageGrid >}}

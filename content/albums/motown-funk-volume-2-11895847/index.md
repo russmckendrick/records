@@ -12,9 +12,9 @@ cover:
     alt: "Motown Funk Volume 2 by Various"
     caption: "Motown Funk Volume 2 by Various"
 additional_images:
-    - "https://i.discogs.com/seljs-WUIzfqol3q26-RgG7sXNls5tDdUMOKvdMLrqA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMTcz/NzEtOTc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/pQD5TSIPmpvEczPnV2bKCrzoY-fE9a-PfmOEmSX_JXI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMTcz/NzEtOTc0NS5qcGVn.jpeg"
     - "https://i.discogs.com/qOVzrSlcMERABmH6PZiEx5rpu31McZwyYaMbuXgzc9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/MjQtNjU2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/MYGr3_1AFLyXQDZRX920z9betIaMPNbuLWGuc8S5IcU/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIx/OTMtODExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/PLSOK5RxckHzQj18mG7elS0VslU5Y3NHFBy5Izg0xWQ/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIx/OTMtODExOC5qcGVn.jpeg"
     - "https://i.discogs.com/BANpcGRZg990v9pdA3jj4vsEE5M66zXcUtvRL47Y8Vs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/MzYtNzEzNi5qcGVn.jpeg"
     - "https://i.discogs.com/LmXfSxAfiUv8MRdaKyENAdpYaBbhXKqTHsfOCHbMuIQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/NjItOTg0OC5qcGVn.jpeg"
     - "https://i.discogs.com/qam8BdEHo0qkb4jyPEnpQiyYL3T1pKubSNPht-0Rb6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/ODQ3LTE1MjQzMzIy/NzktNzg2OC5qcGVn.jpeg"
@@ -40,7 +40,7 @@ styles: ["Funk", "Soul"]
 13. Runnin' (From Hell Up In Harlem OST)
 14. Brick House (Single Version)
 15. Got To Give It Up (Part 1)
-16. Haiku
+16. Haiku (Album Version)
 17. Mister Magic (Album Version)
 18. UFO's (Album Version)
 19. Let It Whip (Single Version)
@@ -54,7 +54,7 @@ styles: ["Funk", "Soul"]
 
 - [Keep On Truckin'](https://www.youtube.com/watch?v=wp_FlThJBSE)
 - [Commodores -  Machine Gun](https://www.youtube.com/watch?v=ho_Od3o9OLg)
-- [Earl Van Dyke - Thank You (Falettinme Be Mice Elf Agin)](https://www.youtube.com/watch?v=tsqa9YEjSro)
+- [Earl Van Dyke - "Thank You (Falettinme Be Mice Elf Agin)"](https://www.youtube.com/watch?v=tsqa9YEjSro)
 - [Stevie Wonder - Every Time I See You I Go Wild (1967)](https://www.youtube.com/watch?v=gZsMrmLaoI0)
 - [Rare Earth - I Know I'm Losing You (full version)](https://www.youtube.com/watch?v=F28X8--2dFU)
 - [The Jerry Ross Symposium - It's The Same Old Love](https://www.youtube.com/watch?v=dPeuCmVutSA)
@@ -70,8 +70,8 @@ styles: ["Funk", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Yellow Translucent) |
+| Format         | Vinyl 2× LP Record Store Day Compilation (Yellow Translucent) |
 | Label          | UMC |
 | Catalog Number | 5381363 |
-| Notes | Released on Record Store Day 2018. |
+| Notes | Gatefold sleeve. Some copies have a hype sticker on shrink wrap.  60s/70s U.K. Tamla Motown logo on each of the four record labels 70s/80s "M" Motown logo on the front of the gatefold sleeve |
 | Discogs URL    | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |
