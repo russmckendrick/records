@@ -25,9 +25,12 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-No Jacket Required is the third studio album by English drummer and singer-songwriter Phil Collins. It was released on 18 February 1985 by Virgin Records in the UK and on 25 February 1985 by Atlantic and WEA internationally. After finishing touring commitments with Genesis and working with Eric Clapton in 1984, Collins resumed his solo career and started work on a new album. He made a conscious decision to write more uptempo and dance-oriented songs, as much of his previous material was influenced by matters surrounding his first divorce. The album features Helen Terry, Peter Gabriel, and Sting as guest backing vocalists. Some songs, like "Don't Lose My Number" and "Sussudio", were based around improvisation and others, like "Long Long Way to Go", had a political message.
-No Jacket Required was received favourably by the majority of critics and was a huge worldwide commercial success, reaching number one in the UK for five consecutive weeks and for seven non-consecutive weeks in the US. It was the second-best-selling album of 1985 in the UK, behind Dire Straits' Brothers in Arms. "One More Night", "Sussudio", "Don't Lose My Number" and "Take Me Home" were released as singles, with corresponding music videos. All four were top-10 hits on the Billboard Hot 100 chart, with "Sussudio" and "One More Night" reaching number one. The three singles released in the UK all reached the top 20. Some tracks were featured on the television shows Miami Vice and Cold Case, and "The Man with the Horn" was re-written and re-recorded for the episode "Phil the Shill".
-In 2001, No Jacket Required was certified Diamond by the Recording Industry Association of America for selling 12 million copies in the US, and amassed worldwide sales of over 25 million copies, making it one of the best-selling albums of all time. It won three Grammy Awards including for Album of the Year. The No Jacket Required World Tour saw Collins perform 85 concerts which culminated with a performance at both Live Aid shows in London and Philadelphia. Remixes of six songs from the album were released on the compilation 12"ers (1987). In 2010, it was among ten albums nominated for the best British album of the previous 30 years by the Brit Awards. It ranked No. 74 on the Rock and Roll Hall of Fame's "Definitive 200" list. A remastered deluxe edition with updated artwork and bonus tracks was released in 2016.
+No Jacket Required is the third solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 18 February 1985 by Virgin Records in the UK and by Atlantic and WEA internationally.
+After finishing touring commitments with Genesis and working with Eric Clapton in 1984, Collins resumed his solo career and started work on a new album. He made a conscious decision to write more uptempo and dance-oriented songs, as much of his previous material was influenced by matters surrounding his first divorce. The album features Helen Terry, Peter Gabriel, and Sting as guest backing vocalists. Some songs, like "Don't Lose My Number" and "Sussudio", were based around improvisation, and others, like "Long Long Way to Go", had a political message.
+No Jacket Required was received favourably by the majority of critics and was a huge worldwide commercial success, reaching number one in the UK for five consecutive weeks and for seven non-consecutive weeks in the US. It was the second-best-selling album of 1985 in the UK, behind Dire Straits' Brothers in Arms. "One More Night", "Sussudio", "Don't Lose My Number" and "Take Me Home" were released as singles with corresponding music videos. All four were top ten hits on the Billboard Hot 100 chart, with "Sussudio" and "One More Night" reaching number one. The three singles released in the UK all reached the top 20. Some tracks were featured on the television shows Miami Vice and Cold Case, and "The Man with the Horn" was re-written and re-recorded for the episode "Phil the Shill".
+In 2001, No Jacket Required was certified Diamond by the Recording Industry Association of America for selling 12 million copies in the US and amassed worldwide sales of over 25 million copies, making it one of the best-selling albums of all time. It won three Grammy Awards, including Album of the Year. The No Jacket Required World Tour saw Collins perform 85 concerts which culminated with a performance at both Live Aid shows in London and Philadelphia. Remixes of six songs from the album were released on the compilation 12"ers (1987). In 2010, it was among ten albums nominated for the best British album of the previous 30 years by the Brit Awards. It ranked No. 74 on the Rock and Roll Hall of Fame's "Definitive 200" list. A remastered deluxe edition with updated artwork and bonus tracks was released in 2016.
+
+
         
         
     
@@ -46,25 +49,15 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 10. Take Me Home (5:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-jacket-required-deluxe-edition-remastered/1088551708" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/no-jacket-required-remastered/1098944284" >}}<br>
 
 
 ## Videos
-### Phil Collins - Sussudio (Remastered Video) (1985)
-{{< youtube id="icv0qn8qYPg" title="Phil Collins - Sussudio (Remastered Video) (1985)" >}}<br>
+### Phil Collins - Sussudio (Official Music Video)
+{{< youtube id="r0qBaBb1Y-U" title="Phil Collins - Sussudio (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Phil Collins - Only You Know And I Know (1985 European Vinyl)](https://www.youtube.com/watch?v=Ikkx5favmVc)
-- [Phil Collins - Inside Out](https://www.youtube.com/watch?v=L-IpCQp5Wdw)
-- [Only You Know And I Know (2016 Remastered)](https://www.youtube.com/watch?v=xiB5Mx79IbE)
-- [Long Long Way To Go (2016 Remastered)](https://www.youtube.com/watch?v=M-7LOzT73PU)
-- [Phil Collins - I Don't Wanna Know (2016 Remaster)](https://www.youtube.com/watch?v=1neTO6a1cw0)
-- [One More Night (2016 Remastered)](https://www.youtube.com/watch?v=6Hmrc3IzvAA)
-- [Don't Lose My Number (2016 Remastered)](https://www.youtube.com/watch?v=ZLCG6DJTNBs)
-- [Phil Collins - Who Said I Would (2016 Remaster)](https://www.youtube.com/watch?v=4dZgeeTV9so)
-- [Doesn't Anybody Stay Together Anymore (2016 Remastered)](https://www.youtube.com/watch?v=0CNWyRR0Ie0)
-- [Inside Out (2016 Remastered)](https://www.youtube.com/watch?v=tP_alPMybog)
-- [Take Me Home (2016 Remastered)](https://www.youtube.com/watch?v=YO1l2itfSs4)
+- [Phil Collins - Sussudio (Official Music Video)](https://www.youtube.com/watch?v=r0qBaBb1Y-U)
 
 ## Release Images
 {{< imageGrid >}}
