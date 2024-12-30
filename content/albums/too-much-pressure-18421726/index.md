@@ -24,8 +24,10 @@ genres: ["Reggae"]
 styles: ["Ska"]
 ---
 
-Too Much Pressure is the debut studio album by English 2 tone ska revival band the Selecter. After the band's official formation in 1979 in Coventry, following the release of a song entitled "The Selecter" by an unofficial incarnation of the band, the band's hit single "On My Radio" prompted their labels 2 Tone and Chrysalis to ask the band to record their debut album. Working with producer Errol Ross, the Selecter recorded the album at Horizon Studios over two months. The album contains original material, mostly composed by band founder and guitarist Neol Davies, as well as numerous ska and reggae cover versions, in a similar fashion to the Specials' debut album.
+Too Much Pressure is the debut studio album by the English 2 tone ska revival band the Selecter. After the band's official formation in 1979 in Coventry, following the release of a song entitled "The Selecter" by an unofficial incarnation of the band, the band's hit single "On My Radio" prompted their labels 2 Tone and Chrysalis to ask the band to record their debut album. Working with producer Errol Ross, the Selecter recorded the album at Horizon Studios over two months. The album contains original material, mostly composed by band founder and guitarist Neol Davies, as well as numerous ska and reggae cover versions, in a similar fashion to the Specials' debut album.
 The album was released in February 1980 on 2 Tone records. The record was commercially successful, charting at number 5 in the United Kingdom. The record's singles, "Three Minute Hero" and "Missing Words", made the top 25 of the UK Singles Chart. The album was also critically successful, and has had lasting praise in the ensuing years. Although the band's accompanying 2 On 2 Tour with several other 2 Tone acts was fraught with violence, it also helped achieve, in part, the album's commercial success. The band performed the album live for the first time as part of its 35th anniversary tour in 2014.
+
+
     
     
 
@@ -52,21 +54,26 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 
 
 ## Videos
-### The Selecter - Too Much Pressure
-{{< youtube id="QHnX_wEW1K0" title="The Selecter - Too Much Pressure" >}}<br>
+### THE SELECTER - Too Much Pressure [FULL ALBUM] 1980 (LYRICS added in the comment section)
+{{< youtube id="lutwqvQq5t8" title="THE SELECTER - Too Much Pressure [FULL ALBUM] 1980 (LYRICS added in the comment section)" >}}<br>
 ### More Videos
 
-- [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
+- [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
+- [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
 - [THE SELECTER - EVERYDAY](https://www.youtube.com/watch?v=OIpTEqK0W9E)
 - [THE SELECTER - DANGER](https://www.youtube.com/watch?v=ckvX_gqcrxs)
 - [Selecter - danger](https://www.youtube.com/watch?v=BjUeBGkum6A)
-- [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
 - [The Selecter - Out On The Streets](https://www.youtube.com/watch?v=JOecLj8Uw3s)
-- [the selecter too much pressure](https://www.youtube.com/watch?v=I0A8vBmfzWU)
+- [They Make Me Mad](https://www.youtube.com/watch?v=zgU3PQshqi4)
+- [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
 - [The Selecter - James Bond](https://www.youtube.com/watch?v=vfbx_oFeXww)
 - [The Selecter - On My Radio](https://www.youtube.com/watch?v=EXKEa2N5-mo)
 - [The Selecter - Missing Words](https://www.youtube.com/watch?v=BKELD7Rth0g)
 - [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
+- [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
+- [the selecter too much pressure](https://www.youtube.com/watch?v=I0A8vBmfzWU)
+- [The Selecter - On My Radio (Two Tone Records CHS TT4 A) 1979](https://www.youtube.com/watch?v=3dI_fH3lC-E)
+- [The Selecter - Too Much Pressure (Two Tone Records CHS TT4 B) 1979](https://www.youtube.com/watch?v=rFT8kpSqHgQ)
 
 ## Release Images
 {{< imageGrid >}}

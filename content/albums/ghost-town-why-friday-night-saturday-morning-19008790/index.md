@@ -12,8 +12,8 @@ cover:
     alt: "Ghost Town / Why? / Friday Night, Saturday Morning by The Specials"
     caption: "Ghost Town / Why? / Friday Night, Saturday Morning by The Specials"
 additional_images:
-    - "https://i.discogs.com/Bk82UTuw8ulhiRhJC3GvoVRr8lu9Wt2UbtZz8ri_0wQ/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtOTIzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/kUtEsm0FrjCe-lLpe49JbFulFiXfEcv6rZ3Xf5sbROw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtMzY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ToKCUhDo_zembq5-LjTkIn-TP_qPJeXaeMtdg6Wg9xw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtOTIzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/-w_dRnPbt9viEUrBU39MPtPM_VsjIMMtFK6gjscudCw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtMzY1NC5qcGVn.jpeg"
     - "https://i.discogs.com/X1u4h1QPfuJdLFbYGHq2Du-1ajsQOmja7gDJP-Qv4oE/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjI4MDIx/NTgtODAwNy5qcGVn.jpeg"
     - "https://i.discogs.com/fI5M6HH9XJFnlYRL9bnuqWakMWI75BqbvWh5tg8_bVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjMxMDQy/NTYtNDQxNi5qcGVn.jpeg"
     - "https://i.discogs.com/yGFk9kREuhGO2GlalbEOh5EU8IzLuifW_FxzcdUTFoc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/NzkwLTE2MjMxMDQy/NzItOTE3Ny5qcGVn.jpeg"
@@ -28,17 +28,27 @@ styles: ["Ska", "Rocksteady"]
 2. Why?
 3. Friday Night, Saturday Morning
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ghost-town-2021-remaster-ep/1629522569" >}}<br>
 
 
 ## Videos
-### The Specials - Ghost Town [Official HD Remastered Video]
-{{< youtube id="RZ2oXzrnti4" title="The Specials - Ghost Town [Official HD Remastered Video]" >}}<br>
+### The Specials - Ghost Town (Two Tone Records CHS TT17 A) 1981
+{{< youtube id="0fbk36W9khs" title="The Specials - Ghost Town (Two Tone Records CHS TT17 A) 1981" >}}<br>
 ### More Videos
 
-- [The Specials ‎– The Conquering Ruler LP (2001) [VINYL RIP] *HQ AUDIO* *RE-ENGINEERED*](https://www.youtube.com/watch?v=mELEK9q4QjY)
+- [THE SPECIALS -  GHOST TOWN - WHY - FRIDAY NIGHT SATURDAY MORNING](https://www.youtube.com/watch?v=DohgQqcEojU)
+- [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
+- [The Specials - Why? (Two Tone Records CHS TT17 AA1) 1981](https://www.youtube.com/watch?v=ydznYQVeoA8)
+- [The Specials - Friday Night, Saturday Morning (Two Tone Records CHS TT17 AA2) 1981](https://www.youtube.com/watch?v=f-82VO8HdwE)
+- [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
+- [The Specials - Ghost Town [Official HD Remastered Video]](https://www.youtube.com/watch?v=RZ2oXzrnti4)
 - [The Specials - Why?](https://www.youtube.com/watch?v=a8PoqDzQ5qs)
-- [The Specials - Ghost Town Music Video](https://www.youtube.com/watch?v=MsH_6VL6K58)
+- [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
 - [Ghost Dub 91](https://www.youtube.com/watch?v=PhMhcnV1QDw)
+- [THE SPECIALS -  GHOST TOWN - WHY - FRIDAY NIGHT SATURDAY MORNING](https://www.youtube.com/watch?v=DohgQqcEojU)
+- [The Specials ‎– The Conquering Ruler LP (2001) [VINYL RIP] *HQ AUDIO* *RE-ENGINEERED*](https://www.youtube.com/watch?v=mELEK9q4QjY)
+- [The Specials - Ghost Town [Official HD Remastered Video]](https://www.youtube.com/watch?v=RZ2oXzrnti4)
 - [The Specials - Ghost Town (Full Version, 2015 Remaster)](https://www.youtube.com/watch?v=0WMdfB7ZavY)
 - [Ghost Town](https://www.youtube.com/watch?v=far9uLfnYtU)
 - [Ghost Town (Live At Le Bataclan)](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
@@ -102,11 +112,23 @@ styles: ["Ska", "Rocksteady"]
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=zWdukGVU17Q)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=TgOCumR2GxI)
 - [Ghost Town (Re-Recorded)](https://www.youtube.com/watch?v=oetKVHBFWmk)
-- [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
 - [Friday Night, Saturday Morning](https://www.youtube.com/watch?v=Mn9ldQNt_OQ)
 - [Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=tmlfpG6MzZI)
-- [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
 - [Friday Night, Saturday Morning (Live)](https://www.youtube.com/watch?v=zt-wV3snjaU)
+- [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
+- [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
+- [The Specials - Why? (Extended Version, 2015 Remaster)](https://www.youtube.com/watch?v=WiwwjnLbq2g)
+- [The Specials - WHY? (Arr. 2014)](https://www.youtube.com/watch?v=OD_7JEjfKr4)
+- [The Specials ‎– The Conquering Ruler LP (2001) [VINYL RIP] *HQ AUDIO* *RE-ENGINEERED*](https://www.youtube.com/watch?v=mELEK9q4QjY)
+- [The Specials - Ghost Town Music Video](https://www.youtube.com/watch?v=MsH_6VL6K58)
+- [THE SPECIALS -  GHOST TOWN - WHY - FRIDAY NIGHT SATURDAY MORNING](https://www.youtube.com/watch?v=DohgQqcEojU)
+- [The Specials - Ghost Town [Official HD Remastered Video]](https://www.youtube.com/watch?v=RZ2oXzrnti4)
+- [The Specials - Ghost Town (Two Tone Records CHS TT17 A) 1981](https://www.youtube.com/watch?v=0fbk36W9khs)
+- [THE SPECIALS -  GHOST TOWN - WHY - FRIDAY NIGHT SATURDAY MORNING](https://www.youtube.com/watch?v=DohgQqcEojU)
+- [The Specials - Friday Night, Saturday Morning (2015 Remaster)](https://www.youtube.com/watch?v=Phr7vxxgj7I)
+- [The Specials - Why? (Two Tone Records CHS TT17 AA1) 1981](https://www.youtube.com/watch?v=ydznYQVeoA8)
+- [The Specials - Friday Night, Saturday Morning (Two Tone Records CHS TT17 AA2) 1981](https://www.youtube.com/watch?v=f-82VO8HdwE)
+- [Friday Night, Saturday Morning (2021 Remaster)](https://www.youtube.com/watch?v=QHKsa3DuQWU)
 
 ## Release Images
 {{< imageGrid >}}
