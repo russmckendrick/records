@@ -19,7 +19,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <i>Beverly Hills 90210</i> and securing a devoted following with outlandish three-dimensional live performances. <i>Transmissions</i>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
+An “alternative rock” band that actually does provide an alternative by utilizing the recording studio to its maximum advantage, Oklahoma’s Flaming Lips make moody, modern day psychedelia that’s weird, creepy and excitedly optimistic. “She Don’t Use Jelly” was the freak hit that finally put the band across to the mainstream. The band used this point of entry for maximum effect, landing themselves on <I>Beverly Hills 90210</I> and securing a devoted following with outlandish three-dimensional live performances. <I>Transmissions</I>, with new guitarist Ronald Jones and drummer Steven Drozd, showcases the band’s strengths, from the whiplash rock hysteria of the opener “Turn It On” to the mock-field recording rusticity of “Chewin’ the Apple of Your Eye,” (which actually sounds like a long-lost ‘60s outtake recovered from a worn bootleg LP). The group’s svengali Wayne Coyne is at full capacity, singing like a demented street performer to best camouflage the shockingly bubble-gum melodies underpinning these fancily adorned studio recordings (“Be My Head”). This is what you call ‘head’ music for people who upon turning on and tuning in, don’t choose to drop out. But instead opt to engage further.
         
         
     
@@ -49,20 +49,11 @@ An “alternative rock” band that actually does provide an alternative by util
 
 - [The Flaming Lips - Be My Head [Official Music Video]](https://www.youtube.com/watch?v=6iwrnwSzbGM)
 - [The Flaming Lips - Turn It On [Official Music Video]](https://www.youtube.com/watch?v=WHV2Txq342o)
-- [Flaming Lips - Slow Nerve Action Music Video](https://www.youtube.com/watch?v=dAOL6iXZWRU)
-- [The Flaming Lips Pilot at the Queer of God](https://www.youtube.com/watch?v=guCdR2jnkls)
 - [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
 - [Oh My Pregnant Head](https://www.youtube.com/watch?v=6tuQjskHh4s)
 - [Pilot Can at the Queer of God](https://www.youtube.com/watch?v=anOaEWU18og)
-- [The Flaming Lips - Turn It On - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=EDOPdJO9jhw)
-- [The Flaming Lips - Superhumans - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=BCxy69NTyQM)
 - [******* (Plastic Jesus)](https://www.youtube.com/watch?v=GmoljzSI6W8)
 - [Superhumans](https://www.youtube.com/watch?v=X_Ygk4qGyt4)
-- [The Flaming Lips - Chewin the Apple of Your Eye - Transmissions from the Satellite Heart [1993]](https://www.youtube.com/watch?v=TyZLQK1hmpA)
-- [Pilot Can at the Queer of God - Flaming Lips](https://www.youtube.com/watch?v=EhNS5R1NUqc)
-- [4: THE FLAMING LIPS - pilot can at the queer of god](https://www.youtube.com/watch?v=yawys9d72IY)
-- [The Flaming Lips Slow Nerve Action](https://www.youtube.com/watch?v=woKyGavzW0Q)
-- [The Flaming Lips - Slow Nerve Action (Official Audio)](https://www.youtube.com/watch?v=-nvbmsxYX-4)
 
 ## Release Images
 {{< imageGrid >}}

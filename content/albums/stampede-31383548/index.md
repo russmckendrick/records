@@ -14,7 +14,7 @@ cover:
     caption: "Stampede by Orville Peck"
 additional_images:
     - "https://i.discogs.com/dsHKyvXSPnzY9MiQzXe2Gbbm6VO2OV1D3Bx03YCFv3E/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgz/NTQ4LTE3MjI2MTk4/ODYtMjcyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/UgsCWmaavnzsLjtu1Xjh4xxveZqUfG0MoBlk0WU4WS8/rs:fit/g:sm/q:90/h:1320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgz/NTQ4LTE3MjI2MTk4/ODYtMTUzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/XIQ7KOI7yp42HZwlNCO5chxrT0VfXyEaKTuUNg2aBUI/rs:fit/g:sm/q:90/h:600/w:272/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgz/NTQ4LTE3MjI2MTk4/ODYtMTUzMS5qcGVn.jpeg"
     - "https://i.discogs.com/OTQk-_w2RNKyF3hO_DreP470IAnlD7jqYY3rms-4YPE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgz/NTQ4LTE3MjI2MTk4/ODYtNDM0Ni5qcGVn.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Country"]
@@ -49,7 +49,14 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 {{< applemusic url="https://music.apple.com/gb/album/stampede/1749379116" >}}<br>
 
 
+## Videos
+### Orville Peck & Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other (Official Video)
+{{< youtube id="BirJMnMcfBs" title="Orville Peck & Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other (Official Video)" >}}<br>
+### More Videos
 
+- [Orville Peck & Beck - Death Valley High (Official Music Video)](https://www.youtube.com/watch?v=1eodFa9rZZQ)
+- [Orville Peck & Noah Cyrus - How Far Will We Take It? (Official Music Video)](https://www.youtube.com/watch?v=X3vPYhwZmOg)
+- [Orville Peck & Kylie Minogue & Diplo - Midnight Ride (Official Lyric Video)](https://www.youtube.com/watch?v=lKtOo5vwPVg)
 
 ## Release Images
 {{< imageGrid >}}

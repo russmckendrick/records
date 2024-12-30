@@ -22,9 +22,9 @@ additional_images:
     - "https://i.discogs.com/uIWXok0G2pQs3_WMutMWl_VR9Q_nrY4NcnhrGidUhHk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTktNTQ0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/xZ9Kect2FdusMqs6hspg-egEDFDPnxzBUMnwkNvgROc/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNzQ2OS5qcGVn.jpeg"
     - "https://i.discogs.com/qOVHaXEAnN_iP6H6VueSM92CsVApW1IoAYUT2yEBdNQ/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNzQ3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/3kJLZazOM4l70ToesTSefo9Cnn0l8GKsyCHGleg-YhI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNDA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/rywqeFapDaexSmoOsIneVZfUyHAvEVvI7fYGKB7SxeY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE2MDM3MTYw/OTgtNDA4NC5qcGVn.jpeg"
     - "https://i.discogs.com/gKHZD5wJNrIZ5dcItx694OQldu4meYE98S9eJvF5egc/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQx/MjUtMTAzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/kMAOcmqmeVyeJLmup2HiF1VRO_vcvp0_fYaQqduZxzY/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTQ3MjQ4/NDktOTE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/RnSIEC-mVU0pc1wkYlHQteylkv2Fal5kNXVxYsOTuG8/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTQ3MjQ4/NDktOTE0MC5qcGVn.jpeg"
     - "https://i.discogs.com/1LayMdW1q2osYvVCK7kUZybVBfwdQ19A362ynl69uU4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTQ3MjQ4/MzEtMzY1NS5qcGVn.jpeg"
 genres: ["Funk / Soul", "Pop"]
 styles: []
@@ -81,6 +81,13 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 {{< youtube id="ZmbiD9SCF7w" title="Read My Mind" >}}<br>
 ### More Videos
 
+- [Sour Flower](https://www.youtube.com/watch?v=BgirEShyrMg)
+- [Seven Times](https://www.youtube.com/watch?v=y12ZQbGGK_M)
+- [Please Don't Make Me Cry](https://www.youtube.com/watch?v=qwPJd6nQV9Y)
+- [Bittersweet (Full Length)](https://www.youtube.com/watch?v=AI4wVtrmMAc)
+- [Courage](https://www.youtube.com/watch?v=hX1kUBhmVAs)
+- [Green Papaya](https://www.youtube.com/watch?v=8KRgHWa8P90)
+- [Read My Mind](https://www.youtube.com/watch?v=ZmbiD9SCF7w)
 - [Sour Flower](https://www.youtube.com/watch?v=BgirEShyrMg)
 - [Seven Times](https://www.youtube.com/watch?v=y12ZQbGGK_M)
 - [Please Don't Make Me Cry](https://www.youtube.com/watch?v=qwPJd6nQV9Y)

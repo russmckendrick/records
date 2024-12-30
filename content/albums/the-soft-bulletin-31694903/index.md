@@ -18,6 +18,8 @@ styles: ["Psychedelic Rock", "Indie Rock", "Alternative Rock"]
 ---
 
 The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work.
+
+
     
     
 
@@ -46,17 +48,19 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 {{< youtube id="bs56ygZplQA" title="The Flaming Lips - Race For The Prize [Official Music Video]" >}}<br>
 ### More Videos
 
+- [The Flaming Lips - Waitin' for a Superman [Official Music Video]](https://www.youtube.com/watch?v=o0AOG7ciuJo)
 - [Feeling Yourself Disintegrate (2017 Remaster)](https://www.youtube.com/watch?v=XvvGYEjloOg)
 - [A Spoonful Weighs a Ton (2017 Remaster)](https://www.youtube.com/watch?v=5qVaP7mNphA)
 - [Suddenly Everything Has Changed (2017 Remaster)](https://www.youtube.com/watch?v=uEVbyd-u2X4)
 - [The Spiderbite Song (2017 Remaster)](https://www.youtube.com/watch?v=_Qta162ot5k)
 - [The Observer (2017 Remaster)](https://www.youtube.com/watch?v=MNwWm_9Jz9A)
-- [The Flaming Lips and the Colorado Symphony Perform The Soft Bulletin 2019](https://www.youtube.com/watch?v=fQ0kwWaplPk)
-- [Backspin: Wayne Coyne on The Flaming Lips' 'The Soft Bulletin'](https://www.youtube.com/watch?v=Y9cJ74sJwcY)
-- [The Flaming Lips - The Soft Bulletin - Pitchfork Classic](https://www.youtube.com/watch?v=widmy3lqT_w)
-- [The Flaming Lips play The Soft Bulletin live at Alexandra Palace July 1 2011 [full set]](https://www.youtube.com/watch?v=qsDNDOYDVxA)
-- [The Flaming Lips - The Soft Bulletin: Live La Fantastique de Institution 2011](https://www.youtube.com/watch?v=M2_8E-UQUgA)
-- [The̲ ̲Fla̲m̲i̲ng ̲Li̲ps -̲ ̲The̲ ̲Sof̲t̲ Bu̲l̲let̲in (̲FUL̲L ̲A̲LBU̲M)](https://www.youtube.com/watch?v=vYYshK3gOO0)
+- [The Flaming Lips - The Spark That Bled - The Soft Bulletin [1999]](https://www.youtube.com/watch?v=vibWSQZ7qNk)
+- [Flaming Lips "Race for the Prize" LAUNCH live performance 1999](https://www.youtube.com/watch?v=Hw0wZA9JVyk)
+- [The Flaming Lips - Interview (1999)](https://www.youtube.com/watch?v=JpdrIH_1Zb4)
+- [FLAMING LIPS LIVE TV 1999](https://www.youtube.com/watch?v=FHfKwM5vmvw)
+- [The Flaming Lips - Race For the Prize (Live in Los Angeles, 1999)](https://www.youtube.com/watch?v=Hdm9VCiXmp0)
+- [Flaming Lips - Buggin' Vinyl Rip from The Soft Bulletin (1999)](https://www.youtube.com/watch?v=y8TEgXhmDYo)
+- [The Soft Bulletin Medley | Promo for The Flaming Lips (1999)](https://www.youtube.com/watch?v=xeKBILcQlmA)
 
 ## Release Images
 {{< imageGrid >}}
