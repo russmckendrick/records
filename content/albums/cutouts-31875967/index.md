@@ -21,6 +21,7 @@ additional_images:
     - "https://i.discogs.com/XLoZDv_hdCOTmK7JsjEZqSxuAmDStuRgnGcNz1ry-gQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc1/OTY3LTE3MjgwMTg1/MzMtNTU3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/PdEZEzsh8yQsdwyLqDJhhdyg_h3QnM3tqYwukOibkNY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc1/OTY3LTE3MjgwMTg1/MzUtNTM1MC5qcGVn.jpeg"
     - "https://i.discogs.com/6E_mWPG34dh7z-HtQkrOY59WHE7V8fj2GIyY5172iNY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc1/OTY3LTE3MjgwMTg1/MzUtNTU2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/A3RTjQZIIGBfyWHviLCJ4rXmt82LIVJeP7qj-px1ILI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc1/OTY3LTE3Mjg1Mjc5/NDUtNzcyNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -57,8 +58,15 @@ It remains to be seen whether anything can be read into the trio clearing the de
 {{< youtube id="UHkZ5YzJYvI" title="The Smile - Foreign Spies (Official Music Video)" >}}<br>
 ### More Videos
 
+- [The Smile - Instant Psalm (Official Music Video)](https://www.youtube.com/watch?v=r38w0TawkcM)
 - [The Smile - Zero Sum (Official Music Video)](https://www.youtube.com/watch?v=TJ4lG5Szr50)
+- [The Smile - Colours Fly (Visualiser)](https://www.youtube.com/watch?v=qlqwRRjAkfQ)
+- [The Smile - Eyes & Mouth (Visualiser)](https://www.youtube.com/watch?v=bYBFK16wats)
 - [The Smile - Don't Get Me Started (Official Video)](https://www.youtube.com/watch?v=o9i9J6IOEq0)
+- [The Smile - Tiptoe (Visualiser)](https://www.youtube.com/watch?v=JGjzbsZ-FV4)
+- [The Smile - The Slip (Visualiser)](https://www.youtube.com/watch?v=NwCyP3h2nyA)
+- [The Smile - No Words (Visualiser)](https://www.youtube.com/watch?v=CH9C1Fx9PQc)
+- [The Smile - Bodies Laughing (Visualiser)](https://www.youtube.com/watch?v=EWpI0n1FZIY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +78,5 @@ It remains to be seen whether anything can be read into the trio clearing the de
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | XL Recordings |
 | Catalog Number | XL1445LPE |
-| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title. Includes a printed inner sleeve.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music and Warp Publishing |
+| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title. Includes a printed inner sleeve.  Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music and Warp Publishing |
 | Discogs URL    | [The Smile - Cutouts](https://www.discogs.com/release/31875967-The-Smile-5-Cutouts) |

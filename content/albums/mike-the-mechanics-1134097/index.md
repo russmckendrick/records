@@ -13,9 +13,9 @@ cover:
     caption: "Mike + The Mechanics by Mike & The Mechanics"
 additional_images:
     - "https://i.discogs.com/8Pbhg3UcZAhNhkCc91Y8ovIYzEUendn--bNOixq4qrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTYyMTY3ODUx/Ny03NjMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ATa_okOnCHNvm4kgcXqjMFdrMGYda3nJRR8hw1N7dls/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTc5/OS5qcGVn.jpeg"
-    - "https://i.discogs.com/xnPG7qVNVd2iZs1wOrsQtdAOUse32zqpIJm5XB6hpJo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgx/NC5qcGVn.jpeg"
-    - "https://i.discogs.com/layj2qxMRhCY4iJqjcXg61ns36__FjGn2RwwK0j64ZQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgz/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/FMOHGq6pvMNezUHghI80VxljNF7MHQ8lVmzCRKUOd6o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTc5/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/X6b2ka0oOaUI7MElnebxvnx0RGE8bI214U2CKygrxqo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgx/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/G0VIHUnAc-LlN7X-94arS1BosZWxx_nq-GKmssj4rZ0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/OTctMTE5NDg1OTgz/MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop"]
 ---
@@ -34,25 +34,23 @@ styles: ["Pop Rock", "Synth-pop"]
 9. Taken In (4:16)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics-m6/1197681039" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mike-the-mechanics/1721958796" >}}<br>
 
 
 ## Videos
-### Mike & The Mechanics - Silent running
-{{< youtube id="ep7W89I_V_g" title="Mike & The Mechanics - Silent running" >}}<br>
+### Mike + The Mechanics - Silent Running (On Dangerous Ground)
+{{< youtube id="VvajKY8drPY" title="Mike + The Mechanics - Silent Running (On Dangerous Ground)" >}}<br>
 ### More Videos
 
-- [Mike + The Mechanics   Silent Running vinyl](https://www.youtube.com/watch?v=vhHCq5LMRhY)
-- [Mike & The Mechanics - All I Need Is A Miracle](https://www.youtube.com/watch?v=cAMLa5ZC-B4)
-- [Mike + The Mechanics   All I Need Is A Miracle vinyl](https://www.youtube.com/watch?v=uGIQdVcC9co)
-- [Silent Running](https://www.youtube.com/watch?v=tNfIq9KTkfE)
-- [I Get the Feeling](https://www.youtube.com/watch?v=WXINL9w-uSU)
-- [You Are the One](https://www.youtube.com/watch?v=f2pRN2mGHJ4)
 - [Mike and the mechanics --   02 All I Need Is A Miracle-- HQ Audio](https://www.youtube.com/watch?v=X1uwIs_Jbq0)
-- [Par Avion - Mike and the Mechanics](https://www.youtube.com/watch?v=4-u03QnXGdE)
+- [Par Avion](https://www.youtube.com/watch?v=sriaHLZtGuo)
 - [Mike and the Mechanics- Hanging by a Thread](https://www.youtube.com/watch?v=O94HHm_Tu-g)
-- [Mike + The Mechanics - Taken In (Official Video)](https://www.youtube.com/watch?v=8toBVYDKukU)
-- [Mike + The Mechanics - Mike + The Mechanics (Full Album 1985)](https://www.youtube.com/watch?v=dOtfmYM_GOs)
+- [I Get the Feeling](https://www.youtube.com/watch?v=H3Qt7mex5tY)
+- [Take the Reins](https://www.youtube.com/watch?v=SR5M-jDO94M)
+- [Mike + The Mechanics - You Are the One](https://www.youtube.com/watch?v=b8mnkOoHiHA)
+- [Mike + The Mechanics - Taken In](https://www.youtube.com/watch?v=b4mGALRHay0)
+- [Mike + The Mechanics - A Call to Arms](https://www.youtube.com/watch?v=-sw76G3WF8s)
+- [Mike + The Mechanics - Taken In](https://www.youtube.com/watch?v=soKMaQbht60)
 
 ## Release Images
 {{< imageGrid >}}

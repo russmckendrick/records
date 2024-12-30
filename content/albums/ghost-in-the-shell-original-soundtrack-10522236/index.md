@@ -13,7 +13,7 @@ cover:
     caption: "Ghost In The Shell (Original Soundtrack) by Kenji Kawai"
 additional_images:
     - "https://i.discogs.com/97BFZchxtHv0RJ4jOYUJxveZxHb40dJe0CKWdoMsTUE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/ODAtMjU5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/0rQdP17FgBkQ3fxRpy1HQDHu0jH9RzKuDN9b5_U0MwM/rs:fit/g:sm/q:90/h:634/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/NzUtNTQ5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/0zEbPquRbPyNPY4YT9bcpAzL09p5T5GgoPWIyA01tfw/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/NzUtNTQ5MC5qcGVn.jpeg"
     - "https://i.discogs.com/0GUaQIVOg5kVAnTspKv1VLpSp6sK-1iUXxBQPOpE9lA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/NzUtNzI5OS5qcGVn.jpeg"
     - "https://i.discogs.com/UKATw_VKBrNqq63dRLSdfDqTwm2Y1aOx54qav9F0rYk/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/NzUtODQ3OS5qcGVn.jpeg"
     - "https://i.discogs.com/6FD_4j74JQCMC6hnScF5wWoWA1u3qNbujzTmF76akjI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/MjM2LTE1MDg3MjYz/NzUtOTk1OS5qcGVn.jpeg"

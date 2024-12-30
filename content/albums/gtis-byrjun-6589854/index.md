@@ -24,7 +24,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
 
-Sigur Rós’ second record—their first to be widely heard outside their native Iceland—is one of those epochal, game-changing albums that redefined what is possible in rock music. In this case, it proved that a neoclassical, shoegazing post-rock band specialising in glacially paced 10-minute movements sung in a made-up, indecipherable dialect could attract a mass audience and become one of the most influential alt-rock groups of their generation. <i>Ágætis Byrjun</i> delivers one weighty moment after another: sonar-pinged arias that gradually accrue enough force to shift tectonic plates (“Svefn-F-Englar”); meditative piano ballads that erupt into shrieking symphonic psychedelia ("Viðrar vel til loftárása"); choral sing-alongs that sound like Christmas in heaven (“Olsen Olsen”). But for all of his band’s grandiose gestures, Jónsi Birgisson's crystalline, androgynous coo turns <i>Ágætis Byrjun</i> into an intensely intimate experience. Even if you can’t understand what he’s saying, his vulnerable voice has the uncanny power to tap into your most repressed emotions and deep-seated bittersweet memories.
+Entirely in keeping with its musical content, the mammoth success of 1999’s <i>Ágætis byrjun</i> was slow-burning. Sigur Rós’s second record turned the then-quartet from Iceland into international stars and introduced a new sound into mainstream music. Post-rock had existed before, but not like this, so monumental and majestic and elegant. If Sigur Rós didn’t exist, no one would’ve thought to invent them—this was music that sounded like it had been beamed in from another galaxy.
+
+The band—vocalist and guitarist Jón Þór “Jónsi” Birgisson, keyboardist Kjartan Sveinsson, bassist Georg “Goggi” Hólm and drummer Ágúst Ævar Gunnarsson—had a feeling the album they were working on was special but they couldn’t have had any idea just how far and wide <i>Ágætis byrjun</i> would travel. Their 1997 debut <i>Von</i>had, after all, sold just over 300 copies. But there was an almost punk-rock attitude to the quartet in the manner that they stuck to a crystal-clear sonic vision (and persuaded Icelandic label Smekkleysa to foot the bill). With recording completed, they certainly felt bold—ahead of release, Jónsi wrote on the band’s website, “We are simply gonna change music forever.”
+
+It was not an immediate transformation but word soon spread. With music this irrepressible, it felt inevitable. These were songs (if you could call them songs) that paired rock dynamism with neoclassical sensibilities and ambient explorations. That some of the elements that made <i>Ágætis byrjun</i> so jaw-dropping happened by accident—like Hólm trying out a cello bow on his bass, discarding it because it didn’t sound any good only for Jónsi to give it a try on his guitar and create that gaping trademark drone—only adds to the magic. 
+
+In “Svefn-G-Englar”, the 10-minute epic that would become the album’s calling card, they had a song that sounded like a spaceship landing in slow motion, art rock but not as you knew it, ethereal and delicate but in the way that a mountain covered in snow looks ethereal and delicate from a distance. It’s a record that glides by in moments of wonder, from the stark orchestral drama of “Starálfur” to the experimental rock thump that detonates at the end of the otherwise gentle “Ný Batteri” to the joyous choral singing that brings “Olsen Olsen”’s sway to a close. It didn’t matter that the majority of listeners couldn’t understand what Jónsi was singing, his vocals mostly delivered in Icelandic but also in his fictional Hopelandish, it was about the way he sang, a falsetto that sounded like it was battling the elements. It was the perfect voice for music rooted in emotional connection.
+
+In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in the UK, with a US release following the year after. Somewhere in between, Radiohead invited Sigur Rós on tour as a support act. Momentum was with them. The record went on to sell over half a million copies, with some of its songs used to soundtrack poignant moments in Hollywood movies. More than that, though, it was the soundtrack to a new millennium. As one century slipped into the next, Sigur Rós gifted the world with their strange beauty. As Jónsi predicted, they simply changed music forever.
     
     
 
@@ -68,6 +76,16 @@ Sigur Rós’ second record—their first to be widely heard outside their nativ
 - [Olsen olsen](https://www.youtube.com/watch?v=r99HxSSgzsw)
 - [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
 - [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
+- [Intro](https://www.youtube.com/watch?v=56qkeYZn7Ig)
+- [Svefn-g-englar  [Official Video]](https://www.youtube.com/watch?v=8L64BcCRDAE)
+- [Starálfur](https://www.youtube.com/watch?v=7fEUUnXDnbk)
+- [Flugufrelsarinn](https://www.youtube.com/watch?v=X2kgnWqCw0k)
+- [Ný batterí](https://www.youtube.com/watch?v=TU9T3T2pmjQ)
+- [Hjartað hamast (bamm bamm bamm)](https://www.youtube.com/watch?v=5uID1eJFYws)
+- [Viðrar vel til loftárása [Official Video]](https://www.youtube.com/watch?v=akYuy2FMQk4)
+- [Olsen olsen](https://www.youtube.com/watch?v=r99HxSSgzsw)
+- [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
+- [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,4 +97,4 @@ Sigur Rós’ second record—their first to be widely heard outside their nativ
 | Label          | XL Recordings |
 | Catalog Number | XLLP610 |
 | Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.   |
-| Discogs URL    | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854-Sigur-R%C3%B3s-%C3%81g%C3%A6tis-Byrjun) |
+| Discogs URL    | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854-Sigur-Rós-Ágætis-Byrjun) |

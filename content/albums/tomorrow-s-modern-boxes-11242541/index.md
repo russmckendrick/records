@@ -19,15 +19,18 @@ additional_images:
     - "https://i.discogs.com/HUx37PFqwP24td2MIFYyE8gfPcqTy1Blrf0QenQysDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1MzU3NDI3/OTgtNzcyNi5qcGVn.jpeg"
     - "https://i.discogs.com/8H1s-PnNMrMNOlShFqoxZR5gSt89bH0vLCvPpen40-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1MzU3NDI3/OTctNDc1My5qcGVn.jpeg"
     - "https://i.discogs.com/SOzbfqdcrZHYUS199HY10Gq4UW1eH1oQy9FyP9Meg20/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1MzU3NDI3/OTYtMzc2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/jfGhCo-vvPB1jRtFsCDxuJjO46jH7jXGneBgJ616lYA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE2MzE3Mzgx/OTktNDkyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/W4KKwK9PeJwvlXa2diTLYZ0NUcBVwk2K88gvFT_PN7o/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE2MzE3Mzgx/OTktNDkyMi5qcGVn.jpeg"
     - "https://i.discogs.com/kh-scdzaav_9zOGFa4DXM0WPJQGQnbcETaB0o7aKNjI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE2MzE3Mzgy/MDQtMjUyNS5qcGVn.jpeg"
     - "https://i.discogs.com/540OAL9F6v-ZAQFiE_oRTAm5iF0XH6M_GHvvW6ddJMQ/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE2MzE3Mzgy/MTctNzAwOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-The second solo album from Thom Yorke shares with its predecessor an exclusive reliance on keyboards and electronics to accompany the Radiohead frontman's haunting vocals. But <i>Tomorrow's Modern Boxes</i> is sparser and less groove-driven than <i>The Eraser</i>. While a couple of tunes are fueled by modified house beats, pieces like the beatless, ethereal instrumental "Pink Section" and the delicately floating "Interference" allow Yorke to achieve the kind of sonic simplicity that becomes difficult when you've got a whole band's ideas to contend with.
-    
+Tomorrow's Modern Boxes is the second studio album by the English musician Thom Yorke, released on 26 September 2014. It was produced by Nigel Godrich, with artwork by Stanley Donwood, both of whom have long collaborated with Yorke and his band Radiohead. The album blends Yorke's vocals and piano playing with electronic beats and textures.
+Yorke released Tomorrow's Modern Boxes independently via a paid-for BitTorrent bundle. Yorke and Godrich criticised the streaming service Spotify, saying it did not fairly compensate new artists, and expressed their wish to give "control of internet commerce back to people who are creating the work". The album was downloaded over a million times within six days, and became the most downloaded legal torrent of 2014. By February 2015, it had been downloaded more than 4.5 million times.
+A vinyl edition was also sold from the official site. In December 2014, Yorke released Tomorrow's Modern Boxes on the online music shop Bandcamp alongside a new song, "Youwouldn'tlikemewhenI'mangry". A CD edition was released in Japan in 2015 by Hostess Entertainment. In 2017, it was added to streaming services including Spotify and retail editions were released worldwide by XL Recordings. Tomorrow's Modern Boxes received generally positive reviews and Rolling Stone named it one of the best albums of 2014.
+        
+        
     
 
 
@@ -45,7 +48,19 @@ The second solo album from Thom Yorke shares with its predecessor an exclusive r
 {{< applemusic url="https://music.apple.com/gb/album/tomorrows-modern-boxes/1262568019" >}}<br>
 
 
+## Videos
+### YouWouldn'tLikeMeWhenI'mAngry
+{{< youtube id="IQbl8kleYUQ" title="YouWouldn'tLikeMeWhenI'mAngry" >}}<br>
+### More Videos
 
+- [A Brain in a Bottle](https://www.youtube.com/watch?v=mgxJlmdvr9A)
+- [Guess Again!](https://www.youtube.com/watch?v=Q_L5aaSH3P4)
+- [Interference](https://www.youtube.com/watch?v=jrnK67JPES8)
+- [The Mother Lode](https://www.youtube.com/watch?v=kZo9bY9C-Fw)
+- [Truth Ray](https://www.youtube.com/watch?v=_TZkKx7Rrhc)
+- [There Is No Ice (For My Drink)](https://www.youtube.com/watch?v=4hRQNHVCtwk)
+- [Pink Section](https://www.youtube.com/watch?v=KmlywjM3JdI)
+- [Nose Grows Some](https://www.youtube.com/watch?v=pMxcgw1_Ejg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +68,7 @@ The second solo album from Thom Yorke shares with its predecessor an exclusive r
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tomorrow%27s_Modern_Boxes |
 | Format         | Vinyl LP Album Reissue (White, 180g) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP866 |

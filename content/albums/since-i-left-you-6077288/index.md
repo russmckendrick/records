@@ -14,9 +14,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/KoCDspeSFgjlYIO79IgctAGi3VUd-ccLkWPusR6BEcM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTQ2OTE3MzQ0/OS0yMDI3LmpwZWc.jpeg"
     - "https://i.discogs.com/4H-i-6S5f5NOM-28SvCqu8NxGzSxSukr19RRLdk0Rao/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTQ2OTE3MzQ1/MS04NDExLmpwZWc.jpeg"
-    - "https://i.discogs.com/3-NCZ907vCOKGtEyYP--SOIVZUwqgZA34iFuvPlSSAw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTI0/MC0xNjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/jL4tYr-Z2fZBfc-2T9FFUeVnbcTfyHcqH8HmO9ns-14/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTI0/MC0xNjg0LmpwZWc.jpeg"
     - "https://i.discogs.com/U1-KAfjiaamqzJ7WdeY1zJGtEWx4I1nT_9KZpDduvYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTIz/OS00MTAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/swihGfwFTwTEKYbv8S4_zyLwBzKEsFJpVMkXaziBgDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTIz/OS03MDk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/d6Bk-42d6CqRgonerAylizKTVQ7juETnMot9Au6BroY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTIz/OS03MDk1LmpwZWc.jpeg"
     - "https://i.discogs.com/kQTtDoSMStEIos6SAI9M0lTo4z5_8rIHRIcdz_gRxh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTIz/OS01NjU5LmpwZWc.jpeg"
     - "https://i.discogs.com/k18lCbp-JeD7r-AxssZRiB1hJoJ1mXTmfdzx7ODz26I/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/ODgtMTY0MjExOTI0/MC0xNzEzLmpwZWc.jpeg"
 genres: ["Electronic"]
@@ -59,13 +59,9 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 {{< youtube id="vFWmwkoNq6s" title="The Avalanches - Since I Left You (Extended Alternate Version)" >}}<br>
 ### More Videos
 
-- [The Avalanches - Since I Left You (1hr)](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
 - [The Avalanches — Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
-- [A Different Feeling (Carl Craig's Paperclip People Remix)](https://www.youtube.com/watch?v=RUZDndmoV0s)
 - [Since I Left You (Stereolab Remix)](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
-- [The Avalanches -  'Since I Left You'](https://www.youtube.com/watch?v=wpqm-05R2Jk)
 - [The Avalanches - Since I Left You (Ultimate Ultimate Single Version)](https://www.youtube.com/watch?v=3-iRAQWvem8)
-- [The Avalanches -  'Frontier Psychiatrist'](https://www.youtube.com/watch?v=qLrnkK2YEcE)
 - [The Avalanches - Stay Another Season](https://www.youtube.com/watch?v=fsJcghJepIE)
 - [The Avalanches — With My Baby](https://www.youtube.com/watch?v=-JfTdLmrccQ)
 - [The Avalanches - Radio (Ultimate Single Version)](https://www.youtube.com/watch?v=A96WCiH8cgc)
@@ -78,12 +74,19 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 - [Electricity](https://www.youtube.com/watch?v=uPeQ9eP_FgY)
 - [The Avalanches —  Tonight May Have to Last Me All My Life](https://www.youtube.com/watch?v=bQQG7qw41Og)
 - [Pablo's Cruise](https://www.youtube.com/watch?v=7rfxZ5IJQxg)
+- [The Avalanches - Frontier Psychiatrist (Official Video)](https://www.youtube.com/watch?v=qLrnkK2YEcE)
 - [ETOH](https://www.youtube.com/watch?v=QDasjmCz1do)
 - [The Avalanches - Summer Crane](https://www.youtube.com/watch?v=KuLD_JSY4z8)
 - [The Avalanches — Little Journey](https://www.youtube.com/watch?v=H9UD-ZmMjXE)
 - [The Avalanches — Live at Dominoes](https://www.youtube.com/watch?v=CWOAFVLcDic)
 - [The Avalanches — Extra Kings](https://www.youtube.com/watch?v=_6TWkDeAIxI)
+- [The Avalanches - Since I Left You](https://www.youtube.com/watch?v=wpqm-05R2Jk)
 - [The Avalanches - Since I Left You (Prince Paul Remix)](https://www.youtube.com/watch?v=vSqcYv0QgGw)
+- [Samples from The Avalanches - Since I Left You](https://www.youtube.com/watch?v=31gTur14Hbc)
+- [The Avalanches -  'Since I Left You'](https://www.youtube.com/watch?v=wpqm-05R2Jk)
+- [The Avalanches -  'Frontier Psychiatrist'](https://www.youtube.com/watch?v=qLrnkK2YEcE)
+- [The Avalanches - Since I Left You (1hr)](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
+- [A Different Feeling (Carl Craig's Paperclip People Remix)](https://www.youtube.com/watch?v=RUZDndmoV0s)
 
 ## Release Images
 {{< imageGrid >}}

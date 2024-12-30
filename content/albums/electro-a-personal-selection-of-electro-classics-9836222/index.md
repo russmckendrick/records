@@ -13,13 +13,13 @@ cover:
     caption: "Electro (A Personal Selection Of Electro Classics) by Various"
 additional_images:
     - "https://i.discogs.com/TYarZRrGkhMozXi8TZrjmqEjjP9L7mBJkOWlSddUG5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTQ4NzA5OTM0/MC05OTQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/kozBP1pA9dfBkOf20hXC51xkzlwvz1rFleFvqDO2I1E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MS01ODgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/8wg2TZt3xHSW1UGmJsXKWUh6NL9nWqJkOB_Wxf5jLjs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MS01ODgyLmpwZWc.jpeg"
     - "https://i.discogs.com/L7Afj2m14v76psf2Rnu6So47UM2O9JiCBeyRATWKlUM/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/Mi05MDAwLmpwZWc.jpeg"
     - "https://i.discogs.com/hpyxM7vf_Jc4orpg-JcV0PUIQRQTB1V684LIe7eHFRg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MS01OTk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/Aq5_3TiYi3thVRgi_oJdDmcH69i5q4wlnJPgUUXcl6I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0zODE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/dJS7Wp5EJueLlZPQr2S7AfLyG065RZKuINpqt5n3cf0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0zODE1LmpwZWc.jpeg"
     - "https://i.discogs.com/WU5FpOL64Rc3Heb7lwboG2kovfjR2SPTEcferPCzpbw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS02NjUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/XEyPC3e7RsTO8VggU9wPlD9PSqLbX6kVg3LT3Itnh_w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MC0zNTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/qEO20BZT-MTI3a5yezhZFV-5-uuunT_4UMN-rEyPyZY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0yNjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/cot2powKYWQNP57RcB7POKmNwX5MzZCgG7QLm9dIB8M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTgw/MC0zNTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/iARgzXYWW25m9Ax2urvT5u_tqhcWcuoz7SGga-5epgk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzYy/MjItMTY2MzQ3MTc5/OS0yNjI3LmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Electro"]
 ---
@@ -44,10 +44,10 @@ styles: ["Electro"]
 ### More Videos
 
 - [Aleem ft. Leroy Burgess - Release Yourself (DUB)](https://www.youtube.com/watch?v=v6mnQzQ0DgE)
-- [Dynamix II - Just give the D.J. a break (12 Club Version)](https://www.youtube.com/watch?v=C7Okvrwtg6k)
+- [Dynamix II - Just give the D.J. a break (12" Club Version)](https://www.youtube.com/watch?v=C7Okvrwtg6k)
 - [High Noon, Pt. 2](https://www.youtube.com/watch?v=EMEVKbIGdHM)
 - [Newcleus Computer Age Push the Button](https://www.youtube.com/watch?v=OJd22xoSTNM)
-- [Tyrone Brunson - The Smurf (12)](https://www.youtube.com/watch?v=7VaGGZplMPs)
+- [Tyrone Brunson - The Smurf (12")](https://www.youtube.com/watch?v=7VaGGZplMPs)
 - [Paul Hardcastle - Rainforest (12 inch version) 1985 HQsound](https://www.youtube.com/watch?v=lFmcdf77wzU)
 - [Keymatic - Breakin In Space](https://www.youtube.com/watch?v=AhZVhtOsZDE)
 - [Dwayne Omarr - This Party's Jam Packed](https://www.youtube.com/watch?v=2Y48_5DoqmU)

@@ -13,23 +13,24 @@ cover:
     alt: "A Light For Attracting Attention by The Smile"
     caption: "A Light For Attracting Attention by The Smile"
 additional_images:
-    - "https://i.discogs.com/er7xQrkvOgMN8Q8dksjL4ANLlSViYYNmfBYTs3q98OQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU0OTY1/MjItOTQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/bjE1fUeiahWQFQQj7oHFzcc9c-uvpVudsinUDO1aPcI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE3MDA1MTUy/NDgtODY1MC5qcGVn.jpeg"
     - "https://i.discogs.com/FeQufFphiBDug0BSRrz3iT9QPK28GATyGyW6hfUzT3o/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjMtNzI0OS5qcGVn.jpeg"
     - "https://i.discogs.com/Ohzuxdzqtha7q8I_RClLNFbe2WRVDIHsRjt17hw1jkQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/ODAtNDU1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/WH-4jRXWM4sK4VekoF0gckH8LV3ir4P0NpJ-sS-K8Ss/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NTUtODM3MS5qcGVn.jpeg"
     - "https://i.discogs.com/M_DFXWouqp8-vpuZ-E7tin9t4VNfFQqW2CUFpqWb7fA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NTctNTg2My5qcGVn.jpeg"
     - "https://i.discogs.com/0B6sFOOo4o2tZCAmQ8UEdEOuo87mJuNFm5-J-UE_E5I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NTItNDI3My5qcGVn.jpeg"
-    - "https://i.discogs.com/Cevc7ndalJWmwux76zlFMxbEDG7YvNeek4tIRoeGc1Q/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjItOTE0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/eX76RkLkrGvsjTPWKZanbcHTjQBqxXEJFFXmqOm9-js/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NTAtMjc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/3jgpDWMbgQeZ1KRENsR4U8R3KAKCFPjunNst_IFgiak/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjItOTE0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/QWTaxxUARSZ3XxG4NzOBA9L2Qb1zEMW33vqorvFyDTk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NTAtMjc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/lgG9SXgGS8-S4AhSJKAELME7D-vtuvizlG6dwl1beuo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjQtNTM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/cqui_uQWvkfpiqZeRWzwM2blLLav9zEcwf7qpZu9KEA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/ODAtNDE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/CJafXJORC31Y20X_Wybkt1Uy3nE1v3sni4Lf2Mm6DZ0/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjItNjc0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/KVGXxl1sLt5hjj5FvgM9tOxFcr2-6lLV9K1E1UjAAA4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/ODEtNzkwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/Sx7n5e--1WHP267kANawYCTq60PMIMZTS7XWcwvg7vM/rs:fit/g:sm/q:90/h:637/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NzItOTQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/tG70SJ1bjLb_bQzWgK7iBs_wouTUJ-952dnYHH9L1ac/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/ODEtNzkwNC5qcGVn.jpeg"
     - "https://i.discogs.com/y4wft-AEEcT9KjpczBNgGROCudtP0Echwh5XK8T8vH0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ3/MDItOTM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ezO8CAZG4RXcwXb43m6jYg2EjoloTZudMrrF0946vBU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ3/MDAtODUwMC5qcGVn.jpeg"
     - "https://i.discogs.com/fCwk_d0ia_1C32KEc1BVc9Qpy_SofEjndTPQGdrbRm4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU1OTQz/NzktMTYyNy5qcGVn.jpeg"
     - "https://i.discogs.com/sPLzN2wHs18u0fMSUl3bx3QZff0CCp_B_AcsH1FFtCQ/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU1OTQz/ODAtOTg3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Jg9Ja2gT3bnSqjEgAQqZYFDmiZ1qf83hzs6XfGXw52Q/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NzItOTQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/er7xQrkvOgMN8Q8dksjL4ANLlSViYYNmfBYTs3q98OQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU0OTY1/MjItOTQxOS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -94,4 +95,4 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 | Label          | XL Recordings |
 | Catalog Number | XL1196LPE |
 | Notes | Optimal pressing.  Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard. Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front. Includes matte finish printed inner sleeves. Undersized picture labels. Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.  Tracks are numbered sequentially across sides in the inner gatefold.  Front sticker: Debut album from new group The Smile Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner Limited edition yellow vinyl  Recorded at Wack Formula London Mastered [...] at Gateway Mastering, Portland, Maine Strings [...] recorded at Air Edel Studio  Woodblock lettering from a collection held by The Bodleian Library, Oxford Digital fonts by Andrew Leman at HPLHS.org  ℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. ©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. Published by Warner Chappell Music, Kobalt Music and Copyright Control. |
-| Discogs URL    | [The Smile - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-A-Light-For-Attracting-Attention) |
+| Discogs URL    | [The Smile - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-5-A-Light-For-Attracting-Attention) |

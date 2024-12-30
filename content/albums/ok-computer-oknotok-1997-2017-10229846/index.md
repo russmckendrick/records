@@ -37,8 +37,8 @@ styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
 OK Computer OKNOTOK 1997 2017 is a reissue of the 1997 album OK Computer by the English rock band Radiohead. It was released in June 2017, the album's 20th anniversary, following the 2016 acquisition of Radiohead's back catalogue by XL Recordings from EMI.
-OKNOTOK comprises remastered versions of OK Computer and its B-sides, plus three previously unreleased songs: "I Promise", "Man of War" and "Lift". The special edition includes an art book, notes, and a cassette tape of demos and session recordings. Unlike previous Radiohead reissues, which were released by EMI without Radiohead's involvement and contained no new material, the band curated the OKNOTOK material themselves.
-Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music videos were released for the three new songs, and "I Promise" and "Man of War" were released as singles. OKNOTOK debuted at number two in the UK Albums Chart and was the bestselling album in UK independent record stores for a year. In the US, it reached number 23 on the Billboard 200. It received critical acclaim.
+OKNOTOK comprises remastered versions of OK Computer and its B-sides, plus three previously unreleased songs: "I Promise", "Man of War" and "Lift". The special edition includes an art book, notes, and a cassette tape of demos and session recordings. Unlike previous Radiohead reissues, which were released by EMI and contained no new material, Radiohead curated the OKNOTOK material themselves.
+Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music videos were released for the three new songs, and "I Promise" and "Man of War" were released as singles. OKNOTOK debuted at number two in the UK Albums Chart and was the bestselling album in UK independent record stores for a year. In the US, it reached number 23 on the Billboard 200. It received acclaim, particularly for its bonus material.
 
 
         
@@ -47,29 +47,29 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 
 
 ## Tracklisting
-1. ip
+1. Ip
 2. Airbag
 3. Paranoid Android
 4. Subterranean Homesick Alien
-5. skip
+5. Skip
 6. Exit Music (For A Film)
 7. Let Down
 8. Karma Police
-9. sky
+9. Sky
 10. Fitter Happier
 11. Electioneering
 12. Climbing Up The Walls
 13. No Surprises
-14. blue
+14. Blue
 15. Lucky
 16. The Tourist
-17. who's
+17. Who's
 18. I Promise
 19. Man Of War
 20. Lift
 21. Lull
 22. Meeting In The Aisle
-23. it
+23. It
 24. Melatonin
 25. A Reminder
 26. Polyethylene (Parts 1 & 2)
@@ -82,24 +82,12 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 
 
 ## Videos
-### Radiohead - Karma Police
-{{< youtube id="1uYWYWPc9HU" title="Radiohead - Karma Police" >}}<br>
+### Radiohead - Paranoid Android
+{{< youtube id="fHiGbolFFGw" title="Radiohead - Paranoid Android" >}}<br>
 ### More Videos
 
-- [Airbag](https://www.youtube.com/watch?v=jNY_wLukVW0)
+- [Radiohead - Karma Police](https://www.youtube.com/watch?v=1uYWYWPc9HU)
 - [Radiohead - No Surprises](https://www.youtube.com/watch?v=u5CVsCnxyXg)
-- [Paranoid Android](https://www.youtube.com/watch?v=Lt8AfIeJOxw)
-- [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
-- [Subterranean Homesick Alien](https://www.youtube.com/watch?v=_fTWmUlTEqE)
-- [Exit Music (For A Film)](https://www.youtube.com/watch?v=Bf01riuiJWA)
-- [Let Down (Remastered)](https://www.youtube.com/watch?v=ZVgHPSyEIqk)
-- [Karma Police](https://www.youtube.com/watch?v=4IJI6soiQhI)
-- [Fitter Happier](https://www.youtube.com/watch?v=O4SzvsMFaek)
-- [Electioneering](https://www.youtube.com/watch?v=3DtgWrFTtQk)
-- [Climbing Up the Walls](https://www.youtube.com/watch?v=XX4EpkR-Sp4)
-- [No Surprises](https://www.youtube.com/watch?v=LBt60dfwEBY)
-- [Lucky](https://www.youtube.com/watch?v=yuZYQvvLXVY)
-- [The Tourist](https://www.youtube.com/watch?v=HkgzObf8uVU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -108,7 +96,7 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OK_Computer_OKNOTOK_1997_2017 |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue, Vinyl LP Compilation, All Media Limited Edition Remastered (Blue Opaque, 180 Gram) |
+| Format         | Vinyl 2× LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition Remastered Stereo (Blue Opaque, 180 Gram) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP868X |
 | Notes | Originally advertised as being "Limited to 7,000 copies". Unconfirmed 10,000 copies pressed due to pre-order demand. Indie record stores exclusive.  Triple-sleeve gatefold jacket with colour printed inner sleeves. Three 180 gram blue coloured 12" vinyl records containing the original twelve track album,  three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes.  Includes a download code card (for MP3 or WAV formats).  Different barcodes on the cover and shrink.  XLLP868  appears on the back of the gatefold. XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.  ℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited. © 1997-2017 XL Recordings Limited.  Printed in E.U. Made in the E.U.  Runouts are etched |

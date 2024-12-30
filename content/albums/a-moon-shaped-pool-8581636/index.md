@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/TgIijqrfJaaKwcQLupk_vPyhg8ZvekkrkFCrfuqGeBA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE3MjM1/Ny0yODU2LmpwZWc.jpeg"
     - "https://i.discogs.com/qDh4LHw2gQbk9kArtQfYKb7iS0IpDktqknXEg0slUvI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ni0xNTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/RAwrbcydG698MsdCdNehnWSdZwdIjhlx8xF-7cbxRBI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ni0xMzM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/ClAyWwR76JxKbY8va5a_HctmR0uumwjnvMZTdMQ92UY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/OS0yOTIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Bomet3C236e0Ul63HV-ADc0fHxoEr59vVVXi-Ug2USY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ny0xNTcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/FlarjCWBqLxjD0X5HF7ewrIse_gCvKFkSHm6FzNvYDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ny01MTE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/IQNcx9V48-rIdsnHKNU_eI2rPC8oVjaVEZczuwf6TJ0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/OS0yOTIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/wlGXXqiacmFpqouYreT-ZufmQXbTAGgfjp1983GxHnU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ny0xNTcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/kPF8bHPfSCi_MEWacGOUZzmzKbdQxp8-jKQmIGk9Hlo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NTkx/Ny01MTE5LmpwZWc.jpeg"
     - "https://i.discogs.com/IvtOS_0cnrLYqRd2gYHr3ty5MpFw_pM_2t1RWZ1jKtg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE3NTc2/NC02MzUxLmpwZWc.jpeg"
     - "https://i.discogs.com/OkhfonbpjJCAAr3lVlQ5GLjBCUlrGwaGAlgBQ_U8OkI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE3NTc1/OC01NjE1LmpwZWc.jpeg"
     - "https://i.discogs.com/asC6nQ91aLZyd6JSOiJcyvukiLRYiTVFd_n7x_yjL5g/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE3NTc3/Mi0xNDI1LmpwZWc.jpeg"
@@ -28,16 +28,17 @@ additional_images:
     - "https://i.discogs.com/9JwR0kFuZXT3J85qo5PQ_KFJEbQEvaeiY6Yak_Atcts/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjE2NjA2/NS0xNjI3LmpwZWc.jpeg"
     - "https://i.discogs.com/6-Z92-Z0PdQfs2xhOhrPan_bbe38t773fFsLD7HZcYM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTYxOTY5MDE2/MS00NDE5LmpwZWc.jpeg"
     - "https://i.discogs.com/zr191bHohYhc_BpziiEgM5MzvFGa7SJ7P8aXpCQY5pg/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTYxOTY5MDE3/Ny03MTcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/_JZbUbwjtQUDSisVgqGgM9o78NbcDCJOvSNo1HPXPy4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTcxMDg0NTE0/MS02MzQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/AgRFxRTzkN1W7r-PrXSKqm0wu4lE7NLek3DJ55ffzEI/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTcxMDg0NTE0/MC0xMzI3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Indie Rock"]
 ---
 
-A Moon Shaped Pool is the ninth studio album by the English rock band Radiohead. It was released digitally on 8 May 2016, and physically on 17 June 2016 through XL Recordings. It was produced by Radiohead's longtime collaborator Nigel Godrich.
-Radiohead recorded A Moon Shaped Pool in RAK Studios in London, their studio in Oxford, and the La Fabrique studio in Saint-Rémy-de-Provence, France. It features prominent use of strings and choral vocals arranged by the guitarist Jonny Greenwood and performed by the London Contemporary Orchestra. Several songs, such as "True Love Waits" and "Burn the Witch", were written years earlier. The lyrics address climate change, groupthink and heartbreak. Many critics saw them as a response to the split of the singer, Thom Yorke, from his wife, Rachel Owen. Radiohead's longtime collaborator Stanley Donwood created the abstract cover by exposing his paintings to weather.
-Radiohead promoted A Moon Shaped Pool with singles and videos for "Burn the Witch" and "Daydreaming", a viral campaign of postcards and social media posts, and a series of video vignettes. Radiohead toured in 2016, 2017 and 2018, with headline performances at festivals including Glastonbury and Coachella. The tour included a performance in Tel Aviv, which drew criticism from supporters of Boycott, Divestment and Sanctions, a campaign for an international cultural boycott of Israel.
-A Moon Shaped Pool was named one of the best albums of the year and decade by many publications. It was the fifth Radiohead album nominated for the Mercury Prize, and was nominated for Best Alternative Music Album and Best Rock Song (for "Burn the Witch") at the 59th Annual Grammy Awards. It topped the charts in several countries, becoming Radiohead's sixth number one on the UK Album Charts, and was a bestseller on vinyl. It is certified gold in the UK, US, Canada, Australia, France and Italy.
+For two decades, Radiohead’s recording career had been a see-saw between past and present—or between records that recalled their roots as a rock band, and ones that suggested the group members were actively seeking some next frontier. For 2011’s <i>The King of Limbs</i>, Radiohead had used sampling software to build eight amorphous songs from loops, each shifting like phantoms in the sky. But long-time producer Nigel Godrich wanted to go the other way as sessions began for Radiohead’s follow-up album. This time around, he captured the bandmates on tape as they dug into Thom Yorke’s demos for the first time. The sounds that emerged suggested a synthesis of Radiohead’s first quarter-century, with the electronic experimentation of their most iconoclastic works interlacing with the romantic surges of their earliest days. The resulting album, 2016’s <i>A Moon Shaped Pool</i> is perhaps the most assured-sounding album of Radiohead’s existence.
 
+It’s also a record that expresses deep personal anguish and existential doubt. Yorke split from his long-time partner, Rachel Owen, as the band worked; after a battle with cancer, she would die seven months after the release of <i>A Moon Shaped Pool</i>. Many of these songs explore loss—not just of a relationship itself, but of the time spent in something that simply stops working: A fragile and haunted lullaby, “Daydreaming” surveys just how much our stubborn habits cost us, its tense strings slicing like a hot knife through Yorke’s mangled vocals. And during the devastating “Glass Eyes”, he takes a rare step into first-person narration, relaying the onset of a panic attack above lachrymose textures that also conjure that condition’s unsteady breaths. The album concludes with “True Love Waits”—an older Radiohead tune that fans had been bootlegging for years. A slow and balletic beauty, with piano traced by electronics so faint they suggest a whispering apparition, “True Love Waits” sends off the album with a hymn for holding on and being held in love.
 
+The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitated to discuss it—even a year after the album’s release. “I don’t want to talk about it anymore, if that’s all right,” Ed O’Brien told a reporter. “I feel like the dust hasn’t settled.” But Radiohead again rose to the moment entirely, both in those songs about the tenderest parts of our hearts, and the songs that turned outward, especially on “The Numbers”. A power-to-the-people opus for the climate-change fight, it felt like Radiohead venturing back into politics, pointing us forward. “The future is inside us,” Yorke moans through a psychedelic haze. “It’s not somewhere else.”
         
         
     
@@ -61,20 +62,11 @@ A Moon Shaped Pool was named one of the best albums of the year and decade by ma
 
 
 ## Videos
-### Radiohead - Burn The Witch
-{{< youtube id="yI2oS2hoL0k" title="Radiohead - Burn The Witch" >}}<br>
+### True Love Waits
+{{< youtube id="WSnc_6Z7HqQ" title="True Love Waits" >}}<br>
 ### More Videos
 
-- [Radiohead - Daydreaming](https://www.youtube.com/watch?v=TTAU7lLDZYU)
 - [Decks Dark](https://www.youtube.com/watch?v=Del3C2W63Pk)
-- [Desert Island Disk](https://www.youtube.com/watch?v=RfmE73FCOFg)
-- [Ful Stop](https://www.youtube.com/watch?v=NHDOk7lA53w)
-- [Glass Eyes](https://www.youtube.com/watch?v=fzK5kbNL2Ak)
-- [Identikit](https://www.youtube.com/watch?v=QZfK4zOQQ3E)
-- [The Numbers](https://www.youtube.com/watch?v=zmo-11Bc0XM)
-- [Present Tense](https://www.youtube.com/watch?v=kPAZV8y4B44)
-- [Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief](https://www.youtube.com/watch?v=hetqKun4XFg)
-- [True Love Waits](https://www.youtube.com/watch?v=WSnc_6Z7HqQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -29,8 +29,10 @@ genres: ["Rock"]
 styles: ["Progressive Metal", "Art Rock", "Prog Rock", "Alternative Rock", "Experimental"]
 ---
 
-Lateralus () is the third studio album by American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's two previous releases Ænima and Salival, produced the album along with the band, and became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.
-The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200 copies in its first week of release. It was certified double platinum by the RIAA on August 5, 2003. On February 13, 2015, the album was certified Gold by the BPI. It was also certified platinum in Australia, and double platinum in Canada. The band won the Grammy Award for Best Metal Performance for the song "Schism" in 2002. Lateralus was ranked No. 123 on the Rock and Roll Hall of Fame's "Definitive 200" list. This was also the only album of Tool's catalogue which did not featured the Parental Advisory sticker.
+Lateralus () is the third studio album by the American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's two previous releases Ænima and Salival, produced the album along with the band, and became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.
+The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200 copies in its first week of release. It was certified triple platinum by the RIAA on April 15, 2021. On February 13, 2015, the album was certified Gold by the BPI. It was also certified double platinum in both Australia and Canada. The band won the Grammy Award for Best Metal Performance for the song "Schism" in 2002. Lateralus was ranked No. 123 on the Rock and Roll Hall of Fame's "Definitive 200" list.
+
+
         
         
     
@@ -60,8 +62,8 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 {{< youtube id="MM62wjLrgmA" title="TOOL - Schism" >}}<br>
 ### More Videos
 
-- [TOOL - The Grudge (Audio)](https://www.youtube.com/watch?v=3BXyEUOuNds)
 - [TOOL - Parabola](https://www.youtube.com/watch?v=-_nQhGR0K8M)
+- [TOOL - The Grudge (Audio)](https://www.youtube.com/watch?v=3BXyEUOuNds)
 - [TOOL - Eon Blue Apocalypse (Audio)](https://www.youtube.com/watch?v=75hGl9stdQI)
 - [TOOL - The Patient (Audio)](https://www.youtube.com/watch?v=rDrhI1GUnNg)
 - [TOOL - Mantra (Audio)](https://www.youtube.com/watch?v=cDuLYGYHhQk)
@@ -86,4 +88,4 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |
 | Notes | "2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers |
-| Discogs URL    | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-Lateralus) |
+| Discogs URL    | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-2-Lateralus) |

@@ -26,10 +26,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Pablo Honey is the debut studio album by the English rock band Radiohead, released on 22 February 1993 in the UK by Parlophone and on 20 April in the US by Capitol Records. It was produced by Sean Slade, Paul Q. Kolderie and Radiohead's co-manager Chris Hufford.
-Radiohead formed at Abingdon School in Abingdon, Oxfordshire, and signed a recording contract with EMI in 1991. Their debut release, the Drill EP (1992), achieved little success. Pablo Honey was recorded in three weeks at Chipping Norton Recording Studios in Oxfordshire from September to November 1992. The recording was hampered by Radiohead's lack of studio experience.
-The singles "Creep", "Anyone Can Play Guitar" and "Stop Whispering" initially made little impact. However, "Creep" gradually gained international radio play, reaching number seven on the UK Singles Chart after it was reissued in 1993. Radiohead embarked on an aggressive promotional tour in the US supporting Belly and PJ Harvey, followed by a European tour supporting James. In May 1995, a live video, Live at the Astoria (1995), was released on VHS.
-Pablo Honey reached number 22 on the UK Albums Chart. It was certified gold in the UK in 1994 and triple platinum in 2013. In the US, it was certified platinum in 1995. Pablo Honey received generally favourable reviews, but some found it underdeveloped or derivative. Though it is less acclaimed than Radiohead's later work, some retrospective reviews have been positive and it has appeared in lists of the greatest albums. The members of Radiohead have criticised it, citing weaker songwriting and their studio inexperience. "Creep" remains Radiohead's most successful single.
+No matter how sardonic he was, there’s still something shocking about hearing Thom Yorke sneer “Grow my hair/I wanna be, wanna be, wanna be Jim Morrison” halfway through Radiohead’s second single, “Anyone Can Play Guitar”. The Lizard King was Yorke’s proxy for all the preening and puffery of conventional rock ’n’ roll—of what it took for the record industry to take you seriously. Yorke was in his mid-20s when Radiohead cut its debut album, 1993’s <i>Pablo Honey</i>, over the course of three weeks in Oxfordshire. He was an angry young man, teeming with ire for the state of rock and pop. “I don’t like to be cynical, but if that really is the best that pop music can do in the space of a year or two,” he said of the band Suede in a 1993 interview, “then there’s no hope for the world.”
+
+Thing was, though, for all the potshots, Radiohead started out as a rather conventional—but still very good—guitar-rock band, suspended between the emerging Britpop of their island brethren like Suede and the stateside churn of bands like Dinosaur Jr. But the band members didn’t lack ambition. They wanted to get big—they just didn’t want to get bloated. “The idea was to cut straight through all that paying-your-dues [stuff],” Yorke said in the same interview, “and get the whole world to see us… I like that breadth of vision.”
+
+<i>Pablo Honey</i> did get the world’s attention—even if now, decades later, it’s clearly the sound of a band still trying to define itself. Borrowing melodically from Neil Young, “Prove Yourself” rises from weepy struggles with self-esteem to a mantric march about doing exactly what the title suggests. “Stop Whispering”, meanwhile, is a protest song against the aging social order, one that builds into a mighty crescendo, with Yorke screaming wordlessly into his mighty band’s clatter. These songs and others—“You”, “Ripcord” and even the acoustic lament “Thinking About You”—would fit squarely in an international survey of early-1990s alternative rock.
+
+There are, however, whiffs of what Radiohead would soon become. A surprise worldwide hit, “Creep” proved the band could not only confront brutal truths, but that Yorke and his bandmates could sculpt abrasion while making it magnetic. Then there’s the delicacy of “Lurgee”, where shimmering guitars reflect off Philip Selway’s smart cymbal work, as Yorke turns to face the future without someone he once thought he needed. It appropriately arrives near <i>Pablo Honey</i>’s end, just as Radiohead launched one of rock music’s most revolutionary run of records ever.
         
         
     
@@ -53,7 +56,12 @@ Pablo Honey reached number 22 on the UK Albums Chart. It was certified gold in t
 {{< applemusic url="https://music.apple.com/gb/album/pablo-honey/1097862062" >}}<br>
 
 
+## Videos
+### Radiohead - Creep (Best live performance)
+{{< youtube id="US0CUegPr3g" title="Radiohead - Creep (Best live performance)" >}}<br>
+### More Videos
 
+- [Radiohead - Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)
 
 ## Release Images
 {{< imageGrid >}}

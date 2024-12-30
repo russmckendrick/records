@@ -63,4 +63,4 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 | Label          | Wichita |
 | Catalog Number | WEBB584LP |
 | Notes | With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl' |
-| Discogs URL    | [Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-P%C3%AAtr-Aleks%C3%A4nder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-P%C3%AA) |
+| Discogs URL    | [Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-Pêtr-Aleksänder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-Pê) |

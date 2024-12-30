@@ -13,6 +13,18 @@ cover:
     alt: "Fearless Movement by Kamasi Washington"
     caption: "Fearless Movement by Kamasi Washington"
 additional_images:
+    - "https://i.discogs.com/g72IWbJpl5J5MLFYzvhimXRW9HG2rHkqMg1IWNbggi8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTEtNTQ3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/2ZchTrZkkgWUfvnke1Gik9df3CKHsy5BdFaLaTzqCFw/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTItMTMyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/iRhOgUlcfRYwI-dxHBeQYwPwliPhnGmVrEsnorIOkxU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTEtNTU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/cVCbTaFRRZ8-WhioF6b4UgJ71AE1TVBoZ3YZlntDuMU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTEtNTQ3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/xRT9pXJjuLYT9Y78uDIRdlrrhFI2zzwrJYekoNKRWeU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM5/ODUtNzA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/SRYAg4_Ak52qZk4tgm_M7aLyYLKYGpkormX1WD8FH_k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTAtNjk0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/-P2R021YR8GTLOjf9Ciq2zPLToow4LjISumb8azgWcc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTAtNTczNC5qcGVn.jpeg"
+    - "https://i.discogs.com/cY0DIvcMZhCZJtwWeKdUhDdp6M02yuiERR3YGOQu9bA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTAtNjg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/5VyLP57nKwvdq0YvhVoqeZoAE7ZqVq_1OMKaRrygRwg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTAtNDEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/yJkZqBXCtXc_82yCkcTZnQV9jMRNQh8uGZmr09GhUjI/rs:fit/g:sm/q:90/h:209/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/ODktNTMyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3DZ4a9Pcdbr-jaGtGnJLKxthIryBSLmRtS1f8Ck2HxQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTEtMjg0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/jy2Iou_iqqQh3CI0BzfqMYuRvT3iYKydfBPbOAMwSoU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NzMwLTE3MTQ4NzM4/OTEtNzgzMS5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: []
 ---
@@ -36,7 +48,7 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 4. Get Lit
 5. Computer Love
 6. Dream State
-7. Interstellar Peace
+7. Interstellar Peace (The Last Stance)
 8. The Garden Path
 9. Road To Self
 10. Together
@@ -74,5 +86,5 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition Stereo |
 | Label          | Young (5) |
 | Catalog Number | YO350LPE |
-| Notes | Back cover lists tracks in sequential order regardless of sides. |
+| Notes | Back cover lists tracks in sequential order regardless of sides.  Runouts are etched.  [Back cover]: ℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young  [Gatefold]: Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |
 | Discogs URL    | [Kamasi Washington - Fearless Movement](https://www.discogs.com/release/30564730-Kamasi-Washington-Fearless-Movement) |

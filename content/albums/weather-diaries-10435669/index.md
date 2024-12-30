@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/2L-zDRYbv8iv9csvyKUstCoqqtVAW35nzFA5k4kE5gw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTc4ODIy/NTMtNzczMi5qcGVn.jpeg"
     - "https://i.discogs.com/4TqYIrg5YcB1iNcc1D7iMuRL0B-qtbVwmjml9WlhZTI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTc0NTkz/MDYtOTA0My5qcGVn.jpeg"
     - "https://i.discogs.com/msl4hqsRLFnPc-hygMOs2etMkKiNYSMBcrNThnjaMaA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTczODE4/OTUtMzI1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/nI2RnG_1LWaZLWimBSTm0E8-_XWJHds4BTneipknj20/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTg3NjM5/NjgtNzEwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/MlHkrxh9mPnu5Qy08Ka4rJDOFb7eS_gud9RUn1St3Q8/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTg3NjM5/NjgtNzEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/f0_MkUqfgVqA5eDmuBu6YBCfGsfFXlHdxuxjuyZlaPg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTkwMTAz/NTEtNzkxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/NC6ijOksMYfmuV3Olx-jE9oAUg6wHE9Npx01pO53Wxk/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTczODE5/MDQtNjc2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6MDxZUH1IjBtJ06I_n-Dl0cPDDKC34fObm9Db2L8iwY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NjY5LTE0OTczODE5/MDQtNjc2OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock", "Shoegaze"]
 ---
@@ -49,7 +49,11 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 ## Videos
 ### Ride - Home Is A Feeling (OFFICIAL AUDIO)
 {{< youtube id="A5xwjWbBbzo" title="Ride - Home Is A Feeling (OFFICIAL AUDIO)" >}}<br>
+### More Videos
 
+- [Ride - Home Is A Feeling (OFFICIAL AUDIO)](https://www.youtube.com/watch?v=A5xwjWbBbzo)
+- [Ride - All I Want (Official video)](https://www.youtube.com/watch?v=zzSDDrtYpGY)
+- [Ride - Charm Assault (Official video)](https://www.youtube.com/watch?v=nW_lRP2RqX8)
 
 ## Release Images
 {{< imageGrid >}}

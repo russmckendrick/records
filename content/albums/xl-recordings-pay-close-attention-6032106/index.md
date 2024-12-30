@@ -12,8 +12,8 @@ cover:
     alt: "XL Recordings: Pay Close Attention by Various"
     caption: "XL Recordings: Pay Close Attention by Various"
 additional_images:
-    - "https://i.discogs.com/pEKQtMRmXEqDbXQC90Ui8v_5FOJuzGIGW34GWF_NX7c/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzIx/MDYtMTQwOTMxMTQ5/Ni05NzMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/gSNRo8hxep-DS-vNhxqV7vrc8wgBP87BdoBmN-DZ7YQ/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzIx/MDYtMTQwOTMxMTUx/MS04MzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/VxZU-f5TyZ-KVkIhoR_B2XF4xD1tWHjjH8AqfwISyAE/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzIx/MDYtMTQwOTMxMTQ5/Ni05NzMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/V5XTaDcQ6Grl7icTK5Xphnt3EGzEt57WuO1WUObd8cY/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzIx/MDYtMTQwOTMxMTUx/MS04MzkxLmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Blues", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Hardcore", "Breakbeat", "Vocal", "Ballad", "Soul", "Drum n Bass"]
 ---
@@ -67,14 +67,44 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 44. Someone Like You
 
 
-## Spotify
-{{< spotify type="album" id="3D9vUf511saEHLua6NcOLw" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### Jonny L - Piper
 {{< youtube id="ZRH7O726jwc" title="Jonny L - Piper" >}}<br>
+### More Videos
 
+- [Jonny L - Piper](https://www.youtube.com/watch?v=ZRH7O726jwc)
+- [Destiny](https://www.youtube.com/watch?v=HUAHJ3vzbO4)
+- [Anytime](https://www.youtube.com/watch?v=yfZVexGAm_8)
+- [BTSTU (Edit Clean)](https://www.youtube.com/watch?v=rMYCk7GpudY)
+- [Liquid - Sweet Harmony](https://www.youtube.com/watch?v=RW4YfSxBeAw)
+- [Wiley - Igloo](https://www.youtube.com/watch?v=SEh8-a2mDF4)
+- [SL2 - DJs Take Control](https://www.youtube.com/watch?v=PaBLXLn8cOY)
+- [Out of Space](https://www.youtube.com/watch?v=ZY6hCcgu834)
+- [Awesome 3 - Don't Go (Kicks Like A Mule)](https://www.youtube.com/watch?v=YEn1FSzDxa8)
+- [Roy Davis Jr ft Peven Everett - Gabriel (Live Garage Version)](https://www.youtube.com/watch?v=FwxpMIEZ9fg)
+- [Basement Jaxx - Jump n' Shout](https://www.youtube.com/watch?v=9Zx5nNtUs9o)
+- [Dizzee Rascal - 'I Luv U'](https://www.youtube.com/watch?v=YH0KWX2a8zY)
+- [GIGGS - TALKING DA HARDEST](https://www.youtube.com/watch?v=914OHMH5zqE)
+- [SBTRKT - Wildfire](https://www.youtube.com/watch?v=ZdUINbi4wSY)
+- [Jamie xx- All Under One Roof Raving](https://www.youtube.com/watch?v=wk28cgCG3Ho)
+- [Firestarter](https://www.youtube.com/watch?v=Hb9hvRSEel8)
+- [Peaches - F*** The Pain Away](https://www.youtube.com/watch?v=3cV6pnvCVM4)
+- [The White Stripes - Seven Nation Army (Official Music Video)](https://www.youtube.com/watch?v=0J2QdDbelmY)
+- [I Feel Just Like a Child](https://www.youtube.com/watch?v=Ml8FDHjXAPc)
+- [Seventeen Years](https://www.youtube.com/watch?v=3NFqqUoh3BI)
+- [M.I.A. - Paper Planes](https://www.youtube.com/watch?v=ewRjZoRtu0Y)
+- [Thom Yorke – The Eraser, The Eraser, 2006 [HD]](https://www.youtube.com/watch?v=4lSiyXKu05Q)
+- [New York Is Killing Me](https://www.youtube.com/watch?v=9aeMfm6O7iQ)
+- [Radiohead - Weird Fishes / Arpeggi](https://www.youtube.com/watch?v=V_Ydoe4Q-Gg)
+- [Tyler The Creator - Yonkers](https://www.youtube.com/watch?v=XSbZidsgMfw)
+- [The Horrors - 'Sea Within A Sea'](https://www.youtube.com/watch?v=v7WAHnZPIX0)
+- [Bobby Womack - Please Forgive My Heart](https://www.youtube.com/watch?v=Th2XiEN2Dcg)
+- [The xx - Angels (Official Audio)](https://www.youtube.com/watch?v=_nW5AF0m9Zw)
+- [Sampha - Too Much](https://www.youtube.com/watch?v=yC-0p4k0jw4)
+- [Vampire Weekend - Step (Official Lyrics Video)](https://www.youtube.com/watch?v=_mDxcDjg9P4)
+- [King Krule - Easy Easy (Official Video)](https://www.youtube.com/watch?v=hRzlbh4or3c)
+- [Adele - Rolling In The Deep](https://www.youtube.com/watch?v=bDtjO-R0QSo)
 
 ## Release Images
 {{< imageGrid >}}

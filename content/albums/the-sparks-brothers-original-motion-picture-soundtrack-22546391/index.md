@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/Gz1gZ7HNN628-FHoCwr0Fv6-oVf9wI5HPo0Mj0yi4Xc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzEtMjU2My5qcGVn.jpeg"
     - "https://i.discogs.com/86538NSYh4xlhwa82Kdn0lxekAoN-7WjHxWdRhxYVCA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNzc0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/3l4AfjPA81GI001IjBw5tJR42tvAKk6kGngkJ9TCRcY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDg3NjI1/NjUtNzY3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/w_CXeXePoittUL1sL4_ULlsXv19W8jyEbCkHOl_iHV4/rs:fit/g:sm/q:90/h:786/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDg3NjI5/MjYtMTQ4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KasUj2-nzRO_R1BZ_tDkvPXSG6O4DtaqTtxzwJ5NTm0/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDg3NjI5/MjYtMTQ4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/za6OJGYN7cN1HgmEnapcviCkJAStI73g4pfHB2GZduc/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNDU2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/CAR-83nMCq3IsUm01Eh4gYQyv9UKSAKAcdGGcWuyUdU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzItOTk0MS5qcGVn.jpeg"
     - "https://i.discogs.com/7DtT3gzu51eUlI4uZ7witcexWU62LkRtflBO7w0093g/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzEtNjE1NS5qcGVn.jpeg"
@@ -28,15 +28,15 @@ additional_images:
     - "https://i.discogs.com/DuaPUPeZsIAyotCjy6c766ScW1HL7_mFVpAKPBqo1hk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzEtOTU0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/NKabv0bvPYR58nkN7jVA05RX9FFypdDgFJL_0PVLiTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNTczMC5qcGVn.jpeg"
     - "https://i.discogs.com/KMwhasP_clhszrVxVNiJsJEp6oLAvj5OgZwX3h6AZqg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtOTU1My5qcGVn.jpeg"
-    - "https://i.discogs.com/5AWTDR_NPa1A8FrFjiViK1L9cpt_vhiMlfSRs8IfS9M/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtMjExMy5qcGVn.jpeg"
-    - "https://i.discogs.com/opI_c6OyQbt8aqkHO4BAAjX5gsWfc8boGZp8Y6kCN3I/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNDU4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/2ghSqcTOmPe5K2xIi2q3hG6xl3a_Vv9u_RHCpemBAD4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzItNjAwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/r2qMw2ytkumrqg9x20NJjR_aPP2M_EY4CRFEWPQ-r08/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtODE1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/3RIJ7nlS2SbVk_R02P6BEqxGLMoTWf1UbMsNK8quiTA/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzItMzAyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/uC08oT_hXj5FIF64F2yHC-pfQFbf4gWr99A-4rqBcHw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtMjExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/zmBg7uhGYxg71wNYOhnLG4vKL6411bszgvfaHmPskIw/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNDU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Snw-T87oBnF0ijXqCuMdNv4wrKdQHY5ucfVilXyySu0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzItNjAwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/AFNxV7WYDhtN_LMrehL20td85WZa2S7DKYl6KNnH1Rk/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtODE1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/iBZXmLByBj8ic9PtIwDhs2wU19VFNmHl9MpO8NJvbW4/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzItMzAyMi5qcGVn.jpeg"
     - "https://i.discogs.com/FVSkG46JWVp8-VusRzyOyro3ys6qzTOh0urHCD9_AlE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtODk0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/nZu3YZKqSvKUP71SuwV_ZFtpBCFEZACSSdM-hIbp9OM/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzAtMjE2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Qljq09V6kZeWQXii2DOWMcgCBL8A6OCbgWGi22r5Vwk/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzAtMjE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/STOFT529JS_3NM60ukK0AxrBuSLh9Z9T5mpLTHqHMSY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzEtMTc1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/jOXcQ5SW5L8RAmAZOCGF51JAk8F0NTKFxA53smyf0tE/rs:fit/g:sm/q:90/h:877/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNTY1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/vhIBsD7xV_6CgUCxutIqi2B1p05oDXyHVpY4CW8IudM/rs:fit/g:sm/q:90/h:600/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MzkxLTE2NDkxODYw/MzMtNTY1Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop", "Stage & Screen"]
 styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 ---
@@ -87,6 +87,8 @@ styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 41. ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018)
 42. Amateur Hour
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-sparks-brothers-music-from-the-motion-picture-ep/1571796534" >}}<br>
 
 
 

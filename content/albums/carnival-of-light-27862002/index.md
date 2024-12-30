@@ -12,23 +12,25 @@ cover:
     alt: "Carnival Of Light by Ride"
     caption: "Carnival Of Light by Ride"
 additional_images:
-    - "https://i.discogs.com/0Gfq5voVIF3OOuO0rXE2A7eZHboKaonDyClmBQQo4Es/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEwNTg0/NDUtNDk5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/pcePaEP68eXpORO5gK0pIp7c8R4vuXD76FwN6Ul46HM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEwNTg0/NTItNzU5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/O0gIq8kk9bJpRUjY3RgtdWQ4RTGEA63tTzqBXuY-CKg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTQtNjM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/kKGmp2XIC5Dfz5KOl8h8AI096fv7VT46o31xS02yyjA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTMtNzg1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hkzEiJrfgr1XESuaBfTaUNNo0Ncn2oUl_nwXRiUGXNU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTQtNjM3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/KwKpSaexAbMhvffIY54QBmQnmkj5AUfB95Ri_5VMWqc/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTUtOTU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/NpBVtn3OBECH3VeuJq6rvfm3wIwjHJKNwc3lfJjHRRQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTQtODA2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/S9oEwH-CkW_f-Gl7LFrysuJ4Z79S_ieLjZpg-UDRqLI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTUtODQxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/OFzYtuWmczHURSl-VlQ0tcfPbd1Ge1FRymkaYVzdWyw/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTYtMjQ5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/ThkUFf4HD1bAJVXOJd8eukTNY81XXuGF8Idszzc7XUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTYtNDA2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zR-FFqnBCGDKEJ4Rxp5JDJBJmvq7y--BBCddnszl3Kg/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTYtMjQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/XsWTOerYZWX5MBl19dxroiZPCIAHG2Shyh1_E59DW5k/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTYtNDA2MS5qcGVn.jpeg"
     - "https://i.discogs.com/TGZJOt4NkYDqeetMfLLpdStsF10GK9J5_mchFqnqUXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTctMjU5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/oFH-kraoG1SzLrUyR4orH3I95xCkx7lHKU1Kfj8L0gE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTctODA0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ByDYsdWTzBKCBWhF29MZR1OIRS4E6MCG3X4ulOm0rmQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTctODA0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/OZqWMDve4TiGDhMf6n2QWB6s0KlTo5p0JVwzVGd4rF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTgtMjQ5My5qcGVn.jpeg"
     - "https://i.discogs.com/srNrEkMkFeE2R5lqhVcu0s_bxd7xnnCTloULMvTXbes/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTgtOTA2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/OO5ranToQmrcLPlPmzAcaYRG8QxjqMsfwGDlZjgQyYs/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTktODk2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/3Y9beX73CIS0cKPBtLrih7Qj-GZ0cYIeSpv6qJ8XSIM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MDAyLTE2OTEyMjM5/OTktODk2Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
-Carnival of Light is the third studio album by British rock band Ride, released in June 1994 via Creation Records. The album is named after the lost song by The Beatles of the same name. The album showcased the band's shift from shoegazing to a more traditional, folk rock sound. It was not well received by critics, and by the end of 1994 even the band members had become disillusioned, referring to it amongst themselves as "Carnival of Shite", although in a 2022 interview Andy Bell stated that he had "made peace with it. It’s got a lot of good tracks, like Moonlight Medicine and Birdman".
+Carnival of Light is the third studio album by British rock band Ride, released in June 1994 via Creation Records. The album is named after a lost song by the Beatles. The album showcased the band's shift from shoegazing to a more traditional, folk rock sound. It was well received by some critics, magazine Select calling it "another fantastic British album in the old tradition" and reached the UK Top 5. However, by the end of 1994 even the band members had become disillusioned, referring to it amongst themselves as "Carnival of Shite", although in a 2022 interview Andy Bell stated that he had "made peace with it. It’s got a lot of good tracks, like Moonlight Medicine and Birdman".
+
+
     
     
 
@@ -59,6 +61,8 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 - [Ride - From Time To Time](https://www.youtube.com/watch?v=pC9z8MkgwbU)
 - [Ride - Birdman](https://www.youtube.com/watch?v=UgSa7BPpjFg)
 - [Ride - Crown Of Creation](https://www.youtube.com/watch?v=iN663J292io)
+- [Ride - I Don't Know Where It Comes From (single version)](https://www.youtube.com/watch?v=eBEN9Xq1Pno)
+- [Ride - How Does It Feel to Feel?](https://www.youtube.com/watch?v=Y8q08ydmqCs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,8 +71,8 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Carnival_of_Light_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Green) |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Translucent) |
 | Label          | Wichita |
 | Catalog Number | WEBB576LP |
-| Notes | 2023 Limited Edition Re-Issue. Double LP. Green vinyl pressings.   |
+| Notes | Limited Edition of ? copies press on Translucent Green vinyl.  Released in a gatefold sleeve. Includes full LP download with three bonus tracks.  |
 | Discogs URL    | [Ride - Carnival Of Light](https://www.discogs.com/release/27862002-Ride-Carnival-Of-Light) |

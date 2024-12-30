@@ -87,4 +87,4 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wia098lp 2021 |
 | Notes | 20th anniversary vinyl re-issue. Edition of 300.  No copies shrink-wrapped.  Sleeve in an outer poly sleeve with additional barcode on a sticker, unique to this colour pressing. (See photos)  Die-cut black-printed white paper inner sleeve. |
-| Discogs URL    | [Hefner - We Love The City](https://www.discogs.com/release/21297037-Hefner-We-Love-The-City) |
+| Discogs URL    | [Hefner - We Love The City](https://www.discogs.com/release/21297037-Hefner-2-We-Love-The-City) |

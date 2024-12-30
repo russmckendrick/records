@@ -45,11 +45,9 @@ It was reissued by lead singer Darren Hayman in 2008.
 
 
 ## Videos
-### Hefner - I Took Her Love For Granted (Official Video)
-{{< youtube id="KgTg_cjk0Fc" title="Hefner - I Took Her Love For Granted (Official Video)" >}}<br>
-### More Videos
+### Hefner - The Fidelity Wars
+{{< youtube id="kfKKwDRNbXE" title="Hefner - The Fidelity Wars" >}}<br>
 
-- [Hefner - The Fidelity Wars](https://www.youtube.com/watch?v=kfKKwDRNbXE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,4 +60,4 @@ It was reissued by lead singer Darren Hayman in 2008.
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wialp081 |
 | Notes | Black vinyl 2019 reissue.  Comes with a download code. |
-| Discogs URL    | [Hefner - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-The-Fidelity-Wars) |
+| Discogs URL    | [Hefner - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-2-The-Fidelity-Wars) |

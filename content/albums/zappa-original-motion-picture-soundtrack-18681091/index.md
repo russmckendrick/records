@@ -14,17 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/CsPz97_3cgJzKY19dPaX8AM9eliiO0n_UiBh-CgO_MM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA3NjIw/NTgtNTU2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/1coHipvtcSw9IefrXLejYMmPoRIVgCV77DGBVP_pF9w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDUtMjE0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/-bbF5t0CveBhKW_Y9hln1f4oU2LlwLjcZin9lk1NRV8/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtOTIzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/OTFN3IhdZXIMhYKllwXwRlgW3wIptU4H6AiU8IMoIlM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtOTIzNi5qcGVn.jpeg"
     - "https://i.discogs.com/WGuleHt5uS2w_uFgUiacwWoVs4G_YktvUi31LW8166Q/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtMTQ1MC5qcGVn.jpeg"
     - "https://i.discogs.com/FLvSWPNgUn4LDwkWiIPZDSCKjCVE-ksprhhlneIcxeU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtNjA4MS5qcGVn.jpeg"
     - "https://i.discogs.com/9OqDVXiyN9ZU1eNNaU4jou-S7UQYr5gAoeXdGHkT6FY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtMjc0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/fqioIqf720270u7pe1lh2LTKBD76wuA2mtkyYdb_84o/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtOTE0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/uTqn1lbnOt5DbMaoHtXQeFCBqZJxDv2ffXB4YbmJquM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtOTE0NS5qcGVn.jpeg"
     - "https://i.discogs.com/pz8Z48QDDfhE9z0D9ouOV-bv6EVml1setMvC8G7VjYQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDUtNDEzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/D-xAHFGuV6MCBTQMle7HpKOUNWFate53eygtF8LtJr0/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtNDQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/MLEuF6KD1yugdi_ons9NiSsO_Ix-MJ9F6v6YqTfJg84/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDUtNTAyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/VKecT0PfOWGJ4RuROI22pyCNWtbLtmAElmYdxyyBpxU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtMTcxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/vQhg2hjG8fEE8F55UZ1Q22MW1ji7paFAkGKHReQm72U/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtNzczMi5qcGVn.jpeg"
-    - "https://i.discogs.com/Mo_rpUCeEssPZWPfRYTepkZoBd-7Pe4CcrchdQrpWkk/rs:fit/g:sm/q:90/h:795/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA3NjIw/NTgtMjU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LO-Lb0T_ZqE9a_rwNv9mzmK22XweIVwL29h3Aw_zH1Q/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtNDQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/E2tJH9AUBwWkrZ4S0rpFVBZwsQFgHRvGzcAWqNwxeV0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDUtNTAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Oh0G7u3TogkPDRWLw8jRdAEcn1dvun9_4LXVX17DxA0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtMTcxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/nRglrioWmAyvC4RTgBfiBwxoVB0E9eWkqgUr91wRPjs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA4NDM5/NDQtNzczMi5qcGVn.jpeg"
+    - "https://i.discogs.com/SfW6pur7wS9_CAH96f336H0EKe7CQ2FdY9WMi7qyDSs/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/MDkxLTE2MjA3NjIw/NTgtMjU4Mi5qcGVn.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -58,7 +58,16 @@ styles: ["Soundtrack"]
 {{< applemusic url="https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239" >}}<br>
 
 
+## Videos
+### How Could I Be Such A Fool?
+{{< youtube id="UCtGdC_VoUc" title="How Could I Be Such A Fool?" >}}<br>
+### More Videos
 
+- [The Duke - Take 1 (Live At Whisky a Go Go/1968)](https://www.youtube.com/watch?v=RAUENXcBlqU)
+- [Envelopes (1983 Original Vinyl Mix)](https://www.youtube.com/watch?v=01DcGVvtKkI)
+- [How Could I Be Such A Fool?](https://www.youtube.com/watch?v=UCtGdC_VoUc)
+- [The Duke - Take 1 (Live At Whisky a Go Go/1968)](https://www.youtube.com/watch?v=RAUENXcBlqU)
+- [Envelopes (1983 Original Vinyl Mix)](https://www.youtube.com/watch?v=01DcGVvtKkI)
 
 ## Release Images
 {{< imageGrid >}}

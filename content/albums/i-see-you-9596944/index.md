@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/Qt8BJoHns_6_-il8NZd-jFh7Gq6GWWeQiq8rQDWO_P8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/NDQtMTU2NTcxMDEw/My04NDYwLmpwZWc.jpeg"
     - "https://i.discogs.com/uTYHpN8ekXqN2Iok6MRwtR7eNNa8xFsLHNvD3F2Ti_c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/NDQtMTQ4NDYxMTg1/Ny0zMjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/jr90NAuHNh5UFsXtSPsADplktz3lcHqhGLp1hIR727k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/NDQtMTQ4NDYxMTg1/OS0zMzMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/WmpGfIn3OQVK7cer02ymgtAyLEgLPd-HeVzVpnf5e68/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/NDQtMTQ4NDYxMTkx/Mi04MzQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ta3A6_kzVwnJwCEQ4JtGZWcwFWQDFSvIDgPyv8_cyR8/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/NDQtMTQ4NDYxMTkx/Mi04MzQ2LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
@@ -59,15 +59,32 @@ I See You was released to widespread critical acclaim, with many reviewers findi
 
 
 ## Videos
-### The xx - On Hold (Official Video)
-{{< youtube id="blJKoXWlqJk" title="The xx - On Hold (Official Video)" >}}<br>
+### [Indietronic] The xx - "I See You" (2017) Full Album
+{{< youtube id="O2KRo_HtoJI" title="[Indietronic] The xx - "I See You" (2017) Full Album" >}}<br>
 ### More Videos
 
-- [The XX - Seasons Run](https://www.youtube.com/watch?v=9h5hOBdolWM)
-- [The xx - Say Something Loving (Official Music Video)](https://www.youtube.com/watch?v=Rh2uNrIgGf4)
-- [The xx - Brave For You (Marfa Demo Version)](https://www.youtube.com/watch?v=2xkkSUMstlM)
+- [The xx - Dangerous (Official Audio)](https://www.youtube.com/watch?v=PZCCey_22ws)
+- [DANGEROUS // THE XX LYRICS](https://www.youtube.com/watch?v=ON5339EuyBE)
+- [The xx - Lips (Official Audio)](https://www.youtube.com/watch?v=GbluEc_sgeY)
+- [The xx - Lips](https://www.youtube.com/watch?v=LoOLLJ3Y0ko)
+- [The xx - A Violent Noise (Official Audio)](https://www.youtube.com/watch?v=aOjYWMWu6uw)
+- [A VIOLENT NOISE LYRICS // THE XX](https://www.youtube.com/watch?v=DB3jG2wE_Y8)
+- [The xx - Performance (Official Audio)](https://www.youtube.com/watch?v=ziI0FB7jEjU)
+- [PERFORMANCE // THE XX LYRICS](https://www.youtube.com/watch?v=GOiZ6sCDd0o)
+- [The xx - Replica (Official Audio)](https://www.youtube.com/watch?v=22OejDMPoRk)
+- [The xx- Replica](https://www.youtube.com/watch?v=dGUR40gCQfA)
+- [Replica [The xx - Lyrics]](https://www.youtube.com/watch?v=gH8ie59l178)
+- [The xx - Brave For You (Official Audio)](https://www.youtube.com/watch?v=600mOX_kp8s)
+- [The XX - Brave for you (audio)](https://www.youtube.com/watch?v=jC0_XrdEUb0)
+- [The xx: brave for you (lyrics | sub español)](https://www.youtube.com/watch?v=SG4rw0O6WLQ)
+- [The xx - On Hold (Official Video)](https://www.youtube.com/watch?v=blJKoXWlqJk)
+- [The xx - On Hold (Official Audio)](https://www.youtube.com/watch?v=1_oA9UmRd4I)
 - [The xx - I Dare You (Official Music Video)](https://www.youtube.com/watch?v=qqflFMhkqHM)
-- [The xx - Naive (Official Audio)](https://www.youtube.com/watch?v=yZBaaPz6jQs)
+- [The xx - I Dare You (Official Audio)](https://www.youtube.com/watch?v=lGBn9_aEtB8)
+- [The xx - I Dare You [Lyrics on screen]](https://www.youtube.com/watch?v=IDsuB5Bxyn8)
+- [The xx - Test Me (Official Audio)](https://www.youtube.com/watch?v=egSChllOWcQ)
+- [The xx Test Me](https://www.youtube.com/watch?v=6yuW6Jpk5GU)
+- [The xx - Test Me [Subtitulada]](https://www.youtube.com/watch?v=LG-VzoXQJ0E)
 
 ## Release Images
 {{< imageGrid >}}

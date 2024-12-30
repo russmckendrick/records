@@ -15,13 +15,15 @@ additional_images:
     - "https://i.discogs.com/Yxifca0HXuNyX1vgOCwdeK37Wi3fsgFlqmkyNfxDUgk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1NzU3NDM1/MTItMTYwMy5qcGVn.jpeg"
     - "https://i.discogs.com/vg1uEVH-0v11z4y18ZvLjW-dDkSITeMKYJCKBn0OIfs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1NzU3NDM1/MTgtNDAzNi5qcGVn.jpeg"
     - "https://i.discogs.com/xks9PA3ZBEODsRWomecCnrKQmpGSt5vCEPNanajW7dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1OTA4NDM2/MTAtOTcxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/Xaf0WtimAWwyz_JJcM-f2D4C-UCEtmqh2Kf02hsga9I/rs:fit/g:sm/q:90/h:696/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1NzQ3OTcx/MzQtNzQ4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/4UiBjfCp4Jw9vTFx40JMDPVqIl5oQbpyEXVLd8VfAQ0/rs:fit/g:sm/q:90/h:600/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1NzQ3OTcx/MzQtNzQ4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/FeNspKf9T3ppsWY_vP9ZnqrtWrnJn_DV9kVLd4ZLaTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MjU5LTE1OTA4NDM2/MTEtMjIxMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Experimental", "Indie Rock", "Krautrock"]
 ---
 
-Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam.
+Sound-Dust is the seventh studio album by English-French rock band Stereolab. It was released on 28 August 2001 in North America by Elektra Records and on 3 September 2001 internationally by Duophonic Records. The album was produced by John McEntire and Jim O'Rourke and recorded at McEntire's Chicago studio Soma. It was Stereolab's last album to feature singer and guitarist Mary Hansen, who died in a biking accident the following year.
+The first 1,200 copies of both the CD and LP issues of Sound-Dust were packaged with a handmade book sleeve. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
+The song "Nothing to Do with Me" features lyrics derived from English satirist Chris Morris' TV series Jam.
     
     
 
@@ -54,28 +56,21 @@ Sound-Dust is the seventh studio album by English-French rock band Stereolab. It
 
 ## Videos
 ### Black Ants In Sound-dust
-{{< youtube id="TweTfd5AVfU" title="Black Ants In Sound-dust" >}}<br>
+{{< youtube id="nRI-sM63kOM" title="Black Ants In Sound-dust" >}}<br>
 ### More Videos
 
-- [Captain Easychord](https://www.youtube.com/watch?v=9KTP17jwJ48)
-- [Les Bon Bons Des Raisons](https://www.youtube.com/watch?v=T0034s3reng)
-- [Black Ants In Sound-dust](https://www.youtube.com/watch?v=XxG1pefQCGY)
-- [The Black Arts](https://www.youtube.com/watch?v=HJwY6-S9Ae8)
-- [Suggestion Diabolique](https://www.youtube.com/watch?v=YMnAkqu1HXE)
-- [Hallucinex](https://www.youtube.com/watch?v=gqXJKVV_LLE)
-- [Nothing To Do With Me](https://www.youtube.com/watch?v=MJqW17Xv-l4)
-- [Stereolab Sound - Dust review](https://www.youtube.com/watch?v=UAPa0pjhydQ)
-- [Space Moth](https://www.youtube.com/watch?v=h7xHsamKVF8)
-- [Spacemoth](https://www.youtube.com/watch?v=_ukyogTkqV4)
-- [Hallucinex](https://www.youtube.com/watch?v=pbWXRzCvtdQ)
-- [Stereolab - Captain Easychord (full)](https://www.youtube.com/watch?v=KZ9z0Puurgk)
-- [The Black Arts](https://www.youtube.com/watch?v=EPvQAMo5d0M)
-- [Suggestion Diaboligue](https://www.youtube.com/watch?v=HTkgf47At7w)
-- [Stereolab - Baby Lulu](https://www.youtube.com/watch?v=-eqHVGscSpg)
-- [Baby Lulu](https://www.youtube.com/watch?v=-qnVLdEEGtU)
-- [Double Rocker](https://www.youtube.com/watch?v=FyLP6qq1Kuw)
-- [Gus The Mynah Bird](https://www.youtube.com/watch?v=xHX5PCuq8zs)
-- [Nothing To Do With Me](https://www.youtube.com/watch?v=D0-FTcR-9YI)
+- [Captain Easychord](https://www.youtube.com/watch?v=Sn663SWZX2c)
+- [Spacemoth](https://www.youtube.com/watch?v=hkp5Q5YGUOY)
+- [Baby Lulu](https://www.youtube.com/watch?v=ZUIx84vrOa0)
+- [Stereolab - Hallucinex](https://www.youtube.com/watch?v=pZ93HuSKSKU)
+- [Stereolab - Naught More Terrific Than Man (Sound-Dust, 2001)](https://www.youtube.com/watch?v=X26PVS8I5m4)
+- [Les Bon Bons Des Raisons](https://www.youtube.com/watch?v=PHzDJRFtQb0)
+- [Spacemoth Demo](https://www.youtube.com/watch?v=-9BvTXYnRwo)
+- [Nothing To Do With Me](https://www.youtube.com/watch?v=TAyFNLfWtD8)
+- [The Black Arts](https://www.youtube.com/watch?v=LdUH49gcs9Q)
+- [Double Rocker](https://www.youtube.com/watch?v=WYGJULqMlgA)
+- [Black Ants In Sound-dust](https://www.youtube.com/watch?v=nRI-sM63kOM)
+- [Suggestion Diabolique](https://www.youtube.com/watch?v=EkI8OoItiyc)
 
 ## Release Images
 {{< imageGrid >}}

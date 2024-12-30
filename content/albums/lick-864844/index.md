@@ -15,12 +15,14 @@ additional_images:
     - "https://i.discogs.com/UUego5_8ZYLLcBEi-oJ7-PZbMP8iPkMTcz6WoQOdPUs/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDg0/NC0xMTY2ODgyMTEw/LmpwZWc.jpeg"
     - "https://i.discogs.com/6zqEPNyjlUGnbaRaaHxT__8oaWJRDuRwEd0w1Uhpj9Q/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDg0/NC0xNDUwNTQxMDc0/LTUxOTQuanBlZw.jpeg"
     - "https://i.discogs.com/eOwLoT78LSC7zis_CRmzG97HbbXGgoTqLgUw58p4lsI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDg0/NC0xNDMyMTExODg1/LTM2MjIuanBlZw.jpeg"
-    - "https://i.discogs.com/M8RARoMIqYCy0loeeyYpjD5ALjvgucwi5u1w2IyZkvc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDg0/NC0xNDMyMTExODgy/LTE3ODcuanBlZw.jpeg"
+    - "https://i.discogs.com/JNB6bJq_dpoX35YGVLHQNvfs37g00OCvATU0u6A7Ihg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDg0/NC0xNDMyMTExODgy/LTE3ODcuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Indie Rock"]
 ---
 
 Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks.
+
+
     
     
 
@@ -43,10 +45,13 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 
 
 ## Videos
-### The Lemonheads   Lick Full Album
-{{< youtube id="Oyr-I8wU9kA" title="The Lemonheads   Lick Full Album" >}}<br>
+### The Lemonheads - Anyway
+{{< youtube id="U8qakIRi6RE" title="The Lemonheads - Anyway" >}}<br>
 ### More Videos
 
+- [Cazzo di Ferro- The Lemonheads](https://www.youtube.com/watch?v=M0WQ4GmLsO0)
+- [I Am a Rabbit- The Lemonheads](https://www.youtube.com/watch?v=t6rQgNS01x4)
+- [The Lemonheads   Lick Full Album](https://www.youtube.com/watch?v=Oyr-I8wU9kA)
 - [Mallo Cup](https://www.youtube.com/watch?v=TceevdVajLI)
 - [A Circle Of One](https://www.youtube.com/watch?v=auZhrtLScbQ)
 - [Luka](https://www.youtube.com/watch?v=s34hD5fu04w)
@@ -58,7 +63,6 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 - [I Am A Rabbit](https://www.youtube.com/watch?v=fKtC2aP7-Cc)
 - [7 Powers](https://www.youtube.com/watch?v=XkltxOJ6Cz8)
 - [Glad I Dont Know](https://www.youtube.com/watch?v=ux4Uo9uCrPU)
-- [I Am a Rabbit- The Lemonheads](https://www.youtube.com/watch?v=t6rQgNS01x4)
 
 ## Release Images
 {{< imageGrid >}}

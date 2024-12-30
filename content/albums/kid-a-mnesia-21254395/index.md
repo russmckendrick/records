@@ -13,19 +13,19 @@ cover:
     alt: "Kid A Mnesia by Radiohead"
     caption: "Kid A Mnesia by Radiohead"
 additional_images:
-    - "https://i.discogs.com/HRdqPgYGuzayDK5L1JbX1l1JqSxR1ZoP_j8b2LSpFeY/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MTUtMTY1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/wVlCGmBurZZLtfkSqLAjH6reYNNJ4p-3mtn-orBpK5k/rs:fit/g:sm/q:90/h:660/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MjctNTI4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/nVBJcjfygmNwbv2x1hIXR4omfwUjldzHOvb7t1Fcueg/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDMzOTY1/NjUtNDU3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/xAafqKtEkBJnOk4Te9QwoBL8l80slln-QiVlabNtqEA/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MTUtMTY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/tv8CDBYy0mX9jN13ORh6pZax6EQoC79H24j4XgAG4J8/rs:fit/g:sm/q:90/h:600/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MjctNTI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/yLjJoi5zr2UcAbLKcTYmhGLYp5yI4ra6cVRpaJJri7c/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDMzOTY1/NjUtNDU3NC5qcGVn.jpeg"
     - "https://i.discogs.com/hrY5MvOi7bJBH5GYihOorRwDZeSRPhneybpEFTzRQh0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NTgtNjc1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/7LXtzqFWDFM-EwAfowB_Lhl6v9oT086Cu8Z0Izf2lEc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjAtODUyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/FfRBstF_oyc0kDipM2CVA9p7BtOi1RjyT1Pg1jbV36s/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjItMTg4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/7ofco1xRYFZFa06OmAGRMU4kzo5Xrjo3Ka62Nmihpno/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjAtODUyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Yy5NljOyelOtFs1RLw2GziKwtJl6od_r4M5_P93T948/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjItMTg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/D8xtiGx1bJwx2y6FeDkGf455osvT6WiWqetEZOT7KE8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjktNTc1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/HPmgb-ASAB-p5Pj_pDJ2jXy2DcVqY6ZJDUaN2r_qrgk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzEtMzMwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/21kw3V4QioQF3mCkRvOvkfkCeFQ1beqYvlXY4PJew8k/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzMtMTc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ifPapn2fjb7BqFzG45f0wbz0n4P9Ek8pOfx_Ah7uoU4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzEtMzMwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/IGNllAyiJlxMOZPPM3xoA8zimq9cXoOHEQqBwnzVpcY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NzMtMTc0NC5qcGVn.jpeg"
     - "https://i.discogs.com/xc0_PhB9hSGIytHlNnZsgtdD-BiM2OaFuOWny86ECsI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjQtODMyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/ufg6DlhGpvyqqUzQqvoPMPpHc5t2fqi-59Aq6wo5s30/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjYtOTkwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/2ZKXDZGY_w1VngJOhQeVM_6APRyuUbM1cmJBjO4A5mA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjctNDU5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/ALMbw55x94mbnGfGMjno3UtVlG-mf-TWcnYZs4ZrV4w/rs:fit/g:sm/q:90/h:1797/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MzUtNjIwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/IhYY42SclTf0Z6OmPQk1Yagehzvc5cxKWx8nWjMGLxs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjYtOTkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/-SVurQgv1zIaEIej4SJyaCqmk6MEBZv4J4JUdIvd4AY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDA0NjAw/NjctNDU5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/MfEwyC8vcnpngF5sJKFohUqGBVZeKeZ6mPxCiKhcojk/rs:fit/g:sm/q:90/h:600/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/MzUtNjIwNy5qcGVn.jpeg"
     - "https://i.discogs.com/lPLUvsidKLb1hC7D0atbWgRyKdgGTQoKl4l12yh3tjE/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NDUtNTE2NC5qcGVn.jpeg"
     - "https://i.discogs.com/JFTqitFDbONcKpqiRWgt13oeVfuHV9GNmjYBDe5VxnM/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NTEtNjE5MC5qcGVn.jpeg"
     - "https://i.discogs.com/JEqJ_YI9T0OaeJapdGDVUaGZP0xvfNSGx8TMsaBTrx4/rs:fit/g:sm/q:90/h:328/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2MzkwMjU5/NTktNTk3OS5qcGVn.jpeg"
@@ -53,10 +53,10 @@ additional_images:
     - "https://i.discogs.com/zKqb31pyA1I1ReqjXk2Cjlkn8AkfVRLol5-xL5CQi14/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDAyMDE0/NjgtMjgyMS5qcGVn.jpeg"
     - "https://i.discogs.com/EisW_IJOMeEGOJ8zDTfdm9Bup5fuxXjS0V462QoIFk0/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/Mzk1LTE2NDAyMDE0/NjgtMjMxOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
-styles: ["Alternative Rock", "IDM", "Experimental"]
+styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 ---
 
-<i>KID A MNESIA</i> isn’t just an occasion to revisit a pair of groundbreaking albums (2000’s <i>Kid A</i> and 2001’s <i>Amnesiac</i>), but a chance to hear a little of how Radiohead got there. Recording sessions were tough: Thom Yorke had writer’s block, and his new commitment to electronic music—or, at least, a turn away from conventional rock—left some of his bandmates wondering about their function and purpose. As guitarist Ed O’Brien once put it, he was a guitarist faced with a bunch of tracks that had no guitar.<br />
+<I>KID A MNESIA</I> isn’t just an occasion to revisit a pair of groundbreaking albums (2000’s <I>Kid A</I> and 2001’s <I>Amnesiac</I>), but a chance to hear a little of how Radiohead got there. Recording sessions were tough: Thom Yorke had writer’s block, and his new commitment to electronic music—or, at least, a turn away from conventional rock—left some of his bandmates wondering about their function and purpose. As guitarist Ed O’Brien once put it, he was a guitarist faced with a bunch of tracks that had no guitar.<br />
 At one point, producer Nigel Godrich split the band into two groups: one working with instruments in the main recording area, the other in a programming room processing sounds from next door, all under the condition that no acoustic instruments—guitars, drums, etc.—be used. The constraints opened doors: Not only did the band discover new ways of working (and, by extension, refresh their passion for music after years of unyielding pressure), but, in doing so, they shifted the template for what we think of when we think of a rock band, mixing the acoustic and the electronic (“Everything in Its Right Place”, “Like Spinning Plates”) and relatively straightforward tracks (“Optimistic”, “Pyramid Song”) with fragmentary, discursive ones (“Kid A”, “Pulk/Pull Revolving Doors”). <br />
 In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “Follow Me Around“) and future (the deconstructed, full-band sound of “If You Say the Word”), as well as versions of “Like Spinning Plates” and “Pulk/Pull Revolving Doors” that chart their evolution in real time. It’s a snapshot of a band taking step back from themselves and the way they worked, finding a way forward in the process.
         

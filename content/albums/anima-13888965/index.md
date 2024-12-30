@@ -13,8 +13,8 @@ cover:
     alt: "Anima by Thom Yorke"
     caption: "Anima by Thom Yorke"
 additional_images:
-    - "https://i.discogs.com/kx5gvQE0NKd1EksLE9XZ6Gtth5R2q-6f4wn2j9fVxcc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/5dU8Vmu_trgtKqummrcxorMbphjKd51Nl65jAuhLXhw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktMTAyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/4c-xSQ-o6Gllx60-eCdB_5OZui7fWn1smPeSRgYOePc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/h6x-hO0t9Spxib7nmoSlv0LgzDbYD0MUdC6hZ0O8C-k/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktMTAyNS5qcGVn.jpeg"
     - "https://i.discogs.com/48fXXiMXlGJcIUYySwHYDVT565NMFA90HBDVjLQW56U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM2NjI2/MTgtNzIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/e_tEGkCFaXT2IpahD8SL7LKECyrX2ucEcu07o7xXrk4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM2NjI2/MTctODg0My5qcGVn.jpeg"
     - "https://i.discogs.com/fmtlzEd7vabxQ7YgBEYZ1KHOfHEZ4DBB-jt1Jhn_ohw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM2NjI2/MTUtNTc1OS5qcGVn.jpeg"
@@ -61,7 +61,19 @@ Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they
 {{< applemusic url="https://music.apple.com/gb/album/anima/1467347588" >}}<br>
 
 
+## Videos
+### Traffic
+{{< youtube id="CNjPTfQTM4E" title="Traffic" >}}<br>
+### More Videos
 
+- [Thom Yorke - Last I Heard (…He Was Circling The Drain)](https://www.youtube.com/watch?v=I03xFqbxUp8)
+- [Twist](https://www.youtube.com/watch?v=KeHaiLbM_3Y)
+- [Dawn Chorus](https://www.youtube.com/watch?v=F1TiN-dBSxY)
+- [I Am a Very Rude Person](https://www.youtube.com/watch?v=pvHKpU5e45k)
+- [Thom Yorke - Not The News](https://www.youtube.com/watch?v=IZfCj7tuZ-E)
+- [The Axe](https://www.youtube.com/watch?v=JkNuvmYrXeU)
+- [Impossible Knots](https://www.youtube.com/watch?v=hlbE0S4cHZk)
+- [Runwayaway](https://www.youtube.com/watch?v=jwN4ZZxBYi4)
 
 ## Release Images
 {{< imageGrid >}}

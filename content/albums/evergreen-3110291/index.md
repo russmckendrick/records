@@ -13,8 +13,8 @@ cover:
     caption: "Evergreen by Acker Bilk His Clarinet And Strings"
 additional_images:
     - "https://i.discogs.com/a9mRNb0bhHhKjai7fGTD0OKli7LW_EuPGLWlU9XTWdM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTM1ODUwOTEz/NS00MTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/RAHnuyoCIkM47gh3t4ipjQR_i6JhLFaW3_Hqp1SE-mE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/Ni03MTQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/l29KwriiuEUJd_pga5XqpUzVvbtaHkNpqFBLIsokVP8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/NC05Mjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/fBZENKaCVuN9_sbvuQbYm2qu6hxZ4CAuoJo5xGSbeoI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/Ni03MTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/dDeLqtSwmv5QsXEVcut2AzIGBm5EYXv-FwQv0abOs6s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/NC05Mjg0LmpwZWc.jpeg"
     - "https://i.discogs.com/IsSlmEwmvod1M6qc7UPMhQYCq3zHbtRON6xcc4EY0IA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI1/NC02NzUwLmpwZWc.jpeg"
     - "https://i.discogs.com/-KZvgcelC16Au7KufSt-eJ8O9E00NTK-VCiKyKe0jMo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTEtMTQxODMxNjI0/OS0yODgwLmpwZWc.jpeg"
 genres: ["Jazz"]
@@ -45,6 +45,8 @@ styles: ["Easy Listening"]
 19. Yesterday
 20. When A Child Is Born
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/aker-bilk-his-clarinet-love-serenade-re-recording/927476057" >}}<br>
 
 
 ## Videos

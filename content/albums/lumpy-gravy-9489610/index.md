@@ -4,6 +4,7 @@ artist_name: "Frank Zappa"
 artist: "frank-zappa"
 album_name: "Lumpy Gravy"
 date: 2017-04-02T13:02:12.000000Z
+release_date: "1968-05-13"
 release_id: "9489610"
 slug: "lumpy-gravy-9489610"
 hideSummary: true
@@ -21,12 +22,13 @@ genres: ["Electronic", "Rock", "Classical"]
 styles: ["Musique Concrète", "Psychedelic Rock", "Avantgarde", "Classical"]
 ---
 
-Lumpy Gravy is the debut solo album by Frank Zappa, written by Zappa and performed by a group of session players he dubbed the Abnuceals Emuukha Electric Symphony Orchestra. Zappa conducted the orchestra but did not perform on the album. It is his third album overall: his previous releases had been under the name of his group, the Mothers of Invention.
-It was commissioned and briefly released, on August 7, 1967, by Capitol Records in the 4-track Stereo-Pak format only and then withdrawn due to a lawsuit from MGM Records. MGM claimed that the album violated Zappa's contract with their subsidiary, Verve Records. In 1968 it was reedited and released by MGM's Verve Records on May 13, 1968. The final version of the album consisted of two musique concrète pieces that combined elements from the original orchestral performance with elements of surf music and the spoken word. It was praised for its music and editing.
+Lumpy Gravy is a 1968 solo album by Frank Zappa (credited as Francis Vincent Zappa), written by Zappa and performed by a group of session players he dubbed the Abnuceals Emuukha Electric Symphony Orchestra & Chorus. Zappa conducted the orchestra but did not perform on the album. It is his fourth album overall: his previous releases had been under the name of his group, the Mothers of Invention.
+An entirely orchestral recording under the same name was commissioned and briefly released, on August 7, 1967, by Capitol Records in the 4-track Stereo-Pak format only and then withdrawn due to a lawsuit from MGM Records. MGM claimed that the album violated Zappa's contract with their subsidiary, Verve Records. In 1968 it was reedited and released by Verve on May 13, 1968. The new album consisted of two musique concrète pieces that combined elements from the original orchestral performance with elements of surf music and spoken word. It was praised for its music and editing.
 Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gravy as the second part of a conceptual continuity that later included his final album, Civilization Phaze III.
 
 
-    
+        
+        
     
 
 
@@ -34,11 +36,13 @@ Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gra
 1. Lumpy Gravy-Part I (15:45)
 2. Lumpy Gravy-Part II (15:56)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lumpy-gravy/1443184225" >}}<br>
 
-## Spotify
-{{< spotify type="album" id="2WtjHoqPZlQhCNzEhy6TkZ" width="100%" height="500" >}}<br>
 
-
+## Videos
+### Frank Zappa  1968    Francis Vincent Zappa Lumpy Gravy
+{{< youtube id="uwyH9rAkugI" title="Frank Zappa  1968    Francis Vincent Zappa Lumpy Gravy" >}}<br>
 
 
 ## Release Images

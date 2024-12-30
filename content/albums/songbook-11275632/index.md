@@ -21,8 +21,9 @@ genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
-A decade after releasing his first solo album, Frank Turner gathers his favorite songs from 10 years of impassioned folk-punk. From a roaring paean to the mosh pit (“Four Simple Words”) to bittersweet reflections on ill-fated romance (“Mittens”), the first half is a best-of collection marked by the intensity, craft, and melody that’s made Turner an arena headliner. <i>Songbook</i>’s second part presents old songs in new forms. Some are simply revitalized, others completely reimagined—including the transformation of “Glorious You” from a fuzzy rocker into a tender ballad.
-    
+A decade after releasing his first solo album, Frank Turner gathers his favourite songs from 10 years of impassioned folk-punk. From a roaring paean to the mosh pit (“Four Simple Words”) to bittersweet reflections on ill-fated romance (“Mittens”), the first half is a best-of collection marked by the intensity, craft and melody that’s made Turner an arena headliner. <i>Songbook</i>’s second part presents old songs in new forms. Some are simply revitalised, others completely reimagined—including the transformation of “Glorious You” from a fuzzy rocker into a tender ballad.
+        
+        
     
 
 
@@ -69,6 +70,7 @@ A decade after releasing his first solo album, Frank Turner gathers his favorite
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Great_American_Songbook |
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Xtra Mile Recordings |
 | Catalog Number | 6700056 |

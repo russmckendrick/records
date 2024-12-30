@@ -12,7 +12,7 @@ cover:
     alt: "Welcome To The Pleasuredome by Frankie Goes To Hollywood"
     caption: "Welcome To The Pleasuredome by Frankie Goes To Hollywood"
 additional_images:
-    - "https://i.discogs.com/onnbmJKSQLd7PyDruvsBgVZVgnHcfvAJe5ZgC5oQqHo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/9RZEjzjJyFDBJN89C16KsBZv5Cxqv2xNp4h5HTp3NaU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg"
     - "https://i.discogs.com/y1ltRDxA8o91a075HP8M6DlYSKYwe2GZHz1boO7t78I/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTExNzgxMTc0NDIu/anBlZw.jpeg"
     - "https://i.discogs.com/efkXkB33_jkm_HOET-jI021ufwj5eTJUkIr9FdLGxV4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwODct/Nzc2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/3_ysIVlNKB6_tkdHoZw3oEyiaWd2pCCd7toH_ad5ca8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE2MTE2ODIxMjAt/MTUzNy5qcGVn.jpeg"
@@ -28,9 +28,9 @@ styles: ["Pop Rock", "Synth-pop", "Ballad"]
 ---
 
 Welcome to the Pleasuredome is the debut studio album by English synth-pop band Frankie Goes to Hollywood, first released on 29 October 1984 by ZTT Records. Originally issued as a vinyl double album, it was assured of a UK chart entry at number one due to reported advance sales of over one million. It actually sold around a quarter of a million copies in its first week. The album was also a top-10 seller internationally in countries such as Switzerland, Sweden, Australia and New Zealand.
-While commercially successful, the album also drew criticism for containing new versions of all of the songs from the group's (already much-remixed) singles from the same year ("Relax" and "Two Tribes", plus B-side "War"), as well as a surfeit of cover versions in lieu of much new original material. It was later revealed that Trevor Horn's production dominated the record so thoroughly that the band's own instrumental performances were often replaced by session musicians or Horn himself. Frankie's second album, Liverpool, actively featured the full band.
-However, the album's evergreen ballad "The Power of Love" subsequently provided the group with their third consecutive UK number one single.
-To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Square Music released a limited edition (2,000 copies only) box set entitled Inside the Pleasuredome, available exclusively from the website pledgemusic.com. The box set contains rarities on 10" vinyl, as well as a book, a DVD, a cassette (featuring 13 mixes of "Relax" and its B-side "One September Monday") as well as a new 2014 remastered version of Welcome to the Pleasuredome on 180g vinyl.
+The album was commercially successful and contained new versions of the songs from the group's singles from the same year ("Relax" and "Two Tribes", plus B-side "War"), as well as several cover versions. Trevor Horn's production dominated the record so thoroughly that the band's own instrumental performances were often replaced by session musicians or Horn himself. Frankie's second album, Liverpool, actively featured the full band.
+The ballad "The Power of Love" subsequently provided the group with their third consecutive UK number-one single.
+To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Square Music released a limited edition (2,000 copies only) box set titled Inside the Pleasuredome, available exclusively from the website pledgemusic.com. The box set contains rarities on 10" vinyl, as well as a book, a DVD, a cassette (featuring 13 mixes of "Relax" and its B-side "One September Monday") as well as a new 2014 remastered version of Welcome to the Pleasuredome on 180g vinyl.
 
 
     
@@ -70,6 +70,26 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 ### More Videos
 
 - [Frankie Goes To Hollywood - Two Tribes (ZTIS 119)](https://www.youtube.com/watch?v=SXWVpcypf0w)
+- [Frankie Goes To Hollywood - The Power Of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)
+- [The World Is My Oyster (Including Well / Snatch Of Fury)](https://www.youtube.com/watch?v=o-mvjSCnnJw)
+- [Welcome To The Pleasuredome](https://www.youtube.com/watch?v=XcSLxE_a-H8)
+- [Relax](https://www.youtube.com/watch?v=pJ2L1dh-dSo)
+- [War](https://www.youtube.com/watch?v=EPA9B3YZtlc)
+- [Two Tribes](https://www.youtube.com/watch?v=o7jrM8E82Sw)
+- [Tag](https://www.youtube.com/watch?v=3MoWj2Qrezc)
+- [Fury](https://www.youtube.com/watch?v=t9AsldPY2ts)
+- [Born To Run](https://www.youtube.com/watch?v=2g5lMRzPLZw)
+- [San Jose](https://www.youtube.com/watch?v=R-ZtD-7wKaM)
+- [Wish The Lads Were Here](https://www.youtube.com/watch?v=0cR0BF0ngl4)
+- [The Ballad of 32](https://www.youtube.com/watch?v=OWHHk3UvSo4)
+- [Krisco Kisses](https://www.youtube.com/watch?v=_P8l1Y-tNow)
+- [Black Night White Light](https://www.youtube.com/watch?v=pIy3Jv3ejAI)
+- [The Only Star In Heaven](https://www.youtube.com/watch?v=H45pKYBmsLA)
+- [The Power Of Love](https://www.youtube.com/watch?v=3-APuH5b46M)
+- [Bang](https://www.youtube.com/watch?v=49rN_5MNO98)
+- [Frankie Goes To Hollywood - Relax (Official Video)](https://www.youtube.com/watch?v=Yem_iEHiyJ0)
+- [Frankie Goes To Hollywood - Two Tribes (ZTIS 119)](https://www.youtube.com/watch?v=SXWVpcypf0w)
+- [Frankie Goes To Hollywood - The Power Of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)
 - [The World Is My Oyster (Including Well / Snatch Of Fury)](https://www.youtube.com/watch?v=o-mvjSCnnJw)
 - [Welcome To The Pleasuredome](https://www.youtube.com/watch?v=XcSLxE_a-H8)
 - [Relax](https://www.youtube.com/watch?v=pJ2L1dh-dSo)

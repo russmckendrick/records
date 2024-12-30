@@ -4,7 +4,7 @@ artist_name: "Massive Attack"
 artist: "massive-attack"
 album_name: "Blue Lines"
 date: 2016-12-02T12:53:32.000000Z
-release_date: "1991-08-06"
+release_date: "2006-01-01"
 release_id: "9442778"
 slug: "blue-lines-9442778"
 hideSummary: true
@@ -13,21 +13,26 @@ cover:
     alt: "Blue Lines by Massive Attack"
     caption: "Blue Lines by Massive Attack"
 additional_images:
-    - "https://i.discogs.com/k6oEgFu6Iq-Cx_I2QLeZbKlj23KHI8752sZOIp_fjsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNjA4/OS02Nzk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/r2ewH1TSF58Iopn8_vvEnMLkeUe6NPCRzYVlVe6o0bU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNjA5/NS03MjIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/ByKTAXHlEXVdQIF9IBnTHjqeHH8i8IAFtefLCI6MNg4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTUwODI1MTQw/Ni0yMzE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/n7l_z3hrlS4zktX1x3H9EvtfYBbcDdSkGCUuqEBLDSM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTUwODI1MTQw/Ni03NjEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/vk9e8r85z6MKO18REZ6p8KisTiecNx3m3UKdPJsdEy8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNzM1/OS01NzY3LmpwZWc.jpeg"
-    - "https://i.discogs.com/QMlJNEp8RImO8Z9-ffkO-UKWfE31XhtBRaXxGJY34EY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNzQ1/Ni04NjEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/GEKB8ReXlCNk5RUdJTHD0_viugno1H2k5n5jR9pm1bQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTU3MTQ3NzIy/Mi02MTY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/SBnoeVyTIV-SHmTNoZXzjkLG3zKmcKS-bx3JMV1xSOM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyNjg1OTEx/OS0xODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7AwvhBdm7Ageyiohzl3rcczaQMV4yGwnScbOCcRAiHM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyNjg1OTEx/OC0yNTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/T2S78jQNTThPK7UboXUL6CBNZqaeEf-aqfjBamz0h2g/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyMzQyNDI1/Ny03Nzc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ccd0yCJOxNV-ldOzkSiVfILTkfTN15O3KhrUDGitMMo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyMzQyNDI1/Ny02MDEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZTyxIv6EKC1yBZjbZOomlYg-yvmCOZ364hcQ3K9Y-8k/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyNjg1OTEx/OS00NTI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/BVDSaA2olneYOAlnjEDdORLn6tNOK2CylTy2iE_BIpY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTcyNjg1OTEx/OS02MDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/EW0yqxmfmQdyUF_tIBa4vULwEIQXX9l8_AXpO6MF7lk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTU3MTQ3NzIy/Mi02MTY4LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-Blue Lines is the debut studio album by English electronic music group Massive Attack, released on 8 April 1991 by Wild Bunch and Virgin Records. The recording was led by members Grantley "Daddy G" Marshall, Robert "3D" Del Naja, Adrian "Tricky" Thaws, and Andrew "Mushroom" Vowles, with co-production by Jonny Dollar. It also features contributions by singers Shara Nelson and Horace Andy. Generally regarded as the first "trip hop" album, Blue Lines blended elements of hip hop (such as breakbeats, sampling, and rapping) with dub, soul, reggae, and electronic music.
-Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the Millennium" poll conducted by HMV, Channel 4, The Guardian and Classic FM. In 2000, Q readers placed it at number 9 in the magazine's poll of the "100 Greatest British Albums Ever". In 2003, the album was included on Rolling Stone's list of "The 500 Greatest Albums of All Time" and again in 2012 and 2020. Pitchfork ranked it at number 85 in its list of "The Top 100 Albums of the 1990s".A remastered version of the album was released on 19 November 2012.
+From the first whispers of whistling wind, driving basslines and sludgy, slowed breakbeats, the sound of Massive Attack’s 1991 debut is unmistakably theirs. Rooted in the musical culture of Bristol, England, at the turn of the 20th century’s final decade, <i>Blue Lines</i> absorbs the port city’s soundsystem vibrations, industrial grit and post-punk harshness to produce nine tracks of unsettling nocturnal introspection.
 
+Starting out as DJ and MC collective The Wild Bunch, Robert Del Naja, Andrew Vowles, Grant “Daddy G” Marshall and Adrian “Tricky” Thaws began turning their hand to production in the late ’80s, thanks to a collaboration with local singer Neneh Cherry on her 1989 single “Manchild”. Encouraged by Cherry and her partner, producer Cameron McVey, the quartet soon adopted the moniker Massive Attack and holed up in one of Cherry’s spare rooms to begin work on what would become <i>Blue Lines</i>.
 
+Inspired by the reggae music of the Caribbean diaspora in Bristol as much as by nascent UK rap pioneered by artists like Rodney P and the dub-punk of local heroes The Pop Group, Massive Attack forged a record of remarkable clarity, clothed in the paranoid fug of weed smoke. Opener “Safe From Harm” sets the tone, pairing Shara Nelson’s soulful vocals with record-scratches and a thundering rhythm section, while De Naja delivers a typically anxious hook: “I was looking back to see if you were looking back at me to see me looking back at you.”
+
+This tension between unease and harmony continues throughout, simmering in the jazz shuffle of the title track as Tricky drawls menacingly, or weaving through the dub bass and counterpoint of singer Horace Andy’s soaring falsetto on “Five Man Army”. Ultimately, it is on the group’s most well-known track, “Unfinished Sympathy”, that they reach their apotheosis. Pairing luscious string orchestrations with eerie vocal samples and Nelson’s yearning vocal lamenting an unrequited love, Massive Attack create five minutes of soul music that stirs as much as it soothes. 
+
+The group would go on to be labelled innovators of a new laid-back genre called “trip-hop”, spawning dozens of imitators and hundreds of chill-out playlists. Yet, there is nothing relaxed about <i>Blue Lines</i>: Amid its euphoric melodies is an ominous vocal, and between its groove there is a bassline breaking almost to distortion. On this pioneering debut there is always a reason to look back over your shoulder.
         
         
     
@@ -45,10 +50,25 @@ Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the
 9. Hymn Of The Big Wheel (6:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/blue-lines-the-remixes/724379865" >}}<br>
 
 
+## Videos
+### Massive Attack - Safe From Harm
+{{< youtube id="PKtTmZnVhhI" title="Massive Attack - Safe From Harm" >}}<br>
+### More Videos
 
+- [One Love (2012 Mix/Master)](https://www.youtube.com/watch?v=qvkyXiOeq9o)
+- [Blue Lines (2012 Mix/Master)](https://www.youtube.com/watch?v=X-lUnbIKYlo)
+- [Be Thankful For What You've Got (2012 Mix/Master)](https://www.youtube.com/watch?v=um06u9Zg8ww)
+- [Five Man Army (2012 Mix/Master)](https://www.youtube.com/watch?v=JOkykdCdyNY)
+- [Unfinished Sympathy (2012 Mix/Master)](https://www.youtube.com/watch?v=VLRa4nvkTy4)
+- [Massive Attack - Unfinished Sympathy](https://www.youtube.com/watch?v=ZWmrfgj0MZI)
+- [Massive Attack - Daydreaming](https://www.youtube.com/watch?v=JG9CXQxhfL4)
+- [Daydreaming (2012 Mix/Master)](https://www.youtube.com/watch?v=rT18lMwmt1U)
+- [Lately (2012 Mix/Master)](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
+- [Hymn Of The Big Wheel (2012 Mix/Master)](https://www.youtube.com/watch?v=odHmsIF4IWA)
+- [Safe From Harm (2012 Mix/Master)](https://www.youtube.com/watch?v=YVrMBBR5QW8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,7 +78,7 @@ Blue Lines was named the 21st greatest album of all time in a 1997 "Music of the
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Lines |
 | Format         | Vinyl LP Album Reissue Stereo (180 gram) |
-| Label          | Virgin |
+| Label          | Wild Bunch Records |
 | Catalog Number | 5700960 |
-| Notes | Reissue. Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU   |
+| Notes | Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU |
 | Discogs URL    | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778-Massive-Attack-Blue-Lines) |

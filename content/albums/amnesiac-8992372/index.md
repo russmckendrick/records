@@ -4,7 +4,7 @@ artist_name: "Radiohead"
 artist: "radiohead"
 album_name: "Amnesiac"
 date: 2016-10-01T10:33:37.000000Z
-release_date: "2001-06-04"
+release_date: "2021-11-05"
 release_id: "8992372"
 slug: "amnesiac-8992372"
 hideSummary: true
@@ -15,8 +15,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/-c2WF9ORvpwhPaZDoX5u68hPjktLNOuasgqn-U7dDKU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU1/OC0yNjUzLmpwZWc.jpeg"
     - "https://i.discogs.com/q9MMjhDtCM8JA8_A3ebdGHnH0zZK1Rf3VRiP2AeViX0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU3/NS0xMTkzLmpwZWc.jpeg"
-    - "https://i.discogs.com/7s2SICEgzp3u_ypQFixgNqN-AgfPUugN6ix7eGZ_vKA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU3/NC0xMjQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/eXdRkFKgXm7xcD9FzWq6_QUOA6EwaLjZwtPH0pW3x0c/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU2/My01OTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/_Kzw7bt7a1IxeTepE5uFBY44h-7Utf205hoopZS4tFQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU3/NC0xMjQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/0eIXcSutNDqXmV35BGtEygp7wjK6UVu-bv48w2q7wno/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU2/My01OTQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/ZiWo2UWlWMJDWczScX3XGpcDDaZTPgFXy4pDXHZ9-KY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU3/OC05NzAyLmpwZWc.jpeg"
     - "https://i.discogs.com/HTYWHhsAkieazqpHj-bG8GJI6aWvdNPm4wTHXu7vyJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3NTc1ODU3/NS0xNDE1LmpwZWc.jpeg"
     - "https://i.discogs.com/MdY_1jOxYgo40nZjCaAaNTcE43GJGy1lTjUJFrwCBG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTIz/NzItMTQ3MjkwOTg2/Ni05NjAwLmpwZWc.jpeg"
@@ -24,10 +24,10 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Experimental"]
 ---
 
-Amnesiac is the fifth studio album by the English rock band Radiohead, released on 30 May 2001 by EMI subsidiaries Parlophone and Capitol Records. It was recorded with the producer Nigel Godrich in the same sessions as Radiohead's previous album Kid A (2000); Radiohead split the work in two as they felt it was too dense for a double album. As with Kid A, Amnesiac incorporates influences from electronic music, 20th-century classical music, jazz and krautrock. The final track, "Life in a Glasshouse", is a collaboration with the jazz trumpeter Humphrey Lyttelton and his band.
+Amnesiac is the fifth studio album by the English rock band Radiohead, released on 30 May 2001 by EMI. It was recorded with the producer Nigel Godrich in the same sessions as Radiohead's previous album Kid A (2000). Radiohead split the work in two as they felt it was too dense for a double album. As with Kid A, Amnesiac incorporates influences from electronic music, 20th-century classical music, jazz and krautrock. The final track, "Life in a Glasshouse", is a collaboration with the jazz trumpeter Humphrey Lyttelton and his band.
 After having released no singles for Kid A, Radiohead promoted Amnesiac with the singles "Pyramid Song" and "Knives Out", accompanied by music videos. Videos were also made for "Pulk/Pull Revolving Doors" and "Like Spinning Plates", and "I Might Be Wrong", which was released as a promotional single. In June 2001, Radiohead began the Amnesiac tour, incorporating their first North American tour in three years.
-Amnesiac debuted at number one on the UK Albums Chart and number two on the US Billboard 200. By October 2008, it had sold over 900,000 copies worldwide. It is certified platinum in the UK, the US and Canada, and gold in Japan. Though some critics felt it was too experimental or less cohesive than Kid A, or saw it as a collection of outtakes, it received positive reviews; it was named one of the year's best albums by numerous publications.
-Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning for Best Recording Package for the special edition. "Pyramid Song" was named one of the best tracks of the decade by Rolling Stone, NME and Pitchfork, and Rolling Stone ranked Amnesiac number 320 in their 2012 "500 Greatest Albums of All Time" list. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
+Amnesiac debuted at number one on the UK Albums Chart and number two on the US Billboard 200. By October 2008, it had sold over 900,000 copies worldwide. It is certified platinum in the UK, the US and Canada, and gold in Japan. It received positive reviews, though some critics felt it was too experimental or less cohesive than Kid A, or saw it as a collection of Kid A outtakes. 
+Amnesiac was named one of the year's best albums by numerous publications. It was nominated for the Mercury Prize and several Grammy Awards, winning for Best Recording Package for the special edition. "Pyramid Song" was named one of the best tracks of the decade by Rolling Stone, NME and Pitchfork, and Rolling Stone ranked Amnesiac number 320 in their 2012 list of the "500 Greatest Albums of All Time". Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
 
 
         
@@ -49,7 +49,7 @@ Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning 
 11. Life In A Glasshouse
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amnesiac/1097864180" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}<br>
 
 
 ## Videos
@@ -58,7 +58,15 @@ Amnesiac was nominated for the Mercury Prize and several Grammy Awards, winning 
 ### More Videos
 
 - [Radiohead - Pyramid Song](https://www.youtube.com/watch?v=3M_Gg1xAHE4)
+- [Pulk/Pull Revolving Doors](https://www.youtube.com/watch?v=-fuhLeD594A)
+- [You And Whose Army?](https://www.youtube.com/watch?v=QQnc-hM80UQ)
+- [Radiohead - I Might Be Wrong](https://www.youtube.com/watch?v=LOuLf8ThkoQ)
 - [Radiohead - Knives Out](https://www.youtube.com/watch?v=2Lpw3yMCWro)
+- [Morning Bell/Amnesiac](https://www.youtube.com/watch?v=6LGS0S8Lh4A)
+- [Dollars and Cents](https://www.youtube.com/watch?v=egUFlyfE1PY)
+- [Hunting Bears](https://www.youtube.com/watch?v=6AM0q_u7XNc)
+- [Like Spinning Plates](https://www.youtube.com/watch?v=-UAElLsVOQI)
+- [Life In a Glasshouse](https://www.youtube.com/watch?v=hKrAPSootn4)
 
 ## Release Images
 {{< imageGrid >}}

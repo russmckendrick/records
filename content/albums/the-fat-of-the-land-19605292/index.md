@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/B5wuLf81pMJ4Es0481u6RBjrQnDHKpJGK2Sxk6rxVaE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcxMTg3/MDktOTM1NS5qcGVn.jpeg"
     - "https://i.discogs.com/42DO5Ni8eMQpBhkBodz5c7AfqargVrr923n42s2yPt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE3/ODYtNjcyMS5qcGVn.jpeg"
     - "https://i.discogs.com/acfJ6B0EGMvdUmDWlgfLUkfF_R_V862Pghl3ia84Osw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE3/OTgtODgyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/QyswVtnknIOKYIDTDHUC434Yj0jzDO-WwTlQCm8bLOg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/MTEtNDI3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/jrBKr4EqduNH6_jk3DZBmGl3FJTuOfzNP8AqJH4Kgcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/MjItNDY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/mEcS5YbPhiFcSreV6bblnk-5DhZT_k-bKEmfwimlp3A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/MTEtNDI3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/LvOS6rEbt4cg82CwftTzAyVcC93EKs7FHHFdPtBh9ww/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/MjItNDY1OS5qcGVn.jpeg"
     - "https://i.discogs.com/VvSKpoaj17q-ylu7vQ2vI_jaV2RimvQqwHetqpqjb0s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/NDAtNDM4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/tjVTShZN_Ecw0rHzFr4lDmkyvqD6zl9vb6omVnnWDLE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/NTItOTMxOC5qcGVn.jpeg"
     - "https://i.discogs.com/xhWIAXcNfspOMFykASdcGOfxDUCvVm2sY-uoCUQFaVs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/MjkyLTE2MjcyMjE4/NjUtMjI2NC5qcGVn.jpeg"
@@ -28,7 +28,9 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Breaks"]
 ---
 
-The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019.
+The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019. It is their best-selling album.
+
+
     
     
 
@@ -50,9 +52,26 @@ The Fat of the Land is the third studio album by English electronic music group 
 
 
 ## Videos
-### The Prodigy ▶ The·Fat·of·the·Land (Full Album)
-{{< youtube id="GP6F0y3eU0Q" title="The Prodigy ▶ The·Fat·of·the·Land (Full Album)" >}}<br>
+### TVC - The Prodigy: The Fat of the Land - Sony Music Australia
+{{< youtube id="02IJIwuXDwY" title="TVC - The Prodigy: The Fat of the Land - Sony Music Australia" >}}<br>
+### More Videos
 
+- [The Prodigy - Firestarter (Official Video)](https://www.youtube.com/watch?v=wmin5WkOuPw)
+- [The Prodigy ▶ The·Fat·of·the·Land (Full Album)](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
+- [Smack My Bitch Up](https://www.youtube.com/watch?v=xW17jtkjvvg)
+- [Breathe](https://www.youtube.com/watch?v=LhOjN4t0YsY)
+- [The Prodigy - Funky Shit](https://www.youtube.com/watch?v=psCf0oK9dvg)
+- [The Prodigy   Serial Thrilla](https://www.youtube.com/watch?v=kmaBE7ZJ8cE)
+- [The Prodigy   Mindfields original](https://www.youtube.com/watch?v=7lEB7V-KIb0)
+- [The Prodigy - Narayan](https://www.youtube.com/watch?v=_bleTaIGSQw)
+- [Firestarter](https://www.youtube.com/watch?v=Hb9hvRSEel8)
+- [The Prodigy - Climbatize](https://www.youtube.com/watch?v=HuZTEsvgQko)
+- [The Prodigy - Fuel My Fire](https://www.youtube.com/watch?v=sf3QD3VoOnU)
+- [The Prodigy ▶ The·Fat·of·the·Land (Full Album)](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
+- [Mindfields](https://www.youtube.com/watch?v=mbcVm8iepQE)
+- [The Prodigy - Breathe (Official Video)](https://www.youtube.com/watch?v=6_PAHbqq-o4)
+- [Reviewing The Prodigy's The Fat of the Land in 10 seconds or less](https://www.youtube.com/watch?v=lToRGp9bYNE)
+- [The Samples – The Prodigy – The Fat Of The Land Edition](https://www.youtube.com/watch?v=fl79MQ0M4dw)
 
 ## Release Images
 {{< imageGrid >}}

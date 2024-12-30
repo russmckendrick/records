@@ -50,4 +50,4 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Yellow) |
 | Label          | XL Recordings |
 | Catalog Number | XL1335LPE |
-| Discogs URL    | [Sam Morton - Daffodils & Dirt](https://www.discogs.com/release/31002340-Sam-Morton-Daffodils-Dirt) |
+| Discogs URL    | [Sam Morton - Daffodils & Dirt](https://www.discogs.com/release/31002340-Sam-Morton-6-Daffodils-Dirt) |

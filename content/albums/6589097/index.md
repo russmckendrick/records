@@ -48,7 +48,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 16. Untitled (11:45)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sigur-r%C3%B3s-presents-liminal-sleep/1475167321" >}}<br>
 
 
 ## Videos
@@ -74,4 +74,4 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Label          | XL Recordings |
 | Catalog Number | XLLP611 |
 | Notes | ℗ and © 2002 Sigur Rós under exclusive license to XL Recordings Ltd.  Album has been referred to by members of Sigur Ros as "Svigaplatan", which translates to "The Bracket Album". Below are are the titles the band has for the otherwise officially untitled songs themselves:   Untitled 1 - Vaka (the name of Orri's daughter)  Untitled 2 - Fyrsta (the first song)  Untitled 3 - Samskeyti (attachment)  Untitled 4 - Njósnavélin (the spy machine)  Untitled 5 - Álafoss (the location of the band's studio)  Untitled 6 - E-bow [georg uses an e-bow on his bass in this song]  Untitled 7 - Dauðalagið (the death song)  Untitled 8 - Popplagið (the pop song)  Sticker on front:  "Pressed on audiophile quality 180 gram vinyl. Contains CD." Vinyl pressed at Optimal Media GmbH per runout. CD manufactured at Arvato per matrix.  |
-| Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/6589097-Sigur-R%C3%B3s--) |
+| Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/6589097-Sigur-Rós--) |

@@ -4,7 +4,6 @@ artist_name: "Thom Yorke"
 artist: "thom-yorke"
 album_name: "Suspiria"
 date: 2018-12-27T18:11:35.000000Z
-release_date: "2018-10-26"
 release_id: "12682472"
 slug: "suspiria-12682472"
 hideSummary: true
@@ -21,19 +20,21 @@ additional_images:
     - "https://i.discogs.com/bXLBcX-sT8yiCQAykyozOHxVONmR06VKOdxiFm1WJds/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA3OTI4/ODQtMjk4OS5qcGVn.jpeg"
     - "https://i.discogs.com/p5v3ySZehsM0nhdRjfOdVQ3TgTLkNNkEG8A5Ffurbcw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA3OTI4/ODUtNDQ2MC5qcGVn.jpeg"
     - "https://i.discogs.com/kSLTAsAjx6HOKyO51fQxSvlbBpEmNjDb6n1Fhj9SCIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDItODgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/cmyVo-ieQ4-piMA2fnC0BkYoCg3d4JbzXL4qFCa7Rb0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDMtNzQyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/awggu8uh0S74tj4aqQKysHRELFac8hpNAlPj17LdO9w/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDMtNzQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/fTbrEIoxIZ15IW5xswIutFNYC9b4xL9quKqkhdg_b0M/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA3OTI4/ODUtNTA3OS5qcGVn.jpeg"
     - "https://i.discogs.com/s1BU_l1MY-8MnawdUcCT3cB36WgAEcqrOfmoAsxvFkg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA3OTI4/ODUtNTIwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/wImL5ZfkXuR9d631WlzbehTlaCFKhauTU4lZ0NGjMjs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDYtMjg0My5qcGVn.jpeg"
-    - "https://i.discogs.com/BHjrnDonIeZT1hDs6e3vq4S6jRO66kQlEB6Nj5O9_Fg/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDgtMzY4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/xWYDmWJTkEp12I7ZVQCF1FWts5l7aanHFWsGUeNuFJ4/rs:fit/g:sm/q:90/h:888/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDE0MTUz/MjAtODQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Lvo3ekcgMNGeQI-fiUofnzBxHQHpS0XdOac9sNiREPk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDYtMjg0My5qcGVn.jpeg"
+    - "https://i.discogs.com/PQpgZvlOt_wgoL66MFUt2J0JnF1IJ38gOJm8xiy5DZw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDA0Njkw/MDgtMzY4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/IBfUgPea0kvLu7OTdH0ceHQEZSwlYUUaNG4z2hsIKkY/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NDE0MTUz/MjAtODQ5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/2zMV4rrFJ2sIrX0rqKv7FqJ8SiBCuEWeJNHXaF3EjyY/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/NDcyLTE1NjAwNjkw/MjUtODA0OS5qcGVn.jpeg"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Experimental", "Soundtrack"]
 ---
 
-When director Luca Guadagnino (<i>Call Me By Your Name</i>, <i>A Bigger Splash</i>) first approached Radiohead frontman Thom Yorke about soundtracking his remake of the surrealist horror movie <i>Suspiria</i>, Yorke was reticent: After all, the original’s soundtrack (by Italian prog band Goblin) remains a classic of its kind, and anyway, Yorke had never even <i>written</i> a soundtrack before. But knowing he’d regret saying no, he said yes.<br />
-Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in Berlin in 1977, the year the original <i>Suspiria</i> came out) and the cut-and-paste experiments of musique concrète, the result is probably the most relentlessly unsettled—and unsettling—album Yorke has ever been involved with. Eerie synth miniatures (“Volk”) mix with choral pieces (“Sabbath Incantation,” “The Conjuring of Anke”), and fragments (“A Soft Hand Across Your Face”) with full-fledged songs (“Has Ended,” “Unmade”). When the music does land somewhere comfortable—the twinkling waltz of “Suspirium”—enjoy the moment: It won’t stay that way for long.
+Suspiria (Music for the Luca Guadagnino Film) is the soundtrack for the 2018 horror film Suspiria, composed by the English musician Thom Yorke and produced by Yorke and Sam Petts-Davies. It was released on 26 October 2018 through XL Recordings. 
+Suspiria was Yorke's first feature film score, and incorporates instrumental tracks, interludes, and songs. "Suspirium" was nominated for Best Song Written for Visual Media at the 62nd Annual Grammy Awards.
+
+
     
     
 
@@ -66,7 +67,7 @@ Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in 
 25. The Epilogue (2:47)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/suspiria-music-for-the-luca-guadagnino-film/1432203897" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/suspiria-unreleased-material/1450893351" >}}<br>
 
 
 
@@ -77,6 +78,7 @@ Inspired by the loose, hypnotic sound of German Krautrock (the remake is set in 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Suspiria_(2018_soundtrack) |
 | Format         | Vinyl 2× LP Album (Pink) |
 | Label          | XL Recordings |
 | Catalog Number | XL936LP |

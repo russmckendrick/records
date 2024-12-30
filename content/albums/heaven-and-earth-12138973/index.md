@@ -79,17 +79,11 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 
 
 ## Videos
-### Fists of Fury
-{{< youtube id="YFe5a66BuCw" title="Fists of Fury" >}}<br>
+### Kamasi Washington Hub-Tones
+{{< youtube id="u-e6mOTK__Y" title="Kamasi Washington Hub-Tones" >}}<br>
 ### More Videos
 
-- [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
-- [Can You Hear Him](https://www.youtube.com/watch?v=fXUMKIc7a6E)
-- [Kamasi Washington Hub-Tones](https://www.youtube.com/watch?v=u-e6mOTK__Y)
-- [Kamasi Washington - Space Travelers Lullaby](https://www.youtube.com/watch?v=wcAoqfwmqn4)
-- [Kamasi Washington - Fists of Fury](https://www.youtube.com/watch?v=052G6nMA2WA)
 - [Connections](https://www.youtube.com/watch?v=gl-9ZYLLKsU)
-- [Kamasi Washington - Testify](https://www.youtube.com/watch?v=HKnz2AXSd9c)
 - [Tiffakonkae](https://www.youtube.com/watch?v=k504nCPzjhk)
 - [The Invincible Youth](https://www.youtube.com/watch?v=_r3skFJpLco)
 - [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
@@ -105,6 +99,26 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 - [Will You Love Me Tomorrow](https://www.youtube.com/watch?v=aYfOU70TPU8)
 - [The Secret of Jinsinson](https://www.youtube.com/watch?v=3u8LrGROa20)
 - [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
+- [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
+- [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
+- [Kamasi Washington Hub-Tones](https://www.youtube.com/watch?v=u-e6mOTK__Y)
+- [Connections](https://www.youtube.com/watch?v=gl-9ZYLLKsU)
+- [Tiffakonkae](https://www.youtube.com/watch?v=k504nCPzjhk)
+- [The Invincible Youth](https://www.youtube.com/watch?v=_r3skFJpLco)
+- [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
+- [One of One](https://www.youtube.com/watch?v=31RbajKWAZ8)
+- [The Space Travelers Lullaby](https://www.youtube.com/watch?v=8Zw85YN37Cs)
+- [Vi Lua Vi Sol](https://www.youtube.com/watch?v=hoxGDKQZ1nY)
+- [Kamasi Washington - Street Fighter Mas](https://www.youtube.com/watch?v=LdyabrdFMC8)
+- [Song For The Fallen](https://www.youtube.com/watch?v=qQC1TptRryQ)
+- [Journey](https://www.youtube.com/watch?v=HgB_MtTsdQk)
+- [The Psalmnist](https://www.youtube.com/watch?v=m35-axNUwms)
+- [Show Us The Way](https://www.youtube.com/watch?v=8w-M7tSY0NU)
+- [Will You Sing](https://www.youtube.com/watch?v=QyZQEE_MnWQ)
+- [Will You Love Me Tomorrow](https://www.youtube.com/watch?v=aYfOU70TPU8)
+- [The Secret of Jinsinson](https://www.youtube.com/watch?v=3u8LrGROa20)
+- [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
+- [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
 - [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
 
 ## Release Images

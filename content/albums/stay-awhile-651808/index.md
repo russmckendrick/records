@@ -40,17 +40,14 @@ styles: ["Soul-Jazz", "Soul"]
 10. Every Day I Have To Cry
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stay-awhile-i-only-want-to-be-with-you/1436881148" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-karaoke-channel-sing-stay-awhile-like-dusty/973324944" >}}<br>
 
 
 ## Videos
-### Stay Awhile
-{{< youtube id="pGB3WljqzmE" title="Stay Awhile" >}}<br>
+### You Don't Own Me
+{{< youtube id="nAQKgOmUk-U" title="You Don't Own Me" >}}<br>
 ### More Videos
 
-- [Wishin' And Hopin'](https://www.youtube.com/watch?v=dyZG1s7gbn8)
-- [You Don't Own Me](https://www.youtube.com/watch?v=nAQKgOmUk-U)
-- [Every Day I Have To Cry](https://www.youtube.com/watch?v=-8VJz9JHGSc)
 - [I Only Want To Be With You](https://www.youtube.com/watch?v=6opirWRSj4c)
 - [Mama Said](https://www.youtube.com/watch?v=NyikIdu9gks)
 - [Anyone Who Had A Heart](https://www.youtube.com/watch?v=O6NOByozZVo)

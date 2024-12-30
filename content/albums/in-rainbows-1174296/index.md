@@ -13,26 +13,28 @@ cover:
     alt: "In Rainbows by Radiohead"
     caption: "In Rainbows by Radiohead"
 additional_images:
-    - "https://i.discogs.com/M_QmofVfPwV_7Rc6z17_FqKtnvo26WMVF2_TMjBLQ_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTM2MzQzNDA3/My0yMjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/7y0jjFTZp88uBO380fsYcO36I3ex_er3lZn8COq90Vc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTY5NzMyNzQ3/Ny0yMzQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/go7pfbPeWHzgCis0jFmspC1NFn2oDcYpyjuT86CGU94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTM2MzQzNDEw/Mi00NDg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/8t0z9-EsUsWixOlYssFvkplmCFucQRhcSiVyuqkqEww/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTU4NDk2MzE5/NC05OTQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/L3BSnAT9SZW0KiPe0b62or-HlHUIKLIw1w6ZMUXniF4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTU4NDk2MzE5/NC05OTQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/ibcD6JSq1dbvTWTss_4PBsaHagf-dZf3Q9AMrlVqIJ0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTU4NDk2MzE5/NC00MTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/VGiyjk1KR_ElSlbei0ZXn51xuOPsTjErt3-5jtMlBhk/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTM4NTg1MDI3/Ny00NjM1LmpwZWc.jpeg"
     - "https://i.discogs.com/I9LeUtX9LmmqcWby1j2zn1eWBnjwPts9mkWuxpV-Qxg/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTM4NTg1MDI4/Ni03ODE1LmpwZWc.jpeg"
     - "https://i.discogs.com/e-rk-tMrJf4E51OVq8aAaJzLrEaDTGWPt76_h5QVkDk/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTYyODA4Mjcz/NC0yMzI0LmpwZWc.jpeg"
     - "https://i.discogs.com/kHPZvTtVExg4pS9-D_PWqqi6f7WMfWeKsA3NS6sKmuk/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTYyODA4Mjcz/OC00ODEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Ss2OKy2M0u_HjBzpYffDtc8vmh8C231xxHSu-Nar9vk/rs:fit/g:sm/q:90/h:449/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTcxNTgyNDEx/Mi0yMDI0LmpwZWc.jpeg"
     - "https://i.discogs.com/QJfrqk2Jjw_5G_Jj89HLS1g7XkZ5iSnw1R0KN-muPa4/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTYyODA4Mjc0/Mi01OTE0LmpwZWc.jpeg"
     - "https://i.discogs.com/Hop38xYugO0wnfnp-GwduMK9CsZ8hOe1azX7GY4JKD4/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTYyODA4Mjc0/Ni05NjIwLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Art Rock", "Experimental", "Indie Rock"]
 ---
 
-In Rainbows is the seventh studio album by the English rock band Radiohead. It was self-released on 10 October 2007 as a pay-what-you-want download, followed by a physical release internationally through XL Recordings and in North America through TBD Records. It was Radiohead's first release after their recording contract with EMI ended with their album Hail to the Thief (2003).
-Radiohead began work on In Rainbows in early 2005. In 2006, after initial recording sessions with their new producer Spike Stent proved fruitless, they re-enlisted their longtime producer Nigel Godrich. Radiohead recorded in the country houses Halswell House and Tottenham House, the Hospital Club in London, and their studio in Oxfordshire. They incorporated conventional rock instrumentation plus electronic instruments, strings, piano and the ondes Martenot. The lyrics are less political and more personal than previous Radiohead albums.
-Radiohead self-released In Rainbows online and allowed fans to set their own price, saying this liberated them from conventional promotional formats and removed barriers to audiences. It was the first such release by a major act and drew international media attention. Many praised Radiohead for challenging old models and finding new ways to connect with fans, while others felt it set a dangerous precedent at the expense of less successful artists.
-Radiohead promoted In Rainbows with webcasts, music videos, competitions and a worldwide tour. "Jigsaw Falling into Place" and "Nude" were released as singles; "Nude" became Radiohead's first US top-40 song since their debut single "Creep" (1992). The retail release of In Rainbows topped the UK Albums Chart and the US Billboard 200, and by October 2008 it had sold over three million copies worldwide. It was the bestselling vinyl record of 2008, and is certified platinum in the UK and Canada and gold in the US, Belgium and Japan. In Rainbows received acclaim, winning Grammy Awards for Best Alternative Music Album and Best Boxed or Special Limited Edition Package, and was ranked one of the best albums of the year and the decade by various publications. Rolling Stone included In Rainbows in its updated lists of the 500 Greatest Albums of All Time.
+For those who grew up during the streaming era, it may be impossible to grasp just how monumental the announcement of Radiohead’s seventh album, <i>In Rainbows</i>, seemed in 2007. But in early October, guitarist Jonny Greenwood logged onto the band’s blog to announce that not only was the group’s long-awaited new record finished, but that it would be available online in 10 days—and that fans could pay whatever they wanted for the files (including, well, nothing). Debates have raged about the consequences of Radiohead’s decision ever since, but it was a bold response to the onslaught of digital piracy. Radiohead had fulfilled its contract with EMI, becoming one of the world’s biggest rock bands in the world. What did the band members have to lose by seeing how much listeners actually valued their music?
 
+Though that decision dominated headlines, <i>In Rainbows</i> presented another bit of unexpected upheaval in Radiohead’s world: After years of in-studio sonic experimentation, the group had come back to earth, making a 10-song, 42-minute record with actual, you know, <i>singles</i>. And <i>guitars</i>. And lyrics about loneliness and love and yearning. This was Radiohead reverting to its past—slightly. Sure, you could hear the experimental vapours of <i>Kid A</i> in the tessellated textures of “Reckoner” and the skitters of “15 Step”. And you could sense the luminous aggression of <i>Hail to the Thief</i> in the caterwauls of “Bodysnatchers”. But then there was the gorgeous-if-fretful “Nude”, a song Radiohead had been trying to get right for a decade: With its preening new bassline, it became their first US Top 40 hit since “Creep”. And on “House of Cards”, a song unabashedly about sex and all the places it could lead, the bandmates sound like a dubplate version of their former rock band selves, all lust-drunk and wobbling.
 
+Radiohead may have seemed newly at ease on <i>In Rainbows</i>, but making the record nearly broke the band. For the first time since <i>OK Computer</i>, the group members tried working with a producer other than Nigel Godrich—only to abandon the attempt, and instead take some tunes on the road. They eventually reunited with Godrich, who forced the bandmates—some of whom were new fathers—to focus on music, sequestering them in a broken-down country palace, and making them sort through all their fragments and false starts.
+
+The effort yielded some of Radiohead’s most memorable songs, as though time and touring had taught the group to find this material’s essence. The impossible guitar tangle of “Weird Fishes/Arpeggi” finds a climax worthy of the best post-rock bands, as does the brief acoustic phantom, “Faust Arp”. Most stunning, though, might be the album’s finale, “Videotape”. Equal parts love note and goodbye letter, “Videotape” first arrived as a maximalist rush onstage at the Hammersmith Ballroom in 2006. But the band members kept peeling back layers and dropping parts in the studio, until all that remained were skeletal piano and rhythms that cracked apart and eventually floated skyward—as though Radiohead were drifting off into the void.
         
         
     
@@ -54,7 +56,13 @@ Radiohead promoted In Rainbows with webcasts, music videos, competitions and a w
 {{< applemusic url="https://music.apple.com/gb/album/in-rainbows/1109714933" >}}<br>
 
 
+## Videos
+### Radiohead - Jigsaw Falling Into Place
+{{< youtube id="GoLJJRIWCLU" title="Radiohead - Jigsaw Falling Into Place" >}}<br>
+### More Videos
 
+- [Radiohead - Jigsaw Falling Into Place](https://www.youtube.com/watch?v=GoLJJRIWCLU)
+- [Radiohead - Nude](https://www.youtube.com/watch?v=BbWBRnDK_AE)
 
 ## Release Images
 {{< imageGrid >}}
