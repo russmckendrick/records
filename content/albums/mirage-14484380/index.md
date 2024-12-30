@@ -4,7 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Mirage"
 date: 2019-12-04T21:48:33.000000Z
-release_date: "1982-06-18"
+release_date: "1975-07-11"
 release_id: "14484380"
 slug: "mirage-14484380"
 hideSummary: true
@@ -15,18 +15,23 @@ cover:
 additional_images:
     - "https://i.discogs.com/LBH5tChzZjG45XFeqvodt1Roz8jb0XeAHBtUJAolHCc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjctMTEwOS5qcGVn.jpeg"
     - "https://i.discogs.com/SuIRtbY3UJgngICNDOLEKW_R8iorgLEndNSONAuLlYQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjgtNDAwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/V7MivvcnSeH08IRGWskxaihgw9xaAq82tdA33P9hXz4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY4/MzMtNTY1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/NECV13qY6C4bASJv1noxEwzQhZsB8eHsOEv0jo6mRIg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY4/MzMtOTk5My5qcGVn.jpeg"
-    - "https://i.discogs.com/5aY7g0y1VlLKcBiuXjCOm1itFncsDxZhne67oT9v1HA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjgtNjA1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/TRmOEjLawjNEaZbVgvXN-8DFN3ou59VWWbKG7r0KvFg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjgtODI5My5qcGVn.jpeg"
-    - "https://i.discogs.com/_jUNl4KfZ-3KW7T2HahGHepGZ59kUNcGcrMfZJSKn2s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjgtNzg1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/dacQ4pcjbQgHSGV4RCPT_1aZluuDZljgpUj6oZEFucQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU2MjY3/NjctNTYyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/ucUWgz5ZzemlbEugpiI4jgYYA2vzJAdzoHywYuBBVEA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE1NzU0NzI1/NjAtNTQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/DS2uByOoijkUr0UAM8lW3FvnCv8wlasVPB82yTE_Pik/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MDktMTU2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/wVODoQprUhvMFTWspHO2gWRaIA7D8IHnmxG8XVxuvZE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MTEtOTgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/d88Lc8TzdFnAuhgKUrxw_f6B-B9Xj324EzJZHFTqK58/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MTAtOTc4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2X6_LpRsV7CQOFC1EbHjf7GTQm4MMhh0UbaA0en0Prs/rs:fit/g:sm/q:90/h:313/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MDktNTc3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/LeOrKB6JCcV6gX8dZ_WTTUooz3q1BZ0TwWwLrs3JYmM/rs:fit/g:sm/q:90/h:347/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MDktNDc4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KTts1F-dJTyYjgB5BiZTbCqXIpi83lnn2nmyTcuXLQc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MTAtNTg4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8O4jN4c4N2ZvQtl8LaiEFrEeDaHV6RugW9f3n57ys6k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MTAtMzg2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/GHXcVtk8Mk7LltPMPxc7yiMPYCgARdMTRSMK1iPBhDk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg0/MzgwLTE3MDc3NTE3/MTAtOTAxMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-After taking more than a year off for some much-needed rest following the world tour in support of 1979’s <i>Tusk</i>, Fleetwood Mac recorded 1982’s <i>Mirage</i> in the decadence of Château d'Hérouville near Paris. Whereas <i>Tusk</i> was a deliberate departure from the preceding masterpiece <i>Rumors</i>, the slickly produced <i>Mirage</i> was an attempt to bring Fleetwood Mac's fans more hits on par with the likes of “Go Your Own Way,” “Don’t Stop,” “Dreams,” and “You Make Loving Fun.” <i>Mirage</i> definitely delivered some stellar singles, starting with the seductive sway of “Hold Me.” Penned by Christine McVie (along with the opening “Love in Store”), it hinted at how her songwriting prowess would blossom and save 1987’s <i>Tango in the Night</i> amid the band’s dissolve. After digging through her song stash, Stevie Nicks offered the catchy “Gypsy.” (She'd written it in 1979 for her debut solo album, <i>Bella Donna</i>, but left it off when the song’s muse died of leukemia.) Lindsey Buckingham borrowed melodies from Nicks’ “Wild Heart” for “Can’t Go Back."
+When Mick Fleetwood walked into Sound City studios in 1974, he wasn’t just looking for a place to record, he was looking for a place to start over. The band had lost four vocalists in as many years, and were on the wane both critically and commercially. So when producer Ken Olsen played Fleetwood an album by a middling folk-rock duo called Buckingham Nicks (just to test the sound), and Fleetwood liked the guitar playing, he figured, why not? Even when Buckingham said he and Nicks were a package deal, Fleetwood was unfazed: After all, they’d met, gotten along, and figured it might be interesting to have two female singer-songwriters in a band, not to mention two couples.
+
+Why does <i>Fleetwood Mac</i> work so well? Balance. Fleetwood and John McVie—the band’s rhythm section—came from blues, but never quite crossed the threshold into hard rock, and they took to their new pop material without friction. Buckingham the chippy perfectionist (“Monday Morning”) is a foil for Nicks the mystic (“Rhiannon”), and Nicks the West Coast Earth mama (“Landslide”) a foil for Christine McVie the sophisticate (“Warm Ways”). Together they resolve the oxymoron not just of ”soft rock”, but of “folk pop”, creating, as though through spontaneous combustion, a sound commercial enough to sell millions, and personal enough to make those millions feel like the music is whispering something secret about their own lives.
+
+On being reminded by John McVie that they were supposed to be a blues band, Olsen famously assured him that what they were doing now was a much faster way to the bank. But the beauty of the album’s creation is that nobody in the band seemed to expect it, and everyone shared in it equally. As Mick Fleetwood later put it, Buckingham Nicks didn’t join Fleetwood Mac—the two bands became one.
         
         
     
@@ -47,7 +52,7 @@ After taking more than a year off for some much-needed rest following the world 
 12. Wish You Were Here (4:45)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mirage-remastered/1112125557" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fleetwood-mac-deluxe/1308648830" >}}<br>
 
 
 

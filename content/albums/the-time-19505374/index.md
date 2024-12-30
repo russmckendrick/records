@@ -22,12 +22,14 @@ additional_images:
     - "https://i.discogs.com/PKAqHT7NO4QAVdcivtTCQqojJMcScq7j7kP7_O63I0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA1/Mzc0LTE2MjY2OTM3/MjktMzM5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/QggHyFDFIAMtvzcaMRx44BgkoUiNNW_IBoYLWJSUB_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA1/Mzc0LTE2MjY2OTM3/MjktMTg1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/9msj0qnVptoUdKgPZoHJNYzVi13uj5wt5-JQAxygfpc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA1/Mzc0LTE2MjY2OTM3/MjktNzQ3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/5SS1uNKx1Jqsihp2OkNfPqTmY91aR-VwraZ3ozclHmQ/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA1/Mzc0LTE2MjY2OTM3/MjgtMzI3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/etMrGrYn21TZNsRVwJTjQz4PDEHA-1j0j7-JON33iTM/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA1/Mzc0LTE2MjY2OTM3/MjgtMzI3NS5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts.
+The Time is the 1981 debut album by the Time. The album was largely produced and arranged by Prince, credited as Jamie Starr. Three singles came from the album: "Get It Up", "Cool" and "Girl", with the first two charting within the top ten on the R&B charts. 
+
+
     
     
 
@@ -47,17 +49,17 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 12. The Stick (Single Edit) (3:06)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-time-expanded-edition-2021-remaster/1572861686" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-time/406402841" >}}<br>
 
 
 ## Videos
-### Get It Up
-{{< youtube id="qF632f3h7gY" title="Get It Up" >}}<br>
+### After Hi School
+{{< youtube id="mFcNjM8py8k" title="After Hi School" >}}<br>
 ### More Videos
 
-- [Girl](https://www.youtube.com/watch?v=zhBD1D9n084)
-- [After Hi School](https://www.youtube.com/watch?v=mFcNjM8py8k)
 - [Cool](https://www.youtube.com/watch?v=_Ibaf56aeew)
+- [Get It Up](https://www.youtube.com/watch?v=qF632f3h7gY)
+- [Girl](https://www.youtube.com/watch?v=zhBD1D9n084)
 - [Oh, Baby](https://www.youtube.com/watch?v=5oiBHTCsAZI)
 - [The Stick](https://www.youtube.com/watch?v=8MKBkG55xi4)
 
@@ -68,7 +70,7 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Time_(The_Time_album) |
-| Format         | All Media Compilation Limited Edition, Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
+| Format         | Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
 | Label          | Warner Records |
 | Catalog Number | 603497843954 |
 | Notes | Hype sticker: The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides Limited edition red and white vinyl  Optional: Copies sold in Italy have a holographic SIAE sticker from 'Warner music'  Cover: This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.  LP1: Red vinyl in plain white poly-lined inner-sleeve LP2: White vinyl in plain black poly-lined inner-sleeve |

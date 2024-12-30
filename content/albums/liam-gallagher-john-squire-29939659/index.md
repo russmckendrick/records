@@ -13,13 +13,17 @@ cover:
     alt: "Liam Gallagher John Squire by Liam Gallagher"
     caption: "Liam Gallagher John Squire by Liam Gallagher"
 additional_images:
-    - "https://i.discogs.com/UzPeQ8znFmkNbHjf4zX1wiOx982UBuDPEAeNhyzejCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkwNDUz/MDMtNTE2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/xopPt8to2PSFaiSqSahScA4W5yGn4rUL1uvDJQFoOck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkwNDUz/MDEtNDE1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/hKVpC1I5e6VZ-ZnQvmCdlj9bWZOxioNwXfQ3io8qjCc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkzMTk5/NTctNjcxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/UD_SaQwCIJPXuhfQ35pjawLffphKE0exnQlLfgKvpiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkzMTk5/NTgtOTY4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/sAeXhedsB0zK_DlNrhS0GcSqLt2kyOwgqoQP-fxUt4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkwNDUy/OTQtODcxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/77uRRzwXjgvO-3lBxy_V38veqgAwWscdS7h6gaoxNwE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTYtMzQ2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/GrA4LfTXUYLy4feK0XTttdAttojgPvE4dH90KVxQUbc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTUtNTgzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/vT8uJr0FmGHaUdVqzEH5-5-ya1nbabTJpxwWHPd9K_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTUtNjYzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/4BMs8w10FdRhd0Uuy783GardDMmTQQJ9xf9jOcze53Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTUtOTAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/1x05cVeeUenCVpLevmZ0M_vdE3WvcevHJ307A8ik9-4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTUtMTYyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/_Bmjx0Oa1Ka1JMXY-54fXO-5UxKny489ukd_ddG9KJA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MjU4NTI1/OTUtNTE2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ncK_-c17JW0eq_uAxPBNdlx4C1DI33rAGqFsTW-lfgY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MTAxMDc5/NDUtMjE3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/hfPjm1c9rN3F9MyXHgcopY-RuJYC6BtBrTPsH-S5H7o/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MTAxMDc5/NDQtOTAxMC5qcGVn.jpeg"
     - "https://i.discogs.com/Z1tDIfidTSovesA-4Ejp53KjVhVwl3KzQISUEL-6LvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkwNDUy/OTMtNTI5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Ve3fWXDyZgvrH-TQSwbYgA_oOh0GDF_DZOMgAhSGQ0Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDkwNDUy/OTctMTE0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/WRIuaO0MRKAe9gV-sBKvmlCUJv8Ft1D5TKgVVKhBxAM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM5/NjU5LTE3MDk3MjE5/MTQtODYwMi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Psychedelic Rock"]
 ---
@@ -58,6 +62,9 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 ### More Videos
 
 - [Liam Gallagher & John Squire - Mars To Liverpool (Official Video)](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
+- [Liam Gallagher & John Squire - Just Another Rainbow (Official Video)](https://www.youtube.com/watch?v=oOS0VlHNkqE)
+- [Liam Gallagher & John Squire - Mars To Liverpool (Official Video)](https://www.youtube.com/watch?v=gXMq5qX-Mfg)
+- [Liam Gallagher & John Squire - Raise Your Hands (Official Video)](https://www.youtube.com/watch?v=1uQtZDTGM14)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +76,5 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 | Format         | Vinyl LP Album Stereo (White) |
 | Label          | Warner Records |
 | Catalog Number | 5054197893957 |
-| Notes | EXCLUSIVE WHITE VINYL  Official artist and title is 'Liam Gallagher & John Squire' On sleeve: Liam Gallagher John Squire  Engineered at No Expectations Studios, Hollywood, CA, USA.  Made in Germany  White vinyl catalogue number: 5054197893957 Standard sleeve catalogue number: 5054197893940  Available with an Assai Records Edition Obi Strip from Assai Records. Assai Obi Strip Numbered of 300 Ships with poster |
+| Notes | EXCLUSIVE WHITE VINYL  Official artist and title is 'Liam Gallagher & John Squire' On sleeve: Liam Gallagher John Squire  Engineered at No Expectations Studios, Hollywood, CA, USA.  Made in Germany  White vinyl catalogue number: 5054197893957 Standard sleeve catalogue number: 5054197893940 Runouts are hand etched.  300 copies of this release were retailed by Assai Records with an approved hand numbered Obi under Assai Obi Editions.  Ships with poster. |
 | Discogs URL    | [Liam Gallagher - Liam Gallagher John Squire](https://www.discogs.com/release/29939659-Liam-Gallagher-John-Squire-Liam-Gallagher-John-Squire) |

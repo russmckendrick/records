@@ -12,14 +12,14 @@ cover:
     alt: "East Of The Sun West Of The Moon  by a-ha"
     caption: "East Of The Sun West Of The Moon  by a-ha"
 additional_images:
-    - "https://i.discogs.com/Gp15ehJ4-70wdCPaIsmTCxwTqUnhJItAd6bypW3lZ4A/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItMjM2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/gBTCWAQ_PbZ7fhOnk10JgZtRvCMxZW9mHHL4rYSfwJE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItMjM2MS5qcGVn.jpeg"
     - "https://i.discogs.com/P7ogkk7OCgYOUJbukjDj3rBtDhmRaggPtZTn7H6U__E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNTQzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/2U_1FRa7gLi-ELnByTIfmuBK0YaabvNv4BwBBKfk2KU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTEtNjQ2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/5MN-xZtRlySumvD62Lsv1E4LthKWza2KkYNuRocstPw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNjM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/iR-ouFfzGgVo22BP3ar6TLhbXPA8xAJai--HmSjYmbk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTEtNjQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ClN04qhMkJxp6J7k2qfUamd6vURrPJ6pS3I-YOadgYA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNjM0OS5qcGVn.jpeg"
     - "https://i.discogs.com/RVsJXAdINn-YIj6Tk68TArcUodb_P1UaZ6RDFUD26h4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTAtNDg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/-C4bY9K6WSFDpqH6eHyXDrmeo8W77s7cxRyJShps2rY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNDA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/r6PJWBoeef8C8grPY0U-vLkJSwC6xdsYXGicrW53CXw/rs:fit/g:sm/q:90/h:368/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTEtNDczNC5qcGVn.jpeg"
-    - "https://i.discogs.com/NHsmem9vl-H0wURuLbKOBwuEz-6K8yKCm_5iiU8Txio/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNTQxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/sb8istP4ec9VH9uolIGgqdZw9UOY4JfVpCbAJGVMHPc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTItNTQxNC5qcGVn.jpeg"
     - "https://i.discogs.com/HvTYpS5vCR4u4IvDDfAPaXJ7KBTGD4onesQMNR9uECw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/NDI2LTE2MDIzNDE5/NTEtNzk3OS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
@@ -45,13 +45,13 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 
 ## Videos
-### A-HA - Cold River
-{{< youtube id="hdoeQHzmVsg" title="A-HA - Cold River" >}}<br>
+### a-ha - Early Morning (Official Video)
+{{< youtube id="QxfJKBJA89A" title="a-ha - Early Morning (Official Video)" >}}<br>
 ### More Videos
 
-- [East of the Sun](https://www.youtube.com/watch?v=QaleMPKp7ZE)
-- [Slender Frame](https://www.youtube.com/watch?v=y62Np0d4uV0)
-- [a-ha - Crying In The Rain - East Of The Sun West Of The Moon LP 1990](https://www.youtube.com/watch?v=Uo2bFihWfaY)
+- [a-ha - I Call Your Name (Official Video)](https://www.youtube.com/watch?v=dksS0ldd-BU)
+- [a-ha - Sycamore Leaves (Official Music Video)](https://www.youtube.com/watch?v=iTjvvfv3R2o)
+- [a-ha - Crying in the Rain (Official Video)](https://www.youtube.com/watch?v=h-WPexVEujg)
 
 ## Release Images
 {{< imageGrid >}}
