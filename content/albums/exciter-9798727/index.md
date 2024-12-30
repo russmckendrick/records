@@ -12,10 +12,10 @@ cover:
     alt: "Exciter by Depeche Mode"
     caption: "Exciter by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/LJMHC0HJvSvMrjhETKjiNn1Qv_gKPa1qxBOiniqsVhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjUy/OS03ODU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/h4nbaJP6TtunuHwes6ncE5stD1Un3uWsAfZjJLKToXQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjUz/Ni03NDQ0LmpwZWc.jpeg"
-    - "https://i.discogs.com/X3HQg4aGaRY-dlYcItfJciALGieGJUdY2QD9iuagMRk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU0/MS02OTE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/o88rNA33arhnZV85KwQv0ewBkdFy9U4KJ-C1ry4KDno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU1/MC01NjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/M0LU__T8BXIBT0lIpGgDfSHKqV5yQnjtSzScByUnkSw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjUy/OS03ODU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/PxszxsljOQh0ZGMQ05mrck1O-zMEltUP_u95OGxMHJ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjUz/Ni03NDQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/-jRdQ59stluUzKt4synwin7sW7-O6_AO9sOqoYS1zes/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU0/MS02OTE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Dk70G0L2gPa3qhwaM6-J-chFACHpve8kRJohVwmmBVU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU1/MC01NjYwLmpwZWc.jpeg"
     - "https://i.discogs.com/alzvLC3UlEQD4tGlm6n9qd2qjspS9FNPdNWyXujwHRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU2/My05ODE1LmpwZWc.jpeg"
     - "https://i.discogs.com/M0PbY_IMLMcjSSNWl3iN0jNkMPvqD6PtpNzJRdi8SGo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU2/OS04MDg0LmpwZWc.jpeg"
     - "https://i.discogs.com/RIOvIfavybHfhRIkL3sxRlKRQ3FQARV_wZLvfFK7YW8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/MjctMTQ4NjgxMjU3/Ny03Njg5LmpwZWc.jpeg"
@@ -29,7 +29,8 @@ styles: ["Leftfield", "Downtempo", "Synth-pop"]
 ---
 
 Exciter is the tenth studio album by English electronic music band Depeche Mode. It was first released on 14 May 2001 in the United Kingdom by Mute Records and a day later in the United States by Reprise Records. The album was produced by Mark Bell, and was supported by the Exciter Tour, one of the band's most successful tours.
-Exciter debuted at number nine on the UK Albums Chart and number eight on the Billboard 200, selling 115,000 copies in its first week in the United States. It was the only Depeche Mode album to debut higher in the United States than in the United Kingdom. As of April 2006, Exciter had sold over 426,000 copies in the US, and has been certified gold by the Recording Industry Association of America (RIAA); it has also been certified gold in Canada for shipments of 50,000 units.The plant that appears on the cover is the Agave attenuata, a species of agave sometimes known as the "lion's tail", "swan's neck", or "foxtail" for its development of a curved stem, unusual among agaves.
+Exciter debuted at number nine on the UK Albums Chart and number eight on the Billboard 200, selling 115,000 copies in its first week in the United States. It was the only Depeche Mode album to debut higher in the United States than in the United Kingdom. As of April 2006, Exciter had sold over 426,000 copies in the US, and has been certified gold by the Recording Industry Association of America (RIAA); it has also been certified gold in Canada for shipments of 50,000 units.
+The plant that appears on the cover is the Agave attenuata, a species of agave sometimes known as the "lion's tail", "swan's neck", or "foxtail" for its development of a curved stem, unusual among agaves.
 
 
     
@@ -52,16 +53,17 @@ Exciter debuted at number nine on the UK Albums Chart and number eight on the Bi
 13. Goodnight Lovers
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exciter-deluxe/1174248501" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796" >}}<br>
 
 
 ## Videos
-### Depeche Mode - One Night in Paris - The Exciter Tour 2001
-{{< youtube id="WtxyqQ3y5D4" title="Depeche Mode - One Night in Paris - The Exciter Tour 2001" >}}<br>
+### The Sweetest Condition
+{{< youtube id="VZo0rvoyz3Q" title="The Sweetest Condition" >}}<br>
 ### More Videos
 
+- [When the Body Speaks](https://www.youtube.com/watch?v=9RDU2065k8E)
+- [Shine](https://www.youtube.com/watch?v=MqDKvCixUnQ)
 - [Depeche Mode - Dream On (Official Video)](https://www.youtube.com/watch?v=7dgrMSTalZ0)
-- [Depeche Mode - Freelove (Official Video)](https://www.youtube.com/watch?v=xZ3nJ6KhWOo)
 
 ## Release Images
 {{< imageGrid >}}

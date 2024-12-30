@@ -18,13 +18,15 @@ additional_images:
     - "https://i.discogs.com/JZ018m4c-Lqb5rEN04F9FcxaJrwXOzs1fE8Zp0ZB0Nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/NjMtNjUxNC5qcGVn.jpeg"
     - "https://i.discogs.com/XqRi8aEgbWvT6ItAQfvOXZP3ddn13QK0HYr5ySksJWo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/NjUtOTg4MC5qcGVn.jpeg"
     - "https://i.discogs.com/fwL5INSMJbVG3ghKhWJe_ey6t6MpY-ORSepXsNElJc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/NzAtNjkyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/oCLLQlw9s_hJdAEH510jMYVDegZb01vVioE05Q-UHnA/rs:fit/g:sm/q:90/h:1549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/NzgtMjcxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/59sExzqFly-CSd4DnuQR7hcEyHeS6AfO_IzjAf6TN0E/rs:fit/g:sm/q:90/h:600/w:232/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/NzgtMjcxNC5qcGVn.jpeg"
     - "https://i.discogs.com/s_wJqsz6BgAf-lxxSo25ju9qsOnF1R95LZNjg9qf_rQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MzE2LTE1MTE2MDUx/ODEtMTM1NS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 28 October 1977. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
+Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 24 October 1977 in the United States and four days after in the UK on 28 October. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
+
+
     
     
 
@@ -46,22 +48,16 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 14. Wild West Hero
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/out-of-the-blue/1054525002" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-electric-light-orchestra/466451499" >}}<br>
 
 
 ## Videos
-### E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977
-{{< youtube id="2f9CoaIH9FE" title="E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977" >}}<br>
+### Electric Light Orchestra - Mr. Blue Sky (Official Video)
+{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr. Blue Sky (Official Video)" >}}<br>
 ### More Videos
 
-- [Electric Light Orchestra - Mr. Blue Sky (Official Video)](https://www.youtube.com/watch?v=aQUlA8Hcv4s)
-- [Electric Light Orchestra - Big Wheels (2016 European Vinyl)](https://www.youtube.com/watch?v=TctEigzKUOk)
-- [Electric Light Orchestra - Starlight (Audio)](https://www.youtube.com/watch?v=wgoNMzepg1g)
-- [Electric Light Orchestra - It's Over (Official Video)](https://www.youtube.com/watch?v=84gmKIKTk40)
-- [Electric Light Orchestra - Night In The City (Audio)](https://www.youtube.com/watch?v=pN9u6qf3yKY)
-- [Electric Light Orchestra - Standin' In The Rain (Audio)](https://www.youtube.com/watch?v=JlKrn5Pk_Bs)
-- [Electric Light Orchestra - Turn To Stone (Audio)](https://www.youtube.com/watch?v=BDhJU_cNCZE)
-- [Electric Light Orchestra - The Quick And The Daft (Audio)](https://www.youtube.com/watch?v=r-Py1j_EMKg)
+- [E̲lectric L̲ight O̲rchestra  -  O̲ut of the B̲lue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
+- [Electric Light Orchestra  - Turn To Stone....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=MBu3K6uz0KA)
 
 ## Release Images
 {{< imageGrid >}}

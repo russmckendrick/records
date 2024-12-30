@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/AWW4IuDHiZT14lTL0as43VuhiCBkn1ejVutirmLbAC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIz/NTEtMTQ3OTMyNDky/My0xNDgzLmpwZWc.jpeg"
     - "https://i.discogs.com/gwLwb5M7OkvAvB3Cju5XlOszTJvmEQ60C1Yz4M5azhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIz/NTEtMTQ3OTMyNDky/MS0zMzcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/uY_WIueIEjCCh2wC0XQBy45U-gfndQjVtBck6IS6W04/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIz/NTEtMTUyMzIxNTY2/MC00NDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/LBI36TKdSR9q6lM3F645s4eq7-DZZxejUcAApR-wTD8/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIz/NTEtMTUyMzIxNTY2/MC00NDcyLmpwZWc.jpeg"
     - "https://i.discogs.com/mfxsXvnjTqRd6ItaPXOjTY6jpsC65aV9dgbIjnEujBI/rs:fit/g:sm/q:90/h:393/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIz/NTEtMTUyMzIxNTY2/My04NzYzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
@@ -58,8 +58,9 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 {{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster (Audio)" >}}<br>
 ### More Videos
 
-- [ANATHEMA - A Natural Disaster](https://www.youtube.com/watch?v=JB1djmYr0aA)
 - [Anathema - A Natural Disaster | FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
+- [Anathema - A Natural Disaster (Audio)](https://www.youtube.com/watch?v=_lMiIsQqLaE)
+- [ANATHEMA - A Natural Disaster](https://www.youtube.com/watch?v=JB1djmYr0aA)
 
 ## Release Images
 {{< imageGrid >}}

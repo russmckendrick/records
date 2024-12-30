@@ -19,6 +19,13 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
+A Fine Day to Exit is the sixth album by the British rock band Anathema. It was released on 9 October 2001 through Music for Nations.
+This is the only occasion where an Anathema album has John Douglas credited as a writer for around half of the songs. He wrote "Pressure", "Looking Outside Inside", "Panic" (co-written with Daniel Cavanagh), the title track and the hidden acoustic track at the end of "Temporary Peace" called "In the Dog's House".
+It is the last album with bassist Dave Pybus, and the first with keyboardist Les Smith.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -51,7 +58,9 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Videos
 ### Anathema - A Fine Day To Exit
 {{< youtube id="woqLX7lunAA" title="Anathema - A Fine Day To Exit" >}}<br>
+### More Videos
 
+- [Anathema - A Fine Day To Exit](https://www.youtube.com/watch?v=woqLX7lunAA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +68,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Fine_Day_to_Exit |
 | Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058501 |

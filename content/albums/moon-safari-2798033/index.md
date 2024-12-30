@@ -21,10 +21,13 @@ additional_images:
     - "https://i.discogs.com/pTfB6jL72vBMpteQGBKCYKidkN1l519imM0Cp2Hy2-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTgw/MzMtMTQzODg2ODE2/Ni01MzU2LmpwZWc.jpeg"
     - "https://i.discogs.com/WDPCwk9DegMixTF0ScfKwMaeDaPdwo9Xa1Hs_YHnr30/rs:fit/g:sm/q:90/h:600/w:203/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTgw/MzMtMTMwMTUwMjQ4/MC5qcGVn.jpeg"
 genres: ["Electronic"]
-styles: ["Future Jazz", "Downtempo"]
+styles: ["Downtempo"]
 ---
 
-Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporized vocals, warm synths, and stainless steel hi-fi sensibility. Without being as kitschy or (wink, wink) ironic as its spacey “Sexy Boy” single might lead you to believe, the album is an immaculate collection of suave Moog moves and future-disco downtempo. A defining achievement in the chill-out subgenre, it rightfully dominated compilation racks at the turn of the century on the strength of songs like “Kelly Watch the Stars” and “You Make It Easy.”
+Moon Safari is the debut studio album by French electronic music duo Air, released on 16 January 1998 by Source and Virgin Records. Moon Safari was re-released on 14 April 2008 to mark the album's 10th anniversary, including a bound book, a DVD documentary about the duo, and a bonus CD with live performances and remixes, and on 15 March 2024, to mark the album's 25th anniversary.
+Moon Safari was acclaimed by critics. It is credited with setting the stage for the budding downtempo music style. By February 2012, it had sold 386,000 copies in the United States.
+
+
         
         
     
@@ -47,30 +50,19 @@ Air’s instant breakthrough of a debut is effortlessly cool—a haze of vaporiz
 
 
 ## Videos
-### Air - Sexy Boy  (full length)
-{{< youtube id="A_ulZiob5I0" title="Air - Sexy Boy  (full length)" >}}<br>
+### AIR French Band "Talisman" 1998 Source
+{{< youtube id="OhWnPnAp_fE" title="AIR French Band "Talisman" 1998 Source" >}}<br>
 ### More Videos
 
-- [AIR - Sexy Boy (Official Video)](https://www.youtube.com/watch?v=wouKI_myXxk)
-- [Air - La Femme d'Argent](https://www.youtube.com/watch?v=U4U19zwFENs)
-- [AIR - All I Need (Official Video)](https://www.youtube.com/watch?v=kxWFyvTg6mc)
-- [Air - All I Need](https://www.youtube.com/watch?v=mTHjFeXmnHs)
-- [La femme d'argent](https://www.youtube.com/watch?v=BswuwCn1hBo)
-- [Air - Kelly Watch The Stars](https://www.youtube.com/watch?v=Rui0hzN-EFE)
-- [All I Need (feat. Beth Hirsch)](https://www.youtube.com/watch?v=Mx1NwIaQbbE)
-- [Air - Talisman](https://www.youtube.com/watch?v=Y_wk7PNx_Hk)
-- [Kelly Watch the Stars](https://www.youtube.com/watch?v=62hGO3ptI2c)
-- [Air - Remember](https://www.youtube.com/watch?v=B0rk_15Z5kU)
-- [Talisman](https://www.youtube.com/watch?v=IKIpsr5AhKc)
-- [Air | You make it easy](https://www.youtube.com/watch?v=S7s-kIMD-NE)
-- [Remember](https://www.youtube.com/watch?v=6tLZrNswQZQ)
-- [AIR - Ce Matin La](https://www.youtube.com/watch?v=IQdMAzsj7Xc)
-- [You Make It Easy](https://www.youtube.com/watch?v=k-FDyIeyqoE)
-- [Air - New Star In The Sky](https://www.youtube.com/watch?v=RwjmqYdb_EU)
-- [Ce matin-là (From L'uomo in più)](https://www.youtube.com/watch?v=jIQziWqjnOc)
-- [10.Air-Le Voyage de Penelope](https://www.youtube.com/watch?v=XZm58MrTszM)
-- [Le voyage de Pénélope](https://www.youtube.com/watch?v=FEp99DhntDA)
-- [AIR - Moon Safari (Full Album - Official Audio)](https://www.youtube.com/watch?v=3XTV6pkQne0)
+- [AIR French Band "La femme d'argent" 1998 Source](https://www.youtube.com/watch?v=rTBnhpAqHm0)
+- [AIR French Band "Ce matin-là" 1998 Source](https://www.youtube.com/watch?v=D77QtT1FTYQ)
+- [AIR French Band "All i need" Feat. Beth Hirsch 1998 Source](https://www.youtube.com/watch?v=BVczSDl97Wk)
+- [AIR - Sexy Boy (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=R6Yfk-RL_9A)
+- [AIR - Kelly Watch the Stars (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=MZlH0LnRQhs)
+- [AIR - Remember (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=zKRNP39nIds)
+- [AIR - You Make It Easy (feat. Beth Hirsch) (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=mHjuYDloDtE)
+- [AIR - New Star in the Sky (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=L3V5cU36UWI)
+- [AIR - Le voyage de Pénélope (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)](https://www.youtube.com/watch?v=y0ErSht3SKw)
 
 ## Release Images
 {{< imageGrid >}}

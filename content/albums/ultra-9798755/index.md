@@ -12,10 +12,10 @@ cover:
     alt: "Ultra by Depeche Mode"
     caption: "Ultra by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/7A6eOepy3K4J54oaOGtknTeJGceDt-wNXbBBFwRGBaw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzky/Ny0zNTA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/VU6CJYnlr1YtyFEhr-4yd8-Pvx9J1cm4erRS_YHxG58/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzky/Ny0zNTA0LmpwZWc.jpeg"
     - "https://i.discogs.com/k8ow3NBeB7_umkdmIbvYEFUNE3COYI9NQ0oEnkq5xu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk0/NS0zNjM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/RRRWydH4tb1NSj18MX3Umvz9M0c8nVMQTbwzJViJ3QU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk1/My05MTg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/VCvV_MoFsmF7EBQmGJyg4pqXnxmfxmhkaoioeOLwf1c/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk2/OS02NTY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/DTUf_uybnjsa_HY5Cw6_CTCz9BAvnPFCNDLk6o3UIqA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk1/My05MTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/13pCR99EzIxbfxx7fbRiGpm9Um_Uan7QCHQhQ_ofZdI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk2/OS02NTY1LmpwZWc.jpeg"
     - "https://i.discogs.com/RRxY4dsnKSFs9K7bpi1Sj7Gx-KunhIRx4s9sTvhX1js/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk4/MC0zMzU5LmpwZWc.jpeg"
     - "https://i.discogs.com/n0Nd5a55DNuLlqNzbFrnnY96bpeXEbsR0DvNMjEylEc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk4/NC00NDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/WU51wEipHmoLH50I4LI6m0JzeY5N0gASutwg3S3eBrk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg3/NTUtMTQ4Njc3Mzk5/My0zNDE1LmpwZWc.jpeg"
@@ -24,10 +24,10 @@ genres: ["Electronic", "Rock", "Blues"]
 styles: ["Alternative Rock", "Downtempo", "Synth-pop"]
 ---
 
-Ultra is the ninth studio album by English electronic music band Depeche Mode, released on 14 April 1997 by Mute Records. It was the band's first album following the departure of Alan Wilder, who had become disillusioned with life in the band. Wilder's departure and lead singer Dave Gahan's drug problems, which culminated in a near-fatal overdose, had caused speculation that Depeche Mode was finished. Ultra was the first album the band recorded as a trio since A Broken Frame (1982); it was also their first where the band members were not involved with production, with these duties being handled by Tim Simenon of Bomb the Bass fame. Though not directly supported by a full-length tour, it was promoted via a brief series of concerts promoted as Ultra Parties.
+Ultra is the ninth studio album by English electronic music band Depeche Mode, released on 14 April 1997 by Mute Records. It was the band's first album following the departure of Alan Wilder. Wilder's departure and lead singer Dave Gahan's drug problems, which culminated in a near-fatal overdose, had caused speculation that Depeche Mode was finished. 
+Ultra was the first album the band recorded as a trio since A Broken Frame (1982); it was also their first where the band members were not involved with production, with these duties being handled by Tim Simenon of Bomb the Bass fame. Though not directly supported by a full-length tour, it was promoted via a brief series of concerts promoted as Ultra Parties.
 The album debuted at number one on the UK Albums Chart and at number five on the US Billboard 200. By April 2006, it had sold 584,000 copies in the United States. In 1999, Ned Raggett ranked the album at number 50 on his list of the "Top 136 or So Albums of the Nineties". That same year, the annual Ultra Music Festival in Miami was named after the album by its co-founder Russell Faibisch, and acknowledging its influence on the Polish rock scene, Tylko Rock ranked it at number 71 on its list of the "100 Albums That Shook Polish Rock".
-
-
+The album was preceded by the singles "Barrel of a Gun", released on 3 February and "It's No Good" which was released on 31 March. It was followed by the singles "Home", released on 16 June and "Useless", released on 20 October.
     
     
 
@@ -46,10 +46,18 @@ The album debuted at number one on the UK Albums Chart and at number five on the
 11. Insight
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ultra-deluxe/1174246980" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796" >}}<br>
 
 
+## Videos
+### Depeche Mode - It's No Good (Official Video)
+{{< youtube id="_-QPvffO1gs" title="Depeche Mode - It's No Good (Official Video)" >}}<br>
+### More Videos
 
+- [Depeche Mode - Only When I Lose Myself (Official Video)](https://www.youtube.com/watch?v=l35XzUD8GGU)
+- [Depeche Mode   Ultra  1997](https://www.youtube.com/watch?v=Yjr1OIvRNsM)
+- [Depeche Mode - It's No Good (Official Video)](https://www.youtube.com/watch?v=_-QPvffO1gs)
+- [Depeche Mode - Useless (Official Video)](https://www.youtube.com/watch?v=U2Kyu4XURaE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,8 +12,8 @@ cover:
     alt: "Prolonging The Magic by Cake"
     caption: "Prolonging The Magic by Cake"
 additional_images:
-    - "https://i.discogs.com/jQtsDwuvAUI7Pr7QQmZHCkICt5rZN72FhKCUyngCsuQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg5NzYx/MDItNTM0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/IosC1BpfgVE6qIINNT_5DD5sjlXhSQhCcs3d56K9OaA/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg5NzYx/MDItODM4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/qJiLlNjHl9F6StwhTlI1OYPPQungq7utdgZGGOfQHLM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg5NzYx/MDItNTM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/4zQ-OH7rtw8DwUPIS-Lv8dP_kc1bkpHlyTzrgWPcn6g/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg5NzYx/MDItODM4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/paTvms6OLD8Gfte_BbFs6xmYjBbuE1_JCqGZRrPpn4g/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg3MjYy/MzUtNzkzMC5qcGVn.jpeg"
     - "https://i.discogs.com/0th1bY4kHEYmhpzJqfWuuoKCAsL2eLcz6r8EOVYn_zA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg3Mjcx/ODMtNzg4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/-bIoBJpuOj7Sj1TvRiYgC2JhkmbewVZ0xBnpERbcb4o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc1/MzU0LTE2Nzg3Mjcx/ODUtMTUxNi5qcGVn.jpeg"
@@ -24,7 +24,8 @@ styles: ["Alternative Rock"]
 ---
 
 Prolonging the Magic is the third studio album by American alternative rock band Cake. It was released on October 6, 1998, on Capricorn Records. The sole successful single was "Never There". The album was recorded after the departure of guitarist Greg Brown and features a rotating lineup of musicians to replace him. One of them, Xan McCurdy, became his full-time replacement.
-On its opening week, Prolonging the Magic sold about 44,000 copies, debuting at No. 33 on the Billboard 200 chart. On 28 September 1999 the album was certified platinum by the RIAA for shipments of one million copies.The album was given a parental advisory sticker not because of profanity but for Satanic-themed lyrics. Some copies do not feature a sticker, with the only difference being that the song "Satan Is My Motor" has been retitled "Motor".
+On its opening week, Prolonging the Magic sold about 44,000 copies, debuting at No. 33 on the Billboard 200 chart. On 28 September 1999 the album was certified platinum by the RIAA for shipments of one million copies.
+The album was given a parental advisory sticker not because of profanity but for Satanic-themed lyrics. Some copies do not feature a sticker, with the only difference being that the song "Satan Is My Motor" has been retitled "Motor".
 The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 
 
@@ -48,7 +49,7 @@ The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 13. Where Would I Be? (3:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/prolonging-the-magic-deluxe-version/270055627" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/prolonging-the-magic/283516841" >}}<br>
 
 
 ## Videos

@@ -12,10 +12,10 @@ cover:
     alt: "Sounds Of The Universe by Depeche Mode"
     caption: "Sounds Of The Universe by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/KWcB0wC7XBP7lONH_d7oEuermY_Fnqyt1miX97jH2RM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTUz/MS0yNjY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/fJ-pD3jgsU2ATsofsPd7Wn1MH7KBOxTFHQ8eyVN-NIU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU0/OC0zNDYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/8qijkOJJh8GmxgpwEdBuLigNBcM8CX04AOiYR6MD39I/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU1/OC0zMTg3LmpwZWc.jpeg"
-    - "https://i.discogs.com/t6HJHFDZebMBgNEV0quJdLQZ-1yFltXwIM0CEW5vY-8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU3/MC0yMTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Tdcu9r5oENjR8bKDlSQi-dJ_k3sf3Z_Q8ptKZNAx7zI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTUz/MS0yNjY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/4q_aURYHP-5ggi--YQOJEvc8E-EnPyTwppTkj3UliVQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU0/OC0zNDYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/5i9QCSydvU7vKhJ4XuKHe6HAxEmm-Arrmgo7b-iqvxg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU1/OC0zMTg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/lpiclSVmQCxDv8wBrTVgQQYlM0VrtJzDdPzZr4qOmv0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU3/MC0yMTI3LmpwZWc.jpeg"
     - "https://i.discogs.com/2tk84N7ODpZ0-GFL_66OY-DqQLK6Ji3WmEHI5l_P7fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU4/OC0xMDM1LmpwZWc.jpeg"
     - "https://i.discogs.com/QN8nbW27Fv3b7p0BaIpe2LojG3E4_9QhOU5yjmI_jCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU5/My0xMDEzLmpwZWc.jpeg"
     - "https://i.discogs.com/WJlfit4qZU5GqEzm0ybjJYBFGygcLcdY51d_UQRtrnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU2/ODEtMTQ4Njc2NTU5/Ny05NjczLmpwZWc.jpeg"
@@ -28,7 +28,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop"]
 ---
 
-Sounds of the Universe is the twelfth studio album by English electronic music band Depeche Mode, released on 17 April 2009 by Mute Records. The album was supported by the 2009–2010 concert tour Tour of the Universe. Three singles were released from the album: "Wrong", "Peace", and a double A-side of "Fragile Tension" and "Hole to Feed". "Perfect" was also released in the United States as a promotional single.
+Sounds of the Universe is the twelfth studio album by English electronic music band Depeche Mode, released on 17 April 2009 by Mute Records. The album was supported by the 2009–10 Tour of the Universe. Three singles were released from the album: "Wrong", "Peace", and a double A-side of "Fragile Tension" and "Hole to Feed". "Perfect" was also released in the United States as a promotional single.
 The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.
 
 
@@ -56,7 +56,17 @@ The album was released by Virgin Records and Capitol Records in the United State
 {{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}<br>
 
 
+## Videos
+### Depeche Mode - Wrong (Official Video)
+{{< youtube id="fhnrrLxQEVQ" title="Depeche Mode - Wrong (Official Video)" >}}<br>
+### More Videos
 
+- [Depeche Mode - Peace (Live)](https://www.youtube.com/watch?v=S25K5_zG0_8)
+- [Depeche Mode - Hole to Feed (Official Video)](https://www.youtube.com/watch?v=bX9rb3XMeHU)
+- [Depeche Mode - Fragile Tension (Official Video)](https://www.youtube.com/watch?v=FkVxlK8Qt50)
+- [Depeche Mode - Wrong (Official Video)](https://www.youtube.com/watch?v=fhnrrLxQEVQ)
+- [Depeche Mode - Peace (Live)](https://www.youtube.com/watch?v=S25K5_zG0_8)
+- [Depeche Mode - Hole to Feed (Official Video)](https://www.youtube.com/watch?v=bX9rb3XMeHU)
 
 ## Release Images
 {{< imageGrid >}}

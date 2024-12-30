@@ -29,14 +29,19 @@ styles: ["Indie Rock"]
 2. Faceless
 3. Titch
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462" >}}<br>
 
 
 ## Videos
-### Ned's Atomic Dustbin - Faceless HD
-{{< youtube id="-sbuANFW8qE" title="Ned's Atomic Dustbin - Faceless HD" >}}<br>
+### Ned's Atomic Dustbin - Trust
+{{< youtube id="yPCQ_D7GTgU" title="Ned's Atomic Dustbin - Trust" >}}<br>
 ### More Videos
 
-- [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=ieYfUDWKJjs)
+- [Ned's Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
+- [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
+- [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
+- [Ned's Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
 - [Ned's Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
 
 ## Release Images
