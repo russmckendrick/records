@@ -34,15 +34,19 @@ additional_images:
     - "https://i.discogs.com/6GaAzZSONxq1mzs-hudCm_-HLS0h-U8E8Iv_ANgZaJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTM2/NTItMTQ5OTcxMTA1/My03NDc4LnBuZw.jpeg"
     - "https://i.discogs.com/6FoFnGyOkpRxWdg6o5IQdfl4uYuV87oL_MnFFgp2u4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTM2/NTItMTQ5OTcxMTA1/Ny0zMzAyLnBuZw.jpeg"
     - "https://i.discogs.com/JgOT6zz7k-LtTci6hDNpxzF3R2CDHdnG1X-AVver0vk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTM2/NTItMTQ5OTcxMTA1/OS0xNTE2LnBuZw.jpeg"
-    - "https://i.discogs.com/WZTBk7nys2EyJKMQi7BJWowZ4cGwh_CuDdF9zWEcWrY/rs:fit/g:sm/q:90/h:1076/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTM2/NTItMTQ5OTcxMTA1/OC03MTU0LnBuZw.jpeg"
+    - "https://i.discogs.com/6DllB-1UT5KETDIwqZt9DkrZS7cKr_bMkY4xx-ot2fE/rs:fit/g:sm/q:90/h:600/w:334/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTM2/NTItMTQ5OTcxMTA1/OC03MTU0LnBuZw.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-When Marvin Gaye brought the title track of 1971’s <i>What’s Going On</i> to Motown founder Berry Gordy, Gordy reportedly said it was the worst thing he’d ever heard. The music was too loose, the lyrics too political. Too political? Gaye countered. This is the 1970s: You’ve got the Vietnam War; you’ve got growing poverty and systemic racism; you’ve got an environment under threat. Even Elvis was singing protest songs (1969’s “In the Ghetto”)—why couldn’t Marvin Gaye?<br />
-The album’s genius is in its lightness. Songs drift and breathe; performances feel natural, even offhand—Eli Fontaine's saxophone part on the title track, for example, was recorded when Fontaine thought he was just warming up. As Sly & The Family Stone channelled their anger into into bitter funk (1971’s <i>There’s a Riot Goin’ On</i>), Gaye sublimated his in lush string sections and Latin percussion—signals not just of musical gentleness, but cultural sophistication. Even in the face of bleakness (the addiction portrait of “Flyin’ High [In the Friendly Sky],” “Inner City Blues [Make Me Wanna Holler]”), he floats.<br />
-The revelation is that political music doesn’t have to be confrontational—it can be mellow and inviting too, the province not just of radicals, but the same mixed, middle-class audiences that had been buying Gaye’s albums all along. You catch more flies with honey than with vinegar, and as Gaye seems to say on <i>What’s Going On</i>, you don’t have to be a hippie to be worried by what you see—you just have to be human.
-    
+What's Going On is the eleventh studio album by the American soul singer Marvin Gaye. It was released on May 21, 1971, by the Motown Records subsidiary label Tamla. Recorded between 1970 and 1971 in sessions at Hitsville U.S.A., Golden World, United Sound Studios in Detroit, and at The Sound Factory in West Hollywood, California, it was Gaye's first album to credit him as producer and to credit Motown's in-house session musicians, known as the Funk Brothers.
+What's Going On is a concept album with most of its songs segueing into the next and has been categorized as a song cycle. The narrative established by the songs is told from the point of view of a Vietnam veteran returning to his home country to witness hatred, suffering, and injustice. Gaye's introspective lyrics explore themes of drug abuse, poverty, and the Vietnam War. He has also been credited with promoting awareness of ecological issues before the public outcry over them had become prominent ("Mercy Mercy Me").
+What's Going On stayed on the Billboard Top LPs for over a year and became Gaye's second number-one album on Billboard's Soul LPs chart, where it stayed for nine weeks, and on the No. 2 spot for another 12 weeks, respectively. The title track, which had been released in January 1971 as the album's lead single, hit number two on the Billboard Hot 100 and held the top position on Billboard's Soul Singles chart five weeks running. The follow-up singles "Mercy Mercy Me (The Ecology)" and "Inner City Blues (Make Me Wanna Holler)" also reached the top 10 of the Hot 100, making Gaye the first male solo artist to place three top ten singles on the Hot 100 from one album.
+The album was an immediate commercial and critical success, and came to be viewed by music historians as a classic of 1970s soul. Multiple critics, musicians, and many in the general public  consider What's Going On to be one of the greatest albums of all time and a landmark recording in popular music. In 1985, writers on British music weekly the NME voted it the best album of all time. In 2020, it was ranked number one on Rolling Stone's list of the "500 Greatest Albums of All Time".
+
+
+        
+        
     
 
 
@@ -96,9 +100,13 @@ The revelation is that political music doesn’t have to be confrontational—it
 
 
 ## Videos
-### M̲a̲rvin G̲a̲ye  - W̲hat's G̲oing On Full Album 1971
-{{< youtube id="Mmve4q1Hy9Y" title="M̲a̲rvin G̲a̲ye  - W̲hat's G̲oing On Full Album 1971" >}}<br>
+### Marvin Gaye - What's Going On (Official Video 2019)
+{{< youtube id="o5TmORitlKk" title="Marvin Gaye - What's Going On (Official Video 2019)" >}}<br>
+### More Videos
 
+- [Marvin Gaye - What's Going On (Lyric Video)](https://www.youtube.com/watch?v=KDK7TiEiMOI)
+- [Marvin Gaye - What's Happening Brother (Visualizer)](https://www.youtube.com/watch?v=UyRws-t7ks4)
+- [Marvin Gaye - Inner City Blues (Make Me Wanna Holler)](https://www.youtube.com/watch?v=57Ykv1D0qEE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -106,6 +114,7 @@ The revelation is that political music doesn’t have to be confrontational—it
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/What%27s_Going_On_(album) |
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Remastered Stereo Mono, All Media Deluxe Edition |
 | Label          | Tamla |
 | Catalog Number | 0600753703069 |

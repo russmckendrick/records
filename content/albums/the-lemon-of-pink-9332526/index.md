@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/ojOk917SDx_Ms8J9WfT8C3xZCMLK2n_d9sn1HvH8Te0/rs:fit/g:sm/q:90/h:552/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTMwNzc5/NC05ODU2LmpwZWc.jpeg"
     - "https://i.discogs.com/73jH26q6ziiNvw7i7ow3jUv7lQcIUKlGxXZDR6DV35M/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/Mi03Mzk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/gOd8wcATStzg7yIkdpe_23QP1NwZSVJcrBkcF5GQC1k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/Ni0zMzE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/6vxLXWqF83fXuFIuq3-LWWvSsYCb1LjYTzNYNcdXSuM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/Ni0zMzE3LmpwZWc.jpeg"
     - "https://i.discogs.com/YISHdyyUf4U-ne7yMfZG4y7qNX5sOpB_dqPwKdOaK9o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc1/My0zNjAwLmpwZWc.jpeg"
     - "https://i.discogs.com/YK_9Zr_h0dB_a3TR2Y45GAFTWscF6VvZCQZEAyVAnVY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc1/NC01NTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/-rEMUDq2_u3UFO4a4ro8Z_qwZ53Wuh5rH9Zm-jzEE_0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc0/OC03MTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/24XHGRGr4FLinj4Nvez7rUEMkdNyOidyuL2c8z24HCU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc0/OC03MTM3LmpwZWc.jpeg"
     - "https://i.discogs.com/qb4TY_UmbXvTTO8W7Nt-q8-pLBf8wsdm5oe_o3vCh5k/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc0/MS02NjMzLmpwZWc.jpeg"
     - "https://i.discogs.com/vJKZ3YEvahs38NNVdYAm1bnzunmkKeMfhZ76esPEVkU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzc0/MS05NTQwLmpwZWc.jpeg"
     - "https://i.discogs.com/Ef8EDJsXkloLfobXYcspHPLPuNyE5oKlVewsQr8kbTA/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcx/Mi0zMjIyLmpwZWc.jpeg"
@@ -29,17 +29,17 @@ additional_images:
     - "https://i.discogs.com/hI0rTKpEwoSP84EjvO8RGxO1D-q12IrguZQSrnLJhV8/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcy/Mi03NTY4LmpwZWc.jpeg"
     - "https://i.discogs.com/zWYK1ZkVjbZ-8XOVKbmzddY-RzReSPZ2aMRKTatjRI8/rs:fit/g:sm/q:90/h:325/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/OC0xMTMzLmpwZWc.jpeg"
     - "https://i.discogs.com/mfQ6TaiGe-ypfuQKgC84kNXCNYFVINBQl5dHziYW_lo/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/Mi00NTk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/x4hQWUnokJa6VaFuEsPEJh7hxQK3IQrPXWcigvFZmYs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk4/Ni01MjA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/dnSa6ZptZEx6LNDr86T9RmJXV38EspOaKCX81jbrDvw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk3/Mi0zOTQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/juvDipA5eUixf3GEvU03kd_2zDMw4PjDItXiOFIcAQE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk4/Ni01MjA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8_79a2tLm2RchYeqswHL-hNGCrnUIwT07rPytizyjxY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk3/Mi0zOTQzLmpwZWc.jpeg"
     - "https://i.discogs.com/9uwALpKN0IK4Yy1D-wBCtYFLw4XKXhGAuVBRlm_0Zvo/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk3/OC0yMDQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ldUFAhk6BIiyC0ThXsJLfwspQWuKW_iVmyMtFZ2zIMg/rs:fit/g:sm/q:90/h:1581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk1/My01OTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/r2Vg6a3Tze_l6Dc4T5wbD0y57Y8m-BLTbN58nuFI4UI/rs:fit/g:sm/q:90/h:600/w:227/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTU3MjA2Nzk1/My01OTI3LmpwZWc.jpeg"
     - "https://i.discogs.com/6L2nbl_viEMm6u2DkypqVxzBtGckNZHrTtBniM7hHT0/rs:fit/g:sm/q:90/h:421/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzcz/MC0xODkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/G0NzKVpyom1SpL8yrvZ62AT-yPTgLp2LWu5P59YdIaw/rs:fit/g:sm/q:90/h:818/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzgx/Mi0yOTMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/SSQHaTriXwSCEenYN1Xe2DgLD4c-OyVzRfakMjnSEq4/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI1/MjYtMTQ3OTM0Nzgx/Mi0yOTMwLmpwZWc.jpeg"
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Abstract", "Leftfield", "Experimental"]
 ---
 
-The Lemon of Pink is the second studio album by American musical duo The Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
+The Lemon of Pink is the second studio album by American musical duo the Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
     
     
 
@@ -64,15 +64,21 @@ The Lemon of Pink is the second studio album by American musical duo The Books. 
 
 
 ## Videos
-### The Books - The Lemon of Pink (full album)
-{{< youtube id="IiXpi5u5Vu8" title="The Books - The Lemon of Pink (full album)" >}}<br>
+### The Books - "Take Time" (official video)
+{{< youtube id="b1irbhY_dgY" title="The Books - "Take Time" (official video)" >}}<br>
 ### More Videos
 
-- [The Books - The Lemon of Pink (full album)](https://www.youtube.com/watch?v=CiuC8A8eKu4)
 - [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
-- [The Books - Take Time (official video)](https://www.youtube.com/watch?v=b1irbhY_dgY)
 - [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
 - [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
+- [The Books - The Lemon of Pink (full album)](https://www.youtube.com/watch?v=IiXpi5u5Vu8)
+- [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
+- [The Books - The Lemon of Pink - The Lemon of Pink](https://www.youtube.com/watch?v=kNNIsPrYaQk)
+- [The Books - The Lemon of Pink, Pt 2 - The Lemon of Pink](https://www.youtube.com/watch?v=_MWeEdY8Y5Q)
+- [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
+- [The Books - S Is for Evrysing - The Lemon of Pink](https://www.youtube.com/watch?v=ugbr2gKEXeA)
+- [The Books - Explanation Mark - The Lemon of Pink](https://www.youtube.com/watch?v=Xdsi-w6xsLc)
+- [The Books - Bonanza - The Lemon of Pink](https://www.youtube.com/watch?v=VgnHHy7xqAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +90,5 @@ The Lemon of Pink is the second studio album by American musical duo The Books. 
 | Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR181-VMP |
-| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016:  Lemon-colored vinyl with hot pink splatter. Full-color gatefold, die-cut jacket featuring all new album art with metallic inks and foil stamping. 16-page full-color, full-sized booklet featuring all new artwork, extensive liner notes written by nick zammuto, including track-by-track commentary. Full album digital download card. |
+| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.  Record pressed on lemon-colored vinyl with hot pink splatter.  Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.  All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |
 | Discogs URL    | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526-The-Books-The-Lemon-Of-Pink) |

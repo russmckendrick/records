@@ -12,17 +12,17 @@ cover:
     alt: "All Of A Sudden I Miss Everyone by Explosions In The Sky"
     caption: "All Of A Sudden I Miss Everyone by Explosions In The Sky"
 additional_images:
-    - "https://i.discogs.com/RFBlHSCI25lVZPhOmJx1lp2rJKYXOl1sLh1Qydy89lE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjM5/MS0xNTgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/zkmZfYQMKqhKHh2dlvZ96mYIhUG9mOceNim1o1X6now/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI1/My00Nzk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/3lUkW6yz774x7TMkpzm_Gv9f4Mq_1yK2l5Dg065fK2g/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI4/NS05NTkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/rPInX7CigmIrEcQtDVPdxtL2zjJLDJk9iEeN78W5PyE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI4/OS0zMDEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/Zr-mlSKLL0AcPN3YcvZ9e93d7MxF2JS2faEpOF8DKfE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI5/My0yMTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/11emmoOLUcynSz5cQJEdzNcynEfB9hnd7lIqrPqU3iA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI5/OC0yNzQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Gkm7GK12TVFcy3wR2DTXVCUWVHqV1ja96WmwvXwiteY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjM5/MS0xNTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/pfXNpw35Qw_LeBeF9ka75o3BD18oYIQKSduXd7vunhc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI1/My00Nzk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/aji5--OuY0wXlw0N-zWuDRoElodvMkh6gD7gvKWZ_is/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI4/NS05NTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/kRtqQjqL7FFMexDqBFBdxnbVLMe4rVJZS4F_C1OBTdc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI4/OS0zMDEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Hjdbu8LXlH2vetAbiTSjTF75VcIucCD-nwI8KGbprhk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI5/My0yMTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/C4ay4g-sPtimJ7Y_5jHM62PUat39Ce-0qSJNvTh94oQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI5/OC0yNzQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/Fyw5o1bFTIZhQSa_XwH3VZvoDIhC4v3Ynfff8k83Sdk/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjI3/OS05OTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/K3EVq_UBGAwFYKV0O3t17VzPQYG1hpe5P2eGqgYMjhw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMw/Ni0zOTE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/LAHt_5Yk3sY9Is9lNCkWMhSAmzWkOp5A9qH5kp0RzY4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMx/NC02MzQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/GCc6GZ7EO0tbwD9iC3qTWTI8cl_ySflX_cs0yUi22no/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMy/MS04OTM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/VllkQd-M25GIWEi6xS4zPt_iOOtlHQwWCwOBGU83T0M/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMz/MC0xMzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/lkGCAwqhzwV2bM4IrJT89P3T1J0Edfj100YkzymEmzs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMw/Ni0zOTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/mEsrD659TtbO3s4nkXosptFu4Z9MFPxth1S08X8CH4o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMx/NC02MzQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/cU6ctn4NHvd6VpD1ylXnkpobKG15EvVPuroFpT9V2Wc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMy/MS04OTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/97mhPMgxnwgn4ZPhUE9Og-HdKLVlDR4VSrLQrMeQsqA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMz/MC0xMzM3LmpwZWc.jpeg"
     - "https://i.discogs.com/rnqoPthbaEb0GjOobOuI6SeST397LOWw9_nCTO2p1eM/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTQzMjY0MjMz/Ni01NDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/JuoszvvgLoiBhB46O-3EUa8yc_RQ8rV5ZS1iTec0VHk/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTY4MTY5NDU0/My0xMjU3LmpwZWc.jpeg"
     - "https://i.discogs.com/h3yhg4BVI3FedoJqazEaQ0BLsMKIv16-hMbML0EjDWo/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDYz/MjQtMTY4MTY5NDU0/Ni03OTAzLmpwZWc.jpeg"
@@ -30,7 +30,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Ambient"]
 ---
 
-All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky.  It was released February 20, 2007.
+All of a Sudden I Miss Everyone is the fifth studio album by American post-rock band Explosions in the Sky, released on February 20, 2007.
     
     
 
@@ -52,15 +52,25 @@ All of a Sudden I Miss Everyone is the fifth studio album from American post-roc
 {{< youtube id="Fz-mWblMPpw" title="The Birth And Death Of The Day" >}}<br>
 ### More Videos
 
-- [Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]](https://www.youtube.com/watch?v=tYfJiKWbUD8)
 - [Welcome, Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
-- [Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)](https://www.youtube.com/watch?v=yXQ3zY96Ilw)
 - [It's Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
 - [What Do You Go Home To?](https://www.youtube.com/watch?v=Pf-2d5i57gs)
 - [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
-- [Explosions in the Sky | All Of A Sudden I Miss EveryOne | The Birth And Death Of The Day](https://www.youtube.com/watch?v=j1nFDEcQtuE)
 - [So Long, Lonesome](https://www.youtube.com/watch?v=rEf85cCQY3M)
+- [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
+- [Welcome, Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
+- [It's Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
+- [What Do You Go Home To?](https://www.youtube.com/watch?v=Pf-2d5i57gs)
+- [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
+- [So Long, Lonesome](https://www.youtube.com/watch?v=rEf85cCQY3M)
+- [Explosions in the Sky - All of a Sudden I Miss Everyone [Full Album HD]](https://www.youtube.com/watch?v=tYfJiKWbUD8)
+- [Explosions in the Sky - All of a Sudden I Miss Everyone (Full Album)](https://www.youtube.com/watch?v=yXQ3zY96Ilw)
+- [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
+- [Welcome, Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
+- [Explosions in the Sky | All Of A Sudden I Miss EveryOne | The Birth And Death Of The Day](https://www.youtube.com/watch?v=j1nFDEcQtuE)
+- [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
 - [Welcome Ghosts By: Explosions in the Sky](https://www.youtube.com/watch?v=xTw-CwypKdk)
+- [It's Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | Catastrophe And The Cure](https://www.youtube.com/watch?v=bRBTo-GRwA0)
 - [03. Explosions in the sky - It's Natural to Be Afraid](https://www.youtube.com/watch?v=6h7HgpP7c_w)
 - [Explosions in the Sky | All Of A Sudden I Miss EveryOne | It's Natural To Be Afraid](https://www.youtube.com/watch?v=NcFCUeYBcjs)

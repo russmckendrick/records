@@ -13,21 +13,23 @@ cover:
     caption: "Dazzle Ships by Orchestral Manoeuvres In The Dark"
 additional_images:
     - "https://i.discogs.com/XHdPlPkVNSKvUMzELYbSuCd9mAzXR_zNEiXjD3u4Go4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE1NDExNjY0/ODEtNDE3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/32Oarop3jkOYRO7NHnO1UPd6UjB704G9yryt0RR2RIg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTQtNjgxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/xrXMhrRGKsm06X149hQC1K09mCgnfpQAVYsNDeUKlNQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTQtNjgxMy5qcGVn.jpeg"
     - "https://i.discogs.com/rMaae6upii5glRCDuQr6jpUE80Pwu7vLhYmA6X3_-nM/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTQtNDcwNC5qcGVn.jpeg"
     - "https://i.discogs.com/h4UvTrHs3sM4ZdleCOK1quxmADCHzd0kU-5IRPs-Cqo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTMtMjA3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Cgdx6PEs8Vn6zyKuXkio0tlM6VT-KlQaMicFuBYkIxI/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTUtNzgxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/3qjBoTbxVqxeE713EQ9cIZU_DD1itgGWNOBlEix5HLs/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTQtOTQ1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/01KxWW58sXf4M94ji_kiuFHm7MxlK-UC-_cKrG8bk0E/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTUtNzgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/idFA9FpcrjG1oZntsEKbB9Ka4IvGYJCQZ-3dGUgG-RM/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTQtOTQ1MS5qcGVn.jpeg"
     - "https://i.discogs.com/yhyFheN0QX9I0563xBoXroFKFGQ4No-UML72svIxE3E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTMtMzA4OS5qcGVn.jpeg"
     - "https://i.discogs.com/miYd2VAdI8Pb1VIDpABuJEg8HbDlLkG1HYGoXG2QuWQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTItMzI4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/34CYsOvaT3xKB7yHL68szkgE7GG6PPYVbeZdRNbZZlw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTItMzc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/xkAK6rMCKWt5OfDoA_4G0bBqBHmKn2fpyJmf60Lhss8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDE0LTE2NzIxNDU4/NTItMzc1Ni5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Experimental"]
 ---
 
 Dazzle Ships is the fourth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), released on 4 March 1983 by Virgin Records (under the guise of the fictitious Telegraph label). Its title and cover art allude to a painting by Vorticist artist Edward Wadsworth based on dazzle camouflage, titled Dazzle-ships in Drydock at Liverpool.
 The follow-up album to OMD's commercially successful Architecture & Morality (1981), Dazzle Ships marked a departure in sound for the group, who contended with writer's block and record company pressure to duplicate their previous release. The album is noted for its experimental content, particularly musique concrète sound collages, and the use of shortwave radio recordings to explore Cold War and Eastern Bloc themes. It also concerns itself with the rise of technology in society. The record spawned two singles: "Genetic Engineering" and "Telegraph".
-Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop; it nevertheless attracted a cult following and served as an inspiration for multiple recording artists. Music journalists eventually came to recognise the album as an underrated and misunderstood work, and a record ahead of its time. Since its initial re-release in 2008, Dazzle Ships has received critical acclaim.
+Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop. It nevertheless came to be recognised as a "cult classic", and an inspiration for many artists across electronic, rock and hip hop music. The music press gradually reversed its opinion of Dazzle Ships, praising the record as an underrated and misunderstood work, and an album ahead of its time.
+
+
     
     
 
@@ -47,16 +49,25 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 12. Of All The Things We've Made (3:23)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dazzle-ships/714977734" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
 ## Videos
-### Dazzle Ships (Parts II, III And VII)
-{{< youtube id="wy3IxefErus" title="Dazzle Ships (Parts II, III And VII)" >}}<br>
+### Radio Prague
+{{< youtube id="9oWSJpIHhYk" title="Radio Prague" >}}<br>
 ### More Videos
 
-- [Telegraph](https://www.youtube.com/watch?v=keNcC2qn_LA)
+- [Orchestral Manoeuvres In The Dark - Genetic Engineering](https://www.youtube.com/watch?v=OddgsPyCJmU)
+- [ABC Auto-Industry](https://www.youtube.com/watch?v=fiYgNf9cHnw)
+- [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)
+- [This Is Helena](https://www.youtube.com/watch?v=eW7IPtWG26I)
+- [International](https://www.youtube.com/watch?v=erhpHvPVxuo)
+- [Dazzle Ships (Parts II, III And VII)](https://www.youtube.com/watch?v=wy3IxefErus)
+- [The Romance Of The Telescope](https://www.youtube.com/watch?v=DHuNv-yfRK4)
+- [Silent Running](https://www.youtube.com/watch?v=aO5z33JrRJU)
 - [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
+- [Time Zones](https://www.youtube.com/watch?v=lwx8A0XUpfM)
+- [Of All The Things We've Made](https://www.youtube.com/watch?v=HgNBbUiAaQo)
 
 ## Release Images
 {{< imageGrid >}}

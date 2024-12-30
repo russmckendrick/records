@@ -12,8 +12,8 @@ cover:
     alt: "The Brits 1991 (The Magic Of British Music)  by Various"
     caption: "The Brits 1991 (The Magic Of British Music)  by Various"
 additional_images:
-    - "https://i.discogs.com/XwB4qj9ueDDiZ0zxM6EBaTToWH5JkRTBX3u7HhU8T6E/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTU5NTMzODM3/Mi01ODAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/jFwhgf5dbENSKUYKLpxwyoM1mUOK4feZlkMTOHFNskI/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTYzNDU0MzQx/MS0xMDE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/CMEjZBknjsn5A2PWQaQv1r-42IRU6EQXMMYm3hPLn0A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTU5NTMzODM3/Mi01ODAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ewogClTj3DxCk3hKx2CQQ_fAn29NPXyVo4SgVzkEyv4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTYzNDU0MzQx/MS0xMDE1LmpwZWc.jpeg"
     - "https://i.discogs.com/NUl6mvSO9rt5RCbadOQCELnM5n8bq3nWBad83-iHqUw/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTYzNDU0MzQx/Mi02NTIxLmpwZWc.jpeg"
     - "https://i.discogs.com/8vccu8eFSq9viICRgLagZHnsehmjhPsZ5B8rdrrZhA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjUtMTYzNDU0MzQx/My0xOTgzLmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock", "Funk / Soul", "Pop"]
