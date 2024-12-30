@@ -15,10 +15,10 @@ additional_images:
     - "https://i.discogs.com/4ax7ejhicCwmz5GNE6wEiPK_q-_l8vE-I7TE9vAnPQ0/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDk0/MDktMTU2MS5qcGVn.jpeg"
     - "https://i.discogs.com/w1rjctvconQaWTXiLc3m-QHVDopwpOdjyreyIRdxikk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDk0/MDctMTQ5OS5qcGVn.jpeg"
     - "https://i.discogs.com/DRGAMj1J0DLT466EFUpCGeDOpdo5i1kvCAsBlUQGP-c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDk0/MDMtMzcyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Dhc5z1YAo0HkBfUTg1c2dEYBXvMrZxCw3UQ0hMNa9dE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/OTEtNzQwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/XfCa2ltFheU4NZIxCQumJYUtNik6KisEWUA3ZYqoTug/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/NzktNjQ1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/4c0Us0Cd9hyO4pASuv8AgZG8tAeB1ms_BRllF0QqmP4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/ODItMjMyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/6wGS_0eopvDg_SkwRcAIVL6G8VbPnn6vC5teEzev8UQ/rs:fit/g:sm/q:90/h:634/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1MzIwOTc5/MDgtMjc4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/0mERcRR26kMDAfhd7JvVkY1QKmpMxoTBuOm2sZBTV60/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/OTEtNzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/La1_TBtj6Vs8-Rj7_qyg5hqIcdY9rLpzal19CdL9Q34/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/NzktNjQ1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6LUM3KabHy6pr68jCpicM79YLf53VfH4zIMyvmR06Uo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1NDM5NDkz/ODItMjMyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Pzsqqibxl6KXc5sGeUYZgJS6_xVURdWM5ZMza6D9ado/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/OTY1LTE1MzIwOTc5/MDgtMjc4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -46,7 +46,9 @@ styles: ["Prog Rock"]
 ## Videos
 ### Regal Worm - Pig Views (2018) (Full Album)
 {{< youtube id="zFJmtIe8ubo" title="Regal Worm - Pig Views (2018) (Full Album)" >}}<br>
+### More Videos
 
+- [Regal Worm - Pig Views (2018) (Full Album)](https://www.youtube.com/watch?v=zFJmtIe8ubo)
 
 ## Release Images
 {{< imageGrid >}}

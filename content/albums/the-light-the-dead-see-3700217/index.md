@@ -19,7 +19,7 @@ additional_images:
     - "https://i.discogs.com/K8imwNkUw8kpYYOS39RJsNytziRWOoNt3dd6wWUyYSk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYzODg0Mjg0/MS03MTAzLmpwZWc.jpeg"
     - "https://i.discogs.com/uO2gVHKFACrnm6_Rxk8A67AWh1LqwLjqUxm1YXpmZeQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/NS05ODM5LmpwZWc.jpeg"
     - "https://i.discogs.com/KorwcI4l8bHNl-bqBoRkPM0nn9xmqw-TVth3NGVioPE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/NS0xMDAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/CgPjSA4O2Yu8D-4CPQ3tZC1s8Io0X0GALFITW4VS2Oo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/NS05MTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/DR9sKD60OqnwJjlrQfPoPa1Ydd_YtsyQ7w935ib-lGg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/NS05MTEzLmpwZWc.jpeg"
     - "https://i.discogs.com/6FsvgekcRzru3DFs4Ufv4MHPnVt8ZteZSYE48Qk00Tg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/Ni05NTI4LmpwZWc.jpeg"
     - "https://i.discogs.com/nS0zPAS5BesupAmgrZXAM5lz0JqeiwGpscqOC_jdSyE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/Ni0zMTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/oDNELJhn1ywhk5CFcFnj73HkeQbT4nc-CDzQf9uWN9U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAy/MTctMTYxODM5NDM2/Ni0xOTg2LmpwZWc.jpeg"
@@ -71,6 +71,12 @@ The Light the Dead See is the fourth full-length studio album from English elect
 {{< youtube id="v85gICtpVjw" title="Soulsavers - 'Take Me Back Home'" >}}<br>
 ### More Videos
 
+- [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
+- [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
+- [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)
+- [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
+- [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
+- [Soulsavers - 'Take Me Back Home'](https://www.youtube.com/watch?v=v85gICtpVjw)
 - [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
 - [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
 - [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)

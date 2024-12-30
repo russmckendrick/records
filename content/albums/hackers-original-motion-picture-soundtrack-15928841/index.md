@@ -14,16 +14,16 @@ cover:
 additional_images:
     - "https://i.discogs.com/wMW-zm-NfobUXTLyLO6_WwBDgrQ9h5iCc5jkIiu3-uA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDAzNzI0/NDYtMTY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/AsIBO9NDwQ89aRgKdhPaTmYAsFX_UUk_eHsrsQu0LQ0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDAzNzI0/NTAtMjkzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/ZGv4Y0marzkbojGR4ssbAWyJJrZvdSJeSYz0ksBSepo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtODcyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/UU4v040Oq1isgwdMzu7Wlv3vM7vqBnXj7wvt8PPUykE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtMjQ3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/OFTLXYwVFITRm4Mx4hCa1YxGplO83IfjBJgUbKmWOck/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtODcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/sJj45MB26uSDYnZl1ZEh5nN0BJbN3cranomIeU4LV24/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtMjQ3OC5qcGVn.jpeg"
     - "https://i.discogs.com/6hGjeRHGm-bNwXzxYDcby1bEl2aoT3MoGzpOjSTb8kU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtMzk4My5qcGVn.jpeg"
     - "https://i.discogs.com/B97qgW1l8xVstiDsrzpPsH97sGgY54kYR3Cunybgg2A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM4/ODYtOTQ0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/kY66O17EHjwbUQ7G69jG_tYSa7Qf9nRg1Qu0SUkz2W8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM2/MTktNDE0OC5qcGVn.jpeg"
     - "https://i.discogs.com/uCIDErIaoV0D--052m7nBJ4NAPf8Codb4o-z6fwO-vI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM5/MDMtMTc2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/HBRcuSPf6ecDE6M0qWYGl68RjmL-mV4XWxzq4Ls-z2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM2/MTktNzc1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/lcQdMn3JKaJxDTes2HV4aUntx6FS6W6Xrh7PPTvEM1I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM2/MTktNzc1MC5qcGVn.jpeg"
     - "https://i.discogs.com/QaCzhJe29bJLBjklbssJY8D2iWjEwlN5oVYkr4oHDig/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM5/MDMtODE0MS5qcGVn.jpeg"
     - "https://i.discogs.com/ssXjugAPz0hMaW8DKnp-dnxPIJdTlhlcLNoihUNSwMw/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDE0MjM2/MTktODgwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/2VivFo1Sp8T5EL6zDphTCPClX2ZWwCKQ_ZmZU2yo7eo/rs:fit/g:sm/q:90/h:769/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDIyNjc2/MTYtMjgyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/8Jn44vgvn5nKyrSjtRhfqtHzGkJjtI-8JAjVTuXVCTA/rs:fit/g:sm/q:90/h:600/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODQxLTE2MDIyNjc2/MTYtMjgyNi5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "Ambient", "Electro"]
 ---
@@ -56,6 +56,15 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 {{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
 ### More Videos
 
+- [Orbital - Halcyon + on + on (from the classic brown album)](https://www.youtube.com/watch?v=JOR1l2zSVpw)
+- [Squeeze - Heaven Knows (Official Promo Video)](https://www.youtube.com/watch?v=cmW9UiiCETQ)
+- [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
+- [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)
+- [Grand Central Station - Guy Pratt (featuring David Gilmour)](https://www.youtube.com/watch?v=moca2B0O0RM)
+- [Hackers Soundtrack - Richest Junkie Still Alive (Sank Remix)](https://www.youtube.com/watch?v=EYkuVytnZWw)
+- [Hackers (1996) - Full Official Soundtrack](https://www.youtube.com/watch?v=JEyEkbOlMfA)
+- [Guy Pratt - Grand Cental Station, Hackers Soundtrack (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=e7qtHLVgUi4)
+- [Orbital - Halcyon + on + on (from the classic brown album)](https://www.youtube.com/watch?v=JOR1l2zSVpw)
 - [Squeeze - Heaven Knows (Official Promo Video)](https://www.youtube.com/watch?v=cmW9UiiCETQ)
 - [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
 - [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)

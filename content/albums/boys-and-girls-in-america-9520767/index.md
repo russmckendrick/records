@@ -4,6 +4,7 @@ artist_name: "The Hold Steady"
 artist: "the-hold-steady"
 album_name: "Boys and Girls in America"
 date: 2017-04-17T13:21:59.000000Z
+release_date: "2007-01-21"
 release_id: "9520767"
 slug: "boys-and-girls-in-america-9520767"
 hideSummary: true
@@ -30,11 +31,13 @@ genres: ["Rock"]
 styles: []
 ---
 
-Boys and Girls in America is the third studio album by the Hold Steady, released on October 3, 2006, by Vagrant Records.
-On August 18, 2006, first single "Chips Ahoy!" was released as a free download from music site Pitchfork Media.  The second single, "Stuck Between Stations" began to appear on campus radio playlists in November 2006.
-Backing vocals for the track "Chillout Tent" are provided by Soul Asylum's Dave Pirner and the Reputation's Elizabeth Elmore.  Dana Kletter (ex-Blackgirls, Dear Enemy, and Hole's Live Through This) contributed backing vocals to "Chips Ahoy!", "You Can Make Him Like You", and "First Night".The album title is a line taken from the opening lines of the song "Stuck Between Stations" ("There are nights when I think that Sal Paradise was right/Boys and girls in America have such a sad time together"), which in turn refers to a quote from American novelist and poet Jack Kerouac's 1957 novel On the Road and its narrator, Sal Paradise.  The title is repeated in the lyrics in "First Night."
-Boys and Girls in America has sold 94,000 albums as of April 2010.
-    
+The Hold Steady’s third studio effort, 2006’s <i>Boys and Girls in America</i>, builds upon the stories lead singer Craig Finn had begun telling on albums like <i>Separation Sunday</i> and Almost Killed Me. These were vivid, interconnected narratives that, by the time <i>Boys and Girls in America</i> arrived, were together forming something akin to a cinematic universe. Yet, for all of Finn’s lyrical smarts, the songs on <i>Boys and Girls in America</i> were also pure, simple and beautiful—and a ton of fun.
+
+The entire record almost feels like a driven, powerful live show, one where you barely stop dancing. And while it’s easy to make comparisons between The Hold Steady and the Boss, <i>Boys and Girls in America</i> features a large, arena-ready rock sound best described as Springsteen-esque—full of detailed stories about everything from mystic racetrack gamblers to aging scenesters. It’s a coming-of-age album from a band whose members were growing more comfortable with their own musical maturity.
+
+<i>Boys and Girls in America</i> marked a moment of pure evolution for The Hold Steady—one in which the group went from playing songs <i>about</i> a scene, to <i>becoming</i> a scene. The album played a crucial role in elevating the band’s profile, earning universal critical acclaim, along with a larger and ever-growing fan base, and eventually leading The Hold Steady to be named <i>Blender</i> magazine’s 2006 Band of the Year.
+        
+        
     
 
 
@@ -66,8 +69,8 @@ Boys and Girls in America has sold 94,000 albums as of April 2010.
 
 
 ## Videos
-### The Hold Steady - Stuck Between Stations [Official Video]
-{{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - Stuck Between Stations [Official Video]" >}}<br>
+### The Hold Steady - "Stuck Between Stations" [Official Video]
+{{< youtube id="3Cem1ME-OvQ" title="The Hold Steady - "Stuck Between Stations" [Official Video]" >}}<br>
 
 
 ## Release Images
