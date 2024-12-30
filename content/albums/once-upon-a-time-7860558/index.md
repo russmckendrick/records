@@ -16,13 +16,13 @@ additional_images:
     - "https://i.discogs.com/2HnVOBVesDkRf-LYxlKnf56t_Mdf6UopJO7yR4hvFXY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEy/NS0zNjEzLmpwZWc.jpeg"
     - "https://i.discogs.com/gwJ6e3U2KVOOdg9aEi4Ga3QXXTy9mFN1kd3C8Q7F4ZU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEy/OC04ODY1LmpwZWc.jpeg"
     - "https://i.discogs.com/unX3mS9WMBfNYFE-R0u7Oi5ey1V8FooUUmdQ2grB3WA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEz/My03NDU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/JPDHC2o4Gb1nA_zaFn7v4lNzwQrAWAKlc2HMTFRZ1gA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEy/OS0zMjI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/iXYLBliORuZDTeX2Ho4SA0XBM5CA5dgIngA0qSbrnzs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEz/NS00Mzc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/6PiCZi8XOAn7DzlAo1Xl2AhuQlV5ifBNO8u_kyVglTo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEy/OS0zMjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/m1XjESV76Ix-lGTI3lUeV41hBjgCl9pQ30YkrL68-oE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NTgtMTUzNzcwNDEz/NS00Mzc3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released in October 1985 by record label Virgin (A&M in the US).
+Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released on 21 October 1985 by record label Virgin (A&M in the US),  Once Upon a Time topped the UK charts, and peaked at No. 10 on the US charts, spending five consecutive weeks in the Top 10 of Billboard and 16 weeks in the Top 20.
     
     
 
@@ -42,13 +42,16 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 
 
 ## Videos
-### Simple Minds Once Upon a Time
-{{< youtube id="eQlYTc_rZ7c" title="Simple Minds Once Upon a Time" >}}<br>
+### Simple Minds Alive and Kicking.
+{{< youtube id="EK08XU4VaLQ" title="Simple Minds Alive and Kicking." >}}<br>
 ### More Videos
 
-- [Simple Minds - Alive And Kicking](https://www.youtube.com/watch?v=ljIQo1OHkTI)
-- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 - [Simple Minds -- Sanctify Yourself (1985)](https://www.youtube.com/watch?v=yAZlws4jB6w)
+- [Simple Minds - Alive And Kicking (HD/lyrics)](https://www.youtube.com/watch?v=4MsV45E-P-E)
+- [Simple Minds - Alive & Kicking (1985 LP Version) HQ](https://www.youtube.com/watch?v=WEvHl3SU6U0)
+- [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
+- [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
+- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 
 ## Release Images
 {{< imageGrid >}}

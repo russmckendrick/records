@@ -25,9 +25,7 @@ styles: ["Synth-pop"]
 
 Into the Gap is the fourth studio album by British pop group Thompson Twins, released on 17 February 1984 by Arista Records. The album was recorded during 1983 at Compass Point Studios, in Nassau, Bahamas, and was produced by Alex Sadkin who had produced the band's previous studio album, Quick Step & Side Kick (1983).
 Despite a mixed response from critics, Into the Gap became the band's most commercially successful studio album, peaking at number one on the UK Albums Chart (for three weeks), and number 10 on the US Billboard 200. "Hold Me Now", "Doctor! Doctor!", "You Take Me Up", and "Sister of Mercy" were all released as singles in the UK with corresponding music videos. Three of the four singles that were released in the UK made the Top 5 and the fourth just missed the Top 10. "The Gap" was also released as a single in some other countries, but no video was made for it. According to the RIAA, the record sold over one million copies in the US; in the UK the album sold over 600,000 copies and was certified 2× platinum. It became one of the year's biggest sellers, with five million copies sold worldwide. The band embarked on a world tour in support of the album.
-In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Records. It included the bonus cassette remixes that originally appeared on the original cassette version of the album in 1984, and also features a second disc which includes most major 12" single versions and B-sides, some of which appear on CD for the first time.
-
-
+In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Records. It included the bonus cassette remixes that originally appeared on the original cassette version of the album in 1984, and also features a second disc which includes most major 12" single versions and B-sides, some of which appear on CD for the first time. A triple CD 40th anniversary deluxe edition is due to be released in November 2024, which includes some previously unreleased tracks.
     
     
 
@@ -44,21 +42,43 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 9. Who Can Stop The Rain
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/into-the-gap/1679081538" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/into-the-gap/1700433691" >}}<br>
 
 
 ## Videos
-### Thompson Twins - You Take Me Up
-{{< youtube id="BPLpz3sVB_k" title="Thompson Twins - You Take Me Up" >}}<br>
+### Thompson Twins - Doctor! Doctor! (Official Video) [HD Remaster]
+{{< youtube id="Pf0_Be5PPPU" title="Thompson Twins - Doctor! Doctor! (Official Video) [HD Remaster]" >}}<br>
 ### More Videos
 
-- [No Peace for the Wicked](https://www.youtube.com/watch?v=784qPGZgt3o)
-- [Thompson Twins - Hold Me Now](https://www.youtube.com/watch?v=H9694K85Xc8)
-- [Thompson Twins - Sister of Mercy](https://www.youtube.com/watch?v=HzHrlX5qOHE)
-- [Thompson Twins - You Take Me Up](https://www.youtube.com/watch?v=WjFVwDDIm4A)
+- [Thompson Twins - Out Of The Gap (Thompson Twins Megamix) (1984) (Audio)](https://www.youtube.com/watch?v=sTzUdcvUjZA)
+- [Thompson Twins - Hold Me Now](https://www.youtube.com/watch?v=TvzVTRK1nOY)
+- [Thompson Twins - Sister of Mercy](https://www.youtube.com/watch?v=e1O_Voa3rLU)
 - [Thompson Twins - The Gap](https://www.youtube.com/watch?v=0SEwy1as78E)
-- [Thompson Twins - Doctor! Doctor! (Video)](https://www.youtube.com/watch?v=APyl6Cnbfzw)
-- [Thompson Twins - You take me up  - TOTP  - 1984](https://www.youtube.com/watch?v=K7ssLvcmLQs)
+- [Thompson Twins - Doctor! Doctor! (with lyrics)](https://www.youtube.com/watch?v=d9fOSG7XphQ)
+- [Thompson Twins - Doctor! Doctor!](https://www.youtube.com/watch?v=OaNloDoGKF4)
+- [Thompson Twins - Doctor! Doctor! (HD)](https://www.youtube.com/watch?v=j39EPIR2u9E)
+- [Thompson Twins   You Take Me Up](https://www.youtube.com/watch?v=F72nhfl36Cw)
+- [Thompson Twins - You Take Me Up](https://www.youtube.com/watch?v=BPLpz3sVB_k)
+- [Thompson Twins You Take Me Up Lyrics](https://www.youtube.com/watch?v=JL9q0wvmR1s)
+- [Thompson Twins - You Take Me Up (Vinyl)](https://www.youtube.com/watch?v=WWRpcoju1xY)
+- [Thompson Twins - Hold Me Now HQ Widescreen Stereo](https://www.youtube.com/watch?v=SXuIABMlZKc)
+- [Thompson Twins - Hold Me Now (Lyrics)](https://www.youtube.com/watch?v=CZ9nPidefaQ)
+- [Thompson Twins - Day After Day (1984) (HQ)](https://www.youtube.com/watch?v=6Ez56mZUeAU)
+- [Thompson Twins - Day after day](https://www.youtube.com/watch?v=3Qq1MxKMrsY)
+- [Thompson Twins - Day After Day](https://www.youtube.com/watch?v=PAAyS6xZAJY)
+- [Thompson Twins   No Peace For the Wicked](https://www.youtube.com/watch?v=R1BCz755TzU)
+- [Thompson Twins - No Peace For The Wicked (1984)](https://www.youtube.com/watch?v=5X1E0uHEYuA)
+- [No Peace for the Wicked](https://www.youtube.com/watch?v=DDMo9xWFsUU)
+- [The Gap](https://www.youtube.com/watch?v=9Fb09Pfz8s8)
+- [Thompson Twins - Sister Of Mercy (1984) (HQ)](https://www.youtube.com/watch?v=13IF9hn_SK8)
+- [Thompson Twins - Sister Of Mercy (lyrics)](https://www.youtube.com/watch?v=LAasBbkWgfk)
+- [Thompson Twins- Storm on the Sea](https://www.youtube.com/watch?v=44Wx6xB-n4Y)
+- [Thompson Twins - Storm on the Sea](https://www.youtube.com/watch?v=7IklDW51kP8)
+- [Storm on the Sea](https://www.youtube.com/watch?v=NB9jR2Elp_I)
+- [Thompson Twins- Who Can Stop the Rain](https://www.youtube.com/watch?v=9S4Pr0FnIAc)
+- [Thompson Twins - Who Can Stop The Rain (1984)](https://www.youtube.com/watch?v=GvOtgiYYz88)
+- [Who Can Stop the Rain](https://www.youtube.com/watch?v=L5PG4eAnAX4)
+- [ThompsonTwins - Into the Gap - 1984 /LP Album](https://www.youtube.com/watch?v=se2n1TPgP08)
 
 ## Release Images
 {{< imageGrid >}}

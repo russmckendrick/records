@@ -4,6 +4,7 @@ artist_name: "Dire Straits"
 artist: "dire-straits"
 album_name: "Brothers In Arms"
 date: 2016-11-18T18:42:44.000000Z
+release_date: "1978-01-01"
 release_id: "5736935"
 slug: "brothers-in-arms-5736935"
 hideSummary: true
@@ -23,13 +24,16 @@ additional_images:
     - "https://i.discogs.com/ZHHoYlosptw6Jmov5uXgVgiYp0Gf_1MLtEvZBpgiKXE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzY5/MzUtMTQyNDUzNTkw/NS0xOTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/Ovnfvg6tBe3cH_0FyaYi1p0X9uP38F3904ae2wtAnFQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzY5/MzUtMTQyNDUzNTkw/NS0xODUyLmpwZWc.jpeg"
     - "https://i.discogs.com/NYh8XbEE7Hy42e8yWVYfV2rUGAm7_fbEw-xFMj7enEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzY5/MzUtMTU1NzA1Njc5/MS0yMjU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/rdPtBmvmzt467Gq1JhtO4_Fy8UrCAMJ3IHAttulLKhM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzY5/MzUtMTYzMDMzMTE0/MS0zMDM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/tHuO-YF37STHv8ku81kNGbH-0Abx2xX6p1ztMKLHz6I/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzY5/MzUtMTYzMDMzMTE0/MS0zMDM2LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Blues Rock", "Pop Rock", "Arena Rock"]
+styles: ["Pop Rock", "Arena Rock"]
 ---
 
-Brothers in Arms is the fifth studio album by British rock band Dire Straits, released on 17 May 1985 through Vertigo Records internationally and through Warner Bros. Records in the United States. It is credited with being the first album in recorded history to sell over one million copies in a CD format.Brothers in Arms spent a total of 14 non-consecutive weeks at number one on the UK Albums Chart (including ten consecutive weeks between 18 January and 22 March 1986), nine weeks at number one on the Billboard 200 in the United States and 34 weeks at number one on the Australian Albums Chart. It was the first album certified ten-times platinum in the UK and is the eighth-best-selling album in UK chart history. It is certified nine-times platinum in the United States and is one of the world's best-selling albums, having sold more than 30 million copies worldwide.The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical and Best British Album at the 1987 Brit Awards; the 20th Anniversary reissue won another Grammy in 2006 for Best Surround Sound Album. Q magazine ranked Brothers in Arms number 51 on its list of the 100 Greatest British Albums Ever.
-    
+Brothers in Arms is the fifth studio album by the British rock band Dire Straits, released on 17 May 1985, by Vertigo Records internationally and Warner Bros. Records in the United States. It was the first album in history to sell over one million copies in CD format.
+Brothers in Arms spent a total of 14 non-consecutive weeks at number one on the UK Albums Chart (including ten consecutive weeks between 18 January and 22 March 1986), nine weeks at number one on the Billboard 200 in the United States and 34 weeks at number one on the Australian Albums Chart. It was the first album to be certified ten-times platinum in the UK and is the eighth-best-selling album in UK chart history. It is certified nine-times platinum in the United States by the Recording Industry Association of America (RIAA) and is one of the world's best-selling albums, having sold more than 30 million copies worldwide.
+The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical and Best British Album at the 1987 Brit Awards; the 20th Anniversary reissue won another Grammy in 2006 for Best Surround Sound Album. In 2020, Rolling Stone placed Brothers in Arms at number 418 on its list of the "500 Greatest Albums of All Time". Q magazine ranked Brothers in Arms number 51 on its list of the "100 Greatest British Albums Ever".
+        
+        
     
 
 
@@ -45,15 +49,18 @@ Brothers in Arms is the fifth studio album by British rock band Dire Straits, re
 9. Brothers In Arms
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brothers-in-arms-remastered-1996/1565391787" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dire-straits-remastered/1440801714" >}}<br>
 
 
 ## Videos
-### D̲ire S̲t̲raits - B̲ro̲the̲rs in A̲rms Full Album 1985
-{{< youtube id="beFo9WgmwXg" title="D̲ire S̲t̲raits - B̲ro̲the̲rs in A̲rms Full Album 1985" >}}<br>
+### Dire Straits - Money For Nothing (Official Music Video)
+{{< youtube id="wTP2RUD_cL0" title="Dire Straits - Money For Nothing (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Dire Straits - Your Latest Trick (1985 UK Vinyl)](https://www.youtube.com/watch?v=8XxLzf0ptNQ)
+- [Dire Straits - Brothers In Arms (Official Music Video)](https://www.youtube.com/watch?v=jhdFe3evXpk)
+- [Dire Straits - Walk Of Life (Official Music Video)](https://www.youtube.com/watch?v=kd9TlGDZGkI)
+- [Dire Straits - So Far Away (Official Music Video)](https://www.youtube.com/watch?v=YIHMPc6ZCuI)
+- [Dire Straits - Walk Of Life (UK Version)](https://www.youtube.com/watch?v=H55KgeOaanY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,7 +69,7 @@ Brothers in Arms is the fifth studio album by British rock band Dire Straits, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Brothers_in_Arms_(album) |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Label          | Vertigo |
 | Catalog Number | 3752907 |
 | Notes | This version contains the full-length songs of the album, total playing time of 55:07. The original single album LP length is 47:21. Songs "So Far Away", "Money For Nothing", "Your Latest Trick" and "Why Worry" were edited on that release.  The timings in parenthesis are the original vinyl lengths:  "So Far Away" - 5:12 (3:59) "Money for Nothing" - 8:26 (7:04) "Your Latest Trick" - 6:33 (4:46) "Why Worry" - 8:31 (5:22)  Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig.  Includes A Voucher To Download MP3 Version Of The Album.  Made in the EU. |

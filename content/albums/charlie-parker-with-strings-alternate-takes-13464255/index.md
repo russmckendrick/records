@@ -12,11 +12,11 @@ cover:
     alt: "Charlie Parker With Strings (Alternate Takes) by Charlie Parker With Strings"
     caption: "Charlie Parker With Strings (Alternate Takes) by Charlie Parker With Strings"
 additional_images:
-    - "https://i.discogs.com/Q5M-0umOUuAGuvUl_fQKwqvvqPjV3L_WiDkpJWDHqbY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItMzg1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/7w6EuKhEIDr5TDmyPCeh-xVhXHfvVp1PdzHFs_KjNJ4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItMzQwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/8i2GFK1lH07eWFDvXSJEUW6RXMpCUDqNLNJGow3SIHk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItMzg1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hbhiqpHvNUvE0kAlUOJUd-mdd5Eu4Og7KEJ5eUpoGME/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItMzQwNy5qcGVn.jpeg"
     - "https://i.discogs.com/FjC5F65O7WNiA-dQjB9UWjJ9ViW0l_Tn8Baw2mM4S4g/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItOTg3MS5qcGVn.jpeg"
     - "https://i.discogs.com/nRL2LLbN82UA6tzfsjCXeUzRS_RwmegD4uzOytZrfFo/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItNzYxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/KvVv8HxrJBFyImKy5652YHIq_eei3PDz3oX0dg2Hr-w/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItNTA1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/jf3sQUNaUDwYfYZt8I1YNmaP9xp1JQkc0sDOrxiqcqw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NjMyOTM4/MzItNTA1OS5qcGVn.jpeg"
     - "https://i.discogs.com/_MNRKPr-aKWHf15Qu7IPxOtYqSqEF5rnCWjnKPBfqvo/rs:fit/g:sm/q:90/h:447/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MjU1LTE1NTQ4OTk1/MDYtNzU1Ni5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: ["Bop"]
@@ -40,6 +40,8 @@ styles: ["Bop"]
 13. Temptation (Take 1)
 14. Stella By Starlight (Take 1)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/charlie-parker-with-strings-complete-master-takes/1425188521" >}}<br>
 
 
 ## Videos

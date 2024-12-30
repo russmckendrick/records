@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/ZkYy9PjlUg6NmJ6IfBNE1qxc_HVtBcQy6EKMiD3Qe9A/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTM5OTIwNjE3/Mi02NDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/C1Iajkwqr3DRrwazfzllOWOq9wheYZj8jzjeUbSDHVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMx/OC01ODM2LmpwZWc.jpeg"
     - "https://i.discogs.com/B35zo1xa4ltBhumtveVmGnVvbBdp7v2HYmSacbJ2TCw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/MC0xNTAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/WMcf-9mqY1rAbdWscMT8SBrCXXNM6ph3Hq1nPnHXTPs/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/Mi0yODI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Hk4ZGqGptThS3R95XKN1FzgLmWx3ziU6wrX29OCruTI/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/Mi0yODI0LmpwZWc.jpeg"
     - "https://i.discogs.com/A6nzkB4194t8U1mP0woRFKvlvoIgixafyswyt6S-yD4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/NC02MTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/K__4k3ptJvG9y9getHDjtDW93O19IHW9iw68OGkZN8w/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/OC0yMjU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/sbdxJMsiiaV8ZuY-3A0jxcpNXNVhWhrCJksxeEUr3Ps/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMy/OC0yMjU3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -43,7 +43,7 @@ The album peaked with 263,000 units sold in the US.
 10. I Ain't Sayin (2:29)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1318714108" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1765551992" >}}<br>
 
 
 ## Videos

@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/9ZRfdJcf316E9qJyRIh1TMHEcWRylmx-VchG36BJNa4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA0/OC04ODI1LmpwZWc.jpeg"
     - "https://i.discogs.com/SRsyQQwY6B05W3LlAUInL4eqzI4ytmhc59LJzmO8R5U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA2/NC03ODk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/NgaXlNOHvgtIO5LpcEmHmOokns4Dcf4a2pgbGNDHUwc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzE5/Ni00MDg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/MM5PiDNMKhLOGnAb6bwwOeKO5mvaIp2z-u9pGDfoxk4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzE5/Ni00MDg2LmpwZWc.jpeg"
     - "https://i.discogs.com/Zpkn4XJqMV4HumwhQfTePRzRuJQAzBXvNJBtE-ym7Ao/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTQ0NzcxNzkz/OC03Mjc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/aLW2jN0i7tEzjb5eIWghBRLFOyMYj5CXoTpEFtBsV18/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA3/Ni00NTM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/dZIE-s3WIzrokr04kS5J8cz5bAqxJSb5MFJA_NSPyzQ/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA3/MS04NTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/zvaAyh0m5JQ0N6eDl02AzM_mfgADqGq6iSnN9SdzbQA/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA3/Ni00NTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/OZdhvNxWqA5uQ9MwD7boTmzCYSMNZq5BLlbrAS-Hx0s/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/NDYtMTYwNTk4MzA3/MS04NTgxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -44,6 +44,9 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 {{< applemusic url="https://music.apple.com/gb/album/animalize/1442844700" >}}<br>
 
 
+## Videos
+### KISS - Animalize Cassette 1984! #metal #rock #music #kiss #kissarmy #cassette #animalize #shorts
+{{< youtube id="N3j2uUQXr8w" title="KISS - Animalize Cassette 1984! #metal #rock #music #kiss #kissarmy #cassette #animalize #shorts" >}}<br>
 
 
 ## Release Images

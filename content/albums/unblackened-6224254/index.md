@@ -15,19 +15,25 @@ additional_images:
     - "https://i.discogs.com/32vuBJfhFDBBxKz4WGLFARdPLJolge504D57XDdzghA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQxNDE0NTc3/My03MTY3LmpwZWc.jpeg"
     - "https://i.discogs.com/STr5oh1yjzC13copehVDADOR3k7mSVtYP8bJ6DkG314/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3NjY4/OC0xNDE2LmpwZWc.jpeg"
     - "https://i.discogs.com/ilOSsUZ8Kt7ndHBB48npTky5rZYEzkmIWq2uhG5x0Us/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3Njg3/MS0zMjIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/zdg5Xgc08v6pIm0NmMDhd9mbEzLR0Fq_VObVTAjJWGo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3NzE0/Mi0yNTY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/zaD2vKqL10MBDGpnT69dSrZt3t1CWhjrDV15DR_4LRU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3NzE0/Mi0yNTY2LmpwZWc.jpeg"
     - "https://i.discogs.com/Itv3sDX4WYZqt8dLTO0Gpy71lVWCXhOWLVNFkwqB8Uk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3NzIy/NC0zMzE4LmpwZWc.jpeg"
     - "https://i.discogs.com/siiJY_qV5h80l1gnyDvnkek1bDd5wiXYYURePJTKKh4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3NzMy/My03NTIwLmpwZWc.jpeg"
     - "https://i.discogs.com/PF032rzcI_WblGKT8pQWRln7Kh9zkCVQZVobGxy6b1E/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3Nzgx/MS03MjM3LmpwZWc.jpeg"
     - "https://i.discogs.com/nCvnCBwjaGlZL7eFdRIAZG6lSitJXMXh5PEOi4v_tOM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3Nzkw/MS03MDQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/dXwIcirObL2pOHzu-KKJpy4GL7hbWEOjOcYaltu3JwE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3ODAx/OS0zMDkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/xRVaIuEJ1Vh1x8ckP7l3mtnrmtT9fsBqXruVD9S4HCk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3ODE3/OC02MjQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/l7fS3YzBCwLHHV8VAyStByPVUVE_T7t9ZOlcKvuab8Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3ODE3/OC02MjQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/ePUG7kt9kkjo6AvaumALr3raPiDCqNrJ4fHI8YXuWq0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3ODI5/Ni01ODg5LmpwZWc.jpeg"
     - "https://i.discogs.com/fuCU5IG_CUmK08g5lMsmvL4qLQ2z4qQRFbh1PRJWclA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQy/NTQtMTQ4OTY3ODM5/NC04Mzk1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
+Unblackened  is a live acoustic album by American heavy metal band Black Label Society. It was recorded live on March 6, 2013, at Club Nokia in Los Angeles, and released on September 24, 2013.
+Disc 1 consists of live tracks and disc 2 also consists of live tracks among six newly recorded songs, three of which are re-recordings of previously released songs from the band's studio albums.
+The album was announced back in 2012, but the release was delayed due to the postponement of the show, which was settled to be recorded in August. Black Label Society started the pre-ordering of the album in August 2013, also offering a deluxe edition box set containing a double live CD pack, a DVD of the show, a replica of Zakk Wylde's pewter dagger necklace, a photo book with photos taken from the show, and a custom package.
+On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single through iTunes in North America.
+    
+    
 
 
 ## Tracklisting
@@ -71,6 +77,15 @@ styles: ["Hard Rock", "Heavy Metal"]
 - [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
 - [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
 - [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
+- [Sold My Soul - Black Label Society (Unblackened)](https://www.youtube.com/watch?v=PH8An0MFF2A)
+- [Sold My Soul - Black Label Society (Unblackened)](https://www.youtube.com/watch?v=PH8An0MFF2A)
+- [Rust- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=7FPkcpP9NWY)
+- [In This River- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
+- [Losin' Your Mind- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=8WOh9igfGv0)
+- [Lovin' Woman- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=EIGiWQy1A2w)
+- [Yesterday, Today, Tomorrow- Black Label Society (Unblackened)](https://www.youtube.com/watch?v=-jtP4SYwoPs)
+- [Throwin' it all Away-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=55ofHYBDLNQ)
+- [Stillborn-Black Label Society (Unblackened)](https://www.youtube.com/watch?v=FhdaThpugpI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,6 +93,7 @@ styles: ["Hard Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Unblackened |
 | Format         | Vinyl 3× LP Album Limited Edition (Clear) |
 | Label          | Vinyl Vault |
 | Catalog Number | VV3LP011 |

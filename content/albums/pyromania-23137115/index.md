@@ -22,8 +22,11 @@ genres: ["Rock"]
 styles: []
 ---
 
-<i>Pyromania</i> marks the epochal moment when Def Leppard's and superproducer Mutt Lange's shared vision of a pop/metal marriage crystallized into something timeless and world shaking. With Lange's sterling sheen emphasizing the music's larger-than-life wallop, cuts like the ubiquitous "Photograph," "Foolin'," and "Rock of Ages" overflow with spotless, widescreen vocal harmonies and instant-classic pop melodies without sacrificing the metal-derived, gut-punching guitar riffs. It's no mystery why the album became a mega-platinum sensation that defined '80s rock and made these Brits superstars all over the globe.
-    
+Pyromania is the third studio album by English rock band Def Leppard, released on 20 January 1983 through Vertigo Records in UK and Europe and through Mercury Records in the US. The first album to feature guitarist Phil Collen who replaced founding member Pete Willis, Pyromania was produced by Robert John "Mutt" Lange. The album was a shift away from the band's traditional heavy metal roots toward a more radio-friendly sound, finding massive mainstream success. Pyromania charted at No. 2 on the Billboard 200, No. 4 on the  Canadian RPM Album chart and No. 18 on the UK Albums Chart. Selling over ten million copies in the US, it has been certified diamond by the RIAA.
+
+
+        
+        
     
 
 
@@ -44,16 +47,20 @@ styles: []
 
 
 ## Videos
-### Def Leppard - Photograph
-{{< youtube id="D4dHr8evt6k" title="Def Leppard - Photograph" >}}<br>
+### Def Leppard – Too Late For Love ......yerdenizplak.com İstanbul Kadıköy
+{{< youtube id="jWyXQwKrswc" title="Def Leppard – Too Late For Love ......yerdenizplak.com İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [DEF LEPPARD: Foolin' - (Album: Pyromania - 1983)](https://www.youtube.com/watch?v=q3sbi86cIRI)
-- [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
-- [Def Leppard - Rock Of Ages (Official Music Video) (HD/1080p)](https://www.youtube.com/watch?v=4xHy3ngYfWo)
 - [Def Leppard - Too late For Love (Official Video)](https://www.youtube.com/watch?v=JylbxFYc83k)
-- [Def Leppard - Rock,Rock (Til' You Drop) (Live Television Performance)](https://www.youtube.com/watch?v=-r4dQqEWbhU)
-- [Too Late For Love -- Def Leppard .HD +Перевод](https://www.youtube.com/watch?v=F_3qbVA692c)
+- [Def Leppard - Photograph](https://www.youtube.com/watch?v=D4dHr8evt6k)
+- [Def Leppard - Foolin'](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
+- [Def Leppard - Pyromania (Full Album)](https://www.youtube.com/watch?v=XQAsDO4L4vg)
+- [Billy's Got A Gun](https://www.youtube.com/watch?v=XpXNavL70Ps)
+- [Too Late For Love](https://www.youtube.com/watch?v=5aSTWUxg2W0)
+- [Stagefright](https://www.youtube.com/watch?v=ItFddM32bxs)
+- [Def Leppard - Rock Of Ages - HQ](https://www.youtube.com/watch?v=ZpJ5IRqoxGE)
+- [Def Leppard Photograph](https://www.youtube.com/watch?v=5J-UPxcRga4)
+- [Die Hard The Hunter](https://www.youtube.com/watch?v=kmimtjDQgZI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,6 +68,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pyromania_(album) |
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Vertigo |
 | Catalog Number | 5777362 |

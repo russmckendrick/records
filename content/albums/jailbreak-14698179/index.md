@@ -13,14 +13,14 @@ cover:
     alt: "Jailbreak by Thin Lizzy"
     caption: "Jailbreak by Thin Lizzy"
 additional_images:
-    - "https://i.discogs.com/ruN29R7yb3E12A6m9pgmVSWjU26QsDI3cSu3mKz67tM/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1Nzk4NzI5/OTItODA0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/gTxwITL32Eh_p9uNukGuEVhaZWw9EgDLaJEJG_MTX6o/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1Nzk4NzI5/OTItODA0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/GqJGeKH6LdZKUhYJsHCZRF1aVtAxgHQfYCeBbb_35to/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1Nzk4NzI5/OTItNDI0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/RcAOrUcpq-eqziCAkVvhdnzcFXuFnqSaeqGgcybaVH0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/MTgtODMxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/x68L3dDzoTUXZr471BbFIi34y5-eH7b20CQvp5g1uxE/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/MDQtMzAzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/1H0nv3q7DL8-fuVDyu2VqDg-LLyKnNRKLNUJ3R48wi8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/MTgtODMxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/khA-zSVXi8dVSRONe2Ru9pdyIRkJ_QI_NDkgRBzI-Wg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/MDQtMzAzMi5qcGVn.jpeg"
     - "https://i.discogs.com/d210ocTu5URAyDDTC4pBmvVYUwDMP3Ao44cGezTUt0w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/MzItMjAxOS5qcGVn.jpeg"
     - "https://i.discogs.com/4TMwp_VudriMD6Fvxphw3xjEeFcToazucKltnY64k1A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/NDItNDAzMS5qcGVn.jpeg"
     - "https://i.discogs.com/7v9MzhUeaGWS-i1oyJy2wxkHgaqUnBY-HoP0smT_1u4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEw/ODItOTcyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/T3KuyBl0ZD9RGWx5Auye8J4fsnHtWz6mjDnMT5-i8gU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/NjktMjg4My5qcGVn.jpeg"
+    - "https://i.discogs.com/s5TRrhWDpJg3cIqMiswbc1sauS0SOOIMFutkAihsm_c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk4/MTc5LTE1ODcyMzEx/NjktMjg4My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
@@ -49,14 +49,17 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 
 ## Videos
 ### Jailbreak
-{{< youtube id="yFMVvSAeVO4" title="Jailbreak" >}}<br>
+{{< youtube id="dMko8DlY9IA" title="Jailbreak" >}}<br>
 ### More Videos
 
+- [Angel From The Coast](https://www.youtube.com/watch?v=i_R0JAzHXq8)
 - [Running Back](https://www.youtube.com/watch?v=w8Ca-YfG5r8)
+- [Romeo And The Lonely Girl](https://www.youtube.com/watch?v=DgpARCtjTg4)
+- [Warriors](https://www.youtube.com/watch?v=nQjp0an5cO0)
+- [The Boys Are Back In Town](https://www.youtube.com/watch?v=56b4TTT609c)
+- [Fight Or Fall](https://www.youtube.com/watch?v=xpgK4_JT7bQ)
 - [Cowboy Song](https://www.youtube.com/watch?v=Q61q458T92w)
-- [Blues Boy](https://www.youtube.com/watch?v=9iVmNwoNnDY)
-- [Thin Lizzy - Cowboy Song 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=8RXZ6UaZTOA)
-- [Thin Lizzy - Running Back 🎸1976 ‘#Shorts’](https://www.youtube.com/watch?v=CBcMcaoi75s)
+- [Emerald](https://www.youtube.com/watch?v=2Rby6u-KCwE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +71,5 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Vertigo |
 | Catalog Number | 0802631 |
-| Notes | 2020 reissue.  180g vinyl.  Die cut sleeve. Download-code.  ℗ 2014 © 2014 Made in Germany.   |
+| Notes | 2020 reissue.  180g vinyl.  Die cut sleeve. Some copies include "The Sound Of Vinyl" download code.  ℗ 2014 © 2014 Made in Germany.  Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |
 | Discogs URL    | [Thin Lizzy - Jailbreak](https://www.discogs.com/release/14698179-Thin-Lizzy-Jailbreak) |

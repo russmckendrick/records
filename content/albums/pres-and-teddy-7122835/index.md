@@ -13,13 +13,19 @@ cover:
     caption: "Pres And Teddy by The Lester Young-Teddy Wilson Quartet"
 additional_images:
     - "https://i.discogs.com/eT34IQIP12mu_JrH04ZsoqpA2j5A-5axLTWHYTHnoic/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI4/MzUtMTQzNDIyMTM0/MC01NDQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/1hnztVaMKRT3MeviAu0lWcRJKfZ-NNQP-kHYe0RVw-k/rs:fit/g:sm/q:90/h:697/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI4/MzUtMTUxMjMyMzI4/OC05Mjk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/t4Z3Owt23nTpIHNEzbgyFNwPJjLUKApDyRjc4QwGzhg/rs:fit/g:sm/q:90/h:600/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI4/MzUtMTUxMjMyMzI4/OC05Mjk0LmpwZWc.jpeg"
     - "https://i.discogs.com/xaZ7RtlWCAAuQkBdi-Ol_4QMjDQBwqy61X_th5LPpf0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI4/MzUtMTUxMjMyMzI4/OC0yMDc4LmpwZWc.jpeg"
     - "https://i.discogs.com/9MYf4uJpJiB7PIGVlN4sMgxq_9VoP57WcyyAZTyaBAs/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI4/MzUtMTUxMjMyMzI4/OC03OTExLmpwZWc.jpeg"
 genres: ["Jazz"]
 styles: []
 ---
 
+Pres and Teddy is a jazz album by The Lester Young and Teddy Wilson Quartet, recorded in January 1956. Originally released on LP by Verve in 1959, it has subsequently been reissued on CD by Verve, Universal Japan and Lonehill Jazz.
+The album includes six standard swing jazz songs with one original composition, "Pres Returns." In spite of Young's failing health, this studio album is critically acclaimed as one of best of his best later works, and among the best albums produced by Verve Record's founder Norman Granz.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -31,7 +37,7 @@ styles: []
 6. Our Love Is Here To Stay
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pres-teddy/1425259073" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pres-and-teddy/1425259073" >}}<br>
 
 
 ## Videos
@@ -53,6 +59,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pres_and_Teddy |
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Verve Records |
 | Catalog Number | 0600753520390 |

@@ -12,7 +12,7 @@ cover:
     alt: "Devotion by Beach House"
     caption: "Devotion by Beach House"
 additional_images:
-    - "https://i.discogs.com/j4JOne6O5rSeWWA-N8jvj_tK7vq3_ywgV_05CfPCLes/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/NTMtMjM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/K6tLIgpS6IkKrHprkyqbPBjYEpYVB7ug54yjb2Zpc3c/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/NTMtMjM0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Tf5rqrrla9eHfzBgg3SteOvd8-ZzUEqSQ1gb4l4IYfw/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/NTYtMjk5OC5qcGVn.jpeg"
     - "https://i.discogs.com/qt-NBCXMKm_t1pBcQm12JFsZ-naoe_4edpQj1diwWvg/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/NTktNDIyNC5qcGVn.jpeg"
     - "https://i.discogs.com/h6GmWd0QVKh0qMGlnVUGwMV14l1uPU1z0MzQcLo71Wk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/NzgtNDgyMC5qcGVn.jpeg"
@@ -23,16 +23,17 @@ additional_images:
     - "https://i.discogs.com/NVOS2cNEBfDt6icH-YpVncfSbSBVpPKT6iMhM5xXCEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE2NTE2MTYz/MDYtNDc2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/EbgqkGrbb5gQ6yTgUnIX48Z567c80OQsG1o8cLJGSBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE2NTE2MTYz/NDAtNDkyNC5qcGVn.jpeg"
     - "https://i.discogs.com/hTFQmb9u7n7kSWHadWfJkIJbAdyNC4u6ZV7hZJ6kxX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE2NTE2MTYz/NzEtMzM4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/HiSwnMK023dUEGMCesZ0qX8nZYdUHSqHWgYQPo2o8gw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/ODYtMjgyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/7l3PBBEL-OMUKuV5ZQiP30jWqfrZnvyBQiv-Lz9dEj4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/ODQtODM1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/bM1jT3A-QwhJ1d0LlBOX8ttuznS72Nly7kC_TwntMY4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/ODYtMjgyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/iifd7LyPuKN8sQIHB_dbZTtIWbpRaa8hQdHAR2fuLDw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/ODQtODM1NS5qcGVn.jpeg"
     - "https://i.discogs.com/donYuNwjdV6U-7KIC9f-VZxUpUWGtQAoO81sberaeNw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjEyNjk1/ODQtNzYzMS5qcGVn.jpeg"
     - "https://i.discogs.com/yO_3ic_A9WiddCEWRQ9H06Qlp5MngxvaoxT5JeJT3TM/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MzAwNDEz/OTktOTM1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/1b3kDixtVAIhfQ-gcR9gvAMoWSGfqFoFhyOp8jC20Sg/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjA2MjUy/MDYtMjcyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/G8dSSzBfv9JGnZyIU06YSCEDSTLgQA-xAKl1S9OkQtc/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/OTIyLTE1MjA2MjUy/MDYtMjcyOC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Dream Pop"]
 ---
 
-Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in United States according to Nielsen Soundscan.Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
+Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in the United States according to Nielsen Soundscan.
+Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
     
     
 
@@ -59,10 +60,10 @@ Devotion is the second studio album by American dream pop duo Beach House. It wa
 {{< youtube id="eWO4CuAKjyw" title="Beach House  All the Years" >}}<br>
 ### More Videos
 
-- [Beach House - Some Things Last A Long Time](https://www.youtube.com/watch?v=MlgkEjrdR9c)
 - [Beach House - Turtle Island](https://www.youtube.com/watch?v=KVqd5KJVzNA)
-- [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
-- [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
+- [Beach House - "You Came To Me"](https://www.youtube.com/watch?v=8UqwNLdb45k)
+- [Beach House "Gila"](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
+- [Beach House - Some Things Last A Long Time](https://www.youtube.com/watch?v=MlgkEjrdR9c)
 
 ## Release Images
 {{< imageGrid >}}

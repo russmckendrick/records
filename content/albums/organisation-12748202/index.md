@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/9jOPUyIk8Y1FBY33aFNqzImyAisVeNuKgBo4IBWuo5M/rs:fit/g:sm/q:90/h:500/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1NDE4NDE2/NzEtODA2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/gdTwM2ZrrGc1LQsP3q29VhzP3Lf8fG9r6ETgFjZbUns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1NTQ2NDg4/ODUtMTg2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/hNRugSKkjqVQ-xRb1C6jgGACBMPc4GE60vDCxWdJE38/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtMTI3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/0Zes_6s-iTmDgus6noY6p2WuMc6BMeBGlTECxtZFsco/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtNjQ0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/lMvUlw-cKkaWUuD_twK_2HO2NWilRJ_k1D8sZKmMrXI/rs:fit/g:sm/q:90/h:825/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTktNDc5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/a3hw14ooRVmHVreMQqsxDlyHSNFQxeqTedEG8xX7gZI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtNjQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/44ks4cwhbV_Vt4byO3u7Kjgy6Us0xgO1tHIqyP178B4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtMTI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Uc8BIspyLRCf0MYVNp6AROMhjz7fzGOrVd6F6e0x2lw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtNjQ0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/EI8P7T7WieFD1v0YyiPCsfPfcY9yyDA9y5WGZFbsnK0/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTktNDc5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/S843-6H3M8BKzrdgT_Ro1fs4fXiM3pNwS2K-RFBwqjo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ4/MjAyLTE1OTUwOTMy/MTgtNjQ4MC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
@@ -40,10 +40,29 @@ styles: ["Synth-pop"]
 
 
 ## Videos
-### Enola Gay (Remastered)
-{{< youtube id="n4mqwJ569_M" title="Enola Gay (Remastered)" >}}<br>
+### omd enola gay video
+{{< youtube id="01SBf0tsLyI" title="omd enola gay video" >}}<br>
 ### More Videos
 
+- [Orchestral Manoeuvres in the Dark - Promise (Subtítulos Español)](https://www.youtube.com/watch?v=bzAPMc35Qhk)
+- [Orchestral Manoeuvres in the Dark - The unreleased '78 tapes](https://www.youtube.com/watch?v=BwxR8y5i8EQ)
+- [Orchestral Manoeuvres in the Dark - The More I See You](https://www.youtube.com/watch?v=RR9PN3G3QSM)
+- [OMD - The Misunderstanding](https://www.youtube.com/watch?v=sZF-A2McSrg)
+- [Motion And Heart](https://www.youtube.com/watch?v=ho7zBP4Fvlk)
+- [O.M.D. (Orchestral Manoeuvres In The Dark) - Enola Gay (1980) (4K Remastered)](https://www.youtube.com/watch?v=r_rbc2_NSRQ)
+- [Orchestral Manoeuvres in the Dark - 2nd Thought](https://www.youtube.com/watch?v=fqwh0wiQKmw)
+- [Orchestral Manoeuvres In The Dark - Stanlow (2003 Digital Remaster)](https://www.youtube.com/watch?v=dpfyuWZ5zrw)
+- [Orchestral Manoeuvres In The Dark - Statues (1980)](https://www.youtube.com/watch?v=jCqbROZJFYQ)
+- [OMD | VCL XI](https://www.youtube.com/watch?v=Dh9urYXc7w0)
+- [VCL XI by Orchestral Manoeuvres in the Dark](https://www.youtube.com/watch?v=TjFnn4ghvB0)
+- [Orchestral Manoeuvres In The Dark - Enola Gay](https://www.youtube.com/watch?v=vVi_1ysJzjk)
+- [OMD: Statues](https://www.youtube.com/watch?v=PEoISTJZ_zU)
+- [Orchestral manoeuvres in the dark - 2nd Thought](https://www.youtube.com/watch?v=joX_N5Lw06M)
+- [OMD Promise](https://www.youtube.com/watch?v=QAGRYhLupYs)
+- [OMD - Enola Gay](https://www.youtube.com/watch?v=TYpXcakyrYk)
+- [The OMD    (Orchestral Manoeuvres in the Dark)  -  ♦ ENOLA  GAY ♦](https://www.youtube.com/watch?v=-vMBp6iUJzk)
+- [Orchestral Manoeuvres In The Dark - Enola Gay (Official Music Video)](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
+- [Enola Gay (Remastered)](https://www.youtube.com/watch?v=n4mqwJ569_M)
 - [2nd Thought (2003 Digital Remaster)](https://www.youtube.com/watch?v=cwkpoF9uvsY)
 - [VCL XI (2003 Digital Remaster)](https://www.youtube.com/watch?v=FuOBBAyDWHQ)
 - [Motion And Heart (2003 Digital Remaster)](https://www.youtube.com/watch?v=IEqYDv8lMHM)
