@@ -17,6 +17,15 @@ genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ---
 
+Just Supposin' is the thirteenth album by Status Quo. Co-produced by the group and John Eden, it was recorded at Windmill Lane Studios, Dublin. Released on 17 October 1980, it entered the UK albums chart at number 4.
+The Windmill Lane sessions were highly prolific for the band, resulting in two albums worth of material, Just Supposin' and its follow-up Never Too Late, released the next year.
+Initially, two singles were issued from the album, "What You're Proposing", and a double A-side, "Lies"/"Don't Drive My Car". At the end of 1981, after the release of Never Too Late, an edited version of another track from Just Supposin', the uncharacteristic ballad "Rock 'n' Roll", also appeared as a single.
+"Over the Edge" was co-written by bass player Alan Lancaster and Keith Lamb, lead singer of British bands The Case, Sleepy Talk and Mr. Toad, and founder and lead singer of Australia's successful glam rock band Hush.
+The cover art work features the launch phase of a UGM-84 Harpoon submarine missile.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -31,17 +40,26 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 9. Rock 'N' Roll (5:23)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/just-supposin-deluxe/1443329378" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/just-supposin/1442217378" >}}<br>
 
 
 ## Videos
-### Status Quo – What You're Proposin'
-{{< youtube id="z4Zh5DyMRDU" title="Status Quo – What You're Proposin'" >}}<br>
+### Run To Mummy
+{{< youtube id="RgLGLZuijRU" title="Run To Mummy" >}}<br>
 ### More Videos
 
-- [Status Quo – Rock 'n' Roll](https://www.youtube.com/watch?v=UGuPCJcj3As)
-- [Status Quo – Lies](https://www.youtube.com/watch?v=Q4yckEtH-jQ)
-- [Status Quo – Don't Drive My Car](https://www.youtube.com/watch?v=n0GScZd2Ers)
+- [Coming And Going (Writing Demo)](https://www.youtube.com/watch?v=W6aZ4ll8_0o)
+- [Over The Edge](https://www.youtube.com/watch?v=7wds-zUmYa0)
+- [Coming And Going](https://www.youtube.com/watch?v=8dhqFZ1JJrI)
+- [Lies](https://www.youtube.com/watch?v=n01imnZM2d8)
+- [Coming And Going](https://www.youtube.com/watch?v=3PeQi_6jfRo)
+- [What You're Proposing (Live)](https://www.youtube.com/watch?v=peUCm0vcj88)
+- [The Wild Ones](https://www.youtube.com/watch?v=DBJl2S7OFOg)
+- [Don't Drive My Car (Live)](https://www.youtube.com/watch?v=pkkK1YXqeIo)
+- [Over The Edge (Live)](https://www.youtube.com/watch?v=8Qg62pnQCPs)
+- [A B Blues](https://www.youtube.com/watch?v=j_g-yFQqnzM)
+- [Something 'Bout You Baby I Like (Live)](https://www.youtube.com/watch?v=N7rHCT4ztTA)
+- [What You're Proposing](https://www.youtube.com/watch?v=_b0WCJKX0xg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -49,6 +67,7 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Just_Supposin%27 |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723773 |

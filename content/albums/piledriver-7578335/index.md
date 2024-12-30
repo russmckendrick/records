@@ -33,10 +33,23 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 8. Roadhouse Blues (7:29)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/piledriver-deluxe-version/1442895761" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/piledriver/1443775891" >}}<br>
 
 
+## Videos
+### Status Quo -  Piledriver
+{{< youtube id="D86wF03EpOM" title="Status Quo -  Piledriver" >}}<br>
+### More Videos
 
+- [Status Quo - Don't Waste My Time - HQ](https://www.youtube.com/watch?v=CwQHDZYX3ao)
+- [Oh Baby](https://www.youtube.com/watch?v=tLLbnsrSqzc)
+- [A Year](https://www.youtube.com/watch?v=QY3soJahMJ8)
+- [Unspoken Words](https://www.youtube.com/watch?v=G1s7w3UHjI8)
+- [Big Fat Mama](https://www.youtube.com/watch?v=sI3Pb97lZew)
+- [Paper Plane](https://www.youtube.com/watch?v=1efrwxr8ptc)
+- [All The Reasons](https://www.youtube.com/watch?v=A3uvinc8YAk)
+- [Roadhouse Blues](https://www.youtube.com/watch?v=EWtJYHIAKJs)
+- [PILEDRIVER - Status Quo Medley (Live Medley)](https://www.youtube.com/watch?v=G36WE1FMhuc)
 
 ## Release Images
 {{< imageGrid >}}

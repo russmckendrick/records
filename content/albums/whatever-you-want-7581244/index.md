@@ -40,7 +40,7 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 
 ## Videos
 ### Status Quo - Whatever You Want
-{{< youtube id="uLCOYGITsjA" title="Status Quo - Whatever You Want" >}}<br>
+{{< youtube id="BGUeRbHWNZ4" title="Status Quo - Whatever You Want" >}}<br>
 
 
 ## Release Images

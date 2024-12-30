@@ -12,16 +12,19 @@ cover:
     alt: "Technical Ecstasy by Black Sabbath"
     caption: "Technical Ecstasy by Black Sabbath"
 additional_images:
-    - "https://i.discogs.com/4_beEXrgO1Yd2DrHZT2lN8fGBhce_711zQY1aGxU7pA/rs:fit/g:sm/q:90/h:933/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS00NjQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/a2Jyn6u26EYwaAHbaEtu9BJxZ4yqf7qMuLifBxK0iis/rs:fit/g:sm/q:90/h:994/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS0xMzkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Rg-O7SG0eY3KWZrd16yhGRH_Z3ewCzbfKZ3zA871YNk/rs:fit/g:sm/q:90/h:1003/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS01MjYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/qG_ONQ8sUJMkPRMTu7o47qNaCGZoyXIe4Nm42jAtU04/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS00NjQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/wywr13XjQs6J5nsmRpiGx0-3Sx0nWFA6V2_5-eKfuL0/rs:fit/g:sm/q:90/h:600/w:362/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS0xMzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Znwp2MStu4eADoVILCu2SElTBSV4LgAGTKbMXx09-5U/rs:fit/g:sm/q:90/h:600/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc3/OS01MjYxLmpwZWc.jpeg"
     - "https://i.discogs.com/v8Ji_uj0jkGZFI7Ktbp4o0mID20cZd4PhSw8Rfsxj0k/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc4/NS04MTgxLmpwZWc.jpeg"
     - "https://i.discogs.com/7fsNuoQgiZAzoULipT08y9xOnyJKBd7Z6VDgKDOmRok/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTQtMTQyODkzODc4/NS05MDQ1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-Technical Ecstasy is the seventh studio album by English heavy metal band Black Sabbath, produced by guitarist Tony Iommi and released on 25 September 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997.
+Technical Ecstasy is the seventh studio album by English rock band Black Sabbath, produced by guitarist Tony Iommi and released in October 1976 by Vertigo Records. The album received mixed reviews from critics but was a commercial success, peaking at number 13 on the UK Albums Chart and number 51 on the US Billboard 200 Album chart, later being certified Gold by the RIAA in 1997.
+An attempt by the band to experiment and explore other musical territory, Technical Ecstasy features more varied and complex songs than earlier records, with prominent keyboard parts and effects. One song, the pop ballad "It's Alright", is sung by drummer Bill Ward, becoming the band's first song  not sung by frontman Ozzy Osbourne. 
+
+
     
     
 
@@ -37,21 +40,22 @@ Technical Ecstasy is the seventh studio album by English heavy metal band Black 
 8. Dirty Women (7:15)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy-2009-remastered-version/1193799249" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy/1439822515" >}}<br>
 
 
 ## Videos
-### Back Street Kids (2021 - Remaster)
-{{< youtube id="fIbSaZEQHhE" title="Back Street Kids (2021 - Remaster)" >}}<br>
+### You Won't Change Me (2009 - Remaster)
+{{< youtube id="2WemFC9_QOM" title="You Won't Change Me (2009 - Remaster)" >}}<br>
 ### More Videos
 
+- [Back Street Kids (2021 - Remaster)](https://www.youtube.com/watch?v=fIbSaZEQHhE)
+- [It's Alright (2009 - Remaster)](https://www.youtube.com/watch?v=dK34ypPMXUA)
+- [Dirty Women (2009 - Remaster)](https://www.youtube.com/watch?v=je9WddfojLg)
 - [You Won't Change Me (2021 - Remaster)](https://www.youtube.com/watch?v=8bvQvkybeXs)
-- [It's Alright (2021 - Remaster)](https://www.youtube.com/watch?v=LIHSiM4HbLM)
-- [Gypsy (2021 - Remaster)](https://www.youtube.com/watch?v=QOlicEjAobA)
-- [All Moving Parts (Stand Still) (2021 - Remaster)](https://www.youtube.com/watch?v=r_orTfF-8BU)
-- [Rock 'N' Roll Doctor (2021 - Remaster)](https://www.youtube.com/watch?v=-ZcGiL1xmwQ)
-- [She's Gone (2021 - Remaster)](https://www.youtube.com/watch?v=rpt3XO_Z9mI)
-- [Dirty Women (2021 - Remaster)](https://www.youtube.com/watch?v=j5LN6rpvdGY)
+- [Gypsy (2009 - Remaster)](https://www.youtube.com/watch?v=XegDtu1Ze38)
+- [Blac̶k̶ Sabba̶t̶h̶ - Technical Ecstasy (Full Album) 1976](https://www.youtube.com/watch?v=8Y5-at7d7YU)
+- [BLACK SABBATH - "Dirty Women" (Live Video)](https://www.youtube.com/watch?v=6EBk3czZXlQ)
+- [It's Alright (2013 Remaster)](https://www.youtube.com/watch?v=av06oJjdS9A)
 
 ## Release Images
 {{< imageGrid >}}

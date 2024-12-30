@@ -15,14 +15,23 @@ additional_images:
     - "https://i.discogs.com/izP5aWZECzANKJen5xU4HtQ2xagbtHKPXnlY9a60qR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQz/OC0zNjk4LmpwZWc.jpeg"
     - "https://i.discogs.com/yQz2b6kRm1wNVwpI1uVgcscQ3Oi_Eulf2npDeMp20rw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ0/NC04MDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/gsEkXtY3Zczz2wzCFu5JR_zEQI2aL1l10PtVfnElspI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ0/Ny05MjE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/tlK3aCN6uq4GZ8ERJYJnR-3YHgpP0Z32mYS0whE4LNY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ1/Ni00NDY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/1CPaG92xZrvzHuUoOJ19AMynk1hzuE4j6Cw18NSjypY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ2/MC04MzE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/2uWIZxiSeiIp3r_csvpQ80wqtaEcUyEi94-278x9vkU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ1/Ni00NDY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/kuQul7tg0kgHbsiV5REx8Dtn8I-sCuzOA1r_YF4FZ1A/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ2/MC04MzE1LmpwZWc.jpeg"
     - "https://i.discogs.com/UCNmUPQb0b_gn9tbZS9KWEVMwUHHSTzrU9JPBiJ2OTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ2/NS03MDQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/xceFgn-l5XKkVOMNDGWQbLLn3EyJb5-ihJWpkFqaizg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA4/MjYtMTYzMjU4ODQ2/OS0yMDI0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ---
 
+Blue for You is the ninth studio album by English rock band Status Quo. It was released in March 1976, and is the last album until 1980's Just Supposin' that the band produced themselves.
+Rick Parfitt's "Rain", the first single from the album, reached number 7 in the UK Singles Chart after its release in February 1976. Its B-side was the non-album track "You Lost the Love", written by Francis Rossi and Bob Young.
+The album was released the following month. It entered the UK Albums Chart at number 1 and stayed there for three weeks, making it one of their most successful albums. In the US, the album was self-titled Status Quo and had a different album cover.
+An edited version of Parfitt and Young's "Mystery Song", released in July that year, was the second single from the album, and peaked at number 11 a few months later. Parfitt and Alan Lancaster's "Drifting Away", from their 1974 album Quo, served as the single's B-side.
+In December that year the band decided to release a cover of "Wild Side of Life", a song made famous by Hank Thompson and His Brazos Valley Boys, and written by Arlie Carter and William Warren, as a non-album single. Its B-side was a new Rossi/Lancaster composition, "All Through the Night". The single reached number 9 in the UK.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -40,7 +49,13 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}<br>
 
 
+## Videos
+### STATUS QUO - BLUE FOR YOU
+{{< youtube id="26LIy1dqtzM" title="STATUS QUO - BLUE FOR YOU" >}}<br>
+### More Videos
 
+- [Statṵs̰ ̰Q̰uo--Blṵḛ For Yoṵ 1976 Full Album HQ](https://www.youtube.com/watch?v=9aPb4N7EPWk)
+- [Status Quo - Rain](https://www.youtube.com/watch?v=Z_mHSGlyRa0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,6 +63,7 @@ styles: ["Rock & Roll", "Classic Rock", "Pop Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Blue_for_You |
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723766 |

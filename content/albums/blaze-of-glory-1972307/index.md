@@ -22,8 +22,8 @@ genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 ---
 
-Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally requested Bon Jovi's "Wanted Dead or Alive" as the theme song for his upcoming Billy the Kid sequel, but Jon Bon Jovi ended up composing an all-new theme song for the film's soundtrack instead.
-The album featured guests such as Elton John, Little Richard, and Jeff Beck, was awarded a Golden Globe and received Academy Award and Grammy nominations.
+Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally approached Bon Jovi to ask him for permission to include the song "Wanted Dead or Alive" on the soundtrack.
+Elton John, Little Richard, and Jeff Beck contributed to the album. It was awarded a Golden Globe and received Academy Award and Grammy nominations.
     
     
 
@@ -42,29 +42,18 @@ The album featured guests such as Elton John, Little Richard, and Jeff Beck, was
 11. Guano City (1:00)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory-inspired-by-the-film-young-guns-ii/1440657641" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory/910055921" >}}<br>
 
 
 ## Videos
-### Billy Get Your Guns (From Young Guns II Soundtrack)
-{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From Young Guns II Soundtrack)" >}}<br>
+### Billy Get Your Guns (From "Young Guns II" Soundtrack)
+{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns (From "Young Guns II" Soundtrack)" >}}<br>
 ### More Videos
 
-- [Jon Bon Jovi - Billy Get Your Guns](https://www.youtube.com/watch?v=_Y7bPKURC0A)
-- [Miracle](https://www.youtube.com/watch?v=jgV4PiHDgU8)
-- [Jon Bon Jovi - Miracle (Official Video)](https://www.youtube.com/watch?v=wnM9WEha5E0)
-- [Blaze Of Glory (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=gBf0fNo5NXI)
-- [Jon Bon Jovi - Blood Money Music Video](https://www.youtube.com/watch?v=d51DXtvGxPA)
 - [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
-- [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
-- [Jon Bon Jovi - Santa Fe](https://www.youtube.com/watch?v=MQ56h4ql8Dk)
 - [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
-- [Justice In The Barrel](https://www.youtube.com/watch?v=AwgSBcEfZ2Q)
-- [Never Say Die](https://www.youtube.com/watch?v=Rr8rgh4q4xQ)
-- [You Really Got Me Now](https://www.youtube.com/watch?v=Fxhhbn9Mvs8)
-- [Bang A Drum](https://www.youtube.com/watch?v=gg9nKnWDuME)
-- [Dyin' Ain't Much Of A Livin'](https://www.youtube.com/watch?v=9kuGA621nr8)
-- [Guano City (From Young Guns II Soundtrack)](https://www.youtube.com/watch?v=P9gAd5Ax4OE)
+- [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
+- [Jon Bon Jovi - Miracle (Official Video)](https://www.youtube.com/watch?v=wnM9WEha5E0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +65,5 @@ The album featured guests such as Elton John, Little Richard, and Jeff Beck, was
 | Format         | Vinyl LP Album |
 | Label          | Vertigo |
 | Catalog Number | 846 473-1 |
-| Notes | Inspired by the film Young Guns II.  Recorded and mixed at A&M Studios, Los Angeles, California.   |
+| Notes | Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California.  Publishing Info:- A1 to B5: Polygram Music Publishing Ltd. B6: MCA Music Ltd. |
 | Discogs URL    | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307-Jon-Bon-Jovi-Blaze-Of-Glory) |
