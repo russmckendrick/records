@@ -13,11 +13,11 @@ cover:
     caption: "Laughter by Ian Dury And The Blockheads"
 additional_images:
     - "https://i.discogs.com/Qyq3QGsC-KQpST1sujBfTc0JDIQFTeNP-Lykj2zuWis/rs:fit/g:sm/q:90/h:367/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTM1OTM1MDE0/OS03NDE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZyNdjNxI-tM_N64bdP81T2BI_ctjQ8AAAcrQKh9vLck/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03NzM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/OqUKDYunxJIUPj4UP5vUc3SfrbVHLIl64acK7sli6qA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03NzM1LmpwZWc.jpeg"
     - "https://i.discogs.com/pRCNZyfLGQTAAJgyCmG1_0qvmXulGKAfBV1jG2Hnfn0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MS0yODM3LmpwZWc.jpeg"
     - "https://i.discogs.com/7JhooVedAXFHWBzxS16sypDBgiugPLpadK4q0qiz-DA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03MjUxLmpwZWc.jpeg"
     - "https://i.discogs.com/OjmG-_MGhMEmhSI4P96pokvigOvYG82zxWvL-L7A8GY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03MDMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/odq9MoLg-3AO_rMf9OFH1ov6QYM5POlYrJcjkgvG2RE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03MzUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Y8Gn5f0cIDpsCuM_nFf93YC3nze0bnCfpvZrJegpxLA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg3/MTMtMTYwNjA0MTM5/MC03MzUzLmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Disco"]
 ---
@@ -42,28 +42,24 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 12. Fucking Ada
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/laughter/1489399868" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/laughter/1488480484" >}}<br>
 
 
 ## Videos
-### Manic Depression (Jimi)
-{{< youtube id="CIhx64KPoRg" title="Manic Depression (Jimi)" >}}<br>
+### Ian Dury and The Blockheads -  Sueperman's Big Sister [Official Video]
+{{< youtube id="ITuRemn3naI" title="Ian Dury and The Blockheads -  Sueperman's Big Sister [Official Video]" >}}<br>
 ### More Videos
 
-- [Ian Dury and the Blockheads..Delusions of Grandeur](https://www.youtube.com/watch?v=_mkFbyJ3zd4)
-- [Oh Mr Peanut](https://www.youtube.com/watch?v=xSNpOb0lnJc)
-- [Delusions of Grandeur](https://www.youtube.com/watch?v=q8jO_yD4aRg)
-- [[Take Your Elbow out the Soup] You're Sitting on the Chicken](https://www.youtube.com/watch?v=cCTCJDSH8GQ)
-- [Fucking Ada](https://www.youtube.com/watch?v=XZe7uiq1qOk)
-- [Pardon](https://www.youtube.com/watch?v=qJEp2_zcsSk)
-- [Ian Dury - Supermans Big Sister](https://www.youtube.com/watch?v=QbFOgqc3Nfg)
-- [Dance of the Crackpots](https://www.youtube.com/watch?v=t0EnuWqY5Bw)
-- [Uncoolohol](https://www.youtube.com/watch?v=jPE_518dRHI)
-- [Ian Dury & the Blockheads 🇬🇧 - Pardon - Vinyl Laughter LP 🇵🇹 1980](https://www.youtube.com/watch?v=xZavklxmcaQ)
-- [Hey, Hey Take Me Away](https://www.youtube.com/watch?v=Py5psXv_QDQ)
-- [Yes and No (Paula)](https://www.youtube.com/watch?v=G5FA3UUTS98)
-- [Over the Points](https://www.youtube.com/watch?v=I52ghMrakdQ)
-- [Ian Dury & The Blockheads - Peter Gunn (Demo)](https://www.youtube.com/watch?v=TawPDndl_Os)
+- [Pardon](https://www.youtube.com/watch?v=SGTtf7LHjpc)
+- [Delusions of Grandeur](https://www.youtube.com/watch?v=kAsVTjeFbmo)
+- [Yes and No (Paula)](https://www.youtube.com/watch?v=sgNEx9A2n5E)
+- [Dance of the Crackpots](https://www.youtube.com/watch?v=XVfy37BALlk)
+- [Over the Points](https://www.youtube.com/watch?v=GktrZs1hr-Y)
+- [[Take Your Elbow out the Soup] You're Sitting on the Chicken](https://www.youtube.com/watch?v=3K9bibEhGfY)
+- [Uncoolohol](https://www.youtube.com/watch?v=bHIvP-YAqAE)
+- [Hey, Hey Take Me Away](https://www.youtube.com/watch?v=dX68r3Ie9HA)
+- [Manic Depression (Jimi)](https://www.youtube.com/watch?v=UjsfjUhhPto)
+- [Oh Mr Peanut](https://www.youtube.com/watch?v=DdJ8MIlPxak)
 
 ## Release Images
 {{< imageGrid >}}

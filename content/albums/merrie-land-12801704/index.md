@@ -36,7 +36,8 @@ I’d never been to St. Albans or Luton or Banbury. I hadn’t even really been 
 Yeah! I’ve never written so many lyrics, so that was a breakthrough for me. It’s something I’d like to explore—more words. I suppose it goes back to Jack Kerouac. Back to Betjeman on the train, it’s got a strong sense of kinship with that, and people like Patrick Hamilton and George Orwell.<br />
 <b>Three weeks before the release of <i>Merrie Land</i> you were still on tour with Gorillaz. How easy is it to switch between bands?</b>
 I just love making music, so it’s not that difficult. I had a strange four days: I finished the massive, euphoric gig in Mexico City [with Gorillaz] and then came back to a little room [in the UK] to rehearse for eight hours and go on national television. The only thing I regret is that we didn’t have a “work in progress” sign hanging over the microphone stand. Or cones and tape round us. We should’ve been wearing hi-vis jackets: “We haven’t quite built this place yet, but we’re definitely working at it.”
-    
+        
+        
     
 
 
@@ -71,6 +72,7 @@ I just love making music, so it’s not that difficult. I had a strange four day
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Merrie_Land |
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Studio 13 (4) |
 | Catalog Number | STUDIO13LPX |

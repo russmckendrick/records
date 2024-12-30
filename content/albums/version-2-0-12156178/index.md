@@ -17,23 +17,24 @@ additional_images:
     - "https://i.discogs.com/ygaxi_k4HVJFtM898H5kCEXRdZjMoMzLrlUmf45NdsA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MTYtMTY1My5qcGVn.jpeg"
     - "https://i.discogs.com/9zqj3GYB4iJEq65Eof_5gEu9IZXXqBXNx2k4iQ7_1JA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjctMjQwMy5qcGVn.jpeg"
     - "https://i.discogs.com/V0db5BADhpeffd0lSV4U44OzJciN7zWn9euSriysPAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzAtNDg1My5qcGVn.jpeg"
-    - "https://i.discogs.com/StuAlvL2ExC8G_jt-VoAafMpPWK6d8G1TWbZbh_OdRA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjQtODE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/kwQvcf0Z3EK8iBSGo10DYaa5GtLVZHmEPpzvzjBPINY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjQtODE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/x25CA0e884iJIn0Qxgy7hJrd53auz5-0n6b898xAFEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjUtODQ5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4XMz2Od9QB948vt2mSR-OwOy8mGh5xfDtC7XbGtWwZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzMtNDYzMC5qcGVn.jpeg"
     - "https://i.discogs.com/rO0dkV3tpMH0aVmwvmIO3GOAUaDa9DfApeBI2va662I/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MTUtNzA2NC5qcGVn.jpeg"
     - "https://i.discogs.com/Fr5VB6-4v2fltRbnZ_DrQsuytr6qhxTEO82G0fdFeC0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjEtNDExMy5qcGVn.jpeg"
     - "https://i.discogs.com/5LBrMZZr68H8r-QvRdacrvET4WEqHE3cEqJhfw1STec/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MTctMzg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/tmFZw5yoNkQx_jqtsT-04OGjASol4dZll4x0Hi08LYU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MjQtOTEyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/iTj5GeVzt6nsRtk8yD_Ko6zmGvsmT2X_4b-zJydO2a4/rs:fit/g:sm/q:90/h:931/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzAtNjQ3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/mxQMV1va-hzkW73mgaFsFoVvMFbXNzBdgGucP5Qm6vk/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzAtNjQ3NC5qcGVn.jpeg"
     - "https://i.discogs.com/NHhXk38uRWvPegtiXDmm4NmcktA3RL26XKGS1BZ1dM8/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzItOTUxMi5qcGVn.jpeg"
     - "https://i.discogs.com/RKWEqT0NMfl8KEx5o30uqYI-_jcEJSvw5kGNM1TyONI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE1MzA1Njk5/MzItNDkxNS5qcGVn.jpeg"
     - "https://i.discogs.com/KO30Mdsw5OoFq9Hm-QJOZVfeqACy6OdvHwIs1-5Qg8Q/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE2NTc0NzY1/MjEtNzA1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/NK-6wj6U4BRaCDAJ2o8xfCFtchJWZNp1Ay41Y9Agl8M/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE2NTc0NzY2/NTQtMjk4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/CMp06SFHhpNSaVlxseCgL6So_hfGGi0TRgumB2In-UU/rs:fit/g:sm/q:90/h:439/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MTc4LTE3MDQ5MTA5/MjEtMzg1My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Version 2.0 is the second studio album by American rock band Garbage. It was released on May 11, 1998, by Mushroom Records worldwide, with the North American release on Almo Sounds the following day. With this album, the band aimed to improve and expand upon the style of their 1995 eponymous debut rather than reinventing their sound. Lead singer Shirley Manson wrote dark, introspective lyrics, which she felt complemented the songs' melodies.
+Version 2.0 is the second studio album by Scottish/American rock band Garbage. It was released on May 11, 1998, by Mushroom Records worldwide, with the North American release on Almo Sounds the following day. With this album, the band aimed to improve and expand upon the style of their 1995 eponymous debut rather than reinventing their sound. Lead singer Shirley Manson wrote dark, introspective lyrics, which she felt complemented the songs' melodies.
 Version 2.0 was a commercial success, topping the charts in the United Kingdom, France, and New Zealand, and earning platinum certifications in several countries. The album has sold 1.7 million copies in the United States and four million copies worldwide. Garbage embarked on an 18-month-long world tour, and released a string of commercially successful singles backed with innovative music videos. Version 2.0 received generally positive reviews from critics, and was included on year-end lists of 1998's best albums by several publications. In 1999, it was nominated for Grammy Awards for Album of the Year and Best Rock Album. The album's third single "Special" was further nominated the following year for Best Rock Song and for Best Rock Performance by a Duo or Group.
 
 
@@ -56,10 +57,18 @@ Version 2.0 was a commercial success, topping the charts in the United Kingdom, 
 12. You Look So Fine
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/version-2-0-20th-anniversary-edition-2018-remaster/1544368240" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/version-2-0-the-official-remixes/1544793571" >}}<br>
 
 
+## Videos
+### G̲a̲rbage - V̲e̲rsion 2̲.0 [FULL ALBUM] ☆☆☆☆☆
+{{< youtube id="g8vKFHGSXBQ" title="G̲a̲rbage - V̲e̲rsion 2̲.0 [FULL ALBUM] ☆☆☆☆☆" >}}<br>
+### More Videos
 
+- [Garbage - I Think I'm Paranoid](https://www.youtube.com/watch?v=ypr18UmxOas)
+- [Garbage - Nulle Part Ailleurs, Canal+, France 1998](https://www.youtube.com/watch?v=AQRcgRmO6wM)
+- [Garbage - I Think I'm Paranoid + Push It [Nulle part ailleurs 1998]](https://www.youtube.com/watch?v=r4RPKqo18J4)
+- [Garbage - Temptation Waits (1998) #Pablo #Porcuna](https://www.youtube.com/watch?v=iynW2cCIiaQ)
 
 ## Release Images
 {{< imageGrid >}}

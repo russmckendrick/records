@@ -14,7 +14,7 @@ cover:
     caption: "Donuts by J Dilla"
 additional_images:
     - "https://i.discogs.com/ZUfwdEHU7R1tZW77Iw4BY9V7GxV24BdLEPYZ2NpVQGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE2MTk3NDU2/MzgtNjc2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/xt2j576XMSuQo-BN5VwD9iL5-SACVBY82pMgn6cCVZI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDUtMjE3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/oqESmlnvIR_xBKCs3wCmY9KR5FD_hwMrAe8bjKZrXJ0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDUtMjE3OC5qcGVn.jpeg"
     - "https://i.discogs.com/I0_Ck3ZzHGP0lZL-_wbMNF7mKu0mfBcBa1x3eCZsfRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODA4NDUz/NzQtMTk4OS5qcGVn.jpeg"
     - "https://i.discogs.com/8FNMjZh85UCYdEHbp_ndtZMmuyLcBy8IgjCqd9xoZ5M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDQtMzY0NC5qcGVn.jpeg"
     - "https://i.discogs.com/dBBU5uPdzFjI7Vmy92u-Gof_PR5rWVVp2FZCLmSvUsk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/OTI5LTE1ODI5OTI5/NDQtMTYyMy5qcGVn.jpeg"
@@ -27,9 +27,9 @@ genres: ["Hip Hop"]
 styles: ["Instrumental"]
 ---
 
-There should have been more records like <i>Donuts</i>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo, and De La Soul, among many others. He had an encyclopedic knowledge of obscure jazz, funk, and soul, and, as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
-An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing, and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
-But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posthumous releases: He suffered from lupus—he recorded some of <i>Donuts</i> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <i>Welcome 2 Detroit</i> ably showed off his chops, the all-instrumental <i>Donuts</i> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren, and <i>Looney Tunes</i> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant, and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
+There should have been more records like <I>Donuts</I>, many more. When J Dilla, aka Detroit’s James Yancey, made the album, he was 31 years old and widely celebrated as a producer of rare talent, having worked with Erykah Badu, D’Angelo and De La Soul, among many others. He had an encyclopaedic knowledge of obscure jazz, funk and soul, and as a talented drummer in his own right, he brought a rare sense of groove to the samples he chopped up on his trusty Akai MPC. <br />
+An entire tradition of beat music has been constructed atop the unique sense of swing that Dilla brought to the classic boom-bap cadence; “Dilla-esque” has become shorthand for a certain sensibility—a mixture of taste, timing and restraint—that was present in all his productions, and almost impossible to imitate, no matter how many have tried. <br />
+But <I>Donuts</I> was Yancey’s final missive, notwithstanding a flood of posthumous releases: he suffered from lupus—he recorded some of <I>Donuts</I> in his hospital bed, in fact—and died just three days after the record hit shelves in February, 2006. It’s likely the album would have become legendary under any circumstances. Where his 2001 vocal album <I>Welcome 2 Detroit</I> ably showed off his chops, the all-instrumental <I>Donuts</I> proved how much was possible from sampling alone. Drawing not only from staples like Dionne Warwick and The Jackson 5 but also soft rockers 10cc, Sex Pistols impresario Malcom McLaren and <I>Looney Tunes</I> composer Raymond Scott, Dilla wove brief loops into hypnotic sketches, most of them barely a minute long, that flowed into one overarching whole: the elegant expression of a state of mind that is by turns playful, defiant and tender, in which the smallest details snowball into the biggest feelings. Dilla’s legacy left generations of fans mourning his loss, but his final completed statement is bursting with joy.
         
         
     
@@ -77,13 +77,8 @@ But <i>Donuts</i> was Yancey’s final missive, notwithstanding a flood of posth
 {{< youtube id="fC3Cthm0HFU" title="J Dilla - Last Donut of the Night (Donuts) Official Video" >}}<br>
 ### More Videos
 
-- [Sample Breakdown: J. Dilla - Don’t Cry](https://www.youtube.com/watch?v=6By2YvpjjWw)
-- [Sniper Elite](https://www.youtube.com/watch?v=DtiJs1bDmHo)
 - [J Dilla - Workinonit - Donuts (Full Album)](https://www.youtube.com/watch?v=5nO7IA1DeeI)
-- [Sample Breakdown: J Dilla - Workinonit](https://www.youtube.com/watch?v=Pv_mHP0Ogxg)
-- [Murder Goons](https://www.youtube.com/watch?v=_NoWFXf-4Gc)
 - [J Dilla - Waves - Donuts (Full Album)](https://www.youtube.com/watch?v=vykkfDITkQs)
-- [J Dilla - Signs](https://www.youtube.com/watch?v=SD4WfUYrj5Q)
 - [J Dilla - Light It - Donuts (Full Album)](https://www.youtube.com/watch?v=C3zqYM3Rkpg)
 - [J Dilla - The New - Donuts (Full Album)](https://www.youtube.com/watch?v=0piaF7P3404)
 - [J Dilla - Stop - Donuts (Full Album)](https://www.youtube.com/watch?v=Ek_cufWYvjE)

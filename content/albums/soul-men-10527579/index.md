@@ -23,6 +23,12 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
+Soul Men is a 2008 American musical comedy film directed by Malcolm D. Lee, and starring Samuel L. Jackson, Bernie Mac, Sharon Leal and Sean Hayes, released on November 7, 2008. It was one of three Mac's films that were released after his death (and was actually released on the same date as another posthumous film, Madagascar: Escape 2 Africa).
+Mac and Isaac Hayes died on August 9 and 10, 2008, respectively.  Director Lee said the film was heavily re-edited to soften the tone of the film, as a tribute to the two actors.
+It is the last Weinstein Company film to be distributed by Metro-Goldwyn-Mayer.
+Critical reviews were mixed, and Soul Men was not a financial success.
+    
+    
 
 
 ## Tracklisting
@@ -43,16 +49,16 @@ styles: ["Soul"]
 
 
 ## Videos
-### Let It Be Me
-{{< youtube id="Sh_ujzyu78o" title="Let It Be Me" >}}<br>
+### Sam And Dave  I'm With You
+{{< youtube id="gTxg0V_Jkuk" title="Sam And Dave  I'm With You" >}}<br>
 ### More Videos
 
-- [Sam & Dave - Just Keep Holding On](https://www.youtube.com/watch?v=7Mn5ZJd74Cs)
+- [Let It Be Me](https://www.youtube.com/watch?v=Sh_ujzyu78o)
+- [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
 - [Broke Down Piece of Man](https://www.youtube.com/watch?v=J0rUeSccx-I)
 - [Sam & Dave- Soul Man](https://www.youtube.com/watch?v=m7sKnLrsOwo)
-- [SAM & DAVE  (Soul Man)](https://www.youtube.com/watch?v=7DL_qz8i9b4)
-- [Sam And Dave - Just Keep Holding On STAX STEREO](https://www.youtube.com/watch?v=w5-1H2-MVGM)
 - [Sam And Dave  I'm With You](https://www.youtube.com/watch?v=gTxg0V_Jkuk)
+- [Sam & Dave - Just Keep Holding On](https://www.youtube.com/watch?v=7Mn5ZJd74Cs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,8 +66,9 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Soul_Men |
 | Format         | Vinyl LP Album Reissue Mono (180g) |
 | Label          | Stax |
 | Catalog Number | 081227940577 |
-| Notes | Originally released on Stax in 1967 Manufactured in E.U. STAX 60 (60th Anniversary) Sticker  |
+| Notes | Originally released on Stax in 1967. Manufactured in E.U. STAX 60 (60th Anniversary) sticker.  Runouts are etched except 19193 1A MASTERED BY CAPITOL 19193 1B are stamped. |
 | Discogs URL    | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |

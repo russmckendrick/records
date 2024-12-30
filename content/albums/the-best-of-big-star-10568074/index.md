@@ -12,7 +12,7 @@ cover:
     alt: "The Best Of Big Star by Big Star"
     caption: "The Best Of Big Star by Big Star"
 additional_images:
-    - "https://i.discogs.com/wytyONwmGQS14oSVxjH_m2gda8jxffCeyqHFNZwCjws/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MDc0LTE1MDAwNTI1/NDgtNDAyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/AbxwT0xcFFLkJQzpkHc7f9VYBMaSlflxZUrxnTLxXaI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MDc0LTE1MDAwNTI1/NDgtNDAyNy5qcGVn.jpeg"
     - "https://i.discogs.com/jtN4DJPuoYZNjR4DUOj6_VzR4pl89V0GgOfnj1AWd5c/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MDc0LTE1MDAwNTI1/NTEtMjU3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop", "Pop Rock"]

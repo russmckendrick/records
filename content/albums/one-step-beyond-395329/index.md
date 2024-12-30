@@ -22,8 +22,8 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
-One Step Beyond . . . is the debut studio album by the British ska-pop group Madness, released by Stiff Records. Recorded and mixed in about three weeks, the album peaked at number two and remained on the U.K. Albums Chart for more than a year. The album has received much critical praise. It was ranked 90th in a 2005 survey held by British television's Channel 4 to determine the 100 greatest albums of all time.
-This was the first album produced by the Clive Langer and Alan Winstanley team, who would go on to produce more Madness albums and to work with artists such as Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.
+One Step Beyond... is the debut studio album by the British ska-pop group Madness, released by Stiff Records. Recorded and mixed in about three weeks, the album peaked at number two and remained on the UK Albums Chart for more than a year. The album has received much critical praise. It was ranked 90th in a 2005 survey held by British television station Channel 4 to determine the 100 greatest albums of all time.
+This was the first album produced by the team of Clive Langer and Alan Winstanley, who would go on to produce more Madness albums and to work with artists including Elvis Costello and the Attractions, Morrissey, Dexys Midnight Runners, They Might Be Giants and David Bowie.
 
 
     
@@ -48,31 +48,44 @@ This was the first album produced by the Clive Langer and Alan Winstanley team, 
 15. Chipmunks Are Go! (0:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one-step-beyond-deluxe-version/1208852389" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/one-step-beyond/1776999026" >}}<br>
 
 
 ## Videos
-### Madness - One Step Beyond (Official 4k Video)
-{{< youtube id="SOJSM46nWwo" title="Madness - One Step Beyond (Official 4k Video)" >}}<br>
+### Madness - Night Boat to Cairo (Official HD Video)
+{{< youtube id="lLLL1KxpYMA" title="Madness - Night Boat to Cairo (Official HD Video)" >}}<br>
 ### More Videos
 
+- [Madness - Bed and Breakfast Man](https://www.youtube.com/watch?v=IRANzd9a6l4)
+- [Madness - One Step Beyond (Official 4k Video)](https://www.youtube.com/watch?v=SOJSM46nWwo)
 - [Madness - My Girl (Official Video)](https://www.youtube.com/watch?v=Pw-8AGRcyvk)
-- [Madness - Night Boat to Cairo (Official HD Video)](https://www.youtube.com/watch?v=lLLL1KxpYMA)
 - [Madness - Believe Me (One Step Beyond Track 4)](https://www.youtube.com/watch?v=XV2w7Wt5mD8)
 - [Madness - Land Of Hope And Glory (One Step Beyond Track 5)](https://www.youtube.com/watch?v=-RLfJ9cx2IA)
 - [Madness - The Prince (One Step Beyond Track 6)](https://www.youtube.com/watch?v=mJsUblCxuJY)
 - [Madness - Tarzan's Nuts (One Step Beyond Track 7)](https://www.youtube.com/watch?v=W2avJpYBuE4)
 - [Madness - In The Middle Of The Night (One Step Beyond Track 8)](https://www.youtube.com/watch?v=gy9cYib432w)
-- [Madness - Bed and Breakfast Man](https://www.youtube.com/watch?v=IRANzd9a6l4)
 - [Madness - Razor Blade Alley (One Step Beyond Track 10)](https://www.youtube.com/watch?v=MGN3k1_4wVs)
 - [Madness - Swan Lake (One Step Beyond Track 11)](https://www.youtube.com/watch?v=Y94klcdpojQ)
 - [Madness - Rockin' In A Flat (One Step Beyond Track 12)](https://www.youtube.com/watch?v=J3Kcx3KXO74)
 - [Madness - Mummy's Boy (One Step Beyond Track 13)](https://www.youtube.com/watch?v=tj1dRCaOmHw)
 - [Madness - Madness (One Step Beyond Track 14)](https://www.youtube.com/watch?v=6sar3Ew9ZXQ)
 - [Madness - Chipmunks Are Go (One Step Beyond Track 15)](https://www.youtube.com/watch?v=5xVx8VCnZFA)
-- [Madness ‎– One Step Beyond...](https://www.youtube.com/watch?v=IuuYL_05mD4)
-- [Madness ‎– My Girl](https://www.youtube.com/watch?v=tpp4chKLJTc)
-- [Madness ‎– Night Boat To Cairo](https://www.youtube.com/watch?v=aU2nnpZu0S0)
+- [Madness - Night Boat to Cairo (Official HD Video)](https://www.youtube.com/watch?v=lLLL1KxpYMA)
+- [Madness - Bed and Breakfast Man](https://www.youtube.com/watch?v=IRANzd9a6l4)
+- [Madness - One Step Beyond (Official 4k Video)](https://www.youtube.com/watch?v=SOJSM46nWwo)
+- [Madness - My Girl (Official Video)](https://www.youtube.com/watch?v=Pw-8AGRcyvk)
+- [Madness - Believe Me (One Step Beyond Track 4)](https://www.youtube.com/watch?v=XV2w7Wt5mD8)
+- [Madness - Land Of Hope And Glory (One Step Beyond Track 5)](https://www.youtube.com/watch?v=-RLfJ9cx2IA)
+- [Madness - The Prince (One Step Beyond Track 6)](https://www.youtube.com/watch?v=mJsUblCxuJY)
+- [Madness - Tarzan's Nuts (One Step Beyond Track 7)](https://www.youtube.com/watch?v=W2avJpYBuE4)
+- [Madness - In The Middle Of The Night (One Step Beyond Track 8)](https://www.youtube.com/watch?v=gy9cYib432w)
+- [Madness - Razor Blade Alley (One Step Beyond Track 10)](https://www.youtube.com/watch?v=MGN3k1_4wVs)
+- [Madness - Swan Lake (One Step Beyond Track 11)](https://www.youtube.com/watch?v=Y94klcdpojQ)
+- [Madness - Rockin' In A Flat (One Step Beyond Track 12)](https://www.youtube.com/watch?v=J3Kcx3KXO74)
+- [Madness - Mummy's Boy (One Step Beyond Track 13)](https://www.youtube.com/watch?v=tj1dRCaOmHw)
+- [Madness - Madness (One Step Beyond Track 14)](https://www.youtube.com/watch?v=6sar3Ew9ZXQ)
+- [Madness - Chipmunks Are Go (One Step Beyond Track 15)](https://www.youtube.com/watch?v=5xVx8VCnZFA)
+- [Madness - One Step Beyond (Official Video)](https://www.youtube.com/watch?v=SOJSM46nWwo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +97,5 @@ This was the first album produced by the Clive Langer and Alan Winstanley team, 
 | Format         | Vinyl LP Album Misprint |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 17 |
-| Notes | Similar UK versions (SEEZ 17): [r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher; [r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher; [r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;  A Clanger / Alan Winstanley Production. Recorded at Eden & T.W. Studios. Mixed at Rushent's Mansion (The Lucky Bleeder).  ℗ 1979  All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.  Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues. The track B7 'Madness' is intentionally not credited on either the sleeve or label.  Runouts are etched except for the CBS mark which is stamped SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2 & 7) |
+| Notes | Similar UK versions (SEEZ 17): [r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher; [r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher; [r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;  A Clanger / Alan Winstanley Production. Recorded at Eden & T.W. Studios. Mixed at Rushent's Mansion (The Lucky Bleeder).  ℗ 1979  All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.  Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues. The track B7 'Madness' is intentionally not credited on either the sleeve or label.  Runouts are etched except for the CBS mark which is stamped SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2, 7 & 9) |
 | Discogs URL    | [Madness - One Step Beyond...](https://www.discogs.com/release/395329-Madness-One-Step-Beyond) |
