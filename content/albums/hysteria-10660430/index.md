@@ -17,10 +17,10 @@ additional_images:
     - "https://i.discogs.com/v_AO5ipZHbG9rENxJbddg2pyly7D_V9SLajPQ3yrBsM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NjgtNzgwNS5qcGVn.jpeg"
     - "https://i.discogs.com/MON1g9UNii6eIy6Qx1F8cCRcXCXjEb3sZ0s5zb44ZkE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzAtNzA5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/zCaTxh50kMkPiATlb4mrUviG-AHBj0P-LPh-HmjORxg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTQ5/MDEtNDUxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/nmZMUkF852Vsg4tYRWyGkGERTHrEDRiyrYxWzzPDOqE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUx/NDktMjkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/4SMnVipJ5R9Ed-RflzY1HHZyGr4jv_WHa70v_7XWkm8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUx/NDktMjkyNC5qcGVn.jpeg"
     - "https://i.discogs.com/l4FBVHrzo9L1j_eb2RFfjnDtRD3_xblm44uKsNTDoVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUx/NDItNTcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/BxvFeBKoenBxPzE6S8qmxVY4crQK_uxaUswxuXc0sPY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUy/ODUtMjg2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/YeyfMg7iB7-i0W5_BFNvvPkcj9i9UFuXH_vaUM9B688/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUy/OTItNzQzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/2HklDLzQGT8TzhL_b-e5Y_PbAX7bntNHqfyRsuq3U0Q/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDIzMTUy/OTItNzQzNC5qcGVn.jpeg"
     - "https://i.discogs.com/2psPWSpuACBkvzyXH7dkX49oAhyZZvNpzoohmMNJL1Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzEtOTAyNS5qcGVn.jpeg"
     - "https://i.discogs.com/4NJ1WfM5XrDWRCQGiECULTyEjxzatGPWHkiYQi3vkTY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzMtMTYzMi5qcGVn.jpeg"
     - "https://i.discogs.com/Ysbc0IyYPIEVMJCF2J-z4L7n04Psnz6B2bqk_dFDWQQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NDMwLTE1MDMzMTg3/NzQtMTU5NC5qcGVn.jpeg"
@@ -93,39 +93,16 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 
 
 ## Videos
-### Def Leppard - Animal
-{{< youtube id="NSH1mOtc9-8" title="Def Leppard - Animal" >}}<br>
+### Def Leppard - Hysteria (Long Version)
+{{< youtube id="yMzyleT2FqY" title="Def Leppard - Hysteria (Long Version)" >}}<br>
 ### More Videos
 
-- [Women - Def Leppard – Hysteria](https://www.youtube.com/watch?v=gGe2SHiSds8)
-- [Def Leppard - Hysteria (2017 European Vinyl)](https://www.youtube.com/watch?v=nE1Pzpf1YT4)
-- [DEF LEPPARD - Women (Official Music Video)](https://www.youtube.com/watch?v=4HR0P3sIb80)
-- [Rocket - Def Leppard – Hysteria](https://www.youtube.com/watch?v=IBk5iSeGLOU)
-- [Def Leppard - Gods Of War (Hysteria) (2017 European Vinyl)](https://www.youtube.com/watch?v=l0NHuo6AXn8)
-- [DEF LEPPARD - Pour Some Sugar On Me (Official Music Video)](https://www.youtube.com/watch?v=0UIB9Y4OFPs)
-- [Animal - Def Leppard – Hysteria](https://www.youtube.com/watch?v=3UN-RRDCwrc)
-- [Def Leppard - Hysteria (Long Version)](https://www.youtube.com/watch?v=yMzyleT2FqY)
-- [Love Bites - Def Leppard – Hysteria](https://www.youtube.com/watch?v=Ozdqqyh5lpU)
-- [DEF LEPPARD - Armageddon It (Official Music Video)](https://www.youtube.com/watch?v=urNFQw8VIvA)
-- [Armageddon It - Def Leppard – Hysteria](https://www.youtube.com/watch?v=5zD_kvE5vxI)
+- [DEF LEPPARD - "Pour Some Sugar On Me" (Official Music Video)](https://www.youtube.com/watch?v=0UIB9Y4OFPs)
+- [DEF LEPPARD - "Women" (Official Music Video)](https://www.youtube.com/watch?v=4HR0P3sIb80)
+- [DEF LEPPARD - "Armageddon It" (Official Music Video)](https://www.youtube.com/watch?v=urNFQw8VIvA)
 - [Def Leppard - Love Bites](https://www.youtube.com/watch?v=W4XiSFyYRE8)
-- [Gods Of War - Def Leppard – Hysteria](https://www.youtube.com/watch?v=lZIQG6OoMb8)
 - [Def Leppard - Rocket](https://www.youtube.com/watch?v=bpcc43NV394)
-- [Don't Shoot Shotgun - Def Leppard – Hysteria](https://www.youtube.com/watch?v=LP_pBT-Az0M)
-- [Def Leppard - Hysteria](https://www.youtube.com/watch?v=PSHHq-76C7c)
-- [Run Riot - Def Leppard – Hysteria](https://www.youtube.com/watch?v=sXRaREKnDjw)
-- [Def Leppard - Rocket](https://www.youtube.com/watch?v=g5qwFmmVHWs)
-- [Hysteria - Def Leppard – Hysteria](https://www.youtube.com/watch?v=xTTNJ2Ieerc)
-- [Def Leppard - Armageddon It](https://www.youtube.com/watch?v=am1odzz5qOc)
-- [Excitable - Def Leppard – Hysteria](https://www.youtube.com/watch?v=yqPHCny4BMo)
-- [Def Leppard - Run Riot](https://www.youtube.com/watch?v=xAzcvDS3spY)
-- [Love And Affection - Def Leppard – Hysteria](https://www.youtube.com/watch?v=olMfN2U82FE)
-- [Def Leppard - Pour Some Sugar On Me](https://www.youtube.com/watch?v=cks0erRtwGc)
-- [Def Leppard - Love And Affection](https://www.youtube.com/watch?v=TIywEbO35Rg)
-- [Def Leppard - Gods Of War](https://www.youtube.com/watch?v=9DLGIkJcLB4)
-- [Def Leppard - Animal](https://www.youtube.com/watch?v=nTII3X_naXI)
-- [Def Leppard - Women](https://www.youtube.com/watch?v=LNoKh2RcDTw)
-- [Def Leppard - Love Bites](https://www.youtube.com/watch?v=g-GhdSKnegU)
+- [CD / Def Leppard – Hysteria / 1987](https://www.youtube.com/watch?v=pqOz5oodPJE)
 
 ## Release Images
 {{< imageGrid >}}

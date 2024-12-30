@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/3ItphJwi4vF4uNr-6OEyMAgFkgv68N44t718qeHQZEE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDAzNjY1/OTItNDQ5My5qcGVn.jpeg"
     - "https://i.discogs.com/MC3VLOciu3qFkvunERKnZjPZzNsQeJVAirydyYclFXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/NTctMjYyMS5qcGVn.jpeg"
     - "https://i.discogs.com/rHcbJK6SZkbAVf7s9c89Kdj1lLTEOgBdtwfVODDEN8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/NjYtMTE0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/292ph6vNhRrqDWC1RfZtVa9QpPMpjJCUMRK38eyQFJw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDAzNjY1/OTQtNzIzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/rqU3lV3JOAaaw_bBtJpp4OMb8hniEkU8PeWqRQDFuTg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDAzNjY1/OTQtNzIzNi5qcGVn.jpeg"
     - "https://i.discogs.com/Av5GLNG8-elwBYupSfPe5TNzZRfHV94rg3f2iTX6aOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/ODUtNjQ4NC5qcGVn.jpeg"
     - "https://i.discogs.com/vRhmgMVRXpvpa_CAA57m8zq7gNiynFkY_47xDGR7tTQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/ODUtNjE4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/pWQWJFoa4q7e1ZbHjYeFn2-kGX5oSEaWlmux9jORjdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/ODUtMzI3NC5qcGVn.jpeg"
@@ -27,7 +27,7 @@ additional_images:
     - "https://i.discogs.com/wC_zk9Z_qjoGFckkFyJBO8chXlttl2Fo6KyB6OiYKlg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDExNDI1/NjEtMjUxOC5qcGVn.jpeg"
     - "https://i.discogs.com/sxwMp6PZf8ZDpjBXV0UMh54pktgfaHFYwCxNoZhfXcE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDExNDI1/NTUtNzY2OC5qcGVn.jpeg"
     - "https://i.discogs.com/7tcxST-4M6551g0vkzXrv3KygSG3f9rgjDgmY_KbdUI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDExNDI1/NDItMTc4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/26J11KL6raLoUuGxtbYwlZMu2g-TknluhdBv7kbMzXw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDExNDI1/MjAtNjk3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/b6U2YSOu4O-u6te0XeLYd96CAPov6XvPF28liaJA0M4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDExNDI1/MjAtNjk3MC5qcGVn.jpeg"
     - "https://i.discogs.com/WJUEYNS49Ac3oT_X8iMhJJnmWkBRXOm68WaS6xdPU4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/ODUtMjAyOC5qcGVn.jpeg"
     - "https://i.discogs.com/BYMcL2vN7A_IHtkUlLEutM39Cdtxqo6JVs8wQm0aa24/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MzkxLTE2MDEyMDc2/ODUtMTY3MS5qcGVn.jpeg"
 genres: ["Rock"]
@@ -70,7 +70,12 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}<br>
 
 
+## Videos
+### Roger Waters Pink Floyd The Wall Live In Berlin 1990   Another Brick In The Wall Feat  Cyndi Lauper
+{{< youtube id="txP_MDECJDQ" title="Roger Waters Pink Floyd The Wall Live In Berlin 1990   Another Brick In The Wall Feat  Cyndi Lauper" >}}<br>
+### More Videos
 
+- [Hey You - Roger Waters Live In Berlin 1990](https://www.youtube.com/watch?v=nr2kPDhIkHY)
 
 ## Release Images
 {{< imageGrid >}}

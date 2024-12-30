@@ -12,7 +12,7 @@ cover:
     alt: "Against The Odds 1974-1982 by Blondie"
     caption: "Against The Odds 1974-1982 by Blondie"
 additional_images:
-    - "https://i.discogs.com/3PmCXBcbV6DJjfhBgbZShZjVVgRKPV9x8j_e_UIxJFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NDYxLTE2NjE2Mzg3/MTUtNTYxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/XhiQjVgejhoiv0Unvma_uHaJ--aCkNrTQHBffjJQDHE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NDYxLTE2NjE2Mzg3/MTUtNTYxMi5qcGVn.jpeg"
     - "https://i.discogs.com/Od34EK44hSB6FpUVP5ilJWwoeUidIH-GgQjXG5rOFHU/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NDYxLTE2NjE1Mjc0/MTYtOTc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dpFSwZn3WllqUZAvt1Uh0E6xe2cfjhNmtQV2m0kT3cw/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NDYxLTE2NjE1Mjc0/MTYtODcxNS5qcGVn.jpeg"
     - "https://i.discogs.com/UYlMmsG7lnmJqK7WHXM7R6_92QHXEHTBasNEQDkRpE0/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NDYxLTE2NjE1Mjc0/MTctNDMwNS5qcGVn.jpeg"
@@ -32,7 +32,7 @@ styles: ["Power Pop", "Punk", "New Wave"]
 4. In The Flesh
 5. Look Good In Blue
 6. In The Sun
-7. A Shark In Jets Clothin
+7. A Shark In Jets Clothing
 8. Man Overboard
 9. Rip Her To Shreds
 10. Rifle Range
@@ -171,6 +171,37 @@ styles: ["Power Pop", "Punk", "New Wave"]
 {{< youtube id="bzVt7eerM28" title="Once I Had A Love (Betrock Demo)" >}}<br>
 ### More Videos
 
+- [Rapture (Disco Version)](https://www.youtube.com/watch?v=EaqqVT3gn-I)
+- [Little Girl Lies (Private Stock Mix)](https://www.youtube.com/watch?v=K14GND5NwuQ)
+- [Angels On The Balcony (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=CJgO8VI3hMU)
+- [The Disco Song (1974 Session)](https://www.youtube.com/watch?v=XJ-6bwCEX4g)
+- [The Hardest Part (Home Tape)](https://www.youtube.com/watch?v=Ff53JdsHyo8)
+- [In The Flesh (Extended Intro)](https://www.youtube.com/watch?v=GDmeThqyFKE)
+- [X Offender (Intro)](https://www.youtube.com/watch?v=pZh3iiwpWBY)
+- [I Love You Honey, Give Me A Beer (Go Through It)](https://www.youtube.com/watch?v=q0w_4hRFc08)
+- [I'm On E (Take 2)](https://www.youtube.com/watch?v=Q2F1FOp-Kbw)
+- [Sexy Ida (1974 Session)](https://www.youtube.com/watch?v=34lEv6Fec1c)
+- [Call Me](https://www.youtube.com/watch?v=wLFT_yd8ETY)
+- [Out In The Streets (Betrock Demo)](https://www.youtube.com/watch?v=mzH2B_DcuRI)
+- [Platinum Blonde (Betrock Demo)](https://www.youtube.com/watch?v=NM-6i2Td6bE)
+- [Denis (Terry Ellis Mix)](https://www.youtube.com/watch?v=cXH_sFiVZ34)
+- [Live It Up (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=taTy7cdaXxk)
+- [Heart Of Glass (Chris Stein Mix)](https://www.youtube.com/watch?v=DjUuraQjjMk)
+- [A Shark In Jets Clothing (Take 2)](https://www.youtube.com/watch?v=YwPwIqq7Hwk)
+- [Spaghetti Song (Atomic Pt. 2)](https://www.youtube.com/watch?v=jSRUIXhoa5s)
+- [The Tide Is High (Demo)](https://www.youtube.com/watch?v=k-R0ys8qJ0Q)
+- [Suzy & Jeffrey](https://www.youtube.com/watch?v=a2qkkUL2ivU)
+- [Puerto Rico (Betrock Demo)](https://www.youtube.com/watch?v=rTcOFFB5Wpo)
+- [Theme From Topkapi (Home Tape)](https://www.youtube.com/watch?v=is8WDfFcrpM)
+- [Ring Of Fire (Home Tape)](https://www.youtube.com/watch?v=aA88iqFNV7k)
+- [Kung Fu Girls (Take 8)](https://www.youtube.com/watch?v=agsqaNDr8f0)
+- [Bermuda Triangle Blues - Flight 45 (Take 1)](https://www.youtube.com/watch?v=55x7-aXkNPA)
+- [Out In The Streets (1974 Session)](https://www.youtube.com/watch?v=cIBMkBFsXYM)
+- [I'll Never Break Away From This Heart Of Mine (Pretty Baby)](https://www.youtube.com/watch?v=aT_DzisryzA)
+- [War Child (Chris Stein Mix)](https://www.youtube.com/watch?v=oSn0zJgLgH4)
+- [Call Me (Chris Stein Mix)](https://www.youtube.com/watch?v=CKShGxho-oA)
+- [Detroit 442 (Take 2)](https://www.youtube.com/watch?v=ugtslWVQ-g8)
+- [Once I Had A Love (Betrock Demo)](https://www.youtube.com/watch?v=bzVt7eerM28)
 - [Rapture (Disco Version)](https://www.youtube.com/watch?v=EaqqVT3gn-I)
 - [Little Girl Lies (Private Stock Mix)](https://www.youtube.com/watch?v=K14GND5NwuQ)
 - [Angels On The Balcony (Giorgio Moroder Demo)](https://www.youtube.com/watch?v=CJgO8VI3hMU)

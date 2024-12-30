@@ -23,9 +23,7 @@ genres: ["Rock"]
 styles: []
 ---
 
-"Lust for Life" is a 1977 song performed by Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it No. 325 in their 2021 updated list.
-
-
+"Lust for Life" is a 1977 song performed by American singer Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it at No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it at No. 325 in their 2021 updated list.
     
     
 
@@ -46,21 +44,20 @@ styles: []
 
 
 ## Videos
-### Lust For Life
-{{< youtube id="XPax7gTmgXA" title="Lust For Life" >}}<br>
+### Iggy Pop - Lust For Life
+{{< youtube id="jQvUBf5l7Vw" title="Iggy Pop - Lust For Life" >}}<br>
 ### More Videos
 
-- [Ig̲g̲y P̲op - L̲ust For L̲ife (Full Album) 1977](https://www.youtube.com/watch?v=XaJSOsoEBbk)
-- [Sixteen](https://www.youtube.com/watch?v=zw7USmXMEYo)
-- [Some Weird Sin](https://www.youtube.com/watch?v=NC3JDy6NudM)
-- [The Passenger](https://www.youtube.com/watch?v=1r08Ca8fk5Y)
-- [Tonight](https://www.youtube.com/watch?v=JKs43WYxpUw)
-- [Success](https://www.youtube.com/watch?v=jO6wevEWV8g)
-- [Turn Blue](https://www.youtube.com/watch?v=vfpKXo94SVg)
-- [Neighborhood Threat](https://www.youtube.com/watch?v=IT-T7aH__i8)
-- [Fall In Love With Me](https://www.youtube.com/watch?v=kSBqXcdxsJE)
-- [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
+- [Iggy Pop - Lust For Life (Edit / Audio)](https://www.youtube.com/watch?v=kbCghaLVTOY)
+- [Iggy pop-Lust for life-Lust for life](https://www.youtube.com/watch?v=HuBU3pzy7is)
+- [Iggy Pop - Sixteen](https://www.youtube.com/watch?v=Ef0pxxbkvr0)
+- [Iggy pop-Lust for life-Some weird sin](https://www.youtube.com/watch?v=D_uF6ObhDks)
 - [Iggy Pop - The Passenger (Official Video)](https://www.youtube.com/watch?v=-fWw7FE9tTo)
+- [Tonight - Iggy Pop](https://www.youtube.com/watch?v=i--aKHwPPJI)
+- [Iggy pop-Lust for life-Success](https://www.youtube.com/watch?v=zTprPVmF8wk)
+- [Iggy pop-Lust for life-Turn Blue](https://www.youtube.com/watch?v=XfUM_NOiWqs)
+- [Iggy pop-Lust for life-Neighbourhood threat](https://www.youtube.com/watch?v=g3L039-UQ-4)
+- [Iggy pop-Lust for life-Fall in love with me](https://www.youtube.com/watch?v=J8C6OfhbC6U)
 
 ## Release Images
 {{< imageGrid >}}

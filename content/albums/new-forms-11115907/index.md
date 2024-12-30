@@ -12,26 +12,25 @@ cover:
     alt: "New Forms by Roni Size / Reprazent"
     caption: "New Forms by Roni Size / Reprazent"
 additional_images:
-    - "https://i.discogs.com/y4w7XrqAImMRRaru2XHWJQ4jevBGdnz_qZXFoe__o6E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTYtOTE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qXp8ZyrX0ckePNUP1ZGGtyDWDDelOSDlhFtKiQDugw8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTYtOTE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/jvqwDfTUZb9cAqg4tbCpnfBaYX0SMeQI4M29TE8Fqzc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NjUtMTM0NS5qcGVn.jpeg"
     - "https://i.discogs.com/0Gc5vLFmK-SdvXS67J6vsvNQVR0IXKjIJXPJ1QOlX28/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzUtOTY4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/0wxwkvaMJzNLknB-_fM6wBwTLxq4aBnVYrnXTTvOf1Q/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTYtMTYzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/d39GnkLihOZVVodLNMhKr3JQ-xfTLJENYzcpL15jBAo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTQtOTI0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/2UK4fwe57HfiMqvLzoE2Qo6kGn_JuROz_YPQH2__OZo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NjAtNDYzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/4anj5sUkqF9hjav9QjlgVSMypUhTHUBwn-XYU2XGyMU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTktNDA2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/r8bype4u_TL6u1GEB1RVG645NptpnjiWAiYg9f9Z_yM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzQtMzk3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/7Cx3bkbn_8QxcwCiRIeCpALzzIi7hLmdEjYvoCD23JI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTYtMTYzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Tl4lWFzXXPLi-2X23Y2llhz4MbTDeW9GY1YfoF7gznc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTQtOTI0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/VXXTwyCwBM2_5mpYZ1GKqatCvelFRmDbVui6UHix5sI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NjAtNDYzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/bx9giMSb1dHwed1fF-ZESLNarujwBuSy-MzvJa9ZuVY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTktNDA2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/yk66E_eQzTOqBo_HSn5bDgvDwftJu9YgxxAczMPtY8k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzQtMzk3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/iQNe4NAwJEentgFuEJZt4GBfb7E5FEpebmlkx2OxoNI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/ODEtMzAyNy5qcGVn.jpeg"
     - "https://i.discogs.com/fHqsD6C5DUt5Ht2qxGahQpTz6YxxUhQjHwtG2plB1cI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzUtMTQ5My5qcGVn.jpeg"
     - "https://i.discogs.com/AvbachMSDlOtWO_VXffx2pDHygctangT6zaba75FWsM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzYtNDAxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/AjtmKeJb4cphyDjr_jCXL54M1o2dt4L_W1mK3B_HAxs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzUtMjE5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Joun4qZo1cJ2748VLdkUGuixq02Sus6glFxEomn9NtA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzgtNjEzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/VyUYyyUbZHR87UxkktzXtN74bL60wyBB6r1qb0bWqc4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzUtMjE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/hnfCRtgIcj4w2S8KFopyck-tgUcd0Wu3sNEZ7Baxuqg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NzgtNjEzMC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Drum n Bass"]
 ---
 
-New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was originally released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK Singles Chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.
-
-
+New Forms is the debut studio album by British drum and bass group Roni Size & Reprazent. It was released on 23 June 1997 through Talkin' Loud, and later re-released by Mercury Records and Universal Music Group. The album was released to critical and commercial success, winning the 1997 Mercury Prize, certifying platinum in the UK, and often being cited as their magnum opus.
+New Forms was promoted by the release of its four singles, "Share the Fall", "Heroes", "Brown Paper Bag" and "Watching Windows", all of which entered the UK singles chart and featured vocals from Onallee. The album features production credits from Roni Size, Krust, DJ Die and Suv.
     
     
 
@@ -53,34 +52,39 @@ New Forms is the debut studio album by British drum and bass group Roni Size & R
 14. Change My Life
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms-vol-2-remastered/1443805487" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/roni-size-reprazent-new-forms2/1669435573" >}}<br>
 
 
 ## Videos
-### Intro
-{{< youtube id="zQeWeU8lfvs" title="Intro" >}}<br>
+### RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )
+{{< youtube id="ivbFTbGQwzY" title="RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )" >}}<br>
 ### More Videos
 
-- [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
-- [Mad Cat](https://www.youtube.com/watch?v=sU5PQKFdCA4)
-- [RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )](https://www.youtube.com/watch?v=ivbFTbGQwzY)
-- [Roni Size and Reprazent - Railing pt. 1](https://www.youtube.com/watch?v=TjgFx2HdAGE)
-- [The Rebirth Of Cool Seven - Roni Size: Ballet Dance](https://www.youtube.com/watch?v=NPbUhIX8MaM)
-- [Roni Size - Matter Of Fact   1997](https://www.youtube.com/watch?v=ugULktqgGTo)
 - [RONI SIZE / REPRAZENT  -  New Forms  Disc 2 ( Full Album )](https://www.youtube.com/watch?v=Wi__R7WqB9w)
+- [Intro](https://www.youtube.com/watch?v=zQeWeU8lfvs)
+- [Roni Size and Reprazent - Railing pt. 1](https://www.youtube.com/watch?v=TjgFx2HdAGE)
 - [roni size-brown paper bag](https://www.youtube.com/watch?v=kUvCjREJSvA)
-- [Roni Size & Reprazent - Trust Me (Talkin' Loud)](https://www.youtube.com/watch?v=bitkNUl2mt0)
 - [Roni Size & Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
-- [Hi-Potent](https://www.youtube.com/watch?v=GOvOYcsWB6I)
-- [Roni Size / Reprazent - New Forms Feat. Bahamadia](https://www.youtube.com/watch?v=w5WESA3ACc4)
-- [Roni Size Reprazent - New Forms](https://www.youtube.com/watch?v=CIU37LagLUM)
+- [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
 - [Share The Fall](https://www.youtube.com/watch?v=77NASpKZw8Y)
-- [Roni Size, Reprazent - Brown Paper Bag](https://www.youtube.com/watch?v=cwI0gbGEyuI)
 - [Roni Size Reprazent - Watching Windows](https://www.youtube.com/watch?v=AZeGmKK8ZW0)
-- [New Forms](https://www.youtube.com/watch?v=SZ-H2fAwL-s)
 - [Roni Size / Reprazent - Morse Code](https://www.youtube.com/watch?v=Ii1Y98ziXYA)
 - [Roni Size Reprazent - Destination](https://www.youtube.com/watch?v=jthxuoPLt3E)
+- [Roni Size & Reprazent - Railing](https://www.youtube.com/watch?v=tQFyMhLzx-c)
+- [Roni Size Reprazent - Heroes](https://www.youtube.com/watch?v=Xb7fQhz21OU)
+- [The Rebirth Of Cool Seven - Roni Size: Ballet Dance](https://www.youtube.com/watch?v=NPbUhIX8MaM)
+- [Roni Size & Reprazent - Trust Me (Talkin' Loud)](https://www.youtube.com/watch?v=bitkNUl2mt0)
+- [Hi-Potent](https://www.youtube.com/watch?v=GOvOYcsWB6I)
+- [Mad Cat](https://www.youtube.com/watch?v=sU5PQKFdCA4)
+- [Roni Size - Matter Of Fact   1997](https://www.youtube.com/watch?v=ugULktqgGTo)
+- [Roni Size & Reprazent - New forms](https://www.youtube.com/watch?v=hFiAK4fD6Mk)
+- [Roni Size / Reprazent - New Forms Feat. Bahamadia](https://www.youtube.com/watch?v=w5WESA3ACc4)
+- [Roni Size Reprazent - New Forms](https://www.youtube.com/watch?v=CIU37LagLUM)
+- [Roni Size, Reprazent - Brown Paper Bag](https://www.youtube.com/watch?v=cwI0gbGEyuI)
+- [New Forms](https://www.youtube.com/watch?v=SZ-H2fAwL-s)
 - [Roni Size Reprazent -  Change My Life](https://www.youtube.com/watch?v=DVXhlpxutII)
+- [RONI SIZE / REPRAZENT  -  New Forms  Disc 1  ( Full Album )](https://www.youtube.com/watch?v=ivbFTbGQwzY)
+- [RONI SIZE / REPRAZENT  -  New Forms  Disc 2 ( Full Album )](https://www.youtube.com/watch?v=Wi__R7WqB9w)
 
 ## Release Images
 {{< imageGrid >}}
