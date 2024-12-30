@@ -24,7 +24,7 @@ genres: ["Electronic"]
 styles: ["IDM", "Acid", "Techno", "Ambient", "Electro", "Glitch"]
 ---
 
-For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has been surprisingly prolific since his 2014 comeback. He’s toyed with robots (<i>Computer Controlled Acoustic Instruments pt2 EP</i>) and shown off rare synths (<i>Cheetah EP</i>), but on <i>Collapse EP</i>, he revels in the sheer thrill of gonzo beatmaking. The multi-part epic “T69 collapse” begins simply, with rubbery electro rhythms and wistful synths, but halfway through, the drums go haywire and threaten to pull the track apart at any moment. “Pthex” follows a similarly fraught path, starting with gentle echoes of James’ early-’90s ambient works before tangling up in knots. And the streamlined “1st 44” strips back to virtually nothing but shuddering kicks and claps; it’s one of his heaviest drum tracks ever.
+For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has been surprisingly prolific since his 2014 comeback. He’s toyed with robots (<I>Computer Controlled Acoustic Instruments pt2 EP</I>) and shown off rare synths (<I>Cheetah EP</I>), but on <i>Collapse EP</i>, he revels in the sheer thrill of gonzo beatmaking. The multi-part epic “T69 collapse” begins simply, with rubbery electro rhythms and wistful synths, but halfway through, the drums go haywire and threaten to pull the track apart at any moment. “Pthex” follows a similarly fraught path, starting with gentle echoes of James’ early-’90s ambient works before tangling up in knots. And the streamlined “1st 44” strips back to virtually nothing but shuddering kicks and claps; it’s one of his heaviest drum tracks ever.
         
         
     
@@ -45,9 +45,8 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 {{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}<br>
 ### More Videos
 
-- [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 - [Aphex Twin- MT1 t29r2 (Collapse EP)](https://www.youtube.com/watch?v=0MtrLA_jmow)
-- [Aphex twin - abundance10edit (2 R8's, FZ20m & A 909)](https://www.youtube.com/watch?v=6NRhSQiP1X8)
+- [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +58,5 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP423 |
-| Notes | Regular version. Includes a download card for the EP plus bonus track 'Pthex'.   Side A label features a smaller Aphex Twin logo compared to side B.  Made in EU.   Orders through Bleep include two additional Collapse EP artwork related stickers.  XIV, 1T & 1⊥ in runouts is mirroed. |
+| Notes | Regular version. Includes a download card for the EP plus bonus track 'Pthex'. Orders through Bleep include two additional Collapse EP artwork related stickers.  Two circular black stickers on cover, on front glued to shrinkwrap: "[Aphex Twin logo] Aphex Twin / Collapse Ep" plus download hint. On bigger sticker of rear: title, tracklist and credits. Generic black die-cut inner sleeve.  Side A label features a smaller Aphex Twin logo compared to side B.   Runouts are etched. XIV, 1T & 1T (⊥) in runouts are mirrored.  ℗ 2018 Warp Records Ltd © 2018 Warp Records Ltd  Made in EU.  |
 | Discogs URL    | [Aphex Twin - Collapse EP](https://www.discogs.com/release/12513366-Aphex-Twin-Collapse-EP) |

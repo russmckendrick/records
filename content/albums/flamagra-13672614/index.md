@@ -15,8 +15,13 @@ cover:
 additional_images:
     - "https://i.discogs.com/5ZQw8gupFkFnhJRGzqmC8QfGot_yGOiSIIaP-WFqomk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI2/OTQtNTkyNC5qcGVn.jpeg"
     - "https://i.discogs.com/fI090ZHSNth31rLmkJVjDShluxoWyfJ9g6rRcAfsj3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/MDEtNzk1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/maHWI1AzMAzEKepESU4wP2z7XMCisLbbis62z3P0sn4/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE2OTcxNTI4/NDktNzcwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/x9ClZR2NoC07_z4mbk2mS0rlPU36rqII-DTzdARFaFk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE2OTcxNTI4/NjQtNDQ1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ODnbNPol1iO52UfzNO2gTVkWoFloCtqcaV79uSFve2g/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE2OTcxNTI4/NjQtOTI4NS5qcGVn.jpeg"
     - "https://i.discogs.com/66NCwecdd4YpKbPhUyvyasn9q105FBY8j3M5-7AC5Dk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/MTYtNjc0NS5qcGVn.jpeg"
     - "https://i.discogs.com/31uOtuW3LFqgmZEQ0NCr1f1e-du-tdGN2DAiI636P7I/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/MjMtNTg4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/JaZnFm8-LaKP-gGSNW5jDQL9XsNHH-T1QODKnYP9xVc/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE2OTcxNTI4/NjUtODkxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Tz5duOqOZpz5TbQn5blExqd46UNJSFtV0A1txX3Wmpk/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE2OTcxNTI4/NjQtODIxNC5qcGVn.jpeg"
     - "https://i.discogs.com/9ZwW9BkHAMNV58YbIE7sza0BhswaFc5flYLOn-LqI4Q/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/MzEtODU5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/zPwCwTp42tIbDvvyrq5rGOX2kq_x7LkuDlR70Udapak/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/MzYtNDE2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/cX-1d3xlHPUdwOCCdfRywinuMBoYx0WXoECCzAyNmrw/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NjE0LTE1NTg3MzI3/NDItNzAyNC5qcGVn.jpeg"
@@ -24,9 +29,9 @@ genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Abstract", "Jazzy Hip-Hop", "Fusion"]
 ---
 
-In the middle of writing his sixth album <i>Flamagra</i>, Steven Ellison—the experimental electronic producer known as Flying Lotus—took up piano lessons. “It’s never too late!” the 35-year-old tells Apple Music. “It's always nice to have someone checking your technique and calling you on your bullshit.” For the past decade, Ellison’s primary tool has been his laptop, but for this album, he committed to learning each instrument. “It actually made me faster,” says the artist, who is a product of LA’s beat scene and the grandnephew of John and Alice Coltrane. “Suddenly, I could hear every part.” Inspired by the destructive wildfires that swept California's coastline and the deadly 2016 Ghost Ship fire, which broke out at a warehouse in Oakland, <i>Flamagra</i>—a jazzy, psychedelic concept album that spans 27 tracks—imagines a world in which Los Angeles was lit by an eternal flame. “One that was contained, and good,” he says. “How would we <i>use</i> it?'" To explore that heady framework, he tapped some of pop culture's most out-of-the-box thinkers, including George Clinton, David Lynch, Anderson .Paak, and Solange—all visionary artists with specific points of view who, Ellison knows, rarely do guest features. "The fact is, most of these artists are my friends," he says. "I like to do things organically. That's the only way it feels right." Read on for the story behind each collaboration.<br />
+In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the experimental electronic producer known as Flying Lotus—took up piano lessons. “It’s never too late!” the 35-year-old tells Apple Music. “It's always nice to have someone checking your technique and calling you on your bullshit.” For the past decade, Ellison’s primary tool has been his laptop, but for this album, he committed to learning each instrument. “It actually made me faster,” says the artist, who is a product of LA’s beat scene and the grand-nephew of John and Alice Coltrane. “Suddenly, I could hear every part.” Inspired by the destructive wildfires that swept California's coastline and the deadly 2016 Ghost Ship fire, which broke out at a warehouse in Oakland, <I>Flamagra</I>—a jazzy, psychedelic concept album that spans 27 tracks—imagines a world in which Los Angeles was lit by an eternal flame. “One that was contained, and good,” he says. “How would we <I>use</I> it?'" To explore that heady framework, he tapped some of pop culture's most out-of-the-box thinkers, including George Clinton, David Lynch, Anderson .Paak and Solange—all visionary artists with specific points of view who, Ellison knows, rarely do guest features. "The fact is, most of these artists are my friends," he says. "I like to do things organically. That's the only way it feels right." Read on for the story behind each collaboration.<br />
 <b>Anderson .Paak, "More"</b>
-"I first met Andy a long time ago. He's a drummer and grew up around Thundercat and Ronald Bruner Jr., two amazing musicians Andy was probably inspired by. So I chased him down and we recorded the demo to 'More.' It was dope, but it was never done. There were things both of us wanted to change. For years I'd run into him at parties where he'd be like, 'What's up with the song, man? Is it done yet? Why ain't it done yet?' It became this running joke with his big ol' toothy smile. Then, finally, we got it done. And now we don't have nothin' to talk about."<br /> 
+"I first met Andy a long time ago. He's a drummer and grew up around Thundercat and Ronald Bruner Jr., two amazing musicians Andy was probably inspired by. So I chased him down and we recorded the demo to 'More'. It was dope, but it was never done. There were things both of us wanted to change. For years I'd run into him at parties where he'd be like, 'What's up with the song, man? Is it done yet? Why ain't it done yet?' It became this running joke with his big ol' toothy smile. Then, finally, we got it done. And now we don't have nothin' to talk about."<br /> 
 <b>George Clinton, "Burning Down the House"</b>
 "I made this beat while I was in a big Parliament phase. One day, George came through and I threw it on. We sat next to each other working on it—the lyrics, the arrangements. And even though he's so brilliant, I was able to help fill in little gaps that made it work with the album's concept, so it was truly collaborative. It also gave me more confidence writing lyrics, which isn't something I normally do that often."<br /> 
 <b>Yukimi Nagano of Little Dragon, "Spontaneous"</b> 
@@ -45,9 +50,10 @@ In the middle of writing his sixth album <i>Flamagra</i>, Steven Ellison—the e
 "Toro is the person I always wind up in vans with at festivals. Somehow, I always wind up in the van with Toro. We play a lot of the same shows, we get picked up from the same hotels, and he's just always in the van, or on the plane, things like that. Over time, I guess I started to feel a kindred spirit thing, even though he's someone I don't know too well. But finally we were like, 'We gotta make something happen.'"<br /> 
 <b>Solange, "Land of Honey"</b> 
 "I'd been trying to make this song happen for a long time. We initially started it for a documentary film that didn't pan out. But I really loved the song and always thought it was special, so I kept on it. I kept working on it, kept to trying to figure out how to tie it into the universe that I was building. Eventually, we recorded it here at the house and just felt really organic, really natural. She's someone I'd definitely like to keep working with."<br /> 
-<b>Honorable Mention: Mac Miller</b> 
-"A couple songs on the album, like 'Find Your Own Way Home' and 'Thank U Malcolm,' were inspired by Mac. 'Thank U Malcolm' is special to me because it's my way of thanking him for all the inspiration he left behind in his passing, and for all the fire he inspired in me, Thundercat, and all of our friends. He made us want to be better, to let go of the bullshit. And now, you know, none of us are out here experimenting with drugs or anything. That's largely because of him. After he left us, everyone was like, 'You know what? Fuck all that shit.' In a way, in his passing, he's got friends of mine clean. He'll always mean a lot to me."
-    
+<b>Honourable Mention: Mac Miller</b> 
+"A couple songs on the album, like 'Find Your Own Way Home' and 'Thank U Malcolm', were inspired by Mac. 'Thank U Malcolm' is special to me because it's my way of thanking him for all the inspiration he left behind in his passing, and for all the fire he inspired in me, Thundercat and all of our friends. He made us want to be better, to let go of the bullshit. And now, you know, none of us are out here experimenting with drugs or anything. That's largely because of him. After he left us, everyone was like, 'You know what? Fuck all that shit.' In a way, in his passing, he's got friends of mine clean. He'll always mean a lot to me."
+        
+        
     
 
 
@@ -85,56 +91,9 @@ In the middle of writing his sixth album <i>Flamagra</i>, Steven Ellison—the e
 
 
 ## Videos
-### Flying Lotus - Post Requisite
-{{< youtube id="2XY0EHSXyk0" title="Flying Lotus - Post Requisite" >}}<br>
-### More Videos
+### Flying Lotus - Flamagra FULL Album + Instrumentals
+{{< youtube id="6BFXbeVM0jY" title="Flying Lotus - Flamagra FULL Album + Instrumentals" >}}<br>
 
-- [Flying Lotus - Black Balloons Reprise (Official Video) ft. Denzel Curry](https://www.youtube.com/watch?v=Isn8Qp-H0N4)
-- [Takashi (Instrumental)](https://www.youtube.com/watch?v=c9dxT9kW3ss)
-- [Flying Lotus - More (feat. Anderson .Paak) [Official Video]](https://www.youtube.com/watch?v=ylqBPksn36A)
-- [Land Of Honey (Instrumental)](https://www.youtube.com/watch?v=nyA6W6ZIbxM)
-- [Flying Lotus - Fire Is Coming feat. David Lynch](https://www.youtube.com/watch?v=aTrTtzTQrv0)
-- [Heroes (Instrumental)](https://www.youtube.com/watch?v=Ee_oq3dl5y4)
-- [Heroes](https://www.youtube.com/watch?v=aDDvwoABgwE)
-- [Fire Is Coming (Instrumental)](https://www.youtube.com/watch?v=XRRnvciRWgc)
-- [Post Requisite](https://www.youtube.com/watch?v=QbytIjGOqqk)
-- [The Climb (Instrumental)](https://www.youtube.com/watch?v=m3P0I1YoNhw)
-- [Heroes In A Half Shell](https://www.youtube.com/watch?v=hzLjObMptFo)
-- [Remind U (Instrumental)](https://www.youtube.com/watch?v=_5cyiOSGZdY)
-- [Flying Lotus - More (feat. Anderson .Paak) [Official Audio]](https://www.youtube.com/watch?v=Xl0XBQ08wbg)
-- [FF4 (Instrumental)](https://www.youtube.com/watch?v=4PorNMjd2fo)
-- [Capillaries](https://www.youtube.com/watch?v=uuUe2PWtV1Y)
-- [Say Something (Instrumental)](https://www.youtube.com/watch?v=59XfRXg8-EE)
-- [Burning Down The House (feat. George Clinton)](https://www.youtube.com/watch?v=h4Z-mTcAsPU)
-- [Find Your Own Way Home (Instrumental)](https://www.youtube.com/watch?v=8BcyuMW1UYg)
-- [Spontaneous (feat. Little Dragon)](https://www.youtube.com/watch?v=Yi67hQf2AjA)
-- [Capillaries (Instrumental)](https://www.youtube.com/watch?v=8UxyRlNZxos)
-- [Takashi](https://www.youtube.com/watch?v=YrygJAr13Dk)
-- [Actually Virtual (Instrumental)](https://www.youtube.com/watch?v=_NmiwKoIXUk)
-- [Pilgrim Side Eye](https://www.youtube.com/watch?v=rynqb6m8FnM)
-- [Hot Oct. (Instrumental)](https://www.youtube.com/watch?v=6K_MssVNPKs)
-- [All Spies](https://www.youtube.com/watch?v=cDlBO3ja3rw)
-- [Andromeda (Instrumental)](https://www.youtube.com/watch?v=E9in2n6WB58)
-- [Yellow Belly (feat. Tierra Whack)](https://www.youtube.com/watch?v=Z8rSTXeyMns)
-- [Yellow Belly (Instrumental)](https://www.youtube.com/watch?v=y8rg0o3oYiY)
-- [Flying Lotus - Black Balloons Reprise (feat. Denzel Curry) [Official Audio]](https://www.youtube.com/watch?v=hc7K4q3P2wg)
-- [Thank U Malcolm (Instrumental)](https://www.youtube.com/watch?v=XeGjeo2eT84)
-- [Fire Is Coming (feat. David Lynch)](https://www.youtube.com/watch?v=hcKBell84GQ)
-- [Pilgrim Side Eye (Instrumental)](https://www.youtube.com/watch?v=xjyRXnnh-6U)
-- [Inside Your Home](https://www.youtube.com/watch?v=_sCLw79q0wc)
-- [Actually Virtual (feat. Shabazz Palaces)](https://www.youtube.com/watch?v=iwDJa2F2Tlc)
-- [Andromeda](https://www.youtube.com/watch?v=49ajVcXyG4A)
-- [Remind U](https://www.youtube.com/watch?v=CTNJ18bU4Dc)
-- [Say Something](https://www.youtube.com/watch?v=UJnEh2Xx4yA)
-- [Debbie Is Depressed](https://www.youtube.com/watch?v=j1pwFuOnyXc)
-- [Find Your Own Way Home](https://www.youtube.com/watch?v=M6yta67jRPQ)
-- [The Climb (feat. Thundercat)](https://www.youtube.com/watch?v=8hcv3q7vNTY)
-- [Pygmy](https://www.youtube.com/watch?v=uyd-ymw6_MU)
-- [9 Carrots (feat. Toro y Moi)](https://www.youtube.com/watch?v=r_VEXk2oJ7E)
-- [FF4](https://www.youtube.com/watch?v=mDJf4vKgevE)
-- [Land Of Honey (feat. Solange)](https://www.youtube.com/watch?v=UZ_v07WeVmE)
-- [Thank U Malcolm](https://www.youtube.com/watch?v=lYPgHsI1mkw)
-- [Hot Oct.](https://www.youtube.com/watch?v=mRo8gxvhJCg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -142,6 +101,7 @@ In the middle of writing his sixth album <i>Flamagra</i>, Steven Ellison—the e
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flamagra |
 | Format         | Vinyl 2× LP Album Limited Edition (Red) |
 | Label          | Warp Records |
 | Catalog Number | WARPLP291 |

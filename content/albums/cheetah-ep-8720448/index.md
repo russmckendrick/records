@@ -15,8 +15,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/Of0yKG4CB-Wi7SQO3_E9TFQhHmT-7W2BBeRR_sg_abA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2NzgyMTA5/MS00Njk2LmpwZWc.jpeg"
     - "https://i.discogs.com/3Ud21CooUXuqJAn1az7sVwPviwtmKfW6K3wAcGzmq8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2NzgyMzQ4/MS01NzMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/A9Dq-2K5ktAIxZy6a67OZ9jj6yLR1r8wUfyvGsooqK4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2Nzg4MjE4/MS04MzI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZURCZbbpR6BXq321bTHNmA-lwfU2lXMY41ZODe_ezn4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2Nzg4MjEz/MC04NDg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/9Xmpfw2e-fB-WaeadDXw3lOEqF34yE3t2NB7Qh0PR28/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2Nzg4MjE4/MS04MzI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/4tSvLAjCJxWfPcVvbiEgf2kocN8dK_Z4N2vtVlk252s/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2Nzg4MjEz/MC04NDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/wVS3JSATZNkIkVQnX9aZIKw-o3OW3qAwRuCCl6iHfpo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTU0MTM1NDk5/My0xOTgxLmpwZWc.jpeg"
     - "https://i.discogs.com/55_HZKAHhbBVHvx4JKo5LnpaFiJCnGR0nKupHbT8qnc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTU0MTM1NDk5/My00NzE2LmpwZWc.jpeg"
     - "https://i.discogs.com/tH6OLR2DqRzepM5xgDV36avv9oSETwr7DGrq4HRaHPo/rs:fit/g:sm/q:90/h:364/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA0/NDgtMTQ2Nzk2OTQw/Mi0zNjYxLnBuZw.jpeg"
@@ -27,7 +27,7 @@ genres: ["Electronic"]
 styles: ["Techno", "IDM"]
 ---
 
-After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5,” James makes the most of the challenge.
+After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Cheetah</i> EP is a brief but luminescent set of velvety acid and warped sound experiments—made with the notoriously difficult, early ‘90s synth of the same name. As heard on highlights “CHEETAHT7b” and “2X202-ST5”, James makes the most of the challenge.
     
     
 
@@ -47,13 +47,15 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 
 
 ## Videos
-### Cheetaht2 [Ld Spectrum]
-{{< youtube id="3fYeGslglCc" title="Cheetaht2 [Ld Spectrum]" >}}<br>
+### Aphex Twin - CIRKLON3 [ Колхозная mix ]
+{{< youtube id="ZEP-Qpw3lHg" title="Aphex Twin - CIRKLON3 [ Колхозная mix ]" >}}<br>
 ### More Videos
 
-- [Aphex Twin - CHEETAHT7b](https://www.youtube.com/watch?v=cJcHE1C0BWQ)
-- [Aphex Twin - CHEETA1b ms800](https://www.youtube.com/watch?v=r_g75_gIau8)
-- [Cheeta2 Ms800](https://www.youtube.com/watch?v=n-EsxoAtzw0)
+- [CHEETAHT2 [Ld spectrum]](https://www.youtube.com/watch?v=mdSUg3FrffY)
+- [CIRKLON 1](https://www.youtube.com/watch?v=bNY7sgb9R1I)
+- [Aphex Twin - CIRKLON3 [ Колхозная mix ]](https://www.youtube.com/watch?v=ZEP-Qpw3lHg)
+- [CHEETAHT2 [Ld spectrum]](https://www.youtube.com/watch?v=mdSUg3FrffY)
+- [CIRKLON 1](https://www.youtube.com/watch?v=bNY7sgb9R1I)
 
 ## Release Images
 {{< imageGrid >}}

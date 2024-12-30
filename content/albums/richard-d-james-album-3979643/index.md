@@ -16,11 +16,17 @@ additional_images:
     - "https://i.discogs.com/s1cEqlhEWkXJrRRf3p2eibZ3w4WBqzLepGDcvEGytvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/NDMtMTM2MDUzNTk0/OS03MjY3LmpwZWc.jpeg"
     - "https://i.discogs.com/Bnyx1_sFk9SI1n-40z0n2fA1WmXKRg-mGs0K1IulyCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/NDMtMTM2MDUzNTk1/NS0xNzIzLmpwZWc.jpeg"
     - "https://i.discogs.com/RsF00SleuGYVADIc0-JrKyy_xqqbsv5YC2IojD1Vs8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/NDMtMTM2MDUzNTk2/MC03NDQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Yp2UNZPbibX1ataZ5w0iRG8A8Vj84vTaOU2qXfVBqWE/rs:fit/g:sm/q:90/h:924/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/NDMtMTM2MDUzNTk2/Ni04MDU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/tf2yRFUUrFZ_pC5_6M78AnuNNv49_Em-iDXxt2kelZY/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/NDMtMTM2MDUzNTk2/Ni04MDU5LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ---
 
+Richard D. James Album is the fourth studio album by the British electronic music artist and producer Richard D. James under the alias of Aphex Twin. It was released on 4 November 1996 through Warp Records. It was composed by James on his Macintosh computer, and took longer to complete than his previous albums. It features fast breakbeats and intricate drum programming which draw from jungle and drum and bass. James' drum loops are paired with lush string arrangements, and ambient melodies reminiscent of his earlier work, as well as modulated vocals from James.
+Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 62 on the Albums Chart. In the US it charted at No. 20 on Billboard's Top Heatseekers Albums chart. It had sold over 100,000 units by 1997, making it Warp's most commercially successful release at the time. It received critical acclaim, with much of the praise going to its production. It has since been described as one of the best albums of 1996 and the 1990s overall by music critics.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,15 +50,8 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 {{< youtube id="7WAa3tY6cfo" title="4" >}}<br>
 ### More Videos
 
-- [Aphex Twin - Cornish Acid](https://www.youtube.com/watch?v=TkyTltnqdlg)
-- [Peek 824545201](https://www.youtube.com/watch?v=JVKCw_qlSvo)
-- [Fingerbib](https://www.youtube.com/watch?v=v3-KGSuJy_s)
-- [Carn Marth](https://www.youtube.com/watch?v=Pb2HJsYvjaw)
-- [Aphex Twin - To Cure A Weakling Child](https://www.youtube.com/watch?v=pugC5qZ_SXU)
-- [Goon Gumpas](https://www.youtube.com/watch?v=NMYIVsdGfoo)
-- [Aphex Twin - Yellow Calx](https://www.youtube.com/watch?v=2dHKh-Nu1oU)
-- [Aphex Twin - Girl/Boy Song](https://www.youtube.com/watch?v=mkxz3nU5vOI)
-- [Aphex Twin - Logan Rock Witch (video)](https://www.youtube.com/watch?v=vycZbHX-Fq0)
+- [Cornish Acid](https://www.youtube.com/watch?v=zPzgeK8tBp0)
+- [Fingerbib](https://www.youtube.com/watch?v=Sz0FxOZk_L4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +59,7 @@ styles: ["IDM", "Acid", "Abstract", "Jungle", "Drum n Bass", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Richard_D._James_Album |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Warp Records |
 | Catalog Number | WARP LP 43 |

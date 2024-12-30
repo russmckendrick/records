@@ -12,15 +12,17 @@ cover:
     alt: "Margerine Eclipse by Stereolab"
     caption: "Margerine Eclipse by Stereolab"
 additional_images:
-    - "https://i.discogs.com/Wf6j1ycH4hC6p_fCYwL6nEgjRiuzduLkUpff7Cxo-Yc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/MzgtNDM4My5qcGVn.jpeg"
-    - "https://i.discogs.com/xfuGeQHXBz0diNM6RffqFtC2mF6UXyIkXrMG8J-QRmI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/NDEtNjgyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/qhueujWisagoRJ48EI20G4yiL7JzwcS2fbC9tSfur6w/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzQ3OTc3/NTctMTYxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/mgxxKG7dUMdyzeBt5GWpuHd7ktKx1P0U-W75gPGpQJI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/MzgtNDM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/cLHGp9fITx66oas7vF5WMobXuhmpQemM0xfBeU_OlrA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzU5NDAz/NDEtNjgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/dXU0crm-siocgHlWBiu1iTpxMFdpq37bBKhuHECvu0E/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUy/MzA3LTE1NzQ3OTc3/NTctMTYxOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock", "Synth-pop", "Indie Rock"]
 ---
 
 Margerine Eclipse is the eighth studio album by English-French rock band Stereolab. It was released on 27 January 2004 in the United States by Elektra Records and on 2 February 2004 in the United Kingdom by Duophonic Records. The album is in large part a eulogy to former band member Mary Hansen, who died in 2002.
-By June 2004, Margerine Eclipse had sold over 40,000 copies in United States. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
+By June 2004, Margerine Eclipse had sold over 40,000 copies in the USA. A remastered and expanded edition of the album was released by Duophonic and Warp on 29 November 2019.
+
+
     
     
 

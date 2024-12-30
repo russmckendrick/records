@@ -80,10 +80,11 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 
 
 ## Videos
-### #1
-{{< youtube id="PsjmDUEWRxo" title="#1" >}}<br>
+### Aphex Twin - #17 - Warp Records 1992 Reissue Selected Ambient Works Volume II IDM Breakcore
+{{< youtube id="vLvLFzqMytc" title="Aphex Twin - #17 - Warp Records 1992 Reissue Selected Ambient Works Volume II IDM Breakcore" >}}<br>
 ### More Videos
 
+- [#1](https://www.youtube.com/watch?v=PsjmDUEWRxo)
 - [#2](https://www.youtube.com/watch?v=USBksMW5J48)
 - [#3](https://www.youtube.com/watch?v=75O11W5EZAU)
 - [#4](https://www.youtube.com/watch?v=j85bwytcr6s)
@@ -107,6 +108,19 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 - [#22](https://www.youtube.com/watch?v=tw6qVKHj0cM)
 - [#23](https://www.youtube.com/watch?v=YUFFmEEtufs)
 - [#24](https://www.youtube.com/watch?v=KMYlEVVfjag)
+- [Aphex Twin - Z Twig](https://www.youtube.com/watch?v=j2i8eb5b84A)
+- [Aphex Twin - th1 [evnslower] (Official Audio)](https://www.youtube.com/watch?v=CoM0JarMMvo)
+- [Aphex Twin - Rhubarb Orc. 19.53 Rev (Official Audio)](https://www.youtube.com/watch?v=U3Ii9Q5YMeM)
+- [Aphex Twin - #17 - Warp Records 1992 Reissue Selected Ambient Works Volume II IDM Breakcore](https://www.youtube.com/watch?v=vLvLFzqMytc)
+- [Aphex Twin - Selected Ambient Works Volume II (Expanded Edition) (Full Album)](https://www.youtube.com/watch?v=MW3tcBRe41w)
+- [Aphex Twin - th1 [evnslower] (Official Audio)](https://www.youtube.com/watch?v=CoM0JarMMvo)
+- [Aphex Twin - Selected Ambient Works II Listening Event // Tate Modern, 25 October 2024](https://www.youtube.com/watch?v=uk2B57LWHJM)
+- [Aphex Twin - Selected Ambient Works Volume II (Expanded Edition) (Full Album)](https://www.youtube.com/watch?v=MW3tcBRe41w)
+- [Aphex Twin - Selected Ambient Works II (Full Album - 2017 Reissue with Bonus Track)](https://www.youtube.com/watch?v=-57Ti2i_yhU)
+- [Aphex Twin - Selected Ambient Works II (Full Album - 2017 Reissue with Bonus Track) [RE-UPLOAD]](https://www.youtube.com/watch?v=5mDFrfTeRK0)
+- [Aphex Twin - Selected Ambient Works, Vol  2 (Disc 1) (HQ)](https://www.youtube.com/watch?v=OVQuNZfKSI0)
+- [Aphex Twin - Selected Ambient Works, Vol  2 (Disc 2) (HQ)](https://www.youtube.com/watch?v=gapGyEAe0lU)
+- [Aphex Twin - Selected Ambient Works Volume II CD2 (1994)](https://www.youtube.com/watch?v=V5Ow7zOLQ14)
 
 ## Release Images
 {{< imageGrid >}}
@@ -115,8 +129,8 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Selected_Ambient_Works_Volume_II |
-| Format         | Vinyl 4× LP Album Bioplastic Reissue Remastered (Expanded Edition) |
+| Format         | Vinyl 4× LP Album Bioplastic Reissue Remastered Stereo (Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | WARPLP21R |
-| Notes | Black 4LP vinyl in polylined innersleeves in foil blocked wide spine jacket. Includes a fold-out insert with liner notes and a sticker sheet. Pressed on BioVinyl.  Track names taken from Warp's website. |
+| Notes | Black 4LP vinyl in polylined innersleeves in foil blocked wide spine jacket. Includes a fold-out insert with liner notes and a sticker sheet. Pressed on BioVinyl.  On label: ℗ and © Warp Records 2024  On insert: ℗ 2024 Warp Records Limited © 2024 Warp Records Limited  Blue Calx taken from Rephlex/[url=https://www.discogs.com/release/51236-Various-The-Philosophy-Of-Sound-And-Machine]Art2cd[/url]  Made in EU  Track names taken from Warp's website.  Plating stamper " V1, +1, 1+, -l2, T1 and x1" in runouts are mirrored. |
 | Discogs URL    | [Aphex Twin - Selected Ambient Works Volume II](https://www.discogs.com/release/31768115-Aphex-Twin-Selected-Ambient-Works-Volume-II) |

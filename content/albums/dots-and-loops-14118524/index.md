@@ -15,7 +15,21 @@ cover:
 additional_images:
     - "https://i.discogs.com/nXlGIli2G_i53WYCYTz83I8RGM_EE4rdBK6KIF5k9Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMjQ2/NDMtMTE4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/BWZxUNaUG5BWo1RaPmajyoWVqa8Zs9Bb0yPmA0XyZ5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMjQ2/NTYtMzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/DNSuH588ib1FtNjdw4rI9orIoG20nAAkssNOB3HXqfg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtNjc0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/frw68fev75nefnWQSxm1UM63cw-bdnZr34LLOHS0H-A/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/OTEtODgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Qw_kgEeP1u7l9EBYW9ysFQPIk7GDXZCp24X5UJmspAc/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtMjM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/TBr-FGkqVPSOKlZIjkhOBJbXX-SkaB-KDbUXq74yKcA/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtOTU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/PiMSh8oTUJBl99ocrSKInkbey1nAxW8ieVWO7jRmzFU/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtODExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/XMoQzNFV_W2ynh0SK7q9_nnfvu0XI62Pnk9CXecvgWU/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTYtMTM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/4xaUU74z5CCaiEzXxPXLHxfRH4VvqAl-BWP-OtOrKSA/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtMjYxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/tHYKqQ_YOY6CY927m8e7mi5fruELcROiWIdHpCLWkeg/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTYtNzY1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/jdhZnALSl2xRadOyMslMd8kpwoMYJk4qAqJNNIgqlkA/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtNDQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/6dYa7Gy-xcIgBCGqNtXZERAmI3ds9DU3bGUd3esTS-Y/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTQtMzAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/oF7lT8oB7rjWQM5vCt7dJNwpktMWsNRnnejBGXCT8VM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtMjk1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/1XTO30uKi0r44arl-qUxLazJKwDB4ZmjHvKTRg15xlg/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE1NjgzMDA1/MTEtMzE0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/O040JC80QlsIX6ReF-BlO2fgJgJGoXXhLoFaJvtJTco/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTQtOTY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/gcx6k5UlqZnI2TlJmXfjMHt7wmW8hl0brNqNytF4uV8/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzcx/MTUtNjA2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/1mHoLCO_-lJi5SafgiGUJQlqkBcGN8YLkiG0wzc6p8A/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NTI0LTE3MjMyNzc0/NDktMTUyNi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Post Rock", "Experimental"]
 ---
@@ -58,10 +72,11 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 
 
 ## Videos
-### Stereolab - Miss Modular (Official Video)
-{{< youtube id="Q2kuPgS1Hi4" title="Stereolab - Miss Modular (Official Video)" >}}<br>
+### Stereolab - Dots and Loops (1997) (Full Album)
+{{< youtube id="vbeJ4-OMorU" title="Stereolab - Dots and Loops (1997) (Full Album)" >}}<br>
 ### More Videos
 
+- [Brakhage](https://www.youtube.com/watch?v=OhuNtCzQsVQ)
 - [Brakhage](https://www.youtube.com/watch?v=QdnX8-HDgaY)
 - [Miss Modular](https://www.youtube.com/watch?v=H5GW9xG19t4)
 - [The Flower Called Nowhere](https://www.youtube.com/watch?v=NqhkqnSg164)
