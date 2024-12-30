@@ -12,11 +12,11 @@ cover:
     alt: "Raw Like Sushi by Neneh Cherry"
     caption: "Raw Like Sushi by Neneh Cherry"
 additional_images:
-    - "https://i.discogs.com/7S8TuhzU4YbkPOI6kusXg9tEpdHlfpuUvVkV2u6QXys/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjUtNDM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/trRw8XJysIkE2erEnxMITZMsnt2b2kOmlnSBySNGxrY/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjUtNDM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/cHt1bbh2vvczGLqE5TpyBH2EUieoGAVhZt6An4rk59o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjQtMzQyMi5qcGVn.jpeg"
     - "https://i.discogs.com/89RUUX1jGT_F8kPNb6VQTQTYL2Davdx8qcneOKuq_Qk/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE1ODAzMDc0/NjYtMTI0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/uTUAzE0LOlP8xFS0pu4i8lLDKmlr_8A9W04Tdx9CBxk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtODQ5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/kp5xYNWJbO4Gjy3hjZAy3kxiASO4LrO1FkSMlsdgjBU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzctNzc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/d6iAHT4u4_SPcI1Efh7FGdjCQYyYHtXDdySSxXAOw6w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtODQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ODllqvFUxto0y2ttM01_16-94AeOcwLKC2DyCmslD4c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzctNzc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Df-sUKtTvtE6xgAw_Vlw8f6gtLvRuwZA26m4OetQ_-0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtNTA3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/0RGgzbxA94nb784L_j3icTZHVKOXawyfe5f5Qrafc9A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/MjI1LTE2NTU0NzM4/NzgtNTg0OS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Funk / Soul"]
@@ -24,6 +24,8 @@ styles: ["Dance-pop", "Acid Jazz", "Big Beat", "Downtempo", "Pop Rap", "Contempo
 ---
 
 Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, released 5 June 1989 by Virgin Records. The album includes the commercially successful single "Buffalo Stance".
+
+
     
     
 
@@ -45,49 +47,56 @@ Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, relea
 
 
 ## Videos
-### Neneh Cherry - Buffalo Stance (Official Music Video)
-{{< youtube id="JWsRz3TJDEY" title="Neneh Cherry - Buffalo Stance (Official Music Video)" >}}<br>
+### Neneh Cherry - Manchild
+{{< youtube id="OJ9VBMBS3qE" title="Neneh Cherry - Manchild" >}}<br>
 ### More Videos
 
-- [Neneh Cherry - Manchild](https://www.youtube.com/watch?v=OJ9VBMBS3qE)
-- [Neneh Cherry - Kisses On The Wind](https://www.youtube.com/watch?v=J31Xh8-R3IY)
 - [Neneh Cherry - Inna City Mamma](https://www.youtube.com/watch?v=9K1BMRG0efw)
-- [Inna City Mamma](https://www.youtube.com/watch?v=j13Ah4O1E8I)
-- [The Next Generation](https://www.youtube.com/watch?v=EMhqdgUgC-M)
-- [Love Ghetto](https://www.youtube.com/watch?v=QaNPtKtUbjg)
+- [Neneh Cherry - Heart](https://www.youtube.com/watch?v=5G0MLuPJIuU)
 - [Neneh Cherry - Heart](https://www.youtube.com/watch?v=gexJL7-cEaw)
-- [Phoney Ladies](https://www.youtube.com/watch?v=HJR7P8Lu_cA)
-- [Outré Risqué Locomotive](https://www.youtube.com/watch?v=SLoHcIiZfbc)
-- [Neneh Cherry - So Here I Come](https://www.youtube.com/watch?v=IhSW_6-6L48)
-- [My Bitch](https://www.youtube.com/watch?v=osFx9iBgH04)
+- [Neneh Cherry - Kisses On The Wind](https://www.youtube.com/watch?v=J31Xh8-R3IY)
+- [Neneh Cherry - Buffalo Stance (12" version)](https://www.youtube.com/watch?v=tWWFA4qHwvs)
+- [Buffalo Stance - Neneh Cherry](https://www.youtube.com/watch?v=BCSml-3e9RQ)
+- [Neneh Cherry   Buffalo Stance   YouTube](https://www.youtube.com/watch?v=8-6OV4VVTV4)
+- [Neneh Cherry - Buffalo Stance [1988]](https://www.youtube.com/watch?v=qYI6FMPMlgw)
+- [Neneh Cherry - "Buffalo Stance" 1988 (Videoclip)](https://www.youtube.com/watch?v=EDUFtxn3TFg)
+- [Neneh  Cherry  -  Buffalo  Stance ( Vídeo Official )](https://www.youtube.com/watch?v=ceSnqSu07Es)
+- [Club MTV - Buffalo Stance *1989*](https://www.youtube.com/watch?v=V1qpLLoL77g)
+- [Neneh Cherry - Buffalo Stance](https://www.youtube.com/watch?v=E6V45EZFPA4)
+- [Neneh Cherry - Buffalo Stance (TOTP)](https://www.youtube.com/watch?v=ToNvjTrNlL8)
+- [Neneh Cherry - Buffalo Stance (Formel Eins)](https://www.youtube.com/watch?v=mtpUFxYbfL4)
+- [N̲e̲n̲e̲h̲ C̲h̲e̲r̲r̲y̲ | R̲a̲w̲ L̲i̲k̲e̲ S̲u̲s̲h̲i̲](https://www.youtube.com/watch?v=AQOybjpjIbA)
+- [Neneh Cherry - Buffalo Stance (Official Music Video)](https://www.youtube.com/watch?v=JWsRz3TJDEY)
+- [Neneh Cherry - Inna City Mamma](https://www.youtube.com/watch?v=9K1BMRG0efw)
+- [Neneh Cherry - Manchild](https://www.youtube.com/watch?v=OJ9VBMBS3qE)
+- [Neneh Cherry   Raw Like Sushi 1989](https://www.youtube.com/watch?v=shxrpyZQBtI)
+- [N̲e̲n̲e̲h̲ C̲h̲e̲r̲r̲y̲ | R̲a̲w̲ L̲i̲k̲e̲ S̲u̲s̲h̲i̲](https://www.youtube.com/watch?v=AQOybjpjIbA)
+- [Neneh Cherry - My Bitch - 1989 - Raw like Sushi](https://www.youtube.com/watch?v=FdGCPzI6Uck)
 - [Heart (Demo Version)](https://www.youtube.com/watch?v=ORkdb3xv5uQ)
-- [Buffalo Stance (Sukka Mix)](https://www.youtube.com/watch?v=5IMbWYCfjvI)
-- [Manchild (Old School Mix)](https://www.youtube.com/watch?v=LP3uYYUvrPg)
-- [Inna City Mamma](https://www.youtube.com/watch?v=-G5ubTH2eG0)
-- [The Next Generation](https://www.youtube.com/watch?v=NT4a4BH9A6w)
-- [Love Ghetto](https://www.youtube.com/watch?v=U9clp79GAdk)
-- [Phoney Ladies](https://www.youtube.com/watch?v=MTn1uMH7S20)
-- [Outré Risqué Locomotive](https://www.youtube.com/watch?v=tc9BVkhuhFw)
-- [My Bitch](https://www.youtube.com/watch?v=j0KRT9w0hGE)
 - [Heart (Demo Version)](https://www.youtube.com/watch?v=43coragBJpM)
-- [Buffalo Blues](https://www.youtube.com/watch?v=D0e3ZO3VfPg)
+- [Buffalo Stance (Sukka Mix)](https://www.youtube.com/watch?v=5IMbWYCfjvI)
 - [Buffalo Stance (Sukka Mix)](https://www.youtube.com/watch?v=XwyIsxaC0ME)
-- [Buffalo Stance (Electro Ski Mix)](https://www.youtube.com/watch?v=s94foZV9Q24)
-- [Buffalo Stance (Arthur Baker's 1/2 Way 2 House Mix)](https://www.youtube.com/watch?v=rfUac28PaeI)
-- [Buffalo Stance (Arthur Baker's Nearly Neu Beat Mix)](https://www.youtube.com/watch?v=M39uQUP-ANY)
-- [Buffalo Stance (Kevin Saunderson's Techno Stance Remix I)](https://www.youtube.com/watch?v=9bYybYxvoSo)
+- [Neneh Cherry~Buffalo Stance [Sukka Mix]](https://www.youtube.com/watch?v=K-UteKivYrs)
+- [Neneh Cherry – Buffalo Stance (Sukka Mix) (1989)](https://www.youtube.com/watch?v=5v3kPGPQfBY)
+- [NENEH CHERRY  buffalo stance (sukka mix)](https://www.youtube.com/watch?v=OE_c_7ZSc_M)
+- [Neneh Cherry - Buffalo Stance (Sukka Mix) (Vinyl, 1988)](https://www.youtube.com/watch?v=ijSctjNe598)
+- [Buffalo Stance (Sukka Mix) - Neneh Cherry | 80s Dance Music | 80s Club Mixes | 80s Club Music](https://www.youtube.com/watch?v=fnKFyaut2qo)
+- [Neneh Cherry "Buffalo Stance" (sukka mix)](https://www.youtube.com/watch?v=SkMVL1FWMZE)
+- [Neneh Cherry ~ Buffalo Stance (Sukka Mix)](https://www.youtube.com/watch?v=Xd8IMOggJpc)
+- [Manchild (Old School Mix)](https://www.youtube.com/watch?v=LP3uYYUvrPg)
 - [Manchild (Old School Mix)](https://www.youtube.com/watch?v=5UJebzvEYSo)
-- [Manchild (Massive Attack Remix)](https://www.youtube.com/watch?v=K5FKRHYnfIg)
-- [Manchild (Massive Attack Bonus Beats)](https://www.youtube.com/watch?v=t0KbPI3nKlE)
-- [Manchild (Smith 'N' Mighty Remix)](https://www.youtube.com/watch?v=wwovSS6QmNM)
-- [Manchild (Smith 'N' Mighty More Bass / Less Vocal Style)](https://www.youtube.com/watch?v=6ZVgsrd_d_0)
-- [Inna City Mamma (Cold Blooded Remix)](https://www.youtube.com/watch?v=VejI0_xY6pE)
-- [Kisses On The Wind (12” Spanish Mix)](https://www.youtube.com/watch?v=QPnQSm_pFaw)
-- [Kisses On The Wind (Dynamic Duo + Latin Rascals Mix)](https://www.youtube.com/watch?v=zWSU6oZEiSQ)
-- [Neneh Cherry - Kisses On The Wind (Lovers Hip-Hop Extended Version / Audio)](https://www.youtube.com/watch?v=nwTzTY_53lI)
-- [The Next Generation (The Rap One Mix)](https://www.youtube.com/watch?v=9NvyT-tDrcs)
-- [The Next Generation (Sub-Woofer Mix)](https://www.youtube.com/watch?v=1fagkxqDRm4)
-- [Neneh Cherry - Heart (Club Mix / Audio)](https://www.youtube.com/watch?v=fbUXFN9wT8I)
+- [Neneh Cherry - Manchild (The Old School Mix)](https://www.youtube.com/watch?v=gZBXR30cueA)
+- [Manchild (Old School Mix) - Neneh Cherry](https://www.youtube.com/watch?v=HP19KZ7Nmjo)
+- [Manchild (Old School Mix) Neneh Cheery](https://www.youtube.com/watch?v=K9DjDMqM80M)
+- [Neneh Cherry - Manchild (The Old School Mix)](https://www.youtube.com/watch?v=SlsQTgu3zAo)
+- [Neneh Cherry - manchild (The Old School Mix) 1989](https://www.youtube.com/watch?v=oLPvql5f3zQ)
+- [Neneh Cherry - Manchild (The Old School Mix)](https://www.youtube.com/watch?v=fkke13_cgTU)
+- [Manchild (Old School Mix) - Neneh Cherry | 80s Club Mixes | 80s Club Music | 80s Club Mix](https://www.youtube.com/watch?v=OT9CVEdVa3Y)
+- [Neneh Cherry * Manchild - Ol'SKOOL MIX.](https://www.youtube.com/watch?v=fQ_cmw3acdc)
+- [Neneh Cherry-Manchild (Old School Mix)-Carlitoo](https://www.youtube.com/watch?v=-jzN-0C5hxA)
+- [Neneh Cherry Manchild (Old School Mix) (1989) (CD Maxi)](https://www.youtube.com/watch?v=FbFkF_eyFQU)
+- [Neneh Cherry - Manchild (The Old School mix)](https://www.youtube.com/watch?v=0PK8cNR8lcQ)
+- [Manchild (The Old School Mix) - Neneh Cherry](https://www.youtube.com/watch?v=VELmm15Zor8)
 
 ## Release Images
 {{< imageGrid >}}

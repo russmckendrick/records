@@ -14,21 +14,22 @@ cover:
     caption: "Nothing's Shocking by Jane's Addiction"
 additional_images:
     - "https://i.discogs.com/JeZsscT8ZuxEivTlUsc6czKvDh6ZLvtU0OaHUNSXuSs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTM4ODc2OTQ5/My02ODMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/a_AXqAVj7muvJhS_vn0d5eX8YpSCNzkYI66bh4dSmow/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc1/Ny02MDAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Cb_LBOJV7-NAkmHgLz8U4N6LF8zwGKWvcrmr-hLiums/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTM5MzQxNDcz/My01OTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/1UMYtDX1_QfEEpo2FBxQnYRUfww5XcVcdmAOzDIqY1o/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc2/Ni04Nzk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/ds5c7tV3kxzpIjoXOqfam3xHDHutt0q-0L1Fbu9UiY0/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc5/MS0zODg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/qe2hrMvie-_PpaY4O73BoCEA0Cb-3uLQ_FHLT17NmcE/rs:fit/g:sm/q:90/h:1525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc3/Ny0yMDM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/KEdSgVBWWaDoHp1ENSgWOddFsnoK1otGMKM1x7m7Jec/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc1/Ny02MDAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/L40oOPzAkIG9fbaV5w03DOVpx46QKWFgmb2Dp_fekhI/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTM5MzQxNDcz/My01OTQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ij_qxaA5GcxG_hk1DmSl0QdedFPsvIcnAHJF3DQnLRA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc2/Ni04Nzk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y5HiMZUorEHZGtH9x0_pUUEuVqR70jDpriiYlPyw2XA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc5/MS0zODg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/azPsPWFohDVl633HxWjORvL4SApsiLa2vPY8CTQoEQc/rs:fit/g:sm/q:90/h:600/w:236/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc3/Ny0yMDM1LmpwZWc.jpeg"
     - "https://i.discogs.com/VKFMEQE8p21jIvbygli-k9XsUFHpBmQhiVHEPBduIBA/rs:fit/g:sm/q:90/h:125/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc4/MS0yMDY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/5bS-4d0ctrh0hC1ZijMaRDqvn4-KuNt-p_DlsM0OrNA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTgw/MC01NTIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/vA5_FB45i2a1T1jchgrZI91jNqM-iSuuk4vSdy3bFR0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTgw/Ny0yNDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/xTeDpJnrisIW7RmPMg_kAkaIS7IhqRrYTCH-djIlBRE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTgw/MC01NTIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/rVpl6uoJ1UOidWJjwJ1aez6dCb0W7Z66oES04dWM90g/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTgw/Ny0yNDk3LmpwZWc.jpeg"
     - "https://i.discogs.com/zSS7c1WW2SYWIriaoJi_VCb2ye_8WN_ZjM_qZELn-Hg/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTgy/Mi04NDY5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says," the horn-driven funk of "Idiots Rule," and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
-    
+Bringing together arty college-radio kids and throw-the-horns hard rockers, Perry Farrell's provocative lyrics and confrontational presence spoke to disaffected teens of all stripes. The Zeppelin-like power and fury of tracks like the swaggering "Ocean Size" and near-psychedelic "Mountain Song" turned Dave Navarro into a new generation's guitar hero. But this L.A. band wasn't interested in straightforward Sunset Strip hard rock: Acoustic character study "Jane Says", the horn-driven funk of "Idiots Rule" and howling rocker "Pig’s in Zen" show a far more eccentric sensibility.
+        
+        
     
 
 
@@ -53,8 +54,8 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 {{< youtube id="1kAIMlISHhU" title="Jane's Addiction - Mountain Song (Official Video)" >}}<br>
 ### More Videos
 
-- [Summertime Rolls](https://www.youtube.com/watch?v=ra46DNeUfdk)
 - [Jane's Addiction - Ocean Size (Official Music Video)](https://www.youtube.com/watch?v=lVIev94s7Mo)
+- [Summertime Rolls](https://www.youtube.com/watch?v=ra46DNeUfdk)
 - [Jane's Addiction - Jane Says (Official Music Video)](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
 
 ## Release Images
@@ -63,6 +64,7 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Nothing%27s_Shocking |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |

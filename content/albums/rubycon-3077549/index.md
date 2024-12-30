@@ -22,7 +22,7 @@ genres: ["Electronic"]
 styles: ["Ambient", "Berlin-School"]
 ---
 
-Rubycon is the sixth studio album by German electronic music group Tangerine Dream. It was released in 1975. It is widely regarded as one of their best albums. Rubycon further develops the Berlin School sequencer-based sound they ushered in with the title track from Phaedra.
+Rubycon is the sixth studio album by German electronic music group Tangerine Dream. It was released in 1975 on the Virgin label. It is widely regarded as one of their best albums. Rubycon further develops the Berlin School sequencer-based sound they ushered in with the title track from Phaedra.
 Although not quite matching the sales figures for Phaedra, Rubycon reached number 10 in a 14-week run, their highest-charting album in the UK.
     
     
@@ -32,17 +32,16 @@ Although not quite matching the sales figures for Phaedra, Rubycon reached numbe
 1. Rubycon (Part I) (17:18)
 2. Rubycon (Part II) (17:35)
 
-
-## Spotify
-{{< spotify type="album" id="5vHDwkXdVRGHTCpc5is4Vo" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tangerine-dream/1443997135" >}}<br>
 
 
 ## Videos
-### Rubycon (Pt. 1 / Remastered 2018)
-{{< youtube id="BVkRl0sXjjY" title="Rubycon (Pt. 1 / Remastered 2018)" >}}<br>
+### Tangerine Dream - Rubycon [Full Album]
+{{< youtube id="jd6XL_IOS3I" title="Tangerine Dream - Rubycon [Full Album]" >}}<br>
 ### More Videos
 
-- [Rubycon (Pt. 2 / Remastered 2018)](https://www.youtube.com/watch?v=f9i0sZxhzxo)
+- [Tangerine Dream - Rubycon [Full Album]](https://www.youtube.com/watch?v=jd6XL_IOS3I)
 
 ## Release Images
 {{< imageGrid >}}

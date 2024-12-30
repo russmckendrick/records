@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/wr1zW3UH0UDrgMB1OIgZUdpW93gpVvzFkqKdxPL3wgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzIzNTg0/OTEtNTc5OC5qcGVn.jpeg"
     - "https://i.discogs.com/xhE2P0vEwS2sWdjiYlNBzQDv09D_VdrnR9qRaeI8z7I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtODc1NS5qcGVn.jpeg"
     - "https://i.discogs.com/Z6iRYhwSrqFjW-oHTBU_5PVko5szMGb5EXV2H9mqDvg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDYtNDQ4My5qcGVn.jpeg"
-    - "https://i.discogs.com/BXMTEHnd5epjcykeqddTX_tS3fxg0B5u2oK24hElQHE/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtMTA4My5qcGVn.jpeg"
+    - "https://i.discogs.com/fTkaa5KNCOP0vzF_r_SAgOdg9UGcFbMsvOKqckySMXk/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtMTA4My5qcGVn.jpeg"
     - "https://i.discogs.com/UA4au3lDVgoYPfcP_EiEmC2qhBowcnkqu-h3DDWTveM/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDUtMTkyMi5qcGVn.jpeg"
     - "https://i.discogs.com/oXla3yiR4R-YvYK5JQVmxPLJCku3nh6LTqbwFiEiUiY/rs:fit/g:sm/q:90/h:160/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDctMzAzNS5qcGVn.jpeg"
     - "https://i.discogs.com/gCqdYmLf6IV20uzbBDwCnEJm2EdnEV5ESMbW0kraoDY/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NzE5LTE1MzI5Mzgx/NDgtMjQ5NC5qcGVn.jpeg"
@@ -44,20 +44,14 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 
 
 ## Videos
-### The Time - Ice Cream Castle (1984) - A1 - Ice Cream Castles
-{{< youtube id="gQRKyT3iJFg" title="The Time - Ice Cream Castle (1984) - A1 - Ice Cream Castles" >}}<br>
+### Jungle Love
+{{< youtube id="TC0vu9V8YXw" title="Jungle Love" >}}<br>
 ### More Videos
 
 - [Ice Cream Castles](https://www.youtube.com/watch?v=FI2pPT_GqPs)
-- [The Time - Ice Cream Castle (1984) - A2 - My Drawers](https://www.youtube.com/watch?v=_ycBnmHigrg)
 - [My Drawers](https://www.youtube.com/watch?v=tgWUiYexXsI)
-- [The Time - Ice Cream Castle (1984) - A3 - Chili Sauce](https://www.youtube.com/watch?v=DISxg4vMZVw)
 - [Chili Sauce](https://www.youtube.com/watch?v=-vjYu3B6kfU)
-- [The Time - Ice Cream Castle (1984) - B1 - Jungle Love](https://www.youtube.com/watch?v=RN7f0dpdxnw)
-- [Jungle Love](https://www.youtube.com/watch?v=TC0vu9V8YXw)
-- [The Time - Ice Cream Castle (1984) - B2 - If The Kid Can't Make You Come](https://www.youtube.com/watch?v=kdhkt2OOZk4)
 - [If the Kid Can't Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
-- [The Time - Ice Cream Castle (1984) - B3 - The Bird](https://www.youtube.com/watch?v=6_dXBUWcDmQ)
 - [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
 ## Release Images

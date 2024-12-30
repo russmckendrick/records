@@ -4,6 +4,7 @@ artist_name: "Daft Punk"
 artist: "daft-punk"
 album_name: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
 date: 2016-03-29T16:24:24.000000Z
+release_date: "2010-12-03"
 release_id: "7347762"
 slug: "tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762"
 hideSummary: true
@@ -18,8 +19,8 @@ additional_images:
     - "https://i.discogs.com/xowsCZ-1j2CHuIpnuMt6-zuRrfjWOTVctbeTYU8dVko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTU5OTAzOTgw/MC04MTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/hvwi474rMeQCo8XYZM8SlF2wuvPn88FIr86mp7XAAY8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYy/Ni02NjM2LmpwZWc.jpeg"
     - "https://i.discogs.com/2rBONfVmUi_K_QJUdzZCIFhQCMfj66-WRldELqQ0hi8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYz/NS02MDExLmpwZWc.jpeg"
-    - "https://i.discogs.com/UunILqgKsLagJ71en2plb7STdglNSz5Org5vKXwpQwc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYz/My0yODcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/0QkOf9eNlfxhff76k5cPGWzGRXybE93eNssQdSW9LmY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYz/NC0xNzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/QJks9iwZEI1d4WtWIKnljpUAGVeZVvE64OG6dK_77qY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYz/My0yODcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/UzREwB6MKfI6gklk5soQoc4WYoSBix7bXbg7dGXEbIM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ3OTA0NzYz/NC0xNzIwLmpwZWc.jpeg"
     - "https://i.discogs.com/PZGDbwVIQESi3jtAX-2YWKtL-nx9QYp-YCSYzyOOR94/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQzOTUyMDQ3/NC05OTQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/Pdbl84BXroqwBDj_NlQT8kh6elF92yIdzyxJH1L_Fcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ2Mzk0MDQz/NS00NzIwLmpwZWc.jpeg"
     - "https://i.discogs.com/abK6qmAjwhLdWTiHpTSGOhNw3jis_EWBdGsIy7rHqxM/rs:fit/g:sm/q:90/h:423/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc3/NjItMTQ2NDAyOTc3/Ny05ODY2LmpwZWc.jpeg"
@@ -27,6 +28,9 @@ genres: ["Electronic", "Classical", "Stage & Screen"]
 styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 ---
 
+Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expecting a wondrous, synth-speckled ride through innerspace will be surprised not just how orchestrally driven the music is, but how dark. On some level, Daft Punk’s genius was always their ability to parlay imitation into innovation. Here, they not only echo the work of original <I>Tron</I> (and <I>A Clockwork Orange</I>, and <I>The Shining</I>) composer Wendy Carlos (“The Son of Flynn”), but horror legend John Carpenter (“Rinzler”, “End of Line”), Hitchcock standby Bernard Herrmann (“Outlands”) and a history of music that—electronic, acoustic or both—proved soundtracks could be just as interesting without the movies they were written to complement. Pair with 2005’s <I>Human After All</I> for a stark double feature in the DP universe.
+    
+    
 
 
 ## Tracklisting
@@ -61,9 +65,32 @@ styles: ["Soundtrack", "House", "Neo-Romantic", "Contemporary"]
 29. Reflections (2:36)
 30. Sunrise Prelude (2:55)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tron-legacy-original-motion-picture-soundtrack/1440617583" >}}<br>
 
 
+## Videos
+### T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)
+{{< youtube id="GUpdmSVyJe0" title="T.R.O.N : L.E.G.A.CY (2010) - Soundtrack (Full Vinyl Rip)" >}}<br>
+### More Videos
 
+- [C L U - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=LI55EDPxzZE)
+- [Finale - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0epmDgPXyS4)
+- [Tron Legacy End Titles - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=_RHx3irsR3I)
+- [Disc Wars - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=sOfVg__PXao)
+- [The Grid - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=I61XxgIm_fw)
+- [Flynn Lives - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=0z0On7QOqU0)
+- [Round One - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=eruPoAU6Yio)
+- [Arrival - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=Lc9aSEYZWD0)
+- [Fall - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GHwmK9djaKY)
+- [Castor - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=ULtDCC9eiR0)
+- [Armory - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=XWTRkdGDvH8)
+- [Solar Sailer - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=GsOV8VQkhQI)
+- [The Grid - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack)](https://www.youtube.com/watch?v=43nr4E5kKRg)
+- [Arena - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=kyvqtj3yFaI)
+- [TRON Legacy Soundtrack - Overture, The Grid & Tron Legacy (Daft Punk - Michael G Mix) HD](https://www.youtube.com/watch?v=lWu40FA3eZk)
+- [Reflections - Daft Punk ‎- TRON: Legacy (Original Motion Picture Soundtrack) - Vinyl](https://www.youtube.com/watch?v=LUVvF3L-_fI)
+- [Daft Punk - Derezzed (from TRON: Legacy)](https://www.youtube.com/watch?v=m4cgLL8JaVI)
 
 ## Release Images
 {{< imageGrid >}}

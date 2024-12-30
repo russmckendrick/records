@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/i0ZGEMIuuZ1B_13kVWxVNOH7xFkjs_gV5C8duipSQP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS02Nzk1LmpwZWc.jpeg"
     - "https://i.discogs.com/Qm-sFg_ou3wfv0jMQhoyfsV-P13kkuHAbT9XDiVxsGY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS01NTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/A4IDjzPsky7MDN_IaI6wLyGFobXn8nzYwaEm_BFR1XA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OC0xMTMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/K3vXllqChIr6z932CWrqWR0yHNcvkunb7mEM23P1I5M/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/Mi00NzAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/_YfQNwMfEi2KCzQnSlPMWCL7DVqbJOwL1b8PFf9986I/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/Mi00NzAyLmpwZWc.jpeg"
     - "https://i.discogs.com/sS1pdw6oeY5DfCeEt924jsMUJHqvStQDzP7WWOywxTU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OS05NjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/9iGyEf9Ytkdna6mZEJxX_Go6moVTTVz62Pv-M__N05Y/rs:fit/g:sm/q:90/h:174/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/OC0zOTQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/EpKpoeuLBDNL3CvbhPIC8Htx84K7mnXb2EbLyq3_ujM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/My00NjE2LmpwZWc.jpeg"
@@ -64,10 +64,15 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 ### More Videos
 
 - [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
-- [Vinyl Unboxing, Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
+- [Vinyl Unboxing, Gary Clark Jr "The Story of Sonny Boy Slim"](https://www.youtube.com/watch?v=r41NtcTBL0k)
+- [Gary Clark Jr. - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
+- [Gary Clark Jr. - Wings](https://www.youtube.com/watch?v=kWxLtDfm0GE)
+- [Gary Clark Jr. - BYOB/Can't Sleep/Shake (Official Music Video)](https://www.youtube.com/watch?v=M6R0I7mGsUc)
+- [Vinyl Unboxing, Gary Clark Jr "The Story of Sonny Boy Slim"](https://www.youtube.com/watch?v=r41NtcTBL0k)
 - [Gary Clark Jr. - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
 - [Gary Clark Jr. - Grinder (Official Music Video)](https://www.youtube.com/watch?v=5ffEpbvAcG4)
-- [Gary Clark Jr. - Cold Blooded](https://www.youtube.com/watch?v=QFajvN0IFyo)
+- [Cold Blooded](https://www.youtube.com/watch?v=7KdVSh8jvto)
+- [Down to Ride](https://www.youtube.com/watch?v=eA6i5oaTkTU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,7 +81,7 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Story_of_Sonny_Boy_Slim |
-| Format         | Vinyl LP Album, Vinyl LP Single Sided Album Etched |
+| Format         | Vinyl LP Stereo, Vinyl LP Single Sided Etched Stereo, All Media Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
 | Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |

@@ -29,10 +29,10 @@ genres: ["Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
-Purple Rain is the sixth studio album by American singer, songwriter, producer, and multi-instrumentalist Prince. It was released on June 25, 1984, by Warner Bros. Records, as the soundtrack album to the 1984 film of the same name. Purple Rain was musically denser than Prince's previous albums, emphasizing full band performances, and multiple layers of guitars, keyboards, electronic synthesizer effects, drum machines, and other instruments.
+Purple Rain is the sixth studio album by the American singer, songwriter, producer, and multi-instrumentalist Prince. It was released on June 25, 1984, by Warner Bros. Records as the soundtrack album to the 1984 film of the same name. Purple Rain was musically denser than Prince's previous albums, emphasizing full band performances, and multiple layers of guitars, keyboards, electronic synthesizer effects, drum machines, and other instruments.
 Much of the album had a grandiose, synthesized, and psychedelic sheen to the production and performances. The music on Purple Rain is generally regarded as the most pop-oriented of Prince's career, though a number of elements point towards the more experimental records Prince would release after Purple Rain. The music video for the album's lead single "When Doves Cry" sparked controversy among network executives, who thought its sexual nature was too explicit for television. The risqué lyrics of "Darling Nikki" raised complaints from Tipper Gore and the Parents Music Resource Center and contributed to the implementation of Parental Advisory stickers and imprints on album covers.
-Purple Rain became Prince's first album to reach number one on the Billboard 200. The album spent 24 consecutive weeks atop on the Billboard 200 and was present on the chart for a total of 122 weeks. "When Doves Cry" and "Let's Go Crazy" reached number one on the Billboard Hot 100, while "Purple Rain" peaked at number two and "I Would Die 4 U" peaked at number eight. In May 1996, the album was certified 13× Platinum by the Recording Industry Association of America (RIAA). It is Prince's commercial peak, with total sales standing at 25 million copies worldwide, making it one of the best-selling albums of all time. Prince and the Revolution won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal and Best Score Soundtrack for Visual Media, while Prince also won the Academy Award for Best Original Song Score for the film Purple Rain.
-Music critics noted the innovative and experimental aspects of the soundtrack's music, most famously on the spare, bass-less "When Doves Cry". Other aspects of the music, especially its synthesis of electronic elements with organic instrumentation and full-band performances along with its consolidation of rock and R&B, were identified by critics as distinguishing, even experimental factors. Purple Rain is regularly ranked among the greatest albums of all time. Rolling Stone ranked the album number eight on its list of the 500 Greatest Albums of All Time. It was inducted into the Grammy Hall of Fame and added to the Library of Congress' National Recording Registry list of sound recordings that are "culturally, historically, or aesthetically significant".
+Purple Rain became Prince's first album to reach number one on the Billboard 200. The album spent 24 consecutive weeks atop the Billboard 200 and was present on the chart for a total of 167 weeks. "When Doves Cry" and "Let's Go Crazy" reached number one on the Billboard Hot 100, while "Purple Rain" peaked at number two and "I Would Die 4 U" peaked at number eight. In May 1996, the album was certified 13× Platinum by the Recording Industry Association of America (RIAA). It is Prince's commercial peak, with total sales standing at 25 million copies worldwide, making it one of the best-selling albums of all time. Prince and the Revolution won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal and Best Score Soundtrack for Visual Media, while Prince also won the Academy Award for Best Original Song Score for the film Purple Rain.
+Music critics noted the innovative and experimental aspects of the soundtrack's music, most famously on the spare, bass-less "When Doves Cry". Other aspects of the music, especially its synthesis of electronic elements with organic instrumentation and full-band performances along with its consolidation of rock and R&B, were identified by critics as distinguishing, even experimental factors. Purple Rain is regularly ranked among the greatest albums of all time. Rolling Stone ranked the album number 8 on its 2020 list of the "500 Greatest Albums of All Time". It was inducted into the Grammy Hall of Fame and added to the Library of Congress' National Recording Registry list of sound recordings that are "culturally, historically, or aesthetically significant".
 
 
         
@@ -52,7 +52,7 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 9. Purple Rain (8:45)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/purple-rain-soundtrack-2015-paisley-park-remaster/214145442" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/purple-rain/1746833068" >}}<br>
 
 
 ## Videos
@@ -60,19 +60,14 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 {{< youtube id="aXJhDltzYVQ" title="Prince & The Revolution - Let's Go Crazy (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Take Me with U](https://www.youtube.com/watch?v=v5HuK6u1eJw)
-- [The Beautiful Ones](https://www.youtube.com/watch?v=xSJAeWPEWTw)
-- [Prince - Purple Rain (Official Video)](https://www.youtube.com/watch?v=TvnYmWpD_T8)
-- [Prince & The Revolution - Purple Rain (Live 1985) [Official Video]](https://www.youtube.com/watch?v=bm03wqLY3Nc)
+- [Take Me with U](https://www.youtube.com/watch?v=HHmrJv4e6pE)
+- [The Beautiful Ones](https://www.youtube.com/watch?v=oK1Jl8tLzls)
+- [Computer Blue](https://www.youtube.com/watch?v=wyKeCYYzIRk)
+- [Darling Nikki](https://www.youtube.com/watch?v=Kawlt8Ncll0)
 - [Prince & The Revolution - When Doves Cry (Extended Version) (Official Music Video)](https://www.youtube.com/watch?v=IUc0R8bbWQE)
-- [Prince - Purple Rain (Live At Paisley Park, 1999)](https://www.youtube.com/watch?v=ryT-ltTDCko)
-- [Prince - I Would Die 4 U (Live 1984) [Official Video]](https://www.youtube.com/watch?v=SVEFRQavTNI)
-- [I Would Die 4 U](https://www.youtube.com/watch?v=hkNl3pq1twE)
-- [Prince - Take Me With U (Live 1985) [Official Video]](https://www.youtube.com/watch?v=c80mYF6dR7s)
-- [Computer Blue](https://www.youtube.com/watch?v=bt0XdyBgSnE)
-- [Darling Nikki](https://www.youtube.com/watch?v=j8oxXkUjYHg)
-- [Baby I'm a Star](https://www.youtube.com/watch?v=4YdPZ1J0KrE)
-- [Purple Rain](https://www.youtube.com/watch?v=S6Y1gohk5-A)
+- [I Would Die 4 U](https://www.youtube.com/watch?v=iGCIdHrRXW0)
+- [Baby I'm a Star](https://www.youtube.com/watch?v=NEvxLjxkEz8)
+- [Purple Rain](https://www.youtube.com/watch?v=347vCib_lMs)
 
 ## Release Images
 {{< imageGrid >}}

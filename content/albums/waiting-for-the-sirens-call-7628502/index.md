@@ -19,18 +19,23 @@ additional_images:
     - "https://i.discogs.com/vr_C1N8POZOGH6ayvC4k9BdntIdU4rNh32Ch_ontnVw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNTYx/MC05ODk2LmpwZWc.jpeg"
     - "https://i.discogs.com/8LDeggp1GRhcYy0y3jb3UctMxvrteENJoBc_DAh2BXU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQ0/MS03Nzg0LmpwZWc.jpeg"
     - "https://i.discogs.com/BnJhoUfqUU-mTGTbDXd9zw_aLuvZ11pBS-y49bffCEE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/NS01Njg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/UmMMYMUn7PS7sR4unIyjYlbnYUX6oHTCYaznzM3wrIg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQy/Ny0yMzA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/8Wg4BW7UQdzBDbe2c5Kaz7EWYFY8n1YyXxu-WYMvd6A/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/MC0xMDI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/oNiH2m_iozwWREZYIdTtoENoM3B9Ff3687KUCRYVXUY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQy/Ny0yMzA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/OytLXSL8u-7N2ecz01apANXiA8fo-HS5F81Qd-n6gHE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/MC0xMDI0LmpwZWc.jpeg"
     - "https://i.discogs.com/I7HZtnv84KvZPUFWawHMMWjYZ5di2wfNen-YGMpNVLc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/My05NzEyLmpwZWc.jpeg"
     - "https://i.discogs.com/Vlz91mbRpx6rmVluwgr5qNmC0W_jMZwnQsYT5VqBqjo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/Ny0zNjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/3-_YsOe3s6tzCQ4iXVfWFYCr_cUj3UTKzRlOwHVAbnU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQz/Ny05NjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/HlGbn7pMqkOLm7bom8fbtldpJXBY9ShqhXFFvZbkS5Y/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQ0/MS0zNjQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Reg9EsBiCchwidiEqv4EKMUPR40CXnc0rF0C9lotF-c/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg1/MDItMTUwNDIyNjQ0/MS0zNjQ0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop", "Indie Rock"]
 ---
 
-New Order's eighth studio album offers proof that after more than two decades in the trenches, rock 'n' roll is something like second nature. Yes, <i>rock 'n' roll</i>: Just listen to the bluesy shuffle of "Working Overtime", a surprising British Invasion throwback. Elsewhere, they sound as modern as ever, with synths and dance beats driving "Krafty" and "Morning Night and Day", but the album's beefy guitars and drums are stadium-sized. Even the club-oriented "Jetstream", with its gospel-influenced vocal harmonies, sounds like they've been listening to The Rolling Stones.
-    
+Released in 2005, New Order’s <i>Waiting for the Sirens’ Call</i> hit the critical and commercial bullseye—not a surprise, considering that, by the early 2000s, few veteran bands were as beloved as New Order. The band’s circa-1980s tunes had been rediscovered and revived by a new generation of listeners, many of whom were entranced by <i>Waiting for the Sirens’ Call</i>, which was as effortlessly cool as anything Bernard Sumner, Peter Hook and Stephen Morris had ever created as a band.
+
+The band members were aided in their efforts by an array of new producers, including indie legends Stephen Street (The Smiths, The Cranberries, Blur) and John Leckie (Muse, Radiohead, The Stone Roses), as well as electronic fave Stuart Price, who was also busy making Madonna relevant for the umpteenth time via <i>Confessions on a Dancefloor</i>. It was Price who introduced New Order to Scissor Sisters singer Ana Matronic, resulting in the standout <i>Sirens’ Call</i> single “Jetstream”. That injection of new blood also extended to the songwriting: The band brought <i>Get Ready</i> touring guitarist Phil Cunningham into the writing room, increasing the group’s output, resulting in so many ideas that Sumner—now New Order’s principle lyricist—fretted he wouldn’t be able to complete all of the compositions.
+
+All that newfound effort paid off: Singles “Krafty” and “Jetstream” both received ample club play, partly because they were each packaged with a plethora of remixes (a first for the group). And because <i>Waiting for the Sirens’ Call</i> showed up just as both New Order <i>and</i> Joy Division were experiencing massive revivals, the members of New Order were able to land a primo spot at 2005’s Coachella festival, and then hit the road for a series of high-profile gigs—before once again breaking up.
+        
+        
     
 
 
@@ -52,12 +57,9 @@ New Order's eighth studio album offers proof that after more than two decades in
 
 
 ## Videos
-### New Order - Jetstream  [OFFICIAL MUSIC VIDEO]
-{{< youtube id="AhsYhd9m2Dc" title="New Order - Jetstream  [OFFICIAL MUSIC VIDEO]" >}}<br>
-### More Videos
+### New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]
+{{< youtube id="3oOB9ektig4" title="New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]" >}}<br>
 
-- [New Order - Krafty (Official Music Video)](https://www.youtube.com/watch?v=UPQXqUrAnSI)
-- [New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=3oOB9ektig4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,6 +67,7 @@ New Order's eighth studio album offers proof that after more than two decades in
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Waiting_for_the_Sirens%27_Call |
 | Format         | Vinyl 2× LP Album Remastered (Gatefold, 180g) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0825646071968 |

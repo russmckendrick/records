@@ -25,12 +25,15 @@ additional_images:
     - "https://i.discogs.com/HHjF2MqPJY4JKCwv-ZcVSrlf8AjAEHw4npRtU_c15R8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk3/NTA0LTE2MjQ0MDQz/OTUtNjE1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Z-UYLbLetd6w_spH4OymRBIAWFsDBGc66RAqXbGizW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk3/NTA0LTE2MjQ0MDQz/OTYtNDgzOC5qcGVn.jpeg"
     - "https://i.discogs.com/eJB1Fg8S6qs-gy9RffjIUEIYdbG4RCQA0aeU3cdatqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk3/NTA0LTE2MjQ0MDQz/OTYtNzE3MC5qcGVn.jpeg"
-genres: ["Pop"]
-styles: ["Indie Pop"]
+    - "https://i.discogs.com/M4WIkSh3gqmQHsjxTGJpGX5jfCtwgXVWLyOh73tbyqk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk3/NTA0LTE2OTUwNDcz/MjItNTc0OC5qcGVn.jpeg"
+genres: ["Electronic", "Rock"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 All the Colours of You is the 16th studio album of English rock band James that was released on 4 June 2021 through Virgin Music Label & Artist Services. James began writing the album before the release of their 15th studio album Living in Extraordinary Times (2018); they accumulated 100 Jam sessions. Due to the COVID-19 pandemic and the resulting lockdowns, the band members were stuck in different countries. Vocalist Tim Booth began working with producer Jacknife Lee at his studio in Topanga Canyon, California, where Booth acted as a liaison between the band and Lee. The album has been described as a stadium rock and electronic; its songs were influenced by the pandemic, the lockdowns, and the murder of George Floyd.
 Music critics gave All the Colours of You generally positive reviews; some of them complimented Lee's production and noted the album's anthemic nature. It peaked at number three in the United Kingdom, and charted in Germany, Ireland, Portugal, Scotland, and Switzerland. "All the Colours of You" was released as the album's lead single on 1 March 2021, and the tracks "Beautiful Beaches", "Recover", "Isabella" were released as follow-up singles over the next two months. James played several festivals in the UK in August and September 2021, and ended the year with a UK arena tour with Happy Mondays. A tour of Portugal in April 2022 was followed by more UK festival performances throughout June 2022.
+
+
     
     
 
@@ -53,9 +56,17 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 
 
 ## Videos
-### James - All The Colours Of You (Official Lyric Video)
-{{< youtube id="-fQk-hEMYMc" title="James - All The Colours Of You (Official Lyric Video)" >}}<br>
+### James – Beautiful Beaches (Official Audio)
+{{< youtube id="8HQBbi3eGV0" title="James – Beautiful Beaches (Official Audio)" >}}<br>
+### More Videos
 
+- [Wherever It Takes Us](https://www.youtube.com/watch?v=l31jX9KxHOQ)
+- [Hush](https://www.youtube.com/watch?v=yOddbb1Nlfc)
+- [James – Isabella (Official Audio)](https://www.youtube.com/watch?v=edikctKq3DA)
+- [Miss America](https://www.youtube.com/watch?v=zwvLr3iIrO4)
+- [Recover](https://www.youtube.com/watch?v=Ce_xXU-yabY)
+- [ZERO](https://www.youtube.com/watch?v=i9NrVoehWws)
+- [James - All The Colours Of You (Official Lyric Video)](https://www.youtube.com/watch?v=-fQk-hEMYMc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +78,5 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 | Format         | Vinyl 2× LP Album Limited Edition (Red/Black Split) |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM001LPX |
-| Notes | Deluxe Split Colour Double Vinyl |
+| Notes | ℗&© 2021 Nothing But Love Music. Made in Poland. 300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
 | Discogs URL    | [James - All The Colours Of You](https://www.discogs.com/release/18997504-James-All-The-Colours-Of-You) |

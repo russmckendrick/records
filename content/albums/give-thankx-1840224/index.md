@@ -12,17 +12,17 @@ cover:
     alt: "Give Thankx by Jimmy Cliff"
     caption: "Give Thankx by Jimmy Cliff"
 additional_images:
-    - "https://i.discogs.com/fYOFhxyS32QRboDxLMVel1R8WNhNMKcSqyg_eDkOhGM/rs:fit/g:sm/q:90/h:613/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTMzNTU1ODk4/Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/IXgW2LNKFSanSW168aoV9o7Ip-nKGYpNP36mUm7_AeI/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTMzNTU1ODk4/Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ja1cFc8B2DsNsY_zIkw-_b5pfMqP_x3BzEm-4_yX_f4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTQzNTc0MzQ3/MS01MTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/1gF_qO6qvZVcERW_t8-RX4_gFaw1dH3bLHvZu0XHlAE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTUyOTk0NTc3/MC04MjI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/pZijGxM_TdzaK5GDQx3TgwnwdlCey0zrKJN5J4DEZ44/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTUyOTk0NTc4/Mi03NDc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Jbn_HU5AuIJ4mtHhKWG6eX8HSOOqu78b1KGZdwqCmC4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTU4NjQzNjc4/My00NzY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/StQujvW7oCncA2yZjisbP0qWJXk1jfSH67LGjoBtiG4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTU4NjQzNjc4/Mi05NDM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/nJBQdL0txVsVxK-p4C1XfR85w3Oe0iwFu05_rPtfVf4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTUyOTk0NTc4/Mi03NDc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/4fvdXEX2mM7Eh1r5hEEoU9SGkqcg3SHqBRZMHZ-Z5Hk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTU4NjQzNjc4/My00NzY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/PRlOdvFCCLKqc5opWbwu18Aa_FhIwnXcgDoZgYsyDGM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAy/MjQtMTU4NjQzNjc4/Mi05NDM2LmpwZWc.jpeg"
 genres: ["Reggae"]
 styles: ["Roots Reggae"]
 ---
 
-Give Thankx is the twelfth album by Jimmy Cliff.
+Give Thankx is an album by the Jamaican musician Jimmy Cliff, released in 1978. Many of its songs were influenced by Cliff's travels in Africa. The album was produced by Bob Johnston.
     
     
 
@@ -42,16 +42,19 @@ Give Thankx is the twelfth album by Jimmy Cliff.
 
 
 ## Videos
-### Lonely Streets
-{{< youtube id="6zEihLB92cU" title="Lonely Streets" >}}<br>
+### Bongo Man
+{{< youtube id="5OiA2L6j7PQ" title="Bongo Man" >}}<br>
 ### More Videos
 
-- [Footprints](https://www.youtube.com/watch?v=sGdGGFgq57U)
-- [Lonely Streets](https://www.youtube.com/watch?v=0hhG73h1hGo)
-- [Stand Up and Fight Back](https://www.youtube.com/watch?v=qeXeVMvW-ZI)
-- [Universal Love (Beyond the Boundries)](https://www.youtube.com/watch?v=dNJmG2a7HP4)
-- [Bongo Man](https://www.youtube.com/watch?v=5OiA2L6j7PQ)
-- [Meeting in Afrika](https://www.youtube.com/watch?v=-86TPqPogDc)
+- [Jimmy Cliff - Stand Up and Fight Back (Rare) (Album.Give Thankx) (1978)](https://www.youtube.com/watch?v=3FrkVyoETzU)
+- [Jimmy Cliff - She Is A Woman](https://www.youtube.com/watch?v=SACmNG9hUIY)
+- [Jimmy Cliff - You Left Me Standing By The Door](https://www.youtube.com/watch?v=JGDZotNOpo4)
+- [Jimmy Cliff - Footprints](https://www.youtube.com/watch?v=Qq8VSned7Uw)
+- [Jimmy Cliff - Meeting In Afrika](https://www.youtube.com/watch?v=eJr6HP216RA)
+- [Jimmy Cliff - Wanted Man](https://www.youtube.com/watch?v=eGO4kVjx8jU)
+- [Lonely Streets](https://www.youtube.com/watch?v=6zEihLB92cU)
+- [Jimmy Cliff -  Love I Need - 1978 (STEREO in)](https://www.youtube.com/watch?v=g9qkPQRnGu0)
+- [Jimmy Cliff - Universal Love - Beyond The Boundaries](https://www.youtube.com/watch?v=xyskVsuwZbw)
 
 ## Release Images
 {{< imageGrid >}}

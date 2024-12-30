@@ -13,7 +13,7 @@ cover:
     caption: "The Last Domino? by Genesis"
 additional_images:
     - "https://i.discogs.com/2mqlP1KgPK6y4pIgnedx0FIG7SWAYz5FUkYD96UCex8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzI0OTg2/MzEtMjg3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/UngJ115KAutiVQEIPHn-xSKCc4drvUwjqk0W_hgk2J4/rs:fit/g:sm/q:90/h:779/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzE4Nzg0/MjItODQ0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/HMD-omS-uhCjtiH1IekA3ab5JWAwxdX2QIQH8_jxVeQ/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzE4Nzg0/MjItODQ0NS5qcGVn.jpeg"
     - "https://i.discogs.com/uEObzli4MLPZjhbGthCPpF4-AN3VoNkn-POMdEzeGcc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzI0OTg2/MzEtNjkyMC5qcGVn.jpeg"
     - "https://i.discogs.com/vnHFirlxyU6rVumRV9RPHD2jSVXeVM7R6Y7WrR_Tp-A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzE5NjQ4/MjUtODU3OS5qcGVn.jpeg"
     - "https://i.discogs.com/IeqvPXHdAkbdhYlA5gXUo7jZswL6ZNcgAIqxPD4aXoY/rs:fit/g:sm/q:90/h:584/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY0/MzQ3LTE2MzE5NjQ4/MjUtOTU3MC5qcGVn.jpeg"
@@ -53,7 +53,7 @@ styles: ["Pop Rock", "Prog Rock"]
 9. Afterglow
 10. Hold On My Heart
 11. Jesus He Knows Me
-12. That’s All
+12. That's All
 13. The Lamb Lies Down On Broadway
 14. In Too Deep
 15. Follow You Follow Me
@@ -65,16 +65,21 @@ styles: ["Pop Rock", "Prog Rock"]
 21. Throwing It All Away
 22. Tonight, Tonight, Tonight
 23. Invisible Touch
-24. I Can’t Dance
+24. I Can't Dance
 25. Dancing With The Moonlit Knight
 26. Carpet Crawlers
 27. Abacab
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1574912438" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1580766705" >}}<br>
 
 
+## Videos
+### Genesis - The Last Domino - The Hits (2021)
+{{< youtube id="7ghJJ70x0Lo" title="Genesis - The Last Domino - The Hits (2021)" >}}<br>
+### More Videos
 
+- [Genesis - The Last Domino - The Hits (2021)](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +90,5 @@ styles: ["Pop Rock", "Prog Rock"]
 | Format         | Vinyl 4× LP Compilation Limited Edition (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 3542867 |
-| Notes | This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code.  |
+| Notes | This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code. |
 | Discogs URL    | [Genesis - The Last Domino?](https://www.discogs.com/release/20264347-Genesis-The-Last-Domino) |

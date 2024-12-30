@@ -14,20 +14,25 @@ cover:
 additional_images:
     - "https://i.discogs.com/xtGoNwLs9xvqAbfNkeNQ2PX1cbwClcHiugV8lSRGxjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTQ3NTI3NzI4/Ny01NTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/3TmxSz62GBlxj-UkvnfFoEWVR_jHHEiNezLEFdl3fac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTQ3NTI3NzI5/NC05ODM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/zoly2f8AkTy7TfexogINyMePCSjOgUv2oZUvDkDUgVw/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC0xNzQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/iIc0Zsy6f6DQEd-PBvKCqSdbWcj81-_mDsAmbDfNF_o/rs:fit/g:sm/q:90/h:706/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC01NTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/EgkltkL-TwGmLvSzTnPPjry3lEYtbOMvBViHtFK1G5Q/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC0xNzQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/qfce6XmFDtINzWSwrW0WgGx6j-6OwH8p1cyNqsqXNx4/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00MDgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/LrXiPlOHqhjjrBF1z8q_flXhNs50-j2D70iXuw2k2ow/rs:fit/g:sm/q:90/h:729/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC05MDI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/xGDLOTXP_FIRMnmdLXtYJu7p3XIOul1HESWXupjVcWE/rs:fit/g:sm/q:90/h:755/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC0zMzQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/oIS4h-onFiKfq36cFXR_MHwSkyeKflp82Mb5idTc4Z4/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00MTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Ylxt-cmn0_QTxWb4ejJ5EP6-U1eZmJ_XVAoCLu6hqLU/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTYzOTg3NTk3/NC00Mjk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/cvZ4tY_Jr7JxhZuPxAT8cikZU2FFSDXF0WKmZZ4XBA4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC04NzA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/5YgEkU1eOgYXtPZ9NOGy49VTzemUhQlsoPD7XWAQ5is/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC05NjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/V_lPTXAy7b_em8omuw_tkKrr0ymdeYss6nkBIz7HesQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC0zNTA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/53W3sMYz7cuVcn2DKJy0nKn5MzCTz7Sv5d5ehkWqeoY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC05ODI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/7KNTvPu8PzT-uNunrl3XEHzGKHY_LOfZICQqsAiq_Zc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC0xNDM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/BuekwqIdm5SMG6XNh1Y1kanOmughvOoZ9qL4VDTEdOQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC01ODM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/XGsV40660t0wcTr8Zg8K8npNnsSD8QTl0UsxNoQwdVA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC03NjgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/9U9YCAnWBUAvb3kQR1hj922_bCYQ5WWIsEVIygJGceM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTc5/MDUtMTcyNTIwNTkz/NC01NTE3LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Indie Rock"]
 ---
 
-Singles is a greatest hits album by English rock band New Order. It was released on 3 October 2005 by London Records. The two-disc compilation includes the band's singles released between 1981 and 2005. Unlike the CD version of earlier singles compilation Substance 1987, the B-sides are not included. While Substance 1987 aimed to showcase New Order's 12-inch singles, Singles instead features mostly seven-inch versions, some of which are rare and differ from the album versions.
+Singles is a compilation by English band New Order. It was released on 3 October 2005 by London Records. The two-disc compilation includes the band's singles released between 1981 and 2005. Unlike the CD version of earlier singles compilation Substance 1987, the B-sides are not included. While Substance 1987 aimed to showcase New Order's 12-inch singles, Singles instead features mostly seven-inch versions, some of which are rare and differ from the album versions.
 The album includes three early singles that have never appeared on CD in their original form: "Ceremony", "Everything's Gone Green" and "Temptation". Additionally, an edit of the "Rough mix" of the song "Confusion" was created exclusively for this compilation. One song, "Turn", was released on this album in a new edited form, despite never being a single.
 An updated edition of Singles was released on 9 September 2016, which adds "I'll Stay with You" from the 2013 album Lost Sirens and replaces the versions of "1963", "Run 2", "Bizarre Love Triangle", "True Faith", "Spooky", "Confusion", and "The Perfect Kiss". The reissue was remastered by Frank Arkwright, and fixes the compression issues prevalent on the 2005 version.
+
+
     
     
 
@@ -67,7 +72,7 @@ An updated edition of Singles was released on 9 September 2016, which adds "I'll
 32. I'll Stay With You ('Lost Sirens' LP Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/singles/1129721479" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/new-order/1731087834" >}}<br>
 
 
 

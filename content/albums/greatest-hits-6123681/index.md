@@ -4,7 +4,6 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Greatest Hits"
 date: 2015-10-04T11:27:10.000000Z
-release_date: "1988-11-15"
 release_id: "6123681"
 slug: "greatest-hits-6123681"
 hideSummary: true
@@ -24,9 +23,10 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
 
-The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled album and 1977’s <i>Rumours</i>. Christine McVie penned some stellar songs as evidenced by the gossamer “Everywhere” and the seductive “Tell Me Lies” from the underrated 1987 album <i>Tango In The Night</i>. Lindsay Buckingham’s most memorable songs surface, such as the catchy strut of “Don’t Stop,” the anthemic “Go Your Own Way” and the weirdly brilliant title-track from 1979’s <i>Tusk</i>.
-        
-        
+Greatest Hits is a compilation album by the British blues rock band Fleetwood Mac released on CBS Records in the United Kingdom in 1971. The album assembles the band's hit singles in the UK covering the period from the band's beginning in 1968 to 1971, mostly in its original incarnation led by guitarist Peter Green. It peaked at No. 36 on the UK Albums Chart.
+
+
+    
     
 
 
@@ -46,13 +46,16 @@ The crux of this collection was culled from Fleetwood Mac’s 1975 self-titled a
 13. No Questions Asked (4:41)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fleetwood-macs-greatest-hits/456942321" >}}<br>
 
 
 ## Videos
-### Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album
-{{< youtube id="ohy8E4TJaZE" title="Fleetwood Mac Greatest Hits Full Album - Fleetwood Mac Full Album" >}}<br>
+### Fleetwood Mac - Little Lies (Official Music Video)
+{{< youtube id="uCGD9dT12C0" title="Fleetwood Mac - Little Lies (Official Music Video)" >}}<br>
+### More Videos
 
+- [Go Your Own Way - Fleetwood Mac - 1997](https://www.youtube.com/watch?v=p8Ojjn35kP8)
+- [Fleetwood Mac - Everywhere (Official Music Video)](https://www.youtube.com/watch?v=YF1R0hc5Q2I)
 
 ## Release Images
 {{< imageGrid >}}

@@ -14,9 +14,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/qRCC3EGs_APGQnr5CMI1ubNN2nLct22MxtWsJnnPYf4/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/MzgtNjYyNi5qcGVn.jpeg"
     - "https://i.discogs.com/K5galksitqDCM8BNmfjVBrSjLEXciEa5tEr97TeDdyI/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/NDYtNzA3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/u_w-qmcgnebvBGRZAMeASKZpN8QzHAzS_pV0jWbbXg4/rs:fit/g:sm/q:90/h:643/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktOTM1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/6UrBRP32OZmPd5mKu-4oEfFnchiQSzqRJy7x85H8UbA/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktODM3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/BGWS3dSlaiUNyzUz-08gBFU0d-3J3y1t6jmuOajoPEQ/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1NTc1Mzk2/MDctMTA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/CmpL8Yzl2fknSW0oFCg6rit83c6JdHwnPszeSwHuiaA/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktOTM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/66TYmknV1t0Dn-68362O-lC2NTv3FK3g1toI6Sc9ihM/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1OTQ2MTc1/MjktODM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/UNcYskl62_28nocZKBpfu90sppi9DX09zMMN2Ogfnm0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1NTc1Mzk2/MDctMTA1MC5qcGVn.jpeg"
     - "https://i.discogs.com/smRfkaIxnO90XjgbbU_qU_YrL9li1IjSTe__UEwhnBI/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE1MzA2NDU2/NTAtODU5NS5qcGVn.jpeg"
     - "https://i.discogs.com/-UPNBe3NzMEMkBMUhOxg_Zhyo2uVBVw3lb3uKuXj6bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MDktOTE1MS5qcGVn.jpeg"
     - "https://i.discogs.com/sZO3pHSXfv3FBIy_nFDX6f7Xs2PCGX8w69jBnIa21AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEw/MzM3LTE2NDUwMjA1/MDktOTk2MS5qcGVn.jpeg"
@@ -28,9 +28,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Hunting High and Low is the debut studio album by Norwegian new wave band A-ha, released on 1 June 1985 in the United States and 28 October 1985 in the United Kingdom by Warner Bros. Records. The album was a huge commercial success, reaching high positions on charts worldwide and peaking at number 15 on the US Billboard 200. The album was recorded at Eel Pie Studios in Twickenham, London, and produced by Tony Mansfield, John Ratcliff and Alan Tarney.
-In all, five singles from the album were released, though not all were released internationally: "Take On Me", "Love Is Reason", "The Sun Always Shines on T.V.", "Train of Thought" and "Hunting High and Low". The group was nominated for Best New Artist at the Grammy Awards in 1986, making A-ha the first Norwegian band to be nominated for a Grammy.
-As part of a re-release of their first two albums, Hunting High and Low was expanded and remastered in 2010.
+Hunting High and Low is the debut studio album by the Norwegian synth-pop band a-ha, first released on 10 June 1985 by Warner Bros. Records in Norway and the United States, and then released in the United Kingdom and Europe on 21 October 1985. The album was a huge commercial success, reaching high positions on charts worldwide. The album was recorded at Eel Pie Studios in Twickenham, London, and produced by Tony Mansfield, John Ratcliff and Alan Tarney.
+In all, five singles from the album were released, though not all were released internationally: "Take On Me", "Love Is Reason", "The Sun Always Shines on T.V.", "Train of Thought" and the title track. The group was nominated for Best New Artist at the Grammy Awards in 1986, making a-ha the first Norwegian band to be nominated for a Grammy.
+As part of a re-release of their first two studio albums, Hunting High and Low was expanded and remastered in 2010.
 
 
     
@@ -50,15 +50,17 @@ As part of a re-release of their first two albums, Hunting High and Low was expa
 10. Here I Stand And Face The Rain
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hunting-high-low-remastered/1037562339" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/hunting-high-and-low-deluxe-edition/380907762" >}}<br>
 
 
 ## Videos
-### A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042
-{{< youtube id="IGxCel7kXlk" title="A-ha - Hunting High And Low (Early Mix) (2019 Vinyl LP) - Technics 1200G / Goldring G1042" >}}<br>
+### a-ha - Take On Me (Official Video) [Remastered in 4K]
+{{< youtube id="djV11Xbc914" title="a-ha - Take On Me (Official Video) [Remastered in 4K]" >}}<br>
 ### More Videos
 
-- [A-ha Full Album DJ Mix #01 - Hunting High and Low](https://www.youtube.com/watch?v=PYtBHb4XXqw)
+- [a-ha - Train Of Thought (Official Video)](https://www.youtube.com/watch?v=7vdOgObQvz8)
+- [a-ha - Hunting High and Low (Official Video)](https://www.youtube.com/watch?v=s6VaeFCxta8)
+- [a-ha - The Sun Always Shines on T.V. (Official Video)](https://www.youtube.com/watch?v=a3ir9HC9vYg)
 
 ## Release Images
 {{< imageGrid >}}

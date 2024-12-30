@@ -4,7 +4,7 @@ artist_name: "R.E.M."
 artist: "r-e-m"
 album_name: "Automatic For The People"
 date: 2015-08-09T08:39:05.000000Z
-release_date: "1992-10-05"
+release_date: "1992-10-06"
 release_id: "736266"
 slug: "automatic-for-the-people-736266"
 hideSummary: true
@@ -23,23 +23,15 @@ additional_images:
     - "https://i.discogs.com/BgJCcG52AuCmd7ntXN_l4WBTLWXfZwnonUWxrxM5FI0/rs:fit/g:sm/q:90/h:278/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xNDIxNDE2ODE2/LTQ2OTUuanBlZw.jpeg"
     - "https://i.discogs.com/WlYKpAf8CcJUfXvriTvdvEFT-uWPxUjSlp6QsvpmMME/rs:fit/g:sm/q:90/h:37/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xNDIxNDE2ODIz/LTYwODQuanBlZw.jpeg"
     - "https://i.discogs.com/yhXZ7xc1wt0fc1S2c-T38IWy7myEu0JkSYrT2Ef2CSc/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xNDIxNDE2ODE5/LTM5MzYuanBlZw.jpeg"
-    - "https://i.discogs.com/Sh9d3-i2cblUghKUxzexWyqRH4Z_w8msly8DPCm-PqQ/rs:fit/g:sm/q:90/h:683/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xNDUzOTI0ODUx/LTM3NjAuanBlZw.jpeg"
+    - "https://i.discogs.com/MCqEkEYMtJOW-wM7c8hbE2D-RXrNuQb1CUczsy-zjXs/rs:fit/g:sm/q:90/h:600/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xNDUzOTI0ODUx/LTM3NjAuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Although Spatial Audio is a relatively new technology, one of its gifts is the way it can present older, beloved albums as brand new and surface buried elements within songs that even the artists themselves didn’t remember being in there. When R.E.M.’s 1992 classic <i>Automatic for the People</i> was remixed in Dolby Atmos by original producer Scott Litt and engineer Cliff Norrell, bassist Mike Mills was taken aback by the way the album’s relatively sparse, acoustic nature lent itself so well to the immersive treatment.<br />
-“With <i>Automatic for the People</i>, there's a lot of room, so you could separate the elements and hear them really clearly,” Mills tells Apple Music. “I thought it was exactly the perfect record from us to have that done to it; with the strings, there's so much air being moved by natural instruments. When the actual wood itself and the vibrations of the acoustic strings are moving the air, there's a different feel to it, and Atmos really lends itself to that.” Below, Mills highlights a few tracks from the reimagined album that might surprise even the fans who've memorised every groove over the past 29 years.<br />
-<b>“Drive”</b>
-“John Paul Jones' strings were so evocative and they worked well with the accordion I was playing. I enjoyed that combination of sound when I heard it in Atmos. That was very exciting to me, the way he arranged those strings and the way they moved around. It was very symphonic without being overwhelming, and I really appreciated the way they worked with the acoustic guitar.”<br />
-<b>“Man on the Moon”</b>
-“‘Man on the Moon’ stood out largely because of the vocals. I get a lot of credit for my background work, and rightfully so as far as I'm concerned, but [drummer] Bill Berry does not get enough credit for the quality of singer he is and the parts he comes up with. In the verses, there's this sort of almost Gregorian whole-note moaning going on behind them, and he's got a great deep voice when he wants to use it that way. In Atmos, you could actually pick it out; it adds a whole new dimension.”<br />
-<b>“Try Not to Breathe”</b>
-“The triangle that gets played at the beginning, and I guess because we were playing dulcimer on that, it's just one of those things that because it's such an acoustically heavy song, the song breathes more, no pun intended.”<br />
-<b>“Star Me Kitten”</b>
-“Those background vocals, that was an idea we took from ‘I'm Not in Love’ by 10cc. I recorded my voice singing eight different notes, and then we fed that into an eight-channel mixer and I played it like an instrument. So I played my voice, if you will. I think we loved that idea, we were really happy about it, but I don't think most people could really tell what was going on there, and you can hear it a little better in Atmos, for sure.”<br />
-<b>“Nightswimming”</b>
-“I guess this information is out there, but that was the ‘Layla’ piano, the one Jim Gordon played on the Derek & The Dominos song, and we worked with that down in Florida. It's not the best technical-sounding piano in the world—no classical pianists would ever want that for a live concert—but for this song, there's a resonance to it. I actually believe that the history has something to do with how good it sounds—at least it felt that way to me when I was playing it. And yes, I think a little more of that comes through in the Atmos than it did in the actual stereo mix.”
+Automatic for the People is the eighth studio album by the American alternative rock band R.E.M., released on October 5, 1992, in the United Kingdom and Europe, and on the following day in the United States, by Warner Bros. Records. R.E.M. began production on the album while their previous album, Out of Time (1991), was still ascending charts and achieving global success. Aided by strings arranged by John Paul Jones and conducted by George Hanson, Automatic for the People features ruminations on mortality, loss, mourning, and nostalgia.
+Upon release, the album received widespread acclaim from critics, reached number two on the US Billboard 200, and yielded six singles. Rolling Stone reviewer Paul Evans concluded of the album, "This is the members of R.E.M. delving deeper than ever; grown sadder and wiser, the Athens subversives reveal a darker vision that shimmers with new, complex beauty." Automatic for the People has sold more than 18 million copies worldwide.
+
+
         
         
     
@@ -62,10 +54,17 @@ Although Spatial Audio is a relatively new technology, one of its gifts is the w
 14. Find The River (3:49)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/automatic-for-the-people-2017-remaster/1571670285" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/automatic-for-the-people/1440949853" >}}<br>
 
 
+## Videos
+### R.E.M. - Drive (Official HD Music Video)
+{{< youtube id="-UE7tXDKIus" title="R.E.M. - Drive (Official HD Music Video)" >}}<br>
+### More Videos
 
+- [R.E.M. - Everybody Hurts (Official HD Music Video)](https://www.youtube.com/watch?v=5rOiW_xY-kc)
+- [One Tree Hill Musique/Music - 119 - REM - Everybody Hurts - [Lk49]](https://www.youtube.com/watch?v=d9DhkHDuptk)
+- [R.E.M. - Find The River (Official Music Video) [Parallel Video Version]](https://www.youtube.com/watch?v=KIJGlTu5sEI)
 
 ## Release Images
 {{< imageGrid >}}

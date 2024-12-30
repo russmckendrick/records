@@ -13,7 +13,7 @@ cover:
     alt: "Undertow by Tool"
     caption: "Undertow by Tool"
 additional_images:
-    - "https://i.discogs.com/AAmLSKXqWaRqJiwByPbL75O6iP5oxVtVcNaybUewNDU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzUy/OS04NzEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/uNDJXlS665kBvSp16yGubpuK931qPOD8J1CiLTQr0cs/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzUy/OS04NzEzLmpwZWc.jpeg"
     - "https://i.discogs.com/RPe__rZRq3VioHaFDi_S-QzhQuqBAFM1ruiBRm4kTUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzQ5/MC03MTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/eNtR0LJIBMpTOeXn9aUN8tIRdKJY5DRhHFUJczNwG8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU1/MS01OTIwLmpwZWc.jpeg"
     - "https://i.discogs.com/JJ9y0ax3OU6pKHAU9466UTHyIZ-gSZh6XscxV6F7leQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzU1/NS01MzQxLmpwZWc.jpeg"
@@ -24,8 +24,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-Undertow is the debut studio album by American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
-According to AllMusic, Undertow helped heavy metal music remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
+Undertow is the debut studio album by the American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy, it was recorded from October to December 1992 at Sound City Studios in Van Nuys and Grandmaster Recorders in Hollywood. The album includes some tracks the band decided to not release on their debut EP Opiate. This is their only album to feature original bassist Paul D'Amour.
+According to AllMusic, Undertow helped heavy metal remain prominent as a mainstream musical style, and allowed several later bands to break through to the mainstream. It was released at a time when grunge was at the height of its popularity, and pop punk was slowly beginning to gather mainstream attention. AllMusic saw the album's success in the "striking, haunting visuals that complemented the album's nihilistic yet wistful mood."
+As of 2020, Undertow has sold over three million copies in the United States, and is certified triple platinum by the Recording Industry Association of America.
         
         
     
@@ -52,9 +53,7 @@ According to AllMusic, Undertow helped heavy metal music remain prominent as a m
 {{< youtube id="BS0KZaaPNsk" title="TOOL - Intolerance (Audio)" >}}<br>
 ### More Videos
 
-- [TOOL - Sober](https://www.youtube.com/watch?v=nspxAG12Cpc)
 - [TOOL - Prison Sex (Audio)](https://www.youtube.com/watch?v=HQqjHechnj4)
-- [TOOL - Prison Sex](https://www.youtube.com/watch?v=cUPV4OfNlt0)
 - [TOOL - Sober (Audio)](https://www.youtube.com/watch?v=ouVedNg-6WQ)
 - [TOOL - Bottom (Audio)](https://www.youtube.com/watch?v=O7VmBC19P5M)
 - [TOOL - Crawl Away (Audio)](https://www.youtube.com/watch?v=WuUM2mz8Q_s)
@@ -63,6 +62,8 @@ According to AllMusic, Undertow helped heavy metal music remain prominent as a m
 - [TOOL - 4° (Audio)](https://www.youtube.com/watch?v=8NGemR1cqZQ)
 - [TOOL - Flood (Audio)](https://www.youtube.com/watch?v=DZNxJWIcwCc)
 - [TOOL - Disgustipated (Audio)](https://www.youtube.com/watch?v=CmJYZ1NIn1Y)
+- [TOOL - Sober](https://www.youtube.com/watch?v=nspxAG12Cpc)
+- [TOOL - Prison Sex](https://www.youtube.com/watch?v=cUPV4OfNlt0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,4 +76,4 @@ According to AllMusic, Undertow helped heavy metal music remain prominent as a m
 | Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |
 | Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment.  |
-| Discogs URL    | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-Undertow) |
+| Discogs URL    | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-2-Undertow) |

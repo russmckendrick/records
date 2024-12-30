@@ -4,7 +4,6 @@ artist_name: "Zero 7"
 artist: "zero-7"
 album_name: "Simple Things"
 date: 2015-10-05T18:21:13.000000Z
-release_date: "2001-04-23"
 release_id: "7198006"
 slug: "simple-things-7198006"
 hideSummary: true
@@ -25,17 +24,18 @@ additional_images:
     - "https://i.discogs.com/oQmTSXC56euR7nH4Zutrkbv3mQybKgZaUp4Sw7yTE0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ni00OTYyLmpwZWc.jpeg"
     - "https://i.discogs.com/yaxuea9f8vauv-MeUE_QnbE0ad3sJqgsV2oMCdcHhtg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ni0yODA0LmpwZWc.jpeg"
     - "https://i.discogs.com/BRX1h138NUkPCz6LhKmdrfv3j-nC2cfPxWrgsurth70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/My0zNDQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/3D6vXV12WAgdKl5vKrSubBOaKaSOSYOuFrvZIq9AkFY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/OC0xNjY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/YrEQ8aTohRlfk3yxbVxTNzKcoBZ2Ve4gtqNBbQsBVno/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ny05MTA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/muLvTsCGZuoevvNacvhI08pKkuCGUutH0pp9ZQPui94/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/OC0xNjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ti-2dqgSnOe4YmcAGIKXU4QH_fMlUJT8VoJO6hHlnLI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ny05MTA2LmpwZWc.jpeg"
     - "https://i.discogs.com/yGVsXL5TUAbmTsqSbTNJ9HDOPkjFeLmngFCNIO0CtkA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ny01NzM5LmpwZWc.jpeg"
     - "https://i.discogs.com/ZW-0fKqdnTtH4ccnK8h_8KFQsvsc8IamuPhKz88s6vQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/OC05NDU2LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
-        
-        
+Simple Things is the debut studio album by English duo Zero 7, released on 23 April 2001. It peaked at number 28 on the UK Albums Chart, staying on the chart for 56 weeks. It was nominated for the Mercury Prize. Five singles, such as "Destiny" and "In the Waiting Line", promoted the album prior to its release.
+
+
+    
     
 
 
@@ -53,7 +53,7 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 11. Likufanele (6:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/simple-things/1326273139" >}}<br>
 
 
 ## Videos
@@ -61,9 +61,12 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 {{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}<br>
 ### More Videos
 
-- [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 - [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
+- [Simple Things (Live)](https://www.youtube.com/watch?v=Z2IHG5rLMns)
+- [Zero 7 - In The Waiting Line (Official Video) ft. Sophie Barker](https://www.youtube.com/watch?v=V1zrEGsj234)
+- [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
+- [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 
 ## Release Images
 {{< imageGrid >}}

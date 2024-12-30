@@ -25,6 +25,8 @@ styles: ["Synth-pop", "Indie Rock"]
 
 Sundew is the debut album by Mancunian band Paris Angels, released by Virgin Records in 1991. Following the group's arrival onto the British music scene during the popularity of Madchester, the album features the group's unique take on Madchester and baggy, combining Northern indie music with electronic instrumentation, techno and dance-pop. The album's cross-influenced sound is a result of each of the seven members of the band bringing their own influences. Much of the record, which was produced by Paul Johnson, was recorded near Wrexham, North Wales.
 Despite lacking a hit single, the album reached number 37 on the UK Albums Chart, although general public indifference was a result of the Madchester scene losing popularity, and the band were dropped from Virgin after the label was sold to EMI in 1992, causing the band to split up and abandon their second album. Nonetheless, Sundew received acclaim from music critics, and today is regarded as a classic of its genre.
+
+
     
     
 
@@ -50,6 +52,15 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 {{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity (1991)" >}}<br>
 ### More Videos
 
+- [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
+- [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
+- [Paris Angels - Slippery Man (1991)](https://www.youtube.com/watch?v=YcoIGguMLmw)
+- [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
+- [Paris Angels - Perfume (Loved up) (audio only)](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
+- [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)
+- [Paris Angels - Chaos (Stupid Stupid)](https://www.youtube.com/watch?v=5nP9We7LcxA)
+- [Paris Angels - Purest Values (Audio)](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
+- [Paris Angels - Eternity (1991)](https://www.youtube.com/watch?v=XVyHvWFRlCo)
 - [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
 - [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
 - [Paris Angels - Slippery Man (1991)](https://www.youtube.com/watch?v=YcoIGguMLmw)

@@ -13,7 +13,7 @@ cover:
     caption: "Factory Communications 1978-92 by Various"
 additional_images:
     - "https://i.discogs.com/JCQ0Jlowfz66fki3nPU90zC893u7Y97N69OptvLXazE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE1NzUyMTA2/NDEtOTM3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/ytBKFWO3skhcx8MjfTJaFm9z4iX9hGWJTFO7UboCDa0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE1OTQxNDQ4/OTAtNzQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/K-LLxBNkBjTe99FPOzm5SHdZnXkTaIx8DrDmBb7d7PI/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE1OTQxNDQ4/OTAtNzQ3OS5qcGVn.jpeg"
     - "https://i.discogs.com/akE_7VLLqvyA-2myqSbxUKjvZI290qOGZ3Xx2SN1sYo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/NzQ5LTE2NDE3NTQ0/MjUtNDI2OS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop"]
@@ -103,26 +103,23 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 79. Sunshine And Love (Lionrock Remix) (7:17)
 
 
-## Spotify
-{{< spotify type="album" id="1qiEqfRbZRQR5Fys9UODFW" width="100%" height="500" >}}<br>
-
 
 ## Videos
-### Joy Division - Digital
-{{< youtube id="9qgFGqJz9yc" title="Joy Division - Digital" >}}<br>
+### Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4
+{{< youtube id="yBJfnZAkkCc" title="Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4" >}}<br>
 ### More Videos
 
-- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
-- [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
 - [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
-- [A Certain Ratio - All Night Party (1979)](https://www.youtube.com/watch?v=HAM9uMKQCPw)
 - [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
-- [Electricity (Factory Version) - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
 - [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
-- [Joy Division - 06 - She's Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
 - [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
+- [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US "Sunshine & Love" CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
+- [Joy Division - Digital](https://www.youtube.com/watch?v=9qgFGqJz9yc)
+- [Cabaret Voltaire - Baader Meinhof](https://www.youtube.com/watch?v=8ty1kAz7gR0)
+- [A Certain Ratio - All Night Party (1979)](https://www.youtube.com/watch?v=HAM9uMKQCPw)
+- [Electricity (Factory Version) - OMD](https://www.youtube.com/watch?v=GFuz-BLmeb4)
+- [Joy Division - 06 - She's Lost Control](https://www.youtube.com/watch?v=7PtvIr2oiaE)
 - [The Distractions - Time Goes By So Slow (1979)](https://www.youtube.com/watch?v=ouOeEoF8-Dk)
-- [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US Sunshine & Love CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 - [the names - nightshift](https://www.youtube.com/watch?v=eg4i-fwgBac)
 - [New Order - Ceremony (Original Version) + Lyrics](https://www.youtube.com/watch?v=H5UK40sSo8I)
 - [Minny Pops - Dolphin's Spurt](https://www.youtube.com/watch?v=7nEVwZdmraQ)
@@ -131,7 +128,14 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 - [Section 25 - Dirty Disco](https://www.youtube.com/watch?v=sEVROLHqI2A)
 - [New Order - Everything's Gone Green](https://www.youtube.com/watch?v=lRgHSxWnhqk)
 - [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=Tt2YPSGHmwE)
+- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
 - [Various ‎– Factory Records - Communications 1978-92](https://www.youtube.com/watch?v=R2H11zigELI)
+- [Various ‎– Factory Records - Communications 1978-92 FULL ALBUM 1/4](https://www.youtube.com/watch?v=yBJfnZAkkCc)
+- [Seven Reasons](https://www.youtube.com/watch?v=lb4JiEiGtko)
+- [Get the Message (DNA Mix)](https://www.youtube.com/watch?v=vXSFntRia0k)
+- [Tasty Fish](https://www.youtube.com/watch?v=HKjf-RWReIA)
+- [Step On](https://www.youtube.com/watch?v=Z6xFAuxft7I)
+- [Happy Mondays - Sunshine & Love (Lion Rock Mix No.1) 1992 From the US "Sunshine & Love" CD Single](https://www.youtube.com/watch?v=g0dwJjuT-aA)
 
 ## Release Images
 {{< imageGrid >}}

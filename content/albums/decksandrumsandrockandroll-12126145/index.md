@@ -13,18 +13,23 @@ cover:
     caption: "Decksandrumsandrockandroll by Propellerheads"
 additional_images:
     - "https://i.discogs.com/kAbFJLo5cOav-hVlDMh6718hg9Ep19krhHtN-no5cqE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/NDgtMjAzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/Ef0-txVwrGxtooheoP-F1SKTSCtmCl_NFUZN-CvmIQ4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/NTUtMTcxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/FHQIy5e_0Trr5InQkTNHLnuDjC-JSfjexOqFoGZJVQk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/NTUtMTcxOS5qcGVn.jpeg"
     - "https://i.discogs.com/GqllW_N4ald0klJH_bAzf0wbKNEvI-kQKmMS2K7xPqw/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/NjMtMTI0NC5qcGVn.jpeg"
     - "https://i.discogs.com/dWe_9Fs76bUBmJVZlruFlQDgoee8UlC2Oj-Kv2Rq79g/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/NzgtNzMyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/-H8dSI8y-zZE7Rx78vPqjJZHE-Io3sAkekk2cLcaQxA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/ODYtNTgwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/Ie6TUlRLZU9GOSdxow4FlkcTFiayIf2_eBGAtxTTnR4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/OTQtODQ5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/cyhvUTnb33wyhaLt2wdvinOTsDrs6g6YLRvuGGv3GLo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODUw/MDgtMjQ0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/ZubIbR7h8vr9QuvEwCzH8WEX2FJQV0_9nVLaBwjGnKc/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODUw/MjEtNDE2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/VXZTIN4CaWlTywh5gZ04aSRKQ8WrqRsaBXia-szgMPk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/ODYtNTgwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/nu213hLL65S59V5zdnmkrLG9aDCMbXCWV3OLnvXBPfk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODQ5/OTQtODQ5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ererurIotl5kuBvCAMtB7jN1QOW9NQY3DH66FLMatnE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODUw/MDgtMjQ0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/tOnmeYWqh8jot8GJb1u4YkJhEbR2HhAuaZwtio4IK6g/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU0ODUw/MjEtNDE2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Pf-toRNBJyMgWc1qNTH1dDpxPwPEy2VPw38jA7ymuso/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MTQ1LTE2MjU1MTIx/MjMtOTk4Ny5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Breakbeat", "Big Beat"]
 ---
 
+Decksandrumsandrockandroll is the only studio album by English electronic music duo Propellerheads. It was originally released by Wall of Sound on 26 January 1998 in the United Kingdom. In the United States, it was released by DreamWorks Records with a different track listing.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,14 +52,16 @@ styles: ["Breakbeat", "Big Beat"]
 
 
 ## Videos
-### Propellerheads --- Take California
-{{< youtube id="Dd8WjeK8riE" title="Propellerheads --- Take California" >}}<br>
+### Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)
+{{< youtube id="smXziOEWO7Q" title="Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)" >}}<br>
 ### More Videos
 
-- [Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)](https://www.youtube.com/watch?v=smXziOEWO7Q)
-- [Spybreak! (Short One)](https://www.youtube.com/watch?v=Agbn4NzOj04)
+- [CD (1997)](https://www.youtube.com/watch?v=S8LaAYjOF7Q)
+- [Propellerheads --- Take California](https://www.youtube.com/watch?v=Dd8WjeK8riE)
 - [David Arnold and Propellerheads - On Her Majesty's Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
 - [Propellerheads feat: Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
+- [Spybreak! (Short One)](https://www.youtube.com/watch?v=Agbn4NzOj04)
+- [Propellerheads  - On Her Majesty's Secret Service (Vinyl Tonic)](https://www.youtube.com/watch?v=smXziOEWO7Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,6 +69,7 @@ styles: ["Breakbeat", "Big Beat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Decksandrumsandrockandroll |
 | Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
 | Label          | Wall Of Sound |
 | Catalog Number | WALL LPN015 |

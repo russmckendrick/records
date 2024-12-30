@@ -12,9 +12,10 @@ cover:
     alt: "Rotten Apples: Greatest Hits by The Smashing Pumpkins"
     caption: "Rotten Apples: Greatest Hits by The Smashing Pumpkins"
 additional_images:
-    - "https://i.discogs.com/_LopMRG73bGTXID5X3_XLjEvRFQgMc5YJFXME1YjHPM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE2/Njg2LTE3MjMxNTM0/OTEtOTMzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/JhYortKHW6wQtT0zexk5YVETPUio0Dtnz0mFJKmN7yE/rs:fit/g:sm/q:90/h:574/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE2/Njg2LTE3MjU4Mjc3/OTgtMjQyNC5qcGVn.jpeg"
     - "https://i.discogs.com/JFMlg5d0CUPblafoWwZxMSwQePFd3jpm7ipW41nNPVg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE2/Njg2LTE3MjMxNTM0/OTEtOTUzMS5qcGVn.jpeg"
     - "https://i.discogs.com/UguX4bK-zmUVa3462SQru42caB00ughDBv6ktmDsGYU/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE2/Njg2LTE3MjMxNTM0/OTAtNDIxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/R3VEWCpIcn2thHxQ_yWac4iGNI2jMLnnIyIQMkzKTfI/rs:fit/g:sm/q:90/h:169/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE2/Njg2LTE3MzAxOTcw/NTMtNzM2NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---

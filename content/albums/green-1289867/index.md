@@ -15,19 +15,21 @@ additional_images:
     - "https://i.discogs.com/uDDosfCaODLEsQZ5i6UfarH7J5ZJMpzkbKIXCYe1kPY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY4/MC04NjgyLmpwZWc.jpeg"
     - "https://i.discogs.com/uMcsW4SudpE4wray-PbyySv9-euRfGTzpg4PlgHZ-R8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4Mjcy/My01MTQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/OnP0IfaaUwp8Qxwc69W52gnOteapBMALAq9pbEO7cUM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY2/Ni0yNDAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/b3DzcEfjs6blh5omqWYPzbGcgPsE1kzfLVWsTpeOEjU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY2/NS01ODY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/sV80qJP-K_nMJMcok3O6bk9BiYgvNTVpwON6SHr3Si8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY2/NS01ODY0LmpwZWc.jpeg"
     - "https://i.discogs.com/V5Cd9k4kB7xCxOt2g9_8vULwbkTwsmNKu8G0F6hOcg0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY4/Ny0zOTY3LmpwZWc.jpeg"
     - "https://i.discogs.com/AiUZcOFGk7Q2_pT7fCoGaTKs5GnqwUpfBcslaJD65AM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY5/OS04ODMxLmpwZWc.jpeg"
     - "https://i.discogs.com/gvMZMs2DYRYZ4QT1W5twDRxo7D5ydzpchpNXJjszCAs/rs:fit/g:sm/q:90/h:440/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4Mjc1/My04ODQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/-PaE4XP3dmlj9EeNFQytMLsk57sRLmLQ0MkjrL1rGVc/rs:fit/g:sm/q:90/h:445/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQyODUwMjYx/NS04NTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/h-UH998o9sbMVq-fEJEdO9fTUH5Dm0yhr6uymfpz7cI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTIyNjMyNTUw/Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/h5b8cBz2R2o67H6VN9OARgAwgcS_59s7x5o8VwEHNY4/rs:fit/g:sm/q:90/h:1066/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTU4ODg3NTkx/NS05MDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/XTy7q69lHbnZA3rcin9WLa1WnCvUaZ0jvxwHIO7pzMk/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTU4ODg3NTkx/NS05MDcyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Green is the sixth studio album by American rock band R.E.M., released on November 7, 1988, by Warner Bros. Records. The second album to be produced by the band and Scott Litt, it continued to explore political issues both in its lyrics and packaging. The band experimented on the album, writing major-key rock songs and incorporating new instruments into their sound including the mandolin, as well as switching their original instruments on other songs.
+Green is the sixth studio album by American rock band R.E.M., released in the United States on November 8, 1988, by Warner Bros. Records and the following day in the UK and Europe. The second album to be produced by the band and Scott Litt, it continued to explore political issues both in its lyrics and packaging. The band experimented on the album, writing major-key rock songs and incorporating new instruments into their sound including the mandolin, as well as switching their original instruments on other songs.
 Upon its release, Green was a critical and commercial success. To promote Green, the band embarked on an 11-month world tour and released four singles from the album: "Orange Crush", "Stand", "Pop Song 89", and "Get Up".
+
+
     
     
 
@@ -48,10 +50,16 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 13. Untitled (3:15)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/green-remastered/1440947724" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/r-e-m-single/1771353713" >}}<br>
 
 
+## Videos
+### R.E.M. - Pop Song 89 (Official Music Video) [Pop Screen Video Version]
+{{< youtube id="xjMwfDFypa4" title="R.E.M. - Pop Song 89 (Official Music Video) [Pop Screen Video Version]" >}}<br>
+### More Videos
 
+- [R.E.M. - Orange Crush (Official Music Video)](https://www.youtube.com/watch?v=_mSmOcmk7uQ)
+- [R.E.M. - Turn You Inside-Out (Official Music Video)](https://www.youtube.com/watch?v=TBS6N1k4FsQ)
 
 ## Release Images
 {{< imageGrid >}}

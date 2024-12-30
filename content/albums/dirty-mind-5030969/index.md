@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/TFiGcmVvLlsIa4DsjCDTL0JTTTmQWMUwfXWHzDd_eEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjYyNDMw/OC01MDg1LmpwZWc.jpeg"
     - "https://i.discogs.com/cFLw9mrfXrEubHBr8GwCBvdIJWPtftdCLssEALiopyA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk0/Ny03NDUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/uRx_ciJyCIMonjPexCknon-9a802B0M3mg2Wj5048XE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk4/MC0xNDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/wRm7cy8HHF3ygGRIVjwUwv1s97UVG41QfDkRtXSxYSA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk4/MC0xNDA5LmpwZWc.jpeg"
     - "https://i.discogs.com/1EqPJevp8CvikslLR-JwpODa9cx3Z3WlmJlgzVEeZAM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk5/MS04NjU2LmpwZWc.jpeg"
     - "https://i.discogs.com/ifNaCH_wMap_ka6doKaANyw6WtKT5PG729R-e0W15Hs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk3/MS05NjA2LmpwZWc.jpeg"
     - "https://i.discogs.com/te6GHMqPjWkdt3RZuG4j6g8zKxuquucrp__p8qwwM-I/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/NjktMTM4MjkyMjk2/Mi03MjExLmpwZWc.jpeg"
@@ -24,9 +24,11 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Disco", "Soul", "Synth-pop"]
 ---
 
-Dirty Mind is the third studio album by American singer-songwriter, and multi-instrumentalist Prince. It was released on October 8, 1980, by Warner Bros. Records and produced entirely by Prince at his home studio in Minneapolis, Minnesota earlier that year from May to June. Dirty Mind has been considered by critics to be his most creative and boldest album, setting the standard for his artistic direction in the following years.A fusion of post-disco, new wave, funk and dance, Dirty Mind has more punk sounds than Prince's previous albums. Prince’s high and feminine vocals, along with his androgynous image during the album's era, has been commended. Controversially, the album's theme is fueled by explicit topics including oral sex, threesome, incest and ejaculation, which has been credited for opening the doors for sexually explicit albums in the coming years.The first single of Dirty Mind, "Uptown" reached number five on both the Billboard Hot Soul Singles and the Billboard National Disco Action Top 30 charts. Though the album only reached number 45 on the Billboard 200, it earned widespread acclaim from music critics and crossover success. Due to its fusion of genres, critics have hailed it for setting the sound for urban black music of the early 1980s. The album has been ranked by several publications as one of the greatest albums of all time.
+Released in 1980, <i>Dirty Mind</i> finds Prince kicking off the most prolific period of his career—a revolutionary run in which he’d not only steer the careers of such Minneapolis acts as The Time, The Family and Vanity/Apollonia 6, but also become a chart-topping, globe-conquering pop icon. <i>Dirty Mind</i> was his third album in as many years, and it found the barely-twentysomething singer declaring his musical (and sexual) maturity: If the bare-chested, feather-haired young artist on the cover of 1979’s <i>Prince</i> looked like a playful innocent, the bikini-briefed “Head”-master staring back from the cover of <i>Dirty Mind</i> seemed prime to pull off listener’s panties.
 
+No doubt: After teasing us with the frisky funk-pop of “Soft and Wet”—from his 1978 debut album, <i>For You</i>—and then turning up the temptation with hot <i>Prince</i> bops like “Sexy Dancer”, the foreplay was officially over with <i>Dirty Mind</i>. Kicking off with the slinky synth seduction of the title track—co-written by keyboardist Dr Fink—Prince made his carnal intentions clear from the jump: “It doesn’t matter where we are/It doesn’t matter who’s around/It doesn’t matter, I just wanna lay ya down.” Don’t misunderstand him.
 
+After the punk-spiked indecency of “When You Were Mine”—one of the very best Prince songs to never become a hit—and the drown-in-your-own-orgasm debauchery of “Do It All Night”, <i>Dirty Mind</i> reaches its climax with the back-to-back bangers of “Head” and “Sister”. While the former is an explicit, insatiable ode to the joy of oral sex that remains one of Prince’s funkiest tracks—which is sure saying something—the latter is a punk-rock rave-up that dares to tackle the taboo topic of incest. Elsewhere on <i>Dirty Mind</i>, “Gotta Broken Heart Again” puts a folky spin on the R&B romanticism of <i>Prince</i>, while “Uptown” and album closer “Partyup” foresee the political and utopian visions of soon-to-come classics like <i>Controversy</i> and <i>1999</i>.
         
         
     
@@ -46,22 +48,7 @@ Dirty Mind is the third studio album by American singer-songwriter, and multi-in
 {{< applemusic url="https://music.apple.com/gb/album/dirty-mind/214145168" >}}<br>
 
 
-## Videos
-### Dirty Mind
-{{< youtube id="4mXPQIrY5rE" title="Dirty Mind" >}}<br>
-### More Videos
 
-- [When You Were Mine](https://www.youtube.com/watch?v=HEugh8DWQqA)
-- [Do It All Night](https://www.youtube.com/watch?v=IwklCBKfPKM)
-- [Gotta Broken Heart Again](https://www.youtube.com/watch?v=_2nn1fwtGDE)
-- [Uptown](https://www.youtube.com/watch?v=zvq_1mLs6dQ)
-- [Head](https://www.youtube.com/watch?v=G01MStHbl9E)
-- [Sister](https://www.youtube.com/watch?v=uGq5xN-KUDE)
-- [Partyup](https://www.youtube.com/watch?v=_w94tZ9yXYw)
-- [Do It All Night](https://www.youtube.com/watch?v=NUcgcSXDH9k)
-- [Head](https://www.youtube.com/watch?v=1UjU9lnAGso)
-- [Gotta Broken Heart Again](https://www.youtube.com/watch?v=7Xgx5WpMp98)
-- [When You Were Mine](https://www.youtube.com/watch?v=sXS2KdNzMDk)
 
 ## Release Images
 {{< imageGrid >}}

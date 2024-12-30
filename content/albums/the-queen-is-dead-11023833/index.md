@@ -50,13 +50,15 @@ additional_images:
     - "https://i.discogs.com/S5dVzVrmuLAVDmBUrooWJYWRRmy0BsVH-wi4S4Zw3Nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/ODMzLTE1MDg1OTA2/NzItOTA3NS5qcGVn.jpeg"
     - "https://i.discogs.com/Y4zojzICj62zV4QNvm1G1vwVKPl20jgyF-tMGXivaNc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/ODMzLTE1MDg1OTA2/NjMtOTM0OC5qcGVn.jpeg"
     - "https://i.discogs.com/zuX9tqdDruelw0zeI6Sd86yIEUJjbIL5Rh55G3IaaIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/ODMzLTE1MDg1OTA2/NTEtMTQ3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/4wBp9hxlNK0rCTWG40dAgad_ZnN0qH_28Thaz9YirhM/rs:fit/g:sm/q:90/h:742/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/ODMzLTE1MDg4NDE5/ODUtNjMzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/FWbPNGklZcA_B0oiJy_y6ULTmwJSpR0Uro4Lxqv95bY/rs:fit/g:sm/q:90/h:600/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/ODMzLTE1MDg4NDE5/ODUtNjMzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-The Queen Is Dead is the third studio album by the English rock band the Smiths. It was released on 16 June 1986 in the UK by Rough Trade Records, and on 23 June 1986 in the US by Sire Records.
-The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr, working predominantly with the engineer Stephen Street, who had engineered the Smiths' previous album, Meat Is Murder (1985). Marr wrote several songs while the Smiths toured Britain in early 1985, working out arrangements with the bassist, Andy Rourke, and the drummer, Mike Joyce during soundchecks. The title of the album is from Hubert Selby Jr.'s 1964 novel Last Exit to Brooklyn. The cover art features the French actor Alain Delon in the 1964 film L'Insoumis.The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching number two. It reached number 70 on the US Billboard Top Pop Albums chart and was certified Gold by the RIAA in late 1990. In 2020, Rolling Stone ranked The Queen Is Dead 113th on its updated list of the "500 Greatest Albums of All Time". In its 2013 list, NME named The Queen Is Dead the greatest album.
+The Queen Is Dead is the third studio album by the English rock band The Smiths, released on 16 June 1986, by Rough Trade Records. The album was produced by the band's singer, Morrissey, and their guitarist, Johnny Marr, working predominantly with engineer Stephen Street who engineered The Smiths' previous album, Meat Is Murder (1985). Marr wrote several songs while the Smiths toured Britain in early 1985, working out arrangements with bassist Andy Rourke and drummer Mike Joyce during soundchecks. The album title is taken from American writer Hubert Selby Jr.'s 1964 novel, Last Exit to Brooklyn. The cover art features the French actor Alain Delon in the 1964 film L'Insoumis.
+The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two position. It reached number 70 on the US Billboard Top Pop Albums chart and was certified Gold by the Recording Industry Association of America (RIAA) in late 1990. The Queen Is Dead received widespread critical acclaim and was included in multiple best album lists. Rolling Stone ranked the album 113th on its 2020-updated list of the "500 Greatest Albums of All Time". In its 2013 list, NME named The Queen Is Dead the greatest album of all time.
+
+
         
         
     
@@ -108,8 +110,8 @@ The album was produced by the singer, Morrissey, and the guitarist, Johnny Marr,
 
 
 ## Videos
-### T̶h̶e̶ q̶u̶e̶e̶n̶ i̶s̶ d̶e̶a̶d̶  - T̶h̶e̶ S̶m̶i̶t̶h̶s̶ (̶F̶u̶l̶l̶ a̶l̶b̶u̶m̶)̶ H̶Q̶
-{{< youtube id="Ol34GSU5jCY" title="T̶h̶e̶ q̶u̶e̶e̶n̶ i̶s̶ d̶e̶a̶d̶  - T̶h̶e̶ S̶m̶i̶t̶h̶s̶ (̶F̶u̶l̶l̶ a̶l̶b̶u̶m̶)̶ H̶Q̶" >}}<br>
+### The Smiths - The Queen Is Dead - A Film By Derek Jarman (Official Music Video)
+{{< youtube id="YS3UMjNUqFM" title="The Smiths - The Queen Is Dead - A Film By Derek Jarman (Official Music Video)" >}}<br>
 
 
 ## Release Images

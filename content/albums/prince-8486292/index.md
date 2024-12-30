@@ -12,20 +12,19 @@ cover:
     alt: "Prince by Prince"
     caption: "Prince by Prince"
 additional_images:
-    - "https://i.discogs.com/8wTF9zoIJMiA7Um9Av0roqs5uQ73NzComhNgF4JRnbw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/MS04MjU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/6lSf2GZqfwH8xuT9ai0GF-1VjT15z60KxxtlqKF3niI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/MS00OTcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/TyfHRFG2ftg5rc_z1TRenbIm4FmG5b4v3QGUIPOYn4I/rs:fit/g:sm/q:90/h:63/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTQ2MjcyODEy/NC01Nzk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/fXVpY6hj6OMKFsAJw_-bek73V9Ol-Szc4HAGWW6DmSM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/MC02NDUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/t_L5vsfU9-NVr-L5zLoAeiv5ZC2ICZ_42XFMQptPjUQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/MC04OTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/POx81NjI61Wnj3d_ED50kE3rYvZ8LuqNLc4xNMLmc7M/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTY5MjQ1OTk4/Ny00NDI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/CF006OsrcI-rn00TBhVFfQRiycmV19t84p22klSSOCw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTY5MjQ1OTk4/OC00NzA4LmpwZWc.jpeg"
     - "https://i.discogs.com/dTXye1ZheShNZibbADxXLvH9b1pvykdVC-NTKwV0fXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/My0xNzYwLmpwZWc.jpeg"
     - "https://i.discogs.com/vEkmLYE1OFF6DNe6NgolkaavYChMbMsZe6wenhZaM44/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTU2MTEyOTQ4/NC00MTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/RwW93_-wJNpE9G2YkEbC70bUqH-8P3WZ7jW8i8FXXeY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTY5MjQ1OTk4/OC04OTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/bBJ9MX45pw9TLwcV18WS992R4OTQylBnLehcNFiF9s0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTY5MjQ1OTk4/Ny00MDI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/TyfHRFG2ftg5rc_z1TRenbIm4FmG5b4v3QGUIPOYn4I/rs:fit/g:sm/q:90/h:63/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODYy/OTItMTQ2MjcyODEy/NC01Nzk3LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Disco", "Pop Rock"]
 ---
 
-Prince is the second studio album by American musician Prince. It was released on October 19, 1979 by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
-
-
+Prince is the second studio album by the American musician Prince. It was released on October 19, 1979, by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".
+Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
     
     
 
@@ -42,18 +41,22 @@ Prince is the second studio album by American musician Prince. It was released o
 9. It's Gonna Be Lonely (5:30)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-prince/175020481" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/prince-single/872805392" >}}<br>
 
 
 ## Videos
-### Prince - Why You Wanna Treat Me So Bad? (Official Music Video)
-{{< youtube id="fPaYtVJouYA" title="Prince - Why You Wanna Treat Me So Bad? (Official Music Video)" >}}<br>
+### I Wanna Be Your Lover
+{{< youtube id="j8UpxD6Onco" title="I Wanna Be Your Lover" >}}<br>
 ### More Videos
 
-- [I Wanna Be Your Lover](https://www.youtube.com/watch?v=nzbOY4mGIug)
-- [Prince - I Wanna Be Your Lover (Official Music Video)](https://www.youtube.com/watch?v=Rp8WL621uGM)
+- [Why You Wanna Treat Me so Bad?](https://www.youtube.com/watch?v=YQvPk0L6gGI)
+- [Sexy Dancer](https://www.youtube.com/watch?v=-tWUlOt7V8I)
+- [When We're Dancing Close and Slow](https://www.youtube.com/watch?v=IJ9VDYa5NpE)
+- [With You](https://www.youtube.com/watch?v=uNgrjW8Ms1k)
 - [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
-- [Bambi](https://www.youtube.com/watch?v=INduB7K6VWo)
+- [Still Waiting](https://www.youtube.com/watch?v=Q-COOpRqOQw)
+- [I Feel for You](https://www.youtube.com/watch?v=IluGjaWG5Bk)
+- [It's Gonna Be Lonely](https://www.youtube.com/watch?v=csGzQep_DQc)
 
 ## Release Images
 {{< imageGrid >}}

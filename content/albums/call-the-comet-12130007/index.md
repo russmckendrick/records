@@ -16,13 +16,15 @@ additional_images:
     - "https://i.discogs.com/dWYth0cwDKfYT6wtm-xNXQH3fVAG9F54c_ZT-01C9FI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzEzMjQ3/NTgtNzgyOC5qcGVn.jpeg"
     - "https://i.discogs.com/I1qCAp-OEKMyp43sRmb3EiPJyBxmGRDBNs8bVoEicjQ/rs:fit/g:sm/q:90/h:321/w:321/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzEzMjQ3/NzctNzI3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/YiwGrRrx_nZQmmXPPZIaIfiijTBY-mu-2k5Pq1g63jU/rs:fit/g:sm/q:90/h:321/w:321/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzEzMjQ3/OTgtODIzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/nmpWffWXfdWAEmyM4EJka6y9Sx5dOOFmh40PIRBc7Fc/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzQ0NzY1/MTQtNjM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/cmdHaB6hnJMs7ajzgxcwJlFd7EnMbA6Iw4kMWwrUirE/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzQ0NzY1/MTQtNjM5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/xLjgw4XU9iGLaLPlHS7zEW-sAaMMxsDw0UNLKRTs02Q/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MDA3LTE1MzQ0NzY1/MTQtMjAwOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Call the Comet is the third studio album by the English musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records.
+Call the Comet is the third studio album by musician Johnny Marr. It was released on 15 June 2018 by New Voodoo and Warner Bros. Records.
+
+
     
     
 
@@ -42,7 +44,7 @@ Call the Comet is the third studio album by the English musician Johnny Marr. It
 12. A Different Gun
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1362676938" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/call-the-comet/1698288982" >}}<br>
 
 
 ## Videos

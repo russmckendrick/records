@@ -4,7 +4,7 @@ artist_name: "Prince"
 artist: "prince"
 album_name: "For You"
 date: 2016-06-27T17:46:20.000000Z
-release_date: "1978-04-07"
+release_date: "2017-06-02"
 release_id: "8433126"
 slug: "for-you-8433126"
 hideSummary: true
@@ -25,15 +25,13 @@ additional_images:
     - "https://i.discogs.com/HSMfJymXANUKYPk1gch58FUDIsSFYqLKh-UHC_z-wiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMx/MjYtMTQ2MTY4MTI1/MC04NTY3LmpwZWc.jpeg"
     - "https://i.discogs.com/Pg-_guNSg1riTO1XouoAmaT5V6EBK3_J7DnQ0Yib_FE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMx/MjYtMTQ2MTY4MDY4/NC0xODYzLmpwZWc.jpeg"
     - "https://i.discogs.com/3zaFU7CQm-qAoTzCQDfKmD0IHg29j6UUqYsO9QPNm8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMx/MjYtMTQ2MTY4MDY4/Ni0zODgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/SisuPHF4zP8kWcHrtfB5Tg81g3F7OX1Fy9Cb8D5Xlu0/rs:fit/g:sm/q:90/h:881/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMx/MjYtMTQ2MTY4MTcy/Mi05NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/R3iL1qI0GftHNvjirPvLjIsW2qCBrkSS3-0TorAD87o/rs:fit/g:sm/q:90/h:600/w:408/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzMx/MjYtMTQ2MTY4MTcy/Mi05NjA2LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Disco", "Soul", "Pop Rock"]
 ---
 
-For You is the debut studio album by American singer-songwriter Prince. It was released by Warner Bros. Records on April 7, 1978. All tracks were produced, arranged, composed, and performed by Prince. Prince started recording in September 1977 at Sound 80 in Minneapolis, Minnesota, where he had previously made a demo. Friend and producer David Rivkin (later known as David Z) provided advice and engineering assistance.
+For You is the debut studio album by the American singer-songwriter Prince. It was released by Warner Bros. Records on April 7, 1978. All tracks were produced, arranged, composed, and performed by Prince. Prince started recording in September 1977 at Sound 80 in Minneapolis, Minnesota, where he had previously made a demo. Friend and producer David Rivkin (later known as David Z) provided advice and engineering assistance.
 For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul chart. "Soft and Wet", the album's lead single, became a minor hit on the Billboard Hot 100, peaking at No. 92. However, it became a Top 20 hit on the Billboard Hot Soul Singles chart, peaking at No. 12. In 2016, after Prince's death, the album re-charted on the Billboard 200, reaching No. 138.
-
-
         
         
     
@@ -53,22 +51,10 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 11. I'm Yours (5:01)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/for-you/663586846" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/this-ones-for-you/1228887671" >}}<br>
 
 
-## Videos
-### For You
-{{< youtube id="2-hcFcWYM08" title="For You" >}}<br>
-### More Videos
 
-- [In Love](https://www.youtube.com/watch?v=bLxlK21P2AA)
-- [Soft and Wet](https://www.youtube.com/watch?v=Aq7ddhSGOSE)
-- [Crazy You](https://www.youtube.com/watch?v=HchaAbzBnpg)
-- [Just as Long as We're Together](https://www.youtube.com/watch?v=Mv1Ga81EsaQ)
-- [Baby](https://www.youtube.com/watch?v=282ZyNwDxgE)
-- [My Love Is Forever](https://www.youtube.com/watch?v=2C_mYu5THXk)
-- [So Blue](https://www.youtube.com/watch?v=UeWse9WsnFA)
-- [I'm Yours](https://www.youtube.com/watch?v=lk5avOf5tqY)
 
 ## Release Images
 {{< imageGrid >}}

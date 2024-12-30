@@ -15,15 +15,16 @@ additional_images:
     - "https://i.discogs.com/3omnqeW153g-DjQXzVb7_HeKI-0UXdNAH0kJrevBKnY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzAyNDE0/MTYtOTIyMS5qcGVn.jpeg"
     - "https://i.discogs.com/BPjkPDwcZ7QOU16a8BigV6-VorbadL96PWAPQzf14cM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzAyNDE0/MTYtMzEyMi5qcGVn.jpeg"
     - "https://i.discogs.com/BlRY5aVMSl1L-V5Md8jb_cYYTkUZ76PDzSVT270OOh4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDQtODYyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/lfKI0kHFtHAk5eT1CBanrGvlGcgXPyYT_Ob5W2Z9BdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDQtMTE0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/OP9C49dQhlrlMmUcH4HrPwVcawxh44X3_UKSI19ecQ8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDQtMTE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/POb1hCOlIEIA2ntxl4kN-Kzs30I51vq42nDwR9Z7C20/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDQtNzQ2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/vTvqtSUJ8LEJTRrtshxlmsYp70pTQVDEbocet3wH_0c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDMtMjc0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ptGwrUqT-2-8KMX6IuoLAGLYAm8356jAUxNn_94hDHM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDQtNTA1NC5qcGVn.jpeg"
     - "https://i.discogs.com/stx0GANy_oSOYeKMAz6Mx9b3DWJMWaxqGz8gpP7oCkQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDMtOTExNy5qcGVn.jpeg"
     - "https://i.discogs.com/KF0XYqbP27qMn0FwiXv31B7SHKntAhmwlR4BP792gmw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/NDMtNzYxOS5qcGVn.jpeg"
     - "https://i.discogs.com/UbiJIH5zMlpacNgOs1Mx8YxAQWhkXsB_zAXRe9MQh6k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzA0MjYz/MzgtODA5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/v4h3F3FZp07BjXFH8vAMAce8xxFOYZ6M4j_JoZgVPnQ/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzAzMzk5/MTItNTgzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/pCN84k8gGGwufUTxjhZ1U6yLe_ulkLdSYOV-GpC7p6Q/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzAzMzk5/MTItNTgzMC5qcGVn.jpeg"
     - "https://i.discogs.com/Hxy_El66t8-nFqB1oLO_e4yVVDX4XfUc_TeAs6Bcdxc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2NzAzNjMy/MDctOTE2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/-8SwxGiOMHNsY0R8A5lMzH94c1Sm0XC5x0KVyo4e-Uw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzMwLTE2OTQ2MjUy/MTEtMjk2Mi5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Leftfield", "Electro"]
 ---
@@ -56,15 +57,13 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 ### More Videos
 
 - [Leftfield feat Grian Chatten - Full Way Round [Edit]](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
-- [Making A Difference](https://www.youtube.com/watch?v=7WIyTMT47ls)
-- [City Of Synths](https://www.youtube.com/watch?v=I3wZZJQW028)
 - [Leftfield - Pulse (Official Video)](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
-- [Machines Like Me](https://www.youtube.com/watch?v=1x8WoM-GwHM)
-- [Rapture 16](https://www.youtube.com/watch?v=VXH3OsAOI_A)
-- [Heart And Soul](https://www.youtube.com/watch?v=EBXjesn-xqI)
 - [Leftfield - Accumulator (Official Video)](https://www.youtube.com/watch?v=CW0g4FzyqqU)
-- [Come On](https://www.youtube.com/watch?v=nBjO_SXGoDE)
-- [Power of Listening](https://www.youtube.com/watch?v=nOLCBYc2u1M)
+- [This Is What We Do](https://www.youtube.com/watch?v=xZZ9JH2eS8M)
+- [Leftfield feat Grian Chatten - Full Way Round [Edit]](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
+- [Leftfield - Pulse (Official Video)](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
+- [Leftfield - Accumulator (Official Video)](https://www.youtube.com/watch?v=CW0g4FzyqqU)
+- [Leftfield feat Earl 16 - Rapture 16 (Official Video)](https://www.youtube.com/watch?v=Y-ntDC1V3Qc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +75,5 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (White [Opaque]) |
 | Label          | Virgin Music |
 | Catalog Number | LF004LPY |
-| Notes | On sticker: Leftfield The new album Limited white colored vinyl LF004LPY  Copies ordered via Recordstore included an exclusive signed print.  ℗ & © 2022 Neil Barnes T/ As Leftfield under exclusive licence to Virgin Music. Made in the EU.  Recorded in London Mastered at Metropolis, London  Track A1, B2 to C1, C3 to D3: Warner Chappell Music Track A2: Warner Chappell Music / Domino Publishing Co. Track B1: Warner Chappell Music / Copyright Control Track C2: Warner Chappell Music / CTM Publishing  Album Cover Image: © [a2263621] / [a2238394]. 'USA. Grand Canyon, Arizona. 2020'  This Is What We Do: Contains a sample of [r11793892] by [a3006]. Percussion by [a5402692], courtesy of [a3006] Rapture 16: Sample taken from an ancient [a9052] dub plate Heart And Soul: Abdelatif Lahlou audio (playing raita and speaking) courtesy of TravlesWithMusic.com, produced by Listen For Life Productions (ListenForLife.org) copyright 2006; used with permission  This Is What We Do is dedicated to the memory of [a2657] who we all owe an enormous dept.  Some copies has a sticker: Made in Germany |
+| Notes | On sticker: Leftfield The new album Limited white colored vinyl LF004LPY  Copies ordered via Recordstore included an exclusive signed print. 100 copies sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  ℗ & © 2022 Neil Barnes T/ As Leftfield under exclusive licence to Virgin Music. Made in the EU.  Recorded in London Mastered at Metropolis, London  Track A1, B2 to C1, C3 to D3: Warner Chappell Music Track A2: Warner Chappell Music / Domino Publishing Co. Track B1: Warner Chappell Music / Copyright Control Track C2: Warner Chappell Music / CTM Publishing  Album Cover Image: © [a2263621] / [a2238394]. 'USA. Grand Canyon, Arizona. 2020'  This Is What We Do: Contains a sample of [r11793892] by [a3006]. Percussion by [a5402692], courtesy of [a3006] Rapture 16: Sample taken from an ancient [a9052] dub plate Heart And Soul: Abdelatif Lahlou audio (playing raita and speaking) courtesy of TravlesWithMusic.com, produced by Listen For Life Productions (ListenForLife.org) copyright 2006; used with permission  This Is What We Do is dedicated to the memory of [a2657] who we all owe an enormous dept.  Some copies has a sticker: Made in Germany |
 | Discogs URL    | [Leftfield - This Is What We Do](https://www.discogs.com/release/25374730-Leftfield-This-Is-What-We-Do) |

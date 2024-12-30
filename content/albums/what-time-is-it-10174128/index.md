@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/XgBc3AdgsswtQu6RvNfetRrcB4kuIITddLdcaYE3cyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE0OTI4NzUz/ODEtNDgzMC5qcGVn.jpeg"
     - "https://i.discogs.com/v3VQJuBjQeMg_f2YoiPZiUJvZYPeiX0F-xiu6DJ3v50/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE0OTI4NzU0/MTAtNzY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/AMZsSoiRwFtXuSNv-4z2MuUekfTCvKcoOSJYvpqfqKc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE2Nzg0OTk5/MjEtMzAxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/kVDCikFBj6sImBHXTOwovvKKJ_bjsh9Eo7RVwDc1YsA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE2Nzg0OTk5/MjEtOTIzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/cZoEKhRvIcxkbJU3UsbUCsQXWnGlYErejYr7uLn0cAQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE2Nzg0OTk5/MjEtOTIzNy5qcGVn.jpeg"
     - "https://i.discogs.com/R4jCKGYWoG7TOq84ImzUJINTb1dRtRRMAqD5Ulq1rC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE0OTI4NzU0/NTktMTg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Vchl6OOSj9ONjWq4sOp2qXywxD4IOT_xwLUb9j9azRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE0OTI4NzU0/NjgtOTIxMS5qcGVn.jpeg"
     - "https://i.discogs.com/ErBNO7krubR-BRPq0JgAfgidrC-GvAinBQUqAKl6jtY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/MTI4LTE0OTI4NzU0/ODAtNzE3OS5qcGVn.jpeg"
@@ -48,17 +48,17 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 {{< youtube id="_u148NzjYzE" title="The Time - What Time Is It? (1982) - A1 - Wild N' Loose" >}}<br>
 ### More Videos
 
-- [Wild and Loose](https://www.youtube.com/watch?v=NNFcBDWHF-k)
 - [The Time - What Time Is It? (1982) - A2 - 777-9311](https://www.youtube.com/watch?v=NJ2nkA-vydE)
-- [777-9311](https://www.youtube.com/watch?v=zioEaqjPAGI)
 - [The Time - What Time Is It? (1982) - A3 - Onedayimgonna'b'somebody](https://www.youtube.com/watch?v=EziNPrsg24g)
-- [Onedayi'mgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
 - [The Time - What Time Is It? (1982) - B1 - The Walk](https://www.youtube.com/watch?v=KXAsLI-i21w)
-- [The Walk](https://www.youtube.com/watch?v=EI9YIDpqor8)
 - [The Time - What Time Is It? (1982) - B2 - Gigolos Get Lonely 2](https://www.youtube.com/watch?v=VxGrXIXuwnY)
-- [Gigolos Get Lonely Too](https://www.youtube.com/watch?v=85iu_Jieolc)
 - [The Time - What Time Is It? (1982) - B3 - I Don't Wanna Leave You](https://www.youtube.com/watch?v=R4h5eV7qc5U)
+- [Onedayi'mgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
+- [777-9311](https://www.youtube.com/watch?v=zioEaqjPAGI)
+- [Gigolos Get Lonely Too](https://www.youtube.com/watch?v=85iu_Jieolc)
 - [I Don't Wanna Leave You](https://www.youtube.com/watch?v=JQbs4jmHz7E)
+- [Wild and Loose](https://www.youtube.com/watch?v=NNFcBDWHF-k)
+- [The Walk](https://www.youtube.com/watch?v=EI9YIDpqor8)
 
 ## Release Images
 {{< imageGrid >}}

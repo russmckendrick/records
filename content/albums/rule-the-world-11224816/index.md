@@ -16,17 +16,21 @@ additional_images:
     - "https://i.discogs.com/Uvo4Y5u_1TrE0iTrJSOzydXlSJIVxNvisLTlswp_UKw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE1MTQ2MzE4/NzktNzMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/StqJe1944aDK1cUYHCrNTxawbBkc_Q-xV_hqTcwrUxQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE1MTQ2MzE4/NzktNDczNS5qcGVn.jpeg"
     - "https://i.discogs.com/L2G5D-Iq1eX8XqJhIUyCffw0LuGj75Sgo-7Dr0l1dCE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE1MTQ2MzE4/ODAtMjI3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/tq5RCaq0EoEyHg6FWw5DoKl7l2OZj4wL1h9fdtObek4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA3/OTUtNTI4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/IDudtfT1wbjsGJOZY0upvSJsnJ3PfAnu8Z0y4YIHe3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA3/OTgtNjU3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/hr3eZ3V9Bd8_qOxDvpbNyKYm9IHVu6a-4zm3daP0D6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA4/MDEtNDc1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/fjJQ2toxryOTCEUYFSWd-POdMlD0_FqmaauaLD_fHcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA4/MDMtNjA0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/IoOr8zyVFMC6URREDtwtLl05KMHrx7Rpaw6Xc05ZD0I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2OTAyMTcz/OTYtODU1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/PJXoG6OEhhDJXxDZ_kg_dqMrnVh8PdbBuLPbcylHCBw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2OTAyMTcz/OTYtMzEyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/baLcGldfSu_k2aaf6h_LHEr3njQdBIR_GYpIq6OkZww/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2OTAyMTcz/OTYtMjA2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Gxr-ZV8UcFMGib-pz3KEpxo3VNhVRsvRHpnOBlqR_P0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2OTAyMTcz/OTYtMTYyNS5qcGVn.jpeg"
     - "https://i.discogs.com/08PEMoqOXr2MhwcDk7nXSXkAtegyaW5KHHwc_PyXBNw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA4/MDgtOTg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/KVU29K1WkvZ-EmxgFVPxNERH3jG3zzkePKPEV01UwYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/ODE2LTE2MTI3ODA4/MTAtOTE0NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
-styles: ["Pop Rock", "Synth-pop"]
+styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ---
 
-Rule the World: The Greatest Hits is a greatest hits album by English pop/rock band Tears for Fears, released in 2017 by Virgin EMI Records. The compilation is an updated version of 1992's Tears Roll Down (Greatest Hits 82–92), including almost every track from that album (with the sole exception of "Laid So Low (Tears Roll Down)"), plus additional singles from the three studio albums released after Tears Roll Down and two new songs: "Stay" and "I Love You but I'm Lost" (co-written by the band with Dan Smith of Bastille). The latter was released as a digital single on 13 October 2017.The album peaked at No. 12 in the UK, becoming the band's sixth UK top 20 album, and has been certified Gold by the British Phonographic Industry for combined units and sales in excess of 100,000 copies.A UK and European tour called the Rule the World Live 2018 was scheduled to begin in April 2018, but was postponed to 2019 due to "unforeseen health concerns".
+"Everybody Wants to Rule the World" is a song by English pop rock band Tears for Fears from their second studio album Songs from the Big Chair (1985). It was written by Roland Orzabal, Ian Stanley, and Chris Hughes and produced by Hughes. It was released on 18 March 1985 by Phonogram, Mercury, and Vertigo Records as the third single from the album. "Everybody Wants to Rule the World" is a new wave and synth-pop song with lyrics that detail the desire humans have for control and power and centre on themes of corruption.
+An international success, the song peaked at number two in Ireland, Australia, and the United Kingdom and at number one in Canada, New Zealand, and on both the US Billboard Hot 100 and Cashbox. It was certified gold by both Music Canada (MC) and the British Phonographic Industry (BPI). Retrospectively, music critics have praised "Everybody Wants to Rule the World", with some ranking the song among the decade's best. Along with "Shout" (1984), it is one of the band's signature songs.
+A music video received promotion from MTV. In 1986, the song won Best Single at the Brit Awards, and was re-recorded by the band as a charity single for the Sport Aid campaign the same year. "Everybody Wants to Rule the World" has been covered extensively since its release, most notably by New Zealand singer Lorde for the soundtrack to the film adaptation of The Hunger Games: Catching Fire.
+
+
     
     
 
@@ -50,10 +54,15 @@ Rule the World: The Greatest Hits is a greatest hits album by English pop/rock b
 16. Closest Thing To Heaven (3:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rule-the-world-the-greatest-hits/1440759345" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rule-the-world-single/1498448132" >}}<br>
 
 
+## Videos
+### Tears For Fears - Shout (Official Music Video)
+{{< youtube id="Ye7FKc1JQe4" title="Tears For Fears - Shout (Official Music Video)" >}}<br>
+### More Videos
 
+- [Tears For Fears - I Love You But I'm Lost](https://www.youtube.com/watch?v=8RxlpQTgqO4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,7 +70,7 @@ Rule the World: The Greatest Hits is a greatest hits album by English pop/rock b
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Rule_the_World:_The_Greatest_Hits |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World |
 | Format         | Vinyl 2× LP Compilation (Gatefold Sleeve) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3197 |

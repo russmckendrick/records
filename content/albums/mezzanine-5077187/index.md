@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/gqCkCURexqaNgtuxxr1sZDNAdi6lBphQL2dfuNX_It0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/i5yHwuBOenhJz0ublLNqg0NwJxwM63nvN-vOabbdngs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC05MTU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/to4tCbET-yTMHd-JDalNjY7EBeoWukv05rp1dVy7Lnk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTU2NTUzMzU4/MS02NTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/rfzyOHzu-jr7bt-rfzIN0zrdqklZ-7fOprP-t_ZZnXM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTU2NTUzMzU4/MS02NTEzLmpwZWc.jpeg"
     - "https://i.discogs.com/6_3vr5ZjwyBbhnTI3q_j3NnHkBnBBOXN0Jdagelr-gU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTU2NTUzMzU4/MS00NTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/WzIoTvQe4sk-COmrGXLj3OTSXrF5FNhx-oFxJMirTEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTU2NTUzMzU4/Mi04MTQyLmpwZWc.jpeg"
     - "https://i.discogs.com/74ZnN3K2lWQkA6qgyfkr6GsyTHohQmW7bT3_xWoKf4c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTU2NTUzMzU4/Mi05ODA0LmpwZWc.jpeg"
@@ -23,14 +23,15 @@ additional_images:
     - "https://i.discogs.com/0SNlO4b6KdZl8MYvzSKIkeGWd_NoqVE0vj0Lks9_m0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjk1/NC04ODQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/YTg_xnMTsCcARkqqgUh_xwVmkU8FGDaZxF-KQLjCjxs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjk1/My02NjM3LmpwZWc.jpeg"
     - "https://i.discogs.com/AdLTjsk4Qx6nReT5bRAXj1L9UqT5_mU2W0fdU5Fy9Sk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYwOTI4NjI0/NC0xNDAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/H_o9q7DPxtGNSM7t0_Q1FByE7kQ57wzQxkbnYPV0gPs/rs:fit/g:sm/q:90/h:861/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTM4NDUyNzUw/Ni0yOTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/i7cjjhN2-z0EhcpDNMqgSgPvzJf7thHZSKZKpL6yGIw/rs:fit/g:sm/q:90/h:600/w:418/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTM4NDUyNzUw/Ni0yOTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/63BobDnZPVcwIn8l_csWR8Ql5W9Y8-Y0lsXubhmlK9o/rs:fit/g:sm/q:90/h:249/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTM4NDUyNzUw/MS05MjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/0-vqsxW-ov3PMfjz9H3qYei9tqFxSFR3qURqIvel4Ro/rs:fit/g:sm/q:90/h:25/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTM4NDUyNzQ5/Ny03NTU2LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music.Mezzanine topped the charts in the United Kingdom, Australia, Ireland, and New Zealand, becoming the group's most commercially successful album to date. It ranked highly on many year-end lists. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps", which also variously charted in the United Kingdom.
+Mezzanine is the third studio album by English electronic music group Massive Attack, released on 20 April 1998 by Circa and Virgin Records. For the album, the group began to explore a darker aesthetic, and focused on a more atmospheric style influenced by British post-punk, industrial music, hip hop and dub music. The album spawned four singles, "Risingson", "Teardrop", "Angel" and "Inertia Creeps". It was the group's first album not to feature rapper Adrian "Tricky" Thaws and the last to feature Andrew "Mushroom" Vowles. It also marked the first collaboration between Robert "3D" Del Naja and producer Neil Davidge.
+Mezzanine received significant critical acclaim, with many praising the group’s darker sound. It has been named by several publications as one of the best albums of the 1990s and of all time. It is the group's most commercially successful album, topping the charts in the United Kingdom, Australia, Ireland, and New Zealand. It has sold more than 2.5 million copies worldwide.
 
 
     
@@ -51,13 +52,19 @@ Mezzanine is the third studio album by English electronic music group Massive At
 11. (Exchange) (4:08)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mezzanine-deluxe/1428684976" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/massive-attack-feat-sean-garrett-single/1445154283" >}}<br>
 
 
 ## Videos
-### Mezzanine
-{{< youtube id="bcsjz0HXGYk" title="Mezzanine" >}}<br>
+### Massive Attack - Angel
+{{< youtube id="hbe3CQamF8k" title="Massive Attack - Angel" >}}<br>
+### More Videos
 
+- [Massive Attack - Risingson](https://www.youtube.com/watch?v=85E9Q5Wx210)
+- [Massive Attack - Teardrop (Official Video)](https://www.youtube.com/watch?v=u7K72X4eo_s)
+- [Massive Attack - Inertia Creeps](https://www.youtube.com/watch?v=w3mn7EC-skg)
+- [Teardrop (Remastered 2019)](https://www.youtube.com/watch?v=Tb0MC0jFv6M)
+- [M̲a̲ssive A̲t̲tack - M̲e̲zzanine (Full Album)](https://www.youtube.com/watch?v=ORxdyjvfItk)
 
 ## Release Images
 {{< imageGrid >}}

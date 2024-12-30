@@ -4,6 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Tango In The Night"
 date: 2016-01-20T19:29:13.000000Z
+release_date: "1987-04-14"
 release_id: "5935981"
 slug: "tango-in-the-night-5935981"
 hideSummary: true
@@ -15,16 +16,20 @@ additional_images:
     - "https://i.discogs.com/0yhicXRj9oPk1dMa-uT45v7kX4kXxomD7MY51hGF_3k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk2/MS00NjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/MYaUV0l4j1ZbpOT4G2g2FxE5dqenuE06b9M8dFp3hrI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk1/Ny0zNzQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/Ombmk2MctPuwVLdrMBBOUxtW7Ez1oLe0JVo6cFGh7H8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk2/MS01NzgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ssd800FHF_2O8TPObPNMaSchE-YZlsEvwqVYFxIXXPU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk2/Mi05MTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/49LaWiTBRZu7y9v_M_FfYbeo4SUQSzKNG8xyVGY6vwI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk2/Mi05MTUwLmpwZWc.jpeg"
     - "https://i.discogs.com/EYVb4VPEhiGM1E7VzGUIqa6hhXSeE1nqVjXvAzUBWQs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk2/MS05MTM0LmpwZWc.jpeg"
     - "https://i.discogs.com/FdSCbUXH946tJQqfiXbx-l_5tHqNmvfVXDV_rsFnLZY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU5/ODEtMTQwNjgyMjk1/OC00ODMyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Classic Rock"]
 ---
 
-Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.
-Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single.
-    
+<i>Rumours</i> might be Fleetwood Mac’s most dramatic album, but <i>Tango in the Night</i> is their most poignant. Stevie Nicks had just left rehab after touring a successful third solo album, <i>Rock a Little</i>. Christine McVie made a solo album, too (1984’s <i>Christine McVie</i>). Mick Fleetwood had gone through bankruptcy and John McVie struggled with a drinking habit that, by 1987, had culminated in a seizure. By the time the band started recording, they hadn’t played together for four years.
+
+Lindsey Buckingham says that <i>Mirage</i> was an attempt to go back to something like <i>Rumours</i>: commercial, simple, up the middle. But in a way, <i>Tango in the Night</i> comes closer. Not so much in its sound, but in how it fits into its musical surroundings. As a great pop band, Fleetwood Mac has never been ahead of the times—if anything, they’re always just behind them enough to serve as a kind of summary or reflection. Where <i>Rumours</i> feels like mid-’70s pop-rock, <i>Tango</i> feels like the late 1980s: the synthesisers and drum machines (“Everywhere”), the gauzy surfaces (“Seven Wonders”), the sense of everything being suspended in pink perfumed mist (“Little Lies”).
+
+Several of the songs started out as demos for a new Lindsey Buckingham solo album, and reflect his obsession with the studio even more than <i>Tusk</i>. Mick Fleetwood says it took him years to understand that Buckingham (who co-produced the album at his home studio) was making the album as a kind of goodwill gesture, to cinch up loose ends. In an interview from a month before the album came out, Buckingham says he worked hard to make <i>Tango</i> great, because it’d probably be their last album together. He was right.
+        
+        
     
 
 
@@ -43,13 +48,24 @@ Produced by Buckingham with Richard Dashut, Tango in the Night began as one of B
 12. You And I, Part II (2:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-deluxe/1196727792" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-remastered/1217901688" >}}<br>
 
 
 ## Videos
-### Tango in the Night (2017 Remaster)
-{{< youtube id="i_xlI6gMH7U" title="Tango in the Night (2017 Remaster)" >}}<br>
+### Fleetwood Mac - Everywhere (Official Music Video)
+{{< youtube id="YF1R0hc5Q2I" title="Fleetwood Mac - Everywhere (Official Music Video)" >}}<br>
+### More Videos
 
+- [FLEETWOOD MAC - Big Love ´87](https://www.youtube.com/watch?v=ID0Q8L39rNg)
+- [Fleetwood Mac - Seven Wonders (Official Music Video)](https://www.youtube.com/watch?v=9b4F_ppjnKU)
+- [Fleetwood Mac - Caroline](https://www.youtube.com/watch?v=Y9td_JisDOI)
+- [Fleetwood Mac - Family Man](https://www.youtube.com/watch?v=CZbPD54KTHk)
+- [Tango in the Night (2017 Remaster)](https://www.youtube.com/watch?v=i_xlI6gMH7U)
+- [Fleetwood Mac - Little Lies](https://www.youtube.com/watch?v=yWutmIaNv-o)
+- [Fleetwood Mac- 09- Welcome To The Room...Sara](https://www.youtube.com/watch?v=80ZXt56rDQ8)
+- [You and I, Pt. II (2017 Remaster)](https://www.youtube.com/watch?v=FU7t8oo4ctY)
+- [Fleetwood Mac - Isn’t It Midnight](https://www.youtube.com/watch?v=v2mtUs6GELA)
+- [When I See You Again (2017 Remaster)](https://www.youtube.com/watch?v=gKyigbXAx5Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +77,5 @@ Produced by Buckingham with Richard Dashut, Tango in the Night began as one of B
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 65 |
-| Notes | Please note that this record was originally pressed by Allied Record Company (according to the runout groove). But this is certainly a Record Service Alsdorf pressing.  Issued with a printed inner sleeve with lyrics and credits. Some copies issued with sticker advertising hit songs.  ℗ & © 1987 Warner Bros. Records Inc. for the US & WEA International Inc. for the world outside of the US.  [Inner sleeve & back cover]: UK: WX 65  [On runouts]: - Mastering/processing method derived from the runouts: Direct Metal Mastering [DMM]. - Originally mastered at Precision Lacquer. - Masters were plated at Specialty Records Corporation (SRC), mastered and pressed at Record Service Alsdorf as identified by their specific pattern in the runouts: Country code: SP-GER or SPGER. - Record Service Alsdorf used already existing US mothers. The processing of lacquer disc & 'metalwork' / 'plating' was made at Sheffield Lab Matrix as subcontractor for the Allied Record Company – which can be identified by etched string "△ #####-X" along with a "-SH#" and without the [Allied 'ɑ' logo]-stamp but with the manufacturer matrix number B-#####.   This album is dedicated to Judy Wong.  [url=http://www.discogs.com/release/436642]This release[/url] is almost identical, but different text on the center label below song list on label reads here "All songs published (GB. only)." |
+| Notes | Please note that this record was originally pressed by Allied Record Company (according to the runout groove). But this is certainly a Record Service Alsdorf pressing.  Issued with a printed inner sleeve with lyrics and credits. Some copies issued with sticker advertising hit songs.  ℗ & © 1987 Warner Bros. Records Inc. for the US & WEA International Inc. for the world outside of the US.  [Inner sleeve & back cover]: UK: WX 65  [On runouts]: - Mastering/processing method derived from the runouts: Direct Metal Mastering [DMM]. - Originally mastered at Precision Lacquer. - Masters were plated at Specialty Records Corporation (SRC), mastered and pressed at Record Service Alsdorf as identified by their specific pattern in the runouts: Country code: SP-GER or SPGER. - Record Service Alsdorf used already existing US mothers. The processing of lacquer disc & 'metalwork' / 'plating' was made at Sheffield Lab Matrix as subcontractor for the Allied Record Company – which can be identified by etched string "△ #####-X" along with a "-SH#" and without the [Allied 'ɑ' logo]-stamp but with the manufacturer matrix number B-#####.   This album is dedicated to [a=Judy Wong].  [url=http://www.discogs.com/release/436642]This release[/url] is almost identical, but different text on the center label below song list on label reads here "All songs published (GB. only)." Runouts are stamped and etched |
 | Discogs URL    | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/5935981-Fleetwood-Mac-Tango-In-The-Night) |

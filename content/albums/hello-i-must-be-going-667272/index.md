@@ -24,8 +24,8 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-Hello, I Must Be Going! is the second solo studio album by English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After his band Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).
-Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male.
+Hello, I Must Be Going! is the second solo studio album by the English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).
+Hello, I Must Be Going! received a more reserved commercial reaction than Face Value, but it nonetheless reached No. 2 in the United Kingdom and No. 8 in the United States. In total, Collins released eight singles from the album, with various tracks released as singles in different countries. The most successful was the first US and second UK single, a cover of "You Can't Hurry Love" by the Supremes, which went to No. 1 in the United Kingdom and No. 10 in the United States. Collins supported the album with his 1982–1983 tour, which was his first as a solo artist. The album earned Collins a Brit Award nomination for British Male Artist in 1983, and "I Don't Care Anymore" was nominated for a Grammy Award for Best Rock Vocal Performance, Male.
     
     
 
@@ -43,19 +43,15 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 10. Why Can't It Wait 'til Morning (3:01)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hello-i-must-be-going-deluxe-edition/1081948293" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/hello-i-must-be-going-remastered/1084057959" >}}<br>
 
 
 ## Videos
-### Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)
-{{< youtube id="_LeizBR6NZo" title="Phil Collins - I Cannot Believe It's True (Hello I Must Be Going!) (1982 Scandinavian Vinyl)" >}}<br>
+### Phil Collins - You Can't Hurry Love (Official Music Video)
+{{< youtube id="C9IwBJYTwQ0" title="Phil Collins - You Can't Hurry Love (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Phil Collins      Hello, I Must Be Going](https://www.youtube.com/watch?v=PtW6JFluNwY)
-- [Phil Collins - I Don't Care Anymore (Official Music Video)](https://www.youtube.com/watch?v=xLpfbcXTeo8)
-- [Phil Collins - Don't Let Him Steal Your Heart Away (Official Music Video)](https://www.youtube.com/watch?v=b2W-lxDq4-Y)
 - [Phil Collins-Hello, I Must Be Going! [Full Album] 1982](https://www.youtube.com/watch?v=6KGW8LAeMU8)
-- [I Don't Care Anymore | Phil Collins | Hello, I Must Be Going! | 1982 Atlantic LP](https://www.youtube.com/watch?v=P18nuSvCNE0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +63,5 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Virgin |
 | Catalog Number | V2252 |
-| Notes | Released in a gatefold sleeve, with printed inner sleeve showing credits. ℗ & © 1982 Virgin Records Ltd  Recorded at Old Croft on 1" 8 track, overdubbed at 'The Farm' and 'Townhouse' May - June 82 Strings recorded at CBS  All titles published Phil Collins Ltd / Hit & Run Music (Publishing) Ltd., except A5 1965 Jobete Music Ltd. (U.K.)  Die-cut on Insert is small and round, opposite to straight and longer one on 2nd UK pressing. |
+| Notes | Released in a gatefold sleeve, with printed inner sleeve showing credits. ℗ & © 1982 Virgin Records Ltd  Recorded at Old Croft on 1" 8 track, overdubbed at 'The Farm' and 'Townhouse' May - June 82 Strings recorded at CBS  All titles published Phil Collins Ltd / Hit & Run Music (Publishing) Ltd., except A5 1965 Jobete Music Ltd. (U.K.)  Die-cut on Insert is small and round, opposite to straight and longer one on 2nd UK pressing.  Matrix runouts are stamped except catalogue numbers that are etched. |
 | Discogs URL    | [Phil Collins - Hello, I Must Be Going!](https://www.discogs.com/release/667272-Phil-Collins-Hello-I-Must-Be-Going) |

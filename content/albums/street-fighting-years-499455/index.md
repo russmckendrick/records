@@ -17,15 +17,21 @@ additional_images:
     - "https://i.discogs.com/fT6Gc_Gq91FdIv3XzmQeVOk1hdmL-_ToCCKZeHOoSwQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xMTk2MzIzOTY4/LmpwZWc.jpeg"
     - "https://i.discogs.com/JsUKoPVJBMPNSig-2n37EtQGE1dgARBHeyZkI5OSYXg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDk5NzAzODQ0/LTkzMDUuanBlZw.jpeg"
     - "https://i.discogs.com/R3uDBuz6RDZ2TsOz8PVOcpERWc5gSblqu-rLe_VAfIY/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNjMzNjc5NDY2/LTMwNTMuanBlZw.jpeg"
-    - "https://i.discogs.com/L-65SoAawFUMORU2_6-5fUeWHhIajgJimnYGgzR30tk/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDY3NTcwNzU0/LTUwMzkuanBlZw.jpeg"
-    - "https://i.discogs.com/vkWmhDNxvITdjPHl_pepU0VAZe4rhyAQJmiG7w6AGgY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDY3NTcwNzUx/LTg4MTQuanBlZw.jpeg"
+    - "https://i.discogs.com/pXb9yr8TBNH_2oFRyQJ2jO9WagQ8waq92FxjezbXHEM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDY3NTcwNzU0/LTUwMzkuanBlZw.jpeg"
+    - "https://i.discogs.com/tfOLM_E7NS8ZdUb0RU57ClvyFcTtD7DZBGvqdOqzulI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDY3NTcwNzUx/LTg4MTQuanBlZw.jpeg"
     - "https://i.discogs.com/tL5IGTWDRQp2rJ2blnsG70JGGy6_GP3RzBTAlNeE5gs/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDY3NTcwNzU5/LTg3NDUuanBlZw.jpeg"
-    - "https://i.discogs.com/WElbgwa2ASWqZLXZ9dSfNmhvAj_KNc1ij0f4_PN2Wio/rs:fit/g:sm/q:90/h:1352/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDk5NzAzODQ1/LTE1MzkuanBlZw.jpeg"
+    - "https://i.discogs.com/jKb8w-gSuyvVqf2Mr97yqfMqDtGHzqU74Po-CnfpNhQ/rs:fit/g:sm/q:90/h:600/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNDk5NzAzODQ1/LTE1MzkuanBlZw.jpeg"
+    - "https://i.discogs.com/ktM28c_CkiuT44vkdjBRE10bCWopXaE6nNxqKGlTI50/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNzIwMDI2Mjgx/LTkxMTEuanBlZw.jpeg"
+    - "https://i.discogs.com/GDBsDyGHfx_ImkecgRdM_qPtSgwAW8e_VG9JFzloLlc/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNzIwMDI2MzMz/LTMzMTUuanBlZw.jpeg"
+    - "https://i.discogs.com/HRCAl-Xth7bQgfdlXY1PqKTP67RKnqnHiKxdAh0ab6E/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNzIwMDI2MzM0/LTEwNjQuanBlZw.jpeg"
+    - "https://i.discogs.com/r6QoS9HTHZ2qOOSFZKSfHOeoUqLf76RlWoiExpQryEI/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ1/NS0xNzIwMDI2MzMz/LTg2MzcuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-Street Fighting Years is the eighth studio album by Scottish rock band Simple Minds, released in May 1989 by record label Virgin Records worldwide apart from the US, where it was released by A&M. Produced by Trevor Horn and Stephen Lipson, the album reached the top of the UK Albums Chart.Produced by Trevor Horn and Stephen Lipson, it was a major stylistic departure from the previous album, 1985's Once Upon a Time. While still maintaining the epic arena rock sense of scale and drama which the band had developed since the mid-1980s, Street Fighting Years also moved away from the American soul and gospel influences of its predecessor in favour of soundtrack atmospherics and a new incorporation of acoustic and Celtic/folk music-related ingredients including fretless bass, slide guitar and accordion. The lyrics built on the more political themes which the band had introduced with "Ghost Dancing", moving away from the impressionistic or spiritual concerns of earlier 1980s Simple Minds songs and covering topics including the Poll Tax, the Soweto townships, the Berlin Wall and the stationing of nuclear submarines on the Scottish coast.
+Street Fighting Years is the eighth studio album by Scottish rock band Simple Minds, released in May 1989 by record label Virgin Records worldwide apart from the US, where it was released by A&M. Produced by Trevor Horn and Stephen Lipson, the album reached the top of the UK Albums Chart.
+
+
     
     
 
@@ -47,11 +53,15 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 
 
 ## Videos
-### Street Fighting Years (Remastered 2002)
-{{< youtube id="jE6ET1kBwi8" title="Street Fighting Years (Remastered 2002)" >}}<br>
+### Simple Minds - Street Fighting Years (Live)
+{{< youtube id="TJw3WTtOLqk" title="Simple Minds - Street Fighting Years (Live)" >}}<br>
 ### More Videos
 
-- [SIMPLE MINDS @ Soul Crying Out](https://www.youtube.com/watch?v=wi1KRgolnsI)
+- [Simple Minds - Belfast Child](https://www.youtube.com/watch?v=7vhhTvcLoRw)
+- [Simple Minds - Kick It In](https://www.youtube.com/watch?v=Fe2Pl9MnPHc)
+- [Biko (Remastered 2002)](https://www.youtube.com/watch?v=o4TKoLcrAdY)
+- [Simple Minds - Street Fighting Years (Live)](https://www.youtube.com/watch?v=TJw3WTtOLqk)
+- [Simple Minds - This Is Your Land](https://www.youtube.com/watch?v=GqpAY2OBJzc)
 
 ## Release Images
 {{< imageGrid >}}

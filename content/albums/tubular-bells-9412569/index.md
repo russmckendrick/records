@@ -4,7 +4,6 @@ artist_name: "Mike Oldfield"
 artist: "mike-oldfield"
 album_name: "Tubular Bells"
 date: 2016-12-01T06:53:11.000000Z
-release_date: "1973-02-01"
 release_id: "9412569"
 slug: "tubular-bells-9412569"
 hideSummary: true
@@ -30,12 +29,11 @@ styles: ["Prog Rock"]
 ---
 
 Tubular Bells is the debut studio album by the British musician Mike Oldfield, released on 25 May 1973 as the first album on Virgin Records. It comprises two mostly instrumental tracks. Oldfield, who was 19 years old when it was recorded, played almost all the instruments.
-Tubular Bells initially sold slowly, but gained worldwide attention in December 1973 when its opening theme was used for the soundtrack to the horror film The Exorcist. This led to a surge in sales which increased Oldfield's profile and played an important part in the growth of the Virgin Group. It stayed in the top ten of the UK Albums Chart for one year from March 1974, during which it reached number one for one week. It reached number three on the US Billboard 200, and number one in Canada and Australia. It has sold more than 2.7 million copies in the UK and an estimated 15 million copies worldwide.
-An orchestral version produced by David Bedford was released in 1975 as The Orchestral Tubular Bells. It was followed by the albums Tubular Bells II (1992), Tubular Bells III (1998), The Millennium Bell (1999), and a re-recorded version, Tubular Bells 2003, for its 30th anniversary. A remastered edition was released in 2009. Its contribution to British music was recognised when Oldfield played extracts during the 2012 Summer Olympics opening ceremony in London. In 2010, Tubular Bells was one of ten classic album covers from British artists commemorated on a series of UK postage stamps issued by the Royal Mail.
+Tubular Bells initially sold slowly, but gained worldwide attention in December 1973 when its opening theme was used for the soundtrack to the horror film The Exorcist. This led to a surge in sales which increased Oldfield's profile and played an important part in the growth of the Virgin Group. It stayed in the top ten of the UK Albums Chart for one year from March 1974, during which it reached number one for one week. It reached number three on the US Billboard 200, and number one in Canada and Australia. It has sold more than 2.7 million copies in the UK, and an estimated 15 million copies worldwide.
+An orchestral version produced by David Bedford was released in 1975 as The Orchestral Tubular Bells. It was followed by the albums Tubular Bells II (1992), Tubular Bells III (1998), The Millennium Bell (1999), and a re-recorded version, Tubular Bells 2003, for its 30th anniversary. A remastered edition was released in 2009. In 2010, Tubular Bells was one of ten classic album covers from British artists commemorated on a series of UK postage stamps issued by the Royal Mail. Its contribution to British music was recognised when Oldfield played extracts during the 2012 Summer Olympics opening ceremony in London.
 
 
-        
-        
+    
     
 
 
@@ -48,13 +46,17 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 6. Tubular Bells (Part Two)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tubular-bells/1440852773" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/oldfield-tubular-bells-pt-1/720161872" >}}<br>
 
 
 ## Videos
 ### Mike Oldfield - Tubular Bells Full Album
 {{< youtube id="bv_4sZCLlr0" title="Mike Oldfield - Tubular Bells Full Album" >}}<br>
+### More Videos
 
+- [Mike Oldfield - Tubular bells](https://www.youtube.com/watch?v=sSRJvq4Wd48)
+- [Mike Oldfield - 1st UK press - Tubular Bells side 1](https://www.youtube.com/watch?v=aZ7x13Sf-ho)
+- [Mike Oldfield - 1st UK press - Tubular Bells side 2](https://www.youtube.com/watch?v=p9rgHxuRx9U)
 
 ## Release Images
 {{< imageGrid >}}

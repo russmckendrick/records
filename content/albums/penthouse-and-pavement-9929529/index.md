@@ -12,19 +12,21 @@ cover:
     alt: "Penthouse And Pavement by Heaven 17"
     caption: "Penthouse And Pavement by Heaven 17"
 additional_images:
-    - "https://i.discogs.com/pL_88qVeGn9ojZ_TDt8jEAdue4D_VEgabcgqxjGo7y0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/NC00NjY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/94ur0L9-Xvedz_mqGmVtNYRttKoALR1WI9LpVY2JbeE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/NC00NjY2LmpwZWc.jpeg"
     - "https://i.discogs.com/2SPjzHm21ExhwKRwy0mzraFTGQZt6TOLDpjWCEyOnZI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/Ny01NTc1LmpwZWc.jpeg"
     - "https://i.discogs.com/ryAqgT0ZvVrpbo0otPYzErlckGUzKh8n-4A1_CBD5Os/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEw/Ni05ODY1LmpwZWc.jpeg"
     - "https://i.discogs.com/1om_0MyntGzQH02XjU5fSHICxgbBYt644PkPsAlT1GE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEy/My00MjMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/duwsv-dtM3SvoT_kbI-M3EXyeAvHkM3zEtXGw9rQgcM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEy/MS01MDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5DV_XoQ_xtyEfcd4z1XwgRaGYo8u9b6QR9c8kjTR0PM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEy/MS01MDUxLmpwZWc.jpeg"
     - "https://i.discogs.com/JURYG0a1_OVhmafzDqJVxv6cdD_7fVT17tiNw94f_4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/NS0yMDY2LmpwZWc.jpeg"
     - "https://i.discogs.com/K1mzFVwx9minmF5c67NY88u4j9OigksGGyRoHHDhUWo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEy/MS0xNDE0LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Penthouse and Pavement is the debut studio album by English new wave and synth-pop band Heaven 17, released in September 1981 by Virgin Records.
-"(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. The album sold reasonably well, but was not a great commercial success on release. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition.
+Penthouse and Pavement is the debut studio album by English synth-pop band Heaven 17, released in September 1981 by Virgin Records.
+"(We Don't Need This) Fascist Groove Thang" was released as a single, but did not achieve chart success, partly due to a ban by the BBC. Despite not generating a major hit single, the album reached no.14 and spent 77 weeks on the UK Albums Chart. It has since been regarded as "an important outing", is included in the book 1001 Albums You Must Hear Before You Die, and was re-released in 2010 in a three-disc special edition.
+
+
     
     
 
@@ -43,7 +45,7 @@ Penthouse and Pavement is the debut studio album by English new wave and synth-p
 11. We're Going To Live For A Very Long Time
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/714604615" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/penthouse-and-pavement/881477929" >}}<br>
 
 
 ## Videos
@@ -60,6 +62,22 @@ Penthouse and Pavement is the debut studio album by English new wave and synth-p
 - [Song With No Name (2006 Digital Remaster)](https://www.youtube.com/watch?v=FEh2lEsoRuc)
 - [We're Going To Live For A Very Long Time (2006 Digital Remaster)](https://www.youtube.com/watch?v=77PYASbEsi8)
 - [Heaven 17 - Height Of The Fighting (He-La-Hu!)](https://www.youtube.com/watch?v=JR6BlsgdQr8)
+- [Penthouse And Pavement (Original Demo)](https://www.youtube.com/watch?v=AsUMB9XU_3w)
+- [Soul Warfare (Original Demo)](https://www.youtube.com/watch?v=Z6iKZSJwSws)
+- [Play To Win (Original Demo Instrumental)](https://www.youtube.com/watch?v=BSABDya6B08)
+- [Play To Win (Original Demo With Vocals)](https://www.youtube.com/watch?v=-mXosUWcUOY)
+- [Are Everything (Original Demo)](https://www.youtube.com/watch?v=41XZSEO9ST4)
+- [Rhythmic Experiment 1](https://www.youtube.com/watch?v=xvR8HFMZ-xA)
+- [At The Height Of The Fighting (Original Rhythm Track)](https://www.youtube.com/watch?v=Vb1wEo0xHYw)
+- [[We Don't Need This] Fascist Groove Thang (Original Demo)](https://www.youtube.com/watch?v=e6HuZIlMI84)
+- [Are Everything (12'' Version / 2006 Digital Remaster)](https://www.youtube.com/watch?v=S9gRx0i8tcg)
+- [Are Everything (7'' Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=YIUtZgaTgv8)
+- [Heavy Drum Experiment](https://www.youtube.com/watch?v=DfEDGsOv-_s)
+- [Boys Of Buddha Experiment](https://www.youtube.com/watch?v=8bZAX6Md7vI)
+- [Funky Experiment](https://www.youtube.com/watch?v=SfJ3_pQi9eo)
+- [I'm Your Money (7" Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=jcOJpLEQ_-s)
+- [Rhythmic Loop Experiment](https://www.youtube.com/watch?v=N5_UOcvE8hc)
+- [Let's All Make A Bomb (12" Version; 2006 Digital Remaster)](https://www.youtube.com/watch?v=urOrGcExyCU)
 
 ## Release Images
 {{< imageGrid >}}

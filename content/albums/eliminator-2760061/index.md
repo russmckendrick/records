@@ -18,8 +18,8 @@ additional_images:
     - "https://i.discogs.com/6bKUJW-9lSNoLk9E5oTNBMYdGcngkHZbLt37-AMuT1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTMyMDA4MzQ0/NC5qcGVn.jpeg"
     - "https://i.discogs.com/J6wi_-OImqLEFAajHN3i1ZT5D5n12RXENInpeNYRreg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/MC02NDUwLmpwZWc.jpeg"
     - "https://i.discogs.com/0dW7cw8Fl_dVRnI_qAwOx9CSd2wSUcPM9LlVawJgge4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/MS0yMDc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/p7Hm_fwT55eGt5zZaCnMb_XlfOayr5nDCj09V6_DNQg/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/My03MzcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/Xoy-KlgEkCmIZ4ygEI7Q_jiE70KzlbtcEAwOQN-tRpU/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/My0zMjk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/s7zYukLEfybIbX1r3kQK-_i-AKcH7V_rY8hTUrjc8b8/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/My03MzcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/b40oWJ4Dau1SRzDblZp54q51ySo7DAgKT8OUdoxvdzQ/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjAw/NjEtMTcyMjAwODI3/My0zMjk1LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Arena Rock", "Hard Rock"]
 ---
@@ -28,6 +28,8 @@ Eliminator is the eighth studio album by American rock band ZZ Top. It was relea
 Since El Loco in 1981, the bandleader, Billy Gibbons, had been moving ZZ Top's boogie and blues rock style towards the popular new wave style. For Eliminator, he increased the tempo and used more synthesizers and drum machines, producing a "tighter" album with a steady, driving beat. The pre-production engineer Linden Hudson collaborated with Gibbons in Texas on the tempo and songs. The producer Bill Ham and the engineer Terry Manning joined Gibbons in Memphis, Tennessee, to edit the songs, replacing much of the contributions of bassist Dusty Hill and drummer Frank Beard. Ham claimed the album was solely the work of ZZ Top, but in 1986 Hudson won a lawsuit establishing himself as composer of the song "Thug".
 Music videos for "Gimme All Your Lovin'", "Sharp Dressed Man" and "Legs" received regular rotation on MTV and helped ZZ Top gain popularity with a younger base. A customized 1933 Ford coupe, depicted on the album cover, appeared in the videos. Following Eliminator's release, ZZ Top embarked on a worldwide concert tour.
 The video for "Legs" earned the band the MTV Video Music Award for Best Group. Rolling Stone named Eliminator number 398 on its list of the 500 Greatest Albums of All Time. It was listed at number 39 in The 100 Greatest Albums of the 80s, and it was also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die. A remastered version was released in 2008.
+
+
     
     
 

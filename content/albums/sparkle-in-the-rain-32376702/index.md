@@ -46,7 +46,14 @@ A breakthrough commercial success for the band, the record peaked at number 1 in
 {{< applemusic url="https://music.apple.com/gb/album/sparkle-in-the-rain/1444024281" >}}<br>
 
 
+## Videos
+### Book Of Brilliant Things (Remastered 2002)
+{{< youtube id="Qh_p08_D7IU" title="Book Of Brilliant Things (Remastered 2002)" >}}<br>
+### More Videos
 
+- [Simple Minds - Up On The Catwalk](https://www.youtube.com/watch?v=T7b27t7lxCw)
+- [Simple Minds - Waterfront](https://www.youtube.com/watch?v=vxXfu-Kbtbc)
+- [Simple Minds - Speed Your Love To Me](https://www.youtube.com/watch?v=tqIr6WPfgTw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,8 +62,8 @@ A breakthrough commercial success for the band, the record peaked at number 1 in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sparkle_in_the_Rain |
-| Format         | Vinyl LP Album Limited Edition Repress Special Edition (Dark Blue Transparent) |
+| Format         | Vinyl LP Album Limited Edition Repress (Translucent Blue) |
 | Label          | Virgin Records Ltd. |
-| Catalog Number | - |
+| Catalog Number | 00602465253252 |
 | Notes | 40th Anniversary Of 'Sparkle In The Rain' |
 | Discogs URL    | [Simple Minds - Sparkle In The Rain](https://www.discogs.com/release/32376702-Simple-Minds-Sparkle-In-The-Rain) |

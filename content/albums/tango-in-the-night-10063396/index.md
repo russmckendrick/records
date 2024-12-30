@@ -4,6 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Tango In The Night"
 date: 2017-04-02T13:04:01.000000Z
+release_date: "1987-04-14"
 release_id: "10063396"
 slug: "tango-in-the-night-10063396"
 hideSummary: true
@@ -45,9 +46,13 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987. It is the fifth and final studio album from the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks following Buckingham's departure later that year, though the band's 2003 album, Say You Will, was recorded by all members except Christine McVie, who instead guested.
-Produced by Buckingham with Richard Dashut, Tango in the Night began as one of Buckingham's solo projects, but by 1985, the production had morphed into Fleetwood Mac's next record. It contains several hit singles, including four US top 20 hits: "Big Love" (No. 5), "Seven Wonders" (No. 19), "Little Lies" (No. 4), and "Everywhere" (No. 14). Two additional songs, "Family Man" (No. 90) and "Isn't It Midnight", were released as singles to lower chart success. Tango in the Night has sold over 15 million copies worldwide. In March 2017, remastered deluxe editions of Tango in the Night were released, the first a double-CD set and the second a 3CD/1DVD/1-LP boxset.The cover art for the album is a painting by Australian artist Brett-Livingstone Strong that was hanging in Buckingham's home. The painting is an homage to the 19th-century French painter Henri Rousseau, emulating his colourful jungle theme works such as The Snake Charmer and The Repast of the Lion. The painting was also used as the cover art for "Big Love", the album's lead single.
-    
+<i>Rumours</i> might be Fleetwood Mac’s most dramatic album, but <i>Tango in the Night</i> is their most poignant. Stevie Nicks had just left rehab after touring a successful third solo album, <i>Rock a Little</i>. Christine McVie made a solo album, too (1984’s <i>Christine McVie</i>). Mick Fleetwood had gone through bankruptcy and John McVie struggled with a drinking habit that, by 1987, had culminated in a seizure. By the time the band started recording, they hadn’t played together for four years.
+
+Lindsey Buckingham says that <i>Mirage</i> was an attempt to go back to something like <i>Rumours</i>: commercial, simple, up the middle. But in a way, <i>Tango in the Night</i> comes closer. Not so much in its sound, but in how it fits into its musical surroundings. As a great pop band, Fleetwood Mac has never been ahead of the times—if anything, they’re always just behind them enough to serve as a kind of summary or reflection. Where <i>Rumours</i> feels like mid-’70s pop-rock, <i>Tango</i> feels like the late 1980s: the synthesisers and drum machines (“Everywhere”), the gauzy surfaces (“Seven Wonders”), the sense of everything being suspended in pink perfumed mist (“Little Lies”).
+
+Several of the songs started out as demos for a new Lindsey Buckingham solo album, and reflect his obsession with the studio even more than <i>Tusk</i>. Mick Fleetwood says it took him years to understand that Buckingham (who co-produced the album at his home studio) was making the album as a kind of goodwill gesture, to cinch up loose ends. In an interview from a month before the album came out, Buckingham says he worked hard to make <i>Tango</i> great, because it’d probably be their last album together. He was right.
+        
+        
     
 
 
@@ -129,13 +134,24 @@ Produced by Buckingham with Richard Dashut, Tango in the Night began as one of B
 75. You And I, Part II (2:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-deluxe/1196727792" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-remastered/1217901688" >}}<br>
 
 
 ## Videos
-### Tango in the Night (2017 Remaster)
-{{< youtube id="i_xlI6gMH7U" title="Tango in the Night (2017 Remaster)" >}}<br>
+### Fleetwood Mac - Everywhere (Official Music Video)
+{{< youtube id="YF1R0hc5Q2I" title="Fleetwood Mac - Everywhere (Official Music Video)" >}}<br>
+### More Videos
 
+- [FLEETWOOD MAC - Big Love ´87](https://www.youtube.com/watch?v=ID0Q8L39rNg)
+- [Fleetwood Mac - Seven Wonders (Official Music Video)](https://www.youtube.com/watch?v=9b4F_ppjnKU)
+- [Fleetwood Mac - Caroline](https://www.youtube.com/watch?v=Y9td_JisDOI)
+- [Fleetwood Mac - Family Man](https://www.youtube.com/watch?v=CZbPD54KTHk)
+- [Tango in the Night (2017 Remaster)](https://www.youtube.com/watch?v=i_xlI6gMH7U)
+- [Fleetwood Mac - Little Lies](https://www.youtube.com/watch?v=yWutmIaNv-o)
+- [Fleetwood Mac- 09- Welcome To The Room...Sara](https://www.youtube.com/watch?v=80ZXt56rDQ8)
+- [You and I, Pt. II (2017 Remaster)](https://www.youtube.com/watch?v=FU7t8oo4ctY)
+- [Fleetwood Mac - Isn’t It Midnight](https://www.youtube.com/watch?v=v2mtUs6GELA)
+- [When I See You Again (2017 Remaster)](https://www.youtube.com/watch?v=gKyigbXAx5Y)
 
 ## Release Images
 {{< imageGrid >}}

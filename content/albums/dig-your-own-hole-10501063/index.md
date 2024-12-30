@@ -4,6 +4,7 @@ artist_name: "The Chemical Brothers"
 artist: "the-chemical-brothers"
 album_name: "Dig Your Own Hole"
 date: 2017-07-07T16:52:31.000000Z
+release_date: "1997-04-07"
 release_id: "10501063"
 slug: "dig-your-own-hole-10501063"
 hideSummary: true
@@ -12,7 +13,7 @@ cover:
     alt: "Dig Your Own Hole by The Chemical Brothers"
     caption: "Dig Your Own Hole by The Chemical Brothers"
 additional_images:
-    - "https://i.discogs.com/l15wWHNVSNYcuzbWKZDUyxcLHdna3LaL9E8lB9-rAnA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE1MTc2Njg5/NjQtODY0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/GmONKpG_1efeC5XGfL9yyb3f9gvgvXOoR07V3lzX07c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE1MTc2Njg5/NjQtODY0OC5qcGVn.jpeg"
     - "https://i.discogs.com/RaRg1QbFhduphQMaJm4dsgAp6G1hhMW_eFyW7fd_8uI/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE1MTc2Njg5/ODUtNDI3MC5qcGVn.jpeg"
     - "https://i.discogs.com/Mr7B7QKc3Db-V3yHmUNMnBdl8WRfRdIRxvm3E7uy-Sw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE1MTc2Njg5/ODAtMjg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Bs9kHlS_1xWgk2ot7zac3DawSAtJwQbYZCyytlZmC7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE2NTg2NDI5/OTEtODc2OS5qcGVn.jpeg"
@@ -22,14 +23,16 @@ additional_images:
     - "https://i.discogs.com/X6enYl-coQkQLG0fL3Y8yF8OZzYHIteOGNlKjIdNVQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE0OTk0OTY4/MDItNzk3OC5qcGVn.jpeg"
     - "https://i.discogs.com/fOTRCjyvLR-hPMeS-nZGjRw6iW8fNTyYSxUMuff0IDU/rs:fit/g:sm/q:90/h:524/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/MDYzLTE0OTk5NzI3/ODUtODIwNC5wbmc.jpeg"
 genres: ["Electronic"]
-styles: ["Breakbeat", "Big Beat"]
+styles: ["Breakbeat", "Big Beat", "Techno"]
 ---
 
-Dig Your Own Hole is the second studio album by the English electronic music duo the Chemical Brothers. It was released on 7 April 1997 in the United Kingdom by Freestyle Dust and Virgin Records and in the United States by Astralwerks. It was recorded between 1995 and 1997, and features Noel Gallagher of Oasis and Beth Orton as guest vocalists.
-Dig Your Own Hole was the first Chemical Brothers album to reach number one on the UK Albums Chart. Five singles were released, two of which reached number one in the UK: "Setting Sun", "Where Do I Begin", "Block Rockin' Beats", "Elektrobank", and "The Private Psychedelic Reel". The album has been included in several British magazines' lists of the best albums ever. The success of the album led the Chemical Brothers to be much sought-after remixers, and they released a mix album in 1998, Brothers Gonna Work It Out.
+For a short, glorious period in the 1990s, big beat ruled Britain. And The Chemical Brothers—a Manchester duo consisting Ed Simons and Tom Rowlands—were one of the sound’s most successful ambassadors, rapidly looping breakbeats, synths and samples into a solid wall of pulsing sound that provided a backing track for England’s endless raves and festivals. The Chemicals spent much of the early 1990s working as DJs on the club circuit, where the two dubbed themselves “the Dust Brothers”—an homage to a US production duo of the same name, best known then for working with the Beastie Boys. (You can hear that American influence all over The Chemical Brothers’ work: The guitar licks looped over hip-hop beats; the left-field samples tweaked beyond recognition.)
 
+By 1994, Simons and Rowlands had become resident DJs at Heavenly Sunday Social Club, a hugely influential watering hole in London's Britpop and indie-rock scene. Oasis' Noel Gallagher and The Jam's Paul Weller were regulars, and the proximity to some of England's heavy hitters helped The Chemical Brothers develop both a sound and an audience.
 
-    
+But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole</i>, that Simons and Rowlands established themselves as one of big beat’s most vital acts. This is a record that defined a sound—and an era: The album’s opener, “Block Rockin’ Beats”, charted globally when it was released as a single, and the rest of <i>Dig Your Own Hole</i> bounds gleefully between jazzy downtempo (“Piku”, “Lost In the K-Hole”) and rave-ready club jams (“Elektrobank”, “Don’t Stop the Rock”). <i>Dig Your Own Hole</i> won The Chemical Brothers a Grammy and went to the top of the charts in the UK, putting the duo—and their beloved big beat—on the top of the world.
+        
+        
     
 
 
@@ -50,7 +53,12 @@ Dig Your Own Hole was the first Chemical Brothers album to reach number one on t
 {{< applemusic url="https://music.apple.com/gb/album/dig-your-own-hole/714366008" >}}<br>
 
 
+## Videos
+### The Chemical Brothers - Block Rockin' Beats (Official Music Video)
+{{< youtube id="iTxOKsyZ0Lw" title="The Chemical Brothers - Block Rockin' Beats (Official Music Video)" >}}<br>
+### More Videos
 
+- [The Chemical Brothers - Elektrobank (Official Music Video)](https://www.youtube.com/watch?v=L0dxByaPWhM)
 
 ## Release Images
 {{< imageGrid >}}

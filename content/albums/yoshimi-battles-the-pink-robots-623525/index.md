@@ -4,6 +4,7 @@ artist_name: "The Flaming Lips"
 artist: "the-flaming-lips"
 album_name: "Yoshimi Battles The Pink Robots"
 date: 2015-08-09T08:34:04.000000Z
+release_date: "2002-07-16"
 release_id: "623525"
 slug: "yoshimi-battles-the-pink-robots-623525"
 hideSummary: true
@@ -21,8 +22,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Indie Rock", "Experimental"]
 ---
 
-Yoshimi Battles the Pink Robots is the tenth studio album by American rock band the Flaming Lips, released on July 16, 2002, by Warner Bros. Records. The album saw the band pursue a more electronic direction than previous efforts, incorporating acoustic guitars and rhythms influenced by hip hop and top 40 music. The album was well-received critically and commercially, helping the band break into popularity, and was adapted into a musical in 2012. In 2022, the band announced a 20th anniversary box set version of the album and that they would perform the album in full twice in early 2023.
-    
+There aren’t a lot of distractions in Oklahoma City—which helps explain how the area’s most prominent weirdos, The Flaming Lips, managed to release ten album between 1986’s <i>Hear It Is</i> and 2002’s <i>Yoshimi Battles the Pink Robots</i>. But that statistic fails to fully measure the band’s proficiency. According to lead singer Wayne Coyne, the group was working on no fewer than three distinct projects while creating <i>Yoshimi</i>, including the country-leaning soundtrack to <i>Okie Noodling</i>—a documentary about men who catch giant catfish with their bare hands—and the synthesiser score to Coyne’s own self-directed full-length homage to 1950s sci-fi B movies, <i>Christmas on Mars</i>.
+
+Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, which Coyne once described as a “candy-coated potato chip” of an album. On <i>Yoshimi</i>, the western twang and martian bleeps meld with the maximalist space-rock the band had perfected on its previous album, <i>The Soft Bulletin</i>. That record secured the group’s place in the pantheon of consequential album artists, freeing the Lips from the one-hit-wonder tag that had clung to the group since 1993’s “She Don’t Use Jelly”.
+
+<i>Yoshimi</i> found Coyne comfortably settling into middle age, complete with grey streaks in his signature long wavy hair. The outsider-artist posture he’d displayed in the 1980s was gone; he was now a seasoned seer, albeit one who still possessed the gift of childlike wonder. How did <i>Yoshimi</i>’s “Do You Realize??”—which reminds listeners that “happiness makes you cry” and “everyone you know someday will die”—end up in three national ad campaigns? Answer: Because while the lyrics are heavy, the brand managers felt safe, knowing Coyne was holding our hand as we embrace the existential crisis. If that’s not enough, the album’s first four songs tell the story of a young Japanese girl, Yoshimi, who’s staring down an army of robots—one of which is having an existential crisis of its own. When the fog of war clears, and <i>Yoshimi</i> comes to an end, the questions linger: Who was right, and who was wrong? Does free will exist? And, to quote Coyne, “Do you realise we're floating in space?”
+        
+        
     
 
 
@@ -46,7 +52,17 @@ Yoshimi Battles the Pink Robots is the tenth studio album by American rock band 
 ## Videos
 ### The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]
 {{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt. 1 [Official Music Video]" >}}<br>
+### More Videos
 
+- [The Flaming Lips - Do You Realize?? (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=lPXWt2ESxVY)
+- [In the Morning of the Magicians](https://www.youtube.com/watch?v=gNwyByCEytc)
+- [One More Robot / Sympathy 3000-21](https://www.youtube.com/watch?v=eCfOD0yrvOo)
+- [Ego Tripping at the Gates of Hell](https://www.youtube.com/watch?v=PamBD5B2wXk)
+- [It's Summertime](https://www.youtube.com/watch?v=8epnNzRSUdI)
+- [Yoshimi Battles the Pink RobotsPt. 2](https://www.youtube.com/watch?v=uSUA1OZZxCA)
+- [All We Have Is Now](https://www.youtube.com/watch?v=SAGdXf7uago)
+- [The Flaming Lips - Are You A Hypnotist?? [Official Music Video]](https://www.youtube.com/watch?v=E-9mCAA1YYY)
+- [Approaching Pavonis Mons by Balloon (Utopia Planitia)](https://www.youtube.com/watch?v=yqxYqc6ipU0)
 
 ## Release Images
 {{< imageGrid >}}

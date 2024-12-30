@@ -12,13 +12,13 @@ cover:
     alt: "Coneheads (Music From The Motion Picture Soundtrack) by Various"
     caption: "Coneheads (Music From The Motion Picture Soundtrack) by Various"
 additional_images:
-    - "https://i.discogs.com/wxbXsEEgaBqq_frsrrwT4TOvab5AOHZ_OdOVS9Sa9uY/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNjg5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/D8tXc6lQgrpuzQRmkKMMIFD2roPIL8-wZP8bfhaoo2Q/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNTM2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/2Wpumf_KJsERKjXIQn1sQlOvPxlOzHuKvu6mBJbfDuo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzgtOTkzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/NmyoQJg1Pv6jUnF9_CzQFMuzESYRDpuokA3vpkWd8G8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzgtMjMzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/MogM6DJLrimTZy2BOcgBoY3u_u7n3YaB7hRQbcJDZBs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNzY1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/PFmlJCnMK02T--H1CZD6ONx0O-czJId5zqQClnRWhVk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItMTI4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Eb6qVMUIT_K2_QFOfztCXc5LsNCOZfXWNlT8kMvWrW4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzktNDk1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/38xfEzZxXu1y6VDktNIL6_VxMu_lToykcu6izyeERJg/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNjg5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/7U29nTvAyv55jTDhCfqCn3I5jKrYGHuWELF0RHZcxmM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNTM2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/4g13pixnhxt12savlA_8mPtJTULQ7iQMsHC42_UK1jQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzgtOTkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/zehWgkTnsHgOTIV03mvR9zm5iz7TBUYFA2k-GWSj1Q0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzgtMjMzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/m5LNei7gC3x5I867_DmsAfnl8yBRCqRFUASXbwV3-bA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItNzY1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/AXaJLKoRWPk_hK2fqyfKcqkaMXPBdVt8tMO_XhbTgaA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzItMTI4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/rse-Nn0Ot0uRmo06TP-iGK4k5-PlwrsmrQz8MlKKUdY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MTc5LTE1NTY2NDk3/NzktNDk1NC5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Stage & Screen"]
 styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ---
@@ -39,16 +39,13 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 11. Conehead Love
 
 
-## Spotify
-{{< spotify type="album" id="1SWZCAejTTpS4tG3uRPqo9" width="100%" height="500" >}}<br>
-
 
 ## Videos
-### Michael Monroe feat. Slash - Magic Carpet Ride
-{{< youtube id="RWgSXpWcaZg" title="Michael Monroe feat. Slash - Magic Carpet Ride" >}}<br>
+### Digable Planets - Little Renee
+{{< youtube id="FZJ7P95uZqs" title="Digable Planets - Little Renee" >}}<br>
 ### More Videos
 
-- [Digable Planets - Little Renee](https://www.youtube.com/watch?v=FZJ7P95uZqs)
+- [Michael Monroe feat. Slash - Magic Carpet Ride](https://www.youtube.com/watch?v=RWgSXpWcaZg)
 - [Tainted Love Soft Cell Lyrics](https://www.youtube.com/watch?v=CQ5_QxwFjNI)
 - [Paul Simon - Kodachrome (Audio)](https://www.youtube.com/watch?v=8rlDTK6QI-w)
 - [Morten Harket - Can't take my eyes off you](https://www.youtube.com/watch?v=VQc5O5nvXJA)
@@ -56,6 +53,7 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 - [Red Hot Chili Peppers - Soul To Squeeze [Official Music Video]](https://www.youtube.com/watch?v=0XcN12uVHeQ)
 - [CoRe - Track 4 - Jumble](https://www.youtube.com/watch?v=wdUqNciCrvE)
 - [Conehead Love Music Video](https://www.youtube.com/watch?v=NMkaOtvRvVo)
+- [Digable Planets - Little Renee](https://www.youtube.com/watch?v=FZJ7P95uZqs)
 
 ## Release Images
 {{< imageGrid >}}

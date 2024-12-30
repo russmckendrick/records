@@ -26,10 +26,11 @@ genres: ["Electronic", "Funk / Soul"]
 styles: ["Synth-pop", "Funk", "Minneapolis Sound"]
 ---
 
-Controversy is the fourth studio album by American recording artist Prince, released on October 14, 1981 by Warner Bros. Records. It was produced by Prince, written (with the exception of one track) by him, and he also performed most of the instruments on its recording. 
-Controversy reached number three on the Billboard R&B Albums chart and was certified Platinum by the Recording Industry Association of America (RIAA). It was voted the eighth best album of the year in the 1981 Pazz & Jop, an annual critics poll run by The Village Voice.This was the first of his albums to associate Prince with the color purple as well as the first to use sensational spelling in his song titles.
+By the early 1980s, Prince was embracing his own increasing power—and provocation—as both a genre-busting artist and as a gender-bending cultural force. <i>Dirty Mind</i>, the singer’s bawdy punk-funk collection, had become an instant classic upon its release in 1980. His follow-up, 1981’s <i>Controversy</i>, finds Prince acknowledging his new-found infamy: “I just can’t believe all the things people say/Am I black or white? Am I straight or gay?” he sings on the title track. And while listeners had plenty of questions about Prince, he delighted in giving them few direct answers—an approach that would pay off throughout the decade, as the mysterious singer ascended the pop throne.
 
+<i>Controversy</i>—which features regal assists from Lisa Coleman, Dr Fink and Bobby Z., who’d rule alongside Prince as members of The Revolution—finds the singer pushing back against the reactionary political conservatism of the Reagan regime, whom he addresses directly in the punk protest of “Ronnie, Talk to Russia”. Meanwhile, the funk-pop propulsion of <i>Controversy</i>’s “Sexuality” and the slow-jam seduction of “Do Me, Baby”—the latter of which features nearly eight minutes of erotic enlightenment—let you know that His Royal Badness still very much had a dirty mind.
 
+The carnal delight of tracks like “Private Joy” and the raunchy romp “Jack U Off” makes it clear that, in some ways, <i>Controversy</i> is an unapologetically sexual sequel to its predecessor. But the album also finds Prince taking on politics (again, “Ronnie, Talk to Russia”) and religion (“Annie Christian”). And Prince has never been straight-up funkier than on “Let’s Work”. Ultimately, <i>Controversy</i> provides a euphoric escape from the unknown in uncertain times, and sets up Prince for the pop-altering triumph of <i>1999</i>.
         
         
     
@@ -49,16 +50,7 @@ Controversy reached number three on the Billboard R&B Albums chart and was certi
 {{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}<br>
 
 
-## Videos
-### Controversy
-{{< youtube id="TzWM8pjAp44" title="Controversy" >}}<br>
-### More Videos
 
-- [Prince - Controversy (Official Music Video)](https://www.youtube.com/watch?v=4gazNwzC4H0)
-- [Controversy](https://www.youtube.com/watch?v=3fZy5hX6uLg)
-- [Prince - Sexuality (Official Music Video)](https://www.youtube.com/watch?v=mZO5HLRk7KE)
-- [Private Joy](https://www.youtube.com/watch?v=TX94-R9rsoQ)
-- [Annie Christian](https://www.youtube.com/watch?v=rcqb9EvqXS8)
 
 ## Release Images
 {{< imageGrid >}}

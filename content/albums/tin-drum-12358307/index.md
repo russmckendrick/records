@@ -13,17 +13,17 @@ cover:
     caption: "Tin Drum by Japan"
 additional_images:
     - "https://i.discogs.com/QAgaL4PsTSEaTuB4x2nfmvqlNJZx5kPYBVCe4FtGI5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1MzM2Mzc3/MjUtMTg4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/PKlnHS6JIvUXew4JZPRC9G8eIh7RuYHMF02aRjI6JU4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NjEtNDI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/fd7MhHZ5gQkKgGLgor8H2QsrsVlccrrwq1mc3R7loBc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NjEtNDI1NS5qcGVn.jpeg"
     - "https://i.discogs.com/_z1NteQl0FnN3R418JyqZYlo9ROi0CtP-EwMzTKGzfc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1MzUxMzU3/MjgtODc3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/IH-qn3weqZdggGXA-ZcC0QGNE4rnOrCpndrIAi_7NxA/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtNjAwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/EsRoMV2JJq6CIsJz8oSustJUzmF82cJL3_qkOJFhtl0/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtMzI4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Hdj0HT2Khkaq-KWSwKl3hIB7UZ18jEWUcsyjzRNkAFI/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYy/NDUtNzU2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/I9Dbh-tONxgriKYuY5agvplIADuFDObptKZO_Cf653k/rs:fit/g:sm/q:90/h:830/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NzA5Nzg5/NzctODExNC5qcGVn.jpeg"
+    - "https://i.discogs.com/mG9Mt4Jq1L9ev9qaItXaZdTf3gjZCYKPJHBe3s_7M7Y/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtNjAwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/2Csw17r_BzqOaed-V8MszgaIyhOiNISJfKQYGKg4D9c/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYx/NTgtMzI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/DyS7nbcEaeQGW104EeQjDN3EQBkiglAv4VMBBO-rEH8/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NTY0ODYy/NDUtNzU2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Ug1pp0TiK_lTaifYr1b6kmSGjfN4pMJK5LHEDGngA1o/rs:fit/g:sm/q:90/h:600/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MzA3LTE1NzA5Nzg5/NzctODExNC5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by record label Virgin. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
+Tin Drum is the fifth and final studio album by English band Japan, released in November 1981 by Virgin Records. It peaked at No. 12 on the UK charts, and featured the top 5 single "Ghosts". It has received acclaim as the band's best and most original work.
     
     
 
@@ -43,21 +43,16 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 
 
 ## Videos
-### The Art of Parties (2003 - Remaster)
-{{< youtube id="aEuB_rfuM7Q" title="The Art of Parties (2003 - Remaster)" >}}<br>
+### Ghosts (2003 Digital Remaster)
+{{< youtube id="0cLeyGWthgw" title="Ghosts (2003 Digital Remaster)" >}}<br>
 ### More Videos
 
-- [Visions Of China (2003 Digital Remaster)](https://www.youtube.com/watch?v=1__fxehH3jo)
-- [Talking Drum (2003 Digital Remaster)](https://www.youtube.com/watch?v=VMnPLCrGZA0)
-- [Ghosts (2003 Digital Remaster)](https://www.youtube.com/watch?v=0cLeyGWthgw)
 - [Canton (2003 Digital Remaster)](https://www.youtube.com/watch?v=R1Rt8mX9LJE)
+- [The Art of Parties (2003 - Remaster)](https://www.youtube.com/watch?v=aEuB_rfuM7Q)
+- [Talking Drum (2003 Digital Remaster)](https://www.youtube.com/watch?v=VMnPLCrGZA0)
 - [Still Life In Mobile Homes (2003 Digital Remaster)](https://www.youtube.com/watch?v=WxGpxt9XpN0)
 - [Sons Of Pioneers (2003 Digital Remaster)](https://www.youtube.com/watch?v=aEf38uz6FuQ)
 - [Cantonese Boy (Remastered)](https://www.youtube.com/watch?v=SfVG-4g0c1I)
-- [Life Without Buildings (Remaster 2003)](https://www.youtube.com/watch?v=RPk0-GMFqAI)
-- [Japan - Cantonese Boy](https://www.youtube.com/watch?v=JFTjxYBMOpw)
-- [Japan – Visions Of China](https://www.youtube.com/watch?v=wnlSy2I0gfc)
-- [Japan – The Art Of Parties](https://www.youtube.com/watch?v=hRgDEhqFXAc)
 
 ## Release Images
 {{< imageGrid >}}

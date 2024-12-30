@@ -4,7 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Rumours "
 date: 2015-09-30T17:20:53.000000Z
-release_date: "1977-02-04"
+release_date: "2002-10-12"
 release_id: "4288657"
 slug: "rumours-4288657"
 hideSummary: true
@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/--44jxp3kba2YYPg-9kBwHQbPl_aktx28fYIHBiocfk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNTk2/Mi0yNDAyLmpwZWc.jpeg"
     - "https://i.discogs.com/0lIXb4_j3GdCTO-lJhe9HdeM7le3N-UBsvpKlXFAQb8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNTk5/NC0xMTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/qTjtVZeMhrY8oPRXHnfIqlrYspgbK7JpKKhbJYFOYEI/rs:fit/g:sm/q:90/h:658/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTM2MDgwMzcw/Ni0xODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/beAVKPx5VHCG2gMZW1zabO2VXWV37jAxJeubgNNu1ws/rs:fit/g:sm/q:90/h:600/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTM2MDgwMzcw/Ni0xODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/HGGsGn4nmXh3Qqkn6geb0GePWvzCzjHzhCbbUXb_CdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjAz/NC05NDYyLmpwZWc.jpeg"
     - "https://i.discogs.com/feXT1cVzpao6bHCPM7fJEiIbeTdOx8YrzICHNN8OZn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjA1/Mi04ODA0LmpwZWc.jpeg"
     - "https://i.discogs.com/BzuSN0IeySnmJbeyUl9z9misFYNU4uHG60z9OG0oatI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjA3/MS05MTE4LmpwZWc.jpeg"
@@ -23,19 +23,19 @@ additional_images:
     - "https://i.discogs.com/5RIRov2unHqN6CjY_tSkCQTfrma-N8wgtPNPFOrPFrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjA5/MC02MjQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/932cKOK2lhpk-XuOWxSboiJFL9DolB5km_wSlW41uR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjEw/Ni03Nzk1LmpwZWc.jpeg"
     - "https://i.discogs.com/hVpo-29rStXcQyLyRvgVSsVpx2mc-73NyLna-y8wJfU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjEy/Mi03MDQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/6xS7CFfj69GHpBOj1DzSs48yU8IvaSF25yUqd9vJIzw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY2/OS03Nzc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/GJMochCtBgaqzZcT5zOyeQqsUM8KWAtAU0uGxmkgwiw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY2/OS03Nzc5LmpwZWc.jpeg"
     - "https://i.discogs.com/OhF_4AYVqctCXyvzOefuWWuZzDLP_otFIXny9QI-LSc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjE0/MC03MjE5LmpwZWc.jpeg"
     - "https://i.discogs.com/_aI4QJ1MdaYiVqN5w7xQck-6tU0s-gZ1OfPOx28PPqw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjE1/NS04MTE3LmpwZWc.jpeg"
     - "https://i.discogs.com/ngRAa3rKUcyXK6rxHe9gj2I_ovS16pWHr1Lx1MnNcoE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjE3/NC04NTA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/nNEOxQNrbhVWW3xJxiMV9mKRsd8T-ndZwhD4otv1zlg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY4/NS05ODY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/q56a4M2AGf_ztuYyPJ4pcEn_lkdm5EZdF3xCgaWNvts/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY4/NS05ODY4LmpwZWc.jpeg"
     - "https://i.discogs.com/7-JrX9haG6ePQDgycg254nkYiUxSwTfE3tCVUfK0NMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjE5/MS05MzQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/hwCI46_Xuy-H43VZKmJVWu7IxYCUy9S4mk7dF7P3u_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjIw/Ni00NzY4LmpwZWc.jpeg"
     - "https://i.discogs.com/FLB9tS3xG5cfuUtkmFhnnMuLOKjQJ-OR0y6NZP7bEJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjIy/Ny0zMDU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/OunBxw8Tq73OTltvJn_RAWZXoLwZl7a6EzJA46X4DrQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY5/OS0yNDc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/cGgGrLRGvy9FazOLjR7-U81ZYjeMvjJ20Mj-6LtjiwM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MjY5/OS0yNDc0LmpwZWc.jpeg"
     - "https://i.discogs.com/LJOfx3pay7Bzmw9WUPj2Yn3l0L9M2m5_v3zVP9LjtFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjI1/My0zMDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/jEfboNR8dSjsmWacTxaToSg7kh4AVLTCdF0BzpyJK50/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjI3/MS04NjUzLmpwZWc.jpeg"
     - "https://i.discogs.com/qNj5p_BGqJMUrzF85WFbGD8j8H_Xys_YUprpdiPTxJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjI5/My01ODY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/MfscHTYFBlw2vp3kFA43ByhYM8aHiI7lq49Uz4sN8cE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4Mjcx/NC0zMjExLmpwZWc.jpeg"
+    - "https://i.discogs.com/3IBvgKSw-tu0Pu0l10ZjSzzM45bkGQD9-pYgFCSdp30/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4Mjcx/NC0zMjExLmpwZWc.jpeg"
     - "https://i.discogs.com/iYdBg5N0tOQ--0gVGW52iDoHhqLiTwdUBpk7TIgemAY/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4Mjgy/NS0yMjQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/9s6D6M5OHwanI3eroALMdYjvrsemth45LNt1mifUqq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjMz/My05NDk1LmpwZWc.jpeg"
     - "https://i.discogs.com/2uezRJMMfcddx1Boc-v-LvfZdRrwotDG5hHTt-nf4Qw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjM1/MC0xNjkzLmpwZWc.jpeg"
@@ -64,16 +64,15 @@ additional_images:
     - "https://i.discogs.com/2ZbJ9OHyT8Yye3I5l4WupQ2F3aMwqjY6OZAhQDbSch0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MzE3/MS01MTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/BCIsjIfK16v_DVDSqp3itP1u1nmp5F9ma1iBX5H0U4E/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTYxMjA4MzE3/Mi05MTQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/jMDVs1sZSAT6h7TL3h4zA7o25AQB20tz8cZPWxVYIww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjQ4/Ny01NTkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/P8znzr1adZeMHcuOd4kKgLM5cZxcw9glkDE-VfJAvFs/rs:fit/g:sm/q:90/h:729/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjUx/NC02NTM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/MZ5f9-XXQ9QPlwOpL-QR-_-76YYIQ8e_Rs9xwqWHsCQ/rs:fit/g:sm/q:90/h:600/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg2/NTctMTQwMDMzNjUx/NC02NTM5LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Classic Rock", "Pop Rock"]
 ---
 
-Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released on 4 February 1977 by Warner Bros. Records.
-Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut. The recording sessions took place in the aftermath of several relationship breakups among its members in addition to heavy drug use, both of which shaped the album's direction and lyrics.
-Recorded with the intention of making "a pop album" that would expand on the commercial success of their self-titled 1975 album, the music of Rumours is characterized by a mix of electric and acoustic instrumentation, accented rhythms, guitars, and keyboards, while its lyrics concern personal and often troubled relationships. Its release was postponed by delays in the mixing process. Following the album's release, Fleetwood Mac undertook worldwide concert tours. Rumours became the band's first number-one album on the UK Albums Chart and also topped the US Billboard 200. The songs "Go Your Own Way", "Dreams", "Don't Stop", and "You Make Loving Fun" were released as singles, all of which reached the US top 10, with "Dreams" reaching number one.
-Rumours was an instant commercial success, selling over 10 million copies worldwide within just a month of its release. It garnered widespread acclaim from critics, with praise centred on its production quality and vocal harmonies, which frequently relied on the interplay among the band’s three vocalists, and has inspired the work of musical acts in different genres. It won Album of the Year at the 1978 Grammy Awards and  received Diamond certifications in several countries, including the UK, Canada, Australia, and the US, where it was certified 20× Platinum. 
-As of February 2023, Rumours has sold over 40 million copies worldwide, making it the sixth best-selling album of the 1970s, and the 12th best-selling album of all time.Often considered Fleetwood Mac's magnum opus, Rumours has frequently been cited as one of the greatest albums of all time. In 2003, it was inducted into the Grammy Hall of Fame. In 2004, Rumours was remastered and reissued with the addition of "Silver Springs", which had been excluded from the original release, and a bonus CD of outtakes from the recording sessions.  In 2017, it was selected for preservation in the National Recording Registry, being deemed "culturally, historically, or aesthetically significant" by the Library of Congress. In 2020, Rumours was rated the seventh-greatest album of all time in Rolling Stone's list of the "500 Greatest Albums of All Time".
+Rumours is the eleventh studio album by the British-American rock band Fleetwood Mac, released on 4 February 1977, by Warner Bros. Records. Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut. The recording sessions took place as the band members dealt with breakups and struggled with heavy drug usage, both of which shaped the album's direction and lyrics.
+Recorded with the intention of making "a pop album" that would expand on the commercial success of the 1975 album Fleetwood Mac, Rumours contains a mix of electric and acoustic instrumentation, accented rhythms, guitars, and keyboards. Its lyrics concern personal and often troubled relationships. Its release was postponed by delays in the mixing process. The band promoted the album with a worldwide concert tour.
+Rumours became the band's first number-one album on the UK Albums Chart and also topped the US Billboard 200. It received multi-platinum certifications in Australia, Canada, Denmark, New Zealand, the UK, and the US. As of February 2023, Rumours had sold over 40 million copies worldwide, making it one of the best selling albums of all time. All of its four singles—"Go Your Own Way", "Dreams", "Don't Stop", and "You Make Loving Fun"—reached the top 10 on the US Billboard Hot 100, with "Dreams" reaching number one. In 2004, Rumours was remastered and reissued, with the addition of the track "Silver Springs" and outtakes from the recording sessions. 
+The album garnered widespread acclaim from critics, who praised its production quality and the vocal harmonies of the band's three singers, and won Album of the Year at the 1978 Grammy Awards. Often considered Fleetwood Mac's magnum opus and one of the greatest albums of all time, Rumours was inducted to the Grammy Hall of Fame in 2003. The album was selected for preservation in the National Recording Registry in 2017 by the Library of Congress, which deemed it "culturally, historically, or aesthetically significant". In 2020, Rumours ranked seventh in Rolling Stone's list of the "500 Greatest Albums of All Time".
 
 
         
@@ -167,13 +166,24 @@ As of February 2023, Rumours has sold over 40 million copies worldwide, making i
 83. Gold Dust Woman (5:13)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rumours/594061854" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}<br>
 
 
 ## Videos
-### Rumours (Full Album)
-{{< youtube id="uzEt9cATWFw" title="Rumours (Full Album)" >}}<br>
+### Fleetwood Mac - Rumours {Remastered} [Full Album] (HQ)
+{{< youtube id="lrltGatijXc" title="Fleetwood Mac - Rumours {Remastered} [Full Album] (HQ)" >}}<br>
+### More Videos
 
+- [Second Hand News (2004 Remaster)](https://www.youtube.com/watch?v=bLfcwDZ5GzQ)
+- [The Chain (2004 Remaster)](https://www.youtube.com/watch?v=iLC-tHvkNvI)
+- [Dreams (2004 Remaster)](https://www.youtube.com/watch?v=5oWyMakvQew)
+- [Don't Stop (2004 Remaster)](https://www.youtube.com/watch?v=vCSaDQJtblA)
+- [Go Your Own Way (2004 Remaster)](https://www.youtube.com/watch?v=DubafeFeJ7Y)
+- [Songbird (2004 Remaster)](https://www.youtube.com/watch?v=1i8Pntyu-NM)
+- [You Make Loving Fun (2004 Remaster)](https://www.youtube.com/watch?v=WJVWVtHWmAM)
+- [I Don't Want to Know (2004 Remaster)](https://www.youtube.com/watch?v=T2xykVVzzWY)
+- [Oh Daddy (2004 Remaster)](https://www.youtube.com/watch?v=zLAXk8KSxsU)
+- [Gold Dust Woman (2004 Remaster)](https://www.youtube.com/watch?v=EFUAI_tzfgU)
 
 ## Release Images
 {{< imageGrid >}}

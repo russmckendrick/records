@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/OkhXz8gXKF6lNJWQKgnoV-nK5Dmj357hPOUS3WvUSG0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/MTctOTI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/nPdri3xEErVtKi6_nIsjaaCoTEMJ6utKMQeVwxy-EtY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/MTgtMjMxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/pYH6XMCvbopH0VzLqppJGAKgRcajB-rklmLUxdp5_xU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/NTEtNzYwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/GIo_rzZV0zxfxjsEjGpGf8bQaKsd1d3N4RlhgS9Zuqw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/NTEtNzYwMi5qcGVn.jpeg"
     - "https://i.discogs.com/jTXzD7EyVI4EKLwVlwiNtHgCMOboR_-YK37th9M-4jM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/MTgtNzc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/HSLEZHtEejb8x7eWPkHHtmOvIpyFJuJtDfBq2mo1in0/rs:fit/g:sm/q:90/h:360/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/MTgtMjgxNi5qcGVn.jpeg"
     - "https://i.discogs.com/Yrz62D2zcXl2yFCgTtGrijbV-wcK5G0Q4s5apBjYV5Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUw/MTg1LTE3MTUzMzk2/MTgtMjI1Ni5qcGVn.jpeg"

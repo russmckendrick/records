@@ -22,11 +22,16 @@ additional_images:
     - "https://i.discogs.com/eqfqE8V3GYKWkL9hM_7cihQeIpE2U9X2s-xt3IozrZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/MjE2LTE2Njc0OTU2/NDUtNTU4MS5qcGVn.jpeg"
     - "https://i.discogs.com/jNwHQTR8iNuoXNXxn1ye703ZufLRrfGUKZ6qb1g1QD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/MjE2LTE2Njc0OTU2/NDUtODE2MC5qcGVn.jpeg"
     - "https://i.discogs.com/nsk1C9WuaaKY-V1lwc_D5Sj_npY838fqnYW19YJtf30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/MjE2LTE2Njc0OTU2/NDUtNDQ4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/zHfjJAt_Om3fTh8C8d-BauKTXh4VArLM7itrSo3Gies/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/MjE2LTE2Njc0OTU2/NTctOTc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/tBI6V6fxoCBKJmeNCnLzIBV3CiMaM9EhHq8fP3oYh1I/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/MjE2LTE2Njc0OTU2/NTctOTc0NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ---
 
+The Best of Roxy Music is a greatest hits album by English art rock band Roxy Music, released in 2001. The album includes at least one song from all eight of the band's studio albums and all three of their non-album single A-sides. The songs are arranged in reverse chronological order.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -54,10 +59,12 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 
 
 ## Videos
-### Roxy Music - More Than This
-{{< youtube id="kOnde5c7OG8" title="Roxy Music - More Than This" >}}<br>
+### Roxy Music ~ Avalon ~ The Best Of Roxy Music
+{{< youtube id="KPnXxzOU6WY" title="Roxy Music ~ Avalon ~ The Best Of Roxy Music" >}}<br>
 ### More Videos
 
+- [Roxy Music ~ Avalon ~ The Best Of Roxy Music](https://www.youtube.com/watch?v=KPnXxzOU6WY)
+- [Roxy Music - More Than This](https://www.youtube.com/watch?v=kOnde5c7OG8)
 - [Roxy Music - Jealous Guy (Official Video)](https://www.youtube.com/watch?v=hRzGzRqNj58)
 - [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
 - [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
@@ -68,6 +75,7 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_Roxy_Music |
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Half-Speed, 180g) |
 | Label          | Virgin |
 | Catalog Number | RMLPB1 |

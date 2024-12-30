@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/5j-2xJuqmCnDCq5sgaurLrW73VCnMjMW-gQzvKmfyd8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg3/Mi0yMzQwLmpwZWc.jpeg"
     - "https://i.discogs.com/FBTHodd8HX-mSOeOGWDVKDhqgtITj3XFu4JhOiB_MBI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ0NDcxNzI4/My0zMDc5LmpwZWc.jpeg"
     - "https://i.discogs.com/9f6DrxDJ3iBA-mDUPsB_uT_hRPMoNXzV9BzIgMFTMbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/MC0xODg3LmpwZWc.jpeg"
-    - "https://i.discogs.com/3MRNGig66K7meyum-eilrMbQ2b56SNNvDbJrIhd43bA/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDgz/Ny03MDI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/NqAtP8QtO2QYfEbVfBxmZ7MUA1pQI7MTy95Pou_ubmA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/Mi00MzMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/7eXFp2ouhaHapP97VSxfwvbIZBkVjprwlE36KIoSAec/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/Ny05NDU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/NxaKQSx_dFRbdcnpNOVcuFygNbDlIocL1cYwREerr7c/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDgz/Ny03MDI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/u3Jy4zvWTYffBT9xc9DyJgx0ifFtC_UbaiCiPQMBgWk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/Mi00MzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/jYn6b06FhFyYpYIba-AeSlVGhYiQBDwmk13759Yd9Z4/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/Ny05NDU3LmpwZWc.jpeg"
     - "https://i.discogs.com/ojCdWrpebWF8oTKg7sCqDlZvQ7be8krdI3oIBmvUqbE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/NC0yMjczLmpwZWc.jpeg"
     - "https://i.discogs.com/2k5M0BYRlISunG_QopfuiXAIHLFr2uxS1zczML8iD2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg0/MC0yMTIwLmpwZWc.jpeg"
     - "https://i.discogs.com/9uPWGZJvkFaZzffDvkyfbCoyZ2NGjfZv3oLrstJV-tc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY2/NTEtMTQ5Mzc0NDg1/MC02NDY1LmpwZWc.jpeg"
@@ -27,6 +27,8 @@ styles: ["Symphonic Rock", "Psychedelic Rock", "Alternative Rock", "Indie Rock",
 ---
 
 The Soft Bulletin is the ninth studio album by American rock band the Flaming Lips, released by Warner Bros. Records on May 17, 1999, in the United Kingdom, and on June 22, 1999, in the United States. The album was released to widespread acclaim, and was hailed by critics as a departure from their previous guitar-heavy alternative rock sound into a more layered, intricately arranged work.
+
+
     
     
 
@@ -51,12 +53,23 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 
 
 ## Videos
-### Feeling Yourself Disintegrate (2017 Remaster)
-{{< youtube id="XvvGYEjloOg" title="Feeling Yourself Disintegrate (2017 Remaster)" >}}<br>
+### The Flaming Lips - Race For The Prize [Official Music Video]
+{{< youtube id="bs56ygZplQA" title="The Flaming Lips - Race For The Prize [Official Music Video]" >}}<br>
 ### More Videos
 
+- [The Flaming Lips - Waitin' for a Superman [Official Music Video]](https://www.youtube.com/watch?v=o0AOG7ciuJo)
+- [Feeling Yourself Disintegrate (2017 Remaster)](https://www.youtube.com/watch?v=XvvGYEjloOg)
 - [A Spoonful Weighs a Ton (2017 Remaster)](https://www.youtube.com/watch?v=5qVaP7mNphA)
 - [Suddenly Everything Has Changed (2017 Remaster)](https://www.youtube.com/watch?v=uEVbyd-u2X4)
+- [The Spiderbite Song (2017 Remaster)](https://www.youtube.com/watch?v=_Qta162ot5k)
+- [The Observer (2017 Remaster)](https://www.youtube.com/watch?v=MNwWm_9Jz9A)
+- [The Flaming Lips - The Spark That Bled - The Soft Bulletin [1999]](https://www.youtube.com/watch?v=vibWSQZ7qNk)
+- [Flaming Lips "Race for the Prize" LAUNCH live performance 1999](https://www.youtube.com/watch?v=Hw0wZA9JVyk)
+- [The Flaming Lips - Interview (1999)](https://www.youtube.com/watch?v=JpdrIH_1Zb4)
+- [FLAMING LIPS LIVE TV 1999](https://www.youtube.com/watch?v=FHfKwM5vmvw)
+- [The Flaming Lips - Race For the Prize (Live in Los Angeles, 1999)](https://www.youtube.com/watch?v=Hdm9VCiXmp0)
+- [Flaming Lips - Buggin' Vinyl Rip from The Soft Bulletin (1999)](https://www.youtube.com/watch?v=y8TEgXhmDYo)
+- [The Soft Bulletin Medley | Promo for The Flaming Lips (1999)](https://www.youtube.com/watch?v=xeKBILcQlmA)
 
 ## Release Images
 {{< imageGrid >}}
