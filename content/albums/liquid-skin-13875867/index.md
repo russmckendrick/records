@@ -28,7 +28,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Liquid Skin is the second album by English rock band Gomez, released on 13 September 1999 by Hut Records. Following the release of their debut studio album Bring It On (1998), the band began recording its follow-up between August 1998 and June 1999 at Parr Street Studios in Liverpool, and Abbey Road Studios in London. The band were allowed to self-produce the sessions after their label heard the strength of their demos. Described as a blues rock album, Liquid Skin was compared to the work of Beck, the Grateful Dead, and Pearl Jam.
+Liquid Skin is the second album by English rock group Gomez, released on 13 September 1999 by Hut Records. Following the release of their debut studio album Bring It On (1998), the band began recording their follow-up between August 1998 and June 1999 at Parr Street Studios in Liverpool, and Abbey Road Studios in London. Gomez were allowed to self-produce the sessions after their label heard the strength of their demos. Described as a blues rock album, Liquid Skin was compared to the work of Beck, the Grateful Dead, and Pearl Jam.
 Liquid Skin received generally favourable reviews from critics, many of whom found it to be a retread of Bring It On with improved production. Preceded by a two-month tour of the United States, "Bring It On" was released as the lead single from Liquid Skin on 28 June 1999. Gomez appeared at a number of festivals, prior to the release of the album's second single "Rhythm & Blues Alibi" on 30 August 1999. Coinciding with the release of Liquid Skin, the band embarked on tours of the US and the UK, which were then followed by its third single "We Haven't Turned Around" on 8 November 1999. All three singles reached the top 40 of the UK Singles Chart, with "Rhythm & Blues Alibi" peaking the highest at number 18.
     
     
@@ -52,17 +52,17 @@ Liquid Skin received generally favourable reviews from critics, many of whom fou
 
 
 ## Videos
-### Hangover (Remastered 2019)
-{{< youtube id="XPebxxCiZQk" title="Hangover (Remastered 2019)" >}}<br>
+### Gomez - Bring It On
+{{< youtube id="F2vJBaq6zlE" title="Gomez - Bring It On" >}}<br>
 ### More Videos
 
+- [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)
+- [Hangover (Remastered 2019)](https://www.youtube.com/watch?v=XPebxxCiZQk)
 - [Revolutionary Kind](https://www.youtube.com/watch?v=V2nECCy8uEI)
-- [Gomez - Bring It On](https://www.youtube.com/watch?v=F2vJBaq6zlE)
 - [Blue Moon Rising](https://www.youtube.com/watch?v=9jHCwCbRGJg)
 - [Las Vegas Dealer](https://www.youtube.com/watch?v=peX1chFJTpM)
 - [Gomez - We Haven't Turned Around](https://www.youtube.com/watch?v=THI4U3OsDQY)
 - [Fill My Cup](https://www.youtube.com/watch?v=VjnYPEfvyj4)
-- [Gomez - Rhythm And Blues Alibi](https://www.youtube.com/watch?v=gZIhD-dbXQM)
 - [Rosalita](https://www.youtube.com/watch?v=Ag-_dO-za3k)
 - [Gomez - California](https://www.youtube.com/watch?v=6Ago5SAGV3E)
 - [Devil Will Ride](https://www.youtube.com/watch?v=5TYdDX1Fqlc)

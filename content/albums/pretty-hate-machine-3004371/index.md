@@ -4,7 +4,6 @@ artist_name: "Nine Inch Nails"
 artist: "nine-inch-nails"
 album_name: "Pretty Hate Machine"
 date: 2016-06-20T17:49:10.000000Z
-release_date: "1989-10-20"
 release_id: "3004371"
 slug: "pretty-hate-machine-3004371"
 hideSummary: true
@@ -15,18 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/RaZvovHakHD-lgSxpmyRgMUusuj4PSzbJwA-IYfklyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTQyMjUzNTQz/Ni05OTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/stnxPp5672NEWlNZtzkAa9KvlFEcrjNapa3YkBb_9nk/rs:fit/g:sm/q:90/h:500/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTQyMjUzNTQz/My02MzkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/WZaxoYSklZ2Zl7hY-U1oxPFiJy5s4GKIHGEd4zk6tTE/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTU0NjIzNTMz/MS04MDM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/83N1r11n7JqFlHyiIRTtEm2LeAcxylHPN_vCwt8qa7s/rs:fit/g:sm/q:90/h:648/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTU0NjIzNTM3/NS04NDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/FElYN9easCjrNHuB--p9l-q8eRygpIwAhXzpriF7gmY/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTU0NjIzNTMz/MS04MDM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/1KiAAOknaIfp4ZKlH4esV2m30y5tISpMl4KTd6_nz8Y/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQz/NzEtMTU0NjIzNTM3/NS04NDA5LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Industrial", "Synth-pop"]
 ---
 
-Pretty Hate Machine is the debut studio album by American industrial rock band Nine Inch Nails, released by TVT Records on October 20, 1989. Production of the record was handled by NIN frontman 
-Trent Reznor and English producer Flood, among other contributors.
-The album features a heavily synth-driven electronic sound blended with industrial and rock elements. Much like the band's later work, the album's lyrics contain themes of angst, betrayal, and lovesickness. The record was promoted with the singles "Down in It", "Head Like a Hole", and "Sin", as well as the accompanying tour. A remastered edition was released in 2010.
-Although the record was successful, reaching No. 75 in the US and receiving highly favorable reviews from critics, Reznor (the band's only official member until 2016) feuded with TVT over promotion of the album, which led him to eventually sign with Interscope Records. Pretty Hate Machine was later certified triple-platinum by RIAA, becoming one of the first independently released albums to do so, and was included on several lists of the best releases of the 1980s. In 2020, Rolling Stone ranked Pretty Hate Machine at number 453 on its "500 Greatest Albums of All Time" list.
-        
-        
+Pretty Hate Machine is the debut studio album by the American industrial rock band Nine Inch Nails, released by TVT Records on October 20, 1989. Frontman Trent Reznor sang and performed most of the instruments, also producing the album alongside Keith LeBlanc, John Fryer and Flood, with a few other contributors.
+The album features a heavily synthesizer-driven electronic sound blended with industrial and rock elements. Much like the band's later work, the album's lyrics contain themes of angst, betrayal, and lovesickness. The record was promoted with the singles "Down in It", "Head Like a Hole", and "Sin", as well as the accompanying tour. A remastered edition was released in 2010.
+Although the record was successful, reaching No. 75 in the US and receiving highly favorable reviews from critics, Reznor feuded with TVT over promotion of the album and eventually signed with Interscope Records. Pretty Hate Machine was later certified triple-platinum by RIAA, becoming one of the first independently released albums to do so, and was included on several lists of the best releases of the 1980s. In 2020, Rolling Stone ranked Pretty Hate Machine at number 453 on its "500 Greatest Albums of All Time" list.
+
+
+    
     
 
 
@@ -43,7 +42,7 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 10. Ringfinger (5:45)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pretty-hate-machine-remastered/1440940694" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-nine-inch-nails-pretty-hate-machine/990375204" >}}<br>
 
 
 ## Videos
@@ -52,17 +51,17 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 ### More Videos
 
 - [Terrible Lie](https://www.youtube.com/watch?v=rSjPAwsEXMU)
+- [Down In It](https://www.youtube.com/watch?v=uXdIc8TZKcA)
 - [Sanctified](https://www.youtube.com/watch?v=pIyTpWyeYy0)
 - [Something I Can Never Have](https://www.youtube.com/watch?v=AiIu1v988W0)
 - [Kinda I Want To](https://www.youtube.com/watch?v=1UaqcWBtT-o)
 - [Sin](https://www.youtube.com/watch?v=5bwE5IU4pzA)
 - [That's What I Get](https://www.youtube.com/watch?v=l4Cin02QIZE)
 - [The Only Time](https://www.youtube.com/watch?v=EWc00wZWG_k)
-- [Nine Inch Nails - Down In It](https://www.youtube.com/watch?v=QrrEo3hZABU)
 - [Ringfinger](https://www.youtube.com/watch?v=Xbp0qm-x1v8)
 - [N̲ine I̲n̲ch N̲ails - Pretty Hate Machine (Full Album)](https://www.youtube.com/watch?v=9g5KTwlxt_Q)
-- [Nine Inch Nails - Head Like A Hole (Official Video)](https://www.youtube.com/watch?v=ao-Sahfy7Hg)
-- [Sin (remastered) - Nine Inch Nails](https://www.youtube.com/watch?v=OJtro9VK4nQ)
+- [Nine Inch Nails - Head Like A Hole](https://www.youtube.com/watch?v=ao-Sahfy7Hg)
+- [nine inch nails terrible lie lyrics](https://www.youtube.com/watch?v=r6rqCy83EcA)
 
 ## Release Images
 {{< imageGrid >}}

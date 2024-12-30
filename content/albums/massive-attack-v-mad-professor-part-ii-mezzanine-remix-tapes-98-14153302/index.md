@@ -14,12 +14,12 @@ cover:
 additional_images:
     - "https://i.discogs.com/5PXKHA0sdkrkx5UKEw0SE5m-U9SNkVeauG2bMxg5ukE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE2MTMxMDEx/MjYtNDQyOS5qcGVn.jpeg"
     - "https://i.discogs.com/e0GM1GU485WN1F-xNUJnQ8IR-JOxBjVvKfbQWFF_iEw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE2MTMxMDEx/MjYtMjU0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/wiOMyR_m-O6bSU9AZLdHSbU0MQEC4n8yXbiftEuCz7U/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5Nzcz/MjctOTg4My5qcGVn.jpeg"
+    - "https://i.discogs.com/i1-3nyUJ2R2I4vGVKXfz4JlF1uciut-4bPAIkMvV2_o/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5Nzcz/MjctOTg4My5qcGVn.jpeg"
     - "https://i.discogs.com/8EqlNxM4KQDmeYIAqwNE2a0Muii7pGiGh33qO4zLbBw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5Nzcz/MTgtNTkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/UCoW3po2xZcoDAd5sRXMI6uUF8HYZt-HTFNw_CNfjpA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5Nzcz/MDctNjc5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Oozq0uxB7Xf9F3_fFcfIB7kpEbJuv4E5ZhQ-NUsNGb8/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5NzAw/NjctNDE2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/zffsMcz0A4Hz_50mvowqXlGkKl48j2zsxq9ngkc7oM4/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1Njg5NzAw/NjctNDE2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/eqiFM6DI5_I0Xr-P76w80zU4sU02rvOpjfHnBsoD2Zk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE1NzI1NzY0/NjUtNTY3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/F83cOBHdjDzJ7ZBOsLXX7PVXaJLqsi9DT_vnWpdyupw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE2MzAzNTQ3/MDEtNDgwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/8_MDFLZ-NXW_tGABEo1Q92PudYMfxgWdMNo6Riacgt0/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUz/MzAyLTE2MzAzNTQ3/MDEtNDgwNS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Dub", "Trip Hop"]
 ---
@@ -38,7 +38,20 @@ styles: ["Dub", "Trip Hop"]
 
 
 
+## Videos
+### Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | A
+{{< youtube id="iVShA-dLMZw" title="Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | A" >}}<br>
+### More Videos
 
+- [Massive Attack V Mad Professor – Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes) | B](https://www.youtube.com/watch?v=mXmW0800c6Y)
+- [Massive Attack vs. Mad Professor part.2 - metal banshee [Mad Prof mix]](https://www.youtube.com/watch?v=jqeIEOPdsPs)
+- [Angel (Angel Dust)](https://www.youtube.com/watch?v=9fOoKV3x3MA)
+- [Teardrop (Mazaruni Dub One)](https://www.youtube.com/watch?v=OXebv3b39z0)
+- [Inertia Creeps (Floating On Dubwise)](https://www.youtube.com/watch?v=fnIhdDyX97s)
+- [Risingson (Setting Sun Dub Two)](https://www.youtube.com/watch?v=i4Tegd5sTMw)
+- [Exchange (Mountain Steppers Dub)](https://www.youtube.com/watch?v=zjhrr15d5Pk)
+- [Wire (Leaping Dub)](https://www.youtube.com/watch?v=XKciMRLc-54)
+- [Group Four (Security Forces Dub)](https://www.youtube.com/watch?v=WVq9ALeljzw)
 
 ## Release Images
 {{< imageGrid >}}

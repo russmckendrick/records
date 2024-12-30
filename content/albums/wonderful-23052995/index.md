@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/JDv2IgdEdaWCzcP2vWACqyCCtSk8F-Bh_T93BTGDmMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MDgtNzEyMy5qcGVn.jpeg"
     - "https://i.discogs.com/80w-YncdjV-8NF6IdAKCTQbS42MUZH3hZsFBrFmCagE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MTItMTc0My5qcGVn.jpeg"
     - "https://i.discogs.com/hifmqvDi3gSy6fn5rrl8ILuPxw5dO5sRChq59oXpDQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MTYtNjg0My5qcGVn.jpeg"
-    - "https://i.discogs.com/Nfj2djrMl8cjRM4LSbq4QwRtf6Fhm1IVvcH1BmjNqjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MjgtMTYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/qqmB2QLBEBE3Yt-OmmVzoOMx-MHQr88HW8pHQK2EUKw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MjgtMTYxNS5qcGVn.jpeg"
     - "https://i.discogs.com/8nj6y-cIgoSkwCWiUTSTv29HVtQwh52sbYMSeYwyAuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MzQtMTU0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/2hc-x-kcxyZkoyQPDlGiJrIWu6WTRtPNiT0APPiLpVM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MzQtNjU2NC5qcGVn.jpeg"
     - "https://i.discogs.com/9BdYC9eFso3-n8oVJajGCYFDqo3x_SPjfO3f-ZLO-5g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDUy/OTk1LTE2NTEzMjM0/MzYtNDkwMi5qcGVn.jpeg"
@@ -43,7 +43,7 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 11. No Money
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wonderful/1208794317" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/wonderful/1780327241" >}}<br>
 
 
 ## Videos
@@ -59,7 +59,6 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 - [Madness -  If I Didn't Care (Wonderful Track 10)](https://www.youtube.com/watch?v=ISoTiosarYs)
 - [Madness - The Wizard (Wonderful Track 5)](https://www.youtube.com/watch?v=UbqMw5gqbwU)
 - [Madness - Drip Fed Fred (Wonderful Track 6)](https://www.youtube.com/watch?v=_urgVEy5iIc)
-- [Madness - Drip Fed Fred](https://www.youtube.com/watch?v=7JqaGflZIL0)
 - [Madness - Going To The Top (Wonderful Track 7)](https://www.youtube.com/watch?v=dUICCsFgUPg)
 - [Madness - The Communicator (Wonderful Track 3)](https://www.youtube.com/watch?v=QsdlbJWipGc)
 - [Madness - Johnny The Horse (Wonderful Track 2)](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
